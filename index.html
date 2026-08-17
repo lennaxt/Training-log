@@ -150,6 +150,12 @@
   .add{flex:none;width:58px;border:0;background:var(--blue);color:#fff;font-size:26px;font-weight:400;
     cursor:pointer;transition:background .2s}
   .add:active{background:var(--blue-dark)}
+  body.dayB .add{background:var(--green)}
+  body.dayB .add:active{background:var(--green-dark)}
+  body.dayB .chip.pr{border-color:var(--green-lite);background:var(--paper-2)}
+  body.dayB .chip.pr b{color:var(--green)}
+  body.dayB button:focus-visible,body.dayB select:focus-visible,body.dayB input:focus-visible{outline-color:var(--green)}
+  body.dayB .field .row button:active{color:var(--green)}
 
   /* ── Eigene Übung ── */
   .newrow{display:grid;grid-template-columns:34px 1fr auto;gap:16px;align-items:baseline;width:100%;
@@ -164,6 +170,19 @@
     text-transform:uppercase;color:var(--ink-soft);cursor:pointer;padding:0}
   .rmline button:active{color:var(--blue)}
   .tag{font-size:10.5px;font-weight:600;letter-spacing:0.13em;text-transform:uppercase;color:var(--sand)}
+  .edit-btn{background:none;border:0;font-size:11px;font-weight:600;letter-spacing:0.14em;
+    text-transform:uppercase;color:var(--ink-soft);cursor:pointer;padding:2px 0;opacity:0;transition:.2s}
+  .ex-head:hover .edit-btn,.ex-head:active .edit-btn{opacity:.45}
+  .edit-btn:active{color:var(--blue);opacity:1}
+  @media (hover:none){.edit-btn{opacity:.25}}
+  .edit-form{display:grid;gap:8px;padding:4px 0 6px}
+  .edit-form .field{padding:8px 10px}
+  .edit-form .edit-actions{display:flex;gap:10px;align-items:center}
+  .edit-form .save-btn{background:var(--ink);color:#fff;border:0;padding:10px 20px;font-size:13px;
+    font-weight:600;cursor:pointer;transition:.2s}
+  .edit-form .save-btn:active{background:#1A1A18}
+  .edit-form .cancel-btn{background:none;border:0;font-size:12px;font-weight:600;letter-spacing:0.12em;
+    text-transform:uppercase;color:var(--ink-soft);cursor:pointer}
 
   /* ── Wischen zum Löschen ── */
   .swipe{position:relative;overflow:hidden;touch-action:pan-y}
@@ -212,16 +231,17 @@
   .picker select{width:100%;-webkit-appearance:none;appearance:none;background:none;border:0;
     font-family:'Fraunces',serif;font-weight:500;font-size:23px;letter-spacing:-0.01em;
     padding:0 30px 16px 0;cursor:pointer}
+  .picker select:focus-visible{outline-color:#7E5920}
   .picker::after{content:"";position:absolute;right:4px;top:8px;width:9px;height:9px;
-    border-right:1.5px solid var(--blue);border-bottom:1.5px solid var(--blue);transform:rotate(45deg);pointer-events:none}
+    border-right:1.5px solid #A8803A;border-bottom:1.5px solid #A8803A;transform:rotate(45deg);pointer-events:none}
   .readout{display:flex;align-items:flex-end;justify-content:space-between;margin-bottom:28px}
-  .readout .cur b{font-family:'Fraunces',serif;font-weight:500;font-size:56px;color:var(--blue);line-height:.9}
+  .readout .cur b{font-family:'Fraunces',serif;font-weight:500;font-size:56px;color:#7E5920;line-height:.9}
   .readout .cur .u{font-size:17px;color:var(--ink-soft);margin-left:5px}
   .readout .cur span{font-size:12px;color:var(--ink-soft);display:block;margin-top:9px;
     letter-spacing:0.13em;text-transform:uppercase;font-weight:600}
   .readout .pr{text-align:right}
-  .readout .pr b{font-family:'Fraunces',serif;font-weight:500;font-size:26px;color:#C97E12;line-height:1}
-  .readout .pr span{font-size:11px;color:#C97E12;display:block;margin-top:7px;
+  .readout .pr b{font-family:'Fraunces',serif;font-weight:500;font-size:26px;color:#A8803A;line-height:1}
+  .readout .pr span{font-size:11px;color:#A8803A;display:block;margin-top:7px;
     letter-spacing:0.13em;text-transform:uppercase;font-weight:600}
   .chartbox{border-top:1px solid var(--line);padding-top:24px}
   svg.spark{width:100%;height:150px;display:block;overflow:visible}
@@ -315,7 +335,7 @@ const PLAN={
 const KEY="trainingslog_v3";
 let store=load(),warned=false;
 function load(){
-  let s={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{}};
+  let s={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{}};
   try{const r=localStorage.getItem(KEY);if(r)s=Object.assign(s,JSON.parse(r))}catch(e){}
   if(!s.custom)s.custom={A:[],B:[]};
   if(!s.custom.A)s.custom.A=[];
@@ -324,21 +344,35 @@ function load(){
   if(!s.hidden.A)s.hidden.A=[];
   if(!s.hidden.B)s.hidden.B=[];
   if(!s.names)s.names={};
+  if(!s.schemes)s.schemes={};
   return s;
 }
-function save(){try{localStorage.setItem(KEY,JSON.stringify(store))}catch(e){
-  if(!warned){warned=true;toast("Hinweis","Speicher blockiert — in Safari auf dem iPhone funktioniert es")}}}
+function save(){
+  store._ts=Date.now();
+  try{localStorage.setItem(KEY,JSON.stringify(store))}catch(e){
+  if(!warned){warned=true;toast("Hinweis","Speicher blockiert — in Safari auf dem iPhone funktioniert es")}}
+  if(window._cloudSave)window._cloudSave();
+}
 
 /* ── Übungsverzeichnis ── */
 function planFor(day){
   return PLAN[day].ex.concat(store.custom[day]||[]).filter(e=>!(store.hidden[day]||[]).includes(e.id));
 }
 function exName(id){
+  if(store.names[id])return store.names[id];
   for(const d of["A","B"]){
     const f=PLAN[d].ex.concat(store.custom[d]||[]).find(e=>e.id===id);
     if(f)return f.name;
   }
-  return store.names[id]||id;
+  return id;
+}
+function exScheme(id){
+  if(store.schemes[id])return store.schemes[id];
+  for(const d of["A","B"]){
+    const f=PLAN[d].ex.concat(store.custom[d]||[]).find(e=>e.id===id);
+    if(f)return f.scheme;
+  }
+  return"";
 }
 function allIds(){
   const s=new Set();
@@ -348,7 +382,7 @@ function allIds(){
 }
 
 /* ── Hilfen ── */
-let tab="train",openEx=null,draft={},progSel=null,newOpen=false,newName="",newScheme="",dayPick=null;
+let tab="train",openEx=null,draft={},progSel=null,newOpen=false,newName="",newScheme="",dayPick=null,editEx=null;
 const fD=t=>new Date(t).toLocaleDateString("de-DE",{day:"2-digit",month:"short"});
 const fFull=t=>new Date(t).toLocaleDateString("de-DE",{weekday:"long",day:"2-digit",month:"long"});
 const fT=t=>new Date(t).toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"});
@@ -409,13 +443,24 @@ function renderTrain(){
     const last=lastFor(e.id),own=!!e.own;
     if(!draft[e.id])draft[e.id]={kg:last?last.kg:20,reps:last?last.reps:8};
     const dr=draft[e.id];
+    const eName=exName(e.id),eScheme=exScheme(e.id)||e.scheme;
     h+=`<div class="swipe">
       <button class="swipe-del" onclick="delExercise('${day}','${e.id}')">Löschen</button>
       <div class="swipe-body ex ${openEx===e.id?'open':''} ${lg.length?'filled':''}">
       <div class="ex-head" onclick="toggleEx('${e.id}')">
         <div class="ex-num" style="color:${day==="A"?(i%2?'var(--glow)':'var(--earth)'):(i%2?'var(--green-lite)':'var(--green)')}">${String(i+1).padStart(2,"0")}</div>
-        <div class="ex-info"><h3>${esc(e.name)}</h3>
-          <div class="ex-meta">${own?'<span class="tag">Eigene</span> &nbsp;·&nbsp; ':''}${esc(e.scheme)}${last?` &nbsp;·&nbsp; <span class="last" style="color:${day==="A"?'var(--earth)':'var(--green-lite)'}">zuletzt ${last.kg} kg × ${last.reps}</span>`:''}</div></div>
+        <div class="ex-info">${editEx===e.id?`
+          <div class="edit-form" onclick="event.stopPropagation()">
+            <div class="field stack"><div class="cap" style="text-align:left">Name</div>
+              <input class="txt" id="editName" type="text" value="${esc(eName)}"></div>
+            <div class="field stack"><div class="cap" style="text-align:left">Schema</div>
+              <input class="txt" id="editScheme" type="text" value="${esc(eScheme)}"></div>
+            <div class="edit-actions">
+              <button class="save-btn" onclick="saveEdit('${e.id}')">Speichern</button>
+              <button class="cancel-btn" onclick="cancelEdit()">Abbrechen</button>
+            </div>
+          </div>`:`<h3>${esc(eName)}</h3>
+          <div class="ex-meta">${own?'<span class="tag">Eigene</span> &nbsp;·&nbsp; ':''}${esc(eScheme)}${last?` &nbsp;·&nbsp; <span class="last" style="color:${day==="A"?'var(--earth)':'var(--green-lite)'}">zuletzt ${last.kg} kg × ${last.reps}</span>`:''}&nbsp;&nbsp;<button class="edit-btn" onclick="event.stopPropagation();startEdit('${e.id}')">Bearbeiten</button></div>`}</div>
         <div class="ex-count">${lg.length}</div>
       </div>
       <div class="ex-body"><div class="ex-inner">
@@ -440,7 +485,7 @@ function renderTrain(){
     h+=`<button class="newrow" onclick="openNew()">
       <span class="ex-num" style="color:${day==="A"?'var(--earth)':'var(--green-lite)'}">+</span>
       <span><h3 style="color:${day==="A"?'var(--earth)':'var(--green-lite)'}">Eigene Übung hinzufügen</h3>
-      <span class="ex-meta">Bleibt dauerhaft in Tag ${day} gespeichert</span></span>
+      </span>
       <span class="ex-count"></span></button>`;
   }else{
     h+=`<div class="newform">
@@ -487,6 +532,17 @@ function removeSet(id,si){store.active.log[id].splice(si,1);
 /* ── Eigene Übungen ── */
 function openNew(){newOpen=true;newName="";newScheme="";renderTrain()}
 function closeNew(){newOpen=false;newName="";newScheme="";renderTrain()}
+function startEdit(id){editEx=id;openEx=null;renderTrain();
+  const f=document.getElementById("editName");if(f)f.focus()}
+function cancelEdit(){editEx=null;renderTrain()}
+function saveEdit(id){
+  const n=(document.getElementById("editName")||{}).value||"";
+  const s=(document.getElementById("editScheme")||{}).value||"";
+  if(!n.trim()){toast("Name fehlt","Gib der Übung einen Namen");return}
+  store.names[id]=n.trim();
+  store.schemes[id]=s.trim();
+  save();editEx=null;renderTrain();
+  toast("Gespeichert",`${n.trim()} aktualisiert`)}
 function saveCustom(day){
   const name=newName.trim();
   if(!name){toast("Name fehlt","Gib der Übung einen Namen, dann wird sie gespeichert");return}
@@ -567,14 +623,14 @@ function chart(id){
   const line=pts.map((a,i)=>(i?"L":"M")+sx(a.ts).toFixed(1)+" "+sy(a.kg).toFixed(1)).join(" ");
   const area=`M${sx(x0).toFixed(1)} ${H-p} `+pts.map(a=>`L${sx(a.ts).toFixed(1)} ${sy(a.kg).toFixed(1)}`).join(" ")+` L${sx(x1).toFixed(1)} ${H-p} Z`;
   const dots=pts.map(a=>`<circle cx="${sx(a.ts).toFixed(1)}" cy="${sy(a.kg).toFixed(1)}" r="3"
-    fill="${a.kg>=pr?'#FFA737':'#DC851F'}"/>`).join("");
+    fill="${a.kg>=pr?'#A8803A':'#7E5920'}"/>`).join("");
   m.innerHTML=head+`<div class="chartbox">
     <svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
       <defs><linearGradient id="ag" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0" stop-color="#DC851F" stop-opacity=".18"/><stop offset="1" stop-color="#FFA737" stop-opacity="0"/>
+        <stop offset="0" stop-color="#7E5920" stop-opacity=".18"/><stop offset="1" stop-color="#A8803A" stop-opacity="0"/>
       </linearGradient>
       <linearGradient id="lg" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0" stop-color="#DC851F"/><stop offset="1" stop-color="#FFA737"/>
+        <stop offset="0" stop-color="#5C3F12"/><stop offset="1" stop-color="#A8803A"/>
       </linearGradient></defs>
       <path d="${area}" fill="url(#ag)"/>
       <path d="${line}" fill="none" stroke="url(#lg)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
@@ -629,6 +685,46 @@ function toast(k,v){const t=document.getElementById("toast");
   t.classList.add("show");clearTimeout(tT);tT=setTimeout(()=>t.classList.remove("show"),2600)}
 
 render();
+</script>
+
+<script type="module">
+import{initializeApp}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-app.js";
+import{getFirestore,doc,getDoc,setDoc}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-firestore.js";
+
+const fb=initializeApp({
+  apiKey:"AIzaSyBFew0s1dbJzdAmmVh2b34Eau3LZFHowa8",
+  authDomain:"trainingslog-0611.firebaseapp.com",
+  projectId:"trainingslog-0611",
+  storageBucket:"trainingslog-0611.firebasestorage.app",
+  messagingSenderId:"244745209928",
+  appId:"1:244745209928:web:74a95a4603a5b5c399b07d"
+});
+const db=getFirestore(fb);
+const USER="lennart";
+const REF=doc(db,"users",USER);
+
+async function cloudSave(){
+  try{await setDoc(REF,{data:JSON.parse(localStorage.getItem("trainingslog_v3")||"{}"),ts:Date.now()});
+  }catch(e){console.warn("Cloud-Save fehlgeschlagen:",e)}
+}
+
+async function cloudLoad(){
+  try{
+    const snap=await getDoc(REF);
+    if(!snap.exists())return;
+    const cloud=snap.data();
+    const local=JSON.parse(localStorage.getItem("trainingslog_v3")||"{}");
+    const localTs=local._ts||0;
+    if(cloud.ts>localTs){
+      localStorage.setItem("trainingslog_v3",JSON.stringify(cloud.data));
+      store=load();render();
+      toast("Cloud-Sync","Daten aus der Cloud geladen");
+    }
+  }catch(e){console.warn("Cloud-Load fehlgeschlagen:",e)}
+}
+
+window._cloudSave=cloudSave;
+cloudLoad();
 </script>
 </body>
 </html>
