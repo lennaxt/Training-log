@@ -5,23 +5,29 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
-<meta name="theme-color" content="#FAF8F4">
+<meta name="theme-color" content="#FFFFFF">
 <title>Trainingslog</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
   :root{
-    --blue:#356A94;
-    --blue-dark:#274F73;
-    --blue-deep:#1C3A55;
-    --sand:#B89A6A;
-    --clay:#9C4A3C;
-    --paper:#FAF8F4;
-    --paper-2:#F2EEE6;
-    --ink:#1A2024;
-    --ink-soft:#4A5258;
-    --line:rgba(26,32,36,0.12);
+    --earth:#DC851F;
+    --glow:#FFA737;
+    --green:#5C6B33;
+    --green-dark:#455123;
+    --green-lite:#82914E;
+    --blue:#DC851F;
+    --blue-dark:#C46E12;
+    --blue-deep:#DC851F;
+    --sand:#DC851F;
+    --khaki:#FFA737;
+    --clay:#DC851F;
+    --paper:#FFFFFF;
+    --paper-2:#FBF4EA;
+    --ink:#343330;
+    --ink-soft:#7A7871;
+    --line:rgba(52,51,48,0.12);
     --line-light:rgba(255,255,255,0.16);
     --top:env(safe-area-inset-top,0px);
     --bot:env(safe-area-inset-bottom,0px);
@@ -38,19 +44,20 @@
   .wrap{max-width:560px;margin:0 auto;padding:calc(var(--top) + 26px) 22px calc(var(--bot) + 110px)}
 
   .eyebrow{
-    font-size:11.5px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:var(--blue);
+    font-size:11.5px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#8A8983;
     display:flex;align-items:center;gap:11px;
   }
-  .eyebrow::before{content:"";width:24px;height:1.5px;background:var(--sand);flex:none}
+  .eyebrow::before{content:"";width:24px;height:2px;background:#8A8983;flex:none}
   .eyebrow.plain::before{display:none}
 
   /* ── Kopf ── */
   .head{display:flex;align-items:center;justify-content:space-between;
         padding-bottom:22px;border-bottom:1px solid var(--line);margin-bottom:34px}
   .brand{display:flex;align-items:center;gap:13px}
-  .mark{width:42px;height:42px;background:var(--blue);color:#fff;flex:none;
-    display:flex;align-items:center;justify-content:center;
+  .mark{width:42px;height:42px;background:var(--green);color:#fff;flex:none;
+    display:flex;align-items:center;justify-content:center;transition:background .25s;
     font-family:'Fraunces',serif;font-weight:600;font-size:16px;letter-spacing:-0.02em}
+  body.dayB .mark{background:linear-gradient(140deg,var(--earth),var(--glow))}
   .brand-text strong{font-family:'Fraunces',serif;font-weight:500;font-size:18px;display:block;line-height:1.2}
   .brand-text span{font-size:10px;letter-spacing:0.14em;text-transform:uppercase;color:var(--ink-soft);font-weight:500}
   .stamp{text-align:right;line-height:1.3}
@@ -60,9 +67,11 @@
   /* ── Hero ── */
   .hero{display:grid;grid-template-columns:auto 1fr;gap:26px;align-items:end;margin-bottom:34px}
   .hero-letter{font-family:'Fraunces',serif;font-weight:500;font-size:92px;line-height:.78;
-    letter-spacing:-0.04em;color:var(--blue);background:none;border:0;padding:0;cursor:pointer;
-    display:block;transition:opacity .2s}
+    letter-spacing:-0.04em;color:var(--green);background:none;
+    border:0;padding:0;cursor:pointer;display:block;transition:opacity .2s}
   .hero-letter:active{opacity:.55}
+  .hero.dayB .hero-letter{background:linear-gradient(150deg,var(--earth),var(--glow));
+    -webkit-background-clip:text;background-clip:text;color:transparent}
   .hero-side{padding-bottom:6px}
   .hero-side h1{font-size:24px;margin-top:14px}
 
@@ -70,7 +79,7 @@
     border-bottom:1px solid var(--line);margin-bottom:34px}
   .stat{padding:20px 0}
   .stat + .stat{padding-left:20px;border-left:1px solid var(--line)}
-  .stat b{font-family:'Fraunces',serif;font-weight:500;font-size:34px;color:var(--blue);display:block;line-height:1}
+  .stat b{font-family:'Fraunces',serif;font-weight:500;font-size:34px;color:var(--ink);display:block;line-height:1}
   .stat span{font-size:12px;color:var(--ink-soft);margin-top:6px;display:block;line-height:1.35}
 
   /* ── Tabs ── */
@@ -78,8 +87,9 @@
   .tabs button{background:none;border:0;padding:0 0 14px;cursor:pointer;position:relative;
     font-size:12px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;
     color:var(--ink-soft);transition:color .2s}
-  .tabs button.on{color:var(--blue)}
-  .tabs button.on::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:2px;background:var(--blue)}
+  .tabs button.on{color:#4A4945}
+  .tabs button.on::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:2px;background:linear-gradient(90deg,var(--earth),var(--glow))}
+  body.dayB .tabs button.on::after{background:linear-gradient(90deg,var(--green),var(--green-lite))}
 
   /* ── Tageswahl ── */
   .daypick{border-top:1px solid var(--line)}
@@ -88,12 +98,11 @@
     text-align:left;transition:padding-left .3s}
   .dayrow:hover,.dayrow:active{padding-left:14px}
   .dayrow .n{font-family:'Fraunces',serif;font-size:38px;font-weight:500;color:var(--sand);line-height:.8}
-  .dayrow.rec .n{color:var(--blue)}
+
   .dayrow h3{font-size:23px}
   .dayrow .m{font-size:14px;color:var(--ink-soft);line-height:1.5;margin-top:2px}
   .dayrow .arrow{width:40px;height:40px;border:1.5px solid var(--line);border-radius:50%;
-    display:flex;align-items:center;justify-content:center;transition:.25s;flex:none;font-size:15px}
-  .dayrow.rec .arrow{background:var(--blue);border-color:var(--blue);color:#fff}
+    display:flex;align-items:center;justify-content:center;transition:.25s;flex:none;font-size:15px;color:var(--ink)}
 
   /* ── Übungsliste ── */
   .list{border-top:1px solid var(--line)}
@@ -101,7 +110,7 @@
   .ex-head{display:grid;grid-template-columns:34px 1fr auto;gap:16px;align-items:baseline;
     padding:26px 0;cursor:pointer;transition:padding-left .3s}
   .ex.open .ex-head,.ex-head:hover{padding-left:12px}
-  .ex-num{font-family:'Fraunces',serif;font-size:15px;font-weight:500;color:var(--sand)}
+  .ex-num{font-family:'Fraunces',serif;font-size:15px;font-weight:500;color:var(--khaki)}
   .ex.filled .ex-num{color:var(--blue)}
   .ex-info{min-width:0}
   .ex-info h3{font-size:19px;line-height:1.25}
@@ -119,8 +128,8 @@
     background:#fff;padding:9px 13px;font-size:14px;cursor:pointer;transition:.2s}
   .chip b{font-family:'Fraunces',serif;font-weight:500;font-size:16px}
   .chip .u{font-size:12px;color:var(--ink-soft)}
-  .chip.pr{border-color:var(--sand);background:var(--paper-2)}
-  .chip.pr b{color:var(--sand)}
+  .chip.pr{border-color:var(--glow);background:var(--paper-2)}
+  .chip.pr b{color:#C97E12}
   .chip.pop{animation:pop .3s ease}
   @keyframes pop{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 
@@ -161,7 +170,7 @@
   .swipe-del{position:absolute;top:0;right:0;bottom:0;width:104px;border:0;background:var(--clay);
     color:#fff;font-size:11.5px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;
     cursor:pointer;display:flex;align-items:center;justify-content:center}
-  .swipe-del:active{background:#8A3F33}
+  .swipe-del:active{background:#C46E12}
   .swipe-body{position:relative;background:var(--paper);transition:transform .26s ease;will-change:transform}
   .swipe.open .swipe-body{transform:translateX(-104px)}
   .swipe.drag .swipe-body{transition:none}
@@ -170,7 +179,7 @@
   .finishbar{position:fixed;left:0;right:0;bottom:0;z-index:50;padding:16px 22px calc(var(--bot) + 16px);
     background:linear-gradient(to top,var(--paper) 62%,rgba(250,248,244,0));pointer-events:none}
   .finishbar .in{max-width:560px;margin:0 auto;pointer-events:auto}
-  .btn-primary{width:100%;background:var(--blue);color:#fff;border:0;padding:18px;font-weight:600;font-size:15px;
+  .btn-primary{width:100%;background:linear-gradient(120deg,var(--earth),var(--glow));color:#fff;border:0;padding:18px;font-weight:600;font-size:15px;
     cursor:pointer;transition:background .2s;display:flex;align-items:center;justify-content:center;gap:12px}
   .btn-primary:active{background:var(--blue-dark)}
   .btn-primary .n{font-family:'Fraunces',serif;font-weight:400;opacity:.75}
@@ -211,8 +220,8 @@
   .readout .cur span{font-size:12px;color:var(--ink-soft);display:block;margin-top:9px;
     letter-spacing:0.13em;text-transform:uppercase;font-weight:600}
   .readout .pr{text-align:right}
-  .readout .pr b{font-family:'Fraunces',serif;font-weight:500;font-size:26px;color:var(--sand);line-height:1}
-  .readout .pr span{font-size:11px;color:var(--sand);display:block;margin-top:7px;
+  .readout .pr b{font-family:'Fraunces',serif;font-weight:500;font-size:26px;color:#C97E12;line-height:1}
+  .readout .pr span{font-size:11px;color:#C97E12;display:block;margin-top:7px;
     letter-spacing:0.13em;text-transform:uppercase;font-weight:600}
   .chartbox{border-top:1px solid var(--line);padding-top:24px}
   svg.spark{width:100%;height:150px;display:block;overflow:visible}
@@ -226,12 +235,12 @@
 
   /* ── Hinweis ── */
   .toast{position:fixed;left:22px;right:22px;top:calc(var(--top) + 18px);z-index:80;max-width:516px;margin:0 auto;
-    background:var(--blue-deep);color:#fff;padding:16px 20px;border-left:3px solid var(--sand);
+    background:var(--ink);color:#fff;padding:16px 20px;border-left:3px solid var(--blue);
     opacity:0;transform:translateY(-16px);transition:.3s;pointer-events:none;
-    box-shadow:0 18px 40px rgba(28,58,85,0.18)}
+    box-shadow:0 18px 40px rgba(52,51,48,0.20)}
   .toast.show{opacity:1;transform:none}
   .toast .k{font-size:10.5px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;
-    color:var(--sand);display:block;margin-bottom:4px}
+    color:var(--blue);display:block;margin-bottom:4px}
   .toast .v{font-family:'Fraunces',serif;font-size:16px;font-weight:500;line-height:1.3}
 
   @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
@@ -348,7 +357,7 @@ function nextDay(){
   for(let i=store.sessions.length-1;i>=0;i--){if(store.sessions[i].day)return store.sessions[i].day==="A"?"B":"A"}
   return"A"}
 function toggleDay(){
-  const cur=store.active?store.active.day:nextDay();
+  const cur=store.active?store.active.day:(dayPick||nextDay());
   const to=cur==="A"?"B":"A";
   if(store.active){store.active.day=to;save()}else{dayPick=to}
   openEx=null;newOpen=false;render()}
@@ -365,8 +374,10 @@ function paintTop(){
   const n=new Date();
   document.getElementById("stampDate").textContent=n.toLocaleDateString("de-DE",{day:"2-digit",month:"2-digit",year:"numeric"});
   document.getElementById("stampDay").textContent=n.toLocaleDateString("de-DE",{weekday:"long"});
-  const d=store.active?store.active.day:nextDay();
+  const d=store.active?store.active.day:(dayPick||nextDay());
   document.getElementById("heroLetter").textContent=d;
+  document.querySelector(".hero").classList.toggle("dayB",d==="B");
+  document.body.classList.toggle("dayB",d==="B");
   document.getElementById("heroEye").textContent=store.active?"Aktive Einheit":"Nächste Einheit";
   document.getElementById("heroLabel").textContent=PLAN[d].label;
   const tv=store.sessions.reduce((a,s)=>a+vol(s),0);
@@ -386,30 +397,23 @@ function render(){paintTop();
   if(store.active)paintFinish()}
 
 /* ── Training ── */
-function startSession(d){store.active={day:d,ts:Date.now(),log:{}};save();dayPick=null;openEx=null;newOpen=false;render()}
+
 function renderTrain(){
   const v=document.getElementById("viewTrain");
-  if(!store.active){
-    const nd=nextDay();
-    v.innerHTML=`<div class="eyebrow" style="margin-bottom:18px">Einheit starten</div>
-      <div class="daypick">${["A","B"].map(d=>`
-        <button class="dayrow ${d===nd?'rec':''}" onclick="startSession('${d}')">
-          <span class="n">${d}</span>
-          <span><h3>Tag ${d}</h3><span class="m">${PLAN[d].label} · ${planFor(d).length} Übungen</span></span>
-          <span class="arrow">→</span>
-        </button>`).join("")}</div>`;
-    return}
-  const day=store.active.day,prs=prMap(),ex=planFor(day);
+  // Zeigt immer sofort Übungen — session startet lazy beim ersten Satz
+  const day=store.active?store.active.day:(dayPick||nextDay());
+  const prs=prMap(),ex=planFor(day);
   let h=`<div class="eyebrow" style="margin-bottom:18px">Tag ${day} · ${PLAN[day].label}</div><div class="list">`;
   ex.forEach((e,i)=>{
-    const lg=store.active.log[e.id]||[],last=lastFor(e.id),own=!!e.own;
+    const lg=store.active?store.active.log[e.id]||[]:[];
+    const last=lastFor(e.id),own=!!e.own;
     if(!draft[e.id])draft[e.id]={kg:last?last.kg:20,reps:last?last.reps:8};
     const dr=draft[e.id];
     h+=`<div class="swipe">
       <button class="swipe-del" onclick="delExercise('${day}','${e.id}')">Löschen</button>
       <div class="swipe-body ex ${openEx===e.id?'open':''} ${lg.length?'filled':''}">
       <div class="ex-head" onclick="toggleEx('${e.id}')">
-        <div class="ex-num">${String(i+1).padStart(2,"0")}</div>
+        <div class="ex-num" style="color:${day==="A"?(i%2?'var(--glow)':'var(--earth)'):(i%2?'var(--green-lite)':'var(--green)')}">${String(i+1).padStart(2,"0")}</div>
         <div class="ex-info"><h3>${esc(e.name)}</h3>
           <div class="ex-meta">${own?'<span class="tag">Eigene</span> &nbsp;·&nbsp; ':''}${esc(e.scheme)}${last?` &nbsp;·&nbsp; <span class="last">zuletzt ${last.kg} kg × ${last.reps}</span>`:''}</div></div>
         <div class="ex-count">${lg.length}</div>
@@ -463,6 +467,12 @@ function toggleEx(id){if(justSwiped())return;openEx=openEx===id?null:id;renderTr
 function setDraft(id,f,v){const n=parseFloat(String(v).replace(",","."));if(!isNaN(n))draft[id][f]=Math.max(0,n)}
 function step(id,f,d){draft[id][f]=Math.max(0,Math.round((draft[id][f]+d)*10)/10);openEx=id;renderTrain()}
 function addSet(id){const dr=draft[id];if(dr.reps<=0)return;
+  // Lazy start: Session erst beim ersten Satz anlegen
+  if(!store.active){
+    const day=dayPick||nextDay();
+    store.active={day,ts:Date.now(),log:{}};
+    dayPick=null;
+  }
   const prev=prMap()[id];
   if(!store.active.log[id])store.active.log[id]=[];
   store.active.log[id].push({kg:dr.kg,reps:Math.round(dr.reps)});
@@ -503,7 +513,7 @@ function paintFinish(){const s=document.getElementById("finishSlot");
   let n=0;for(const id in store.active.log)n+=store.active.log[id].length;
   if(!n)s.innerHTML=`<button class="btn-ghost" onclick="discard()">Einheit verwerfen</button>`;
   else s.innerHTML=`<button class="btn-primary" onclick="finish()">Einheit abschließen <span class="n">${n} Sätze</span></button>`}
-function discard(){store.active=null;save();openEx=null;newOpen=false;render()}
+function discard(){store.active=null;save();openEx=null;newOpen=false;dayPick=null;render()}
 function finish(){let n=0;for(const id in store.active.log)n+=store.active.log[id].length;
   if(!n){discard();return}
   store.active.done=Date.now();store.sessions.push(store.active);
@@ -522,7 +532,7 @@ function renderHist(){const v=document.getElementById("viewHist");
     h+=`<div class="swipe">
       <button class="swipe-del" onclick="delSession(${s.ts})">Löschen</button>
       <div class="swipe-body sess ${i===0?'sess-first':''}"><div class="sess-top">
-      <div class="sess-badge">${s.day}</div>
+      <div class="sess-badge" style="color:${s.day==="A"?'var(--green)':'var(--earth)'}">${s.day}</div>
       <div class="sess-date"><h3>${fFull(s.ts)}</h3><span>${fT(s.ts)} Uhr</span></div>
       <div class="sess-vol"><b>${(vol(s)/1000).toFixed(1)}t</b><span>Volumen</span></div>
     </div>${lines}</div></div>`});
@@ -555,14 +565,17 @@ function chart(id){
   const line=pts.map((a,i)=>(i?"L":"M")+sx(a.ts).toFixed(1)+" "+sy(a.kg).toFixed(1)).join(" ");
   const area=`M${sx(x0).toFixed(1)} ${H-p} `+pts.map(a=>`L${sx(a.ts).toFixed(1)} ${sy(a.kg).toFixed(1)}`).join(" ")+` L${sx(x1).toFixed(1)} ${H-p} Z`;
   const dots=pts.map(a=>`<circle cx="${sx(a.ts).toFixed(1)}" cy="${sy(a.kg).toFixed(1)}" r="3"
-    fill="${a.kg>=pr?'#B89A6A':'#356A94'}"/>`).join("");
+    fill="${a.kg>=pr?'#FFA737':'#DC851F'}"/>`).join("");
   m.innerHTML=head+`<div class="chartbox">
     <svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
       <defs><linearGradient id="ag" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0" stop-color="#356A94" stop-opacity=".16"/><stop offset="1" stop-color="#356A94" stop-opacity="0"/>
+        <stop offset="0" stop-color="#DC851F" stop-opacity=".18"/><stop offset="1" stop-color="#FFA737" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="lg" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#DC851F"/><stop offset="1" stop-color="#FFA737"/>
       </linearGradient></defs>
       <path d="${area}" fill="url(#ag)"/>
-      <path d="${line}" fill="none" stroke="#356A94" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="${line}" fill="none" stroke="url(#lg)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
       ${dots}</svg>
     <div class="axis"><span>${fD(x0)}</span><span>${pts.length} Einheiten</span><span>${fD(x1)}</span></div>
   </div>`}
