@@ -50,6 +50,31 @@
   .eyebrow::before{content:"";width:24px;height:2px;background:#8A8983;flex:none}
   .eyebrow.plain::before{display:none}
 
+  .brand-link{background:none;border:none;padding:0;font:inherit;color:#8A8983;text-decoration:none;cursor:pointer;transition:color .2s}
+  .brand-link.on{color:var(--ink);font-weight:600}
+
+  .plan-overlay{position:fixed;inset:0;background:var(--paper);z-index:900;overflow-y:auto;opacity:0;pointer-events:none;transition:opacity .2s;display:flex;flex-direction:column}
+  .plan-overlay.open{opacity:1;pointer-events:auto}
+  .plan-sheet{width:100%;max-width:560px;margin:0 auto;padding:calc(var(--top) + 26px) 22px calc(var(--bot) + 40px);flex:1;display:flex;flex-direction:column}
+  .plan-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:40px}
+  .plan-close{background:none;border:none;font-size:28px;color:var(--ink);cursor:pointer;padding:0;line-height:1;width:32px;height:32px;display:flex;align-items:center;justify-content:center}
+  .plan-title{font-family:'Fraunces',serif;font-size:32px;font-weight:500;letter-spacing:-0.01em;margin:0 0 6px;line-height:1.1}
+  .plan-sub{font-size:13px;color:#8A8983;margin-bottom:36px}
+  .plan-label{font-size:11.5px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#8A8983;margin-bottom:14px;display:flex;align-items:center;gap:11px}
+  .plan-label::before{content:"";width:24px;height:2px;background:#8A8983;flex:none}
+  .plan-grid{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-bottom:40px;padding:0 4px}
+  .plan-grid button{width:52px;height:52px;border-radius:50%;border:1.5px solid var(--line);background:var(--paper);font-family:'Fraunces',serif;font-weight:500;font-size:19px;cursor:pointer;color:var(--ink);transition:all .15s;flex:none;display:flex;align-items:center;justify-content:center;padding:0;-webkit-user-select:none;user-select:none;-webkit-touch-callout:none;touch-action:manipulation}
+  .plan-grid button.used{opacity:.35;border-style:dashed;cursor:default}
+  .plan-grid button.sel{border-color:var(--earth);background:var(--earth);color:#fff;transform:scale(1.12);box-shadow:0 6px 18px rgba(220,133,31,0.35)}
+  .plan-name-in{width:100%;height:56px;border-radius:12px;border:1.5px solid var(--line);padding:0 18px;font-size:17px;background:var(--paper);color:var(--ink);font-family:inherit;margin-bottom:auto;box-sizing:border-box}
+  .plan-name-in:focus{outline:none;border-color:var(--earth)}
+  .plan-create{width:100%;height:56px;border-radius:12px;border:none;background:var(--ink);color:#fff;font-weight:600;font-size:16px;cursor:pointer;margin-top:32px;letter-spacing:0.02em;font-family:inherit}
+  .plan-create:disabled{opacity:.25;cursor:default}
+
+  .rad-form{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  .rad-form label{font-size:12px;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:#8A8983;display:flex;flex-direction:column;gap:6px}
+  .rad-form input{height:48px;border-radius:10px;border:1.5px solid var(--line);padding:0 14px;font-size:18px;font-weight:500;background:var(--paper);color:var(--ink);font-family:'Fraunces',serif}
+
   /* ── Kopf ── */
   .head{display:flex;align-items:center;justify-content:space-between;
         padding-bottom:22px;border-bottom:1px solid var(--line);margin-bottom:34px}
@@ -271,7 +296,7 @@
       <div class="mark">L</div>
       <div class="brand-text">
         <strong>Trainingslog</strong>
-        <span>Kraft · Rennrad</span>
+        <span><button class="brand-link on" id="catKraft" onclick="event.stopPropagation();setCat('kraft')">Kraft</button> · <button class="brand-link" id="catRad" onclick="event.stopPropagation();setCat('rad')">Rennrad</button></span>
       </div>
     </div>
     <div class="stamp"><b id="stampDate">–</b><span id="stampDay">–</span></div>
@@ -287,7 +312,7 @@
 
   <div class="stats" id="stats"></div>
 
-  <div class="tabs">
+  <div class="tabs" id="tabBar">
     <button id="tabTrain" class="on" onclick="setTab('train')">Training</button>
     <button id="tabHist" onclick="setTab('history')">Verlauf</button>
     <button id="tabProg" onclick="setTab('progress')">Verlaufskurve</button>
@@ -296,6 +321,26 @@
   <div id="viewTrain"></div>
   <div id="viewHist" class="hidden"></div>
   <div id="viewProg" class="hidden"></div>
+</div>
+
+<div class="plan-overlay" id="planOverlay">
+  <div class="plan-sheet">
+    <div class="plan-top">
+      <div>
+        <h1 class="plan-title">Neue Einheit</h1>
+      </div>
+      <button class="plan-close" onclick="closePlanMgr()" aria-label="Schließen">×</button>
+    </div>
+    <div class="plan-sub">Wähle einen Buchstaben und gib der Einheit einen Namen.</div>
+
+    <div class="plan-label">Buchstabe</div>
+    <div class="plan-grid" id="planGrid"></div>
+
+    <div class="plan-label">Name</div>
+    <input class="plan-name-in" id="planNameIn" placeholder="z.B. Schultern" maxlength="30">
+
+    <button class="plan-create" id="planCreateBtn" onclick="createPlan()" disabled>Einheit erstellen</button>
+  </div>
 </div>
 
 <div class="finishbar hidden" id="finishbar"><div class="in" id="finishSlot"></div></div>
@@ -326,20 +371,38 @@ const PLAN={
   ]},
 };
 
+/* ── Verfügbare Buchstaben ── */
+const LETTERS="ABCDEFGHIJKLMNOPQSTUVWX".split("");
+function allDays(s){
+  const src=s||store||{};
+  const deleted=new Set(src.deleted||[]);
+  const base=Object.keys(PLAN).filter(d=>!deleted.has(d));
+  const extra=Object.keys(src.plans||{});
+  return [...new Set([...base,...extra])].sort();
+}
+function dayLabel(d){
+  if(store&&store.plans[d])return store.plans[d].label;
+  if(PLAN[d])return PLAN[d].label;
+  return"Einheit "+d;
+}
+
 /* ── Speicher ── */
 const KEY="trainingslog_v3";
-let store=load(),warned=false;
+var store=null,warned=false;
+store=load();
 function load(){
-  let s={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{}};
+  let s={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:[]};
   try{const r=localStorage.getItem(KEY);if(r)s=Object.assign(s,JSON.parse(r))}catch(e){}
   if(!s.custom)s.custom={A:[],B:[]};
-  if(!s.custom.A)s.custom.A=[];
-  if(!s.custom.B)s.custom.B=[];
   if(!s.hidden)s.hidden={A:[],B:[]};
-  if(!s.hidden.A)s.hidden.A=[];
-  if(!s.hidden.B)s.hidden.B=[];
   if(!s.names)s.names={};
   if(!s.schemes)s.schemes={};
+  if(!s.plans)s.plans={};
+  if(!s.deleted)s.deleted=[];
+  allDays(s).forEach(d=>{
+    if(!s.custom[d])s.custom[d]=[];
+    if(!s.hidden[d])s.hidden[d]=[];
+  });
   return s;
 }
 function save(){
@@ -349,45 +412,152 @@ function save(){
   if(window._cloudSave)window._cloudSave();
 }
 
+/* ── Plan-Manager ── */
+let planSel=null;
+function openPlanMgr(){
+  planSel=null;
+  const used=new Set(allDays());
+  const g=document.getElementById("planGrid");
+  g.innerHTML=LETTERS.map(l=>`<button class="${used.has(l)?"used":""}" data-l="${l}" oncontextmenu="return false">${l}</button>`).join("");
+  attachPlanLp();
+  document.getElementById("planNameIn").value="";
+  document.getElementById("planCreateBtn").disabled=true;
+  document.getElementById("planOverlay").classList.add("open");
+}
+function closePlanMgr(){document.getElementById("planOverlay").classList.remove("open")}
+let planLpTimer=null,planLpFired=false,planLpStartXY=null;
+function attachPlanLp(){
+  document.querySelectorAll("#planGrid button").forEach(btn=>{
+    const l=btn.dataset.l;
+    const startAt=(x,y)=>{
+      planLpFired=false;
+      planLpStartXY=[x,y];
+      if(planLpTimer)clearTimeout(planLpTimer);
+      planLpTimer=setTimeout(()=>{
+        planLpTimer=null;planLpFired=true;
+        if(navigator.vibrate)navigator.vibrate(30);
+        confirmDeletePlan(l);
+      },1300);
+    };
+    const endAt=()=>{
+      if(planLpTimer){clearTimeout(planLpTimer);planLpTimer=null}
+      if(planLpFired){planLpFired=false;return}
+      if(btn.classList.contains("used"))return;
+      planSel=l;
+      document.querySelectorAll("#planGrid button").forEach(b=>b.classList.remove("sel"));
+      btn.classList.add("sel");
+      const ni=document.getElementById("planNameIn");
+      document.getElementById("planCreateBtn").disabled=!ni.value.trim();
+    };
+    const moveAt=(x,y)=>{
+      if(!planLpStartXY||!planLpTimer)return;
+      const dx=x-planLpStartXY[0],dy=y-planLpStartXY[1];
+      if(dx*dx+dy*dy>100){clearTimeout(planLpTimer);planLpTimer=null}
+    };
+    btn.addEventListener("touchstart",e=>{e.preventDefault();const t=e.touches[0];startAt(t.clientX,t.clientY)},{passive:false});
+    btn.addEventListener("touchend",e=>{e.preventDefault();endAt()},{passive:false});
+    btn.addEventListener("touchmove",e=>{const t=e.touches[0];moveAt(t.clientX,t.clientY)},{passive:true});
+    btn.addEventListener("touchcancel",()=>{if(planLpTimer){clearTimeout(planLpTimer);planLpTimer=null}});
+    btn.addEventListener("mousedown",e=>startAt(e.clientX,e.clientY));
+    btn.addEventListener("mouseup",endAt);
+    btn.addEventListener("mouseleave",()=>{if(planLpTimer){clearTimeout(planLpTimer);planLpTimer=null}});
+  });
+}
+function confirmDeletePlan(l){
+  const label=dayLabel(l);
+  const isBase=!!PLAN[l];
+  const sessionCount=store.sessions.filter(s=>s.day===l).length;
+  const msg=`Tag ${l} (${label}) löschen?\n\n${sessionCount} Einheiten werden entfernt.${isBase?"\n\nDu kannst ihn später über \"Neue Einheit\" wiederherstellen.":""}`;
+  if(!confirm(msg))return;
+  store.sessions=store.sessions.filter(s=>s.day!==l);
+  store.custom[l]=[];
+  store.hidden[l]=[];
+  if(isBase){if(!store.deleted.includes(l))store.deleted.push(l)}
+  else{delete store.plans[l]}
+  if(store.active&&store.active.day===l)store.active=null;
+  if(dayPick===l)dayPick=null;
+  save();closePlanMgr();render();
+  toast("Gelöscht",`Tag ${l} entfernt`);
+}
+document.addEventListener("input",e=>{
+  if(e.target.id==="planNameIn")document.getElementById("planCreateBtn").disabled=!planSel||!e.target.value.trim();
+});
+function createPlan(){
+  const name=document.getElementById("planNameIn").value.trim();
+  if(!planSel||!name)return;
+  if(PLAN[planSel]){
+    store.deleted=store.deleted.filter(d=>d!==planSel);
+    if(name!==PLAN[planSel].label)store.plans[planSel]={label:name,exercises:[]};
+  }else{
+    store.plans[planSel]={label:name,exercises:[]};
+  }
+  if(!store.custom[planSel])store.custom[planSel]=[];
+  if(!store.hidden[planSel])store.hidden[planSel]=[];
+  save();closePlanMgr();
+  dayPick=planSel;
+  if(store.active){store.active.day=planSel;save()}
+  openEx=null;newOpen=false;render();
+}
+
 /* ── Übungsverzeichnis ── */
 function planFor(day){
-  return PLAN[day].ex.concat(store.custom[day]||[]).filter(e=>!(store.hidden[day]||[]).includes(e.id));
+  const base=PLAN[day]?PLAN[day].ex:[];
+  return base.concat(store.custom[day]||[]).filter(e=>!(store.hidden[day]||[]).includes(e.id));
 }
 function exName(id){
   if(store.names[id])return store.names[id];
-  for(const d of["A","B"]){
-    const f=PLAN[d].ex.concat(store.custom[d]||[]).find(e=>e.id===id);
+  for(const d of allDays()){
+    const base=PLAN[d]?PLAN[d].ex:[];
+    const f=base.concat(store.custom[d]||[]).find(e=>e.id===id);
     if(f)return f.name;
   }
   return id;
 }
 function exScheme(id){
   if(store.schemes[id])return store.schemes[id];
-  for(const d of["A","B"]){
-    const f=PLAN[d].ex.concat(store.custom[d]||[]).find(e=>e.id===id);
+  for(const d of allDays()){
+    const base=PLAN[d]?PLAN[d].ex:[];
+    const f=base.concat(store.custom[d]||[]).find(e=>e.id===id);
     if(f)return f.scheme;
   }
   return"";
 }
 function allIds(){
   const s=new Set();
-  ["A","B"].forEach(d=>planFor(d).forEach(e=>s.add(e.id)));
+  allDays().forEach(d=>planFor(d).forEach(e=>s.add(e.id)));
   store.sessions.forEach(x=>{for(const id in x.log)s.add(id)});
   return [...s];
 }
 
 /* ── Hilfen ── */
-let tab="train",openEx=null,draft={},progSel=null,newOpen=false,newName="",newScheme="",dayPick=null,editEx=null;
+let tab="train",openEx=null,draft={},progSel=null,newOpen=false,newName="",newScheme="",dayPick=null,editEx=null,cat="kraft";
 const fD=t=>new Date(t).toLocaleDateString("de-DE",{day:"2-digit",month:"short"});
 const fFull=t=>new Date(t).toLocaleDateString("de-DE",{weekday:"long",day:"2-digit",month:"long"});
 const fT=t=>new Date(t).toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"});
+function kraftDays(){return allDays().filter(d=>d!=="R")}
+function setCat(c){
+  if(c==="kraft"&&cat==="kraft"){openPlanMgr();return}
+  cat=c;tab="train";
+  document.getElementById("catKraft").classList.toggle("on",c==="kraft");
+  document.getElementById("catRad").classList.toggle("on",c==="rad");
+  if(c==="rad"){dayPick="R"}else{if(dayPick==="R")dayPick=null}
+  openEx=null;newOpen=false;render();
+}
 function nextDay(){
+  if(cat==="rad")return"R";
   if(dayPick)return dayPick;
-  for(let i=store.sessions.length-1;i>=0;i--){if(store.sessions[i].day)return store.sessions[i].day==="A"?"B":"A"}
-  return"A"}
+  const days=kraftDays();
+  for(let i=store.sessions.length-1;i>=0;i--){
+    const d=store.sessions[i].day;
+    if(d&&d!=="R"){const idx=days.indexOf(d);if(idx>=0)return days[(idx+1)%days.length]}
+  }
+  return days[0]||"A"}
 function toggleDay(){
+  if(cat==="rad")return;
   const cur=store.active?store.active.day:(dayPick||nextDay());
-  const to=cur==="A"?"B":"A";
+  const days=kraftDays();
+  const idx=days.indexOf(cur);
+  const to=days[(idx+1)%days.length];
   if(store.active){store.active.day=to;save()}else{dayPick=to}
   openEx=null;newOpen=false;render()}
 function prMap(){const m={};store.sessions.forEach(s=>{for(const id in s.log)s.log[id].forEach(x=>{if(!m[id]||x.kg>m[id])m[id]=x.kg})});return m}
@@ -404,26 +574,54 @@ function paintTop(){
   document.getElementById("stampDate").textContent=n.toLocaleDateString("de-DE",{day:"2-digit",month:"2-digit",year:"numeric"});
   document.getElementById("stampDay").textContent=n.toLocaleDateString("de-DE",{weekday:"long"});
   const d=store.active?store.active.day:(dayPick||nextDay());
-  document.getElementById("heroLetter").textContent=d;
+  document.getElementById("heroLetter").textContent=cat==="rad"?"R":d;
   document.querySelector(".hero").classList.toggle("dayB",d==="B");
   document.body.classList.toggle("dayB",d==="B");
-  document.getElementById("heroEye").textContent="Aktuelle Einheit";
-  document.getElementById("heroLabel").textContent=PLAN[d].label;
-  const tv=store.sessions.reduce((a,s)=>a+vol(s),0);
-  document.getElementById("stats").innerHTML=
-    `<div class="stat"><b>${store.sessions.length}</b><span>Einheiten gesamt</span></div>
-     <div class="stat"><b>${weekCount()}</b><span>Diese Woche</span></div>
-     <div class="stat"><b>${(tv/1000).toFixed(1)}t</b><span>Bewegtes Volumen</span></div>`;
+  document.getElementById("heroEye").textContent=cat==="rad"?"Rennrad":"Aktuelle Einheit";
+  document.getElementById("heroLabel").textContent=cat==="rad"?"Rennrad":dayLabel(d);
+  if(cat==="kraft"){
+    const tv=store.sessions.filter(s=>s.day!=="R").reduce((a,s)=>a+vol(s),0);
+    const kSessions=store.sessions.filter(s=>s.day!=="R");
+    const kWeek=kSessions.filter(s=>{ const m=new Date(); m.setHours(0,0,0,0); m.setDate(m.getDate()-(m.getDay()+6)%7); return s.ts>=m.getTime()}).length;
+    document.getElementById("stats").innerHTML=
+      `<div class="stat"><b>${kSessions.length}</b><span>Einheiten gesamt</span></div>
+       <div class="stat"><b>${kWeek}</b><span>Diese Woche</span></div>
+       <div class="stat"><b>${(tv/1000).toFixed(1)}t</b><span>Bewegtes Volumen</span></div>`;
+  }else{
+    const rs=store.sessions.filter(s=>s.day==="R");
+    const totalKm=rs.reduce((a,s)=>a+(s.rad?.km||0),0);
+    const totalHm=rs.reduce((a,s)=>a+(s.rad?.hm||0),0);
+    document.getElementById("stats").innerHTML=
+      `<div class="stat"><b>${rs.length}</b><span>Fahrten gesamt</span></div>
+       <div class="stat"><b>${Math.round(totalKm)} km</b><span>Gesamtstrecke</span></div>
+       <div class="stat"><b>${Math.round(totalHm)} hm</b><span>Höhenmeter</span></div>`;
+  }
 }
-function setTab(t){tab=t;
-  ["Train","Hist","Prog"].forEach((k,i)=>{const on=["train","history","progress"][i]===t;
-    document.getElementById("tab"+k).classList.toggle("on",on);
-    document.getElementById("view"+k).classList.toggle("hidden",!on)});
-  render()}
-function render(){paintTop();
-  if(tab==="train")renderTrain();else if(tab==="history")renderHist();else renderProg();
-  document.getElementById("finishbar").classList.toggle("hidden",!(tab==="train"&&store.active));
-  if(store.active)paintFinish()}
+function paintTabs(){
+  const bar=document.getElementById("tabBar");
+  if(cat==="kraft"){
+    bar.innerHTML=`<button id="tabTrain" class="${tab==="train"?"on":""}" onclick="setTab('train')">Training</button>
+      <button id="tabHist" class="${tab==="history"?"on":""}" onclick="setTab('history')">Verlauf</button>
+      <button id="tabProg" class="${tab==="progress"?"on":""}" onclick="setTab('progress')">Verlaufskurve</button>`;
+  }else{
+    bar.innerHTML=`<button id="tabTrain" class="${tab==="train"?"on":""}" onclick="setTab('train')">Training</button>
+      <button id="tabHist" class="${tab==="history"?"on":""}" onclick="setTab('history')">Verlauf</button>
+      <button id="tabProg" class="${tab==="progress"?"on":""}" onclick="setTab('progress')">Strecke</button>`;
+  }
+}
+function setTab(t){tab=t;render()}
+function render(){paintTop();paintTabs();
+  document.getElementById("viewTrain").classList.toggle("hidden",tab!=="train");
+  document.getElementById("viewHist").classList.toggle("hidden",tab!=="history");
+  document.getElementById("viewProg").classList.toggle("hidden",tab!=="progress");
+  if(cat==="rad"){
+    if(tab==="train")renderRadTrain();else if(tab==="history")renderRadHist();else renderRadRoute();
+  }else{
+    if(tab==="train")renderTrain();else if(tab==="history")renderHist();else renderProg();
+  }
+  const showFinish=tab==="train"&&store.active&&store.active.day!=="R";
+  document.getElementById("finishbar").classList.toggle("hidden",!showFinish);
+  if(showFinish)paintFinish()}
 
 /* ── Training ── */
 
@@ -432,7 +630,7 @@ function renderTrain(){
   // Zeigt immer sofort Übungen — session startet lazy beim ersten Satz
   const day=store.active?store.active.day:(dayPick||nextDay());
   const prs=prMap(),ex=planFor(day);
-  let h=`<div class="eyebrow" style="margin-bottom:18px">Tag ${day} · ${PLAN[day].label}</div><div class="list">`;
+  let h=`<div class="eyebrow" style="margin-bottom:18px">Tag ${day} · ${dayLabel(day)}</div><div class="list">`;
   ex.forEach((e,i)=>{
     const lg=store.active?store.active.log[e.id]||[]:[];
     const last=lastFor(e.id),own=!!e.own;
@@ -563,6 +761,7 @@ function delSession(ts){
   toast("Einheit gelöscht","Die Statistiken wurden neu berechnet")}
 
 function paintFinish(){const s=document.getElementById("finishSlot");
+  if(store.active.day==="R")return;
   let n=0;for(const id in store.active.log)n+=store.active.log[id].length;
   if(!n)s.innerHTML=`<button class="btn-ghost" onclick="discard()">Einheit verwerfen</button>`;
   else s.innerHTML=`<button class="btn-primary" onclick="finish()">Einheit abschließen <span class="n">${n} Sätze</span></button>`}
@@ -573,12 +772,82 @@ function finish(){let n=0;for(const id in store.active.log)n+=store.active.log[i
   const v=vol(store.active);store.active=null;save();openEx=null;newOpen=false;
   toast("Gespeichert",`${(v/1000).toFixed(1)} t Bewegtes Volumen`);setTab("history")}
 
+/* ── Rennrad ── */
+let radDraft={min:0,kcal:0,hm:0,km:0};
+function renderRadTrain(){
+  const v=document.getElementById("viewTrain");
+  const last=store.sessions.filter(s=>s.day==="R").slice(-1)[0];
+  if(last&&last.rad){radDraft={min:last.rad.min||0,kcal:last.rad.kcal||0,hm:last.rad.hm||0,km:last.rad.km||0}}
+  const active=store.active&&store.active.day==="R";
+  const rd=active&&store.active.rad?store.active.rad:radDraft;
+  v.innerHTML=`<div class="eyebrow" style="margin-bottom:18px">Rennrad</div>
+    <div class="rad-form">
+      <label>Dauer (min)<input type="number" id="radMin" value="${rd.min}" onchange="updateRad()"></label>
+      <label>Kalorien<input type="number" id="radKcal" value="${rd.kcal}" onchange="updateRad()"></label>
+      <label>Höhenmeter<input type="number" id="radHm" value="${rd.hm}" onchange="updateRad()"></label>
+      <label>Kilometer<input type="number" id="radKm" value="${rd.km}" step="0.1" onchange="updateRad()"></label>
+    </div>
+    <div style="margin-top:24px">
+      ${active?`<button class="btn-primary" onclick="finishRad()">Fahrt speichern</button>
+        <button class="btn-ghost" style="margin-top:10px" onclick="discard()">Verwerfen</button>`
+        :`<button class="btn-primary" onclick="startRad()">Fahrt starten</button>`}
+    </div>`;
+}
+function updateRad(){
+  radDraft={min:+(document.getElementById("radMin")?.value||0),kcal:+(document.getElementById("radKcal")?.value||0),hm:+(document.getElementById("radHm")?.value||0),km:+(document.getElementById("radKm")?.value||0)};
+  if(store.active&&store.active.day==="R"){store.active.rad=radDraft;save()}
+}
+function startRad(){
+  store.active={ts:Date.now(),day:"R",log:{},rad:{...radDraft}};
+  save();render();
+}
+function finishRad(){
+  updateRad();
+  store.active.rad=radDraft;
+  store.active.done=Date.now();
+  store.sessions.push(store.active);
+  store.active=null;save();
+  toast("Gespeichert",`${radDraft.km} km · ${radDraft.hm} hm`);
+  setTab("history");
+}
+function renderRadHist(){
+  const v=document.getElementById("viewHist");
+  const rs=[...store.sessions].filter(s=>s.day==="R").reverse();
+  if(!rs.length){v.innerHTML=`<div class="empty"><div class="eyebrow">Verlauf</div>
+    <h3>Noch keine Fahrt erfasst.</h3><p>Starte im Reiter „Training" eine neue Fahrt.</p></div>`;return}
+  let h="";
+  rs.forEach(s=>{
+    const r=s.rad||{};
+    h+=`<div class="sess">
+      <div class="sess-head"><b>${fD(s.ts)}</b><span>${fT(s.ts)}</span></div>
+      <div class="sline"><span class="nm">${r.km||0} km</span><span class="val">${r.min||0} min</span></div>
+      <div class="sline"><span class="nm">${r.kcal||0} kcal</span><span class="val">${r.hm||0} hm</span></div>
+    </div>`;
+  });
+  v.innerHTML=h;
+}
+function renderRadRoute(){
+  const v=document.getElementById("viewProg");
+  const rs=store.sessions.filter(s=>s.day==="R").sort((a,b)=>a.ts-b.ts);
+  if(!rs.length){v.innerHTML=`<div class="empty"><div class="eyebrow">Strecke</div>
+    <h3>Noch keine Daten.</h3><p>Nach der ersten Fahrt erscheinen hier Statistiken.</p></div>`;return}
+  let cumKm=0;
+  let h=`<div class="eyebrow" style="margin-bottom:18px">Strecke</div><div class="list">`;
+  rs.forEach(s=>{
+    const r=s.rad||{};cumKm+=r.km||0;
+    h+=`<div class="sline"><span class="nm">${fD(s.ts)} — ${r.km||0} km</span><span class="val">Σ ${cumKm.toFixed(1)} km</span></div>`;
+  });
+  h+=`</div>`;
+  v.innerHTML=h;
+}
+
 /* ── Verlauf ── */
 function renderHist(){const v=document.getElementById("viewHist");
-  if(!store.sessions.length){v.innerHTML=`<div class="empty"><div class="eyebrow">Verlauf</div>
+  const kSessions=store.sessions.filter(s=>s.day!=="R");
+  if(!kSessions.length){v.innerHTML=`<div class="empty"><div class="eyebrow">Verlauf</div>
     <h3>Noch keine Einheit erfasst.</h3><p>Starte im Reiter „Training" — abgeschlossene Einheiten erscheinen hier.</p></div>`;return}
   let h="";
-  [...store.sessions].reverse().forEach((s,i)=>{
+  [...kSessions].reverse().forEach((s,i)=>{
     const lines=Object.keys(s.log).map(id=>{const l=s.log[id];let t=l[0];l.forEach(x=>{if(x.kg>t.kg)t=x});
       return `<div class="sline"><span class="nm">${esc(exName(id))}</span>
         <span class="vl"><b>${t.kg}</b> kg × ${t.reps} · ${l.length} Sätze</span></div>`}).join("");
@@ -642,7 +911,8 @@ function closeSwipes(except){
 document.addEventListener("pointerdown",e=>{
   const body=e.target.closest(".swipe-body");
   if(!body){closeSwipes(null);return}
-  if(e.target.closest("input,select"))return;
+  if(e.target.closest("input,select,.edit-form"))return;
+  if(editEx)return;
   sw.box=body.parentElement;sw.body=body;
   sw.x0=e.clientX;sw.y0=e.clientY;sw.axis=null;
   sw.start=sw.box.classList.contains("open")?-DEL_W:0;sw.t=sw.start;
@@ -686,7 +956,7 @@ document.addEventListener("pointerdown",e=>{
     lpFired=true;
     if(navigator.vibrate)navigator.vibrate(30);
     startEdit(m[1]);
-  },500);
+  },700);
 },{passive:true});
 document.addEventListener("pointermove",e=>{
   if(lpTimer&&(Math.abs(e.movementX)>5||Math.abs(e.movementY)>5)){clearTimeout(lpTimer);lpTimer=null}
