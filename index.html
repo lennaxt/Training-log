@@ -96,7 +96,7 @@
   .dayrow{display:grid;grid-template-columns:52px 1fr auto;gap:20px;align-items:center;width:100%;
     background:none;border:0;border-bottom:1px solid var(--line);padding:30px 0;cursor:pointer;
     text-align:left;transition:padding-left .3s}
-  .dayrow:hover,.dayrow:active{padding-left:14px}
+  .dayrow:active{padding-left:14px}
   .dayrow .n{font-family:'Fraunces',serif;font-size:38px;font-weight:500;color:var(--sand);line-height:.8}
 
   .dayrow h3{font-size:23px}
@@ -109,7 +109,7 @@
   .ex{border-bottom:1px solid var(--line)}
   .ex-head{display:grid;grid-template-columns:34px 1fr auto;gap:16px;align-items:baseline;
     padding:26px 0;cursor:pointer;transition:padding-left .3s}
-  .ex.open .ex-head,.ex-head:hover{padding-left:12px}
+  .ex.open .ex-head{padding-left:12px}
   .ex-num{font-family:'Fraunces',serif;font-size:15px;font-weight:500;color:var(--khaki)}
   .ex.filled .ex-num{color:var(--blue)}
   .ex-info{min-width:0}
@@ -160,7 +160,7 @@
   /* ── Eigene Übung ── */
   .newrow{display:grid;grid-template-columns:34px 1fr auto;gap:16px;align-items:baseline;width:100%;
     background:none;border:0;padding:26px 0;cursor:pointer;text-align:left;transition:padding-left .3s}
-  .newrow:hover,.newrow:active{padding-left:12px}
+  .newrow:active{padding-left:12px}
   .newrow .ex-num{color:var(--blue)}
   .newrow h3{font-size:19px;color:var(--blue)}
   .newform{padding:4px 0 30px;display:grid;gap:10px}
@@ -170,11 +170,6 @@
     text-transform:uppercase;color:var(--ink-soft);cursor:pointer;padding:0}
   .rmline button:active{color:var(--blue)}
   .tag{font-size:10.5px;font-weight:600;letter-spacing:0.13em;text-transform:uppercase;color:var(--sand)}
-  .edit-btn{background:none;border:0;font-size:11px;font-weight:600;letter-spacing:0.14em;
-    text-transform:uppercase;color:var(--ink-soft);cursor:pointer;padding:2px 0;opacity:0;transition:.2s}
-  .ex-head:hover .edit-btn,.ex-head:active .edit-btn{opacity:.45}
-  .edit-btn:active{color:var(--blue);opacity:1}
-  @media (hover:none){.edit-btn{opacity:.25}}
   .edit-form{display:grid;gap:8px;padding:4px 0 6px}
   .edit-form .field{padding:8px 10px}
   .edit-form .edit-actions{display:flex;gap:10px;align-items:center}
@@ -186,10 +181,10 @@
 
   /* ── Wischen zum Löschen ── */
   .swipe{position:relative;overflow:hidden;touch-action:pan-y}
-  .swipe-del{position:absolute;top:0;right:0;bottom:0;width:104px;border:0;background:var(--clay);
+  .swipe-del{position:absolute;top:0;right:0;bottom:0;width:104px;border:0;background:#C0392B;
     color:#fff;font-size:11.5px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;
     cursor:pointer;display:flex;align-items:center;justify-content:center}
-  .swipe-del:active{background:#C46E12}
+  .swipe-del:active{background:#962D22}
   .swipe-body{position:relative;background:var(--paper);transition:transform .26s ease;will-change:transform}
   .swipe.open .swipe-body{transform:translateX(-104px)}
   .swipe.drag .swipe-body{transition:none}
@@ -460,7 +455,7 @@ function renderTrain(){
               <button class="cancel-btn" onclick="cancelEdit()">Abbrechen</button>
             </div>
           </div>`:`<h3>${esc(eName)}</h3>
-          <div class="ex-meta">${own?'<span class="tag">Eigene</span> &nbsp;·&nbsp; ':''}${esc(eScheme)}${last?` &nbsp;·&nbsp; <span class="last" style="color:${day==="A"?'var(--earth)':'var(--green-lite)'}">zuletzt ${last.kg} kg × ${last.reps}</span>`:''}&nbsp;&nbsp;<button class="edit-btn" onclick="event.stopPropagation();startEdit('${e.id}')">Bearbeiten</button></div>`}</div>
+          <div class="ex-meta">${own?'<span class="tag">Eigene</span> &nbsp;·&nbsp; ':''}${esc(eScheme)}${last?` &nbsp;·&nbsp; <span class="last" style="color:${day==="A"?'var(--earth)':'var(--green-lite)'}">zuletzt ${last.kg} kg × ${last.reps}</span>`:''}</div>`}</div>
         <div class="ex-count">${lg.length}</div>
       </div>
       <div class="ex-body"><div class="ex-inner">
@@ -677,6 +672,30 @@ function endSwipe(){
 }
 document.addEventListener("pointerup",endSwipe,{passive:true});
 document.addEventListener("pointercancel",endSwipe,{passive:true});
+
+/* ── Long Press zum Bearbeiten ── */
+let lpTimer=null,lpFired=false;
+document.addEventListener("pointerdown",e=>{
+  const head=e.target.closest(".ex-head");
+  if(!head||e.target.closest("input,select,.edit-form"))return;
+  const exEl=head.closest(".ex");if(!exEl)return;
+  const m=head.getAttribute("onclick")?.match(/toggleEx\('([^']+)'\)/);
+  if(!m)return;
+  lpFired=false;
+  lpTimer=setTimeout(()=>{
+    lpFired=true;
+    if(navigator.vibrate)navigator.vibrate(30);
+    startEdit(m[1]);
+  },500);
+},{passive:true});
+document.addEventListener("pointermove",e=>{
+  if(lpTimer&&(Math.abs(e.movementX)>5||Math.abs(e.movementY)>5)){clearTimeout(lpTimer);lpTimer=null}
+},{passive:true});
+document.addEventListener("pointerup",()=>{clearTimeout(lpTimer);lpTimer=null},{passive:true});
+document.addEventListener("pointercancel",()=>{clearTimeout(lpTimer);lpTimer=null},{passive:true});
+
+const origToggleEx=toggleEx;
+toggleEx=function(id){if(lpFired){lpFired=false;return}origToggleEx(id)};
 
 /* ── Hinweis ── */
 let tT;
