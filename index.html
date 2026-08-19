@@ -235,12 +235,15 @@
   .tag{font-size:10.5px;font-weight:600;letter-spacing:0.13em;text-transform:uppercase;color:var(--sand)}
   .edit-form{display:grid;gap:8px;padding:4px 0 6px}
   .edit-form .field{padding:8px 10px}
-  .edit-form .edit-actions{display:flex;gap:10px;align-items:center}
-  .edit-form .save-btn{background:var(--ink);color:#fff;border:0;padding:10px 20px;font-size:13px;
-    font-weight:600;cursor:pointer;transition:.2s}
-  .edit-form .save-btn:active{background:#1A1A18}
-  .edit-form .cancel-btn{background:none;border:0;font-size:12px;font-weight:600;letter-spacing:0.12em;
-    text-transform:uppercase;color:var(--ink-soft);cursor:pointer}
+  .edit-form .edit-actions{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-top:4px}
+  .edit-form .edit-actions button{padding:11px 0;font-size:12px;font-weight:600;letter-spacing:0.12em;
+    text-transform:uppercase;cursor:pointer;transition:.15s;border:1px solid;background:none;text-align:center}
+  .edit-form .edit-actions .save-btn{background:var(--ink);color:#fff;border-color:var(--ink)}
+  .edit-form .edit-actions .save-btn:active{background:#1A1A18}
+  .edit-form .edit-actions .cancel-btn{color:var(--ink-soft);border-color:var(--line)}
+  .edit-form .edit-actions .cancel-btn:active{background:var(--paper-2)}
+  .edit-form .edit-actions .del-btn{color:#890202;border-color:#890202}
+  .edit-form .edit-actions .del-btn:active{background:#890202;color:#fff}
 
   /* ── Wischen zum Löschen ── */
   .swipe{position:relative;overflow:hidden;touch-action:pan-y}
@@ -253,7 +256,7 @@
   .swipe.open .swipe-body{transform:translateX(-104px)}
   .swipe.drag .swipe-body{transition:none}
   .setswipe .swipe-tint{position:absolute;top:0;right:0;bottom:0;width:0;overflow:hidden;
-    background:linear-gradient(to left,rgba(192,57,43,0.82),rgba(208,82,67,0.82));pointer-events:none;transition:width .18s ease}
+    background:#890202;pointer-events:none;transition:width .18s ease}
   .setswipe.drag .swipe-tint{transition:none}
   .setswipe .swipe-del-lbl{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
     color:#fff;font-family:'Fraunces',serif;font-size:17px;font-weight:500;letter-spacing:0.12em;
@@ -651,7 +654,7 @@ function setTable(id,logged,scheme,pr,dr){
       const isPr=pr!=null&&s.kg>=pr&&s.kg>0;
       rows+=`<div class="swipe setswipe" data-ex="${id}" data-si="${ri}"><div class="swipe-body setrow done${isPr?' pr':''}"><span class="sr-n">${ri+1}</span><span class="sr-prev">${pvTxt}</span><span class="sr-val">${s.kg}</span><span class="sr-val">${s.reps}</span><button class="sr-check on" onclick="removeSet('${id}',${ri})" aria-label="Satz entfernen">✓</button></div><div class="swipe-tint"></div><span class="swipe-del-lbl">Löschen</span></div>`;
     }else if(ri===logged.length){
-      rows+=`<div class="setrow active"><span class="sr-n">${ri+1}</span><span class="sr-prev">${pvTxt}</span><input class="sr-in" type="number" inputmode="decimal" value="${dr.kg}" onchange="setDraft('${id}','kg',this.value)" onfocus="this.select()"><input class="sr-in" type="number" inputmode="numeric" value="${dr.reps}" onchange="setDraft('${id}','reps',this.value)" onfocus="this.select()"><button class="sr-check" onclick="addSet('${id}')" aria-label="Satz abhaken">✓</button></div>`;
+      rows+=`<div class="swipe setswipe" data-ex="${id}" data-si="${ri}" data-empty="1"><div class="swipe-body setrow active"><span class="sr-n">${ri+1}</span><span class="sr-prev">${pvTxt}</span><input class="sr-in" type="number" inputmode="decimal" value="${dr.kg}" onchange="setDraft('${id}','kg',this.value)" onfocus="this.select()"><input class="sr-in" type="number" inputmode="numeric" value="${dr.reps}" onchange="setDraft('${id}','reps',this.value)" onfocus="this.select()"><button class="sr-check" onclick="addSet('${id}')" aria-label="Satz abhaken">✓</button></div><div class="swipe-tint"></div><span class="swipe-del-lbl">Löschen</span></div>`;
     }else{
       rows+=`<div class="swipe setswipe" data-ex="${id}" data-si="${ri}" data-empty="1"><div class="swipe-body setrow upnext"><span class="sr-n">${ri+1}</span><span class="sr-prev">${pvTxt}</span><span class="sr-val ghost">${pv?pv.kg:'–'}</span><span class="sr-val ghost">${pv?pv.reps:'–'}</span><button class="sr-check" disabled aria-label="Satz">✓</button></div><div class="swipe-tint"></div><span class="swipe-del-lbl">Löschen</span></div>`;
     }
@@ -788,6 +791,7 @@ function renderTrain(){
             <div class="edit-actions">
               <button class="save-btn" onclick="saveEdit('${e.id}')">Speichern</button>
               <button class="cancel-btn" onclick="cancelEdit()">Abbrechen</button>
+              <button class="del-btn" onclick="confirmDelExercise('${day}','${e.id}')">Löschen</button>
             </div>
           </div>`:`<h3>${esc(eName)}</h3>
           <div class="ex-meta">${own?'<span class="tag">Eigene</span> &nbsp;·&nbsp; ':''}${esc(eScheme)}</div>`}</div>
@@ -827,7 +831,7 @@ function renderTrain(){
 function chip(id,s,si,pr){const isPr=pr!=null&&s.kg>=pr&&s.kg>0;
   return `<span class="chip ${isPr?'pr':''}" onclick="removeSet('${id}',${si})">
     <b>${s.kg}</b><span class="u">kg ×</span><b>${s.reps}</b></span>`}
-function toggleEx(id){if(justSwiped())return;openEx=openEx===id?null:id;renderTrain()}
+function toggleEx(id){if(justSwiped())return;if(editEx===id)return;openEx=openEx===id?null:id;renderTrain()}
 function setDraft(id,f,v){const n=parseFloat(String(v).replace(",","."));if(!isNaN(n))draft[id][f]=Math.max(0,n)}
 function step(id,f,d){draft[id][f]=Math.max(0,Math.round((draft[id][f]+d)*10)/10);openEx=id;renderTrain()}
 function addSet(id){const dr=draft[id];if(dr.reps<=0)return;
@@ -873,6 +877,9 @@ function saveCustom(day){
   toast("Übung angelegt",`${name} steht ab jetzt in Tag ${day}`)}
 
 /* ── Löschen ── */
+function confirmDelExercise(day,id){
+  editEx=null;delExercise(day,id);
+}
 function delExercise(day,id){
   const n=exName(id);
   store.names[id]=n;
@@ -1063,7 +1070,7 @@ document.addEventListener("pointermove",e=>{
     sw.p=Math.max(0,Math.min(1,-dx/SET_TRIP));
     if(sw.tint)sw.tint.style.width=(sw.p*100)+"%";
     if(sw.lbl)sw.lbl.style.opacity=Math.max(0,Math.min(1,(sw.p-0.5)/0.4));
-    sw.body.style.transform=`translateX(${Math.max(-18,-dx*0.15)}px)`;
+    sw.body.style.transform="";
     if(!sw.armed&&sw.p>=0.98){sw.armed=true;if(navigator.vibrate)navigator.vibrate(18)}
     else if(sw.armed&&sw.p<0.98)sw.armed=false;
   }else{
