@@ -26,3 +26,9 @@ Persönliche Trainings-App, entwickelt von Lennart als Hobby-Projekt zum Lernen.
 ## User
 
 Lennart lernt beim Bauen. Erklärungen dürfen kurz sein, aber Fachbegriffe kurz erläutern wenn sie zum ersten Mal auftauchen. Keine „junior-Warnungen" — direkte Kommunikation bevorzugt.
+
+## CLAUDE.md pflegen
+
+Alle 10 User-Anfragen einmal kurz nachfragen: „Soll ich etwas Neues in die CLAUDE.md aufnehmen — neue Konventionen, wiederkehrende Wünsche, oder Dinge, die diese Session gelernt hat?"
+
+Zählen: Ab dem ersten Prompt der Session mitzählen; nach der Nachfrage Zähler zurücksetzen. Wenn Lennart nichts hinzufügen möchte, keine weiteren Vorschläge machen — einfach weiterarbeiten und in 10 Anfragen erneut fragen.

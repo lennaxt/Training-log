@@ -244,13 +244,21 @@
 
   /* ── Wischen zum Löschen ── */
   .swipe{position:relative;overflow:hidden;touch-action:pan-y}
-  .swipe-del{position:absolute;top:0;right:0;bottom:0;width:104px;border:0;background:#C0392B;
+  .swipe-del{position:absolute;top:0;right:0;bottom:0;width:104px;border:0;
+    background:linear-gradient(to left,rgba(192,57,43,0) 0%,#C0392B 16%,#D05243 100%);
     color:#fff;font-size:11.5px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;
     cursor:pointer;display:flex;align-items:center;justify-content:center}
-  .swipe-del:active{background:#962D22}
-  .swipe-body{position:relative;background:var(--paper);transition:transform .26s ease;will-change:transform}
+  .swipe-del:active{background:linear-gradient(to left,rgba(150,45,34,0) 0%,#962D22 16%,#B03A2E 100%)}
+  .swipe-body{position:relative;background:var(--paper);transition:transform .3s cubic-bezier(.22,.61,.36,1);will-change:transform}
   .swipe.open .swipe-body{transform:translateX(-104px)}
   .swipe.drag .swipe-body{transition:none}
+  .setswipe .swipe-tint{position:absolute;top:0;right:0;bottom:0;width:0;overflow:hidden;
+    background:linear-gradient(to left,rgba(192,57,43,0.82),rgba(208,82,67,0.82));pointer-events:none;transition:width .18s ease}
+  .setswipe.drag .swipe-tint{transition:none}
+  .setswipe .swipe-del-lbl{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+    color:#fff;font-family:'Fraunces',serif;font-size:17px;font-weight:500;letter-spacing:0.12em;
+    text-transform:uppercase;white-space:nowrap;opacity:0;pointer-events:none;transition:opacity .12s ease}
+  .setswipe.deleting .swipe-body{opacity:0;transition:opacity .16s ease}
 
   /* ── Abschlussleiste ── */
   .finishbar{position:fixed;left:0;right:0;bottom:0;z-index:50;padding:16px 22px calc(var(--bot) + 16px);
@@ -631,7 +639,9 @@ function targetSets(scheme){const m=String(scheme||"").match(/(\d+)\s*[×xX]/);r
 function setTable(id,logged,scheme,pr,dr){
   const prev=lastSetsFor(id)||[];
   const tgt=targetSets(scheme);
-  const rowN=Math.max(tgt,prev.length,logged.length+1);
+  const auto=Math.max(tgt,prev.length,logged.length+1);
+  const cap=dr.cap;
+  const rowN=cap!=null?Math.max(logged.length+1,Math.min(cap,auto)):auto;
   let rows=`<div class="setrow head"><span class="sr-n">Satz</span><span class="sr-prev">Vorherige</span><span>Kg</span><span>Wdh</span><span class="sr-ch">✓</span></div>`;
   for(let ri=0;ri<rowN;ri++){
     const pv=prev[ri];
@@ -639,14 +649,25 @@ function setTable(id,logged,scheme,pr,dr){
     if(ri<logged.length){
       const s=logged[ri];
       const isPr=pr!=null&&s.kg>=pr&&s.kg>0;
-      rows+=`<div class="swipe setswipe"><button class="swipe-del" onclick="removeSet('${id}',${ri})">Löschen</button><div class="swipe-body setrow done${isPr?' pr':''}"><span class="sr-n">${ri+1}</span><span class="sr-prev">${pvTxt}</span><span class="sr-val">${s.kg}</span><span class="sr-val">${s.reps}</span><button class="sr-check on" onclick="removeSet('${id}',${ri})" aria-label="Satz entfernen">✓</button></div></div>`;
+      rows+=`<div class="swipe setswipe" data-ex="${id}" data-si="${ri}"><div class="swipe-body setrow done${isPr?' pr':''}"><span class="sr-n">${ri+1}</span><span class="sr-prev">${pvTxt}</span><span class="sr-val">${s.kg}</span><span class="sr-val">${s.reps}</span><button class="sr-check on" onclick="removeSet('${id}',${ri})" aria-label="Satz entfernen">✓</button></div><div class="swipe-tint"></div><span class="swipe-del-lbl">Löschen</span></div>`;
     }else if(ri===logged.length){
       rows+=`<div class="setrow active"><span class="sr-n">${ri+1}</span><span class="sr-prev">${pvTxt}</span><input class="sr-in" type="number" inputmode="decimal" value="${dr.kg}" onchange="setDraft('${id}','kg',this.value)" onfocus="this.select()"><input class="sr-in" type="number" inputmode="numeric" value="${dr.reps}" onchange="setDraft('${id}','reps',this.value)" onfocus="this.select()"><button class="sr-check" onclick="addSet('${id}')" aria-label="Satz abhaken">✓</button></div>`;
     }else{
-      rows+=`<div class="setrow upnext"><span class="sr-n">${ri+1}</span><span class="sr-prev">${pvTxt}</span><span class="sr-val ghost">${pv?pv.kg:'–'}</span><span class="sr-val ghost">${pv?pv.reps:'–'}</span><button class="sr-check" disabled aria-label="Satz">✓</button></div>`;
+      rows+=`<div class="swipe setswipe" data-ex="${id}" data-si="${ri}" data-empty="1"><div class="swipe-body setrow upnext"><span class="sr-n">${ri+1}</span><span class="sr-prev">${pvTxt}</span><span class="sr-val ghost">${pv?pv.kg:'–'}</span><span class="sr-val ghost">${pv?pv.reps:'–'}</span><button class="sr-check" disabled aria-label="Satz">✓</button></div><div class="swipe-tint"></div><span class="swipe-del-lbl">Löschen</span></div>`;
     }
   }
   return `<div class="setlog" id="sets-${id}">${rows}</div>`;
+}
+function removeEmptySet(id){
+  const logged=store.active&&store.active.log[id]?store.active.log[id].length:0;
+  if(!draft[id])draft[id]={kg:20,reps:8};
+  const dr=draft[id];
+  const prev=lastSetsFor(id)||[];
+  const auto=Math.max(targetSets(exScheme(id)),prev.length,logged+1);
+  const cur=dr.cap!=null?dr.cap:auto;
+  dr.cap=Math.max(logged+1,cur-1);
+  renderTrain();
+  if(store.active){paintFinish();paintTop();}
 }
 function vol(s){let v=0;for(const id in s.log)s.log[id].forEach(x=>v+=x.kg*x.reps);return Math.round(v)}
 function weekCount(){const n=new Date(),d=(n.getDay()+6)%7,m=new Date(n);m.setHours(0,0,0,0);m.setDate(n.getDate()-d);
@@ -1009,7 +1030,8 @@ function chart(id){
 
 /* ── Wischgeste ── */
 const DEL_W=104;
-let sw={box:null,body:null,x0:0,y0:0,axis:null,start:0,t:0},lastSwipe=0;
+const SET_TRIP=130; // px nach links = Satz-Zeile komplett rot
+let sw={box:null,body:null,x0:0,y0:0,axis:null,start:0,t:0,isSet:false,ex:null,si:0,tint:null,lbl:null,p:0,armed:false,empty:false},lastSwipe=0;
 function justSwiped(){return Date.now()-lastSwipe<400}
 function closeSwipes(except){
   document.querySelectorAll(".swipe.open").forEach(el=>{if(el!==except)el.classList.remove("open")})}
@@ -1021,6 +1043,11 @@ document.addEventListener("pointerdown",e=>{
   if(editEx)return;
   sw.box=body.parentElement;sw.body=body;
   sw.x0=e.clientX;sw.y0=e.clientY;sw.axis=null;
+  sw.isSet=sw.box.classList.contains("setswipe");
+  sw.ex=sw.isSet?sw.box.getAttribute("data-ex"):null;
+  sw.si=sw.isSet?parseInt(sw.box.getAttribute("data-si"),10):0;
+  sw.tint=sw.box.querySelector(".swipe-tint");sw.lbl=sw.box.querySelector(".swipe-del-lbl");
+  sw.p=0;sw.armed=false;sw.empty=sw.box.hasAttribute("data-empty");
   sw.start=sw.box.classList.contains("open")?-DEL_W:0;sw.t=sw.start;
 },{passive:true});
 document.addEventListener("pointermove",e=>{
@@ -1032,18 +1059,36 @@ document.addEventListener("pointermove",e=>{
     if(sw.axis==="x"){closeSwipes(sw.box);sw.box.classList.add("drag")}
   }
   if(sw.axis!=="x")return;
-  sw.t=Math.max(-DEL_W-24,Math.min(0,sw.start+dx));
-  sw.body.style.transform=`translateX(${sw.t}px)`;
+  if(sw.isSet){
+    sw.p=Math.max(0,Math.min(1,-dx/SET_TRIP));
+    if(sw.tint)sw.tint.style.width=(sw.p*100)+"%";
+    if(sw.lbl)sw.lbl.style.opacity=Math.max(0,Math.min(1,(sw.p-0.5)/0.4));
+    sw.body.style.transform=`translateX(${Math.max(-18,-dx*0.15)}px)`;
+    if(!sw.armed&&sw.p>=0.98){sw.armed=true;if(navigator.vibrate)navigator.vibrate(18)}
+    else if(sw.armed&&sw.p<0.98)sw.armed=false;
+  }else{
+    sw.t=Math.max(-DEL_W-24,Math.min(0,sw.start+dx));
+    sw.body.style.transform=`translateX(${sw.t}px)`;
+  }
 },{passive:true});
 function endSwipe(){
   if(!sw.box)return;
-  const box=sw.box,body=sw.body,axis=sw.axis,t=sw.t;
-  sw.box=null;sw.body=null;
+  const box=sw.box,body=sw.body,axis=sw.axis,t=sw.t,p=sw.p,isSet=sw.isSet,ex=sw.ex,si=sw.si,tint=sw.tint,lbl=sw.lbl,empty=sw.empty;
+  sw.box=null;sw.body=null;sw.isSet=false;sw.ex=null;sw.si=0;sw.tint=null;sw.lbl=null;sw.p=0;sw.armed=false;sw.empty=false;
   box.classList.remove("drag");
   body.style.transform="";
   if(axis==="x"){
     lastSwipe=Date.now();
-    box.classList.toggle("open",t<-DEL_W/2);
+    if(isSet){
+      if(tint)tint.style.width="";if(lbl)lbl.style.opacity="";
+      if(p>=0.98){
+        box.classList.add("deleting");
+        if(tint)tint.style.width="100%";
+        setTimeout(()=>{if(empty)removeEmptySet(ex);else removeSet(ex,si)},160);
+      }
+    }else{
+      box.classList.toggle("open",t<-DEL_W/2);
+    }
   }
 }
 document.addEventListener("pointerup",endSwipe,{passive:true});
