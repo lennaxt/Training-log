@@ -106,7 +106,7 @@
   .gear{background:none;border:none;padding:4px;cursor:pointer;color:var(--ink-soft);display:flex;line-height:0;transition:color .2s}
   .gear:active{color:var(--ink)}
   .colorpick{display:flex;align-items:center;gap:18px;padding:16px 4px;border-top:1px solid var(--line);-webkit-tap-highlight-color:transparent}
-  .colorpick:last-of-type{border-bottom:1px solid var(--line);margin-bottom:36px}
+  .colorpick.pick-last{border-bottom:1px solid var(--line);margin-bottom:36px}
   .cp-dot{display:block;flex:none;width:52px;height:52px;border-radius:50%;background:var(--ink);box-shadow:0 0 0 1px var(--line) inset}
   .cp-meta{display:flex;flex-direction:column;gap:6px;min-width:0;flex:1}
   .cp-name{font-size:11.5px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink-soft)}
@@ -1374,6 +1374,9 @@ function paintColorVisibility(){
   const kHidden=isCatHidden("kraft"),rHidden=isCatHidden("rad");
   ["pickA","pickB"].forEach(id=>{const el=document.getElementById(id);if(el)el.classList.toggle("hidden",kHidden)});
   const r=document.getElementById("pickR");if(r)r.classList.toggle("hidden",rHidden);
+  const visible=[...document.querySelectorAll(".colorpick:not(.hidden)")];
+  document.querySelectorAll(".colorpick").forEach(el=>el.classList.remove("pick-last"));
+  if(visible.length)visible[visible.length-1].classList.add("pick-last");
 }
 function openSettings(){paintPicks();paintColorVisibility();document.getElementById("setOverlay").classList.add("open")}
 function closeSettings(){document.getElementById("setOverlay").classList.remove("open")}
