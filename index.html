@@ -883,7 +883,7 @@ function renderTrain(){
   // Zeigt immer sofort Übungen — session startet lazy beim ersten Satz
   const day=store.active?store.active.day:(dayPick||nextDay());
   const prs=prMap(),ex=planFor(day);
-  let h=`<div class="eyebrow plain" style="margin-bottom:18px">Tag ${day} · ${dayLabel(day)}</div><div class="list">`;
+  let h=`<div class="eyebrow" style="margin-bottom:18px">Tag ${day} · ${dayLabel(day)}</div><div class="list">`;
   ex.forEach((e,i)=>{
     const lg=store.active?store.active.log[e.id]||[]:[];
     const last=lastFor(e.id),own=!!e.own;
@@ -1026,8 +1026,7 @@ function renderRadTrain(){
   if(last&&last.rad){radDraft={min:last.rad.min||0,kcal:last.rad.kcal||0,hm:last.rad.hm||0,km:last.rad.km||0}}
   const active=store.active&&store.active.day==="R";
   const rd=active&&store.active.rad?store.active.rad:radDraft;
-  v.innerHTML=`<div class="eyebrow plain" style="margin-bottom:18px">Rennrad</div>
-    <div class="rad-form">
+  v.innerHTML=`<div class="rad-form">
       <label>Dauer (min)<input type="number" id="radMin" value="${rd.min}" onchange="updateRad()"></label>
       <label>Kalorien<input type="number" id="radKcal" value="${rd.kcal}" onchange="updateRad()"></label>
       <label>Höhenmeter<input type="number" id="radHm" value="${rd.hm}" onchange="updateRad()"></label>
