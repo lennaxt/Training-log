@@ -93,7 +93,7 @@
   /* ── Kopf ── */
   .head{display:flex;align-items:center;justify-content:space-between;
         padding-bottom:22px;border-bottom:1px solid var(--line);margin-bottom:22px}
-  .brand{display:flex;align-items:center;gap:13px}
+  .brand{display:flex;align-items:center;gap:13px;background:none;border:0;padding:0;color:inherit;font:inherit;cursor:pointer;-webkit-tap-highlight-color:transparent}
   .mark{width:42px;height:42px;background:var(--green);color:#fff;flex:none;
     display:flex;align-items:center;justify-content:center;transition:background .25s;
     font-family:'Fraunces',serif;font-weight:600;font-size:16px;letter-spacing:-0.02em}
@@ -379,6 +379,30 @@
   .auth-user{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 0;border-top:1px solid var(--line);margin-top:22px}
   .auth-user-info{font-size:13px;color:var(--ink-soft);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .auth-logout{background:none;border:1px solid var(--line);padding:8px 14px;font-family:inherit;font-size:12px;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-soft);cursor:pointer;min-height:36px}
+
+  .pref-section{margin-bottom:36px}
+  .pref-title{font-family:'Fraunces',serif;font-size:22px;font-weight:500;letter-spacing:-0.01em;margin-bottom:6px}
+  .pref-sub{font-size:13px;color:var(--ink-soft);margin-bottom:14px;line-height:1.5}
+  .pref-row{display:flex;align-items:center;justify-content:space-between;gap:14px;
+    padding:16px 4px;border-top:1px solid var(--line);width:100%;background:none;border-left:0;border-right:0;
+    font-family:'Fraunces',serif;font-size:17px;font-weight:500;color:var(--ink);text-align:left;min-height:56px;
+    -webkit-tap-highlight-color:transparent}
+  .pref-row:last-child{border-bottom:1px solid var(--line)}
+  .pref-clickable{cursor:pointer}
+  .pref-clickable:active{background:var(--paper-2)}
+  .pref-switch{appearance:none;-webkit-appearance:none;width:48px;height:28px;background:var(--line);border-radius:999px;
+    position:relative;cursor:pointer;flex:none;transition:background .2s;margin:0}
+  .pref-switch::after{content:"";position:absolute;top:2px;left:2px;width:24px;height:24px;border-radius:50%;
+    background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.2);transition:transform .2s}
+  .pref-switch:checked{background:var(--ink)}
+  .pref-switch:checked::after{transform:translateX(20px)}
+  .pref-badge{font-family:'Inter',sans-serif;font-size:10.5px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;
+    color:var(--ink-soft);background:var(--paper-2);padding:5px 10px;border-radius:999px}
+  .pref-foot{margin-top:auto;padding-top:22px;border-top:1px solid var(--line);
+    display:flex;align-items:center;justify-content:space-between;gap:12px}
+  .pref-account{font-size:12px;color:var(--ink-soft);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .pref-logout{background:none;border:1px solid var(--line);padding:8px 14px;font-family:inherit;font-size:12px;
+    letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-soft);cursor:pointer;min-height:36px}
 </style>
 </head>
 <body class="auth-pending">
@@ -399,10 +423,10 @@
 <div class="wrap">
 
   <div class="head">
-    <div class="brand">
+    <button class="brand" onclick="openPrefs()" aria-label="Einstellungen">
       <div class="mark" id="brandMark">L</div>
       <strong class="brand-title">Trainingslog</strong>
-    </div>
+    </button>
     <div class="head-right">
       <div class="stamp"><b id="stampDate">–</b><span id="stampDay">–</span></div>
       <button class="gear" onclick="openSettings()" aria-label="Farben einstellen"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg></button>
@@ -457,6 +481,36 @@
   </div>
 </div>
 
+<div class="plan-overlay" id="prefsOverlay">
+  <div class="plan-sheet">
+    <div class="plan-top">
+      <h1 class="plan-title">Einstellungen</h1>
+      <button class="plan-close" onclick="closePrefs()" aria-label="Schließen">×</button>
+    </div>
+
+    <div class="pref-section">
+      <div class="pref-title">Bereiche</div>
+      <div class="pref-sub">Blende Trainingsarten aus die du nicht nutzt.</div>
+      <label class="pref-row"><span>Kraft</span>
+        <input type="checkbox" class="pref-switch" id="prefCatKraft" onchange="togglePrefCat('kraft',this.checked)"></label>
+      <label class="pref-row"><span>Rennrad</span>
+        <input type="checkbox" class="pref-switch" id="prefCatRad" onchange="togglePrefCat('rad',this.checked)"></label>
+    </div>
+
+    <div class="pref-section">
+      <div class="pref-title">Verbindungen</div>
+      <div class="pref-sub">Daten aus anderen Apps holen.</div>
+      <button class="pref-row pref-clickable" onclick="prefConnect('apple')"><span>Apple Health</span><span class="pref-badge">Bald</span></button>
+      <button class="pref-row pref-clickable" onclick="prefConnect('strava')"><span>Strava</span><span class="pref-badge">Bald</span></button>
+    </div>
+
+    <div class="pref-foot">
+      <div class="pref-account" id="prefUserInfo">–</div>
+      <button class="pref-logout" onclick="doLogout()">Abmelden</button>
+    </div>
+  </div>
+</div>
+
 <div class="plan-overlay" id="setOverlay">
   <div class="plan-sheet">
     <div class="plan-top">
@@ -493,11 +547,6 @@
     <div class="set-actions">
       <button class="set-random" onclick="randomAccents()">Überrasch mich</button>
       <button class="set-reset" onclick="resetAccents()">Zurücksetzen</button>
-    </div>
-
-    <div class="auth-user">
-      <span class="auth-user-info" id="authUserInfo">–</span>
-      <button class="auth-logout" onclick="doLogout()">Abmelden</button>
     </div>
   </div>
 </div>
@@ -558,6 +607,7 @@ function load(){
   if(!s.schemes)s.schemes={};
   if(!s.plans)s.plans={};
   if(!s.deleted)s.deleted=[];
+  if(!s.hiddenCats)s.hiddenCats=[];
   allDays(s).forEach(d=>{
     if(!s.custom[d])s.custom[d]=[];
     if(!s.hidden[d])s.hidden[d]=[];
@@ -854,7 +904,7 @@ function paintTabs(){
   }
 }
 function setTab(t){tab=t;render()}
-function render(){paintTop();paintTabs();
+function render(){paintTop();paintTabs();paintCatRow();
   document.getElementById("viewTrain").classList.toggle("hidden",tab!=="train");
   document.getElementById("viewHist").classList.toggle("hidden",tab!=="history");
   document.getElementById("viewProg").classList.toggle("hidden",tab!=="progress");
@@ -1323,6 +1373,32 @@ function onHexInput(slot,el){
 function openSettings(){paintPicks();document.getElementById("setOverlay").classList.add("open")}
 function closeSettings(){document.getElementById("setOverlay").classList.remove("open")}
 
+function isCatHidden(c){return (store.hiddenCats||[]).includes(c)}
+function paintCatRow(){
+  document.getElementById("catKraft").classList.toggle("hidden",isCatHidden("kraft"));
+  document.getElementById("catRad").classList.toggle("hidden",isCatHidden("rad"));
+}
+function openPrefs(){paintPrefs();document.getElementById("prefsOverlay").classList.add("open")}
+function closePrefs(){document.getElementById("prefsOverlay").classList.remove("open")}
+function paintPrefs(){
+  const hidden=store.hiddenCats||[];
+  const k=document.getElementById("prefCatKraft"),r=document.getElementById("prefCatRad");
+  if(k)k.checked=!hidden.includes("kraft");
+  if(r)r.checked=!hidden.includes("rad");
+}
+function togglePrefCat(c,on){
+  const list=new Set(store.hiddenCats||[]);
+  if(on)list.delete(c);else list.add(c);
+  if(list.has("kraft")&&list.has("rad")){list.delete(c);paintPrefs();
+    toast("Mindestens ein Bereich","Kraft oder Rennrad muss aktiv bleiben");return}
+  store.hiddenCats=[...list];
+  if(list.has(cat))setCat(list.has("kraft")?"rad":"kraft");
+  save();render();
+}
+function prefConnect(name){
+  const label=name==="apple"?"Apple Health":"Strava";
+  toast(label,"Kommt bald — sag Bescheid wenn du das jetzt bauen willst")}
+
 applyStoredAccents();
 render();
 </script>
@@ -1404,8 +1480,9 @@ onAuthStateChanged(auth,async(user)=>{
   if(user){
     await cloudLoad();
     if(window._reloadStore)window._reloadStore(keyFor(user.uid));
-    const info=document.getElementById("authUserInfo");
-    if(info)info.textContent=user.displayName?`${user.displayName} · ${user.email}`:(user.email||"Angemeldet");
+    const label=user.email||user.displayName||"Angemeldet";
+    const info=document.getElementById("authUserInfo");if(info)info.textContent=label;
+    const pinfo=document.getElementById("prefUserInfo");if(pinfo)pinfo.textContent=label;
     document.body.classList.remove("auth-pending");
   }else{
     document.body.classList.add("auth-pending");
