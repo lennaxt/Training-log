@@ -17,6 +17,7 @@
     --green:#5C6B33;
     --green-dark:#455123;
     --green-lite:#9AAD5A;
+    --rad:#5C6B33;
     --blue:#DC851F;
     --blue-dark:#C46E12;
     --blue-deep:#DC851F;
@@ -97,9 +98,30 @@
     display:flex;align-items:center;justify-content:center;transition:background .25s;
     font-family:'Fraunces',serif;font-weight:600;font-size:16px;letter-spacing:-0.02em}
   body.dayB .mark{background:linear-gradient(140deg,var(--earth),var(--glow))}
+  body.catRad .mark{background:var(--rad)}
   .mark.dark{background:var(--ink)}
   .brand-text strong{font-family:'Fraunces',serif;font-weight:500;font-size:18px;display:block;line-height:1.2}
   .brand-text span{font-size:10px;letter-spacing:0.14em;text-transform:uppercase;color:var(--ink-soft);font-weight:500}
+  .head-right{display:flex;align-items:center;gap:14px}
+  .gear{background:none;border:none;padding:4px;cursor:pointer;color:var(--ink-soft);display:flex;line-height:0;transition:color .2s}
+  .gear:active{color:var(--ink)}
+  .colorpick{display:flex;align-items:center;gap:18px;padding:16px 4px;border-top:1px solid var(--line);-webkit-tap-highlight-color:transparent}
+  .colorpick:last-of-type{border-bottom:1px solid var(--line);margin-bottom:36px}
+  .cp-dot{display:block;flex:none;width:52px;height:52px;border-radius:50%;background:var(--ink);box-shadow:0 0 0 1px var(--line) inset}
+  .cp-meta{display:flex;flex-direction:column;gap:6px;min-width:0;flex:1}
+  .cp-name{font-size:11.5px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink-soft)}
+  .cp-row{display:flex;align-items:center;gap:10px}
+  .cp-hex{font-family:'Fraunces',serif;font-size:20px;font-weight:500;color:var(--ink);letter-spacing:0.01em;
+    border:none;background:none;padding:3px 6px;margin:-3px -6px;width:6.5em;border-radius:0;text-transform:uppercase}
+  .cp-hex:focus,.cp-hex:focus-visible{outline:2px solid var(--ink);outline-offset:1px;border-radius:0}
+  .cp-pick{position:relative;flex:none;width:40px;height:40px;border-radius:10px;border:1.5px solid var(--line);
+    display:flex;align-items:center;justify-content:center;color:var(--ink-soft);cursor:pointer;-webkit-tap-highlight-color:transparent}
+  .cp-pick:active{border-color:var(--ink);color:var(--ink)}
+  .cp-pick input{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer;border:none;padding:0;background:none}
+  .cp-pick svg{width:18px;height:18px}
+  .set-actions{display:flex;flex-direction:column;gap:10px;margin-top:auto}
+  .set-random{width:100%;height:52px;border-radius:12px;border:none;background:var(--ink);color:var(--paper);font-weight:600;font-size:14px;cursor:pointer;letter-spacing:0.02em;font-family:inherit}
+  .set-reset{width:100%;height:52px;border-radius:12px;border:1.5px solid var(--line);background:none;color:var(--ink-soft);font-weight:600;font-size:14px;cursor:pointer;letter-spacing:0.02em;font-family:inherit}
   .stamp{text-align:right;line-height:1.3}
   .stamp b{font-family:'Fraunces',serif;font-weight:500;font-size:15px;display:block}
   .stamp span{font-size:10.5px;letter-spacing:0.12em;text-transform:uppercase;color:var(--ink-soft);font-weight:500}
@@ -306,17 +328,17 @@
   .picker select{width:100%;-webkit-appearance:none;appearance:none;background:none;border:0;
     font-family:'Fraunces',serif;font-weight:500;font-size:23px;letter-spacing:-0.01em;
     padding:0 30px 16px 0;cursor:pointer}
-  .picker select:focus-visible{outline-color:#7E5920}
+  .picker select:focus-visible{outline-color:var(--green-dark)}
   .picker::after{content:"";position:absolute;right:4px;top:8px;width:9px;height:9px;
-    border-right:1.5px solid #A8803A;border-bottom:1.5px solid #A8803A;transform:rotate(45deg);pointer-events:none}
+    border-right:1.5px solid var(--green);border-bottom:1.5px solid var(--green);transform:rotate(45deg);pointer-events:none}
   .readout{display:flex;align-items:flex-end;justify-content:space-between;margin-bottom:28px}
-  .readout .cur b{font-family:'Fraunces',serif;font-weight:500;font-size:56px;color:#7E5920;line-height:.9}
+  .readout .cur b{font-family:'Fraunces',serif;font-weight:500;font-size:56px;color:var(--green-dark);line-height:.9}
   .readout .cur .u{font-size:17px;color:var(--ink-soft);margin-left:5px}
   .readout .cur span{font-size:12px;color:var(--ink-soft);display:block;margin-top:9px;
     letter-spacing:0.13em;text-transform:uppercase;font-weight:600}
   .readout .pr{text-align:right}
-  .readout .pr b{font-family:'Fraunces',serif;font-weight:500;font-size:26px;color:#A8803A;line-height:1}
-  .readout .pr span{font-size:11px;color:#A8803A;display:block;margin-top:7px;
+  .readout .pr b{font-family:'Fraunces',serif;font-weight:500;font-size:26px;color:var(--green);line-height:1}
+  .readout .pr span{font-size:11px;color:var(--green);display:block;margin-top:7px;
     letter-spacing:0.13em;text-transform:uppercase;font-weight:600}
   .chartbox{border-top:1px solid var(--line);padding-top:24px}
   svg.spark{width:100%;height:150px;display:block;overflow:visible}
@@ -341,9 +363,37 @@
   @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
   button:focus-visible,select:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
   .hidden{display:none!important}
+
+  .auth-gate{position:fixed;inset:0;background:var(--bg);display:none;align-items:center;justify-content:center;padding:24px;z-index:900}
+  body.auth-pending .auth-gate{display:flex}
+  body.auth-pending .wrap{visibility:hidden}
+  .auth-card{max-width:340px;text-align:center}
+  .auth-card .mark{width:56px;height:56px;font-size:22px;margin:0 auto 24px}
+  .auth-title{font-family:'Fraunces',serif;font-weight:500;font-size:32px;margin:0 0 14px;letter-spacing:-0.01em}
+  .auth-sub{color:var(--ink-soft);margin:0 0 32px;font-size:14px;line-height:1.55}
+  .auth-btn{display:inline-flex;align-items:center;gap:12px;padding:14px 24px;background:var(--ink);color:#fff;border:none;font-size:15px;font-family:inherit;font-weight:500;cursor:pointer;min-height:48px}
+  .auth-btn svg{background:#fff;padding:3px;border-radius:2px}
+  .auth-err{color:#c33;font-size:13px;margin-top:16px;min-height:18px}
+  .auth-user{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 0;border-top:1px solid var(--line);margin-top:22px}
+  .auth-user-info{font-size:13px;color:var(--ink-soft);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .auth-logout{background:none;border:1px solid var(--line);padding:8px 14px;font-family:inherit;font-size:12px;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-soft);cursor:pointer;min-height:36px}
 </style>
 </head>
-<body>
+<body class="auth-pending">
+
+<div class="auth-gate" id="authGate">
+  <div class="auth-card">
+    <div class="mark">L</div>
+    <h1 class="auth-title">Trainingslog</h1>
+    <p class="auth-sub">Melde dich an, um deine Einheiten sicher zu speichern und über deine Geräte hinweg zu nutzen.</p>
+    <button class="auth-btn" onclick="doLogin()">
+      <svg width="18" height="18" viewBox="0 0 48 48"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/></svg>
+      Mit Google anmelden
+    </button>
+    <div class="auth-err" id="authErr"></div>
+  </div>
+</div>
+
 <div class="wrap">
 
   <div class="head">
@@ -351,7 +401,10 @@
       <div class="mark" id="brandMark">L</div>
       <strong class="brand-title">Trainingslog</strong>
     </div>
-    <div class="stamp"><b id="stampDate">–</b><span id="stampDay">–</span></div>
+    <div class="head-right">
+      <div class="stamp"><b id="stampDate">–</b><span id="stampDay">–</span></div>
+      <button class="gear" onclick="openSettings()" aria-label="Farben einstellen"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg></button>
+    </div>
   </div>
 
   <div class="cat-row">
@@ -402,6 +455,51 @@
   </div>
 </div>
 
+<div class="plan-overlay" id="setOverlay">
+  <div class="plan-sheet">
+    <div class="plan-top">
+      <h1 class="plan-title">Farben</h1>
+      <button class="plan-close" onclick="closeSettings()" aria-label="Schließen">×</button>
+    </div>
+    <div class="plan-sub">Hex-Wert eintippen · oder mit der Pipette eine eigene Farbe wählen</div>
+
+    <div class="colorpick" id="pickA">
+      <span class="cp-dot"></span>
+      <span class="cp-meta"><span class="cp-name">Kraft · Farbe 1</span>
+        <span class="cp-row">
+          <input type="text" class="cp-hex" maxlength="7" spellcheck="false" autocapitalize="off" autocomplete="off" aria-label="Hex-Wert Kraft Farbe 1" oninput="onHexInput('a',this)" onblur="paintPicks()">
+          <label class="cp-pick" aria-label="Eigene Farbe wählen"><input type="color" class="cp-native" onchange="setAccent('a',this.value)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m2 22 1-1h3l9-9"/><path d="M3 21v-3l9-9"/><path d="m15 6 3.4-3.4a2.1 2.1 0 1 1 3 3L18 9l.4.4a2.1 2.1 0 1 1-3 3l-3.8-3.8a2.1 2.1 0 1 1 3-3l.4.4Z"/></svg></label>
+        </span></span>
+    </div>
+    <div class="colorpick" id="pickB">
+      <span class="cp-dot"></span>
+      <span class="cp-meta"><span class="cp-name">Kraft · Farbe 2</span>
+        <span class="cp-row">
+          <input type="text" class="cp-hex" maxlength="7" spellcheck="false" autocapitalize="off" autocomplete="off" aria-label="Hex-Wert Kraft Farbe 2" oninput="onHexInput('b',this)" onblur="paintPicks()">
+          <label class="cp-pick" aria-label="Eigene Farbe wählen"><input type="color" class="cp-native" onchange="setAccent('b',this.value)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m2 22 1-1h3l9-9"/><path d="M3 21v-3l9-9"/><path d="m15 6 3.4-3.4a2.1 2.1 0 1 1 3 3L18 9l.4.4a2.1 2.1 0 1 1-3 3l-3.8-3.8a2.1 2.1 0 1 1 3-3l.4.4Z"/></svg></label>
+        </span></span>
+    </div>
+    <div class="colorpick" id="pickR">
+      <span class="cp-dot"></span>
+      <span class="cp-meta"><span class="cp-name">Rennrad</span>
+        <span class="cp-row">
+          <input type="text" class="cp-hex" maxlength="7" spellcheck="false" autocapitalize="off" autocomplete="off" aria-label="Hex-Wert Rennrad" oninput="onHexInput('r',this)" onblur="paintPicks()">
+          <label class="cp-pick" aria-label="Eigene Farbe wählen"><input type="color" class="cp-native" onchange="setAccent('r',this.value)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m2 22 1-1h3l9-9"/><path d="M3 21v-3l9-9"/><path d="m15 6 3.4-3.4a2.1 2.1 0 1 1 3 3L18 9l.4.4a2.1 2.1 0 1 1-3 3l-3.8-3.8a2.1 2.1 0 1 1 3-3l.4.4Z"/></svg></label>
+        </span></span>
+    </div>
+
+    <div class="set-actions">
+      <button class="set-random" onclick="randomAccents()">Überrasch mich</button>
+      <button class="set-reset" onclick="resetAccents()">Zurücksetzen</button>
+    </div>
+
+    <div class="auth-user">
+      <span class="auth-user-info" id="authUserInfo">–</span>
+      <button class="auth-logout" onclick="doLogout()">Abmelden</button>
+    </div>
+  </div>
+</div>
+
 <div class="toast" id="toast"><span class="k" id="toastK"></span><span class="v" id="toastV"></span></div>
 
 <script>
@@ -445,9 +543,10 @@ function dayLabel(d){
 }
 
 /* ── Speicher ── */
-const KEY="trainingslog_v3";
+let KEY="trainingslog_v3";
 var store=null,warned=false;
 store=load();
+window._reloadStore=function(newKey){if(newKey)KEY=newKey;store=load();applyStoredAccents();render()};
 function load(){
   let s={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:[]};
   try{const r=localStorage.getItem(KEY);if(r)s=Object.assign(s,JSON.parse(r))}catch(e){}
@@ -620,6 +719,7 @@ function setCat(c){
   cat=c;tab="train";
   document.getElementById("catKraft").classList.toggle("on",c==="kraft");
   document.getElementById("catRad").classList.toggle("on",c==="rad");
+  document.body.classList.toggle("catRad",c==="rad");
   if(c==="rad"){dayPick="R"}else{if(dayPick==="R")dayPick=null}
   openEx=null;newOpen=false;render();
 }
@@ -698,7 +798,7 @@ function paintTop(){
     heroLetter.style.display="";
     heroLetter.style.fontSize="48px";
     heroLetter.style.letterSpacing="-0.02em";
-    heroLetter.style.color="var(--green)";
+    heroLetter.style.color="var(--rad)";
     heroSide.style.display="none";
   }else{
     heroLetter.style.fontSize="";
@@ -1004,17 +1104,32 @@ function wipe(){if(confirm("Alle Einheiten und eigenen Übungen löschen? Das l�
   {store={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{}};save();openEx=null;newOpen=false;setTab("train")}}
 
 /* ── Verlaufskurve ── */
+function idsByName(){
+  const map={};
+  allIds().forEach(id=>{
+    if(!store.sessions.some(s=>s.log[id]&&s.log[id].length))return;
+    const n=exName(id);
+    (map[n]=map[n]||[]).push(id);
+  });
+  return map;
+}
 function renderProg(){const v=document.getElementById("viewProg");
-  const ids=allIds().filter(id=>store.sessions.some(s=>s.log[id]&&s.log[id].length));
-  if(!ids.length){v.innerHTML=`<div class="empty"><div class="eyebrow">Verlaufskurve</div>
+  const groups=idsByName();
+  const names=Object.keys(groups).sort((a,b)=>a.localeCompare(b,"de"));
+  if(!names.length){v.innerHTML=`<div class="empty"><div class="eyebrow">Verlaufskurve</div>
     <h3>Noch keine Daten.</h3><p>Nach zwei erfassten Einheiten erscheint hier deine Entwicklung je Übung.</p></div>`;return}
-  if(!progSel||!ids.includes(progSel))progSel=ids[0];
+  if(!progSel||!names.includes(progSel))progSel=names[0];
   v.innerHTML=`<div class="picker"><select onchange="progSel=this.value;renderProg()">
-    ${ids.map(id=>`<option value="${id}" ${id===progSel?'selected':''}>${esc(exName(id))}</option>`).join("")}
+    ${names.map(n=>`<option value="${esc(n)}" ${n===progSel?'selected':''}>${esc(n)}</option>`).join("")}
     </select></div><div id="chart"></div>`;
   chart(progSel)}
-function chart(id){
-  const pts=[];store.sessions.forEach(s=>{const l=s.log[id];if(l&&l.length){let m=0;l.forEach(x=>{if(x.kg>m)m=x.kg});pts.push({ts:s.ts,kg:m})}});
+function chart(name){
+  const ids=idsByName()[name]||[];
+  const pts=[];store.sessions.forEach(s=>{
+    let m=0,has=false;
+    ids.forEach(id=>{const l=s.log[id];if(l&&l.length){has=true;l.forEach(x=>{if(x.kg>m)m=x.kg})}});
+    if(has)pts.push({ts:s.ts,kg:m});
+  });
   const m=document.getElementById("chart");
   const cur=pts.length?pts[pts.length-1].kg:0,pr=pts.reduce((a,p)=>Math.max(a,p.kg),0);
   const head=`<div class="readout">
@@ -1028,14 +1143,14 @@ function chart(id){
   const line=pts.map((a,i)=>(i?"L":"M")+sx(a.ts).toFixed(1)+" "+sy(a.kg).toFixed(1)).join(" ");
   const area=`M${sx(x0).toFixed(1)} ${H-p} `+pts.map(a=>`L${sx(a.ts).toFixed(1)} ${sy(a.kg).toFixed(1)}`).join(" ")+` L${sx(x1).toFixed(1)} ${H-p} Z`;
   const dots=pts.map(a=>`<circle cx="${sx(a.ts).toFixed(1)}" cy="${sy(a.kg).toFixed(1)}" r="3"
-    fill="${a.kg>=pr?'#A8803A':'#7E5920'}"/>`).join("");
+    fill="${a.kg>=pr?'var(--green)':'var(--green-dark)'}"/>`).join("");
   m.innerHTML=head+`<div class="chartbox">
     <svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
       <defs><linearGradient id="ag" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0" stop-color="#7E5920" stop-opacity=".18"/><stop offset="1" stop-color="#A8803A" stop-opacity="0"/>
+        <stop offset="0" stop-color="var(--green-dark)" stop-opacity=".18"/><stop offset="1" stop-color="var(--green)" stop-opacity="0"/>
       </linearGradient>
       <linearGradient id="lg" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0" stop-color="#5C3F12"/><stop offset="1" stop-color="#A8803A"/>
+        <stop offset="0" stop-color="var(--green-dark)"/><stop offset="1" stop-color="var(--green)"/>
       </linearGradient></defs>
       <path d="${area}" fill="url(#ag)"/>
       <path d="${line}" fill="none" stroke="url(#lg)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
@@ -1139,12 +1254,79 @@ function toast(k,v){const t=document.getElementById("toast");
   document.getElementById("toastK").textContent=k;document.getElementById("toastV").textContent=v;
   t.classList.add("show");clearTimeout(tT);tT=setTimeout(()=>t.classList.remove("show"),2600)}
 
+/* ── Akzentfarben ── */
+const PALETTE=["#DC851F","#E8A13C","#C97A2B","#C0392B","#A93226",
+  "#B5537E","#8E5AA8","#5D5FAE","#4F7CAC","#2E6DA4",
+  "#2E7D6B","#3E9B8E","#6E8B3D","#5C6B33","#3E7D3A",
+  "#7E5920","#A8803A","#8A6D5C","#6E675F","#343330"];
+const DEF_A="#DC851F",DEF_B="#5C6B33",DEF_R="#5C6B33";
+const rootStyle=document.documentElement.style;
+function hexRgb(h){h=h.replace("#","");return[parseInt(h.slice(0,2),16),parseInt(h.slice(2,4),16),parseInt(h.slice(4,6),16)]}
+function shade(hex,amt){const c=hexRgb(hex),f=amt<0?0:255,p=Math.abs(amt);
+  return "#"+c.map(v=>Math.round(v+(f-v)*p).toString(16).padStart(2,"0")).join("")}
+function applyAccentA(hex){
+  ["--earth","--blue","--blue-deep","--sand","--clay"].forEach(v=>rootStyle.setProperty(v,hex));
+  rootStyle.setProperty("--glow",shade(hex,0.22));
+  rootStyle.setProperty("--khaki",shade(hex,0.22));
+  rootStyle.setProperty("--blue-dark",shade(hex,-0.16));
+}
+function applyAccentB(hex){
+  rootStyle.setProperty("--green",hex);
+  rootStyle.setProperty("--green-lite",shade(hex,0.28));
+  rootStyle.setProperty("--green-dark",shade(hex,-0.22));
+}
+function applyAccentRad(hex){rootStyle.setProperty("--rad",hex)}
+const ACCENT_VARS=["--earth","--blue","--blue-deep","--sand","--clay","--glow","--khaki","--blue-dark",
+  "--green","--green-lite","--green-dark","--rad"];
+function applyStoredAccents(){
+  ACCENT_VARS.forEach(v=>rootStyle.removeProperty(v));
+  if(store.accentA)applyAccentA(store.accentA);
+  if(store.accentB)applyAccentB(store.accentB);
+  if(store.accentRad)applyAccentRad(store.accentRad);
+}
+window.applyStoredAccents=applyStoredAccents;
+function setAccent(slot,hex){
+  if(slot==="a")store.accentA=hex;else if(slot==="b")store.accentB=hex;else store.accentRad=hex;
+  applyStoredAccents();save();paintPicks();render();
+}
+function resetAccents(){
+  delete store.accentA;delete store.accentB;delete store.accentRad;
+  applyStoredAccents();save();paintPicks();render();
+}
+function randomAccents(){
+  const rnd=ex=>{let c;do{c=PALETTE[Math.floor(Math.random()*PALETTE.length)]}while(ex.includes(c));return c};
+  store.accentA=rnd([]);store.accentB=rnd([store.accentA]);store.accentRad=rnd([store.accentA,store.accentB]);
+  applyStoredAccents();save();paintPicks();render();
+}
+function paintPicks(){
+  [["pickA",store.accentA||DEF_A],["pickB",store.accentB||DEF_B],["pickR",store.accentRad||DEF_R]].forEach(([id,cur])=>{
+    const root=document.getElementById(id);if(!root)return;
+    root.querySelector(".cp-dot").style.background=cur;
+    root.querySelector(".cp-native").value=cur;
+    root.querySelector(".cp-hex").value=cur.toUpperCase();
+  });
+}
+function onHexInput(slot,el){
+  let v=el.value.trim();
+  if(v&&v[0]!=="#")v="#"+v;
+  if(!/^#[0-9a-fA-F]{6}$/.test(v))return;
+  if(slot==="a")store.accentA=v;else if(slot==="b")store.accentB=v;else store.accentRad=v;
+  applyStoredAccents();save();
+  const root=el.closest(".colorpick");
+  root.querySelector(".cp-dot").style.background=v;
+  root.querySelector(".cp-native").value=v;
+}
+function openSettings(){paintPicks();document.getElementById("setOverlay").classList.add("open")}
+function closeSettings(){document.getElementById("setOverlay").classList.remove("open")}
+
+applyStoredAccents();
 render();
 </script>
 
 <script type="module">
 import{initializeApp}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-app.js";
 import{getFirestore,doc,getDoc,setDoc}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-firestore.js";
+import{getAuth,GoogleAuthProvider,signInWithPopup,signInWithRedirect,getRedirectResult,signOut,onAuthStateChanged,browserLocalPersistence,setPersistence}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-auth.js";
 
 const fb=initializeApp({
   apiKey:"AIzaSyBFew0s1dbJzdAmmVh2b34Eau3LZFHowa8",
@@ -1155,31 +1337,76 @@ const fb=initializeApp({
   appId:"1:244745209928:web:74a95a4603a5b5c399b07d"
 });
 const db=getFirestore(fb);
-const USER="lennart";
-const REF=doc(db,"users",USER);
+const auth=getAuth(fb);
+const provider=new GoogleAuthProvider();
+setPersistence(auth,browserLocalPersistence).catch(()=>{});
+
+let currentUser=null;
+const keyFor=uid=>"trainingslog_v3_"+uid;
+const LEGACY_EMAIL="lennart.ising@icloud.com";
 
 async function cloudSave(){
-  try{await setDoc(REF,{data:JSON.parse(localStorage.getItem("trainingslog_v3")||"{}"),ts:Date.now()});
+  if(!currentUser)return;
+  try{
+    const raw=localStorage.getItem(keyFor(currentUser.uid))||"{}";
+    await setDoc(doc(db,"users",currentUser.uid),{data:JSON.parse(raw),ts:Date.now(),email:currentUser.email||""});
   }catch(e){console.warn("Cloud-Save fehlgeschlagen:",e)}
 }
 
 async function cloudLoad(){
+  if(!currentUser)return;
   try{
-    const snap=await getDoc(REF);
+    const ref=doc(db,"users",currentUser.uid);
+    let snap=await getDoc(ref);
+    if(!snap.exists()&&currentUser.email===LEGACY_EMAIL){
+      const legacy=await getDoc(doc(db,"users","lennart"));
+      if(legacy.exists()){
+        await setDoc(ref,legacy.data());
+        snap=await getDoc(ref);
+      }
+    }
     if(!snap.exists())return;
     const cloud=snap.data();
-    const local=JSON.parse(localStorage.getItem("trainingslog_v3")||"{}");
+    const key=keyFor(currentUser.uid);
+    const local=JSON.parse(localStorage.getItem(key)||"{}");
     const localTs=local._ts||0;
-    if(cloud.ts>localTs){
-      localStorage.setItem("trainingslog_v3",JSON.stringify(cloud.data));
-      store=load();render();
-      toast("Cloud-Sync","Daten aus der Cloud geladen");
+    if((cloud.ts||0)>=localTs){
+      localStorage.setItem(key,JSON.stringify(cloud.data||{}));
     }
   }catch(e){console.warn("Cloud-Load fehlgeschlagen:",e)}
 }
 
 window._cloudSave=cloudSave;
-cloudLoad();
+
+window.doLogin=async function(){
+  const err=document.getElementById("authErr");if(err)err.textContent="";
+  try{
+    await signInWithPopup(auth,provider);
+  }catch(e){
+    console.warn("Popup fehlgeschlagen, versuche Redirect:",e);
+    try{await signInWithRedirect(auth,provider)}
+    catch(e2){if(err)err.textContent="Anmeldung fehlgeschlagen: "+(e2.message||e2.code||"Unbekannter Fehler")}
+  }
+};
+
+window.doLogout=async function(){
+  try{await signOut(auth)}catch(e){console.warn(e)}
+};
+
+getRedirectResult(auth).catch(e=>console.warn("Redirect-Ergebnis:",e));
+
+onAuthStateChanged(auth,async(user)=>{
+  currentUser=user;
+  if(user){
+    await cloudLoad();
+    if(window._reloadStore)window._reloadStore(keyFor(user.uid));
+    const info=document.getElementById("authUserInfo");
+    if(info)info.textContent=user.displayName?`${user.displayName} · ${user.email}`:(user.email||"Angemeldet");
+    document.body.classList.remove("auth-pending");
+  }else{
+    document.body.classList.add("auth-pending");
+  }
+});
 </script>
 </body>
 </html>
