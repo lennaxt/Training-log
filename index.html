@@ -740,7 +740,11 @@ function toggleDay(){
   const to=days[(idx+1)%days.length];
   if(store.active){store.active.day=to;save()}else{dayPick=to}
   openEx=null;newOpen=false;render()}
-function prMap(){const m={};store.sessions.forEach(s=>{for(const id in s.log)s.log[id].forEach(x=>{if(!m[id]||x.kg>m[id])m[id]=x.kg})});return m}
+function prMap(){const m={};
+  const scan=s=>{for(const id in s.log)s.log[id].forEach(x=>{if(x.kg>0&&(!m[id]||x.kg>m[id]))m[id]=x.kg})};
+  store.sessions.forEach(scan);
+  if(store.active)scan(store.active);
+  return m}
 function lastFor(id){for(let i=store.sessions.length-1;i>=0;i--){const l=store.sessions[i].log[id];
   if(l&&l.length){let t=l[0];l.forEach(x=>{if(x.kg>t.kg)t=x});return t}}return null}
 function lastSetsFor(id){for(let i=store.sessions.length-1;i>=0;i--){const l=store.sessions[i].log[id];if(l&&l.length)return l}return null}
@@ -947,9 +951,7 @@ function addSet(id){const dr=draft[id];if(dr.reps<=0)return;
     store.active={day,ts:Date.now(),log:{}};
     dayPick=null;
   }
-  let prev=prMap()[id];
-  const cur=store.active.log[id]||[];
-  cur.forEach(x=>{if(prev==null||x.kg>prev)prev=x.kg});
+  const prev=prMap()[id];
   if(!store.active.log[id])store.active.log[id]=[];
   store.active.log[id].push({kg:dr.kg,reps:Math.round(dr.reps)});
   save();openEx=id;renderTrain();
