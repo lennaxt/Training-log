@@ -761,8 +761,7 @@ function setTable(id,logged,scheme,pr,dr){
     const pvTxt=pv?`${pv.kg} × ${pv.reps}`:"—";
     if(ri<logged.length){
       const s=logged[ri];
-      const isPr=pr!=null&&s.kg>=pr&&s.kg>0;
-      rows+=`<div class="swipe setswipe" data-ex="${id}" data-si="${ri}"><div class="swipe-body setrow done${isPr?' pr':''}"><span class="sr-n">${ri+1}</span><span class="sr-prev">${pvTxt}</span><span class="sr-val">${s.kg}</span><span class="sr-val">${s.reps}</span><button class="sr-check on" onclick="removeSet('${id}',${ri})" aria-label="Satz entfernen">✓</button></div><div class="swipe-tint"></div><span class="swipe-del-lbl">Löschen</span></div>`;
+      rows+=`<div class="swipe setswipe" data-ex="${id}" data-si="${ri}"><div class="swipe-body setrow done"><span class="sr-n">${ri+1}</span><span class="sr-prev">${pvTxt}</span><span class="sr-val">${s.kg}</span><span class="sr-val">${s.reps}</span><button class="sr-check on" onclick="removeSet('${id}',${ri})" aria-label="Satz entfernen">✓</button></div><div class="swipe-tint"></div><span class="swipe-del-lbl">Löschen</span></div>`;
     }else if(ri===logged.length){
       rows+=`<div class="swipe setswipe" data-ex="${id}" data-si="${ri}" data-empty="1"><div class="swipe-body setrow active"><span class="sr-n">${ri+1}</span><span class="sr-prev">${pvTxt}</span><input class="sr-in" type="number" inputmode="decimal" value="${dr.kg}" onchange="setDraft('${id}','kg',this.value)" onfocus="this.select()"><input class="sr-in" type="number" inputmode="numeric" value="${dr.reps}" onchange="setDraft('${id}','reps',this.value)" onfocus="this.select()"><button class="sr-check" onclick="addSet('${id}')" aria-label="Satz abhaken">✓</button></div><div class="swipe-tint"></div><span class="swipe-del-lbl">Löschen</span></div>`;
     }else{
