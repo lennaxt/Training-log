@@ -1026,7 +1026,7 @@ function renderRadTrain(){
   if(last&&last.rad){radDraft={min:last.rad.min||0,kcal:last.rad.kcal||0,hm:last.rad.hm||0,km:last.rad.km||0}}
   const active=store.active&&store.active.day==="R";
   const rd=active&&store.active.rad?store.active.rad:radDraft;
-  v.innerHTML=`<div class="eyebrow" style="margin-bottom:18px">Rennrad</div>
+  v.innerHTML=`<div class="eyebrow plain" style="margin-bottom:18px">Rennrad</div>
     <div class="rad-form">
       <label>Dauer (min)<input type="number" id="radMin" value="${rd.min}" onchange="updateRad()"></label>
       <label>Kalorien<input type="number" id="radKcal" value="${rd.kcal}" onchange="updateRad()"></label>
