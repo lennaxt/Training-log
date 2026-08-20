@@ -1370,7 +1370,12 @@ function onHexInput(slot,el){
   root.querySelector(".cp-dot").style.background=v;
   root.querySelector(".cp-native").value=v;
 }
-function openSettings(){paintPicks();document.getElementById("setOverlay").classList.add("open")}
+function paintColorVisibility(){
+  const kHidden=isCatHidden("kraft"),rHidden=isCatHidden("rad");
+  ["pickA","pickB"].forEach(id=>{const el=document.getElementById(id);if(el)el.classList.toggle("hidden",kHidden)});
+  const r=document.getElementById("pickR");if(r)r.classList.toggle("hidden",rHidden);
+}
+function openSettings(){paintPicks();paintColorVisibility();document.getElementById("setOverlay").classList.add("open")}
 function closeSettings(){document.getElementById("setOverlay").classList.remove("open")}
 
 function isCatHidden(c){return (store.hiddenCats||[]).includes(c)}
