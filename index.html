@@ -913,7 +913,7 @@ function render(){paintTop();paintTabs();paintCatRow();
   }else{
     if(tab==="train")renderTrain();else if(tab==="history")renderHist();else renderProg();
   }
-  const showFinish=tab==="train"&&store.active&&store.active.day!=="R";
+  const showFinish=tab==="train"&&cat==="kraft"&&store.active;
   document.getElementById("finishbar").classList.toggle("hidden",!showFinish);
   if(showFinish)paintFinish()}
 
