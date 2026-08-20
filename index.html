@@ -1485,6 +1485,7 @@ onAuthStateChanged(auth,async(user)=>{
     const pinfo=document.getElementById("prefUserInfo");if(pinfo)pinfo.textContent=label;
     document.body.classList.remove("auth-pending");
   }else{
+    document.querySelectorAll(".plan-overlay.open").forEach(o=>o.classList.remove("open"));
     document.body.classList.add("auth-pending");
   }
 });
