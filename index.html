@@ -947,7 +947,9 @@ function addSet(id){const dr=draft[id];if(dr.reps<=0)return;
     store.active={day,ts:Date.now(),log:{}};
     dayPick=null;
   }
-  const prev=prMap()[id];
+  let prev=prMap()[id];
+  const cur=store.active.log[id]||[];
+  cur.forEach(x=>{if(prev==null||x.kg>prev)prev=x.kg});
   if(!store.active.log[id])store.active.log[id]=[];
   store.active.log[id].push({kg:dr.kg,reps:Math.round(dr.reps)});
   save();openEx=id;renderTrain();
