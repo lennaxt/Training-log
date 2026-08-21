@@ -184,11 +184,20 @@
   .ex-count{font-family:'Fraunces',serif;font-size:17px;font-weight:500;color:var(--ink-soft)}
   .ex.filled .ex-count{color:var(--blue)}
 
-  .ex-body{display:grid;grid-template-rows:0fr;transition:grid-template-rows .28s cubic-bezier(.22,.61,.36,1)}
-  .ex.open .ex-body{grid-template-rows:1fr}
-  .ex-inner{min-height:0;overflow:hidden;padding:0 0 12px}
+  .ex-body{height:0;overflow:hidden}
+  .ex.open .ex-body{height:auto;overflow:visible}
+  .ex-inner{padding:0 0 12px}
+
+  @keyframes rowreveal{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:none}}
+  .ex.opening .setlog>*{animation:rowreveal .36s cubic-bezier(.22,.61,.36,1) both}
+  .ex.opening .setswipe:nth-child(2){animation-delay:.05s}
+  .ex.opening .setswipe:nth-child(3){animation-delay:.10s}
+  .ex.opening .setswipe:nth-child(4){animation-delay:.15s}
+  .ex.opening .setswipe:nth-child(5){animation-delay:.20s}
+  .ex.opening .setswipe:nth-child(n+6){animation-delay:.24s}
 
   @keyframes pop{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  .setswipe.pop{animation:pop .34s cubic-bezier(.22,.61,.36,1)}
 
   /* Set-Tabelle */
   .setlog{margin-bottom:6px}
@@ -199,12 +208,12 @@
   .setrow.head span{font-size:10px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;
     line-height:1;color:var(--ink-soft);text-align:center}
   .setrow.head .sr-n,.setrow.head .sr-prev{text-align:left}
-  .sr-n{font-family:'Fraunces',serif;font-weight:600;font-size:16px;color:var(--ink)}
+  .sr-n{font-family:'Fraunces',serif;font-weight:600;font-size:17px;font-variation-settings:'opsz' 40;color:var(--ink)}
   .sr-prev{font-size:13px;color:var(--ink-soft);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  .sr-val{font-family:'Fraunces',serif;font-weight:500;font-size:18px;text-align:center;color:var(--ink)}
+  .sr-val{font-family:'Fraunces',serif;font-weight:500;font-size:20px;font-variation-settings:'opsz' 44;text-align:center;color:var(--ink)}
   .sr-val.ghost{color:var(--ink-soft);opacity:.4}
   .sr-in{width:100%;min-width:0;border:1px solid var(--line);background:#fff;text-align:center;
-    font-family:'Fraunces',serif;font-size:18px;font-weight:500;padding:7px 2px;-moz-appearance:textfield}
+    font-family:'Fraunces',serif;font-size:19px;font-weight:500;padding:7px 2px;-moz-appearance:textfield}
   .sr-in:focus{outline:none;border-color:var(--blue)}
   body.dayB .sr-in:focus{border-color:var(--green)}
   .sr-in::-webkit-outer-spin-button,.sr-in::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
@@ -767,7 +776,7 @@ function allIds(){
 }
 
 /* ── Hilfen ── */
-let tab="train",openEx=null,draft={},progSel=null,newOpen=false,newName="",newScheme="",dayPick=null,editEx=null,cat="kraft";
+let tab="train",openEx=null,draft={},progSel=null,newOpen=false,newName="",newScheme="",dayPick=null,editEx=null,cat="kraft",justOpened=null;
 const fD=t=>new Date(t).toLocaleDateString("de-DE",{day:"2-digit",month:"short"});
 const fFull=t=>new Date(t).toLocaleDateString("de-DE",{weekday:"long",day:"2-digit",month:"long"});
 const fT=t=>new Date(t).toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"});
@@ -946,7 +955,7 @@ function renderTrain(){
     if(!draft[e.id])draft[e.id]={kg:last?last.kg:20,reps:last?last.reps:8};
     const dr=draft[e.id];
     const eName=exName(e.id),eScheme=exScheme(e.id)||e.scheme;
-    h+=`<div class="ex ${openEx===e.id?'open':''} ${lg.length?'filled':''}">
+    h+=`<div class="ex ${openEx===e.id?'open':''} ${justOpened===e.id?'opening':''} ${lg.length?'filled':''}">
       <div class="ex-head" onclick="toggleEx('${e.id}')">
         <div class="ex-num" style="color:${day==="A"?(i%2?'var(--glow)':'var(--earth)'):(i%2?'var(--green-lite)':'var(--green)')}">${String(i+1).padStart(2,"0")}</div>
         <div class="ex-info">${editEx===e.id?`
@@ -993,12 +1002,13 @@ function renderTrain(){
   }
   h+=`</div>`;
   v.innerHTML=h+`</div>`;
+  justOpened=null;
   if(newOpen){const f=document.getElementById("nfName");if(f&&!newName)f.focus()}
 }
 function chip(id,s,si,pr){const isPr=pr!=null&&s.kg>=pr&&s.kg>0;
   return `<span class="chip ${isPr?'pr':''}" onclick="removeSet('${id}',${si})">
     <b>${s.kg}</b><span class="u">kg ×</span><b>${s.reps}</b></span>`}
-function toggleEx(id){if(justSwiped())return;if(editEx===id)return;openEx=openEx===id?null:id;renderTrain()}
+function toggleEx(id){if(justSwiped())return;if(editEx===id)return;openEx=openEx===id?null:id;justOpened=openEx===id?id:null;renderTrain()}
 function setDraft(id,f,v){const n=parseFloat(String(v).replace(",","."));if(!isNaN(n))draft[id][f]=Math.max(0,n)}
 function step(id,f,d){draft[id][f]=Math.max(0,Math.round((draft[id][f]+d)*10)/10);openEx=id;renderTrain()}
 function addSet(id){const dr=draft[id];if(dr.reps<=0)return;
