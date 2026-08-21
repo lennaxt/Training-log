@@ -257,17 +257,22 @@
     text-transform:uppercase;color:var(--ink-soft);cursor:pointer;padding:0}
   .rmline button:active{color:var(--blue)}
   .tag{font-size:10.5px;font-weight:600;letter-spacing:0.13em;text-transform:uppercase;color:var(--sand)}
-  .edit-form{display:grid;gap:8px;padding:4px 0 6px}
-  .edit-form .field{padding:8px 10px}
-  .edit-form .edit-actions{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-top:4px}
-  .edit-form .edit-actions button{padding:12px 4px;font-size:13px;font-weight:500;letter-spacing:0.01em;
-    cursor:pointer;transition:.15s;border:1px solid;background:none;text-align:center}
-  .edit-form .edit-actions .save-btn{background:var(--ink);color:#fff;border-color:var(--ink)}
-  .edit-form .edit-actions .save-btn:active{background:#1A1A18}
-  .edit-form .edit-actions .cancel-btn{color:var(--ink-soft);border-color:var(--line)}
-  .edit-form .edit-actions .cancel-btn:active{background:var(--paper-2)}
-  .edit-form .edit-actions .del-btn{color:#890202;border-color:#890202}
-  .edit-form .edit-actions .del-btn:active{background:#890202;color:#fff}
+  .edit-form{display:grid;gap:14px;padding:4px 0 6px}
+  .edit-form .field{padding:0;border:0;border-bottom:1px solid var(--line)}
+  .edit-form .field .cap{text-align:left;margin-bottom:4px;font-size:10px}
+  .edit-form .field input.txt{padding:4px 0 8px}
+  .edit-form .field input.txt:focus{outline:none}
+  .edit-form .field input.txt:focus-visible{outline:none}
+  .edit-form .field:has(input:focus){border-bottom-color:var(--blue)}
+  .edit-form .edit-actions{display:flex;gap:16px;align-items:center;margin-top:6px}
+  .edit-form .edit-actions button{padding:0;font-size:13px;font-weight:600;letter-spacing:0.02em;
+    cursor:pointer;transition:.15s;border:0;background:none}
+  .edit-form .edit-actions .save-btn{color:var(--blue)}
+  .edit-form .edit-actions .save-btn:active{opacity:.6}
+  .edit-form .edit-actions .cancel-btn{color:var(--ink-soft)}
+  .edit-form .edit-actions .cancel-btn:active{opacity:.6}
+  .edit-form .edit-actions .del-btn{margin-left:auto;color:#B94A48;font-weight:500}
+  .edit-form .edit-actions .del-btn:active{opacity:.6}
 
   /* ── Wischen zum Löschen ── */
   .swipe{position:relative;overflow:hidden;touch-action:pan-y}
