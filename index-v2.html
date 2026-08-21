@@ -415,7 +415,7 @@
     letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-soft);cursor:pointer;min-height:36px}
 </style>
 </head>
-<body class="auth-pending">
+<body>
 
 <div class="auth-gate" id="authGate">
   <div class="auth-card">
@@ -1505,7 +1505,7 @@ onAuthStateChanged(auth,async(user)=>{
     document.body.classList.remove("auth-pending");
   }else{
     document.querySelectorAll(".plan-overlay.open").forEach(o=>o.classList.remove("open"));
-    document.body.classList.add("auth-pending");
+    /* auth-gate disabled for v2 preview */
   }
 });
 </script>
