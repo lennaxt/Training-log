@@ -259,12 +259,9 @@
   .newrow:active{padding-left:12px}
   .newrow .ex-num{color:var(--blue)}
   .newrow h3{font-size:19px;color:var(--blue)}
-  .newform{padding:4px 0 30px;display:grid;gap:10px}
-  .newform .two{display:flex;gap:10px}
-  .rmline{margin-top:16px;padding-top:14px;border-top:1px solid var(--line)}
-  .rmline button{background:none;border:0;font-size:11.5px;font-weight:600;letter-spacing:0.14em;
-    text-transform:uppercase;color:var(--ink-soft);cursor:pointer;padding:0}
-  .rmline button:active{color:var(--blue)}
+  .newform{padding:0}
+  .newform .edit-form{padding-bottom:14px}
+  .newform .edit-form .edit-actions{margin-top:0}
   .tag{font-size:10.5px;font-weight:600;letter-spacing:0.13em;text-transform:uppercase;color:var(--sand)}
   .edit-form{display:grid;gap:14px;padding:4px 0 6px}
   .edit-form .field{padding:0;border:0;border-bottom:1px solid var(--line)}
@@ -284,7 +281,7 @@
   .edit-form .edit-actions .del-btn:active{opacity:.6}
 
   /* ── Wischen zum Löschen ── */
-  .swipe{position:relative;overflow:hidden;touch-action:pan-y}
+  .swipe,.sessswipe{position:relative;overflow:hidden;touch-action:pan-y}
   .swipe-del{position:absolute;top:0;right:0;bottom:0;width:104px;border:0;
     background:linear-gradient(to left,rgba(192,57,43,0) 0%,#C0392B 16%,#D05243 100%);
     color:#fff;font-size:11.5px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;
@@ -292,6 +289,7 @@
     visibility:hidden}
   .swipe.open .swipe-del,.swipe.drag .swipe-del{visibility:visible}
   .swipe-del:active{background:linear-gradient(to left,rgba(150,45,34,0) 0%,#962D22 16%,#B03A2E 100%)}
+
   .swipe-body{position:relative;background:var(--paper);transition:transform .3s cubic-bezier(.22,.61,.36,1);will-change:transform}
   .swipe.open .swipe-body{transform:translateX(-104px)}
   .swipe.drag .swipe-body{transition:none}
@@ -303,22 +301,35 @@
     text-transform:uppercase;white-space:nowrap;opacity:0;pointer-events:none;transition:opacity .12s ease}
   .setswipe.deleting .swipe-body{opacity:0;transition:opacity .16s ease}
 
+  .sessswipe .swipe-body{transition:transform .3s cubic-bezier(.22,.61,.36,1)}
+  .sessswipe.drag .swipe-body{transition:none}
+  .sessswipe.open .swipe-body{transform:translateX(-60px)}
+  .sess-behind{position:absolute;top:0;right:0;bottom:0;width:60px;
+    display:flex;align-items:center;justify-content:center;visibility:hidden}
+  .sessswipe.open .sess-behind,.sessswipe.drag .sess-behind{visibility:visible}
+  .sess-behind-btn{width:44px;height:44px;border:1.5px solid var(--line);border-radius:12px;
+    background:var(--paper);color:var(--ink-soft);display:flex;align-items:center;justify-content:center;
+    cursor:pointer;transition:all .15s;border:none;background:none}
+  .sess-behind-btn:active{color:#B94A48}
+  .sess-behind-btn svg{width:22px;height:22px}
+  .sessswipe.deleting .swipe-body{opacity:0;transition:opacity .16s ease}
+
   /* ── Abschlussleiste ── */
   .finishbar{margin-top:24px;padding:0}
   .finishbar.hidden{display:none}
   .finishbar .in{width:100%}
-  .btn-primary{width:100%;background:var(--ink);color:#fff;border:0;padding:18px;font-weight:600;font-size:15px;
-    cursor:pointer;transition:background .2s;display:flex;align-items:center;justify-content:center;gap:12px}
-  .btn-primary:active{background:#1A1A18}
-  .btn-primary .n{font-family:'Fraunces',serif;font-weight:400;opacity:.75}
-  .btn-ghost{width:100%;background:var(--paper);border:1.5px solid var(--line);padding:18px;
-    font-weight:600;font-size:15px;color:var(--ink-soft);cursor:pointer;transition:.2s}
-  .btn-ghost:active{border-color:var(--blue);color:var(--blue)}
-  .finrow{display:flex;gap:10px;align-items:stretch}
-  .finrow .btn-primary{flex:1}
-  .btn-discard{flex:none;background:none;border:1.5px solid var(--line);padding:0 18px;font-size:13px;
-    font-weight:500;color:var(--ink-soft);cursor:pointer;transition:.15s;white-space:nowrap}
-  .btn-discard:active{border-color:#890202;color:#890202}
+  .finishbar-inner{border-top:1px solid var(--line);padding-top:16px}
+  .btn-primary{width:100%;border:0;padding:18px;font-weight:600;font-size:15px;
+    cursor:pointer;transition:filter .15s;display:flex;align-items:center;justify-content:center;gap:10px;
+    border-radius:12px}
+  .btn-primary:active{filter:brightness(.92)}
+  .btn-primary.dayA{background:var(--earth);color:#fff}
+  .btn-primary.dayB{background:var(--green);color:#fff}
+  .btn-primary .n{font-family:'Fraunces',serif;font-weight:400;opacity:.8}
+  .btn-discard{width:100%;background:none;border:1.5px solid var(--line);padding:16px;
+    font-weight:600;font-size:14px;color:var(--ink-soft);cursor:pointer;transition:.15s;
+    margin-top:10px;border-radius:12px;white-space:nowrap}
+  .btn-discard:active{border-color:#B94A48;color:#B94A48;background:rgba(185,74,72,0.06)}
 
   /* ── Verlauf ── */
   .empty{padding:70px 6px;border-top:1px solid var(--line)}
@@ -366,6 +377,64 @@
   .wipe{background:none;border:0;color:var(--ink-soft);font-size:12px;font-weight:600;
     letter-spacing:0.16em;text-transform:uppercase;padding:34px 14px;width:100%;text-align:center;cursor:pointer}
   .wipe:active{color:var(--blue)}
+
+  /* ── Session Edit (inline im Verlauf) ── */
+  .sess-edit{animation:pop .3s cubic-bezier(.22,.61,.36,1);border-bottom:0}
+  .sess-edit-form.edit-form{padding:0}
+  .sess-edit-head{display:grid;grid-template-columns:1fr;gap:14px;margin-bottom:0}
+  .sess-edit-head .field{position:relative}
+  .sess-edit-head .field:has(select)::after{content:"";position:absolute;right:4px;bottom:16px;width:8px;height:8px;
+    border-right:1.5px solid var(--green);border-bottom:1.5px solid var(--green);transform:rotate(45deg);pointer-events:none}
+  .edit-form .field select{width:100%;min-width:0;background:none;border:0;border-radius:0;
+    font-family:'Inter',sans-serif;font-size:16px;font-weight:500;color:var(--ink);
+    padding:4px 20px 8px 0;-webkit-appearance:none;appearance:none;cursor:pointer}
+  .edit-form .field select:focus{outline:none}
+  .sess-edit-head .field:has(select:focus),.sess-edit-head .field:has(input:focus){border-bottom-color:var(--blue)}
+  body.dayB .sess-edit-head .field:has(select:focus),body.dayB .sess-edit-head .field:has(input:focus){border-bottom-color:var(--green)}
+  .sess-edit-head .field select,.sess-edit-head .field input[type="datetime-local"]{height:40px;padding-top:0;padding-bottom:0;font-size:16px}
+  .edit-form .field input[type="datetime-local"]{padding-right:4px;font-size:16px}
+
+  .daychips{display:flex;flex-wrap:wrap;gap:8px;padding:4px 0 8px}
+  .daychip{position:relative;border:1px solid var(--line);background:#fff;border-radius:0;color:var(--ink);
+    font-family:'Fraunces',serif;font-size:17px;font-weight:500;line-height:1;height:34px;min-width:44px;padding:0 12px;
+    cursor:pointer;display:inline-flex;align-items:center;justify-content:center;transition:.15s;-webkit-tap-highlight-color:transparent}
+  .daychip::before{content:"";position:absolute;inset:-6px}
+  .daychip:active{background:var(--paper-2)}
+  .daychip.on{background:var(--blue);border-color:var(--blue);color:#fff}
+  body.dayB .daychip.on{background:var(--green);border-color:var(--green)}
+
+  .sess-edit-ex-list{display:grid}
+  .sess-edit-ex{border-top:1px solid var(--line);padding-top:14px}
+  .sess-edit-ex:first-child{border-top:none;padding-top:0}
+  .sess-edit-ex-head{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:10px;padding-bottom:10px;border-bottom:1px solid var(--line)}
+  .sess-edit-ex-head:has(.sess-edit-new-name:focus){border-bottom-color:var(--blue)}
+  body.dayB .sess-edit-ex-head:has(.sess-edit-new-name:focus){border-bottom-color:var(--green)}
+  .sess-edit-ex-name{font-family:'Fraunces',serif;font-size:17px;font-weight:500;color:var(--ink);flex:1}
+  .sess-edit-new-name{flex:1;min-width:0;border:0;border-bottom:1px solid transparent;background:none;border-radius:0;
+    padding:4px 0;font-size:16px;font-weight:500;font-family:'Inter',sans-serif;color:var(--ink)}
+  .sess-edit-new-name:focus{outline:none}
+  .sess-edit-new-name::placeholder{color:var(--ink-soft);opacity:.5;font-weight:400}
+  .sess-edit-ex-del,.sess-edit-set-del{width:32px;height:32px;flex:none;border:none;border-radius:0;background:none;color:var(--ink-soft);font-size:18px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.15s;position:relative}
+  .sess-edit-ex-del::before,.sess-edit-set-del::before{content:"";position:absolute;inset:-6px}
+  .sess-edit-ex-del:active,.sess-edit-set-del:active{background:var(--paper-2);color:#B94A48}
+
+  .sess-edit-set{display:grid;grid-template-columns:34px 1fr 68px 68px 32px;gap:10px;align-items:center;padding:5px 0}
+  .sess-edit-set-num{text-align:left;font-family:'Fraunces',serif;font-weight:600;font-size:17px;color:var(--ink);flex:none}
+  .sess-edit-kg,.sess-edit-reps{width:100%;min-width:0;border:1px solid var(--line);border-radius:0;background:#fff;text-align:center;
+    font-family:'Fraunces',serif;font-size:19px;font-weight:500;color:var(--ink);padding:7px 2px;-moz-appearance:textfield}
+  .sess-edit-kg:focus,.sess-edit-reps:focus{outline:none;border-color:var(--blue)}
+  body.dayB .sess-edit-kg:focus,body.dayB .sess-edit-reps:focus{border-color:var(--green)}
+  .sess-edit-kg::-webkit-outer-spin-button,.sess-edit-kg::-webkit-inner-spin-button,
+  .sess-edit-reps::-webkit-outer-spin-button,.sess-edit-reps::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+  .sess-edit-add-set,.sess-edit-add-ex{display:block;width:100%;background:none;border:0;border-radius:0;
+    color:var(--blue);font-family:inherit;font-weight:600;font-size:13px;letter-spacing:0.02em;
+    padding:12px 0;cursor:pointer;text-align:left;transition:.15s}
+  body.dayB .sess-edit-add-set,body.dayB .sess-edit-add-ex{color:var(--green)}
+  .sess-edit-add-set:active,.sess-edit-add-ex:active{opacity:.6}
+  .sess-edit-form .edit-actions .sess-edit-add-ex{width:auto;margin-left:auto}
+  .sess-edit-form .edit-actions{margin-top:0}
+  .sess-edit-form .edit-actions button{padding:14px 0;margin:-14px 0}
+  .sess-edit-add-set{font-size:17px;line-height:1;padding:14px 0}
 
   /* ── Hinweis ── */
   .toast{position:fixed;left:22px;right:22px;top:calc(var(--top) + 18px);z-index:80;max-width:516px;margin:0 auto;
@@ -777,7 +846,7 @@ function allIds(){
 }
 
 /* ── Hilfen ── */
-let tab="train",openEx=null,draft={},progSel=null,newOpen=false,newName="",newScheme="",dayPick=null,editEx=null,cat="kraft",justOpened=null;
+let tab="train",openEx=null,draft={},progSel=null,newOpen=false,newName="",newScheme="",dayPick=null,editEx=null,cat="kraft",justOpened=null,editSessTs=null,editSessData={};
 const fD=t=>new Date(t).toLocaleDateString("de-DE",{day:"2-digit",month:"short"});
 const fFull=t=>new Date(t).toLocaleDateString("de-DE",{weekday:"long",day:"2-digit",month:"long"});
 const fT=t=>new Date(t).toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"});
@@ -989,16 +1058,18 @@ function renderTrain(){
       <span class="ex-count"></span></button>`;
   }else{
     h+=`<div class="newform">
-      <div class="field stack"><div class="cap" style="text-align:left">Name der Übung</div>
-        <input class="txt" id="nfName" type="text" placeholder="z. B. Rumänisches Kreuzheben"
-          value="${esc(newName)}" oninput="newName=this.value"></div>
-      <div class="two">
-        <div class="field stack" style="flex:1"><div class="cap" style="text-align:left">Sätze × Wiederholungen</div>
+      <div class="edit-form" onclick="event.stopPropagation()">
+        <div class="field"><div class="cap">Name</div>
+          <input class="txt" id="nfName" type="text" placeholder="z. B. Rumänisches Kreuzheben"
+            value="${esc(newName)}" oninput="newName=this.value"></div>
+        <div class="field"><div class="cap">Schema</div>
           <input class="txt" id="nfScheme" type="text" placeholder="3 × 8–10"
             value="${esc(newScheme)}" oninput="newScheme=this.value"></div>
-        <button class="add" onclick="saveCustom('${day}')" aria-label="Übung speichern">+</button>
+        <div class="edit-actions">
+          <button class="save-btn" onclick="saveCustom('${day}')">Speichern</button>
+          <button class="cancel-btn" onclick="closeNew()">Abbrechen</button>
+        </div>
       </div>
-      <div class="rmline"><button onclick="closeNew()">Abbrechen</button></div>
     </div>`;
   }
   h+=`</div>`;
@@ -1162,19 +1233,203 @@ function renderHist(){const v=document.getElementById("viewHist");
     <h3>Noch keine Einheit erfasst.</h3><p>Starte im Reiter „Training" — abgeschlossene Einheiten erscheinen hier.</p></div>`;return}
   let h="";
   [...kSessions].reverse().forEach((s,i)=>{
-    const lines=Object.keys(s.log).map(id=>{const l=s.log[id];let t=l[0];l.forEach(x=>{if(x.kg>t.kg)t=x});
-      return `<div class="sline"><span class="nm">${esc(exName(id))}</span>
-        <span class="vl"><b>${t.kg}</b> kg × ${t.reps} · ${l.length} Sätze</span></div>`}).join("");
-    h+=`<div class="swipe">
-      <button class="swipe-del" onclick="delSession(${s.ts})">Löschen</button>
-      <div class="swipe-body sess ${i===0?'sess-first':''}"><div class="sess-top">
-      <div class="sess-badge" style="color:${s.day==="A"?'var(--green)':'var(--earth)'}">${s.day}</div>
-      <div class="sess-date"><h3>${fFull(s.ts)}</h3><span>${fT(s.ts)} Uhr</span></div>
-      <div class="sess-vol"><b>${(vol(s)/1000).toFixed(1)}t</b><span>Volumen</span></div>
-    </div>${lines}</div></div>`});
+    const isEditing=editSessTs===s.ts;
+    if(isEditing){
+      h+=renderSessEdit(s,i);
+    }else{
+      const lines=Object.keys(s.log).map(id=>{const l=s.log[id];let t=l[0];l.forEach(x=>{if(x.kg>t.kg)t=x});
+        return `<div class="sline"><span class="nm">${esc(exName(id))}</span>
+          <span class="vl"><b>${t.kg}</b> kg × ${t.reps} · ${l.length} Sätze</span></div>`}).join("");
+      h+=`<div class="sessswipe" data-ts="${s.ts}">
+        <div class="sess-behind"><button class="sess-behind-btn" onclick="delSession(${s.ts})" aria-label="Einheit löschen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></button></div>
+        <div class="swipe-body sess ${i===0?'sess-first':''}"><div class="sess-top">
+        <div class="sess-badge" style="color:${s.day==="A"?'var(--green)':'var(--earth)'}">${s.day}</div>
+        <div class="sess-date"><h3>${fFull(s.ts)}</h3><span>${fT(s.ts)} Uhr</span></div>
+        <div class="sess-vol"><b>${(vol(s)/1000).toFixed(1)}t</b><span>Volumen</span></div>
+      </div>${lines}</div></div>`;
+    }
+  });
   v.innerHTML=h+`<button class="wipe" onclick="wipe()">Alle Daten löschen</button>`}
 function wipe(){if(confirm("Alle Einheiten und eigenen Übungen löschen? Das lässt sich nicht rückgängig machen."))
   {store={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{}};save();openEx=null;newOpen=false;setTab("train")}}
+
+/* ── Session Edit (Inline im Verlauf) ── */
+function startSessEdit(ts){
+  const s=store.sessions.find(x=>x.ts===ts);
+  if(!s)return;
+  editSessTs=ts;
+  editSessData={
+    day:s.day,
+    date:s.ts,
+    exercises:{}
+  };
+  Object.keys(s.log).forEach(id=>{
+    editSessData.exercises[id]=s.log[id].map(set=>({kg:set.kg,reps:set.reps}));
+  });
+  renderHist();
+  // Fokus auf erstes Eingabefeld
+  setTimeout(()=>{
+    const firstIn=document.querySelector(".sess-edit-form input");
+    if(firstIn)firstIn.focus();
+  },50);
+}
+function cancelSessEdit(){
+  editSessTs=null;
+  editSessData={};
+  renderHist();
+}
+function setEditDay(d){
+  editSessData.day=d;
+  document.querySelectorAll(".sess-edit-form .daychip").forEach(c=>c.classList.toggle("on",c.dataset.day===d));
+}
+function parseEditDate(v){
+  const m=(v||"").trim().match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/);
+  if(!m)return null;
+  const o=new Date(editSessData.date);
+  const d=new Date(+m[3],+m[2]-1,+m[1],o.getHours(),o.getMinutes());
+  return d.getDate()===+m[1]&&d.getMonth()===+m[2]-1?d:null;
+}
+function saveSessEdit(){
+  const sIdx=store.sessions.findIndex(x=>x.ts===editSessTs);
+  if(sIdx===-1){cancelSessEdit();return}
+  const dateIn=document.getElementById("sessEditDate");
+  const parsed=dateIn?parseEditDate(dateIn.value):null;
+  if(dateIn&&!parsed){toast("Ungültiges Datum","Format: TT.MM.JJJJ");return}
+  const newTs=parsed?parsed.getTime():editSessData.date;
+  const newDay=editSessData.day;
+  // Exercises sammeln (bestehende mit data-ex-id)
+  const newLog={};
+  document.querySelectorAll(".sess-edit-ex[data-ex-id]").forEach(el=>{
+    const id=el.getAttribute("data-ex-id");
+    const sets=[];
+    el.querySelectorAll(".sess-edit-set").forEach((setEl,si)=>{
+      const kg=parseFloat(setEl.querySelector(".sess-edit-kg").value)||0;
+      const reps=parseInt(setEl.querySelector(".sess-edit-reps").value,10)||0;
+      if(kg>0||reps>0)sets.push({kg,reps});
+    });
+    if(sets.length)newLog[id]=sets;
+  });
+  // Neue Übungen (die data-new="1" haben)
+  document.querySelectorAll(".sess-edit-ex[data-new]").forEach(el=>{
+    const name=el.querySelector(".sess-edit-new-name").value.trim();
+    if(!name)return;
+    const id="hist_"+Date.now()+"_"+Math.random().toString(36).slice(2,6);
+    const sets=[];
+    el.querySelectorAll(".sess-edit-set").forEach(setEl=>{
+      const kg=parseFloat(setEl.querySelector(".sess-edit-kg").value)||0;
+      const reps=parseInt(setEl.querySelector(".sess-edit-reps").value,10)||0;
+      if(kg>0||reps>0)sets.push({kg,reps});
+    });
+    if(sets.length){
+      newLog[id]=sets;
+      store.names[id]=name;
+    }
+  });
+  store.sessions[sIdx]={...store.sessions[sIdx],ts:newTs,day:newDay,log:newLog};
+  save();
+  editSessTs=null;
+  editSessData={};
+  renderHist();
+  toast("Gespeichert","Einheit aktualisiert");
+}
+function addSessEditSet(exId){
+  const exEl=document.querySelector(`.sess-edit-ex[data-ex-id="${exId}"],.sess-edit-ex[data-new-id="${exId}"]`);
+  if(!exEl)return;
+  const container=exEl.querySelector(".sess-edit-sets");
+  const upd=exEl.hasAttribute("data-new-id")?"updateNewSetNumbers":"updateSetNumbers";
+  const count=container.querySelectorAll(".sess-edit-set").length;
+  const html=`<div class="sess-edit-set">
+    <span class="sess-edit-set-num">${count+1}</span>
+    <span></span>
+    <input class="sess-edit-kg" type="number" inputmode="decimal" step="0.5" min="0" placeholder="kg">
+    <input class="sess-edit-reps" type="number" inputmode="numeric" min="0" placeholder="Wdh">
+    <button type="button" class="sess-edit-set-del" onclick="this.closest('.sess-edit-set').remove();${upd}('${exId}')" aria-label="Satz löschen">×</button>
+  </div>`;
+  container.insertAdjacentHTML("beforeend",html);
+}
+function removeSessEditEx(exId){
+  const el=document.querySelector(`.sess-edit-ex[data-ex-id="${exId}"]`);
+  if(el)el.remove();
+}
+function addSessEditEx(){
+  const container=document.getElementById("sessEditExList");
+  if(!container)return;
+  const newId="new_"+Date.now();
+  const html=`<div class="sess-edit-ex" data-new="1" data-new-id="${newId}">
+    <div class="sess-edit-ex-head">
+      <input class="sess-edit-new-name" type="text" placeholder="Übungsname">
+      <button type="button" class="sess-edit-ex-del" onclick="this.closest('.sess-edit-ex').remove()" aria-label="Übung entfernen">×</button>
+    </div>
+    <div class="sess-edit-sets">
+      <div class="sess-edit-set">
+        <span class="sess-edit-set-num">1</span>
+        <span></span>
+        <input class="sess-edit-kg" type="number" inputmode="decimal" step="0.5" min="0" placeholder="kg">
+        <input class="sess-edit-reps" type="number" inputmode="numeric" min="0" placeholder="Wdh">
+        <button type="button" class="sess-edit-set-del" onclick="this.closest('.sess-edit-set').remove();updateNewSetNumbers('${newId}')" aria-label="Satz löschen">×</button>
+      </div>
+    </div>
+    <button type="button" class="sess-edit-add-set" onclick="addSessEditSet('${newId}')">+</button>
+  </div>`;
+  container.insertAdjacentHTML("beforeend",html);
+  const nameIn=container.lastElementChild.querySelector(".sess-edit-new-name");
+  if(nameIn)nameIn.focus();
+}
+function updateNewSetNumbers(newId){
+  const container=document.querySelector(`.sess-edit-ex[data-new-id="${newId}"] .sess-edit-sets`);
+  if(!container)return;
+  container.querySelectorAll(".sess-edit-set").forEach((el,i)=>{
+    el.querySelector(".sess-edit-set-num").textContent=i+1;
+  });
+}
+function renderSessEdit(s,i){
+  const days=allDays().filter(d=>d!=="R");
+  const dayChips=days.map(d=>`<button type="button" class="daychip ${editSessData.day===d?'on':''}" data-day="${d}" onclick="setEditDay('${d}')">${d}</button>`).join("");
+  const pd=n=>String(n).padStart(2,"0"),dt=new Date(editSessData.date);
+  const dateVal=`${pd(dt.getDate())}.${pd(dt.getMonth()+1)}.${dt.getFullYear()}`;
+  const exercisesHtml=Object.keys(editSessData.exercises).map(id=>{
+    const sets=editSessData.exercises[id];
+    const name=exName(id);
+    const setsHtml=sets.map((set,si)=>`<div class="sess-edit-set">
+      <span class="sess-edit-set-num">${si+1}</span>
+      <span></span>
+      <input class="sess-edit-kg" type="number" inputmode="decimal" step="0.5" min="0" value="${set.kg}">
+      <input class="sess-edit-reps" type="number" inputmode="numeric" min="0" value="${set.reps}">
+      <button type="button" class="sess-edit-set-del" onclick="this.closest('.sess-edit-set').remove();updateSetNumbers('${id}')" aria-label="Satz löschen">×</button>
+    </div>`).join("");
+    return `<div class="sess-edit-ex" data-ex-id="${id}">
+      <div class="sess-edit-ex-head">
+        <span class="sess-edit-ex-name">${esc(name)}</span>
+        <button type="button" class="sess-edit-ex-del" onclick="removeSessEditEx('${id}')" aria-label="Übung entfernen">×</button>
+      </div>
+      <div class="sess-edit-sets">${setsHtml}</div>
+      <button type="button" class="sess-edit-add-set" onclick="addSessEditSet('${id}')">+</button>
+    </div>`;
+  }).join("");
+  return `<div class="sessswipe" data-ts="${s.ts}">
+    <div class="sess-behind"><button class="sess-behind-btn" onclick="delSession(${s.ts})" aria-label="Einheit löschen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></button></div>
+    <div class="swipe-body sess sess-edit ${i===0?'sess-first':''}">
+      <form class="sess-edit-form edit-form" onsubmit="event.preventDefault();saveSessEdit()">
+        <div class="sess-edit-head">
+          <div class="field stack"><div class="cap">Tag</div>
+            <div class="daychips" id="sessEditDayChips">${dayChips}</div>
+          </div>
+          <div class="field stack"><div class="cap">Datum</div>
+            <input class="txt" id="sessEditDate" type="text" autocomplete="off" placeholder="TT.MM.JJJJ" value="${dateVal}">
+          </div>
+        </div>
+        <div id="sessEditExList" class="sess-edit-ex-list">
+          ${exercisesHtml}
+        </div>
+        <div class="edit-actions">
+          <button type="submit" class="save-btn">Speichern</button>
+          <button type="button" class="cancel-btn" onclick="cancelSessEdit()">Abbrechen</button>
+          <button type="button" class="sess-edit-add-ex" onclick="addSessEditEx()">+ Eigene Übung</button>
+        </div>
+      </form>
+    </div>
+  </div>`;
+}
 
 /* ── Verlaufskurve ── */
 function idsByName(){
@@ -1233,25 +1488,29 @@ function chart(name){
 
 /* ── Wischgeste ── */
 const DEL_W=104;
+const SESS_W=60;
 const SET_TRIP=130; // px nach links = Satz-Zeile komplett rot
-let sw={box:null,body:null,x0:0,y0:0,axis:null,start:0,t:0,isSet:false,ex:null,si:0,tint:null,lbl:null,p:0,armed:false,empty:false},lastSwipe=0;
+let sw={box:null,body:null,x0:0,y0:0,axis:null,start:0,t:0,isSet:false,isSess:false,ex:null,si:0,sessTs:0,tint:null,lbl:null,p:0,armed:false,empty:false},lastSwipe=0;
 function justSwiped(){return Date.now()-lastSwipe<400}
 function closeSwipes(except){
-  document.querySelectorAll(".swipe.open").forEach(el=>{if(el!==except)el.classList.remove("open")})}
+  document.querySelectorAll(".swipe.open,.sessswipe.open").forEach(el=>{if(el!==except)el.classList.remove("open")})}
 document.addEventListener("pointerdown",e=>{
   if(e.target.closest(".swipe-del"))return;
   const body=e.target.closest(".swipe-body");
   if(!body){closeSwipes(null);return}
-  if(e.target.closest("input,select,.edit-form"))return;
-  if(editEx)return;
+  if(e.target.closest("input,select,.edit-form,.sess-edit-form"))return;
+  if(editEx||editSessTs)return;
   sw.box=body.parentElement;sw.body=body;
   sw.x0=e.clientX;sw.y0=e.clientY;sw.axis=null;
   sw.isSet=sw.box.classList.contains("setswipe");
+  sw.isSess=sw.box.classList.contains("sessswipe");
   sw.ex=sw.isSet?sw.box.getAttribute("data-ex"):null;
   sw.si=sw.isSet?parseInt(sw.box.getAttribute("data-si"),10):0;
+  sw.sessTs=sw.isSess?parseInt(sw.box.getAttribute("data-ts"),10):0;
   sw.tint=sw.box.querySelector(".swipe-tint");sw.lbl=sw.box.querySelector(".swipe-del-lbl");
   sw.p=0;sw.armed=false;sw.empty=sw.box.hasAttribute("data-empty");
-  sw.start=sw.box.classList.contains("open")?-DEL_W:0;sw.t=sw.start;
+  const openW=sw.isSess?SESS_W:DEL_W;
+  sw.start=sw.box.classList.contains("open")?-openW:0;sw.t=sw.start;
 },{passive:true});
 document.addEventListener("pointermove",e=>{
   if(!sw.box)return;
@@ -1270,14 +1529,15 @@ document.addEventListener("pointermove",e=>{
     if(!sw.armed&&sw.p>=0.98){sw.armed=true;if(navigator.vibrate)navigator.vibrate(18)}
     else if(sw.armed&&sw.p<0.98)sw.armed=false;
   }else{
-    sw.t=Math.max(-DEL_W-24,Math.min(0,sw.start+dx));
+    const w=sw.isSess?SESS_W:DEL_W;
+    sw.t=Math.max(-w-24,Math.min(0,sw.start+dx));
     sw.body.style.transform=`translateX(${sw.t}px)`;
   }
 },{passive:true});
 function endSwipe(){
   if(!sw.box)return;
-  const box=sw.box,body=sw.body,axis=sw.axis,t=sw.t,p=sw.p,isSet=sw.isSet,ex=sw.ex,si=sw.si,tint=sw.tint,lbl=sw.lbl,empty=sw.empty;
-  sw.box=null;sw.body=null;sw.isSet=false;sw.ex=null;sw.si=0;sw.tint=null;sw.lbl=null;sw.p=0;sw.armed=false;sw.empty=false;
+  const box=sw.box,body=sw.body,axis=sw.axis,t=sw.t,p=sw.p,isSet=sw.isSet,isSess=sw.isSess,ex=sw.ex,si=sw.si,sessTs=sw.sessTs,tint=sw.tint,lbl=sw.lbl,empty=sw.empty;
+  sw.box=null;sw.body=null;sw.isSet=false;sw.isSess=false;sw.ex=null;sw.si=0;sw.sessTs=0;sw.tint=null;sw.lbl=null;sw.p=0;sw.armed=false;sw.empty=false;
   box.classList.remove("drag");
   body.style.transform="";
   if(axis==="x"){
@@ -1290,7 +1550,8 @@ function endSwipe(){
         setTimeout(()=>{if(empty)removeEmptySet(ex);else removeSet(ex,si)},160);
       }
     }else{
-      box.classList.toggle("open",t<-DEL_W/2);
+      const w=isSess?SESS_W:DEL_W;
+      box.classList.toggle("open",t<-w/2);
     }
   }
 }
@@ -1320,6 +1581,34 @@ document.addEventListener("pointercancel",()=>{clearTimeout(lpTimer);lpTimer=nul
 
 const origToggleEx=toggleEx;
 toggleEx=function(id){if(lpFired){lpFired=false;return}origToggleEx(id)};
+
+/* ── Long Press auf Session-Karte im Verlauf ── */
+let sessLpTimer=null,sessLpFired=false;
+document.addEventListener("pointerdown",e=>{
+  if(editSessTs)return; // Bereits im Edit-Modus
+  const sessEl=e.target.closest(".sessswipe");
+  if(!sessEl||e.target.closest("input,select,.edit-form,.sess-behind-btn,.swipe-del"))return;
+  if(e.target.closest(".sline"))return; // Klick auf Übungs-Zeile → nicht Session-Bearbeitung
+  sessLpFired=false;
+  sessLpTimer=setTimeout(()=>{
+    const ts=parseInt(sessEl.getAttribute("data-ts"),10);
+    if(!ts)return;
+    sessLpFired=true;
+    if(navigator.vibrate)navigator.vibrate(30);
+    startSessEdit(ts);
+  },700);
+},{passive:true});
+document.addEventListener("pointermove",e=>{
+  if(sessLpTimer&&(Math.abs(e.movementX)>5||Math.abs(e.movementY)>5)){clearTimeout(sessLpTimer);sessLpTimer=null}
+},{passive:true});
+document.addEventListener("pointerup",()=>{clearTimeout(sessLpTimer);sessLpTimer=null},{passive:true});
+document.addEventListener("pointercancel",()=>{clearTimeout(sessLpTimer);sessLpTimer=null},{passive:true});
+
+/* ── Tag-Chips (Delegation, funktioniert unabhängig von Inline-Handlern) ── */
+document.addEventListener("click",e=>{
+  const c=e.target.closest(".daychip");
+  if(c)setEditDay(c.dataset.day);
+});
 
 /* ── Hinweis ── */
 let tT;
