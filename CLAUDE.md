@@ -8,6 +8,7 @@ Persönliche Trainings-App, entwickelt von Lennart als Hobby-Projekt zum Lernen.
 - **Backend:** Firebase (Auth + Firestore)
 - **Hosting:** GitHub Pages
 - **Zielgerät:** iPhone Safari (mobile-first). Desktop ist zweitrangig.
+- **Offline:** zweitrangig — einzelne Features dürfen netzpflichtig sein (z. B. Kartenkacheln), solange die Kernfunktionen ohne Netz weiterlaufen.
 
 ## Arbeitsweise
 

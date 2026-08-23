@@ -90,6 +90,25 @@
   .rad-form label{font-size:12px;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:#8A8983;display:flex;flex-direction:column;gap:6px;min-width:0}
   .rad-form input{width:100%;min-width:0;box-sizing:border-box;height:48px;border-radius:10px;border:1.5px solid var(--line);padding:0 14px;font-size:16px;font-weight:500;background:var(--paper);color:var(--ink);font-family:'Fraunces',serif}
 
+  .gpx-row{display:flex;flex-direction:column;gap:12px;margin-top:20px}
+  .gpx-btn{width:100%;height:52px;border-radius:12px;border:1.5px dashed var(--line);
+    background:transparent;color:var(--ink-soft);font-weight:600;font-size:14px;cursor:pointer;
+    font-family:inherit;letter-spacing:0.02em}
+  .gpx-btn:active{border-color:var(--rad);color:var(--rad)}
+  .gpx-ok{font-size:12px;color:var(--rad);font-weight:600;display:flex;align-items:center;gap:10px}
+  .gpx-clear{background:none;border:0;color:var(--ink-soft);font-size:12px;font-weight:500;cursor:pointer;
+    text-decoration:underline;padding:0;font-family:inherit}
+  .ride-map{position:relative;border-radius:12px;overflow:hidden;background:var(--paper-2);height:180px;z-index:0}
+  .ride-map.hist{height:150px;border-radius:0;margin-bottom:20px}
+  .ride-map svg.ride-svg{display:block}
+  .map-overlay{position:fixed;inset:0;background:var(--paper);z-index:950;display:none;flex-direction:column}
+  .map-overlay.open{display:flex}
+  .map-overlay-top{display:flex;align-items:center;justify-content:space-between;
+    padding:calc(var(--top) + 12px) 20px 12px;border-bottom:1px solid var(--line)}
+  .map-overlay-title{font-family:'Fraunces',serif;font-size:17px;font-weight:500}
+  .map-overlay-close{background:none;border:none;font-size:26px;color:var(--ink);cursor:pointer;padding:0 6px;line-height:1}
+  .map-overlay-map{flex:1;min-height:0}
+
   /* ── Kopf ── */
   .head{display:flex;align-items:center;justify-content:space-between;
         padding-bottom:22px;border-bottom:1px solid var(--line);margin-bottom:22px}
@@ -146,7 +165,7 @@
   .stat span{font-size:11px;font-weight:600;text-transform:uppercase;color:var(--ink-soft);margin-top:10px;line-height:1.35;white-space:nowrap}
 
   /* ── Tabs ── */
-  .tabs{display:flex;gap:30px;border-bottom:1px solid var(--line);margin-bottom:30px}
+  .tabs{display:flex;gap:30px;border-bottom:1px solid var(--line);margin-bottom:24px}
   .tabs button{background:none;border:0;padding:0 0 14px;cursor:pointer;position:relative;
     font-size:12px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;
     color:var(--ink-soft);transition:color .2s}
@@ -172,7 +191,7 @@
   /* ── Übungsliste ── */
   .list{border-top:1px solid var(--line)}
   .ex{border-bottom:1px solid var(--line)}
-  .ex-head{display:grid;grid-template-columns:34px 1fr auto;gap:16px;align-items:baseline;
+  .ex-head{display:grid;grid-template-columns:34px 1fr auto;gap:16px;align-items:center;
     padding:26px 0;cursor:pointer;transition:padding-left .3s}
   .ex.open .ex-head{padding-left:12px}
   .ex-num{font-family:'Fraunces',serif;font-size:15px;font-weight:500;color:var(--khaki)}
@@ -251,6 +270,7 @@
   body.dayB .chip.pr{border-color:var(--green-lite);background:var(--paper-2)}
   body.dayB .chip.pr b{color:var(--green)}
   body.dayB button:focus-visible,body.dayB select:focus-visible,body.dayB input:focus-visible{outline-color:var(--green)}
+  body.catRad button:focus-visible,body.catRad select:focus-visible,body.catRad input:focus-visible{outline-color:var(--rad)}
   body.dayB .field .row button:active{color:var(--green)}
 
   /* ── Eigene Übung ── */
@@ -273,7 +293,7 @@
   .edit-form .edit-actions{display:flex;gap:16px;align-items:center;margin-top:6px}
   .edit-form .edit-actions button{padding:0;font-size:13px;font-weight:600;letter-spacing:0.02em;
     cursor:pointer;transition:.15s;border:0;background:none}
-  .edit-form .edit-actions .save-btn{color:var(--blue)}
+  .edit-form .edit-actions .save-btn{color:var(--ink-soft)}
   .edit-form .edit-actions .save-btn:active{opacity:.6}
   .edit-form .edit-actions .cancel-btn{color:var(--ink-soft)}
   .edit-form .edit-actions .cancel-btn:active{opacity:.6}
@@ -335,8 +355,7 @@
   .empty{padding:70px 6px;border-top:1px solid var(--line)}
   .empty h3{font-size:24px;margin-top:16px}
   .empty p{font-size:15px;color:var(--ink-soft);margin-top:12px}
-  .sess{border-bottom:1px solid var(--line);padding:28px 0}
-  .sess-first{border-top:1px solid var(--line)}
+  .sess{border-bottom:1px solid var(--line);padding:36px 0}
   .sess-top{display:grid;grid-template-columns:52px 1fr auto;gap:20px;align-items:center;margin-bottom:20px}
   .sess-badge{font-family:'Fraunces',serif;font-size:38px;font-weight:500;color:var(--blue);line-height:.8}
   .sess-date h3{font-size:19px}
@@ -356,7 +375,7 @@
   .picker select{width:100%;-webkit-appearance:none;appearance:none;background:none;border:0;
     font-family:'Fraunces',serif;font-weight:500;font-size:23px;letter-spacing:-0.01em;
     padding:0 30px 16px 0;cursor:pointer}
-  .picker select:focus-visible{outline-color:var(--green-dark)}
+  .picker select:focus,.picker select:focus-visible{outline:none}
   .picker::after{content:"";position:absolute;right:4px;top:8px;width:9px;height:9px;
     border-right:1.5px solid var(--green);border-bottom:1.5px solid var(--green);transform:rotate(45deg);pointer-events:none}
   .readout{display:flex;align-items:flex-end;justify-content:space-between;margin-bottom:28px}
@@ -394,15 +413,6 @@
   .sess-edit-head .field select,.sess-edit-head .field input[type="datetime-local"]{height:40px;padding-top:0;padding-bottom:0;font-size:16px}
   .edit-form .field input[type="datetime-local"]{padding-right:4px;font-size:16px}
 
-  .daychips{display:flex;flex-wrap:wrap;gap:8px;padding:4px 0 8px}
-  .daychip{position:relative;border:1px solid var(--line);background:#fff;border-radius:0;color:var(--ink);
-    font-family:'Fraunces',serif;font-size:17px;font-weight:500;line-height:1;height:34px;min-width:44px;padding:0 12px;
-    cursor:pointer;display:inline-flex;align-items:center;justify-content:center;transition:.15s;-webkit-tap-highlight-color:transparent}
-  .daychip::before{content:"";position:absolute;inset:-6px}
-  .daychip:active{background:var(--paper-2)}
-  .daychip.on{background:var(--blue);border-color:var(--blue);color:#fff}
-  body.dayB .daychip.on{background:var(--green);border-color:var(--green)}
-
   .sess-edit-ex-list{display:grid}
   .sess-edit-ex{border-top:1px solid var(--line);padding-top:14px}
   .sess-edit-ex:first-child{border-top:none;padding-top:0}
@@ -431,6 +441,7 @@
     padding:12px 0;cursor:pointer;text-align:left;transition:.15s}
   body.dayB .sess-edit-add-set,body.dayB .sess-edit-add-ex{color:var(--green)}
   .sess-edit-add-set:active,.sess-edit-add-ex:active{opacity:.6}
+  .sess-edit-form .edit-actions .del-btn{margin-left:0}
   .sess-edit-form .edit-actions .sess-edit-add-ex{width:auto;margin-left:auto}
   .sess-edit-form .edit-actions{margin-top:0}
   .sess-edit-form .edit-actions button{padding:14px 0;margin:-14px 0}
@@ -488,6 +499,13 @@
   .pref-account{font-size:12px;color:var(--ink-soft);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .pref-logout{background:none;border:1px solid var(--line);padding:8px 14px;font-family:inherit;font-size:12px;
     letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-soft);cursor:pointer;min-height:36px}
+  .pref-bike-ctl{display:flex;align-items:center;gap:8px}
+  .pref-sel{position:relative;display:inline-flex}
+  .pref-sel::after{content:"";position:absolute;right:11px;top:50%;width:7px;height:7px;margin-top:-5px;
+    border-right:1.5px solid var(--ink-soft);border-bottom:1.5px solid var(--ink-soft);transform:rotate(45deg);pointer-events:none}
+  .pref-select{width:30px;height:44px;margin:0;padding:0;background:none;border:0;color:transparent;
+    -webkit-appearance:none;appearance:none;cursor:pointer}
+  .pref-select:focus,.pref-select:focus-visible{outline:none}
 </style>
 </head>
 <body class="auth-pending">
@@ -578,8 +596,14 @@
       <div class="pref-sub">Blende Trainingsarten aus die du nicht nutzt.</div>
       <label class="pref-row"><span>Kraft</span>
         <input type="checkbox" class="pref-switch" id="prefCatKraft" onchange="togglePrefCat('kraft',this.checked)"></label>
-      <label class="pref-row"><span>Rennrad</span>
-        <input type="checkbox" class="pref-switch" id="prefCatRad" onchange="togglePrefCat('rad',this.checked)"></label>
+      <div class="pref-row"><span id="prefBikeLabel">Rennrad</span>
+        <span class="pref-bike-ctl">
+          <span class="pref-sel"><select class="pref-select" id="prefBike" aria-label="Fahrradart" onchange="setBike(this.value)">
+            <option>Rennrad</option><option>Gravel</option><option>Mountainbike</option>
+            <option>Trekking</option><option>Cityrad</option><option>E-Bike</option>
+          </select></span>
+          <input type="checkbox" class="pref-switch" id="prefCatRad" onchange="togglePrefCat('rad',this.checked)">
+        </span></div>
     </div>
 
     <div class="pref-section">
@@ -622,7 +646,7 @@
     </div>
     <div class="colorpick" id="pickR">
       <span class="cp-dot"></span>
-      <span class="cp-meta"><span class="cp-name">Rennrad</span>
+      <span class="cp-meta"><span class="cp-name" id="cpBikeName">Rennrad</span>
         <span class="cp-row">
           <input type="text" class="cp-hex" maxlength="7" spellcheck="false" autocapitalize="off" autocomplete="off" aria-label="Hex-Wert Rennrad" oninput="onHexInput('r',this)" onblur="paintPicks()">
           <label class="cp-pick" aria-label="Eigene Farbe wählen"><input type="color" class="cp-native" onchange="setAccent('r',this.value)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m2 22 1-1h3l9-9"/><path d="M3 21v-3l9-9"/><path d="m15 6 3.4-3.4a2.1 2.1 0 1 1 3 3L18 9l.4.4a2.1 2.1 0 1 1-3 3l-3.8-3.8a2.1 2.1 0 1 1 3-3l.4.4Z"/></svg></label>
@@ -634,6 +658,14 @@
       <button class="set-reset" onclick="resetAccents()">Zurücksetzen</button>
     </div>
   </div>
+</div>
+
+<div class="map-overlay" id="mapOverlay">
+  <div class="map-overlay-top">
+    <span class="map-overlay-title" id="mapOverlayTitle">Route</span>
+    <button class="map-overlay-close" onclick="closeRideMap()" aria-label="Schließen">×</button>
+  </div>
+  <div class="map-overlay-map" id="mapOverlayMap"></div>
 </div>
 
 <div class="toast" id="toast"><span class="k" id="toastK"></span><span class="v" id="toastV"></span></div>
@@ -934,7 +966,7 @@ function paintTop(){
   const heroLetter=document.getElementById("heroLetter");
   const heroSide=document.querySelector(".hero-side");
   if(cat==="rad"){
-    heroLetter.textContent="Rennrad";
+    heroLetter.textContent=bikeName();
     heroLetter.style.display="";
     heroLetter.style.fontSize="48px";
     heroLetter.style.letterSpacing="-0.02em";
@@ -1018,7 +1050,7 @@ function renderTrain(){
   // Zeigt immer sofort Übungen — session startet lazy beim ersten Satz
   const day=store.active?store.active.day:(dayPick||nextDay());
   const prs=prMap(),ex=planFor(day);
-  let h=`<div class="eyebrow" style="margin-bottom:18px">Tag ${day} · ${dayLabel(day)}</div><div class="list">`;
+  let h=`<div class="eyebrow" style="margin-bottom:24px">Tag ${day} · ${dayLabel(day)}</div><div class="list">`;
   ex.forEach((e,i)=>{
     const lg=store.active?store.active.log[e.id]||[]:[];
     const last=lastFor(e.id),own=!!e.own;
@@ -1139,8 +1171,14 @@ function delExercise(day,id){
   toast("Übung entfernt",`${n} erscheint nicht mehr in Tag ${day}`)}
 function delSession(ts){
   store.sessions=store.sessions.filter(s=>s.ts!==ts);
-  save();renderHist();paintTop();
+  save();paintTop();
+  if(cat==="rad")renderRadHist();else renderHist();
   toast("Einheit gelöscht","Die Statistiken wurden neu berechnet")}
+function confirmDelSess(){
+  if(!confirm("Diese Einheit löschen? Das lässt sich nicht rückgängig machen."))return;
+  const ts=editSessTs;
+  editSessTs=null;editSessData={};
+  delSession(ts)}
 
 function paintFinish(){const s=document.getElementById("finishSlot");
   if(store.active.day==="R")return;
@@ -1159,11 +1197,11 @@ function finish(){let n=0;for(const id in store.active.log)n+=store.active.log[i
 }
 
 /* ── Rennrad ── */
-let radDraft={min:0,kcal:0,hm:0,km:0};
+let radDraft={min:0,kcal:0,hm:0,km:0,maxKmh:0,gpx:null};
 function renderRadTrain(){
   const v=document.getElementById("viewTrain");
   const last=store.sessions.filter(s=>s.day==="R").slice(-1)[0];
-  if(last&&last.rad){radDraft={min:last.rad.min||0,kcal:last.rad.kcal||0,hm:last.rad.hm||0,km:last.rad.km||0}}
+  if(last&&last.rad&&!radDraft.gpx){radDraft={min:last.rad.min||0,kcal:last.rad.kcal||0,hm:last.rad.hm||0,km:last.rad.km||0,maxKmh:last.rad.maxKmh||0,gpx:last.rad.gpx||null}}
   const active=store.active&&store.active.day==="R";
   const rd=active&&store.active.rad?store.active.rad:radDraft;
   v.innerHTML=`<div class="rad-form">
@@ -1172,18 +1210,51 @@ function renderRadTrain(){
       <label>Höhenmeter<input type="number" id="radHm" value="${rd.hm}" onchange="updateRad()"></label>
       <label>Kilometer<input type="number" id="radKm" value="${rd.km}" step="0.1" onchange="updateRad()"></label>
     </div>
+    <div class="gpx-row">
+      <input type="file" id="gpxFile" accept=".gpx,.xml" style="display:none" onchange="onGpxFile(this)">
+      ${rd.gpx
+        ?`<div class="ride-map" id="trainMap"></div>
+          <div class="gpx-ok"><span>✓ Route geladen</span><button class="gpx-clear" onclick="clearGpx()">entfernen</button></div>`
+        :`<button class="gpx-btn" onclick="pickGpx()">+ GPX-Route hochladen</button>`}
+    </div>
     <div style="margin-top:24px">
       ${active?`<button class="btn-primary" onclick="finishRad()">Fahrt speichern</button>
-        <button class="btn-ghost" style="margin-top:10px" onclick="discard()">Verwerfen</button>`
+        <button class="btn-discard" onclick="discard()" aria-label="Fahrt verwerfen">Verwerfen</button>`
         :`<button class="btn-primary" onclick="startRad()">Fahrt starten</button>`}
     </div>`;
+  if(rd.gpx)renderRideMap("trainMap",decodePolyline(rd.gpx));
 }
 function updateRad(){
-  radDraft={min:+(document.getElementById("radMin")?.value||0),kcal:+(document.getElementById("radKcal")?.value||0),hm:+(document.getElementById("radHm")?.value||0),km:+(document.getElementById("radKm")?.value||0)};
+  const prev=(store.active&&store.active.day==="R"&&store.active.rad)?store.active.rad:radDraft;
+  radDraft={min:+(document.getElementById("radMin")?.value||0),kcal:+(document.getElementById("radKcal")?.value||0),hm:+(document.getElementById("radHm")?.value||0),km:+(document.getElementById("radKm")?.value||0),maxKmh:prev.maxKmh||0,gpx:prev.gpx||null};
   if(store.active&&store.active.day==="R"){store.active.rad=radDraft;save()}
 }
+function pickGpx(){document.getElementById("gpxFile").click()}
+function onGpxFile(input){
+  const f=input.files[0];if(!f)return;
+  const r=new FileReader();
+  r.onload=()=>{
+    input.value="";
+    const pts=parseGpx(r.result);
+    if(!pts||pts.length<2){toast("GPX nicht lesbar","Keine Trackpunkte gefunden");return}
+    const st=gpxStats(pts);
+    const simple=simplifyTrack(pts,400);
+    const rad={min:st.min,hm:st.hm,km:Math.round(st.km*10)/10,maxKmh:st.maxKmh,kcal:0,gpx:encodePolyline(simple)};
+    store.sessions.push({ts:Date.now(),day:"R",log:{},rad,bike:bikeName(),done:Date.now()});
+    save();
+    setTab("history");
+    toast("Fahrt importiert",`${rad.km} km · ${rad.hm} hm`);
+  };
+  r.readAsText(f);
+}
+function clearGpx(){
+  const prev=(store.active&&store.active.day==="R"&&store.active.rad)?store.active.rad:radDraft;
+  radDraft={min:prev.min||0,kcal:prev.kcal||0,hm:prev.hm||0,km:prev.km||0,maxKmh:prev.maxKmh||0,gpx:null};
+  if(store.active&&store.active.day==="R"){store.active.rad=radDraft;save()}
+  render();
+}
 function startRad(){
-  store.active={ts:Date.now(),day:"R",log:{},rad:{...radDraft}};
+  store.active={ts:Date.now(),day:"R",log:{},rad:{...radDraft},bike:bikeName()};
   save();render();
 }
 function finishRad(){
@@ -1192,7 +1263,9 @@ function finishRad(){
   store.active.done=Date.now();
   store.sessions.push(store.active);
   store.active=null;save();
-  toast("Gespeichert",`${radDraft.km} km · ${radDraft.hm} hm`);
+  const savedKm=radDraft.km,savedHm=radDraft.hm;
+  radDraft={min:0,kcal:0,hm:0,km:0,maxKmh:0,gpx:null};
+  toast("Gespeichert",`${savedKm} km · ${savedHm} hm`);
   setTab("history");
 }
 function renderRadHist(){
@@ -1201,15 +1274,25 @@ function renderRadHist(){
   if(!rs.length){v.innerHTML=`<div class="empty"><div class="eyebrow">Verlauf</div>
     <h3>Noch keine Fahrt erfasst.</h3><p>Starte im Reiter „Training" eine neue Fahrt.</p></div>`;return}
   let h="";
-  rs.forEach(s=>{
+  rs.forEach((s,i)=>{
+    if(editSessTs===s.ts){h+=renderRadEdit(s,i);return}
     const r=s.rad||{};
-    h+=`<div class="sess">
-      <div class="sess-head"><b>${fD(s.ts)}</b><span>${fT(s.ts)}</span></div>
-      <div class="sline"><span class="nm">${r.km||0} km</span><span class="val">${r.min||0} min</span></div>
-      <div class="sline"><span class="nm">${r.kcal||0} kcal</span><span class="val">${r.hm||0} hm</span></div>
-    </div>`;
+    h+=`<div class="sessswipe" data-ts="${s.ts}">
+      <div class="sess-behind"><button class="sess-behind-btn" onclick="delSession(${s.ts})" aria-label="Fahrt löschen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></button></div>
+      <div class="swipe-body sess ${i===0?'sess-first':''}">${r.gpx?`<div class="ride-map hist" id="rm${s.ts}" onclick="openRideMap(${s.ts})"></div>`:""}<div class="sess-top">
+        <div class="sess-badge" style="color:var(--rad)">${(s.bike||"Rennrad").charAt(0)}</div>
+        <div class="sess-date"><h3>${fFull(s.ts)}</h3><span>${fT(s.ts)} Uhr</span></div>
+        <div class="sess-vol"><b>${(r.km||0).toFixed(1)}</b><span>Kilometer</span></div>
+      </div>
+      <div class="sline"><span class="nm">Dauer</span><span class="vl"><b>${fmtDur(r.min)}</b></span></div>
+      <div class="sline"><span class="nm">Höhenmeter</span><span class="vl"><b>${r.hm||0}</b> hm</span></div>
+      <div class="sline"><span class="nm">Kalorien</span><span class="vl"><b>${r.kcal||0}</b> kcal</span></div>
+      <div class="sline"><span class="nm">Ø Geschwindigkeit</span><span class="vl"><b>${avgKmh(r)}</b> km/h</span></div>
+      <div class="sline"><span class="nm">Max</span><span class="vl"><b>${r.maxKmh?(+r.maxKmh).toFixed(1):"—"}</b> km/h</span></div>
+    </div></div>`;
   });
   v.innerHTML=h;
+  rs.forEach(s=>{const r=s.rad||{};if(r.gpx)renderRideMap("rm"+s.ts,decodePolyline(r.gpx))});
 }
 function renderRadRoute(){
   const v=document.getElementById("viewProg");
@@ -1217,13 +1300,232 @@ function renderRadRoute(){
   if(!rs.length){v.innerHTML=`<div class="empty"><div class="eyebrow">Strecke</div>
     <h3>Noch keine Daten.</h3><p>Nach der ersten Fahrt erscheinen hier Statistiken.</p></div>`;return}
   let cumKm=0;
-  let h=`<div class="eyebrow" style="margin-bottom:18px">Strecke</div><div class="list">`;
+  let h=`<div class="eyebrow" style="margin-bottom:24px">Strecke</div><div class="list">`;
   rs.forEach(s=>{
     const r=s.rad||{};cumKm+=r.km||0;
     h+=`<div class="sline"><span class="nm">${fD(s.ts)} — ${r.km||0} km</span><span class="val">Σ ${cumKm.toFixed(1)} km</span></div>`;
   });
   h+=`</div>`;
   v.innerHTML=h;
+}
+/* ── GPX & Routenkarte ── */
+function parseGpx(text){
+  const xml=new DOMParser().parseFromString(text,"application/xml");
+  if(xml.querySelector("parsererror"))return null;
+  const pts=[];
+  xml.querySelectorAll("trkpt").forEach(t=>{
+    const lat=parseFloat(t.getAttribute("lat"));
+    const lon=parseFloat(t.getAttribute("lon"));
+    const ele=parseFloat(t.getElementsByTagName("ele")[0]?.textContent||"0");
+    const time=t.getElementsByTagName("time")[0]?.textContent||null;
+    if(!isNaN(lat)&&!isNaN(lon))pts.push([lat,lon,isNaN(ele)?0:ele,time]);
+  });
+  return pts.length?pts:null;
+}
+function simplifyTrack(pts,target){
+  if(pts.length<=target)return pts.slice();
+  const out=[],step=(pts.length-1)/(target-1);
+  for(let i=0;i<target;i++)out.push(pts[Math.round(i*step)]);
+  out[target-1]=pts[pts.length-1];
+  return out;
+}
+function haversine(a,b){
+  const R=6371000,p=Math.PI/180;
+  const s=Math.sin((b[0]-a[0])*p/2)**2+Math.cos(a[0]*p)*Math.cos(b[0]*p)*Math.sin((b[1]-a[1])*p/2)**2;
+  return 2*R*Math.asin(Math.sqrt(s));
+}
+function gpxStats(pts){
+  const w=4;
+  const el=[];
+  for(let i=0;i<pts.length;i++){
+    let s=0,n=0;
+    for(let j=Math.max(0,i-w);j<=Math.min(pts.length-1,i+w);j++){s+=pts[j][2]||0;n++}
+    el.push(s/n);
+  }
+  let km=0,hm=0,maxKmh=0,moveMs=0;
+  for(let i=1;i<pts.length;i++){
+    const d=haversine(pts[i-1],pts[i]);
+    km+=d;
+    const de=el[i]-el[i-1];if(de>1.5)hm+=de;
+    if(pts[i-1][3]&&pts[i][3]){
+      const dt=new Date(pts[i][3])-new Date(pts[i-1][3]);
+      if(dt>0){
+        const sp=(d/1000)/(dt/3600000);
+        if(sp>maxKmh)maxKmh=sp;
+        if(sp>=2)moveMs+=dt;
+      }
+    }
+  }
+  return {km:km/1000,hm:Math.round(hm),min:Math.round(moveMs/60000),maxKmh:Math.round(maxKmh*10)/10};
+}
+function fmtDur(min){
+  min=Math.round(min||0);
+  if(min<60)return min+" min";
+  return Math.floor(min/60)+":"+String(min%60).padStart(2,"0")+" h";
+}
+function avgKmh(r){
+  if(!(r.min>0)||!(r.km>0))return"—";
+  return (r.km/(r.min/60)).toFixed(1);
+}
+function encNum(v){
+  v=v<0?~(v<<1):(v<<1);
+  let s="";
+  while(v>=0x20){s+=String.fromCharCode((0x20|(v&0x1f))+63);v>>=5}
+  return s+String.fromCharCode(v+63);
+}
+function encodePolyline(pts){
+  let plat=0,plon=0,res="";
+  for(const p of pts){
+    const lat=Math.round(p[0]*1e5),lon=Math.round(p[1]*1e5);
+    res+=encNum(lat-plat)+encNum(lon-plon);
+    plat=lat;plon=lon;
+  }
+  return res;
+}
+function decodePolyline(str){
+  const pts=[];let lat=0,lon=0,idx=0;
+  while(idx<str.length){
+    let res=0,shift=0,b;
+    do{b=str.charCodeAt(idx++)-63;res|=(b&0x1f)<<shift;shift+=5}while(b>=0x20);
+    lat+=((res&1)?~(res>>1):(res>>1));
+    res=0;shift=0;
+    do{b=str.charCodeAt(idx++)-63;res|=(b&0x1f)<<shift;shift+=5}while(b>=0x20);
+    lon+=((res&1)?~(res>>1):(res>>1));
+    pts.push([lat/1e5,lon/1e5]);
+  }
+  return pts;
+}
+let leafletReady=null;
+function loadLeaflet(){
+  if(leafletReady)return leafletReady;
+  leafletReady=new Promise(resolve=>{
+    if(window.L){resolve(true);return}
+    const s=document.createElement("script");
+    s.src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js";
+    s.onload=()=>{
+      const l=document.createElement("link");
+      l.rel="stylesheet";l.href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css";
+      document.head.appendChild(l);
+      resolve(true);
+    };
+    s.onerror=()=>{leafletReady=null;resolve(false)};
+    document.head.appendChild(s);
+  });
+  return leafletReady;
+}
+function radColor(){return (getComputedStyle(document.documentElement).getPropertyValue("--rad")||"#5C6B33").trim()}
+function paintSvgMap(el,pts){
+  const w=el.clientWidth||350,h=el.clientHeight||180;
+  const lats=pts.map(p=>p[0]),lons=pts.map(p=>p[1]);
+  const la=Math.min(...lats),laX=Math.max(...lats),lo=Math.min(...lons),loX=Math.max(...lons);
+  const k=Math.cos((la+laX)/2*Math.PI/180),bw=(loX-lo)*k||1e-9,bh=(laX-la)||1e-9;
+  const s=Math.min((w-24)/bw,(h-24)/bh),ox=(w-bw*s)/2,oy=(h-bh*s)/2;
+  const q=pts.map(p=>[ox+(p[1]-lo)*k*s,oy+(laX-p[0])*s]);
+  const d=q.map((c,i)=>(i?"L":"M")+c[0].toFixed(1)+" "+c[1].toFixed(1)).join("");
+  el.innerHTML=`<svg class="ride-svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
+    <path d="${d}" fill="none" stroke="var(--rad)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="${q[0][0]}" cy="${q[0][1]}" r="4" fill="var(--paper)" stroke="var(--rad)" stroke-width="2"/>
+    <circle cx="${q[q.length-1][0]}" cy="${q[q.length-1][1]}" r="4" fill="var(--rad)"/></svg>`;
+}
+let fullMap=null;
+function paintLeaflet(el,pts,interactive){
+  const m=L.map(el,{zoomControl:interactive,attributionControl:interactive,
+    scrollWheelZoom:interactive,dragging:interactive,touchZoom:interactive,
+    doubleClickZoom:interactive,boxZoom:interactive});
+  L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png",
+    {maxZoom:19,attribution:'© OpenStreetMap · © CARTO'}).addTo(m);
+  const l=L.polyline(pts,{color:radColor(),weight:3,lineCap:"round",lineJoin:"round"}).addTo(m);
+  m.fitBounds(l.getBounds().pad(interactive?0.1:0.15));
+  if(interactive)fullMap=m;
+  setTimeout(()=>m.invalidateSize(),50);
+}
+function renderRideMap(id,pts,opts={}){
+  const el=document.getElementById(id);if(!el)return;
+  const paint=ok=>{
+    if(opts.overlay&&!document.getElementById("mapOverlay").classList.contains("open"))return;
+    if(ok)paintLeaflet(el,pts,opts.interactive);else paintSvgMap(el,pts);
+  };
+  if(!navigator.onLine){paintSvgMap(el,pts);return}
+  loadLeaflet().then(paint);
+}
+function openRideMap(ts){
+  const s=store.sessions.find(x=>x.ts===ts);
+  if(!s||!s.rad||!s.rad.gpx)return;
+  document.getElementById("mapOverlayTitle").textContent=`${fFull(s.ts)} · ${(s.rad.km||0).toFixed(1)} km`;
+  document.getElementById("mapOverlay").classList.add("open");
+  renderRideMap("mapOverlayMap",decodePolyline(s.rad.gpx),{interactive:true,overlay:true});
+}
+function closeRideMap(){
+  document.getElementById("mapOverlay").classList.remove("open");
+  document.getElementById("mapOverlayMap").innerHTML="";
+  if(fullMap){fullMap.remove();fullMap=null}
+}
+
+function startRadEdit(ts){
+  const s=store.sessions.find(x=>x.ts===ts);
+  if(!s)return;
+  editSessTs=ts;
+  const r=s.rad||{};
+  editSessData={day:s.day,date:s.ts,min:r.min||0,kcal:r.kcal||0,hm:r.hm||0,km:r.km||0};
+  renderRadHist();
+  setTimeout(()=>{const f=document.querySelector(".sess-edit-form input");
+    if(f)f.focus()},50);
+}
+function cancelRadEdit(){
+  editSessTs=null;
+  editSessData={};
+  renderRadHist();
+}
+function saveRadEdit(){
+  const sIdx=store.sessions.findIndex(x=>x.ts===editSessTs);
+  if(sIdx===-1){cancelRadEdit();return}
+  const dateIn=document.getElementById("radEditDate");
+  const parsed=dateIn?parseEditDate(dateIn.value):null;
+  if(dateIn&&!parsed){toast("Ungültiges Datum","Format: TT.MM.JJJJ");return}
+  const val=id=>+(document.getElementById(id)?.value||0);
+  store.sessions[sIdx].ts=parsed?parsed.getTime():editSessData.date;
+  store.sessions[sIdx].rad={min:val("radEditMin"),kcal:val("radEditKcal"),hm:val("radEditHm"),km:val("radEditKm"),maxKmh:store.sessions[sIdx].rad?.maxKmh||0,gpx:store.sessions[sIdx].rad?.gpx||null};
+  save();
+  paintTop();
+  editSessTs=null;
+  editSessData={};
+  renderRadHist();
+  toast("Gespeichert","Fahrt aktualisiert");
+}
+function renderRadEdit(s,i){
+  const pd=n=>String(n).padStart(2,"0"),dt=new Date(editSessData.date);
+  const dateVal=`${pd(dt.getDate())}.${pd(dt.getMonth()+1)}.${dt.getFullYear()}`;
+  return `<div class="sessswipe" data-ts="${s.ts}">
+    <div class="sess-behind"><button class="sess-behind-btn" onclick="delSession(${s.ts})" aria-label="Fahrt löschen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></button></div>
+    <div class="swipe-body sess sess-edit ${i===0?'sess-first':''}">
+      <form class="sess-edit-form edit-form" onsubmit="event.preventDefault();saveRadEdit()">
+        <div class="sess-edit-head">
+          <div class="field stack"><div class="cap">Datum</div>
+            <input class="txt" id="radEditDate" type="text" autocomplete="off" placeholder="TT.MM.JJJJ" value="${dateVal}">
+          </div>
+          <div class="field stack"><div class="cap">Dauer (min)</div>
+            <input class="txt" id="radEditMin" type="number" inputmode="numeric" min="0" value="${editSessData.min}">
+          </div>
+        </div>
+        <div class="sess-edit-head">
+          <div class="field stack"><div class="cap">Kalorien</div>
+            <input class="txt" id="radEditKcal" type="number" inputmode="numeric" min="0" value="${editSessData.kcal}">
+          </div>
+          <div class="field stack"><div class="cap">Höhenmeter</div>
+            <input class="txt" id="radEditHm" type="number" inputmode="numeric" min="0" value="${editSessData.hm}">
+          </div>
+        </div>
+        <div class="field stack"><div class="cap">Kilometer</div>
+          <input class="txt" id="radEditKm" type="number" inputmode="decimal" step="0.1" min="0" value="${editSessData.km}">
+        </div>
+        <div class="edit-actions">
+          <button type="submit" class="save-btn">Speichern</button>
+          <button type="button" class="cancel-btn" onclick="cancelRadEdit()">Abbrechen</button>
+          <button type="button" class="del-btn" onclick="confirmDelSess()">Löschen</button>
+        </div>
+      </form>
+    </div>
+  </div>`;
 }
 
 /* ── Verlauf ── */
@@ -1278,10 +1580,6 @@ function cancelSessEdit(){
   editSessData={};
   renderHist();
 }
-function setEditDay(d){
-  editSessData.day=d;
-  document.querySelectorAll(".sess-edit-form .daychip").forEach(c=>c.classList.toggle("on",c.dataset.day===d));
-}
 function parseEditDate(v){
   const m=(v||"").trim().match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/);
   if(!m)return null;
@@ -1296,7 +1594,8 @@ function saveSessEdit(){
   const parsed=dateIn?parseEditDate(dateIn.value):null;
   if(dateIn&&!parsed){toast("Ungültiges Datum","Format: TT.MM.JJJJ");return}
   const newTs=parsed?parsed.getTime():editSessData.date;
-  const newDay=editSessData.day;
+  const daySel=document.getElementById("sessEditDaySel");
+  const newDay=daySel?daySel.value:editSessData.day;
   // Exercises sammeln (bestehende mit data-ex-id)
   const newLog={};
   document.querySelectorAll(".sess-edit-ex[data-ex-id]").forEach(el=>{
@@ -1327,6 +1626,7 @@ function saveSessEdit(){
   });
   store.sessions[sIdx]={...store.sessions[sIdx],ts:newTs,day:newDay,log:newLog};
   save();
+  paintTop();
   editSessTs=null;
   editSessData={};
   renderHist();
@@ -1384,7 +1684,7 @@ function updateNewSetNumbers(newId){
 }
 function renderSessEdit(s,i){
   const days=allDays().filter(d=>d!=="R");
-  const dayChips=days.map(d=>`<button type="button" class="daychip ${editSessData.day===d?'on':''}" data-day="${d}" onclick="setEditDay('${d}')">${d}</button>`).join("");
+  const dayOpts=days.map(d=>`<option value="${d}" ${editSessData.day===d?"selected":""}>${d} - ${dayLabel(d)}</option>`).join("");
   const pd=n=>String(n).padStart(2,"0"),dt=new Date(editSessData.date);
   const dateVal=`${pd(dt.getDate())}.${pd(dt.getMonth()+1)}.${dt.getFullYear()}`;
   const exercisesHtml=Object.keys(editSessData.exercises).map(id=>{
@@ -1412,7 +1712,7 @@ function renderSessEdit(s,i){
       <form class="sess-edit-form edit-form" onsubmit="event.preventDefault();saveSessEdit()">
         <div class="sess-edit-head">
           <div class="field stack"><div class="cap">Tag</div>
-            <div class="daychips" id="sessEditDayChips">${dayChips}</div>
+            <select id="sessEditDaySel">${dayOpts}</select>
           </div>
           <div class="field stack"><div class="cap">Datum</div>
             <input class="txt" id="sessEditDate" type="text" autocomplete="off" placeholder="TT.MM.JJJJ" value="${dateVal}">
@@ -1424,6 +1724,7 @@ function renderSessEdit(s,i){
         <div class="edit-actions">
           <button type="submit" class="save-btn">Speichern</button>
           <button type="button" class="cancel-btn" onclick="cancelSessEdit()">Abbrechen</button>
+          <button type="button" class="del-btn" onclick="confirmDelSess()">Löschen</button>
           <button type="button" class="sess-edit-add-ex" onclick="addSessEditEx()">+ Eigene Übung</button>
         </div>
       </form>
@@ -1587,15 +1888,17 @@ let sessLpTimer=null,sessLpFired=false;
 document.addEventListener("pointerdown",e=>{
   if(editSessTs)return; // Bereits im Edit-Modus
   const sessEl=e.target.closest(".sessswipe");
-  if(!sessEl||e.target.closest("input,select,.edit-form,.sess-behind-btn,.swipe-del"))return;
+  if(!sessEl||e.target.closest("input,select,.edit-form,.sess-behind-btn,.swipe-del,.ride-map"))return;
   if(e.target.closest(".sline"))return; // Klick auf Übungs-Zeile → nicht Session-Bearbeitung
   sessLpFired=false;
   sessLpTimer=setTimeout(()=>{
     const ts=parseInt(sessEl.getAttribute("data-ts"),10);
     if(!ts)return;
+    const sess=store.sessions.find(x=>x.ts===ts);
+    if(!sess)return;
     sessLpFired=true;
     if(navigator.vibrate)navigator.vibrate(30);
-    startSessEdit(ts);
+    if(sess.day==="R")startRadEdit(ts);else startSessEdit(ts);
   },700);
 },{passive:true});
 document.addEventListener("pointermove",e=>{
@@ -1603,12 +1906,6 @@ document.addEventListener("pointermove",e=>{
 },{passive:true});
 document.addEventListener("pointerup",()=>{clearTimeout(sessLpTimer);sessLpTimer=null},{passive:true});
 document.addEventListener("pointercancel",()=>{clearTimeout(sessLpTimer);sessLpTimer=null},{passive:true});
-
-/* ── Tag-Chips (Delegation, funktioniert unabhängig von Inline-Handlern) ── */
-document.addEventListener("click",e=>{
-  const c=e.target.closest(".daychip");
-  if(c)setEditDay(c.dataset.day);
-});
 
 /* ── Hinweis ── */
 let tT;
@@ -1701,12 +1998,24 @@ function paintPrefs(){
   const k=document.getElementById("prefCatKraft"),r=document.getElementById("prefCatRad");
   if(k)k.checked=!hidden.includes("kraft");
   if(r)r.checked=!hidden.includes("rad");
+  const b=document.getElementById("prefBike");
+  if(b)b.value=bikeName();
+  const bl=document.getElementById("prefBikeLabel");
+  if(bl)bl.textContent=bikeName();
+  const cn=document.getElementById("cpBikeName");
+  if(cn)cn.textContent=bikeName();
+}
+function bikeName(){return store.bike||"Rennrad"}
+function setBike(v){
+  store.bike=v;
+  save();paintTop();paintPrefs();
+  toast("Fahrrad",v);
 }
 function togglePrefCat(c,on){
   const list=new Set(store.hiddenCats||[]);
   if(on)list.delete(c);else list.add(c);
   if(list.has("kraft")&&list.has("rad")){list.delete(c);paintPrefs();
-    toast("Mindestens ein Bereich","Kraft oder Rennrad muss aktiv bleiben");return}
+    toast("Mindestens ein Bereich","Kraft oder "+bikeName()+" muss aktiv bleiben");return}
   store.hiddenCats=[...list];
   if(list.has(cat))setCat(list.has("kraft")?"rad":"kraft");
   save();render();
