@@ -34,6 +34,11 @@
     --bot:env(safe-area-inset-bottom,0px);
   }
   *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html{
+    overscroll-behavior-y:none;
+    scrollbar-width:none;-ms-overflow-style:none;
+  }
+  html::-webkit-scrollbar,body::-webkit-scrollbar{display:none}
   body{
     font-family:'Inter',system-ui,sans-serif;color:var(--ink);background:var(--paper);
     line-height:1.65;-webkit-font-smoothing:antialiased;overflow-x:hidden;
@@ -65,6 +70,7 @@
   .plan-sub{font-size:13px;color:#8A8983;margin-bottom:36px}
   .plan-label{font-size:11.5px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:#8A8983;margin-bottom:14px;display:flex;align-items:center;gap:11px}
   .plan-label::before{content:"";width:24px;height:2px;background:#8A8983;flex:none}
+  .plan-label.sp{margin-top:36px}
   .plan-grid{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-bottom:40px;padding:0 4px}
   .plan-grid button{width:52px;height:52px;border-radius:50%;border:1.5px solid var(--line);background:var(--paper);font-family:'Fraunces',serif;font-weight:500;font-size:19px;cursor:pointer;color:var(--ink);transition:all .15s;flex:none;display:flex;align-items:center;justify-content:center;padding:0;-webkit-user-select:none;user-select:none;-webkit-touch-callout:none;touch-action:manipulation}
   .plan-grid button.used{opacity:.5;border-style:dashed}
@@ -105,7 +111,14 @@
   .map-overlay.open{display:flex}
   .map-overlay-top{display:flex;align-items:center;justify-content:space-between;
     padding:calc(var(--top) + 12px) 20px 12px;border-bottom:1px solid var(--line)}
-  .map-overlay-title{font-family:'Fraunces',serif;font-size:17px;font-weight:500}
+  .map-overlay-title{font-family:'Fraunces',serif;font-size:17px;font-weight:500;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .map-overlay-actions{display:flex;align-items:center;gap:8px;flex:none}
+  .map-overlay-anim{background:none;border:1.5px solid var(--line);border-radius:10px;width:38px;height:38px;
+    display:flex;align-items:center;justify-content:center;font-size:13px;color:var(--ink);cursor:pointer;line-height:1;-webkit-tap-highlight-color:transparent}
+  .map-overlay-anim:active{border-color:var(--ink)}
+  .map-overlay-color{background:none;border:1.5px solid var(--line);border-radius:10px;height:38px;padding:0 14px;
+    font-family:inherit;font-size:12px;font-weight:600;letter-spacing:0.02em;color:var(--ink-soft);cursor:pointer;-webkit-tap-highlight-color:transparent}
+  .map-overlay-color.on{border-color:var(--rad);color:var(--rad)}
   .map-overlay-close{background:none;border:none;font-size:26px;color:var(--ink);cursor:pointer;padding:0 6px;line-height:1}
   .map-overlay-map{flex:1;min-height:0}
 
@@ -125,7 +138,15 @@
   .gear{background:none;border:none;padding:4px;cursor:pointer;color:var(--ink-soft);display:flex;line-height:0;transition:color .2s}
   .gear:active{color:var(--ink)}
   .colorpick{display:flex;align-items:center;gap:18px;padding:16px 4px;border-top:1px solid var(--line);-webkit-tap-highlight-color:transparent}
-  .colorpick.pick-last{border-bottom:1px solid var(--line);margin-bottom:36px}
+  .colorpick.pick-last{border-bottom:1px solid var(--line);margin-bottom:0}
+  .sec{background:none;border:1px solid var(--line);border-radius:16px;padding:2px 16px 16px;margin-bottom:18px}
+  .sec-head{display:flex;align-items:center;gap:9px;padding:13px 0 5px;
+    font-size:12px;font-weight:700;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink)}
+  .sec .colorpick{border-top:0;padding:13px 0}
+  .sec .colorpick+.colorpick{border-top:1px solid var(--line)}
+  .sec .colorpick.pick-last{border-bottom:0;margin-bottom:0}
+  .sec-sub{display:flex;align-items:center;margin:4px 0 12px;padding-top:14px;border-top:1px solid var(--line);
+    font-size:10.5px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink-soft)}
   .cp-dot{display:block;flex:none;width:52px;height:52px;border-radius:50%;background:var(--ink);box-shadow:0 0 0 1px var(--line) inset}
   .cp-meta{display:flex;flex-direction:column;gap:6px;min-width:0;flex:1}
   .cp-name{font-size:11.5px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink-soft)}
@@ -141,6 +162,10 @@
   .set-actions{display:flex;flex-direction:column;gap:10px;margin-top:auto}
   .set-random{width:100%;height:52px;border-radius:12px;border:none;background:var(--ink);color:var(--paper);font-weight:600;font-size:14px;cursor:pointer;letter-spacing:0.02em;font-family:inherit}
   .set-reset{width:100%;height:52px;border-radius:12px;border:1.5px solid var(--line);background:none;color:var(--ink-soft);font-weight:600;font-size:14px;cursor:pointer;letter-spacing:0.02em;font-family:inherit}
+  .mapstyle-section{margin:0 0 36px}
+  .mapstyle-wrap{position:relative}
+  .mapstyle-wrap::after{content:"";position:absolute;right:16px;top:50%;width:8px;height:8px;margin-top:-5px;border-right:1.5px solid var(--ink-soft);border-bottom:1.5px solid var(--ink-soft);transform:rotate(45deg);pointer-events:none}
+  .mapstyle-wrap select{width:100%;height:52px;border:1.5px solid var(--line);border-radius:12px;background:var(--paper);font-family:'Fraunces',serif;font-size:16px;font-weight:500;padding:0 16px;color:var(--ink);-webkit-appearance:none;appearance:none;cursor:pointer}
   .stamp{text-align:right;line-height:1.3}
   .stamp b{font-family:'Fraunces',serif;font-weight:500;font-size:15px;display:block}
   .stamp span{font-size:10.5px;letter-spacing:0.12em;text-transform:uppercase;color:var(--ink-soft);font-weight:500}
@@ -623,34 +648,46 @@
 <div class="plan-overlay" id="setOverlay">
   <div class="plan-sheet">
     <div class="plan-top">
-      <h1 class="plan-title">Farben</h1>
+      <h1 class="plan-title">Stile</h1>
       <button class="plan-close" onclick="closeSettings()" aria-label="Schließen">×</button>
     </div>
-    <div class="plan-sub">Hex-Wert eintippen · oder mit der Pipette eine eigene Farbe wählen</div>
+    <div class="plan-sub">Farben eintippen · eigene Farbe mit der Pipette wählen · Kartenstil anpassen</div>
 
+    <div class="sec" id="secKraft">
+    <div class="sec-head">Kraft</div>
     <div class="colorpick" id="pickA">
       <span class="cp-dot"></span>
-      <span class="cp-meta"><span class="cp-name">Kraft · Farbe 1</span>
+      <span class="cp-meta"><span class="cp-name">Farbe 1</span>
         <span class="cp-row">
           <input type="text" class="cp-hex" maxlength="7" spellcheck="false" autocapitalize="off" autocomplete="off" aria-label="Hex-Wert Kraft Farbe 1" oninput="onHexInput('a',this)" onblur="paintPicks()">
-          <label class="cp-pick" aria-label="Eigene Farbe wählen"><input type="color" class="cp-native" onchange="setAccent('a',this.value)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m2 22 1-1h3l9-9"/><path d="M3 21v-3l9-9"/><path d="m15 6 3.4-3.4a2.1 2.1 0 1 1 3 3L18 9l.4.4a2.1 2.1 0 1 1-3 3l-3.8-3.8a2.1 2.1 0 1 1 3-3l.4.4Z"/></svg></label>
         </span></span>
+      <label class="cp-pick" aria-label="Eigene Farbe wählen"><input type="color" class="cp-native" onchange="setAccent('a',this.value)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22a7 7 0 0 0 7-7c0-2-1-3.9-3-5.5s-3.5-4-4-6.5c-.5 2.5-2 4.9-4 6.5C6 11.1 5 13 5 15a7 7 0 0 0 7 7z"/></svg></label>
     </div>
     <div class="colorpick" id="pickB">
       <span class="cp-dot"></span>
-      <span class="cp-meta"><span class="cp-name">Kraft · Farbe 2</span>
+      <span class="cp-meta"><span class="cp-name">Farbe 2</span>
         <span class="cp-row">
           <input type="text" class="cp-hex" maxlength="7" spellcheck="false" autocapitalize="off" autocomplete="off" aria-label="Hex-Wert Kraft Farbe 2" oninput="onHexInput('b',this)" onblur="paintPicks()">
-          <label class="cp-pick" aria-label="Eigene Farbe wählen"><input type="color" class="cp-native" onchange="setAccent('b',this.value)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m2 22 1-1h3l9-9"/><path d="M3 21v-3l9-9"/><path d="m15 6 3.4-3.4a2.1 2.1 0 1 1 3 3L18 9l.4.4a2.1 2.1 0 1 1-3 3l-3.8-3.8a2.1 2.1 0 1 1 3-3l.4.4Z"/></svg></label>
         </span></span>
+      <label class="cp-pick" aria-label="Eigene Farbe wählen"><input type="color" class="cp-native" onchange="setAccent('b',this.value)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22a7 7 0 0 0 7-7c0-2-1-3.9-3-5.5s-3.5-4-4-6.5c-.5 2.5-2 4.9-4 6.5C6 11.1 5 13 5 15a7 7 0 0 0 7 7z"/></svg></label>
     </div>
+    </div>
+
+    <div class="sec" id="secRad">
+    <div class="sec-head"><span id="radLabelName">Rennrad</span></div>
     <div class="colorpick" id="pickR">
       <span class="cp-dot"></span>
-      <span class="cp-meta"><span class="cp-name" id="cpBikeName">Rennrad</span>
+      <span class="cp-meta"><span class="cp-name">Farbe</span>
         <span class="cp-row">
           <input type="text" class="cp-hex" maxlength="7" spellcheck="false" autocapitalize="off" autocomplete="off" aria-label="Hex-Wert Rennrad" oninput="onHexInput('r',this)" onblur="paintPicks()">
-          <label class="cp-pick" aria-label="Eigene Farbe wählen"><input type="color" class="cp-native" onchange="setAccent('r',this.value)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m2 22 1-1h3l9-9"/><path d="M3 21v-3l9-9"/><path d="m15 6 3.4-3.4a2.1 2.1 0 1 1 3 3L18 9l.4.4a2.1 2.1 0 1 1-3 3l-3.8-3.8a2.1 2.1 0 1 1 3-3l.4.4Z"/></svg></label>
         </span></span>
+      <label class="cp-pick" aria-label="Eigene Farbe wählen"><input type="color" class="cp-native" onchange="setAccent('r',this.value)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22a7 7 0 0 0 7-7c0-2-1-3.9-3-5.5s-3.5-4-4-6.5c-.5 2.5-2 4.9-4 6.5C6 11.1 5 13 5 15a7 7 0 0 0 7 7z"/></svg></label>
+    </div>
+
+    <div class="sec-sub">Routenkarte</div>
+      <div class="mapstyle-wrap">
+        <select id="mapStyleSel" onchange="setMapStyle(this.value)" aria-label="Kartenstil wählen"></select>
+      </div>
     </div>
 
     <div class="set-actions">
@@ -663,7 +700,11 @@
 <div class="map-overlay" id="mapOverlay">
   <div class="map-overlay-top">
     <span class="map-overlay-title" id="mapOverlayTitle">Route</span>
-    <button class="map-overlay-close" onclick="closeRideMap()" aria-label="Schließen">×</button>
+    <div class="map-overlay-actions">
+      <button class="map-overlay-anim" id="animBtn" onclick="toggleAnim()" aria-label="Fahrt abspielen">▶</button>
+      <button class="map-overlay-color" id="colorBtn" onclick="toggleSpeedColor()" aria-label="Geschwindigkeitsfarben umschalten">Geschwindigkeit</button>
+      <button class="map-overlay-close" onclick="closeRideMap()" aria-label="Schließen">×</button>
+    </div>
   </div>
   <div class="map-overlay-map" id="mapOverlayMap"></div>
 </div>
@@ -1201,7 +1242,7 @@ let radDraft={min:0,kcal:0,hm:0,km:0,maxKmh:0,gpx:null};
 function renderRadTrain(){
   const v=document.getElementById("viewTrain");
   const last=store.sessions.filter(s=>s.day==="R").slice(-1)[0];
-  if(last&&last.rad&&!radDraft.gpx){radDraft={min:last.rad.min||0,kcal:last.rad.kcal||0,hm:last.rad.hm||0,km:last.rad.km||0,maxKmh:last.rad.maxKmh||0,gpx:last.rad.gpx||null}}
+  if(last&&last.rad&&!radDraft.gpx){radDraft={min:last.rad.min||0,kcal:last.rad.kcal||0,hm:last.rad.hm||0,km:last.rad.km||0,maxKmh:0,gpx:null}}
   const active=store.active&&store.active.day==="R";
   const rd=active&&store.active.rad?store.active.rad:radDraft;
   v.innerHTML=`<div class="rad-form">
@@ -1222,11 +1263,11 @@ function renderRadTrain(){
         <button class="btn-discard" onclick="discard()" aria-label="Fahrt verwerfen">Verwerfen</button>`
         :`<button class="btn-primary" onclick="startRad()">Fahrt starten</button>`}
     </div>`;
-  if(rd.gpx)renderRideMap("trainMap",decodePolyline(rd.gpx));
+  if(rd.gpx)renderRideMap("trainMap",decodePolyline(rd.gpx),{times:decodeTimes(rd.gpxT)});
 }
 function updateRad(){
   const prev=(store.active&&store.active.day==="R"&&store.active.rad)?store.active.rad:radDraft;
-  radDraft={min:+(document.getElementById("radMin")?.value||0),kcal:+(document.getElementById("radKcal")?.value||0),hm:+(document.getElementById("radHm")?.value||0),km:+(document.getElementById("radKm")?.value||0),maxKmh:prev.maxKmh||0,gpx:prev.gpx||null};
+  radDraft={min:+(document.getElementById("radMin")?.value||0),kcal:+(document.getElementById("radKcal")?.value||0),hm:+(document.getElementById("radHm")?.value||0),km:+(document.getElementById("radKm")?.value||0),maxKmh:prev.maxKmh||0,gpx:prev.gpx||null,gpxT:prev.gpxT||null};
   if(store.active&&store.active.day==="R"){store.active.rad=radDraft;save()}
 }
 function pickGpx(){document.getElementById("gpxFile").click()}
@@ -1239,7 +1280,7 @@ function onGpxFile(input){
     if(!pts||pts.length<2){toast("GPX nicht lesbar","Keine Trackpunkte gefunden");return}
     const st=gpxStats(pts);
     const simple=simplifyTrack(pts,400);
-    const rad={min:st.min,hm:st.hm,km:Math.round(st.km*10)/10,maxKmh:st.maxKmh,kcal:0,gpx:encodePolyline(simple)};
+    const rad={min:st.min,hm:st.hm,km:Math.round(st.km*10)/10,maxKmh:st.maxKmh,kcal:0,gpx:encodePolyline(simple),gpxT:encodeTimes(simple)};
     store.sessions.push({ts:Date.now(),day:"R",log:{},rad,bike:bikeName(),done:Date.now()});
     save();
     setTab("history");
@@ -1292,7 +1333,7 @@ function renderRadHist(){
     </div></div>`;
   });
   v.innerHTML=h;
-  rs.forEach(s=>{const r=s.rad||{};if(r.gpx)renderRideMap("rm"+s.ts,decodePolyline(r.gpx))});
+  rs.forEach(s=>{const r=s.rad||{};if(r.gpx)renderRideMap("rm"+s.ts,decodePolyline(r.gpx),{times:decodeTimes(r.gpxT)})});
 }
 function renderRadRoute(){
   const v=document.getElementById("viewProg");
@@ -1335,28 +1376,49 @@ function haversine(a,b){
   return 2*R*Math.asin(Math.sqrt(s));
 }
 function gpxStats(pts){
-  const w=4;
-  const el=[];
-  for(let i=0;i<pts.length;i++){
-    let s=0,n=0;
-    for(let j=Math.max(0,i-w);j<=Math.min(pts.length-1,i+w);j++){s+=pts[j][2]||0;n++}
-    el.push(s/n);
+  const n=pts.length;
+  const times=pts.map(p=>p[3]?new Date(p[3]).getTime():null);
+  const cumD=new Array(n);cumD[0]=0;
+  for(let i=1;i<n;i++)cumD[i]=cumD[i-1]+haversine(pts[i-1],pts[i]);
+  const km=cumD[n-1]/1000;
+
+  const W=8,T=2;
+  const el=new Array(n);
+  for(let i=0;i<n;i++){
+    let s=0,c=0;
+    for(let j=Math.max(0,i-W);j<=Math.min(n-1,i+W);j++){s+=pts[j][2]||0;c++}
+    el[i]=s/c;
   }
-  let km=0,hm=0,maxKmh=0,moveMs=0;
-  for(let i=1;i<pts.length;i++){
-    const d=haversine(pts[i-1],pts[i]);
-    km+=d;
-    const de=el[i]-el[i-1];if(de>1.5)hm+=de;
-    if(pts[i-1][3]&&pts[i][3]){
-      const dt=new Date(pts[i][3])-new Date(pts[i-1][3]);
+  let hm=0,ref=el[0];
+  for(let i=1;i<n;i++){const d=el[i]-ref;if(d>T){hm+=d;ref=el[i]}else if(d<-T){ref=el[i]}}
+  hm=Math.round(hm);
+
+  let moveMs=0,j=0;
+  for(let i=1;i<n;i++){
+    if(times[i]==null)continue;
+    while(j<i-1&&times[j+1]!=null&&times[i]-times[j+1]>=10000)j++;
+    if(j<i&&times[j]!=null){
+      const dt=(times[i]-times[j])/3600000;
       if(dt>0){
-        const sp=(d/1000)/(dt/3600000);
-        if(sp>maxKmh)maxKmh=sp;
-        if(sp>=2)moveMs+=dt;
+        const sp=haversine(pts[j],pts[i])/1000/dt;
+        if(sp>=0.5&&times[i-1]!=null&&times[i]>times[i-1])moveMs+=times[i]-times[i-1];
       }
     }
   }
-  return {km:km/1000,hm:Math.round(hm),min:Math.round(moveMs/60000),maxKmh:Math.round(maxKmh*10)/10};
+
+  const spds=[];
+  j=0;
+  for(let i=1;i<n;i++){
+    if(times[i]==null)continue;
+    while(j<i-1&&times[j+1]!=null&&times[i]-times[j+1]>=3000)j++;
+    if(j<i&&times[j]!=null){
+      const dt=(times[i]-times[j])/3600000;
+      if(dt>0)spds.push(haversine(pts[j],pts[i])/1000/dt);
+    }
+  }
+  spds.sort((a,b)=>b-a);
+  const maxKmh=spds.length?spds[Math.max(0,Math.floor(spds.length*0.001))]:0;
+  return {km,hm,min:Math.round(moveMs/60000),maxKmh:Math.round(maxKmh*10)/10};
 }
 function fmtDur(min){
   min=Math.round(min||0);
@@ -1395,6 +1457,46 @@ function decodePolyline(str){
   }
   return pts;
 }
+function encodeTimes(pts){
+  let last=null,out=[];
+  for(const p of pts){
+    const t=p[3]?new Date(p[3]).getTime():null;
+    if(t==null){out.push("");last=null;continue}
+    out.push(last==null?0:Math.max(0,Math.round((t-last)/1000)));
+    last=t;
+  }
+  return out.join(",");
+}
+function decodeTimes(str){
+  if(!str)return null;
+  const out=[];let acc=0;
+  for(const s of str.split(",")){
+    if(s===""){out.push(null);continue}
+    acc+=+s;out.push(acc);
+  }
+  return out;
+}
+function speedSegments(pts,times){
+  const seg=[];
+  for(let i=1;i<pts.length;i++){
+    let kmh=null;
+    if(times&&times[i]!=null&&times[i-1]!=null){
+      const dt=times[i]-times[i-1];
+      if(dt>=0.5)kmh=(haversine(pts[i-1],pts[i])/1000)/(dt/3600);
+    }
+    seg.push(kmh);
+  }
+  return seg;
+}
+function speedColor(kmh){
+  const v=Math.max(5,Math.min(40,kmh||10));
+  const t=(v-5)/35;
+  const a=t<0.5?[88,160,92]:[237,192,66];
+  const b=t<0.5?[237,192,66]:[214,74,58];
+  const f=t<0.5?t*2:(t-0.5)*2;
+  const c=a.map((x,i)=>Math.round(x+(b[i]-x)*f));
+  return `rgb(${c[0]},${c[1]},${c[2]})`;
+}
 let leafletReady=null;
 function loadLeaflet(){
   if(leafletReady)return leafletReady;
@@ -1414,51 +1516,176 @@ function loadLeaflet(){
   return leafletReady;
 }
 function radColor(){return (getComputedStyle(document.documentElement).getPropertyValue("--rad")||"#5C6B33").trim()}
-function paintSvgMap(el,pts){
-  const w=el.clientWidth||350,h=el.clientHeight||180;
+function routeColor(){return mapStyle().dark?"#FFD24A":radColor()}
+function svgProject(pts,w,h){
   const lats=pts.map(p=>p[0]),lons=pts.map(p=>p[1]);
   const la=Math.min(...lats),laX=Math.max(...lats),lo=Math.min(...lons),loX=Math.max(...lons);
   const k=Math.cos((la+laX)/2*Math.PI/180),bw=(loX-lo)*k||1e-9,bh=(laX-la)||1e-9;
   const s=Math.min((w-24)/bw,(h-24)/bh),ox=(w-bw*s)/2,oy=(h-bh*s)/2;
-  const q=pts.map(p=>[ox+(p[1]-lo)*k*s,oy+(laX-p[0])*s]);
-  const d=q.map((c,i)=>(i?"L":"M")+c[0].toFixed(1)+" "+c[1].toFixed(1)).join("");
+  return p=>[ox+(p[1]-lo)*k*s,oy+(laX-p[0])*s];
+}
+function paintSvgMap(el,pts,times){
+  const w=el.clientWidth||350,h=el.clientHeight||180;
+  const q=pts.map(svgProject(pts,w,h));
+  let body;
+  if(store.speedColor&&times&&times.length===pts.length){
+    body=speedSegments(pts,times).map((kmh,i)=>{
+      if(!kmh)return"";
+      const a=q[i],b=q[i+1];
+      return `<line x1="${a[0].toFixed(1)}" y1="${a[1].toFixed(1)}" x2="${b[0].toFixed(1)}" y2="${b[1].toFixed(1)}" stroke="${speedColor(kmh)}" stroke-width="2.4" stroke-linecap="round"/>`;
+    }).join("");
+  }else{
+    const d=q.map((c,i)=>(i?"L":"M")+c[0].toFixed(1)+" "+c[1].toFixed(1)).join("");
+    body=`<path d="${d}" fill="none" stroke="var(--rad)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>`;
+  }
   el.innerHTML=`<svg class="ride-svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
-    <path d="${d}" fill="none" stroke="var(--rad)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    ${body}
     <circle cx="${q[0][0]}" cy="${q[0][1]}" r="4" fill="var(--paper)" stroke="var(--rad)" stroke-width="2"/>
     <circle cx="${q[q.length-1][0]}" cy="${q[q.length-1][1]}" r="4" fill="var(--rad)"/></svg>`;
 }
 let fullMap=null;
-function paintLeaflet(el,pts,interactive){
+function paintLeaflet(el,pts,interactive,times){
+  const st=mapStyle();
   const m=L.map(el,{zoomControl:interactive,attributionControl:interactive,
     scrollWheelZoom:interactive,dragging:interactive,touchZoom:interactive,
     doubleClickZoom:interactive,boxZoom:interactive});
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png",
-    {maxZoom:19,attribution:'© OpenStreetMap · © CARTO'}).addTo(m);
-  const l=L.polyline(pts,{color:radColor(),weight:3,lineCap:"round",lineJoin:"round"}).addTo(m);
-  m.fitBounds(l.getBounds().pad(interactive?0.1:0.15));
+  L.tileLayer(st.url,{maxZoom:20,detectRetina:st.retina,attribution:'© OpenStreetMap · © CARTO · © Esri'}).addTo(m);
+  const color=st.dark?"#FFD24A":radColor();
+  if(store.speedColor&&times&&times.length===pts.length){
+    L.polyline(pts,{color,weight:4,opacity:0.12,lineCap:"round"}).addTo(m);
+    speedSegments(pts,times).forEach((kmh,i)=>{
+      if(!kmh)return;
+      L.polyline([pts[i],pts[i+1]],{color:speedColor(kmh),weight:4,opacity:1,lineCap:"round"}).addTo(m);
+    });
+  }else{
+    L.polyline(pts,{color,weight:4,lineCap:"round",lineJoin:"round"}).addTo(m);
+  }
+  m.fitBounds(L.latLngBounds(pts).pad(interactive?0.1:0.15));
   if(interactive)fullMap=m;
   setTimeout(()=>m.invalidateSize(),50);
+}
+const MAP_STYLES=[
+  {id:"positron",name:"Positron · hell",url:"https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",dark:false,retina:false},
+  {id:"voyager",name:"Voyager · bunt",url:"https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png",dark:false,retina:false},
+  {id:"dark",name:"Dark Matter · dunkel",url:"https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",dark:true,retina:false},
+  {id:"topo",name:"OpenTopoMap · Höhenlinien",url:"https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png",dark:false,retina:true},
+  {id:"osm",name:"OSM · klassisch",url:"https://tile.openstreetmap.org/{z}/{x}/{y}.png",dark:false,retina:true},
+  {id:"satellite",name:"Satellit · Luftbild",url:"https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",dark:true,retina:true},
+];
+function mapStyle(){return MAP_STYLES.find(s=>s.id===(store.mapStyle||"positron"))||MAP_STYLES[0]}
+function setMapStyle(id){
+  store.mapStyle=id;
+  save();
+  if(cat==="rad")render();
+}
+function paintMapStyle(){
+  const sel=document.getElementById("mapStyleSel");
+  if(!sel)return;
+  sel.innerHTML=MAP_STYLES.map(s=>`<option value="${s.id}" ${s.id===mapStyle().id?'selected':''}>${s.name}</option>`).join("");
 }
 function renderRideMap(id,pts,opts={}){
   const el=document.getElementById(id);if(!el)return;
   const paint=ok=>{
     if(opts.overlay&&!document.getElementById("mapOverlay").classList.contains("open"))return;
-    if(ok)paintLeaflet(el,pts,opts.interactive);else paintSvgMap(el,pts);
+    if(ok)paintLeaflet(el,pts,opts.interactive,opts.times);else paintSvgMap(el,pts,opts.times);
+    if(opts.overlay)maybeAutoPlay();
   };
-  if(!navigator.onLine){paintSvgMap(el,pts);return}
+  if(!navigator.onLine){paintSvgMap(el,pts,opts.times);if(opts.overlay)maybeAutoPlay();return}
   loadLeaflet().then(paint);
 }
 function openRideMap(ts){
   const s=store.sessions.find(x=>x.ts===ts);
   if(!s||!s.rad||!s.rad.gpx)return;
+  overlayPts=decodePolyline(s.rad.gpx);
+  overlayTimes=decodeTimes(s.rad.gpxT);
+  anim=null;animPending=false;
+  setAnimBtn("▶");
+  setColorBtn();
   document.getElementById("mapOverlayTitle").textContent=`${fFull(s.ts)} · ${(s.rad.km||0).toFixed(1)} km`;
   document.getElementById("mapOverlay").classList.add("open");
-  renderRideMap("mapOverlayMap",decodePolyline(s.rad.gpx),{interactive:true,overlay:true});
+  renderRideMap("mapOverlayMap",overlayPts,{interactive:true,overlay:true,times:overlayTimes});
 }
 function closeRideMap(){
+  anim=null;animPending=false;setAnimBtn("▶");
   document.getElementById("mapOverlay").classList.remove("open");
   document.getElementById("mapOverlayMap").innerHTML="";
   if(fullMap){fullMap.remove();fullMap=null}
+}
+let overlayPts=null,overlayTimes=null,anim=null,animPending=false;
+function setAnimBtn(s){const b=document.getElementById("animBtn");if(b)b.textContent=s}
+function setColorBtn(){
+  const b=document.getElementById("colorBtn");
+  if(!b)return;
+  b.classList.toggle("on",!!store.speedColor);
+}
+function toggleSpeedColor(){
+  store.speedColor=!store.speedColor;
+  save();
+  if(document.getElementById("mapOverlay").classList.contains("open")){
+    anim=null;setAnimBtn("▶");
+    if(fullMap){fullMap.remove();fullMap=null}
+    document.getElementById("mapOverlayMap").innerHTML="";
+    renderRideMap("mapOverlayMap",overlayPts,{interactive:true,overlay:true,times:overlayTimes});
+  }
+  setColorBtn();
+}
+function toggleAnim(){
+  if(!overlayPts){toast("Keine Strecke","Für diese Fahrt ist keine Route gespeichert");return}
+  if(anim&&anim.on){cancelAnimationFrame(anim.raf);anim.on=false;setAnimBtn("▶");return}
+  if(anim&&anim.done){
+    if(anim.mode==="leaflet"){if(fullMap){fullMap.removeLayer(anim.line);fullMap.removeLayer(anim.dot)}}
+    else{anim.dot.remove();anim.trail.forEach(l=>l.remove())}
+    anim=null;
+  }
+  if(!anim){
+    if(fullMap){
+      anim={idx:0,prevT:0,on:false,done:false,mode:"leaflet",
+        line:L.polyline([overlayPts[0]],{color:routeColor(),weight:4,opacity:0.95,lineCap:"round"}).addTo(fullMap),
+        dot:L.circleMarker(overlayPts[0],{radius:5,color:"#fff",weight:2,fillColor:routeColor(),fillOpacity:1}).addTo(fullMap)};
+    }else{
+      const svg=document.querySelector("#mapOverlayMap svg");
+      if(!svg){animPending=true;toast("Karte lädt noch","Startet automatisch, sobald die Karte bereit ist");return}
+      const w=+svg.getAttribute("width")||svg.clientWidth||350,h=+svg.getAttribute("height")||svg.clientHeight||180;
+      const toXY=svgProject(overlayPts,w,h);
+      const c=toXY(overlayPts[0]);
+      const dot=document.createElementNS(svg.namespaceURI,"circle");
+      dot.setAttribute("cx",c[0]);dot.setAttribute("cy",c[1]);dot.setAttribute("r","5");
+      dot.setAttribute("fill",routeColor());dot.setAttribute("stroke","#fff");dot.setAttribute("stroke-width","2");
+      svg.appendChild(dot);
+      anim={idx:0,prevT:0,on:false,done:false,mode:"svg",toXY,svg,dot,trail:[]};
+    }
+  }
+  anim.on=true;anim.done=false;setAnimBtn("⏸");
+  const last=overlayPts.length-1;
+  const step=()=>{
+    if(!anim||!anim.on)return;
+    anim.idx+=1.5;
+    const t=Math.min(Math.round(anim.idx),last);
+    if(anim.mode==="leaflet"){
+      for(let i=anim.prevT+1;i<=t;i++)anim.line.addLatLng(overlayPts[i]);
+      anim.dot.setLatLng(overlayPts[t]);
+    }else{
+      for(let i=anim.prevT+1;i<=t;i++){
+        const a=anim.toXY(overlayPts[i-1]),b=anim.toXY(overlayPts[i]);
+        const l=document.createElementNS(anim.svg.namespaceURI,"line");
+        l.setAttribute("x1",a[0]);l.setAttribute("y1",a[1]);l.setAttribute("x2",b[0]);l.setAttribute("y2",b[1]);
+        l.setAttribute("stroke",routeColor());l.setAttribute("stroke-width","3.4");l.setAttribute("stroke-linecap","round");
+        anim.svg.appendChild(l);anim.trail.push(l);
+      }
+      const c=anim.toXY(overlayPts[t]);
+      anim.dot.setAttribute("cx",c[0]);anim.dot.setAttribute("cy",c[1]);
+    }
+    anim.prevT=t;
+    if(t>=last){anim.on=false;anim.done=true;setAnimBtn("↺");return}
+    anim.raf=requestAnimationFrame(step);
+  };
+  anim.raf=requestAnimationFrame(step);
+}
+function maybeAutoPlay(){
+  if(animPending&&!anim){
+    animPending=false;
+    toggleAnim();
+  }
 }
 
 function startRadEdit(ts){
@@ -1466,7 +1693,7 @@ function startRadEdit(ts){
   if(!s)return;
   editSessTs=ts;
   const r=s.rad||{};
-  editSessData={day:s.day,date:s.ts,min:r.min||0,kcal:r.kcal||0,hm:r.hm||0,km:r.km||0};
+  editSessData={day:s.day,date:s.ts,min:r.min||0,kcal:r.kcal||0,hm:r.hm||0,km:r.km||0,maxKmh:r.maxKmh||0};
   renderRadHist();
   setTimeout(()=>{const f=document.querySelector(".sess-edit-form input");
     if(f)f.focus()},50);
@@ -1484,7 +1711,7 @@ function saveRadEdit(){
   if(dateIn&&!parsed){toast("Ungültiges Datum","Format: TT.MM.JJJJ");return}
   const val=id=>+(document.getElementById(id)?.value||0);
   store.sessions[sIdx].ts=parsed?parsed.getTime():editSessData.date;
-  store.sessions[sIdx].rad={min:val("radEditMin"),kcal:val("radEditKcal"),hm:val("radEditHm"),km:val("radEditKm"),maxKmh:store.sessions[sIdx].rad?.maxKmh||0,gpx:store.sessions[sIdx].rad?.gpx||null};
+  store.sessions[sIdx].rad={min:val("radEditMin"),kcal:val("radEditKcal"),hm:val("radEditHm"),km:val("radEditKm"),maxKmh:val("radEditMax"),gpx:store.sessions[sIdx].rad?.gpx||null,gpxT:store.sessions[sIdx].rad?.gpxT||null};
   save();
   paintTop();
   editSessTs=null;
@@ -1515,8 +1742,13 @@ function renderRadEdit(s,i){
             <input class="txt" id="radEditHm" type="number" inputmode="numeric" min="0" value="${editSessData.hm}">
           </div>
         </div>
-        <div class="field stack"><div class="cap">Kilometer</div>
-          <input class="txt" id="radEditKm" type="number" inputmode="decimal" step="0.1" min="0" value="${editSessData.km}">
+        <div class="sess-edit-head">
+          <div class="field stack"><div class="cap">Kilometer</div>
+            <input class="txt" id="radEditKm" type="number" inputmode="decimal" step="0.1" min="0" value="${editSessData.km}">
+          </div>
+          <div class="field stack"><div class="cap">Max (km/h)</div>
+            <input class="txt" id="radEditMax" type="number" inputmode="decimal" step="0.1" min="0" value="${editSessData.maxKmh}">
+          </div>
         </div>
         <div class="edit-actions">
           <button type="submit" class="save-btn">Speichern</button>
@@ -1981,9 +2213,17 @@ function paintColorVisibility(){
   const r=document.getElementById("pickR");if(r)r.classList.toggle("hidden",rHidden);
   const visible=[...document.querySelectorAll(".colorpick:not(.hidden)")];
   document.querySelectorAll(".colorpick").forEach(el=>el.classList.remove("pick-last"));
-  if(visible.length)visible[visible.length-1].classList.add("pick-last");
+  if(visible.length){visible[visible.length-1].classList.add("pick-last");}
+  const ks=document.getElementById("secKraft");
+  if(ks)ks.classList.toggle("hidden",kHidden);
+  const rs=document.getElementById("secRad");
+  if(rs)rs.classList.toggle("hidden",rHidden);
 }
-function openSettings(){paintPicks();paintColorVisibility();document.getElementById("setOverlay").classList.add("open")}
+function openSettings(){
+  const rn=document.getElementById("radLabelName");
+  if(rn)rn.textContent=bikeName();
+  paintPicks();paintColorVisibility();paintMapStyle();document.getElementById("setOverlay").classList.add("open");
+}
 function closeSettings(){document.getElementById("setOverlay").classList.remove("open")}
 
 function isCatHidden(c){return (store.hiddenCats||[]).includes(c)}
@@ -2002,7 +2242,7 @@ function paintPrefs(){
   if(b)b.value=bikeName();
   const bl=document.getElementById("prefBikeLabel");
   if(bl)bl.textContent=bikeName();
-  const cn=document.getElementById("cpBikeName");
+  const cn=document.getElementById("radLabelName");
   if(cn)cn.textContent=bikeName();
 }
 function bikeName(){return store.bike||"Rennrad"}
