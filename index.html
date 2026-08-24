@@ -203,9 +203,9 @@
   .tabs button.on::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:2px;background:linear-gradient(90deg,var(--earth),var(--glow))}
   body.dayB .tabs button.on::after{background:linear-gradient(90deg,var(--green),var(--green-lite))}
   body.empty-cat .tabs button.on::after{background:var(--ink)}
-  body.catRad .tabs button.on::after{background:var(--ink)}
-  body.cat-lauf .tabs button.on::after{background:var(--ink)}
-  body.cat-kurs .tabs button.on::after{background:var(--ink)}
+  body.catRad .tabs button.on::after{background:var(--rad)}
+  body.cat-lauf .tabs button.on::after{background:var(--lauf)}
+  body.cat-kurs .tabs button.on::after{background:var(--kurs)}
 
   /* ── Tageswahl ── */
   .daypick{border-top:1px solid var(--line)}
@@ -222,6 +222,7 @@
 
   /* ── Übungsliste ── */
   .list{border-top:1px solid var(--line)}
+  .list.flat{border-top:none}
   .ex{border-bottom:1px solid var(--line)}
   .ex-head{display:grid;grid-template-columns:34px 1fr auto;gap:16px;align-items:center;
     padding:26px 0;cursor:pointer;transition:padding-left .3s}
@@ -386,7 +387,7 @@
   .btn-discard:active{border-color:#B94A48;color:#B94A48;background:rgba(185,74,72,0.06)}
 
   /* ── Verlauf ── */
-  .empty{padding:70px 6px;border-top:1px solid var(--line)}
+  .empty{padding:26px 6px 44px}
   .empty h3{font-size:24px;margin-top:16px}
   .empty p{font-size:15px;color:var(--ink-soft);margin-top:12px}
   .sess{border-bottom:1px solid var(--line);padding:36px 0}
@@ -408,6 +409,13 @@
   .sline .vl{font-size:13.5px;color:var(--ink-soft);white-space:nowrap}
   .sline .vl b{font-family:'Fraunces',serif;font-weight:500;font-size:16px;color:var(--ink)}
   .sline .val{font-size:13.5px;color:var(--ink-soft);white-space:nowrap;flex:none}
+
+  /* ── Strecke ── */
+  .route-list{border-top:1px solid var(--line)}
+  .route-row{display:flex;align-items:baseline;gap:14px;padding:15px 0;border-bottom:1px solid var(--line)}
+  .route-row .r-date{font-size:14px;color:var(--ink-soft);white-space:nowrap}
+  .route-row .r-km{font-family:'Fraunces',Georgia,serif;font-weight:500;font-size:17px;color:var(--ink);white-space:nowrap;margin-left:auto;text-align:right;line-height:1.2}
+  .route-row .r-meta{font-size:14px;color:var(--ink-soft);white-space:nowrap;flex:none;text-align:right}
 
   /* ── Progress ── */
   .picker{position:relative;border-bottom:1px solid var(--line);margin-bottom:30px}
@@ -449,6 +457,9 @@
   .edit-form .field select:focus{outline:none}
   .sess-edit-head .field:has(select:focus),.sess-edit-head .field:has(input:focus){border-bottom-color:var(--blue)}
   body.dayB .sess-edit-head .field:has(select:focus),body.dayB .sess-edit-head .field:has(input:focus){border-bottom-color:var(--green)}
+  body.catRad .sess-edit-head .field:has(select:focus),body.catRad .sess-edit-head .field:has(input:focus){border-bottom-color:var(--rad)}
+  body.catLauf .sess-edit-head .field:has(select:focus),body.catLauf .sess-edit-head .field:has(input:focus){border-bottom-color:var(--lauf)}
+  body.catKurs .sess-edit-head .field:has(select:focus),body.catKurs .sess-edit-head .field:has(input:focus){border-bottom-color:var(--kurs)}
   .sess-edit-head .field select,.sess-edit-head .field input[type="datetime-local"]{height:40px;padding-top:0;padding-bottom:0;font-size:16px}
   .edit-form .field input[type="datetime-local"]{padding-right:4px;font-size:16px}
 
@@ -509,7 +520,7 @@
   .auth-sub{color:var(--ink-soft);margin:0 0 32px;font-size:14px;line-height:1.55}
   .auth-btn{display:inline-flex;align-items:center;gap:12px;padding:14px 24px;background:var(--ink);color:#fff;border:none;font-size:15px;font-family:inherit;font-weight:500;cursor:pointer;min-height:48px}
   .auth-btn svg{background:#fff;padding:3px;border-radius:2px}
-  .auth-err{color:#c33;font-size:13px;margin-top:16px;min-height:18px}
+  .auth-err{color:#c33;font-size:13px;margin-top:16px;min-height:18px;white-space:pre-line;line-height:1.4}
   .auth-user{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 0;border-top:1px solid var(--line);margin-top:22px}
   .auth-user-info{font-size:13px;color:var(--ink-soft);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .auth-logout{background:none;border:1px solid var(--line);padding:8px 14px;font-family:inherit;font-size:12px;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-soft);cursor:pointer;min-height:36px}
@@ -1438,8 +1449,8 @@ function finishAct(k){
 function renderActHist(cfg){
   const v=document.getElementById("viewHist");
   const rs=[...store.sessions].filter(s=>s.day===cfg.day).reverse();
-  if(!rs.length){v.innerHTML=`<div class="empty"><div class="eyebrow">Verlauf</div>
-    <h3>${cfg.noSession}</h3><p>Starte im Reiter „Training" eine neue Einheit.</p></div>`;return}
+  if(!rs.length){v.innerHTML=`<div class="empty"><div class="eyebrow plain">Verlauf</div>
+    <h3>${cfg.noSession||"Noch keine Einheit erfasst."}</h3><p>Starte im Reiter „Training" eine neue Einheit.</p></div>`;return}
   let h="";
   rs.forEach((s,i)=>{
     if(editSessTs===s.ts){h+=renderActEdit(cfg,s,i);return}
@@ -1460,16 +1471,17 @@ function renderActHist(cfg){
 function renderActRoute(cfg){
   const v=document.getElementById("viewProg");
   const rs=store.sessions.filter(s=>s.day===cfg.day).sort((a,b)=>a.ts-b.ts);
-  if(!rs.length){v.innerHTML=`<div class="empty"><div class="eyebrow">Strecke</div>
-    <h3>Noch keine Daten.</h3><p>${cfg.afterFirst} erscheinen hier Statistiken.</p></div>`;return}
-  let cumKm=0;
-  let h=`<div class="eyebrow" style="margin-bottom:24px">Strecke</div><div class="list">`;
-  rs.forEach(s=>{
-    const r=actData(s,cfg);cumKm+=r.km||0;
-    h+=`<div class="sline"><span class="nm">${fD(s.ts)} — ${r.km||0} km</span><span class="val">Σ ${cumKm.toFixed(1)} km</span></div>`;
-  });
-  h+=`</div>`;
-  v.innerHTML=h;
+  if(!rs.length){v.innerHTML=`<div class="empty"><div class="eyebrow plain">Strecke</div>
+    <h3>Noch keine Daten.</h3><p>${cfg.afterFirst||"Nach der ersten Einheit"} erscheinen hier Statistiken.</p></div>`;return}
+  let rows=[...rs].reverse().map(s=>{
+    const r=actData(s,cfg);
+    return `<div class="route-row">
+      <span class="r-date">${fD(s.ts)}</span>
+      <span class="r-km">${(r.km||0).toFixed(1)} km</span>
+      <span class="r-meta">${fmtDur(r.min)}</span>
+    </div>`;
+  }).join("");
+  v.innerHTML=`<div class="eyebrow" style="margin-bottom:22px">Strecke</div><div class="route-list">${rows}</div>`;
 }
 /* ── GPX & Routenkarte ── */
 function parseGpx(text){
@@ -1916,7 +1928,7 @@ function renderActEdit(cfg,s,i){
 /* ── Verlauf ── */
 function renderHist(){const v=document.getElementById("viewHist");
   const kSessions=store.sessions.filter(s=>!isActDay(s.day));
-  if(!kSessions.length){v.innerHTML=`<div class="empty"><div class="eyebrow">Verlauf</div>
+  if(!kSessions.length){v.innerHTML=`<div class="empty"><div class="eyebrow plain">Verlauf</div>
     <h3>Noch keine Einheit erfasst.</h3><p>Starte im Reiter „Training" — abgeschlossene Einheiten erscheinen hier.</p></div>`;return}
   let h="";
   [...kSessions].reverse().forEach((s,i)=>{
@@ -2130,7 +2142,7 @@ function idsByName(){
 function renderProg(){const v=document.getElementById("viewProg");
   const groups=idsByName();
   const names=Object.keys(groups).sort((a,b)=>a.localeCompare(b,"de"));
-  if(!names.length){v.innerHTML=`<div class="empty"><div class="eyebrow">Verlaufskurve</div>
+  if(!names.length){v.innerHTML=`<div class="empty"><div class="eyebrow plain">Verlaufskurve</div>
     <h3>Noch keine Daten.</h3><p>Nach zwei erfassten Einheiten erscheint hier deine Entwicklung je Übung.</p></div>`;return}
   if(!progSel||!names.includes(progSel))progSel=names[0];
   v.innerHTML=`<div class="picker"><select onchange="progSel=this.value;renderProg()">
@@ -2186,6 +2198,7 @@ document.addEventListener("pointerdown",e=>{
   if(!body){closeSwipes(null);return}
   if(e.target.closest("input,select,.edit-form,.sess-edit-form"))return;
   if(editEx||editSessTs)return;
+  if(body.closest(".sessswipe"))return;
   sw.box=body.parentElement;sw.body=body;
   sw.x0=e.clientX;sw.y0=e.clientY;sw.axis=null;
   sw.isSet=sw.box.classList.contains("setswipe");
@@ -2443,7 +2456,7 @@ function setBike(v){
 function kursTypeName(){return store.kursType||"Yoga"}
 function setKursType(v){
   store.kursType=v;
-  save();paintTop();paintPrefs();
+  save();paintTop();paintPrefs();paintCatRow();
   if(cat==="kurs")render();
   toast("Kurse",v);
 }
@@ -2521,6 +2534,22 @@ async function cloudLoad(){
 
 window._cloudSave=cloudSave;
 
+function authErrText(e){
+  const code=e&&e.code?String(e.code):(e&&e.message?String(e.message):"Unbekannter Fehler");
+  if(code.includes("unauthorized-domain")){
+    return "Domain nicht freigegeben: "+location.host+"\nFüge sie in der Firebase-Konsole hinzu (Authentication → Settings → Authorized domains) oder öffne die App über http://localhost.";
+  }
+  if(code.includes("operation-not-allowed")){
+    return "Google-Anmeldung ist in Firebase nicht aktiviert (Authentication → Sign-in method).";
+  }
+  if(code.includes("popup-blocked")||code.includes("popup-closed")){
+    return "Pop-up wurde geblockt oder geschlossen. Bitte erlaube Pop-ups und versuche es erneut.";
+  }
+  if(code.includes("network")){
+    return "Keine Verbindung zu Firebase. Prüfe deine Internetverbindung.";
+  }
+  return "Anmeldung fehlgeschlagen: "+code;
+}
 window.doLogin=async function(){
   const err=document.getElementById("authErr");if(err)err.textContent="";
   try{
@@ -2528,7 +2557,7 @@ window.doLogin=async function(){
   }catch(e){
     console.warn("Popup fehlgeschlagen, versuche Redirect:",e);
     try{await signInWithRedirect(auth,provider)}
-    catch(e2){if(err)err.textContent="Anmeldung fehlgeschlagen: "+(e2.message||e2.code||"Unbekannter Fehler")}
+    catch(e2){if(err)err.textContent=authErrText(e2);console.warn("Redirect fehlgeschlagen:",e2)}
   }
 };
 
