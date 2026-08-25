@@ -32,6 +32,7 @@
     --ink-soft:#7A7871;
     --line:rgba(52,51,48,0.12);
     --line-light:rgba(255,255,255,0.16);
+    --press:rgba(52,51,48,0.05);
     --top:env(safe-area-inset-top,0px);
     --bot:env(safe-area-inset-bottom,0px);
   }
@@ -108,6 +109,16 @@
     text-decoration:underline;padding:0;font-family:inherit}
   .ride-map{position:relative;border-radius:12px;overflow:hidden;background:var(--paper-2);height:180px;z-index:0}
   .ride-map.hist{height:150px;border-radius:0;margin-bottom:20px}
+  .yt-row{display:flex;flex-direction:column;gap:12px;margin-top:20px}
+  .yt-field{display:flex;flex-direction:column;gap:6px}
+  .yt-cap{font-size:12px;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:#8A8983}
+  .yt-in{width:100%;height:52px;border-radius:12px;border:1.5px solid var(--line);padding:0 16px;font-size:16px;background:var(--paper);color:var(--ink);font-family:inherit;box-sizing:border-box}
+  .yt-in:focus{outline:none;border-color:var(--kurs)}
+  .yt-thumb{position:relative;display:block;border-radius:12px;overflow:hidden;background:var(--paper-2);aspect-ratio:16/9}
+  .yt-thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .yt-play{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;pointer-events:none}
+  .yt-play svg{width:52px;height:52px;filter:drop-shadow(0 2px 8px rgba(0,0,0,.45))}
+  .sess .yt-thumb{margin-bottom:20px}
   .ride-map svg.ride-svg{display:block}
   .map-overlay{position:fixed;inset:0;background:var(--paper);z-index:950;display:none;flex-direction:column}
   .map-overlay.open{display:flex}
@@ -306,6 +317,7 @@
   body.catRad button:focus-visible,body.catRad select:focus-visible,body.catRad input:focus-visible{outline-color:var(--rad)}
   body.catLauf button:focus-visible,body.catLauf select:focus-visible,body.catLauf input:focus-visible{outline-color:var(--lauf)}
   body.catKurs button:focus-visible,body.catKurs select:focus-visible,body.catKurs input:focus-visible{outline-color:var(--kurs)}
+  #setOverlay button:focus-visible,#setOverlay select:focus-visible,#setOverlay input:focus-visible{outline-color:var(--ink)}
   body.dayB .field .row button:active{color:var(--green)}
 
   /* ── Eigene Übung ── */
@@ -406,9 +418,16 @@
   .sline{display:flex;justify-content:space-between;gap:14px;align-items:baseline;
     padding:9px 0;border-top:1px solid var(--line)}
   .sline .nm{flex:1;min-width:0;font-size:14.5px;color:var(--ink-soft);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  .sline .vl{font-size:13.5px;color:var(--ink-soft);white-space:nowrap}
+  .sline .vl{font-size:13.5px;color:var(--ink-soft);white-space:nowrap;flex:none}
   .sline .vl b{font-family:'Fraunces',serif;font-weight:500;font-size:16px;color:var(--ink)}
   .sline .val{font-size:13.5px;color:var(--ink-soft);white-space:nowrap;flex:none}
+  .slineG{display:flex;justify-content:space-between;align-items:center;gap:14px;padding:11px 0;border-top:1px solid var(--line)}
+  .slineG .nm{flex:1;min-width:0;font-size:14.5px;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .slineG .gRight{display:flex;align-items:center;gap:12px;flex:none}
+  .slineG .dots{display:flex;gap:4px}
+  .slineG .dot{width:7px;height:7px;border-radius:50%;background:var(--ink)}
+  .slineG .gKg{font-size:13.5px;color:var(--ink-soft)}
+  .slineG .gKg b{font-family:'Fraunces',serif;font-weight:500;font-size:16px;color:var(--ink)}
 
   /* ── Strecke ── */
   .route-list{border-top:1px solid var(--line)}
@@ -534,7 +553,7 @@
     -webkit-tap-highlight-color:transparent}
   .pref-row:last-child{border-bottom:1px solid var(--line)}
   .pref-clickable{cursor:pointer}
-  .pref-clickable:active{background:var(--paper-2)}
+  .pref-clickable:active{background:var(--press)}
   .pref-switch{appearance:none;-webkit-appearance:none;width:48px;height:28px;background:var(--line);border-radius:999px;
     position:relative;cursor:pointer;flex:none;transition:background .2s;margin:0}
   .pref-switch::after{content:"";position:absolute;top:2px;left:2px;width:24px;height:24px;border-radius:50%;
@@ -556,6 +575,23 @@
   .pref-select{width:30px;height:44px;margin:0;padding:0;background:none;border:0;color:transparent;
     -webkit-appearance:none;appearance:none;cursor:pointer}
   .pref-select:focus,.pref-select:focus-visible{outline:none}
+
+  .pref-row[data-cat]{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none;position:relative;touch-action:pan-y}
+  .pref-row[data-cat].holding{background:var(--press)}
+  .pref-row[data-cat].holding::after{content:"";position:absolute;left:0;bottom:0;height:2px;width:0;
+    background:var(--ink);animation:holdbar .5s linear forwards}
+  @keyframes holdbar{to{width:100%}}
+
+  #catSetOverlay{z-index:960}
+  #catSetOverlay .plan-sheet{padding-top:calc(var(--top) + 60px)}
+  #catSetOverlay .plan-top{margin-bottom:10px}
+  #catSetOverlay .plan-sub{margin-bottom:12px}
+  #catSetTitle{color:var(--ink)}
+  .catset-val{font-family:'Inter',sans-serif;font-size:14px;color:var(--ink-soft);font-weight:500}
+  .catset-link{cursor:pointer}
+  .catset-link:active{background:var(--press)}
+  .catset-arrow{color:var(--ink-soft);display:flex;align-items:center;flex:none}
+  .catset-arrow svg{width:18px;height:18px}
 </style>
 </head>
 <body class="auth-pending">
@@ -645,26 +681,15 @@
 
     <div class="pref-section">
       <div class="pref-title">Bereiche</div>
-      <div class="pref-sub">Blende Trainingsarten aus die du nicht nutzt.</div>
-      <label class="pref-row"><span>Kraft</span>
+      <div class="pref-sub">Blende Trainingsarten aus die du nicht nutzt. Zeile gedrückt halten öffnet die Bereichs-Einstellungen.</div>
+      <label class="pref-row" data-cat="kraft"><span>Kraft</span>
         <input type="checkbox" class="pref-switch" id="prefCatKraft" onchange="togglePrefCat('kraft',this.checked)"></label>
-      <label class="pref-row"><span>Laufen</span>
+      <label class="pref-row" data-cat="laufen"><span>Laufen</span>
         <input type="checkbox" class="pref-switch" id="prefCatLauf" onchange="togglePrefCat('laufen',this.checked)"></label>
-      <div class="pref-row"><span id="prefBikeLabel">Rennrad</span>
-        <span class="pref-bike-ctl">
-          <span class="pref-sel"><select class="pref-select" id="prefBike" aria-label="Fahrradart" onchange="setBike(this.value)">
-            <option>Rennrad</option><option>Gravel</option><option>Mountainbike</option>
-            <option>Trekking</option><option>Cityrad</option><option>E-Bike</option>
-          </select></span>
-          <input type="checkbox" class="pref-switch" id="prefCatRad" onchange="togglePrefCat('rad',this.checked)">
-        </span></div>
-      <div class="pref-row"><span id="prefKursLabel">Kurse</span>
-        <span class="pref-bike-ctl">
-          <span class="pref-sel"><select class="pref-select" id="prefKursType" aria-label="Kursart" onchange="setKursType(this.value)">
-            <option>Yoga</option><option>HIIT</option>
-          </select></span>
-          <input type="checkbox" class="pref-switch" id="prefCatKurs" onchange="togglePrefCat('kurs',this.checked)">
-        </span></div>
+      <label class="pref-row" data-cat="rad"><span id="prefBikeLabel">Rennrad</span>
+        <input type="checkbox" class="pref-switch" id="prefCatRad" onchange="togglePrefCat('rad',this.checked)"></label>
+      <label class="pref-row" data-cat="kurs"><span id="prefKursLabel">Kurse</span>
+        <input type="checkbox" class="pref-switch" id="prefCatKurs" onchange="togglePrefCat('kurs',this.checked)"></label>
     </div>
 
     <div class="pref-section">
@@ -678,6 +703,17 @@
       <div class="pref-account" id="prefUserInfo">–</div>
       <button class="pref-logout" onclick="doLogout()">Abmelden</button>
     </div>
+  </div>
+</div>
+
+<div class="plan-overlay" id="catSetOverlay">
+  <div class="plan-sheet">
+    <div class="plan-top">
+      <h1 class="plan-title" id="catSetTitle">Bereich</h1>
+      <button class="plan-close" onclick="closeCatSettings()" aria-label="Schließen">×</button>
+    </div>
+    <div class="plan-sub" id="catSetSub">Einstellungen für diesen Bereich.</div>
+    <div id="catSetBody"></div>
   </div>
 </div>
 
@@ -722,7 +758,7 @@
 
     <div class="sec-sub">Routenkarte</div>
       <div class="mapstyle-wrap">
-        <select id="mapStyleSel" onchange="setMapStyle(this.value)" aria-label="Kartenstil wählen"></select>
+        <select class="mapstyle-sel" onchange="setMapStyle(this.value)" aria-label="Kartenstil wählen"></select>
       </div>
     </div>
 
@@ -736,6 +772,11 @@
         </span></span>
       <label class="cp-pick" aria-label="Eigene Farbe wählen"><input type="color" class="cp-native" onchange="setAccent('l',this.value)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22a7 7 0 0 0 7-7c0-2-1-3.9-3-5.5s-3.5-4-4-6.5c-.5 2.5-2 4.9-4 6.5C6 11.1 5 13 5 15a7 7 0 0 0 7 7z"/></svg></label>
     </div>
+
+    <div class="sec-sub">Routenkarte</div>
+      <div class="mapstyle-wrap">
+        <select class="mapstyle-sel" onchange="setMapStyle(this.value)" aria-label="Kartenstil wählen"></select>
+      </div>
     </div>
 
     <div class="sec" id="secKurs">
@@ -815,7 +856,7 @@ function dayLabel(d){
 let KEY="trainingslog_v3";
 var store=null,warned=false;
 store=load();
-window._reloadStore=function(newKey){if(newKey)KEY=newKey;store=load();applyStoredAccents();render()};
+window._reloadStore=function(newKey){if(newKey)KEY=newKey;store=load();draft={};applyStoredAccents();render()};
 function load(){
   let s={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:[]};
   try{const r=localStorage.getItem(KEY);if(r)s=Object.assign(s,JSON.parse(r))}catch(e){}
@@ -1014,6 +1055,7 @@ function nextDay(){
   }
   return days[0]||"A"}
 function toggleDay(){
+  if(cat==="kurs"){cycleKursType();return}
   if(isActCat(cat))return;
   const cur=store.active?store.active.day:(dayPick||nextDay());
   const days=kraftDays();
@@ -1083,6 +1125,9 @@ function paintTop(){
     heroLetter.style.fontSize="48px";
     heroLetter.style.letterSpacing="-0.02em";
     heroLetter.style.color="var("+ACT[cat].accentVar+")";
+    const switchable=cat==="kurs"&&KURS_TYPES.length>1;
+    heroLetter.style.cursor=switchable?"pointer":"default";
+    heroLetter.setAttribute("aria-label",switchable?"Kursart wechseln":ACT[cat].label());
     heroSide.style.display="none";
   }else{
     heroLetter.style.fontSize="";
@@ -1179,8 +1224,9 @@ function renderTrain(){
   let h=`<div class="eyebrow" style="margin-bottom:24px">Tag ${day} · ${dayLabel(day)}</div><div class="list">`;
   ex.forEach((e,i)=>{
     const lg=store.active?store.active.log[e.id]||[]:[];
-    const last=lastFor(e.id),own=!!e.own;
-    if(!draft[e.id])draft[e.id]={kg:last?last.kg:20,reps:last?last.reps:8};
+    const own=!!e.own;
+    const prevSets=lastSetsFor(e.id)||[];
+    if(!draft[e.id]){const p=prevSets[lg.length]||prevSets[0]||null;draft[e.id]={kg:p?p.kg:20,reps:p?p.reps:8}}
     const dr=draft[e.id];
     const eName=exName(e.id),eScheme=exScheme(e.id)||e.scheme;
     h+=`<div class="ex ${openEx===e.id?'open':''} ${justOpened===e.id?'opening':''} ${lg.length?'filled':''}">
@@ -1231,7 +1277,9 @@ function renderTrain(){
     </div>`;
   }
   h+=`</div>`;
-  v.innerHTML=h+`</div>`;
+  const switchNote=kraftDays().length>1?
+    `<p style="font-size:11.5px;color:var(--ink-soft);opacity:.55;margin-top:18px">Tippe oben auf den Buchstaben, um das Training zu wechseln.</p>`:"";
+  v.innerHTML=h+`</div>`+switchNote;
   justOpened=null;
   if(newOpen){const f=document.getElementById("nfName");if(f&&!newName)f.focus()}
 }
@@ -1251,6 +1299,8 @@ function addSet(id){const dr=draft[id];if(dr.reps<=0)return;
   const prev=prMap()[id];
   if(!store.active.log[id])store.active.log[id]=[];
   store.active.log[id].push({kg:dr.kg,reps:Math.round(dr.reps)});
+  const ps=lastSetsFor(id),ni=store.active.log[id].length;
+  if(ps&&ps[ni]){dr.kg=ps[ni].kg;dr.reps=ps[ni].reps}
   save();openEx=id;renderTrain();
   document.getElementById("finishbar").classList.toggle("hidden",!(tab==="train"&&store.active));
   paintFinish();paintTop();
@@ -1312,7 +1362,7 @@ function paintFinish(){const s=document.getElementById("finishSlot");
   const bar=document.getElementById("finishbar");
   if(!n){bar.classList.add("hidden");s.innerHTML="";return}
   bar.classList.remove("hidden");
-  s.innerHTML=`<div class="finrow"><button class="btn-primary" onclick="finish()">Einheit abschließen <span class="n">${n} Sätze</span></button><button class="btn-discard" onclick="discard()" aria-label="Einheit verwerfen">Verwerfen</button></div>`}
+  s.innerHTML=`<div class="finrow"><button class="btn-primary" onclick="finish()">Einheit abschließen <span class="n">${n} ${n===1?"Satz":"Sätze"}</span></button><button class="btn-discard" onclick="discard()" aria-label="Einheit verwerfen">Verwerfen</button></div>`}
 function discard(){store.active=null;save();openEx=null;newOpen=false;dayPick=null;render()}
 function finish(){let n=0;for(const id in store.active.log)n+=store.active.log[id].length;
   if(!n){discard();return}
@@ -1329,6 +1379,29 @@ function initActDraft(k){
   return actDraft[k];
 }
 function actData(s,cfg){return s[cfg.field]||{}}
+function ytId(url){
+  const m=String(url||"").match(/(?:youtu\.be\/|youtube\.com\/(?:watch\?(?:.*&)?v=|shorts\/|embed\/|live\/))([A-Za-z0-9_-]{11})/);
+  return m?m[1]:null;
+}
+function ytThumbUrl(id,q){return "https://img.youtube.com/vi/"+id+"/"+q+".jpg"}
+function ytWatch(id){return "https://www.youtube.com/watch?v="+id}
+function ytFallback(img){
+  if(img.dataset.step==="max"){img.dataset.step="hq";img.src=ytThumbUrl(img.dataset.yt,"hqdefault")}
+  else{img.parentElement.style.display="none"}
+}
+function ytCheck(img){
+  if(img.dataset.step==="hq"&&img.naturalWidth<=120)img.parentElement.style.display="none";
+}
+const YT_PLAY=`<span class="yt-play"><svg viewBox="0 0 68 48"><path d="M66.5 7.7a8.6 8.6 0 0 0-6-6C55 0 34 0 34 0S13 0 7.5 1.6a8.6 8.6 0 0 0-6 6A90 90 0 0 0 0 24a90 90 0 0 0 1.5 16.3 8.6 8.6 0 0 0 6 6C13 48 34 48 34 48s21 0 26.5-1.6a8.6 8.6 0 0 0 6-6A90 90 0 0 0 68 24a90 90 0 0 0-1.5-16.3z" fill="#f00"/><path d="M27 34.5 45 24 27 13.5z" fill="#fff"/></svg></span>`;
+function ytThumbBlock(url){
+  const id=ytId(url);if(!id)return"";
+  return `<a class="yt-thumb" href="${ytWatch(id)}" target="_blank" rel="noopener"><img data-yt="${id}" data-step="max" src="${ytThumbUrl(id,"maxresdefault")}" alt="Video-Vorschau" loading="lazy" onerror="ytFallback(this)" onload="ytCheck(this)">${YT_PLAY}</a>`;
+}
+function onYtInput(k){
+  updateAct(k);
+  const el=document.getElementById("ytPrev");
+  if(el)el.innerHTML=ytThumbBlock(document.getElementById("actYt")?.value);
+}
 function paceText(r){
   if(!(r.km>0)||!(r.min>0))return"—";
   const p=60/(r.km/(r.min/60));
@@ -1355,7 +1428,7 @@ function renderActTrain(cfg){
   let d=initActDraft(cfg.key);
   if(last&&actData(last,cfg).min!=null&&!d.gpx){
     const lr=actData(last,cfg);
-    actDraft[cfg.key]={min:lr.min||0,kcal:lr.kcal||0,hm:lr.hm||0,km:lr.km||0,maxKmh:lr.maxKmh||0,gpx:null,gpxT:null};
+    actDraft[cfg.key]={min:lr.min||0,kcal:lr.kcal||0,hm:lr.hm||0,km:lr.km||0,maxKmh:lr.maxKmh||0,gpx:null,gpxT:null,yt:d.yt||""};
     d=actDraft[cfg.key];
   }
   const active=store.active&&store.active.day===cfg.day;
@@ -1378,20 +1451,27 @@ function renderActTrain(cfg){
         :`<button class="gpx-btn" onclick="pickGpx('${cfg.key}')">+ GPX-Route hochladen</button>`}
     </div>`;
   }
+  const ytBlock=cfg.key==="kurs"?
+    `<div class="yt-row">
+      <label class="yt-field">
+        <span class="yt-cap">YouTube-Link (optional)</span>
+        <input type="url" id="actYt" class="yt-in" placeholder="Link einfügen" value="${esc(rd.yt||'')}" oninput="onYtInput('kurs')" inputmode="url" autocapitalize="off" autocorrect="off" spellcheck="false">
+      </label>
+      <div id="ytPrev">${ytThumbBlock(rd.yt)}</div>
+    </div>`:"";
   const typeNote=cfg.key==="kurs"?
-    `<div class="eyebrow" style="margin-top:22px">Kursart · ${kursTypeName()}</div>
-     <p style="font-size:13.5px;color:var(--ink-soft);margin-top:8px">Wähle die Kursart unter „Einstellungen → Bereiche".</p>`:"";
-  v.innerHTML=form+gpx+typeNote+`<div style="margin-top:10px">
+    `<p style="font-size:11.5px;color:var(--ink-soft);opacity:.55;margin-top:18px">Tippe oben auf den Namen, um die Kursart zu wechseln.</p>`:"";
+  v.innerHTML=form+gpx+ytBlock+typeNote+`<div style="margin-top:10px">
     ${active?`<button class="btn-primary" onclick="finishAct('${cfg.key}')">${cfg.saveLabel} speichern</button>
       <button class="btn-discard" onclick="discard()" aria-label="${cfg.saveLabel} verwerfen">Verwerfen</button>`
-      :`<button class="btn-primary" onclick="startAct('${cfg.key}')">${cfg.startLabel}</button>`}
+      :`<button class="btn-primary" onclick="quickSaveAct('${cfg.key}')">${cfg.saveLabel} speichern</button>`}
   </div>`;
   if(rd.gpx)renderRideMap("trainMap",decodePolyline(rd.gpx),{times:decodeTimes(rd.gpxT),color:cssColor(cfg.accentVar)});
 }
 function updateAct(k){
   const cfg=ACT[k];
   const prev=(store.active&&store.active.day===cfg.day&&store.active[cfg.field])?store.active[cfg.field]:actDraft[k];
-  actDraft[k]={min:+(document.getElementById("actMin")?.value||0),kcal:+(document.getElementById("actKcal")?.value||0),hm:cfg.gpx?(+(document.getElementById("actHm")?.value||0)):0,km:cfg.gpx?(+(document.getElementById("actKm")?.value||0)):0,maxKmh:prev?.maxKmh||0,gpx:prev?.gpx||null,gpxT:prev?.gpxT||null};
+  actDraft[k]={min:+(document.getElementById("actMin")?.value||0),kcal:+(document.getElementById("actKcal")?.value||0),hm:cfg.gpx?(+(document.getElementById("actHm")?.value||0)):0,km:cfg.gpx?(+(document.getElementById("actKm")?.value||0)):0,maxKmh:prev?.maxKmh||0,gpx:prev?.gpx||null,gpxT:prev?.gpxT||null,yt:(document.getElementById("actYt")?.value ?? prev?.yt ?? "")};
   if(store.active&&store.active.day===cfg.day){store.active[cfg.field]={...actDraft[k]};save()}
 }
 function pickGpx(k){document.getElementById("gpxFile").click()}
@@ -1446,6 +1526,21 @@ function finishAct(k){
   else toast("Gespeichert",`${d.min} min · ${d.kcal} kcal`);
   setTab("history");
 }
+function quickSaveAct(k){
+  const cfg=ACT[k];
+  updateAct(k);
+  const s={ts:Date.now(),day:cfg.day,log:{},done:Date.now()};
+  s[cfg.field]={...actDraft[k]};
+  if(cfg.key==="rad")s.bike=bikeName();
+  if(cfg.key==="kurs")s.type=kursTypeName();
+  store.sessions.push(s);
+  save();
+  const d=s[cfg.field];
+  actDraft[k]={min:0,kcal:0,hm:0,km:0,maxKmh:0,gpx:null,gpxT:null,yt:""};
+  if(cfg.gpx)toast("Gespeichert",`${d.km} km · ${d.hm} hm`);
+  else toast("Gespeichert",`${d.min} min · ${d.kcal} kcal`);
+  setTab("history");
+}
 function renderActHist(cfg){
   const v=document.getElementById("viewHist");
   const rs=[...store.sessions].filter(s=>s.day===cfg.day).reverse();
@@ -1457,7 +1552,7 @@ function renderActHist(cfg){
     const r=actData(s,cfg);
     h+=`<div class="sessswipe" data-ts="${s.ts}">
       <div class="sess-behind"><button class="sess-behind-btn" onclick="delSession(${s.ts})" aria-label="${cfg.saveLabel} löschen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></button></div>
-      <div class="swipe-body sess ${i===0?'sess-first':''}">${r.gpx?`<div class="ride-map hist" id="rm${s.ts}" onclick="openRideMap(${s.ts})"></div>`:""}<div class="sess-top">
+      <div class="swipe-body sess ${i===0?'sess-first':''}">${r.gpx?`<div class="ride-map hist" id="rm${s.ts}" onclick="openRideMap(${s.ts})"></div>`:(!cfg.gpx&&r.yt?ytThumbBlock(r.yt):"")}<div class="sess-top">
         <div class="sess-badge" style="color:var(${cfg.accentVar})">${cfg.badge(s)}</div>
         <div class="sess-date"><h3>${fFull(s.ts)}</h3><span>${fT(s.ts)} Uhr</span></div>
         <div class="sess-vol"><b>${cfg.volVal(s,r)}</b><span>${cfg.volLabel}</span></div>
@@ -1717,12 +1812,12 @@ function mapStyle(){return MAP_STYLES.find(s=>s.id===(store.mapStyle||"positron"
 function setMapStyle(id){
   store.mapStyle=id;
   save();
+  paintMapStyle();
   if(isActCat(cat))render();
 }
 function paintMapStyle(){
-  const sel=document.getElementById("mapStyleSel");
-  if(!sel)return;
-  sel.innerHTML=MAP_STYLES.map(s=>`<option value="${s.id}" ${s.id===mapStyle().id?'selected':''}>${s.name}</option>`).join("");
+  const opts=MAP_STYLES.map(s=>`<option value="${s.id}" ${s.id===mapStyle().id?'selected':''}>${s.name}</option>`).join("");
+  document.querySelectorAll(".mapstyle-sel").forEach(sel=>{sel.innerHTML=opts});
 }
 function renderRideMap(id,pts,opts={}){
   const el=document.getElementById(id);if(!el)return;
@@ -1846,7 +1941,7 @@ function startActEdit(ts,cfg){
   if(!s)return;
   editSessTs=ts;
   const r=actData(s,cfg);
-  editSessData={day:s.day,date:s.ts,min:r.min||0,kcal:r.kcal||0,hm:r.hm||0,km:r.km||0,maxKmh:r.maxKmh||0,type:s.type||""};
+  editSessData={day:s.day,date:s.ts,min:r.min||0,kcal:r.kcal||0,hm:r.hm||0,km:r.km||0,maxKmh:r.maxKmh||0,type:s.type||"",yt:r.yt||""};
   renderActHist(cfg);
   setTimeout(()=>{const f=document.querySelector(".sess-edit-form input");
     if(f)f.focus()},50);
@@ -1866,7 +1961,7 @@ function saveActEdit(k){
   const val=id=>+(document.getElementById(id)?.value||0);
   const old=store.sessions[sIdx];
   const data={min:val("actEditMin"),kcal:val("actEditKcal"),hm:cfg.gpx?val("actEditHm"):0,km:cfg.gpx?val("actEditKm"):0,maxKmh:cfg.gpx?val("actEditMax"):0,gpx:(old[cfg.field]&&old[cfg.field].gpx)||null,gpxT:(old[cfg.field]&&old[cfg.field].gpxT)||null};
-  if(cfg.key==="kurs")data.type=old.type||kursTypeName();
+  if(cfg.key==="kurs"){data.type=old.type||kursTypeName();data.yt=document.getElementById("actEditYt")?.value||"";}
   store.sessions[sIdx].ts=parsed?parsed.getTime():editSessData.date;
   store.sessions[sIdx][cfg.field]=data;
   save();
@@ -1908,6 +2003,11 @@ function renderActEdit(cfg,s,i){
     rows+=`<div class="field stack"><div class="cap">Kursart</div>
             <span class="sess-edit-new-name" style="padding:4px 0;font-family:'Inter',sans-serif;font-size:16px;font-weight:500;color:var(--ink)">${esc(editSessData.type||kursTypeName())}</span>
           </div>
+        </div>
+        <div class="sess-edit-head">
+          <div class="field stack"><div class="cap">YouTube-Link</div>
+            <input class="txt" id="actEditYt" type="url" value="${esc(editSessData.yt||'')}" placeholder="Optional" autocapitalize="off" autocorrect="off" spellcheck="false">
+          </div>
         </div>`;
   }
   return `<div class="sessswipe" data-ts="${s.ts}">
@@ -1937,8 +2037,9 @@ function renderHist(){const v=document.getElementById("viewHist");
       h+=renderSessEdit(s,i);
     }else{
       const lines=Object.keys(s.log).map(id=>{const l=s.log[id];let t=l[0];l.forEach(x=>{if(x.kg>t.kg)t=x});
-        return `<div class="sline"><span class="nm">${esc(exName(id))}</span>
-          <span class="vl"><b>${t.kg}</b> kg × ${t.reps} · ${l.length} Sätze</span></div>`}).join("");
+        const dots="<span class='dot'></span>".repeat(l.length);
+        return `<div class="slineG"><span class="nm">${esc(exName(id))}</span>
+          <span class="gRight"><span class="dots" aria-label="${l.length} ${l.length===1?"Satz":"Sätze"}">${dots}</span><span class="gKg"><b>${t.kg}</b> kg</span></span></div>`}).join("");
       h+=`<div class="sessswipe" data-ts="${s.ts}">
         <div class="sess-behind"><button class="sess-behind-btn" onclick="delSession(${s.ts})" aria-label="Einheit löschen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></button></div>
         <div class="swipe-body sess ${i===0?'sess-first':''}"><div class="sess-top">
@@ -1949,8 +2050,15 @@ function renderHist(){const v=document.getElementById("viewHist");
     }
   });
   v.innerHTML=h+`<button class="wipe" onclick="wipe()">Alle Daten löschen</button>`}
-function wipe(){if(confirm("Alle Einheiten und eigenen Übungen löschen? Das lässt sich nicht rückgängig machen."))
-  {store={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{}};save();openEx=null;newOpen=false;setTab("train")}}
+function wipe(){
+  if(!confirm("Alle Einheiten und eigenen Übungen löschen? Das lässt sich nicht rückgängig machen."))return;
+  const keep=["accentA","accentB","accentRad","accentL","accentK","mapStyle","bike","kursType","hiddenCats"];
+  const preserved={};
+  keep.forEach(k=>{if(store[k]!==undefined)preserved[k]=store[k]});
+  store={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:[],...preserved};
+  draft={};
+  save();applyStoredAccents();openEx=null;newOpen=false;setTab("train");
+}
 
 /* ── Session Edit (Inline im Verlauf) ── */
 function startSessEdit(ts){
@@ -2428,6 +2536,83 @@ function paintCatRow(){
 }
 function openPrefs(){paintPrefs();document.getElementById("prefsOverlay").classList.add("open")}
 function closePrefs(){document.getElementById("prefsOverlay").classList.remove("open")}
+
+let catSetCur=null,areaHoldT=null,areaLongFired=false,areaHx=0,areaHy=0;
+function catAccent(cat){
+  const v=cat==="rad"?"--rad":cat==="laufen"?"--lauf":cat==="kurs"?"--kurs":"--earth";
+  return cssColor(v)||"#DC851F";
+}
+function catSetTitle(cat){return cat==="rad"?bikeName():cat==="laufen"?"Laufen":cat==="kurs"?kursTypeName():"Kraft"}
+function initAreaLongPress(){
+  document.querySelectorAll('#prefsOverlay .pref-row[data-cat]').forEach(row=>{
+    const cat=row.getAttribute("data-cat");
+    const cancel=()=>{
+      if(areaHoldT){clearTimeout(areaHoldT);areaHoldT=null}
+      row.classList.remove("holding");
+    };
+    row.addEventListener("pointerdown",e=>{
+      if(e.target.closest(".pref-switch,.pref-sel,.pref-select"))return;
+      areaLongFired=false;areaHx=e.clientX;areaHy=e.clientY;
+      row.classList.add("holding");
+      areaHoldT=setTimeout(()=>{
+        areaHoldT=null;row.classList.remove("holding");areaLongFired=true;
+        if(navigator.vibrate)navigator.vibrate(30);
+        openCatSettings(cat);
+      },500);
+    });
+    row.addEventListener("pointermove",e=>{
+      if(areaHoldT&&(Math.abs(e.clientX-areaHx)>10||Math.abs(e.clientY-areaHy)>10))cancel();
+    });
+    row.addEventListener("pointerup",cancel);
+    row.addEventListener("pointerleave",cancel);
+    row.addEventListener("pointercancel",cancel);
+    row.addEventListener("click",e=>{
+      if(areaLongFired){e.preventDefault();e.stopPropagation();areaLongFired=false}
+    },true);
+  });
+}
+function openCatSettings(cat){
+  catSetCur=cat;
+  const title=catSetTitle(cat);
+  const tEl=document.getElementById("catSetTitle");
+  tEl.textContent=title;
+  tEl.style.color=catAccent(cat);
+  document.getElementById("catSetSub").textContent="Einstellungen";
+  const vis=!isCatHidden(cat);
+  let typeRow="";
+  if(cat==="rad"){
+    const opts=["Rennrad","Gravel","Mountainbike","Trekking","Cityrad","E-Bike"];
+    typeRow=`<div class="pref-row"><span>Fahrrad</span>
+      <span class="pref-bike-ctl"><span class="catset-val">${esc(bikeName())}</span>
+      <span class="pref-sel"><select class="pref-select" aria-label="Fahrradart" onchange="setBike(this.value);openCatSettings('rad')">
+      ${opts.map(o=>`<option ${o===bikeName()?"selected":""}>${o}</option>`).join("")}
+      </select></span></span></div>`;
+  }else if(cat==="kurs"){
+    const opts=KURS_TYPES;
+    typeRow=`<div class="pref-row"><span>Art</span>
+      <span class="pref-bike-ctl"><span class="catset-val">${esc(kursTypeName())}</span>
+      <span class="pref-sel"><select class="pref-select" aria-label="Kursart" onchange="setKursType(this.value);openCatSettings('kurs')">
+      ${opts.map(o=>`<option ${o===kursTypeName()?"selected":""}>${o}</option>`).join("")}
+      </select></span></span></div>`;
+  }
+  const chev=`<span class="catset-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></span>`;
+  document.getElementById("catSetBody").innerHTML=
+    `<div class="pref-section">
+      <label class="pref-row"><span>Sichtbar</span>
+        <input type="checkbox" class="pref-switch" id="catSetVis" ${vis?"checked":""} onchange="catSetToggleVis()"></label>
+      ${typeRow}
+      <button class="pref-row pref-clickable catset-link" onclick="catSetOpenStyle()"><span>Farbe &amp; Stil</span>${chev}</button>
+    </div>`;
+  document.getElementById("catSetOverlay").classList.add("open");
+}
+function closeCatSettings(){document.getElementById("catSetOverlay").classList.remove("open")}
+function catSetToggleVis(){
+  const cb=document.getElementById("catSetVis");
+  togglePrefCat(catSetCur,cb.checked);
+  paintPrefs();
+  cb.checked=!isCatHidden(catSetCur);
+}
+function catSetOpenStyle(){closeCatSettings();openSettings()}
 function paintPrefs(){
   const hidden=store.hiddenCats||[];
   CAT_LIST.forEach(c=>{
@@ -2453,12 +2638,20 @@ function setBike(v){
   save();paintTop();paintPrefs();
   toast("Fahrrad",v);
 }
+const KURS_TYPES=["Yoga","HIIT"];
 function kursTypeName(){return store.kursType||"Yoga"}
 function setKursType(v){
   store.kursType=v;
   save();paintTop();paintPrefs();paintCatRow();
   if(cat==="kurs")render();
   toast("Kurse",v);
+}
+function cycleKursType(){
+  const i=KURS_TYPES.indexOf(kursTypeName());
+  const to=KURS_TYPES[(i+1)%KURS_TYPES.length];
+  store.kursType=to;
+  if(store.active&&store.active.day==="K")store.active.type=to;
+  save();paintTop();paintPrefs();paintCatRow();render();
 }
 function togglePrefCat(c,on){
   const list=new Set(store.hiddenCats||[]);
@@ -2476,6 +2669,7 @@ function prefConnect(name){
   toast(label,"Kommt bald — sag Bescheid wenn du das jetzt bauen willst")}
 
 applyStoredAccents();
+initAreaLongPress();
 render();
 </script>
 
