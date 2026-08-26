@@ -453,8 +453,31 @@
   .readout .pr b{font-family:'Fraunces',serif;font-weight:500;font-size:26px;color:var(--green);line-height:1}
   .readout .pr span{font-size:11px;color:var(--green);display:block;margin-top:7px;
     letter-spacing:0.13em;text-transform:uppercase;font-weight:600}
-  .chartbox{border-top:1px solid var(--line);padding-top:24px}
-  svg.spark{width:100%;height:150px;display:block;overflow:visible}
+  .chartbox{border-top:1px solid var(--line);padding-top:38px}
+  .chartrow{display:flex;gap:16px;align-items:flex-start}
+  .chartcol{flex:1;min-width:0}
+  .spark-stage{position:relative;height:210px;cursor:pointer}
+  svg.spark{position:absolute;inset:0;width:100%;height:210px;display:block;overflow:visible}
+  .spark-dot{position:absolute;width:9px;height:9px;margin:-4.5px 0 0 -4.5px;border-radius:50%;
+    background:var(--green-dark);opacity:0;transform:scale(0);
+    transition:opacity 200ms ease,transform 300ms cubic-bezier(.34,1.56,.64,1)}
+  .spark-dot.pr{background:var(--green)}
+  .spark-dot.on{opacity:1;transform:scale(1)}
+  .spark-cap{position:absolute;left:0;right:0;height:1px;background:var(--green);opacity:.4}
+  .spark-base{position:absolute;left:0;right:0;bottom:0;height:1px;
+    background:repeating-linear-gradient(90deg,var(--line) 0 3px,transparent 3px 6px)}
+  .spark-vline{position:absolute;left:0;right:0;top:0;height:1px;background:var(--green);opacity:0}
+  .spark-head{position:absolute;top:0;bottom:0;left:0;width:1px;background:rgba(52,51,48,.3);opacity:0}
+  .spark-flag{position:absolute;left:0;top:-34px;opacity:0;
+    padding:4px 9px;font-size:12.5px;font-weight:700;line-height:1.3;white-space:nowrap;
+    color:var(--ink);background:var(--paper);border:1px solid var(--line)}
+  .spark-bar{position:relative;flex:0 0 16px;width:16px;height:186px;margin-top:12px;
+    background:repeating-linear-gradient(180deg,var(--line) 0 1px,transparent 1px 6px)}
+  .spark-bar-fill{position:absolute;left:0;right:0;bottom:0;height:0;
+    background:linear-gradient(to top,rgba(92,107,51,.14),var(--green))}
+  .spark-bar-fill::after{content:"";position:absolute;top:0;left:0;right:0;height:18px;
+    background:var(--green);box-shadow:0 0 10px rgba(92,107,51,.55)}
+  @media (prefers-reduced-motion:reduce){.spark-dot{transition:none}}
   .axis{display:flex;justify-content:space-between;margin-top:16px;padding-top:14px;border-top:1px solid var(--line)}
   .axis span{font-size:12px;color:var(--ink-soft)}
   .chart-empty{padding:44px 0;text-align:center;font-size:14.5px;color:var(--ink-soft)}
@@ -2270,27 +2293,86 @@ function chart(name){
     <div class="cur"><b>${cur}</b><span class="u">kg</span><span>Aktuell</span></div>
     <div class="pr"><b>${pr} kg</b><span>Bestleistung</span></div></div>`;
   if(pts.length<2){m.innerHTML=head+`<div class="chartbox"><div class="chart-empty">Mindestens zwei Einheiten nötig, damit eine Kurve entsteht.</div></div>`;return}
-  const W=440,H=150,p=10;
+  const W=300,H=210,p=12;
   const xs=pts.map(a=>a.ts),ys=pts.map(a=>a.kg);
   const x0=Math.min(...xs),x1=Math.max(...xs),y0=Math.min(...ys),y1=Math.max(...ys);
   const sx=t=>p+((t-x0)/((x1-x0)||1))*(W-2*p), sy=k=>H-p-((k-y0)/((y1-y0)||1))*(H-2*p);
   const line=pts.map((a,i)=>(i?"L":"M")+sx(a.ts).toFixed(1)+" "+sy(a.kg).toFixed(1)).join(" ");
   const area=`M${sx(x0).toFixed(1)} ${H-p} `+pts.map(a=>`L${sx(a.ts).toFixed(1)} ${sy(a.kg).toFixed(1)}`).join(" ")+` L${sx(x1).toFixed(1)} ${H-p} Z`;
-  const dots=pts.map(a=>`<circle cx="${sx(a.ts).toFixed(1)}" cy="${sy(a.kg).toFixed(1)}" r="3"
-    fill="${a.kg>=pr?'var(--green)':'var(--green-dark)'}"/>`).join("");
-  m.innerHTML=head+`<div class="chartbox">
+  const dots=pts.map(a=>`<div class="spark-dot${a.kg>=pr?' pr':''}"
+    style="left:${(sx(a.ts)/W*100).toFixed(2)}%;top:${(sy(a.kg)/H*100).toFixed(2)}%"></div>`).join("");
+  sparkPts=pts.map(a=>({x:sx(a.ts),y:sy(a.kg),kg:a.kg}));
+  sparkGeo={W,H,p,capTop:(sy(y1)/H*100).toFixed(2)};
+  m.innerHTML=head+`<div class="chartbox"><div class="chartrow">
+    <div class="chartcol">
+    <div class="spark-stage" onclick="animateSpark()">
+    <div class="spark-cap" style="top:${sparkGeo.capTop}%"></div>
+    <div class="spark-base"></div>
     <svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
       <defs><linearGradient id="ag" x1="0" y1="0" x2="0" y2="1">
         <stop offset="0" stop-color="var(--green-dark)" stop-opacity=".18"/><stop offset="1" stop-color="var(--green)" stop-opacity="0"/>
       </linearGradient>
       <linearGradient id="lg" x1="0" y1="0" x2="1" y2="0">
         <stop offset="0" stop-color="var(--green-dark)"/><stop offset="1" stop-color="var(--green)"/>
-      </linearGradient></defs>
-      <path d="${area}" fill="url(#ag)"/>
-      <path d="${line}" fill="none" stroke="url(#lg)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
-      ${dots}</svg>
+      </linearGradient>
+      <clipPath id="sweep"><rect id="sweepRect" x="0" y="0" width="0" height="${H}"/></clipPath></defs>
+      <g clip-path="url(#sweep)">
+        <path class="spark-area" d="${area}" fill="url(#ag)"/>
+        <path class="spark-line" d="${line}" fill="none" stroke="url(#lg)" stroke-width="2.8" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round"/>
+      </g></svg>
+    ${dots}
+    <div class="spark-vline"></div>
+    <div class="spark-head"></div>
+    <div class="spark-flag"></div>
+    </div>
     <div class="axis"><span>${fD(x0)}</span><span>${pts.length} Einheiten</span><span>${fD(x1)}</span></div>
-  </div>`}
+    </div>
+    <div class="spark-bar"><div class="spark-bar-fill"></div></div>
+  </div></div>`;
+  animateSpark()}
+
+let sparkPts=[],sparkGeo=null,sparkRAF=null;
+const SPARK_DUR=1500;
+function animateSpark(){
+  const root=document.getElementById("chart");
+  if(!root||!sparkGeo||sparkPts.length<2)return;
+  const P=sparkPts,{W,H,p}=sparkGeo,n=P.length;
+  const rect=root.querySelector("#sweepRect"),vline=root.querySelector(".spark-vline"),
+        head=root.querySelector(".spark-head"),flag=root.querySelector(".spark-flag"),
+        fill=root.querySelector(".spark-bar-fill"),dots=root.querySelectorAll(".spark-dot");
+  if(!rect)return;
+  if(sparkRAF)cancelAnimationFrame(sparkRAF);
+  const seg=[],cum=[0];
+  for(let i=0;i<n-1;i++){
+    const d=Math.hypot(P[i+1].x-P[i].x,P[i+1].y-P[i].y);
+    seg.push(d);cum.push(cum[i]+d);
+  }
+  const still=matchMedia("(prefers-reduced-motion:reduce)").matches;
+  const paint=t=>{
+    const tx=P[0].x+t*(P[n-1].x-P[0].x);
+    let i=0;while(i<n-2&&P[i+1].x<tx)i++;
+    const span=P[i+1].x-P[i].x,f=span?(tx-P[i].x)/span:0;
+    const y=P[i].y+f*(P[i+1].y-P[i].y),kg=P[i].kg+f*(P[i+1].kg-P[i].kg);
+    rect.setAttribute("width",tx.toFixed(1));
+    vline.style.top=(y/H*100).toFixed(2)+"%";
+    head.style.left=(tx/W*100).toFixed(2)+"%";
+    flag.textContent=(Math.round(kg*2)/2)+" kg";
+    const sw=head.parentElement.clientWidth;
+    flag.style.left=Math.max(0,Math.min(sw-flag.offsetWidth,tx/W*sw-flag.offsetWidth/2))+"px";
+    fill.style.height=Math.max(0,Math.min(100,(H-p-y)/(H-2*p)*100)).toFixed(2)+"%";
+    vline.style.opacity=head.style.opacity=flag.style.opacity=1;
+    dots.forEach((d,j)=>d.classList.toggle("on",P[j].x<=tx+.5));
+  };
+  if(still){paint(1);return}
+  const t0=performance.now();
+  const frame=now=>{
+    const t=Math.min(1,(now-t0)/SPARK_DUR);
+    paint(t);
+    if(t<1)sparkRAF=requestAnimationFrame(frame);else sparkRAF=null;
+  };
+  paint(0);
+  sparkRAF=requestAnimationFrame(frame);
+}
 
 /* ── Wischgeste ── */
 const DEL_W=104;
