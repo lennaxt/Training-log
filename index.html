@@ -3360,10 +3360,13 @@ const CREATURE_THEMES = {
   // sich bei Ueberlappung aufmultipliziert und sonst Flecken klumpen.
   soft: { bg:'#ffffff', blend:'multiply', ramp:[38,86], hue:2, sat:78, glow:[13,3],
           bgFn: v => `radial-gradient(circle, hsl(2,78%,${v}%) 0%, hsl(2,78%,${v}%) 58%, hsla(2,78%,${v}%,0) 100%)`,
+          // Nur noch Wolke aussen und Kern innen. Die mittlere Schicht lag
+          // radiusmaessig genau dort, wo Weichzeichnen am teuersten ist, und
+          // trug am wenigsten zum Bild bei; ihre Dichte steckt jetzt in den
+          // Deckkraeften der beiden verbliebenen.
           shadow: v => { const r = utils.round(v,0);
-            return `0px 0px ${Math.round(r*1.25)}em 0px rgba(222,74,66,.32),`
-                 + `0px 0px ${r}em 0px rgba(206,50,44,.38),`
-                 + `0px 0px ${Math.max(1,Math.round(r*.42))}em 0px rgba(182,34,28,.52)`; } }
+            return `0px 0px ${Math.round(r*1.15)}em 0px rgba(222,74,66,.34),`
+                 + `0px 0px ${Math.max(1,Math.round(r*.45))}em 0px rgba(190,42,36,.55)`; } }
 };
 
 window.createCreature = function(host, dark){
@@ -3441,7 +3444,7 @@ window.createCreature = function(host, dark){
     // wiederholt sich dadurch erst nach Minuten statt nach neun Sekunden.
     modifier: x => { const t = mainLoop.currentTime;
       return x + (Math.sin(t * .00062) * .38 + Math.sin(t * .00027 + 2.1) * .26) * viewport.w; },
-    duration: 3000,
+    duration: 4200,
     ease: 'inOutExpo',
     alternate: true,
     loop: true,
@@ -3452,7 +3455,7 @@ window.createCreature = function(host, dark){
     y: [-viewport.h * .55, viewport.h * .55],
     modifier: y => { const t = mainLoop.currentTime;
       return y + (Math.cos(t * .00041) * .36 + Math.cos(t * .00017 + 1.1) * .26) * viewport.h; },
-    duration: 1000,
+    duration: 1500,
     ease: 'inOutQuad',
     alternate: true,
     loop: true,
