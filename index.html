@@ -693,7 +693,8 @@
   .pause-stage .mp-line{height:9px;margin-bottom:9px}
   .pause-stage .mp-foot{display:none}
   .creature-host{position:absolute;inset:0;overflow:hidden;isolation:isolate;
-    display:flex;align-items:center;justify-content:center}
+    display:flex;align-items:center;justify-content:center;--creature-scale:.0033}
+  #modePrev .creature-host{--creature-scale:.0046}
   .creature-grid{display:flex;flex-wrap:wrap;align-items:center;justify-content:center}
   .creature-grid div{position:relative;width:4em;height:4em;margin:3em;border-radius:2em;
     transform-style:preserve-3d;will-change:transform;mix-blend-mode:var(--blend,plus-lighter)}
@@ -3036,6 +3037,7 @@ function pauseStart(cat){
   pauseCur=o;
   stage.innerHTML=o.html?o.html(o):(m.html?m.html(o):"");
   ov.classList.toggle("dark",!!o.dark);
+  setThemeColor(o.dark?"#252423":null);
   document.getElementById("pauseClock").style.display=m.id==="timer"?"none":"";
   if(o.mount)o.mount(stage);
   ov.classList.add("open");
@@ -3064,6 +3066,12 @@ function pauseDone(){
   toast("Pause vorbei","Weiter geht's");
 }
 function pauseSkip(){if(pauseRunning())pauseStop()}
+/* Safari faerbt seine obere Leiste nach diesem Wert. Ohne das steht ueber der
+   dunklen Pause ein weisser Streifen. */
+function setThemeColor(c){
+  const m=document.querySelector('meta[name="theme-color"]');
+  if(m)m.setAttribute("content",c||"#FFFFFF");
+}
 function pauseStop(){
   if(pauseRAF)cancelAnimationFrame(pauseRAF);
   if(pauseTO)clearTimeout(pauseTO);
@@ -3073,6 +3081,7 @@ function pauseStop(){
   const ov=document.getElementById("pauseOverlay");
   ov.classList.remove("open");
   ov.classList.remove("dark");
+  setThemeColor(null);
   document.getElementById("pauseStage").innerHTML="";
 }
 /* Nach dem Entsperren laeuft kein Bild mehr nach — hier nachholen. */
@@ -3349,10 +3358,10 @@ const CREATURE_THEMES = {
   // statt Vollkreise, sonst stehen die blassen Aussenpunkte als Scheiben mit
   // harter Kante. Die drei Glow-Schichten sind zurueckgenommen, weil multiply
   // sich bei Ueberlappung aufmultipliziert und sonst Flecken klumpen.
-  soft: { bg:'#ffffff', blend:'multiply', ramp:[38,86], hue:2, sat:78, glow:[20,3],
+  soft: { bg:'#ffffff', blend:'multiply', ramp:[38,86], hue:2, sat:78, glow:[13,3],
           bgFn: v => `radial-gradient(circle, hsl(2,78%,${v}%) 0%, hsl(2,78%,${v}%) 58%, hsla(2,78%,${v}%,0) 100%)`,
           shadow: v => { const r = utils.round(v,0);
-            return `0px 0px ${Math.round(r*1.6)}em 0px rgba(222,74,66,.30),`
+            return `0px 0px ${Math.round(r*1.25)}em 0px rgba(222,74,66,.32),`
                  + `0px 0px ${r}em 0px rgba(206,50,44,.38),`
                  + `0px 0px ${Math.max(1,Math.round(r*.42))}em 0px rgba(182,34,28,.52)`; } }
 };
@@ -3378,7 +3387,10 @@ window.createCreature = function(host, dark){
     const r = host.getBoundingClientRect();
     viewport.w = r.width * .5;
     viewport.h = r.height * .5;
-    wrap.style.fontSize = (Math.min(r.width, r.height) * 0.0045).toFixed(3) + 'px';
+    // Wie gross die Kreatur im Verhaeltnis zu ihrem Kasten wird, entscheidet der
+    // Ort per CSS: im Vollbild zurueckhaltender als im kleinen Vorschaukasten.
+    const k = parseFloat(getComputedStyle(host).getPropertyValue('--creature-scale')) || 0.0033;
+    wrap.style.fontSize = (Math.min(r.width, r.height) * k).toFixed(3) + 'px';
   };
   measure();
 
@@ -3424,8 +3436,11 @@ window.createCreature = function(host, dark){
 
   const autoMove = createTimeline()
   .add(cursor, {
-    x: [-viewport.w * .45, viewport.w * .45],
-    modifier: x => x + Math.sin(mainLoop.currentTime * .0007) * viewport.w * .5,
+    x: [-viewport.w * .55, viewport.w * .55],
+    // Zwei Schwingungen mit unrunden Verhaeltnissen statt einer: die Bahn
+    // wiederholt sich dadurch erst nach Minuten statt nach neun Sekunden.
+    modifier: x => { const t = mainLoop.currentTime;
+      return x + (Math.sin(t * .00062) * .38 + Math.sin(t * .00027 + 2.1) * .26) * viewport.w; },
     duration: 3000,
     ease: 'inOutExpo',
     alternate: true,
@@ -3434,8 +3449,9 @@ window.createCreature = function(host, dark){
     onLoop: pulse,
   }, 0)
   .add(cursor, {
-    y: [-viewport.h * .45, viewport.h * .45],
-    modifier: y => y + Math.cos(mainLoop.currentTime * .00012) * viewport.h * .5,
+    y: [-viewport.h * .55, viewport.h * .55],
+    modifier: y => { const t = mainLoop.currentTime;
+      return y + (Math.cos(t * .00041) * .36 + Math.cos(t * .00017 + 1.1) * .26) * viewport.h; },
     duration: 1000,
     ease: 'inOutQuad',
     alternate: true,
