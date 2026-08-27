@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>In der Pause — Variante 2 &amp; 3 mit Vorschau</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#FFFFFF; --paper-2:#FBF4EA; --ink:#343330; --ink-soft:#7A7871;
+    --line:rgba(52,51,48,0.12); --press:rgba(52,51,48,0.05);
+    --earth:#DC851F; --green:#5C6B33;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  body{margin:0;background:var(--paper);color:var(--ink);
+    font-family:'Inter',system-ui,sans-serif;font-size:14px;line-height:1.5}
+  .wrap{max-width:420px;margin:0 auto;padding:28px 22px 90px}
+  .lead{font-family:'Fraunces',serif;font-size:30px;font-weight:500;letter-spacing:-0.01em;margin:0 0 6px}
+  .lead-sub{color:var(--ink-soft);font-size:13px;margin-bottom:40px;line-height:1.55}
+  .vtitle{font-size:11px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;
+    color:var(--ink-soft);margin:0 0 4px}
+  .vname{font-family:'Fraunces',serif;font-size:20px;font-weight:500;margin:0 0 4px}
+  .vnote{color:var(--ink-soft);font-size:12.5px;margin:0 0 16px;line-height:1.55}
+  .variant{margin-bottom:64px}
+  .out{font-size:11.5px;color:var(--ink-soft);letter-spacing:0.06em;text-transform:uppercase;margin-top:16px}
+  .chev,.lmark{flex:none;display:flex}
+  .chev{color:var(--ink-soft)} .chev svg{width:17px;height:17px}
+  .lmark{width:18px;color:var(--ink);opacity:0} .lmark svg{width:18px;height:18px}
+
+  /* ─── gemeinsame Vorschau ─── */
+  .pv{position:relative;overflow:hidden;background:var(--paper);
+    display:flex;align-items:center;justify-content:center;transition:background .35s ease}
+  .pv iframe{width:100%;height:100%;border:0;display:block}
+  .pv-num{font-family:'Fraunces',serif;font-size:40px;font-weight:500;letter-spacing:-0.02em;
+    font-variant-numeric:tabular-nums}
+  .pv-ringwrap{position:relative;display:flex;align-items:center;justify-content:center}
+  .pv-ringwrap .pv-num{position:absolute;font-size:26px}
+  .pv-bar{width:68%;height:3px;background:var(--line);position:relative}
+  .pv-bar i{position:absolute;left:0;top:0;bottom:0;background:var(--ink)}
+  .pv-barwrap{display:flex;flex-direction:column;align-items:center;gap:18px;width:100%}
+  .pv-barwrap .pv-num{font-size:28px}
+  .pv-off{color:var(--ink-soft);font-size:12.5px;padding:0 24px;text-align:center}
+  .news{padding:18px 20px;width:100%}
+  .news-kicker{font-size:10px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;
+    color:var(--earth);margin-bottom:7px}
+  .news-head{font-family:'Fraunces',serif;font-size:18px;font-weight:500;line-height:1.3;margin-bottom:11px}
+  .news-line{height:7px;background:var(--line);margin-bottom:7px}
+  .news-foot{position:absolute;right:13px;bottom:11px;font-size:11px;color:var(--ink-soft);
+    font-variant-numeric:tabular-nums}
+
+  .chips{display:flex;flex-wrap:wrap;gap:8px}
+  .chip{min-height:40px;padding:0 14px;border:1px solid var(--line);background:none;cursor:pointer;
+    font-family:'Inter',sans-serif;font-size:14px;font-weight:500;color:var(--ink);
+    border-radius:999px;display:inline-flex;align-items:center}
+  .chip:active{background:var(--press)}
+  .chip.on{background:var(--ink);border-color:var(--ink);color:#fff}
+  .sublbl{font-size:10.5px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;
+    color:var(--ink-soft);margin:16px 0 10px}
+
+  /* ─── Variante 2 ─── */
+  .stage{position:relative;overflow:hidden;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .pane{transition:transform .28s cubic-bezier(.4,0,.2,1)}
+  .pane.detail{position:absolute;inset:0;background:var(--paper);transform:translateX(100%);overflow:auto}
+  .stage.open .pane.list{transform:translateX(-14%)}
+  .stage.open .pane.detail{transform:translateX(0)}
+  .lrow{display:flex;align-items:center;gap:14px;width:100%;padding:16px 4px;background:none;
+    border:0;border-bottom:1px solid var(--line);cursor:pointer;min-height:60px;text-align:left;
+    font-family:'Fraunces',serif;font-size:17px;font-weight:500;color:var(--ink)}
+  .lrow:last-child{border-bottom:0}
+  .lrow:active{background:var(--press)}
+  .lrow-txt{flex:1;min-width:0}
+  .lrow-val{font-family:'Inter',sans-serif;font-size:13px;color:var(--ink-soft);font-weight:500}
+  .lrow.on .lmark{opacity:1}
+  .dtop{display:flex;align-items:center;gap:8px;padding:12px 4px;border-bottom:1px solid var(--line)}
+  .dback{background:none;border:0;padding:0;width:34px;height:34px;display:flex;align-items:center;
+    justify-content:center;cursor:pointer;color:var(--ink);margin-left:-7px}
+  .dback svg{width:20px;height:20px}
+  .dname{font-family:'Fraunces',serif;font-size:17px;font-weight:500}
+  .dprev{height:150px;border-bottom:1px solid var(--line)}
+  .dopt{display:flex;align-items:center;justify-content:space-between;width:100%;padding:13px 4px;
+    background:none;border:0;border-bottom:1px solid var(--line);cursor:pointer;min-height:50px;
+    font-family:'Inter',sans-serif;font-size:15px;font-weight:500;color:var(--ink);text-align:left}
+  .dopt:last-child{border-bottom:0}
+  .dopt:active{background:var(--press)}
+  .dopt.on .lmark{opacity:1}
+
+  /* ─── Variante 3 ─── */
+  .seg{display:flex;border:1px solid var(--line);border-radius:999px;padding:3px;gap:2px;margin-bottom:16px}
+  .seg button{flex:1;min-height:40px;border:0;border-radius:999px;background:none;cursor:pointer;
+    font-family:'Inter',sans-serif;font-size:13.5px;font-weight:600;color:var(--ink-soft);
+    transition:background .15s,color .15s;padding:0}
+  .seg button.on{background:var(--ink);color:#fff}
+  .cprev{height:200px;border:1px solid var(--line)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1 class="lead">In der Pause</h1>
+  <div class="lead-sub">Beide Varianten jetzt mit echter Vorschau — bei „Animation“ läuft die richtige Kreatur, nicht mehr ein Platzhalter.</div>
+
+  <div class="variant">
+    <div class="vtitle">Variante 2</div>
+    <div class="vname">Liste mit Untermenü</div>
+    <div class="vnote">Die Vorschau sitzt <b>im Untermenü</b>, direkt über den Optionen. Auf der Übersichtsliste bleibt es ruhig — du siehst sie erst, wenn du dich für eine Kategorie interessierst.</div>
+    <div class="stage" id="bStage">
+      <div class="pane list" id="bList"></div>
+      <div class="pane detail" id="bDetail"></div>
+    </div>
+    <div class="out" id="bOut">–</div>
+  </div>
+
+  <div class="variant">
+    <div class="vtitle">Variante 3</div>
+    <div class="vname">Segmente mit Vorschau</div>
+    <div class="vnote">Die Vorschau ist <b>immer sichtbar</b> und wechselt beim Umschalten. Größer, direkter — kostet aber dauerhaft Platz im Menü.</div>
+    <div class="seg" id="cSeg"></div>
+    <div class="pv cprev" id="cPrev"></div>
+    <div class="sublbl" id="cLbl">Stil</div>
+    <div class="chips" id="cChips"></div>
+    <div class="out" id="cOut">–</div>
+  </div>
+</div>
+
+<script>
+const CHECK='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>';
+const CHEV='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg>';
+const BACK='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 6l-6 6 6 6"/></svg>';
+
+const MODES=[
+  {id:"off",name:"Nichts",note:"Nur ein Ton am Ende.",sub:"",opts:[]},
+  {id:"timer",name:"Timer",note:"Die Zeit läuft sichtbar ab.",sub:"Darstellung",
+   opts:[["kreis","Kreis"],["balken","Balken"],["zahl","Nur Zahl"]]},
+  {id:"anim",name:"Animation",note:"Etwas zum Zusehen.",sub:"Welche",
+   opts:[["kreatur","Kreatur hell"],["kreatur_d","Kreatur dunkel"],["kurve","Kurve"]]},
+  {id:"wissen",name:"Wissen",note:"Schlagzeilen zum Lesen.",sub:"Quelle",
+   opts:[["tagesschau","Tagesschau"],["dlf","Deutschlandfunk"],["taz","taz"],["mix","Bunt gemischt"]]}
+];
+const M=id=>MODES.find(m=>m.id===id);
+const optName=(m,o)=>{const f=M(m).opts.find(x=>x[0]===o);return f?f[1]:""};
+const label=(m,o)=>m==="off"?"Nichts":M(m).name+" · "+optName(m,o);
+
+/* ─── Vorschau ───
+   Die Kreatur kommt als eigenes Fenster (iframe) aus animations/creature.html.
+   Sie skaliert über .2vh mit der Fensterhöhe, passt sich also von selbst an den
+   Vorschaukasten an. Bedienleiste und Hinweise werden nach dem Laden versteckt. */
+function creatureFrame(dark){
+  const f=document.createElement("iframe");
+  f.src="../animations/creature.html";
+  f.setAttribute("scrolling","no");
+  f.setAttribute("tabindex","-1");
+  f.addEventListener("load",()=>{
+    try{
+      const d=f.contentDocument;
+      ["ui","hint","fps"].forEach(id=>{const el=d.getElementById(id);if(el)el.style.display="none"});
+      // Die Ueberblendung des Hintergrunds laeuft im eingebetteten Fenster nicht an,
+      // der Wechsel bliebe sonst auf Schwarz stehen.
+      d.body.style.transition="none";
+      const b=d.getElementById(dark?"bDark":"bSoft");
+      if(b)b.click();
+      d.body.style.background=d.documentElement.style.getPropertyValue("--bg")||(dark?"#252423":"#ffffff");
+      // Die Kreatur misst sich in vh. Im kleinen Kasten waere sie sonst nur ein
+      // Krümel — hier fuellt sie rund zwei Drittel der Hoehe.
+      const c=d.getElementById("creature");
+      if(c)c.style.fontSize="0.45vh";
+    }catch(e){}
+  });
+  return f;
+}
+function renderPrev(el,mode,opt){
+  el.style.background="var(--paper)";
+  el.innerHTML="";
+  if(mode==="off"){el.innerHTML='<div class="pv-off">Dunkler Bildschirm, ein Ton am Ende.</div>';return}
+  if(mode==="timer"){
+    const r=Math.round(Math.min(el.clientHeight,el.clientWidth)*0.36);
+    if(opt==="kreis")el.innerHTML=`<div class="pv-ringwrap">
+      <svg width="${r*2+8}" height="${r*2+8}" viewBox="0 0 ${r*2+8} ${r*2+8}">
+        <circle cx="${r+4}" cy="${r+4}" r="${r}" fill="none" stroke="var(--line)" stroke-width="3"/>
+        <circle class="pv-ring" cx="${r+4}" cy="${r+4}" r="${r}" fill="none" stroke="var(--ink)"
+          stroke-width="3" stroke-linecap="round" transform="rotate(-90 ${r+4} ${r+4})"/></svg>
+      <span class="pv-num">1:30</span></div>`;
+    else if(opt==="balken")el.innerHTML=`<div class="pv-barwrap">
+      <span class="pv-num">1:30</span><div class="pv-bar"><i></i></div></div>`;
+    else el.innerHTML=`<span class="pv-num">1:30</span>`;
+    return;
+  }
+  if(mode==="anim"){
+    if(opt==="kurve"){
+      el.innerHTML=`<svg width="90%" height="60%" viewBox="0 0 220 110" preserveAspectRatio="xMidYMid meet">
+        <path class="pv-curve" d="M10 92 L60 70 L110 74 L160 38 L210 18" fill="none"
+          stroke="var(--green)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+    }else{
+      el.style.background=opt==="kreatur_d"?"#252423":"var(--paper)";
+      el.appendChild(creatureFrame(opt==="kreatur_d"));
+    }
+    return;
+  }
+  const src={tagesschau:"Tagesschau",dlf:"Deutschlandfunk",taz:"taz",mix:"Bunt gemischt"}[opt];
+  el.innerHTML=`<div class="news"><div class="news-kicker">${src}</div>
+    <div class="news-head">Eine Schlagzeile, die in 90 Sekunden zu schaffen ist</div>
+    <div class="news-line" style="width:100%"></div><div class="news-line" style="width:92%"></div>
+    <div class="news-line" style="width:97%"></div><div class="news-line" style="width:54%"></div></div>
+    <div class="news-foot"><span class="pv-num" style="font-size:11px;font-family:inherit">1:30</span></div>`;
+}
+
+/* ─── Variante 2 ─── */
+let bMode="anim",bOpt={timer:"balken",anim:"kreatur",wissen:"dlf"},bOpen=null;
+function paintBList(){
+  document.getElementById("bList").innerHTML=MODES.map(m=>`
+    <button class="lrow${m.id===bMode?" on":""}" data-m="${m.id}">
+      <span class="lmark">${CHECK}</span>
+      <span class="lrow-txt">${m.name}</span>
+      ${m.opts.length?`<span class="lrow-val">${optName(m.id,bOpt[m.id])}</span><span class="chev">${CHEV}</span>`:""}
+    </button>`).join("");
+  document.getElementById("bOut").textContent=label(bMode,bOpt[bMode]);
+}
+function paintBDetail(){
+  const d=document.getElementById("bDetail");
+  if(!bOpen){d.innerHTML="";return}
+  const m=M(bOpen);
+  d.innerHTML=`<div class="dtop"><button class="dback">${BACK}</button><span class="dname">${m.name}</span></div>
+    <div class="pv dprev" id="bPrev"></div>
+    <div>${m.opts.map(o=>`<button class="dopt${bOpt[m.id]===o[0]?" on":""}" data-o="${o[0]}">
+      <span>${o[1]}</span><span class="lmark">${CHECK}</span></button>`).join("")}</div>`;
+  renderPrev(document.getElementById("bPrev"),bOpen,bOpt[bOpen]);
+}
+document.getElementById("bList").onclick=e=>{
+  const r=e.target.closest(".lrow");if(!r)return;
+  bMode=r.dataset.m;
+  bOpen=M(bMode).opts.length?bMode:null;
+  paintBList();paintBDetail();
+  document.getElementById("bStage").classList.toggle("open",!!bOpen);
+};
+document.getElementById("bDetail").onclick=e=>{
+  if(e.target.closest(".dback")){
+    bOpen=null;
+    document.getElementById("bStage").classList.remove("open");
+    setTimeout(()=>{if(!bOpen)document.getElementById("bDetail").innerHTML=""},300);
+    return;
+  }
+  const o=e.target.closest(".dopt");
+  if(o){bOpt[bOpen]=o.dataset.o;paintBList();paintBDetail()}
+};
+paintBList();
+
+/* ─── Variante 3 ─── */
+let cMode="anim",cOpt={timer:"kreis",anim:"kreatur",wissen:"tagesschau"};
+function paintC(){
+  document.getElementById("cSeg").innerHTML=MODES.map(m=>
+    `<button class="${m.id===cMode?"on":""}" data-m="${m.id}">${m.name}</button>`).join("");
+  const m=M(cMode);
+  document.getElementById("cLbl").textContent=m.sub||"";
+  document.getElementById("cLbl").style.display=m.opts.length?"":"none";
+  document.getElementById("cChips").innerHTML=m.opts.map(o=>
+    `<button class="chip${cOpt[cMode]===o[0]?" on":""}" data-o="${o[0]}">${o[1]}</button>`).join("");
+  document.getElementById("cOut").textContent=label(cMode,cOpt[cMode]);
+  renderPrev(document.getElementById("cPrev"),cMode,cOpt[cMode]);
+}
+document.getElementById("cSeg").onclick=e=>{
+  const b=e.target.closest("button");if(!b)return;cMode=b.dataset.m;paintC();
+};
+document.getElementById("cChips").onclick=e=>{
+  const b=e.target.closest(".chip");if(!b)return;cOpt[cMode]=b.dataset.o;paintC();
+};
+paintC();
+
+/* ─── Uhr für alle Vorschauen ─── */
+const t0=performance.now();
+function tick(now){
+  const total=90000,p=((now-t0)%total)/total,left=Math.max(0,Math.ceil(total*(1-p)/1000));
+  const txt=Math.floor(left/60)+":"+String(left%60).padStart(2,"0");
+  document.querySelectorAll(".pv-num").forEach(n=>n.textContent=txt);
+  document.querySelectorAll(".pv-ring").forEach(r=>{
+    const c=2*Math.PI*(+r.getAttribute("r"));
+    r.setAttribute("stroke-dasharray",c);r.setAttribute("stroke-dashoffset",c*p);
+  });
+  document.querySelectorAll(".pv-bar i").forEach(b=>b.style.width=((1-p)*100).toFixed(1)+"%");
+  document.querySelectorAll(".pv-curve").forEach(cv=>{
+    const L=cv.getTotalLength();
+    cv.style.strokeDasharray=L;
+    cv.style.strokeDashoffset=L*(1-((now-t0)%3400)/3400);
+  });
+  requestAnimationFrame(tick);
+}
+requestAnimationFrame(tick);
+</script>
+</body>
+</html>
