@@ -674,12 +674,23 @@
   #pauseOverlay.open{opacity:1;pointer-events:auto}
   #pauseOverlay.dark{background:#252423}
   .pause-stage{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;overflow:hidden}
-  .pause-clock{position:absolute;z-index:2;top:calc(var(--top) + 20px);right:22px;
-    font-family:'Inter',sans-serif;font-size:13px;font-weight:600;font-variant-numeric:tabular-nums;
-    color:var(--ink-soft)}
-  .pause-foot{position:absolute;z-index:2;left:0;right:0;bottom:0;text-align:center;
-    padding:0 22px calc(var(--bot) + 30px);font-size:12px;letter-spacing:0.04em;color:var(--ink-soft)}
-  #pauseOverlay.dark .pause-clock,#pauseOverlay.dark .pause-foot{color:rgba(255,255,255,.55)}
+  .pause-clock{position:absolute;z-index:2;top:calc(var(--top) + 22px);left:50%;transform:translateX(-50%);
+    font-family:'Inter',sans-serif;font-size:15px;font-weight:600;font-variant-numeric:tabular-nums;
+    letter-spacing:.02em;color:var(--ink-soft)}
+  .pause-skip{position:absolute;z-index:2;top:calc(var(--top) + 9px);right:16px;
+    width:44px;height:44px;padding:0;border:1px solid var(--line);border-radius:9px;
+    background:transparent;overflow:hidden;isolation:isolate;cursor:pointer;
+    display:flex;align-items:center;justify-content:center;
+    -webkit-tap-highlight-color:transparent;touch-action:none;user-select:none;-webkit-user-select:none}
+  .pause-skip b{position:relative;z-index:1;font:600 10.5px/1 'Inter',sans-serif;
+    letter-spacing:.09em;text-transform:uppercase;color:var(--ink-soft)}
+  .pause-skip i{position:absolute;inset:0;background:var(--ink);opacity:.13;
+    transform:scaleY(0);transform-origin:bottom;transition:transform .14s linear}
+  .pause-skip.hold i{transform:scaleY(1);transition-duration:var(--hold)}
+  #pauseOverlay.dark .pause-clock{color:rgba(255,255,255,.55)}
+  #pauseOverlay.dark .pause-skip{border-color:rgba(255,255,255,.2)}
+  #pauseOverlay.dark .pause-skip b{color:rgba(255,255,255,.6)}
+  #pauseOverlay.dark .pause-skip i{background:#fff;opacity:.17}
   /* Dieselben Bausteine, nur groesser: der Pausenbildschirm hat den ganzen Platz. */
   .pause-stage .mp-num{font-size:74px}
   .pause-stage .mp-ringwrap{width:252px;height:252px}
@@ -830,10 +841,11 @@
   </div>
 </div>
 
-<div id="pauseOverlay" onclick="pauseSkip()">
+<div id="pauseOverlay">
   <div class="pause-stage" id="pauseStage"></div>
   <div class="pause-clock" id="pauseClock"></div>
-  <div class="pause-foot">Tippen beendet die Pause</div>
+  <button class="pause-skip" id="pauseSkip" type="button" onpointerdown="pauseHoldStart(event)"
+    onpointerup="pauseHoldEnd()" onpointercancel="pauseHoldEnd()" onpointerleave="pauseHoldEnd()"><i></i><b>Skip</b></button>
 </div>
 
 <div class="plan-overlay" id="extraOverlay">
@@ -3066,6 +3078,23 @@ function pauseDone(){
   toast("Pause vorbei","Weiter geht's");
 }
 function pauseSkip(){if(pauseRunning())pauseStop()}
+/* Halten statt Tippen: ein versehentlicher Fingertipper soll die Pause nicht
+   beenden. Die Fuellung laeuft ueber denselben Wert wie der Zeitgeber. */
+const PAUSE_HOLD=900;
+let pauseHoldTO=null;
+function pauseHoldStart(e){
+  e.preventDefault();
+  if(!pauseRunning())return;
+  const b=document.getElementById("pauseSkip");
+  b.style.setProperty("--hold",PAUSE_HOLD+"ms");
+  b.classList.add("hold");
+  pauseHoldTO=setTimeout(()=>{pauseHoldEnd();pauseSkip()},PAUSE_HOLD);
+}
+function pauseHoldEnd(){
+  if(pauseHoldTO)clearTimeout(pauseHoldTO);
+  pauseHoldTO=null;
+  document.getElementById("pauseSkip").classList.remove("hold");
+}
 /* Safari faerbt seine obere Leiste nach diesem Wert. Ohne das steht ueber der
    dunklen Pause ein weisser Streifen. */
 function setThemeColor(c){
@@ -3076,6 +3105,7 @@ function pauseStop(){
   if(pauseRAF)cancelAnimationFrame(pauseRAF);
   if(pauseTO)clearTimeout(pauseTO);
   pauseRAF=null;pauseTO=null;
+  pauseHoldEnd();
   if(pauseCur&&pauseCur.unmount)pauseCur.unmount(document.getElementById("pauseStage"));
   pauseCur=null;
   const ov=document.getElementById("pauseOverlay");
