@@ -3384,19 +3384,15 @@ const CREATURE_THEMES = {
   // Original: additiv auf Schwarz. Mitte hell -> glueht weiss aus.
   dark: { bg:'#252423', blend:'plus-lighter', ramp:[80,20], hue:4, sat:70, glow:[8,1],
           shadow: v => `0px 0px ${utils.round(v,0)}em 0px #FF4B4B` },
-  // Auf Weiss: multiplikativ, Helligkeitsrampe umgedreht. Weiche Verlaufspunkte
-  // statt Vollkreise, sonst stehen die blassen Aussenpunkte als Scheiben mit
-  // harter Kante. Die drei Glow-Schichten sind zurueckgenommen, weil multiply
-  // sich bei Ueberlappung aufmultipliziert und sonst Flecken klumpen.
-  soft: { bg:'#ffffff', blend:'multiply', ramp:[38,86], hue:2, sat:78, glow:[11,3],
-          bgFn: v => `radial-gradient(circle, hsl(2,78%,${v}%) 0%, hsl(2,78%,${v}%) 58%, hsla(2,78%,${v}%,0) 100%)`,
-          // Nur noch Wolke aussen und Kern innen. Die mittlere Schicht lag
-          // radiusmaessig genau dort, wo Weichzeichnen am teuersten ist, und
-          // trug am wenigsten zum Bild bei; ihre Dichte steckt jetzt in den
-          // Deckkraeften der beiden verbliebenen.
-          shadow: v => { const r = utils.round(v,0);
-            return `0px 0px ${Math.round(r*1.1)}em 0px rgba(222,74,66,.34),`
-                 + `0px 0px ${Math.max(1,Math.round(r*.45))}em 0px rgba(190,42,36,.55)`; } }
+  /* Auf Weiss: multiplikativ und ohne Schein. Was auf Schwarz das Ausgluehen
+     nach Weiss ist, ist hier das Nachdunkeln nach Schwarz — die Mitte traegt
+     die Helligkeit, nicht ein weichgezeichneter Rand. Das Weichzeichnen war
+     der teure Teil (Kosten steigen quadratisch mit dem Radius, und der Puls
+     verfuenffacht ihn), deshalb hakte gerade diese Fassung.
+     Weiche Verlaufspunkte statt Vollkreise, sonst stehen die blassen
+     Aussenpunkte als Scheiben mit harter Kante. */
+  soft: { bg:'#ffffff', blend:'multiply', ramp:[14,86], hue:2, sat:78,
+          bgFn: v => `radial-gradient(circle, hsl(2,78%,${v}%) 0%, hsl(2,78%,${v}%) 58%, hsla(2,78%,${v}%,0) 100%)` }
 };
 
 window.createCreature = function(host, dark){
@@ -3438,8 +3434,8 @@ window.createCreature = function(host, dark){
     opacity: opacityStagger,
     background: stagger(T.ramp, { grid, from,
       modifier: v => T.bgFn ? T.bgFn(v) : `hsl(${T.hue}, ${T.sat}%, ${v}%)` }),
-    boxShadow: stagger(T.glow, { grid, from, modifier: v => T.shadow(v) }),
     zIndex: stagger([rows * rows, 1], { grid, from, modifier: utils.round(0) }),
+    ...(T.glow ? { boxShadow: stagger(T.glow, { grid, from, modifier: v => T.shadow(v) }) } : {}),
   });
 
   const cursor = { x: 0, y: 0 };
