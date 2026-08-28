@@ -705,6 +705,9 @@
   .pause-stage .mp-foot{display:none}
   .creature-host{position:absolute;inset:0;overflow:hidden;isolation:isolate;
     display:flex;align-items:center;justify-content:center;--creature-scale:.0033}
+  /* Die Kreatur bewegt sich nur in ihrem eigenen Kasten. Im Pausenbildschirm
+     faengt der unter der Uhr an, damit sie die Zeit nicht ueberlaeuft. */
+  #pauseOverlay .creature-host{top:calc(var(--top) + 54px)}
   #modePrev .creature-host{--creature-scale:.0046}
   .creature-grid{display:flex;flex-wrap:wrap;align-items:center;justify-content:center}
   .creature-grid div{position:relative;width:4em;height:4em;margin:3em;border-radius:2em;
@@ -3440,6 +3443,11 @@ window.createCreature = function(host, dark){
 
   const cursor = { x: 0, y: 0 };
 
+  /* Der Ausschlag ist absichtlich groesser als der Kasten, damit die Kreatur in
+     die Ecken kommt. Nach oben ist damit Schluss, wo ihr Rand den Kastenrand
+     erreicht — sonst laege sie im Pausenbildschirm auf der Uhr. */
+  const ceiling = () => { const m = wrap.offsetHeight * .5 - viewport.h; return m < 0 ? m : -Infinity; };
+
   const pulse = () => {
     animate(particuleEls, {
       keyframes: [
@@ -3480,7 +3488,8 @@ window.createCreature = function(host, dark){
   .add(cursor, {
     y: [-viewport.h * .55, viewport.h * .55],
     modifier: y => { const t = mainLoop.currentTime;
-      return y + (Math.cos(t * .00041) * .36 + Math.cos(t * .00017 + 1.1) * .26) * viewport.h; },
+      return Math.max(ceiling(),
+        y + (Math.cos(t * .00041) * .36 + Math.cos(t * .00017 + 1.1) * .26) * viewport.h); },
     duration: 1250,
     ease: 'inOutQuad',
     alternate: true,
