@@ -676,23 +676,24 @@
   .pause-stage{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;overflow:hidden}
   .pause-head{position:absolute;z-index:2;top:calc(var(--top) + 18px);left:50%;transform:translateX(-50%);
     display:flex;flex-direction:column;align-items:center;gap:2px}
-  .pause-kicker{font-family:'Fraunces',Georgia,serif;font-size:13px;font-weight:500;
-    letter-spacing:0.12em;text-transform:uppercase;color:var(--ink-soft);opacity:.6}
+  .pause-kicker{font-family:'Fraunces',Georgia,serif;font-size:16px;font-weight:600;
+    letter-spacing:0.1em;text-transform:uppercase;color:rgba(52,51,48,.72)}
   .pause-clock{font-family:'Fraunces',Georgia,serif;font-size:22px;font-weight:500;
-    font-variant-numeric:tabular-nums;letter-spacing:-0.01em;color:var(--ink-soft)}
+    font-variant-numeric:tabular-nums;letter-spacing:-0.01em;color:rgba(52,51,48,.5)}
   .pause-skip{position:absolute;z-index:2;bottom:calc(var(--bot) + 22px);left:50%;transform:translateX(-50%);
     width:44px;height:44px;padding:0;border:1px solid var(--line);border-radius:9px;
     background:transparent;overflow:hidden;isolation:isolate;cursor:pointer;
     display:flex;align-items:center;justify-content:center;
     -webkit-tap-highlight-color:transparent;touch-action:none;user-select:none;-webkit-user-select:none}
   .pause-skip b{position:relative;z-index:1;font:600 12px/1 'Fraunces',Georgia,serif;
-    letter-spacing:.05em;text-transform:uppercase;color:var(--ink-soft)}
+    letter-spacing:.05em;text-transform:uppercase;color:rgba(52,51,48,.5)}
   .pause-skip i{position:absolute;inset:0;background:var(--ink);opacity:.13;
     transform:scaleY(0);transform-origin:bottom;transition:transform .14s linear}
   .pause-skip.hold i{transform:scaleY(1);transition-duration:var(--hold)}
-  #pauseOverlay.dark .pause-clock,#pauseOverlay.dark .pause-kicker{color:rgba(255,255,255,.55)}
+  #pauseOverlay.dark .pause-kicker{color:rgba(255,255,255,.75)}
+  #pauseOverlay.dark .pause-clock{color:rgba(255,255,255,.42)}
   #pauseOverlay.dark .pause-skip{border-color:rgba(255,255,255,.2)}
-  #pauseOverlay.dark .pause-skip b{color:rgba(255,255,255,.6)}
+  #pauseOverlay.dark .pause-skip b{color:rgba(255,255,255,.42)}
   #pauseOverlay.dark .pause-skip i{background:#fff;opacity:.17}
   /* Dieselben Bausteine, nur groesser: der Pausenbildschirm hat den ganzen Platz. */
   .pause-stage .mp-num{font-size:74px}
@@ -710,7 +711,7 @@
     display:flex;align-items:center;justify-content:center;--creature-scale:.0033}
   /* Die Kreatur bewegt sich nur in ihrem eigenen Kasten. Im Pausenbildschirm
      faengt der unter der Uhr an, damit sie die Zeit nicht ueberlaeuft. */
-  #pauseOverlay .creature-host{top:calc(var(--top) + 94px)}
+  #pauseOverlay .creature-host{top:calc(var(--top) + 100px)}
   #modePrev .creature-host{--creature-scale:.0046}
   .creature-grid{display:flex;flex-wrap:wrap;align-items:center;justify-content:center}
   .creature-grid div{position:relative;width:4em;height:4em;margin:3em;border-radius:2em;
