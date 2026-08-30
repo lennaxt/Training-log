@@ -744,7 +744,12 @@
   #pauseOverlay.dark .news-back{border-color:rgba(255,255,255,.2);color:rgba(255,255,255,.55)}
   .pause-stage .news-read .mp-head{font-size:25px;margin-bottom:12px}
   .pause-stage .news-read .mp-text{font-size:16.5px;line-height:1.62;white-space:pre-line}
-  .news-src{display:block;margin-top:22px;padding-bottom:6px;font-size:12px;color:var(--ink-soft)}
+  .news-src{display:block;margin-top:18px;padding-bottom:6px;font-size:12px;color:var(--ink-soft)}
+  .news-open{display:inline-flex;align-items:center;min-height:44px;margin-top:20px;padding:0 18px;
+    border:1px solid var(--line);border-radius:999px;text-decoration:none;
+    font:600 10.5px/1 'Inter',sans-serif;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--ink-soft);-webkit-tap-highlight-color:transparent}
+  #pauseOverlay.dark .news-open{border-color:rgba(255,255,255,.2);color:rgba(255,255,255,.55)}
   .creature-host{position:absolute;inset:0;overflow:hidden;isolation:isolate;
     display:flex;align-items:center;justify-content:center;--creature-scale:.0033}
   /* Die Kreatur bewegt sich nur in ihrem eigenen Kasten. Im Pausenbildschirm
@@ -2916,8 +2921,8 @@ function quelleRender(el,modeId,dir,lesen){
     leser.append(zurueck,k,h,t);
     if(it.u){
       const a=document.createElement("a");
-      a.className="news-src";a.href=it.u;a.target="_blank";a.rel="noopener noreferrer";
-      a.textContent="Ganzer Artikel bei Wikipedia \u2197";
+      a.className="news-open";a.href=it.u;a.target="_blank";a.rel="noopener noreferrer";
+      a.textContent=(lesen?"Ganzer Artikel bei ":"Weiterlesen bei ")+(it.q||"der Quelle")+" \u2197";
       leser.append(a);
     }
     if(it.liz){
@@ -2938,21 +2943,19 @@ function quelleRender(el,modeId,dir,lesen){
     if(!pool.length){liste.innerHTML='<div class="mp-note">Noch nichts geladen.<br>Einmal mit Internet öffnen, dann steht es auch offline bereit.</div>';return}
     liste.innerHTML="";
     pool.forEach(it=>{
-      // Lesbare Quellen oeffnen in der App, fremde beim Anbieter im eigenen Tab.
-      const row=document.createElement(lesen||!it.u?"div":"a");
+      // Antippen wirft nie aus der App: es oeffnet immer erst das Blatt, das
+      // Verlassen ist von dort ein zweiter, bewusster Schritt.
+      const row=document.createElement("div");
       row.className="news-item";
-      if(!lesen&&it.u){row.href=it.u;row.target="_blank";row.rel="noopener noreferrer"}
-      if(lesen)row.onclick=()=>oeffnen(it);
+      row.onclick=()=>oeffnen(it);
       const k=document.createElement("div");
       k.className="mp-kicker";
-      // Gleich aussehende Zeilen mit ungleichem Verhalten verwirren: der Pfeil
-      // sagt vorher, dass dieser Tipp aus der App fuehrt.
-      k.textContent=[it.q,newsAge(it.d)].filter(Boolean).join(" \u00b7 ")+(lesen?"":" \u2197");
+      k.textContent=[it.q,newsAge(it.d)].filter(Boolean).join(" \u00b7 ");
       const h=document.createElement("div");
       h.className="mp-head";h.textContent=it.t;
       row.append(k,h);
       if(it.s){const t=document.createElement("div");t.className="mp-text";
-        t.textContent=lesen?it.s.slice(0,150).trim()+"\u2026":it.s;row.append(t)}
+        t.textContent=it.s.length>170?it.s.slice(0,170).trim()+"\u2026":it.s;row.append(t)}
       liste.append(row);
     });
     liste.scrollTop=0;liste.hidden=false;
