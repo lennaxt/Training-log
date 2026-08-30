@@ -1,54 +1,12 @@
 {
  "name": "Philosophie",
  "lizenz": "Wikipedia, CC BY-SA 4.0",
- "updated": "2026-08-30T20:40:01+00:00",
+ "updated": "2026-08-30T20:44:00+00:00",
  "items": [
   {
    "t": "Aktivität (Psychologie)",
    "s": "Aktivität (seit dem 17. Jahrhundert über mittellateinisch „activitas“ oder über französisch „activité“ in die deutsche Sprache eingeführt) bezeichnet in der Alltagssprache allgemein die Tatkraft, das tätige Verhalten des Menschen, die Arbeit, den Unternehmergeist, den Tatendrang, speziell auch die äußerlich feststellbaren Veränderungen des biologischen Verhaltens, wie sie sich etwa im Schlaf-Wachrhythmus zeigen.\nIn der Psychologie wird darunter traditionell eine unmittelbar durch innere Bedingungen ausgelöste Tätigkeit eines Organismus bzw. einer Person verstanden. Auf diese Weise wird nicht nur die willkürliche und äußerlich beobachtbare Aktivität, sondern auch das in Bereitschaft stehende Vermögen als innere Bedingung einer entsprechenden Tätigkeit aufgefasst. Unter Vermögen wird von alters her auch die Fähigkeit gerechnet. Dies bedeutet nicht, dass keine äußeren Einflüsse auf das Geschehen einwirken. Vielmehr soll damit ausgedrückt werden, dass eine dem Individuum eigene Energie an den Abläufen beteiligt ist. Der Begriff wird gleichermaßen auf psychologische wie auf physiologische Sachverhalte angewandt. In der biologischen Psychologie und Neuropsychologie werden neuerdings auch kardiovaskuläre Aktionen sowie elektrodermale und elektroneuronale Potentiale als Aktivitäten bezeichnet.",
    "u": "https://de.wikipedia.org/wiki/Aktivit%C3%A4t_%28Psychologie%29",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Allmachtsparadoxon",
-   "s": "Das Allmachtsparadoxon ist ein philosophisches Paradoxon, das bei der Anwendung von Logik auf ein allmächtiges Wesen auftritt. Häufig wird das Paradoxon auf den Gott der abrahamitischen Religionen angewandt, was aber nicht zwingend erforderlich ist. Das Paradoxon beruht auf der Frage, ob ein allmächtiges Wesen in der Lage ist, etwas zu tun, was seine eigene Allmacht einschränkt, wodurch es seine Allmacht verlieren würde. Manche Philosophen betrachten diese Argumentation als Beweis für die Unmöglichkeit der Existenz eines solchen Wesens; andere argumentieren, dass dieses Paradoxon einem falschen Verständnis von Allmacht entspringe.",
-   "u": "https://de.wikipedia.org/wiki/Allmachtsparadoxon",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Aphorismus",
-   "s": "Ein Aphorismus (von altgriechisch ἀφορίζειν ‚genau bestimmen, abgrenzen‘) ist ein selbständiger einzelner Gedanke, ein Urteil oder eine Lebensweisheit. Er kann aus nur einem Satz oder wenigen Sätzen bestehen. Oft formuliert er eine besondere Einsicht rhetorisch als allgemeinen Sinnspruch (Sentenz, Maxime, Aperçu, Bonmot). Dagegen gelten Auszüge aus anderen Texten, wie geflügelte Worte oder pointierte Zitate, literaturwissenschaftlich nicht als Aphorismen. Ein Verfasser von Aphorismen wird als Aphoristiker bezeichnet.",
-   "u": "https://de.wikipedia.org/wiki/Aphorismus",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Arnold L. Farr",
-   "s": "Arnold L. Farr (* 1965) ist ein amerikanischer Philosoph. Er lehrt als Professor an der University of Kentucky. 2005 war er Mitbegründer und erster Präsident der International Herbert Marcuse Society.\nFarr legte das Master-Examen an der University Kentucky ab und wurde dort 1996 zum Ph.D. promoviert. Von 1996 bis 2008 war er Associate Professor und Direktor des Africana Studies Program an der Saint Joseph’s University in Philadelphia. 2008 kehrte er als Professor an die University Kentucky zurück. Seine Forschungsinteressen gelten nach eigenen Angaben dem deutschen Idealismus, dem Marxismus, der Kritischen Theorie, der Philosophie der Rassen, der Postmoderne, der Psychoanalyse und der Befreiungsphilosophie. Farr ist Autor des 2009 erschienenen Buches Critical theory and democratic vision. Herbert Marcuse and recent liberation philosophies.",
-   "u": "https://de.wikipedia.org/wiki/Arnold_L._Farr",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Augenblick (Philosophie)",
-   "s": "Der Augenblick ist ein in der Philosophie einflussreiches Konzept, das zu großen Teilen auf Søren Kierkegaards Beschäftigung mit dem Moment, dem kurzen Zeitintervall zurückgeht. Er entwickelte es ausgehend von Platons Begriff des Plötzlichen (altgriechisch τὸ ἐξαίφνης) im Parmenides, wo der Übergang von Bewegung in Ruhe und Ruhe in Bewegung, alle Veränderung, wie auch der Übergang von Sein zu Nichtsein als wunderlich beschrieben wird, weil er weder Ruhe noch Bewegung ist und keiner Zeit angehört.\nFür Kierkegaard ist der Gegensatz von Zeit und Ewigkeit vereint im Augenblick, der als abstrakter Moment gedacht wird, der das Nichts und die Ewigkeit zugleich umfasst. Weil er Vergangenheit, Gegenwart und Zukunft aufhebt, ist er aus dem empirischen Lebensablauf herausgestellt.\nKierkegaard verstand den erfüllten Augenblick im Sinne Goethes, der ihn als Verdichtung eines Erfahrungskosmos nicht als rein zeitlichen Begriff betrachtete:\n(Auszug aus: Goethe, Vermächtnis, 1829)",
-   "u": "https://de.wikipedia.org/wiki/Augenblick_%28Philosophie%29",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Aus der Geschichte des vaterländischen philosophischen Denkens",
-   "s": "Aus der Geschichte des vaterländischen philosophischen Denkens (russisch Из истории отечественной философской мысли / Is istorii otetschestwennoi filossofskoi mysli, wiss. Transliteration Iz istorii otečestvennoj filosofskoj mysli) ist eine russischsprachige Buchreihe zur russischen Philosophie, die seit 1989 vom russischen Verlag Prawda als Beilage zur Zeitschrift Woprossy filossofii (russisch Вопросы философии, wiss. Transliteration Voprosy filosofii; „Fragen der Philosophie“) herausgegeben wird. Sie erscheint in Moskau. Einer ihrer Mitherausgeber ist Vladimir Kantor.",
-   "u": "https://de.wikipedia.org/wiki/Aus_der_Geschichte_des_vaterl%C3%A4ndischen_philosophischen_Denkens",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Außenpsychologie",
-   "s": "Mit Außenpsychologie wird eine eher naturwissenschaftlich bestimmte Sichtweise der Psychologie gekennzeichnet. Sie betrifft die objektiv vorhandenen und beobachtbaren, insbesondere auch messbaren psychologischen Vorgänge, wie etwa objektive physikalische Reize, auf die ein Mensch sehr spezifisch reagiert. Mit der Reflexologie begann diese Auffassung. Aber auch Bezugspersonen spielen als soziale Objekte in der Entwicklungspsychologie eine wichtige Rolle. Die Abgrenzung zwischen „innen“ und „außen“ wird durch die Körperoberfläche bzw. durch das Körperschema bestimmt und ist daher sowohl lokalisatorisch als auch topologisch zu verstehen. Es können jedoch auch in sich geschlossene Systeme, Gemeinschaften, Gruppen, Verbände oder Gesellschaften als Entitäten gemeint sein, die äußeren Einflüssen ausgesetzt sind oder auf ihre Hilfe angewiesen sind.",
-   "u": "https://de.wikipedia.org/wiki/Au%C3%9Fenpsychologie",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Balloon debate",
-   "s": "Eine Balloon debate ist ein Wortgefecht, in welchem die einzelnen Sprecher ein Publikum von ihren Argumenten überzeugen müssen. Das Publikum soll sich vorstellen, die Sprecher seien in einem Heißluftballon, welcher zu sinken beginnt; um die anderen zu retten, muss eine Person aus dem Ballon geworfen werden.\nJeder Vortragende muss begründen, warum er oder sie nicht aus dem Ballon geworfen werden soll, um die anderen zu retten. Meistens spricht jeder Teilnehmer in einer Rolle als bekannte Persönlichkeit, als Mitglied eines Berufsstandes, Romanfigur etc. Der Ballon wird manchmal durch eine andere Situation ersetzt, z. B. Schiffbrüchige auf einem Floss, oder ein Atombunker.\nDer gleiche Stil wird in der Reality-TV Sendung Big Brother verwendet, wo Teilnehmer begründen müssen, weshalb sie nicht ausgeschlossen werden sollen.",
-   "u": "https://de.wikipedia.org/wiki/Balloon_debate",
    "q": "Wikipedia"
   },
   {
@@ -58,93 +16,45 @@
    "q": "Wikipedia"
   },
   {
-   "t": "Braitenberg-Vehikel",
-   "s": "Als Braitenberg-Vehikel bezeichnet man ursprünglich hypothetische Roboterfahrzeuge, die 1984 von dem Südtiroler Hirnforscher, Kybernetiker und Schriftsteller Valentin Braitenberg für ein kybernetisches Gedankenexperiment ersonnen wurden. Diese sehr einfach konstruierten Fahrzeuge sind mit Sensoren ausgestattet und können autark auf Umweltreize reagieren. Dabei kann bereits durch verblüffend einfache Mechanismen ein überraschend komplexes Verhalten bewirkt werden.\nObgleich ursprünglich als Gedankenexperiment angelegt (Braitenberg spricht von einem „Spaziergang durch eine [erfundene] Spielzeugwelt“), wurden inzwischen Implementierungen im Internet publiziert, und zwar sowohl als Software-Simulationen als auch in Form realer, elektronisch gesteuerter, mechanischer Roboter.",
-   "u": "https://de.wikipedia.org/wiki/Braitenberg-Vehikel",
+   "t": "Bibliotheca Philosophica Hermetica",
+   "s": "Die Bibliotheca Philosophica Hermetica (auch The Ritman Library) ist eine öffentlich zugängliche Spezialbibliothek in Amsterdam in den Niederlanden. Sie besitzt die weltweit größte Sammlung von Manuskripten und gedruckten Büchern, die für die hermetische Tradition relevant sind.\nDie Bibliothek entstand aus der privaten Sammlung des niederländischen Kaufmanns Joost Ritman und wurde im Jahr 1984 mit dem Ziel gegründet, das mit der hermetischen Philosophie in Verbindung stehende Kulturerbe zu dokumentieren. Ein Sammlungsschwerpunkt neben Alchemie und Hermetik ist die Christliche Mystik mit besonderem Augenmerk auf Meister Eckhart und Jakob Böhme, auch Schriften der Rosenkreuzer und der Manichäer sind Bestandteil der Sammlung ebenso wie anthroposophische und theosophische Texte. Die Bibliothek verfügt heute über mehr als 22.000 Bücher: davon rund 700 Manuskripte, davon 85 aus der Zeit vor 1550, ca. 5000 Bücher aus Zeit vor 1800 und rund 17.000 Bücher aus der Zeit nach 1800.\nIn der Bibliothek wurden mehrfach Ausstellungen gezeigt. Der Bibliothek ist das Ritman Research Institute und eine Verlagsabteilung angeschlossen. Der niederländische Psychologe Willem Levelt war Mitglied des „Boards“ der Bibliothek. Leiter des Instituts war Carlos Gilly.",
+   "u": "https://de.wikipedia.org/wiki/Bibliotheca_Philosophica_Hermetica",
    "q": "Wikipedia"
   },
   {
-   "t": "Brett des Karneades",
-   "s": "Das Brett des Karneades ist ein philosophisches Gedankenexperiment, das dem griechischen Philosophen Karneades zugeschrieben wird.\nMan stellt sich die Situation zweier Schiffbrüchiger vor, deren einzige Rettung ein umhertreibendes Brett ist, welches jedoch nur eine Person tragen kann. Einer der beiden Schiffbrüchigen tötet den anderen, um die rettende Planke für sich zu sichern und anschließend gerettet zu werden.\nIm Zentrum des Gedankenexperiments steht nun die Frage, ob der Überlebende wegen Tötung (zum Tode) verurteilt werden sollte oder ob die Tötung gerechtfertigt werden kann, und wenn, mit welchen Argumenten und innerhalb welchen Rechtsrahmens.\nDas Situationsbeispiel wirft ethische und rechtsphilosophische Grundfragen auf, die in verschiedenen Lebensbereichen wiederkehren und durch das Problem der Zuteilung knapper Ressourcen hervorgerufen werden. Bedeutung hat das Dilemma als strafrechtliches Fallbeispiel für die Frage nach der rechtlichen Bewertung der Notstandsproblematik – nämlich dem Töten eines Menschen, um das eigene Leben zu retten.",
-   "u": "https://de.wikipedia.org/wiki/Brett_des_Karneades",
+   "t": "Colin McLarty",
+   "s": "Colin McLarty (* 12. Juli 1951 in Lancaster (Pennsylvania)) ist ein US-amerikanischer mathematischer Logiker, Philosoph und Mathematikhistoriker.\nMcLarty studierte Mathematik am Case Institute of Technology (der späteren Case Western) mit dem Bachelor-Abschluss 1972 und Mathematik mit dem Master-Abschluss 1975 und wurde 1980 in Philosophie bei Raymond J. Nelson und Chin-Tai Kim promoviert (Things and Things in Themselves: The Logic of Reference in Leibniz, Lambert, and Kant). 1984 bis 1986 war er Lecturer an der Cleveland State University und dem Cleveland Art Institute und ab 1987 war er Professor für Philosophie an der Case Western Reserve University. Von 1996 bis 2010 stand er seiner Abteilung vor.\n2002 war er Gastprofessor an der University of Notre Dame und 1995/96 Gastwissenschaftler an der Harvard University.\nMcLarty veröffentlichte eine Einführung in die Kategorien- und Topos-Theorie, befasste sich philosophisch mit dem kategorientheoretischen strukturellen Aufbau der Mathematik und befasste sich mathematikhistorisch mit Emmy Noether (auch über deren politisches Engagement), Richard Courant, Henri Poincaré, Alexander Grothendieck, Platon und Saunders MacLane (einem der Begründer der Kategorientheorie).\nEr untersuchte die logischen Grundlagen von Andrew Wiles’ Beweis der Fermatvermutung und argumentiert, dass die Peano-Arithmetik ausreiche, also weniger als Wiles für seinen Beweis benutzte.\nEr gehört dem Grothendieck Circle an, der sich dem Vermächtnis von Alexander Grothendieck widmet.\nEr schrieb die Biographien von André Weil, Claude Chevalley, Jean Dieudonné, Garrett Birkhoff und Saunders MacLane (mit William Lawvere) für den New Dictionary of Scientific Biography.",
+   "u": "https://de.wikipedia.org/wiki/Colin_McLarty",
    "q": "Wikipedia"
   },
   {
-   "t": "Brillouin-Paradoxon",
-   "s": "Das Brillouin-Paradoxon ist ein erstmals 1950 von Léon Brillouin beschriebenes scheinbares Paradoxon der Thermodynamik und stellt ein elektrisches Analogon zur molekularen Ratsche bzw. zum maxwellschen Dämon dar. Das von Brillouin untersuchte System besteht aus einem elektrischen Widerstand und einer Diode in Parallelschaltung. Eine naive Betrachtung würde ergeben, dass das Wärmerauschen des Widerstandes von der Diode nur in einer Richtung erlaubt wird, sodass eine effektive elektrische Spannung abgegriffen werden könnte. Eine solche „Gleichrichtung der Wärmefluktuationen“ wäre ein Weg zur Schaffung eines Perpetuum mobiles zweiter Art, also ein Widerspruch zum Zweiten Hauptsatz der Thermodynamik. Eine Auflösung dieses Widerspruchs ist durch eine eingehendere Analyse möglich, der zweite Hauptsatz gilt demnach uneingeschränkt.",
-   "u": "https://de.wikipedia.org/wiki/Brillouin-Paradoxon",
+   "t": "Collège international de philosophie",
+   "s": "Das Collège international de philosophie (Ciph) im 5. Arrondissement von Paris ist eine offene Akademie, die 1983 von Jacques Derrida, François Châtelet, Jean-Pierre Faye und Dominique Lecourt gegründet wurde, um in Frankreich die Möglichkeiten für philosophische Forschung und Lehre jenseits der traditionellen Formen in der Universität und auf dem Gymnasium (Lycée) zu verbessern. Diese Gründung setzte die Reflexion fort, die sich in den États généraux de la philosophie (1979), an denen sich Derrida beteiligt hatte, manifestiert hatte.\nDie Institution ist dem Gesetz über Vereinigungen von 1901 unterworfen und erhält finanzielle Zuwendungen von der Regierung. Der Besuch der Veranstaltungen steht jedermann offen. Teilnehmer können das Diplom Diplôme du Collège international de philosophie erhalten, das jedoch kein Universitätsdiplom ist.",
+   "u": "https://de.wikipedia.org/wiki/Coll%C3%A8ge_international_de_philosophie",
    "q": "Wikipedia"
   },
   {
-   "t": "Buttered cat paradox",
-   "s": "Das buttered cat paradox, zu deutsch etwa gebutterte Katzen-Paradoxon oder freier Katzen-Butterbrot-Paradoxon ist ein humoristisches Gedankenexperiment, das auf der Kombination zweier Sinnsprüche basiert:\nKatzen landen immer auf ihren Pfoten.\nEin geschmiertes Brot landet immer auf der gebutterten Seite.\nDas Paradoxon stellt die Frage, was geschieht, wenn ein Toast mit der gebutterten Seite nach oben auf dem Rücken einer Katze befestigt und diese dann aus großer Höhe fallen gelassen wird. Diese von dem Künstler John Frazee aus Kingston, New York verbreitete Überlegung gewann im Jahr 1993 einen Wettbewerb des Magazins Omni zum Thema Paradoxa. Der Komiker und Jongleur Michael Davis präsentierte das Paradox in Form einer Forschungsfrage am 22. Juli 1988 in der Tonight Show with Johnny Carson.",
-   "u": "https://de.wikipedia.org/wiki/Buttered_cat_paradox",
+   "t": "Das Gegebene",
+   "s": "Als das Gegebene (bisweilen auch als ‚Gegebensein‘) bezeichnet man in verschiedenen Schulen der Kultur- und Geisteswissenschaften einen Aspekt der Erkenntnis, nämlich die Gesamtheit dessen, was einem Bewusstsein als Gegenstand gegenübersteht oder gegenüberstehen kann. Sie hat daher ontologischen Charakter und steht oft in bestimmtem Beziehungen zu Bewusstseinsinhalten. In lateinischer, neuzeitlicher Literatur findet sich auch der Ausdruck datum. Eine wichtige Rolle spielt die Vorstellung des Gegebenen als „unverfälschter“, aber eben auch noch unbegriffener Rohstoff der Erkenntnis. In der deutschsprachigen Philosophie des späten 19. und des frühen 20. Jahrhunderts und dann in der analytischen Philosophie, bezeichnet das Gegebene den wesentlichen Bestandteil eines Modells von fundamentionalistischen Erkenntnistheorien, einschließlich naiver empiristischer Standpunkte. Prominent ist die Kritik dieser Gegenüberstellung durch Wilfrid Sellars als „Mythos des Gegebenen“.",
+   "u": "https://de.wikipedia.org/wiki/Das_Gegebene",
    "q": "Wikipedia"
   },
   {
-   "t": "Carl Eduard Cramer (Publizist)",
-   "s": "Carl Eduard Cramer (* 26. April 1817 in Langenbach, Vogtland; † 30. April 1886 in Reudnitz bei Leipzig) war ein Privatgelehrter und kleinbürgerlicher, demokratischer Publizist in Leipzig. 1844 übernahm er als Redakteur die Sächsischen Vaterlands-Blätter. Er war einer der Führer des gemäßigten antirepublikanischen Flügels des Leipziger Vaterlandsvereins und trat für die „konstitutionelle Monarchie“ ein.\nCarl Eduard Cramer war der Vater von Rudolf Lavant (eigentlich Richard Cramer).",
-   "u": "https://de.wikipedia.org/wiki/Carl_Eduard_Cramer_%28Publizist%29",
+   "t": "Davoser Disputation",
+   "s": "Die Davoser Disputation (auch: Streitgespräch von Davos, offizielle Bezeichnung: „Arbeitsgemeinschaft Cassirer – Heidegger“) ist ein in der modernen Philosophiegeschichte berühmter Dialog, den der Kulturphilosoph und Semiotiker Ernst Cassirer und der Seinsphilosoph und Hermeneutiker Martin Heidegger am 26. März 1929 anlässlich der II. Internationalen Davoser Hochschulkurse (vom 17. März bis 6. April) im Hotel Belvédère des Schweizer Luftkurortes austrugen. Auf dem Symposium stand formal die kantische Frage „Was ist der Mensch?“ zum Thema, doch bereits im Vorfeld zeichnete sich ab, dass nicht nur die Repräsentanten zweier Generationen, sondern auch zweier philosophischer Weltanschauungen aufeinandertreffen würden. Die Kontroverse gilt in der Rezeption oft als Nachklang der Tradition öffentlicher Debatten von Philosophen zur Zeit der Scholastik.\nZur enormen Resonanz, die bis zur Gegenwart in der Fachliteratur anhält, trugen neben der philosophischen Gegensätzlichkeit des Disputs auch die besonderen zeitgeschichtlichen und gesellschaftspolitischen Aspekte bei, wie rückblickend zudem der Umstand, dass sich mit Cassirer und Heidegger an dem mondänen Schauplatz des fünf Jahre zuvor publizierten Romans Der Zauberberg in der letzten Phase vor der Weltwirtschaftskrise und dem Ende der Goldenen Zwanziger Jahre ein bald aus NS-Deutschland fliehender Jude und ein künftiges Mitglied der NSDAP gegenüberstanden.\nIn diesem Artikel wird die in der Heidegger-Gesamtausgabe publizierte Version des Disputs zugrunde gelegt, die der Cassirer-Nachlassausgabe wird ergänzend hinzugefügt. In einem Fall wird auf die von Guido Schneeberger publizierte Fassung verwiesen.",
+   "u": "https://de.wikipedia.org/wiki/Davoser_Disputation",
    "q": "Wikipedia"
   },
   {
-   "t": "Chinesisches Zimmer",
-   "s": "Das Chinesische Zimmer ist der Name für ein Gedankenexperiment des Philosophen John Searle. Mit seiner Hilfe versucht Searle die Meinung zu widerlegen, dass digitale Computer allein dadurch Bewusstsein erlangen könnten, dass sie ein passendes Programm ausführen.\nBei dem Gedankenexperiment stellt man sich einen geschlossenen Raum vor, in dem ein Mensch, der keinerlei Chinesisch versteht, in chinesischer Schrift gestellte Fragen – anhand einer in seiner Muttersprache verfassten Anleitung – in chinesischer Schrift sinnvoll beantwortet. Personen außerhalb des Raums folgern aus den Ergebnissen, dass der Mensch in dem Raum Chinesisch beherrscht, obwohl das nicht der Fall ist.\nDas Experiment sollte zeigen, dass ein Computer ein Programm ausführen und regelbasiert Zeichenreihen verändern kann, ohne die Bedeutung der Zeichen zu verstehen. Die Fähigkeit, Syntax zu befolgen, soll nach Searle also nicht zu Semantik befähigen. Nach Searle müsste ein Computer dafür Intentionalität aufweisen.\nMit Hilfe seines Gedankenexperimentes wollte Searle nachweisen, dass es nicht ausreicht, dass eine programmierte Rechenmaschine den Turing-Test besteht, um als intelligent zu gelten. Erfolg im Turing-Test stelle also kein ausreichendes Kriterium für sogenannte starke künstliche Intelligenz dar. Darüber hinaus stellt es die komputationalen Theorien des Geistes in Frage.\nDas Gedankenexperiment wird von Searle 1980 in seinem Aufsatz Minds, Brains, and Programs eingeführt.",
-   "u": "https://de.wikipedia.org/wiki/Chinesisches_Zimmer",
+   "t": "Denklehrpfad",
+   "s": "Der Denklehrpfad ist ein Kunstprojekt in Grebenstein (Nordhessen) rund um die Burgruine Grebenstein.\nAuf dem Denklehrpfad I kann man einen 13-teiligen Aufstieg durch 2500 Jahre Philosophiegeschichte von Heraklit bis Wittgenstein durchwandern.\nDer Pfad beginnt am Burgtor mit einem Zitat Heraklits: „Die Sonne ist so breit wie ein menschlicher Fuß.“ und endet auf der Aussichtsplattform der Burgruine mit dem Wittgenstein-Zitat: „Steige immer aus den kahlen Höhen der Gescheitheit in die grünenden Täler der Dummheit.“\n2007 entstand der zweite Pfad mit dem Namen „Denklehrpfad II: der morgenländische Weg“, der sich mit 3000 Jahren asiatischen Denkens beschäftigt, und 2009 der „Denklehrpfad III: ein literarischer Parcours von Homer bis Handke“.\nDie Zitate sind in Bänke und Steine aus rotem chinesischen Granit eingemeißelt.",
+   "u": "https://de.wikipedia.org/wiki/Denklehrpfad",
    "q": "Wikipedia"
   },
   {
-   "t": "Collegium Philosophie",
-   "s": "Die Nordwestkapelle der Salzburger Kollegienkirche ist der Philosophischen Fakultät gewidmet. Auf dem Altarblatt, für das 1720 lediglich 54 fl gezahlt wurden, ist die hl. Katharina von Alexandrien dargestellt, wie sie von Engeln emporgetragen wird, unter ihr ein (unbekannter) Stifter, mit einem Grundriss in der Linken. Die ältere Zuschreibung des Bildes an den Augsburger Maler Johann Georg Bergmüller kann nicht aufrechterhalten werden. Die seitlichen Statuen stellen die hll. Lanfrankus und Beda Venerabilis dar, beide von Josef Anton Pfaffinger.\nIn den Wandnischen befinden sich die Statuen der hll. Josef von Nazaret (Pfaffinger), Joachim, Anna und Johannes der Täufer (Pfaffinger).",
-   "u": "https://de.wikipedia.org/wiki/Collegium_Philosophie",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Dataismus",
-   "s": "Der Begriff Dataismus (nicht zu verwechseln mit der künstlerischen und literarischen Bewegung Dadaismus) ist ein Begriff, der verwendet wurde, um die Denkweise oder Philosophie zu beschreiben, die durch die aufkommende Bedeutung von Big Data geschaffen wurde. Er wurde erstmals von David Brooks in der New York Times im Jahr 2013 verwendet. In jüngerer Zeit ist der Begriff erweitert worden, um das zu beschreiben, was der Sozialwissenschaftler Yuval Noah Harari eine aufkommende Ideologie oder sogar eine neue Form von Religion genannt hat, in der der „Informationsfluss der höchste Wert“ ist.",
-   "u": "https://de.wikipedia.org/wiki/Dataismus",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Diktum",
-   "s": "Diktum (Mehrzahl: Dikta) ist ein Ausdruck für einen bedeutsamen, pointierten Ausspruch, eigentlich das Gesagte. Der Begriff stammt ursprünglich aus dem Lateinischen und ist das Partizip Perfekt Passiv von dicere, sagen.\nSpeziell bezeichnet Diktum\neine festgelegte Lehrmeinung in den Wissenschaften, an der oft zäh festgehalten wird. Die Änderung eines Diktums lässt sich in der Regel nur mit einer Vielzahl unzweifelhafter Beweise unter großen Widerständen durchsetzen. Dennoch ist die Aussage solcher Lehrsätze prinzipiell verhandelbar. In der Verhandelbarkeit und damit in der Möglichkeit seiner Aufhebung unterscheidet sich das Diktum vom Dogma.\neine Anordnung. Damit sinnverwandt ist auch das Wort Diktat, von dem die Herrschaftsform Diktatur abgeleitet wird.\nDer in der Literaturwissenschaft verwendete Oberbegriff ist Apophthegma.",
-   "u": "https://de.wikipedia.org/wiki/Diktum",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Dong Wuxin",
-   "s": "Dong Wuxin (chinesisch 董無心), auch Dongzi (董子 – „Meister Dong“), war ein Atheist in China zur Zeit der Streitenden Reiche. Im 31. Kapitel des Buches Mozi (Meister Mo) wird berichtet, dass Dong einmal mit einigen Schülern des Meisters Mo (Mo Di) debattierte, ob Götter und Geister auf der Welt existierten. Gemäß der Geschichte der Han-Dynastie (Hanshu) bestritt er auch in seiner Schrift Dongzi (Meister Dong) eindeutig die Existenz der Götter und des Mandats des Himmels, welche jedoch unglücklicherweise schon vor langer Zeit verloren gegangen ist.",
-   "u": "https://de.wikipedia.org/wiki/Dong_Wuxin",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Einstein-Podolsky-Rosen-Paradoxon",
-   "s": "Das Einstein-Podolsky-Rosen-Paradoxon, auch EPR-Paradoxon, oder EPR-Effekt, ist ein im 20. Jahrhundert intensiv diskutiertes quantenmechanisches Phänomen. Der Effekt wurde nach Albert Einstein, Boris Podolsky und Nathan Rosen benannt, die dieses Phänomen im Rahmen eines Gedankenexperiments vorstellten. Zuweilen wird auch von einem EPR-Argument gesprochen. Es zeigt beispielhaft, dass die Quantenmechanik gegen die Annahme der Lokalität verstößt, die eine der Grundannahmen der klassischen Physik ist.\nEinstein sprach in diesem Zusammenhang auch von einer „spukhaften Fernwirkung“.",
-   "u": "https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Empraxis",
-   "s": "Der Begriff Empraxis ist ein gräzisierter Neologismus mit der Grundbedeutung „leiblich eingebundenes Handeln, Vollzugswissen“. Er wurde von dem Sprachtheoretiker und Psychologen Karl Bühler in seinem Buch Sprachtheorie – Die Darstellungsform der Sprache in die deutsche Sprachphilosophie eingeführt. Pirmin Stekeler-Weithofer verwendet den Begriff in seiner Philosophie des Selbstbewusstseins und Volker Caysa hat ihn im Kontext mit der Sportphilosophie für die Anthropologie des Körpers weiterentwickelt. Der Begriff wird auch transdisziplinär in Bezug auf die Kunst diskutiert.",
-   "u": "https://de.wikipedia.org/wiki/Empraxis",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Entwicklung",
-   "s": "Entwicklung – seltener Entfaltung – bezeichnet allgemein den Vorgang des Wandels von der Entstehung eines Phänomens über verschiedene Stadien der Veränderung oder auch des Verfalls bis zum gegenwärtigen oder einem vorher bestimmten Zustand (der auch in der Zukunft liegen kann). Offene Entwicklungsprozesse ohne (bekannten) Endzustand sind zeitlich unbegrenzt und meistens nicht direkt beobachtbar, sondern erst in der Rückschau zu erkennen. Je nach Gegenstand werden sie in Jahren bis Jahrmillionen beschriebenen.\nIm Alltag wird der Ausdruck Entwicklung vor allem für die Lebensgeschichte von Personen, entscheidende Veränderungen in Gesellschaft und Politik und für den technischen Fortschritt verwendet.",
-   "u": "https://de.wikipedia.org/wiki/Entwicklung",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Ethik",
-   "s": "Die Ethik ist jener Teilbereich der Philosophie, der sich mit den Voraussetzungen und der Bewertung menschlichen Handelns befasst. Ihr Gegenstand ist damit die Moral insbesondere hinsichtlich ihrer Begründbarkeit und Reflexion. Cicero übersetzte als erster ēthikḕ téchnē (die ethische Kunst) in den seinerzeit neuen Begriff philosophia moralis (Philosophie der Sitten). In seiner Tradition wird die Ethik auch heute noch als Moralphilosophie bezeichnet.\nDie Ethik und ihre benachbarten Disziplinen (z. B. Rechts-, Staats- und Sozialphilosophie) werden auch als „praktische Philosophie“ zusammengefasst, da sie sich mit dem menschlichen Handeln befasst. Im Gegensatz dazu steht die „theoretische Philosophie“, zu der als klassische Disziplinen die Logik, die Erkenntnistheorie und die Metaphysik gezählt werden.\nIhr entsprechen in der Religionswissenschaft die religionsgeschichtliche Erforschung der Sittlichkeit (Moral) sowie vor allem die kath. Moraltheologie und die ev. theologische Ethik, die wiederum Teilgebiete der christlichen systematischen Theologie sind.",
-   "u": "https://de.wikipedia.org/wiki/Ethik",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Feministische Erkenntnistheorie",
-   "s": "Unter feministischer Erkenntnistheorie werden Erklärungsmodelle zusammengefasst, die soziokulturelle und politische Einflüsse des Geschlechts auf die Gewinnung von Erkenntnis und Wissen zum Gegenstand haben. Alle diese Modelle gehen davon aus, dass Frauen dabei historisch stets benachteiligt waren und es gegenwärtig immer noch sind: Frauen würde einerseits der Zugang zu den Institutionen der Wissensproduktion erschwert und andererseits erhielten ihre Erkenntnisse nicht denselben Status wie die ihrer männlicher Kollegen. Durch diesen Ausschluss werde nicht nur die wissenschaftliche Tätigkeit von Frauen herabgewürdigt, sondern es entstehe auch ein Defizit im Erkenntnisprozess der Wissenschaften.",
-   "u": "https://de.wikipedia.org/wiki/Feministische_Erkenntnistheorie",
+   "t": "Evolutionärer Humanismus",
+   "s": "Evolutionärer Humanismus ist die Selbstbezeichnung einer Reihe von humanistischen Weltanschauungen, die die Einbindung des Menschen in die biologische Evolution betonen. Der Ausdruck wurde von Julian Huxley englisch als Evolutionary Humanism in Essays of a Humanist (1964) geprägt. Nach Gerhard Vollmer unterscheiden sich nach dem Zweiten Weltkrieg entstandene humanistische Strömungen, wie der evolutionäre Humanismus (aber auch der Transhumanismus), durch ihre Begründungsgrundlage von traditionellen humanistischen Entwürfen. Diese begründeten ihr Welt- und Menschenbild geisteswissenschaftlich, u. a. im Bezug auf metaphysische Systeme, also auf Transzendentes (siehe Theistische Evolution). Die jüngeren humanistischen Entwürfe verzichten auf Rechtfertigungsgründe außerhalb der erfahrbaren Welt und betonen die Natur- und Sozialwissenschaften, erweitern dabei aber auch den Evolutionsbegriff um soziale und kulturelle Dimensionen. In Nachfolge von Huxley nennt Vollmer Michael Schmidt-Salomon und Gerhard Engel als Vertreter des evolutionären Humanismus.",
+   "u": "https://de.wikipedia.org/wiki/Evolution%C3%A4rer_Humanismus",
    "q": "Wikipedia"
   },
   {
@@ -154,33 +64,21 @@
    "q": "Wikipedia"
   },
   {
-   "t": "Gedankenexperiment",
-   "s": "Ein Gedankenexperiment (auch Gedankenversuch) ist ein Hilfsmittel, um eine bestimmte Theorie zu untermauern, zu widerlegen, zu veranschaulichen oder weiterzudenken. Es wird dabei in der Vorstellung eine Situation konstruiert, die real so nicht oder nur sehr schwer herzustellen ist (zum Beispiel eine Reise mit annähernd Lichtgeschwindigkeit oder Schrödingers Katzen-Experiment). Sodann malt man sich im Geiste aus, welche Folgen sich aus dieser Situation ergeben, wenn man die Theorie auf die Situation anwendet. Ein Experiment wird also in Gedanken simuliert. Ein Gedankenexperiment ist jedoch kein Experiment im eigentlichen Sinne. Letzteres beleuchtet oder überprüft eine Theorie durch empirische Anschauung von außen, ein Gedankenexperiment ist jedoch innerhalb von Theorien bzw. in geistigen Dimensionen angesiedelt, der empirische Aspekt fehlt.",
-   "u": "https://de.wikipedia.org/wiki/Gedankenexperiment",
+   "t": "Forschungsinstitut für Philosophie Hannover",
+   "s": "Das Forschungsinstitut für Philosophie Hannover (FIPH) mit Sitz in Hannover ist das erste philosophische Institut in katholischer Trägerschaft in Deutschland. Direktor ist seit Oktober 2009 Jürgen Manemann.\nDie öffentlich-rechtliche Stiftung wurde 1988 durch den damaligen Bischof von Hildesheim, Josef Homeyer, gegründet. Die Institution ist Mitglied der Deutschen Gesellschaft für Philosophie (DGPhil), der Gesellschaft für Interkulturelle Philosophie (GIP) und des Instituts für Sozialstrategie (IfS).",
+   "u": "https://de.wikipedia.org/wiki/Forschungsinstitut_f%C3%BCr_Philosophie_Hannover",
    "q": "Wikipedia"
   },
   {
-   "t": "Gehirn im Tank",
-   "s": "Das Gehirn im Tank (englisch brain in a vat) ist ein Argument, das in einer Vielzahl von philosophischen Gedankenexperimenten genutzt wird. Es soll Konzepte wie Wissen, Realität, Wahrheit, Geist, Bewusstsein und Bedeutung hinterfragen.\nVorgestellt wird dabei ein in einem Tank künstlich am Leben gehaltenes Gehirn, das von einem Computer mit elektrischen Impulsen stimuliert wird, so wie es die Nervenleitungen eines realen Körpers tun würden, sodass sich aus der Perspektive des Gehirns eine (simulierte) Realität ergibt. Es stellt sich dann die Frage, ob das Gehirn feststellen kann, ob es in einer realen Umgebung, also einem realen Körper, oder in einer simulierten Realität steckt, und ob dies ethisch und erkenntnistheoretisch relevant ist.\nHilary Putnam hat einen viel diskutierten Versuch der Widerlegung des Arguments präsentiert.",
-   "u": "https://de.wikipedia.org/wiki/Gehirn_im_Tank",
+   "t": "Francisco Miró Quesada Cantuarias",
+   "s": "Francisco Miró Quesada Cantuarias (* 21. Dezember 1918 in Lima; † 11. Juni 2019) war ein peruanischer Philosoph, Journalist und Politiker.\nEr leistete kritische Beiträge zur Ideengeschichte und Rolle der menschlichen Natur. Außerdem prägte er 1976 den Begriff der parakonsistenten Logiken und trug zur Ausdifferenzierung der nichtklassischen Logiken als Forschungsfeld bei. Ab 1990 hielt er als erster Südamerikaner den Vorsitz der Fédération Internationale des Sociétés de Philosophie inne.\nSeine Eltern waren der Journalist Óscar Miró Quesada de la Guerra und María Josefina Cantuarias Dañino. Sein Vater leitete die Redaktion bei El Comercio. Er studierte an der Päpstlichen Katholischen Universität von Peru. Seine Promotion erhielt er von der Universidad Nacional Mayor de San Marcos über ein Thema der Kategorientheorie. Bis 1953 unterrichtete er an der San Marcos und erwarb zudem Abschlüsse in Mathematik und den Anwaltstitel.\n1952 erhielt er ein UNESCO-Stipendium für eine Reise durch Europa. In Frankreich, England und Italien engagierte er sich dabei als Dozent in der Lehramtsausbildung für Sekundarschulen.\n1963 berief ihn Fernando Belaúnde Terry von der Partei Acción Popular zum Bildungsminister. Im Oktober 1964 trat er zurück. Es standen dabei Vorwürfe der Veruntreuung im Raum. Unter der Herrschaft von Francisco Morales Bermúdez galt er als enger Berater der Kabinetts. Er hielt in dieser Zeit Lehrstühle an der Universidad Cayetano Heredia und der Universidad de Lima. Im Alter von 70 Jahren wechselte er von der Universität Lima an die Universidad Ricardo Palma.\nEr veröffentlichte dabei regelmäßig in der Zeitung El Comercio, die im Familienbesitz war. Zwischen 2003 und 2008 leitete er deren Redaktion.",
+   "u": "https://de.wikipedia.org/wiki/Francisco_Mir%C3%B3_Quesada_Cantuarias",
    "q": "Wikipedia"
   },
   {
-   "t": "George D. Chryssides",
-   "s": "George David Chryssides (* 1945) ist ein britischer Religionswissenschaftler und Forscher, dessen Arbeit sich auf neue religiöse Bewegungen (NRMs) konzentriert.\nEr lehrte an mehreren britischen Universitäten und wurde 2001 zum Leiter der Abteilung für Religionswissenschaften an der University of Wolverhampton ernannt. Aktuell ist er ehrenamtlicher Forschungsstipendiat für zeitgenössische Religion an der York St John University und der University of Birmingham.\nChryssides ist Autor zahlreicher Bücher und Fachartikel. Seine wissenschaftliche Arbeit widmet sich der akademischen Erforschung neuer religiöser Bewegungen. Er ist Präsident der International Society for the Study of New Religions und Mitglied des Verwaltungsrates (Governor) von INFORM (Information Network Focus on Religious Movements), einer Organisation mit Sitz am King’s College London.",
-   "u": "https://de.wikipedia.org/wiki/George_D._Chryssides",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Geschichtsphilosophie",
-   "s": "Geschichtsphilosophie ist eine Teildisziplin der Philosophie, die sich mit Fragen um die menschliche Geschichte beschäftigt.\nDer Begriff wurde im Zeitalter der Aufklärung von Voltaire geprägt.\nWie das Wort „Geschichte“, das sowohl das geschichtliche Geschehen als auch seine Darstellung in der Geschichtsschreibung bezeichnet, lassen sich auch für die Geschichtsphilosophie zwei Ausrichtungen unterscheiden: Zum einen bietet sie Anreiz zum Nachdenken über Verlauf und Ziel der Geschichte, über das Vorhandensein und die Nachweisbarkeit allgemeiner Gesetzmäßigkeiten ihrer Entwicklung und über einen eventuell ihr innewohnenden Sinn. Zum anderen reflektiert sie die wissenschaftlichen Methoden der forschenden und darstellenden Historiker. Soll sie mehr sein als bloße Spekulation, so muss sie auf den einzelnen empirischen Erkenntnissen der Geschichtswissenschaft basieren. In der ersteren Bedeutung wird sie auch als spekulative, substantielle oder materiale Geschichtsphilosophie bezeichnet; in der letzteren als kritische, analytische oder formale Geschichtsphilosophie.",
-   "u": "https://de.wikipedia.org/wiki/Geschichtsphilosophie",
-   "q": "Wikipedia"
-  },
-  {
-   "t": "Gettier-Problem",
-   "s": "Das Gettier-Problem entsteht aus einem Einwand gegen die sogenannte klassische Analyse des Wissens (KAW oder englisch JTB für Justified True Belief). Diese definiert Wissen als Meinung (Überzeugung), die gerechtfertigt und wahr ist. Dem wird entgegnet, dass eine gerechtfertigte und wahre Meinung aber auch durch Zufall wahr sein kann. Dies wiederum bedeute, dass diese Meinung dann kein Wissen sei, wie die KAW aber behaupte. Deswegen sei die KAW falsch. Das Gettier-Problem besteht nun darin, die KAW so zu verbessern, dass sie mit derartigen Fällen zufällig wahrer gerechtfertigter Meinung umgehen kann, oder sie durch eine andere, bessere Analyse ersetzt. Das Problem geht auf den berühmten, nur drei Seiten umfassenden Aufsatz Is Justified True Belief Knowledge? (1963) (dt. Ist gerechtfertigte, wahre Meinung Wissen? 1987) des US-amerikanischen Philosophen Edmund Gettier zurück. Das Gettier-Problem ist eines der Hauptprobleme der gegenwärtigen Erkenntnistheorie.",
-   "u": "https://de.wikipedia.org/wiki/Gettier-Problem",
+   "t": "Fédération Internationale des Sociétés de Philosophie",
+   "s": "Die Fédération Internationale des Sociétés de Philosophie (FISP) ist die 1948 gegründete Vereinigung der nationalen philosophischen Gesellschaften. Ihr Hauptsitz ist Freiburg im Üechtland (Schweiz). Zu den Mitgliedsgesellschaften zählen die Deutsche Gesellschaft für Philosophie, die Österreichische, die Schweizerische oder die Polnische Philosophische Gesellschaft. Der Präsident wird jeweils für eine Amtsdauer von fünf Jahren gewählt. Momentaner Präsident ist W. McBride (West Lafayette).\nDie FISP organisiert seit 1948 alle fünf Jahre den Weltkongress für Philosophie (bis 1968: Internationaler Kongress für Philosophie, Congrès International de Philosophie). Der erste internationale Kongress für Philosophie wurde im Jahr 1900 anlässlich der Weltausstellung in Paris im Jahr 1900 von den französischen Philosophen Louis Couturat und Xavier Léon veranstaltet. Bis ihn die FISP 1948 übernahm, fand der Kongress unregelmäßig statt.\nDie FISP organisiert auch seit 1993 alljährlich die Internationale Philosophie-Olympiade.",
+   "u": "https://de.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_Internationale_des_Soci%C3%A9t%C3%A9s_de_Philosophie",
    "q": "Wikipedia"
   },
   {
@@ -190,57 +88,159 @@
    "q": "Wikipedia"
   },
   {
-   "t": "Gravitationstunnel",
-   "s": "Ein Gravitationstunnel ist ein physikdidaktisches Gedankenexperiment, bei dem sich ein Zug reibungsfrei und antriebslos in einem Tunnel durch die Erde bewegt. Bis zum tiefsten Punkt der Strecke beschleunigt die Gravitation den Zug und bremst ihn dann wieder ab. Gefragt ist nach der Reisezeit für einen geraden Tunnel durch den Mittelpunkt oder für eine Sekante, oder auch nach dem Verlauf eines gekrümmten Tunnels für eine minimale Reisezeit. Üblicherweise wird dabei die Erde als homogen und nicht rotierend angenommen.\nDie Problemstellung wurde bereits von dem britischen Physiker Robert Hooke im 17. Jahrhundert in einem Brief an Isaac Newton beschrieben. Sie wird manchmal als Konzept eines Transportsystems aufgefasst statt als physikalische Rechenübung, wird aber überwiegend im Bereich Science Fiction angesiedelt, eine Realisierbarkeit ist mehr als fraglich.",
-   "u": "https://de.wikipedia.org/wiki/Gravitationstunnel",
+   "t": "Harsh Narain",
+   "s": "Harsh Narain (* 23. April 1921 in Bansdih; † 1995) war ein indischer Philosoph, Autor und Indologe. Er hat einen Doktorgrad der Lucknow University und war Professor an der Benares Hindu University, Aligarh Muslim University und North Eastern Hill University.\nEr schrieb über den Buddhismus, Islam, Vedanta, Bertrand Russell, Mahatma Gandhi und Muhammad Iqbal. Er sprach mehrere Sprachen, darunter Sanskrit, Pali, Persisch, Arabisch, Englisch, Hindi und Urdu.",
+   "u": "https://de.wikipedia.org/wiki/Harsh_Narain",
    "q": "Wikipedia"
   },
   {
-   "t": "Handlungstheorie (Philosophie)",
-   "s": "Als Handlungstheorie wird eine philosophische Theorie bezeichnet, die sich mit dem Handlungsbegriff befasst. Obwohl sich systematisch in der Philosophiegeschichte in Schlüsseltexten der Ethik und der Metaphysik, vor allem im Zusammenhang mit der Problematik der Willensfreiheit und der Verantwortung, Handlungstheorien oder Ansätze dazu ausmachen lassen, ist sie als eigenständige Disziplin erst in der analytischen Philosophie der zweiten Hälfte des 20. Jahrhunderts auszumachen, wobei sie viel mit der Philosophie des Geistes verbindet. Im Fokus der zeitgenössischen Debatten stehen drei thematische Felder: die Natur von Handlungen, Handlungsbeschreibungen und Handlungserklärungen. Im Besonderen befassen sich Handlungstheorien mit Handlungsgründen und Ursachen, mit dem Verhältnis zwischen Ereignissen und Handlungen, mit Intentionen und intentionalen Handlungen, mit der logischen Form von Handlungssätzen, mit sogenannten Basishandlungen und mit der Suche nach einem Ordnungsprinzip menschlicher Handlungsarten.\nDie Frage der mentalen Verursachung und die Beziehung zwischen dem handelnden Subjekt und der Situation steht dabei häufig im Vordergrund. Während sich die Debatte anfangs darum drehte, ob die Gründe, die das Subjekt für seine Handlung vorbringt, in einer Kausalbeziehung oder einer bloßen Rechtfertigungsbeziehung dazu stehen, stellen spätere Handlungstheorie die Relevanz des Willensaktes für Handlungen ganz in Frage.",
-   "u": "https://de.wikipedia.org/wiki/Handlungstheorie_%28Philosophie%29",
+   "t": "Jean-Nicod-Preis",
+   "s": "Der Jean-Nicod-Preis (französisch Prix Jean Nicod) wird seit 1993 zumeist jährlich in Paris für außergewöhnliche Leistungen im Bereich Philosophie des Geistes oder Kognitionswissenschaft vergeben. Der Preis wurde mit dem Ziel ausgelobt, den Austausch zwischen Philosophie und Kognitionswissenschaft in Frankreich zu verstärken. Mittlerweile gilt der Nicod-Preis als eine der international wichtigsten Auszeichnungen in dem beschriebenen Forschungsbereich.\nDer Preis wird vom Centre national de la recherche scientifique (CNRS) verliehen und von der École normale supérieure (ENS) sowie der École des Hautes Études en Sciences Sociales (EHESS) unterstützt. Er ist nach dem französischen Philosophen Jean Nicod (1893–1924) benannt. Die Auswahlkommission ist durch die bekanntesten französischen Forscher auf den Gebieten der Philosophie des Geistes und der Kognitionswissenschaft zusammengesetzt, also etwa aus Jean-Pierre Changeux und Pierre Jacob.\nDer Preis ist in der Regel mit einer Vorlesung der oder des Ausgezeichneten verbunden und diese wird als Monographie in der Reihe Jean Nicod Lectures von MIT Press veröffentlicht.",
+   "u": "https://de.wikipedia.org/wiki/Jean-Nicod-Preis",
    "q": "Wikipedia"
   },
   {
-   "t": "Infinite-Monkey-Theorem",
-   "s": "Das Infinite-Monkey-Theorem (englisch infinite ‚unendlich‘, monkey ‚Affe‘ und theorem ‚Lehrsatz‘), auch deutsch Theorem der endlos tippenden Affen, besagt, dass ein Affe, der unendlich lange zufällig auf einer Schreibmaschine herumtippt, fast sicher irgendwann alle Bücher in der Bibliothèque nationale de France, der Nationalbibliothek Frankreichs, schreiben wird. In englischsprachigen Ländern heißt es, dass so irgendwann die Werke William Shakespeares entstehen werden.\nEine von mehreren Varianten des Theorems geht von einer unendlichen Anzahl von Affen aus, die gleichzeitig auf Schreibmaschinen herumtippen, und behauptet, dass mindestens einer von ihnen direkt und ohne Fehler die oben genannten Werke eintippen wird.\nDie Formulierung des Theorems soll verblüffen und bedient sich daher einer bildlichen Sprache. Das Theorem ist wissenschaftlichen Ursprungs und hat einen mathematisch fundierten Hintergrund. Es verdeutlicht in Form eines Beispiels eine Aussage der Wahrscheinlichkeitstheorie, das Lemma von Borel und Cantelli. Das aus dem Theorem resultierende Gedankenexperiment kann bei der Vorstellung von Unendlichkeit und der Einordnung von Wahrscheinlichkeiten nützlich sein und wird auch zu diesen Zwecken gebraucht.\nDie Motive „unendlich viele Affen an Schreibmaschinen“, „ein ewig auf einer Schreibmaschine tippender Affe“ sowie „zufällige Entstehung sinnvoller Texte“ fanden in Literatur und Popkultur Anklang und wurden vielfach benutzt.",
-   "u": "https://de.wikipedia.org/wiki/Infinite-Monkey-Theorem",
+   "t": "Laplacescher Dämon",
+   "s": "Der Laplacesche Dämon ist die Veranschaulichung der erkenntnis- und wissenschaftstheoretischen Auffassung, nach der es im Sinne der Vorstellung eines geschlossenen mathematischen Weltgleichungssystems möglich ist, unter der Kenntnis sämtlicher Naturgesetze und aller Initialbedingungen wie Lage, Position und Geschwindigkeit aller im Kosmos vorhandenen physikalischen Teilchen jeden vergangenen und jeden zukünftigen Zustand zu berechnen und zu determinieren. Nach dieser Aussage wäre es theoretisch möglich, eine Weltformel aufzustellen.",
+   "u": "https://de.wikipedia.org/wiki/Laplacescher_D%C3%A4mon",
    "q": "Wikipedia"
   },
   {
-   "t": "Kognitivismus",
-   "s": "Der Kognitivismus bezeichnet eine Hauptströmung der Lerntheorien. Sie ist vom Behaviorismus und Konstruktivismus zu unterscheiden und geprägt von den unterschiedlichen Einflüssen der Disziplinen Philosophie, Psychologie und Linguistik. Im Mittelpunkt des Kognitivismus stehen die individuelle Informationsverarbeitung sowie die dazugehörigen Denk- und Verarbeitungsprozesse der Lernenden.\nDie ersten Wurzeln des Kognitivismus finden sich in den 1950er Jahren und basieren hauptsächlich auf den Arbeiten von Edward Tolman (Wegbereiter des Kognitivismus), Kurt Lewin (Gestaltpsychologe), Jerome Bruner (Initiator der kognitiven Wende – die Entwicklungsphase vom Behaviorismus zum Kognitivismus) und Jean Piaget (Entwicklungspsychologe). Weitere wichtige Vertreter des Kognitivismus sind Jerry Fodor mit seiner Modularitätstheorie des Geistes und Dietrich Dörner mit der PSI-Theorie.",
-   "u": "https://de.wikipedia.org/wiki/Kognitivismus",
+   "t": "Lauener Preis",
+   "s": "Die Lauener Preise werden seit 2004 jährlich und seit 2010 zweijährlich von der Lauener-Stiftung für analytische Philosophie mit Sitz in Bern vergeben. Die Lauener-Stiftung wurde im Jahr 2003 aufgrund des Wunsches und des Testaments von Henri Lauener gegründet. Der Lauener Preis für analytische Philosophie wird für ein herausragendes philosophisches Gesamtwerk beziehungsweise für die vielversprechenden Leistungen eines Nachwuchsphilosophen vergeben.",
+   "u": "https://de.wikipedia.org/wiki/Lauener_Preis",
    "q": "Wikipedia"
   },
   {
-   "t": "Kulturphilosophie",
-   "s": "Mit Kulturphilosophie wird eine Philosophie bezeichnet, die Kulturtheorien formuliert, dabei Distanz zu traditionellen Auffassungen zum Ausdruck bringt und kulturelle Phänomene reflektiert. Sie entwickelte sich um die Wende des 19./20. Jahrhunderts im Zusammenhang gesellschaftlicher und politischer Veränderungen der Vor-, Kriegs- und Nachkriegszeit des Ersten Weltkrieges. Intellektuelle (z. B. Simmel und Valéry) stellten anlässlich der Millionen von Toten und eines allseitigen Normenverlustes die kulturtragenden Theorien idealistischer Philosophien, vor allem der Hegels und Kants in Frage oder verwarfen sie. Heute wird Kulturphilosophie auch der in den 1980ern aufkommenden Kulturwissenschaft zugeordnet. Ihre Vertreter distanzieren sich von der Begrenzung ihrer Wissenschaft auf eine Schulwissenschaft der Philosophie.",
-   "u": "https://de.wikipedia.org/wiki/Kulturphilosophie",
+   "t": "Lifeboat ethics",
+   "s": "Der Umweltwissenschaftler Garrett Hardin publizierte 1974 zwei Artikel, in denen er ein Bild zu erklären versuchte, das er Lifeboat ethics nannte. Der Term kann in etwa mit Ethik im Rettungsboot übersetzt werden. Diese Artikel schließen an seine 1968 publizierten Artikel an, die gemeinhin als „Tragik der Allmende“ bekannt sind.\nDas Bild ist das Folgende: Angenommen, es gibt ein Rettungsboot im Meer, mit fünfzig Personen an Bord. Im Boot gibt es Platz für zehn weitere Personen. Im Meer um das Boot herum schwimmen etwa hundert Personen. Die ethischen Überlegungen rührten vom Dilemma her, ob, und wenn ja, welche weiteren Personen unter welchen Bedingungen aufgenommen werden sollten.\nHardin verglich diese Metapher mit dem Modell des Raumschiffs Erde zur Verteilung von Ressourcen. Er kritisierte das Modell: Das Raumschiff würde durch eine Einzelperson gelenkt, allerdings gebe es diese Situation auf der Erde nicht. Gemäß Hardin führt dies zur „Tragik der Allmende“. Das Modell des Rettungsbootes steht im Gegensatz dazu: Rettungsboote seien reiche Länder, Schwimmer arme Länder.",
+   "u": "https://de.wikipedia.org/wiki/Lifeboat_ethics",
    "q": "Wikipedia"
   },
   {
-   "t": "Library of Russian Philosophy",
-   "s": "Die Library of Russian Philosophy (Bibliothek der russischen Philosophie) bzw. Esalen-Lindisfarne Library of Russian Philosophy oder Esalen Institute/Lindisfarne Press Library of Russian Philosophy ist eine englischsprachige Buchreihe zur russischen Philosophie vom Esalen Institute und der Lindisfarne Press, die seit Mitte der 1980er Jahre im Verlag Lindisfarne Books erscheint. Darin sind größtenteils Übersetzungen russischer Werke bekannter russischer Philosophen enthalten, z. B. von Solowjow, Bulgakow und Berdjajew.",
-   "u": "https://de.wikipedia.org/wiki/Library_of_Russian_Philosophy",
+   "t": "Liminalität",
+   "s": "Liminalität ist ein 1963 vom Ethnologen Victor Turner geprägter Begriff. Er beschreibt einen Schwellenzustand, in dem sich Individuen oder Gruppen befinden, nachdem sie sich rituell von der herrschenden Sozialordnung gelöst haben. Turner unterscheidet im Rückgriff auf Arnold van Gennep bei den Übergangsriten drei Phasen: die Trennungs-, die Schwellen- und die Angliederungsphase. Liminalität befindet sich in der zweiten Phase, dem Schwellenzustand. Beispiele sind die Initiationsriten archaischer Gesellschaften oder Revolutionen industrialisierter bzw. moderner Gesellschaften.\nWährend der liminalen Phase befinden sich die Individuen in einem mehrdeutigen Zustand. Das Klassifikationssystem der (alltäglichen) Sozialstruktur wird aufgehoben. Die Individuen besitzen weder Eigenschaften ihres vorherigen Zustandes noch welche des zukünftigen – sie sind „betwixt and between“.\nIm Falle des klassischen Initiationsritus sind die Passanten während der liminalen Phase keine Kinder mehr, aber auch noch keine Erwachsenen. In den westlichen Kulturen, in denen oft keine wirkmächtigen Initiationsriten dieser Art mehr existieren, können sich Heranwachsende in Pubertät und Adoleszenz zeitweise immer wieder in einer liminalen Phase erleben (Coming of age), ebenso wie junge Erwachsene in der Übergangszeit nach Beendigung des Studiums (sog. akademisches Prekariat). Anders als klassische Initiationsriten, die für gewöhnlich einer gewissen Geheimhaltung unterliegen, werden diese Übergangszeiten in der Moderne stark in populären Medien thematisiert und öffentlich diskutiert (z. B. im Bildungsroman und anderen Coming-of-age-Narrativen).\nTurner verwendete auch den Begriff liminoid, um zwischen einem zwangsläufigen liminalen Phänomen (z. B. Pubertät) und den freiwilligen (z. B. Besuch eines Rockkonzerts) zu unterscheiden. Während das Liminale Teil der Gesellschaft ist, ist das Liminoide ein Ausbruch aus den Fesseln der Gesellschaft. Während das Gehen zu Fuß in den Zeiten, als dies das wesentliche Fortbewegungsmittel war, zu Liminalität führen kann (vergl. Canterbury Tales), ist Wandern heute liminoid, weil man es freiwillig macht.\nLiminale Räume sind Räume der Veränderung und Innovation, Räume, in denen alles möglich scheint und die sich ständig im Wandel befinden. Der liminale Zustand ist kein fester, sondern ein fluktuierender Schwebezustand.",
+   "u": "https://de.wikipedia.org/wiki/Liminalit%C3%A4t",
    "q": "Wikipedia"
   },
   {
-   "t": "Liste der Werke von Theophrast",
-   "s": "Dies ist eine Liste der Werke von Theophrast (griechisch Θεόφραστος Theóphrastos).\nDer griechische Philosoph Theophrast von der Insel Lesbos (geb. um 371 v. Chr. in Eresos; gest. um 287 v. Chr.) war ein Schüler von Aristoteles und dessen Nachfolger als Leiter der peripatetischen Schule.\nDiese Liste ist diejenige, die Diogenes Laertios im Fünften Buch seiner Leben und Meinungen berühmter Philosophen angibt. Die Tradition schreibt Theophrast etwa 220 Titel zu. Auch sein Testament ist überliefert.\nEine Gesamtausgabe des noch Vorhandenen von seinen Schriften (Theophrasti Eresii opera quae supersunt omnia) besorgte Christian Friedrich Heinrich Wimmer (Leipzig 1854–62, 3 Bde., und in 2. Aufl. Paris 1866, 1 Bd.).\nZu Theophrasts bekannten Werken zählen das verlorene Buch Meinungen der Physiker (Physikon doxai) und insbesondere die Charaktere.\nDie folgende Liste (nach Diogenes Laertius, Buch V) erhebt keinen Anspruch auf Aktualität oder Vollständigkeit:",
-   "u": "https://de.wikipedia.org/wiki/Liste_der_Werke_von_Theophrast",
+   "t": "Lykeion",
+   "s": "Lykeion (von altgriechisch Λύκειον Lýkeion; lateinisch Lyceum, deutsch auch Lyzeum geschrieben) war in der Antike ein dem Apollon Lykeios geweihter Hain neben dem Gymnasion bei Athen. Der Begriff Lyzeum bezeichnet eine Reihe von Bildungseinrichtungen. Der genaue Standort wurde zufällig bei Bauarbeiten entdeckt und befindet sich östlich der Akropolis in der Nähe des Museums für kykladische Kunst. Es sind nur noch geringe bauliche Reste erhalten.\nIn altgriechischer Zeit war das Gymnasion ein Ort der Muße (altgriechisch σχολή scholē „Muße, freie Zeit, Nichtstun“, wovon sich das Wort „Schule“ herleitet) für körperliche und geistige Übungen. Besonders wurden dort die Epheben, griechische Jünglinge, die das 18. Lebensjahr erreicht hatten, unterrichtet.\nNach dem Peripatos („Wandelhalle“) auf dem Gelände des Lykeion, wo neben anderen auch Aristoteles und Theophrast lehrten, soll die Schule des Aristoteles benannt worden sein. Das Lykeion hat seinen Namen von den Wolfskopf-Skulpturen, mit denen das Lykeion geschmückt war (altgriechisch λύκος lýkos „Wolf“).",
+   "u": "https://de.wikipedia.org/wiki/Lykeion",
    "q": "Wikipedia"
   },
   {
-   "t": "Liste logischer Ausdrücke der Antike",
-   "s": "Die Liste logischer Ausdrücke der Antike gibt Aufschluss über die altgriechischen und lateinischen Fachausdrücke, die von den antiken Philosophen in Texten zur Logik verwendet wurden. Sie enthält neben den griechischen Ausdrücken deren Transkription ins lateinische Alphabet sowie die lateinischen Entsprechungen und die deutschen Übersetzungen. In manchen Fällen sind auch erklärende Originalstellen angeführt. Die Beziehung einiger Ausdrücke untereinander sind separat bildlich veranschaulicht.",
-   "u": "https://de.wikipedia.org/wiki/Liste_logischer_Ausdr%C3%BCcke_der_Antike",
+   "t": "Meister-Eckhart-Preis",
+   "s": "Der Meister-Eckhart-Preis ist ein von der Identity Foundation gestifteter deutscher Wissenschaftspreis, der seit 2001 verliehen wird, seit 2007 gemeinsam mit der Universität zu Köln.\nDer mit 50.000 Euro dotierte Preis ist nach dem bedeutenden Theologen und Philosophen Meister Eckhart (~1260–1328) benannt und wurde in der Regel alle zwei Jahre verliehen, zuletzt 2014.\nMit der Vergabe des Meister-Eckhart-Preises sollen Personen geehrt werden, die sich „in ihren Arbeiten existenzielle Fragen der persönlichen, sozialen und interkulturellen Identität aufgreifen und durch ihr Wirken einen breiten öffentlichen und internationalen Diskurs beleben“.",
+   "u": "https://de.wikipedia.org/wiki/Meister-Eckhart-Preis",
    "q": "Wikipedia"
   },
   {
-   "t": "Liste von Werken des Philodemos",
-   "s": "Dies ist eine Liste von Werken des Philodemos von Gadara, des antiken epikureischen Philosophen und Dichters, der beispielsweise in seinem Werk Über die Frömmigkeit (peri eusebeias; lat. de pietate) auch wichtiges Quellenmaterial zu den Vorsokratikern liefert.\nDie Herculanensischen Papyri (Abk. PHerc.), die bisher in der Villa dei Papiri in Herculaneum gefunden wurden, beinhalten vor allem Schriften des Epikur und des Philodemos.\nDie antike Sammlung Anthologia Palatina enthält 34 Gedichte von ihm, deren Inhalt hauptsächlich erotisch ist.",
-   "u": "https://de.wikipedia.org/wiki/Liste_von_Werken_des_Philodemos",
+   "t": "Molyneux-Problem",
+   "s": "Das Molyneux-Problem ist ein von William Molyneux erstmals 1688 aufgezeigtes philosophisches Problem, das die Entstehung der menschlichen Erkenntnis und der Begriffsbildung anhand der Blindheit thematisiert.\nEs lautet vereinfacht wie folgt: Angenommen, ein von Geburt an blinder Mensch erhielte die Fähigkeit zu sehen, wäre er dann in der Lage, Würfel und Kugeln durch das bloße Betrachten voneinander zu unterscheiden, wenn davon auszugehen ist, dass er Würfel und Kugel bereits durch seinen Tastsinn unterscheiden konnte?\nDie Versuche der philosophischen Problemlösung haben in der Geschichte der Wahrnehmungstheorie zu einem bis heute viel beachteten Diskurs geführt. Nach Veröffentlichung des Problems im Jahre 1693 in John Lockes An Essay Concerning Humane Understanding wurde dieses Problem von vielen Philosophen und Gelehrten, wie zum Beispiel George Berkeley, Gottfried Wilhelm Leibniz, Voltaire, Denis Diderot, Julien Offray de La Mettrie, Hermann von Helmholtz und William James aufgegriffen, die teilweise der verneinenden Ansicht Lockes gefolgt sind.",
+   "u": "https://de.wikipedia.org/wiki/Molyneux-Problem",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Neoismus",
+   "s": "Neoismus ist ein parodistischer -ismus. Er ist der Name eines subkulturellen Netzwerks künstlerischer Aktionisten und Medienexperimentatoren und steht, in allgemeinerem Sinne, auch für eine praktische Underground-Philosophie. Neoismus arbeitet mit kollektiven Pseudonymen und Identitäten, Streichen und Irritationen, Paradoxen, Plagiaten und Fälschungen. Er hat zahlreiche widersprüchliche Definitionen seiner selbst geprägt, um sich jeder Einordnung und Historisierung zu entziehen.",
+   "u": "https://de.wikipedia.org/wiki/Neoismus",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Nunc stans",
+   "s": "Nunc stans (lateinisch; deutsch: „Stehendes Jetzt“) ist eine Wendung aus dem Bereich der Philosophie, die die Ewigkeit beschreiben soll. Sie entstand aus Diskussionen um das Verhältnis von Zeit und Ewigkeit. Platon beschrieb die Zeit als „bewegtes Bild der Ewigkeit“ (altgriechisch εἰκὼ κινητὸν αἰῶνος). Die Zeit erstreckt sich zwar auf Gegenwart, Vergangenheit und Zukunft, aber nur der Ewigkeit kommt Gegenwart zu. Aus dieser Bestimmung wird eine Tradition, die die Ewigkeit als zeitloses Jetzt bestimmt. Plotin bezeichnet Ewigkeit als „Verharren in einem“.\nIm Mittelalter zitiert Thomas von Aquin die Wendung unter Berufung auf Boethius, bei dem sie allerdings nicht wörtlich vorkommt. Boethius unterscheidet zwischen dem Jetzt für den Menschen, das eine gleichsam laufende Zeit sei, und einem göttlichen Jetzt, das ein verharrendes Jetzt sei und die Ewigkeit Gottes ausmacht. Dieses verharrende Jetzt nennt Boethius deutsch: „nunc permanens“ (lateinisch), deutsch: „Bleibendes Jetzt“. Die Umbildung von Nunc stans zu Nunc permanens bei Boethius ist möglicherweise durch Augustinus beeinflusst, der sich mit dem Konzept des Nunc stans auseinandersetzte, es aber ablehnte.\nAufgrund von Boethius’ Einfluss auf die mittelalterliche Philosophie wird auch dieser Begriff für die Ewigkeit übernommen und ist in der mittelalterlichen Philosophie häufig zu finden. Albertus Magnus benutzt Nunc stans dann wieder zur Beschreibung der Ewigkeit Gottes und beruft sich auf Boethius. Wahrscheinlich hat Thomas von Aquin den Begriff von Albertus Magnus übernommen. Thomas Hobbes kritisiert den Begriff Nunc stans heftig, er sei für ihn kein angemessener Begriff zur Beschreibung der Ewigkeit. Eine stehende Gegenwart sei unverständlich. Arthur Schopenhauer benutzt den Begriff, um von der „Unzerstörbarkeit unseres Wesens an sich“ zu sprechen. Das einzelne Leben des Menschen gehöre zur Welt der Erscheinung, in der sich Werden und Vergehen ereignen, das wahre Wesen sei aber das diesem Vorgang zugrundeliegende Prinzip. Die Zeit sei die Form unseres Erkennens, in der wir alles auffassen, während das Wesen an sich das alles nicht kenne, aber im Nunc stans existiere. Schopenhauer bezieht sich auf die Lehre der Idealität der Zeit von Immanuel Kant. Der Wille bleibe im Wechsel der Zeit das Unbewegliche, was man in einem über die reine Erscheinung hinausgehenden Blick erkenne. Der Unterschied zwischen Vergangenheit und Gegenwart falle weg, wenn man versuche, die Abfolge im menschlichen Leben „als auf ein Mal und zugleich und immer vorhanden, im Nunc stans“ vorzustellen. …",
+   "u": "https://de.wikipedia.org/wiki/Nunc_stans",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Pawel Flegontowitsch Saposchnikow",
+   "s": "Pawel Flegontowitsch Saposchnikow (russisch Павел Флегонтович Сапожников; * 1897 in Kansk; † 26. Mai 1937) war ein sowjetischer Philosoph, der den Stalinschen Säuberungen zum Opfer fiel.\nSaposchnikow war von 1929 bis 1931 Rektor der Staatlichen Universität Woronesch. Am 16. April 1933 wurde er zu drei Jahren Haft verurteilt. Am 30. Dezember 1936 wurde er erneut verhaftet, am 25. Mai 1937 zum Tode verurteilt und am folgenden Tage erschossen.",
+   "u": "https://de.wikipedia.org/wiki/Pawel_Flegontowitsch_Saposchnikow",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Philosoph",
+   "s": "Ein Philosoph (wie lateinisch philosophus von griechisch φιλόσοφος philósophos „Freund der Weisheit; Gelehrter“) oder sinngemäß Denker, älter Weltweiser, ist ein Mensch, der danach strebt, Antworten auf grundlegende (Sinn-)Fragen über die Welt, über den Menschen und dessen Verhältnis zu seiner Umwelt zu finden. Ferner wird damit jemand mit praktischer Lebensklugheit bezeichnet, ebenso Vertreter der wissenschaftlichen (bzw. akademischen) Philosophie.",
+   "u": "https://de.wikipedia.org/wiki/Philosoph",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Philosophie der Zeit",
+   "s": "Das Wort Zeit bezeichnet in der Philosophie die vom menschlichen Bewusstsein wahrgenommene Form der Veränderungen oder der Abfolge von Ereignissen. Diese Veränderungen begründen den Eindruck einer „Richtung der Zeit“. Bestimmungen des Wesens der Zeit wurden von Philosophen wie etwa Platon, Aristoteles, Augustinus, Leibniz, Kant oder Bergson in unterschiedlicher Weise vorgenommen.\nUnsere Alltagserfahrung lässt uns vermuten, dass Zeit auch unabhängig von bewusst wahrgenommenen Objekten und ihrer Veränderlichkeit existiert. Das Problem der Zeitvorstellung war deshalb schon immer mit der Frage verknüpft, ob sie erst durch eine spezielle Anschauung im menschlichen Bewusstsein 'erschaffen' wird oder unabhängig davon objektiv gegeben ist. Die Beantwortung dieser Frage war jahrtausendelang ausschließlich eine Angelegenheit der Philosophie, Theologie und Mystik. Mit Beginn der modernen Naturwissenschaft im 17. Jahrhundert wurde der Begriff der Zeit in der Natur vor allem in der Physik weiterentwickelt und im 20. Jahrhundert durch die Relativitätstheorie noch einmal erheblich verändert. Wichtige Erkenntnisse zur Zeit erbringen mittlerweile aber auch die Astronomie, Neurologie, Chronopsychologie, Chronobiologie und andere Wissenschaften.\nAllerdings ist schon die Bedeutung des Begriffs der 'Existenz der Zeit' fraglich und problematisch. Neuere Erkenntnisse der Hirnforschung, Molekularbiologie und Psychologie legen den Schluss nahe, dass Wahrnehmung, Gedankenprozesse, Erinnerung (Psychologie), 'Zeitgefühl' und Bewusstsein im Menschen so eng miteinander verknüpft sind, dass sie im Vorgang des Erlebens normalerweise nicht getrennt werden können. 'Zeitgefühl', Gedanken und das menschliche Bewusstsein erscheinen also nur gemeinsam. In einer subjektivistischen Auffassung würden dann Zeit und Zeitgefühl eng zusammenrücken. Die Vorstellung einer 'objektiven Zeit' bestünde hier dann nur in der Vorstellung einer Identität, die auf Erinnerungen basiert und nach Sicherheit und Kontinuität strebt.",
+   "u": "https://de.wikipedia.org/wiki/Philosophie_der_Zeit",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Philosophie in der Schweiz",
+   "s": "Philosophie gibt es in der Schweiz seit dem Mittelalter. In der frühen Neuzeit war Basel ein intellektuelles Zentrum. Zur Zeit der Aufklärung haben zweisprachige Schweizer Gelehrte eine Vermittlerrolle gespielt.\nDie Frage nach einer schweizerischen Philosophie ist 1945 aufgeworfen und seither stets verneint worden: Es gibt keine schweizerische Philosophie im Sinne einer eigenständigen Strömung oder Schule. Die Philosophie, die in der Schweiz betrieben wird, kann als Teil der europäischen oder als Teil der deutschsprachigen und französischsprachigen Philosophie angesehen werden.",
+   "u": "https://de.wikipedia.org/wiki/Philosophie_in_der_Schweiz",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Philosophische Ästhetik",
+   "s": "Die philosophische Ästhetik ist die Theorie der ästhetischen Phänomene in ihrer Gesamtheit. Sie unterliegt wie kaum eine andere philosophische Disziplin sehr unterschiedlichen Einschätzungen. Während man ihr auf der einen Seite einen massiven Bedeutungsverlust attestiert, wird andererseits der Anspruch erhoben, sie beerbe dasjenige, was traditionell die „Erste Philosophie“ genannt wurde.\nDiese Unklarheit spiegelt sich auch in ihrem Gegenstandsbereich wider, der von Anfang an umstritten war. Bis zum 19. Jahrhundert waren dies das Schöne, das Erhabene, die Kunst oder die sinnliche Erkenntnis. All diese Definitionsversuche werden in der Gegenwart von zahlreichen Philosophen als inadäquat angesehen. Aufgrund der fast 20-jährigen Forschungsarbeit von Jochen Frießem (\"Propädeutik zur Sinnlichkeit\" sowie \"Postmodernistische Bildwissenschaft\") konnte die ästhetische Theorie letztlich als das „Phlogiston der Philosophie“ identifiziert und dieses fundamentale Paradigma insgesamt aufgehoben werden, weil u. a. der ihr zugrunde liegende, transzendentale Schematismus (Kant) im Bereich der Perzeptbildung kein subjektives bzw. freies, transzendentales Schema zu erzeugen vermag. An ihre Stelle tritt die Nicht-Ästhetik, d. i. die Theorie sinnlicher Qualia-Kontinua, als das „sinnliche Abditum mentis“ eines jeden Menschen, samt ihrer jeweiligen Wirkungen und den mentalen Analyseverfahren zwecks Bildung von Perzepten (Qualia-Kontinuumsfragmenten) und weiterführender Erkenntnisleistungen (Trans-Peirceianismus).\nDer Gegenstandsbereich der philosophischen Ästhetik überschneidet sich mit dem anderer wissenschaftlicher Disziplinen wie der Psychologie, Soziologie, Musikwissenschaft, Literaturwissenschaft, Kunstgeschichte und Kunstkritik. Gegenüber diesen unterscheidet sich die philosophische Ästhetik aber in ihren Fragestellungen und den Methoden. Ihre Fragestellungen sind von allgemeiner Natur; sie untersucht das Phänomen des Ästhetischen im Allgemeinen; es ist nicht ihre Aufgabe einzelne ästhetische Gegenstände zu analysieren und zu bewerten. Die philosophische Ästhetik ist keine empirische Disziplin; sie entscheidet ihre Fragen nicht durch Beobachtung und Experiment, sondern durch Analyse der allgemein verwendeten ästhetischen Begriffe.",
+   "u": "https://de.wikipedia.org/wiki/Philosophische_%C3%84sthetik",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Philosophy Slam",
+   "s": "Der Philosophy Slam ist ein öffentlicher Wettstreit um den besten philosophischen Gedanken.\nDas Konzept des Philosophy Slams wurde von Gerhard Hofweber 2008 entwickelt. Im Mittelpunkt steht die Idee, philosophisches Denken auf die Bühne zu bringen. Denken als Ereignis sollte für ein Publikum erlebbar gemacht werden. Auf diese Weise kann die Faszination von philosophischem Denken, wenn es authentisch und substantiell um Wahrheit ringt, vermittelt werden. Der Philosophy Slam schafft für die Philosophie einen außerakademischen Platz in der Öffentlichkeit. Wichtig war es von Anfang an, die Philosophie zwar von akademischen Zwängen, nicht aber von ihrer Substanz zu befreien. Der Philosophy Slam gibt so allen, die ernsthaft und leidenschaftlich denken und den Mut haben, für ihre Überzeugung öffentlich zu stehen, eine Bühne.",
+   "u": "https://de.wikipedia.org/wiki/Philosophy_Slam",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Photonenwaage",
+   "s": "Die Photonenwaage wurde von Albert Einstein als Gedankenexperiment erfunden, um die Unvollständigkeit der Quantenmechanik zu zeigen. Nach der Quantentheorie können der Zeitraum, an dem ein Quantenteilchen einen bestimmten Raum verlässt, und die Energie dieses Quantenteilchens nicht beide beliebig genau bestimmt werden. Diese „Unschärfe“ wird in der Quantentheorie durch die Heisenbergsche Unschärferelation beschrieben. Albert Einstein stellte dieses Gedankenexperiment 1930 auf dem Solvay-Kongress überraschend Niels Bohr vor.\nInteressanterweise wird der scheinbare Widerspruch zwischen spezieller Relativitätstheorie und Quantentheorie durch Albert Einsteins eigene allgemeine Relativitätstheorie aufgehoben.",
+   "u": "https://de.wikipedia.org/wiki/Photonenwaage",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Politische Philosophie",
+   "s": "Die politische Philosophie ist eine Disziplin der Philosophie und des politikwissenschaftlichen Faches Politische Theorie. Als normative Disziplin befasst sie sich hauptsächlich mit der Kritik, der Sinngebung und der Wegweisung allen politischen Handelns und umfasst unter anderem philosophische Theorien der Gesellschaft, Rechts- und die Staatsphilosophie. Ihr Ursprung wird in der antiken griechischen Philosophie, insbesondere in den Schriften Platons und Aristoteles verortet. Aus dieser Tradition stammt auch die Bezeichnung; Polis (altgriechisch πόλις pólis, deutsch ‚Stadt, Staat‘) ist der antike griechische Stadtstaat.",
+   "u": "https://de.wikipedia.org/wiki/Politische_Philosophie",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Radikalaufklärung",
+   "s": "Der philosophiegeschichtliche Begriff Radikalaufklärung (englisch: radical enlightenment, französisch: lumières radicales) ist in den letzten Jahrzehnten aus einer transatlantischen Debatte über die geistesgeschichtlichen Ursachen der Entstehung des englischen Bürgerkriegs, der amerikanischen und der französischen Revolution hervorgegangen.\nAngestoßen wurde diese Debatte durch ein Buch der US-amerikanischen Historikerin Margaret C. Jacob aus dem Jahre 1981: The Radical Enlightenment, Pantheists, Freemasons and Republicans. Seitdem ist der Begriff Radikalaufklärung in zahlreichen Monographien und Sammelbänden, wie z. B. in der monumentalen Trilogie von Jonathan I. Israel, weiter erhellt und kontrovers diskutiert worden. Aufklärungshistoriker wie Margaret C. Jacob, Jonathan I. Israel und Martin Mulsow betrachten das Zeitalter der Aufklärung nicht mehr als in sich einheitlich.\nSie unterscheiden zwei ideologische Hauptströmungen, die im späten 17. Jahrhundert aufkamen und das ganze 18. Jahrhundert hindurch fortbestanden:\ndie moderate, reformerische Aufklärung, welche die Hauptströmung der Aufklärung bildete (prominente Vertreter: z. B. John Locke, Newton, Montesquieu, David Hume, Voltaire).\ndie revolutionäre, säkularistische Radikalaufklärung (herausragende Vertreter: z. B. Diderot, Helvétius, Paul Henri Thiry d’Holbach, Julien Offray de La Mettrie, Thomas Paine, Marquis de Sade).\nDie Radikalaufklärer gingen besonders kämpferisch und subversiv gegen den Pakt von Adel und Klerus vor, verbreiteten umstürzlerisches, republikanisches Gedankengut, so dass ihre Werke nur klandestin und anonym verbreitet werden konnten. Sie wurden zensiert, immer wieder verboten und öffentlich verbrannt. Diese „gottlosen“ materialistischen und spinozistisch-pantheistischen Radikalaufklärer, die von Philipp Blom (2011) so genannten „bösen Philosophen“, z. B. Diderot, Helvétius, Paul Henri Thiry d’Holbach, Julien Offray de La Mettrie, Thomas Paine, Marquis de Sade, riskierten Gefängnisstrafen, Verbannung oder gar den Scheiterhaufen.\nInsbesondere aus dieser radikalaufklärerischen Strömung stammen die geistesgeschichtlichen Grundlagen der Revolutionen des 18. Jahrhunderts.",
+   "u": "https://de.wikipedia.org/wiki/Radikalaufkl%C3%A4rung",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Supranaturalismus",
+   "s": "Supranaturalismus (von lateinisch supra „über“; natura „Natur“) ist in Theologie und Philosophie als metaphysischer Standpunkt die Annahme einer Existenz von Übernatürlichem: das heißt von Strukturen oder Objekten, die nicht Teil der sinnlich wahrnehmbaren und wissenschaftlich fassbaren Welt der Dinge sind, sondern dieser zugrunde liegen oder sie überschreiten. Diese „zweite Seite der Welt“ verweist auf den Begriff der Transzendenz. In etwa diesem Sinne hat neben anderen auch Immanuel Kant den Ausdruck Supranaturalismus prominent verwendet, meint damit spezifisch aber vor allem, dass die genannte Voraussetzung ein erkenntnistheoretisches Fundament darstellt. Im (protestantischen) Christentum wird mit Supranaturalismus im engeren Sinne die Annahme einer göttlichen Offenbarung gemeint, deren Gehalt den menschlichen Verstand übersteigt, die aber dennoch erfahrbar ist.\nDie wesentliche konträre Gegenposition zum Supranaturalismus wird als Naturalismus bezeichnet. Naturalismus in diesem Sinne meint, dass alles natürliche Ursachen hat und dass es nichts Übernatürliches gibt.",
+   "u": "https://de.wikipedia.org/wiki/Supranaturalismus",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Synthese",
+   "s": "Als Synthese (von altgriechisch σύνθεσις sýnthesis, „Zusammensetzung“, „Zusammenfassung“, „Verknüpfung“) wird allgemein die Vereinigung von zwei oder mehr Bestandteilen, Elementen oder Merkmalen zu einer neuen, übergeordneten Einheit verstanden.\nIn der Naturwissenschaft ist Synthese auf Materie (z. B. chemische Synthese von Stoffen) bezogen und in der Geisteswissenschaft abstrakt zu verstehen.\nDie Synthese ist untrennbar verbunden mit dem ihr entgegengesetzten Verfahren der Analyse.",
+   "u": "https://de.wikipedia.org/wiki/Synthese",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Theologische Fakultät von Norditalien",
+   "s": "Die Theologische Fakultät von Norditalien (italienisch: Facoltà teologica dell’Italia settentrionale di Milano) ist eine Hochschule in Trägerschaft der römisch-katholischen Kirche mit Sitz in Mailand.\nVorläufer war eine theologische Fakultät, die Papst Leo XIII. am 15. November 1892 aus dem Erzbischöflichen Priesterseminar in Venegono Inferiore nach Mailand verlegte. In der Apostolischen Konstitution Deus scientiarum Dominus wurde die Hochschule durch Papst Pius XI. am 7. Dezember 1938 konstituiert. 1978 erfolgte die staatliche Anerkennung.\nDie Hochschule hat neben ihrem Hauptsitz in Mailand weitere Außenstellen in Mailand (2. Sitz), Turin und Genua. Aus dem Campus in Padua entstand 2005 die Theologische Fakultät des Triveneto.",
+   "u": "https://de.wikipedia.org/wiki/Theologische_Fakult%C3%A4t_von_Norditalien",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Wigners Freund",
+   "s": "Wigners Freund ist eine Erweiterung des Gedankenexperimentes „Schrödingers Katze“ durch Eugene Paul Wigner und bezieht sich auf das Messproblem der Quantenmechanik. Das Beispiel illustriert eine idealistische oder subjektivistische Interpretation der Quantenmechanik bzw. eine Folgespekulation zu einer solchen. Bei dem ursprünglichen „Wigners-Freund“-Gedankenexperiment werden keine Dekohärenz-Effekte berücksichtigt, weshalb die darauf aufbauende Argumentation von Wigner selbst in den 1970er Jahren verworfen wurde und in der ursprünglichen Form in dem heutigen wissenschaftlichen und philosophischen Diskurs als überholt gilt. Weiterentwickelte Varianten des Gedankenexperiments wurden allerdings auch veröffentlicht.",
+   "u": "https://de.wikipedia.org/wiki/Wigners_Freund",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Wolfgang-Stegmüller-Preis",
+   "s": "Der Wolfgang-Stegmüller-Preis wird von der deutschen Gesellschaft für Analytische Philosophie alle drei Jahre für herausragende Arbeiten auf dem Feld der Analytischen Philosophie verliehen. Er wurde in Andenken an Wolfgang Stegmüller von seiner Frau Margret Stegmüller (1941–2018) gestiftet und ist mit einem Preisgeld von 12.000 Euro dotiert. Er gilt mittlerweile als einer der wichtigsten Preise für deutschsprachige Nachwuchswissenschaftler in der Philosophie. Ausgezeichnet werden in der Regel drei Arbeiten.",
+   "u": "https://de.wikipedia.org/wiki/Wolfgang-Stegm%C3%BCller-Preis",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Zwillingsparadoxon",
+   "s": "Das Zwillings- oder Uhrenparadoxon ist die paradox erscheinende Tatsache, dass Zwillinge nicht mehr gleich alt sind, wenn einer von einer Rundreise nach Hause zurückkehrt, während der andere zu Hause geblieben ist. Wenn der daheimgebliebene Zwilling die ganze Zeit in einem Inertialsystem in Ruhe war, ist er beim Wiedersehen auf jeden Fall älter als der zurückgekehrte. Dieser Effekt wurde als Gedankenexperiment erstmals 1905 von Albert Einstein aus seiner damals neuen Relativitätstheorie abgeleitet und bekam später den Namen „Zwillingsparadoxon“. Der Effekt beruht auf der relativistischen Zeitdilatation und ist rein physikalischer Natur. Entsprechend geht auch eine Uhr auf einer Rundreise nach, wenn man sie bei der Rückkehr mit einer am Ort verbliebenen Uhr vergleicht. Der Zeitunterschied ist unmerklich klein, wenn die Reise mit alltagsüblichen Geschwindigkeiten gemacht wird. Er konnte jedoch erstmals 1971 im Hafele-Keating-Experiment mithilfe von Atomuhren bei einer Weltreise per Linienflugzeug nachgewiesen werden.",
+   "u": "https://de.wikipedia.org/wiki/Zwillingsparadoxon",
    "q": "Wikipedia"
   }
  ]
