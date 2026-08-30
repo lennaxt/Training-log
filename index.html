@@ -718,6 +718,15 @@
      faengt der unter der Uhr an, damit sie die Zeit nicht ueberlaeuft. */
   #pauseOverlay .creature-host{top:calc(var(--top) + 122px)}
   #modePrev .creature-host{--creature-scale:.0046}
+  /* Die Zahl liegt in der Grundfarbe ueber der Kreatur und wird von einer
+     Maske freigegeben, die der Kreatur folgt: sichtbar wird nur, worueber sie
+     gerade laeuft. */
+  .creature-reveal{position:absolute;inset:0;z-index:3;pointer-events:none;
+    display:flex;align-items:center;justify-content:center;
+    --cx:50%;--cy:50%;--r0:56px;--r1:140px;
+    -webkit-mask-image:radial-gradient(circle at var(--cx) var(--cy),#000 0,#000 var(--r0),transparent var(--r1));
+    mask-image:radial-gradient(circle at var(--cx) var(--cy),#000 0,#000 var(--r0),transparent var(--r1))}
+  #modePrev .creature-reveal{--r0:24px;--r1:62px}
   .creature-grid{display:flex;flex-wrap:wrap;align-items:center;justify-content:center}
   .creature-grid div{position:relative;width:4em;height:4em;margin:3em;border-radius:2em;
     transform-style:preserve-3d;will-change:transform;mix-blend-mode:var(--blend,plus-lighter)}
@@ -2812,10 +2821,21 @@ const PAUSE_MAX=300,PAUSE_STEP=30;
 function creatureView(dark){
   return {
     dark,
-    html:()=>`<span class="creature-host"></span>`,
+    hideClock:true,
+    html:()=>`<span class="creature-host"></span>
+      <span class="creature-reveal"><span class="mp-num">&ndash;</span></span>`,
     mount(el){
       const host=el.querySelector(".creature-host");
       if(host&&window.createCreature)this._c=window.createCreature(host,dark);
+      const rv=el.querySelector(".creature-reveal");
+      if(rv)rv.style.color=dark?"#252423":"#ffffff";
+    },
+    tick(el){
+      const rv=el.querySelector(".creature-reveal"),host=el.querySelector(".creature-host");
+      if(!rv||!host||!this._c)return;
+      const h=host.getBoundingClientRect(),r=rv.getBoundingClientRect();
+      rv.style.setProperty("--cx",(h.left-r.left+h.width*.5+this._c.cursor.x).toFixed(1)+"px");
+      rv.style.setProperty("--cy",(h.top-r.top+h.height*.5+this._c.cursor.y).toFixed(1)+"px");
     },
     unmount(){if(this._c){this._c.destroy();this._c=null}}
   };
@@ -3062,7 +3082,7 @@ function pauseStart(cat){
   stage.innerHTML=o.html?o.html(o):(m.html?m.html(o):"");
   ov.classList.toggle("dark",!!o.dark);
   setThemeColor(o.dark?"#252423":null);
-  document.getElementById("pauseClock").style.display=m.id==="timer"?"none":"";
+  document.getElementById("pauseClock").style.display=(m.id==="timer"||o.hideClock)?"none":"";
   if(o.mount)o.mount(stage);
   ov.classList.add("open");
   pauseFrame(performance.now());
@@ -3525,6 +3545,7 @@ window.createCreature = function(host, dark){
   window.addEventListener('resize', measure);
 
   return {
+    cursor,
     destroy(){
       mainLoop.pause();
       autoMove.pause();
