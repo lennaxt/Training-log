@@ -1,0 +1,247 @@
+{
+ "name": "Psychologie",
+ "lizenz": "Wikipedia, CC BY-SA 4.0",
+ "updated": "2026-08-30T20:40:06+00:00",
+ "items": [
+  {
+   "t": "Absicht",
+   "s": "Absichten oder Intentionen sind mentale Zustände, in denen sich der Handelnde auf eine bestimmte Handlung festlegt. Den Plan zu haben, morgen den Zoo zu besuchen, ist ein Beispiel für eine Absicht. Der Handlungsplan ist der Inhalt der Absicht, während die Festlegung die Einstellung zu diesem Inhalt ist. Andere mentale Zustände können Handlungspläne zum Inhalt haben, wie wenn man einen Plan bewundert, unterscheiden sich aber von Absichten, da sie keine praktische Festlegung zur Umsetzung dieses Plans beinhalten. Erfolgreiche Absichten rufen den beabsichtigten Handlungsablauf hervor, während erfolglose Absichten dies nicht tun. Absichten haben, wie viele andere mentale Zustände, Intentionalität: Sie stellen mögliche Sachverhalte dar.\nAbsichtstheorien versuchen, die charakteristischen Merkmale von Absichten zu erfassen. Laut dem traditionell vorherrschenden Ansatz ist eine Absicht nichts anderes als Wunsch, eine bestimmte Handlung auszuführen, und die Überzeugung, dass man diese Handlung ausführen wird. Solche Ansätze werden häufig aufgrund der Tatsache kritisiert, dass weder Überzeugung noch Wunsch eine praktische Festlegung zur Durchführung einer Handlung beinhalten, was häufig durch verschiedene Gegenbeispiele veranschaulicht wird. Die Evaluationstheorie versucht, dieses Problem zu überwinden, indem sie die Absicht in Bezug auf unbedingte Evaluationen erklärt. Das heißt, dass Absichten die beabsichtigte Handlungsweise nicht nur als in gewisser Hinsicht gut darstellen, wie dies bei Wünschen der Fall ist, sondern als alles in allem gut. Dieser Ansatz hat Probleme bei der Erklärung von Fällen von Akrasia, d. h. dass Personen nicht immer das beabsichtigen, was sie für die beste Handlungsweise halten. Eine eng verwandte Theorie identifiziert Absichten nicht mit unbedingten Evaluationen, sondern mit vorherrschenden Wünschen. Sie besagt, dass die Absicht, etwas zu tun, darin besteht, es am meisten zu wünschen. Gegner dieses Ansatzes haben verschiedene Gegenbeispiele formuliert, um zu zeigen, dass Absichten nicht immer mit dem stärksten Wunsch der Person übereinstimmen. Ein anderer Ansatz als die bisher erwähnten Theorien geht auf Elizabeth Anscombe zurück und weist die Unterscheidung zwischen Absichten und Handlungen zurück. Ihrer Ansicht nach ist die Absicht, ein Ziel zu erreichen, bereits eine Form des Handelns auf dieses Ziel hin und daher kein eigenständiger mentaler Zustand. Diese Sichtweise hat Schwierigkeiten, Fälle zu erklären, in denen Absichten und Handlungen scheinbar getrennt auftreten, z. B. …",
+   "u": "https://de.wikipedia.org/wiki/Absicht",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Absolutschwelle",
+   "s": "Unter einer Absolutschwelle (engl. Absolute threshold) versteht man in der Psychologie die geringste Intensität eines Reizes, die zu einer berichtbaren Wahrnehmung beim Beobachter führt. Es handelt sich um das Minimum an physikalischer Energie, die eben noch eine sensorische Erfahrung hervorruft. In der Sinnesphysiologie wird diese sensorische Schwelle auch als Reizschwelle bezeichnet.\nZusammen mit der Unterschiedsschwelle bilden sie die zentralen Konzepte der klassischen Psychophysik und sind auch heute noch Untersuchungsgegenstand der experimentellen Psychologie. Die Aufgabe einer Versuchsperson ist die Entdeckung (detection) eines Reizes. Der Kehrwert der Absolutschwelle bildet die Sensitivität.\nÜberschreiten Reize die Absolutschwelle nicht, spricht man von unterschwelligen Reizen (siehe auch subliminal).",
+   "u": "https://de.wikipedia.org/wiki/Absolutschwelle",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Abwärts-Effekt",
+   "s": "Von einem Abwärts-Effekt spricht man in der Psychosomatik und Philosophie, wenn nach der Modellvorstellung der Schichtenlehre Wirkungen beschrieben werden sollen, die von einer ganz bestimmten höheren Schicht der Seinsordnung ausgehen bzw. hervorgerufen sind und Auswirkungen in einer tieferen Schicht zur Folge haben. Für den Abwärts-Effekt sind methodisch die Bezeichnungen „noetisch“ in der Phänomenologie bzw. als spezieller erkenntnistheoretischer Vorgang „deduktiv“ in geisteswissenschaftlicher Hinsicht und „psychogen“ in psychologischer Hinsicht gebräuchlich. Für den Aufwärts-Effekt dagegen sind als geisteswissenschaftliche Methode die Begriffe „induktiv“ und als psychologische Wirkungsweise „somatogen“ als synonym gebräuchlich.",
+   "u": "https://de.wikipedia.org/wiki/Abw%C3%A4rts-Effekt",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Adaptive Control of Thought",
+   "s": "Adaptive Control of Thought (ACT), ursprünglich Active Control of Thought, ist eine kognitionspsychologische Theorie zur Erklärung der kognitiven Leistungen (u. a. Denken, Sprache und Gedächtnis) des Menschen. Sie wurde 1983 von John R. Anderson erstmals vorgestellt und seither fortlaufend weiterentwickelt. Zum einen will sie erklären, wie Menschen ihr Wissen strukturieren und weshalb sie zu intelligentem Verhalten in der Lage sind. Zum anderen will sie den Kognitionswissenschaften und der Künstliche-Intelligenz-Forschung ein Modell bereitstellen, das Computersimulationen der geistigen Leistungen des Menschen ermöglicht.\nACT ist eine sogenannte kognitive Architektur. Kognitive Architekturen stellen eine Art „Werkzeugkasten“ dar, mit dem bestimmte Phänomene der menschlichen Kognition modelliert werden können (bspw. das Lesen eines Satzes inkl. Bedeutungsextraktion). Solche kognitiven Architekturen stellen insofern einen Gegensatz zur sog. „Modellierung from scratch“ (bei Null angefangen, ohne Vorbild) dar, als bestimmte – experimentell fundierte – Voraussetzungen schon implementiert sind. Dies können bspw. Verzögerungen beim Erkennen eines Wortes oder Ähnliches sein.\nACT gehört zur Klasse der „Produktionssysteme“, ist also ein Modell, das auf der Entstehung, Speicherung und Ausführung sogenannter productions beruht. Diese productions sind Regeln der Form „Wenn Bedingung A erfüllt ist, dann führe Aktion B aus“ (sogenannte materiale Implikation).",
+   "u": "https://de.wikipedia.org/wiki/Adaptive_Control_of_Thought",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Affekt",
+   "s": "Ein Affekt ist eine Gemütserregung oder ein Gefühl, das durch äußere Anlässe oder innere psychische Vorgänge ausgelöst wird. Ein Lächeln kann beispielsweise ein Ausdruck für den Affekt Freude sein; Erröten im körperlichen Bereich ist bezeichnend für den Affekt Scham. Da unterschiedliche Gehirnareale aktiv sind, können ein positiver Affekt und ein negativer Affekt gleichzeitig und ähnlich stark auftreten.\nDie Unterscheidung der Begriffe Affekt, Emotion, Gefühl, Stimmung und Gemütsbewegung ist nicht einheitlich und in der wissenschaftlichen Literatur widersprüchlich. Häufig werden die Begriffe synonym verwendet. Affektiv wird ein Verhalten genannt, das überwiegend von Gemütserregungen und weniger von kognitiven Prozessen bestimmt wird und in Einzelfällen strafrechtliche Relevanz haben kann.",
+   "u": "https://de.wikipedia.org/wiki/Affekt",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Affekt-Infusions-Theorie",
+   "s": "Die Affekt-Infusions-Theorie (Affect-infusion theory) dient der Erklärung widersprüchlicher Effekte der Stimmung (Psychologie) auf die Personenwahrnehmung, auf Attributionen und auf die Bildung von Stereotypen. Die Affekt-Infusions-Theorie wurde von Forgas (1995; vgl. auch Schwarz, 2000) entwickelt und unterscheidet vier Infusionsstrategien der Stimmung:\nDie Direkteinschätzungs-Strategie kommt zum Tragen, wenn ein Thema von niedriger Bedeutung ist und hohe Bekanntheit besitzt, so dass eine Beurteilung mehr über im Gedächtnis abgespeicherte und leicht zugängliche Wissensinhalte als über Stimmungen zustande kommt (z. B. Einschätzung von bekannten Konsumgütern).\nMotivationales Stimmungsmanagement dient der Verbesserung einer schlechten Stimmung. Das Thema ist von hoher Relevanz und die Beurteiler sind motiviert, ihre Stimmung zu heben. Beispiel: Eine Person, die davon gehört hat, dass der Film „Bridget Jones“ eine sagenhafte Komödie ist, entschließt sich abends zum Kinobesuch, nachdem sich tagsüber ihre Stimmung zunehmend verschlechtert hat.\nDas Affekt-als-Information-Modell beinhaltet die Annahme, dass Stimmungen als Bezugspunkte dienen, die in ein Urteil einfließen. Basis ist die How-do-I-feel-about-it?-Heuristik, die als Maßstab für die Bedrohlichkeit einer Situation oder eines Sachverhalts genommen wird. Beispiel: Bei guter Stimmung werden Krankheitsrisiken als geringer eingestuft als bei schlechter Stimmung.\nDas Affekt-Priming-Modell geht davon aus, dass Gedächtnisinhalte, die mit der Stimmung kongruent sind, in ihrer Abrufbarkeit erhöht sind. Positive Stimmung erhöht demnach die Zugänglichkeit von Erinnerungen mit einem positiven Vorzeichen, während negative Stimmung die Zugänglichkeit von negativen Erinnerungen verbessert. Weiterhin wird angenommen, dass diese Effekte sich umso stärker ausbreiten, je länger die Verarbeitungszeit für einen Sachverhalt ist. Je länger jemand über ein Ereignis nachdenkt, z. B. weil es außergewöhnlich ist, desto stärker sollte seine oder ihre Einschätzung durch die Stimmung verzerrt werden (vgl. Priming).\nWährend die zwei zuletzt genannten Strategien zu Stimmungs-Kongruenz-Effekten führen, sind bei den zwei zuerst genannten Strategien keine entsprechenden Effekte zu erwarten. …",
+   "u": "https://de.wikipedia.org/wiki/Affekt-Infusions-Theorie",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Affekt-Priming-Modell",
+   "s": "Das Affekt-Priming-Modell (Affect priming model) bezeichnet ein von J. P. Forgas vorgelegtes Modell, das auf Erkenntnissen der Forschung zum Priming aufbaut und das die selektive Aktivierung und erhöhte Zugänglichkeit von mit dem Affekt oder der Stimmung kongruenten Gedächtnisinhalten betont, die schließlich in die soziale Informationsverarbeitung einfließen.\nAffektives Priming wird dann den stärksten Einfluss auf die Eindrucksbildung aufweisen, wenn eine hohe Wahrscheinlichkeit der Elaboration vorliegt. Das ist dann der Fall, wenn ein Stimulusobjekt z. B. von einem Prototyp abweicht und der Beurteiler deshalb intensiver zum Nachdenken veranlasst wird.\nDas Affekt-Priming-Modell ist nicht zu identisch mit dem Affective Priming Paradigma von Fazio et al. In dieser Versuchsanordnung bewerten Probanden Wörter als positiv oder negativ. Dabei wirken sich (subliminal, d. h. bewusst kaum wahrnehmbare) Prime-Wörter auf die Antwortzeit und Fehlerrate aus, je nachdem, ob sie ebenfalls positiv oder negativ sind. Dieser Effekt (Affective Priming Effect) wird als Korrelat und Beleg für die automatische affektive Bewertung von Wörtern (oder allgemeiner Reizen) angesehen.",
+   "u": "https://de.wikipedia.org/wiki/Affekt-Priming-Modell",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Affekt-als-Information-Modell",
+   "s": "Das Affekt-als-Information-Modell (Affect-as-information model) besagt, dass Menschen ihre Affekte oder Stimmungen als Bezugspunkt nehmen und diese in das Gesamturteil bezüglich eines Urteilsobjekts einbeziehen.\nDas Affekt-als-Information-Modell enthält die Annahme, dass die Beurteiler eines Sachverhalts oder einer Person einer „Wie geht es mir damit?“-Heuristik folgen. Die Stimmung fließt als Information in die Urteilsbildung ein. Wenn dieser Vorgang bei der Bewertung einer Person stattfindet, beeinflusst er die Eindrucksbildung.\nErläuterung: Befunde zeigen, dass die Erinnerung an positive Ereignisse in der eigenen Biographie (z. B. im Leistungsbereich) zu einer günstigeren Stimmung und zu einem höheren Selbstwertgefühl führt als die Erinnerung an negative Ereignisse.",
+   "u": "https://de.wikipedia.org/wiki/Affekt-als-Information-Modell",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Aggression",
+   "s": "Aggression (lateinisch aggressiō vom Deponens aggredī sich zubewegen auf [etw./jdn.]; heranschreiten; sich nähern; angreifen) ist eine feindselig angreifende Verhaltensweise eines Organismus. Sie ist ein biologisch in Tieren (und so auch Menschen) verankertes Verhaltensmuster zur Verteidigung oder Gewinnung von Ressourcen und zur Bewältigung potenziell gefährlicher Situationen. Diese ultimaten Ursachen werden beim Menschen durch proximate Ursachen in der Persönlichkeit oder der Umwelt ausgelöst, aktiviert oder gehemmt und durch verschiedene Emotionen motiviert.\nDer amerikanische Physiologe Walter Cannon prägte 1915 den Begriff Fight-or-flight; der Mediziner Hans Selye schuf 1936 als Modell der menschlichen Reaktion auf chronische Belastungen das „Allgemeine Anpassungssyndrom“ (Näheres siehe Stressreaktion).\nZur Auslösung von Aggression bedarf es spezifischer Situationen und Reize. Bei Menschen wird emotionale Aggression häufig durch negative Gefühle hervorgerufen, also als Reaktion zum Beispiel auf Frustration, Hitze, Kälte, Schmerz, Furcht oder Hunger. Ob und wie Aggressionen im Verhalten zum Ausdruck gebracht werden, unterliegt in hohem Maße den jeweiligen sozialen Normen.\nDie negative Bewertung von Aggression, die (nur oder überwiegend) die destruktiven Seiten betont, wird nicht generell geteilt. Innerhalb der Psychotherapie betrachtet etwa die Gestalttherapie Aggression als eine Form der Erregung, die z. B. dazu dient, Hindernisse zu beseitigen, oder Neues aus der Umwelt für den Organismus assimilierbar zu machen. Destruktiv oder zu Gewalt wird die Aggression erst unter bestimmten äußeren oder inneren Bedingungen.",
+   "u": "https://de.wikipedia.org/wiki/Aggression",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Aggressionshemmung",
+   "s": "Aggressionshemmung bezeichnet ein Verhalten oder eine Eigenschaft zur Begrenzung von Aggression. Aggressionshemmung findet sich bei Menschen sowie allgemein in Biologie und Natur. Mehrere wissenschaftliche Disziplinen der Neurowissenschaften und weitere Disziplinen forschen in den jeweiligen Fachgebieten zur Aggressionshemmung, die aber auch in alltäglichen Lebensbereichen wahrgenommen wird. Besondere Beachtung wird in einigen Forschungsbereichen den Ursprüngen sowie der verminderten oder ausbleibenden Aggressionshemmung gewidmet.",
+   "u": "https://de.wikipedia.org/wiki/Aggressionshemmung",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Aha-Erlebnis",
+   "s": "Aha-Erlebnis ist ein vom deutschen Psychologen Karl Bühler geprägter Begriff aus der Psychologie, der das schlagartige Erkennen eines gesuchten, jedoch zuvor unbekannten Sinnzusammenhanges bezeichnet. In der psychologischen Forschung zu Einsicht taucht es oft als Charakteristikum auf, das sich nach einem vermeintlich vollendeten Erkenntnisprozess einstellt.\nDer Volksmund beschreibt das Auftreten eines Aha-Erlebnisses auch mit dem Satz „Der Groschen ist gefallen.“",
+   "u": "https://de.wikipedia.org/wiki/Aha-Erlebnis",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Aktivationsniveau",
+   "s": "Aktivationsniveaus sind allgemeine nervöse Erregungszustände des Organismus. Eine extrem geringe Ausprägung entspricht der Bewusstlosigkeit, eine sehr hohe der Panik. Dazwischen liegende Zustände sind der Tiefschlaf, die Schläfrigkeit, die entspannte und volle Wachheit sowie Angespanntheit.\nWie H. Bartenwerfer belegte, können die subjektiven Einschätzungen des Aktivationsniveaus auf einem hohen Messniveau (Verhältnis-Skala) durchgeführt werden.\nD.E. Berlyne wies nach, dass die Menschen dazu neigen, ein mittleres Aktivationsniveau zu erreichen bzw. einzustellen. Auf einem niedrigen Niveau fühlen sie sich eher gelangweilt und auf einem hohen angespannt, „gestresst“.\nFür die Gefühls­theorien hat das Aktivationsniveau ebenfalls eine hervorgehobene Bedeutung. So gehen die meisten Pädiater und Kinderpsychologen davon aus, dass das Baby in den ersten Tagen nach der Geburt noch keine inhaltlichen Gefühle wie Unlust oder Freude erlebt, sondern nur unterschiedliche Aktivationsniveaus. Bei der Zweikomponententheorie der Gefühle, die Schachter & Singer vorlegten, entspricht das Aktivationsniveau der quantitativen Komponente, welche die Stärke der Gefühle bestimmt. Als qualitative Komponente kommen die inhaltlichen Gefühle hinzu, wie z. B. als positive Emotion die Freude und als negative Gefühle die Trauer, Wut, der Ekel usw.\nNach dem Aktivationsmodell steht das Aktivationsniveau mit den Ausprägungen der körperlichen und geistigen Leistungen in einer umgekehrt-u-förmigen Beziehung: Sie sind auf dem mittleren Aktivationsniveau am höchsten. Deshalb wird es als „optimales Aktivationsniveau“ bezeichnet.\nMentales Aktivierungstraining (= MAT), das der Förderung der geistigen Leistungsfähigkeit dienen soll, beruht auf dem Konzept, eine Person aus dem Zustand eines geringen Aktivationsniveaus in den des optimalen Aktivationsniveaus zu bringen. Dadurch wird das geistige Leistungsvermögen erhöht. Studien an Schülern, Azubis, Berufstätigen und Senioren bestätigen den altersübergreifenden Erfolg.\nBei der Gesellschaft für Gehirntraining e.V. (GfG) bildet MAT den Kern der empfohlenen Maßnahmen zur Förderung der geistigen Leistungsfähigkeit und psychischen Stabilität.",
+   "u": "https://de.wikipedia.org/wiki/Aktivationsniveau",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Aktivierung (Psychologie)",
+   "s": "Der Begriff Aktivierung bezeichnet das Auslösen innerer Erregungen (Emotionen) beziehungsweise die Anregung des Vegetativen Nervensystems als Antrieb (menschlichen) Verhaltens und der Lernbereitschaft. Die Aktivierung löst nicht nur Emotionen aus, sie steuert auch andere neurovegetative und hormonelle Prozesse sowie zahlreiche motorische Handlungen wie zum Beispiel Angriff- oder Fluchtreaktion. Insgesamt wird der Körper durch die Aktivierung des vegetativen Nervensystems in einen Zustand höchster Leistungsbereitschaft und Aufmerksamkeit versetzt.",
+   "u": "https://de.wikipedia.org/wiki/Aktivierung_%28Psychologie%29",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Aktivität (Psychologie)",
+   "s": "Aktivität (seit dem 17. Jahrhundert über mittellateinisch „activitas“ oder über französisch „activité“ in die deutsche Sprache eingeführt) bezeichnet in der Alltagssprache allgemein die Tatkraft, das tätige Verhalten des Menschen, die Arbeit, den Unternehmergeist, den Tatendrang, speziell auch die äußerlich feststellbaren Veränderungen des biologischen Verhaltens, wie sie sich etwa im Schlaf-Wachrhythmus zeigen.\nIn der Psychologie wird darunter traditionell eine unmittelbar durch innere Bedingungen ausgelöste Tätigkeit eines Organismus bzw. einer Person verstanden. Auf diese Weise wird nicht nur die willkürliche und äußerlich beobachtbare Aktivität, sondern auch das in Bereitschaft stehende Vermögen als innere Bedingung einer entsprechenden Tätigkeit aufgefasst. Unter Vermögen wird von alters her auch die Fähigkeit gerechnet. Dies bedeutet nicht, dass keine äußeren Einflüsse auf das Geschehen einwirken. Vielmehr soll damit ausgedrückt werden, dass eine dem Individuum eigene Energie an den Abläufen beteiligt ist. Der Begriff wird gleichermaßen auf psychologische wie auf physiologische Sachverhalte angewandt. In der biologischen Psychologie und Neuropsychologie werden neuerdings auch kardiovaskuläre Aktionen sowie elektrodermale und elektroneuronale Potentiale als Aktivitäten bezeichnet.",
+   "u": "https://de.wikipedia.org/wiki/Aktivit%C3%A4t_%28Psychologie%29",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Aktpsychologie",
+   "s": "Die Aktpsychologie bezeichnet eine auf Franz Brentano (1838–1917) zurückgehende Strömung philosophisch-psychologischen Denkens, die an Traditionen der Antike und der mittelalterlichen Scholastik anknüpfte (vgl. Akt und Potenz). Zu diesen Traditionen zählt auch das Konzept der Aktivität. Alle psychologischen Ansätze des 19. und 20. Jahrhunderts können als Aktpsychologie verstanden werden, die zunächst vom Primat des Bewusstseins und damit von einer Bewusstseinspsychologie ausgehen und darüber hinaus auch das Psychische durch den Bezug von „Akten“ als prozessbezogene Gegebenheiten auf ihre Gegenstände hin als hinreichend gekennzeichnet ansehen.",
+   "u": "https://de.wikipedia.org/wiki/Aktpsychologie",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Ambivalenz",
+   "s": "Ambivalenz (lateinisch ambo „beide“ und valere „gelten“) bezeichnet einen inneren Zustand, der wesentlich geprägt ist von einem inneren Konflikt. Dabei bestehen in einer Person sich widersprechende Wünsche, Gefühle und Gedanken gleichzeitig nebeneinander und führen zu inneren Spannungen.\nIn der Allgemeinsprache gebräuchlicher ist das Adjektiv ambivalent (zwiespältig, doppelwertig, mehrdeutig, vielfältig, zweideutig). Eugen Bleuler verwendete den Begriff erstmals 1910 während eines Vortrags. Für ihn war Ambivalenz ein Hauptmerkmal der Schizophrenie. Im heutigen Sprachgebrauch, auch im klinischen Bereich, versteht man unter „Ambivalenz“ aber kein Symptom einer Krankheit, sondern das Erleben einer konflikthaften, von gegensätzlichen Aspekten geprägten Bewertung der Situation oder eines Objekts. Dieses Erleben basiert auf der erworbenen Fähigkeit, auf Abwehr durch Spaltung zu verzichten und gegensätzliche Erlebniszustände zu ertragen. Die Fähigkeit, Ambivalenz auszuhalten, spricht für eine gesteigerte emotionale Reife.",
+   "u": "https://de.wikipedia.org/wiki/Ambivalenz",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Angewandte Psychologie",
+   "s": "Angewandte Psychologie ist eine Zusammenfassung aller Teildisziplinen der Psychologie, welche die Anwendung psychologischer Erkenntnisse für die Praxis zum Gegenstand haben. Sie geht auf William Stern zurück und ist Ausdruck des Bemühens, Alltagsphänomene wissenschaftlich auf der Basis der Psychologie zu beschreiben und zu erklären. Die wissenschaftliche Psychologie verstand sich anfangs als experimentelle Grundlagenpsychologie (der erste Name der Fachgesellschaft war „Gesellschaft für Experimentelle Psychologie“, siehe Deutsche Gesellschaft für Psychologie). Mit der Orientierung auf eine Anwendung psychologischer Erkenntnisse sollte dazu bewusst ein Gegenpol geschaffen werden.\nHeute haben sich die verschiedenen Anwendungsgebiete als Teilgebiete der Psychologie so weit spezialisiert und emanzipiert, dass eine einheitliche Disziplin „Angewandte Psychologie“ nicht mehr sinnvoll anzunehmen ist (ein „Angewandter Psychologe“ könnte nicht mehr alle Anwendungsgebiete beherrschen). Innerhalb der Anwendungsgebiete gibt es heute grundlagen- und anwendungsorientierte Forschung gleichermaßen.\nAuch die entsprechenden Lehrstühle, die vor allem an kleineren Universitäten zur Abdeckung des Gesamtgebietes Psychologie in der Lehre früher anzutreffen waren, weichen zunehmend spezialisierten Lehrstühlen.",
+   "u": "https://de.wikipedia.org/wiki/Angewandte_Psychologie",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Artegoismus",
+   "s": "Artegoismus (auch Art-Egoismus) bezeichnet eine aktive, sowohl defensive als auch aggressive Komponente des Arterhaltungstriebs bei Menschen und Tieren. Während er im Tierreich auf begrenzte und weitgehend bekannte Verhaltensmöglichkeiten beschränkt ist, nimmt er beim Menschen aufgrund kultureller, technischer und geistiger Entwicklungen eine nahezu unbegrenzte Ausprägung an. Der Begriff wird vor allem in ethischen und philosophischen Zusammenhängen verwendet, insbesondere in Verbindung der Mensch-Tier-Beziehung und der Kritik am Anthropozentrismus.",
+   "u": "https://de.wikipedia.org/wiki/Artegoismus",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Aufgabenwechsel (Psychologie)",
+   "s": "Der Aufgabenwechsel ist eine exekutive Funktion, die die Fähigkeit beinhaltet, die Aufmerksamkeit unbewusst zwischen einer Aufgabe und einer anderen hin und her zu verlagern.\nDurch Aufgabenwechsel kann sich eine Person schnell und effizient an verschiedene Situationen anpassen. Dies wird häufig von kognitiven und experimentellen Psychologen untersucht und kann experimentell mit Aufgaben wie dem Wisconsin Card Sorting Test getestet werden. Defizite beim Aufgabenwechsel werden häufig bei Patienten mit Parkinson und bei Patienten mit Autismus beobachtet.",
+   "u": "https://de.wikipedia.org/wiki/Aufgabenwechsel_%28Psychologie%29",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Aufmerksamkeits-Erholungs-Theorie",
+   "s": "Aufmerksamkeits-Erholungs-Theorie (ART) (englisch: Attention Restoration Theory) behauptet, dass der Mensch sich besser von mentaler Anstrengung erholen kann, wenn er Zeit in der Natur verbringt oder sogar Szenen aus der Natur betrachtet. Sie findet Anwendung in der Umweltpsychologie, Architekturpsychologie und Arbeitspsychologie, aber auch in weiteren Feldern der Psychologie. Die Theorie wurde von Rachel und Stephen Kaplan in den 1980er Jahren in ihrem Buch The experience of nature: A psychological perspective (deutsch: Die Erfahrung der Natur: Eine Psychologische Betrachtung) entwickelt und wurde seitdem von anderen Autoren sowohl im Bereich Medizin als auch für die Erholung von Aufmerksamkeitsermüdung als zutreffend befunden. Darüber hinaus gibt es aber auch kritische Stimmen gegenüber der Theorie.",
+   "u": "https://de.wikipedia.org/wiki/Aufmerksamkeits-Erholungs-Theorie",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Aufmerksamkeitskontrolle",
+   "s": "Aufmerksamkeitskontrolle (umgangssprachlich auch Konzentration) bezeichnet die Fähigkeit einer Person, zu entscheiden, worauf sie ihre Aufmerksamkeit richtet und was sie ignoriert. Sie wird auch als endogene Aufmerksamkeit oder exekutive Aufmerksamkeit bezeichnet. Die Aufmerksamkeitskontrolle kann also als die Konzentrationsfähigkeit einer Person beschrieben werden. Aufmerksamkeitskontrolle und Aufmerksamkeitsverschiebung werden hauptsächlich durch die vorderen Hirnareale vermittelt und stehen vermutlich in engem Zusammenhang mit anderen exekutiven Funktionen wie dem Arbeitsgedächtnis.",
+   "u": "https://de.wikipedia.org/wiki/Aufmerksamkeitskontrolle",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Aufmerksamkeitsschema-Theorie",
+   "s": "Die Attention Schema Theory (AST; Deutsch: Aufmerksamkeitsschema-Theorie) des Bewusstseins ist eine neurowissenschaftliche und evolutionäre Theorie des Bewusstseins bzw. des subjektiven Erlebens, die von dem Neurowissenschaftler Michael Graziano an der Princeton University entwickelt wurde. Sie besagt, dass das Gehirn subjektives Erleben als ein schematisches Modell des Aufmerksamkeitsprozesses konstruiert. Die Theorie zählt zu den materialistischen Bewusstseinstheorien. Sie weist Ähnlichkeiten mit den illusionistischen Ansätzen von Philosophen wie Daniel Dennett, Patricia Churchland und Keith Frankish auf.\nDer Theorie zufolge entwickelte sich ein Aufmerksamkeitsschema zwangsläufig aufgrund seines grundlegenden evolutionären Nutzens für die Wahrnehmung, Kognition und soziale Interaktion.\nDie Attention Schema Theory wird heute intensiv in der Philosophie des Geistes, den Kognitiven Neurowissenschaften und der Künstlichen Intelligenz aufgegriffen und diskutiert.",
+   "u": "https://de.wikipedia.org/wiki/Aufmerksamkeitsschema-Theorie",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Aufmerksamkeitsverschiebung",
+   "s": "Eine Aufmerksamkeitsverschiebung (Verlagerung der Aufmerksamkeit) tritt auf, wenn das Lenken der Aufmerksamkeit auf einen Punkt die Effizienz der Verarbeitung dieses Punkts erhöht und eine Hemmung einschließt, um die Aufmerksamkeitsressourcen auf unerwünschte oder irrelevante Eingaben zu reduzieren. Eine Aufmerksamkeitsverlagerung ist notwendig, um Aufmerksamkeitsressourcen so zuzuweisen, dass Informationen aus einem Reiz effizienter verarbeitet werden können. Untersuchungen haben gezeigt, dass die Verarbeitung effizienter verläuft, wenn die Aufmerksamkeit auf ein Objekt oder einen Bereich gerichtet ist. Kosten bei Aufgabenwechseln entstehen, wenn die Leistung bei einer Aufgabe aufgrund des erhöhten Aufwands, der mit der Aufmerksamkeitsverlagerung verbunden ist, leidet. Es gibt konkurrierende Theorien, die zu erklären versuchen, warum und wie die Aufmerksamkeit verlagert wird und wie die Aufmerksamkeit bei der Aufmerksamkeitskontrolle durch den Raum bewegt wird.",
+   "u": "https://de.wikipedia.org/wiki/Aufmerksamkeitsverschiebung",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Auswahlparadox",
+   "s": "Das Auswahlparadox (im Englischen Overchoice oder choice overload) ist in der Entscheidungstheorie ein Paradoxon, welches die erschwerte Entscheidungsfindung beschreibt, wenn viele Wahloptionen zur Verfügung stehen.\nVerkürzt lässt es sich mit „Zu viele Entscheidungsalternativen behindern die Entscheidungsfindung“ oder „Weniger ist mehr“ wiedergeben.\nIn einer Feldstudie untersuchen Sheena Iyengar und Mark Lepper im Jahr 2000 das Auswahlparadox erstmals wissenschaftlich. Bis 2024 haben bereits über 120 Studien das Phänomen bestätigt und weiter erforscht. Ob und wann es zum Auswahlparadox kommt, bestimmen mindestens vier Faktoren: Das Auswahlparadox tritt eher auf,\nje schwieriger die Entscheidung ist,\nje komplexer die Auswahlmöglichkeiten sind,\nje unklarer die Präferenz ist und\nje stärker die Entscheidungsabsicht ist.\nDas Auswahlparadox kann dazu führen, dass Personen weniger zufrieden mit ihrer Entscheidung sind, diese bereuen oder eine Entscheidung aufschieben. Zudem verändern Personen ihre getroffene Entscheidung im Nachhinein eher.\nDas Auswahlparadox kann sowohl im Konsumkontext zum Vorschein kommen als auch in anderen Lebensbereichen, wie beispielsweise bei ChatGPT und im Online-Dating. Es empfehlen sich eine Reihe von Strategien, um das Auswahlparadox zu minimieren.",
+   "u": "https://de.wikipedia.org/wiki/Auswahlparadox",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Bindungstoleranz",
+   "s": "Bindungstoleranz, auch Umgangsloyalität, jedoch in Abgrenzung zur Bindungsfürsorge, ist ein Begriff aus der Rechtspsychologie und dem Familienrecht. Er hat, neben Aspekten wie Erziehungsfähigkeit, Kontinuitätsprinzip und Kindeswille eine wichtige Bedeutung für familienrechtspsychologische Gutachten und Entscheidungen der Familiengerichte zum Sorgerecht und Umgangsrecht. Der rechtliche Grundsatz für die Bindungstoleranz ergibt sich in der deutschen Gesetzgebung aus den §§ 1618a, 1626 Abs. 3 und 1684 Abs. 2 BGB.\nDer Rechtspsychologe Joseph Salzgeber gibt folgende Definition: „Bindungstoleranz, gelegentlich synonym mit Umgangsloyalität gebraucht, verpflichtet Familienrichter und Sachverständige zu überprüfen, welcher Elternteil am ehesten die Einsicht besitzt, dass es für das Kindeswohl wesentlich ist, den Kontakt zum getrennt lebenden Elternteil zuzulassen.“ Der Begriff geht auf den Psychologen Uwe Tewes 1992 zurück.\nWasilios E. Fthenakis, Renate Niesel und Hans-Rainer Kunze legten 1982 dar, dass „für die Zusprechung des Elternrechts der Elternteil am besten geeignet sei, der es am ehesten verkraften und in dem Bestreben kooperativ sein könne, den Kindern die Verbindung zu allen bedeutsamen Personen in ihrem Beziehungssystem zu erhalten“. Mangelnde Bindungstoleranz kann zur Umgangsverweigerung und letztlich zum Entfremdungssyndrom führen. Das Oberlandesgericht Frankfurt am Main entschied (Oberlandesgericht Frankfurt am Main, Beschluss vom 26. Oktober 2000, Az. 6 WF 168/00): „In hartnäckigen Umgangsrechts-Verweigerungsfällen (‚PAS‘) ist als letztes Mittel der Entzug der elterlichen Sorge gemäß § 1666 BGB in Betracht zu ziehen.“",
+   "u": "https://de.wikipedia.org/wiki/Bindungstoleranz",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Bumerangeffekt",
+   "s": "Der Bumerangeffekt beschreibt in der Psychologie verschiedene Phänomene, bei denen das Gegenteil eintritt von dem, was beabsichtigt wurde. Dies trifft beispielsweise auf Überredungsversuche zu, bei denen die Zielperson ihre Meinung in die entgegengesetzte Richtung ändert. Darüber hinaus wird als Bumerangeffekt die erhöhte Zugänglichkeit stereotyper Gedanken bezeichnet, die nach dem Versuch der Stereotypunterdrückung auftritt.",
+   "u": "https://de.wikipedia.org/wiki/Bumerangeffekt",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "COM-B-Modell",
+   "s": "Das COM-B-Modell ist ein psychologisches Rahmenwerk zur Verhaltensänderung, das drei notwendige Komponenten für das Auftreten eines Verhaltens (Behavior) vorschlägt. Durch die Bewertung von Fähigkeiten (Capability), Gelegenheiten (Opportunity) und Motivation (Motivation) können Führungskräfte, politische Entscheidungsträger und Verhaltenswissenschaftler verstehen, warum ein bestimmtes Verhalten auftritt und wie gezielte Interventionen entwickelt werden können, die zu einer effektiven Veränderung führen.",
+   "u": "https://de.wikipedia.org/wiki/COM-B-Modell",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Consumer-Citizen-Gap",
+   "s": "Consumer-Citizen-Gap bezeichnet die Erscheinung, dass die Einstellungen der Verbraucher in ihrer Rolle als Bürger deutlich vom Verhalten in ihrer Rolle als Konsument abweichen. Die Menschen kaufen als Konsument anders ein als sie als Bürger in Umfragen angeben einzukaufen. Dies wird auch als „Einstellungs-Verhaltens-Diskrepanz“ bezeichnet. Zum Beispiel gibt es Unterschiede zwischen in Umfragen gemachten Statements zur Tierhaltung bzw. zum Tierwohl und dem tatsächlichen Verhalten beim Kauf und Konsum von Fleisch. Auch liegen bei Bioprodukten die tatsächlichen Marktanteile und die in Umfragen genannte Bereitschaft zum Kauf auseinander.\nAls Gründe für die Entstehung dieser Diskrepanz am Beispiel der Nutztierhaltung werden in der Studie SocialLab genannt:\nDie nicht ausreichende Zahlungsbereitschaft der Konsumenten.\nDie Antworten von Verbrauchern zu ihrer Besorgnis oder ihren Einstellungen in Befragungen aufgrund von sozialer Erwünschtheit verzerrt sind. Demzufolge geben Befragte an, besorgt zu sein, weil sie eine Sorge um das Tierwohl als sozial erwünscht ansehen, obgleich diese Sorge nicht Ausdruck ihrer eigenen Einstellung ist.\nEin dritter und weiterer Erklärungsansatz ist, dass es an Alternativen fehlt, die den Konsumenten eine attraktive und freie Wahl an Verkaufsstätten bieten und deren Bedürfnis nach einem „mehr an Tierwohl“ widerspiegeln",
+   "u": "https://de.wikipedia.org/wiki/Consumer-Citizen-Gap",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Counseling",
+   "s": "Counseling (aus dem amerikanischen Englisch, im britischen Englisch: Counselling) ist die professionelle psychosoziale Beratung von Einzelnen oder Gruppen mit dem Ziel, Problemlösungs- oder Veränderungsprozesse innerhalb eines vergleichsweise kurzen Zeitraums anzustoßen und zu evaluieren. Die im Counseling verwendeten kognitiv-emotionalen Interventionsmethoden sollen die Fähigkeit zu Selbststeuerung und die Selbsthilfebereitschaft fördern, Counselors arbeiten daher mit Gesprächs- und Interventionstechniken, die nur zum Teil mit denen von Psychotherapeuten zu vergleichen sind. In der Regel ist die Interventionstiefe geringer und der Ansatz holistisch, das heißt, das gesamte soziale Umfeld der Klienten und ihre Unterstützungssysteme geraten stärker ins Blickfeld (sog. „kontextuelles Paradigma“ des Counseling). Eine psychologische Ausbildung ist nicht zwingend erforderlich; in den USA findet die Ausbildung häufig an Fachbereichen für Erziehungswissenschaften statt. Hingegen sind z. B. Feldkenntnisse und Berufserfahrungen aus benachbarten Bereichen von Vorteil – so z. B. im Career-counseling.\nEinen Sonderfall stellt das Peer-to-peer-counseling dar (im therapeutischen Bereich: Co-Counseling), die gegenseitige Beratung untereinander von Personen (meist Laien) mit gleichen Interessen oder ähnlichen Erfahrungen.",
+   "u": "https://de.wikipedia.org/wiki/Counseling",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Digitales Wohlbefinden",
+   "s": "Digitales Wohlbefinden (engl. Digital Wellbeing) bezeichnet ein interdisziplinäres Konzept, das sich mit dem gesundheitsförderlichen Umgang von digitalen Technologien befasst. Ziel ist es, die Nutzung digitaler Medien so zu gestalten, dass sie das physische, soziale und psychische Wohlbefinden unterstützt, anstatt es zu beeinträchtigen. Unter dem Begriff werden außerdem Initiativen der großen Anbieter von Onlinediensten Google, Facebook und Apple verstanden, die seit etwa 2018 Funktionen bereitstellen, mit denen Nutzende ihre Bildschirmzeit erfassen und die Zeitdauer der Smartphone-Nutzung zu begrenzen, um somit Smartphone- und Internetsucht vorzubeugen.",
+   "u": "https://de.wikipedia.org/wiki/Digitales_Wohlbefinden",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Eldest Daughter Syndrome",
+   "s": "Das Eldest Daughter Syndrome (EDS; deutsch: Älteste-Tochter-Syndrom oder Große-Schwester-Syndrom) beschreibt ein psychologisches und soziales Phänomen, bei dem erstgeborene Töchter unverhältnismäßig stark familiären Verantwortungen und Belastungen ausgesetzt sind. Die Ursachen liegen häufig in kulturellen Normen, elterlichen Erwartungen und Geschwisterdynamiken. Betroffene berichten unter anderem von erhöhtem Stresserleben und Gefühlen der Angst. Darüber hinaus können langfristige Auswirkungen auf das Selbstwertgefühl und die Identitätsentwicklung auftreten.",
+   "u": "https://de.wikipedia.org/wiki/Eldest_Daughter_Syndrome",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Elementenpsychologie",
+   "s": "Elementenpsychologie bezeichnet eine Richtung der Psychologie, die komplexes psychisches Geschehen wie z. B. Prozesse der Bewusstseinsbildung auf eine begrenzte Anzahl von kleineren, leichter bestimmbaren Einheiten oder Elementen zurückzuführen versucht. Damit erweist sie sich als strukturalistische Psychologie. Carl Wernicke (1848–1905), der selbst viele psychologische Begriffe gebildet hat, übertrug diese Methodik in die Psychiatrie und Neurologie durch Betonen topischer, d. h. begrifflich-systematisch-funktioneller und die Lokalisation im ZNS betreffender Zusammenhänge. Seither ist Elementenpsychologie als Grundlage vieler Fragen der klinischen Psychologie, medizinischer Psychologie und forensischen Psychiatrie unentbehrlich.",
+   "u": "https://de.wikipedia.org/wiki/Elementenpsychologie",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Emotionale Invalidierung",
+   "s": "Invalidierung ist ein Begriff aus der Psychologie, den die US-amerikanische Psychologin Marsha M. Linehan in ihrer biosozialen Theorie über Borderline-Störung eingeführt hat und der insbesondere in der Dialektischen-Behavioralen Therapie (DBT) eine zentrale Rolle spielt. Unter einer emotionalen Invalidierung versteht man in diesem Kontext, dass das emotionale Erleben und Verhalten eines Menschen von seiner Umwelt entwertet oder für ungültig erklärt wird.\nDer Begriff wird zudem als ein bedeutender Faktor bei der Entstehung und Aufrechterhaltung von emotionalen Problemen betrachtet, insbesondere bei Menschen mit Borderline-Persönlichkeitsstörung (BPS), kann jedoch auch bei affektiven Störungen (z. B. der Depression) oder Sozialen Angststörungen sowie bei Patienten mit Essstörungen angewandt werden. Die Entwertung erfolgt meistens unbewusst und ungewollt, hat jedoch ernste Folgen, die das Wohlbefinden belasten.",
+   "u": "https://de.wikipedia.org/wiki/Emotionale_Invalidierung",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Ernährungspsychologie",
+   "s": "Die Ernährungspsychologie ist ein wissenschaftliches Fachgebiet, das Ernährungswissenschaft und Psychologie verbindet. Es ist in den 1970er Jahren entstanden. Ein Vertreter in Deutschland war der Ernährungswissenschaftler Volker Pudel. Im Mittelpunkt der Forschung stehen die biologischen und psychischen Mechanismen, die Hunger, Durst und Appetit auslösen und das Essverhalten von Menschen beeinflussen. Einige Ernährungspsychologen legen den Schwerpunkt auf die Erforschung von Genuss und Ekel.\nNach Pudel soll die Ernährungspsychologie zum Verständnis menschlichen Essverhaltens und gesundheitsschädlicher Varianten beitragen, die Wirkungen von Lebensmittelinhaltsstoffen auf die Psyche erforschen, aber auch Modelle entwickeln, die das Ernährungsverhalten der Bevölkerung im Sinne von „gesunder Ernährung“ beeinflussen.",
+   "u": "https://de.wikipedia.org/wiki/Ern%C3%A4hrungspsychologie",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Erziehungsfähigkeit",
+   "s": "Erziehungsfähigkeit beschreibt die Fähigkeit von Sorgeberechtigten, die elterliche Sorge zum Wohl des Kindes auszuüben.\nDie Erziehungsfähigkeit kann Gegenstand eines familienrechtspsychologischen Gutachtens sein, wenn ein Familiengericht über die Übertragung der Alleinsorge bei Getrenntleben der Eltern (§ 1671 BGB), über Maßnahmen bei Gefährdung des Kindeswohls wie den Sorgerechtsentzug (§ 1666 BGB) oder die Ausübung des Umgangrechts (§ 1684 Abs. 3, 4 BGB) zu entscheiden hat.",
+   "u": "https://de.wikipedia.org/wiki/Erziehungsf%C3%A4higkeit",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Familienrechtspsychologisches Gutachten",
+   "s": "Das familienrechtspsychologische Gutachten ist ein psychologisches Gutachten, mit dem Ziel, Familiengerichte im juristischen Entscheidungsprozess zu unterstützen. In der Regel geht es um Fragestellungen, die das Kindeswohl betreffen, insbesondere um die Klärung psychologischer Aspekte bezüglich der elterlichen Sorge, des Umgangs des Kindes mit den Eltern oder anderen Personen, Aspekten der Kindeswohlgefährdung und der Einschätzung der Auswirkungen von Risiko- und Schutzbedingungen des Kindes, durch fachkundige Sachverständige.",
+   "u": "https://de.wikipedia.org/wiki/Familienrechtspsychologisches_Gutachten",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Friedenspsychologie",
+   "s": "Friedenspsychologie ist ein Teilbereich der Psychologie sowie der Friedensforschung, der sich mit den psychologischen Aspekten von Frieden, Konflikt, Gewalt und Krieg befasst. Friedenspsychologie lässt sich anhand von vier miteinander verbundenen Säulen kennzeichnen: (1) Forschung, (2) Bildung und Erziehung, (3) Praxis und (4) politische Einflussnahme. Die erste Säule, Forschung, ist am umfassendsten dokumentiert.\nFriedenspsychologische Aktivitäten basieren auf psychologischen Modellen (Theorien) und Methoden; sie sind in der Regel in ihren Mitteln und Zielen normativ gebunden, indem sie mit (möglichst) gewaltfreien Mitteln auf das Ideal des Friedens hinarbeiten. Gewalt und Frieden werden dabei zumeist im Sinne des erweiterten Friedensbegriffs Johan Galtungs definiert, nach dem Frieden nicht nur die Abwesenheit von personaler (direkter) Gewalt und Krieg ist (= negativer Frieden), sondern auch die Abwesenheit von struktureller (indirekter) und kultureller Gewalt einschließt (= positiver Frieden) (Fuchs & Sommer, 2004). Das Ideal des Friedens kann auch mit einer umfassenden Verwirklichung der Menschenrechte (bürgerlicher, politischer, wirtschaftlicher, sozialer und kultureller Rechte) konkretisiert werden; dies soll u. a. die Befriedigung grundlegender menschlicher Bedürfnisse sicherstellen, z. B. positive persönliche und soziale Identität, Kontrollerleben, Sicherheit, (soziale) Gerechtigkeit, Wohlbefinden, aber auch eine sichere Umwelt und angemessenen Zugang zu Nahrung und Unterkunft (Tropp, 2012).\nOrganisationen, die sich schwerpunktmäßig mit Friedenspsychologie befassen, sind z. B. in Deutschland das Forum Friedenspsychologie e. V. und in den Vereinigten Staaten die Society for the Study of Peace, Conflict, and Violence (Peace Psychology Division [Division 48] der American Psychological Association) sowie die Psychologists for Social Responsibility. Auf internationaler Ebene existiert das Committee for the Psychological Study of Peace und das International Network of Psychologists for Social Responsibility, das u. a. aus Organisationen aus Deutschland, Finnland, den Vereinigten Staaten, Australien, Costa Rica, Indien und Italien besteht.",
+   "u": "https://de.wikipedia.org/wiki/Friedenspsychologie",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Graphologie",
+   "s": "Die Graphologie (gemäß geltender Rechtschreibung auch Grafologie) ist die Lehre von der Handschrift als Ausdruck des Charakters. Graphologie bedeutet in wörtlicher Übersetzung die Lehre vom Schreiben sowie die Lehre, wie man aus der Handschrift eines Menschen auf bestimmte Bereiche seiner Persönlichkeit schließen kann. Die Graphologie ist demnach eine Methode der Psychodiagnostik. Dazu werden Schriftproben verwendet, die das übliche Schriftbild des Probanden wiedergeben (beispielsweise Briefe, Notizen, Aufzeichnungen, Abschriften). Die Graphologie gilt heute als Pseudowissenschaft.\nIm Laufe des 20. Jahrhunderts hat sich die Graphologie in unterschiedlichen Richtungen weiter entwickelt: Die französische Graphologie befasste sich weiter mit der Erforschung von Ursache und Wirkung in der Handschrift, rückte also einen eher geisteswissenschaftlich-philosophischen Aspekt in den Vordergrund. Die deutschsprachige Graphologie fand bei vielen Naturwissenschaftlern und Ärzten Resonanz, weshalb ein Schwerpunkt auf der Kausalität der Naturwissenschaften zu beobachten ist. Die angelsächsische, vor allem die US-amerikanische Graphologie dagegen fokussierte auf Beobachtung und Deutung von Einzelmerkmalen. Untersuchungen und Kritik graphologischer Aussagen müssen dementsprechend immer auch auf dem Hintergrund der unterschiedlichen Ansätze und Methodenschwerpunkte gesehen werden.\nDie Aussagekraft der Graphologie wird kontrovers diskutiert. Sowohl Gegner als auch Befürworter berufen sich auf wissenschaftliche Studien. Die Mehrzahl der Autoren kommt zum Schluss, dass sich der Zusammenhang zwischen Merkmalen der Handschrift und Persönlichkeitsmerkmalen wissenschaftlich nicht belegen lasse. Andere Autoren kritisieren die genannten Studien bezüglich der Untersuchungsanlagen, die für die Überprüfung deutender psychodiagnostischer Methoden nicht geeignet seien, und verweisen auf Untersuchungen, die der Qualität der Graphologie ein positives Zeugnis ausstellen.",
+   "u": "https://de.wikipedia.org/wiki/Graphologie",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Leistungspsychologie",
+   "s": "Die Leistungspsychologie (englisch Performance Psychology) vereint Erkenntnisse aus verschiedenen Disziplinen der Psychologie. Ihr Gegenstand ist die Beschreibung und Erklärung von Ursachen, Wirkungsmechanismen und Bedingungen, die exzellente Leistung in unterschiedlichen Einsatzfeldern fördern. Forschungsinteresse ist es, generalisierbare und messbare Faktoren zu identifizieren, zu beschreiben und empirisch zu prüfen, um Methoden und Rahmenbedingungen zu entwickeln, die mit den Ansätzen einer Psychotechnik und der Angewandten Psychologie zu einer optimalen Ausprägung exzellenter Leistung beitragen. Solche objektive Erkenntnisse konnten andererseits auch die Psychopathologie auf eine solidere Grundlage stellen.",
+   "u": "https://de.wikipedia.org/wiki/Leistungspsychologie",
+   "q": "Wikipedia"
+  },
+  {
+   "t": "Literaturpsychologie",
+   "s": "Literaturpsychologie ist ein Ober- bzw. Sammelbegriff für die zahlreichen, oft sehr verschiedenartigen literaturwissenschaftlichen (Aus-)Richtungen, die das literarische Werk sowie seinen Entstehungs- und Rezeptionsprozess unter Hinzuziehung unterschiedlicher psychologischer Theorieansätze, Methoden oder Konzepte untersuchen.\nDabei können grob gesehen zwei Hauptrichtungen unterschieden werden: einerseits die psychoanalytische Literaturwissenschaft, die im Rückgriff auf Freud und Lacan die literarische Produktion wie auch Rezeption als Ausdruck des Unbewussten versteht, andererseits die seit den 1960er Jahren ausgebildete empirische Literaturpsychologie, die psychologische Aussagen über Literatur oder ihre Entstehung und Wirkung anhand empirischer Studien überprüft, beispielsweise Aspekte der Kreativität oder des kreativen Prozesses in Analogie zum Träumen, der Beziehung zwischen Textinhalt, Textform und emotionalen Leserreaktionen wie auch der literarischen Entwicklung bzw. des Stilwandels und der Veränderungen einzelner literarischer Gattungen, die dem Nachlassen des ästhetischen Reizes durch Verfremdung entgegenzuwirken versuchen.\nDie Literaturpsychologie wird dementsprechend sowohl von der Psychologie als auch von den Literaturwissenschaften aus betrieben und steht damit im Spannungsfeld zwischen hermeneutischer Geistes- und Kulturwissenschaft und (empirischer) Sozial- bzw. auch Naturwissenschaft.\nDie längste Tradition in der literaturpsychologischen Forschung weist die Autorenpsychologie auf, die auf die Untersuchung der psychologischen Aspekte des Produktionsprozesses und des Produzenten von Literatur ausgerichtet ist. Ende des 19. Jahrhunderts wurde in dieser Ausrichtung die seit dem Altertum vertretene Ersatzhypothese („der blinde Seher“) psychologisch-psychiatrisch akzentuiert und als Zusammenhang von Genie und Wahnsinn thematisiert (Lombroso: Genie und Irrsinn, 1887). Daraus entstand Anfang des 20. Jahrhunderts in Verbindung mit der psychoanalytischen Gleichsetzung von kreativen und neurotischen Regressionsprozessen durch Freud eine Vielzahl von Pathographien (vgl. z. B. Lange-Eeichbaum: Genie – Irrsinn und Ruhm, 1928, Neuauflage 11 Bände, 1986ff.).\nDie „Neurose-These“ der Kreativität wurde allerdings in der zweiten Hälfte des 20. Jahrhunderts durch die Ich-psychologische Weiterentwicklung der Psychoanalyse revidiert (beispielsweise bei Kris: nicht-neurotische Regression im „Dienste des Ich“). …",
+   "u": "https://de.wikipedia.org/wiki/Literaturpsychologie",
+   "q": "Wikipedia"
+  }
+ ]
+}
