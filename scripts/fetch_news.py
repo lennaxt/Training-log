@@ -1,21 +1,42 @@
 #!/usr/bin/env python3
-"""Legt die Schlagzeilen als news.json neben index.html ab.
+"""Legt je Thema eine Datei unter news/ ab, neben index.html.
 
-GitHub Pages liefert die Datei von derselben Herkunft wie die App aus. Damit
-braucht der Browser keinen fremden Dienst anzufragen und laeuft nicht in CORS —
-die Feeds selbst erlauben Zugriff von fremden Seiten naemlich nicht.
+GitHub Pages liefert sie von derselben Herkunft wie die App aus — damit braucht
+der Browser keinen fremden Dienst und laeuft nicht in CORS.
+
+Die Themen kommen aus den Ressort-Feeds der Quellen, nicht aus eigener
+Einsortierung: keiner der drei Hauptfeeds fuehrt <category>, dafuer haben alle
+drei eigene Ressort-Adressen. Was hier waechst, ist diese Tabelle — nicht der
+Code darunter.
 """
 import json, os, re, sys, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from html import unescape
 
-FEEDS = {
-    "tagesschau": ("Tagesschau", "https://www.tagesschau.de/xml/rss2/"),
-    "dlf": ("Deutschlandfunk", "https://www.deutschlandfunk.de/nachrichten-100.rss"),
-    "taz": ("taz", "https://taz.de/!p4608;rss/"),
+TOPICS = {
+    "inland": ("Inland", [
+        ("Tagesschau", "https://www.tagesschau.de/inland/index~rss2.xml"),
+        ("Deutschlandfunk", "https://www.deutschlandfunk.de/politikportal-100.rss"),
+        ("taz", "https://taz.de/Politik/!p4615;rss/")]),
+    "ausland": ("Ausland", [
+        ("Tagesschau", "https://www.tagesschau.de/ausland/index~rss2.xml")]),
+    "wirtschaft": ("Wirtschaft", [
+        ("Tagesschau", "https://www.tagesschau.de/wirtschaft/index~rss2.xml"),
+        ("Deutschlandfunk", "https://www.deutschlandfunk.de/wirtschaft-106.rss")]),
+    "wissen": ("Wissen", [
+        ("Tagesschau", "https://www.tagesschau.de/wissen/index~rss2.xml")]),
+    "umwelt": ("Umwelt", [
+        ("taz", "https://taz.de/Oeko/!p4616;rss/")]),
+    "gesellschaft": ("Gesellschaft", [
+        ("taz", "https://taz.de/Gesellschaft/!p4617;rss/")]),
+    "kultur": ("Kultur", [
+        ("taz", "https://taz.de/Kultur/!p4618;rss/")]),
+    "sport": ("Sport", [
+        ("taz", "https://taz.de/Sport/!p4619;rss/")]),
 }
-PER_FEED = 20
-OUT = os.path.join(os.path.dirname(__file__), "..", "news.json")
+PER_TOPIC = 24
+OUT_DIR = os.path.join(os.path.dirname(__file__), "..", "news")
 UA = "Trainingslog-Newsbot/1.0 (+https://github.com/lennaxt/Training-log)"
 
 
@@ -24,54 +45,63 @@ def clean(s, limit):
     return s[:limit].rstrip() + "…" if len(s) > limit else s
 
 
-def items(raw):
+def when(item):
+    # taz laesst den Wochentag weg, die anderen nicht - parsedate kommt mit beidem klar.
+    raw = item.findtext("pubDate")
+    try:
+        return parsedate_to_datetime(raw).astimezone(timezone.utc)
+    except Exception:
+        return None
+
+
+def items_of(raw, source):
     out = []
     for it in ET.fromstring(raw).iter("item"):
         title = clean(it.findtext("title"), 140)
         if not title:
             continue
+        d = when(it)
         out.append({"t": title,
                     "s": clean(it.findtext("description"), 320),
-                    "u": (it.findtext("link") or "").strip()})
-        if len(out) >= PER_FEED:
-            break
+                    "u": (it.findtext("link") or "").strip(),
+                    "q": source,
+                    "d": d.isoformat(timespec="seconds") if d else None})
     return out
 
 
 def main():
-    try:
-        with open(OUT, encoding="utf-8") as f:
-            prev = json.load(f).get("sources", {})
-    except Exception:
-        prev = {}
+    os.makedirs(OUT_DIR, exist_ok=True)
+    ok = 0
+    for key, (name, feeds) in TOPICS.items():
+        path = os.path.join(OUT_DIR, key + ".json")
+        pool, broken = [], []
+        for source, url in feeds:
+            try:
+                req = urllib.request.Request(url, headers={"User-Agent": UA})
+                with urllib.request.urlopen(req, timeout=25) as r:
+                    pool += items_of(r.read(), source)
+            except Exception as e:
+                broken.append(f"{source} ({e})")
 
-    sources, failed = {}, []
-    for key, (name, url) in FEEDS.items():
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=25) as r:
-                got = items(r.read())
-            if not got:
-                raise ValueError("Feed geliefert, aber keine Eintraege darin")
-            sources[key] = {"name": name, "items": got}
-            print(f"{key}: {len(got)} Schlagzeilen")
-        except Exception as e:
-            failed.append(key)
-            print(f"{key} FEHLER: {e}", file=sys.stderr)
-            # Eine kaputte Quelle darf die anderen nicht mitreissen: lieber den
-            # alten Stand behalten als die Quelle leer ausliefern.
-            if key in prev:
-                sources[key] = prev[key]
-                print(f"{key}: alter Stand behalten ({len(prev[key].get('items', []))})")
+        if not pool:
+            print(f"{key:13} FEHLER, alter Stand bleibt: {'; '.join(broken)}", file=sys.stderr)
+            continue
 
-    if not any(k not in failed for k in FEEDS):
-        print("Keine einzige Quelle erreichbar.", file=sys.stderr)
+        # Neueste zuerst; Meldungen ohne Datum ans Ende statt raus.
+        pool.sort(key=lambda i: i["d"] or "", reverse=True)
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump({"name": name,
+                       "updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+                       "items": pool[:PER_TOPIC]}, f, ensure_ascii=False, indent=1)
+            f.write("\n")
+        ok += 1
+        note = f"  (kaputt: {'; '.join(broken)})" if broken else ""
+        print(f"{key:13} {min(len(pool), PER_TOPIC):3} Meldungen aus {len(feeds) - len(broken)}/{len(feeds)} Feeds{note}")
+
+    if not ok:
+        print("Kein einziges Thema konnte gefuellt werden.", file=sys.stderr)
         return 1
-
-    with open(OUT, "w", encoding="utf-8") as f:
-        json.dump({"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-                   "sources": sources}, f, ensure_ascii=False, indent=1)
-        f.write("\n")
+    print(f"\n{ok}/{len(TOPICS)} Themen aktualisiert.")
     return 0
 
 

@@ -2846,39 +2846,51 @@ function creatureView(dark){
     unmount(){if(this._c){this._c.destroy();this._c=null}}
   };
 }
-/* news.json faellt aus einem Job im Repo, nicht aus dem Feed selbst — siehe
-   scripts/fetch_news.py. Der letzte Stand liegt zusaetzlich im localStorage,
-   damit die Pause auch ohne Netz eine Schlagzeile zeigt. */
-let newsData=null;
-function newsView(src){return {mount(el){newsRender(el,src)}}}
-function newsRender(el,src){
+/* Die Themendateien fallen aus einem Job im Repo, nicht aus dem Feed selbst —
+   siehe scripts/fetch_news.py. Der letzte Stand liegt zusaetzlich im
+   localStorage, damit die Pause auch ohne Netz eine Schlagzeile zeigt. */
+const newsMem={};
+let newsCat=null;
+const newsView={mount(el){newsRender(el)}};
+function newsSel(){
+  const m=pauseMode("wissen");
+  return newsCat?modeSel(newsCat,m):[m.opts[0].id];
+}
+function newsAge(iso){
+  if(!iso)return"";
+  const min=Math.round((Date.now()-new Date(iso))/60000);
+  if(!isFinite(min)||min<0)return"";
+  if(min<60)return"vor "+Math.max(1,min)+" Min";
+  if(min<1440)return"vor "+Math.round(min/60)+" Std";
+  const tage=Math.round(min/1440);
+  return tage===1?"gestern":"vor "+tage+" Tagen";
+}
+function newsRender(el){
   const head=el.querySelector(".mp-head");
   if(!head)return;
-  const show=d=>{
-    const all=(d&&d.sources)||{};
-    const pool=(src==="mix"?Object.values(all):[all[src]])
-      .filter(Boolean)
-      .flatMap(s=>(s.items||[]).map(i=>({...i,q:s.name})));
+  const themen=newsSel();
+  const paint=()=>{
+    const pool=themen.flatMap(t=>(newsMem[t]||{}).items||[]);
     el.querySelectorAll(".mp-line,.mp-text").forEach(n=>n.remove());
+    const k=el.querySelector(".mp-kicker");
     if(!pool.length){head.textContent="Noch keine Schlagzeilen geladen.";return}
     const it=pool[Math.floor(Math.random()*pool.length)];
     head.textContent=it.t;
     if(it.s){const p=document.createElement("div");p.className="mp-text";p.textContent=it.s;head.after(p)}
-    const k=el.querySelector(".mp-kicker");
-    if(k&&src==="mix"&&it.q)k.textContent=it.q;
+    if(k)k.textContent=[it.q,newsAge(it.d)].filter(Boolean).join(" · ");
   };
-  if(newsData){show(newsData);return}
-  let cached=null;
-  try{cached=JSON.parse(localStorage.getItem("newsCache")||"null")}catch(e){}
-  if(cached){newsData=cached;show(cached)}
-  fetch("news.json",{cache:"no-cache"})
-    .then(r=>r.ok?r.json():Promise.reject(r.status))
-    .then(d=>{
-      newsData=d;
-      try{localStorage.setItem("newsCache",JSON.stringify(d))}catch(e){}
-      if(!cached)show(d);
-    })
-    .catch(()=>{if(!cached)show(null)});
+  let da=false;
+  themen.forEach(t=>{
+    if(newsMem[t]){da=true;return}
+    try{const c=JSON.parse(localStorage.getItem("news_"+t)||"null");if(c){newsMem[t]=c;da=true}}catch(e){}
+  });
+  // Steht schon etwas, bleibt es stehen: die Schlagzeile soll nicht unter dem
+  // Lesenden wechseln, sobald der Abruf ankommt.
+  if(da)paint();
+  Promise.all(themen.map(t=>fetch("news/"+t+".json",{cache:"no-cache"})
+    .then(r=>r.ok?r.json():null)
+    .then(d=>{if(d){newsMem[t]=d;try{localStorage.setItem("news_"+t,JSON.stringify(d))}catch(e){}}})
+    .catch(()=>{}))).then(()=>{if(!da)paint()});
 }
 const PAUSE_MODES=[
   {id:"timer",name:"Timer",note:"Die Zeit läuft sichtbar ab.",field:"pauseTimer",sub:"Darstellung",
@@ -2908,17 +2920,17 @@ const PAUSE_MODES=[
      {id:"kreatur",name:"Kreatur hell",...creatureView(false)},
      {id:"kreatur_d",name:"Kreatur dunkel",...creatureView(true)}
    ]},
-  {id:"wissen",name:"Wissen",note:"Schlagzeilen zum Lesen.",field:"pauseWissen",sub:"Quelle",
+  {id:"wissen",name:"Wissen",note:"Schlagzeilen zum Lesen.",field:"pauseThemen",sub:"Themen",multi:true,
    html:o=>`<span class="mp-news"><span class="mp-kicker">${esc(o.name)}</span>
      <div class="mp-head"></div>
      <div class="mp-line" style="width:100%"></div><div class="mp-line" style="width:92%"></div>
      <div class="mp-line" style="width:97%"></div><div class="mp-line" style="width:54%"></div></span>
      <span class="mp-foot"><span class="mp-num" style="font-family:inherit;font-size:11px">–</span></span>`,
    opts:[
-     {id:"tagesschau",name:"Tagesschau",...newsView("tagesschau")},
-     {id:"dlf",name:"Deutschlandfunk",...newsView("dlf")},
-     {id:"taz",name:"taz",...newsView("taz")},
-     {id:"mix",name:"Bunt gemischt",...newsView("mix")}
+     {id:"inland",name:"Inland",...newsView},{id:"ausland",name:"Ausland",...newsView},
+     {id:"wirtschaft",name:"Wirtschaft",...newsView},{id:"wissen",name:"Wissen",...newsView},
+     {id:"umwelt",name:"Umwelt",...newsView},{id:"gesellschaft",name:"Gesellschaft",...newsView},
+     {id:"kultur",name:"Kultur",...newsView},{id:"sport",name:"Sport",...newsView}
    ]}
 ];
 const pauseMode=id=>PAUSE_MODES.find(m=>m.id===id);
@@ -3052,7 +3064,7 @@ function extraFieldHtml(cat,f){
       <div class="mode-prev" id="modePrev">${modePrevHtml(cat,m)}</div>
       <div class="pause-lbl pause-lbl-sub">${esc(m.sub)}</div>
       <div class="pause-chips">${m.opts.map(o=>
-        `<button class="pause-chip${o.id===modeOpt(cat,m)?" on":""}" onclick="setModeOpt('${cat}','${m.id}','${o.id}')">${esc(o.name)}</button>`).join("")}</div>`;
+        `<button class="pause-chip${(m.multi?modeSel(cat,m).includes(o.id):o.id===modeOpt(cat,m))?" on":""}" onclick="setModeOpt('${cat}','${m.id}','${o.id}')">${esc(o.name)}</button>`).join("")}</div>`;
   }
   return"";
 }
@@ -3062,11 +3074,22 @@ function curMode(cat){
   return pauseMode(v)?v:PAUSE_MODES[0].id;
 }
 function optOf(m,id){return m.opts.find(o=>o.id===id)||m.opts[0]}
+/* Mehrfach-Modi legen eine Liste ab statt einer Kennung; leer oder unbekannt
+   faellt auf die erste Wahl zurueck. */
+function modeSel(cat,m){
+  const v=store.extras&&store.extras[cat]?store.extras[cat][m.field]:undefined;
+  const ids=Array.isArray(v)?v.filter(id=>m.opts.some(o=>o.id===id)):[];
+  return ids.length?ids:[m.opts[0].id];
+}
 function modeOpt(cat,m){
+  if(m.multi)return modeSel(cat,m)[0];
   const v=store.extras&&store.extras[cat]?store.extras[cat][m.field]:undefined;
   return optOf(m,v).id;
 }
-function modeOptName(cat,m){return optOf(m,modeOpt(cat,m)).name}
+function modeOptName(cat,m){
+  if(m.multi){const s=modeSel(cat,m);return s.length===1?optOf(m,s[0]).name:s.length+" Themen"}
+  return optOf(m,modeOpt(cat,m)).name;
+}
 function pickMode(cat,id){
   storeExtra(cat,"pauseMode",id);
   const m=pauseMode(id);
@@ -3076,7 +3099,12 @@ function pickMode(cat,id){
 function setModeOpt(cat,id,v){
   const m=pauseMode(id);
   if(!m)return;
-  storeExtra(cat,m.field,v);
+  if(m.multi){
+    const cur=modeSel(cat,m);
+    // Eins muss stehen bleiben, sonst haette die Pause nichts zu zeigen.
+    const next=cur.includes(v)?cur.filter(x=>x!==v):cur.concat(v);
+    storeExtra(cat,m.field,next.length?next:cur);
+  }else storeExtra(cat,m.field,v);
   toast(m.name,modeOptName(cat,m));
   paintExtra();
 }
@@ -3096,6 +3124,7 @@ function startModePrev(){
   stopModePrev();
   const el=document.getElementById("modePrev"),o=modeView();
   if(!el||!o)return;
+  if(extraCur)newsCat=extraCur.cat;
   modeT0=performance.now();
   if(o.mount){o.mount(el);modeMounted=o}
   if(!matchMedia("(prefers-reduced-motion:reduce)").matches)modeRAF=requestAnimationFrame(modeTick);
@@ -3116,6 +3145,7 @@ function pauseStart(cat){
   const sec=pauseSec(extraVal(cat,"pause"));
   if(!sec)return;
   const m=pauseMode(curMode(cat)),o=optOf(m,modeOpt(cat,m));
+  newsCat=cat;
   const ov=document.getElementById("pauseOverlay"),stage=document.getElementById("pauseStage");
   pauseTotal=sec*1000;
   pauseEnd=Date.now()+pauseTotal;
