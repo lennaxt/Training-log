@@ -90,6 +90,9 @@ def texte(namen):
         except Exception:
             continue
         for pg in d.get("query", {}).get("pages", []):
+            # Verzeichnisartikel sind zum Nachschlagen da, nicht zum Lesen.
+            if re.match(r"^(Liste|Kategorie|Portal|Datei|Wikipedia)\b", pg["title"]):
+                continue
             t = tidy(pg.get("extract"))
             if len(t) < MIN_LEN:
                 continue
