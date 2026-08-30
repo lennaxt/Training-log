@@ -2920,14 +2920,22 @@ function quelleRender(el,modeId,dir,lesen){
       a.textContent="Ganzer Artikel bei Wikipedia \u2197";
       leser.append(a);
     }
+    if(it.liz){
+      const l=document.createElement("div");
+      l.className="news-src";l.style.marginTop="6px";l.textContent="Text unter "+it.liz;
+      leser.append(l);
+    }
     liste.hidden=true;leser.hidden=false;leser.scrollTop=0;
   };
   const paint=()=>{
-    let pool=themen.flatMap(t=>(quelleMem[dir+t]||{}).items||[]);
+    let pool=themen.flatMap(t=>{
+      const d=quelleMem[dir+t]||{};
+      return (d.items||[]).map(i=>({...i,liz:d.lizenz}));
+    });
     pool=pool.some(i=>i.d)
       ? pool.sort((a,b)=>(b.d||"").localeCompare(a.d||"")).slice(0,LISTE_MAX)
       : pool.sort(()=>Math.random()-.5).slice(0,LISTE_MAX);
-    if(!pool.length){liste.innerHTML='<div class="mp-note">Noch nichts geladen.</div>';return}
+    if(!pool.length){liste.innerHTML='<div class="mp-note">Noch nichts geladen.<br>Einmal mit Internet öffnen, dann steht es auch offline bereit.</div>';return}
     liste.innerHTML="";
     pool.forEach(it=>{
       // Lesbare Quellen oeffnen in der App, fremde beim Anbieter im eigenen Tab.
@@ -2937,7 +2945,9 @@ function quelleRender(el,modeId,dir,lesen){
       if(lesen)row.onclick=()=>oeffnen(it);
       const k=document.createElement("div");
       k.className="mp-kicker";
-      k.textContent=[it.q,newsAge(it.d)].filter(Boolean).join(" \u00b7 ");
+      // Gleich aussehende Zeilen mit ungleichem Verhalten verwirren: der Pfeil
+      // sagt vorher, dass dieser Tipp aus der App fuehrt.
+      k.textContent=[it.q,newsAge(it.d)].filter(Boolean).join(" \u00b7 ")+(lesen?"":" \u2197");
       const h=document.createElement("div");
       h.className="mp-head";h.textContent=it.t;
       row.append(k,h);
@@ -2994,6 +3004,7 @@ const PAUSE_MODES=[
      {id:"kreatur_d",name:"Kreatur dunkel",...creatureView(true)}
    ]},
   {id:"wissen",name:"Nachrichten",note:"Schlagzeilen zum \u00dcberfliegen.",field:"pauseThemen",sub:"Themen",multi:true,
+   def:["inland","ausland","wissen"],
    html:()=>SKELETT,
    opts:[
      {id:"inland",name:"Inland",...N},{id:"ausland",name:"Ausland",...N},
@@ -3002,6 +3013,7 @@ const PAUSE_MODES=[
      {id:"kultur",name:"Kultur",...N},{id:"sport",name:"Sport",...N}
    ]},
   {id:"wiki",name:"Wissen",note:"Artikel zum Lesen, mit Tiefe.",field:"pauseWissenThemen",sub:"Themen",multi:true,
+   def:["physik","geschichte","biologie"],
    html:()=>SKELETT,
    opts:[
      {id:"physik",name:"Physik",...W},{id:"astronomie",name:"Astronomie",...W},
@@ -3156,7 +3168,9 @@ function optOf(m,id){return m.opts.find(o=>o.id===id)||m.opts[0]}
 function modeSel(cat,m){
   const v=store.extras&&store.extras[cat]?store.extras[cat][m.field]:undefined;
   const ids=Array.isArray(v)?v.filter(id=>m.opts.some(o=>o.id===id)):[];
-  return ids.length?ids:[m.opts[0].id];
+  // Wer das zum ersten Mal oeffnet, soll eine gemischte Liste sehen und nicht
+  // ein einzelnes Thema, das er fuer die ganze Auswahl haelt.
+  return ids.length?ids:(m.def||[m.opts[0].id]);
 }
 function modeOpt(cat,m){
   if(m.multi)return modeSel(cat,m)[0];

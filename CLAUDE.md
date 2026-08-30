@@ -1,6 +1,10 @@
 # Trainingslog
 
-Persönliche Trainings-App, entwickelt von Lennart als Hobby-Projekt zum Lernen.
+Trainings-App, entwickelt von Lennart als Hobby-Projekt zum Lernen.
+
+**Nutzerkreis:** Lennart plus ein kleiner Kreis von Freunden (5–10 Personen). Kein
+öffentliches Produkt, aber auch keine reine Einzelplatz-App mehr: Bedienbarkeit für
+Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
 
 ## Projekt-Setup
 
@@ -17,6 +21,12 @@ Persönliche Trainings-App, entwickelt von Lennart als Hobby-Projekt zum Lernen.
 - Änderungen so klein wie möglich halten. Keine Refactorings, die nicht Teil der Aufgabe sind.
 - Mobile-Tauglichkeit prüfen: 375 px Viewport, Touch-Ziele ≥ 44 px, `font-size: 16px` bei Inputs (verhindert iOS-Zoom).
 - Auf Deutsch antworten.
+- Für Fremde bedienbar bauen: sinnvolle Standardwerte statt leerer Auswahl, keine
+  versteckte Geste als **einzigen** Weg zu einer Funktion, leere und Fehlzustände
+  sagen, was zu tun ist. Gleich aussehende Elemente dürfen sich nicht ungleich
+  verhalten — sonst ein sichtbares Zeichen dran (z. B. ↗ für „führt aus der App").
+- Fremde Inhalte nur einbauen, wenn die Lizenz es hergibt, und die Quelle dann
+  sichtbar nennen. Wikipedia (CC BY-SA) ja, Verlagstexte nein.
 - Fertige Arbeit committen **und pushen** — ohne Rückfrage. Lennart arbeitet meist vom Handy und kann nichts lokal prüfen; ein ungepushter Commit ist für ihn unsichtbar.
 
 ### Niemals
