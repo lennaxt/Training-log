@@ -739,6 +739,8 @@
     color:var(--earth);margin-bottom:7px}
   .mp-head{font-family:'Fraunces',serif;font-size:18px;font-weight:500;line-height:1.3;margin-bottom:11px}
   .mp-line{height:7px;background:var(--line);margin-bottom:7px}
+  .mp-text{font-size:14px;line-height:1.5;color:var(--ink-soft)}
+  .pause-stage .mp-text{font-size:16.5px;line-height:1.55}
   .mp-foot{position:absolute;right:13px;bottom:11px;font-size:11px;color:var(--ink-soft);
     font-variant-numeric:tabular-nums}
 </style>
@@ -2844,6 +2846,40 @@ function creatureView(dark){
     unmount(){if(this._c){this._c.destroy();this._c=null}}
   };
 }
+/* news.json faellt aus einem Job im Repo, nicht aus dem Feed selbst — siehe
+   scripts/fetch_news.py. Der letzte Stand liegt zusaetzlich im localStorage,
+   damit die Pause auch ohne Netz eine Schlagzeile zeigt. */
+let newsData=null;
+function newsView(src){return {mount(el){newsRender(el,src)}}}
+function newsRender(el,src){
+  const head=el.querySelector(".mp-head");
+  if(!head)return;
+  const show=d=>{
+    const all=(d&&d.sources)||{};
+    const pool=(src==="mix"?Object.values(all):[all[src]])
+      .filter(Boolean)
+      .flatMap(s=>(s.items||[]).map(i=>({...i,q:s.name})));
+    el.querySelectorAll(".mp-line,.mp-text").forEach(n=>n.remove());
+    if(!pool.length){head.textContent="Noch keine Schlagzeilen geladen.";return}
+    const it=pool[Math.floor(Math.random()*pool.length)];
+    head.textContent=it.t;
+    if(it.s){const p=document.createElement("div");p.className="mp-text";p.textContent=it.s;head.after(p)}
+    const k=el.querySelector(".mp-kicker");
+    if(k&&src==="mix"&&it.q)k.textContent=it.q;
+  };
+  if(newsData){show(newsData);return}
+  let cached=null;
+  try{cached=JSON.parse(localStorage.getItem("newsCache")||"null")}catch(e){}
+  if(cached){newsData=cached;show(cached)}
+  fetch("news.json",{cache:"no-cache"})
+    .then(r=>r.ok?r.json():Promise.reject(r.status))
+    .then(d=>{
+      newsData=d;
+      try{localStorage.setItem("newsCache",JSON.stringify(d))}catch(e){}
+      if(!cached)show(d);
+    })
+    .catch(()=>{if(!cached)show(null)});
+}
 const PAUSE_MODES=[
   {id:"timer",name:"Timer",note:"Die Zeit läuft sichtbar ab.",field:"pauseTimer",sub:"Darstellung",
    opts:[
@@ -2874,13 +2910,15 @@ const PAUSE_MODES=[
    ]},
   {id:"wissen",name:"Wissen",note:"Schlagzeilen zum Lesen.",field:"pauseWissen",sub:"Quelle",
    html:o=>`<span class="mp-news"><span class="mp-kicker">${esc(o.name)}</span>
-     <div class="mp-head">Eine Schlagzeile, die in 90 Sekunden zu schaffen ist</div>
+     <div class="mp-head"></div>
      <div class="mp-line" style="width:100%"></div><div class="mp-line" style="width:92%"></div>
      <div class="mp-line" style="width:97%"></div><div class="mp-line" style="width:54%"></div></span>
      <span class="mp-foot"><span class="mp-num" style="font-family:inherit;font-size:11px">–</span></span>`,
    opts:[
-     {id:"tagesschau",name:"Tagesschau"},{id:"dlf",name:"Deutschlandfunk"},
-     {id:"taz",name:"taz"},{id:"mix",name:"Bunt gemischt"}
+     {id:"tagesschau",name:"Tagesschau",...newsView("tagesschau")},
+     {id:"dlf",name:"Deutschlandfunk",...newsView("dlf")},
+     {id:"taz",name:"taz",...newsView("taz")},
+     {id:"mix",name:"Bunt gemischt",...newsView("mix")}
    ]}
 ];
 const pauseMode=id=>PAUSE_MODES.find(m=>m.id===id);
