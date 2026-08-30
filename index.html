@@ -731,6 +731,20 @@
   #modePrev .news-list .mp-head{font-size:15px;margin-bottom:5px}
   #modePrev .news-list .mp-text{font-size:12px;line-height:1.45}
   #pauseOverlay.dark .news-item{border-color:rgba(255,255,255,.13)}
+  /* Wikipedia steht unter freier Lizenz, der Text darf hier stehen — deshalb
+     wird gelesen statt weggeleitet. Gleicher Rahmen wie die Liste. */
+  .news-read{position:absolute;left:0;right:0;top:calc(var(--top) + 88px);bottom:calc(var(--bot) + 84px);
+    overflow-y:auto;-webkit-overflow-scrolling:touch;padding:0 22px;
+    -webkit-mask-image:linear-gradient(transparent 0,#000 16px,#000 calc(100% - 22px),transparent 100%);
+    mask-image:linear-gradient(transparent 0,#000 16px,#000 calc(100% - 22px),transparent 100%)}
+  .news-back{display:inline-flex;align-items:center;min-height:44px;padding:0 15px 0 11px;margin-bottom:10px;
+    border:1px solid var(--line);border-radius:999px;background:transparent;cursor:pointer;
+    font:600 10.5px/1 'Inter',sans-serif;letter-spacing:.16em;text-transform:uppercase;
+    color:var(--ink-soft);-webkit-tap-highlight-color:transparent}
+  #pauseOverlay.dark .news-back{border-color:rgba(255,255,255,.2);color:rgba(255,255,255,.55)}
+  .pause-stage .news-read .mp-head{font-size:25px;margin-bottom:12px}
+  .pause-stage .news-read .mp-text{font-size:16.5px;line-height:1.62;white-space:pre-line}
+  .news-src{display:block;margin-top:22px;padding-bottom:6px;font-size:12px;color:var(--ink-soft)}
   .creature-host{position:absolute;inset:0;overflow:hidden;isolation:isolate;
     display:flex;align-items:center;justify-content:center;--creature-scale:.0033}
   /* Die Kreatur bewegt sich nur in ihrem eigenen Kasten. Im Pausenbildschirm
@@ -2868,13 +2882,15 @@ function creatureView(dark){
 /* Die Themendateien fallen aus einem Job im Repo, nicht aus dem Feed selbst —
    siehe scripts/fetch_news.py. Der letzte Stand liegt zusaetzlich im
    localStorage, damit die Pause auch ohne Netz eine Schlagzeile zeigt. */
-const NEWS_LIST=16;
-const newsMem={};
-let newsCat=null;
-const newsView={mount(el){newsRender(el)}};
-function newsSel(){
-  const m=pauseMode("wissen");
-  return newsCat?modeSel(newsCat,m):[m.opts[0].id];
+const LISTE_MAX=16;
+/* Die Themendateien fallen aus einem Job im Repo — siehe scripts/. Der letzte
+   Stand liegt zusaetzlich im localStorage, damit die Pause ohne Netz laeuft. */
+const quelleMem={};
+let quelleCat=null;
+function quelleView(modeId,dir,lesen){return {mount(el){quelleRender(el,modeId,dir,lesen)}}}
+function quelleSel(modeId){
+  const m=pauseMode(modeId);
+  return quelleCat?modeSel(quelleCat,m):[m.opts[0].id];
 }
 function newsAge(iso){
   if(!iso)return"";
@@ -2885,43 +2901,70 @@ function newsAge(iso){
   const tage=Math.round(min/1440);
   return tage===1?"gestern":"vor "+tage+" Tagen";
 }
-function newsRender(el){
-  const list=el.querySelector(".news-list");
-  if(!list)return;
-  const themen=newsSel();
+function quelleRender(el,modeId,dir,lesen){
+  const liste=el.querySelector(".news-list"),leser=el.querySelector(".news-read");
+  if(!liste)return;
+  const themen=quelleSel(modeId);
+  const oeffnen=it=>{
+    leser.innerHTML="";
+    const zurueck=document.createElement("button");
+    zurueck.className="news-back";zurueck.type="button";zurueck.textContent="\u2190 Liste";
+    zurueck.onclick=()=>{leser.hidden=true;liste.hidden=false};
+    const k=document.createElement("div");k.className="mp-kicker";k.textContent=it.q||"";
+    const h=document.createElement("div");h.className="mp-head";h.textContent=it.t;
+    const t=document.createElement("div");t.className="mp-text";t.textContent=it.s;
+    leser.append(zurueck,k,h,t);
+    if(it.u){
+      const a=document.createElement("a");
+      a.className="news-src";a.href=it.u;a.target="_blank";a.rel="noopener noreferrer";
+      a.textContent="Ganzer Artikel bei Wikipedia \u2197";
+      leser.append(a);
+    }
+    liste.hidden=true;leser.hidden=false;leser.scrollTop=0;
+  };
   const paint=()=>{
-    const pool=themen.flatMap(t=>(newsMem[t]||{}).items||[])
-      .sort((a,b)=>(b.d||"").localeCompare(a.d||"")).slice(0,NEWS_LIST);
-    if(!pool.length){list.innerHTML='<div class="mp-note">Noch keine Schlagzeilen geladen.</div>';return}
-    list.innerHTML="";
+    let pool=themen.flatMap(t=>(quelleMem[dir+t]||{}).items||[]);
+    pool=pool.some(i=>i.d)
+      ? pool.sort((a,b)=>(b.d||"").localeCompare(a.d||"")).slice(0,LISTE_MAX)
+      : pool.sort(()=>Math.random()-.5).slice(0,LISTE_MAX);
+    if(!pool.length){liste.innerHTML='<div class="mp-note">Noch nichts geladen.</div>';return}
+    liste.innerHTML="";
     pool.forEach(it=>{
-      // Antippen oeffnet den Artikel beim Anbieter, in einem eigenen Tab —
-      // der Trainingslog bleibt daneben stehen.
-      const row=document.createElement(it.u?"a":"div");
+      // Lesbare Quellen oeffnen in der App, fremde beim Anbieter im eigenen Tab.
+      const row=document.createElement(lesen||!it.u?"div":"a");
       row.className="news-item";
-      if(it.u){row.href=it.u;row.target="_blank";row.rel="noopener noreferrer"}
+      if(!lesen&&it.u){row.href=it.u;row.target="_blank";row.rel="noopener noreferrer"}
+      if(lesen)row.onclick=()=>oeffnen(it);
       const k=document.createElement("div");
       k.className="mp-kicker";
-      k.textContent=[it.q,newsAge(it.d)].filter(Boolean).join(" · ");
+      k.textContent=[it.q,newsAge(it.d)].filter(Boolean).join(" \u00b7 ");
       const h=document.createElement("div");
       h.className="mp-head";h.textContent=it.t;
       row.append(k,h);
-      if(it.s){const t=document.createElement("div");t.className="mp-text";t.textContent=it.s;row.append(t)}
-      list.append(row);
+      if(it.s){const t=document.createElement("div");t.className="mp-text";
+        t.textContent=lesen?it.s.slice(0,150).trim()+"\u2026":it.s;row.append(t)}
+      liste.append(row);
     });
-    list.scrollTop=0;
+    liste.scrollTop=0;liste.hidden=false;
+    if(leser)leser.hidden=true;
   };
   let da=false;
   themen.forEach(t=>{
-    if(newsMem[t]){da=true;return}
-    try{const c=JSON.parse(localStorage.getItem("news_"+t)||"null");if(c){newsMem[t]=c;da=true}}catch(e){}
+    if(quelleMem[dir+t]){da=true;return}
+    try{const c=JSON.parse(localStorage.getItem("q_"+dir+t)||"null");if(c){quelleMem[dir+t]=c;da=true}}catch(e){}
   });
   if(da)paint();
-  Promise.all(themen.map(t=>fetch("news/"+t+".json",{cache:"no-cache"})
+  Promise.all(themen.map(t=>fetch(dir+"/"+t+".json",{cache:"no-cache"})
     .then(r=>r.ok?r.json():null)
-    .then(d=>{if(d){newsMem[t]=d;try{localStorage.setItem("news_"+t,JSON.stringify(d))}catch(e){}}})
+    .then(d=>{if(d){quelleMem[dir+t]=d;try{localStorage.setItem("q_"+dir+t,JSON.stringify(d))}catch(e){}}})
     .catch(()=>{}))).then(()=>{if(!da)paint()});
 }
+const SKELETT=`<div class="news-list"><div class="news-item">
+     <div class="mp-line" style="width:38%"></div><div class="mp-line" style="width:96%;height:11px"></div>
+     <div class="mp-line" style="width:88%"></div><div class="mp-line" style="width:64%"></div></div></div>
+   <div class="news-read" hidden></div>`;
+const N=quelleView("wissen","news",false);
+const W=quelleView("wiki","wissen",true);
 const PAUSE_MODES=[
   {id:"timer",name:"Timer",note:"Die Zeit läuft sichtbar ab.",field:"pauseTimer",sub:"Darstellung",
    opts:[
@@ -2950,15 +2993,21 @@ const PAUSE_MODES=[
      {id:"kreatur",name:"Kreatur hell",...creatureView(false)},
      {id:"kreatur_d",name:"Kreatur dunkel",...creatureView(true)}
    ]},
-  {id:"wissen",name:"Wissen",note:"Schlagzeilen zum Lesen.",field:"pauseThemen",sub:"Themen",multi:true,
-   html:()=>`<div class="news-list"><div class="news-item">
-     <div class="mp-line" style="width:38%"></div><div class="mp-line" style="width:96%;height:11px"></div>
-     <div class="mp-line" style="width:88%"></div><div class="mp-line" style="width:64%"></div></div></div>`,
+  {id:"wissen",name:"Nachrichten",note:"Schlagzeilen zum \u00dcberfliegen.",field:"pauseThemen",sub:"Themen",multi:true,
+   html:()=>SKELETT,
    opts:[
-     {id:"inland",name:"Inland",...newsView},{id:"ausland",name:"Ausland",...newsView},
-     {id:"wirtschaft",name:"Wirtschaft",...newsView},{id:"wissen",name:"Wissen",...newsView},
-     {id:"umwelt",name:"Umwelt",...newsView},{id:"gesellschaft",name:"Gesellschaft",...newsView},
-     {id:"kultur",name:"Kultur",...newsView},{id:"sport",name:"Sport",...newsView}
+     {id:"inland",name:"Inland",...N},{id:"ausland",name:"Ausland",...N},
+     {id:"wirtschaft",name:"Wirtschaft",...N},{id:"wissen",name:"Wissen",...N},
+     {id:"umwelt",name:"Umwelt",...N},{id:"gesellschaft",name:"Gesellschaft",...N},
+     {id:"kultur",name:"Kultur",...N},{id:"sport",name:"Sport",...N}
+   ]},
+  {id:"wiki",name:"Wissen",note:"Artikel zum Lesen, mit Tiefe.",field:"pauseWissenThemen",sub:"Themen",multi:true,
+   html:()=>SKELETT,
+   opts:[
+     {id:"physik",name:"Physik",...W},{id:"astronomie",name:"Astronomie",...W},
+     {id:"biologie",name:"Biologie",...W},{id:"medizin",name:"Medizin",...W},
+     {id:"geschichte",name:"Geschichte",...W},{id:"philosophie",name:"Philosophie",...W},
+     {id:"technik",name:"Technik",...W},{id:"psychologie",name:"Psychologie",...W}
    ]}
 ];
 const pauseMode=id=>PAUSE_MODES.find(m=>m.id===id);
@@ -3152,7 +3201,7 @@ function startModePrev(){
   stopModePrev();
   const el=document.getElementById("modePrev"),o=modeView();
   if(!el||!o)return;
-  if(extraCur)newsCat=extraCur.cat;
+  if(extraCur)quelleCat=extraCur.cat;
   modeT0=performance.now();
   if(o.mount){o.mount(el);modeMounted=o}
   if(!matchMedia("(prefers-reduced-motion:reduce)").matches)modeRAF=requestAnimationFrame(modeTick);
@@ -3173,7 +3222,7 @@ function pauseStart(cat){
   const sec=pauseSec(extraVal(cat,"pause"));
   if(!sec)return;
   const m=pauseMode(curMode(cat)),o=optOf(m,modeOpt(cat,m));
-  newsCat=cat;
+  quelleCat=cat;
   const ov=document.getElementById("pauseOverlay"),stage=document.getElementById("pauseStage");
   pauseTotal=sec*1000;
   pauseEnd=Date.now()+pauseTotal;

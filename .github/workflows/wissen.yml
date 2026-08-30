@@ -1,0 +1,31 @@
+name: Wissen holen
+
+on:
+  # Wikipedia-Artikel altern nicht wie Nachrichten - einmal pro Woche reicht.
+  schedule:
+    - cron: "23 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wissen
+
+jobs:
+  wissen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/fetch_wissen.py
+      - name: Committen, wenn sich etwas geändert hat
+        run: |
+          if [ -z "$(git status --porcelain wissen)" ]; then
+            echo "Nichts Neues."
+            exit 0
+          fi
+          git config user.name "news-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add wissen
+          git commit -m "Wissensartikel aktualisiert"
+          git push
