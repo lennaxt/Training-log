@@ -712,6 +712,25 @@
   .pause-stage .mp-head{font-size:27px;margin-bottom:20px}
   .pause-stage .mp-line{height:9px;margin-bottom:9px}
   .pause-stage .mp-foot{display:none}
+  /* Drei Minuten Pause fuellt eine einzelne Meldung nicht. Die Liste laesst
+     den Nutzer selbst bestimmen, wie viel er schafft. */
+  /* Eigener Rahmen zwischen Uhr und Knopf statt ueber den ganzen Schirm:
+     sonst scrollen Meldungen hinter die Zeit und unter den Skip-Knopf. */
+  .news-list{position:absolute;left:0;right:0;top:calc(var(--top) + 88px);bottom:calc(var(--bot) + 84px);
+    overflow-y:auto;-webkit-overflow-scrolling:touch;padding:0 22px;
+    -webkit-mask-image:linear-gradient(transparent 0,#000 16px,#000 calc(100% - 22px),transparent 100%);
+    mask-image:linear-gradient(transparent 0,#000 16px,#000 calc(100% - 22px),transparent 100%)}
+  .news-item{display:block;text-decoration:none;color:inherit;padding:17px 0;
+    border-top:1px solid var(--line);-webkit-tap-highlight-color:transparent}
+  .news-item:first-child{border-top:0;padding-top:0}
+  .news-item:active{opacity:.55}
+  .pause-stage .news-list .mp-head{font-size:21px;margin-bottom:7px}
+  .pause-stage .news-list .mp-text{font-size:15px;line-height:1.5}
+  .pause-stage .news-list .mp-kicker{margin-bottom:5px}
+  #modePrev .news-list{padding:0 14px;top:10px;bottom:10px}
+  #modePrev .news-list .mp-head{font-size:15px;margin-bottom:5px}
+  #modePrev .news-list .mp-text{font-size:12px;line-height:1.45}
+  #pauseOverlay.dark .news-item{border-color:rgba(255,255,255,.13)}
   .creature-host{position:absolute;inset:0;overflow:hidden;isolation:isolate;
     display:flex;align-items:center;justify-content:center;--creature-scale:.0033}
   /* Die Kreatur bewegt sich nur in ihrem eigenen Kasten. Im Pausenbildschirm
@@ -2849,6 +2868,7 @@ function creatureView(dark){
 /* Die Themendateien fallen aus einem Job im Repo, nicht aus dem Feed selbst —
    siehe scripts/fetch_news.py. Der letzte Stand liegt zusaetzlich im
    localStorage, damit die Pause auch ohne Netz eine Schlagzeile zeigt. */
+const NEWS_LIST=16;
 const newsMem={};
 let newsCat=null;
 const newsView={mount(el){newsRender(el)}};
@@ -2866,26 +2886,36 @@ function newsAge(iso){
   return tage===1?"gestern":"vor "+tage+" Tagen";
 }
 function newsRender(el){
-  const head=el.querySelector(".mp-head");
-  if(!head)return;
+  const list=el.querySelector(".news-list");
+  if(!list)return;
   const themen=newsSel();
   const paint=()=>{
-    const pool=themen.flatMap(t=>(newsMem[t]||{}).items||[]);
-    el.querySelectorAll(".mp-line,.mp-text").forEach(n=>n.remove());
-    const k=el.querySelector(".mp-kicker");
-    if(!pool.length){head.textContent="Noch keine Schlagzeilen geladen.";return}
-    const it=pool[Math.floor(Math.random()*pool.length)];
-    head.textContent=it.t;
-    if(it.s){const p=document.createElement("div");p.className="mp-text";p.textContent=it.s;head.after(p)}
-    if(k)k.textContent=[it.q,newsAge(it.d)].filter(Boolean).join(" · ");
+    const pool=themen.flatMap(t=>(newsMem[t]||{}).items||[])
+      .sort((a,b)=>(b.d||"").localeCompare(a.d||"")).slice(0,NEWS_LIST);
+    if(!pool.length){list.innerHTML='<div class="mp-note">Noch keine Schlagzeilen geladen.</div>';return}
+    list.innerHTML="";
+    pool.forEach(it=>{
+      // Antippen oeffnet den Artikel beim Anbieter, in einem eigenen Tab —
+      // der Trainingslog bleibt daneben stehen.
+      const row=document.createElement(it.u?"a":"div");
+      row.className="news-item";
+      if(it.u){row.href=it.u;row.target="_blank";row.rel="noopener noreferrer"}
+      const k=document.createElement("div");
+      k.className="mp-kicker";
+      k.textContent=[it.q,newsAge(it.d)].filter(Boolean).join(" · ");
+      const h=document.createElement("div");
+      h.className="mp-head";h.textContent=it.t;
+      row.append(k,h);
+      if(it.s){const t=document.createElement("div");t.className="mp-text";t.textContent=it.s;row.append(t)}
+      list.append(row);
+    });
+    list.scrollTop=0;
   };
   let da=false;
   themen.forEach(t=>{
     if(newsMem[t]){da=true;return}
     try{const c=JSON.parse(localStorage.getItem("news_"+t)||"null");if(c){newsMem[t]=c;da=true}}catch(e){}
   });
-  // Steht schon etwas, bleibt es stehen: die Schlagzeile soll nicht unter dem
-  // Lesenden wechseln, sobald der Abruf ankommt.
   if(da)paint();
   Promise.all(themen.map(t=>fetch("news/"+t+".json",{cache:"no-cache"})
     .then(r=>r.ok?r.json():null)
@@ -2921,11 +2951,9 @@ const PAUSE_MODES=[
      {id:"kreatur_d",name:"Kreatur dunkel",...creatureView(true)}
    ]},
   {id:"wissen",name:"Wissen",note:"Schlagzeilen zum Lesen.",field:"pauseThemen",sub:"Themen",multi:true,
-   html:o=>`<span class="mp-news"><span class="mp-kicker">${esc(o.name)}</span>
-     <div class="mp-head"></div>
-     <div class="mp-line" style="width:100%"></div><div class="mp-line" style="width:92%"></div>
-     <div class="mp-line" style="width:97%"></div><div class="mp-line" style="width:54%"></div></span>
-     <span class="mp-foot"><span class="mp-num" style="font-family:inherit;font-size:11px">–</span></span>`,
+   html:()=>`<div class="news-list"><div class="news-item">
+     <div class="mp-line" style="width:38%"></div><div class="mp-line" style="width:96%;height:11px"></div>
+     <div class="mp-line" style="width:88%"></div><div class="mp-line" style="width:64%"></div></div></div>`,
    opts:[
      {id:"inland",name:"Inland",...newsView},{id:"ausland",name:"Ausland",...newsView},
      {id:"wirtschaft",name:"Wirtschaft",...newsView},{id:"wissen",name:"Wissen",...newsView},

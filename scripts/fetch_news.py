@@ -42,6 +42,8 @@ UA = "Trainingslog-Newsbot/1.0 (+https://github.com/lennaxt/Training-log)"
 
 def clean(s, limit):
     s = re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", "", s or ""))).strip()
+    # taz und Tagesschau haengen ihren Weiterlesen-Hinweis an den Teaser.
+    s = re.sub(r"\s*\[?mehr\.*\]?\s*$", "", s, flags=re.I).strip()
     return s[:limit].rstrip() + "…" if len(s) > limit else s
 
 
