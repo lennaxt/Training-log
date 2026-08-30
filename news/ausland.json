@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-08-30T20:13:55+00:00",
+ "updated": "2026-08-30T23:30:33+00:00",
  "items": [
+  {
+   "t": "USA greifen offenbar iranische Raketenwerfer an",
+   "s": "Nachdem sich die USA zuletzt zurückhaltend in Bezug auf Iran gezeigt hatten, haben sie nun offenbar erneut angegriffen. Ziel sollen laut Medienberichten iranische Raketenwerfer auf der Insel Larak gewesen sein.",
+   "u": "https://www.tagesschau.de/ausland/asien/iran-usa-244.html",
+   "q": "Tagesschau",
+   "d": "2026-08-30T22:22:06+00:00"
+  },
   {
    "t": "Mindestens acht Menschen sterben bei Fährunglück vor Zypern",
    "s": "Vor der Küste Nordzyperns ist ein Schiff mit mehr als 260 Menschen an Bord gekentert. Mindestens acht Menschen kamen dabei ums Leben. Der Kapitän und sieben Crewmitglieder wurden festgenommen.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-trump-100.html",
    "q": "Tagesschau",
    "d": "2026-08-29T00:55:29+00:00"
-  },
-  {
-   "t": "Sturzflut: Wie China Informationen aus Tibet kontrolliert",
-   "s": "Nach der Sturzflut sind zahlreiche Journalisten nach Nepal gereist. Aus dem von China kontrollierten Tibet jedoch dringen über chinesische Staatsmedien nur spärliche Informationen. Von E. Lamby-Schmitt.",
-   "u": "https://www.tagesschau.de/ausland/asien/china-tibet-nepal-flut-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-28T23:21:11+00:00"
   }
  ]
 }
