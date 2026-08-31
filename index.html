@@ -849,7 +849,7 @@
 
 <div class="auth-gate" id="authGate">
   <div class="auth-card">
-    <div class="mark">L</div>
+    <div class="mark">T</div>
     <h1 class="auth-title">Trainingslog</h1>
     <p class="auth-sub">Melde dich an, um deine Einheiten sicher zu speichern und über deine Geräte hinweg zu nutzen.</p>
     <button class="auth-btn" onclick="doLogin()">
@@ -864,7 +864,7 @@
 
   <div class="head">
     <button class="brand" onclick="openPrefs()" aria-label="Einstellungen">
-      <div class="mark" id="brandMark">L</div>
+      <div class="mark" id="brandMark">T</div>
       <strong class="brand-title">Trainingslog</strong>
     </button>
     <div class="head-right">
@@ -947,7 +947,7 @@
         <input type="checkbox" class="pref-switch" id="prefCatKraft" onchange="togglePrefCat('kraft',this.checked)"></label>
       <label class="pref-row" data-cat="laufen"><span>Laufen</span>
         <input type="checkbox" class="pref-switch" id="prefCatLauf" onchange="togglePrefCat('laufen',this.checked)"></label>
-      <label class="pref-row" data-cat="rad"><span id="prefBikeLabel">Rennrad</span>
+      <label class="pref-row" data-cat="rad"><span id="prefBikeLabel">Rad</span>
         <input type="checkbox" class="pref-switch" id="prefCatRad" onchange="togglePrefCat('rad',this.checked)"></label>
       <label class="pref-row" data-cat="kurs"><span id="prefKursLabel">Kurse</span>
         <input type="checkbox" class="pref-switch" id="prefCatKurs" onchange="togglePrefCat('kurs',this.checked)"></label>
@@ -1123,7 +1123,11 @@ const PLAN={
 };
 
 /* ── Verfügbare Buchstaben ── */
-const LETTERS="ABCDEFGHIJKLMNOPQSTUVWX".split("");
+const LETTER_POOL="ABCDEFGHIJKLMNOPQRSTUVWX".split("");
+function planLetters(){
+  const belegt=new Set(Object.values(ACT).map(a=>a.day));
+  return LETTER_POOL.filter(l=>!belegt.has(l));
+}
 function allDays(s){
   const src=s||store||{};
   const deleted=new Set(src.deleted||[]);
@@ -1194,7 +1198,7 @@ function openPlanMgr(){
   planSel=null;
   const used=new Set(allDays());
   const g=document.getElementById("planGrid");
-  g.innerHTML=LETTERS.map(l=>`<button type="button" class="${used.has(l)?"used":""}" data-l="${l}" onclick="pickLetter(this,'${l}')">${l}</button>`).join("");
+  g.innerHTML=planLetters().map(l=>`<button type="button" class="${used.has(l)?"used":""}" data-l="${l}" onclick="pickLetter(this,'${l}')">${l}</button>`).join("");
   document.getElementById("planDelWrap").innerHTML="";
   document.getElementById("planNameIn").value="";
   document.getElementById("planCreateBtn").disabled=true;
@@ -1438,7 +1442,7 @@ function paintTop(){
     heroLetter.style.fontSize="48px";
     heroLetter.style.letterSpacing="-0.02em";
     heroLetter.style.color="var("+ACT[cat].accentVar+")";
-    const switchable=cat==="kurs"&&KURS_TYPES.length>1;
+    const switchable=cat==="kurs"&&typeList("kurs").length>1;
     heroLetter.style.cursor=switchable?"pointer":"default";
     heroLetter.setAttribute("aria-label",switchable?"Kursart wechseln":ACT[cat].label());
     heroSide.style.display="none";
@@ -3532,20 +3536,16 @@ function openCatSettings(cat){
   document.getElementById("catSetSub").textContent="Einstellungen";
   const vis=!isCatHidden(cat);
   let typeRow="";
-  if(cat==="rad"){
-    const opts=["Rennrad","Gravel","Mountainbike","Trekking","Cityrad","E-Bike"];
-    typeRow=`<div class="pref-row"><span>Fahrrad</span>
-      <span class="pref-bike-ctl"><span class="catset-val">${esc(bikeName())}</span>
-      <span class="pref-sel"><select class="pref-select" aria-label="Fahrradart" onchange="setBike(this.value);openCatSettings('rad')">
-      ${opts.map(o=>`<option ${o===bikeName()?"selected":""}>${o}</option>`).join("")}
-      </select></span></span></div>`;
-  }else if(cat==="kurs"){
-    const opts=KURS_TYPES;
-    typeRow=`<div class="pref-row"><span>Art</span>
-      <span class="pref-bike-ctl"><span class="catset-val">${esc(kursTypeName())}</span>
-      <span class="pref-sel"><select class="pref-select" aria-label="Kursart" onchange="setKursType(this.value);openCatSettings('kurs')">
-      ${opts.map(o=>`<option ${o===kursTypeName()?"selected":""}>${o}</option>`).join("")}
-      </select></span></span></div>`;
+  if(TYPE_CFG[cat]){
+    const cur=cat==="rad"?bikeName():kursTypeName();
+    const nm=cat==="rad"?"Fahrrad":"Art";
+    const call=cat==="rad"?"setBike":"setKursType";
+    typeRow=`<div class="pref-row"><span>${nm}</span>
+      <span class="pref-bike-ctl"><span class="catset-val">${esc(cur)}</span>
+      <span class="pref-sel"><select class="pref-select" aria-label="${nm}" onchange="${call}(this.value);openCatSettings('${cat}')">
+      ${typeList(cat).map(o=>`<option ${o===cur?"selected":""}>${esc(o)}</option>`).join("")}
+      </select></span></span></div>
+      <button class="pref-row pref-clickable catset-link" onclick="addType('${cat}')"><span>Eigene ${nm==="Art"?"Art":"Radart"} hinzufügen</span></button>`;
   }
   const chev=`<span class="catset-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></span>`;
   document.getElementById("catSetBody").innerHTML=
@@ -3602,13 +3602,30 @@ function paintSyncInfo(){
     el.classList.add("warn");
   }
 }
-function bikeName(){return store.bike||"Rennrad"}
+function bikeName(){return store.bike||"Rad"}
 function setBike(v){
   store.bike=v;
   save();paintTop();paintPrefs();
   toast("Fahrrad",v);
 }
-const KURS_TYPES=["Yoga","HIIT"];
+const TYPE_CFG={
+  rad:{def:["Rennrad","Gravel","Mountainbike","Trekking","Cityrad","E-Bike"],
+       list:"bikeList",frage:"Wie heißt dein Rad?",set:v=>setBike(v)},
+  kurs:{def:["Yoga","HIIT"],
+        list:"kursList",frage:"Wie heißt die Kursart?",set:v=>setKursType(v)}
+};
+function typeList(cat){
+  const c=TYPE_CFG[cat];
+  return [...new Set([...c.def,...(store[c.list]||[])])];
+}
+function addType(cat){
+  const c=TYPE_CFG[cat];
+  const v=(prompt(c.frage)||"").trim().slice(0,40);
+  if(!v)return;
+  if(!typeList(cat).includes(v))store[c.list]=[...(store[c.list]||[]),v];
+  c.set(v);
+  openCatSettings(cat);
+}
 function kursTypeName(){return store.kursType||"Yoga"}
 function setKursType(v){
   store.kursType=v;
@@ -3617,8 +3634,9 @@ function setKursType(v){
   toast("Kurse",v);
 }
 function cycleKursType(){
-  const i=KURS_TYPES.indexOf(kursTypeName());
-  const to=KURS_TYPES[(i+1)%KURS_TYPES.length];
+  const list=typeList("kurs");
+  const i=list.indexOf(kursTypeName());
+  const to=list[(i+1)%list.length];
   store.kursType=to;
   if(store.active&&store.active.day==="K")store.active.type=to;
   save();paintTop();paintPrefs();paintCatRow();render();
@@ -3842,6 +3860,8 @@ onAuthStateChanged(auth,async(user)=>{
     if(window._reloadStore)window._reloadStore(keyFor(user.uid));
     if(pendingUpload){pendingUpload=false;cloudSave()}
     const label=user.email||user.displayName||"Angemeldet";
+    const bm=document.getElementById("brandMark");
+    if(bm)bm.textContent=String(user.displayName||user.email||"T").trim().charAt(0).toUpperCase()||"T";
     const info=document.getElementById("authUserInfo");if(info)info.textContent=label;
     const pinfo=document.getElementById("prefUserInfo");if(pinfo)pinfo.textContent=label;
     document.body.classList.remove("auth-pending");
