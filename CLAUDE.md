@@ -48,6 +48,9 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
 
 - **`draft` beim Store-Wechsel zurücksetzen:** `_reloadStore` (Cloud-Load nach Login) muss `draft={}` setzen, sonst bleibt die Vorbelegung auf Standardwerten hängen.
 - **Destruktive Aktionen erhalten Appearance/Prefs:** `wipe()` muss Farben (`accent*`), `mapStyle`, `bike`, `kursType`, `hiddenCats` bewahren und ein **vollständiges** Store-Objekt liefern (inkl. `schemes`, `plans`, `deleted`), sonst Crash in `dayLabel`.
+- **Darstellung:** Hell / Dunkel / System, gespeichert als `store.theme`. „System" hört
+  per `matchMedia` live mit. Neben `theme-color` muss auch `color-scheme` am
+  `<html>` mitziehen — sonst lässt Safari seine Leiste weiß, obwohl die App dunkel ist.
 - **Dunkler Modus:** Flächen und Schriften laufen über Tokens (`--paper`, `--paper-2`,
   `--ink`, `--ink-soft`, `--ink-mute`, `--ink-faint`, `--line`, `--press`). `body.dark`
   definiert sie neu, der Grund ist `#252423` wie bei der dunklen Kreatur. **Nie Farben

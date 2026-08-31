@@ -663,12 +663,13 @@
     font-family:'Inter',sans-serif;font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-soft)}
   .pause-lbl{font-family:'Inter',sans-serif;font-size:10.5px;font-weight:600;letter-spacing:0.12em;
     text-transform:uppercase;color:var(--ink-soft);padding:0 4px;margin:28px 0 2px}
-  .pause-seg{display:flex;gap:2px;padding:3px;margin-bottom:18px;
+  .pause-seg,.seg{display:flex;gap:2px;padding:3px;margin-bottom:18px;
     border:1px solid var(--line);border-radius:999px}
-  .pause-seg button{flex:1;min-width:0;min-height:42px;padding:0;border:0;border-radius:999px;
+  .pause-seg button,.seg button{flex:1;min-width:0;min-height:42px;padding:0;border:0;border-radius:999px;
     background:none;cursor:pointer;font-family:'Inter',sans-serif;font-size:13.5px;font-weight:600;
     color:var(--ink-soft);transition:background .15s,color .15s;-webkit-tap-highlight-color:transparent}
-  .pause-seg button.on{background:var(--ink);color:var(--on-ink)}
+  .pause-seg button.on,.seg button.on{background:var(--ink);color:var(--on-ink)}
+  .theme-seg{margin-top:14px}
   .pause-lbl-sub{margin-top:0}
   .pause-chips{display:flex;flex-wrap:wrap;gap:8px;padding:0 2px}
   .pause-chip{min-height:42px;padding:0 15px;border:1px solid var(--line);border-radius:999px;
@@ -908,9 +909,11 @@
 
     <div class="pref-section">
       <div class="pref-title">Darstellung</div>
-      <div class="pref-sub">Dunkler Grund für Abends und fürs Studio.</div>
-      <label class="pref-row"><span>Dunkler Modus</span>
-        <input type="checkbox" class="pref-switch dark-switch" onchange="toggleDark(this.checked)"></label>
+      <div class="seg theme-seg">
+        <button type="button" data-theme="hell" onclick="setTheme('hell')">Hell</button>
+        <button type="button" data-theme="dunkel" onclick="setTheme('dunkel')">Dunkel</button>
+        <button type="button" data-theme="system" onclick="setTheme('system')">System</button>
+      </div>
     </div>
 
     <div class="pref-section">
@@ -972,8 +975,11 @@
     </div>
     <div class="plan-sub">Farben eintippen · eigene Farbe mit der Pipette wählen · Kartenstil anpassen</div>
 
-    <label class="pref-row style-dark"><span>Dunkler Modus</span>
-      <input type="checkbox" class="pref-switch dark-switch" onchange="toggleDark(this.checked)"></label>
+    <div class="seg theme-seg style-dark">
+      <button type="button" data-theme="hell" onclick="setTheme('hell')">Hell</button>
+      <button type="button" data-theme="dunkel" onclick="setTheme('dunkel')">Dunkel</button>
+      <button type="button" data-theme="system" onclick="setTheme('system')">System</button>
+    </div>
 
     <div class="sec" id="secKraft">
     <div class="sec-head">Kraft</div>
@@ -2304,7 +2310,7 @@ function renderHist(){const v=document.getElementById("viewHist");
   v.innerHTML=h+`<button class="wipe" onclick="wipe()">Alle Daten löschen</button>`}
 function wipe(){
   if(!confirm("Alle Einheiten und eigenen Übungen löschen? Das lässt sich nicht rückgängig machen."))return;
-  const keep=["accentA","accentB","accentRad","accentL","accentK","mapStyle","bike","kursType","hiddenCats","extras","dark"];
+  const keep=["accentA","accentB","accentRad","accentL","accentK","mapStyle","bike","kursType","hiddenCats","extras","dark","theme"];
   const preserved={};
   keep.forEach(k=>{if(store[k]!==undefined)preserved[k]=store[k]});
   store={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:[],...preserved};
@@ -2764,17 +2770,34 @@ const ACCENT_VARS=["--earth","--blue","--blue-deep","--sand","--clay","--glow","
 /* Der dunkle Grund ist derselbe wie bei der Kreatur (#252423). Safari faerbt
    seine Leiste nach dem theme-color-Feld, sonst steht ein weisser Streifen
    ueber der dunklen App. */
+const THEMES=["hell","dunkel","system"];
+const SYSTEM_DUNKEL=matchMedia("(prefers-color-scheme: dark)");
+function themeWahl(){
+  if(THEMES.includes(store.theme))return store.theme;
+  // Die erste Fassung kannte nur an/aus; ein gesetztes dark bleibt dunkel.
+  return store.dark?"dunkel":"system";
+}
+function darkAktiv(){
+  const w=themeWahl();
+  return w==="dunkel"||(w==="system"&&SYSTEM_DUNKEL.matches);
+}
 function applyDark(){
-  const an=!!store.dark;
+  const an=darkAktiv(),w=themeWahl();
   document.body.classList.toggle("dark",an);
+  /* Ohne color-scheme haelt Safari die Seite fuer hell und laesst seine
+     Leiste weiss, auch wenn theme-color dunkel ist. */
+  document.documentElement.style.colorScheme=an?"dark":"light";
   if(!pauseRunning())setThemeColor(null);
-  document.querySelectorAll(".dark-switch").forEach(el=>{el.checked=an});
+  document.querySelectorAll(".theme-seg button").forEach(b=>
+    b.classList.toggle("on",b.dataset.theme===w));
 }
-function toggleDark(an){
-  store.dark=!!an;
+function setTheme(v){
+  if(!THEMES.includes(v))return;
+  store.theme=v;delete store.dark;
   save();applyDark();
-  toast("Dunkler Modus",an?"An":"Aus");
+  toast("Darstellung",{hell:"Hell",dunkel:"Dunkel",system:"Wie das System"}[v]);
 }
+SYSTEM_DUNKEL.addEventListener("change",()=>{if(themeWahl()==="system")applyDark()});
 function applyStoredAccents(){
   ACCENT_VARS.forEach(v=>rootStyle.removeProperty(v));
   if(store.accentA)applyAccentA(store.accentA);
@@ -3381,7 +3404,7 @@ function pauseHoldEnd(){
    dunklen Pause ein weisser Streifen. */
 function setThemeColor(c){
   const m=document.querySelector('meta[name="theme-color"]');
-  if(m)m.setAttribute("content",c||(store.dark?"#252423":"#FFFFFF"));
+  if(m)m.setAttribute("content",c||(darkAktiv()?"#252423":"#FFFFFF"));
 }
 function pauseStop(){
   if(pauseRAF)cancelAnimationFrame(pauseRAF);
