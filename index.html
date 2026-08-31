@@ -78,8 +78,8 @@
   .eyebrow.plain::before{display:none}
 
   .brand-title{font-family:'Fraunces',serif;font-size:20px;font-weight:600;letter-spacing:-0.01em;line-height:1.1;white-space:nowrap}
-  .cat-row{display:flex;gap:24px;margin-bottom:26px;align-items:center}
-  .cat-link{background:none;border:none;padding:6px 0;font-family:'Inter',sans-serif;font-size:12px;color:var(--ink-faint);cursor:pointer;transition:color .2s;font-weight:500;letter-spacing:0.14em;text-transform:uppercase}
+  .cat-row{display:flex;gap:24px;margin:-9px 0 17px;align-items:center}
+  .cat-link{background:none;border:none;padding:15px 0;min-height:44px;display:flex;align-items:center;font-family:'Inter',sans-serif;font-size:12px;color:var(--ink-faint);cursor:pointer;transition:color .2s;font-weight:500;letter-spacing:0.14em;text-transform:uppercase}
   .cat-link.on{color:var(--ink)}
 
   .plan-overlay{position:fixed;inset:0;background:var(--paper);z-index:900;overflow-y:auto;opacity:0;pointer-events:none;transition:opacity .2s;display:flex;flex-direction:column}
@@ -342,6 +342,10 @@
   .newrow{display:grid;grid-template-columns:34px 1fr auto;gap:16px;align-items:baseline;width:100%;
     background:none;border:0;padding:26px 0;cursor:pointer;text-align:left;transition:padding-left .3s}
   .newrow:active{padding-left:12px}
+  .plan-link{display:block;margin:26px auto 0;background:none;border:none;min-height:44px;padding:0 8px;
+    font-family:'Inter',sans-serif;font-size:12px;font-weight:500;letter-spacing:0.14em;text-transform:uppercase;
+    color:var(--ink-faint);cursor:pointer}
+  .plan-link:active{color:var(--ink)}
   .newrow .ex-num{color:var(--blue)}
   .newrow h3{font-size:19px;color:var(--blue)}
   .newform{padding:0}
@@ -731,6 +735,10 @@
   .pause-skip i{position:absolute;inset:0;background:var(--ink);opacity:.13;
     transform:scaleX(0);transform-origin:left;transition:transform .14s linear}
   .pause-skip.hold i{transform:scaleX(1);transition-duration:var(--hold)}
+  .pause-skip.nudge{border-color:var(--ink)}
+  .pause-skip.nudge b{color:var(--ink)}
+  #pauseOverlay.dark .pause-skip.nudge{border-color:rgba(255,255,255,.55)}
+  #pauseOverlay.dark .pause-skip.nudge b{color:rgba(255,255,255,.9)}
   #pauseOverlay.dark .pause-kicker{color:rgba(255,255,255,.36)}
   #pauseOverlay.dark .pause-clock{color:rgba(255,255,255,.46)}
   #pauseOverlay.dark.anim .pause-kicker{color:rgba(255,255,255,.42)}
@@ -863,7 +871,7 @@
 
   <div class="cat-row">
     <button class="cat-link on" id="catKraft" onclick="setCat('kraft')">Kraft</button>
-    <button class="cat-link" id="catRad" onclick="setCat('rad')"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5.5" cy="17.5" r="3.5"/><circle cx="18.5" cy="17.5" r="3.5"/><path d="M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-3 11.5V14l-3-3 4-3 2 3h3"/></svg></button>
+    <button class="cat-link" id="catRad" aria-label="Rad" onclick="setCat('rad')"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5.5" cy="17.5" r="3.5"/><circle cx="18.5" cy="17.5" r="3.5"/><path d="M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-3 11.5V14l-3-3 4-3 2 3h3"/></svg></button>
     <button class="cat-link" id="catLauf" onclick="setCat('laufen')">Laufen</button>
     <button class="cat-link" id="catKurs" onclick="setCat('kurs')">Kurse</button>
   </div>
@@ -964,7 +972,7 @@
   <div class="pause-stage" id="pauseStage"></div>
   <div class="pause-head"><span class="pause-kicker">Pause</span><span class="pause-clock" id="pauseClock"></span></div>
   <button class="pause-skip" id="pauseSkip" type="button" onpointerdown="pauseHoldStart(event)"
-    onpointerup="pauseHoldEnd()" onpointercancel="pauseHoldEnd()" onpointerleave="pauseHoldEnd()"><i></i><b>Skip</b></button>
+    onpointerup="pauseHoldEnd()" onpointercancel="pauseHoldEnd()" onpointerleave="pauseHoldEnd()"><i></i><b>Halten zum Beenden</b></button>
 </div>
 
 <div class="plan-overlay" id="extraOverlay">
@@ -1126,7 +1134,17 @@ function dayLabel(d){
 let KEY="trainingslog_v3";
 var store=null,warned=false;
 store=load();
-window._reloadStore=function(newKey){if(newKey)KEY=newKey;store=load();draft={};applyStoredAccents();applyDark();render()};
+window._reloadStore=function(newKey){
+  if(newKey)KEY=newKey;
+  store=load();draft={};
+  Object.keys(actDraft).forEach(k=>delete actDraft[k]);
+  tab="train";dayPick=null;openEx=null;newOpen=false;newName="";newScheme="";
+  editEx=null;editSessTs=null;editSessData={};progSel=null;
+  applyStoredAccents();applyDark();
+  /* cat=null umgeht den Sonderfall in setCat, der bei erneutem "kraft" den
+     Plan-Manager oeffnen wuerde. */
+  cat=null;setCat(CAT_LIST.find(c=>!isCatHidden(c))||"kraft");
+};
 function load(){
   let s={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:[]};
   let raw=null;
@@ -1155,6 +1173,7 @@ function save(){
   if(!warned){warned=true;toast("Hinweis","Speicher blockiert — in Safari auf dem iPhone funktioniert es")}}
   if(window._cloudSave)window._cloudSave();
 }
+window._storeData=()=>JSON.parse(JSON.stringify(store));
 
 /* ── Plan-Manager ── */
 let planSel=null;
@@ -1560,7 +1579,8 @@ function renderTrain(){
   h+=`</div>`;
   const switchNote=kraftDays().length>1?
     `<p style="font-size:11.5px;color:var(--ink-soft);opacity:.55;margin-top:18px">Tippe oben auf den Buchstaben, um das Training zu wechseln.</p>`:"";
-  v.innerHTML=h+`</div>`+switchNote;
+  const planNote=`<button type="button" class="plan-link" onclick="openPlanMgr()">Einheiten verwalten</button>`;
+  v.innerHTML=h+`</div>`+switchNote+planNote;
   justOpened=null;
   if(newOpen){const f=document.getElementById("nfName");if(f&&!newName)f.focus()}
 }
@@ -1639,6 +1659,7 @@ function confirmDelSess(){
   delSession(ts)}
 
 function paintFinish(){const s=document.getElementById("finishSlot");
+  if(!store.active){document.getElementById("finishbar").classList.add("hidden");s.innerHTML="";return}
   if(isActDay(store.active.day))return;
   let n=0;for(const id in store.active.log)n+=store.active.log[id].length;
   const bar=document.getElementById("finishbar");
@@ -1827,7 +1848,7 @@ function renderActHist(cfg){
   const v=document.getElementById("viewHist");
   const rs=[...store.sessions].filter(s=>s.day===cfg.day).reverse();
   if(!rs.length){v.innerHTML=`<div class="empty"><div class="eyebrow plain">Verlauf</div>
-    <h3>${cfg.noSession||"Noch keine Einheit erfasst."}</h3><p>Starte im Reiter „Training" eine neue Einheit.</p></div>`;return}
+    <h3>${cfg.noSession||"Noch keine Einheit erfasst."}</h3><p>Trage im Reiter „Training" deine Werte ein und tippe auf „${cfg.saveLabel} speichern".</p></div>`;return}
   let h="";
   rs.forEach((s,i)=>{
     if(editSessTs===s.ts){h+=renderActEdit(cfg,s,i);return}
@@ -3421,9 +3442,14 @@ function pauseHoldStart(e){
   pauseHoldTO=setTimeout(()=>{pauseHoldEnd();pauseSkip()},PAUSE_HOLD);
 }
 function pauseHoldEnd(){
-  if(pauseHoldTO)clearTimeout(pauseHoldTO);
+  const b=document.getElementById("pauseSkip");
+  if(pauseHoldTO){
+    clearTimeout(pauseHoldTO);
+    b.classList.add("nudge");
+    setTimeout(()=>b.classList.remove("nudge"),900);
+  }
   pauseHoldTO=null;
-  document.getElementById("pauseSkip").classList.remove("hold");
+  b.classList.remove("hold");
 }
 /* Safari faerbt seine obere Leiste nach diesem Wert. Ohne das steht ueber der
    dunklen Pause ein weisser Streifen. */
@@ -3574,6 +3600,14 @@ applyStoredAccents();
 applyDark();
 initAreaLongPress();
 render();
+
+/* Notnagel, falls das Firebase-Modul weiter unten gar nicht laedt: dann gibt es
+   kein doLogin und der Knopf reagierte bisher stumm. */
+window.doLogin=function(){
+  const err=document.getElementById("authErr");
+  if(err)err.textContent="Keine Verbindung zu Firebase. Prüfe deine Internetverbindung und lade die Seite neu.";
+};
+window.doLogout=function(){location.reload()};
 </script>
 
 <script type="module">
@@ -3598,18 +3632,35 @@ let currentUser=null;
 const keyFor=uid=>"trainingslog_v3_"+uid;
 const LEGACY_EMAIL="lennart.ising@icloud.com";
 
+/* Erst wenn der Stand einmal gelesen wurde, darf zurueckgeschrieben werden.
+   Sonst ersetzt der erste save() nach einem gescheiterten Ladeversuch die
+   gesamte Historie durch den leeren Speicher, mit dem die App gestartet ist. */
+let cloudReady=false, cloudWarned=false, pendingUpload=false;
+
+function cloudFail(what,e){
+  console.warn(what,e);
+  if(cloudWarned)return;
+  cloudWarned=true;
+  if(window.toast)toast("Nicht in der Cloud","Daten liegen nur auf diesem Gerät. Prüfe die Verbindung und lade die Seite neu.");
+}
+
 async function cloudSave(){
-  if(!currentUser)return;
+  if(!currentUser||!cloudReady)return;
+  const uid=currentUser.uid;
   try{
-    const raw=localStorage.getItem(keyFor(currentUser.uid))||"{}";
-    await setDoc(doc(db,"users",currentUser.uid),{data:JSON.parse(raw),ts:Date.now(),email:currentUser.email||""});
-  }catch(e){console.warn("Cloud-Save fehlgeschlagen:",e)}
+    /* Die Wahrheit ist der Speicher im Arbeitsspeicher — localStorage kann in
+       Safari blockiert sein und haette dann einen aelteren Stand geliefert. */
+    const data=window._storeData?window._storeData():JSON.parse(localStorage.getItem(keyFor(uid))||"{}");
+    await setDoc(doc(db,"users",uid),{data,ts:Date.now(),email:currentUser.email||""});
+    cloudWarned=false;
+  }catch(e){cloudFail("Cloud-Save fehlgeschlagen:",e)}
 }
 
 async function cloudLoad(){
-  if(!currentUser)return;
+  if(!currentUser)return false;
+  const uid=currentUser.uid;
   try{
-    const ref=doc(db,"users",currentUser.uid);
+    const ref=doc(db,"users",uid);
     let snap=await getDoc(ref);
     if(!snap.exists()&&currentUser.email===LEGACY_EMAIL){
       const legacy=await getDoc(doc(db,"users","lennart"));
@@ -3618,15 +3669,26 @@ async function cloudLoad(){
         snap=await getDoc(ref);
       }
     }
-    if(!snap.exists())return;
+    /* Waehrend der Wartezeit kann sich jemand anderes angemeldet haben —
+       dann gehoert das Ergebnis nicht mehr zum aktuellen Nutzer. */
+    if(!currentUser||currentUser.uid!==uid)return false;
+    if(!snap.exists())return true;
     const cloud=snap.data();
-    const key=keyFor(currentUser.uid);
+    const key=keyFor(uid);
     const local=JSON.parse(localStorage.getItem(key)||"{}");
     const localTs=local._ts||0;
     if((cloud.ts||0)>=localTs){
       localStorage.setItem(key,JSON.stringify(cloud.data||{}));
+    }else{
+      pendingUpload=true;
     }
-  }catch(e){console.warn("Cloud-Load fehlgeschlagen:",e)}
+    return true;
+  }catch(e){cloudFail("Cloud-Load fehlgeschlagen:",e);return false}
+}
+
+async function cloudSync(){
+  cloudReady=await cloudLoad();
+  return cloudReady;
 }
 
 window._cloudSave=cloudSave;
@@ -3667,17 +3729,33 @@ getRedirectResult(auth).catch(e=>console.warn("Redirect-Ergebnis:",e));
 
 onAuthStateChanged(auth,async(user)=>{
   currentUser=user;
+  cloudReady=false;cloudWarned=false;pendingUpload=false;
   if(user){
-    await cloudLoad();
+    await cloudSync();
+    if(!currentUser||currentUser.uid!==user.uid)return;
     if(window._reloadStore)window._reloadStore(keyFor(user.uid));
+    if(pendingUpload){pendingUpload=false;cloudSave()}
     const label=user.email||user.displayName||"Angemeldet";
     const info=document.getElementById("authUserInfo");if(info)info.textContent=label;
     const pinfo=document.getElementById("prefUserInfo");if(pinfo)pinfo.textContent=label;
     document.body.classList.remove("auth-pending");
   }else{
-    document.querySelectorAll(".plan-overlay.open").forEach(o=>o.classList.remove("open"));
+    document.querySelectorAll(".plan-overlay.open,.map-overlay.open,#pauseOverlay.open").forEach(o=>o.classList.remove("open"));
     document.body.classList.add("auth-pending");
+    if(window._reloadStore)window._reloadStore("trainingslog_v3_none");
   }
+});
+
+/* Ohne onSnapshot merkt ein Geraet Aenderungen des anderen sonst nie. Beim
+   Zurueckkehren in die App den Cloud-Stand nachziehen. */
+document.addEventListener("visibilitychange",async()=>{
+  if(document.hidden||!currentUser)return;
+  const uid=currentUser.uid;
+  const ok=await cloudLoad();
+  if(!ok||!currentUser||currentUser.uid!==uid)return;
+  cloudReady=true;
+  if(pendingUpload){pendingUpload=false;cloudSave();return}
+  if(window._reloadStore)window._reloadStore(keyFor(uid));
 });
 </script>
 <script type="module">
