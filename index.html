@@ -689,7 +689,7 @@
     -webkit-tap-highlight-color:transparent}
   .pause-chip:active{background:var(--press)}
   .pause-chip.on{background:var(--ink);border-color:var(--ink);color:var(--on-ink)}
-  .style-dark{margin-bottom:30px}
+  .style-dark{margin-top:4px;margin-bottom:4px}
   .mode-note{font-size:12.5px;line-height:1.45;color:var(--ink-soft);margin:-8px 0 12px;text-align:center}
   .mode-prev{position:relative;height:180px;margin-bottom:24px;overflow:hidden;background:var(--paper);
     border:1px solid var(--line);display:flex;align-items:center;justify-content:center}
@@ -987,10 +987,14 @@
     </div>
     <div class="plan-sub">Farben eintippen · eigene Farbe mit der Pipette wählen · Kartenstil anpassen</div>
 
+    <div class="sec">
+    <div class="sec-head">Darstellung</div>
+    <div class="pref-sub">Ändere den Farbmodus der App.</div>
     <div class="seg theme-seg style-dark">
       <button type="button" data-theme="hell" onclick="setTheme('hell')">Hell</button>
       <button type="button" data-theme="dunkel" onclick="setTheme('dunkel')">Dunkel</button>
       <button type="button" data-theme="system" onclick="setTheme('system')">System</button>
+    </div>
     </div>
 
     <div class="sec" id="secKraft">
