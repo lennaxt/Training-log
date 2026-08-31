@@ -623,7 +623,11 @@
   .pref-switch:checked::after{transform:translateX(20px)}
   .pref-foot{margin-top:auto;padding-top:22px;border-top:1px solid var(--line);
     display:flex;align-items:center;justify-content:space-between;gap:12px}
+  .pref-acc-wrap{min-width:0;flex:1}
   .pref-account{font-size:12px;color:var(--ink-soft);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .pref-sync{font-size:11px;color:var(--ink-faint);margin-top:3px;white-space:nowrap;
+    overflow:hidden;text-overflow:ellipsis}
+  .pref-sync.warn{color:var(--red,#C0392B)}
   .pref-logout{background:none;border:1px solid var(--line);padding:8px 14px;font-family:inherit;font-size:12px;
     letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-soft);cursor:pointer;min-height:36px}
   .pref-bike-ctl{display:flex;align-items:center;gap:8px}
@@ -951,7 +955,10 @@
 
 
     <div class="pref-foot">
-      <div class="pref-account" id="prefUserInfo">–</div>
+      <div class="pref-acc-wrap">
+        <div class="pref-account" id="prefUserInfo">–</div>
+        <div class="pref-sync" id="prefSync"></div>
+      </div>
       <button class="pref-logout" onclick="doLogout()">Abmelden</button>
     </div>
   </div>
@@ -1134,6 +1141,10 @@ function dayLabel(d){
 let KEY="trainingslog_v3";
 var store=null,warned=false;
 store=load();
+window._refreshStore=function(){
+  store=load();draft={};
+  applyStoredAccents();applyDark();render();
+};
 window._reloadStore=function(newKey){
   if(newKey)KEY=newKey;
   store=load();draft={};
@@ -1161,6 +1172,7 @@ function load(){
   if(!s.deleted)s.deleted=[];
   if(!s.hiddenCats)s.hiddenCats=[];
   if(!s.extras)s.extras={};
+  if(!s._delSess)s._delSess=[];
   allDays(s).forEach(d=>{
     if(!s.custom[d])s.custom[d]=[];
     if(!s.hidden[d])s.hidden[d]=[];
@@ -1174,6 +1186,7 @@ function save(){
   if(window._cloudSave)window._cloudSave();
 }
 window._storeData=()=>JSON.parse(JSON.stringify(store));
+window._hasActive=()=>!!(store&&store.active);
 
 /* ── Plan-Manager ── */
 let planSel=null;
@@ -1647,7 +1660,14 @@ function delExercise(day,id){
   if(store.active&&store.active.day===day&&store.active.log[id])delete store.active.log[id];
   save();openEx=null;renderTrain();paintFinish();paintTop();
   toast("Übung entfernt",`${n} erscheint nicht mehr in Tag ${day}`)}
+function tombstone(ts){
+  if(typeof ts!=="number")return;
+  if(!store._delSess)store._delSess=[];
+  if(!store._delSess.includes(ts))store._delSess.push(ts);
+  if(store._delSess.length>500)store._delSess=store._delSess.slice(-500);
+}
 function delSession(ts){
+  tombstone(ts);
   store.sessions=store.sessions.filter(s=>s.ts!==ts);
   save();paintTop();
   if(isActCat(cat))renderActHist(ACT[cat]);else renderHist();
@@ -2358,7 +2378,8 @@ function wipe(){
   const keep=["accentA","accentB","accentRad","accentL","accentK","mapStyle","bike","kursType","hiddenCats","extras","dark","theme"];
   const preserved={};
   keep.forEach(k=>{if(store[k]!==undefined)preserved[k]=store[k]});
-  store={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:Object.keys(PLAN),...preserved};
+  const graves=[...(store._delSess||[]),...store.sessions.map(x=>x.ts)].filter(t=>typeof t==="number").slice(-500);
+  store={_delSess:graves,sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:Object.keys(PLAN),...preserved};
   draft={};
   save();applyStoredAccents();applyDark();openEx=null;newOpen=false;setTab("train");
 }
@@ -3546,6 +3567,7 @@ function catSetToggleVis(){
 }
 function catSetOpenStyle(){closeCatSettings();openSettings()}
 function paintPrefs(){
+  paintSyncInfo();
   const hidden=store.hiddenCats||[];
   CAT_LIST.forEach(c=>{
     const el=document.getElementById("prefCat"+(c==="rad"?"Rad":c==="laufen"?"Lauf":c==="kurs"?"Kurs":"Kraft"));
@@ -3563,6 +3585,22 @@ function paintPrefs(){
   if(kl)kl.textContent=kursTypeName();
   const kn=document.getElementById("kursLabelName");
   if(kn)kn.textContent=kursTypeName();
+}
+function paintSyncInfo(){
+  const el=document.getElementById("prefSync");
+  if(!el)return;
+  const i=window._syncInfo?window._syncInfo():null;
+  if(!i){el.textContent="";el.classList.remove("warn");return}
+  if(i.ok&&i.at){
+    el.textContent="Gesichert um "+new Date(i.at).toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"});
+    el.classList.remove("warn");
+  }else if(i.ok){
+    el.textContent="Mit der Cloud verbunden";
+    el.classList.remove("warn");
+  }else{
+    el.textContent="Nicht gesichert — nur auf diesem Gerät";
+    el.classList.add("warn");
+  }
 }
 function bikeName(){return store.bike||"Rennrad"}
 function setBike(v){
@@ -3612,7 +3650,7 @@ window.doLogout=function(){location.reload()};
 
 <script type="module">
 import{initializeApp}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-app.js";
-import{getFirestore,doc,getDoc,setDoc}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-firestore.js";
+import{getFirestore,doc,getDoc,setDoc,runTransaction}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-firestore.js";
 import{getAuth,GoogleAuthProvider,signInWithPopup,signInWithRedirect,getRedirectResult,signOut,onAuthStateChanged,browserLocalPersistence,setPersistence}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-auth.js";
 
 const fb=initializeApp({
@@ -3635,24 +3673,81 @@ const LEGACY_EMAIL="lennart.ising@icloud.com";
 /* Erst wenn der Stand einmal gelesen wurde, darf zurueckgeschrieben werden.
    Sonst ersetzt der erste save() nach einem gescheiterten Ladeversuch die
    gesamte Historie durch den leeren Speicher, mit dem die App gestartet ist. */
-let cloudReady=false, cloudWarned=false, pendingUpload=false;
+let cloudReady=false, cloudWarned=false, pendingUpload=false, lastSyncOk=false, lastSyncAt=0;
+window._syncInfo=()=>({ok:lastSyncOk,at:lastSyncAt});
 
 function cloudFail(what,e){
   console.warn(what,e);
+  lastSyncOk=false;
+  if(window.paintSyncInfo)paintSyncInfo();
   if(cloudWarned)return;
   cloudWarned=true;
   if(window.toast)toast("Nicht in der Cloud","Daten liegen nur auf diesem Gerät. Prüfe die Verbindung und lade die Seite neu.");
 }
 
+/* Der Stand wird nicht mehr ueber Date.now() verglichen: zwei Geraete messen
+   dabei an ihren eigenen Uhren, und eines mit falsch gestellter Uhr schreibt
+   einen Zeitstempel, den kein anderes je uebertrifft. Der Zaehler kommt
+   stattdessen aus der Cloud und kennt keine Uhrzeit.
+   dirty merkt sich, dass lokal etwas ansteht, dessen Schreibversuch scheiterte. */
+let sizeWarned=false;
+const syncKey=uid=>"trainingslog_sync_"+uid;
+function syncState(uid){
+  try{const o=JSON.parse(localStorage.getItem(syncKey(uid))||"{}");
+    return {rev:o.rev|0,dirty:!!o.dirty}}
+  catch(e){return {rev:0,dirty:false}}
+}
+function setSyncState(uid,o){
+  try{localStorage.setItem(syncKey(uid),JSON.stringify(o))}catch(e){}
+}
+
+/* Ein Dokument-Ersatz laesst die Einheiten des jeweils anderen Geraets
+   verschwinden. Einheiten tragen mit ts einen eindeutigen Schluessel, also
+   lassen sie sich vereinigen; _delSess haelt fest, was geloescht bleiben soll.
+   Bei allem uebrigen (Plaene, Farben, Einstellungen) gewinnt b — der Aufrufer
+   uebergibt dort den Stand mit der hoeheren Revision. */
+function mergeStores(a,b){
+  const out=Object.assign({},a,b);
+  const graves=new Set([...(a._delSess||[]),...(b._delSess||[])]);
+  const byTs=new Map();
+  [...(a.sessions||[]),...(b.sessions||[])].forEach(x=>{
+    if(!x||typeof x.ts!=="number"||graves.has(x.ts))return;
+    byTs.set(x.ts,x);
+  });
+  out.sessions=[...byTs.values()].sort((x,y)=>x.ts-y.ts);
+  out._delSess=[...graves].slice(-500);
+  return out;
+}
+
 async function cloudSave(){
   if(!currentUser||!cloudReady)return;
   const uid=currentUser.uid;
+  /* Die Wahrheit ist der Speicher im Arbeitsspeicher — localStorage kann in
+     Safari blockiert sein und haette dann einen aelteren Stand geliefert. */
+  const local=window._storeData?window._storeData():JSON.parse(localStorage.getItem(keyFor(uid))||"{}");
+  const before=syncState(uid);
+  setSyncState(uid,{rev:before.rev,dirty:true});
   try{
-    /* Die Wahrheit ist der Speicher im Arbeitsspeicher — localStorage kann in
-       Safari blockiert sein und haette dann einen aelteren Stand geliefert. */
-    const data=window._storeData?window._storeData():JSON.parse(localStorage.getItem(keyFor(uid))||"{}");
-    await setDoc(doc(db,"users",uid),{data,ts:Date.now(),email:currentUser.email||""});
-    cloudWarned=false;
+    const ref=doc(db,"users",uid);
+    const rev=await runTransaction(db,async tx=>{
+      const snap=await tx.get(ref);
+      const cloud=snap.exists()?snap.data():null;
+      const cRev=cloud?cloud.rev|0:0;
+      /* Hat ein anderes Geraet zwischendurch geschrieben, wird sein Stand
+         eingemischt statt ersetzt. */
+      const data=(cloud&&cRev>before.rev)?mergeStores(local,cloud.data||{}):local;
+      const next=Math.max(cRev,before.rev)+1;
+      tx.set(ref,{data,rev:next,ts:Date.now(),email:currentUser.email||""});
+      return next;
+    });
+    if(currentUser&&currentUser.uid===uid)setSyncState(uid,{rev,dirty:false});
+    cloudWarned=false;lastSyncOk=true;lastSyncAt=Date.now();
+    if(window.paintSyncInfo)paintSyncInfo();
+    /* Firestore nimmt hoechstens 1 MiB je Dokument und lehnt sonst wortlos ab. */
+    if(JSON.stringify(local).length>800000&&!sizeWarned){
+      sizeWarned=true;
+      if(window.toast)toast("Speicher wird knapp","Die Cloud-Sicherung nähert sich ihrer Grenze. Alte Einheiten löschen schafft Platz.");
+    }
   }catch(e){cloudFail("Cloud-Save fehlgeschlagen:",e)}
 }
 
@@ -3672,14 +3767,23 @@ async function cloudLoad(){
     /* Waehrend der Wartezeit kann sich jemand anderes angemeldet haben —
        dann gehoert das Ergebnis nicht mehr zum aktuellen Nutzer. */
     if(!currentUser||currentUser.uid!==uid)return false;
+    const st=syncState(uid);
+    if(st.dirty)pendingUpload=true;
     if(!snap.exists())return true;
     const cloud=snap.data();
+    const cRev=cloud.rev|0;
+    const cData=cloud.data||{};
     const key=keyFor(uid);
     const local=JSON.parse(localStorage.getItem(key)||"{}");
-    const localTs=local._ts||0;
-    if((cloud.ts||0)>=localTs){
-      localStorage.setItem(key,JSON.stringify(cloud.data||{}));
-    }else{
+    if(cRev>st.rev){
+      /* Der fremde Stand ist neuer — die eigenen Einheiten gehen trotzdem
+         nicht verloren, sie werden eingemischt. */
+      const merged=mergeStores(local,cData);
+      localStorage.setItem(key,JSON.stringify(merged));
+      const gained=(merged.sessions||[]).length>(cData.sessions||[]).length;
+      setSyncState(uid,{rev:cRev,dirty:st.dirty||gained});
+      if(gained)pendingUpload=true;
+    }else if(st.rev>cRev){
       pendingUpload=true;
     }
     return true;
@@ -3688,6 +3792,8 @@ async function cloudLoad(){
 
 async function cloudSync(){
   cloudReady=await cloudLoad();
+  if(cloudReady)lastSyncOk=true;
+  if(window.paintSyncInfo)paintSyncInfo();
   return cloudReady;
 }
 
@@ -3751,11 +3857,18 @@ onAuthStateChanged(auth,async(user)=>{
 document.addEventListener("visibilitychange",async()=>{
   if(document.hidden||!currentUser)return;
   const uid=currentUser.uid;
+  /* Eine laufende Krafteinheit wuerde durch den Cloud-Stand ersetzt. Sie zaehlt
+     mehr als die Aktualitaet — der eigene Stand geht stattdessen hoch. */
+  const busy=window._hasActive&&window._hasActive();
+  const before=localStorage.getItem(keyFor(uid));
   const ok=await cloudLoad();
   if(!ok||!currentUser||currentUser.uid!==uid)return;
   cloudReady=true;
-  if(pendingUpload){pendingUpload=false;cloudSave();return}
-  if(window._reloadStore)window._reloadStore(keyFor(uid));
+  if(pendingUpload){pendingUpload=false;cloudSave()}
+  if(busy)return;
+  /* Nur auffrischen, wenn sich wirklich etwas geaendert hat — sonst springt die
+     Ansicht bei jedem App-Wechsel. */
+  if(localStorage.getItem(keyFor(uid))!==before&&window._refreshStore)window._refreshStore();
 });
 </script>
 <script type="module">
