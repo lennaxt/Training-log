@@ -3797,7 +3797,7 @@ window.doLogout=function(){location.reload()};
 <script type="module">
 import{initializeApp}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-app.js";
 import{getFirestore,doc,getDoc,setDoc,runTransaction}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-firestore.js";
-import{getAuth,GoogleAuthProvider,signInWithPopup,signInWithRedirect,getRedirectResult,signOut,onAuthStateChanged,browserLocalPersistence,setPersistence}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-auth.js";
+import{getAuth,GoogleAuthProvider,signInWithPopup,getRedirectResult,signOut,onAuthStateChanged,browserLocalPersistence,setPersistence}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-auth.js";
 
 const fb=initializeApp({
   apiKey:"AIzaSyBFew0s1dbJzdAmmVh2b34Eau3LZFHowa8",
@@ -3970,7 +3970,7 @@ function authErrText(e){
     return "Google-Anmeldung ist in Firebase nicht aktiviert (Authentication → Sign-in method).";
   }
   if(code.includes("popup-blocked")||code.includes("popup-closed")){
-    return "Pop-up wurde geblockt oder geschlossen. Bitte erlaube Pop-ups und versuche es erneut.";
+    return "Das Google-Fenster wurde geblockt oder geschlossen. Bitte erlaube Pop-ups für diese Seite und tippe erneut auf „Mit Google anmelden".\n\nTipp: Wenn du die App als installierte App (Home-Bildschirm) nutzt, öffne sie stattdessen direkt in Safari — dann klappt die Anmeldung zuverlässiger.";
   }
   if(code.includes("network")){
     return "Keine Verbindung zu Firebase. Prüfe deine Internetverbindung.";
@@ -3982,9 +3982,12 @@ window.doLogin=async function(){
   try{
     await signInWithPopup(auth,provider);
   }catch(e){
-    console.warn("Popup fehlgeschlagen, versuche Redirect:",e);
-    try{await signInWithRedirect(auth,provider)}
-    catch(e2){if(err)err.textContent=authErrText(e2);console.warn("Redirect fehlgeschlagen:",e2)}
+    /* Kein signInWithRedirect-Fallback: auf einer nicht-Firebase gehosteten App
+       (GitHub Pages) bricht der Redirect in Browsern mit Speicher-Partitionierung
+       (Safari 16.1+, installierte PWA) mit "missing initial state" ab — das wäre
+       eine tote Fehlerseite. Popup ist hier der zuverlaessige Weg. */
+    console.warn("Popup-Login fehlgeschlagen:",e);
+    if(err)err.textContent=authErrText(e);
   }
 };
 
