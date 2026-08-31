@@ -729,9 +729,13 @@
   .pause-stage .news-list .mp-head{font-size:21px;margin-bottom:7px}
   .pause-stage .news-list .mp-text{font-size:15px;line-height:1.5}
   .pause-stage .news-list .mp-kicker{margin-bottom:5px}
-  #modePrev .news-list{padding:0 14px;top:10px;bottom:10px}
-  #modePrev .news-list .mp-head{font-size:15px;margin-bottom:5px}
-  #modePrev .news-list .mp-text{font-size:12px;line-height:1.45}
+  /* Der Vorschaukasten ist 180px hoch - die Abstaende des Pausenbildschirms
+     wuerden davon nur eine Zeile uebrig lassen. */
+  #modePrev .news-list,#modePrev .news-read{padding:0 14px;top:10px;bottom:10px}
+  #modePrev .news-list .mp-head,#modePrev .news-read .mp-head{font-size:15px;margin-bottom:5px}
+  #modePrev .news-list .mp-text,#modePrev .news-read .mp-text{font-size:12px;line-height:1.45}
+  /* Knoepfe gehoeren in die echte Pause, nicht in die Kostprobe. */
+  #modePrev .news-actions,#modePrev .news-src,#modePrev .news-back{display:none}
   #pauseOverlay.dark .news-item{border-color:rgba(255,255,255,.13)}
   /* Wikipedia steht unter freier Lizenz, der Text darf hier stehen — deshalb
      wird gelesen statt weggeleitet. Gleicher Rahmen wie die Liste. */
