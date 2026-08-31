@@ -686,6 +686,13 @@
   .info-body .step p{margin-bottom:0;flex:1}
   .info-body .note{margin-top:26px;padding:14px 16px;border:1px solid var(--line);
     border-radius:12px;font-size:14px;color:var(--ink-soft)}
+  .info-body a{color:var(--ink);font-weight:600;text-decoration:underline;
+    text-underline-offset:3px;text-decoration-color:var(--ink-faint)}
+  .info-body a:active{color:var(--blue)}
+  .guide-item{padding:16px 2px;border-top:1px solid var(--line)}
+  .guide-item:first-child{border-top:0}
+  .guide-item h3{font-size:16.5px;margin:0 0 5px;letter-spacing:-0.01em}
+  .guide-item p{font-size:14.5px;color:var(--ink-soft);margin:0}
   .pause-block{padding:14px 4px 20px;border-top:1px solid var(--line)}
   .pause-big{display:flex;align-items:baseline;justify-content:center;gap:8px;margin:4px 0 2px}
   .pause-val{width:136px;border:0;background:none;padding:0;margin:0;
@@ -1006,26 +1013,16 @@
     </div>
     <div class="plan-sub">Die wichtigsten Wege und Abkürzungen in der App.</div>
     <div class="info-body">
-      <h3>Bereich wechseln</h3>
-      <p>Oben auf <b>Kraft</b>, das <b>Rad-Symbol</b>, <b>Laufen</b> oder <b>Kurse</b> tippen.</p>
-      <h3>Training wechseln (Kraft)</h3>
-      <p>Auf den großen <b>Buchstaben</b> oben tippen → nächstes Training (A → B → …).</p>
-      <h3>Kursart wechseln</h3>
-      <p>Auf den <b>Kursnamen</b> oben tippen → nächste Kursart (z. B. Yoga → HIIT).</p>
-      <h3>Einheit abschließen</h3>
-      <p>Sätze abhaken, dann unten <b>„Einheit abschließen"</b> — Dauer wird automatisch gespeichert.</p>
-      <h3>Einheit bearbeiten oder löschen</h3>
-      <p>Im <b>Verlauf</b> eine Einheit <b>gedrückt halten</b> → Bearbeiten-Modus. Einzelne Sätze wischst du nach links weg.</p>
-      <h3>Bereichs-Einstellungen öffnen</h3>
-      <p><b>Einstellungen</b> (Logo oben links) öffnen → Bereichs-Zeile <b>gedrückt halten</b>.</p>
-      <h3>Farben &amp; Kartenstil</h3>
-      <p><b>Zahnrad</b> oben rechts — oder aus den Bereichs-Einstellungen über <b>„Farbe &amp; Stil"</b>.</p>
-      <h3>GPX-Route laden (Rad / Laufen)</h3>
-      <p>Reiter <b>Training</b> → <b>„+ GPX-Route hochladen"</b>. Wie du die Datei von Strava bekommst, steht in den Bereichs-Einstellungen unter <b>GPX-Routen</b>.</p>
-      <h3>Einheiten planen (Kraft)</h3>
-      <p>Im Kraft-Training unten auf <b>„Einheiten verwalten"</b> — Trainings anlegen, löschen oder umbenennen.</p>
-      <h3>Cloud-Status prüfen</h3>
-      <p>Unten in den Einstellungen: <b>„Gesichert um …"</b> bedeutet, deine Daten liegen sicher in der Cloud.</p>
+      <div class="guide-item"><h3>Bereich wechseln</h3><p>Oben auf <b>Kraft</b>, das <b>Rad-Symbol</b>, <b>Laufen</b> oder <b>Kurse</b> tippen.</p></div>
+      <div class="guide-item"><h3>Training wechseln (Kraft)</h3><p>Auf den großen <b>Buchstaben</b> oben tippen, um zum nächsten Training zu springen.</p></div>
+      <div class="guide-item"><h3>Kursart wechseln</h3><p>Auf den <b>Kursnamen</b> oben tippen, um zur nächsten Kursart zu wechseln.</p></div>
+      <div class="guide-item"><h3>Einheit abschließen</h3><p>Sätze abhaken, dann unten <b>„Einheit abschließen"</b> antippen. Die Dauer wird automatisch gespeichert.</p></div>
+      <div class="guide-item"><h3>Einheit bearbeiten</h3><p>Eine Einheit im <b>Verlauf</b> gedrückt halten, um sie zu bearbeiten oder zu löschen. Einzelne Sätze wischst du nach links weg.</p></div>
+      <div class="guide-item"><h3>Bereichs-Einstellungen öffnen</h3><p><b>Einstellungen</b> (Logo oben links) öffnen und eine Bereichs-Zeile <b>gedrückt halten</b>.</p></div>
+      <div class="guide-item"><h3>Farben &amp; Kartenstil</h3><p>Das <b>Zahnrad</b> oben rechts öffnet die Stile. Auch erreichbar über <b>„Farbe &amp; Stil"</b> in den Bereichs-Einstellungen.</p></div>
+      <div class="guide-item"><h3>GPX-Route laden (Rad / Laufen)</h3><p>Im Reiter <b>Training</b> auf <b>„+ GPX-Route hochladen"</b> tippen. Wie du die Datei von Strava bekommst, steht in den Bereichs-Einstellungen unter <b>GPX-Routen</b>.</p></div>
+      <div class="guide-item"><h3>Einheiten planen (Kraft)</h3><p>Im Kraft-Training unten auf <b>„Einheiten verwalten"</b> tippen, um Trainings anzulegen, zu löschen oder umzubenennen.</p></div>
+      <div class="guide-item"><h3>Cloud-Status prüfen</h3><p>Unten in den Einstellungen: <b>„Gesichert um …"</b> bedeutet, deine Daten liegen sicher in der Cloud.</p></div>
     </div>
   </div>
 </div>
@@ -1052,9 +1049,9 @@
       <h3>Was ist eine GPX-Route?</h3>
       <p>Eine GPX-Datei ist ein kleines Textdokument, das die Koordinaten deiner Strecke speichert. Aus ihr baut die App die Karte und übernimmt Kilometer, Höhenmeter und Tempo automatisch — du musst nur noch die Kalorien eintragen.</p>
       <h3>Woher bekomme ich sie?</h3>
-      <p>Tracke deine Fahrt oder deinen Lauf in einer Tracking-App wie <b>Strava</b>. Den Download gibt es dort <b>nur in der Web-App</b> (strava.com im Browser) — die Smartphone-App kann keine Dateien exportieren.</p>
+      <p>Tracke deine Fahrt oder deinen Lauf in einer Tracking-App wie <b>Strava</b>. Den Download gibt es dort <b>nur in der Web-App</b> (<a href="https://www.strava.com" target="_blank" rel="noopener noreferrer">strava.com ↗</a>) — die Smartphone-App kann keine Dateien exportieren.</p>
       <h3>Einmal pro Woche</h3>
-      <div class="step"><span class="n">1</span><p>Öffne <b>strava.com</b> auf deinem Computer oder im Browser des Handys und melde dich an.</p></div>
+      <div class="step"><span class="n">1</span><p>Öffne <a href="https://www.strava.com" target="_blank" rel="noopener noreferrer">strava.com ↗</a> auf deinem Computer oder im Browser des Handys und melde dich an.</p></div>
       <div class="step"><span class="n">2</span><p>Gehe zu <b>Aktivitäten</b> und öffne die Fahrt oder den Lauf, den du eintragen willst.</p></div>
       <div class="step"><span class="n">3</span><p>Öffne das Menü rechts oben und wähle <b>„GPX-Datei herunterladen"</b>.</p></div>
       <div class="step"><span class="n">4</span><p>In der Trainingsapp: Reiter <b>Training</b> → tippe auf <b>„+ GPX-Route hochladen"</b> und wähle die Datei.</p></div>
