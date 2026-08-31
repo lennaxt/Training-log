@@ -103,6 +103,16 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
   fest verdrahten** — `color:#fff` auf `var(--ink)` wird im Dunkeln unsichtbar, dafür
   gibt es `--on-ink`. Bereichsfarben (Kraft, Rad, …) bleiben in beiden Fassungen gleich.
 - **Fokus-Umrandung** wird pro aktivem Bereich eingefärbt (`body.cat*`); Ausnahmen bei Bedarf per ID überschreiben (z. B. `#setOverlay` immer schwarz).
+- **Google-Login: Popup-First ist der funktionierende Stand.** `signInWithPopup`
+  läuft zuverlässig; `signInWithRedirect` bleibt nur außerhalb der installierten
+  App (PWA) als Fallback. In der PWA bricht der Redirect in Safari mit
+  „missing initial state" ab — dort zeigt die App stattdessen die Anleitung,
+  in Safari anzumelden. Diese Popup-First-Reihenfolge nicht ändern, sonst bricht
+  der Login ab.
+- **`.nojekyll` ist Pflicht:** Ohne die Datei führt GitHub Pages Jekyll aus; der
+  Build schlägt dann fehl und die **alte Version bleibt deployt** — man testet
+  unbemerkt einen veralteten Stand. Nach einem Push im Browser checken, ob die
+  deployte Seite den neuen Stand enthält.
 
 ## User
 

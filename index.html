@@ -3979,9 +3979,19 @@ function authErrText(e){
 }
 window.doLogin=async function(){
   const err=document.getElementById("authErr");if(err)err.textContent="";
+  const pwa=window.matchMedia&&window.matchMedia("(display-mode: standalone)").matches;
   try{
     await signInWithPopup(auth,provider);
   }catch(e){
+    if(err)err.textContent="";
+    if(pwa){
+      /* In der installierten App (PWA) bricht auch der Redirect-Fallback ab
+         (Safari partitioniert den Speicher → "missing initial state"-Seite).
+         Lieber eine klare Anleitung als eine tote Firebase-Seite. */
+      console.warn("Popup-Login in der installierten App fehlgeschlagen:",e);
+      if(err)err.textContent="In der installierten App ist die Google-Anmeldung eingeschränkt. Öffne die Trainingsapp in Safari und melde dich dort an — anschließend nutzt die App dein Konto weiter.";
+      return;
+    }
     console.warn("Popup fehlgeschlagen, versuche Redirect:",e);
     try{await signInWithRedirect(auth,provider)}
     catch(e2){if(err)err.textContent=authErrText(e2);console.warn("Redirect fehlgeschlagen:",e2)}
