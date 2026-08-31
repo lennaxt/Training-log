@@ -86,7 +86,7 @@
   .plan-overlay.open{opacity:1;pointer-events:auto}
   .plan-sheet{width:100%;max-width:560px;margin:0 auto;padding:calc(var(--top) + 26px) 22px calc(var(--bot) + 40px);flex:1;display:flex;flex-direction:column}
   .plan-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:40px}
-  .plan-close{background:none;border:none;font-size:28px;color:var(--ink);cursor:pointer;padding:0;line-height:1;width:32px;height:32px;display:flex;align-items:center;justify-content:center}
+  .plan-close{background:none;border:none;font-size:28px;color:var(--ink);cursor:pointer;padding:0;line-height:1;width:44px;height:44px;margin:-6px -10px 0 0;display:flex;align-items:center;justify-content:flex-end}
   .plan-title{font-family:'Fraunces',serif;font-size:32px;font-weight:500;letter-spacing:-0.01em;margin:0 0 6px;line-height:1.1}
   .plan-sub{font-size:13px;color:var(--ink-mute);margin-bottom:36px}
   .plan-label{font-size:11.5px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:var(--ink-mute);margin-bottom:14px;display:flex;align-items:center;gap:11px}
@@ -224,8 +224,8 @@
   .stat span{font-size:11px;font-weight:600;text-transform:uppercase;color:var(--ink-soft);margin-top:10px;line-height:1.35;white-space:nowrap}
 
   /* ── Tabs ── */
-  .tabs{display:flex;gap:30px;border-bottom:1px solid var(--line);margin-bottom:24px}
-  .tabs button{background:none;border:0;padding:0 0 14px;cursor:pointer;position:relative;
+  .tabs{display:flex;gap:22px;border-bottom:1px solid var(--line);margin-bottom:24px}
+  .tabs button{background:none;border:0;padding:16px 0 14px;min-height:44px;cursor:pointer;position:relative;
     font-size:12px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;
     color:var(--ink-soft);transition:color .2s}
   .tabs button.on{color:#4A4945}
@@ -300,7 +300,9 @@
   .sr-in::-webkit-outer-spin-button,.sr-in::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
   .sr-check{width:34px;height:34px;justify-self:center;border:1.5px solid var(--line);background:var(--paper);
     border-radius:9px;color:transparent;font-size:16px;cursor:pointer;display:flex;align-items:center;
-    justify-content:center;transition:.15s;padding:0}
+    justify-content:center;transition:.15s;padding:0;position:relative}
+  /* Die Optik bleibt 34 px, angetippt wird ein unsichtbares 44-px-Feld. */
+  .sr-check::before{content:"";position:absolute;top:-5px;left:-5px;right:-5px;bottom:-5px}
   .setrow.active .sr-check{border-color:var(--ink-soft)}
   .setrow.active .sr-check:active{background:var(--paper-2)}
   .sr-check.on{background:var(--blue);border-color:var(--blue);color:#fff}
@@ -321,7 +323,7 @@
   .field input{width:100%;min-width:0;border:0;background:none;text-align:center;
     font-family:'Fraunces',serif;font-size:24px;font-weight:500;padding:0;-moz-appearance:textfield}
   .field input::-webkit-outer-spin-button,.field input::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
-  .field input.txt{font-family:'Inter',sans-serif;font-size:15px;font-weight:500;text-align:left;padding:2px 0}
+  .field input.txt{font-family:'Inter',sans-serif;font-size:16px;font-weight:500;text-align:left;padding:2px 0}
   .field input.txt::placeholder{color:var(--ink-soft);opacity:.5;font-weight:400}
   .field.stack{padding-bottom:12px}
   .add{flex:none;width:58px;border:0;background:var(--blue);color:#fff;font-size:26px;font-weight:400;
@@ -425,6 +427,7 @@
   .empty h3{font-size:24px;margin-top:16px}
   .empty p{font-size:15px;color:var(--ink-soft);margin-top:12px}
   .sess{border-bottom:1px solid var(--line);padding:36px 0}
+  .hist-hint{font-size:11.5px;color:var(--ink-faint);margin:0 0 18px;line-height:1.45}
   .sess-top{display:grid;grid-template-columns:52px minmax(0,1fr) auto;gap:20px;align-items:center;margin-bottom:20px}
   .sess-badge{font-family:'Fraunces',serif;font-size:38px;font-weight:500;color:var(--blue);line-height:.8}
   .sess-date{min-width:0}
@@ -1156,8 +1159,6 @@ window._reloadStore=function(newKey){
   tab="train";dayPick=null;openEx=null;newOpen=false;newName="";newScheme="";
   editEx=null;editSessTs=null;editSessData={};progSel=null;
   applyStoredAccents();applyDark();
-  /* cat=null umgeht den Sonderfall in setCat, der bei erneutem "kraft" den
-     Plan-Manager oeffnen wuerde. */
   cat=null;setCat(CAT_LIST.find(c=>!isCatHidden(c))||"kraft");
 };
 function load(){
@@ -1190,7 +1191,12 @@ function save(){
   if(window._cloudSave)window._cloudSave();
 }
 window._storeData=()=>JSON.parse(JSON.stringify(store));
-window._hasActive=()=>!!(store&&store.active);
+window._hasActive=function(){
+  if(store&&store.active)return true;
+  const el=document.activeElement;
+  if(el&&/^(INPUT|TEXTAREA|SELECT)$/.test(el.tagName))return true;
+  return Object.values(actDraft).some(d=>d&&(d.min||d.km||d.kcal||d.hm||d.gpx));
+};
 
 /* ── Plan-Manager ── */
 let planSel=null;
@@ -1248,7 +1254,7 @@ function attachHoldDel(l){
 }
 function doDeletePlan(l){
   const isBase=!!PLAN[l];
-  store.sessions=store.sessions.filter(s=>s.day!==l);
+  store.sessions.filter(s=>s.day===l).forEach(x=>tombstone(x.ts));store.sessions=store.sessions.filter(s=>s.day!==l);
   store.custom[l]=[];
   store.hidden[l]=[];
   delete store.plans[l];
@@ -1267,7 +1273,7 @@ function confirmDeletePlan(l){
   const sessionCount=store.sessions.filter(s=>s.day===l).length;
   const msg=`Tag ${l} (${label}) löschen?\n\n${sessionCount} Einheiten werden entfernt.${isBase?"\n\nDu kannst ihn später über \"Neue Einheit\" wiederherstellen.":""}`;
   if(!confirm(msg))return;
-  store.sessions=store.sessions.filter(s=>s.day!==l);
+  store.sessions.filter(s=>s.day===l).forEach(x=>tombstone(x.ts));store.sessions=store.sessions.filter(s=>s.day!==l);
   store.custom[l]=[];
   store.hidden[l]=[];
   if(isBase){if(!store.deleted.includes(l))store.deleted.push(l)}
@@ -1351,7 +1357,6 @@ function isActDay(d){return actForDay(d)!==null}
 function catBtnId(c){return c==="kraft"?"catKraft":c==="rad"?"catRad":c==="laufen"?"catLauf":"catKurs"}
 function kraftDays(){return allDays().filter(d=>!isActDay(d))}
 function setCat(c){
-  if(c==="kraft"&&cat==="kraft"){openPlanMgr();return}
   cat=c;tab="train";
   ["kraft","rad","laufen","kurs"].forEach(k=>{
     document.getElementById(catBtnId(k)).classList.toggle("on",c===k);
@@ -1690,7 +1695,11 @@ function paintFinish(){const s=document.getElementById("finishSlot");
   if(!n){bar.classList.add("hidden");s.innerHTML="";return}
   bar.classList.remove("hidden");
   s.innerHTML=`<div class="finrow"><button class="btn-primary" onclick="finish()">Einheit abschließen <span class="n">${n} ${n===1?"Satz":"Sätze"}</span></button><button class="btn-discard" onclick="discard()" aria-label="Einheit verwerfen">Verwerfen</button></div>`}
-function discard(){store.active=null;save();openEx=null;newOpen=false;dayPick=null;render()}
+function discard(){
+  let n=0;if(store.active)for(const id in store.active.log)n+=store.active.log[id].length;
+  if(n&&!confirm(n+" abgehakte Sätze verwerfen? Das lässt sich nicht rückgängig machen."))return;
+  store.active=null;save();openEx=null;newOpen=false;dayPick=null;render();
+}
 function finish(){let n=0;for(const id in store.active.log)n+=store.active.log[id].length;
   if(!n){discard();return}
   store.active.done=Date.now();
@@ -1753,9 +1762,9 @@ function renderActTrain(cfg){
   const v=document.getElementById("viewTrain");
   const last=store.sessions.filter(s=>s.day===cfg.day).slice(-1)[0];
   let d=initActDraft(cfg.key);
-  if(last&&actData(last,cfg).min!=null&&!d.gpx){
+  if(last&&actData(last,cfg).min!=null&&!d.gpx&&!d._seeded&&!d.min&&!d.kcal&&!d.km&&!d.hm){
     const lr=actData(last,cfg);
-    actDraft[cfg.key]={min:lr.min||0,kcal:lr.kcal||0,hm:lr.hm||0,km:lr.km||0,maxKmh:lr.maxKmh||0,gpx:null,gpxT:null,yt:d.yt||""};
+    actDraft[cfg.key]={min:lr.min||0,kcal:lr.kcal||0,hm:lr.hm||0,km:lr.km||0,maxKmh:lr.maxKmh||0,gpx:null,gpxT:null,yt:d.yt||"",_seeded:true};
     d=actDraft[cfg.key];
   }
   const active=store.active&&store.active.day===cfg.day;
@@ -1820,7 +1829,7 @@ function onGpxFile(k,input){
     store.sessions.push(sess);
     save();
     setTab("history");
-    toast("Fahrt importiert",`${data.km} km · ${data.hm} hm`);
+    toast(cfg.saveLabel+" importiert",`${data.km} km · ${data.hm} hm`);
   };
   r.readAsText(f);
 }
@@ -1856,6 +1865,10 @@ function finishAct(k){
 function quickSaveAct(k){
   const cfg=ACT[k];
   updateAct(k);
+  const dr=actDraft[k]||{};
+  if(!dr.min&&!dr.km&&!dr.kcal&&!dr.gpx){
+    toast("Nichts einzutragen","Trage mindestens die Dauer ein.");return;
+  }
   const s={ts:Date.now(),day:cfg.day,log:{},done:Date.now()};
   s[cfg.field]={...actDraft[k]};
   if(cfg.key==="rad")s.bike=bikeName();
@@ -1873,7 +1886,7 @@ function renderActHist(cfg){
   const rs=[...store.sessions].filter(s=>s.day===cfg.day).reverse();
   if(!rs.length){v.innerHTML=`<div class="empty"><div class="eyebrow plain">Verlauf</div>
     <h3>${cfg.noSession||"Noch keine Einheit erfasst."}</h3><p>Trage im Reiter „Training" deine Werte ein und tippe auf „${cfg.saveLabel} speichern".</p></div>`;return}
-  let h="";
+  let h=`<p class="hist-hint">Einheit gedrückt halten, um sie zu bearbeiten oder zu löschen.</p>`;
   rs.forEach((s,i)=>{
     if(editSessTs===s.ts){h+=renderActEdit(cfg,s,i);return}
     const r=actData(s,cfg);
@@ -2357,7 +2370,7 @@ function renderHist(){const v=document.getElementById("viewHist");
   const kSessions=store.sessions.filter(s=>!isActDay(s.day));
   if(!kSessions.length){v.innerHTML=`<div class="empty"><div class="eyebrow plain">Verlauf</div>
     <h3>Noch keine Einheit erfasst.</h3><p>Starte im Reiter „Training" — abgeschlossene Einheiten erscheinen hier.</p></div>`;return}
-  let h="";
+  let h=`<p class="hist-hint">Einheit gedrückt halten, um sie zu bearbeiten oder zu löschen.</p>`;
   [...kSessions].reverse().forEach((s,i)=>{
     const isEditing=editSessTs===s.ts;
     if(isEditing){
@@ -2958,7 +2971,7 @@ function paintCatRow(){
 function openPrefs(){paintPrefs();document.getElementById("prefsOverlay").classList.add("open")}
 function closePrefs(){document.getElementById("prefsOverlay").classList.remove("open")}
 
-let catSetCur=null,areaHoldT=null,areaLongFired=false,areaHx=0,areaHy=0;
+let catSetCur=null,areaHoldT=null,areaLongFired=false,areaHx=0,areaHy=0,areaHeld=false,areaDown=0;
 function catAccent(cat){
   const v=cat==="rad"?"--rad":cat==="laufen"?"--lauf":cat==="kurs"?"--kurs":"--earth";
   return cssColor(v)||"#DC851F";
@@ -2973,7 +2986,7 @@ function initAreaLongPress(){
     };
     row.addEventListener("pointerdown",e=>{
       if(e.target.closest(".pref-switch,.pref-sel,.pref-select"))return;
-      areaLongFired=false;areaHx=e.clientX;areaHy=e.clientY;
+      areaLongFired=false;areaHx=e.clientX;areaHy=e.clientY;areaDown=Date.now();areaHeld=false;
       row.classList.add("holding");
       areaHoldT=setTimeout(()=>{
         areaHoldT=null;row.classList.remove("holding");areaLongFired=true;
@@ -2984,10 +2997,18 @@ function initAreaLongPress(){
     row.addEventListener("pointermove",e=>{
       if(areaHoldT&&(Math.abs(e.clientX-areaHx)>10||Math.abs(e.clientY-areaHy)>10))cancel();
     });
-    row.addEventListener("pointerup",cancel);
+    row.addEventListener("pointerup",()=>{
+      if(areaHoldT&&Date.now()-areaDown>180)areaHeld=true;
+      cancel();
+    });
     row.addEventListener("pointerleave",cancel);
     row.addEventListener("pointercancel",cancel);
     row.addEventListener("click",e=>{
+      /* Ein abgebrochener Halte-Versuch darf den Bereich nicht umschalten. */
+      if(areaHeld&&!e.target.closest(".pref-switch")){
+        areaHeld=false;e.preventDefault();e.stopPropagation();return;
+      }
+      areaHeld=false;
       if(areaLongFired){e.preventDefault();e.stopPropagation();areaLongFired=false}
     },true);
   });
@@ -3691,7 +3712,7 @@ const LEGACY_EMAIL="lennart.ising@icloud.com";
 /* Erst wenn der Stand einmal gelesen wurde, darf zurueckgeschrieben werden.
    Sonst ersetzt der erste save() nach einem gescheiterten Ladeversuch die
    gesamte Historie durch den leeren Speicher, mit dem die App gestartet ist. */
-let cloudReady=false, cloudWarned=false, pendingUpload=false, lastSyncOk=false, lastSyncAt=0;
+let cloudReady=false, cloudWarned=false, pendingUpload=false, lastSyncOk=false, lastSyncAt=0, storeBoundUid=null;
 window._syncInfo=()=>({ok:lastSyncOk,at:lastSyncAt});
 
 function cloudFail(what,e){
@@ -3738,8 +3759,15 @@ function mergeStores(a,b){
 }
 
 async function cloudSave(){
-  if(!currentUser||!cloudReady)return;
+  if(!currentUser)return;
   const uid=currentUser.uid;
+  if(!cloudReady){
+    /* Noch nicht gelesen, also darf nicht geschrieben werden — aber es steht
+       etwas an, und das muss den Neustart ueberleben. */
+    pendingUpload=true;
+    setSyncState(uid,{rev:syncState(uid).rev,dirty:true});
+    return;
+  }
   /* Die Wahrheit ist der Speicher im Arbeitsspeicher — localStorage kann in
      Safari blockiert sein und haette dann einen aelteren Stand geliefert. */
   const local=window._storeData?window._storeData():JSON.parse(localStorage.getItem(keyFor(uid))||"{}");
@@ -3751,9 +3779,10 @@ async function cloudSave(){
       const snap=await tx.get(ref);
       const cloud=snap.exists()?snap.data():null;
       const cRev=cloud?cloud.rev|0:0;
+      const fremd=cloud&&(cloud.rev===undefined||cRev>before.rev);
       /* Hat ein anderes Geraet zwischendurch geschrieben, wird sein Stand
-         eingemischt statt ersetzt. */
-      const data=(cloud&&cRev>before.rev)?mergeStores(local,cloud.data||{}):local;
+         eingemischt statt ersetzt — der eigene ist dabei der frischere. */
+      const data=fremd?mergeStores(cloud.data||{},local):local;
       const next=Math.max(cRev,before.rev)+1;
       tx.set(ref,{data,rev:next,ts:Date.now(),email:currentUser.email||""});
       return next;
@@ -3793,12 +3822,13 @@ async function cloudLoad(){
     const cData=cloud.data||{};
     const key=keyFor(uid);
     const local=JSON.parse(localStorage.getItem(key)||"{}");
-    if(cRev>st.rev){
+    const unbekannt=localStorage.getItem(syncKey(uid))===null;
+    if(cloud.rev===undefined||unbekannt||cRev>st.rev){
       /* Der fremde Stand ist neuer — die eigenen Einheiten gehen trotzdem
          nicht verloren, sie werden eingemischt. */
       const merged=mergeStores(local,cData);
       localStorage.setItem(key,JSON.stringify(merged));
-      const gained=(merged.sessions||[]).length>(cData.sessions||[]).length;
+      const gained=(merged.sessions||[]).length>(cData.sessions||[]).length||cloud.rev===undefined;
       setSyncState(uid,{rev:cRev,dirty:st.dirty||gained});
       if(gained)pendingUpload=true;
     }else if(st.rev>cRev){
@@ -3815,7 +3845,14 @@ async function cloudSync(){
   return cloudReady;
 }
 
-window._cloudSave=cloudSave;
+let saveChain=Promise.resolve(), saveQueued=false;
+function queueSave(){
+  if(saveQueued)return saveChain;
+  saveQueued=true;
+  saveChain=saveChain.then(()=>{saveQueued=false;return cloudSave()}).catch(()=>{saveQueued=false});
+  return saveChain;
+}
+window._cloudSave=queueSave;
 
 function authErrText(e){
   const code=e&&e.code?String(e.code):(e&&e.message?String(e.message):"Unbekannter Fehler");
@@ -3853,12 +3890,13 @@ getRedirectResult(auth).catch(e=>console.warn("Redirect-Ergebnis:",e));
 
 onAuthStateChanged(auth,async(user)=>{
   currentUser=user;
-  cloudReady=false;cloudWarned=false;pendingUpload=false;
+  cloudReady=false;cloudWarned=false;pendingUpload=false;storeBoundUid=null;
   if(user){
     await cloudSync();
     if(!currentUser||currentUser.uid!==user.uid)return;
     if(window._reloadStore)window._reloadStore(keyFor(user.uid));
-    if(pendingUpload){pendingUpload=false;cloudSave()}
+    storeBoundUid=user.uid;
+    if(pendingUpload){pendingUpload=false;queueSave()}
     const label=user.email||user.displayName||"Angemeldet";
     const bm=document.getElementById("brandMark");
     if(bm)bm.textContent=String(user.displayName||user.email||"T").trim().charAt(0).toUpperCase()||"T";
@@ -3868,6 +3906,7 @@ onAuthStateChanged(auth,async(user)=>{
   }else{
     document.querySelectorAll(".plan-overlay.open,.map-overlay.open,#pauseOverlay.open").forEach(o=>o.classList.remove("open"));
     document.body.classList.add("auth-pending");
+    storeBoundUid=null;
     if(window._reloadStore)window._reloadStore("trainingslog_v3_none");
   }
 });
@@ -3877,18 +3916,24 @@ onAuthStateChanged(auth,async(user)=>{
 document.addEventListener("visibilitychange",async()=>{
   if(document.hidden||!currentUser)return;
   const uid=currentUser.uid;
-  /* Eine laufende Krafteinheit wuerde durch den Cloud-Stand ersetzt. Sie zaehlt
-     mehr als die Aktualitaet — der eigene Stand geht stattdessen hoch. */
+  /* Solange der Speicher noch nicht auf diesen Nutzer umgestellt ist, gehoert
+     der Arbeitsspeicher jemand anderem — oder niemandem. */
+  if(storeBoundUid!==uid)return;
+  /* Laufende Eingaben und eine laufende Einheit zaehlen mehr als Aktualitaet. */
   const busy=window._hasActive&&window._hasActive();
   const before=localStorage.getItem(keyFor(uid));
   const ok=await cloudLoad();
-  if(!ok||!currentUser||currentUser.uid!==uid)return;
+  if(!ok||!currentUser||currentUser.uid!==uid||storeBoundUid!==uid)return;
   cloudReady=true;
-  if(pendingUpload){pendingUpload=false;cloudSave()}
+  /* Nichts hochladen, solange etwas offen ist: der Arbeitsspeicher kennt den
+     eingemischten fremden Stand noch nicht und wuerde ihn ueberschreiben.
+     dirty bleibt gesetzt, der Upload wird spaeter nachgeholt. */
   if(busy)return;
-  /* Nur auffrischen, wenn sich wirklich etwas geaendert hat — sonst springt die
-     Ansicht bei jedem App-Wechsel. */
+  /* Erst auffrischen, dann schreiben — sonst geht der gerade eingemischte
+     Stand des anderen Geraets beim naechsten Schreibvorgang verloren.
+     Auffrischen nur bei echter Aenderung, sonst springt die Ansicht. */
   if(localStorage.getItem(keyFor(uid))!==before&&window._refreshStore)window._refreshStore();
+  if(pendingUpload){pendingUpload=false;queueSave()}
 });
 </script>
 <script type="module">
