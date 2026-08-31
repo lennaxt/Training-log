@@ -2810,8 +2810,8 @@ function applyDark(){
 function setTheme(v){
   if(!THEMES.includes(v))return;
   store.theme=v;delete store.dark;
+  // Kein Toast: die Wirkung sieht man sofort am ganzen Bildschirm.
   save();applyDark();
-  toast("Darstellung",{hell:"Hell",dunkel:"Dunkel",system:"Wie das System"}[v]);
 }
 SYSTEM_DUNKEL.addEventListener("change",()=>{if(themeWahl()==="system")applyDark()});
 function applyStoredAccents(){
@@ -2957,17 +2957,19 @@ const PAUSE_MAX=300,PAUSE_STEP=30;
    was hier steht, laeuft an beiden Stellen. */
 /* Beide Fassungen teilen sich alles ausser der Farbe. createCreature liegt im
    Modul am Seitenende und wird erst beim Anzeigen gebraucht. */
-function creatureView(dark){
+/* Die Fassung wird beim Anzeigen aus dem App-Modus gelesen, nicht fest
+   gewaehlt — eine weisse Kreatur in einer dunklen App faellt heraus. */
+function creatureView(){
   return {
-    dark,
     hideClock:true,
     html:()=>`<span class="creature-host"></span>
       <span class="creature-reveal"><span class="mp-num">&ndash;</span></span>`,
     mount(el){
+      const dunkel=darkAktiv();
       const host=el.querySelector(".creature-host");
-      if(host&&window.createCreature)this._c=window.createCreature(host,dark);
+      if(host&&window.createCreature)this._c=window.createCreature(host,dunkel);
       const rv=el.querySelector(".creature-reveal");
-      if(rv)rv.style.color=dark?"#252423":"#ffffff";
+      if(rv)rv.style.color=dunkel?"#252423":"#ffffff";
     },
     tick(el){
       const rv=el.querySelector(".creature-reveal"),host=el.querySelector(".creature-host");
@@ -3124,8 +3126,7 @@ const PAUSE_MODES=[
    ]},
   {id:"anim",name:"Animation",field:"pauseAnim",sub:"Auswahl",
    opts:[
-     {id:"kreatur",name:"Kreatur hell",...creatureView(false)},
-     {id:"kreatur_d",name:"Kreatur dunkel",...creatureView(true)}
+     {id:"kreatur",name:"Kreatur",...creatureView()}
    ]},
   {id:"wissen",name:"News",note:"Schlagzeilen aus deinen Themen zum Überfliegen.",field:"pauseThemen",sub:"Themen",multi:true,
    def:["inland","ausland","wissen"],
@@ -3368,9 +3369,9 @@ function pauseStart(cat){
   pauseT0=performance.now();
   pauseCur=o;
   stage.innerHTML=o.html?o.html(o):(m.html?m.html(o):"");
-  ov.classList.toggle("dark",!!o.dark);
+  ov.classList.toggle("dark",darkAktiv());
   ov.classList.toggle("anim",m.id==="anim");
-  setThemeColor(o.dark?"#252423":null);
+  setThemeColor(null);
   document.getElementById("pauseClock").style.display=(m.id==="timer"||o.hideClock)?"none":"";
   if(o.mount)o.mount(stage);
   ov.classList.add("open");
