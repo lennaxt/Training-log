@@ -654,6 +654,7 @@
     -webkit-tap-highlight-color:transparent}
   .pause-chip:active{background:var(--press)}
   .pause-chip.on{background:var(--ink);border-color:var(--ink);color:#fff}
+  .mode-note{font-size:12.5px;line-height:1.45;color:var(--ink-soft);margin:-8px 0 12px;text-align:center}
   .mode-prev{position:relative;height:180px;margin-bottom:24px;overflow:hidden;background:var(--paper);
     border:1px solid var(--line);display:flex;align-items:center;justify-content:center}
   .mp-num{font-family:'Fraunces',serif;font-size:38px;font-weight:500;letter-spacing:-0.02em;
@@ -2887,7 +2888,7 @@ const LISTE_MAX=16;
    Stand liegt zusaetzlich im localStorage, damit die Pause ohne Netz laeuft. */
 const quelleMem={};
 let quelleCat=null;
-function quelleView(modeId,dir,lesen){return {mount(el){quelleRender(el,modeId,dir,lesen)}}}
+function quelleView(modeId,dir,lesen,strom){return {mount(el){quelleRender(el,modeId,dir,lesen,strom)}}}
 function quelleSel(modeId){
   const m=pauseMode(modeId);
   return quelleCat?modeSel(quelleCat,m):[m.opts[0].id];
@@ -2901,22 +2902,44 @@ function newsAge(iso){
   const tage=Math.round(min/1440);
   return tage===1?"gestern":"vor "+tage+" Tagen";
 }
-function quelleRender(el,modeId,dir,lesen){
+function quelleRender(el,modeId,dir,lesen,strom){
   const liste=el.querySelector(".news-list"),leser=el.querySelector(".news-read");
   if(!liste)return;
   const themen=quelleSel(modeId);
+  let zuletzt=null;
+  const beutel=()=>themen.flatMap(t=>{
+    const d=quelleMem[dir+t]||{};
+    return (d.items||[]).map(i=>({...i,liz:d.lizenz}));
+  });
+  const zufall=pool=>{
+    // Nie zweimal hintereinander dasselbe, solange es Alternativen gibt.
+    const frei=pool.filter(i=>i.t!==zuletzt);
+    const w=(frei.length?frei:pool)[Math.floor(Math.random()*(frei.length||pool.length))];
+    zuletzt=w&&w.t;
+    return w;
+  };
   const oeffnen=it=>{
     leser.innerHTML="";
-    const zurueck=document.createElement("button");
-    zurueck.className="news-back";zurueck.type="button";zurueck.textContent="\u2190 Liste";
-    zurueck.onclick=()=>{leser.hidden=true;liste.hidden=false};
+    if(!strom){
+      const zurueck=document.createElement("button");
+      zurueck.className="news-back";zurueck.type="button";zurueck.textContent="\u2190 Liste";
+      zurueck.onclick=()=>{leser.hidden=true;liste.hidden=false};
+      leser.append(zurueck);
+    }
     const k=document.createElement("div");k.className="mp-kicker";k.textContent=it.q||"";
     const h=document.createElement("div");h.className="mp-head";h.textContent=it.t;
     const t=document.createElement("div");t.className="mp-text";t.textContent=it.s;
-    leser.append(zurueck,k,h,t);
+    leser.append(k,h,t);
+    if(strom){
+      const n=document.createElement("button");
+      n.className="news-open";n.type="button";n.textContent="N\u00e4chster Artikel \u2192";
+      n.onclick=()=>{const w=zufall(beutel());if(w)oeffnen(w)};
+      leser.append(n);
+    }
     if(it.u){
       const a=document.createElement("a");
       a.className="news-open";a.href=it.u;a.target="_blank";a.rel="noopener noreferrer";
+      a.style.marginLeft=strom?"8px":"";
       a.textContent=(lesen?"Ganzer Artikel bei ":"Weiterlesen bei ")+(it.q||"der Quelle")+" \u2197";
       leser.append(a);
     }
@@ -2927,15 +2950,16 @@ function quelleRender(el,modeId,dir,lesen){
     }
     liste.hidden=true;leser.hidden=false;leser.scrollTop=0;
   };
+  const leerHinweis='<div class="mp-note">Noch nichts geladen.<br>Einmal mit Internet öffnen, dann steht es auch offline bereit.</div>';
   const paint=()=>{
-    let pool=themen.flatMap(t=>{
-      const d=quelleMem[dir+t]||{};
-      return (d.items||[]).map(i=>({...i,liz:d.lizenz}));
-    });
+    let pool=beutel();
+    if(!pool.length){liste.innerHTML=leerHinweis;liste.hidden=false;if(leser)leser.hidden=true;return}
+    // Im Strom faellt die Auswahl weg: es geht sofort los, statt dass man sich
+    // erst durch eine Liste entscheiden muss.
+    if(strom){const w=zufall(pool);if(w){oeffnen(w);return}}
     pool=pool.some(i=>i.d)
       ? pool.sort((a,b)=>(b.d||"").localeCompare(a.d||"")).slice(0,LISTE_MAX)
       : pool.sort(()=>Math.random()-.5).slice(0,LISTE_MAX);
-    if(!pool.length){liste.innerHTML='<div class="mp-note">Noch nichts geladen.<br>Einmal mit Internet öffnen, dann steht es auch offline bereit.</div>';return}
     liste.innerHTML="";
     pool.forEach(it=>{
       // Antippen wirft nie aus der App: es oeffnet immer erst das Blatt, das
@@ -2972,7 +2996,7 @@ const SKELETT=`<div class="news-list"><div class="news-item">
      <div class="mp-line" style="width:88%"></div><div class="mp-line" style="width:64%"></div></div></div>
    <div class="news-read" hidden></div>`;
 const N=quelleView("wissen","news",false);
-const W=quelleView("wiki","wissen",true);
+const W=quelleView("wiki","wissen",true,true);
 const PAUSE_MODES=[
   {id:"timer",name:"Timer",note:"Die Zeit läuft sichtbar ab.",field:"pauseTimer",sub:"Darstellung",
    opts:[
@@ -3001,7 +3025,7 @@ const PAUSE_MODES=[
      {id:"kreatur",name:"Kreatur hell",...creatureView(false)},
      {id:"kreatur_d",name:"Kreatur dunkel",...creatureView(true)}
    ]},
-  {id:"wissen",name:"News",note:"Schlagzeilen zum \u00dcberfliegen.",field:"pauseThemen",sub:"Themen",multi:true,
+  {id:"wissen",name:"News",note:"Schlagzeilen aus deinen Themen zum Überfliegen.",field:"pauseThemen",sub:"Themen",multi:true,
    def:["inland","ausland","wissen"],
    html:()=>SKELETT,
    opts:[
@@ -3010,7 +3034,7 @@ const PAUSE_MODES=[
      {id:"umwelt",name:"Umwelt",...N},{id:"gesellschaft",name:"Gesellschaft",...N},
      {id:"kultur",name:"Kultur",...N},{id:"sport",name:"Sport",...N}
    ]},
-  {id:"wiki",name:"Wissen",note:"Artikel zum Lesen, mit Tiefe.",field:"pauseWissenThemen",sub:"Themen",multi:true,
+  {id:"wiki",name:"Wissen",note:"Ein zufälliger Artikel zum Lesen. Danach der nächste.",field:"pauseWissenThemen",sub:"Themen",multi:true,
    def:["physik","geschichte","biologie"],
    html:()=>SKELETT,
    opts:[
@@ -3148,6 +3172,7 @@ function extraFieldHtml(cat,f){
     return `<div class="pause-lbl">${esc(f.label)}</div>
       <div class="pause-seg">${PAUSE_MODES.map(x=>
         `<button class="${x.id===cur?"on":""}" onclick="pickMode('${cat}','${x.id}')">${esc(x.name)}</button>`).join("")}</div>
+      ${m.note?`<div class="mode-note">${esc(m.note)}</div>`:""}
       <div class="mode-prev" id="modePrev">${modePrevHtml(cat,m)}</div>
       <div class="pause-lbl pause-lbl-sub">${esc(m.sub)}</div>
       <div class="pause-chips">${m.opts.map(o=>
