@@ -669,6 +669,23 @@
   #extraOverlay .plan-sheet{padding-top:calc(var(--top) + 60px)}
   #extraOverlay .plan-top{margin-bottom:10px}
   #extraOverlay .plan-sub{margin-bottom:22px}
+  #gpxOverlay{z-index:965}
+  #gpxOverlay .plan-sheet{padding-top:calc(var(--top) + 60px)}
+  #guideOverlay{z-index:980}
+  #guideOverlay .plan-sheet{padding-top:calc(var(--top) + 60px)}
+
+  .info-body{line-height:1.75}
+  .info-body h3{font-size:18px;margin:28px 0 8px;letter-spacing:-0.01em}
+  .info-body h3:first-child{margin-top:0}
+  .info-body p{font-size:15px;color:var(--ink-soft);margin-bottom:12px}
+  .info-body b{color:var(--ink);font-weight:600}
+  .info-body .step{display:flex;gap:12px;align-items:flex-start;margin-bottom:14px}
+  .info-body .step .n{flex:none;width:26px;height:26px;border-radius:50%;background:var(--ink);
+    color:var(--on-ink);font-family:'Fraunces',serif;font-size:14px;font-weight:500;
+    display:flex;align-items:center;justify-content:center;margin-top:2px}
+  .info-body .step p{margin-bottom:0;flex:1}
+  .info-body .note{margin-top:26px;padding:14px 16px;border:1px solid var(--line);
+    border-radius:12px;font-size:14px;color:var(--ink-soft)}
   .pause-block{padding:14px 4px 20px;border-top:1px solid var(--line)}
   .pause-big{display:flex;align-items:baseline;justify-content:center;gap:8px;margin:4px 0 2px}
   .pause-val{width:136px;border:0;background:none;padding:0;margin:0;
@@ -964,12 +981,51 @@
     </div>
 
 
+    <div class="pref-section">
+      <div class="pref-title">App Guide</div>
+      <div class="pref-sub">Shortcuts und Wege durch die App — ganz unten im Guide.</div>
+      <button class="pref-row pref-clickable" onclick="openGuide()"><span>App Guide öffnen</span>
+        <span class="catset-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></span></button>
+    </div>
+
     <div class="pref-foot">
       <div class="pref-acc-wrap">
         <div class="pref-account" id="prefUserInfo">–</div>
         <div class="pref-sync" id="prefSync"></div>
       </div>
       <button class="pref-logout" onclick="doLogout()">Abmelden</button>
+    </div>
+  </div>
+</div>
+
+<div class="plan-overlay" id="guideOverlay">
+  <div class="plan-sheet">
+    <div class="plan-top">
+      <h1 class="plan-title">App Guide</h1>
+      <button class="plan-close" onclick="closeGuide()" aria-label="Zurück">×</button>
+    </div>
+    <div class="plan-sub">Die wichtigsten Wege und Abkürzungen in der App.</div>
+    <div class="info-body">
+      <h3>Bereich wechseln</h3>
+      <p>Oben auf <b>Kraft</b>, das <b>Rad-Symbol</b>, <b>Laufen</b> oder <b>Kurse</b> tippen.</p>
+      <h3>Training wechseln (Kraft)</h3>
+      <p>Auf den großen <b>Buchstaben</b> oben tippen → nächstes Training (A → B → …).</p>
+      <h3>Kursart wechseln</h3>
+      <p>Auf den <b>Kursnamen</b> oben tippen → nächste Kursart (z. B. Yoga → HIIT).</p>
+      <h3>Einheit abschließen</h3>
+      <p>Sätze abhaken, dann unten <b>„Einheit abschließen"</b> — Dauer wird automatisch gespeichert.</p>
+      <h3>Einheit bearbeiten oder löschen</h3>
+      <p>Im <b>Verlauf</b> eine Einheit <b>gedrückt halten</b> → Bearbeiten-Modus. Einzelne Sätze wischst du nach links weg.</p>
+      <h3>Bereichs-Einstellungen öffnen</h3>
+      <p><b>Einstellungen</b> (Logo oben links) öffnen → Bereichs-Zeile <b>gedrückt halten</b>.</p>
+      <h3>Farben &amp; Kartenstil</h3>
+      <p><b>Zahnrad</b> oben rechts — oder aus den Bereichs-Einstellungen über <b>„Farbe &amp; Stil"</b>.</p>
+      <h3>GPX-Route laden (Rad / Laufen)</h3>
+      <p>Reiter <b>Training</b> → <b>„+ GPX-Route hochladen"</b>. Wie du die Datei von Strava bekommst, steht in den Bereichs-Einstellungen unter <b>GPX-Routen</b>.</p>
+      <h3>Einheiten planen (Kraft)</h3>
+      <p>Im Kraft-Training unten auf <b>„Einheiten verwalten"</b> — Trainings anlegen, löschen oder umbenennen.</p>
+      <h3>Cloud-Status prüfen</h3>
+      <p>Unten in den Einstellungen: <b>„Gesichert um …"</b> bedeutet, deine Daten liegen sicher in der Cloud.</p>
     </div>
   </div>
 </div>
@@ -982,6 +1038,29 @@
     </div>
     <div class="plan-sub" id="catSetSub">Einstellungen für diesen Bereich.</div>
     <div id="catSetBody"></div>
+  </div>
+</div>
+
+<div class="plan-overlay" id="gpxOverlay">
+  <div class="plan-sheet">
+    <div class="plan-top">
+      <h1 class="plan-title" id="gpxTitle">GPX-Routen</h1>
+      <button class="plan-close" onclick="closeGpxInfo()" aria-label="Zurück">×</button>
+    </div>
+    <div class="plan-sub">Routen als Datei in die App bringen — Schritt für Schritt.</div>
+    <div class="info-body">
+      <h3>Was ist eine GPX-Route?</h3>
+      <p>Eine GPX-Datei ist ein kleines Textdokument, das die Koordinaten deiner Strecke speichert. Aus ihr baut die App die Karte und übernimmt Kilometer, Höhenmeter und Tempo automatisch — du musst nur noch die Kalorien eintragen.</p>
+      <h3>Woher bekomme ich sie?</h3>
+      <p>Tracke deine Fahrt oder deinen Lauf in einer Tracking-App wie <b>Strava</b>. Den Download gibt es dort <b>nur in der Web-App</b> (strava.com im Browser) — die Smartphone-App kann keine Dateien exportieren.</p>
+      <h3>Einmal pro Woche</h3>
+      <div class="step"><span class="n">1</span><p>Öffne <b>strava.com</b> auf deinem Computer oder im Browser des Handys und melde dich an.</p></div>
+      <div class="step"><span class="n">2</span><p>Gehe zu <b>Aktivitäten</b> und öffne die Fahrt oder den Lauf, den du eintragen willst.</p></div>
+      <div class="step"><span class="n">3</span><p>Öffne das Menü rechts oben und wähle <b>„GPX-Datei herunterladen"</b>.</p></div>
+      <div class="step"><span class="n">4</span><p>In der Trainingsapp: Reiter <b>Training</b> → tippe auf <b>„+ GPX-Route hochladen"</b> und wähle die Datei.</p></div>
+      <p>Empfehlung: Ziehe <b>einmal pro Woche</b> alle Fahrten und Läufe herunter und lade sie in die Trainingsapp — so bleibt dein Verlauf vollständig, ohne dass du jede Strecke einzeln eintippst.</p>
+      <div class="note">Eine automatische Übertragung (Strava-API) war in Arbeit, ist aber nicht umsetzbar, weil sie Geld kostet. Der Export per Hand bleibt deshalb der Weg.</div>
+    </div>
   </div>
 </div>
 
@@ -3588,16 +3667,27 @@ function openCatSettings(cat){
       <button class="pref-row pref-clickable catset-link" onclick="addType('${cat}')"><span>Eigene ${nm==="Art"?"Art":"Radart"} hinzufügen</span></button>`;
   }
   const chev=`<span class="catset-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></span>`;
+  const gpxRow=(ACT[cat]&&ACT[cat].gpx)?
+    `<button class="pref-row pref-clickable catset-link" onclick="openGpxInfo('${cat}')"><span>GPX-Routen</span>${chev}</button>`:"";
   document.getElementById("catSetBody").innerHTML=
     `<div class="pref-section">
       <label class="pref-row"><span>Sichtbar</span>
         <input type="checkbox" class="pref-switch" id="catSetVis" ${vis?"checked":""} onchange="catSetToggleVis()"></label>
       ${typeRow}
+      ${gpxRow}
       <button class="pref-row pref-clickable catset-link" onclick="catSetOpenStyle()"><span>Farbe &amp; Stil</span>${chev}</button>
       ${extraLinksHtml(cat,chev)}
     </div>`;
   document.getElementById("catSetOverlay").classList.add("open");
 }
+function openGpxInfo(cat){
+  const t=document.getElementById("gpxTitle");
+  if(t)t.textContent=cat==="rad"?"GPX-Routen · Rad":"GPX-Routen · Laufen";
+  document.getElementById("gpxOverlay").classList.add("open");
+}
+function closeGpxInfo(){document.getElementById("gpxOverlay").classList.remove("open")}
+function openGuide(){document.getElementById("guideOverlay").classList.add("open")}
+function closeGuide(){document.getElementById("guideOverlay").classList.remove("open")}
 function closeCatSettings(){document.getElementById("catSetOverlay").classList.remove("open")}
 function catSetToggleVis(){
   const cb=document.getElementById("catSetVis");

@@ -19,6 +19,11 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
 ### Immer
 - Bei UI-Änderungen: lokal starten (`python3 -m http.server 8000` o. ä.) und im Browser prüfen, bevor als „fertig" gemeldet wird.
 - Änderungen so klein wie möglich halten. Keine Refactorings, die nicht Teil der Aufgabe sind.
+- **Nutzerdaten sind unantastbar.** Jede Änderung an Abläufen, Texten oder Ansichten muss
+  alle gespeicherten Werte (Einheiten, Pläne, Farben, Einstellungen) unangetastet lassen.
+  Neue Felder im Store sind optional, bestehende Werte dürfen nie wegfallen oder ihre
+  Bedeutung wechseln. Fehlzustände und „alt trifft neu" (Cloud, `_delSess`) bleiben
+  bedacht, sonst verliert ein bestehender Nutzer seine Historie.
 - Mobile-Tauglichkeit prüfen: 375 px Viewport, Touch-Ziele ≥ 44 px, `font-size: 16px` bei Inputs (verhindert iOS-Zoom).
 - Auf Deutsch antworten.
 - Für Fremde bedienbar bauen: sinnvolle Standardwerte statt leerer Auswahl, keine
@@ -46,6 +51,14 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
 - **Kurse:** optionaler YouTube-Link mit Live-Vorschau; Thumbnail `maxresdefault` → Fallback `hqdefault` → ausblenden bei ungültig.
 - **Kraft-Verlauf:** je Übung schwarze Satz-Punkte (ein Punkt = ein Satz) + Max-Gewicht.
 - **Vorbelegung:** Eingabe schlägt pro Satz den entsprechenden Satz von letztem Mal vor (`lastSetsFor`, Draft springt beim Abhaken weiter).
+- **Hilfe wohnt in den Einstellungen:** „GPX-Routen" in den Bereichs-Einstellungen von
+  Rad/Laufen und „App Guide" ganz unten in den Einstellungen sind statische Overlays
+  (`gpxOverlay`, `guideOverlay`) mit `.info-body`-Text — kein gespeicherter Zustand,
+  kein Bereichs-spezifisches Verhalten außer dem Titel. Neue Hilfe gehört in dieses
+  Muster, nicht in den Store.
+- **Strava-Import bleibt manuell:** Eine Strava-API-Anbindung ist bewusst nicht umgesetzt
+  (kostenpflichtig). GPX kommt per Export aus der Strava-Web-App + Upload in der
+  Trainingsapp; genau das erklärt der GPX-Reiter.
 
 ## Fallstricke
 
