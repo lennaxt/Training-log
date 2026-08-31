@@ -3934,10 +3934,18 @@ async function cloudLoad(){
       /* Der fremde Stand ist neuer — die eigenen Einheiten gehen trotzdem
          nicht verloren, sie werden eingemischt. */
       const merged=mergeStores(local,cData);
+      /* Auf diesem Geraet angepasste Farben und Einstellungen behalten ihre
+         Werte: ein Cloud-Stand mit Standard- oder aelteren Farben darf eine
+         lokale Anpassung nicht ueberschreiben (sonst sind Farben nach einem
+         Relogin weg). Noch nicht angepasste Werte (undefined) erben die Cloud. */
+      let preserved=false;
+      ["accentA","accentB","accentRad","accentL","accentK","mapStyle","bike","kursType","hiddenCats","dark","theme","extras"].forEach(k=>{
+        if(local[k]!==undefined&&merged[k]!==local[k]){merged[k]=local[k];preserved=true}
+      });
       localStorage.setItem(key,JSON.stringify(merged));
       const gained=(merged.sessions||[]).length>(cData.sessions||[]).length||cloud.rev===undefined;
-      setSyncState(uid,{rev:cRev,dirty:st.dirty||gained});
-      if(gained)pendingUpload=true;
+      setSyncState(uid,{rev:cRev,dirty:st.dirty||gained||preserved});
+      if(gained||preserved)pendingUpload=true;
     }else if(st.rev>cRev){
       pendingUpload=true;
     }
