@@ -1129,7 +1129,12 @@ store=load();
 window._reloadStore=function(newKey){if(newKey)KEY=newKey;store=load();draft={};applyStoredAccents();applyDark();render()};
 function load(){
   let s={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:[]};
-  try{const r=localStorage.getItem(KEY);if(r)s=Object.assign(s,JSON.parse(r))}catch(e){}
+  let raw=null;
+  try{raw=localStorage.getItem(KEY);if(raw)s=Object.assign(s,JSON.parse(raw))}catch(e){}
+  /* PLAN A/B ist der persoenliche Alt-Plan aus der Einzelplatz-Zeit. Ein Speicher
+     ohne Eintrag gehoert einem neuen Nutzer — der startet im leeren Kraft-Layout
+     und legt seine eigenen Einheiten an. */
+  if(!raw)s.deleted=Object.keys(PLAN);
   if(!s.custom)s.custom={A:[],B:[]};
   if(!s.hidden)s.hidden={A:[],B:[]};
   if(!s.names)s.names={};
@@ -1243,7 +1248,11 @@ function createPlan(){
   const name=document.getElementById("planNameIn").value.trim();
   if(!planSel||!name)return;
   if(PLAN[planSel]){
+    /* Der Buchstabe war geloescht — der Nutzer legt hier etwas Eigenes an und
+       erwartet keine Uebungen aus dem Alt-Plan. */
+    const wasDeleted=(store.deleted||[]).includes(planSel);
     store.deleted=(store.deleted||[]).filter(d=>d!==planSel);
+    if(wasDeleted)store.hidden[planSel]=PLAN[planSel].ex.map(e=>e.id);
     if(name.trim()!==PLAN[planSel].label.trim()){
       store.plans[planSel]={label:name,exercises:[]};
     }else{
@@ -1330,6 +1339,7 @@ function toggleDay(){
   if(isActCat(cat))return;
   const cur=store.active?store.active.day:(dayPick||nextDay());
   const days=kraftDays();
+  if(!days.length)return;
   const idx=days.indexOf(cur);
   const to=days[(idx+1)%days.length];
   if(store.active){store.active.day=to;save()}else{dayPick=to}
@@ -2327,7 +2337,7 @@ function wipe(){
   const keep=["accentA","accentB","accentRad","accentL","accentK","mapStyle","bike","kursType","hiddenCats","extras","dark","theme"];
   const preserved={};
   keep.forEach(k=>{if(store[k]!==undefined)preserved[k]=store[k]});
-  store={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:[],...preserved};
+  store={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:Object.keys(PLAN),...preserved};
   draft={};
   save();applyStoredAccents();applyDark();openEx=null;newOpen=false;setTab("train");
 }
@@ -3512,7 +3522,7 @@ function catSetOpenStyle(){closeCatSettings();openSettings()}
 function paintPrefs(){
   const hidden=store.hiddenCats||[];
   CAT_LIST.forEach(c=>{
-    const el=document.getElementById("prefCat"+(c==="rad"?"Rad":c==="laufen"?"Lauf":"Kurs"));
+    const el=document.getElementById("prefCat"+(c==="rad"?"Rad":c==="laufen"?"Lauf":c==="kurs"?"Kurs":"Kraft"));
     if(el)el.checked=!hidden.includes(c);
   });
   const b=document.getElementById("prefBike");
