@@ -3786,11 +3786,22 @@ initAreaLongPress();
 render();
 
 /* Notnagel, falls das Firebase-Modul weiter unten gar nicht laedt: dann gibt es
-   kein doLogin und der Knopf reagierte bisher stumm. */
+   kein doLogin und der Knopf reagierte bisher stumm. Bis das Modul fertig ist,
+   darf kein falsches "keine Verbindung" erscheinen — der Nutzer hat den Knopf
+   nur zu frueh gedrueckt. */
+window.__authReady=false;
 window.doLogin=function(){
   const err=document.getElementById("authErr");
-  if(err)err.textContent="Keine Verbindung zu Firebase. Prüfe deine Internetverbindung und lade die Seite neu.";
+  if(!err)return;
+  err.textContent=window.__authReady?"":"Verbindung wird hergestellt…";
 };
+setTimeout(function(){
+  if(window.__authReady)return;
+  window.doLogin=function(){
+    const err=document.getElementById("authErr");
+    if(err)err.textContent="Keine Verbindung zu Firebase. Prüfe deine Internetverbindung und lade die Seite neu.";
+  };
+},8000);
 window.doLogout=function(){location.reload()};
 </script>
 
@@ -3810,6 +3821,11 @@ const fb=initializeApp({
 const db=getFirestore(fb);
 const auth=getAuth(fb);
 const provider=new GoogleAuthProvider();
+window.__authReady=true;
+/* Stand der Lade-Meldung aus dem Stub entfernen, falls der Nutzer schon
+   geklickt hat, bevor das Modul fertig war. */
+setTimeout(function(){const e=document.getElementById("authErr");
+  if(e&&e.textContent==="Verbindung wird hergestellt…")e.textContent=""},1000);
 setPersistence(auth,browserLocalPersistence).catch(()=>{});
 
 let currentUser=null;
