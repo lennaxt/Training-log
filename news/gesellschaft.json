@@ -1,7 +1,35 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-08-31T09:46:50+00:00",
+ "updated": "2026-08-31T20:50:24+00:00",
  "items": [
+  {
+   "t": "Russische Angriffe auf Kyjiw: Chaos, leere Regale und viel Wut",
+   "s": "Russland fliegt derzeit mehr Luftangriffe auf die ukrainische Hauptstadt. Angegriffen werden nun auch Lagerhallen, Supermärkte und Tankstellen.",
+   "u": "https://taz.de/Russische-Angriffe-auf-Kyjiw/!6208783/",
+   "q": "taz",
+   "d": "2026-08-31T17:47:00+00:00"
+  },
+  {
+   "t": "1.650 Tage Krieg in der Ukraine: Sport inmitten von Krieg und Zerstörung",
+   "s": "Tschernihiw leidet unter täglichem russischen Beschuss. Krafttraining, Schwimmen oder Leichtathletik – Leistungssport findet auch mitten im Krieg statt.",
+   "u": "https://taz.de/1650-Tage-Krieg-in-der-Ukraine/!6207843/",
+   "q": "taz",
+   "d": "2026-08-31T15:25:00+00:00"
+  },
+  {
+   "t": "Nach Massenansturm auf Ceuta: Spanien beschuldigt „rechtsextreme Internationale“",
+   "s": "Spaniens Regierungschef Sánchez wirft Israel und Russland vor, den Ansturm auf Ceuta befeuert zu haben. Was steckt dahinter?",
+   "u": "https://taz.de/Vier-Wochen-nach-Massenansturm/!6208784/",
+   "q": "taz",
+   "d": "2026-08-31T13:48:00+00:00"
+  },
+  {
+   "t": "Fährunglück vor Zypern: „Es gab so viel Geschrei und viele Menschen steckten fest“",
+   "s": "Augenzeuge berichten von dem Unglück, bei dem mindestens acht Menschen starben. Gegen die Besatzung wurden schwere Vorwürfe erhoben.",
+   "u": "https://taz.de/Faehrunglueck-vor-Zypern/!6208818/",
+   "q": "taz",
+   "d": "2026-08-31T11:09:00+00:00"
+  },
   {
    "t": "Kyjiw unter Dauerfeuer: Dutzende Tote bei Explosion von Munitionslager in Kyjiw",
    "s": "Den vierten Tag infolge schickt Russland Drohnen gegen die ukrainische Hauptstadt – mit verheerenden Folgen. Doch das ist nicht das einzige Problem.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Streit-um-EU-Budget/!6207808/",
    "q": "taz",
    "d": "2026-08-27T16:11:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: Schlaflos in Odessa",
-   "s": "In der ukrainischen Schwarzmeer-Metropole treffen die nächtlichen Einschläge und Explosionen russischer Raketen und Drohnen die Bewohner ins Mark.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6207649/",
-   "q": "taz",
-   "d": "2026-08-27T14:40:00+00:00"
-  },
-  {
-   "t": "Ratko Mladić: Bosnisch-serbischer Kriegsverbrecher gestorben",
-   "s": "Der wegen Kriegsverbrechen verurteilte Ex-General Ratko Mladić ist in einer Haftanstalt der ​UN gestorben. Seine Truppen begingen 1995 den Völkermord von Srebrenica.",
-   "u": "https://taz.de/Ratko-Mladic/!6207822/",
-   "q": "taz",
-   "d": "2026-08-27T14:26:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: „Überleben bis April“ lautet das Motto",
-   "s": "Der Ukraine geht es wirtschaftlich miserabel: Russlands Angriffe schränken Exporte ein, behindern die Energieversorgung. Und bald kommt der Winter.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6207650/",
-   "q": "taz",
-   "d": "2026-08-27T13:50:00+00:00"
-  },
-  {
-   "t": "Geplante Tierhaltungskennzeichnung: EU-Kommission stellt deutsches Tierhaltungslogo infrage",
-   "s": "Die Bundesregierung will auch ausländisches Fleisch kennzeichnen. Doch die EU-Kommission hält die Pläne für europarechtswidrig.",
-   "u": "https://taz.de/Geplante-Tierhaltungskennzeichnung/!6207762/",
-   "q": "taz",
-   "d": "2026-08-27T12:55:00+00:00"
   }
  ]
 }

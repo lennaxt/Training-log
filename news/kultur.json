@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-08-31T09:46:51+00:00",
+ "updated": "2026-08-31T20:50:25+00:00",
  "items": [
+  {
+   "t": "Straße von Hormus: Die USA nehmen Angriffe gegen Iran wieder auf",
+   "s": "Die USA greifen Ziele im Iran an, Teheran antwortet mit Raketen. Vor den Kongresswahlen bleibt den Republikanern wenig Zeit, um die Ausgangslage zu bessern.",
+   "u": "https://taz.de/Strasse-von-Hormus/!6208775/",
+   "q": "taz",
+   "d": "2026-08-31T14:22:00+00:00"
+  },
   {
    "t": "Absturz eines Alt-Right-Stars: Maga schiebt sich ab",
    "s": "Als rechter Blogger forderte Milo Yiannopoulos harte Abschiebungen. Nun fliegt er selbst aus den USA – zur Freude seiner Rivalen im Trump-Lager.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/US-Regierungssprecherin-Leavitt-geht/!6204014/",
    "q": "taz",
    "d": "2026-08-13T06:41:00+00:00"
-  },
-  {
-   "t": "Alexandria Ocasio-Cortez: Die Linke, die nichts ausschließen mag",
-   "s": "Alexandria Ocasio-Cortez friert ihre Eizellen ein und sorgt damit für Schlagzeilen. Zugleich hält sich der linke Star alle politischen Optionen offen.",
-   "u": "https://taz.de/Alexandria-Ocasio-Cortez-Sie-haelt-sich-alle-Optionen-offen/!6203813/",
-   "q": "taz",
-   "d": "2026-08-12T18:03:00+00:00"
   }
  ]
 }

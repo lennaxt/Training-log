@@ -1,20 +1,76 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-08-31T09:46:47+00:00",
+ "updated": "2026-08-31T20:50:22+00:00",
  "items": [
+  {
+   "t": "Warntag, Steuer, Garantie: Was sich im September ändert",
+   "s": "Nicht erschrecken: Im September gibt es bundesweit Alarm - beim Warntag werden Sirenen und Warn-Apps getestet. Ein neues Label zeigt künftig die Garantiezeit. Und es gibt Vereinfachungen bei Steuerberatungen.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/neuerungen-september-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T17:00:05+00:00"
+  },
+  {
+   "t": "Vor 50 Jahren gab es den ersten Indexfonds für Privatanleger",
+   "s": "Vor 50 Jahren ging der erste Indexfonds für Privatanleger an den Start. Er gilt als Vorläufer der heutigen ETFs und hat den Vermögensaufbau an der Börse einem breiteren Publikum geöffnet.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/wallstreet-dax-indexfonds-boerse-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T16:46:46+00:00"
+  },
+  {
+   "t": "Marktbericht: Herbe Verluste zum Monatsende",
+   "s": "Neue Militärschläge im Persischen Golf und Zinssorgen haben den DAX zu Wochenbeginn in die Knie gezwungen. Der August endet dennoch mit einem Monatsplus von 2,5 Prozent.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T16:23:35+00:00"
+  },
+  {
+   "t": "Apfel-Produzenten unter Druck",
+   "s": "Die Apfel-Ernte fällt wegen Frost und Hitze, aber auch aus natürlichen Gründen geringer aus. Obwohl die Preise steigen, haben Obstbauern wenig davon. Sie leiden unter hohen Kosten und scharfer Konkurrenz. Von Klaus-Rainer Jackisch.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/aepfel-ernte-deutschland-apfelsaft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T14:43:46+00:00"
+  },
+  {
+   "t": "Kommentar zu Krankschreibungen - Die Politik sollte die Idee schnell beerdigen",
+   "s": "Bundesarbeitsministerin Bas sollte einen Weg finden, um diese unsinnige Verständigung der Koalition auf ein Attest gleich am ersten Krankheitstag zu stoppen. Diese geplante Attestpflicht ist praxisfern und wird keine Fehlzeit weniger bringen.Von Birgid Becker",
+   "u": "https://www.deutschlandfunk.de/kommentar-zu-krankschreibungen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-31T14:38:00+00:00"
+  },
+  {
+   "t": "Deutsche Inflationsrate steigt auch im August - auf 2,9 Prozent",
+   "s": "Das Leben in Deutschland hat sich im August weiter verteuert. Die Verbraucherpreise lagen zuletzt um 2,9 Prozent über dem Niveau des Vorjahresmonats. Der Grund sind gestiegene Ölpreise und auch das Rhein-Niedrigwasser.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-august-anstieg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T12:36:46+00:00"
+  },
+  {
+   "t": "Pflegekassen im ersten Halbjahr mit 770 Millionen Euro Minus",
+   "s": "Die Pflegekassen haben im ersten Halbjahr ein Minus von 770 Millionen Euro eingefahren. Der Spitzenverband warnt: Schon im Oktober könnten die Einnahmen nicht mehr reichen, um Pflegeleistungen voll zu finanzieren.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/pflegeversicherung-defizit-ausgaben-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T11:50:36+00:00"
+  },
+  {
+   "t": "Niedrigwasser und Inflation: Pegelstände runter - Preise rauf?",
+   "s": "Langsam normalisiert sich der Wasserstand des Rhein, der auch eine wichtige Transportroute ist. Rechtzeitig genug, damit ein Preisschock ausbleibt? Von Axel John.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-niedrigwasser-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T10:44:03+00:00"
+  },
+  {
+   "t": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
+   "s": "Geld für Straßen, Züge, Energie und sogar den Trevi-Brunnen: Mit den Corona-Hilfen der EU investiert Italien in vielen Feldern. Das Wiederaufbauprogramm läuft nun aus. War es ein Erfolg? Experten sind skeptisch. Von N. Nützel.",
+   "u": "https://www.tagesschau.de/ausland/europa/wiederaufbauprogramm-italien-102.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T10:28:00+00:00"
+  },
   {
    "t": "Rasanter Anstieg bei ausländischen Investitionen in Deutschland",
    "s": "Deutschland bleibt für ausländische Unternehmen attraktiv - ihre Direktinvestitionen sind einer Studie zufolge im vergangenen Jahr deutlich gestiegen. Allerdings hat sich verändert, woher das Geld kommt.",
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/iw-auslaendische-investitionen-100.html",
    "q": "Tagesschau",
    "d": "2026-08-31T09:06:42+00:00"
-  },
-  {
-   "t": "Marktbericht: Der Kater nach dem DAX-Rekord?",
-   "s": "Zinssorgen, Inflationsangst und eine mögliche Eskalation im Nahen Osten - die Themen an der Börse sind vielfältig. Nach dem Rekordhoch vom Freitag bleiben die Investoren heute zunächst zurückhaltend.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T08:36:51+00:00"
   },
   {
    "t": "Update Wirtschaft vom 31.08.2026",
@@ -113,62 +169,6 @@
    "u": "https://www.deutschlandfunk.de/island-viertagewoche-arbeitszeit-verkuerzung-work-life-balance-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-08-21T07:58:00+00:00"
-  },
-  {
-   "t": "Griechenlands Sechstagewoche - Länger arbeiten, weniger verdienen",
-   "s": "Vor zwei Jahren hat Griechenland die Sechstagewoche eingeführt, inzwischen sind auch 13-Stunden-Tage möglich. Die Wirtschaft wächst, die Arbeitslosigkeit sinkt. Bei den Beschäftigten kommt davon wenig an.",
-   "u": "https://www.deutschlandfunk.de/griechenland-sechstagewoche-arbeitszeit-loehne-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-21T07:57:00+00:00"
-  },
-  {
-   "t": "Speicher nur halb voll - Wenn beim Gas die Reserve fehlt",
-   "s": "Deutschlands Gasspeicher sind deutlich schlechter gefüllt als geplant. Die Bundesregierung setzt auf den Markt. Doch Experten warnen vor einem Szenario, das den Winter teurer und schwieriger machen könnte.",
-   "u": "https://www.deutschlandfunk.de/gasspeicher-deutschland-fuellstand-winter-warnung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-20T15:11:00+00:00"
-  },
-  {
-   "t": "Teures Bauland - Die Wohnungskrise beginnt beim Bodenpreis",
-   "s": "In Deutschland fehlt bezahlbarer Wohnraum. Doch nicht nur hohe Baukosten bremsen den Neubau: Auch teures Bauland treibt Mieten und Kaufpreise nach oben. Ein wichtiger Hebel liegt bei den Kommunen.",
-   "u": "https://www.deutschlandfunk.de/wohnungsbau-grundstueckspreise-bauland-baukosten-bodenpolitik-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-20T10:02:00+00:00"
-  },
-  {
-   "t": "Deutschlands erster Digitalminister - Karsten Wildbergers gemischte Bilanz",
-   "s": "Seit mehr als einem Jahr ist Karsten Wildberger Minister für Digitales und Staatsmodernisierung. Was hat der CDU-Politiker bisher erreicht?",
-   "u": "https://www.deutschlandfunk.de/karsten-wildberger-digitalminister-bilanz-digitalisierung-deutschland-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-19T11:19:00+00:00"
-  },
-  {
-   "t": "Ernteausfälle wegen der Dürre - Landwirtschaft im Klimastress",
-   "s": "Die Trockenheit verursacht Millionenschäden in der Landwirtschaft. Während die Branche staatliche Hilfen fordert, wächst der Druck auf die Bauern, mehr Klima- und Naturschutz zu betreiben.",
-   "u": "https://www.deutschlandfunk.de/ernteausfaelle-landwirtschaft-duerre-klimawandel-klimakrise-hitze-bauern-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-18T11:11:00+00:00"
-  },
-  {
-   "t": "EU-Verpackungsrichtlinie - Weniger Müll, mehr Bürokratie",
-   "s": "In der EU gelten neue Regeln für Verpackungen. Für die Umwelt und auch für die Gesundheit von Verbrauchern ist das eine gute Nachricht. Doch die Regeln treffen besonders kleine Versandhändler hart.",
-   "u": "https://www.deutschlandfunk.de/eu-verpackungsrichtlinie-verpackungsmuell-regeln-pfas-onlinehandel-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-13T17:00:00+00:00"
-  },
-  {
-   "t": "Wirtschaft ankurbeln - Studie: Staaten sollten investieren, statt Steuern zu senken",
-   "s": "Investitionen schaffen deutlich mehr Wirtschaftswachstum als Steuersenkungen, zu dem Ergebnis kommen Forscher des Deutschen Instituts für Wirtschaftsforschung. Kritiker zweifeln aber an den Annahmen der Studie.",
-   "u": "https://www.deutschlandfunk.de/diw-studie-investitionen-steuersenkungen-wirtschaft-wachstum-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-12T15:00:00+00:00"
-  },
-  {
-   "t": "Politisches Engagement - Wie Unternehmen Demokratie fördern",
-   "s": "Unternehmen starten Demokratie-Initiativen, grenzen sich von der AfD ab und ermutigen Beschäftigte zu politischem Engagement. Warum mischt sich die Wirtschaft ein und weshalb sind stabile demokratische Verhältnisse auch in ihrem eigenen Interesse?",
-   "u": "https://www.deutschlandfunk.de/demokratie-wirtschaft-unternehmen-afd-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-12T12:25:00+00:00"
   }
  ]
 }
