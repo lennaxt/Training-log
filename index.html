@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="theme-color" content="#FFFFFF">
 <title>Trainingslog</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -579,6 +579,17 @@
   .auth-gate{position:fixed;inset:0;background:var(--bg);display:none;align-items:center;justify-content:center;padding:24px;z-index:900}
   body.auth-pending .auth-gate{display:flex}
   body.auth-pending .wrap{visibility:hidden}
+  /* Vom Home-Bildschirm gestartet legt iOS die Statusleiste ueber die Seite und
+     schreibt ihre Zeichen immer weiss. Der Streifen faerbt den Bereich also
+     selbst: im Dunkeln der App-Grund, im Hellen dunkel, damit Uhrzeit und Akku
+     lesbar bleiben. Nur in der Home-Bildschirm-Fassung, in Safari macht das
+     der Browser. */
+  .statusbar{display:none}
+  @media (display-mode:standalone){
+    .statusbar{display:block;position:fixed;left:0;right:0;top:0;height:var(--top);
+      z-index:1000;background:var(--ink);pointer-events:none}
+    body.dark .statusbar{background:var(--paper)}
+  }
   .auth-card{max-width:340px;text-align:center}
   .auth-card .mark{width:56px;height:56px;font-size:22px;margin:0 auto 24px}
   .auth-title{font-family:'Fraunces',serif;font-weight:500;font-size:32px;margin:0 0 14px;letter-spacing:-0.01em}
@@ -823,6 +834,7 @@
 </style>
 </head>
 <body class="auth-pending">
+<div class="statusbar" aria-hidden="true"></div>
 
 <div class="auth-gate" id="authGate">
   <div class="auth-card">

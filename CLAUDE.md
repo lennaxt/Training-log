@@ -48,6 +48,10 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
 
 - **`draft` beim Store-Wechsel zurücksetzen:** `_reloadStore` (Cloud-Load nach Login) muss `draft={}` setzen, sonst bleibt die Vorbelegung auf Standardwerten hängen.
 - **Destruktive Aktionen erhalten Appearance/Prefs:** `wipe()` muss Farben (`accent*`), `mapStyle`, `bike`, `kursType`, `hiddenCats` bewahren und ein **vollständiges** Store-Objekt liefern (inkl. `schemes`, `plans`, `deleted`), sonst Crash in `dayLabel`.
+- **Statusleiste am Home-Bildschirm:** `apple-mobile-web-app-status-bar-style`
+  liest iOS **beim Hinzufügen** — Änderungen greifen erst, wenn man die App vom
+  Home-Bildschirm entfernt und neu ablegt. Steht auf `black-translucent`, die
+  Zeichen sind dort immer weiß; den Grund malt `.statusbar` selbst.
 - **Darstellung:** Hell / Dunkel / System, gespeichert als `store.theme`. „System" hört
   per `matchMedia` live mit. Neben `theme-color` muss auch `color-scheme` am
   `<html>` mitziehen — sonst lässt Safari seine Leiste weiß, obwohl die App dunkel ist.
