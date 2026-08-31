@@ -2942,7 +2942,7 @@ function quelleRender(el,modeId,dir,lesen,strom){
     knoepfe.className="news-actions";
     if(strom){
       const n=document.createElement("button");
-      n.className="news-open primaer";n.type="button";n.textContent="N\u00e4chster Artikel \u2192";
+      n.className="news-open primaer";n.type="button";n.textContent="N\u00e4chster Artikel";
       n.onclick=()=>{const w=zufall(beutel());if(w)oeffnen(w)};
       knoepfe.append(n);
     }
@@ -3009,7 +3009,7 @@ const SKELETT=`<div class="news-list"><div class="news-item">
 const N=quelleView("wissen","news",false);
 const W=quelleView("wiki","wissen",true,true);
 const PAUSE_MODES=[
-  {id:"timer",name:"Timer",note:"Die Zeit läuft sichtbar ab.",field:"pauseTimer",sub:"Darstellung",
+  {id:"timer",name:"Timer",field:"pauseTimer",sub:"Darstellung",
    opts:[
      {id:"kreis",name:"Kreis",
       html:()=>`<span class="mp-ringwrap">
@@ -3031,7 +3031,7 @@ const PAUSE_MODES=[
       }},
      {id:"zahl",name:"Nur Zahl",html:()=>`<span class="mp-num">–</span>`}
    ]},
-  {id:"anim",name:"Animation",note:"Etwas zum Zusehen.",field:"pauseAnim",sub:"Welche",
+  {id:"anim",name:"Animation",field:"pauseAnim",sub:"Auswahl",
    opts:[
      {id:"kreatur",name:"Kreatur hell",...creatureView(false)},
      {id:"kreatur_d",name:"Kreatur dunkel",...creatureView(true)}
@@ -3045,7 +3045,7 @@ const PAUSE_MODES=[
      {id:"umwelt",name:"Umwelt",...N},{id:"gesellschaft",name:"Gesellschaft",...N},
      {id:"kultur",name:"Kultur",...N},{id:"sport",name:"Sport",...N}
    ]},
-  {id:"wiki",name:"Wissen",note:"Ein zufälliger Artikel zum Lesen. Danach der nächste.",field:"pauseWissenThemen",sub:"Themen",multi:true,
+  {id:"wiki",name:"Wissen",note:"Bereichere deinen Kopf mit Wissen, statt zu scrollen.",field:"pauseWissenThemen",sub:"Themen",multi:true,
    def:["physik","geschichte","biologie"],
    html:()=>SKELETT,
    opts:[
