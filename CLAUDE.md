@@ -49,6 +49,32 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
 
 ## Fallstricke
 
+### Mehrbenutzer und Cloud-Sync
+- **Zugriffsregeln liegen als `firestore.rules` im Repo, wirken aber erst nach dem
+  Veröffentlichen in der Firebase-Konsole.** Die Datei allein schützt nichts.
+- **Nie über Zeitstempel entscheiden, welcher Stand gewinnt.** Zwei Geräte messen an
+  ihren eigenen Uhren; eines mit falscher Uhr wird unüberschreibbar. Maßgeblich ist
+  `rev`, ein Zähler aus der Cloud (`trainingslog_sync_<uid>` im localStorage).
+- **Einheiten werden vereinigt, nicht ersetzt** (`mergeStores`, Schlüssel ist `ts`).
+  Wer Einheiten löscht, **muss** `tombstone(ts)` aufrufen — sonst holt der Merge sie
+  vom anderen Gerät zurück. Betrifft `delSession`, `wipe` und beide Plan-Löschpfade.
+- **`cloudSave` schreibt erst, wenn `cloudLoad` einmal geklappt hat.** Sonst ersetzt
+  ein Fehlversuch beim Laden die ganze Historie durch den leeren Startspeicher.
+  Ein Dokument ohne `rev` (Alt-Bestand) gilt als Erstkontakt und wird verschmolzen.
+- **Erst auffrischen, dann hochladen.** Wer nach einem `cloudLoad` zuerst schreibt,
+  lädt den un-vereinigten Arbeitsspeicher hoch und löscht die fremden Einheiten.
+- **`_reloadStore` beim Nutzerwechsel, `_refreshStore` beim Auffrischen.** Ersteres
+  setzt Bereich, Reiter und Entwürfe zurück (richtig bei Anmeldung), letzteres behält
+  die Ansicht. Während einer laufenden Einheit oder offener Eingabe (`_hasActive`)
+  wird gar nicht aufgefrischt.
+- **Nichts, was nur einem Nutzer gehört, gehört in den Code.** Kursarten, Radarten
+  und Trainingspläne liegen im Speicher des Nutzers; `PLAN` A/B ist Alt-Bestand und
+  für neue Nutzer über `deleted` abgeschaltet.
+- **Buchstaben für Krafteinheiten schließen die Bereichs-Kürzel aus** (`planLetters`
+  filtert die `day`-Werte aus `ACT`). Ein Tag „L" fiele sonst aus `kraftDays()`.
+
+### Sonstiges
+
 - **`draft` beim Store-Wechsel zurücksetzen:** `_reloadStore` (Cloud-Load nach Login) muss `draft={}` setzen, sonst bleibt die Vorbelegung auf Standardwerten hängen.
 - **Destruktive Aktionen erhalten Appearance/Prefs:** `wipe()` muss Farben (`accent*`), `mapStyle`, `bike`, `kursType`, `hiddenCats` bewahren und ein **vollständiges** Store-Objekt liefern (inkl. `schemes`, `plans`, `deleted`), sonst Crash in `dayLabel`.
 - **Statusleiste am Home-Bildschirm:** `apple-mobile-web-app-status-bar-style`
