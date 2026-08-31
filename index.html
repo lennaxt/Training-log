@@ -96,6 +96,7 @@
   .plan-grid button{width:52px;height:52px;border-radius:50%;border:1.5px solid var(--line);background:var(--paper);font-family:'Fraunces',serif;font-weight:500;font-size:19px;cursor:pointer;color:var(--ink);transition:all .15s;flex:none;display:flex;align-items:center;justify-content:center;padding:0;-webkit-user-select:none;user-select:none;-webkit-touch-callout:none;touch-action:manipulation}
   .plan-grid button.used{opacity:.5;border-style:dashed}
   .plan-grid button.used.sel{opacity:1;background:#B94A48;border-color:#B94A48;color:#fff;border-style:solid}
+  .plan-del-note{font-size:12.5px;line-height:1.5;color:var(--ink-soft);margin:0 0 14px}
   .hold-del{position:relative;width:100%;height:56px;border-radius:12px;border:1.5px solid #B94A48;background:transparent;color:#B94A48;font-weight:600;font-size:15px;cursor:pointer;overflow:hidden;font-family:inherit;-webkit-user-select:none;user-select:none;touch-action:manipulation;margin-top:16px}
   .hold-del .hold-fill{position:absolute;inset:0;background:#B94A48;width:0;transition:none}
   .hold-del.active .hold-fill{width:100%;transition:width 1s linear}
@@ -210,6 +211,7 @@
     letter-spacing:-0.04em;color:var(--green);background:none;
     border:0;padding:0;cursor:pointer;display:block;transition:opacity .2s}
   .hero-letter:active{opacity:.55}
+  .hero-letter.static:active{opacity:1}
   .hero.dayB .hero-letter{background:linear-gradient(150deg,var(--earth),var(--glow));
     -webkit-background-clip:text;background-clip:text;color:transparent}
   .hero-side{padding-bottom:6px}
@@ -635,6 +637,11 @@
     letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-soft);cursor:pointer;min-height:36px}
   .pref-bike-ctl{display:flex;align-items:center;gap:8px}
   .pref-sel{position:relative;display:inline-flex}
+  /* Die Zeile sieht vollflaechig bedienbar aus wie ihre Nachbarn — das
+     Auswahlfeld lag vorher nur in einem schmalen Streifen darueber. */
+  .pref-row:has(.pref-sel){position:relative}
+  .pref-row .pref-sel{position:static;width:20px}
+  .pref-row .pref-sel select.pref-select{position:absolute;inset:0;width:100%;height:100%;opacity:0;z-index:2}
   .pref-sel::after{content:"";position:absolute;right:11px;top:50%;width:7px;height:7px;margin-top:-5px;
     border-right:1.5px solid var(--ink-soft);border-bottom:1.5px solid var(--ink-soft);transform:rotate(45deg);pointer-events:none}
   .pref-select{width:30px;height:44px;margin:0;padding:0;background:none;border:0;color:transparent;
@@ -1221,7 +1228,11 @@ function pickLetter(btn,l){
     planSel=null;
     cb.disabled=true;
     ni.value="";ni.disabled=true;
-    wrap.innerHTML=`<button type="button" class="hold-del" id="holdDelBtn"><span class="hold-fill"></span><span class="hold-lbl">Zum Löschen halten</span></button>`;
+    const n=store.sessions.filter(x=>x.day===l).length;
+    const note=n?`Tag ${l} · ${esc(dayLabel(l))} — ${n} erfasste ${n===1?"Einheit wird":"Einheiten werden"} mitgelöscht.`
+               :`Tag ${l} · ${esc(dayLabel(l))} ist angelegt, aber noch ohne Einheiten.`;
+    wrap.innerHTML=`<p class="plan-del-note">${note}</p>
+      <button type="button" class="hold-del" id="holdDelBtn"><span class="hold-fill"></span><span class="hold-lbl">Zum Löschen halten</span></button>`;
     attachHoldDel(l);
   }else{
     planSel=l;
@@ -1449,6 +1460,7 @@ function paintTop(){
     heroLetter.style.color="var("+ACT[cat].accentVar+")";
     const switchable=cat==="kurs"&&typeList("kurs").length>1;
     heroLetter.style.cursor=switchable?"pointer":"default";
+    heroLetter.classList.toggle("static",!switchable);
     heroLetter.setAttribute("aria-label",switchable?"Kursart wechseln":ACT[cat].label());
     heroSide.style.display="none";
   }else{
@@ -1458,6 +1470,10 @@ function paintTop(){
     heroSide.style.display="";
     heroLetter.textContent=showEmpty?"":d;
     heroLetter.style.display=showEmpty?"none":"";
+    const wechselbar=kraftDays().length>1;
+    heroLetter.classList.toggle("static",!wechselbar);
+    heroLetter.style.cursor=wechselbar?"pointer":"default";
+    heroLetter.setAttribute("aria-label",wechselbar?"Training wechseln":"Aktuelles Training");
   }
   document.getElementById("brandMark").classList.toggle("dark",showEmpty);
   document.body.classList.toggle("empty-cat",showEmpty);
@@ -2798,7 +2814,7 @@ document.addEventListener("pointerdown",e=>{
   if(editSessTs)return; // Bereits im Edit-Modus
   const sessEl=e.target.closest(".sessswipe");
   if(!sessEl||e.target.closest("input,select,.edit-form,.sess-behind-btn,.swipe-del,.ride-map"))return;
-  if(e.target.closest(".sline"))return; // Klick auf Übungs-Zeile → nicht Session-Bearbeitung
+  if(e.target.closest(".slineG"))return; // Klick auf Übungs-Zeile → nicht Session-Bearbeitung
   sessLpFired=false;
   sessLpTimer=setTimeout(()=>{
     const ts=parseInt(sessEl.getAttribute("data-ts"),10);
@@ -2958,7 +2974,10 @@ function openSettings(){
   if(kn)kn.textContent=kursTypeName();
   paintPicks();paintColorVisibility();paintMapStyle();document.getElementById("setOverlay").classList.add("open");
 }
-function closeSettings(){document.getElementById("setOverlay").classList.remove("open")}
+function closeSettings(){
+  document.getElementById("setOverlay").classList.remove("open");
+  if(styleReturnCat){const c=styleReturnCat;styleReturnCat=null;openCatSettings(c)}
+}
 
 function isCatHidden(c){return (store.hiddenCats||[]).includes(c)}
 const CAT_LIST=["kraft","rad","laufen","kurs"];
@@ -3586,7 +3605,8 @@ function catSetToggleVis(){
   paintPrefs();
   cb.checked=!isCatHidden(catSetCur);
 }
-function catSetOpenStyle(){closeCatSettings();openSettings()}
+let styleReturnCat=null;
+function catSetOpenStyle(){styleReturnCat=catSetCur;closeCatSettings();openSettings()}
 function paintPrefs(){
   paintSyncInfo();
   const hidden=store.hiddenCats||[];
@@ -3892,7 +3912,13 @@ onAuthStateChanged(auth,async(user)=>{
   currentUser=user;
   cloudReady=false;cloudWarned=false;pendingUpload=false;storeBoundUid=null;
   if(user){
-    await cloudSync();
+    /* Nach acht Sekunden geht es auch ohne Cloud weiter — dann steht in den
+       Einstellungen "Nicht gesichert", und geschrieben wird nicht. */
+    const laden=cloudSync().then(ok=>{
+      if(ok&&storeBoundUid===user.uid&&window._refreshStore&&!(window._hasActive&&window._hasActive()))window._refreshStore();
+      return ok;
+    });
+    await Promise.race([laden,new Promise(r=>setTimeout(r,8000))]);
     if(!currentUser||currentUser.uid!==user.uid)return;
     if(window._reloadStore)window._reloadStore(keyFor(user.uid));
     storeBoundUid=user.uid;
