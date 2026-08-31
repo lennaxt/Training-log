@@ -78,15 +78,15 @@
   .eyebrow.plain::before{display:none}
 
   .brand-title{font-family:'Fraunces',serif;font-size:20px;font-weight:600;letter-spacing:-0.01em;line-height:1.1;white-space:nowrap}
-  .cat-row{display:flex;gap:24px;margin-bottom:26px;align-items:center}
-  .cat-link{background:none;border:none;padding:6px 0;font-family:'Inter',sans-serif;font-size:12px;color:var(--ink-faint);cursor:pointer;transition:color .2s;font-weight:500;letter-spacing:0.14em;text-transform:uppercase}
+  .cat-row{display:flex;gap:24px;margin:-9px 0 17px;align-items:center}
+  .cat-link{background:none;border:none;padding:15px 0;min-height:44px;display:flex;align-items:center;font-family:'Inter',sans-serif;font-size:12px;color:var(--ink-faint);cursor:pointer;transition:color .2s;font-weight:500;letter-spacing:0.14em;text-transform:uppercase}
   .cat-link.on{color:var(--ink)}
 
   .plan-overlay{position:fixed;inset:0;background:var(--paper);z-index:900;overflow-y:auto;opacity:0;pointer-events:none;transition:opacity .2s;display:flex;flex-direction:column}
   .plan-overlay.open{opacity:1;pointer-events:auto}
   .plan-sheet{width:100%;max-width:560px;margin:0 auto;padding:calc(var(--top) + 26px) 22px calc(var(--bot) + 40px);flex:1;display:flex;flex-direction:column}
   .plan-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:40px}
-  .plan-close{background:none;border:none;font-size:28px;color:var(--ink);cursor:pointer;padding:0;line-height:1;width:32px;height:32px;display:flex;align-items:center;justify-content:center}
+  .plan-close{background:none;border:none;font-size:28px;color:var(--ink);cursor:pointer;padding:0;line-height:1;width:44px;height:44px;margin:-6px -10px 0 0;display:flex;align-items:center;justify-content:flex-end}
   .plan-title{font-family:'Fraunces',serif;font-size:32px;font-weight:500;letter-spacing:-0.01em;margin:0 0 6px;line-height:1.1}
   .plan-sub{font-size:13px;color:var(--ink-mute);margin-bottom:36px}
   .plan-label{font-size:11.5px;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:var(--ink-mute);margin-bottom:14px;display:flex;align-items:center;gap:11px}
@@ -96,6 +96,7 @@
   .plan-grid button{width:52px;height:52px;border-radius:50%;border:1.5px solid var(--line);background:var(--paper);font-family:'Fraunces',serif;font-weight:500;font-size:19px;cursor:pointer;color:var(--ink);transition:all .15s;flex:none;display:flex;align-items:center;justify-content:center;padding:0;-webkit-user-select:none;user-select:none;-webkit-touch-callout:none;touch-action:manipulation}
   .plan-grid button.used{opacity:.5;border-style:dashed}
   .plan-grid button.used.sel{opacity:1;background:#B94A48;border-color:#B94A48;color:#fff;border-style:solid}
+  .plan-del-note{font-size:12.5px;line-height:1.5;color:var(--ink-soft);margin:0 0 14px}
   .hold-del{position:relative;width:100%;height:56px;border-radius:12px;border:1.5px solid #B94A48;background:transparent;color:#B94A48;font-weight:600;font-size:15px;cursor:pointer;overflow:hidden;font-family:inherit;-webkit-user-select:none;user-select:none;touch-action:manipulation;margin-top:16px}
   .hold-del .hold-fill{position:absolute;inset:0;background:#B94A48;width:0;transition:none}
   .hold-del.active .hold-fill{width:100%;transition:width 1s linear}
@@ -210,6 +211,7 @@
     letter-spacing:-0.04em;color:var(--green);background:none;
     border:0;padding:0;cursor:pointer;display:block;transition:opacity .2s}
   .hero-letter:active{opacity:.55}
+  .hero-letter.static:active{opacity:1}
   .hero.dayB .hero-letter{background:linear-gradient(150deg,var(--earth),var(--glow));
     -webkit-background-clip:text;background-clip:text;color:transparent}
   .hero-side{padding-bottom:6px}
@@ -224,8 +226,8 @@
   .stat span{font-size:11px;font-weight:600;text-transform:uppercase;color:var(--ink-soft);margin-top:10px;line-height:1.35;white-space:nowrap}
 
   /* ── Tabs ── */
-  .tabs{display:flex;gap:30px;border-bottom:1px solid var(--line);margin-bottom:24px}
-  .tabs button{background:none;border:0;padding:0 0 14px;cursor:pointer;position:relative;
+  .tabs{display:flex;gap:22px;border-bottom:1px solid var(--line);margin-bottom:24px}
+  .tabs button{background:none;border:0;padding:16px 0 14px;min-height:44px;cursor:pointer;position:relative;
     font-size:12px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;
     color:var(--ink-soft);transition:color .2s}
   .tabs button.on{color:#4A4945}
@@ -300,7 +302,9 @@
   .sr-in::-webkit-outer-spin-button,.sr-in::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
   .sr-check{width:34px;height:34px;justify-self:center;border:1.5px solid var(--line);background:var(--paper);
     border-radius:9px;color:transparent;font-size:16px;cursor:pointer;display:flex;align-items:center;
-    justify-content:center;transition:.15s;padding:0}
+    justify-content:center;transition:.15s;padding:0;position:relative}
+  /* Die Optik bleibt 34 px, angetippt wird ein unsichtbares 44-px-Feld. */
+  .sr-check::before{content:"";position:absolute;top:-5px;left:-5px;right:-5px;bottom:-5px}
   .setrow.active .sr-check{border-color:var(--ink-soft)}
   .setrow.active .sr-check:active{background:var(--paper-2)}
   .sr-check.on{background:var(--blue);border-color:var(--blue);color:#fff}
@@ -321,7 +325,7 @@
   .field input{width:100%;min-width:0;border:0;background:none;text-align:center;
     font-family:'Fraunces',serif;font-size:24px;font-weight:500;padding:0;-moz-appearance:textfield}
   .field input::-webkit-outer-spin-button,.field input::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
-  .field input.txt{font-family:'Inter',sans-serif;font-size:15px;font-weight:500;text-align:left;padding:2px 0}
+  .field input.txt{font-family:'Inter',sans-serif;font-size:16px;font-weight:500;text-align:left;padding:2px 0}
   .field input.txt::placeholder{color:var(--ink-soft);opacity:.5;font-weight:400}
   .field.stack{padding-bottom:12px}
   .add{flex:none;width:58px;border:0;background:var(--blue);color:#fff;font-size:26px;font-weight:400;
@@ -342,6 +346,10 @@
   .newrow{display:grid;grid-template-columns:34px 1fr auto;gap:16px;align-items:baseline;width:100%;
     background:none;border:0;padding:26px 0;cursor:pointer;text-align:left;transition:padding-left .3s}
   .newrow:active{padding-left:12px}
+  .plan-link{display:block;margin:26px auto 0;background:none;border:none;min-height:44px;padding:0 8px;
+    font-family:'Inter',sans-serif;font-size:12px;font-weight:500;letter-spacing:0.14em;text-transform:uppercase;
+    color:var(--ink-faint);cursor:pointer}
+  .plan-link:active{color:var(--ink)}
   .newrow .ex-num{color:var(--blue)}
   .newrow h3{font-size:19px;color:var(--blue)}
   .newform{padding:0}
@@ -421,6 +429,7 @@
   .empty h3{font-size:24px;margin-top:16px}
   .empty p{font-size:15px;color:var(--ink-soft);margin-top:12px}
   .sess{border-bottom:1px solid var(--line);padding:36px 0}
+  .hist-hint{font-size:11.5px;color:var(--ink-faint);margin:0 0 18px;line-height:1.45}
   .sess-top{display:grid;grid-template-columns:52px minmax(0,1fr) auto;gap:20px;align-items:center;margin-bottom:20px}
   .sess-badge{font-family:'Fraunces',serif;font-size:38px;font-weight:500;color:var(--blue);line-height:.8}
   .sess-date{min-width:0}
@@ -619,11 +628,20 @@
   .pref-switch:checked::after{transform:translateX(20px)}
   .pref-foot{margin-top:auto;padding-top:22px;border-top:1px solid var(--line);
     display:flex;align-items:center;justify-content:space-between;gap:12px}
+  .pref-acc-wrap{min-width:0;flex:1}
   .pref-account{font-size:12px;color:var(--ink-soft);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .pref-sync{font-size:11px;color:var(--ink-faint);margin-top:3px;white-space:nowrap;
+    overflow:hidden;text-overflow:ellipsis}
+  .pref-sync.warn{color:var(--red,#C0392B)}
   .pref-logout{background:none;border:1px solid var(--line);padding:8px 14px;font-family:inherit;font-size:12px;
     letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-soft);cursor:pointer;min-height:36px}
   .pref-bike-ctl{display:flex;align-items:center;gap:8px}
   .pref-sel{position:relative;display:inline-flex}
+  /* Die Zeile sieht vollflaechig bedienbar aus wie ihre Nachbarn — das
+     Auswahlfeld lag vorher nur in einem schmalen Streifen darueber. */
+  .pref-row:has(.pref-sel){position:relative}
+  .pref-row .pref-sel{position:static;width:20px}
+  .pref-row .pref-sel select.pref-select{position:absolute;inset:0;width:100%;height:100%;opacity:0;z-index:2}
   .pref-sel::after{content:"";position:absolute;right:11px;top:50%;width:7px;height:7px;margin-top:-5px;
     border-right:1.5px solid var(--ink-soft);border-bottom:1.5px solid var(--ink-soft);transform:rotate(45deg);pointer-events:none}
   .pref-select{width:30px;height:44px;margin:0;padding:0;background:none;border:0;color:transparent;
@@ -731,6 +749,10 @@
   .pause-skip i{position:absolute;inset:0;background:var(--ink);opacity:.13;
     transform:scaleX(0);transform-origin:left;transition:transform .14s linear}
   .pause-skip.hold i{transform:scaleX(1);transition-duration:var(--hold)}
+  .pause-skip.nudge{border-color:var(--ink)}
+  .pause-skip.nudge b{color:var(--ink)}
+  #pauseOverlay.dark .pause-skip.nudge{border-color:rgba(255,255,255,.55)}
+  #pauseOverlay.dark .pause-skip.nudge b{color:rgba(255,255,255,.9)}
   #pauseOverlay.dark .pause-kicker{color:rgba(255,255,255,.36)}
   #pauseOverlay.dark .pause-clock{color:rgba(255,255,255,.46)}
   #pauseOverlay.dark.anim .pause-kicker{color:rgba(255,255,255,.42)}
@@ -837,7 +859,7 @@
 
 <div class="auth-gate" id="authGate">
   <div class="auth-card">
-    <div class="mark">L</div>
+    <div class="mark">T</div>
     <h1 class="auth-title">Trainingslog</h1>
     <p class="auth-sub">Melde dich an, um deine Einheiten sicher zu speichern und über deine Geräte hinweg zu nutzen.</p>
     <button class="auth-btn" onclick="doLogin()">
@@ -852,7 +874,7 @@
 
   <div class="head">
     <button class="brand" onclick="openPrefs()" aria-label="Einstellungen">
-      <div class="mark" id="brandMark">L</div>
+      <div class="mark" id="brandMark">T</div>
       <strong class="brand-title">Trainingslog</strong>
     </button>
     <div class="head-right">
@@ -863,7 +885,7 @@
 
   <div class="cat-row">
     <button class="cat-link on" id="catKraft" onclick="setCat('kraft')">Kraft</button>
-    <button class="cat-link" id="catRad" onclick="setCat('rad')"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5.5" cy="17.5" r="3.5"/><circle cx="18.5" cy="17.5" r="3.5"/><path d="M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-3 11.5V14l-3-3 4-3 2 3h3"/></svg></button>
+    <button class="cat-link" id="catRad" aria-label="Rad" onclick="setCat('rad')"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5.5" cy="17.5" r="3.5"/><circle cx="18.5" cy="17.5" r="3.5"/><path d="M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-3 11.5V14l-3-3 4-3 2 3h3"/></svg></button>
     <button class="cat-link" id="catLauf" onclick="setCat('laufen')">Laufen</button>
     <button class="cat-link" id="catKurs" onclick="setCat('kurs')">Kurse</button>
   </div>
@@ -935,7 +957,7 @@
         <input type="checkbox" class="pref-switch" id="prefCatKraft" onchange="togglePrefCat('kraft',this.checked)"></label>
       <label class="pref-row" data-cat="laufen"><span>Laufen</span>
         <input type="checkbox" class="pref-switch" id="prefCatLauf" onchange="togglePrefCat('laufen',this.checked)"></label>
-      <label class="pref-row" data-cat="rad"><span id="prefBikeLabel">Rennrad</span>
+      <label class="pref-row" data-cat="rad"><span id="prefBikeLabel">Rad</span>
         <input type="checkbox" class="pref-switch" id="prefCatRad" onchange="togglePrefCat('rad',this.checked)"></label>
       <label class="pref-row" data-cat="kurs"><span id="prefKursLabel">Kurse</span>
         <input type="checkbox" class="pref-switch" id="prefCatKurs" onchange="togglePrefCat('kurs',this.checked)"></label>
@@ -943,7 +965,10 @@
 
 
     <div class="pref-foot">
-      <div class="pref-account" id="prefUserInfo">–</div>
+      <div class="pref-acc-wrap">
+        <div class="pref-account" id="prefUserInfo">–</div>
+        <div class="pref-sync" id="prefSync"></div>
+      </div>
       <button class="pref-logout" onclick="doLogout()">Abmelden</button>
     </div>
   </div>
@@ -964,7 +989,7 @@
   <div class="pause-stage" id="pauseStage"></div>
   <div class="pause-head"><span class="pause-kicker">Pause</span><span class="pause-clock" id="pauseClock"></span></div>
   <button class="pause-skip" id="pauseSkip" type="button" onpointerdown="pauseHoldStart(event)"
-    onpointerup="pauseHoldEnd()" onpointercancel="pauseHoldEnd()" onpointerleave="pauseHoldEnd()"><i></i><b>Skip</b></button>
+    onpointerup="pauseHoldEnd()" onpointercancel="pauseHoldEnd()" onpointerleave="pauseHoldEnd()"><i></i><b>Halten zum Beenden</b></button>
 </div>
 
 <div class="plan-overlay" id="extraOverlay">
@@ -1108,7 +1133,11 @@ const PLAN={
 };
 
 /* ── Verfügbare Buchstaben ── */
-const LETTERS="ABCDEFGHIJKLMNOPQSTUVWX".split("");
+const LETTER_POOL="ABCDEFGHIJKLMNOPQRSTUVWX".split("");
+function planLetters(){
+  const belegt=new Set(Object.values(ACT).map(a=>a.day));
+  return LETTER_POOL.filter(l=>!belegt.has(l));
+}
 function allDays(s){
   const src=s||store||{};
   const deleted=new Set(src.deleted||[]);
@@ -1126,10 +1155,27 @@ function dayLabel(d){
 let KEY="trainingslog_v3";
 var store=null,warned=false;
 store=load();
-window._reloadStore=function(newKey){if(newKey)KEY=newKey;store=load();draft={};applyStoredAccents();applyDark();render()};
+window._refreshStore=function(){
+  store=load();draft={};
+  applyStoredAccents();applyDark();render();
+};
+window._reloadStore=function(newKey){
+  if(newKey)KEY=newKey;
+  store=load();draft={};
+  Object.keys(actDraft).forEach(k=>delete actDraft[k]);
+  tab="train";dayPick=null;openEx=null;newOpen=false;newName="";newScheme="";
+  editEx=null;editSessTs=null;editSessData={};progSel=null;
+  applyStoredAccents();applyDark();
+  cat=null;setCat(CAT_LIST.find(c=>!isCatHidden(c))||"kraft");
+};
 function load(){
   let s={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:[]};
-  try{const r=localStorage.getItem(KEY);if(r)s=Object.assign(s,JSON.parse(r))}catch(e){}
+  let raw=null;
+  try{raw=localStorage.getItem(KEY);if(raw)s=Object.assign(s,JSON.parse(raw))}catch(e){}
+  /* PLAN A/B ist der persoenliche Alt-Plan aus der Einzelplatz-Zeit. Ein Speicher
+     ohne Eintrag gehoert einem neuen Nutzer — der startet im leeren Kraft-Layout
+     und legt seine eigenen Einheiten an. */
+  if(!raw)s.deleted=Object.keys(PLAN);
   if(!s.custom)s.custom={A:[],B:[]};
   if(!s.hidden)s.hidden={A:[],B:[]};
   if(!s.names)s.names={};
@@ -1138,6 +1184,7 @@ function load(){
   if(!s.deleted)s.deleted=[];
   if(!s.hiddenCats)s.hiddenCats=[];
   if(!s.extras)s.extras={};
+  if(!s._delSess)s._delSess=[];
   allDays(s).forEach(d=>{
     if(!s.custom[d])s.custom[d]=[];
     if(!s.hidden[d])s.hidden[d]=[];
@@ -1150,6 +1197,13 @@ function save(){
   if(!warned){warned=true;toast("Hinweis","Speicher blockiert — in Safari auf dem iPhone funktioniert es")}}
   if(window._cloudSave)window._cloudSave();
 }
+window._storeData=()=>JSON.parse(JSON.stringify(store));
+window._hasActive=function(){
+  if(store&&store.active)return true;
+  const el=document.activeElement;
+  if(el&&/^(INPUT|TEXTAREA|SELECT)$/.test(el.tagName))return true;
+  return Object.values(actDraft).some(d=>d&&(d.min||d.km||d.kcal||d.hm||d.gpx));
+};
 
 /* ── Plan-Manager ── */
 let planSel=null;
@@ -1157,7 +1211,7 @@ function openPlanMgr(){
   planSel=null;
   const used=new Set(allDays());
   const g=document.getElementById("planGrid");
-  g.innerHTML=LETTERS.map(l=>`<button type="button" class="${used.has(l)?"used":""}" data-l="${l}" onclick="pickLetter(this,'${l}')">${l}</button>`).join("");
+  g.innerHTML=planLetters().map(l=>`<button type="button" class="${used.has(l)?"used":""}" data-l="${l}" onclick="pickLetter(this,'${l}')">${l}</button>`).join("");
   document.getElementById("planDelWrap").innerHTML="";
   document.getElementById("planNameIn").value="";
   document.getElementById("planCreateBtn").disabled=true;
@@ -1174,7 +1228,11 @@ function pickLetter(btn,l){
     planSel=null;
     cb.disabled=true;
     ni.value="";ni.disabled=true;
-    wrap.innerHTML=`<button type="button" class="hold-del" id="holdDelBtn"><span class="hold-fill"></span><span class="hold-lbl">Zum Löschen halten</span></button>`;
+    const n=store.sessions.filter(x=>x.day===l).length;
+    const note=n?`Tag ${l} · ${esc(dayLabel(l))} — ${n} erfasste ${n===1?"Einheit wird":"Einheiten werden"} mitgelöscht.`
+               :`Tag ${l} · ${esc(dayLabel(l))} ist angelegt, aber noch ohne Einheiten.`;
+    wrap.innerHTML=`<p class="plan-del-note">${note}</p>
+      <button type="button" class="hold-del" id="holdDelBtn"><span class="hold-fill"></span><span class="hold-lbl">Zum Löschen halten</span></button>`;
     attachHoldDel(l);
   }else{
     planSel=l;
@@ -1207,7 +1265,7 @@ function attachHoldDel(l){
 }
 function doDeletePlan(l){
   const isBase=!!PLAN[l];
-  store.sessions=store.sessions.filter(s=>s.day!==l);
+  store.sessions.filter(s=>s.day===l).forEach(x=>tombstone(x.ts));store.sessions=store.sessions.filter(s=>s.day!==l);
   store.custom[l]=[];
   store.hidden[l]=[];
   delete store.plans[l];
@@ -1226,7 +1284,7 @@ function confirmDeletePlan(l){
   const sessionCount=store.sessions.filter(s=>s.day===l).length;
   const msg=`Tag ${l} (${label}) löschen?\n\n${sessionCount} Einheiten werden entfernt.${isBase?"\n\nDu kannst ihn später über \"Neue Einheit\" wiederherstellen.":""}`;
   if(!confirm(msg))return;
-  store.sessions=store.sessions.filter(s=>s.day!==l);
+  store.sessions.filter(s=>s.day===l).forEach(x=>tombstone(x.ts));store.sessions=store.sessions.filter(s=>s.day!==l);
   store.custom[l]=[];
   store.hidden[l]=[];
   if(isBase){if(!store.deleted.includes(l))store.deleted.push(l)}
@@ -1243,7 +1301,11 @@ function createPlan(){
   const name=document.getElementById("planNameIn").value.trim();
   if(!planSel||!name)return;
   if(PLAN[planSel]){
+    /* Der Buchstabe war geloescht — der Nutzer legt hier etwas Eigenes an und
+       erwartet keine Uebungen aus dem Alt-Plan. */
+    const wasDeleted=(store.deleted||[]).includes(planSel);
     store.deleted=(store.deleted||[]).filter(d=>d!==planSel);
+    if(wasDeleted)store.hidden[planSel]=PLAN[planSel].ex.map(e=>e.id);
     if(name.trim()!==PLAN[planSel].label.trim()){
       store.plans[planSel]={label:name,exercises:[]};
     }else{
@@ -1306,7 +1368,6 @@ function isActDay(d){return actForDay(d)!==null}
 function catBtnId(c){return c==="kraft"?"catKraft":c==="rad"?"catRad":c==="laufen"?"catLauf":"catKurs"}
 function kraftDays(){return allDays().filter(d=>!isActDay(d))}
 function setCat(c){
-  if(c==="kraft"&&cat==="kraft"){openPlanMgr();return}
   cat=c;tab="train";
   ["kraft","rad","laufen","kurs"].forEach(k=>{
     document.getElementById(catBtnId(k)).classList.toggle("on",c===k);
@@ -1330,6 +1391,7 @@ function toggleDay(){
   if(isActCat(cat))return;
   const cur=store.active?store.active.day:(dayPick||nextDay());
   const days=kraftDays();
+  if(!days.length)return;
   const idx=days.indexOf(cur);
   const to=days[(idx+1)%days.length];
   if(store.active){store.active.day=to;save()}else{dayPick=to}
@@ -1396,8 +1458,9 @@ function paintTop(){
     heroLetter.style.fontSize="48px";
     heroLetter.style.letterSpacing="-0.02em";
     heroLetter.style.color="var("+ACT[cat].accentVar+")";
-    const switchable=cat==="kurs"&&KURS_TYPES.length>1;
+    const switchable=cat==="kurs"&&typeList("kurs").length>1;
     heroLetter.style.cursor=switchable?"pointer":"default";
+    heroLetter.classList.toggle("static",!switchable);
     heroLetter.setAttribute("aria-label",switchable?"Kursart wechseln":ACT[cat].label());
     heroSide.style.display="none";
   }else{
@@ -1407,6 +1470,10 @@ function paintTop(){
     heroSide.style.display="";
     heroLetter.textContent=showEmpty?"":d;
     heroLetter.style.display=showEmpty?"none":"";
+    const wechselbar=kraftDays().length>1;
+    heroLetter.classList.toggle("static",!wechselbar);
+    heroLetter.style.cursor=wechselbar?"pointer":"default";
+    heroLetter.setAttribute("aria-label",wechselbar?"Training wechseln":"Aktuelles Training");
   }
   document.getElementById("brandMark").classList.toggle("dark",showEmpty);
   document.body.classList.toggle("empty-cat",showEmpty);
@@ -1550,7 +1617,8 @@ function renderTrain(){
   h+=`</div>`;
   const switchNote=kraftDays().length>1?
     `<p style="font-size:11.5px;color:var(--ink-soft);opacity:.55;margin-top:18px">Tippe oben auf den Buchstaben, um das Training zu wechseln.</p>`:"";
-  v.innerHTML=h+`</div>`+switchNote;
+  const planNote=`<button type="button" class="plan-link" onclick="openPlanMgr()">Einheiten verwalten</button>`;
+  v.innerHTML=h+`</div>`+switchNote+planNote;
   justOpened=null;
   if(newOpen){const f=document.getElementById("nfName");if(f&&!newName)f.focus()}
 }
@@ -1617,7 +1685,14 @@ function delExercise(day,id){
   if(store.active&&store.active.day===day&&store.active.log[id])delete store.active.log[id];
   save();openEx=null;renderTrain();paintFinish();paintTop();
   toast("Übung entfernt",`${n} erscheint nicht mehr in Tag ${day}`)}
+function tombstone(ts){
+  if(typeof ts!=="number")return;
+  if(!store._delSess)store._delSess=[];
+  if(!store._delSess.includes(ts))store._delSess.push(ts);
+  if(store._delSess.length>500)store._delSess=store._delSess.slice(-500);
+}
 function delSession(ts){
+  tombstone(ts);
   store.sessions=store.sessions.filter(s=>s.ts!==ts);
   save();paintTop();
   if(isActCat(cat))renderActHist(ACT[cat]);else renderHist();
@@ -1629,13 +1704,18 @@ function confirmDelSess(){
   delSession(ts)}
 
 function paintFinish(){const s=document.getElementById("finishSlot");
+  if(!store.active){document.getElementById("finishbar").classList.add("hidden");s.innerHTML="";return}
   if(isActDay(store.active.day))return;
   let n=0;for(const id in store.active.log)n+=store.active.log[id].length;
   const bar=document.getElementById("finishbar");
   if(!n){bar.classList.add("hidden");s.innerHTML="";return}
   bar.classList.remove("hidden");
   s.innerHTML=`<div class="finrow"><button class="btn-primary" onclick="finish()">Einheit abschließen <span class="n">${n} ${n===1?"Satz":"Sätze"}</span></button><button class="btn-discard" onclick="discard()" aria-label="Einheit verwerfen">Verwerfen</button></div>`}
-function discard(){store.active=null;save();openEx=null;newOpen=false;dayPick=null;render()}
+function discard(){
+  let n=0;if(store.active)for(const id in store.active.log)n+=store.active.log[id].length;
+  if(n&&!confirm(n+" abgehakte Sätze verwerfen? Das lässt sich nicht rückgängig machen."))return;
+  store.active=null;save();openEx=null;newOpen=false;dayPick=null;render();
+}
 function finish(){let n=0;for(const id in store.active.log)n+=store.active.log[id].length;
   if(!n){discard();return}
   store.active.done=Date.now();
@@ -1698,9 +1778,9 @@ function renderActTrain(cfg){
   const v=document.getElementById("viewTrain");
   const last=store.sessions.filter(s=>s.day===cfg.day).slice(-1)[0];
   let d=initActDraft(cfg.key);
-  if(last&&actData(last,cfg).min!=null&&!d.gpx){
+  if(last&&actData(last,cfg).min!=null&&!d.gpx&&!d._seeded&&!d.min&&!d.kcal&&!d.km&&!d.hm){
     const lr=actData(last,cfg);
-    actDraft[cfg.key]={min:lr.min||0,kcal:lr.kcal||0,hm:lr.hm||0,km:lr.km||0,maxKmh:lr.maxKmh||0,gpx:null,gpxT:null,yt:d.yt||""};
+    actDraft[cfg.key]={min:lr.min||0,kcal:lr.kcal||0,hm:lr.hm||0,km:lr.km||0,maxKmh:lr.maxKmh||0,gpx:null,gpxT:null,yt:d.yt||"",_seeded:true};
     d=actDraft[cfg.key];
   }
   const active=store.active&&store.active.day===cfg.day;
@@ -1765,7 +1845,7 @@ function onGpxFile(k,input){
     store.sessions.push(sess);
     save();
     setTab("history");
-    toast("Fahrt importiert",`${data.km} km · ${data.hm} hm`);
+    toast(cfg.saveLabel+" importiert",`${data.km} km · ${data.hm} hm`);
   };
   r.readAsText(f);
 }
@@ -1801,6 +1881,10 @@ function finishAct(k){
 function quickSaveAct(k){
   const cfg=ACT[k];
   updateAct(k);
+  const dr=actDraft[k]||{};
+  if(!dr.min&&!dr.km&&!dr.kcal&&!dr.gpx){
+    toast("Nichts einzutragen","Trage mindestens die Dauer ein.");return;
+  }
   const s={ts:Date.now(),day:cfg.day,log:{},done:Date.now()};
   s[cfg.field]={...actDraft[k]};
   if(cfg.key==="rad")s.bike=bikeName();
@@ -1817,8 +1901,8 @@ function renderActHist(cfg){
   const v=document.getElementById("viewHist");
   const rs=[...store.sessions].filter(s=>s.day===cfg.day).reverse();
   if(!rs.length){v.innerHTML=`<div class="empty"><div class="eyebrow plain">Verlauf</div>
-    <h3>${cfg.noSession||"Noch keine Einheit erfasst."}</h3><p>Starte im Reiter „Training" eine neue Einheit.</p></div>`;return}
-  let h="";
+    <h3>${cfg.noSession||"Noch keine Einheit erfasst."}</h3><p>Trage im Reiter „Training" deine Werte ein und tippe auf „${cfg.saveLabel} speichern".</p></div>`;return}
+  let h=`<p class="hist-hint">Einheit gedrückt halten, um sie zu bearbeiten oder zu löschen.</p>`;
   rs.forEach((s,i)=>{
     if(editSessTs===s.ts){h+=renderActEdit(cfg,s,i);return}
     const r=actData(s,cfg);
@@ -2302,7 +2386,7 @@ function renderHist(){const v=document.getElementById("viewHist");
   const kSessions=store.sessions.filter(s=>!isActDay(s.day));
   if(!kSessions.length){v.innerHTML=`<div class="empty"><div class="eyebrow plain">Verlauf</div>
     <h3>Noch keine Einheit erfasst.</h3><p>Starte im Reiter „Training" — abgeschlossene Einheiten erscheinen hier.</p></div>`;return}
-  let h="";
+  let h=`<p class="hist-hint">Einheit gedrückt halten, um sie zu bearbeiten oder zu löschen.</p>`;
   [...kSessions].reverse().forEach((s,i)=>{
     const isEditing=editSessTs===s.ts;
     if(isEditing){
@@ -2327,7 +2411,8 @@ function wipe(){
   const keep=["accentA","accentB","accentRad","accentL","accentK","mapStyle","bike","kursType","hiddenCats","extras","dark","theme"];
   const preserved={};
   keep.forEach(k=>{if(store[k]!==undefined)preserved[k]=store[k]});
-  store={sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:[],...preserved};
+  const graves=[...(store._delSess||[]),...store.sessions.map(x=>x.ts)].filter(t=>typeof t==="number").slice(-500);
+  store={_delSess:graves,sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:Object.keys(PLAN),...preserved};
   draft={};
   save();applyStoredAccents();applyDark();openEx=null;newOpen=false;setTab("train");
 }
@@ -2729,7 +2814,7 @@ document.addEventListener("pointerdown",e=>{
   if(editSessTs)return; // Bereits im Edit-Modus
   const sessEl=e.target.closest(".sessswipe");
   if(!sessEl||e.target.closest("input,select,.edit-form,.sess-behind-btn,.swipe-del,.ride-map"))return;
-  if(e.target.closest(".sline"))return; // Klick auf Übungs-Zeile → nicht Session-Bearbeitung
+  if(e.target.closest(".slineG"))return; // Klick auf Übungs-Zeile → nicht Session-Bearbeitung
   sessLpFired=false;
   sessLpTimer=setTimeout(()=>{
     const ts=parseInt(sessEl.getAttribute("data-ts"),10);
@@ -2889,7 +2974,10 @@ function openSettings(){
   if(kn)kn.textContent=kursTypeName();
   paintPicks();paintColorVisibility();paintMapStyle();document.getElementById("setOverlay").classList.add("open");
 }
-function closeSettings(){document.getElementById("setOverlay").classList.remove("open")}
+function closeSettings(){
+  document.getElementById("setOverlay").classList.remove("open");
+  if(styleReturnCat){const c=styleReturnCat;styleReturnCat=null;openCatSettings(c)}
+}
 
 function isCatHidden(c){return (store.hiddenCats||[]).includes(c)}
 const CAT_LIST=["kraft","rad","laufen","kurs"];
@@ -2902,7 +2990,7 @@ function paintCatRow(){
 function openPrefs(){paintPrefs();document.getElementById("prefsOverlay").classList.add("open")}
 function closePrefs(){document.getElementById("prefsOverlay").classList.remove("open")}
 
-let catSetCur=null,areaHoldT=null,areaLongFired=false,areaHx=0,areaHy=0;
+let catSetCur=null,areaHoldT=null,areaLongFired=false,areaHx=0,areaHy=0,areaHeld=false,areaDown=0;
 function catAccent(cat){
   const v=cat==="rad"?"--rad":cat==="laufen"?"--lauf":cat==="kurs"?"--kurs":"--earth";
   return cssColor(v)||"#DC851F";
@@ -2917,7 +3005,7 @@ function initAreaLongPress(){
     };
     row.addEventListener("pointerdown",e=>{
       if(e.target.closest(".pref-switch,.pref-sel,.pref-select"))return;
-      areaLongFired=false;areaHx=e.clientX;areaHy=e.clientY;
+      areaLongFired=false;areaHx=e.clientX;areaHy=e.clientY;areaDown=Date.now();areaHeld=false;
       row.classList.add("holding");
       areaHoldT=setTimeout(()=>{
         areaHoldT=null;row.classList.remove("holding");areaLongFired=true;
@@ -2928,10 +3016,18 @@ function initAreaLongPress(){
     row.addEventListener("pointermove",e=>{
       if(areaHoldT&&(Math.abs(e.clientX-areaHx)>10||Math.abs(e.clientY-areaHy)>10))cancel();
     });
-    row.addEventListener("pointerup",cancel);
+    row.addEventListener("pointerup",()=>{
+      if(areaHoldT&&Date.now()-areaDown>180)areaHeld=true;
+      cancel();
+    });
     row.addEventListener("pointerleave",cancel);
     row.addEventListener("pointercancel",cancel);
     row.addEventListener("click",e=>{
+      /* Ein abgebrochener Halte-Versuch darf den Bereich nicht umschalten. */
+      if(areaHeld&&!e.target.closest(".pref-switch")){
+        areaHeld=false;e.preventDefault();e.stopPropagation();return;
+      }
+      areaHeld=false;
       if(areaLongFired){e.preventDefault();e.stopPropagation();areaLongFired=false}
     },true);
   });
@@ -3411,9 +3507,14 @@ function pauseHoldStart(e){
   pauseHoldTO=setTimeout(()=>{pauseHoldEnd();pauseSkip()},PAUSE_HOLD);
 }
 function pauseHoldEnd(){
-  if(pauseHoldTO)clearTimeout(pauseHoldTO);
+  const b=document.getElementById("pauseSkip");
+  if(pauseHoldTO){
+    clearTimeout(pauseHoldTO);
+    b.classList.add("nudge");
+    setTimeout(()=>b.classList.remove("nudge"),900);
+  }
   pauseHoldTO=null;
-  document.getElementById("pauseSkip").classList.remove("hold");
+  b.classList.remove("hold");
 }
 /* Safari faerbt seine obere Leiste nach diesem Wert. Ohne das steht ueber der
    dunklen Pause ein weisser Streifen. */
@@ -3475,20 +3576,16 @@ function openCatSettings(cat){
   document.getElementById("catSetSub").textContent="Einstellungen";
   const vis=!isCatHidden(cat);
   let typeRow="";
-  if(cat==="rad"){
-    const opts=["Rennrad","Gravel","Mountainbike","Trekking","Cityrad","E-Bike"];
-    typeRow=`<div class="pref-row"><span>Fahrrad</span>
-      <span class="pref-bike-ctl"><span class="catset-val">${esc(bikeName())}</span>
-      <span class="pref-sel"><select class="pref-select" aria-label="Fahrradart" onchange="setBike(this.value);openCatSettings('rad')">
-      ${opts.map(o=>`<option ${o===bikeName()?"selected":""}>${o}</option>`).join("")}
-      </select></span></span></div>`;
-  }else if(cat==="kurs"){
-    const opts=KURS_TYPES;
-    typeRow=`<div class="pref-row"><span>Art</span>
-      <span class="pref-bike-ctl"><span class="catset-val">${esc(kursTypeName())}</span>
-      <span class="pref-sel"><select class="pref-select" aria-label="Kursart" onchange="setKursType(this.value);openCatSettings('kurs')">
-      ${opts.map(o=>`<option ${o===kursTypeName()?"selected":""}>${o}</option>`).join("")}
-      </select></span></span></div>`;
+  if(TYPE_CFG[cat]){
+    const cur=cat==="rad"?bikeName():kursTypeName();
+    const nm=cat==="rad"?"Fahrrad":"Art";
+    const call=cat==="rad"?"setBike":"setKursType";
+    typeRow=`<div class="pref-row"><span>${nm}</span>
+      <span class="pref-bike-ctl"><span class="catset-val">${esc(cur)}</span>
+      <span class="pref-sel"><select class="pref-select" aria-label="${nm}" onchange="${call}(this.value);openCatSettings('${cat}')">
+      ${typeList(cat).map(o=>`<option ${o===cur?"selected":""}>${esc(o)}</option>`).join("")}
+      </select></span></span></div>
+      <button class="pref-row pref-clickable catset-link" onclick="addType('${cat}')"><span>Eigene ${nm==="Art"?"Art":"Radart"} hinzufügen</span></button>`;
   }
   const chev=`<span class="catset-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></span>`;
   document.getElementById("catSetBody").innerHTML=
@@ -3508,11 +3605,13 @@ function catSetToggleVis(){
   paintPrefs();
   cb.checked=!isCatHidden(catSetCur);
 }
-function catSetOpenStyle(){closeCatSettings();openSettings()}
+let styleReturnCat=null;
+function catSetOpenStyle(){styleReturnCat=catSetCur;closeCatSettings();openSettings()}
 function paintPrefs(){
+  paintSyncInfo();
   const hidden=store.hiddenCats||[];
   CAT_LIST.forEach(c=>{
-    const el=document.getElementById("prefCat"+(c==="rad"?"Rad":c==="laufen"?"Lauf":"Kurs"));
+    const el=document.getElementById("prefCat"+(c==="rad"?"Rad":c==="laufen"?"Lauf":c==="kurs"?"Kurs":"Kraft"));
     if(el)el.checked=!hidden.includes(c);
   });
   const b=document.getElementById("prefBike");
@@ -3528,13 +3627,46 @@ function paintPrefs(){
   const kn=document.getElementById("kursLabelName");
   if(kn)kn.textContent=kursTypeName();
 }
-function bikeName(){return store.bike||"Rennrad"}
+function paintSyncInfo(){
+  const el=document.getElementById("prefSync");
+  if(!el)return;
+  const i=window._syncInfo?window._syncInfo():null;
+  if(!i){el.textContent="";el.classList.remove("warn");return}
+  if(i.ok&&i.at){
+    el.textContent="Gesichert um "+new Date(i.at).toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"});
+    el.classList.remove("warn");
+  }else if(i.ok){
+    el.textContent="Mit der Cloud verbunden";
+    el.classList.remove("warn");
+  }else{
+    el.textContent="Nicht gesichert — nur auf diesem Gerät";
+    el.classList.add("warn");
+  }
+}
+function bikeName(){return store.bike||"Rad"}
 function setBike(v){
   store.bike=v;
   save();paintTop();paintPrefs();
   toast("Fahrrad",v);
 }
-const KURS_TYPES=["Yoga","HIIT"];
+const TYPE_CFG={
+  rad:{def:["Rennrad","Gravel","Mountainbike","Trekking","Cityrad","E-Bike"],
+       list:"bikeList",frage:"Wie heißt dein Rad?",set:v=>setBike(v)},
+  kurs:{def:["Yoga","HIIT"],
+        list:"kursList",frage:"Wie heißt die Kursart?",set:v=>setKursType(v)}
+};
+function typeList(cat){
+  const c=TYPE_CFG[cat];
+  return [...new Set([...c.def,...(store[c.list]||[])])];
+}
+function addType(cat){
+  const c=TYPE_CFG[cat];
+  const v=(prompt(c.frage)||"").trim().slice(0,40);
+  if(!v)return;
+  if(!typeList(cat).includes(v))store[c.list]=[...(store[c.list]||[]),v];
+  c.set(v);
+  openCatSettings(cat);
+}
 function kursTypeName(){return store.kursType||"Yoga"}
 function setKursType(v){
   store.kursType=v;
@@ -3543,8 +3675,9 @@ function setKursType(v){
   toast("Kurse",v);
 }
 function cycleKursType(){
-  const i=KURS_TYPES.indexOf(kursTypeName());
-  const to=KURS_TYPES[(i+1)%KURS_TYPES.length];
+  const list=typeList("kurs");
+  const i=list.indexOf(kursTypeName());
+  const to=list[(i+1)%list.length];
   store.kursType=to;
   if(store.active&&store.active.day==="K")store.active.type=to;
   save();paintTop();paintPrefs();paintCatRow();render();
@@ -3564,11 +3697,19 @@ applyStoredAccents();
 applyDark();
 initAreaLongPress();
 render();
+
+/* Notnagel, falls das Firebase-Modul weiter unten gar nicht laedt: dann gibt es
+   kein doLogin und der Knopf reagierte bisher stumm. */
+window.doLogin=function(){
+  const err=document.getElementById("authErr");
+  if(err)err.textContent="Keine Verbindung zu Firebase. Prüfe deine Internetverbindung und lade die Seite neu.";
+};
+window.doLogout=function(){location.reload()};
 </script>
 
 <script type="module">
 import{initializeApp}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-app.js";
-import{getFirestore,doc,getDoc,setDoc}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-firestore.js";
+import{getFirestore,doc,getDoc,setDoc,runTransaction}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-firestore.js";
 import{getAuth,GoogleAuthProvider,signInWithPopup,signInWithRedirect,getRedirectResult,signOut,onAuthStateChanged,browserLocalPersistence,setPersistence}from"https://www.gstatic.com/firebasejs/11.8.1/firebase-auth.js";
 
 const fb=initializeApp({
@@ -3588,18 +3729,100 @@ let currentUser=null;
 const keyFor=uid=>"trainingslog_v3_"+uid;
 const LEGACY_EMAIL="lennart.ising@icloud.com";
 
+/* Erst wenn der Stand einmal gelesen wurde, darf zurueckgeschrieben werden.
+   Sonst ersetzt der erste save() nach einem gescheiterten Ladeversuch die
+   gesamte Historie durch den leeren Speicher, mit dem die App gestartet ist. */
+let cloudReady=false, cloudWarned=false, pendingUpload=false, lastSyncOk=false, lastSyncAt=0, storeBoundUid=null;
+window._syncInfo=()=>({ok:lastSyncOk,at:lastSyncAt});
+
+function cloudFail(what,e){
+  console.warn(what,e);
+  lastSyncOk=false;
+  if(window.paintSyncInfo)paintSyncInfo();
+  if(cloudWarned)return;
+  cloudWarned=true;
+  if(window.toast)toast("Nicht in der Cloud","Daten liegen nur auf diesem Gerät. Prüfe die Verbindung und lade die Seite neu.");
+}
+
+/* Der Stand wird nicht mehr ueber Date.now() verglichen: zwei Geraete messen
+   dabei an ihren eigenen Uhren, und eines mit falsch gestellter Uhr schreibt
+   einen Zeitstempel, den kein anderes je uebertrifft. Der Zaehler kommt
+   stattdessen aus der Cloud und kennt keine Uhrzeit.
+   dirty merkt sich, dass lokal etwas ansteht, dessen Schreibversuch scheiterte. */
+let sizeWarned=false;
+const syncKey=uid=>"trainingslog_sync_"+uid;
+function syncState(uid){
+  try{const o=JSON.parse(localStorage.getItem(syncKey(uid))||"{}");
+    return {rev:o.rev|0,dirty:!!o.dirty}}
+  catch(e){return {rev:0,dirty:false}}
+}
+function setSyncState(uid,o){
+  try{localStorage.setItem(syncKey(uid),JSON.stringify(o))}catch(e){}
+}
+
+/* Ein Dokument-Ersatz laesst die Einheiten des jeweils anderen Geraets
+   verschwinden. Einheiten tragen mit ts einen eindeutigen Schluessel, also
+   lassen sie sich vereinigen; _delSess haelt fest, was geloescht bleiben soll.
+   Bei allem uebrigen (Plaene, Farben, Einstellungen) gewinnt b — der Aufrufer
+   uebergibt dort den Stand mit der hoeheren Revision. */
+function mergeStores(a,b){
+  const out=Object.assign({},a,b);
+  const graves=new Set([...(a._delSess||[]),...(b._delSess||[])]);
+  const byTs=new Map();
+  [...(a.sessions||[]),...(b.sessions||[])].forEach(x=>{
+    if(!x||typeof x.ts!=="number"||graves.has(x.ts))return;
+    byTs.set(x.ts,x);
+  });
+  out.sessions=[...byTs.values()].sort((x,y)=>x.ts-y.ts);
+  out._delSess=[...graves].slice(-500);
+  return out;
+}
+
 async function cloudSave(){
   if(!currentUser)return;
+  const uid=currentUser.uid;
+  if(!cloudReady){
+    /* Noch nicht gelesen, also darf nicht geschrieben werden — aber es steht
+       etwas an, und das muss den Neustart ueberleben. */
+    pendingUpload=true;
+    setSyncState(uid,{rev:syncState(uid).rev,dirty:true});
+    return;
+  }
+  /* Die Wahrheit ist der Speicher im Arbeitsspeicher — localStorage kann in
+     Safari blockiert sein und haette dann einen aelteren Stand geliefert. */
+  const local=window._storeData?window._storeData():JSON.parse(localStorage.getItem(keyFor(uid))||"{}");
+  const before=syncState(uid);
+  setSyncState(uid,{rev:before.rev,dirty:true});
   try{
-    const raw=localStorage.getItem(keyFor(currentUser.uid))||"{}";
-    await setDoc(doc(db,"users",currentUser.uid),{data:JSON.parse(raw),ts:Date.now(),email:currentUser.email||""});
-  }catch(e){console.warn("Cloud-Save fehlgeschlagen:",e)}
+    const ref=doc(db,"users",uid);
+    const rev=await runTransaction(db,async tx=>{
+      const snap=await tx.get(ref);
+      const cloud=snap.exists()?snap.data():null;
+      const cRev=cloud?cloud.rev|0:0;
+      const fremd=cloud&&(cloud.rev===undefined||cRev>before.rev);
+      /* Hat ein anderes Geraet zwischendurch geschrieben, wird sein Stand
+         eingemischt statt ersetzt — der eigene ist dabei der frischere. */
+      const data=fremd?mergeStores(cloud.data||{},local):local;
+      const next=Math.max(cRev,before.rev)+1;
+      tx.set(ref,{data,rev:next,ts:Date.now(),email:currentUser.email||""});
+      return next;
+    });
+    if(currentUser&&currentUser.uid===uid)setSyncState(uid,{rev,dirty:false});
+    cloudWarned=false;lastSyncOk=true;lastSyncAt=Date.now();
+    if(window.paintSyncInfo)paintSyncInfo();
+    /* Firestore nimmt hoechstens 1 MiB je Dokument und lehnt sonst wortlos ab. */
+    if(JSON.stringify(local).length>800000&&!sizeWarned){
+      sizeWarned=true;
+      if(window.toast)toast("Speicher wird knapp","Die Cloud-Sicherung nähert sich ihrer Grenze. Alte Einheiten löschen schafft Platz.");
+    }
+  }catch(e){cloudFail("Cloud-Save fehlgeschlagen:",e)}
 }
 
 async function cloudLoad(){
-  if(!currentUser)return;
+  if(!currentUser)return false;
+  const uid=currentUser.uid;
   try{
-    const ref=doc(db,"users",currentUser.uid);
+    const ref=doc(db,"users",uid);
     let snap=await getDoc(ref);
     if(!snap.exists()&&currentUser.email===LEGACY_EMAIL){
       const legacy=await getDoc(doc(db,"users","lennart"));
@@ -3608,18 +3831,48 @@ async function cloudLoad(){
         snap=await getDoc(ref);
       }
     }
-    if(!snap.exists())return;
+    /* Waehrend der Wartezeit kann sich jemand anderes angemeldet haben —
+       dann gehoert das Ergebnis nicht mehr zum aktuellen Nutzer. */
+    if(!currentUser||currentUser.uid!==uid)return false;
+    const st=syncState(uid);
+    if(st.dirty)pendingUpload=true;
+    if(!snap.exists())return true;
     const cloud=snap.data();
-    const key=keyFor(currentUser.uid);
+    const cRev=cloud.rev|0;
+    const cData=cloud.data||{};
+    const key=keyFor(uid);
     const local=JSON.parse(localStorage.getItem(key)||"{}");
-    const localTs=local._ts||0;
-    if((cloud.ts||0)>=localTs){
-      localStorage.setItem(key,JSON.stringify(cloud.data||{}));
+    const unbekannt=localStorage.getItem(syncKey(uid))===null;
+    if(cloud.rev===undefined||unbekannt||cRev>st.rev){
+      /* Der fremde Stand ist neuer — die eigenen Einheiten gehen trotzdem
+         nicht verloren, sie werden eingemischt. */
+      const merged=mergeStores(local,cData);
+      localStorage.setItem(key,JSON.stringify(merged));
+      const gained=(merged.sessions||[]).length>(cData.sessions||[]).length||cloud.rev===undefined;
+      setSyncState(uid,{rev:cRev,dirty:st.dirty||gained});
+      if(gained)pendingUpload=true;
+    }else if(st.rev>cRev){
+      pendingUpload=true;
     }
-  }catch(e){console.warn("Cloud-Load fehlgeschlagen:",e)}
+    return true;
+  }catch(e){cloudFail("Cloud-Load fehlgeschlagen:",e);return false}
 }
 
-window._cloudSave=cloudSave;
+async function cloudSync(){
+  cloudReady=await cloudLoad();
+  if(cloudReady)lastSyncOk=true;
+  if(window.paintSyncInfo)paintSyncInfo();
+  return cloudReady;
+}
+
+let saveChain=Promise.resolve(), saveQueued=false;
+function queueSave(){
+  if(saveQueued)return saveChain;
+  saveQueued=true;
+  saveChain=saveChain.then(()=>{saveQueued=false;return cloudSave()}).catch(()=>{saveQueued=false});
+  return saveChain;
+}
+window._cloudSave=queueSave;
 
 function authErrText(e){
   const code=e&&e.code?String(e.code):(e&&e.message?String(e.message):"Unbekannter Fehler");
@@ -3657,17 +3910,56 @@ getRedirectResult(auth).catch(e=>console.warn("Redirect-Ergebnis:",e));
 
 onAuthStateChanged(auth,async(user)=>{
   currentUser=user;
+  cloudReady=false;cloudWarned=false;pendingUpload=false;storeBoundUid=null;
   if(user){
-    await cloudLoad();
+    /* Nach acht Sekunden geht es auch ohne Cloud weiter — dann steht in den
+       Einstellungen "Nicht gesichert", und geschrieben wird nicht. */
+    const laden=cloudSync().then(ok=>{
+      if(ok&&storeBoundUid===user.uid&&window._refreshStore&&!(window._hasActive&&window._hasActive()))window._refreshStore();
+      return ok;
+    });
+    await Promise.race([laden,new Promise(r=>setTimeout(r,8000))]);
+    if(!currentUser||currentUser.uid!==user.uid)return;
     if(window._reloadStore)window._reloadStore(keyFor(user.uid));
+    storeBoundUid=user.uid;
+    if(pendingUpload){pendingUpload=false;queueSave()}
     const label=user.email||user.displayName||"Angemeldet";
+    const bm=document.getElementById("brandMark");
+    if(bm)bm.textContent=String(user.displayName||user.email||"T").trim().charAt(0).toUpperCase()||"T";
     const info=document.getElementById("authUserInfo");if(info)info.textContent=label;
     const pinfo=document.getElementById("prefUserInfo");if(pinfo)pinfo.textContent=label;
     document.body.classList.remove("auth-pending");
   }else{
-    document.querySelectorAll(".plan-overlay.open").forEach(o=>o.classList.remove("open"));
+    document.querySelectorAll(".plan-overlay.open,.map-overlay.open,#pauseOverlay.open").forEach(o=>o.classList.remove("open"));
     document.body.classList.add("auth-pending");
+    storeBoundUid=null;
+    if(window._reloadStore)window._reloadStore("trainingslog_v3_none");
   }
+});
+
+/* Ohne onSnapshot merkt ein Geraet Aenderungen des anderen sonst nie. Beim
+   Zurueckkehren in die App den Cloud-Stand nachziehen. */
+document.addEventListener("visibilitychange",async()=>{
+  if(document.hidden||!currentUser)return;
+  const uid=currentUser.uid;
+  /* Solange der Speicher noch nicht auf diesen Nutzer umgestellt ist, gehoert
+     der Arbeitsspeicher jemand anderem — oder niemandem. */
+  if(storeBoundUid!==uid)return;
+  /* Laufende Eingaben und eine laufende Einheit zaehlen mehr als Aktualitaet. */
+  const busy=window._hasActive&&window._hasActive();
+  const before=localStorage.getItem(keyFor(uid));
+  const ok=await cloudLoad();
+  if(!ok||!currentUser||currentUser.uid!==uid||storeBoundUid!==uid)return;
+  cloudReady=true;
+  /* Nichts hochladen, solange etwas offen ist: der Arbeitsspeicher kennt den
+     eingemischten fremden Stand noch nicht und wuerde ihn ueberschreiben.
+     dirty bleibt gesetzt, der Upload wird spaeter nachgeholt. */
+  if(busy)return;
+  /* Erst auffrischen, dann schreiben — sonst geht der gerade eingemischte
+     Stand des anderen Geraets beim naechsten Schreibvorgang verloren.
+     Auffrischen nur bei echter Aenderung, sonst springt die Ansicht. */
+  if(localStorage.getItem(keyFor(uid))!==before&&window._refreshStore)window._refreshStore();
+  if(pendingUpload){pendingUpload=false;queueSave()}
 });
 </script>
 <script type="module">
