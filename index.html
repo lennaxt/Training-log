@@ -674,11 +674,15 @@
   /* Eine Regel fuer den ganzen Pausenbildschirm: Fraunces traegt die Zahlen,
      Inter die Woerter. Die beiden Wortlabels klammern oben und unten. */
   .pause-head{position:absolute;z-index:2;top:calc(var(--top) + 20px);left:50%;transform:translateX(-50%);
-    display:flex;flex-direction:column;align-items:center;gap:9px}
-  .pause-kicker{font-family:'Inter',sans-serif;font-size:28px;font-weight:500;line-height:1;
-    letter-spacing:0.10em;text-transform:uppercase;color:rgba(52,51,48,.38)}
-  .pause-clock{font-family:'Inter',sans-serif;font-size:24px;font-weight:400;line-height:1;
-    font-variant-numeric:tabular-nums;letter-spacing:0;color:rgba(52,51,48,.5)}
+    display:flex;flex-direction:column;align-items:center;gap:7px}
+  .pause-kicker{font-family:'Inter',sans-serif;font-size:16px;font-weight:500;line-height:1;
+    letter-spacing:0.14em;text-transform:uppercase;color:rgba(52,51,48,.38)}
+  .pause-clock{font-family:'Inter',sans-serif;font-size:14px;font-weight:500;line-height:1;
+    font-variant-numeric:tabular-nums;letter-spacing:0.01em;color:rgba(52,51,48,.46)}
+  /* Die Animation lebt von einem sehr leisen Kopf — dort bleibt das Mikrolabel,
+     wie es war, statt sich den Listen anzupassen. */
+  #pauseOverlay.anim .pause-kicker{font-size:13px;font-weight:600;letter-spacing:0.22em;
+    color:rgba(52,51,48,.45)}
   .pause-skip{position:absolute;z-index:2;bottom:calc(var(--bot) + 26px);left:50%;transform:translateX(-50%);
     min-width:96px;height:44px;padding:0 18px;border:1px solid var(--line);border-radius:999px;
     background:transparent;overflow:hidden;isolation:isolate;cursor:pointer;
@@ -692,7 +696,8 @@
     transform:scaleX(0);transform-origin:left;transition:transform .14s linear}
   .pause-skip.hold i{transform:scaleX(1);transition-duration:var(--hold)}
   #pauseOverlay.dark .pause-kicker{color:rgba(255,255,255,.36)}
-  #pauseOverlay.dark .pause-clock{color:rgba(255,255,255,.5)}
+  #pauseOverlay.dark .pause-clock{color:rgba(255,255,255,.46)}
+  #pauseOverlay.dark.anim .pause-kicker{color:rgba(255,255,255,.42)}
   #pauseOverlay.dark .pause-skip{border-color:rgba(255,255,255,.2)}
   #pauseOverlay.dark .pause-skip b{color:rgba(255,255,255,.42)}
   #pauseOverlay.dark .pause-skip i{background:#fff;opacity:.17}
@@ -712,7 +717,7 @@
      den Nutzer selbst bestimmen, wie viel er schafft. */
   /* Eigener Rahmen zwischen Uhr und Knopf statt ueber den ganzen Schirm:
      sonst scrollen Meldungen hinter die Zeit und unter den Skip-Knopf. */
-  .news-list{position:absolute;left:0;right:0;top:calc(var(--top) + 88px);bottom:calc(var(--bot) + 84px);
+  .news-list{position:absolute;left:0;right:0;top:calc(var(--top) + 70px);bottom:calc(var(--bot) + 84px);
     overflow-y:auto;-webkit-overflow-scrolling:touch;padding:0 22px;
     -webkit-mask-image:linear-gradient(transparent 0,#000 16px,#000 calc(100% - 22px),transparent 100%);
     mask-image:linear-gradient(transparent 0,#000 16px,#000 calc(100% - 22px),transparent 100%)}
@@ -729,7 +734,7 @@
   #pauseOverlay.dark .news-item{border-color:rgba(255,255,255,.13)}
   /* Wikipedia steht unter freier Lizenz, der Text darf hier stehen — deshalb
      wird gelesen statt weggeleitet. Gleicher Rahmen wie die Liste. */
-  .news-read{position:absolute;left:0;right:0;top:calc(var(--top) + 88px);bottom:calc(var(--bot) + 84px);
+  .news-read{position:absolute;left:0;right:0;top:calc(var(--top) + 70px);bottom:calc(var(--bot) + 84px);
     overflow-y:auto;-webkit-overflow-scrolling:touch;padding:0 22px;
     -webkit-mask-image:linear-gradient(transparent 0,#000 16px,#000 calc(100% - 22px),transparent 100%);
     mask-image:linear-gradient(transparent 0,#000 16px,#000 calc(100% - 22px),transparent 100%)}
@@ -3237,6 +3242,7 @@ function pauseStart(cat){
   pauseCur=o;
   stage.innerHTML=o.html?o.html(o):(m.html?m.html(o):"");
   ov.classList.toggle("dark",!!o.dark);
+  ov.classList.toggle("anim",m.id==="anim");
   setThemeColor(o.dark?"#252423":null);
   document.getElementById("pauseClock").style.display=(m.id==="timer"||o.hideClock)?"none":"";
   if(o.mount)o.mount(stage);
@@ -3299,6 +3305,7 @@ function pauseStop(){
   const ov=document.getElementById("pauseOverlay");
   ov.classList.remove("open");
   ov.classList.remove("dark");
+  ov.classList.remove("anim");
   setThemeColor(null);
   document.getElementById("pauseStage").innerHTML="";
 }
