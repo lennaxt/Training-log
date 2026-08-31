@@ -1,7 +1,28 @@
 {
  "name": "Inland",
- "updated": "2026-08-30T23:30:31+00:00",
+ "updated": "2026-08-31T09:46:45+00:00",
  "items": [
+  {
+   "t": "Statistik: Mehr Männer in jüngeren Altersgruppen",
+   "s": "Unter jungen Erwachsenen gibt es in Deutschland deutlich mehr Männer als Frauen. Das hat das Statistische Bundesamt untersucht. Ab 50 Jahren dreht sich das Geschlechterverhältnis.",
+   "u": "https://www.tagesschau.de/inland/junge-maenner-ueberschuss-statistik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T09:04:25+00:00"
+  },
+  {
+   "t": "Bilanz des DWD: Einer der wärmsten Sommer seit Aufzeichnung",
+   "s": "Hitze, Dürre und Unwetter: Der diesjährige Sommer erreichte laut Deutschem Wetterdienst \"Dimensionen, wie sie in Deutschland bislang nicht beobachtet wurden\". Der Klimawandel habe dabei eine Rolle gespielt.",
+   "u": "https://www.tagesschau.de/inland/dwd-sommer-bilanz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T06:18:23+00:00"
+  },
+  {
+   "t": "Angriffe im Nahen Osten: USA und Iran attackieren sich erstmals seit Wochen wieder",
+   "s": "Das US-Militär erklärt, die neuen Attacken auf Iran seien gezielt und begrenzt. Iran reagiert umgehend mit einem Gegenangriff.",
+   "u": "https://taz.de/Angriffe-im-Nahen-Osten/!6208706/",
+   "q": "taz",
+   "d": "2026-08-31T05:46:00+00:00"
+  },
   {
    "t": "CDU-Spitzenkandidat in Sachsen-Anhalt: Herr Schulze von der CDU",
    "s": "Die Umfragewerte der CDU sinken. Bei der Landtagswahl in Sachsen-Anhalt steuert sie auf eine Niederlage zu. Was macht Ministerpräsident Schulze dagegen?",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Antifaschismus-in-Sachsen-Anhalt/!6204731/",
    "q": "taz",
    "d": "2026-08-30T10:27:00+00:00"
-  },
-  {
-   "t": "Manfred Weber (CSU) - EU ist gegenüber China nicht ratlos",
-   "s": "Der wirtschaftliche Druck aus China auf Europa ist groß. EU-Parlamentarier Manfred Weber (CSU) sieht jedoch genug Möglichkeiten, sich dagegen zu verteidigen - jedoch nicht mit Strafzöllen. Den Deal mit den USA verteidigt er mit \"Planungssicherheit\".Küpper, Moritz",
-   "u": "https://www.deutschlandfunk.de/idw-mit-manfred-weber-csu-vorsitzender-evp-fraktion-im-europaeischen-parlament-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-30T09:05:00+00:00"
-  },
-  {
-   "t": "Debatte um die Rente mit 63: Schwarz-Rot hätte von der Ampel lernen können",
-   "s": "Das Heizungsgesetz floppte unter anderem, weil sensible Fragen nicht rechtzeitig geklärt waren. Den Fehler wiederholt die Koalition bei der Rente mit 63.",
-   "u": "https://taz.de/Debatte-um-die-Rente-mit-63/!6204805/",
-   "q": "taz",
-   "d": "2026-08-30T08:55:00+00:00"
-  },
-  {
-   "t": "Dokumentarfilmer in Ceuta: „Wir wurden alleingelassen“",
-   "s": "Der Filmemacher Viktor Schimpf hat im August Migranten in Ceuta begleitet. Die taz hat ihn vom benachbarten Tanger aus telefonisch zu seinen Eindrücken befragt.",
-   "u": "https://taz.de/Dokumentarfilmer-in-Ceuta/!6207973/",
-   "q": "taz",
-   "d": "2026-08-30T07:34:00+00:00"
   }
  ]
 }

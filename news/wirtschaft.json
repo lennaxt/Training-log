@@ -1,7 +1,28 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-08-30T23:30:35+00:00",
+ "updated": "2026-08-31T09:46:47+00:00",
  "items": [
+  {
+   "t": "Rasanter Anstieg bei ausländischen Investitionen in Deutschland",
+   "s": "Deutschland bleibt für ausländische Unternehmen attraktiv - ihre Direktinvestitionen sind einer Studie zufolge im vergangenen Jahr deutlich gestiegen. Allerdings hat sich verändert, woher das Geld kommt.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/iw-auslaendische-investitionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T09:06:42+00:00"
+  },
+  {
+   "t": "Marktbericht: Der Kater nach dem DAX-Rekord?",
+   "s": "Zinssorgen, Inflationsangst und eine mögliche Eskalation im Nahen Osten - die Themen an der Börse sind vielfältig. Nach dem Rekordhoch vom Freitag bleiben die Investoren heute zunächst zurückhaltend.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T08:36:51+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 31.08.2026",
+   "s": "Update Wirtschaft vom 31.08.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1640148.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T08:31:36+00:00"
+  },
   {
    "t": "Warum türkische TV-Serien so erfolgreich sind",
    "s": "Fernsehserien aus der Türkei sind ein Exportschlager. Sie werden weltweit verkauft und erreichen Hunderte Millionen Zuschauer. Am Set herrscht enormer Druck - und auch die Regierung mischt mit. Von Dariush Movahedian.",
@@ -52,76 +73,6 @@
    "d": "2026-08-28T17:57:27+00:00"
   },
   {
-   "t": "Marktbericht: Kurz vor dem Wochenschluss ein neues Allzeithoch",
-   "s": "Fast den ganzen Tag hing der DAX knapp unter seinem Allzeithoch fest, erst in der letzten Handelsstunde übersprang der Leitindex die Marke von 26.600 Punkten. Damit endet die Woche mit einem soliden Plus.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-boersen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-28T16:20:42+00:00"
-  },
-  {
-   "t": "Amerikaner besorgt wegen wirtschaftlicher Folgen des Iran-Kriegs",
-   "s": "Was als kurzer Feldzug geplant war, entwickelt sich zum Desaster für US-Präsident Trump. Die Amerikaner spüren die Folgen des Iran-Kriegs längst im Alltag - sei es im Supermarkt oder an der Zapfsäule. Von Anne Schneider.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-krieg-folgen-usa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-28T11:33:00+00:00"
-  },
-  {
-   "t": "Wo es trotz Konjunkturflaute noch Jobs gibt",
-   "s": "Jahrelang kein Wachstum, das schlägt längst auch auf den Arbeitsmarkt durch. Hinzu kommt der Strukturwandel in der Industrie, der auch Arbeitsplätze kostet. Wo fallen Stellen weg - und wo gibt es neue? Von E. Birkenstock.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/lichtblicke-am-arbeitsmarkt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-28T09:10:07+00:00"
-  },
-  {
-   "t": "Weinlese in Deutschland beginnt so früh wie nie zuvor",
-   "s": "Durch den heißen Sommer sind die Trauben in diesem Jahr besonders früh reif. Viele Winzer ziehen die Weinlese deshalb erneut vor. Einige kommen sogar früher aus dem Urlaub zurück.",
-   "u": "https://www.tagesschau.de/wirtschaft/weinlese-winzer-ernte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-28T09:07:05+00:00"
-  },
-  {
-   "t": "Arbeitslosigkeit im August erneut leicht gestiegen",
-   "s": "Es bewegt sich wenig auf dem deutschen Arbeitsmarkt: Die Zahl der Arbeitslosen in Deutschland ist im August über der Marke von drei Millionen geblieben. Die Arbeitslosenquote stieg leicht auf 6,5 Prozent.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mehr-als-drei-millionen-arbeitslose-august-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-28T08:44:27+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 28.08.2026",
-   "s": "Update Wirtschaft vom 28.08.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1638666.html",
-   "q": "Tagesschau",
-   "d": "2026-08-28T07:46:36+00:00"
-  },
-  {
-   "t": "Wie Unternehmen ihre Mitarbeiter vor Hitze am Arbeitsplatz schützen",
-   "s": "Hitze ist ein Wirtschaftsfaktor - auch weil die Produktivität sinkt, wenn die Temperaturen über das erträgliche Maß steigen. Was Unternehmen tun können, um ihre Beschäftigten zu schützen. Von Max Kell.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/hitzeschutz-bei-der-arbeit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-28T06:36:46+00:00"
-  },
-  {
-   "t": "Wie die Wirtschaftskrise die Ausbildungsmisere verschärft",
-   "s": "Die Lage auf dem Ausbildungsmarkt bleibt insgesamt schwierig. Immer mehr Firmen bauen Stellen ab - wegen der Wirtschaftskrise und weil es keine Bewerber mehr gibt. Einige Betriebe gehen aber ganz neue Wege. Von Axel John.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/azubis-ausbildung-lehrlinge-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-28T06:25:34+00:00"
-  },
-  {
-   "t": "Rechenzentren in Deutschland - Wettlauf um die Unabhängigkeit",
-   "s": "Deutschland will digital souveräner werden, dafür sollen viele neue Rechenzentren entstehen. Doch viele Projekte gehören zu US-Tech-Konzernen. Das zeigt eine Auswertung von NDR und Süddeutscher Zeitung.",
-   "u": "https://www.tagesschau.de/investigativ/ndr/rechenzentren-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-28T04:00:43+00:00"
-  },
-  {
-   "t": "Verbraucherschützer fordern nach Meta-Vergleich Konsequenzen",
-   "s": "In den USA hat der Facebook-Mutterkonzern nach einem Prozess um Social-Media-Sucht von Kindern Änderungen versprochen. Verbraucherschützer fordern nun auch Konsequenzen in Deutschland.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/social-media-jugendliche-104.html",
-   "q": "Tagesschau",
-   "d": "2026-08-28T02:11:44+00:00"
-  },
-  {
    "t": "Wirtschaft vor acht vom 27.08.2026",
    "s": "Wirtschaft vor acht vom 27.08.2026",
    "u": "https://www.tagesschau.de/video/video-1638498.html",
@@ -143,13 +94,6 @@
    "d": "2026-08-27T08:36:07+00:00"
   },
   {
-   "t": "Energieversorgung: Sind Deutschlands Gasspeicher ausreichend voll?",
-   "s": "Sind die Gasspeicher voll genug, damit Wirtschaft und Bevölkerung gut durch den Winter kommen? Und sind hohe Gasreserven überhaupt noch nötig - oder hat sich die Lage am Weltmarkt entspannt? Von S. Biegger und T. Peters.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/gas-energie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-27T08:33:18+00:00"
-  },
-  {
    "t": "KfW: Wieder mehr Menschen bereit für private Klima-Investitionen",
    "s": "Die Zustimmung zum Klimaschutz bleibt hoch. Jetzt steigt auch die Bereitschaft wieder, privat dafür zu investieren - sei es bei der Stromversorgung im eigenen Haus oder mit dem Kauf eines Elektrofahrzeugs.",
    "u": "https://www.tagesschau.de/wirtschaft/kfw-investition-klimaschutz-100.html",
@@ -157,18 +101,74 @@
    "d": "2026-08-27T08:26:26+00:00"
   },
   {
-   "t": "Brandbrief: Bill Gates fordert Plan für den Umgang mit KI",
-   "s": "Bill Gates sieht in KI enormes Potenzial. Der Microsoft-Gründer warnt aber auch vor tiefgreifenden Umbrüchen und Risiken. In einem Blog-Post im Internet fordert er deshalb gesamtgesellschaftliche Regeln für den Umgang. Von C. Kühntopp.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/usa-gates-brandbrief-ki-zukunft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-27T07:08:57+00:00"
+   "t": "Sechs Monate Irankrieg - Hohe Gewinne dank hoher Spritpreise",
+   "s": "An den Tankstellen steigen die Preise, bei den großen Ölkonzernen die Gewinne. Finanzminister Lars Klingbeil würde die Konzerne daher gern stärker zur Kasse bitten. In Europa hat man damit bereits Erfahrungen gesammelt.",
+   "u": "https://www.deutschlandfunk.de/spritpreise-irankrieg-profit-uebergewinnsteuer-oelkonzerne-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-25T08:55:00+00:00"
   },
   {
-   "t": "Mobilfunknetze übertrugen sensible Handydaten an Anrufer",
-   "s": "Eine BR-Recherche deckt eine Sicherheitslücke in Mobilfunknetzen auf: Bei Anrufen übermittelten die Netze sensible Gerätedaten. Der Verfassungsschutz geht davon aus, dass fremde Nachrichtendienste solche Informationen nutzen.",
-   "u": "https://www.tagesschau.de/investigativ/br-recherche/sicherheitsluecke-mobilfunknetz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-27T06:16:28+00:00"
+   "t": "Viertagewoche in Island - Kürzer arbeiten, gleich verdienen",
+   "s": "Vier Tage arbeiten und trotzdem volles Gehalt: Für viele Beschäftigte in Island ist das längst Realität. Das Modell bringt mehr Freizeit, sorgt aber auch für Kritik von Arbeitgebern und teilweise für Einschränkungen bei öffentlichen Angeboten.",
+   "u": "https://www.deutschlandfunk.de/island-viertagewoche-arbeitszeit-verkuerzung-work-life-balance-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-21T07:58:00+00:00"
+  },
+  {
+   "t": "Griechenlands Sechstagewoche - Länger arbeiten, weniger verdienen",
+   "s": "Vor zwei Jahren hat Griechenland die Sechstagewoche eingeführt, inzwischen sind auch 13-Stunden-Tage möglich. Die Wirtschaft wächst, die Arbeitslosigkeit sinkt. Bei den Beschäftigten kommt davon wenig an.",
+   "u": "https://www.deutschlandfunk.de/griechenland-sechstagewoche-arbeitszeit-loehne-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-21T07:57:00+00:00"
+  },
+  {
+   "t": "Speicher nur halb voll - Wenn beim Gas die Reserve fehlt",
+   "s": "Deutschlands Gasspeicher sind deutlich schlechter gefüllt als geplant. Die Bundesregierung setzt auf den Markt. Doch Experten warnen vor einem Szenario, das den Winter teurer und schwieriger machen könnte.",
+   "u": "https://www.deutschlandfunk.de/gasspeicher-deutschland-fuellstand-winter-warnung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-20T15:11:00+00:00"
+  },
+  {
+   "t": "Teures Bauland - Die Wohnungskrise beginnt beim Bodenpreis",
+   "s": "In Deutschland fehlt bezahlbarer Wohnraum. Doch nicht nur hohe Baukosten bremsen den Neubau: Auch teures Bauland treibt Mieten und Kaufpreise nach oben. Ein wichtiger Hebel liegt bei den Kommunen.",
+   "u": "https://www.deutschlandfunk.de/wohnungsbau-grundstueckspreise-bauland-baukosten-bodenpolitik-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-20T10:02:00+00:00"
+  },
+  {
+   "t": "Deutschlands erster Digitalminister - Karsten Wildbergers gemischte Bilanz",
+   "s": "Seit mehr als einem Jahr ist Karsten Wildberger Minister für Digitales und Staatsmodernisierung. Was hat der CDU-Politiker bisher erreicht?",
+   "u": "https://www.deutschlandfunk.de/karsten-wildberger-digitalminister-bilanz-digitalisierung-deutschland-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-19T11:19:00+00:00"
+  },
+  {
+   "t": "Ernteausfälle wegen der Dürre - Landwirtschaft im Klimastress",
+   "s": "Die Trockenheit verursacht Millionenschäden in der Landwirtschaft. Während die Branche staatliche Hilfen fordert, wächst der Druck auf die Bauern, mehr Klima- und Naturschutz zu betreiben.",
+   "u": "https://www.deutschlandfunk.de/ernteausfaelle-landwirtschaft-duerre-klimawandel-klimakrise-hitze-bauern-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-18T11:11:00+00:00"
+  },
+  {
+   "t": "EU-Verpackungsrichtlinie - Weniger Müll, mehr Bürokratie",
+   "s": "In der EU gelten neue Regeln für Verpackungen. Für die Umwelt und auch für die Gesundheit von Verbrauchern ist das eine gute Nachricht. Doch die Regeln treffen besonders kleine Versandhändler hart.",
+   "u": "https://www.deutschlandfunk.de/eu-verpackungsrichtlinie-verpackungsmuell-regeln-pfas-onlinehandel-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-13T17:00:00+00:00"
+  },
+  {
+   "t": "Wirtschaft ankurbeln - Studie: Staaten sollten investieren, statt Steuern zu senken",
+   "s": "Investitionen schaffen deutlich mehr Wirtschaftswachstum als Steuersenkungen, zu dem Ergebnis kommen Forscher des Deutschen Instituts für Wirtschaftsforschung. Kritiker zweifeln aber an den Annahmen der Studie.",
+   "u": "https://www.deutschlandfunk.de/diw-studie-investitionen-steuersenkungen-wirtschaft-wachstum-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-12T15:00:00+00:00"
+  },
+  {
+   "t": "Politisches Engagement - Wie Unternehmen Demokratie fördern",
+   "s": "Unternehmen starten Demokratie-Initiativen, grenzen sich von der AfD ab und ermutigen Beschäftigte zu politischem Engagement. Warum mischt sich die Wirtschaft ein und weshalb sind stabile demokratische Verhältnisse auch in ihrem eigenen Interesse?",
+   "u": "https://www.deutschlandfunk.de/demokratie-wirtschaft-unternehmen-afd-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-12T12:25:00+00:00"
   }
  ]
 }
