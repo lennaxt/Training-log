@@ -37,6 +37,9 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
 ## App-Konventionen (UI-Muster)
 
 - **Bereiche:** Vier Trainingsarten — Kraft, Rad, Laufen, Kurse. Rad/Laufen/Kurse laufen über die gemeinsame `ACT`-Config + `renderAct*`-Funktionen.
+- **Rahmen trennt die Ebenen:** Bereichsbezogene Einstellungen stehen in umrandeten
+  Kästen (`.sec`), allgemeine stehen frei darüber. Ein allgemeiner Punkt bekommt
+  nie einen Rahmen, sonst liest er sich wie eine Bereichs-Einstellung.
 - **Zwei Einstellungs-Ebenen:** „Einstellungen" (Tippen aufs Logo) = Bereiche ein/aus + global. **Long-Press auf eine Bereichs-Zeile** dort öffnet das bereichsspezifische Menü. „Stile" (Zahnrad) bleibt separat für Farben + Kartenstil.
 - **Hero-Name antippen wechselt schnell:** Kraft-Buchstabe → nächstes Training (`toggleDay`), Kursname → nächste Kursart (`cycleKursType`). Dezenter Hinweistext, kein prominentes Label.
 - **Aktivitäten speichern in einem Schritt:** Rad/Laufen/Kurse haben einen „… speichern"-Button (`quickSaveAct`), kein Start/Stopp. (Aktive Session + „Verwerfen" existiert nur noch als Alt-Pfad.)
