@@ -747,11 +747,19 @@
   .pause-stage .news-read .mp-head{font-size:25px;margin-bottom:12px}
   .pause-stage .news-read .mp-text{font-size:16.5px;line-height:1.62;white-space:pre-line}
   .news-src{display:block;margin-top:18px;padding-bottom:6px;font-size:12px;color:var(--ink-soft)}
-  .news-open{display:inline-flex;align-items:center;min-height:44px;margin-top:20px;padding:0 18px;
-    border:1px solid var(--line);border-radius:999px;text-decoration:none;
+  /* Gestapelt und gleich breit: zwei Knoepfe mit eigener Breite stehen sonst
+     versetzt untereinander und wirken wie ein Versehen. */
+  .news-actions{display:flex;flex-direction:column;gap:10px;margin-top:24px}
+  .news-open{display:flex;align-items:center;justify-content:center;box-sizing:border-box;
+    width:100%;min-height:46px;padding:0 18px;
+    border:1px solid var(--line);border-radius:999px;background:transparent;text-decoration:none;
     font:600 10.5px/1 'Inter',sans-serif;letter-spacing:.14em;text-transform:uppercase;
-    color:var(--ink-soft);-webkit-tap-highlight-color:transparent}
+    color:var(--ink-soft);-webkit-tap-highlight-color:transparent;cursor:pointer}
+  .news-open:active{background:var(--press)}
+  .news-open.primaer{background:var(--paper-2);border-color:transparent;color:var(--ink)}
   #pauseOverlay.dark .news-open{border-color:rgba(255,255,255,.2);color:rgba(255,255,255,.55)}
+  #pauseOverlay.dark .news-open.primaer{background:rgba(255,255,255,.1);border-color:transparent;
+    color:rgba(255,255,255,.8)}
   .creature-host{position:absolute;inset:0;overflow:hidden;isolation:isolate;
     display:flex;align-items:center;justify-content:center;--creature-scale:.0033}
   /* Die Kreatur bewegt sich nur in ihrem eigenen Kasten. Im Pausenbildschirm
@@ -2930,19 +2938,22 @@ function quelleRender(el,modeId,dir,lesen,strom){
     const h=document.createElement("div");h.className="mp-head";h.textContent=it.t;
     const t=document.createElement("div");t.className="mp-text";t.textContent=it.s;
     leser.append(k,h,t);
+    const knoepfe=document.createElement("div");
+    knoepfe.className="news-actions";
     if(strom){
       const n=document.createElement("button");
-      n.className="news-open";n.type="button";n.textContent="N\u00e4chster Artikel \u2192";
+      n.className="news-open primaer";n.type="button";n.textContent="N\u00e4chster Artikel \u2192";
       n.onclick=()=>{const w=zufall(beutel());if(w)oeffnen(w)};
-      leser.append(n);
+      knoepfe.append(n);
     }
     if(it.u){
       const a=document.createElement("a");
       a.className="news-open";a.href=it.u;a.target="_blank";a.rel="noopener noreferrer";
-      a.style.marginLeft=strom?"8px":"";
-      a.textContent=(lesen?"Ganzer Artikel bei ":"Weiterlesen bei ")+(it.q||"der Quelle")+" \u2197";
-      leser.append(a);
+      // \uFE0E zwingt den Pfeil in die Textform - iOS macht sonst ein blaues Emoji daraus.
+      a.textContent=(lesen?"Ganzer Artikel bei ":"Weiterlesen bei ")+(it.q||"der Quelle")+" \u2197\uFE0E";
+      knoepfe.append(a);
     }
+    if(knoepfe.children.length)leser.append(knoepfe);
     if(it.liz){
       const l=document.createElement("div");
       l.className="news-src";l.style.marginTop="6px";l.textContent="Text unter "+it.liz;
