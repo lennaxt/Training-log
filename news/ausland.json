@@ -1,13 +1,20 @@
 {
  "name": "Ausland",
- "updated": "2026-08-31T20:50:21+00:00",
+ "updated": "2026-09-01T00:37:35+00:00",
  "items": [
+  {
+   "t": "Öl-Deal der USA mit Venezuela: Experten bezweifeln Trumps Versprechen",
+   "s": "Mit seinem Öl-Deal mit Venezuela will US-Präsident Trump die Engpässe im Nahen Osten ausgleichen und für schnell sinkende Benzinpreise in seinem Land sorgen. Doch damit verspricht er zu viel, sagen Experten. Von S. Jackisch.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-deal-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T23:43:53+00:00"
+  },
   {
    "t": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
    "s": "Beim G20-Finanzministertreffen ist der russische Minister persönlich vor Ort - erstmals seit dem Angriff auf die Ukraine. Finanzminister Klingbeil kritisierte deshalb den Gastgeber USA und richtete klare Worte an Russland.",
    "u": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html",
    "q": "Tagesschau",
-   "d": "2026-08-31T19:52:21+00:00"
+   "d": "2026-08-31T21:09:55+00:00"
   },
   {
    "t": "Nach Sturzflut im Grand Canyon: Zwei Tote und mehrere Vermisste",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/island-referendum-eu-beitritt-100.html",
    "q": "Tagesschau",
    "d": "2026-08-30T10:12:39+00:00"
-  },
-  {
-   "t": "Knappes Rennen bei EU-Referendum in Island",
-   "s": "Noch sind nicht alle Stimmen in Island ausgezählt. Die beiden Lager beim Referendum über die Aufnahme von EU-Beitrittsverhandlungen lagen fast gleich auf, doch kurz vor Ende der Auszählung zeichnet sich ein Nein immer deutlicher ab.",
-   "u": "https://www.tagesschau.de/ausland/europa/island-referendum-auszaehlung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-30T07:13:42+00:00"
   }
  ]
 }
