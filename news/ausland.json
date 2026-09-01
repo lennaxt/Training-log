@@ -1,7 +1,63 @@
 {
  "name": "Ausland",
- "updated": "2026-09-01T00:37:35+00:00",
+ "updated": "2026-09-01T08:40:13+00:00",
  "items": [
+  {
+   "t": "Schuljahr in der Ukraine beginnt inmitten russischer Angriffe",
+   "s": "Auch in der Nacht vor dem ersten Schultag hat Russland die Ukraine wieder mit Angriffen überzogen. Zwischen Scherben und Luftalarm versuchen Lehrkräfte und Eltern, den Schulalltag der Kinder aufrechtzuerhalten. Von Florian Kellermann.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-schulbeginn-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T08:39:36+00:00"
+  },
+  {
+   "t": "Zahl der Toten nach Sturzflut im Himalaya steigt auf 1.000",
+   "s": "Nach der Flutkatastrophe im Himalaya steigt die Zahl der Toten auf mehr als 1.000. Es gibt weiterhin Tausende Vermisste. Hilfsorganisationen warnen zudem vor katastrophalen hygienischen Bedingungen und Krankheiten wie Dengue-Fieber oder Cholera.",
+   "u": "https://www.tagesschau.de/ausland/asien/himalaya-nepal-sturzflut-tote-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T06:55:01+00:00"
+  },
+  {
+   "t": "US-Behörde FTC und Bundesstaaten verklagen Amazon",
+   "s": "Mit manipulierten Auktionen für Online-Werbung soll sich Amazon zweistellige Milliardenbeträge erschlichen haben. Das wirft die US-Wettbewerbsbehörder FTC dem Konzern vor - und klagt zusammen mit 22 Bundesstaaten.",
+   "u": "https://www.tagesschau.de/ausland/amerika/klage-amazon-werbeeinnahmen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T04:47:47+00:00"
+  },
+  {
+   "t": "Mord an Rapper Tupac Shakur: Angeklagter schuldig gesprochen",
+   "s": "Er soll der Drahtzieher hinter dem Tod von Tupac Shakur gewesen sein: Der frühere Gang-Anführer Duane Davis ist im Prozess um den Mord des US-Rappers schuldig gesprochen worden. Jedoch soll er nicht selbst auf Shakur geschossen haben.",
+   "u": "https://www.tagesschau.de/ausland/amerika/tupac-prozess-mord-urteil-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T02:18:12+00:00"
+  },
+  {
+   "t": "Außenminister Wadephul in Nordafrika: Migration statt Wirtschaft",
+   "s": "Wenige Wochen nach dem Massenansturm von Migranten auf Ceuta steht die Migration über die Mittelmeerroute weiter im Fokus. Ein Thema, um das Außenminister Wadephul bei seinem Besuch in Nordafrika nicht herumkommt. Von D. von Osten.",
+   "u": "https://www.tagesschau.de/ausland/afrika/wadephul-tunesien-algerien-reise-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T02:17:52+00:00"
+  },
+  {
+   "t": "Supreme Court: Trump darf Ballsaal im Weißen Haus vorerst weiterbauen",
+   "s": "Der Rechtsstreit um den Bau des Ballsaals am Weißen Haus ist noch nicht abgeschlossen, doch die Arbeiten daran dürfen laut dem Supreme Court weiterlaufen. Damit könnte der Rohbau bereits vor Ende des Verfahrens fertig sein.",
+   "u": "https://www.tagesschau.de/ausland/amerika/weisses-haus-ballsaal-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T02:17:13+00:00"
+  },
+  {
+   "t": "Kein Handys mehr an Frankreichs Schulen - auch nicht in der Oberstufe",
+   "s": "Willkommen zurück - heißt es heute an französischen Schulen. Mit einer Neuerung: Nun gilt für alle Jahrgänge ein Handyverbot, auch für die Oberstufe. Aber wie setzt man das um, wenn die Schulkommunikation digitalisiert wurde? Von Julia Borutta.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-handyverbot-schule-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T02:12:02+00:00"
+  },
+  {
+   "t": "Öl-Deal mit den USA: Was das Abkommen für Venezuela bedeutet",
+   "s": "Etwa ein Fünftel des Ölvorkommens Venezuelas soll künftig den USA gehören. Die Vorteile des Deals liegen für Washington auf der Hand. Doch hilft das Abkommen auch der maroden venezolanischen Wirtschaft? Von Jenny Barke.",
+   "u": "https://www.tagesschau.de/ausland/amerika/oel-deal-usa-venezuela-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T00:49:12+00:00"
+  },
   {
    "t": "Öl-Deal der USA mit Venezuela: Experten bezweifeln Trumps Versprechen",
    "s": "Mit seinem Öl-Deal mit Venezuela will US-Präsident Trump die Engpässe im Nahen Osten ausgleichen und für schnell sinkende Benzinpreise in seinem Land sorgen. Doch damit verspricht er zu viel, sagen Experten. Von S. Jackisch.",
@@ -113,62 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-104.html",
    "q": "Tagesschau",
    "d": "2026-08-31T00:28:59+00:00"
-  },
-  {
-   "t": "Mindestens acht Menschen sterben bei Fährunglück vor Zypern",
-   "s": "Vor der Küste Nordzyperns ist ein Schiff mit mehr als 260 Menschen an Bord gekentert. Mindestens acht Menschen kamen dabei ums Leben. Der Kapitän und sieben Crewmitglieder wurden festgenommen.",
-   "u": "https://www.tagesschau.de/ausland/europa/zypern-faehre-seenot-102.html",
-   "q": "Tagesschau",
-   "d": "2026-08-30T18:26:09+00:00"
-  },
-  {
-   "t": "Referendum in Island: Ein Nein - aber keine Abkehr von Europa",
-   "s": "Die Isländer haben sich in einem Referendum gegen eine Wiederaufnahme von EU-Beitrittsgesprächen entschieden. Doch die knappe Abstimmung zeigt: Die Frage nach Islands Platz in Europa ist noch längst nicht geklärt. Von Arne Bartram.",
-   "u": "https://www.tagesschau.de/ausland/europa/island-referendum-102.html",
-   "q": "Tagesschau",
-   "d": "2026-08-30T17:42:47+00:00"
-  },
-  {
-   "t": "Tote und Verletzte nach Schüssen bei Techno-Veranstaltung in der Schweiz",
-   "s": "Bei einem Rave im schweizerischen Aarau, westlich von Zürich, sind in der Nacht Schüsse gefallen. Die Polizei spricht von einer Toten und fünf Verletzten. Die Hintergründe der Tat sind noch unklar.",
-   "u": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-30T16:50:34+00:00"
-  },
-  {
-   "t": "Nepal und China: Opferzahl steigt, Suche nach Vermissten geht weiter",
-   "s": "Nach der Flut im Himalaya werden in China laut den Behörden drei Deutsche vermisst. Nepals Katastrophenschutz mahnt zur Vorsicht: Gefährlich könnte der Fluss Bhotekoshi werden. Die Zahl der Todesopfer stieg unterdessen auf mehr als 800.",
-   "u": "https://www.tagesschau.de/ausland/asien/flut-nepal-tibet-opferzahl-steigt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-30T14:01:07+00:00"
-  },
-  {
-   "t": "Nach Sturzflut in Nepal: Die lange Suche nach Gewissheit",
-   "s": "Noch immer werden Hunderte in Nepal und China vermisst. Sie könnten kilometerweit ins Tal gerissen worden sein, die Identifikation der Toten ist daher schwierig. Für die Angehörigen ist die Ungewissheit eine Qual. Von L. Bodewein und M. Spieker.",
-   "u": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-30T13:52:40+00:00"
-  },
-  {
-   "t": "Klingbeil fordert vor G20-Treffen in den USA ein Ende des Iran-Kriegs",
-   "s": "Bundesfinanzminister Klingbeil fliegt zum Treffen der G20-Finanzminister in die USA. Überschattet wird diese Reise vom Iran-Krieg - aber auch der Handelskonflikt zwischen Kanada und den USA steht auf der Agenda. Von P. Eckstein.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-g20-finanzminister-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-30T10:31:14+00:00"
-  },
-  {
-   "t": "Mit Russlands Hilfe: Junta in Niger schlägt Aufstand von Soldaten nieder",
-   "s": "Für die USA und Frankreich war Niger bis 2023 ein wichtiger Ausgangspunkt für Einsätze gegen Dschihadisten in der Sahelregion. Dann kam es zum Putsch. Nun gab es wieder einen Aufstand - der mit Russlands Hilfe niedergeschlagen wurde.",
-   "u": "https://www.tagesschau.de/ausland/afrika/militaerjunta-niger-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-30T10:23:45+00:00"
-  },
-  {
-   "t": "Isländer stimmen per Referendum gegen EU-Beitrittsverhandlungen",
-   "s": "Die Menschen in Island haben sich gegen die Wiederaufnahme von Beitrittsverhandlungen mit der Europäischen Union entschieden. Das Ergebnis des Referendums fiel mit 52,8 zu 47,2 Prozent der Stimmen allerdings knapp aus.",
-   "u": "https://www.tagesschau.de/ausland/island-referendum-eu-beitritt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-30T10:12:39+00:00"
   }
  ]
 }

@@ -1,7 +1,77 @@
 {
  "name": "Inland",
- "updated": "2026-09-01T00:37:34+00:00",
+ "updated": "2026-09-01T08:40:12+00:00",
  "items": [
+  {
+   "t": "EU-Mercosur-Handelsabkommen: EU setzt Fleischimporte aus Brasilien aus",
+   "s": "Die EU-Kommission erklärte, Brasilien müsse nachweisen, ob Exporteure die EU-Vorgaben zum Einsatz von Antibiotika in der Tierhaltung erfüllen.",
+   "u": "https://taz.de/EU-Mercosur-Handelsabkommen/!6209039/",
+   "q": "taz",
+   "d": "2026-09-01T08:23:00+00:00"
+  },
+  {
+   "t": "Wadephul in Tunesien und Algerien: Die neuen Freundschaften haben einen Preis",
+   "s": "Außenminister Wadephul wirbt in Tunis für mehr Zusammenarbeit in den Bereichen Wirtschaft und Sicherheit. Er will aber auch mit nordafrikanischer Hilfe die Migrationszahlen verringern.",
+   "u": "https://taz.de/Wadephul-in-Tunesien-und-Algerien/!6209031/",
+   "q": "taz",
+   "d": "2026-09-01T07:52:00+00:00"
+  },
+  {
+   "t": "Wahlkampf in Ostdeutschland: Merz zieht Grenzen zur Linken und wird ausgepfiffen",
+   "s": "Bundeskanzler lehnt eine direkte Regierungsbeteiligung der Linken ab und warnt vor Wutbürgern. Beim Wahlkampfauftritt an der Ostsee wird er ausgepfiffen.",
+   "u": "https://taz.de/Wahlkampf-in-Ostdeutschland/!6209030/",
+   "q": "taz",
+   "d": "2026-09-01T06:57:00+00:00"
+  },
+  {
+   "t": "Pflegebeauftragte: \"Die Pflegekassen werden nicht pleitegehen\"",
+   "s": "Die Pflegekassen sind unterfinanziert, selbst mit einem Notdarlehen kommen sie nicht aus dem Milliardendefizit. Die Pflegebeauftragte der Bundesregierung, Staffler, verweist auf die Pflegereform und versichert: Man werde die Kassen nicht pleitegehen lassen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/pflegekassen-defizit-bundesregierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T06:45:08+00:00"
+  },
+  {
+   "t": "Nach Blockaden gegen AfD in Erfurt: Bleibt Antifaschismus gemeinnützig?",
+   "s": "Die VVN-BdA unterstützte die Blockaden gegen die AfD. Nach rechten Medienberichten will die Finanzverwaltung die Gemeinnützigkeit des Vereins prüfen.",
+   "u": "https://taz.de/Nach-Blockaden-gegen-AfD-in-Erfurt/!6209014/",
+   "q": "taz",
+   "d": "2026-09-01T06:40:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Klingbeil rügt US-Regierung, Bomben auf Kyjiw",
+   "s": "USA laden russischen Minister zum G20-Finanzministertreffen ein. Lars Klingbeil gefällt das gar nicht. Mindestens vier Tote bei russischem Angriff auf Kyjiw.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6209028/",
+   "q": "taz",
+   "d": "2026-09-01T06:05:00+00:00"
+  },
+  {
+   "t": "Hitze in Libanon: Da hilft nur schwarzer Humor",
+   "s": "Die Sommerhitze überstehen Li­ba­ne­s*in­nen in teuren Strandressorts und mit umweltschädlichen Klimaanlagen. Die Regierung hat keine bessere Lösung als Erdgas aus Israel.",
+   "u": "https://taz.de/Hitze-in-Libanon/!6132687/",
+   "q": "taz",
+   "d": "2026-09-01T05:23:00+00:00"
+  },
+  {
+   "t": "Russische Schattenflotte: An Rechtsmitteln fehlt es nicht",
+   "s": "Greenpeace fordert, das internationale Recht gegen die russische Schattenflotte stärker durchzusetzen. So würden auch Umweltgefahren sinken.",
+   "u": "https://taz.de/Russische-Schattenflotte/!6208738/",
+   "q": "taz",
+   "d": "2026-09-01T05:18:00+00:00"
+  },
+  {
+   "t": "Radikales AfD-Netzwerk: Der Sunnyboy des Rechtsextremismus",
+   "s": "Ulrich Siegmund will in Sachsen-Anhalt AfD-Ministerpräsident werden. Wie radikal würde er regieren? Sein Werdegang und sein Umfeld geben Aufschluss.",
+   "u": "https://taz.de/Radikales-AfD-Netzwerk/!6208708/",
+   "q": "taz",
+   "d": "2026-09-01T05:13:00+00:00"
+  },
+  {
+   "t": "Wohnprojekt in Halle: Ein Spagat zwischen Selbstorganisation und Stadtrat",
+   "s": "Ingeborg Bauer half dabei, dass eine linke Initiative ein Wohnprojekt in Halle kaufen kann. Dieser Abschluss vor den Wahlen sei wichtig gewesen.",
+   "u": "https://taz.de/Wohnprojekt-in-Halle/!6208498/",
+   "q": "taz",
+   "d": "2026-09-01T05:06:00+00:00"
+  },
   {
    "t": "Merz warnt vor Folgen eines \"Wutbürger\"-Experiments in Sachsen-Anhalt",
    "s": "In Sachsen-Anhalt grenzt sich CDU-Spitzenkandidat Schulze im Wahlkampf von Kanzler Merz und der Bundespolitik ab. Nun gab es doch einen gemeinsamen Auftritt. Den nutzte Merz erneut für eine klare Warnung vor der AfD.",
@@ -99,76 +169,6 @@
    "u": "https://www.deutschlandfunk.de/kommentar-zu-krankschreibungen-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-08-31T14:38:00+00:00"
-  },
-  {
-   "t": "Straße von Hormus: Die USA nehmen Angriffe gegen Iran wieder auf",
-   "s": "Die USA greifen Ziele im Iran an, Teheran antwortet mit Raketen. Vor den Kongresswahlen bleibt den Republikanern wenig Zeit, um die Ausgangslage zu bessern.",
-   "u": "https://taz.de/Strasse-von-Hormus/!6208775/",
-   "q": "taz",
-   "d": "2026-08-31T14:22:00+00:00"
-  },
-  {
-   "t": "Landtagswahl in Sachsen-Anhalt: CDU vor der Zerreißprobe?",
-   "s": "Bei der Landtagswahl in Sachsen-Anhalt droht der CDU ein Dilemma: Die AfD liegt deutlich vorn. Koalitionen erscheinen schwierig. Parteichef Merz hat klare Worte, aber wenig Spielraum. Von Sabine Henkel.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-landtagswahl-cdu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T14:10:36+00:00"
-  },
-  {
-   "t": "Nach der Militärmeuterei in Niger: Algerien bringt sich als Schutzmacht ins Spiel",
-   "s": "Die Regierung in Algier stationiert Elemente ihrer Luftwaffe in Nigers Hauptstadt Niamey. Noch am Vortag wurde just dort eine Meuterei niedergekämpft.",
-   "u": "https://taz.de/Nach-der-Militaermeuterei-in-Niger/!6208786/",
-   "q": "taz",
-   "d": "2026-08-31T14:00:00+00:00"
-  },
-  {
-   "t": "Bilanz des DWD: Zweitwärmster Sommer seit Aufzeichnungsbeginn",
-   "s": "Hitze, Dürre und Unwetter: Der diesjährige Sommer erreichte laut Deutschem Wetterdienst \"Dimensionen, wie sie in Deutschland bislang nicht beobachtet wurden\". Nur 2003 war es wärmer.",
-   "u": "https://www.tagesschau.de/inland/dwd-sommer-bilanz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T13:56:38+00:00"
-  },
-  {
-   "t": "Nach Massenansturm auf Ceuta: Spanien beschuldigt „rechtsextreme Internationale“",
-   "s": "Spaniens Regierungschef Sánchez wirft Israel und Russland vor, den Ansturm auf Ceuta befeuert zu haben. Was steckt dahinter?",
-   "u": "https://taz.de/Vier-Wochen-nach-Massenansturm/!6208784/",
-   "q": "taz",
-   "d": "2026-08-31T13:48:00+00:00"
-  },
-  {
-   "t": "Coesfelder Liste: Die 471 Fälle von Köln",
-   "s": "Die Stadt Köln muss sich wegen einer Liste mit ausreisepflichtigen Personen erklären. Der Vorwurf: Abschiebungen wurden verhindert. Doch der Fall ist komplizierter.",
-   "u": "https://taz.de/Coesfelder-Liste/!6207413/",
-   "q": "taz",
-   "d": "2026-08-31T13:38:00+00:00"
-  },
-  {
-   "t": "Landtagswahl in Nordrhein-Westfalen: Dann eben in die Politik",
-   "s": "Gynäkologe Joachim Volz kämpft vor Gericht gegen das Abtreibungsverbot seiner Klinik. Nun will er für die Grünen in den NRW-Landtag. Warum?",
-   "u": "https://taz.de/Landtagswahl-in-Nordrhein-Westfalen/!6208590/",
-   "q": "taz",
-   "d": "2026-08-31T13:13:00+00:00"
-  },
-  {
-   "t": "Fährunglück vor Zypern: „Es gab so viel Geschrei und viele Menschen steckten fest“",
-   "s": "Augenzeuge berichten von dem Unglück, bei dem mindestens acht Menschen starben. Gegen die Besatzung wurden schwere Vorwürfe erhoben.",
-   "u": "https://taz.de/Faehrunglueck-vor-Zypern/!6208818/",
-   "q": "taz",
-   "d": "2026-08-31T11:09:00+00:00"
-  },
-  {
-   "t": "Statistik: Mehr Männer in jüngeren Altersgruppen",
-   "s": "Unter jungen Erwachsenen gibt es in Deutschland deutlich mehr Männer als Frauen. Das hat das Statistische Bundesamt untersucht. Ab 50 Jahren dreht sich das Geschlechterverhältnis.",
-   "u": "https://www.tagesschau.de/inland/junge-maenner-ueberschuss-statistik-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T09:04:25+00:00"
-  },
-  {
-   "t": "Rentenreform - Kommt das Ende der abschlagsfreien Rente?",
-   "s": "Die Rentenreform gilt als wichtiges Vorhaben der Regierungskoalition - entsprechend wird um sie gestritten. Hier diskutieren Florian Dorn (CSU), Ulrike Schielke-Ziesing (AfD), Timon Dzienus (Grüne) und Rentenexperte Johannes GeyerKaess, Christiane",
-   "u": "https://www.deutschlandfunk.de/ist-die-rente-sicher-schwarz-rot-reformiert-die-alterssicherung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-31T08:08:00+00:00"
   }
  ]
 }

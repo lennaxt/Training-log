@@ -1,7 +1,63 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-01T00:37:37+00:00",
+ "updated": "2026-09-01T08:40:14+00:00",
  "items": [
+  {
+   "t": "Bundesweites Alkoholverbot in Bahnhöfen: Die wichtigen Kernpunkte",
+   "s": "Mehr Ordnung und Sicherheit in allen Bahnhöfen und Zügen: Das will die Bahn mit dem geplanten bundesweiten Alkoholverbot erreichen. Welche Regeln wo gelten sollen und wie weit das Verbot überhaupt umsetzbar ist.",
+   "u": "https://www.tagesschau.de/inland/bahn-alkoholverbot-faq-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T07:13:47+00:00"
+  },
+  {
+   "t": "Bahn setzt neues Alkoholverbot stufenweise an Bahnhöfen um",
+   "s": "Die Deutsche Bahn setzt das Alkoholverbot an ihren Bahnhöfen weiter um - ab heute etwa am Berliner Hauptbahnhof. Bis Mitte Oktober soll es an 5.400 Bahnhöfen bundesweit gelten. Der Konzern erhofft sich dadurch mehr Sicherheit.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkoholverbot-bahnhoefe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T07:13:47+00:00"
+  },
+  {
+   "t": "Shein startet mit deutlichem Minus an Hongkonger Börse",
+   "s": "Der chinesische Billigmodehändler Shein hat bei seinem Börsengang in Hongkong enttäuscht. Die Aktien fielen um bis zu acht Prozent unter den Ausgabepreis. Schon zuvor war der Hype spürbar zurückgegangen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-ipo-boersengang-hongkong-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T06:27:14+00:00"
+  },
+  {
+   "t": "Marktbericht: Geldpolitik und Ölpreis belasten die Anlegerlaune",
+   "s": "Der anziehende Ölpreis und die Aussicht auf steigende Leitzinsen in den USA und der Eurozone belasten die Stimmung am Markt. Vor frischen Inflationsdaten bleiben die Anleger zurückhaltend.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T05:30:07+00:00"
+  },
+  {
+   "t": "E-Mail-Störung bei Microsoft: Systeme laufen wieder an",
+   "s": "Ein Fehler in der Cloud-Infrastruktur von Exchange Online hat weltweit für Probleme im E-Mail-Verkehr der Microsoft-Systeme gesorgt. Die Systeme erholen sich - doch nicht alle Nutzer sind schon wieder online.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/microsoft-stoerung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T05:29:08+00:00"
+  },
+  {
+   "t": "US-Behörde FTC und Bundesstaaten verklagen Amazon",
+   "s": "Mit manipulierten Auktionen für Online-Werbung soll sich Amazon zweistellige Milliardenbeträge erschlichen haben. Das wirft die US-Wettbewerbsbehörder FTC dem Konzern vor - und klagt zusammen mit 22 Bundesstaaten.",
+   "u": "https://www.tagesschau.de/ausland/amerika/klage-amazon-werbeeinnahmen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T04:47:47+00:00"
+  },
+  {
+   "t": "Öl-Deal mit den USA: Was das Abkommen für Venezuela bedeutet",
+   "s": "Etwa ein Fünftel des Ölvorkommens Venezuelas soll künftig den USA gehören. Die Vorteile des Deals liegen für Washington auf der Hand. Doch hilft das Abkommen auch der maroden venezolanischen Wirtschaft? Von Jenny Barke.",
+   "u": "https://www.tagesschau.de/ausland/amerika/oel-deal-usa-venezuela-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T00:49:12+00:00"
+  },
+  {
+   "t": "Öl-Deal der USA mit Venezuela: Experten bezweifeln Trumps Versprechen",
+   "s": "Mit seinem Öl-Deal mit Venezuela will US-Präsident Trump die Engpässe im Nahen Osten ausgleichen und für schnell sinkende Benzinpreise in seinem Land sorgen. Doch damit verspricht er zu viel, sagen Experten. Von S. Jackisch.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-deal-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T23:43:53+00:00"
+  },
   {
    "t": "Warntag, Steuer, Garantie: Was sich im September ändert",
    "s": "Nicht erschrecken: Im September gibt es bundesweit Alarm - beim Warntag werden Sirenen und Warn-Apps getestet. Ein neues Label zeigt künftig die Garantiezeit. Und es gibt Vereinfachungen bei Steuerberatungen.",
@@ -15,13 +71,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/wallstreet-dax-indexfonds-boerse-100.html",
    "q": "Tagesschau",
    "d": "2026-08-31T16:46:46+00:00"
-  },
-  {
-   "t": "Marktbericht: Herbe Verluste zum Monatsende",
-   "s": "Neue Militärschläge im Persischen Golf und Zinssorgen haben den DAX zu Wochenbeginn in die Knie gezwungen. Der August endet dennoch mit einem Monatsplus von 2,5 Prozent.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T16:23:35+00:00"
   },
   {
    "t": "Apfel-Produzenten unter Druck",
@@ -120,55 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-warsh-rede-100.html",
    "q": "Tagesschau",
    "d": "2026-08-28T19:54:08+00:00"
-  },
-  {
-   "t": "Nach Betriebsversammlungen: Lauter offene Fragen bei VW",
-   "s": "In mehreren Betriebsversammlungen hat Volkswagen-Chef Blume die Mitarbeiter auf harte Einschnitte eingestimmt. Doch viele Fragen blieben offen. Eine Lösung zeichnet sich nach NDR-Informationen für das Werk Osnabrück ab. A.Deutskens und K.Seiler.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-betriebsversammlungen-bilanz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-28T17:57:27+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 27.08.2026",
-   "s": "Wirtschaft vor acht vom 27.08.2026",
-   "u": "https://www.tagesschau.de/video/video-1638498.html",
-   "q": "Tagesschau",
-   "d": "2026-08-27T18:27:47+00:00"
-  },
-  {
-   "t": "Globales Rennen um KI - Europäische Unternehmen punkten durch Spezialisierung",
-   "s": "Europa hat KI-Unternehmen, die global wettbewerbsfähig sind: Mistral, DeepL und Black Forest Labs. Insbesondere Unternehmen nutzen gern KI aus Europa. Ein Grund dafür ist die vergleichsweise strenge KI-Regulierung in der EU.",
-   "u": "https://www.deutschlandfunk.de/ki-kuenstliche-intelligenz-europa-deepl-mistral-digitale-souveraenitaet-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-27T10:00:00+00:00"
-  },
-  {
-   "t": "Hitzeschutz beim Neubau für kühles Wohnen ohne Klimaanlage",
-   "s": "Draußen Hitzewelle, drinnen angenehme 24 Grad - ganz ohne klassische Klimaanlage. Wie sieht ein klimafreundliches und gleichzeitig klimaresilientes Haus aus? Von Margareta Holzreiter und Edina Schmitt.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/hitzeschutz-beim-bauen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-27T08:36:07+00:00"
-  },
-  {
-   "t": "KfW: Wieder mehr Menschen bereit für private Klima-Investitionen",
-   "s": "Die Zustimmung zum Klimaschutz bleibt hoch. Jetzt steigt auch die Bereitschaft wieder, privat dafür zu investieren - sei es bei der Stromversorgung im eigenen Haus oder mit dem Kauf eines Elektrofahrzeugs.",
-   "u": "https://www.tagesschau.de/wirtschaft/kfw-investition-klimaschutz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-27T08:26:26+00:00"
-  },
-  {
-   "t": "Sechs Monate Irankrieg - Hohe Gewinne dank hoher Spritpreise",
-   "s": "An den Tankstellen steigen die Preise, bei den großen Ölkonzernen die Gewinne. Finanzminister Lars Klingbeil würde die Konzerne daher gern stärker zur Kasse bitten. In Europa hat man damit bereits Erfahrungen gesammelt.",
-   "u": "https://www.deutschlandfunk.de/spritpreise-irankrieg-profit-uebergewinnsteuer-oelkonzerne-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-25T08:55:00+00:00"
-  },
-  {
-   "t": "Viertagewoche in Island - Kürzer arbeiten, gleich verdienen",
-   "s": "Vier Tage arbeiten und trotzdem volles Gehalt: Für viele Beschäftigte in Island ist das längst Realität. Das Modell bringt mehr Freizeit, sorgt aber auch für Kritik von Arbeitgebern und teilweise für Einschränkungen bei öffentlichen Angeboten.",
-   "u": "https://www.deutschlandfunk.de/island-viertagewoche-arbeitszeit-verkuerzung-work-life-balance-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-21T07:58:00+00:00"
   }
  ]
 }

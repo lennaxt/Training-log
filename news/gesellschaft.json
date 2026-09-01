@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-01T00:37:40+00:00",
+ "updated": "2026-09-01T08:40:17+00:00",
  "items": [
+  {
+   "t": "EU-Mercosur-Handelsabkommen: EU setzt Fleischimporte aus Brasilien aus",
+   "s": "Die EU-Kommission erklärte, Brasilien müsse nachweisen, ob Exporteure die EU-Vorgaben zum Einsatz von Antibiotika in der Tierhaltung erfüllen.",
+   "u": "https://taz.de/EU-Mercosur-Handelsabkommen/!6209039/",
+   "q": "taz",
+   "d": "2026-09-01T08:23:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Klingbeil rügt US-Regierung, Bomben auf Kyjiw",
+   "s": "USA laden russischen Minister zum G20-Finanzministertreffen ein. Lars Klingbeil gefällt das gar nicht. Mindestens vier Tote bei russischem Angriff auf Kyjiw.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6209028/",
+   "q": "taz",
+   "d": "2026-09-01T06:05:00+00:00"
+  },
+  {
+   "t": "Russische Schattenflotte: An Rechtsmitteln fehlt es nicht",
+   "s": "Greenpeace fordert, das internationale Recht gegen die russische Schattenflotte stärker durchzusetzen. So würden auch Umweltgefahren sinken.",
+   "u": "https://taz.de/Russische-Schattenflotte/!6208738/",
+   "q": "taz",
+   "d": "2026-09-01T05:18:00+00:00"
+  },
   {
    "t": "Russische Angriffe auf Kyjiw: Chaos, leere Regale und viel Wut",
    "s": "Russland fliegt derzeit mehr Luftangriffe auf die ukrainische Hauptstadt. Angegriffen werden nun auch Lagerhallen, Supermärkte und Tankstellen.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Politische-Gefangene-in-Belarus/!6207648/",
    "q": "taz",
    "d": "2026-08-28T07:29:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: Kraftwerk in Cherson angegriffen",
-   "s": "Russland und die Ukraine überziehen einander erneut mit Angriffen aus der Luft. Der Gouverneur von Cherson bittet die Bevölkerung, die Stadt zu verlassen.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6207911/",
-   "q": "taz",
-   "d": "2026-08-28T06:37:00+00:00"
-  },
-  {
-   "t": "Kriegsverbrecher Ratko Mladić ist tot: Der Schlächter vom Balkan",
-   "s": "Verurteilt wurde Mladić wegen der Belagerung Sarajevos und den Menschheitsverbrechen in Srebrenica. Bis zuletzt zeigte er keine Reue.",
-   "u": "https://taz.de/Kriegsverbrecher-Ratko-Mladic-ist-tot/!6207827/",
-   "q": "taz",
-   "d": "2026-08-27T17:53:00+00:00"
-  },
-  {
-   "t": "Streit um EU-Budget: Merz prescht mit „Gipfel der Geizigen“ vor",
-   "s": "Der Kanzler will es wissen und schart einen Kreis der EU-Nettozahler um sich. Mit seinem Konfrontationskurs zum Budget droht er die EU zu spalten.",
-   "u": "https://taz.de/Streit-um-EU-Budget/!6207808/",
-   "q": "taz",
-   "d": "2026-08-27T16:11:00+00:00"
   }
  ]
 }

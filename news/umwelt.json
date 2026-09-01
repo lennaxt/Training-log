@@ -1,7 +1,42 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-01T00:37:39+00:00",
+ "updated": "2026-09-01T08:40:16+00:00",
  "items": [
+  {
+   "t": "Wadephul in Tunesien und Algerien: Die neuen Freundschaften haben einen Preis",
+   "s": "Außenminister Wadephul wirbt in Tunis für mehr Zusammenarbeit in den Bereichen Wirtschaft und Sicherheit. Er will aber auch mit nordafrikanischer Hilfe die Migrationszahlen verringern.",
+   "u": "https://taz.de/Wadephul-in-Tunesien-und-Algerien/!6209031/",
+   "q": "taz",
+   "d": "2026-09-01T07:52:00+00:00"
+  },
+  {
+   "t": "Wahlkampf in Ostdeutschland: Merz zieht Grenzen zur Linken und wird ausgepfiffen",
+   "s": "Bundeskanzler lehnt eine direkte Regierungsbeteiligung der Linken ab und warnt vor Wutbürgern. Beim Wahlkampfauftritt an der Ostsee wird er ausgepfiffen.",
+   "u": "https://taz.de/Wahlkampf-in-Ostdeutschland/!6209030/",
+   "q": "taz",
+   "d": "2026-09-01T06:57:00+00:00"
+  },
+  {
+   "t": "Nach Blockaden gegen AfD in Erfurt: Bleibt Antifaschismus gemeinnützig?",
+   "s": "Die VVN-BdA unterstützte die Blockaden gegen die AfD. Nach rechten Medienberichten will die Finanzverwaltung die Gemeinnützigkeit des Vereins prüfen.",
+   "u": "https://taz.de/Nach-Blockaden-gegen-AfD-in-Erfurt/!6209014/",
+   "q": "taz",
+   "d": "2026-09-01T06:40:00+00:00"
+  },
+  {
+   "t": "Radikales AfD-Netzwerk: Der Sunnyboy des Rechtsextremismus",
+   "s": "Ulrich Siegmund will in Sachsen-Anhalt AfD-Ministerpräsident werden. Wie radikal würde er regieren? Sein Werdegang und sein Umfeld geben Aufschluss.",
+   "u": "https://taz.de/Radikales-AfD-Netzwerk/!6208708/",
+   "q": "taz",
+   "d": "2026-09-01T05:13:00+00:00"
+  },
+  {
+   "t": "Wohnprojekt in Halle: Ein Spagat zwischen Selbstorganisation und Stadtrat",
+   "s": "Ingeborg Bauer half dabei, dass eine linke Initiative ein Wohnprojekt in Halle kaufen kann. Dieser Abschluss vor den Wahlen sei wichtig gewesen.",
+   "u": "https://taz.de/Wohnprojekt-in-Halle/!6208498/",
+   "q": "taz",
+   "d": "2026-09-01T05:06:00+00:00"
+  },
   {
    "t": "Nahostkonflikt und Linke in Berlin: Yallah, Yallah, rote Linien",
    "s": "Die Linkspartei gerät kurz vor der Berlin-Wahl in Erklärungsnot: Ein antiisraelischer Song bei einer Veranstaltung in Neukölln sorgt für Entsetzen.",
@@ -50,13 +85,6 @@
    "u": "https://taz.de/Finanznot-der-Pflegeversicherung/!6208823/",
    "q": "taz",
    "d": "2026-08-31T15:21:00+00:00"
-  },
-  {
-   "t": "Coesfelder Liste: Die 471 Fälle von Köln",
-   "s": "Die Stadt Köln muss sich wegen einer Liste mit ausreisepflichtigen Personen erklären. Der Vorwurf: Abschiebungen wurden verhindert. Doch der Fall ist komplizierter.",
-   "u": "https://taz.de/Coesfelder-Liste/!6207413/",
-   "q": "taz",
-   "d": "2026-08-31T13:38:00+00:00"
   },
   {
    "t": "Landtagswahl in Nordrhein-Westfalen: Dann eben in die Politik",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/AfD-Regierungsprogramm-in-Sachsen-Anhalt/!6204658/",
    "q": "taz",
    "d": "2026-08-29T07:37:00+00:00"
-  },
-  {
-   "t": "FAQ zu Smart Glasses: Heimlich filmen leicht gemacht",
-   "s": "In Deutschland sind immer mehr Brillen mit eingebauter Kamera in Umlauf. Was der Trend bedeutet und wie man sich gegen heimliche Aufnahmen wehren kann.",
-   "u": "https://taz.de/FAQ-zu-Smart-Glasses/!6204695/",
-   "q": "taz",
-   "d": "2026-08-28T18:06:00+00:00"
-  },
-  {
-   "t": "Wahlkampf nach dem Hitzesommer: Die Grünen wollen baden gehen",
-   "s": "Die Berliner Grünen werden im Wahlkampf von der Linken abgehängt. Am Freitag kommt die Bundesspitze zu Hilfe. Sie wirbt mit Klima und Hitzeschutz.",
-   "u": "https://taz.de/Wahlkampf-nach-dem-Hitzesommer/!6207978/",
-   "q": "taz",
-   "d": "2026-08-28T14:48:00+00:00"
-  },
-  {
-   "t": "Angriff der USA auf die Meinungsfreiheit: Trump-Regierung weitet ihren Angriff auf Europas Linke aus",
-   "s": "Die USA stufen den Anbieter eines Blogdienstes aus Italien als „internationale Terrororganisation“ ein. Auch weitere Gruppen sind betroffen.",
-   "u": "https://taz.de/Angriff-der-USA-auf-die-Meinungsfreiheit/!6207977/",
-   "q": "taz",
-   "d": "2026-08-28T14:31:00+00:00"
-  },
-  {
-   "t": "Klaus-Michael Kühne ist tot: In Hamburg hatte er fast überall seine Finger im Spiel",
-   "s": "In seiner Geburtsstadt zeigte sich der Milliardär Klaus-Michael Kühne gern als Stifter und Mäzen. Seine Steuern aber zahlte er er doch lieber anderswo.",
-   "u": "https://taz.de/Klaus-Michael-Kuehne-ist-tot/!6204690/",
-   "q": "taz",
-   "d": "2026-08-28T12:51:00+00:00"
   }
  ]
 }
