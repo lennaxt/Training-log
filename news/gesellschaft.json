@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-01T08:40:17+00:00",
+ "updated": "2026-09-01T14:09:27+00:00",
  "items": [
+  {
+   "t": "Drohnen auf Leipziger Flughafen: Es steckt wohl Russland dahinter",
+   "s": "Laut Medienberichten macht die Bundesregierung Russland für den versuchten Anschlag in Leipzig verantwortlich. Eine Stellungnahme wird in Kürze erwartet.",
+   "u": "https://taz.de/Drohnen-auf-Leipziger-Flughafen/!6209181/",
+   "q": "taz",
+   "d": "2026-09-01T12:07:00+00:00"
+  },
   {
    "t": "EU-Mercosur-Handelsabkommen: EU setzt Fleischimporte aus Brasilien aus",
    "s": "Die EU-Kommission erklärte, Brasilien müsse nachweisen, ob Exporteure die EU-Vorgaben zum Einsatz von Antibiotika in der Tierhaltung erfüllen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Island-vor-dem-EU-Referendum/!6207748/",
    "q": "taz",
    "d": "2026-08-28T10:33:00+00:00"
-  },
-  {
-   "t": "Politische Gefangene in Belarus: Kleine Schritte zum „Großen Deal“",
-   "s": "Der US-Sondergesandte John Coale hat seit 2025 Hunderte politischer Gefangener aus Belarus geholt. Doch die Verhaftungen dort gehen weiter.",
-   "u": "https://taz.de/Politische-Gefangene-in-Belarus/!6207648/",
-   "q": "taz",
-   "d": "2026-08-28T07:29:00+00:00"
   }
  ]
 }

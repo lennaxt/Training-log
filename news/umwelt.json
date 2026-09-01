@@ -1,13 +1,55 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-01T08:40:16+00:00",
+ "updated": "2026-09-01T14:09:26+00:00",
  "items": [
   {
-   "t": "Wadephul in Tunesien und Algerien: Die neuen Freundschaften haben einen Preis",
-   "s": "Außenminister Wadephul wirbt in Tunis für mehr Zusammenarbeit in den Bereichen Wirtschaft und Sicherheit. Er will aber auch mit nordafrikanischer Hilfe die Migrationszahlen verringern.",
+   "t": "Drohnen auf Leipziger Flughafen: Es steckt wohl Russland dahinter",
+   "s": "Laut Medienberichten macht die Bundesregierung Russland für den versuchten Anschlag in Leipzig verantwortlich. Eine Stellungnahme wird in Kürze erwartet.",
+   "u": "https://taz.de/Drohnen-auf-Leipziger-Flughafen/!6209181/",
+   "q": "taz",
+   "d": "2026-09-01T12:07:00+00:00"
+  },
+  {
+   "t": "Mietenreport: Wohnen wird zum Armutsrisiko",
+   "s": "Die Mieten sind so drastisch gestiegen, dass viele an Essen und Gesundheitsausgaben sparen, sagt der Mieterbund. Er fordert einen bundesweiten Mietenstopp.",
+   "u": "https://taz.de/Mietenreport/!6209069/",
+   "q": "taz",
+   "d": "2026-09-01T12:01:00+00:00"
+  },
+  {
+   "t": "Wahlkampf in Ostdeutschland: Der Kanzler hält sich versteckt",
+   "s": "Kanzler Friedrich Merz reist nach Sachsen-Anhalt und Mecklenburg-Vorpommern, um die dortige CDU im Wahlkampf zu unterstützen. Hat’s geholfen?",
+   "u": "https://taz.de/Merz-und-die-Wahlen-in-Ostdeutschland/!6209036/",
+   "q": "taz",
+   "d": "2026-09-01T11:56:00+00:00"
+  },
+  {
+   "t": "Remonstration: Über die Pflicht, sich Weisungen zu widersetzen",
+   "s": "Deutsche Beamte müssen nicht alles machen, was ihnen aufgetragen wird. In bestimmten Fällen sollten sie remonstrieren. Was das heißt – auch für den Umgang mit der AfD.",
+   "u": "https://taz.de/Remonstration/!6204694/",
+   "q": "taz",
+   "d": "2026-09-01T10:38:00+00:00"
+  },
+  {
+   "t": "Krieg und Frieden: Rüstungswettlauf ohne absehbares Ende",
+   "s": "Abschreckung und Aufrüstung sorgen selten für Frieden, sondern befeuern weitere Eskalation. Wer das verhindern will, muss den Sozialstaat stärken.",
+   "u": "https://taz.de/Krieg-und-Frieden/!6208754/",
+   "q": "taz",
+   "d": "2026-09-01T09:23:00+00:00"
+  },
+  {
+   "t": "Wadephul in Tunesien und Algerien: Erdgas und Wasserstoff ja, Einwanderer nein",
+   "s": "Deutschlands Außenminister wirbt in Tunis für Sicherheitszusammenarbeit und in Algier für Energieexporte. In beiden Ländern empfangen ihn die Staatschefs.",
    "u": "https://taz.de/Wadephul-in-Tunesien-und-Algerien/!6209031/",
    "q": "taz",
    "d": "2026-09-01T07:52:00+00:00"
+  },
+  {
+   "t": "Regieren mit Geldnot: „Villen werden nicht in andere Bundesländer abwandern“",
+   "s": "Was kann ein linker Senat bei einem riesigen Haushaltsloch – wie in Berlin – tun? Zum Beispiel Luxusimmobilien besteuern, meint Finanzexperte Carl Mühlbach.",
+   "u": "https://taz.de/Regieren-mit-Geldnot/!6208736/",
+   "q": "taz",
+   "d": "2026-09-01T07:30:00+00:00"
   },
   {
    "t": "Wahlkampf in Ostdeutschland: Merz zieht Grenzen zur Linken und wird ausgepfiffen",
@@ -17,8 +59,8 @@
    "d": "2026-09-01T06:57:00+00:00"
   },
   {
-   "t": "Nach Blockaden gegen AfD in Erfurt: Bleibt Antifaschismus gemeinnützig?",
-   "s": "Die VVN-BdA unterstützte die Blockaden gegen die AfD. Nach rechten Medienberichten will die Finanzverwaltung die Gemeinnützigkeit des Vereins prüfen.",
+   "t": "Nach Blockaden gegen AfD in Erfurt: Finanzamt zweifelt an Gemeinnützigkeit von Antifaschismus",
+   "s": "Die „Vereinigung der Verfolgten des Naziregimes“ unterstützte die Blockaden gegen die AfD. Nun will die Finanzverwaltung die Gemeinnützigkeit des Vereins prüfen.",
    "u": "https://taz.de/Nach-Blockaden-gegen-AfD-in-Erfurt/!6209014/",
    "q": "taz",
    "d": "2026-09-01T06:40:00+00:00"
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Protest-gegen-Colonia-Dignidad-Arzt/!6208600/",
    "q": "taz",
    "d": "2026-08-30T12:02:00+00:00"
-  },
-  {
-   "t": "Antifaschismus in Sachsen-Anhalt: Wir sind nicht verloren",
-   "s": "Max Schneller ist 17 und lebt in Sachsen-Anhalt. Weil er sich für Demokratie einsetzt, wird er bedroht. Warum er seine Heimat nicht aufgibt.",
-   "u": "https://taz.de/Antifaschismus-in-Sachsen-Anhalt/!6204731/",
-   "q": "taz",
-   "d": "2026-08-30T10:27:00+00:00"
-  },
-  {
-   "t": "Debatte um die Rente mit 63: Schwarz-Rot hätte von der Ampel lernen können",
-   "s": "Das Heizungsgesetz floppte unter anderem, weil sensible Fragen nicht rechtzeitig geklärt waren. Den Fehler wiederholt die Koalition bei der Rente mit 63.",
-   "u": "https://taz.de/Debatte-um-die-Rente-mit-63/!6204805/",
-   "q": "taz",
-   "d": "2026-08-30T08:55:00+00:00"
-  },
-  {
-   "t": "Wahlkampf in Hannover: Im Reich der Mitte",
-   "s": "Die Kommunal­wahlen in Niedersachsen finden wenig Beachtung. Dabei zeigen sie viel. Betrachtungen aus einer Stadt, in der die AfD nicht das größte Problem ist.",
-   "u": "https://taz.de/Wahlkampf-in-Hannover/!6207271/",
-   "q": "taz",
-   "d": "2026-08-29T18:15:00+00:00"
-  },
-  {
-   "t": "Landtagswahl in Sachsen-Anhalt: Sind die Ossis doof oder die Wessis?",
-   "s": "In Sachsen-Anhalt droht eine AfD-Regierung. Doch das eigentliche Problem geht über das Bundesland hinaus. Das liberale Zeitalter ist vorbei.",
-   "u": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6204732/",
-   "q": "taz",
-   "d": "2026-08-29T18:12:00+00:00"
-  },
-  {
-   "t": "Krankschreibung ab dem ersten Tag: Bas bezweifelt Sinn und stellt Bedingungen",
-   "s": "Die geplante Pflicht zur Krankschreibung ab dem ersten Tag geht auf den Wunsch der Union zurück. Arbeitsministerin Bärbel Bas rüttelt jetzt an dem entsprechenden Koalitionsbeschluss.",
-   "u": "https://taz.de/Krankschreibung-ab-dem-ersten-Tag/!6208469/",
-   "q": "taz",
-   "d": "2026-08-29T12:58:00+00:00"
-  },
-  {
-   "t": "AfD-Regierungsprogramm in Sachsen-Anhalt: Angriff auf den Sport",
-   "s": "Die AfD fordert von Sportvereinen für staatliche Förderung ein „glaubhaftes“ Patriotismusbekenntnis. Willkür sind Tür und Tor geöffnet.",
-   "u": "https://taz.de/AfD-Regierungsprogramm-in-Sachsen-Anhalt/!6204658/",
-   "q": "taz",
-   "d": "2026-08-29T07:37:00+00:00"
   }
  ]
 }

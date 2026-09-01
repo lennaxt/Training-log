@@ -1,7 +1,84 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-01T08:40:14+00:00",
+ "updated": "2026-09-01T14:09:25+00:00",
  "items": [
+  {
+   "t": "Brandenburg: Sprengvorrichtung an Umspannwerk gefunden",
+   "s": "In Brandenburg sind in der Nähe des Kraftwerks Jänschwalde Sprengvorrichtungen gefunden worden. Der Kraftwerksbetreiber spricht von einem Anschlag. Für die Bevölkerung besteht laut Polizei keine Gefahr.",
+   "u": "https://www.tagesschau.de/inland/sprengvorrichtung-umspannwerk-brandenburg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T13:34:49+00:00"
+  },
+  {
+   "t": "Verband reicht Klage gegen sogenannte Schienenmaut ein",
+   "s": "Bahnunternehmen und der Verband BSN klagen beim Verwaltungsgericht Köln gegen die Neugestaltung der Schienenmaut im Regionalverkehr. Sie könnte Mehrkosten im Millionenbereich verursachen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/verband-klage-schienenmaut-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T13:25:23+00:00"
+  },
+  {
+   "t": "Marktbericht: Warum fällt der DAX?",
+   "s": "Mit deutlichen Verlusten startet der DAX in den September. Gerade hatte er noch auf Rekordkurs gelegen. Dafür sind heute gleich mehrere negative Faktoren zusammengekommen. Von Detlev Landmesser.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-kursverluste-gruende-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T12:50:59+00:00"
+  },
+  {
+   "t": "Europäische Gaspreise steigen auf Drei-Jahres-Hoch",
+   "s": "Die Gaspreise in Europa ziehen an, auf den höchsten Stand seit drei Jahren. Allein seit August sind die Preise um mehr als 20 Prozent gestiegen. Gleichzeitig sind die Gasspeicher ungewöhnlich leer.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/gas-speicher-preise-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T12:45:58+00:00"
+  },
+  {
+   "t": "Deutsche Post nennt sich nur noch DHL",
+   "s": "Die Deutsche Post AG hat ihren Namenswechsel zu DHL AG umgesetzt. Grund ist die Internationalisierung des Konzerns. Der alte Name bleibt für das Inlandsgeschäft erhalten. Für Verbraucher ändert sich nichts.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/dhl-deutschepost-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T10:38:54+00:00"
+  },
+  {
+   "t": "Mieterbund: 1,4 Millionen Wohnungen fehlen",
+   "s": "Steigende Mieten belasten viele Menschen in Deutschland. Nach einer Umfrage des Mieterbundes hat fast ein Drittel der Mieter Angst, sich den Betrag zukünftig nicht mehr leisten zu können. Gleichzeitig fehlt das Geld an anderer Stelle.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/mehr-als-eine-million-wohnungen-fehlen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T09:47:42+00:00"
+  },
+  {
+   "t": "Wie schwer sich Künstliche Intelligenz noch mit Dialekten tut",
+   "s": "An so manchen Dingen scheitert Künstliche Intelligenz bislang. Wenn Dialektsprecher mit Spracherkennungs-KI interagieren, kommt es oft zu kuriosen Missverständnissen. Ein Forschungsprojekt in Bayern will das ändern. Von Hermann Scholz.",
+   "u": "https://www.tagesschau.de/wissen/forschung/kuenstliche-intelligenz-dialekt-bayrisch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T09:41:48+00:00"
+  },
+  {
+   "t": "Ruheständler im Osten haben weniger Eigentum und kleineres Einkommen",
+   "s": "Die Vermögensungleichheit zwischen Ost und West hält an. In den östlichen Bundesländern haben Ruheständler geringere Einkommen und leben seltener in der eigenen Immobilie als im Westen.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/ruhestaendler-ost-west-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T09:28:42+00:00"
+  },
+  {
+   "t": "Abnehmspritze Wegovy auch als Pille - die Nebenwirkungen bleiben",
+   "s": "Die Abnehmspritze Wegovy bekommt Konkurrenz aus dem eigenen Haus: Der Wirkstoff Semaglutid ist jetzt auch als Tablette erhältlich. Experten warnen vor einem Hype um das vermeintliche Wundermittel. Von Philipp Wundersee.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-abnehmpille-wegovy-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T08:40:38+00:00"
+  },
+  {
+   "t": "Neue US-Studie: Verursachen Abnehmspritzen Haarausfall?",
+   "s": "Viele Diabetes-Medikamente werden auch bei starkem Übergewicht eingesetzt. Eine US-Studie zeigt nun: Bei GLP-1-Mitteln ist das Risiko für Haarausfall höher als bei anderen Medikamenten. Von Doris Tromballa.",
+   "u": "https://www.tagesschau.de/wissen/wissen-abnehmspritze-glp1-haarausfall-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T08:40:33+00:00"
+  },
+  {
+   "t": "John Ternus übernimmt bei Apple",
+   "s": "Tim Cook hat als CEO und \"Gesicht\" von Apple in den vergangenen Jahren den Konzern geprägt. Jetzt übergibt er den Stab an John Ternus. Wer ist der Neue? Von Antje Sieb.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-ceo-ternus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T08:39:52+00:00"
+  },
   {
    "t": "Bundesweites Alkoholverbot in Bahnhöfen: Die wichtigen Kernpunkte",
    "s": "Mehr Ordnung und Sicherheit in allen Bahnhöfen und Zügen: Das will die Bahn mit dem geplanten bundesweiten Alkoholverbot erreichen. Welche Regeln wo gelten sollen und wie weit das Verbot überhaupt umsetzbar ist.",
@@ -22,13 +99,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-ipo-boersengang-hongkong-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T06:27:14+00:00"
-  },
-  {
-   "t": "Marktbericht: Geldpolitik und Ölpreis belasten die Anlegerlaune",
-   "s": "Der anziehende Ölpreis und die Aussicht auf steigende Leitzinsen in den USA und der Eurozone belasten die Stimmung am Markt. Vor frischen Inflationsdaten bleiben die Anleger zurückhaltend.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T05:30:07+00:00"
   },
   {
    "t": "E-Mail-Störung bei Microsoft: Systeme laufen wieder an",
@@ -99,76 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/pflegeversicherung-defizit-ausgaben-100.html",
    "q": "Tagesschau",
    "d": "2026-08-31T11:50:36+00:00"
-  },
-  {
-   "t": "Niedrigwasser und Inflation: Pegelstände runter - Preise rauf?",
-   "s": "Langsam normalisiert sich der Wasserstand des Rhein, der auch eine wichtige Transportroute ist. Rechtzeitig genug, damit ein Preisschock ausbleibt? Von Axel John.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-niedrigwasser-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T10:44:03+00:00"
-  },
-  {
-   "t": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
-   "s": "Geld für Straßen, Züge, Energie und sogar den Trevi-Brunnen: Mit den Corona-Hilfen der EU investiert Italien in vielen Feldern. Das Wiederaufbauprogramm läuft nun aus. War es ein Erfolg? Experten sind skeptisch. Von N. Nützel.",
-   "u": "https://www.tagesschau.de/ausland/europa/wiederaufbauprogramm-italien-102.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T10:28:00+00:00"
-  },
-  {
-   "t": "Rasanter Anstieg bei ausländischen Investitionen in Deutschland",
-   "s": "Deutschland bleibt für ausländische Unternehmen attraktiv - ihre Direktinvestitionen sind einer Studie zufolge im vergangenen Jahr deutlich gestiegen. Allerdings hat sich verändert, woher das Geld kommt.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/iw-auslaendische-investitionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T09:06:42+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 31.08.2026",
-   "s": "Update Wirtschaft vom 31.08.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1640148.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T08:31:36+00:00"
-  },
-  {
-   "t": "Warum türkische TV-Serien so erfolgreich sind",
-   "s": "Fernsehserien aus der Türkei sind ein Exportschlager. Sie werden weltweit verkauft und erreichen Hunderte Millionen Zuschauer. Am Set herrscht enormer Druck - und auch die Regierung mischt mit. Von Dariush Movahedian.",
-   "u": "https://www.tagesschau.de/wirtschaft/tv-serien-tuerkei-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-30T15:56:19+00:00"
-  },
-  {
-   "t": "Deutschland hat unter G20-Staaten die höchsten Strompreise",
-   "s": "Seit Langem beklagen Wirtschaftsverbände den im internationalen Vergleich hohen Strompreis in Deutschland. Eine Analyse des Portals Verivox hat nun ergeben: Unter den G20-Ländern ist Strom hierzulande am teuersten.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschland-strompreise-vergleich-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-30T13:29:59+00:00"
-  },
-  {
-   "t": "Gaming-Branche kämpft trotz Rekordzahlen um Anschluss an Weltspitze",
-   "s": "Die Games-Branche boomt, doch deutsche Studios kämpfen trotz Rekordzahlen um den Anschluss an die Weltspitze. Wo sind die Hürden für heimische Entwickler? Jan Koch zieht Bilanz der Spielemesse Gamescom.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/gamescom-240.html",
-   "q": "Tagesschau",
-   "d": "2026-08-30T05:58:15+00:00"
-  },
-  {
-   "t": "Die irische Biermarke Guinness widersteht dem Brauerei-Sterben",
-   "s": "Auch auf den britischen Inseln geht der Bierkonsum zurück, viele kleine Brauereien müssen schließen. Eine Traditionsmarke aber erlebt einen erstaunlichen Boom: Guinness aus Irland. Von Lisa-Maria Röhling.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/guinness-bier-irland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-29T16:16:37+00:00"
-  },
-  {
-   "t": "Was die energetische Sanierung von Häusern beschleunigen könnte",
-   "s": "Millionen Häuser könnten energetisch saniert werden. Doch Eigenheimbesitzer sind oft zögerlich: Hohe Kosten, unkalkulierbare Risiken und die Aussicht auf monatelange Baustellen schrecken viele ab. Doch muss das sein? Von Andre Kartschall.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/haus-sanierung-tempo-umbau-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-29T06:29:16+00:00"
-  },
-  {
-   "t": "Kevin Warsh: Ein Fed-Chef, der Ungewissheit zulässt",
-   "s": "Die Rede von Fed-Chef Warsh beim jährlichen Notenbanker-Treffen war mit Spannung erwartet worden. Konkrete Hinweise für die nächste Zinsentscheidung blieb er schuldig. Dahinter steckt mehr als bloße Zurückhaltung. Von Anne Schneider.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-warsh-rede-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-28T19:54:08+00:00"
   }
  ]
 }

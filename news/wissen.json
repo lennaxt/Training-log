@@ -1,7 +1,21 @@
 {
  "name": "Wissen",
- "updated": "2026-09-01T08:40:15+00:00",
+ "updated": "2026-09-01T14:09:25+00:00",
  "items": [
+  {
+   "t": "Wie schwer sich Künstliche Intelligenz noch mit Dialekten tut",
+   "s": "An so manchen Dingen scheitert Künstliche Intelligenz bislang. Wenn Dialektsprecher mit Spracherkennungs-KI interagieren, kommt es oft zu kuriosen Missverständnissen. Ein Forschungsprojekt in Bayern will das ändern. Von Hermann Scholz.",
+   "u": "https://www.tagesschau.de/wissen/forschung/kuenstliche-intelligenz-dialekt-bayrisch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T09:41:48+00:00"
+  },
+  {
+   "t": "Neue US-Studie: Verursachen Abnehmspritzen Haarausfall?",
+   "s": "Viele Diabetes-Medikamente werden auch bei starkem Übergewicht eingesetzt. Eine US-Studie zeigt nun: Bei GLP-1-Mitteln ist das Risiko für Haarausfall höher als bei anderen Medikamenten. Von Doris Tromballa.",
+   "u": "https://www.tagesschau.de/wissen/wissen-abnehmspritze-glp1-haarausfall-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T08:40:33+00:00"
+  },
   {
    "t": "Abgebrochener Gletscher vermutlich Ursache für die Sturzflut am Himalaya",
    "s": "Abgebrochener Gletscher vermutlich Ursache für die Sturzflut am Himalaya",
@@ -64,13 +78,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/waldbraende-zombiefeuer-100.html",
    "q": "Tagesschau",
    "d": "2026-08-26T08:38:51+00:00"
-  },
-  {
-   "t": "EU-Klimadienst Copernicus: 21,1 Grad - Weltmeere warm wie nie",
-   "s": "So warm wie am vergangenen Wochenende waren die Weltmeere noch nie. Laut dem EU-Programm Copernicus wurden im Schnitt 21,1 Grad gemessen. Für die Klimaexperten kommt der neue Rekord zu einem ungewöhnlichen Zeitpunkt.",
-   "u": "https://www.tagesschau.de/wissen/weltmeere-rekordtemperatur-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-24T15:15:43+00:00"
   },
   {
    "t": "Wie Apfelbauern mit Hitze und Trockenheit umgehen",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/alzheimer-modelle-hirn-100.html",
    "q": "Tagesschau",
    "d": "2026-08-17T14:57:53+00:00"
-  },
-  {
-   "t": "Neue Erkenntnisse: Wie viel Kaffee ist gesund?",
-   "s": "Bis zu fünf Tassen Kaffee am Tag gelten für die meisten gesunden Erwachsenen als unbedenklich - möglicherweise sogar als gesund. Was die Forschung zu Herz, Diabetes und Pestizidrückständen zeigt. Von Doris Tromballa.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/kaffee-konsum-herz-kreislauf-diabetes-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-15T16:15:34+00:00"
   }
  ]
 }
