@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-01T18:32:07+00:00",
+ "updated": "2026-09-01T23:19:15+00:00",
  "items": [
+  {
+   "t": "Bundesregierung beschuldigt Russland: Kein Krieg, aber Kriegsziel",
+   "s": "Vier Wochen nach dem gescheiterten Sprengstoffanschlag in Leipzig nennt die Bundesregierung Russland als Verantwortlichen. Überrascht ist kaum jemand.",
+   "u": "https://taz.de/Bundesregierung-beschuldigt-Russland/!6209135/",
+   "q": "taz",
+   "d": "2026-09-01T17:07:00+00:00"
+  },
   {
    "t": "Frankreichs extreme Rechte: Le Pen macht Schleierverbot zu ihrem Wahlkampfschlager",
    "s": "Wieder einmal nutzt Marine Le Pen gezielt antiarabische Ressentiments für ihren Wahlkampf. Diesmal fordert sie ein Verhüllungsverbot in der Öffentlichkeit.",
@@ -10,8 +17,8 @@
    "d": "2026-09-01T13:44:00+00:00"
   },
   {
-   "t": "Drohnen auf Leipziger Flughafen: Es steckt wohl Russland dahinter",
-   "s": "Laut Medienberichten macht die Bundesregierung Russland für den versuchten Anschlag in Leipzig verantwortlich. Eine Stellungnahme wird in Kürze erwartet.",
+   "t": "Drohnen auf Leipziger Flughafen: Bundesregierung: Russland steckt hinter Sprengstoff-Drohne",
+   "s": "Die Bundesregierung macht Russland für den versuchten Anschlag in Leipzig verantwortlich. Berlin verhängt deshalb neue Strafmaßnahmen gegen Russland.",
    "u": "https://taz.de/Drohnen-auf-Leipziger-Flughafen/!6209181/",
    "q": "taz",
    "d": "2026-09-01T12:07:00+00:00"
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Nach-Tod-des-Kriegsverbrechers-Mladic/!6207951/",
    "q": "taz",
    "d": "2026-08-28T13:08:00+00:00"
-  },
-  {
-   "t": "Tagebuch aus Kasachstan: Die schwierige Suche nach den Quellen der Vernunft",
-   "s": "Immer mehr Regierungen verstehen nicht mehr, warum Russland den Krieg gegen die Ukraine führt. Wann kommt die Erkenntnis zu Putin?",
-   "u": "https://taz.de/Tagebuch-aus-Kasachstan/!6205345/",
-   "q": "taz",
-   "d": "2026-08-28T10:56:00+00:00"
   }
  ]
 }

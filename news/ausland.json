@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-09-01T18:32:03+00:00",
+ "updated": "2026-09-01T23:19:12+00:00",
  "items": [
+  {
+   "t": "USA und Iran melden erneut heftige Angriffe",
+   "s": "Die USA melden neue Angriffe auf iranische Ziele nahe der Straße von Hormus. Iranische Staatsmedien berichten von zivilen Opfern. Als Reaktion auf die US-Attacken beschoss Iran offenbar Jordanien mit ballistischen Raketen.",
+   "u": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T23:02:44+00:00"
+  },
   {
    "t": "Rückschlag für Finnlands Kampf gegen Wohnungslosigkeit",
    "s": "Finnland galt lange als Vorbild im Kampf gegen Wohnungslosigkeit. Doch nun steigt die Zahl der Obdachlosen wieder. Die konservative Regierung kürzt Sozialleistungen und investiert weniger in sozialen Wohnungsbau. Von A. Bartram.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/kalifornien-highway-1-braende-100.html",
    "q": "Tagesschau",
    "d": "2026-08-31T08:59:16+00:00"
-  },
-  {
-   "t": "Fährunglück vor Nordzypern: Schwere Vorwürfe gegen Schiffsbesatzung",
-   "s": "Nach dem Fährunglück vor der Küste Nordzyperns gibt es Vorwürfe gegen die Crew: Der Kapitän soll von Bord geflüchtet sein, Fluchtwege waren wohl teils versperrt. Die Bergung des Schiffsdatenschreibers soll Aufklärung bringen.",
-   "u": "https://www.tagesschau.de/ausland/europa/nordzypern-faehrunglueck-vorwuerfe-besatzung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T08:01:35+00:00"
   }
  ]
 }

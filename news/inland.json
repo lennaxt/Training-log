@@ -1,7 +1,14 @@
 {
  "name": "Inland",
- "updated": "2026-09-01T18:32:02+00:00",
+ "updated": "2026-09-01T23:19:12+00:00",
  "items": [
+  {
+   "t": "Kurzschlüsse nahe Kohlekraftwerk: Sabotage sollte wohl Blackout auslösen",
+   "s": "In Brandenburg haben Unbekannte mit selbstgebauten Flugkörpern Kurzschlüsse an einer Hochspannungsleitung verursacht. Zu einem Stromausfall kam es nicht, aber Brandenburgs Innenminister warnt: \"Das war kein Kinderstreich.\"",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/sabotage-umspannwerk-brandenburg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T19:09:43+00:00"
+  },
   {
    "t": "Nach der Armeerevolte in Niger: Russland als Neokolonialist",
    "s": "Nigers Militärregime benötigte russische Hilfe, um einen Putschversuch niederzuschlagen. Damit untergräbt es seine eigene Legitimität.",
@@ -10,7 +17,7 @@
    "d": "2026-09-01T17:56:00+00:00"
   },
   {
-   "t": "Anschlagsversuch mit Drohne: \"Bekanntes Muster russischer Operationen\"",
+   "t": "Anschlagsversuch mit Drohnen: \"Bekanntes Muster russischer Operationen\"",
    "s": "Die Spuren des Anschlagversuchs am Flughafen Leipzig/Halle sollen zu sogenannten Wegwerfagenten eines russischen Geheimdienstes führen. Michael Götschenberg erklärt, wie Ermittler und Bundesregierung zu diesem Schluss kamen.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/drohnen-flughafen-bundesregierung-100.html",
    "q": "Tagesschau",
@@ -31,11 +38,25 @@
    "d": "2026-09-01T17:05:00+00:00"
   },
   {
+   "t": "Fasaneninsel - Spanisch-französische Insel als Modell für Frieden",
+   "s": "Die Fasaneninsel im Baskenland gehört abwechselnd zu Frankreich und Spanien. Die Insel ist zwar unbewohnt, doch in ihrer Geschichte sehen Historiker die Anfänge der modernen Diplomatie und ein Vorbild für Friedensschlüsse in der Gegenwart.Detjen, Stephan",
+   "u": "https://www.deutschlandfunk.de/diplomatie-eine-spanisch-franzoesische-insel-als-modell-fuer-frieden-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-01T16:40:00+00:00"
+  },
+  {
    "t": "Russlands Machenschaften in der EU: Tanker, Drohnen, Sprengstoffanschläge",
    "s": "Der Kreml gibt offen zu, dass er Länder, die die Ukraine unterstützen, im Visier hat. Nun will Deutschland bislang nicht genutzte Maßnahmen anwenden.",
    "u": "https://taz.de/Russlands-Machenschaften-in-der-EU/!6209136/",
    "q": "taz",
    "d": "2026-09-01T16:21:00+00:00"
+  },
+  {
+   "t": "Nach Drohnen-Vorfall - Bundesregierung will russische Institutionen schließen",
+   "s": "Nach dem versuchten Anschlag mit einer Sprengstoffdrohne am Flughafen Leipzig/Halle verschärft die Bundesregierung ihren Kurs gegenüber Russland: Das Generalkonsulat in Bonn soll schließen, Einreisekontrollen werden verschärft.Wurzel, Steffen",
+   "u": "https://www.deutschlandfunk.de/berlin-bundesregierung-reagiert-auf-drohnenangriff-leipzig-halle-102.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-01T16:10:40+00:00"
   },
   {
    "t": "Nach Brandanschlag auf Flüchtlingsheim: Zwei Jungnazis wegen Beihilfe zu versuchtem Mord angeklagt",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/drohnen-vorfall-forderungen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T10:29:02+00:00"
-  },
-  {
-   "t": "Pflegekosten-Debatte - Sozialarbeiter Fussek: Gute Pflege heißt Mobilisierung",
-   "s": "Pflegekritiker Claus Fussek prangert eine Versorgung an, die alte Menschen zu früh immobil mache. Menschen würden \"systematisch in die Betten gepflegt\". Im Fokus stehe zu oft das Erzielen eines möglichst hohen Pflegegrades.Heckman, Dirk-Oliver",
-   "u": "https://www.deutschlandfunk.de/pflegenotstand-interview-mit-claus-fussek-sozialarbeiter-und-buchautor-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-01T10:17:00+00:00"
-  },
-  {
-   "t": "Mieterbund: 1,4 Millionen Wohnungen fehlen",
-   "s": "Steigende Mieten belasten viele Menschen in Deutschland. Nach einer Umfrage des Mieterbundes hat fast ein Drittel der Mieter Angst, sich den Betrag zukünftig nicht mehr leisten zu können. Gleichzeitig fehlt das Geld an anderer Stelle.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/mehr-als-eine-million-wohnungen-fehlen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T09:47:42+00:00"
-  },
-  {
-   "t": "Politische Spannungen in Tansania: Vizepräsident Nchimbi abgesetzt und unter Hausarrest",
-   "s": "Der Vizepräsident hatte sich mit Präsidentin Suluhu Hassan überworfen. Tansanias Regierungspartei schafft es nicht, Streit unter dem Deckel zu halten.",
-   "u": "https://taz.de/Politische-Spannungen-in-Tansania/!6209063/",
-   "q": "taz",
-   "d": "2026-09-01T09:26:00+00:00"
   }
  ]
 }
