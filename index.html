@@ -133,6 +133,9 @@
   .yt-cap{font-size:12px;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-mute)}
   .yt-in{width:100%;height:52px;border-radius:12px;border:1.5px solid var(--line);padding:0 16px;font-size:16px;background:var(--paper);color:var(--ink);font-family:inherit;box-sizing:border-box}
   .yt-in:focus{outline:none;border-color:var(--kurs)}
+  .yt-thumb .yt-ext{position:absolute;right:8px;bottom:8px;z-index:2;
+    font:600 10px/1 'Inter',sans-serif;letter-spacing:.08em;text-transform:uppercase;
+    color:#fff;background:rgba(0,0,0,.55);padding:5px 7px;border-radius:6px}
   .yt-thumb{position:relative;display:block;border-radius:12px;overflow:hidden;background:var(--paper-2);aspect-ratio:16/9}
   .yt-thumb img{width:100%;height:100%;object-fit:cover;display:block}
   .yt-play{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;pointer-events:none}
@@ -1014,14 +1017,20 @@
     <div class="plan-sub">Die wichtigsten Wege und Abkürzungen in der App.</div>
     <div class="info-body">
       <div class="guide-item"><h3>Bereich wechseln</h3><p>Oben auf <b>Kraft</b>, das <b>Rad-Symbol</b>, <b>Laufen</b> oder <b>Kurse</b> tippen.</p></div>
+      <div class="guide-item"><h3>Sätze eintragen (Kraft)</h3><p>Eine <b>Übungszeile antippen</b> klappt sie auf — erst dann erscheinen die Felder für Kilo und Wiederholungen. Nochmal tippen klappt sie zu.</p></div>
+      <div class="guide-item"><h3>Übung ändern oder entfernen</h3><p>Eine <b>Übungszeile gedrückt halten</b>: umbenennen, Satzschema ändern oder aus diesem Trainingstag entfernen.</p></div>
       <div class="guide-item"><h3>Training wechseln (Kraft)</h3><p>Auf den großen <b>Buchstaben</b> oben tippen, um zum nächsten Training zu springen.</p></div>
       <div class="guide-item"><h3>Kursart wechseln</h3><p>Auf den <b>Kursnamen</b> oben tippen, um zur nächsten Kursart zu wechseln.</p></div>
       <div class="guide-item"><h3>Einheit abschließen</h3><p>Sätze abhaken, dann unten <b>„Einheit abschließen"</b> antippen. Die Dauer wird automatisch gespeichert.</p></div>
       <div class="guide-item"><h3>Einheit bearbeiten</h3><p>Eine Einheit im <b>Verlauf</b> gedrückt halten, um sie zu bearbeiten oder zu löschen. Einzelne Sätze wischst du nach links weg.</p></div>
+      <div class="guide-item"><h3>Satz rückgängig machen</h3><p>Den <b>Haken</b> einer abgehakten Zeile antippen nimmt den Satz zurück. Er sieht genauso aus wie der Haken zum Abhaken darunter.</p></div>
       <div class="guide-item"><h3>Bereichs-Einstellungen öffnen</h3><p><b>Einstellungen</b> (Logo oben links) öffnen und eine Bereichs-Zeile <b>gedrückt halten</b>.</p></div>
       <div class="guide-item"><h3>Farben &amp; Kartenstil</h3><p>Das <b>Zahnrad</b> oben rechts öffnet die Stile. Auch erreichbar über <b>„Farbe &amp; Stil"</b> in den Bereichs-Einstellungen.</p></div>
       <div class="guide-item"><h3>GPX-Route laden (Rad / Laufen)</h3><p>Im Reiter <b>Training</b> auf <b>„+ GPX-Route hochladen"</b> tippen. Wie du die Datei von Strava bekommst, steht in den Bereichs-Einstellungen unter <b>GPX-Routen</b>.</p></div>
-      <div class="guide-item"><h3>Einheiten planen (Kraft)</h3><p>Im Kraft-Training unten auf <b>„Einheiten verwalten"</b> tippen, um Trainings anzulegen, zu löschen oder umzubenennen.</p></div>
+      <div class="guide-item"><h3>Einheiten planen (Kraft)</h3><p>Im Kraft-Training unten auf <b>„Einheiten verwalten"</b> tippen. Einen <b>freien Buchstaben</b> antippen legt ein Training an, ein <b>belegter</b> schaltet aufs Löschen um — dort steht auch, wie viele erfasste Einheiten mitgehen.</p></div>
+      <div class="guide-item"><h3>Route im Vollbild</h3><p>Im <b>Verlauf</b> auf das <b>Kartenbild</b> einer Fahrt tippen — mit Abspielen und Tempo-Farben.</p></div>
+      <div class="guide-item"><h3>Verlaufskurve neu abspielen</h3><p>Im Reiter <b>Verlaufskurve</b> auf die Kurve tippen.</p></div>
+      <div class="guide-item"><h3>Pausentimer</h3><p>Dauer in den <b>Bereichs-Einstellungen von Kraft</b> unter „Pausentimer" — Regler schieben oder auf die Zahl tippen. Auf 0 startet keine Pause. Läuft sie, beendet <b>„Halten zum Beenden"</b> sie vorzeitig; ein kurzer Tipp reicht bewusst nicht.</p></div>
       <div class="guide-item"><h3>Cloud-Status prüfen</h3><p>Unten in den Einstellungen: <b>„Gesichert um …"</b> bedeutet, deine Daten liegen sicher in der Cloud.</p></div>
     </div>
   </div>
@@ -1823,7 +1832,7 @@ function ytCheck(img){
 const YT_PLAY=`<span class="yt-play"><svg viewBox="0 0 68 48"><path d="M66.5 7.7a8.6 8.6 0 0 0-6-6C55 0 34 0 34 0S13 0 7.5 1.6a8.6 8.6 0 0 0-6 6A90 90 0 0 0 0 24a90 90 0 0 0 1.5 16.3 8.6 8.6 0 0 0 6 6C13 48 34 48 34 48s21 0 26.5-1.6a8.6 8.6 0 0 0 6-6A90 90 0 0 0 68 24a90 90 0 0 0-1.5-16.3z" fill="#f00"/><path d="M27 34.5 45 24 27 13.5z" fill="#fff"/></svg></span>`;
 function ytThumbBlock(url){
   const id=ytId(url);if(!id)return"";
-  return `<a class="yt-thumb" href="${ytWatch(id)}" target="_blank" rel="noopener"><img data-yt="${id}" data-step="max" src="${ytThumbUrl(id,"maxresdefault")}" alt="Video-Vorschau" loading="lazy" onerror="ytFallback(this)" onload="ytCheck(this)">${YT_PLAY}</a>`;
+  return `<a class="yt-thumb" href="${ytWatch(id)}" target="_blank" rel="noopener" aria-label="Video bei YouTube öffnen"><img data-yt="${id}" data-step="max" src="${ytThumbUrl(id,"maxresdefault")}" alt="Video-Vorschau" loading="lazy" onerror="ytFallback(this)" onload="ytCheck(this)">${YT_PLAY}<span class="yt-ext">YouTube \u2197\uFE0E</span></a>`;
 }
 function onYtInput(k){
   updateAct(k);
