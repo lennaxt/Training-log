@@ -1,13 +1,34 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-01T14:09:25+00:00",
+ "updated": "2026-09-01T18:32:04+00:00",
  "items": [
   {
-   "t": "Brandenburg: Sprengvorrichtung an Umspannwerk gefunden",
-   "s": "In Brandenburg sind in der Nähe des Kraftwerks Jänschwalde Sprengvorrichtungen gefunden worden. Der Kraftwerksbetreiber spricht von einem Anschlag. Für die Bevölkerung besteht laut Polizei keine Gefahr.",
-   "u": "https://www.tagesschau.de/inland/sprengvorrichtung-umspannwerk-brandenburg-100.html",
+   "t": "Wirtschaft vor acht vom 01.09.2026",
+   "s": "Wirtschaft vor acht vom 01.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1641172.html",
    "q": "Tagesschau",
-   "d": "2026-09-01T13:34:49+00:00"
+   "d": "2026-09-01T18:24:46+00:00"
+  },
+  {
+   "t": "Erneuerbare Energien: Solar überholt Kohle bei installierter Leistung in China",
+   "s": "China treibt den Ausbau der Photovoltaik voran: Im Juli lag die Leistung aus den Solaranlagen des Landes erstmals über der Leistung der Kohlekraftwerke. Dennoch gehört China mit Abstand zu den größten CO2-Emittenten der Welt.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/china-stromquelle-solar-kohle-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T18:13:14+00:00"
+  },
+  {
+   "t": "Ist der Hype um Shein & Co. vorbei?",
+   "s": "Der chinesische Billig-Onlinehändler Shein verpatzt sein Börsendebut. Die Zeiten des hohen Wachstums scheinen für das Unternehmen vorbei zu sein. Im Fokus von Investoren sind andere Branchen. Von Noel Schmidt.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-temu-online-handel-china-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T17:18:25+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX verliert erneut deutlich",
+   "s": "Steigende Zinsen haben die Anleger zum Start in den September nervös gemacht. Der DAX verliert heute erneut mehr als ein Prozent und fällt unter die Marke von 26.000 Punkten.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T16:33:27+00:00"
   },
   {
    "t": "Verband reicht Klage gegen sogenannte Schienenmaut ein",
@@ -15,13 +36,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/verband-klage-schienenmaut-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T13:25:23+00:00"
-  },
-  {
-   "t": "Marktbericht: Warum fällt der DAX?",
-   "s": "Mit deutlichen Verlusten startet der DAX in den September. Gerade hatte er noch auf Rekordkurs gelegen. Dafür sind heute gleich mehrere negative Faktoren zusammengekommen. Von Detlev Landmesser.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-kursverluste-gruende-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T12:50:59+00:00"
   },
   {
    "t": "Europäische Gaspreise steigen auf Drei-Jahres-Hoch",
@@ -43,13 +57,6 @@
    "u": "https://www.tagesschau.de/inland/gesellschaft/mehr-als-eine-million-wohnungen-fehlen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T09:47:42+00:00"
-  },
-  {
-   "t": "Wie schwer sich Künstliche Intelligenz noch mit Dialekten tut",
-   "s": "An so manchen Dingen scheitert Künstliche Intelligenz bislang. Wenn Dialektsprecher mit Spracherkennungs-KI interagieren, kommt es oft zu kuriosen Missverständnissen. Ein Forschungsprojekt in Bayern will das ändern. Von Hermann Scholz.",
-   "u": "https://www.tagesschau.de/wissen/forschung/kuenstliche-intelligenz-dialekt-bayrisch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T09:41:48+00:00"
   },
   {
    "t": "Ruheständler im Osten haben weniger Eigentum und kleineres Einkommen",
@@ -80,60 +87,11 @@
    "d": "2026-09-01T08:39:52+00:00"
   },
   {
-   "t": "Bundesweites Alkoholverbot in Bahnhöfen: Die wichtigen Kernpunkte",
-   "s": "Mehr Ordnung und Sicherheit in allen Bahnhöfen und Zügen: Das will die Bahn mit dem geplanten bundesweiten Alkoholverbot erreichen. Welche Regeln wo gelten sollen und wie weit das Verbot überhaupt umsetzbar ist.",
-   "u": "https://www.tagesschau.de/inland/bahn-alkoholverbot-faq-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T07:13:47+00:00"
-  },
-  {
-   "t": "Bahn setzt neues Alkoholverbot stufenweise an Bahnhöfen um",
-   "s": "Die Deutsche Bahn setzt das Alkoholverbot an ihren Bahnhöfen weiter um - ab heute etwa am Berliner Hauptbahnhof. Bis Mitte Oktober soll es an 5.400 Bahnhöfen bundesweit gelten. Der Konzern erhofft sich dadurch mehr Sicherheit.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkoholverbot-bahnhoefe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T07:13:47+00:00"
-  },
-  {
-   "t": "Shein startet mit deutlichem Minus an Hongkonger Börse",
-   "s": "Der chinesische Billigmodehändler Shein hat bei seinem Börsengang in Hongkong enttäuscht. Die Aktien fielen um bis zu acht Prozent unter den Ausgabepreis. Schon zuvor war der Hype spürbar zurückgegangen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-ipo-boersengang-hongkong-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T06:27:14+00:00"
-  },
-  {
-   "t": "E-Mail-Störung bei Microsoft: Systeme laufen wieder an",
-   "s": "Ein Fehler in der Cloud-Infrastruktur von Exchange Online hat weltweit für Probleme im E-Mail-Verkehr der Microsoft-Systeme gesorgt. Die Systeme erholen sich - doch nicht alle Nutzer sind schon wieder online.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/microsoft-stoerung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T05:29:08+00:00"
-  },
-  {
    "t": "US-Behörde FTC und Bundesstaaten verklagen Amazon",
    "s": "Mit manipulierten Auktionen für Online-Werbung soll sich Amazon zweistellige Milliardenbeträge erschlichen haben. Das wirft die US-Wettbewerbsbehörder FTC dem Konzern vor - und klagt zusammen mit 22 Bundesstaaten.",
    "u": "https://www.tagesschau.de/ausland/amerika/klage-amazon-werbeeinnahmen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T04:47:47+00:00"
-  },
-  {
-   "t": "Öl-Deal mit den USA: Was das Abkommen für Venezuela bedeutet",
-   "s": "Etwa ein Fünftel des Ölvorkommens Venezuelas soll künftig den USA gehören. Die Vorteile des Deals liegen für Washington auf der Hand. Doch hilft das Abkommen auch der maroden venezolanischen Wirtschaft? Von Jenny Barke.",
-   "u": "https://www.tagesschau.de/ausland/amerika/oel-deal-usa-venezuela-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T00:49:12+00:00"
-  },
-  {
-   "t": "Öl-Deal der USA mit Venezuela: Experten bezweifeln Trumps Versprechen",
-   "s": "Mit seinem Öl-Deal mit Venezuela will US-Präsident Trump die Engpässe im Nahen Osten ausgleichen und für schnell sinkende Benzinpreise in seinem Land sorgen. Doch damit verspricht er zu viel, sagen Experten. Von S. Jackisch.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-deal-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T23:43:53+00:00"
-  },
-  {
-   "t": "Warntag, Steuer, Garantie: Was sich im September ändert",
-   "s": "Nicht erschrecken: Im September gibt es bundesweit Alarm - beim Warntag werden Sirenen und Warn-Apps getestet. Ein neues Label zeigt künftig die Garantiezeit. Und es gibt Vereinfachungen bei Steuerberatungen.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/neuerungen-september-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T17:00:05+00:00"
   },
   {
    "t": "Vor 50 Jahren gab es den ersten Indexfonds für Privatanleger",
@@ -169,6 +127,48 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/pflegeversicherung-defizit-ausgaben-100.html",
    "q": "Tagesschau",
    "d": "2026-08-31T11:50:36+00:00"
+  },
+  {
+   "t": "Niedrigwasser und Inflation: Pegelstände runter - Preise rauf?",
+   "s": "Langsam normalisiert sich der Wasserstand des Rhein, der auch eine wichtige Transportroute ist. Rechtzeitig genug, damit ein Preisschock ausbleibt? Von Axel John.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-niedrigwasser-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T10:44:03+00:00"
+  },
+  {
+   "t": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
+   "s": "Geld für Straßen, Züge, Energie und sogar den Trevi-Brunnen: Mit den Corona-Hilfen der EU investiert Italien in vielen Feldern. Das Wiederaufbauprogramm läuft nun aus. War es ein Erfolg? Experten sind skeptisch. Von N. Nützel.",
+   "u": "https://www.tagesschau.de/ausland/europa/wiederaufbauprogramm-italien-102.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T10:28:00+00:00"
+  },
+  {
+   "t": "Rasanter Anstieg bei ausländischen Investitionen in Deutschland",
+   "s": "Deutschland bleibt für ausländische Unternehmen attraktiv - ihre Direktinvestitionen sind einer Studie zufolge im vergangenen Jahr deutlich gestiegen. Allerdings hat sich verändert, woher das Geld kommt.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/iw-auslaendische-investitionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T09:06:42+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 31.08.2026",
+   "s": "Update Wirtschaft vom 31.08.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1640148.html",
+   "q": "Tagesschau",
+   "d": "2026-08-31T08:31:36+00:00"
+  },
+  {
+   "t": "Warum türkische TV-Serien so erfolgreich sind",
+   "s": "Fernsehserien aus der Türkei sind ein Exportschlager. Sie werden weltweit verkauft und erreichen Hunderte Millionen Zuschauer. Am Set herrscht enormer Druck - und auch die Regierung mischt mit. Von Dariush Movahedian.",
+   "u": "https://www.tagesschau.de/wirtschaft/tv-serien-tuerkei-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-30T15:56:19+00:00"
+  },
+  {
+   "t": "Smartes Kinderspielzeug - Wer kontrolliert den KI-Teddy?",
+   "s": "Kuscheltiere und Puppen lernen dank generativer KI sprechen. Doch erste Tests zeigen: Was Kindern Spaß macht, kann sie auch verstören und manipulieren.",
+   "u": "https://www.deutschlandfunk.de/spielzeug-ki-kinder-gefahren-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-30T14:16:00+00:00"
   }
  ]
 }

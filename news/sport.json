@@ -1,7 +1,21 @@
 {
  "name": "Sport",
- "updated": "2026-09-01T14:09:30+00:00",
+ "updated": "2026-09-01T18:32:09+00:00",
  "items": [
+  {
+   "t": "Flutkatastrophe in Nepal: „Der Gestank verwesender Leichen liegt in der Luft“",
+   "s": "Anhand von Fotos müssen Menschen in Nepal ihre vermissten Angehörigen identifizieren. Den Krankenhäusern geht der Lagerraum für die vielen Toten aus.",
+   "u": "https://taz.de/Flutkatastrophe-in-Nepal/!6209109/",
+   "q": "taz",
+   "d": "2026-09-01T15:13:00+00:00"
+  },
+  {
+   "t": "Chinesische Reisediplomatie: Xi Jinpings diplomatische Charmeoffensive",
+   "s": "Während US-Präsident Trump seine Verbündeten verschreckt, weitet Chinas Machthaber Xi seinen globalen Einfluss aus – von Bischkek über Kairo und Delhi nach Washington.",
+   "u": "https://taz.de/Chinesische-Reisediplomatie/!6209084/",
+   "q": "taz",
+   "d": "2026-09-01T14:08:00+00:00"
+  },
   {
    "t": "Flutkatastrophe im Himalaja: Tausende noch immer vermisst",
    "s": "Durch die Flutkatastrophe sind in Nepal und China mehr als 780 Menschen ums Leben gekommen. Der Wiederaufbau der Region wird Milliarden kosten.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Trump-will-weniger-Militaer-in-Suedkorea/!6204979/",
    "q": "taz",
    "d": "2026-08-17T13:43:00+00:00"
-  },
-  {
-   "t": "Südkorea: Trump fährt gemeinsame Militärübungen zurück",
-   "s": "US-Präsident Donald Trump will die gemeinsamen Militärübungen mit Südkorea deutlich zurückfahren.",
-   "u": "https://taz.de/Suedkorea/!6204936/",
-   "q": "taz",
-   "d": "2026-08-17T06:29:00+00:00"
-  },
-  {
-   "t": "5 Jahre Taliban in Afghanistan: Sie schießen auf die Beine",
-   "s": "Vor fünf Jahren übernahmen die Taliban Afghanistan. Besonders drastische Folgen hat das für das Leben von Frauen. Derweil ist die Opposition zersplittert.",
-   "u": "https://taz.de/5-Jahre-Taliban-in-Afghanistan/!6200856/",
-   "q": "taz",
-   "d": "2026-08-15T10:34:00+00:00"
   }
  ]
 }

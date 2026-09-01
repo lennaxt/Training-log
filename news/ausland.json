@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-09-01T14:09:23+00:00",
+ "updated": "2026-09-01T18:32:03+00:00",
  "items": [
+  {
+   "t": "Rückschlag für Finnlands Kampf gegen Wohnungslosigkeit",
+   "s": "Finnland galt lange als Vorbild im Kampf gegen Wohnungslosigkeit. Doch nun steigt die Zahl der Obdachlosen wieder. Die konservative Regierung kürzt Sozialleistungen und investiert weniger in sozialen Wohnungsbau. Von A. Bartram.",
+   "u": "https://www.tagesschau.de/ausland/europa/finnland-kampf-obdachlosigkeit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-01T15:07:36+00:00"
+  },
   {
    "t": "Israels Ex-Vize-Polizeiminister wechselt zu arabischer Partei",
    "s": "Erstmals schließt sich in Israel ein jüdischer Politiker der islamischen Raam-Partei an. Yoav Segalovitz und Raam-Vorsitzender Abbas wollen beweisen, dass jüdisch-arabische Partnerschaft keine Illusion ist. Von Julio Segador.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/nordzypern-faehrunglueck-vorwuerfe-besatzung-100.html",
    "q": "Tagesschau",
    "d": "2026-08-31T08:01:35+00:00"
-  },
-  {
-   "t": "Nach Sturzflut im Himalaya: Kinder allein nach Flut",
-   "s": "Die verheerende Flut in Nepal und Tibet hat mehr als 900 Menschen getötet. Die Überlebenden stehen meist vor dem Nichts - darunter auch viele Kinder. Ihre Rettung verlief dramatisch. Wie geht es für sie weiter? Von Lena Bodewein.",
-   "u": "https://www.tagesschau.de/ausland/asien/nepal-erdrutsch-gerettete-kinder-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T05:50:10+00:00"
   }
  ]
 }

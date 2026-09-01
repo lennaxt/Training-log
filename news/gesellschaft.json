@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-01T14:09:27+00:00",
+ "updated": "2026-09-01T18:32:07+00:00",
  "items": [
+  {
+   "t": "Frankreichs extreme Rechte: Le Pen macht Schleierverbot zu ihrem Wahlkampfschlager",
+   "s": "Wieder einmal nutzt Marine Le Pen gezielt antiarabische Ressentiments für ihren Wahlkampf. Diesmal fordert sie ein Verhüllungsverbot in der Öffentlichkeit.",
+   "u": "https://taz.de/Frankreichs-extreme-Rechte/!6209105/",
+   "q": "taz",
+   "d": "2026-09-01T13:44:00+00:00"
+  },
   {
    "t": "Drohnen auf Leipziger Flughafen: Es steckt wohl Russland dahinter",
    "s": "Laut Medienberichten macht die Bundesregierung Russland für den versuchten Anschlag in Leipzig verantwortlich. Eine Stellungnahme wird in Kürze erwartet.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Tagebuch-aus-Kasachstan/!6205345/",
    "q": "taz",
    "d": "2026-08-28T10:56:00+00:00"
-  },
-  {
-   "t": "Island vor dem EU-Referendum: Eine Insel, zwei Meinungen",
-   "s": "Die Is­län­de­r*in­nen entscheiden, ob ihre Regierung EU-Beitrittsgspräche führen soll. Die einen haben Angst um ihre Fischerei. Die anderen sind überzeugt, dass ihr Land in die Union gehört.",
-   "u": "https://taz.de/Island-vor-dem-EU-Referendum/!6207748/",
-   "q": "taz",
-   "d": "2026-08-28T10:33:00+00:00"
   }
  ]
 }

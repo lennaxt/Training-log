@@ -1,10 +1,31 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-01T14:09:26+00:00",
+ "updated": "2026-09-01T18:32:06+00:00",
  "items": [
   {
-   "t": "Drohnen auf Leipziger Flughafen: Es steckt wohl Russland dahinter",
-   "s": "Laut Medienberichten macht die Bundesregierung Russland für den versuchten Anschlag in Leipzig verantwortlich. Eine Stellungnahme wird in Kürze erwartet.",
+   "t": "Russlands Machenschaften in der EU: Tanker, Drohnen, Sprengstoffanschläge",
+   "s": "Der Kreml gibt offen zu, dass er Länder, die die Ukraine unterstützen, im Visier hat. Nun will Deutschland bislang nicht genutzte Maßnahmen anwenden.",
+   "u": "https://taz.de/Russlands-Machenschaften-in-der-EU/!6209136/",
+   "q": "taz",
+   "d": "2026-09-01T16:21:00+00:00"
+  },
+  {
+   "t": "Nach Brandanschlag auf Flüchtlingsheim: Zwei Jungnazis wegen Beihilfe zu versuchtem Mord angeklagt",
+   "s": "Der Generalbundesanwalt erhebt Anklage gegen zwei Mitglieder der „Letzten Verteidigungswelle“. Die sollen beim Brandanschlag in Schmölln geholfen haben.",
+   "u": "https://taz.de/Nach-Brandanschlag-auf-Fluechtlingsheim/!6209166/",
+   "q": "taz",
+   "d": "2026-09-01T16:02:00+00:00"
+  },
+  {
+   "t": "Grüne Wahlkampfhilfe in Sachsen-Anhalt: Exorzismus mit Özdemir",
+   "s": "Der zweite grüne Ministerpräsident dieser Republik besucht den kleinsten grünen Landesverband der Republik. Was erlebt Cem Özdemir in Wernigerode?",
+   "u": "https://taz.de/Gruene-Wahlkampfhilfe-in-Sachsen-Anhalt/!6209172/",
+   "q": "taz",
+   "d": "2026-09-01T15:15:00+00:00"
+  },
+  {
+   "t": "Drohnen auf Leipziger Flughafen: Bundesregierung: Russland steckt hinter Sprengstoff-Drohne",
+   "s": "Die Bundesregierung macht Russland für den versuchten Anschlag in Leipzig verantwortlich. Berlin verhängt deshalb neue Strafmaßnahmen gegen Russland.",
    "u": "https://taz.de/Drohnen-auf-Leipziger-Flughafen/!6209181/",
    "q": "taz",
    "d": "2026-09-01T12:07:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Bundeskongress-Generation-Deutschland/!6208596/",
    "q": "taz",
    "d": "2026-08-30T18:02:00+00:00"
-  },
-  {
-   "t": "Positionspapier aus der SPD: Kritik an der Kritik",
-   "s": "Die Ruhr-SPD kritisiert Merz und die Reformpläne der Regierung. Nicht alle Genossen sind begeistert: der Brief sei nicht mit der Basis abgestimmt.",
-   "u": "https://taz.de/Positionspapier-aus-der-SPD/!6208563/",
-   "q": "taz",
-   "d": "2026-08-30T13:34:00+00:00"
-  },
-  {
-   "t": "Protest von Geflüchteten in Hamburg: Was bleibt vom Camp Schlachthofstraße?",
-   "s": "Hamburg will die umstrittene Unterkunft bis Ende 2026 schließen – zu spät für den Bewohner, der dort Protest organisiert hatte und nun wieder in Syrien ist.",
-   "u": "https://taz.de/Protest-von-Gefluechteten-in-Hamburg/!6199455/",
-   "q": "taz",
-   "d": "2026-08-30T12:05:00+00:00"
-  },
-  {
-   "t": "Colonia Dignidad: „Sprecht endlich und packt aus!“",
-   "s": "Eine Schlüsselfigur des ehemaligen Sektendorfs Colonia Dignidad lebt heute in Krefeld. Angehörige von Opfern haben dort für Aufklärung demonstriert.",
-   "u": "https://taz.de/Protest-gegen-Colonia-Dignidad-Arzt/!6208600/",
-   "q": "taz",
-   "d": "2026-08-30T12:02:00+00:00"
   }
  ]
 }
