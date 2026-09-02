@@ -128,9 +128,11 @@ Artifact-Link in der Sitzung). Entschieden ist:
 - **Glas:** Liquid-Glass-Linse (eingerückt, harter Lichtsaum), nur fürs Icon.
   Die App selbst bleibt farblich schlicht — ein Glas-Umbau der ganzen App wäre
   wegen `backdrop-filter`-Last auf dem iPhone und der Lesbarkeit nicht ohne Risiko.
-- **Favoriten:** „Grundform" (blasser Berg, volle Schneekappe),
-  „Kontur mit Schnee" (Umrisslinie außen, Kappe gefüllt) und
-  „Schnee als Umriss" (alles Linie, auch die Kappe).
+- **Favoriten (engere Auswahl):** „Grundform" (blasser Berg, volle Schneekappe),
+  „Kontur mit Schnee" (Umrisslinie außen, Kappe gefüllt), „Schnee als Umriss"
+  (alles Linie, auch die Kappe) und „Balkenberg" (sieben Balken, deren Höhe den
+  Gipfel bildet — das Trainingsvolumen selbst wird zum Berg).
+  Alle vier zusammen in `entwuerfe/icon-auswahl.html`.
 - **Offen:** Die Kopfzeilen-Marke (`#brandMark`) wird nach dem Login mit dem
   **Anfangsbuchstaben des Nutzers** überschrieben (`index.html`, Auth-Zweig).
   Ein Berg-Symbol dort ersetzt diese Initiale oder muss neben ihr leben —
