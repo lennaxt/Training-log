@@ -1,0 +1,281 @@
+<title>T wie Trainingslog</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=Bodoni+Moda:wght@700&family=Instrument+Serif&family=Young+Serif&family=Playfair+Display:wght@700;900&family=Archivo+Black&family=Anton&family=Oswald:wght@600&family=Space+Grotesk:wght@700&family=Syne:wght@800&family=Alfa+Slab+One&family=Zilla+Slab:wght@700&family=JetBrains+Mono:wght@700&family=IBM+Plex+Mono:wght@600&family=Unbounded:wght@700&family=Bricolage+Grotesque:opsz,wght@12..96,800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#FBF7F0; --paper-2:#FFFFFF; --stage:#F1EBE1;
+  --ink:#2E2C28; --ink-soft:#6F6B62; --ink-faint:#A8A399;
+  --line:rgba(46,44,40,0.13);
+  --olive:#5C6B33; --amber:#DC851F; --blue:#2E6DA4; --pink:#B5537E;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#1E1D1C; --paper-2:#262523; --stage:#2A2927;
+    --ink:#EDEBE6; --ink-soft:#A39F97; --ink-faint:#75716A;
+    --line:rgba(255,255,255,0.14);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#1E1D1C; --paper-2:#262523; --stage:#2A2927;
+  --ink:#EDEBE6; --ink-soft:#A39F97; --ink-faint:#75716A;
+  --line:rgba(255,255,255,0.14);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font-family:'Inter',system-ui,sans-serif;font-size:15px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.page{max-width:1040px;margin:0 auto;padding:52px 24px 96px}
+.eyebrow{font-size:11px;letter-spacing:0.18em;text-transform:uppercase;color:var(--ink-soft);font-weight:600}
+h1{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:clamp(30px,6vw,44px);
+   letter-spacing:-0.02em;line-height:1.05;margin:12px 0 14px;text-wrap:balance}
+.lede{max-width:62ch;color:var(--ink-soft);font-size:16px;margin:0 0 34px}
+.lede b{color:var(--ink);font-weight:600}
+
+/* ---- Live-Vorschau ---- */
+.preview{background:var(--stage);border-radius:20px;padding:24px 24px 20px;margin-bottom:14px}
+.preview-head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;
+  flex-wrap:wrap;margin-bottom:20px}
+.preview-head .now{font-family:'Fraunces',serif;font-size:22px;font-weight:600;letter-spacing:-0.01em}
+.preview-head .now span{color:var(--ink-faint);font-weight:500}
+.preview-head .cap{font-size:11px;letter-spacing:0.14em;text-transform:uppercase;
+  color:var(--ink-faint);font-weight:600}
+.icons{display:flex;gap:18px;flex-wrap:wrap}
+.slot{width:112px}
+.slot .box{width:112px;height:112px;position:relative}
+.slot .icon{position:absolute;top:0;left:0;transform:scale(0.6222);transform-origin:top left}
+.slot .cap{display:block;font-size:10.5px;letter-spacing:0.08em;text-transform:uppercase;
+  color:var(--ink-faint);font-weight:600;margin-top:10px;line-height:1.35}
+
+/* ---- Icon-Bausteine (aus app-icons.html) ---- */
+.icon{width:180px;height:180px;border-radius:41px;overflow:hidden;position:relative;isolation:isolate;
+  box-shadow:0 10px 24px -12px rgba(30,26,20,0.45),0 2px 5px rgba(30,26,20,0.14)}
+.glyph{display:flex;align-items:center;justify-content:center;height:100%;width:100%;
+  font-family:var(--gf,'Fraunces',Georgia,serif);font-weight:var(--gw,600);
+  letter-spacing:var(--gl,-0.03em)}
+.i-glass{background:radial-gradient(120% 100% at 20% 0%,#7C8F43 0%,#4A5729 55%,#2C3419 100%)}
+.i-glass .blob{position:absolute;border-radius:50%;filter:blur(26px);opacity:.85}
+.i-glass .b1{width:130px;height:130px;left:-30px;top:70px;background:#DC851F}
+.i-glass .b2{width:110px;height:110px;right:-24px;top:-20px;background:#A8C24E}
+.i-glass .lens{position:absolute;inset:26px;border-radius:34px;
+  backdrop-filter:blur(9px) saturate(220%) brightness(1.12);
+  -webkit-backdrop-filter:blur(9px) saturate(220%) brightness(1.12);
+  background:linear-gradient(150deg,rgba(255,255,255,0.34),rgba(255,255,255,0.06) 46%,rgba(255,255,255,0.20));
+  box-shadow:inset 0 1.5px 0 rgba(255,255,255,0.75),inset 0 -2px 3px rgba(255,255,255,0.28),
+             0 10px 20px -10px rgba(0,0,0,0.55)}
+.i-glass .glyph{position:absolute;inset:0;font-size:calc(92px * var(--gs,1));color:#fff;
+  text-shadow:0 2px 5px rgba(20,26,10,0.45)}
+.i-morph{background:linear-gradient(160deg,#FFE9C9 0%,#F6D3D9 52%,#DCE3F2 100%)}
+.i-morph .blob{position:absolute;border-radius:50%;filter:blur(20px)}
+.i-morph .b1{width:120px;height:120px;left:-24px;bottom:-30px;background:#DC851F;opacity:.9}
+.i-morph .b2{width:96px;height:96px;right:-16px;top:-14px;background:#B5537E;opacity:.75}
+.i-morph .b3{width:80px;height:80px;left:56px;top:52px;background:#2E6DA4;opacity:.55}
+.i-morph .pane{position:absolute;inset:22px;border-radius:30px;
+  backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);
+  background:rgba(255,255,255,0.30);border:1.5px solid rgba(255,255,255,0.62);
+  box-shadow:0 8px 22px -12px rgba(60,40,20,0.5)}
+.i-morph .glyph{position:absolute;inset:0;font-size:calc(84px * var(--gs,1));color:rgba(255,255,255,0.96);
+  text-shadow:0 2px 10px rgba(120,70,30,0.35)}
+.i-bento{background:#F3EDE2;padding:13px;display:grid;gap:9px;
+  grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr}
+.i-bento .tile{border-radius:15px;position:relative;overflow:hidden;
+  display:flex;align-items:center;justify-content:center}
+.i-bento .t-kraft{grid-row:span 2;background:#5C6B33}
+.i-bento .t-kraft .glyph{font-size:calc(62px * var(--gs,1));color:#fff}
+.i-bento .t-rad{background:#DC851F}
+.i-bento .t-lauf{background:#2E6DA4}
+.i-bento .dots{display:flex;gap:5px}
+.i-bento .dots i{width:8px;height:8px;border-radius:50%;background:rgba(255,255,255,0.92)}
+.i-bento .wave{width:70%;display:block}
+.i-neu{background:#E9E2D6;display:flex;align-items:center;justify-content:center}
+.i-neu .plate{width:118px;height:118px;border-radius:50%;background:#E9E2D6;
+  box-shadow:9px 9px 18px #C7C0B4,-9px -9px 18px #FFFFFF;
+  display:flex;align-items:center;justify-content:center}
+.i-neu .glyph{font-size:calc(72px * var(--gs,1));color:#8E8878;
+  text-shadow:1.5px 1.5px 2px #FFFFFF,-1.5px -1.5px 2px #C2BBAF}
+.i-neu .ring{position:absolute;inset:20px;border-radius:50%;
+  box-shadow:inset 3px 3px 7px #CFC8BB,inset -3px -3px 7px #FFFFFF}
+.i-dark{background:#161514}
+.i-dark .halo{position:absolute;left:50%;top:52%;width:190px;height:190px;transform:translate(-50%,-50%);
+  border-radius:50%;background:radial-gradient(circle,rgba(220,133,31,0.55) 0%,rgba(92,107,51,0.30) 42%,rgba(0,0,0,0) 70%);
+  filter:blur(6px)}
+.i-dark .ring{position:absolute;inset:31px;border-radius:50%;border:1.5px solid rgba(255,255,255,0.13)}
+.i-dark .glyph{position:absolute;inset:0;font-size:calc(88px * var(--gs,1));
+  background:linear-gradient(170deg,#FFF6E6 0%,#FFC169 48%,#8FA04C 100%);
+  -webkit-background-clip:text;background-clip:text;color:transparent;
+  filter:drop-shadow(0 0 14px rgba(255,167,55,0.45))}
+.i-dark .grain{position:absolute;inset:0;opacity:.16;
+  background:repeating-linear-gradient(115deg,rgba(255,255,255,0.10) 0 1px,rgba(0,0,0,0) 1px 3px)}
+.i-dark .vig{position:absolute;inset:0;
+  background:radial-gradient(circle at 50% 45%,rgba(0,0,0,0) 42%,rgba(0,0,0,0.62) 100%)}
+.i-3d{background:linear-gradient(155deg,#FFB758 0%,#DC851F 46%,#B3660F 100%);
+  display:flex;align-items:center;justify-content:center}
+.i-3d .glyph{font-size:calc(96px * var(--gs,1));color:#FFF8EC;
+  text-shadow:0 2px 0 #C97416,0 4px 0 #BC6C13,0 6px 0 #AE6311,0 8px 0 #9E590E,
+              0 10px 0 #8E500C,0 14px 18px rgba(60,30,0,0.45)}
+.i-3d .shine{position:absolute;inset:0;
+  background:linear-gradient(120deg,rgba(255,255,255,0.42) 0%,rgba(255,255,255,0) 42%)}
+
+/* ---- Schriftmuster ---- */
+.note{color:var(--ink-soft);font-size:13.5px;margin:0 0 34px}
+.group{margin-bottom:38px}
+.group > h2{font-family:'Fraunces',serif;font-size:15px;font-weight:600;letter-spacing:0.02em;
+  color:var(--ink-soft);margin:0 0 4px;text-transform:none}
+.group > p{margin:0 0 16px;font-size:13.5px;color:var(--ink-faint);max-width:60ch}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(178px,1fr));gap:14px}
+.card{background:none;border:1px solid var(--line);border-radius:16px;padding:14px 14px 13px;
+  cursor:pointer;text-align:left;color:inherit;font:inherit;display:flex;flex-direction:column;
+  gap:10px;transition:border-color .18s,background .18s;min-height:44px}
+.card:hover{border-color:var(--ink-faint);background:var(--paper-2)}
+.card:focus-visible{outline:2px solid var(--olive);outline-offset:3px}
+.card[aria-pressed="true"]{border-color:var(--olive);border-width:1.5px;background:var(--paper-2)}
+.card .spec{display:flex;align-items:flex-end;gap:12px}
+.card .big{line-height:0.86;color:var(--ink);font-size:76px}
+.card .tile{width:44px;height:44px;border-radius:11px;background:var(--olive);color:#fff;flex:none;
+  display:flex;align-items:center;justify-content:center;font-size:26px;line-height:1}
+.card .meta{display:flex;flex-direction:column;gap:2px}
+.card .fname{font-size:13px;font-weight:600;letter-spacing:-0.005em}
+.card .fchar{font-size:11.5px;color:var(--ink-soft);line-height:1.35}
+.card .badge{align-self:flex-start;font-size:9.5px;letter-spacing:0.12em;text-transform:uppercase;
+  font-weight:600;color:var(--olive)}
+footer{border-top:1px solid var(--line);padding-top:26px;margin-top:8px}
+footer h2{font-family:'Fraunces',serif;font-size:19px;font-weight:600;margin:0 0 10px}
+footer p{color:var(--ink-soft);max-width:64ch;margin:0 0 10px}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12.5px;
+  background:var(--stage);padding:2px 6px;border-radius:5px;color:var(--ink)}
+</style>
+
+<div class="page">
+  <div class="eyebrow">Trainingslog · Icon-Schrift</div>
+  <h1>T wie Trainingslog</h1>
+  <p class="lede">Sechzehn Schnitte für einen Buchstaben. Tipp auf ein Muster — die sechs Icons oben
+  wechseln sofort mit, denn ein T entscheidet sich nicht im Musterbuch, sondern <b>im Icon</b>.
+  Jede Karte zeigt den Buchstaben groß und daneben klein auf Oliv, so wie er in der Kopfzeile
+  der App stünde.</p>
+
+  <div class="preview" id="prev">
+    <div class="preview-head">
+      <div class="now" id="nowName">Fraunces <span id="nowWeight">600</span></div>
+      <div class="cap">Live-Vorschau</div>
+    </div>
+    <div class="icons">
+      <div class="slot"><div class="box">
+        <div class="icon i-glass"><div class="blob b1"></div><div class="blob b2"></div><div class="lens"></div><div class="glyph">T</div></div>
+      </div><span class="cap">Liquid Glass</span></div>
+      <div class="slot"><div class="box">
+        <div class="icon i-morph"><div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div><div class="pane"></div><div class="glyph">T</div></div>
+      </div><span class="cap">Glassmorphism</span></div>
+      <div class="slot"><div class="box">
+        <div class="icon i-bento"><div class="tile t-kraft"><div class="glyph">T</div></div><div class="tile t-rad"><div class="dots"><i></i><i></i><i></i></div></div><div class="tile t-lauf"><svg class="wave" viewBox="0 0 40 20" fill="none" aria-hidden="true"><path d="M2 14 L10 6 L18 15 L26 4 L38 11" stroke="#fff" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></svg></div></div>
+      </div><span class="cap">Bento</span></div>
+      <div class="slot"><div class="box">
+        <div class="icon i-neu"><div class="ring"></div><div class="plate"><div class="glyph">T</div></div></div>
+      </div><span class="cap">Neumorph</span></div>
+      <div class="slot"><div class="box">
+        <div class="icon i-dark"><div class="halo"></div><div class="ring"></div><div class="glyph">T</div><div class="grain"></div><div class="vig"></div></div>
+      </div><span class="cap">Dark</span></div>
+      <div class="slot"><div class="box">
+        <div class="icon i-3d"><div class="shine"></div><div class="glyph">T</div></div>
+      </div><span class="cap">3D</span></div>
+    </div>
+  </div>
+  <p class="note">Die Größen sind je Schrift schon ausgeglichen — Versalhöhen unterscheiden sich stark,
+  ein fester Wert würde Anton riesig und Unbounded winzig zeigen.</p>
+
+  <div class="group">
+    <h2>Antiqua mit Charakter</h2>
+    <p>Verwandte der jetzigen Fraunces. Serifen geben dem T zwei kräftige Enden — das hilft klein.</p>
+    <div class="grid" id="g1"></div>
+  </div>
+
+  <div class="group">
+    <h2>Grotesk &amp; Kondensiert</h2>
+    <p>Ohne Serifen lebt das T vom Balken. Kondensierte Schnitte wirken sportlich, fast wie Trikotnummern.</p>
+    <div class="grid" id="g2"></div>
+  </div>
+
+  <div class="group">
+    <h2>Slab &amp; Blockig</h2>
+    <p>Serifen so dick wie der Stamm. Füllt die Fläche am stärksten, verträgt Glas und Extrusion gut.</p>
+    <div class="grid" id="g3"></div>
+  </div>
+
+  <div class="group">
+    <h2>Technisch &amp; Eigenwillig</h2>
+    <p>Monospace liest sich nach Messwerten und Stoppuhr; die letzten beiden setzen auf Eigenart statt Neutralität.</p>
+    <div class="grid" id="g4"></div>
+  </div>
+
+  <footer>
+    <h2>Und dann?</h2>
+    <p>Sag mir die Nummer oder den Namen — ich setze die Schrift in alle sechs Icons und schiebe
+    die Größen pro Stil nach. Für die App selbst wäre eine zweite Google-Schrift eine neue
+    Abhängigkeit; fürs Icon-PNG spielt das keine Rolle, weil es einmal gerendert wird. Wenn das T
+    auch in der Kopfzeile (<code>.mark</code>) wechseln soll, frage ich vorher.</p>
+  </footer>
+</div>
+
+<script>
+const FONTS = {
+  g1:[
+    {f:"Fraunces",w:600,s:1.00,c:"Aktuell. Weiche Serifen, warm",badge:"jetzt"},
+    {f:"Bodoni Moda",w:700,s:1.04,c:"Didone: dünn trifft dick, elegant"},
+    {f:"Playfair Display",w:900,s:1.02,c:"Hoher Kontrast, redaktionell"},
+    {f:"Instrument Serif",w:400,s:1.10,c:"Schmal und ruhig, viel Luft"},
+    {f:"Young Serif",w:400,s:1.00,c:"Kräftig, erdig, gedrungen"}
+  ],
+  g2:[
+    {f:"Archivo Black",w:400,s:0.92,c:"Schwer, breit, unübersehbar"},
+    {f:"Anton",w:400,s:1.00,c:"Kondensiert, plakativ, sportlich"},
+    {f:"Oswald",w:600,s:1.04,c:"Schlank kondensiert, Zeitplan-Ton"},
+    {f:"Space Grotesk",w:700,s:0.98,c:"Technisch, leicht eigenwillig"},
+    {f:"Syne",w:800,s:0.98,c:"Ungewöhnliche Proportionen"}
+  ],
+  g3:[
+    {f:"Alfa Slab One",w:400,s:0.90,c:"Massiv, Plakat, sehr präsent"},
+    {f:"Zilla Slab",w:700,s:1.00,c:"Kantige Slabs, sachlich"},
+    {f:"Bricolage Grotesque",w:800,s:0.95,c:"Kompakt mit Ecken und Kanten"}
+  ],
+  g4:[
+    {f:"JetBrains Mono",w:700,s:1.00,c:"Monospace, Werkzeug-Anmutung"},
+    {f:"IBM Plex Mono",w:600,s:1.00,c:"Ruhiger Mono, nüchtern"},
+    {f:"Unbounded",w:700,s:0.88,c:"Breit und geometrisch, laut"}
+  ]
+};
+const prev = document.getElementById("prev");
+const nowName = document.getElementById("nowName");
+const nowWeight = document.getElementById("nowWeight");
+let current = null;
+
+function pick(btn, d){
+  if(current) current.setAttribute("aria-pressed","false");
+  btn.setAttribute("aria-pressed","true");
+  current = btn;
+  prev.style.setProperty("--gf", "'"+d.f+"', Georgia, serif");
+  prev.style.setProperty("--gw", d.w);
+  prev.style.setProperty("--gs", d.s);
+  prev.style.setProperty("--gl", d.f==="Anton"||d.f==="Oswald" ? "0em" : "-0.03em");
+  nowName.firstChild.nodeValue = d.f + " ";
+  nowWeight.textContent = d.w;
+}
+
+Object.entries(FONTS).forEach(([id, list])=>{
+  const wrap = document.getElementById(id);
+  list.forEach(d=>{
+    const b = document.createElement("button");
+    b.className = "card";
+    b.type = "button";
+    b.setAttribute("aria-pressed","false");
+    b.innerHTML =
+      '<div class="spec">'+
+        '<div class="big" style="font-family:\''+d.f+'\',Georgia,serif;font-weight:'+d.w+';font-size:'+Math.round(76*d.s)+'px">T</div>'+
+        '<div class="tile" style="font-family:\''+d.f+'\',Georgia,serif;font-weight:'+d.w+';font-size:'+Math.round(26*d.s)+'px">T</div>'+
+      '</div>'+
+      (d.badge ? '<span class="badge">'+d.badge+'</span>' : '')+
+      '<div class="meta"><span class="fname">'+d.f+' '+d.w+'</span>'+
+      '<span class="fchar">'+d.c+'</span></div>';
+    b.addEventListener("click", ()=>pick(b, d));
+    wrap.appendChild(b);
+    if(d.badge) pick(b, d);
+  });
+});
+</script>
