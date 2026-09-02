@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-09-01T23:19:12+00:00",
+ "updated": "2026-09-02T07:55:55+00:00",
  "items": [
+  {
+   "t": "Verzweifelte Suche nach Vermissten in Nepal dauert an",
+   "s": "Auch eine Woche nach der verheerenden Sturzflut in Nepal und China suchen Rettungskräfte nach Überlebenden - trotz erschütternder Bilder, trotz steigender Opferzahlen. Denn es gibt sie: die Momente, die Hoffnung geben. Von Lena Bodewein.",
+   "u": "https://www.tagesschau.de/ausland/asien/nepal-sturzflut-rettungsarbeiten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T06:56:14+00:00"
+  },
+  {
+   "t": "Russische Desinformation? Fake-Streit zwischen Tschechien und Polen",
+   "s": "Polnische Gebietsansprüche im Grenzgebiet zu Tschechien galten bislang als bedeutungslose Fußnote der Geschichte. Bis es kürzlich hieß, Polen bestehe auf die Rückgabe. Mittlerweile ist klar: Alles frei erfunden. Von Danko Handrick.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-tschechien-gebiet-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T06:50:20+00:00"
+  },
+  {
+   "t": "Mutmaßlichem Kirk-Attentäter droht die Todesstrafe",
+   "s": "Der 23-Jährige, der den ultrarechten US-Aktivisten Charlie Kirk erschossen haben soll, muss sich wegen Mordes verantworten. Die Staatsanwaltschaft legte dar, dass auch weitere Menschen gefährdet waren. Deshalb ist ein Todesurteil möglich. Von Anne Schneider.",
+   "u": "https://www.tagesschau.de/ausland/amerika/charliekirk-mordprozess-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T04:52:43+00:00"
+  },
+  {
+   "t": "Kaputte Regierungsmaschine verhindert Klingbeil-Rückreise",
+   "s": "Das Bundeskabinett will heute die Einkommenssteuerreform auf den Weg bringen. Der zuständige Minister wird nicht dabei sein. Finanzminister Klingbeil sitzt wegen eines kaputten Regierungsjets in den USA fest. Von Philipp Eckstein.",
+   "u": "https://www.tagesschau.de/ausland/amerika/klingbeil-g20-flugbereitschaft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T03:26:40+00:00"
+  },
   {
    "t": "USA und Iran melden erneut heftige Angriffe",
    "s": "Die USA melden neue Angriffe auf iranische Ziele nahe der Straße von Hormus. Iranische Staatsmedien berichten von zivilen Opfern. Als Reaktion auf die US-Attacken beschoss Iran offenbar Jordanien mit ballistischen Raketen.",
@@ -94,13 +122,6 @@
    "d": "2026-08-31T21:09:55+00:00"
   },
   {
-   "t": "Nach Sturzflut im Grand Canyon: Zwei Tote und mehrere Vermisste",
-   "s": "Eine Sturzflut im Grand-Canyon-Nationalpark im Westen der USA hat zwei Menschen getötet, nach 20 weiteren wird noch gesucht. Es ist unklar, ob die Menschen vermisst werden oder ob sie sich woanders aufhalten.",
-   "u": "https://www.tagesschau.de/ausland/amerika/grand-canyon-sturzflut-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T18:57:05+00:00"
-  },
-  {
    "t": "Flut im Himalaya: Hunderte Arbeiter in Wasserkraftwerken eingeschlossen",
    "s": "In Nepal läuft die Suche nach Überlebenden der Flutkatastrophe auf Hochtouren. Im Fokus stehen derzeit Hunderte Arbeiter, die in den Tunneln von Wasserkraftwerken eingeschlossen sind. Die Zahl der Toten stieg auf mehr als 950.",
    "u": "https://www.tagesschau.de/ausland/asien/nepal-flut-erdrutsch-suche-ueberlebende-100.html",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/italien-spanien-ceuta-grenzkontrollen-100.html",
    "q": "Tagesschau",
    "d": "2026-08-31T13:07:15+00:00"
-  },
-  {
-   "t": "Verdächtiger nach Schüssen bei Rave in der Schweiz festgenommen",
-   "s": "Bei Schüssen auf einem Rave im Schweizer Kanton Aargau wurde eine 22-Jährige getötet und fünf weitere Menschen verletzt, darunter auch eine Deutsche. Nun ist ein Verdächtiger festgenommen worden.",
-   "u": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-festnahme-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T12:15:54+00:00"
-  },
-  {
-   "t": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
-   "s": "Geld für Straßen, Züge, Energie und sogar den Trevi-Brunnen: Mit den Corona-Hilfen der EU investiert Italien in vielen Feldern. Das Wiederaufbauprogramm läuft nun aus. War es ein Erfolg? Experten sind skeptisch. Von N. Nützel.",
-   "u": "https://www.tagesschau.de/ausland/europa/wiederaufbauprogramm-italien-102.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T10:28:00+00:00"
-  },
-  {
-   "t": "Abschnitt des Highway 1 wegen Bränden in Kalifornien gesperrt",
-   "s": "Die Küstenstraße ist eine legendäre Route für Touristen aus aller Welt - nun musste der Highway 1 in Kalifornien wegen Bränden gesperrt werden. Es ist auch für die Tourismusbranche ein schwerer Schlag.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kalifornien-highway-1-braende-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T08:59:16+00:00"
   }
  ]
 }

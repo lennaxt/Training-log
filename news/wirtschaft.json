@@ -1,7 +1,28 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-01T23:19:13+00:00",
+ "updated": "2026-09-02T07:55:57+00:00",
  "items": [
+  {
+   "t": "Update Wirtschaft vom 02.09.2026",
+   "s": "Update Wirtschaft vom 02.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1641326.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T07:49:45+00:00"
+  },
+  {
+   "t": "Was hilft gegen die gestiegene Inflation?",
+   "s": "Die Euro-Inflation liegt inzwischen bei 3,3 Prozent. Grund ist vor allem das teure Rohöl als Folge des Iran-Kriegs - ein Dilemma für Europas Notenbanker. Steigen die Preise bald womöglich noch schneller? Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-ezb-renditen-anleihen-preise-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T07:03:04+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX vor weiteren Verlusten",
+   "s": "Das sind keine guten Vorgaben: Angesichts weiterer Angriffe im Persischen Golf und weiter steigenden Ölpreisen sind die asiatischen Märkte eingeknickt. Dem DAX droht der dritte Verlusttag.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-rendite-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T05:38:17+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 01.09.2026",
    "s": "Wirtschaft vor acht vom 01.09.2026",
@@ -22,13 +43,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-temu-online-handel-china-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T17:18:25+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX verliert erneut deutlich",
-   "s": "Steigende Zinsen haben die Anleger zum Start in den September nervös gemacht. Der DAX verliert heute erneut mehr als ein Prozent und fällt unter die Marke von 26.000 Punkten.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T16:33:27+00:00"
   },
   {
    "t": "Verband reicht Klage gegen sogenannte Schienenmaut ein",
@@ -150,25 +164,11 @@
    "d": "2026-08-31T09:06:42+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 31.08.2026",
-   "s": "Update Wirtschaft vom 31.08.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1640148.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T08:31:36+00:00"
-  },
-  {
    "t": "Warum türkische TV-Serien so erfolgreich sind",
    "s": "Fernsehserien aus der Türkei sind ein Exportschlager. Sie werden weltweit verkauft und erreichen Hunderte Millionen Zuschauer. Am Set herrscht enormer Druck - und auch die Regierung mischt mit. Von Dariush Movahedian.",
    "u": "https://www.tagesschau.de/wirtschaft/tv-serien-tuerkei-100.html",
    "q": "Tagesschau",
    "d": "2026-08-30T15:56:19+00:00"
-  },
-  {
-   "t": "Smartes Kinderspielzeug - Wer kontrolliert den KI-Teddy?",
-   "s": "Kuscheltiere und Puppen lernen dank generativer KI sprechen. Doch erste Tests zeigen: Was Kindern Spaß macht, kann sie auch verstören und manipulieren.",
-   "u": "https://www.deutschlandfunk.de/spielzeug-ki-kinder-gefahren-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-30T14:16:00+00:00"
   }
  ]
 }

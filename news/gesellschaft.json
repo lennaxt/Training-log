@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-01T23:19:15+00:00",
+ "updated": "2026-09-02T07:55:59+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Selenskyj warnt Airlines in russischem Luftraum",
+   "s": "Der ukrainische Präsident warnt wegen massiver Droheneinsätze vor Flügen durch Russland. Putin räumt Schäden an 100 Schiffen ein. Drohnenangriff auf Odessa.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6209352/",
+   "q": "taz",
+   "d": "2026-09-02T06:30:00+00:00"
+  },
   {
    "t": "Bundesregierung beschuldigt Russland: Kein Krieg, aber Kriegsziel",
    "s": "Vier Wochen nach dem gescheiterten Sprengstoffanschlag in Leipzig nennt die Bundesregierung Russland als Verantwortlichen. Überrascht ist kaum jemand.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Koenig-Harald-V-gestorben/!6207984/",
    "q": "taz",
    "d": "2026-08-28T14:03:00+00:00"
-  },
-  {
-   "t": "Nach Tod des Kriegsverbrechers Mladić: Zwischen Mythos, Heldentum und Erleichterung",
-   "s": "Der Tod des Kriegsverbrechers Mladić sorgt für heftige Reaktionen. Von einer Entspannung der Lage in Bosnien und Herzegowina kann keine Rede sein.",
-   "u": "https://taz.de/Nach-Tod-des-Kriegsverbrechers-Mladic/!6207951/",
-   "q": "taz",
-   "d": "2026-08-28T13:08:00+00:00"
   }
  ]
 }

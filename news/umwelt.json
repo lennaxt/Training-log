@@ -1,7 +1,35 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-01T23:19:14+00:00",
+ "updated": "2026-09-02T07:55:58+00:00",
  "items": [
+  {
+   "t": "Berlin gibt Moskau die Schuld: Eine Antwort und viele offene Fragen",
+   "s": "Reichen die diplomatischen Antworten der Bundesregierung auf Russland aus? Bereits jetzt gibt es Forderungen nach schärferen Maßnahmen.",
+   "u": "https://taz.de/Berlin-gibt-Moskau-die-Schuld/!6209348/",
+   "q": "taz",
+   "d": "2026-09-02T05:48:00+00:00"
+  },
+  {
+   "t": "Housing-First-Angebote in NRW: Im Kampf gegen die Wohnungsnot",
+   "s": "Nordrhein-Westfalen will Wohnraum ohne Vorbedingungen schaffen. Doch Kritiker aus der Düsseldorfer Obdachlosenhilfe warnen.",
+   "u": "https://taz.de/Housing-First-Angebote-in-NRW/!6209282/",
+   "q": "taz",
+   "d": "2026-09-02T05:40:00+00:00"
+  },
+  {
+   "t": "Großeinsatz der Polizei: Möglicher Anschlag auf Umspannwerk bei Köln",
+   "s": "In der Nacht hat es Störungen bei einem Umspannwerk in Bergheim in NRW gegeben, mehrere Leitungen seien ausgefallen. Die Polizei spricht von einer vorsätzlichen Tat.",
+   "u": "https://taz.de/Grosseinsatz-der-Polizei/!6209349/",
+   "q": "taz",
+   "d": "2026-09-02T05:35:00+00:00"
+  },
+  {
+   "t": "Schulen in Sachsen-Anhalt: Die Haltung bleibt",
+   "s": "In Sachsen-Anhalt will die AfD die Bildungspolitik ändern: Regenbogenfahnen verbieten, Demokratiearbeit kürzen. Was sagen die Schulen dazu?",
+   "u": "https://taz.de/Schulen-in-Sachsen-Anhalt/!6207596/",
+   "q": "taz",
+   "d": "2026-09-02T05:07:00+00:00"
+  },
   {
    "t": "Russlands Machenschaften in der EU: Tanker, Drohnen, Sprengstoffanschläge",
    "s": "Der Kreml gibt offen zu, dass er Länder, die die Ukraine unterstützen, im Visier hat. Nun will Deutschland bislang nicht genutzte Maßnahmen anwenden.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Polizei-in-Sachsen-Anhalt/!6204704/",
    "q": "taz",
    "d": "2026-08-31T15:24:00+00:00"
-  },
-  {
-   "t": "Finanznot der Pflegeversicherung: Pflegekassen brauchen Finanzspritze noch dieses Jahr",
-   "s": "Den Pflegekassen geht es schlechter als gedacht. Um ihre Finanzen zu stabilisieren, brauchen sie bis Jahresende 500 Millionen Euro.",
-   "u": "https://taz.de/Finanznot-der-Pflegeversicherung/!6208823/",
-   "q": "taz",
-   "d": "2026-08-31T15:21:00+00:00"
-  },
-  {
-   "t": "Landtagswahl in Nordrhein-Westfalen: Dann eben in die Politik",
-   "s": "Gynäkologe Joachim Volz kämpft vor Gericht gegen das Abtreibungsverbot seiner Klinik. Nun will er für die Grünen in den NRW-Landtag. Warum?",
-   "u": "https://taz.de/Landtagswahl-in-Nordrhein-Westfalen/!6208590/",
-   "q": "taz",
-   "d": "2026-08-31T13:13:00+00:00"
-  },
-  {
-   "t": "CDU-Spitzenkandidat in Sachsen-Anhalt: Herr Schulze von der CDU",
-   "s": "Die Umfragewerte der CDU sinken. Bei der Landtagswahl in Sachsen-Anhalt steuert sie auf eine Niederlage zu. Was macht Ministerpräsident Schulze dagegen?",
-   "u": "https://taz.de/CDU-Spitzenkandidat-in-Sachsen-Anhalt/!6208542/",
-   "q": "taz",
-   "d": "2026-08-30T18:07:00+00:00"
-  },
-  {
-   "t": "Bundeskongress „Generation Deutschland“: AfD-Jugend liefert Verbotsgründe",
-   "s": "In Magdeburg zeigt sich, dass die AfD mit ihrer Parteijugend eine klar rechtsextreme Organisation integriert hat. Das könnte noch zum Problem werden.",
-   "u": "https://taz.de/Bundeskongress-Generation-Deutschland/!6208596/",
-   "q": "taz",
-   "d": "2026-08-30T18:02:00+00:00"
   }
  ]
 }

@@ -1,7 +1,63 @@
 {
  "name": "Inland",
- "updated": "2026-09-01T23:19:12+00:00",
+ "updated": "2026-09-02T07:55:54+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Irankrieg +++: Neue Angriffe zwischen USA und Iran",
+   "s": "Washington beschießt militärische Ziele in Iran, Teheran US-Ziele und Verbündete in der Region; es gibt Tote. Derweil wird der Ölpreis wieder erhöht.",
+   "u": "https://taz.de/-Nachrichten-im-Iran-Krieg-/!6209355/",
+   "q": "taz",
+   "d": "2026-09-02T07:10:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Selenskyj warnt Airlines in russischem Luftraum",
+   "s": "Der ukrainische Präsident warnt wegen massiver Droheneinsätze vor Flügen durch Russland. Putin räumt Schäden an 100 Schiffen ein. Drohnenangriff auf Odessa.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6209352/",
+   "q": "taz",
+   "d": "2026-09-02T06:30:00+00:00"
+  },
+  {
+   "t": "Berlin gibt Moskau die Schuld: Eine Antwort und viele offene Fragen",
+   "s": "Reichen die diplomatischen Antworten der Bundesregierung auf Russland aus? Bereits jetzt gibt es Forderungen nach schärferen Maßnahmen.",
+   "u": "https://taz.de/Berlin-gibt-Moskau-die-Schuld/!6209348/",
+   "q": "taz",
+   "d": "2026-09-02T05:48:00+00:00"
+  },
+  {
+   "t": "Housing-First-Angebote in NRW: Im Kampf gegen die Wohnungsnot",
+   "s": "Nordrhein-Westfalen will Wohnraum ohne Vorbedingungen schaffen. Doch Kritiker aus der Düsseldorfer Obdachlosenhilfe warnen.",
+   "u": "https://taz.de/Housing-First-Angebote-in-NRW/!6209282/",
+   "q": "taz",
+   "d": "2026-09-02T05:40:00+00:00"
+  },
+  {
+   "t": "Großeinsatz der Polizei: Möglicher Anschlag auf Umspannwerk bei Köln",
+   "s": "In der Nacht hat es Störungen bei einem Umspannwerk in Bergheim in NRW gegeben, mehrere Leitungen seien ausgefallen. Die Polizei spricht von einer vorsätzlichen Tat.",
+   "u": "https://taz.de/Grosseinsatz-der-Polizei/!6209349/",
+   "q": "taz",
+   "d": "2026-09-02T05:35:00+00:00"
+  },
+  {
+   "t": "Schulen in Sachsen-Anhalt: Die Haltung bleibt",
+   "s": "In Sachsen-Anhalt will die AfD die Bildungspolitik ändern: Regenbogenfahnen verbieten, Demokratiearbeit kürzen. Was sagen die Schulen dazu?",
+   "u": "https://taz.de/Schulen-in-Sachsen-Anhalt/!6207596/",
+   "q": "taz",
+   "d": "2026-09-02T05:07:00+00:00"
+  },
+  {
+   "t": "Steuerreform - Klingbeil weist Kritik aus dem Wirtschaftsministerium zurück",
+   "s": "Vor der Kabinettsentscheidung zur Einkommensteuerreform kritisiert Finanzminister Klingbeil (SPD) das CDU-geführte Wirtschaftsministerium. Dessen Forderungen nach Nachbesserungen seien schlechte Kommunikation und belasteten die Regierung.Münchenberg, Jörg",
+   "u": "https://www.deutschlandfunk.de/g20-treffen-interview-lars-klingbeil-spd-bundesfinanzminister-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-02T04:50:09+00:00"
+  },
+  {
+   "t": "Bundesregierung - Drohnenvorfall verändert Deutschlands Russlandpolitik",
+   "s": "Die Bundesregierung macht Russland für den Drohnenvorfall in Leipzig verantwortlich und kündigt Sanktionen an. Politologe Stefan Meister sieht darin einen Paradigmenwechsel. Moskau werde es kaum beeindrucken, für Deutschland sei es dennoch wichtig.Kaess, Christiane",
+   "u": "https://www.deutschlandfunk.de/erkenntnisse-zum-drohnenangriff-in-leipzig-int-dr-stefan-meister-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-01T21:20:33+00:00"
+  },
   {
    "t": "Kurzschlüsse nahe Kohlekraftwerk: Sabotage sollte wohl Blackout auslösen",
    "s": "In Brandenburg haben Unbekannte mit selbstgebauten Flugkörpern Kurzschlüsse an einer Hochspannungsleitung verursacht. Zu einem Stromausfall kam es nicht, aber Brandenburgs Innenminister warnt: \"Das war kein Kinderstreich.\"",
@@ -18,7 +74,7 @@
   },
   {
    "t": "Anschlagsversuch mit Drohnen: \"Bekanntes Muster russischer Operationen\"",
-   "s": "Die Spuren des Anschlagversuchs am Flughafen Leipzig/Halle sollen zu sogenannten Wegwerfagenten eines russischen Geheimdienstes führen. Michael Götschenberg erklärt, wie Ermittler und Bundesregierung zu diesem Schluss kamen.",
+   "s": "Die Spuren des Anschlagsversuchs am Flughafen Leipzig/Halle sollen zu sogenannten Wegwerfagenten eines russischen Geheimdienstes führen. Michael Götschenberg erklärt, wie Ermittler und Bundesregierung zu diesem Schluss kamen.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/drohnen-flughafen-bundesregierung-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T17:54:06+00:00"
@@ -113,62 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-afd-102.html",
    "q": "Tagesschau",
    "d": "2026-09-01T14:51:35+00:00"
-  },
-  {
-   "t": "Chinesische Reisediplomatie: Xi Jinpings diplomatische Charmeoffensive",
-   "s": "Während US-Präsident Trump seine Verbündeten verschreckt, weitet Chinas Machthaber Xi seinen globalen Einfluss aus – von Bischkek über Kairo und Delhi nach Washington.",
-   "u": "https://taz.de/Chinesische-Reisediplomatie/!6209084/",
-   "q": "taz",
-   "d": "2026-09-01T14:08:00+00:00"
-  },
-  {
-   "t": "Bundesregierung ist uneins bei der Einkommensteuerreform",
-   "s": "Die Einkommensteuerreform gilt als eines der großen Projekte der schwarz-roten Koalition. Morgen will sie das Kabinett auf den Weg bringen. Doch innerhalb der Koalition gibt es immer noch Streit darüber. Von Nicole Kohnert.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/einkommensteuer-klingbeil-reiche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T14:03:01+00:00"
-  },
-  {
-   "t": "Frankreichs extreme Rechte: Le Pen macht Schleierverbot zu ihrem Wahlkampfschlager",
-   "s": "Wieder einmal nutzt Marine Le Pen gezielt antiarabische Ressentiments für ihren Wahlkampf. Diesmal fordert sie ein Verhüllungsverbot in der Öffentlichkeit.",
-   "u": "https://taz.de/Frankreichs-extreme-Rechte/!6209105/",
-   "q": "taz",
-   "d": "2026-09-01T13:44:00+00:00"
-  },
-  {
-   "t": "Drohnen auf Leipziger Flughafen: Bundesregierung: Russland steckt hinter Sprengstoff-Drohne",
-   "s": "Die Bundesregierung macht Russland für den versuchten Anschlag in Leipzig verantwortlich. Berlin verhängt deshalb neue Strafmaßnahmen gegen Russland.",
-   "u": "https://taz.de/Drohnen-auf-Leipziger-Flughafen/!6209181/",
-   "q": "taz",
-   "d": "2026-09-01T12:07:00+00:00"
-  },
-  {
-   "t": "Mietenreport: Wohnen wird zum Armutsrisiko",
-   "s": "Die Mieten sind so drastisch gestiegen, dass viele an Essen und Gesundheitsausgaben sparen, sagt der Mieterbund. Er fordert einen bundesweiten Mietenstopp.",
-   "u": "https://taz.de/Mietenreport/!6209069/",
-   "q": "taz",
-   "d": "2026-09-01T12:01:00+00:00"
-  },
-  {
-   "t": "Wahlkampf in Ostdeutschland: Der Kanzler hält sich versteckt",
-   "s": "Kanzler Friedrich Merz reist nach Sachsen-Anhalt und Mecklenburg-Vorpommern, um die dortige CDU im Wahlkampf zu unterstützen. Hat’s geholfen?",
-   "u": "https://taz.de/Merz-und-die-Wahlen-in-Ostdeutschland/!6209036/",
-   "q": "taz",
-   "d": "2026-09-01T11:56:00+00:00"
-  },
-  {
-   "t": "Remonstration: Über die Pflicht, sich Weisungen zu widersetzen",
-   "s": "Deutsche Beamte müssen nicht alles machen, was ihnen aufgetragen wird. In bestimmten Fällen sollten sie remonstrieren. Was das heißt – auch für den Umgang mit der AfD.",
-   "u": "https://taz.de/Remonstration/!6204694/",
-   "q": "taz",
-   "d": "2026-09-01T10:38:00+00:00"
-  },
-  {
-   "t": "Drohnenvorfall: Bundesregierung macht offenbar Russland verantwortlich",
-   "s": "Wer steckt hinter dem Anschlagsversuch am Flughafen Leipzig/Halle? Die Bundesregierung will heute bekanntgeben, wen sie dafür verantwortlich macht. Mehrere Medien berichten, dass es Hinweise auf eine russische Urheberschaft gebe.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/drohnen-vorfall-forderungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T10:29:02+00:00"
   }
  ]
 }
