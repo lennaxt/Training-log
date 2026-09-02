@@ -145,7 +145,12 @@ Artifact-Link in der Sitzung). Entschieden ist:
   ist, steht in den Einstellungen). Der Grund bleibt in jedem Bereich hell — die
   Bereichsfarbe wird nur **beigemischt** (`--markc` + `color-mix` auf `--glass`),
   wie das Blau im App-Icon. Neue Bereichsfarbe heißt also: `--markc` setzen, nie
-  `background` an `.mark` überschreiben.
+  `background` an `.mark` überschreiben. Die Ecken sind mit `border-radius:22.4%`
+  gerundet — derselbe Anteil, den iOS den Icons auf dem Home-Bildschirm gibt.
+- **Farbige Flächen tragen den Lichtverlauf des Icons** (`--sheen`, als
+  `background-image` **über** der Farbe, damit gewählte Akzentfarben durchschlagen).
+  Wer eine farbige Fläche später umfärbt, nimmt `background-color`, nicht die
+  Kurzform `background` — die löscht den Verlauf mit.
 
 ## User
 

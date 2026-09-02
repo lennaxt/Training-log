@@ -177,7 +177,7 @@
         padding-bottom:22px;border-bottom:1px solid var(--line);margin-bottom:22px}
   .brand{display:flex;align-items:center;gap:13px;background:none;border:0;padding:0;color:inherit;font:inherit;cursor:pointer;-webkit-tap-highlight-color:transparent}
   .mark{--markc:var(--green);
-    width:42px;height:42px;flex:none;
+    width:42px;height:42px;flex:none;border-radius:22.4%;
     background:var(--markc);color:#fff;
     background:linear-gradient(150deg,
       color-mix(in srgb,var(--markc) 5%,var(--glass)) 0%,
@@ -442,11 +442,14 @@
   .finishbar .in{width:100%}
   .finishbar-inner{border-top:1px solid var(--line);padding-top:16px}
   .btn-primary{width:100%;border:0;padding:18px;font-weight:600;font-size:15px;
+    background:var(--earth);background-image:var(--sheen);color:#fff;
     cursor:pointer;transition:filter .15s;display:flex;align-items:center;justify-content:center;gap:10px;
     border-radius:12px}
   .btn-primary:active{filter:brightness(.92)}
-  .btn-primary.dayA{background:var(--earth);background-image:var(--sheen);color:#fff}
-  .btn-primary.dayB{background:var(--green);background-image:var(--sheen);color:#fff}
+  body.dayB .btn-primary{background-color:var(--green)}
+  body.catRad .btn-primary{background-color:var(--rad)}
+  body.cat-lauf .btn-primary{background-color:var(--lauf)}
+  body.cat-kurs .btn-primary{background-color:var(--kurs)}
   .btn-primary .n{font-family:'Fraunces',serif;font-weight:400;opacity:.8}
   .btn-discard{width:100%;background:none;border:1.5px solid var(--line);padding:16px;
     font-weight:600;font-size:14px;color:var(--ink-soft);cursor:pointer;transition:.15s;
