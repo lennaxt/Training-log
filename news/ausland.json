@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-02T18:43:59+00:00",
+ "updated": "2026-09-02T23:19:46+00:00",
  "items": [
+  {
+   "t": "Freispruch nach Mord an maltesischer Journalistin Caruana Galizia",
+   "s": "Wer ließ die maltesische Journalistin Daphne Caruana Galizia ermorden? Diese Frage bleibt auch nach fast neun Jahren unbeantwortet. Geschworene sprachen einen Unternehmer vom Vorwurf frei, Drahtzieher des Anschlags gewesen zu sein.",
+   "u": "https://www.tagesschau.de/ausland/europa/freispruch-mord-journalistin-malta-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T22:56:35+00:00"
+  },
+  {
+   "t": "Mehr als 3.000 Tote - WHO-Chef fordert mehr Einsatz gegen Ebola",
+   "s": "WHO-Chef Tedros hat die internationale Gemeinschaft zu mehr Anstrengung bei der Bekämpfung der Ebola-Epidemie aufgefordert. Das Maßnahmenpaket der kongolesischen Regierung müsse schneller finanziert werden.",
+   "u": "https://www.tagesschau.de/ausland/afrika/ebola-who-aufruf-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T20:09:49+00:00"
+  },
   {
    "t": "Ermittlungen nach Tiefflügen über Rugby-Stadion in Südafrika",
    "s": "In Südafrika sind zwei Passagierflugzeuge vor einem Rugby-Spiel nur wenige Meter über die Köpfe der Zuschauer geflogen. Was als Showeinlage geplant war, ging vielen Zuschauern offenbar zu weit. Nun ermittelt die Luftfahrtbehörde.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/afrika/wadephul-tunesien-algerien-reise-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T02:17:52+00:00"
-  },
-  {
-   "t": "Supreme Court: Trump darf Ballsaal im Weißen Haus vorerst weiterbauen",
-   "s": "Der Rechtsstreit um den Bau des Ballsaals am Weißen Haus ist noch nicht abgeschlossen, doch die Arbeiten daran dürfen laut dem Supreme Court weiterlaufen. Damit könnte der Rohbau bereits vor Ende des Verfahrens fertig sein.",
-   "u": "https://www.tagesschau.de/ausland/amerika/weisses-haus-ballsaal-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T02:17:13+00:00"
-  },
-  {
-   "t": "Kein Handys mehr an Frankreichs Schulen - auch nicht in der Oberstufe",
-   "s": "Willkommen zurück - heißt es heute an französischen Schulen. Mit einer Neuerung: Nun gilt für alle Jahrgänge ein Handyverbot, auch für die Oberstufe. Aber wie setzt man das um, wenn die Schulkommunikation digitalisiert wurde? Von Julia Borutta.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-handyverbot-schule-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T02:12:02+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-02T18:44:01+00:00",
+ "updated": "2026-09-02T23:19:47+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 02.09.2026",
+   "s": "Wirtschaft vor acht vom 02.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1641750.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T19:01:54+00:00"
+  },
   {
    "t": "Warum die Zukunft der VW-Werke wohl noch länger ungewiss bleibt",
    "s": "Freitag soll der VW-Aufsichtsrat über den Sparkurs und mögliche Werksschließungen beraten. Doch es gibt viel Streit und Drohkulissen. Ein Kompromiss ist nicht in Sicht - und einigen scheint das ganz recht zu sein. Von A. Deutskens.",
@@ -71,13 +78,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-ezb-renditen-anleihen-preise-100.html",
    "q": "Tagesschau",
    "d": "2026-09-02T07:03:04+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 01.09.2026",
-   "s": "Wirtschaft vor acht vom 01.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1641172.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T18:24:46+00:00"
   },
   {
    "t": "Erneuerbare Energien: Solar überholt Kohle bei installierter Leistung in China",
