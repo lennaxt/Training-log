@@ -1,7 +1,35 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-02T07:55:59+00:00",
+ "updated": "2026-09-02T13:41:28+00:00",
  "items": [
+  {
+   "t": "Selenskyj warnt vor Flügen über Russland: Wie die Ukraine ihre Drohnenangriffe ausweiten will",
+   "s": "Der ukrainische Präsident Selenskyj deutet kommende Angriffe auf die zivile Luftfahrtinfrastruktur an. Reagieren ausländische Airlines darauf, trifft das Russlands Wirtschaft.",
+   "u": "https://taz.de/Selenskyj-warnt-vor-Fluegen-ueber-Russland/!6209421/",
+   "q": "taz",
+   "d": "2026-09-02T12:18:00+00:00"
+  },
+  {
+   "t": "Niederschlagung des Prager Frühlings: Gefährlicher August",
+   "s": "Als der Warschauer Pakt 1968 den Prager Frühling niederschlug, gab es auch in Russland Protest. Unter Putin wurde die Erinnerung daran immer unbequemer.",
+   "u": "https://taz.de/Niederschlagung-des-Prager-Fruehlings/!6209054/",
+   "q": "taz",
+   "d": "2026-09-02T11:41:00+00:00"
+  },
+  {
+   "t": "Referendum in Island: Wirklich nur Fisch? Wieso Island nicht in die EU will",
+   "s": "Nach dem „Nein“ beim Referendum erzählt unsere Korrespondentin von Fischen, Firmen und Desinformationskampagnen. Und davon, was Island zusammenhält.",
+   "u": "https://taz.de/Referendum-in-Island/!6208965/",
+   "q": "taz",
+   "d": "2026-09-02T09:27:00+00:00"
+  },
+  {
+   "t": "Frauenrechte rot-weiß-rot: Kämpfen lernen",
+   "s": "Der Wiener Verein „Nachbarinnen“ fördert isolierte Migrantinnen. Er zeigt, wie Österreich funktioniert und wie Frauen ihre Rechte durchsetzen können.",
+   "u": "https://taz.de/Frauenrechte-rot-weiss-rot/!6209058/",
+   "q": "taz",
+   "d": "2026-09-02T08:18:00+00:00"
+  },
   {
    "t": "+++ Nachrichten im Ukrainekrieg +++: Selenskyj warnt Airlines in russischem Luftraum",
    "s": "Der ukrainische Präsident warnt wegen massiver Droheneinsätze vor Flügen durch Russland. Putin räumt Schäden an 100 Schiffen ein. Drohnenangriff auf Odessa.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Estland-und-der-russische-Angriffskrieg/!6204711/",
    "q": "taz",
    "d": "2026-08-29T18:21:00+00:00"
-  },
-  {
-   "t": "Gefährlicher Tiktok-Trend in Irland: Falsch rum auf der Autobahn – für die Klicks",
-   "s": "In Irland filmen sich Teenager bei Verfolgungsjagden mit der Polizei in gestohlenen Autos und laden die Videos auf Tiktok hoch. Es gab schon Tote.",
-   "u": "https://taz.de/Gefaehrlicher-Tiktok-Trend-in-Irland/!6204703/",
-   "q": "taz",
-   "d": "2026-08-29T11:42:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: Mindestens 37 Tote bei russischem Angriff nahe Kyjiw",
-   "s": "Bei der Drohnenattacke auf ein Dorf kam es zu mehreren Explosionen. Die Staatsanwaltschaft ermittelt nun wegen illegaler Lagerung explosiven Materials.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6208465/",
-   "q": "taz",
-   "d": "2026-08-29T10:24:00+00:00"
-  },
-  {
-   "t": "Referendum über EU-Beitritt in Island: „Ich bin besorgt, was mit Island geschieht“",
-   "s": "Die EU wird wenig Rücksicht auf Interessen von kleinen Mitgliedern wie Island nehmen, glaubt der linke Politiker Mímir Kristjánsson.",
-   "u": "https://taz.de/Referendum-ueber-EU-Beitritt-in-Island/!6207579/",
-   "q": "taz",
-   "d": "2026-08-28T14:27:00+00:00"
-  },
-  {
-   "t": "König Harald V. gestorben: Norwegen trauert um seinen verstorbenen König",
-   "s": "Europas ältester amtierender Monarch war seinem Land ein Anker in unruhigen Zeiten. Auch, als Skandale das Königshaus erschütterten.",
-   "u": "https://taz.de/Koenig-Harald-V-gestorben/!6207984/",
-   "q": "taz",
-   "d": "2026-08-28T14:03:00+00:00"
   }
  ]
 }

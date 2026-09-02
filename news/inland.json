@@ -1,7 +1,84 @@
 {
  "name": "Inland",
- "updated": "2026-09-02T07:55:54+00:00",
+ "updated": "2026-09-02T13:41:24+00:00",
  "items": [
+  {
+   "t": "Einsatz am Umspannwerk in Bergheim: Ermittlungen wegen verfassungsfeindlicher Sabotage",
+   "s": "Nach dem Kurzschluss an einem Umspannwerk bei Köln wird wegen verfassungsfeindlicher Sabotage ermittelt. \"Das war Absicht\", sagte NRW-Innenminister Reul. Inzwischen wurden Abschussvorrichtungen gefunden.",
+   "u": "https://www.tagesschau.de/inland/nrw-umspannwerk-anfangsverdacht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T13:34:07+00:00"
+  },
+  {
+   "t": "Bundesregierung will frühkindliche Bildung stärken",
+   "s": "Mit verpflichtenden Sprach- und Entwicklungstests will Familienministerin Prien insbesondere benachteiligte Kinder besser fördern. Spätestens mit vier Jahren sollen Daten zum Entwicklungsstand der Kinder erhoben werden.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/fruehkindliche-erziehung-bundesregierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T12:25:49+00:00"
+  },
+  {
+   "t": "Selenskyj warnt vor Flügen über Russland: Wie die Ukraine ihre Drohnenangriffe ausweiten will",
+   "s": "Der ukrainische Präsident Selenskyj deutet kommende Angriffe auf die zivile Luftfahrtinfrastruktur an. Reagieren ausländische Airlines darauf, trifft das Russlands Wirtschaft.",
+   "u": "https://taz.de/Selenskyj-warnt-vor-Fluegen-ueber-Russland/!6209421/",
+   "q": "taz",
+   "d": "2026-09-02T12:18:00+00:00"
+  },
+  {
+   "t": "Niederschlagung des Prager Frühlings: Gefährlicher August",
+   "s": "Als der Warschauer Pakt 1968 den Prager Frühling niederschlug, gab es auch in Russland Protest. Unter Putin wurde die Erinnerung daran immer unbequemer.",
+   "u": "https://taz.de/Niederschlagung-des-Prager-Fruehlings/!6209054/",
+   "q": "taz",
+   "d": "2026-09-02T11:41:00+00:00"
+  },
+  {
+   "t": "Forschung bei der Polizei Sachsen-Anhalt: „Ein Beamter sagte, viele Kol­le­g*in­nen fänden die AfD gut“",
+   "s": "Die Soziologin Franziska Sujeba beobachtete die Polizei Sachsen-Anhalt wochenlang bei Einsätzen. Ihre Frage: Wie antisemitisch sind die Beamten?",
+   "u": "https://taz.de/Wie-AfD-nah-ist-die-Polizei-in-Sachsen-Anhalt-Was-eine-Forscherin-herausgefunden-hat/!6204705/",
+   "q": "taz",
+   "d": "2026-09-02T10:51:00+00:00"
+  },
+  {
+   "t": "Leipziger Drohnenvorfall - Warum die Bundesregierung auf Russland zeigt",
+   "s": "Nach Überzeugung der Bundesregierung ist Russland für den versuchten Drohnenanschlag auf den Flughafen Leipzig/Halle Anfang August verantwortlich. Es gebe eine Reihe von Indizien, die auf eine Urheberschaft hinweisen, so Innenminister Dobrindt.",
+   "u": "https://www.deutschlandfunk.de/drohne-flughafen-leipzig-bundesregierung-russland-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-02T10:35:00+00:00"
+  },
+  {
+   "t": "Reform im Kabinett: Das soll sich bei der Einkommensteuer ändern",
+   "s": "Union und SPD wollen ein zentrales Finanzvorhaben auf den Weg bringen - Entlastungen bei der Steuer vor allem für kleinere Einkommen. Wie die konkreten Maßnahmen aussehen und was die Steuerreform bringen soll.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/einkommensteuer-reform-folgen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T09:32:51+00:00"
+  },
+  {
+   "t": "Referendum in Island: Wirklich nur Fisch? Wieso Island nicht in die EU will",
+   "s": "Nach dem „Nein“ beim Referendum erzählt unsere Korrespondentin von Fischen, Firmen und Desinformationskampagnen. Und davon, was Island zusammenhält.",
+   "u": "https://taz.de/Referendum-in-Island/!6208965/",
+   "q": "taz",
+   "d": "2026-09-02T09:27:00+00:00"
+  },
+  {
+   "t": "Landtagswahl in Sachsen-Anhalt: Der Wohlfühlwahlkampf der AfD",
+   "s": "Die AfD weiß, wie man Wähler gewinnt: mit Positivität. Sie verkauft ihre radikale Agenda ohne Radikalität und schafft so eine emotionale Bindung.",
+   "u": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6209082/",
+   "q": "taz",
+   "d": "2026-09-02T08:20:00+00:00"
+  },
+  {
+   "t": "Frauenrechte rot-weiß-rot: Kämpfen lernen",
+   "s": "Der Wiener Verein „Nachbarinnen“ fördert isolierte Migrantinnen. Er zeigt, wie Österreich funktioniert und wie Frauen ihre Rechte durchsetzen können.",
+   "u": "https://taz.de/Frauenrechte-rot-weiss-rot/!6209058/",
+   "q": "taz",
+   "d": "2026-09-02T08:18:00+00:00"
+  },
+  {
+   "t": "Bitterfeld-Wolfen: „Ich bin voll motiviert“",
+   "s": "Janina Hampel organisiert Protest gegen die monatliche AfD-Kundgebung auf dem Marktplatz. Ihren Mut verliert sie auch kurz vor der Wahl nicht.",
+   "u": "https://taz.de/Bitterfeld-Wolfen/!6207133/",
+   "q": "taz",
+   "d": "2026-09-02T08:16:00+00:00"
+  },
   {
    "t": "+++ Nachrichten im Irankrieg +++: Neue Angriffe zwischen USA und Iran",
    "s": "Washington beschießt militärische Ziele in Iran, Teheran US-Ziele und Verbündete in der Region; es gibt Tote. Derweil wird der Ölpreis wieder erhöht.",
@@ -92,83 +169,6 @@
    "u": "https://www.deutschlandfunk.de/kommentare-und-themen-der-woche-156.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-01T17:05:00+00:00"
-  },
-  {
-   "t": "Fasaneninsel - Spanisch-französische Insel als Modell für Frieden",
-   "s": "Die Fasaneninsel im Baskenland gehört abwechselnd zu Frankreich und Spanien. Die Insel ist zwar unbewohnt, doch in ihrer Geschichte sehen Historiker die Anfänge der modernen Diplomatie und ein Vorbild für Friedensschlüsse in der Gegenwart.Detjen, Stephan",
-   "u": "https://www.deutschlandfunk.de/diplomatie-eine-spanisch-franzoesische-insel-als-modell-fuer-frieden-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-01T16:40:00+00:00"
-  },
-  {
-   "t": "Russlands Machenschaften in der EU: Tanker, Drohnen, Sprengstoffanschläge",
-   "s": "Der Kreml gibt offen zu, dass er Länder, die die Ukraine unterstützen, im Visier hat. Nun will Deutschland bislang nicht genutzte Maßnahmen anwenden.",
-   "u": "https://taz.de/Russlands-Machenschaften-in-der-EU/!6209136/",
-   "q": "taz",
-   "d": "2026-09-01T16:21:00+00:00"
-  },
-  {
-   "t": "Nach Drohnen-Vorfall - Bundesregierung will russische Institutionen schließen",
-   "s": "Nach dem versuchten Anschlag mit einer Sprengstoffdrohne am Flughafen Leipzig/Halle verschärft die Bundesregierung ihren Kurs gegenüber Russland: Das Generalkonsulat in Bonn soll schließen, Einreisekontrollen werden verschärft.Wurzel, Steffen",
-   "u": "https://www.deutschlandfunk.de/berlin-bundesregierung-reagiert-auf-drohnenangriff-leipzig-halle-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-01T16:10:40+00:00"
-  },
-  {
-   "t": "Nach Brandanschlag auf Flüchtlingsheim: Zwei Jungnazis wegen Beihilfe zu versuchtem Mord angeklagt",
-   "s": "Der Generalbundesanwalt erhebt Anklage gegen zwei Mitglieder der „Letzten Verteidigungswelle“. Die sollen beim Brandanschlag in Schmölln geholfen haben.",
-   "u": "https://taz.de/Nach-Brandanschlag-auf-Fluechtlingsheim/!6209166/",
-   "q": "taz",
-   "d": "2026-09-01T16:02:00+00:00"
-  },
-  {
-   "t": "Karin Angerer für Bettina Limperg: Stabwechsel am Bundesgerichtshof",
-   "s": "An der Spitze von Deutschlands oberstem Straf- und Zivilgericht gibt es einen Personalwechsel: Karin Angerer übernimmt heute das Amt der Gerichtspräsidentin von Bettina Limperg. Von Antonetta Stephany.",
-   "u": "https://www.tagesschau.de/inland/bundesgerichtshof-praesidentin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T15:48:16+00:00"
-  },
-  {
-   "t": "Sprengvorrichtung an Umspannwerk in Brandenburg gefunden",
-   "s": "In Brandenburg sind in der Nähe des Kraftwerks Jänschwalde Sprengvorrichtungen gefunden worden. Laut Ministerpräsident Woidke war es ein \"Anschlagsversuch\" auf die Stromversorgung. Die Hintergründe sind noch unklar.",
-   "u": "https://www.tagesschau.de/inland/sprengvorrichtung-umspannwerk-brandenburg-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T15:44:44+00:00"
-  },
-  {
-   "t": "Grüne Wahlkampfhilfe in Sachsen-Anhalt: Exorzismus mit Özdemir",
-   "s": "Der zweite grüne Ministerpräsident dieser Republik besucht den kleinsten grünen Landesverband der Republik. Was erlebt Cem Özdemir in Wernigerode?",
-   "u": "https://taz.de/Gruene-Wahlkampfhilfe-in-Sachsen-Anhalt/!6209172/",
-   "q": "taz",
-   "d": "2026-09-01T15:15:00+00:00"
-  },
-  {
-   "t": "Flutkatastrophe in Nepal: „Der Gestank verwesender Leichen liegt in der Luft“",
-   "s": "Anhand von Fotos müssen Menschen in Nepal ihre vermissten Angehörigen identifizieren. Den Krankenhäusern geht der Lagerraum für die vielen Toten aus.",
-   "u": "https://taz.de/Flutkatastrophe-in-Nepal/!6209109/",
-   "q": "taz",
-   "d": "2026-09-01T15:13:00+00:00"
-  },
-  {
-   "t": "Kyjiw unter Beschuss - Luftalarm, Schutzraum, Schulstart",
-   "s": "Seit sechs Tagen immer wieder Luftalarm, Explosionen in der Nacht, Zeit im Luftschutzraum und das ausgerechnet zum Schulstart. Wie lebt Kyjiw mit dieser neuen Gefahr? Und: Seit heute gibt’s die Abnehmpille – ein gutes Geschäft für den Hersteller.Zerback, Sarah",
-   "u": "https://www.deutschlandfunk.de/kyjiw-schulstart-abnehmpille-wegovy-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-01T15:00:00+00:00"
-  },
-  {
-   "t": "Merz setzt Leitplanken für Kooperation mit der Linken",
-   "s": "Das Verhältnis der CDU zur Linken könnte nach der Wahl in Sachsen-Anhalt erneut zu einer zentralen Frage werden. Kanzler Merz schließt eine Zusammenarbeit aus, lässt aber eine Minderheitsregierung mit punktueller Unterstützung der Linken offen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-linke-sachsen-anhalt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T14:53:23+00:00"
-  },
-  {
-   "t": "Landtagswahl in Sachsen-Anhalt: Wie viel Macht hätte eine AfD-Regierung?",
-   "s": "Was könnte eine AfD-Landesregierung in Sachsen-Anhalt tatsächlich durchsetzen? Janos Richter vom Verfassungsblog erklärt, wo sie weitreichende Möglichkeiten hätte, welche Schutzmechanismen greifen - und wo ihre Macht endet.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-afd-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T14:51:35+00:00"
   }
  ]
 }

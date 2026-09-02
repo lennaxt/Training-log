@@ -1,7 +1,56 @@
 {
  "name": "Ausland",
- "updated": "2026-09-02T07:55:55+00:00",
+ "updated": "2026-09-02T13:41:25+00:00",
  "items": [
+  {
+   "t": "Parlament von Estland wählt Madise zur neuen Staatspräsidentin",
+   "s": "Die Juristin Ülle Madise ist zur neuen Staatspräsidentin von Estland gewählt worden. Die Juristin überwachte bisher die Gesetzgebung. Sie sagte, Estland bilde die Frontlinie für die Sicherheit ganz Europas.",
+   "u": "https://www.tagesschau.de/ausland/europa/estland-wahl-staatspraesidentin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T13:40:22+00:00"
+  },
+  {
+   "t": "\"Return to the Land\" in den USA: Eine Gemeinschaft nur für Weiße",
+   "s": "Homosexuelle, Schwarze und Juden sind bei Return to the Land nicht willkommen. Etwa 40 Menschen leben in der Gemeinschaft im US-Bundesstaat Arkansas. Ihr Vorgehen löst Entsetzen aus - und beschäftigt bereits die Gerichte. Von Nina Barth.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-return-to-the-land-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T13:07:32+00:00"
+  },
+  {
+   "t": "Australien: Hohe Steuern auf Zigaretten, boomender Schwarzmarkt",
+   "s": "Rauchen ist teuer, vor allem in Australien. Eine Packung kann dort umgerechnet 40 Euro kosten. Der Schwarzmarkt mit illegal importierten Kippen boomt. Ist die Strategie, Tabak hoch zu besteuern, gescheitert? Von Florian Bahrdt.",
+   "u": "https://www.tagesschau.de/ausland/ozeanien/australien-zigaretten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T13:04:14+00:00"
+  },
+  {
+   "t": "EU-Außenminister senden gemeinsames Signal nach Moskau",
+   "s": "Die EU steht nach dem Anschlagsversuch am Flughafen Leipzig/Halle geeint hinter Deutschland - das wurde beim Außenministertreffen in Irland deutlich. Klare Worte gab es auch in Bezug auf die Unterstützung der Ukraine. Von S. Fritz.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-aussenministertreffen-irland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T13:02:36+00:00"
+  },
+  {
+   "t": "Hybride Angriffe und Anschläge in Tschechien und der Slowakei",
+   "s": "Während Deutschland wegen des Leipziger Drohnenvorfalls Strafen gegen Russland verhängt, ermitteln die Behörden in Tschechien und der Slowakei in ganz ähnlichen Fällen. Auch hier im Fokus: Lieferungen für die Ukraine. Von M. Allweiss.",
+   "u": "https://www.tagesschau.de/ausland/europa/hybride-angriffe-tschechien-slowakei-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T09:57:05+00:00"
+  },
+  {
+   "t": "Nach Drohnenfund in Leipzig: EU berät neue Sanktionen gegen Russland",
+   "s": "Nach dem Anschlagsversuch in Leipzig berät die EU neue Sanktionen gegen Russland. Die Tat weise \"alle Merkmale von staatlich gefördertem Terrorismus\" auf, sagte Chefdiplomatin Kallas. Alle EU-Staaten stünden hinter Deutschland.",
+   "u": "https://www.tagesschau.de/ausland/eu-treffen-russland-leipzig-drohnenvorfall-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T09:56:32+00:00"
+  },
+  {
+   "t": "USA und Iran melden erneut heftige Angriffe",
+   "s": "Die USA melden neue Angriffe auf iranische Ziele nahe der Straße von Hormus. Iranische Staatsmedien berichten von zivilen Opfern. Als Reaktion auf die US-Attacken beschoss Iran offenbar Jordanien mit ballistischen Raketen.",
+   "u": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T09:35:56+00:00"
+  },
   {
    "t": "Verzweifelte Suche nach Vermissten in Nepal dauert an",
    "s": "Auch eine Woche nach der verheerenden Sturzflut in Nepal und China suchen Rettungskräfte nach Überlebenden - trotz erschütternder Bilder, trotz steigender Opferzahlen. Denn es gibt sie: die Momente, die Hoffnung geben. Von Lena Bodewein.",
@@ -29,13 +78,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/klingbeil-g20-flugbereitschaft-100.html",
    "q": "Tagesschau",
    "d": "2026-09-02T03:26:40+00:00"
-  },
-  {
-   "t": "USA und Iran melden erneut heftige Angriffe",
-   "s": "Die USA melden neue Angriffe auf iranische Ziele nahe der Straße von Hormus. Iranische Staatsmedien berichten von zivilen Opfern. Als Reaktion auf die US-Attacken beschoss Iran offenbar Jordanien mit ballistischen Raketen.",
-   "u": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T23:02:44+00:00"
   },
   {
    "t": "Rückschlag für Finnlands Kampf gegen Wohnungslosigkeit",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/nepal-flut-erdrutsch-suche-ueberlebende-100.html",
    "q": "Tagesschau",
    "d": "2026-08-31T17:04:55+00:00"
-  },
-  {
-   "t": "Wadephul in Tunesien und Algerien: Mehr Stabilität - für weniger Migration",
-   "s": "Außenminister Wadephul will bei Besuchen in Tunesien und Algerien für mehr Zusammenarbeit in Wirtschaft und Sicherheit werben. Er sieht dort entscheidende Hebel, um die Migration aus Nordafrika zu verringern.",
-   "u": "https://www.tagesschau.de/ausland/afrika/wadephul-tunesien-algerien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T16:45:31+00:00"
-  },
-  {
-   "t": "\"Europa macht sich abhängig von nicht lupenreinen Demokratien\"",
-   "s": "2023 hat die EU ein Migrationsabkommen mit Tunesien abgeschlossen. Brüssel betrachtet es als Erfolg. Doch die Migrationsforscherin Kohlenberger sieht die Vereinbarung im Interview mit tagesschau24 kritisch.",
-   "u": "https://www.tagesschau.de/ausland/afrika/migration-tunesien-interview-kohlenberger-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T16:44:32+00:00"
-  },
-  {
-   "t": "Griechenlands Feuerwehr: Zwischen Saisonarbeit und Arbeitslosigkeit",
-   "s": "Jedes Jahr löscht die griechische Feuerwehr Tausende Waldbrände, der Job ist gefährlich. Dennoch haben viele bei der nationalen Berufsfeuerwehr nur Saisonverträge - und im Winter keinen Job. Dagegen regt sich nun Protest. Von A. Halder.",
-   "u": "https://www.tagesschau.de/ausland/europa/griechenland-athen-proteste-feuerwehr-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T16:22:52+00:00"
-  },
-  {
-   "t": "Siedlergewalt im Westjordanland: Netanjahu versucht den Balanceakt",
-   "s": "Wegen der Gewalt von Siedlern im Westjordanland steht Premier Netanjahu unter Druck. Nach dem jüngsten Vorfall fand er zwar ungewohnt scharfe Worte. Doch vor den Wahlen will er die Siedlerbewegung keinesfalls verprellen. Von Julia Ley.",
-   "u": "https://www.tagesschau.de/ausland/asien/netanjahu-siedlergewalt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T15:32:56+00:00"
-  },
-  {
-   "t": "USA greifen Iran erneut an",
-   "s": "Einen Monat lang herrschte relative Ruhe am Golf. Nun haben die USA wieder iranische Stellungen angegriffen. Ziel waren nach US-Angaben iranische Raketenwerfer auf der Insel Larak. Teheran antwortete mit Gegenangriffen.",
-   "u": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-gegenangriffe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T13:13:24+00:00"
-  },
-  {
-   "t": "Streit über Ceuta: Italien und Spanien verlängern Grenzkontrollen",
-   "s": "Der Streit zwischen Spanien und Italien nach dem Ansturm auf die Exklave Ceuta dauert an. Beide Staaten verlängerten gegenseitige Grenzkontrollen. Die spanische Regierung erhebt zudem Vorwürfe in Richtung Israel und Russland.",
-   "u": "https://www.tagesschau.de/ausland/europa/italien-spanien-ceuta-grenzkontrollen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T13:07:15+00:00"
   }
  ]
 }

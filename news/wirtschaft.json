@@ -1,7 +1,35 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-02T07:55:57+00:00",
+ "updated": "2026-09-02T13:41:26+00:00",
  "items": [
+  {
+   "t": "KI macht Smartphones, Computer und Konsolen teurer",
+   "s": "KI verteuert technische Produkte wie Smartphones, Notebooks und Spielekonsolen. Denn Chips werden immer mehr zur Mangelware. Das treibt die Preise in die Höhe und sorgt für weniger Auswahl.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/ki-teurer-technik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T13:18:45+00:00"
+  },
+  {
+   "t": "Ryanair senkt Prognose - Luftfahrt unter Kostendruck",
+   "s": "Die Luftfahrtbranche leidet besonders unter der Energiekrise - denn Kerosin ist ein zentraler Kostenfaktor. Der Billigflieger Ryanair ist das jüngste Opfer. Aber die Probleme der Branche sind vielschichtiger.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-luftfahrt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T12:48:13+00:00"
+  },
+  {
+   "t": "Deutsche-Bank-Chef warnt vor Abschottung und Nationalismus",
+   "s": "Deutsche-Bank-Chef Christian Sewing hat vor der Landtagswahl in Sachsen-Anhalt vor dem Aufstieg populistischer Parteien gewarnt. Wirtschaftlich und gesellschaftlich stehe viel auf dem Spiel.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-chef-sewing-warnung-afd-regierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T10:51:01+00:00"
+  },
+  {
+   "t": "Reform im Kabinett: Das soll sich bei der Einkommensteuer ändern",
+   "s": "Union und SPD wollen ein zentrales Finanzvorhaben auf den Weg bringen - Entlastungen bei der Steuer vor allem für kleinere Einkommen. Wie die konkreten Maßnahmen aussehen und was die Steuerreform bringen soll.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/einkommensteuer-reform-folgen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T09:32:51+00:00"
+  },
   {
    "t": "Update Wirtschaft vom 02.09.2026",
    "s": "Update Wirtschaft vom 02.09.2026",
@@ -15,13 +43,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-ezb-renditen-anleihen-preise-100.html",
    "q": "Tagesschau",
    "d": "2026-09-02T07:03:04+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX vor weiteren Verlusten",
-   "s": "Das sind keine guten Vorgaben: Angesichts weiterer Angriffe im Persischen Golf und weiter steigenden Ölpreisen sind die asiatischen Märkte eingeknickt. Dem DAX droht der dritte Verlusttag.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-rendite-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T05:38:17+00:00"
   },
   {
    "t": "Wirtschaft vor acht vom 01.09.2026",
@@ -115,13 +136,6 @@
    "d": "2026-08-31T16:46:46+00:00"
   },
   {
-   "t": "Apfel-Produzenten unter Druck",
-   "s": "Die Apfel-Ernte fällt wegen Frost und Hitze, aber auch aus natürlichen Gründen geringer aus. Obwohl die Preise steigen, haben Obstbauern wenig davon. Sie leiden unter hohen Kosten und scharfer Konkurrenz. Von Klaus-Rainer Jackisch.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/aepfel-ernte-deutschland-apfelsaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T14:43:46+00:00"
-  },
-  {
    "t": "Kommentar zu Krankschreibungen - Die Politik sollte die Idee schnell beerdigen",
    "s": "Bundesarbeitsministerin Bas sollte einen Weg finden, um diese unsinnige Verständigung der Koalition auf ein Attest gleich am ersten Krankheitstag zu stoppen. Diese geplante Attestpflicht ist praxisfern und wird keine Fehlzeit weniger bringen.Von Birgid Becker",
    "u": "https://www.deutschlandfunk.de/kommentar-zu-krankschreibungen-100.html",
@@ -129,46 +143,32 @@
    "d": "2026-08-31T14:38:00+00:00"
   },
   {
-   "t": "Deutsche Inflationsrate steigt auch im August - auf 2,9 Prozent",
-   "s": "Das Leben in Deutschland hat sich im August weiter verteuert. Die Verbraucherpreise lagen zuletzt um 2,9 Prozent über dem Niveau des Vorjahresmonats. Der Grund sind gestiegene Ölpreise und auch das Rhein-Niedrigwasser.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-august-anstieg-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T12:36:46+00:00"
+   "t": "Smartes Kinderspielzeug - Wer kontrolliert den KI-Teddy?",
+   "s": "Kuscheltiere und Puppen lernen dank generativer KI sprechen. Doch erste Tests zeigen: Was Kindern Spaß macht, kann sie auch verstören und manipulieren.",
+   "u": "https://www.deutschlandfunk.de/spielzeug-ki-kinder-gefahren-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-30T14:16:00+00:00"
   },
   {
-   "t": "Pflegekassen im ersten Halbjahr mit 770 Millionen Euro Minus",
-   "s": "Die Pflegekassen haben im ersten Halbjahr ein Minus von 770 Millionen Euro eingefahren. Der Spitzenverband warnt: Schon im Oktober könnten die Einnahmen nicht mehr reichen, um Pflegeleistungen voll zu finanzieren.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/pflegeversicherung-defizit-ausgaben-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T11:50:36+00:00"
+   "t": "Globales Rennen um KI - Europäische Unternehmen punkten durch Spezialisierung",
+   "s": "Europa hat KI-Unternehmen, die global wettbewerbsfähig sind: Mistral, DeepL und Black Forest Labs. Insbesondere Unternehmen nutzen gern KI aus Europa. Ein Grund dafür ist die vergleichsweise strenge KI-Regulierung in der EU.",
+   "u": "https://www.deutschlandfunk.de/ki-kuenstliche-intelligenz-europa-deepl-mistral-digitale-souveraenitaet-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-27T10:00:00+00:00"
   },
   {
-   "t": "Niedrigwasser und Inflation: Pegelstände runter - Preise rauf?",
-   "s": "Langsam normalisiert sich der Wasserstand des Rhein, der auch eine wichtige Transportroute ist. Rechtzeitig genug, damit ein Preisschock ausbleibt? Von Axel John.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-niedrigwasser-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T10:44:03+00:00"
+   "t": "Sechs Monate Irankrieg - Hohe Gewinne dank hoher Spritpreise",
+   "s": "An den Tankstellen steigen die Preise, bei den großen Ölkonzernen die Gewinne. Finanzminister Lars Klingbeil würde die Konzerne daher gern stärker zur Kasse bitten. In Europa hat man damit bereits Erfahrungen gesammelt.",
+   "u": "https://www.deutschlandfunk.de/spritpreise-irankrieg-profit-uebergewinnsteuer-oelkonzerne-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-25T08:55:00+00:00"
   },
   {
-   "t": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
-   "s": "Geld für Straßen, Züge, Energie und sogar den Trevi-Brunnen: Mit den Corona-Hilfen der EU investiert Italien in vielen Feldern. Das Wiederaufbauprogramm läuft nun aus. War es ein Erfolg? Experten sind skeptisch. Von N. Nützel.",
-   "u": "https://www.tagesschau.de/ausland/europa/wiederaufbauprogramm-italien-102.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T10:28:00+00:00"
-  },
-  {
-   "t": "Rasanter Anstieg bei ausländischen Investitionen in Deutschland",
-   "s": "Deutschland bleibt für ausländische Unternehmen attraktiv - ihre Direktinvestitionen sind einer Studie zufolge im vergangenen Jahr deutlich gestiegen. Allerdings hat sich verändert, woher das Geld kommt.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/iw-auslaendische-investitionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T09:06:42+00:00"
-  },
-  {
-   "t": "Warum türkische TV-Serien so erfolgreich sind",
-   "s": "Fernsehserien aus der Türkei sind ein Exportschlager. Sie werden weltweit verkauft und erreichen Hunderte Millionen Zuschauer. Am Set herrscht enormer Druck - und auch die Regierung mischt mit. Von Dariush Movahedian.",
-   "u": "https://www.tagesschau.de/wirtschaft/tv-serien-tuerkei-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-30T15:56:19+00:00"
+   "t": "Viertagewoche in Island - Kürzer arbeiten, gleich verdienen",
+   "s": "Vier Tage arbeiten und trotzdem volles Gehalt: Für viele Beschäftigte in Island ist das längst Realität. Das Modell bringt mehr Freizeit, sorgt aber auch für Kritik von Arbeitgebern und teilweise für Einschränkungen bei öffentlichen Angeboten.",
+   "u": "https://www.deutschlandfunk.de/island-viertagewoche-arbeitszeit-verkuerzung-work-life-balance-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-21T07:58:00+00:00"
   }
  ]
 }

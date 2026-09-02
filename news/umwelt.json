@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-02T07:55:58+00:00",
+ "updated": "2026-09-02T13:41:28+00:00",
  "items": [
+  {
+   "t": "Forschung bei der Polizei Sachsen-Anhalt: „Ein Beamter sagte, viele Kol­le­g*in­nen fänden die AfD gut“",
+   "s": "Die Soziologin Franziska Sujeba beobachtete die Polizei Sachsen-Anhalt wochenlang bei Einsätzen. Ihre Frage: Wie antisemitisch sind die Beamten?",
+   "u": "https://taz.de/Wie-AfD-nah-ist-die-Polizei-in-Sachsen-Anhalt-Was-eine-Forscherin-herausgefunden-hat/!6204705/",
+   "q": "taz",
+   "d": "2026-09-02T10:51:00+00:00"
+  },
+  {
+   "t": "Landtagswahl in Sachsen-Anhalt: Der Wohlfühlwahlkampf der AfD",
+   "s": "Die AfD weiß, wie man Wähler gewinnt: mit Positivität. Sie verkauft ihre radikale Agenda ohne Radikalität und schafft so eine emotionale Bindung.",
+   "u": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6209082/",
+   "q": "taz",
+   "d": "2026-09-02T08:20:00+00:00"
+  },
   {
    "t": "Berlin gibt Moskau die Schuld: Eine Antwort und viele offene Fragen",
    "s": "Reichen die diplomatischen Antworten der Bundesregierung auf Russland aus? Bereits jetzt gibt es Forderungen nach schärferen Maßnahmen.",
@@ -109,7 +123,7 @@
   },
   {
    "t": "Nach Blockaden gegen AfD in Erfurt: Finanzamt zweifelt an Gemeinnützigkeit von Antifaschismus",
-   "s": "Die „Vereinigung der Verfolgten des Naziregimes“ unterstützte die Blockaden gegen die AfD. Nun will die Finanzverwaltung die Gemeinnützigkeit des Vereins prüfen.",
+   "s": "Die Vereinigung der Verfolgten des Naziregimes unterstützte die Blockaden gegen die AfD. Nun will die Finanzverwaltung die Gemeinnützigkeit des Vereins prüfen.",
    "u": "https://taz.de/Nach-Blockaden-gegen-AfD-in-Erfurt/!6209014/",
    "q": "taz",
    "d": "2026-09-01T06:40:00+00:00"
@@ -155,20 +169,6 @@
    "u": "https://taz.de/ARD-Sommerinterview-mit-Merz/!6204845/",
    "q": "taz",
    "d": "2026-08-31T17:44:00+00:00"
-  },
-  {
-   "t": "Studie zu Wahlverhalten: Wenn keine Partei mehr wählbar ist",
-   "s": "Für Wäh­le­r*in­nen mit Migrationshintergrund wird das Wahlangebot immer unattraktiver. Besonders bei einer Gruppe gibt es kaum gute Wahloptionen.",
-   "u": "https://taz.de/Studie-zu-Wahlverhalten/!6205755/",
-   "q": "taz",
-   "d": "2026-08-31T17:44:00+00:00"
-  },
-  {
-   "t": "Polizei in Sachsen-Anhalt: SOS, 110, Tatütata",
-   "s": "Für Antifa-Aktivisten würde ein AfD-Innenminister Verfolgung bedeuten. Für die Queer-Community mehr Angst – und das Ende einer Stelle, die Vertrauen schaffen soll.",
-   "u": "https://taz.de/Polizei-in-Sachsen-Anhalt/!6204704/",
-   "q": "taz",
-   "d": "2026-08-31T15:24:00+00:00"
   }
  ]
 }
