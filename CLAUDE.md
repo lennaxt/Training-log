@@ -128,11 +128,16 @@ Artifact-Link in der Sitzung). Entschieden ist:
 - **Glas:** Liquid-Glass-Linse (eingerückt, harter Lichtsaum), nur fürs Icon.
   Die App selbst bleibt farblich schlicht — ein Glas-Umbau der ganzen App wäre
   wegen `backdrop-filter`-Last auf dem iPhone und der Lesbarkeit nicht ohne Risiko.
-- **Favoriten (engere Auswahl):** „Grundform" (blasser Berg, volle Schneekappe),
-  „Kontur mit Schnee" (Umrisslinie außen, Kappe gefüllt), „Schnee als Umriss"
-  (alles Linie, auch die Kappe) und „Balkenberg" (sieben Balken, deren Höhe den
-  Gipfel bildet — das Trainingsvolumen selbst wird zum Berg).
-  Alle vier zusammen in `entwuerfe/icon-auswahl.html`.
+- **Gewählt: „Schnee als Umriss"** — Grat als Linie, die Schneegrenze als
+  **offene** gezackte Linie darunter. Eine geschlossene Kappe legt ihre Oberkante
+  ein zweites Mal auf den Grat (Doppellinie) und wirkt darunter gedrängt.
+  Wenige, lange Zungen; viele kurze lesen sich als Gekritzel.
+- **Dateien:** `apple-touch-icon.png` (180 px) und `apple-touch-icon-1024.png`,
+  in `index.html` per `<link rel="apple-touch-icon">` eingehängt. Beide **ohne**
+  runde Ecken — iOS rundet selbst. Gerendert wird mit Chromium/Playwright
+  (`entwuerfe/`-Skript), weil `backdrop-filter` sich nicht in SVG rechnen lässt.
+- **Verworfen, aber aufgehoben:** „Grundform", „Kontur mit Schnee", „Balkenberg"
+  (sieben Balken, deren Höhe den Gipfel bildet) — alle in `entwuerfe/icon-auswahl.html`.
 - **Offen:** Die Kopfzeilen-Marke (`#brandMark`) wird nach dem Login mit dem
   **Anfangsbuchstaben des Nutzers** überschrieben (`index.html`, Auth-Zweig).
   Ein Berg-Symbol dort ersetzt diese Initiale oder muss neben ihr leben —
