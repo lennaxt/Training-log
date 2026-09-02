@@ -138,10 +138,14 @@ Artifact-Link in der Sitzung). Entschieden ist:
   (`entwuerfe/`-Skript), weil `backdrop-filter` sich nicht in SVG rechnen lässt.
 - **Verworfen, aber aufgehoben:** „Grundform", „Kontur mit Schnee", „Balkenberg"
   (sieben Balken, deren Höhe den Gipfel bildet) — alle in `entwuerfe/icon-auswahl.html`.
-- **Offen:** Die Kopfzeilen-Marke (`#brandMark`) wird nach dem Login mit dem
-  **Anfangsbuchstaben des Nutzers** überschrieben (`index.html`, Auth-Zweig).
-  Ein Berg-Symbol dort ersetzt diese Initiale oder muss neben ihr leben —
-  vor dem Umbau entscheiden.
+- **App-Name ist „Peak".** Auf dem Home-Bildschirm über `apple-mobile-web-app-title`
+  (iOS liest es **beim Ablegen**), in der App als `.brand-title` und `.auth-title`.
+- **Die Marke (`.mark`) ist eine Glaskachel, kein Buchstabe mehr.** Sie zeigt das
+  Bergzeichen des Icons; die Initiale des Nutzers ist dort **entfallen** (wer angemeldet
+  ist, steht in den Einstellungen). Der Grund bleibt in jedem Bereich hell — die
+  Bereichsfarbe wird nur **beigemischt** (`--markc` + `color-mix` auf `--glass`),
+  wie das Blau im App-Icon. Neue Bereichsfarbe heißt also: `--markc` setzen, nie
+  `background` an `.mark` überschreiben.
 
 ## User
 
