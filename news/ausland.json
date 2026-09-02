@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-09-02T13:41:25+00:00",
+ "updated": "2026-09-02T18:43:59+00:00",
  "items": [
+  {
+   "t": "Ermittlungen nach Tiefflügen über Rugby-Stadion in Südafrika",
+   "s": "In Südafrika sind zwei Passagierflugzeuge vor einem Rugby-Spiel nur wenige Meter über die Köpfe der Zuschauer geflogen. Was als Showeinlage geplant war, ging vielen Zuschauern offenbar zu weit. Nun ermittelt die Luftfahrtbehörde.",
+   "u": "https://www.tagesschau.de/ausland/afrika/suedafrika-rugby-flugzeug-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T18:19:24+00:00"
+  },
+  {
+   "t": "Moskau bestellt Geschäftsträger der deutschen Botschaft ein",
+   "s": "Die Ankündigung neuer Sanktionen wegen des Anschlagsversuchs am Flughafen Leipzig/Halle stößt in Moskau auf scharfen Protest. Das russische Außenministerium bestellte den Geschäftsträger der deutschen Botschaft ein.",
+   "u": "https://www.tagesschau.de/ausland/russland-geschaeftstraeger-drohne-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T15:03:13+00:00"
+  },
+  {
+   "t": "Mindestens 22 Menschen sterben bei Busunglück in Ägypten",
+   "s": "In Ägypten ist auf einer kurvigen Straße zwischen den Badeorten Dahab und Nuwaiba ein Bus einen Abhang hinuntergestürzt. 22 Reisende starben. Unfallursache war womöglich ein geplatzter Reifen.",
+   "u": "https://www.tagesschau.de/ausland/afrika/busunglueck-aegypten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T14:38:50+00:00"
+  },
+  {
+   "t": "Angriff bei Rave in der Schweiz war laut Polizei ein Amoklauf",
+   "s": "Nach den tödlichen Schüssen bei einem Rave im schweizerischen Aarau am vergangenen Wochenende hat die Polizei nun weitere Erkenntnisse bekannt gegeben. Bei der Tat handele es sich um einen Amoklauf, hieß es.",
+   "u": "https://www.tagesschau.de/ausland/europa/schuesse-bei-rave-war-amoktat-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T13:47:43+00:00"
+  },
   {
    "t": "Parlament von Estland wählt Madise zur neuen Staatspräsidentin",
    "s": "Die Juristin Ülle Madise ist zur neuen Staatspräsidentin von Estland gewählt worden. Die Juristin überwachte bisher die Gesetzgebung. Sie sagte, Estland bilde die Frontlinie für die Sicherheit ganz Europas.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-handyverbot-schule-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T02:12:02+00:00"
-  },
-  {
-   "t": "Öl-Deal mit den USA: Was das Abkommen für Venezuela bedeutet",
-   "s": "Etwa ein Fünftel des Ölvorkommens Venezuelas soll künftig den USA gehören. Die Vorteile des Deals liegen für Washington auf der Hand. Doch hilft das Abkommen auch der maroden venezolanischen Wirtschaft? Von Jenny Barke.",
-   "u": "https://www.tagesschau.de/ausland/amerika/oel-deal-usa-venezuela-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T00:49:12+00:00"
-  },
-  {
-   "t": "Öl-Deal der USA mit Venezuela: Experten bezweifeln Trumps Versprechen",
-   "s": "Mit seinem Öl-Deal mit Venezuela will US-Präsident Trump die Engpässe im Nahen Osten ausgleichen und für schnell sinkende Benzinpreise in seinem Land sorgen. Doch damit verspricht er zu viel, sagen Experten. Von S. Jackisch.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-deal-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T23:43:53+00:00"
-  },
-  {
-   "t": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
-   "s": "Beim G20-Finanzministertreffen ist der russische Minister persönlich vor Ort - erstmals seit dem Angriff auf die Ukraine. Finanzminister Klingbeil kritisierte deshalb den Gastgeber USA und richtete klare Worte an Russland.",
-   "u": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T21:09:55+00:00"
-  },
-  {
-   "t": "Flut im Himalaya: Hunderte Arbeiter in Wasserkraftwerken eingeschlossen",
-   "s": "In Nepal läuft die Suche nach Überlebenden der Flutkatastrophe auf Hochtouren. Im Fokus stehen derzeit Hunderte Arbeiter, die in den Tunneln von Wasserkraftwerken eingeschlossen sind. Die Zahl der Toten stieg auf mehr als 950.",
-   "u": "https://www.tagesschau.de/ausland/asien/nepal-flut-erdrutsch-suche-ueberlebende-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T17:04:55+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-02T13:41:29+00:00",
+ "updated": "2026-09-02T18:44:05+00:00",
  "items": [
+  {
+   "t": "Attentat auf Charlie Kirk: Tyler Robinson droht die Todesstrafe",
+   "s": "Der Mann, der mutmaßlich den rechten US-Influencer Charlie Kirk erschossen hat, muss sich vor Gericht verantworten. Ihm droht die Hinrichtung.",
+   "u": "https://taz.de/Attentat-auf-Charlie-Kirk/!6209474/",
+   "q": "taz",
+   "d": "2026-09-02T16:12:00+00:00"
+  },
   {
    "t": "Straße von Hormus: Die USA nehmen Angriffe gegen Iran wieder auf",
    "s": "Die USA greifen Ziele im Iran an, Teheran antwortet mit Raketen. Vor den Kongresswahlen bleibt den Republikanern wenig Zeit, um die Ausgangslage zu bessern.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Erdbeben-mit-265-Toten/!6204025/",
    "q": "taz",
    "d": "2026-08-13T07:35:00+00:00"
-  },
-  {
-   "t": "US-Regierungssprecherin Leavitt geht: Trump braucht ein neues Sprachrohr",
-   "s": "Mit Präsidentensprecherin Karoline Leavitt tritt die bisher jüngste Sprecherin im Weißen Haus zurück. Sie hat den Ton gegenüber den Medien verschärft.",
-   "u": "https://taz.de/US-Regierungssprecherin-Leavitt-geht/!6204014/",
-   "q": "taz",
-   "d": "2026-08-13T06:41:00+00:00"
   }
  ]
 }

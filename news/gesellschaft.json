@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-02T13:41:28+00:00",
+ "updated": "2026-09-02T18:44:04+00:00",
  "items": [
+  {
+   "t": "Berlin gibt Russland Schuld: Unfreundliche Grüße nach Moskau",
+   "s": "EU und Nato sichern Deutschland ihre Solidarität zu. Auf das Mantra der Einigkeit sollen nun schnell neue und scharfe Sanktionen folgen.",
+   "u": "https://taz.de/Berlin-gibt-Russland-Schuld/!6209513/",
+   "q": "taz",
+   "d": "2026-09-02T17:34:00+00:00"
+  },
+  {
+   "t": "Rückbau in Ungarn: Ungarn kappt rechtskonservativen Thinktank",
+   "s": "Regierungschef Péter Magyar zieht das Vermögen mehrerer Stiftungen des früheren Ministerpräsidenten Orbán ein. Ein Tätigkeitsverbot ist das nicht.",
+   "u": "https://taz.de/Rueckbau-in-Ungarn/!6209410/",
+   "q": "taz",
+   "d": "2026-09-02T16:08:00+00:00"
+  },
+  {
+   "t": "Sanktionen gegen Russland: Viel Druck, wenig Wirkung",
+   "s": "Nach dem Drohnenfund in Leipzig möchte Deutschland den Druck auf Putins Schattenflotte erhöhen. Bisher blieb der Druck auf Russlands Energiegeschäft begrenzt.",
+   "u": "https://taz.de/Sanktionen-gegen-Russland/!6209415/",
+   "q": "taz",
+   "d": "2026-09-02T15:41:00+00:00"
+  },
   {
    "t": "Selenskyj warnt vor Flügen über Russland: Wie die Ukraine ihre Drohnenangriffe ausweiten will",
    "s": "Der ukrainische Präsident Selenskyj deutet kommende Angriffe auf die zivile Luftfahrtinfrastruktur an. Reagieren ausländische Airlines darauf, trifft das Russlands Wirtschaft.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Katamaran-vor-Zypern-gekentert/!6208641/",
    "q": "taz",
    "d": "2026-08-30T13:10:00+00:00"
-  },
-  {
-   "t": "Kürzungen im EU-Haushalt: Schräge Prioritäten",
-   "s": "Viel weniger Geld soll aus dem Bundeshaushalt an die EU fließen als an die Nato. Die Sparpläne der „Geizigen“ sind Gift für das europäische Bündnis.",
-   "u": "https://taz.de/Kuerzungen-im-EU-Haushalt/!6208510/",
-   "q": "taz",
-   "d": "2026-08-30T12:11:00+00:00"
-  },
-  {
-   "t": "Referendum in Island: Nein zum EU-Beitritt",
-   "s": "Nach einem Kopf-an-Kopf-Rennen beim Referendum über die Wiederaufnahme der EU-Beitrittsverhandlungen stimmt am Ende die Mehrheit der Is­län­de­r:in­nen dagegen.",
-   "u": "https://taz.de/EU-Referendum-in-Island/!6208475/",
-   "q": "taz",
-   "d": "2026-08-30T06:54:00+00:00"
-  },
-  {
-   "t": "Estland und der russische Angriffskrieg: Und wenn sie kommen?",
-   "s": "Die baltischen Staaten sind Russland nicht nur geografisch nahe. Doch der Nachbar im Osten droht wieder gefährlich zu werden. Begegnungen in Estland.",
-   "u": "https://taz.de/Estland-und-der-russische-Angriffskrieg/!6204711/",
-   "q": "taz",
-   "d": "2026-08-29T18:21:00+00:00"
   }
  ]
 }

@@ -1,7 +1,77 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-02T13:41:28+00:00",
+ "updated": "2026-09-02T18:44:02+00:00",
  "items": [
+  {
+   "t": "Russisches Haus in Berlin: Mitarbeiter sollen das Land verlassen",
+   "s": "Die Bundesregierung will das Russische Haus in der Friedrichstraße schließen. Doch wie realistisch ist das? Und was soll aus dem Haus werden?",
+   "u": "https://taz.de/Russisches-Haus-in-Berlin/!6209370/",
+   "q": "taz",
+   "d": "2026-09-02T18:09:00+00:00"
+  },
+  {
+   "t": "Nach Drohnenangriff in Leipzig: Ein Draht nach Moskau",
+   "s": "Gibt es belastbare Kontakte nach Russland? Um eine ungewollte militärische Eskalation zu vermeiden, reicht es nicht, nur auf Abschreckung zu setzen.",
+   "u": "https://taz.de/Nach-Drohnenangriff-in-Leipzig/!6209422/",
+   "q": "taz",
+   "d": "2026-09-02T17:53:00+00:00"
+  },
+  {
+   "t": "Demografie und Familienplanung: Auch wegen der Wohnungsnot gibt es zu wenig Kinder",
+   "s": "Der Kinderwunsch in Deutschland nimmt ab. Globale Krisen, Wohnungsnot und Arbeitsmarkt sind Hindernisse für die Familiengründung.",
+   "u": "https://taz.de/Demografie-und-Familienplanung/!6209487/",
+   "q": "taz",
+   "d": "2026-09-02T16:48:00+00:00"
+  },
+  {
+   "t": "Priens Kitagesetz: Bildungsministerin will Kitas stärken und senkt die Mittel",
+   "s": "Karin Prien will Sprachstandsprüfungen bis fünf Jahre verpflichtend machen. Grüne und Linke kritisieren das ohnehin schon niedrige Budget.",
+   "u": "https://taz.de/Priens-Kitagesetz/!6209420/",
+   "q": "taz",
+   "d": "2026-09-02T16:36:00+00:00"
+  },
+  {
+   "t": "Kabinett beschließt Steuerreform: Steuerreform ohne wirkliche Entlastung",
+   "s": "Von der Reform der Einkommensteuer sollen kleine Einkommen und Familien profitieren. Die kalte Progression würde aber nicht ausgeglichen, so die Kritik.",
+   "u": "https://taz.de/Kabinett-beschliesst-Steuerreform/!6209490/",
+   "q": "taz",
+   "d": "2026-09-02T16:23:00+00:00"
+  },
+  {
+   "t": "Steuerpläne von Lars Klingbeil: Etikettenschwindel mit Ansage",
+   "s": "Die Steuerentlastungen fallen sehr bescheiden aus. Und die, die es wirklich nötig hätten, zahlen ohnehin gar keine Steuern.",
+   "u": "https://taz.de/Steuerplaene-von-Lars-Klingbeil/!6204881/",
+   "q": "taz",
+   "d": "2026-09-02T16:21:00+00:00"
+  },
+  {
+   "t": "Krise der Wagenknecht-Partei: BSW-Fraktion in Thüringen bricht auseinander",
+   "s": "Vier BSW-Abgeordnete treten aus der Partei aus, weil ihre Bundesspitze „immer verrückter“ agiere. Für Thüringens CDU-Ministerpräsident Voigt wird es noch enger.",
+   "u": "https://taz.de/Krise-der-Wagenknecht-Partei/!6209382/",
+   "q": "taz",
+   "d": "2026-09-02T15:51:00+00:00"
+  },
+  {
+   "t": "Workshop mit den USA: Das Innenministerium lädt zum Anti-Antifa-Treffen",
+   "s": "Im Herbst will das Innenministerium mit den USA einen „Workshop“ gegen Linksextremismus in Deutschland abhalten. Die Linke fordert die Absage.",
+   "u": "https://taz.de/Workshop-mit-den-USA/!6209357/",
+   "q": "taz",
+   "d": "2026-09-02T15:18:00+00:00"
+  },
+  {
+   "t": "Anschläge in NRW und Brandenburg: Angriff auf das Stromnetz vor den Wahlen",
+   "s": "Die Angriffe auf zwei Kraftwerke in Deutschland liefen wohl nach dem gleichen Muster ab. Das spricht gegen die „Vulkangruppe“ und für staatliche Auftraggeber.",
+   "u": "https://taz.de/Vulkangruppe-oder-staatliche-Auftraggeber-Wer-steckt-hinter-dem-Stromnetz-Angriff/!6209512/",
+   "q": "taz",
+   "d": "2026-09-02T13:45:00+00:00"
+  },
+  {
+   "t": "Unmut in SPD: Freundliches über die Parteichefs sagt kaum noch jemand",
+   "s": "Für die SPD ist Krise kein neuer Zustand. Aber diesmal zieht sich die Ratlosigkeit durch die ganze Partei. Nun trifft sich die Fraktion zur Klausur.",
+   "u": "https://taz.de/Unmut-in-SPD-ueber-Parteichefs/!6209023/",
+   "q": "taz",
+   "d": "2026-09-02T13:42:00+00:00"
+  },
   {
    "t": "Forschung bei der Polizei Sachsen-Anhalt: „Ein Beamter sagte, viele Kol­le­g*in­nen fänden die AfD gut“",
    "s": "Die Soziologin Franziska Sujeba beobachtete die Polizei Sachsen-Anhalt wochenlang bei Einsätzen. Ihre Frage: Wie antisemitisch sind die Beamten?",
@@ -99,76 +169,6 @@
    "u": "https://taz.de/Krieg-und-Frieden/!6208754/",
    "q": "taz",
    "d": "2026-09-01T09:23:00+00:00"
-  },
-  {
-   "t": "Wadephul in Tunesien und Algerien: Erdgas und Wasserstoff ja, Einwanderer nein",
-   "s": "Deutschlands Außenminister wirbt in Tunis für Sicherheitszusammenarbeit und in Algier für Energieexporte. In beiden Ländern empfangen ihn die Staatschefs.",
-   "u": "https://taz.de/Wadephul-in-Tunesien-und-Algerien/!6209031/",
-   "q": "taz",
-   "d": "2026-09-01T07:52:00+00:00"
-  },
-  {
-   "t": "Regieren mit Geldnot: „Villen werden nicht in andere Bundesländer abwandern“",
-   "s": "Was kann ein linker Senat bei einem riesigen Haushaltsloch – wie in Berlin – tun? Zum Beispiel Luxusimmobilien besteuern, meint Finanzexperte Carl Mühlbach.",
-   "u": "https://taz.de/Regieren-mit-Geldnot/!6208736/",
-   "q": "taz",
-   "d": "2026-09-01T07:30:00+00:00"
-  },
-  {
-   "t": "Wahlkampf in Ostdeutschland: Merz zieht Grenzen zur Linken und wird ausgepfiffen",
-   "s": "Bundeskanzler lehnt eine direkte Regierungsbeteiligung der Linken ab und warnt vor Wutbürgern. Beim Wahlkampfauftritt an der Ostsee wird er ausgepfiffen.",
-   "u": "https://taz.de/Wahlkampf-in-Ostdeutschland/!6209030/",
-   "q": "taz",
-   "d": "2026-09-01T06:57:00+00:00"
-  },
-  {
-   "t": "Nach Blockaden gegen AfD in Erfurt: Finanzamt zweifelt an Gemeinnützigkeit von Antifaschismus",
-   "s": "Die Vereinigung der Verfolgten des Naziregimes unterstützte die Blockaden gegen die AfD. Nun will die Finanzverwaltung die Gemeinnützigkeit des Vereins prüfen.",
-   "u": "https://taz.de/Nach-Blockaden-gegen-AfD-in-Erfurt/!6209014/",
-   "q": "taz",
-   "d": "2026-09-01T06:40:00+00:00"
-  },
-  {
-   "t": "Radikales AfD-Netzwerk: Der Sunnyboy des Rechtsextremismus",
-   "s": "Ulrich Siegmund will in Sachsen-Anhalt AfD-Ministerpräsident werden. Wie radikal würde er regieren? Sein Werdegang und sein Umfeld geben Aufschluss.",
-   "u": "https://taz.de/Radikales-AfD-Netzwerk/!6208708/",
-   "q": "taz",
-   "d": "2026-09-01T05:13:00+00:00"
-  },
-  {
-   "t": "Wohnprojekt in Halle: Ein Spagat zwischen Selbstorganisation und Stadtrat",
-   "s": "Ingeborg Bauer half dabei, dass eine linke Initiative ein Wohnprojekt in Halle kaufen kann. Dieser Abschluss vor den Wahlen sei wichtig gewesen.",
-   "u": "https://taz.de/Wohnprojekt-in-Halle/!6208498/",
-   "q": "taz",
-   "d": "2026-09-01T05:06:00+00:00"
-  },
-  {
-   "t": "Nahostkonflikt und Linke in Berlin: Yallah, Yallah, rote Linien",
-   "s": "Die Linkspartei gerät kurz vor der Berlin-Wahl in Erklärungsnot: Ein antiisraelischer Song bei einer Veranstaltung in Neukölln sorgt für Entsetzen.",
-   "u": "https://taz.de/Nahostkonflikt-und-Linke-in-Berlin/!6208815/",
-   "q": "taz",
-   "d": "2026-08-31T18:22:00+00:00"
-  },
-  {
-   "t": "Maßnahmen gegen den Mietenwahnsinn: 70 Initiativen für bundesweiten Mietendeckel",
-   "s": "Eine breit unterstützte Petition fordert von der Bundesregierung Preisgrenzen für Wohnungen. Trotz Wahlkampf glänzt die Berliner SPD mit Abwesenheit.",
-   "u": "https://taz.de/Massnahmen-gegen-den-Mietenwahnsinn/!6208739/",
-   "q": "taz",
-   "d": "2026-08-31T17:48:00+00:00"
-  },
-  {
-   "t": "Die Linkspartei und die Gewalt: Gehört das Thema Palästina in den Berliner Wahlkampf?",
-   "s": "Bei einem Wahlkampfevent der Linken in Berlin-Neukölln sorgt der Rapper Dahabflex mit „Yalla Yalla Intifada, Westbank, Palästina, Gaza“ für Aufsehen.",
-   "u": "https://taz.de/Die-Linkspartei-und-die-Gewalt/!6208888/",
-   "q": "taz",
-   "d": "2026-08-31T17:46:00+00:00"
-  },
-  {
-   "t": "ARD-Sommerinterview mit Merz: Der Kanzler macht Wahlkampf für die AfD",
-   "s": "Weder mit seiner Art noch mit seiner Wirtschaftspolitik kann Friedrich Merz der rechten Konkurrenz etwas entgegensetzen. Im Gegenteil – er stärkt sie.",
-   "u": "https://taz.de/ARD-Sommerinterview-mit-Merz/!6204845/",
-   "q": "taz",
-   "d": "2026-08-31T17:44:00+00:00"
   }
  ]
 }
