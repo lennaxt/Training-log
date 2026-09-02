@@ -1,0 +1,182 @@
+<title>Wappentiere und Himmelskörper</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0F0F11; --tx:#F2F0EC; --tx-soft:#A8A49D; --tx-faint:#6E6A64;
+  --edge:rgba(255,255,255,0.10);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);
+  font-family:'Inter',system-ui,sans-serif;font-size:15px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.page{max-width:1120px;margin:0 auto;padding:60px 24px 100px}
+.eyebrow{font-size:10.5px;letter-spacing:0.2em;text-transform:uppercase;color:var(--tx-faint);font-weight:600}
+h1{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:clamp(32px,6.4vw,48px);
+  letter-spacing:-0.025em;line-height:1.03;margin:14px 0 16px}
+.lede{max-width:60ch;color:var(--tx-soft);font-size:16px;margin:0 0 10px}
+.lede b{color:var(--tx);font-weight:600}
+.split{display:flex;gap:26px;flex-wrap:wrap;margin:32px 0 26px;padding:11px 0;
+  border-top:1px solid var(--edge);border-bottom:1px solid var(--edge);
+  font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:var(--tx-faint);font-weight:600}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:28px}
+.card{display:flex;flex-direction:column;gap:12px}
+.pair{display:flex;gap:14px}
+.box{position:relative;flex:none}
+.box .icon{position:absolute;top:0;left:0;transform-origin:top left}
+.b128{width:128px;height:128px}  .b128 .icon{transform:scale(0.7111)}
+.b30{width:30px;height:30px}     .b30 .icon{transform:scale(0.1667)}
+.small{display:flex;align-items:center;gap:10px}
+.small .lbl{font-size:10px;letter-spacing:0.12em;text-transform:uppercase;color:var(--tx-faint);font-weight:600}
+.nm{font-family:'Fraunces',serif;font-size:18px;font-weight:600;letter-spacing:-0.015em;margin:0}
+.ds{margin:2px 0 0;font-size:13px;color:var(--tx-soft);max-width:38ch}
+footer{border-top:1px solid var(--edge);margin-top:44px;padding-top:26px}
+footer h2{font-family:'Fraunces',serif;font-size:19px;font-weight:600;margin:0 0 10px}
+footer p{color:var(--tx-soft);max-width:64ch;margin:0 0 10px}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12.5px;
+  background:#1B1B1F;padding:2px 6px;border-radius:5px;color:var(--tx)}
+
+/* ===== Grundgeruest ===== */
+.icon{width:180px;height:180px;border-radius:41px;position:relative;overflow:hidden;isolation:isolate;
+  box-shadow:0 18px 34px -18px rgba(0,0,0,0.85),0 2px 6px rgba(0,0,0,0.4)}
+.b{position:absolute;border-radius:50%}
+.art{position:absolute;inset:0;z-index:4;display:flex;align-items:center;justify-content:center}
+.art svg{width:96px;height:96px;display:block}
+.gloss{position:absolute;inset:0;z-index:5;pointer-events:none;
+  background:linear-gradient(116deg,rgba(255,255,255,0.34) 0%,rgba(255,255,255,0.05) 34%,rgba(255,255,255,0) 55%)}
+.grain{position:absolute;inset:0;z-index:6;pointer-events:none;opacity:.13;
+  background:repeating-linear-gradient(118deg,rgba(255,255,255,0.12) 0 1px,rgba(0,0,0,0) 1px 3px)}
+
+/* ===== Zitrusstrom · Liquid Glass ===== */
+.i-citrus{background:linear-gradient(160deg,#22320C 0%,#12200A 60%,#080D05 100%)}
+.i-citrus .b{filter:blur(28px)}
+.i-citrus .b1{width:140px;height:140px;left:-26px;bottom:-30px;background:#C8F53C;opacity:.95}
+.i-citrus .b2{width:110px;height:110px;right:-20px;top:-18px;background:#FFE14D;opacity:.85}
+.i-citrus .b3{width:96px;height:96px;left:52px;top:44px;background:#37D67A;opacity:.6}
+.i-citrus .lens{position:absolute;inset:25px;border-radius:35px;z-index:3;
+  backdrop-filter:blur(10px) saturate(220%) brightness(1.1);
+  -webkit-backdrop-filter:blur(10px) saturate(220%) brightness(1.1);
+  background:linear-gradient(152deg,rgba(255,255,255,0.30),rgba(255,255,255,0.04) 48%,rgba(255,255,255,0.18));
+  box-shadow:inset 0 1.6px 0 rgba(255,255,255,0.8),inset 0 -2px 4px rgba(255,255,255,0.28),
+             inset 2px 0 4px rgba(255,255,255,0.18),inset -2px 0 4px rgba(255,255,255,0.18),
+             0 12px 24px -12px rgba(0,0,0,0.7)}
+.i-citrus .lens::after{content:"";position:absolute;left:9%;top:5%;width:82%;height:36%;border-radius:50%;
+  background:linear-gradient(180deg,rgba(255,255,255,0.5),rgba(255,255,255,0));filter:blur(4px)}
+.i-citrus .art{color:#FFFFFF}
+.i-citrus .art svg{filter:drop-shadow(0 3px 8px rgba(0,0,0,0.45))}
+
+/* ===== Gletscher · Glassmorphism ===== */
+.i-glacier{background:linear-gradient(160deg,#EAF7FF 0%,#C9E4F6 52%,#DCD8FA 100%)}
+.i-glacier .b1{width:120px;height:120px;left:-24px;bottom:-26px;background:#7FC8F0;opacity:.7;filter:blur(22px)}
+.i-glacier .b2{width:100px;height:100px;right:-18px;top:-16px;background:#B8E6FF;opacity:.9;filter:blur(20px)}
+.i-glacier .b3{width:86px;height:86px;left:60px;top:56px;background:#9E9AF5;opacity:.4;filter:blur(24px)}
+.i-glacier .pane{position:absolute;inset:22px;border-radius:31px;z-index:3;
+  backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);
+  background:rgba(255,255,255,0.34);border:1.5px solid rgba(255,255,255,0.8);
+  box-shadow:0 10px 26px -14px rgba(40,20,60,0.55),inset 0 1px 0 rgba(255,255,255,0.7)}
+.i-glacier .art{color:#2C5B7C}
+.i-glacier .art svg{filter:drop-shadow(0 2px 5px rgba(44,91,124,0.28))}
+</style>
+
+<div class="page">
+  <div class="eyebrow">Trainingslog · Wappen</div>
+  <h1>Wappentiere und Himmelskörper</h1>
+  <p class="lede">Weg vom Piktogramm, hin zum Wappen. Die Motive kommen nicht aus dem Nichts,
+  sondern aus dem, was in deinem Repo schon steckt: die <b>Wissenspausen</b> zu Astronomie und
+  Biologie, die <b>Bergprofile</b> aus den Radrouten, und die Idee einer Kreatur, die die App
+  bewohnt. Dazu Uhren, weil ein Log immer auch Zeitmessung ist. Links Zitrusstrom, rechts
+  Gletscher, darunter beide bei 30 px.</p>
+  <div class="split"><span>Links · Zitrusstrom</span><span>Rechts · Gletscher</span><span>Zeichen: 12</span></div>
+
+  <div class="grid" id="grid"></div>
+
+  <footer>
+    <h2>Wie weiter</h2>
+    <p>Sag mir die Nummer, dann baue ich die Endfassung: Strichstärke und Position optisch
+    ausgeglichen, bei 180, 120, 60 und 29 px geprüft und als PNG für
+    <code>apple-touch-icon</code> abgelegt. Wenn ein Zeichen fast passt, aber nicht ganz —
+    sag was stört, ich variiere es dann in fünf Abstufungen statt zwölf neue zu bauen.</p>
+  </footer>
+</div>
+
+<script>
+const S = (inner) => '<svg viewBox="0 0 100 100" fill="none" stroke="currentColor" '+
+  'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+inner+'</svg>';
+
+const MOTIFS = [
+  {n:"01 · Adlerkopf", d:"Heraldisch im Profil, mit Hakenschnabel und ausgespartem Auge. Streng und alt.",
+   h:S('<path fill-rule="evenodd" fill="currentColor" stroke="none" d="M32 64 C24 42 38 22 60 24 '+
+       'L90 36 L66 44 C66 58 55 72 40 72 Z M60 38 a5 5 0 1 0 0.1 0 Z"/>')},
+  {n:"02 · Schwingen", d:"Nur die gespreizten Flügel, im Anflug von vorn. Vom Adler bleibt die Bewegung.",
+   h:S('<path fill="currentColor" stroke="none" d="M50 42 C34 26 18 22 6 30 '+
+       'C22 34 36 46 50 62 C64 46 78 34 94 30 C82 22 66 26 50 42 Z"/>')},
+  {n:"03 · Schlange", d:"Eine aufgerichtete S-Kurve mit Kopf. Schlank, ungewöhnlich, unverwechselbar.",
+   h:S('<path d="M62 84 C30 84 30 60 46 54 C62 48 62 28 36 26" stroke-width="10"/>'+
+       '<circle cx="34" cy="24" r="9" fill="currentColor" stroke="none"/>'+
+       '<path d="M26 20 L14 14" stroke-width="5"/>')},
+  {n:"04 · Ouroboros", d:"Die Schlange, die sich in den Schwanz beißt — Kreislauf, Wiederholung, Woche für Woche.",
+   h:S('<circle cx="50" cy="50" r="29" stroke-width="10" stroke-dasharray="150 32" '+
+       'transform="rotate(-108 50 50)"/>'+
+       '<circle cx="41" cy="23" r="9" fill="currentColor" stroke="none"/>')},
+  {n:"05 · Hörner", d:"Die geschwungenen Hörner eines Steinbocks. Das Tier der Berge, ohne das ganze Tier.",
+   h:S('<path d="M40 76 C22 60 24 32 44 18" stroke-width="10"/>'+
+       '<path d="M60 76 C78 60 76 32 56 18" stroke-width="10"/>')},
+  {n:"06 · Gipfel", d:"Zwei Spitzen mit Grat dazwischen, gefüllt. Das robusteste Zeichen der Reihe.",
+   h:S('<path fill="currentColor" stroke="none" d="M8 80 L34 28 L50 54 L66 20 L92 80 Z"/>')},
+  {n:"07 · Bergsonne", d:"Scheibe hinter dem Kamm — Sonnenaufgang oder Vollmond, je nach Tageszeit.",
+   h:S('<circle cx="58" cy="34" r="18" fill="currentColor" fill-opacity="0.65" stroke="none"/>'+
+       '<path fill="currentColor" stroke="none" d="M8 80 L34 34 L52 62 L66 40 L92 80 Z"/>')},
+  {n:"08 · Zifferblatt", d:"Uhr auf zehn nach zehn, wie in jeder Anzeige seit hundert Jahren.",
+   h:S('<circle cx="50" cy="50" r="32" stroke-width="8"/>'+
+       '<path d="M50 50 L36 32" stroke-width="8"/>'+
+       '<path d="M50 50 L68 42" stroke-width="7"/>'+
+       '<circle cx="50" cy="50" r="4.5" fill="currentColor" stroke="none"/>'+
+       '<path d="M50 14 V20" stroke-width="5"/><path d="M50 80 V86" stroke-width="5"/>'+
+       '<path d="M14 50 H20" stroke-width="5"/><path d="M80 50 H86" stroke-width="5"/>')},
+  {n:"09 · Uhrwerk", d:"Zahnkranz mit einem einzigen Zeiger. Mechanik statt Ziffern.",
+   h:S('<circle cx="50" cy="50" r="34" stroke-width="6" stroke-dasharray="5 9"/>'+
+       '<circle cx="50" cy="50" r="24" stroke-width="8"/>'+
+       '<path d="M50 50 V30" stroke-width="8"/>'+
+       '<circle cx="50" cy="50" r="5" fill="currentColor" stroke="none"/>')},
+  {n:"10 · Mondphasen", d:"Voll, halb, sichel. Drei Scheiben als Zeitreihe — ein Log in einem Bild.",
+   h:S('<circle cx="22" cy="50" r="14" fill="currentColor" stroke="none"/>'+
+       '<circle cx="50" cy="50" r="14" stroke-width="6"/>'+
+       '<path fill="currentColor" stroke="none" d="M50 36 A14 14 0 0 1 50 64 Z"/>'+
+       '<path fill="currentColor" stroke="none" d="M86 36 A14 14 0 1 0 86 64 A10 14 0 1 1 86 36 Z"/>')},
+  {n:"11 · Ringplanet", d:"Saturn: Kugel mit gekipptem Ring. Aus deinen Astronomie-Pausen geliehen.",
+   h:S('<ellipse cx="50" cy="52" rx="40" ry="13" stroke-width="7" transform="rotate(-22 50 52)"/>'+
+       '<circle cx="50" cy="50" r="21" fill="currentColor" stroke="none"/>')},
+  {n:"12 · Sternbild", d:"Fünf Sterne, vier Linien. Sieht aus wie eine Route und wie ein Himmelsplan.",
+   h:S('<path d="M20 70 L38 40 L58 54 L76 22" stroke-width="5" stroke-opacity="0.65"/>'+
+       '<circle cx="20" cy="70" r="7" fill="currentColor" stroke="none"/>'+
+       '<circle cx="38" cy="40" r="8" fill="currentColor" stroke="none"/>'+
+       '<circle cx="58" cy="54" r="6" fill="currentColor" stroke="none"/>'+
+       '<circle cx="76" cy="22" r="9" fill="currentColor" stroke="none"/>'+
+       '<circle cx="80" cy="66" r="5" fill="currentColor" stroke="none"/>')}
+];
+
+const citrus = (art) =>
+  '<div class="icon i-citrus"><div class="b b1"></div><div class="b b2"></div><div class="b b3"></div>'+
+  '<div class="lens"></div><div class="art">'+art+'</div><div class="gloss"></div><div class="grain"></div></div>';
+const glacier = (art) =>
+  '<div class="icon i-glacier"><div class="b b1"></div><div class="b b2"></div><div class="b b3"></div>'+
+  '<div class="pane"></div><div class="art">'+art+'</div><div class="gloss"></div></div>';
+
+const grid = document.getElementById("grid");
+MOTIFS.forEach(m=>{
+  const c = document.createElement("div");
+  c.className = "card";
+  c.innerHTML =
+    '<div class="pair">'+
+      '<div class="box b128">'+citrus(m.h)+'</div>'+
+      '<div class="box b128">'+glacier(m.h)+'</div>'+
+    '</div>'+
+    '<div class="small"><span class="lbl">30 px</span>'+
+      '<div class="box b30">'+citrus(m.h)+'</div>'+
+      '<div class="box b30">'+glacier(m.h)+'</div>'+
+    '</div>'+
+    '<div><p class="nm">'+m.n+'</p><p class="ds">'+m.d+'</p></div>';
+  grid.appendChild(c);
+});
+</script>
