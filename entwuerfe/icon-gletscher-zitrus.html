@@ -1,0 +1,166 @@
+<title>Gletscher &amp; Zitrus</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0F0F11; --tx:#F2F0EC; --tx-soft:#A8A49D; --tx-faint:#6E6A64;
+  --edge:rgba(255,255,255,0.10);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);
+  font-family:'Inter',system-ui,sans-serif;font-size:15px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.page{max-width:1120px;margin:0 auto;padding:60px 24px 100px}
+.eyebrow{font-size:10.5px;letter-spacing:0.2em;text-transform:uppercase;color:var(--tx-faint);font-weight:600}
+h1{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:clamp(32px,6.4vw,48px);
+  letter-spacing:-0.025em;line-height:1.03;margin:14px 0 16px}
+.lede{max-width:60ch;color:var(--tx-soft);font-size:16px;margin:0 0 10px}
+.lede b{color:var(--tx);font-weight:600}
+.split{display:flex;gap:26px;flex-wrap:wrap;margin:32px 0 26px;padding:11px 0;
+  border-top:1px solid var(--edge);border-bottom:1px solid var(--edge);
+  font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:var(--tx-faint);font-weight:600}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:28px}
+.card{display:flex;flex-direction:column;gap:12px}
+.pair{display:flex;gap:14px}
+.box{position:relative;flex:none}
+.box .icon{position:absolute;top:0;left:0;transform-origin:top left}
+.b128{width:128px;height:128px}  .b128 .icon{transform:scale(0.7111)}
+.b30{width:30px;height:30px}     .b30 .icon{transform:scale(0.1667)}
+.small{display:flex;align-items:center;gap:10px}
+.small .lbl{font-size:10px;letter-spacing:0.12em;text-transform:uppercase;color:var(--tx-faint);font-weight:600}
+.nm{font-family:'Fraunces',serif;font-size:18px;font-weight:600;letter-spacing:-0.015em;margin:0}
+.ds{margin:2px 0 0;font-size:13px;color:var(--tx-soft);max-width:38ch}
+footer{border-top:1px solid var(--edge);margin-top:44px;padding-top:26px}
+footer h2{font-family:'Fraunces',serif;font-size:19px;font-weight:600;margin:0 0 10px}
+footer p{color:var(--tx-soft);max-width:64ch;margin:0 0 10px}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12.5px;
+  background:#1B1B1F;padding:2px 6px;border-radius:5px;color:var(--tx)}
+
+/* ===== Grundgeruest ===== */
+.icon{width:180px;height:180px;border-radius:41px;position:relative;overflow:hidden;isolation:isolate;
+  box-shadow:0 18px 34px -18px rgba(0,0,0,0.85),0 2px 6px rgba(0,0,0,0.4)}
+.b{position:absolute;border-radius:50%}
+.art{position:absolute;inset:0;z-index:4;display:flex;align-items:center;justify-content:center}
+.art svg{width:96px;height:96px;display:block}
+.gloss{position:absolute;inset:0;z-index:5;pointer-events:none;
+  background:linear-gradient(116deg,rgba(255,255,255,0.34) 0%,rgba(255,255,255,0.05) 34%,rgba(255,255,255,0) 55%)}
+.grain{position:absolute;inset:0;z-index:6;pointer-events:none;opacity:.13;
+  background:repeating-linear-gradient(118deg,rgba(255,255,255,0.12) 0 1px,rgba(0,0,0,0) 1px 3px)}
+
+/* ===== Zitrusstrom · Liquid Glass ===== */
+.i-citrus{background:linear-gradient(160deg,#22320C 0%,#12200A 60%,#080D05 100%)}
+.i-citrus .b{filter:blur(28px)}
+.i-citrus .b1{width:140px;height:140px;left:-26px;bottom:-30px;background:#C8F53C;opacity:.95}
+.i-citrus .b2{width:110px;height:110px;right:-20px;top:-18px;background:#FFE14D;opacity:.85}
+.i-citrus .b3{width:96px;height:96px;left:52px;top:44px;background:#37D67A;opacity:.6}
+.i-citrus .lens{position:absolute;inset:25px;border-radius:35px;z-index:3;
+  backdrop-filter:blur(10px) saturate(220%) brightness(1.1);
+  -webkit-backdrop-filter:blur(10px) saturate(220%) brightness(1.1);
+  background:linear-gradient(152deg,rgba(255,255,255,0.30),rgba(255,255,255,0.04) 48%,rgba(255,255,255,0.18));
+  box-shadow:inset 0 1.6px 0 rgba(255,255,255,0.8),inset 0 -2px 4px rgba(255,255,255,0.28),
+             inset 2px 0 4px rgba(255,255,255,0.18),inset -2px 0 4px rgba(255,255,255,0.18),
+             0 12px 24px -12px rgba(0,0,0,0.7)}
+.i-citrus .lens::after{content:"";position:absolute;left:9%;top:5%;width:82%;height:36%;border-radius:50%;
+  background:linear-gradient(180deg,rgba(255,255,255,0.5),rgba(255,255,255,0));filter:blur(4px)}
+.i-citrus .art{color:#FFFFFF}
+.i-citrus .art svg{filter:drop-shadow(0 3px 8px rgba(0,0,0,0.45))}
+
+/* ===== Gletscher · Glassmorphism ===== */
+.i-glacier{background:linear-gradient(160deg,#EAF7FF 0%,#C9E4F6 52%,#DCD8FA 100%)}
+.i-glacier .b1{width:120px;height:120px;left:-24px;bottom:-26px;background:#7FC8F0;opacity:.7;filter:blur(22px)}
+.i-glacier .b2{width:100px;height:100px;right:-18px;top:-16px;background:#B8E6FF;opacity:.9;filter:blur(20px)}
+.i-glacier .b3{width:86px;height:86px;left:60px;top:56px;background:#9E9AF5;opacity:.4;filter:blur(24px)}
+.i-glacier .pane{position:absolute;inset:22px;border-radius:31px;z-index:3;
+  backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);
+  background:rgba(255,255,255,0.34);border:1.5px solid rgba(255,255,255,0.8);
+  box-shadow:0 10px 26px -14px rgba(40,20,60,0.55),inset 0 1px 0 rgba(255,255,255,0.7)}
+.i-glacier .art{color:#2C5B7C}
+.i-glacier .art svg{filter:drop-shadow(0 2px 5px rgba(44,91,124,0.28))}
+</style>
+
+<div class="page">
+  <div class="eyebrow">Trainingslog · Zeichen für zwei Farbwelten</div>
+  <h1>Gletscher &amp; Zitrus</h1>
+  <p class="lede">Die beiden Fassungen bleiben <b>exakt wie sie sind</b> — Eisblau mit Lavendel und
+  petrolfarbenem Zeichen, Limett auf Waldschwarz mit weißem Zeichen. Ausgetauscht wird nur das
+  Logo: zwölf neue Marken, keine davon aus den früheren Runden. Links Zitrusstrom, rechts Gletscher,
+  darunter beide bei 30 px.</p>
+  <div class="split"><span>Links · Zitrusstrom</span><span>Rechts · Gletscher</span><span>Zeichen: 12</span></div>
+
+  <div class="grid" id="grid"></div>
+
+  <footer>
+    <h2>Wie weiter</h2>
+    <p>Sag mir die Nummer, dann baue ich die Endfassung: Strichstärke und Position optisch
+    ausgeglichen, bei 180, 120, 60 und 29 px geprüft und als PNG für
+    <code>apple-touch-icon</code> abgelegt. Wenn ein Zeichen fast passt, aber nicht ganz —
+    sag was stört, ich variiere es dann in fünf Abstufungen statt zwölf neue zu bauen.</p>
+  </footer>
+</div>
+
+<script>
+const S = (inner) => '<svg viewBox="0 0 100 100" fill="none" stroke="currentColor" '+
+  'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+inner+'</svg>';
+
+const MOTIFS = [
+  {n:"01 · Delta", d:"Das mathematische Zeichen für Veränderung. Kurz, ruhig, unverbraucht.",
+   h:S('<path d="M50 20 L80 76 H20 Z" stroke-width="10"/>')},
+  {n:"02 · Doppelbogen", d:"Zwei Bögen um einen Punkt — eine Welle, die vom Kern ausgeht.",
+   h:S('<path d="M18 64 A32 32 0 0 1 82 64" stroke-width="9"/>'+
+       '<path d="M34 64 A16 16 0 0 1 66 64" stroke-width="9"/>'+
+       '<circle cx="50" cy="64" r="6" fill="currentColor" stroke="none"/>')},
+  {n:"03 · Doppelspitze", d:"Zwei Winkel übereinander. Liest sich als Vorspulen und als Steigerung.",
+   h:S('<path d="M26 56 L50 32 L74 56" stroke-width="10"/>'+
+       '<path d="M26 78 L50 54 L74 78" stroke-width="10"/>')},
+  {n:"04 · Blitz", d:"Energie, ohne Umweg. Die kompakteste Form der ganzen Reihe.",
+   h:S('<path d="M58 12 L28 54 H47 L42 88 L72 46 H53 Z" fill="currentColor" stroke="none"/>')},
+  {n:"05 · Zielscheibe", d:"Drei Kreise um einen Kern. Ziel, Zone, Wiederholung.",
+   h:S('<circle cx="50" cy="50" r="30" stroke-width="8"/>'+
+       '<circle cx="50" cy="50" r="17" stroke-width="8"/>'+
+       '<circle cx="50" cy="50" r="5" fill="currentColor" stroke="none"/>')},
+  {n:"06 · Laufbahn", d:"Die Bahn von oben. Erkennbar sportlich, aber keine Hantel.",
+   h:S('<rect x="12" y="32" width="76" height="36" rx="18" stroke-width="9"/>'+
+       '<rect x="30" y="43" width="40" height="14" rx="7" stroke-width="6" stroke-opacity="0.5"/>')},
+  {n:"07 · Sichel", d:"Ein Mond, aus zwei Kreisen geschnitten. Ruhig und ungewöhnlich.",
+   h:S('<path d="M64 14 A38 38 0 1 0 64 86 A30 30 0 1 1 64 14 Z" fill="currentColor" stroke="none"/>')},
+  {n:"08 · Nadel", d:"Kompassnadel: oben gefüllt, unten offen. Richtung statt Gerät.",
+   h:S('<path d="M50 14 L68 50 L50 86 L32 50 Z" stroke-width="9"/>'+
+       '<path d="M50 14 L68 50 H32 Z" fill="currentColor" stroke="none"/>')},
+  {n:"09 · Funke", d:"Vierstrahliger Stern mit eingezogenen Flanken. Steht für den guten Tag.",
+   h:S('<path d="M50 12 C54 38 62 46 88 50 C62 54 54 62 50 88 C46 62 38 54 12 50 C38 46 46 38 50 12 Z" '+
+       'fill="currentColor" stroke="none"/>')},
+  {n:"10 · Verzweigung", d:"Ein Stamm, zwei Wege. Die Entscheidung, welche Einheit heute läuft.",
+   h:S('<path d="M50 86 V54" stroke-width="10"/>'+
+       '<path d="M50 54 L28 30" stroke-width="10"/>'+
+       '<path d="M50 54 L72 30" stroke-width="10"/>')},
+  {n:"11 · Kamm", d:"Gefüllte Bergsilhouette. Massiv, hält jede Verkleinerung aus.",
+   h:S('<path d="M10 78 L36 32 L54 58 L70 26 L90 78 Z" fill="currentColor" stroke="none"/>')},
+  {n:"12 · Sanduhr", d:"Zeit als Form. Passt zu Dauer und Pause, die beide in der App vorkommen.",
+   h:S('<path d="M28 16 H72 L50 50 L72 84 H28 L50 50 Z" stroke-width="9"/>')}
+];
+
+const citrus = (art) =>
+  '<div class="icon i-citrus"><div class="b b1"></div><div class="b b2"></div><div class="b b3"></div>'+
+  '<div class="lens"></div><div class="art">'+art+'</div><div class="gloss"></div><div class="grain"></div></div>';
+const glacier = (art) =>
+  '<div class="icon i-glacier"><div class="b b1"></div><div class="b b2"></div><div class="b b3"></div>'+
+  '<div class="pane"></div><div class="art">'+art+'</div><div class="gloss"></div></div>';
+
+const grid = document.getElementById("grid");
+MOTIFS.forEach(m=>{
+  const c = document.createElement("div");
+  c.className = "card";
+  c.innerHTML =
+    '<div class="pair">'+
+      '<div class="box b128">'+citrus(m.h)+'</div>'+
+      '<div class="box b128">'+glacier(m.h)+'</div>'+
+    '</div>'+
+    '<div class="small"><span class="lbl">30 px</span>'+
+      '<div class="box b30">'+citrus(m.h)+'</div>'+
+      '<div class="box b30">'+glacier(m.h)+'</div>'+
+    '</div>'+
+    '<div><p class="nm">'+m.n+'</p><p class="ds">'+m.d+'</p></div>';
+  grid.appendChild(c);
+});
+</script>
