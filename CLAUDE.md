@@ -114,6 +114,27 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
   unbemerkt einen veralteten Stand. Nach einem Push im Browser checken, ob die
   deployte Seite den neuen Stand enthält.
 
+## App-Icon (Stand der Entwürfe)
+
+Entwürfe liegen als eigene Seiten in `entwuerfe/` (je eine pro Runde, alle mit
+Artifact-Link in der Sitzung). Entschieden ist:
+
+- **Motiv:** Mount Fuji. Profil wird **gerechnet, nicht gezeichnet** — konkave
+  Potenzkurve mit weicher Kraterdelle (`entwuerfe/`-Bauskripte). Gekappte Gipfel
+  mit aufgesetzter Beule geben harte Ecken, Bézier-Flanken fransen unten aus.
+- **Form:** „Steiler" (Exponent 1.35, leichte Delle). Exponent > 1 = konkav wie
+  der Fuji, = 1 gerade, < 1 wird zum Matterhorn.
+- **Grund:** „Grat" — weißgrauer Verlauf, tiefblaue Wolke unten, Zeichen `#1F3A5C`.
+- **Glas:** Liquid-Glass-Linse (eingerückt, harter Lichtsaum), nur fürs Icon.
+  Die App selbst bleibt farblich schlicht — ein Glas-Umbau der ganzen App wäre
+  wegen `backdrop-filter`-Last auf dem iPhone und der Lesbarkeit nicht ohne Risiko.
+- **Favoriten:** „Grundform" (blasser Berg, volle Schneekappe) und
+  „Kontur mit Schnee" (Umrisslinie außen, Kappe gefüllt).
+- **Offen:** Die Kopfzeilen-Marke (`#brandMark`) wird nach dem Login mit dem
+  **Anfangsbuchstaben des Nutzers** überschrieben (`index.html`, Auth-Zweig).
+  Ein Berg-Symbol dort ersetzt diese Initiale oder muss neben ihr leben —
+  vor dem Umbau entscheiden.
+
 ## User
 
 Lennart lernt beim Bauen. Erklärungen dürfen kurz sein, aber Fachbegriffe kurz erläutern wenn sie zum ersten Mal auftauchen. Keine „junior-Warnungen" — direkte Kommunikation bevorzugt.
