@@ -1,0 +1,244 @@
+<title>Zweite Runde Motive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=Anton&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#FBF7F0; --paper-2:#FFFFFF; --stage:#F1EBE1;
+  --ink:#2E2C28; --ink-soft:#6F6B62; --ink-faint:#A8A399;
+  --line:rgba(46,44,40,0.13); --olive:#5C6B33; --amber:#DC851F;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#1E1D1C; --paper-2:#262523; --stage:#2A2927;
+    --ink:#EDEBE6; --ink-soft:#A39F97; --ink-faint:#75716A;
+    --line:rgba(255,255,255,0.14);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#1E1D1C; --paper-2:#262523; --stage:#2A2927;
+  --ink:#EDEBE6; --ink-soft:#A39F97; --ink-faint:#75716A;
+  --line:rgba(255,255,255,0.14);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font-family:'Inter',system-ui,sans-serif;font-size:15px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.page{max-width:1080px;margin:0 auto;padding:52px 24px 90px}
+.eyebrow{font-size:11px;letter-spacing:0.18em;text-transform:uppercase;color:var(--ink-soft);font-weight:600}
+h1{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:clamp(30px,6vw,44px);
+   letter-spacing:-0.02em;line-height:1.05;margin:12px 0 14px;text-wrap:balance}
+.lede{max-width:62ch;color:var(--ink-soft);font-size:16px;margin:0 0 12px}
+.lede b{color:var(--ink);font-weight:600}
+.legend{display:flex;gap:22px;flex-wrap:wrap;font-size:12px;color:var(--ink-faint);
+  letter-spacing:0.1em;text-transform:uppercase;font-weight:600;margin-bottom:36px}
+.group{margin-bottom:42px}
+.group h2{font-family:'Fraunces',serif;font-size:15px;font-weight:600;color:var(--ink-soft);margin:0 0 4px}
+.group > p{margin:0 0 18px;font-size:13.5px;color:var(--ink-faint);max-width:64ch}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(304px,1fr));gap:26px}
+.card{display:flex;flex-direction:column;gap:12px}
+.pair{display:flex;gap:14px;align-items:flex-start}
+.box{position:relative;flex:none}
+.box .icon{position:absolute;top:0;left:0;transform-origin:top left}
+.b128{width:128px;height:128px}   .b128 .icon{transform:scale(0.7111)}
+.b30{width:30px;height:30px}      .b30 .icon{transform:scale(0.1667)}
+.small{display:flex;align-items:center;gap:9px}
+.small .lbl{font-size:10px;letter-spacing:0.12em;text-transform:uppercase;color:var(--ink-faint);font-weight:600}
+.mname{font-family:'Fraunces',serif;font-size:18px;font-weight:600;letter-spacing:-0.01em;margin:0}
+.mnote{margin:2px 0 0;font-size:13px;color:var(--ink-soft);max-width:40ch}
+
+.icon{width:180px;height:180px;border-radius:41px;overflow:hidden;position:relative;isolation:isolate;
+  box-shadow:0 10px 24px -12px rgba(30,26,20,0.45),0 2px 5px rgba(30,26,20,0.14)}
+.art{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;z-index:3}
+.art svg{width:104px;height:104px;display:block;filter:drop-shadow(0 2px 6px rgba(20,26,10,0.42))}
+.art .letter{font-weight:600;line-height:1;text-shadow:0 2px 6px rgba(20,26,10,0.42)}
+
+.i-glass{background:radial-gradient(120% 100% at 20% 0%,#7C8F43 0%,#4A5729 55%,#2C3419 100%)}
+.i-glass .blob{position:absolute;border-radius:50%;filter:blur(26px);opacity:.85}
+.i-glass .b1{width:130px;height:130px;left:-30px;top:70px;background:#DC851F}
+.i-glass .b2{width:110px;height:110px;right:-24px;top:-20px;background:#A8C24E}
+.i-glass .lens{position:absolute;inset:26px;border-radius:34px;z-index:2;
+  backdrop-filter:blur(9px) saturate(220%) brightness(1.12);
+  -webkit-backdrop-filter:blur(9px) saturate(220%) brightness(1.12);
+  background:linear-gradient(150deg,rgba(255,255,255,0.34),rgba(255,255,255,0.06) 46%,rgba(255,255,255,0.20));
+  box-shadow:inset 0 1.5px 0 rgba(255,255,255,0.75),inset 0 -2px 3px rgba(255,255,255,0.28),
+             0 10px 20px -10px rgba(0,0,0,0.55)}
+.i-glass .lens::after{content:"";position:absolute;left:10%;top:6%;width:80%;height:34%;border-radius:50%;
+  background:linear-gradient(180deg,rgba(255,255,255,0.55),rgba(255,255,255,0));filter:blur(3px)}
+/* Farbfassungen derselben Linse */
+.i-glass.amber{background:radial-gradient(120% 100% at 20% 0%,#FFB758 0%,#DC851F 52%,#8E4E0B 100%)}
+.i-glass.amber .b1{background:#B5537E}
+.i-glass.amber .b2{background:#FFD08A}
+.i-glass.night{background:radial-gradient(120% 100% at 22% 4%,#3A4356 0%,#22262F 50%,#121417 100%)}
+.i-glass.night .b1{background:#DC851F;opacity:.7}
+.i-glass.night .b2{background:#5C6B33;opacity:.8}
+
+.i-morph{background:linear-gradient(160deg,#FFE9C9 0%,#F6D3D9 52%,#DCE3F2 100%)}
+.i-morph .blob{position:absolute;border-radius:50%;filter:blur(20px)}
+.i-morph .b1{width:120px;height:120px;left:-24px;bottom:-30px;background:#DC851F;opacity:.9}
+.i-morph .b2{width:96px;height:96px;right:-16px;top:-14px;background:#B5537E;opacity:.75}
+.i-morph .b3{width:80px;height:80px;left:56px;top:52px;background:#2E6DA4;opacity:.55}
+.i-morph .pane{position:absolute;inset:22px;border-radius:30px;z-index:2;
+  backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);
+  background:rgba(255,255,255,0.30);border:1.5px solid rgba(255,255,255,0.62);
+  box-shadow:0 8px 22px -12px rgba(60,40,20,0.5),inset 0 1px 0 rgba(255,255,255,0.6)}
+.i-morph .art svg{filter:drop-shadow(0 2px 7px rgba(120,70,30,0.45))}
+.i-morph .art .letter{text-shadow:0 2px 9px rgba(120,70,30,0.42)}
+.i-morph.mint{background:linear-gradient(160deg,#E6F0D8 0%,#DFEAF3 54%,#F6E3D2 100%)}
+.i-morph.mint .b1{background:#5C6B33;opacity:.8}
+.i-morph.mint .b2{background:#2E6DA4;opacity:.6}
+.i-morph.mint .b3{background:#DC851F;opacity:.7}
+
+.ways{display:flex;gap:20px;flex-wrap:wrap}
+.way{display:flex;flex-direction:column;gap:9px}
+.way .cap{font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-faint);font-weight:600}
+footer{border-top:1px solid var(--line);padding-top:26px}
+footer h2{font-family:'Fraunces',serif;font-size:19px;font-weight:600;margin:0 0 10px}
+footer p{color:var(--ink-soft);max-width:66ch;margin:0 0 10px}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12.5px;
+  background:var(--stage);padding:2px 6px;border-radius:5px;color:var(--ink)}
+</style>
+
+<div class="page">
+  <div class="eyebrow">Trainingslog · Motive, Runde 2</div>
+  <h1>Noch zwölf Zeichen</h1>
+  <p class="lede">Dieselben zwei Glas-Fassungen, zwölf neue Motive. Diesmal drei Richtungen:
+  das L <b>mit Inhalt verschränkt</b>, Zeichen fürs <b>Mitschreiben</b> statt fürs Sporttreiben,
+  und ganz <b>abstrakte Marken</b>, die nur noch Rhythmus zeigen. Ganz unten stehen drei
+  Farbfassungen der Hülle — bisher war jede Studie oliv.</p>
+  <div class="legend"><span>Links · Liquid Glass</span><span>Rechts · Glassmorphism</span></div>
+
+  <div class="group">
+    <h2>L, verschränkt</h2>
+    <p>Der Buchstabe bleibt, trägt aber etwas. Alle vier lesen sich zuerst als L und erst danach als Inhalt.</p>
+    <div class="grid" id="g1"></div>
+  </div>
+
+  <div class="group">
+    <h2>Mitschreiben</h2>
+    <p>Ein Log ist ein Buch, kein Sportgerät. Diese Gruppe zeigt das Aufschreiben, nicht das Training —
+    der Unterschied zu jeder anderen Fitness-App.</p>
+    <div class="grid" id="g2"></div>
+  </div>
+
+  <div class="group">
+    <h2>Abstrakte Marken</h2>
+    <p>Kein Gegenstand, nur Rhythmus: Wiederholung, Steigerung, vier Bereiche. Am weitesten weg vom
+    Naheliegenden, am nächsten an einer eigenen Marke.</p>
+    <div class="grid" id="g3"></div>
+  </div>
+
+  <div class="group">
+    <h2>Farbfassungen der Hülle</h2>
+    <p>Dasselbe Motiv (Kerbholz), vier Untergründe. Oliv ist die Kraft-Farbe der App, Amber die
+    Akzentfarbe, Nacht liegt neben dem dunklen Modus, Mint ist die kühle Glassmorphism-Variante.</p>
+    <div class="ways" id="g4"></div>
+  </div>
+
+  <footer>
+    <h2>Wie weiter</h2>
+    <p>Sag mir Motiv, Glas-Fassung und Farbe — auch quer aus beiden Runden. Ich baue daraus die
+    Endfassung, richte sie optisch aus (bei L und Kerbholz sitzt der Schwerpunkt nicht in der Mitte),
+    prüfe sie bei 180, 120, 60 und 29 px und lege das PNG als <code>apple-touch-icon</code> an.</p>
+  </footer>
+</div>
+
+<script>
+const S = (inner) => '<svg viewBox="0 0 100 100" fill="none" stroke="currentColor" '+
+  'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+inner+'</svg>';
+const dot = (x,y,r)=>'<circle cx="'+x+'" cy="'+y+'" r="'+(r||7)+'" fill="currentColor" stroke="none"/>';
+
+const MOTIFS = {
+  g1:[
+    {n:"L aus Sätzen", d:"Der Buchstabe besteht aus Satzpunkten — sieben Punkte, sieben Sätze.",
+     h:S(dot(32,22)+dot(32,38)+dot(32,54)+dot(32,70)+dot(50,70)+dot(68,70)+dot(86,70))},
+    {n:"L mit Strecke", d:"Das L ist das Achsenkreuz, die Route läuft darin auf und ab.",
+     h:S('<path d="M28 18 V74 H84" stroke-width="10"/>'+
+         '<path d="M38 62 L50 42 L60 54 L76 30" stroke-width="7" stroke-opacity="0.95"/>')},
+    {n:"L als Winkel", d:"Keine Schrift mehr, nur zwei Balken. Kantig, technisch, wie ein Winkelmaß.",
+     h:S('<path d="M34 18 V68 H84" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter"/>')},
+    {n:"Monogramm TL", d:"Trainingslog in zwei Buchstaben, ineinandergeschoben.",
+     h:'<div class="letter" style="font-family:\'Fraunces\',Georgia,serif;font-size:72px;letter-spacing:-0.16em;padding-right:8px">TL</div>'}
+  ],
+  g2:[
+    {n:"Kerbholz", d:"Vier Striche, einer quer — das älteste Trainingstagebuch der Welt.",
+     h:S('<path d="M26 28 V72" stroke-width="8"/><path d="M42 28 V72" stroke-width="8"/>'+
+         '<path d="M58 28 V72" stroke-width="8"/><path d="M74 28 V72" stroke-width="8"/>'+
+         '<path d="M18 70 L82 30" stroke-width="8"/>')},
+    {n:"Zeilen", d:"Drei Einträge unterschiedlicher Länge. Ein Log, wie es im Buch aussieht.",
+     h:S('<path d="M18 32 H82" stroke-width="12"/><path d="M18 50 H64" stroke-width="12"/>'+
+         '<path d="M18 68 H74" stroke-width="12"/>')},
+    {n:"Eintrag mit Haken", d:"Zeilen wie oben, die oberste abgehakt. Erzählt einen Vorgang statt eines Dings.",
+     h:S('<path d="M14 30 H56" stroke-width="11"/><path d="M14 50 H70" stroke-width="11"/>'+
+         '<path d="M14 70 H48" stroke-width="11"/>'+
+         '<path d="M66 26 L74 34 L90 16" stroke-width="9"/>')},
+    {n:"Aufgeschlagen", d:"Das Buch selbst, von oben. Wärmste Fassung, aber die Form ist zart.",
+     h:S('<path d="M50 34 C40 25 26 23 14 27 V70 C26 66 40 68 50 76 C60 68 74 66 86 70 V27 C74 23 60 25 50 34 Z" '+
+         'fill="currentColor" fill-opacity="0.94" stroke="none"/>'+
+         '<path d="M50 34 V76" stroke-width="4" stroke-opacity="0.5"/>')}
+  ],
+  g3:[
+    {n:"Steigerung", d:"Eine Treppe aus vier Stufen. Progression ohne jedes Sportgerät.",
+     h:S('<path d="M16 76 H36 V58 H56 V40 H76 V22" stroke-width="10"/>')},
+    {n:"Vier Bereiche", d:"Kraft, Rad, Laufen, Kurse als vier Felder — die Struktur der App selbst.",
+     h:S('<rect x="18" y="18" width="28" height="28" rx="8" fill="currentColor" stroke="none"/>'+
+         '<rect x="54" y="18" width="28" height="28" rx="8" fill="currentColor" fill-opacity="0.6" stroke="none"/>'+
+         '<rect x="18" y="54" width="28" height="28" rx="8" fill="currentColor" fill-opacity="0.6" stroke="none"/>'+
+         '<rect x="54" y="54" width="28" height="28" rx="8" fill="currentColor" stroke="none"/>')},
+    {n:"Wochenraster", d:"Zwölf Felder, unterschiedlich gefüllt — ein Jahr Training auf einen Blick.",
+     h:S('<rect x="16" y="24" width="16" height="16" rx="4" fill="currentColor" stroke="none"/>'+
+         '<rect x="38" y="24" width="16" height="16" rx="4" fill="currentColor" fill-opacity="0.45" stroke="none"/>'+
+         '<rect x="60" y="24" width="16" height="16" rx="4" fill="currentColor" stroke="none"/>'+
+         '<rect x="16" y="46" width="16" height="16" rx="4" fill="currentColor" fill-opacity="0.45" stroke="none"/>'+
+         '<rect x="38" y="46" width="16" height="16" rx="4" fill="currentColor" stroke="none"/>'+
+         '<rect x="60" y="46" width="16" height="16" rx="4" fill="currentColor" fill-opacity="0.25" stroke="none"/>'+
+         '<rect x="16" y="68" width="16" height="16" rx="4" fill="currentColor" fill-opacity="0.25" stroke="none"/>'+
+         '<rect x="38" y="68" width="16" height="16" rx="4" fill="currentColor" fill-opacity="0.45" stroke="none"/>'+
+         '<rect x="60" y="68" width="16" height="16" rx="4" fill="currentColor" stroke="none"/>')},
+    {n:"Volumen", d:"Balken plus Punktreihe: Umfang und einzelne Sätze in einem Bild.",
+     h:S('<path d="M24 74 V52" stroke-width="12"/><path d="M46 74 V38" stroke-width="12"/>'+
+         '<path d="M68 74 V24" stroke-width="12"/>'+
+         dot(24,36,5)+dot(46,22,5)+dot(68,10,5))}
+  ]
+};
+
+const shell = (cls, art, extra) =>
+  '<div class="icon '+cls+(extra?' '+extra:'')+'">'+
+  (cls==="i-glass"
+    ? '<div class="blob b1"></div><div class="blob b2"></div><div class="lens"></div>'
+    : '<div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div><div class="pane"></div>')+
+  '<div class="art">'+art+'</div></div>';
+
+Object.entries(MOTIFS).forEach(([id, list])=>{
+  const wrap = document.getElementById(id);
+  list.forEach(m=>{
+    const card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML =
+      '<div class="pair">'+
+        '<div class="box b128">'+shell("i-glass", m.h)+'</div>'+
+        '<div class="box b128">'+shell("i-morph", m.h)+'</div>'+
+      '</div>'+
+      '<div class="small"><span class="lbl">30 px</span>'+
+        '<div class="box b30">'+shell("i-glass", m.h)+'</div>'+
+        '<div class="box b30">'+shell("i-morph", m.h)+'</div>'+
+      '</div>'+
+      '<div><p class="mname">'+m.n+'</p><p class="mnote">'+m.d+'</p></div>';
+    wrap.appendChild(card);
+  });
+});
+
+const tally = MOTIFS.g2[0].h;
+const WAYS = [
+  ["i-glass","","Oliv"],["i-glass","amber","Amber"],
+  ["i-glass","night","Nacht"],["i-morph","mint","Mint"]
+];
+const w4 = document.getElementById("g4");
+WAYS.forEach(([cls,extra,cap])=>{
+  const d = document.createElement("div");
+  d.className = "way";
+  d.innerHTML = '<div class="box b128">'+shell(cls, tally, extra)+'</div>'+
+                '<div class="small"><div class="box b30">'+shell(cls, tally, extra)+'</div>'+
+                '<span class="cap">'+cap+'</span></div>';
+  w4.appendChild(d);
+});
+</script>
