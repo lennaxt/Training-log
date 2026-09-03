@@ -234,17 +234,20 @@
 
   /* ── Hero ── */
   .hero{display:grid;grid-template-columns:auto 1fr;gap:26px;align-items:end;margin-bottom:34px}
-  .hero-letter{--heroc:var(--green);
+  /* Der Verlauf wird nur innerhalb des Kastens gemalt. Deshalb traegt ihn ein
+     inneres Zeichen (.gtxt), dessen Kasten oben und unten ueber die Zeile
+     hinausragt — sonst verlieren Ober- und Unterlaengen ihre Spitzen. Der
+     negative Rand nimmt den Platz wieder zurueck, damit die Anordnung bleibt. */
+  .gtxt{display:inline-block;padding:.45em 0;margin:-.45em 0;pointer-events:none;
+    background:linear-gradient(150deg,color-mix(in srgb,var(--gc) 68%,#fff),var(--gc) 62%);
+    -webkit-background-clip:text;background-clip:text;color:transparent}
+  .hero-letter{--gc:var(--green);
     font-family:var(--display);font-weight:500;font-size:92px;line-height:.78;
-    letter-spacing:-0.04em;color:var(--heroc);
-    background:linear-gradient(150deg,color-mix(in srgb,var(--heroc) 68%,#fff),var(--heroc) 62%);
-    -webkit-background-clip:text;background-clip:text;color:transparent;
-    border:0;padding:0 0 .16em;margin-bottom:-.16em;
-    cursor:pointer;display:block;transition:opacity .2s}
+    letter-spacing:-0.04em;color:var(--gc);background:none;
+    border:0;padding:0;cursor:pointer;display:block;transition:opacity .2s}
   .hero-letter:active{opacity:.55}
   .hero-letter.static:active{opacity:1}
-  .hero.dayB .hero-letter{background:linear-gradient(150deg,var(--earth),var(--glow));
-    -webkit-background-clip:text;background-clip:text;color:transparent}
+  .hero.dayB .hero-letter .gtxt{background:linear-gradient(150deg,var(--earth),var(--glow))}
   .hero-side{padding-bottom:6px}
   .hero-side h1{font-size:24px;margin-top:14px}
 
@@ -474,23 +477,17 @@
   .hist-hint{font-size:11.5px;color:var(--ink-faint);margin:0 0 18px;line-height:1.45}
   .sess-top{display:grid;grid-template-columns:52px minmax(0,1fr) auto;gap:20px;align-items:center;margin-bottom:20px}
   .sess-badge{--gc:var(--blue);
-    font-family:var(--display);font-size:38px;font-weight:500;line-height:.8;
-    background:linear-gradient(150deg,color-mix(in srgb,var(--gc) 66%,#fff),var(--gc) 62%);
-    -webkit-background-clip:text;background-clip:text;color:transparent;width:fit-content;
-    padding-bottom:.1em;margin-bottom:-.1em}
+    font-family:var(--display);font-size:38px;font-weight:500;line-height:.8;color:var(--gc)}
   .sess-date{min-width:0}
   .sess-date h3{font-size:19px}
   .sess-date span{font-size:12.5px;color:var(--ink-soft)}
   .sess-vol{text-align:right}
   .sess-vol b{--gc:var(--blue);
-    font-family:var(--display);font-weight:500;font-size:24px;display:block;line-height:1;
-    background:linear-gradient(150deg,color-mix(in srgb,var(--gc) 66%,#fff),var(--gc) 62%);
-    -webkit-background-clip:text;background-clip:text;color:transparent;width:fit-content;margin-left:auto;
-    padding-bottom:.1em;margin-bottom:-.1em}
+    font-family:var(--display);font-weight:500;font-size:24px;display:block;line-height:1;color:var(--gc)}
   body.catRad .sess-vol b{--gc:var(--rad)}
   body.catLauf .sess-vol b{--gc:var(--lauf)}
   body.catKurs .sess-vol b{--gc:var(--kurs)}
-  .sess-vol span{font-size:10.5px;letter-spacing:0.13em;text-transform:uppercase;color:var(--ink-soft);
+  .sess-vol>span{font-size:10.5px;letter-spacing:0.13em;text-transform:uppercase;color:var(--ink-soft);
     font-weight:600;margin-top:5px;display:block}
   .sline{display:flex;justify-content:space-between;gap:14px;align-items:baseline;
     padding:9px 0;border-top:1px solid var(--line)}
@@ -1618,11 +1615,11 @@ function paintTop(){
   const heroLetter=document.getElementById("heroLetter");
   const heroSide=document.querySelector(".hero-side");
   if(isActCat(cat)){
-    heroLetter.textContent=ACT[cat].label();
+    setDisplayText(heroLetter,ACT[cat].label());
     heroLetter.style.display="";
     heroLetter.style.fontSize="48px";
     heroLetter.style.letterSpacing="-0.02em";
-    heroLetter.style.setProperty("--heroc","var("+ACT[cat].accentVar+")");
+    heroLetter.style.setProperty("--gc","var("+ACT[cat].accentVar+")");
     const switchable=cat==="kurs"&&typeList("kurs").length>1;
     heroLetter.style.cursor=switchable?"pointer":"default";
     heroLetter.classList.toggle("static",!switchable);
@@ -1631,9 +1628,9 @@ function paintTop(){
   }else{
     heroLetter.style.fontSize="";
     heroLetter.style.letterSpacing="";
-    heroLetter.style.removeProperty("--heroc");
+    heroLetter.style.removeProperty("--gc");
     heroSide.style.display="";
-    heroLetter.textContent=showEmpty?"":d;
+    setDisplayText(heroLetter,showEmpty?"":d);
     heroLetter.style.display=showEmpty?"none":"";
     const wechselbar=kraftDays().length>1;
     heroLetter.classList.toggle("static",!wechselbar);
@@ -2074,9 +2071,9 @@ function renderActHist(cfg){
     h+=`<div class="sessswipe" data-ts="${s.ts}">
       <div class="sess-behind"><button class="sess-behind-btn" onclick="delSession(${s.ts})" aria-label="${cfg.saveLabel} löschen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></button></div>
       <div class="swipe-body sess ${i===0?'sess-first':''}">${r.gpx?`<div class="ride-map hist" id="rm${s.ts}" onclick="openRideMap(${s.ts})"></div>`:(!cfg.gpx&&r.yt?ytThumbBlock(r.yt):"")}<div class="sess-top">
-        <div class="sess-badge" style="--gc:var(${cfg.accentVar})">${cfg.badge(s)}</div>
+        <div class="sess-badge" style="--gc:var(${cfg.accentVar})"><span class="gtxt">${cfg.badge(s)}</span></div>
         <div class="sess-date"><h3>${fFull(s.ts)}</h3><span>${fT(s.ts)} Uhr</span></div>
-        <div class="sess-vol"><b>${cfg.volVal(s,r)}</b><span>${cfg.volLabel}</span></div>
+        <div class="sess-vol"><b><span class="gtxt">${cfg.volVal(s,r)}</span></b><span>${cfg.volLabel}</span></div>
       </div>
       ${actLines(cfg,s)}
     </div></div>`;
@@ -2564,9 +2561,9 @@ function renderHist(){const v=document.getElementById("viewHist");
       h+=`<div class="sessswipe" data-ts="${s.ts}">
         <div class="sess-behind"><button class="sess-behind-btn" onclick="delSession(${s.ts})" aria-label="Einheit löschen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></button></div>
         <div class="swipe-body sess ${i===0?'sess-first':''}"><div class="sess-top">
-        <div class="sess-badge" style="--gc:${s.day==="A"?'var(--green)':'var(--earth)'}">${s.day}</div>
+        <div class="sess-badge" style="--gc:${s.day==="A"?'var(--green)':'var(--earth)'}"><span class="gtxt">${s.day}</span></div>
         <div class="sess-date"><h3>${fFull(s.ts)}</h3><span>${fT(s.ts)} Uhr</span></div>
-        <div class="sess-vol"><b>${(vol(s)/1000).toFixed(1)}t</b><span>Volumen</span></div>
+        <div class="sess-vol"><b><span class="gtxt">${(vol(s)/1000).toFixed(1)}t</span></b><span>Volumen</span></div>
       </div>${lines}</div></div>`;
     }
   });
@@ -3077,6 +3074,13 @@ const FONTS=[
   {id:"cabinet",name:"Cabinet Grotesk",note:"Fontshare · kompakt",stack:"'Cabinet Grotesk',system-ui,sans-serif",fs:"cabinet-grotesk@400,500,700"},
   {id:"outfit",name:"Outfit",note:"Geometrisch",stack:"'Outfit',system-ui,sans-serif",g:"Outfit:wght@400;500;600"}
 ];
+function setDisplayText(el,txt){
+  el.textContent="";
+  if(txt===""||txt==null)return;
+  const sp=document.createElement("span");
+  sp.className="gtxt";sp.textContent=txt;
+  el.appendChild(sp);
+}
 function fontById(id){return FONTS.find(f=>f.id===id)||FONTS[0]}
 function fontHref(f){
   if(f.g)return "https://fonts.googleapis.com/css2?family="+f.g+"&display=swap";

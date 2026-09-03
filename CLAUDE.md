@@ -154,10 +154,15 @@ Artifact-Link in der Sitzung). Entschieden ist:
   wie das Blau im App-Icon. Neue Bereichsfarbe heißt also: `--markc` setzen, nie
   `background` an `.mark` überschreiben. Die Ecken sind mit `border-radius:22.4%`
   gerundet — derselbe Anteil, den iOS den Icons auf dem Home-Bildschirm gibt.
-- **`background-clip:text` schneidet Unterlängen ab.** Der Verlauf wird nur bis zur
-  Kastenkante gemalt; ein „g" oder „y" verschwindet, wenn die Zeilenhöhe knapp ist.
-  Gegenmittel: `padding-bottom` in em plus gleich großer negativer `margin-bottom`,
-  damit die Anordnung gleich bleibt (`.hero-letter`, `.sess-badge`, `.sess-vol b`).
+- **`background-clip:text` malt nur bis zur Kastenkante.** Ober- und Unterlängen
+  fallen weg, wenn die Zeilenhöhe knapp ist — und wie viel fehlt, hängt an der
+  gewählten Schrift. Deshalb trägt den Verlauf nie das Textelement selbst, sondern
+  ein inneres `<span class="gtxt">` mit `padding:.45em 0;margin:-.45em 0` (Reserve
+  für jede Schrift, Platz durch den negativen Rand zurückgegeben) und
+  `pointer-events:none`, damit der größere Malkasten keine Tipps abfängt. Text
+  dorthin setzen mit `setDisplayText(el,txt)`, nicht mit `textContent`.
+- **Ein `<button>` ohne `background` ist grau.** Der Browser malt `buttonface`;
+  wer eine Hintergrund-Deklaration entfernt, muss `background:none` dalassen.
 - **Farbige Flächen tragen den Lichtverlauf des Icons** (`--sheen`, als
   `background-image` **über** der Farbe, damit gewählte Akzentfarben durchschlagen).
   Wer eine farbige Fläche später umfärbt, nimmt `background-color`, nicht die
