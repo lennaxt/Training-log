@@ -3323,6 +3323,15 @@ const LISTE_MAX=16;
 /* Die Themendateien fallen aus einem Job im Repo — siehe scripts/. Der letzte
    Stand liegt zusaetzlich im localStorage, damit die Pause ohne Netz laeuft. */
 const quelleMem={};
+/* Gelesene Artikel bleiben aus dem Zufalls-Strom — pro Geraet, wie der Cache. */
+const GELESEN_KEY="q_gelesen";
+function gelesenSet(){
+  try{return new Set(JSON.parse(localStorage.getItem(GELESEN_KEY)||"[]"))}catch(e){return new Set()}
+}
+function gelesenAdd(u){
+  if(!u)return;
+  try{const s=gelesenSet();if(!s.has(u)){s.add(u);localStorage.setItem(GELESEN_KEY,JSON.stringify(Array.from(s)))}}catch(e){}
+}
 let quelleCat=null;
 function quelleView(modeId,dir,lesen,strom){return {mount(el){quelleRender(el,modeId,dir,lesen,strom)}}}
 function quelleSel(modeId){
@@ -3341,6 +3350,8 @@ function newsAge(iso){
 function quelleRender(el,modeId,dir,lesen,strom){
   const liste=el.querySelector(".news-list"),leser=el.querySelector(".news-read");
   if(!liste)return;
+  /* Die Vorschau in den Einstellungen zeigt einen Artikel, ohne ihn zu lesen. */
+  const vorschau=!!(el.closest&&el.closest("#modePrev"));
   const themen=quelleSel(modeId);
   let zuletzt=null;
   const beutel=()=>themen.flatMap(t=>{
@@ -3348,13 +3359,18 @@ function quelleRender(el,modeId,dir,lesen,strom){
     return (d.items||[]).map(i=>({...i,liz:d.lizenz}));
   });
   const zufall=pool=>{
+    // Gelesene Artikel kommen nicht erneut, solange es Ungelesene gibt.
+    const s=gelesenSet();
+    const ungelesen=pool.filter(i=>!i.u||!s.has(i.u));
+    const quell=ungelesen.length?ungelesen:pool;
     // Nie zweimal hintereinander dasselbe, solange es Alternativen gibt.
-    const frei=pool.filter(i=>i.t!==zuletzt);
-    const w=(frei.length?frei:pool)[Math.floor(Math.random()*(frei.length||pool.length))];
+    const frei=quell.filter(i=>i.t!==zuletzt);
+    const w=(frei.length?frei:quell)[Math.floor(Math.random()*(frei.length||quell.length))];
     zuletzt=w&&w.t;
     return w;
   };
   const oeffnen=it=>{
+    if(!vorschau)gelesenAdd(it.u);
     leser.innerHTML="";
     if(!strom){
       const zurueck=document.createElement("button");
@@ -3434,7 +3450,7 @@ const SKELETT=`<div class="news-list"><div class="news-item">
      <div class="mp-line" style="width:38%"></div><div class="mp-line" style="width:96%;height:11px"></div>
      <div class="mp-line" style="width:88%"></div><div class="mp-line" style="width:64%"></div></div></div>
    <div class="news-read" hidden></div>`;
-const N=quelleView("wissen","news",false);
+const N=quelleView("wissen","news",false,true);
 const W=quelleView("wiki","wissen",true,true);
 const PAUSE_MODES=[
   {id:"timer",name:"Timer",field:"pauseTimer",sub:"Darstellung",
@@ -3463,7 +3479,7 @@ const PAUSE_MODES=[
    opts:[
      {id:"kreatur",name:"Kreatur",...creatureView()}
    ]},
-  {id:"wissen",name:"News",note:"Schlagzeilen aus deinen Themen zum Überfliegen.",field:"pauseThemen",sub:"Themen",multi:true,
+  {id:"wissen",name:"News",note:"Schlagzeilen aus deinen Themen — ein Zufallsartikel nach dem anderen.",field:"pauseThemen",sub:"Themen",multi:true,
    def:["inland","ausland","wissen"],
    html:()=>SKELETT,
    opts:[
