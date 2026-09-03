@@ -416,7 +416,7 @@
   .swipe.open .swipe-body{transform:translateX(-104px)}
   .swipe.drag .swipe-body{transition:none}
   .setswipe .swipe-tint{position:absolute;top:0;right:0;bottom:0;width:0;overflow:hidden;
-    background:#B94A48;pointer-events:none;transition:width .18s ease}
+    background:#B94A48;background-image:var(--sheen);pointer-events:none;transition:width .18s ease}
   .setswipe.drag .swipe-tint{transition:none}
   .setswipe .swipe-del-lbl{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
     color:#fff;font-family:'Inter',sans-serif;font-size:14px;font-weight:600;letter-spacing:0.12em;
@@ -441,15 +441,23 @@
   .finishbar.hidden{display:none}
   .finishbar .in{width:100%}
   .finishbar-inner{border-top:1px solid var(--line);padding-top:16px}
-  .btn-primary{width:100%;border:0;padding:18px;font-weight:600;font-size:15px;
-    background:var(--earth);background-image:var(--sheen);color:#fff;
+  .btn-primary{--btnc:var(--earth);
+    width:100%;border:0;padding:18px;font-weight:600;font-size:15px;
+    background:var(--btnc);color:#fff;
+    background:linear-gradient(150deg,
+      color-mix(in srgb,var(--btnc) 6%,var(--glass)) 0%,
+      color-mix(in srgb,var(--btnc) 15%,var(--glass)) 46%,
+      color-mix(in srgb,var(--btnc) 32%,var(--glass)) 100%);
+    color:color-mix(in srgb,var(--btnc) 68%,var(--glass-ink));
+    box-shadow:inset 0 0 0 1px color-mix(in srgb,var(--btnc) 22%,transparent),
+      inset 0 1px 0 rgba(255,255,255,0.6);
     cursor:pointer;transition:filter .15s;display:flex;align-items:center;justify-content:center;gap:10px;
     border-radius:12px}
-  .btn-primary:active{filter:brightness(.92)}
-  body.dayB .btn-primary{background-color:var(--green)}
-  body.catRad .btn-primary{background-color:var(--rad)}
-  body.cat-lauf .btn-primary{background-color:var(--lauf)}
-  body.cat-kurs .btn-primary{background-color:var(--kurs)}
+  .btn-primary:active{filter:brightness(.95)}
+  body.dayB .btn-primary{--btnc:var(--green)}
+  body.catRad .btn-primary{--btnc:var(--rad)}
+  body.cat-lauf .btn-primary{--btnc:var(--lauf)}
+  body.cat-kurs .btn-primary{--btnc:var(--kurs)}
   .btn-primary .n{font-family:'Fraunces',serif;font-weight:400;opacity:.8}
   .btn-discard{width:100%;background:none;border:1.5px solid var(--line);padding:16px;
     font-weight:600;font-size:14px;color:var(--ink-soft);cursor:pointer;transition:.15s;
@@ -463,15 +471,21 @@
   .sess{border-bottom:1px solid var(--line);padding:36px 0}
   .hist-hint{font-size:11.5px;color:var(--ink-faint);margin:0 0 18px;line-height:1.45}
   .sess-top{display:grid;grid-template-columns:52px minmax(0,1fr) auto;gap:20px;align-items:center;margin-bottom:20px}
-  .sess-badge{font-family:'Fraunces',serif;font-size:38px;font-weight:500;color:var(--blue);line-height:.8}
+  .sess-badge{--gc:var(--blue);
+    font-family:'Fraunces',serif;font-size:38px;font-weight:500;line-height:.8;
+    background:linear-gradient(150deg,color-mix(in srgb,var(--gc) 66%,#fff),var(--gc) 62%);
+    -webkit-background-clip:text;background-clip:text;color:transparent;width:fit-content}
   .sess-date{min-width:0}
   .sess-date h3{font-size:19px}
   .sess-date span{font-size:12.5px;color:var(--ink-soft)}
   .sess-vol{text-align:right}
-  .sess-vol b{font-family:'Fraunces',serif;font-weight:500;font-size:24px;color:var(--blue);display:block;line-height:1}
-  body.catRad .sess-vol b{color:var(--rad)}
-  body.catLauf .sess-vol b{color:var(--lauf)}
-  body.catKurs .sess-vol b{color:var(--kurs)}
+  .sess-vol b{--gc:var(--blue);
+    font-family:'Fraunces',serif;font-weight:500;font-size:24px;display:block;line-height:1;
+    background:linear-gradient(150deg,color-mix(in srgb,var(--gc) 66%,#fff),var(--gc) 62%);
+    -webkit-background-clip:text;background-clip:text;color:transparent;width:fit-content;margin-left:auto}
+  body.catRad .sess-vol b{--gc:var(--rad)}
+  body.catLauf .sess-vol b{--gc:var(--lauf)}
+  body.catKurs .sess-vol b{--gc:var(--kurs)}
   .sess-vol span{font-size:10.5px;letter-spacing:0.13em;text-transform:uppercase;color:var(--ink-soft);
     font-weight:600;margin-top:5px;display:block}
   .sline{display:flex;justify-content:space-between;gap:14px;align-items:baseline;
@@ -520,7 +534,7 @@
   .spark-dot{position:absolute;width:9px;height:9px;margin:-4.5px 0 0 -4.5px;border-radius:50%;
     background:var(--green-dark);opacity:0;transform:scale(0);
     transition:opacity 200ms ease,transform 300ms cubic-bezier(.34,1.56,.64,1)}
-  .spark-dot.pr{background:var(--green)}
+  .spark-dot.pr{background:var(--green);background-image:var(--sheen)}
   .spark-dot.on{opacity:1;transform:scale(1)}
   .spark-cap{position:absolute;left:0;right:0;height:1px;background:var(--green);opacity:.4}
   .spark-base{position:absolute;left:0;right:0;bottom:0;height:1px;
@@ -2023,7 +2037,7 @@ function renderActHist(cfg){
     h+=`<div class="sessswipe" data-ts="${s.ts}">
       <div class="sess-behind"><button class="sess-behind-btn" onclick="delSession(${s.ts})" aria-label="${cfg.saveLabel} löschen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></button></div>
       <div class="swipe-body sess ${i===0?'sess-first':''}">${r.gpx?`<div class="ride-map hist" id="rm${s.ts}" onclick="openRideMap(${s.ts})"></div>`:(!cfg.gpx&&r.yt?ytThumbBlock(r.yt):"")}<div class="sess-top">
-        <div class="sess-badge" style="color:var(${cfg.accentVar})">${cfg.badge(s)}</div>
+        <div class="sess-badge" style="--gc:var(${cfg.accentVar})">${cfg.badge(s)}</div>
         <div class="sess-date"><h3>${fFull(s.ts)}</h3><span>${fT(s.ts)} Uhr</span></div>
         <div class="sess-vol"><b>${cfg.volVal(s,r)}</b><span>${cfg.volLabel}</span></div>
       </div>
@@ -2513,7 +2527,7 @@ function renderHist(){const v=document.getElementById("viewHist");
       h+=`<div class="sessswipe" data-ts="${s.ts}">
         <div class="sess-behind"><button class="sess-behind-btn" onclick="delSession(${s.ts})" aria-label="Einheit löschen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></button></div>
         <div class="swipe-body sess ${i===0?'sess-first':''}"><div class="sess-top">
-        <div class="sess-badge" style="color:${s.day==="A"?'var(--green)':'var(--earth)'}">${s.day}</div>
+        <div class="sess-badge" style="--gc:${s.day==="A"?'var(--green)':'var(--earth)'}">${s.day}</div>
         <div class="sess-date"><h3>${fFull(s.ts)}</h3><span>${fT(s.ts)} Uhr</span></div>
         <div class="sess-vol"><b>${(vol(s)/1000).toFixed(1)}t</b><span>Volumen</span></div>
       </div>${lines}</div></div>`;
