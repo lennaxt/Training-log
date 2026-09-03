@@ -703,6 +703,7 @@
 
   .pref-section{margin-bottom:36px}
   #prefsOverlay .pref-section{margin-bottom:66px}
+  .pref-h1{margin-top:14px}
   #profileOverlay{z-index:930}
   #profileOverlay .pref-section{margin-bottom:66px}
   #profileOverlay .pref-cur{min-width:0;overflow:hidden;text-overflow:ellipsis;font-family:'Inter',sans-serif}
@@ -1083,17 +1084,19 @@
 <div class="plan-overlay" id="prefsOverlay">
   <div class="plan-sheet">
     <div class="plan-top">
-      <h1 class="plan-title">Einstellungen</h1>
+      <h1 class="plan-title">Profil</h1>
       <button class="plan-close" onclick="closePrefs()" aria-label="Schließen">×</button>
     </div>
+    <div class="plan-sub">Dein Körpergewicht, dein Ziel und dein Konto — auf einem eigenen Bildschirm.</div>
 
     <div class="pref-section">
-      <div class="pref-title">Profil</div>
-      <div class="pref-sub">Dein Körpergewicht, dein Ziel und dein Konto — alles auf einem eigenen Bildschirm.</div>
       <button class="pref-row pref-clickable" onclick="openProfile()"><span>Profil öffnen</span>
         <span class="pref-cur" id="prefProfileCur">–</span>
         <span class="catset-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></span></button>
     </div>
+
+    <h1 class="plan-title pref-h1">Einstellungen</h1>
+    <div class="plan-sub">Alles, was die App selbst betrifft.</div>
 
     <div class="pref-section">
       <div class="pref-title">Darstellung</div>
