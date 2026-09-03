@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-03T08:04:27+00:00",
+ "updated": "2026-09-03T13:35:55+00:00",
  "items": [
+  {
+   "t": "Kriselnde Koalition: Überlebt Schwarz-Rot die Landtagswahlen?",
+   "s": "Merz arbeitet an seiner Unbeliebtheit, die SPD wirkt blass. In den Regierungsparteien brodelt es. Der Preis ihres Scheiterns wäre hoch.",
+   "u": "https://taz.de/Unruhe-in-der-Koalition/!6209790/",
+   "q": "taz",
+   "d": "2026-09-03T09:49:00+00:00"
+  },
+  {
+   "t": "Rüstungskonzern in München angegriffen: LKA vermutet Anschlag",
+   "s": "Nach einer Brandattacke auf eine Münchner Baustelle vermuten Ermittler, dass ein Rüstungsunternehmen das Ziel war. Zwei Menschen wurden festgenommen.",
+   "u": "https://taz.de/Ruestungskonzern-in-Muenchen-angegriffen-LKA-ermittelt-wegen-politischem-Hintergrund/!6209786/",
+   "q": "taz",
+   "d": "2026-09-03T08:56:00+00:00"
+  },
+  {
+   "t": "Wahlen in MV und Berlin: Schwesig rückt der AfD auf die Pelle",
+   "s": "Die SPD liegt laut einer neuen Umfrage in Mecklenburg-Vorpommern nur noch drei Prozentpunkte hinter der AfD. Berlin erscheint aktuell unregierbar.",
+   "u": "https://taz.de/Landtagswahlen-in-Ostdeutschland/!6209758/",
+   "q": "taz",
+   "d": "2026-09-03T08:01:00+00:00"
+  },
   {
    "t": "Geburtenrückgang in Deutschland: Keinen Bock",
    "s": "Frauen bekommen immer weniger Kinder. Viele Frauen haben keine Lust mehr, sich über die Aufteilung von Familien- und Erwerbsarbeit zu streiten.",
@@ -137,7 +158,7 @@
   },
   {
    "t": "Housing-First-Angebote in NRW: Im Kampf gegen die Wohnungsnot",
-   "s": "Nordrhein-Westfalen will Wohnraum ohne Vorbedingungen schaffen. Doch Kritiker aus der Düsseldorfer Obdachlosenhilfe warnen.",
+   "s": "Nordrhein-Westfalen will Wohnraum ohne Vorbedingungen schaffen. Das sei gut, aber komme reichlich spät, sagt eine Obdachlosenhilfe in Düsseldorf.",
    "u": "https://taz.de/Housing-First-Angebote-in-NRW/!6209282/",
    "q": "taz",
    "d": "2026-09-02T05:40:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Grosseinsatz-der-Polizei/!6209349/",
    "q": "taz",
    "d": "2026-09-02T05:35:00+00:00"
-  },
-  {
-   "t": "Schulen in Sachsen-Anhalt: Die Haltung bleibt",
-   "s": "In Sachsen-Anhalt will die AfD die Bildungspolitik ändern: Regenbogenfahnen verbieten, Demokratiearbeit kürzen. Was sagen die Schulen dazu?",
-   "u": "https://taz.de/Schulen-in-Sachsen-Anhalt/!6207596/",
-   "q": "taz",
-   "d": "2026-09-02T05:07:00+00:00"
-  },
-  {
-   "t": "Russlands Machenschaften in der EU: Tanker, Drohnen, Sprengstoffanschläge",
-   "s": "Der Kreml gibt offen zu, dass er Länder, die die Ukraine unterstützen, im Visier hat. Nun will Deutschland bislang nicht genutzte Maßnahmen anwenden.",
-   "u": "https://taz.de/Russlands-Machenschaften-in-der-EU/!6209136/",
-   "q": "taz",
-   "d": "2026-09-01T16:21:00+00:00"
-  },
-  {
-   "t": "Nach Brandanschlag auf Flüchtlingsheim: Zwei Jungnazis wegen Beihilfe zu versuchtem Mord angeklagt",
-   "s": "Der Generalbundesanwalt erhebt Anklage gegen zwei Mitglieder der „Letzten Verteidigungswelle“. Die sollen beim Brandanschlag in Schmölln geholfen haben.",
-   "u": "https://taz.de/Nach-Brandanschlag-auf-Fluechtlingsheim/!6209166/",
-   "q": "taz",
-   "d": "2026-09-01T16:02:00+00:00"
   }
  ]
 }

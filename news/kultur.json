@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-09-03T08:04:29+00:00",
+ "updated": "2026-09-03T13:35:56+00:00",
  "items": [
+  {
+   "t": "Super-El-Niño erwartet: Hochwasser und Hitze in Argentinien",
+   "s": "In Argentinien ist aktuell Winter. Doch Meteorologen warnen bereits vor bevorstehendem Starkregen, Überschwemmungen und weiteren extremen Wetterereignissen.",
+   "u": "https://taz.de/Super-El-Nino-erwartet/!6204404/",
+   "q": "taz",
+   "d": "2026-09-03T13:01:00+00:00"
+  },
+  {
+   "t": "Konferenz in Argentinien: Netzwerktreffen für Lateinamerikas Libertäre und Rechte",
+   "s": "Auf dem ganzen Kontinent wächst ein Netzwerk libertärer und konservativer Denkfabriken. In Argentinien diskutieren sie nun politische Reformen.",
+   "u": "https://taz.de/Konferenz-in-Argentinien/!6209754/",
+   "q": "taz",
+   "d": "2026-09-03T10:11:00+00:00"
+  },
   {
    "t": "Attentat auf Charlie Kirk: Tyler Robinson droht die Todesstrafe",
    "s": "Der Mann, der mutmaßlich den rechten US-Influencer Charlie Kirk erschossen hat, muss sich vor Gericht verantworten. Ihm droht die Hinrichtung.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Repression-in-Kuba/!6202453/",
    "q": "taz",
    "d": "2026-08-13T15:54:00+00:00"
-  },
-  {
-   "t": "Sprecherin im Weißen Haus: Trumps Maschinengewehr tritt ab",
-   "s": "Karoline Leavitt war mit 27 die jüngste Pressesprecherin des Weißen Hauses aller Zeiten. Jetzt tritt sie zurück. Sie wolle mehr Zeit für die Familie.",
-   "u": "https://taz.de/Sprecherin-im-White-House/!6204082/",
-   "q": "taz",
-   "d": "2026-08-13T14:53:00+00:00"
-  },
-  {
-   "t": "Erdbeben mit 265 Toten: Kolumbien vor kritischen Stunden",
-   "s": "Angehörige suchen in den Trümmern verzweifelt nach Vermissten. Den Rettern bleibt nicht mehr viel Zeit. Kolumbiens Präsident ernennt einen neuen Krisenmanager.",
-   "u": "https://taz.de/Erdbeben-mit-265-Toten/!6204025/",
-   "q": "taz",
-   "d": "2026-08-13T07:35:00+00:00"
   }
  ]
 }

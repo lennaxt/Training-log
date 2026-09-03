@@ -1,7 +1,56 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-03T08:04:26+00:00",
+ "updated": "2026-09-03T13:35:54+00:00",
  "items": [
+  {
+   "t": "Russland Schattenflotte - Wie die Bundesregierung sanktionierte Öltransporte stoppen kann",
+   "s": "Als Reaktion auf den versuchten Drohnenanschlag von Leipzig hat die Bundesregierung auch ein schärferes Vorgehen gegen Russlands sogenannte Schattenflotte angekündigt. Was möglich ist, machen andere europäische Länder schon länger vor.",
+   "u": "https://www.deutschlandfunk.de/russland-schattenflotte-ostsee-bundesregierung-sanktionen-kontrollen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-03T12:26:00+00:00"
+  },
+  {
+   "t": "Hedgefonds Elliott beflügelt die Telekom-Aktie",
+   "s": "Die Telekom-Aktie ist im Aufwind: Grund ist die wachsende Beteiligung des US-Hedgefonds Elliott am Bonner Konzern. Was wird aus der Fusion mit der US-Tochter T-Mobile?",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-telekom-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T12:00:20+00:00"
+  },
+  {
+   "t": "Immer mehr neue Autos fahren elektrisch",
+   "s": "E-Autos sind bei deutschen Käufern beliebt, fast jedes dritte neu zugelassene Auto im August war ein reiner Elektro-Pkw. Grund für die Entwicklung dürfte auch die E-Auto-Prämie des Bundes sein.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/kba-zulassungen-e-autos-trend-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T11:43:20+00:00"
+  },
+  {
+   "t": "Wirtschaftsinstitute korrigieren Wachstumsprognosen nach oben",
+   "s": "Es soll wieder bergauf gehen in der Wirtschaft: Mehrere Forschungsinstitute heben ihre Prognose für das aktuelle Jahr deutlich an. Doch die Inflation bleibt hoch - und könnte zur Belastung werden.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsinstitute-herbstprognose-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T11:07:18+00:00"
+  },
+  {
+   "t": "LNG aus den USA: Droht die nächste Abhängigkeit beim Gas?",
+   "s": "Die deutschen Gasspeicher sind so leer wie nie um diese Zeit. Auch darum werden LNG-Lieferungen immer wichtiger. Doch das Flüssiggas kommt vor allem aus den USA. Ist das ein Risiko? Von L.-M. Hiltscher.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/gas-versorgung-lng-usa-pipelines-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T11:06:08+00:00"
+  },
+  {
+   "t": "Norwegen beschlagnahmt russisches Schiff vor Spitzbergen",
+   "s": "Ein russisches Schiff für Expeditionskreuzfahrten ist vor Spitzbergen von norwegischen Behörden beschlagnahmt worden. Grund sind Entschädigungsforderungen des ukrainischen Energiekonzerns Naftogaz. Russland reagierte empört.",
+   "u": "https://www.tagesschau.de/ausland/europa/kreuzfahrtschiff-russland-norwegen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T08:53:07+00:00"
+  },
+  {
+   "t": "Super E10 erreicht neuen Höchststand infolge des Iran-Kriegs",
+   "s": "Es ist ein neuer Schock an den Zapfsäulen: Benzin ist wegen der neuen Kämpfe so teuer wie noch nie. Doch es lohnt ein genauer Blick. Denn wird die Inflation berücksichtigt, waren die Spritpreise schon mal höher.",
+   "u": "https://www.tagesschau.de/wirtschaft/benzinpreis-rekord-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T08:49:41+00:00"
+  },
   {
    "t": "Update Wirtschaft vom 03.09.2026",
    "s": "Update Wirtschaft vom 03.09.2026",
@@ -17,25 +66,11 @@
    "d": "2026-09-03T07:14:39+00:00"
   },
   {
-   "t": "Norwegen beschlagnahmt russisches Schiff vor Spitzbergen",
-   "s": "Ein russisches Forschungsschiff ist vor Spitzbergen von norwegischen Behörden beschlagnahmt worden. Grund sind Entschädigungsforderungen des ukrainischen Energiekonzerns Naftogaz nach Russlands Annexion der Halbinsel Krim.",
-   "u": "https://www.tagesschau.de/ausland/europa/kreuzfahrtschiff-russland-norwegen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T05:59:12+00:00"
-  },
-  {
    "t": "Arbeiter in norddeutschen Seehäfen streiken wieder",
-   "s": "Die Gewerkschaft ver.di hat Beschäftigte in Hamburg und Niedersachsen aufgerufen, für insgesamt 48 Stunden ihre Arbeit niederzulegen. In der Nacht ging es los.",
+   "s": "Die Gewerkschaft ver.di hat Beschäftigte in Hamburg und Niedersachsen aufgerufen, für 48 Stunden ihre Arbeit niederzulegen. In der Nacht zum Donnerstag ging es los.",
    "u": "https://www.tagesschau.de/inland/regional/hamburg/tarifstreit-spitzt-sich-zu-warnstreik-in-norddeutschen-seehaefen,hafenstreik-104.html",
    "q": "Tagesschau",
    "d": "2026-09-03T05:58:04+00:00"
-  },
-  {
-   "t": "Marktbericht: Anleger nehmen neuen Anlauf auf die 26.000",
-   "s": "Nach seinem Rekordhoch vom vergangenen Freitag ist der DAX wieder unter die Marke von 26.000 Punkten zurückgefallen. Heute könnte es zum Handelsstart wieder vorwärts gehen, aber es fehlt wohl der Schwung.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-148.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T05:33:25+00:00"
   },
   {
    "t": "Wirtschaft vor acht vom 02.09.2026",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/energie/gas-speicher-preise-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T12:45:58+00:00"
-  },
-  {
-   "t": "Deutsche Post nennt sich nur noch DHL",
-   "s": "Die Deutsche Post AG hat ihren Namenswechsel zu DHL AG umgesetzt. Grund ist die Internationalisierung des Konzerns. Der alte Name bleibt für das Inlandsgeschäft erhalten. Für Verbraucher ändert sich nichts.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/dhl-deutschepost-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T10:38:54+00:00"
-  },
-  {
-   "t": "Mieterbund: 1,4 Millionen Wohnungen fehlen",
-   "s": "Steigende Mieten belasten viele Menschen in Deutschland. Nach einer Umfrage des Mieterbundes hat fast ein Drittel der Mieter Angst, sich den Betrag zukünftig nicht mehr leisten zu können. Gleichzeitig fehlt das Geld an anderer Stelle.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/mehr-als-eine-million-wohnungen-fehlen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T09:47:42+00:00"
-  },
-  {
-   "t": "Ruheständler im Osten haben weniger Eigentum und kleineres Einkommen",
-   "s": "Die Vermögensungleichheit zwischen Ost und West hält an. In den östlichen Bundesländern haben Ruheständler geringere Einkommen und leben seltener in der eigenen Immobilie als im Westen.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/ruhestaendler-ost-west-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T09:28:42+00:00"
-  },
-  {
-   "t": "Abnehmspritze Wegovy auch als Pille - die Nebenwirkungen bleiben",
-   "s": "Die Abnehmspritze Wegovy bekommt Konkurrenz aus dem eigenen Haus: Der Wirkstoff Semaglutid ist jetzt auch als Tablette erhältlich. Experten warnen vor einem Hype um das vermeintliche Wundermittel. Von Philipp Wundersee.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-abnehmpille-wegovy-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T08:40:38+00:00"
-  },
-  {
-   "t": "Neue US-Studie: Verursachen Abnehmspritzen Haarausfall?",
-   "s": "Viele Diabetes-Medikamente werden auch bei starkem Übergewicht eingesetzt. Eine US-Studie zeigt nun: Bei GLP-1-Mitteln ist das Risiko für Haarausfall höher als bei anderen Medikamenten. Von Doris Tromballa.",
-   "u": "https://www.tagesschau.de/wissen/wissen-abnehmspritze-glp1-haarausfall-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T08:40:33+00:00"
   }
  ]
 }

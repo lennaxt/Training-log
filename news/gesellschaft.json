@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-03T08:04:28+00:00",
+ "updated": "2026-09-03T13:35:55+00:00",
  "items": [
+  {
+   "t": "Russland schließt Goethe-Institute: Keine Deutschprüfungen mehr in Moskau",
+   "s": "Als Reaktion auf den versuchten Drohnenanschlag von Leipzig will Deutschland das Russische Haus in Berlin schließen. Nun reagiert Moskau mit Gegenmaßnahmen.",
+   "u": "https://taz.de/Russland-schliesst-Goethe-Institute/!6209863/",
+   "q": "taz",
+   "d": "2026-09-03T12:34:00+00:00"
+  },
+  {
+   "t": "Tagebuch aus Georgien: Das Kreuz und die Queeren",
+   "s": "In Tbilisi gibt es weiterhin eine LGBTQ+-Community. Staat und orthodoxe Kirche machen ihr das Leben schwer und doch gibt es auch andere Signale.",
+   "u": "https://taz.de/Tagebuch-aus-Georgien/!6207617/",
+   "q": "taz",
+   "d": "2026-09-03T09:35:00+00:00"
+  },
+  {
+   "t": "1.653 Tage Krieg in der Ukraine: Wie wir uns auf die Kälte vorbereiten",
+   "s": "Der russische Beschuss auf Kyjiw wird intensiver, und der Herbst beginnt. Eine Checklist für die kalte Jahreszeit.",
+   "u": "https://taz.de/1653-Tage-Krieg-in-der-Ukraine/!6209376/",
+   "q": "taz",
+   "d": "2026-09-03T09:20:00+00:00"
+  },
   {
    "t": "Estnische Staatschefin Ülle Madise: Die Präsidentin, die trotzdem lacht",
    "s": "Ülle Madise wird die neue Staatspräsidentin von Estland. Trotz der Bedrohung durch Putins Russland will sie Leichtigkeit, Humor und Kreativität.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Kyjiw-unter-Dauerfeuer/!6208556/",
    "q": "taz",
    "d": "2026-08-30T18:04:00+00:00"
-  },
-  {
-   "t": "Referendum in Island: Island steht nicht für die Attraktivität der EU",
-   "s": "Die EU sollte die Abfuhr nicht persönlich nehmen. Die Is­län­de­r*in­nen lieben ihre Unabhängigkeit und ein Abkommen mit der EU existiert bereits.",
-   "u": "https://taz.de/Referendum-in-Island/!6204812/",
-   "q": "taz",
-   "d": "2026-08-30T18:02:00+00:00"
-  },
-  {
-   "t": "Islands Nein zur EU: Brüssel verschlägt es die Sprache",
-   "s": "Die EU reagiert enttäuscht auf Islands Referendum. Brüssel hatte auf eine neue Beitritts-Dynamik gehofft. Stattdessen kommen Erinnerungen an den Brexit auf.",
-   "u": "https://taz.de/Islands-Nein-zur-EU/!6208554/",
-   "q": "taz",
-   "d": "2026-08-30T16:34:00+00:00"
-  },
-  {
-   "t": "Migration nach Spanien: Gewalttätige Proteste in Ceuta",
-   "s": "Aus Spanien angereiste Rechtsextreme fachen den Unmut der Bevölkerung in Ceuta an. In Madrid wächst der Druck auf Regierungschef Sánchez.",
-   "u": "https://taz.de/Migration-nach-Spanien/!6208557/",
-   "q": "taz",
-   "d": "2026-08-30T14:28:00+00:00"
   }
  ]
 }
