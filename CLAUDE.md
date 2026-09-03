@@ -161,6 +161,9 @@ Artifact-Link in der Sitzung). Entschieden ist:
   für jede Schrift, Platz durch den negativen Rand zurückgegeben) und
   `pointer-events:none`, damit der größere Malkasten keine Tipps abfängt. Text
   dorthin setzen mit `setDisplayText(el,txt)`, nicht mit `textContent`.
+  **In Safari muss zusätzlich `-webkit-text-fill-color:transparent` stehen** —
+  mit `color:transparent` allein blieb bei einzelnen Zeichen die volle Fläche
+  stehen statt der Buchstabenform.
 - **Ein `<button>` ohne `background` ist grau.** Der Browser malt `buttonface`;
   wer eine Hintergrund-Deklaration entfernt, muss `background:none` dalassen.
 - **Farbige Flächen tragen den Lichtverlauf des Icons** (`--sheen`, als

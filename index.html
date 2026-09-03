@@ -238,16 +238,24 @@
      inneres Zeichen (.gtxt), dessen Kasten oben und unten ueber die Zeile
      hinausragt — sonst verlieren Ober- und Unterlaengen ihre Spitzen. Der
      negative Rand nimmt den Platz wieder zurueck, damit die Anordnung bleibt. */
-  .gtxt{display:inline-block;padding:.45em 0;margin:-.45em 0;pointer-events:none;
-    background:linear-gradient(150deg,color-mix(in srgb,var(--gc) 68%,#fff),var(--gc) 62%);
-    -webkit-background-clip:text;background-clip:text;color:transparent}
+  /* Safari malt den Verlauf nur dann durch die Buchstaben, wenn zusaetzlich die
+     Fuellfarbe der Schrift durchsichtig ist. Mit color:transparent allein blieb
+     bei einzelnen Zeichen die volle Flaeche stehen. */
+  .gtxt{display:inline-block;padding:.3em 0;margin:-.3em 0;pointer-events:none;
+    background-image:linear-gradient(150deg,color-mix(in srgb,var(--gc) 68%,#fff),var(--gc) 62%);
+    background-size:100% 100%;background-repeat:no-repeat;
+    -webkit-background-clip:text;background-clip:text;
+    color:transparent;-webkit-text-fill-color:transparent}
+  @supports not ((-webkit-background-clip:text) or (background-clip:text)){
+    .gtxt{background-image:none;color:var(--gc);-webkit-text-fill-color:var(--gc)}
+  }
   .hero-letter{--gc:var(--green);
     font-family:var(--display);font-weight:500;font-size:92px;line-height:.78;
     letter-spacing:-0.04em;color:var(--gc);background:none;
     border:0;padding:0;cursor:pointer;display:block;transition:opacity .2s}
   .hero-letter:active{opacity:.55}
   .hero-letter.static:active{opacity:1}
-  .hero.dayB .hero-letter .gtxt{background:linear-gradient(150deg,var(--earth),var(--glow))}
+  .hero.dayB .hero-letter .gtxt{background-image:linear-gradient(150deg,var(--earth),var(--glow))}
   .hero-side{padding-bottom:6px}
   .hero-side h1{font-size:24px;margin-top:14px}
 
