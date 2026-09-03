@@ -718,6 +718,15 @@
   .pref-num::placeholder{color:var(--ink-faint);opacity:.7;font-weight:400}
   .pref-unit{font-family:'Inter',sans-serif;font-size:11px;font-weight:600;letter-spacing:0.1em;
     text-transform:uppercase;color:var(--ink-soft)}
+  .pref-lbl{font-family:'Inter',sans-serif;font-size:10.5px;font-weight:600;letter-spacing:0.12em;
+    text-transform:uppercase;color:var(--ink-soft);margin:18px 4px 8px}
+  .goal-seg{display:flex;gap:2px;padding:3px;margin-bottom:18px;
+    border:1px solid var(--line);border-radius:16px}
+  .goal-seg button{flex:1;min-width:0;min-height:44px;padding:0 6px;border:0;border-radius:13px;
+    background:none;cursor:pointer;font-family:'Inter',sans-serif;font-size:12px;font-weight:600;
+    color:var(--ink-soft);transition:background .15s,color .15s;-webkit-tap-highlight-color:transparent}
+  .goal-seg button.on{background:var(--ink);color:var(--on-ink)}
+  .goal-seg button:active{background:var(--press)}
   .edit-body{display:flex;align-items:center;justify-content:space-between;gap:12px;
     padding:4px 0 8px;border-bottom:1px solid var(--line)}
   .edit-body span{font-size:10px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;color:var(--ink-soft)}
@@ -1088,6 +1097,12 @@
       <label class="pref-row"><span>Körpergewicht</span>
         <span class="pref-bike-ctl"><input class="pref-num" id="prefWeight" type="number" inputmode="decimal" min="0" step="0.1" placeholder="–" onchange="setBodyweight(this.value)"><span class="pref-unit">kg</span></span>
       </label>
+      <div class="pref-lbl">Ziel</div>
+      <div class="goal-seg" id="goalSeg">
+        <button type="button" data-goal="zunahme" onclick="setGoal('zunahme')">Muskeln aufbauen</button>
+        <button type="button" data-goal="halten" onclick="setGoal('halten')">Gewicht halten</button>
+        <button type="button" data-goal="abnahme" onclick="setGoal('abnahme')">Gewicht verlieren</button>
+      </div>
     </div>
 
     <div class="pref-section">
@@ -1390,6 +1405,7 @@ function load(){
   if(!s._delSess)s._delSess=[];
   if(!s.bodyEx)s.bodyEx=[];
   if(!s.bodyNotEx)s.bodyNotEx=[];
+  if(!s.goal)s.goal="halten";
   allDays(s).forEach(d=>{
     if(!s.custom[d])s.custom[d]=[];
     if(!s.hidden[d])s.hidden[d]=[];
@@ -2658,7 +2674,7 @@ function renderHist(){const v=document.getElementById("viewHist");
   v.innerHTML=h+`<button class="wipe" onclick="wipe()">Alle Daten löschen</button>`}
 function wipe(){
   if(!confirm("Alle Einheiten und eigenen Übungen löschen? Das lässt sich nicht rückgängig machen."))return;
-  const keep=["accentA","accentB","accentRad","accentL","accentK","font","mapStyle","bike","kursType","hiddenCats","extras","dark","theme","bodyweight","bodyEx","bodyNotEx"];
+  const keep=["accentA","accentB","accentRad","accentL","accentK","font","mapStyle","bike","kursType","hiddenCats","extras","dark","theme","bodyweight","bodyEx","bodyNotEx","goal"];
   const preserved={};
   keep.forEach(k=>{if(store[k]!==undefined)preserved[k]=store[k]});
   const graves=[...(store._delSess||[]),...store.sessions.map(x=>x.ts)].filter(t=>typeof t==="number").slice(-500);
@@ -3951,6 +3967,7 @@ function paintPrefs(){
   const fc=document.getElementById("fontCur");if(fc)fc.textContent=fontById(store.font).name;
   const w=document.getElementById("prefWeight");
   if(w)w.value=store.bodyweight!=null?store.bodyweight:"";
+  document.querySelectorAll("#goalSeg button").forEach(b=>b.classList.toggle("on",b.dataset.goal===store.goal));
   const hidden=store.hiddenCats||[];
   CAT_LIST.forEach(c=>{
     const el=document.getElementById("prefCat"+(c==="rad"?"Rad":c==="laufen"?"Lauf":c==="kurs"?"Kurs":"Kraft"));
@@ -3976,6 +3993,12 @@ function setBodyweight(v){
   save();
   const txt=store.bodyweight!=null?store.bodyweight+" kg":"nicht gesetzt";
   toast("Profil",`Körpergewicht: ${txt}`)}
+function setGoal(v){
+  store.goal=v;
+  save();
+  document.querySelectorAll("#goalSeg button").forEach(b=>b.classList.toggle("on",b.dataset.goal===v));
+  const name={zunahme:"Muskeln aufbauen",halten:"Gewicht halten",abnahme:"Gewicht verlieren"}[v]||v;
+  toast("Ziel",name)}
 function paintSyncInfo(){
   const el=document.getElementById("prefSync");
   if(!el)return;
