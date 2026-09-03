@@ -708,6 +708,19 @@
   .pref-logout{background:none;border:1px solid var(--line);padding:8px 14px;font-family:inherit;font-size:12px;
     letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-soft);cursor:pointer;min-height:36px}
   .pref-bike-ctl{display:flex;align-items:center;gap:8px}
+  .pref-num{width:70px;min-width:0;box-sizing:border-box;height:44px;border:1px solid var(--line);border-radius:10px;
+    background:var(--paper);font-family:var(--display);font-size:17px;font-weight:500;color:var(--ink);
+    text-align:center;padding:0 6px;-moz-appearance:textfield}
+  .pref-num::-webkit-outer-spin-button,.pref-num::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+  .pref-num::placeholder{color:var(--ink-faint);opacity:.7;font-weight:400}
+  .pref-unit{font-family:'Inter',sans-serif;font-size:11px;font-weight:600;letter-spacing:0.1em;
+    text-transform:uppercase;color:var(--ink-soft)}
+  .edit-body{display:flex;align-items:center;justify-content:space-between;gap:12px;
+    padding:4px 0 8px;border-bottom:1px solid var(--line)}
+  .edit-body span{font-size:12px;font-weight:600;color:var(--ink-soft)}
+  .edit-body .pref-switch{width:44px;height:26px}
+  .edit-body .pref-switch::after{width:22px;height:22px}
+  .edit-body .pref-switch:checked::after{transform:translateX(18px)}
   .pref-sel{position:relative;display:inline-flex}
   /* Die Zeile sieht vollflaechig bedienbar aus wie ihre Nachbarn — das
      Auswahlfeld lag vorher nur in einem schmalen Streifen darueber. */
@@ -1067,6 +1080,14 @@
 
 
     <div class="pref-section">
+      <div class="pref-title">Profil</div>
+      <div class="pref-sub">Dein Körpergewicht wird Übungen mit Körpergewicht automatisch als Gewicht vorgeschlagen.</div>
+      <label class="pref-row"><span>Körpergewicht</span>
+        <span class="pref-bike-ctl"><input class="pref-num" id="prefWeight" type="number" inputmode="decimal" min="0" step="0.1" placeholder="–" onchange="setBodyweight(this.value)"><span class="pref-unit">kg</span></span>
+      </label>
+    </div>
+
+    <div class="pref-section">
       <div class="pref-title">Schriftarten</div>
       <div class="pref-sub">Wählt die Schrift für Namen, Überschriften und Zahlen. Der übrige Text bleibt, wie er ist.</div>
       <button class="pref-row pref-clickable" onclick="openFonts()"><span>Schriftart</span>
@@ -1291,17 +1312,17 @@
 const PLAN={
   A:{label:"Compound & Kraft",ex:[
     {id:"bd_lie",name:"Bankdrücken Maschine, liegend",scheme:"3 × 6–8"},
-    {id:"pullup",name:"Klimmzüge",scheme:"3 × 8–10"},
-    {id:"dips",name:"Dips",scheme:"3 × (2 schwer / 1 BW)"},
+    {id:"pullup",name:"Klimmzüge",scheme:"3 × 8–10",body:true},
+    {id:"dips",name:"Dips",scheme:"3 × (2 schwer / 1 BW)",body:true},
     {id:"row_a",name:"Rudern am Kabel",scheme:"3 × 8–10"},
     {id:"goblet",name:"Goblet Squats",scheme:"3 × 8–10"},
     {id:"lat_rai",name:"Seitheben",scheme:"3 × 10–12"},
     {id:"facepull",name:"Face Pulls / hintere Schulter",scheme:"2 × 12–15"},
-    {id:"core_a",name:"Core",scheme:"2–3 Sätze"},
+    {id:"core_a",name:"Core",scheme:"2–3 Sätze",body:true},
   ]},
   B:{label:"Isolation & Detail",ex:[
     {id:"bd_sit",name:"Bankdrücken Maschine, sitzend",scheme:"3 × 6–8"},
-    {id:"pullup_b",name:"Klimmzüge",scheme:"3 × 8–10"},
+    {id:"pullup_b",name:"Klimmzüge",scheme:"3 × 8–10",body:true},
     {id:"fly",name:"Butterfly / Cable Flyes",scheme:"2 × bis Limit"},
     {id:"latpull",name:"Latzug eng / Pullover",scheme:"3 × 8–10"},
     {id:"leg_curl",name:"Beinbeuger",scheme:"3 × 8–10"},
@@ -1364,6 +1385,8 @@ function load(){
   if(!s.hiddenCats)s.hiddenCats=[];
   if(!s.extras)s.extras={};
   if(!s._delSess)s._delSess=[];
+  if(!s.bodyEx)s.bodyEx=[];
+  if(!s.bodyNotEx)s.bodyNotEx=[];
   allDays(s).forEach(d=>{
     if(!s.custom[d])s.custom[d]=[];
     if(!s.hidden[d])s.hidden[d]=[];
@@ -1531,8 +1554,44 @@ function allIds(){
   return [...s];
 }
 
+/* ── Körpergewicht-Übungen ──
+   Drei Quellen, in dieser Reihenfolge: explizit ausgeschlossen, explizit
+   markiert, vorbelegt im eingebauten Katalog. So kann man eine Katalog-Übung
+   auch abwählen (z. B. Klimmzüge mit Zusatzgewicht). */
+function isBodyEx(id){
+  if((store.bodyNotEx||[]).includes(id))return false;
+  if((store.bodyEx||[]).includes(id))return true;
+  for(const d of allDays()){
+    const base=PLAN[d]?PLAN[d].ex:[];
+    const f=base.concat(store.custom[d]||[]).find(e=>e.id===id);
+    if(f&&f.body)return true;
+  }
+  return false;
+}
+function defKg(id){return isBodyEx(id)?(store.bodyweight||20):20}
+function setBodyEx(id,on){
+  store.bodyEx=store.bodyEx||[];
+  store.bodyNotEx=store.bodyNotEx||[];
+  if(on){
+    if(!store.bodyEx.includes(id))store.bodyEx.push(id);
+    store.bodyNotEx=store.bodyNotEx.filter(x=>x!==id);
+  }else{
+    store.bodyEx=store.bodyEx.filter(x=>x!==id);
+    if(!store.bodyNotEx.includes(id))store.bodyNotEx.push(id);
+  }
+  save();
+}
+/* Nur ein Vorschlag beim Anlegen: der Nutzer bestaetigt oder korrigiert. */
+function bwGuess(name){
+  const t=String(name||"").toLowerCase().replace(/ü/g,"u").replace(/ö/g,"o").replace(/ä/g,"a").replace(/ß/g,"ss");
+  const ja=["klimmzug","liegestutz","liegestuetz","pushup","push-up","dips","plank","stutz","stuetzen","kniebeuge","ausfallschritt","squat","burpee","crunch","sit-up","situps","bodyweight","handstand","core"];
+  const nein=["maschine","kabel","bankdrucken","rudern","kreuzheben","langhantel","kurzhantel","hantel","gerat","latzug","beinstrecker","beinbeuger","waden","bizeps","trizeps","schulterdrucken","schulterpresse","fly","seitheben","zusatzgewicht","belastet","mit gewicht"];
+  if(nein.some(w=>t.includes(w)))return false;
+  return ja.some(w=>t.includes(w));
+}
+
 /* ── Hilfen ── */
-let tab="train",openEx=null,draft={},progSel=null,newOpen=false,newName="",newScheme="",dayPick=null,editEx=null,cat="kraft",justOpened=null,editSessTs=null,editSessData={};
+let tab="train",openEx=null,draft={},progSel=null,newOpen=false,newName="",newScheme="",newBody=false,dayPick=null,editEx=null,cat="kraft",justOpened=null,editSessTs=null,editSessData={};
 const fD=t=>new Date(t).toLocaleDateString("de-DE",{day:"2-digit",month:"short"});
 const fFull=t=>new Date(t).toLocaleDateString("de-DE",{weekday:"long",day:"2-digit",month:"long"});
 const fT=t=>new Date(t).toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"});
@@ -1607,7 +1666,7 @@ function setTable(id,logged,scheme,pr,dr){
 }
 function removeEmptySet(id){
   const logged=store.active&&store.active.log[id]?store.active.log[id].length:0;
-  if(!draft[id])draft[id]={kg:20,reps:8};
+  if(!draft[id])draft[id]={kg:defKg(id),reps:8};
   const dr=draft[id];
   const prev=lastSetsFor(id)||[];
   const auto=Math.max(targetSets(exScheme(id)),prev.length,logged+1);
@@ -1743,7 +1802,7 @@ function renderTrain(){
     const lg=store.active?store.active.log[e.id]||[]:[];
     const own=!!e.own;
     const prevSets=lastSetsFor(e.id)||[];
-    if(!draft[e.id]){const p=prevSets[lg.length]||prevSets[0]||null;draft[e.id]={kg:p?p.kg:20,reps:p?p.reps:8}}
+    if(!draft[e.id]){const p=prevSets[lg.length]||prevSets[0]||null;draft[e.id]={kg:p?p.kg:defKg(e.id),reps:p?p.reps:8}}
     const dr=draft[e.id];
     const eName=exName(e.id),eScheme=exScheme(e.id)||e.scheme;
     h+=`<div class="ex ${openEx===e.id?'open':''} ${justOpened===e.id?'opening':''} ${lg.length?'filled':''}">
@@ -1755,6 +1814,8 @@ function renderTrain(){
               <input class="txt" id="editName" type="text" value="${esc(eName)}"></div>
             <div class="field stack"><div class="cap" style="text-align:left">Schema</div>
               <input class="txt" id="editScheme" type="text" value="${esc(eScheme)}"></div>
+            <div class="edit-body"><span>Körpergewicht</span>
+              <input type="checkbox" class="pref-switch" id="editBodyChk" ${isBodyEx(e.id)?"checked":""}></div>
             <div class="edit-actions">
               <button class="save-btn" onclick="saveEdit('${e.id}')">Speichern</button>
               <button class="cancel-btn" onclick="cancelEdit()">Abbrechen</button>
@@ -1782,10 +1843,12 @@ function renderTrain(){
       <div class="edit-form" onclick="event.stopPropagation()">
         <div class="field"><div class="cap">Name</div>
           <input class="txt" id="nfName" type="text" placeholder="z. B. Rumänisches Kreuzheben"
-            value="${esc(newName)}" oninput="newName=this.value"></div>
+            value="${esc(newName)}" oninput="newName=this.value;newBody=bwGuess(this.value)"></div>
         <div class="field"><div class="cap">Schema</div>
           <input class="txt" id="nfScheme" type="text" placeholder="3 × 8–10"
             value="${esc(newScheme)}" oninput="newScheme=this.value"></div>
+        <div class="edit-body"><span>Körpergewicht</span>
+          <input type="checkbox" class="pref-switch" id="nfBody" ${newBody?"checked":""} onchange="newBody=this.checked"></div>
         <div class="edit-actions">
           <button class="save-btn" onclick="saveCustom('${day}')">Speichern</button>
           <button class="cancel-btn" onclick="closeNew()">Abbrechen</button>
@@ -1818,7 +1881,8 @@ function addSet(id){const dr=draft[id];if(dr.reps<=0)return;
   if(!store.active.log[id])store.active.log[id]=[];
   store.active.log[id].push({kg:dr.kg,reps:Math.round(dr.reps)});
   const ps=lastSetsFor(id),ni=store.active.log[id].length;
-  if(ps&&ps[ni]){dr.kg=ps[ni].kg;dr.reps=ps[ni].reps}
+  if(ps&&ps[ni]){dr.kg=isBodyEx(id)?defKg(id):ps[ni].kg;dr.reps=ps[ni].reps}
+  else if(isBodyEx(id))dr.kg=defKg(id);
   save();openEx=id;renderTrain();
   document.getElementById("finishbar").classList.toggle("hidden",!(tab==="train"&&store.active));
   paintFinish();paintTop();
@@ -1829,17 +1893,19 @@ function removeSet(id,si){store.active.log[id].splice(si,1);
   if(!store.active.log[id].length)delete store.active.log[id];save();renderTrain();paintFinish();paintTop()}
 
 /* ── Eigene Übungen ── */
-function openNew(){newOpen=true;newName="";newScheme="";renderTrain()}
-function closeNew(){newOpen=false;newName="";newScheme="";renderTrain()}
+function openNew(){newOpen=true;newName="";newScheme="";newBody=false;renderTrain()}
+function closeNew(){newOpen=false;newName="";newScheme="";newBody=false;renderTrain()}
 function startEdit(id){editEx=id;openEx=null;renderTrain();
   const f=document.getElementById("editName");if(f)f.focus()}
 function cancelEdit(){editEx=null;renderTrain()}
 function saveEdit(id){
   const n=(document.getElementById("editName")||{}).value||"";
   const s=(document.getElementById("editScheme")||{}).value||"";
+  const bw=!!(document.getElementById("editBodyChk")||{}).checked;
   if(!n.trim()){toast("Name fehlt","Gib der Übung einen Namen");return}
   store.names[id]=n.trim();
   store.schemes[id]=s.trim();
+  setBodyEx(id,bw);
   save();editEx=null;renderTrain();
   toast("Gespeichert",`${n.trim()} aktualisiert`)}
 function saveCustom(day){
@@ -1849,7 +1915,9 @@ function saveCustom(day){
   const scheme=newScheme.trim()||"frei";
   store.custom[day].push({id,name,scheme,own:true});
   store.names[id]=name;
-  save();newOpen=false;newName="";newScheme="";openEx=id;renderTrain();
+  if(newBody){if(!store.bodyEx.includes(id))store.bodyEx.push(id)}
+  else store.bodyEx=store.bodyEx.filter(x=>x!==id);
+  save();newOpen=false;newName="";newScheme="";newBody=false;openEx=id;renderTrain();
   toast("Übung angelegt",`${name} steht ab jetzt in Tag ${day}`)}
 
 /* ── Löschen ── */
@@ -2587,7 +2655,7 @@ function renderHist(){const v=document.getElementById("viewHist");
   v.innerHTML=h+`<button class="wipe" onclick="wipe()">Alle Daten löschen</button>`}
 function wipe(){
   if(!confirm("Alle Einheiten und eigenen Übungen löschen? Das lässt sich nicht rückgängig machen."))return;
-  const keep=["accentA","accentB","accentRad","accentL","accentK","font","mapStyle","bike","kursType","hiddenCats","extras","dark","theme"];
+  const keep=["accentA","accentB","accentRad","accentL","accentK","font","mapStyle","bike","kursType","hiddenCats","extras","dark","theme","bodyweight","bodyEx","bodyNotEx"];
   const preserved={};
   keep.forEach(k=>{if(store[k]!==undefined)preserved[k]=store[k]});
   const graves=[...(store._delSess||[]),...store.sessions.map(x=>x.ts)].filter(t=>typeof t==="number").slice(-500);
@@ -3878,6 +3946,8 @@ function catSetOpenStyle(){styleReturnCat=catSetCur;closeCatSettings();openSetti
 function paintPrefs(){
   paintSyncInfo();
   const fc=document.getElementById("fontCur");if(fc)fc.textContent=fontById(store.font).name;
+  const w=document.getElementById("prefWeight");
+  if(w)w.value=store.bodyweight!=null?store.bodyweight:"";
   const hidden=store.hiddenCats||[];
   CAT_LIST.forEach(c=>{
     const el=document.getElementById("prefCat"+(c==="rad"?"Rad":c==="laufen"?"Lauf":c==="kurs"?"Kurs":"Kraft"));
@@ -3896,6 +3966,13 @@ function paintPrefs(){
   const kn=document.getElementById("kursLabelName");
   if(kn)kn.textContent=kursTypeName();
 }
+function setBodyweight(v){
+  const n=parseFloat(String(v).replace(",","."));
+  store.bodyweight=isFinite(n)&&n>0?Math.round(n*10)/10:null;
+  if(store.bodyweight==null){const el=document.getElementById("prefWeight");if(el)el.value=""}
+  save();
+  const txt=store.bodyweight!=null?store.bodyweight+" kg":"nicht gesetzt";
+  toast("Profil",`Körpergewicht: ${txt}`)}
 function paintSyncInfo(){
   const el=document.getElementById("prefSync");
   if(!el)return;
