@@ -1,7 +1,49 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-02T23:19:48+00:00",
+ "updated": "2026-09-03T08:04:27+00:00",
  "items": [
+  {
+   "t": "Geburtenrückgang in Deutschland: Keinen Bock",
+   "s": "Frauen bekommen immer weniger Kinder. Viele Frauen haben keine Lust mehr, sich über die Aufteilung von Familien- und Erwerbsarbeit zu streiten.",
+   "u": "https://taz.de/Geburtenrueckgang-in-Deutschland/!6209380/",
+   "q": "taz",
+   "d": "2026-09-03T07:04:00+00:00"
+  },
+  {
+   "t": "Bundeswehrstart in Afghanistan: Geheim und ohne Mandat",
+   "s": "25 Jahre nach den Anschlägen vom 11. September 2001 zeigt eine Recherche: Spezialkräfte sind damals ohne Zustimmung des Bundestags aufgebrochen.",
+   "u": "https://taz.de/Bundeswehrstart-in-Afghanistan/!6209750/",
+   "q": "taz",
+   "d": "2026-09-03T07:01:00+00:00"
+  },
+  {
+   "t": "Studie von Unicef: Jedes fünfte Kind erleidet sexuellen Missbrauch im Internet",
+   "s": "Kinder sind im Internet womöglich häufiger sexuellem Missbrauch ausgesetzt als bisher angenommen. Das zeigt eine Unicef-Untersuchung in 21 Ländern.",
+   "u": "https://taz.de/Studie-von-Unicef/!6209752/",
+   "q": "taz",
+   "d": "2026-09-03T06:53:00+00:00"
+  },
+  {
+   "t": "Buch vom Soziologen Sighard Neckel: Die Abwendung der Katastrophe kann nur kollektiv gelingen",
+   "s": "Die Klimakatastrophe stellt Gesellschaften vor Herausforderungen, die sie überfordern. Der Soziologe Sighard Neckel analysiert die Blockaden, die Lösungen verhindern.",
+   "u": "https://taz.de/Buch-Katastrophenzeit-vom-Soziologen-Sighard-Neckel-Analyse-der-Blockaden-die-Klima-Loesungen-verhindern/!6196791/",
+   "q": "taz",
+   "d": "2026-09-03T05:40:00+00:00"
+  },
+  {
+   "t": "Sexismusdebatte: Kontroverses Dekolleté",
+   "s": "Die Chefin vom Teufelsrad auf der Wiesn kann es nicht allen recht machen. Mal hängt sie zu sehr an Traditionen, mal geht sie zu sehr mit der Zeit.",
+   "u": "https://taz.de/Sexismusdebatte/!6209520/",
+   "q": "taz",
+   "d": "2026-09-03T05:19:00+00:00"
+  },
+  {
+   "t": "Social Media vor Sachsen-Anhalt-Wahl: Tiktoken die noch ganz richtig?",
+   "s": "AfD-Spitzenkandidat Ulrich Siegmund zieht auf Tiktok mit radikalen Inhalten wie kein Zweiter. Zwei SPD-Kandidat:innen halten mit Nähe und Persönlichkeit dagegen.",
+   "u": "https://taz.de/Social-Media-vor-Sachsen-Anhalt-Wahl-Zwei-SPD-Kandidaten-erklaeren-den-Gegenentwurf-zur-Strategie-von-Siegmund/!6209371/",
+   "q": "taz",
+   "d": "2026-09-03T05:04:00+00:00"
+  },
   {
    "t": "Russisches Haus in Berlin: Mitarbeiter sollen das Land verlassen",
    "s": "Die Bundesregierung will das Russische Haus in der Friedrichstraße schließen. Doch wie realistisch ist das? Und was soll aus dem Haus werden?",
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Nach-Brandanschlag-auf-Fluechtlingsheim/!6209166/",
    "q": "taz",
    "d": "2026-09-01T16:02:00+00:00"
-  },
-  {
-   "t": "Grüne Wahlkampfhilfe in Sachsen-Anhalt: Exorzismus mit Özdemir",
-   "s": "Der zweite grüne Ministerpräsident dieser Republik besucht den kleinsten grünen Landesverband der Republik. Was erlebt Cem Özdemir in Wernigerode?",
-   "u": "https://taz.de/Gruene-Wahlkampfhilfe-in-Sachsen-Anhalt/!6209172/",
-   "q": "taz",
-   "d": "2026-09-01T15:15:00+00:00"
-  },
-  {
-   "t": "Drohnen auf Leipziger Flughafen: Bundesregierung: Russland steckt hinter Sprengstoff-Drohne",
-   "s": "Die Bundesregierung macht Russland für den versuchten Anschlag in Leipzig verantwortlich. Berlin verhängt deshalb neue Strafmaßnahmen gegen Russland.",
-   "u": "https://taz.de/Drohnen-auf-Leipziger-Flughafen/!6209181/",
-   "q": "taz",
-   "d": "2026-09-01T12:07:00+00:00"
-  },
-  {
-   "t": "Mietenreport: Wohnen wird zum Armutsrisiko",
-   "s": "Die Mieten sind so drastisch gestiegen, dass viele an Essen und Gesundheitsausgaben sparen, sagt der Mieterbund. Er fordert einen bundesweiten Mietenstopp.",
-   "u": "https://taz.de/Mietenreport/!6209069/",
-   "q": "taz",
-   "d": "2026-09-01T12:01:00+00:00"
-  },
-  {
-   "t": "Wahlkampf in Ostdeutschland: Der Kanzler hält sich versteckt",
-   "s": "Kanzler Friedrich Merz reist nach Sachsen-Anhalt und Mecklenburg-Vorpommern, um die dortige CDU im Wahlkampf zu unterstützen. Hat’s geholfen?",
-   "u": "https://taz.de/Merz-und-die-Wahlen-in-Ostdeutschland/!6209036/",
-   "q": "taz",
-   "d": "2026-09-01T11:56:00+00:00"
-  },
-  {
-   "t": "Remonstration: Über die Pflicht, sich Weisungen zu widersetzen",
-   "s": "Deutsche Beamte müssen nicht alles machen, was ihnen aufgetragen wird. In bestimmten Fällen sollten sie remonstrieren. Was das heißt – auch für den Umgang mit der AfD.",
-   "u": "https://taz.de/Remonstration/!6204694/",
-   "q": "taz",
-   "d": "2026-09-01T10:38:00+00:00"
-  },
-  {
-   "t": "Krieg und Frieden: Rüstungswettlauf ohne absehbares Ende",
-   "s": "Abschreckung und Aufrüstung sorgen selten für Frieden, sondern befeuern weitere Eskalation. Wer das verhindern will, muss den Sozialstaat stärken.",
-   "u": "https://taz.de/Krieg-und-Frieden/!6208754/",
-   "q": "taz",
-   "d": "2026-09-01T09:23:00+00:00"
   }
  ]
 }

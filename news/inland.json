@@ -1,7 +1,91 @@
 {
  "name": "Inland",
- "updated": "2026-09-02T23:19:46+00:00",
+ "updated": "2026-09-03T08:04:25+00:00",
  "items": [
+  {
+   "t": "Wahlen in MV & Berlin: Schwesig rückt der AfD auf die Pelle",
+   "s": "Die SPD liegt laut einer neuen Umfrage in Mecklenburg-Vorpommern nur noch 3 Prozentpunkte hinter der AfD. Berlin erscheint aktuell unregierbar.",
+   "u": "https://taz.de/Landtagswahlen-in-Ostdeutschland/!6209758/",
+   "q": "taz",
+   "d": "2026-09-03T08:01:00+00:00"
+  },
+  {
+   "t": "Brandattacke: LKA vermutet Anschlagsversuch auf Rüstungsunternehmen",
+   "s": "In München sind Brandsätze auf die Baustelle der Firma Rohde & Schwarz geworfen worden. Das Bayerische Landeskriminalamt (LKA) vermutet einen Anschlagsversuch. Zwei Menschen wurden festgenommen.",
+   "u": "https://www.tagesschau.de/inland/lka-brandanschlag-muenchen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T07:57:19+00:00"
+  },
+  {
+   "t": "Estnische Staatschefin Ülle Madise: Die Präsidentin, die trotzdem lacht",
+   "s": "Ülle Madise wird die neue Staatspräsidentin von Estland. Trotz der Bedrohung durch Putins Russland will sie Leichtigkeit, Humor und Kreativität.",
+   "u": "https://taz.de/Estnische-Staatschefin-Uelle-Madise/!6209753/",
+   "q": "taz",
+   "d": "2026-09-03T07:36:00+00:00"
+  },
+  {
+   "t": "Geburtenrückgang in Deutschland: Keinen Bock",
+   "s": "Frauen bekommen immer weniger Kinder. Viele Frauen haben keine Lust mehr, sich über die Aufteilung von Familien- und Erwerbsarbeit zu streiten.",
+   "u": "https://taz.de/Geburtenrueckgang-in-Deutschland/!6209380/",
+   "q": "taz",
+   "d": "2026-09-03T07:04:00+00:00"
+  },
+  {
+   "t": "Bundeswehrstart in Afghanistan: Geheim und ohne Mandat",
+   "s": "25 Jahre nach den Anschlägen vom 11. September 2001 zeigt eine Recherche: Spezialkräfte sind damals ohne Zustimmung des Bundestags aufgebrochen.",
+   "u": "https://taz.de/Bundeswehrstart-in-Afghanistan/!6209750/",
+   "q": "taz",
+   "d": "2026-09-03T07:01:00+00:00"
+  },
+  {
+   "t": "Nach Angriffen: Sicherheit kritischer Infrastruktur im Fokus",
+   "s": "Wie kann kritische Infrastruktur in Deutschland besser geschützt werden? Wer ist dafür verantwortlich und welche Rechte sind dazu nötig? Nach Angriffen auf das Stromnetz ist in der Politik eine Debatte darüber entbrannt.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/kritische-infrastruktur-debatte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T06:59:54+00:00"
+  },
+  {
+   "t": "Studie von Unicef: Jedes fünfte Kind erleidet sexuellen Missbrauch im Internet",
+   "s": "Kinder sind im Internet womöglich häufiger sexuellem Missbrauch ausgesetzt als bisher angenommen. Das zeigt eine Unicef-Untersuchung in 21 Ländern.",
+   "u": "https://taz.de/Studie-von-Unicef/!6209752/",
+   "q": "taz",
+   "d": "2026-09-03T06:53:00+00:00"
+  },
+  {
+   "t": "Berlin-Wahl am 20. September: Krach zeigt Linksbündnis die Rote Karte",
+   "s": "In der Hauptstadt liegt die CDU wieder knapp vor der Linken. Die SPD rutscht weiter ab, aber bei zwei Themen punktet ihr Kandidat Steffen Krach.",
+   "u": "https://taz.de/Abgeordnetenhauswahl-am-20-September/!6209748/",
+   "q": "taz",
+   "d": "2026-09-03T06:39:00+00:00"
+  },
+  {
+   "t": "Russlands Außenminister Lawrow: Das Goethe-Institut schließt",
+   "s": "Russland weist die Reaktionen Deutschlands nach dem Drohnenangriff auf den Flughafen Leipzig/Halle als unbegründet zurück. Jetzt reagiert Moskau.",
+   "u": "https://taz.de/Russlands-Aussenminister-Lawrow/!6209749/",
+   "q": "taz",
+   "d": "2026-09-03T06:11:00+00:00"
+  },
+  {
+   "t": "Buch vom Soziologen Sighard Neckel: Die Abwendung der Katastrophe kann nur kollektiv gelingen",
+   "s": "Die Klimakatastrophe stellt Gesellschaften vor Herausforderungen, die sie überfordern. Der Soziologe Sighard Neckel analysiert die Blockaden, die Lösungen verhindern.",
+   "u": "https://taz.de/Buch-Katastrophenzeit-vom-Soziologen-Sighard-Neckel-Analyse-der-Blockaden-die-Klima-Loesungen-verhindern/!6196791/",
+   "q": "taz",
+   "d": "2026-09-03T05:40:00+00:00"
+  },
+  {
+   "t": "Social Media vor Sachsen-Anhalt-Wahl: Tiktoken die noch ganz richtig?",
+   "s": "AfD-Spitzenkandidat Ulrich Siegmund zieht auf Tiktok mit radikalen Inhalten wie kein Zweiter. Zwei SPD-Kandidat:innen halten mit Nähe und Persönlichkeit dagegen.",
+   "u": "https://taz.de/Social-Media-vor-Sachsen-Anhalt-Wahl-Zwei-SPD-Kandidaten-erklaeren-den-Gegenentwurf-zur-Strategie-von-Siegmund/!6209371/",
+   "q": "taz",
+   "d": "2026-09-03T05:04:00+00:00"
+  },
+  {
+   "t": "Hybrider Krieg - Ex-Kanzleramtschef Schmidt lobt Vorgehen gegenüber Russland",
+   "s": "Das Signal der Bundesregierung ist in Moskau angekommen, sagt Ex-Kanzleramtschef Wolfgang Schmidt (SPD). Das zeige sich darin, dass Präsident Wladimir Putin selbst auf die deutschen Strafmaßnahmen nach dem Leipziger Drohnenangriff reagiert habe.May, Philipp",
+   "u": "https://www.deutschlandfunk.de/interview-wolfgang-schmidt-spd-ex-kanzleramtsminister-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-03T04:50:32+00:00"
+  },
   {
    "t": "Ernteausfälle durch Hitze - Agrarminister Rainer kündigt Hilfen für Bauern an",
    "s": "Die durch Hitze und Trockenheit geschmälerte Ernte ist laut Bundesagrarminister Rainer eine \"herbe Enttäuschung\" für viele Landwirte. Der CSU-Politiker kündigte Hilfen für die betroffenen Betriebe an.",
@@ -85,90 +169,6 @@
    "u": "https://taz.de/Steuerplaene-von-Lars-Klingbeil/!6204881/",
    "q": "taz",
    "d": "2026-09-02T16:21:00+00:00"
-  },
-  {
-   "t": "Attentat auf Charlie Kirk: Tyler Robinson droht die Todesstrafe",
-   "s": "Der Mann, der mutmaßlich den rechten US-Influencer Charlie Kirk erschossen hat, muss sich vor Gericht verantworten. Ihm droht die Hinrichtung.",
-   "u": "https://taz.de/Attentat-auf-Charlie-Kirk/!6209474/",
-   "q": "taz",
-   "d": "2026-09-02T16:12:00+00:00"
-  },
-  {
-   "t": "Rückbau in Ungarn: Ungarn kappt rechtskonservativen Thinktank",
-   "s": "Regierungschef Péter Magyar zieht das Vermögen mehrerer Stiftungen des früheren Ministerpräsidenten Orbán ein. Ein Tätigkeitsverbot ist das nicht.",
-   "u": "https://taz.de/Rueckbau-in-Ungarn/!6209410/",
-   "q": "taz",
-   "d": "2026-09-02T16:08:00+00:00"
-  },
-  {
-   "t": "Krise der Wagenknecht-Partei: BSW-Fraktion in Thüringen bricht auseinander",
-   "s": "Vier BSW-Abgeordnete treten aus der Partei aus, weil ihre Bundesspitze „immer verrückter“ agiere. Für Thüringens CDU-Ministerpräsident Voigt wird es noch enger.",
-   "u": "https://taz.de/Krise-der-Wagenknecht-Partei/!6209382/",
-   "q": "taz",
-   "d": "2026-09-02T15:51:00+00:00"
-  },
-  {
-   "t": "Sanktionen gegen Russland: Viel Druck, wenig Wirkung",
-   "s": "Nach dem Drohnenfund in Leipzig möchte Deutschland den Druck auf Putins Schattenflotte erhöhen. Bisher blieb der Druck auf Russlands Energiegeschäft begrenzt.",
-   "u": "https://taz.de/Sanktionen-gegen-Russland/!6209415/",
-   "q": "taz",
-   "d": "2026-09-02T15:41:00+00:00"
-  },
-  {
-   "t": "Workshop mit den USA: Das Innenministerium lädt zum Anti-Antifa-Treffen",
-   "s": "Im Herbst will das Innenministerium mit den USA einen „Workshop“ gegen Linksextremismus in Deutschland abhalten. Die Linke fordert die Absage.",
-   "u": "https://taz.de/Workshop-mit-den-USA/!6209357/",
-   "q": "taz",
-   "d": "2026-09-02T15:18:00+00:00"
-  },
-  {
-   "t": "Landkreis klagt gegen Unterfinanzierung: Kaum Kontrolle über das eigene Budget",
-   "s": "Der Landkreis Helmstedt klagt vor dem niedersächsischen Staatsgerichtshof. Er will mehr Geld vom Land. Sonst könne er seine Aufgaben nicht erfüllen.",
-   "u": "https://taz.de/Landkreis-klagt-gegen-Unterfinanzierung/!6208913/",
-   "q": "taz",
-   "d": "2026-09-02T15:13:00+00:00"
-  },
-  {
-   "t": "Warum die Fünf-Prozent-Hürde in Sachsen-Anhalt eine große Rolle spielt",
-   "s": "Grüne und BSW kratzen in Sachsen-Anhalt an der Fünf-Prozent-Hürde. Für die FDP könnte es schwierig werden. Scheitern die Parteien, dürfte das die Sitzverteilung erheblich verändern - und der AfD zugutekommen. Von F. Aischmann.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/kleine-parteien-sachsen-anhalt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T15:03:41+00:00"
-  },
-  {
-   "t": "Reform im Kabinett: Das soll sich bei der Einkommensteuer ändern",
-   "s": "Union und SPD wollen ein zentrales Finanzvorhaben auf den Weg bringen - Entlastungen bei der Steuer vor allem für kleinere Einkommen. Wie die konkreten Maßnahmen aussehen und was die Steuerreform bringen soll.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/einkommensteuer-reform-folgen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T14:02:34+00:00"
-  },
-  {
-   "t": "Anschläge in NRW und Brandenburg: Angriff auf das Stromnetz vor den Wahlen",
-   "s": "Die Angriffe auf zwei Kraftwerke in Deutschland liefen wohl nach dem gleichen Muster ab. Das spricht gegen die „Vulkangruppe“ und für staatliche Auftraggeber.",
-   "u": "https://taz.de/Vulkangruppe-oder-staatliche-Auftraggeber-Wer-steckt-hinter-dem-Stromnetz-Angriff/!6209512/",
-   "q": "taz",
-   "d": "2026-09-02T13:45:00+00:00"
-  },
-  {
-   "t": "Unmut in SPD: Freundliches über die Parteichefs sagt kaum noch jemand",
-   "s": "Für die SPD ist Krise kein neuer Zustand. Aber diesmal zieht sich die Ratlosigkeit durch die ganze Partei. Nun trifft sich die Fraktion zur Klausur.",
-   "u": "https://taz.de/Unmut-in-SPD-ueber-Parteichefs/!6209023/",
-   "q": "taz",
-   "d": "2026-09-02T13:42:00+00:00"
-  },
-  {
-   "t": "Desinformation - Kampf gegen Lügen im Netz",
-   "s": "Ob im Wahlkampf in Deutschland oder bei Migranten in Marokko: Falschmeldungen im Internet haben politische und gesellschaftliche Sprengkraft. Der Kampf gegen Fake News steht vor schweren Herausforderungen.",
-   "u": "https://www.deutschlandfunk.de/desinformation-wahlen-social-media-deepfake-fake-news-bots-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-02T13:01:00+00:00"
-  },
-  {
-   "t": "Bundesregierung will frühkindliche Bildung stärken",
-   "s": "Mit verpflichtenden Sprach- und Entwicklungstests will Familienministerin Prien insbesondere benachteiligte Kinder besser fördern. Spätestens mit vier Jahren sollen Daten zum Entwicklungsstand der Kinder erhoben werden.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/fruehkindliche-erziehung-bundesregierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T12:25:49+00:00"
   }
  ]
 }

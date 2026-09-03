@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-02T23:19:49+00:00",
+ "updated": "2026-09-03T08:04:28+00:00",
  "items": [
+  {
+   "t": "Estnische Staatschefin Ülle Madise: Die Präsidentin, die trotzdem lacht",
+   "s": "Ülle Madise wird die neue Staatspräsidentin von Estland. Trotz der Bedrohung durch Putins Russland will sie Leichtigkeit, Humor und Kreativität.",
+   "u": "https://taz.de/Estnische-Staatschefin-Uelle-Madise/!6209753/",
+   "q": "taz",
+   "d": "2026-09-03T07:36:00+00:00"
+  },
+  {
+   "t": "Russlands Außenminister Lawrow: Das Goethe-Institut schließt",
+   "s": "Russland weist die Reaktionen Deutschlands nach dem Drohnenangriff auf den Flughafen Leipzig/Halle als unbegründet zurück. Jetzt reagiert Moskau.",
+   "u": "https://taz.de/Russlands-Aussenminister-Lawrow/!6209749/",
+   "q": "taz",
+   "d": "2026-09-03T06:11:00+00:00"
+  },
   {
    "t": "Berlin gibt Russland Schuld: Unfreundliche Grüße nach Moskau",
    "s": "EU und Nato sichern Deutschland ihre Solidarität zu. Auf das Mantra der Einigkeit sollen nun schnell neue und scharfe Sanktionen folgen.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Migration-nach-Spanien/!6208557/",
    "q": "taz",
    "d": "2026-08-30T14:28:00+00:00"
-  },
-  {
-   "t": "Nein zu EU-Gesprächen: Island zeigt kalte Schulter",
-   "s": "Europa bekommt einen Korb: 52,8 Prozent der Isländer lehnen neue EU-Beitrittsverhandlungen ab. Eindrücke von einem Wahltag, der das Land spaltete.",
-   "u": "https://taz.de/Nein-zu-EU-Gespraechen/!6208552/",
-   "q": "taz",
-   "d": "2026-08-30T14:19:00+00:00"
-  },
-  {
-   "t": "Katamaran vor Zypern gekentert: Mehrere Menschen sterben bei Fährunglück",
-   "s": "Bei einem Fährunfall vor der Insel Zypern sind sieben Menschen gestorben. Das Schiff mit mehr als 250 Passagieren war kurz nach dem Auslaufen gekentert.",
-   "u": "https://taz.de/Katamaran-vor-Zypern-gekentert/!6208641/",
-   "q": "taz",
-   "d": "2026-08-30T13:10:00+00:00"
   }
  ]
 }

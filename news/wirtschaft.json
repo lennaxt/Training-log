@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-02T23:19:47+00:00",
+ "updated": "2026-09-03T08:04:26+00:00",
  "items": [
+  {
+   "t": "Update Wirtschaft vom 03.09.2026",
+   "s": "Update Wirtschaft vom 03.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1641874.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T07:57:00+00:00"
+  },
+  {
+   "t": "Streit über Haushalt: Frankreichs Premier warnt vor Zins-Lawine",
+   "s": "Frankreich hat einen enormen Schuldenberg angehäuft. Die Regierung muss fürchten, dass das Land bald so horrende Zinsen zahlen muss, dass jede Hoffnung auf eine Sanierung der Staatsfinanzen aussichtslos ist. Von Julia Borutta.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/frankreich-staatsschulden-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T07:14:39+00:00"
+  },
+  {
+   "t": "Norwegen beschlagnahmt russisches Schiff vor Spitzbergen",
+   "s": "Ein russisches Forschungsschiff ist vor Spitzbergen von norwegischen Behörden beschlagnahmt worden. Grund sind Entschädigungsforderungen des ukrainischen Energiekonzerns Naftogaz nach Russlands Annexion der Halbinsel Krim.",
+   "u": "https://www.tagesschau.de/ausland/europa/kreuzfahrtschiff-russland-norwegen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T05:59:12+00:00"
+  },
+  {
+   "t": "Arbeiter in norddeutschen Seehäfen streiken wieder",
+   "s": "Die Gewerkschaft ver.di hat Beschäftigte in Hamburg und Niedersachsen aufgerufen, für insgesamt 48 Stunden ihre Arbeit niederzulegen. In der Nacht ging es los.",
+   "u": "https://www.tagesschau.de/inland/regional/hamburg/tarifstreit-spitzt-sich-zu-warnstreik-in-norddeutschen-seehaefen,hafenstreik-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T05:58:04+00:00"
+  },
+  {
+   "t": "Marktbericht: Anleger nehmen neuen Anlauf auf die 26.000",
+   "s": "Nach seinem Rekordhoch vom vergangenen Freitag ist der DAX wieder unter die Marke von 26.000 Punkten zurückgefallen. Heute könnte es zum Handelsstart wieder vorwärts gehen, aber es fehlt wohl der Schwung.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-148.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T05:33:25+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 02.09.2026",
    "s": "Wirtschaft vor acht vom 02.09.2026",
@@ -10,18 +45,18 @@
    "d": "2026-09-02T19:01:54+00:00"
   },
   {
+   "t": "Ernteausfälle durch Hitze - Agrarminister Rainer kündigt Hilfen für Bauern an",
+   "s": "Die durch Hitze und Trockenheit geschmälerte Ernte ist laut Bundesagrarminister Rainer eine \"herbe Enttäuschung\" für viele Landwirte. Der CSU-Politiker kündigte Hilfen für die betroffenen Betriebe an.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/ernteausfaelle-krise-rainer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-02T18:30:29+00:00"
+  },
+  {
    "t": "Warum die Zukunft der VW-Werke wohl noch länger ungewiss bleibt",
    "s": "Freitag soll der VW-Aufsichtsrat über den Sparkurs und mögliche Werksschließungen beraten. Doch es gibt viel Streit und Drohkulissen. Ein Kompromiss ist nicht in Sicht - und einigen scheint das ganz recht zu sein. Von A. Deutskens.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-streit-werksschliessungen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-02T18:06:02+00:00"
-  },
-  {
-   "t": "Marktbericht: Hohe Ölpreise drücken die Stimmung",
-   "s": "Das Anlageumfeld bleibt weiter herausfordernd. Denn wieder höhere Ölpreise schieben die Inflationserwartungen an. In einem solchen Umfeld blieben die DAX-Anleger vorsichtig.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-rendite-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T16:30:29+00:00"
   },
   {
    "t": "Stellenabbau bei Uber trifft auch Führungskräfte",
@@ -64,13 +99,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-chef-sewing-warnung-afd-regierung-100.html",
    "q": "Tagesschau",
    "d": "2026-09-02T10:51:01+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 02.09.2026",
-   "s": "Update Wirtschaft vom 02.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1641326.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T07:49:45+00:00"
   },
   {
    "t": "Was hilft gegen die gestiegene Inflation?",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/wissen-abnehmspritze-glp1-haarausfall-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T08:40:33+00:00"
-  },
-  {
-   "t": "John Ternus übernimmt bei Apple",
-   "s": "Tim Cook hat als CEO und \"Gesicht\" von Apple in den vergangenen Jahren den Konzern geprägt. Jetzt übergibt er den Stab an John Ternus. Wer ist der Neue? Von Antje Sieb.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-ceo-ternus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T08:39:52+00:00"
-  },
-  {
-   "t": "US-Behörde FTC und Bundesstaaten verklagen Amazon",
-   "s": "Mit manipulierten Auktionen für Online-Werbung soll sich Amazon zweistellige Milliardenbeträge erschlichen haben. Das wirft die US-Wettbewerbsbehörder FTC dem Konzern vor - und klagt zusammen mit 22 Bundesstaaten.",
-   "u": "https://www.tagesschau.de/ausland/amerika/klage-amazon-werbeeinnahmen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T04:47:47+00:00"
-  },
-  {
-   "t": "Vor 50 Jahren gab es den ersten Indexfonds für Privatanleger",
-   "s": "Vor 50 Jahren ging der erste Indexfonds für Privatanleger an den Start. Er gilt als Vorläufer der heutigen ETFs und hat den Vermögensaufbau an der Börse einem breiteren Publikum geöffnet.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/wallstreet-dax-indexfonds-boerse-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T16:46:46+00:00"
-  },
-  {
-   "t": "Kommentar zu Krankschreibungen - Die Politik sollte die Idee schnell beerdigen",
-   "s": "Bundesarbeitsministerin Bas sollte einen Weg finden, um diese unsinnige Verständigung der Koalition auf ein Attest gleich am ersten Krankheitstag zu stoppen. Diese geplante Attestpflicht ist praxisfern und wird keine Fehlzeit weniger bringen.Von Birgid Becker",
-   "u": "https://www.deutschlandfunk.de/kommentar-zu-krankschreibungen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-31T14:38:00+00:00"
   }
  ]
 }

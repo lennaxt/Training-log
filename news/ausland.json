@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-09-02T23:19:46+00:00",
+ "updated": "2026-09-03T08:04:25+00:00",
  "items": [
+  {
+   "t": "Nach deutschen Strafmaßnahmen: Goethe-Institut in Russland wird geschlossen",
+   "s": "Als Reaktion auf den Anschlagsversuch am Flughafen Leipzig/Halle will die Bundesregierung den Vertrag mit dem Russischen Haus kündigen. Moskau zieht nun nach und schließt Niederlassungen des Goethe-Instituts im Land.",
+   "u": "https://www.tagesschau.de/ausland/goethe-institut-russland-schliessung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T05:49:37+00:00"
+  },
+  {
+   "t": "Demonstrationen in Spanien für Ceuta und gegen Sánchez",
+   "s": "Mehr als einen Monat nach dem Ansturm auf Ceuta sind Zehntausende Menschen in ganz Spanien auf die Straße gegangen. Ihr Protest richtete sich gegen die Migrationspolitik der Zentralregierung. In einigen Städten gab es auch Gegendemos.",
+   "u": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T05:39:36+00:00"
+  },
+  {
+   "t": "Forderung der AfD: Wie geht Heimunterricht in Österreich?",
+   "s": "Bildungspflicht statt Schulpflicht ist eine zentrale Forderung der AfD vor der Landtagswahl in Sachsen-Anhalt. Als Vorbild nennt die Partei Österreich. Wie funktioniert der \"häusliche Unterricht\" dort? Von Andreas Herz.",
+   "u": "https://www.tagesschau.de/ausland/europa/oesterreich-hausunterricht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T05:01:53+00:00"
+  },
+  {
+   "t": "Iran greift erneut Ziele in Kuwait an",
+   "s": "Das Golfemirat Kuwait hat einen neuen iranischen Luftangriff auf sein Staatsgebiet gemeldet. Die Flugabwehr ist demnach im Einsatz, um Raketen und Drohnen abzuwehren. Iran sieht darin eine Antwort auf \"Amerikas Verbrechen\".",
+   "u": "https://www.tagesschau.de/ausland/asien/iran-kuwait-angriffe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T03:30:46+00:00"
+  },
   {
    "t": "Freispruch nach Mord an maltesischer Journalistin Caruana Galizia",
    "s": "Wer ließ die maltesische Journalistin Daphne Caruana Galizia ermorden? Diese Frage bleibt auch nach fast neun Jahren unbeantwortet. Geschworene sprachen einen Unternehmer vom Vorwurf frei, Drahtzieher des Anschlags gewesen zu sein.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-schulbeginn-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T08:39:36+00:00"
-  },
-  {
-   "t": "Zahl der Toten nach Sturzflut im Himalaya steigt auf 1.000",
-   "s": "Nach der Flutkatastrophe im Himalaya steigt die Zahl der Toten auf mehr als 1.000. Es gibt weiterhin Tausende Vermisste. Hilfsorganisationen warnen zudem vor katastrophalen hygienischen Bedingungen und Krankheiten wie Dengue-Fieber oder Cholera.",
-   "u": "https://www.tagesschau.de/ausland/asien/himalaya-nepal-sturzflut-tote-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T06:55:01+00:00"
-  },
-  {
-   "t": "US-Behörde FTC und Bundesstaaten verklagen Amazon",
-   "s": "Mit manipulierten Auktionen für Online-Werbung soll sich Amazon zweistellige Milliardenbeträge erschlichen haben. Das wirft die US-Wettbewerbsbehörder FTC dem Konzern vor - und klagt zusammen mit 22 Bundesstaaten.",
-   "u": "https://www.tagesschau.de/ausland/amerika/klage-amazon-werbeeinnahmen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T04:47:47+00:00"
-  },
-  {
-   "t": "Mord an Rapper Tupac Shakur: Angeklagter schuldig gesprochen",
-   "s": "Er soll der Drahtzieher hinter dem Tod von Tupac Shakur gewesen sein: Der frühere Gang-Anführer Duane Davis ist im Prozess um den Mord des US-Rappers schuldig gesprochen worden. Jedoch soll er nicht selbst auf Shakur geschossen haben.",
-   "u": "https://www.tagesschau.de/ausland/amerika/tupac-prozess-mord-urteil-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T02:18:12+00:00"
-  },
-  {
-   "t": "Außenminister Wadephul in Nordafrika: Migration statt Wirtschaft",
-   "s": "Wenige Wochen nach dem Massenansturm von Migranten auf Ceuta steht die Migration über die Mittelmeerroute weiter im Fokus. Ein Thema, um das Außenminister Wadephul bei seinem Besuch in Nordafrika nicht herumkommt. Von D. von Osten.",
-   "u": "https://www.tagesschau.de/ausland/afrika/wadephul-tunesien-algerien-reise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T02:17:52+00:00"
   }
  ]
 }
