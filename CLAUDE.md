@@ -51,6 +51,11 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
 - **Kurse:** optionaler YouTube-Link mit Live-Vorschau; Thumbnail `maxresdefault` → Fallback `hqdefault` → ausblenden bei ungültig.
 - **Kraft-Verlauf:** je Übung schwarze Satz-Punkte (ein Punkt = ein Satz) + Max-Gewicht.
 - **Vorbelegung:** Eingabe schlägt pro Satz den entsprechenden Satz von letztem Mal vor (`lastSetsFor`, Draft springt beim Abhaken weiter).
+- **Anzeigeschrift ist wählbar, Fließtext nicht.** Alles, was in der Fraunces-Rolle
+  steht, nimmt `font-family:var(--display)` — nie wieder eine feste Familie. Gewählt
+  wird in „Einstellungen → Schriftarten" (`fontOverlay`, Liste `FONTS`, gespeichert als
+  `store.font`); die Schriftdatei wird erst beim Anwählen nachgeladen. Inter trägt
+  weiterhin Beschriftungen und Fließtext und bleibt unveränderlich.
 - **Hilfe wohnt in den Einstellungen:** „GPX-Routen" in den Bereichs-Einstellungen von
   Rad/Laufen und „App Guide" ganz unten in den Einstellungen sind statische Overlays
   (`gpxOverlay`, `guideOverlay`) mit `.info-body`-Text — kein gespeicherter Zustand,
@@ -147,6 +152,10 @@ Artifact-Link in der Sitzung). Entschieden ist:
   wie das Blau im App-Icon. Neue Bereichsfarbe heißt also: `--markc` setzen, nie
   `background` an `.mark` überschreiben. Die Ecken sind mit `border-radius:22.4%`
   gerundet — derselbe Anteil, den iOS den Icons auf dem Home-Bildschirm gibt.
+- **`background-clip:text` schneidet Unterlängen ab.** Der Verlauf wird nur bis zur
+  Kastenkante gemalt; ein „g" oder „y" verschwindet, wenn die Zeilenhöhe knapp ist.
+  Gegenmittel: `padding-bottom` in em plus gleich großer negativer `margin-bottom`,
+  damit die Anordnung gleich bleibt (`.hero-letter`, `.sess-badge`, `.sess-vol b`).
 - **Farbige Flächen tragen den Lichtverlauf des Icons** (`--sheen`, als
   `background-image` **über** der Farbe, damit gewählte Akzentfarben durchschlagen).
   Wer eine farbige Fläche später umfärbt, nimmt `background-color`, nicht die
