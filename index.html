@@ -1088,10 +1088,13 @@
       <label class="pref-row"><span>Körpergewicht</span>
         <span class="pref-bike-ctl"><input class="pref-num" id="prefWeight" type="number" inputmode="decimal" min="0" step="0.1" placeholder="–" onchange="setBodyweight(this.value)"><span class="pref-unit">kg</span></span>
       </label>
-      <div class="seg" style="margin-top:16px" id="goalSeg">
-        <button type="button" data-goal="zunahme" onclick="setGoal('zunahme')">Aufbauen</button>
-        <button type="button" data-goal="halten" onclick="setGoal('halten')">Halten</button>
-        <button type="button" data-goal="abnahme" onclick="setGoal('abnahme')">Verlieren</button>
+      <div class="pref-row"><span>Ziel</span>
+        <span class="pref-bike-ctl"><span class="catset-val" id="goalCur">Gewicht halten</span>
+        <span class="pref-sel"><select class="pref-select" id="goalSel" aria-label="Ziel" onchange="setGoal(this.value)">
+          <option value="zunahme">Muskeln aufbauen</option>
+          <option value="halten">Gewicht halten</option>
+          <option value="abnahme">Gewicht verlieren</option>
+        </select></span></span>
       </div>
     </div>
 
@@ -3957,7 +3960,7 @@ function paintPrefs(){
   const fc=document.getElementById("fontCur");if(fc)fc.textContent=fontById(store.font).name;
   const w=document.getElementById("prefWeight");
   if(w)w.value=store.bodyweight!=null?store.bodyweight:"";
-  document.querySelectorAll("#goalSeg button").forEach(b=>b.classList.toggle("on",b.dataset.goal===store.goal));
+  paintGoal();
   const hidden=store.hiddenCats||[];
   CAT_LIST.forEach(c=>{
     const el=document.getElementById("prefCat"+(c==="rad"?"Rad":c==="laufen"?"Lauf":c==="kurs"?"Kurs":"Kraft"));
@@ -3983,12 +3986,18 @@ function setBodyweight(v){
   save();
   const txt=store.bodyweight!=null?store.bodyweight+" kg":"nicht gesetzt";
   toast("Profil",`Körpergewicht: ${txt}`)}
+const GOAL_NAME={zunahme:"Muskeln aufbauen",halten:"Gewicht halten",abnahme:"Gewicht verlieren"};
+function goalName(v){return GOAL_NAME[v]||GOAL_NAME.halten}
+function paintGoal(){
+  const v=GOAL_NAME[store.goal]?store.goal:"halten";
+  const c=document.getElementById("goalCur");if(c)c.textContent=goalName(v);
+  const s=document.getElementById("goalSel");if(s)s.value=v;
+}
 function setGoal(v){
   store.goal=v;
   save();
-  document.querySelectorAll("#goalSeg button").forEach(b=>b.classList.toggle("on",b.dataset.goal===v));
-  const name={zunahme:"Muskeln aufbauen",halten:"Gewicht halten",abnahme:"Gewicht verlieren"}[v]||v;
-  toast("Ziel",name)}
+  paintGoal();
+  toast("Ziel",goalName(v))}
 function paintSyncInfo(){
   const el=document.getElementById("prefSync");
   if(!el)return;
