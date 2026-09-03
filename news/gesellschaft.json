@@ -1,7 +1,35 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-03T13:35:55+00:00",
+ "updated": "2026-09-03T18:40:54+00:00",
  "items": [
+  {
+   "t": "Vorstoß der Österreichischen Volkspartei: Der Islam als Ablenkungsmanöver",
+   "s": "Verwaltung, Bildung oder Gesundheit – die Regierung Österreichs steht in der Kritik. Jetzt versucht sich die ÖVP mit einem neuen Feindbild: dem Islam.",
+   "u": "https://taz.de/Vorstoss-der-Oesterreichischen-Volkspartei/!6209855/",
+   "q": "taz",
+   "d": "2026-09-03T16:30:00+00:00"
+  },
+  {
+   "t": "Getötete Journalin Galizia auf Malta: Gericht hält Unternehmer Fenech nicht für den Mörder",
+   "s": "Die maltesische Journalistin Daphne Caruana Galizia recherchierte zu Schmiergeldzahlungen von Fenechs Unternehmen und wurde ermordet. Fenech soll es nicht gewesen sein.",
+   "u": "https://taz.de/Getoetete-Journalin-Galizia-auf-Malta/!6209954/",
+   "q": "taz",
+   "d": "2026-09-03T14:51:00+00:00"
+  },
+  {
+   "t": "Treffen des Weimarer Dreiecks: Vereinigt gegen russischen Staatsterrorismus",
+   "s": "Polen, Frankreich und Deutschland treffen sich, um 35 Jahre Weimarer Dreieck zu feiern. Im Fokus: Russlands hybride Kriegsführung.",
+   "u": "https://taz.de/Treffen-des-Weimarer-Dreiecks/!6209865/",
+   "q": "taz",
+   "d": "2026-09-03T13:43:00+00:00"
+  },
+  {
+   "t": "Ansturm auf Ceuta: Spaniens Regierungschef Sánchez bleibt Antworten schuldig",
+   "s": "Der spanische Ministerpräsident hat sich den Fragen der Opposition zum Ansturm auf Ceuta im Juli gestellt. Die rechten Parteien trieben den Sozialisten dabei vor sich her.",
+   "u": "https://taz.de/Ansturm-auf-spanische-Exklave-Ceuta/!6209853/",
+   "q": "taz",
+   "d": "2026-09-03T13:39:00+00:00"
+  },
   {
    "t": "Russland schließt Goethe-Institute: Keine Deutschprüfungen mehr in Moskau",
    "s": "Als Reaktion auf den versuchten Drohnenanschlag von Leipzig will Deutschland das Russische Haus in Berlin schließen. Nun reagiert Moskau mit Gegenmaßnahmen.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Russische-Angriffe-auf-Kyjiw/!6208783/",
    "q": "taz",
    "d": "2026-08-31T17:47:00+00:00"
-  },
-  {
-   "t": "1.650 Tage Krieg in der Ukraine: Sport inmitten von Krieg und Zerstörung",
-   "s": "Tschernihiw leidet unter täglichem russischen Beschuss. Krafttraining, Schwimmen oder Leichtathletik – Leistungssport findet auch mitten im Krieg statt.",
-   "u": "https://taz.de/1650-Tage-Krieg-in-der-Ukraine/!6207843/",
-   "q": "taz",
-   "d": "2026-08-31T15:25:00+00:00"
-  },
-  {
-   "t": "Nach Massenansturm auf Ceuta: Spanien beschuldigt „rechtsextreme Internationale“",
-   "s": "Spaniens Regierungschef Sánchez wirft Israel und Russland vor, den Ansturm auf Ceuta befeuert zu haben. Was steckt dahinter?",
-   "u": "https://taz.de/Vier-Wochen-nach-Massenansturm/!6208784/",
-   "q": "taz",
-   "d": "2026-08-31T13:48:00+00:00"
-  },
-  {
-   "t": "Fährunglück vor Zypern: „Es gab so viel Geschrei und viele Menschen steckten fest“",
-   "s": "Augenzeuge berichten von dem Unglück, bei dem mindestens acht Menschen starben. Gegen die Besatzung wurden schwere Vorwürfe erhoben.",
-   "u": "https://taz.de/Faehrunglueck-vor-Zypern/!6208818/",
-   "q": "taz",
-   "d": "2026-08-31T11:09:00+00:00"
-  },
-  {
-   "t": "Kyjiw unter Dauerfeuer: Dutzende Tote bei Explosion von Munitionslager in Kyjiw",
-   "s": "Den vierten Tag infolge schickt Russland Drohnen gegen die ukrainische Hauptstadt – mit verheerenden Folgen. Doch das ist nicht das einzige Problem.",
-   "u": "https://taz.de/Kyjiw-unter-Dauerfeuer/!6208556/",
-   "q": "taz",
-   "d": "2026-08-30T18:04:00+00:00"
   }
  ]
 }

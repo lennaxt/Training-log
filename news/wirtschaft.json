@@ -1,20 +1,27 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-03T13:35:54+00:00",
+ "updated": "2026-09-03T18:40:52+00:00",
  "items": [
   {
-   "t": "Russland Schattenflotte - Wie die Bundesregierung sanktionierte Öltransporte stoppen kann",
+   "t": "Marktbericht: DAX macht Boden gut",
+   "s": "Der jüngste Ausverkauf beim DAX ist zumindest kurzfristig gestoppt. Unklare Zins- und Inflationserwartungen aber bleiben, so dass die Lage angespannt bleibt. Positiv fiel heute die T-Aktie auf.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-148.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T16:31:52+00:00"
+  },
+  {
+   "t": "Sabotage am Stromnetz - wie Energieversorger reagieren",
+   "s": "Die Energie-Infrastruktur lässt sich nicht zu hundert Prozent schützen. Darin sind sich Fachleute einig. Dennoch gibt es Möglichkeiten, den Schutz zu verbessern. Was tun die Versorger? Von David Zajonz.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/schutz-energie-infrastruktur-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T14:40:34+00:00"
+  },
+  {
+   "t": "Russische Schattenflotte - Wie die Bundesregierung sanktionierte Öltransporte stoppen kann",
    "s": "Als Reaktion auf den versuchten Drohnenanschlag von Leipzig hat die Bundesregierung auch ein schärferes Vorgehen gegen Russlands sogenannte Schattenflotte angekündigt. Was möglich ist, machen andere europäische Länder schon länger vor.",
    "u": "https://www.deutschlandfunk.de/russland-schattenflotte-ostsee-bundesregierung-sanktionen-kontrollen-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-03T12:26:00+00:00"
-  },
-  {
-   "t": "Hedgefonds Elliott beflügelt die Telekom-Aktie",
-   "s": "Die Telekom-Aktie ist im Aufwind: Grund ist die wachsende Beteiligung des US-Hedgefonds Elliott am Bonner Konzern. Was wird aus der Fusion mit der US-Tochter T-Mobile?",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-telekom-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T12:00:20+00:00"
   },
   {
    "t": "Immer mehr neue Autos fahren elektrisch",
@@ -45,7 +52,7 @@
    "d": "2026-09-03T08:53:07+00:00"
   },
   {
-   "t": "Super E10 erreicht neuen Höchststand infolge des Iran-Kriegs",
+   "t": "Preisrekord für Super E10 infolge des Iran-Kriegs",
    "s": "Es ist ein neuer Schock an den Zapfsäulen: Benzin ist wegen der neuen Kämpfe so teuer wie noch nie. Doch es lohnt ein genauer Blick. Denn wird die Inflation berücksichtigt, waren die Spritpreise schon mal höher.",
    "u": "https://www.tagesschau.de/wirtschaft/benzinpreis-rekord-102.html",
    "q": "Tagesschau",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/verband-klage-schienenmaut-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T13:25:23+00:00"
-  },
-  {
-   "t": "Europäische Gaspreise steigen auf Drei-Jahres-Hoch",
-   "s": "Die Gaspreise in Europa ziehen an, auf den höchsten Stand seit drei Jahren. Allein seit August sind die Preise um mehr als 20 Prozent gestiegen. Gleichzeitig sind die Gasspeicher ungewöhnlich leer.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/gas-speicher-preise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T12:45:58+00:00"
   }
  ]
 }

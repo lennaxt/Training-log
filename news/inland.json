@@ -1,7 +1,133 @@
 {
  "name": "Inland",
- "updated": "2026-09-03T13:35:52+00:00",
+ "updated": "2026-09-03T18:40:51+00:00",
  "items": [
+  {
+   "t": "Nach dem CSD-Anschlag: Nicht alle wussten alles",
+   "s": "Fehlende Infos und unklare Regeln: Das Violence Prevention Network analysiert das CSD-Attentat und fordert Maßnahmen für bessere Prävention.",
+   "u": "https://taz.de/Nach-dem-CSD-Anschlag/!6209942/",
+   "q": "taz",
+   "d": "2026-09-03T18:13:00+00:00"
+  },
+  {
+   "t": "AfD-Kandidat in Sachsen-Anhalt: Heute Wahlkampf, früher Kampftraining mit Neonazis",
+   "s": "Ein Video zeigt den AfD-Kandidaten Sebastian Koch augenscheinlich beim Kampftraining mit Neonazis. Die Polizei ermittelt bereits zu einer verbotenen Gruppe.",
+   "u": "https://taz.de/AfD-Kandidat-in-Sachsen-Anhalt/!6209813/",
+   "q": "taz",
+   "d": "2026-09-03T18:12:00+00:00"
+  },
+  {
+   "t": "FDP in Ostdeutschland: Kubicki besichtigt liberales Niemandsland",
+   "s": "Die FDP wird in Sachsen-Anhalt und Mecklenburg-Vorpommern wohl aus den Landtagen fliegen. Der Bundesvorsitzende lässt sich davon nicht die Laune verderben.",
+   "u": "https://taz.de/FDP-in-Ostdeutschland/!6209917/",
+   "q": "taz",
+   "d": "2026-09-03T18:08:00+00:00"
+  },
+  {
+   "t": "Warum in der Wahl auch ein Risiko für die AfD steckt",
+   "s": "Die AfD liegt vor der Landtagswahl in Sachsen-Anhalt in Umfragen vorn und hofft auf ein bundesweites Signal. Doch es gibt auch Risiken - und Zweifel an der Regierungsfähigkeit der Partei. Von Benjamin Großkopff.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-afd-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T18:00:34+00:00"
+  },
+  {
+   "t": "Brandanschlag in München - Starke Hinweise auf hybriden Hintergrund",
+   "s": "Nach Informationen des ARD-Hauptstadtstudios gibt es starke Hinweise darauf, dass auch der Brandanschlag nahe eines Rüstungsunternehmens in München im Auftrag eines russischen Geheimdienstes verübt worden sein könnte. Von M. Götschenberg.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/brandanschlag-muenchen-verdacht-geheimdienst-russland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T17:46:02+00:00"
+  },
+  {
+   "t": "Anschlag auf Münchner Firmen: Drei Anschläge, zwei Verdächtige, viele Fragen",
+   "s": "Rüstungsunternehmen stehen verstärkt im Visier russischer und linker Attentäter. Im Münchner Osten flogen jetzt Brandsätze.",
+   "u": "https://taz.de/Anschlag-auf-Muenchner-Firmen/!6210204/",
+   "q": "taz",
+   "d": "2026-09-03T17:05:00+00:00"
+  },
+  {
+   "t": "BGH entscheidet Sampling-Rechtsstreit zugunsten von Moses Pelham",
+   "s": "Seit 27 Jahren wird ein Rechtsstreit zwischen der Elektroband Kraftwerk und dem Musikproduzenten Moses Pelham geführt. Nun hat der Bundesgerichtshof ein entscheidendes Urteil gefällt - mit Auswirkungen über den Fall hinaus. Von Max Bauer.",
+   "u": "https://www.tagesschau.de/inland/bgh-sampling-kraftwerk-urteil-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T17:04:38+00:00"
+  },
+  {
+   "t": "Werkstätten für behinderte Menschen: Nur 200 Euro Monatslohn",
+   "s": "Jürgen Linnemann will per Musterprozess erreichen, dass in Werkstätten für behinderte Menschen Mindestlohn bezahlt wird. Er klagt gegen Lohndumping.",
+   "u": "https://taz.de/Werkstaetten-fuer-behinderte-Menschen/!6209956/",
+   "q": "taz",
+   "d": "2026-09-03T16:44:00+00:00"
+  },
+  {
+   "t": "Wie Deutschland sein Stromnetz für den Klimawandel rüstet",
+   "s": "Die Hitzewellen in diesem Sommer haben das deutsche Stromsystem unter Stress gesetzt. Deutschland arbeitet daran, sein Netz resilienter zu machen – dabei kann auch die grenzüberschreitende Vernetzung eine wichtige Rolle spielen.Röhrlich, Dagmar",
+   "u": "https://www.deutschlandfunk.de/stromversorgung-wie-deutschland-sein-netz-fuer-den-klimawandel-ruestet-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-03T16:40:00+00:00"
+  },
+  {
+   "t": "Vorstoß der Österreichischen Volkspartei: Der Islam als Ablenkungsmanöver",
+   "s": "Verwaltung, Bildung oder Gesundheit – die Regierung Österreichs steht in der Kritik. Jetzt versucht sich die ÖVP mit einem neuen Feindbild: dem Islam.",
+   "u": "https://taz.de/Vorstoss-der-Oesterreichischen-Volkspartei/!6209855/",
+   "q": "taz",
+   "d": "2026-09-03T16:30:00+00:00"
+  },
+  {
+   "t": "Sabotage an Umspannwerk Jänschwalde: Bekennerschreiben zu Anschlag aufgetaucht",
+   "s": "Nach dem Anschlag auf das Umspannwerk bei Jänschwalde erreicht die taz ein Bekennerschreiben. Ist es authentisch? Das lässt sich nicht zweifelsfrei klären.",
+   "u": "https://taz.de/Bekennerschreiben-zu-Anschlag-in-Jaenschwalde-aufgetaucht/!6209920/",
+   "q": "taz",
+   "d": "2026-09-03T16:21:00+00:00"
+  },
+  {
+   "t": "ARD-DeutschlandTrend: Deutsche fühlen sich durch Russland bedroht",
+   "s": "Eine Mehrheit sieht durch Russland die Sicherheit Deutschlands stark bedroht. Das gilt laut ARD-DeutschlandTrend vor allem für ältere Menschen sowie Anhänger aller im Bundestag vertretenen Parteien - mit einer Ausnahme. Von Florian Riesewieck.",
+   "u": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-september-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T16:00:08+00:00"
+  },
+  {
+   "t": "Getötete Journalin Galizia auf Malta: Gericht hält Unternehmer Fenech nicht für den Mörder",
+   "s": "Die maltesische Journalistin Daphne Caruana Galizia recherchierte zu Schmiergeldzahlungen von Fenechs Unternehmen und wurde ermordet. Fenech soll es nicht gewesen sein.",
+   "u": "https://taz.de/Getoetete-Journalin-Galizia-auf-Malta/!6209954/",
+   "q": "taz",
+   "d": "2026-09-03T14:51:00+00:00"
+  },
+  {
+   "t": "Brand in Sachsen-Anhalt: Jugendclub Mood und Kulturwerk Ost sind komplett zerstört",
+   "s": "In Sachsen-Anhalt stehen Kulturräume unter AfD-Druck. In Gardelegen sind nun zwei davon abgebrannt. Die Betreiber sammeln Kräfte – und wollen weitermachen.",
+   "u": "https://taz.de/Brand-in-Sachsen-Anhalt/!6209602/",
+   "q": "taz",
+   "d": "2026-09-03T14:38:00+00:00"
+  },
+  {
+   "t": "Chefin der italienischen Opposition: Mailand oder Madrid – Hauptsache links",
+   "s": "Elly Schlein will die sozialdemokratische Partei Italiens wieder mit den Arbeitenden versöhnen. Muss Giorgia Meloni ihre Gegenspielerin fürchten?",
+   "u": "https://taz.de/Chefin-der-italienischen-Opposition/!6204798/",
+   "q": "taz",
+   "d": "2026-09-03T14:30:00+00:00"
+  },
+  {
+   "t": "Junge Menschen trinken seltener Alkohol - Rauschtrinken weiter beliebt",
+   "s": "Junge Menschen in Deutschland trinken laut einer Studie seltener Alkohol. Der Vollrausch reizt allerdings nach wie vor einen konstanten Anteil der Jugendlichen - und zwar vor allem unter jungen Männern.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/alkoholkonsum-jugendliche-studie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T13:44:42+00:00"
+  },
+  {
+   "t": "Treffen des Weimarer Dreiecks: Vereinigt gegen russischen Staatsterrorismus",
+   "s": "Polen, Frankreich und Deutschland treffen sich, um 35 Jahre Weimarer Dreieck zu feiern. Im Fokus: Russlands hybride Kriegsführung.",
+   "u": "https://taz.de/Treffen-des-Weimarer-Dreiecks/!6209865/",
+   "q": "taz",
+   "d": "2026-09-03T13:43:00+00:00"
+  },
+  {
+   "t": "Ansturm auf Ceuta: Spaniens Regierungschef Sánchez bleibt Antworten schuldig",
+   "s": "Der spanische Ministerpräsident hat sich den Fragen der Opposition zum Ansturm auf Ceuta im Juli gestellt. Die rechten Parteien trieben den Sozialisten dabei vor sich her.",
+   "u": "https://taz.de/Ansturm-auf-spanische-Exklave-Ceuta/!6209853/",
+   "q": "taz",
+   "d": "2026-09-03T13:39:00+00:00"
+  },
   {
    "t": "Kanu-Olympiasieger Rauhe wird neuer Sportstaatsminister",
    "s": "Vom Spitzensport in die Spitzenpolitik: Olympiasieger Ronald Rauhe wird Sportstaatsminister im Kanzleramt. Mit Politik hatte er bisher nicht viel zu tun. Aber der Kanzler wollte jemanden mit Sport-Erfahrung.",
@@ -24,7 +150,7 @@
    "d": "2026-09-03T12:34:00+00:00"
   },
   {
-   "t": "Russland Schattenflotte - Wie die Bundesregierung sanktionierte Öltransporte stoppen kann",
+   "t": "Russische Schattenflotte - Wie die Bundesregierung sanktionierte Öltransporte stoppen kann",
    "s": "Als Reaktion auf den versuchten Drohnenanschlag von Leipzig hat die Bundesregierung auch ein schärferes Vorgehen gegen Russlands sogenannte Schattenflotte angekündigt. Was möglich ist, machen andere europäische Länder schon länger vor.",
    "u": "https://www.deutschlandfunk.de/russland-schattenflotte-ostsee-bundesregierung-sanktionen-kontrollen-100.html",
    "q": "Deutschlandfunk",
@@ -43,132 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/weimarer-dreieck-russland-100.html",
    "q": "Tagesschau",
    "d": "2026-09-03T12:08:57+00:00"
-  },
-  {
-   "t": "Konferenz in Argentinien: Netzwerktreffen für Lateinamerikas Libertäre und Rechte",
-   "s": "Auf dem ganzen Kontinent wächst ein Netzwerk libertärer und konservativer Denkfabriken. In Argentinien diskutieren sie nun politische Reformen.",
-   "u": "https://taz.de/Konferenz-in-Argentinien/!6209754/",
-   "q": "taz",
-   "d": "2026-09-03T10:11:00+00:00"
-  },
-  {
-   "t": "Kriselnde Koalition: Überlebt Schwarz-Rot die Landtagswahlen?",
-   "s": "Merz arbeitet an seiner Unbeliebtheit, die SPD wirkt blass. In den Regierungsparteien brodelt es. Der Preis ihres Scheiterns wäre hoch.",
-   "u": "https://taz.de/Unruhe-in-der-Koalition/!6209790/",
-   "q": "taz",
-   "d": "2026-09-03T09:49:00+00:00"
-  },
-  {
-   "t": "1.653 Tage Krieg in der Ukraine: Wie wir uns auf die Kälte vorbereiten",
-   "s": "Der russische Beschuss auf Kyjiw wird intensiver, und der Herbst beginnt. Eine Checklist für die kalte Jahreszeit.",
-   "u": "https://taz.de/1653-Tage-Krieg-in-der-Ukraine/!6209376/",
-   "q": "taz",
-   "d": "2026-09-03T09:20:00+00:00"
-  },
-  {
-   "t": "Omas gegen Rechts setzen Zeichen: Trotzdem da",
-   "s": "Zwei Wochen vor der Landtagswahl in Sachsen-Anhalt ziehen die Omas gegen Rechts als Karawane durch die Altmark. Die taz war bei einer Etappe dabei.",
-   "u": "https://taz.de/Omas-gegen-Rechts-setzen-Zeichen/!6204807/",
-   "q": "taz",
-   "d": "2026-09-03T09:15:00+00:00"
-  },
-  {
-   "t": "Rüstungskonzern in München angegriffen: LKA vermutet Anschlag",
-   "s": "Nach einer Brandattacke auf eine Münchner Baustelle vermuten Ermittler, dass ein Rüstungsunternehmen das Ziel war. Zwei Menschen wurden festgenommen.",
-   "u": "https://taz.de/Ruestungskonzern-in-Muenchen-angegriffen-LKA-ermittelt-wegen-politischem-Hintergrund/!6209786/",
-   "q": "taz",
-   "d": "2026-09-03T08:56:00+00:00"
-  },
-  {
-   "t": "Mord an Journalistin aus Malta: Freispruch für Geschäftsmann",
-   "s": "Wegen des Anschlags auf die Investigativjournalistin Daphne Caruana Galizia 2017 gab es nun ein vorerst letztes Urteil.",
-   "u": "https://taz.de/Ermordete-Journalistin-aus-Malta-Verdaechtigter-Auftraggeber-freigesprochen/!6209761/",
-   "q": "taz",
-   "d": "2026-09-03T08:38:00+00:00"
-  },
-  {
-   "t": "Wahlen in MV und Berlin: Schwesig rückt der AfD auf die Pelle",
-   "s": "Die SPD liegt laut einer neuen Umfrage in Mecklenburg-Vorpommern nur noch drei Prozentpunkte hinter der AfD. Berlin erscheint aktuell unregierbar.",
-   "u": "https://taz.de/Landtagswahlen-in-Ostdeutschland/!6209758/",
-   "q": "taz",
-   "d": "2026-09-03T08:01:00+00:00"
-  },
-  {
-   "t": "Brandattacke: LKA vermutet Anschlagsversuch auf Rüstungsunternehmen",
-   "s": "In München sind Brandsätze auf die Baustelle der Firma Rohde & Schwarz geworfen worden. Das Bayerische Landeskriminalamt (LKA) vermutet einen Anschlagsversuch. Zwei Menschen wurden festgenommen.",
-   "u": "https://www.tagesschau.de/inland/lka-brandanschlag-muenchen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T07:57:19+00:00"
-  },
-  {
-   "t": "Estnische Staatschefin Ülle Madise: Die Präsidentin, die trotzdem lacht",
-   "s": "Ülle Madise wird die neue Staatspräsidentin von Estland. Trotz der Bedrohung durch Putins Russland will sie Leichtigkeit, Humor und Kreativität.",
-   "u": "https://taz.de/Estnische-Staatschefin-Uelle-Madise/!6209753/",
-   "q": "taz",
-   "d": "2026-09-03T07:36:00+00:00"
-  },
-  {
-   "t": "Geburtenrückgang in Deutschland: Keinen Bock",
-   "s": "Frauen bekommen immer weniger Kinder. Viele Frauen haben keine Lust mehr, sich über die Aufteilung von Familien- und Erwerbsarbeit zu streiten.",
-   "u": "https://taz.de/Geburtenrueckgang-in-Deutschland/!6209380/",
-   "q": "taz",
-   "d": "2026-09-03T07:04:00+00:00"
-  },
-  {
-   "t": "Bundeswehrstart in Afghanistan: Geheim und ohne Mandat",
-   "s": "25 Jahre nach den Anschlägen vom 11. September 2001 zeigt eine Recherche: Spezialkräfte sind damals ohne Zustimmung des Bundestags aufgebrochen.",
-   "u": "https://taz.de/Bundeswehrstart-in-Afghanistan/!6209750/",
-   "q": "taz",
-   "d": "2026-09-03T07:01:00+00:00"
-  },
-  {
-   "t": "Nach Angriffen: Sicherheit kritischer Infrastruktur im Fokus",
-   "s": "Wie kann kritische Infrastruktur in Deutschland besser geschützt werden? Wer ist dafür verantwortlich und welche Rechte sind dazu nötig? Nach Angriffen auf das Stromnetz ist in der Politik eine Debatte darüber entbrannt.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/kritische-infrastruktur-debatte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T06:59:54+00:00"
-  },
-  {
-   "t": "Studie von Unicef: Jedes fünfte Kind erleidet sexuellen Missbrauch im Internet",
-   "s": "Kinder sind im Internet womöglich häufiger sexuellem Missbrauch ausgesetzt als bisher angenommen. Das zeigt eine Unicef-Untersuchung in 21 Ländern.",
-   "u": "https://taz.de/Studie-von-Unicef/!6209752/",
-   "q": "taz",
-   "d": "2026-09-03T06:53:00+00:00"
-  },
-  {
-   "t": "Berlin-Wahl am 20. September: Krach zeigt Linksbündnis die Rote Karte",
-   "s": "In der Hauptstadt liegt die CDU wieder knapp vor der Linken. Die SPD rutscht weiter ab, aber bei zwei Themen punktet ihr Kandidat Steffen Krach.",
-   "u": "https://taz.de/Abgeordnetenhauswahl-am-20-September/!6209748/",
-   "q": "taz",
-   "d": "2026-09-03T06:39:00+00:00"
-  },
-  {
-   "t": "Neue Abnehmpille kommt in die Apotheken",
-   "s": "Der Arzt und Autor Eckart von Hirschhausen warnt vor dem Jojo-Effekt der neuen Abnehmpille. Gegen die Volkskrankheit Adipositas und starkes Übergewicht sei sie ebenso wie die Spritze ein \"Game Changer\". Aber Prävention bei Kindern sei noch wichtiger.May, Philipp",
-   "u": "https://www.deutschlandfunk.de/int-eckart-von-hirschhausen-arzt-und-autor-zur-abnehmpille-in-der-apotheke-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-03T06:15:10+00:00"
-  },
-  {
-   "t": "Russlands Außenminister Lawrow: Das Goethe-Institut schließt",
-   "s": "Russland weist die Reaktionen Deutschlands nach dem Drohnenangriff auf den Flughafen Leipzig/Halle als unbegründet zurück. Jetzt reagiert Moskau.",
-   "u": "https://taz.de/Russlands-Aussenminister-Lawrow/!6209749/",
-   "q": "taz",
-   "d": "2026-09-03T06:11:00+00:00"
-  },
-  {
-   "t": "Buch vom Soziologen Sighard Neckel: Die Abwendung der Katastrophe kann nur kollektiv gelingen",
-   "s": "Die Klimakatastrophe stellt Gesellschaften vor Herausforderungen, die sie überfordern. Der Soziologe Sighard Neckel analysiert die Blockaden, die Lösungen verhindern.",
-   "u": "https://taz.de/Buch-Katastrophenzeit-vom-Soziologen-Sighard-Neckel-Analyse-der-Blockaden-die-Klima-Loesungen-verhindern/!6196791/",
-   "q": "taz",
-   "d": "2026-09-03T05:40:00+00:00"
-  },
-  {
-   "t": "Social Media vor Sachsen-Anhalt-Wahl: Tiktoken die noch ganz richtig?",
-   "s": "AfD-Spitzenkandidat Ulrich Siegmund zieht auf Tiktok mit radikalen Inhalten wie kein Zweiter. Zwei SPD-Kandidat:innen halten mit Nähe und Persönlichkeit dagegen.",
-   "u": "https://taz.de/Social-Media-vor-Sachsen-Anhalt-Wahl-Zwei-SPD-Kandidaten-erklaeren-den-Gegenentwurf-zur-Strategie-von-Siegmund/!6209371/",
-   "q": "taz",
-   "d": "2026-09-03T05:04:00+00:00"
   }
  ]
 }

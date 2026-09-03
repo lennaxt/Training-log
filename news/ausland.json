@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-09-03T13:35:53+00:00",
+ "updated": "2026-09-03T18:40:51+00:00",
  "items": [
+  {
+   "t": "US-Frauenrechtsaktivistin Gloria Steinem mit 92 Jahren gestorben",
+   "s": "Sie war eine der führenden Stimmen der Frauenbewegung in den USA. Nun ist die Journalistin und Buchautorin Gloria Steinem im Alter von 92 Jahren in New York gestorben. Von Martin Ganslmeier.",
+   "u": "https://www.tagesschau.de/ausland/gloria-steinem-tod-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T15:12:26+00:00"
+  },
   {
    "t": "Dänischer Nachrichtendienst warnt vor russischen Sabotageakten",
    "s": "Meldungen über Sabotageakte in Europa nehmen zu - ebenso die Hinweise, dass Russland dahinterstecken könnte. Nun warnt auch der dänische Nachrichtendienst öffentlich vor solchen Aktionen. Und davor, für Spionage angeworben zu werden.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/finnland-kampf-obdachlosigkeit-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T15:07:36+00:00"
-  },
-  {
-   "t": "Israels Ex-Vize-Polizeiminister wechselt zu arabischer Partei",
-   "s": "Erstmals schließt sich in Israel ein jüdischer Politiker der islamischen Raam-Partei an. Yoav Segalovitz und Raam-Vorsitzender Abbas wollen beweisen, dass jüdisch-arabische Partnerschaft keine Illusion ist. Von Julio Segador.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-paukenschlag-wechsel-arabische-partei-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T12:56:23+00:00"
   }
  ]
 }
