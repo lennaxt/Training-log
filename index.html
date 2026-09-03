@@ -92,6 +92,9 @@
   .eyebrow.plain::before{display:none}
 
   .brand-title{font-family:var(--display);font-size:20px;font-weight:600;letter-spacing:-0.01em;line-height:1.1;white-space:nowrap}
+  .brand-name{display:flex;flex-direction:column;align-items:flex-start;min-width:0}
+  .brand-sub{font-family:'Inter',sans-serif;font-size:9px;font-weight:600;letter-spacing:0.16em;
+    text-transform:uppercase;color:var(--ink-soft);margin-top:2px;white-space:nowrap}
   .cat-row{display:flex;gap:24px;margin:-9px 0 17px;align-items:center}
   .cat-link{background:none;border:none;padding:15px 0;min-height:44px;display:flex;align-items:center;font-family:'Inter',sans-serif;font-size:12px;color:var(--ink-faint);cursor:pointer;transition:color .2s;font-weight:500;letter-spacing:0.14em;text-transform:uppercase}
   .cat-link.on{color:var(--ink)}
@@ -971,7 +974,10 @@
   <div class="head">
     <button class="brand" onclick="openPrefs()" aria-label="Einstellungen">
       <div class="mark" id="brandMark"><svg viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22.2 67.4 L23.0 66.2 L25.3 63.2 L27.5 59.8 L29.8 56.6 L32.0 53.5 L34.3 50.6 L36.5 47.7 L38.8 45.1 L41.0 42.6 L43.3 40.4 L45.5 38.5 L47.8 37.1 L50.0 36.3 L52.2 37.2 L54.5 38.7 L56.7 40.6 L59.0 42.8 L61.2 45.3 L63.5 48.0 L65.7 50.8 L68.0 53.8 L70.2 56.9 L72.5 60.1 L74.7 63.5 L77.3 67.4" stroke-width="3.6"/><path d="M36.3 53.1 L38.5 55.8 L42.0 51.9 L46.1 58.0 L50.2 52.3 L53.7 55.2 L57.4 51.7 L61.4 56.9 L63.7 53.6" stroke-width="2.6"/></svg></div>
-      <strong class="brand-title">Peak</strong>
+      <div class="brand-name">
+        <strong class="brand-title">Peak</strong>
+        <span class="brand-sub">Trainingslog</span>
+      </div>
     </button>
     <div class="head-right">
       <div class="stamp"><b id="stampDate">–</b><span id="stampDay">–</span></div>
