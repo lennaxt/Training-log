@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-03T18:40:52+00:00",
+ "updated": "2026-09-03T23:17:40+00:00",
  "items": [
+  {
+   "t": "VW-Aufsichtsrat beschließt Sparmaßnahmen - 50.000 Stellen weg",
+   "s": "Einen Tag früher als geplant hat der VW-Aufsichtsrat einem Sparplan zugestimmt: 50.000 Jobs sollen wegfallen, und vier Werke stehen vor dem Aus, wenn keine alternative Verwendung für sie gefunden wird.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplaene-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T19:45:37+00:00"
+  },
+  {
+   "t": "Wirtschaft vor acht vom 03.09.2026",
+   "s": "Wirtschaft vor acht vom 03.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1642330.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T19:06:12+00:00"
+  },
   {
    "t": "Marktbericht: DAX macht Boden gut",
    "s": "Der jüngste Ausverkauf beim DAX ist zumindest kurzfristig gestoppt. Unklare Zins- und Inflationserwartungen aber bleiben, so dass die Lage angespannt bleibt. Positiv fiel heute die T-Aktie auf.",
@@ -80,13 +94,6 @@
    "d": "2026-09-03T05:58:04+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 02.09.2026",
-   "s": "Wirtschaft vor acht vom 02.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1641750.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T19:01:54+00:00"
-  },
-  {
    "t": "Ernteausfälle durch Hitze - Agrarminister Rainer kündigt Hilfen für Bauern an",
    "s": "Die durch Hitze und Trockenheit geschmälerte Ernte ist laut Bundesagrarminister Rainer eine \"herbe Enttäuschung\" für viele Landwirte. Der CSU-Politiker kündigte Hilfen für die betroffenen Betriebe an.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/ernteausfaelle-krise-rainer-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-temu-online-handel-china-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T17:18:25+00:00"
-  },
-  {
-   "t": "Verband reicht Klage gegen sogenannte Schienenmaut ein",
-   "s": "Bahnunternehmen und der Verband BSN klagen beim Verwaltungsgericht Köln gegen die Neugestaltung der Schienenmaut im Regionalverkehr. Sie könnte Mehrkosten im Millionenbereich verursachen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/verband-klage-schienenmaut-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T13:25:23+00:00"
   }
  ]
 }

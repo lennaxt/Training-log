@@ -1,6 +1,6 @@
 {
  "name": "Inland",
- "updated": "2026-09-03T18:40:51+00:00",
+ "updated": "2026-09-03T23:17:38+00:00",
  "items": [
   {
    "t": "Nach dem CSD-Anschlag: Nicht alle wussten alles",
@@ -24,32 +24,11 @@
    "d": "2026-09-03T18:08:00+00:00"
   },
   {
-   "t": "Warum in der Wahl auch ein Risiko für die AfD steckt",
-   "s": "Die AfD liegt vor der Landtagswahl in Sachsen-Anhalt in Umfragen vorn und hofft auf ein bundesweites Signal. Doch es gibt auch Risiken - und Zweifel an der Regierungsfähigkeit der Partei. Von Benjamin Großkopff.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-afd-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T18:00:34+00:00"
-  },
-  {
-   "t": "Brandanschlag in München - Starke Hinweise auf hybriden Hintergrund",
-   "s": "Nach Informationen des ARD-Hauptstadtstudios gibt es starke Hinweise darauf, dass auch der Brandanschlag nahe eines Rüstungsunternehmens in München im Auftrag eines russischen Geheimdienstes verübt worden sein könnte. Von M. Götschenberg.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/brandanschlag-muenchen-verdacht-geheimdienst-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T17:46:02+00:00"
-  },
-  {
    "t": "Anschlag auf Münchner Firmen: Drei Anschläge, zwei Verdächtige, viele Fragen",
    "s": "Rüstungsunternehmen stehen verstärkt im Visier russischer und linker Attentäter. Im Münchner Osten flogen jetzt Brandsätze.",
    "u": "https://taz.de/Anschlag-auf-Muenchner-Firmen/!6210204/",
    "q": "taz",
    "d": "2026-09-03T17:05:00+00:00"
-  },
-  {
-   "t": "BGH entscheidet Sampling-Rechtsstreit zugunsten von Moses Pelham",
-   "s": "Seit 27 Jahren wird ein Rechtsstreit zwischen der Elektroband Kraftwerk und dem Musikproduzenten Moses Pelham geführt. Nun hat der Bundesgerichtshof ein entscheidendes Urteil gefällt - mit Auswirkungen über den Fall hinaus. Von Max Bauer.",
-   "u": "https://www.tagesschau.de/inland/bgh-sampling-kraftwerk-urteil-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T17:04:38+00:00"
   },
   {
    "t": "Werkstätten für behinderte Menschen: Nur 200 Euro Monatslohn",
@@ -80,11 +59,11 @@
    "d": "2026-09-03T16:21:00+00:00"
   },
   {
-   "t": "ARD-DeutschlandTrend: Deutsche fühlen sich durch Russland bedroht",
-   "s": "Eine Mehrheit sieht durch Russland die Sicherheit Deutschlands stark bedroht. Das gilt laut ARD-DeutschlandTrend vor allem für ältere Menschen sowie Anhänger aller im Bundestag vertretenen Parteien - mit einer Ausnahme. Von Florian Riesewieck.",
-   "u": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-september-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T16:00:08+00:00"
+   "t": "Weniger Kinder, weniger Kinderwunsch",
+   "s": "Bislang wünschten sich die meisten Menschen eigentlich mehr Kinder. Aber das ist jetzt immer weniger der Fall - bei Frauen und bei Männern. Das zeigt eine Studie des Bundesinstituts für Bevölkerungsforschung. Zukunftssorgen sind nur ein Faktor.Pfister, Sandra",
+   "u": "https://www.deutschlandfunk.de/warum-weniger-lust-auf-kinder-c-katharina-spiess-direktorin-bib-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-03T15:18:45+00:00"
   },
   {
    "t": "Getötete Journalin Galizia auf Malta: Gericht hält Unternehmer Fenech nicht für den Mörder",
@@ -108,13 +87,6 @@
    "d": "2026-09-03T14:30:00+00:00"
   },
   {
-   "t": "Junge Menschen trinken seltener Alkohol - Rauschtrinken weiter beliebt",
-   "s": "Junge Menschen in Deutschland trinken laut einer Studie seltener Alkohol. Der Vollrausch reizt allerdings nach wie vor einen konstanten Anteil der Jugendlichen - und zwar vor allem unter jungen Männern.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/alkoholkonsum-jugendliche-studie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T13:44:42+00:00"
-  },
-  {
    "t": "Treffen des Weimarer Dreiecks: Vereinigt gegen russischen Staatsterrorismus",
    "s": "Polen, Frankreich und Deutschland treffen sich, um 35 Jahre Weimarer Dreieck zu feiern. Im Fokus: Russlands hybride Kriegsführung.",
    "u": "https://taz.de/Treffen-des-Weimarer-Dreiecks/!6209865/",
@@ -127,13 +99,6 @@
    "u": "https://taz.de/Ansturm-auf-spanische-Exklave-Ceuta/!6209853/",
    "q": "taz",
    "d": "2026-09-03T13:39:00+00:00"
-  },
-  {
-   "t": "Kanu-Olympiasieger Rauhe wird neuer Sportstaatsminister",
-   "s": "Vom Spitzensport in die Spitzenpolitik: Olympiasieger Ronald Rauhe wird Sportstaatsminister im Kanzleramt. Mit Politik hatte er bisher nicht viel zu tun. Aber der Kanzler wollte jemanden mit Sport-Erfahrung.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/rauhe-sport-staatsminister-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T13:20:44+00:00"
   },
   {
    "t": "Super-El-Niño erwartet: Hochwasser und Hitze in Argentinien",
@@ -164,11 +129,46 @@
    "d": "2026-09-03T12:23:00+00:00"
   },
   {
-   "t": "Frankreich und Polen stellen sich nach Drohnen-Vorfall hinter Deutschland",
-   "s": "Russland die Stirn bieten und die Ukraine weiter unterstützen: Beim Treffen des Weimarer Dreiecks gibt es nach den Drohnen-Vorfällen Rückendeckung aus Frankreich und Polen für Deutschlands Kurs. Neue Maßnahmen gibt es aber nicht. Von D. von Osten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/weimarer-dreieck-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T12:08:57+00:00"
+   "t": "IT-Sicherheitsexperte Atug mahnt bei Schutz der Infrastruktur zur Eile",
+   "s": "Das im März in Kraft getretene KRITIS-Dachgesetz ist bisher nur eine leere Hülle, rügt IT-Sicherheitsexperte Manuel Atug die Koalition. Die Umsetzung werde aber angesichts der Gefahr für die kritische Infrastruktur in Wochen, nicht in Jahren benötigt.Capellan, Frank; Kaess, Christiane; Atug, Manuel",
+   "u": "https://www.deutschlandfunk.de/debatte-um-schutz-kritischer-infrastruktur-102.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-03T10:12:04+00:00"
+  },
+  {
+   "t": "Konferenz in Argentinien: Netzwerktreffen für Lateinamerikas Libertäre und Rechte",
+   "s": "Auf dem ganzen Kontinent wächst ein Netzwerk libertärer und konservativer Denkfabriken. In Argentinien diskutieren sie nun politische Reformen.",
+   "u": "https://taz.de/Konferenz-in-Argentinien/!6209754/",
+   "q": "taz",
+   "d": "2026-09-03T10:11:00+00:00"
+  },
+  {
+   "t": "Kriselnde Koalition: Überlebt Schwarz-Rot die Landtagswahlen?",
+   "s": "Merz arbeitet an seiner Unbeliebtheit, die SPD wirkt blass. In den Regierungsparteien brodelt es. Der Preis ihres Scheiterns wäre hoch.",
+   "u": "https://taz.de/Unruhe-in-der-Koalition/!6209790/",
+   "q": "taz",
+   "d": "2026-09-03T09:49:00+00:00"
+  },
+  {
+   "t": "1.653 Tage Krieg in der Ukraine: Wie wir uns auf die Kälte vorbereiten",
+   "s": "Der russische Beschuss auf Kyjiw wird intensiver, und der Herbst beginnt. Eine Checklist für die kalte Jahreszeit.",
+   "u": "https://taz.de/1653-Tage-Krieg-in-der-Ukraine/!6209376/",
+   "q": "taz",
+   "d": "2026-09-03T09:20:00+00:00"
+  },
+  {
+   "t": "Omas gegen Rechts setzen Zeichen: Trotzdem da",
+   "s": "Zwei Wochen vor der Landtagswahl in Sachsen-Anhalt ziehen die Omas gegen Rechts als Karawane durch die Altmark. Die taz war bei einer Etappe dabei.",
+   "u": "https://taz.de/Omas-gegen-Rechts-setzen-Zeichen/!6204807/",
+   "q": "taz",
+   "d": "2026-09-03T09:15:00+00:00"
+  },
+  {
+   "t": "Rüstungskonzern in München angegriffen: LKA vermutet Anschlag",
+   "s": "Nach einer Brandattacke auf eine Münchner Baustelle vermuten Ermittler, dass ein Rüstungsunternehmen das Ziel war. Zwei Menschen wurden festgenommen.",
+   "u": "https://taz.de/Ruestungskonzern-in-Muenchen-angegriffen-LKA-ermittelt-wegen-politischem-Hintergrund/!6209786/",
+   "q": "taz",
+   "d": "2026-09-03T08:56:00+00:00"
   }
  ]
 }
