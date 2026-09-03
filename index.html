@@ -919,8 +919,9 @@
   .creature-host{position:absolute;inset:0;overflow:hidden;isolation:isolate;
     display:flex;align-items:center;justify-content:center;--creature-scale:.0033}
   /* Die Kreatur bewegt sich nur in ihrem eigenen Kasten. Im Pausenbildschirm
-     faengt der unter der Uhr an, damit sie die Zeit nicht ueberlaeuft. */
-  #pauseOverlay .creature-host{top:calc(var(--top) + 122px)}
+     ist der Kasten auf die Timeranzeige zentriert, damit die Kreatur die Zahl
+     symmetrisch umkreist statt versetzt unter ihr zu starten. */
+  #pauseOverlay .creature-host{top:calc(var(--top) + 33px - var(--bot) - 70px)}
   #modePrev .creature-host{--creature-scale:.0046}
   /* Die Zahl liegt in der Grundfarbe ueber der Kreatur und wird von einer
      Maske freigegeben, die der Kreatur folgt: sichtbar wird nur, worueber sie
@@ -4368,11 +4369,13 @@ window.createCreature = function(host, dark){
 
   const autoMove = createTimeline()
   .add(cursor, {
-    x: [-viewport.w * .55, viewport.w * .55],
+    x: [0, viewport.w * .55],
     // Zwei Schwingungen mit unrunden Verhaeltnissen statt einer: die Bahn
     // wiederholt sich dadurch erst nach Minuten statt nach neun Sekunden.
+    // Die Phasen sind so gesetzt, dass die Modulatoren bei t=0 verschwinden —
+    // sonst startet die Kreatur versetzt statt mittig auf der Timeranzeige.
     modifier: x => { const t = mainLoop.currentTime;
-      return x + (Math.sin(t * .00062) * .38 + Math.sin(t * .00027 + 2.1) * .26) * viewport.w; },
+      return x + (Math.sin(t * .00062) * .38 + Math.sin(t * .00027) * .26) * viewport.w; },
     duration: 3750,
     ease: 'inOutExpo',
     alternate: true,
@@ -4381,10 +4384,10 @@ window.createCreature = function(host, dark){
     onLoop: pulse,
   }, 0)
   .add(cursor, {
-    y: [-viewport.h * .55, viewport.h * .55],
+    y: [0, viewport.h * .55],
     modifier: y => { const t = mainLoop.currentTime;
       return Math.max(ceiling(),
-        y + (Math.cos(t * .00041) * .36 + Math.cos(t * .00017 + 1.1) * .26) * viewport.h); },
+        y + (Math.cos(t * .00041 + Math.PI / 2) * .36 + Math.cos(t * .00017 + Math.PI / 2) * .26) * viewport.h); },
     duration: 1250,
     ease: 'inOutQuad',
     alternate: true,
