@@ -121,14 +121,14 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
   unbemerkt einen veralteten Stand. Nach einem Push im Browser checken, ob die
   deployte Seite den neuen Stand enthält.
 
-## App-Icon (Stand der Entwürfe)
+## App-Icon
 
-Entwürfe liegen als eigene Seiten in `entwuerfe/` (je eine pro Runde, alle mit
-Artifact-Link in der Sitzung). Entschieden ist:
+Das Icon ist gefunden; die Entwurfsseiten in `entwuerfe/` sind danach gelöscht
+worden — wer sie noch braucht, holt sie aus der Git-Historie. Entschieden ist:
 
 - **Motiv:** Mount Fuji. Profil wird **gerechnet, nicht gezeichnet** — konkave
-  Potenzkurve mit weicher Kraterdelle (`entwuerfe/`-Bauskripte). Gekappte Gipfel
-  mit aufgesetzter Beule geben harte Ecken, Bézier-Flanken fransen unten aus.
+  Potenzkurve mit weicher Kraterdelle. Gekappte Gipfel mit aufgesetzter Beule
+  geben harte Ecken, Bézier-Flanken fransen unten aus.
 - **Form:** „Steiler" (Exponent 1.35, leichte Delle). Exponent > 1 = konkav wie
   der Fuji, = 1 gerade, < 1 wird zum Matterhorn.
 - **Grund:** „Grat" — weißgrauer Verlauf, tiefblaue Wolke unten, Zeichen `#1F3A5C`.
@@ -141,10 +141,10 @@ Artifact-Link in der Sitzung). Entschieden ist:
   Wenige, lange Zungen; viele kurze lesen sich als Gekritzel.
 - **Dateien:** `apple-touch-icon.png` (180 px) und `apple-touch-icon-1024.png`,
   in `index.html` per `<link rel="apple-touch-icon">` eingehängt. Beide **ohne**
-  runde Ecken — iOS rundet selbst. Gerendert wird mit Chromium/Playwright
-  (`entwuerfe/`-Skript), weil `backdrop-filter` sich nicht in SVG rechnen lässt.
-- **Verworfen, aber aufgehoben:** „Grundform", „Kontur mit Schnee", „Balkenberg"
-  (sieben Balken, deren Höhe den Gipfel bildet) — alle in `entwuerfe/icon-auswahl.html`.
+  runde Ecken — iOS rundet selbst. Gerendert wird mit Chromium/Playwright,
+  weil `backdrop-filter` sich nicht in SVG rechnen lässt.
+- **Verworfen:** „Grundform", „Kontur mit Schnee", „Balkenberg" (sieben Balken,
+  deren Höhe den Gipfel bildet).
 - **App-Name ist „Peak".** Auf dem Home-Bildschirm über `apple-mobile-web-app-title`
   (iOS liest es **beim Ablegen**), in der App als `.brand-title` und `.auth-title`.
 - **Die Marke (`.mark`) ist eine Glaskachel, kein Buchstabe mehr.** Sie zeigt das
