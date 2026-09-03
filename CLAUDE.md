@@ -54,7 +54,9 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
 - **Anzeigeschrift ist wählbar, Fließtext nicht.** Alles, was in der Fraunces-Rolle
   steht, nimmt `font-family:var(--display)` — nie wieder eine feste Familie. Gewählt
   wird in „Einstellungen → Schriftarten" (`fontOverlay`, Liste `FONTS`, gespeichert als
-  `store.font`); die Schriftdatei wird erst beim Anwählen nachgeladen. Inter trägt
+  `store.font`); die Schriftdatei wird erst beim Anwählen nachgeladen — die meisten
+  von Google Fonts, Satoshi, Clash Display und Cabinet Grotesk von `api.fontshare.com`
+  (zweiter Host, kostenlose Fontshare-Lizenz). Inter trägt
   weiterhin Beschriftungen und Fließtext und bleibt unveränderlich.
 - **Hilfe wohnt in den Einstellungen:** „GPX-Routen" in den Bereichs-Einstellungen von
   Rad/Laufen und „App Guide" ganz unten in den Einstellungen sind statische Overlays

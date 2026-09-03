@@ -3065,19 +3065,29 @@ SYSTEM_DUNKEL.addEventListener("change",()=>{if(themeWahl()==="system")applyDark
 /* Nur die Anzeigeschrift (heute Fraunces) ist waehlbar; Inter traegt weiter
    Beschriftungen und Fliesstext. Die Dateien kommen erst beim Anwaehlen. */
 const FONTS=[
-  {id:"fraunces",name:"Fraunces",note:"Standard",stack:"'Fraunces',Georgia,serif",g:""},
-  {id:"playfair",name:"Playfair Display",note:"Hoher Kontrast",stack:"'Playfair Display',Georgia,serif",g:"Playfair+Display:wght@400;500;600"},
-  {id:"dmserif",name:"DM Serif Display",note:"Kraeftig",stack:"'DM Serif Display',Georgia,serif",g:"DM+Serif+Display"},
-  {id:"instrument",name:"Instrument Serif",note:"Schmal",stack:"'Instrument Serif',Georgia,serif",g:"Instrument+Serif"},
-  {id:"grotesk",name:"Space Grotesk",note:"Ohne Serifen",stack:"'Space Grotesk',system-ui,sans-serif",g:"Space+Grotesk:wght@400;500;600"},
-  {id:"georgia",name:"Georgia",note:"Ohne Nachladen",stack:"Georgia,'Times New Roman',serif",g:""}
+  {id:"fraunces",name:"Fraunces",note:"Standard",stack:"'Fraunces',Georgia,serif"},
+  {id:"inter",name:"Inter",note:"Wie der Fließtext",stack:"'Inter',system-ui,sans-serif"},
+  {id:"satoshi",name:"Satoshi",note:"Fontshare",stack:"'Satoshi',system-ui,sans-serif",fs:"satoshi@400,500,700"},
+  {id:"grotesk",name:"Space Grotesk",note:"Technisch",stack:"'Space Grotesk',system-ui,sans-serif",g:"Space+Grotesk:wght@400;500;600"},
+  {id:"geist",name:"Geist",note:"Nüchtern",stack:"'Geist',system-ui,sans-serif",g:"Geist:wght@400;500;600"},
+  {id:"jakarta",name:"Plus Jakarta Sans",note:"Rund",stack:"'Plus Jakarta Sans',system-ui,sans-serif",g:"Plus+Jakarta+Sans:wght@400;500;600"},
+  {id:"clash",name:"Clash Display",note:"Fontshare · kantig",stack:"'Clash Display',system-ui,sans-serif",fs:"clash-display@400,500,600"},
+  {id:"instrument",name:"Instrument Serif",note:"Schmale Serifen",stack:"'Instrument Serif',Georgia,serif",g:"Instrument+Serif"},
+  {id:"syne",name:"Syne",note:"Breit",stack:"'Syne',system-ui,sans-serif",g:"Syne:wght@400;500;600;700"},
+  {id:"cabinet",name:"Cabinet Grotesk",note:"Fontshare · kompakt",stack:"'Cabinet Grotesk',system-ui,sans-serif",fs:"cabinet-grotesk@400,500,700"},
+  {id:"outfit",name:"Outfit",note:"Geometrisch",stack:"'Outfit',system-ui,sans-serif",g:"Outfit:wght@400;500;600"}
 ];
 function fontById(id){return FONTS.find(f=>f.id===id)||FONTS[0]}
+function fontHref(f){
+  if(f.g)return "https://fonts.googleapis.com/css2?family="+f.g+"&display=swap";
+  if(f.fs)return "https://api.fontshare.com/v2/css?f%5B%5D="+f.fs+"&display=swap";
+  return "";
+}
 function loadFontFile(f){
-  if(!f.g||document.getElementById("fontfile-"+f.id))return;
+  const href=fontHref(f);
+  if(!href||document.getElementById("fontfile-"+f.id))return;
   const l=document.createElement("link");
-  l.rel="stylesheet";l.id="fontfile-"+f.id;
-  l.href="https://fonts.googleapis.com/css2?family="+f.g+"&display=swap";
+  l.rel="stylesheet";l.id="fontfile-"+f.id;l.href=href;
   document.head.appendChild(l);
 }
 function applyStoredFont(){
