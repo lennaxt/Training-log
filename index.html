@@ -570,6 +570,36 @@
   .axis span{font-size:12px;color:var(--ink-soft)}
   .chart-empty{padding:44px 0;text-align:center;font-size:14.5px;color:var(--ink-soft)}
 
+  /* ── Gewichtskurve ── */
+  .w-form{display:flex;align-items:flex-end;gap:10px;margin-bottom:30px}
+  .w-field{flex:1;min-width:0;display:flex;flex-direction:column;gap:6px;
+    font-size:12px;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-mute)}
+  .w-field input{width:100%;min-width:0;box-sizing:border-box;height:52px;border:1.5px solid var(--line);
+    border-radius:10px;padding:0 14px;font-size:16px;font-weight:500;background:var(--paper);
+    color:var(--ink);font-family:var(--display);-moz-appearance:textfield}
+  .w-field input::-webkit-outer-spin-button,.w-field input::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+  .w-add{flex:none;height:52px;padding:0 20px;border:0;border-radius:10px;background:var(--ink);
+    background-image:var(--sheen);color:var(--on-ink);font-family:inherit;font-size:15px;font-weight:600;cursor:pointer}
+  .w-hint{font-size:12.5px;color:var(--ink-soft);line-height:1.5;margin:-16px 0 28px}
+  .w-first{font-size:15px;color:var(--ink-soft);line-height:1.55;margin:0 0 26px}
+  #weightOverlay .readout .cur{white-space:nowrap}
+  #weightOverlay .readout .cur b{font-size:48px}
+  .w-stage{cursor:default}
+  .w-goalband{position:absolute;left:0;right:0;background:var(--green);opacity:.09}
+  .w-goalline{position:absolute;left:0;right:0;height:0;
+    border-top:1.5px dashed var(--green);opacity:.85}
+  .w-goaltag{position:absolute;left:0;transform:translateY(-100%);margin-bottom:3px;
+    padding:3px 7px;background:var(--paper);border:1px solid var(--line);
+    font-size:11px;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--green)}
+  .w-list{margin-top:34px;border-top:1px solid var(--line)}
+  .w-row{display:flex;align-items:center;gap:12px;padding:13px 0;border-bottom:1px solid var(--line)}
+  .w-date{flex:1;min-width:0;font-size:14px;color:var(--ink-soft);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .w-d{font-size:12.5px;color:var(--ink-faint);flex:none}
+  .w-kg{font-family:var(--display);font-weight:500;font-size:17px;color:var(--ink);flex:none}
+  .w-del{flex:none;width:44px;height:44px;margin-right:-10px;background:none;border:0;
+    font-size:20px;line-height:1;color:var(--ink-faint);cursor:pointer}
+  .w-del:active{color:#B94A48}
+
   .wipe{background:none;border:0;color:var(--ink-soft);font-size:12px;font-weight:600;
     letter-spacing:0.16em;text-transform:uppercase;padding:34px 14px;width:100%;text-align:center;cursor:pointer}
   .wipe:active{color:var(--blue)}
@@ -1084,9 +1114,9 @@
 
     <div class="pref-section">
       <div class="pref-title">Profil</div>
-      <div class="pref-sub">Dein Körpergewicht wird Übungen mit Körpergewicht automatisch als Gewicht vorgeschlagen. Wähle dein Ziel.</div>
+      <div class="pref-sub">Dein Körpergewicht wird Übungen mit Körpergewicht automatisch als Gewicht vorgeschlagen. Jeder Eintrag wird mit Datum gesichert und ergibt die Gewichtskurve.</div>
       <label class="pref-row"><span>Körpergewicht</span>
-        <span class="pref-bike-ctl"><input class="pref-num" id="prefWeight" type="number" inputmode="decimal" min="0" step="0.1" placeholder="–" onchange="setBodyweight(this.value)"><span class="pref-unit">kg</span></span>
+        <span class="pref-bike-ctl"><input class="pref-num" id="prefWeight" type="text" inputmode="decimal" placeholder="–" onchange="setBodyweight(this.value)"><span class="pref-unit">kg</span></span>
       </label>
       <div class="pref-row"><span>Ziel</span>
         <span class="pref-bike-ctl"><span class="catset-val" id="goalCur">Gewicht halten</span>
@@ -1096,6 +1126,12 @@
           <option value="abnahme">Gewicht verlieren</option>
         </select></span></span>
       </div>
+      <label class="pref-row"><span>Zielgewicht</span>
+        <span class="pref-bike-ctl"><input class="pref-num" id="prefGoalKg" type="text" inputmode="decimal" placeholder="–" onchange="setGoalKg(this.value)"><span class="pref-unit">kg</span></span>
+      </label>
+      <button class="pref-row pref-clickable" onclick="openWeight()"><span>Gewichtskurve</span>
+        <span class="pref-cur" id="weightCur">Noch keine Wägung</span>
+        <span class="catset-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></span></button>
     </div>
 
     <div class="pref-section">
@@ -1134,6 +1170,17 @@
   </div>
 </div>
 
+<div class="plan-overlay" id="weightOverlay">
+  <div class="plan-sheet">
+    <div class="plan-top">
+      <h1 class="plan-title">Gewichtskurve</h1>
+      <button class="plan-close" onclick="closeWeight()" aria-label="Zurück">×</button>
+    </div>
+    <div class="plan-sub">Trag dich regelmäßig ein — jede Wägung wird mit Datum gesichert. Eine zweite Wägung am selben Tag korrigiert die erste.</div>
+    <div id="weightBody"></div>
+  </div>
+</div>
+
 <div class="plan-overlay" id="guideOverlay">
   <div class="plan-sheet">
     <div class="plan-top">
@@ -1157,6 +1204,7 @@
       <div class="guide-item"><h3>Route im Vollbild</h3><p>Im <b>Verlauf</b> auf das <b>Kartenbild</b> einer Fahrt tippen — mit Abspielen und Tempo-Farben.</p></div>
       <div class="guide-item"><h3>Verlaufskurve neu abspielen</h3><p>Im Reiter <b>Verlaufskurve</b> auf die Kurve tippen.</p></div>
       <div class="guide-item"><h3>Pausentimer</h3><p>Dauer in den <b>Bereichs-Einstellungen von Kraft</b> unter „Pausentimer" — Regler schieben oder auf die Zahl tippen. Auf 0 startet keine Pause. Läuft sie, beendet <b>„Halten zum Beenden"</b> sie vorzeitig; ein kurzer Tipp reicht bewusst nicht.</p></div>
+      <div class="guide-item"><h3>Gewichtskurve</h3><p>In den <b>Einstellungen</b> unter „Profil" auf <b>Gewichtskurve</b> tippen: dort trägst du dich ein und siehst den Verlauf. Mit einem <b>Zielgewicht</b> zeichnet die Kurve zusätzlich eine Ziellinie.</p></div>
       <div class="guide-item"><h3>Cloud-Status prüfen</h3><p>Unten in den Einstellungen: <b>„Gesichert um …"</b> bedeutet, deine Daten liegen sicher in der Cloud.</p></div>
     </div>
   </div>
@@ -1399,6 +1447,8 @@ function load(){
   if(!s.bodyEx)s.bodyEx=[];
   if(!s.bodyNotEx)s.bodyNotEx=[];
   if(!s.goal)s.goal="halten";
+  if(!Array.isArray(s.weights))s.weights=[];
+  if(!Array.isArray(s._delW))s._delW=[];
   allDays(s).forEach(d=>{
     if(!s.custom[d])s.custom[d]=[];
     if(!s.hidden[d])s.hidden[d]=[];
@@ -2667,7 +2717,7 @@ function renderHist(){const v=document.getElementById("viewHist");
   v.innerHTML=h+`<button class="wipe" onclick="wipe()">Alle Daten löschen</button>`}
 function wipe(){
   if(!confirm("Alle Einheiten und eigenen Übungen löschen? Das lässt sich nicht rückgängig machen."))return;
-  const keep=["accentA","accentB","accentRad","accentL","accentK","font","mapStyle","bike","kursType","hiddenCats","extras","dark","theme","bodyweight","bodyEx","bodyNotEx","goal"];
+  const keep=["accentA","accentB","accentRad","accentL","accentK","font","mapStyle","bike","kursType","hiddenCats","extras","dark","theme","bodyweight","bodyEx","bodyNotEx","goal","goalKg","weights","_delW"];
   const preserved={};
   keep.forEach(k=>{if(store[k]!==undefined)preserved[k]=store[k]});
   const graves=[...(store._delSess||[]),...store.sessions.map(x=>x.ts)].filter(t=>typeof t==="number").slice(-500);
@@ -3959,7 +4009,12 @@ function paintPrefs(){
   paintSyncInfo();
   const fc=document.getElementById("fontCur");if(fc)fc.textContent=fontById(store.font).name;
   const w=document.getElementById("prefWeight");
-  if(w)w.value=store.bodyweight!=null?store.bodyweight:"";
+  if(w)w.value=store.bodyweight!=null?fmtKg(store.bodyweight):"";
+  const gk=document.getElementById("prefGoalKg");
+  if(gk)gk.value=store.goalKg!=null?fmtKg(store.goalKg):"";
+  const wc=document.getElementById("weightCur");
+  if(wc){const l=lastWeight(),n=weights().length;
+    wc.textContent=l?`${n} ${n===1?"Wägung":"Wägungen"} · zuletzt ${fD(l.ts)}`:"Noch keine Wägung"}
   paintGoal();
   const hidden=store.hiddenCats||[];
   CAT_LIST.forEach(c=>{
@@ -3980,12 +4035,17 @@ function paintPrefs(){
   if(kn)kn.textContent=kursTypeName();
 }
 function setBodyweight(v){
-  const n=parseFloat(String(v).replace(",","."));
-  store.bodyweight=isFinite(n)&&n>0?Math.round(n*10)/10:null;
-  if(store.bodyweight==null){const el=document.getElementById("prefWeight");if(el)el.value=""}
-  save();
-  const txt=store.bodyweight!=null?store.bodyweight+" kg":"nicht gesetzt";
-  toast("Profil",`Körpergewicht: ${txt}`)}
+  const n=parseKg(v);
+  if(n==null){
+    store.bodyweight=null;
+    const el=document.getElementById("prefWeight");if(el)el.value="";
+    save();
+    toast("Profil","Körpergewicht: nicht gesetzt");
+    return;
+  }
+  addWeight(n);
+  paintPrefs();
+  toast("Profil",`Körpergewicht: ${fmtKg(n)} kg`)}
 const GOAL_NAME={zunahme:"Muskeln aufbauen",halten:"Gewicht halten",abnahme:"Gewicht verlieren"};
 function goalName(v){return GOAL_NAME[v]||GOAL_NAME.halten}
 function paintGoal(){
@@ -3998,6 +4058,144 @@ function setGoal(v){
   save();
   paintGoal();
   toast("Ziel",goalName(v))}
+function setGoalKg(v){
+  store.goalKg=parseKg(v);
+  if(store.goalKg==null){const el=document.getElementById("prefGoalKg");if(el)el.value=""}
+  save();
+  const txt=store.goalKg!=null?fmtKg(store.goalKg)+" kg":"nicht gesetzt";
+  toast("Zielgewicht",txt)}
+
+/* ── Koerpergewicht: Waegungen ──
+   Jede Waegung traegt ihr eigenes ts und wird wie eine Einheit vereinigt
+   (mergeStores). Geloescht wird mit Grabstein in _delW, sonst holt der Merge
+   sie vom anderen Geraet zurueck. store.bodyweight bleibt der aktuelle Wert
+   und speist weiterhin den Vorschlag bei Koerpergewichts-Uebungen. */
+function parseKg(v){
+  const n=parseFloat(String(v).replace(",","."));
+  return isFinite(n)&&n>0?Math.round(n*10)/10:null;
+}
+const fWD=t=>new Date(t).toLocaleDateString("de-DE",{weekday:"short",day:"2-digit",month:"short",year:"2-digit"});
+const fmtKg=n=>(Math.round(n*10)/10).toLocaleString("de-DE",{maximumFractionDigits:1});
+const fmtDelta=n=>(n>0?"+":n<0?"−":"±")+fmtKg(Math.abs(n));
+function weights(){return (store.weights||[]).slice().sort((a,b)=>a.ts-b.ts)}
+function lastWeight(){const w=weights();return w.length?w[w.length-1]:null}
+const sameDay=(a,b)=>{const x=new Date(a),y=new Date(b);
+  return x.getFullYear()===y.getFullYear()&&x.getMonth()===y.getMonth()&&x.getDate()===y.getDate()};
+function syncBodyweight(){const l=lastWeight();if(l)store.bodyweight=l.kg}
+function addWeight(kg,when){
+  const n=parseKg(kg);
+  if(n==null)return false;
+  const ts=when||Date.now();
+  if(!Array.isArray(store.weights))store.weights=[];
+  // Eine Waegung pro Tag: die zweite am selben Tag korrigiert die erste,
+  // damit ein Tippfehler keinen zweiten Punkt in die Kurve setzt.
+  const same=store.weights.find(w=>w&&sameDay(w.ts,ts));
+  if(same)same.kg=n;else store.weights.push({ts,kg:n});
+  syncBodyweight();
+  save();
+  return true;
+}
+function tombstoneW(ts){
+  if(typeof ts!=="number")return;
+  if(!store._delW)store._delW=[];
+  if(!store._delW.includes(ts))store._delW.push(ts);
+  if(store._delW.length>500)store._delW=store._delW.slice(-500);
+}
+function delWeight(ts){
+  if(!confirm("Diese Wägung löschen?"))return;
+  tombstoneW(ts);
+  store.weights=(store.weights||[]).filter(w=>w.ts!==ts);
+  syncBodyweight();
+  save();paintPrefs();renderWeight();
+  toast("Wägung gelöscht",weights().length?"Kurve neu gezeichnet":"Keine Einträge mehr");
+}
+function openWeight(){document.getElementById("weightOverlay").classList.add("open");renderWeight()}
+function closeWeight(){document.getElementById("weightOverlay").classList.remove("open");paintPrefs()}
+function weightSubmit(){
+  const el=document.getElementById("wIn");
+  if(!addWeight(el.value)){toast("Keine Zahl","Trag dein Gewicht in kg ein");return}
+  el.value="";el.blur();
+  paintPrefs();renderWeight();
+  toast("Eingetragen",fmtKg(lastWeight().kg)+" kg");
+}
+function weightGoalLine(){
+  // Bei "Halten" ist das Ziel ein Korridor, kein Punkt, auf den man zulaeuft.
+  const g=store.goalKg;
+  if(g==null)return null;
+  const band=store.goal==="halten"?1:0;
+  return {kg:g,lo:g-band,hi:g+band,band:band>0};
+}
+function renderWeight(){
+  const box=document.getElementById("weightBody");
+  if(!box)return;
+  const w=weights(),g=weightGoalLine(),last=w.length?w[w.length-1]:null;
+  const cur=last?last.kg:(store.bodyweight!=null?store.bodyweight:null);
+  let right="";
+  if(g&&cur!=null){
+    const d=g.kg-cur,txt=Math.abs(d)<0.05?"erreicht":"noch "+fmtDelta(d);
+    right=`<div class="pr"><b>${fmtKg(g.kg)} kg</b><span>Ziel · ${txt}</span></div>`;
+  }else if(w.length>1){
+    right=`<div class="pr"><b>${fmtDelta(w[w.length-1].kg-w[0].kg)} kg</b><span>seit ${fD(w[0].ts)}</span></div>`;
+  }
+  // Ohne jeden Wert saehe der Ausleser nur nach Strichen aus — dann traegt
+  // der Satz darueber die Ansage.
+  const head=cur==null
+    ?`<p class="w-first">Noch kein Gewicht hinterlegt. Trag deine erste Wägung ein — ab der zweiten entsteht die Kurve.</p>`
+    :`<div class="readout">
+    <div class="cur"><b>${fmtKg(cur)}</b><span class="u">kg</span><span>Aktuell</span></div>
+    ${right}</div>`;
+  const form=`<div class="w-form">
+      <label class="w-field"><span>Heute wiegen</span>
+        <input id="wIn" type="text" inputmode="decimal" placeholder="${cur!=null?fmtKg(cur):"–"}"></label>
+      <button class="w-add" onclick="weightSubmit()">Eintragen</button>
+    </div>`;
+  const hint=store.goalKg==null
+    ?`<p class="w-hint">Trag in den Einstellungen unter „Zielgewicht“ deine Wunschzahl ein — dann zeichnet die Kurve eine Ziellinie.</p>`:"";
+  box.innerHTML=head+form+hint+weightChart(w,g)+weightList(w);
+}
+function weightChart(w,g){
+  if(!w.length)return "";
+  if(w.length<2)return `<div class="chartbox"><div class="chart-empty">Ab der zweiten Wägung entsteht die Kurve.</div></div>`;
+  const W=300,H=210,p=14;
+  const xs=w.map(a=>a.ts),ys=w.map(a=>a.kg);
+  let y0=Math.min(...ys),y1=Math.max(...ys);
+  if(g){y0=Math.min(y0,g.lo);y1=Math.max(y1,g.hi)}
+  if(y1-y0<1){const mid=(y0+y1)/2;y0=mid-.5;y1=mid+.5}
+  const airy=(y1-y0)*.12;y0-=airy;y1+=airy;
+  const x0=Math.min(...xs),x1=Math.max(...xs);
+  const sx=t=>p+((t-x0)/((x1-x0)||1))*(W-2*p), sy=k=>H-p-((k-y0)/((y1-y0)||1))*(H-2*p);
+  const line=w.map((a,i)=>(i?"L":"M")+sx(a.ts).toFixed(1)+" "+sy(a.kg).toFixed(1)).join(" ");
+  const area=`M${sx(x0).toFixed(1)} ${H-p} `+w.map(a=>`L${sx(a.ts).toFixed(1)} ${sy(a.kg).toFixed(1)}`).join(" ")+` L${sx(x1).toFixed(1)} ${H-p} Z`;
+  const dots=w.map(a=>`<div class="spark-dot on" style="left:${(sx(a.ts)/W*100).toFixed(2)}%;top:${(sy(a.kg)/H*100).toFixed(2)}%"></div>`).join("");
+  const goal=g?`<div class="w-goalband" style="top:${(sy(g.hi)/H*100).toFixed(2)}%;height:${((sy(g.lo)-sy(g.hi))/H*100).toFixed(2)}%"></div>
+    <div class="w-goalline" style="top:${(sy(g.kg)/H*100).toFixed(2)}%"></div>
+    <div class="w-goaltag" style="top:${(sy(g.kg)/H*100).toFixed(2)}%">Ziel ${fmtKg(g.kg)}</div>`:"";
+  return `<div class="chartbox"><div class="chartcol">
+    <div class="spark-stage w-stage">
+    ${goal}
+    <div class="spark-base"></div>
+    <svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
+      <defs><linearGradient id="wag" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="var(--green-dark)" stop-opacity=".18"/><stop offset="1" stop-color="var(--green)" stop-opacity="0"/>
+      </linearGradient></defs>
+      <path d="${area}" fill="url(#wag)"/>
+      <path d="${line}" fill="none" stroke="var(--green-dark)" stroke-width="2.8" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    ${dots}
+    </div>
+    <div class="axis"><span>${fD(x0)}</span><span>${w.length} Wägungen</span><span>${fD(x1)}</span></div>
+  </div></div>`;
+}
+function weightList(w){
+  if(!w.length)return "";
+  return `<div class="w-list">`+[...w].reverse().map((a,i,arr)=>{
+    const prev=arr[i+1];
+    const d=prev?`<span class="w-d">${fmtDelta(a.kg-prev.kg)}</span>`:"";
+    return `<div class="w-row"><span class="w-date">${fWD(a.ts)}</span>${d}
+      <span class="w-kg">${fmtKg(a.kg)} kg</span>
+      <button class="w-del" onclick="delWeight(${a.ts})" aria-label="Wägung löschen">×</button></div>`;
+  }).join("")+`</div>`;
+}
 function paintSyncInfo(){
   const el=document.getElementById("prefSync");
   if(!el)return;
@@ -4147,6 +4345,18 @@ function mergeStores(a,b){
   });
   out.sessions=[...byTs.values()].sort((x,y)=>x.ts-y.ts);
   out._delSess=[...graves].slice(-500);
+  /* Waegungen tragen wie Einheiten ihr eigenes ts und werden vereinigt statt
+     ersetzt — sonst verliert das Geraet, das zuletzt hochlaedt, die fremden. */
+  const wGraves=new Set([...(a._delW||[]),...(b._delW||[])]);
+  const wByTs=new Map();
+  [...(a.weights||[]),...(b.weights||[])].forEach(x=>{
+    if(!x||typeof x.ts!=="number"||wGraves.has(x.ts))return;
+    wByTs.set(x.ts,x);
+  });
+  out.weights=[...wByTs.values()].sort((x,y)=>x.ts-y.ts);
+  out._delW=[...wGraves].slice(-500);
+  const lastW=out.weights[out.weights.length-1];
+  if(lastW)out.bodyweight=lastW.kg;
   return out;
 }
 
