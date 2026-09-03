@@ -157,8 +157,9 @@ Artifact-Link in der Sitzung). Entschieden ist:
 - **`background-clip:text` malt nur bis zur Kastenkante.** Ober- und Unterlängen
   fallen weg, wenn die Zeilenhöhe knapp ist — und wie viel fehlt, hängt an der
   gewählten Schrift. Deshalb trägt den Verlauf nie das Textelement selbst, sondern
-  ein inneres `<span class="gtxt">` mit `padding:.45em 0;margin:-.45em 0` (Reserve
-  für jede Schrift, Platz durch den negativen Rand zurückgegeben) und
+  ein inneres `<span class="gtxt">` mit `padding:.42em .16em;margin:-.42em -.16em`
+  (Reserve für jede Schrift — seitlich, weil A, X und W über ihre Vorschubbreite
+  ragen; Platz durch den negativen Rand zurückgegeben) und
   `pointer-events:none`, damit der größere Malkasten keine Tipps abfängt. Text
   dorthin setzen mit `setDisplayText(el,txt)`, nicht mit `textContent`.
   **In Safari muss zusätzlich `-webkit-text-fill-color:transparent` stehen** —

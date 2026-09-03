@@ -241,7 +241,7 @@
   /* Safari malt den Verlauf nur dann durch die Buchstaben, wenn zusaetzlich die
      Fuellfarbe der Schrift durchsichtig ist. Mit color:transparent allein blieb
      bei einzelnen Zeichen die volle Flaeche stehen. */
-  .gtxt{display:inline-block;padding:.3em .16em;margin:-.3em -.16em;pointer-events:none;
+  .gtxt{display:inline-block;padding:.42em .16em;margin:-.42em -.16em;pointer-events:none;
     background-image:linear-gradient(150deg,color-mix(in srgb,var(--gc) 68%,#fff),var(--gc) 62%);
     background-size:100% 100%;background-repeat:no-repeat;
     -webkit-background-clip:text;background-clip:text;
@@ -3071,16 +3071,16 @@ SYSTEM_DUNKEL.addEventListener("change",()=>{if(themeWahl()==="system")applyDark
    Beschriftungen und Fliesstext. Die Dateien kommen erst beim Anwaehlen. */
 const FONTS=[
   {id:"fraunces",name:"Fraunces",note:"Standard",stack:"'Fraunces',Georgia,serif"},
-  {id:"inter",name:"Inter",note:"Wie der Fließtext",stack:"'Inter',system-ui,sans-serif"},
+  {id:"clash",name:"Clash Display",note:"Fontshare · kantig",stack:"'Clash Display',system-ui,sans-serif",fs:"clash-display@400,500,600"},
+  {id:"playfair",name:"Playfair Display",note:"Schnörkelig",stack:"'Playfair Display',Georgia,serif",g:"Playfair+Display:wght@400;500;600;700"},
   {id:"satoshi",name:"Satoshi",note:"Fontshare",stack:"'Satoshi',system-ui,sans-serif",fs:"satoshi@400,500,700"},
   {id:"grotesk",name:"Space Grotesk",note:"Technisch",stack:"'Space Grotesk',system-ui,sans-serif",g:"Space+Grotesk:wght@400;500;600"},
   {id:"geist",name:"Geist",note:"Nüchtern",stack:"'Geist',system-ui,sans-serif",g:"Geist:wght@400;500;600"},
   {id:"jakarta",name:"Plus Jakarta Sans",note:"Rund",stack:"'Plus Jakarta Sans',system-ui,sans-serif",g:"Plus+Jakarta+Sans:wght@400;500;600"},
-  {id:"clash",name:"Clash Display",note:"Fontshare · kantig",stack:"'Clash Display',system-ui,sans-serif",fs:"clash-display@400,500,600"},
-  {id:"instrument",name:"Instrument Serif",note:"Schmale Serifen",stack:"'Instrument Serif',Georgia,serif",g:"Instrument+Serif"},
+  {id:"anton",name:"Anton",note:"Fett und schmal",stack:"'Anton',Impact,system-ui,sans-serif",g:"Anton"},
   {id:"syne",name:"Syne",note:"Breit",stack:"'Syne',system-ui,sans-serif",g:"Syne:wght@400;500;600;700"},
   {id:"cabinet",name:"Cabinet Grotesk",note:"Fontshare · kompakt",stack:"'Cabinet Grotesk',system-ui,sans-serif",fs:"cabinet-grotesk@400,500,700"},
-  {id:"outfit",name:"Outfit",note:"Geometrisch",stack:"'Outfit',system-ui,sans-serif",g:"Outfit:wght@400;500;600"}
+  {id:"archivo",name:"Archivo Black",note:"Fett und breit",stack:"'Archivo Black',system-ui,sans-serif",g:"Archivo+Black"}
 ];
 function setDisplayText(el,txt){
   el.textContent="";
