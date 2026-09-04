@@ -1,6 +1,6 @@
 {
  "name": "Wissen",
- "updated": "2026-09-04T07:59:41+00:00",
+ "updated": "2026-09-04T13:32:52+00:00",
  "items": [
   {
    "t": "Ig-Nobelpreise: Unterhosen verbuddeln für die Wissenschaft",
@@ -45,13 +45,6 @@
    "d": "2026-09-02T08:29:40+00:00"
   },
   {
-   "t": "Wie schwer sich Künstliche Intelligenz noch mit Dialekten tut",
-   "s": "An so manchen Dingen scheitert Künstliche Intelligenz bislang. Wenn Dialektsprecher mit Spracherkennungs-KI interagieren, kommt es oft zu kuriosen Missverständnissen. Ein Forschungsprojekt in Bayern will das ändern. Von Hermann Scholz.",
-   "u": "https://www.tagesschau.de/wissen/forschung/kuenstliche-intelligenz-dialekt-bayrisch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T09:41:48+00:00"
-  },
-  {
    "t": "Neue US-Studie: Verursachen Abnehmspritzen Haarausfall?",
    "s": "Viele Diabetes-Medikamente werden auch bei starkem Übergewicht eingesetzt. Eine US-Studie zeigt nun: Bei GLP-1-Mitteln ist das Risiko für Haarausfall höher als bei anderen Medikamenten. Von Doris Tromballa.",
    "u": "https://www.tagesschau.de/wissen/wissen-abnehmspritze-glp1-haarausfall-100.html",
@@ -78,6 +71,13 @@
    "u": "https://www.tagesschau.de/wissen/korallenriffe-zustand-100.html",
    "q": "Tagesschau",
    "d": "2026-08-31T08:11:46+00:00"
+  },
+  {
+   "t": "Neues Weltraumteleskop ins All gestartet",
+   "s": "\"Hubble\" und \"James Webb\" sind bereits Legenden unter den Weltraumteleskopen. Nun ist ein weiteres \"Auge der Menschheit\" ins All gestartet - mit einzigartigen Fähigkeiten. Von U. Gradwohl und L. Boucheligua.",
+   "u": "https://www.tagesschau.de/wissen/nancy-grace-roman-weltraum-teleskop-100.html",
+   "q": "Tagesschau",
+   "d": "2026-08-30T14:45:42+00:00"
   },
   {
    "t": "Hype um Koffein-Shampoos - ist der Trend berechtigt?",

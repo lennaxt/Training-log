@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-04T07:59:43+00:00",
+ "updated": "2026-09-04T13:32:53+00:00",
  "items": [
+  {
+   "t": "EU-Rechnungsprüfer warnen: Trotz hoher Verteidigungsausgaben schlecht gerüstet",
+   "s": "Der Europäische Rechnungshof kritisiert die Ausgabenpolitik bei der Rüstung. Es geht um Schulden – und Druck auf das EU-Budget.",
+   "u": "https://taz.de/EU-Rechnungspruefer-warnen/!6210381/",
+   "q": "taz",
+   "d": "2026-09-04T13:05:00+00:00"
+  },
+  {
+   "t": "Eine Party für Meloni: Postfaschismus stabil",
+   "s": "Die italienische Ministerpräsidentin ist länger im Amt als jeder ihrer Vorgänger nach dem Zweiten Weltkrieg. Ihr Geschenk: neue Pläne zur Wahlrechtsreform.",
+   "u": "https://taz.de/Eine-Party-fuer-Meloni/!6210293/",
+   "q": "taz",
+   "d": "2026-09-04T11:58:00+00:00"
+  },
   {
    "t": "Vorstoß der Österreichischen Volkspartei: Der Islam als Ablenkungsmanöver",
    "s": "Verwaltung, Bildung oder Gesundheit – die Regierung Österreichs steht in der Kritik. Jetzt versucht sich die ÖVP mit einem neuen Feindbild: dem Islam.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6209028/",
    "q": "taz",
    "d": "2026-09-01T06:05:00+00:00"
-  },
-  {
-   "t": "Russische Schattenflotte: An Rechtsmitteln fehlt es nicht",
-   "s": "Greenpeace fordert, das internationale Recht gegen die russische Schattenflotte stärker durchzusetzen. So würden auch Umweltgefahren sinken.",
-   "u": "https://taz.de/Russische-Schattenflotte/!6208738/",
-   "q": "taz",
-   "d": "2026-09-01T05:18:00+00:00"
-  },
-  {
-   "t": "Russische Angriffe auf Kyjiw: Chaos, leere Regale und viel Wut",
-   "s": "Russland fliegt derzeit mehr Luftangriffe auf die ukrainische Hauptstadt. Angegriffen werden nun auch Lagerhallen, Supermärkte und Tankstellen.",
-   "u": "https://taz.de/Russische-Angriffe-auf-Kyjiw/!6208783/",
-   "q": "taz",
-   "d": "2026-08-31T17:47:00+00:00"
   }
  ]
 }

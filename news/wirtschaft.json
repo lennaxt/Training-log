@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-04T07:59:41+00:00",
+ "updated": "2026-09-04T13:32:51+00:00",
  "items": [
+  {
+   "t": "Das sind die Punkte des VW-Sparplans",
+   "s": "Abbau von Zehntausenden Stellen, vier Werke auf der Kippe - und das ist noch nicht alles. VW hat ein gigantisches Sparprogramm auf den Weg gebracht. Was der Konzern plant - und was Experten dazu sagen. Ein Überblick.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplan-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T11:57:57+00:00"
+  },
+  {
+   "t": "Weltweite Lebensmittelpreise steigen auf höchsten Stand seit 2022",
+   "s": "Weltweit steigen die Lebensmittelpreise immer weiter. Das liegt unter anderem an Extremwetter, etwa der Dürre in Europa. Aber auch militärische Konflikte wie der Krieg im Nahen Osten verteuern Nahrungsmittel.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/un-lebensmittelpreise-anstieg-weltweit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T11:41:13+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX steckt bei 26.000 Punkten fest",
+   "s": "Vor wichtigen Daten vom US-Arbeitsmarkt scheuen die Anleger das Risiko. Der DAX tritt im frühen Handel auf der Stelle. Im Blickpunkt steht Volkswagen - der Börse gefallen die Sanierungspläne gut.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-leitzins-geldanlage-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T08:34:11+00:00"
+  },
+  {
+   "t": "Auch nach Sanierung: Massive Verspätungen auf Bahnstrecke Hamburg-Berlin",
+   "s": "Zehn Monate lang wurde die Bahnstrecke zwischen Berlin und Hamburg umfassend saniert. Doch auch nach der Wiedereröffnung läuft der Verkehr alles andere als reibungslos. Von Jacqueline Piwon.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-generalsanierung-hamburg-berlin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T08:09:07+00:00"
+  },
+  {
+   "t": "Sind Roboter wirklich die Zukunft?",
+   "s": "Die Technikmesse IFA zeigt, was humanoide Roboter heute schon können - und wo noch Grenzen liegen. Ihr Potenzial ist weitgehend unstrittig. Doch wie schnell erobern die Maschinen den Alltag? Von Jörg Poppendiek.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/robotik-ifa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T08:07:38+00:00"
+  },
   {
    "t": "Warnstreik im Hamburger Hafen: Auswirkungen auf Schiffsabfertigungen",
    "s": "Die Gewerkschaft ver.di hat Beschäftigte in Hamburg und Niedersachsen aufgerufen, für 48 Stunden ihre Arbeit niederzulegen. In der Nacht zum Donnerstag ging es los.",
@@ -17,20 +52,6 @@
    "d": "2026-09-04T06:53:50+00:00"
   },
   {
-   "t": "Sachsen-Anhalt vor der Wahl: Das Land hinter den Zahlen",
-   "s": "Sachsen-Anhalt steht vor Problemen, die viele Regionen Deutschlands kennen: Die Bevölkerung altert, Fachkräfte fehlen, die Wirtschaft muss sich neu erfinden. Zugleich gibt es Entwicklungen, die Hoffnung machen. Ein Blick auf Zahlen und Daten vor der Wahl.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-wahl-demografie-wirtschaft-106.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T06:30:00+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX fester vor US-Arbeitsmarktdaten",
-   "s": "Kann sich der DAX über 26.000 Punkten halten? Die Hoffnung auf eine Zinspause in den USA hat die Wall Street gestern angetrieben. Aber heute steht mit den US-Arbeitsmarktdaten der nächste wichtige Termin an.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-leitzins-geldanlage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T05:36:30+00:00"
-  },
-  {
    "t": "Technikmesse IFA startet in Berlin - China im Fokus",
    "s": "Was einmal als Schaufenster deutscher Technik begann, ist heute Bühne für eine globale Industrie. Wer durch die IFA-Technikmesse geht, merkt schnell, dass sich die Gewichte verschoben haben: Die meisten Aussteller kommen aus China.",
    "u": "https://www.tagesschau.de/inland/regional/berlin/technikmesse-ifa-100.html",
@@ -43,13 +64,6 @@
    "u": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-september-automobilindustrie-102.html",
    "q": "Tagesschau",
    "d": "2026-09-04T04:57:44+00:00"
-  },
-  {
-   "t": "Das sind die Punkte des VW-Sparplans",
-   "s": "Abbau von Zehntausenden Stellen, vier Werke auf der Kippe - und das ist noch nicht alles. VW hat ein gigantisches Sparprogramm auf den Weg gebracht. Was der Konzern plant - und was Experten dazu sagen. Ein Überblick.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplan-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T03:08:21+00:00"
   },
   {
    "t": "Wirtschaft vor acht vom 03.09.2026",
@@ -155,20 +169,6 @@
    "u": "https://www.deutschlandfunk.de/spritpreise-irankrieg-profit-uebergewinnsteuer-oelkonzerne-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-08-25T08:55:00+00:00"
-  },
-  {
-   "t": "Viertagewoche in Island - Kürzer arbeiten, gleich verdienen",
-   "s": "Vier Tage arbeiten und trotzdem volles Gehalt: Für viele Beschäftigte in Island ist das längst Realität. Das Modell bringt mehr Freizeit, sorgt aber auch für Kritik von Arbeitgebern und teilweise für Einschränkungen bei öffentlichen Angeboten.",
-   "u": "https://www.deutschlandfunk.de/island-viertagewoche-arbeitszeit-verkuerzung-work-life-balance-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-21T07:58:00+00:00"
-  },
-  {
-   "t": "Griechenlands Sechstagewoche - Länger arbeiten, weniger verdienen",
-   "s": "Vor zwei Jahren hat Griechenland die Sechstagewoche eingeführt, inzwischen sind auch 13-Stunden-Tage möglich. Die Wirtschaft wächst, die Arbeitslosigkeit sinkt. Bei den Beschäftigten kommt davon wenig an.",
-   "u": "https://www.deutschlandfunk.de/griechenland-sechstagewoche-arbeitszeit-loehne-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-21T07:57:00+00:00"
   }
  ]
 }
