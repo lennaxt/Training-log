@@ -704,10 +704,12 @@
   .pref-section{margin-bottom:36px}
   #prefsOverlay .pref-section{margin-bottom:66px}
   .pref-h1{margin-top:14px}
-  /* Kurzer Strich wie beim Kicker: markiert die beiden Oberthemen. */
-  .head-rule::after{content:"";display:block;width:34px;height:2px;margin-top:13px;background:var(--ink-mute)}
-  /* Beide Oberthemen sollen ihren Untertitel gleich nah tragen. */
-  #prefsOverlay .plan-top{margin-bottom:16px}
+  /* Durchgezogener Strich dicht unter dem Wort: markiert die Oberthemen.
+     Bei "Profil" traegt ihn die Kopfzeile, weil die Ueberschrift dort neben
+     dem Schliessen-Knopf steht und selbst nur so breit wie das Wort ist. */
+  .head-rule{padding-bottom:9px;border-bottom:1px solid var(--line)}
+  #prefsOverlay .plan-top{margin-bottom:16px;padding-bottom:9px;border-bottom:1px solid var(--line)}
+  #prefsOverlay .plan-top .head-rule{padding-bottom:0;border-bottom:0}
   #profileOverlay{z-index:930}
   #profileOverlay .pref-section{margin-bottom:66px}
   #profileOverlay .pref-cur{min-width:0;overflow:hidden;text-overflow:ellipsis;font-family:'Inter',sans-serif}
