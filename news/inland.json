@@ -1,7 +1,133 @@
 {
  "name": "Inland",
- "updated": "2026-09-04T13:32:50+00:00",
+ "updated": "2026-09-04T18:25:10+00:00",
  "items": [
+  {
+   "t": "Sabotage an Umspannwerken - Polizei fahndet nach Verdächtigem aus NRW",
+   "s": "Nach der Sabotage an Umspannwerken in Nordrhein-Westfalen und Brandenburg fahndet die Polizei nach einem Verdächtigen. Der Mann hatte Bekennerschreiben verfasst. Ob er aber auch der Täter ist, ist noch offen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/sabotageversuche-dobrindt-reul-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T18:14:17+00:00"
+  },
+  {
+   "t": "Szenario einer AfD-Regierung: Wer will noch Rich­te­r:in in Sachsen-Anhalt werden?",
+   "s": "Wenn die AfD in Sachsen-Anhalt regiert, wollen viele angehende Ju­ris­t:in­nen dort nicht arbeiten, zeigt eine Umfrage. Dabei braucht die Justiz dringend Nachwuchs.",
+   "u": "https://taz.de/Wenn-die-AfD-an-die-Macht-kommt-Wer-will-dann-noch-Richterin-in-Sachsen-Anhalt-werden/!6209546/",
+   "q": "taz",
+   "d": "2026-09-04T17:51:00+00:00"
+  },
+  {
+   "t": "Ebola in DR Kongo: Hoffnung auf Eindämmung",
+   "s": "Im Epizentrum in der Demokratischen Republik Kongo wurden keine neuen Ansteckungen mehr verzeichnet, doch noch ist die Gefahr nicht gebannt.",
+   "u": "https://taz.de/Ebola-in-DR-Kongo/!6210368/",
+   "q": "taz",
+   "d": "2026-09-04T17:43:00+00:00"
+  },
+  {
+   "t": "Return Hubs in der EU: Dänemark will in „Partnerländer“ abschieben",
+   "s": "Die Härte der EU-Asylpolitik nimmt Formen an. Dänemark will schon 2027 abgelehnte Asyl­be­wer­be­r:in­nen in Abschiebezentren außerhalb der EU bringen.",
+   "u": "https://taz.de/Return-Hubs-in-der-EU/!6210468/",
+   "q": "taz",
+   "d": "2026-09-04T17:37:00+00:00"
+  },
+  {
+   "t": "Wie kann die kritische Infrastruktur besser geschützt werden?",
+   "s": "Die jüngsten Ereignisse haben gezeigt, wie anfällig kritische Infrastruktur in Deutschland ist. Stromnetze, Flughäfen und Wasserwerke müssen besser geschützt werden. Wie ist das möglich? Von Theo Steinbach.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/schutz-kritische-infrastruktur-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T16:59:41+00:00"
+  },
+  {
+   "t": "Wie geht es im Thüringer Landtag nun weiter?",
+   "s": "Der Dauerstreit des Thüringer BSW mit Parteigründerin Wagenknecht ist eskaliert, die Mehrheit der Landtagsabgeordneten verlässt die Partei. Welche Optionen hat die Fraktion nun? Und was bedeutet das für die Regierungskoalition?",
+   "u": "https://www.tagesschau.de/inland/thueringen-wie-geht-es-weiter-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T16:46:03+00:00"
+  },
+  {
+   "t": "Russische Attacken auf Kyjiw: Drohne trifft Zentrale des Geheimdienstes",
+   "s": "Während Kyjiw auf eine US-Delegation wartet, schickt Russland Drohnen. Eine traf ein strategisch wichtiges Ziel: die Zentrale des Geheimdienstes SBU.",
+   "u": "https://taz.de/Russische-Attacken-auf-Kyjiw/!6210454/",
+   "q": "taz",
+   "d": "2026-09-04T16:43:00+00:00"
+  },
+  {
+   "t": "Angriffe auf Umspannwerke: Polizei findet Truck von Verdächtigen am Hambacher Forst",
+   "s": "Die Polizei fahndet nach dem Gevelsberger Daniel V. Sein LKW wird am Hambacher Forst entdeckt. Er hatte ein Bekennerschreiben an die taz geschickt.",
+   "u": "https://taz.de/Polizei-findet-Truck-des-Verdaechtigen-am-Hambacher-Forst/!6210358/",
+   "q": "taz",
+   "d": "2026-09-04T16:34:00+00:00"
+  },
+  {
+   "t": "Sabotage an Strom und Schienen - Wie resilient ist Deutschlands kritische Infrastruktur?",
+   "s": "Drohnen, Brandanschläge, gekappte Kabel: Deutschlands kritische Infrastruktur steht unter Druck. Wie steht es nach jüngsten Angriffen um den Schutz von Energie- und Verkehrsnetzen? Und was leistet das neue KRITIS-Dachgesetz wirklich?",
+   "u": "https://www.deutschlandfunk.de/energieversorgung-verkehrsnetze-anschlaege-kritische-infrastruktur-kritis-dachgesetz-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-04T15:43:00+00:00"
+  },
+  {
+   "t": "Palästinensische Terrororganisation PFLP: Mehrere Kilo Sprengstoff, mit Nägeln gespickt",
+   "s": "Nach seinem Auftritt bei der Linken in Berlin-Neukölln beteuert Dahabflex, nie zu Gewalt aufgerufen zu haben. Doch was heißt „Intifada wie die PFLP“?",
+   "u": "https://taz.de/Palaestinensische-Terrororganisation-PFLP/!6206519/",
+   "q": "taz",
+   "d": "2026-09-04T14:58:00+00:00"
+  },
+  {
+   "t": "Die ökologischen Folgen des Irankriegs im Persischen Golf",
+   "s": "Der Krieg zwischen den USA und dem Iran hinterlässt zunehmend auch ökologische Spuren. Satellitenbilder zeigen, dass sich Ölteppiche gebildet haben, die nicht nur die Küsten verschmutzten. Das Leben im Meer ist direkt betroffen.Röhrlich, Dagmar",
+   "u": "https://www.deutschlandfunk.de/irankrieg-oekologische-folgen-im-persischen-golf-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-04T14:50:13+00:00"
+  },
+  {
+   "t": "Leichnam von Mladić in Serbien: Nächster Schritt zum Staatsbegräbnis",
+   "s": "Der Leichnam des „Schlächters vom Balkan“, Mladić, ist jetzt in Serbien. International gibt es scharfe Kritik an der Verherrlichung seiner Kriegsverbrechen.",
+   "u": "https://taz.de/Leichnam-von-Mladic-in-Serbien/!6210387/",
+   "q": "taz",
+   "d": "2026-09-04T14:47:00+00:00"
+  },
+  {
+   "t": "Rechte Netzwerke: Die internationale Rechte trifft sich in Chile",
+   "s": "Beim Foro Madrid in Santiago beschwören die Rechten Kast, Milei und Co eine neue Ära – währenddessen bröckelt in Chile die Unterstützung für Kast.",
+   "u": "https://taz.de/Rechte-Netzwerke/!6210430/",
+   "q": "taz",
+   "d": "2026-09-04T14:39:00+00:00"
+  },
+  {
+   "t": "Spendenskandal bei Reform UK: Meinungsumfragen, die ihr Geld wert sind",
+   "s": "Spitzenpolitiker der rechtspopulistischen Partei Reform UK stehen durch eine Spendenaffäre unter Druck. Farage und Co sind sich keiner Schuld bewusst.",
+   "u": "https://taz.de/Spendenskandal-bei-Reform-UK/!6210372/",
+   "q": "taz",
+   "d": "2026-09-04T14:35:00+00:00"
+  },
+  {
+   "t": "Hendrik Wüst auf Sommertour: Reservekanzler auf Mondmission",
+   "s": "Hendrik Wüst gilt als möglicher Merz-Ersatz. Auf Sommertour zeigt sich der NRW-Ministerpräsident schon mal als Zukunftsmacher.",
+   "u": "https://taz.de/Reservekanzler-Hendrik-Wuest-Wie-inszeniert-er-sich-auf-seiner-Sommertour/!6210357/",
+   "q": "taz",
+   "d": "2026-09-04T14:24:00+00:00"
+  },
+  {
+   "t": "Bas fordert Erhalt der VW-Produktionsstätten in Deutschland",
+   "s": "Bundesarbeitsministerin Bas fordert vom Autobauer VW, die Werke in Neckarsulm, Hannover, Emden und Zwickau zu sichern. Die Bundesregierung hofft vage auf \"zukunftsfähige Lösungen\". Tausende Stellen bei VW könnten wegbrechen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/vw-sparmassnahmen-politische-reaktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T14:12:47+00:00"
+  },
+  {
+   "t": "Folgen der Bluttat von Stade: Niedersachsens Migrationsbeauftragter tritt zurück",
+   "s": "Deniz Kurku, Niedersachsens Migrationsbeauftragter, gibt auf. Gegen seine Schwiegermutter wird im Zusammenhang mit dem Sechsfach-Mord von Stade ermittelt.",
+   "u": "https://taz.de/Folgen-der-Bluttat-von-Stade/!6210404/",
+   "q": "taz",
+   "d": "2026-09-04T14:12:00+00:00"
+  },
+  {
+   "t": "Zivilgesellschaft in Sachsen-Anhalt: Sie bleiben mit am Tisch",
+   "s": "In Wittenberg feiert das Bündnis „Wittenberg Weltoffen“ wenige Tage vor der Landtagswahl die Demokratie. Sprecher Carsten Liebelt über sein Engagement.",
+   "u": "https://taz.de/Zivilgesellschaft-in-Sachsen-Anhalt/!6209310/",
+   "q": "taz",
+   "d": "2026-09-04T13:58:00+00:00"
+  },
   {
    "t": "Wie mit \"Durchstechereien\" Politik gemacht wird",
    "s": "Erst die Vereine, die Zuckersteuer, dann ein interner Brief: Durchgestochene Papiere sind ein altes Mittel der Politik - im \"Herbst der Reformen\" und bei knappen Mehrheitsverhältnissen aber ein Risiko. Von Sarah Beham und Chris Berdrow.",
@@ -43,132 +169,6 @@
    "u": "https://taz.de/KI-und-Demokratie/!6206568/",
    "q": "taz",
    "d": "2026-09-04T12:18:00+00:00"
-  },
-  {
-   "t": "Thüringen: Weitere Abgeordnete verlassen BSW",
-   "s": "In Thüringen verlassen weitere Abgeordnete das BSW, unter ihnen auch die Vize-Ministerpräsidentin Wolf. Das erklärten sie bei einer Pressekonferenz. Die BSW-Fraktion im Landtag soll aber bestehen bleiben - vorerst.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bsw-thueringen-abgeordnete-verlassen-fraktion-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T11:59:51+00:00"
-  },
-  {
-   "t": "Eine Party für Meloni: Postfaschismus stabil",
-   "s": "Die italienische Ministerpräsidentin ist länger im Amt als jeder ihrer Vorgänger nach dem Zweiten Weltkrieg. Ihr Geschenk: neue Pläne zur Wahlrechtsreform.",
-   "u": "https://taz.de/Eine-Party-fuer-Meloni/!6210293/",
-   "q": "taz",
-   "d": "2026-09-04T11:58:00+00:00"
-  },
-  {
-   "t": "Tatverdächtiger bekennt sich zu Anschlägen auf Stromversorgung",
-   "s": "Ein Mann aus Nordrhein-Westfalen hat sich zu den Anschlägen auf die Stromversorgung bekannt. Nach Informationen des ARD-Hauptstadtstudios hält die Polizei die Schreiben für authentisch. Nach dem Mann wird gefahndet. Von M. Götschenberg",
-   "u": "https://www.tagesschau.de/inland/bekennerschreiben-anschlaege-stromversorgung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T10:44:13+00:00"
-  },
-  {
-   "t": "Wohl Sabotageversuch in Dormagen - Vorfälle in Aachen und Ganderkesee",
-   "s": "In einem Umspannwerk bei Dormagen ist ein weiterer möglicher Sabotageversuch entdeckt worden. Auch bei Aachen und im niedersächsischen Ganderkesee rückte die Polizei aus.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/sabotage-stromnetz-dormagen-aachen-ganderkesee-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T10:17:15+00:00"
-  },
-  {
-   "t": "Nach BSW-Austritten in Thüringen: Wie geht es weiter für die Brombeer-Koalition?",
-   "s": "Neun weitere BSW-Abgeordnete in Thüringen verlassen die Partei – darunter auch die Finanzministerin. Der Ministerpräsident bedankt sich für die „Klarheit“.",
-   "u": "https://taz.de/BSW-in-Thueringen/!6210389/",
-   "q": "taz",
-   "d": "2026-09-04T09:30:00+00:00"
-  },
-  {
-   "t": "Landtagswahl in Sachsen-Anhalt: Letztes Festlegen der Machtoptionen",
-   "s": "Wer könnte in Sachsen-Anhalt mit wem regieren? AfD-Spitzenkandidat Siegmund will nur Ministerpräsident mit absoluter Mehrheit werden, die CDU schließt eine Koalition mit AfD oder der Linken aus, das BSW zeigt sich dagegen für die AfD offen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-spitzenkandidaten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T08:46:08+00:00"
-  },
-  {
-   "t": "Angriffe auf Umspannwerke: Polizei sucht Verdächtigen Daniel V.",
-   "s": "Nach dem Bekennerschreiben an die taz gehen die Angriffe auf Umspannwerke weiter – jetzt in Dormagen. Die Polizei fahndet nach einem Gevelsberger.",
-   "u": "https://taz.de/Wer-ist-der-Mann-der-Stromnetze-angreift/!6210358/",
-   "q": "taz",
-   "d": "2026-09-04T07:59:00+00:00"
-  },
-  {
-   "t": "Russlandpolitik - Angst vor der eigenen Courage",
-   "s": "Die Bundesregierung macht Russland für den gescheiterten Drohnenanschlag von Leipzig verantwortlich und zieht erste Konsequenzen. Manche fordern ein entschlosseneres Vorgehen. In Kiew nehmen währenddessen die russischen Luftangriffe zu.Wurzel, Steffen; Sittler, Friederike; Sawicki, Peter",
-   "u": "https://www.deutschlandfunk.de/russlandpolitik-angst-vor-der-eigenen-courage-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-04T07:00:00+00:00"
-  },
-  {
-   "t": "Sachsen-Anhalt vor der Wahl: Das Land hinter den Zahlen",
-   "s": "Sachsen-Anhalt steht vor Problemen, die viele Regionen Deutschlands kennen: Die Bevölkerung altert, Fachkräfte fehlen, die Wirtschaft muss sich neu erfinden. Zugleich gibt es Entwicklungen, die Hoffnung machen. Ein Blick auf Zahlen und Daten vor der Wahl.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-wahl-demografie-wirtschaft-106.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T06:30:00+00:00"
-  },
-  {
-   "t": "Vor der Landtagswahl: Sachsen-Anhalt und die Tücken der Umfragen",
-   "s": "In Sachsen-Anhalt lagen die Umfragen 2021 ungewöhnlich weit vom Wahlergebnis entfernt. Auch jetzt führt die AfD in Umfragen deutlich. Ein Blick auf die Faktoren, die am Sonntag noch alles verändern könnten. Von Jörg Schönenborn.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-umfragen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T06:29:37+00:00"
-  },
-  {
-   "t": "Zahl der Geflüchteten in Deutschland 2026 leicht gesunken",
-   "s": "Die Zahl der in Deutschland lebenden Geflüchteten ist leicht auf etwa 3,5 Millionen Menschen gesunken. Laut Bundesregierung liegt das an Abschiebungen, Ausreisen und Einbürgerungen, sowie weniger neuen Flüchtlingen aus der Ukraine.",
-   "u": "https://www.tagesschau.de/inland/zahl-gefluechtete-deutschland-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T05:39:40+00:00"
-  },
-  {
-   "t": "„Taktisch Wählen“ in Sachsen-Anhalt: Strategie gewinnt",
-   "s": "Die Fünfprozenthürde könnte entscheiden, ob die AfD regiert oder nicht. Eine Kampagne wirbt deshalb für kleine Parteien. Doch wer finanziert sie?",
-   "u": "https://taz.de/Kampagne-Taktisch-Waehlen-in-Sachsen-Anhalt-Wer-dahinter-steht-und-woher-die-Finanzierung-kommt/!6202527/",
-   "q": "taz",
-   "d": "2026-09-04T05:21:00+00:00"
-  },
-  {
-   "t": "ARD-DeutschlandTrend: Mehrheit will staatliche Hilfen für Autoindustrie",
-   "s": "Deutschlands Autoindustrie steckt in der Krise. Verantwortung dafür sehen die Menschen laut ARD-DeutschlandTrend bei den Herstellern selbst. Trotzdem sprechen sie sich dafür aus, der Branche zu helfen.",
-   "u": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-september-automobilindustrie-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T04:57:44+00:00"
-  },
-  {
-   "t": "Klimawandel - El Niño könnte so stark ausfallen wie nie zuvor",
-   "s": "Die Weltwetterorganisation warnt vor extremen Überschwemmungen und Dürren in den kommenden Monaten. Grund dafür ist das El-Niño-Phänomen. Wetterexperte Andreas Becker erklärt, warum die Auswirkungen ein noch nie dagewesenes Ausmaß erreichen könnten.Schulz, Sandra",
-   "u": "https://www.deutschlandfunk.de/extremwetter-durch-el-ni-o-erwartet-interview-mit-andreas-becker-dwd-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-04T04:50:00+00:00"
-  },
-  {
-   "t": "Sparpläne bei den Krankenkassen: Frauenärzte fürchten Folgen für Schwangere",
-   "s": "Ab 2027 ändert sich die Finanzierung der Schwangerschaftsvorsorge. Frauenärzte warnen vor Engpässen. Die Krankenkassen widersprechen. Von Jule Lampe.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/schwangeren-versorgung-gesundheitsreform-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T04:45:12+00:00"
-  },
-  {
-   "t": "Wahlkampf in Sachsen-Anhalt: Kanzler Merz auf Distanz",
-   "s": "Kurz vor der Landtagswahl besucht Friedrich Merz erneut Sachsen-Anhalt. Mit Ministerpräsident Schulze besichtigt er eine Raffinerie und warnt vor einer AfD-Regierung. Zu Wählern spricht er aber nicht. Von Philip Kuntschner.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-sachsen-anhalt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T03:08:38+00:00"
-  },
-  {
-   "t": "Nach dem CSD-Anschlag: Nicht alle wussten alles",
-   "s": "Fehlende Infos und unklare Regeln: Das Violence Prevention Network analysiert das CSD-Attentat und fordert Maßnahmen für bessere Prävention.",
-   "u": "https://taz.de/Nach-dem-CSD-Anschlag/!6209942/",
-   "q": "taz",
-   "d": "2026-09-03T18:13:00+00:00"
-  },
-  {
-   "t": "AfD-Kandidat in Sachsen-Anhalt: Heute Wahlkampf, früher Kampftraining mit Neonazis",
-   "s": "Ein Video zeigt den AfD-Kandidaten Sebastian Koch augenscheinlich beim Kampftraining mit Neonazis. Die Polizei ermittelt bereits zu einer verbotenen Gruppe.",
-   "u": "https://taz.de/AfD-Kandidat-in-Sachsen-Anhalt/!6209813/",
-   "q": "taz",
-   "d": "2026-09-03T18:12:00+00:00"
   }
  ]
 }

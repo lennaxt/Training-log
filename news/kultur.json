@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-04T13:32:54+00:00",
+ "updated": "2026-09-04T18:25:16+00:00",
  "items": [
+  {
+   "t": "Rechte Netzwerke: Die internationale Rechte trifft sich in Chile",
+   "s": "Beim Foro Madrid in Santiago beschwören die Rechten Kast, Milei und Co eine neue Ära – währenddessen bröckelt in Chile die Unterstützung für Kast.",
+   "u": "https://taz.de/Rechte-Netzwerke/!6210430/",
+   "q": "taz",
+   "d": "2026-09-04T14:39:00+00:00"
+  },
   {
    "t": "Super-El-Niño erwartet: Hochwasser und Hitze in Argentinien",
    "s": "In Argentinien ist aktuell Winter. Doch Meteorologen warnen bereits vor bevorstehendem Starkregen, Überschwemmungen und weiteren extremen Wetterereignissen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Erdbeben-in-Kolumbien/!6204023/",
    "q": "taz",
    "d": "2026-08-14T08:36:00+00:00"
-  },
-  {
-   "t": "Repression in Kuba: Die kubanische Stasi hat noch Ressourcen",
-   "s": "Strom, Wasser, Lebensmittelversorgung: In Kuba funktioniert kaum noch etwas. Doch inselweit koordinierte Proteste bleiben aus – auch wegen des gut geölten Repressionsapparats.",
-   "u": "https://taz.de/Repression-in-Kuba/!6202453/",
-   "q": "taz",
-   "d": "2026-08-13T15:54:00+00:00"
   }
  ]
 }

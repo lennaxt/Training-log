@@ -1,7 +1,35 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-04T13:32:53+00:00",
+ "updated": "2026-09-04T18:25:15+00:00",
  "items": [
+  {
+   "t": "Return Hubs in der EU: Dänemark will in „Partnerländer“ abschieben",
+   "s": "Die Härte der EU-Asylpolitik nimmt Formen an. Dänemark will schon 2027 abgelehnte Asyl­be­wer­be­r:in­nen in Abschiebezentren außerhalb der EU bringen.",
+   "u": "https://taz.de/Return-Hubs-in-der-EU/!6210468/",
+   "q": "taz",
+   "d": "2026-09-04T17:37:00+00:00"
+  },
+  {
+   "t": "Russische Attacken auf Kyjiw: Drohne trifft Zentrale des Geheimdienstes",
+   "s": "Während Kyjiw auf eine US-Delegation wartet, schickt Russland Drohnen. Eine traf ein strategisch wichtiges Ziel: die Zentrale des Geheimdienstes SBU.",
+   "u": "https://taz.de/Russische-Attacken-auf-Kyjiw/!6210454/",
+   "q": "taz",
+   "d": "2026-09-04T16:43:00+00:00"
+  },
+  {
+   "t": "Leichnam von Mladić in Serbien: Nächster Schritt zum Staatsbegräbnis",
+   "s": "Der Leichnam des „Schlächters vom Balkan“, Mladić, ist jetzt in Serbien. International gibt es scharfe Kritik an der Verherrlichung seiner Kriegsverbrechen.",
+   "u": "https://taz.de/Leichnam-von-Mladic-in-Serbien/!6210387/",
+   "q": "taz",
+   "d": "2026-09-04T14:47:00+00:00"
+  },
+  {
+   "t": "Spendenskandal bei Reform UK: Meinungsumfragen, die ihr Geld wert sind",
+   "s": "Spitzenpolitiker der rechtspopulistischen Partei Reform UK stehen durch eine Spendenaffäre unter Druck. Farage und Co sind sich keiner Schuld bewusst.",
+   "u": "https://taz.de/Spendenskandal-bei-Reform-UK/!6210372/",
+   "q": "taz",
+   "d": "2026-09-04T14:35:00+00:00"
+  },
   {
    "t": "EU-Rechnungsprüfer warnen: Trotz hoher Verteidigungsausgaben schlecht gerüstet",
    "s": "Der Europäische Rechnungshof kritisiert die Ausgabenpolitik bei der Rüstung. Es geht um Schulden – und Druck auf das EU-Budget.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Bundesregierung-beschuldigt-Russland/!6209135/",
    "q": "taz",
    "d": "2026-09-01T17:07:00+00:00"
-  },
-  {
-   "t": "Frankreichs extreme Rechte: Le Pen macht Schleierverbot zu ihrem Wahlkampfschlager",
-   "s": "Wieder einmal nutzt Marine Le Pen gezielt antiarabische Ressentiments für ihren Wahlkampf. Diesmal fordert sie ein Verhüllungsverbot in der Öffentlichkeit.",
-   "u": "https://taz.de/Frankreichs-extreme-Rechte/!6209105/",
-   "q": "taz",
-   "d": "2026-09-01T13:44:00+00:00"
-  },
-  {
-   "t": "Drohnen auf Leipziger Flughafen: Bundesregierung: Russland steckt hinter Sprengstoff-Drohne",
-   "s": "Die Bundesregierung macht Russland für den versuchten Anschlag in Leipzig verantwortlich. Berlin verhängt deshalb neue Strafmaßnahmen gegen Russland.",
-   "u": "https://taz.de/Drohnen-auf-Leipziger-Flughafen/!6209181/",
-   "q": "taz",
-   "d": "2026-09-01T12:07:00+00:00"
-  },
-  {
-   "t": "EU-Mercosur-Handelsabkommen: EU setzt Fleischimporte aus Brasilien aus",
-   "s": "Die EU-Kommission erklärte, Brasilien müsse nachweisen, ob Exporteure die EU-Vorgaben zum Einsatz von Antibiotika in der Tierhaltung erfüllen.",
-   "u": "https://taz.de/EU-Mercosur-Handelsabkommen/!6209039/",
-   "q": "taz",
-   "d": "2026-09-01T08:23:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Klingbeil rügt US-Regierung, Bomben auf Kyjiw",
-   "s": "USA laden russischen Minister zum G20-Finanzministertreffen ein. Lars Klingbeil gefällt das gar nicht. Mindestens vier Tote bei russischem Angriff auf Kyjiw.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6209028/",
-   "q": "taz",
-   "d": "2026-09-01T06:05:00+00:00"
   }
  ]
 }

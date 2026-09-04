@@ -1,7 +1,28 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-04T13:32:51+00:00",
+ "updated": "2026-09-04T18:25:13+00:00",
  "items": [
+  {
+   "t": "Warnstreik im Hamburger Hafen: Auswirkungen auf Schiffsabfertigungen",
+   "s": "Die Gewerkschaft ver.di hat Beschäftigte in Hamburg und Niedersachsen aufgerufen, für 48 Stunden ihre Arbeit niederzulegen. In der Nacht zum Donnerstag ging es los.",
+   "u": "https://www.tagesschau.de/inland/regional/hamburg/warnstreik-in-seehaefen-containerbruecken-in-hamburg-stehen-still,hafenstreik-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T17:06:00+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX-Anleger bleiben vorsichtig",
+   "s": "Trotz guter Nachrichten aus dem VW-Konzern hat sich der DAX heute nur wenig bewegt. Zins- und Inflationssorgen bleiben. Auch die Wall Street schwächelt nach neuen Daten vom Arbeitsmarkt.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-leitzins-geldanlage-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T16:09:28+00:00"
+  },
+  {
+   "t": "Sabotage an Strom und Schienen - Wie resilient ist Deutschlands kritische Infrastruktur?",
+   "s": "Drohnen, Brandanschläge, gekappte Kabel: Deutschlands kritische Infrastruktur steht unter Druck. Wie steht es nach jüngsten Angriffen um den Schutz von Energie- und Verkehrsnetzen? Und was leistet das neue KRITIS-Dachgesetz wirklich?",
+   "u": "https://www.deutschlandfunk.de/energieversorgung-verkehrsnetze-anschlaege-kritische-infrastruktur-kritis-dachgesetz-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-04T15:43:00+00:00"
+  },
   {
    "t": "Das sind die Punkte des VW-Sparplans",
    "s": "Abbau von Zehntausenden Stellen, vier Werke auf der Kippe - und das ist noch nicht alles. VW hat ein gigantisches Sparprogramm auf den Weg gebracht. Was der Konzern plant - und was Experten dazu sagen. Ein Überblick.",
@@ -17,13 +38,6 @@
    "d": "2026-09-04T11:41:13+00:00"
   },
   {
-   "t": "Marktbericht: DAX steckt bei 26.000 Punkten fest",
-   "s": "Vor wichtigen Daten vom US-Arbeitsmarkt scheuen die Anleger das Risiko. Der DAX tritt im frühen Handel auf der Stelle. Im Blickpunkt steht Volkswagen - der Börse gefallen die Sanierungspläne gut.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-leitzins-geldanlage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T08:34:11+00:00"
-  },
-  {
    "t": "Auch nach Sanierung: Massive Verspätungen auf Bahnstrecke Hamburg-Berlin",
    "s": "Zehn Monate lang wurde die Bahnstrecke zwischen Berlin und Hamburg umfassend saniert. Doch auch nach der Wiedereröffnung läuft der Verkehr alles andere als reibungslos. Von Jacqueline Piwon.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-generalsanierung-hamburg-berlin-100.html",
@@ -36,13 +50,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/digitales/robotik-ifa-100.html",
    "q": "Tagesschau",
    "d": "2026-09-04T08:07:38+00:00"
-  },
-  {
-   "t": "Warnstreik im Hamburger Hafen: Auswirkungen auf Schiffsabfertigungen",
-   "s": "Die Gewerkschaft ver.di hat Beschäftigte in Hamburg und Niedersachsen aufgerufen, für 48 Stunden ihre Arbeit niederzulegen. In der Nacht zum Donnerstag ging es los.",
-   "u": "https://www.tagesschau.de/inland/regional/hamburg/warnstreik-in-seehaefen-containerbruecken-in-hamburg-stehen-still,hafenstreik-104.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T07:29:50+00:00"
   },
   {
    "t": "Taxi ohne Lenkrad: Tesla stellt \"Cybercab\" vor",
@@ -162,13 +169,6 @@
    "u": "https://www.deutschlandfunk.de/ki-kuenstliche-intelligenz-europa-deepl-mistral-digitale-souveraenitaet-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-08-27T10:00:00+00:00"
-  },
-  {
-   "t": "Sechs Monate Irankrieg - Hohe Gewinne dank hoher Spritpreise",
-   "s": "An den Tankstellen steigen die Preise, bei den großen Ölkonzernen die Gewinne. Finanzminister Lars Klingbeil würde die Konzerne daher gern stärker zur Kasse bitten. In Europa hat man damit bereits Erfahrungen gesammelt.",
-   "u": "https://www.deutschlandfunk.de/spritpreise-irankrieg-profit-uebergewinnsteuer-oelkonzerne-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-25T08:55:00+00:00"
   }
  ]
 }

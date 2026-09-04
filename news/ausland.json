@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-04T13:32:50+00:00",
+ "updated": "2026-09-04T18:25:11+00:00",
  "items": [
+  {
+   "t": "Russische Drohne trifft Geheimdienstzentrale in Kiew",
+   "s": "Dem ukrainischen Geheimdienst SBU gelangen immer wieder spektakuläre Aktionen in Russland. Nun wurde er selbst zum Ziel. Eine russische Drohne traf das Hauptquartier in Kiew. Es soll Verletzte gegeben haben.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-sbu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T16:03:50+00:00"
+  },
+  {
+   "t": "Deutsche Studentin gewinnt schwedische Insel - auf Zeit",
+   "s": "Ruhe, Natur und Vögel: Eine deutsche Studentin hat eine Insel in Schweden gewonnen - auf Zeit. Sie wird für ein Jahr deren Verwalterin. Betreten darf das Eiland aber jeder. Von Arne Bartram.",
+   "u": "https://www.tagesschau.de/ausland/europa/insel-schweden-gewonnen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T13:45:30+00:00"
+  },
   {
    "t": "Mit den Kämpfen im Jemen wächst die Gefahr einer Hungerkrise",
    "s": "Die Lage im Jemen ist so angespannt wie seit Jahren nicht mehr. Während sich Huthi-Rebellen und die von Saudi-Arabien unterstützte Regierung bekämpfen, hungern immer mehr Menschen. Von Nina Amin.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/estland-wahl-staatspraesidentin-100.html",
    "q": "Tagesschau",
    "d": "2026-09-02T13:40:22+00:00"
-  },
-  {
-   "t": "\"Return to the Land\" in den USA: Eine Gemeinschaft nur für Weiße",
-   "s": "Homosexuelle, Schwarze und Juden sind bei Return to the Land nicht willkommen. Etwa 40 Menschen leben in der Gemeinschaft im US-Bundesstaat Arkansas. Ihr Vorgehen löst Entsetzen aus - und beschäftigt bereits die Gerichte. Von Nina Barth.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-return-to-the-land-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T13:07:32+00:00"
-  },
-  {
-   "t": "Australien: Hohe Steuern auf Zigaretten, boomender Schwarzmarkt",
-   "s": "Rauchen ist teuer, vor allem in Australien. Eine Packung kann dort umgerechnet 40 Euro kosten. Der Schwarzmarkt mit illegal importierten Kippen boomt. Ist die Strategie, Tabak hoch zu besteuern, gescheitert? Von Florian Bahrdt.",
-   "u": "https://www.tagesschau.de/ausland/ozeanien/australien-zigaretten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T13:04:14+00:00"
   }
  ]
 }
