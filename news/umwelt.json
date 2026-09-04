@@ -1,7 +1,56 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-03T13:35:55+00:00",
+ "updated": "2026-09-03T23:17:41+00:00",
  "items": [
+  {
+   "t": "Nach dem CSD-Anschlag: Nicht alle wussten alles",
+   "s": "Fehlende Infos und unklare Regeln: Das Violence Prevention Network analysiert das CSD-Attentat und fordert Maßnahmen für bessere Prävention.",
+   "u": "https://taz.de/Nach-dem-CSD-Anschlag/!6209942/",
+   "q": "taz",
+   "d": "2026-09-03T18:13:00+00:00"
+  },
+  {
+   "t": "AfD-Kandidat in Sachsen-Anhalt: Heute Wahlkampf, früher Kampftraining mit Neonazis",
+   "s": "Ein Video zeigt den AfD-Kandidaten Sebastian Koch augenscheinlich beim Kampftraining mit Neonazis. Die Polizei ermittelt bereits zu einer verbotenen Gruppe.",
+   "u": "https://taz.de/AfD-Kandidat-in-Sachsen-Anhalt/!6209813/",
+   "q": "taz",
+   "d": "2026-09-03T18:12:00+00:00"
+  },
+  {
+   "t": "FDP in Ostdeutschland: Kubicki besichtigt liberales Niemandsland",
+   "s": "Die FDP wird in Sachsen-Anhalt und Mecklenburg-Vorpommern wohl aus den Landtagen fliegen. Der Bundesvorsitzende lässt sich davon nicht die Laune verderben.",
+   "u": "https://taz.de/FDP-in-Ostdeutschland/!6209917/",
+   "q": "taz",
+   "d": "2026-09-03T18:08:00+00:00"
+  },
+  {
+   "t": "Anschlag auf Münchner Firmen: Drei Anschläge, zwei Verdächtige, viele Fragen",
+   "s": "Rüstungsunternehmen stehen verstärkt im Visier russischer und linker Attentäter. Im Münchner Osten flogen jetzt Brandsätze.",
+   "u": "https://taz.de/Anschlag-auf-Muenchner-Firmen/!6210204/",
+   "q": "taz",
+   "d": "2026-09-03T17:05:00+00:00"
+  },
+  {
+   "t": "Werkstätten für behinderte Menschen: Nur 200 Euro Monatslohn",
+   "s": "Jürgen Linnemann will per Musterprozess erreichen, dass in Werkstätten für behinderte Menschen Mindestlohn bezahlt wird. Er klagt gegen Lohndumping.",
+   "u": "https://taz.de/Werkstaetten-fuer-behinderte-Menschen/!6209956/",
+   "q": "taz",
+   "d": "2026-09-03T16:44:00+00:00"
+  },
+  {
+   "t": "Sabotage an Umspannwerk Jänschwalde: Bekennerschreiben zu Anschlag aufgetaucht",
+   "s": "Nach dem Anschlag auf das Umspannwerk bei Jänschwalde erreicht die taz ein Bekennerschreiben. Ist es authentisch? Das lässt sich nicht zweifelsfrei klären.",
+   "u": "https://taz.de/Bekennerschreiben-zu-Anschlag-in-Jaenschwalde-aufgetaucht/!6209920/",
+   "q": "taz",
+   "d": "2026-09-03T16:21:00+00:00"
+  },
+  {
+   "t": "Brand in Sachsen-Anhalt: Jugendclub Mood und Kulturwerk Ost sind komplett zerstört",
+   "s": "In Sachsen-Anhalt stehen Kulturräume unter AfD-Druck. In Gardelegen sind nun zwei davon abgebrannt. Die Betreiber sammeln Kräfte – und wollen weitermachen.",
+   "u": "https://taz.de/Brand-in-Sachsen-Anhalt/!6209602/",
+   "q": "taz",
+   "d": "2026-09-03T14:38:00+00:00"
+  },
   {
    "t": "Kriselnde Koalition: Überlebt Schwarz-Rot die Landtagswahlen?",
    "s": "Merz arbeitet an seiner Unbeliebtheit, die SPD wirkt blass. In den Regierungsparteien brodelt es. Der Preis ihres Scheiterns wäre hoch.",
@@ -120,55 +169,6 @@
    "u": "https://taz.de/Workshop-mit-den-USA/!6209357/",
    "q": "taz",
    "d": "2026-09-02T15:18:00+00:00"
-  },
-  {
-   "t": "Anschläge in NRW und Brandenburg: Angriff auf das Stromnetz vor den Wahlen",
-   "s": "Die Angriffe auf zwei Kraftwerke in Deutschland liefen wohl nach dem gleichen Muster ab. Das spricht gegen die „Vulkangruppe“ und für staatliche Auftraggeber.",
-   "u": "https://taz.de/Vulkangruppe-oder-staatliche-Auftraggeber-Wer-steckt-hinter-dem-Stromnetz-Angriff/!6209512/",
-   "q": "taz",
-   "d": "2026-09-02T13:45:00+00:00"
-  },
-  {
-   "t": "Unmut in SPD: Freundliches über die Parteichefs sagt kaum noch jemand",
-   "s": "Für die SPD ist Krise kein neuer Zustand. Aber diesmal zieht sich die Ratlosigkeit durch die ganze Partei. Nun trifft sich die Fraktion zur Klausur.",
-   "u": "https://taz.de/Unmut-in-SPD-ueber-Parteichefs/!6209023/",
-   "q": "taz",
-   "d": "2026-09-02T13:42:00+00:00"
-  },
-  {
-   "t": "Forschung bei der Polizei Sachsen-Anhalt: „Ein Beamter sagte, viele Kol­le­g*in­nen fänden die AfD gut“",
-   "s": "Die Soziologin Franziska Sujeba beobachtete die Polizei Sachsen-Anhalt wochenlang bei Einsätzen. Ihre Frage: Wie antisemitisch sind die Beamten?",
-   "u": "https://taz.de/Wie-AfD-nah-ist-die-Polizei-in-Sachsen-Anhalt-Was-eine-Forscherin-herausgefunden-hat/!6204705/",
-   "q": "taz",
-   "d": "2026-09-02T10:51:00+00:00"
-  },
-  {
-   "t": "Landtagswahl in Sachsen-Anhalt: Der Wohlfühlwahlkampf der AfD",
-   "s": "Die AfD weiß, wie man Wähler gewinnt: mit Positivität. Sie verkauft ihre radikale Agenda ohne Radikalität und schafft so eine emotionale Bindung.",
-   "u": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6209082/",
-   "q": "taz",
-   "d": "2026-09-02T08:20:00+00:00"
-  },
-  {
-   "t": "Berlin gibt Moskau die Schuld: Eine Antwort und viele offene Fragen",
-   "s": "Reichen die diplomatischen Antworten der Bundesregierung auf Russland aus? Bereits jetzt gibt es Forderungen nach schärferen Maßnahmen.",
-   "u": "https://taz.de/Berlin-gibt-Moskau-die-Schuld/!6209348/",
-   "q": "taz",
-   "d": "2026-09-02T05:48:00+00:00"
-  },
-  {
-   "t": "Housing-First-Angebote in NRW: Im Kampf gegen die Wohnungsnot",
-   "s": "Nordrhein-Westfalen will Wohnraum ohne Vorbedingungen schaffen. Das sei gut, aber komme reichlich spät, sagt eine Obdachlosenhilfe in Düsseldorf.",
-   "u": "https://taz.de/Housing-First-Angebote-in-NRW/!6209282/",
-   "q": "taz",
-   "d": "2026-09-02T05:40:00+00:00"
-  },
-  {
-   "t": "Großeinsatz der Polizei: Möglicher Anschlag auf Umspannwerk bei Köln",
-   "s": "In der Nacht hat es Störungen bei einem Umspannwerk in Bergheim in NRW gegeben, mehrere Leitungen seien ausgefallen. Die Polizei spricht von einer vorsätzlichen Tat.",
-   "u": "https://taz.de/Grosseinsatz-der-Polizei/!6209349/",
-   "q": "taz",
-   "d": "2026-09-02T05:35:00+00:00"
   }
  ]
 }

@@ -1,20 +1,41 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-03T13:35:54+00:00",
+ "updated": "2026-09-03T23:17:40+00:00",
  "items": [
   {
-   "t": "Russland Schattenflotte - Wie die Bundesregierung sanktionierte Öltransporte stoppen kann",
+   "t": "VW-Aufsichtsrat beschließt Sparmaßnahmen - 50.000 Stellen weg",
+   "s": "Einen Tag früher als geplant hat der VW-Aufsichtsrat einem Sparplan zugestimmt: 50.000 Jobs sollen wegfallen, und vier Werke stehen vor dem Aus, wenn keine alternative Verwendung für sie gefunden wird.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplaene-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T19:45:37+00:00"
+  },
+  {
+   "t": "Wirtschaft vor acht vom 03.09.2026",
+   "s": "Wirtschaft vor acht vom 03.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1642330.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T19:06:12+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX macht Boden gut",
+   "s": "Der jüngste Ausverkauf beim DAX ist zumindest kurzfristig gestoppt. Unklare Zins- und Inflationserwartungen aber bleiben, so dass die Lage angespannt bleibt. Positiv fiel heute die T-Aktie auf.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-148.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T16:31:52+00:00"
+  },
+  {
+   "t": "Sabotage am Stromnetz - wie Energieversorger reagieren",
+   "s": "Die Energie-Infrastruktur lässt sich nicht zu hundert Prozent schützen. Darin sind sich Fachleute einig. Dennoch gibt es Möglichkeiten, den Schutz zu verbessern. Was tun die Versorger? Von David Zajonz.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/schutz-energie-infrastruktur-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T14:40:34+00:00"
+  },
+  {
+   "t": "Russische Schattenflotte - Wie die Bundesregierung sanktionierte Öltransporte stoppen kann",
    "s": "Als Reaktion auf den versuchten Drohnenanschlag von Leipzig hat die Bundesregierung auch ein schärferes Vorgehen gegen Russlands sogenannte Schattenflotte angekündigt. Was möglich ist, machen andere europäische Länder schon länger vor.",
    "u": "https://www.deutschlandfunk.de/russland-schattenflotte-ostsee-bundesregierung-sanktionen-kontrollen-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-03T12:26:00+00:00"
-  },
-  {
-   "t": "Hedgefonds Elliott beflügelt die Telekom-Aktie",
-   "s": "Die Telekom-Aktie ist im Aufwind: Grund ist die wachsende Beteiligung des US-Hedgefonds Elliott am Bonner Konzern. Was wird aus der Fusion mit der US-Tochter T-Mobile?",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-telekom-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T12:00:20+00:00"
   },
   {
    "t": "Immer mehr neue Autos fahren elektrisch",
@@ -45,7 +66,7 @@
    "d": "2026-09-03T08:53:07+00:00"
   },
   {
-   "t": "Super E10 erreicht neuen Höchststand infolge des Iran-Kriegs",
+   "t": "Preisrekord für Super E10 infolge des Iran-Kriegs",
    "s": "Es ist ein neuer Schock an den Zapfsäulen: Benzin ist wegen der neuen Kämpfe so teuer wie noch nie. Doch es lohnt ein genauer Blick. Denn wird die Inflation berücksichtigt, waren die Spritpreise schon mal höher.",
    "u": "https://www.tagesschau.de/wirtschaft/benzinpreis-rekord-102.html",
    "q": "Tagesschau",
@@ -71,13 +92,6 @@
    "u": "https://www.tagesschau.de/inland/regional/hamburg/tarifstreit-spitzt-sich-zu-warnstreik-in-norddeutschen-seehaefen,hafenstreik-104.html",
    "q": "Tagesschau",
    "d": "2026-09-03T05:58:04+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 02.09.2026",
-   "s": "Wirtschaft vor acht vom 02.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1641750.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T19:01:54+00:00"
   },
   {
    "t": "Ernteausfälle durch Hitze - Agrarminister Rainer kündigt Hilfen für Bauern an",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-temu-online-handel-china-100.html",
    "q": "Tagesschau",
    "d": "2026-09-01T17:18:25+00:00"
-  },
-  {
-   "t": "Verband reicht Klage gegen sogenannte Schienenmaut ein",
-   "s": "Bahnunternehmen und der Verband BSN klagen beim Verwaltungsgericht Köln gegen die Neugestaltung der Schienenmaut im Regionalverkehr. Sie könnte Mehrkosten im Millionenbereich verursachen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/verband-klage-schienenmaut-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T13:25:23+00:00"
-  },
-  {
-   "t": "Europäische Gaspreise steigen auf Drei-Jahres-Hoch",
-   "s": "Die Gaspreise in Europa ziehen an, auf den höchsten Stand seit drei Jahren. Allein seit August sind die Preise um mehr als 20 Prozent gestiegen. Gleichzeitig sind die Gasspeicher ungewöhnlich leer.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/gas-speicher-preise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T12:45:58+00:00"
   }
  ]
 }
