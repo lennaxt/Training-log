@@ -1,7 +1,49 @@
 {
  "name": "Ausland",
- "updated": "2026-09-03T23:17:38+00:00",
+ "updated": "2026-09-04T07:59:39+00:00",
  "items": [
+  {
+   "t": "Argentinien droht mit Sanktionen - Dauerstreit um Falklandinseln",
+   "s": "Argentiniens Präsident Milei geht im Dauerkonflikt mit Großbritannien um die Falklandinseln im Südatlantik in die Offensive. Er droht mit Militär und Sanktionen - und auch US-Präsident Trump mischt sich ein.",
+   "u": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T07:25:29+00:00"
+  },
+  {
+   "t": "Nepal: Zwei Arbeiter neun Tage nach Sturzflut aus Tunnel gerettet",
+   "s": "In Nepal konnten rund anderthalb Wochen nach der katastrophalen Sturzflut zwei Arbeiter lebend aus einem Tunnel gerettet werden. Noch immer sollen Hunderte Arbeiter in dem Tunnelsystem verschüttet sein.",
+   "u": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-rettung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T05:48:29+00:00"
+  },
+  {
+   "t": "Parteitag von Reform UK: Britische Rechtspopulisten unter Druck",
+   "s": "Lange lag die Reform UK-Partei von Nigel Farage vorne in den Umfragen. Doch Finanz- und Spendenskandale, Konkurrenz von rechtsaußen und die Beliebtheit des neuen Premiers Burnham setzen der Partei zu. Von M. Aden.",
+   "u": "https://www.tagesschau.de/ausland/europa/reform-uk-parteitag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T03:10:20+00:00"
+  },
+  {
+   "t": "Italien: Melonis Kabinett stellt Regierungsrekord auf",
+   "s": "Was in anderen Ländern die Regel ist, reicht in Italien für einen Rekord: Seit knapp vier Jahren regiert Ministerpräsidentin Meloni mit demselben Kabinett - keine andere Regierung der italienischen Republik hielt länger durch. Von A. Giordano.",
+   "u": "https://www.tagesschau.de/ausland/europa/italien-meloni-124.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T03:10:01+00:00"
+  },
+  {
+   "t": "Trump will Geld von Europa für Ukraine-Hilfen zurück",
+   "s": "US-Präsident Trump will von europäischen Staaten die Rückzahlung von US-Militärhilfen für die Ukraine fordern. Es gehe dabei um \"Hunderte Milliarden Dollar\", die sein Vorgänger Biden der Ukraine und der NATO geschenkt habe. Von A. Schneider.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-hilfen-forderung-europa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T03:08:47+00:00"
+  },
+  {
+   "t": "El Niño: Sorge in Brasilien vor neuen Überschwemmungen",
+   "s": "Im brasilianischen Porto Alegre gab es erst vor zwei Jahren eine verheerende Flutkatastrophe. Durch das Klimaphänomen El Niño drohen nun neue Überschwemmungen - ist die Stadt diesmal besser vorbereitet? Von A. Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/el-nino-brasilien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T03:08:30+00:00"
+  },
   {
    "t": "US-Frauenrechtsaktivistin Gloria Steinem mit 92 Jahren gestorben",
    "s": "Sie war eine der führenden Stimmen der Frauenbewegung in den USA. Nun ist die Journalistin und Buchautorin Gloria Steinem im Alter von 92 Jahren in New York gestorben. Von Martin Ganslmeier.",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/eu-treffen-russland-leipzig-drohnenvorfall-100.html",
    "q": "Tagesschau",
    "d": "2026-09-02T09:56:32+00:00"
-  },
-  {
-   "t": "USA und Iran melden erneut heftige Angriffe",
-   "s": "Die USA melden neue Angriffe auf iranische Ziele nahe der Straße von Hormus. Iranische Staatsmedien berichten von zivilen Opfern. Als Reaktion auf die US-Attacken beschoss Iran offenbar Jordanien mit ballistischen Raketen.",
-   "u": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T09:35:56+00:00"
-  },
-  {
-   "t": "Verzweifelte Suche nach Vermissten in Nepal dauert an",
-   "s": "Auch eine Woche nach der verheerenden Sturzflut in Nepal und China suchen Rettungskräfte nach Überlebenden - trotz erschütternder Bilder, trotz steigender Opferzahlen. Denn es gibt sie: die Momente, die Hoffnung geben. Von Lena Bodewein.",
-   "u": "https://www.tagesschau.de/ausland/asien/nepal-sturzflut-rettungsarbeiten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T06:56:14+00:00"
-  },
-  {
-   "t": "Russische Desinformation? Fake-Streit zwischen Tschechien und Polen",
-   "s": "Polnische Gebietsansprüche im Grenzgebiet zu Tschechien galten bislang als bedeutungslose Fußnote der Geschichte. Bis es kürzlich hieß, Polen bestehe auf die Rückgabe. Mittlerweile ist klar: Alles frei erfunden. Von Danko Handrick.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-tschechien-gebiet-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T06:50:20+00:00"
-  },
-  {
-   "t": "Mutmaßlichem Kirk-Attentäter droht die Todesstrafe",
-   "s": "Der 23-Jährige, der den ultrarechten US-Aktivisten Charlie Kirk erschossen haben soll, muss sich wegen Mordes verantworten. Die Staatsanwaltschaft legte dar, dass auch weitere Menschen gefährdet waren. Deshalb ist ein Todesurteil möglich. Von Anne Schneider.",
-   "u": "https://www.tagesschau.de/ausland/amerika/charliekirk-mordprozess-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T04:52:43+00:00"
-  },
-  {
-   "t": "Kaputte Regierungsmaschine verhindert Klingbeil-Rückreise",
-   "s": "Das Bundeskabinett will heute die Einkommenssteuerreform auf den Weg bringen. Der zuständige Minister wird nicht dabei sein. Finanzminister Klingbeil sitzt wegen eines kaputten Regierungsjets in den USA fest. Von Philipp Eckstein.",
-   "u": "https://www.tagesschau.de/ausland/amerika/klingbeil-g20-flugbereitschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T03:26:40+00:00"
-  },
-  {
-   "t": "Rückschlag für Finnlands Kampf gegen Wohnungslosigkeit",
-   "s": "Finnland galt lange als Vorbild im Kampf gegen Wohnungslosigkeit. Doch nun steigt die Zahl der Obdachlosen wieder. Die konservative Regierung kürzt Sozialleistungen und investiert weniger in sozialen Wohnungsbau. Von A. Bartram.",
-   "u": "https://www.tagesschau.de/ausland/europa/finnland-kampf-obdachlosigkeit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T15:07:36+00:00"
   }
  ]
 }

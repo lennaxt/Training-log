@@ -1,7 +1,70 @@
 {
  "name": "Inland",
- "updated": "2026-09-03T23:17:38+00:00",
+ "updated": "2026-09-04T07:59:38+00:00",
  "items": [
+  {
+   "t": "Russlandpolitik - Angst vor der eigenen Courage",
+   "s": "Die Bundesregierung macht Russland für den gescheiterten Drohnenanschlag von Leipzig verantwortlich und zieht erste Konsequenzen. Manche fordern ein entschlosseneres Vorgehen. In Kiew nehmen währenddessen die russischen Luftangriffe zu.Wurzel, Steffen; Sittler, Friederike; Sawicki, Peter",
+   "u": "https://www.deutschlandfunk.de/russlandpolitik-angst-vor-der-eigenen-courage-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-04T07:00:00+00:00"
+  },
+  {
+   "t": "Sachsen-Anhalt vor der Wahl: Das Land hinter den Zahlen",
+   "s": "Sachsen-Anhalt steht vor Problemen, die viele Regionen Deutschlands kennen: Die Bevölkerung altert, Fachkräfte fehlen, die Wirtschaft muss sich neu erfinden. Zugleich gibt es Entwicklungen, die Hoffnung machen. Ein Blick auf Zahlen und Daten vor der Wahl.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-wahl-demografie-wirtschaft-106.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T06:30:00+00:00"
+  },
+  {
+   "t": "Vor der Landtagswahl: Sachsen-Anhalt und die Tücken der Umfragen",
+   "s": "In Sachsen-Anhalt lagen die Umfragen 2021 ungewöhnlich weit vom Wahlergebnis entfernt. Auch jetzt führt die AfD in Umfragen deutlich. Ein Blick auf die Faktoren, die am Sonntag noch alles verändern könnten. Von Jörg Schönenborn.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-umfragen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T06:29:37+00:00"
+  },
+  {
+   "t": "Zahl der Geflüchteten in Deutschland 2026 leicht gesunken",
+   "s": "Die Zahl der in Deutschland lebenden Geflüchteten ist leicht auf etwa 3,5 Millionen Menschen gesunken. Laut Bundesregierung liegt das an Abschiebungen, Ausreisen und Einbürgerungen, sowie weniger neuen Flüchtlingen aus der Ukraine.",
+   "u": "https://www.tagesschau.de/inland/zahl-gefluechtete-deutschland-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T05:39:40+00:00"
+  },
+  {
+   "t": "„Taktisch Wählen“ in Sachsen-Anhalt: Strategie gewinnt",
+   "s": "Die Fünfprozenthürde könnte entscheiden, ob die AfD regiert oder nicht. Eine Kampagne wirbt deshalb für kleine Parteien. Doch wer finanziert sie?",
+   "u": "https://taz.de/Kampagne-Taktisch-Waehlen-in-Sachsen-Anhalt-Wer-dahinter-steht-und-woher-die-Finanzierung-kommt/!6202527/",
+   "q": "taz",
+   "d": "2026-09-04T05:21:00+00:00"
+  },
+  {
+   "t": "ARD-DeutschlandTrend: Mehrheit will staatliche Hilfen für Autoindustrie",
+   "s": "Deutschlands Autoindustrie steckt in der Krise. Verantwortung dafür sehen die Menschen laut ARD-DeutschlandTrend bei den Herstellern selbst. Trotzdem sprechen sie sich dafür aus, der Branche zu helfen.",
+   "u": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-september-automobilindustrie-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T04:57:44+00:00"
+  },
+  {
+   "t": "Klimawandel - El Niño könnte so stark ausfallen wie nie zuvor",
+   "s": "Die Weltwetterorganisation warnt vor extremen Überschwemmungen und Dürren in den kommenden Monaten. Grund dafür ist das El-Niño-Phänomen. Wetterexperte Andreas Becker erklärt, warum die Auswirkungen ein noch nie dagewesenes Ausmaß erreichen könnten.Schulz, Sandra",
+   "u": "https://www.deutschlandfunk.de/extremwetter-durch-el-ni-o-erwartet-interview-mit-andreas-becker-dwd-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-04T04:50:00+00:00"
+  },
+  {
+   "t": "Sparpläne bei den Krankenkassen: Frauenärzte fürchten Folgen für Schwangere",
+   "s": "Ab 2027 ändert sich die Finanzierung der Schwangerschaftsvorsorge. Frauenärzte warnen vor Engpässen. Die Krankenkassen widersprechen. Von Jule Lampe.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/schwangeren-versorgung-gesundheitsreform-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T04:45:12+00:00"
+  },
+  {
+   "t": "Wahlkampf in Sachsen-Anhalt: Kanzler Merz auf Distanz",
+   "s": "Kurz vor der Landtagswahl besucht Friedrich Merz erneut Sachsen-Anhalt. Mit Ministerpräsident Schulze besichtigt er eine Raffinerie und warnt vor einer AfD-Regierung. Zu Wählern spricht er aber nicht. Von Philip Kuntschner.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-sachsen-anhalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T03:08:38+00:00"
+  },
   {
    "t": "Nach dem CSD-Anschlag: Nicht alle wussten alles",
    "s": "Fehlende Infos und unklare Regeln: Das Violence Prevention Network analysiert das CSD-Attentat und fordert Maßnahmen für bessere Prävention.",
@@ -24,11 +87,32 @@
    "d": "2026-09-03T18:08:00+00:00"
   },
   {
+   "t": "Warum in der Wahl auch ein Risiko für die AfD steckt",
+   "s": "Die AfD liegt vor der Landtagswahl in Sachsen-Anhalt in Umfragen vorn und hofft auf ein bundesweites Signal. Doch es gibt auch Risiken - und Zweifel an der Regierungsfähigkeit der Partei. Von Benjamin Großkopff.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-afd-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T18:00:34+00:00"
+  },
+  {
+   "t": "Brandanschlag in München - Starke Hinweise auf hybriden Hintergrund",
+   "s": "Nach Informationen des ARD-Hauptstadtstudios gibt es starke Hinweise darauf, dass auch der Brandanschlag nahe eines Rüstungsunternehmens in München im Auftrag eines russischen Geheimdienstes verübt worden sein könnte. Von M. Götschenberg.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/brandanschlag-muenchen-verdacht-geheimdienst-russland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T17:46:02+00:00"
+  },
+  {
    "t": "Anschlag auf Münchner Firmen: Drei Anschläge, zwei Verdächtige, viele Fragen",
    "s": "Rüstungsunternehmen stehen verstärkt im Visier russischer und linker Attentäter. Im Münchner Osten flogen jetzt Brandsätze.",
    "u": "https://taz.de/Anschlag-auf-Muenchner-Firmen/!6210204/",
    "q": "taz",
    "d": "2026-09-03T17:05:00+00:00"
+  },
+  {
+   "t": "BGH entscheidet Sampling-Rechtsstreit zugunsten von Moses Pelham",
+   "s": "Seit 27 Jahren wird ein Rechtsstreit zwischen der Elektroband Kraftwerk und dem Musikproduzenten Moses Pelham geführt. Nun hat der Bundesgerichtshof ein entscheidendes Urteil gefällt - mit Auswirkungen über den Fall hinaus. Von Max Bauer.",
+   "u": "https://www.tagesschau.de/inland/bgh-sampling-kraftwerk-urteil-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T17:04:38+00:00"
   },
   {
    "t": "Werkstätten für behinderte Menschen: Nur 200 Euro Monatslohn",
@@ -59,7 +143,14 @@
    "d": "2026-09-03T16:21:00+00:00"
   },
   {
-   "t": "Weniger Kinder, weniger Kinderwunsch",
+   "t": "ARD-DeutschlandTrend: Deutsche fühlen sich durch Russland bedroht",
+   "s": "Eine Mehrheit sieht durch Russland die Sicherheit Deutschlands stark bedroht. Das gilt laut ARD-DeutschlandTrend vor allem für ältere Menschen sowie Anhänger aller im Bundestag vertretenen Parteien - mit einer Ausnahme. Von Florian Riesewieck.",
+   "u": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-september-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T16:00:08+00:00"
+  },
+  {
+   "t": "Mehr Zukunftssorgen, weniger Kinderwunsch",
    "s": "Bislang wünschten sich die meisten Menschen eigentlich mehr Kinder. Aber das ist jetzt immer weniger der Fall - bei Frauen und bei Männern. Das zeigt eine Studie des Bundesinstituts für Bevölkerungsforschung. Zukunftssorgen sind nur ein Faktor.Pfister, Sandra",
    "u": "https://www.deutschlandfunk.de/warum-weniger-lust-auf-kinder-c-katharina-spiess-direktorin-bib-100.html",
    "q": "Deutschlandfunk",
@@ -78,97 +169,6 @@
    "u": "https://taz.de/Brand-in-Sachsen-Anhalt/!6209602/",
    "q": "taz",
    "d": "2026-09-03T14:38:00+00:00"
-  },
-  {
-   "t": "Chefin der italienischen Opposition: Mailand oder Madrid – Hauptsache links",
-   "s": "Elly Schlein will die sozialdemokratische Partei Italiens wieder mit den Arbeitenden versöhnen. Muss Giorgia Meloni ihre Gegenspielerin fürchten?",
-   "u": "https://taz.de/Chefin-der-italienischen-Opposition/!6204798/",
-   "q": "taz",
-   "d": "2026-09-03T14:30:00+00:00"
-  },
-  {
-   "t": "Treffen des Weimarer Dreiecks: Vereinigt gegen russischen Staatsterrorismus",
-   "s": "Polen, Frankreich und Deutschland treffen sich, um 35 Jahre Weimarer Dreieck zu feiern. Im Fokus: Russlands hybride Kriegsführung.",
-   "u": "https://taz.de/Treffen-des-Weimarer-Dreiecks/!6209865/",
-   "q": "taz",
-   "d": "2026-09-03T13:43:00+00:00"
-  },
-  {
-   "t": "Ansturm auf Ceuta: Spaniens Regierungschef Sánchez bleibt Antworten schuldig",
-   "s": "Der spanische Ministerpräsident hat sich den Fragen der Opposition zum Ansturm auf Ceuta im Juli gestellt. Die rechten Parteien trieben den Sozialisten dabei vor sich her.",
-   "u": "https://taz.de/Ansturm-auf-spanische-Exklave-Ceuta/!6209853/",
-   "q": "taz",
-   "d": "2026-09-03T13:39:00+00:00"
-  },
-  {
-   "t": "Super-El-Niño erwartet: Hochwasser und Hitze in Argentinien",
-   "s": "In Argentinien ist aktuell Winter. Doch Meteorologen warnen bereits vor bevorstehendem Starkregen, Überschwemmungen und weiteren extremen Wetterereignissen.",
-   "u": "https://taz.de/Super-El-Nino-erwartet/!6204404/",
-   "q": "taz",
-   "d": "2026-09-03T13:01:00+00:00"
-  },
-  {
-   "t": "Russland schließt Goethe-Institute: Keine Deutschprüfungen mehr in Moskau",
-   "s": "Als Reaktion auf den versuchten Drohnenanschlag von Leipzig will Deutschland das Russische Haus in Berlin schließen. Nun reagiert Moskau mit Gegenmaßnahmen.",
-   "u": "https://taz.de/Russland-schliesst-Goethe-Institute/!6209863/",
-   "q": "taz",
-   "d": "2026-09-03T12:34:00+00:00"
-  },
-  {
-   "t": "Russische Schattenflotte - Wie die Bundesregierung sanktionierte Öltransporte stoppen kann",
-   "s": "Als Reaktion auf den versuchten Drohnenanschlag von Leipzig hat die Bundesregierung auch ein schärferes Vorgehen gegen Russlands sogenannte Schattenflotte angekündigt. Was möglich ist, machen andere europäische Länder schon länger vor.",
-   "u": "https://www.deutschlandfunk.de/russland-schattenflotte-ostsee-bundesregierung-sanktionen-kontrollen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-03T12:26:00+00:00"
-  },
-  {
-   "t": "Neue Gesetze für Verpackungsmüll: Bürokratiemonster gegen Mülltsunami",
-   "s": "Nach lauten Protesten vor allem kleiner Unternehmen regt sich im EU-Parlament Widerstand gegen die neuen EU-Abfallgesetze. Die Kommission schweigt.",
-   "u": "https://taz.de/Verpackungen-Neues-Buerokratiemonster-gegen-Muelltsunami/!6207136/",
-   "q": "taz",
-   "d": "2026-09-03T12:23:00+00:00"
-  },
-  {
-   "t": "IT-Sicherheitsexperte Atug mahnt bei Schutz der Infrastruktur zur Eile",
-   "s": "Das im März in Kraft getretene KRITIS-Dachgesetz ist bisher nur eine leere Hülle, rügt IT-Sicherheitsexperte Manuel Atug die Koalition. Die Umsetzung werde aber angesichts der Gefahr für die kritische Infrastruktur in Wochen, nicht in Jahren benötigt.Capellan, Frank; Kaess, Christiane; Atug, Manuel",
-   "u": "https://www.deutschlandfunk.de/debatte-um-schutz-kritischer-infrastruktur-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-03T10:12:04+00:00"
-  },
-  {
-   "t": "Konferenz in Argentinien: Netzwerktreffen für Lateinamerikas Libertäre und Rechte",
-   "s": "Auf dem ganzen Kontinent wächst ein Netzwerk libertärer und konservativer Denkfabriken. In Argentinien diskutieren sie nun politische Reformen.",
-   "u": "https://taz.de/Konferenz-in-Argentinien/!6209754/",
-   "q": "taz",
-   "d": "2026-09-03T10:11:00+00:00"
-  },
-  {
-   "t": "Kriselnde Koalition: Überlebt Schwarz-Rot die Landtagswahlen?",
-   "s": "Merz arbeitet an seiner Unbeliebtheit, die SPD wirkt blass. In den Regierungsparteien brodelt es. Der Preis ihres Scheiterns wäre hoch.",
-   "u": "https://taz.de/Unruhe-in-der-Koalition/!6209790/",
-   "q": "taz",
-   "d": "2026-09-03T09:49:00+00:00"
-  },
-  {
-   "t": "1.653 Tage Krieg in der Ukraine: Wie wir uns auf die Kälte vorbereiten",
-   "s": "Der russische Beschuss auf Kyjiw wird intensiver, und der Herbst beginnt. Eine Checklist für die kalte Jahreszeit.",
-   "u": "https://taz.de/1653-Tage-Krieg-in-der-Ukraine/!6209376/",
-   "q": "taz",
-   "d": "2026-09-03T09:20:00+00:00"
-  },
-  {
-   "t": "Omas gegen Rechts setzen Zeichen: Trotzdem da",
-   "s": "Zwei Wochen vor der Landtagswahl in Sachsen-Anhalt ziehen die Omas gegen Rechts als Karawane durch die Altmark. Die taz war bei einer Etappe dabei.",
-   "u": "https://taz.de/Omas-gegen-Rechts-setzen-Zeichen/!6204807/",
-   "q": "taz",
-   "d": "2026-09-03T09:15:00+00:00"
-  },
-  {
-   "t": "Rüstungskonzern in München angegriffen: LKA vermutet Anschlag",
-   "s": "Nach einer Brandattacke auf eine Münchner Baustelle vermuten Ermittler, dass ein Rüstungsunternehmen das Ziel war. Zwei Menschen wurden festgenommen.",
-   "u": "https://taz.de/Ruestungskonzern-in-Muenchen-angegriffen-LKA-ermittelt-wegen-politischem-Hintergrund/!6209786/",
-   "q": "taz",
-   "d": "2026-09-03T08:56:00+00:00"
   }
  ]
 }

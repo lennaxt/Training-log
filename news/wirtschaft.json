@@ -1,13 +1,55 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-03T23:17:40+00:00",
+ "updated": "2026-09-04T07:59:41+00:00",
  "items": [
   {
-   "t": "VW-Aufsichtsrat beschließt Sparmaßnahmen - 50.000 Stellen weg",
-   "s": "Einen Tag früher als geplant hat der VW-Aufsichtsrat einem Sparplan zugestimmt: 50.000 Jobs sollen wegfallen, und vier Werke stehen vor dem Aus, wenn keine alternative Verwendung für sie gefunden wird.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplaene-100.html",
+   "t": "Warnstreik im Hamburger Hafen: Auswirkungen auf Schiffsabfertigungen",
+   "s": "Die Gewerkschaft ver.di hat Beschäftigte in Hamburg und Niedersachsen aufgerufen, für 48 Stunden ihre Arbeit niederzulegen. In der Nacht zum Donnerstag ging es los.",
+   "u": "https://www.tagesschau.de/inland/regional/hamburg/warnstreik-in-seehaefen-containerbruecken-in-hamburg-stehen-still,hafenstreik-104.html",
    "q": "Tagesschau",
-   "d": "2026-09-03T19:45:37+00:00"
+   "d": "2026-09-04T07:29:50+00:00"
+  },
+  {
+   "t": "Taxi ohne Lenkrad: Tesla stellt \"Cybercab\" vor",
+   "s": "Der US-Elektroautobauer Tesla hat im Bundesstaat Texas sein neues \"Cybercab\" vorgestellt und mit ersten Fahrten begonnen. Die fahrerlosen Taxis werden zunächst in einigen Gegenden in Austin angeboten.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-cybercab-taxi-ohne-lenkrad-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T06:53:50+00:00"
+  },
+  {
+   "t": "Sachsen-Anhalt vor der Wahl: Das Land hinter den Zahlen",
+   "s": "Sachsen-Anhalt steht vor Problemen, die viele Regionen Deutschlands kennen: Die Bevölkerung altert, Fachkräfte fehlen, die Wirtschaft muss sich neu erfinden. Zugleich gibt es Entwicklungen, die Hoffnung machen. Ein Blick auf Zahlen und Daten vor der Wahl.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-wahl-demografie-wirtschaft-106.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T06:30:00+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX fester vor US-Arbeitsmarktdaten",
+   "s": "Kann sich der DAX über 26.000 Punkten halten? Die Hoffnung auf eine Zinspause in den USA hat die Wall Street gestern angetrieben. Aber heute steht mit den US-Arbeitsmarktdaten der nächste wichtige Termin an.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-leitzins-geldanlage-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T05:36:30+00:00"
+  },
+  {
+   "t": "Technikmesse IFA startet in Berlin - China im Fokus",
+   "s": "Was einmal als Schaufenster deutscher Technik begann, ist heute Bühne für eine globale Industrie. Wer durch die IFA-Technikmesse geht, merkt schnell, dass sich die Gewichte verschoben haben: Die meisten Aussteller kommen aus China.",
+   "u": "https://www.tagesschau.de/inland/regional/berlin/technikmesse-ifa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T05:12:14+00:00"
+  },
+  {
+   "t": "ARD-DeutschlandTrend: Mehrheit will staatliche Hilfen für Autoindustrie",
+   "s": "Deutschlands Autoindustrie steckt in der Krise. Verantwortung dafür sehen die Menschen laut ARD-DeutschlandTrend bei den Herstellern selbst. Trotzdem sprechen sie sich dafür aus, der Branche zu helfen.",
+   "u": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-september-automobilindustrie-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T04:57:44+00:00"
+  },
+  {
+   "t": "Das sind die Punkte des VW-Sparplans",
+   "s": "Abbau von Zehntausenden Stellen, vier Werke auf der Kippe - und das ist noch nicht alles. VW hat ein gigantisches Sparprogramm auf den Weg gebracht. Was der Konzern plant - und was Experten dazu sagen. Ein Überblick.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplan-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T03:08:21+00:00"
   },
   {
    "t": "Wirtschaft vor acht vom 03.09.2026",
@@ -15,13 +57,6 @@
    "u": "https://www.tagesschau.de/video/video-1642330.html",
    "q": "Tagesschau",
    "d": "2026-09-03T19:06:12+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX macht Boden gut",
-   "s": "Der jüngste Ausverkauf beim DAX ist zumindest kurzfristig gestoppt. Unklare Zins- und Inflationserwartungen aber bleiben, so dass die Lage angespannt bleibt. Positiv fiel heute die T-Aktie auf.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-148.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T16:31:52+00:00"
   },
   {
    "t": "Sabotage am Stromnetz - wie Energieversorger reagieren",
@@ -87,13 +122,6 @@
    "d": "2026-09-03T07:14:39+00:00"
   },
   {
-   "t": "Arbeiter in norddeutschen Seehäfen streiken wieder",
-   "s": "Die Gewerkschaft ver.di hat Beschäftigte in Hamburg und Niedersachsen aufgerufen, für 48 Stunden ihre Arbeit niederzulegen. In der Nacht zum Donnerstag ging es los.",
-   "u": "https://www.tagesschau.de/inland/regional/hamburg/tarifstreit-spitzt-sich-zu-warnstreik-in-norddeutschen-seehaefen,hafenstreik-104.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T05:58:04+00:00"
-  },
-  {
    "t": "Ernteausfälle durch Hitze - Agrarminister Rainer kündigt Hilfen für Bauern an",
    "s": "Die durch Hitze und Trockenheit geschmälerte Ernte ist laut Bundesagrarminister Rainer eine \"herbe Enttäuschung\" für viele Landwirte. Der CSU-Politiker kündigte Hilfen für die betroffenen Betriebe an.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/ernteausfaelle-krise-rainer-100.html",
@@ -101,74 +129,46 @@
    "d": "2026-09-02T18:30:29+00:00"
   },
   {
-   "t": "Warum die Zukunft der VW-Werke wohl noch länger ungewiss bleibt",
-   "s": "Freitag soll der VW-Aufsichtsrat über den Sparkurs und mögliche Werksschließungen beraten. Doch es gibt viel Streit und Drohkulissen. Ein Kompromiss ist nicht in Sicht - und einigen scheint das ganz recht zu sein. Von A. Deutskens.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-streit-werksschliessungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T18:06:02+00:00"
+   "t": "Kommentar zu Krankschreibungen - Die Politik sollte die Idee schnell beerdigen",
+   "s": "Bundesarbeitsministerin Bas sollte einen Weg finden, um diese unsinnige Verständigung der Koalition auf ein Attest gleich am ersten Krankheitstag zu stoppen. Diese geplante Attestpflicht ist praxisfern und wird keine Fehlzeit weniger bringen.Von Birgid Becker",
+   "u": "https://www.deutschlandfunk.de/kommentar-zu-krankschreibungen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-31T14:38:00+00:00"
   },
   {
-   "t": "Stellenabbau bei Uber trifft auch Führungskräfte",
-   "s": "Der US-Fahrdienstvermittler Uber will rund 3.300 Stellen streichen. Besonders Führungskräfte sollen davon betroffen sein. Von Gabi Biesinger.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/uber-stellenabbau-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T15:46:08+00:00"
+   "t": "Smartes Kinderspielzeug - Wer kontrolliert den KI-Teddy?",
+   "s": "Kuscheltiere und Puppen lernen dank generativer KI sprechen. Doch erste Tests zeigen: Was Kindern Spaß macht, kann sie auch verstören und manipulieren.",
+   "u": "https://www.deutschlandfunk.de/spielzeug-ki-kinder-gefahren-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-30T14:16:00+00:00"
   },
   {
-   "t": "Deutschland darf Bau neuer Gaskraftwerke mit Milliarden fördern",
-   "s": "Die Bundesrepublik darf den Bau neuer Gaskraftwerke mit bis zu 35 Milliarden Euro fördern. Die EU-Kommission stimmte den Plänen des Wirtschaftsministeriums zu. Die neuen Kraftwerke sollen später auch mit Wasserstoff laufen.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/eu-milliarden-gaskraftwerke-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T14:47:08+00:00"
+   "t": "Globales Rennen um KI - Europäische Unternehmen punkten durch Spezialisierung",
+   "s": "Europa hat KI-Unternehmen, die global wettbewerbsfähig sind: Mistral, DeepL und Black Forest Labs. Insbesondere Unternehmen nutzen gern KI aus Europa. Ein Grund dafür ist die vergleichsweise strenge KI-Regulierung in der EU.",
+   "u": "https://www.deutschlandfunk.de/ki-kuenstliche-intelligenz-europa-deepl-mistral-digitale-souveraenitaet-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-27T10:00:00+00:00"
   },
   {
-   "t": "Reform im Kabinett: Das soll sich bei der Einkommensteuer ändern",
-   "s": "Union und SPD wollen ein zentrales Finanzvorhaben auf den Weg bringen - Entlastungen bei der Steuer vor allem für kleinere Einkommen. Wie die konkreten Maßnahmen aussehen und was die Steuerreform bringen soll.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/einkommensteuer-reform-folgen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T14:02:34+00:00"
+   "t": "Sechs Monate Irankrieg - Hohe Gewinne dank hoher Spritpreise",
+   "s": "An den Tankstellen steigen die Preise, bei den großen Ölkonzernen die Gewinne. Finanzminister Lars Klingbeil würde die Konzerne daher gern stärker zur Kasse bitten. In Europa hat man damit bereits Erfahrungen gesammelt.",
+   "u": "https://www.deutschlandfunk.de/spritpreise-irankrieg-profit-uebergewinnsteuer-oelkonzerne-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-25T08:55:00+00:00"
   },
   {
-   "t": "KI macht Smartphones, Computer und Konsolen teurer",
-   "s": "KI verteuert technische Produkte wie Smartphones, Notebooks und Spielekonsolen. Denn Chips werden immer mehr zur Mangelware. Das treibt die Preise in die Höhe und sorgt für weniger Auswahl.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/ki-teurer-technik-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T13:18:45+00:00"
+   "t": "Viertagewoche in Island - Kürzer arbeiten, gleich verdienen",
+   "s": "Vier Tage arbeiten und trotzdem volles Gehalt: Für viele Beschäftigte in Island ist das längst Realität. Das Modell bringt mehr Freizeit, sorgt aber auch für Kritik von Arbeitgebern und teilweise für Einschränkungen bei öffentlichen Angeboten.",
+   "u": "https://www.deutschlandfunk.de/island-viertagewoche-arbeitszeit-verkuerzung-work-life-balance-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-21T07:58:00+00:00"
   },
   {
-   "t": "Ryanair senkt Prognose - Luftfahrt unter Kostendruck",
-   "s": "Die Luftfahrtbranche leidet besonders unter der Energiekrise - denn Kerosin ist ein zentraler Kostenfaktor. Der Billigflieger Ryanair ist das jüngste Opfer. Aber die Probleme der Branche sind vielschichtiger.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-luftfahrt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T12:48:13+00:00"
-  },
-  {
-   "t": "Deutsche-Bank-Chef warnt vor Abschottung und Nationalismus",
-   "s": "Deutsche-Bank-Chef Christian Sewing hat vor der Landtagswahl in Sachsen-Anhalt vor dem Aufstieg populistischer Parteien gewarnt. Wirtschaftlich und gesellschaftlich stehe viel auf dem Spiel.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-chef-sewing-warnung-afd-regierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T10:51:01+00:00"
-  },
-  {
-   "t": "Was hilft gegen die gestiegene Inflation?",
-   "s": "Die Euro-Inflation liegt inzwischen bei 3,3 Prozent. Grund ist vor allem das teure Rohöl als Folge des Iran-Kriegs - ein Dilemma für Europas Notenbanker. Steigen die Preise bald womöglich noch schneller? Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-ezb-renditen-anleihen-preise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T07:03:04+00:00"
-  },
-  {
-   "t": "Erneuerbare Energien: Solar überholt Kohle bei installierter Leistung in China",
-   "s": "China treibt den Ausbau der Photovoltaik voran: Im Juli lag die Leistung aus den Solaranlagen des Landes erstmals über der Leistung der Kohlekraftwerke. Dennoch gehört China mit Abstand zu den größten CO2-Emittenten der Welt.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/china-stromquelle-solar-kohle-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T18:13:14+00:00"
-  },
-  {
-   "t": "Ist der Hype um Shein & Co. vorbei?",
-   "s": "Der chinesische Billig-Onlinehändler Shein verpatzt sein Börsendebut. Die Zeiten des hohen Wachstums scheinen für das Unternehmen vorbei zu sein. Im Fokus von Investoren sind andere Branchen. Von Noel Schmidt.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-temu-online-handel-china-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T17:18:25+00:00"
+   "t": "Griechenlands Sechstagewoche - Länger arbeiten, weniger verdienen",
+   "s": "Vor zwei Jahren hat Griechenland die Sechstagewoche eingeführt, inzwischen sind auch 13-Stunden-Tage möglich. Die Wirtschaft wächst, die Arbeitslosigkeit sinkt. Bei den Beschäftigten kommt davon wenig an.",
+   "u": "https://www.deutschlandfunk.de/griechenland-sechstagewoche-arbeitszeit-loehne-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-21T07:57:00+00:00"
   }
  ]
 }
