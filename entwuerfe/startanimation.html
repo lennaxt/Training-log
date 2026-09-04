@@ -33,7 +33,8 @@ code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12.5px;
   background:#1B1B1F;padding:2px 6px;border-radius:5px;color:#F2F0EC}
   /* ── Startbild ──
      Der Berg des App-Icons, gross und begehbar: die Flanken wachsen zum
-     Gipfel, ein Wanderer steigt den Steig hinauf, am Gipfel steht der Name.
+     Gipfel, eine Gestalt schiebt einen Fels den Steig hinauf und legt ihn oben
+     ab. Der Mythos steht fuer vergebliche Muehe — hier bleibt der Fels liegen.
      Formen sind gerechnet, nicht gezeichnet — konkave Potenzkurve mit
      Exponent 1.35 wie beim Icon. Es folgt der Systemdarstellung statt
      store.theme: der steht erst fest, wenn das Skript gelaufen ist, und ein
@@ -85,9 +86,8 @@ code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12.5px;
   /* Der Fels deckt: sonst laeuft der Grat mitten durch ihn hindurch. */
   .boot-stone{fill:var(--boot-stone)}
   .boot-stone-line{opacity:.45}
-  /* Der Wanderer wird in seinem eigenen Nullpunkt gezeichnet und von aussen
-     an seinen Platz geschoben — sonst muesste jeder Koerperteil mitwandern.
-     Ohne Animation steht er am Gipfel: das ist das Bild, das bleibt. */
+  /* Die Gestalt wird in ihrem eigenen Nullpunkt gezeichnet und von aussen an
+     ihren Platz geschoben — sonst muesste jeder Koerperteil mitwandern. */
   .boot-hiker{transform-box:view-box;transform:translate(216.0px,207.1px)}
   .boot-hiker-turn,.boot-push,.boot-ball,.boot-leg,.boot-arm{transform-box:view-box}
   .boot-leg{transform-origin:-3.5px -10.5px}
