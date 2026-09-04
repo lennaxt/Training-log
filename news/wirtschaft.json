@@ -1,13 +1,20 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-04T18:25:13+00:00",
+ "updated": "2026-09-04T23:03:32+00:00",
  "items": [
   {
    "t": "Warnstreik im Hamburger Hafen: Auswirkungen auf Schiffsabfertigungen",
-   "s": "Die Gewerkschaft ver.di hat Beschäftigte in Hamburg und Niedersachsen aufgerufen, für 48 Stunden ihre Arbeit niederzulegen. In der Nacht zum Donnerstag ging es los.",
+   "s": "Die Gewerkschaft ver.di hatte Beschäftigte in Hamburg und Niedersachsen aufgerufen, für 48 Stunden ihre Arbeit niederzulegen. In der Nacht zum Donnerstag ging es los.",
    "u": "https://www.tagesschau.de/inland/regional/hamburg/warnstreik-in-seehaefen-containerbruecken-in-hamburg-stehen-still,hafenstreik-104.html",
    "q": "Tagesschau",
-   "d": "2026-09-04T17:06:00+00:00"
+   "d": "2026-09-04T19:07:00+00:00"
+  },
+  {
+   "t": "Wirtschaft vor acht vom 04.09.2026",
+   "s": "Wirtschaft vor acht vom 04.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1642954.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T18:27:24+00:00"
   },
   {
    "t": "Marktbericht: DAX-Anleger bleiben vorsichtig",
@@ -71,13 +78,6 @@
    "u": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-september-automobilindustrie-102.html",
    "q": "Tagesschau",
    "d": "2026-09-04T04:57:44+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 03.09.2026",
-   "s": "Wirtschaft vor acht vom 03.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1642330.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T19:06:12+00:00"
   },
   {
    "t": "Sabotage am Stromnetz - wie Energieversorger reagieren",
