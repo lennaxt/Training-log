@@ -1,13 +1,69 @@
 {
  "name": "Inland",
- "updated": "2026-09-05T12:44:06+00:00",
+ "updated": "2026-09-05T17:21:10+00:00",
  "items": [
+  {
+   "t": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
+   "s": "Eine kriminelle Gruppe greift die Berliner Verwaltung an und veröffentlicht große Mengen von Daten im Darknet. Um welche Informationen geht es? Welche Gefahren birgt deren Veröffentlichung? Antworten auf die wichtigsten Fragen.",
+   "u": "https://www.tagesschau.de/inland/faq-hackerangriff-berlin-folgen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T16:50:32+00:00"
+  },
+  {
+   "t": "Superwahlkreis Querfurt: Zwischen Gratiswurst, dem linken Pfarrer und Rechtsextremen",
+   "s": "In Sachsen-Anhalts brisantestem Wahlkreis geht es rund: ein Streifzug durch ein Burggewölbe, über einen Campingplatz und ein AfD-Familienfest.",
+   "u": "https://taz.de/Superwahlkreis-Querfurt/!6206949/",
+   "q": "taz",
+   "d": "2026-09-05T16:47:00+00:00"
+  },
+  {
+   "t": "Wahl in Sachsen-Anhalt: Welche Koalitionsoptionen gibt es?",
+   "s": "In den Umfragen zur Landtagswahl in Sachsen-Anhalt liegt die AfD vorne - zur Alleinregierung würde es demnach aber nicht reichen. Welche Szenarien denkbar sind und vor welchen Problemen die Parteien stehen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-koalition-optionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T15:08:27+00:00"
+  },
+  {
+   "t": "Exklave Ceuta: Spanische Regierung übernimmt Kontrolle über Hafen",
+   "s": "Die Regierung von Premierminister Sánchez setzt sich über die Regionalverwaltung hinweg – und errichtet nun ein Zeltlager für Geflüchtete an einer sensiblen Stelle.",
+   "u": "https://taz.de/Exklave-Ceuta/!6210508/",
+   "q": "taz",
+   "d": "2026-09-05T14:41:00+00:00"
+  },
+  {
+   "t": "Vor den Wahlen in Ostdeutschland: Engagiert - und trotzdem machtlos",
+   "s": "Ob Fußballverein in Berlin, Krankenhausinitiative in Sachsen-Anhalt oder Bürgermeister in Mecklenburg-Vorpommern: Sie alle wollen etwas bewegen - und stoßen dabei immer wieder an Grenzen. Das kann Vertrauen in die Politik kosten. Von C. Bazydlo.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/wahlen-osten-stimmung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T14:09:11+00:00"
+  },
   {
    "t": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
    "s": "Personalakten, Stundenzettel, Telefonnummern - im Darknet haben Hacker etwa 1,4 Millionen Daten veröffentlicht, die von der Berliner Verwaltung gestohlen wurden. Das zuständige Bundesamt warnt vor Risiken infolge des Leaks.",
    "u": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-05T11:46:55+00:00"
+   "d": "2026-09-05T14:03:56+00:00"
+  },
+  {
+   "t": "Künst­le­r:in­nen bei Glücksgefühle: Das Festival des politischen Liedes",
+   "s": "Beim Glücksgefühle-Festival protestieren zahlreiche Künst­le­r:in­nen gegen die Ausladung der Band „Alphaville“. Deren Sänger warnt vor rechten Tendenzen.",
+   "u": "https://taz.de/Kuenstlerinnen-bei-Gluecksgefuehle/!6210502/",
+   "q": "taz",
+   "d": "2026-09-05T13:59:00+00:00"
+  },
+  {
+   "t": "Vor den Midterms in den USA: Briefwahl beginnt trotz Rechtsstreit",
+   "s": "In North Carolina erhalten erste Wahlberechtigte ihre Unterlagen für die Stimmabgabe per Post. Das juristische Geharke um Trumps Versuch, die Konditionen zu erschweren, geht in eine neue Runde.",
+   "u": "https://taz.de/Vor-den-Midterms-in-den-USA/!6210501/",
+   "q": "taz",
+   "d": "2026-09-05T12:46:00+00:00"
+  },
+  {
+   "t": "Sachsen-Anhalt - Der Streit in der CDU über den Umgang mit der Linkspartei",
+   "s": "Vor den Wahlen in Sachsen-Anhalt streitet die CDU über den Unvereinbarkeitsbeschluss zur Linkspartei. Während die Basis auf lokaler Ebene oft erfolgreich kooperiert, droht oben eine Selbstblockade. Ein Blick auf funktionierende Allianzen.",
+   "u": "https://www.deutschlandfunk.de/unvereinbarkeitsbeschluss-cdu-die-linke-wahl-sachsen-anhalt-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-05T12:18:00+00:00"
   },
   {
    "t": "Streit um Berlins Linke: Von Gaza bis Neukölln",
@@ -24,8 +80,8 @@
    "d": "2026-09-05T11:21:00+00:00"
   },
   {
-   "t": "Krieg in der Ukraine: Trump schickt mal wieder seinen Schwiegersohn",
-   "s": "Der US-Präsident ist sich sicher, dass Putin die Nato nicht angreifen wird und startet eine neue Friedensmission. Kushner und Trumps Golfpartner Steve Witkoff reisen nach Moskau und Kyjiw.",
+   "t": "Krieg in der Ukraine: Für Trumps Schwiegersohn macht Putin eine Ausnahme",
+   "s": "Jared Kushner und Trumps Golfpartner Steve Witkoff sind auf Friedensmission in Moskau – und fliegen dann in die Ukraine. Russlands Präsident hat dafür 72 Stunden Pause für Angriffe auf Kyjiw angeordnet.",
    "u": "https://taz.de/Krieg-in-der-Ukraine/!6210492/",
    "q": "taz",
    "d": "2026-09-05T11:18:00+00:00"
@@ -113,62 +169,6 @@
    "u": "https://taz.de/Wenn-die-AfD-an-die-Macht-kommt-Wer-will-dann-noch-Richterin-in-Sachsen-Anhalt-werden/!6209546/",
    "q": "taz",
    "d": "2026-09-04T17:51:00+00:00"
-  },
-  {
-   "t": "Ebola in DR Kongo: Hoffnung auf Eindämmung",
-   "s": "Im Epizentrum in der Demokratischen Republik Kongo wurden keine neuen Ansteckungen mehr verzeichnet, doch noch ist die Gefahr nicht gebannt.",
-   "u": "https://taz.de/Ebola-in-DR-Kongo/!6210368/",
-   "q": "taz",
-   "d": "2026-09-04T17:43:00+00:00"
-  },
-  {
-   "t": "Return Hubs in der EU: Dänemark will in „Partnerländer“ abschieben",
-   "s": "Die Härte der EU-Asylpolitik nimmt Formen an. Dänemark will schon 2027 abgelehnte Asyl­be­wer­be­r:in­nen in Abschiebezentren außerhalb der EU bringen.",
-   "u": "https://taz.de/Return-Hubs-in-der-EU/!6210468/",
-   "q": "taz",
-   "d": "2026-09-04T17:37:00+00:00"
-  },
-  {
-   "t": "Wie kann die kritische Infrastruktur besser geschützt werden?",
-   "s": "Die jüngsten Ereignisse haben gezeigt, wie anfällig kritische Infrastruktur in Deutschland ist. Stromnetze, Flughäfen und Wasserwerke müssen besser geschützt werden. Wie ist das möglich? Von Theo Steinbach.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/schutz-kritische-infrastruktur-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T16:59:41+00:00"
-  },
-  {
-   "t": "Wie geht es im Thüringer Landtag nun weiter?",
-   "s": "Der Dauerstreit des Thüringer BSW mit Parteigründerin Wagenknecht ist eskaliert, die Mehrheit der Landtagsabgeordneten verlässt die Partei. Welche Optionen hat die Fraktion nun? Und was bedeutet das für die Regierungskoalition?",
-   "u": "https://www.tagesschau.de/inland/thueringen-wie-geht-es-weiter-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T16:46:03+00:00"
-  },
-  {
-   "t": "Russische Attacken auf Kyjiw: Drohne trifft Zentrale des Geheimdienstes",
-   "s": "Während Kyjiw auf eine US-Delegation wartet, schickt Russland Drohnen. Eine traf ein strategisch wichtiges Ziel: die Zentrale des Geheimdienstes SBU.",
-   "u": "https://taz.de/Russische-Attacken-auf-Kyjiw/!6210454/",
-   "q": "taz",
-   "d": "2026-09-04T16:43:00+00:00"
-  },
-  {
-   "t": "Angriffe auf Umspannwerke: Polizei findet Truck von Verdächtigen am Hambacher Forst",
-   "s": "Die Polizei fahndet nach dem Gevelsberger Daniel V. Sein LKW wird am Hambacher Forst entdeckt. Er hatte ein Bekennerschreiben an die taz geschickt.",
-   "u": "https://taz.de/Polizei-findet-Truck-des-Verdaechtigen-am-Hambacher-Forst/!6210358/",
-   "q": "taz",
-   "d": "2026-09-04T16:34:00+00:00"
-  },
-  {
-   "t": "Sabotage an Strom und Schienen - Wie resilient ist Deutschlands kritische Infrastruktur?",
-   "s": "Drohnen, Brandanschläge, gekappte Kabel: Deutschlands kritische Infrastruktur steht unter Druck. Wie steht es nach jüngsten Angriffen um den Schutz von Energie- und Verkehrsnetzen? Und was leistet das neue KRITIS-Dachgesetz wirklich?",
-   "u": "https://www.deutschlandfunk.de/energieversorgung-verkehrsnetze-anschlaege-kritische-infrastruktur-kritis-dachgesetz-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-04T15:43:00+00:00"
-  },
-  {
-   "t": "Palästinensische Terrororganisation PFLP: Mehrere Kilo Sprengstoff, mit Nägeln gespickt",
-   "s": "Nach seinem Auftritt bei der Linken in Berlin-Neukölln beteuert Dahabflex, nie zu Gewalt aufgerufen zu haben. Doch was heißt „Intifada wie die PFLP“?",
-   "u": "https://taz.de/Palaestinensische-Terrororganisation-PFLP/!6206519/",
-   "q": "taz",
-   "d": "2026-09-04T14:58:00+00:00"
   }
  ]
 }

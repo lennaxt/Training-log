@@ -1,10 +1,17 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-05T12:44:09+00:00",
+ "updated": "2026-09-05T17:21:13+00:00",
  "items": [
   {
-   "t": "Krieg in der Ukraine: Trump schickt mal wieder seinen Schwiegersohn",
-   "s": "Der US-Präsident ist sich sicher, dass Putin die Nato nicht angreifen wird und startet eine neue Friedensmission. Kushner und Trumps Golfpartner Steve Witkoff reisen nach Moskau und Kyjiw.",
+   "t": "Exklave Ceuta: Spanische Regierung übernimmt Kontrolle über Hafen",
+   "s": "Die Regierung von Premierminister Sánchez setzt sich über die Regionalverwaltung hinweg – und errichtet nun ein Zeltlager für Geflüchtete an einer sensiblen Stelle.",
+   "u": "https://taz.de/Exklave-Ceuta/!6210508/",
+   "q": "taz",
+   "d": "2026-09-05T14:41:00+00:00"
+  },
+  {
+   "t": "Krieg in der Ukraine: Für Trumps Schwiegersohn macht Putin eine Ausnahme",
+   "s": "Jared Kushner und Trumps Golfpartner Steve Witkoff sind auf Friedensmission in Moskau – und fliegen dann in die Ukraine. Russlands Präsident hat dafür 72 Stunden Pause für Angriffe auf Kyjiw angeordnet.",
    "u": "https://taz.de/Krieg-in-der-Ukraine/!6210492/",
    "q": "taz",
    "d": "2026-09-05T11:18:00+00:00"
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Frauenrechte-rot-weiss-rot/!6209058/",
    "q": "taz",
    "d": "2026-09-02T08:18:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Selenskyj warnt Airlines in russischem Luftraum",
-   "s": "Der ukrainische Präsident warnt wegen massiver Droheneinsätze vor Flügen durch Russland. Putin räumt Schäden an 100 Schiffen ein. Drohnenangriff auf Odessa.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6209352/",
-   "q": "taz",
-   "d": "2026-09-02T06:30:00+00:00"
   }
  ]
 }

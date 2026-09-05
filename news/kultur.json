@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-05T12:44:10+00:00",
+ "updated": "2026-09-05T17:21:14+00:00",
  "items": [
+  {
+   "t": "Vor den Midterms in den USA: Briefwahl beginnt trotz Rechtsstreit",
+   "s": "In North Carolina erhalten erste Wahlberechtigte ihre Unterlagen für die Stimmabgabe per Post. Das juristische Geharke um Trumps Versuch, die Konditionen zu erschweren, geht in eine neue Runde.",
+   "u": "https://taz.de/Vor-den-Midterms-in-den-USA/!6210501/",
+   "q": "taz",
+   "d": "2026-09-05T12:46:00+00:00"
+  },
   {
    "t": "Rechte Netzwerke: Die internationale Rechte trifft sich in Chile",
    "s": "Beim Foro Madrid in Santiago beschwören die Rechten Kast, Milei und Co eine neue Ära – währenddessen bröckelt in Chile die Unterstützung für Kast.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/US-Flugzeugtraeger-im-Nahen-Osten/!6204480/",
    "q": "taz",
    "d": "2026-08-16T08:03:00+00:00"
-  },
-  {
-   "t": "Erdbeben in Kolumbien: Keine Ruhe nach dem Beben",
-   "s": "In Pereira hat das verheerende Erdbeben die meisten Leben gekostet. Immer noch suchen Menschen ihre Lieben dort im Schutt. Offizielle Hel­fe­r*in­nen sind rar.",
-   "u": "https://taz.de/Erdbeben-in-Kolumbien/!6204023/",
-   "q": "taz",
-   "d": "2026-08-14T08:36:00+00:00"
   }
  ]
 }

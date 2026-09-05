@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-05T12:44:07+00:00",
+ "updated": "2026-09-05T17:21:10+00:00",
  "items": [
+  {
+   "t": "USA greifen iranische Öltanker an",
+   "s": "Vor der Küste Irans hat das US-Militär drei iranische Öltanker außer Gefecht gesetzt. Es spricht von einer Reaktion auf Attacken der Revolutionsgarde: Diese soll zuvor Raketen auf Marineschiffe abgefeuert haben.",
+   "u": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-tanker-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T15:17:36+00:00"
+  },
+  {
+   "t": "Kolumbien: Die harte Hand des Präsidenten fordert erste Opfer",
+   "s": "Kolumbiens neuer Präsident de la Espriella versprach, hart gegen bewaffnete Gruppen vorzugehen. In den ersten Wochen seiner Amtszeit lässt er seinen Worten mit enormem Tempo Taten folgen. Von Jenny Barke.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kolumbien-gewalt-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T12:49:26+00:00"
+  },
   {
    "t": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Moskau angekommen",
    "s": "Neuer Anlauf in den US-Vermittlungen zwischen Russland und der Ukraine: Die Sondergesandten Kushner und Witkoff sind in Moskau gelandet. Morgen geht es für Gespräche nach Kiew. Für gegenseitige Angriffe auf die Hauptstädte soll eine Feuerpause gelten.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/oesterreich-hausunterricht-100.html",
    "q": "Tagesschau",
    "d": "2026-09-03T05:01:53+00:00"
-  },
-  {
-   "t": "Iran greift erneut Ziele in Kuwait an",
-   "s": "Das Golfemirat Kuwait hat einen neuen iranischen Luftangriff auf sein Staatsgebiet gemeldet. Die Flugabwehr ist demnach im Einsatz, um Raketen und Drohnen abzuwehren. Iran sieht darin eine Antwort auf \"Amerikas Verbrechen\".",
-   "u": "https://www.tagesschau.de/ausland/asien/iran-kuwait-angriffe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T03:30:46+00:00"
-  },
-  {
-   "t": "Freispruch nach Mord an maltesischer Journalistin Caruana Galizia",
-   "s": "Wer ließ die maltesische Journalistin Daphne Caruana Galizia ermorden? Diese Frage bleibt auch nach fast neun Jahren unbeantwortet. Geschworene sprachen einen Unternehmer vom Vorwurf frei, Drahtzieher des Anschlags gewesen zu sein.",
-   "u": "https://www.tagesschau.de/ausland/europa/freispruch-mord-journalistin-malta-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T22:56:35+00:00"
   }
  ]
 }
