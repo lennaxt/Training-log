@@ -1,13 +1,27 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-04T23:03:32+00:00",
+ "updated": "2026-09-05T07:41:28+00:00",
  "items": [
   {
-   "t": "Warnstreik im Hamburger Hafen: Auswirkungen auf Schiffsabfertigungen",
-   "s": "Die Gewerkschaft ver.di hatte Beschäftigte in Hamburg und Niedersachsen aufgerufen, für 48 Stunden ihre Arbeit niederzulegen. In der Nacht zum Donnerstag ging es los.",
-   "u": "https://www.tagesschau.de/inland/regional/hamburg/warnstreik-in-seehaefen-containerbruecken-in-hamburg-stehen-still,hafenstreik-104.html",
+   "t": "Ist Sachsen-Anhalt wirtschaftlich abgehängt?",
+   "s": "Die Wirtschaftslage ist bei der Wahl in Sachsen-Anhalt ein wichtiges Thema. Das Bundesland altert und schrumpft, die Arbeitslosigkeit ist eher hoch. Manche Sorgen kennen aber auch Westregionen - und es gibt Standort-Vorteile. Von Bianca von der Au.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-wahl-afd-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-04T19:07:00+00:00"
+   "d": "2026-09-05T05:25:59+00:00"
+  },
+  {
+   "t": "Warnstreik in den norddeutschen Seehäfen beendet",
+   "s": "Die Gewerkschaft ver.di hatte Beschäftigte in Hamburg und Niedersachsen aufgerufen, für 48 Stunden ihre Arbeit niederzulegen.",
+   "u": "https://www.tagesschau.de/inland/regional/hamburg/warnstreik-in-norddeutschen-seehaefen-beendet,hafenstreik-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T04:47:43+00:00"
+  },
+  {
+   "t": "Babyboomer gehen in Rente: Das bremst Deutschlands Wachstum",
+   "s": "Bis 2040 gehen 30 Prozent der Erwerbspersonen in Deutschland in Rente. Das kostet Wachstum, wenn Politik und Unternehmen nicht gegensteuern. KI könnte helfen - ist aber nur ein Teil der Antwort. Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/babyboomer-rente-deutschland-wachstum-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T02:59:52+00:00"
   },
   {
    "t": "Wirtschaft vor acht vom 04.09.2026",
@@ -155,20 +169,6 @@
    "u": "https://www.deutschlandfunk.de/kommentar-zu-krankschreibungen-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-08-31T14:38:00+00:00"
-  },
-  {
-   "t": "Smartes Kinderspielzeug - Wer kontrolliert den KI-Teddy?",
-   "s": "Kuscheltiere und Puppen lernen dank generativer KI sprechen. Doch erste Tests zeigen: Was Kindern Spaß macht, kann sie auch verstören und manipulieren.",
-   "u": "https://www.deutschlandfunk.de/spielzeug-ki-kinder-gefahren-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-30T14:16:00+00:00"
-  },
-  {
-   "t": "Globales Rennen um KI - Europäische Unternehmen punkten durch Spezialisierung",
-   "s": "Europa hat KI-Unternehmen, die global wettbewerbsfähig sind: Mistral, DeepL und Black Forest Labs. Insbesondere Unternehmen nutzen gern KI aus Europa. Ein Grund dafür ist die vergleichsweise strenge KI-Regulierung in der EU.",
-   "u": "https://www.deutschlandfunk.de/ki-kuenstliche-intelligenz-europa-deepl-mistral-digitale-souveraenitaet-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-27T10:00:00+00:00"
   }
  ]
 }

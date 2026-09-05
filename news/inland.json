@@ -1,7 +1,28 @@
 {
  "name": "Inland",
- "updated": "2026-09-04T23:03:29+00:00",
+ "updated": "2026-09-05T07:41:27+00:00",
  "items": [
+  {
+   "t": "Streit um abschlagsfreie Frührente: Den Beamten nehmen, den Frührentnern geben?",
+   "s": "Die Bundesregierung will die abschlagsfreie Frührente abschaffen. Acht Länderchefs stellen sich quer. Die taz hat sie gefragt, wer das bezahlen soll.",
+   "u": "https://taz.de/Streit-um-abschlagsfreie-Fruehrente/!6206521/",
+   "q": "taz",
+   "d": "2026-09-05T07:27:00+00:00"
+  },
+  {
+   "t": "Polizei fahndet nach Sabotage an Umspannwerken nach Verdächtigem",
+   "s": "Die Polizei fahndet weiter nach einem Mann, der sich zu Sabotageakten auf das Stromnetz bekannt hat. Nach Anschlagsversuchen in Brandenburg und Nordrhein-Westfalen wurden auch in Sachsen nahe Umspannwerken Sprengvorrichtungen entdeckt.",
+   "u": "https://www.tagesschau.de/inland/fahndung-sabotage-stromnetz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T07:07:09+00:00"
+  },
+  {
+   "t": "So ist die Stimmung vor der Landtagswahl in Sachsen-Anhalt",
+   "s": "Vor der Landtagswahl in Sachsen-Anhalt dominieren Unzufriedenheit und Misstrauen. Die AfD führt in Umfragen. Integration, Bildung und Wirtschaft sind die wichtigsten Themen. Von Katharina Gebauer.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-stimmung-themen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T05:25:50+00:00"
+  },
   {
    "t": "Sabotage an Umspannwerken - Polizei fahndet nach Verdächtigem aus NRW",
    "s": "Nach der Sabotage an Umspannwerken in Nordrhein-Westfalen und Brandenburg fahndet die Polizei nach einem Verdächtigen. Der Mann hatte Bekennerschreiben verfasst. Ob er aber auch der Täter ist, ist noch offen.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Nahostdiskurs-und-Berliner-Wahlkampf/!6210375/",
    "q": "taz",
    "d": "2026-09-04T13:00:00+00:00"
-  },
-  {
-   "t": "München: Zwei Tatverdächtige nach Brandanschlag in Untersuchungshaft",
-   "s": "Nach dem Brandanschlag auf ein Firmengebäude mit Rüstungsunternehmen in München sind zwei Tatverdächtige in Untersuchungshaft genommen worden. Politiker und Ermittler vermuten ein politisches Motiv.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/brandanschlag-muenchen-verdaechtige-u-haft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T12:59:49+00:00"
-  },
-  {
-   "t": "Anschläge auf Umspannwerke: „Daniel, ruf mich zurück, es ist dringend“",
-   "s": "In Gevelsberg schält eine Frau Kartoffeln, als die taz klingelt. Auf dem Bekennerschreiben erkennt sie die Handschrift ihres Sohns – und spricht auf die Mailbox.",
-   "u": "https://taz.de/Spezialkraefte-durchsuchen-Wohnhaus-in-Gevelsberg-Wo-ist-Daniel-V/!6206505/",
-   "q": "taz",
-   "d": "2026-09-04T12:53:00+00:00"
-  },
-  {
-   "t": "KI und Demokratie: Eine toxische Beziehung",
-   "s": "KI ist gefährlicher, als manche glauben. Sie beeinflusst Nut­ze­r:in­nen und somit die Demokratie selbst dann, wenn sie auf alltägliche Weise eingesetzt wird.",
-   "u": "https://taz.de/KI-und-Demokratie/!6206568/",
-   "q": "taz",
-   "d": "2026-09-04T12:18:00+00:00"
   }
  ]
 }

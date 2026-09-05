@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-04T23:03:33+00:00",
+ "updated": "2026-09-05T07:41:30+00:00",
  "items": [
+  {
+   "t": "Streit um abschlagsfreie Frührente: Den Beamten nehmen, den Frührentnern geben?",
+   "s": "Die Bundesregierung will die abschlagsfreie Frührente abschaffen. Acht Länderchefs stellen sich quer. Die taz hat sie gefragt, wer das bezahlen soll.",
+   "u": "https://taz.de/Streit-um-abschlagsfreie-Fruehrente/!6206521/",
+   "q": "taz",
+   "d": "2026-09-05T07:27:00+00:00"
+  },
   {
    "t": "Szenario einer AfD-Regierung: Wer will noch Rich­te­r:in in Sachsen-Anhalt werden?",
    "s": "Wenn die AfD in Sachsen-Anhalt regiert, wollen viele angehende Ju­ris­t:in­nen dort nicht arbeiten, zeigt eine Umfrage. Dabei braucht die Justiz dringend Nachwuchs.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Geburtenrueckgang-in-Deutschland/!6209380/",
    "q": "taz",
    "d": "2026-09-03T07:04:00+00:00"
-  },
-  {
-   "t": "Bundeswehrstart in Afghanistan: Geheim und ohne Mandat",
-   "s": "25 Jahre nach den Anschlägen vom 11. September 2001 zeigt eine Recherche: Spezialkräfte sind damals ohne Zustimmung des Bundestags aufgebrochen.",
-   "u": "https://taz.de/Bundeswehrstart-in-Afghanistan/!6209750/",
-   "q": "taz",
-   "d": "2026-09-03T07:01:00+00:00"
   }
  ]
 }
