@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-05T07:41:27+00:00",
+ "updated": "2026-09-05T12:44:07+00:00",
  "items": [
+  {
+   "t": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Moskau angekommen",
+   "s": "Neuer Anlauf in den US-Vermittlungen zwischen Russland und der Ukraine: Die Sondergesandten Kushner und Witkoff sind in Moskau gelandet. Morgen geht es für Gespräche nach Kiew. Für gegenseitige Angriffe auf die Hauptstädte soll eine Feuerpause gelten.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T12:38:20+00:00"
+  },
+  {
+   "t": "Weitere Überlebende nach Sturzflut in Nepal gerettet",
+   "s": "Den zweiten Tag in Folge gelingt es Rettungskräften in Nepal, nach der Sturzflut Überlebende zu finden - zehn Tage nach dem Unglück. Doch noch immer gelten Tausende Menschen infolge der Katastrophe als vermisst.",
+   "u": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-ueberlebende-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T10:08:35+00:00"
+  },
   {
    "t": "Flutkatastrophe im Himalaya: Nepals Wut auf die Verursacher des Klimawandels",
    "s": "Nach der Sturzflut im Himalaya mit mehr als 1.000 Toten ist die Zerstörung groß. Während die Überlebenden ihre Habseligkeiten bergen, wächst der Zorn: Nepal stößt kaum CO2 aus, wird aber immer härter vom Klimawandel getroffen. Von L. Bodewein.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/freispruch-mord-journalistin-malta-100.html",
    "q": "Tagesschau",
    "d": "2026-09-02T22:56:35+00:00"
-  },
-  {
-   "t": "Mehr als 3.000 Tote - WHO-Chef fordert mehr Einsatz gegen Ebola",
-   "s": "WHO-Chef Tedros hat die internationale Gemeinschaft zu mehr Anstrengung bei der Bekämpfung der Ebola-Epidemie aufgefordert. Das Maßnahmenpaket der kongolesischen Regierung müsse schneller finanziert werden.",
-   "u": "https://www.tagesschau.de/ausland/afrika/ebola-who-aufruf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T20:09:49+00:00"
-  },
-  {
-   "t": "Ermittlungen nach Tiefflügen über Rugby-Stadion in Südafrika",
-   "s": "In Südafrika sind zwei Passagierflugzeuge vor einem Rugby-Spiel nur wenige Meter über die Köpfe der Zuschauer geflogen. Was als Showeinlage geplant war, ging vielen Zuschauern offenbar zu weit. Nun ermittelt die Luftfahrtbehörde.",
-   "u": "https://www.tagesschau.de/ausland/afrika/suedafrika-rugby-flugzeug-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T18:19:24+00:00"
   }
  ]
 }

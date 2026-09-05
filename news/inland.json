@@ -1,7 +1,77 @@
 {
  "name": "Inland",
- "updated": "2026-09-05T07:41:27+00:00",
+ "updated": "2026-09-05T12:44:06+00:00",
  "items": [
+  {
+   "t": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
+   "s": "Personalakten, Stundenzettel, Telefonnummern - im Darknet haben Hacker etwa 1,4 Millionen Daten veröffentlicht, die von der Berliner Verwaltung gestohlen wurden. Das zuständige Bundesamt warnt vor Risiken infolge des Leaks.",
+   "u": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T11:46:55+00:00"
+  },
+  {
+   "t": "Streit um Berlins Linke: Von Gaza bis Neukölln",
+   "s": "Den Ruf nach einer Intifada bei einer Wahlveranstaltung der Linken hat auch die Konkurrenz gehört. Der Nahost-Konflikt poltert in den Berliner Wahlkampf.",
+   "u": "https://taz.de/Streit-um-Berlins-Linke/!6206480/",
+   "q": "taz",
+   "d": "2026-09-05T11:24:00+00:00"
+  },
+  {
+   "t": "Nach Sturzflut im Himalaya: Retter bergen in Nepal zwei weitere Überlebende",
+   "s": "Die Retter in Nepal können zwei weitere Erfolge verbuchen. Sie finden einen weiteren Arbeiter in einem Tunnel und eine Frau in den Trümmern eines Hauses.",
+   "u": "https://taz.de/Nach-Sturzflut-im-Himalaya/!6210498/",
+   "q": "taz",
+   "d": "2026-09-05T11:21:00+00:00"
+  },
+  {
+   "t": "Krieg in der Ukraine: Trump schickt mal wieder seinen Schwiegersohn",
+   "s": "Der US-Präsident ist sich sicher, dass Putin die Nato nicht angreifen wird und startet eine neue Friedensmission. Kushner und Trumps Golfpartner Steve Witkoff reisen nach Moskau und Kyjiw.",
+   "u": "https://taz.de/Krieg-in-der-Ukraine/!6210492/",
+   "q": "taz",
+   "d": "2026-09-05T11:18:00+00:00"
+  },
+  {
+   "t": "taz-Forum in Rostock: „Wenn wir abhauen, ist es noch dööfer“",
+   "s": "Beim taz-Forum in Rostock geben sich zivilgesellschaftlich Engagierte kämpferisch vor der Wahl – und rot-rot-grüne Vertreter sagen Unterstützung zu.",
+   "u": "https://taz.de/taz-Forum-in-Rostock/!6210490/",
+   "q": "taz",
+   "d": "2026-09-05T11:16:00+00:00"
+  },
+  {
+   "t": "Ausblick auf die Landtagswahlen 2026 - Ein Wahljahr, das Deutschland verändern könnte",
+   "s": "Baden-Württemberg, Rheinland-Pfalz, Sachsen-Anhalt, Berlin, Mecklenburg-Vorpommern. 2026 werden fünf Landesparlamente neu gewählt. Vor allem die Wahlen im Osten könnten weitreichende Folgen für die ganze Republik haben.Von Martin Teigeler",
+   "u": "https://www.deutschlandfunk.de/landtagswahlen-2026-rlp-bw-mv-berlin-sachsen-anhalt-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-05T10:22:00+00:00"
+  },
+  {
+   "t": "Anschlagserie auf das Stromnetz: Fahndung nach Daniel V. läuft auf Hochtouren",
+   "s": "Auch nördlich von Bautzen wurden am Freitagabend „unbekannte Sprengvorrichtungen“ gefunden. Zudem kam es im Zuge der Suche nach dem Verdächtigen zu einem Polizeieinsatz bei einer Stromanlage nahe Hamm.",
+   "u": "https://taz.de/Anschlagserie-auf-das-Stromnetz/!6210489/",
+   "q": "taz",
+   "d": "2026-09-05T09:12:00+00:00"
+  },
+  {
+   "t": "Nach Cyberangriff auf Berlins Verwaltung: Stundenzettel im Darknet",
+   "s": "Das Ultimatum an den Berliner Senat ist abgelaufen. Nach ihrem erfolglosen Erpressungsversuch macht die Hackergruppe Rhysida die gekaperten Daten öffentlich zugänglich.",
+   "u": "https://taz.de/Nach-Cyberangriff-auf-Berlins-Verwaltung/!6210487/",
+   "q": "taz",
+   "d": "2026-09-05T08:20:00+00:00"
+  },
+  {
+   "t": "Wahlplakate 2026: Von „Milfs“ bis zu „männerfreien Innenstädten“",
+   "s": "Sachsen-Anhalt, Mecklenburg-Vorpommern, Berlin und auch der Kommunalwahlkampf in Niedersachsen: Was die Parteien im heißen Wahlkampfsommer auf ihre Plakate schreiben.",
+   "u": "https://taz.de/Wahlplakate-2026/!6205095/",
+   "q": "taz",
+   "d": "2026-09-05T07:44:00+00:00"
+  },
+  {
+   "t": "Polizei fahndet nach Sabotage an Umspannwerken nach Verdächtigem",
+   "s": "Die Polizei fahndet weiter nach einem Mann, der sich zu Sabotageakten auf das Stromnetz bekannt hat. Nach Anschlagsversuchen in Brandenburg und Nordrhein-Westfalen wurden auch in Sachsen nahe Umspannwerken Sprengvorrichtungen entdeckt.",
+   "u": "https://www.tagesschau.de/inland/fahndung-sabotage-stromnetz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T07:41:02+00:00"
+  },
   {
    "t": "Streit um abschlagsfreie Frührente: Den Beamten nehmen, den Frührentnern geben?",
    "s": "Die Bundesregierung will die abschlagsfreie Frührente abschaffen. Acht Länderchefs stellen sich quer. Die taz hat sie gefragt, wer das bezahlen soll.",
@@ -10,11 +80,11 @@
    "d": "2026-09-05T07:27:00+00:00"
   },
   {
-   "t": "Polizei fahndet nach Sabotage an Umspannwerken nach Verdächtigem",
-   "s": "Die Polizei fahndet weiter nach einem Mann, der sich zu Sabotageakten auf das Stromnetz bekannt hat. Nach Anschlagsversuchen in Brandenburg und Nordrhein-Westfalen wurden auch in Sachsen nahe Umspannwerken Sprengvorrichtungen entdeckt.",
-   "u": "https://www.tagesschau.de/inland/fahndung-sabotage-stromnetz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T07:07:09+00:00"
+   "t": "Cyberangriff: Hacker-Verein findet Berlins Nein zur Erpressung richtig",
+   "s": "Eine Hackergruppe hat sensible Daten bei der Berliner Verwaltung erbeutet. Nun stehen sie im Darknet. Gabriela Bogk vom Chaos Computer Club sieht ein Problem im Vorfeld: Die Datensicherheit in Berlin ist notorisch mies. Wie könnte man nachbessern?Heinemann, Christoph",
+   "u": "https://www.deutschlandfunk.de/hat-berliner-senat-richtig-gehandelt-interview-mit-gabriela-bogk-ccc-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-05T05:38:00+00:00"
   },
   {
    "t": "So ist die Stimmung vor der Landtagswahl in Sachsen-Anhalt",
@@ -22,6 +92,13 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-stimmung-themen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-05T05:25:50+00:00"
+  },
+  {
+   "t": "So erklärt Thüringens Digitalminister seinen Ausstieg aus dem BSW",
+   "s": "Nach dem Bruch in Thüringen wirft Ex-BSW-Digitalminister Steffen Schütz der Parteiführung Destabilisierung und Ideologie vor. Die Annäherung an die AfD trage man aus Gewissensgründen nicht mit. Schütz bekennt sich aber zur Koalition mit CDU und SPD.Heinemann, Christoph",
+   "u": "https://www.deutschlandfunk.de/befreiungsschlag-fuer-wen-interv-mit-steffen-schuetz-digitalmin-ex-bsw-thuer-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-05T05:15:00+00:00"
   },
   {
    "t": "Sabotage an Umspannwerken - Polizei fahndet nach Verdächtigem aus NRW",
@@ -92,83 +169,6 @@
    "u": "https://taz.de/Palaestinensische-Terrororganisation-PFLP/!6206519/",
    "q": "taz",
    "d": "2026-09-04T14:58:00+00:00"
-  },
-  {
-   "t": "Die ökologischen Folgen des Irankriegs im Persischen Golf",
-   "s": "Der Krieg zwischen den USA und dem Iran hinterlässt zunehmend auch ökologische Spuren. Satellitenbilder zeigen, dass sich Ölteppiche gebildet haben, die nicht nur die Küsten verschmutzten. Das Leben im Meer ist direkt betroffen.Röhrlich, Dagmar",
-   "u": "https://www.deutschlandfunk.de/irankrieg-oekologische-folgen-im-persischen-golf-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-04T14:50:13+00:00"
-  },
-  {
-   "t": "Leichnam von Mladić in Serbien: Nächster Schritt zum Staatsbegräbnis",
-   "s": "Der Leichnam des „Schlächters vom Balkan“, Mladić, ist jetzt in Serbien. International gibt es scharfe Kritik an der Verherrlichung seiner Kriegsverbrechen.",
-   "u": "https://taz.de/Leichnam-von-Mladic-in-Serbien/!6210387/",
-   "q": "taz",
-   "d": "2026-09-04T14:47:00+00:00"
-  },
-  {
-   "t": "Rechte Netzwerke: Die internationale Rechte trifft sich in Chile",
-   "s": "Beim Foro Madrid in Santiago beschwören die Rechten Kast, Milei und Co eine neue Ära – währenddessen bröckelt in Chile die Unterstützung für Kast.",
-   "u": "https://taz.de/Rechte-Netzwerke/!6210430/",
-   "q": "taz",
-   "d": "2026-09-04T14:39:00+00:00"
-  },
-  {
-   "t": "Spendenskandal bei Reform UK: Meinungsumfragen, die ihr Geld wert sind",
-   "s": "Spitzenpolitiker der rechtspopulistischen Partei Reform UK stehen durch eine Spendenaffäre unter Druck. Farage und Co sind sich keiner Schuld bewusst.",
-   "u": "https://taz.de/Spendenskandal-bei-Reform-UK/!6210372/",
-   "q": "taz",
-   "d": "2026-09-04T14:35:00+00:00"
-  },
-  {
-   "t": "Hendrik Wüst auf Sommertour: Reservekanzler auf Mondmission",
-   "s": "Hendrik Wüst gilt als möglicher Merz-Ersatz. Auf Sommertour zeigt sich der NRW-Ministerpräsident schon mal als Zukunftsmacher.",
-   "u": "https://taz.de/Reservekanzler-Hendrik-Wuest-Wie-inszeniert-er-sich-auf-seiner-Sommertour/!6210357/",
-   "q": "taz",
-   "d": "2026-09-04T14:24:00+00:00"
-  },
-  {
-   "t": "Bas fordert Erhalt der VW-Produktionsstätten in Deutschland",
-   "s": "Bundesarbeitsministerin Bas fordert vom Autobauer VW, die Werke in Neckarsulm, Hannover, Emden und Zwickau zu sichern. Die Bundesregierung hofft vage auf \"zukunftsfähige Lösungen\". Tausende Stellen bei VW könnten wegbrechen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/vw-sparmassnahmen-politische-reaktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T14:12:47+00:00"
-  },
-  {
-   "t": "Folgen der Bluttat von Stade: Niedersachsens Migrationsbeauftragter tritt zurück",
-   "s": "Deniz Kurku, Niedersachsens Migrationsbeauftragter, gibt auf. Gegen seine Schwiegermutter wird im Zusammenhang mit dem Sechsfach-Mord von Stade ermittelt.",
-   "u": "https://taz.de/Folgen-der-Bluttat-von-Stade/!6210404/",
-   "q": "taz",
-   "d": "2026-09-04T14:12:00+00:00"
-  },
-  {
-   "t": "Zivilgesellschaft in Sachsen-Anhalt: Sie bleiben mit am Tisch",
-   "s": "In Wittenberg feiert das Bündnis „Wittenberg Weltoffen“ wenige Tage vor der Landtagswahl die Demokratie. Sprecher Carsten Liebelt über sein Engagement.",
-   "u": "https://taz.de/Zivilgesellschaft-in-Sachsen-Anhalt/!6209310/",
-   "q": "taz",
-   "d": "2026-09-04T13:58:00+00:00"
-  },
-  {
-   "t": "Wie mit \"Durchstechereien\" Politik gemacht wird",
-   "s": "Erst die Vereine, die Zuckersteuer, dann ein interner Brief: Durchgestochene Papiere sind ein altes Mittel der Politik - im \"Herbst der Reformen\" und bei knappen Mehrheitsverhältnissen aber ein Risiko. Von Sarah Beham und Chris Berdrow.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/leaks-politik-bundesregierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T13:21:25+00:00"
-  },
-  {
-   "t": "EU-Rechnungsprüfer warnen: Trotz hoher Verteidigungsausgaben schlecht gerüstet",
-   "s": "Der Europäische Rechnungshof kritisiert die Ausgabenpolitik bei der Rüstung. Es geht um Schulden – und Druck auf das EU-Budget.",
-   "u": "https://taz.de/EU-Rechnungspruefer-warnen/!6210381/",
-   "q": "taz",
-   "d": "2026-09-04T13:05:00+00:00"
-  },
-  {
-   "t": "Nahostdiskurs und Berliner Wahlkampf: Wie kaputt die Lage ist",
-   "s": "HipHop steht für den Versuch, andere Lösungen für Konflikte zu finden als dumpfe Brutalität. Leute wie der Rapper Dahabflex müssen das noch lernen.",
-   "u": "https://taz.de/Nahostdiskurs-und-Berliner-Wahlkampf/!6210375/",
-   "q": "taz",
-   "d": "2026-09-04T13:00:00+00:00"
   }
  ]
 }

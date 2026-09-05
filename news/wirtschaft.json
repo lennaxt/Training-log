@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-05T07:41:28+00:00",
+ "updated": "2026-09-05T12:44:08+00:00",
  "items": [
+  {
+   "t": "EU-Kommission plant schärfere Regeln für Airbnb & Co.",
+   "s": "Sie blockieren dringend benötigten Wohnraum und treiben Mieten nach oben: Daher will die EU nun gegen Kurzzeitvermieter wie Airbnb vorgehen. In Paris, Barcelona und Venedig gibt es bereits Regeln, aber jetzt sind einheitliche Vorschriften geplant.",
+   "u": "https://www.tagesschau.de/wirtschaft/eu-regeln-kurzzeitvermietung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T09:17:45+00:00"
+  },
   {
    "t": "Ist Sachsen-Anhalt wirtschaftlich abgehängt?",
    "s": "Die Wirtschaftslage ist bei der Wahl in Sachsen-Anhalt ein wichtiges Thema. Das Bundesland altert und schrumpft, die Arbeitslosigkeit ist eher hoch. Manche Sorgen kennen aber auch Westregionen - und es gibt Standort-Vorteile. Von Bianca von der Au.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/ernteausfaelle-krise-rainer-100.html",
    "q": "Tagesschau",
    "d": "2026-09-02T18:30:29+00:00"
-  },
-  {
-   "t": "Kommentar zu Krankschreibungen - Die Politik sollte die Idee schnell beerdigen",
-   "s": "Bundesarbeitsministerin Bas sollte einen Weg finden, um diese unsinnige Verständigung der Koalition auf ein Attest gleich am ersten Krankheitstag zu stoppen. Diese geplante Attestpflicht ist praxisfern und wird keine Fehlzeit weniger bringen.Von Birgid Becker",
-   "u": "https://www.deutschlandfunk.de/kommentar-zu-krankschreibungen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-31T14:38:00+00:00"
   }
  ]
 }

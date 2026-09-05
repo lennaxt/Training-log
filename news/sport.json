@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-05T07:41:32+00:00",
+ "updated": "2026-09-05T12:44:11+00:00",
  "items": [
+  {
+   "t": "Nach Sturzflut im Himalaya: Retter bergen in Nepal zwei weitere Überlebende",
+   "s": "Die Retter in Nepal können zwei weitere Erfolge verbuchen. Sie finden einen weiteren Arbeiter in einem Tunnel und eine Frau in den Trümmern eines Hauses.",
+   "u": "https://taz.de/Nach-Sturzflut-im-Himalaya/!6210498/",
+   "q": "taz",
+   "d": "2026-09-05T11:21:00+00:00"
+  },
   {
    "t": "Flutkatastrophe in Nepal: „Der Geruch verwesender Leichen liegt in der Luft“",
    "s": "Anhand von Fotos müssen Menschen in Nepal ihre vermissten Angehörigen identifizieren. Den Krankenhäusern geht der Lagerraum für die vielen Toten aus.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Militaermanoever-zwischen-USA-und-Suedkorea/!6204996/",
    "q": "taz",
    "d": "2026-08-17T16:22:00+00:00"
-  },
-  {
-   "t": "Trump will weniger Militär in Südkorea: Schockwellen in Seoul",
-   "s": "Bei US-Präsident Donald Trump ist längst nicht mehr klar, welches der beiden Koreas Verbündeter ist und welches ein Schurkenstaat. Das hat auch für Europa Folgen.",
-   "u": "https://taz.de/Trump-will-weniger-Militaer-in-Suedkorea/!6204979/",
-   "q": "taz",
-   "d": "2026-08-17T13:43:00+00:00"
   }
  ]
 }
