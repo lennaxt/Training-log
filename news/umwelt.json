@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-05T17:21:12+00:00",
+ "updated": "2026-09-05T22:55:11+00:00",
  "items": [
+  {
+   "t": "Rheinmetall Entwaffnen in Köln: Abschlussdemonstration nach Zusammenstößen unterbrochen",
+   "s": "Eine Woche protestiert „Rheinmetall Entwaffnen“ in Köln gegen Aufrüstung. Die Abschlussdemo endet für einen Teil im Polizeikessel.",
+   "u": "https://taz.de/Rheinmetall-Entwaffnen-in-Koeln/!6208939/",
+   "q": "taz",
+   "d": "2026-09-05T18:20:00+00:00"
+  },
+  {
+   "t": "Punksänger Monchi im Gespräch: „Gehen? Digga, ist das euer Ernst?“",
+   "s": "Jan Gorkow, besser bekannt als Monchi, Sänger der Band Feine Sahne Fischfilet, erzählt von der Kraft des Machens und warum er nicht mehr alle „Cops“ für „Bastards“ hält.",
+   "u": "https://taz.de/Punksaenger-Monchi-im-Gespraech/!6206560/",
+   "q": "taz",
+   "d": "2026-09-05T18:06:00+00:00"
+  },
   {
    "t": "Superwahlkreis Querfurt: Zwischen Gratiswurst, dem linken Pfarrer und Rechtsextremen",
    "s": "In Sachsen-Anhalts brisantestem Wahlkreis geht es rund: ein Streifzug durch ein Burggewölbe, über einen Campingplatz und ein AfD-Familienfest.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Anschlag-auf-Muenchner-Firmen/!6210204/",
    "q": "taz",
    "d": "2026-09-03T17:05:00+00:00"
-  },
-  {
-   "t": "Werkstätten für behinderte Menschen: Nur 200 Euro Monatslohn",
-   "s": "Jürgen Linnemann will per Musterprozess erreichen, dass in Werkstätten für behinderte Menschen Mindestlohn bezahlt wird. Er klagt gegen Lohndumping.",
-   "u": "https://taz.de/Werkstaetten-fuer-behinderte-Menschen/!6209956/",
-   "q": "taz",
-   "d": "2026-09-03T16:44:00+00:00"
-  },
-  {
-   "t": "Sabotage an Umspannwerk Jänschwalde: Bekennerschreiben zu Anschlag aufgetaucht",
-   "s": "Nach dem Anschlag auf das Umspannwerk bei Jänschwalde erreicht die taz ein Bekennerschreiben. Ist es authentisch? Das lässt sich nicht zweifelsfrei klären.",
-   "u": "https://taz.de/Bekennerschreiben-zu-Anschlag-in-Jaenschwalde-aufgetaucht/!6209920/",
-   "q": "taz",
-   "d": "2026-09-03T16:21:00+00:00"
   }
  ]
 }

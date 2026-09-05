@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-09-05T17:21:10+00:00",
+ "updated": "2026-09-05T22:55:08+00:00",
  "items": [
+  {
+   "t": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
+   "s": "Mit einer \"Idee für den Frieden\" sind die US-Sondergesandten Witkoff und Kushner nach Russland gereist und dort von Präsident Putin empfangen worden. Details des Friedensplans bleiben unbekannt - als nächstes wird er in Kiew vorgestellt.",
+   "u": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T20:42:55+00:00"
+  },
   {
    "t": "USA greifen iranische Öltanker an",
    "s": "Vor der Küste Irans hat das US-Militär drei iranische Öltanker außer Gefecht gesetzt. Es spricht von einer Reaktion auf Attacken der Revolutionsgarde: Diese soll zuvor Raketen auf Marineschiffe abgefeuert haben.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
    "q": "Tagesschau",
    "d": "2026-09-03T05:39:36+00:00"
-  },
-  {
-   "t": "Forderung der AfD: Wie geht Heimunterricht in Österreich?",
-   "s": "Bildungspflicht statt Schulpflicht ist eine zentrale Forderung der AfD vor der Landtagswahl in Sachsen-Anhalt. Als Vorbild nennt die Partei Österreich. Wie funktioniert der \"häusliche Unterricht\" dort? Von Andreas Herz.",
-   "u": "https://www.tagesschau.de/ausland/europa/oesterreich-hausunterricht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T05:01:53+00:00"
   }
  ]
 }

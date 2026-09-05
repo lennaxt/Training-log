@@ -1,7 +1,42 @@
 {
  "name": "Inland",
- "updated": "2026-09-05T17:21:10+00:00",
+ "updated": "2026-09-05T22:55:07+00:00",
  "items": [
+  {
+   "t": "Rheinmetall Entwaffnen in Köln: Abschlussdemonstration nach Zusammenstößen unterbrochen",
+   "s": "Eine Woche protestiert „Rheinmetall Entwaffnen“ in Köln gegen Aufrüstung. Die Abschlussdemo endet für einen Teil im Polizeikessel.",
+   "u": "https://taz.de/Rheinmetall-Entwaffnen-in-Koeln/!6208939/",
+   "q": "taz",
+   "d": "2026-09-05T18:20:00+00:00"
+  },
+  {
+   "t": "Klostreit in Wien: Null Cent fürs Pissoir, fünfzig Cent für die Kabine",
+   "s": "Eine junge Frau will die Ungleichbehandlung in öffentlichen WCs nicht akzeptieren und verklagt die Stadt Wien. Wird sie Erfolg haben?",
+   "u": "https://taz.de/Warum-muessen-Frauen-fuer-die-Toilette-zahlen-und-Maenner-nicht-Eine-Frau-verklagt-Wien/!6206506/",
+   "q": "taz",
+   "d": "2026-09-05T18:18:00+00:00"
+  },
+  {
+   "t": "Zivilgesellschaft in Sachsen-Anhalt: Bündnis gegen die Einsamkeit",
+   "s": "In den ländlichen Regionen Sachsen-Anhalts stellt sich Annekatrin Els vom Zerbster Bündnis für Demokratie gegen den Rechtsruck.",
+   "u": "https://taz.de/Zivilgesellschaft-in-Sachsen-Anhalt/!6208762/",
+   "q": "taz",
+   "d": "2026-09-05T18:12:00+00:00"
+  },
+  {
+   "t": "Punksänger Monchi im Gespräch: „Gehen? Digga, ist das euer Ernst?“",
+   "s": "Jan Gorkow, besser bekannt als Monchi, Sänger der Band Feine Sahne Fischfilet, erzählt von der Kraft des Machens und warum er nicht mehr alle „Cops“ für „Bastards“ hält.",
+   "u": "https://taz.de/Punksaenger-Monchi-im-Gespraech/!6206560/",
+   "q": "taz",
+   "d": "2026-09-05T18:06:00+00:00"
+  },
+  {
+   "t": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
+   "s": "Ein 48-Jähriger hat sich in zwei Schreiben zu den versuchten Sabotageakten gegen das Stromnetz bekannt. Darin nennt er seinen Namen, er wurde aber noch nicht gefasst. Nun setzt die Polizei auf eine öffentliche Fahndung.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T17:52:19+00:00"
+  },
   {
    "t": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
    "s": "Eine kriminelle Gruppe greift die Berliner Verwaltung an und veröffentlicht große Mengen von Daten im Darknet. Um welche Informationen geht es? Welche Gefahren birgt deren Veröffentlichung? Antworten auf die wichtigsten Fragen.",
@@ -39,7 +74,7 @@
   },
   {
    "t": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
-   "s": "Personalakten, Stundenzettel, Telefonnummern - im Darknet haben Hacker etwa 1,4 Millionen Daten veröffentlicht, die von der Berliner Verwaltung gestohlen wurden. Das zuständige Bundesamt warnt vor Risiken infolge des Leaks.",
+   "s": "Personalakten, Stundenzettel, Telefonnummern - im Darknet haben Hacker etwa 1,4 Millionen Daten veröffentlicht, die sie der Berliner Verwaltung gestohlen hatten. Das zuständige Bundesamt warnt vor Risiken infolge des Leaks.",
    "u": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
    "q": "Tagesschau",
    "d": "2026-09-05T14:03:56+00:00"
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Streit-um-abschlagsfreie-Fruehrente/!6206521/",
    "q": "taz",
    "d": "2026-09-05T07:27:00+00:00"
-  },
-  {
-   "t": "Cyberangriff: Hacker-Verein findet Berlins Nein zur Erpressung richtig",
-   "s": "Eine Hackergruppe hat sensible Daten bei der Berliner Verwaltung erbeutet. Nun stehen sie im Darknet. Gabriela Bogk vom Chaos Computer Club sieht ein Problem im Vorfeld: Die Datensicherheit in Berlin ist notorisch mies. Wie könnte man nachbessern?Heinemann, Christoph",
-   "u": "https://www.deutschlandfunk.de/hat-berliner-senat-richtig-gehandelt-interview-mit-gabriela-bogk-ccc-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-05T05:38:00+00:00"
-  },
-  {
-   "t": "So ist die Stimmung vor der Landtagswahl in Sachsen-Anhalt",
-   "s": "Vor der Landtagswahl in Sachsen-Anhalt dominieren Unzufriedenheit und Misstrauen. Die AfD führt in Umfragen. Integration, Bildung und Wirtschaft sind die wichtigsten Themen. Von Katharina Gebauer.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-stimmung-themen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T05:25:50+00:00"
-  },
-  {
-   "t": "So erklärt Thüringens Digitalminister seinen Ausstieg aus dem BSW",
-   "s": "Nach dem Bruch in Thüringen wirft Ex-BSW-Digitalminister Steffen Schütz der Parteiführung Destabilisierung und Ideologie vor. Die Annäherung an die AfD trage man aus Gewissensgründen nicht mit. Schütz bekennt sich aber zur Koalition mit CDU und SPD.Heinemann, Christoph",
-   "u": "https://www.deutschlandfunk.de/befreiungsschlag-fuer-wen-interv-mit-steffen-schuetz-digitalmin-ex-bsw-thuer-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-05T05:15:00+00:00"
-  },
-  {
-   "t": "Sabotage an Umspannwerken - Polizei fahndet nach Verdächtigem aus NRW",
-   "s": "Nach der Sabotage an Umspannwerken in Nordrhein-Westfalen und Brandenburg fahndet die Polizei nach einem Verdächtigen. Der Mann hatte Bekennerschreiben verfasst. Ob er aber auch der Täter ist, ist noch offen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/sabotageversuche-dobrindt-reul-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T19:30:24+00:00"
-  },
-  {
-   "t": "Szenario einer AfD-Regierung: Wer will noch Rich­te­r:in in Sachsen-Anhalt werden?",
-   "s": "Wenn die AfD in Sachsen-Anhalt regiert, wollen viele angehende Ju­ris­t:in­nen dort nicht arbeiten, zeigt eine Umfrage. Dabei braucht die Justiz dringend Nachwuchs.",
-   "u": "https://taz.de/Wenn-die-AfD-an-die-Macht-kommt-Wer-will-dann-noch-Richterin-in-Sachsen-Anhalt-werden/!6209546/",
-   "q": "taz",
-   "d": "2026-09-04T17:51:00+00:00"
   }
  ]
 }

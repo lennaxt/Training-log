@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-05T17:21:13+00:00",
+ "updated": "2026-09-05T22:55:12+00:00",
  "items": [
+  {
+   "t": "Klostreit in Wien: Null Cent fürs Pissoir, fünfzig Cent für die Kabine",
+   "s": "Eine junge Frau will die Ungleichbehandlung in öffentlichen WCs nicht akzeptieren und verklagt die Stadt Wien. Wird sie Erfolg haben?",
+   "u": "https://taz.de/Warum-muessen-Frauen-fuer-die-Toilette-zahlen-und-Maenner-nicht-Eine-Frau-verklagt-Wien/!6206506/",
+   "q": "taz",
+   "d": "2026-09-05T18:18:00+00:00"
+  },
   {
    "t": "Exklave Ceuta: Spanische Regierung übernimmt Kontrolle über Hafen",
    "s": "Die Regierung von Premierminister Sánchez setzt sich über die Regionalverwaltung hinweg – und errichtet nun ein Zeltlager für Geflüchtete an einer sensiblen Stelle.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Referendum-in-Island/!6208965/",
    "q": "taz",
    "d": "2026-09-02T09:27:00+00:00"
-  },
-  {
-   "t": "Frauenrechte rot-weiß-rot: Kämpfen lernen",
-   "s": "Der Wiener Verein „Nachbarinnen“ fördert isolierte Migrantinnen. Er zeigt, wie Österreich funktioniert und wie Frauen ihre Rechte durchsetzen können.",
-   "u": "https://taz.de/Frauenrechte-rot-weiss-rot/!6209058/",
-   "q": "taz",
-   "d": "2026-09-02T08:18:00+00:00"
   }
  ]
 }

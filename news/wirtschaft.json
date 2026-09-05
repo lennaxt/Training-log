@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-05T17:21:11+00:00",
+ "updated": "2026-09-05T22:55:09+00:00",
  "items": [
+  {
+   "t": "US-Rekordschulden von 40 Billionen Dollar beunruhigen Ökonomen",
+   "s": "Die US-Staatsschulden liegen inzwischen bei mehr als 40 Billionen Dollar. Immer mehr Geld aus dem Haushalt fließt so in Zinszahlungen - und weniger bleibt übrig für Investitionen in die Zukunft des Landes. Von Anne Schneider.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-haushalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T19:14:33+00:00"
+  },
   {
    "t": "EU-Kommission plant schärfere Regeln für Airbnb & Co.",
    "s": "Sie blockieren dringend benötigten Wohnraum und treiben Mieten nach oben: Daher will die EU nun gegen Kurzzeitvermieter wie Airbnb vorgehen. In Paris, Barcelona und Venedig gibt es bereits Regeln, aber jetzt sind einheitliche Vorschriften geplant.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/frankreich-staatsschulden-100.html",
    "q": "Tagesschau",
    "d": "2026-09-03T07:14:39+00:00"
-  },
-  {
-   "t": "Ernteausfälle durch Hitze - Agrarminister Rainer kündigt Hilfen für Bauern an",
-   "s": "Die durch Hitze und Trockenheit geschmälerte Ernte ist laut Bundesagrarminister Rainer eine \"herbe Enttäuschung\" für viele Landwirte. Der CSU-Politiker kündigte Hilfen für die betroffenen Betriebe an.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/ernteausfaelle-krise-rainer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-02T18:30:29+00:00"
   }
  ]
 }
