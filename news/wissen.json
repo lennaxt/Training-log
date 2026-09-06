@@ -1,7 +1,21 @@
 {
  "name": "Wissen",
- "updated": "2026-09-04T07:59:41+00:00",
+ "updated": "2026-09-05T22:55:10+00:00",
  "items": [
+  {
+   "t": "Rakete Spectrum erreicht Orbit - \"Deutschland kann Raumfahrt\"",
+   "s": "Meilenstein in der deutschen Raumfahrtgeschichte: Die Trägerrakete Spectrum hat bei einem Testflug vom norwegischen Weltraumbahnhof Andøya aus den Orbit erreicht. Das Raketen-Unternehmen spricht von einer europäischen Premiere.",
+   "u": "https://www.tagesschau.de/wissen/isar-aerospace-rakete-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-05T22:20:33+00:00"
+  },
+  {
+   "t": "EU verzeichnet neue Höchststände bei Syphilis und Tripper",
+   "s": "Die Zahl sexuell übertragbarer Bakterieninfektionen hat in der EU stark zugenommen. Einige der Krankheiten gehen mit drastischen Symptomen einher. Dabei ist der Schutz ganz einfach: Kondome. Von Joachim Budde.",
+   "u": "https://www.tagesschau.de/wissen/tag-der-sexuellen-gesundheit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-04T16:10:06+00:00"
+  },
   {
    "t": "Ig-Nobelpreise: Unterhosen verbuddeln für die Wissenschaft",
    "s": "Erst lachen, dann nachdenken: Um einen Ig-Nobelpreis zu bekommen, muss ein Forschungsthema lustig wirken - aber trotzdem etwas Ernsthaftes dahinterstecken. Dieses Jahr wird der Preis zum ersten Mal in Zürich vergeben. Von David Beck.",
@@ -45,13 +59,6 @@
    "d": "2026-09-02T08:29:40+00:00"
   },
   {
-   "t": "Wie schwer sich Künstliche Intelligenz noch mit Dialekten tut",
-   "s": "An so manchen Dingen scheitert Künstliche Intelligenz bislang. Wenn Dialektsprecher mit Spracherkennungs-KI interagieren, kommt es oft zu kuriosen Missverständnissen. Ein Forschungsprojekt in Bayern will das ändern. Von Hermann Scholz.",
-   "u": "https://www.tagesschau.de/wissen/forschung/kuenstliche-intelligenz-dialekt-bayrisch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-01T09:41:48+00:00"
-  },
-  {
    "t": "Neue US-Studie: Verursachen Abnehmspritzen Haarausfall?",
    "s": "Viele Diabetes-Medikamente werden auch bei starkem Übergewicht eingesetzt. Eine US-Studie zeigt nun: Bei GLP-1-Mitteln ist das Risiko für Haarausfall höher als bei anderen Medikamenten. Von Doris Tromballa.",
    "u": "https://www.tagesschau.de/wissen/wissen-abnehmspritze-glp1-haarausfall-100.html",
@@ -71,13 +78,6 @@
    "u": "https://www.tagesschau.de/video/video-1640352.html",
    "q": "Tagesschau",
    "d": "2026-08-31T15:23:01+00:00"
-  },
-  {
-   "t": "Bericht: Korallenriffe haben kaum noch Zeit zur Erholung",
-   "s": "Korallenriffe weltweit geraten zunehmend unter Druck: Immer häufiger gibt es schwere Bleichen - und die Zeit zur Erholung wird immer kürzer. Experten warnen vor einer \"Abwärtsspirale\".",
-   "u": "https://www.tagesschau.de/wissen/korallenriffe-zustand-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T08:11:46+00:00"
   },
   {
    "t": "Hype um Koffein-Shampoos - ist der Trend berechtigt?",

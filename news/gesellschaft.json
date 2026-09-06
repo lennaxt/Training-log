@@ -1,7 +1,70 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-04T07:59:43+00:00",
+ "updated": "2026-09-05T22:55:12+00:00",
  "items": [
+  {
+   "t": "Klostreit in Wien: Null Cent fürs Pissoir, fünfzig Cent für die Kabine",
+   "s": "Eine junge Frau will die Ungleichbehandlung in öffentlichen WCs nicht akzeptieren und verklagt die Stadt Wien. Wird sie Erfolg haben?",
+   "u": "https://taz.de/Warum-muessen-Frauen-fuer-die-Toilette-zahlen-und-Maenner-nicht-Eine-Frau-verklagt-Wien/!6206506/",
+   "q": "taz",
+   "d": "2026-09-05T18:18:00+00:00"
+  },
+  {
+   "t": "Exklave Ceuta: Spanische Regierung übernimmt Kontrolle über Hafen",
+   "s": "Die Regierung von Premierminister Sánchez setzt sich über die Regionalverwaltung hinweg – und errichtet nun ein Zeltlager für Geflüchtete an einer sensiblen Stelle.",
+   "u": "https://taz.de/Exklave-Ceuta/!6210508/",
+   "q": "taz",
+   "d": "2026-09-05T14:41:00+00:00"
+  },
+  {
+   "t": "Krieg in der Ukraine: Für Trumps Schwiegersohn macht Putin eine Ausnahme",
+   "s": "Jared Kushner und Trumps Golfpartner Steve Witkoff sind auf Friedensmission in Moskau – und fliegen dann in die Ukraine. Russlands Präsident hat dafür 72 Stunden Pause für Angriffe auf Kyjiw angeordnet.",
+   "u": "https://taz.de/Krieg-in-der-Ukraine/!6210492/",
+   "q": "taz",
+   "d": "2026-09-05T11:18:00+00:00"
+  },
+  {
+   "t": "Return Hubs in der EU: Dänemark will in „Partnerländer“ abschieben",
+   "s": "Die Härte der EU-Asylpolitik nimmt Formen an. Dänemark will schon 2027 abgelehnte Asyl­be­wer­be­r:in­nen in Abschiebezentren außerhalb der EU bringen.",
+   "u": "https://taz.de/Return-Hubs-in-der-EU/!6210468/",
+   "q": "taz",
+   "d": "2026-09-04T17:37:00+00:00"
+  },
+  {
+   "t": "Russische Attacken auf Kyjiw: Drohne trifft Zentrale des Geheimdienstes",
+   "s": "Während Kyjiw auf eine US-Delegation wartet, schickt Russland Drohnen. Eine traf ein strategisch wichtiges Ziel: die Zentrale des Geheimdienstes SBU.",
+   "u": "https://taz.de/Russische-Attacken-auf-Kyjiw/!6210454/",
+   "q": "taz",
+   "d": "2026-09-04T16:43:00+00:00"
+  },
+  {
+   "t": "Leichnam von Mladić in Serbien: Nächster Schritt zum Staatsbegräbnis",
+   "s": "Der Leichnam des „Schlächters vom Balkan“, Mladić, ist jetzt in Serbien. International gibt es scharfe Kritik an der Verherrlichung seiner Kriegsverbrechen.",
+   "u": "https://taz.de/Leichnam-von-Mladic-in-Serbien/!6210387/",
+   "q": "taz",
+   "d": "2026-09-04T14:47:00+00:00"
+  },
+  {
+   "t": "Spendenskandal bei Reform UK: Meinungsumfragen, die ihr Geld wert sind",
+   "s": "Spitzenpolitiker der rechtspopulistischen Partei Reform UK stehen durch eine Spendenaffäre unter Druck. Farage und Co sind sich keiner Schuld bewusst.",
+   "u": "https://taz.de/Spendenskandal-bei-Reform-UK/!6210372/",
+   "q": "taz",
+   "d": "2026-09-04T14:35:00+00:00"
+  },
+  {
+   "t": "EU-Rechnungsprüfer warnen: Trotz hoher Verteidigungsausgaben schlecht gerüstet",
+   "s": "Der Europäische Rechnungshof kritisiert die Ausgabenpolitik bei der Rüstung. Es geht um Schulden – und Druck auf das EU-Budget.",
+   "u": "https://taz.de/EU-Rechnungspruefer-warnen/!6210381/",
+   "q": "taz",
+   "d": "2026-09-04T13:05:00+00:00"
+  },
+  {
+   "t": "Eine Party für Meloni: Postfaschismus stabil",
+   "s": "Die italienische Ministerpräsidentin ist länger im Amt als jeder ihrer Vorgänger nach dem Zweiten Weltkrieg. Ihr Geschenk: neue Pläne zur Wahlrechtsreform.",
+   "u": "https://taz.de/Eine-Party-fuer-Meloni/!6210293/",
+   "q": "taz",
+   "d": "2026-09-04T11:58:00+00:00"
+  },
   {
    "t": "Vorstoß der Österreichischen Volkspartei: Der Islam als Ablenkungsmanöver",
    "s": "Verwaltung, Bildung oder Gesundheit – die Regierung Österreichs steht in der Kritik. Jetzt versucht sich die ÖVP mit einem neuen Feindbild: dem Islam.",
@@ -106,69 +169,6 @@
    "u": "https://taz.de/Referendum-in-Island/!6208965/",
    "q": "taz",
    "d": "2026-09-02T09:27:00+00:00"
-  },
-  {
-   "t": "Frauenrechte rot-weiß-rot: Kämpfen lernen",
-   "s": "Der Wiener Verein „Nachbarinnen“ fördert isolierte Migrantinnen. Er zeigt, wie Österreich funktioniert und wie Frauen ihre Rechte durchsetzen können.",
-   "u": "https://taz.de/Frauenrechte-rot-weiss-rot/!6209058/",
-   "q": "taz",
-   "d": "2026-09-02T08:18:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Selenskyj warnt Airlines in russischem Luftraum",
-   "s": "Der ukrainische Präsident warnt wegen massiver Droheneinsätze vor Flügen durch Russland. Putin räumt Schäden an 100 Schiffen ein. Drohnenangriff auf Odessa.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6209352/",
-   "q": "taz",
-   "d": "2026-09-02T06:30:00+00:00"
-  },
-  {
-   "t": "Bundesregierung beschuldigt Russland: Kein Krieg, aber Kriegsziel",
-   "s": "Vier Wochen nach dem gescheiterten Sprengstoffanschlag in Leipzig nennt die Bundesregierung Russland als Verantwortlichen. Überrascht ist kaum jemand.",
-   "u": "https://taz.de/Bundesregierung-beschuldigt-Russland/!6209135/",
-   "q": "taz",
-   "d": "2026-09-01T17:07:00+00:00"
-  },
-  {
-   "t": "Frankreichs extreme Rechte: Le Pen macht Schleierverbot zu ihrem Wahlkampfschlager",
-   "s": "Wieder einmal nutzt Marine Le Pen gezielt antiarabische Ressentiments für ihren Wahlkampf. Diesmal fordert sie ein Verhüllungsverbot in der Öffentlichkeit.",
-   "u": "https://taz.de/Frankreichs-extreme-Rechte/!6209105/",
-   "q": "taz",
-   "d": "2026-09-01T13:44:00+00:00"
-  },
-  {
-   "t": "Drohnen auf Leipziger Flughafen: Bundesregierung: Russland steckt hinter Sprengstoff-Drohne",
-   "s": "Die Bundesregierung macht Russland für den versuchten Anschlag in Leipzig verantwortlich. Berlin verhängt deshalb neue Strafmaßnahmen gegen Russland.",
-   "u": "https://taz.de/Drohnen-auf-Leipziger-Flughafen/!6209181/",
-   "q": "taz",
-   "d": "2026-09-01T12:07:00+00:00"
-  },
-  {
-   "t": "EU-Mercosur-Handelsabkommen: EU setzt Fleischimporte aus Brasilien aus",
-   "s": "Die EU-Kommission erklärte, Brasilien müsse nachweisen, ob Exporteure die EU-Vorgaben zum Einsatz von Antibiotika in der Tierhaltung erfüllen.",
-   "u": "https://taz.de/EU-Mercosur-Handelsabkommen/!6209039/",
-   "q": "taz",
-   "d": "2026-09-01T08:23:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Klingbeil rügt US-Regierung, Bomben auf Kyjiw",
-   "s": "USA laden russischen Minister zum G20-Finanzministertreffen ein. Lars Klingbeil gefällt das gar nicht. Mindestens vier Tote bei russischem Angriff auf Kyjiw.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6209028/",
-   "q": "taz",
-   "d": "2026-09-01T06:05:00+00:00"
-  },
-  {
-   "t": "Russische Schattenflotte: An Rechtsmitteln fehlt es nicht",
-   "s": "Greenpeace fordert, das internationale Recht gegen die russische Schattenflotte stärker durchzusetzen. So würden auch Umweltgefahren sinken.",
-   "u": "https://taz.de/Russische-Schattenflotte/!6208738/",
-   "q": "taz",
-   "d": "2026-09-01T05:18:00+00:00"
-  },
-  {
-   "t": "Russische Angriffe auf Kyjiw: Chaos, leere Regale und viel Wut",
-   "s": "Russland fliegt derzeit mehr Luftangriffe auf die ukrainische Hauptstadt. Angegriffen werden nun auch Lagerhallen, Supermärkte und Tankstellen.",
-   "u": "https://taz.de/Russische-Angriffe-auf-Kyjiw/!6208783/",
-   "q": "taz",
-   "d": "2026-08-31T17:47:00+00:00"
   }
  ]
 }
