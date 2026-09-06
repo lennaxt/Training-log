@@ -1,7 +1,42 @@
 {
  "name": "Inland",
- "updated": "2026-09-05T22:55:07+00:00",
+ "updated": "2026-09-06T07:55:23+00:00",
  "items": [
+  {
+   "t": "Dobrindt plant Schutzschirme gegen russische Drohnen- und Cyberattacken",
+   "s": "Innenminister Dobrindt will härter gegen russische Sabotageakte vorgehen. Laut \"BamS\" sollen Einheiten den Luftraum über strategisch wichtigen Städten schützen, Drohnen abfangen und Sprengsätze entschärfen. Auch ein digitales Sicherheitsnetz ist geplant.",
+   "u": "https://www.tagesschau.de/inland/drohnenabwehr-leipzig-regierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T07:13:44+00:00"
+  },
+  {
+   "t": "Sachsen-Anhalt: Tausende vor der Wahl auf der Straße",
+   "s": "Am Vorabend der Wahl ziehen Tausende Antifas durch Halle und Magdeburg. Immer dabei: Das Ringen damit, vor Ort weiterzumachen – oder zu gehen.",
+   "u": "https://taz.de/Sachsen-Anhalt/!6210514/",
+   "q": "taz",
+   "d": "2026-09-06T06:36:00+00:00"
+  },
+  {
+   "t": "Wahl in Sachsen-Anhalt: Braun oder nicht so braun",
+   "s": "Bei der Landtagwahl in Sachsen-Anhalt könnte die AfD erstmals eine absolute Mehrheit gewinnen. Oder sind alle zusammen doch noch stärker? Die News am Wahltag.",
+   "u": "https://taz.de/Landtagswahl-live-Wie-braun-wird-Sachsen-Anhalt/!6210219/",
+   "q": "taz",
+   "d": "2026-09-06T06:14:00+00:00"
+  },
+  {
+   "t": "Vor der Landtagswahl in Sachsen-Anhalt: Plattenverschiebung",
+   "s": "In Halle-Neustadt wohnen Jüngere mit Migrationsgeschichte und Ältere mit DDR-Biografie. Wie schauen sie auf ihr Viertel und die Politik?",
+   "u": "https://taz.de/Vor-der-Landtagswahl-in-Sachsen-Anhalt/!6206552/",
+   "q": "taz",
+   "d": "2026-09-06T05:57:00+00:00"
+  },
+  {
+   "t": "Was zur Wahl in Sachsen-Anhalt wichtig ist",
+   "s": "Wer wird in Sachsen-Anhalt künftig regieren? Das Land wird seit mehr als 20 Jahren von der CDU geführt. Doch nun liegt die AfD in Umfragen mit großem Vorsprung vorne. Sie möchte die alleinige Macht. Doch auch andere Optionen sind möglich.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-fragen-antworten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T03:02:56+00:00"
+  },
   {
    "t": "Rheinmetall Entwaffnen in Köln: Abschlussdemonstration nach Zusammenstößen unterbrochen",
    "s": "Eine Woche protestiert „Rheinmetall Entwaffnen“ in Köln gegen Aufrüstung. Die Abschlussdemo endet für einen Teil im Polizeikessel.",
@@ -134,41 +169,6 @@
    "u": "https://www.deutschlandfunk.de/landtagswahlen-2026-rlp-bw-mv-berlin-sachsen-anhalt-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-05T10:22:00+00:00"
-  },
-  {
-   "t": "Anschlagserie auf das Stromnetz: Fahndung nach Daniel V. läuft auf Hochtouren",
-   "s": "Auch nördlich von Bautzen wurden am Freitagabend „unbekannte Sprengvorrichtungen“ gefunden. Zudem kam es im Zuge der Suche nach dem Verdächtigen zu einem Polizeieinsatz bei einer Stromanlage nahe Hamm.",
-   "u": "https://taz.de/Anschlagserie-auf-das-Stromnetz/!6210489/",
-   "q": "taz",
-   "d": "2026-09-05T09:12:00+00:00"
-  },
-  {
-   "t": "Nach Cyberangriff auf Berlins Verwaltung: Stundenzettel im Darknet",
-   "s": "Das Ultimatum an den Berliner Senat ist abgelaufen. Nach ihrem erfolglosen Erpressungsversuch macht die Hackergruppe Rhysida die gekaperten Daten öffentlich zugänglich.",
-   "u": "https://taz.de/Nach-Cyberangriff-auf-Berlins-Verwaltung/!6210487/",
-   "q": "taz",
-   "d": "2026-09-05T08:20:00+00:00"
-  },
-  {
-   "t": "Wahlplakate 2026: Von „Milfs“ bis zu „männerfreien Innenstädten“",
-   "s": "Sachsen-Anhalt, Mecklenburg-Vorpommern, Berlin und auch der Kommunalwahlkampf in Niedersachsen: Was die Parteien im heißen Wahlkampfsommer auf ihre Plakate schreiben.",
-   "u": "https://taz.de/Wahlplakate-2026/!6205095/",
-   "q": "taz",
-   "d": "2026-09-05T07:44:00+00:00"
-  },
-  {
-   "t": "Polizei fahndet nach Sabotage an Umspannwerken nach Verdächtigem",
-   "s": "Die Polizei fahndet weiter nach einem Mann, der sich zu Sabotageakten auf das Stromnetz bekannt hat. Nach Anschlagsversuchen in Brandenburg und Nordrhein-Westfalen wurden auch in Sachsen nahe Umspannwerken Sprengvorrichtungen entdeckt.",
-   "u": "https://www.tagesschau.de/inland/fahndung-sabotage-stromnetz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T07:41:02+00:00"
-  },
-  {
-   "t": "Streit um abschlagsfreie Frührente: Den Beamten nehmen, den Frührentnern geben?",
-   "s": "Die Bundesregierung will die abschlagsfreie Frührente abschaffen. Acht Länderchefs stellen sich quer. Die taz hat sie gefragt, wer das bezahlen soll.",
-   "u": "https://taz.de/Streit-um-abschlagsfreie-Fruehrente/!6206521/",
-   "q": "taz",
-   "d": "2026-09-05T07:27:00+00:00"
   }
  ]
 }

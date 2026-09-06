@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-05T22:55:11+00:00",
+ "updated": "2026-09-06T07:55:26+00:00",
  "items": [
+  {
+   "t": "Sachsen-Anhalt: Tausende vor der Wahl auf der Straße",
+   "s": "Am Vorabend der Wahl ziehen Tausende Antifas durch Halle und Magdeburg. Immer dabei: Das Ringen damit, vor Ort weiterzumachen – oder zu gehen.",
+   "u": "https://taz.de/Sachsen-Anhalt/!6210514/",
+   "q": "taz",
+   "d": "2026-09-06T06:36:00+00:00"
+  },
+  {
+   "t": "Wahl in Sachsen-Anhalt: Braun oder nicht so braun",
+   "s": "Bei der Landtagwahl in Sachsen-Anhalt könnte die AfD erstmals eine absolute Mehrheit gewinnen. Oder sind alle zusammen doch noch stärker? Die News am Wahltag.",
+   "u": "https://taz.de/Landtagswahl-live-Wie-braun-wird-Sachsen-Anhalt/!6210219/",
+   "q": "taz",
+   "d": "2026-09-06T06:14:00+00:00"
+  },
+  {
+   "t": "Vor der Landtagswahl in Sachsen-Anhalt: Plattenverschiebung",
+   "s": "In Halle-Neustadt wohnen Jüngere mit Migrationsgeschichte und Ältere mit DDR-Biografie. Wie schauen sie auf ihr Viertel und die Politik?",
+   "u": "https://taz.de/Vor-der-Landtagswahl-in-Sachsen-Anhalt/!6206552/",
+   "q": "taz",
+   "d": "2026-09-06T05:57:00+00:00"
+  },
   {
    "t": "Rheinmetall Entwaffnen in Köln: Abschlussdemonstration nach Zusammenstößen unterbrochen",
    "s": "Eine Woche protestiert „Rheinmetall Entwaffnen“ in Köln gegen Aufrüstung. Die Abschlussdemo endet für einen Teil im Polizeikessel.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Nach-dem-CSD-Anschlag/!6209942/",
    "q": "taz",
    "d": "2026-09-03T18:13:00+00:00"
-  },
-  {
-   "t": "AfD-Kandidat in Sachsen-Anhalt: Heute Wahlkampf, früher Kampftraining mit Neonazis",
-   "s": "Ein Video zeigt den AfD-Kandidaten Sebastian Koch augenscheinlich beim Kampftraining mit Neonazis. Die Polizei ermittelt bereits zu einer verbotenen Gruppe.",
-   "u": "https://taz.de/AfD-Kandidat-in-Sachsen-Anhalt/!6209813/",
-   "q": "taz",
-   "d": "2026-09-03T18:12:00+00:00"
-  },
-  {
-   "t": "FDP in Ostdeutschland: Kubicki besichtigt liberales Niemandsland",
-   "s": "Die FDP wird in Sachsen-Anhalt und Mecklenburg-Vorpommern wohl aus den Landtagen fliegen. Der Bundesvorsitzende lässt sich davon nicht die Laune verderben.",
-   "u": "https://taz.de/FDP-in-Ostdeutschland/!6209917/",
-   "q": "taz",
-   "d": "2026-09-03T18:08:00+00:00"
-  },
-  {
-   "t": "Anschlag auf Münchner Firmen: Drei Anschläge, zwei Verdächtige, viele Fragen",
-   "s": "Rüstungsunternehmen stehen verstärkt im Visier russischer und linker Attentäter. Im Münchner Osten flogen jetzt Brandsätze.",
-   "u": "https://taz.de/Anschlag-auf-Muenchner-Firmen/!6210204/",
-   "q": "taz",
-   "d": "2026-09-03T17:05:00+00:00"
   }
  ]
 }
