@@ -1,7 +1,49 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-06T12:53:37+00:00",
+ "updated": "2026-09-06T17:36:51+00:00",
  "items": [
+  {
+   "t": "Nach Austritten aus dem BSW: Neue Partei in Thüringen gegründet",
+   "s": "Das BSW in Thüringen zerfällt – nur noch zwei von ehemals 15 Landtagsabgeordneten gehören ihm an. Jetzt gründen Ehemalige eine neue Partei.",
+   "u": "https://taz.de/Nach-Austritten-aus-dem-BSW/!6210740/",
+   "q": "taz",
+   "d": "2026-09-06T17:32:00+00:00"
+  },
+  {
+   "t": "Anschlagsserie auf das Stromnetz: Ein unbelehrbarer Ideologe",
+   "s": "Innenminister Dobrindt (CSU) nutzt die Sabotageakte dazu, den „Linksgrünversifften“ einen Schlag zu versetzen. Das hat das Klima nicht verdient.",
+   "u": "https://taz.de/Anschlagsserie-auf-das-Stromnetz/!6210608/",
+   "q": "taz",
+   "d": "2026-09-06T17:18:00+00:00"
+  },
+  {
+   "t": "Landtagswahlen in Sachsen-Anhalt: Eimerweise rosa Briefe",
+   "s": "Vor der Wahl schürt die AfD Zweifel an der Briefwahl und warnt vor möglichem Betrug. In Magdeburg treffen Wahlhelfer auf rechte Wahlbeobachter.",
+   "u": "https://taz.de/Landtagswahlen-in-Sachsen-Anhalt/!6209768/",
+   "q": "taz",
+   "d": "2026-09-06T17:10:00+00:00"
+  },
+  {
+   "t": "Bearbeitungsstau für Visa im Iran: Bitte warten",
+   "s": "Iranische Studierende und Fachkräfte bekommen ihre Visa für Deutschland nur schleppend. Das Auswärtige Amt macht wenig Hoffnung auf Besserung.",
+   "u": "https://taz.de/Deutsche-Visa-fuer-iranische-Studierende-und-Fachkraefte-Das-lange-Warten-in-der-Not/!6210435/",
+   "q": "taz",
+   "d": "2026-09-06T14:16:00+00:00"
+  },
+  {
+   "t": "Landtagswahlen in Sachsen-Anhalt: Ein Dorf vor der Wahl",
+   "s": "Was macht es mit einem Ort, wenn Nachbarn nicht mehr miteinander reden können, weil die eine Hälfte AfD wählt und die andere angstvoll schweigt? Ein Heimatbesuch.",
+   "u": "https://taz.de/Landtagswahlen-in-Sachsen-Anhalt/!6209066/",
+   "q": "taz",
+   "d": "2026-09-06T13:35:00+00:00"
+  },
+  {
+   "t": "Fiasko nach Hackerangriff in Berlin: IT-Experten sehen kritische Infrastruktur bedroht",
+   "s": "Seit Freitag sind die durch einen Cyberangriff erbeuteten Daten der Berliner Senatsverwaltung öffentlich. Gegenüber Land und Bund gibt es scharfe Kritik.",
+   "u": "https://taz.de/Fiasko-nach-Hackerangriff-in-Berlin/!6210542/",
+   "q": "taz",
+   "d": "2026-09-06T13:05:00+00:00"
+  },
   {
    "t": "Großeinsatz im Hambi: Wo versteckt sich Daniel V.?",
    "s": "Seit Tagen sucht die Polizei nach Daniel V., der Umspannwerke in mehreren Bundesländern angegriffen haben soll. Jetzt läuft ein Einsatz am Hambacher Forst.",
@@ -45,8 +87,8 @@
    "d": "2026-09-06T06:36:00+00:00"
   },
   {
-   "t": "Wahl in Sachsen-Anhalt: Wahlleitung verzeichnet schon um 14 Uhr Rekordbeteiligung",
-   "s": "Bei der Landtagwahl in Sachsen-Anhalt schielt die rechtsextreme AfD auf eine absolute Mehrheit. Ob das was wird? Alle News am Wahltag im Überblick.",
+   "t": "Wahl in Sachsen-Anhalt: Siegmund lehnt Minderheitsregierung ab",
+   "s": "Rechtsextreme gewinnen Wahl in Sachsen-Anhalt haushoch. CDU weit abgeschlagen. Linke, SPD und Grüne schaffen es in den Landtag. Das BSW könnte Königsmacher werden.",
    "u": "https://taz.de/Landtagswahl-live-Wie-braun-wird-Sachsen-Anhalt/!6210219/",
    "q": "taz",
    "d": "2026-09-06T06:14:00+00:00"
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Polizei-findet-Truck-des-Verdaechtigen-am-Hambacher-Forst/!6210358/",
    "q": "taz",
    "d": "2026-09-04T16:34:00+00:00"
-  },
-  {
-   "t": "Verfassungsschutz in Hamburg: Gewerkschafterin eingeschüchtert",
-   "s": "Mann, der sich als Innenbehördenmitarbeiter vorstellte, sprach junge Frau auf ihre politische Aktivität an. Behörde stellt nun selber Strafanzeige.",
-   "u": "https://taz.de/Verfassungsschutz-in-Hamburg/!6210432/",
-   "q": "taz",
-   "d": "2026-09-04T15:20:00+00:00"
-  },
-  {
-   "t": "Hendrik Wüst auf Sommertour: Reservekanzler auf Mondmission",
-   "s": "Hendrik Wüst gilt als möglicher Merz-Ersatz. Auf Sommertour zeigt sich der NRW-Ministerpräsident schon mal als Zukunftsmacher.",
-   "u": "https://taz.de/Reservekanzler-Hendrik-Wuest-Wie-inszeniert-er-sich-auf-seiner-Sommertour/!6210357/",
-   "q": "taz",
-   "d": "2026-09-04T14:24:00+00:00"
-  },
-  {
-   "t": "Folgen der Bluttat von Stade: Niedersachsens Migrationsbeauftragter tritt zurück",
-   "s": "Deniz Kurku, Niedersachsens Migrationsbeauftragter, gibt auf. Gegen seine Schwiegermutter wird im Zusammenhang mit dem Sechsfach-Mord von Stade ermittelt.",
-   "u": "https://taz.de/Folgen-der-Bluttat-von-Stade/!6210404/",
-   "q": "taz",
-   "d": "2026-09-04T14:12:00+00:00"
-  },
-  {
-   "t": "Zivilgesellschaft in Sachsen-Anhalt: Sie bleiben mit am Tisch",
-   "s": "In Wittenberg feiert das Bündnis „Wittenberg Weltoffen“ wenige Tage vor der Landtagswahl die Demokratie. Sprecher Carsten Liebelt über sein Engagement.",
-   "u": "https://taz.de/Zivilgesellschaft-in-Sachsen-Anhalt/!6209310/",
-   "q": "taz",
-   "d": "2026-09-04T13:58:00+00:00"
-  },
-  {
-   "t": "Nahostdiskurs und Berliner Wahlkampf: Wie kaputt die Lage ist",
-   "s": "HipHop steht für den Versuch, andere Lösungen für Konflikte zu finden als dumpfe Brutalität. Leute wie der Rapper Dahabflex müssen das noch lernen.",
-   "u": "https://taz.de/Nahostdiskurs-und-Berliner-Wahlkampf/!6210375/",
-   "q": "taz",
-   "d": "2026-09-04T13:00:00+00:00"
-  },
-  {
-   "t": "Anschläge auf Umspannwerke: „Daniel, ruf mich zurück, es ist dringend“",
-   "s": "In Gevelsberg schält eine Frau Kartoffeln, als die taz klingelt. Auf dem Bekennerschreiben erkennt sie die Handschrift ihres Sohns – und spricht auf die Mailbox.",
-   "u": "https://taz.de/Spezialkraefte-durchsuchen-Wohnhaus-in-Gevelsberg-Wo-ist-Daniel-V/!6206505/",
-   "q": "taz",
-   "d": "2026-09-04T12:53:00+00:00"
   }
  ]
 }
