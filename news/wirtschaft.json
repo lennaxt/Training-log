@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-05T22:55:09+00:00",
+ "updated": "2026-09-06T07:55:25+00:00",
  "items": [
+  {
+   "t": "Zu viele Touristen - wie Dubrovnik gegensteuert",
+   "s": "Dubrovnik zählt zu Europas beliebtesten Reisezielen. Durch die Serie \"Game of Thrones\" wurde die kroatische Hafenstadt weltberühmt - nun geht sie gegen \"Overtourism\" vor. Von A. Bachmann und N. Knopp.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/overtourism-dubrovnik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T05:36:47+00:00"
+  },
   {
    "t": "US-Rekordschulden von 40 Billionen Dollar beunruhigen Ökonomen",
    "s": "Die US-Staatsschulden liegen inzwischen bei mehr als 40 Billionen Dollar. Immer mehr Geld aus dem Haushalt fließt so in Zinszahlungen - und weniger bleibt übrig für Investitionen in die Zukunft des Landes. Von Anne Schneider.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1641874.html",
    "q": "Tagesschau",
    "d": "2026-09-03T07:57:00+00:00"
-  },
-  {
-   "t": "Streit über Haushalt: Frankreichs Premier warnt vor Zins-Lawine",
-   "s": "Frankreich hat einen enormen Schuldenberg angehäuft. Die Regierung muss fürchten, dass das Land bald so horrende Zinsen zahlen muss, dass jede Hoffnung auf eine Sanierung der Staatsfinanzen aussichtslos ist. Von Julia Borutta.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/frankreich-staatsschulden-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T07:14:39+00:00"
   }
  ]
 }

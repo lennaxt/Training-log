@@ -1,13 +1,27 @@
 {
  "name": "Ausland",
- "updated": "2026-09-05T22:55:08+00:00",
+ "updated": "2026-09-06T07:55:24+00:00",
  "items": [
   {
+   "t": "Wehrpflichtige in der Ukraine: Gefährliche Flucht über die Donau",
+   "s": "Im Süden der Ukraine bildet die Donau die Grenze zu Rumänien. Immer wieder versuchen ukrainische Wehrpflichtige hier, ihr Land unerlaubt zu verlassen - per Boot oder sogar schwimmend mit Flossen. Von Susanne Petersohn.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-grenzschuetzer-wehrpflichtige-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T04:43:05+00:00"
+  },
+  {
+   "t": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Kiew erwartet",
+   "s": "In Moskau hatten sie sich mit Kremlchef Putin getroffen und mit ihm über ein Ende des Krieges gegen die Ukraine verhandelt. Nun kommen die US-Gesandten Witkoff und Kushner nach Kiew - auf einem ungewöhnlichen Weg.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T02:58:49+00:00"
+  },
+  {
    "t": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
-   "s": "Mit einer \"Idee für den Frieden\" sind die US-Sondergesandten Witkoff und Kushner nach Russland gereist und dort von Präsident Putin empfangen worden. Details des Friedensplans bleiben unbekannt - als nächstes wird er in Kiew vorgestellt.",
+   "s": "Mit einer \"Idee für den Frieden\" sind die US-Sondergesandten Witkoff und Kushner nach Russland gereist und dort von Präsident Putin empfangen worden. Ein Kreml-Berater spricht von \"äußerst nützlichen\" Gesprächen.",
    "u": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-05T20:42:55+00:00"
+   "d": "2026-09-05T22:58:14+00:00"
   },
   {
    "t": "USA greifen iranische Öltanker an",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/daenemark-nachrichtendienst-sabotage-warnung-100.html",
    "q": "Tagesschau",
    "d": "2026-09-03T10:42:26+00:00"
-  },
-  {
-   "t": "Nach deutschen Strafmaßnahmen: Goethe-Institut in Russland wird geschlossen",
-   "s": "Als Reaktion auf den Anschlagsversuch am Flughafen Leipzig/Halle will die Bundesregierung den Vertrag mit dem Russischen Haus kündigen. Moskau zieht nun nach und schließt Niederlassungen des Goethe-Instituts im Land.",
-   "u": "https://www.tagesschau.de/ausland/goethe-institut-russland-schliessung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T09:02:54+00:00"
-  },
-  {
-   "t": "Demonstrationen in Spanien für Ceuta und gegen Sánchez",
-   "s": "Mehr als einen Monat nach dem Ansturm auf Ceuta sind Zehntausende Menschen in ganz Spanien auf die Straße gegangen. Ihr Protest richtete sich gegen die Migrationspolitik der Zentralregierung. In einigen Städten gab es auch Gegendemos.",
-   "u": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T05:39:36+00:00"
   }
  ]
 }
