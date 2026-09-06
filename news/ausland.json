@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-06T17:36:49+00:00",
+ "updated": "2026-09-06T22:53:56+00:00",
  "items": [
+  {
+   "t": "Mindestens fünf Tote nach Unfall mit Amazon-Frachtflugzeug in Miami",
+   "s": "In Miami ist ein Amazon-Frachtflugzeug über die Landebahn hinausgeschossen und mit mehreren Fahrzeugen zusammengeprallt. Laut den Behörden kamen mindestens fünf Menschen ums Leben. Der Flugverkehr ist erheblich eingeschränkt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/flugzeugunglueck-miami-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T22:39:26+00:00"
+  },
+  {
+   "t": "US-Sondergesandte in Kiew: Noch kein Durchbruch bei Friedensgesprächen",
+   "s": "Nach ihrem Treffen mit dem russischen Präsidenten sind die US-Vermittler Witkoff und Kushner weiter nach Kiew gereist. Dort zeigten sie sich verhalten optimistisch. Präsident Selenskyj hofft auf die Wiederaufnahme trilateraler Verhandlungen.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-kushner-witkoff-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T18:38:04+00:00"
+  },
   {
    "t": "Wie Kairos Müllstadt vom Iran-Krieg profitiert",
    "s": "Mehr als 20 Millionen Menschen leben laut Schätzungen im Großraum Kairo - dennoch gibt es kein öffentliches System zur Müllentsorgung. Fast alles landet in der \"Müllstadt\". Dort ist derzeit vor allem ein Material nachgefragt. Von Paul Jens.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/reform-uk-parteitag-100.html",
    "q": "Tagesschau",
    "d": "2026-09-04T03:10:20+00:00"
-  },
-  {
-   "t": "Italien: Melonis Kabinett stellt Regierungsrekord auf",
-   "s": "Was in anderen Ländern die Regel ist, reicht in Italien für einen Rekord: Seit knapp vier Jahren regiert Ministerpräsidentin Meloni mit demselben Kabinett - keine andere Regierung der italienischen Republik hielt länger durch. Von A. Giordano.",
-   "u": "https://www.tagesschau.de/ausland/europa/italien-meloni-124.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T03:10:01+00:00"
-  },
-  {
-   "t": "Trump will Geld von Europa für Ukraine-Hilfen zurück",
-   "s": "US-Präsident Trump will von europäischen Staaten die Rückzahlung von US-Militärhilfen für die Ukraine fordern. Es gehe dabei um \"Hunderte Milliarden Dollar\", die sein Vorgänger Biden der Ukraine und der NATO geschenkt habe. Von A. Schneider.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-hilfen-forderung-europa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T03:08:47+00:00"
   }
  ]
 }
