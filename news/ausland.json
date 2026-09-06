@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-09-06T07:55:24+00:00",
+ "updated": "2026-09-06T12:53:34+00:00",
  "items": [
+  {
+   "t": "Wie Kairos Müllstadt vom Iran-Krieg profitiert",
+   "s": "Mehr als 20 Millionen Menschen leben laut Schätzungen im Großraum Kairo - dennoch gibt es kein öffentliches System zur Müllentsorgung. Fast alles landet in der \"Müllstadt\". Dort ist derzeit vor allem ein Material nachgefragt. Von Paul Jens.",
+   "u": "https://www.tagesschau.de/ausland/afrika/muellstadt-kairo-108.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T10:47:32+00:00"
+  },
+  {
+   "t": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
+   "s": "Nach ihrem Treffen mit Kremlchef Putin in Moskau sind die US-Sondergesandten Kushner und Witkoff in Kiew eingetroffen, um mit Präsident Selenskyj zu reden. Während der Gespräche gilt in beiden Städten eine Waffenruhe - andernorts gehen die Angriffe weiter.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-vermittlungsversuch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T10:40:04+00:00"
+  },
+  {
+   "t": "Tote und Verletzte bei neuen Angriffen Israels im Libanon",
+   "s": "Israel hat erneut Ziele im Libanon angegriffen. Dabei starben nach libanesischen Angaben vier Menschen, 20 weitere wurden verletzt, darunter auch Frauen und Kinder. Zuvor soll die Hisbollah israelische Soldaten mit Drohnen attackiert haben.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-130.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T10:17:03+00:00"
+  },
   {
    "t": "Wehrpflichtige in der Ukraine: Gefährliche Flucht über die Donau",
    "s": "Im Süden der Ukraine bildet die Donau die Grenze zu Rumänien. Immer wieder versuchen ukrainische Wehrpflichtige hier, ihr Land unerlaubt zu verlassen - per Boot oder sogar schwimmend mit Flossen. Von Susanne Petersohn.",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-hilfen-forderung-europa-100.html",
    "q": "Tagesschau",
    "d": "2026-09-04T03:08:47+00:00"
-  },
-  {
-   "t": "El Niño: Sorge in Brasilien vor neuen Überschwemmungen",
-   "s": "Im brasilianischen Porto Alegre gab es erst vor zwei Jahren eine verheerende Flutkatastrophe. Durch das Klimaphänomen El Niño drohen nun neue Überschwemmungen - ist die Stadt diesmal besser vorbereitet? Von A. Herrberg.",
-   "u": "https://www.tagesschau.de/ausland/amerika/el-nino-brasilien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T03:08:30+00:00"
-  },
-  {
-   "t": "US-Frauenrechtsaktivistin Gloria Steinem mit 92 Jahren gestorben",
-   "s": "Sie war eine der führenden Stimmen der Frauenbewegung in den USA. Nun ist die Journalistin und Buchautorin Gloria Steinem im Alter von 92 Jahren in New York gestorben. Von Martin Ganslmeier.",
-   "u": "https://www.tagesschau.de/ausland/gloria-steinem-tod-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T15:12:26+00:00"
-  },
-  {
-   "t": "Dänischer Nachrichtendienst warnt vor russischen Sabotageakten",
-   "s": "Meldungen über Sabotageakte in Europa nehmen zu - ebenso die Hinweise, dass Russland dahinterstecken könnte. Nun warnt auch der dänische Nachrichtendienst öffentlich vor solchen Aktionen. Und davor, für Spionage angeworben zu werden.",
-   "u": "https://www.tagesschau.de/ausland/europa/daenemark-nachrichtendienst-sabotage-warnung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T10:42:26+00:00"
   }
  ]
 }

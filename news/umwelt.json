@@ -1,17 +1,52 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-06T07:55:26+00:00",
+ "updated": "2026-09-06T12:53:37+00:00",
  "items": [
   {
+   "t": "Großeinsatz im Hambi: Wo versteckt sich Daniel V.?",
+   "s": "Seit Tagen sucht die Polizei nach Daniel V., der Umspannwerke in mehreren Bundesländern angegriffen haben soll. Jetzt läuft ein Einsatz am Hambacher Forst.",
+   "u": "https://taz.de/Grosseinsatz-im-Hambacher-Forst-nach-Bekennerschreiben-Wo-versteckt-sich-Daniel-V/!6210659/",
+   "q": "taz",
+   "d": "2026-09-06T12:16:00+00:00"
+  },
+  {
+   "t": "Nach Drohnenangriff in Leipzig: Grünen-Politikerin fordert Prüfung von Atomprojekt mit Russland",
+   "s": "Im emsländischen Lingen kooperiert eine Brennelementefabrik mit einem russischen Staatskonzern. Die Grünen sehen große Risiken.",
+   "u": "https://taz.de/Nach-Drohnenangriff-in-Leipzig/!6210613/",
+   "q": "taz",
+   "d": "2026-09-06T11:23:00+00:00"
+  },
+  {
+   "t": "Zivilgesellschaft in Sachsen-Anhalt: Egal, was kommt",
+   "s": "Tausende feiern am Samstag in Magdeburg die Demokratie und Zivilgesellschaft. Vor der Wahl fassen sie Mut und versprechen sich Zusammenhalt – egal, was kommt.",
+   "u": "https://taz.de/Zivilgesellschaft-in-Sachsen-Anhalt/!6210513/",
+   "q": "taz",
+   "d": "2026-09-06T10:44:00+00:00"
+  },
+  {
+   "t": "Vor den Landtagswahlen: Was die Arbeiterklasse denkt",
+   "s": "Die AfD schneidet vor allem in der Arbeiterschaft gut ab. Die taz hat in Magdeburg und Rügen nachgehakt, was die Menschen bewegt und was sie umstimmen würde.",
+   "u": "https://taz.de/Vor-den-Landtagswahlen/!6209760/",
+   "q": "taz",
+   "d": "2026-09-06T09:20:00+00:00"
+  },
+  {
+   "t": "Mietendemo in Berlin: Enteignen, jetzt!",
+   "s": "Mehr als 10.000 Menschen demonstrierten am Samstag gegen steigende Mieten. Im Zentrum stand die Forderung nach Vergesellschaftung großer Wohnungskonzerne.",
+   "u": "https://taz.de/Mietendemo-in-Berlin/!6209966/",
+   "q": "taz",
+   "d": "2026-09-06T08:53:00+00:00"
+  },
+  {
    "t": "Sachsen-Anhalt: Tausende vor der Wahl auf der Straße",
-   "s": "Am Vorabend der Wahl ziehen Tausende Antifas durch Halle und Magdeburg. Immer dabei: Das Ringen damit, vor Ort weiterzumachen – oder zu gehen.",
+   "s": "Am Vorabend der Wahl ziehen Tausende Antifas durch Halle und Magdeburg. Immer dabei: das Ringen damit, vor Ort weiterzumachen – oder zu gehen.",
    "u": "https://taz.de/Sachsen-Anhalt/!6210514/",
    "q": "taz",
    "d": "2026-09-06T06:36:00+00:00"
   },
   {
-   "t": "Wahl in Sachsen-Anhalt: Braun oder nicht so braun",
-   "s": "Bei der Landtagwahl in Sachsen-Anhalt könnte die AfD erstmals eine absolute Mehrheit gewinnen. Oder sind alle zusammen doch noch stärker? Die News am Wahltag.",
+   "t": "Wahl in Sachsen-Anhalt: Wahlleitung verzeichnet schon um 14 Uhr Rekordbeteiligung",
+   "s": "Bei der Landtagwahl in Sachsen-Anhalt schielt die rechtsextreme AfD auf eine absolute Mehrheit. Ob das was wird? Alle News am Wahltag im Überblick.",
    "u": "https://taz.de/Landtagswahl-live-Wie-braun-wird-Sachsen-Anhalt/!6210219/",
    "q": "taz",
    "d": "2026-09-06T06:14:00+00:00"
@@ -59,7 +94,7 @@
    "d": "2026-09-05T11:24:00+00:00"
   },
   {
-   "t": "taz-Forum in Rostock: „Wenn wir abhauen, ist es noch dööfer“",
+   "t": "taz-Forum in Rostock: „Wenn wir abhauen, ist es noch döfer“",
    "s": "Beim taz-Forum in Rostock geben sich zivilgesellschaftlich Engagierte kämpferisch vor der Wahl – und rot-rot-grüne Vertreter sagen Unterstützung zu.",
    "u": "https://taz.de/taz-Forum-in-Rostock/!6210490/",
    "q": "taz",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Spezialkraefte-durchsuchen-Wohnhaus-in-Gevelsberg-Wo-ist-Daniel-V/!6206505/",
    "q": "taz",
    "d": "2026-09-04T12:53:00+00:00"
-  },
-  {
-   "t": "KI und Demokratie: Eine toxische Beziehung",
-   "s": "KI ist gefährlicher, als manche glauben. Sie beeinflusst Nut­ze­r:in­nen und somit die Demokratie selbst dann, wenn sie auf alltägliche Weise eingesetzt wird.",
-   "u": "https://taz.de/KI-und-Demokratie/!6206568/",
-   "q": "taz",
-   "d": "2026-09-04T12:18:00+00:00"
-  },
-  {
-   "t": "Nach BSW-Austritten in Thüringen: Wie geht es weiter für die Brombeer-Koalition?",
-   "s": "Neun weitere BSW-Abgeordnete in Thüringen verlassen die Partei – darunter auch die Finanzministerin. Der Ministerpräsident bedankt sich für die „Klarheit“.",
-   "u": "https://taz.de/BSW-in-Thueringen/!6210389/",
-   "q": "taz",
-   "d": "2026-09-04T09:30:00+00:00"
-  },
-  {
-   "t": "Anschläge auf Infrastruktur: Wahlkampffutter für die AfD",
-   "s": "Von den Angriffen auf kritische Infrastruktur könnten ausgerechnet jene profitieren, die gegen die Ukrainehilfe agitieren. Das ist fatal.",
-   "u": "https://taz.de/Anschlaege-auf-Infrastruktur/!6204904/",
-   "q": "taz",
-   "d": "2026-09-04T08:39:00+00:00"
-  },
-  {
-   "t": "„Taktisch Wählen“ in Sachsen-Anhalt: Strategie gewinnt",
-   "s": "Die Fünfprozenthürde könnte entscheiden, ob die AfD regiert oder nicht. Eine Kampagne wirbt deshalb für kleine Parteien. Doch wer finanziert sie?",
-   "u": "https://taz.de/Kampagne-Taktisch-Waehlen-in-Sachsen-Anhalt-Wer-dahinter-steht-und-woher-die-Finanzierung-kommt/!6202527/",
-   "q": "taz",
-   "d": "2026-09-04T05:21:00+00:00"
-  },
-  {
-   "t": "Nach dem CSD-Anschlag: Nicht alle wussten alles",
-   "s": "Fehlende Infos und unklare Regeln: Das Violence Prevention Network analysiert das CSD-Attentat und fordert Maßnahmen für bessere Prävention.",
-   "u": "https://taz.de/Nach-dem-CSD-Anschlag/!6209942/",
-   "q": "taz",
-   "d": "2026-09-03T18:13:00+00:00"
   }
  ]
 }
