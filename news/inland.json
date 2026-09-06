@@ -1,174 +1,174 @@
 {
  "name": "Inland",
- "updated": "2026-09-06T07:55:23+00:00",
+ "updated": "2026-09-06T17:36:49+00:00",
  "items": [
   {
+   "t": "Nach Austritten aus dem BSW: Neue Partei in Thüringen gegründet",
+   "s": "Das BSW in Thüringen zerfällt – nur noch zwei von ehemals 15 Landtagsabgeordneten gehören ihm an. Jetzt gründen Ehemalige eine neue Partei.",
+   "u": "https://taz.de/Nach-Austritten-aus-dem-BSW/!6210740/",
+   "q": "taz",
+   "d": "2026-09-06T17:32:00+00:00"
+  },
+  {
+   "t": "Anschlagsserie auf das Stromnetz: Ein unbelehrbarer Ideologe",
+   "s": "Innenminister Dobrindt (CSU) nutzt die Sabotageakte dazu, den „Linksgrünversifften“ einen Schlag zu versetzen. Das hat das Klima nicht verdient.",
+   "u": "https://taz.de/Anschlagsserie-auf-das-Stromnetz/!6210608/",
+   "q": "taz",
+   "d": "2026-09-06T17:18:00+00:00"
+  },
+  {
+   "t": "Hochrechnung zur Wahl in Sachsen-Anhalt: AfD mit Rekordergebnis - CDU stürzt ab",
+   "s": "Die AfD gewinnt erstmals eine Landtagswahl in Sachsen-Anhalt und erreicht laut ARD-Hochrechnung ein Rekordergebnis. Die CDU verliert deutlich. Linke, Grüne und SPD ziehen sicher ins Parlament ein. Das BSW muss zittern.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-172.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T17:13:54+00:00"
+  },
+  {
+   "t": "Landtagswahlen in Sachsen-Anhalt: Eimerweise rosa Briefe",
+   "s": "Vor der Wahl schürt die AfD Zweifel an der Briefwahl und warnt vor möglichem Betrug. In Magdeburg treffen Wahlhelfer auf rechte Wahlbeobachter.",
+   "u": "https://taz.de/Landtagswahlen-in-Sachsen-Anhalt/!6209768/",
+   "q": "taz",
+   "d": "2026-09-06T17:10:00+00:00"
+  },
+  {
+   "t": "Warum konnte die AfD in Sachsen-Anhalt so stark zulegen?",
+   "s": "Die AfD ist in Sachsen-Anhalt klar stärkste Kraft geworden. Was sind die Gründe? Was sagen Wählende über die Partei? Wo sehen sie die Kompetenzen? Eine Erklärung in Umfrage-Grafiken von infratest dimap.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/umfragen-afd-landtagswahl-sachsen-anhalt-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T16:51:09+00:00"
+  },
+  {
+   "t": "Wie die Wählenden in Sachsen-Anhalten wanderten",
+   "s": "Woher kommen die Zugewinne der AfD? Von welchen Parteien wandten sich frühere Wählerinnen und Wähler ab? Und wem gaben sie diesmal ihre Stimme? Die Wählerwanderung in Sachsen-Anhalt auf Basis der Zahlen von infratest dimap.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-landtagswahl-sachsen-anhalt-2026-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T16:46:56+00:00"
+  },
+  {
+   "t": "Wahl in Sachsen Anhalt: Der größte Wahlerfolg der AfD",
+   "s": "Die CDU erlebt in Sachsen-Anhalt laut ARD-Prognose ein Desaster. Die AfD liegt bei Männern und Frauen, jungen wie älteren Wählern vorn. Abzuwarten bleibt, ob es das BSW in den Landtag schafft - und welche Mehrheiten dann möglich sind. Von Jörg Schönenborn.",
+   "u": "https://www.tagesschau.de/inland/wahl-sachsen-anhalt-analyse-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T16:11:32+00:00"
+  },
+  {
+   "t": "Koalitionsrechner zur Landtagswahl in Sachsen-Anhalt 2026",
+   "s": "Sachsen-Anhalt hat einen neuen Landtag gewählt. Welche Koalition könnte künftig regieren? Welche Bündnisse hätten eine Mehrheit? Testen Sie mit dem interaktiven Koalitionsrechner die rechnerischen Möglichkeiten.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/koalitionsrechner-landtagswahl-sachsen-anhalt-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T16:07:09+00:00"
+  },
+  {
+   "t": "Iran, der Krieg und die Sanktionen: 366 Quadratmeter, fünf Schlafzimmer, ein dubioser Bankier",
+   "s": "Immobilien im dreistelligen Millionenbereich soll Irans oberster Führer Chamenei über einen Strohmann in Europa besitzen. Nun werden zwei Apartments verkauft.",
+   "u": "https://taz.de/Iran-der-Krieg-und-die-Sanktionen/!6210685/",
+   "q": "taz",
+   "d": "2026-09-06T16:06:00+00:00"
+  },
+  {
+   "t": "Warschau wird zu einer grünen Stadt: Wie sich Betonwüsten in Wohlfühloasen verwandeln",
+   "s": "Die polnische Hauptstadt wird dank millionenschweren Investitionen grüner. Unsere Autorin sieht selbst: Das Leben dort ist ein anderes geworden.",
+   "u": "https://taz.de/Warschau-wird-zu-einer-gruenen-Stadt/!6210554/",
+   "q": "taz",
+   "d": "2026-09-06T16:05:00+00:00"
+  },
+  {
+   "t": "Müllskandal in Kroatien: Massenproteste gegen Müllberge",
+   "s": "Zehntausende fordern die sofortige Beseitigung des Giftmülls. Ihr Zorn richtet sich vor allem auf die lokalen Behörden.",
+   "u": "https://taz.de/Muellskandal-in-Kroatien/!6210557/",
+   "q": "taz",
+   "d": "2026-09-06T14:48:00+00:00"
+  },
+  {
+   "t": "UN-Resolution für bessere Weltkarten: Eine Frage der Welt-Anschauung",
+   "s": "Weltkarten prägen unser Bild der Welt. Die Vereinten Nationen versuchen jetzt auf Initiative Afrikas, eine historische Verzerrung zu korrigieren.",
+   "u": "https://taz.de/UN-Resolution-fuer-bessere-Weltkarten/!6210649/",
+   "q": "taz",
+   "d": "2026-09-06T14:39:00+00:00"
+  },
+  {
+   "t": "Jens Spahn, BSW, AfD, J.D. Vance: Der Trost, dass die Union niemand Besseren findet als Spahn",
+   "s": "Nach dem Leihmutterschaftsskandal kehrt Jens Spahn zurück – in den Haushaltsausschuss. Und der US-Vizepräsident hat kein Problem mit der Apokalypse.",
+   "u": "https://taz.de/Jens-Spahn-BSW-AfD-JD-Vance/!6210675/",
+   "q": "taz",
+   "d": "2026-09-06T14:18:00+00:00"
+  },
+  {
+   "t": "Bearbeitungsstau für Visa im Iran: Bitte warten",
+   "s": "Iranische Studierende und Fachkräfte bekommen ihre Visa für Deutschland nur schleppend. Das Auswärtige Amt macht wenig Hoffnung auf Besserung.",
+   "u": "https://taz.de/Deutsche-Visa-fuer-iranische-Studierende-und-Fachkraefte-Das-lange-Warten-in-der-Not/!6210435/",
+   "q": "taz",
+   "d": "2026-09-06T14:16:00+00:00"
+  },
+  {
+   "t": "Russlands Außenminister Lawrow: Deutschland will „erneut den Krieg“",
+   "s": "Zum ersten Mal besuchen Kushner und Witkoff die Hauptstadt der Ukraine. Russlands Außenminister Lawrow eskaliert rhetorisch nach Drohnenanschlägen in Leipzig.",
+   "u": "https://taz.de/Pendeldiplomatie-der-USA/!6210566/",
+   "q": "taz",
+   "d": "2026-09-06T13:42:00+00:00"
+  },
+  {
+   "t": "Landtagswahlen in Sachsen-Anhalt: Ein Dorf vor der Wahl",
+   "s": "Was macht es mit einem Ort, wenn Nachbarn nicht mehr miteinander reden können, weil die eine Hälfte AfD wählt und die andere angstvoll schweigt? Ein Heimatbesuch.",
+   "u": "https://taz.de/Landtagswahlen-in-Sachsen-Anhalt/!6209066/",
+   "q": "taz",
+   "d": "2026-09-06T13:35:00+00:00"
+  },
+  {
+   "t": "Fiasko nach Hackerangriff in Berlin: IT-Experten sehen kritische Infrastruktur bedroht",
+   "s": "Seit Freitag sind die durch einen Cyberangriff erbeuteten Daten der Berliner Senatsverwaltung öffentlich. Gegenüber Land und Bund gibt es scharfe Kritik.",
+   "u": "https://taz.de/Fiasko-nach-Hackerangriff-in-Berlin/!6210542/",
+   "q": "taz",
+   "d": "2026-09-06T13:05:00+00:00"
+  },
+  {
+   "t": "Bundespolitiker fordern Konsequenzen nach Hackerangriff in Berlin",
+   "s": "Nach dem Hackerangriff in Berlin wurden offenbar auch hochsensible Daten zu Bundeswehr und kritischer Infrastruktur veröffentlicht. CDU-Sicherheitsexperte Kiesewetter sieht eine \"Katastrophe noch nicht absehbaren Ausmaßes\". Von J. F. Willems.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/hackerangriff-berlin-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T12:18:50+00:00"
+  },
+  {
+   "t": "Großeinsatz im Hambi: Wo versteckt sich Daniel V.?",
+   "s": "Seit Tagen sucht die Polizei nach Daniel V., der Umspannwerke in mehreren Bundesländern angegriffen haben soll. Jetzt läuft ein Einsatz am Hambacher Forst.",
+   "u": "https://taz.de/Grosseinsatz-im-Hambacher-Forst-nach-Bekennerschreiben-Wo-versteckt-sich-Daniel-V/!6210659/",
+   "q": "taz",
+   "d": "2026-09-06T12:16:00+00:00"
+  },
+  {
+   "t": "Hambacher Forst: Großfahndung nach mutmaßlichem Stromnetz-Saboteur",
+   "s": "Seit Tagen sucht die Polizei nach einem 48-Jährigen aus NRW, der für versuchte Sabotageakte gegen das deutsche Stromnetz verantwortlich sein soll. Jetzt läuft ein Großeinsatz am Hambacher Forst.",
+   "u": "https://www.tagesschau.de/inland/fahndung-sabotage-infrastruktur-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T12:14:36+00:00"
+  },
+  {
+   "t": "Armeekleidung für Frauen in der Ukraine: „Frauen sind keine kleinen Männer“",
+   "s": "Fast 75.000 Frauen kämpfen in der ukrainischen Armee. Doch es fehlt an passgenauen Schutzwesten und Uniformen. Das kann gefährlich werden.",
+   "u": "https://taz.de/Nichts-zum-Anziehen-Unpassende-Armeekleidung-ist-fuer-Frauen-im-Ukraine-Krieg-gefaehrlich/!6207377/",
+   "q": "taz",
+   "d": "2026-09-06T12:09:00+00:00"
+  },
+  {
    "t": "Dobrindt plant Schutzschirme gegen russische Drohnen- und Cyberattacken",
-   "s": "Innenminister Dobrindt will härter gegen russische Sabotageakte vorgehen. Laut \"BamS\" sollen Einheiten den Luftraum über strategisch wichtigen Städten schützen, Drohnen abfangen und Sprengsätze entschärfen. Auch ein digitales Sicherheitsnetz ist geplant.",
+   "s": "Innenminister Dobrindt will härter gegen russische Sabotageakte vorgehen. Einheiten sollen den Luftraum über strategisch wichtigen Städten schützen, Drohnen abfangen und Sprengsätze entschärfen. Auch ein digitales Sicherheitsnetz ist geplant.",
    "u": "https://www.tagesschau.de/inland/drohnenabwehr-leipzig-regierung-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-06T07:13:44+00:00"
+   "d": "2026-09-06T12:05:26+00:00"
   },
   {
-   "t": "Sachsen-Anhalt: Tausende vor der Wahl auf der Straße",
-   "s": "Am Vorabend der Wahl ziehen Tausende Antifas durch Halle und Magdeburg. Immer dabei: Das Ringen damit, vor Ort weiterzumachen – oder zu gehen.",
-   "u": "https://taz.de/Sachsen-Anhalt/!6210514/",
+   "t": "US-Vermittler in der Ukraine: Trumps Schwiegersohn doch nicht so wichtig",
+   "s": "Erst sollten sie mit dem Flugzeug in Kyjiw landen, jetzt sind Jared Kushner und Steve Witkoff doch Zug gefahren – so wie alle. Kommt ein Ende des Kriegs näher?",
+   "u": "https://taz.de/US-Vermittler-in-der-Ukraine/!6210651/",
    "q": "taz",
-   "d": "2026-09-06T06:36:00+00:00"
+   "d": "2026-09-06T11:48:00+00:00"
   },
   {
-   "t": "Wahl in Sachsen-Anhalt: Braun oder nicht so braun",
-   "s": "Bei der Landtagwahl in Sachsen-Anhalt könnte die AfD erstmals eine absolute Mehrheit gewinnen. Oder sind alle zusammen doch noch stärker? Die News am Wahltag.",
-   "u": "https://taz.de/Landtagswahl-live-Wie-braun-wird-Sachsen-Anhalt/!6210219/",
+   "t": "Nach Drohnenangriff in Leipzig: Grünen-Politikerin fordert Prüfung von Atomprojekt mit Russland",
+   "s": "Im emsländischen Lingen kooperiert eine Brennelementefabrik mit einem russischen Staatskonzern. Die Grünen sehen große Risiken.",
+   "u": "https://taz.de/Nach-Drohnenangriff-in-Leipzig/!6210613/",
    "q": "taz",
-   "d": "2026-09-06T06:14:00+00:00"
-  },
-  {
-   "t": "Vor der Landtagswahl in Sachsen-Anhalt: Plattenverschiebung",
-   "s": "In Halle-Neustadt wohnen Jüngere mit Migrationsgeschichte und Ältere mit DDR-Biografie. Wie schauen sie auf ihr Viertel und die Politik?",
-   "u": "https://taz.de/Vor-der-Landtagswahl-in-Sachsen-Anhalt/!6206552/",
-   "q": "taz",
-   "d": "2026-09-06T05:57:00+00:00"
-  },
-  {
-   "t": "Was zur Wahl in Sachsen-Anhalt wichtig ist",
-   "s": "Wer wird in Sachsen-Anhalt künftig regieren? Das Land wird seit mehr als 20 Jahren von der CDU geführt. Doch nun liegt die AfD in Umfragen mit großem Vorsprung vorne. Sie möchte die alleinige Macht. Doch auch andere Optionen sind möglich.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-fragen-antworten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T03:02:56+00:00"
-  },
-  {
-   "t": "Rheinmetall Entwaffnen in Köln: Abschlussdemonstration nach Zusammenstößen unterbrochen",
-   "s": "Eine Woche protestiert „Rheinmetall Entwaffnen“ in Köln gegen Aufrüstung. Die Abschlussdemo endet für einen Teil im Polizeikessel.",
-   "u": "https://taz.de/Rheinmetall-Entwaffnen-in-Koeln/!6208939/",
-   "q": "taz",
-   "d": "2026-09-05T18:20:00+00:00"
-  },
-  {
-   "t": "Klostreit in Wien: Null Cent fürs Pissoir, fünfzig Cent für die Kabine",
-   "s": "Eine junge Frau will die Ungleichbehandlung in öffentlichen WCs nicht akzeptieren und verklagt die Stadt Wien. Wird sie Erfolg haben?",
-   "u": "https://taz.de/Warum-muessen-Frauen-fuer-die-Toilette-zahlen-und-Maenner-nicht-Eine-Frau-verklagt-Wien/!6206506/",
-   "q": "taz",
-   "d": "2026-09-05T18:18:00+00:00"
-  },
-  {
-   "t": "Zivilgesellschaft in Sachsen-Anhalt: Bündnis gegen die Einsamkeit",
-   "s": "In den ländlichen Regionen Sachsen-Anhalts stellt sich Annekatrin Els vom Zerbster Bündnis für Demokratie gegen den Rechtsruck.",
-   "u": "https://taz.de/Zivilgesellschaft-in-Sachsen-Anhalt/!6208762/",
-   "q": "taz",
-   "d": "2026-09-05T18:12:00+00:00"
-  },
-  {
-   "t": "Punksänger Monchi im Gespräch: „Gehen? Digga, ist das euer Ernst?“",
-   "s": "Jan Gorkow, besser bekannt als Monchi, Sänger der Band Feine Sahne Fischfilet, erzählt von der Kraft des Machens und warum er nicht mehr alle „Cops“ für „Bastards“ hält.",
-   "u": "https://taz.de/Punksaenger-Monchi-im-Gespraech/!6206560/",
-   "q": "taz",
-   "d": "2026-09-05T18:06:00+00:00"
-  },
-  {
-   "t": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
-   "s": "Ein 48-Jähriger hat sich in zwei Schreiben zu den versuchten Sabotageakten gegen das Stromnetz bekannt. Darin nennt er seinen Namen, er wurde aber noch nicht gefasst. Nun setzt die Polizei auf eine öffentliche Fahndung.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T17:52:19+00:00"
-  },
-  {
-   "t": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
-   "s": "Eine kriminelle Gruppe greift die Berliner Verwaltung an und veröffentlicht große Mengen von Daten im Darknet. Um welche Informationen geht es? Welche Gefahren birgt deren Veröffentlichung? Antworten auf die wichtigsten Fragen.",
-   "u": "https://www.tagesschau.de/inland/faq-hackerangriff-berlin-folgen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T16:50:32+00:00"
-  },
-  {
-   "t": "Superwahlkreis Querfurt: Zwischen Gratiswurst, dem linken Pfarrer und Rechtsextremen",
-   "s": "In Sachsen-Anhalts brisantestem Wahlkreis geht es rund: ein Streifzug durch ein Burggewölbe, über einen Campingplatz und ein AfD-Familienfest.",
-   "u": "https://taz.de/Superwahlkreis-Querfurt/!6206949/",
-   "q": "taz",
-   "d": "2026-09-05T16:47:00+00:00"
-  },
-  {
-   "t": "Wahl in Sachsen-Anhalt: Welche Koalitionsoptionen gibt es?",
-   "s": "In den Umfragen zur Landtagswahl in Sachsen-Anhalt liegt die AfD vorne - zur Alleinregierung würde es demnach aber nicht reichen. Welche Szenarien denkbar sind und vor welchen Problemen die Parteien stehen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-koalition-optionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T15:08:27+00:00"
-  },
-  {
-   "t": "Exklave Ceuta: Spanische Regierung übernimmt Kontrolle über Hafen",
-   "s": "Die Regierung von Premierminister Sánchez setzt sich über die Regionalverwaltung hinweg – und errichtet nun ein Zeltlager für Geflüchtete an einer sensiblen Stelle.",
-   "u": "https://taz.de/Exklave-Ceuta/!6210508/",
-   "q": "taz",
-   "d": "2026-09-05T14:41:00+00:00"
-  },
-  {
-   "t": "Vor den Wahlen in Ostdeutschland: Engagiert - und trotzdem machtlos",
-   "s": "Ob Fußballverein in Berlin, Krankenhausinitiative in Sachsen-Anhalt oder Bürgermeister in Mecklenburg-Vorpommern: Sie alle wollen etwas bewegen - und stoßen dabei immer wieder an Grenzen. Das kann Vertrauen in die Politik kosten. Von C. Bazydlo.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/wahlen-osten-stimmung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T14:09:11+00:00"
-  },
-  {
-   "t": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
-   "s": "Personalakten, Stundenzettel, Telefonnummern - im Darknet haben Hacker etwa 1,4 Millionen Daten veröffentlicht, die sie der Berliner Verwaltung gestohlen hatten. Das zuständige Bundesamt warnt vor Risiken infolge des Leaks.",
-   "u": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T14:03:56+00:00"
-  },
-  {
-   "t": "Künst­le­r:in­nen bei Glücksgefühle: Das Festival des politischen Liedes",
-   "s": "Beim Glücksgefühle-Festival protestieren zahlreiche Künst­le­r:in­nen gegen die Ausladung der Band „Alphaville“. Deren Sänger warnt vor rechten Tendenzen.",
-   "u": "https://taz.de/Kuenstlerinnen-bei-Gluecksgefuehle/!6210502/",
-   "q": "taz",
-   "d": "2026-09-05T13:59:00+00:00"
-  },
-  {
-   "t": "Vor den Midterms in den USA: Briefwahl beginnt trotz Rechtsstreit",
-   "s": "In North Carolina erhalten erste Wahlberechtigte ihre Unterlagen für die Stimmabgabe per Post. Das juristische Geharke um Trumps Versuch, die Konditionen zu erschweren, geht in eine neue Runde.",
-   "u": "https://taz.de/Vor-den-Midterms-in-den-USA/!6210501/",
-   "q": "taz",
-   "d": "2026-09-05T12:46:00+00:00"
-  },
-  {
-   "t": "Sachsen-Anhalt - Der Streit in der CDU über den Umgang mit der Linkspartei",
-   "s": "Vor den Wahlen in Sachsen-Anhalt streitet die CDU über den Unvereinbarkeitsbeschluss zur Linkspartei. Während die Basis auf lokaler Ebene oft erfolgreich kooperiert, droht oben eine Selbstblockade. Ein Blick auf funktionierende Allianzen.",
-   "u": "https://www.deutschlandfunk.de/unvereinbarkeitsbeschluss-cdu-die-linke-wahl-sachsen-anhalt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-05T12:18:00+00:00"
-  },
-  {
-   "t": "Streit um Berlins Linke: Von Gaza bis Neukölln",
-   "s": "Den Ruf nach einer Intifada bei einer Wahlveranstaltung der Linken hat auch die Konkurrenz gehört. Der Nahost-Konflikt poltert in den Berliner Wahlkampf.",
-   "u": "https://taz.de/Streit-um-Berlins-Linke/!6206480/",
-   "q": "taz",
-   "d": "2026-09-05T11:24:00+00:00"
-  },
-  {
-   "t": "Nach Sturzflut im Himalaya: Retter bergen in Nepal zwei weitere Überlebende",
-   "s": "Die Retter in Nepal können zwei weitere Erfolge verbuchen. Sie finden einen weiteren Arbeiter in einem Tunnel und eine Frau in den Trümmern eines Hauses.",
-   "u": "https://taz.de/Nach-Sturzflut-im-Himalaya/!6210498/",
-   "q": "taz",
-   "d": "2026-09-05T11:21:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: Für Trumps Schwiegersohn macht Putin eine Ausnahme",
-   "s": "Jared Kushner und Trumps Golfpartner Steve Witkoff sind auf Friedensmission in Moskau – und fliegen dann in die Ukraine. Russlands Präsident hat dafür 72 Stunden Pause für Angriffe auf Kyjiw angeordnet.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6210492/",
-   "q": "taz",
-   "d": "2026-09-05T11:18:00+00:00"
-  },
-  {
-   "t": "taz-Forum in Rostock: „Wenn wir abhauen, ist es noch dööfer“",
-   "s": "Beim taz-Forum in Rostock geben sich zivilgesellschaftlich Engagierte kämpferisch vor der Wahl – und rot-rot-grüne Vertreter sagen Unterstützung zu.",
-   "u": "https://taz.de/taz-Forum-in-Rostock/!6210490/",
-   "q": "taz",
-   "d": "2026-09-05T11:16:00+00:00"
-  },
-  {
-   "t": "Ausblick auf die Landtagswahlen 2026 - Ein Wahljahr, das Deutschland verändern könnte",
-   "s": "Baden-Württemberg, Rheinland-Pfalz, Sachsen-Anhalt, Berlin, Mecklenburg-Vorpommern. 2026 werden fünf Landesparlamente neu gewählt. Vor allem die Wahlen im Osten könnten weitreichende Folgen für die ganze Republik haben.Von Martin Teigeler",
-   "u": "https://www.deutschlandfunk.de/landtagswahlen-2026-rlp-bw-mv-berlin-sachsen-anhalt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-05T10:22:00+00:00"
+   "d": "2026-09-06T11:23:00+00:00"
   }
  ]
 }

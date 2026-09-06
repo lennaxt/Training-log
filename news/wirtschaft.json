@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-06T07:55:25+00:00",
+ "updated": "2026-09-06T17:36:50+00:00",
  "items": [
+  {
+   "t": "Ist das Leben in New York für junge Berufstätige noch bezahlbar?",
+   "s": "Galoppierende Preise treffen in den USA besonders junge Leute in den großen Städten. Beispiel New York: Hier müssen auch Berufstätige erfinderisch werden, wenn es um Ausgaben im Alltag geht. Von Martina Buttler.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/lebenshaltungskosten-new-york-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-06T11:18:04+00:00"
+  },
   {
    "t": "Zu viele Touristen - wie Dubrovnik gegensteuert",
    "s": "Dubrovnik zählt zu Europas beliebtesten Reisezielen. Durch die Serie \"Game of Thrones\" wurde die kroatische Hafenstadt weltberühmt - nun geht sie gegen \"Overtourism\" vor. Von A. Bachmann und N. Knopp.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/benzinpreis-rekord-102.html",
    "q": "Tagesschau",
    "d": "2026-09-03T08:49:41+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 03.09.2026",
-   "s": "Update Wirtschaft vom 03.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1641874.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T07:57:00+00:00"
   }
  ]
 }

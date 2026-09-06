@@ -1,7 +1,56 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-06T07:55:27+00:00",
+ "updated": "2026-09-06T17:36:52+00:00",
  "items": [
+  {
+   "t": "Iran, der Krieg und die Sanktionen: 366 Quadratmeter, fünf Schlafzimmer, ein dubioser Bankier",
+   "s": "Immobilien im dreistelligen Millionenbereich soll Irans oberster Führer Chamenei über einen Strohmann in Europa besitzen. Nun werden zwei Apartments verkauft.",
+   "u": "https://taz.de/Iran-der-Krieg-und-die-Sanktionen/!6210685/",
+   "q": "taz",
+   "d": "2026-09-06T16:06:00+00:00"
+  },
+  {
+   "t": "Warschau wird zu einer grünen Stadt: Wie sich Betonwüsten in Wohlfühloasen verwandeln",
+   "s": "Die polnische Hauptstadt wird dank millionenschweren Investitionen grüner. Unsere Autorin sieht selbst: Das Leben dort ist ein anderes geworden.",
+   "u": "https://taz.de/Warschau-wird-zu-einer-gruenen-Stadt/!6210554/",
+   "q": "taz",
+   "d": "2026-09-06T16:05:00+00:00"
+  },
+  {
+   "t": "Müllskandal in Kroatien: Massenproteste gegen Müllberge",
+   "s": "Zehntausende fordern die sofortige Beseitigung des Giftmülls. Ihr Zorn richtet sich vor allem auf die lokalen Behörden.",
+   "u": "https://taz.de/Muellskandal-in-Kroatien/!6210557/",
+   "q": "taz",
+   "d": "2026-09-06T14:48:00+00:00"
+  },
+  {
+   "t": "Russlands Außenminister Lawrow: Deutschland will „erneut den Krieg“",
+   "s": "Zum ersten Mal besuchen Kushner und Witkoff die Hauptstadt der Ukraine. Russlands Außenminister Lawrow eskaliert rhetorisch nach Drohnenanschlägen in Leipzig.",
+   "u": "https://taz.de/Pendeldiplomatie-der-USA/!6210566/",
+   "q": "taz",
+   "d": "2026-09-06T13:42:00+00:00"
+  },
+  {
+   "t": "Armeekleidung für Frauen in der Ukraine: „Frauen sind keine kleinen Männer“",
+   "s": "Fast 75.000 Frauen kämpfen in der ukrainischen Armee. Doch es fehlt an passgenauen Schutzwesten und Uniformen. Das kann gefährlich werden.",
+   "u": "https://taz.de/Nichts-zum-Anziehen-Unpassende-Armeekleidung-ist-fuer-Frauen-im-Ukraine-Krieg-gefaehrlich/!6207377/",
+   "q": "taz",
+   "d": "2026-09-06T12:09:00+00:00"
+  },
+  {
+   "t": "US-Vermittler in der Ukraine: Trumps Schwiegersohn doch nicht so wichtig",
+   "s": "Erst sollten sie mit dem Flugzeug in Kyjiw landen, jetzt sind Jared Kushner und Steve Witkoff doch Zug gefahren – so wie alle. Kommt ein Ende des Kriegs näher?",
+   "u": "https://taz.de/US-Vermittler-in-der-Ukraine/!6210651/",
+   "q": "taz",
+   "d": "2026-09-06T11:48:00+00:00"
+  },
+  {
+   "t": "Geflüchtetenhelfer über Lage in Ceuta: „Wir werden mit dem Tod bedroht und durch die Stadt gejagt“",
+   "s": "Nolte Bauer hilft mit Mission Lifeline in Ceuta. Er erzählt von Bedrohungen und Angriffen und was die EU tun könnte, um die Situation zu entschärfen.",
+   "u": "https://taz.de/Gefluechtetenhelfer-ueber-Lage-in-Ceuta/!6209823/",
+   "q": "taz",
+   "d": "2026-09-06T08:20:00+00:00"
+  },
   {
    "t": "Klostreit in Wien: Null Cent fürs Pissoir, fünfzig Cent für die Kabine",
    "s": "Eine junge Frau will die Ungleichbehandlung in öffentlichen WCs nicht akzeptieren und verklagt die Stadt Wien. Wird sie Erfolg haben?",
@@ -120,55 +169,6 @@
    "u": "https://taz.de/Estnische-Staatschefin-Uelle-Madise/!6209753/",
    "q": "taz",
    "d": "2026-09-03T07:36:00+00:00"
-  },
-  {
-   "t": "Russlands Außenminister Lawrow: Das Goethe-Institut schließt",
-   "s": "Russland weist die Reaktionen Deutschlands nach dem Drohnenangriff auf den Flughafen Leipzig/Halle als unbegründet zurück. Jetzt reagiert Moskau.",
-   "u": "https://taz.de/Russlands-Aussenminister-Lawrow/!6209749/",
-   "q": "taz",
-   "d": "2026-09-03T06:11:00+00:00"
-  },
-  {
-   "t": "Berlin gibt Russland Schuld: Unfreundliche Grüße nach Moskau",
-   "s": "EU und Nato sichern Deutschland ihre Solidarität zu. Auf das Mantra der Einigkeit sollen nun schnell neue und scharfe Sanktionen folgen.",
-   "u": "https://taz.de/Berlin-gibt-Russland-Schuld/!6209513/",
-   "q": "taz",
-   "d": "2026-09-02T17:34:00+00:00"
-  },
-  {
-   "t": "Rückbau in Ungarn: Ungarn kappt rechtskonservativen Thinktank",
-   "s": "Regierungschef Péter Magyar zieht das Vermögen mehrerer Stiftungen des früheren Ministerpräsidenten Orbán ein. Ein Tätigkeitsverbot ist das nicht.",
-   "u": "https://taz.de/Rueckbau-in-Ungarn/!6209410/",
-   "q": "taz",
-   "d": "2026-09-02T16:08:00+00:00"
-  },
-  {
-   "t": "Sanktionen gegen Russland: Viel Druck, wenig Wirkung",
-   "s": "Nach dem Drohnenfund in Leipzig möchte Deutschland den Druck auf Putins Schattenflotte erhöhen. Bisher blieb der Druck auf Russlands Energiegeschäft begrenzt.",
-   "u": "https://taz.de/Sanktionen-gegen-Russland/!6209415/",
-   "q": "taz",
-   "d": "2026-09-02T15:41:00+00:00"
-  },
-  {
-   "t": "Selenskyj warnt vor Flügen über Russland: Wie die Ukraine ihre Drohnenangriffe ausweiten will",
-   "s": "Der ukrainische Präsident Selenskyj deutet kommende Angriffe auf die zivile Luftfahrtinfrastruktur an. Reagieren ausländische Airlines darauf, trifft das Russlands Wirtschaft.",
-   "u": "https://taz.de/Selenskyj-warnt-vor-Fluegen-ueber-Russland/!6209421/",
-   "q": "taz",
-   "d": "2026-09-02T12:18:00+00:00"
-  },
-  {
-   "t": "Niederschlagung des Prager Frühlings: Gefährlicher August",
-   "s": "Als der Warschauer Pakt 1968 den Prager Frühling niederschlug, gab es auch in Russland Protest. Unter Putin wurde die Erinnerung daran immer unbequemer.",
-   "u": "https://taz.de/Niederschlagung-des-Prager-Fruehlings/!6209054/",
-   "q": "taz",
-   "d": "2026-09-02T11:41:00+00:00"
-  },
-  {
-   "t": "Referendum in Island: Wirklich nur Fisch? Wieso Island nicht in die EU will",
-   "s": "Nach dem „Nein“ beim Referendum erzählt unsere Korrespondentin von Fischen, Firmen und Desinformationskampagnen. Und davon, was Island zusammenhält.",
-   "u": "https://taz.de/Referendum-in-Island/!6208965/",
-   "q": "taz",
-   "d": "2026-09-02T09:27:00+00:00"
   }
  ]
 }
