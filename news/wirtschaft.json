@@ -1,20 +1,34 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-07T08:19:50+00:00",
+ "updated": "2026-09-07T15:03:56+00:00",
  "items": [
   {
-   "t": "Marktbericht: Viele Sorgen belasten Anleger zu Wochenbeginn",
-   "s": "Zum Wochenstart blicken Anleger mit Sorge auf mehrere Themen. Vor allem der Ausgang der Landtagswahl in Sachsen-Anhalt sorgt für Gesprächsstoff. Außerdem sind am Energiemarkt die Ölpreise wieder gestiegen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-100.html",
+   "t": "Wahl in Sachsen-Anhalt: Arbeitgeber warnen vor \"Klima der Abschottung\"",
+   "s": "Vertreter der deutschen Industrie und Ökonomen gehen davon aus, dass sich der AfD-Wahlsieg in Sachsen-Anhalt negativ auf die Wirtschaft auswirken könnte. An die Bundesregierung richten sie den Appell, am Reformkurs festzuhalten.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-07T08:16:01+00:00"
+   "d": "2026-09-07T14:13:56+00:00"
   },
   {
-   "t": "Ist das Leben in New York für junge Berufstätige noch bezahlbar?",
-   "s": "Galoppierende Preise treffen in den USA besonders junge Leute in den großen Städten. Beispiel New York: Hier müssen auch Berufstätige erfinderisch werden, wenn es um Ausgaben im Alltag geht. Von Martina Buttler.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/lebenshaltungskosten-new-york-100.html",
+   "t": "Treffen in Monaco: Rückversicherer warnen vor Naturkatastrophen",
+   "s": "Überschwemmungen, Dürren, Waldbrände: Die Rückversicherer warnen vor mehr wetterbedingten Naturkatastrophen. Auf dem Branchentreffen in Monte Carlo müssen sie dennoch mit sinkenden Prämien rechnen. Die Aktien stehen unter Druck.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-monte-carlo-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-06T11:18:04+00:00"
+   "d": "2026-09-07T12:35:17+00:00"
+  },
+  {
+   "t": "VW-Werk Osnabrück soll Rüstungsstandort werden",
+   "s": "Volkswagen will das Werk Osnabrück an den israelischen Finanzinvestor Aurelius und das Land Niedersachsen verkaufen. Künftig sollen dort Rüstungsgüter gefertigt werden. Drei Viertel der Jobs könnten so erhalten werden.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ruestung-osnabrueck-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T12:29:56+00:00"
+  },
+  {
+   "t": "Zehntausende Fachkräfte im Verkauf könnten bald fehlen",
+   "s": "Bis zum Jahr 2029 droht einer Studie zufolge ein gravierender Mangel an Verkäuferinnen und Verkäufern im deutschen Einzelhandel. Auch in anderen Berufen könnte der Fachkräftemangel stark zunehmen.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/fachverkauefermangel-iw-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T08:54:43+00:00"
   },
   {
    "t": "Zu viele Touristen - wie Dubrovnik gegensteuert",
@@ -38,20 +52,6 @@
    "d": "2026-09-05T09:17:45+00:00"
   },
   {
-   "t": "Ist Sachsen-Anhalt wirtschaftlich abgehängt?",
-   "s": "Die Wirtschaftslage ist bei der Wahl in Sachsen-Anhalt ein wichtiges Thema. Das Bundesland altert und schrumpft, die Arbeitslosigkeit ist eher hoch. Manche Sorgen kennen aber auch Westregionen - und es gibt Standort-Vorteile. Von Bianca von der Au.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-wahl-afd-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T05:25:59+00:00"
-  },
-  {
-   "t": "Warnstreik in den norddeutschen Seehäfen beendet",
-   "s": "Die Gewerkschaft ver.di hatte Beschäftigte in Hamburg und Niedersachsen aufgerufen, für 48 Stunden ihre Arbeit niederzulegen.",
-   "u": "https://www.tagesschau.de/inland/regional/hamburg/warnstreik-in-norddeutschen-seehaefen-beendet,hafenstreik-104.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T04:47:43+00:00"
-  },
-  {
    "t": "Babyboomer gehen in Rente: Das bremst Deutschlands Wachstum",
    "s": "Bis 2040 gehen 30 Prozent der Erwerbspersonen in Deutschland in Rente. Das kostet Wachstum, wenn Politik und Unternehmen nicht gegensteuern. KI könnte helfen - ist aber nur ein Teil der Antwort. Von Angela Göpfert.",
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/babyboomer-rente-deutschland-wachstum-100.html",
@@ -66,25 +66,11 @@
    "d": "2026-09-04T18:27:24+00:00"
   },
   {
-   "t": "Marktbericht: DAX-Anleger bleiben vorsichtig",
-   "s": "Trotz guter Nachrichten aus dem VW-Konzern hat sich der DAX heute nur wenig bewegt. Zins- und Inflationssorgen bleiben. Auch die Wall Street schwächelt nach neuen Daten vom Arbeitsmarkt.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-leitzins-geldanlage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T16:09:28+00:00"
-  },
-  {
    "t": "Sabotage an Strom und Schienen - Wie resilient ist Deutschlands kritische Infrastruktur?",
    "s": "Drohnen, Brandanschläge, gekappte Kabel: Deutschlands kritische Infrastruktur steht unter Druck. Wie steht es nach jüngsten Angriffen um den Schutz von Energie- und Verkehrsnetzen? Und was leistet das neue KRITIS-Dachgesetz wirklich?",
    "u": "https://www.deutschlandfunk.de/energieversorgung-verkehrsnetze-anschlaege-kritische-infrastruktur-kritis-dachgesetz-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-04T15:43:00+00:00"
-  },
-  {
-   "t": "Das sind die Punkte des VW-Sparplans",
-   "s": "Abbau von Zehntausenden Stellen, vier Werke auf der Kippe - und das ist noch nicht alles. VW hat ein gigantisches Sparprogramm auf den Weg gebracht. Was der Konzern plant - und was Experten dazu sagen. Ein Überblick.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplan-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T11:57:57+00:00"
   },
   {
    "t": "Weltweite Lebensmittelpreise steigen auf höchsten Stand seit 2022",
@@ -101,41 +87,6 @@
    "d": "2026-09-04T08:09:07+00:00"
   },
   {
-   "t": "Sind Roboter wirklich die Zukunft?",
-   "s": "Die Technikmesse IFA zeigt, was humanoide Roboter heute schon können - und wo noch Grenzen liegen. Ihr Potenzial ist weitgehend unstrittig. Doch wie schnell erobern die Maschinen den Alltag? Von Jörg Poppendiek.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/robotik-ifa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T08:07:38+00:00"
-  },
-  {
-   "t": "Taxi ohne Lenkrad: Tesla stellt \"Cybercab\" vor",
-   "s": "Der US-Elektroautobauer Tesla hat im Bundesstaat Texas sein neues \"Cybercab\" vorgestellt und mit ersten Fahrten begonnen. Die fahrerlosen Taxis werden zunächst in einigen Gegenden in Austin angeboten.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-cybercab-taxi-ohne-lenkrad-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T06:53:50+00:00"
-  },
-  {
-   "t": "Technikmesse IFA startet in Berlin - China im Fokus",
-   "s": "Was einmal als Schaufenster deutscher Technik begann, ist heute Bühne für eine globale Industrie. Wer durch die IFA-Technikmesse geht, merkt schnell, dass sich die Gewichte verschoben haben: Die meisten Aussteller kommen aus China.",
-   "u": "https://www.tagesschau.de/inland/regional/berlin/technikmesse-ifa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T05:12:14+00:00"
-  },
-  {
-   "t": "ARD-DeutschlandTrend: Mehrheit will staatliche Hilfen für Autoindustrie",
-   "s": "Deutschlands Autoindustrie steckt in der Krise. Verantwortung dafür sehen die Menschen laut ARD-DeutschlandTrend bei den Herstellern selbst. Trotzdem sprechen sie sich dafür aus, der Branche zu helfen.",
-   "u": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-september-automobilindustrie-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T04:57:44+00:00"
-  },
-  {
-   "t": "Sabotage am Stromnetz - wie Energieversorger reagieren",
-   "s": "Die Energie-Infrastruktur lässt sich nicht zu hundert Prozent schützen. Darin sind sich Fachleute einig. Dennoch gibt es Möglichkeiten, den Schutz zu verbessern. Was tun die Versorger? Von David Zajonz.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/schutz-energie-infrastruktur-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T14:40:34+00:00"
-  },
-  {
    "t": "Russische Schattenflotte - Wie die Bundesregierung sanktionierte Öltransporte stoppen kann",
    "s": "Als Reaktion auf den versuchten Drohnenanschlag von Leipzig hat die Bundesregierung auch ein schärferes Vorgehen gegen Russlands sogenannte Schattenflotte angekündigt. Was möglich ist, machen andere europäische Länder schon länger vor.",
    "u": "https://www.deutschlandfunk.de/russland-schattenflotte-ostsee-bundesregierung-sanktionen-kontrollen-100.html",
@@ -150,13 +101,6 @@
    "d": "2026-09-03T11:43:20+00:00"
   },
   {
-   "t": "Wirtschaftsinstitute korrigieren Wachstumsprognosen nach oben",
-   "s": "Es soll wieder bergauf gehen in der Wirtschaft: Mehrere Forschungsinstitute heben ihre Prognose für das aktuelle Jahr deutlich an. Doch die Inflation bleibt hoch - und könnte zur Belastung werden.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsinstitute-herbstprognose-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T11:07:18+00:00"
-  },
-  {
    "t": "LNG aus den USA: Droht die nächste Abhängigkeit beim Gas?",
    "s": "Die deutschen Gasspeicher sind so leer wie nie um diese Zeit. Auch darum werden LNG-Lieferungen immer wichtiger. Doch das Flüssiggas kommt vor allem aus den USA. Ist das ein Risiko? Von L.-M. Hiltscher.",
    "u": "https://www.tagesschau.de/wirtschaft/energie/gas-versorgung-lng-usa-pipelines-100.html",
@@ -164,11 +108,67 @@
    "d": "2026-09-03T11:06:08+00:00"
   },
   {
-   "t": "Norwegen beschlagnahmt russisches Schiff vor Spitzbergen",
-   "s": "Ein russisches Schiff für Expeditionskreuzfahrten ist vor Spitzbergen von norwegischen Behörden beschlagnahmt worden. Grund sind Entschädigungsforderungen des ukrainischen Energiekonzerns Naftogaz. Russland reagierte empört.",
-   "u": "https://www.tagesschau.de/ausland/europa/kreuzfahrtschiff-russland-norwegen-100.html",
+   "t": "Preisrekord für Super E10 infolge des Iran-Kriegs",
+   "s": "Es ist ein neuer Schock an den Zapfsäulen: Benzin ist wegen der neuen Kämpfe so teuer wie noch nie. Doch es lohnt ein genauer Blick. Denn wird die Inflation berücksichtigt, waren die Spritpreise schon mal höher.",
+   "u": "https://www.tagesschau.de/wirtschaft/benzinpreis-rekord-102.html",
    "q": "Tagesschau",
-   "d": "2026-09-03T08:53:07+00:00"
+   "d": "2026-09-03T08:49:41+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 03.09.2026",
+   "s": "Update Wirtschaft vom 03.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1641874.html",
+   "q": "Tagesschau",
+   "d": "2026-09-03T07:57:00+00:00"
+  },
+  {
+   "t": "Kommentar zu Krankschreibungen - Die Politik sollte die Idee schnell beerdigen",
+   "s": "Bundesarbeitsministerin Bas sollte einen Weg finden, um diese unsinnige Verständigung der Koalition auf ein Attest gleich am ersten Krankheitstag zu stoppen. Diese geplante Attestpflicht ist praxisfern und wird keine Fehlzeit weniger bringen.Von Birgid Becker",
+   "u": "https://www.deutschlandfunk.de/kommentar-zu-krankschreibungen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-31T14:38:00+00:00"
+  },
+  {
+   "t": "Smartes Kinderspielzeug - Wer kontrolliert den KI-Teddy?",
+   "s": "Kuscheltiere und Puppen lernen dank generativer KI sprechen. Doch erste Tests zeigen: Was Kindern Spaß macht, kann sie auch verstören und manipulieren.",
+   "u": "https://www.deutschlandfunk.de/spielzeug-ki-kinder-gefahren-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-30T14:16:00+00:00"
+  },
+  {
+   "t": "Globales Rennen um KI - Europäische Unternehmen punkten durch Spezialisierung",
+   "s": "Europa hat KI-Unternehmen, die global wettbewerbsfähig sind: Mistral, DeepL und Black Forest Labs. Insbesondere Unternehmen nutzen gern KI aus Europa. Ein Grund dafür ist die vergleichsweise strenge KI-Regulierung in der EU.",
+   "u": "https://www.deutschlandfunk.de/ki-kuenstliche-intelligenz-europa-deepl-mistral-digitale-souveraenitaet-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-27T10:00:00+00:00"
+  },
+  {
+   "t": "Sechs Monate Irankrieg - Hohe Gewinne dank hoher Spritpreise",
+   "s": "An den Tankstellen steigen die Preise, bei den großen Ölkonzernen die Gewinne. Finanzminister Lars Klingbeil würde die Konzerne daher gern stärker zur Kasse bitten. In Europa hat man damit bereits Erfahrungen gesammelt.",
+   "u": "https://www.deutschlandfunk.de/spritpreise-irankrieg-profit-uebergewinnsteuer-oelkonzerne-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-25T08:55:00+00:00"
+  },
+  {
+   "t": "Viertagewoche in Island - Kürzer arbeiten, gleich verdienen",
+   "s": "Vier Tage arbeiten und trotzdem volles Gehalt: Für viele Beschäftigte in Island ist das längst Realität. Das Modell bringt mehr Freizeit, sorgt aber auch für Kritik von Arbeitgebern und teilweise für Einschränkungen bei öffentlichen Angeboten.",
+   "u": "https://www.deutschlandfunk.de/island-viertagewoche-arbeitszeit-verkuerzung-work-life-balance-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-21T07:58:00+00:00"
+  },
+  {
+   "t": "Griechenlands Sechstagewoche - Länger arbeiten, weniger verdienen",
+   "s": "Vor zwei Jahren hat Griechenland die Sechstagewoche eingeführt, inzwischen sind auch 13-Stunden-Tage möglich. Die Wirtschaft wächst, die Arbeitslosigkeit sinkt. Bei den Beschäftigten kommt davon wenig an.",
+   "u": "https://www.deutschlandfunk.de/griechenland-sechstagewoche-arbeitszeit-loehne-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-21T07:57:00+00:00"
+  },
+  {
+   "t": "Speicher nur halb voll - Wenn beim Gas die Reserve fehlt",
+   "s": "Deutschlands Gasspeicher sind deutlich schlechter gefüllt als geplant. Die Bundesregierung setzt auf den Markt. Doch Experten warnen vor einem Szenario, das den Winter teurer und schwieriger machen könnte.",
+   "u": "https://www.deutschlandfunk.de/gasspeicher-deutschland-fuellstand-winter-warnung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-20T15:11:00+00:00"
   }
  ]
 }

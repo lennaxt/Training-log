@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-07T08:19:49+00:00",
+ "updated": "2026-09-07T15:03:55+00:00",
  "items": [
+  {
+   "t": "Wie der AfD-Wahlsieg in Sachsen-Anhalt in Frankreich bewertet wird",
+   "s": "Auch in Frankreich ist der AfD-Sieg in Sachsen-Anhalt Thema. Viele Politiker sind entsetzt - gilt die AfD doch als noch extremer als der Rassemblement National. Dessen Frontfrau Le Pen schweigt zum deutschen Wahlergebnis. Von Julia Borutta.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-reaktionen-wahl-sachsen-anhalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T13:29:32+00:00"
+  },
+  {
+   "t": "US-Sondergesandte in Kiew: \"Beide Seiten müssen Kompromisse eingehen\"",
+   "s": "Bei ihrem Besuch in Kiew erklärten Kushner und Witkoff, die \"Zutaten\" für einen Frieden zwischen Russland und der Ukraine seien alle vorhanden. Der ukrainische Präsident Selenskyj scheint da weniger Hoffnung zu haben. Von Peter Sawicki.",
+   "u": "https://www.tagesschau.de/ausland/europa/kiew-besuch-witkoff-kushner-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T09:36:09+00:00"
+  },
   {
    "t": "Signal an die USA: EU plant mehr Investitionen in Grönland",
    "s": "\"Wir sind Familie\", betonte EU-Kommissionspräsidentin von der Leyen bei ihrer Ankunft in Grönland. Nun will sie die Partnerschaft mit einem großen Finanzpaket stärken - auch als Signal gegen die Gebietsansprüche der USA.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/china-comedian-guo-100.html",
    "q": "Tagesschau",
    "d": "2026-09-04T09:40:43+00:00"
-  },
-  {
-   "t": "Argentinien droht mit Sanktionen - Dauerstreit um Falklandinseln",
-   "s": "Argentiniens Präsident Milei geht im Dauerkonflikt mit Großbritannien um die Falklandinseln im Südatlantik in die Offensive. Er droht mit Militär und Sanktionen - und auch US-Präsident Trump mischt sich ein.",
-   "u": "https://www.tagesschau.de/ausland/amerika/argentinien-streit-falkland-inseln-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T09:35:15+00:00"
-  },
-  {
-   "t": "Nepal: Zwei Arbeiter neun Tage nach Sturzflut aus Tunnel gerettet",
-   "s": "In Nepal konnten rund anderthalb Wochen nach der katastrophalen Sturzflut zwei Arbeiter lebend aus einem Tunnel gerettet werden. Noch immer sollen Hunderte Arbeiter in dem Tunnelsystem verschüttet sein.",
-   "u": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-rettung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T09:24:23+00:00"
   }
  ]
 }

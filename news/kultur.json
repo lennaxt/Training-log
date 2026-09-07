@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-07T08:19:53+00:00",
+ "updated": "2026-09-07T15:03:59+00:00",
  "items": [
+  {
+   "t": "Wahlkampf in Argentinien: Trumpfkarte Nationalgefühl",
+   "s": "Argentiniens Präsident Milei missbraucht die britischen Falklandinseln als nationalistisches Wahlkampfthema, weil seine Umfragen schlecht sind.",
+   "u": "https://taz.de/Wahlkampf-in-Argentinien/!6210637/",
+   "q": "taz",
+   "d": "2026-09-07T08:20:00+00:00"
+  },
   {
    "t": "Vor den Midterms in den USA: Briefwahl beginnt trotz Rechtsstreit",
    "s": "In North Carolina erhalten erste Wahlberechtigte ihre Unterlagen für die Stimmabgabe per Post. Das juristische Geharke um Trumps Versuch, die Konditionen zu erschweren, geht in eine neue Runde.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Wahlkampfauftakt-in-Brasilien/!6204952/",
    "q": "taz",
    "d": "2026-08-17T11:17:00+00:00"
-  },
-  {
-   "t": "US-Flugzeugträger im Nahen Osten: Katastrophale Zustände und Ablenkung mit Eis",
-   "s": "Berichte über miserable Zustände auf dem Flugzeugträger USS Abraham Lincoln häufen sich. US-Präsident Trump und sein Verteidigungsminister wiegeln ab.",
-   "u": "https://taz.de/US-Flugzeugtraeger-im-Nahen-Osten/!6204480/",
-   "q": "taz",
-   "d": "2026-08-16T08:03:00+00:00"
   }
  ]
 }

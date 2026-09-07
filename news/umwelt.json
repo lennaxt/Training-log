@@ -1,16 +1,51 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-07T08:19:52+00:00",
+ "updated": "2026-09-07T15:03:57+00:00",
  "items": [
   {
-   "t": "AfD-Regierung in Sachsen-Anhalt: Ein absolutes Grauen",
-   "s": "Verfassungsschutz, Schulpflicht, Rundfunkstaatsverträge, Migrationspolitik: Was kann die AfD anrichten, sollte sie an die Macht kommen?",
-   "u": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6209778/",
+   "t": "Angriffe auf deutsches Stromnetz: Noch mehr Raketen – aber weiter keine Spur von Daniel V.",
+   "s": "In Sachsen haben die Behörden weitere Sprengkörper nahe einem Umspannwerk gefunden. Der mutmaßliche Täter ist weiter flüchtig.",
+   "u": "https://taz.de/Angriffe-auf-deutsches-Stromnetz/!6210878/",
    "q": "taz",
-   "d": "2026-09-07T07:19:00+00:00"
+   "d": "2026-09-07T14:47:00+00:00"
   },
   {
-   "t": "Lehren aus der Wahl in Sachsen-Anhalt: Der gut gelaunte Rechtsextremismus",
+   "t": "BSW-Erfolg in Sachsen-Anhalt: Zum Steigbügelhalten bereit",
+   "s": "Das Bündnis Sahra Wagenknecht steht bereit, um einen AfD-Ministerpräsidenten ins Amt zu hieven. Spitzenkandidat Ulrich Siegmund lässt offen, ob er das will.",
+   "u": "https://taz.de/BSW-Erfolg-in-Sachsen-Anhalt/!6210772/",
+   "q": "taz",
+   "d": "2026-09-07T13:54:00+00:00"
+  },
+  {
+   "t": "Extremismusexperte über Sachsen-Anhalt: „Die Zivilgesellschaft braucht Unterstützung von außen“",
+   "s": "Es muss jetzt darauf ankommen, demokratische Kerne der Zivilgesellschaft zu erhalten, sagt der Theologe David Begrich – und da helfe: Aufmerksamkeit.",
+   "u": "https://taz.de/Extremismusexperte-ueber-Sachsen-Anhalt/!6210779/",
+   "q": "taz",
+   "d": "2026-09-07T13:43:00+00:00"
+  },
+  {
+   "t": "CDU nach Wahl in Sachsen-Anhalt: „Der Regierungsauftrag liegt jetzt bei der AfD“",
+   "s": "Bundeskanzler Merz räumt ein, dass sein Regierungskurs schlecht für die Wahl war, will aber daran festhalten. Spitzenkandidat Schulze zieht erste Konsequenzen.",
+   "u": "https://taz.de/CDU-nach-Wahl-in-Sachsen-Anhalt/!6210912/",
+   "q": "taz",
+   "d": "2026-09-07T12:51:00+00:00"
+  },
+  {
+   "t": "BSW nach Landtagswahl in Sachsen-Anhalt: Wagenknecht-Partei im Liebestaumel mit Rechtsextremen",
+   "s": "Dem BSW gelingt der Einzug in den Landtag. Die Wagenknecht-Partei würde der AfD ins Amt verhelfen, sonst aber nicht wirklich mitmachen.",
+   "u": "https://taz.de/BSW-nach-Landtagswahl-in-Sachsen-Anhalt/!6210763/",
+   "q": "taz",
+   "d": "2026-09-07T10:39:00+00:00"
+  },
+  {
+   "t": "Wahlausgang in Sachsen-Anhalt: AfD verbieten oder verlieren",
+   "s": "Sachsen-Anhalt zeigt, dass man Demokratiefeinden mit Debatten nicht beikommt. Nur ein Verbot der Partei könnte die offene Gesellschaft retten.",
+   "u": "https://taz.de/Wahlausgang-in-Sachsen-Anhalt/!6210774/",
+   "q": "taz",
+   "d": "2026-09-07T10:05:00+00:00"
+  },
+  {
+   "t": "Lehren aus der Wahl in Sachsen-Anhalt: Gut gelaunter Rechtsextremismus",
    "s": "Die AfD kann in Sachsen-Anhalt wohl regieren – und die Parteien der Mitte halten sich erstmal die Ohren zu. Sechs Lehren aus der Landtagswahl.",
    "u": "https://taz.de/Lehren-aus-der-Wahl-in-Sachsen-Anhalt/!6210759/",
    "q": "taz",
@@ -122,13 +157,6 @@
    "d": "2026-09-06T10:44:00+00:00"
   },
   {
-   "t": "Vor den Landtagswahlen: Was die Arbeiterklasse denkt",
-   "s": "Die AfD schneidet vor allem in der Arbeiterschaft gut ab. Die taz hat in Magdeburg und Rügen nachgehakt, was die Menschen bewegt und was sie umstimmen würde.",
-   "u": "https://taz.de/Vor-den-Landtagswahlen/!6209760/",
-   "q": "taz",
-   "d": "2026-09-06T09:20:00+00:00"
-  },
-  {
    "t": "Mietendemo in Berlin: Enteignen, jetzt!",
    "s": "Mehr als 10.000 Menschen demonstrierten am Samstag gegen steigende Mieten. Im Zentrum stand die Forderung nach Vergesellschaftung großer Wohnungskonzerne.",
    "u": "https://taz.de/Mietendemo-in-Berlin/!6209966/",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Sachsen-Anhalt/!6210514/",
    "q": "taz",
    "d": "2026-09-06T06:36:00+00:00"
-  },
-  {
-   "t": "Wahl in Sachsen-Anhalt: Sieg Unheil",
-   "s": "Rechtsextreme gewinnen die Wahl in Sachsen-Anhalt. Die CDU ist weit abgeschlagen, das BSW nimmt die Fünfprozenthürde. Eine Regierungsbildung dürfte schwierig werden.",
-   "u": "https://taz.de/Landtagswahl-live-Wie-braun-wird-Sachsen-Anhalt/!6210219/",
-   "q": "taz",
-   "d": "2026-09-06T06:14:00+00:00"
-  },
-  {
-   "t": "Vor der Landtagswahl in Sachsen-Anhalt: Plattenverschiebung",
-   "s": "In Halle-Neustadt wohnen Jüngere mit Migrationsgeschichte und Ältere mit DDR-Biografie. Wie schauen sie auf ihr Viertel und die Politik?",
-   "u": "https://taz.de/Vor-der-Landtagswahl-in-Sachsen-Anhalt/!6206552/",
-   "q": "taz",
-   "d": "2026-09-06T05:57:00+00:00"
-  },
-  {
-   "t": "Rheinmetall Entwaffnen in Köln: Abschlussdemonstration nach Zusammenstößen unterbrochen",
-   "s": "Eine Woche protestiert „Rheinmetall Entwaffnen“ in Köln gegen Aufrüstung. Die Abschlussdemo endet für einen Teil im Polizeikessel.",
-   "u": "https://taz.de/Rheinmetall-Entwaffnen-in-Koeln/!6208939/",
-   "q": "taz",
-   "d": "2026-09-05T18:20:00+00:00"
-  },
-  {
-   "t": "Punksänger Monchi im Gespräch: „Gehen? Digga, ist das euer Ernst?“",
-   "s": "Jan Gorkow, besser bekannt als Monchi, Sänger der Band Feine Sahne Fischfilet, erzählt von der Kraft des Machens und warum er nicht mehr alle „Cops“ für „Bastards“ hält.",
-   "u": "https://taz.de/Punksaenger-Monchi-im-Gespraech/!6206560/",
-   "q": "taz",
-   "d": "2026-09-05T18:06:00+00:00"
   }
  ]
 }

@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-07T08:19:52+00:00",
+ "updated": "2026-09-07T15:03:58+00:00",
  "items": [
+  {
+   "t": "Migration über den Ärmelkanal: Rechte blockieren Hafen von Portsmouth",
+   "s": "In Großbritannien protestieren bereits die zweite Nacht rechte Demonstranten gegen Boat People, wenn diese in Häfen an Land gebracht werden.",
+   "u": "https://taz.de/Migration-ueber-den-Aermelkanal/!6210837/",
+   "q": "taz",
+   "d": "2026-09-07T14:11:00+00:00"
+  },
+  {
+   "t": "US-Vermittler in Moskau und Kyjiw: Diplomaten als Fans",
+   "s": "US-Vermittler Steve Witkoff und Jared Kushner haben Gespräche in Russland und der Ukraine geführt. Viele Fragen bleiben offen, immerhin ist von „neuen Ideen“ die Rede.",
+   "u": "https://taz.de/US-Vermittler-in-Moskau-und-Kyjiw/!6210840/",
+   "q": "taz",
+   "d": "2026-09-07T13:07:00+00:00"
+  },
   {
    "t": "Iran, der Krieg und die Sanktionen: 366 Quadratmeter, fünf Schlafzimmer, ein dubioser Bankier",
    "s": "Immobilien im dreistelligen Millionenbereich soll Irans oberster Führer Chamenei über einen Strohmann in Europa besitzen. Nun werden zwei Apartments verkauft.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Tagebuch-aus-Georgien/!6207617/",
    "q": "taz",
    "d": "2026-09-03T09:35:00+00:00"
-  },
-  {
-   "t": "1.653 Tage Krieg in der Ukraine: Wie wir uns auf die Kälte vorbereiten",
-   "s": "Der russische Beschuss auf Kyjiw wird intensiver, und der Herbst beginnt. Eine Checklist für die kalte Jahreszeit.",
-   "u": "https://taz.de/1653-Tage-Krieg-in-der-Ukraine/!6209376/",
-   "q": "taz",
-   "d": "2026-09-03T09:20:00+00:00"
-  },
-  {
-   "t": "Estnische Staatschefin Ülle Madise: Die Präsidentin, die trotzdem lacht",
-   "s": "Ülle Madise wird die neue Staatspräsidentin von Estland. Trotz der Bedrohung durch Putins Russland will sie Leichtigkeit, Humor und Kreativität.",
-   "u": "https://taz.de/Estnische-Staatschefin-Uelle-Madise/!6209753/",
-   "q": "taz",
-   "d": "2026-09-03T07:36:00+00:00"
   }
  ]
 }
