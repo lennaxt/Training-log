@@ -335,8 +335,23 @@
   .ex-head{display:grid;grid-template-columns:34px 1fr auto;gap:16px;align-items:center;
     padding:26px 0;cursor:pointer;transition:padding-left .3s}
   .ex.open .ex-head{padding-left:12px}
-  .ex-num{font-family:var(--display);font-size:15px;font-weight:500;color:var(--khaki)}
+  .ex-num{font-family:var(--display);font-size:15px;font-weight:500;color:var(--khaki);
+    position:relative;-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+  /* Griff zum Sortieren: Tippflaeche auf 44px, ohne die Zeile zu veraendern. */
+  .ex-num::before{content:"";position:absolute;inset:-14px -12px}
   .ex.filled .ex-num{color:var(--blue)}
+  /* ── Übungen sortieren ── */
+  .ex.dragging{position:relative;z-index:6;background:var(--paper);border-bottom-color:transparent;
+    border-radius:14px;box-shadow:0 14px 34px rgba(52,51,48,0.20)}
+  /* Im Dunkeln traegt der Schatten kaum; ein Rand hebt die Zeile ab (wie beim Hinweis). */
+  body.dark .ex.dragging{box-shadow:0 14px 34px rgba(0,0,0,0.5),0 0 0 1px var(--line)}
+  .ex.dragging .ex-head{padding-left:12px}
+  .ex.dragging .ex-num{color:var(--ink-soft)}
+  .ex.shifting{transition:transform .22s cubic-bezier(.22,.61,.36,1)}
+  .ex.dropping{transition:transform .26s cubic-bezier(.22,.61,.36,1),box-shadow .26s ease,border-radius .26s ease}
+  .ex.dropping{box-shadow:0 0 0 rgba(0,0,0,0);border-radius:0}
+  body.reordering{-webkit-user-select:none;user-select:none}
+  .reorder-hint{font-size:11.5px;color:var(--ink-soft);opacity:.55;margin-top:18px;line-height:1.45}
   .ex-info{min-width:0}
   .ex-info h3{font-size:19px;line-height:1.25}
   .ex-meta{font-size:13.5px;color:var(--ink-soft);margin-top:5px;line-height:1.5}
@@ -1701,6 +1716,7 @@ function load(){
   if(!s.names)s.names={};
   if(!s.schemes)s.schemes={};
   if(!s.plans)s.plans={};
+  if(!s.order)s.order={};
   if(!s.deleted)s.deleted=[];
   if(!s.hiddenCats)s.hiddenCats=[];
   if(!s.extras)s.extras={};
@@ -1856,7 +1872,23 @@ function createPlan(){
 /* ── Übungsverzeichnis ── */
 function planFor(day){
   const base=PLAN[day]?PLAN[day].ex:[];
-  return base.concat(store.custom[day]||[]).filter(e=>!(store.hidden[day]||[]).includes(e.id));
+  const list=base.concat(store.custom[day]||[]).filter(e=>!(store.hidden[day]||[]).includes(e.id));
+  return orderedEx(day,list);
+}
+/* Die selbst gelegte Reihenfolge steht als Liste von Ids in store.order. Wer
+   dort fehlt (spaeter angelegt), haengt hinten an und behaelt seinen Platz
+   untereinander — ein fehlender Eintrag darf nie eine Uebung verschlucken. */
+function orderedEx(day,list){
+  const ord=(store.order||{})[day];
+  if(!ord||!ord.length)return list;
+  const pos=new Map(ord.map((id,i)=>[id,i]));
+  return list.map((e,i)=>({e,i,p:pos.has(e.id)?pos.get(e.id):Infinity}))
+    .sort((a,b)=>a.p-b.p||a.i-b.i).map(x=>x.e);
+}
+function saveExOrder(day,ids){
+  store.order=store.order||{};
+  store.order[day]=ids;
+  save();
 }
 function exName(id){
   if(store.names[id])return store.names[id];
@@ -2134,9 +2166,9 @@ function renderTrain(){
     if(!draft[e.id]){const p=prevSets[lg.length]||prevSets[0]||null;draft[e.id]={kg:p?p.kg:defKg(e.id),reps:p?p.reps:8}}
     const dr=draft[e.id];
     const eName=exName(e.id),eScheme=exScheme(e.id)||e.scheme;
-    h+=`<div class="ex ${openEx===e.id?'open':''} ${justOpened===e.id?'opening':''} ${lg.length?'filled':''}">
+    h+=`<div class="ex ${openEx===e.id?'open':''} ${justOpened===e.id?'opening':''} ${lg.length?'filled':''}" data-id="${e.id}">
       <div class="ex-head" onclick="toggleEx('${e.id}')">
-        <div class="ex-num" style="color:${day==="A"?(i%2?'var(--glow)':'var(--earth)'):(i%2?'var(--green-lite)':'var(--green)')}">${String(i+1).padStart(2,"0")}</div>
+        <div class="ex-num" aria-label="Übung ${i+1}, gedrückt halten zum Verschieben" style="color:${day==="A"?(i%2?'var(--glow)':'var(--earth)'):(i%2?'var(--green-lite)':'var(--green)')}">${String(i+1).padStart(2,"0")}</div>
         <div class="ex-info">${editEx===e.id?`
           <div class="edit-form" onclick="event.stopPropagation()">
             <div class="field stack"><div class="cap" style="text-align:left">Name</div>
@@ -2186,10 +2218,12 @@ function renderTrain(){
     </div>`;
   }
   h+=`</div>`;
+  const sortNote=ex.length>1?
+    `<p class="reorder-hint">Die Nummer links gedrückt halten, um eine Übung zu verschieben.</p>`:"";
   const switchNote=kraftDays().length>1?
     `<p style="font-size:11.5px;color:var(--ink-soft);opacity:.55;margin-top:18px">Tippe oben auf den Buchstaben, um das Training zu wechseln.</p>`:"";
   const planNote=`<button type="button" class="plan-link" onclick="openPlanMgr()">Einheiten verwalten</button>`;
-  v.innerHTML=h+`</div>`+switchNote+planNote;
+  v.innerHTML=h+`</div>`+sortNote+switchNote+planNote;
   justOpened=null;
   if(newOpen){const f=document.getElementById("nfName");if(f&&!newName)f.focus()}
 }
@@ -3000,7 +3034,7 @@ function wipe(){
   const preserved={};
   keep.forEach(k=>{if(store[k]!==undefined)preserved[k]=store[k]});
   const graves=[...(store._delSess||[]),...store.sessions.map(x=>x.ts)].filter(t=>typeof t==="number").slice(-500);
-  store={_delSess:graves,sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},deleted:Object.keys(PLAN),...preserved};
+  store={_delSess:graves,sessions:[],active:null,custom:{A:[],B:[]},hidden:{A:[],B:[]},names:{},schemes:{},plans:{},order:{},deleted:Object.keys(PLAN),...preserved};
   draft={};
   save();applyStoredAccents();applyStoredFont();applyDark();openEx=null;newOpen=false;setTab("train");
 }
@@ -3400,7 +3434,7 @@ document.addEventListener("pointercancel",endSwipe,{passive:true});
 let lpTimer=null,lpFired=false;
 document.addEventListener("pointerdown",e=>{
   const head=e.target.closest(".ex-head");
-  if(!head||e.target.closest("input,select,.edit-form"))return;
+  if(!head||e.target.closest("input,select,.edit-form,.ex-num"))return;
   const exEl=head.closest(".ex");if(!exEl)return;
   const m=head.getAttribute("onclick")?.match(/toggleEx\('([^']+)'\)/);
   if(!m)return;
@@ -3419,6 +3453,112 @@ document.addEventListener("pointercancel",()=>{clearTimeout(lpTimer);lpTimer=nul
 
 const origToggleEx=toggleEx;
 toggleEx=function(id){if(lpFired){lpFired=false;return}origToggleEx(id)};
+
+/* ── Übungen sortieren: Long Press auf die Nummer ──
+   Die gezogene Zeile bleibt im Fluss stehen und wird nur verschoben; die
+   anderen weichen um genau ihre Hoehe aus. So bleibt das Loch immer so gross
+   wie die Zeile, auch wenn die Zeilen unterschiedlich hoch sind. */
+let dragLpTimer=null,drag=null;
+function exRows(){return [...document.querySelectorAll("#viewTrain .list > .ex[data-id]")]}
+function startExDrag(id,y){
+  const rows=exRows();
+  const from=rows.findIndex(r=>r.getAttribute("data-id")===id);
+  if(from<0||rows.length<2)return;
+  const geo=rows.map(r=>({el:r,top:r.offsetTop,h:r.offsetHeight}));
+  /* Gerechnet wird im Dokument, nicht im Fenster: sonst verrutscht alles,
+     sobald die Seite waehrend des Ziehens mitscrollt. */
+  drag={id,rows:geo,from,to:from,y0:y+window.scrollY,dy:0,y:y,h:geo[from].h,
+        day:store.active?store.active.day:(dayPick||nextDay())};
+  document.body.classList.add("reordering");
+  dragScrollRAF=requestAnimationFrame(dragScroll);
+  geo.forEach((g,i)=>{if(i!==from)g.el.classList.add("shifting")});
+  geo[from].el.classList.add("dragging");
+  if(navigator.vibrate)navigator.vibrate(30);
+}
+/* Am Rand zieht die Liste mit — sonst reicht der Weg nur bis zum
+   Bildschirmrand und laengere Plaene lassen sich nicht umsortieren. */
+let dragScrollRAF=null;
+const DRAG_EDGE=96,DRAG_SPEED=14;
+function dragScroll(){
+  if(!drag){dragScrollRAF=null;return}
+  const h=window.innerHeight;
+  let d=0;
+  if(drag.y<DRAG_EDGE)d=-DRAG_SPEED*(1-drag.y/DRAG_EDGE);
+  else if(drag.y>h-DRAG_EDGE)d=DRAG_SPEED*(1-(h-drag.y)/DRAG_EDGE);
+  if(d){
+    const vor=window.scrollY;
+    window.scrollBy(0,d);
+    if(window.scrollY!==vor)moveExDrag(drag.y);
+  }
+  dragScrollRAF=requestAnimationFrame(dragScroll);
+}
+function moveExDrag(y){
+  if(!drag)return;
+  drag.y=y;
+  drag.dy=y+window.scrollY-drag.y0;
+  const g=drag.rows,from=drag.from;
+  const center=g[from].top+g[from].h/2+drag.dy;
+  let to=from;
+  if(drag.dy<0){for(let i=from-1;i>=0;i--){if(center<g[i].top+g[i].h/2)to=i;else break}}
+  else{for(let i=from+1;i<g.length;i++){if(center>g[i].top+g[i].h/2)to=i;else break}}
+  drag.to=to;
+  g[from].el.style.transform=`translateY(${drag.dy}px) scale(1.015)`;
+  g.forEach((r,i)=>{
+    if(i===from)return;
+    const shift=(to>from&&i>from&&i<=to)?-drag.h:(to<from&&i>=to&&i<from)?drag.h:0;
+    r.el.style.transform=shift?`translateY(${shift}px)`:"";
+  });
+}
+function endExDrag(){
+  if(!drag)return;
+  const d=drag;drag=null;
+  if(dragScrollRAF){cancelAnimationFrame(dragScrollRAF);dragScrollRAF=null}
+  document.body.classList.remove("reordering");
+  lastSwipe=Date.now(); // der folgende Klick ist Teil der Geste, kein Tipp
+  const g=d.rows,el=g[d.from].el;
+  /* Endpunkt ist die Kante des Lochs, nicht die Fingerposition — die Zeile
+     rastet sichtbar ein, statt an Ort und Stelle zu verschwinden. */
+  let end=0;
+  if(d.to>d.from)for(let i=d.from+1;i<=d.to;i++)end+=g[i].h;
+  else for(let i=d.to;i<d.from;i++)end-=g[i].h;
+  const fertig=()=>{
+    if(d.to!==d.from){
+      const ids=g.map(x=>x.el.getAttribute("data-id"));
+      ids.splice(d.to,0,ids.splice(d.from,1)[0]);
+      saveExOrder(d.day,ids);
+    }
+    renderTrain();
+  };
+  el.classList.add("dropping");
+  el.style.transform=`translateY(${end}px)`;
+  g.forEach((r,i)=>{if(i!==d.from)r.el.classList.remove("shifting")});
+  let done=false;
+  const fin=()=>{if(done)return;done=true;el.removeEventListener("transitionend",fin);fertig()};
+  el.addEventListener("transitionend",fin);
+  setTimeout(fin,320);
+}
+document.addEventListener("pointerdown",e=>{
+  const num=e.target.closest(".ex-num");
+  if(!num||cat!=="kraft"||tab!=="train"||editEx)return;
+  const row=num.closest(".ex[data-id]");
+  if(!row)return;
+  const id=row.getAttribute("data-id"),y=e.clientY;
+  dragLpTimer=setTimeout(()=>{
+    dragLpTimer=null;
+    /* Eine offene Uebung waere waehrend des Ziehens ein Hochhaus. */
+    if(openEx){openEx=null;renderTrain()}
+    startExDrag(id,y);
+  },500);
+},{passive:true});
+document.addEventListener("pointermove",e=>{
+  if(dragLpTimer&&(Math.abs(e.movementX)>5||Math.abs(e.movementY)>5)){clearTimeout(dragLpTimer);dragLpTimer=null}
+  if(drag)moveExDrag(e.clientY);
+},{passive:true});
+/* Waehrend des Ziehens darf die Seite nicht mitscrollen. touch-action hilft
+   hier nicht: die Geste laeuft beim Zuschlagen schon. */
+document.addEventListener("touchmove",e=>{if(drag)e.preventDefault()},{passive:false});
+document.addEventListener("pointerup",()=>{clearTimeout(dragLpTimer);dragLpTimer=null;endExDrag()},{passive:true});
+document.addEventListener("pointercancel",()=>{clearTimeout(dragLpTimer);dragLpTimer=null;endExDrag()},{passive:true});
 
 /* ── Long Press auf einen Uebungsnamen im Bearbeiten-Formular ── */
 let exLpTimer=null;
