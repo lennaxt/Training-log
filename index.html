@@ -1709,8 +1709,14 @@ function load(){
     if(!s.custom[d])s.custom[d]=[];
     if(!s.hidden[d])s.hidden[d]=[];
   });
+  if(!Array.isArray(s.sessions))s.sessions=[];
+  /* Reihenfolge ist Bedeutung: Verlaufskurve, Verlaufsliste und die
+     Vorbelegung aus der letzten Einheit lesen das Feld von hinten. Ein
+     nachtraeglich geaendertes Datum hat die Reihenfolge frueher zerrissen. */
+  s.sessions.sort((a,b)=>a.ts-b.ts);
   return s;
 }
+function sortSessions(){store.sessions.sort((a,b)=>a.ts-b.ts)}
 function save(){
   store._ts=Date.now();
   try{localStorage.setItem(KEY,JSON.stringify(store))}catch(e){
@@ -2255,6 +2261,15 @@ function tombstone(ts){
   if(!store._delSess)store._delSess=[];
   if(!store._delSess.includes(ts))store._delSess.push(ts);
   if(store._delSess.length>500)store._delSess=store._delSess.slice(-500);
+}
+/* Ein neues Datum macht aus der Einheit einen neuen Schluessel. Der neue darf
+   weder eine andere Einheit noch einen Grabstein treffen: im ersten Fall
+   verschluckt mergeStores eine der beiden, im zweiten faellt die Einheit beim
+   naechsten Abgleich ganz weg. Eine Millisekunde weiter ist unsichtbar. */
+function freeTs(ts,skipIdx){
+  const graves=store._delSess||[];
+  while(store.sessions.some((x,i)=>i!==skipIdx&&x.ts===ts)||graves.includes(ts))ts++;
+  return ts;
 }
 function delSession(ts){
   tombstone(ts);
@@ -2883,8 +2898,11 @@ function saveActEdit(k){
   const old=store.sessions[sIdx];
   const data={min:val("actEditMin"),kcal:val("actEditKcal"),hm:cfg.gpx?val("actEditHm"):0,km:cfg.gpx?val("actEditKm"):0,maxKmh:cfg.gpx?val("actEditMax"):0,gpx:(old[cfg.field]&&old[cfg.field].gpx)||null,gpxT:(old[cfg.field]&&old[cfg.field].gpxT)||null};
   if(cfg.key==="kurs"){data.type=old.type||kursTypeName();data.yt=document.getElementById("actEditYt")?.value||"";}
-  store.sessions[sIdx].ts=parsed?parsed.getTime():editSessData.date;
+  const oldTs=store.sessions[sIdx].ts;
+  const newTs=freeTs(parsed?parsed.getTime():editSessData.date,sIdx);
+  store.sessions[sIdx].ts=newTs;
   store.sessions[sIdx][cfg.field]=data;
+  if(newTs!==oldTs){tombstone(oldTs);sortSessions();}
   save();
   paintTop();
   editSessTs=null;
@@ -3020,7 +3038,8 @@ function saveSessEdit(){
   const dateIn=document.getElementById("sessEditDate");
   const parsed=dateIn?parseEditDate(dateIn.value):null;
   if(dateIn&&!parsed){toast("Ungültiges Datum","Format: TT.MM.JJJJ");return}
-  const newTs=parsed?parsed.getTime():editSessData.date;
+  const oldTs=store.sessions[sIdx].ts;
+  const newTs=freeTs(parsed?parsed.getTime():editSessData.date,sIdx);
   const daySel=document.getElementById("sessEditDaySel");
   const newDay=daySel?daySel.value:editSessData.day;
   // Exercises sammeln (bestehende mit data-ex-id)
@@ -3052,6 +3071,12 @@ function saveSessEdit(){
     }
   });
   store.sessions[sIdx]={...store.sessions[sIdx],ts:newTs,day:newDay,log:newLog};
+  if(newTs!==oldTs){
+    /* Der alte Schluessel muss als geloescht gelten, sonst holt der Abgleich die
+       Einheit unter ihm vom anderen Geraet zurueck — als Dublette. */
+    tombstone(oldTs);
+    sortSessions();
+  }
   save();
   paintTop();
   editSessTs=null;
