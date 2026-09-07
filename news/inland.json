@@ -1,20 +1,118 @@
 {
  "name": "Inland",
- "updated": "2026-09-06T22:53:55+00:00",
+ "updated": "2026-09-07T08:19:47+00:00",
  "items": [
   {
-   "t": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
-   "s": "Die AfD profitiert von der Unzufriedenheit der Menschen, aber sie überzeugt viele auch inhaltlich mehr als die anderen Parteien, wie Umfragen zeigen. Für die meisten Wähler in Sachsen-Anhalt war die Kernfrage: für oder gegen die AfD? Von H. Schwesinger.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
+   "t": "AfD-Regierung in Sachsen-Anhalt: Ein absolutes Grauen",
+   "s": "Verfassungsschutz, Schulpflicht, Rundfunkstaatsverträge, Migrationspolitik: Was kann die AfD anrichten, sollte sie an die Macht kommen?",
+   "u": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6209778/",
+   "q": "taz",
+   "d": "2026-09-07T07:19:00+00:00"
+  },
+  {
+   "t": "Landtagswahl: \"Erst mal ist es ein Ergebnis für Sachsen-Anhalt\"",
+   "s": "In Sachsen-Anhalt könnte erstmals ein AfD-Politiker Ministerpräsident werden. Politikwissenschaftlerin Petra Dobner bezeichnet die Wahl als historisch, warnt aber vor voreiligen Rückschlüssen auf die Bundespolitik.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-gruende-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-06T21:53:59+00:00"
+   "d": "2026-09-07T06:39:44+00:00"
+  },
+  {
+   "t": "Die Linke: „Eine Zäsur für die deutsche Politik“",
+   "s": "Die Linke macht die Reformpolitik der Bundesregierung für den Wahlerfolg der AfD in Sachsen-Anhalt verantwortlich. Gleichzeitig betonte der EU-Abgeordnete Martin Schirdewan, seine Partei sei bereit, Verantwortung für das Land zu übernehmen.Armbrüster, Tobias",
+   "u": "https://www.deutschlandfunk.de/was-bedeutet-die-sachsen-anhalt-wahl-fuer-die-linke-int-mit-martin-schirdewan-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T06:19:00+00:00"
+  },
+  {
+   "t": "AfD-Chef Chrupalla: Mit allen Parteien Gespräche führen",
+   "s": "Die AfD hat bei der Landtagswahl in Sachsen-Anhalt ihr bisher bestes Ergebnis eingefahren. Man wird nun allen Parteien Gesprächsangebote zukommen lassen, sagt AfD-Chef Chrupalla. Auch eine Landesregierung mit wechselnden Mehrheiten sei denkbar.Armbrüster, Tobias",
+   "u": "https://www.deutschlandfunk.de/afd-mit-rekordergebnis-in-sachsen-anhalt-interview-mit-tino-chrupalla-afd-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T06:10:00+00:00"
+  },
+  {
+   "t": "Sachsen-Anhalt - BSW will überparteilichen Ministerpräsidenten",
+   "s": "Das Bündnis Sahra Wagenknecht hat sich erneut für einen überparteilichen Ministerpräsidenten in Sachsen-Anhalt ausgesprochen. Eine Zusammenarbeit mit der AfD schloss der BSW-Landesvorsitzende Thomas Schulze jedoch nicht aus.Armbrüster, Tobias",
+   "u": "https://www.deutschlandfunk.de/welche-rolle-spielt-das-bsw-bei-der-regierungsbildung-int-thomas-schulze-bsw-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T05:45:00+00:00"
+  },
+  {
+   "t": "Amthor (CDU): Reformkurs der Bundesregierung nicht infrage stellen",
+   "s": "Der Staatsminister im Kanzleramt, CDU-Politiker Philipp Amthor, sieht nach der Wahl in Sachsen-Anhalt keinen Grund, an der Reformpolitik der Bundesregierung zu rütteln. Ohne Veränderung kann es nicht weitergehen, sagt er.Armbrüster, Tobias",
+   "u": "https://www.deutschlandfunk.de/die-cdu-nach-der-landtagswahl-in-sachsen-anhalt-interview-philipp-amthor-cdu-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T05:20:00+00:00"
+  },
+  {
+   "t": "Lehren aus der Wahl in Sachsen-Anhalt: Der gut gelaunte Rechtsextremismus",
+   "s": "Die AfD kann in Sachsen-Anhalt wohl regieren – und die Parteien der Mitte halten sich erstmal die Ohren zu. Sechs Lehren aus der Landtagswahl.",
+   "u": "https://taz.de/Lehren-aus-der-Wahl-in-Sachsen-Anhalt/!6210759/",
+   "q": "taz",
+   "d": "2026-09-07T05:11:00+00:00"
+  },
+  {
+   "t": "SPD-Vize Schweitzer: Bundespolitik war wohl wahlentscheidend",
+   "s": "Die AfD konnte ihren Stimmenanteil bei der Landtagswahl in Sachsen-Anhalt mehr als verdoppeln. Für SPD-Vize Alexander Schweitzer hatte die Bundespolitik daran einen entscheidenden Anteil. Der Reformkurs der Regierung müsse daher auf den Prüfstand.Armbrüster, Tobias",
+   "u": "https://www.deutschlandfunk.de/nach-der-wahl-in-sachsen-anhalt-interview-alexander-schweitzer-spd-vize-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T04:55:00+00:00"
+  },
+  {
+   "t": "Wahlergebnis Sachsen-Anhalt: Absolute Mehrheit verfehlt",
+   "s": "Die AfD holt laut vorläufigem amtlichen Wahlergebnis nicht die absolute Mehrheit in Sachsen-Anhalt. Das BSW wird Königsmacherin. Der Morgen nach der Wahl.",
+   "u": "https://taz.de/Ergebnis-Sachsen-Anhalt/!6210760/",
+   "q": "taz",
+   "d": "2026-09-07T04:55:00+00:00"
+  },
+  {
+   "t": "Briefing: Sachsen-Anhalt - Blauer Erfolg stürzt CDU in die Krise",
+   "s": "Mit 43,8 Prozent erzielt die AfD in Sachsen-Anhalt ihr bislang stärkstes Ergebnis. Für die absolute Mehrheit reicht es jedoch nicht. Die Wahlverliererin CDU steht nun auch im Bund vor großen Problemen. Und eine Partei wird zur Königsmacherin.Von Benjamin Dierks",
+   "u": "https://www.deutschlandfunk.de/landtagswahl-sachsen-anhalt-ergebnis-afd-siegmund-regierungsbildung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T04:52:00+00:00"
+  },
+  {
+   "t": "Grünen-Chef Banaszak: Wir wollen die Menschen zurückholen",
+   "s": "Die Grünen haben bei der Landtagswahl in Sachsen-Anhalt ihr bisher bestes Ergebnis erzielt. Viele haben die Partei wohl aus taktischen Gründen gewählt, räumt Grünen-Chef Felix Banaszak ein. Um so größer sei nun die Verantwortung der Grünen im Land.Armbrüster, Tobias",
+   "u": "https://www.deutschlandfunk.de/was-bedeutet-die-wahl-fuer-die-gruenen-felix-banaszak-bundesvorsitzender-gruene-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T04:50:00+00:00"
+  },
+  {
+   "t": "Sachsen-Anhalt hat gewählt - Die Zäsur",
+   "s": "Unzufriedenheit, Denkzettel und Polarisierung, so steht es in ersten Analysen über den Erfolg der AfD in Sachsen-Anhalt. Und jetzt? Allein regieren kann die AfD nicht. Aber wer oder welche Koalition das Land künftig regiert – absolut ungewiss.Schulz, Sandra",
+   "u": "https://www.deutschlandfunk.de/sachsen-anhalt-landtagswahlen-afd-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T03:00:00+00:00"
+  },
+  {
+   "t": "Nach der Wahl: Wie geht es weiter?",
+   "s": "Die Wahl in Sachsen-Anhalt ist gelaufen, doch die Regierungsbildung dürfte kompliziert werden. Was sind die nächsten Schritte? Bis wann muss ein Ministerpräsident gewählt werden? Ein Überblick. Von F. Bräutigam, A. Tadey und K. Schwartz.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-faq-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T02:55:15+00:00"
+  },
+  {
+   "t": "Wahlergebnis in Sachsen-Anhalt: AfD siegt - aber verpasst absolute Mehrheit",
+   "s": "Bei der Landtagswahl in Sachsen-Anhalt ist die AfD stärkste Kraft geworden - mit einem Rekordergebnis. Das erklärte Ziel, allein regieren zu können, verfehlt sie aber. Nun könnte es auf das BSW ankommen, das den Einzug knapp schafft.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-180.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T01:14:02+00:00"
   },
   {
    "t": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD-Chefs sehen \"klaren Regierungsauftrag\"",
    "s": "Die AfD feiert ihren Wahlsieg in Sachsen-Anhalt überschwänglich. Die Parteichefs Weidel und Chrupalla sehen in Spitzenkandidat Siegmund den nächsten Ministerpräsidenten. Die CDU lehnt eine Koalition mit der AfD weiter ab.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ergebnis-sachsen-anhalt-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-06T21:42:58+00:00"
+   "d": "2026-09-07T01:13:15+00:00"
+  },
+  {
+   "t": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
+   "s": "Die AfD profitiert von der Unzufriedenheit der Menschen, aber sie überzeugt viele auch inhaltlich mehr als die anderen Parteien, wie Umfragen zeigen. Für die meisten Wähler in Sachsen-Anhalt war die Kernfrage: für oder gegen die AfD? Von H. Schwesinger.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T01:13:08+00:00"
   },
   {
    "t": "Zivilgesellschaft in Sachsen-Anhalt: Weitermachen, irgendwie",
@@ -32,7 +130,7 @@
   },
   {
    "t": "CDU verliert die Wahl in Sachsen-Anhalt: Zeitenwende für die CDU",
-   "s": "Die CDU mit Spitzenkandidat Sven Schulze fährt ihr historisch schlechtestes Ergebnis in Sachsen-Anhalt ein.",
+   "s": "Die CDU mit Spitzenkandidat Sven Schulze fährt ihr historisch schlechtestes Ergebnis in Sachsen-Anhalt ein. Was heißt das für die Christdemokraten?",
    "u": "https://taz.de/CDU-verliert-die-Wahl-in-Sachsen-Anhalt/!6209764/",
    "q": "taz",
    "d": "2026-09-06T21:32:00+00:00"
@@ -67,108 +165,10 @@
   },
   {
    "t": "Landtagswahl in Sachsen-Anhalt: Der dicke braune Balken",
-   "s": "Die AfD ist laut Hochrechnungen klar stärkste Partei bei der Landtagswahl in Sachsen-Anhalt. Alle Grafiken zur Wahl.",
+   "s": "Die AfD ist klar stärkste Partei, weil sie bei Nichtwählern punktet. BSW erstmals im Landtag. Auffälliges Stimmensplitting bei Linken und Grünen. Alle Grafiken zur Wahl.",
    "u": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6188290/",
    "q": "taz",
    "d": "2026-09-06T20:23:00+00:00"
-  },
-  {
-   "t": "Wahlkarte zur Landtagswahl in Sachsen-Anhalt 2026",
-   "s": "Wer liegt in welchen Wahlkreisen und Gemeinden vorne? Welche Partei hat wo ihre Hochburgen? Die interaktive Karte zeigt detaillierte Ergebnisse der Landtagswahl 2026 in Sachsen-Anhalt.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/wahlkreisergebnisse-landtagswahl-sachsen-anhalt-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T20:17:52+00:00"
-  },
-  {
-   "t": "Wahl in Sachsen-Anhalt - Erdrutschsieg der AfD - die Hintergründe",
-   "s": "Die AfD hat in Sachsen-Anhalt einen Erdrutschsieg eingefahren. Sie konnte vor allem Männer überzeugen. Außerdem gelang es ihr, viele Nichtwähler zu mobilisieren. Ein Politikwissenschaftler sieht eine „Zeitenwende“.",
-   "u": "https://www.deutschlandfunk.de/sachsen-anhalt-wahl-ergebnis-waehlerwanderung-wahlverhalten-wahlentscheidung-gruende-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-06T20:10:00+00:00"
-  },
-  {
-   "t": "Landtagswahl Sachsen-Anhalt: Historische Dimension des Ergebnisses",
-   "s": "Acht Landtagswahlen hatte es vor dieser Abstimmung gegeben - bis auf 1998 lag immer die CDU vorn. Dieses Mal nicht: Einen so hohen Stimmenanteil wie diesmal die AfD hat in Sachsen-Anhalt bisher noch keine Partei erreicht.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/umfragen-historisches-landtagswahl-sachsen-anhalt-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T19:44:59+00:00"
-  },
-  {
-   "t": "Landtagswahl Sachsen-Anhalt: Wichtigste Umfragen im Überblick",
-   "s": "Die Landtagswahl hat Sachsen-Anhalts politische Landschaft massiv verändert. Was sind die Hauptgründe für dieses historische Ergebnis? Eine Erklärung in Umfrage-Grafiken von infratest dimap.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/umfragen-wichtigstes-landtagswahl-sachsen-anhalt-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T19:44:52+00:00"
-  },
-  {
-   "t": "AfD Sachsen-Anhalt nach Wahlergebnis: Nah am totalen Sieg",
-   "s": "Die AfD erzielt in Sachsen-Anhalt das stärkste Ergebnis einer rechtsextremen Partei seit 1945. Könnte sie nun auch an die Macht gelangen?",
-   "u": "https://taz.de/AfD-Sachsen-Anhalt-nach-Wahlergebnis/!6209766/",
-   "q": "taz",
-   "d": "2026-09-06T18:51:00+00:00"
-  },
-  {
-   "t": "Wer Die Linke in Sachsen-Anhalt wählte und warum",
-   "s": "Die Linke bleibt drittstärkste Kraft in Sachsen-Anhalt. Was bewegt ihre Wähler? Was wünschen sie sich? Ein Überblick mit Umfrage-Grafiken von infratest dimap.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/umfragen-linke-landtagswahl-sachsen-anhalt-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T18:04:18+00:00"
-  },
-  {
-   "t": "Kommentar zur Sachsen-Anhalt-Wahl - Das ist nicht der Untergang der Demokratie",
-   "s": "Der AfD-Sieg in Sachsen-Anhalt ist ein Wendepunkt, aber auch ein Auftrag, für die Demokratie einzustehen. Der Erfolg der Partei lässt sich nicht mit ihrer Stärke erklären, sondern mit den Lücken, die andere gelassen haben.Von Susanne Schwarzbach",
-   "u": "https://www.deutschlandfunk.de/sachsen-anhalt-wahl-ergebnis-afd-sieg-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-06T18:01:00+00:00"
-  },
-  {
-   "t": "Linke Spitzenkandidatin Eva von Angern: Niederlage für die „Streberin“",
-   "s": "Mit Eva von Angern ist die Linke in Sachsen-Anhalt bei nur rund 9 Prozent gelandet. Trotzdem könnte sie Königsmacherin werden.",
-   "u": "https://taz.de/Linke-Spitzenkandidatin-Eva-von-Angern/!6209765/",
-   "q": "taz",
-   "d": "2026-09-06T18:00:00+00:00"
-  },
-  {
-   "t": "Wie die Wählenden in Sachsen-Anhalt über das BSW denken",
-   "s": "Das BSW trat zum ersten Mal in Sachsen-Anhalt bei einer Landtagswahl an. Welche Themen bewegten und überzeugten ihre Wählenden? Was erwarten sie? Ein Überblick mit Umfrage-Grafiken von infratest dimap.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/umfragen-bsw-landtagswahl-sachsen-anhalt-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T17:56:45+00:00"
-  },
-  {
-   "t": "Krieg im Südlibanon: Israels nächste „gelbe Linie“",
-   "s": "Das israelische Militär meldet die Einnahme einer strategisch wichtigen Hügelkette im Südlibanon. Und will sich nun auf eine neue Sicherheitslinie zurückziehen.",
-   "u": "https://taz.de/Krieg-im-Suedlibanon/!6210556/",
-   "q": "taz",
-   "d": "2026-09-06T17:54:00+00:00"
-  },
-  {
-   "t": "Wahlverhalten bei der Landtagswahl in Sachsen-Anhalt 2026",
-   "s": "Für wen stimmten Frauen in Sachsen-Anhalt und für wen Männer? Welche Partei war bei jungen Wählenden stark und welche bei älteren? Das Wahlverhalten der Bevölkerungsgruppen im interaktiven Überblick.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-landtagswahl-sachsen-anhalt-2026-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T17:52:55+00:00"
-  },
-  {
-   "t": "Landtagswahl in Sachsen-Anhalt: Taktisch wählen wirkt – aber reicht es auch?",
-   "s": "Grüne und SPD haben bei der Landtagswahl in Sachsen-Anhalt deutlich besser abgeschnitten als erwartet. Allerdings auf Kosten der CDU.",
-   "u": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6209767/",
-   "q": "taz",
-   "d": "2026-09-06T17:47:00+00:00"
-  },
-  {
-   "t": "Hambacher Forst: Suche nach mutmaßlichem Saboteur beendet",
-   "s": "Seit Tagen sucht die Polizei nach einem 48-Jährigen aus NRW, der für versuchte Sabotageakte gegen das deutsche Stromnetz verantwortlich sein soll. Ein Großeinsatz am Hambacher Forst wurde nun beendet - ohne Erfolg.",
-   "u": "https://www.tagesschau.de/inland/fahndung-sabotage-infrastruktur-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T17:43:13+00:00"
-  },
-  {
-   "t": "Nach Austritten aus dem BSW: Neue Partei in Thüringen gegründet",
-   "s": "Das BSW in Thüringen zerfällt – nur noch zwei von ehemals 15 Landtagsabgeordneten gehören ihm an. Jetzt gründen Ehemalige eine neue Partei.",
-   "u": "https://taz.de/Nach-Austritten-aus-dem-BSW/!6210740/",
-   "q": "taz",
-   "d": "2026-09-06T17:32:00+00:00"
   }
  ]
 }

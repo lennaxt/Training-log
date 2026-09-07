@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-06T22:53:59+00:00",
+ "updated": "2026-09-07T08:19:52+00:00",
  "items": [
+  {
+   "t": "AfD-Regierung in Sachsen-Anhalt: Ein absolutes Grauen",
+   "s": "Verfassungsschutz, Schulpflicht, Rundfunkstaatsverträge, Migrationspolitik: Was kann die AfD anrichten, sollte sie an die Macht kommen?",
+   "u": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6209778/",
+   "q": "taz",
+   "d": "2026-09-07T07:19:00+00:00"
+  },
+  {
+   "t": "Lehren aus der Wahl in Sachsen-Anhalt: Der gut gelaunte Rechtsextremismus",
+   "s": "Die AfD kann in Sachsen-Anhalt wohl regieren – und die Parteien der Mitte halten sich erstmal die Ohren zu. Sechs Lehren aus der Landtagswahl.",
+   "u": "https://taz.de/Lehren-aus-der-Wahl-in-Sachsen-Anhalt/!6210759/",
+   "q": "taz",
+   "d": "2026-09-07T05:11:00+00:00"
+  },
+  {
+   "t": "Wahlergebnis Sachsen-Anhalt: Absolute Mehrheit verfehlt",
+   "s": "Die AfD holt laut vorläufigem amtlichen Wahlergebnis nicht die absolute Mehrheit in Sachsen-Anhalt. Das BSW wird Königsmacherin. Der Morgen nach der Wahl.",
+   "u": "https://taz.de/Ergebnis-Sachsen-Anhalt/!6210760/",
+   "q": "taz",
+   "d": "2026-09-07T04:55:00+00:00"
+  },
   {
    "t": "Zivilgesellschaft in Sachsen-Anhalt: Weitermachen, irgendwie",
    "s": "Am Wahlsonntag bangen antifaschistische Menschen in Sachsen-Anhalt um ihre Zukunft. Aufgeben kommt für viele trotzdem nicht infrage.",
@@ -11,7 +32,7 @@
   },
   {
    "t": "CDU verliert die Wahl in Sachsen-Anhalt: Zeitenwende für die CDU",
-   "s": "Die CDU mit Spitzenkandidat Sven Schulze fährt ihr historisch schlechtestes Ergebnis in Sachsen-Anhalt ein.",
+   "s": "Die CDU mit Spitzenkandidat Sven Schulze fährt ihr historisch schlechtestes Ergebnis in Sachsen-Anhalt ein. Was heißt das für die Christdemokraten?",
    "u": "https://taz.de/CDU-verliert-die-Wahl-in-Sachsen-Anhalt/!6209764/",
    "q": "taz",
    "d": "2026-09-06T21:32:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Punksaenger-Monchi-im-Gespraech/!6206560/",
    "q": "taz",
    "d": "2026-09-05T18:06:00+00:00"
-  },
-  {
-   "t": "Superwahlkreis Querfurt: Zwischen Gratiswurst, dem linken Pfarrer und Rechtsextremen",
-   "s": "In Sachsen-Anhalts brisantestem Wahlkreis geht es rund: ein Streifzug durch ein Burggewölbe, über einen Campingplatz und ein AfD-Familienfest.",
-   "u": "https://taz.de/Superwahlkreis-Querfurt/!6206949/",
-   "q": "taz",
-   "d": "2026-09-05T16:47:00+00:00"
-  },
-  {
-   "t": "Künst­le­r:in­nen bei Glücksgefühle: Das Festival des politischen Liedes",
-   "s": "Beim Glücksgefühle-Festival protestieren zahlreiche Künst­le­r:in­nen gegen die Ausladung der Band „Alphaville“. Deren Sänger warnt vor rechten Tendenzen.",
-   "u": "https://taz.de/Kuenstlerinnen-bei-Gluecksgefuehle/!6210502/",
-   "q": "taz",
-   "d": "2026-09-05T13:59:00+00:00"
-  },
-  {
-   "t": "Streit um Berlins Linke: Von Gaza bis Neukölln",
-   "s": "Den Ruf nach einer Intifada bei einer Wahlveranstaltung der Linken hat auch die Konkurrenz gehört. Der Nahost-Konflikt poltert in den Berliner Wahlkampf.",
-   "u": "https://taz.de/Streit-um-Berlins-Linke/!6206480/",
-   "q": "taz",
-   "d": "2026-09-05T11:24:00+00:00"
   }
  ]
 }

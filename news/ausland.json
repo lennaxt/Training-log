@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-06T22:53:56+00:00",
+ "updated": "2026-09-07T08:19:49+00:00",
  "items": [
+  {
+   "t": "Signal an die USA: EU plant mehr Investitionen in Grönland",
+   "s": "\"Wir sind Familie\", betonte EU-Kommissionspräsidentin von der Leyen bei ihrer Ankunft in Grönland. Nun will sie die Partnerschaft mit einem großen Finanzpaket stärken - auch als Signal gegen die Gebietsansprüche der USA.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-investitionen-groenland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T06:38:27+00:00"
+  },
+  {
+   "t": "Gegenseitige Angriffe: Schiffsverkehr in Straße von Hormus eingebrochen",
+   "s": "Die USA und Iran greifen immer wieder Tanker in der Straße von Hormus an. Der Schiffsverkehr in der Meerenge ist auf dem niedrigsten Stand seit Mai. Iran plant außerdem die Einrichtung einer Sperrzone.",
+   "u": "https://www.tagesschau.de/ausland/asien/iran-strasse-von-hormus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T03:27:09+00:00"
+  },
   {
    "t": "Mindestens fünf Tote nach Unfall mit Amazon-Frachtflugzeug in Miami",
    "s": "In Miami ist ein Amazon-Frachtflugzeug über die Landebahn hinausgeschossen und mit mehreren Fahrzeugen zusammengeprallt. Laut den Behörden kamen mindestens fünf Menschen ums Leben. Der Flugverkehr ist erheblich eingeschränkt.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-rettung-100.html",
    "q": "Tagesschau",
    "d": "2026-09-04T09:24:23+00:00"
-  },
-  {
-   "t": "Neustart für Saatgutbank in Gaza gibt Hoffnung für Landwirtschaft",
-   "s": "Die Landwirtschaft im Gazastreifen ist zum Großteil zusammengebrochen - eine Folge der Zerstörung durch und der Flucht vor dem Krieg. Doch der Wiederaufbau einer Saatgutbank gibt Hoffnung - in der Krise und darüber hinaus. Von Julio Segador.",
-   "u": "https://www.tagesschau.de/ausland/asien/gazastreifen-krieg-landwirtschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T08:17:46+00:00"
-  },
-  {
-   "t": "Parteitag von Reform UK: Britische Rechtspopulisten unter Druck",
-   "s": "Lange lag die Partei Reform UK von Nigel Farage vorne in den Umfragen. Doch Finanz- und Spendenskandale, Konkurrenz von rechtsaußen und die Beliebtheit des neuen Premiers Burnham setzen der Partei zu. Von Mareike Aden.",
-   "u": "https://www.tagesschau.de/ausland/europa/reform-uk-parteitag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T03:10:20+00:00"
   }
  ]
 }

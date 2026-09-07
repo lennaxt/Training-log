@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-06T22:53:57+00:00",
+ "updated": "2026-09-07T08:19:50+00:00",
  "items": [
+  {
+   "t": "Marktbericht: Viele Sorgen belasten Anleger zu Wochenbeginn",
+   "s": "Zum Wochenstart blicken Anleger mit Sorge auf mehrere Themen. Vor allem der Ausgang der Landtagswahl in Sachsen-Anhalt sorgt für Gesprächsstoff. Außerdem sind am Energiemarkt die Ölpreise wieder gestiegen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T08:16:01+00:00"
+  },
   {
    "t": "Ist das Leben in New York für junge Berufstätige noch bezahlbar?",
    "s": "Galoppierende Preise treffen in den USA besonders junge Leute in den großen Städten. Beispiel New York: Hier müssen auch Berufstätige erfinderisch werden, wenn es um Ausgaben im Alltag geht. Von Martina Buttler.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/kreuzfahrtschiff-russland-norwegen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-03T08:53:07+00:00"
-  },
-  {
-   "t": "Preisrekord für Super E10 infolge des Iran-Kriegs",
-   "s": "Es ist ein neuer Schock an den Zapfsäulen: Benzin ist wegen der neuen Kämpfe so teuer wie noch nie. Doch es lohnt ein genauer Blick. Denn wird die Inflation berücksichtigt, waren die Spritpreise schon mal höher.",
-   "u": "https://www.tagesschau.de/wirtschaft/benzinpreis-rekord-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T08:49:41+00:00"
   }
  ]
 }
