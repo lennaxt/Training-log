@@ -1090,6 +1090,11 @@
                    to{transform:translate(var(--fx),var(--fy)) scale(var(--fs))}}
   @keyframes icText{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:none}}
   @keyframes icAus{from{opacity:1}to{opacity:0}}
+  /* Der Name kommt aus der Weite zusammen. text-indent laeuft mit, weil der
+     Zwischenraum auch hinter dem letzten Buchstaben haengt und die zentrierte
+     Zeile sonst nach links zoege. */
+  @keyframes icSperr{from{opacity:0;letter-spacing:.34em;text-indent:.34em}
+                     to{opacity:1;letter-spacing:-.4px;text-indent:-.4px}}
   /* Die versteckten Strichlaengen stehen nur hier drin: ohne Animation bliebe
      sonst eine leere Flaeche stehen. */
   @media (prefers-reduced-motion:no-preference){
@@ -1101,7 +1106,9 @@
     .boot.lauf .ic-grat{animation:icDraw .8s cubic-bezier(.35,0,.25,1) 1.1s both}
     .boot.lauf .ic-schnee{animation:icDraw .4s ease 1.85s both}
     .boot.lauf .boot-claim{animation:icText .5s cubic-bezier(.16,1,.3,1) 2.35s both}
-    .boot.lauf .boot-name{animation:icText .52s cubic-bezier(.16,1,.3,1) 2.5s both}
+    /* Deutlich nach dem Claim und mit eigener Bewegung: sonst liest sich der
+       Name wie dessen zweite Zeile statt wie der Schluss. */
+    .boot.lauf .boot-name{animation:icSperr .85s cubic-bezier(.22,1,.28,1) 2.9s both}
     /* Der Flug ist der Schluss, kein Takt im Ablauf: er kommt erst, wenn
        geladen ist. Sonst staende das Icon bei langer Wartezeit schon an
        seinem Platz, waehrend die App noch nicht da ist. */
@@ -1131,7 +1138,7 @@ window._boot=(function(){
   var ruhig=matchMedia("(prefers-reduced-motion:reduce)").matches;
   /* Ohne Netz meldet sich die Anmeldung nie. Dieselbe Grenze wie beim
      Cloud-Laden: danach geht es ohne, statt das Startbild stehen zu lassen. */
-  var DAUER=ruhig?600:3100, NOT=8000, fertig=true, bereit=false, weg=false, t=null, n=null;
+  var DAUER=ruhig?600:3800, NOT=8000, fertig=true, bereit=false, weg=false, t=null, n=null;
   /* Das Icon landet auf der echten Marke, statt auf geschaetzten Werten:
      ihre Lage haengt an Bildschirmbreite und sicherem Bereich. */
   function ziel(){
