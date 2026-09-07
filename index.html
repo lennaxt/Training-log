@@ -517,7 +517,8 @@
   .empty h3{font-size:24px;margin-top:16px}
   .empty p{font-size:15px;color:var(--ink-soft);margin-top:12px}
   .sess{border-bottom:1px solid var(--line);padding:36px 0}
-  .hist-hint{font-size:11.5px;color:var(--ink-faint);margin:0 0 18px;line-height:1.45}
+  .hist-hint,.sess-edit-hint{font-size:11.5px;color:var(--ink-faint);margin:0 0 18px;line-height:1.45}
+  .sess-edit-hint{margin:0 0 12px}
   .sess-top{display:grid;grid-template-columns:52px minmax(0,1fr) auto;gap:20px;align-items:center;margin-bottom:20px}
   .sess-badge{--gc:var(--blue);
     font-family:var(--display);font-size:38px;font-weight:500;line-height:.8;color:var(--gc)}
@@ -656,13 +657,17 @@
   .sess-edit-ex{border-top:1px solid var(--line);padding-top:14px}
   .sess-edit-ex:first-child{border-top:none;padding-top:0}
   .sess-edit-ex-head{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:10px;padding-bottom:10px;border-bottom:1px solid var(--line)}
-  .sess-edit-ex-head:has(.sess-edit-new-name:focus){border-bottom-color:var(--blue)}
-  body.dayB .sess-edit-ex-head:has(.sess-edit-new-name:focus){border-bottom-color:var(--green)}
-  .sess-edit-ex-name{font-family:var(--display);font-size:17px;font-weight:500;color:var(--ink);flex:1}
-  .sess-edit-new-name{flex:1;min-width:0;border:0;border-bottom:1px solid transparent;background:none;border-radius:0;
+  .sess-edit-ex-head:has(.sess-edit-new-name:focus),.sess-edit-ex-head:has(.sess-edit-ex-rename:focus){border-bottom-color:var(--blue)}
+  body.dayB .sess-edit-ex-head:has(.sess-edit-new-name:focus),body.dayB .sess-edit-ex-head:has(.sess-edit-ex-rename:focus){border-bottom-color:var(--green)}
+  .sess-edit-ex-name{font-family:var(--display);font-size:17px;font-weight:500;color:var(--ink);flex:1;position:relative;padding:4px 0;
+    -webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+  /* Tippflaeche auf 44px gebracht, ohne die Zeile hoeher zu machen. */
+  .sess-edit-ex-name::before{content:"";position:absolute;inset:-8px}
+  .sess-edit-ex-name:active{color:var(--ink-soft)}
+  .sess-edit-new-name,.sess-edit-ex-rename{flex:1;min-width:0;border:0;border-bottom:1px solid transparent;background:none;border-radius:0;
     padding:4px 0;font-size:16px;font-weight:500;font-family:'Inter',sans-serif;color:var(--ink)}
-  .sess-edit-new-name:focus{outline:none}
-  .sess-edit-new-name::placeholder{color:var(--ink-soft);opacity:.5;font-weight:400}
+  .sess-edit-new-name:focus,.sess-edit-ex-rename:focus{outline:none}
+  .sess-edit-new-name::placeholder,.sess-edit-ex-rename::placeholder{color:var(--ink-soft);opacity:.5;font-weight:400}
   .sess-edit-ex-del,.sess-edit-set-del{width:32px;height:32px;flex:none;border:none;border-radius:0;background:none;color:var(--ink-soft);font-size:18px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.15s;position:relative}
   .sess-edit-ex-del::before,.sess-edit-set-del::before{content:"";position:absolute;inset:-6px}
   .sess-edit-ex-del:active,.sess-edit-set-del:active{background:var(--paper-2);color:#B94A48}
@@ -3046,6 +3051,8 @@ function saveSessEdit(){
   const newLog={};
   document.querySelectorAll(".sess-edit-ex[data-ex-id]").forEach(el=>{
     const id=el.getAttribute("data-ex-id");
+    const rn=el.querySelector(".sess-edit-ex-rename");
+    if(rn){const nn=rn.value.trim();if(nn&&nn!==exName(id))store.names[id]=nn}
     const sets=[];
     el.querySelectorAll(".sess-edit-set").forEach((setEl,si)=>{
       const kg=parseFloat(setEl.querySelector(".sess-edit-kg").value)||0;
@@ -3099,6 +3106,20 @@ function addSessEditSet(exId){
   </div>`;
   container.insertAdjacentHTML("beforeend",html);
 }
+/* Umbenennen im Verlauf: der Name steckt bis zum Speichern nur im Formular,
+   wie jedes andere Feld auch — Abbrechen verwirft ihn also mit. */
+function startExRename(el){
+  if(!el||!el.parentElement)return;
+  const id=el.getAttribute("data-ex-id");
+  if(!id)return;
+  const inp=document.createElement("input");
+  inp.type="text";inp.className="sess-edit-ex-rename";inp.value=el.textContent;
+  inp.setAttribute("data-ex-id",id);
+  inp.setAttribute("aria-label","Übungsname");
+  inp.autocapitalize="sentences";
+  el.replaceWith(inp);
+  inp.focus();inp.select();
+}
 function removeSessEditEx(exId){
   const el=document.querySelector(`.sess-edit-ex[data-ex-id="${exId}"]`);
   if(el)el.remove();
@@ -3151,7 +3172,7 @@ function renderSessEdit(s,i){
     </div>`).join("");
     return `<div class="sess-edit-ex" data-ex-id="${id}">
       <div class="sess-edit-ex-head">
-        <span class="sess-edit-ex-name">${esc(name)}</span>
+        <span class="sess-edit-ex-name" data-ex-id="${id}">${esc(name)}</span>
         <button type="button" class="sess-edit-ex-del" onclick="removeSessEditEx('${id}')" aria-label="Übung entfernen">×</button>
       </div>
       <div class="sess-edit-sets">${setsHtml}</div>
@@ -3170,6 +3191,7 @@ function renderSessEdit(s,i){
             <input class="txt" id="sessEditDate" type="text" autocomplete="off" placeholder="TT.MM.JJJJ" value="${dateVal}">
           </div>
         </div>
+        <p class="sess-edit-hint">Übungsnamen gedrückt halten, um ihn zu ändern — der Name gilt dann überall.</p>
         <div id="sessEditExList" class="sess-edit-ex-list">
           ${exercisesHtml}
         </div>
@@ -3397,6 +3419,23 @@ document.addEventListener("pointercancel",()=>{clearTimeout(lpTimer);lpTimer=nul
 
 const origToggleEx=toggleEx;
 toggleEx=function(id){if(lpFired){lpFired=false;return}origToggleEx(id)};
+
+/* ── Long Press auf einen Uebungsnamen im Bearbeiten-Formular ── */
+let exLpTimer=null;
+document.addEventListener("pointerdown",e=>{
+  const nm=e.target.closest(".sess-edit-ex-name");
+  if(!nm)return;
+  exLpTimer=setTimeout(()=>{
+    exLpTimer=null;
+    if(navigator.vibrate)navigator.vibrate(30);
+    startExRename(nm);
+  },700);
+},{passive:true});
+document.addEventListener("pointermove",e=>{
+  if(exLpTimer&&(Math.abs(e.movementX)>5||Math.abs(e.movementY)>5)){clearTimeout(exLpTimer);exLpTimer=null}
+},{passive:true});
+document.addEventListener("pointerup",()=>{clearTimeout(exLpTimer);exLpTimer=null},{passive:true});
+document.addEventListener("pointercancel",()=>{clearTimeout(exLpTimer);exLpTimer=null},{passive:true});
 
 /* ── Long Press auf Session-Karte im Verlauf ── */
 let sessLpTimer=null,sessLpFired=false;
