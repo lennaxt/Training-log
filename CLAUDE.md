@@ -51,8 +51,10 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
 - **Kurse:** optionaler YouTube-Link mit Live-Vorschau; Thumbnail `maxresdefault` → Fallback `hqdefault` → ausblenden bei ungültig.
 - **Kraft-Verlauf:** je Übung schwarze Satz-Punkte (ein Punkt = ein Satz) + Max-Gewicht.
 - **Vorbelegung:** Eingabe schlägt pro Satz den entsprechenden Satz von letztem Mal vor (`lastSetsFor`, Draft springt beim Abhaken weiter).
-- **Anzeigeschrift ist wählbar, Fließtext nicht.** Alles, was in der Fraunces-Rolle
-  steht, nimmt `font-family:var(--display)` — nie wieder eine feste Familie. Gewählt
+- **Anzeigeschrift ist wählbar, Fließtext nicht.** Alles in der Anzeige-Rolle
+  nimmt `font-family:var(--display)` — nie wieder eine feste Familie. Standard ist
+  **Clash Display** (`FONTS[0]`, im `<head>` mitgeladen); jede andere Schrift, auch
+  Fraunces, wird erst beim Anwählen nachgeladen. Gewählt
   wird in „Einstellungen → Schriftarten" (`fontOverlay`, Liste `FONTS`, gespeichert als
   `store.font`); die Schriftdatei wird erst beim Anwählen nachgeladen — die meisten
   von Google Fonts, Satoshi, Clash Display und Cabinet Grotesk von `api.fontshare.com`
