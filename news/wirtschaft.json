@@ -1,6 +1,6 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-07T19:10:28+00:00",
+ "updated": "2026-09-07T23:30:40+00:00",
  "items": [
   {
    "t": "Marktbericht: DAX verteidigt runde Marke",
@@ -22,6 +22,13 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ruestung-osnabrueck-100.html",
    "q": "Tagesschau",
    "d": "2026-09-07T12:29:56+00:00"
+  },
+  {
+   "t": "Vereinigte Staaten - Die US-Schulden sind ein Risiko für die Weltwirtschaft",
+   "s": "Die US-Staatsschulden wachsen. Und das schneller als geplant. Deswegen steigen die Zinsen und Anleger werden nervöser. Das ist nicht nur ein US-Problem, denn die Folgen können weit über die Vereinigten Staaten hinaus reichen.",
+   "u": "https://www.deutschlandfunk.de/usa-staatsschulden-folgen-weltwirtschaft-zinsen-europa-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T12:00:00+00:00"
   },
   {
    "t": "Zehntausende Fachkräfte im Verkauf könnten bald fehlen",
@@ -162,13 +169,6 @@
    "u": "https://www.deutschlandfunk.de/griechenland-sechstagewoche-arbeitszeit-loehne-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-08-21T07:57:00+00:00"
-  },
-  {
-   "t": "Speicher nur halb voll - Wenn beim Gas die Reserve fehlt",
-   "s": "Deutschlands Gasspeicher sind deutlich schlechter gefüllt als geplant. Die Bundesregierung setzt auf den Markt. Doch Experten warnen vor einem Szenario, das den Winter teurer und schwieriger machen könnte.",
-   "u": "https://www.deutschlandfunk.de/gasspeicher-deutschland-fuellstand-winter-warnung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-20T15:11:00+00:00"
   }
  ]
 }
