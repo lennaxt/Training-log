@@ -5,8 +5,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="theme-color" content="#FFFFFF">
+<meta name="theme-color" content="#CDD5DF">
 <title>Peak</title>
+<script>
+/* Vor dem ersten Bild: bis die App steht, traegt das Dokument den Grund des
+   Startbilds. Ohne das blitzt der Seitengrund auf, und Safari faerbt seine
+   untere Leiste nach dem theme-color-Feld — das stand auf Weiss. */
+(function(){
+  document.documentElement.classList.add("boot-an");
+  if(matchMedia("(prefers-color-scheme: dark)").matches){
+    var m=document.querySelector('meta[name="theme-color"]');
+    if(m)m.setAttribute("content","#0E1721");
+  }
+})();
+</script>
 <meta name="apple-mobile-web-app-title" content="Peak">
 <meta name="application-name" content="Peak">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -1155,8 +1167,10 @@ window._boot=(function(){
     /* Der Grund am Dokument darf erst weg, wenn das Startbild weg ist —
        sonst blitzt der Seitengrund waehrend des Ausblendens durch. */
     setTimeout(function(){
-      if(el.classList.contains("aus"))
-        document.documentElement.classList.remove("boot-an");
+      /* Steht noch die Anmeldung, bleibt der Grund: sie hat denselben. */
+      if(!el.classList.contains("aus")||document.body.classList.contains("auth-pending"))return;
+      document.documentElement.classList.remove("boot-an");
+      if(window.setThemeColor)window.setThemeColor(null);
     },500);
   }
   /* Gezeichnet wird sofort, geflogen erst wenn geladen ist: bis dahin steht
@@ -4153,7 +4167,13 @@ function pauseHoldEnd(){
    dunklen Pause ein weisser Streifen. */
 function setThemeColor(c){
   const m=document.querySelector('meta[name="theme-color"]');
-  if(m)m.setAttribute("content",c||(darkAktiv()?"#252423":"#FFFFFF"));
+  if(!m)return;
+  /* Solange Startbild oder Anmeldung stehen, faerbt deren Grund die Leiste:
+     die App-Farbe darunter waere ein weisser Streifen im falschen Bild. */
+  if(c==null&&document.documentElement.classList.contains("boot-an")){
+    m.setAttribute("content",SYSTEM_DUNKEL.matches?"#0E1721":"#CDD5DF");return;
+  }
+  m.setAttribute("content",c||(darkAktiv()?"#252423":"#FFFFFF"));
 }
 function pauseStop(){
   if(pauseRAF)cancelAnimationFrame(pauseRAF);
@@ -4795,6 +4815,8 @@ onAuthStateChanged(auth,async(user)=>{
   }else{
     document.querySelectorAll(".plan-overlay.open,.map-overlay.open,#pauseOverlay.open").forEach(o=>o.classList.remove("open"));
     document.body.classList.add("auth-pending");
+    document.documentElement.classList.add("boot-an");
+    if(window.setThemeColor)window.setThemeColor(null);
     storeBoundUid=null;
     if(window._reloadStore)window._reloadStore("trainingslog_v3_none");
     /* Nicht angemeldet: das Startbild darf weg, sonst verdeckt es die Anmeldung. */
