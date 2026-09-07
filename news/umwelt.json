@@ -1,7 +1,56 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-07T15:03:57+00:00",
+ "updated": "2026-09-07T19:10:29+00:00",
  "items": [
+  {
+   "t": "Grüne und Linke gewinnen in Halle: Gewonnen und doch verloren",
+   "s": "In Halle gingen zwei Wahlkreise an Kandidaten der Linken. Warum die Freude am Tag nach dem AfD-Erfolg trotzdem getrübt ist.",
+   "u": "https://taz.de/Gruene-und-Linke-gewinnen-in-Halle/!6210865/",
+   "q": "taz",
+   "d": "2026-09-07T17:45:00+00:00"
+  },
+  {
+   "t": "Nach Einstufung als Terrororganisation: Autistici/Inventati ist Geschichte",
+   "s": "Das linke Tech-Kollektiv aus Italien, dessen Infrastruktur auch linke Gruppen in Deutschland nutzen, schmeißt hin. Der Druck der US-Behörden war zu groß.",
+   "u": "https://taz.de/Nach-Einstufung-als-Terrororganisation/!6211217/",
+   "q": "taz",
+   "d": "2026-09-07T17:08:00+00:00"
+  },
+  {
+   "t": "Grünen nach Wahl in Sachsen-Anhalt: Grün bleibt die Hoffnung",
+   "s": "Die Grünen feiern in Sachsen-Anhalt einen Rekord. Nun hoffen sie, dass die AfD-Angst auch in Mecklenburg-Vorpommern und Berlin Stimmen bringt.",
+   "u": "https://taz.de/Gruenen-nach-Wahl-in-Sachsen-Anhalt/!6210872/",
+   "q": "taz",
+   "d": "2026-09-07T17:07:00+00:00"
+  },
+  {
+   "t": "Reaktionen auf Sachsen-Anhalt: Begeisterungsstürme, Schockstarre und tiefe Besorgnis",
+   "s": "Die internationalen Reaktionen auf den AfD-Sieg könnten unterschiedlicher kaum ausfallen. Linke und De­mo­kra­t:in­nen sind besorgt, die Rechte reagiert gespalten.",
+   "u": "https://taz.de/Reaktionen-auf-Sachsen-Anhalt/!6210852/",
+   "q": "taz",
+   "d": "2026-09-07T15:42:00+00:00"
+  },
+  {
+   "t": "SPD nach Wahl in Sachsen-Anhalt: Alles im grauen Bereich",
+   "s": "Die SPD sucht nach dem AfD-Triumph in Sachsen-Anhalt ihrem Kurs. Sie will als Partei erkennbar sein, ohne die Regierung in die Luft zu jagen. Das erfordert Geschick.",
+   "u": "https://taz.de/SPD-nach-Wahl-in-Sachsen-Anhalt/!6210819/",
+   "q": "taz",
+   "d": "2026-09-07T15:33:00+00:00"
+  },
+  {
+   "t": "AfD nach Wahlerfolg Sachsen-Anhalt: Wahlsieger, extrem rechts, sucht Partner",
+   "s": "Die AfD bringt sich in Stellung für eine Regierungsübernahme. Sie ist auf Überläufer oder Zusammenarbeit mit BSW oder CDU angewiesen.",
+   "u": "https://taz.de/AfD-nach-Wahlerfolg-Sachsen-Anhalt/!6210800/",
+   "q": "taz",
+   "d": "2026-09-07T15:25:00+00:00"
+  },
+  {
+   "t": "CDU nach Wahl in Sachsen-Anhalt: „Aufgeben ist keine Option“",
+   "s": "Nach der desaströsen Wahlniederlage in Sachsen-Anhalt steht Bundeskanzler Merz in der Kritik. Der will nicht weichen – aber mehr auf Emotionen setzen.",
+   "u": "https://taz.de/CDU-nach-Wahl-in-Sachsen-Anhalt/!6210805/",
+   "q": "taz",
+   "d": "2026-09-07T15:24:00+00:00"
+  },
   {
    "t": "Angriffe auf deutsches Stromnetz: Noch mehr Raketen – aber weiter keine Spur von Daniel V.",
    "s": "In Sachsen haben die Behörden weitere Sprengkörper nahe einem Umspannwerk gefunden. Der mutmaßliche Täter ist weiter flüchtig.",
@@ -120,55 +169,6 @@
    "u": "https://taz.de/Deutsche-Visa-fuer-iranische-Studierende-und-Fachkraefte-Das-lange-Warten-in-der-Not/!6210435/",
    "q": "taz",
    "d": "2026-09-06T14:16:00+00:00"
-  },
-  {
-   "t": "Landtagswahlen in Sachsen-Anhalt: Ein Dorf vor der Wahl",
-   "s": "Was macht es mit einem Ort, wenn Nachbarn nicht mehr miteinander reden können, weil die eine Hälfte AfD wählt und die andere angstvoll schweigt? Ein Heimatbesuch.",
-   "u": "https://taz.de/Landtagswahlen-in-Sachsen-Anhalt/!6209066/",
-   "q": "taz",
-   "d": "2026-09-06T13:35:00+00:00"
-  },
-  {
-   "t": "Fiasko nach Hackerangriff in Berlin: IT-Experten sehen kritische Infrastruktur bedroht",
-   "s": "Seit Freitag sind die durch einen Cyberangriff erbeuteten Daten der Berliner Senatsverwaltung öffentlich. Gegenüber Land und Bund gibt es scharfe Kritik.",
-   "u": "https://taz.de/Fiasko-nach-Hackerangriff-in-Berlin/!6210542/",
-   "q": "taz",
-   "d": "2026-09-06T13:05:00+00:00"
-  },
-  {
-   "t": "Großeinsatz im Hambi: Wo versteckt sich Daniel V.?",
-   "s": "Seit Tagen sucht die Polizei nach Daniel V., der Umspannwerke in mehreren Bundesländern angegriffen haben soll. Jetzt läuft ein Einsatz am Hambacher Forst.",
-   "u": "https://taz.de/Grosseinsatz-im-Hambacher-Forst-nach-Bekennerschreiben-Wo-versteckt-sich-Daniel-V/!6210659/",
-   "q": "taz",
-   "d": "2026-09-06T12:16:00+00:00"
-  },
-  {
-   "t": "Nach Drohnenangriff in Leipzig: Grünen-Politikerin fordert Prüfung von Atomprojekt mit Russland",
-   "s": "Im emsländischen Lingen kooperiert eine Brennelementefabrik mit einem russischen Staatskonzern. Die Grünen sehen große Risiken.",
-   "u": "https://taz.de/Nach-Drohnenangriff-in-Leipzig/!6210613/",
-   "q": "taz",
-   "d": "2026-09-06T11:23:00+00:00"
-  },
-  {
-   "t": "Zivilgesellschaft in Sachsen-Anhalt: Egal, was kommt",
-   "s": "Tausende feiern am Samstag in Magdeburg die Demokratie und Zivilgesellschaft. Vor der Wahl fassen sie Mut und versprechen sich Zusammenhalt – egal, was kommt.",
-   "u": "https://taz.de/Zivilgesellschaft-in-Sachsen-Anhalt/!6210513/",
-   "q": "taz",
-   "d": "2026-09-06T10:44:00+00:00"
-  },
-  {
-   "t": "Mietendemo in Berlin: Enteignen, jetzt!",
-   "s": "Mehr als 10.000 Menschen demonstrierten am Samstag gegen steigende Mieten. Im Zentrum stand die Forderung nach Vergesellschaftung großer Wohnungskonzerne.",
-   "u": "https://taz.de/Mietendemo-in-Berlin/!6209966/",
-   "q": "taz",
-   "d": "2026-09-06T08:53:00+00:00"
-  },
-  {
-   "t": "Sachsen-Anhalt: Tausende vor der Wahl auf der Straße",
-   "s": "Am Vorabend der Wahl ziehen Tausende Antifas durch Halle und Magdeburg. Immer dabei: das Ringen damit, vor Ort weiterzumachen – oder zu gehen.",
-   "u": "https://taz.de/Sachsen-Anhalt/!6210514/",
-   "q": "taz",
-   "d": "2026-09-06T06:36:00+00:00"
   }
  ]
 }

@@ -1,7 +1,98 @@
 {
  "name": "Inland",
- "updated": "2026-09-07T15:03:54+00:00",
+ "updated": "2026-09-07T19:10:27+00:00",
  "items": [
+  {
+   "t": "ARD-DeutschlandTrend: Zwei Drittel schauen besorgt nach Sachsen-Anhalt",
+   "s": "Eine Mehrheit der Deutschen blickt mit Sorge auf den Ausgang der Wahl in Sachsen-Anhalt. Im DeutschlandTrend extra ist zugleich jeder Zweite der Meinung, die anderen Parteien sollten die AfD stärker einbinden. Von J. Schönenborn.",
+   "u": "https://www.tagesschau.de/inland/deutschlandtrend/sachsen-anhalt-wahlergebnis-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T19:03:37+00:00"
+  },
+  {
+   "t": "Grüne und Linke gewinnen in Halle: Gewonnen und doch verloren",
+   "s": "In Halle gingen zwei Wahlkreise an Kandidaten der Linken. Warum die Freude am Tag nach dem AfD-Erfolg trotzdem getrübt ist.",
+   "u": "https://taz.de/Gruene-und-Linke-gewinnen-in-Halle/!6210865/",
+   "q": "taz",
+   "d": "2026-09-07T17:45:00+00:00"
+  },
+  {
+   "t": "Gedenken an Ratko Mladić: Letztes Geleit für den Kriegsverbrecher",
+   "s": "Tausende Menschen ehren bei Trauerfeierlichkeiten in Belgrad den verstorbenen Kriegsverbrecher Ratko Mladić. Serbiens Staatspräsident Vučić fehlt.",
+   "u": "https://taz.de/Gedenken-an-Ratko-Mladic/!6210835/",
+   "q": "taz",
+   "d": "2026-09-07T17:44:00+00:00"
+  },
+  {
+   "t": "Nach Einstufung als Terrororganisation: Autistici/Inventati ist Geschichte",
+   "s": "Das linke Tech-Kollektiv aus Italien, dessen Infrastruktur auch linke Gruppen in Deutschland nutzen, schmeißt hin. Der Druck der US-Behörden war zu groß.",
+   "u": "https://taz.de/Nach-Einstufung-als-Terrororganisation/!6211217/",
+   "q": "taz",
+   "d": "2026-09-07T17:08:00+00:00"
+  },
+  {
+   "t": "Grünen nach Wahl in Sachsen-Anhalt: Grün bleibt die Hoffnung",
+   "s": "Die Grünen feiern in Sachsen-Anhalt einen Rekord. Nun hoffen sie, dass die AfD-Angst auch in Mecklenburg-Vorpommern und Berlin Stimmen bringt.",
+   "u": "https://taz.de/Gruenen-nach-Wahl-in-Sachsen-Anhalt/!6210872/",
+   "q": "taz",
+   "d": "2026-09-07T17:07:00+00:00"
+  },
+  {
+   "t": "Raus aus dem Sanierungsstau - Schneller Brücken bauen",
+   "s": "Tausende marode Brücken lähmen den Verkehr in Deutschland. Jahrelange Sperrungen kosten die Wirtschaft Millionen. Dabei könnte es schon längst schneller gehen mit Verfahren, die den Bau beschleunigen.Leue, Vivien",
+   "u": "https://www.deutschlandfunk.de/schneller-bruecken-bauen-wie-deutschland-aus-dem-sanierungsstau-kommt-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T16:40:00+00:00"
+  },
+  {
+   "t": "Reaktionen auf Sachsen-Anhalt: Begeisterungsstürme, Schockstarre und tiefe Besorgnis",
+   "s": "Die internationalen Reaktionen auf den AfD-Sieg könnten unterschiedlicher kaum ausfallen. Linke und De­mo­kra­t:in­nen sind besorgt, die Rechte reagiert gespalten.",
+   "u": "https://taz.de/Reaktionen-auf-Sachsen-Anhalt/!6210852/",
+   "q": "taz",
+   "d": "2026-09-07T15:42:00+00:00"
+  },
+  {
+   "t": "Strafverfahren gegen Sänger Xavier Naidoo eröffnet",
+   "s": "Xavier Naidoo muss sich vor Gericht wegen des Vorwurfs der Volksverhetzung und Beleidigung verantworten. Das Landgericht Mannheim hat eine entsprechende Anklage der Staatsanwaltschaft von 2023 zugelassen.",
+   "u": "https://www.tagesschau.de/inland/strafverfahren-saenger-xavier-naidoo-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T15:39:40+00:00"
+  },
+  {
+   "t": "SPD nach Wahl in Sachsen-Anhalt: Alles im grauen Bereich",
+   "s": "Die SPD sucht nach dem AfD-Triumph in Sachsen-Anhalt ihrem Kurs. Sie will als Partei erkennbar sein, ohne die Regierung in die Luft zu jagen. Das erfordert Geschick.",
+   "u": "https://taz.de/SPD-nach-Wahl-in-Sachsen-Anhalt/!6210819/",
+   "q": "taz",
+   "d": "2026-09-07T15:33:00+00:00"
+  },
+  {
+   "t": "EU und Grönland: Auf der Suche nach einem Platz an der nordischen Sonne",
+   "s": "Der Beziehungsstatus zwischen der Europäischen Union und Grönland ist kompliziert. Nun wagt die EU einen neuen Vorstoß mit einem Millionen-Programm.",
+   "u": "https://taz.de/EU-und-Groenland/!6210832/",
+   "q": "taz",
+   "d": "2026-09-07T15:31:00+00:00"
+  },
+  {
+   "t": "AfD nach Wahlerfolg Sachsen-Anhalt: Wahlsieger, extrem rechts, sucht Partner",
+   "s": "Die AfD bringt sich in Stellung für eine Regierungsübernahme. Sie ist auf Überläufer oder Zusammenarbeit mit BSW oder CDU angewiesen.",
+   "u": "https://taz.de/AfD-nach-Wahlerfolg-Sachsen-Anhalt/!6210800/",
+   "q": "taz",
+   "d": "2026-09-07T15:25:00+00:00"
+  },
+  {
+   "t": "CDU nach Wahl in Sachsen-Anhalt: „Aufgeben ist keine Option“",
+   "s": "Nach der desaströsen Wahlniederlage in Sachsen-Anhalt steht Bundeskanzler Merz in der Kritik. Der will nicht weichen – aber mehr auf Emotionen setzen.",
+   "u": "https://taz.de/CDU-nach-Wahl-in-Sachsen-Anhalt/!6210805/",
+   "q": "taz",
+   "d": "2026-09-07T15:24:00+00:00"
+  },
+  {
+   "t": "Sachsen-Anhalt - Der Tag danach",
+   "s": "Die einen jubeln, die anderen sind erschüttert: Die AfD hat die Wahl klar gewonnen. Die CDU hat ihr Ergebnis halbiert. Was folgt jetzt aus der Wahl – für die Regierungsbildung in Sachsen-Anhalt, die Menschen im Land und für den Bundeskanzler und seine Bundesregierung?Zerback, Sarah",
+   "u": "https://www.deutschlandfunk.de/sachsen-anhalt-cdu-afd-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T15:00:00+00:00"
+  },
   {
    "t": "Regierungsparteien ringen um Strategie nach Landtagswahl",
    "s": "Die Regierungsparteien ringen um Worte und Antworten nach dem Wahlausgang in Sachsen-Anhalt. Der Kanzler will besser kommunizieren, die SPD hadert mit den geplanten Sozialreformen. Wie kann es nun weitergehen? Von D. Hebestreit.",
@@ -73,102 +164,11 @@
    "d": "2026-09-07T13:38:11+00:00"
   },
   {
-   "t": "US-Vermittler in Moskau und Kyjiw: Diplomaten als Fans",
-   "s": "US-Vermittler Steve Witkoff und Jared Kushner haben Gespräche in Russland und der Ukraine geführt. Viele Fragen bleiben offen, immerhin ist von „neuen Ideen“ die Rede.",
-   "u": "https://taz.de/US-Vermittler-in-Moskau-und-Kyjiw/!6210840/",
-   "q": "taz",
-   "d": "2026-09-07T13:07:00+00:00"
-  },
-  {
-   "t": "Merz zu Wahl in Sachsen-Anhalt: \"Aufgeben ist für mich keine Option\"",
-   "s": "Nach der Wahl in Sachsen-Anhalt ist der Schock groß in der CDU. Es habe sich \"nicht nur in Sachsen-Anhalt etwas verändert, sondern in ganz Deutschland\", sagt Kanzler Merz. Aufgeben sei für ihn aber keine Option.",
-   "u": "https://www.tagesschau.de/inland/merz-wahl-sachsen-anhalt-104.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T12:56:33+00:00"
-  },
-  {
-   "t": "CDU nach Wahl in Sachsen-Anhalt: „Der Regierungsauftrag liegt jetzt bei der AfD“",
-   "s": "Bundeskanzler Merz räumt ein, dass sein Regierungskurs schlecht für die Wahl war, will aber daran festhalten. Spitzenkandidat Schulze zieht erste Konsequenzen.",
-   "u": "https://taz.de/CDU-nach-Wahl-in-Sachsen-Anhalt/!6210912/",
-   "q": "taz",
-   "d": "2026-09-07T12:51:00+00:00"
-  },
-  {
-   "t": "Sachsen-Anhalt: \"Das BSW ist in einer unglaublich starken Position\"",
-   "s": "Bis zuletzt schien fraglich, ob das BSW in Sachsen-Anhalt an der Fünf-Prozent-Hürde scheitern würde. Nun fällt ihm die Rolle des Königsmachers zu, sagt Politikwissenschaftler Wagner. Kann die Partei das nutzen?",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bsw-sachsen-anhalt-wahl-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T12:39:41+00:00"
-  },
-  {
-   "t": "Landtagswahl: Historischer AfD-Sieg - Mögliche politische Optionen für Sachsen-Anhalt",
-   "s": "Die AfD ist stärkste Kraft in Sachsen-Anhalt, kann aber nicht allein regieren. Jetzt könnte das BSW über die Machtfrage entscheiden. Von AfD-Minderheitsregierung bis zu Neuwahlen: Diese Optionen werden nun diskutiert.",
-   "u": "https://www.deutschlandfunk.de/landtagswahl-sachsen-anhalt-regierungsbildung-koalitionen-afd-bsw-neuwahlen-100.html",
+   "t": "Der mediale Umgang mit der AfD in Sachsen-Anhalt",
+   "s": "Wohl noch nie hat eine Landtagswahl so viel mediale Aufmerksamkeit bekommen, sagt Jan Schumann, Landeskorrespondent der \"Mitteldeutschen Zeitung\": Rund 500 Medien aus dem In- und Ausland waren in Magdeburg akkredtiert. Hat die AfD davon profitiert?Schumann, Jan",
+   "u": "https://www.deutschlandfunk.de/die-neue-mediale-afd-selbstverstaendlichkeit-nach-der-wahl-in-sachsen-anhalt-100.html",
    "q": "Deutschlandfunk",
-   "d": "2026-09-07T12:02:00+00:00"
-  },
-  {
-   "t": "BSW nach Landtagswahl in Sachsen-Anhalt: Wagenknecht-Partei im Liebestaumel mit Rechtsextremen",
-   "s": "Dem BSW gelingt der Einzug in den Landtag. Die Wagenknecht-Partei würde der AfD ins Amt verhelfen, sonst aber nicht wirklich mitmachen.",
-   "u": "https://taz.de/BSW-nach-Landtagswahl-in-Sachsen-Anhalt/!6210763/",
-   "q": "taz",
-   "d": "2026-09-07T10:39:00+00:00"
-  },
-  {
-   "t": "Wahlausgang in Sachsen-Anhalt: AfD verbieten oder verlieren",
-   "s": "Sachsen-Anhalt zeigt, dass man Demokratiefeinden mit Debatten nicht beikommt. Nur ein Verbot der Partei könnte die offene Gesellschaft retten.",
-   "u": "https://taz.de/Wahlausgang-in-Sachsen-Anhalt/!6210774/",
-   "q": "taz",
-   "d": "2026-09-07T10:05:00+00:00"
-  },
-  {
-   "t": "Wahl in Sachsen-Anhalt: CDU-Spitzenpolitiker stellen sich hinter Merz",
-   "s": "Nach dem desaströsen Wahlergebnis der CDU in Sachsen-Anhalt richten sich die Blicke auch auf den Kanzler und CDU-Chef. Kanzleramtschefin Warken warnte vor einer Debatte um Merz. SPD-Politiker zweifeln am Kurs der Koalition.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-cdu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T08:35:29+00:00"
-  },
-  {
-   "t": "Internationale Pressestimmen zu Sachsen-Anhalt: \"Ein politischer Albtraum für Merz\"",
-   "s": "Wie schaut das Ausland auf Sachsen-Anhalt? Den Wahlerfolg der AfD führen internationale Medien zu großen Teilen auf die Bundespolitik zurück - und auf die Unbeliebtheit von Kanzler Merz. Auch werden Folgen für ganz Europa befürchtet.",
-   "u": "https://www.tagesschau.de/inland/sachsen-anhalt-wahl-pressestimmen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T08:29:34+00:00"
-  },
-  {
-   "t": "Wahlkampf in Argentinien: Trumpfkarte Nationalgefühl",
-   "s": "Argentiniens Präsident Milei missbraucht die britischen Falklandinseln als nationalistisches Wahlkampfthema, weil seine Umfragen schlecht sind.",
-   "u": "https://taz.de/Wahlkampf-in-Argentinien/!6210637/",
-   "q": "taz",
-   "d": "2026-09-07T08:20:00+00:00"
-  },
-  {
-   "t": "Nach der Landtagswahl in Sachsen-Anhalt: Was folgt für Bund und Land?",
-   "s": "Der AfD-Erfolg in Sachsen-Anhalt hat Folgen - nicht nur für das Bundesland selbst mit seinen 2,1 Millionen Einwohnern, sondern auch auf Bundesebene. Wie damit umgehen, ohne die Demokratie zu beschädigen? Darüber diskutieren wir.Engels, Silvia",
-   "u": "https://www.deutschlandfunk.de/landtagswahl-in-sachsen-anhalt-was-folgt-fuer-bund-und-land-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-07T08:08:00+00:00"
-  },
-  {
-   "t": "Die Kirchen fühlen sich durch AfD-Regierungsprogramm angefeindet",
-   "s": "Nach der Landtagswahl in Sachsen-Anhalt blickt Kirchenpräsident Karsten Wolkenhauer mit Sorge auf den Riss, der die Gesellschaft spaltet. Die AfD sei eine kirchen- und christentumsfeindliche Partei. Ihr Regierungsprogramm widerspreche dem Evangelium.Meyer, Luisa",
-   "u": "https://www.deutschlandfunk.de/was-kommt-nach-wahlen-auf-zivilgesellschaft-und-kirchen-zu-k-wolkenhauer-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-07T07:37:05+00:00"
-  },
-  {
-   "t": "AfD-Regierung in Sachsen-Anhalt: Ein absolutes Grauen",
-   "s": "Verfassungsschutz, Schulpflicht, Rundfunkstaatsverträge, Migrationspolitik: Was kann die AfD anrichten, sollte sie an die Macht kommen?",
-   "u": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6209778/",
-   "q": "taz",
-   "d": "2026-09-07T07:19:00+00:00"
-  },
-  {
-   "t": "Landtagswahl: \"Erst mal ist es ein Ergebnis für Sachsen-Anhalt\"",
-   "s": "In Sachsen-Anhalt könnte erstmals ein AfD-Politiker Ministerpräsident werden. Politikwissenschaftlerin Petra Dobner bezeichnet die Wahl als historisch, warnt aber vor voreiligen Rückschlüssen auf die Bundespolitik.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-gruende-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T06:39:44+00:00"
+   "d": "2026-09-07T13:36:07+00:00"
   }
  ]
 }

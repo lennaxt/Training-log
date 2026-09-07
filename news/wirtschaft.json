@@ -1,20 +1,20 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-07T15:03:56+00:00",
+ "updated": "2026-09-07T19:10:28+00:00",
  "items": [
+  {
+   "t": "Marktbericht: DAX verteidigt runde Marke",
+   "s": "Der DAX hat sich zum Wochenauftakt nervös gezeigt. Besonders ein weiterer Anstieg der Ölpreise lastete auf den Kursen. Dennoch konnte sich der Leitindex über der Marke von 26.000 Punkten halten.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T16:26:45+00:00"
+  },
   {
    "t": "Wahl in Sachsen-Anhalt: Arbeitgeber warnen vor \"Klima der Abschottung\"",
    "s": "Vertreter der deutschen Industrie und Ökonomen gehen davon aus, dass sich der AfD-Wahlsieg in Sachsen-Anhalt negativ auf die Wirtschaft auswirken könnte. An die Bundesregierung richten sie den Appell, am Reformkurs festzuhalten.",
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-100.html",
    "q": "Tagesschau",
    "d": "2026-09-07T14:13:56+00:00"
-  },
-  {
-   "t": "Treffen in Monaco: Rückversicherer warnen vor Naturkatastrophen",
-   "s": "Überschwemmungen, Dürren, Waldbrände: Die Rückversicherer warnen vor mehr wetterbedingten Naturkatastrophen. Auf dem Branchentreffen in Monte Carlo müssen sie dennoch mit sinkenden Prämien rechnen. Die Aktien stehen unter Druck.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-monte-carlo-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T12:35:17+00:00"
   },
   {
    "t": "VW-Werk Osnabrück soll Rüstungsstandort werden",

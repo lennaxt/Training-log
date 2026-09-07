@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-07T15:03:59+00:00",
+ "updated": "2026-09-07T19:10:30+00:00",
  "items": [
+  {
+   "t": "Internationaler Gerichtshof: Deutschland hält Nicaraguas Gaza-Klage für unzulässig",
+   "s": "Nicaragua wirft Deutschland Beihilfe eines israelischen Genozids in Gaza vor. Die Bundesregierung hält dagegen, man setze sich für eine Zwei-Staaten-Lösung ein.",
+   "u": "https://taz.de/Internationaler-Gerichtshof/!6210838/",
+   "q": "taz",
+   "d": "2026-09-07T14:41:00+00:00"
+  },
   {
    "t": "Wahlkampf in Argentinien: Trumpfkarte Nationalgefühl",
    "s": "Argentiniens Präsident Milei missbraucht die britischen Falklandinseln als nationalistisches Wahlkampfthema, weil seine Umfragen schlecht sind.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Streit-um-Sendelizenzen/!6205459/",
    "q": "taz",
    "d": "2026-08-18T15:56:00+00:00"
-  },
-  {
-   "t": "Wahlkampfauftakt in Brasilien: Lulas letzte Runde",
-   "s": "Mit Großkundgebungen beginnen Brasiliens Präsident Lula da Silva und Herausforderer Flávio Bolsonaro den Wahlkampf. Es wird eine Richtungsentscheidung.",
-   "u": "https://taz.de/Wahlkampfauftakt-in-Brasilien/!6204952/",
-   "q": "taz",
-   "d": "2026-08-17T11:17:00+00:00"
   }
  ]
 }

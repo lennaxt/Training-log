@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-09-07T15:03:55+00:00",
+ "updated": "2026-09-07T19:10:27+00:00",
  "items": [
+  {
+   "t": "Kurs der Bundesregierung: Verändert der AfD-Erfolg die deutsche EU-Politik?",
+   "s": "In der EU stehen in nächster Zeit wichtige Entscheidungen an, etwa beim neuen Haushalt. Diskutiert wird daher, ob der Erfolg der AfD auch Folgen für die EU-Politik der Bundesregierung haben könnte. Von C. Feld und T. Spickhofen.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-reaktionen-afd-sachsen-anhalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T17:48:48+00:00"
+  },
+  {
+   "t": "Grönland und EU: Sich von Trumps Drohungen nicht mehr beirren lassen",
+   "s": "Die EU will weitere 200 Millionen Euro in Grönland investieren, unter anderem in den Abbau kritischer Rohstoffe. Kommissionschefin von der Leyen setzt damit auch ein Zeichen gegen Drohungen aus Washington. Von K. Schmid.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-groenland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T16:43:02+00:00"
+  },
+  {
+   "t": "AfD-Wahlerfolg: Polen fürchtet Instabilität und Geschichtsrelativierung",
+   "s": "Der Wahlausgang in Sachsen-Anhalt wird auch in Polen genau beobachtet. Gerade die Haltung der AfD zu Russland verunsichert viele Menschen, zudem gibt es die Sorge vor einer geschwächten Bundesregierung. Von Palina Milling.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-afd-wahlsieg-reaktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T16:42:48+00:00"
+  },
   {
    "t": "Wie der AfD-Wahlsieg in Sachsen-Anhalt in Frankreich bewertet wird",
    "s": "Auch in Frankreich ist der AfD-Sieg in Sachsen-Anhalt Thema. Viele Politiker sind entsetzt - gilt die AfD doch als noch extremer als der Rassemblement National. Dessen Frontfrau Le Pen schweigt zum deutschen Wahlergebnis. Von Julia Borutta.",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-sbu-100.html",
    "q": "Tagesschau",
    "d": "2026-09-04T19:34:14+00:00"
-  },
-  {
-   "t": "Deutsche Studentin gewinnt schwedische Insel - auf Zeit",
-   "s": "Ruhe, Natur und Vögel: Eine deutsche Studentin hat eine Insel in Schweden gewonnen - auf Zeit. Sie wird für ein Jahr deren Verwalterin. Betreten darf das Eiland aber jeder. Von Arne Bartram.",
-   "u": "https://www.tagesschau.de/ausland/europa/insel-schweden-gewonnen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T13:45:30+00:00"
-  },
-  {
-   "t": "Mit den Kämpfen im Jemen wächst die Gefahr einer Hungerkrise",
-   "s": "Die Lage im Jemen ist so angespannt wie seit Jahren nicht mehr. Während sich Huthi-Rebellen und die von Saudi-Arabien unterstützte Regierung bekämpfen, hungern immer mehr Menschen. Von Nina Amin.",
-   "u": "https://www.tagesschau.de/ausland/asien/jemen-hunger-krise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T11:54:30+00:00"
-  },
-  {
-   "t": "Wie eine Textzeile Chinas bekanntestem Comedian zum Verhängnis wurde",
-   "s": "Der Comedian Guo Degang zählt zu den berühmtesten Kulturschaffenden in China. Nach einem Auftritt in Wuhan sind Guos weitere Shows abgesagt, es läuft eine Untersuchung gegen ihn. Der Grund: eine Textzeile. Von C. Kober.",
-   "u": "https://www.tagesschau.de/ausland/asien/china-comedian-guo-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T09:40:43+00:00"
   }
  ]
 }

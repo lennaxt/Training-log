@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-07T15:03:58+00:00",
+ "updated": "2026-09-07T19:10:30+00:00",
  "items": [
+  {
+   "t": "Gedenken an Ratko Mladić: Letztes Geleit für den Kriegsverbrecher",
+   "s": "Tausende Menschen ehren bei Trauerfeierlichkeiten in Belgrad den verstorbenen Kriegsverbrecher Ratko Mladić. Serbiens Staatspräsident Vučić fehlt.",
+   "u": "https://taz.de/Gedenken-an-Ratko-Mladic/!6210835/",
+   "q": "taz",
+   "d": "2026-09-07T17:44:00+00:00"
+  },
+  {
+   "t": "EU und Grönland: Auf der Suche nach einem Platz an der nordischen Sonne",
+   "s": "Der Beziehungsstatus zwischen der Europäischen Union und Grönland ist kompliziert. Nun wagt die EU einen neuen Vorstoß mit einem Millionen-Programm.",
+   "u": "https://taz.de/EU-und-Groenland/!6210832/",
+   "q": "taz",
+   "d": "2026-09-07T15:31:00+00:00"
+  },
   {
    "t": "Migration über den Ärmelkanal: Rechte blockieren Hafen von Portsmouth",
    "s": "In Großbritannien protestieren bereits die zweite Nacht rechte Demonstranten gegen Boat People, wenn diese in Häfen an Land gebracht werden.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Ansturm-auf-spanische-Exklave-Ceuta/!6209853/",
    "q": "taz",
    "d": "2026-09-03T13:39:00+00:00"
-  },
-  {
-   "t": "Russland schließt Goethe-Institute: Keine Deutschprüfungen mehr in Moskau",
-   "s": "Als Reaktion auf den versuchten Drohnenanschlag von Leipzig will Deutschland das Russische Haus in Berlin schließen. Nun reagiert Moskau mit Gegenmaßnahmen.",
-   "u": "https://taz.de/Russland-schliesst-Goethe-Institute/!6209863/",
-   "q": "taz",
-   "d": "2026-09-03T12:34:00+00:00"
-  },
-  {
-   "t": "Tagebuch aus Georgien: Das Kreuz und die Queeren",
-   "s": "In Tbilisi gibt es weiterhin eine LGBTQ+-Community. Staat und orthodoxe Kirche machen ihr das Leben schwer, und doch gibt es auch andere Signale.",
-   "u": "https://taz.de/Tagebuch-aus-Georgien/!6207617/",
-   "q": "taz",
-   "d": "2026-09-03T09:35:00+00:00"
   }
  ]
 }
