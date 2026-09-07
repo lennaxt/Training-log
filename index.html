@@ -18,20 +18,20 @@
 <link id="fontfile-clash" href="https://api.fontshare.com/v2/css?f%5B%5D=clash-display@400,500,600&display=swap" rel="stylesheet">
 <style>
   :root{
-    --earth:#DC851F;
-    --glow:#FFA737;
-    --green:#5C6B33;
-    --green-dark:#455123;
-    --green-lite:#9AAD5A;
-    --rad:#5C6B33;
-    --lauf:#2E6DA4;
-    --kurs:#B5537E;
-    --blue:#DC851F;
-    --blue-dark:#C46E12;
-    --blue-deep:#DC851F;
-    --sand:#DC851F;
-    --khaki:#FFA737;
-    --clay:#DC851F;
+    --earth:#012F7B;
+    --glow:#395D98;
+    --green:#C2C2C2;
+    --green-dark:#979797;
+    --green-lite:#D3D3D3;
+    --rad:#D14300;
+    --lauf:#310031;
+    --kurs:#2C5727;
+    --blue:#012F7B;
+    --blue-dark:#012767;
+    --blue-deep:#012F7B;
+    --sand:#012F7B;
+    --khaki:#395D98;
+    --clay:#012F7B;
     --paper:#FFFFFF;
     --paper-2:#FBF4EA;
     --ink:#343330;
@@ -3388,7 +3388,10 @@ const PALETTE=["#DC851F","#E8A13C","#C97A2B","#C0392B","#A93226",
   "#B5537E","#8E5AA8","#5D5FAE","#4F7CAC","#2E6DA4",
   "#2E7D6B","#3E9B8E","#6E8B3D","#5C6B33","#3E7D3A",
   "#7E5920","#A8803A","#8A6D5C","#6E675F","#343330"];
-const DEF_A="#DC851F",DEF_B="#5C6B33",DEF_R="#5C6B33",DEF_L="#2E6DA4",DEF_K="#B5537E";
+/* Standard fuer alle, die noch keine eigene Farbe gewaehlt haben. Die
+   abgeleiteten Werte stehen als Startwert im :root — sonst blitzt vor dem
+   ersten Skript die alte Farbe auf. */
+const DEF_A="#012F7B",DEF_B="#C2C2C2",DEF_R="#D14300",DEF_L="#310031",DEF_K="#2C5727";
 const rootStyle=document.documentElement.style;
 function hexRgb(h){h=h.replace("#","");return[parseInt(h.slice(0,2),16),parseInt(h.slice(2,4),16),parseInt(h.slice(4,6),16)]}
 function shade(hex,amt){const c=hexRgb(hex),f=amt<0?0:255,p=Math.abs(amt);
