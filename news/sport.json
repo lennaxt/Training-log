@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-08T08:06:20+00:00",
+ "updated": "2026-09-08T13:39:08+00:00",
  "items": [
+  {
+   "t": "Korruptionsverdacht: Cousin von Präsident Ferdinand Marcos in Haft",
+   "s": "In den Philippinen geht der Machtkampf der Familienclans Marcos und Durterte vor dem Hintergrund massiver Korruptionsvorwürfe in eine neue Runde.",
+   "u": "https://taz.de/Korruptionsverdacht/!6211333/",
+   "q": "taz",
+   "d": "2026-09-08T13:09:00+00:00"
+  },
   {
    "t": "Nach Sturzflut im Himalaya: Retter bergen in Nepal zwei weitere Überlebende",
    "s": "Die Retter in Nepal können zwei weitere Erfolge verbuchen. Sie finden einen weiteren Arbeiter in einem Tunnel und eine Frau in den Trümmern eines Hauses.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Korea-Konflikt/!6205481/",
    "q": "taz",
    "d": "2026-08-19T07:49:00+00:00"
-  },
-  {
-   "t": "Militärmanöver zwischen USA und Südkorea: Trump’sche Besserwisserei",
-   "s": "Der US-Präsident kündigt an, das US-Manöver mit Südkorea zu verringern. Es geht ihm offenbar nicht um Friedenssicherung, sondern wieder nur um ihn.",
-   "u": "https://taz.de/Militaermanoever-zwischen-USA-und-Suedkorea/!6204996/",
-   "q": "taz",
-   "d": "2026-08-17T16:22:00+00:00"
   }
  ]
 }

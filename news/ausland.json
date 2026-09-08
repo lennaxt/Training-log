@@ -1,13 +1,41 @@
 {
  "name": "Ausland",
- "updated": "2026-09-08T08:06:14+00:00",
+ "updated": "2026-09-08T13:39:02+00:00",
  "items": [
   {
-   "t": "Handelskonflikt mit den USA: Kanadas Gegenzölle in Kraft",
-   "s": "Der Zollstreit in Nordamerika geht in die nächste Phase: Kanada erhebt ab sofort Gegenzölle auf bestimmte US-Importe. US-Präsident Trump drohte unterdessen dem kanadischen Flugzeughersteller Bombardier.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kanada-usa-gegenzoelle-100.html",
+   "t": "Einbruch in Museum in Südfrankreich: Renoir-Gemälde gestohlen",
+   "s": "Es werden Erinnerungen an den Einbruch in den Louvre wach: In Südfrankreich sind wertvolle Gemälde des impressionistischen Künstlers Renoir aus einem Museum gestohlen worden. Einen Teil der Beute ließen die Täter bei ihrer Flucht zurück.",
+   "u": "https://www.tagesschau.de/ausland/europa/renoir-gemaelde-diebstahl-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-08T07:26:21+00:00"
+   "d": "2026-09-08T13:00:58+00:00"
+  },
+  {
+   "t": "IKEA setzt sich vor Gericht gegen rechtsextreme Partei durch",
+   "s": "Eine rechtsextreme Partei in Belgien präsentierte Ideen zum Thema Einwanderung im Stile einer IKEA-Aufbauanleitung - zum Ärger des schwedischen Möbelkonzerns. Der Europäische Gerichtshof hat nun im Sinne von IKEA geurteilt. Von Kolja Schwartz.",
+   "u": "https://www.tagesschau.de/ausland/europa/ikea-eugh-markenstreit-rechtsextreme-partei-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T12:45:29+00:00"
+  },
+  {
+   "t": "Beisetzung in Belgrad: EU verurteilt \"Verherrlichung von Kriegsverbrecher\" Mladic",
+   "s": "Mit militärischen Ehren wurde der Kriegsverbrecher Mladic in Serbien beigesetzt. Tausende nahmen teil, darunter auch serbische Amtsträger. Die EU-Spitze reagierte entsetzt.",
+   "u": "https://www.tagesschau.de/ausland/europa/serbien-beisetzung-mladic-kritik-eu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T12:32:44+00:00"
+  },
+  {
+   "t": "Viele Verletzte bei Angriffen der Huthi-Miliz auf Saudi-Arabien",
+   "s": "Die Huthi-Miliz hat mehrere Ziele in Saudi-Arabien angegriffen. Mehr als 70 Menschen wurden laut örtlichen Behörden verletzt. Das saudisch angeführte Militärbündnis spricht von einer \"gefährlichen Eskalation\" und droht mit Vergeltung.",
+   "u": "https://www.tagesschau.de/ausland/asien/huthi-angriff-saudi-arabien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T11:51:39+00:00"
+  },
+  {
+   "t": "Amazon-Flugzeug in Miami: Ermittler bergen beide Flugschreiber",
+   "s": "Nach dem tödlichen Unfall eines Amazon-Frachtflugzeugs in Miami haben Ermittler beide Flugschreiber geborgen. Fünf Menschen starben. Neue Details zeigen, wie weit der Jet über die Landebahn hinausschoss.",
+   "u": "https://www.tagesschau.de/ausland/amerika/miami-flugzeug-unfall-amazon-cargo-blackbox-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T08:25:27+00:00"
   },
   {
    "t": "Ende der Amtszeit: Was Baerbock bei den UN angestoßen hat",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-tanker-100.html",
    "q": "Tagesschau",
    "d": "2026-09-05T15:17:36+00:00"
-  },
-  {
-   "t": "Kolumbien: Die harte Hand des Präsidenten fordert erste Opfer",
-   "s": "Kolumbiens neuer Präsident de la Espriella versprach, hart gegen bewaffnete Gruppen vorzugehen. In den ersten Wochen seiner Amtszeit lässt er seinen Worten mit enormem Tempo Taten folgen. Von Jenny Barke.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kolumbien-gewalt-104.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T12:49:26+00:00"
-  },
-  {
-   "t": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Moskau angekommen",
-   "s": "Neuer Anlauf in den US-Vermittlungen zwischen Russland und der Ukraine: Die Sondergesandten Kushner und Witkoff sind in Moskau gelandet. Morgen geht es für Gespräche nach Kiew. Für gegenseitige Angriffe auf die Hauptstädte soll eine Feuerpause gelten.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T12:38:20+00:00"
-  },
-  {
-   "t": "Weitere Überlebende nach Sturzflut in Nepal gerettet",
-   "s": "Den zweiten Tag in Folge gelingt es Rettungskräften in Nepal, nach der Sturzflut Überlebende zu finden - zehn Tage nach dem Unglück. Doch noch immer gelten Tausende Menschen infolge der Katastrophe als vermisst.",
-   "u": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-ueberlebende-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T10:08:35+00:00"
-  },
-  {
-   "t": "Flutkatastrophe im Himalaya: Nepals Wut auf die Verursacher des Klimawandels",
-   "s": "Nach der Sturzflut im Himalaya mit mehr als 1.000 Toten ist die Zerstörung groß. Während die Überlebenden ihre Habseligkeiten bergen, wächst der Zorn: Nepal stößt kaum CO2 aus, wird aber immer härter vom Klimawandel getroffen. Von L. Bodewein.",
-   "u": "https://www.tagesschau.de/ausland/asien/nepal-sturzflut-110.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T07:29:51+00:00"
   }
  ]
 }

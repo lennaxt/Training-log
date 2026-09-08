@@ -1,27 +1,55 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-08T08:06:15+00:00",
+ "updated": "2026-09-08T13:39:03+00:00",
  "items": [
   {
-   "t": "Französische KI-Start-up Mistral sammelt drei Milliarden Euro ein",
+   "t": "Zugewanderte Pflegekräfte: Abschiebung trotz Personalmangels?",
+   "s": "In Deutschland gibt es zu wenig Personal, um alte Menschen zu pflegen. Manche ausländischen Hilfskräfte sind in Einrichtungen fest eingeplant - und sollen Deutschland trotzdem wieder verlassen. Von Isabel Pogner.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/pfleger-abschiebung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T12:26:25+00:00"
+  },
+  {
+   "t": "Pflegereform: Lohndeckel für Pflegekräfte?",
+   "s": "Mit der geplanten Pflegereform sollen die Kosten gebremst werden. Ansetzen will die Regierung auch bei den Personalausgaben. Wird es damit noch schwerer, Fachkräfte für Pflegeheime zu finden? Von Axel John.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/pflegekraefte-lohndeckel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T12:26:20+00:00"
+  },
+  {
+   "t": "Kräftiges Auftragsplus: Deutschlands Elektroindustrie brummt",
+   "s": "Fast 13 Prozent mehr Aufträge als im Vorjahr, die Stimmung so gut wie seit über drei Jahren nicht mehr: Die deutsche Elektroindustrie springt an. Der KI-Boom ist auch in Deutschland angekommen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-elektroindustrie-ifo-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T12:16:08+00:00"
+  },
+  {
+   "t": "Anteil Erneuerbarer Energien an Stromerzeugung auf Rekordhoch",
+   "s": "Der Anteil Erneuerbarer Energien an der deutschen Stromerzeugung hat im ersten Halbjahr einen neuen Höchststand erreicht. Fast 60 Prozent des eingespeisten Stroms stammten aus erneuerbaren Quellen.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/stromerzeugung-erneuerbare-energien-106.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T09:13:05+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 08.09.2026",
+   "s": "Update Wirtschaft vom 08.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1645148.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T08:15:50+00:00"
+  },
+  {
+   "t": "Französisches KI-Start-up Mistral sammelt drei Milliarden Euro ein",
    "s": "In der bisher größten Finanzierungsrunde in Europa hat Mistral drei Milliarden Euro eingesammelt. Das französische Start-up setzt auf offene KI-Modelle und präsentiert sich als Gegenentwurf zu den US-Konzernen.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/mistral-kuenstliche-intelligenz-start-up-100.html",
    "q": "Tagesschau",
    "d": "2026-09-08T08:04:16+00:00"
   },
   {
-   "t": "Marktbericht: Hohe Ölpreise haben Aktienmarkt im Griff",
-   "s": "Die Vorgaben für den heutigen Handelstag sind durchwachsen: Die Ölpreise liegen auf ihrem höchsten Niveau seit Juni. Und die am Donnerstag erwartete Leitzinserhöhung der EZB sorgt für Zurückhaltung.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html",
+   "t": "Handelskonflikt mit den USA: Kanadas Gegenzölle in Kraft",
+   "s": "Der Zollstreit in Nordamerika geht in die nächste Phase: Kanada erhebt ab sofort Gegenzölle auf bestimmte US-Importe. US-Präsident Trump drohte unterdessen dem kanadischen Flugzeughersteller Bombardier.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-usa-gegenzoelle-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-08T05:13:05+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX verteidigt runde Marke",
-   "s": "Der DAX hat sich zum Wochenauftakt nervös gezeigt. Besonders ein weiterer Anstieg der Ölpreise lastete auf den Kursen. Dennoch konnte sich der Leitindex über der Marke von 26.000 Punkten halten.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T16:26:45+00:00"
+   "d": "2026-09-08T07:26:21+00:00"
   },
   {
    "t": "Wahl in Sachsen-Anhalt: Arbeitgeber warnen vor \"Klima der Abschottung\"",
@@ -129,13 +157,6 @@
    "d": "2026-09-03T08:49:41+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 03.09.2026",
-   "s": "Update Wirtschaft vom 03.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1641874.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T07:57:00+00:00"
-  },
-  {
    "t": "Kommentar zu Krankschreibungen - Die Politik sollte die Idee schnell beerdigen",
    "s": "Bundesarbeitsministerin Bas sollte einen Weg finden, um diese unsinnige Verständigung der Koalition auf ein Attest gleich am ersten Krankheitstag zu stoppen. Diese geplante Attestpflicht ist praxisfern und wird keine Fehlzeit weniger bringen.Von Birgid Becker",
    "u": "https://www.deutschlandfunk.de/kommentar-zu-krankschreibungen-100.html",
@@ -148,27 +169,6 @@
    "u": "https://www.deutschlandfunk.de/spielzeug-ki-kinder-gefahren-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-08-30T14:16:00+00:00"
-  },
-  {
-   "t": "Globales Rennen um KI - Europäische Unternehmen punkten durch Spezialisierung",
-   "s": "Europa hat KI-Unternehmen, die global wettbewerbsfähig sind: Mistral, DeepL und Black Forest Labs. Insbesondere Unternehmen nutzen gern KI aus Europa. Ein Grund dafür ist die vergleichsweise strenge KI-Regulierung in der EU.",
-   "u": "https://www.deutschlandfunk.de/ki-kuenstliche-intelligenz-europa-deepl-mistral-digitale-souveraenitaet-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-27T10:00:00+00:00"
-  },
-  {
-   "t": "Sechs Monate Irankrieg - Hohe Gewinne dank hoher Spritpreise",
-   "s": "An den Tankstellen steigen die Preise, bei den großen Ölkonzernen die Gewinne. Finanzminister Lars Klingbeil würde die Konzerne daher gern stärker zur Kasse bitten. In Europa hat man damit bereits Erfahrungen gesammelt.",
-   "u": "https://www.deutschlandfunk.de/spritpreise-irankrieg-profit-uebergewinnsteuer-oelkonzerne-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-25T08:55:00+00:00"
-  },
-  {
-   "t": "Viertagewoche in Island - Kürzer arbeiten, gleich verdienen",
-   "s": "Vier Tage arbeiten und trotzdem volles Gehalt: Für viele Beschäftigte in Island ist das längst Realität. Das Modell bringt mehr Freizeit, sorgt aber auch für Kritik von Arbeitgebern und teilweise für Einschränkungen bei öffentlichen Angeboten.",
-   "u": "https://www.deutschlandfunk.de/island-viertagewoche-arbeitszeit-verkuerzung-work-life-balance-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-21T07:58:00+00:00"
   }
  ]
 }

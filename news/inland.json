@@ -1,13 +1,118 @@
 {
  "name": "Inland",
- "updated": "2026-09-08T08:06:14+00:00",
+ "updated": "2026-09-08T13:39:01+00:00",
  "items": [
   {
-   "t": "Liveblog zu Sachsen-Anhalt: ++ CDU rechnet nicht mit Überläufern zur AfD ++",
-   "s": "Die CDU rechnet nicht mit Überläufern zur AfD. Die Chefin des BSW, Mohamed Ali, sieht wenige inhaltliche Gemeinsamkeiten mit der AfD. Ein Verfassungsschützer rät, der AfD nicht alle sensiblen Informationen zu geben.",
+   "t": "Klingbeil verteidigt Neuverschuldung in Etatdebatte",
+   "s": "Es ist der größte Haushalt, über den der Bundestag je debattiert hat: 555 Milliarden Euro sind für 2027 veranschlagt, die Neuverschuldung steigt auf über 200 Milliarden Euro. Die Opposition sparte nicht mit Kritik. Von Maximilian Ulrich.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-140.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T13:26:40+00:00"
+  },
+  {
+   "t": "Liveblog zu Sachsen-Anhalt: ++ BSW will auch mit AfD Gespräche führen ++",
+   "s": "Für das BSW in Sachsen-Anhalt gibt es laut Fraktionschef Schulze \"keine Brandmauer\" - es will auch mit der AfD über eine mögliche Zusammenarbeit sprechen. Die AfD hatte angekündigt, alle Parteien des neuen Landtages zu Gesprächen einzuladen.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-08T07:52:57+00:00"
+   "d": "2026-09-08T13:26:02+00:00"
+  },
+  {
+   "t": "Islamismus 25 Jahre nach 9/11 - Radikalisierung im Netz statt in Moscheen",
+   "s": "Seit den Anschlägen vom 11. September 2001 hat sich die islamistische Szene in Deutschland gewandelt. Radikalisierung findet heute zunehmend im Internet statt und betrifft immer häufiger junge Menschen.",
+   "u": "https://www.deutschlandfunk.de/world-trade-center-terror-islamismus-internet-radikalisierung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-08T13:18:00+00:00"
+  },
+  {
+   "t": "Korruptionsverdacht: Cousin von Präsident Ferdinand Marcos in Haft",
+   "s": "In den Philippinen geht der Machtkampf der Familienclans Marcos und Durterte vor dem Hintergrund massiver Korruptionsvorwürfe in eine neue Runde.",
+   "u": "https://taz.de/Korruptionsverdacht/!6211333/",
+   "q": "taz",
+   "d": "2026-09-08T13:09:00+00:00"
+  },
+  {
+   "t": "Nach der Landtagswahl in Sachsen-Anhalt: Der Linkenfresser aus dem Bundestag",
+   "s": "Sepp Müller ist Co-Chef der Unionsfraktion im Bundestag. Jetzt will er neuer CDU-Landesvorsitzender in Sachsen-Anhalt werden.",
+   "u": "https://taz.de/Nach-der-Landtagswahl-in-Sachsen-Anhalt/!6211390/",
+   "q": "taz",
+   "d": "2026-09-08T12:52:00+00:00"
+  },
+  {
+   "t": "Nach der Wahl in Sachsen-Anhalt: Grüne gehen auf Wagenknecht-Partei zu",
+   "s": "Die Grünen öffnen sich für den BSW-Vorschlag eines unabhängigen Ministerpräsidenten. Das sagte Spitzenkandidatin Susan Sziborra-Seidlitz der taz.",
+   "u": "https://taz.de/Nach-der-Wahl-in-Sachsen-Anhalt/!6211464/",
+   "q": "taz",
+   "d": "2026-09-08T12:35:00+00:00"
+  },
+  {
+   "t": "Strafverfahren gegen Sänger Xavier Naidoo",
+   "s": "Das Landgericht Mannheim hat eine Anklage der Staatsanwaltschaft gegen Xavier Naidoo zugelassen. Darin geht es um den Verdacht der Volksverhetzung in einem Fall in Tateinheit mit Beleidigung.",
+   "u": "https://www.tagesschau.de/inland/strafverfahren-saenger-xavier-naidoo-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T12:13:00+00:00"
+  },
+  {
+   "t": "Besetztes Westjordanland: Die Siedlungen kommen, die Sanktionen aber auch",
+   "s": "Ein israelisches Gericht weist einen Eilantrag gegen das Siedlungsprojekt E1 zurück. Großbritannien will neue Sanktionen gegen Produkte aus Siedlungen verhängen.",
+   "u": "https://taz.de/Besetztes-Westjordanland/!6211485/",
+   "q": "taz",
+   "d": "2026-09-08T12:12:00+00:00"
+  },
+  {
+   "t": "Polizei nimmt mutmaßlichen Strom-Saboteur fest",
+   "s": "Die Polizei hat in der Nähe eines Kraftwerks bei Aachen den mutmaßlichen Strom-Saboteur gefasst. Der 48-Jährige soll bundesweit Anschläge auf das Stromnetz verübt haben. Die Bundesregierung spricht von \"Klimaextremismus\".",
+   "u": "https://www.tagesschau.de/inland/festnahme-strom-saboteur-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T11:20:43+00:00"
+  },
+  {
+   "t": "Neue Debatte über AfD-Verbot: Wüst will AfD-Verbot prüfen lassen",
+   "s": "Der NRW-Ministerpräsident fordert eine Arbeitsgruppe zum AfD-Verbot. Der Publizist Michel Friedman fordert das Verbot, gerade weil die AfD jetzt so stark ist.",
+   "u": "https://taz.de/Neue-Debatte-ueber-AfD-Verbot/!6211379/",
+   "q": "taz",
+   "d": "2026-09-08T10:48:00+00:00"
+  },
+  {
+   "t": "Landtagswahl Sachsen-Anhalt: BSW sieht wenig Gemeinsamkeiten mit der AfD",
+   "s": "Wird das Bündnis Sahra Wagenknecht der AfD in Sachsen-Anhalt zur Mehrheit im Landtag verhelfen? Bisher plädiert das BSW weiter für einen \"überparteilichen Ministerpräsidenten\" - und geht inhaltlich auf Distanz zur AfD.",
+   "u": "https://www.tagesschau.de/inland/sachsen-anhalt-bsw-regierungsbildung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T09:37:08+00:00"
+  },
+  {
+   "t": "Kommentar zum AfD-Wahlerfolg - Trumpsche Verhältnisse in Magdeburg",
+   "s": "Der Sieg der AfD in Sachsen-Anhalt wirft die gewohnten politischen Verhältnisse über den Haufen. Allen, die es nicht mit der Partei halten, könnten schwere Jahre bevorstehen.Ein Kommentar von Niklas Ottersbach",
+   "u": "https://www.deutschlandfunk.de/sachsen-anhalt-wahl-zaesur-afd-sieg-kommentar-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-08T09:19:00+00:00"
+  },
+  {
+   "t": "Bundesweite Proteste gegen die AfD: Sich umarmen gegen den Faschismus",
+   "s": "Nach dem Wahlsieg der Rechtsextremen in Sachsen-Anhalt ruft Campact erneut zu Demos gegen rechts auf. Der Auftakt in Berlin war eher Selbstbeweihräucherung.",
+   "u": "https://taz.de/Bundesweite-Proteste-gegen-die-AfD/!6211307/",
+   "q": "taz",
+   "d": "2026-09-08T09:07:00+00:00"
+  },
+  {
+   "t": "Nach der Wahl in Sachsen-Anhalt: Die Rechtsextremen haben gewonnen – und jetzt?",
+   "s": "Eine blaue Welle hat Sachsen-Anhalt überrollt, die Demokraten sind ratlos. Was bedeutet das für die Demokratie, und wie weiter mit der Brandmauer?",
+   "u": "https://taz.de/Nach-der-Wahl-in-Sachsen-Anhalt/!6211338/",
+   "q": "taz",
+   "d": "2026-09-08T08:41:00+00:00"
+  },
+  {
+   "t": "Neue Pisa-Studie veröffentlicht: Tiktok ist schlecht für die Kondition",
+   "s": "Die Lesekompetenz erreicht neue Tiefstwerte und das Schulsystem ist weiterhin sehr ungerecht. Deutschland bleibt bei Pisa schlechter Durchschnitt.",
+   "u": "https://taz.de/Neue-Pisa-Studie-veroeffentlicht/!6207598/",
+   "q": "taz",
+   "d": "2026-09-08T08:36:00+00:00"
+  },
+  {
+   "t": "Angriff auf Protest gegen AfD: Polizei ermittelt nach Schuss auf Antifademo in Halle",
+   "s": "Bei einem Protestzug gegen den AfD-Wahlsieg in Sachsen-Anhalt wurde ein Mensch durch den Schuss aus einem Luftdruckgewehr verletzt. Der Täter ist unbekannt.",
+   "u": "https://taz.de/Angriff-auf-Protest-gegen-AfD/!6211337/",
+   "q": "taz",
+   "d": "2026-09-08T08:24:00+00:00"
   },
   {
    "t": "Wahrzeichen von Paris: Streik am Eiffelturm nach Ausschluss von Mitarbeiterinnen",
@@ -64,111 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-ausgaben-schulden-100.html",
    "q": "Tagesschau",
    "d": "2026-09-08T04:47:50+00:00"
-  },
-  {
-   "t": "ARD-DeutschlandTrend: Zwei Drittel schauen besorgt nach Sachsen-Anhalt",
-   "s": "Eine Mehrheit der Deutschen blickt mit Sorge auf den Ausgang der Wahl in Sachsen-Anhalt. Im DeutschlandTrend extra ist zugleich jeder Zweite der Meinung, die anderen Parteien sollten die AfD stärker einbinden. Von J. Schönenborn.",
-   "u": "https://www.tagesschau.de/inland/deutschlandtrend/sachsen-anhalt-wahlergebnis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T19:11:43+00:00"
-  },
-  {
-   "t": "Grüne und Linke gewinnen in Halle: Gewonnen und doch verloren",
-   "s": "In Halle gingen zwei Wahlkreise an Kandidaten der Linken. Warum die Freude am Tag nach dem AfD-Erfolg trotzdem getrübt ist.",
-   "u": "https://taz.de/Gruene-und-Linke-gewinnen-in-Halle/!6210865/",
-   "q": "taz",
-   "d": "2026-09-07T17:45:00+00:00"
-  },
-  {
-   "t": "Gedenken an Ratko Mladić: Letztes Geleit für den Kriegsverbrecher",
-   "s": "Tausende Menschen ehren bei Trauerfeierlichkeiten in Belgrad den verstorbenen Kriegsverbrecher Ratko Mladić. Serbiens Staatspräsident Vučić fehlt.",
-   "u": "https://taz.de/Gedenken-an-Ratko-Mladic/!6210835/",
-   "q": "taz",
-   "d": "2026-09-07T17:44:00+00:00"
-  },
-  {
-   "t": "Nach Einstufung als Terrororganisation: Autistici/Inventati ist Geschichte",
-   "s": "Das linke Tech-Kollektiv aus Italien, dessen Infrastruktur auch linke Gruppen in Deutschland nutzen, schmeißt hin. Der Druck der US-Behörden war zu groß.",
-   "u": "https://taz.de/Nach-Einstufung-als-Terrororganisation/!6211217/",
-   "q": "taz",
-   "d": "2026-09-07T17:08:00+00:00"
-  },
-  {
-   "t": "Grüne nach Wahl in Sachsen-Anhalt: Grün bleibt die Hoffnung",
-   "s": "Die Grünen feiern in Sachsen-Anhalt einen Rekord. Nun hoffen sie, dass die AfD-Angst auch in Mecklenburg-Vorpommern und Berlin Stimmen bringt.",
-   "u": "https://taz.de/Gruenen-nach-Wahl-in-Sachsen-Anhalt/!6210872/",
-   "q": "taz",
-   "d": "2026-09-07T17:07:00+00:00"
-  },
-  {
-   "t": "Raus aus dem Sanierungsstau - Schneller Brücken bauen",
-   "s": "Tausende marode Brücken lähmen den Verkehr in Deutschland. Jahrelange Sperrungen kosten die Wirtschaft Millionen. Dabei könnte es schon längst schneller gehen mit Verfahren, die den Bau beschleunigen.Leue, Vivien",
-   "u": "https://www.deutschlandfunk.de/schneller-bruecken-bauen-wie-deutschland-aus-dem-sanierungsstau-kommt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-07T16:40:00+00:00"
-  },
-  {
-   "t": "Reaktionen auf Sachsen-Anhalt: Begeisterungsstürme, Schockstarre und tiefe Besorgnis",
-   "s": "Die internationalen Reaktionen auf den AfD-Sieg könnten unterschiedlicher kaum ausfallen. Linke und De­mo­kra­t:in­nen sind besorgt, die Rechte reagiert gespalten.",
-   "u": "https://taz.de/Reaktionen-auf-Sachsen-Anhalt/!6210852/",
-   "q": "taz",
-   "d": "2026-09-07T15:42:00+00:00"
-  },
-  {
-   "t": "Strafverfahren gegen Sänger Xavier Naidoo eröffnet",
-   "s": "Xavier Naidoo muss sich vor Gericht wegen des Vorwurfs der Volksverhetzung und Beleidigung verantworten. Das Landgericht Mannheim hat eine entsprechende Anklage der Staatsanwaltschaft von 2023 zugelassen.",
-   "u": "https://www.tagesschau.de/inland/strafverfahren-saenger-xavier-naidoo-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T15:39:40+00:00"
-  },
-  {
-   "t": "SPD nach Wahl in Sachsen-Anhalt: Alles im grauen Bereich",
-   "s": "Die SPD sucht nach dem AfD-Triumph in Sachsen-Anhalt ihren Kurs. Sie will als Partei erkennbar sein, ohne die Regierung in die Luft zu jagen. Das erfordert Geschick.",
-   "u": "https://taz.de/SPD-nach-Wahl-in-Sachsen-Anhalt/!6210819/",
-   "q": "taz",
-   "d": "2026-09-07T15:33:00+00:00"
-  },
-  {
-   "t": "EU und Grönland: Auf der Suche nach einem Platz an der nordischen Sonne",
-   "s": "Der Beziehungsstatus zwischen der Europäischen Union und Grönland ist kompliziert. Nun wagt die EU einen neuen Vorstoß mit einem Millionen-Programm.",
-   "u": "https://taz.de/EU-und-Groenland/!6210832/",
-   "q": "taz",
-   "d": "2026-09-07T15:31:00+00:00"
-  },
-  {
-   "t": "AfD nach Wahlerfolg Sachsen-Anhalt: Wahlsieger, extrem rechts, sucht Partner",
-   "s": "Die AfD bringt sich in Stellung für eine Regierungsübernahme. Sie ist auf Überläufer oder Zusammenarbeit mit BSW oder CDU angewiesen.",
-   "u": "https://taz.de/AfD-nach-Wahlerfolg-Sachsen-Anhalt/!6210800/",
-   "q": "taz",
-   "d": "2026-09-07T15:25:00+00:00"
-  },
-  {
-   "t": "CDU nach Wahl in Sachsen-Anhalt: „Aufgeben ist keine Option“",
-   "s": "Nach der desaströsen Wahlniederlage in Sachsen-Anhalt steht Bundeskanzler Merz in der Kritik. Der will nicht weichen – aber mehr auf Emotionen setzen.",
-   "u": "https://taz.de/CDU-nach-Wahl-in-Sachsen-Anhalt/!6210805/",
-   "q": "taz",
-   "d": "2026-09-07T15:24:00+00:00"
-  },
-  {
-   "t": "Sachsen-Anhalt - Der Tag danach",
-   "s": "Die einen jubeln, die anderen sind erschüttert: Die AfD hat die Wahl klar gewonnen. Die CDU hat ihr Ergebnis halbiert. Was folgt jetzt aus der Wahl – für die Regierungsbildung in Sachsen-Anhalt, die Menschen im Land und für den Bundeskanzler und seine Bundesregierung?Zerback, Sarah",
-   "u": "https://www.deutschlandfunk.de/sachsen-anhalt-cdu-afd-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-07T15:00:00+00:00"
-  },
-  {
-   "t": "Regierungsparteien ringen um Strategie nach Landtagswahl",
-   "s": "Die Regierungsparteien ringen um Worte und Antworten nach dem Wahlausgang in Sachsen-Anhalt. Der Kanzler will besser kommunizieren, die SPD hadert mit den geplanten Sozialreformen. Wie kann es nun weitergehen? Von D. Hebestreit.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/wahl-sachsen-anhalt-reaktionen-bund-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T14:57:34+00:00"
-  },
-  {
-   "t": "Angriffe auf deutsches Stromnetz: Noch mehr Raketen – aber weiter keine Spur von Daniel V.",
-   "s": "In Sachsen haben die Behörden weitere Sprengkörper nahe einem Umspannwerk gefunden. Der mutmaßliche Täter ist weiter flüchtig.",
-   "u": "https://taz.de/Angriffe-auf-deutsches-Stromnetz/!6210878/",
-   "q": "taz",
-   "d": "2026-09-07T14:47:00+00:00"
   }
  ]
 }

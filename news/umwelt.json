@@ -1,7 +1,56 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-08T08:06:17+00:00",
+ "updated": "2026-09-08T13:39:05+00:00",
  "items": [
+  {
+   "t": "Nach der Landtagswahl in Sachsen-Anhalt: Der Linkenfresser aus dem Bundestag",
+   "s": "Sepp Müller ist Co-Chef der Unionsfraktion im Bundestag. Jetzt will er neuer CDU-Landesvorsitzender in Sachsen-Anhalt werden.",
+   "u": "https://taz.de/Nach-der-Landtagswahl-in-Sachsen-Anhalt/!6211390/",
+   "q": "taz",
+   "d": "2026-09-08T12:52:00+00:00"
+  },
+  {
+   "t": "Nach der Wahl in Sachsen-Anhalt: Grüne gehen auf Wagenknecht-Partei zu",
+   "s": "Die Grünen öffnen sich für den BSW-Vorschlag eines unabhängigen Ministerpräsidenten. Das sagte Spitzenkandidatin Susan Sziborra-Seidlitz der taz.",
+   "u": "https://taz.de/Nach-der-Wahl-in-Sachsen-Anhalt/!6211464/",
+   "q": "taz",
+   "d": "2026-09-08T12:35:00+00:00"
+  },
+  {
+   "t": "Neue Debatte über AfD-Verbot: Wüst will AfD-Verbot prüfen lassen",
+   "s": "Der NRW-Ministerpräsident fordert eine Arbeitsgruppe zum AfD-Verbot. Der Publizist Michel Friedman fordert das Verbot, gerade weil die AfD jetzt so stark ist.",
+   "u": "https://taz.de/Neue-Debatte-ueber-AfD-Verbot/!6211379/",
+   "q": "taz",
+   "d": "2026-09-08T10:48:00+00:00"
+  },
+  {
+   "t": "Bundesweite Proteste gegen die AfD: Sich umarmen gegen den Faschismus",
+   "s": "Nach dem Wahlsieg der Rechtsextremen in Sachsen-Anhalt ruft Campact erneut zu Demos gegen rechts auf. Der Auftakt in Berlin war eher Selbstbeweihräucherung.",
+   "u": "https://taz.de/Bundesweite-Proteste-gegen-die-AfD/!6211307/",
+   "q": "taz",
+   "d": "2026-09-08T09:07:00+00:00"
+  },
+  {
+   "t": "Nach der Wahl in Sachsen-Anhalt: Die Rechtsextremen haben gewonnen – und jetzt?",
+   "s": "Eine blaue Welle hat Sachsen-Anhalt überrollt, die Demokraten sind ratlos. Was bedeutet das für die Demokratie, und wie weiter mit der Brandmauer?",
+   "u": "https://taz.de/Nach-der-Wahl-in-Sachsen-Anhalt/!6211338/",
+   "q": "taz",
+   "d": "2026-09-08T08:41:00+00:00"
+  },
+  {
+   "t": "Neue Pisa-Studie veröffentlicht: Tiktok ist schlecht für die Kondition",
+   "s": "Die Lesekompetenz erreicht neue Tiefstwerte und das Schulsystem ist weiterhin sehr ungerecht. Deutschland bleibt bei Pisa schlechter Durchschnitt.",
+   "u": "https://taz.de/Neue-Pisa-Studie-veroeffentlicht/!6207598/",
+   "q": "taz",
+   "d": "2026-09-08T08:36:00+00:00"
+  },
+  {
+   "t": "Angriff auf Protest gegen AfD: Polizei ermittelt nach Schuss auf Antifademo in Halle",
+   "s": "Bei einem Protestzug gegen den AfD-Wahlsieg in Sachsen-Anhalt wurde ein Mensch durch den Schuss aus einem Luftdruckgewehr verletzt. Der Täter ist unbekannt.",
+   "u": "https://taz.de/Angriff-auf-Protest-gegen-AfD/!6211337/",
+   "q": "taz",
+   "d": "2026-09-08T08:24:00+00:00"
+  },
   {
    "t": "Trotz Kanzler-Kritik: Müller will neuer CDU-Chef in Sachsen-Anhalt werden",
    "s": "Sepp Müller geht nach Merz-Kritik in die Offensive: Er will die CDU Sachsen-Anhalt neu aufstellen – und kandidiert für den Landesvorsitz.",
@@ -120,55 +169,6 @@
    "u": "https://taz.de/Lehren-aus-der-Wahl-in-Sachsen-Anhalt/!6210759/",
    "q": "taz",
    "d": "2026-09-07T05:11:00+00:00"
-  },
-  {
-   "t": "Wahlergebnis Sachsen-Anhalt: Absolute Mehrheit verfehlt",
-   "s": "Die AfD holt laut vorläufigem amtlichen Wahlergebnis nicht die absolute Mehrheit in Sachsen-Anhalt. Das BSW wird Königsmacherin. Der Morgen nach der Wahl.",
-   "u": "https://taz.de/Ergebnis-Sachsen-Anhalt/!6210760/",
-   "q": "taz",
-   "d": "2026-09-07T04:55:00+00:00"
-  },
-  {
-   "t": "Zivilgesellschaft in Sachsen-Anhalt: Weitermachen, irgendwie",
-   "s": "Am Wahlsonntag bangen antifaschistische Menschen in Sachsen-Anhalt um ihre Zukunft. Aufgeben kommt für viele trotzdem nicht infrage.",
-   "u": "https://taz.de/Zivilgesellschaft-in-Sachsen-Anhalt/!6209777/",
-   "q": "taz",
-   "d": "2026-09-06T21:42:00+00:00"
-  },
-  {
-   "t": "CDU verliert die Wahl in Sachsen-Anhalt: Zeitenwende für die CDU",
-   "s": "Die CDU mit Spitzenkandidat Sven Schulze fährt ihr historisch schlechtestes Ergebnis in Sachsen-Anhalt ein. Was heißt das für die Christdemokraten?",
-   "u": "https://taz.de/CDU-verliert-die-Wahl-in-Sachsen-Anhalt/!6209764/",
-   "q": "taz",
-   "d": "2026-09-06T21:32:00+00:00"
-  },
-  {
-   "t": "Linke Spitzenkandidatin Eva von Angern: Niederlage für die „Streberin“",
-   "s": "Mit Eva von Angern ist die Linke in Sachsen-Anhalt bei nur rund 9 Prozent gelandet. Trotzdem könnte sie Königsmacherin werden.",
-   "u": "https://taz.de/Linke-Spitzenkandidatin-Eva-von-Angern/!6209765/",
-   "q": "taz",
-   "d": "2026-09-06T18:00:00+00:00"
-  },
-  {
-   "t": "Landtagswahl in Sachsen-Anhalt: Taktisch wählen wirkt – aber reicht es auch?",
-   "s": "Grüne und SPD haben bei der Landtagswahl in Sachsen-Anhalt deutlich besser abgeschnitten als erwartet. Allerdings auf Kosten der CDU.",
-   "u": "https://taz.de/Landtagswahl-in-Sachsen-Anhalt/!6209767/",
-   "q": "taz",
-   "d": "2026-09-06T17:47:00+00:00"
-  },
-  {
-   "t": "Nach Austritten aus dem BSW: Neue Partei in Thüringen gegründet",
-   "s": "Das BSW in Thüringen zerfällt – nur noch zwei von ehemals 15 Landtagsabgeordneten gehören ihm an. Jetzt gründen Ehemalige eine neue Partei.",
-   "u": "https://taz.de/Nach-Austritten-aus-dem-BSW/!6210740/",
-   "q": "taz",
-   "d": "2026-09-06T17:32:00+00:00"
-  },
-  {
-   "t": "Anschlagsserie auf das Stromnetz: Ein unbelehrbarer Ideologe",
-   "s": "Innenminister Dobrindt (CSU) nutzt die Sabotageakte dazu, den „Linksgrünversifften“ einen Schlag zu versetzen. Das hat das Klima nicht verdient.",
-   "u": "https://taz.de/Anschlagsserie-auf-das-Stromnetz/!6210608/",
-   "q": "taz",
-   "d": "2026-09-06T17:18:00+00:00"
   }
  ]
 }
