@@ -1,7 +1,70 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-08T13:39:05+00:00",
+ "updated": "2026-09-08T18:41:39+00:00",
  "items": [
+  {
+   "t": "Neue Pisa-Studie: Wer diesen Text lesen kann, ist klar im Vorteil",
+   "s": "Deutschlands Jugendliche lesen immer schlechter. Das gefährdet ihre Urteilskraft. Die Erwachsenen müssen endlich ihre Verantwortung ernst nehmen.",
+   "u": "https://taz.de/Neue-Pisa-Studie/!6206664/",
+   "q": "taz",
+   "d": "2026-09-08T17:53:00+00:00"
+  },
+  {
+   "t": "Reaktionen aus der Zivilgesellschaft: „Wir müssen jetzt zusammenbleiben“",
+   "s": "Schock, Trost, Widerstand: Nach dem AfD-Wahlsieg fühlen sich Menschen in Sachsen-Anhalt verängstigt oder bedroht – und antworten mit noch mehr Gemeinschaft.",
+   "u": "https://taz.de/Reaktionen-aus-der-Zivilgesellschaft/!6211417/",
+   "q": "taz",
+   "d": "2026-09-08T17:52:00+00:00"
+  },
+  {
+   "t": "AfD plant Regierungsübernahme: Die „Volksverräter“ von der CDU sollen die Steigbügel halten",
+   "s": "Die AfD sucht händeringend nach Überläufern aus der Union. Lockerungsübungen gibt es plötzlich auch gegenüber dem BSW.",
+   "u": "https://taz.de/AfD-plant-Regierungsuebernahme/!6211393/",
+   "q": "taz",
+   "d": "2026-09-08T16:38:00+00:00"
+  },
+  {
+   "t": "Regierung für Sachsen-Anhalt: Wenn Absurdes möglich wird",
+   "s": "Im Landtag finden sich die Fraktionen zusammen. Wer regieren wird, ist unklar. Ministerpräsident Schulze wird als Fraktionschef der CDU gewählt.",
+   "u": "https://taz.de/Regierung-fuer-Sachsen-Anhalt/!6211391/",
+   "q": "taz",
+   "d": "2026-09-08T16:18:00+00:00"
+  },
+  {
+   "t": "AfD liebäugelt mit Neuwahlen: Die Uhr in Sachsen-Anhalt tickt noch nicht",
+   "s": "Die AfD hat die absolute Mehrheit verfehlt und niemand will mit ihr koalieren. Sie könnte auf Neuwahlen setzen. Bis dahin könnte es aber dauern.",
+   "u": "https://taz.de/AfD-liebaeugelt-mit-Neuwahlen/!6211354/",
+   "q": "taz",
+   "d": "2026-09-08T15:46:00+00:00"
+  },
+  {
+   "t": "Nach AfD-Sieg in Sachsen-Anhalt: Bedrohte NS-Erinnerungsorte",
+   "s": "Würde die AfD in Sachsen-Anhalt regieren, könnte sie die Kulturpolitik neu bestimmen – und NS-Erinnerungsorten die Finanzierung kürzen.",
+   "u": "https://taz.de/Nach-AfD-Sieg-in-Sachsen-Anhalt/!6211317/",
+   "q": "taz",
+   "d": "2026-09-08T15:23:00+00:00"
+  },
+  {
+   "t": "Halle nach der Landtagswahl: Schüsse auf Anti-AfD-Protest",
+   "s": "Am Hallenser August-Bebel-Platz gab es bereits mehrfach unaufgeklärte Schüsse mit Luftdruckwaffen – nun wurde dort erneut ein Demonstrant getroffen.",
+   "u": "https://taz.de/Halle-nach-der-Landtagswahl/!6211347/",
+   "q": "taz",
+   "d": "2026-09-08T15:05:00+00:00"
+  },
+  {
+   "t": "Reaktionen auf Sachsen-Anhalt-Wahl in MV: Radeln für die Zivilgesellschaft",
+   "s": "Zahlreiche Initiativen in Mecklenburg-Vorpommern machen mobil. Der rechtsextreme Triumph von Magdeburg soll sich bei der Wahl nicht wiederholen.",
+   "u": "https://taz.de/Reaktionen-auf-Sachsen-Anhalt-Wahl-in-MV/!6211434/",
+   "q": "taz",
+   "d": "2026-09-08T14:44:00+00:00"
+  },
+  {
+   "t": "Attacken auf Kraftwerke: Mutmaßlicher Strom-Terrorist Daniel V. gefasst",
+   "s": "Die Polizei hat den 48-Jährigen verhaftet, der für eine Kette von Anschlägen auf Kraftwerke verantwortlich sein soll. Viele Fragen sind noch offen.",
+   "u": "https://taz.de/Attacken-auf-Kraftwerke/!6211474/",
+   "q": "taz",
+   "d": "2026-09-08T14:14:00+00:00"
+  },
   {
    "t": "Nach der Landtagswahl in Sachsen-Anhalt: Der Linkenfresser aus dem Bundestag",
    "s": "Sepp Müller ist Co-Chef der Unionsfraktion im Bundestag. Jetzt will er neuer CDU-Landesvorsitzender in Sachsen-Anhalt werden.",
@@ -106,69 +169,6 @@
    "u": "https://taz.de/SPD-nach-Wahl-in-Sachsen-Anhalt/!6210819/",
    "q": "taz",
    "d": "2026-09-07T15:33:00+00:00"
-  },
-  {
-   "t": "AfD nach Wahlerfolg Sachsen-Anhalt: Wahlsieger, extrem rechts, sucht Partner",
-   "s": "Die AfD bringt sich in Stellung für eine Regierungsübernahme. Sie ist auf Überläufer oder Zusammenarbeit mit BSW oder CDU angewiesen.",
-   "u": "https://taz.de/AfD-nach-Wahlerfolg-Sachsen-Anhalt/!6210800/",
-   "q": "taz",
-   "d": "2026-09-07T15:25:00+00:00"
-  },
-  {
-   "t": "CDU nach Wahl in Sachsen-Anhalt: „Aufgeben ist keine Option“",
-   "s": "Nach der desaströsen Wahlniederlage in Sachsen-Anhalt steht Bundeskanzler Merz in der Kritik. Der will nicht weichen – aber mehr auf Emotionen setzen.",
-   "u": "https://taz.de/CDU-nach-Wahl-in-Sachsen-Anhalt/!6210805/",
-   "q": "taz",
-   "d": "2026-09-07T15:24:00+00:00"
-  },
-  {
-   "t": "Angriffe auf deutsches Stromnetz: Noch mehr Raketen – aber weiter keine Spur von Daniel V.",
-   "s": "In Sachsen haben die Behörden weitere Sprengkörper nahe einem Umspannwerk gefunden. Der mutmaßliche Täter ist weiter flüchtig.",
-   "u": "https://taz.de/Angriffe-auf-deutsches-Stromnetz/!6210878/",
-   "q": "taz",
-   "d": "2026-09-07T14:47:00+00:00"
-  },
-  {
-   "t": "BSW-Erfolg in Sachsen-Anhalt: Zum Steigbügelhalten bereit",
-   "s": "Das Bündnis Sahra Wagenknecht steht bereit, um einen AfD-Ministerpräsidenten ins Amt zu hieven. Spitzenkandidat Ulrich Siegmund lässt offen, ob er das will.",
-   "u": "https://taz.de/BSW-Erfolg-in-Sachsen-Anhalt/!6210772/",
-   "q": "taz",
-   "d": "2026-09-07T13:54:00+00:00"
-  },
-  {
-   "t": "Extremismusexperte über Sachsen-Anhalt: „Die Zivilgesellschaft braucht Unterstützung von außen“",
-   "s": "Es muss jetzt darauf ankommen, demokratische Kerne der Zivilgesellschaft zu erhalten, sagt der Theologe David Begrich – und da helfe: Aufmerksamkeit.",
-   "u": "https://taz.de/Extremismusexperte-ueber-Sachsen-Anhalt/!6210779/",
-   "q": "taz",
-   "d": "2026-09-07T13:43:00+00:00"
-  },
-  {
-   "t": "CDU nach Wahl in Sachsen-Anhalt: „Der Regierungsauftrag liegt jetzt bei der AfD“",
-   "s": "Bundeskanzler Merz räumt ein, dass sein Regierungskurs schlecht für die Wahl war, will aber daran festhalten. Spitzenkandidat Schulze zieht erste Konsequenzen.",
-   "u": "https://taz.de/CDU-nach-Wahl-in-Sachsen-Anhalt/!6210912/",
-   "q": "taz",
-   "d": "2026-09-07T12:51:00+00:00"
-  },
-  {
-   "t": "BSW nach Landtagswahl in Sachsen-Anhalt: Wagenknecht-Partei im Liebestaumel mit Rechtsextremen",
-   "s": "Dem BSW gelingt der Einzug in den Landtag. Die Wagenknecht-Partei würde der AfD ins Amt verhelfen, sonst aber nicht wirklich mitmachen.",
-   "u": "https://taz.de/BSW-nach-Landtagswahl-in-Sachsen-Anhalt/!6210763/",
-   "q": "taz",
-   "d": "2026-09-07T10:39:00+00:00"
-  },
-  {
-   "t": "Wahlausgang in Sachsen-Anhalt: AfD verbieten oder verlieren",
-   "s": "Sachsen-Anhalt zeigt, dass man Demokratiefeinden mit Debatten nicht beikommt. Nur ein Verbot der Partei könnte die offene Gesellschaft retten.",
-   "u": "https://taz.de/Wahlausgang-in-Sachsen-Anhalt/!6210774/",
-   "q": "taz",
-   "d": "2026-09-07T10:05:00+00:00"
-  },
-  {
-   "t": "Lehren aus der Wahl in Sachsen-Anhalt: Gut gelaunter Rechtsextremismus",
-   "s": "Die AfD kann in Sachsen-Anhalt wohl regieren – und die Parteien der Mitte halten sich erstmal die Ohren zu. Sechs Lehren aus der Landtagswahl.",
-   "u": "https://taz.de/Lehren-aus-der-Wahl-in-Sachsen-Anhalt/!6210759/",
-   "q": "taz",
-   "d": "2026-09-07T05:11:00+00:00"
   }
  ]
 }

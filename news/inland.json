@@ -1,20 +1,153 @@
 {
  "name": "Inland",
- "updated": "2026-09-08T13:39:01+00:00",
+ "updated": "2026-09-08T18:41:37+00:00",
  "items": [
+  {
+   "t": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
+   "s": "SPD-Chef Klingbeil kündigt in den tagesthemen an, Politik besser erklären zu wollen. Der geschäftsführende Ministerpräsident von Sachsen-Anhalt, Schulze, ist als neuer Chef der CDU-Landtagsfraktion gewählt worden.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T18:02:07+00:00"
+  },
+  {
+   "t": "Neue Pisa-Studie: Wer diesen Text lesen kann, ist klar im Vorteil",
+   "s": "Deutschlands Jugendliche lesen immer schlechter. Das gefährdet ihre Urteilskraft. Die Erwachsenen müssen endlich ihre Verantwortung ernst nehmen.",
+   "u": "https://taz.de/Neue-Pisa-Studie/!6206664/",
+   "q": "taz",
+   "d": "2026-09-08T17:53:00+00:00"
+  },
+  {
+   "t": "Reaktionen aus der Zivilgesellschaft: „Wir müssen jetzt zusammenbleiben“",
+   "s": "Schock, Trost, Widerstand: Nach dem AfD-Wahlsieg fühlen sich Menschen in Sachsen-Anhalt verängstigt oder bedroht – und antworten mit noch mehr Gemeinschaft.",
+   "u": "https://taz.de/Reaktionen-aus-der-Zivilgesellschaft/!6211417/",
+   "q": "taz",
+   "d": "2026-09-08T17:52:00+00:00"
+  },
+  {
+   "t": "Polizei nimmt mutmaßlichen Strom-Saboteur fest",
+   "s": "Die Polizei hat in der Nähe eines Kraftwerks bei Aachen den mutmaßlichen Strom-Saboteur gefasst. Der 48-Jährige soll bundesweit Anschläge auf das Stromnetz verübt haben. Die Bundesregierung spricht von \"Klimaextremismus\".",
+   "u": "https://www.tagesschau.de/inland/festnahme-strom-saboteur-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T16:58:03+00:00"
+  },
+  {
+   "t": "Sachsen-Anhalt: Viele AfD-Maßnahmen zur Migration wären rechtlich unzulässig",
+   "s": "Eine \"migrationspolitische Kehrtwende\" und eine Vielzahl von Einzelmaßnahmen kündigt die AfD in Sachsen-Anhalt in ihrem Regierungsprogramm an. Doch zwei Drittel davon wären rechtlich überhaupt nicht umsetzbar. Von Max Bauer.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-migration-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T16:44:06+00:00"
+  },
+  {
+   "t": "AfD plant Regierungsübernahme: Die „Volksverräter“ von der CDU sollen die Steigbügel halten",
+   "s": "Die AfD sucht händeringend nach Überläufern aus der Union. Lockerungsübungen gibt es plötzlich auch gegenüber dem BSW.",
+   "u": "https://taz.de/AfD-plant-Regierungsuebernahme/!6211393/",
+   "q": "taz",
+   "d": "2026-09-08T16:38:00+00:00"
+  },
+  {
+   "t": "Regierung für Sachsen-Anhalt: Wenn Absurdes möglich wird",
+   "s": "Im Landtag finden sich die Fraktionen zusammen. Wer regieren wird, ist unklar. Ministerpräsident Schulze wird als Fraktionschef der CDU gewählt.",
+   "u": "https://taz.de/Regierung-fuer-Sachsen-Anhalt/!6211391/",
+   "q": "taz",
+   "d": "2026-09-08T16:18:00+00:00"
+  },
+  {
+   "t": "AfD liebäugelt mit Neuwahlen: Die Uhr in Sachsen-Anhalt tickt noch nicht",
+   "s": "Die AfD hat die absolute Mehrheit verfehlt und niemand will mit ihr koalieren. Sie könnte auf Neuwahlen setzen. Bis dahin könnte es aber dauern.",
+   "u": "https://taz.de/AfD-liebaeugelt-mit-Neuwahlen/!6211354/",
+   "q": "taz",
+   "d": "2026-09-08T15:46:00+00:00"
+  },
+  {
+   "t": "EU-Verteidigungsgremium ist gescheitert: Kallas bewusst geschwächt",
+   "s": "EU‑Außenbeauftragte Kaja Kallas wollte ein neues Verteidigungsgremium installieren – und ist gescheitert. Kritik kam vor allem aus Deutschland und Italien.",
+   "u": "https://taz.de/EU-Verteidigungsgremium-ist-gescheitert/!6211380/",
+   "q": "taz",
+   "d": "2026-09-08T15:32:00+00:00"
+  },
+  {
+   "t": "PISA-Ergebnisse entfachen neue Bildungsdebatte",
+   "s": "Die Ergebnisse der aktuellen PISA-Studie lassen sich nicht schönreden: Bildungsexperten, Politiker und gesellschaftliche Akteure zeigen sich deshalb einhellig alarmiert und fordern politische Konsequenzen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/pisa-reaktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T15:24:49+00:00"
+  },
+  {
+   "t": "Nach AfD-Sieg in Sachsen-Anhalt: Bedrohte NS-Erinnerungsorte",
+   "s": "Würde die AfD in Sachsen-Anhalt regieren, könnte sie die Kulturpolitik neu bestimmen – und NS-Erinnerungsorten die Finanzierung kürzen.",
+   "u": "https://taz.de/Nach-AfD-Sieg-in-Sachsen-Anhalt/!6211317/",
+   "q": "taz",
+   "d": "2026-09-08T15:23:00+00:00"
+  },
+  {
+   "t": "Halle nach der Landtagswahl: Schüsse auf Anti-AfD-Protest",
+   "s": "Am Hallenser August-Bebel-Platz gab es bereits mehrfach unaufgeklärte Schüsse mit Luftdruckwaffen – nun wurde dort erneut ein Demonstrant getroffen.",
+   "u": "https://taz.de/Halle-nach-der-Landtagswahl/!6211347/",
+   "q": "taz",
+   "d": "2026-09-08T15:05:00+00:00"
+  },
+  {
+   "t": "Sachsen-Anhalt - Grundgesetz als Notbremse?",
+   "s": "Ministerpräsidentenwahl, Bundeszwang, Parteiverbotsverfahren: Nach dem AfD-Erfolg in Sachsen-Anhalt stellen sich – neben politischen – auch viele juristische Fragen. Sicher ist: Vieles ist verfassungsrechtliches Neuland. Und: PISA-Schock 2.0?Schulz, Sandra",
+   "u": "https://www.deutschlandfunk.de/afd-grundgesetz-pisa-bildung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-08T15:00:00+00:00"
+  },
+  {
+   "t": "KI-Rechenzentren in den USA - Ressourcenverbrauch ohne Ende",
+   "s": "Die US-amerikanische KI-Industrie benötigt immer mehr Rechenzentren, um Daten zu verarbeiten. Doch der Bau dieser milliardenschweren Großprojekte könnte bald vorbei sein, denn die Bevölkerung wehrt sich.",
+   "u": "https://www.deutschlandfunk.de/ki-rechenzentren-usa-stromverbrauch-widerstand-trump-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-08T14:58:00+00:00"
+  },
+  {
+   "t": "Reaktionen auf Sachsen-Anhalt-Wahl in MV: Radeln für die Zivilgesellschaft",
+   "s": "Zahlreiche Initiativen in Mecklenburg-Vorpommern machen mobil. Der rechtsextreme Triumph von Magdeburg soll sich bei der Wahl nicht wiederholen.",
+   "u": "https://taz.de/Reaktionen-auf-Sachsen-Anhalt-Wahl-in-MV/!6211434/",
+   "q": "taz",
+   "d": "2026-09-08T14:44:00+00:00"
+  },
+  {
+   "t": "NRW-Ministerpräsident Wüst für AfD-Prüfung durch Bund-Länder-Gruppe",
+   "s": "Wie geht man mit einer Partei um, deren Landesverband als rechtsextrem eingestuft wird und eine Wahl gewonnen hat? CDU-Ministerpräsident Wüst schlägt eine Bund-Länder-Arbeitsgruppe vor. Unterstützung kommt von den Grünen, die CSU ist skeptisch.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-verfassungsrecht-wuest-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T14:18:52+00:00"
+  },
+  {
+   "t": "Attacken auf Kraftwerke: Mutmaßlicher Strom-Terrorist Daniel V. gefasst",
+   "s": "Die Polizei hat den 48-Jährigen verhaftet, der für eine Kette von Anschlägen auf Kraftwerke verantwortlich sein soll. Viele Fragen sind noch offen.",
+   "u": "https://taz.de/Attacken-auf-Kraftwerke/!6211474/",
+   "q": "taz",
+   "d": "2026-09-08T14:14:00+00:00"
+  },
+  {
+   "t": "Vorwürfe gegen israelischen Premier: Netanjahu ignorierte Warnungen vor dem 7. Oktober",
+   "s": "Mitten im Wahlkampf zeigt eine Recherche der Zeitung „Ha’aretz“: Netanjahu wurde auf höchster Ebene vor einem Hamas-Angriff gewarnt – und blieb untätig.",
+   "u": "https://taz.de/Vorwuerfe-gegen-israelischen-Premier/!6211404/",
+   "q": "taz",
+   "d": "2026-09-08T14:10:00+00:00"
+  },
+  {
+   "t": "Streit um EU-Verteidigungsgremium: Persönliche Eitelkeiten und knallharte Politik",
+   "s": "Die EU-Außenbeauftragte Kallas scheitert mit ihrem Vorhaben, ein Verteidigungsgremium zu gründen – auch dank Berlin. Es geht um Macht und Kompetenzen.",
+   "u": "https://taz.de/Streit-um-EU-Verteidigungsgremium/!6211406/",
+   "q": "taz",
+   "d": "2026-09-08T13:55:00+00:00"
+  },
+  {
+   "t": "Nach den Wahlen in Sambia: Erst in Haft und dann staatenlos",
+   "s": "Nach der umstrittenen Wiederwahl von Präsident Hakainde Hichilema geht Sambia mit harter Hand gegen die Opposition vor.",
+   "u": "https://taz.de/Nach-den-Wahlen-in-Sambia/!6211397/",
+   "q": "taz",
+   "d": "2026-09-08T13:42:00+00:00"
+  },
   {
    "t": "Klingbeil verteidigt Neuverschuldung in Etatdebatte",
    "s": "Es ist der größte Haushalt, über den der Bundestag je debattiert hat: 555 Milliarden Euro sind für 2027 veranschlagt, die Neuverschuldung steigt auf über 200 Milliarden Euro. Die Opposition sparte nicht mit Kritik. Von Maximilian Ulrich.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-140.html",
    "q": "Tagesschau",
    "d": "2026-09-08T13:26:40+00:00"
-  },
-  {
-   "t": "Liveblog zu Sachsen-Anhalt: ++ BSW will auch mit AfD Gespräche führen ++",
-   "s": "Für das BSW in Sachsen-Anhalt gibt es laut Fraktionschef Schulze \"keine Brandmauer\" - es will auch mit der AfD über eine mögliche Zusammenarbeit sprechen. Die AfD hatte angekündigt, alle Parteien des neuen Landtages zu Gesprächen einzuladen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T13:26:02+00:00"
   },
   {
    "t": "Islamismus 25 Jahre nach 9/11 - Radikalisierung im Netz statt in Moscheen",
@@ -25,7 +158,7 @@
   },
   {
    "t": "Korruptionsverdacht: Cousin von Präsident Ferdinand Marcos in Haft",
-   "s": "In den Philippinen geht der Machtkampf der Familienclans Marcos und Durterte vor dem Hintergrund massiver Korruptionsvorwürfe in eine neue Runde.",
+   "s": "In den Philippinen geht der Machtkampf der Familienclans Marcos und Duterte vor dem Hintergrund massiver Korruptionsvorwürfe in eine neue Runde.",
    "u": "https://taz.de/Korruptionsverdacht/!6211333/",
    "q": "taz",
    "d": "2026-09-08T13:09:00+00:00"
@@ -36,139 +169,6 @@
    "u": "https://taz.de/Nach-der-Landtagswahl-in-Sachsen-Anhalt/!6211390/",
    "q": "taz",
    "d": "2026-09-08T12:52:00+00:00"
-  },
-  {
-   "t": "Nach der Wahl in Sachsen-Anhalt: Grüne gehen auf Wagenknecht-Partei zu",
-   "s": "Die Grünen öffnen sich für den BSW-Vorschlag eines unabhängigen Ministerpräsidenten. Das sagte Spitzenkandidatin Susan Sziborra-Seidlitz der taz.",
-   "u": "https://taz.de/Nach-der-Wahl-in-Sachsen-Anhalt/!6211464/",
-   "q": "taz",
-   "d": "2026-09-08T12:35:00+00:00"
-  },
-  {
-   "t": "Strafverfahren gegen Sänger Xavier Naidoo",
-   "s": "Das Landgericht Mannheim hat eine Anklage der Staatsanwaltschaft gegen Xavier Naidoo zugelassen. Darin geht es um den Verdacht der Volksverhetzung in einem Fall in Tateinheit mit Beleidigung.",
-   "u": "https://www.tagesschau.de/inland/strafverfahren-saenger-xavier-naidoo-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T12:13:00+00:00"
-  },
-  {
-   "t": "Besetztes Westjordanland: Die Siedlungen kommen, die Sanktionen aber auch",
-   "s": "Ein israelisches Gericht weist einen Eilantrag gegen das Siedlungsprojekt E1 zurück. Großbritannien will neue Sanktionen gegen Produkte aus Siedlungen verhängen.",
-   "u": "https://taz.de/Besetztes-Westjordanland/!6211485/",
-   "q": "taz",
-   "d": "2026-09-08T12:12:00+00:00"
-  },
-  {
-   "t": "Polizei nimmt mutmaßlichen Strom-Saboteur fest",
-   "s": "Die Polizei hat in der Nähe eines Kraftwerks bei Aachen den mutmaßlichen Strom-Saboteur gefasst. Der 48-Jährige soll bundesweit Anschläge auf das Stromnetz verübt haben. Die Bundesregierung spricht von \"Klimaextremismus\".",
-   "u": "https://www.tagesschau.de/inland/festnahme-strom-saboteur-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T11:20:43+00:00"
-  },
-  {
-   "t": "Neue Debatte über AfD-Verbot: Wüst will AfD-Verbot prüfen lassen",
-   "s": "Der NRW-Ministerpräsident fordert eine Arbeitsgruppe zum AfD-Verbot. Der Publizist Michel Friedman fordert das Verbot, gerade weil die AfD jetzt so stark ist.",
-   "u": "https://taz.de/Neue-Debatte-ueber-AfD-Verbot/!6211379/",
-   "q": "taz",
-   "d": "2026-09-08T10:48:00+00:00"
-  },
-  {
-   "t": "Landtagswahl Sachsen-Anhalt: BSW sieht wenig Gemeinsamkeiten mit der AfD",
-   "s": "Wird das Bündnis Sahra Wagenknecht der AfD in Sachsen-Anhalt zur Mehrheit im Landtag verhelfen? Bisher plädiert das BSW weiter für einen \"überparteilichen Ministerpräsidenten\" - und geht inhaltlich auf Distanz zur AfD.",
-   "u": "https://www.tagesschau.de/inland/sachsen-anhalt-bsw-regierungsbildung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T09:37:08+00:00"
-  },
-  {
-   "t": "Kommentar zum AfD-Wahlerfolg - Trumpsche Verhältnisse in Magdeburg",
-   "s": "Der Sieg der AfD in Sachsen-Anhalt wirft die gewohnten politischen Verhältnisse über den Haufen. Allen, die es nicht mit der Partei halten, könnten schwere Jahre bevorstehen.Ein Kommentar von Niklas Ottersbach",
-   "u": "https://www.deutschlandfunk.de/sachsen-anhalt-wahl-zaesur-afd-sieg-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-08T09:19:00+00:00"
-  },
-  {
-   "t": "Bundesweite Proteste gegen die AfD: Sich umarmen gegen den Faschismus",
-   "s": "Nach dem Wahlsieg der Rechtsextremen in Sachsen-Anhalt ruft Campact erneut zu Demos gegen rechts auf. Der Auftakt in Berlin war eher Selbstbeweihräucherung.",
-   "u": "https://taz.de/Bundesweite-Proteste-gegen-die-AfD/!6211307/",
-   "q": "taz",
-   "d": "2026-09-08T09:07:00+00:00"
-  },
-  {
-   "t": "Nach der Wahl in Sachsen-Anhalt: Die Rechtsextremen haben gewonnen – und jetzt?",
-   "s": "Eine blaue Welle hat Sachsen-Anhalt überrollt, die Demokraten sind ratlos. Was bedeutet das für die Demokratie, und wie weiter mit der Brandmauer?",
-   "u": "https://taz.de/Nach-der-Wahl-in-Sachsen-Anhalt/!6211338/",
-   "q": "taz",
-   "d": "2026-09-08T08:41:00+00:00"
-  },
-  {
-   "t": "Neue Pisa-Studie veröffentlicht: Tiktok ist schlecht für die Kondition",
-   "s": "Die Lesekompetenz erreicht neue Tiefstwerte und das Schulsystem ist weiterhin sehr ungerecht. Deutschland bleibt bei Pisa schlechter Durchschnitt.",
-   "u": "https://taz.de/Neue-Pisa-Studie-veroeffentlicht/!6207598/",
-   "q": "taz",
-   "d": "2026-09-08T08:36:00+00:00"
-  },
-  {
-   "t": "Angriff auf Protest gegen AfD: Polizei ermittelt nach Schuss auf Antifademo in Halle",
-   "s": "Bei einem Protestzug gegen den AfD-Wahlsieg in Sachsen-Anhalt wurde ein Mensch durch den Schuss aus einem Luftdruckgewehr verletzt. Der Täter ist unbekannt.",
-   "u": "https://taz.de/Angriff-auf-Protest-gegen-AfD/!6211337/",
-   "q": "taz",
-   "d": "2026-09-08T08:24:00+00:00"
-  },
-  {
-   "t": "Wahrzeichen von Paris: Streik am Eiffelturm nach Ausschluss von Mitarbeiterinnen",
-   "s": "Am Pariser Eiffelturm soll auf Bitten hinduistischer Besucher das weibliche Personal vorübergehend abgezogen worden sein. Dagegen gibt es nun Protest.",
-   "u": "https://taz.de/Wahrzeichen-von-Paris/!6211314/",
-   "q": "taz",
-   "d": "2026-09-08T07:38:00+00:00"
-  },
-  {
-   "t": "Deutsche Schüler schneiden bei der PISA-Studie schlecht ab",
-   "s": "Die neue PISA-Studie zeigt die schlechtesten Leistungen für Deutschland seit Beginn der Erhebung. Jeder dritte Jugendliche hat Probleme beim Rechnen und Lesen. Gerade die Lesefähigkeit macht aber auch in anderen Ländern Sorgen. Von Anna Küch.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/pisa-deutschland-schueler-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T07:30:15+00:00"
-  },
-  {
-   "t": "Trotz Kanzler-Kritik: Müller will neuer CDU-Chef in Sachsen-Anhalt werden",
-   "s": "Sepp Müller geht nach Merz-Kritik in die Offensive: Er will die CDU Sachsen-Anhalt neu aufstellen – und kandidiert für den Landesvorsitz.",
-   "u": "https://taz.de/Trotz-Kanzler-Kritik/!6211321/",
-   "q": "taz",
-   "d": "2026-09-08T07:26:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Russland nimmt Angriffe auf Kyjiw wieder auf",
-   "s": "Behörden melden zwei Todesopfer nach neuen russischen Angriffen. Der ukrainische Generalstaatsanwalt tritt zurück.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6211311/",
-   "q": "taz",
-   "d": "2026-09-08T06:45:00+00:00"
-  },
-  {
-   "t": "Berliner SPD-Spitzenkandidat: „Wahlergebnis ist ein Hilferuf“",
-   "s": "Nach Aussage von Steffen Krach, SPD-Spitzenkandidat in Berlin, verbinden mehr als 80 Prozent der Menschen die geplanten Reformen mit Kürzungen. Änderungen bei Rente und Mieten müssten nach dem Wahlergebnis in Sachsen-Anhalt gerechter gestaltet werden.May, Philipp",
-   "u": "https://www.deutschlandfunk.de/was-muss-jetzt-kommen-interview-mit-steffen-krach-spd-spitzenk-berlin-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-08T05:18:00+00:00"
-  },
-  {
-   "t": "Direktmandat für Linke in Magdeburg: „Wir haben es geschafft, einen roten Leuchtturm aufzubauen“",
-   "s": "Mustafa Groener hat für die Linke eins von drei Direktmandaten in Sachsen-Anhalt gewonnen. Er bezeichnet sie als „Schutzräume gegen die Faschisten“ der AfD.",
-   "u": "https://taz.de/Direktmandat-fuer-Linke-in-Magdeburg/!6210867/",
-   "q": "taz",
-   "d": "2026-09-08T05:05:00+00:00"
-  },
-  {
-   "t": "Abschiebepläne der AfD: Abschiebeflüge bleiben leer",
-   "s": "Die AfD will massenhaft abschieben. So leicht, wie sich die rechtsextreme Partei das vorstellt, ist das nicht. Aber das Narrativ wirkt.",
-   "u": "https://taz.de/Abschiebeplaene-der-AfD/!6210773/",
-   "q": "taz",
-   "d": "2026-09-08T05:04:00+00:00"
-  },
-  {
-   "t": "Wie viel Geld der Bund 2027 ausgeben will - und wofür",
-   "s": "Der Bundestag berät erstmals den Haushaltsentwurf für 2027. Geplant sind höhere Ausgaben und Schulden, besonders für Verteidigung. Um welche Summen geht es? Und woran gibt es Kritik?",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-ausgaben-schulden-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T04:47:50+00:00"
   }
  ]
 }

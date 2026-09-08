@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-09-08T13:39:04+00:00",
+ "updated": "2026-09-08T18:41:39+00:00",
  "items": [
+  {
+   "t": "Rauchen senkt laut WHO Chance auf Schwangerschaft deutlich",
+   "s": "Wer raucht, hat schlechtere Aussichten, Vater oder Mutter zu werden. Bei Männern kann die Spermienqualität sinken, bei Frauen steigt das Risiko von Unfruchtbarkeit. Die WHO warnt auch vor den Folgen des Passivrauchens.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/who-rauchen-schwangerschaft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T13:46:02+00:00"
+  },
   {
    "t": "Nord- und Ostsee waren im Sommer deutlich zu warm",
    "s": "In Europas Meeren wurden in diesem Sommer ungewöhnlich hohe Temperaturen gemessen. Auch in Nord- und Ostsee war es deutlich wärmer als sonst. Forscher warnen vor den Folgen für die Tierwelt und die Menschen.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1634390.html",
    "q": "Tagesschau",
    "d": "2026-08-20T08:33:18+00:00"
-  },
-  {
-   "t": "UV-Strahlung hat in Europa deutlich zugenommen",
-   "s": "Hautkrebs ist eine der häufigsten Krebserkrankung in Deutschland - Hauptursache ist die UV-Strahlung der Sonne. Und die hat deutschland- und europaweit in den vergangenen Jahren zugenommen, wie eine neue Studie zeigt. Von Florian Zinner.",
-   "u": "https://www.tagesschau.de/wissen/klima/uv-strahlung-europa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-19T15:04:19+00:00"
   }
  ]
 }

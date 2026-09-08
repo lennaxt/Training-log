@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-08T13:39:03+00:00",
+ "updated": "2026-09-08T18:41:38+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 08.09.2026",
+   "s": "Wirtschaft vor acht vom 08.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1645566.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T17:55:16+00:00"
+  },
+  {
+   "t": "Smart-City-Ranking: Warum Stuttgart Deutschlands digitalste Stadt ist",
+   "s": "Der Digitalverband Bitkom hat die Digitalisierung in 83 deutschen Großstädten unter die Lupe genommen. Stuttgart liegt nun auf Platz eins - und hat damit nach Jahren München und Hamburg von der Spitze verdrängt. Von Fabian Siegel.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/smart-city-ranking-bitkom-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T17:00:45+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX schafft eine Punktlandung",
+   "s": "Die Misere am Ölmarkt hält die Anleger weiter vom Aktienkauf ab. Immerhin konnte der DAX am Ende sein Niveau halten. Hervorragende Nachrichten gab es von der Elektrobranche.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T16:37:27+00:00"
+  },
+  {
+   "t": "KI-Rechenzentren in den USA - Ressourcenverbrauch ohne Ende",
+   "s": "Die US-amerikanische KI-Industrie benötigt immer mehr Rechenzentren, um Daten zu verarbeiten. Doch der Bau dieser milliardenschweren Großprojekte könnte bald vorbei sein, denn die Bevölkerung wehrt sich.",
+   "u": "https://www.deutschlandfunk.de/ki-rechenzentren-usa-stromverbrauch-widerstand-trump-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-08T14:58:00+00:00"
+  },
+  {
+   "t": "Wachsende Verschuldung: Dem Staat drohen gewaltige Zinskosten",
+   "s": "Nicht nur die Staatsschulden steigen, auch die Zinszahlungen klettern neuen Berechnungen zufolge in den kommenden Jahren deutlich nach oben. Das vermindert den Spielraum für den Haushalt. Von Till Bücker.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/staatsverschuldung-zinskosten-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T13:53:46+00:00"
+  },
   {
    "t": "Zugewanderte Pflegekräfte: Abschiebung trotz Personalmangels?",
    "s": "In Deutschland gibt es zu wenig Personal, um alte Menschen zu pflegen. Manche ausländischen Hilfskräfte sind in Einrichtungen fest eingeplant - und sollen Deutschland trotzdem wieder verlassen. Von Isabel Pogner.",
@@ -15,13 +50,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/pflegekraefte-lohndeckel-100.html",
    "q": "Tagesschau",
    "d": "2026-09-08T12:26:20+00:00"
-  },
-  {
-   "t": "Kräftiges Auftragsplus: Deutschlands Elektroindustrie brummt",
-   "s": "Fast 13 Prozent mehr Aufträge als im Vorjahr, die Stimmung so gut wie seit über drei Jahren nicht mehr: Die deutsche Elektroindustrie springt an. Der KI-Boom ist auch in Deutschland angekommen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-elektroindustrie-ifo-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T12:16:08+00:00"
   },
   {
    "t": "Anteil Erneuerbarer Energien an Stromerzeugung auf Rekordhoch",
@@ -66,6 +94,13 @@
    "d": "2026-09-07T12:29:56+00:00"
   },
   {
+   "t": "Vereinigte Staaten - Die US-Schulden sind ein Risiko für die Weltwirtschaft",
+   "s": "Die US-Staatsschulden wachsen. Und das schneller als geplant. Deswegen steigen die Zinsen und Anleger werden nervöser. Das ist nicht nur ein US-Problem, denn die Folgen können weit über die Vereinigten Staaten hinaus reichen.",
+   "u": "https://www.deutschlandfunk.de/usa-staatsschulden-folgen-weltwirtschaft-zinsen-europa-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T12:00:00+00:00"
+  },
+  {
    "t": "Zehntausende Fachkräfte im Verkauf könnten bald fehlen",
    "s": "Bis zum Jahr 2029 droht einer Studie zufolge ein gravierender Mangel an Verkäuferinnen und Verkäufern im deutschen Einzelhandel. Auch in anderen Berufen könnte der Fachkräftemangel stark zunehmen.",
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/fachverkauefermangel-iw-100.html",
@@ -101,13 +136,6 @@
    "d": "2026-09-05T02:59:52+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 04.09.2026",
-   "s": "Wirtschaft vor acht vom 04.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1642954.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T18:27:24+00:00"
-  },
-  {
    "t": "Sabotage an Strom und Schienen - Wie resilient ist Deutschlands kritische Infrastruktur?",
    "s": "Drohnen, Brandanschläge, gekappte Kabel: Deutschlands kritische Infrastruktur steht unter Druck. Wie steht es nach jüngsten Angriffen um den Schutz von Energie- und Verkehrsnetzen? Und was leistet das neue KRITIS-Dachgesetz wirklich?",
    "u": "https://www.deutschlandfunk.de/energieversorgung-verkehrsnetze-anschlaege-kritische-infrastruktur-kritis-dachgesetz-100.html",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/kba-zulassungen-e-autos-trend-100.html",
    "q": "Tagesschau",
    "d": "2026-09-03T11:43:20+00:00"
-  },
-  {
-   "t": "LNG aus den USA: Droht die nächste Abhängigkeit beim Gas?",
-   "s": "Die deutschen Gasspeicher sind so leer wie nie um diese Zeit. Auch darum werden LNG-Lieferungen immer wichtiger. Doch das Flüssiggas kommt vor allem aus den USA. Ist das ein Risiko? Von L.-M. Hiltscher.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/gas-versorgung-lng-usa-pipelines-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T11:06:08+00:00"
-  },
-  {
-   "t": "Preisrekord für Super E10 infolge des Iran-Kriegs",
-   "s": "Es ist ein neuer Schock an den Zapfsäulen: Benzin ist wegen der neuen Kämpfe so teuer wie noch nie. Doch es lohnt ein genauer Blick. Denn wird die Inflation berücksichtigt, waren die Spritpreise schon mal höher.",
-   "u": "https://www.tagesschau.de/wirtschaft/benzinpreis-rekord-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T08:49:41+00:00"
-  },
-  {
-   "t": "Kommentar zu Krankschreibungen - Die Politik sollte die Idee schnell beerdigen",
-   "s": "Bundesarbeitsministerin Bas sollte einen Weg finden, um diese unsinnige Verständigung der Koalition auf ein Attest gleich am ersten Krankheitstag zu stoppen. Diese geplante Attestpflicht ist praxisfern und wird keine Fehlzeit weniger bringen.Von Birgid Becker",
-   "u": "https://www.deutschlandfunk.de/kommentar-zu-krankschreibungen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-31T14:38:00+00:00"
-  },
-  {
-   "t": "Smartes Kinderspielzeug - Wer kontrolliert den KI-Teddy?",
-   "s": "Kuscheltiere und Puppen lernen dank generativer KI sprechen. Doch erste Tests zeigen: Was Kindern Spaß macht, kann sie auch verstören und manipulieren.",
-   "u": "https://www.deutschlandfunk.de/spielzeug-ki-kinder-gefahren-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-30T14:16:00+00:00"
   }
  ]
 }
