@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-07T23:30:41+00:00",
+ "updated": "2026-09-08T08:06:17+00:00",
  "items": [
+  {
+   "t": "Trotz Kanzler-Kritik: Müller will neuer CDU-Chef in Sachsen-Anhalt werden",
+   "s": "Sepp Müller geht nach Merz-Kritik in die Offensive: Er will die CDU Sachsen-Anhalt neu aufstellen – und kandidiert für den Landesvorsitz.",
+   "u": "https://taz.de/Trotz-Kanzler-Kritik/!6211321/",
+   "q": "taz",
+   "d": "2026-09-08T07:26:00+00:00"
+  },
+  {
+   "t": "Direktmandat für Linke in Magdeburg: „Wir haben es geschafft, einen roten Leuchtturm aufzubauen“",
+   "s": "Mustafa Groener hat für die Linke eins von drei Direktmandaten in Sachsen-Anhalt gewonnen. Er bezeichnet sie als „Schutzräume gegen die Faschisten“ der AfD.",
+   "u": "https://taz.de/Direktmandat-fuer-Linke-in-Magdeburg/!6210867/",
+   "q": "taz",
+   "d": "2026-09-08T05:05:00+00:00"
+  },
+  {
+   "t": "Abschiebepläne der AfD: Abschiebeflüge bleiben leer",
+   "s": "Die AfD will massenhaft abschieben. So leicht, wie sich die rechtsextreme Partei das vorstellt, ist das nicht. Aber das Narrativ wirkt.",
+   "u": "https://taz.de/Abschiebeplaene-der-AfD/!6210773/",
+   "q": "taz",
+   "d": "2026-09-08T05:04:00+00:00"
+  },
   {
    "t": "Grüne und Linke gewinnen in Halle: Gewonnen und doch verloren",
    "s": "In Halle gingen zwei Wahlkreise an Kandidaten der Linken. Warum die Freude am Tag nach dem AfD-Erfolg trotzdem getrübt ist.",
@@ -122,13 +143,6 @@
    "d": "2026-09-06T21:32:00+00:00"
   },
   {
-   "t": "AfD Sachsen-Anhalt nach Wahlergebnis: Nah am totalen Sieg",
-   "s": "Die AfD erzielt in Sachsen-Anhalt das stärkste Ergebnis einer rechtsextremen Partei seit 1945. Könnte sie nun auch an die Macht gelangen?",
-   "u": "https://taz.de/AfD-Sachsen-Anhalt-nach-Wahlergebnis/!6209766/",
-   "q": "taz",
-   "d": "2026-09-06T18:51:00+00:00"
-  },
-  {
    "t": "Linke Spitzenkandidatin Eva von Angern: Niederlage für die „Streberin“",
    "s": "Mit Eva von Angern ist die Linke in Sachsen-Anhalt bei nur rund 9 Prozent gelandet. Trotzdem könnte sie Königsmacherin werden.",
    "u": "https://taz.de/Linke-Spitzenkandidatin-Eva-von-Angern/!6209765/",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Anschlagsserie-auf-das-Stromnetz/!6210608/",
    "q": "taz",
    "d": "2026-09-06T17:18:00+00:00"
-  },
-  {
-   "t": "Landtagswahlen in Sachsen-Anhalt: Eimerweise rosa Briefe",
-   "s": "Vor der Wahl schürt die AfD Zweifel an der Briefwahl und warnt vor möglichem Betrug. In Magdeburg treffen Wahlhelfer auf rechte Wahlbeobachter.",
-   "u": "https://taz.de/Landtagswahlen-in-Sachsen-Anhalt/!6209768/",
-   "q": "taz",
-   "d": "2026-09-06T17:10:00+00:00"
-  },
-  {
-   "t": "Bearbeitungsstau für Visa im Iran: Bitte warten",
-   "s": "Iranische Studierende und Fachkräfte bekommen ihre Visa für Deutschland nur schleppend. Das Auswärtige Amt macht wenig Hoffnung auf Besserung.",
-   "u": "https://taz.de/Deutsche-Visa-fuer-iranische-Studierende-und-Fachkraefte-Das-lange-Warten-in-der-Not/!6210435/",
-   "q": "taz",
-   "d": "2026-09-06T14:16:00+00:00"
   }
  ]
 }

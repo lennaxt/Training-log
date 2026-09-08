@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-09-07T23:30:39+00:00",
+ "updated": "2026-09-08T08:06:14+00:00",
  "items": [
+  {
+   "t": "Handelskonflikt mit den USA: Kanadas Gegenzölle in Kraft",
+   "s": "Der Zollstreit in Nordamerika geht in die nächste Phase: Kanada erhebt ab sofort Gegenzölle auf bestimmte US-Importe. US-Präsident Trump drohte unterdessen dem kanadischen Flugzeughersteller Bombardier.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kanada-usa-gegenzoelle-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T07:26:21+00:00"
+  },
+  {
+   "t": "Ende der Amtszeit: Was Baerbock bei den UN angestoßen hat",
+   "s": "Als Präsidentin der UN-Generalversammlung wollte sich Annalena Baerbock für Reformen einsetzen. In ihrer einjährigen Amtszeit brachte sie Veränderungen auf den Weg - stieß aber auch auf Widerstand. Von Giselle Ucar.",
+   "u": "https://www.tagesschau.de/ausland/amerika/baerbock-un-amtszeit-ende-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T06:06:06+00:00"
+  },
+  {
+   "t": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
+   "s": "Nach einer kurzzeitigen Feuerpause während des Besuchs von US-Unterhändlern in der Ukraine hat Russland seine schweren Luftangriffe wieder aufgenommen. Aus Kiew wurden Explosionen gemeldet, berichteten ukrainische Medien.",
+   "u": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-krieg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T03:09:42+00:00"
+  },
+  {
+   "t": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
+   "s": "Angriffe Russlands bringen die ukrainische Schifffahrt auf dem Schwarzen Meer nahezu zum Erliegen. Landwirte bleiben auf ihrer Ernte sitzen, während sich vor den Donauhäfen die Laster stauen. Eindrücke aus der Region Odessa. Von S. Petersohn.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T02:20:08+00:00"
+  },
   {
    "t": "Kurs der Bundesregierung: Verändert der AfD-Erfolg die deutsche EU-Politik?",
    "s": "In der EU stehen in nächster Zeit wichtige Entscheidungen an, etwa beim neuen Haushalt. Diskutiert wird daher, ob der Erfolg der AfD auch Folgen für die EU-Politik der Bundesregierung haben könnte. Von C. Feld und T. Spickhofen.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/nepal-sturzflut-110.html",
    "q": "Tagesschau",
    "d": "2026-09-05T07:29:51+00:00"
-  },
-  {
-   "t": "Warum Schweden seine Gefangenen in Estland unterbringt",
-   "s": "Steigende Kriminalität und verschärftes Strafrecht - in Schwedens Gefängnissen wird der Platz knapp. Das Land verlegt deshalb jetzt einen Teil seiner Häftlinge nach Estland. Es ist ein Deal, der nicht unumstritten ist. Von Christian Stichler.",
-   "u": "https://www.tagesschau.de/ausland/europa/schweden-estland-haeftlinge-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T06:10:34+00:00"
-  },
-  {
-   "t": "Friedensbemühungen - Trump-Gesandte reisen nach Moskau und Kiew",
-   "s": "US-Präsident Trump entsendet seine Unterhändler Witkoff und Kushner zu neuen Gesprächen über ein Ende des russischen Angriffskrieges gegen die Ukraine. Es sollen diesmal auch Verhandlungen in Kiew geplant sein.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-witkoff-kushner-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T04:26:54+00:00"
-  },
-  {
-   "t": "Neue Vorwürfe gegen Farages Rechtspopulisten",
-   "s": "Die britischen Rechtspopulisten von Reform UK um Nigel Farage haben ihren Parteitag fortgesetzt - und müssen sich mit neuen Vorwürfen auseinandersetzen. Wieder geht es um Geld. Von Franziska Hoppen.",
-   "u": "https://www.tagesschau.de/ausland/europa/grossbritannien-farage-104.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T22:05:27+00:00"
-  },
-  {
-   "t": "Russische Drohne trifft Geheimdienstzentrale in Kiew",
-   "s": "Dem ukrainischen Geheimdienst SBU gelangen immer wieder spektakuläre Aktionen in Russland. Nun wurde er selbst zum Ziel. Eine russische Drohne traf das Hauptquartier in Kiew. Es soll Verletzte gegeben haben.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-sbu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T19:34:14+00:00"
   }
  ]
 }

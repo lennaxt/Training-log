@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-07T23:30:42+00:00",
+ "updated": "2026-09-08T08:06:18+00:00",
  "items": [
+  {
+   "t": "Wahrzeichen von Paris: Streik am Eiffelturm nach Ausschluss von Mitarbeiterinnen",
+   "s": "Am Pariser Eiffelturm soll auf Bitten hinduistischer Besucher das weibliche Personal vorübergehend abgezogen worden sein. Dagegen gibt es nun Protest.",
+   "u": "https://taz.de/Wahrzeichen-von-Paris/!6211314/",
+   "q": "taz",
+   "d": "2026-09-08T07:38:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Russland nimmt Angriffe auf Kyjiw wieder auf",
+   "s": "Behörden melden zwei Todesopfer nach neuen russischen Angriffen. Der ukrainische Generalstaatsanwalt tritt zurück.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6211311/",
+   "q": "taz",
+   "d": "2026-09-08T06:45:00+00:00"
+  },
   {
    "t": "Gedenken an Ratko Mladić: Letztes Geleit für den Kriegsverbrecher",
    "s": "Tausende Menschen ehren bei Trauerfeierlichkeiten in Belgrad den verstorbenen Kriegsverbrecher Ratko Mladić. Serbiens Staatspräsident Vučić fehlt.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Getoetete-Journalin-Galizia-auf-Malta/!6209954/",
    "q": "taz",
    "d": "2026-09-03T14:51:00+00:00"
-  },
-  {
-   "t": "Treffen des Weimarer Dreiecks: Vereinigt gegen russischen Staatsterrorismus",
-   "s": "Polen, Frankreich und Deutschland treffen sich, um 35 Jahre Weimarer Dreieck zu feiern. Im Fokus: Russlands hybride Kriegsführung.",
-   "u": "https://taz.de/Treffen-des-Weimarer-Dreiecks/!6209865/",
-   "q": "taz",
-   "d": "2026-09-03T13:43:00+00:00"
-  },
-  {
-   "t": "Ansturm auf Ceuta: Spaniens Regierungschef Sánchez bleibt Antworten schuldig",
-   "s": "Der spanische Ministerpräsident hat sich den Fragen der Opposition zum Ansturm auf Ceuta im Juli gestellt. Die rechten Parteien trieben den Sozialisten dabei vor sich her.",
-   "u": "https://taz.de/Ansturm-auf-spanische-Exklave-Ceuta/!6209853/",
-   "q": "taz",
-   "d": "2026-09-03T13:39:00+00:00"
   }
  ]
 }

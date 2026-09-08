@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-07T23:30:40+00:00",
+ "updated": "2026-09-08T08:06:15+00:00",
  "items": [
+  {
+   "t": "Französische KI-Start-up Mistral sammelt drei Milliarden Euro ein",
+   "s": "In der bisher größten Finanzierungsrunde in Europa hat Mistral drei Milliarden Euro eingesammelt. Das französische Start-up setzt auf offene KI-Modelle und präsentiert sich als Gegenentwurf zu den US-Konzernen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/mistral-kuenstliche-intelligenz-start-up-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T08:04:16+00:00"
+  },
+  {
+   "t": "Marktbericht: Hohe Ölpreise haben Aktienmarkt im Griff",
+   "s": "Die Vorgaben für den heutigen Handelstag sind durchwachsen: Die Ölpreise liegen auf ihrem höchsten Niveau seit Juni. Und die am Donnerstag erwartete Leitzinserhöhung der EZB sorgt für Zurückhaltung.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T05:13:05+00:00"
+  },
   {
    "t": "Marktbericht: DAX verteidigt runde Marke",
    "s": "Der DAX hat sich zum Wochenauftakt nervös gezeigt. Besonders ein weiterer Anstieg der Ölpreise lastete auf den Kursen. Dennoch konnte sich der Leitindex über der Marke von 26.000 Punkten halten.",
@@ -22,13 +36,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ruestung-osnabrueck-100.html",
    "q": "Tagesschau",
    "d": "2026-09-07T12:29:56+00:00"
-  },
-  {
-   "t": "Vereinigte Staaten - Die US-Schulden sind ein Risiko für die Weltwirtschaft",
-   "s": "Die US-Staatsschulden wachsen. Und das schneller als geplant. Deswegen steigen die Zinsen und Anleger werden nervöser. Das ist nicht nur ein US-Problem, denn die Folgen können weit über die Vereinigten Staaten hinaus reichen.",
-   "u": "https://www.deutschlandfunk.de/usa-staatsschulden-folgen-weltwirtschaft-zinsen-europa-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-07T12:00:00+00:00"
   },
   {
    "t": "Zehntausende Fachkräfte im Verkauf könnten bald fehlen",
@@ -162,13 +169,6 @@
    "u": "https://www.deutschlandfunk.de/island-viertagewoche-arbeitszeit-verkuerzung-work-life-balance-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-08-21T07:58:00+00:00"
-  },
-  {
-   "t": "Griechenlands Sechstagewoche - Länger arbeiten, weniger verdienen",
-   "s": "Vor zwei Jahren hat Griechenland die Sechstagewoche eingeführt, inzwischen sind auch 13-Stunden-Tage möglich. Die Wirtschaft wächst, die Arbeitslosigkeit sinkt. Bei den Beschäftigten kommt davon wenig an.",
-   "u": "https://www.deutschlandfunk.de/griechenland-sechstagewoche-arbeitszeit-loehne-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-21T07:57:00+00:00"
   }
  ]
 }
