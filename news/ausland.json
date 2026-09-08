@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-08T18:41:37+00:00",
+ "updated": "2026-09-08T23:24:20+00:00",
  "items": [
+  {
+   "t": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
+   "s": "Ein Streik dürfe den Bahnverkehr in den Niederlanden heute weitgehend zum Stillstand bringen. Betroffen sind auch mehrere Verbindungen von und nach Deutschland. Hintergrund sind geplante Einschnitte im Sozialsystem.",
+   "u": "https://www.tagesschau.de/ausland/europa/niederlande-streik-bahnverkehr-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T23:08:56+00:00"
+  },
+  {
+   "t": "Brisanter Bericht: Was wusste Netanjahu vor dem Hamas-Überfall 2023?",
+   "s": "Dass Israels Premier Netanjahu Warnungen vor dem Hamas-Überfall am 7. Oktober 2023 ignoriert haben soll, war bereits bekannt. Nun erreicht der Vorwurf durch eine brisante Enthüllung eine neue Dimension - und das kurz vor der Wahl. Von J. Ley",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-bericht-warnung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T20:03:18+00:00"
+  },
   {
    "t": "Großbritannien sanktioniert Handel mit Siedlungen im Westjordanland",
    "s": "Großbritannien will ein Handelsverbot für Waren aus völkerrechtswidrigen israelischen Siedlungen im Westjordanland verhängen. Israel reagiert mit Gegenmaßnahmen: Das britische Konsulat in Jerusalem soll geschlossen werden.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-130.html",
    "q": "Tagesschau",
    "d": "2026-09-06T10:17:03+00:00"
-  },
-  {
-   "t": "Wehrpflichtige in der Ukraine: Gefährliche Flucht über die Donau",
-   "s": "Im Süden der Ukraine bildet die Donau die Grenze zu Rumänien. Immer wieder versuchen ukrainische Wehrpflichtige hier, ihr Land unerlaubt zu verlassen - per Boot oder sogar schwimmend mit Flossen. Von Susanne Petersohn.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-grenzschuetzer-wehrpflichtige-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T04:43:05+00:00"
-  },
-  {
-   "t": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Kiew erwartet",
-   "s": "In Moskau hatten sie sich mit Kremlchef Putin getroffen und mit ihm über ein Ende des Krieges gegen die Ukraine verhandelt. Nun kommen die US-Gesandten Witkoff und Kushner nach Kiew - auf einem ungewöhnlichen Weg.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T02:58:49+00:00"
   }
  ]
 }
