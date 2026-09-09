@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-08T23:24:25+00:00",
+ "updated": "2026-09-09T08:10:00+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: EU genehmigt Ukraine Kauf von Patriot-Flugabwehrraketen",
+   "s": "Deutschlands Außenminister Wadephul fordert mehr Bestellungen bei deutschen Rüstungsfirmen. Die russischen Streitkräfte setzen die Ukraine weiter unter Druck.",
+   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6211642/",
+   "q": "taz",
+   "d": "2026-09-09T06:48:00+00:00"
+  },
   {
    "t": "EU-Verteidigungsgremium ist gescheitert: Kallas bewusst geschwächt",
    "s": "EU‑Außenbeauftragte Kaja Kallas wollte ein neues Verteidigungsgremium installieren – und ist gescheitert. Kritik kam vor allem aus Deutschland und Italien.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/EU-Rechnungspruefer-warnen/!6210381/",
    "q": "taz",
    "d": "2026-09-04T13:05:00+00:00"
-  },
-  {
-   "t": "Eine Party für Meloni: Postfaschismus stabil",
-   "s": "Die italienische Ministerpräsidentin ist länger im Amt als jeder ihrer Vorgänger nach dem Zweiten Weltkrieg. Ihr Geschenk: neue Pläne zur Wahlrechtsreform.",
-   "u": "https://taz.de/Eine-Party-fuer-Meloni/!6210293/",
-   "q": "taz",
-   "d": "2026-09-04T11:58:00+00:00"
   }
  ]
 }

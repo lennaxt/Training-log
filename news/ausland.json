@@ -1,13 +1,27 @@
 {
  "name": "Ausland",
- "updated": "2026-09-08T23:24:20+00:00",
+ "updated": "2026-09-09T08:09:57+00:00",
  "items": [
   {
-   "t": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
-   "s": "Ein Streik dürfe den Bahnverkehr in den Niederlanden heute weitgehend zum Stillstand bringen. Betroffen sind auch mehrere Verbindungen von und nach Deutschland. Hintergrund sind geplante Einschnitte im Sozialsystem.",
-   "u": "https://www.tagesschau.de/ausland/europa/niederlande-streik-bahnverkehr-100.html",
+   "t": "USA kündigen Einfuhrverbot für einige kanadische Waren an",
+   "s": "Der Zollkonflikt zwischen den USA und Kanada geht in die nächste Runde: Nach den jüngsten Zöllen aus Ottawa hat Washington jetzt milliardenschwere Einfuhrverbote für bestimmte kanadische Produkte angekündigt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kanada-usa-zollstreit-102.html",
    "q": "Tagesschau",
-   "d": "2026-09-08T23:08:56+00:00"
+   "d": "2026-09-09T07:16:24+00:00"
+  },
+  {
+   "t": "USA zerstören fünf iranische Öltanker - Iran reagiert mit Angriffen",
+   "s": "US-Streitkräfte haben nach eigenen Angaben fünf iranische Öltanker zerstört und einen davon versenkt. Iran meldete, noch in der Nacht mit Gegenangriffen reagiert zu haben, unter anderem auf US-Schiffe.",
+   "u": "https://www.tagesschau.de/ausland/asien/usa-iran-krieg-angriff-tanker-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T06:28:42+00:00"
+  },
+  {
+   "t": "Wie der Konflikt im Jemen wieder aufflammt",
+   "s": "Mit Angriffen auf Ölanlagen Saudi-Arabiens verschärft die Huthi-Miliz den Konflikt mit dem Nachbarland. Die von Saudi-Arabien unterstützte Regierung Jemens geht gegen die Huthi vor. Droht eine Eskalation? Welche Rolle spielt Iran? Von M. Behrendt.",
+   "u": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T03:08:13+00:00"
   },
   {
    "t": "Brisanter Bericht: Was wusste Netanjahu vor dem Hamas-Überfall 2023?",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/afrika/muellstadt-kairo-108.html",
    "q": "Tagesschau",
    "d": "2026-09-06T10:47:32+00:00"
-  },
-  {
-   "t": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
-   "s": "Nach ihrem Treffen mit Kremlchef Putin in Moskau sind die US-Sondergesandten Kushner und Witkoff in Kiew eingetroffen, um mit Präsident Selenskyj zu reden. Während der Gespräche gilt in beiden Städten eine Waffenruhe - andernorts gehen die Angriffe weiter.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-vermittlungsversuch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T10:40:04+00:00"
-  },
-  {
-   "t": "Tote und Verletzte bei neuen Angriffen Israels im Libanon",
-   "s": "Israel hat erneut Ziele im Libanon angegriffen. Dabei starben nach libanesischen Angaben vier Menschen, 20 weitere wurden verletzt, darunter auch Frauen und Kinder. Zuvor soll die Hisbollah israelische Soldaten mit Drohnen attackiert haben.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-130.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T10:17:03+00:00"
   }
  ]
 }

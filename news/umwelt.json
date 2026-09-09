@@ -1,6 +1,6 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-08T23:24:24+00:00",
+ "updated": "2026-09-09T08:09:59+00:00",
  "items": [
   {
    "t": "Neue Pisa-Studie: Wer diesen Text lesen kann, ist klar im Vorteil",
@@ -22,6 +22,13 @@
    "u": "https://taz.de/AfD-plant-Regierungsuebernahme/!6211393/",
    "q": "taz",
    "d": "2026-09-08T16:38:00+00:00"
+  },
+  {
+   "t": "Abgeordnetenhauswahl am 20. September: Wollen sie überhaupt?",
+   "s": "Die Linke hat rechnerisch gute Chancen, erstmals die Regierungschefin zu stellen. Doch in der Partei ist umstritten, ob man überhaupt regieren will.",
+   "u": "https://taz.de/Abgeordnetenhauswahl-am-20-September/!6205970/",
+   "q": "taz",
+   "d": "2026-09-08T16:30:00+00:00"
   },
   {
    "t": "Regierung für Sachsen-Anhalt: Wenn Absurdes möglich wird",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Reaktionen-auf-Sachsen-Anhalt/!6210852/",
    "q": "taz",
    "d": "2026-09-07T15:42:00+00:00"
-  },
-  {
-   "t": "SPD nach Wahl in Sachsen-Anhalt: Alles im grauen Bereich",
-   "s": "Die SPD sucht nach dem AfD-Triumph in Sachsen-Anhalt ihren Kurs. Sie will als Partei erkennbar sein, ohne die Regierung in die Luft zu jagen. Das erfordert Geschick.",
-   "u": "https://taz.de/SPD-nach-Wahl-in-Sachsen-Anhalt/!6210819/",
-   "q": "taz",
-   "d": "2026-09-07T15:33:00+00:00"
   }
  ]
 }

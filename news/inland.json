@@ -1,7 +1,63 @@
 {
  "name": "Inland",
- "updated": "2026-09-08T23:24:20+00:00",
+ "updated": "2026-09-09T08:09:56+00:00",
  "items": [
+  {
+   "t": "Liveblog zur Generaldebatte: ++ Scharfe Attacken zwischen Weidel und Merz ++",
+   "s": "Generaldebatte unter dem Eindruck einer denkwürdigen Landtagswahl: Drei Tage nach dem AfD-Wahlsieg über die regierende CDU in Sachsen-Anhalt treffen AfD-Chefin Weidel und CDU-Chef Merz im Bundestag aufeinander.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/liveblog-generaldebatte-106.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T08:05:59+00:00"
+  },
+  {
+   "t": "Mao Zedong - Revolutionär und Massenmörder",
+   "s": "Für viele war er der Mann, der China einte, für die Kommunistische Partei die Gründungsfigur der Volksrepublik. Doch Maos Herrschaft brachte auch Hungerkatastrophen und die Gewalt der Kulturrevolution. Am 9. September 1976 ist er gestorben.Reinhardt, Anja",
+   "u": "https://www.deutschlandfunk.de/09-09-1976-chinas-staatsgruender-und-diktator-mao-zedong-gestorben-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-09T07:05:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: EU genehmigt Ukraine Kauf von Patriot-Flugabwehrraketen",
+   "s": "Deutschlands Außenminister Wadephul fordert mehr Bestellungen bei deutschen Rüstungsfirmen. Die russischen Streitkräfte setzen die Ukraine weiter unter Druck.",
+   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6211642/",
+   "q": "taz",
+   "d": "2026-09-09T06:48:00+00:00"
+  },
+  {
+   "t": "Sanktionen gegen Siedler: Deutschland schließt sich Einfuhrverbot israelischer Waren nicht an",
+   "s": "Zwölf europäische Länder kritisieren Siedlungsbau und Gewalt. Israel schließt britisches Generalkonsulat in Ostjerusalem. US-Botschafter warnt Großbritannien.",
+   "u": "https://taz.de/Deutschland-schliesst-sich-Einfuhrverbot-israelischer-Waren-nicht-an/!6211640/",
+   "q": "taz",
+   "d": "2026-09-09T06:40:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Irankrieg +++: USA zerstören fünf iranische Öltanker",
+   "s": "US-Streitkräfte haben nach eigenen Angaben fünf iranische Öltanker zerstört. Iran reagierte mit Raketenangriffen auf US-Ziele in Jordanien.",
+   "u": "https://taz.de/-Nachrichten-im-Iran-Krieg-/!6211636/",
+   "q": "taz",
+   "d": "2026-09-09T06:16:00+00:00"
+  },
+  {
+   "t": "PISA-Desaster - Ein Kölner Schulleiter und sein Lesekonzept",
+   "s": "Eine Schmöker-Atmosphäre schaffen, ganz ohne Zwänge - das ist das Rezept des Kölner Schulleiters Martin Süsterhenn, um Kinder zum Lesen zu bringen. Die schwache PISA-Studie habe ihn nicht überrascht, Schule werde viel zu viel von oben gedacht.Heinemann, Christoph",
+   "u": "https://www.deutschlandfunk.de/int-martin-suesterhenn-schulleiter-katharina-henoth-gesamtschule-pisa-lehren-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-09T06:10:00+00:00"
+  },
+  {
+   "t": "Wahlkampf in Gambia: Der „Auserwählte“ und die Täter der Jammeh-Diktatur",
+   "s": "In Gambia stockt die Aufarbeitung der Gräueltaten der Diktatur Jammehs. Das liegt auch an dessen Nachfolger, dem Präsidenten des Landes, Adama Barrow.",
+   "u": "https://taz.de/Wahlkampf-in-Gambia/!6211395/",
+   "q": "taz",
+   "d": "2026-09-09T05:08:00+00:00"
+  },
+  {
+   "t": "Generaldebatte mit Wahldesaster im Rücken",
+   "s": "In der Generaldebatte über den Haushalt spricht Kanzler Merz heute im Bundestag. Als Oppositionspolitiker war er für harte Attacken bekannt. Jetzt muss er selbst mit heftiger Kritik rechnen - vor allem nach der Wahl in Sachsen-Anhalt. Von S. Henkel.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-bundeskanzler-wahl-sachsen-anhalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T03:08:05+00:00"
+  },
   {
    "t": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
    "s": "SPD-Chef Klingbeil kündigt in den tagesthemen an, Politik besser erklären zu wollen. Der geschäftsführende Ministerpräsident von Sachsen-Anhalt, Schulze, ist als neuer Chef der CDU-Landtagsfraktion gewählt worden.",
@@ -43,6 +99,13 @@
    "u": "https://taz.de/AfD-plant-Regierungsuebernahme/!6211393/",
    "q": "taz",
    "d": "2026-09-08T16:38:00+00:00"
+  },
+  {
+   "t": "Abgeordnetenhauswahl am 20. September: Wollen sie überhaupt?",
+   "s": "Die Linke hat rechnerisch gute Chancen, erstmals die Regierungschefin zu stellen. Doch in der Partei ist umstritten, ob man überhaupt regieren will.",
+   "u": "https://taz.de/Abgeordnetenhauswahl-am-20-September/!6205970/",
+   "q": "taz",
+   "d": "2026-09-08T16:30:00+00:00"
   },
   {
    "t": "Regierung für Sachsen-Anhalt: Wenn Absurdes möglich wird",
@@ -95,7 +158,7 @@
   },
   {
    "t": "KI-Rechenzentren in den USA - Ressourcenverbrauch ohne Ende",
-   "s": "Die US-amerikanische KI-Industrie benötigt immer mehr Rechenzentren, um Daten zu verarbeiten. Doch der Bau dieser milliardenschweren Großprojekte könnte bald vorbei sein, denn die Bevölkerung wehrt sich.",
+   "s": "Die US-amerikanische KI-Industrie benötigt immer mehr Rechenzentren, um Daten zu verarbeiten. Doch der ungebremste Bau dieser milliardenschweren Großprojekte könnte bald vorbei sein, denn die Bevölkerung wehrt sich.",
    "u": "https://www.deutschlandfunk.de/ki-rechenzentren-usa-stromverbrauch-widerstand-trump-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-08T14:58:00+00:00"
@@ -106,69 +169,6 @@
    "u": "https://taz.de/Reaktionen-auf-Sachsen-Anhalt-Wahl-in-MV/!6211434/",
    "q": "taz",
    "d": "2026-09-08T14:44:00+00:00"
-  },
-  {
-   "t": "NRW-Ministerpräsident Wüst für AfD-Prüfung durch Bund-Länder-Gruppe",
-   "s": "Wie geht man mit einer Partei um, deren Landesverband als rechtsextrem eingestuft wird und eine Wahl gewonnen hat? CDU-Ministerpräsident Wüst schlägt eine Bund-Länder-Arbeitsgruppe vor. Unterstützung kommt von den Grünen, die CSU ist skeptisch.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-verfassungsrecht-wuest-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T14:18:52+00:00"
-  },
-  {
-   "t": "Attacken auf Kraftwerke: Mutmaßlicher Strom-Terrorist Daniel V. gefasst",
-   "s": "Die Polizei hat den 48-Jährigen verhaftet, der für eine Kette von Anschlägen auf Kraftwerke verantwortlich sein soll. Viele Fragen sind noch offen.",
-   "u": "https://taz.de/Attacken-auf-Kraftwerke/!6211474/",
-   "q": "taz",
-   "d": "2026-09-08T14:14:00+00:00"
-  },
-  {
-   "t": "Vorwürfe gegen israelischen Premier: Netanjahu ignorierte Warnungen vor dem 7. Oktober",
-   "s": "Mitten im Wahlkampf zeigt eine Recherche der Zeitung „Ha’aretz“: Netanjahu wurde auf höchster Ebene vor einem Hamas-Angriff gewarnt – und blieb untätig.",
-   "u": "https://taz.de/Vorwuerfe-gegen-israelischen-Premier/!6211404/",
-   "q": "taz",
-   "d": "2026-09-08T14:10:00+00:00"
-  },
-  {
-   "t": "Streit um EU-Verteidigungsgremium: Persönliche Eitelkeiten und knallharte Politik",
-   "s": "Die EU-Außenbeauftragte Kallas scheitert mit ihrem Vorhaben, ein Verteidigungsgremium zu gründen – auch dank Berlin. Es geht um Macht und Kompetenzen.",
-   "u": "https://taz.de/Streit-um-EU-Verteidigungsgremium/!6211406/",
-   "q": "taz",
-   "d": "2026-09-08T13:55:00+00:00"
-  },
-  {
-   "t": "Nach den Wahlen in Sambia: Erst in Haft und dann staatenlos",
-   "s": "Nach der umstrittenen Wiederwahl von Präsident Hakainde Hichilema geht Sambia mit harter Hand gegen die Opposition vor.",
-   "u": "https://taz.de/Nach-den-Wahlen-in-Sambia/!6211397/",
-   "q": "taz",
-   "d": "2026-09-08T13:42:00+00:00"
-  },
-  {
-   "t": "Klingbeil verteidigt Neuverschuldung in Etatdebatte",
-   "s": "Es ist der größte Haushalt, über den der Bundestag je debattiert hat: 555 Milliarden Euro sind für 2027 veranschlagt, die Neuverschuldung steigt auf über 200 Milliarden Euro. Die Opposition sparte nicht mit Kritik. Von Maximilian Ulrich.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-140.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T13:26:40+00:00"
-  },
-  {
-   "t": "Islamismus 25 Jahre nach 9/11 - Radikalisierung im Netz statt in Moscheen",
-   "s": "Seit den Anschlägen vom 11. September 2001 hat sich die islamistische Szene in Deutschland gewandelt. Radikalisierung findet heute zunehmend im Internet statt und betrifft immer häufiger junge Menschen.",
-   "u": "https://www.deutschlandfunk.de/world-trade-center-terror-islamismus-internet-radikalisierung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-08T13:18:00+00:00"
-  },
-  {
-   "t": "Korruptionsverdacht: Cousin von Präsident Ferdinand Marcos in Haft",
-   "s": "In den Philippinen geht der Machtkampf der Familienclans Marcos und Duterte vor dem Hintergrund massiver Korruptionsvorwürfe in eine neue Runde.",
-   "u": "https://taz.de/Korruptionsverdacht/!6211333/",
-   "q": "taz",
-   "d": "2026-09-08T13:09:00+00:00"
-  },
-  {
-   "t": "Nach der Landtagswahl in Sachsen-Anhalt: Der Linkenfresser aus dem Bundestag",
-   "s": "Sepp Müller ist Co-Chef der Unionsfraktion im Bundestag. Jetzt will er neuer CDU-Landesvorsitzender in Sachsen-Anhalt werden.",
-   "u": "https://taz.de/Nach-der-Landtagswahl-in-Sachsen-Anhalt/!6211390/",
-   "q": "taz",
-   "d": "2026-09-08T12:52:00+00:00"
   }
  ]
 }

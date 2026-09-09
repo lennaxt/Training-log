@@ -1,7 +1,28 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-08T23:24:22+00:00",
+ "updated": "2026-09-09T08:09:58+00:00",
  "items": [
+  {
+   "t": "Eskalation im Iran-Krieg: DAX dürfte unter 26.000 Punkte fallen",
+   "s": "Eine neue Eskalation am Persischen Golf lässt weiteren Druck auf den deutschen Aktienmarkt erwarten. Der DAX wird zwei Stunden vor Handelsbeginn etwa 0,6 Prozent tiefer gesehen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T05:27:05+00:00"
+  },
+  {
+   "t": "Apple-Aktie: Wird der KI-Rückstand zum Vorteil?",
+   "s": "Apple gilt bei künstlicher Intelligenz als Nachzügler - Symbol dafür ist Siri. Warum ausgerechnet geringere KI-Ausgaben zum Vorteil werden könnten und was den iPhone-Konzern jetzt unter Druck setzt. Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/boerse/apple-aktie-siri-iphone-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T05:13:06+00:00"
+  },
+  {
+   "t": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
+   "s": "Ein Streik dürfte den Bahnverkehr in den Niederlanden heute weitgehend zum Stillstand bringen. Betroffen sind auch mehrere Verbindungen von und nach Deutschland. Hintergrund sind geplante Einschnitte im Sozialsystem.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/niederlande-streik-bahnverkehr-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T23:08:56+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 08.09.2026",
    "s": "Wirtschaft vor acht vom 08.09.2026",
@@ -17,15 +38,8 @@
    "d": "2026-09-08T17:00:45+00:00"
   },
   {
-   "t": "Marktbericht: DAX schafft eine Punktlandung",
-   "s": "Die Misere am Ölmarkt hält die Anleger weiter vom Aktienkauf ab. Immerhin konnte der DAX am Ende sein Niveau halten. Hervorragende Nachrichten gab es von der Elektrobranche.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T16:37:27+00:00"
-  },
-  {
    "t": "KI-Rechenzentren in den USA - Ressourcenverbrauch ohne Ende",
-   "s": "Die US-amerikanische KI-Industrie benötigt immer mehr Rechenzentren, um Daten zu verarbeiten. Doch der Bau dieser milliardenschweren Großprojekte könnte bald vorbei sein, denn die Bevölkerung wehrt sich.",
+   "s": "Die US-amerikanische KI-Industrie benötigt immer mehr Rechenzentren, um Daten zu verarbeiten. Doch der ungebremste Bau dieser milliardenschweren Großprojekte könnte bald vorbei sein, denn die Bevölkerung wehrt sich.",
    "u": "https://www.deutschlandfunk.de/ki-rechenzentren-usa-stromverbrauch-widerstand-trump-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-08T14:58:00+00:00"
@@ -94,13 +108,6 @@
    "d": "2026-09-07T12:29:56+00:00"
   },
   {
-   "t": "Zehntausende Fachkräfte im Verkauf könnten bald fehlen",
-   "s": "Bis zum Jahr 2029 droht einer Studie zufolge ein gravierender Mangel an Verkäuferinnen und Verkäufern im deutschen Einzelhandel. Auch in anderen Berufen könnte der Fachkräftemangel stark zunehmen.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/fachverkauefermangel-iw-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T08:54:43+00:00"
-  },
-  {
    "t": "Zu viele Touristen - wie Dubrovnik gegensteuert",
    "s": "Dubrovnik zählt zu Europas beliebtesten Reisezielen. Durch die Serie \"Game of Thrones\" wurde die kroatische Hafenstadt weltberühmt - nun geht sie gegen \"Overtourism\" vor. Von A. Bachmann und N. Knopp.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/overtourism-dubrovnik-100.html",
@@ -113,13 +120,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-haushalt-100.html",
    "q": "Tagesschau",
    "d": "2026-09-05T19:14:33+00:00"
-  },
-  {
-   "t": "EU-Kommission plant schärfere Regeln für Airbnb & Co.",
-   "s": "Sie blockieren dringend benötigten Wohnraum und treiben Mieten nach oben: Daher will die EU nun gegen Kurzzeitvermieter wie Airbnb vorgehen. In Paris, Barcelona und Venedig gibt es bereits Regeln, aber jetzt sind einheitliche Vorschriften geplant.",
-   "u": "https://www.tagesschau.de/wirtschaft/eu-regeln-kurzzeitvermietung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T09:17:45+00:00"
   },
   {
    "t": "Babyboomer gehen in Rente: Das bremst Deutschlands Wachstum",
@@ -136,13 +136,6 @@
    "d": "2026-09-04T15:43:00+00:00"
   },
   {
-   "t": "Weltweite Lebensmittelpreise steigen auf höchsten Stand seit 2022",
-   "s": "Weltweit steigen die Lebensmittelpreise immer weiter. Das liegt unter anderem an Extremwetter, etwa der Dürre in Europa. Aber auch militärische Konflikte wie der Krieg im Nahen Osten verteuern Nahrungsmittel.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/un-lebensmittelpreise-anstieg-weltweit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T11:41:13+00:00"
-  },
-  {
    "t": "Auch nach Sanierung: Massive Verspätungen auf Bahnstrecke Hamburg-Berlin",
    "s": "Zehn Monate lang wurde die Bahnstrecke zwischen Berlin und Hamburg umfassend saniert. Doch auch nach der Wiedereröffnung läuft der Verkehr alles andere als reibungslos. Von Jacqueline Piwon.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-generalsanierung-hamburg-berlin-100.html",
@@ -157,18 +150,25 @@
    "d": "2026-09-03T12:26:00+00:00"
   },
   {
-   "t": "Immer mehr neue Autos fahren elektrisch",
-   "s": "E-Autos sind bei deutschen Käufern beliebt, fast jedes dritte neu zugelassene Auto im August war ein reiner Elektro-Pkw. Grund für die Entwicklung dürfte auch die E-Auto-Prämie des Bundes sein.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/kba-zulassungen-e-autos-trend-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T11:43:20+00:00"
-  },
-  {
    "t": "LNG aus den USA: Droht die nächste Abhängigkeit beim Gas?",
    "s": "Die deutschen Gasspeicher sind so leer wie nie um diese Zeit. Auch darum werden LNG-Lieferungen immer wichtiger. Doch das Flüssiggas kommt vor allem aus den USA. Ist das ein Risiko? Von L.-M. Hiltscher.",
    "u": "https://www.tagesschau.de/wirtschaft/energie/gas-versorgung-lng-usa-pipelines-100.html",
    "q": "Tagesschau",
    "d": "2026-09-03T11:06:08+00:00"
+  },
+  {
+   "t": "Kommentar zu Krankschreibungen - Die Politik sollte die Idee schnell beerdigen",
+   "s": "Bundesarbeitsministerin Bas sollte einen Weg finden, um diese unsinnige Verständigung der Koalition auf ein Attest gleich am ersten Krankheitstag zu stoppen. Diese geplante Attestpflicht ist praxisfern und wird keine Fehlzeit weniger bringen.Von Birgid Becker",
+   "u": "https://www.deutschlandfunk.de/kommentar-zu-krankschreibungen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-31T14:38:00+00:00"
+  },
+  {
+   "t": "Smartes Kinderspielzeug - Wer kontrolliert den KI-Teddy?",
+   "s": "Kuscheltiere und Puppen lernen dank generativer KI sprechen. Doch erste Tests zeigen: Was Kindern Spaß macht, kann sie auch verstören und manipulieren.",
+   "u": "https://www.deutschlandfunk.de/spielzeug-ki-kinder-gefahren-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-08-30T14:16:00+00:00"
   }
  ]
 }
