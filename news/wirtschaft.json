@@ -1,13 +1,62 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-09T08:09:58+00:00",
+ "updated": "2026-09-09T13:44:21+00:00",
  "items": [
   {
-   "t": "Eskalation im Iran-Krieg: DAX dürfte unter 26.000 Punkte fallen",
-   "s": "Eine neue Eskalation am Persischen Golf lässt weiteren Druck auf den deutschen Aktienmarkt erwarten. Der DAX wird zwei Stunden vor Handelsbeginn etwa 0,6 Prozent tiefer gesehen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html",
+   "t": "Klimawandel - Wie Deutschland sein Stromnetz für die Zukunft rüstet",
+   "s": "Die Hitzewellen dieses Sommers haben das deutsche Stromnetz unter Druck gesetzt. Wie lässt sich die Versorgung sichern, wenn Extremwetter häufiger wird und Wind und Sonne die Stromflüsse verändern?",
+   "u": "https://www.deutschlandfunk.de/stromnetz-deutschland-extremwetter-klimawandel-stromversorgung-energiewende-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-09T12:46:00+00:00"
+  },
+  {
+   "t": "US-Rüstungsfirma will ab 2027 Langstrecken-Marschflugkörper in Sachsen bauen",
+   "s": "Das US-Unternehmen Covenant plant den Aufbau seines weltweit größten Produktionsstandorts bei Leipzig. Vom kommenden Jahr an soll dort der Langstrecken-Marschflugkörper \"Anthem\" gefertigt werden.",
+   "u": "https://www.tagesschau.de/inland/regional/sachsen/langstrecken-flugkoerper-anthem-produktion,covenant-ruestungsfirma-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-09T05:27:05+00:00"
+   "d": "2026-09-09T12:37:05+00:00"
+  },
+  {
+   "t": "Regionalklassen: Wo die Kfz-Versicherung am teuersten ist",
+   "s": "Die Beiträge zur Kfz-Versicherung richten sich unter anderem nach der Regionalklasse. Nun hat der Branchenverband diese neu berechnet - und sich dabei an der Schadenbilanz in den Zulassungsbezirken orientiert.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/kfz-versicherung-regionalklassen-schadensbilanz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T11:39:29+00:00"
+  },
+  {
+   "t": "Airlines fordern Konsequenzen nach Flugchaos in Großbritannien",
+   "s": "Wegen einer Störung im System der Flugsicherung sind in Großbritannien weit über 1.000 Flüge ausgefallen, auch heute kommt es noch zu zahlreichen Ausfällen und Verspätungen. Mehrere Airlines äußerten scharfe Kritik an der Flugsicherung.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/flughaefen-grossbritannien-ausfaelle-chaos-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T11:32:09+00:00"
+  },
+  {
+   "t": "Marktbericht: Ölpreis steigt erstmals seit Juli über 100 Dollar",
+   "s": "Der Ölpreis ist am Morgen wegen der weiteren militärischen Eskalation am Persischen Golf auf mehr als 100 Dollar pro Barrel gestiegen. Grund ist die Sorge vor Lieferunterbrechungen aus dem Nahen Osten.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oel-brent-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T11:08:06+00:00"
+  },
+  {
+   "t": "Boom der Batteriespeicher",
+   "s": "In Deutschland entstehen immer mehr große Batteriespeicher, die Schwankungen im Stromnetz ausgleichen. Jüngstes Beispiel ist Aachen. Wo einst Elektronik produziert wurde, werden Riesen-Akkus errichtet. Von Philipp Wundersee.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/batterie-speicher-108.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T09:26:04+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 09.09.2026",
+   "s": "Update Wirtschaft vom 09.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1645870.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T09:16:42+00:00"
+  },
+  {
+   "t": "Handels-Gastronomie: Imbisse in Geschäften gefragt wie nie",
+   "s": "Frikadellen vom Baumarkt-Parkplatz, belegte Brötchen im Möbelhaus: Der Verkauf von Essen in Geschäften boomt. Einer Studie zufolge ist damit im vergangenen Jahr so viel Umsatz erzielt worden wie noch nie.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/handelsgastronomie-umsatzrekord-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T08:09:03+00:00"
   },
   {
    "t": "Apple-Aktie: Wird der KI-Rückstand zum Vorteil?",
@@ -73,13 +122,6 @@
    "d": "2026-09-08T09:13:05+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 08.09.2026",
-   "s": "Update Wirtschaft vom 08.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1645148.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T08:15:50+00:00"
-  },
-  {
    "t": "Französisches KI-Start-up Mistral sammelt drei Milliarden Euro ein",
    "s": "In der bisher größten Finanzierungsrunde in Europa hat Mistral drei Milliarden Euro eingesammelt. Das französische Start-up setzt auf offene KI-Modelle und präsentiert sich als Gegenentwurf zu den US-Konzernen.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/mistral-kuenstliche-intelligenz-start-up-100.html",
@@ -108,6 +150,13 @@
    "d": "2026-09-07T12:29:56+00:00"
   },
   {
+   "t": "Vereinigte Staaten - Die US-Schulden sind ein Risiko für die Weltwirtschaft",
+   "s": "Die US-Staatsschulden wachsen. Und das schneller als geplant. Deswegen steigen die Zinsen und Anleger werden nervöser. Das ist nicht nur ein US-Problem, denn die Folgen können weit über die Vereinigten Staaten hinaus reichen.",
+   "u": "https://www.deutschlandfunk.de/usa-staatsschulden-folgen-weltwirtschaft-zinsen-europa-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T12:00:00+00:00"
+  },
+  {
    "t": "Zu viele Touristen - wie Dubrovnik gegensteuert",
    "s": "Dubrovnik zählt zu Europas beliebtesten Reisezielen. Durch die Serie \"Game of Thrones\" wurde die kroatische Hafenstadt weltberühmt - nun geht sie gegen \"Overtourism\" vor. Von A. Bachmann und N. Knopp.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/overtourism-dubrovnik-100.html",
@@ -120,55 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-haushalt-100.html",
    "q": "Tagesschau",
    "d": "2026-09-05T19:14:33+00:00"
-  },
-  {
-   "t": "Babyboomer gehen in Rente: Das bremst Deutschlands Wachstum",
-   "s": "Bis 2040 gehen 30 Prozent der Erwerbspersonen in Deutschland in Rente. Das kostet Wachstum, wenn Politik und Unternehmen nicht gegensteuern. KI könnte helfen - ist aber nur ein Teil der Antwort. Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/babyboomer-rente-deutschland-wachstum-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-05T02:59:52+00:00"
-  },
-  {
-   "t": "Sabotage an Strom und Schienen - Wie resilient ist Deutschlands kritische Infrastruktur?",
-   "s": "Drohnen, Brandanschläge, gekappte Kabel: Deutschlands kritische Infrastruktur steht unter Druck. Wie steht es nach jüngsten Angriffen um den Schutz von Energie- und Verkehrsnetzen? Und was leistet das neue KRITIS-Dachgesetz wirklich?",
-   "u": "https://www.deutschlandfunk.de/energieversorgung-verkehrsnetze-anschlaege-kritische-infrastruktur-kritis-dachgesetz-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-04T15:43:00+00:00"
-  },
-  {
-   "t": "Auch nach Sanierung: Massive Verspätungen auf Bahnstrecke Hamburg-Berlin",
-   "s": "Zehn Monate lang wurde die Bahnstrecke zwischen Berlin und Hamburg umfassend saniert. Doch auch nach der Wiedereröffnung läuft der Verkehr alles andere als reibungslos. Von Jacqueline Piwon.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-generalsanierung-hamburg-berlin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-04T08:09:07+00:00"
-  },
-  {
-   "t": "Russische Schattenflotte - Wie die Bundesregierung sanktionierte Öltransporte stoppen kann",
-   "s": "Als Reaktion auf den versuchten Drohnenanschlag von Leipzig hat die Bundesregierung auch ein schärferes Vorgehen gegen Russlands sogenannte Schattenflotte angekündigt. Was möglich ist, machen andere europäische Länder schon länger vor.",
-   "u": "https://www.deutschlandfunk.de/russland-schattenflotte-ostsee-bundesregierung-sanktionen-kontrollen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-03T12:26:00+00:00"
-  },
-  {
-   "t": "LNG aus den USA: Droht die nächste Abhängigkeit beim Gas?",
-   "s": "Die deutschen Gasspeicher sind so leer wie nie um diese Zeit. Auch darum werden LNG-Lieferungen immer wichtiger. Doch das Flüssiggas kommt vor allem aus den USA. Ist das ein Risiko? Von L.-M. Hiltscher.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/gas-versorgung-lng-usa-pipelines-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T11:06:08+00:00"
-  },
-  {
-   "t": "Kommentar zu Krankschreibungen - Die Politik sollte die Idee schnell beerdigen",
-   "s": "Bundesarbeitsministerin Bas sollte einen Weg finden, um diese unsinnige Verständigung der Koalition auf ein Attest gleich am ersten Krankheitstag zu stoppen. Diese geplante Attestpflicht ist praxisfern und wird keine Fehlzeit weniger bringen.Von Birgid Becker",
-   "u": "https://www.deutschlandfunk.de/kommentar-zu-krankschreibungen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-31T14:38:00+00:00"
-  },
-  {
-   "t": "Smartes Kinderspielzeug - Wer kontrolliert den KI-Teddy?",
-   "s": "Kuscheltiere und Puppen lernen dank generativer KI sprechen. Doch erste Tests zeigen: Was Kindern Spaß macht, kann sie auch verstören und manipulieren.",
-   "u": "https://www.deutschlandfunk.de/spielzeug-ki-kinder-gefahren-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-08-30T14:16:00+00:00"
   }
  ]
 }

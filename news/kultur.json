@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-09T08:10:00+00:00",
+ "updated": "2026-09-09T13:44:24+00:00",
  "items": [
+  {
+   "t": "US-Außenminister in Südamerika: Rubio besucht Kolumbien",
+   "s": "Marco Rubio trifft den neuen ultrarechten kolumbianischen Präsidenten Abelardo de la Espriella. Kernthemen sind Rohstoffe und militärische Zusammenarbeit.",
+   "u": "https://taz.de/US-Aussenminister-in-Suedamerika/!6211649/",
+   "q": "taz",
+   "d": "2026-09-09T09:59:00+00:00"
+  },
   {
    "t": "Internationaler Gerichtshof: Deutschland hält Nicaraguas Gaza-Klage für unzulässig",
    "s": "Nicaragua wirft Deutschland Beihilfe eines israelischen Genozids in Gaza vor. Die Bundesregierung hält dagegen, man setze sich für eine Zwei-Staaten-Lösung ein.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Internationaler-Strafgerichtshof/!6205475/",
    "q": "taz",
    "d": "2026-08-19T07:02:00+00:00"
-  },
-  {
-   "t": "Streit um Sendelizenzen: ABC verklagt Medienaufsichtsbehörde FCC",
-   "s": "Der US-Sender ABC hat die Medienaufsichtsbehörde FCC wegen eines drohenden Lizenzentzugs verklagt. Grund sei eine „Vergeltungskampagne“ durch Donald Trump.",
-   "u": "https://taz.de/Streit-um-Sendelizenzen/!6205459/",
-   "q": "taz",
-   "d": "2026-08-18T15:56:00+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-09T08:10:00+00:00",
+ "updated": "2026-09-09T13:44:23+00:00",
  "items": [
+  {
+   "t": "Russischer Angriff aufs Baltikum: „Die Nato ist auf einen Drohnenkrieg nicht vorbereitet“",
+   "s": "Der Westen befürchtet einen russischen Angriff auf die baltischen Staaten. Womöglich würden nicht alle Nato-Partner dem Baltikum zu Hilfe kommen.",
+   "u": "https://taz.de/Russischer-Angriff-aufs-Baltikum/!6211631/",
+   "q": "taz",
+   "d": "2026-09-09T09:45:00+00:00"
+  },
   {
    "t": "+++ Nachrichten im Ukrainekrieg +++: EU genehmigt Ukraine Kauf von Patriot-Flugabwehrraketen",
    "s": "Deutschlands Außenminister Wadephul fordert mehr Bestellungen bei deutschen Rüstungsfirmen. Die russischen Streitkräfte setzen die Ukraine weiter unter Druck.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Spendenskandal-bei-Reform-UK/!6210372/",
    "q": "taz",
    "d": "2026-09-04T14:35:00+00:00"
-  },
-  {
-   "t": "EU-Rechnungsprüfer warnen: Trotz hoher Verteidigungsausgaben schlecht gerüstet",
-   "s": "Der Europäische Rechnungshof kritisiert die Ausgabenpolitik bei der Rüstung. Es geht um Schulden – und Druck auf das EU-Budget.",
-   "u": "https://taz.de/EU-Rechnungspruefer-warnen/!6210381/",
-   "q": "taz",
-   "d": "2026-09-04T13:05:00+00:00"
   }
  ]
 }

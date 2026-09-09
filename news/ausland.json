@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-09-09T08:09:57+00:00",
+ "updated": "2026-09-09T13:44:20+00:00",
  "items": [
+  {
+   "t": "EU könnte Fördermittel für Sachsen-Anhalt einfrieren",
+   "s": "In Ungarn und Polen war es schon Praxis: Die EU fror Fördermittel ein. Sollte auch eine mögliche AfD-Regierung in Sachsen-Anhalt EU-Grundrechte brechen, droht dem Land ein Zahlungsstopp - und damit ein Finanzloch. Von J.-M. Magro.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-foerdermittel-sachsen-anhalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T11:33:13+00:00"
+  },
   {
    "t": "USA kündigen Einfuhrverbot für einige kanadische Waren an",
    "s": "Der Zollkonflikt zwischen den USA und Kanada geht in die nächste Runde: Nach den jüngsten Zöllen aus Ottawa hat Washington jetzt milliardenschwere Einfuhrverbote für bestimmte kanadische Produkte angekündigt.",
@@ -25,7 +32,7 @@
   },
   {
    "t": "Brisanter Bericht: Was wusste Netanjahu vor dem Hamas-Überfall 2023?",
-   "s": "Dass Israels Premier Netanjahu Warnungen vor dem Hamas-Überfall am 7. Oktober 2023 ignoriert haben soll, war bereits bekannt. Nun erreicht der Vorwurf durch eine brisante Enthüllung eine neue Dimension - und das kurz vor der Wahl. Von J. Ley",
+   "s": "Dass Israels Premier Netanjahu Warnungen vor dem Hamas-Überfall am 7. Oktober 2023 ignoriert haben soll, war bereits bekannt. Nun erreicht der Vorwurf durch eine brisante Enthüllung eine neue Dimension - und das kurz vor der Wahl. Von J. Ley.",
    "u": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-bericht-warnung-100.html",
    "q": "Tagesschau",
    "d": "2026-09-08T20:03:18+00:00"
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-kushner-witkoff-100.html",
    "q": "Tagesschau",
    "d": "2026-09-06T18:38:04+00:00"
-  },
-  {
-   "t": "Wie Kairos Müllstadt vom Iran-Krieg profitiert",
-   "s": "Mehr als 20 Millionen Menschen leben laut Schätzungen im Großraum Kairo - dennoch gibt es kein öffentliches System zur Müllentsorgung. Fast alles landet in der \"Müllstadt\". Dort ist derzeit vor allem ein Material nachgefragt. Von Paul Jens.",
-   "u": "https://www.tagesschau.de/ausland/afrika/muellstadt-kairo-108.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T10:47:32+00:00"
   }
  ]
 }
