@@ -336,7 +336,10 @@
     padding:26px 0;cursor:pointer;transition:padding-left .3s}
   .ex.open .ex-head{padding-left:12px}
   .ex-num{font-family:var(--display);font-size:15px;font-weight:500;color:var(--khaki);
-    position:relative;-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+    position:relative;-webkit-user-select:none;user-select:none;-webkit-touch-callout:none;
+    /* Ohne das uebernimmt iOS die Beruehrung als Scrollen, schickt pointercancel
+       und das Ziehen ist vorbei, bevor es angefangen hat. */
+    touch-action:none}
   /* Griff zum Sortieren: Tippflaeche auf 44px, ohne die Zeile zu veraendern. */
   .ex-num::before{content:"";position:absolute;inset:-14px -12px}
   .ex.filled .ex-num{color:var(--blue)}
@@ -3537,25 +3540,35 @@ function endExDrag(){
   el.addEventListener("transitionend",fin);
   setTimeout(fin,320);
 }
+let dragLpFrom=null;
 document.addEventListener("pointerdown",e=>{
   const num=e.target.closest(".ex-num");
   if(!num||cat!=="kraft"||tab!=="train"||editEx)return;
   const row=num.closest(".ex[data-id]");
   if(!row)return;
-  const id=row.getAttribute("data-id"),y=e.clientY;
+  const id=row.getAttribute("data-id"),y=e.clientY,pid=e.pointerId;
+  dragLpFrom={x:e.clientX,y};
   dragLpTimer=setTimeout(()=>{
     dragLpTimer=null;
     /* Eine offene Uebung waere waehrend des Ziehens ein Hochhaus. */
     if(openEx){openEx=null;renderTrain()}
     startExDrag(id,y);
+    /* Den Zeiger festhalten, sonst gehen die Bewegungen verloren, sobald der
+       Finger die schmale Nummer verlaesst — und die Zeile bleibt stehen. */
+    if(drag){
+      const griff=document.querySelector(`.ex[data-id="${id}"] .ex-num`);
+      try{if(griff&&griff.setPointerCapture)griff.setPointerCapture(pid)}catch(err){}
+    }
   },500);
 },{passive:true});
 document.addEventListener("pointermove",e=>{
-  if(dragLpTimer&&(Math.abs(e.movementX)>5||Math.abs(e.movementY)>5)){clearTimeout(dragLpTimer);dragLpTimer=null}
+  /* movementX/Y ist bei Beruehrungen nicht verlaesslich — lieber selbst messen. */
+  if(dragLpTimer&&dragLpFrom&&(Math.abs(e.clientX-dragLpFrom.x)>8||Math.abs(e.clientY-dragLpFrom.y)>8)){
+    clearTimeout(dragLpTimer);dragLpTimer=null;
+  }
   if(drag)moveExDrag(e.clientY);
 },{passive:true});
-/* Waehrend des Ziehens darf die Seite nicht mitscrollen. touch-action hilft
-   hier nicht: die Geste laeuft beim Zuschlagen schon. */
+/* Zusaetzlich zum touch-action am Griff: haelt das Gummiband am Seitenende an. */
 document.addEventListener("touchmove",e=>{if(drag)e.preventDefault()},{passive:false});
 document.addEventListener("pointerup",()=>{clearTimeout(dragLpTimer);dragLpTimer=null;endExDrag()},{passive:true});
 document.addEventListener("pointercancel",()=>{clearTimeout(dragLpTimer);dragLpTimer=null;endExDrag()},{passive:true});
