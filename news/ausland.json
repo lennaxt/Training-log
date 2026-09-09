@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-09T13:44:20+00:00",
+ "updated": "2026-09-09T18:37:40+00:00",
  "items": [
+  {
+   "t": "Bericht über Warnung vor Hamas-Überfall: Netanjahu plant Klage",
+   "s": "Ein Bericht der Zeitung Haaretz erhebt einen brisanten Vorwurf gegen Israels Premier Netanjahu: Er soll eine ausdrückliche Warnung vor einem Großangriff der Hamas eineinhalb Wochen vor dem Überfall ignoriert haben. Netanjahu dementiert - und will klagen.",
+   "u": "https://www.tagesschau.de/ausland/asien/netanjahu-klage-hamas-ueberfall-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T16:22:13+00:00"
+  },
+  {
+   "t": "Parteitag der Republikaner: Gute Stimmung für die Zwischenwahlen?",
+   "s": "Normalerweise finden vor den US-Zwischenwahlen keine Parteitage statt. Doch diesmal hat Trump festgelegt, dass ein zweitägiges Event den Wahlkampf einläuten soll. Ihm geht es darum, \"die Nation zu retten\". Von C. Kühntopp.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-republikaner-parteitag-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T14:49:43+00:00"
+  },
   {
    "t": "EU könnte Fördermittel für Sachsen-Anhalt einfrieren",
    "s": "In Ungarn und Polen war es schon Praxis: Die EU fror Fördermittel ein. Sollte auch eine mögliche AfD-Regierung in Sachsen-Anhalt EU-Grundrechte brechen, droht dem Land ein Zahlungsstopp - und damit ein Finanzloch. Von J.-M. Magro.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/iran-strasse-von-hormus-100.html",
    "q": "Tagesschau",
    "d": "2026-09-07T03:27:09+00:00"
-  },
-  {
-   "t": "Mindestens fünf Tote nach Unfall mit Amazon-Frachtflugzeug in Miami",
-   "s": "In Miami ist ein Amazon-Frachtflugzeug über die Landebahn hinausgeschossen und mit mehreren Fahrzeugen zusammengeprallt. Laut den Behörden kamen mindestens fünf Menschen ums Leben. Der Flugverkehr ist erheblich eingeschränkt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/flugzeugunglueck-miami-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T22:39:26+00:00"
-  },
-  {
-   "t": "US-Sondergesandte in Kiew: Noch kein Durchbruch bei Friedensgesprächen",
-   "s": "Nach ihrem Treffen mit dem russischen Präsidenten sind die US-Vermittler Witkoff und Kushner weiter nach Kiew gereist. Dort zeigten sie sich verhalten optimistisch. Präsident Selenskyj hofft auf die Wiederaufnahme trilateraler Verhandlungen.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-kushner-witkoff-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-06T18:38:04+00:00"
   }
  ]
 }

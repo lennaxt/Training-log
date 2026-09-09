@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-09T13:44:25+00:00",
+ "updated": "2026-09-09T18:37:44+00:00",
  "items": [
+  {
+   "t": "Nordkorea: Der zweite Frühling des Kim-Regimes",
+   "s": "Lange Zeit schien das Regime dem Zusammenbruch nahe. Doch jetzt genießt es dank Moskau und Peking neue Stärke, die aber nicht von Dauer sein dürfte.",
+   "u": "https://taz.de/Nordkorea/!6211982/",
+   "q": "taz",
+   "d": "2026-09-09T16:33:00+00:00"
+  },
   {
    "t": "Korruptionsverdacht: Cousin von Präsident Ferdinand Marcos in Haft",
    "s": "In den Philippinen geht der Machtkampf der Familienclans Marcos und Duterte vor dem Hintergrund massiver Korruptionsvorwürfe in eine neue Runde.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Schusswaffengewalt-in-Thailand/!6205769/",
    "q": "taz",
    "d": "2026-08-21T05:19:00+00:00"
-  },
-  {
-   "t": "Koreakonflikt: USA und Südkorea kürzen Militärmanöver um die Hälfte",
-   "s": "Nach Kritik von US-Präsident Trump an dem aktuellen gemeinsamen Militärmanöver soll ein besonders kritischer Teil der Übungen wohl entfallen.",
-   "u": "https://taz.de/Korea-Konflikt/!6205481/",
-   "q": "taz",
-   "d": "2026-08-19T07:49:00+00:00"
   }
  ]
 }
