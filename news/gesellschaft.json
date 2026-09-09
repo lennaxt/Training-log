@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-09T13:44:23+00:00",
+ "updated": "2026-09-09T18:37:43+00:00",
  "items": [
+  {
+   "t": "Korruption in der Ukraine: Teurer Schmuck und viel Bargeld",
+   "s": "Der Generalstaatsanwalt und sein Vize treten zurück. Ein hochrangiger Vertreter der Behörde und seine Lebensgefährtin werden festgenommen.",
+   "u": "https://taz.de/Korruption-in-der-Ukraine/!6211984/",
+   "q": "taz",
+   "d": "2026-09-09T16:05:00+00:00"
+  },
+  {
+   "t": "G8-Gipfel in Genua: „Da ist ein roter Faden“",
+   "s": "Vittorio Agnoletto war Sprecher der G8-Proteste 2001, bei denen Carlo Giuliani von der Polizei erschossen wurde. Ein Gespräch über das, was blieb.",
+   "u": "https://taz.de/G8-Gipfel-in-Genua/!6208882/",
+   "q": "taz",
+   "d": "2026-09-09T15:58:00+00:00"
+  },
+  {
+   "t": "Geflüchtete in Ceuta: Uringestank, Menschen als Handelsware und Verzweiflung",
+   "s": "In Ceuta entlädt sich die Wut auf Spanien. Etliche gestrandete Geflüchtete leben dort von Brot, Bananen und Wasser. Und wissen nicht, wie es weitergeht.",
+   "u": "https://taz.de/Gefluechtete-in-Ceuta/!6211994/",
+   "q": "taz",
+   "d": "2026-09-09T13:30:00+00:00"
+  },
   {
    "t": "Russischer Angriff aufs Baltikum: „Die Nato ist auf einen Drohnenkrieg nicht vorbereitet“",
    "s": "Der Westen befürchtet einen russischen Angriff auf die baltischen Staaten. Womöglich würden nicht alle Nato-Partner dem Baltikum zu Hilfe kommen.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Return-Hubs-in-der-EU/!6210468/",
    "q": "taz",
    "d": "2026-09-04T17:37:00+00:00"
-  },
-  {
-   "t": "Russische Attacken auf Kyjiw: Drohne trifft Zentrale des Geheimdienstes",
-   "s": "Während Kyjiw auf eine US-Delegation wartet, schickt Russland Drohnen. Eine traf ein strategisch wichtiges Ziel: die Zentrale des Geheimdienstes SBU.",
-   "u": "https://taz.de/Russische-Attacken-auf-Kyjiw/!6210454/",
-   "q": "taz",
-   "d": "2026-09-04T16:43:00+00:00"
-  },
-  {
-   "t": "Leichnam von Mladić in Serbien: Nächster Schritt zum Staatsbegräbnis",
-   "s": "Der Leichnam des „Schlächters vom Balkan“, Mladić, ist jetzt in Serbien. International gibt es scharfe Kritik an der Verherrlichung seiner Kriegsverbrechen.",
-   "u": "https://taz.de/Leichnam-von-Mladic-in-Serbien/!6210387/",
-   "q": "taz",
-   "d": "2026-09-04T14:47:00+00:00"
-  },
-  {
-   "t": "Spendenskandal bei Reform UK: Meinungsumfragen, die ihr Geld wert sind",
-   "s": "Spitzenpolitiker der rechtspopulistischen Partei Reform UK stehen durch eine Spendenaffäre unter Druck. Farage und Co sind sich keiner Schuld bewusst.",
-   "u": "https://taz.de/Spendenskandal-bei-Reform-UK/!6210372/",
-   "q": "taz",
-   "d": "2026-09-04T14:35:00+00:00"
   }
  ]
 }

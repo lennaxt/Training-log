@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-09T13:44:24+00:00",
+ "updated": "2026-09-09T18:37:44+00:00",
  "items": [
+  {
+   "t": "Trumps Vertraute Natalie Harp: 45.000 Dollar zu Weihnachten",
+   "s": "Natalie Harp gilt als wichtige Frau im engen Zirkel des US-Präsidenten. Die Höhe ihres „Weihnachtsgelds“ sorgt nun für Diskussionen.",
+   "u": "https://taz.de/Trumps-Vertraute-Natalie-Harp/!6211744/",
+   "q": "taz",
+   "d": "2026-09-09T14:26:00+00:00"
+  },
   {
    "t": "US-Außenminister in Südamerika: Rubio besucht Kolumbien",
    "s": "Marco Rubio trifft den neuen ultrarechten kolumbianischen Präsidenten Abelardo de la Espriella. Kernthemen sind Rohstoffe und militärische Zusammenarbeit.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Nach-dem-Erdbeben-in-Kolumbien/!6205484/",
    "q": "taz",
    "d": "2026-08-20T05:04:00+00:00"
-  },
-  {
-   "t": "Sanktionen gegen Spitzenjuristen: USA eskalieren Streit mit internationalem Gericht",
-   "s": "US-Regierung erhebt Sanktionen gegen Präsidentin und Spitzenjuristen des IStGH. Gericht wirft Washington Untergrabung der Rechtsstaatlichkeit vor.",
-   "u": "https://taz.de/Internationaler-Strafgerichtshof/!6205475/",
-   "q": "taz",
-   "d": "2026-08-19T07:02:00+00:00"
   }
  ]
 }
