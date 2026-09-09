@@ -153,6 +153,23 @@
   .hold-del .hold-lbl{position:relative;z-index:1}
   .hold-del.active .hold-lbl{color:#fff}
 
+  /* ── Übungen sortieren ── */
+  .sort-list{border-top:1px solid var(--line)}
+  .sort-row{display:grid;grid-template-columns:30px 1fr 44px 44px;gap:10px;align-items:center;
+    border-bottom:1px solid var(--line);padding:12px 0;background:var(--paper)}
+  .sort-n{font-family:var(--display);font-size:14px;font-weight:500;color:var(--ink-faint)}
+  .sort-name{font-size:16px;line-height:1.3;min-width:0;overflow-wrap:anywhere}
+  .sort-btn{width:44px;height:44px;border:1.5px solid var(--line);border-radius:12px;background:var(--paper);
+    color:var(--ink);font-size:17px;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;
+    padding:0;font-family:inherit;touch-action:manipulation;transition:background .15s,border-color .15s}
+  .sort-btn:active{background:var(--press);border-color:var(--ink-mute)}
+  .sort-btn:disabled{opacity:.28;cursor:default}
+  /* Die Zeile faehrt sichtbar an ihren neuen Platz, statt dort aufzutauchen. */
+  .sort-row.gleiten{transition:transform .24s cubic-bezier(.22,.61,.36,1)}
+  .sort-row.bewegt{position:relative;z-index:2;box-shadow:0 8px 22px rgba(52,51,48,0.14)}
+  body.dark .sort-row.bewegt{box-shadow:0 8px 22px rgba(0,0,0,0.45),0 0 0 1px var(--line)}
+  .sort-note{font-size:12.5px;color:var(--ink-soft);line-height:1.5;margin:18px 0 0}
+
   .empty-plans{text-align:center;padding:60px 20px 40px;max-width:380px;margin:0 auto}
   .empty-plans .empty-mark{width:72px;height:72px;border:1.5px dashed var(--line);border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:var(--display);font-size:38px;font-weight:400;color:var(--ink-faint);margin:0 auto 24px;background:transparent;cursor:pointer;transition:all .2s;padding:0}
   .empty-plans .empty-mark:active{transform:scale(0.95);border-color:var(--earth);color:var(--earth)}
@@ -335,26 +352,8 @@
   .ex-head{display:grid;grid-template-columns:34px 1fr auto;gap:16px;align-items:center;
     padding:26px 0;cursor:pointer;transition:padding-left .3s}
   .ex.open .ex-head{padding-left:12px}
-  .ex-num{font-family:var(--display);font-size:15px;font-weight:500;color:var(--khaki);
-    position:relative;-webkit-user-select:none;user-select:none;-webkit-touch-callout:none;
-    /* Ohne das uebernimmt iOS die Beruehrung als Scrollen, schickt pointercancel
-       und das Ziehen ist vorbei, bevor es angefangen hat. */
-    touch-action:none}
-  /* Griff zum Sortieren: Tippflaeche auf 44px, ohne die Zeile zu veraendern. */
-  .ex-num::before{content:"";position:absolute;inset:-14px -12px}
+  .ex-num{font-family:var(--display);font-size:15px;font-weight:500;color:var(--khaki)}
   .ex.filled .ex-num{color:var(--blue)}
-  /* ── Übungen sortieren ── */
-  .ex.dragging{position:relative;z-index:6;background:var(--paper);border-bottom-color:transparent;
-    border-radius:14px;box-shadow:0 14px 34px rgba(52,51,48,0.20)}
-  /* Im Dunkeln traegt der Schatten kaum; ein Rand hebt die Zeile ab (wie beim Hinweis). */
-  body.dark .ex.dragging{box-shadow:0 14px 34px rgba(0,0,0,0.5),0 0 0 1px var(--line)}
-  .ex.dragging .ex-head{padding-left:12px}
-  .ex.dragging .ex-num{color:var(--ink-soft)}
-  .ex.shifting{transition:transform .22s cubic-bezier(.22,.61,.36,1)}
-  .ex.dropping{transition:transform .26s cubic-bezier(.22,.61,.36,1),box-shadow .26s ease,border-radius .26s ease}
-  .ex.dropping{box-shadow:0 0 0 rgba(0,0,0,0);border-radius:0}
-  body.reordering{-webkit-user-select:none;user-select:none}
-  .reorder-hint{font-size:11.5px;color:var(--ink-soft);opacity:.55;margin-top:18px;line-height:1.45}
   .ex-info{min-width:0}
   .ex-info h3{font-size:19px;line-height:1.25}
   .ex-meta{font-size:13.5px;color:var(--ink-soft);margin-top:5px;line-height:1.5}
@@ -1337,6 +1336,19 @@ window._boot=(function(){
   </div>
 </div>
 
+<div class="plan-overlay" id="sortOverlay">
+  <div class="plan-sheet">
+    <div class="plan-top">
+      <div>
+        <h1 class="plan-title">Übungen sortieren</h1>
+      </div>
+      <button class="plan-close" onclick="closeExSort()" aria-label="Schließen">×</button>
+    </div>
+    <div class="plan-sub" id="sortSub"></div>
+    <div id="sortList" class="sort-list"></div>
+  </div>
+</div>
+
 <div class="plan-overlay" id="prefsOverlay">
   <div class="plan-sheet">
     <div class="plan-top">
@@ -1888,6 +1900,69 @@ function orderedEx(day,list){
   return list.map((e,i)=>({e,i,p:pos.has(e.id)?pos.get(e.id):Infinity}))
     .sort((a,b)=>a.p-b.p||a.i-b.i).map(x=>x.e);
 }
+/* ── Übungen sortieren (Menü) ──
+   Nur Tippen, keine Geste: auf dem iPhone reisst Safari eine Zieh-Geste an
+   sich, sobald der Finger sich bewegt. Zwei Knoepfe je Zeile koennen das nicht. */
+let sortDay=null;
+function openExSort(){
+  sortDay=store.active?store.active.day:(dayPick||nextDay());
+  renderExSort();
+  document.getElementById("sortOverlay").classList.add("open");
+}
+function closeExSort(){
+  document.getElementById("sortOverlay").classList.remove("open");
+  sortDay=null;
+  renderTrain();
+}
+function renderExSort(){
+  const ex=planFor(sortDay);
+  document.getElementById("sortSub").textContent=`Tag ${sortDay} · ${dayLabel(sortDay)}`;
+  const rows=ex.map((e,i)=>`<div class="sort-row" data-id="${e.id}">
+    <span class="sort-n">${String(i+1).padStart(2,"0")}</span>
+    <span class="sort-name">${esc(exName(e.id))}</span>
+    <button type="button" class="sort-btn" onclick="moveEx('${e.id}',-1)" ${i===0?"disabled":""}
+      aria-label="${esc(exName(e.id))} nach oben">↑</button>
+    <button type="button" class="sort-btn" onclick="moveEx('${e.id}',1)" ${i===ex.length-1?"disabled":""}
+      aria-label="${esc(exName(e.id))} nach unten">↓</button>
+  </div>`).join("");
+  document.getElementById("sortList").innerHTML=rows+
+    `<p class="sort-note">Die Reihenfolge gilt für Tag ${sortDay} und wird sofort gespeichert.</p>`;
+}
+function moveEx(id,dir){
+  const ex=planFor(sortDay),i=ex.findIndex(e=>e.id===id);
+  if(i<0)return;
+  const ziel=i+dir;
+  if(ziel<0||ziel>=ex.length)return;
+  const vor=new Map([...document.querySelectorAll(".sort-row")].map(r=>[r.getAttribute("data-id"),r.offsetTop]));
+  const ids=ex.map(e=>e.id);
+  ids.splice(ziel,0,ids.splice(i,1)[0]);
+  saveExOrder(sortDay,ids);
+  renderExSort();
+  /* FLIP: erst an den alten Platz zuruecksetzen, dann in einem Rutsch dorthin
+     fahren, wo die Zeile jetzt steht. */
+  const neu=[...document.querySelectorAll(".sort-row")];
+  neu.forEach(r=>{
+    const alt=vor.get(r.getAttribute("data-id"));
+    if(alt==null)return;
+    const d=alt-r.offsetTop;
+    if(!d)return;
+    r.style.transform=`translateY(${d}px)`;
+    if(r.getAttribute("data-id")===id)r.classList.add("bewegt");
+  });
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    neu.forEach(r=>{
+      if(!r.style.transform)return;
+      r.classList.add("gleiten");
+      r.style.transform="";
+    });
+  }));
+  setTimeout(()=>neu.forEach(r=>{r.classList.remove("gleiten","bewegt");r.style.transform=""}),300);
+  /* Der Knopf wandert mit der Zeile — ohne das verliert man nach jedem Tipp den
+     Faden. preventScroll, sonst springt die Ansicht mitten in die Animation. */
+  const wieder=document.querySelector(`.sort-row[data-id="${id}"] .sort-btn:nth-of-type(${dir<0?1:2})`);
+  if(wieder&&!wieder.disabled)wieder.focus({preventScroll:true});
+  if(navigator.vibrate)navigator.vibrate(12);
+}
 function saveExOrder(day,ids){
   store.order=store.order||{};
   store.order[day]=ids;
@@ -2169,9 +2244,9 @@ function renderTrain(){
     if(!draft[e.id]){const p=prevSets[lg.length]||prevSets[0]||null;draft[e.id]={kg:p?p.kg:defKg(e.id),reps:p?p.reps:8}}
     const dr=draft[e.id];
     const eName=exName(e.id),eScheme=exScheme(e.id)||e.scheme;
-    h+=`<div class="ex ${openEx===e.id?'open':''} ${justOpened===e.id?'opening':''} ${lg.length?'filled':''}" data-id="${e.id}">
+    h+=`<div class="ex ${openEx===e.id?'open':''} ${justOpened===e.id?'opening':''} ${lg.length?'filled':''}">
       <div class="ex-head" onclick="toggleEx('${e.id}')">
-        <div class="ex-num" aria-label="Übung ${i+1}, gedrückt halten zum Verschieben" style="color:${day==="A"?(i%2?'var(--glow)':'var(--earth)'):(i%2?'var(--green-lite)':'var(--green)')}">${String(i+1).padStart(2,"0")}</div>
+        <div class="ex-num" style="color:${day==="A"?(i%2?'var(--glow)':'var(--earth)'):(i%2?'var(--green-lite)':'var(--green)')}">${String(i+1).padStart(2,"0")}</div>
         <div class="ex-info">${editEx===e.id?`
           <div class="edit-form" onclick="event.stopPropagation()">
             <div class="field stack"><div class="cap" style="text-align:left">Name</div>
@@ -2222,7 +2297,7 @@ function renderTrain(){
   }
   h+=`</div>`;
   const sortNote=ex.length>1?
-    `<p class="reorder-hint">Die Nummer links gedrückt halten, um eine Übung zu verschieben.</p>`:"";
+    `<button type="button" class="plan-link" onclick="openExSort()">Übungen sortieren</button>`:"";
   const switchNote=kraftDays().length>1?
     `<p style="font-size:11.5px;color:var(--ink-soft);opacity:.55;margin-top:18px">Tippe oben auf den Buchstaben, um das Training zu wechseln.</p>`:"";
   const planNote=`<button type="button" class="plan-link" onclick="openPlanMgr()">Einheiten verwalten</button>`;
@@ -3437,7 +3512,7 @@ document.addEventListener("pointercancel",endSwipe,{passive:true});
 let lpTimer=null,lpFired=false;
 document.addEventListener("pointerdown",e=>{
   const head=e.target.closest(".ex-head");
-  if(!head||e.target.closest("input,select,.edit-form,.ex-num"))return;
+  if(!head||e.target.closest("input,select,.edit-form"))return;
   const exEl=head.closest(".ex");if(!exEl)return;
   const m=head.getAttribute("onclick")?.match(/toggleEx\('([^']+)'\)/);
   if(!m)return;
@@ -3456,122 +3531,6 @@ document.addEventListener("pointercancel",()=>{clearTimeout(lpTimer);lpTimer=nul
 
 const origToggleEx=toggleEx;
 toggleEx=function(id){if(lpFired){lpFired=false;return}origToggleEx(id)};
-
-/* ── Übungen sortieren: Long Press auf die Nummer ──
-   Die gezogene Zeile bleibt im Fluss stehen und wird nur verschoben; die
-   anderen weichen um genau ihre Hoehe aus. So bleibt das Loch immer so gross
-   wie die Zeile, auch wenn die Zeilen unterschiedlich hoch sind. */
-let dragLpTimer=null,drag=null;
-function exRows(){return [...document.querySelectorAll("#viewTrain .list > .ex[data-id]")]}
-function startExDrag(id,y){
-  const rows=exRows();
-  const from=rows.findIndex(r=>r.getAttribute("data-id")===id);
-  if(from<0||rows.length<2)return;
-  const geo=rows.map(r=>({el:r,top:r.offsetTop,h:r.offsetHeight}));
-  /* Gerechnet wird im Dokument, nicht im Fenster: sonst verrutscht alles,
-     sobald die Seite waehrend des Ziehens mitscrollt. */
-  drag={id,rows:geo,from,to:from,y0:y+window.scrollY,dy:0,y:y,h:geo[from].h,
-        day:store.active?store.active.day:(dayPick||nextDay())};
-  document.body.classList.add("reordering");
-  dragScrollRAF=requestAnimationFrame(dragScroll);
-  geo.forEach((g,i)=>{if(i!==from)g.el.classList.add("shifting")});
-  geo[from].el.classList.add("dragging");
-  if(navigator.vibrate)navigator.vibrate(30);
-}
-/* Am Rand zieht die Liste mit — sonst reicht der Weg nur bis zum
-   Bildschirmrand und laengere Plaene lassen sich nicht umsortieren. */
-let dragScrollRAF=null;
-const DRAG_EDGE=96,DRAG_SPEED=14;
-function dragScroll(){
-  if(!drag){dragScrollRAF=null;return}
-  const h=window.innerHeight;
-  let d=0;
-  if(drag.y<DRAG_EDGE)d=-DRAG_SPEED*(1-drag.y/DRAG_EDGE);
-  else if(drag.y>h-DRAG_EDGE)d=DRAG_SPEED*(1-(h-drag.y)/DRAG_EDGE);
-  if(d){
-    const vor=window.scrollY;
-    window.scrollBy(0,d);
-    if(window.scrollY!==vor)moveExDrag(drag.y);
-  }
-  dragScrollRAF=requestAnimationFrame(dragScroll);
-}
-function moveExDrag(y){
-  if(!drag)return;
-  drag.y=y;
-  drag.dy=y+window.scrollY-drag.y0;
-  const g=drag.rows,from=drag.from;
-  const center=g[from].top+g[from].h/2+drag.dy;
-  let to=from;
-  if(drag.dy<0){for(let i=from-1;i>=0;i--){if(center<g[i].top+g[i].h/2)to=i;else break}}
-  else{for(let i=from+1;i<g.length;i++){if(center>g[i].top+g[i].h/2)to=i;else break}}
-  drag.to=to;
-  g[from].el.style.transform=`translateY(${drag.dy}px) scale(1.015)`;
-  g.forEach((r,i)=>{
-    if(i===from)return;
-    const shift=(to>from&&i>from&&i<=to)?-drag.h:(to<from&&i>=to&&i<from)?drag.h:0;
-    r.el.style.transform=shift?`translateY(${shift}px)`:"";
-  });
-}
-function endExDrag(){
-  if(!drag)return;
-  const d=drag;drag=null;
-  if(dragScrollRAF){cancelAnimationFrame(dragScrollRAF);dragScrollRAF=null}
-  document.body.classList.remove("reordering");
-  lastSwipe=Date.now(); // der folgende Klick ist Teil der Geste, kein Tipp
-  const g=d.rows,el=g[d.from].el;
-  /* Endpunkt ist die Kante des Lochs, nicht die Fingerposition — die Zeile
-     rastet sichtbar ein, statt an Ort und Stelle zu verschwinden. */
-  let end=0;
-  if(d.to>d.from)for(let i=d.from+1;i<=d.to;i++)end+=g[i].h;
-  else for(let i=d.to;i<d.from;i++)end-=g[i].h;
-  const fertig=()=>{
-    if(d.to!==d.from){
-      const ids=g.map(x=>x.el.getAttribute("data-id"));
-      ids.splice(d.to,0,ids.splice(d.from,1)[0]);
-      saveExOrder(d.day,ids);
-    }
-    renderTrain();
-  };
-  el.classList.add("dropping");
-  el.style.transform=`translateY(${end}px)`;
-  g.forEach((r,i)=>{if(i!==d.from)r.el.classList.remove("shifting")});
-  let done=false;
-  const fin=()=>{if(done)return;done=true;el.removeEventListener("transitionend",fin);fertig()};
-  el.addEventListener("transitionend",fin);
-  setTimeout(fin,320);
-}
-let dragLpFrom=null;
-document.addEventListener("pointerdown",e=>{
-  const num=e.target.closest(".ex-num");
-  if(!num||cat!=="kraft"||tab!=="train"||editEx)return;
-  const row=num.closest(".ex[data-id]");
-  if(!row)return;
-  const id=row.getAttribute("data-id"),y=e.clientY,pid=e.pointerId;
-  dragLpFrom={x:e.clientX,y};
-  dragLpTimer=setTimeout(()=>{
-    dragLpTimer=null;
-    /* Eine offene Uebung waere waehrend des Ziehens ein Hochhaus. */
-    if(openEx){openEx=null;renderTrain()}
-    startExDrag(id,y);
-    /* Den Zeiger festhalten, sonst gehen die Bewegungen verloren, sobald der
-       Finger die schmale Nummer verlaesst — und die Zeile bleibt stehen. */
-    if(drag){
-      const griff=document.querySelector(`.ex[data-id="${id}"] .ex-num`);
-      try{if(griff&&griff.setPointerCapture)griff.setPointerCapture(pid)}catch(err){}
-    }
-  },500);
-},{passive:true});
-document.addEventListener("pointermove",e=>{
-  /* movementX/Y ist bei Beruehrungen nicht verlaesslich — lieber selbst messen. */
-  if(dragLpTimer&&dragLpFrom&&(Math.abs(e.clientX-dragLpFrom.x)>8||Math.abs(e.clientY-dragLpFrom.y)>8)){
-    clearTimeout(dragLpTimer);dragLpTimer=null;
-  }
-  if(drag)moveExDrag(e.clientY);
-},{passive:true});
-/* Zusaetzlich zum touch-action am Griff: haelt das Gummiband am Seitenende an. */
-document.addEventListener("touchmove",e=>{if(drag)e.preventDefault()},{passive:false});
-document.addEventListener("pointerup",()=>{clearTimeout(dragLpTimer);dragLpTimer=null;endExDrag()},{passive:true});
-document.addEventListener("pointercancel",()=>{clearTimeout(dragLpTimer);dragLpTimer=null;endExDrag()},{passive:true});
 
 /* ── Long Press auf einen Uebungsnamen im Bearbeiten-Formular ── */
 let exLpTimer=null;
