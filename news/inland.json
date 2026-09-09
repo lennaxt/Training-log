@@ -1,7 +1,21 @@
 {
  "name": "Inland",
- "updated": "2026-09-09T18:37:39+00:00",
+ "updated": "2026-09-09T23:16:00+00:00",
  "items": [
+  {
+   "t": "BSW geht in Sachsen-Anhalt in Gespräche mit AfD",
+   "s": "Eingeladen hatte die AfD alle Parteien - CDU, SPD, Grüne und Linke lehnten das Gesprächsangebot zur Regierungsbildung in Sachsen-Anhalt aber ab. Anders das BSW: Die Parteien wollen unter anderem über \"Friedenspolitik\" sprechen.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/bsw-gespraeche-sachsen-anhalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T23:11:07+00:00"
+  },
+  {
+   "t": "Bundeskanzler Merz: AfD-Verbot löst das Problem nicht",
+   "s": "Der Umgang mit der AfD beschäftigt die Politik nach der Wahl in Sachsen-Anhalt verstärkt - auch die Frage nach einem Verbotsverfahren. Der Kanzler bleibt skeptisch und sieht einen anderen Weg.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-afd-verbot-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T19:38:18+00:00"
+  },
   {
    "t": "Rekord-Etat: Jeder fünfte Euro für die Verteidigung",
    "s": "So viel Geld wie noch nie steht 2027 für die Bundeswehr bereit. Doch mit dem Rekord-Etat kommen die Fragen: Wird das Geld richtig eingesetzt? Und was bleibt für andere Aufgaben des Staates? Von Christina Nagel und Philipp Jahn.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Warnung-vor-Hamas-Angriff/!6211758/",
    "q": "taz",
    "d": "2026-09-09T14:48:00+00:00"
-  },
-  {
-   "t": "Tödliche Falle - Wie Fischernetze für Meereslebewesen sicherer werden",
-   "s": "Fischers Fritz fischt frische Fische? Leider nicht nur: In den Netzen bleiben viele Tiere unbeabsichtigt hängen - entweder als Beifang oder als Opfer herrenloser Geisternetze im Meer. Mit einer neuen Technik ließe sich beides verhindern.Seynsche, Monika",
-   "u": "https://www.deutschlandfunk.de/toedliche-gefahr-wie-sich-tiere-vor-fischernetzen-schuetzen-lassen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-09T14:36:07+00:00"
-  },
-  {
-   "t": "PISA-Ergebnisse zeigen laut Schülervertretung \"politisches Versagen\"",
-   "s": "Deutschlands 15-Jährige erreichen bei PISA so schlechte Werte wie nie zuvor. Woran liegt es? Die Bundesschülerkonferenz wertet die Ergebnisse als \"politisches Versagen\". Nötig seien strukturelle Veränderungen - und weniger Druck.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/debatte-pisa-ergebnisse-schule-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T14:27:40+00:00"
   }
  ]
 }
