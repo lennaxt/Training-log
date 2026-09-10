@@ -1,7 +1,28 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-09T18:37:41+00:00",
+ "updated": "2026-09-10T08:09:35+00:00",
  "items": [
+  {
+   "t": "Teures Heizöl - warten oder kaufen?",
+   "s": "Der Ölpreis ist hoch, die Heizsaison beginnt schon bald. Viele Verbraucher sind verunsichert. Lohnt es sich jetzt, Heizöl zu bestellen? Oder soll man auf sinkende Preise warten? Von Felix Mannheim und Jörg Marksteiner.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/oelpreise-heizen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T06:33:33+00:00"
+  },
+  {
+   "t": "Marktbericht: Anleger warten auf den EZB-Zinsentscheid",
+   "s": "Nach den gestrigen Kursverlusten dürfte der DAX heute kaum verändert in den Handel starten. Die Anleger warten gespannt auf den Zinsentscheid der EZB. Sie hoffen insbesondere auf Hinweise zur weiteren Geldpolitik.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T05:52:13+00:00"
+  },
+  {
+   "t": "Apple-Präsentation: Neues iPhone ist faltbar und sehr teuer",
+   "s": "Bei seinem großen Werbe-Event hat Apple das erste faltbare iPhone präsentiert. Obwohl Falthandys als Nischensegment gelten und die Konkurrenz sie schon länger anbietet, setzt Apple große Erwartungen in das teure Gerät. Von G. Biesinger.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/apple-iphone-faltbar-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-09T19:58:46+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 09.09.2026",
    "s": "Wirtschaft vor acht vom 09.09.2026",
@@ -17,13 +38,6 @@
    "d": "2026-09-09T16:56:39+00:00"
   },
   {
-   "t": "Marktbericht: Ölpreis über 100 Dollar belastet DAX",
-   "s": "Neue Angriffe im Nahen Osten haben den Ölpreis Brent über die Marke von 100 Dollar pro Fass getrieben. Das belastet die Börsen weltweit: Hierzulande schließt der DAX tief im Minus, auch die US-Börsen fallen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T16:15:45+00:00"
-  },
-  {
    "t": "Haushaltsentwurf - Eine gigantische Neuverschuldung und viele Fragezeichen",
    "s": "Der Staat hat viel Geld in die Hand genommen, um die Missstände in Deutschland anzugehen. Dabei bleiben aber viele Fragen offen: Entfacht das Geld nur ein konjunkturelles Strohfeuer? Werden Lücken gestopft, statt in Infrastruktur investiert?Von Jörg Münchenberg",
    "u": "https://www.deutschlandfunk.de/bundeshaushalt-investitionen-neuverschuldung-klingbeil-kommentar-100.html",
@@ -36,13 +50,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/lkw-fahrer-mangel-102.html",
    "q": "Tagesschau",
    "d": "2026-09-09T15:16:05+00:00"
-  },
-  {
-   "t": "US-Rüstungsfirma will ab 2027 Langstrecken-Marschflugkörper in Sachsen bauen",
-   "s": "Das US-Unternehmen Covenant plant den Aufbau seines weltweit größten Produktionsstandorts bei Leipzig. Vom kommenden Jahr an soll dort der Langstrecken-Marschflugkörper \"Anthem\" gefertigt werden.",
-   "u": "https://www.tagesschau.de/inland/regional/sachsen/langstrecken-flugkoerper-anthem-produktion,covenant-ruestungsfirma-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T14:45:59+00:00"
   },
   {
    "t": "Klimawandel - Wie Deutschland sein Stromnetz für die Zukunft rüstet",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-100.html",
    "q": "Tagesschau",
    "d": "2026-09-07T14:13:56+00:00"
-  },
-  {
-   "t": "VW-Werk Osnabrück soll Rüstungsstandort werden",
-   "s": "Volkswagen will das Werk Osnabrück an den israelischen Finanzinvestor Aurelius und das Land Niedersachsen verkaufen. Künftig sollen dort Rüstungsgüter gefertigt werden. Drei Viertel der Jobs könnten so erhalten werden.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ruestung-osnabrueck-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T12:29:56+00:00"
   }
  ]
 }

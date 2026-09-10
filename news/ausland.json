@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-09-09T18:37:40+00:00",
+ "updated": "2026-09-10T08:09:34+00:00",
  "items": [
+  {
+   "t": "Trump lockt auf Parteitag Wähler mit 5.000-Dollar-Versprechen",
+   "s": "Den Republikanern droht bei den US-Kongresswahlen im November eine Schlappe. Die Umfragewerte von Präsident Trump sinken. Er versucht, das Ruder herumzureißen - und verspricht im Falle eines Wahlsiegs 5.000 Dollar für jeden Erwachsenen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/parteitag-republikaner-dallas-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T07:03:50+00:00"
+  },
+  {
+   "t": "Spanischer Geheimdienst warnte vor Ausnahmesituation in Ceuta",
+   "s": "Ende Juli kamen binnen Stunden Zehntausende Migranten nach Ceuta. Neue Dokumente zeigen nun: Der spanische Geheimdienst hatte vor der beispiellosen Massenankunft von Menschen aus Marokko in der Exklave gewarnt.",
+   "u": "https://www.tagesschau.de/ausland/europa/geheimdienst-warnte-offenbar-vor-andrang-in-ceuta-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T05:15:06+00:00"
+  },
+  {
+   "t": "Ukraine: Staatsanwaltschaft an Betrug über \"Callcenter\" beteiligt?",
+   "s": "In der Ukraine gehen die Behörden gegen Mitarbeiter der Generalstaatsanwaltschaft vor. Sie sollen an systematischem Betrug über angebliche \"Callcenter\" beteiligt gewesen sein. Der Fall ist auch für Präsident Selenskyj heikel. Von F. Kellermann.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-korruptionsermittlungen-staatsanwaltschaft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T00:37:15+00:00"
+  },
+  {
+   "t": "Argentiniens Präsident Milei wittert Chance im Falkland-Streit",
+   "s": "Argentiniens Präsident Milei heizt den alten Konflikt um die Falklandinseln wieder an. Dabei hofft er auf Rückendeckung von US-Präsident Trump. Konzerne, die vor den Inseln nach Öl suchen, stehen zunehmend unter Druck. Von Anne Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/argentinien-falkland-trump-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T00:29:28+00:00"
+  },
   {
    "t": "Bericht über Warnung vor Hamas-Überfall: Netanjahu plant Klage",
    "s": "Ein Bericht der Zeitung Haaretz erhebt einen brisanten Vorwurf gegen Israels Premier Netanjahu: Er soll eine ausdrückliche Warnung vor einem Großangriff der Hamas eineinhalb Wochen vor dem Überfall ignoriert haben. Netanjahu dementiert - und will klagen.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/polen-afd-wahlsieg-reaktionen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-07T16:42:48+00:00"
-  },
-  {
-   "t": "Wie der AfD-Wahlsieg in Sachsen-Anhalt in Frankreich bewertet wird",
-   "s": "Auch in Frankreich ist der AfD-Sieg in Sachsen-Anhalt Thema. Viele Politiker sind entsetzt - gilt die AfD doch als noch extremer als der Rassemblement National. Dessen Frontfrau Le Pen schweigt zum deutschen Wahlergebnis. Von Julia Borutta.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-reaktionen-wahl-sachsen-anhalt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T13:29:32+00:00"
-  },
-  {
-   "t": "US-Sondergesandte in Kiew: \"Beide Seiten müssen Kompromisse eingehen\"",
-   "s": "Bei ihrem Besuch in Kiew erklärten Kushner und Witkoff, die \"Zutaten\" für einen Frieden zwischen Russland und der Ukraine seien alle vorhanden. Der ukrainische Präsident Selenskyj scheint da weniger Hoffnung zu haben. Von Peter Sawicki.",
-   "u": "https://www.tagesschau.de/ausland/europa/kiew-besuch-witkoff-kushner-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T09:36:09+00:00"
-  },
-  {
-   "t": "Signal an die USA: EU plant mehr Investitionen in Grönland",
-   "s": "\"Wir sind Familie\", betonte EU-Kommissionspräsidentin von der Leyen bei ihrer Ankunft in Grönland. Nun will sie die Partnerschaft mit einem großen Finanzpaket stärken - auch als Signal gegen die Gebietsansprüche der USA.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-investitionen-groenland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T06:38:27+00:00"
-  },
-  {
-   "t": "Gegenseitige Angriffe: Schiffsverkehr in Straße von Hormus eingebrochen",
-   "s": "Die USA und Iran greifen immer wieder Tanker in der Straße von Hormus an. Der Schiffsverkehr in der Meerenge ist auf dem niedrigsten Stand seit Mai. Iran plant außerdem die Einrichtung einer Sperrzone.",
-   "u": "https://www.tagesschau.de/ausland/asien/iran-strasse-von-hormus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T03:27:09+00:00"
   }
  ]
 }
