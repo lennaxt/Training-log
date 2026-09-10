@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-09T23:16:05+00:00",
+ "updated": "2026-09-10T08:09:38+00:00",
  "items": [
+  {
+   "t": "Schweden vor den Wahlen: Mit niedlichen Hummeln um Wähler kämpfen",
+   "s": "Am Sonntag wählt Schweden. Die rechtspopulistischen Schwedendemokraten sind auf dem Vormarsch, die Opposition wirkt dagegen blass. Ein Besuch am Wahlstand.",
+   "u": "https://taz.de/Schweden-vor-den-Wahlen/!6211689/",
+   "q": "taz",
+   "d": "2026-09-10T07:12:00+00:00"
+  },
+  {
+   "t": "Schweden vor der Parlamentswahl: Auf dem Sprung",
+   "s": "Die rechtspopulistischen Schwedendemokraten könnten der nächsten Regierung angehören. Das rechtskonservative Lager hätte keine Berührungsängste.",
+   "u": "https://taz.de/Schweden-vor-der-Parlamentswahl/!6211690/",
+   "q": "taz",
+   "d": "2026-09-10T05:26:00+00:00"
+  },
   {
    "t": "Korruption in der Ukraine: Teurer Schmuck und viel Bargeld",
    "s": "Der Generalstaatsanwalt und sein Vize treten zurück. Ein hochrangiger Vertreter der Behörde und seine Lebensgefährtin werden festgenommen.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Exklave-Ceuta/!6210508/",
    "q": "taz",
    "d": "2026-09-05T14:41:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: Für Trumps Schwiegersohn macht Putin eine Ausnahme",
-   "s": "Jared Kushner und Trumps Golfpartner Steve Witkoff sind auf Friedensmission in Moskau – und fliegen dann in die Ukraine. Russlands Präsident hat dafür 72 Stunden Pause für Angriffe auf Kyjiw angeordnet.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6210492/",
-   "q": "taz",
-   "d": "2026-09-05T11:18:00+00:00"
-  },
-  {
-   "t": "Return Hubs in der EU: Dänemark will in „Partnerländer“ abschieben",
-   "s": "Die Härte der EU-Asylpolitik nimmt Formen an. Dänemark will schon 2027 abgelehnte Asyl­be­wer­be­r:in­nen in Abschiebezentren außerhalb der EU bringen.",
-   "u": "https://taz.de/Return-Hubs-in-der-EU/!6210468/",
-   "q": "taz",
-   "d": "2026-09-04T17:37:00+00:00"
   }
  ]
 }
