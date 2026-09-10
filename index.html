@@ -456,7 +456,6 @@
   .foot-link:active{background:var(--press)}
   .foot-link::after{content:"";width:7px;height:7px;flex:none;margin-right:5px;
     border-right:1.5px solid var(--ink-faint);border-top:1.5px solid var(--ink-faint);transform:rotate(45deg)}
-  .switch-note{font-size:11.5px;line-height:1.45;color:var(--ink-soft);opacity:.6;margin-top:22px}
   .newrow .ex-num{color:var(--blue)}
   .newrow h3{font-size:19px;color:var(--blue)}
   .newform{padding:0}
@@ -2344,13 +2343,11 @@ function renderTrain(){
     </div>`;
   }
   h+=`</div>`;
-  const switchNote=kraftDays().length>1?
-    `<p class="switch-note">Tippe oben auf den Buchstaben, um das Training zu wechseln.</p>`:"";
   const sortLink=ex.length>1?
     `<button type="button" class="foot-link" onclick="openExSort()">Übungen sortieren</button>`:"";
   const foot=`<div class="train-foot">${sortLink}
     <button type="button" class="foot-link" onclick="openPlanMgr()">Einheiten verwalten</button></div>`;
-  v.innerHTML=h+`</div>`+switchNote+foot;
+  v.innerHTML=h+`</div>`+foot;
   justOpened=null;
   if(newOpen){const f=document.getElementById("nfName");if(f&&!newName)f.focus()}
 }
