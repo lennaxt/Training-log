@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-09-10T18:29:54+00:00",
+ "updated": "2026-09-10T23:11:34+00:00",
  "items": [
+  {
+   "t": "Huthi-Miliz nimmt laut Berichten Hafenstadt im Jemen ein",
+   "s": "Die Huthi haben im Jemen eine Offensive auf das Küstengebiet gestartet. Medienberichten zufolge nahm die vom Iran unterstützte Miliz nun die Hafenstadt Mokka ein - und kontrolliert damit einen Zugang zu einer strategisch wichtigen Meerenge.",
+   "u": "https://www.tagesschau.de/ausland/asien/huthi-jemen-114.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T19:23:15+00:00"
+  },
   {
    "t": "Emirate investieren 40 Milliarden Euro in Deutschland",
    "s": "Deutschland und die Vereinigten Arabischen Emirate wollen ihre Beziehungen ausbauen. Der Golfstaat plant Investitionen von 40 Milliarden Euro. Zudem darf die Fluggesellschaft Emirates eine weitere deutsche Stadt anfliegen. Von Nicole Markwald.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/miami-flugzeug-unfall-amazon-cargo-blackbox-100.html",
    "q": "Tagesschau",
    "d": "2026-09-08T08:25:27+00:00"
-  },
-  {
-   "t": "Ende der Amtszeit: Was Baerbock bei den UN angestoßen hat",
-   "s": "Als Präsidentin der UN-Generalversammlung wollte sich Annalena Baerbock für Reformen einsetzen. In ihrer einjährigen Amtszeit brachte sie Veränderungen auf den Weg - stieß aber auch auf Widerstand. Von Giselle Ucar.",
-   "u": "https://www.tagesschau.de/ausland/amerika/baerbock-un-amtszeit-ende-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T06:06:06+00:00"
   }
  ]
 }
