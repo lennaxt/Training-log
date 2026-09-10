@@ -448,10 +448,16 @@
   .newrow{display:grid;grid-template-columns:34px 1fr auto;gap:16px;align-items:baseline;width:100%;
     background:none;border:0;padding:26px 0;cursor:pointer;text-align:left;transition:padding-left .3s}
   .newrow:active{padding-left:12px}
-  .plan-link{display:block;margin:26px auto 0;background:none;border:none;min-height:44px;padding:0 8px;
-    font-family:'Inter',sans-serif;font-size:12px;font-weight:500;letter-spacing:0.14em;text-transform:uppercase;
-    color:var(--ink-faint);cursor:pointer}
-  .plan-link:active{color:var(--ink)}
+  /* Zwei Wege, die aus der Liste herausfuehren: als Zeilen mit Pfeil erkennbar,
+     nicht als zwei gleich aussehende Grosskappen-Zeilen mit Text dazwischen. */
+  .train-foot{margin-top:32px;border-top:1px solid var(--line)}
+  .foot-link{display:flex;align-items:center;justify-content:space-between;gap:12px;width:100%;
+    background:none;border:0;border-bottom:1px solid var(--line);border-radius:0;
+    padding:18px 2px;min-height:56px;cursor:pointer;text-align:left;
+    font-family:'Inter',sans-serif;font-size:15px;font-weight:500;color:var(--ink);transition:background .15s}
+  .foot-link:active{background:var(--press)}
+  .foot-link::after{content:"";width:7px;height:7px;flex:none;margin-right:5px;
+    border-right:1.5px solid var(--ink-faint);border-top:1.5px solid var(--ink-faint);transform:rotate(45deg)}
   .newrow .ex-num{color:var(--blue)}
   .newrow h3{font-size:19px;color:var(--blue)}
   .newform{padding:0}
@@ -2339,12 +2345,11 @@ function renderTrain(){
     </div>`;
   }
   h+=`</div>`;
-  const sortNote=ex.length>1?
-    `<button type="button" class="plan-link" onclick="openExSort()">Übungen sortieren</button>`:"";
-  const switchNote=kraftDays().length>1?
-    `<p style="font-size:11.5px;color:var(--ink-soft);opacity:.55;margin-top:18px">Tippe oben auf den Buchstaben, um das Training zu wechseln.</p>`:"";
-  const planNote=`<button type="button" class="plan-link" onclick="openPlanMgr()">Einheiten verwalten</button>`;
-  v.innerHTML=h+`</div>`+sortNote+switchNote+planNote;
+  const sortLink=ex.length>1?
+    `<button type="button" class="foot-link" onclick="openExSort()">Übungen sortieren</button>`:"";
+  const foot=`<div class="train-foot">${sortLink}
+    <button type="button" class="foot-link" onclick="openPlanMgr()">Einheiten verwalten</button></div>`;
+  v.innerHTML=h+`</div>`+foot;
   justOpened=null;
   if(newOpen){const f=document.getElementById("nfName");if(f&&!newName)f.focus()}
 }
