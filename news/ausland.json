@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-09-10T08:09:34+00:00",
+ "updated": "2026-09-10T13:36:53+00:00",
  "items": [
+  {
+   "t": "Historischer Teppich in Londoner Museum zieht Menschenmassen an",
+   "s": "Auf 70 Metern Länge erzählt der Wandteppich von Bayeux die normannische Invasion Englands und die Thronbesteigung von Wilhelm \"dem Eroberer\". In London erobert er als seltene Leihgabe die Herzen der Museumsbesucher. Von. C. Prössl.",
+   "u": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T13:00:40+00:00"
+  },
+  {
+   "t": "Ukrainische Journalisten fordern Pressekonferenz von Präsidenten Selenskyj",
+   "s": "Täglich veröffentlicht der ukrainische Präsident Selenskyj seine Videobotschaft - eine Einbahnstraße, kritisieren Journalisten. Sie fordern nach anderthalb Jahren wieder eine große Pressekonferenz für alle Medien. Von F. Kellermann.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-journalisten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T10:39:01+00:00"
+  },
+  {
+   "t": "25 Jahre nach 9/11: Auf die Anschläge folgte die Überwachung",
+   "s": "Die Anschläge am 11. September 2001 haben die US-Sicherheitsbehörden völlig überrascht. Als Konsequenz baute die damalige US-Regierung schnell einen gewaltigen Überwachungsapparat auf - mit Folgen bis heute. Von Carsten Kühntopp.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-11-september-innenpolitik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T10:10:38+00:00"
+  },
   {
    "t": "Trump lockt auf Parteitag Wähler mit 5.000-Dollar-Versprechen",
    "s": "Den Republikanern droht bei den US-Kongresswahlen im November eine Schlappe. Die Umfragewerte von Präsident Trump sinken. Er versucht, das Ruder herumzureißen - und verspricht im Falle eines Wahlsiegs 5.000 Dollar für jeden Erwachsenen.",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
    "q": "Tagesschau",
    "d": "2026-09-08T02:20:08+00:00"
-  },
-  {
-   "t": "Kurs der Bundesregierung: Verändert der AfD-Erfolg die deutsche EU-Politik?",
-   "s": "In der EU stehen in nächster Zeit wichtige Entscheidungen an, etwa beim neuen Haushalt. Diskutiert wird daher, ob der Erfolg der AfD auch Folgen für die EU-Politik der Bundesregierung haben könnte. Von C. Feld und T. Spickhofen.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-reaktionen-afd-sachsen-anhalt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T17:48:48+00:00"
-  },
-  {
-   "t": "Grönland und EU: Sich von Trumps Drohungen nicht mehr beirren lassen",
-   "s": "Die EU will weitere 200 Millionen Euro in Grönland investieren, unter anderem in den Abbau kritischer Rohstoffe. Kommissionschefin von der Leyen setzt damit auch ein Zeichen gegen Drohungen aus Washington. Von K. Schmid.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-groenland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T16:43:02+00:00"
-  },
-  {
-   "t": "AfD-Wahlerfolg: Polen fürchtet Instabilität und Geschichtsrelativierung",
-   "s": "Der Wahlausgang in Sachsen-Anhalt wird auch in Polen genau beobachtet. Gerade die Haltung der AfD zu Russland verunsichert viele Menschen, zudem gibt es die Sorge vor einer geschwächten Bundesregierung. Von Palina Milling.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-afd-wahlsieg-reaktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T16:42:48+00:00"
   }
  ]
 }

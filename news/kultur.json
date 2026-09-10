@@ -1,7 +1,42 @@
 {
  "name": "Kultur",
- "updated": "2026-09-10T08:09:39+00:00",
+ "updated": "2026-09-10T13:36:59+00:00",
  "items": [
+  {
+   "t": "Parteitag der Republikaner in Dallas: Texanische Trump-Verehrung",
+   "s": "In den USA halten die Republikanischer erstmals einen Parteitag vor Zwischenwahlen ab. Trump verspricht Geldgeschenke – wohl wegen schlechter Umfragewerte.",
+   "u": "https://taz.de/Parteitag-der-Republikaner-in-Dallas/!6212149/",
+   "q": "taz",
+   "d": "2026-09-10T11:54:00+00:00"
+  },
+  {
+   "t": "25 Jahre 9/11: Die Suche nach den Opfern geht weiter",
+   "s": "Nicht mal die Hälfte der Menschen, die in den Trümmern des World Trade Centers starben, sind identfiziert. Die Witwe Monica Iken-Murphy hat trotzdem Hoffnung.",
+   "u": "https://taz.de/25-Jahre-9/11/!6212093/",
+   "q": "taz",
+   "d": "2026-09-10T11:40:00+00:00"
+  },
+  {
+   "t": "11. September und Verschwörungsmythen: Zweifeln, Raunen, Umsturz",
+   "s": "Als die Türme fielen, öffnete das Internet dem Misstrauen ganz neue Möglichkeiten. Bis zum Verschwörungs­glauben, der die autoritäre Revolte befördert.",
+   "u": "https://taz.de/11-September-und-Verschwoerungsmythen/!6208899/",
+   "q": "taz",
+   "d": "2026-09-10T10:01:00+00:00"
+  },
+  {
+   "t": "25 Jahre nach 9/11: Rudy Giuliani nimmt es persönlich",
+   "s": "Der frühere New Yorker Bürgermeister stört sich an der Anwesenheit des aktuellen Stadtoberhaupts Zohran Mamdani beim Gedenkakt an diesem Freitag.",
+   "u": "https://taz.de/25-Jahre-nach-9/11/!6212145/",
+   "q": "taz",
+   "d": "2026-09-10T09:20:00+00:00"
+  },
+  {
+   "t": "Wahlkampf in den USA: Darum setzt Trump auf das Feindbild Kommunismus",
+   "s": "Antikommunismus ist in den USA tief verwurzelt. Vor den Zwischenwahlen beschimpft der US-Präsident die Demokraten als „Kommunisten“. Ist das erfolgversprechend?",
+   "u": "https://taz.de/Wahlkampf-in-den-USA/!6212160/",
+   "q": "taz",
+   "d": "2026-09-10T08:06:00+00:00"
+  },
   {
    "t": "Trumps Vertraute Natalie Harp: 45.000 Dollar zu Weihnachten",
    "s": "Natalie Harp gilt als wichtige Frau im engen Zirkel des US-Präsidenten. Die Höhe ihres „Weihnachtsgelds“ sorgt nun für Diskussionen.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Oberstes-Gericht-der-USA/!6206933/",
    "q": "taz",
    "d": "2026-08-25T07:21:00+00:00"
-  },
-  {
-   "t": "Meinungsfreiheit in Honduras: Droht der Rückfall in die Autokratie?",
-   "s": "Seit einem halben Jahr ist Nasry Asfura Präsident von Honduras. Aus Perspektive der Pressefreiheit fällt die Bilanz seiner Amtszeit verheerend aus.",
-   "u": "https://taz.de/Meinungsfreiheit-in-Honduras/!6206739/",
-   "q": "taz",
-   "d": "2026-08-24T14:59:00+00:00"
-  },
-  {
-   "t": "Zollstreit zwischen USA und Kanada: Trump reagiert erbost auf Vergeltungszölle",
-   "s": "Nach dem Scheitern von Verhandlungen eskaliert der Konflikt um Abgaben im Warenverkehr. Wirtschaftsverbände beider Länder warnen vor den Folgen.",
-   "u": "https://taz.de/Zollstreit-zwischen-USA-und-Kanada/!6206303/",
-   "q": "taz",
-   "d": "2026-08-23T10:44:00+00:00"
-  },
-  {
-   "t": "Alexandria Ocasio-Cortez: Pläne, Zweifel und klare Abgrenzungen",
-   "s": "Alexandria Ocasio-Cortez war einmal die Pionierin junger Progressiver bei den US-Demokraten. Jetzt ist sie gesetzter und die heute Jungen überholen.",
-   "u": "https://taz.de/Alexandria-Ocasio-Cortez/!6206026/",
-   "q": "taz",
-   "d": "2026-08-20T17:55:00+00:00"
-  },
-  {
-   "t": "Krieg in Iran: Ratloser Trump droht Teheran mit „Wirtschaftskrieg“",
-   "s": "Weil militärische wie diplomatische Erfolge ausbleiben, verschärft der US-Präsident die Rhetorik. Irans Staatsmedien zeigen sich unbeeindruckt.",
-   "u": "https://taz.de/Krieg-in-Iran/!6205752/",
-   "q": "taz",
-   "d": "2026-08-20T06:51:00+00:00"
-  },
-  {
-   "t": "Nach dem Erdbeben in Kolumbien: Krisenmanagement und mangelndes Taktgefühl",
-   "s": "Zehn Tage nach dem schweren Erdbeben in Kolumbien ist die Bilanz für die neue Regierung durchwachsen. Immerhin: Die Institutionen haben funktioniert.",
-   "u": "https://taz.de/Nach-dem-Erdbeben-in-Kolumbien/!6205484/",
-   "q": "taz",
-   "d": "2026-08-20T05:04:00+00:00"
   }
  ]
 }

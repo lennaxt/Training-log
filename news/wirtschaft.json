@@ -1,20 +1,69 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-10T08:09:35+00:00",
+ "updated": "2026-09-10T13:36:55+00:00",
  "items": [
+  {
+   "t": "Bahn-Chefin Palla kündigt weniger Korridorsanierungen pro Jahr an",
+   "s": "Eigentlich sollten die sogenannten Korridorsanierungen bis 2036 abgeschlossen sein. Doch die Arbeiten werden nach Aussage von Bahn-Chefin Palla länger dauern. Vier große Sanierungen pro Jahr - wie bislang angestrebt - seien zu viel.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-sanierung-palla-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T13:26:25+00:00"
+  },
+  {
+   "t": "Daimler Truck investiert in großem Stil in Wasserstoff-Technologie",
+   "s": "Daimler Truck investiert mehrere Hundert Millionen Euro in Wasserstoff-Technologie für Lkw. Allerdings fährt der DAX-Konzern zweigleisig - auch die E-Technologie bleibt eine Option. Insgesamt soll die Klimabilanz verbessert werden.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-daimler-truck-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T12:35:48+00:00"
+  },
+  {
+   "t": "Höhere Zinsen - die Auswirkungen für Verbraucher und die Wirtschaft",
+   "s": "Zum zweiten Mal in diesem Jahr heben Europas Währungshüter den Leitzins an. Was bedeutet das für Verbraucher und Firmen? Wie könnte es in der Geldpolitik weitergehen? Fragen und Antworten. Von Klaus-Rainer Jackisch.",
+   "u": "https://www.tagesschau.de/ezb-zinsen-114.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T12:16:55+00:00"
+  },
+  {
+   "t": "EZB erhöht erneut den Leitzins - auf 2,5 Prozent",
+   "s": "Die Teuerungsrate in der Eurozone ist zuletzt über die Drei-Prozent-Marke geklettert. Um die Inflation abzuschwächen, hat die Europäische Zentralbank nun erneut den Leitzins angehoben.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-sitzung-leitzins-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T12:15:29+00:00"
+  },
+  {
+   "t": "Wer muss wie viel sparen im Gesundheitswesen?",
+   "s": "Heute berät der Bundestag über den Gesundheits-Etat. Bei Kliniken, Arzneien oder auch Psychotherapeuten sollen nach dem Willen der Regierung Milliarden eingespart werden. Wen trifft es am härtesten? Von Petra Boberg.",
+   "u": "https://www.tagesschau.de/wirtschaft/krankenkassen-gesundheitsreform-einsparungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T12:06:13+00:00"
+  },
+  {
+   "t": "Wo die Verbraucherpreise am stärksten steigen",
+   "s": "Der Iran-Krieg treibt die Energiepreise in die Höhe und verteuert das Leben der Verbraucherinnen und Verbraucher in Deutschland. Wo wird das besonders spürbar? Und wo sind Preise zuletzt gesunken?",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-deutschland-august-details-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T10:21:08+00:00"
+  },
+  {
+   "t": "Warum jetzt mehr Falt-Handys in die Läden kommen",
+   "s": "Apple steigt ins Geschäft mit aufklappbaren Smartphones ein. Bislang war das eher eine Nische. Doch auf den Markt kommen jetzt mehrere Hersteller mit neuen Geräten - die Vorteile und Nachteile haben.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/faltbare-smartphones-handys-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T08:27:47+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 10.09.2026",
+   "s": "Update Wirtschaft vom 10.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1646496.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T08:12:48+00:00"
+  },
   {
    "t": "Teures Heizöl - warten oder kaufen?",
    "s": "Der Ölpreis ist hoch, die Heizsaison beginnt schon bald. Viele Verbraucher sind verunsichert. Lohnt es sich jetzt, Heizöl zu bestellen? Oder soll man auf sinkende Preise warten? Von Felix Mannheim und Jörg Marksteiner.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/oelpreise-heizen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-10T06:33:33+00:00"
-  },
-  {
-   "t": "Marktbericht: Anleger warten auf den EZB-Zinsentscheid",
-   "s": "Nach den gestrigen Kursverlusten dürfte der DAX heute kaum verändert in den Handel starten. Die Anleger warten gespannt auf den Zinsentscheid der EZB. Sie hoffen insbesondere auf Hinweise zur weiteren Geldpolitik.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T05:52:13+00:00"
   },
   {
    "t": "Apple-Präsentation: Neues iPhone ist faltbar und sehr teuer",
@@ -80,13 +129,6 @@
    "d": "2026-09-09T09:26:04+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 09.09.2026",
-   "s": "Update Wirtschaft vom 09.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1645870.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T09:16:42+00:00"
-  },
-  {
    "t": "Handels-Gastronomie: Imbisse in Geschäften gefragt wie nie",
    "s": "Frikadellen vom Baumarkt-Parkplatz, belegte Brötchen im Möbelhaus: Der Verkauf von Essen in Geschäften boomt. Einer Studie zufolge ist damit im vergangenen Jahr so viel Umsatz erzielt worden wie noch nie.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/handelsgastronomie-umsatzrekord-100.html",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/staatsverschuldung-zinskosten-deutschland-100.html",
    "q": "Tagesschau",
    "d": "2026-09-08T13:53:46+00:00"
-  },
-  {
-   "t": "Zugewanderte Pflegekräfte: Abschiebung trotz Personalmangels?",
-   "s": "In Deutschland gibt es zu wenig Personal, um alte Menschen zu pflegen. Manche ausländischen Hilfskräfte sind in Einrichtungen fest eingeplant - und sollen Deutschland trotzdem wieder verlassen. Von Isabel Pogner.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/pfleger-abschiebung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T12:26:25+00:00"
-  },
-  {
-   "t": "Pflegereform: Lohndeckel für Pflegekräfte?",
-   "s": "Mit der geplanten Pflegereform sollen die Kosten gebremst werden. Ansetzen will die Regierung auch bei den Personalausgaben. Wird es damit noch schwerer, Fachkräfte für Pflegeheime zu finden? Von Axel John.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/pflegekraefte-lohndeckel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T12:26:20+00:00"
-  },
-  {
-   "t": "Anteil Erneuerbarer Energien an Stromerzeugung auf Rekordhoch",
-   "s": "Der Anteil Erneuerbarer Energien an der deutschen Stromerzeugung hat im ersten Halbjahr einen neuen Höchststand erreicht. Fast 60 Prozent des eingespeisten Stroms stammten aus erneuerbaren Quellen.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/stromerzeugung-erneuerbare-energien-106.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T09:13:05+00:00"
-  },
-  {
-   "t": "Französisches KI-Start-up Mistral sammelt drei Milliarden Euro ein",
-   "s": "In der bisher größten Finanzierungsrunde in Europa hat Mistral drei Milliarden Euro eingesammelt. Das französische Start-up setzt auf offene KI-Modelle und präsentiert sich als Gegenentwurf zu den US-Konzernen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/mistral-kuenstliche-intelligenz-start-up-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T08:04:16+00:00"
-  },
-  {
-   "t": "Handelskonflikt mit den USA: Kanadas Gegenzölle in Kraft",
-   "s": "Der Zollstreit in Nordamerika geht in die nächste Phase: Kanada erhebt ab sofort Gegenzölle auf bestimmte US-Importe. US-Präsident Trump drohte unterdessen dem kanadischen Flugzeughersteller Bombardier.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-usa-gegenzoelle-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T07:26:21+00:00"
-  },
-  {
-   "t": "Wahl in Sachsen-Anhalt: Arbeitgeber warnen vor \"Klima der Abschottung\"",
-   "s": "Vertreter der deutschen Industrie und Ökonomen gehen davon aus, dass sich der AfD-Wahlsieg in Sachsen-Anhalt negativ auf die Wirtschaft auswirken könnte. An die Bundesregierung richten sie den Appell, am Reformkurs festzuhalten.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T14:13:56+00:00"
   }
  ]
 }
