@@ -33,6 +33,22 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
 - Fremde Inhalte nur einbauen, wenn die Lizenz es hergibt, und die Quelle dann
   sichtbar nennen. Wikipedia (CC BY-SA) ja, Verlagstexte nein.
 - Fertige Arbeit committen **und pushen** — ohne Rückfrage. Lennart arbeitet meist vom Handy und kann nichts lokal prüfen; ein ungepushter Commit ist für ihn unsichtbar.
+- **Fertige Arbeit landet auf `main`, ohne Rückfrage.** GitHub Pages liefert `main`;
+  was dort nicht liegt, kann Lennart nicht testen. Der Arbeitsbranch bleibt der
+  Zwischenschritt: dorthin committen und pushen, dann zusammenführen.
+  Beim Zusammenführen gilt:
+  - **`main` erst holen, dann mergen — nie überschreiben, nie `--force`.** `main`
+    läuft ständig weiter: der stündliche Lauf „Schlagzeilen aktualisiert" ändert
+    `news/*.json`, und parallele Claude-Sitzungen ändern dieselbe `index.html`.
+    Ein Push kann deshalb abgelehnt werden — dann erneut holen, zusammenführen,
+    prüfen, pushen.
+  - **Nach dem Merge prüfen, dass beide Seiten drin sind**, die eigene und die
+    fremde. Ein sauberer Auto-Merge ist kein Beweis; kurz nach Kennzeichen beider
+    Änderungen greppen und die Tests gegen den zusammengeführten Stand laufen lassen.
+  - **Danach den Pages-Build prüfen.** Die Live-Seite selbst ist aus dieser
+    Umgebung nicht abrufbar (der Proxy blockt `github.io` mit 403), also über den
+    Workflow-Status („pages build and deployment") für den eigenen Commit. Bei
+    einem gescheiterten Build bleibt kommentarlos die alte Version stehen.
 
 ### Niemals
 - Keine externen Dependencies hinzufügen ohne explizite Rückfrage — die App soll Single-File bleiben.
