@@ -705,14 +705,35 @@
   .sess-edit-reps::-webkit-outer-spin-button,.sess-edit-reps::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
   .sess-edit-add-set,.sess-edit-add-ex{display:block;width:100%;background:none;border:0;border-radius:0;
     color:var(--blue);font-family:inherit;font-weight:600;font-size:13px;letter-spacing:0.02em;
-    padding:12px 0;cursor:pointer;text-align:left;transition:.15s}
+    padding:13px 0;cursor:pointer;text-align:left;transition:.15s}
   body.dayB .sess-edit-add-set,body.dayB .sess-edit-add-ex{color:var(--green)}
+  /* Bereichsfarben bleiben im Dunkeln gleich — das dunkle Marineblau traegt
+     auf dunklem Grund aber nicht (1.25:1). Hier zaehlt Lesbarkeit. */
+  body.dark .sess-edit-add-set,body.dark .sess-edit-add-ex{color:var(--ink)}
   .sess-edit-add-set:active,.sess-edit-add-ex:active{opacity:.6}
-  .sess-edit-form .edit-actions .del-btn{margin-left:0}
-  .sess-edit-form .edit-actions .sess-edit-add-ex{width:auto;margin-left:auto}
-  .sess-edit-form .edit-actions{margin-top:0}
-  .sess-edit-form .edit-actions button{padding:14px 0;margin:-14px 0}
-  .sess-edit-add-set{font-size:17px;line-height:1;padding:14px 0}
+  /* Eine Übung anzulegen gehoert unter die Liste, nicht zu Speichern/Löschen. */
+  .sess-edit-form>.sess-edit-add-ex{border-top:1px solid var(--line)}
+
+  /* Abschnitte: erst die Einheit selbst, dann ihre Übungen. */
+  .sess-edit-sec{margin-bottom:16px}
+  .sess-edit-sec.sp{margin-top:30px}
+  /* Ohne Spaltenkopf raet man, welches der beiden Felder das Gewicht ist. */
+  .sess-edit-cols{display:grid;grid-template-columns:34px 1fr 68px 68px 32px;gap:10px;padding-bottom:6px}
+  .sess-edit-cols span{font-size:10px;font-weight:600;letter-spacing:0.14em;text-transform:uppercase;
+    color:var(--ink-mute);text-align:center}
+
+  /* Eine Handlung fuehrt, zwei begleiten — und Löschen sitzt weit weg von Abbrechen. */
+  .sess-edit-actions{margin-top:30px}
+  .sess-save{width:100%;height:52px;border:none;border-radius:12px;background:var(--ink);color:var(--on-ink);
+    font-family:inherit;font-weight:600;font-size:16px;letter-spacing:0.02em;cursor:pointer;
+    background-image:var(--sheen)}
+  .sess-save:active{opacity:.85}
+  .sess-edit-minor{display:flex;justify-content:space-between;align-items:center;margin-top:2px}
+  .sess-cancel,.sess-del{background:none;border:0;font-family:inherit;font-size:13.5px;letter-spacing:0.02em;
+    cursor:pointer;padding:15px 2px;min-height:44px}
+  .sess-cancel{color:var(--ink-soft);font-weight:600}
+  .sess-del{color:#B94A48;font-weight:500}
+  .sess-cancel:active,.sess-del:active{opacity:.6}
 
   /* ── Hinweis ── */
   .toast{position:fixed;left:22px;right:22px;top:calc(var(--top) + 18px);z-index:80;max-width:516px;margin:0 auto;
@@ -3085,10 +3106,12 @@ function renderActEdit(cfg,s,i){
     <div class="swipe-body sess sess-edit ${i===0?'sess-first':''}">
       <form class="sess-edit-form edit-form" onsubmit="event.preventDefault();saveActEdit('${cfg.key}')">
         ${rows}
-        <div class="edit-actions">
-          <button type="submit" class="save-btn">Speichern</button>
-          <button type="button" class="cancel-btn" onclick="cancelActEdit('${cfg.key}')">Abbrechen</button>
-          <button type="button" class="del-btn" onclick="confirmDelSess()">Löschen</button>
+        <div class="sess-edit-actions">
+          <button type="submit" class="sess-save">${cfg.saveLabel} speichern</button>
+          <div class="sess-edit-minor">
+            <button type="button" class="sess-cancel" onclick="cancelActEdit('${cfg.key}')">Abbrechen</button>
+            <button type="button" class="sess-del" onclick="confirmDelSess()">${cfg.saveLabel} löschen</button>
+          </div>
         </div>
       </form>
     </div>
@@ -3132,6 +3155,7 @@ function wipe(){
 }
 
 /* ── Session Edit (Inline im Verlauf) ── */
+const SET_COLS=`<div class="sess-edit-cols"><span></span><span></span><span>Kg</span><span>Wdh</span><span></span></div>`;
 function startSessEdit(ts){
   const s=store.sessions.find(x=>x.ts===ts);
   if(!s)return;
@@ -3260,6 +3284,7 @@ function addSessEditEx(){
       <button type="button" class="sess-edit-ex-del" onclick="this.closest('.sess-edit-ex').remove()" aria-label="Übung entfernen">×</button>
     </div>
     <div class="sess-edit-sets">
+      ${SET_COLS}
       <div class="sess-edit-set">
         <span class="sess-edit-set-num">1</span>
         <span></span>
@@ -3268,11 +3293,16 @@ function addSessEditEx(){
         <button type="button" class="sess-edit-set-del" onclick="this.closest('.sess-edit-set').remove();updateNewSetNumbers('${newId}')" aria-label="Satz löschen">×</button>
       </div>
     </div>
-    <button type="button" class="sess-edit-add-set" onclick="addSessEditSet('${newId}')">+</button>
+    <button type="button" class="sess-edit-add-set" onclick="addSessEditSet('${newId}')">+ Satz</button>
   </div>`;
   container.insertAdjacentHTML("beforeend",html);
   const nameIn=container.lastElementChild.querySelector(".sess-edit-new-name");
   if(nameIn)nameIn.focus();
+}
+function updateSetNumbers(exId){
+  const c=document.querySelector(`.sess-edit-ex[data-ex-id="${exId}"] .sess-edit-sets`);
+  if(!c)return;
+  c.querySelectorAll(".sess-edit-set").forEach((el,i)=>{el.querySelector(".sess-edit-set-num").textContent=i+1});
 }
 function updateNewSetNumbers(newId){
   const container=document.querySelector(`.sess-edit-ex[data-new-id="${newId}"] .sess-edit-sets`);
@@ -3299,16 +3329,17 @@ function renderSessEdit(s,i){
     return `<div class="sess-edit-ex" data-ex-id="${id}">
       <div class="sess-edit-ex-head">
         <span class="sess-edit-ex-name" data-ex-id="${id}">${esc(name)}</span>
-        <button type="button" class="sess-edit-ex-del" onclick="removeSessEditEx('${id}')" aria-label="Übung entfernen">×</button>
+        <button type="button" class="sess-edit-ex-del" onclick="removeSessEditEx('${id}')" aria-label="${esc(name)} entfernen">×</button>
       </div>
-      <div class="sess-edit-sets">${setsHtml}</div>
-      <button type="button" class="sess-edit-add-set" onclick="addSessEditSet('${id}')">+</button>
+      <div class="sess-edit-sets">${SET_COLS}${setsHtml}</div>
+      <button type="button" class="sess-edit-add-set" onclick="addSessEditSet('${id}')">+ Satz</button>
     </div>`;
   }).join("");
   return `<div class="sessswipe" data-ts="${s.ts}">
     <div class="sess-behind"><button class="sess-behind-btn" onclick="delSession(${s.ts})" aria-label="Einheit löschen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></button></div>
     <div class="swipe-body sess sess-edit ${i===0?'sess-first':''}">
       <form class="sess-edit-form edit-form" onsubmit="event.preventDefault();saveSessEdit()">
+        <div class="eyebrow sess-edit-sec">Einheit</div>
         <div class="sess-edit-head">
           <div class="field stack"><div class="cap">Tag</div>
             <select id="sessEditDaySel">${dayOpts}</select>
@@ -3317,15 +3348,18 @@ function renderSessEdit(s,i){
             <input class="txt" id="sessEditDate" type="text" autocomplete="off" placeholder="TT.MM.JJJJ" value="${dateVal}">
           </div>
         </div>
+        <div class="eyebrow sess-edit-sec sp">Übungen</div>
         <p class="sess-edit-hint">Übungsnamen gedrückt halten, um ihn zu ändern — der Name gilt dann überall.</p>
         <div id="sessEditExList" class="sess-edit-ex-list">
           ${exercisesHtml}
         </div>
-        <div class="edit-actions">
-          <button type="submit" class="save-btn">Speichern</button>
-          <button type="button" class="cancel-btn" onclick="cancelSessEdit()">Abbrechen</button>
-          <button type="button" class="del-btn" onclick="confirmDelSess()">Löschen</button>
-          <button type="button" class="sess-edit-add-ex" onclick="addSessEditEx()">+ Eigene Übung</button>
+        <button type="button" class="sess-edit-add-ex" onclick="addSessEditEx()">+ Übung hinzufügen</button>
+        <div class="sess-edit-actions">
+          <button type="submit" class="sess-save">Einheit speichern</button>
+          <div class="sess-edit-minor">
+            <button type="button" class="sess-cancel" onclick="cancelSessEdit()">Abbrechen</button>
+            <button type="button" class="sess-del" onclick="confirmDelSess()">Einheit löschen</button>
+          </div>
         </div>
       </form>
     </div>
