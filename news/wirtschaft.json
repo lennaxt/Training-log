@@ -1,7 +1,35 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-10T13:36:55+00:00",
+ "updated": "2026-09-10T18:29:55+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 10.09.2026",
+   "s": "Wirtschaft vor acht vom 10.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1646946.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T18:27:31+00:00"
+  },
+  {
+   "t": "Marktbericht: Der DAX dreht ins Minus",
+   "s": "Der DAX hat weiter an Boden verloren. Denn die Zinserhöhung der EZB war zwar erwartet worden, könnte aber nicht die letzte gewesen sein. Besonders die hohen Ölpreise lasten weiter auf dem Markt.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T16:32:35+00:00"
+  },
+  {
+   "t": "USA gegen China - Mercedes-Benz droht, unter die Räder zu kommen",
+   "s": "Jahrzehntelang profitierten deutsche Autobauer vom Geschäft mit China. Nun könnte sich das aufgrund eines US-Gesetzes als Risiko erweisen. Vor allem für einen DAX-Konzern steht dabei viel auf dem Spiel.Von Steffen Wurzel",
+   "u": "https://www.deutschlandfunk.de/mercedes-usa-gesetz-china-verkaufsverbot-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-10T15:20:00+00:00"
+  },
+  {
+   "t": "EZB erhöht erneut den Leitzins - auf 2,5 Prozent",
+   "s": "Die Teuerungsrate in der Eurozone ist zuletzt über die Drei-Prozent-Marke geklettert. Um die Inflation abzuschwächen, hat die Europäische Zentralbank nun erneut den Leitzins angehoben.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-sitzung-leitzins-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T13:44:42+00:00"
+  },
   {
    "t": "Bahn-Chefin Palla kündigt weniger Korridorsanierungen pro Jahr an",
    "s": "Eigentlich sollten die sogenannten Korridorsanierungen bis 2036 abgeschlossen sein. Doch die Arbeiten werden nach Aussage von Bahn-Chefin Palla länger dauern. Vier große Sanierungen pro Jahr - wie bislang angestrebt - seien zu viel.",
@@ -10,25 +38,11 @@
    "d": "2026-09-10T13:26:25+00:00"
   },
   {
-   "t": "Daimler Truck investiert in großem Stil in Wasserstoff-Technologie",
-   "s": "Daimler Truck investiert mehrere Hundert Millionen Euro in Wasserstoff-Technologie für Lkw. Allerdings fährt der DAX-Konzern zweigleisig - auch die E-Technologie bleibt eine Option. Insgesamt soll die Klimabilanz verbessert werden.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-daimler-truck-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T12:35:48+00:00"
-  },
-  {
    "t": "Höhere Zinsen - die Auswirkungen für Verbraucher und die Wirtschaft",
    "s": "Zum zweiten Mal in diesem Jahr heben Europas Währungshüter den Leitzins an. Was bedeutet das für Verbraucher und Firmen? Wie könnte es in der Geldpolitik weitergehen? Fragen und Antworten. Von Klaus-Rainer Jackisch.",
    "u": "https://www.tagesschau.de/ezb-zinsen-114.html",
    "q": "Tagesschau",
    "d": "2026-09-10T12:16:55+00:00"
-  },
-  {
-   "t": "EZB erhöht erneut den Leitzins - auf 2,5 Prozent",
-   "s": "Die Teuerungsrate in der Eurozone ist zuletzt über die Drei-Prozent-Marke geklettert. Um die Inflation abzuschwächen, hat die Europäische Zentralbank nun erneut den Leitzins angehoben.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-sitzung-leitzins-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T12:15:29+00:00"
   },
   {
    "t": "Wer muss wie viel sparen im Gesundheitswesen?",
@@ -71,13 +85,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/digitales/apple-iphone-faltbar-100.html",
    "q": "Tagesschau",
    "d": "2026-09-09T19:58:46+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 09.09.2026",
-   "s": "Wirtschaft vor acht vom 09.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1646222.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T18:30:44+00:00"
   },
   {
    "t": "Bundesgerichtshof: Kaskoversicherte tragen \"Werkstattrisiko\"",
@@ -162,13 +169,6 @@
    "u": "https://www.deutschlandfunk.de/ki-rechenzentren-usa-stromverbrauch-widerstand-trump-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-08T14:58:00+00:00"
-  },
-  {
-   "t": "Wachsende Verschuldung: Dem Staat drohen gewaltige Zinskosten",
-   "s": "Nicht nur die Staatsschulden steigen, auch die Zinszahlungen klettern neuen Berechnungen zufolge in den kommenden Jahren deutlich nach oben. Das vermindert den Spielraum für den Haushalt. Von Till Bücker.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/staatsverschuldung-zinskosten-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T13:53:46+00:00"
   }
  ]
 }

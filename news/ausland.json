@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-10T13:36:53+00:00",
+ "updated": "2026-09-10T18:29:54+00:00",
  "items": [
+  {
+   "t": "Emirate investieren 40 Milliarden Euro in Deutschland",
+   "s": "Deutschland und die Vereinigten Arabischen Emirate wollen ihre Beziehungen ausbauen. Der Golfstaat plant Investitionen von 40 Milliarden Euro. Zudem darf die Fluggesellschaft Emirates eine weitere deutsche Stadt anfliegen. Von Nicole Markwald.",
+   "u": "https://www.tagesschau.de/ausland/asien/vae-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T18:24:58+00:00"
+  },
+  {
+   "t": "USA: Oberstes Gericht lehnt Wahlkreisänderung in Missouri ab",
+   "s": "Weniger als zwei Monate vor den Midterms muss US-Präsident Trump einen Rückschlag hinnehmen: Der Supreme Court lehnte den Neuzuschnitt der Wahlkreise in Missouri ab. Die Änderung könnte zu Chaos führen. Von S. Jackisch.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-wahlkreise-missouri-oberstes-gericht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T17:18:47+00:00"
+  },
   {
    "t": "Historischer Teppich in Londoner Museum zieht Menschenmassen an",
    "s": "Auf 70 Metern Länge erzählt der Wandteppich von Bayeux die normannische Invasion Englands und die Thronbesteigung von Wilhelm \"dem Eroberer\". In London erobert er als seltene Leihgabe die Herzen der Museumsbesucher. Von. C. Prössl.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/baerbock-un-amtszeit-ende-100.html",
    "q": "Tagesschau",
    "d": "2026-09-08T06:06:06+00:00"
-  },
-  {
-   "t": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
-   "s": "Nach einer kurzzeitigen Feuerpause während des Besuchs von US-Unterhändlern in der Ukraine hat Russland seine schweren Luftangriffe wieder aufgenommen. Aus Kiew wurden Explosionen gemeldet, berichteten ukrainische Medien.",
-   "u": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-krieg-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T03:09:42+00:00"
-  },
-  {
-   "t": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
-   "s": "Angriffe Russlands bringen die ukrainische Schifffahrt auf dem Schwarzen Meer nahezu zum Erliegen. Landwirte bleiben auf ihrer Ernte sitzen, während sich vor den Donauhäfen die Laster stauen. Eindrücke aus der Region Odessa. Von S. Petersohn.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T02:20:08+00:00"
   }
  ]
 }

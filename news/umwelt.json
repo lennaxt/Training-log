@@ -1,7 +1,56 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-10T13:36:57+00:00",
+ "updated": "2026-09-10T18:29:57+00:00",
  "items": [
+  {
+   "t": "Gespräche zwischen BSW und AfD: Schmerzgrenze gesucht",
+   "s": "Das Bündnis Sahra Wagenknecht und die AfD haben viele Schnittmengen. Das erleichtert die Zusammenarbeit. Interessanter ist die Frage, was sie trennt.",
+   "u": "https://taz.de/Gespraeche-zwischen-BSW-und-AfD/!6212273/",
+   "q": "taz",
+   "d": "2026-09-10T17:53:00+00:00"
+  },
+  {
+   "t": "Scheich-Besuch in Deutschland: Was zählen schon Menschenrechte?",
+   "s": "Der Scheich der Vereinigten Arabischen Emirate wird beim Deutschlandbesuch hofiert. Dabei beliefern die Emirate viele Kriegsparteien mit Waffen.",
+   "u": "https://taz.de/Scheich-Besuch-in-Deutschland/!6212225/",
+   "q": "taz",
+   "d": "2026-09-10T16:05:00+00:00"
+  },
+  {
+   "t": "Staatsbesuch von Scheich in Berlin: Handelsvolumen schlägt Menschenrechte",
+   "s": "Der Staatspräsident der Vereinigten Arabischen Emirate, bin Zayid, ist in Berlin, es geht um Rüstungsdeals. Menschenrechtsorganisationen demonstrieren.",
+   "u": "https://taz.de/Staatsbesuch-von-Scheich-in-Berlin/!6212173/",
+   "q": "taz",
+   "d": "2026-09-10T15:50:00+00:00"
+  },
+  {
+   "t": "Erstes Halbjahr 2026: Eilverfahren gegen Jobcenter-Bescheide sprunghaft gestiegen",
+   "s": "Betroffene wehren sich häufiger mit Rechtsmitteln, wenn Leistungen des Jobcenters ausbleiben. Der Anstieg zeigt laut Unterstützern, wie groß die Not ist.",
+   "u": "https://taz.de/Erstes-Halbjahr-2026/!6212240/",
+   "q": "taz",
+   "d": "2026-09-10T15:45:00+00:00"
+  },
+  {
+   "t": "Durchsuchungen bei SPD-Kandidat Krach: Eine Frage des Fingerspitzengefühls",
+   "s": "Kurz vor der Berlin-Wahl rückt die Hannoveraner Staatsanwaltschaft den SPD-Spitzenkandidaten Steffen Krach in schlechtes Licht. War die Razzia wirklich so eilig?",
+   "u": "https://taz.de/Durchsuchungen-bei-SPD-Kandidat-Krach/!6212431/",
+   "q": "taz",
+   "d": "2026-09-10T15:32:00+00:00"
+  },
+  {
+   "t": "Landtagswahl in Mecklenburg-Vorpommern: AfD bleibt konstant, CDU nähert sich der 5-Prozent-Hürde",
+   "s": "Exklusiv: Eine repräsentative Umfrage nach der Sachsen-Anhalt-Wahl im Auftrag von Campact sieht keinen Schub für die AfD. Andere Umfragen sehr wohl.",
+   "u": "https://taz.de/Landtagswahl-in-Mecklenburg-Vorpommern/!6212372/",
+   "q": "taz",
+   "d": "2026-09-10T15:29:00+00:00"
+  },
+  {
+   "t": "Haushalt ohne Perspektiven: 1,4 Milliarden Euro weniger für Bildung und Familien",
+   "s": "Der Familien- und Bildungsausschuss hat getagt und weitere Kürzungen beschlossen. Der Staat zieht sich mehr und mehr aus der Verantwortung.",
+   "u": "https://taz.de/Haushalt-ohne-Perspektiven/!6212238/",
+   "q": "taz",
+   "d": "2026-09-10T15:18:00+00:00"
+  },
   {
    "t": "Jens Spahn entschuldigt sich: „Ich war zu feige, offen Farbe zu bekennen“",
    "s": "Die Elternschaft per Leihmutter hatte ihm das Amt an der Spitze der Unionsfraktion gekostet. Nun erklärt sich Jens Spahn gegenüber seinem Heimatwahlkreis.",
@@ -120,55 +169,6 @@
    "u": "https://taz.de/Regierungsknall-in-Thueringen/!6211766/",
    "q": "taz",
    "d": "2026-09-09T15:21:00+00:00"
-  },
-  {
-   "t": "Sachsen-Anhalt und AfD: Lasst sie einfach mal regieren!",
-   "s": "Es würde einen hohen Preis kosten. Mittelfristig könnte es aber vielleicht etwas bringen, wenn die AfD in die regionale Regierungsverantwortung käme.",
-   "u": "https://taz.de/Sachsen-Anhalt-und-AfD/!6211710/",
-   "q": "taz",
-   "d": "2026-09-09T15:09:00+00:00"
-  },
-  {
-   "t": "AfD verliert am Verfassungsgericht: Kein Geld für Extremisten im Mainzer Landtag",
-   "s": "In Rheinland-Pfalz ist die Finanzierung von extremistischen Landtags-Mitarbeiter:innen ausgeschlossen. Eine Klage der AfD dagegen scheiterte jetzt.",
-   "u": "https://taz.de/AfD-verliert-am-Verfassungsgericht/!6212068/",
-   "q": "taz",
-   "d": "2026-09-09T14:56:00+00:00"
-  },
-  {
-   "t": "Generaldebatte im Bundestag: Hyperaggressiv vs. hilflos",
-   "s": "AfD-Chefin Alice Weidel beschwört den Untergang der Regierung. Der Kanzler sucht noch immer eine Erzählung für seine Politik.",
-   "u": "https://taz.de/Generaldebatte-im-Bundestag/!6211741/",
-   "q": "taz",
-   "d": "2026-09-09T14:20:00+00:00"
-  },
-  {
-   "t": "Nach Trump-Gratulation an AfD: Merz verschiebt Telefonat mit US‑Präsidenten",
-   "s": "Lange war ein Telefonat des Kanzlers mit dem US-Präsidenten zum 25. Jahrestag der Anschläge vom 11. ‌September 2001 vereinbart. Nun findet es doch nicht statt.",
-   "u": "https://taz.de/Nach-Trump-Gratulation-an-AfD/!6211653/",
-   "q": "taz",
-   "d": "2026-09-09T14:15:00+00:00"
-  },
-  {
-   "t": "Influencer über AfD-Erfolg: „Das war der beste Wahlkampf seit der NSDAP“",
-   "s": "Der Polit-Influencer Daniel Rensing rät, die AfD im Netz mit Humor zu bekämpfen. Damit täten sich Linke oft schwer. Wie könnten sie lustiger werden?",
-   "u": "https://taz.de/Influencer-ueber-AfD-Erfolg/!6211367/",
-   "q": "taz",
-   "d": "2026-09-09T11:48:00+00:00"
-  },
-  {
-   "t": "Angeklagter Antifaschist: Alle Warnungen übergangen",
-   "s": "Im Dresdner Antifa-Prozess wird ohne einen Angeklagten weiterverhandelt: Er ist seit einem Suizidversuch nicht mehr ansprechbar.",
-   "u": "https://taz.de/Angeklagter-Antifaschist/!6211670/",
-   "q": "taz",
-   "d": "2026-09-09T10:45:00+00:00"
-  },
-  {
-   "t": "U16-Wahl in Berlin: „Ich muss ja auch noch lange auf der Welt leben können“",
-   "s": "Noch bis Freitag können Kinder und Jugendlich in der Hauptstadt symbolisch für eine Partei abstimmen. Ein Besuch im Wahllokal zeigt, was sie bedrückt.",
-   "u": "https://taz.de/U16-Wahl-in-Berlin/!6210783/",
-   "q": "taz",
-   "d": "2026-09-09T10:30:00+00:00"
   }
  ]
 }

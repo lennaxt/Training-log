@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-09-10T13:36:56+00:00",
+ "updated": "2026-09-10T18:29:56+00:00",
  "items": [
+  {
+   "t": "Sind Flutkatastrophen wie im Himalaya auch in den Alpen möglich?",
+   "s": "Die Flut in Nepal und Tibet Ende August kostete Hunderte Menschen das Leben. Ausgelöst wurde das Unglück durch einen Felssturz. Ist eine vergleichbare Katastrophe auch in den Alpen möglich? Von Frank Bäumer.",
+   "u": "https://www.tagesschau.de/wissen/sturzflut-gefahr-alpen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T15:09:37+00:00"
+  },
   {
    "t": "Rauchen senkt laut WHO Chance auf Schwangerschaft deutlich",
    "s": "Wer raucht, hat schlechtere Aussichten, Vater oder Mutter zu werden. Bei Männern kann die Spermienqualität sinken, bei Frauen steigt das Risiko von Unfruchtbarkeit. Die WHO warnt auch vor den Folgen des Passivrauchens.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/pik-studie-waldbraende-100.html",
    "q": "Tagesschau",
    "d": "2026-08-20T09:01:46+00:00"
-  },
-  {
-   "t": "Lena Partzsch, Universität Berlin, über Hitzeschutz in der Klimakrise",
-   "s": "Lena Partzsch, Universität Berlin, über Hitzeschutz in der Klimakrise",
-   "u": "https://www.tagesschau.de/video/video-1634390.html",
-   "q": "Tagesschau",
-   "d": "2026-08-20T08:33:18+00:00"
   }
  ]
 }

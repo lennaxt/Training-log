@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-10T13:36:59+00:00",
+ "updated": "2026-09-10T18:29:59+00:00",
  "items": [
+  {
+   "t": "Aufstieg der Islamophobie nach 9/11: Im Schatten des Generalverdachts",
+   "s": "Seit dem 11. September 2001 haben Vorurteile gegen Muslime massiv zugenommen. 25 Jahre später kommen Muslime selbst im politischen Mainstream an.",
+   "u": "https://taz.de/Aufstieg-der-Islamophobie-nach-9/11/!6212259/",
+   "q": "taz",
+   "d": "2026-09-10T17:33:00+00:00"
+  },
   {
    "t": "Parteitag der Republikaner in Dallas: Texanische Trump-Verehrung",
    "s": "In den USA halten die Republikanischer erstmals einen Parteitag vor Zwischenwahlen ab. Trump verspricht Geldgeschenke – wohl wegen schlechter Umfragewerte.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Vergeltungszoelle-gegen-USA/!6206959/",
    "q": "taz",
    "d": "2026-08-25T14:46:00+00:00"
-  },
-  {
-   "t": "Oberstes Gericht der USA: Trumps Briefwahldekret kann vorerst in Kraft treten",
-   "s": "Der Supreme Court hebt eine Gerichtsentscheidung auf, die ein Trump-Dekret zur Restriktion der Briefwahl ausgesetzt hatte. Opposition will neu klagen.",
-   "u": "https://taz.de/Oberstes-Gericht-der-USA/!6206933/",
-   "q": "taz",
-   "d": "2026-08-25T07:21:00+00:00"
   }
  ]
 }

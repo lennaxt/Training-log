@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-10T13:36:58+00:00",
+ "updated": "2026-09-10T18:29:58+00:00",
  "items": [
+  {
+   "t": "Religion in Montenegro: Stoßgebete für Ratko Mladić",
+   "s": "Ein montenegrinischer Staatsanwalt ermittelt gegen einen Bischof der Serbisch-Orthodoxen Kirche. Er hatte dem Kriegsverbrecher Ratko Mladić gehuldigt.",
+   "u": "https://taz.de/Religion-in-Montenegro/!6212237/",
+   "q": "taz",
+   "d": "2026-09-10T15:56:00+00:00"
+  },
+  {
+   "t": "Ceuta-Krise: Spanische Regierung gibt Dokumente frei",
+   "s": "Sicherheitsbehörden warnten wohl vor einem Ansturm auf die Exklave Ceuta. Die spanische Regierung und Opposition interpretieren dies verschieden.",
+   "u": "https://taz.de/Ceuta-Krise/!6212198/",
+   "q": "taz",
+   "d": "2026-09-10T14:21:00+00:00"
+  },
   {
    "t": "Schweden vor den Wahlen: Mit niedlichen Hummeln um Wähler kämpfen",
    "s": "Am Sonntag wählt Schweden. Die rechten Schwedendemokraten zeigen sich besonders selbstbewusst – nach vier Jahren nahe der Macht. Ein Besuch am Wahlstand.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Gefluechtetenhelfer-ueber-Lage-in-Ceuta/!6209823/",
    "q": "taz",
    "d": "2026-09-06T08:20:00+00:00"
-  },
-  {
-   "t": "Klostreit in Wien: Null Cent fürs Pissoir, fünfzig Cent für die Kabine",
-   "s": "Eine junge Frau will die Ungleichbehandlung in öffentlichen WCs nicht akzeptieren und verklagt die Stadt Wien. Wird sie Erfolg haben?",
-   "u": "https://taz.de/Warum-muessen-Frauen-fuer-die-Toilette-zahlen-und-Maenner-nicht-Eine-Frau-verklagt-Wien/!6206506/",
-   "q": "taz",
-   "d": "2026-09-05T18:18:00+00:00"
-  },
-  {
-   "t": "Exklave Ceuta: Spanische Regierung übernimmt Kontrolle über Hafen",
-   "s": "Die Regierung von Premierminister Sánchez setzt sich über die Regionalverwaltung hinweg – und errichtet nun ein Zeltlager für Geflüchtete an einer sensiblen Stelle.",
-   "u": "https://taz.de/Exklave-Ceuta/!6210508/",
-   "q": "taz",
-   "d": "2026-09-05T14:41:00+00:00"
   }
  ]
 }
