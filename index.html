@@ -5,12 +5,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="theme-color" content="#CDD5DF">
+<meta name="theme-color" content="#FFFFFF">
 <title>Peak</title>
 <script>
 /* Vor dem ersten Bild: bis die App steht, traegt das Dokument den Grund des
-   Startbilds. Ohne das blitzt der Seitengrund auf, und Safari faerbt seine
-   untere Leiste nach dem theme-color-Feld — das stand auf Weiss. */
+   Startbilds. Ohne das blitzt der Seitengrund auf. Das theme-color-Feld traegt
+   die Farbe, in die der Grund unten auslaeuft (--boot-fuss): danach faerbt iOS
+   seinen eigenen Streifen am unteren Rand, und der soll dort nicht abgesetzt
+   stehen. */
 (function(){
   document.documentElement.classList.add("boot-an");
   if(matchMedia("(prefers-color-scheme: dark)").matches){
@@ -737,7 +739,7 @@
      Animation: derselbe Grund und dasselbe Bergzeichen, aber als weiter Umriss
      am unteren Rand statt als Kachel in der Mitte. Das Startbild kommt erst
      danach — sobald die Google-Anmeldung laeuft. */
-  .auth-gate{position:fixed;inset:0;background:var(--boot-ground);display:none;
+  .auth-gate{position:fixed;inset:0;background:var(--boot-ground);background-color:var(--boot-fuss);display:none;
     align-items:center;justify-content:center;padding:24px;z-index:900;overflow:hidden}
   body.auth-pending .auth-gate{display:flex}
   body.auth-pending .wrap{visibility:hidden}
@@ -1099,7 +1101,7 @@
      auch am Dokument, sonst blitzt unter dem Overlay der Seitengrund als
      heller Streifen durch, wo die Adressleiste war. */
   .boot-grund{position:absolute;inset:0;width:100%;height:100%;display:block}
-  html.boot-an,html.boot-an body{background:var(--boot-ground)}
+  html.boot-an,html.boot-an body{background:var(--boot-ground);background-color:var(--boot-fuss)}
   .bg-a{stop-color:var(--boot-g1)}
   .bg-b{stop-color:var(--boot-g2)}
   .bg-c{stop-color:var(--boot-g3)}
@@ -4364,10 +4366,10 @@ function pauseHoldEnd(){
 function setThemeColor(c){
   const m=document.querySelector('meta[name="theme-color"]');
   if(!m)return;
-  /* Solange Startbild oder Anmeldung stehen, faerbt deren Grund die Leiste:
-     die App-Farbe darunter waere ein weisser Streifen im falschen Bild. */
+  /* Solange Startbild oder Anmeldung stehen, gilt die Farbe, in die deren
+     Grund unten auslaeuft (--boot-fuss) — nicht die der App darunter. */
   if(c==null&&document.documentElement.classList.contains("boot-an")){
-    m.setAttribute("content",SYSTEM_DUNKEL.matches?"#0E1721":"#CDD5DF");return;
+    m.setAttribute("content",SYSTEM_DUNKEL.matches?"#0E1721":"#FFFFFF");return;
   }
   m.setAttribute("content",c||(darkAktiv()?"#252423":"#FFFFFF"));
 }
