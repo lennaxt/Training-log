@@ -1,7 +1,112 @@
 {
  "name": "Inland",
- "updated": "2026-09-11T08:04:13+00:00",
+ "updated": "2026-09-11T13:35:13+00:00",
  "items": [
+  {
+   "t": "Anschlagspläne: Hamas-Unterstützer in Berlin angeklagt",
+   "s": "Mutmaßliche Mitglieder der Hamas sollen von Deutschland aus Waffen besorgt haben. Jetzt wurden sie angeklagt. Der Vorwurf: Zum zweiten Jahrestag des Überfalls auf Israel wollten sie Anschläge auf Juden verüben.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/anklage-bundesanwaltschaft-hamas-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T13:14:35+00:00"
+  },
+  {
+   "t": "Urteil über Enkel-Gesetz: Hunderttausende Spanier verlieren Wahlrecht",
+   "s": "Sie haben den spanischen Pass, aber dürfen nicht wählen. Tausende Menschen, vor allem in Lateinamerika, sind von der Gerichtsentscheidung betroffen.",
+   "u": "https://taz.de/Urteil-ueber-Enkel-Gesetz/!6212364/",
+   "q": "taz",
+   "d": "2026-09-11T12:26:00+00:00"
+  },
+  {
+   "t": "Was eine AfD-Regierung für den Verfassungsschutz bedeuten könnte",
+   "s": "Der Landesverfassungsschutz hat die AfD in Sachsen-Anhalt als gesichert rechtsextremistisch eingestuft. Nun könnte die Partei dort regieren. Was hieße das für die Behörde und den Informationsaustausch? Von A. Stephany und A. Tadey.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-verfassungsschutz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T12:22:02+00:00"
+  },
+  {
+   "t": "Abschiebepolitik der AfD: Rüstung für die „Remigration“",
+   "s": "Sachsen-Anhalts AfD-Wahlsieger Ulrich Siegmund verbindet die Rüstungsproduktion mit einer künftigen Abschiebeoffensive. Der potenzielle Partner BSW reagiert empört.",
+   "u": "https://taz.de/Abschiebepolitik-der-AfD/!6212509/",
+   "q": "taz",
+   "d": "2026-09-11T12:08:00+00:00"
+  },
+  {
+   "t": "Ukraine - Russlands Drohnenkrieg gegen Zivilisten",
+   "s": "In der ukrainischen Stadt Cherson macht Russlands Armee mit Drohnen Jagd auf Zivilisten. Der tägliche Terror aus der Luft zielt laut UN darauf ab, die Bevölkerung zu vertreiben.",
+   "u": "https://www.deutschlandfunk.de/cherson-ukraine-russland-drohnenkrieg-zivilisten-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-11T11:54:00+00:00"
+  },
+  {
+   "t": "Arbeitsministerin Bas verspricht Übergangslösung für \"Rente mit 63\"",
+   "s": "Arbeitsministerin Bas hat in der Haushaltsdebatte die geplante Rentenreform der Bundesregierung verteidigt - auch die Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren. Betroffenen verspricht sie jedoch Übergangslösungen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bas-bundestag-reformen-bundesregierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T11:44:51+00:00"
+  },
+  {
+   "t": "25 Jahre nach 9/11: Der langsame Niedergang al-Qaidas",
+   "s": "25 Jahre nach dem 11. September spielt das Terrornetzwerk al-Qaida in der arabischen Welt kaum noch eine Rolle. Die Region beschäftigt heute vor allem die Palästinafrage.",
+   "u": "https://taz.de/25-Jahre-nach-9/11/!6212143/",
+   "q": "taz",
+   "d": "2026-09-11T11:31:00+00:00"
+  },
+  {
+   "t": "Brics-Gipfel in Delhi: Nicht westlich, aber nicht gegen den Westen",
+   "s": "Chinas Staatschef Xi Jinping kommt erstmals seit 2019 nach Indien – zum Brics-Gipfel. Gelingt dem Bündnis eine gemeinsame Politik trotz Unterschieden?",
+   "u": "https://taz.de/Brics-Gipfel-in-Delhi/!6212507/",
+   "q": "taz",
+   "d": "2026-09-11T11:26:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Russland greift Tankstellen in Kyjiw an",
+   "s": "Die russischen Drohnenangriffe auf die Ukraine gehen weiter, die wiederum attackiert Ziele in Russland. Kanada will Kyjiw bei der Drohnenproduktion helfen.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6212529/",
+   "q": "taz",
+   "d": "2026-09-11T11:24:00+00:00"
+  },
+  {
+   "t": "Tagebuch aus Armenien: Nach der Flucht kommt das große Spiel",
+   "s": "In Armenien haben sich Migranten aus Russland zusammengetan, um der Gesellschaft zu helfen. Sie kümmern sich um den Spielplatzbau.",
+   "u": "https://taz.de/Tagebuch-aus-Armenien/!6207623/",
+   "q": "taz",
+   "d": "2026-09-11T11:03:00+00:00"
+  },
+  {
+   "t": "Nachwahl in London: Camden calling",
+   "s": "Sagal Abdi-Wali will für Labour Keir Starmers früheren Wahlkreis gewinnen. Sie wäre die erste Frau mit somalischem Hintergrund im britischen Unterhaus.",
+   "u": "https://taz.de/Nachwahl-in-London/!6212170/",
+   "q": "taz",
+   "d": "2026-09-11T10:49:00+00:00"
+  },
+  {
+   "t": "Parteitag der US-Republikaner - Kommentar: Trump macht die Midterms zur Abstimmung über sich selbst",
+   "s": "Um den Republikanern Rückenwind für die US-Zwischenwahlen zu geben, hat Präsident Trump einen Parteitag veranstalten lassen. Trump selbst steht nicht zur Wahl. Doch ist alles auf seine Person zugeschnitten. Eine riskante Strategie.Von Anne Raith",
+   "u": "https://www.deutschlandfunk.de/donald-trump-zwischenwahlen-parteitag-republikaner-kommentar-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-11T10:48:00+00:00"
+  },
+  {
+   "t": "Berlin bleibt anders",
+   "s": "Die Hauptstadt wählt am 20. September ein neues Abgeordnetenhaus. Hauptthema der fünf eher unbekannten Kandidierenden für das Amt des \"Regierenden\" ist die Mietenpolitik. Was bedeuten die beiden wahrscheinlichsten Wahlausgangs-Szenarien für den Bund?Boeselager, Felicitas; Sittler, Friederike; Engelbrecht, Sebastian",
+   "u": "https://www.deutschlandfunk.de/wahlen-zum-abgeordnetenhaus-berlin-bleibt-anders-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-11T10:30:00+00:00"
+  },
+  {
+   "t": "Zeitenwende für Rot-Grün: Berlin und der Schock vom 11. September",
+   "s": "Die deutsche Politik reagiert vor 25 Jahren bestürzt auf die Nachricht von den Anschlägen in New York. Aber sie fasst sich schnell, schnürt zwei Sicherheitspakete und beschließt die Beteiligung am Afghanistan-Einsatz. Von J. Mayr.",
+   "u": "https://www.tagesschau.de/inland/11-september-reaktion-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T09:21:08+00:00"
+  },
+  {
+   "t": "Rente, Gesundheit, Pflege: Welche Reformpläne jetzt geändert werden könnten",
+   "s": "Rente, Gesundheit, Pflege: Die Kritik an den Reformplänen der Bundesregierung ist nach der Wahl in Sachsen-Anhalt noch lauter geworden. Wo könnte jetzt nachjustiert werden? Ein Überblick.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reformen-debatte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T08:05:35+00:00"
+  },
   {
    "t": "Landtagswahl in Mecklenburg-Vorpommern: AfD weiter vor SPD",
    "s": "Die AfD liegt in Mecklenburg-Vorpommern in den Umfragen zur Landtagswahl vorn. Trotzdem könnte Manuela Schwesig Ministerpräsidentin bleiben.",
@@ -17,7 +122,7 @@
    "d": "2026-09-11T07:35:00+00:00"
   },
   {
-   "t": "Republikaner-Event in Texas: Angst-Getöse, Hass und leere Ränge",
+   "t": "Republikaner-Event in Texas: Angstgetöse, Hass und leere Ränge",
    "s": "Scharfe Attacken gegen die Demokraten, Geld fürs Wählen: Die Trump-Show in Dallas ist zu Ende – fünf Lehren aus dem Republikaner-Parteitag.",
    "u": "https://taz.de/Republikaner-Event-in-Texas/!6212485/",
    "q": "taz",
@@ -64,111 +169,6 @@
    "u": "https://www.deutschlandfunk.de/sternzeit-11-september-2026-die-iss-ueber-dem-brennenden-world-trade-center-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-11T00:57:01+00:00"
-  },
-  {
-   "t": "Was die AfD in den Schulen in Sachsen-Anhalt verändern könnte",
-   "s": "Mehr Bismarck, weniger Hitler; Inklusion abschaffen und Unterricht zu Hause: Im Bereich der Bildungspolitik hat die AfD in Sachsen-Anhalt viele Pläne. Doch nicht alles, was politisch gefordert wird, ist rechtlich auch möglich. Von A. Tadey.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-bildungspolitik-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T18:03:25+00:00"
-  },
-  {
-   "t": "Gespräche zwischen BSW und AfD: Schmerzgrenze gesucht",
-   "s": "Das Bündnis Sahra Wagenknecht und die AfD haben viele Schnittmengen. Das erleichtert die Zusammenarbeit. Interessanter ist die Frage, was sie trennt.",
-   "u": "https://taz.de/Gespraeche-zwischen-BSW-und-AfD/!6212273/",
-   "q": "taz",
-   "d": "2026-09-10T17:53:00+00:00"
-  },
-  {
-   "t": "Debatte in sozialen Medien: Was ist eine Frau?",
-   "s": "Oft wird das Frau-Sein auf biologische Merkmale und als Opfer von sexualisierter Gewalt reduziert. Das ist verkürzt – und transfeindlich.",
-   "u": "https://taz.de/Debatte-in-sozialen-Medien/!6212245/",
-   "q": "taz",
-   "d": "2026-09-10T17:45:00+00:00"
-  },
-  {
-   "t": "Bundesanwaltschaft übernimmt Ermittlungen zu Strom-Sabotage",
-   "s": "Nach den Attacken auf Umspannwerke in mehreren Bundesländern hat die Bundesanwaltschaft die Ermittlungen übernommen. Dem Tatverdächtigen wird verfassungsfeindliche Sabotage vorgeworfen.",
-   "u": "https://www.tagesschau.de/inland/strom-sabotage-bundesanwaltschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T17:43:51+00:00"
-  },
-  {
-   "t": "Chaos im Jemen: Die blutige Rückkehr der Huthis",
-   "s": "Seit Jahren schwelt ein gewaltsamer Konflikt im Jemen. Regierungstruppen und Huthi-Miliz liefern sich erbitterte Kämpfe. Eine Lösung ist nicht in Sicht.",
-   "u": "https://taz.de/Chaos-im-Jemen/!6212201/",
-   "q": "taz",
-   "d": "2026-09-10T17:43:00+00:00"
-  },
-  {
-   "t": "Aufstieg der Islamophobie nach 9/11: Im Schatten des Generalverdachts",
-   "s": "Seit dem 11. September 2001 haben Vorurteile gegen Muslime massiv zugenommen. 25 Jahre später kommen Muslime selbst im politischen Mainstream an.",
-   "u": "https://taz.de/Aufstieg-der-Islamophobie-nach-9/11/!6212259/",
-   "q": "taz",
-   "d": "2026-09-10T17:33:00+00:00"
-  },
-  {
-   "t": "Scheich-Besuch in Deutschland: Was zählen schon Menschenrechte?",
-   "s": "Der Scheich der Vereinigten Arabischen Emirate wird beim Deutschlandbesuch hofiert. Dabei beliefern die Emirate viele Kriegsparteien mit Waffen.",
-   "u": "https://taz.de/Scheich-Besuch-in-Deutschland/!6212225/",
-   "q": "taz",
-   "d": "2026-09-10T16:05:00+00:00"
-  },
-  {
-   "t": "ARD-Vorwahlumfrage für Berlin: Linke liegt hauchdünn vor der CDU",
-   "s": "Es könnte eng werden bei der Wahl in Berlin: Die Linke liegt der ARD-Umfrage zufolge knapp vor der CDU. Das BSW würde es nicht ins Abgeordnetenhaus schaffen. Von Florian Riesewieck.",
-   "u": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-berlin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T16:00:31+00:00"
-  },
-  {
-   "t": "Nach AfD-Wahlerfolg - Debatten über Brandmauer und AfD-Verbotsverfahren nehmen Fahrt auf",
-   "s": "Über ein AfD-Verbotsverfahren, die Brandmauer, die Unvereinbarkeitsbeschlüsse der CDU sowie die Reformpläne der Bundesregierung wird nach dem Erdrutschsieg der AfD heftig diskutiert. Wird es beim „Weiter so“ des Kanzlers bleiben?",
-   "u": "https://www.deutschlandfunk.de/afd-wahlerfolg-brandmauer-verbotsverfahren-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-10T15:58:00+00:00"
-  },
-  {
-   "t": "Religion in Montenegro: Stoßgebete für Ratko Mladić",
-   "s": "Ein montenegrinischer Staatsanwalt ermittelt gegen einen Bischof der Serbisch-Orthodoxen Kirche. Er hatte dem Kriegsverbrecher Ratko Mladić gehuldigt.",
-   "u": "https://taz.de/Religion-in-Montenegro/!6212237/",
-   "q": "taz",
-   "d": "2026-09-10T15:56:00+00:00"
-  },
-  {
-   "t": "Staatsbesuch von Scheich in Berlin: Handelsvolumen schlägt Menschenrechte",
-   "s": "Der Staatspräsident der Vereinigten Arabischen Emirate, bin Zayid, ist in Berlin, es geht um Rüstungsdeals. Menschenrechtsorganisationen demonstrieren.",
-   "u": "https://taz.de/Staatsbesuch-von-Scheich-in-Berlin/!6212173/",
-   "q": "taz",
-   "d": "2026-09-10T15:50:00+00:00"
-  },
-  {
-   "t": "Erstes Halbjahr 2026: Eilverfahren gegen Jobcenter-Bescheide sprunghaft gestiegen",
-   "s": "Betroffene wehren sich häufiger mit Rechtsmitteln, wenn Leistungen des Jobcenters ausbleiben. Der Anstieg zeigt laut Unterstützern, wie groß die Not ist.",
-   "u": "https://taz.de/Erstes-Halbjahr-2026/!6212240/",
-   "q": "taz",
-   "d": "2026-09-10T15:45:00+00:00"
-  },
-  {
-   "t": "Durchsuchungen bei SPD-Kandidat Krach: Eine Frage des Fingerspitzengefühls",
-   "s": "Kurz vor der Berlin-Wahl rückt die Hannoveraner Staatsanwaltschaft den SPD-Spitzenkandidaten Steffen Krach in schlechtes Licht. War die Razzia wirklich so eilig?",
-   "u": "https://taz.de/Durchsuchungen-bei-SPD-Kandidat-Krach/!6212431/",
-   "q": "taz",
-   "d": "2026-09-10T15:32:00+00:00"
-  },
-  {
-   "t": "Landtagswahl in Mecklenburg-Vorpommern: AfD bleibt konstant, CDU nähert sich der 5-Prozent-Hürde",
-   "s": "Exklusiv: Eine repräsentative Umfrage nach der Sachsen-Anhalt-Wahl im Auftrag von Campact sieht keinen Schub für die AfD. Andere Umfragen sehr wohl.",
-   "u": "https://taz.de/Landtagswahl-in-Mecklenburg-Vorpommern/!6212372/",
-   "q": "taz",
-   "d": "2026-09-10T15:29:00+00:00"
-  },
-  {
-   "t": "Haushalt ohne Perspektiven: 1,4 Milliarden Euro weniger für Bildung und Familien",
-   "s": "Der Familien- und Bildungsausschuss hat getagt und weitere Kürzungen beschlossen. Der Staat zieht sich mehr und mehr aus der Verantwortung.",
-   "u": "https://taz.de/Haushalt-ohne-Perspektiven/!6212238/",
-   "q": "taz",
-   "d": "2026-09-10T15:18:00+00:00"
   }
  ]
 }

@@ -1,7 +1,21 @@
 {
  "name": "Wissen",
- "updated": "2026-09-11T08:04:15+00:00",
+ "updated": "2026-09-11T13:35:16+00:00",
  "items": [
+  {
+   "t": "Oktoberfest: So gut schützen Impfungen vor Atemwegsinfekten",
+   "s": "Die \"Wiesn-Grippe\" gibt es eigentlich nicht. Doch nach dem Oktoberfestbesuch klagen viele über Husten und Schnupfen. Welche Viren dahinterstecken und welche Impfungen helfen können. Von Doris Tromballa.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/oktoberfest-grippe-corona-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T10:29:58+00:00"
+  },
+  {
+   "t": "Weitere Nachrichten zu Gesundheit und Medizin",
+   "s": "Tagesaktuelle Nachrichten zu Medizin, Gesundheit und Corona. Neue Studien, Experten-Meinungen und Hintergründe zu aktuellen Wissens-Themen.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit",
+   "q": "Tagesschau",
+   "d": "2026-09-11T09:08:28+00:00"
+  },
   {
    "t": "Sind Flutkatastrophen wie im Himalaya auch in den Alpen möglich?",
    "s": "Die Flut in Nepal und Tibet Ende August kostete Hunderte Menschen das Leben. Ausgelöst wurde das Unglück durch einen Felssturz. Ist eine vergleichbare Katastrophe auch in den Alpen möglich? Von Frank Bäumer.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/studie-aufmerksamkeit-juckreiz-100.html",
    "q": "Tagesschau",
    "d": "2026-08-21T07:54:39+00:00"
-  },
-  {
-   "t": "Kinderärzte: Neue Untersuchung für Neun- bis Zehnjährige kommt",
-   "s": "Bei der Geburt eines Kindes erhalten Eltern ein gelbes Heft, das alle Vorsorgeuntersuchungen auflistet. Jetzt kommt noch die U10 hinzu, ein Check-up für Neun- bis Zehnjährige, der eine Lücke schließen soll. Von A. Braun und P. Kiss.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/u10-untersuchung-kinder-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-20T14:45:23+00:00"
-  },
-  {
-   "t": "Studie warnt vor deutlich mehr Waldbränden in Europa",
-   "s": "In Europa könnten künftig deutlich mehr Flächen brennen als bislang. Das zeigt eine Studie des Potsdam-Instituts für Klimafolgenforschung. Wie sehr das Risiko mit der Erderwärmung steigt - und was Brandmanagement leisten kann. Von S. Peyk.",
-   "u": "https://www.tagesschau.de/wissen/klima/pik-studie-waldbraende-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-20T09:01:46+00:00"
   }
  ]
 }

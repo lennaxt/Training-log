@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-09-11T08:04:13+00:00",
+ "updated": "2026-09-11T13:35:14+00:00",
  "items": [
+  {
+   "t": "Huthi-Miliz erobert Insel in wichtiger Meerenge Bab al-Mandab",
+   "s": "Die mit Iran verbündete Huthi-Miliz ist am Roten Meer offenbar weiter vorgerückt. Laut jemenitischen Regierungsquellen eroberte sie auch eine strategisch wichtige Insel in der Meerenge Bab al-Mandab.",
+   "u": "https://www.tagesschau.de/ausland/asien/jemen-huthi-rebellen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T12:45:43+00:00"
+  },
+  {
+   "t": "Fünf Tote nach Busunglück in der Schweiz",
+   "s": "Ein Reisebus ist in der Schweiz von der Straße abgekommen, dabei wurden nach Polizeiangaben fünf Menschen getötet. Der Bus eines niederländischen Reiseveranstalters war mit 45 Menschen an Bord unterwegs.",
+   "u": "https://www.tagesschau.de/ausland/europa/schweiz-busunfall-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T11:22:39+00:00"
+  },
+  {
+   "t": "Wie der 11. September die US-Außenpolitik verändert hat",
+   "s": "Der \"Krieg gegen den Terror\", die Logik von Präventivkriegen: Die Anschläge am 11. September 2001 hatten dramatische Folgen für die Außen- und Sicherheitspolitik der USA - die bis heute nachwirken. Von Carsten Kühntopp.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T09:33:10+00:00"
+  },
   {
    "t": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
    "s": "Erst am Donnerstag waren in Sumy drei Menschen bei einem russischen Angriff auf ein Einkaufszentrum getötet worden - nun wurde eines in Pawlohrad getroffen. Laut Behörden starben dabei fünf Menschen, mehr als 60 wurden verletzt.",
@@ -24,15 +45,8 @@
    "d": "2026-09-11T04:20:44+00:00"
   },
   {
-   "t": "Mehrere Tote nach Busunglück in der Schweiz",
-   "s": "Ein Reisebus ist in der Schweiz von der Straße abgekommen, dabei wurden nach Polizeiangaben mehrere Menschen getötet. Der Bus eines niederländischen Reiseveranstalters war mit mit knapp 50 Menschen an Bord unterwegs.",
-   "u": "https://www.tagesschau.de/ausland/europa/schweiz-busunfall-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T01:03:39+00:00"
-  },
-  {
    "t": "Huthi-Miliz nimmt laut Berichten Hafenstadt im Jemen ein",
-   "s": "Die Huthi haben im Jemen eine Offensive auf das Küstengebiet gestartet. Medienberichten zufolge nahm die vom Iran unterstützte Miliz nun die Hafenstadt Mokka ein - und kontrolliert damit einen Zugang zu einer strategisch wichtigen Meerenge.",
+   "s": "Die Huthi haben im Jemen eine Offensive auf das Küstengebiet gestartet. Medienberichten zufolge nahm die von Iran unterstützte Miliz nun die Hafenstadt Mokka ein - und kontrolliert damit einen Zugang zu einer strategisch wichtigen Meerenge.",
    "u": "https://www.tagesschau.de/ausland/asien/huthi-jemen-114.html",
    "q": "Tagesschau",
    "d": "2026-09-10T19:23:15+00:00"
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/grossbritannien-siedler-westjordanland-100.html",
    "q": "Tagesschau",
    "d": "2026-09-08T16:53:32+00:00"
-  },
-  {
-   "t": "Pistorius verspricht mehr Waffen - Trump telefoniert mit Putin",
-   "s": "Verteidigungsminister Pistorius sagt der Ukraine weitere Abfangraketen zu. Während Kiews Unterstützer ihre Hilfe ausbauen, spricht Moskau nach einem Telefonat zwischen Putin und Trump von einer möglichen Wiederannäherung an die USA.",
-   "u": "https://www.tagesschau.de/ausland/europa/pistorius-waffenhilfe-ukraine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T16:47:44+00:00"
-  },
-  {
-   "t": "Einbruch in Museum in Südfrankreich: Renoir-Gemälde gestohlen",
-   "s": "Es werden Erinnerungen an den Einbruch in den Louvre wach: In Südfrankreich sind wertvolle Gemälde des impressionistischen Künstlers Renoir aus einem Museum gestohlen worden. Einen Teil der Beute ließen die Täter bei ihrer Flucht zurück.",
-   "u": "https://www.tagesschau.de/ausland/europa/renoir-gemaelde-diebstahl-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T13:00:58+00:00"
   }
  ]
 }

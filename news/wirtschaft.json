@@ -1,7 +1,35 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-11T08:04:14+00:00",
+ "updated": "2026-09-11T13:35:15+00:00",
  "items": [
+  {
+   "t": "Firmenpleiten in Deutschland auf höchstem Stand seit 2013",
+   "s": "Im ersten Halbjahr ist die Zahl der Firmenpleiten in Deutschland auf den höchsten Stand seit 2013 gestiegen. Gleichzeitig gibt es aber auch besonders viele Neugründungen von Start-up-Unternehmen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-firmenpleiten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T12:21:33+00:00"
+  },
+  {
+   "t": "Geschäfte sollen künftig Kartenzahlung anbieten müssen",
+   "s": "Geschäfte, Restaurants und Dienstleister sollen nach Plänen von Finanzminister Klingbeil künftig neben Bargeld auch mindestens eine digitale Bezahlmöglichkeit anbieten müssen. Was das für Konsumenten und Unternehmen bedeutet.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bargeld-cash-bezahlen-einkaufen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T11:14:28+00:00"
+  },
+  {
+   "t": "Elektromobilität: Baut Deutschland die falschen Ladesäulen?",
+   "s": "Der Erfolg der E-Mobilität hängt nicht nur von den Fahrzeugen, sondern auch von der Ladeinfrastruktur ab. Je mehr Ladesäulen, desto besser - das war lange die Devise. Doch stimmt das noch? Von Thomas Eckert.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/elektro-autos-laden-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T11:13:36+00:00"
+  },
+  {
+   "t": "Kritik an Wegfall der Info-Pflicht bei höheren Krankenkassenbeiträgen",
+   "s": "Wird die Krankenkasse teurer, muss sie ihren Mitgliedern das nicht mehr aktiv mitteilen. Die Info-Pflicht wurde gestrichen. \"Ein Unding\", kritisieren Verbraucherschützer. Die Bundesregierung müsse diesen Fehler korrigieren.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/verbraucherzentralen-erhoehung-krankenkassenbeitraege-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T08:43:10+00:00"
+  },
   {
    "t": "Update Wirtschaft vom 11.09.2026",
    "s": "Update Wirtschaft vom 11.09.2026",
@@ -10,25 +38,11 @@
    "d": "2026-09-11T07:47:14+00:00"
   },
   {
-   "t": "Marktbericht: EZB-Zinserhöhung vergrault die Anleger",
-   "s": "Die Ölpreise steigen, Leitzinsen, Anleiherenditen und Inflation ebenfalls. Die Zeiten für die Anleger am Aktienmarkt sind derzeit schwierig - der DAX dürfte weiter zurückfallen und sein Wochenminus ausbauen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T05:37:44+00:00"
-  },
-  {
    "t": "Kommentar - Wer auf Strom setzt, spart künftig viel Geld",
    "s": "Die Zukunft gehört der Elektrifizierung. Doch die Stromrevolution verläuft noch immer zu langsam, um die Klimakrise zu bremsen.Überlegungen von Christian Stöcker",
    "u": "https://www.deutschlandfunkkultur.de/energiewende-electrotech-elektrifizierung-strom-geld-sparen-klimawandel-meinung-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-11T05:20:00+00:00"
-  },
-  {
-   "t": "Elektromobilität: Baut Deutschland die falschen Ladesäulen?",
-   "s": "Der Erfolg der E-Mobilität hängt nicht nur von den Fahrzeugen, sondern auch von der Ladeinfrastruktur ab. Je mehr Ladesäulen, desto besser - das war lange die Devise. Doch stimmt das noch? Von Thomas Eckert.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/elektro-autos-laden-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T04:23:49+00:00"
   },
   {
    "t": "Wirtschaft vor acht vom 10.09.2026",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/staatsverschuldung-zinskosten-deutschland-100.html",
    "q": "Tagesschau",
    "d": "2026-09-08T13:53:46+00:00"
-  },
-  {
-   "t": "Wahl in Sachsen-Anhalt: Arbeitgeber warnen vor \"Klima der Abschottung\"",
-   "s": "Vertreter der deutschen Industrie und Ökonomen gehen davon aus, dass sich der AfD-Wahlsieg in Sachsen-Anhalt negativ auf die Wirtschaft auswirken könnte. An die Bundesregierung richten sie den Appell, am Reformkurs festzuhalten.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T14:13:56+00:00"
-  },
-  {
-   "t": "Vereinigte Staaten - Die US-Schulden sind ein Risiko für die Weltwirtschaft",
-   "s": "Die US-Staatsschulden wachsen. Und das schneller als geplant. Deswegen steigen die Zinsen und Anleger werden nervöser. Das ist nicht nur ein US-Problem, denn die Folgen können weit über die Vereinigten Staaten hinaus reichen.",
-   "u": "https://www.deutschlandfunk.de/usa-staatsschulden-folgen-weltwirtschaft-zinsen-europa-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-07T12:00:00+00:00"
   }
  ]
 }

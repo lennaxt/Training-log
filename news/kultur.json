@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-09-11T08:04:17+00:00",
+ "updated": "2026-09-11T13:35:19+00:00",
  "items": [
+  {
+   "t": "New York City 25 Jahre nach 9/11: Anschlag auf ein Lebensgefühl",
+   "s": "Neoliberales Luxusprojekt: Die Turbo-Gentrifizierung nach dem 11. September hat die New Yorker von ihrer eigenen Stadt entfremdet.",
+   "u": "https://taz.de/New-York-City-25-Jahre-nach-9/11/!6212153/",
+   "q": "taz",
+   "d": "2026-09-11T08:50:00+00:00"
+  },
+  {
+   "t": "Republikaner-Event in Texas: Angstgetöse, Hass und leere Ränge",
+   "s": "Scharfe Attacken gegen die Demokraten, Geld fürs Wählen: Die Trump-Show in Dallas ist zu Ende – fünf Lehren aus dem Republikaner-Parteitag.",
+   "u": "https://taz.de/Republikaner-Event-in-Texas/!6212485/",
+   "q": "taz",
+   "d": "2026-09-11T07:08:00+00:00"
+  },
   {
    "t": "Aufstieg der Islamophobie nach 9/11: Im Schatten des Generalverdachts",
    "s": "Seit dem 11. September 2001 haben Vorurteile gegen Muslime massiv zugenommen. 25 Jahre später kommen Muslime selbst im politischen Mainstream an.",
@@ -11,7 +25,7 @@
   },
   {
    "t": "Parteitag der Republikaner in Dallas: Texanische Trump-Verehrung",
-   "s": "In den USA halten die Republikanischer erstmals einen Parteitag vor Zwischenwahlen ab. Trump verspricht Geldgeschenke – wohl wegen schlechter Umfragewerte.",
+   "s": "In den USA halten die Republikaner erstmals einen Parteitag vor Zwischenwahlen ab. Trump verspricht Geldgeschenke – wohl wegen schlechter Umfragewerte.",
    "u": "https://taz.de/Parteitag-der-Republikaner-in-Dallas/!6212149/",
    "q": "taz",
    "d": "2026-09-10T11:54:00+00:00"
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Fuer-Fracking-gegen-Migrantinnen/!6207246/",
    "q": "taz",
    "d": "2026-08-26T09:11:00+00:00"
-  },
-  {
-   "t": "Karen Attiah und die „Washington Post“: Was viele denken",
-   "s": "Wegen eines Posts über den Rechtsextremen Charlie Kirk verlor eine US-Journalistin ihren Job – zu Unrecht, wie nun entschieden wurde. Der Fall verrät viel.",
-   "u": "https://taz.de/Karen-Attiah-und-die-Washington-Post/!6206988/",
-   "q": "taz",
-   "d": "2026-08-25T17:56:00+00:00"
-  },
-  {
-   "t": "Vergeltungszölle gegen USA: Handelskrach zwischen USA und Kanada eskaliert",
-   "s": "Im Zollkonflikt mit dem Nachbarland setzt der US-Präsident auf Provokation: Der Ontariosee an der gemeinsamen Grenze solle künftig Amerikasee heißen.",
-   "u": "https://taz.de/Vergeltungszoelle-gegen-USA/!6206959/",
-   "q": "taz",
-   "d": "2026-08-25T14:46:00+00:00"
   }
  ]
 }

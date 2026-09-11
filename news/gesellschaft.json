@@ -1,7 +1,35 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-11T08:04:16+00:00",
+ "updated": "2026-09-11T13:35:18+00:00",
  "items": [
+  {
+   "t": "Urteil über Enkel-Gesetz: Hunderttausende Spanier verlieren Wahlrecht",
+   "s": "Sie haben den spanischen Pass, aber dürfen nicht wählen. Tausende Menschen, vor allem in Lateinamerika, sind von der Gerichtsentscheidung betroffen.",
+   "u": "https://taz.de/Urteil-ueber-Enkel-Gesetz/!6212364/",
+   "q": "taz",
+   "d": "2026-09-11T12:26:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Russland greift Tankstellen in Kyjiw an",
+   "s": "Die russischen Drohnenangriffe auf die Ukraine gehen weiter, die wiederum attackiert Ziele in Russland. Kanada will Kyjiw bei der Drohnenproduktion helfen.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6212529/",
+   "q": "taz",
+   "d": "2026-09-11T11:24:00+00:00"
+  },
+  {
+   "t": "Tagebuch aus Armenien: Nach der Flucht kommt das große Spiel",
+   "s": "In Armenien haben sich Migranten aus Russland zusammengetan, um der Gesellschaft zu helfen. Sie kümmern sich um den Spielplatzbau.",
+   "u": "https://taz.de/Tagebuch-aus-Armenien/!6207623/",
+   "q": "taz",
+   "d": "2026-09-11T11:03:00+00:00"
+  },
+  {
+   "t": "Nachwahl in London: Camden calling",
+   "s": "Sagal Abdi-Wali will für Labour Keir Starmers früheren Wahlkreis gewinnen. Sie wäre die erste Frau mit somalischem Hintergrund im britischen Unterhaus.",
+   "u": "https://taz.de/Nachwahl-in-London/!6212170/",
+   "q": "taz",
+   "d": "2026-09-11T10:49:00+00:00"
+  },
   {
    "t": "Religion in Montenegro: Stoßgebete für Ratko Mladić",
    "s": "Ein montenegrinischer Staatsanwalt ermittelt gegen einen Bischof der Serbisch-Orthodoxen Kirche. Er hatte dem Kriegsverbrecher Ratko Mladić gehuldigt.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Muellskandal-in-Kroatien/!6210557/",
    "q": "taz",
    "d": "2026-09-06T14:48:00+00:00"
-  },
-  {
-   "t": "Russlands Außenminister Lawrow: Deutschland will „erneut den Krieg“",
-   "s": "Zum ersten Mal besuchen Kushner und Witkoff die Hauptstadt der Ukraine. Russlands Außenminister Lawrow eskaliert rhetorisch nach Drohnenanschlägen in Leipzig.",
-   "u": "https://taz.de/Pendeldiplomatie-der-USA/!6210566/",
-   "q": "taz",
-   "d": "2026-09-06T13:42:00+00:00"
-  },
-  {
-   "t": "Armeekleidung für Frauen in der Ukraine: „Frauen sind keine kleinen Männer“",
-   "s": "Fast 75.000 Frauen kämpfen in der ukrainischen Armee. Doch es fehlt an passgenauen Schutzwesten und Uniformen. Das kann gefährlich werden.",
-   "u": "https://taz.de/Nichts-zum-Anziehen-Unpassende-Armeekleidung-ist-fuer-Frauen-im-Ukraine-Krieg-gefaehrlich/!6207377/",
-   "q": "taz",
-   "d": "2026-09-06T12:09:00+00:00"
-  },
-  {
-   "t": "US-Vermittler in der Ukraine: Trumps Schwiegersohn doch nicht so wichtig",
-   "s": "Erst sollten sie mit dem Flugzeug in Kyjiw landen, jetzt sind Jared Kushner und Steve Witkoff doch Zug gefahren – so wie alle. Kommt ein Ende des Kriegs näher?",
-   "u": "https://taz.de/US-Vermittler-in-der-Ukraine/!6210651/",
-   "q": "taz",
-   "d": "2026-09-06T11:48:00+00:00"
-  },
-  {
-   "t": "Geflüchtetenhelfer über Lage in Ceuta: „Wir werden mit dem Tod bedroht und durch die Stadt gejagt“",
-   "s": "Nolte Bauer hilft mit Mission Lifeline in Ceuta. Er erzählt von Bedrohungen und Angriffen und was die EU tun könnte, um die Situation zu entschärfen.",
-   "u": "https://taz.de/Gefluechtetenhelfer-ueber-Lage-in-Ceuta/!6209823/",
-   "q": "taz",
-   "d": "2026-09-06T08:20:00+00:00"
   }
  ]
 }

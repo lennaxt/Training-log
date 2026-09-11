@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-11T08:04:15+00:00",
+ "updated": "2026-09-11T13:35:17+00:00",
  "items": [
+  {
+   "t": "Abschiebepolitik der AfD: Rüstung für die „Remigration“",
+   "s": "Sachsen-Anhalts AfD-Wahlsieger Ulrich Siegmund verbindet die Rüstungsproduktion mit einer künftigen Abschiebeoffensive. Der potenzielle Partner BSW reagiert empört.",
+   "u": "https://taz.de/Abschiebepolitik-der-AfD/!6212509/",
+   "q": "taz",
+   "d": "2026-09-11T12:08:00+00:00"
+  },
   {
    "t": "Landtagswahl in Mecklenburg-Vorpommern: AfD weiter vor SPD",
    "s": "Die AfD liegt in Mecklenburg-Vorpommern in den Umfragen zur Landtagswahl vorn. Trotzdem könnte Manuela Schwesig Ministerpräsidentin bleiben.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/CDU-wenig-demokratisch/!6211764/",
    "q": "taz",
    "d": "2026-09-09T16:33:00+00:00"
-  },
-  {
-   "t": "Nach der Landtagswahl in Sachsen-Anhalt: Zehntausende demonstrieren gegen die rechtsextreme AfD",
-   "s": "Nach dem Wahlerfolg der AfD haben in Köln Tausende gegen Rechtsextremismus demonstriert. Bundesweit waren seit Sonntag 35.000 auf der Straße.",
-   "u": "https://taz.de/Nach-der-Landtagswahl-in-Sachsen-Anhalt/!6211725/",
-   "q": "taz",
-   "d": "2026-09-09T16:02:00+00:00"
   }
  ]
 }
