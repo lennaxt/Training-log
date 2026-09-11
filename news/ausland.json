@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-11T18:34:19+00:00",
+ "updated": "2026-09-11T23:16:34+00:00",
  "items": [
+  {
+   "t": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
+   "s": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden nach vorläufigen Angaben verletzt, darunter eine Frau schwer. An Bord des Verkehrsmittels waren rund 180 Passagiere.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T21:31:05+00:00"
+  },
+  {
+   "t": "Seenotretter in England als Ziel rechter Anfeindung",
+   "s": "Gegen die Ankunft von Flüchtlingen über den Ärmelkanal haben in England Hunderte protestiert. Nun wurde bekannt, dass sie Seenotretter angefeindet haben. Experten sehen eine neue Form rechter Mobilisierung. Von Franziska Hoppen.",
+   "u": "https://www.tagesschau.de/ausland/europa/uk-anfeindungen-seenotretter-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T18:45:23+00:00"
+  },
   {
    "t": "Gedenken zum 11. September in den USA: Ein ganzes Land trauert",
    "s": "Am 25. Jahrestag erinnern zahlreiche Zeremonien in den USA an die Tausenden Opfer der Terroranschläge vom 11. September 2001. Mehrere Ex-Präsidenten nahmen an der Gedenkveranstaltung am Ground Zero in New York teil.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-100.html",
    "q": "Tagesschau",
    "d": "2026-09-09T03:08:13+00:00"
-  },
-  {
-   "t": "Brisanter Bericht: Was wusste Netanjahu vor dem Hamas-Überfall 2023?",
-   "s": "Dass Israels Premier Netanjahu Warnungen vor dem Hamas-Überfall am 7. Oktober 2023 ignoriert haben soll, war bereits bekannt. Nun erreicht der Vorwurf durch eine brisante Enthüllung eine neue Dimension - und das kurz vor der Wahl. Von J. Ley.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-bericht-warnung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T20:03:18+00:00"
-  },
-  {
-   "t": "Großbritannien sanktioniert Handel mit Siedlungen im Westjordanland",
-   "s": "Großbritannien will ein Handelsverbot für Waren aus völkerrechtswidrigen israelischen Siedlungen im Westjordanland verhängen. Israel reagiert mit Gegenmaßnahmen: Das britische Konsulat in Jerusalem soll geschlossen werden.",
-   "u": "https://www.tagesschau.de/ausland/europa/grossbritannien-siedler-westjordanland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T16:53:32+00:00"
   }
  ]
 }
