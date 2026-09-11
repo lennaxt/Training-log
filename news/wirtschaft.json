@@ -1,13 +1,20 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-11T13:35:15+00:00",
+ "updated": "2026-09-11T18:34:20+00:00",
  "items": [
   {
-   "t": "Firmenpleiten in Deutschland auf höchstem Stand seit 2013",
-   "s": "Im ersten Halbjahr ist die Zahl der Firmenpleiten in Deutschland auf den höchsten Stand seit 2013 gestiegen. Gleichzeitig gibt es aber auch besonders viele Neugründungen von Start-up-Unternehmen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-firmenpleiten-100.html",
+   "t": "Marktbericht: Der DAX stabilisiert sich",
+   "s": "Dank Kursgewinnen der Wall Street und sinkender Ölpreise hat der DAX zum Wochenschluss wieder etwas Boden gut gemacht. Doch das Umfeld mit Inflations- und Zinssorgen bleibt schwierig.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-11T12:21:33+00:00"
+   "d": "2026-09-11T16:32:18+00:00"
+  },
+  {
+   "t": "KI-Entwickler Anthropic blockiert Biowaffen-Recherchen",
+   "s": "Das US-Unternehmen Anthropic hat nach eigenen Angaben mehrere Fälle missbräuchlicher Nutzung seines KI-Modells unterbunden. Dabei sei es auch um mutmaßliche Cyberspionage aus Russland und biologische Waffen gegangen.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/kuenstliche-intelligenz-gefahren-risiko-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T13:37:07+00:00"
   },
   {
    "t": "Geschäfte sollen künftig Kartenzahlung anbieten müssen",
@@ -162,13 +169,6 @@
    "u": "https://www.deutschlandfunk.de/ki-rechenzentren-usa-stromverbrauch-widerstand-trump-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-08T14:58:00+00:00"
-  },
-  {
-   "t": "Wachsende Verschuldung: Dem Staat drohen gewaltige Zinskosten",
-   "s": "Nicht nur die Staatsschulden steigen, auch die Zinszahlungen klettern neuen Berechnungen zufolge in den kommenden Jahren deutlich nach oben. Das vermindert den Spielraum für den Haushalt. Von Till Bücker.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/staatsverschuldung-zinskosten-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T13:53:46+00:00"
   }
  ]
 }

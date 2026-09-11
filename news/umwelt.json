@@ -1,7 +1,35 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-11T13:35:17+00:00",
+ "updated": "2026-09-11T18:34:21+00:00",
  "items": [
+  {
+   "t": "Effekte der Bezahlkarte: Nichts Genaues weiß die Bundesregierung nicht",
+   "s": "Die Bezahlkarte für Asylbewerber sollte Bürokratie reduzieren und Flüchtlinge abschrecken. Ihre Auswirkungen kann die Regierung aber nicht beziffern.",
+   "u": "https://taz.de/Effekte-der-Bezahlkarte/!6212363/",
+   "q": "taz",
+   "d": "2026-09-11T17:41:00+00:00"
+  },
+  {
+   "t": "Frauen im Landtag von Sachsen-Anhalt: Es lebe die neue alte Männerwelt",
+   "s": "Durch das starke Abschneiden der männerdominierten AfD gibt es im neuen Landtag von Sachsen-Anhalt weniger Frauen denn je. Das werden Frauen bald merken.",
+   "u": "https://taz.de/Frauen-im-Landtag-von-Sachsen-Anhalt/!6208156/",
+   "q": "taz",
+   "d": "2026-09-11T17:34:00+00:00"
+  },
+  {
+   "t": "Drogenweitergabe in Drogenkonsumräumen: Hamburg setzt sich für Legalisierung ein",
+   "s": "Drogenkonsumräume sollen Süchtige von der Straße holen. Doch wer Stoff teilt, fliegt raus. Hamburg will das über eine Bundesratsinitiative ändern.",
+   "u": "https://taz.de/Drogenweitergabe-in-Drogenkonsumraeumen/!6212189/",
+   "q": "taz",
+   "d": "2026-09-11T15:00:00+00:00"
+  },
+  {
+   "t": "Mutmaßlicher Stromnetz-Saboteur: 160 Ziele in Deutschland",
+   "s": "Nach der Festnahme von Daniel V. übernimmt die Bundesanwaltschaft die Ermittlungen. Der Verdächtige soll allein hinter den Angriffen auf das Stromnetz stecken.",
+   "u": "https://taz.de/Mutmasslicher-Stromnetz-Saboteur/!6212500/",
+   "q": "taz",
+   "d": "2026-09-11T14:10:00+00:00"
+  },
   {
    "t": "Abschiebepolitik der AfD: Rüstung für die „Remigration“",
    "s": "Sachsen-Anhalts AfD-Wahlsieger Ulrich Siegmund verbindet die Rüstungsproduktion mit einer künftigen Abschiebeoffensive. Der potenzielle Partner BSW reagiert empört.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Wahlerfolg-der-AfD-in-Sachsen-Anhalt/!6211652/",
    "q": "taz",
    "d": "2026-09-10T05:26:00+00:00"
-  },
-  {
-   "t": "AfD-Sieg in Sachsen-Anhalt: Welche Themen machen die Rechten so stark?",
-   "s": "Befragungen in Sachsen-Anhalt sollen zeigen, dass vor allem Migration die Wählenden der AfD zutreibt. Aber die Realität ist wohl deutlich komplexer.",
-   "u": "https://taz.de/AfD-Sieg-in-Sachsen-Anhalt/!6211742/",
-   "q": "taz",
-   "d": "2026-09-09T17:54:00+00:00"
-  },
-  {
-   "t": "Sparen an der Bildung: Uni Hamburg baut Studienplätze ab",
-   "s": "675 Studienplätze baut die Uni Hamburg ab, weil das Budget nicht reicht. Dabei steigt die Abiturientenzahl. Im Herbst sind Proteste geplant.",
-   "u": "https://taz.de/Sparen-an-der-Bildung/!6211686/",
-   "q": "taz",
-   "d": "2026-09-09T17:52:00+00:00"
-  },
-  {
-   "t": "Generaldebatte im Bundestag: Lernfähiger Nachhilfeschüler",
-   "s": "Kanzler Merz zielt darauf ab, die demokratischen Reihen zusammenzuhalten. Klimaschutz ist plötzlich wichtig. Doch der Rückhalt für ihn bröckelt.",
-   "u": "https://taz.de/Generaldebatte-im-Bundestag/!6206693/",
-   "q": "taz",
-   "d": "2026-09-09T16:59:00+00:00"
-  },
-  {
-   "t": "CDU wenig demokratisch: Wenn Wahlverlierer sich ein bisschen Macht schnappen",
-   "s": "Die knapp erfolgreiche Kampfkandidatur von Ministerpräsident Schulze um den CDU-Fraktionsvorsitz in Sachsen-Anhalt könnte nach hinten losgehen.",
-   "u": "https://taz.de/CDU-wenig-demokratisch/!6211764/",
-   "q": "taz",
-   "d": "2026-09-09T16:33:00+00:00"
   }
  ]
 }

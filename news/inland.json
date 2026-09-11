@@ -1,7 +1,77 @@
 {
  "name": "Inland",
- "updated": "2026-09-11T13:35:13+00:00",
+ "updated": "2026-09-11T18:34:18+00:00",
  "items": [
+  {
+   "t": "Isar-Aerospace-Raketenstart: Unendliche Weiten für die Aufrüstung",
+   "s": "Deutsche Po­li­ti­ke­r*in­nen feiern den Raketenstart auf Andøya. Was sie nicht in den Vordergrund stellen: Die Raumfahrt-Investitionen dienen auch dem Militär.",
+   "u": "https://taz.de/Isar-Aerospace-Raketenstart/!6208074/",
+   "q": "taz",
+   "d": "2026-09-11T17:43:00+00:00"
+  },
+  {
+   "t": "Zwischenrufe im Bundestag - Linken-Abgeordnete muss 2.000 Euro zahlen",
+   "s": "Für Zwischenrufe hat die Abgeordnete Köktürk drei Ordnungsrufe kassiert. Genug, um nach der neuen Geschäftsordnung des Bundestages eine Geldstrafe zu bekommen. Köktürk ist die erste, die zahlen muss.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/ordnungsgeld-koektuerk-bundestag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T17:41:26+00:00"
+  },
+  {
+   "t": "Effekte der Bezahlkarte: Nichts Genaues weiß die Bundesregierung nicht",
+   "s": "Die Bezahlkarte für Asylbewerber sollte Bürokratie reduzieren und Flüchtlinge abschrecken. Ihre Auswirkungen kann die Regierung aber nicht beziffern.",
+   "u": "https://taz.de/Effekte-der-Bezahlkarte/!6212363/",
+   "q": "taz",
+   "d": "2026-09-11T17:41:00+00:00"
+  },
+  {
+   "t": "Frauen im Landtag von Sachsen-Anhalt: Es lebe die neue alte Männerwelt",
+   "s": "Durch das starke Abschneiden der männerdominierten AfD gibt es im neuen Landtag von Sachsen-Anhalt weniger Frauen denn je. Das werden Frauen bald merken.",
+   "u": "https://taz.de/Frauen-im-Landtag-von-Sachsen-Anhalt/!6208156/",
+   "q": "taz",
+   "d": "2026-09-11T17:34:00+00:00"
+  },
+  {
+   "t": "Rüstungsgüter für \"Abschiebeoffensive\": Empörung über Siegmund-Aussage",
+   "s": "Nach seinem Wahlsieg in Sachsen-Anhalt hat AfD-Spitzenkandidat Siegmund davon gesprochen, Rüstungsgüter im Zusammenhang mit Abschiebungen zu nutzen. Seine Aussagen lösten bundesweit entsetzte Reaktionen aus.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-siegmund-reaktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T16:58:32+00:00"
+  },
+  {
+   "t": "Schwesig setzt im Landtagswahlkampf auf Persönlichkeit",
+   "s": "Ministerpräsidentin Manuela Schwesig tritt als \"Frau gegen Blau\" gegen die AfD an. Die SPD hält sie vor der Wahl in Mecklenburg-Vorpommern bewusst im Hintergrund. Gleich zwei AfD-Spitzenkandidaten spekulieren dagegen auf die Beliebtheit ihrer Partei.Pfeiffer, Heinrich",
+   "u": "https://www.deutschlandfunk.de/wahlduell-in-mecklenburg-vorpommern-schwesig-gegen-die-afd-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-11T16:40:00+00:00"
+  },
+  {
+   "t": "Debatte um AfD-Verbot - Ulrich Siegmunds Aussage über Rüstung und Remigration",
+   "s": "Die Debatte über ein mögliches AfD-Verbotsverfahren geht weiter. Unterdessen sorgen Aussagen von Ulrich Siegmund zu Rüstung und Remigration für Empörung. Die Radikalisierung der Partei habe zugenommen, sagt der Staatsrechtler Andreas Thielen.",
+   "u": "https://www.deutschlandfunk.de/afd-verbotsverfahren-ulrich-siegmund-remigration-verfassungsschutz-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-11T15:56:00+00:00"
+  },
+  {
+   "t": "Mutmaßlicher Stromnetz-Saboteur: 160 Ziele in Deutschland",
+   "s": "Nach der Festnahme von Daniel V. übernimmt die Bundesanwaltschaft die Ermittlungen. Der Verdächtige soll allein hinter den Angriffen auf das Stromnetz stecken.",
+   "u": "https://taz.de/Mutmasslicher-Stromnetz-Saboteur/!6212500/",
+   "q": "taz",
+   "d": "2026-09-11T14:10:00+00:00"
+  },
+  {
+   "t": "Gegenwind im Bundestag - Arbeitsministerin Bas verteidigt Reformen",
+   "s": "Ungerecht, sozial kalt, auf Sand gebaut: Arbeitsministerin Bas wird für den Haushaltsentwurf ihres Ministeriums von der Opposition scharf angegangen. Dabei ist der Etat so hoch nie. Von Dagmar Pepping.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bas-haushaltsdebatte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T13:41:00+00:00"
+  },
+  {
+   "t": "Krieg in Jemen: Die Huthi-Rebellen übernehmen den Jemen",
+   "s": "Im Jemen hat die Huthi-Miliz die Hafenstadt Mokka eingenommen – und blockiert zudem die für den internationalen Schiffsverkehr wichtige Meerenge Bab al-Mandab.",
+   "u": "https://taz.de/Krieg-in-Jemen/!6211552/",
+   "q": "taz",
+   "d": "2026-09-11T13:34:00+00:00"
+  },
   {
    "t": "Anschlagspläne: Hamas-Unterstützer in Berlin angeklagt",
    "s": "Mutmaßliche Mitglieder der Hamas sollen von Deutschland aus Waffen besorgt haben. Jetzt wurden sie angeklagt. Der Vorwurf: Zum zweiten Jahrestag des Überfalls auf Israel wollten sie Anschläge auf Juden verüben.",
@@ -94,81 +164,11 @@
    "d": "2026-09-11T10:30:00+00:00"
   },
   {
-   "t": "Zeitenwende für Rot-Grün: Berlin und der Schock vom 11. September",
-   "s": "Die deutsche Politik reagiert vor 25 Jahren bestürzt auf die Nachricht von den Anschlägen in New York. Aber sie fasst sich schnell, schnürt zwei Sicherheitspakete und beschließt die Beteiligung am Afghanistan-Einsatz. Von J. Mayr.",
-   "u": "https://www.tagesschau.de/inland/11-september-reaktion-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T09:21:08+00:00"
-  },
-  {
-   "t": "Rente, Gesundheit, Pflege: Welche Reformpläne jetzt geändert werden könnten",
-   "s": "Rente, Gesundheit, Pflege: Die Kritik an den Reformplänen der Bundesregierung ist nach der Wahl in Sachsen-Anhalt noch lauter geworden. Wo könnte jetzt nachjustiert werden? Ein Überblick.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reformen-debatte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T08:05:35+00:00"
-  },
-  {
-   "t": "Landtagswahl in Mecklenburg-Vorpommern: AfD weiter vor SPD",
-   "s": "Die AfD liegt in Mecklenburg-Vorpommern in den Umfragen zur Landtagswahl vorn. Trotzdem könnte Manuela Schwesig Ministerpräsidentin bleiben.",
-   "u": "https://taz.de/Landtagswahl-in-Mecklenburg-Vorpommern/!6212491/",
-   "q": "taz",
-   "d": "2026-09-11T07:50:00+00:00"
-  },
-  {
-   "t": "Krieg im Libanon: Israel gibt Zerstörung von Hisbollah-Tunneln bekannt",
-   "s": "Die israelische Armee sprengt die kürzlich eroberte unterirdische Infrastruktur der Hisbollah. Die Explosionen sind im gesamten Süden des Libanon zu spüren.",
-   "u": "https://taz.de/Krieg-im-Libanon/!6212492/",
-   "q": "taz",
-   "d": "2026-09-11T07:35:00+00:00"
-  },
-  {
-   "t": "Republikaner-Event in Texas: Angstgetöse, Hass und leere Ränge",
-   "s": "Scharfe Attacken gegen die Demokraten, Geld fürs Wählen: Die Trump-Show in Dallas ist zu Ende – fünf Lehren aus dem Republikaner-Parteitag.",
-   "u": "https://taz.de/Republikaner-Event-in-Texas/!6212485/",
-   "q": "taz",
-   "d": "2026-09-11T07:08:00+00:00"
-  },
-  {
-   "t": "Debatte über mögliches AfD-Verbotsverfahren geht weiter",
-   "s": "Die Debatte über ein mögliches Verbotsverfahren der AfD hält an. Der Vorsitzende der Innenministerkonferenz, Grote, unterstützte den Vorschlag, die Voraussetzungen für ein Verbot zu prüfen. Andere sind skeptisch.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-pruefung-verbotsverfahren-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T07:01:21+00:00"
-  },
-  {
-   "t": "9/11 - Ex-Außenminister Gabriel: Anschläge haben die Welt verändert",
-   "s": "Nach den Anschlägen vom 11. September 2001 waren Deutschland und die USA so eng beieinander wie nie zuvor, sagt Ex-Außenminister Sigmar Gabriel (SPD). Doch es sei auch der Beginn der Entfremdung gewesen.Buschert, Fanny",
-   "u": "https://www.deutschlandfunk.de/interview-sigmar-gabriel-vorsitzender-atlantik-bruecke-25-jahre-nach-9-11-100.html",
+   "t": "Politologe: Die Folgen von 9/11 spielen Trump in die Hände",
+   "s": "Die Anschläge vom 11. September 2001 führten zum amerikanischen \"Krieg gegen den Terror\" - eine psychologische Überreaktion mit erheblichen Belastungen für das eigene Land, meint der Politologe Josef Braml. Davon profitierte Donald Trump.Heckmann, Dirk-Oliver",
+   "u": "https://www.deutschlandfunk.de/wie-veraenderte-9-11-die-welt-interview-mit-josef-braml-usa-experte-100.html",
    "q": "Deutschlandfunk",
-   "d": "2026-09-11T06:15:00+00:00"
-  },
-  {
-   "t": "Aktion vor der Landtagswahl in MV: Mit Schokolade, Vanille und bunten Streuseln",
-   "s": "Im Softeisbus touren Wibke Seifarth und ihre Mitstreiterinnen vor der Landtagswahl durch Vorpommern. Sie wollen Begegnungsräume schaffen.",
-   "u": "https://taz.de/Aktion-vor-der-Landtagswahl-in-MV/!6205188/",
-   "q": "taz",
-   "d": "2026-09-11T05:40:00+00:00"
-  },
-  {
-   "t": "2001 ff.: Der permanente Ernstfall",
-   "s": "Die Sicherheitsgesetze, die nach den Anschlägen vom 11. September kamen, haben den Fokus auf Prävention verschoben. Sie gelten bis heute.",
-   "u": "https://taz.de/2001-ff/!6206477/",
-   "q": "taz",
-   "d": "2026-09-11T05:30:00+00:00"
-  },
-  {
-   "t": "Wie der 11. September die deutsche Gesellschaft prägte",
-   "s": "Der 11. September 2001 prägte auch die deutsche Gesellschaft. Insbesondere Muslime und Menschen mit Einwanderungsgeschichte fühlen sich seitdem misstrauisch beäugt. Von C. Horn und K. Nastarowitz.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/elfter-september-anschlaege-muslime-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T01:37:15+00:00"
-  },
-  {
-   "t": "Anschlag auf das World Trade Center war vom All aus zu sehen",
-   "s": "In den Stunden nach der Attacke auf das World Trade Center vor 25 Jahren flog die Internationale Raumstation mehrfach über New York hinweg. Dabei hat der NASA-Astronaut Frank Culbertson das Inferno aus 350 Kilometern Höhe fotografiert.Lorenzen, Dirk",
-   "u": "https://www.deutschlandfunk.de/sternzeit-11-september-2026-die-iss-ueber-dem-brennenden-world-trade-center-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-11T00:57:01+00:00"
+   "d": "2026-09-11T10:18:27+00:00"
   }
  ]
 }

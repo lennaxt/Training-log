@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-09-11T13:35:14+00:00",
+ "updated": "2026-09-11T18:34:19+00:00",
  "items": [
+  {
+   "t": "Gedenken zum 11. September in den USA: Ein ganzes Land trauert",
+   "s": "Am 25. Jahrestag erinnern zahlreiche Zeremonien in den USA an die Tausenden Opfer der Terroranschläge vom 11. September 2001. Mehrere Ex-Präsidenten nahmen an der Gedenkveranstaltung am Ground Zero in New York teil.",
+   "u": "https://www.tagesschau.de/ausland/amerika/new-york-gedenken-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T18:09:41+00:00"
+  },
+  {
+   "t": "Nach dem 11. September 2001 verschiebt sich der Fokus der NATO",
+   "s": "Nach der Terrorattacke auf die USA erklärte die NATO zum bisher einzigen Mal den Bündnisfall. In der Folge setzte sie neue Prioritäten und weitete ihren Aktionsradius aus. Heute sieht die Entwicklung wieder ganz anders aus. Von Thomas Spickhofen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/11-september-nato-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T16:50:32+00:00"
+  },
+  {
+   "t": "Huthi-Miliz greift nach wichtiger Meerenge Bab al-Mandab",
+   "s": "Die von Iran unterstützte Huthi-Miliz hat ihren Einfluss auf die Meerenge Bab al-Mandab erhöht: Die jemenitische Küste des Roten Meers und strategisch wichtige Inseln sind unter ihrer Kontrolle. Das hat Folgen für den Handel.",
+   "u": "https://www.tagesschau.de/ausland/huthi-eroberung-inseln-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T16:01:53+00:00"
+  },
+  {
+   "t": "Was New Yorks Muslime nach 9/11 durchmachen mussten",
+   "s": "Nach dem 11. September wurden viele Muslime in New York angefeindet, verhaftet oder ausspioniert. Heute ist ein Muslim erstmals Bürgermeister der Stadt. Er wurde jetzt Ziel einer islamophoben Kampagne. Von Giselle Ucar.",
+   "u": "https://www.tagesschau.de/ausland/amerika/muslime-new-york-9-11-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T13:37:59+00:00"
+  },
   {
    "t": "Huthi-Miliz erobert Insel in wichtiger Meerenge Bab al-Mandab",
    "s": "Die mit Iran verbündete Huthi-Miliz ist am Roten Meer offenbar weiter vorgerückt. Laut jemenitischen Regierungsquellen eroberte sie auch eine strategisch wichtige Insel in der Meerenge Bab al-Mandab.",
@@ -87,13 +115,6 @@
    "d": "2026-09-10T10:10:38+00:00"
   },
   {
-   "t": "Trump lockt auf Parteitag Wähler mit 5.000-Dollar-Versprechen",
-   "s": "Den Republikanern droht bei den US-Kongresswahlen im November eine Schlappe. Die Umfragewerte von Präsident Trump sinken. Er versucht, das Ruder herumzureißen - und verspricht im Falle eines Wahlsiegs 5.000 Dollar für jeden Erwachsenen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/parteitag-republikaner-dallas-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T07:03:50+00:00"
-  },
-  {
    "t": "Spanischer Geheimdienst warnte vor Ausnahmesituation in Ceuta",
    "s": "Ende Juli kamen binnen Stunden Zehntausende Migranten nach Ceuta. Neue Dokumente zeigen nun: Der spanische Geheimdienst hatte vor der beispiellosen Massenankunft von Menschen aus Marokko in der Exklave gewarnt.",
    "u": "https://www.tagesschau.de/ausland/europa/geheimdienst-warnte-offenbar-vor-andrang-in-ceuta-100.html",
@@ -108,13 +129,6 @@
    "d": "2026-09-10T00:37:15+00:00"
   },
   {
-   "t": "Argentiniens Präsident Milei wittert Chance im Falkland-Streit",
-   "s": "Argentiniens Präsident Milei heizt den alten Konflikt um die Falklandinseln wieder an. Dabei hofft er auf Rückendeckung von US-Präsident Trump. Konzerne, die vor den Inseln nach Öl suchen, stehen zunehmend unter Druck. Von Anne Herrberg.",
-   "u": "https://www.tagesschau.de/ausland/amerika/argentinien-falkland-trump-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T00:29:28+00:00"
-  },
-  {
    "t": "Bericht über Warnung vor Hamas-Überfall: Netanjahu plant Klage",
    "s": "Ein Bericht der Zeitung Haaretz erhebt einen brisanten Vorwurf gegen Israels Premier Netanjahu: Er soll eine ausdrückliche Warnung vor einem Großangriff der Hamas eineinhalb Wochen vor dem Überfall ignoriert haben. Netanjahu dementiert - und will klagen.",
    "u": "https://www.tagesschau.de/ausland/asien/netanjahu-klage-hamas-ueberfall-100.html",
@@ -122,25 +136,11 @@
    "d": "2026-09-09T16:22:13+00:00"
   },
   {
-   "t": "Parteitag der Republikaner: Gute Stimmung für die Zwischenwahlen?",
-   "s": "Normalerweise finden vor den US-Zwischenwahlen keine Parteitage statt. Doch diesmal hat Trump festgelegt, dass ein zweitägiges Event den Wahlkampf einläuten soll. Ihm geht es darum, \"die Nation zu retten\". Von C. Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-republikaner-parteitag-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T14:49:43+00:00"
-  },
-  {
    "t": "EU könnte Fördermittel für Sachsen-Anhalt einfrieren",
    "s": "In Ungarn und Polen war es schon Praxis: Die EU fror Fördermittel ein. Sollte auch eine mögliche AfD-Regierung in Sachsen-Anhalt EU-Grundrechte brechen, droht dem Land ein Zahlungsstopp - und damit ein Finanzloch. Von J.-M. Magro.",
    "u": "https://www.tagesschau.de/ausland/europa/eu-foerdermittel-sachsen-anhalt-100.html",
    "q": "Tagesschau",
    "d": "2026-09-09T11:33:13+00:00"
-  },
-  {
-   "t": "USA kündigen Einfuhrverbot für einige kanadische Waren an",
-   "s": "Der Zollkonflikt zwischen den USA und Kanada geht in die nächste Runde: Nach den jüngsten Zöllen aus Ottawa hat Washington jetzt milliardenschwere Einfuhrverbote für bestimmte kanadische Produkte angekündigt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kanada-usa-zollstreit-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T07:16:24+00:00"
   },
   {
    "t": "USA zerstören fünf iranische Öltanker - Iran reagiert mit Angriffen",
