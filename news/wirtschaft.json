@@ -1,7 +1,35 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-10T23:11:35+00:00",
+ "updated": "2026-09-11T08:04:14+00:00",
  "items": [
+  {
+   "t": "Update Wirtschaft vom 11.09.2026",
+   "s": "Update Wirtschaft vom 11.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1647120.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T07:47:14+00:00"
+  },
+  {
+   "t": "Marktbericht: EZB-Zinserhöhung vergrault die Anleger",
+   "s": "Die Ölpreise steigen, Leitzinsen, Anleiherenditen und Inflation ebenfalls. Die Zeiten für die Anleger am Aktienmarkt sind derzeit schwierig - der DAX dürfte weiter zurückfallen und sein Wochenminus ausbauen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T05:37:44+00:00"
+  },
+  {
+   "t": "Kommentar - Wer auf Strom setzt, spart künftig viel Geld",
+   "s": "Die Zukunft gehört der Elektrifizierung. Doch die Stromrevolution verläuft noch immer zu langsam, um die Klimakrise zu bremsen.Überlegungen von Christian Stöcker",
+   "u": "https://www.deutschlandfunkkultur.de/energiewende-electrotech-elektrifizierung-strom-geld-sparen-klimawandel-meinung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-11T05:20:00+00:00"
+  },
+  {
+   "t": "Elektromobilität: Baut Deutschland die falschen Ladesäulen?",
+   "s": "Der Erfolg der E-Mobilität hängt nicht nur von den Fahrzeugen, sondern auch von der Ladeinfrastruktur ab. Je mehr Ladesäulen, desto besser - das war lange die Devise. Doch stimmt das noch? Von Thomas Eckert.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/elektro-autos-laden-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T04:23:49+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 10.09.2026",
    "s": "Wirtschaft vor acht vom 10.09.2026",
@@ -10,11 +38,11 @@
    "d": "2026-09-10T18:27:31+00:00"
   },
   {
-   "t": "Marktbericht: Der DAX dreht ins Minus",
-   "s": "Der DAX hat weiter an Boden verloren. Denn die Zinserhöhung der EZB war zwar erwartet worden, könnte aber nicht die letzte gewesen sein. Besonders die hohen Ölpreise lasten weiter auf dem Markt.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
+   "t": "Emirate investieren 40 Milliarden Euro in Deutschland",
+   "s": "Deutschland und die Vereinigten Arabischen Emirate wollen ihre Beziehungen ausbauen. Der Golfstaat plant Investitionen von 40 Milliarden Euro. Zudem darf die Fluggesellschaft Emirates eine weitere deutsche Stadt anfliegen. Von Nicole Markwald.",
+   "u": "https://www.tagesschau.de/ausland/asien/vae-deutschland-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-10T16:32:35+00:00"
+   "d": "2026-09-10T18:24:58+00:00"
   },
   {
    "t": "USA gegen China - Mercedes-Benz droht, unter die Räder zu kommen",
@@ -45,13 +73,6 @@
    "d": "2026-09-10T12:16:55+00:00"
   },
   {
-   "t": "Wer muss wie viel sparen im Gesundheitswesen?",
-   "s": "Heute berät der Bundestag über den Gesundheits-Etat. Bei Kliniken, Arzneien oder auch Psychotherapeuten sollen nach dem Willen der Regierung Milliarden eingespart werden. Wen trifft es am härtesten? Von Petra Boberg.",
-   "u": "https://www.tagesschau.de/wirtschaft/krankenkassen-gesundheitsreform-einsparungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T12:06:13+00:00"
-  },
-  {
    "t": "Wo die Verbraucherpreise am stärksten steigen",
    "s": "Der Iran-Krieg treibt die Energiepreise in die Höhe und verteuert das Leben der Verbraucherinnen und Verbraucher in Deutschland. Wo wird das besonders spürbar? Und wo sind Preise zuletzt gesunken?",
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-deutschland-august-details-100.html",
@@ -66,13 +87,6 @@
    "d": "2026-09-10T08:27:47+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 10.09.2026",
-   "s": "Update Wirtschaft vom 10.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1646496.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T08:12:48+00:00"
-  },
-  {
    "t": "Teures Heizöl - warten oder kaufen?",
    "s": "Der Ölpreis ist hoch, die Heizsaison beginnt schon bald. Viele Verbraucher sind verunsichert. Lohnt es sich jetzt, Heizöl zu bestellen? Oder soll man auf sinkende Preise warten? Von Felix Mannheim und Jörg Marksteiner.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/oelpreise-heizen-100.html",
@@ -85,13 +99,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/digitales/apple-iphone-faltbar-100.html",
    "q": "Tagesschau",
    "d": "2026-09-09T19:58:46+00:00"
-  },
-  {
-   "t": "Bundesgerichtshof: Kaskoversicherte tragen \"Werkstattrisiko\"",
-   "s": "Rechnet eine Autowerkstatt für eine Reparatur mehr ab als nötig, muss die Kaskoversicherung nicht dafür zahlen. Das Risiko trägt der Versicherte, entschied der Bundesgerichtshof. Von Antonetta Stephany.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/bgh-urteil-autoversicherungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T16:56:39+00:00"
   },
   {
    "t": "Haushaltsentwurf - Eine gigantische Neuverschuldung und viele Fragezeichen",
@@ -115,20 +122,6 @@
    "d": "2026-09-09T12:46:00+00:00"
   },
   {
-   "t": "Regionalklassen: Wo die Kfz-Versicherung am teuersten ist",
-   "s": "Die Beiträge zur Kfz-Versicherung richten sich unter anderem nach der Regionalklasse. Nun hat der Branchenverband diese neu berechnet - und sich dabei an der Schadenbilanz in den Zulassungsbezirken orientiert.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/kfz-versicherung-regionalklassen-schadensbilanz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T11:39:29+00:00"
-  },
-  {
-   "t": "Airlines fordern Konsequenzen nach Flugchaos in Großbritannien",
-   "s": "Wegen einer Störung im System der Flugsicherung sind in Großbritannien weit über 1.000 Flüge ausgefallen, auch heute kommt es noch zu zahlreichen Ausfällen und Verspätungen. Mehrere Airlines äußerten scharfe Kritik an der Flugsicherung.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/flughaefen-grossbritannien-ausfaelle-chaos-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T11:32:09+00:00"
-  },
-  {
    "t": "Boom der Batteriespeicher",
    "s": "In Deutschland entstehen immer mehr große Batteriespeicher, die Schwankungen im Stromnetz ausgleichen. Jüngstes Beispiel ist Aachen. Wo einst Elektronik produziert wurde, werden Riesen-Akkus errichtet. Von Philipp Wundersee.",
    "u": "https://www.tagesschau.de/wirtschaft/technologie/batterie-speicher-108.html",
@@ -136,25 +129,11 @@
    "d": "2026-09-09T09:26:04+00:00"
   },
   {
-   "t": "Handels-Gastronomie: Imbisse in Geschäften gefragt wie nie",
-   "s": "Frikadellen vom Baumarkt-Parkplatz, belegte Brötchen im Möbelhaus: Der Verkauf von Essen in Geschäften boomt. Einer Studie zufolge ist damit im vergangenen Jahr so viel Umsatz erzielt worden wie noch nie.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/handelsgastronomie-umsatzrekord-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T08:09:03+00:00"
-  },
-  {
    "t": "Apple-Aktie: Wird der KI-Rückstand zum Vorteil?",
    "s": "Apple gilt bei künstlicher Intelligenz als Nachzügler - Symbol dafür ist Siri. Warum ausgerechnet geringere KI-Ausgaben zum Vorteil werden könnten und was den iPhone-Konzern jetzt unter Druck setzt. Von Angela Göpfert.",
    "u": "https://www.tagesschau.de/wirtschaft/boerse/apple-aktie-siri-iphone-ki-100.html",
    "q": "Tagesschau",
    "d": "2026-09-09T05:13:06+00:00"
-  },
-  {
-   "t": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
-   "s": "Ein Streik dürfte den Bahnverkehr in den Niederlanden heute weitgehend zum Stillstand bringen. Betroffen sind auch mehrere Verbindungen von und nach Deutschland. Hintergrund sind geplante Einschnitte im Sozialsystem.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/niederlande-streik-bahnverkehr-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T23:08:56+00:00"
   },
   {
    "t": "Smart-City-Ranking: Warum Stuttgart Deutschlands digitalste Stadt ist",
@@ -169,6 +148,27 @@
    "u": "https://www.deutschlandfunk.de/ki-rechenzentren-usa-stromverbrauch-widerstand-trump-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-08T14:58:00+00:00"
+  },
+  {
+   "t": "Wachsende Verschuldung: Dem Staat drohen gewaltige Zinskosten",
+   "s": "Nicht nur die Staatsschulden steigen, auch die Zinszahlungen klettern neuen Berechnungen zufolge in den kommenden Jahren deutlich nach oben. Das vermindert den Spielraum für den Haushalt. Von Till Bücker.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/staatsverschuldung-zinskosten-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-08T13:53:46+00:00"
+  },
+  {
+   "t": "Wahl in Sachsen-Anhalt: Arbeitgeber warnen vor \"Klima der Abschottung\"",
+   "s": "Vertreter der deutschen Industrie und Ökonomen gehen davon aus, dass sich der AfD-Wahlsieg in Sachsen-Anhalt negativ auf die Wirtschaft auswirken könnte. An die Bundesregierung richten sie den Appell, am Reformkurs festzuhalten.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-07T14:13:56+00:00"
+  },
+  {
+   "t": "Vereinigte Staaten - Die US-Schulden sind ein Risiko für die Weltwirtschaft",
+   "s": "Die US-Staatsschulden wachsen. Und das schneller als geplant. Deswegen steigen die Zinsen und Anleger werden nervöser. Das ist nicht nur ein US-Problem, denn die Folgen können weit über die Vereinigten Staaten hinaus reichen.",
+   "u": "https://www.deutschlandfunk.de/usa-staatsschulden-folgen-weltwirtschaft-zinsen-europa-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T12:00:00+00:00"
   }
  ]
 }

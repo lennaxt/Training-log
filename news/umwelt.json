@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-10T23:11:36+00:00",
+ "updated": "2026-09-11T08:04:15+00:00",
  "items": [
+  {
+   "t": "Landtagswahl in Mecklenburg-Vorpommern: AfD weiter vor SPD",
+   "s": "Die AfD liegt in Mecklenburg-Vorpommern in den Umfragen zur Landtagswahl vorn. Trotzdem könnte Manuela Schwesig Ministerpräsidentin bleiben.",
+   "u": "https://taz.de/Landtagswahl-in-Mecklenburg-Vorpommern/!6212491/",
+   "q": "taz",
+   "d": "2026-09-11T07:50:00+00:00"
+  },
+  {
+   "t": "Aktion vor der Landtagswahl in MV: Mit Schokolade, Vanille und bunten Streuseln",
+   "s": "Im Softeisbus touren Wibke Seifarth und ihre Mitstreiterinnen vor der Landtagswahl durch Vorpommern. Sie wollen Begegnungsräume schaffen.",
+   "u": "https://taz.de/Aktion-vor-der-Landtagswahl-in-MV/!6205188/",
+   "q": "taz",
+   "d": "2026-09-11T05:40:00+00:00"
+  },
+  {
+   "t": "2001 ff.: Der permanente Ernstfall",
+   "s": "Die Sicherheitsgesetze, die nach den Anschlägen vom 11. September kamen, haben den Fokus auf Prävention verschoben. Sie gelten bis heute.",
+   "u": "https://taz.de/2001-ff/!6206477/",
+   "q": "taz",
+   "d": "2026-09-11T05:30:00+00:00"
+  },
   {
    "t": "Gespräche zwischen BSW und AfD: Schmerzgrenze gesucht",
    "s": "Das Bündnis Sahra Wagenknecht und die AfD haben viele Schnittmengen. Das erleichtert die Zusammenarbeit. Interessanter ist die Frage, was sie trennt.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Nach-der-Landtagswahl-in-Sachsen-Anhalt/!6211725/",
    "q": "taz",
    "d": "2026-09-09T16:02:00+00:00"
-  },
-  {
-   "t": "Kitas und Co nach dem Hitzesommer: Soziale Kälte wird heißes Thema",
-   "s": "Die Klimakrise macht keinen Halt vor Kitas, Heimen und Beratungsstellen. Soziale Einrichtungen berichten von Ausnahmezuständen – und fordern Hilfe.",
-   "u": "https://taz.de/Kitas-und-Co-nach-dem-Hitzesommer/!6211697/",
-   "q": "taz",
-   "d": "2026-09-09T16:01:00+00:00"
-  },
-  {
-   "t": "„Strategisch wählen“ in Sachsen-Anhalt: „Es geht um die demokratische Gefahrenabwehr“",
-   "s": "Campact zieht ein positives Resümee aus dem Aufruf, nicht CDU und Linke, sondern SPD und Grüne zu wählen. Kein Grund, die Strategie zu ändern.",
-   "u": "https://taz.de/Strategisch-waehlen-in-Sachsen-Anhalt/!6211502/",
-   "q": "taz",
-   "d": "2026-09-09T15:35:00+00:00"
-  },
-  {
-   "t": "Regierungsknall in Thüringen: Gehen Sie weiter, hier gibt es nichts zu sehen, wirklich",
-   "s": "Die BSW-Fraktion in Thüringen ist Geschichte. Dennoch bemüht sich CDU-Ministerpräsident Voigt um Normalität. Alles wie bisher?",
-   "u": "https://taz.de/Regierungsknall-in-Thueringen/!6211766/",
-   "q": "taz",
-   "d": "2026-09-09T15:21:00+00:00"
   }
  ]
 }

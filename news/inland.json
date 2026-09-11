@@ -1,7 +1,70 @@
 {
  "name": "Inland",
- "updated": "2026-09-10T23:11:34+00:00",
+ "updated": "2026-09-11T08:04:13+00:00",
  "items": [
+  {
+   "t": "Landtagswahl in Mecklenburg-Vorpommern: AfD weiter vor SPD",
+   "s": "Die AfD liegt in Mecklenburg-Vorpommern in den Umfragen zur Landtagswahl vorn. Trotzdem könnte Manuela Schwesig Ministerpräsidentin bleiben.",
+   "u": "https://taz.de/Landtagswahl-in-Mecklenburg-Vorpommern/!6212491/",
+   "q": "taz",
+   "d": "2026-09-11T07:50:00+00:00"
+  },
+  {
+   "t": "Krieg im Libanon: Israel gibt Zerstörung von Hisbollah-Tunneln bekannt",
+   "s": "Die israelische Armee sprengt die kürzlich eroberte unterirdische Infrastruktur der Hisbollah. Die Explosionen sind im gesamten Süden des Libanon zu spüren.",
+   "u": "https://taz.de/Krieg-im-Libanon/!6212492/",
+   "q": "taz",
+   "d": "2026-09-11T07:35:00+00:00"
+  },
+  {
+   "t": "Republikaner-Event in Texas: Angst-Getöse, Hass und leere Ränge",
+   "s": "Scharfe Attacken gegen die Demokraten, Geld fürs Wählen: Die Trump-Show in Dallas ist zu Ende – fünf Lehren aus dem Republikaner-Parteitag.",
+   "u": "https://taz.de/Republikaner-Event-in-Texas/!6212485/",
+   "q": "taz",
+   "d": "2026-09-11T07:08:00+00:00"
+  },
+  {
+   "t": "Debatte über mögliches AfD-Verbotsverfahren geht weiter",
+   "s": "Die Debatte über ein mögliches Verbotsverfahren der AfD hält an. Der Vorsitzende der Innenministerkonferenz, Grote, unterstützte den Vorschlag, die Voraussetzungen für ein Verbot zu prüfen. Andere sind skeptisch.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-pruefung-verbotsverfahren-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T07:01:21+00:00"
+  },
+  {
+   "t": "9/11 - Ex-Außenminister Gabriel: Anschläge haben die Welt verändert",
+   "s": "Nach den Anschlägen vom 11. September 2001 waren Deutschland und die USA so eng beieinander wie nie zuvor, sagt Ex-Außenminister Sigmar Gabriel (SPD). Doch es sei auch der Beginn der Entfremdung gewesen.Buschert, Fanny",
+   "u": "https://www.deutschlandfunk.de/interview-sigmar-gabriel-vorsitzender-atlantik-bruecke-25-jahre-nach-9-11-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-11T06:15:00+00:00"
+  },
+  {
+   "t": "Aktion vor der Landtagswahl in MV: Mit Schokolade, Vanille und bunten Streuseln",
+   "s": "Im Softeisbus touren Wibke Seifarth und ihre Mitstreiterinnen vor der Landtagswahl durch Vorpommern. Sie wollen Begegnungsräume schaffen.",
+   "u": "https://taz.de/Aktion-vor-der-Landtagswahl-in-MV/!6205188/",
+   "q": "taz",
+   "d": "2026-09-11T05:40:00+00:00"
+  },
+  {
+   "t": "2001 ff.: Der permanente Ernstfall",
+   "s": "Die Sicherheitsgesetze, die nach den Anschlägen vom 11. September kamen, haben den Fokus auf Prävention verschoben. Sie gelten bis heute.",
+   "u": "https://taz.de/2001-ff/!6206477/",
+   "q": "taz",
+   "d": "2026-09-11T05:30:00+00:00"
+  },
+  {
+   "t": "Wie der 11. September die deutsche Gesellschaft prägte",
+   "s": "Der 11. September 2001 prägte auch die deutsche Gesellschaft. Insbesondere Muslime und Menschen mit Einwanderungsgeschichte fühlen sich seitdem misstrauisch beäugt. Von C. Horn und K. Nastarowitz.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/elfter-september-anschlaege-muslime-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T01:37:15+00:00"
+  },
+  {
+   "t": "Anschlag auf das World Trade Center war vom All aus zu sehen",
+   "s": "In den Stunden nach der Attacke auf das World Trade Center vor 25 Jahren flog die Internationale Raumstation mehrfach über New York hinweg. Dabei hat der NASA-Astronaut Frank Culbertson das Inferno aus 350 Kilometern Höhe fotografiert.Lorenzen, Dirk",
+   "u": "https://www.deutschlandfunk.de/sternzeit-11-september-2026-die-iss-ueber-dem-brennenden-world-trade-center-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-11T00:57:01+00:00"
+  },
   {
    "t": "Was die AfD in den Schulen in Sachsen-Anhalt verändern könnte",
    "s": "Mehr Bismarck, weniger Hitler; Inklusion abschaffen und Unterricht zu Hause: Im Bereich der Bildungspolitik hat die AfD in Sachsen-Anhalt viele Pläne. Doch nicht alles, was politisch gefordert wird, ist rechtlich auch möglich. Von A. Tadey.",
@@ -106,69 +169,6 @@
    "u": "https://taz.de/Haushalt-ohne-Perspektiven/!6212238/",
    "q": "taz",
    "d": "2026-09-10T15:18:00+00:00"
-  },
-  {
-   "t": "ARD-Vorwahlumfrage für Mecklenburg-Vorpommern: AfD klar vor SPD",
-   "s": "In der ARD-Umfrage vor der Wahl in Mecklenburg-Vorpommern liegt die AfD fünf Prozentpunkte vor der SPD. Die Mehrheit spricht sich jedoch für eine SPD-geführte Landesregierung aus. Von Claudia Müller.",
-   "u": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-mecklenburg-vorpommern-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T15:00:39+00:00"
-  },
-  {
-   "t": "Das 5000-Dollar-Versprechen - Die Republikaner vor den US-Zwischenwahlen",
-   "s": "Donald Trump verspricht beim Parteitag der Republikaner 5000 Dollar für jeden US-Bürger, sollte seine Partei die Zwischenwahlen gewinnen. Kann er mit solchen Versprechen von seiner politischen Bilanz ablenken? Und: Warum sind die Gasspeicher so leer?Stephanie Rohde",
-   "u": "https://www.deutschlandfunk.de/usa-parteitag-republikaner-trump-zwischenwahlen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-10T15:00:00+00:00"
-  },
-  {
-   "t": "Kenia verschärft Kurs gegen Migranten: Scharfe Kritik und Proteste mit Graffiti",
-   "s": "Kenia will Arbeitsmigranten ohne Joberlaubnis aus dem Land werfen. Die Folge der aufgeheizten Lage: Hass und Hetze gegen Menschen aus Uganda oder Burundi.",
-   "u": "https://taz.de/Kenia-verschaerft-Kurs-gegen-Migranten/!6212152/",
-   "q": "taz",
-   "d": "2026-09-10T14:55:00+00:00"
-  },
-  {
-   "t": "Alltag nach dem 11. September: Ständig unter Verdacht",
-   "s": "Was macht es mit Menschen, wenn sie plötzlich beweisen müssen, dass sie keine Täter sind? Burak Yılmaz, Bilal Bahadır und Khushwant Singh erzählen.",
-   "u": "https://taz.de/Alltag-nach-dem-11-September/!6209302/",
-   "q": "taz",
-   "d": "2026-09-10T14:28:00+00:00"
-  },
-  {
-   "t": "Ceuta-Krise: Spanische Regierung gibt Dokumente frei",
-   "s": "Sicherheitsbehörden warnten wohl vor einem Ansturm auf die Exklave Ceuta. Die spanische Regierung und Opposition interpretieren dies verschieden.",
-   "u": "https://taz.de/Ceuta-Krise/!6212198/",
-   "q": "taz",
-   "d": "2026-09-10T14:21:00+00:00"
-  },
-  {
-   "t": "Haushaltsberatungen: Dobrindt verteidigt höhere Ausgaben",
-   "s": "Mehr Geld für Polizei und Cyberschutz: Bei den Haushaltsberatungen im Bundestag hat Innenminister Dobrindt seinen Kurs verteidigt. Grüne und Linke kritisierten Kürzungen bei politischer Bildung und Integration.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-dobrindt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T13:33:02+00:00"
-  },
-  {
-   "t": "Finanzministerium will Krypto-Gewinne künftig besteuern",
-   "s": "Gewinne aus Kryptogeschäften werden bislang anders besteuert als reguläre Finanzprodukte. Dies möchte das Finanzministerium ändern. Ein Referentenentwurf, der dem ARD-Hauptstadtstudio, plant eine Änderung ab 2027. Von Lissy Kaufmann.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/besteuerung-krypto-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T13:11:29+00:00"
-  },
-  {
-   "t": "Jens Spahn entschuldigt sich: „Ich war zu feige, offen Farbe zu bekennen“",
-   "s": "Die Elternschaft per Leihmutter hatte ihm das Amt an der Spitze der Unionsfraktion gekostet. Nun erklärt sich Jens Spahn gegenüber seinem Heimatwahlkreis.",
-   "u": "https://taz.de/Jens-Spahn-entschuldigt-sich-fuer-Umgang-mit-Leihmutterschaft/!6212321/",
-   "q": "taz",
-   "d": "2026-09-10T13:11:00+00:00"
-  },
-  {
-   "t": "NS-Zeitzeugin über Sachsen-Anhalt: „Sie werden merken, dass sie die falsche Wahl getroffen haben“",
-   "s": "Angesichts des Wahlsieges der AfD in Sachsen-Anhalt erinnert sich die Holocaust-Überlebende Henriette Kretz – und warnt vor den Folgen von Rechtsextremismus.",
-   "u": "https://taz.de/Zeitzeugin-im-Gespraech/!6211538/",
-   "q": "taz",
-   "d": "2026-09-10T12:25:00+00:00"
   }
  ]
 }

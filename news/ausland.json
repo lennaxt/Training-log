@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-09-10T23:11:34+00:00",
+ "updated": "2026-09-11T08:04:13+00:00",
  "items": [
+  {
+   "t": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
+   "s": "Erst am Donnerstag waren in Sumy drei Menschen bei einem russischen Angriff auf ein Einkaufszentrum getötet worden - nun wurde eines in Pawlohrad getroffen. Laut Behörden starben dabei fünf Menschen, mehr als 60 wurden verletzt.",
+   "u": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T07:52:12+00:00"
+  },
+  {
+   "t": "Parteitag der US-Republikaner: Vance bezeichnet Demokraten als \"Partei des Hasses\"",
+   "s": "Zwei Monate vor den US-Zwischenwahlen hat Vizepräsident Vance auf dem Parteitag der Republikaner die Demokraten scharf attackiert. Er bezeichnete sie als \"Partei des Hasses\". Eine Präsidentschaftskandidatur ließ er offen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/republikaner-parteitag-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T05:32:14+00:00"
+  },
+  {
+   "t": "25 Jahre nach 9/11: \"Ich werde jeden Tag an den Anschlag erinnert\"",
+   "s": "Heute vor 25 Jahren verübten Terroristen den Anschlag auf das World Trade Center in New York. Der Arzt Gordon Huie überlebte, seine Schwester war eines der 2.753 Todesopfer. Bis heute leidet er unter den gesundheitlichen Folgen des giftigen Staubs.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-11-september-jahrestag-interview-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T04:20:44+00:00"
+  },
+  {
+   "t": "Mehrere Tote nach Busunglück in der Schweiz",
+   "s": "Ein Reisebus ist in der Schweiz von der Straße abgekommen, dabei wurden nach Polizeiangaben mehrere Menschen getötet. Der Bus eines niederländischen Reiseveranstalters war mit mit knapp 50 Menschen an Bord unterwegs.",
+   "u": "https://www.tagesschau.de/ausland/europa/schweiz-busunfall-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-11T01:03:39+00:00"
+  },
   {
    "t": "Huthi-Miliz nimmt laut Berichten Hafenstadt im Jemen ein",
    "s": "Die Huthi haben im Jemen eine Offensive auf das Küstengebiet gestartet. Medienberichten zufolge nahm die vom Iran unterstützte Miliz nun die Hafenstadt Mokka ein - und kontrolliert damit einen Zugang zu einer strategisch wichtigen Meerenge.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/renoir-gemaelde-diebstahl-100.html",
    "q": "Tagesschau",
    "d": "2026-09-08T13:00:58+00:00"
-  },
-  {
-   "t": "IKEA setzt sich vor Gericht gegen rechtsextreme Partei durch",
-   "s": "Eine rechtsextreme Partei in Belgien präsentierte Ideen zum Thema Einwanderung im Stile einer IKEA-Aufbauanleitung - zum Ärger des schwedischen Möbelkonzerns. Der Europäische Gerichtshof hat nun im Sinne von IKEA geurteilt. Von Kolja Schwartz.",
-   "u": "https://www.tagesschau.de/ausland/europa/ikea-eugh-markenstreit-rechtsextreme-partei-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T12:45:29+00:00"
-  },
-  {
-   "t": "Beisetzung in Belgrad: EU verurteilt \"Verherrlichung von Kriegsverbrecher\" Mladic",
-   "s": "Mit militärischen Ehren wurde der Kriegsverbrecher Mladic in Serbien beigesetzt. Tausende nahmen teil, darunter auch serbische Amtsträger. Die EU-Spitze reagierte entsetzt.",
-   "u": "https://www.tagesschau.de/ausland/europa/serbien-beisetzung-mladic-kritik-eu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T12:32:44+00:00"
-  },
-  {
-   "t": "Viele Verletzte bei Angriffen der Huthi-Miliz auf Saudi-Arabien",
-   "s": "Die Huthi-Miliz hat mehrere Ziele in Saudi-Arabien angegriffen. Mehr als 70 Menschen wurden laut örtlichen Behörden verletzt. Das saudisch angeführte Militärbündnis spricht von einer \"gefährlichen Eskalation\" und droht mit Vergeltung.",
-   "u": "https://www.tagesschau.de/ausland/asien/huthi-angriff-saudi-arabien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T11:51:39+00:00"
-  },
-  {
-   "t": "Amazon-Flugzeug in Miami: Ermittler bergen beide Flugschreiber",
-   "s": "Nach dem tödlichen Unfall eines Amazon-Frachtflugzeugs in Miami haben Ermittler beide Flugschreiber geborgen. Fünf Menschen starben. Neue Details zeigen, wie weit der Jet über die Landebahn hinausschoss.",
-   "u": "https://www.tagesschau.de/ausland/amerika/miami-flugzeug-unfall-amazon-cargo-blackbox-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T08:25:27+00:00"
   }
  ]
 }
