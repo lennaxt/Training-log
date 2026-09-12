@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-09-12T07:56:20+00:00",
+ "updated": "2026-09-12T12:52:02+00:00",
  "items": [
+  {
+   "t": "Zug entgleist in Frankreich - Ermittler schließen Sabotage nicht aus",
+   "s": "In Nordfrankreich entgleist ein Zug, mehr als 40 Menschen werden verletzt. Französische Medien berichten nun, dass es möglicherweise kein Unglück war. Offenbar fanden Ermittler einen Schienenteil auf der Strecke.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-zug-entgleist-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T10:45:13+00:00"
+  },
+  {
+   "t": "Brasilien: Bolsonaros Sohn greift nach der Macht",
+   "s": "Der Sohn von Jair Bolsonaro will Brasiliens nächster Präsident werden - und setzt dabei auf einen aggressiven Ton. Rückhalt bekommt er von vielen Brasilianern, die die Verurteilung seines Vaters für ungerecht halten. Von Anne Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/brasilien-bolsonaro-sohn-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T10:20:15+00:00"
+  },
+  {
+   "t": "Alaska: 15-Jähriger nach Tagen auf gekentertem Boot gerettet",
+   "s": "Ein Teenager hat sich in der kalten Beringsee vor Alaska zwei Tage lang auf einem gekenterten Boot über Wasser gehalten. Er wurde schließlich von einem Fischerkutter gerettet - zwei seiner Begleiter starben jedoch.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-alaska-junge-rettung-boot-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T10:04:22+00:00"
+  },
   {
    "t": "Nach US-Manöver: Nordkorea feuert erneut ballistische Raketen ab",
    "s": "US-Präsident Trump spricht von guten Beziehungen zu Nordkoreas Machthaber Kim. Doch unmittelbar nach Ende eines Manövers der USA mit Südkorea reagiert der Norden mit Raketen.",
@@ -11,7 +32,7 @@
   },
   {
    "t": "Saudi-Arabien schaltet nach Drohnenangriffen wichtige Öl-Pipeline ab",
-   "s": "Es ist eine Vorsichtsmaßnahme, die die Öl- und Benzinpreise weiter steigen lasse könnte: Nach den Drohnenangriffen aus dem Irak hat Saudi-Arabien seine Ost-West-Pipeline abgestellt. Exporte werden dadurch weiter reduziert.",
+   "s": "Es ist eine Vorsichtsmaßnahme, die die Öl- und Benzinpreise weiter steigen lassen könnte: Nach den Drohnenangriffen aus dem Irak hat Saudi-Arabien seine Ost-West-Pipeline abgestellt. Exporte werden dadurch weiter reduziert.",
    "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-stellt-betrieb-von-oelpipeline-ein-100.html",
    "q": "Tagesschau",
    "d": "2026-09-12T07:07:30+00:00"
@@ -122,13 +143,6 @@
    "d": "2026-09-10T18:24:58+00:00"
   },
   {
-   "t": "USA: Oberstes Gericht lehnt Wahlkreisänderung in Missouri ab",
-   "s": "Weniger als zwei Monate vor den Midterms muss US-Präsident Trump einen Rückschlag hinnehmen: Der Supreme Court lehnte den Neuzuschnitt der Wahlkreise in Missouri ab. Die Änderung könnte zu Chaos führen. Von S. Jackisch.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-wahlkreise-missouri-oberstes-gericht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T17:18:47+00:00"
-  },
-  {
    "t": "Historischer Teppich in Londoner Museum zieht Menschenmassen an",
    "s": "Auf 70 Metern Länge erzählt der Wandteppich von Bayeux die normannische Invasion Englands und die Thronbesteigung von Wilhelm \"dem Eroberer\". In London erobert er als seltene Leihgabe die Herzen der Museumsbesucher. Von. C. Prössl.",
    "u": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
@@ -143,13 +157,6 @@
    "d": "2026-09-10T10:39:01+00:00"
   },
   {
-   "t": "25 Jahre nach 9/11: Auf die Anschläge folgte die Überwachung",
-   "s": "Die Anschläge am 11. September 2001 haben die US-Sicherheitsbehörden völlig überrascht. Als Konsequenz baute die damalige US-Regierung schnell einen gewaltigen Überwachungsapparat auf - mit Folgen bis heute. Von Carsten Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-11-september-innenpolitik-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T10:10:38+00:00"
-  },
-  {
    "t": "Spanischer Geheimdienst warnte vor Ausnahmesituation in Ceuta",
    "s": "Ende Juli kamen binnen Stunden Zehntausende Migranten nach Ceuta. Neue Dokumente zeigen nun: Der spanische Geheimdienst hatte vor der beispiellosen Massenankunft von Menschen aus Marokko in der Exklave gewarnt.",
    "u": "https://www.tagesschau.de/ausland/europa/geheimdienst-warnte-offenbar-vor-andrang-in-ceuta-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-korruptionsermittlungen-staatsanwaltschaft-100.html",
    "q": "Tagesschau",
    "d": "2026-09-10T00:37:15+00:00"
-  },
-  {
-   "t": "Bericht über Warnung vor Hamas-Überfall: Netanjahu plant Klage",
-   "s": "Ein Bericht der Zeitung Haaretz erhebt einen brisanten Vorwurf gegen Israels Premier Netanjahu: Er soll eine ausdrückliche Warnung vor einem Großangriff der Hamas eineinhalb Wochen vor dem Überfall ignoriert haben. Netanjahu dementiert - und will klagen.",
-   "u": "https://www.tagesschau.de/ausland/asien/netanjahu-klage-hamas-ueberfall-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T16:22:13+00:00"
   }
  ]
 }

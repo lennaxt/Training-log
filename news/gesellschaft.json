@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-12T07:56:23+00:00",
+ "updated": "2026-09-12T12:52:06+00:00",
  "items": [
+  {
+   "t": "Trump in Irland: US-Präsident besucht seinen eigenen Golfplatz",
+   "s": "Donald Trump ist zu einem zweitägigen Besuch in Irland eingetroffen. Dabei vermischt er Geschäftliches mit Privatem.",
+   "u": "https://taz.de/Trump-in-Irland/!6212679/",
+   "q": "taz",
+   "d": "2026-09-12T11:32:00+00:00"
+  },
+  {
+   "t": "Meloni zur Wahl in Sachsen-Anhalt: „Brandmauer-Strategie funktioniert nicht“",
+   "s": "Italiens Regierungschefin hielt sich zunächst mit Aussagen zum Wahlausgang in dem deutschen Bundesland zurück. Nun erklärt sie, sie halte die Politik der Abgrenzung für nicht erfolgreich.",
+   "u": "https://taz.de/Meloni-zur-Wahl-in-Sachsen-Anhalt/!6212677/",
+   "q": "taz",
+   "d": "2026-09-12T11:24:00+00:00"
+  },
+  {
+   "t": "Reform UK in Großbritannien: Rechte Partei erhält Riesenspende",
+   "s": "Ein Kryptomilliardär lässt den britischen Rechtspopulisten umgerechnet 42 Millionen Euro zukommen. Die Rekordsumme folgt auf Wochen mit verschiedenen Betrugsvorwürfen.",
+   "u": "https://taz.de/Reform-UK-in-Grossbritannien/!6212673/",
+   "q": "taz",
+   "d": "2026-09-12T10:22:00+00:00"
+  },
   {
    "t": "Urteil über Enkel-Gesetz: Hunderttausende Spanier verlieren Wahlrecht",
    "s": "Sie haben den spanischen Pass, aber dürfen nicht wählen. Tausende Menschen, vor allem in Lateinamerika, sind von der Gerichtsentscheidung betroffen.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/US-Vermittler-in-Moskau-und-Kyjiw/!6210840/",
    "q": "taz",
    "d": "2026-09-07T13:07:00+00:00"
-  },
-  {
-   "t": "Iran, der Krieg und die Sanktionen: 366 Quadratmeter, fünf Schlafzimmer, ein dubioser Bankier",
-   "s": "Immobilien im dreistelligen Millionenbereich soll Irans oberster Führer Chamenei über einen Strohmann in Europa besitzen. Nun werden zwei Apartments verkauft.",
-   "u": "https://taz.de/Iran-der-Krieg-und-die-Sanktionen/!6210685/",
-   "q": "taz",
-   "d": "2026-09-06T16:06:00+00:00"
-  },
-  {
-   "t": "Warschau wird zu einer grünen Stadt: Wie sich Betonwüsten in Wohlfühloasen verwandeln",
-   "s": "Die polnische Hauptstadt wird dank millionenschweren Investitionen grüner. Unsere Autorin sieht selbst: Das Leben dort ist ein anderes geworden.",
-   "u": "https://taz.de/Warschau-wird-zu-einer-gruenen-Stadt/!6210554/",
-   "q": "taz",
-   "d": "2026-09-06T16:05:00+00:00"
-  },
-  {
-   "t": "Müllskandal in Kroatien: Massenproteste gegen Müllberge",
-   "s": "Zehntausende fordern die sofortige Beseitigung des Giftmülls. Ihr Zorn richtet sich vor allem auf die lokalen Behörden.",
-   "u": "https://taz.de/Muellskandal-in-Kroatien/!6210557/",
-   "q": "taz",
-   "d": "2026-09-06T14:48:00+00:00"
   }
  ]
 }

@@ -1,7 +1,70 @@
 {
  "name": "Inland",
- "updated": "2026-09-12T07:56:20+00:00",
+ "updated": "2026-09-12T12:52:01+00:00",
  "items": [
+  {
+   "t": "CDU-Generalsekretärin Hoppermann verteidigt Bundeskanzler Merz",
+   "s": "Trotz schlechter Umfragewerte sieht CDU-Generalsekretärin Hoppermann ihre Partei unter Bundeskanzler Merz \"auf dem richtigen Weg\". Als Beispiel nennt sie die Rentenreform - und wirbt für die Wahl am kommenden Wochenende.",
+   "u": "https://www.tagesschau.de/inland/merz-kritik-hoppermann-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T11:46:56+00:00"
+  },
+  {
+   "t": "Trump in Irland: US-Präsident besucht seinen eigenen Golfplatz",
+   "s": "Donald Trump ist zu einem zweitägigen Besuch in Irland eingetroffen. Dabei vermischt er Geschäftliches mit Privatem.",
+   "u": "https://taz.de/Trump-in-Irland/!6212679/",
+   "q": "taz",
+   "d": "2026-09-12T11:32:00+00:00"
+  },
+  {
+   "t": "Meloni zur Wahl in Sachsen-Anhalt: „Brandmauer-Strategie funktioniert nicht“",
+   "s": "Italiens Regierungschefin hielt sich zunächst mit Aussagen zum Wahlausgang in dem deutschen Bundesland zurück. Nun erklärt sie, sie halte die Politik der Abgrenzung für nicht erfolgreich.",
+   "u": "https://taz.de/Meloni-zur-Wahl-in-Sachsen-Anhalt/!6212677/",
+   "q": "taz",
+   "d": "2026-09-12T11:24:00+00:00"
+  },
+  {
+   "t": "Versuchter Drohnenanschlag: Die Spur führt zum russischen Geheimdienst",
+   "s": "Nach dem versuchten Drohnenanschlag auf den Flughafen Leipzig/Halle kommen immer mehr Details ans Licht. Einem Bericht zufolge führen die Ermittlungen direkt zum russischen Geheimdienst: Ein GRU-Mitarbeiter soll der Logistiker sein.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/leipzig-drohnenvorfall-russischer-geheimdienst-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T11:05:29+00:00"
+  },
+  {
+   "t": "Hubig will Verstöße gegen Mietpreisbremse mit Bußgeldern bestrafen",
+   "s": "Steigende Mieten machen vielen Menschen Sorgen. Die Mietpreisbremse soll in besonders angespannten Wohnungsmärkten helfen. Doch noch gibt es zu viele Schlupflöcher, sagt Justizministerin Hubig - und will dagegen vorgehen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/hubig-mietpreisbremse-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T10:43:25+00:00"
+  },
+  {
+   "t": "Gefakte Landkarte des US-Präsidenten: Sterne, Wasser und Kilometer",
+   "s": "Donald Trump postet eine Karte, die Kanada, Grönland, Mexiko, Kuba und Island in die Stars and Stripes hüllt. Hat was von mittelalterlichen Despoten.",
+   "u": "https://taz.de/Gefakte-Landkarte-des-US-Praesidenten/!6208076/",
+   "q": "taz",
+   "d": "2026-09-12T10:30:00+00:00"
+  },
+  {
+   "t": "Reform UK in Großbritannien: Rechte Partei erhält Riesenspende",
+   "s": "Ein Kryptomilliardär lässt den britischen Rechtspopulisten umgerechnet 42 Millionen Euro zukommen. Die Rekordsumme folgt auf Wochen mit verschiedenen Betrugsvorwürfen.",
+   "u": "https://taz.de/Reform-UK-in-Grossbritannien/!6212673/",
+   "q": "taz",
+   "d": "2026-09-12T10:22:00+00:00"
+  },
+  {
+   "t": "Chinas Aufstieg seit 2001: Von der Goldgrube zum Konkurrenten",
+   "s": "Der WTO-Beitritt war zentral für Chinas Entwicklung. Der Westen träumte vom „Wandel durch Handel“, Xi Jinping aber seinen „chinesischen Traum“.",
+   "u": "https://taz.de/Chinas-Aufstieg-seit-2001/!6208883/",
+   "q": "taz",
+   "d": "2026-09-12T08:44:00+00:00"
+  },
+  {
+   "t": "Mietpreisbremse: Hubig will Verstöße mit Bußgeldern bestrafen",
+   "s": "Justizministerin Hubig (SPD) fordert schärfere Sanktionen bei Verstößen gegen die Mietpreisbremse. Damit will sie „Schutzlücken im Mietrecht“ schließen.",
+   "u": "https://taz.de/Mietpreisbremse/!6212658/",
+   "q": "taz",
+   "d": "2026-09-12T08:37:00+00:00"
+  },
   {
    "t": "Nach der Sachsen-Anhalt-Wahl: Die Alternativen zur Alternative",
    "s": "Der Wahlsieg der AfD in Sachsen-Anhalt war zu erwarten und ist unfassbar zugleich. Wie jetzt weitermachen?",
@@ -106,69 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/anklage-bundesanwaltschaft-hamas-100.html",
    "q": "Tagesschau",
    "d": "2026-09-11T13:14:35+00:00"
-  },
-  {
-   "t": "Urteil über Enkel-Gesetz: Hunderttausende Spanier verlieren Wahlrecht",
-   "s": "Sie haben den spanischen Pass, aber dürfen nicht wählen. Tausende Menschen, vor allem in Lateinamerika, sind von der Gerichtsentscheidung betroffen.",
-   "u": "https://taz.de/Urteil-ueber-Enkel-Gesetz/!6212364/",
-   "q": "taz",
-   "d": "2026-09-11T12:26:00+00:00"
-  },
-  {
-   "t": "Was eine AfD-Regierung für den Verfassungsschutz bedeuten könnte",
-   "s": "Der Landesverfassungsschutz hat die AfD in Sachsen-Anhalt als gesichert rechtsextremistisch eingestuft. Nun könnte die Partei dort regieren. Was hieße das für die Behörde und den Informationsaustausch? Von A. Stephany und A. Tadey.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-verfassungsschutz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T12:22:02+00:00"
-  },
-  {
-   "t": "Abschiebepolitik der AfD: Rüstung für die „Remigration“",
-   "s": "Sachsen-Anhalts AfD-Wahlsieger Ulrich Siegmund verbindet die Rüstungsproduktion mit einer künftigen Abschiebeoffensive. Der potenzielle Partner BSW reagiert empört.",
-   "u": "https://taz.de/Abschiebepolitik-der-AfD/!6212509/",
-   "q": "taz",
-   "d": "2026-09-11T12:08:00+00:00"
-  },
-  {
-   "t": "Ukraine - Russlands Drohnenkrieg gegen Zivilisten",
-   "s": "In der ukrainischen Stadt Cherson macht Russlands Armee mit Drohnen Jagd auf Zivilisten. Der tägliche Terror aus der Luft zielt laut UN darauf ab, die Bevölkerung zu vertreiben.",
-   "u": "https://www.deutschlandfunk.de/cherson-ukraine-russland-drohnenkrieg-zivilisten-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-11T11:54:00+00:00"
-  },
-  {
-   "t": "Arbeitsministerin Bas verspricht Übergangslösung für \"Rente mit 63\"",
-   "s": "Arbeitsministerin Bas hat in der Haushaltsdebatte die geplante Rentenreform der Bundesregierung verteidigt - auch die Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren. Betroffenen verspricht sie jedoch Übergangslösungen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bas-bundestag-reformen-bundesregierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T11:44:51+00:00"
-  },
-  {
-   "t": "25 Jahre nach 9/11: Der langsame Niedergang al-Qaidas",
-   "s": "25 Jahre nach dem 11. September spielt das Terrornetzwerk al-Qaida in der arabischen Welt kaum noch eine Rolle. Die Region beschäftigt heute vor allem die Palästinafrage.",
-   "u": "https://taz.de/25-Jahre-nach-9/11/!6212143/",
-   "q": "taz",
-   "d": "2026-09-11T11:31:00+00:00"
-  },
-  {
-   "t": "Brics-Gipfel in Delhi: Nicht westlich, aber nicht gegen den Westen",
-   "s": "Chinas Staatschef Xi Jinping kommt erstmals seit 2019 nach Indien – zum Brics-Gipfel. Gelingt dem Bündnis eine gemeinsame Politik trotz Unterschieden?",
-   "u": "https://taz.de/Brics-Gipfel-in-Delhi/!6212507/",
-   "q": "taz",
-   "d": "2026-09-11T11:26:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Russland greift Tankstellen in Kyjiw an",
-   "s": "Die russischen Drohnenangriffe auf die Ukraine gehen weiter, die wiederum attackiert Ziele in Russland. Kanada will Kyjiw bei der Drohnenproduktion helfen.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6212529/",
-   "q": "taz",
-   "d": "2026-09-11T11:24:00+00:00"
-  },
-  {
-   "t": "Tagebuch aus Armenien: Nach der Flucht kommt das große Spiel",
-   "s": "In Armenien haben sich Migranten aus Russland zusammengetan, um der Gesellschaft zu helfen. Sie kümmern sich um den Spielplatzbau.",
-   "u": "https://taz.de/Tagebuch-aus-Armenien/!6207623/",
-   "q": "taz",
-   "d": "2026-09-11T11:03:00+00:00"
   }
  ]
 }

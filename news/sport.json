@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-12T07:56:24+00:00",
+ "updated": "2026-09-12T12:52:08+00:00",
  "items": [
+  {
+   "t": "Chinas Aufstieg seit 2001: Von der Goldgrube zum Konkurrenten",
+   "s": "Der WTO-Beitritt war zentral für Chinas Entwicklung. Der Westen träumte vom „Wandel durch Handel“, Xi Jinping aber seinen „chinesischen Traum“.",
+   "u": "https://taz.de/Chinas-Aufstieg-seit-2001/!6208883/",
+   "q": "taz",
+   "d": "2026-09-12T08:44:00+00:00"
+  },
   {
    "t": "Brics-Gipfel in Delhi: Nicht westlich, aber nicht gegen den Westen",
    "s": "Chinas Staatschef Xi Jinping kommt erstmals seit 2019 nach Indien – zum Brics-Gipfel. Gelingt dem Bündnis eine gemeinsame Politik trotz Unterschieden?",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Aktivisten-in-Hongkong-verurteilt/!6206136/",
    "q": "taz",
    "d": "2026-08-21T11:04:00+00:00"
-  },
-  {
-   "t": "Debatte über indisches Wahlsystem: Trump lobt, Indien streitet",
-   "s": "US-Präsident Trump preist die Nachweispflicht beim indischen Wahlsystem als Vorbild für die USA. Dabei sind Teile des Systems in Indien selbst umstritten.",
-   "u": "https://taz.de/Debatte-ueber-indisches-Wahlsystem/!6205992/",
-   "q": "taz",
-   "d": "2026-08-21T05:48:00+00:00"
   }
  ]
 }

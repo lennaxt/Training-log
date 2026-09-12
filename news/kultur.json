@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-12T07:56:24+00:00",
+ "updated": "2026-09-12T12:52:07+00:00",
  "items": [
+  {
+   "t": "Gefakte Landkarte des US-Präsidenten: Sterne, Wasser und Kilometer",
+   "s": "Donald Trump postet eine Karte, die Kanada, Grönland, Mexiko, Kuba und Island in die Stars and Stripes hüllt. Hat was von mittelalterlichen Despoten.",
+   "u": "https://taz.de/Gefakte-Landkarte-des-US-Praesidenten/!6208076/",
+   "q": "taz",
+   "d": "2026-09-12T10:30:00+00:00"
+  },
   {
    "t": "New York City 25 Jahre nach 9/11: Anschlag auf ein Lebensgefühl",
    "s": "Neoliberales Luxusprojekt: Die Turbo-Gentrifizierung nach dem 11. September hat die New Yorker von ihrer eigenen Stadt entfremdet.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Social-Media-Prozess/!6207435/",
    "q": "taz",
    "d": "2026-08-26T13:51:00+00:00"
-  },
-  {
-   "t": "Für Fracking, gegen Mi­gran­t*in­nen: Wie der rechte Präsident de la Espriella Kolumbien umbaut",
-   "s": "In nur zwei Wochen Amtszeit setzt der neue Hardliner in Bogotá tiefgreifende Veränderungen durch. Wegen des schweren Erdbebens bleiben sie fast unbemerkt.",
-   "u": "https://taz.de/Fuer-Fracking-gegen-Migrantinnen/!6207246/",
-   "q": "taz",
-   "d": "2026-08-26T09:11:00+00:00"
   }
  ]
 }
