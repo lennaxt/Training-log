@@ -1,7 +1,42 @@
 {
  "name": "Inland",
- "updated": "2026-09-12T12:52:01+00:00",
+ "updated": "2026-09-12T17:44:58+00:00",
  "items": [
+  {
+   "t": "Protest in vielen Städten: Zehntausende demonstrieren gegen rechts",
+   "s": "Zehntausende Menschen sind in Deutschland gegen Rechtsextremismus und für Demokratie auf die Straße gegangen. Demos gab es in mehr als 35 Städten. Eine Forderung: Die Prüfung eines AfD-Verbotsverfahrens.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T17:38:32+00:00"
+  },
+  {
+   "t": "Demos gegen die AfD: In ganz Deutschland regt sich der Widerstand",
+   "s": "Mit starker Mobilisierung, bunten Plakaten und klaren Worten setzen Tausende ein Zeichen gegen Ausgrenzung und gegen die AfD. Von Stricknadeln bis zum Krümelmonster: ein kreativer Protest.",
+   "u": "https://taz.de/Demos-gegen-die-AfD/!6212688/",
+   "q": "taz",
+   "d": "2026-09-12T15:15:00+00:00"
+  },
+  {
+   "t": "Hitze in Israel: Gefährliche Bräune",
+   "s": "In Israel sonnen sich viele junge Menschen zu den gefährlichsten Stunden des Tages für schnelle Bräune. Über den Trend „Tanmaxxing“.",
+   "u": "https://taz.de/Hitze-in-Israel/!6209983/",
+   "q": "taz",
+   "d": "2026-09-12T14:55:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Drei Tote bei russischen Luftangriffen",
+   "s": "Auch die Ukraine hat mehrere Ziele in Russland attackiert und beschädigt. Ob Wladimir Putin zum G20-Gipfel nach Miami reisen wird, ist noch offen.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6212686/",
+   "q": "taz",
+   "d": "2026-09-12T14:24:00+00:00"
+  },
+  {
+   "t": "Sookee über ihren Geburtsort: Mecklenburg. Leberwurst. Lebensdurst. Red du nur",
+   "s": "Rapperin Sookee kam im vorpommerschen Pasewalk auf die Welt und hat seitdem nicht dorthin zurückgefunden. Ihren Blick prägt der Ort dennoch bis heute.",
+   "u": "https://taz.de/Sookee-ueber-ihren-Geburtsort/!6206553/",
+   "q": "taz",
+   "d": "2026-09-12T13:07:00+00:00"
+  },
   {
    "t": "CDU-Generalsekretärin Hoppermann verteidigt Bundeskanzler Merz",
    "s": "Trotz schlechter Umfragewerte sieht CDU-Generalsekretärin Hoppermann ihre Partei unter Bundeskanzler Merz \"auf dem richtigen Weg\". Als Beispiel nennt sie die Rentenreform - und wirbt für die Wahl am kommenden Wochenende.",
@@ -50,6 +85,13 @@
    "u": "https://taz.de/Reform-UK-in-Grossbritannien/!6212673/",
    "q": "taz",
    "d": "2026-09-12T10:22:00+00:00"
+  },
+  {
+   "t": "Streit um Merz: Kanzlerwechsel - und dann?",
+   "s": "Nach dem CDU-Debakel in Sachsen-Anhalt wächst der Druck auf Friedrich Merz. Einen Kanzlertausch hält der Politologe Karl-Rudolf Korte dennoch nicht für zielführend. Er spricht sich stattdessen für \"eine neue Form der Demokratie\" aus.May, Philipp",
+   "u": "https://www.deutschlandfunk.de/interview-karl-rudolf-korte-politologe-uni-duisburg-essen-zu-merz-daemmerung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-12T10:15:00+00:00"
   },
   {
    "t": "Chinas Aufstieg seit 2001: Von der Goldgrube zum Konkurrenten",
@@ -102,7 +144,7 @@
   },
   {
    "t": "Zwischenrufe im Bundestag - Linken-Abgeordnete muss 2.000 Euro zahlen",
-   "s": "Für Zwischenrufe hat die Abgeordnete Köktürk drei Ordnungsrufe kassiert. Genug, um nach der neuen Geschäftsordnung des Bundestages eine Geldstrafe zu bekommen. Köktürk ist die erste, die zahlen muss.",
+   "s": "Für Zwischenrufe hat die Abgeordnete Köktürk drei Ordnungsrufe kassiert. Genug, um nach der neuen Geschäftsordnung des Bundestages eine Geldstrafe zu bekommen. Köktürk ist die Erste, die zahlen muss.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/ordnungsgeld-koektuerk-bundestag-100.html",
    "q": "Tagesschau",
    "d": "2026-09-11T17:41:26+00:00"
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/afd-siegmund-reaktionen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-11T16:58:32+00:00"
-  },
-  {
-   "t": "Mecklenburg-Vorpommern: Schwesig gegen die AfD",
-   "s": "Ministerpräsidentin Manuela Schwesig tritt als \"Frau gegen Blau\" bei der Landtagswahl gegen die AfD an. Die SPD hält sie bewusst im Hintergrund. Gleich zwei AfD-Spitzenkandidaten spekulieren dagegen auf die Beliebtheit ihrer Partei im Wahlkampf.Pfeiffer, Heinrich",
-   "u": "https://www.deutschlandfunk.de/wahlduell-in-mecklenburg-vorpommern-schwesig-gegen-die-afd-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-11T16:40:00+00:00"
-  },
-  {
-   "t": "Debatte um AfD-Verbot - Ulrich Siegmunds Aussage über Rüstung und Remigration",
-   "s": "Die Debatte über ein mögliches AfD-Verbotsverfahren geht weiter. Unterdessen sorgen Aussagen von Ulrich Siegmund zu Rüstung und Remigration für Empörung. Die Radikalisierung der Partei habe zugenommen, sagt der Staatsrechtler Andreas Thielen.",
-   "u": "https://www.deutschlandfunk.de/afd-verbotsverfahren-ulrich-siegmund-remigration-verfassungsschutz-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-11T15:56:00+00:00"
-  },
-  {
-   "t": "Mutmaßlicher Stromnetz-Saboteur: 160 Ziele in Deutschland",
-   "s": "Nach der Festnahme von Daniel V. übernimmt die Bundesanwaltschaft die Ermittlungen. Der Verdächtige soll allein hinter den Angriffen auf das Stromnetz stecken.",
-   "u": "https://taz.de/Mutmasslicher-Stromnetz-Saboteur/!6212500/",
-   "q": "taz",
-   "d": "2026-09-11T14:10:00+00:00"
-  },
-  {
-   "t": "Gegenwind im Bundestag - Arbeitsministerin Bas verteidigt Reformen",
-   "s": "Ungerecht, sozial kalt, auf Sand gebaut: Arbeitsministerin Bas wird für den Haushaltsentwurf ihres Ministeriums von der Opposition scharf angegangen. Dabei ist der Etat so hoch nie. Von Dagmar Pepping.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bas-haushaltsdebatte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T13:41:00+00:00"
-  },
-  {
-   "t": "Krieg in Jemen: Die Huthi-Rebellen übernehmen den Jemen",
-   "s": "Im Jemen hat die Huthi-Miliz die Hafenstadt Mokka eingenommen – und blockiert zudem die für den internationalen Schiffsverkehr wichtige Meerenge Bab al-Mandab.",
-   "u": "https://taz.de/Krieg-in-Jemen/!6211552/",
-   "q": "taz",
-   "d": "2026-09-11T13:34:00+00:00"
-  },
-  {
-   "t": "Anschlagspläne: Hamas-Unterstützer in Berlin angeklagt",
-   "s": "Mutmaßliche Mitglieder der Hamas sollen von Deutschland aus Waffen besorgt haben. Jetzt wurden sie angeklagt. Der Vorwurf: Zum zweiten Jahrestag des Überfalls auf Israel wollten sie Anschläge auf Juden verüben.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/anklage-bundesanwaltschaft-hamas-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T13:14:35+00:00"
   }
  ]
 }

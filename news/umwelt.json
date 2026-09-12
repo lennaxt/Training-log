@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-12T12:52:05+00:00",
+ "updated": "2026-09-12T17:45:01+00:00",
  "items": [
+  {
+   "t": "Demos gegen die AfD: In ganz Deutschland regt sich der Widerstand",
+   "s": "Mit starker Mobilisierung, bunten Plakaten und klaren Worten setzen Tausende ein Zeichen gegen Ausgrenzung und gegen die AfD. Von Stricknadeln bis zum Krümelmonster: ein kreativer Protest.",
+   "u": "https://taz.de/Demos-gegen-die-AfD/!6212688/",
+   "q": "taz",
+   "d": "2026-09-12T15:15:00+00:00"
+  },
+  {
+   "t": "Sookee über ihren Geburtsort: Mecklenburg. Leberwurst. Lebensdurst. Red du nur",
+   "s": "Rapperin Sookee kam im vorpommerschen Pasewalk auf die Welt und hat seitdem nicht dorthin zurückgefunden. Ihren Blick prägt der Ort dennoch bis heute.",
+   "u": "https://taz.de/Sookee-ueber-ihren-Geburtsort/!6206553/",
+   "q": "taz",
+   "d": "2026-09-12T13:07:00+00:00"
+  },
   {
    "t": "Mietpreisbremse: Hubig will Verstöße mit Bußgeldern bestrafen",
    "s": "Justizministerin Hubig (SPD) fordert schärfere Sanktionen bei Verstößen gegen die Mietpreisbremse. Damit will sie „Schutzlücken im Mietrecht“ schließen.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Wahlkampf-in-den-USA/!6212160/",
    "q": "taz",
    "d": "2026-09-10T08:06:00+00:00"
-  },
-  {
-   "t": "Ermittlung gegen SPD-Kandidat: Steffen Krach weist Vorwürfe zurück",
-   "s": "Er habe sich nicht bestechen lassen, sagt Steffen Krach, nachdem seine Privaträume und SPD-Büros durchsucht wurden. Eine Spende sei zurückgewiesen worden.",
-   "u": "https://taz.de/Ermittlung-gegen-SPD-Kandidaten/!6212155/",
-   "q": "taz",
-   "d": "2026-09-10T07:25:00+00:00"
-  },
-  {
-   "t": "Wahl in Sachsen-Anhalt: Die Alternative zur AfD heißt Sozialismus",
-   "s": "Wer die AfD besiegen will, muss eine wirkliche Alternative zum Kapitalismus anbieten. Ein anderes Wirtschaftssystem ist nicht nur möglich – sondern nötig.",
-   "u": "https://taz.de/Wahl-in-Sachsen-Anhalt/!6211706/",
-   "q": "taz",
-   "d": "2026-09-10T07:11:00+00:00"
   }
  ]
 }

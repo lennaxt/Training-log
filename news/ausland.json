@@ -1,13 +1,34 @@
 {
  "name": "Ausland",
- "updated": "2026-09-12T12:52:02+00:00",
+ "updated": "2026-09-12T17:44:59+00:00",
  "items": [
   {
-   "t": "Zug entgleist in Frankreich - Ermittler schließen Sabotage nicht aus",
-   "s": "In Nordfrankreich entgleist ein Zug, mehr als 40 Menschen werden verletzt. Französische Medien berichten nun, dass es möglicherweise kein Unglück war. Offenbar fanden Ermittler einen Schienenteil auf der Strecke.",
+   "t": "Droht der nächste Ölpreis-Schock?",
+   "s": "Erst die Straße von Hormus, nun die Meerenge Bab al-Mandab und eine beschädigte Pipeline. Der größte Ölexporteur der Welt Saudi-Arabien hat eine Reihe von Problemen. Wie entwickelt sich der Ölpreis? Welche Folgen hat das für Deutschland?",
+   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-oel-exporte-angriffe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T17:31:20+00:00"
+  },
+  {
+   "t": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
+   "s": "Sabotage, Drohungen, Drohnen-Vorfälle: Wegen der wachsenden Gefahr durch hybride Angriffe rücken die europäischen Partner zusammen und versuchen, Härte zu zeigen. Kritiker vermissen jedoch ein gesamteuropäisches Konzept. Von Olga Chladkova.",
+   "u": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T16:59:53+00:00"
+  },
+  {
+   "t": "Zug entgleist in Frankreich: Ermittler gehen Sabotage-Verdacht nach",
+   "s": "In Nordfrankreich entgleist ein Zug, mehr als 40 Menschen werden verletzt. Die Staatsanwaltschaft prüft nun, ob es sich um Sabotage handelt. Denn Ermittler fanden ein Schienenteil auf der Strecke.",
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-zug-entgleist-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-12T10:45:13+00:00"
+   "d": "2026-09-12T14:57:44+00:00"
+  },
+  {
+   "t": "China fordert auf BRICS-Treffen in Neu-Delhi mehr Einsatz für Frieden",
+   "s": "Auf dem Treffen der BRICS-Länder in Neu-Delhi hat Chinas Präsident Xi mehr Einsatz der Schwellenländer für Frieden im Nahen Osten gefordert. Man müsse \"auf der richtigen Seite der Geschichte\" stehen, sagte er.",
+   "u": "https://www.tagesschau.de/ausland/brics-treffen-neu-delhi-china-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T13:07:48+00:00"
   },
   {
    "t": "Brasilien: Bolsonaros Sohn greift nach der Macht",
@@ -122,13 +143,6 @@
    "d": "2026-09-11T05:32:14+00:00"
   },
   {
-   "t": "25 Jahre nach 9/11: \"Ich werde jeden Tag an den Anschlag erinnert\"",
-   "s": "Heute vor 25 Jahren verübten Terroristen den Anschlag auf das World Trade Center in New York. Der Arzt Gordon Huie überlebte, seine Schwester war eines der 2.753 Todesopfer. Bis heute leidet er unter den gesundheitlichen Folgen des giftigen Staubs.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-11-september-jahrestag-interview-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T04:20:44+00:00"
-  },
-  {
    "t": "Huthi-Miliz nimmt laut Berichten Hafenstadt im Jemen ein",
    "s": "Die Huthi haben im Jemen eine Offensive auf das Küstengebiet gestartet. Medienberichten zufolge nahm die von Iran unterstützte Miliz nun die Hafenstadt Mokka ein - und kontrolliert damit einen Zugang zu einer strategisch wichtigen Meerenge.",
    "u": "https://www.tagesschau.de/ausland/asien/huthi-jemen-114.html",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-journalisten-100.html",
    "q": "Tagesschau",
    "d": "2026-09-10T10:39:01+00:00"
-  },
-  {
-   "t": "Spanischer Geheimdienst warnte vor Ausnahmesituation in Ceuta",
-   "s": "Ende Juli kamen binnen Stunden Zehntausende Migranten nach Ceuta. Neue Dokumente zeigen nun: Der spanische Geheimdienst hatte vor der beispiellosen Massenankunft von Menschen aus Marokko in der Exklave gewarnt.",
-   "u": "https://www.tagesschau.de/ausland/europa/geheimdienst-warnte-offenbar-vor-andrang-in-ceuta-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T05:15:06+00:00"
-  },
-  {
-   "t": "Ukraine: Staatsanwaltschaft an Betrug über \"Callcenter\" beteiligt?",
-   "s": "In der Ukraine gehen die Behörden gegen Mitarbeiter der Generalstaatsanwaltschaft vor. Sie sollen an systematischem Betrug über angebliche \"Callcenter\" beteiligt gewesen sein. Der Fall ist auch für Präsident Selenskyj heikel. Von F. Kellermann.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-korruptionsermittlungen-staatsanwaltschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T00:37:15+00:00"
   }
  ]
 }

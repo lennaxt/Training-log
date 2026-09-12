@@ -1,13 +1,20 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-12T12:52:03+00:00",
+ "updated": "2026-09-12T17:45:00+00:00",
  "items": [
   {
-   "t": "Kartenzahlungspflicht - Schützt lieber das Bargeld",
-   "s": "Geschäfte sollen nach Plänen von Finanzminister Lars Klingbeil künftig mindestens eine digitale Bezahlmöglichkeit anbieten müssen. Eine unnötige Vorschrift. Wichtiger wäre es, die Annahme von Bargeld verpflichtend zu machen.Ein Kommentar von Manfred Kloiber",
-   "u": "https://www.deutschlandfunk.de/kartenzahlung-bargeld-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-12T07:18:00+00:00"
+   "t": "Wie die Stadt Wittenberge ihr Industrie-Erbe neu nutzen will",
+   "s": "Wo früher Nähmaschinen produziert wurden, sollen nun Touristen übernachten, Start-ups arbeiten und Konzerte stattfinden. Wie die brandenburgische Stadt Wittenberge - zwischen Hamburg und Berlin gelegen - ihr Industrie-Erbe nutzt. Von J. Piwon.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/wittenberge-industriequartier-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T13:22:03+00:00"
+  },
+  {
+   "t": "Bundesnetzagentur stellt klar - Gasspeicher sind ausreichend gefüllt",
+   "s": "Im kommenden Winter brauchen Millionen Haushalte wieder Gas für ihre Heizung - und die Sorge ist groß, dass dieses Jahr nicht genug Gas eingespeichert wurde. Die Bundesnetzagentur gibt nun Entwarnung: Die Speicher seien voll genug. Doch die Preise könnten steigen.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/gas-speicher-preise-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T13:20:55+00:00"
   },
   {
    "t": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/technologie/batterie-speicher-108.html",
    "q": "Tagesschau",
    "d": "2026-09-09T09:26:04+00:00"
-  },
-  {
-   "t": "Apple-Aktie: Wird der KI-Rückstand zum Vorteil?",
-   "s": "Apple gilt bei künstlicher Intelligenz als Nachzügler - Symbol dafür ist Siri. Warum ausgerechnet geringere KI-Ausgaben zum Vorteil werden könnten und was den iPhone-Konzern jetzt unter Druck setzt. Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/boerse/apple-aktie-siri-iphone-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T05:13:06+00:00"
   }
  ]
 }
