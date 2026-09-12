@@ -1,7 +1,35 @@
 {
  "name": "Inland",
- "updated": "2026-09-11T23:16:33+00:00",
+ "updated": "2026-09-12T07:56:20+00:00",
  "items": [
+  {
+   "t": "Nach der Sachsen-Anhalt-Wahl: Die Alternativen zur Alternative",
+   "s": "Der Wahlsieg der AfD in Sachsen-Anhalt war zu erwarten und ist unfassbar zugleich. Wie jetzt weitermachen?",
+   "u": "https://taz.de/Nach-der-Sachsen-Anhalt-Wahl/!6208054/",
+   "q": "taz",
+   "d": "2026-09-12T07:50:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Iran-Krieg +++: Saudische Ölexporte massiv unter Druck",
+   "s": "Die jemenitische Huthi-Miliz bedroht zunehmend die Meerenge Bab al-Mandab. Nach Drohnenangriffen muss Saudi-Arabien auch noch eine wichtige Pipeline abschalten.",
+   "u": "https://taz.de/-Nachrichten-im-Iran-Krieg-/!6212652/",
+   "q": "taz",
+   "d": "2026-09-12T07:27:00+00:00"
+  },
+  {
+   "t": "\"Kudamm-Krawall\" 1931 - Ein Pogrom in der Weimarer Republik",
+   "s": "Im September 1931 zogen Hunderte nationalsozialistische Schläger durch das Judenviertel am Berliner Kurfürstendamm. Sie verprügelten alle, die sie für Juden hielten. Die Ausschreitungen waren ein düsterer Ausblick auf das, was noch kommen sollte.Engelbrecht, Sebastian",
+   "u": "https://www.deutschlandfunk.de/12-09-1931-nationalsozialistischer-kurfuerstendamm-krawall-in-berlin-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-12T07:05:00+00:00"
+  },
+  {
+   "t": "Abwehr von Drohnen - die Sicherheitslücke am Himmel",
+   "s": "Drohnen sind günstig, leicht zu beschaffen - und können für Verunsicherung sorgen. Laut Bundeskriminalamt gab es 2025 mehr als 1.000 verdächtige Drohnensichtungen. Wie gut sind Deutschlands Abwehrsysteme? Von H. Buchholz und P. Weimar.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-sicherheitsluecke-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T03:12:30+00:00"
+  },
   {
    "t": "Isar-Aerospace-Raketenstart: Unendliche Weiten für die Aufrüstung",
    "s": "Deutsche Po­li­ti­ke­r*in­nen feiern den Raketenstart auf Andøya. Was sie nicht in den Vordergrund stellen: Die Raumfahrt-Investitionen dienen auch dem Militär.",
@@ -38,7 +66,7 @@
    "d": "2026-09-11T16:58:32+00:00"
   },
   {
-   "t": "Mecklenburg-Vorpommern: Schwesig setzt im Wahlkampf auf Persönlichkeit",
+   "t": "Mecklenburg-Vorpommern: Schwesig gegen die AfD",
    "s": "Ministerpräsidentin Manuela Schwesig tritt als \"Frau gegen Blau\" bei der Landtagswahl gegen die AfD an. Die SPD hält sie bewusst im Hintergrund. Gleich zwei AfD-Spitzenkandidaten spekulieren dagegen auf die Beliebtheit ihrer Partei im Wahlkampf.Pfeiffer, Heinrich",
    "u": "https://www.deutschlandfunk.de/wahlduell-in-mecklenburg-vorpommern-schwesig-gegen-die-afd-100.html",
    "q": "Deutschlandfunk",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Tagebuch-aus-Armenien/!6207623/",
    "q": "taz",
    "d": "2026-09-11T11:03:00+00:00"
-  },
-  {
-   "t": "Nachwahl in London: Camden calling",
-   "s": "Sagal Abdi-Wali will für Labour Keir Starmers früheren Wahlkreis gewinnen. Sie wäre die erste Frau mit somalischem Hintergrund im britischen Unterhaus.",
-   "u": "https://taz.de/Nachwahl-in-London/!6212170/",
-   "q": "taz",
-   "d": "2026-09-11T10:49:00+00:00"
-  },
-  {
-   "t": "Parteitag der US-Republikaner - Kommentar: Trump macht die Midterms zur Abstimmung über sich selbst",
-   "s": "Um den Republikanern Rückenwind für die US-Zwischenwahlen zu geben, hat Präsident Trump einen Parteitag veranstalten lassen. Trump selbst steht nicht zur Wahl. Doch ist alles auf seine Person zugeschnitten. Eine riskante Strategie.Von Anne Raith",
-   "u": "https://www.deutschlandfunk.de/donald-trump-zwischenwahlen-parteitag-republikaner-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-11T10:48:00+00:00"
-  },
-  {
-   "t": "Berlin bleibt anders",
-   "s": "Die Hauptstadt wählt am 20. September ein neues Abgeordnetenhaus. Hauptthema der fünf eher unbekannten Kandidierenden für das Amt des \"Regierenden\" ist die Mietenpolitik. Was bedeuten die beiden wahrscheinlichsten Wahlausgangs-Szenarien für den Bund?Boeselager, Felicitas; Sittler, Friederike; Engelbrecht, Sebastian",
-   "u": "https://www.deutschlandfunk.de/wahlen-zum-abgeordnetenhaus-berlin-bleibt-anders-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-11T10:30:00+00:00"
-  },
-  {
-   "t": "Politologe: Die Folgen von 9/11 spielen Trump in die Hände",
-   "s": "Die Anschläge vom 11. September 2001 führten zum amerikanischen \"Krieg gegen den Terror\" - eine psychologische Überreaktion mit erheblichen Belastungen für das eigene Land, meint der Politologe Josef Braml. Davon profitierte Donald Trump.Heckmann, Dirk-Oliver",
-   "u": "https://www.deutschlandfunk.de/wie-veraenderte-9-11-die-welt-interview-mit-josef-braml-usa-experte-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-11T10:18:27+00:00"
   }
  ]
 }

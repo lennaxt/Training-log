@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-11T23:16:35+00:00",
+ "updated": "2026-09-12T07:56:21+00:00",
  "items": [
+  {
+   "t": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
+   "s": "Trotz weltweiter Krisen boomt das Geschäft der griechischen Reeder. Das kleine Land liegt bei den Transportkapazitäten weltweit auf Platz 1. Doch immer wieder sind die Reeder auch in Grauzonen unterwegs. Von Astrid Halder.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/reeder-griechenland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T05:04:13+00:00"
+  },
   {
    "t": "Marktbericht: Der DAX stabilisiert sich",
    "s": "Dank Kursgewinnen der Wall Street und sinkender Ölpreise hat der DAX zum Wochenschluss wieder etwas Boden gut gemacht. Doch das Umfeld mit Inflations- und Zinssorgen bleibt schwierig.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/digitales/smart-city-ranking-bitkom-100.html",
    "q": "Tagesschau",
    "d": "2026-09-08T17:00:45+00:00"
-  },
-  {
-   "t": "KI-Rechenzentren in den USA - Ressourcenverbrauch ohne Ende",
-   "s": "Die US-amerikanische KI-Industrie benötigt immer mehr Rechenzentren, um Daten zu verarbeiten. Doch der ungebremste Bau dieser milliardenschweren Großprojekte könnte bald vorbei sein, denn die Bevölkerung wehrt sich.",
-   "u": "https://www.deutschlandfunk.de/ki-rechenzentren-usa-stromverbrauch-widerstand-trump-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-08T14:58:00+00:00"
   }
  ]
 }

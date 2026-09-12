@@ -1,13 +1,34 @@
 {
  "name": "Ausland",
- "updated": "2026-09-11T23:16:34+00:00",
+ "updated": "2026-09-12T07:56:20+00:00",
  "items": [
   {
+   "t": "Nach US-Manöver: Nordkorea feuert erneut ballistische Raketen ab",
+   "s": "US-Präsident Trump spricht von guten Beziehungen zu Nordkoreas Machthaber Kim. Doch unmittelbar nach Ende eines Manövers der USA mit Südkorea reagiert der Norden mit Raketen.",
+   "u": "https://www.tagesschau.de/ausland/asien/nordkorea-raketen-160.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T07:28:44+00:00"
+  },
+  {
+   "t": "Saudi-Arabien schaltet nach Drohnenangriffen wichtige Öl-Pipeline ab",
+   "s": "Es ist eine Vorsichtsmaßnahme, die die Öl- und Benzinpreise weiter steigen lasse könnte: Nach den Drohnenangriffen aus dem Irak hat Saudi-Arabien seine Ost-West-Pipeline abgestellt. Exporte werden dadurch weiter reduziert.",
+   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-stellt-betrieb-von-oelpipeline-ein-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T07:07:30+00:00"
+  },
+  {
+   "t": "BRICS-Gipfel im Zeichen globaler Ungewissheiten",
+   "s": "Putin, Xi, Modi: Beim BRICS-Gipfel in Neu-Delhi treffen selbstbewusste Staatenlenker aufeinander. Bei vielen Themen liegen sie weit auseinander. Was kann das Treffen bei den globalen Krisen - von Ukraine bis Iran - bewirken? Von Lena Bodewein.",
+   "u": "https://www.tagesschau.de/ausland/asien/brics-gipfel-indien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T05:18:36+00:00"
+  },
+  {
    "t": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
-   "s": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden nach vorläufigen Angaben verletzt, darunter eine Frau schwer. An Bord des Verkehrsmittels waren rund 180 Passagiere.",
+   "s": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden verletzt, darunter eine Person schwer. An Bord des Regionalzuges waren rund 180 Passagiere. Die Unfallursache ist noch unklar.",
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-11T21:31:05+00:00"
+   "d": "2026-09-12T03:41:39+00:00"
   },
   {
    "t": "Seenotretter in England als Ziel rechter Anfeindung",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/netanjahu-klage-hamas-ueberfall-100.html",
    "q": "Tagesschau",
    "d": "2026-09-09T16:22:13+00:00"
-  },
-  {
-   "t": "EU könnte Fördermittel für Sachsen-Anhalt einfrieren",
-   "s": "In Ungarn und Polen war es schon Praxis: Die EU fror Fördermittel ein. Sollte auch eine mögliche AfD-Regierung in Sachsen-Anhalt EU-Grundrechte brechen, droht dem Land ein Zahlungsstopp - und damit ein Finanzloch. Von J.-M. Magro.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-foerdermittel-sachsen-anhalt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T11:33:13+00:00"
-  },
-  {
-   "t": "USA zerstören fünf iranische Öltanker - Iran reagiert mit Angriffen",
-   "s": "US-Streitkräfte haben nach eigenen Angaben fünf iranische Öltanker zerstört und einen davon versenkt. Iran meldete, noch in der Nacht mit Gegenangriffen reagiert zu haben, unter anderem auf US-Schiffe.",
-   "u": "https://www.tagesschau.de/ausland/asien/usa-iran-krieg-angriff-tanker-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T06:28:42+00:00"
-  },
-  {
-   "t": "Wie der Konflikt im Jemen wieder aufflammt",
-   "s": "Mit Angriffen auf Ölanlagen Saudi-Arabiens verschärft die Huthi-Miliz den Konflikt mit dem Nachbarland. Die von Saudi-Arabien unterstützte Regierung Jemens geht gegen die Huthi vor. Droht eine Eskalation? Welche Rolle spielt Iran? Von M. Behrendt.",
-   "u": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T03:08:13+00:00"
   }
  ]
 }

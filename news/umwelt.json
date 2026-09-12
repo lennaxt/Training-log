@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-11T23:16:37+00:00",
+ "updated": "2026-09-12T07:56:22+00:00",
  "items": [
+  {
+   "t": "Nach der Sachsen-Anhalt-Wahl: Die Alternativen zur Alternative",
+   "s": "Der Wahlsieg der AfD in Sachsen-Anhalt war zu erwarten und ist unfassbar zugleich. Wie jetzt weitermachen?",
+   "u": "https://taz.de/Nach-der-Sachsen-Anhalt-Wahl/!6208054/",
+   "q": "taz",
+   "d": "2026-09-12T07:50:00+00:00"
+  },
   {
    "t": "Effekte der Bezahlkarte: Nichts Genaues weiß die Bundesregierung nicht",
    "s": "Die Bezahlkarte für Asylbewerber sollte Bürokratie reduzieren und Flüchtlinge abschrecken. Ihre Auswirkungen kann die Regierung aber nicht beziffern.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Praesident-der-Arabischen-Emirate-kommt/!6212146/",
    "q": "taz",
    "d": "2026-09-10T05:45:00+00:00"
-  },
-  {
-   "t": "Wahlerfolg der AfD in Sachsen-Anhalt: Vertrauen schlägt Fakten",
-   "s": "Die AfD setzt gezielt auf Beeinflussung „kleiner Öffentlichkeiten“. Subjektive Gewissheiten und Erfahrungen wirken dort stärker als jede Tatsache.",
-   "u": "https://taz.de/Wahlerfolg-der-AfD-in-Sachsen-Anhalt/!6211652/",
-   "q": "taz",
-   "d": "2026-09-10T05:26:00+00:00"
   }
  ]
 }
