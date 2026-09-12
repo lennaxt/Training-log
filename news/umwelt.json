@@ -1,10 +1,24 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-12T17:45:01+00:00",
+ "updated": "2026-09-12T23:03:17+00:00",
  "items": [
   {
-   "t": "Demos gegen die AfD: In ganz Deutschland regt sich der Widerstand",
-   "s": "Mit starker Mobilisierung, bunten Plakaten und klaren Worten setzen Tausende ein Zeichen gegen Ausgrenzung und gegen die AfD. Von Stricknadeln bis zum Krümelmonster: ein kreativer Protest.",
+   "t": "Sachsen-Anhalt nach den Wahlen: Ach, wäre es nur ein Es-könnte-mal-Land",
+   "s": "Wie es jetzt weitergehen soll, fragen sich viele in Sachsen-Anhalt. Beim Festival Osten und im Jugendclub 83 versucht man nach vorne zu blicken.",
+   "u": "https://taz.de/Sachsen-Anhalt-nach-den-Wahlen/!6208050/",
+   "q": "taz",
+   "d": "2026-09-12T18:27:00+00:00"
+  },
+  {
+   "t": "Linke Spitzenkandidatin in Berlin: „Hallo, ich bin Elif“",
+   "s": "Die Linke Elif Eralp könnte Regierende Bürgermeisterin von Berlin werden – wenn ihr nicht ihre Partei in die Quere kommt.",
+   "u": "https://taz.de/Linke-Spitzenkandidatin-in-Berlin/!6211544/",
+   "q": "taz",
+   "d": "2026-09-12T18:24:00+00:00"
+  },
+  {
+   "t": "Demos gegen die AfD: In ganz Deutschland regt sich Widerstand",
+   "s": "Mit Plakaten und klaren Worten setzen über 100.000 Menschen ein Zeichen gegen Ausgrenzung und für Demokratie. Von Stricknadeln bis zum Krümelmonster: ein kreativer Protest.",
    "u": "https://taz.de/Demos-gegen-die-AfD/!6212688/",
    "q": "taz",
    "d": "2026-09-12T15:15:00+00:00"
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Kirchen-und-AfD/!6212186/",
    "q": "taz",
    "d": "2026-09-10T10:00:00+00:00"
-  },
-  {
-   "t": "Kampagnenorganisation The Republic: Populismus als Ausweg",
-   "s": "Um die rechte Mitte zu stärken, setzt die Berlin Campaign Conference auf Ideen aus Trumps Amerika. Die Abgrenzung nach rechts außen bleibt unscharf.",
-   "u": "https://taz.de/Kampagnenorganisation-TheRepublic/!6212157/",
-   "q": "taz",
-   "d": "2026-09-10T08:54:00+00:00"
-  },
-  {
-   "t": "Wahlkampf in den USA: Darum setzt Trump auf das Feindbild Kommunismus",
-   "s": "Antikommunismus ist in den USA tief verwurzelt. Vor den Zwischenwahlen beschimpft der US-Präsident die Demokraten als „Kommunisten“. Ist das erfolgversprechend?",
-   "u": "https://taz.de/Wahlkampf-in-den-USA/!6212160/",
-   "q": "taz",
-   "d": "2026-09-10T08:06:00+00:00"
   }
  ]
 }

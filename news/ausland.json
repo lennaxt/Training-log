@@ -1,10 +1,17 @@
 {
  "name": "Ausland",
- "updated": "2026-09-12T17:44:59+00:00",
+ "updated": "2026-09-12T23:03:15+00:00",
  "items": [
   {
+   "t": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
+   "s": "US-Präsident Trump besucht Irland - und ein Golfturnier in seinem eigenem Golfressort. Ein kleines Dorf steht Kopf, viele demonstrieren gegen den Besuch - und dann wird plötzlich die Einheit Irlands zum Thema. Von Mareike Aden.",
+   "u": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T17:55:57+00:00"
+  },
+  {
    "t": "Droht der nächste Ölpreis-Schock?",
-   "s": "Erst die Straße von Hormus, nun die Meerenge Bab al-Mandab und eine beschädigte Pipeline. Der größte Ölexporteur der Welt Saudi-Arabien hat eine Reihe von Problemen. Wie entwickelt sich der Ölpreis? Welche Folgen hat das für Deutschland?",
+   "s": "Erst die Straße von Hormus, nun die Meerenge Bab al-Mandab und eine beschädigte Pipeline. Der größte Ölexporteur der Welt, Saudi-Arabien, hat eine Reihe von Problemen. Wie entwickelt sich der Ölpreis? Welche Folgen hat das für Deutschland?",
    "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-oel-exporte-angriffe-100.html",
    "q": "Tagesschau",
    "d": "2026-09-12T17:31:20+00:00"
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
    "q": "Tagesschau",
    "d": "2026-09-10T13:00:40+00:00"
-  },
-  {
-   "t": "Ukrainische Journalisten fordern Pressekonferenz von Präsidenten Selenskyj",
-   "s": "Täglich veröffentlicht der ukrainische Präsident Selenskyj seine Videobotschaft - eine Einbahnstraße, kritisieren Journalisten. Sie fordern nach anderthalb Jahren wieder eine große Pressekonferenz für alle Medien. Von F. Kellermann.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-journalisten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T10:39:01+00:00"
   }
  ]
 }

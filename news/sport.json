@@ -1,7 +1,21 @@
 {
  "name": "Sport",
- "updated": "2026-09-12T17:45:04+00:00",
+ "updated": "2026-09-12T23:03:19+00:00",
  "items": [
+  {
+   "t": "Tokio streitet über Straßenprostitution: Wer Sex kauft, soll bestraft werden?",
+   "s": "Japan diskutiert über Strafen für Freier. Bisher werden nur die Sexarbeiterinnen belangt – und nicht alle wollen, dass sich das ändert.",
+   "u": "https://taz.de/Tokio-streitet-ueber-Strassenprostitution/!6208092/",
+   "q": "taz",
+   "d": "2026-09-12T18:31:00+00:00"
+  },
+  {
+   "t": "Brics-Gipfel in Delhi: Ein Brics-Gipfel mit Erklärung(en)",
+   "s": "Indien konnte bei seiner Brics-Präsidentschaft am ersten Tag eine gemeinsame Erklärung präsentieren. Doch hinter dem demonstrierten Konsens bleiben die Differenzen.",
+   "u": "https://taz.de/BRICS-als-internationale-Plattform/!6212701/",
+   "q": "taz",
+   "d": "2026-09-12T18:25:00+00:00"
+  },
   {
    "t": "Chinas Aufstieg seit 2001: Von der Goldgrube zum Konkurrenten",
    "s": "Der WTO-Beitritt war zentral für Chinas Entwicklung. Der Westen träumte vom „Wandel durch Handel“, Xi Jinping aber seinen „chinesischen Traum“.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Parlamentswahl-in-Kasachstan/!6206756/",
    "q": "taz",
    "d": "2026-08-24T15:03:00+00:00"
-  },
-  {
-   "t": "Af­gha­n*in­nen in Iran: Im Visier des Regimes",
-   "s": "Afghanische Mi­gran­t*in­nen, die in Iran leben, hatten sich Protesten gegen das Regime angeschlossen. Nun wurden manche von ihnen hingerichtet.",
-   "u": "https://taz.de/Afghaninnen-in-Iran/!6206114/",
-   "q": "taz",
-   "d": "2026-08-21T11:44:00+00:00"
-  },
-  {
-   "t": "Aktivisten in Hongkong verurteilt: „Anstiftung zur Subversion“",
-   "s": "In Hongkong wurden zwei Organisatoren von dortigen Tiananmen-Mahnwachen verurteilt. Den beiden Aktivisten drohen jeweils bis zu 10 Jahre Haft.",
-   "u": "https://taz.de/Aktivisten-in-Hongkong-verurteilt/!6206136/",
-   "q": "taz",
-   "d": "2026-08-21T11:04:00+00:00"
   }
  ]
 }

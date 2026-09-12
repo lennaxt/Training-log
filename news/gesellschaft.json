@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-12T17:45:02+00:00",
+ "updated": "2026-09-12T23:03:18+00:00",
  "items": [
+  {
+   "t": "Schweden vor der Wahl: Rauer Ton im hohen Norden",
+   "s": "Am Sonntag wählt Schweden und kann sich für links oder rechts entscheiden. Gesundheitssystem, Wirtschaft und Arbeitslosigkeit dominierten den Wahlkampf.",
+   "u": "https://taz.de/Schweden-vor-der-Wahl/!6212508/",
+   "q": "taz",
+   "d": "2026-09-12T18:26:00+00:00"
+  },
   {
    "t": "EU-Beitrittskandidat Montenegro: Die orthodoxe Kirche wurde zum Handlanger der Politik",
    "s": "Das Westbalkanland Montenegro will bald in die EU. Eine Debatte über die Anteilnahme beim Begräbnis des Kriegsverbrechers Mladić kommt da zur Unzeit.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Gedenken-an-Ratko-Mladic/!6210835/",
    "q": "taz",
    "d": "2026-09-07T17:44:00+00:00"
-  },
-  {
-   "t": "EU und Grönland: Auf der Suche nach einem Platz an der nordischen Sonne",
-   "s": "Der Beziehungsstatus zwischen der Europäischen Union und Grönland ist kompliziert. Nun wagt die EU einen neuen Vorstoß mit einem Millionen-Programm.",
-   "u": "https://taz.de/EU-und-Groenland/!6210832/",
-   "q": "taz",
-   "d": "2026-09-07T15:31:00+00:00"
   }
  ]
 }

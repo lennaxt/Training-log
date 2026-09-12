@@ -1,7 +1,56 @@
 {
  "name": "Inland",
- "updated": "2026-09-12T17:44:58+00:00",
+ "updated": "2026-09-12T23:03:14+00:00",
  "items": [
+  {
+   "t": "Tokio streitet über Straßenprostitution: Wer Sex kauft, soll bestraft werden?",
+   "s": "Japan diskutiert über Strafen für Freier. Bisher werden nur die Sexarbeiterinnen belangt – und nicht alle wollen, dass sich das ändert.",
+   "u": "https://taz.de/Tokio-streitet-ueber-Strassenprostitution/!6208092/",
+   "q": "taz",
+   "d": "2026-09-12T18:31:00+00:00"
+  },
+  {
+   "t": "Gefahren von Künstlicher Intelligenz: Wer haftet, wenn die KI uns umbringen will?",
+   "s": "Jeder Eierkocher wird reguliert. Bei KI ist das - trotz sich häufender Warnungen - anders. Der Rechtsstaat sollte auch mal was dazu sagen.",
+   "u": "https://taz.de/Gefahren-von-Kuenstlicher-Intelligenz/!6211549/",
+   "q": "taz",
+   "d": "2026-09-12T18:29:00+00:00"
+  },
+  {
+   "t": "Veränderung in Teherans Stadtbild: Der Hidschab bleibt im Kleiderschrank",
+   "s": "In Teheran ist dieser Tage kaum noch ein Kopftuch zu sehen. Eine Iranerin berichtet, wie sich die Menschen diese Freiheit erkämpft haben.",
+   "u": "https://taz.de/Veraenderung-in-Teherans-Stadtbild/!6208091/",
+   "q": "taz",
+   "d": "2026-09-12T18:28:00+00:00"
+  },
+  {
+   "t": "Sachsen-Anhalt nach den Wahlen: Ach, wäre es nur ein Es-könnte-mal-Land",
+   "s": "Wie es jetzt weitergehen soll, fragen sich viele in Sachsen-Anhalt. Beim Festival Osten und im Jugendclub 83 versucht man nach vorne zu blicken.",
+   "u": "https://taz.de/Sachsen-Anhalt-nach-den-Wahlen/!6208050/",
+   "q": "taz",
+   "d": "2026-09-12T18:27:00+00:00"
+  },
+  {
+   "t": "Schweden vor der Wahl: Rauer Ton im hohen Norden",
+   "s": "Am Sonntag wählt Schweden und kann sich für links oder rechts entscheiden. Gesundheitssystem, Wirtschaft und Arbeitslosigkeit dominierten den Wahlkampf.",
+   "u": "https://taz.de/Schweden-vor-der-Wahl/!6212508/",
+   "q": "taz",
+   "d": "2026-09-12T18:26:00+00:00"
+  },
+  {
+   "t": "Brics-Gipfel in Delhi: Ein Brics-Gipfel mit Erklärung(en)",
+   "s": "Indien konnte bei seiner Brics-Präsidentschaft am ersten Tag eine gemeinsame Erklärung präsentieren. Doch hinter dem demonstrierten Konsens bleiben die Differenzen.",
+   "u": "https://taz.de/BRICS-als-internationale-Plattform/!6212701/",
+   "q": "taz",
+   "d": "2026-09-12T18:25:00+00:00"
+  },
+  {
+   "t": "Linke Spitzenkandidatin in Berlin: „Hallo, ich bin Elif“",
+   "s": "Die Linke Elif Eralp könnte Regierende Bürgermeisterin von Berlin werden – wenn ihr nicht ihre Partei in die Quere kommt.",
+   "u": "https://taz.de/Linke-Spitzenkandidatin-in-Berlin/!6211544/",
+   "q": "taz",
+   "d": "2026-09-12T18:24:00+00:00"
+  },
   {
    "t": "Protest in vielen Städten: Zehntausende demonstrieren gegen rechts",
    "s": "Zehntausende Menschen sind in Deutschland gegen Rechtsextremismus und für Demokratie auf die Straße gegangen. Demos gab es in mehr als 35 Städten. Eine Forderung: Die Prüfung eines AfD-Verbotsverfahrens.",
@@ -10,8 +59,8 @@
    "d": "2026-09-12T17:38:32+00:00"
   },
   {
-   "t": "Demos gegen die AfD: In ganz Deutschland regt sich der Widerstand",
-   "s": "Mit starker Mobilisierung, bunten Plakaten und klaren Worten setzen Tausende ein Zeichen gegen Ausgrenzung und gegen die AfD. Von Stricknadeln bis zum Krümelmonster: ein kreativer Protest.",
+   "t": "Demos gegen die AfD: In ganz Deutschland regt sich Widerstand",
+   "s": "Mit Plakaten und klaren Worten setzen über 100.000 Menschen ein Zeichen gegen Ausgrenzung und für Demokratie. Von Stricknadeln bis zum Krümelmonster: ein kreativer Protest.",
    "u": "https://taz.de/Demos-gegen-die-AfD/!6212688/",
    "q": "taz",
    "d": "2026-09-12T15:15:00+00:00"
@@ -120,55 +169,6 @@
    "u": "https://taz.de/-Nachrichten-im-Iran-Krieg-/!6212652/",
    "q": "taz",
    "d": "2026-09-12T07:27:00+00:00"
-  },
-  {
-   "t": "\"Kudamm-Krawall\" 1931 - Ein Pogrom in der Weimarer Republik",
-   "s": "Im September 1931 zogen Hunderte nationalsozialistische Schläger durch das Judenviertel am Berliner Kurfürstendamm. Sie verprügelten alle, die sie für Juden hielten. Die Ausschreitungen waren ein düsterer Ausblick auf das, was noch kommen sollte.Engelbrecht, Sebastian",
-   "u": "https://www.deutschlandfunk.de/12-09-1931-nationalsozialistischer-kurfuerstendamm-krawall-in-berlin-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-12T07:05:00+00:00"
-  },
-  {
-   "t": "Abwehr von Drohnen - die Sicherheitslücke am Himmel",
-   "s": "Drohnen sind günstig, leicht zu beschaffen - und können für Verunsicherung sorgen. Laut Bundeskriminalamt gab es 2025 mehr als 1.000 verdächtige Drohnensichtungen. Wie gut sind Deutschlands Abwehrsysteme? Von H. Buchholz und P. Weimar.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-sicherheitsluecke-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T03:12:30+00:00"
-  },
-  {
-   "t": "Isar-Aerospace-Raketenstart: Unendliche Weiten für die Aufrüstung",
-   "s": "Deutsche Po­li­ti­ke­r*in­nen feiern den Raketenstart auf Andøya. Was sie nicht in den Vordergrund stellen: Die Raumfahrt-Investitionen dienen auch dem Militär.",
-   "u": "https://taz.de/Isar-Aerospace-Raketenstart/!6208074/",
-   "q": "taz",
-   "d": "2026-09-11T17:43:00+00:00"
-  },
-  {
-   "t": "Zwischenrufe im Bundestag - Linken-Abgeordnete muss 2.000 Euro zahlen",
-   "s": "Für Zwischenrufe hat die Abgeordnete Köktürk drei Ordnungsrufe kassiert. Genug, um nach der neuen Geschäftsordnung des Bundestages eine Geldstrafe zu bekommen. Köktürk ist die Erste, die zahlen muss.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/ordnungsgeld-koektuerk-bundestag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T17:41:26+00:00"
-  },
-  {
-   "t": "Effekte der Bezahlkarte: Nichts Genaues weiß die Bundesregierung nicht",
-   "s": "Die Bezahlkarte für Asylbewerber sollte Bürokratie reduzieren und Flüchtlinge abschrecken. Ihre Auswirkungen kann die Regierung aber nicht beziffern.",
-   "u": "https://taz.de/Effekte-der-Bezahlkarte/!6212363/",
-   "q": "taz",
-   "d": "2026-09-11T17:41:00+00:00"
-  },
-  {
-   "t": "Frauen im Landtag von Sachsen-Anhalt: Es lebe die neue alte Männerwelt",
-   "s": "Durch das starke Abschneiden der männerdominierten AfD gibt es im neuen Landtag von Sachsen-Anhalt weniger Frauen denn je. Das werden Frauen bald merken.",
-   "u": "https://taz.de/Frauen-im-Landtag-von-Sachsen-Anhalt/!6208156/",
-   "q": "taz",
-   "d": "2026-09-11T17:34:00+00:00"
-  },
-  {
-   "t": "Rüstungsgüter für \"Abschiebeoffensive\": Empörung über Siegmund-Aussage",
-   "s": "Nach seinem Wahlsieg in Sachsen-Anhalt hat AfD-Spitzenkandidat Siegmund davon gesprochen, Rüstungsgüter im Zusammenhang mit Abschiebungen zu nutzen. Seine Aussagen lösten bundesweit entsetzte Reaktionen aus.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-siegmund-reaktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T16:58:32+00:00"
   }
  ]
 }
