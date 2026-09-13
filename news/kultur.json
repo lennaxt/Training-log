@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-09-13T08:19:58+00:00",
+ "updated": "2026-09-13T13:48:38+00:00",
  "items": [
+  {
+   "t": "Hitze in Kolumbien: Feuer, Erdbeben und kaum staatliche Hilfe in Kolumbien",
+   "s": "Das schwere Erdbeben im August hat andere Lagen fast verdrängt: die Waldbrände. Dank „Superniño“ ist es extrem heiß und trocken.",
+   "u": "https://taz.de/Hitze-in-Kolumbien/!6209279/",
+   "q": "taz",
+   "d": "2026-09-13T09:27:00+00:00"
+  },
+  {
+   "t": "Vor den Wahlen in Brasilien: Telenovela in der brasilianischen Justiz",
+   "s": "Kurz vor der Präsidentschaftswahl tauchen neue Ermittlungserkenntnisse gegen Flávio Bolsonaro auf. Auch der Oberste Gerichtshof könnte verwickelt sein.",
+   "u": "https://taz.de/Vor-den-Wahlen-in-Brasilien/!6212651/",
+   "q": "taz",
+   "d": "2026-09-13T08:48:00+00:00"
+  },
   {
    "t": "Gefakte Landkarte des US-Präsidenten: Sterne, Wasser und Kilometer",
    "s": "Donald Trump postet eine Karte, die Kanada, Grönland, Mexiko, Kuba und Island in die Stars and Stripes hüllt. Hat was von mittelalterlichen Despoten.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Angriff-der-USA-auf-die-Meinungsfreiheit/!6207977/",
    "q": "taz",
    "d": "2026-08-28T14:31:00+00:00"
-  },
-  {
-   "t": "Doku über Verschwundene in Mexiko: „Kartelle kommerzialisieren die Angst“",
-   "s": "Alles dreht sich im Film „Toshkua“ um das Verschwindenlassen von Menschen in Mexiko. Aktivistin Mariana Ávila Montejano hilft Familien bei der Suche.",
-   "u": "https://taz.de/Dokumentarfilm-ueber-verschwundene-in-Mexiko-Kartelle-kommerzialisieren-die-Angst/!6205681/",
-   "q": "taz",
-   "d": "2026-08-27T10:54:00+00:00"
-  },
-  {
-   "t": "Social-Media-Prozess: Meta und US-Bundesstaaten einigen sich auf Vergleich",
-   "s": "Im Prozess um Gefahren sozialer Medien für Kinder einigt ​sich Facebook-Mutterkonzern Meta mit ​den klagenden US-Bundesstaaten ​auf einen Vergleich.",
-   "u": "https://taz.de/Social-Media-Prozess/!6207435/",
-   "q": "taz",
-   "d": "2026-08-26T13:51:00+00:00"
   }
  ]
 }

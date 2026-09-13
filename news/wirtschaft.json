@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-13T08:19:54+00:00",
+ "updated": "2026-09-13T13:48:35+00:00",
  "items": [
+  {
+   "t": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
+   "s": "Kupfer kostet so viel wie nie. US-Zollsorgen, KI, Stromnetze und E-Autos treiben den Kupferpreis. Wo der Preisschub für Verbraucher spürbar werden könnte - vom Bauen bis zur Stromrechnung. Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/kupferpreis-rekordhoch-strom-verbraucher-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T13:03:38+00:00"
+  },
+  {
+   "t": "Griechenlands Reeder - Das steckt hinter ihrem Reichtum",
+   "s": "Griechische Schifffahrtsunternehmer gehören zu den vermögendsten Menschen der Welt. Sie haben großen Einfluss auf die Politik, sagen Experten. Für manche ihrer Geschäfte werden sie stark kritisiert.",
+   "u": "https://www.deutschlandfunk.de/reeder-griechenland-russland-schattenflotte-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-13T08:38:00+00:00"
+  },
   {
    "t": "Wie eine explodierende Erbpacht Familien überfordern kann",
    "s": "Erbpacht ist ein Modell, das auch Familien helfen soll, ins Eigenheim zu ziehen. Die Idee: Das Grundstück wird vom Eigentümer nur gepachtet, etwa von der Stadt. Doch das kann zur Falle werden. Von R. Hübner und M. Zimmermann.",
@@ -36,6 +50,13 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/gas-speicher-preise-102.html",
    "q": "Tagesschau",
    "d": "2026-09-12T13:20:55+00:00"
+  },
+  {
+   "t": "Kartenzahlungspflicht - Schützt lieber das Bargeld",
+   "s": "Geschäfte sollen nach Plänen von Finanzminister Lars Klingbeil künftig mindestens eine digitale Bezahlmöglichkeit anbieten müssen. Eine unnötige Vorschrift. Wichtiger wäre es, die Annahme von Bargeld verpflichtend zu machen.Ein Kommentar von Manfred Kloiber",
+   "u": "https://www.deutschlandfunk.de/kartenzahlung-bargeld-kommentar-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-12T07:18:00+00:00"
   },
   {
    "t": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/digitales/faltbare-smartphones-handys-100.html",
    "q": "Tagesschau",
    "d": "2026-09-10T08:27:47+00:00"
-  },
-  {
-   "t": "Teures Heizöl - warten oder kaufen?",
-   "s": "Der Ölpreis ist hoch, die Heizsaison beginnt schon bald. Viele Verbraucher sind verunsichert. Lohnt es sich jetzt, Heizöl zu bestellen? Oder soll man auf sinkende Preise warten? Von Felix Mannheim und Jörg Marksteiner.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/oelpreise-heizen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T06:33:33+00:00"
-  },
-  {
-   "t": "Apple-Präsentation: Neues iPhone ist faltbar und sehr teuer",
-   "s": "Bei seinem großen Werbe-Event hat Apple das erste faltbare iPhone präsentiert. Obwohl Falthandys als Nischensegment gelten und die Konkurrenz sie schon länger anbietet, setzt Apple große Erwartungen in das teure Gerät. Von G. Biesinger.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/apple-iphone-faltbar-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T19:58:46+00:00"
-  },
-  {
-   "t": "Haushaltsentwurf - Eine gigantische Neuverschuldung und viele Fragezeichen",
-   "s": "Der Staat hat viel Geld in die Hand genommen, um die Missstände in Deutschland anzugehen. Dabei bleiben aber viele Fragen offen: Entfacht das Geld nur ein konjunkturelles Strohfeuer? Werden Lücken gestopft, statt in Infrastruktur investiert?Von Jörg Münchenberg",
-   "u": "https://www.deutschlandfunk.de/bundeshaushalt-investitionen-neuverschuldung-klingbeil-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-09T15:40:00+00:00"
   }
  ]
 }

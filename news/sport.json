@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-13T08:19:59+00:00",
+ "updated": "2026-09-13T13:48:39+00:00",
  "items": [
+  {
+   "t": "Konflikt in den Philippinen: Ein wackeliger Schritt in Richtung Frieden",
+   "s": "Im Süden der Philippinen wählen Muslime jetzt erstmals ein eigenes Autonomieparlament. Dabei treten einstige Moro-Rebellenführer gegeneinander an.",
+   "u": "https://taz.de/Konflikt-in-den-Philippinen/!6212784/",
+   "q": "taz",
+   "d": "2026-09-13T12:08:00+00:00"
+  },
   {
    "t": "Tokio streitet über Straßenprostitution: Wer Sex kauft, soll bestraft werden?",
    "s": "Japan diskutiert über Strafen für Freier. Bisher werden nur die Sexarbeiterinnen belangt – und nicht alle wollen, dass sich das ändert.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Parlamenswahlen-in-Kasachstan/!6206749/",
    "q": "taz",
    "d": "2026-08-24T15:39:00+00:00"
-  },
-  {
-   "t": "Parlamentswahl in Kasachstan: Tokajew marschiert durch",
-   "s": "Bei den Parlamentswahlen in Kasachstan siegen die Parteien, die dem Kurs des Staatschefs folgen. Das Land hat enge Bande mit Russland und China.",
-   "u": "https://taz.de/Parlamentswahl-in-Kasachstan/!6206756/",
-   "q": "taz",
-   "d": "2026-08-24T15:03:00+00:00"
   }
  ]
 }

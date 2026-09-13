@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-13T08:19:57+00:00",
+ "updated": "2026-09-13T13:48:37+00:00",
  "items": [
+  {
+   "t": "Pride in Charkiw: „Wir wollen, dass diese Stadt eine europäische Stadt ist“",
+   "s": "Unter hohen Sicherheitsvorkehrungen findet die Pride in der ostukrainischen Stadt Charkiw statt. Hass schlägt Queers auch in der Ukraine entgegen.",
+   "u": "https://taz.de/Pride-in-Charkiw/!6212787/",
+   "q": "taz",
+   "d": "2026-09-13T12:42:00+00:00"
+  },
+  {
+   "t": "Kritik an Staatsbegräbnis für Mladić: Wer Kriegsverbrechern huldigt, ist in der EU nicht willkommen",
+   "s": "In Serbien wird der frühere Armeechef Mladić posthum geehrt. Das Verklären des Völkermords sendet autoritäre statt demokratische Signale nach Brüssel.",
+   "u": "https://taz.de/Kritik-an-Staatsbegraebnis-fuer-Mladic/!6212725/",
+   "q": "taz",
+   "d": "2026-09-13T10:45:00+00:00"
+  },
   {
    "t": "Schweden vor der Wahl: Rauer Ton im hohen Norden",
    "s": "Am Sonntag wählt Schweden und kann sich für links oder rechts entscheiden. Gesundheitssystem, Wirtschaft und Arbeitslosigkeit dominierten den Wahlkampf.",
@@ -17,7 +31,7 @@
    "d": "2026-09-12T14:28:00+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Drei Tote bei russischen Luftangriffen",
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Drei Tote bei russischen Luftangriffen",
    "s": "Auch die Ukraine hat mehrere Ziele in Russland attackiert und beschädigt. Ob Wladimir Putin zum G20-Gipfel nach Miami reisen wird, ist noch offen.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6212686/",
    "q": "taz",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Wahrzeichen-von-Paris/!6211314/",
    "q": "taz",
    "d": "2026-09-08T07:38:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Russland nimmt Angriffe auf Kyjiw wieder auf",
-   "s": "Behörden melden zwei Todesopfer nach neuen russischen Angriffen. Der ukrainische Generalstaatsanwalt tritt zurück.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6211311/",
-   "q": "taz",
-   "d": "2026-09-08T06:45:00+00:00"
-  },
-  {
-   "t": "Gedenken an Ratko Mladić: Letztes Geleit für den Kriegsverbrecher",
-   "s": "Tausende Menschen ehren bei Trauerfeierlichkeiten in Belgrad den verstorbenen Kriegsverbrecher Ratko Mladić. Serbiens Staatspräsident Vučić fehlt.",
-   "u": "https://taz.de/Gedenken-an-Ratko-Mladic/!6210835/",
-   "q": "taz",
-   "d": "2026-09-07T17:44:00+00:00"
   }
  ]
 }

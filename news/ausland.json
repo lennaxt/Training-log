@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-09-13T08:19:52+00:00",
+ "updated": "2026-09-13T13:48:33+00:00",
  "items": [
+  {
+   "t": "Dutzende Festnahmen bei Razzien gegen LGBTQ-Vereine in der Türkei",
+   "s": "Türkische Behörden gehen hart gegen LGBTQ-Vereine vor: Bei Razzien wurden 162 Menschen festgenommen. Die Staatsanwaltschaft spricht von einer Aktion zum Schutz der Familie, Menschenrechtler kritisieren staatlich gelenkte Diskriminierung.",
+   "u": "https://www.tagesschau.de/ausland/asien/tuerkei-razzien-lgbtq-vereine-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T13:35:37+00:00"
+  },
+  {
+   "t": "China 50 Jahre nach Maos Tod: Immer noch untersteht alles der Partei",
+   "s": "50 Jahre nach dem Tod von Chinas Staatsgründer Mao Zedong ist die Volksrepublik ein kapitalistisches Land - seine Metropolen geprägt von Malls und Wolkenkratzern. Und doch kontrolliert die Kommunistische Partei weiterhin alles. Von Eva Lamby-Schmitt.",
+   "u": "https://www.tagesschau.de/ausland/asien/china-50-todestag-mao-zedong-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T11:24:56+00:00"
+  },
+  {
+   "t": "Kenia: Gewaltexzesse im Auftrag der Regierung?",
+   "s": "Motorradgangs, die Veranstaltungen der Opposition mit Macheten angreifen: Ein Jahr vor der Präsidentenwahl in Kenia wird das Land mit Gewalt überzogen. Die Opposition macht dafür auch die Regierung verantwortlich. Von Georg Restle.",
+   "u": "https://www.tagesschau.de/ausland/afrika/kenia-gangs-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T10:24:51+00:00"
+  },
   {
    "t": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
    "s": "In Schweden wird heute ein neues Parlament gewählt. Der Ausgang ist offen: In Umfragen führen die Sozialdemokraten, doch die rechtspopulistischen Schwedendemokraten könnten so viel Einfluss erhalten wie nie zuvor. Von J. Sinram.",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
    "q": "Tagesschau",
    "d": "2026-09-11T09:33:10+00:00"
-  },
-  {
-   "t": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
-   "s": "Erst am Donnerstag waren in Sumy drei Menschen bei einem russischen Angriff auf ein Einkaufszentrum getötet worden - nun wurde eines in Pawlohrad getroffen. Laut Behörden starben dabei fünf Menschen, mehr als 60 wurden verletzt.",
-   "u": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T07:52:12+00:00"
-  },
-  {
-   "t": "Parteitag der US-Republikaner: Vance bezeichnet Demokraten als \"Partei des Hasses\"",
-   "s": "Zwei Monate vor den US-Zwischenwahlen hat Vizepräsident Vance auf dem Parteitag der Republikaner die Demokraten scharf attackiert. Er bezeichnete sie als \"Partei des Hasses\". Eine Präsidentschaftskandidatur ließ er offen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/republikaner-parteitag-104.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T05:32:14+00:00"
-  },
-  {
-   "t": "Huthi-Miliz nimmt laut Berichten Hafenstadt im Jemen ein",
-   "s": "Die Huthi haben im Jemen eine Offensive auf das Küstengebiet gestartet. Medienberichten zufolge nahm die von Iran unterstützte Miliz nun die Hafenstadt Mokka ein - und kontrolliert damit einen Zugang zu einer strategisch wichtigen Meerenge.",
-   "u": "https://www.tagesschau.de/ausland/asien/huthi-jemen-114.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T19:23:15+00:00"
   }
  ]
 }
