@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-13T13:48:37+00:00",
+ "updated": "2026-09-13T18:12:57+00:00",
  "items": [
+  {
+   "t": "Razzien in der Türkei: Schlag gegen die LGBTIQ+-Community",
+   "s": "In der Türkei wird gegen queere Vereine und Institutionen ermittelt. Derweil wurde der Istanbuler Oberbürgermeister Ekrem İmamoğlu zum zweiten Mal verurteilt.",
+   "u": "https://taz.de/Razzien-in-der-Tuerkei/!6212782/",
+   "q": "taz",
+   "d": "2026-09-13T14:46:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: „Putin eskaliert“",
+   "s": "Eine russische Drohne trifft einen Passagierzug in der Ukraine nahe der polnischen Grenze. Verletzt wird niemand – doch Polen ist besorgt.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6212908/",
+   "q": "taz",
+   "d": "2026-09-13T13:50:00+00:00"
+  },
   {
    "t": "Pride in Charkiw: „Wir wollen, dass diese Stadt eine europäische Stadt ist“",
    "s": "Unter hohen Sicherheitsvorkehrungen findet die Pride in der ostukrainischen Stadt Charkiw statt. Hass schlägt Queers auch in der Ukraine entgegen.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/EU-Verteidigungsgremium-ist-gescheitert/!6211380/",
    "q": "taz",
    "d": "2026-09-08T15:32:00+00:00"
-  },
-  {
-   "t": "Streit um EU-Verteidigungsgremium: Persönliche Eitelkeiten und knallharte Politik",
-   "s": "Die EU-Außenbeauftragte Kallas scheitert mit ihrem Vorhaben, ein Verteidigungsgremium zu gründen – auch dank Berlin. Es geht um Macht und Kompetenzen.",
-   "u": "https://taz.de/Streit-um-EU-Verteidigungsgremium/!6211406/",
-   "q": "taz",
-   "d": "2026-09-08T13:55:00+00:00"
-  },
-  {
-   "t": "Wahrzeichen von Paris: Streik am Eiffelturm nach Ausschluss von Mitarbeiterinnen",
-   "s": "Am Pariser Eiffelturm soll auf Bitten hinduistischer Besucher das weibliche Personal vorübergehend abgezogen worden sein. Dagegen gibt es nun Protest.",
-   "u": "https://taz.de/Wahrzeichen-von-Paris/!6211314/",
-   "q": "taz",
-   "d": "2026-09-08T07:38:00+00:00"
   }
  ]
 }

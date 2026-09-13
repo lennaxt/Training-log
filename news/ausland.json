@@ -1,17 +1,31 @@
 {
  "name": "Ausland",
- "updated": "2026-09-13T13:48:33+00:00",
+ "updated": "2026-09-13T18:12:52+00:00",
  "items": [
   {
-   "t": "Dutzende Festnahmen bei Razzien gegen LGBTQ-Vereine in der Türkei",
-   "s": "Türkische Behörden gehen hart gegen LGBTQ-Vereine vor: Bei Razzien wurden 162 Menschen festgenommen. Die Staatsanwaltschaft spricht von einer Aktion zum Schutz der Familie, Menschenrechtler kritisieren staatlich gelenkte Diskriminierung.",
+   "t": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck",
+   "s": "Nach dem Huthi-Vormarsch und dem Angriff auf eine Pipeline wächst der Druck auf Saudi-Arabien - denn nach der Straße von Hormus ist nun auch die Ausweichroute für Ölexporte vorerst nicht nutzbar. Von den USA kommt keine Hilfe. Von A. Osius.",
+   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-oelpreis-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T15:56:14+00:00"
+  },
+  {
+   "t": "Ukraine: Russische Drohne trifft Passagierzug nach Warschau",
+   "s": "In der Ukraine ist ein Passagierzug von Kiew nach Warschau von einer russischen Drohne attackiert worden. Verletzt wurde dabei niemand. Auch eine Tankstelle in der Grenzregion zu Polen wurde getroffen.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-nahe-polnischer-grenze-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T15:08:51+00:00"
+  },
+  {
+   "t": "Festnahmen bei Razzien gegen LGBTQ-Vereine in der Türkei",
+   "s": "Türkische Behörden gehen hart gegen LGBTQ-Vereine vor: Bei Razzien wurden mehrere Menschen festgenommen. Die Staatsanwaltschaft spricht von einer Aktion zum Schutz der Familie, Menschenrechtler kritisieren staatlich gelenkte Diskriminierung.",
    "u": "https://www.tagesschau.de/ausland/asien/tuerkei-razzien-lgbtq-vereine-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-13T13:35:37+00:00"
+   "d": "2026-09-13T14:09:26+00:00"
   },
   {
    "t": "China 50 Jahre nach Maos Tod: Immer noch untersteht alles der Partei",
-   "s": "50 Jahre nach dem Tod von Chinas Staatsgründer Mao Zedong ist die Volksrepublik ein kapitalistisches Land - seine Metropolen geprägt von Malls und Wolkenkratzern. Und doch kontrolliert die Kommunistische Partei weiterhin alles. Von Eva Lamby-Schmitt.",
+   "s": "50 Jahre nach dem Tod von Chinas Staatsgründer Mao Zedong ist die Volksrepublik ein kapitalistisches Land - seine Metropolen sind geprägt von Malls und Wolkenkratzern. Und doch kontrolliert die Kommunistische Partei weiterhin alles. Von Eva Lamby-Schmitt.",
    "u": "https://www.tagesschau.de/ausland/asien/china-50-todestag-mao-zedong-100.html",
    "q": "Tagesschau",
    "d": "2026-09-13T11:24:56+00:00"
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/jemen-huthi-rebellen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-11T12:45:43+00:00"
-  },
-  {
-   "t": "Fünf Tote nach Busunglück in der Schweiz",
-   "s": "Ein Reisebus ist in der Schweiz von der Straße abgekommen, dabei wurden nach Polizeiangaben fünf Menschen getötet. Der Bus eines niederländischen Reiseveranstalters war mit 45 Menschen an Bord unterwegs.",
-   "u": "https://www.tagesschau.de/ausland/europa/schweiz-busunfall-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T11:22:39+00:00"
-  },
-  {
-   "t": "Wie der 11. September die US-Außenpolitik verändert hat",
-   "s": "Der \"Krieg gegen den Terror\", die Logik von Präventivkriegen: Die Anschläge am 11. September 2001 hatten dramatische Folgen für die Außen- und Sicherheitspolitik der USA - die bis heute nachwirken. Von Carsten Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-11-september-aussenpolitik-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T09:33:10+00:00"
   }
  ]
 }

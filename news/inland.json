@@ -1,7 +1,77 @@
 {
  "name": "Inland",
- "updated": "2026-09-13T13:48:31+00:00",
+ "updated": "2026-09-13T18:12:52+00:00",
  "items": [
+  {
+   "t": "CDU-Influencerin von Nathusius übt scharfe Kritik an Kanzler Merz",
+   "s": "In der CDU wächst die Kritik an Kanzler Merz: Clara von Nathusius, im Vorstand der Jungen Union, hält seine Tage im Amt für gezählt. Die CDU müsse sich nun entscheiden, wofür sie stehe, sagt sie im Bericht aus Berlin. Die Brandmauer hält sie für gescheitert.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bab-6378.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T18:04:25+00:00"
+  },
+  {
+   "t": "Meerenge Bab al-Mandab: Huthis verschärfen die Ölkrise",
+   "s": "Die jemenitische Miliz hat die Meerenge Bab al-Mandab unter ihre Kontrolle gebracht. Das schränkt den Welthandel mit Öl weiter ein. Eine Lösung scheint nicht in Sicht.",
+   "u": "https://taz.de/Meerenge-Bab-al-Mandab/!6212764/",
+   "q": "taz",
+   "d": "2026-09-13T18:03:00+00:00"
+  },
+  {
+   "t": "Schwesigs SPD-Wahlkampf in Meck-Pomm: Mit dem Wahlvolk kann sie",
+   "s": "Manuela Schwesig kämpft in Mecklenburg-Vorpommern um jeden Prozentpunkt und rückt der AfD auf die Pelle. Gefährlich wird sie damit auch für die CDU.",
+   "u": "https://taz.de/Schwesigs-SPD-Wahlkampf-in-Meck-Pomm/!6211546/",
+   "q": "taz",
+   "d": "2026-09-13T16:31:00+00:00"
+  },
+  {
+   "t": "Huthi-Miliz im Jemen: Jemenitische Armee nur ein Papiertiger",
+   "s": "Wie konnten die Huthi-Rebellen so schnell im Jemen vorrücken? Analysten gehen von Verrat aus. Und 80 Prozent der jemenitischen Armee soll nur auf dem Papier existieren.",
+   "u": "https://taz.de/Huthi-Miliz-im-Jemen/!6212765/",
+   "q": "taz",
+   "d": "2026-09-13T15:13:00+00:00"
+  },
+  {
+   "t": "Frauke Brosius-Gersdorf - Den Rechtsstaat schützen",
+   "s": "Die Kontroverse um ihre Kandidatur zur Bundesverfassungsrichterin brachte Frauke Brosius-Gersdorf in die Schlagzeilen. In ihrem Buch \"Wahl und Wahrheit\" legt sie dar, was das Grundgesetz gefährdet und wie es zu schützen ist.Balzer, Vladimir",
+   "u": "https://www.deutschlandfunk.de/frauke-brosius-gersdorf-wahl-und-wahrheit-grundgesetz-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-13T15:05:00+00:00"
+  },
+  {
+   "t": "Bündnis „Zusammen bewegen“ in MV: Aufwind für die Demokratie",
+   "s": "Mit einem Heißluftballon fährt Hans-Jörg Spies im Vorfeld der Wahlen über Mecklenburg-Vorpommern. Seine Botschaft: Zuhören und miteinander reden.",
+   "u": "https://taz.de/Buendnis-Zusammen-bewegen-in-MV/!6210936/",
+   "q": "taz",
+   "d": "2026-09-13T14:51:00+00:00"
+  },
+  {
+   "t": "Razzien in der Türkei: Schlag gegen die LGBTIQ+-Community",
+   "s": "In der Türkei wird gegen queere Vereine und Institutionen ermittelt. Derweil wurde der Istanbuler Oberbürgermeister Ekrem İmamoğlu zum zweiten Mal verurteilt.",
+   "u": "https://taz.de/Razzien-in-der-Tuerkei/!6212782/",
+   "q": "taz",
+   "d": "2026-09-13T14:46:00+00:00"
+  },
+  {
+   "t": "Brics-Gipfel: Indien nimmt Brics die potenzielle Schärfe",
+   "s": "In Delhi demonstrieren die Brics-Staaten Einigkeit trotz Irankrieg und gegensätzlicher Interessen. Sie wollen dem Globalen Süden mehr Gewicht geben.",
+   "u": "https://taz.de/Brics-Gipfel/!6212781/",
+   "q": "taz",
+   "d": "2026-09-13T14:44:00+00:00"
+  },
+  {
+   "t": "Sachsen-Anhalt: Wie realistisch sind die Rundfunk-Pläne der AfD?",
+   "s": "Noch am Wahlabend bekräftigte AfD-Spitzenkandidat Siegmund in der tagesschau seine Absicht, den Medienstaatsvertrag zu kündigen. Was sind die juristischen Knackpunkte? Von Alena Lagmöller und Frank Bräutigam.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-mdr-rundfunk-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T14:28:14+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: „Putin eskaliert“",
+   "s": "Eine russische Drohne trifft einen Passagierzug in der Ukraine nahe der polnischen Grenze. Verletzt wird niemand – doch Polen ist besorgt.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6212908/",
+   "q": "taz",
+   "d": "2026-09-13T13:50:00+00:00"
+  },
   {
    "t": "Pride in Charkiw: „Wir wollen, dass diese Stadt eine europäische Stadt ist“",
    "s": "Unter hohen Sicherheitsvorkehrungen findet die Pride in der ostukrainischen Stadt Charkiw statt. Hass schlägt Queers auch in der Ukraine entgegen.",
@@ -99,76 +169,6 @@
    "u": "https://taz.de/-Nachrichten-im-Irankrieg-/!6212705/",
    "q": "taz",
    "d": "2026-09-13T07:08:00+00:00"
-  },
-  {
-   "t": "Wie wählt Berlin?: Das ABC zur Macht",
-   "s": "Am 20. September wird in Berlin gewählt. Wahlentscheidend kann die Mietfrage sein – oder auch Palästina. Blick auf Berliner Befindlichkeiten von A bis Z.",
-   "u": "https://taz.de/Wie-waehlt-Berlin/!6208072/",
-   "q": "taz",
-   "d": "2026-09-13T07:06:00+00:00"
-  },
-  {
-   "t": "Tokio streitet über Straßenprostitution: Wer Sex kauft, soll bestraft werden?",
-   "s": "Japan diskutiert über Strafen für Freier. Bisher werden nur die Sexarbeiterinnen belangt – und nicht alle wollen, dass sich das ändert.",
-   "u": "https://taz.de/Tokio-streitet-ueber-Strassenprostitution/!6208092/",
-   "q": "taz",
-   "d": "2026-09-12T18:31:00+00:00"
-  },
-  {
-   "t": "Gefahren von Künstlicher Intelligenz: Wer haftet, wenn die KI uns umbringen will?",
-   "s": "Jeder Eierkocher wird reguliert. Bei KI ist das - trotz sich häufender Warnungen - anders. Der Rechtsstaat sollte auch mal was dazu sagen.",
-   "u": "https://taz.de/Gefahren-von-Kuenstlicher-Intelligenz/!6211549/",
-   "q": "taz",
-   "d": "2026-09-12T18:29:00+00:00"
-  },
-  {
-   "t": "Veränderung in Teherans Stadtbild: Der Hidschab bleibt im Kleiderschrank",
-   "s": "In Teheran ist dieser Tage kaum noch ein Kopftuch zu sehen. Eine Iranerin berichtet, wie sich die Menschen diese Freiheit erkämpft haben.",
-   "u": "https://taz.de/Veraenderung-in-Teherans-Stadtbild/!6208091/",
-   "q": "taz",
-   "d": "2026-09-12T18:28:00+00:00"
-  },
-  {
-   "t": "Sachsen-Anhalt nach den Wahlen: Ach, wäre es nur ein Es-könnte-mal-Land",
-   "s": "Wie es jetzt weitergehen soll, fragen sich viele in Sachsen-Anhalt. Beim Festival Osten und im Jugendclub 83 versucht man nach vorne zu blicken.",
-   "u": "https://taz.de/Sachsen-Anhalt-nach-den-Wahlen/!6208050/",
-   "q": "taz",
-   "d": "2026-09-12T18:27:00+00:00"
-  },
-  {
-   "t": "Schweden vor der Wahl: Rauer Ton im hohen Norden",
-   "s": "Am Sonntag wählt Schweden und kann sich für links oder rechts entscheiden. Gesundheitssystem, Wirtschaft und Arbeitslosigkeit dominierten den Wahlkampf.",
-   "u": "https://taz.de/Schweden-vor-der-Wahl/!6212508/",
-   "q": "taz",
-   "d": "2026-09-12T18:26:00+00:00"
-  },
-  {
-   "t": "Brics-Gipfel in Delhi: Ein Brics-Gipfel mit Erklärung(en)",
-   "s": "Indien konnte als Gastgeber des Brics-Gipfels am ersten Tag eine gemeinsame Erklärung präsentieren. Doch hinter dem demonstrierten Konsens bleiben die Differenzen.",
-   "u": "https://taz.de/BRICS-als-internationale-Plattform/!6212701/",
-   "q": "taz",
-   "d": "2026-09-12T18:25:00+00:00"
-  },
-  {
-   "t": "Linke Spitzenkandidatin in Berlin: „Hallo, ich bin Elif“",
-   "s": "Die Linke Elif Eralp könnte Regierende Bürgermeisterin von Berlin werden – wenn ihr nicht ihre Partei in die Quere kommt.",
-   "u": "https://taz.de/Linke-Spitzenkandidatin-in-Berlin/!6211544/",
-   "q": "taz",
-   "d": "2026-09-12T18:24:00+00:00"
-  },
-  {
-   "t": "Protest in vielen Städten: Zehntausende demonstrieren gegen Rechtsextremismus",
-   "s": "Zehntausende Menschen sind in Deutschland gegen Rechtsextremismus und für Demokratie auf die Straße gegangen. Demos gab es in mehr als 35 Städten. Eine Forderung: Die Prüfung eines AfD-Verbotsverfahrens.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T17:38:32+00:00"
-  },
-  {
-   "t": "Demos gegen die AfD: In ganz Deutschland regt sich Widerstand",
-   "s": "Mit Plakaten und klaren Worten setzen über 100.000 Menschen ein Zeichen gegen Ausgrenzung und für Demokratie. Von Stricknadeln bis zum Krümelmonster: ein kreativer Protest.",
-   "u": "https://taz.de/Demos-gegen-die-AfD/!6212688/",
-   "q": "taz",
-   "d": "2026-09-12T15:15:00+00:00"
   }
  ]
 }

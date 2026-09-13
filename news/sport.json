@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-13T13:48:39+00:00",
+ "updated": "2026-09-13T18:12:59+00:00",
  "items": [
+  {
+   "t": "Brics-Gipfel: Indien nimmt Brics die potenzielle Schärfe",
+   "s": "In Delhi demonstrieren die Brics-Staaten Einigkeit trotz Irankrieg und gegensätzlicher Interessen. Sie wollen dem Globalen Süden mehr Gewicht geben.",
+   "u": "https://taz.de/Brics-Gipfel/!6212781/",
+   "q": "taz",
+   "d": "2026-09-13T14:44:00+00:00"
+  },
   {
    "t": "Konflikt in den Philippinen: Ein wackeliger Schritt in Richtung Frieden",
    "s": "Im Süden der Philippinen wählen Muslime jetzt erstmals ein eigenes Autonomieparlament. Dabei treten einstige Moro-Rebellenführer gegeneinander an.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Reaktionen-auf-Manoeverabsage/!6207014/",
    "q": "taz",
    "d": "2026-08-25T14:39:00+00:00"
-  },
-  {
-   "t": "Parlamenswahlen in Kasachstan: Auslese statt Wahl",
-   "s": "Machthaber Tokajew hatte Reformen versprochen, das Gegenteil ist eingetreten. Die Wahlen festigen nun seine Herrschaft.",
-   "u": "https://taz.de/Parlamenswahlen-in-Kasachstan/!6206749/",
-   "q": "taz",
-   "d": "2026-08-24T15:39:00+00:00"
   }
  ]
 }
