@@ -1,7 +1,28 @@
 {
  "name": "Inland",
- "updated": "2026-09-12T23:03:14+00:00",
+ "updated": "2026-09-13T08:19:52+00:00",
  "items": [
+  {
+   "t": "Bilger drängt auf Wiedereinführung der Familienreservierung bei der Bahn",
+   "s": "Wenn Familien bei der Bahn zusammen Sitzplätze reservieren, dann ist das seit Juni 2025 teurer. Verkehrsminister Bilger drängt nun auf die Wiedereinführung der Familienreservierung.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/bilger-bahn-familienreservierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T07:52:19+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Irankrieg +++: Sorgen um die Ölversorgung",
+   "s": "Nach der Schließung einer saudischen Ölpipeline wachsen die Sorgen um die Energieversorgung. Die Huthis haben ihre Angriffe auf Saudi-Arabien verstärkt.",
+   "u": "https://taz.de/-Nachrichten-im-Irankrieg-/!6212705/",
+   "q": "taz",
+   "d": "2026-09-13T07:08:00+00:00"
+  },
+  {
+   "t": "Wie wählt Berlin?: Das ABC zur Macht",
+   "s": "Am 20. September wird in Berlin gewählt. Wahlentscheidend kann die Mietfrage sein – oder auch Palästina. Blick auf Berliner Befindlichkeiten von A bis Z.",
+   "u": "https://taz.de/Wie-waehlt-Berlin/!6208072/",
+   "q": "taz",
+   "d": "2026-09-13T07:06:00+00:00"
+  },
   {
    "t": "Tokio streitet über Straßenprostitution: Wer Sex kauft, soll bestraft werden?",
    "s": "Japan diskutiert über Strafen für Freier. Bisher werden nur die Sexarbeiterinnen belangt – und nicht alle wollen, dass sich das ändert.",
@@ -39,7 +60,7 @@
   },
   {
    "t": "Brics-Gipfel in Delhi: Ein Brics-Gipfel mit Erklärung(en)",
-   "s": "Indien konnte bei seiner Brics-Präsidentschaft am ersten Tag eine gemeinsame Erklärung präsentieren. Doch hinter dem demonstrierten Konsens bleiben die Differenzen.",
+   "s": "Indien konnte als Gastgeber des Brics-Gipfels am ersten Tag eine gemeinsame Erklärung präsentieren. Doch hinter dem demonstrierten Konsens bleiben die Differenzen.",
    "u": "https://taz.de/BRICS-als-internationale-Plattform/!6212701/",
    "q": "taz",
    "d": "2026-09-12T18:25:00+00:00"
@@ -52,7 +73,7 @@
    "d": "2026-09-12T18:24:00+00:00"
   },
   {
-   "t": "Protest in vielen Städten: Zehntausende demonstrieren gegen rechts",
+   "t": "Protest in vielen Städten: Zehntausende demonstrieren gegen Rechtsextremismus",
    "s": "Zehntausende Menschen sind in Deutschland gegen Rechtsextremismus und für Demokratie auf die Straße gegangen. Demos gab es in mehr als 35 Städten. Eine Forderung: Die Prüfung eines AfD-Verbotsverfahrens.",
    "u": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
    "q": "Tagesschau",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Chinas-Aufstieg-seit-2001/!6208883/",
    "q": "taz",
    "d": "2026-09-12T08:44:00+00:00"
-  },
-  {
-   "t": "Mietpreisbremse: Hubig will Verstöße mit Bußgeldern bestrafen",
-   "s": "Justizministerin Hubig (SPD) fordert schärfere Sanktionen bei Verstößen gegen die Mietpreisbremse. Damit will sie „Schutzlücken im Mietrecht“ schließen.",
-   "u": "https://taz.de/Mietpreisbremse/!6212658/",
-   "q": "taz",
-   "d": "2026-09-12T08:37:00+00:00"
-  },
-  {
-   "t": "Nach der Sachsen-Anhalt-Wahl: Die Alternativen zur Alternative",
-   "s": "Der Wahlsieg der AfD in Sachsen-Anhalt war zu erwarten und ist unfassbar zugleich. Wie jetzt weitermachen?",
-   "u": "https://taz.de/Nach-der-Sachsen-Anhalt-Wahl/!6208054/",
-   "q": "taz",
-   "d": "2026-09-12T07:50:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Iran-Krieg +++: Saudische Ölexporte massiv unter Druck",
-   "s": "Die jemenitische Huthi-Miliz bedroht zunehmend die Meerenge Bab al-Mandab. Nach Drohnenangriffen muss Saudi-Arabien auch noch eine wichtige Pipeline abschalten.",
-   "u": "https://taz.de/-Nachrichten-im-Iran-Krieg-/!6212652/",
-   "q": "taz",
-   "d": "2026-09-12T07:27:00+00:00"
   }
  ]
 }

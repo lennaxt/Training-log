@@ -1,7 +1,28 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-12T23:03:16+00:00",
+ "updated": "2026-09-13T08:19:54+00:00",
  "items": [
+  {
+   "t": "Wie eine explodierende Erbpacht Familien überfordern kann",
+   "s": "Erbpacht ist ein Modell, das auch Familien helfen soll, ins Eigenheim zu ziehen. Die Idee: Das Grundstück wird vom Eigentümer nur gepachtet, etwa von der Stadt. Doch das kann zur Falle werden. Von R. Hübner und M. Zimmermann.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/erbpacht-108.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T06:15:32+00:00"
+  },
+  {
+   "t": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
+   "s": "Angesichts der Risiken muss die Entwicklung von KI dringend verlangsamt werden, meint der Chef von Anthropic und fordert Regulierungen. Unterstützung bekommt er von OpenAI-Chef Altman und Tech-Unternehmer Musk. Von Gabi Biesinger.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/ki-anthropic-106.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T04:47:55+00:00"
+  },
+  {
+   "t": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
+   "s": "Das Unternehmen OpenAI bereitet sich seit Längerem auf den Börsengang vor. Doch Firmenchef Altman hält den Zeitpunkt für ungünstig und gibt dem Chef von Anthropic recht, der eine Drosselung der KI-Entwicklung fordert.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-12T23:53:35+00:00"
+  },
   {
    "t": "Wie die Stadt Wittenberge ihr Industrie-Erbe neu nutzen will",
    "s": "Wo früher Nähmaschinen produziert wurden, sollen nun Touristen übernachten, Start-ups arbeiten und Konzerte stattfinden. Wie die brandenburgische Stadt Wittenberge - zwischen Hamburg und Berlin gelegen - ihr Industrie-Erbe nutzt. Von J. Piwon.",
@@ -15,13 +36,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/gas-speicher-preise-102.html",
    "q": "Tagesschau",
    "d": "2026-09-12T13:20:55+00:00"
-  },
-  {
-   "t": "Kartenzahlungspflicht - Schützt lieber das Bargeld",
-   "s": "Geschäfte sollen nach Plänen von Finanzminister Lars Klingbeil künftig mindestens eine digitale Bezahlmöglichkeit anbieten müssen. Eine unnötige Vorschrift. Wichtiger wäre es, die Annahme von Bargeld verpflichtend zu machen.Ein Kommentar von Manfred Kloiber",
-   "u": "https://www.deutschlandfunk.de/kartenzahlung-bargeld-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-12T07:18:00+00:00"
   },
   {
    "t": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
@@ -155,20 +169,6 @@
    "u": "https://www.deutschlandfunk.de/bundeshaushalt-investitionen-neuverschuldung-klingbeil-kommentar-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-09T15:40:00+00:00"
-  },
-  {
-   "t": "Zehntausende Lkw-Fahrer fehlen - was hilft den Speditionen?",
-   "s": "In ganz Deutschland suchen Speditionen nach Verstärkung. Zehntausende Lkw-Fahrer fehlen. Die Branche muss kreative Lösungen finden, um Lieferengpässe zu vermeiden. Von Theo Steinbach.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/lkw-fahrer-mangel-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-09T15:16:05+00:00"
-  },
-  {
-   "t": "Klimawandel - Wie Deutschland sein Stromnetz für die Zukunft rüstet",
-   "s": "Die Hitzewellen dieses Sommers haben das deutsche Stromnetz unter Druck gesetzt. Wie lässt sich die Versorgung sichern, wenn Extremwetter häufiger wird und Wind und Sonne die Stromflüsse verändern?",
-   "u": "https://www.deutschlandfunk.de/stromnetz-deutschland-extremwetter-klimawandel-stromversorgung-energiewende-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-09T12:46:00+00:00"
   }
  ]
 }

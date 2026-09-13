@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-12T23:03:17+00:00",
+ "updated": "2026-09-13T08:19:56+00:00",
  "items": [
+  {
+   "t": "Wie wählt Berlin?: Das ABC zur Macht",
+   "s": "Am 20. September wird in Berlin gewählt. Wahlentscheidend kann die Mietfrage sein – oder auch Palästina. Blick auf Berliner Befindlichkeiten von A bis Z.",
+   "u": "https://taz.de/Wie-waehlt-Berlin/!6208072/",
+   "q": "taz",
+   "d": "2026-09-13T07:06:00+00:00"
+  },
   {
    "t": "Sachsen-Anhalt nach den Wahlen: Ach, wäre es nur ein Es-könnte-mal-Land",
    "s": "Wie es jetzt weitergehen soll, fragen sich viele in Sachsen-Anhalt. Beim Festival Osten und im Jugendclub 83 versucht man nach vorne zu blicken.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Zeitzeugin-im-Gespraech/!6211538/",
    "q": "taz",
    "d": "2026-09-10T12:25:00+00:00"
-  },
-  {
-   "t": "Kirchen und AfD: Amen und Alerta",
-   "s": "Die AfD zeigt sich mittlerweile offen kirchenfeindlich, die Geistlichen selbst reden jetzt Klartext. Besonders der neue deutsche Oberoberhirte.",
-   "u": "https://taz.de/Kirchen-und-AfD/!6212186/",
-   "q": "taz",
-   "d": "2026-09-10T10:00:00+00:00"
   }
  ]
 }

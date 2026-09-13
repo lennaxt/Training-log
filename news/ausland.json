@@ -1,10 +1,24 @@
 {
  "name": "Ausland",
- "updated": "2026-09-12T23:03:15+00:00",
+ "updated": "2026-09-13T08:19:52+00:00",
  "items": [
   {
+   "t": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
+   "s": "In Schweden wird heute ein neues Parlament gewählt. Der Ausgang ist offen: In Umfragen führen die Sozialdemokraten, doch die rechtspopulistischen Schwedendemokraten könnten so viel Einfluss erhalten wie nie zuvor. Von J. Sinram.",
+   "u": "https://www.tagesschau.de/ausland/europa/schweden-wahl-130.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T04:57:05+00:00"
+  },
+  {
+   "t": "Ermittler sehen keine Hinweise auf Anschlag bei Zugunglück",
+   "s": "Bei der Entgleisung eines Zuges in der Normandie werden mehr als 40 Menschen verletzt. Hinweise auf einen Anschlag gibt es jedoch laut Staatsanwalt nicht - damit widerspricht er der Darstellung einiger Politiker.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-zugunglueck-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T02:44:07+00:00"
+  },
+  {
    "t": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
-   "s": "US-Präsident Trump besucht Irland - und ein Golfturnier in seinem eigenem Golfressort. Ein kleines Dorf steht Kopf, viele demonstrieren gegen den Besuch - und dann wird plötzlich die Einheit Irlands zum Thema. Von Mareike Aden.",
+   "s": "US-Präsident Trump besucht Irland - und ein Golfturnier in seinem eigenem Golfclub. Ein kleines Dorf steht Kopf, viele demonstrieren gegen den Besuch - und dann wird plötzlich die Einheit Irlands zum Thema. Von Mareike Aden.",
    "u": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
    "q": "Tagesschau",
    "d": "2026-09-12T17:55:57+00:00"
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/huthi-jemen-114.html",
    "q": "Tagesschau",
    "d": "2026-09-10T19:23:15+00:00"
-  },
-  {
-   "t": "Emirate investieren 40 Milliarden Euro in Deutschland",
-   "s": "Deutschland und die Vereinigten Arabischen Emirate wollen ihre Beziehungen ausbauen. Der Golfstaat plant Investitionen von 40 Milliarden Euro. Zudem darf die Fluggesellschaft Emirates eine weitere deutsche Stadt anfliegen. Von Nicole Markwald.",
-   "u": "https://www.tagesschau.de/ausland/asien/vae-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T18:24:58+00:00"
-  },
-  {
-   "t": "Historischer Teppich in Londoner Museum zieht Menschenmassen an",
-   "s": "Auf 70 Metern Länge erzählt der Wandteppich von Bayeux die normannische Invasion Englands und die Thronbesteigung von Wilhelm \"dem Eroberer\". In London erobert er als seltene Leihgabe die Herzen der Museumsbesucher. Von. C. Prössl.",
-   "u": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T13:00:40+00:00"
   }
  ]
 }
