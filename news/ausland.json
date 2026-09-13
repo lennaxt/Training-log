@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-09-13T18:12:52+00:00",
+ "updated": "2026-09-13T23:10:49+00:00",
  "items": [
+  {
+   "t": "Hochrechnungen: Sozialdemokraten bei Wahl in Schweden vorn",
+   "s": "Bei der Parlamentswahl in Schweden sind die Sozialdemokraten von Ex-Regierungschefin Andersson laut Hochrechnungen stärkste Kraft geworden. Ob es für die Regierungsbildung reicht, ist aber noch offen.",
+   "u": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T22:35:26+00:00"
+  },
   {
    "t": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck",
    "s": "Nach dem Huthi-Vormarsch und dem Angriff auf eine Pipeline wächst der Druck auf Saudi-Arabien - denn nach der Straße von Hormus ist nun auch die Ausweichroute für Ölexporte vorerst nicht nutzbar. Von den USA kommt keine Hilfe. Von A. Osius.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/muslime-new-york-9-11-100.html",
    "q": "Tagesschau",
    "d": "2026-09-11T13:37:59+00:00"
-  },
-  {
-   "t": "Huthi-Miliz erobert Insel in wichtiger Meerenge Bab al-Mandab",
-   "s": "Die mit Iran verbündete Huthi-Miliz ist am Roten Meer offenbar weiter vorgerückt. Laut jemenitischen Regierungsquellen eroberte sie auch eine strategisch wichtige Insel in der Meerenge Bab al-Mandab.",
-   "u": "https://www.tagesschau.de/ausland/asien/jemen-huthi-rebellen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T12:45:43+00:00"
   }
  ]
 }

@@ -1,13 +1,27 @@
 {
  "name": "Inland",
- "updated": "2026-09-13T18:12:52+00:00",
+ "updated": "2026-09-13T23:10:49+00:00",
  "items": [
   {
    "t": "CDU-Influencerin von Nathusius übt scharfe Kritik an Kanzler Merz",
    "s": "In der CDU wächst die Kritik an Kanzler Merz: Clara von Nathusius, im Vorstand der Jungen Union, hält seine Tage im Amt für gezählt. Die CDU müsse sich nun entscheiden, wofür sie stehe, sagt sie im Bericht aus Berlin. Die Brandmauer hält sie für gescheitert.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/bab-6378.html",
    "q": "Tagesschau",
-   "d": "2026-09-13T18:04:25+00:00"
+   "d": "2026-09-13T18:44:54+00:00"
+  },
+  {
+   "t": "Rekordspende für Reform UK: Millionen für die Macht",
+   "s": "Zwei Kryptomilliardäre spenden rund 84 Millionen Euro für die rechtspopulistische Reform UK. Nun wird der Ruf nach Obergrenzen für Parteispenden laut.",
+   "u": "https://taz.de/Rekordspende-fuer-Reform-UK/!6212766/",
+   "q": "taz",
+   "d": "2026-09-13T18:08:00+00:00"
+  },
+  {
+   "t": "US-Präsident Donald Trump in Irland: „Trump hält unser Dorf am Leben“",
+   "s": "Der US-Präsident besucht Irland – und alle Seiten bekommen bei dem Besuch, was sie wollen: politisches Geplänkel und Trump kann beim Golfen zuschauen.",
+   "u": "https://taz.de/US-Praesident-Donald-Trump-in-Irland/!6212630/",
+   "q": "taz",
+   "d": "2026-09-13T18:08:00+00:00"
   },
   {
    "t": "Meerenge Bab al-Mandab: Huthis verschärfen die Ölkrise",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Vor-den-Wahlen-in-Brasilien/!6212651/",
    "q": "taz",
    "d": "2026-09-13T08:48:00+00:00"
-  },
-  {
-   "t": "Bilger drängt auf Wiedereinführung der Familienreservierung bei der Bahn",
-   "s": "Wenn Familien bei der Bahn zusammen Sitzplätze reservieren, dann ist das seit Juni 2025 teurer. Verkehrsminister Bilger drängt nun auf die Wiedereinführung der Familienreservierung.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/bilger-bahn-familienreservierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T07:52:19+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Irankrieg +++: Sorgen um die Ölversorgung",
-   "s": "Nach der Schließung einer saudischen Ölpipeline wachsen die Sorgen um die Energieversorgung. Die Huthis haben ihre Angriffe auf Saudi-Arabien verstärkt.",
-   "u": "https://taz.de/-Nachrichten-im-Irankrieg-/!6212705/",
-   "q": "taz",
-   "d": "2026-09-13T07:08:00+00:00"
   }
  ]
 }

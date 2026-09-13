@@ -1,6 +1,6 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-13T18:12:54+00:00",
+ "updated": "2026-09-13T23:10:51+00:00",
  "items": [
   {
    "t": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
@@ -50,13 +50,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/gas-speicher-preise-102.html",
    "q": "Tagesschau",
    "d": "2026-09-12T13:20:55+00:00"
-  },
-  {
-   "t": "Kartenzahlungspflicht - Schützt lieber das Bargeld",
-   "s": "Geschäfte sollen nach Plänen von Finanzminister Lars Klingbeil künftig mindestens eine digitale Bezahlmöglichkeit anbieten müssen. Eine unnötige Vorschrift. Wichtiger wäre es, die Annahme von Bargeld verpflichtend zu machen.Ein Kommentar von Manfred Kloiber",
-   "u": "https://www.deutschlandfunk.de/kartenzahlung-bargeld-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-12T07:18:00+00:00"
   },
   {
    "t": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
@@ -169,6 +162,13 @@
    "u": "https://www.tagesschau.de/wirtschaft/digitales/faltbare-smartphones-handys-100.html",
    "q": "Tagesschau",
    "d": "2026-09-10T08:27:47+00:00"
+  },
+  {
+   "t": "Teures Heizöl - warten oder kaufen?",
+   "s": "Der Ölpreis ist hoch, die Heizsaison beginnt schon bald. Viele Verbraucher sind verunsichert. Lohnt es sich jetzt, Heizöl zu bestellen? Oder soll man auf sinkende Preise warten? Von Felix Mannheim und Jörg Marksteiner.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/oelpreise-heizen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-10T06:33:33+00:00"
   }
  ]
 }
