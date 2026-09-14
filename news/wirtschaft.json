@@ -1,7 +1,28 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-14T15:53:41+00:00",
+ "updated": "2026-09-14T23:52:40+00:00",
  "items": [
+  {
+   "t": "Klingbeil stellt Bedingungen für Commerzbank-Übernahme",
+   "s": "Die Übernahme der Commerzbank durch die italienische UniCredit ist kaum noch abzuwenden - trotz aller bisherigen Widerstände, auch aus der Bundesregierung. Nun versucht Finanzminister Klingbeil, rote Linien zu ziehen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/klingbeil-bedingungen-unicredit-commerzbank-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T18:32:08+00:00"
+  },
+  {
+   "t": "Was steckt hinter der Debatte über eine KI-Bremse?",
+   "s": "Nach bedrohlichen Zwischenfällen im Zusammenhang mit KI-Modellen ist eine globale Debatte über schärfere Regeln für die Technologie entbrannt. Vorne mit dabei: ausgerechnet die führenden Entwickler OpenAI und Anthropic.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/diskussion-ki-regulierung-faq-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T18:20:40+00:00"
+  },
+  {
+   "t": "Marktbericht: KI- und Zinssorgen bremsen DAX",
+   "s": "Ein ganzer Mix ungünstiger Nachrichten hat den Start in die neue Woche belastet. Der DAX konnte seine Verluste allerdings im Verlauf eingrenzen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T16:21:36+00:00"
+  },
   {
    "t": "Tankstellenverband erwartet Spritpreise um die drei Euro",
    "s": "Der Schock an den Zapfsäulen ist zurück. Wegen der Eskalation im Nahen Osten steigen die Preise für Kraftstoffe, Heizöl und Gas deutlich. Auch die Politik ist wieder in die Debatte über mögliche Entlastungen eingestiegen.",
@@ -15,13 +36,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/bildungsmonitor-neue-soziale-markwirtschaft-100.html",
    "q": "Tagesschau",
    "d": "2026-09-14T15:21:34+00:00"
-  },
-  {
-   "t": "Bund und UniCredit verhandeln über Commerzbank-Übernahme",
-   "s": "Die UniCredit hat am Finanzmarkt Realitäten geschaffen, und die Politik muss reagieren. Heute wird Bankchef Orcel im Finanzministerium empfangen. Es geht um die geplante Übernahme der Commerzbank.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-commerzbank-unicredit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T12:27:59+00:00"
   },
   {
    "t": "Trump kündigt Ende der Zölle auf irischen Whiskey an",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ezb-zinsen-114.html",
    "q": "Tagesschau",
    "d": "2026-09-10T12:16:55+00:00"
-  },
-  {
-   "t": "Haushaltsentwurf - Eine gigantische Neuverschuldung und viele Fragezeichen",
-   "s": "Der Staat hat viel Geld in die Hand genommen, um die Missstände in Deutschland anzugehen. Dabei bleiben aber viele Fragen offen: Entfacht das Geld nur ein konjunkturelles Strohfeuer? Werden Lücken gestopft, statt in Infrastruktur investiert?Von Jörg Münchenberg",
-   "u": "https://www.deutschlandfunk.de/bundeshaushalt-investitionen-neuverschuldung-klingbeil-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-09T15:40:00+00:00"
-  },
-  {
-   "t": "Klimawandel - Wie Deutschland sein Stromnetz für die Zukunft rüstet",
-   "s": "Die Hitzewellen dieses Sommers haben das deutsche Stromnetz unter Druck gesetzt. Wie lässt sich die Versorgung sichern, wenn Extremwetter häufiger wird und Wind und Sonne die Stromflüsse verändern?",
-   "u": "https://www.deutschlandfunk.de/stromnetz-deutschland-extremwetter-klimawandel-stromversorgung-energiewende-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-09T12:46:00+00:00"
   }
  ]
 }

@@ -1,7 +1,84 @@
 {
  "name": "Inland",
- "updated": "2026-09-14T15:53:39+00:00",
+ "updated": "2026-09-14T23:52:39+00:00",
  "items": [
+  {
+   "t": "Carolin Amlinger über wehrhafte Poltik: „Wir brauchen eine soziale Erneuerung der Demokratie“",
+   "s": "Natürlich müssen wir davon ausgehen, dass die AfD noch aufzuhalten ist, sagt die Soziologin Carolin Amlinger. Ein Gespräch über antifaschistische Politik.",
+   "u": "https://taz.de/Carolin-Amlinger-ueber-wehrhafte-Poltik/!6212987/",
+   "q": "taz",
+   "d": "2026-09-14T18:07:00+00:00"
+  },
+  {
+   "t": "Debatte um Kanzlertausch: Ein Schweigen sagt mehr als 1000 Worte",
+   "s": "Wer steht noch hinter dem Kanzler? Es ist nicht leicht, in der CDU jemanden zu finden, der sich äußern will. Merz ruft aus der Ferne zur Ordnung.",
+   "u": "https://taz.de/Debatte-um-Kanzlertausch/!6213132/",
+   "q": "taz",
+   "d": "2026-09-14T18:06:00+00:00"
+  },
+  {
+   "t": "Kontroverse um Doku „Naza“: Die Sache mit der Staatsbürgerschaft",
+   "s": "Israelische Minister wollen Yuval Abraham für dessen Doku „Naza“ ausbürgern. Beim repressiven Umgang mit der Staatsbürgerschaft war gerade Deutschland Vorreiter.",
+   "u": "https://taz.de/Kontroverse-um-Doku-Naza/!6212982/",
+   "q": "taz",
+   "d": "2026-09-14T18:03:00+00:00"
+  },
+  {
+   "t": "Korruption in der Ukraine: Nach Diktat ganz plötzlich verreist",
+   "s": "Der ukrainische Generalstaatsanwalt Krawtschenko tritt eine Dienstreise ins Ausland an. Am Dienstag soll das Parlament über seine Entlassung abstimmen.",
+   "u": "https://taz.de/Korruption-in-der-Ukraine/!6213032/",
+   "q": "taz",
+   "d": "2026-09-14T18:03:00+00:00"
+  },
+  {
+   "t": "Wahlen in japanischer Präfektur: Wirtschaft statt Pazifismus",
+   "s": "Zweimal gewann Denny Tamaki in Okinawa mit einer Anti-Militär-Politik. Doch junge Japaner auf dem Archipel haben inzwischen andere Prioritäten.",
+   "u": "https://taz.de/Wahlen-in-japanischer-Praefektur/!6213043/",
+   "q": "taz",
+   "d": "2026-09-14T18:02:00+00:00"
+  },
+  {
+   "t": "Parlamentswahl in Schweden: Junge Schweden stoppen Populisten",
+   "s": "Der Wahlausgang in Schweden ist überraschend: Die Schwedendemokraten verlieren leicht, aber ein klarer Linksruck war es auch nicht. Immerhin.",
+   "u": "https://taz.de/Parlamentswahl-in-Schweden/!6208192/",
+   "q": "taz",
+   "d": "2026-09-14T18:01:00+00:00"
+  },
+  {
+   "t": "Parlamentswahl in Schweden: Knappe Kiste, Ausgang ungewiss",
+   "s": "Schwedens rot-grüne Opposition liegt nach der Parlamentswahl voraussichtlich vorne. Doch ob daraus eine neue Regierung wird, ist völlig offen.",
+   "u": "https://taz.de/Parlamentswahl-in-Schweden/!6213042/",
+   "q": "taz",
+   "d": "2026-09-14T18:00:00+00:00"
+  },
+  {
+   "t": "Themen statt Köpfe - Im Berliner Wahlkampf zählen die Inhalte",
+   "s": "Bei der Wahl des Berliner Abgeordnetenhauses bestimmen Themen wie Wohnen, Sicherheit und Müllprobleme die Debatten, nicht einzelne Personen. Auch deshalb ist der Wahlkampf in der Hauptstadt anders als die anderen Landtagswahlkämpfe in diesem Herbst.van Laak, Claudia",
+   "u": "https://www.deutschlandfunk.de/themen-statt-koepfe-im-berliner-wahlkampf-zaehlen-die-inhalte-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-14T16:40:00+00:00"
+  },
+  {
+   "t": "AfD verpasst Streamer Maulkorb: Warum das Pöbelverbot für „Aktivist Mann“ fadenscheinig ist",
+   "s": "Die AfD-Spitze hat einem rechtsextremen Streamer verboten, Jour­na­lis­t*in­nen bei AfD-Veranstaltungen zu belästigen. Eine taktische Distanzierung.",
+   "u": "https://taz.de/AfD-verpasst-Streamer-Maulkorb/!6213200/",
+   "q": "taz",
+   "d": "2026-09-14T16:26:00+00:00"
+  },
+  {
+   "t": "Israelische Besatzungspolitik: Die fünf Säulen der Übernahme des Westjordanlands",
+   "s": "Die Organisation B’tselem beschuldigt Israel, Pa­läs­ti­nen­se­r:in­nen das Leben in dem besetzten Gebiet unmöglich zu machen. Das sei ein „politisches Projekt“.",
+   "u": "https://taz.de/Israelische-Besatzungspolitik/!6213030/",
+   "q": "taz",
+   "d": "2026-09-14T15:51:00+00:00"
+  },
+  {
+   "t": "Kolumbien liberalisiert Waffenrecht: Der bewaffnete „Gute“ und die Sorge vor mehr Selbstjustiz",
+   "s": "Der ultrarechte Präsident Kolumbiens de la Espriella lockert das Waffenrecht. Die Rechte im Parlament feiert, die Opposition kündigt Klagen an.",
+   "u": "https://taz.de/Kolumbien-verschaerft-Waffenrecht/!6212841/",
+   "q": "taz",
+   "d": "2026-09-14T15:50:00+00:00"
+  },
   {
    "t": "Repressionen im Iran: Auf der Welle des Krieges reiten",
    "s": "Im Konflikt zwischen Iran und den USA gibt es weiter keine Lösung – das iranische Regime geht derweil repressiver gegen Re­gime­kri­ti­ke­r:in­nen vor.",
@@ -59,6 +136,13 @@
    "d": "2026-09-14T12:51:10+00:00"
   },
   {
+   "t": "Arktis-Strategie der EU - Europas neuer Blick auf die Polarregion",
+   "s": "Neue Schifffahrtsrouten, Bodenschätze und Sicherheitspolitik: Unweit des Polarkreises berät Bundeskanzler Friedrich Merz (CDU) mit EU-Partnern über eine neue europäische Arktis-Strategie. Es gilt, die eigenen Interessen zu verteidigen.",
+   "u": "https://www.deutschlandfunk.de/arktis-strategie-eu-sicherheit-rohstoffe-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-14T12:18:00+00:00"
+  },
+  {
    "t": "Geheimdienstreform: „Wirkungsvoller als die Kontrolle eines Gerichts“",
    "s": "Die Bundesregierung schwäche die Kontrolle der deutschen Geheimdienste, sagen Kritiker. Josef Hoch ist Präsident des Unabhängigen Kontrollrats und widerspricht.",
    "u": "https://taz.de/Geheimdienstreform/!6212502/",
@@ -85,90 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-evers-100.html",
    "q": "Tagesschau",
    "d": "2026-09-14T10:22:07+00:00"
-  },
-  {
-   "t": "BSW in Mecklenburg-Vorpommern: Wagenknecht-Partei versucht es mal ohne Haudrauf",
-   "s": "Die Spit­zen­kan­di­da­t:in­nen des BSW in Mecklenburg-Vorpommern sind erstaunlich unaufgeregt. Wagenknechts Kriegslieder können sie trotzdem auswendig.",
-   "u": "https://taz.de/BSW-in-Mecklenburg-Vorpommern/!6212055/",
-   "q": "taz",
-   "d": "2026-09-14T10:12:00+00:00"
-  },
-  {
-   "t": "Schwierige Regierungsbildung nach der Wahl in Schweden",
-   "s": "Die rechtspopulistischen Schwedendemokraten sind die Verlierer der Wahl, sagt der Politologe Tobias Etzold. Die Regierungsbildung dürfte kompliziert werden und voraussichtlich lange dauern.Bartram, Arne; Etzold, Tobias; Kaess, Christiane",
-   "u": "https://www.deutschlandfunk.de/wahl-in-schweden-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-14T10:10:00+00:00"
-  },
-  {
-   "t": "Wahlkrimi in Schweden: Knappes Rennen, Schwedendemokraten verlieren",
-   "s": "Schweden hat am Sonntag gewählt, doch noch sind nicht alle Stimmen ausgezählt. Schon jetzt steht jedoch fest, dass die Regierungsbildung sehr schwierig werden wird.",
-   "u": "https://taz.de/Wahlkrimi-in-Schweden/!6212829/",
-   "q": "taz",
-   "d": "2026-09-14T09:05:00+00:00"
-  },
-  {
-   "t": "PISA-Absturz: Wie kann der Bildungsnotstand überwunden werden?",
-   "s": "Deutschland steht beim PISA-Test so schlecht da wie noch nie. 2022 lagen die Leistungen noch leicht über dem Durchschnitt der OECD-Staaten, inzwischen ist Deutschland mittelmäßig. Die Gründe dafür sind vielfältig. Was tun für eine bessere Bildung?Heinemann, Christoph",
-   "u": "https://www.deutschlandfunk.de/kontrovers-pisa-absturz-wie-kann-der-bildungsnotstand-in-d-ueberwunden-werden-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-14T08:08:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Irankrieg +++: Gespräche in Oman verschoben",
-   "s": "Das Außenministertreffen am Persischen Golf findet vorerst nicht statt. Der Ölpreis steigt weiter. Der iranische Atomchef kommt nicht zur IAEA-Tagung.",
-   "u": "https://taz.de/-Nachrichten-im-Irankrieg-/!6212949/",
-   "q": "taz",
-   "d": "2026-09-14T07:52:00+00:00"
-  },
-  {
-   "t": "Landtagsneubau in Sachsen: Protzbauten am Elbufer",
-   "s": "Der Sächsische Landtag startet für 450 Millionen Euro den Um- und Neubau seiner Gebäude. „Gigantisch“ sei das in Zeiten des Spardiktats, sagt der Steuerbund.",
-   "u": "https://taz.de/Landtagsneubau-in-Sachsen/!6212883/",
-   "q": "taz",
-   "d": "2026-09-14T07:49:00+00:00"
-  },
-  {
-   "t": "Middelberg: \"Ich glaube noch an Friedrich Merz\"",
-   "s": "Bundeskanzler Friedrich Merz verliert Verbündete. Mathias Middelberg (CDU) hält zu ihm. Statt über Personalien zu reden, müsse man Reformen zügiger umsetzen. Die AfD dürfe man nicht dämonisieren, sondern müsse sich inhaltlich mit ihr beschäftigen.May, Philipp",
-   "u": "https://www.deutschlandfunk.de/interview-mit-mathias-middelberg-cdu-vize-fraktionsvors-union-zu-reformkurs-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-14T05:15:20+00:00"
-  },
-  {
-   "t": "Parlamentswahlen in Russland: Das Schweigen vor der „Wahl“",
-   "s": "Der Sieg der Kremlpartei bei den russischen Duma-Wahlen kommende Woche steht fest. Dennoch werden alternative Kan­di­da­t:in­nen kaltgestellt.",
-   "u": "https://taz.de/Parlamentswahlen-in-Russland/!6208078/",
-   "q": "taz",
-   "d": "2026-09-14T05:13:00+00:00"
-  },
-  {
-   "t": "Habeck: \"EU sollte ihre strategischen Interessen in der Arktis sichern\"",
-   "s": "Beim Arktis-Gipfel in Lappland will die Europäische Union eine sicherheitspolitische Strategie entwickeln. Die EU komme zwar zehn Jahre zu spät, sagt Robert Habeck (Grüne), mache aber vieles richtig. Eine besondere Rolle komme Deutschland zu.May, Philipp",
-   "u": "https://www.deutschlandfunk.de/interview-mit-robert-habeck-copenhagen-business-school-geopolitik-zu-arktis-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-14T04:50:10+00:00"
-  },
-  {
-   "t": "Linke legt Fünf-Punkte-Plan für Berlin vor",
-   "s": "Die Linken-Politikerin Eralp könnte Regierende Bürgermeisterin in Berlin werden. Nun legt sie für diesen Fall einen Fünf-Punkte-Plan vor: Er sieht etwa eine \"Taskforce Mietwucher\" und einen kostenlosen Sperrmülltag vor. Von A. Budweg.",
-   "u": "https://www.tagesschau.de/inland/linkspartei-berlin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T04:00:51+00:00"
-  },
-  {
-   "t": "Nach Sachsen-Anhalt: Ist die Brandmauer jetzt Geschichte?",
-   "s": "Nach der Wahl in Sachsen-Anhalt wird über die Brandmauer zur AfD diskutiert. Der strikte Abgrenzungskurs sollte die AfD von der Macht fernhalten. Dieses Ziel könnte sie nun verfehlen. Ist die Brandmauer jetzt Geschichte? Von Jürgen P. Lang.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-brandmauer-afd-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T02:06:44+00:00"
-  },
-  {
-   "t": "CDU-Influencerin von Nathusius übt scharfe Kritik an Kanzler Merz",
-   "s": "In der CDU wächst die Kritik an Kanzler Merz: Clara von Nathusius, im Vorstand der Jungen Union, hält seine Tage im Amt für gezählt. Die CDU müsse sich nun entscheiden, wofür sie stehe, sagt sie im Bericht aus Berlin. Die Brandmauer hält sie für gescheitert.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/debatte-merz-nathusius-union-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T18:44:54+00:00"
   }
  ]
 }

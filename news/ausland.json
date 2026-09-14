@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-09-14T15:53:39+00:00",
+ "updated": "2026-09-14T23:52:39+00:00",
  "items": [
+  {
+   "t": "Israel: Aufgeladene Debatte über Gaza-Doku \"Naza\"",
+   "s": "Die Doku \"Naza\" über den israelischen Gaza-Einsatz ist bei den Filmfestspielen in Venedig mit Standing Ovations bedacht worden. In Israel dagegen sind die Filmemacher massiver Kritik und einer Drohung des Kulturministers ausgesetzt. Von B. Meier.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-dokumentarfilm-naza-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T23:34:17+00:00"
+  },
+  {
+   "t": "Schock und Trotz nach Razzien gegen LGBTQ-Vereine in der Türkei",
+   "s": "In der Türkei wurden am Wochenende zahlreiche Aktivisten und Aktivistinnen für LGBTQ-Rechte festgenommen. NGOs und Zivilgesellschaft verurteilen die Razzien - es sei das bisher größte Vorgehen gegen die Community. Von B. Weber.",
+   "u": "https://www.tagesschau.de/ausland/tuerkei-razzien-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T18:38:34+00:00"
+  },
+  {
+   "t": "Arktis-Gipfel: Die EU richtet ihren Blick Richtung Norden",
+   "s": "Mit dem Klimawandel verändert sich die Bedeutung der Arktis - wirtschaftlich und sicherheitspolitisch. Darauf will die EU reagieren. Ein Gipfel in Finnland sollte den Anfang machen. Von A. Meyer-Feist.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-arktis-gipfel-abschluss-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T16:28:06+00:00"
+  },
+  {
+   "t": "Pistorius will Soldaten zum Dienst in Litauen auch verpflichten",
+   "s": "Verteidigungsminister Pistorius hatte bei der Litauen-Brigade erst auf Freiwilligkeit gesetzt - doch Hunderte Spezialisten fehlen noch. Nun sollen Soldaten auch zum Dienst in der Brigade verpflichtet werden.",
+   "u": "https://www.tagesschau.de/ausland/europa/litauen-brigade-verpflichtung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T16:20:32+00:00"
+  },
   {
    "t": "Israelische NGO kritisiert Israels Politik im Westjordanland",
    "s": "Die israelische Menschenrechtsorganisation B'Tselem erhebt schwere Vorwürfe gegen Israels Politik im Westjordanland: Die Maßnahmen seien Teil einer systematischen Strategie zur Zerstörung der palästinensischen Lebensgrundlagen. Von J. Segador.",
@@ -136,39 +164,11 @@
    "d": "2026-09-12T17:31:20+00:00"
   },
   {
-   "t": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
-   "s": "Sabotage, Drohungen, Drohnen-Vorfälle: Wegen der wachsenden Gefahr durch hybride Angriffe rücken die europäischen Partner zusammen und versuchen, Härte zu zeigen. Kritiker vermissen jedoch ein gesamteuropäisches Konzept. Von Olga Chladkova.",
-   "u": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T16:59:53+00:00"
-  },
-  {
-   "t": "Zug entgleist in Frankreich: Ermittler gehen Sabotage-Verdacht nach",
-   "s": "In Nordfrankreich entgleist ein Zug, mehr als 40 Menschen werden verletzt. Die Staatsanwaltschaft prüft nun, ob es sich um Sabotage handelt. Denn Ermittler fanden ein Schienenteil auf der Strecke.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-zug-entgleist-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T14:57:44+00:00"
-  },
-  {
    "t": "China fordert auf BRICS-Treffen in Neu-Delhi mehr Einsatz für Frieden",
    "s": "Auf dem Treffen der BRICS-Länder in Neu-Delhi hat Chinas Präsident Xi mehr Einsatz der Schwellenländer für Frieden im Nahen Osten gefordert. Man müsse \"auf der richtigen Seite der Geschichte\" stehen, sagte er.",
    "u": "https://www.tagesschau.de/ausland/brics-treffen-neu-delhi-china-100.html",
    "q": "Tagesschau",
    "d": "2026-09-12T13:07:48+00:00"
-  },
-  {
-   "t": "Brasilien: Bolsonaros Sohn greift nach der Macht",
-   "s": "Der Sohn von Jair Bolsonaro will Brasiliens nächster Präsident werden - und setzt dabei auf einen aggressiven Ton. Rückhalt bekommt er von vielen Brasilianern, die die Verurteilung seines Vaters für ungerecht halten. Von Anne Herrberg.",
-   "u": "https://www.tagesschau.de/ausland/brasilien-bolsonaro-sohn-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T10:20:15+00:00"
-  },
-  {
-   "t": "Alaska: 15-Jähriger nach Tagen auf gekentertem Boot gerettet",
-   "s": "Ein Teenager hat sich in der kalten Beringsee vor Alaska zwei Tage lang auf einem gekenterten Boot über Wasser gehalten. Er wurde schließlich von einem Fischerkutter gerettet - zwei seiner Begleiter starben jedoch.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-alaska-junge-rettung-boot-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T10:04:22+00:00"
   }
  ]
 }

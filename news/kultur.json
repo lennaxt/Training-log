@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-14T15:53:45+00:00",
+ "updated": "2026-09-14T23:52:43+00:00",
  "items": [
+  {
+   "t": "Kolumbien liberalisiert Waffenrecht: Der bewaffnete „Gute“ und die Sorge vor mehr Selbstjustiz",
+   "s": "Der ultrarechte Präsident Kolumbiens de la Espriella lockert das Waffenrecht. Die Rechte im Parlament feiert, die Opposition kündigt Klagen an.",
+   "u": "https://taz.de/Kolumbien-verschaerft-Waffenrecht/!6212841/",
+   "q": "taz",
+   "d": "2026-09-14T15:50:00+00:00"
+  },
   {
    "t": "Hitze in Kolumbien: Feuer, Erdbeben und kaum staatliche Hilfe in Kolumbien",
    "s": "Das schwere Erdbeben im August hat andere Lagen fast verdrängt: die Waldbrände. Dank „Superniño“ ist es extrem heiß und trocken.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Deal-zwischen-USA-und-Venezuela/!6208461/",
    "q": "taz",
    "d": "2026-08-29T07:46:00+00:00"
-  },
-  {
-   "t": "Angriff der USA auf die Meinungsfreiheit: Trump-Regierung weitet ihren Angriff auf Europas Linke aus",
-   "s": "Die USA stufen den Anbieter eines Blogdienstes aus Italien als „internationale Terrororganisation“ ein. Auch weitere Gruppen sind betroffen.",
-   "u": "https://taz.de/Angriff-der-USA-auf-die-Meinungsfreiheit/!6207977/",
-   "q": "taz",
-   "d": "2026-08-28T14:31:00+00:00"
   }
  ]
 }

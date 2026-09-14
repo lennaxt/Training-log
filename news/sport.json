@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-14T15:53:46+00:00",
+ "updated": "2026-09-14T23:52:44+00:00",
  "items": [
+  {
+   "t": "Wahlen in japanischer Präfektur: Wirtschaft statt Pazifismus",
+   "s": "Zweimal gewann Denny Tamaki in Okinawa mit einer Anti-Militär-Politik. Doch junge Japaner auf dem Archipel haben inzwischen andere Prioritäten.",
+   "u": "https://taz.de/Wahlen-in-japanischer-Praefektur/!6213043/",
+   "q": "taz",
+   "d": "2026-09-14T18:02:00+00:00"
+  },
   {
    "t": "Brics-Gipfel: Indien nimmt Brics die potenzielle Schärfe",
    "s": "In Delhi demonstrieren die Brics-Staaten Einigkeit trotz Irankrieg und gegensätzlicher Interessen. Sie wollen dem Globalen Süden mehr Gewicht geben.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/9-Jahrestag-der-Massenvertreibung/!6207243/",
    "q": "taz",
    "d": "2026-08-26T09:08:00+00:00"
-  },
-  {
-   "t": "Reaktionen auf Manöverabsage: Donald Trumps unberechenbarer Koreakurs",
-   "s": "Die Außenpolitik des US-Präsidenten lässt Verbündete in Asien an der Zuverlässigkeit der USA zweifeln. Für China ist das ein unverhofftes Geschenk.",
-   "u": "https://taz.de/Reaktionen-auf-Manoeverabsage/!6207014/",
-   "q": "taz",
-   "d": "2026-08-25T14:39:00+00:00"
   }
  ]
 }
