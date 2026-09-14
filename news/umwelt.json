@@ -1,7 +1,49 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-14T08:57:02+00:00",
+ "updated": "2026-09-14T15:53:43+00:00",
  "items": [
+  {
+   "t": "AfD-Erfolge in Niedersachsen: Salzgitter wird braun",
+   "s": "Die AfD hat bei der Kommunalwahl in Niedersachsen stark zugelegt. Die Wahl zeigt aber auch noch was anderes: die Grenzen ihres Aufstiegs.",
+   "u": "https://taz.de/AfD-Erfolge-in-Niedersachsen/!6212968/",
+   "q": "taz",
+   "d": "2026-09-14T14:49:00+00:00"
+  },
+  {
+   "t": "Vor Wahl in Mecklenburg-Vorpommern: Wo die anderen Urlaub machen",
+   "s": "Wirtschaftlich hängt in Mecklenburg-Vorpommern viel am Tourismus. Am Laufen gehalten wird er von Arbeitskräften aus dem Ausland.",
+   "u": "https://taz.de/Vor-Wahl-in-Mecklenburg-Vorpommern/!6208090/",
+   "q": "taz",
+   "d": "2026-09-14T14:09:00+00:00"
+  },
+  {
+   "t": "Geheimdienstreform: „Wirkungsvoller als die Kontrolle eines Gerichts“",
+   "s": "Die Bundesregierung schwäche die Kontrolle der deutschen Geheimdienste, sagen Kritiker. Josef Hoch ist Präsident des Unabhängigen Kontrollrats und widerspricht.",
+   "u": "https://taz.de/Geheimdienstreform/!6212502/",
+   "q": "taz",
+   "d": "2026-09-14T12:08:00+00:00"
+  },
+  {
+   "t": "Kontrollen an deutschen Landesgrenzen: Rechtswidrig, aber Dobrindt macht trotzdem weiter",
+   "s": "Alle Gerichtsurteile zu den Kontrollen an den deutschen Landesgrenzen werten die derzeitige Praxis als rechtswidrig. Das musste das Innenministerium jetzt eingestehen.",
+   "u": "https://taz.de/Kontrollen-an-deutschen-Landesgrenzen/!6212988/",
+   "q": "taz",
+   "d": "2026-09-14T12:03:00+00:00"
+  },
+  {
+   "t": "Kommunalwahl in Niedersachsen: Grüne bleiben stabil",
+   "s": "Bei der Kommunalwahl in Niedersachsen haben die Grünen respek­ta­bel abgeschnitten. Und das nicht nur in den Ballungsräumen, auch in der Fläche.",
+   "u": "https://taz.de/Kommunalwahl-in-Niedersachsen/!6212969/",
+   "q": "taz",
+   "d": "2026-09-14T11:07:00+00:00"
+  },
+  {
+   "t": "BSW in Mecklenburg-Vorpommern: Wagenknecht-Partei versucht es mal ohne Haudrauf",
+   "s": "Die Spit­zen­kan­di­da­t:in­nen des BSW in Mecklenburg-Vorpommern sind erstaunlich unaufgeregt. Wagenknechts Kriegslieder können sie trotzdem auswendig.",
+   "u": "https://taz.de/BSW-in-Mecklenburg-Vorpommern/!6212055/",
+   "q": "taz",
+   "d": "2026-09-14T10:12:00+00:00"
+  },
   {
    "t": "Landtagsneubau in Sachsen: Protzbauten am Elbufer",
    "s": "Der Sächsische Landtag startet für 450 Millionen Euro den Um- und Neubau seiner Gebäude. „Gigantisch“ sei das in Zeiten des Spardiktats, sagt der Steuerbund.",
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Mutmasslicher-Stromnetz-Saboteur/!6212500/",
    "q": "taz",
    "d": "2026-09-11T14:10:00+00:00"
-  },
-  {
-   "t": "Abschiebepolitik der AfD: Rüstung für die „Remigration“",
-   "s": "Sachsen-Anhalts AfD-Wahlsieger Ulrich Siegmund verbindet die Rüstungsproduktion mit einer künftigen Abschiebeoffensive. Der potenzielle Partner BSW reagiert empört.",
-   "u": "https://taz.de/Abschiebepolitik-der-AfD/!6212509/",
-   "q": "taz",
-   "d": "2026-09-11T12:08:00+00:00"
-  },
-  {
-   "t": "Landtagswahl in Mecklenburg-Vorpommern: AfD weiter vor SPD",
-   "s": "Die AfD liegt in Mecklenburg-Vorpommern in den Umfragen zur Landtagswahl vorn. Trotzdem könnte Manuela Schwesig Ministerpräsidentin bleiben.",
-   "u": "https://taz.de/Landtagswahl-in-Mecklenburg-Vorpommern/!6212491/",
-   "q": "taz",
-   "d": "2026-09-11T07:50:00+00:00"
-  },
-  {
-   "t": "Aktion vor der Landtagswahl in MV: Mit Schokolade, Vanille und bunten Streuseln",
-   "s": "Im Softeisbus touren Wibke Seifarth und ihre Mitstreiterinnen vor der Landtagswahl durch Vorpommern. Sie wollen Begegnungsräume schaffen.",
-   "u": "https://taz.de/Aktion-vor-der-Landtagswahl-in-MV/!6205188/",
-   "q": "taz",
-   "d": "2026-09-11T05:40:00+00:00"
-  },
-  {
-   "t": "2001 ff.: Der permanente Ernstfall",
-   "s": "Die Sicherheitsgesetze, die nach den Anschlägen vom 11. September kamen, haben den Fokus auf Prävention verschoben. Sie gelten bis heute.",
-   "u": "https://taz.de/2001-ff/!6206477/",
-   "q": "taz",
-   "d": "2026-09-11T05:30:00+00:00"
-  },
-  {
-   "t": "Gespräche zwischen BSW und AfD: Schmerzgrenze gesucht",
-   "s": "Das Bündnis Sahra Wagenknecht und die AfD haben viele Schnittmengen. Das erleichtert die Zusammenarbeit. Interessanter ist die Frage, was sie trennt.",
-   "u": "https://taz.de/Gespraeche-zwischen-BSW-und-AfD/!6212273/",
-   "q": "taz",
-   "d": "2026-09-10T17:53:00+00:00"
-  },
-  {
-   "t": "Scheich-Besuch in Deutschland: Was zählen schon Menschenrechte?",
-   "s": "Der Scheich der Vereinigten Arabischen Emirate wird beim Deutschlandbesuch hofiert. Dabei beliefern die Emirate viele Kriegsparteien mit Waffen.",
-   "u": "https://taz.de/Scheich-Besuch-in-Deutschland/!6212225/",
-   "q": "taz",
-   "d": "2026-09-10T16:05:00+00:00"
   }
  ]
 }

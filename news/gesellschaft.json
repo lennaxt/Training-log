@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-14T08:57:03+00:00",
+ "updated": "2026-09-14T15:53:44+00:00",
  "items": [
+  {
+   "t": "Präsidentschaftswahl in Frankreich: Le Pen startet durch, aber einer schmollt",
+   "s": "In Frankreich startet die Rechtspopulistin Marine Le Pen den Wahlkampf. Die Stimmung in ihrer Partei ist ungetrübt – zumindest fast.",
+   "u": "https://taz.de/Praesidentschaftswahl-in-Frankreich/!6213031/",
+   "q": "taz",
+   "d": "2026-09-14T15:15:00+00:00"
+  },
+  {
+   "t": "Nordirland, Schottland und Wales: Ach wie schön wäre die Unabhängigkeit",
+   "s": "Die Parteichefs der Unabhängigkeitsparteien von Wales, Schottland und Nordirland sagen London den Kampf an. Premier Andy Burnham reagiert verhalten.",
+   "u": "https://taz.de/Nordirland-Schottland-und-Wales/!6213034/",
+   "q": "taz",
+   "d": "2026-09-14T14:47:00+00:00"
+  },
+  {
+   "t": "Wahlkrimi in Schweden: Knappes Rennen, Schwedendemokraten verlieren",
+   "s": "Schweden hat am Sonntag gewählt, doch noch sind nicht alle Stimmen ausgezählt. Schon jetzt steht jedoch fest, dass die Regierungsbildung sehr schwierig werden wird.",
+   "u": "https://taz.de/Wahlkrimi-in-Schweden/!6212829/",
+   "q": "taz",
+   "d": "2026-09-14T09:05:00+00:00"
+  },
   {
    "t": "Parlamentswahlen in Russland: Das Schweigen vor der „Wahl“",
    "s": "Der Sieg der Kremlpartei bei den russischen Duma-Wahlen kommende Woche steht fest. Dennoch werden alternative Kan­di­da­t:in­nen kaltgestellt.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Schweden-vor-der-Parlamentswahl/!6211690/",
    "q": "taz",
    "d": "2026-09-10T05:26:00+00:00"
-  },
-  {
-   "t": "Korruption in der Ukraine: Teurer Schmuck und viel Bargeld",
-   "s": "Der Generalstaatsanwalt und sein Vize treten zurück. Ein hochrangiger Vertreter der Behörde und seine Lebensgefährtin werden festgenommen.",
-   "u": "https://taz.de/Korruption-in-der-Ukraine/!6211984/",
-   "q": "taz",
-   "d": "2026-09-09T16:05:00+00:00"
-  },
-  {
-   "t": "G8-Gipfel in Genua: „Da ist ein roter Faden“",
-   "s": "Vittorio Agnoletto war Sprecher der G8-Proteste 2001, bei denen Carlo Giuliani von der Polizei erschossen wurde. Ein Gespräch über das, was blieb.",
-   "u": "https://taz.de/G8-Gipfel-in-Genua/!6208882/",
-   "q": "taz",
-   "d": "2026-09-09T15:58:00+00:00"
-  },
-  {
-   "t": "Geflüchtete in Ceuta: Uringestank, Menschen als Handelsware und Verzweiflung",
-   "s": "In Ceuta entlädt sich die Wut auf Spanien. Etliche gestrandete Geflüchtete leben dort von Brot, Bananen und Wasser. Und wissen nicht, wie es weitergeht.",
-   "u": "https://taz.de/Gefluechtete-in-Ceuta/!6211994/",
-   "q": "taz",
-   "d": "2026-09-09T13:30:00+00:00"
   }
  ]
 }

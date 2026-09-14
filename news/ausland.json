@@ -1,7 +1,42 @@
 {
  "name": "Ausland",
- "updated": "2026-09-14T08:57:00+00:00",
+ "updated": "2026-09-14T15:53:39+00:00",
  "items": [
+  {
+   "t": "Israelische NGO kritisiert Israels Politik im Westjordanland",
+   "s": "Die israelische Menschenrechtsorganisation B'Tselem erhebt schwere Vorwürfe gegen Israels Politik im Westjordanland: Die Maßnahmen seien Teil einer systematischen Strategie zur Zerstörung der palästinensischen Lebensgrundlagen. Von J. Segador.",
+   "u": "https://www.tagesschau.de/ausland/asien/westjordanland-ngo-israel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T14:41:53+00:00"
+  },
+  {
+   "t": "Schweden steht nach Parlamentswahl vor schwieriger Regierungsbildung",
+   "s": "Gebannt wartet Schweden auf das Endergebnis der Parlamentswahl. Derzeit liegt die Opposition knapp vor dem Regierungslager. Doch ganz gleich, wer gewinnt: Die Bildung einer handlungsfähigen Regierung dürfte schwierig werden. Von Jana Sinram.",
+   "u": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-112.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T14:12:14+00:00"
+  },
+  {
+   "t": "EU-Staaten wollen Interessen in der Arktis schützen",
+   "s": "Schifffahrtsrouten, Bodenschätze und Sicherheitspolitik: Deutschland und weitere europäische Staaten fordern eine stärkere Rolle der EU in der Arktis - vor allem wegen der Bedrohung aus Moskau.",
+   "u": "https://www.tagesschau.de/ausland/europa/arktis-gipfel-eu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T13:43:23+00:00"
+  },
+  {
+   "t": "Russische Drohnenangriffe - Vor allem Kiew ist im Visier",
+   "s": "Die russischen Luftangriffe auf die Ukraine sind intensiver geworden. Dazu kommt: Die Drohnen sind inzwischen oft schneller und schwieriger abzufangen. Besonders betroffen sind die Anwohner in den Vororten Kiews. Von P. Sawicki.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-134.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T12:11:29+00:00"
+  },
+  {
+   "t": "Golftstaaten: Krisentreffen zur Lage in Straße von Hormus verschoben",
+   "s": "Das für heute geplante Treffen der Golfstaaten zum Konflikt über die Straße von Hormus ist verschoben. Eine Rolle spielten dabei offenbar die erneuten Angriffe der Huthi-Miliz im Jemen auf Saudi-Arabien. Derweil steigen die Öl- und Benzinpreise.",
+   "u": "https://www.tagesschau.de/ausland/asien/krieg-naher-osten-oman-huthi-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T10:10:56+00:00"
+  },
   {
    "t": "Trump gegen Regulierung: \"Wer bei KI gewinnt, gewinnt\"",
    "s": "Mehr staatliche Regulierung für Künstliche Intelligenz - mit dieser Forderung haben Tech-Bosse für Aufsehen gesorgt. Doch US-Präsident Trump hält davon wenig: Für ihn steht der US-Vorsprung bei KI gegenüber China im Vordergrund.",
@@ -95,7 +130,7 @@
   },
   {
    "t": "Droht der nächste Ölpreis-Schock?",
-   "s": "Erst die Straße von Hormus, nun die Meerenge Bab al-Mandab und eine beschädigte Pipeline. Der größte Ölexporteur der Welt, Saudi-Arabien, hat eine Reihe von Problemen. Wie entwickelt sich der Ölpreis? Welche Folgen hat das für Deutschland?",
+   "s": "Erst die Straße von Hormus, nun die Meerenge Bab al-Mandab und eine beschädigte Pipeline. Einer der größten Ölexporteur der Welt, Saudi-Arabien, hat eine Reihe von Problemen. Wie entwickelt sich der Ölpreis? Welche Folgen hat das für Deutschland?",
    "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-oel-exporte-angriffe-100.html",
    "q": "Tagesschau",
    "d": "2026-09-12T17:31:20+00:00"
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-alaska-junge-rettung-boot-100.html",
    "q": "Tagesschau",
    "d": "2026-09-12T10:04:22+00:00"
-  },
-  {
-   "t": "Nach US-Manöver: Nordkorea feuert erneut ballistische Raketen ab",
-   "s": "US-Präsident Trump spricht von guten Beziehungen zu Nordkoreas Machthaber Kim. Doch unmittelbar nach Ende eines Manövers der USA mit Südkorea reagiert der Norden mit Raketen.",
-   "u": "https://www.tagesschau.de/ausland/asien/nordkorea-raketen-160.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T07:28:44+00:00"
-  },
-  {
-   "t": "Saudi-Arabien schaltet nach Drohnenangriffen wichtige Öl-Pipeline ab",
-   "s": "Es ist eine Vorsichtsmaßnahme, die die Öl- und Benzinpreise weiter steigen lassen könnte: Nach den Drohnenangriffen aus dem Irak hat Saudi-Arabien seine Ost-West-Pipeline abgestellt. Exporte werden dadurch weiter reduziert.",
-   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-stellt-betrieb-von-oelpipeline-ein-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T07:07:30+00:00"
-  },
-  {
-   "t": "BRICS-Gipfel im Zeichen globaler Ungewissheiten",
-   "s": "Putin, Xi, Modi: Beim BRICS-Gipfel in Neu-Delhi treffen selbstbewusste Staatenlenker aufeinander. Bei vielen Themen liegen sie weit auseinander. Was kann das Treffen bei den globalen Krisen - von Ukraine bis Iran - bewirken? Von Lena Bodewein.",
-   "u": "https://www.tagesschau.de/ausland/asien/brics-gipfel-indien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T05:18:36+00:00"
-  },
-  {
-   "t": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
-   "s": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden verletzt, darunter eine Person schwer. An Bord des Regionalzuges waren rund 180 Passagiere. Die Unfallursache ist noch unklar.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T03:41:39+00:00"
-  },
-  {
-   "t": "Seenotretter in England als Ziel rechter Anfeindung",
-   "s": "Gegen die Ankunft von Flüchtlingen über den Ärmelkanal haben in England Hunderte protestiert. Nun wurde bekannt, dass sie Seenotretter angefeindet haben. Experten sehen eine neue Form rechter Mobilisierung. Von Franziska Hoppen.",
-   "u": "https://www.tagesschau.de/ausland/europa/uk-anfeindungen-seenotretter-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T18:45:23+00:00"
   }
  ]
 }
