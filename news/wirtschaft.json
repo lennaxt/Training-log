@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-13T23:10:51+00:00",
+ "updated": "2026-09-14T08:57:01+00:00",
  "items": [
+  {
+   "t": "Marktbericht: Anleger fürchten straffere Geldpolitik",
+   "s": "Zum Wochenstart drücken höhere Ölpreise und die Aussicht auf steigende Zinsen auf die Stimmung der Anleger. Die Notenbanken von England, Japan und den USA werden in dieser Woche ihre Entscheidung verkünden.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T08:50:05+00:00"
+  },
+  {
+   "t": "Trump gegen Regulierung: \"Wer bei KI gewinnt, gewinnt\"",
+   "s": "Mehr staatliche Regulierung für Künstliche Intelligenz - mit dieser Forderung haben Tech-Bosse für Aufsehen gesorgt. Doch US-Präsident Trump hält davon wenig: Für ihn steht der US-Vorsprung bei KI gegenüber China im Vordergrund.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-ai-kritik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T08:43:06+00:00"
+  },
+  {
+   "t": "Sind die Spritpreise noch zu bremsen?",
+   "s": "Der Schock an den Zapfsäulen ist zurück. Wegen der Eskalation im Nahen Osten werden Benzin und Diesel immer teurer - am Wochenende gab es ein neues Allzeithoch. Auch die Preise für Heizöl steigen deutlich.",
+   "u": "https://www.tagesschau.de/wirtschaft/oel-spritpreise-tanken-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T08:31:12+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 14.09.2026",
+   "s": "Update Wirtschaft vom 14.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1648554.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T08:23:31+00:00"
+  },
+  {
+   "t": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck",
+   "s": "Nach dem Huthi-Vormarsch und dem Angriff auf eine Pipeline wächst der Druck auf Saudi-Arabien - denn nach der Straße von Hormus ist nun auch die Ausweichroute für Ölexporte vorerst nicht nutzbar. Von den USA kommt keine Hilfe. Von A. Osius.",
+   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-oelpreis-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T15:56:14+00:00"
+  },
   {
    "t": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
    "s": "Kupfer kostet so viel wie nie. US-Zollsorgen, KI, Stromnetze und E-Autos treiben den Kupferpreis. Wo der Preisschub für Verbraucher spürbar werden könnte - vom Bauen bis zur Stromrechnung. Von Angela Göpfert.",
@@ -15,13 +50,6 @@
    "u": "https://www.deutschlandfunk.de/reeder-griechenland-russland-schattenflotte-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-13T08:38:00+00:00"
-  },
-  {
-   "t": "Wie eine explodierende Erbpacht Familien überfordern kann",
-   "s": "Erbpacht ist ein Modell, das auch Familien helfen soll, ins Eigenheim zu ziehen. Die Idee: Das Grundstück wird vom Eigentümer nur gepachtet, etwa von der Stadt. Doch das kann zur Falle werden. Von R. Hübner und M. Zimmermann.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/erbpacht-108.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T06:15:32+00:00"
   },
   {
    "t": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
@@ -38,32 +66,11 @@
    "d": "2026-09-12T23:53:35+00:00"
   },
   {
-   "t": "Wie die Stadt Wittenberge ihr Industrie-Erbe neu nutzen will",
-   "s": "Wo früher Nähmaschinen produziert wurden, sollen nun Touristen übernachten, Start-ups arbeiten und Konzerte stattfinden. Wie die brandenburgische Stadt Wittenberge - zwischen Hamburg und Berlin gelegen - ihr Industrie-Erbe nutzt. Von J. Piwon.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/wittenberge-industriequartier-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T13:22:03+00:00"
-  },
-  {
-   "t": "Bundesnetzagentur stellt klar - Gasspeicher sind ausreichend gefüllt",
-   "s": "Im kommenden Winter brauchen Millionen Haushalte wieder Gas für ihre Heizung - und die Sorge ist groß, dass dieses Jahr nicht genug Gas eingespeichert wurde. Die Bundesnetzagentur gibt nun Entwarnung: Die Speicher seien voll genug. Doch die Preise könnten steigen.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/gas-speicher-preise-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T13:20:55+00:00"
-  },
-  {
-   "t": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
-   "s": "Trotz weltweiter Krisen boomt das Geschäft der griechischen Reeder. Das kleine Land liegt bei den Transportkapazitäten weltweit auf Platz eins. Doch immer wieder sind die Reeder auch in Grauzonen unterwegs. Von Astrid Halder.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/reeder-griechenland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T05:04:13+00:00"
-  },
-  {
-   "t": "Marktbericht: Der DAX stabilisiert sich",
-   "s": "Dank Kursgewinnen der Wall Street und sinkender Ölpreise hat der DAX zum Wochenschluss wieder etwas Boden gut gemacht. Doch das Umfeld mit Inflations- und Zinssorgen bleibt schwierig.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T16:32:18+00:00"
+   "t": "Kartenzahlungspflicht - Schützt lieber das Bargeld",
+   "s": "Geschäfte sollen nach Plänen von Finanzminister Lars Klingbeil künftig mindestens eine digitale Bezahlmöglichkeit anbieten müssen. Eine unnötige Vorschrift. Wichtiger wäre es, die Annahme von Bargeld verpflichtend zu machen.Ein Kommentar von Manfred Kloiber",
+   "u": "https://www.deutschlandfunk.de/kartenzahlung-bargeld-kommentar-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-12T07:18:00+00:00"
   },
   {
    "t": "KI-Entwickler Anthropic blockiert Biowaffen-Recherchen",
@@ -92,13 +99,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/verbraucherzentralen-erhoehung-krankenkassenbeitraege-100.html",
    "q": "Tagesschau",
    "d": "2026-09-11T08:43:10+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 11.09.2026",
-   "s": "Update Wirtschaft vom 11.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1647120.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T07:47:14+00:00"
   },
   {
    "t": "Kommentar - Wer auf Strom setzt, spart künftig viel Geld",
@@ -136,13 +136,6 @@
    "d": "2026-09-10T13:44:42+00:00"
   },
   {
-   "t": "Bahn-Chefin Palla kündigt weniger Korridorsanierungen pro Jahr an",
-   "s": "Eigentlich sollten die sogenannten Korridorsanierungen bis 2036 abgeschlossen sein. Doch die Arbeiten werden nach Aussage von Bahn-Chefin Palla länger dauern. Vier große Sanierungen pro Jahr - wie bislang angestrebt - seien zu viel.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-sanierung-palla-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T13:26:25+00:00"
-  },
-  {
    "t": "Höhere Zinsen - die Auswirkungen für Verbraucher und die Wirtschaft",
    "s": "Zum zweiten Mal in diesem Jahr heben Europas Währungshüter den Leitzins an. Was bedeutet das für Verbraucher und Firmen? Wie könnte es in der Geldpolitik weitergehen? Fragen und Antworten. Von Klaus-Rainer Jackisch.",
    "u": "https://www.tagesschau.de/ezb-zinsen-114.html",
@@ -150,25 +143,32 @@
    "d": "2026-09-10T12:16:55+00:00"
   },
   {
-   "t": "Wo die Verbraucherpreise am stärksten steigen",
-   "s": "Der Iran-Krieg treibt die Energiepreise in die Höhe und verteuert das Leben der Verbraucherinnen und Verbraucher in Deutschland. Wo wird das besonders spürbar? Und wo sind Preise zuletzt gesunken?",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-deutschland-august-details-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T10:21:08+00:00"
+   "t": "Haushaltsentwurf - Eine gigantische Neuverschuldung und viele Fragezeichen",
+   "s": "Der Staat hat viel Geld in die Hand genommen, um die Missstände in Deutschland anzugehen. Dabei bleiben aber viele Fragen offen: Entfacht das Geld nur ein konjunkturelles Strohfeuer? Werden Lücken gestopft, statt in Infrastruktur investiert?Von Jörg Münchenberg",
+   "u": "https://www.deutschlandfunk.de/bundeshaushalt-investitionen-neuverschuldung-klingbeil-kommentar-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-09T15:40:00+00:00"
   },
   {
-   "t": "Warum jetzt mehr Falt-Handys in die Läden kommen",
-   "s": "Apple steigt ins Geschäft mit aufklappbaren Smartphones ein. Bislang war das eher eine Nische. Doch auf den Markt kommen jetzt mehrere Hersteller mit neuen Geräten - die Vorteile und Nachteile haben.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/faltbare-smartphones-handys-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T08:27:47+00:00"
+   "t": "Klimawandel - Wie Deutschland sein Stromnetz für die Zukunft rüstet",
+   "s": "Die Hitzewellen dieses Sommers haben das deutsche Stromnetz unter Druck gesetzt. Wie lässt sich die Versorgung sichern, wenn Extremwetter häufiger wird und Wind und Sonne die Stromflüsse verändern?",
+   "u": "https://www.deutschlandfunk.de/stromnetz-deutschland-extremwetter-klimawandel-stromversorgung-energiewende-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-09T12:46:00+00:00"
   },
   {
-   "t": "Teures Heizöl - warten oder kaufen?",
-   "s": "Der Ölpreis ist hoch, die Heizsaison beginnt schon bald. Viele Verbraucher sind verunsichert. Lohnt es sich jetzt, Heizöl zu bestellen? Oder soll man auf sinkende Preise warten? Von Felix Mannheim und Jörg Marksteiner.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/oelpreise-heizen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T06:33:33+00:00"
+   "t": "KI-Rechenzentren in den USA - Ressourcenverbrauch ohne Ende",
+   "s": "Die US-amerikanische KI-Industrie benötigt immer mehr Rechenzentren, um Daten zu verarbeiten. Doch der ungebremste Bau dieser milliardenschweren Großprojekte könnte bald vorbei sein, denn die Bevölkerung wehrt sich.",
+   "u": "https://www.deutschlandfunk.de/ki-rechenzentren-usa-stromverbrauch-widerstand-trump-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-08T14:58:00+00:00"
+  },
+  {
+   "t": "Vereinigte Staaten - Die US-Schulden sind ein Risiko für die Weltwirtschaft",
+   "s": "Die US-Staatsschulden wachsen. Und das schneller als geplant. Deswegen steigen die Zinsen und Anleger werden nervöser. Das ist nicht nur ein US-Problem, denn die Folgen können weit über die Vereinigten Staaten hinaus reichen.",
+   "u": "https://www.deutschlandfunk.de/usa-staatsschulden-folgen-weltwirtschaft-zinsen-europa-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-07T12:00:00+00:00"
   }
  ]
 }

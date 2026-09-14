@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-13T23:10:52+00:00",
+ "updated": "2026-09-14T08:57:02+00:00",
  "items": [
+  {
+   "t": "Landtagsneubau in Sachsen: Protzbauten am Elbufer",
+   "s": "Der Sächsische Landtag startet für 450 Millionen Euro den Um- und Neubau seiner Gebäude. „Gigantisch“ sei das in Zeiten des Spardiktats, sagt der Steuerbund.",
+   "u": "https://taz.de/Landtagsneubau-in-Sachsen/!6212883/",
+   "q": "taz",
+   "d": "2026-09-14T07:49:00+00:00"
+  },
   {
    "t": "Schwesigs SPD-Wahlkampf in Meck-Pomm: Mit dem Wahlvolk kann sie",
    "s": "Manuela Schwesig kämpft in Mecklenburg-Vorpommern um jeden Prozentpunkt und rückt der AfD auf die Pelle. Gefährlich wird sie damit auch für die CDU.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Scheich-Besuch-in-Deutschland/!6212225/",
    "q": "taz",
    "d": "2026-09-10T16:05:00+00:00"
-  },
-  {
-   "t": "Staatsbesuch von Scheich in Berlin: Handelsvolumen schlägt Menschenrechte",
-   "s": "Der Staatspräsident der Vereinigten Arabischen Emirate, bin Zayid, ist in Berlin, es geht um Rüstungsdeals. Menschenrechtsorganisationen demonstrieren.",
-   "u": "https://taz.de/Staatsbesuch-von-Scheich-in-Berlin/!6212173/",
-   "q": "taz",
-   "d": "2026-09-10T15:50:00+00:00"
   }
  ]
 }
