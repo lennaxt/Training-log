@@ -82,9 +82,11 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
   kein Bereichs-spezifisches Verhalten außer dem Titel. Neue Hilfe gehört in dieses
   Muster, nicht in den Store.
 - **Home-Bildschirm-Hinweis:** `homeOverlay` (Einstellungen → „Zum Home-Bildschirm",
-  Link im Guide) erklärt das Ablegen auf iOS. Nach dem ersten Login öffnet er sich
-  einmal von selbst — nur auf Touch-Geräten außerhalb der installierten App, gemerkt
-  **pro Gerät** in `localStorage` (`peak_home_hint_seen`), nicht im Store.
+  Link im Guide) erklärt das Ablegen auf iOS (auch „Zum Dock hinzufügen"). Nach dem
+  Login erscheint einmal der kurze Hinweis `#homeTip` — nur auf Touch-Geräten außerhalb
+  der installierten App, **erst wenn das Startbild (`#boot`, z-index 995) weg ist**, und
+  gilt erst beim Wegtippen als gesehen. Gemerkt pro Gerät in `localStorage`
+  (`peak_home_tip_seen`), nicht im Store.
 - **Strava-Import bleibt manuell:** Eine Strava-API-Anbindung ist bewusst nicht umgesetzt
   (kostenpflichtig). GPX kommt per Export aus der Strava-Web-App + Upload in der
   Trainingsapp; genau das erklärt der GPX-Reiter.
