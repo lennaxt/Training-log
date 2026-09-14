@@ -912,6 +912,13 @@
   .home-tip-title{font-family:var(--display);font-size:22px;font-weight:500;letter-spacing:-0.01em;margin-bottom:8px}
   .home-tip-text{font-size:15px;line-height:1.6;color:var(--ink-soft);margin-bottom:18px}
   .home-tip-text b{color:var(--ink);font-weight:600}
+  .home-tip-list{list-style:none;margin:4px 0 12px;padding:0;counter-reset:tip}
+  .home-tip-list li{counter-increment:tip;position:relative;padding:1px 0 0 36px;
+    font-size:15px;line-height:1.5;color:var(--ink-soft);margin-bottom:10px;min-height:24px}
+  .home-tip-list li::before{content:counter(tip);position:absolute;left:0;top:0;width:24px;height:24px;border-radius:50%;
+    background:var(--ink);color:var(--on-ink);font-family:var(--display);font-size:13px;font-weight:500;
+    display:flex;align-items:center;justify-content:center}
+  .home-tip-list b{color:var(--ink);font-weight:600}
   .home-tip .plan-create{margin-top:0}
   .home-tip-later{width:100%;min-height:48px;margin-top:6px;border:0;background:none;color:var(--ink-soft);
     font-family:inherit;font-size:15px;font-weight:500;cursor:pointer}
@@ -1599,7 +1606,12 @@ window._boot=(function(){
 <div class="home-tip" id="homeTip" onclick="if(event.target===this)dismissHomeTip(false)">
   <div class="home-tip-card" role="dialog" aria-labelledby="homeTipTitle">
     <div class="home-tip-title" id="homeTipTitle">Peak als App ablegen</div>
-    <div class="home-tip-text">Füge Peak zum <b>Home-Bildschirm</b> oder <b>Dock</b> hinzu: In Safari auf <b>Teilen</b> tippen, dann <b>„Zum Home-Bildschirm"</b> — je nach Gerät heißt es auch <b>„Zum Dock hinzufügen"</b>. Danach startet Peak im Vollbild mit eigenem Icon.</div>
+    <ul class="home-tip-list">
+      <li>In Safari auf <b>Teilen</b> tippen</li>
+      <li><b>„Zum Home-Bildschirm"</b> oder <b>„Zum Dock hinzufügen"</b> wählen</li>
+      <li><b>„Hinzufügen"</b> tippen</li>
+    </ul>
+    <div class="home-tip-text">Peak startet dann im Vollbild mit eigenem Icon.</div>
     <button class="plan-create" onclick="dismissHomeTip(true)">So geht's</button>
     <button class="home-tip-later" onclick="dismissHomeTip(false)">Später</button>
   </div>
@@ -4581,7 +4593,7 @@ function openHomeHint(){document.getElementById("homeOverlay").classList.add("op
 function closeHomeHint(){document.getElementById("homeOverlay").classList.remove("open")}
 /* Nur fuer das Geraet, nicht im Store: ob der Hinweis kam, sagt nichts ueber
    den Nutzer, und ein zweites Geraet braucht ihn genauso. */
-const HOME_HINT_KEY="peak_home_tip_seen";
+const HOME_HINT_KEY="peak_home_tip_seen_2";
 window._maybeHomeHint=function(){
   if(isInstalled()||!(navigator.maxTouchPoints>0))return;
   try{if(localStorage.getItem(HOME_HINT_KEY))return}catch(e){return}

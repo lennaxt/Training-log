@@ -86,7 +86,7 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
   Login erscheint einmal der kurze Hinweis `#homeTip` — nur auf Touch-Geräten außerhalb
   der installierten App, **erst wenn das Startbild (`#boot`, z-index 995) weg ist**, und
   gilt erst beim Wegtippen als gesehen. Gemerkt pro Gerät in `localStorage`
-  (`peak_home_tip_seen`), nicht im Store.
+  (`peak_home_tip_seen_2`), nicht im Store.
 - **Strava-Import bleibt manuell:** Eine Strava-API-Anbindung ist bewusst nicht umgesetzt
   (kostenpflichtig). GPX kommt per Export aus der Strava-Web-App + Upload in der
   Trainingsapp; genau das erklärt der GPX-Reiter.
