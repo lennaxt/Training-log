@@ -900,6 +900,16 @@
   #fontOverlay .plan-sheet{padding-top:calc(var(--top) + 60px)}
   #guideOverlay{z-index:980}
   #guideOverlay .plan-sheet{padding-top:calc(var(--top) + 60px)}
+  #homeOverlay{z-index:985}
+  #homeOverlay .plan-sheet{padding-top:calc(var(--top) + 60px)}
+  .share-ic{display:inline-block;width:17px;height:17px;vertical-align:-3px;margin:0 1px}
+  .guide-group{font-family:var(--display);font-size:13px;font-weight:500;letter-spacing:.08em;
+    text-transform:uppercase;color:var(--ink-mute);margin:30px 2px 2px}
+  .guide-group:first-child{margin-top:0}
+  .guide-item .guide-link{display:inline-flex;align-items:center;min-height:44px;margin-top:6px;padding:0 14px;
+    border:1px solid var(--line);border-radius:10px;background:none;color:var(--ink);
+    font-family:inherit;font-size:14px;font-weight:600;cursor:pointer}
+  .guide-item .guide-link:active{background:var(--press)}
 
   .info-body{line-height:1.75}
   .info-body h3{font-size:18px;margin:28px 0 8px;letter-spacing:-0.01em}
@@ -1448,6 +1458,14 @@ window._boot=(function(){
     </div>
 
     <div class="pref-section">
+      <div class="pref-title">Zum Home-Bildschirm</div>
+      <div class="pref-sub">Leg Peak wie eine App auf dem iPhone ab: Vollbild ohne Safari-Leisten, eigenes Icon, schneller Start.</div>
+      <button class="pref-row pref-clickable" onclick="openHomeHint()"><span>So geht's</span>
+        <span class="pref-cur" id="homeCur">–</span>
+        <span class="catset-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></span></button>
+    </div>
+
+    <div class="pref-section">
       <div class="pref-title">App Guide</div>
       <div class="pref-sub">Shortcuts und Wege durch die App — ganz unten im Guide.</div>
       <button class="pref-row pref-clickable" onclick="openGuide()"><span>App Guide öffnen</span>
@@ -1529,24 +1547,61 @@ window._boot=(function(){
     </div>
     <div class="plan-sub">Die wichtigsten Wege und Abkürzungen in der App.</div>
     <div class="info-body">
+      <div class="guide-group">Erste Schritte</div>
+      <div class="guide-item"><h3>Peak als App ablegen</h3><p>Auf dem iPhone in Safari über <b>Teilen → „Zum Home-Bildschirm"</b>. Dann startet Peak im Vollbild mit eigenem Icon.</p><button class="guide-link" onclick="openHomeHint()">Anleitung ansehen</button></div>
       <div class="guide-item"><h3>Bereich wechseln</h3><p>Oben auf <b>Kraft</b>, das <b>Rad-Symbol</b>, <b>Laufen</b> oder <b>Kurse</b> tippen.</p></div>
-      <div class="guide-item"><h3>Sätze eintragen (Kraft)</h3><p>Eine <b>Übungszeile antippen</b> klappt sie auf — erst dann erscheinen die Felder für Kilo und Wiederholungen. Nochmal tippen klappt sie zu.</p></div>
-      <div class="guide-item"><h3>Übung ändern oder entfernen</h3><p>Eine <b>Übungszeile gedrückt halten</b>: umbenennen, Satzschema ändern oder aus diesem Trainingstag entfernen.</p></div>
-      <div class="guide-item"><h3>Training wechseln (Kraft)</h3><p>Auf den großen <b>Buchstaben</b> oben tippen, um zum nächsten Training zu springen.</p></div>
-      <div class="guide-item"><h3>Kursart wechseln</h3><p>Auf den <b>Kursnamen</b> oben tippen, um zur nächsten Kursart zu wechseln.</p></div>
-      <div class="guide-item"><h3>Einheit abschließen</h3><p>Sätze abhaken, dann unten <b>„Einheit abschließen"</b> antippen. Die Dauer wird automatisch gespeichert.</p></div>
-      <div class="guide-item"><h3>Einheit bearbeiten</h3><p>Eine Einheit im <b>Verlauf</b> gedrückt halten, um sie zu bearbeiten oder zu löschen. Einzelne Sätze wischst du nach links weg.</p></div>
+      <div class="guide-item"><h3>Bereiche ausblenden</h3><p>Nutzt du etwa keine Kurse? In den <b>Einstellungen</b> (Logo oben links) unter „Bereiche" den Schalter ausmachen. Deine Einheiten bleiben dabei erhalten.</p></div>
+      <div class="guide-item"><h3>Reiter</h3><p><b>Training</b> zum Eintragen, <b>Verlauf</b> für alle bisherigen Einheiten, <b>Verlaufskurve</b> für deinen Fortschritt über die Zeit.</p></div>
+      <div class="guide-group">Kraft</div>
+      <div class="guide-item"><h3>Sätze eintragen</h3><p>Eine <b>Übungszeile antippen</b> klappt sie auf — erst dann erscheinen die Felder für Kilo und Wiederholungen. Nochmal tippen klappt sie zu.</p></div>
+      <div class="guide-item"><h3>Vorschlag vom letzten Mal</h3><p>Kilo und Wiederholungen sind mit den Werten deines <b>letzten Trainings</b> vorbelegt — Satz für Satz. Passt es, reicht das Abhaken.</p></div>
       <div class="guide-item"><h3>Satz rückgängig machen</h3><p>Den <b>Haken</b> einer abgehakten Zeile antippen nimmt den Satz zurück. Er sieht genauso aus wie der Haken zum Abhaken darunter.</p></div>
-      <div class="guide-item"><h3>Bereichs-Einstellungen öffnen</h3><p><b>Einstellungen</b> (Logo oben links) öffnen und eine Bereichs-Zeile <b>gedrückt halten</b>.</p></div>
-      <div class="guide-item"><h3>Farben &amp; Kartenstil</h3><p>Das <b>Zahnrad</b> oben rechts öffnet die Stile. Auch erreichbar über <b>„Farbe &amp; Stil"</b> in den Bereichs-Einstellungen.</p></div>
-      <div class="guide-item"><h3>GPX-Route laden (Rad / Laufen)</h3><p>Im Reiter <b>Training</b> auf <b>„+ GPX-Route hochladen"</b> tippen. Wie du die Datei von Strava bekommst, steht in den Bereichs-Einstellungen unter <b>GPX-Routen</b>.</p></div>
-      <div class="guide-item"><h3>Einheiten planen (Kraft)</h3><p>Im Kraft-Training unten auf <b>„Einheiten verwalten"</b> tippen. Einen <b>freien Buchstaben</b> antippen legt ein Training an, ein <b>belegter</b> schaltet aufs Löschen um — dort steht auch, wie viele erfasste Einheiten mitgehen.</p></div>
-      <div class="guide-item"><h3>Route im Vollbild</h3><p>Im <b>Verlauf</b> auf das <b>Kartenbild</b> einer Fahrt tippen — mit Abspielen und Tempo-Farben.</p></div>
-      <div class="guide-item"><h3>Verlaufskurve neu abspielen</h3><p>Im Reiter <b>Verlaufskurve</b> auf die Kurve tippen.</p></div>
+      <div class="guide-item"><h3>Einheit abschließen</h3><p>Sätze abhaken, dann unten <b>„Einheit abschließen"</b> antippen. Die Dauer wird automatisch gespeichert.</p></div>
+      <div class="guide-item"><h3>Training wechseln</h3><p>Auf den großen <b>Buchstaben</b> oben tippen, um zum nächsten Training zu springen.</p></div>
+      <div class="guide-item"><h3>Übung ändern oder entfernen</h3><p>Eine <b>Übungszeile gedrückt halten</b>: umbenennen, Satzschema ändern oder aus diesem Trainingstag entfernen.</p></div>
+      <div class="guide-item"><h3>Übungen sortieren</h3><p>Unten im Training auf <b>„Übungen sortieren"</b> tippen, um die Reihenfolge festzulegen.</p></div>
+      <div class="guide-item"><h3>Einheiten planen</h3><p>Im Kraft-Training unten auf <b>„Einheiten verwalten"</b> tippen. Einen <b>freien Buchstaben</b> antippen legt ein Training an, ein <b>belegter</b> schaltet aufs Löschen um — dort steht auch, wie viele erfasste Einheiten mitgehen.</p></div>
       <div class="guide-item"><h3>Pausentimer</h3><p>Dauer in den <b>Bereichs-Einstellungen von Kraft</b> unter „Pausentimer" — Regler schieben oder auf die Zahl tippen. Auf 0 startet keine Pause. Läuft sie, beendet <b>„Halten zum Beenden"</b> sie vorzeitig; ein kurzer Tipp reicht bewusst nicht.</p></div>
-      <div class="guide-item"><h3>Gewichtskurve</h3><p><b>Einstellungen → Profil → Gewichtskurve</b>: dort trägst du dich ein und siehst den Verlauf. Mit einem <b>Zielgewicht</b> zeichnet die Kurve zusätzlich eine Ziellinie.</p></div>
-      <div class="guide-item"><h3>Cloud-Status prüfen</h3><p>Im <b>Profil</b> unter „Konto": <b>„Gesichert um …"</b> bedeutet, deine Daten liegen sicher in der Cloud. Dort meldest du dich auch ab.</p></div>
+      <div class="guide-item"><h3>Was in der Pause läuft</h3><p>Ebenfalls unter „Pausentimer": <b>Timer</b> (Kreis, Balken oder Zahl), eine <b>Animation</b>, <b>News</b>-Schlagzeilen oder ein <b>Wissen</b>-Artikel. Bei News und Wissen wählst du die Themen selbst.</p></div>
+      <div class="guide-group">Rad, Laufen, Kurse</div>
+      <div class="guide-item"><h3>Aktivität speichern</h3><p>Werte eintragen und auf <b>„Fahrt speichern"</b>, <b>„Lauf speichern"</b> bzw. <b>„Einheit speichern"</b> tippen — ein Schritt, kein Start und Stopp.</p></div>
+      <div class="guide-item"><h3>GPX-Route laden</h3><p>Im Reiter <b>Training</b> auf <b>„+ GPX-Route hochladen"</b> tippen. Kilometer, Höhenmeter und Tempo kommen dann aus der Datei. Wie du sie von Strava bekommst, steht in den Bereichs-Einstellungen unter <b>GPX-Routen</b>.</p></div>
+      <div class="guide-item"><h3>Route im Vollbild</h3><p>Im <b>Verlauf</b> auf das <b>Kartenbild</b> einer Fahrt tippen — mit Abspielen und Tempo-Farben.</p></div>
+      <div class="guide-item"><h3>Kursart wechseln</h3><p>Auf den <b>Kursnamen</b> oben tippen, um zur nächsten Kursart zu wechseln.</p></div>
+      <div class="guide-item"><h3>Video zum Kurs</h3><p>Beim Kurs kannst du einen <b>YouTube-Link</b> einfügen. Die Vorschau erscheint sofort; im Verlauf öffnet ein Tipp aufs Bild das Video bei YouTube.</p></div>
+      <div class="guide-group">Verlauf</div>
+      <div class="guide-item"><h3>Einheit bearbeiten</h3><p>Eine Einheit im <b>Verlauf</b> gedrückt halten, um sie zu bearbeiten oder zu löschen. Einzelne Sätze wischst du nach links weg.</p></div>
+      <div class="guide-item"><h3>Verlaufskurve neu abspielen</h3><p>Im Reiter <b>Verlaufskurve</b> auf die Kurve tippen.</p></div>
+      <div class="guide-group">Einstellungen &amp; Profil</div>
+      <div class="guide-item"><h3>Bereichs-Einstellungen öffnen</h3><p><b>Einstellungen</b> (Logo oben links) öffnen und eine Bereichs-Zeile <b>gedrückt halten</b>.</p></div>
+      <div class="guide-item"><h3>Farben &amp; Kartenstil</h3><p>Das <b>Tropfen-Symbol</b> oben rechts öffnet die Stile. Auch erreichbar über <b>„Farbe &amp; Stil"</b> in den Bereichs-Einstellungen.</p></div>
+      <div class="guide-item"><h3>Hell oder dunkel</h3><p><b>Einstellungen → Darstellung</b>: Hell, Dunkel oder <b>System</b> — dann folgt Peak dem iPhone.</p></div>
+      <div class="guide-item"><h3>Schriftart</h3><p><b>Einstellungen → Schriftarten</b> ändert die Schrift für Namen, Überschriften und Zahlen.</p></div>
+      <div class="guide-item"><h3>Körpergewicht &amp; Gewichtskurve</h3><p><b>Einstellungen → Profil</b>: Dein Körpergewicht wird bei Übungen mit Körpergewicht als Gewicht vorgeschlagen. Unter <b>Gewichtskurve</b> siehst du den Verlauf; mit einem <b>Zielgewicht</b> zeichnet sie zusätzlich eine Ziellinie.</p></div>
+      <div class="guide-item"><h3>Cloud-Status prüfen</h3><p>Im <b>Profil</b> unter „Konto": <b>„Gesichert um …"</b> bedeutet, deine Daten liegen sicher in der Cloud und stehen auf jedem angemeldeten Gerät bereit. Dort meldest du dich auch ab.</p></div>
     </div>
+  </div>
+</div>
+
+<div class="plan-overlay" id="homeOverlay">
+  <div class="plan-sheet">
+    <div class="plan-top">
+      <h1 class="plan-title">Zum Home-Bildschirm</h1>
+      <button class="plan-close" onclick="closeHomeHint()" aria-label="Schließen">×</button>
+    </div>
+    <div class="plan-sub">Peak läuft am besten als App vom Home-Bildschirm — nicht als Tab in Safari.</div>
+    <div class="info-body">
+      <h3>Warum?</h3>
+      <p>Vom Home-Bildschirm startet Peak <b>im Vollbild</b>, ohne Adress- und Tab-Leiste, mit eigenem Icon. Du findest die App schneller und tippst beim Training nicht aus Versehen auf Safari-Knöpfe.</p>
+      <h3>So geht's auf dem iPhone</h3>
+      <div class="step"><span class="n">1</span><p>Öffne Peak in <b>Safari</b> und <b>melde dich an</b>. Die Anmeldung wird beim Ablegen mitgenommen.</p></div>
+      <div class="step"><span class="n">2</span><p>Tippe auf das <b>Teilen-Symbol</b> <svg class="share-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="Teilen-Symbol"><path d="M12 3v12M8 7l4-4 4 4"/><path d="M6 11H5a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-8a1 1 0 0 0-1-1h-1"/></svg> — je nach iOS-Version unten in der Leiste oder erst über die <b>drei Punkte ⋯</b> neben der Adresse.</p></div>
+      <div class="step"><span class="n">3</span><p>Scrolle in der Liste nach unten und wähle <b>„Zum Home-Bildschirm"</b>. Falls angeboten: <b>„Als Web-App öffnen"</b> eingeschaltet lassen.</p></div>
+      <div class="step"><span class="n">4</span><p>Oben rechts auf <b>„Hinzufügen"</b> tippen. Das Berg-Icon <b>Peak</b> liegt jetzt auf deinem Home-Bildschirm.</p></div>
+      <p>Tipp: Halte das Icon gedrückt und ziehe es <b>ins Dock</b> unten, dann ist Peak von jeder Seite aus erreichbar.</p>
+      <div class="note">Android: In Chrome oben rechts auf <b>⋮</b> tippen und <b>„Zum Startbildschirm hinzufügen"</b> wählen. Klappt die Anmeldung in der abgelegten App nicht, melde dich einmal in Safari an und lege die App danach neu ab.</div>
+    </div>
+    <button class="plan-create" onclick="closeHomeHint()">Verstanden</button>
   </div>
 </div>
 
@@ -4497,6 +4552,19 @@ function openGpxInfo(cat){
   document.getElementById("gpxOverlay").classList.add("open");
 }
 function closeGpxInfo(){document.getElementById("gpxOverlay").classList.remove("open")}
+function isInstalled(){
+  return !!(navigator.standalone||(window.matchMedia&&window.matchMedia("(display-mode: standalone)").matches));
+}
+function openHomeHint(){document.getElementById("homeOverlay").classList.add("open")}
+function closeHomeHint(){document.getElementById("homeOverlay").classList.remove("open")}
+/* Nur fuer das Geraet, nicht im Store: ob der Hinweis kam, sagt nichts ueber
+   den Nutzer, und ein zweites Geraet braucht ihn genauso. */
+const HOME_HINT_KEY="peak_home_hint_seen";
+window._maybeHomeHint=function(){
+  if(isInstalled()||!(navigator.maxTouchPoints>0))return;
+  try{if(localStorage.getItem(HOME_HINT_KEY))return;localStorage.setItem(HOME_HINT_KEY,"1")}catch(e){return}
+  setTimeout(openHomeHint,900);
+};
 function openGuide(){document.getElementById("guideOverlay").classList.add("open")}
 function closeGuide(){document.getElementById("guideOverlay").classList.remove("open")}
 function closeCatSettings(){document.getElementById("catSetOverlay").classList.remove("open")}
@@ -4511,6 +4579,7 @@ function catSetOpenStyle(){styleReturnCat=catSetCur;closeCatSettings();openSetti
 function paintPrefs(){
   paintSyncInfo();
   const fc=document.getElementById("fontCur");if(fc)fc.textContent=fontById(store.font).name;
+  const hc=document.getElementById("homeCur");if(hc)hc.textContent=isInstalled()?"Abgelegt":"Noch in Safari";
   const w=document.getElementById("prefWeight");
   if(w)w.value=store.bodyweight!=null?fmtKg(store.bodyweight):"";
   const gk=document.getElementById("prefGoalKg");
@@ -5049,6 +5118,7 @@ onAuthStateChanged(auth,async(user)=>{
     const pinfo=document.getElementById("prefUserInfo");if(pinfo)pinfo.textContent=label;
     document.body.classList.remove("auth-pending");
     if(window._boot)window._boot.aus(true);
+    if(window._maybeHomeHint)window._maybeHomeHint();
   }else{
     document.querySelectorAll(".plan-overlay.open,.map-overlay.open,#pauseOverlay.open").forEach(o=>o.classList.remove("open"));
     document.body.classList.add("auth-pending");

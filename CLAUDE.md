@@ -81,6 +81,10 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
   (`gpxOverlay`, `guideOverlay`) mit `.info-body`-Text — kein gespeicherter Zustand,
   kein Bereichs-spezifisches Verhalten außer dem Titel. Neue Hilfe gehört in dieses
   Muster, nicht in den Store.
+- **Home-Bildschirm-Hinweis:** `homeOverlay` (Einstellungen → „Zum Home-Bildschirm",
+  Link im Guide) erklärt das Ablegen auf iOS. Nach dem ersten Login öffnet er sich
+  einmal von selbst — nur auf Touch-Geräten außerhalb der installierten App, gemerkt
+  **pro Gerät** in `localStorage` (`peak_home_hint_seen`), nicht im Store.
 - **Strava-Import bleibt manuell:** Eine Strava-API-Anbindung ist bewusst nicht umgesetzt
   (kostenpflichtig). GPX kommt per Export aus der Strava-Web-App + Upload in der
   Trainingsapp; genau das erklärt der GPX-Reiter.
