@@ -902,6 +902,13 @@
   #guideOverlay .plan-sheet{padding-top:calc(var(--top) + 60px)}
   #homeOverlay{z-index:985}
   #homeOverlay .plan-sheet{padding-top:calc(var(--top) + 60px)}
+  .install-badge{display:none;align-items:center;justify-content:center;width:18px;height:18px;
+    border-radius:50%;background:#D9432B;color:#fff;font-family:'Inter',sans-serif;font-size:12px;
+    font-weight:700;line-height:1;box-shadow:0 0 0 2px var(--paper);pointer-events:none}
+  body.needs-install .install-badge{display:inline-flex}
+  .brand{position:relative}
+  .brand .install-badge{position:absolute;left:31px;top:-5px}
+  .pref-row .install-badge{margin-left:8px;box-shadow:none}
   .home-tip{position:fixed;inset:0;z-index:990;display:flex;align-items:flex-end;justify-content:center;
     background:rgba(0,0,0,.28);opacity:0;pointer-events:none;transition:opacity .25s}
   .home-tip.open{opacity:1;pointer-events:auto}
@@ -916,7 +923,8 @@
   .home-tip-list li{counter-increment:tip;position:relative;padding:1px 0 0 36px;
     font-size:15px;line-height:1.5;color:var(--ink-soft);margin-bottom:10px;min-height:24px}
   .home-tip-list li::before{content:counter(tip);position:absolute;left:0;top:0;width:24px;height:24px;border-radius:50%;
-    background:var(--ink);color:var(--on-ink);font-family:var(--display);font-size:13px;font-weight:500;
+    box-sizing:border-box;border:1px solid var(--ink-mute);color:var(--ink-soft);
+    font-family:var(--display);font-size:13px;font-weight:400;
     display:flex;align-items:center;justify-content:center}
   .home-tip-list b{color:var(--ink);font-weight:600}
   .home-tip .plan-create{margin-top:0}
@@ -1353,7 +1361,7 @@ window._boot=(function(){
 
   <div class="head">
     <button class="brand" onclick="openPrefs()" aria-label="Einstellungen">
-      <div class="mark" id="brandMark"><svg viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22.2 67.4 L23.0 66.2 L25.3 63.2 L27.5 59.8 L29.8 56.6 L32.0 53.5 L34.3 50.6 L36.5 47.7 L38.8 45.1 L41.0 42.6 L43.3 40.4 L45.5 38.5 L47.8 37.1 L50.0 36.3 L52.2 37.2 L54.5 38.7 L56.7 40.6 L59.0 42.8 L61.2 45.3 L63.5 48.0 L65.7 50.8 L68.0 53.8 L70.2 56.9 L72.5 60.1 L74.7 63.5 L77.3 67.4" stroke-width="3.6"/><path d="M34.3 50.6 L38.5 55.8 L42.0 51.9 L46.1 58.0 L50.2 52.3 L53.7 55.2 L57.4 51.7 L61.4 56.9 L65.7 50.8" stroke-width="2.6"/></svg></div>
+      <span class="install-badge" aria-hidden="true">!</span><div class="mark" id="brandMark"><svg viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22.2 67.4 L23.0 66.2 L25.3 63.2 L27.5 59.8 L29.8 56.6 L32.0 53.5 L34.3 50.6 L36.5 47.7 L38.8 45.1 L41.0 42.6 L43.3 40.4 L45.5 38.5 L47.8 37.1 L50.0 36.3 L52.2 37.2 L54.5 38.7 L56.7 40.6 L59.0 42.8 L61.2 45.3 L63.5 48.0 L65.7 50.8 L68.0 53.8 L70.2 56.9 L72.5 60.1 L74.7 63.5 L77.3 67.4" stroke-width="3.6"/><path d="M34.3 50.6 L38.5 55.8 L42.0 51.9 L46.1 58.0 L50.2 52.3 L53.7 55.2 L57.4 51.7 L61.4 56.9 L65.7 50.8" stroke-width="2.6"/></svg></div>
       <div class="brand-name">
         <strong class="brand-title">Peak</strong>
         <span class="brand-sub">Trainingslog</span>
@@ -1480,7 +1488,7 @@ window._boot=(function(){
     <div class="pref-section">
       <div class="pref-title">Zum Home-Bildschirm</div>
       <div class="pref-sub">Leg Peak wie eine App auf dem iPhone ab: Vollbild ohne Safari-Leisten, eigenes Icon, schneller Start.</div>
-      <button class="pref-row pref-clickable" onclick="openHomeHint()"><span>So geht's</span>
+      <button class="pref-row pref-clickable" onclick="openHomeHint()"><span>So geht's<span class="install-badge" aria-hidden="true">!</span></span>
         <span class="pref-cur" id="homeCur">–</span>
         <span class="catset-arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></span></button>
     </div>
@@ -4589,6 +4597,9 @@ function closeGpxInfo(){document.getElementById("gpxOverlay").classList.remove("
 function isInstalled(){
   return !!(navigator.standalone||(window.matchMedia&&window.matchMedia("(display-mode: standalone)").matches));
 }
+/* Bleibt stehen, bis Peak vom Home-Bildschirm startet — anders als der
+   einmalige Hinweis nach dem Login laesst sich die Erinnerung nicht wegtippen. */
+document.body.classList.toggle("needs-install",!isInstalled()&&navigator.maxTouchPoints>0);
 function openHomeHint(){document.getElementById("homeOverlay").classList.add("open")}
 function closeHomeHint(){document.getElementById("homeOverlay").classList.remove("open")}
 /* Nur fuer das Geraet, nicht im Store: ob der Hinweis kam, sagt nichts ueber

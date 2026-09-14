@@ -87,6 +87,9 @@ Leute, die die App **nicht gebaut haben**, zählt ab jetzt als Anforderung.
   der installierten App, **erst wenn das Startbild (`#boot`, z-index 995) weg ist**, und
   gilt erst beim Wegtippen als gesehen. Gemerkt pro Gerät in `localStorage`
   (`peak_home_tip_seen_2`), nicht im Store.
+  Dauerhafte Erinnerung: rotes „!" (`.install-badge`) am Logo und an der Zeile in den
+  Einstellungen, gesteuert über `body.needs-install` — lässt sich nicht wegtippen,
+  verschwindet erst, wenn Peak vom Home-Bildschirm startet.
 - **Strava-Import bleibt manuell:** Eine Strava-API-Anbindung ist bewusst nicht umgesetzt
   (kostenpflichtig). GPX kommt per Export aus der Strava-Web-App + Upload in der
   Trainingsapp; genau das erklärt der GPX-Reiter.
