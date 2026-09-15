@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-09-15T08:42:00+00:00",
+ "updated": "2026-09-15T14:20:22+00:00",
  "items": [
+  {
+   "t": "Bericht zum Iran-Krieg: US-Armee leidet unter Munitionsknappheit",
+   "s": "Präsident Trump behauptet immer wieder, dass die USA über \"praktisch unbegrenzt\" Munition verfügen - trotz des Iran-Kriegs. Ein Bericht an den Kongress widerspricht und listet genau Kosten und Schäden des Krieges auf.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-munition-knappheit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T12:04:35+00:00"
+  },
+  {
+   "t": "Mutmaßliche Saboteure behindern Zugverkehr in den Niederlanden",
+   "s": "Unbekannte haben auf mehreren Bahnstrecken in den Niederlanden Rohre abgelegt. In Teilen des Landes fuhren keine Züge mehr. Der Netzbetreiber geht von Sabotage aus.",
+   "u": "https://www.tagesschau.de/ausland/europa/sabotage-bahn-niederlande-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T11:05:37+00:00"
+  },
+  {
+   "t": "Russische Fregatte feuert Leuchtraketen auf dänischen Helikopter",
+   "s": "Ein dänischer Militärhubschrauber ist nur knapp von Leuchtraketen einer russischen Fregatte verfehlt worden. Dänemark spricht von einem ernsten Vorfall - und hat den russischen Botschafter einbestellt. Von Jana Sinram.",
+   "u": "https://www.tagesschau.de/ausland/europa/daenemark-leuchtkugeln-russische-fregatte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T08:43:00+00:00"
+  },
+  {
+   "t": "Russischer Oligarch hat Hochzeit von Trump Jr. mitfinanziert",
+   "s": "Ein russischer Oligarch hat die Hochzeit von Donald Trump Jr. auf den Bahamas gesponsert. Dessen Braut bestätigt ein \"großzügiges Hochzeitsgeschenk von einem Freund\", für die US-Opposition ist das \"besorgniserregend\".",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-oligarch-trump-jr-hochzeitsfeier-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T08:42:11+00:00"
+  },
   {
    "t": "Unter Wasser mit ukrainischen Kampftauchern",
    "s": "Kampftaucher einer ukrainischen Spezialeinheit trainieren für Einsätze an feindlichen Küsten. Doch Drohnen haben ihre Arbeit grundlegend verändert. Ein Besuch bei einer Einheit im Süden der Ukraine. Von Susanne Petersohn.",
@@ -11,7 +39,7 @@
   },
   {
    "t": "Verlängerung von EU-Sanktionen gegen Russland vorerst blockiert",
-   "s": "Die EU wird ihre Strafmaßnahmen gegen rund 3.000 russische Personen und Einrichtungen vorerst nicht wie geplant um ein Jahr verlängern. Grund: Die Slowakei und Frankreich wollen offenbar einen Oligarchen von der Sanktionsliste streichen.",
+   "s": "Die EU wird ihre Strafmaßnahmen gegen etwa 3.000 russische Personen und Einrichtungen vorerst nicht wie geplant um ein Jahr verlängern. Grund: Die Slowakei und Frankreich wollen offenbar einen Oligarchen von der Sanktionsliste streichen.",
    "u": "https://www.tagesschau.de/ausland/eu-russland-sanktionen-slowakei-100.html",
    "q": "Tagesschau",
    "d": "2026-09-15T05:24:12+00:00"
@@ -24,7 +52,7 @@
    "d": "2026-09-15T05:15:19+00:00"
   },
   {
-   "t": "Supreme Court: Niederlage für Trump im Streit um Briefwahl",
+   "t": "Supreme Court: Niederlage für Trump im Streit über Briefwahl",
    "s": "Noch vor den Zwischenwahlen im November wollte die US-Regierung verschärfte Briefwahlregeln durchsetzen - doch damit ist sie jetzt vor dem Supreme Court gescheitert. Bei den Demokraten sorgt die Entscheidung für Erleichterung.",
    "u": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-102.html",
    "q": "Tagesschau",
@@ -129,13 +157,6 @@
    "d": "2026-09-14T02:01:04+00:00"
   },
   {
-   "t": "Hochrechnungen: Sozialdemokraten bei Wahl in Schweden vorn",
-   "s": "Bei der Parlamentswahl in Schweden sind die Sozialdemokraten von Ex-Regierungschefin Andersson laut Hochrechnungen stärkste Kraft geworden. Ob es für die Regierungsbildung reicht, ist aber noch offen.",
-   "u": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T01:22:42+00:00"
-  },
-  {
    "t": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck",
    "s": "Nach dem Huthi-Vormarsch und dem Angriff auf eine Pipeline wächst der Druck auf Saudi-Arabien - denn nach der Straße von Hormus ist nun auch die Ausweichroute für Ölexporte vorerst nicht nutzbar. Von den USA kommt keine Hilfe. Von A. Osius.",
    "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-oelpreis-100.html",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-nahe-polnischer-grenze-100.html",
    "q": "Tagesschau",
    "d": "2026-09-13T15:08:51+00:00"
-  },
-  {
-   "t": "Festnahmen bei Razzien gegen LGBTQ-Vereine in der Türkei",
-   "s": "Türkische Behörden gehen hart gegen LGBTQ-Vereine vor: Bei Razzien wurden mehrere Menschen festgenommen. Die Staatsanwaltschaft spricht von einer Aktion zum Schutz der Familie, Menschenrechtler kritisieren staatlich gelenkte Diskriminierung.",
-   "u": "https://www.tagesschau.de/ausland/asien/tuerkei-razzien-lgbtq-vereine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T14:09:26+00:00"
-  },
-  {
-   "t": "China 50 Jahre nach Maos Tod: Immer noch untersteht alles der Partei",
-   "s": "50 Jahre nach dem Tod von Chinas Staatsgründer Mao Zedong ist die Volksrepublik ein kapitalistisches Land - seine Metropolen sind geprägt von Malls und Wolkenkratzern. Und doch kontrolliert die Kommunistische Partei weiterhin alles. Von Eva Lamby-Schmitt.",
-   "u": "https://www.tagesschau.de/ausland/asien/china-50-todestag-mao-zedong-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T11:24:56+00:00"
-  },
-  {
-   "t": "Kenia: Gewaltexzesse im Auftrag der Regierung?",
-   "s": "Motorradgangs, die Veranstaltungen der Opposition mit Macheten angreifen: Ein Jahr vor der Präsidentenwahl in Kenia wird das Land mit Gewalt überzogen. Die Opposition macht dafür auch die Regierung verantwortlich. Von Georg Restle.",
-   "u": "https://www.tagesschau.de/ausland/afrika/kenia-gangs-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T10:24:51+00:00"
   }
  ]
 }

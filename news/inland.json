@@ -1,7 +1,70 @@
 {
  "name": "Inland",
- "updated": "2026-09-15T08:42:00+00:00",
+ "updated": "2026-09-15T14:20:21+00:00",
  "items": [
+  {
+   "t": "Linken-Kandidatin zur Berlin-Wahl: Wie Elif Eralp um das Rote Rathaus kämpft",
+   "s": "Die Linke liefert sich in Umfragen zur Berliner Abgeordnetenhauswahl ein Kopf-an-Kopf-Rennen mit der CDU. Ihre Spitzenkandidatin kämpft vor allem gegen hohe Mieten und polarisiert im Wahlkampf stark. Von Boris Hermel und Mirja Fiedler.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-eralp-linke-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T13:49:51+00:00"
+  },
+  {
+   "t": "Bundesanwaltschaft: Mutmaßliche Mitglieder von Eritrea-Terrorgruppe festgenommen",
+   "s": "Eine in Deutschland tätige Terrorgruppe soll unter anderem für die Gewalt auf Eritrea-Festivals im vergangenen Jahr verantwortlich sein. Zwei mutmaßliche Mitglieder wurden jetzt festgenommen.",
+   "u": "https://www.tagesschau.de/inland/bundesanwaltschaft-festnahme-eritrea-terrorgruppe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T13:44:40+00:00"
+  },
+  {
+   "t": "Gewalt im Westjordanland: „Ziel ist es, Palästinenser in Enklaven zu drängen“",
+   "s": "Yair Dvir von der Menschenrechtsorganisation B'Tselem sagt: Israel arbeite daran, das ganze Westjordanland zu kontrollieren. Er fordert die Welt zum Handeln auf.",
+   "u": "https://taz.de/Gewalt-im-Westjordanland/!6213237/",
+   "q": "taz",
+   "d": "2026-09-15T13:35:00+00:00"
+  },
+  {
+   "t": "Korruption in der Ukraine: Ukrainisches Parlament entlässt Generalstaatsanwalt",
+   "s": "Wegen Korruptionsvorwürfen reichte der Generalstaatsanwalt den Rücktritt ein – und ging auf Dienstreise. Nun entbindet die Rada ihn von seinen Aufgaben.",
+   "u": "https://taz.de/Ukrainisches-Parlament-entlaesst-Generalstaatsanwalt/!6213401/",
+   "q": "taz",
+   "d": "2026-09-15T13:06:00+00:00"
+  },
+  {
+   "t": "Bundeskanzler Merz kündigt Entlastungen bei Spritpreisen an",
+   "s": "Bundeskanzler Merz hat angesichts der hohen Spritpreise Entlastungen angekündigt. Er sei der Meinung, \"dass wir handeln müssen\". Das \"genaue Instrumentarium\" stehe allerdings noch nicht fest.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-entlastungen-spritpreise-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T12:46:56+00:00"
+  },
+  {
+   "t": "Gewalt unter Eritreern in Deutschland: Regierungsgegner unter Terrorverdacht festgenommen",
+   "s": "Bei regierungsnahen Eritrea-Veranstaltungen kam es in Deutschland mehrfach zu Gewalt. Die Bundesanwaltschaft sieht eine Terrorgruppe dahinter.",
+   "u": "https://taz.de/Mutmassliche-Mitglieder-von-Eritrea-Terrorgruppe-festgenommen/!6213346/",
+   "q": "taz",
+   "d": "2026-09-15T11:32:00+00:00"
+  },
+  {
+   "t": "BKA-Lagebild: Kriminelle Gruppen werden digitaler und brutaler",
+   "s": "Das BKA beobachtet einen tiefgreifenden Wandel der Organisierten Kriminalität. Banden agierten international, digital vernetzt - und brutaler. Täter würden inzwischen auch über Soziale Medien angeworben.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundeslagebild-bandenkriminalitaet-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T11:19:28+00:00"
+  },
+  {
+   "t": "Gewalt gegen Menschen mit Behinderung: Täter gesteht, Verfahren eingestellt",
+   "s": "Die Angestellte einer Werkstatt für Menschen mit Behinderung wird von ihrem Vorgesetzten belästigt. Sechs Jahre vergehen bis zur Gerichtsverhandlung.",
+   "u": "https://taz.de/Gewalt-gegen-Menschen-mit-Behinderung/!6212018/",
+   "q": "taz",
+   "d": "2026-09-15T09:36:00+00:00"
+  },
+  {
+   "t": "Gewalt gegen Menschen mit Behinderung: Täter gesteht, Verfahren eingestellt",
+   "s": "Die Angestellte einer Werkstatt für Menschen mit Behinderung wird von ihrem Vorgesetzten belästigt. Sechs Jahre vergehen bis zur Gerichtsverhandlung.",
+   "u": "https://taz.de/Gewalt-gegen-Menschen-mit-Behinderung/!6212018/",
+   "q": "taz",
+   "d": "2026-09-15T09:36:00+00:00"
+  },
   {
    "t": "Bettelverbot in deutschen Städten: Weit im Abseits",
    "s": "Immer mehr Städte erlassen Bettelverbote. In Dortmund dürfen Menschen mit einem Becher nicht mal still vor Restaurants sitzen. Löst das die Probleme?",
@@ -53,7 +116,7 @@
   },
   {
    "t": "Wirtschaftsexperte: Der Ölverbrauch muss sinken",
-   "s": "Wegen des Iran-Kriegs wird das Öl auf dem Weltmarkt knapp und die Energiepreise steigen. Eine Entspannung ist nicht in Sicht. Ökonom Klaus-Jürgen Gern plädiert dafür, den Ölverbrauch zu senken, statt den Ölkonsum mit Steuergeld zu subventionieren.Buschert, Fanny; Zimmermann, Jan",
+   "s": "Wegen des Irankriegs wird das Öl auf dem Weltmarkt knapp und die Energiepreise steigen. Eine Entspannung ist nicht in Sicht. Ökonom Klaus-Jürgen Gern plädiert dafür, den Ölverbrauch zu senken, statt den Ölkonsum mit Steuergeld zu subventionieren.Buschert, Fanny; Zimmermann, Jan",
    "u": "https://www.deutschlandfunk.de/hohe-sprit-und-oelpreise-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-14T21:10:00+00:00"
@@ -106,69 +169,6 @@
    "u": "https://taz.de/Parlamentswahl-in-Schweden/!6213042/",
    "q": "taz",
    "d": "2026-09-14T18:00:00+00:00"
-  },
-  {
-   "t": "Themen statt Köpfe - Im Berliner Wahlkampf zählen die Inhalte",
-   "s": "Bei der Wahl des Berliner Abgeordnetenhauses bestimmen Themen wie Wohnen, Sicherheit und Müllprobleme die Debatten, nicht einzelne Personen. Auch deshalb ist der Wahlkampf in der Hauptstadt anders als die anderen Landtagswahlkämpfe in diesem Herbst.van Laak, Claudia",
-   "u": "https://www.deutschlandfunk.de/themen-statt-koepfe-im-berliner-wahlkampf-zaehlen-die-inhalte-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-14T16:40:00+00:00"
-  },
-  {
-   "t": "AfD verpasst Streamer Maulkorb: Warum das Pöbelverbot für „Aktivist Mann“ fadenscheinig ist",
-   "s": "Die AfD-Spitze hat einem rechtsextremen Streamer verboten, Jour­na­lis­t*in­nen bei AfD-Veranstaltungen zu belästigen. Eine taktische Distanzierung.",
-   "u": "https://taz.de/AfD-verpasst-Streamer-Maulkorb/!6213200/",
-   "q": "taz",
-   "d": "2026-09-14T16:26:00+00:00"
-  },
-  {
-   "t": "Israelische Besatzungspolitik: Die fünf Säulen der Übernahme des Westjordanlands",
-   "s": "Die Organisation B’tselem beschuldigt Israel, Pa­läs­ti­nen­se­r:in­nen das Leben in dem besetzten Gebiet unmöglich zu machen. Das sei ein „politisches Projekt“.",
-   "u": "https://taz.de/Israelische-Besatzungspolitik/!6213030/",
-   "q": "taz",
-   "d": "2026-09-14T15:51:00+00:00"
-  },
-  {
-   "t": "Kolumbien liberalisiert Waffenrecht: Der bewaffnete „Gute“ und die Sorge vor mehr Selbstjustiz",
-   "s": "Der ultrarechte Präsident Kolumbiens de la Espriella lockert das Waffenrecht. Die Rechte im Parlament feiert, die Opposition kündigt Klagen an.",
-   "u": "https://taz.de/Kolumbien-verschaerft-Waffenrecht/!6212841/",
-   "q": "taz",
-   "d": "2026-09-14T15:50:00+00:00"
-  },
-  {
-   "t": "Repressionen im Iran: Auf der Welle des Krieges reiten",
-   "s": "Im Konflikt zwischen Iran und den USA gibt es weiter keine Lösung – das iranische Regime geht derweil repressiver gegen Re­gime­kri­ti­ke­r:in­nen vor.",
-   "u": "https://taz.de/Repressionen-im-Iran/!6213102/",
-   "q": "taz",
-   "d": "2026-09-14T15:46:00+00:00"
-  },
-  {
-   "t": "Antirassimus in Mecklenburg-Vorpommern: „Denkt an die Kommunen“",
-   "s": "Aman Anosh will junge migrantische Menschen in Mecklenburg-Vorpommern stärken – und trotz erstarkender Rechtsextremisten im Bundesland halten.",
-   "u": "https://taz.de/Antirassimus-in-Mecklenburg-Vorpommern/!6211202/",
-   "q": "taz",
-   "d": "2026-09-14T15:38:00+00:00"
-  },
-  {
-   "t": "Präsidentschaftswahl in Frankreich: Le Pen startet durch, aber einer schmollt",
-   "s": "In Frankreich startet die Rechtspopulistin Marine Le Pen den Wahlkampf. Die Stimmung in ihrer Partei ist ungetrübt – zumindest fast.",
-   "u": "https://taz.de/Praesidentschaftswahl-in-Frankreich/!6213031/",
-   "q": "taz",
-   "d": "2026-09-14T15:15:00+00:00"
-  },
-  {
-   "t": "Wie gefährlich sind KI-Agenten?",
-   "s": "KI-Unternehmen warnen vor ihren eigenen Produkten. Manche Entwickler*innen sehen in KI-Agenten eine der größten Bedrohungen der Menschheit. Wie gefährlich sind sie wirklich? Außerdem: Schwierige Regierungsbildung in Schweden.Stephanie Rohde",
-   "u": "https://www.deutschlandfunk.de/kuenstliche-intelligenz-gefahren-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-14T15:00:00+00:00"
-  },
-  {
-   "t": "Nordirland, Schottland und Wales: Ach wie schön wäre die Unabhängigkeit",
-   "s": "Die Parteichefs der Unabhängigkeitsparteien von Wales, Schottland und Nordirland sagen London den Kampf an. Premier Andy Burnham reagiert verhalten.",
-   "u": "https://taz.de/Nordirland-Schottland-und-Wales/!6213034/",
-   "q": "taz",
-   "d": "2026-09-14T14:47:00+00:00"
   }
  ]
 }

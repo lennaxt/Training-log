@@ -1,7 +1,35 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-15T08:42:01+00:00",
+ "updated": "2026-09-15T14:20:23+00:00",
  "items": [
+  {
+   "t": "Spritpreise: Was kann die Politik tun, um die Verbraucher zu entlasten?",
+   "s": "Tanken in Deutschland ist so teuer wie nie zuvor. Bundeskanzler Merz hat nun neue Entlastungen angekündigt. Aber wie könnten die aussehen - und welche Möglichkeiten gibt es überhaupt? Ein Überblick.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/spritpreise-politik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T14:04:58+00:00"
+  },
+  {
+   "t": "Zinserwartungen verfestigt: US-Rendite auf Niveau der Finanzkrise",
+   "s": "An den Finanzmärkten findet eine tiefgreifende Zinswende statt. US-Staatsanleihen rentieren auf dem Niveau der Finanzkrise von 2007. Das neue Zinsumfeld hat weitreichende Folgen. Von D. Landmesser.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/marktbericht-renditen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T12:04:01+00:00"
+  },
+  {
+   "t": "Apotheken sollen stärker zu medizinischen Dienstleistern werden",
+   "s": "Apotheken stecken mitten in einem großen Wandel. Ein neues Gesetz will sie stärker in die Patientenversorgung einbinden. Sie sollen \"Gesundheitslotsen\" werden und mehr Kompetenzen bekommen. Ist das die Zukunft? Von Jenni Rieger.",
+   "u": "https://www.tagesschau.de/wirtschaft/apotheken-apothekertag-linnemann-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T11:39:22+00:00"
+  },
+  {
+   "t": "Schwieriger Umstieg der Speditionen auf Elektro-Lkw",
+   "s": "Auf der IAA Transportation in Hannover stellt die Nutzfahrzeugbranche ihre neuen Modelle vor. Der Umstieg auf Elektro-Lkw ist für Speditionen ein aufwendiger und vor allem auch teurer Schritt. Von Michael Eiden.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/umstieg-e-lkw-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T10:34:53+00:00"
+  },
   {
    "t": "Gasreserven vor dem Winter: Wie Österreich vorsorgt",
    "s": "Deutschlands Gasspeicher waren zuletzt etwa zur Hälfte gefüllt - und die Sorge vor Engpässen im Winter wächst. In Österreich wirkt die Lage entspannter. Was macht das Nachbarland anders? Von Oliver Soos.",
@@ -15,13 +43,6 @@
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1649172.html",
    "q": "Tagesschau",
    "d": "2026-09-15T07:48:48+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX-Schwäche dürfte anhalten",
-   "s": "Die Lage im Nahen Osten bleibt angespannt, die Energiepreise steigen - genau wie die Inflationssorgen: Der DAX dürfte heute weiter zurückfallen. Langsam gerät die Marke von 25.000 Punkten wieder ins Blickfeld.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T05:52:53+00:00"
   },
   {
    "t": "Noch nie so viele Start-ups gegründet wie im ersten Halbjahr 2026",
@@ -148,27 +169,6 @@
    "u": "https://www.deutschlandfunkkultur.de/energiewende-electrotech-elektrifizierung-strom-geld-sparen-klimawandel-meinung-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-11T05:20:00+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 10.09.2026",
-   "s": "Wirtschaft vor acht vom 10.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1646946.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T18:27:31+00:00"
-  },
-  {
-   "t": "Emirate investieren 40 Milliarden Euro in Deutschland",
-   "s": "Deutschland und die Vereinigten Arabischen Emirate wollen ihre Beziehungen ausbauen. Der Golfstaat plant Investitionen von 40 Milliarden Euro. Zudem darf die Fluggesellschaft Emirates eine weitere deutsche Stadt anfliegen. Von Nicole Markwald.",
-   "u": "https://www.tagesschau.de/ausland/asien/vae-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T18:24:58+00:00"
-  },
-  {
-   "t": "USA gegen China - Mercedes-Benz droht, unter die Räder zu kommen",
-   "s": "Jahrzehntelang profitierten deutsche Autobauer vom Geschäft mit China. Nun könnte sich das aufgrund eines US-Gesetzes als Risiko erweisen. Vor allem für einen DAX-Konzern steht dabei viel auf dem Spiel.Von Steffen Wurzel",
-   "u": "https://www.deutschlandfunk.de/mercedes-usa-gesetz-china-verkaufsverbot-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-10T15:20:00+00:00"
   }
  ]
 }

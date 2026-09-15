@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-15T08:42:03+00:00",
+ "updated": "2026-09-15T14:20:25+00:00",
  "items": [
+  {
+   "t": "Korruption in der Ukraine: Ukrainisches Parlament entlässt Generalstaatsanwalt",
+   "s": "Wegen Korruptionsvorwürfen reichte der Generalstaatsanwalt den Rücktritt ein – und ging auf Dienstreise. Nun entbindet die Rada ihn von seinen Aufgaben.",
+   "u": "https://taz.de/Ukrainisches-Parlament-entlaesst-Generalstaatsanwalt/!6213401/",
+   "q": "taz",
+   "d": "2026-09-15T13:06:00+00:00"
+  },
   {
    "t": "+++ Nachrichten im Ukrainekrieg +++: Drohne über Litauen abgeschossen, EU vertagt Sanktionen",
    "s": "Nato-Kampfflugzeuge schießen eine Drohne im litauischen Luftraum ab. Derweil blockiert die Slowakei weiterhin eine Verlängerung der Russland-Sanktionen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Tagebuch-aus-Armenien/!6207623/",
    "q": "taz",
    "d": "2026-09-11T11:03:00+00:00"
-  },
-  {
-   "t": "Nachwahl in London: Camden calling",
-   "s": "Sagal Abdi-Wali will für Labour Keir Starmers früheren Wahlkreis gewinnen. Sie wäre die erste Frau mit somalischem Hintergrund im britischen Unterhaus.",
-   "u": "https://taz.de/Nachwahl-in-London/!6212170/",
-   "q": "taz",
-   "d": "2026-09-11T10:49:00+00:00"
   }
  ]
 }

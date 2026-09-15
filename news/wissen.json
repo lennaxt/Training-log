@@ -1,11 +1,18 @@
 {
  "name": "Wissen",
- "updated": "2026-09-15T08:42:02+00:00",
+ "updated": "2026-09-15T14:20:23+00:00",
  "items": [
+  {
+   "t": "Wie Forscher den Strombedarf von KI senken wollen",
+   "s": "Mehr KI bringt mehr Rechenzentren mit sich - und damit mehr Strombedarf? Deutsche Forscher werkeln an sparsamerer Künstlicher Intelligenz. Erste wertvolle Erkenntnisse liegen bereits vor. Von Judith Kösters.",
+   "u": "https://www.tagesschau.de/wissen/technologie/strombedarf-ki-rechenzentren-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T14:16:54+00:00"
+  },
   {
    "t": "Paul Ehrlich-Preis für australischen Immunforscher Goodnow",
    "s": "Der australische Immunologe Goodnow erhält den Paul Ehrlich- und Ludwig Darmstaedter-Preis 2027. Er zeigte, dass potenziell schädliche Immunzellen nicht zerstört, sondern als Reserve in eine Art Tiefschlaf versetzt werden. Von Nina Kunze.",
-   "u": "https://www.tagesschau.de/wissen/preis-immunforscher-100.html",
+   "u": "https://www.tagesschau.de/wissen/forschung/preis-immunforscher-100.html",
    "q": "Tagesschau",
    "d": "2026-09-15T08:01:07+00:00"
   },
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/wetter-klima-jahrhundertsommer-100.html",
    "q": "Tagesschau",
    "d": "2026-08-21T16:00:46+00:00"
-  },
-  {
-   "t": "Studie: Aufmerksamkeit kann Juckreiz lindern",
-   "s": "Juckreiz ist unangenehm und lästig. Viele versuchen sich daher abzulenken - wie etwa nach einem Mückenstich. Was aber passiert, wenn man das Gegenteil macht? Eine neue Studie liefert Antworten. Von Julia Nestlen.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/studie-aufmerksamkeit-juckreiz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-21T07:54:39+00:00"
   }
  ]
 }
