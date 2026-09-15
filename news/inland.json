@@ -1,7 +1,14 @@
 {
  "name": "Inland",
- "updated": "2026-09-15T19:01:00+00:00",
+ "updated": "2026-09-15T23:31:56+00:00",
  "items": [
+  {
+   "t": "Hohe Spritpreise: SPD-Fraktionsvize fordert Übergewinnsteuer",
+   "s": "Mehr Druck auf Mineralölkonzerne und zielgerichtete Maßnahmen: SPD-Fraktionsvize Zorn verspricht neue Vorschläge der Sprit-Taskforce \"in den nächsten Tagen\". Angesichts der hohen Spritpreise seien staatliche Eingriffe nötig.",
+   "u": "https://www.tagesschau.de/inland/sprit-taskforce-bundesregierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T19:17:52+00:00"
+  },
   {
    "t": "Bundeskanzler Merz sagt Reise zur UN-Generaldebatte ab",
    "s": "Der \"Außenkanzler\" Merz steht unter Druck - innenpolitisch. Das Wahlergebnis in Sachsen-Anhalt setzt ihm zu - und die nächsten Wahlen stehen bevor. Nun sagt der CDU-Chef eine Reise zu den Vereinten Nationen ab: Er werde in Berlin gebraucht.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Ukrainisches-Parlament-entlaesst-Generalstaatsanwalt/!6213401/",
    "q": "taz",
    "d": "2026-09-15T13:06:00+00:00"
-  },
-  {
-   "t": "Gewalt unter Eritreern in Deutschland: Regierungsgegner unter Terrorverdacht festgenommen",
-   "s": "Bei regierungsnahen Eritrea-Veranstaltungen kam es in Deutschland mehrfach zu Gewalt. Die Bundesanwaltschaft sieht eine Terrorgruppe dahinter.",
-   "u": "https://taz.de/Mutmassliche-Mitglieder-von-Eritrea-Terrorgruppe-festgenommen/!6213346/",
-   "q": "taz",
-   "d": "2026-09-15T11:32:00+00:00"
   }
  ]
 }

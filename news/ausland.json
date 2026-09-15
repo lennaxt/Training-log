@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-15T19:01:03+00:00",
+ "updated": "2026-09-15T23:31:57+00:00",
  "items": [
+  {
+   "t": "Russland und Dänemark beschuldigen sich nach Leuchtraketen-Beschuss",
+   "s": "Eine russische Fregatte hat einen dänischen Helikopter auf der Ostsee mit Leuchtmunition beschossen. Dänemark und die EU kritisierten den Vorfall scharf. Russlands Botschafter in Kopenhagen warf Dänemark Provokation vor. Von C. Stichler.",
+   "u": "https://www.tagesschau.de/ausland/europa/daenemark-russland-fregatte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T23:13:56+00:00"
+  },
+  {
+   "t": "Humanitäre Not im Jemen wächst durch Vormarsch der Huthi",
+   "s": "Die Huthi-Miliz blockiert im Jemen eine der wichtigsten Meerengen der Welt. Doch abseits der Schlagzeilen zu Öl und Handel leiden Zehntausende Menschen. Sie sind der Gewalt schutzlos ausgeliefert. Von Anna Osius.",
+   "u": "https://www.tagesschau.de/ausland/asien/humanitaere-not-jemen-huthi-vormarsch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T19:30:53+00:00"
+  },
   {
    "t": "Russland gegen die Ukraine: \"Übergang zu einem Vernichtungskrieg\"",
    "s": "Russlands Strategie hat sich von einem Abnutzungs- zu einem Vernichtungskrieg in der Ukraine gewandelt, sagt Politologe Heinemann-Grüder. Sollte der Westen die Unterstützung der Ukraine weiter drosseln, hätte das gefährliche Konsequenzen für Europa.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-110.html",
    "q": "Tagesschau",
    "d": "2026-09-14T05:49:34+00:00"
-  },
-  {
-   "t": "Wahl in Schweden: Sozialdemokraten vorn - aber reicht es zur Macht?",
-   "s": "Bei der Parlamentswahl in Schweden sind die Sozialdemokraten von Ex-Regierungschefin Andersson stärkste Kraft geworden. Ob das Mitte-Links-Lager eine Regierung bilden kann, ist aber offen - noch läuft die Auszählung.",
-   "u": "https://www.tagesschau.de/ausland/europa/schweden-wahl-142.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T02:01:04+00:00"
-  },
-  {
-   "t": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck",
-   "s": "Nach dem Huthi-Vormarsch und dem Angriff auf eine Pipeline wächst der Druck auf Saudi-Arabien - denn nach der Straße von Hormus ist nun auch die Ausweichroute für Ölexporte vorerst nicht nutzbar. Von den USA kommt keine Hilfe. Von A. Osius.",
-   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-oelpreis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T15:56:14+00:00"
   }
  ]
 }
