@@ -1,7 +1,28 @@
 {
  "name": "Kultur",
- "updated": "2026-09-15T14:20:26+00:00",
+ "updated": "2026-09-15T19:01:09+00:00",
  "items": [
+  {
+   "t": "Pentagon-Bericht zum Irankrieg: Kosten von mindestens 33 Milliarden US-Dollar",
+   "s": "Ein Bericht des US-Verteidigungsministeriums legt Auswirkungen des Krieges in Iran offen. Er widerspricht Aussagen von US-Präsident Donald Trump.",
+   "u": "https://taz.de/Pentagon-Bericht-zum-Irankrieg/!6213308/",
+   "q": "taz",
+   "d": "2026-09-15T17:50:00+00:00"
+  },
+  {
+   "t": "Urteil mit Symbolcharakter in Guatemala: Freiheit für indigene Aktivisten",
+   "s": "16 Monate saßen zwei von vier Aktivisten in Guatemala in Untersuchungshaft. Nun sind alle vier frei. Ihr Fall könnte wegweisend für politische Gefangene sein.",
+   "u": "https://taz.de/Urteil-mit-Symbolcharakter-in-Guatemala/!6213322/",
+   "q": "taz",
+   "d": "2026-09-15T16:39:00+00:00"
+  },
+  {
+   "t": "Ankündigung der Trump-Regierung: USA bestätigen erstmals Waffen im Weltall",
+   "s": "Weltraumwaffen waren lange Science-Fiction-Elemente. Doch diese Zeiten scheinen vorbei. Der Erdorbit könnte zum Kriegsschauplatz werden.",
+   "u": "https://taz.de/Ankuendigung-der-Trump-Regierung/!6213434/",
+   "q": "taz",
+   "d": "2026-09-15T16:08:00+00:00"
+  },
   {
    "t": "Wahlkampf in den USA: US-Gericht lehnt Trumps Briefwahl-Einschränkung ab",
    "s": "Der Oberste Gerichtshof hat den Eilantrag des US-Präsidenten zurückgewiesen. Bürgerrechtler sahen darin Einflussnahme und begrüßen die Entscheidung.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Super-El-Nino-erwartet/!6204404/",
    "q": "taz",
    "d": "2026-09-03T13:01:00+00:00"
-  },
-  {
-   "t": "Konferenz in Argentinien: Netzwerktreffen für Lateinamerikas Libertäre und Rechte",
-   "s": "Auf dem ganzen Kontinent wächst ein Netzwerk libertärer und konservativer Denkfabriken. In Argentinien diskutieren sie nun politische Reformen.",
-   "u": "https://taz.de/Konferenz-in-Argentinien/!6209754/",
-   "q": "taz",
-   "d": "2026-09-03T10:11:00+00:00"
-  },
-  {
-   "t": "Attentat auf Charlie Kirk: Tyler Robinson droht die Todesstrafe",
-   "s": "Der Mann, der mutmaßlich den rechten US-Influencer Charlie Kirk erschossen hat, muss sich vor Gericht verantworten. Ihm droht die Hinrichtung.",
-   "u": "https://taz.de/Attentat-auf-Charlie-Kirk/!6209474/",
-   "q": "taz",
-   "d": "2026-09-02T16:12:00+00:00"
-  },
-  {
-   "t": "Straße von Hormus: Die USA nehmen Angriffe gegen Iran wieder auf",
-   "s": "Die USA greifen Ziele im Iran an, Teheran antwortet mit Raketen. Vor den Kongresswahlen bleibt den Republikanern wenig Zeit, um die Ausgangslage zu bessern.",
-   "u": "https://taz.de/Strasse-von-Hormus/!6208775/",
-   "q": "taz",
-   "d": "2026-08-31T14:22:00+00:00"
   }
  ]
 }

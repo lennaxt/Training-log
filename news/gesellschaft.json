@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-15T14:20:25+00:00",
+ "updated": "2026-09-15T19:01:08+00:00",
  "items": [
+  {
+   "t": "Krieg in der Ukraine: „Ihr macht uns keine Angst!“",
+   "s": "Die Millionenstadt Dipro im Südosten der Ukraine ist immer wieder Ziel russischer Luftangriffe. Doch Moskaus Zermürbungstaktik geht nicht auf.",
+   "u": "https://taz.de/Krieg-in-der-Ukraine/!6212635/",
+   "q": "taz",
+   "d": "2026-09-15T17:48:00+00:00"
+  },
+  {
+   "t": "Schule in der Ukraine: Schulstart in Irpin mit KI und Schutzraum",
+   "s": "An dem technologisch ausgerichteten Lyzeum bei Kyjiw beginnt das vierte Schuljahr im Krieg. Durch die Luftangriffe hat sich das Lernen digital versiert.",
+   "u": "https://taz.de/Schule-in-der-Ukraine/!6213130/",
+   "q": "taz",
+   "d": "2026-09-15T17:47:00+00:00"
+  },
+  {
+   "t": "Streit über Oligarchen: Frankreich und Slowakei blockieren Russland-Sanktionen",
+   "s": "Die Europäische Union ringt um eine langfristige Lösung, wie der Kreml bestraft werden könnte. Dabei steht ein usbekischer Oligarch im Fokus.",
+   "u": "https://taz.de/Streit-ueber-Oligarchen/!6213457/",
+   "q": "taz",
+   "d": "2026-09-15T15:22:00+00:00"
+  },
   {
    "t": "Korruption in der Ukraine: Ukrainisches Parlament entlässt Generalstaatsanwalt",
    "s": "Wegen Korruptionsvorwürfen reichte der Generalstaatsanwalt den Rücktritt ein – und ging auf Dienstreise. Nun entbindet die Rada ihn von seinen Aufgaben.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Reform-UK-in-Grossbritannien/!6212673/",
    "q": "taz",
    "d": "2026-09-12T10:22:00+00:00"
-  },
-  {
-   "t": "Urteil über Enkel-Gesetz: Hunderttausende Spanier verlieren Wahlrecht",
-   "s": "Sie haben den spanischen Pass, aber dürfen nicht wählen. Tausende Menschen, vor allem in Lateinamerika, sind von der Gerichtsentscheidung betroffen.",
-   "u": "https://taz.de/Urteil-ueber-Enkel-Gesetz/!6212364/",
-   "q": "taz",
-   "d": "2026-09-11T12:26:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Russland greift Tankstellen in Kyjiw an",
-   "s": "Die russischen Drohnenangriffe auf die Ukraine gehen weiter, die wiederum attackiert Ziele in Russland. Kanada will Kyjiw bei der Drohnenproduktion helfen.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6212529/",
-   "q": "taz",
-   "d": "2026-09-11T11:24:00+00:00"
-  },
-  {
-   "t": "Tagebuch aus Armenien: Nach der Flucht kommt das große Spiel",
-   "s": "In Armenien haben sich Migranten aus Russland zusammengetan, um der Gesellschaft zu helfen. Sie kümmern sich um den Spielplatzbau.",
-   "u": "https://taz.de/Tagebuch-aus-Armenien/!6207623/",
-   "q": "taz",
-   "d": "2026-09-11T11:03:00+00:00"
   }
  ]
 }

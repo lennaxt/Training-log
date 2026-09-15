@@ -1,20 +1,41 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-15T14:20:23+00:00",
+ "updated": "2026-09-15T19:01:05+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 15.09.2026",
+   "s": "Wirtschaft vor acht vom 15.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1649614.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T18:42:18+00:00"
+  },
+  {
+   "t": "Reederei-Verband: \"Wir sind Krisen und Kriege gewohnt\"",
+   "s": "Siebenstellige Mehrkosten verursacht die Umrundung Afrikas. Am Ende bezahlen das die Kunden. Doch die Preiserhöhungen liegen im Cent-Bereich, sagt Reederei-Experte Kröger. Er blickt gelassen auf die Lage: Schiffe fänden fast immer einen Weg.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T17:05:36+00:00"
+  },
+  {
+   "t": "Wie blockierte Seewege den weltweiten Handel gefährden",
+   "s": "Die Huthi-Miliz blockiert die Meerenge von Bab al-Mandab - und damit die kürzeste Route von Asien nach Europa. Das bedeutet teure Umwege. Wie gefährdet sind Schifffahrtsrouten und globale Lieferketten? Von Marcus Pfeiffer.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T16:56:26+00:00"
+  },
+  {
+   "t": "Marktbericht: Krisensignale häufen sich",
+   "s": "Seit Tagen steigen die Ölpreise, was die Finanzmärkte zunehmend nervös macht. Während sich der DAX noch recht gut hielt, ging der Ausverkauf am Anleihemarkt weiter.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T16:20:10+00:00"
+  },
   {
    "t": "Spritpreise: Was kann die Politik tun, um die Verbraucher zu entlasten?",
    "s": "Tanken in Deutschland ist so teuer wie nie zuvor. Bundeskanzler Merz hat nun neue Entlastungen angekündigt. Aber wie könnten die aussehen - und welche Möglichkeiten gibt es überhaupt? Ein Überblick.",
    "u": "https://www.tagesschau.de/wirtschaft/energie/spritpreise-politik-100.html",
    "q": "Tagesschau",
    "d": "2026-09-15T14:04:58+00:00"
-  },
-  {
-   "t": "Zinserwartungen verfestigt: US-Rendite auf Niveau der Finanzkrise",
-   "s": "An den Finanzmärkten findet eine tiefgreifende Zinswende statt. US-Staatsanleihen rentieren auf dem Niveau der Finanzkrise von 2007. Das neue Zinsumfeld hat weitreichende Folgen. Von D. Landmesser.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/marktbericht-renditen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T12:04:01+00:00"
   },
   {
    "t": "Apotheken sollen stärker zu medizinischen Dienstleistern werden",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bargeld-cash-bezahlen-einkaufen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-11T11:14:28+00:00"
-  },
-  {
-   "t": "Elektromobilität: Baut Deutschland die falschen Ladesäulen?",
-   "s": "Der Erfolg der E-Mobilität hängt nicht nur von den Fahrzeugen, sondern auch von der Ladeinfrastruktur ab. Je mehr Ladesäulen, desto besser - das war lange die Devise. Doch stimmt das noch? Von Thomas Eckert.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/elektro-autos-laden-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T11:13:36+00:00"
-  },
-  {
-   "t": "Kritik an Wegfall der Info-Pflicht bei höheren Krankenkassenbeiträgen",
-   "s": "Wird die Krankenkasse teurer, muss sie ihren Mitgliedern das nicht mehr aktiv mitteilen. Die Info-Pflicht wurde gestrichen. \"Ein Unding\", kritisieren Verbraucherschützer. Die Bundesregierung müsse diesen Fehler korrigieren.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/verbraucherzentralen-erhoehung-krankenkassenbeitraege-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T08:43:10+00:00"
-  },
-  {
-   "t": "Kommentar - Wer auf Strom setzt, spart künftig viel Geld",
-   "s": "Die Zukunft gehört der Elektrifizierung. Doch die Stromrevolution verläuft noch immer zu langsam, um die Klimakrise zu bremsen.Überlegungen von Christian Stöcker",
-   "u": "https://www.deutschlandfunkkultur.de/energiewende-electrotech-elektrifizierung-strom-geld-sparen-klimawandel-meinung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-11T05:20:00+00:00"
   }
  ]
 }

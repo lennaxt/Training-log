@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-15T14:20:22+00:00",
+ "updated": "2026-09-15T19:01:03+00:00",
  "items": [
+  {
+   "t": "Russland gegen die Ukraine: \"Übergang zu einem Vernichtungskrieg\"",
+   "s": "Russlands Strategie hat sich von einem Abnutzungs- zu einem Vernichtungskrieg in der Ukraine gewandelt, sagt Politologe Heinemann-Grüder. Sollte der Westen die Unterstützung der Ukraine weiter drosseln, hätte das gefährliche Konsequenzen für Europa.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-unterstuetzung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T15:03:57+00:00"
+  },
+  {
+   "t": "Supreme Court: Niederlage für Trump im Streit über Briefwahl",
+   "s": "Noch vor den Zwischenwahlen im November wollte die US-Regierung verschärfte Briefwahlregeln durchsetzen - doch damit ist sie jetzt vor dem Supreme Court gescheitert. Die Demokraten sind erleichtert, Präsident Trump ist wütend.",
+   "u": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T14:52:07+00:00"
+  },
   {
    "t": "Bericht zum Iran-Krieg: US-Armee leidet unter Munitionsknappheit",
    "s": "Präsident Trump behauptet immer wieder, dass die USA über \"praktisch unbegrenzt\" Munition verfügen - trotz des Iran-Kriegs. Ein Bericht an den Kongress widerspricht und listet genau Kosten und Schäden des Krieges auf.",
@@ -50,13 +64,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/drohne-litauen-102.html",
    "q": "Tagesschau",
    "d": "2026-09-15T05:15:19+00:00"
-  },
-  {
-   "t": "Supreme Court: Niederlage für Trump im Streit über Briefwahl",
-   "s": "Noch vor den Zwischenwahlen im November wollte die US-Regierung verschärfte Briefwahlregeln durchsetzen - doch damit ist sie jetzt vor dem Supreme Court gescheitert. Bei den Demokraten sorgt die Entscheidung für Erleichterung.",
-   "u": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T04:52:00+00:00"
   },
   {
    "t": "US-Regierung hebt Klimaregeln für Kraftwerke auf",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-oelpreis-100.html",
    "q": "Tagesschau",
    "d": "2026-09-13T15:56:14+00:00"
-  },
-  {
-   "t": "Ukraine: Russische Drohne trifft Passagierzug nach Warschau",
-   "s": "In der Ukraine ist ein Passagierzug von Kiew nach Warschau von einer russischen Drohne attackiert worden. Verletzt wurde dabei niemand. Auch eine Tankstelle in der Grenzregion zu Polen wurde getroffen.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-nahe-polnischer-grenze-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T15:08:51+00:00"
   }
  ]
 }
