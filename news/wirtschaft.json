@@ -1,7 +1,35 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-14T23:52:40+00:00",
+ "updated": "2026-09-15T08:42:01+00:00",
  "items": [
+  {
+   "t": "Gasreserven vor dem Winter: Wie Österreich vorsorgt",
+   "s": "Deutschlands Gasspeicher waren zuletzt etwa zur Hälfte gefüllt - und die Sorge vor Engpässen im Winter wächst. In Österreich wirkt die Lage entspannter. Was macht das Nachbarland anders? Von Oliver Soos.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-oesterreich-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T08:17:51+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 15.09.2026",
+   "s": "Update Wirtschaft vom 15.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1649172.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T07:48:48+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX-Schwäche dürfte anhalten",
+   "s": "Die Lage im Nahen Osten bleibt angespannt, die Energiepreise steigen - genau wie die Inflationssorgen: Der DAX dürfte heute weiter zurückfallen. Langsam gerät die Marke von 25.000 Punkten wieder ins Blickfeld.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T05:52:53+00:00"
+  },
+  {
+   "t": "Noch nie so viele Start-ups gegründet wie im ersten Halbjahr 2026",
+   "s": "Noch nie wurden so viele Unternehmen mit innovativen Geschäftsideen gegründet - vor allem dank Künstlicher Intelligenz. Die Start-up-Szene blickt optimistisch in die Zukunft. Von Steffen Clement.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/startup-boom-gruendung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T04:43:29+00:00"
+  },
   {
    "t": "Klingbeil stellt Bedingungen für Commerzbank-Übernahme",
    "s": "Die Übernahme der Commerzbank durch die italienische UniCredit ist kaum noch abzuwenden - trotz aller bisherigen Widerstände, auch aus der Bundesregierung. Nun versucht Finanzminister Klingbeil, rote Linien zu ziehen.",
@@ -15,13 +43,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/technologie/diskussion-ki-regulierung-faq-100.html",
    "q": "Tagesschau",
    "d": "2026-09-14T18:20:40+00:00"
-  },
-  {
-   "t": "Marktbericht: KI- und Zinssorgen bremsen DAX",
-   "s": "Ein ganzer Mix ungünstiger Nachrichten hat den Start in die neue Woche belastet. Der DAX konnte seine Verluste allerdings im Verlauf eingrenzen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T16:21:36+00:00"
   },
   {
    "t": "Tankstellenverband erwartet Spritpreise um die drei Euro",
@@ -50,13 +71,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-ai-kritik-100.html",
    "q": "Tagesschau",
    "d": "2026-09-14T08:43:06+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 14.09.2026",
-   "s": "Update Wirtschaft vom 14.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1648554.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T08:23:31+00:00"
   },
   {
    "t": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck",
@@ -155,20 +169,6 @@
    "u": "https://www.deutschlandfunk.de/mercedes-usa-gesetz-china-verkaufsverbot-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-10T15:20:00+00:00"
-  },
-  {
-   "t": "EZB erhöht erneut den Leitzins - auf 2,5 Prozent",
-   "s": "Die Teuerungsrate in der Eurozone ist zuletzt über die Drei-Prozent-Marke geklettert. Um die Inflation abzuschwächen, hat die Europäische Zentralbank nun erneut den Leitzins angehoben.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-sitzung-leitzins-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T13:44:42+00:00"
-  },
-  {
-   "t": "Höhere Zinsen - die Auswirkungen für Verbraucher und die Wirtschaft",
-   "s": "Zum zweiten Mal in diesem Jahr heben Europas Währungshüter den Leitzins an. Was bedeutet das für Verbraucher und Firmen? Wie könnte es in der Geldpolitik weitergehen? Fragen und Antworten. Von Klaus-Rainer Jackisch.",
-   "u": "https://www.tagesschau.de/ezb-zinsen-114.html",
-   "q": "Tagesschau",
-   "d": "2026-09-10T12:16:55+00:00"
   }
  ]
 }

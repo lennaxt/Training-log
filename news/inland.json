@@ -1,7 +1,63 @@
 {
  "name": "Inland",
- "updated": "2026-09-14T23:52:39+00:00",
+ "updated": "2026-09-15T08:42:00+00:00",
  "items": [
+  {
+   "t": "Bettelverbot in deutschen Städten: Weit im Abseits",
+   "s": "Immer mehr Städte erlassen Bettelverbote. In Dortmund dürfen Menschen mit einem Becher nicht mal still vor Restaurants sitzen. Löst das die Probleme?",
+   "u": "https://taz.de/Bettelverbot-in-deutschen-Staedten/!6210291/",
+   "q": "taz",
+   "d": "2026-09-15T08:31:00+00:00"
+  },
+  {
+   "t": "Wahlkampf in den USA: US-Gericht lehnt Trumps Briefwahl-Einschränkung ab",
+   "s": "Der Oberste Gerichtshof hat den Eilantrag des US-Präsidenten zurückgewiesen. Bürgerrechtler sahen darin Einflussnahme und begrüßen die Entscheidung.",
+   "u": "https://taz.de/Wahlkampf-in-den-USA/!6213239/",
+   "q": "taz",
+   "d": "2026-09-15T07:57:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Drohne über Litauen abgeschossen, EU vertagt Sanktionen",
+   "s": "Nato-Kampfflugzeuge schießen eine Drohne im litauischen Luftraum ab. Derweil blockiert die Slowakei weiterhin eine Verlängerung der Russland-Sanktionen.",
+   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6213241/",
+   "q": "taz",
+   "d": "2026-09-15T07:54:00+00:00"
+  },
+  {
+   "t": "Krieg mit den Huthis: Mindestens ein Dutzend Verletzte in Saudi-Arabien",
+   "s": "Die von Iran unterstützte Huthi-Miliz greift im nördlichen Nachbarstaat an. Die Kämpfe zwischen jemenitischen Regierungstruppen und Huthis halten an.",
+   "u": "https://taz.de/Krieg-mit-den-Huthis/!6213233/",
+   "q": "taz",
+   "d": "2026-09-15T07:13:00+00:00"
+  },
+  {
+   "t": "CDU-Politiker: \"Wir müssen Menschen motivieren und nicht maßregeln\"",
+   "s": "Die CDU verliert an Zuspruch, es droht ein weiteres Wahldebakel. Heiko Strohmann von der CDU Bremen kritisiert Bundeskanzler Merz. Seine Sprache sei aus der Zeit gefallen, er sei der alten BRD verhaftet aber eher Symptom als Ursache der Probleme.Heinlein, Stefan",
+   "u": "https://www.deutschlandfunk.de/debatte-um-friedrich-merz-interview-heiko-strohmann-cdu-bremen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-15T06:11:38+00:00"
+  },
+  {
+   "t": "Mecklenburg-Vorpommern: Wahlkampf zwischen Euphorie und Entgeisterung",
+   "s": "Wohin steuert Mecklenburg-Vorpommern? Mit Blick auf die Umfragewerte ist der Nordosten politisch entzweit. Über Themen und Stimmungen, die diesen Wahlkampf prägen. Von Christoph Cyrulies.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-mecklenburg-vorpommern-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T05:53:49+00:00"
+  },
+  {
+   "t": "Honduras unter Präsident Asfura: Justiz im Dienste der Eliten",
+   "s": "Seit rund sechs Monaten ist Asfura Präsident von Honduras und seine Bilanz ist verheerend. Die Gewalt nimmt zu und es kehren korrupte Strukturen zurück.",
+   "u": "https://taz.de/Honduras-unter-Praesident-Asfura/!6212622/",
+   "q": "taz",
+   "d": "2026-09-15T05:30:00+00:00"
+  },
+  {
+   "t": "Wirtschaftsexperte: Der Ölverbrauch muss sinken",
+   "s": "Wegen des Iran-Kriegs wird das Öl auf dem Weltmarkt knapp und die Energiepreise steigen. Eine Entspannung ist nicht in Sicht. Ökonom Klaus-Jürgen Gern plädiert dafür, den Ölverbrauch zu senken, statt den Ölkonsum mit Steuergeld zu subventionieren.Buschert, Fanny; Zimmermann, Jan",
+   "u": "https://www.deutschlandfunk.de/hohe-sprit-und-oelpreise-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-14T21:10:00+00:00"
+  },
   {
    "t": "Carolin Amlinger über wehrhafte Poltik: „Wir brauchen eine soziale Erneuerung der Demokratie“",
    "s": "Natürlich müssen wir davon ausgehen, dass die AfD noch aufzuhalten ist, sagt die Soziologin Carolin Amlinger. Ein Gespräch über antifaschistische Politik.",
@@ -39,7 +95,7 @@
   },
   {
    "t": "Parlamentswahl in Schweden: Junge Schweden stoppen Populisten",
-   "s": "Der Wahlausgang in Schweden ist überraschend: Die Schwedendemokraten verlieren leicht, aber ein klarer Linksruck war es auch nicht. Immerhin.",
+   "s": "Nach der Wahl in Schweden ist vieles unklar, aber eins immerhin nicht: Die Schwedendemokraten verlieren an Zustimmung, zum ersten Mal überhaupt.",
    "u": "https://taz.de/Parlamentswahl-in-Schweden/!6208192/",
    "q": "taz",
    "d": "2026-09-14T18:01:00+00:00"
@@ -113,62 +169,6 @@
    "u": "https://taz.de/Nordirland-Schottland-und-Wales/!6213034/",
    "q": "taz",
    "d": "2026-09-14T14:47:00+00:00"
-  },
-  {
-   "t": "Vor Wahl in Mecklenburg-Vorpommern: Wo die anderen Urlaub machen",
-   "s": "Wirtschaftlich hängt in Mecklenburg-Vorpommern viel am Tourismus. Am Laufen gehalten wird er von Arbeitskräften aus dem Ausland.",
-   "u": "https://taz.de/Vor-Wahl-in-Mecklenburg-Vorpommern/!6208090/",
-   "q": "taz",
-   "d": "2026-09-14T14:09:00+00:00"
-  },
-  {
-   "t": "Konzert von Rechtsrocker Thompson: Wo der Kampf gegen den Faschismus endet",
-   "s": "Im Herbst will der kroatische Rechtsrocker Thompson in Frankfurt auftreten. Die dortige CDU windet sich um eine klare Haltung. Das hat seine Gründe.",
-   "u": "https://taz.de/Konzert-von-Rechtsrocker-Thompson/!6210652/",
-   "q": "taz",
-   "d": "2026-09-14T13:42:00+00:00"
-  },
-  {
-   "t": "Rückendeckung für Merz - aber die Debatte reißt nicht ab",
-   "s": "Der Bundeskanzler steht vor einer entscheidenden Woche. Nach dem Wahldebakel in Sachsen-Anhalt erhält Merz Rückendeckung in der Debatte um seine Person. Doch Kritik an den Reformen und am Umgang mit der AfD nehmen weiter Fahrt auf.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/cdu-merz-debatte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T12:51:10+00:00"
-  },
-  {
-   "t": "Arktis-Strategie der EU - Europas neuer Blick auf die Polarregion",
-   "s": "Neue Schifffahrtsrouten, Bodenschätze und Sicherheitspolitik: Unweit des Polarkreises berät Bundeskanzler Friedrich Merz (CDU) mit EU-Partnern über eine neue europäische Arktis-Strategie. Es gilt, die eigenen Interessen zu verteidigen.",
-   "u": "https://www.deutschlandfunk.de/arktis-strategie-eu-sicherheit-rohstoffe-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-14T12:18:00+00:00"
-  },
-  {
-   "t": "Geheimdienstreform: „Wirkungsvoller als die Kontrolle eines Gerichts“",
-   "s": "Die Bundesregierung schwäche die Kontrolle der deutschen Geheimdienste, sagen Kritiker. Josef Hoch ist Präsident des Unabhängigen Kontrollrats und widerspricht.",
-   "u": "https://taz.de/Geheimdienstreform/!6212502/",
-   "q": "taz",
-   "d": "2026-09-14T12:08:00+00:00"
-  },
-  {
-   "t": "Kontrollen an deutschen Landesgrenzen: Rechtswidrig, aber Dobrindt macht trotzdem weiter",
-   "s": "Alle Gerichtsurteile zu den Kontrollen an den deutschen Landesgrenzen werten die derzeitige Praxis als rechtswidrig. Das musste das Innenministerium jetzt eingestehen.",
-   "u": "https://taz.de/Kontrollen-an-deutschen-Landesgrenzen/!6212988/",
-   "q": "taz",
-   "d": "2026-09-14T12:03:00+00:00"
-  },
-  {
-   "t": "Bundesanwaltschaft: Anklage gegen mutmaßliche Russland-Spionin",
-   "s": "Sie soll ein pro-russisches Netzwerk in Berlin aufgebaut und Informationen zur deutschen Verteidigungspolitik an den Kreml geliefert haben: Jetzt hat die Bundesanwaltschaft Anklage gegen die mutmaßliche Spionin Russlands erhoben.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/anklage-spionin-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T11:03:53+00:00"
-  },
-  {
-   "t": "Berlin-Wahl: Wie Stefan Evers zum CDU-Spitzenkandidaten wurde",
-   "s": "Jahrelang zog Stefan Evers eher im Hintergrund die Fäden. Jetzt steht der bisherige Finanzsenator erstmals selbst an der Spitze eines CDU-Wahlkampfs - die größte Bewährungsprobe seiner Karriere. Von Andre Kartschall.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-evers-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T10:22:07+00:00"
   }
  ]
 }

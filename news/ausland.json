@@ -1,7 +1,42 @@
 {
  "name": "Ausland",
- "updated": "2026-09-14T23:52:39+00:00",
+ "updated": "2026-09-15T08:42:00+00:00",
  "items": [
+  {
+   "t": "Unter Wasser mit ukrainischen Kampftauchern",
+   "s": "Kampftaucher einer ukrainischen Spezialeinheit trainieren für Einsätze an feindlichen Küsten. Doch Drohnen haben ihre Arbeit grundlegend verändert. Ein Besuch bei einer Einheit im Süden der Ukraine. Von Susanne Petersohn.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-spezialeinheit-taucher-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T08:36:43+00:00"
+  },
+  {
+   "t": "Verlängerung von EU-Sanktionen gegen Russland vorerst blockiert",
+   "s": "Die EU wird ihre Strafmaßnahmen gegen rund 3.000 russische Personen und Einrichtungen vorerst nicht wie geplant um ein Jahr verlängern. Grund: Die Slowakei und Frankreich wollen offenbar einen Oligarchen von der Sanktionsliste streichen.",
+   "u": "https://www.tagesschau.de/ausland/eu-russland-sanktionen-slowakei-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T05:24:12+00:00"
+  },
+  {
+   "t": "Litauen: NATO-Kampfjets schießen Drohne ab",
+   "s": "Kampfjets der NATO haben eine Drohne abgeschossen, die in den litauischen Luftraum eingedrungen war. Angaben zur Herkunft der Drohne gibt es bisher nicht. Litauens Präsident Nauseda dankte der NATO.",
+   "u": "https://www.tagesschau.de/ausland/europa/drohne-litauen-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T05:15:19+00:00"
+  },
+  {
+   "t": "Supreme Court: Niederlage für Trump im Streit um Briefwahl",
+   "s": "Noch vor den Zwischenwahlen im November wollte die US-Regierung verschärfte Briefwahlregeln durchsetzen - doch damit ist sie jetzt vor dem Supreme Court gescheitert. Bei den Demokraten sorgt die Entscheidung für Erleichterung.",
+   "u": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T04:52:00+00:00"
+  },
+  {
+   "t": "US-Regierung hebt Klimaregeln für Kraftwerke auf",
+   "s": "Es ist ein weiterer Schritt der Trump-Regierung, Umweltauflagen abzuschaffen: Die US-Umweltbehörde nimmt Regeln zurück, die den Treibhausgasausstoß für Kohle- und Gaskraftwerke begrenzen. Umweltschützer wollen klagen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-emissionsvorschriften-kraftwerke-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T01:19:00+00:00"
+  },
   {
    "t": "Israel: Aufgeladene Debatte über Gaza-Doku \"Naza\"",
    "s": "Die Doku \"Naza\" über den israelischen Gaza-Einsatz ist bei den Filmfestspielen in Venedig mit Standing Ovations bedacht worden. In Israel dagegen sind die Filmemacher massiver Kritik und einer Drohung des Kulturministers ausgesetzt. Von B. Meier.",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/afrika/kenia-gangs-100.html",
    "q": "Tagesschau",
    "d": "2026-09-13T10:24:51+00:00"
-  },
-  {
-   "t": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
-   "s": "In Schweden wird heute ein neues Parlament gewählt. Der Ausgang ist offen: In Umfragen führen die Sozialdemokraten, doch die rechtspopulistischen Schwedendemokraten könnten so viel Einfluss erhalten wie nie zuvor. Von J. Sinram.",
-   "u": "https://www.tagesschau.de/ausland/europa/schweden-wahl-130.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T04:57:05+00:00"
-  },
-  {
-   "t": "Ermittler sehen keine Hinweise auf Anschlag bei Zugunglück",
-   "s": "Bei der Entgleisung eines Zuges in der Normandie werden mehr als 40 Menschen verletzt. Hinweise auf einen Anschlag gibt es jedoch laut Staatsanwalt nicht - damit widerspricht er der Darstellung einiger Politiker.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-zugunglueck-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T02:44:07+00:00"
-  },
-  {
-   "t": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
-   "s": "US-Präsident Trump besucht Irland - und ein Golfturnier in seinem eigenem Golfclub. Ein kleines Dorf steht Kopf, viele demonstrieren gegen den Besuch - und dann wird plötzlich die Einheit Irlands zum Thema. Von Mareike Aden.",
-   "u": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T17:55:57+00:00"
-  },
-  {
-   "t": "Droht der nächste Ölpreis-Schock?",
-   "s": "Erst die Straße von Hormus, nun die Meerenge Bab al-Mandab und eine beschädigte Pipeline. Einer der größten Ölexporteur der Welt, Saudi-Arabien, hat eine Reihe von Problemen. Wie entwickelt sich der Ölpreis? Welche Folgen hat das für Deutschland?",
-   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-oel-exporte-angriffe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T17:31:20+00:00"
-  },
-  {
-   "t": "China fordert auf BRICS-Treffen in Neu-Delhi mehr Einsatz für Frieden",
-   "s": "Auf dem Treffen der BRICS-Länder in Neu-Delhi hat Chinas Präsident Xi mehr Einsatz der Schwellenländer für Frieden im Nahen Osten gefordert. Man müsse \"auf der richtigen Seite der Geschichte\" stehen, sagte er.",
-   "u": "https://www.tagesschau.de/ausland/brics-treffen-neu-delhi-china-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T13:07:48+00:00"
   }
  ]
 }

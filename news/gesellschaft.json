@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-14T23:52:42+00:00",
+ "updated": "2026-09-15T08:42:03+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Drohne über Litauen abgeschossen, EU vertagt Sanktionen",
+   "s": "Nato-Kampfflugzeuge schießen eine Drohne im litauischen Luftraum ab. Derweil blockiert die Slowakei weiterhin eine Verlängerung der Russland-Sanktionen.",
+   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6213241/",
+   "q": "taz",
+   "d": "2026-09-15T07:54:00+00:00"
+  },
   {
    "t": "Korruption in der Ukraine: Nach Diktat ganz plötzlich verreist",
    "s": "Der ukrainische Generalstaatsanwalt Krawtschenko tritt eine Dienstreise ins Ausland an. Am Dienstag soll das Parlament über seine Entlassung abstimmen.",
@@ -11,7 +18,7 @@
   },
   {
    "t": "Parlamentswahl in Schweden: Junge Schweden stoppen Populisten",
-   "s": "Der Wahlausgang in Schweden ist überraschend: Die Schwedendemokraten verlieren leicht, aber ein klarer Linksruck war es auch nicht. Immerhin.",
+   "s": "Nach der Wahl in Schweden ist vieles unklar, aber eins immerhin nicht: Die Schwedendemokraten verlieren an Zustimmung, zum ersten Mal überhaupt.",
    "u": "https://taz.de/Parlamentswahl-in-Schweden/!6208192/",
    "q": "taz",
    "d": "2026-09-14T18:01:00+00:00"
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Nachwahl-in-London/!6212170/",
    "q": "taz",
    "d": "2026-09-11T10:49:00+00:00"
-  },
-  {
-   "t": "Religion in Montenegro: Stoßgebete für Ratko Mladić",
-   "s": "Ein montenegrinischer Staatsanwalt ermittelt gegen einen Bischof der Serbisch-Orthodoxen Kirche. Er hatte dem Kriegsverbrecher Ratko Mladić gehuldigt.",
-   "u": "https://taz.de/Religion-in-Montenegro/!6212237/",
-   "q": "taz",
-   "d": "2026-09-10T15:56:00+00:00"
   }
  ]
 }

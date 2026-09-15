@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-09-14T23:52:43+00:00",
+ "updated": "2026-09-15T08:42:04+00:00",
  "items": [
+  {
+   "t": "Wahlkampf in den USA: US-Gericht lehnt Trumps Briefwahl-Einschränkung ab",
+   "s": "Der Oberste Gerichtshof hat den Eilantrag des US-Präsidenten zurückgewiesen. Bürgerrechtler sahen darin Einflussnahme und begrüßen die Entscheidung.",
+   "u": "https://taz.de/Wahlkampf-in-den-USA/!6213239/",
+   "q": "taz",
+   "d": "2026-09-15T07:57:00+00:00"
+  },
+  {
+   "t": "Honduras unter Präsident Asfura: Justiz im Dienste der Eliten",
+   "s": "Seit rund sechs Monaten ist Asfura Präsident von Honduras und seine Bilanz ist verheerend. Die Gewalt nimmt zu und es kehren korrupte Strukturen zurück.",
+   "u": "https://taz.de/Honduras-unter-Praesident-Asfura/!6212622/",
+   "q": "taz",
+   "d": "2026-09-15T05:30:00+00:00"
+  },
   {
    "t": "Kolumbien liberalisiert Waffenrecht: Der bewaffnete „Gute“ und die Sorge vor mehr Selbstjustiz",
    "s": "Der ultrarechte Präsident Kolumbiens de la Espriella lockert das Waffenrecht. Die Rechte im Parlament feiert, die Opposition kündigt Klagen an.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Strasse-von-Hormus/!6208775/",
    "q": "taz",
    "d": "2026-08-31T14:22:00+00:00"
-  },
-  {
-   "t": "Absturz eines Alt-Right-Stars: Maga schiebt sich ab",
-   "s": "Als rechter Blogger forderte Milo Yiannopoulos harte Abschiebungen. Nun fliegt er selbst aus den USA – zur Freude seiner Rivalen im Trump-Lager.",
-   "u": "https://taz.de/Absturz-eines-Alt-Right-Stars/!6208555/",
-   "q": "taz",
-   "d": "2026-08-30T15:24:00+00:00"
-  },
-  {
-   "t": "Deal zwischen USA und Venezuela: Trump kauft 65 Milliarden Barrel Öl",
-   "s": "Anfang des Jahres nahmen US-Spezialkräfte Venezuelas langjährigen Staatschef Nicolás Maduro fest. Nun soll es eine Vereinbarung über Ölvorkommen des Landes geben.",
-   "u": "https://taz.de/Deal-zwischen-USA-und-Venezuela/!6208461/",
-   "q": "taz",
-   "d": "2026-08-29T07:46:00+00:00"
   }
  ]
 }
