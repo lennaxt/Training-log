@@ -1,20 +1,48 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-16T08:37:17+00:00",
+ "updated": "2026-09-16T14:12:38+00:00",
  "items": [
+  {
+   "t": "US-Senat stoppt Gesetz - Kryptowährungen unter Druck",
+   "s": "Ein US-Gesetz zur Regulierung von Kryptowährungen ist im Senat gescheitert. Das ist eine Niederlage für Donald Trump und setzt die Kurse unter Druck. Der Bitcoin fällt zeitweise unter 75.000 Dollar.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/krypto-us-senat-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T12:37:06+00:00"
+  },
+  {
+   "t": "Kreditkarten-Schulden: Der Alltag der Amerikaner läuft auf Pump",
+   "s": "Nicht nur die Staatsschulden der USA sind enorm - auch viele Verbraucher sind angesichts hoher Lebenshaltungskosten im Minus. Viele jüngere Amerikaner haben hohe offene Kreditkarten-Rechnungen. Von Melanie Böff.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-kreditkarten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T11:36:53+00:00"
+  },
+  {
+   "t": "Warum der Dollar trotz höherer US-Zinsen schwach bleibt",
+   "s": "Die US-Notenbank steht vor der ersten Zinserhöhung seit 2023. Doch der Dollar profitiert kaum. Hohe öffentliche Schulden und der Konflikt zwischen Trump und der Fed belasten das Vertrauen in die Weltleitwährung. Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/dollar-trump-fed-zinserhoehung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T11:35:55+00:00"
+  },
+  {
+   "t": "Hohe Spritpreise - Kommentar: Die Abhängigkeit von Öl und Gas macht uns ärmer",
+   "s": "Der Krieg in der Golfregion und seine Auswirkungen treiben die Ölpreise weiter nach oben. Staatliche Hilfen nach dem Gießkannenprinzip greifen jedoch zu kurz und senden falsche Signale. Zumal der hohe Ölpreis auch nachweislich positive Effekte hat.Ein Kommentar von Dorothee Holz",
+   "u": "https://www.deutschlandfunk.de/kommentar-benzinpreise-oelpreis-irankrieg-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-16T09:49:00+00:00"
+  },
+  {
+   "t": "Stark geleerte Speicher: Reiche erhöht Anreize für mehr Gasreserven",
+   "s": "Deutschlands Gasspeicher sind ungewöhnlich leer für diese Jahreszeit. Wirtschaftsministerin Reiche will deshalb die finanziellen Anreize für Händler erhöhen, mehr Gas für den Winter vorzuhalten.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-reiche-gas-winter-anreize-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T08:31:09+00:00"
+  },
   {
    "t": "Update Wirtschaft vom 16.09.2026",
    "s": "Update Wirtschaft vom 16.09.2026",
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1649790.html",
    "q": "Tagesschau",
    "d": "2026-09-16T07:46:24+00:00"
-  },
-  {
-   "t": "Marktbericht: Leichte Kursgewinne vor US-Zinsentscheid?",
-   "s": "Vor dem Zinsentscheid in den USA am Abend dürfte der deutsche Aktienmarkt mit leichten Kursgewinnen starten. Stützend wirken sinkende Ölpreise - wenn auch ohne wirklich neue Entwicklungen im Nahen Osten.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T05:47:50+00:00"
   },
   {
    "t": "Wirtschaft vor acht vom 15.09.2026",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/technologie/ki-anthropic-106.html",
    "q": "Tagesschau",
    "d": "2026-09-13T04:47:55+00:00"
-  },
-  {
-   "t": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
-   "s": "Das Unternehmen OpenAI bereitet sich seit Längerem auf den Börsengang vor. Doch Firmenchef Altman hält den Zeitpunkt für ungünstig und gibt dem Chef von Anthropic recht, der eine Drosselung der KI-Entwicklung fordert.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-12T23:53:35+00:00"
-  },
-  {
-   "t": "Kartenzahlungspflicht - Schützt lieber das Bargeld",
-   "s": "Geschäfte sollen nach Plänen von Finanzminister Lars Klingbeil künftig mindestens eine digitale Bezahlmöglichkeit anbieten müssen. Eine unnötige Vorschrift. Wichtiger wäre es, die Annahme von Bargeld verpflichtend zu machen.Ein Kommentar von Manfred Kloiber",
-   "u": "https://www.deutschlandfunk.de/kartenzahlung-bargeld-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-12T07:18:00+00:00"
-  },
-  {
-   "t": "KI-Entwickler Anthropic blockiert Biowaffen-Recherchen",
-   "s": "Das US-Unternehmen Anthropic hat nach eigenen Angaben mehrere Fälle missbräuchlicher Nutzung seines KI-Modells unterbunden. Dabei sei es auch um mutmaßliche Cyberspionage aus Russland und biologische Waffen gegangen.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/kuenstliche-intelligenz-gefahren-risiko-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T13:37:07+00:00"
-  },
-  {
-   "t": "Geschäfte sollen künftig Kartenzahlung anbieten müssen",
-   "s": "Geschäfte, Restaurants und Dienstleister sollen nach Plänen von Finanzminister Klingbeil künftig neben Bargeld auch mindestens eine digitale Bezahlmöglichkeit anbieten müssen. Was das für Konsumenten und Unternehmen bedeutet.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bargeld-cash-bezahlen-einkaufen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T11:14:28+00:00"
   }
  ]
 }

@@ -1,13 +1,48 @@
 {
  "name": "Ausland",
- "updated": "2026-09-16T08:37:16+00:00",
+ "updated": "2026-09-16T14:12:37+00:00",
  "items": [
   {
    "t": "Saudi-Arabien wehrt offenbar Huthi-Drohne bei Mekka ab",
    "s": "Für Muslime ist Mekka heilig. Nun soll die Huthi-Miliz die Stadt mit einer Drohne attackiert haben - das meldete das saudi-arabische Militär, das den Angriff nach eigenen Angaben abwehren konnte. Riad spricht von einer \"Roten Linie\".",
    "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-mekka-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-16T08:06:16+00:00"
+   "d": "2026-09-16T13:51:03+00:00"
+  },
+  {
+   "t": "Mindestens 60 Tote bei Einsturz von Goldmine im Sudan",
+   "s": "Beim Einsturz einer Goldmine im Sudan sind mindestens 60 Menschen ums Leben gekommen. Möglicherweise könnten weitere Arbeiter noch verschüttet sein. Das Land ist ein weltweit wichtiger Goldproduzent. Von Moritz Behrendt.",
+   "u": "https://www.tagesschau.de/ausland/afrika/sudan-goldmine-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T12:54:35+00:00"
+  },
+  {
+   "t": "Drohne über Litauen war laut Regierung mit Sprengstoff bestückt",
+   "s": "Vorfälle mit Flugobjekten im NATO-Gebiet häufen sich: In Litauen wurde gestern eine Drohne abgeschossen, die der Regierung zufolge Sprengstoff geladen hatte. In Polen wurde ebenfalls eine mutmaßlich russische Drohne gefunden.",
+   "u": "https://www.tagesschau.de/ausland/europa/litauen-drohne-sprengstoff-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T12:40:15+00:00"
+  },
+  {
+   "t": "Social Media erst ab 13 Jahren - was die EU plant",
+   "s": "Die EU plant Altersbeschränkungen für TikTok, Instagram und Co: In Deutschland und anderen Mitgliedsstaaten soll der Zugang zu Sozialen Netzwerken erst ab 13 Jahren erlaubt werden. Was Brüssel plant - ein Überblick.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-kommission-social-media-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T12:40:13+00:00"
+  },
+  {
+   "t": "25 Jahre Haft für Kosovos Ex-Präsident Thaci wegen Kriegsverbrechen",
+   "s": "Das Kosovo-Sondertribunal in Den Haag hat den ehemaligen Präsidenten Thaci wegen Kriegsverbrechen zu 25 Jahren Haft verurteilt. In Pristina löste das Urteil Proteste aus. Vielen gilt Thaci als Nationalheld.",
+   "u": "https://www.tagesschau.de/ausland/europa/verurteilung-thaci-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T11:48:26+00:00"
+  },
+  {
+   "t": "Von der Leyen zur Lage der Union: Neuer Krisenmechanismus und mehr Bündnisse",
+   "s": "Wie kann sich Europa besser gegen Bedrohungen wappnen? Mit dieser Frage befasste sich die EU-Kommissionspräsidentin in ihrer diesjährigen Rede zur Lage der Union. Ihre Antworten: Mit einem neuen Sicherheitsmechanismus und mehr Zusammenarbeit.",
+   "u": "https://www.tagesschau.de/ausland/europa/von-der-leyen-russland-ukraine-kanada-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T10:02:53+00:00"
   },
   {
    "t": "Drei Tote bei Absturz von TV-Helikopter in Los Angeles",
@@ -15,13 +50,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/absturz-helikopter-losangeles-100.html",
    "q": "Tagesschau",
    "d": "2026-09-16T07:46:20+00:00"
-  },
-  {
-   "t": "Drohne über Litauen war laut Regierung mit Sprengstoff bestückt",
-   "s": "Die Vorfälle mit Flugobjekten im NATO-Gebiet häufen sich: In Litauen wurde gestern eine Drohne abgeschossen. Ersten Erkenntnissen zufolge war sie mit Sprengstoff beladen. Woher sie stammt, ist weiter unklar.",
-   "u": "https://www.tagesschau.de/ausland/europa/litauen-drohne-sprengstoff-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T06:39:59+00:00"
   },
   {
    "t": "Pistorius in Washington: Lob und engere Verteidigungskooperation",
@@ -52,8 +80,8 @@
    "d": "2026-09-16T02:32:18+00:00"
   },
   {
-   "t": "Russland und Dänemark beschuldigen sich nach Leuchtraketen-Beschuss",
-   "s": "Eine russische Fregatte hat einen dänischen Helikopter auf der Ostsee mit Leuchtmunition beschossen. Dänemark und die EU kritisierten den Vorfall scharf. Russlands Botschafter in Kopenhagen warf Dänemark Provokation vor. Von C. Stichler.",
+   "t": "Russland und Dänemark beschuldigen sich nach Leuchtraketen -Beschuss",
+   "s": "Eine russische Fregatte hat einen dänischen Helikopter auf der Ostsee mit Leuchtraketen beschossen. Dänemark und die EU kritisierten den Vorfall scharf. Russlands Botschafter in Kopenhagen warf Dänemark Provokation vor. Von C. Stichler.",
    "u": "https://www.tagesschau.de/ausland/europa/daenemark-russland-fregatte-100.html",
    "q": "Tagesschau",
    "d": "2026-09-15T23:13:56+00:00"
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/israel-dokumentarfilm-naza-100.html",
    "q": "Tagesschau",
    "d": "2026-09-14T23:34:17+00:00"
-  },
-  {
-   "t": "Schock und Trotz nach Razzien gegen LGBTQ-Vereine in der Türkei",
-   "s": "In der Türkei wurden am Wochenende zahlreiche Aktivisten und Aktivistinnen für LGBTQ-Rechte festgenommen. NGOs und Zivilgesellschaft verurteilen die Razzien - es sei das bisher größte Vorgehen gegen die Community. Von B. Weber.",
-   "u": "https://www.tagesschau.de/ausland/tuerkei-razzien-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T18:38:34+00:00"
-  },
-  {
-   "t": "Arktis-Gipfel: Die EU richtet ihren Blick Richtung Norden",
-   "s": "Mit dem Klimawandel verändert sich die Bedeutung der Arktis - wirtschaftlich und sicherheitspolitisch. Darauf will die EU reagieren. Ein Gipfel in Finnland sollte den Anfang machen. Von A. Meyer-Feist.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-arktis-gipfel-abschluss-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T16:28:06+00:00"
-  },
-  {
-   "t": "Pistorius will Soldaten zum Dienst in Litauen auch verpflichten",
-   "s": "Verteidigungsminister Pistorius hatte bei der Litauen-Brigade erst auf Freiwilligkeit gesetzt - doch Hunderte Spezialisten fehlen noch. Nun sollen Soldaten auch zum Dienst in der Brigade verpflichtet werden.",
-   "u": "https://www.tagesschau.de/ausland/europa/litauen-brigade-verpflichtung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T16:20:32+00:00"
-  },
-  {
-   "t": "Israelische NGO kritisiert Israels Politik im Westjordanland",
-   "s": "Die israelische Menschenrechtsorganisation B'Tselem erhebt schwere Vorwürfe gegen Israels Politik im Westjordanland: Die Maßnahmen seien Teil einer systematischen Strategie zur Zerstörung der palästinensischen Lebensgrundlagen. Von J. Segador.",
-   "u": "https://www.tagesschau.de/ausland/asien/westjordanland-ngo-israel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T14:41:53+00:00"
   }
  ]
 }

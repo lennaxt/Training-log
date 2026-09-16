@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-16T08:37:20+00:00",
+ "updated": "2026-09-16T14:12:40+00:00",
  "items": [
+  {
+   "t": "Nach US-Medienberichten: Washington will Milliarden-Rüstungspaket für Israel genehmigen",
+   "s": "Rüstungsgüter im Wert von 2,8 Milliarden Dollar wollen die USA an Israel liefern. Darunter einige der „zerstörerischsten Munitionsarten“ westlicher Arsenale.",
+   "u": "https://taz.de/Nach-US-Medienberichten/!6213579/",
+   "q": "taz",
+   "d": "2026-09-16T11:01:00+00:00"
+  },
   {
    "t": "Pentagon-Bericht zum Irankrieg: Kosten von mindestens 33 Milliarden US-Dollar",
    "s": "Ein Bericht des US-Verteidigungsministeriums legt Auswirkungen des Krieges in Iran offen. Er widerspricht Aussagen von US-Präsident Donald Trump.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Rechte-Netzwerke/!6210430/",
    "q": "taz",
    "d": "2026-09-04T14:39:00+00:00"
-  },
-  {
-   "t": "Super-El-Niño erwartet: Hochwasser und Hitze in Argentinien",
-   "s": "In Argentinien ist aktuell Winter. Doch Meteorologen warnen bereits vor bevorstehendem Starkregen, Überschwemmungen und weiteren extremen Wetterereignissen.",
-   "u": "https://taz.de/Super-El-Nino-erwartet/!6204404/",
-   "q": "taz",
-   "d": "2026-09-03T13:01:00+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-16T08:37:19+00:00",
+ "updated": "2026-09-16T14:12:40+00:00",
  "items": [
+  {
+   "t": "Rede zur Lage der EU: Die Pläne der Ursula von der Leyen",
+   "s": "Die EU-Kommissionspräsidentin hat ihre jährliche Rede vor dem EU-Parlament gehalten. Es ging um ein Social-Media-Verbot für Kinder, Verteidigung, Hitze und Kanada.",
+   "u": "https://taz.de/Rede-zur-Lage-der-EU/!6213605/",
+   "q": "taz",
+   "d": "2026-09-16T09:39:00+00:00"
+  },
   {
    "t": "Russland vor der Wahl: Wahlschein ausfüllen oder doch ungültig machen?",
    "s": "In Russland wird das Parlament neu gewählt, das Ergebnis aber steht schon fest. Für Kriegsgegner ist es eine schwere Zeit, doch drei Optionen haben sie noch.",
@@ -11,14 +18,14 @@
   },
   {
    "t": "Krieg in der Ukraine: „Ihr macht uns keine Angst!“",
-   "s": "Die Millionenstadt Dipro im Südosten der Ukraine ist immer wieder Ziel russischer Luftangriffe. Doch Moskaus Zermürbungstaktik geht nicht auf.",
+   "s": "Die Millionenstadt Dnipro im Südosten der Ukraine ist immer wieder Ziel russischer Luftangriffe. Doch Moskaus Zermürbungstaktik geht nicht auf.",
    "u": "https://taz.de/Krieg-in-der-Ukraine/!6212635/",
    "q": "taz",
    "d": "2026-09-15T17:48:00+00:00"
   },
   {
    "t": "Schule in der Ukraine: Schulstart in Irpin mit KI und Schutzraum",
-   "s": "An dem technologisch ausgerichteten Lyzeum bei Kyjiw beginnt das vierte Schuljahr im Krieg. Durch die Luftangriffe hat sich das Lernen digital versiert.",
+   "s": "An dem technologisch ausgerichteten Lyzeum bei Kyjiw beginnt das fünfte Schuljahr im Krieg. Durch die Luftangriffe hat sich das Lernen digital versiert.",
    "u": "https://taz.de/Schule-in-der-Ukraine/!6213130/",
    "q": "taz",
    "d": "2026-09-15T17:47:00+00:00"
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Trump-in-Irland/!6212679/",
    "q": "taz",
    "d": "2026-09-12T11:32:00+00:00"
-  },
-  {
-   "t": "Meloni zur Wahl in Sachsen-Anhalt: „Brandmauer-Strategie funktioniert nicht“",
-   "s": "Italiens Regierungschefin hielt sich zunächst mit Aussagen zum Wahlausgang in dem deutschen Bundesland zurück. Nun erklärt sie, sie halte die Politik der Abgrenzung für nicht erfolgreich.",
-   "u": "https://taz.de/Meloni-zur-Wahl-in-Sachsen-Anhalt/!6212677/",
-   "q": "taz",
-   "d": "2026-09-12T11:24:00+00:00"
   }
  ]
 }

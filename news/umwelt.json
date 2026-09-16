@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-16T08:37:18+00:00",
+ "updated": "2026-09-16T14:12:39+00:00",
  "items": [
+  {
+   "t": "Linke nach der Wahl in Sachsen-Anhalt: Schluss mit konstruktiver Opposition",
+   "s": "Nach der Niederlage bei der Landtagswahl stellt sich die Linke auf harte Zeiten ein. Von einem überparteilichen Ministerpräsidenten hält sie nichts.",
+   "u": "https://taz.de/Linke-nach-der-Wahl-in-Sachsen-Anhalt/!6213596/",
+   "q": "taz",
+   "d": "2026-09-16T14:07:00+00:00"
+  },
+  {
+   "t": "Merz in der Krise: Unterstützung um fünf vor Landtagswahl",
+   "s": "Lange haben sie geschwiegen. Nun stellen sich die CDU-Ministerpräsidenten hinter den Bundeskanzler. Doch starker Rückhalt sieht anders aus.",
+   "u": "https://taz.de/Merz-in-der-Krise/!6213677/",
+   "q": "taz",
+   "d": "2026-09-16T13:42:00+00:00"
+  },
+  {
+   "t": "Zuwanderung von Fachkräften: Verlorene Zeit",
+   "s": "Deutschland braucht dringend Fachkräfte aus dem Ausland. Selbst die Bundesregierung beteuert das oft – aber sie tut nichts dafür.",
+   "u": "https://taz.de/Zuwanderung-von-Fachkraeften/!6213296/",
+   "q": "taz",
+   "d": "2026-09-16T10:05:00+00:00"
+  },
   {
    "t": "Debatte um Spritpreise: Deutschland mietet sich arm",
    "s": "Bei hohen Spritpreisen wird die Politik sofort aktiv. Doch bei den hohen Mieten wäre ein entschiedenes Vorgehen viel, viel wichtiger.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Wahlen-in-MeckPomm-und-Berlin/!6208132/",
    "q": "taz",
    "d": "2026-09-13T08:59:00+00:00"
-  },
-  {
-   "t": "Bundesweiter Protest gegen rechts: 127.000 Menschen demonstrieren gegen die AfD",
-   "s": "In 29 Städten haben am Samstag weit mehr als 100.000 Menschen gegen Rechtsextremismus demonstriert. Das zeigt eine Zählung der taz.",
-   "u": "https://taz.de/Bundesweiter-Protest-gegen-Rechts/!6212724/",
-   "q": "taz",
-   "d": "2026-09-13T07:56:00+00:00"
-  },
-  {
-   "t": "Wie wählt Berlin?: Das ABC zur Macht",
-   "s": "Am 20. September wird in Berlin gewählt. Wahlentscheidend kann die Mietfrage sein – oder auch Palästina. Blick auf Berliner Befindlichkeiten von A bis Z.",
-   "u": "https://taz.de/Wie-waehlt-Berlin/!6208072/",
-   "q": "taz",
-   "d": "2026-09-13T07:06:00+00:00"
-  },
-  {
-   "t": "Sachsen-Anhalt nach den Wahlen: Ach, wäre es nur ein Es-könnte-mal-Land",
-   "s": "Wie es jetzt weitergehen soll, fragen sich viele in Sachsen-Anhalt. Beim Festival Osten und im Jugendclub 83 versucht man nach vorne zu blicken.",
-   "u": "https://taz.de/Sachsen-Anhalt-nach-den-Wahlen/!6208050/",
-   "q": "taz",
-   "d": "2026-09-12T18:27:00+00:00"
   }
  ]
 }
