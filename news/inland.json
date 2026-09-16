@@ -1,6 +1,6 @@
 {
  "name": "Inland",
- "updated": "2026-09-16T18:54:59+00:00",
+ "updated": "2026-09-16T23:39:19+00:00",
  "items": [
   {
    "t": "Libanesischer Ex-Präsident vor Gericht: Beiruter Hafenexplosion hat ein Nachspiel",
@@ -29,6 +29,13 @@
    "u": "https://taz.de/AfD-Mecklenburg-Vorpommern/!6213575/",
    "q": "taz",
    "d": "2026-09-16T17:55:00+00:00"
+  },
+  {
+   "t": "Debatte über Spritpreise: Reiche will Mehrwertsteuer auf Sprit senken",
+   "s": "Angesichts hoher Spritpreise hat die Politik Entlastung versprochen - aber es ist unklar, wie die aussehen könnte. Nach Unionsfraktionschef Frei sprach sich nun auch Wirtschaftsministerin Reiche für eine befristete Senkung der Mehrwertsteuer aus.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/reiche-mehrwertsteuer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T17:15:59+00:00"
   },
   {
    "t": "Landtagswahlen und Merz-Debatte - Wohin steuert das Land?",
@@ -78,6 +85,13 @@
    "u": "https://taz.de/Kosovo-Sondertribunal-in-Den-Haag/!6213591/",
    "q": "taz",
    "d": "2026-09-16T16:02:00+00:00"
+  },
+  {
+   "t": "Berliner Grünen-Spitzenkandidat Graf: Pragmatisch - und wenig bekannt",
+   "s": "Die Berliner Grünen haben gute Chancen, im nächsten Senat mitzuregieren. Spitzenkandidat Werner Graf setzt auf einen moderaten Wahlkampf, der ihm viele Optionen offenhalten soll. Von T. Schmutzler und M. Kell.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhauswahl-berlin-werner-graf-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T15:39:25+00:00"
   },
   {
    "t": "Von der Leyen zur Lage der EU: Stirnrunzeln und Freundschaft mit Kanada",
@@ -143,32 +157,18 @@
    "d": "2026-09-16T13:42:00+00:00"
   },
   {
-   "t": "Nach US-Medienberichten: Washington will Milliarden-Rüstungspaket für Israel genehmigen",
-   "s": "Rüstungsgüter im Wert von 2,8 Milliarden Dollar wollen die USA an Israel liefern. Darunter einige der „zerstörerischsten Munitionsarten“ westlicher Arsenale.",
-   "u": "https://taz.de/Nach-US-Medienberichten/!6213579/",
-   "q": "taz",
-   "d": "2026-09-16T11:01:00+00:00"
+   "t": "Regierung legt Aktionsplan gegen Sozialbetrug vor",
+   "s": "Die Bundesregierung verschärft den Kampf gegen Sozialleistungsmissbrauch. Ein neuer Aktionsplan setzt auf mehr Datenabgleich, mehr Kontrollen und strengere Regeln. Auch KI soll helfen. Von J.-P. Bartels und T. Aßmann.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-plan-sozialmissbrauch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T12:01:27+00:00"
   },
   {
-   "t": "Zuwanderung von Fachkräften: Verlorene Zeit",
-   "s": "Deutschland braucht dringend Fachkräfte aus dem Ausland. Selbst die Bundesregierung beteuert das oft – aber sie tut nichts dafür.",
-   "u": "https://taz.de/Zuwanderung-von-Fachkraeften/!6213296/",
-   "q": "taz",
-   "d": "2026-09-16T10:05:00+00:00"
-  },
-  {
-   "t": "Rede zur Lage der EU: Die Pläne der Ursula von der Leyen",
-   "s": "Die EU-Kommissionspräsidentin hat ihre jährliche Rede vor dem EU-Parlament gehalten. Es ging um ein Social-Media-Verbot für Kinder, Verteidigung, Hitze und Kanada.",
-   "u": "https://taz.de/Rede-zur-Lage-der-EU/!6213605/",
-   "q": "taz",
-   "d": "2026-09-16T09:39:00+00:00"
-  },
-  {
-   "t": "Gedenken an Jina Mahsa Amini: Du bleibst eine von uns",
-   "s": "Vor vier Jahren starb Jina Mahsa Amini in einem Gefängnis in Teheran. Sie hatte nichts verbrochen, nur ihr Kopftuch nicht „ordnungsgemäß“ getragen.",
-   "u": "https://taz.de/Gedenken-an-Jina-Mahsa-Amini/!6213253/",
-   "q": "taz",
-   "d": "2026-09-16T08:01:00+00:00"
+   "t": "Gemeinsame Erklärung: CDU-Ministerpräsidenten stellen sich hinter Merz",
+   "s": "Kanzler Merz steht massiv unter Druck. Kurz vor den Landtagswahlen in Mecklenburg-Vorpommern und Berlin melden sich nun alle acht CDU-Ministerpräsidenten zu Wort - und stellen sich hinter Merz. Der reagiert erleichtert.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/cdu-ministerpraesidenten-merz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T11:19:59+00:00"
   }
  ]
 }
