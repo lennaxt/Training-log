@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-15T23:32:00+00:00",
+ "updated": "2026-09-16T08:37:19+00:00",
  "items": [
+  {
+   "t": "Russland vor der Wahl: Wahlschein ausfüllen oder doch ungültig machen?",
+   "s": "In Russland wird das Parlament neu gewählt, das Ergebnis aber steht schon fest. Für Kriegsgegner ist es eine schwere Zeit, doch drei Optionen haben sie noch.",
+   "u": "https://taz.de/Russland-vor-der-Wahl/!6213270/",
+   "q": "taz",
+   "d": "2026-09-16T05:53:00+00:00"
+  },
   {
    "t": "Krieg in der Ukraine: „Ihr macht uns keine Angst!“",
    "s": "Die Millionenstadt Dipro im Südosten der Ukraine ist immer wieder Ziel russischer Luftangriffe. Doch Moskaus Zermürbungstaktik geht nicht auf.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Meloni-zur-Wahl-in-Sachsen-Anhalt/!6212677/",
    "q": "taz",
    "d": "2026-09-12T11:24:00+00:00"
-  },
-  {
-   "t": "Reform UK in Großbritannien: Rechte Partei erhält Riesenspende",
-   "s": "Ein Kryptomilliardär lässt den britischen Rechtspopulisten umgerechnet 42 Millionen Euro zukommen. Die Rekordsumme folgt auf Wochen mit verschiedenen Betrugsvorwürfen.",
-   "u": "https://taz.de/Reform-UK-in-Grossbritannien/!6212673/",
-   "q": "taz",
-   "d": "2026-09-12T10:22:00+00:00"
   }
  ]
 }

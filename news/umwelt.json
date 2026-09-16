@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-15T23:31:59+00:00",
+ "updated": "2026-09-16T08:37:18+00:00",
  "items": [
+  {
+   "t": "Debatte um Spritpreise: Deutschland mietet sich arm",
+   "s": "Bei hohen Spritpreisen wird die Politik sofort aktiv. Doch bei den hohen Mieten wäre ein entschiedenes Vorgehen viel, viel wichtiger.",
+   "u": "https://taz.de/Debatte-um-Spritpreise/!6213364/",
+   "q": "taz",
+   "d": "2026-09-16T05:01:00+00:00"
+  },
   {
    "t": "Einwanderung von Fachkräften: Pflegeverband fordert Tempo bei Work and Stay Agentur",
    "s": "Deutschland braucht dringend Pfleger*innen, doch einwanderungwillige Fachkräfte haben es schwer. Ein katholischer Sozialverband fordert jetzt Reformen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Sachsen-Anhalt-nach-den-Wahlen/!6208050/",
    "q": "taz",
    "d": "2026-09-12T18:27:00+00:00"
-  },
-  {
-   "t": "Linke Spitzenkandidatin in Berlin: „Hallo, ich bin Elif“",
-   "s": "Die Linke Elif Eralp könnte Regierende Bürgermeisterin von Berlin werden – wenn ihr nicht ihre Partei in die Quere kommt.",
-   "u": "https://taz.de/Linke-Spitzenkandidatin-in-Berlin/!6211544/",
-   "q": "taz",
-   "d": "2026-09-12T18:24:00+00:00"
   }
  ]
 }

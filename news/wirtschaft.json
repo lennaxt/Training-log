@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-15T23:31:58+00:00",
+ "updated": "2026-09-16T08:37:17+00:00",
  "items": [
+  {
+   "t": "Update Wirtschaft vom 16.09.2026",
+   "s": "Update Wirtschaft vom 16.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1649790.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T07:46:24+00:00"
+  },
+  {
+   "t": "Marktbericht: Leichte Kursgewinne vor US-Zinsentscheid?",
+   "s": "Vor dem Zinsentscheid in den USA am Abend dürfte der deutsche Aktienmarkt mit leichten Kursgewinnen starten. Stützend wirken sinkende Ölpreise - wenn auch ohne wirklich neue Entwicklungen im Nahen Osten.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T05:47:50+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 15.09.2026",
    "s": "Wirtschaft vor acht vom 15.09.2026",
@@ -22,13 +36,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-100.html",
    "q": "Tagesschau",
    "d": "2026-09-15T16:56:26+00:00"
-  },
-  {
-   "t": "Marktbericht: Krisensignale häufen sich",
-   "s": "Seit Tagen steigen die Ölpreise, was die Finanzmärkte zunehmend nervös macht. Während sich der DAX noch recht gut hielt, ging der Ausverkauf am Anleihemarkt weiter.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T16:20:10+00:00"
   },
   {
    "t": "Spritpreise: Was kann die Politik tun, um die Verbraucher zu entlasten?",
@@ -57,13 +64,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-oesterreich-100.html",
    "q": "Tagesschau",
    "d": "2026-09-15T08:17:51+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 15.09.2026",
-   "s": "Update Wirtschaft vom 15.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1649172.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T07:48:48+00:00"
   },
   {
    "t": "Noch nie so viele Start-ups gegründet wie im ersten Halbjahr 2026",

@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-09-15T23:31:58+00:00",
+ "updated": "2026-09-16T08:37:17+00:00",
  "items": [
+  {
+   "t": "Ozonloch über der Antarktis schrumpft 2025 weiter",
+   "s": "Das Ozonloch über der Antarktis wird kleiner - und war 2025 so klein wie selten seit Anfang der 90er-Jahre. Die Weltwetterorganisation spricht von einer Erfolgsgeschichte und sieht die Ozonschicht auf dem Weg der Erholung.",
+   "u": "https://www.tagesschau.de/wissen/klima/ozonloch-114.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T08:11:31+00:00"
+  },
   {
    "t": "Wie Forscher den Strombedarf von KI senken wollen",
    "s": "Mehr KI bringt mehr Rechenzentren mit sich - und damit mehr Strombedarf? Deutsche Forscher werkeln an sparsamerer Künstlicher Intelligenz. Erste wertvolle Erkenntnisse liegen bereits vor. Von Judith Kösters.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/longevity-langlebigkeit-supplements-nahrungsergaenzung-100.html",
    "q": "Tagesschau",
    "d": "2026-08-22T11:35:22+00:00"
-  },
-  {
-   "t": "Jahrhundertsommer? Warum Forschende neu denken müssen",
-   "s": "Ein überaus heißer und trockener Sommer wie in diesem Jahr kann künftig normal sein. Das zumindest sagt die Klimaforschung. Die Frage ist nur: Wie sieht dann künftig ein Jahrhundertsommer aus? Von Florian Zimmer.",
-   "u": "https://www.tagesschau.de/wissen/klima/wetter-klima-jahrhundertsommer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-21T16:00:46+00:00"
   }
  ]
 }

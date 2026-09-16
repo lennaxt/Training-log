@@ -1,7 +1,63 @@
 {
  "name": "Inland",
- "updated": "2026-09-15T23:31:56+00:00",
+ "updated": "2026-09-16T08:37:15+00:00",
  "items": [
+  {
+   "t": "ADAC: Mehr Staus in den Sommerferien 2026",
+   "s": "Mehr Staus, die aber kürzer dauerten als vergangenes Jahr: So fasst der ADAC die Sommerferien-Saison 2026 zusammen. Die Rekordpreise an den Tankstellen haben viele Autofahrer offenbar nicht davon abgehalten, mit dem Auto unterwegs zu sein.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/adac-stauradar-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T08:16:57+00:00"
+  },
+  {
+   "t": "Gedenken an Jina Mahsa Amini: Du bleibst eine von uns",
+   "s": "Vor vier Jahren starb Jina Mahsa Amini in einem Gefängnis in Teheran. Sie hatte nichts verbrochen, nur ihr Kopftuch nicht „ordnungsgemäß“ getragen.",
+   "u": "https://taz.de/Gedenken-an-Jina-Mahsa-Amini/!6213253/",
+   "q": "taz",
+   "d": "2026-09-16T08:01:00+00:00"
+  },
+  {
+   "t": "Reproduktive Rechte: Südkorea erlaubt Medikamente zum Schwangerschaftsabbruch",
+   "s": "Zum ersten Mal sollen Frauen in Südkorea legal Medikamente zum Schwangerschaftsabbruch bekommen können. Die Zulassung eines Präparats wird derzeit geprüft.",
+   "u": "https://taz.de/Reproduktive-Rechte/!6213572/",
+   "q": "taz",
+   "d": "2026-09-16T07:44:00+00:00"
+  },
+  {
+   "t": "Mecklenburg-Vorpommern: Wie Schwesig und Holm um den Wahlsieg ringen",
+   "s": "Schafft die SPD mit Ministerpräsidentin Schwesig die Aufholjagd in Mecklenburg-Vorpommern und wird stärkste Kraft? Im Wahlkampf muss sie sich mit AfD-Mann Holm auseinandersetzen, der sie auch in ihrem Wahlkreis herausfordert. Von Michael Seidel.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/wahl-mecklenburg-vorpommern-wahlkampf-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T06:13:18+00:00"
+  },
+  {
+   "t": "Russland vor der Wahl: Wahlschein ausfüllen oder doch ungültig machen?",
+   "s": "In Russland wird das Parlament neu gewählt, das Ergebnis aber steht schon fest. Für Kriegsgegner ist es eine schwere Zeit, doch drei Optionen haben sie noch.",
+   "u": "https://taz.de/Russland-vor-der-Wahl/!6213270/",
+   "q": "taz",
+   "d": "2026-09-16T05:53:00+00:00"
+  },
+  {
+   "t": "Debatte um Spritpreise: Deutschland mietet sich arm",
+   "s": "Bei hohen Spritpreisen wird die Politik sofort aktiv. Doch bei den hohen Mieten wäre ein entschiedenes Vorgehen viel, viel wichtiger.",
+   "u": "https://taz.de/Debatte-um-Spritpreise/!6213364/",
+   "q": "taz",
+   "d": "2026-09-16T05:01:00+00:00"
+  },
+  {
+   "t": "Wie eine Aktivistin in Mecklenburg-Vorpommern für Demokratie kämpft",
+   "s": "Theresia Crone engagiert sich in Mecklenburg-Vorpommern gegen Rechts, indem sie mit AfD-Wählern spricht. Als Influencerin bei TikTok wird sie deswegen oft angefeindet und bedroht. Dennoch macht sie weiter - es sei kein Kampf gegen Windmühlen.Zerback, Sarah",
+   "u": "https://www.deutschlandfunk.de/wahlkampf-in-mecklenburg-vorpommern-interview-theresia-crone-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-16T04:50:00+00:00"
+  },
+  {
+   "t": "Organisierte Kriminalität steigt an: Ursachen und Lösungen",
+   "s": "Organisierte Kriminalität in Deutschland nimmt zu. Kriminelle Banden treten immer offener und gewalttätiger auf. Der Rechtstaat werde nicht mehr als wehrhaft wahrgenommen, sagt ein Strafrechtler und fordert, den Banden die Grundlage zu entziehen.Oelmaier, Tobias",
+   "u": "https://www.deutschlandfunk.de/organisierte-kriminalitaet-im-wandel-interview-prof-arndt-sinn-strafrechtler-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-15T21:20:00+00:00"
+  },
   {
    "t": "Hohe Spritpreise: SPD-Fraktionsvize fordert Übergewinnsteuer",
    "s": "Mehr Druck auf Mineralölkonzerne und zielgerichtete Maßnahmen: SPD-Fraktionsvize Zorn verspricht neue Vorschläge der Sprit-Taskforce \"in den nächsten Tagen\". Angesichts der hohen Spritpreise seien staatliche Eingriffe nötig.",
@@ -60,7 +116,7 @@
   },
   {
    "t": "China und künstliche Intelligenz: Keine Macht für niemand",
-   "s": "China versucht, sich gegen die US-Tech-Szene zu inszenieren. Aber das ist eine Show, der man nicht glauben sollte.",
+   "s": "China versucht sich gegen die US-Tech-Szene zu inszenieren. Aber das ist eine Show, der man nicht glauben sollte.",
    "u": "https://taz.de/China-und-kuenstliche-Intelligenz/!6213255/",
    "q": "taz",
    "d": "2026-09-15T17:46:00+00:00"
@@ -113,62 +169,6 @@
    "u": "https://taz.de/Krise-der-Union/!6213360/",
    "q": "taz",
    "d": "2026-09-15T15:19:00+00:00"
-  },
-  {
-   "t": "Künstliche Intellligenz: Auch Chinas KP-Führung fürchtet Kontrollverlust durch KI",
-   "s": "US-Tech-Bosse warnen vor der Auslöschung der Menschheit durch KI. Derweil sorgen sich Pekings Parteikader in erster Linie um den eigenen Machterhalt.",
-   "u": "https://taz.de/Kuenstliche-Intellligenz/!6213320/",
-   "q": "taz",
-   "d": "2026-09-15T15:11:00+00:00"
-  },
-  {
-   "t": "Hohe Spritpreise - Defekte Debatte?",
-   "s": "Die Spritpreise steigen weiter. Die Debatte läuft in Wiederholungsschleife und ist hoch polarisiert – Wie könnte der Preis des Autofahrens sachlicher diskutiert werden? Und: Saudi-Arabien, die Huthi-Miliz und die Meerenge Bab al-Mandab.Schulz, Sandra",
-   "u": "https://www.deutschlandfunk.de/spritpreise-regierung-huthi-saudiarabien-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-15T15:00:00+00:00"
-  },
-  {
-   "t": "Analyse: Warum schreckt \"rechtsextremistisch\" nicht mehr ab?",
-   "s": "Laut Verfassungsschutz sind Teile der AfD \"gesichert rechtsextremistisch\". Lange galt es als undenkbar, dass eine so eingestufte Partei in Deutschland eine Wahl gewinnt. Sechs Erklärungsansätze, warum sich das geändert hat. Von H. Schwesinger.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/analyse-afd-108.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T14:49:26+00:00"
-  },
-  {
-   "t": "Sambia nach der Wahl: Wer die Regierung kritisiert, gefährdet die Stabilität",
-   "s": "In Sambia werden einen Monat nach den Wahlen Oppositionelle verfolgt. Eine Menschenrechtlerin spricht von einem „Muster der Einschüchterung“.",
-   "u": "https://taz.de/Sambia-nach-der-Wahl/!6213412/",
-   "q": "taz",
-   "d": "2026-09-15T14:47:00+00:00"
-  },
-  {
-   "t": "Debatte um Dokumentarfilm „Naza“: Juristen fordern Untersuchung zu möglichen Kriegsverbrechen",
-   "s": "Als rechtsstaatlichem Land stehe es Israel nicht an, Vorwürfe gegen seine Kriegsführung in Gaza pauschal zurückzuweisen, sagen israelische Rechtsexperten.",
-   "u": "https://taz.de/Israelische-Juristen-fordern-Untersuchung-wegen-Kriegsverbrechen/!6213475/",
-   "q": "taz",
-   "d": "2026-09-15T14:36:00+00:00"
-  },
-  {
-   "t": "Bundesanwaltschaft: Mutmaßliche Mitglieder von Eritrea-Terrorgruppe festgenommen",
-   "s": "Eine in Deutschland tätige Terrorgruppe soll unter anderem für die Gewalt auf Eritrea-Festivals im vergangenen Jahr verantwortlich sein. Zwei mutmaßliche Mitglieder wurden jetzt festgenommen.",
-   "u": "https://www.tagesschau.de/inland/bundesanwaltschaft-festnahme-eritrea-terrorgruppe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T13:44:40+00:00"
-  },
-  {
-   "t": "Gewalt im Westjordanland: „Es ist ein staatliches Projekt“",
-   "s": "Yair Dvir von der Menschenrechtsorganisation B'Tselem sagt: Israel arbeite daran, die Palästinenser in Enklaven zu drängen. Die Welt müsse Handeln.",
-   "u": "https://taz.de/Gewalt-im-Westjordanland/!6213237/",
-   "q": "taz",
-   "d": "2026-09-15T13:35:00+00:00"
-  },
-  {
-   "t": "Korruption in der Ukraine: Ukrainisches Parlament entlässt Generalstaatsanwalt",
-   "s": "Wegen Korruptionsvorwürfen reichte der Generalstaatsanwalt den Rücktritt ein – und ging auf Dienstreise. Nun entbindet die Rada ihn von seinen Aufgaben.",
-   "u": "https://taz.de/Ukrainisches-Parlament-entlaesst-Generalstaatsanwalt/!6213401/",
-   "q": "taz",
-   "d": "2026-09-15T13:06:00+00:00"
   }
  ]
 }

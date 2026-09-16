@@ -1,7 +1,21 @@
 {
  "name": "Sport",
- "updated": "2026-09-15T23:32:02+00:00",
+ "updated": "2026-09-16T08:37:20+00:00",
  "items": [
+  {
+   "t": "Gedenken an Jina Mahsa Amini: Du bleibst eine von uns",
+   "s": "Vor vier Jahren starb Jina Mahsa Amini in einem Gefängnis in Teheran. Sie hatte nichts verbrochen, nur ihr Kopftuch nicht „ordnungsgemäß“ getragen.",
+   "u": "https://taz.de/Gedenken-an-Jina-Mahsa-Amini/!6213253/",
+   "q": "taz",
+   "d": "2026-09-16T08:01:00+00:00"
+  },
+  {
+   "t": "Reproduktive Rechte: Südkorea erlaubt Medikamente zum Schwangerschaftsabbruch",
+   "s": "Zum ersten Mal sollen Frauen in Südkorea legal Medikamente zum Schwangerschaftsabbruch bekommen können. Die Zulassung eines Präparats wird derzeit geprüft.",
+   "u": "https://taz.de/Reproduktive-Rechte/!6213572/",
+   "q": "taz",
+   "d": "2026-09-16T07:44:00+00:00"
+  },
   {
    "t": "Künstliche Intellligenz: Auch Chinas KP-Führung fürchtet Kontrollverlust durch KI",
    "s": "US-Tech-Bosse warnen vor der Auslöschung der Menschheit durch KI. Derweil sorgen sich Pekings Parteikader in erster Linie um den eigenen Machterhalt.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Seoul-Innovative-Alltagsloesungen-fuer-die-Rekord-Hitze/!6206097/",
    "q": "taz",
    "d": "2026-08-27T05:03:00+00:00"
-  },
-  {
-   "t": "Katastrophe im Himalaja: Hunderte Touristen nach Sturzflut in Nepal vermisst",
-   "s": "Unter den bisher 384 Vermissten im Grenzgebiet zu Tibet sind auch viele Ausländer. Bisher wurden im Katastrophengebiet 157 Tote geborgen.",
-   "u": "https://taz.de/Katastrophe-im-Himalaya/!6207407/",
-   "q": "taz",
-   "d": "2026-08-26T13:39:00+00:00"
-  },
-  {
-   "t": "Repression gegen iranische Unis: Hort des Wissens und des Widerstands",
-   "s": "Studierende führten die Proteste gegen das iranische Regime im Frühjahr mit an. Nun könnte ein neues Gesetz Universitäten weiter unter Druck setzen.",
-   "u": "https://taz.de/Repression-gegen-iranische-Unis/!6207003/",
-   "q": "taz",
-   "d": "2026-08-26T09:51:00+00:00"
   }
  ]
 }
