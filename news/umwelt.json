@@ -1,7 +1,49 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-16T14:12:39+00:00",
+ "updated": "2026-09-16T18:55:02+00:00",
  "items": [
+  {
+   "t": "Bundeskanzler Friedrich Merz: Kanzler von föderalen Gnaden",
+   "s": "Die CDU-Ministerpräsidenten der Länder stärken dem Chef den Rücken. Mit Respekt für Friedrich Merz und seine Arbeit hat das indes wenig zu tun.",
+   "u": "https://taz.de/Bundeskanzler-Friedrich-Merz/!6208249/",
+   "q": "taz",
+   "d": "2026-09-16T18:00:00+00:00"
+  },
+  {
+   "t": "Reaktion auf CSD-Anschlag: Prävention nicht vergessen",
+   "s": "Die Regierung legt ein ganz vernünftiges 10-Punkte-Programm gegen Islamismus vor. Entscheidend ist aber, was darin zu kurz kommt.",
+   "u": "https://taz.de/Reaktion-auf-CSD-Anschlag/!6213692/",
+   "q": "taz",
+   "d": "2026-09-16T17:59:00+00:00"
+  },
+  {
+   "t": "AfD Mecklenburg-Vorpommern: Herr Holm und die radikalen Männer",
+   "s": "Auch in Mecklenburg-Vorpommern will die AfD die Wahl gewinnen. Spitzenkandidat Leif-Erik Holm gibt sich betont bürgerlich. Doch hinter ihm tummeln sich Radikale.",
+   "u": "https://taz.de/AfD-Mecklenburg-Vorpommern/!6213575/",
+   "q": "taz",
+   "d": "2026-09-16T17:55:00+00:00"
+  },
+  {
+   "t": "Maskenbeschaffung vor Gericht: Jens Spahn kommt uns wohl doch nicht ganz so teuer",
+   "s": "Beim Bundesgerichtshof deutet sich ein Teilerfolg der Bundesregierung an: Für viele der 2020 zu viel gekauften Coronamasken muss sie wohl nicht zahlen.",
+   "u": "https://taz.de/Maskenbeschaffung-vor-Gericht/!6213640/",
+   "q": "taz",
+   "d": "2026-09-16T16:05:00+00:00"
+  },
+  {
+   "t": "Maßnahmen nach Anschlag auf CSD: Repression und ein bisschen Prävention",
+   "s": "Die Bundesregierung legt einen Zehn-Punkte-Plan gegen islamistischen Terror vor. Er beinhaltet vor allem höhere Strafen, mehr Fußfesseln und Überwachung.",
+   "u": "https://taz.de/Massnahmen-nach-Anschlag-auf-CSD/!6213627/",
+   "q": "taz",
+   "d": "2026-09-16T16:03:00+00:00"
+  },
+  {
+   "t": "Göttingens grüne OB-Kandidatin: Migrantisch, jung, ambitioniert",
+   "s": "Onyeka Oshionwu hat beste Chancen, am 23. September Göttingens neue Oberbürgermeisterin zu werden. Ihrem Wahlkampf zollt auch die Konkurrenz Respekt.",
+   "u": "https://taz.de/Goettingens-gruene-OB-Kandidatin/!6213423/",
+   "q": "taz",
+   "d": "2026-09-16T15:36:00+00:00"
+  },
   {
    "t": "Linke nach der Wahl in Sachsen-Anhalt: Schluss mit konstruktiver Opposition",
    "s": "Nach der Niederlage bei der Landtagswahl stellt sich die Linke auf harte Zeiten ein. Von einem überparteilichen Ministerpräsidenten hält sie nichts.",
@@ -11,7 +53,7 @@
   },
   {
    "t": "Merz in der Krise: Unterstützung um fünf vor Landtagswahl",
-   "s": "Lange haben sie geschwiegen. Nun stellen sich die CDU-Ministerpräsidenten hinter den Bundeskanzler. Doch starker Rückhalt sieht anders aus.",
+   "s": "Lange haben sie geschwiegen. Nun stellen sich die CDU-Ministerpräsidenten hinter den Bundeskanzler. Auch vom Wirtschaftsflügel der Fraktion kommt Unterstützung.",
    "u": "https://taz.de/Merz-in-der-Krise/!6213677/",
    "q": "taz",
    "d": "2026-09-16T13:42:00+00:00"
@@ -94,13 +136,6 @@
    "d": "2026-09-14T14:49:00+00:00"
   },
   {
-   "t": "Vor Wahl in Mecklenburg-Vorpommern: Wo die anderen Urlaub machen",
-   "s": "Wirtschaftlich hängt in Mecklenburg-Vorpommern viel am Tourismus. Am Laufen gehalten wird er von Arbeitskräften aus dem Ausland.",
-   "u": "https://taz.de/Vor-Wahl-in-Mecklenburg-Vorpommern/!6208090/",
-   "q": "taz",
-   "d": "2026-09-14T14:09:00+00:00"
-  },
-  {
    "t": "Geheimdienstreform: „Wirkungsvoller als die Kontrolle eines Gerichts“",
    "s": "Die Bundesregierung schwäche die Kontrolle der deutschen Geheimdienste, sagen Kritiker. Josef Hoch ist Präsident des Unabhängigen Kontrollrats und widerspricht.",
    "u": "https://taz.de/Geheimdienstreform/!6212502/",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Landtagsneubau-in-Sachsen/!6212883/",
    "q": "taz",
    "d": "2026-09-14T07:49:00+00:00"
-  },
-  {
-   "t": "Schwesigs SPD-Wahlkampf in Meck-Pomm: Mit dem Wahlvolk kann sie",
-   "s": "Manuela Schwesig kämpft in Mecklenburg-Vorpommern um jeden Prozentpunkt und rückt der AfD auf die Pelle. Gefährlich wird sie damit auch für die CDU.",
-   "u": "https://taz.de/Schwesigs-SPD-Wahlkampf-in-Meck-Pomm/!6211546/",
-   "q": "taz",
-   "d": "2026-09-13T16:31:00+00:00"
-  },
-  {
-   "t": "Remigration und Rüstungsgüter: AfD mit ICE-Fantasien",
-   "s": "Ulrich Siegmund will Rüstungsgüter für seine „Remigrations“-Pläne. Die Absichten für „ethnische Säuberungen“ lassen sich nicht mehr wegdefinieren.",
-   "u": "https://taz.de/Remigration-und-Ruestungsgueter/!6212763/",
-   "q": "taz",
-   "d": "2026-09-13T12:06:00+00:00"
-  },
-  {
-   "t": "Nach dem Wahlsieg der AfD: Feindliche Übernahme",
-   "s": "Die AfD steht vor der Machtergreifung in Sachsen-Anhalt. Dort könnte sie die Politik erproben, die sie in ganz Deutschland ausrollen will.",
-   "u": "https://taz.de/Nach-dem-Wahlsieg-der-AfD/!6208051/",
-   "q": "taz",
-   "d": "2026-09-13T12:05:00+00:00"
-  },
-  {
-   "t": "Bundeskanzler Friedrich Merz: Muss Merz weg?",
-   "s": "Nach der Wahl in Sachsen-Anhalt fordern erste Stimmen in der CDU offen einen Kanzlertausch. Klingt verlockend, würde viele Probleme aber nicht lösen.",
-   "u": "https://taz.de/Bundeskanzler-Friedrich-Merz/!6211548/",
-   "q": "taz",
-   "d": "2026-09-13T09:01:00+00:00"
-  },
-  {
-   "t": "Wahlen in MeckPomm und Berlin: Schlechte Aussichten",
-   "s": "Wahlumfragen können täuschen. Und so könnten die anstehenden Wahlen in Mecklenburg-Vorpommern und Berlin anders ausgehen, als manche glauben.",
-   "u": "https://taz.de/Wahlen-in-MeckPomm-und-Berlin/!6208132/",
-   "q": "taz",
-   "d": "2026-09-13T08:59:00+00:00"
   }
  ]
 }

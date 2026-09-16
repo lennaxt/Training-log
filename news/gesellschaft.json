@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-16T14:12:40+00:00",
+ "updated": "2026-09-16T18:55:03+00:00",
  "items": [
+  {
+   "t": "Rede zur Lage der Union: Von der Leyen überspannt den Bogen",
+   "s": "In ihrer Rede zur Lage der Union lässt die EU-Kommissionspräsidentin viele Fragen offen. Wohin Europa mit ihr steuert, bleibt unklar.",
+   "u": "https://taz.de/Rede-zur-Lage-der-Union/!6213664/",
+   "q": "taz",
+   "d": "2026-09-16T17:00:00+00:00"
+  },
+  {
+   "t": "Kosovo-Sondertribunal in Den Haag: Ein Stück später Gerechtigkeit",
+   "s": "Das Urteil gegen Ex-Präsident Hashim Thaçi löst im Kosovo scharfe Kritik aus. Es könnte aber langfristig ein positives Signal für die Zukunft sein.",
+   "u": "https://taz.de/Kosovo-Sondertribunal-in-Den-Haag/!6213591/",
+   "q": "taz",
+   "d": "2026-09-16T16:02:00+00:00"
+  },
+  {
+   "t": "Von der Leyen zur Lage der EU: Stirnrunzeln und Freundschaft mit Kanada",
+   "s": "Mit Spannung war die Rede von EU-Kommissionspräsidentin von der Leyen erwartet worden. Für Irritation sorgt ihr Vorstoß nach neuen Sicherheitsgremien.",
+   "u": "https://taz.de/Von-der-Leyen-zur-Lage-der-EU/!6213636/",
+   "q": "taz",
+   "d": "2026-09-16T15:29:00+00:00"
+  },
+  {
+   "t": "Kriegsverbrechen im Kosovo: 25 Jahre Haft für Hashim Thaçi",
+   "s": "Das Sondergericht in Den Haag verurteilt Kosovos Ex-Präsident Thaçi wegen Verbrechen im Unabhängigkeitskrieg. Kosovaren protestieren gegen das Urteil.",
+   "u": "https://taz.de/Kriegsverbrechen-im-Kosovo/!6213637/",
+   "q": "taz",
+   "d": "2026-09-16T15:05:00+00:00"
+  },
+  {
+   "t": "Repression in der Türkei: Festnahmen bei Demos gegen LGBTIQ-Repression",
+   "s": "In der Türkei kam es nach landesweiten Razzien gegen queere Institutionen zu Protesten. Dabei wurden erneut Menschen festgenommen.",
+   "u": "https://taz.de/Repression-in-der-Tuerkei/!6213727/",
+   "q": "taz",
+   "d": "2026-09-16T13:47:00+00:00"
+  },
   {
    "t": "Rede zur Lage der EU: Die Pläne der Ursula von der Leyen",
    "s": "Die EU-Kommissionspräsidentin hat ihre jährliche Rede vor dem EU-Parlament gehalten. Es ging um ein Social-Media-Verbot für Kinder, Verteidigung, Hitze und Kanada.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Pride-in-Charkiw/!6212787/",
    "q": "taz",
    "d": "2026-09-13T12:42:00+00:00"
-  },
-  {
-   "t": "Kritik an Staatsbegräbnis für Mladić: Wer Kriegsverbrechern huldigt, ist in der EU nicht willkommen",
-   "s": "In Serbien wird der frühere Armeechef Mladić posthum geehrt. Das Verklären des Völkermords sendet autoritäre statt demokratische Signale nach Brüssel.",
-   "u": "https://taz.de/Kritik-an-Staatsbegraebnis-fuer-Mladic/!6212725/",
-   "q": "taz",
-   "d": "2026-09-13T10:45:00+00:00"
-  },
-  {
-   "t": "Schweden vor der Wahl: Rauer Ton im hohen Norden",
-   "s": "Am Sonntag wählt Schweden und kann sich für links oder rechts entscheiden. Gesundheitssystem, Wirtschaft und Arbeitslosigkeit dominierten den Wahlkampf.",
-   "u": "https://taz.de/Schweden-vor-der-Wahl/!6212508/",
-   "q": "taz",
-   "d": "2026-09-12T18:26:00+00:00"
-  },
-  {
-   "t": "EU-Beitrittskandidat Montenegro: Die orthodoxe Kirche wurde zum Handlanger der Politik",
-   "s": "Das Westbalkanland Montenegro will bald in die EU. Eine Debatte über die Anteilnahme beim Begräbnis des Kriegsverbrechers Mladić kommt da zur Unzeit.",
-   "u": "https://taz.de/EU-Beitrittskandidat-Montenegro/!6208159/",
-   "q": "taz",
-   "d": "2026-09-12T14:28:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Drei Tote bei russischen Luftangriffen",
-   "s": "Auch die Ukraine hat mehrere Ziele in Russland attackiert und beschädigt. Ob Wladimir Putin zum G20-Gipfel nach Miami reisen wird, ist noch offen.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6212686/",
-   "q": "taz",
-   "d": "2026-09-12T14:24:00+00:00"
-  },
-  {
-   "t": "Trump in Irland: US-Präsident besucht seinen eigenen Golfplatz",
-   "s": "Donald Trump ist zu einem zweitägigen Besuch in Irland eingetroffen. Dabei vermischt er Geschäftliches mit Privatem.",
-   "u": "https://taz.de/Trump-in-Irland/!6212679/",
-   "q": "taz",
-   "d": "2026-09-12T11:32:00+00:00"
   }
  ]
 }

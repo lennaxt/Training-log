@@ -1,7 +1,112 @@
 {
  "name": "Inland",
- "updated": "2026-09-16T14:12:36+00:00",
+ "updated": "2026-09-16T18:54:59+00:00",
  "items": [
+  {
+   "t": "Libanesischer Ex-Präsident vor Gericht: Beiruter Hafenexplosion hat ein Nachspiel",
+   "s": "Der libanesische Ex-Präsident Michel Aoun muss sich für die Explosion von Ammoniumnitrat im Hafen von Beirut 2020 verantworten. Über 250 Menschen starben.",
+   "u": "https://taz.de/Libanesischer-Ex-Praesident-vor-Gericht/!6213630/",
+   "q": "taz",
+   "d": "2026-09-16T18:03:00+00:00"
+  },
+  {
+   "t": "Bundeskanzler Friedrich Merz: Kanzler von föderalen Gnaden",
+   "s": "Die CDU-Ministerpräsidenten der Länder stärken dem Chef den Rücken. Mit Respekt für Friedrich Merz und seine Arbeit hat das indes wenig zu tun.",
+   "u": "https://taz.de/Bundeskanzler-Friedrich-Merz/!6208249/",
+   "q": "taz",
+   "d": "2026-09-16T18:00:00+00:00"
+  },
+  {
+   "t": "Reaktion auf CSD-Anschlag: Prävention nicht vergessen",
+   "s": "Die Regierung legt ein ganz vernünftiges 10-Punkte-Programm gegen Islamismus vor. Entscheidend ist aber, was darin zu kurz kommt.",
+   "u": "https://taz.de/Reaktion-auf-CSD-Anschlag/!6213692/",
+   "q": "taz",
+   "d": "2026-09-16T17:59:00+00:00"
+  },
+  {
+   "t": "AfD Mecklenburg-Vorpommern: Herr Holm und die radikalen Männer",
+   "s": "Auch in Mecklenburg-Vorpommern will die AfD die Wahl gewinnen. Spitzenkandidat Leif-Erik Holm gibt sich betont bürgerlich. Doch hinter ihm tummeln sich Radikale.",
+   "u": "https://taz.de/AfD-Mecklenburg-Vorpommern/!6213575/",
+   "q": "taz",
+   "d": "2026-09-16T17:55:00+00:00"
+  },
+  {
+   "t": "Landtagswahlen und Merz-Debatte - Wohin steuert das Land?",
+   "s": "Der AfD-Erfolg in Sachsen-Anhalt verschärft die Debatte über Regierung, Union und Kanzler Merz. Vor den Wahlen in Mecklenburg-Vorpommern und Berlin stellt sich die Frage: Wird Regieren nur schwieriger oder erlebt Deutschland einen Kipppunkt?Fröhndrich, S.; Allmendinger, J.; von Lucke, A.; Witt, S.; Orlow, A.",
+   "u": "https://www.deutschlandfunk.de/landtagswahlen-und-merz-debatte-wohin-steuert-das-land-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-16T17:15:00+00:00"
+  },
+  {
+   "t": "Rede zur Lage der Union: Von der Leyen überspannt den Bogen",
+   "s": "In ihrer Rede zur Lage der Union lässt die EU-Kommissionspräsidentin viele Fragen offen. Wohin Europa mit ihr steuert, bleibt unklar.",
+   "u": "https://taz.de/Rede-zur-Lage-der-Union/!6213664/",
+   "q": "taz",
+   "d": "2026-09-16T17:00:00+00:00"
+  },
+  {
+   "t": "Nach Einsturz-Tragödie in Gaza: Dutzende Menschen noch unter Trümmern gesucht",
+   "s": "Ein eingestürztes Wohnhaus hat viele Menschen unter sich begraben. Dort hatten vertriebene Familien gelebt. Israel setzt derweil seine Angriffe fort.",
+   "u": "https://taz.de/Nach-Einsturz-Tragoedie-in-Gaza/!6213863/",
+   "q": "taz",
+   "d": "2026-09-16T16:59:00+00:00"
+  },
+  {
+   "t": "Gesetzliche Rente - Sollten Erwerbstätige ohne Kinder mehr bezahlen?",
+   "s": "Deutschlands Sozialstaat gerät unter Druck: Die Gesellschaft altert, Erwerbstätige und Kinder werden weniger. Fachleute fordern mehr Anerkennung für Eltern sowie eine stärkere Beteiligung Kinderloser. Die Politik zögert bisher.Dohmen, Caspar",
+   "u": "https://www.deutschlandfunk.de/gesetzliche-rente-sollten-erwerbstaetige-ohne-kinder-mehr-bezahlen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-16T16:40:00+00:00"
+  },
+  {
+   "t": "Maskenbeschaffung vor Gericht: Jens Spahn kommt uns wohl doch nicht ganz so teuer",
+   "s": "Beim Bundesgerichtshof deutet sich ein Teilerfolg der Bundesregierung an: Für viele der 2020 zu viel gekauften Coronamasken muss sie wohl nicht zahlen.",
+   "u": "https://taz.de/Maskenbeschaffung-vor-Gericht/!6213640/",
+   "q": "taz",
+   "d": "2026-09-16T16:05:00+00:00"
+  },
+  {
+   "t": "Maßnahmen nach Anschlag auf CSD: Repression und ein bisschen Prävention",
+   "s": "Die Bundesregierung legt einen Zehn-Punkte-Plan gegen islamistischen Terror vor. Er beinhaltet vor allem höhere Strafen, mehr Fußfesseln und Überwachung.",
+   "u": "https://taz.de/Massnahmen-nach-Anschlag-auf-CSD/!6213627/",
+   "q": "taz",
+   "d": "2026-09-16T16:03:00+00:00"
+  },
+  {
+   "t": "Kosovo-Sondertribunal in Den Haag: Ein Stück später Gerechtigkeit",
+   "s": "Das Urteil gegen Ex-Präsident Hashim Thaçi löst im Kosovo scharfe Kritik aus. Es könnte aber langfristig ein positives Signal für die Zukunft sein.",
+   "u": "https://taz.de/Kosovo-Sondertribunal-in-Den-Haag/!6213591/",
+   "q": "taz",
+   "d": "2026-09-16T16:02:00+00:00"
+  },
+  {
+   "t": "Von der Leyen zur Lage der EU: Stirnrunzeln und Freundschaft mit Kanada",
+   "s": "Mit Spannung war die Rede von EU-Kommissionspräsidentin von der Leyen erwartet worden. Für Irritation sorgt ihr Vorstoß nach neuen Sicherheitsgremien.",
+   "u": "https://taz.de/Von-der-Leyen-zur-Lage-der-EU/!6213636/",
+   "q": "taz",
+   "d": "2026-09-16T15:29:00+00:00"
+  },
+  {
+   "t": "Kriegsverbrechen im Kosovo: 25 Jahre Haft für Hashim Thaçi",
+   "s": "Das Sondergericht in Den Haag verurteilt Kosovos Ex-Präsident Thaçi wegen Verbrechen im Unabhängigkeitskrieg. Kosovaren protestieren gegen das Urteil.",
+   "u": "https://taz.de/Kriegsverbrechen-im-Kosovo/!6213637/",
+   "q": "taz",
+   "d": "2026-09-16T15:05:00+00:00"
+  },
+  {
+   "t": "Kanzler-Krise - Wie Merz um sein Amt kämpft",
+   "s": "Die CDU-Ministerpräsidenten haben sich öffentlich hinter den Kanzler gestellt. Warum die Diskussion um Friedrich Merz dennoch nicht beendet ist. Und von der Leyens State of the Union: Ist Kanada auf dem Weg in die EU?Philipp May",
+   "u": "https://www.deutschlandfunk.de/merz-bundesregierung-eu-rede-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-16T15:00:00+00:00"
+  },
+  {
+   "t": "US-Waffen im All: Sicherheitsexperte warnt vor neuem Rüstungswettlauf",
+   "s": "Die USA haben erstmal Waffen im Weltraum bestätigt. Sicherheitsexperte Ulrich Kühn sieht darin einen weiteren Schritt der Militarisierung. Er warnt vor eskalierenden Konflikten, gefährlichem Weltraumschrott und schwachen internationalen Regeln.Knoll, Christiane",
+   "u": "https://www.deutschlandfunk.de/waffen-im-weltall-zwischen-space-treaty-und-wirklichkeit-interview-mit-u-kuehn-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-16T14:40:19+00:00"
+  },
   {
    "t": "Linke nach der Wahl in Sachsen-Anhalt: Schluss mit konstruktiver Opposition",
    "s": "Nach der Niederlage bei der Landtagswahl stellt sich die Linke auf harte Zeiten ein. Von einem überparteilichen Ministerpräsidenten hält sie nichts.",
@@ -15,13 +120,6 @@
    "u": "https://taz.de/Plaene-der-EU-Kommission/!6213632/",
    "q": "taz",
    "d": "2026-09-16T14:01:00+00:00"
-  },
-  {
-   "t": "Berliner Grünen-Spitzenkandidat Graf: Moderator sucht Koalition",
-   "s": "Die Berliner Grünen haben gute Chancen, im nächsten Senat mitzuregieren. Spitzenkandidat Werner Graf setzt auf einen moderaten Wahlkampf, der ihm viele Optionen offenhalten soll. Von T. Schmutzler und M. Kell.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhauswahl-berlin-werner-graf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T13:58:42+00:00"
   },
   {
    "t": "Amnesty-Bericht zu Iran: 87 Architekten von Mord, Gewalt und Folter",
@@ -39,24 +137,10 @@
   },
   {
    "t": "Merz in der Krise: Unterstützung um fünf vor Landtagswahl",
-   "s": "Lange haben sie geschwiegen. Nun stellen sich die CDU-Ministerpräsidenten hinter den Bundeskanzler. Doch starker Rückhalt sieht anders aus.",
+   "s": "Lange haben sie geschwiegen. Nun stellen sich die CDU-Ministerpräsidenten hinter den Bundeskanzler. Auch vom Wirtschaftsflügel der Fraktion kommt Unterstützung.",
    "u": "https://taz.de/Merz-in-der-Krise/!6213677/",
    "q": "taz",
    "d": "2026-09-16T13:42:00+00:00"
-  },
-  {
-   "t": "Regierung legt Aktionsplan gegen Sozialbetrug vor",
-   "s": "Die Bundesregierung verschärft den Kampf gegen Sozialleistungsmissbrauch. Ein neuer Aktionsplan setzt auf mehr Datenabgleich, mehr Kontrollen und strengere Regeln. Auch KI soll helfen. Von J.-P. Bartels und T. Aßmann.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-plan-sozialmissbrauch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T12:01:27+00:00"
-  },
-  {
-   "t": "Gemeinsame Erklärung: CDU-Ministerpräsidenten stellen sich hinter Merz",
-   "s": "Kanzler Merz steht massiv unter Druck. Kurz vor den Landtagswahlen in Mecklenburg-Vorpommern und Berlin melden sich nun alle acht CDU-Ministerpräsidenten zu Wort - und stellen sich hinter Merz. Der reagiert erleichtert.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/cdu-ministerpraesidenten-merz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T11:19:59+00:00"
   },
   {
    "t": "Nach US-Medienberichten: Washington will Milliarden-Rüstungspaket für Israel genehmigen",
@@ -64,13 +148,6 @@
    "u": "https://taz.de/Nach-US-Medienberichten/!6213579/",
    "q": "taz",
    "d": "2026-09-16T11:01:00+00:00"
-  },
-  {
-   "t": "Regierung legt Zehn-Punkte-Plan gegen Terror vor",
-   "s": "Die Bundesregierung will entschlossener gegen Terror, Propaganda und Gewalt vorgehen. Gefährder sollen künftig stärker überwacht, Messerangriffe härter bestraft werden. Justizministerin Hubig sprach von einer \"ernsten Gefahr\".",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/massnahmen-islamistischer-terror-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T10:52:32+00:00"
   },
   {
    "t": "Zuwanderung von Fachkräften: Verlorene Zeit",
@@ -87,88 +164,11 @@
    "d": "2026-09-16T09:39:00+00:00"
   },
   {
-   "t": "ADAC: Mehr Staus in den Sommerferien 2026",
-   "s": "Mehr Staus, die aber kürzer dauerten als vergangenes Jahr: So fasst der ADAC die Sommerferien-Saison 2026 zusammen. Die Rekordpreise an den Tankstellen haben viele Autofahrer offenbar nicht davon abgehalten, mit dem Auto unterwegs zu sein.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/adac-stauradar-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T08:16:57+00:00"
-  },
-  {
    "t": "Gedenken an Jina Mahsa Amini: Du bleibst eine von uns",
    "s": "Vor vier Jahren starb Jina Mahsa Amini in einem Gefängnis in Teheran. Sie hatte nichts verbrochen, nur ihr Kopftuch nicht „ordnungsgemäß“ getragen.",
    "u": "https://taz.de/Gedenken-an-Jina-Mahsa-Amini/!6213253/",
    "q": "taz",
    "d": "2026-09-16T08:01:00+00:00"
-  },
-  {
-   "t": "Reproduktive Rechte: Südkorea erlaubt Medikamente zum Schwangerschaftsabbruch",
-   "s": "Zum ersten Mal sollen Frauen in Südkorea legal Medikamente zum Schwangerschaftsabbruch bekommen können. Die Zulassung eines Präparats wird derzeit geprüft.",
-   "u": "https://taz.de/Reproduktive-Rechte/!6213572/",
-   "q": "taz",
-   "d": "2026-09-16T07:44:00+00:00"
-  },
-  {
-   "t": "Mecklenburg-Vorpommern: Wie Schwesig und Holm um den Wahlsieg ringen",
-   "s": "Schafft die SPD mit Ministerpräsidentin Schwesig die Aufholjagd in Mecklenburg-Vorpommern und wird stärkste Kraft? Im Wahlkampf muss sie sich mit AfD-Mann Holm auseinandersetzen, der sie auch in ihrem Wahlkreis herausfordert. Von Michael Seidel.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/wahl-mecklenburg-vorpommern-wahlkampf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T06:13:18+00:00"
-  },
-  {
-   "t": "Russland vor der Wahl: Wahlschein ausfüllen oder doch ungültig machen?",
-   "s": "In Russland wird das Parlament neu gewählt, das Ergebnis aber steht schon fest. Für Kriegsgegner ist es eine schwere Zeit, doch drei Optionen haben sie noch.",
-   "u": "https://taz.de/Russland-vor-der-Wahl/!6213270/",
-   "q": "taz",
-   "d": "2026-09-16T05:53:00+00:00"
-  },
-  {
-   "t": "Debatte um Spritpreise: Deutschland mietet sich arm",
-   "s": "Bei hohen Spritpreisen wird die Politik sofort aktiv. Doch bei den hohen Mieten wäre ein entschiedenes Vorgehen viel, viel wichtiger.",
-   "u": "https://taz.de/Debatte-um-Spritpreise/!6213364/",
-   "q": "taz",
-   "d": "2026-09-16T05:01:00+00:00"
-  },
-  {
-   "t": "Wie eine Aktivistin in Mecklenburg-Vorpommern für Demokratie kämpft",
-   "s": "Theresia Crone engagiert sich in Mecklenburg-Vorpommern gegen Rechts, indem sie mit AfD-Wählern spricht. Als Influencerin bei TikTok wird sie deswegen oft angefeindet und bedroht. Dennoch macht sie weiter - es sei kein Kampf gegen Windmühlen.Zerback, Sarah",
-   "u": "https://www.deutschlandfunk.de/wahlkampf-in-mecklenburg-vorpommern-interview-theresia-crone-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-16T04:50:00+00:00"
-  },
-  {
-   "t": "Organisierte Kriminalität steigt an: Ursachen und Lösungen",
-   "s": "Organisierte Kriminalität in Deutschland nimmt zu. Kriminelle Banden treten immer offener und gewalttätiger auf. Der Rechtstaat werde nicht mehr als wehrhaft wahrgenommen, sagt ein Strafrechtler und fordert, den Banden die Grundlage zu entziehen.Oelmaier, Tobias",
-   "u": "https://www.deutschlandfunk.de/organisierte-kriminalitaet-im-wandel-interview-prof-arndt-sinn-strafrechtler-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-15T21:20:00+00:00"
-  },
-  {
-   "t": "Hohe Spritpreise: SPD-Fraktionsvize fordert Übergewinnsteuer",
-   "s": "Mehr Druck auf Mineralölkonzerne und zielgerichtete Maßnahmen: SPD-Fraktionsvize Zorn verspricht neue Vorschläge der Sprit-Taskforce \"in den nächsten Tagen\". Angesichts der hohen Spritpreise seien staatliche Eingriffe nötig.",
-   "u": "https://www.tagesschau.de/inland/sprit-taskforce-bundesregierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T19:17:52+00:00"
-  },
-  {
-   "t": "Bundeskanzler Merz sagt Reise zur UN-Generaldebatte ab",
-   "s": "Der \"Außenkanzler\" Merz steht unter Druck - innenpolitisch. Das Wahlergebnis in Sachsen-Anhalt setzt ihm zu - und die nächsten Wahlen stehen bevor. Nun sagt der CDU-Chef eine Reise zu den Vereinten Nationen ab: Er werde in Berlin gebraucht.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-un-generaldebatte-absage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T18:42:47+00:00"
-  },
-  {
-   "t": "Linken-Kandidatin zur Berlin-Wahl: Wie Elif Eralp um das Rote Rathaus kämpft",
-   "s": "Die Linke liefert sich in Umfragen zur Berliner Abgeordnetenhauswahl ein Kopf-an-Kopf-Rennen mit der CDU. Ihre Spitzenkandidatin kämpft vor allem gegen hohe Mieten und polarisiert im Wahlkampf stark. Von Boris Hermel und Mirja Fiedler.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-eralp-linke-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T17:58:49+00:00"
-  },
-  {
-   "t": "Pentagon-Bericht zum Irankrieg: Kosten von mindestens 33 Milliarden US-Dollar",
-   "s": "Ein Bericht des US-Verteidigungsministeriums legt Auswirkungen des Krieges in Iran offen. Er widerspricht Aussagen von US-Präsident Donald Trump.",
-   "u": "https://taz.de/Pentagon-Bericht-zum-Irankrieg/!6213308/",
-   "q": "taz",
-   "d": "2026-09-15T17:50:00+00:00"
   }
  ]
 }

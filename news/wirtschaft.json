@@ -1,13 +1,20 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-16T14:12:38+00:00",
+ "updated": "2026-09-16T18:55:01+00:00",
  "items": [
   {
-   "t": "US-Senat stoppt Gesetz - Kryptowährungen unter Druck",
-   "s": "Ein US-Gesetz zur Regulierung von Kryptowährungen ist im Senat gescheitert. Das ist eine Niederlage für Donald Trump und setzt die Kurse unter Druck. Der Bitcoin fällt zeitweise unter 75.000 Dollar.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/krypto-us-senat-100.html",
+   "t": "US-Notenbank erhöht Leitzins erstmals seit 2023",
+   "s": "Im Kampf gegen die hartnäckig hohe Inflation hebt die US-Notenbank Fed den Leitzins an. Er wurde um einen Viertelpunkt erhöht - auf die neue Spanne von 3,75 bis 4,00 Prozent. Experten hatten mit diesem Schritt gerechnet.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eilmeldung-fed-leitzins-erhoeht-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-16T12:37:06+00:00"
+   "d": "2026-09-16T18:49:09+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX schließt im Plus - Fed im Fokus",
+   "s": "Der deutsche Aktienmarkt hat am Mittwoch zugelegt. Rückenwind kam vor allem von gesunkenen Ölpreisen und gefragten Aktien aus dem KI- und Halbleiterbereich. Im Fokus der Anleger stand zugleich die US-Geldpolitik.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-16T16:25:03+00:00"
   },
   {
    "t": "Kreditkarten-Schulden: Der Alltag der Amerikaner läuft auf Pump",
@@ -162,13 +169,6 @@
    "u": "https://www.deutschlandfunk.de/reeder-griechenland-russland-schattenflotte-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-13T08:38:00+00:00"
-  },
-  {
-   "t": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
-   "s": "Angesichts der Risiken muss die Entwicklung von KI dringend verlangsamt werden, meint der Chef von Anthropic und fordert Regulierungen. Unterstützung bekommt er von OpenAI-Chef Altman und Tech-Unternehmer Musk. Von Gabi Biesinger.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/ki-anthropic-106.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T04:47:55+00:00"
   }
  ]
 }
