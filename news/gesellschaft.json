@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-16T23:39:24+00:00",
+ "updated": "2026-09-17T08:40:27+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: US-Kongress beschließt Gesetz für Russland-Sanktionen",
+   "s": "Gibt es bald neue US-Sanktionen gegen Russland? Ein Gesetz dazu hat nun das US-Parlament passiert. Der Schritt könnte auch die Beziehungen zu China belasten.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6213892/",
+   "q": "taz",
+   "d": "2026-09-17T06:12:00+00:00"
+  },
+  {
+   "t": "Vorschlag der EU-Kommission: Kanada könnte „assoziiertes EU-Mitglied“ werden – was heißt das?",
+   "s": "Kanada will engere Beziehungen zur EU. Nun steht der Vorschlag für ein neues Modell im Raum. Und Donald Trump schäumt. Die wichtigsten Fragen und Antworten.",
+   "u": "https://taz.de/Vorschlag-der-EU-Kommission/!6213660/",
+   "q": "taz",
+   "d": "2026-09-17T05:22:00+00:00"
+  },
   {
    "t": "Rede zur Lage der Union: Von der Leyen überspannt den Bogen",
    "s": "In ihrer Rede zur Lage der Union lässt die EU-Kommissionspräsidentin viele Fragen offen. Wohin Europa mit ihr steuert, bleibt unklar.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Razzien-in-der-Tuerkei/!6212782/",
    "q": "taz",
    "d": "2026-09-13T14:46:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: „Putin eskaliert“",
-   "s": "Eine russische Drohne trifft einen Passagierzug in der Ukraine nahe der polnischen Grenze. Verletzt wird niemand – doch Polen ist besorgt.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6212908/",
-   "q": "taz",
-   "d": "2026-09-13T13:50:00+00:00"
-  },
-  {
-   "t": "Pride in Charkiw: „Wir wollen, dass diese Stadt eine europäische Stadt ist“",
-   "s": "Unter hohen Sicherheitsvorkehrungen findet die Pride in der ostukrainischen Stadt Charkiw statt. Hass schlägt Queers auch in der Ukraine entgegen.",
-   "u": "https://taz.de/Pride-in-Charkiw/!6212787/",
-   "q": "taz",
-   "d": "2026-09-13T12:42:00+00:00"
   }
  ]
 }

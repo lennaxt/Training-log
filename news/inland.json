@@ -1,7 +1,70 @@
 {
  "name": "Inland",
- "updated": "2026-09-16T23:39:19+00:00",
+ "updated": "2026-09-17T08:40:22+00:00",
  "items": [
+  {
+   "t": "Diesel-Allzeithoch - Sprit-Entlastungen laut Frei ab Oktober möglich",
+   "s": "Nach Benzin ist jetzt auch Diesel so teuer wie nie zuvor. Doch wie genau die Bundesregierung die hohen Preise abfedern will, ist noch unklar. Unionsfraktionschef Frei stellt aber eine schnelle Entlastung in Aussicht.",
+   "u": "https://www.tagesschau.de/inland/spritpreise-frei-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T08:07:33+00:00"
+  },
+  {
+   "t": "UN-Vollversammlung in New York: USA verweigern Palästinenserpräsident Visum für UN",
+   "s": "Bereits 2025 gaben die USA Palästinenserpräsident Abbas kein Visum für die Generaldebatte der UN-Vollversammlung in New York. Nun verkünden sie erneut Visa-Sanktionen.",
+   "u": "https://taz.de/UN-Vollversammlung-in-New-York/!6213910/",
+   "q": "taz",
+   "d": "2026-09-17T07:55:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: US-Kongress beschließt Gesetz für Russland-Sanktionen",
+   "s": "Gibt es bald neue US-Sanktionen gegen Russland? Ein Gesetz dazu hat nun das US-Parlament passiert. Der Schritt könnte auch die Beziehungen zu China belasten.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6213892/",
+   "q": "taz",
+   "d": "2026-09-17T06:12:00+00:00"
+  },
+  {
+   "t": "15 Jahre Occupy Wall Street: Als die Wall Street abgeriegelt wurde",
+   "s": "In den USA verhalf die Occupy-Bewegung einer Linken zu großer Wirkungsmacht. Doch für einen basisdemokratisch öffentlichen Raum war in New York auf Dauer kein Platz.",
+   "u": "https://taz.de/15-Jahre-Occupy-Wall-Street/!6213571/",
+   "q": "taz",
+   "d": "2026-09-17T05:41:00+00:00"
+  },
+  {
+   "t": "Vorschlag der EU-Kommission: Kanada könnte „assoziiertes EU-Mitglied“ werden – was heißt das?",
+   "s": "Kanada will engere Beziehungen zur EU. Nun steht der Vorschlag für ein neues Modell im Raum. Und Donald Trump schäumt. Die wichtigsten Fragen und Antworten.",
+   "u": "https://taz.de/Vorschlag-der-EU-Kommission/!6213660/",
+   "q": "taz",
+   "d": "2026-09-17T05:22:00+00:00"
+  },
+  {
+   "t": "Grüne: Übergewinnsteuer könnte Entlastungen mitfinanzieren",
+   "s": "Bürger mit niedrigem Einkommen sollten gezielt per Direktzahlungen entlastet werden, sagt Grünen-Politiker Michael Kellner. Eine Übergewinnsteuer für Ölkonzerne könnte bei der Finanzierung helfen. Er fordert die Koalition auf, mutig zu handeln.Klein, Bettina",
+   "u": "https://www.deutschlandfunk.de/diskussion-um-entlastung-bei-den-spritpreisen-int-michael-kellner-gruene-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-17T05:15:11+00:00"
+  },
+  {
+   "t": "Wahlkampf in Mecklenburg-Vorpommern: Schwesig auf Betriebstemperatur",
+   "s": "Vor der Wahl in Mecklenburg-Vorpommern stehen sich die SPD-Ministerpräsidentin und ihr AfD-Konkurrent im TV-Duell gegenüber. Schwesig ist im Attackemodus, der Rechte bleibt blass und dröge.",
+   "u": "https://taz.de/Wahlkampf-in-Mecklenburg-Vorpommern/!6213888/",
+   "q": "taz",
+   "d": "2026-09-17T05:11:00+00:00"
+  },
+  {
+   "t": "Kritik an Aussetzung des Familiennachzugs wächst",
+   "s": "Seit mehr als einem Jahr ist der Familiennachzug für subsidiär Schutzberechtigte ausgesetzt. Was das für Betroffene bedeutet und warum es auch innerhalb der Koalition Kritik daran gibt. Von Bianca Schwarz.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/familiennachzug-kritik-migration-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T04:00:50+00:00"
+  },
+  {
+   "t": "CDU-Politiker begrüßt härtere US-Sanktionen gegen Russland",
+   "s": "Das Sanktionspaket des US-Kongresses gegen Russland umfasst auch Maßnahmen gegen Staaten, die russisches Öl und Gas importieren. Peter Beyer begrüßt den US-Gesetzentwurf und hofft darauf, dass nun auch Lücken im EU-Sanktionsregime geschlossen werden.Klein, Bettina; Beyer, Peter",
+   "u": "https://www.deutschlandfunk.de/ruestungsdeal-und-fed-entscheidung-interview-mit-peter-beyer-ex-transatlantik-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-17T03:06:23+00:00"
+  },
   {
    "t": "Libanesischer Ex-Präsident vor Gericht: Beiruter Hafenexplosion hat ein Nachspiel",
    "s": "Der libanesische Ex-Präsident Michel Aoun muss sich für die Explosion von Ammoniumnitrat im Hafen von Beirut 2020 verantworten. Über 250 Menschen starben.",
@@ -106,69 +169,6 @@
    "u": "https://taz.de/Kriegsverbrechen-im-Kosovo/!6213637/",
    "q": "taz",
    "d": "2026-09-16T15:05:00+00:00"
-  },
-  {
-   "t": "Kanzler-Krise - Wie Merz um sein Amt kämpft",
-   "s": "Die CDU-Ministerpräsidenten haben sich öffentlich hinter den Kanzler gestellt. Warum die Diskussion um Friedrich Merz dennoch nicht beendet ist. Und von der Leyens State of the Union: Ist Kanada auf dem Weg in die EU?Philipp May",
-   "u": "https://www.deutschlandfunk.de/merz-bundesregierung-eu-rede-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-16T15:00:00+00:00"
-  },
-  {
-   "t": "US-Waffen im All: Sicherheitsexperte warnt vor neuem Rüstungswettlauf",
-   "s": "Die USA haben erstmal Waffen im Weltraum bestätigt. Sicherheitsexperte Ulrich Kühn sieht darin einen weiteren Schritt der Militarisierung. Er warnt vor eskalierenden Konflikten, gefährlichem Weltraumschrott und schwachen internationalen Regeln.Knoll, Christiane",
-   "u": "https://www.deutschlandfunk.de/waffen-im-weltall-zwischen-space-treaty-und-wirklichkeit-interview-mit-u-kuehn-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-16T14:40:19+00:00"
-  },
-  {
-   "t": "Linke nach der Wahl in Sachsen-Anhalt: Schluss mit konstruktiver Opposition",
-   "s": "Nach der Niederlage bei der Landtagswahl stellt sich die Linke auf harte Zeiten ein. Von einem überparteilichen Ministerpräsidenten hält sie nichts.",
-   "u": "https://taz.de/Linke-nach-der-Wahl-in-Sachsen-Anhalt/!6213596/",
-   "q": "taz",
-   "d": "2026-09-16T14:07:00+00:00"
-  },
-  {
-   "t": "Pläne der EU-Kommission: Social Media erst ab 13 Jahren",
-   "s": "Die EU-Kommissionspräsidentin stellt Pläne für ein Mindestalter für die Nutzung von Social Media vor. Das hätte Auswirkungen auf alle Nutzer:innen.",
-   "u": "https://taz.de/Plaene-der-EU-Kommission/!6213632/",
-   "q": "taz",
-   "d": "2026-09-16T14:01:00+00:00"
-  },
-  {
-   "t": "Amnesty-Bericht zu Iran: 87 Architekten von Mord, Gewalt und Folter",
-   "s": "Amnesty International macht publik, wer 2022 in Iran die Proteste niederschlug. Die Bezichtigten sind teils bekannte Gesichter des Islamischen Regimes.",
-   "u": "https://taz.de/Amnesty-Bericht-zu-Iran/!6213629/",
-   "q": "taz",
-   "d": "2026-09-16T13:53:00+00:00"
-  },
-  {
-   "t": "Repression in der Türkei: Festnahmen bei Demos gegen LGBTIQ-Repression",
-   "s": "In der Türkei kam es nach landesweiten Razzien gegen queere Institutionen zu Protesten. Dabei wurden erneut Menschen festgenommen.",
-   "u": "https://taz.de/Repression-in-der-Tuerkei/!6213727/",
-   "q": "taz",
-   "d": "2026-09-16T13:47:00+00:00"
-  },
-  {
-   "t": "Merz in der Krise: Unterstützung um fünf vor Landtagswahl",
-   "s": "Lange haben sie geschwiegen. Nun stellen sich die CDU-Ministerpräsidenten hinter den Bundeskanzler. Auch vom Wirtschaftsflügel der Fraktion kommt Unterstützung.",
-   "u": "https://taz.de/Merz-in-der-Krise/!6213677/",
-   "q": "taz",
-   "d": "2026-09-16T13:42:00+00:00"
-  },
-  {
-   "t": "Regierung legt Aktionsplan gegen Sozialbetrug vor",
-   "s": "Die Bundesregierung verschärft den Kampf gegen Sozialleistungsmissbrauch. Ein neuer Aktionsplan setzt auf mehr Datenabgleich, mehr Kontrollen und strengere Regeln. Auch KI soll helfen. Von J.-P. Bartels und T. Aßmann.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-plan-sozialmissbrauch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T12:01:27+00:00"
-  },
-  {
-   "t": "Gemeinsame Erklärung: CDU-Ministerpräsidenten stellen sich hinter Merz",
-   "s": "Kanzler Merz steht massiv unter Druck. Kurz vor den Landtagswahlen in Mecklenburg-Vorpommern und Berlin melden sich nun alle acht CDU-Ministerpräsidenten zu Wort - und stellen sich hinter Merz. Der reagiert erleichtert.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/cdu-ministerpraesidenten-merz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T11:19:59+00:00"
   }
  ]
 }

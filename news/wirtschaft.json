@@ -1,20 +1,41 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-16T23:39:21+00:00",
+ "updated": "2026-09-17T08:40:24+00:00",
  "items": [
+  {
+   "t": "Update Wirtschaft vom 17.09.2026",
+   "s": "Update Wirtschaft vom 17.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1650412.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T07:47:51+00:00"
+  },
+  {
+   "t": "OpenAI veröffentlicht weitere KI-Zwischenfälle",
+   "s": "Künstliche Intelligenz entwickelt sich rasant - mit teils ungewollten Folgen. Zuletzt löste etwa ein Hacker-Angriff durch KI-Software von OpenAI weltweit Sorgen aus. Jetzt informierte der Entwickler über sechs neue Zwischenfälle.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/openai-kuenstliche-intelligenz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T07:05:33+00:00"
+  },
+  {
+   "t": "Marktbericht: Anleger nehmen US-Zinserhöhung gelassen auf",
+   "s": "Der DAX dürfte heute trotz der Zinserhöhung in den USA zum Handelsstart zulegen. Die Anleger sehen die Unabhängigkeit der US-Notenbank bestätigt. Auch das Mehr an Klarheit über den künftigen Zinskurs kommt an.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T05:36:45+00:00"
+  },
+  {
+   "t": "Wenn das Girokonto mehr als 100 Euro kostet: Wie der Wechsel gelingt",
+   "s": "Das Girokonto ist praktisch unverzichtbar. Doch vor allem bei vielen Filialbanken fällt mittlerweile eine Kontoführungsgebühr an - Kosten, die sich oft vermeiden lassen. Von L.-M. Hiltscher und L. Sallamon.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/girokonto-kontofuehrungsgebuehr-wechsel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T04:28:03+00:00"
+  },
   {
    "t": "US-Notenbank erhöht Leitzins erstmals seit 2023",
    "s": "Im Kampf gegen die hartnäckig hohe Inflation hebt die US-Notenbank Fed den Leitzins an. Er wurde um einen Viertelpunkt erhöht - auf die neue Spanne von 3,75 bis 4,00 Prozent. Experten hatten mit diesem Schritt gerechnet.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-16T21:03:12+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX schließt im Plus - Fed im Fokus",
-   "s": "Der deutsche Aktienmarkt hat am Mittwoch zugelegt. Rückenwind kam vor allem von gesunkenen Ölpreisen und gefragten Aktien aus dem KI- und Halbleiterbereich. Im Fokus der Anleger stand zugleich die US-Geldpolitik.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T16:25:03+00:00"
+   "d": "2026-09-17T00:07:20+00:00"
   },
   {
    "t": "Kreditkarten-Schulden: Der Alltag der Amerikaner läuft auf Pump",
@@ -43,13 +64,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-reiche-gas-winter-anreize-100.html",
    "q": "Tagesschau",
    "d": "2026-09-16T08:31:09+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 16.09.2026",
-   "s": "Update Wirtschaft vom 16.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1649790.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T07:46:24+00:00"
   },
   {
    "t": "Wirtschaft vor acht vom 15.09.2026",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-oelpreis-100.html",
    "q": "Tagesschau",
    "d": "2026-09-13T15:56:14+00:00"
-  },
-  {
-   "t": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
-   "s": "Kupfer kostet so viel wie nie. US-Zollsorgen, KI, Stromnetze und E-Autos treiben den Kupferpreis. Wo der Preisschub für Verbraucher spürbar werden könnte - vom Bauen bis zur Stromrechnung. Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/kupferpreis-rekordhoch-strom-verbraucher-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T13:03:38+00:00"
-  },
-  {
-   "t": "Griechenlands Reeder - Das steckt hinter ihrem Reichtum",
-   "s": "Griechische Schifffahrtsunternehmer gehören zu den vermögendsten Menschen der Welt. Sie haben großen Einfluss auf die Politik, sagen Experten. Für manche ihrer Geschäfte werden sie stark kritisiert.",
-   "u": "https://www.deutschlandfunk.de/reeder-griechenland-russland-schattenflotte-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-13T08:38:00+00:00"
   }
  ]
 }

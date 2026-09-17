@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-09-16T23:39:20+00:00",
+ "updated": "2026-09-17T08:40:23+00:00",
  "items": [
+  {
+   "t": "US-Repräsentantenhaus beschließt Sanktionen gegen Russland",
+   "s": "Lange wurde gerungen, jetzt hat auch das US-Repräsentantenhaus neue Sanktionen gegen Russland beschlossen. Damit können auch die Handelspartner Moskaus ins Visier genommen werden. Aber ist Trump bereit, das auch umzusetzen? Von Ralf Borchard.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-russland-sanktionen-140.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T07:25:46+00:00"
+  },
+  {
+   "t": "US-Präsident Trump droht EU wegen Annäherung an Kanada",
+   "s": "Während Kanada und die EU noch überlegen, wie sie künftig enger zusammenarbeiten wollen, macht US-Präsident Trump bereits klar: Er hält die Idee für \"lächerlich\" - und droht mit neuen Zöllen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-kanada-eu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T05:20:35+00:00"
+  },
+  {
+   "t": "Wie stellt Kanada sich die \"einzigartige Allianz\" vor?",
+   "s": "Kanada und die EU wollen noch mehr zusammenarbeiten. Wie genau das aussehen könnte, ist noch unklar. In seiner Rede vor dem EU-Parlament könnte Premier Carney heute ein paar der offenen Fragen beantworten. Von Giselle Ucar.",
+   "u": "https://www.tagesschau.de/ausland/europa/kanada-eu-carney-rede-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T04:30:03+00:00"
+  },
+  {
+   "t": "Kampf um die Straße von Hormus: Eine Bedrohung auch für die Umwelt",
+   "s": "Minen in der Straße von Hormus, Beschuss von Tankern: Satellitenbilder zeigen nun, was das für die Umwelt bedeutet. Rund um die Meerenge gibt es laut Greenpeace mehrere Ölteppiche. Viele Schutzgebiete seien bedroht. Von N. Amin.",
+   "u": "https://www.tagesschau.de/ausland/asien/hormus-oel-umwelt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T03:47:49+00:00"
+  },
   {
    "t": "Syrien: Größte Proteste seit Sturz von Assad",
    "s": "Gleich zweimal in kurzer Zeit hat die syrische Regierung Energiepreise erhöht. Dagegen regt sich im Land nun breiter Protest. Die Energiekrise hängt weniger mit der Entwicklung rund um Iran zusammen - sondern mit einem anderen Krieg. Von M. Behrendt.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-unterstuetzung-100.html",
    "q": "Tagesschau",
    "d": "2026-09-15T15:03:57+00:00"
-  },
-  {
-   "t": "Supreme Court: Niederlage für Trump im Streit über Briefwahl",
-   "s": "Noch vor den Zwischenwahlen im November wollte die US-Regierung verschärfte Briefwahlregeln durchsetzen - doch damit ist sie jetzt vor dem Supreme Court gescheitert. Die Demokraten sind erleichtert, Präsident Trump ist wütend.",
-   "u": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T14:52:07+00:00"
-  },
-  {
-   "t": "Bericht zum Iran-Krieg: US-Armee leidet unter Munitionsknappheit",
-   "s": "Präsident Trump behauptet immer wieder, dass die USA über \"praktisch unbegrenzt\" Munition verfügen - trotz des Iran-Kriegs. Ein Bericht an den Kongress widerspricht und listet genau Kosten und Schäden des Krieges auf.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-munition-knappheit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T12:04:35+00:00"
-  },
-  {
-   "t": "Mutmaßliche Saboteure behindern Zugverkehr in den Niederlanden",
-   "s": "Unbekannte haben auf mehreren Bahnstrecken in den Niederlanden Rohre abgelegt. In Teilen des Landes fuhren keine Züge mehr. Der Netzbetreiber geht von Sabotage aus.",
-   "u": "https://www.tagesschau.de/ausland/europa/sabotage-bahn-niederlande-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T11:05:37+00:00"
-  },
-  {
-   "t": "Russische Fregatte feuert Leuchtraketen auf dänischen Helikopter",
-   "s": "Ein dänischer Militärhubschrauber ist nur knapp von Leuchtraketen einer russischen Fregatte verfehlt worden. Dänemark spricht von einem ernsten Vorfall - und hat den russischen Botschafter einbestellt. Von Jana Sinram.",
-   "u": "https://www.tagesschau.de/ausland/europa/daenemark-leuchtkugeln-russische-fregatte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T08:43:00+00:00"
   }
  ]
 }

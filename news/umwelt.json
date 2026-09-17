@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-16T23:39:23+00:00",
+ "updated": "2026-09-17T08:40:25+00:00",
  "items": [
+  {
+   "t": "Wahlkampf in Mecklenburg-Vorpommern: Schwesig auf Betriebstemperatur",
+   "s": "Vor der Wahl in Mecklenburg-Vorpommern stehen sich die SPD-Ministerpräsidentin und ihr AfD-Konkurrent im TV-Duell gegenüber. Schwesig ist im Attackemodus, der Rechte bleibt blass und dröge.",
+   "u": "https://taz.de/Wahlkampf-in-Mecklenburg-Vorpommern/!6213888/",
+   "q": "taz",
+   "d": "2026-09-17T05:11:00+00:00"
+  },
   {
    "t": "Bundeskanzler Friedrich Merz: Kanzler von föderalen Gnaden",
    "s": "Die CDU-Ministerpräsidenten der Länder stärken dem Chef den Rücken. Mit Respekt für Friedrich Merz und seine Arbeit hat das indes wenig zu tun.",
@@ -39,7 +46,7 @@
   },
   {
    "t": "Göttingens grüne OB-Kandidatin: Migrantisch, jung, ambitioniert",
-   "s": "Onyeka Oshionwu hat beste Chancen, am 23. September Göttingens neue Oberbürgermeisterin zu werden. Ihrem Wahlkampf zollt auch die Konkurrenz Respekt.",
+   "s": "Onyeka Oshionwu hat beste Chancen, am 27. September Göttingens neue Oberbürgermeisterin zu werden. Ihrem Wahlkampf zollt auch die Konkurrenz Respekt.",
    "u": "https://taz.de/Goettingens-gruene-OB-Kandidatin/!6213423/",
    "q": "taz",
    "d": "2026-09-16T15:36:00+00:00"
@@ -162,13 +169,6 @@
    "u": "https://taz.de/BSW-in-Mecklenburg-Vorpommern/!6212055/",
    "q": "taz",
    "d": "2026-09-14T10:12:00+00:00"
-  },
-  {
-   "t": "Landtagsneubau in Sachsen: Protzbauten am Elbufer",
-   "s": "Der Sächsische Landtag startet für 450 Millionen Euro den Um- und Neubau seiner Gebäude. „Gigantisch“ sei das in Zeiten des Spardiktats, sagt der Steuerbund.",
-   "u": "https://taz.de/Landtagsneubau-in-Sachsen/!6212883/",
-   "q": "taz",
-   "d": "2026-09-14T07:49:00+00:00"
   }
  ]
 }

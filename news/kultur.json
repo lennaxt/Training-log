@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-16T23:39:25+00:00",
+ "updated": "2026-09-17T08:40:28+00:00",
  "items": [
+  {
+   "t": "15 Jahre Occupy Wall Street: Als die Wall Street abgeriegelt wurde",
+   "s": "In den USA verhalf die Occupy-Bewegung einer Linken zu großer Wirkungsmacht. Doch für einen basisdemokratisch öffentlichen Raum war in New York auf Dauer kein Platz.",
+   "u": "https://taz.de/15-Jahre-Occupy-Wall-Street/!6213571/",
+   "q": "taz",
+   "d": "2026-09-17T05:41:00+00:00"
+  },
   {
    "t": "Nach US-Medienberichten: Washington will Milliarden-Rüstungspaket für Israel genehmigen",
    "s": "Rüstungsgüter im Wert von 2,8 Milliarden Dollar wollen die USA an Israel liefern. Darunter einige der „zerstörerischsten Munitionsarten“ westlicher Arsenale.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Vor-den-Midterms-in-den-USA/!6210501/",
    "q": "taz",
    "d": "2026-09-05T12:46:00+00:00"
-  },
-  {
-   "t": "Rechte Netzwerke: Die internationale Rechte trifft sich in Chile",
-   "s": "Beim Foro Madrid in Santiago beschwören die Rechten Kast, Milei und Co eine neue Ära – währenddessen bröckelt in Chile die Unterstützung für Kast.",
-   "u": "https://taz.de/Rechte-Netzwerke/!6210430/",
-   "q": "taz",
-   "d": "2026-09-04T14:39:00+00:00"
   }
  ]
 }

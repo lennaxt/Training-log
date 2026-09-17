@@ -1,10 +1,17 @@
 {
  "name": "Wissen",
- "updated": "2026-09-16T23:39:22+00:00",
+ "updated": "2026-09-17T08:40:24+00:00",
  "items": [
   {
+   "t": "Bericht der WMO: Wasserspeicher schrumpfen weltweit",
+   "s": "Schmelzende Gletscher, weniger Wasser in Flüssen: Die Wasserreserven schwinden seit Jahren, warnt die Weltwetterorganisation. Damit gehe auch der Puffer für Dürrejahre verloren - mit Folgen für Bevölkerung und Wirtschaft.",
+   "u": "https://www.tagesschau.de/wissen/klima/wmo-bericht-zu-wasserressourcen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T05:55:02+00:00"
+  },
+  {
    "t": "Neuer Bluttest weckt Hoffnung auf Früherkennung bei Bauchspeicheldrüsenkrebs",
-   "s": "Tumore der Bauchspeicheldrüse sind meist erst erkennbar, wenn man sie kaum noch behandeln kann. Ein neuer Bluttest kann bei der Früherkennung helfen. Hoffnung weckt auch ein neuer Wirkstoff. Von Julia Jakob.",
+   "s": "Tumore der Bauchspeicheldrüse sind meist erst erkennbar, wenn man sie kaum noch behandeln kann. Ein neuer Bluttest kann bei der Früherkennung helfen. Hoffnung weckt auch ein neuer Wirkstoff. Von Joachim Budde.",
    "u": "https://www.tagesschau.de/wissen/gesundheit/bluttest-bauspeicheldruesenkrebs-100.html",
    "q": "Tagesschau",
    "d": "2026-09-16T13:22:15+00:00"
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1635594.html",
    "q": "Tagesschau",
    "d": "2026-08-22T14:24:29+00:00"
-  },
-  {
-   "t": "Langlebigkeit - Hype oder wissenschaftlich belegbar?",
-   "s": "Wie kann es gelingen, möglichst gesund alt zu werden? Ist Longevity nur ein Hype oder gibt es wissenschaftliche Fakten? Ein Kongress im September will informieren. Initiator Kluge rät im Interview zur Vorsicht.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/longevity-langlebigkeit-supplements-nahrungsergaenzung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-22T11:35:22+00:00"
   }
  ]
 }
