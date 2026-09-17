@@ -1,7 +1,105 @@
 {
  "name": "Inland",
- "updated": "2026-09-17T14:18:14+00:00",
+ "updated": "2026-09-17T19:02:25+00:00",
  "items": [
+  {
+   "t": "Windsurfen für Geflüchtete auf Rügen: Weitersurfen, wenn der Wind sich dreht",
+   "s": "Der Verein „tow“ bietet kostenlose Surfkurse für Geflüchtete in Mecklenburg-Vorpommern an. Warum man hier keine Angst vor der AfD hat.",
+   "u": "https://taz.de/Windsurfen-fuer-Gefluechtete-auf-Ruegen/!6212107/",
+   "q": "taz",
+   "d": "2026-09-17T17:57:00+00:00"
+  },
+  {
+   "t": "Rechtsextreme Vertreibungspläne: Sachsen-Anhalt als „Remigrationsmusterland“?",
+   "s": "Nach der Wahl in Sachsen-Anhalt legt der Rechtsextreme Martin Sellner der AfD einen Abschiebeplan vor. Auch die Partei hat schon konkrete Ideen.",
+   "u": "https://taz.de/Rechtsextreme-Vertreibungsplaene/!6214111/",
+   "q": "taz",
+   "d": "2026-09-17T17:49:00+00:00"
+  },
+  {
+   "t": "Beziehungen zwischen Kanada und der EU: Kanada möchte „engere Bande“ mit Europa",
+   "s": "Von der Leyen hat ein Assoziierungsabkommen mit Kanada vorgeschlagen. Dessen Premier Mark Carney begrüßt den Vorstoß. Trump ist erzürnt.",
+   "u": "https://taz.de/Beziehungen-zwischen-Kanada-und-der-EU/!6213957/",
+   "q": "taz",
+   "d": "2026-09-17T17:44:00+00:00"
+  },
+  {
+   "t": "Opposition in Schweden: Pingpong um Mandate sorgt für Nervenkitzel",
+   "s": "Vier Tage nach der Wahl in Schweden steht der knappe Wahlsieg der Opposition um die Sozialdemokraten fest. Die Regierungsbildung wird schwierig.",
+   "u": "https://taz.de/Opposition-in-Schweden/!6213916/",
+   "q": "taz",
+   "d": "2026-09-17T17:42:00+00:00"
+  },
+  {
+   "t": "Opposition in Russland: Fernsehkoch Pawel Sjutkin muss sechs Jahre in Haft",
+   "s": "Sein Hitler-Vergleich hat Russlands Präsident Putin nicht gefallen. Jetzt muss Fernsehkoch Pawel Sjutkin ins Gefängnis. Er nennt es eine „kreative Dienstreise“.",
+   "u": "https://taz.de/Russland/!6213945/",
+   "q": "taz",
+   "d": "2026-09-17T17:41:00+00:00"
+  },
+  {
+   "t": "Antisemitischer Anschlag: Brandanschlag auf Synagoge in Wuppertal",
+   "s": "In Wuppertal hat es einen Brandanschlag auf die dortige Synagoge gegeben. Der Präsident des Zentralrats der Juden in Deutschland ist besorgt.",
+   "u": "https://taz.de/Antisemitischer-Anschlag/!6214218/",
+   "q": "taz",
+   "d": "2026-09-17T16:43:00+00:00"
+  },
+  {
+   "t": "Zurück zum Bargeld – Schweden denkt um",
+   "s": "Bar bezahlen ist in Schweden die absolute Ausnahme. Doch ein neues Gesetz verpflichtet Supermärkte und Apotheken, wieder Bargeld anzunehmen. Zudem sollen die Schweden für den Notfall ein paar Scheine bereithalten. Was steckt hinter dem Sinneswandel?Schönfelder, Konstantin",
+   "u": "https://www.deutschlandfunk.de/zurueck-zum-bargeld-schweden-denkt-um-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-17T16:40:00+00:00"
+  },
+  {
+   "t": "Nach der Landtagswahl in Sachsen-Anhalt: Erste Absprachen zwischen BSW und AfD",
+   "s": "Öffentlich ziehen Rechtsextreme und Wagenknechtianer übereinander her. Vor der ersten Landtagssitzung gibt es Anzeichen, dass sie zusammenarbeiten.",
+   "u": "https://taz.de/Nach-der-Landtagswahl-in-Sachsen-Anhalt/!6213999/",
+   "q": "taz",
+   "d": "2026-09-17T16:04:00+00:00"
+  },
+  {
+   "t": "Hohe Spritpreise: Finger weg von der Mehrwertsteuer",
+   "s": "Es gibt einfache Arten, Menschen zu entlasten. So könnte die Einkommensteuer für Geringverdiener gesenkt und Armen ein Fixbetrag gezahlt werden.",
+   "u": "https://taz.de/Hohe-Spritpreise/!6213930/",
+   "q": "taz",
+   "d": "2026-09-17T16:03:00+00:00"
+  },
+  {
+   "t": "„Naza“ sorgt für Aufruhr: Morddrohungen und rechte Hetze",
+   "s": "Der Dokumentarfilm „Naza“ sorgt für Aufregung in Israel. Vor dem Elternhaus einer der Re­gis­seu­r:in­nen versammeln sich rechtsradikale Aktivisten.",
+   "u": "https://taz.de/Naza-sorgt-fuer-Aufruhr/!6213987/",
+   "q": "taz",
+   "d": "2026-09-17T15:59:00+00:00"
+  },
+  {
+   "t": "Krieg in der Ukraine: Alarmstufe Rot im Dauermodus",
+   "s": "Die ukrainische Hauptstadt Kyjiw wurde in der Nacht zu Donnerstag wieder Ziel massiver russische Luftangriffe. Tote sind keine zu beklagen.",
+   "u": "https://taz.de/Krieg-in-der-Ukraine/!6213936/",
+   "q": "taz",
+   "d": "2026-09-17T15:40:00+00:00"
+  },
+  {
+   "t": "Assoziierte EU-Mitgliedschaft - Kanada rückt näher an Europa heran",
+   "s": "Angesichts von Donald Trumps unberechenbarer Zollpolitik hat sich Kanadas Premier Mark Carney für eine engere Anbindung seines Landes an die EU ausgesprochen. Was versprechen sich die Länder von einer Allianz?",
+   "u": "https://www.deutschlandfunk.de/kanada-eu-allianz-usa-trump-zollpolitik-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-17T14:57:00+00:00"
+  },
+  {
+   "t": "Warum die SPD jetzt auf Manuela Schwesig hofft",
+   "s": "Die SPD hofft bei der Wahl in Mecklenburg-Vorpommern auf die Zugkraft von Ministerpräsidentin Schwesig. Ein Erfolg könnte die Partei etwas stabilisieren, doch die Stimmung bleibt angespannt. Von Anne-Katrin Mellmann und Moritz Rödle.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-wahl-mecklenburg-vorpommern-schwesig-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T14:33:03+00:00"
+  },
+  {
+   "t": "Bundesanwaltschaft: Islamist soll Anschlag auf Kirche vorbereitet haben",
+   "s": "Ein 24-jähriger Iraker soll eine Kirche in Bremen als Anschlagsziel ausgewählt und sich schon eine Schusswaffe beschafft haben. Nach Angaben der Bundesanwaltschaft wurde er nun in Brandenburg festgenommen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/mutmasslicher-islamist-festgenommen-brandenburg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T14:29:47+00:00"
+  },
   {
    "t": "Gewalt unter Eritreern in Deutschland: Zwei eritreische Regierungsgegner in Untersuchungshaft",
    "s": "Der Generalbundesanwalt ermittelt gegen zwei eritreische Männer in Deutschland. Ihnen wird Mitgliedschaft in der Brigade N’Hamedu vorgeworfen.",
@@ -15,13 +113,6 @@
    "u": "https://taz.de/EU-Plan-fuer-Social-Media/!6213938/",
    "q": "taz",
    "d": "2026-09-17T14:01:00+00:00"
-  },
-  {
-   "t": "Warum die SPD jetzt auf Manuela Schwesig hofft",
-   "s": "Die SPD hofft bei der Wahl in Mecklenburg-Vorpommern auf die Zugkraft von Ministerpräsidentin Schwesig. Ein Erfolg könnte die Partei etwas stabilisieren, doch die Stimmung bleibt angespannt. Von Anne-Katrin Mellmann und Moritz Rödle.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-wahl-mecklenburg-vorpommern-schwesig-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T12:48:06+00:00"
   },
   {
    "t": "Benzingeld aufs Konto: Wie der Staat uns Geld zahlen kann",
@@ -78,97 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-krach-spd-100.html",
    "q": "Tagesschau",
    "d": "2026-09-17T09:10:09+00:00"
-  },
-  {
-   "t": "Diesel-Allzeithoch - Sprit-Entlastungen laut Frei ab Oktober möglich",
-   "s": "Nach Benzin ist jetzt auch Diesel so teuer wie nie zuvor. Doch wie genau die Bundesregierung die hohen Preise abfedern will, ist noch unklar. Unionsfraktionschef Frei stellt aber eine schnelle Entlastung in Aussicht.",
-   "u": "https://www.tagesschau.de/inland/spritpreise-frei-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T08:07:33+00:00"
-  },
-  {
-   "t": "UN-Vollversammlung in New York: USA verweigern Palästinenserpräsident Visum für UN",
-   "s": "Bereits 2025 gaben die USA Palästinenserpräsident Abbas kein Visum für die Generaldebatte der UN-Vollversammlung in New York. Nun verkünden sie erneut Visa-Sanktionen.",
-   "u": "https://taz.de/UN-Vollversammlung-in-New-York/!6213910/",
-   "q": "taz",
-   "d": "2026-09-17T07:55:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: US-Kongress beschließt Gesetz für Russland-Sanktionen",
-   "s": "Gibt es bald neue US-Sanktionen gegen Russland? Ein Gesetz dazu hat nun das US-Parlament passiert. Der Schritt könnte auch die Beziehungen zu China belasten.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6213892/",
-   "q": "taz",
-   "d": "2026-09-17T06:12:00+00:00"
-  },
-  {
-   "t": "15 Jahre Occupy Wall Street: Als die Wall Street abgeriegelt wurde",
-   "s": "In den USA verhalf die Occupy-Bewegung einer Linken zu großer Wirkungsmacht. Doch für einen basisdemokratisch öffentlichen Raum war in New York auf Dauer kein Platz.",
-   "u": "https://taz.de/15-Jahre-Occupy-Wall-Street/!6213571/",
-   "q": "taz",
-   "d": "2026-09-17T05:41:00+00:00"
-  },
-  {
-   "t": "Vorschlag der EU-Kommission: Kanada könnte „assoziiertes EU-Mitglied“ werden – was heißt das?",
-   "s": "Kanada will engere Beziehungen zur EU. Nun steht der Vorschlag für ein neues Modell im Raum. Und Donald Trump schäumt. Die wichtigsten Fragen und Antworten.",
-   "u": "https://taz.de/Vorschlag-der-EU-Kommission/!6213660/",
-   "q": "taz",
-   "d": "2026-09-17T05:22:00+00:00"
-  },
-  {
-   "t": "Grüne: Übergewinnsteuer könnte Entlastungen mitfinanzieren",
-   "s": "Bürger mit niedrigem Einkommen sollten gezielt per Direktzahlungen entlastet werden, sagt Grünen-Politiker Michael Kellner. Eine Übergewinnsteuer für Ölkonzerne könnte bei der Finanzierung helfen. Er fordert die Koalition auf, mutig zu handeln.Klein, Bettina",
-   "u": "https://www.deutschlandfunk.de/diskussion-um-entlastung-bei-den-spritpreisen-int-michael-kellner-gruene-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-17T05:15:11+00:00"
-  },
-  {
-   "t": "Wahlkampf in Mecklenburg-Vorpommern: Schwesig auf Betriebstemperatur",
-   "s": "Vor der Wahl in Mecklenburg-Vorpommern stehen sich die SPD-Ministerpräsidentin und ihr AfD-Konkurrent im TV-Duell gegenüber. Schwesig ist im Attackemodus, der Rechte bleibt blass und dröge.",
-   "u": "https://taz.de/Wahlkampf-in-Mecklenburg-Vorpommern/!6213888/",
-   "q": "taz",
-   "d": "2026-09-17T05:11:00+00:00"
-  },
-  {
-   "t": "Kritik an Aussetzung des Familiennachzugs wächst",
-   "s": "Seit mehr als einem Jahr ist der Familiennachzug für subsidiär Schutzberechtigte ausgesetzt. Was das für Betroffene bedeutet und warum es auch innerhalb der Koalition Kritik daran gibt. Von Bianca Schwarz.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/familiennachzug-kritik-migration-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T04:00:50+00:00"
-  },
-  {
-   "t": "CDU-Politiker begrüßt härtere US-Sanktionen gegen Russland",
-   "s": "Das Sanktionspaket des US-Kongresses gegen Russland umfasst auch Maßnahmen gegen Staaten, die russisches Öl und Gas importieren. Peter Beyer begrüßt den US-Gesetzentwurf und hofft darauf, dass nun auch Lücken im EU-Sanktionsregime geschlossen werden.Klein, Bettina; Beyer, Peter",
-   "u": "https://www.deutschlandfunk.de/ruestungsdeal-und-fed-entscheidung-interview-mit-peter-beyer-ex-transatlantik-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-17T03:06:23+00:00"
-  },
-  {
-   "t": "Jugendschutz: Forscherin will mehr Regeln für Social-Media-Betreiber",
-   "s": "Kein TikTok oder Instagram für unter 13-jährige. Einen entsprechenden Gesetzentwurf stellt EU-Kommissionspräsidentin von der Leyen vor. Bildungsforscherin Kolleck begrüßt die Idee, die Plattformen stärker als bisher in die Pflicht zu nehmen.Oelmaier, Tobias",
-   "u": "https://www.deutschlandfunk.de/regeln-fuer-social-media-reicht-das-interview-nina-kolleck-bildungsforscherin-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-16T21:24:13+00:00"
-  },
-  {
-   "t": "Libanesischer Ex-Präsident vor Gericht: Beiruter Hafenexplosion hat ein Nachspiel",
-   "s": "Der libanesische Ex-Präsident Michel Aoun muss sich für die Explosion von Ammoniumnitrat im Hafen von Beirut 2020 verantworten. Über 250 Menschen starben.",
-   "u": "https://taz.de/Libanesischer-Ex-Praesident-vor-Gericht/!6213630/",
-   "q": "taz",
-   "d": "2026-09-16T18:03:00+00:00"
-  },
-  {
-   "t": "Bundeskanzler Friedrich Merz: Kanzler von föderalen Gnaden",
-   "s": "Die CDU-Ministerpräsidenten der Länder stärken dem Chef den Rücken. Mit Respekt für Friedrich Merz und seine Arbeit hat das indes wenig zu tun.",
-   "u": "https://taz.de/Bundeskanzler-Friedrich-Merz/!6208249/",
-   "q": "taz",
-   "d": "2026-09-16T18:00:00+00:00"
-  },
-  {
-   "t": "Reaktion auf CSD-Anschlag: Prävention nicht vergessen",
-   "s": "Die Regierung legt ein ganz vernünftiges 10-Punkte-Programm gegen Islamismus vor. Entscheidend ist aber, was darin zu kurz kommt.",
-   "u": "https://taz.de/Reaktion-auf-CSD-Anschlag/!6213692/",
-   "q": "taz",
-   "d": "2026-09-16T17:59:00+00:00"
   }
  ]
 }

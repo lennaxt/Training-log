@@ -1,13 +1,27 @@
 {
  "name": "Ausland",
- "updated": "2026-09-17T14:18:15+00:00",
+ "updated": "2026-09-17T19:02:26+00:00",
  "items": [
+  {
+   "t": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
+   "s": "An der Ostflanke der NATO wachsen die Sorgen vor russischen Angriffen. Angesichts jüngster Vorfälle im polnisch-ukrainischen Grenzgebiet warnt Regierungschef Tusk nun vor einem russischen Plan, Ukraine-Verbündete gezielt anzugreifen.",
+   "u": "https://www.tagesschau.de/ausland/europa/tusk-warnung-russland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T18:21:41+00:00"
+  },
+  {
+   "t": "Kanadas Premier offen für Idee einer assoziierten EU-Mitgliedschaft",
+   "s": "Kanadas Premier Carney hat sich im Europaparlament in Straßburg für eine stärkere Zusammenarbeit seines Landes mit der EU ausgesprochen. Eine Partnerschaft müsse auf Werten begründet sein, nicht auf Eigensinn. Von Andreas Meyer-Feist.",
+   "u": "https://www.tagesschau.de/ausland/europa/bruessel-carney-eu-besuch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T17:19:34+00:00"
+  },
   {
    "t": "Nach Parlamentswahl in Schweden: Knapper Sieg für Mitte-links-Lager",
    "s": "Der von Ulf Kristersson geführte konservativ-rechte Parteienblock musste bei der Wahl in Schweden eine Niederlage hinnehmen. Der Regierungschef trat zurück. Die bisherige Opposition steht mit Magdalena Andersson vor einer schwierigen Regierungsbildung.",
    "u": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-ruecktritt-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-17T13:27:18+00:00"
+   "d": "2026-09-17T15:13:34+00:00"
   },
   {
    "t": "Plan der EU-Kommission: Drei Altersstufen für Soziale Medien",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/pistorius-hegseth-106.html",
    "q": "Tagesschau",
    "d": "2026-09-16T05:42:14+00:00"
-  },
-  {
-   "t": "Streit über Wahlrechtsreform: Melonis Zitterpartie",
-   "s": "Das Kabinett Meloni regiert Italien inzwischen länger als jeder seiner Vorgänger in der Nachkriegszeit. Und doch sitzt Meloni längst nicht mehr so fest im Sattel. Ein Streit über eine Wahlrechtsreform belastet ihre Koalition schwer. Von A. Giordano.",
-   "u": "https://www.tagesschau.de/ausland/europa/meloni-wahlrecht-reform-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T04:29:45+00:00"
-  },
-  {
-   "t": "Prozess gegen Thaci: Wird Kosovos Ex-Präsident verurteilt?",
-   "s": "Hashim Thaci hat den Kosovo mit der Kosovarischen Befreiungsarmee in die Unabhängigkeit geführt. Hat der Ex-Präsident dabei Kriegsverbrechen begangen? Ein Sondertribunal in Den Haag fällt heute sein Urteil. Von Andreas Herz.",
-   "u": "https://www.tagesschau.de/ausland/europa/kosovo-sondergericht-urteil-thaci-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T03:06:56+00:00"
   }
  ]
 }

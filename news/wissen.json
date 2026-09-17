@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-09-17T14:18:16+00:00",
+ "updated": "2026-09-17T19:02:27+00:00",
  "items": [
+  {
+   "t": "Forscher zur KI-Entwicklung: Risiken ernst nehmen, aber nicht dramatisieren",
+   "s": "Öffentlichkeitswirksam haben zuletzt große KI-Entwickler für mehr Regulierung der eigenen Technologie plädiert. Einige deutsche Forscher relativieren die Warnungen nun, trotz aller Risiken - und nehmen die Entwickler in die Pflicht. Von Sven Kästner.",
+   "u": "https://www.tagesschau.de/wissen/technologie/ki-risiken-forscher-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T15:11:53+00:00"
+  },
   {
    "t": "Klimawandel war ein Hauptgrund für Felssturz im Himalaya",
    "s": "Ein neuer Bericht über die Ursachen der Sturzflut im Himalaya zeigt: Der Klimawandel hatte einen weit größeren Anteil an der Katastrophe als zunächst vermutet. Ein dabei entdecktes, kaum bekanntes Phänomen könnte auch in den Alpen relevant sein. Von Frank Bäumer.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1636206.html",
    "q": "Tagesschau",
    "d": "2026-08-24T04:43:23+00:00"
-  },
-  {
-   "t": "Pierre Dyckmans, WDR, über den Besuch von Bundeskanzler Merz in der Eifel",
-   "s": "Pierre Dyckmans, WDR, über den Besuch von Bundeskanzler Merz in der Eifel",
-   "u": "https://www.tagesschau.de/video/video-1635594.html",
-   "q": "Tagesschau",
-   "d": "2026-08-22T14:24:29+00:00"
   }
  ]
 }

@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-17T14:18:16+00:00",
+ "updated": "2026-09-17T19:02:27+00:00",
  "items": [
+  {
+   "t": "Marktbericht: DAX schließt nach US-Zinserhöhung im Plus",
+   "s": "Der DAX hat nach der Zinserhöhung der US-Notenbank zugelegt. Rückenwind kam von fallenden Ölpreisen. Nach Übernahmespekulationen führt der Diagnostikkonzern Qiagen den deutschen Leitindex an.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T16:40:52+00:00"
+  },
+  {
+   "t": "Assoziierte EU-Mitgliedschaft - Kanada rückt näher an Europa heran",
+   "s": "Angesichts von Donald Trumps unberechenbarer Zollpolitik hat sich Kanadas Premier Mark Carney für eine engere Anbindung seines Landes an die EU ausgesprochen. Was versprechen sich die Länder von einer Allianz?",
+   "u": "https://www.deutschlandfunk.de/kanada-eu-allianz-usa-trump-zollpolitik-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-17T14:57:00+00:00"
+  },
   {
    "t": "Zinserhöhung der US-Notenbank - ein Signal an Donald Trump?",
    "s": "US-Präsident Trump möchte niedrigere Zinsen. Doch die Notenbank Federal Reserve hat den Leitzins erhöht. Was sagt die Entscheidung über die Unabhängigkeit von Fed-Chef Warsh? Von Michelle Goddemeier.",
@@ -10,7 +24,7 @@
    "d": "2026-09-17T12:31:22+00:00"
   },
   {
-   "t": "Essen gehen trotz Mehrwertsteuer-Senkung nicht günstiger",
+   "t": "Essengehen trotz Mehrwertsteuer-Senkung nicht günstiger",
    "s": "Seit Jahresbeginn gilt im Gastgewerbe eine niedrigere Mehrwertsteuer. Im Schnitt sei nur etwa ein Prozent der Gerichte günstiger geworden, zeigt eine Studie im Auftrag der Gewerkschaft Nahrung-Genuss-Gaststätten. Von Markus Reher.",
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/gastgewerbe-unter-druck-100.html",
    "q": "Tagesschau",
@@ -22,13 +36,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/dax-unternehmen-klima-100.html",
    "q": "Tagesschau",
    "d": "2026-09-17T10:29:54+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX rückt nach US-Zinsentscheid weiter vor",
-   "s": "Die Zinserhöhung in den USA erschreckt die Anleger nicht, der DAX legt solide zu. Unterstützung erhält der deutsche Leitindex auch von ermutigenden Signalen aus der Industrie.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T09:40:06+00:00"
   },
   {
    "t": "Auftragsbestand in der Industrie steigt auf Rekordhoch",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/technologie/diskussion-ki-regulierung-faq-100.html",
    "q": "Tagesschau",
    "d": "2026-09-14T18:20:40+00:00"
-  },
-  {
-   "t": "Tankstellenverband erwartet Spritpreise um die drei Euro",
-   "s": "Der Schock an den Zapfsäulen ist zurück. Wegen der Eskalation im Nahen Osten steigen die Preise für Kraftstoffe, Heizöl und Gas deutlich. Auch die Politik ist wieder in die Debatte über mögliche Entlastungen eingestiegen.",
-   "u": "https://www.tagesschau.de/wirtschaft/oel-spritpreise-tanken-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T15:42:47+00:00"
   }
  ]
 }

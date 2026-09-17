@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-17T14:18:18+00:00",
+ "updated": "2026-09-17T19:02:29+00:00",
  "items": [
+  {
+   "t": "Krieg in der Ukraine: Alarmstufe Rot im Dauermodus",
+   "s": "Die ukrainische Hauptstadt Kyjiw wurde in der Nacht zu Donnerstag wieder Ziel massiver russische Luftangriffe. Tote sind keine zu beklagen.",
+   "u": "https://taz.de/Krieg-in-der-Ukraine/!6213936/",
+   "q": "taz",
+   "d": "2026-09-17T15:40:00+00:00"
+  },
   {
    "t": "+++ Nachrichten im Ukrainekrieg +++: US-Kongress beschließt Gesetz für Russland-Sanktionen",
    "s": "Gibt es bald neue US-Sanktionen gegen Russland? Ein Gesetz dazu hat nun das US-Parlament passiert. Der Schritt könnte auch die Beziehungen zu China belasten.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/US-Praesident-Donald-Trump-in-Irland/!6212630/",
    "q": "taz",
    "d": "2026-09-13T18:08:00+00:00"
-  },
-  {
-   "t": "Razzien in der Türkei: Schlag gegen die LGBTIQ+-Community",
-   "s": "In der Türkei wird gegen queere Vereine und Institutionen ermittelt. Derweil wurde der Istanbuler Oberbürgermeister Ekrem İmamoğlu zum zweiten Mal verurteilt.",
-   "u": "https://taz.de/Razzien-in-der-Tuerkei/!6212782/",
-   "q": "taz",
-   "d": "2026-09-13T14:46:00+00:00"
   }
  ]
 }
