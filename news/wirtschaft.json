@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-17T08:40:24+00:00",
+ "updated": "2026-09-17T14:18:16+00:00",
  "items": [
+  {
+   "t": "Zinserhöhung der US-Notenbank - ein Signal an Donald Trump?",
+   "s": "US-Präsident Trump möchte niedrigere Zinsen. Doch die Notenbank Federal Reserve hat den Leitzins erhöht. Was sagt die Entscheidung über die Unabhängigkeit von Fed-Chef Warsh? Von Michelle Goddemeier.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/fed-entscheidung-warsh-trump-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T12:31:22+00:00"
+  },
+  {
+   "t": "Essen gehen trotz Mehrwertsteuer-Senkung nicht günstiger",
+   "s": "Seit Jahresbeginn gilt im Gastgewerbe eine niedrigere Mehrwertsteuer. Im Schnitt sei nur etwa ein Prozent der Gerichte günstiger geworden, zeigt eine Studie im Auftrag der Gewerkschaft Nahrung-Genuss-Gaststätten. Von Markus Reher.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/gastgewerbe-unter-druck-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T11:29:25+00:00"
+  },
+  {
+   "t": "Wie klimafreundlich sind die DAX-Unternehmen?",
+   "s": "Wie gut setzen deutsche Unternehmen ihre Klimaziele um? Der Klima-Report einer Frankfurter Beratungsfirma versucht den Fortschritt messbar zu machen. Maßstab ist dabei der Beitrag zur Erderwärmung - gemessen in Temperaturen. Von Katharina Wilhelm.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/dax-unternehmen-klima-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T10:29:54+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX rückt nach US-Zinsentscheid weiter vor",
+   "s": "Die Zinserhöhung in den USA erschreckt die Anleger nicht, der DAX legt solide zu. Unterstützung erhält der deutsche Leitindex auch von ermutigenden Signalen aus der Industrie.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T09:40:06+00:00"
+  },
+  {
+   "t": "Auftragsbestand in der Industrie steigt auf Rekordhoch",
+   "s": "Die Auftragsbücher deutscher Industrieunternehmen sind so voll wie noch nie. Besonders Aufträge für Flugzeuge, Schiffe, Züge und auch Militärfahrzeuge sorgen für viel Extrageschäft im Verarbeitenden Gewerbe.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/industrie-aufrtagsbestand-rekord-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T09:00:03+00:00"
+  },
   {
    "t": "Update Wirtschaft vom 17.09.2026",
    "s": "Update Wirtschaft vom 17.09.2026",
@@ -15,13 +50,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/digitales/openai-kuenstliche-intelligenz-100.html",
    "q": "Tagesschau",
    "d": "2026-09-17T07:05:33+00:00"
-  },
-  {
-   "t": "Marktbericht: Anleger nehmen US-Zinserhöhung gelassen auf",
-   "s": "Der DAX dürfte heute trotz der Zinserhöhung in den USA zum Handelsstart zulegen. Die Anleger sehen die Unabhängigkeit der US-Notenbank bestätigt. Auch das Mehr an Klarheit über den künftigen Zinskurs kommt an.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T05:36:45+00:00"
   },
   {
    "t": "Wenn das Girokonto mehr als 100 Euro kostet: Wie der Wechsel gelingt",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/oel-spritpreise-tanken-100.html",
    "q": "Tagesschau",
    "d": "2026-09-14T15:42:47+00:00"
-  },
-  {
-   "t": "Bildungsmonitor 2026: Mehr Aufsteiger, mehr Absteiger",
-   "s": "Der aktuelle Bildungsmonitor der Initiative Neue Soziale Marktwirtschaft zeigt: Das Bildungsniveau sinkt, die Schere zwischen höher Gebildeten und Bildungsfernen wächst. Fast jeder fünfte junge Erwachsene hat keinen Abschluss. Von Andre Kartschall.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/bildungsmonitor-neue-soziale-markwirtschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T15:21:34+00:00"
-  },
-  {
-   "t": "Trump kündigt Ende der Zölle auf irischen Whiskey an",
-   "s": "US-Präsident Trump hat die Aufhebung der Zölle auf irischen Whiskey angekündigt. Während seiner Irlandreise am Wochenende sei er um eine Aufhebung der Zölle gebeten worden, sagte Trump auf dem Golfplatz.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-whiskey-irland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T11:09:07+00:00"
-  },
-  {
-   "t": "Trump gegen Regulierung: \"Wer bei KI gewinnt, gewinnt\"",
-   "s": "Mehr staatliche Regulierung für Künstliche Intelligenz - mit dieser Forderung haben Tech-Bosse für Aufsehen gesorgt. Doch US-Präsident Trump hält davon wenig: Für ihn steht der US-Vorsprung bei KI gegenüber China im Vordergrund.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-ai-kritik-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T08:43:06+00:00"
-  },
-  {
-   "t": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck",
-   "s": "Nach dem Huthi-Vormarsch und dem Angriff auf eine Pipeline wächst der Druck auf Saudi-Arabien - denn nach der Straße von Hormus ist nun auch die Ausweichroute für Ölexporte vorerst nicht nutzbar. Von den USA kommt keine Hilfe. Von A. Osius.",
-   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-oelpreis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T15:56:14+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-17T08:40:29+00:00",
+ "updated": "2026-09-17T14:18:19+00:00",
  "items": [
+  {
+   "t": "Inselgruppe: Fidschi-Inseln erklären Notstand wegen HIV-Infektionen",
+   "s": "Seit über zwei Jahren steigen in Fidschi Ansteckungen mit dem HIV-Virus stark an. Jeder 60. Erwachsene ist infiziert.",
+   "u": "https://taz.de/Inselgruppe/!6213911/",
+   "q": "taz",
+   "d": "2026-09-17T09:20:00+00:00"
+  },
   {
    "t": "Libanesischer Ex-Präsident vor Gericht: Beiruter Hafenexplosion hat ein Nachspiel",
    "s": "Der libanesische Ex-Präsident Michel Aoun muss sich für die Explosion von Ammoniumnitrat im Hafen von Beirut 2020 verantworten. Über 250 Menschen starben.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Katastrophe-im-Himalaya/!6207563/",
    "q": "taz",
    "d": "2026-08-27T07:31:00+00:00"
-  },
-  {
-   "t": "Katastrophe im Himalaja: Mehr als 1.300 Vermisste nach Himalaja-Flutwelle",
-   "s": "Nach der Sturzflut im Himalaja wird das Ausmaß der Katastrophe klarer. Die Retter kämpfen gegen Geröll und Schlamm. Auch viele Touristen werden vermisst.",
-   "u": "https://taz.de/Katastrophe-im-Himalaya/!6207560/",
-   "q": "taz",
-   "d": "2026-08-27T05:29:00+00:00"
   }
  ]
 }

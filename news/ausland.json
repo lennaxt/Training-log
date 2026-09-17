@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-09-17T08:40:23+00:00",
+ "updated": "2026-09-17T14:18:15+00:00",
  "items": [
+  {
+   "t": "Nach Parlamentswahl in Schweden: Knapper Sieg für Mitte-links-Lager",
+   "s": "Der von Ulf Kristersson geführte konservativ-rechte Parteienblock musste bei der Wahl in Schweden eine Niederlage hinnehmen. Der Regierungschef trat zurück. Die bisherige Opposition steht mit Magdalena Andersson vor einer schwierigen Regierungsbildung.",
+   "u": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-ruecktritt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T13:27:18+00:00"
+  },
+  {
+   "t": "Plan der EU-Kommission: Drei Altersstufen für Soziale Medien",
+   "s": "Unter 13, bis 15 und bis 18 - in diesen Schritten soll die Nutzung Sozialer Medien durch Minderjährige geregelt werden: Das schlägt die EU-Kommission mit dem EU Kids Act vor. Süchtig machende Funktionen sollen ganz verboten werden. Von K. Schmid.",
+   "u": "https://www.tagesschau.de/ausland/europa/soziale-medien-gesetz-eu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T12:45:28+00:00"
+  },
+  {
+   "t": "Folgenschwere Luftangriffe: UN-Bericht wirft USA Kriegsverbrechen in Iran vor",
+   "s": "Nach Angaben von UN-Berichterstattern könnten zwei US-Angriffe in Iran als Kriegsverbrechen gewertet werden. Darunter ist eine Attacke auf eine Mädchenschule zu Beginn des Jahres. Aber auch die iranische Regierung wird scharf kritisiert.",
+   "u": "https://www.tagesschau.de/ausland/amerika/un-bericht-kriegsverbrechen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T12:31:47+00:00"
+  },
+  {
+   "t": "Premier Carney: Kanada ist offen für EU-Sondermitgliedschaft",
+   "s": "Kein volles EU-Mitglied, aber eine Art Sondermitgliedschaft - das könnte Kanada bekommen. Die EU hat einen solchen Vorschlag gemacht, Premier Carney begrüßt den Vorstoß. Ob es wirklich dazu kommt, ist aber ungewiss.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kanada-eu-106.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T11:50:29+00:00"
+  },
   {
    "t": "US-Repräsentantenhaus beschließt Sanktionen gegen Russland",
    "s": "Lange wurde gerungen, jetzt hat auch das US-Repräsentantenhaus neue Sanktionen gegen Russland beschlossen. Damit können auch die Handelspartner Moskaus ins Visier genommen werden. Aber ist Trump bereit, das auch umzusetzen? Von Ralf Borchard.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/kosovo-sondergericht-urteil-thaci-100.html",
    "q": "Tagesschau",
    "d": "2026-09-16T03:06:56+00:00"
-  },
-  {
-   "t": "Deutschland und USA wollen bei Rüstung mehr zusammenarbeiten",
-   "s": "Verteidigungsminister Pistorius ist zu Besuch in Washington: Mit seinem Amtskollegen Hegseth einigte er sich auf eine engere Zusammenarbeit. Der US-Minister lobte Deutschlands Fortschritte bei der Stärkung der NATO.",
-   "u": "https://www.tagesschau.de/ausland/pistorius-hegseth-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T02:32:18+00:00"
-  },
-  {
-   "t": "Russland und Dänemark beschuldigen sich nach Leuchtraketen -Beschuss",
-   "s": "Eine russische Fregatte hat einen dänischen Helikopter auf der Ostsee mit Leuchtraketen beschossen. Dänemark und die EU kritisierten den Vorfall scharf. Russlands Botschafter in Kopenhagen warf Dänemark Provokation vor. Von C. Stichler.",
-   "u": "https://www.tagesschau.de/ausland/europa/daenemark-russland-fregatte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T23:13:56+00:00"
-  },
-  {
-   "t": "Humanitäre Not im Jemen wächst durch Vormarsch der Huthi",
-   "s": "Die Huthi-Miliz blockiert im Jemen eine der wichtigsten Meerengen der Welt. Doch abseits der Schlagzeilen zu Öl und Handel leiden Zehntausende Menschen. Sie sind der Gewalt schutzlos ausgeliefert. Von Anna Osius.",
-   "u": "https://www.tagesschau.de/ausland/asien/humanitaere-not-jemen-huthi-vormarsch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T19:30:53+00:00"
-  },
-  {
-   "t": "Russland gegen die Ukraine: \"Übergang zu einem Vernichtungskrieg\"",
-   "s": "Russlands Strategie hat sich von einem Abnutzungs- zu einem Vernichtungskrieg in der Ukraine gewandelt, sagt Politologe Heinemann-Grüder. Sollte der Westen die Unterstützung der Ukraine weiter drosseln, hätte das gefährliche Konsequenzen für Europa.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-unterstuetzung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T15:03:57+00:00"
   }
  ]
 }

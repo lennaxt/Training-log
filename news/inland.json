@@ -1,7 +1,84 @@
 {
  "name": "Inland",
- "updated": "2026-09-17T08:40:22+00:00",
+ "updated": "2026-09-17T14:18:14+00:00",
  "items": [
+  {
+   "t": "Gewalt unter Eritreern in Deutschland: Zwei eritreische Regierungsgegner in Untersuchungshaft",
+   "s": "Der Generalbundesanwalt ermittelt gegen zwei eritreische Männer in Deutschland. Ihnen wird Mitgliedschaft in der Brigade N’Hamedu vorgeworfen.",
+   "u": "https://taz.de/Gewalt-unter-Eritreern-in-Deutschland/!6213982/",
+   "q": "taz",
+   "d": "2026-09-17T14:05:00+00:00"
+  },
+  {
+   "t": "EU-Plan für Social Media: Eltern sollen Kontakte von Teenagern vorher freigeben",
+   "s": "Die EU-Kommission legt einen Gesetzentwurf vor, der Tech-Firmen zu mehr Jugendschutz verpflichten will. Doch Haken bleiben.",
+   "u": "https://taz.de/EU-Plan-fuer-Social-Media/!6213938/",
+   "q": "taz",
+   "d": "2026-09-17T14:01:00+00:00"
+  },
+  {
+   "t": "Warum die SPD jetzt auf Manuela Schwesig hofft",
+   "s": "Die SPD hofft bei der Wahl in Mecklenburg-Vorpommern auf die Zugkraft von Ministerpräsidentin Schwesig. Ein Erfolg könnte die Partei etwas stabilisieren, doch die Stimmung bleibt angespannt. Von Anne-Katrin Mellmann und Moritz Rödle.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-wahl-mecklenburg-vorpommern-schwesig-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T12:48:06+00:00"
+  },
+  {
+   "t": "Benzingeld aufs Konto: Wie der Staat uns Geld zahlen kann",
+   "s": "Seit Jahren wird über einen Auszahlungsmechanismus an Bürgerinnen und Bürger geredet. Theoretisch ist der laut Ministerium fertig. Praktisch fehlt aber noch etwas.",
+   "u": "https://taz.de/Benzingeld-vom-Staat/!6214015/",
+   "q": "taz",
+   "d": "2026-09-17T11:52:00+00:00"
+  },
+  {
+   "t": "Zehn-Punkte-Plan gegen Sozialbetrug: Bas spricht von „mafiösen Strukturen“",
+   "s": "Die Bundesregierung hatte einen verstärkten Kampf gegen Sozialbetrug bereits angekündigt. Nun stellen die Mi­nis­te­r*in­nen Bas und Dobrindt Konkretes vor.",
+   "u": "https://taz.de/Zehn-Punkte-Plan-gegen-Sozialbetrug/!6213918/",
+   "q": "taz",
+   "d": "2026-09-17T11:39:00+00:00"
+  },
+  {
+   "t": "Duma-Wahl in Russland - Test für Putins Repressionsapparat",
+   "s": "Erstmals seit Beginn des Ukrainekriegs wählt Russland ein neues Parlament. Eine echte Opposition ist nicht zugelassen, der Sieger steht bereits fest. Dennoch ist die Wahl ein Gradmesser für Putins Herrschaft.Von Sabine Adler",
+   "u": "https://www.deutschlandfunk.de/russland-duma-wahl-putin-opposition-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-17T11:25:00+00:00"
+  },
+  {
+   "t": "EU-Kanada: Engere Partnerschaft ja, Mitgliedschaft nein",
+   "s": "Kanada und die EU rücken näher zusammen. Das sei die richtige Antwort auf die geopolitische Lage, sagt der Politologe Janis Emmanouilidis. Eine \"assozierte Mitgliedschaft\", die EU-Kommissionspräsidentin von der Leyen anbot, sei jedoch problematisch.Buschert, Fanny",
+   "u": "https://www.deutschlandfunk.de/janis-emmanouilidis-european-policy-center-zu-assoziierter-eu-mitgliedschaft-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-17T10:15:00+00:00"
+  },
+  {
+   "t": "Linkspartei in Mecklenburg-Vorpommern: „Wir sind doch alle nicht dafür, Streit zu haben“",
+   "s": "Die Linke in Mecklenburg-Vorpommern präsentiert sich als konstruktive Mitregierpartei. Ihre Spitzenkandidatin ist Pragmatikerin durch und durch.",
+   "u": "https://taz.de/Linkspartei-in-Mecklenburg-Vorpommern/!6184190/",
+   "q": "taz",
+   "d": "2026-09-17T09:47:00+00:00"
+  },
+  {
+   "t": "Kommentar zur CDU - Rütteln am Unvereinbarkeitsbeschluss",
+   "s": "Bundeskanzler Friedrich Merz steckt in der Krise. Seit Tagen gibt es Personaldebatten um ihn. Jetzt haben ihm alle CDU-Ministerpräsidenten in einer Erklärung den Rücken gestärkt - und senden darin eine weitere wichtige Botschaft.Ein Kommentar von Henry Bernhard",
+   "u": "https://www.deutschlandfunk.de/cdu-merz-linke-afd-unvereinbarkeitsbeschluss-kommentar-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-17T09:35:00+00:00"
+  },
+  {
+   "t": "Inselgruppe: Fidschi-Inseln erklären Notstand wegen HIV-Infektionen",
+   "s": "Seit über zwei Jahren steigen in Fidschi Ansteckungen mit dem HIV-Virus stark an. Jeder 60. Erwachsene ist infiziert.",
+   "u": "https://taz.de/Inselgruppe/!6213911/",
+   "q": "taz",
+   "d": "2026-09-17T09:20:00+00:00"
+  },
+  {
+   "t": "SPD-Spitzenkandidat Krach: Lieber nach vorne schauen",
+   "s": "Der Spitzenkandidat der Berliner SPD hat ein erklärtes Ziel: Er will das Rote Rathaus für die SPD zurückerobern. Aber die Umfragen sind nicht gerade ermutigend. Zudem gibt es Ermittlungen gegen ihn. Von Martin Polansky.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-krach-spd-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-17T09:10:09+00:00"
+  },
   {
    "t": "Diesel-Allzeithoch - Sprit-Entlastungen laut Frei ab Oktober möglich",
    "s": "Nach Benzin ist jetzt auch Diesel so teuer wie nie zuvor. Doch wie genau die Bundesregierung die hohen Preise abfedern will, ist noch unklar. Unionsfraktionschef Frei stellt aber eine schnelle Entlastung in Aussicht.",
@@ -66,6 +143,13 @@
    "d": "2026-09-17T03:06:23+00:00"
   },
   {
+   "t": "Jugendschutz: Forscherin will mehr Regeln für Social-Media-Betreiber",
+   "s": "Kein TikTok oder Instagram für unter 13-jährige. Einen entsprechenden Gesetzentwurf stellt EU-Kommissionspräsidentin von der Leyen vor. Bildungsforscherin Kolleck begrüßt die Idee, die Plattformen stärker als bisher in die Pflicht zu nehmen.Oelmaier, Tobias",
+   "u": "https://www.deutschlandfunk.de/regeln-fuer-social-media-reicht-das-interview-nina-kolleck-bildungsforscherin-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-16T21:24:13+00:00"
+  },
+  {
    "t": "Libanesischer Ex-Präsident vor Gericht: Beiruter Hafenexplosion hat ein Nachspiel",
    "s": "Der libanesische Ex-Präsident Michel Aoun muss sich für die Explosion von Ammoniumnitrat im Hafen von Beirut 2020 verantworten. Über 250 Menschen starben.",
    "u": "https://taz.de/Libanesischer-Ex-Praesident-vor-Gericht/!6213630/",
@@ -85,90 +169,6 @@
    "u": "https://taz.de/Reaktion-auf-CSD-Anschlag/!6213692/",
    "q": "taz",
    "d": "2026-09-16T17:59:00+00:00"
-  },
-  {
-   "t": "AfD Mecklenburg-Vorpommern: Herr Holm und die radikalen Männer",
-   "s": "Auch in Mecklenburg-Vorpommern will die AfD die Wahl gewinnen. Spitzenkandidat Leif-Erik Holm gibt sich betont bürgerlich. Doch hinter ihm tummeln sich Radikale.",
-   "u": "https://taz.de/AfD-Mecklenburg-Vorpommern/!6213575/",
-   "q": "taz",
-   "d": "2026-09-16T17:55:00+00:00"
-  },
-  {
-   "t": "Debatte über Spritpreise: Reiche will Mehrwertsteuer auf Sprit senken",
-   "s": "Angesichts hoher Spritpreise hat die Politik Entlastung versprochen - aber es ist unklar, wie die aussehen könnte. Nach Unionsfraktionschef Frei sprach sich nun auch Wirtschaftsministerin Reiche für eine befristete Senkung der Mehrwertsteuer aus.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/reiche-mehrwertsteuer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T17:15:59+00:00"
-  },
-  {
-   "t": "Landtagswahlen und Merz-Debatte - Wohin steuert das Land?",
-   "s": "Der AfD-Erfolg in Sachsen-Anhalt verschärft die Debatte über Regierung, Union und Kanzler Merz. Vor den Wahlen in Mecklenburg-Vorpommern und Berlin stellt sich die Frage: Wird Regieren nur schwieriger oder erlebt Deutschland einen Kipppunkt?Fröhndrich, S.; Allmendinger, J.; von Lucke, A.; Witt, S.; Orlow, A.",
-   "u": "https://www.deutschlandfunk.de/landtagswahlen-und-merz-debatte-wohin-steuert-das-land-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-16T17:15:00+00:00"
-  },
-  {
-   "t": "Rede zur Lage der Union: Von der Leyen überspannt den Bogen",
-   "s": "In ihrer Rede zur Lage der Union lässt die EU-Kommissionspräsidentin viele Fragen offen. Wohin Europa mit ihr steuert, bleibt unklar.",
-   "u": "https://taz.de/Rede-zur-Lage-der-Union/!6213664/",
-   "q": "taz",
-   "d": "2026-09-16T17:00:00+00:00"
-  },
-  {
-   "t": "Nach Einsturz-Tragödie in Gaza: Dutzende Menschen noch unter Trümmern gesucht",
-   "s": "Ein eingestürztes Wohnhaus hat viele Menschen unter sich begraben. Dort hatten vertriebene Familien gelebt. Israel setzt derweil seine Angriffe fort.",
-   "u": "https://taz.de/Nach-Einsturz-Tragoedie-in-Gaza/!6213863/",
-   "q": "taz",
-   "d": "2026-09-16T16:59:00+00:00"
-  },
-  {
-   "t": "Gesetzliche Rente - Sollten Erwerbstätige ohne Kinder mehr bezahlen?",
-   "s": "Deutschlands Sozialstaat gerät unter Druck: Die Gesellschaft altert, Erwerbstätige und Kinder werden weniger. Fachleute fordern mehr Anerkennung für Eltern sowie eine stärkere Beteiligung Kinderloser. Die Politik zögert bisher.Dohmen, Caspar",
-   "u": "https://www.deutschlandfunk.de/gesetzliche-rente-sollten-erwerbstaetige-ohne-kinder-mehr-bezahlen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-16T16:40:00+00:00"
-  },
-  {
-   "t": "Maskenbeschaffung vor Gericht: Jens Spahn kommt uns wohl doch nicht ganz so teuer",
-   "s": "Beim Bundesgerichtshof deutet sich ein Teilerfolg der Bundesregierung an: Für viele der 2020 zu viel gekauften Coronamasken muss sie wohl nicht zahlen.",
-   "u": "https://taz.de/Maskenbeschaffung-vor-Gericht/!6213640/",
-   "q": "taz",
-   "d": "2026-09-16T16:05:00+00:00"
-  },
-  {
-   "t": "Maßnahmen nach Anschlag auf CSD: Repression und ein bisschen Prävention",
-   "s": "Die Bundesregierung legt einen Zehn-Punkte-Plan gegen islamistischen Terror vor. Er beinhaltet vor allem höhere Strafen, mehr Fußfesseln und Überwachung.",
-   "u": "https://taz.de/Massnahmen-nach-Anschlag-auf-CSD/!6213627/",
-   "q": "taz",
-   "d": "2026-09-16T16:03:00+00:00"
-  },
-  {
-   "t": "Kosovo-Sondertribunal in Den Haag: Ein Stück später Gerechtigkeit",
-   "s": "Das Urteil gegen Ex-Präsident Hashim Thaçi löst im Kosovo scharfe Kritik aus. Es könnte aber langfristig ein positives Signal für die Zukunft sein.",
-   "u": "https://taz.de/Kosovo-Sondertribunal-in-Den-Haag/!6213591/",
-   "q": "taz",
-   "d": "2026-09-16T16:02:00+00:00"
-  },
-  {
-   "t": "Berliner Grünen-Spitzenkandidat Graf: Pragmatisch - und wenig bekannt",
-   "s": "Die Berliner Grünen haben gute Chancen, im nächsten Senat mitzuregieren. Spitzenkandidat Werner Graf setzt auf einen moderaten Wahlkampf, der ihm viele Optionen offenhalten soll. Von T. Schmutzler und M. Kell.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhauswahl-berlin-werner-graf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T15:39:25+00:00"
-  },
-  {
-   "t": "Von der Leyen zur Lage der EU: Stirnrunzeln und Freundschaft mit Kanada",
-   "s": "Mit Spannung war die Rede von EU-Kommissionspräsidentin von der Leyen erwartet worden. Für Irritation sorgt ihr Vorstoß nach neuen Sicherheitsgremien.",
-   "u": "https://taz.de/Von-der-Leyen-zur-Lage-der-EU/!6213636/",
-   "q": "taz",
-   "d": "2026-09-16T15:29:00+00:00"
-  },
-  {
-   "t": "Kriegsverbrechen im Kosovo: 25 Jahre Haft für Hashim Thaçi",
-   "s": "Das Sondergericht in Den Haag verurteilt Kosovos Ex-Präsident Thaçi wegen Verbrechen im Unabhängigkeitskrieg. Kosovaren protestieren gegen das Urteil.",
-   "u": "https://taz.de/Kriegsverbrechen-im-Kosovo/!6213637/",
-   "q": "taz",
-   "d": "2026-09-16T15:05:00+00:00"
   }
  ]
 }
