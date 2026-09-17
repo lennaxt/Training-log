@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-17T19:02:29+00:00",
+ "updated": "2026-09-17T23:33:45+00:00",
  "items": [
+  {
+   "t": "Beziehungen zwischen Kanada und der EU: Kanada möchte „engere Bande“ mit Europa",
+   "s": "Von der Leyen hat ein Assoziierungsabkommen mit Kanada vorgeschlagen. Dessen Premier Mark Carney begrüßt den Vorstoß. Trump ist erzürnt.",
+   "u": "https://taz.de/Beziehungen-zwischen-Kanada-und-der-EU/!6213957/",
+   "q": "taz",
+   "d": "2026-09-17T17:44:00+00:00"
+  },
+  {
+   "t": "Opposition in Schweden: Pingpong um Mandate sorgt für Nervenkitzel",
+   "s": "Vier Tage nach der Wahl in Schweden steht der knappe Wahlsieg der Opposition um die Sozialdemokraten fest. Die Regierungsbildung wird schwierig.",
+   "u": "https://taz.de/Opposition-in-Schweden/!6213916/",
+   "q": "taz",
+   "d": "2026-09-17T17:42:00+00:00"
+  },
+  {
+   "t": "Opposition in Russland: Fernsehkoch Pawel Sjutkin muss sechs Jahre in Haft",
+   "s": "Sein Hitler-Vergleich hat Russlands Präsident Putin nicht gefallen. Jetzt muss Fernsehkoch Pawel Sjutkin ins Gefängnis. Er nennt es eine „kreative Dienstreise“.",
+   "u": "https://taz.de/Russland/!6213945/",
+   "q": "taz",
+   "d": "2026-09-17T17:41:00+00:00"
+  },
   {
    "t": "Krieg in der Ukraine: Alarmstufe Rot im Dauermodus",
    "s": "Die ukrainische Hauptstadt Kyjiw wurde in der Nacht zu Donnerstag wieder Ziel massiver russische Luftangriffe. Tote sind keine zu beklagen.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Wahlkrimi-in-Schweden/!6212829/",
    "q": "taz",
    "d": "2026-09-14T09:05:00+00:00"
-  },
-  {
-   "t": "Parlamentswahlen in Russland: Das Schweigen vor der „Wahl“",
-   "s": "Der Sieg der Kremlpartei bei den russischen Duma-Wahlen kommende Woche steht fest. Dennoch werden alternative Kan­di­da­t:in­nen kaltgestellt.",
-   "u": "https://taz.de/Parlamentswahlen-in-Russland/!6208078/",
-   "q": "taz",
-   "d": "2026-09-14T05:13:00+00:00"
-  },
-  {
-   "t": "Rekordspende für Reform UK: Millionen für die Macht",
-   "s": "Zwei Kryptomilliardäre spenden rund 84 Millionen Euro für die rechtspopulistische Reform UK. Nun wird der Ruf nach Obergrenzen für Parteispenden laut.",
-   "u": "https://taz.de/Rekordspende-fuer-Reform-UK/!6212766/",
-   "q": "taz",
-   "d": "2026-09-13T18:08:00+00:00"
-  },
-  {
-   "t": "US-Präsident Donald Trump in Irland: „Trump hält unser Dorf am Leben“",
-   "s": "Der US-Präsident besucht Irland – und alle Seiten bekommen bei dem Besuch, was sie wollen: politisches Geplänkel und Trump kann beim Golfen zuschauen.",
-   "u": "https://taz.de/US-Praesident-Donald-Trump-in-Irland/!6212630/",
-   "q": "taz",
-   "d": "2026-09-13T18:08:00+00:00"
   }
  ]
 }

@@ -1,7 +1,21 @@
 {
  "name": "Inland",
- "updated": "2026-09-17T19:02:25+00:00",
+ "updated": "2026-09-17T23:33:42+00:00",
  "items": [
+  {
+   "t": "VVN-BdA und Gemeinnützigkeit: Wer hat was gegen Antifaschismus?",
+   "s": "Die Attacken des Berliner Finanzamts auf die VVN-BdA löst viel Solidarität aus. Ungeklärt ist, ob CDU-Kandidat und Finanzsenator Stefan Evers etwas damit zu tun hat.",
+   "u": "https://taz.de/VVN-BdA-und-Gemeinnuetzigkeit/!6213533/",
+   "q": "taz",
+   "d": "2026-09-17T19:07:00+00:00"
+  },
+  {
+   "t": "Berliner CDU-Wahlkampfabschluss: Geschichtsunterricht bei Papa Merz",
+   "s": "Während über sein Kanzleramt diskutiert wird, besuchte Merz den Berliner Wahlkampfabschluss. Und verglich sich indirekt mit Adenauer.",
+   "u": "https://taz.de/Berliner-CDU-Wahlkampfabschluss/!6214197/",
+   "q": "taz",
+   "d": "2026-09-17T19:04:00+00:00"
+  },
   {
    "t": "Windsurfen für Geflüchtete auf Rügen: Weitersurfen, wenn der Wind sich dreht",
    "s": "Der Verein „tow“ bietet kostenlose Surfkurse für Geflüchtete in Mecklenburg-Vorpommern an. Warum man hier keine Angst vor der AfD hat.",
@@ -155,20 +169,6 @@
    "u": "https://www.deutschlandfunk.de/cdu-merz-linke-afd-unvereinbarkeitsbeschluss-kommentar-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-17T09:35:00+00:00"
-  },
-  {
-   "t": "Inselgruppe: Fidschi-Inseln erklären Notstand wegen HIV-Infektionen",
-   "s": "Seit über zwei Jahren steigen in Fidschi Ansteckungen mit dem HIV-Virus stark an. Jeder 60. Erwachsene ist infiziert.",
-   "u": "https://taz.de/Inselgruppe/!6213911/",
-   "q": "taz",
-   "d": "2026-09-17T09:20:00+00:00"
-  },
-  {
-   "t": "SPD-Spitzenkandidat Krach: Lieber nach vorne schauen",
-   "s": "Der Spitzenkandidat der Berliner SPD hat ein erklärtes Ziel: Er will das Rote Rathaus für die SPD zurückerobern. Aber die Umfragen sind nicht gerade ermutigend. Zudem gibt es Ermittlungen gegen ihn. Von Martin Polansky.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-krach-spd-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T09:10:09+00:00"
   }
  ]
 }
