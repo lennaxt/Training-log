@@ -1,7 +1,21 @@
 {
  "name": "Wissen",
- "updated": "2026-09-18T13:36:48+00:00",
+ "updated": "2026-09-18T18:29:52+00:00",
  "items": [
+  {
+   "t": "Bolivien: Forscher entdecken neue Katzenart \"Leopardus tilcayo\"",
+   "s": "Erstmals seit mehr als hundert Jahren haben Forscher in Südamerika eine bislang unbekannte Katzenart entdeckt. Das Tier ist hellbraun gefleckt und kleiner als eine Hauskatze. Es trägt nun den Namen \"Leopardus tilcayo\".",
+   "u": "https://www.tagesschau.de/wissen/bolivien-neue-katzenart-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T17:02:36+00:00"
+  },
+  {
+   "t": "Finnische Zellbiologin und Medizinerin Sara Wickström erhält Körber-Preis für Krebsforschung",
+   "s": "Finnische Zellbiologin und Medizinerin Sara Wickström erhält Körber-Preis für Krebsforschung",
+   "u": "https://www.tagesschau.de/video/video-1651198.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T13:38:07+00:00"
+  },
   {
    "t": "Renommierter Körber-Preis für Zellforscherin Wickström",
    "s": "Die Zellbiologin Wickström erforscht, was in unseren Zellen bei mechanischem Druck passiert. Das ist auch für die Krebsforschung relevant. Heute hat die Finnin den diesjährigen Körber-Preis für Europäische Wissenschaft erhalten. Von Veronika Simon.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1640352.html",
    "q": "Tagesschau",
    "d": "2026-08-31T15:23:01+00:00"
-  },
-  {
-   "t": "Hype um Koffein-Shampoos - ist der Trend berechtigt?",
-   "s": "Mehr Haarwachstum und weniger Haarausfall - das versprechen Koffein-Shampoos. Doch was ist dran an den Versprechen? Experten stehen dem Trend skeptisch gegenüber und erklären, warum. Von Matthias Bartsch.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/shampoo-koffein-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-27T10:10:40+00:00"
-  },
-  {
-   "t": "\"Zombiefeuer\": Wie gefährlich sind diese wiederkehrenden Feuer?",
-   "s": "Waldbrände überall in Europa - dabei war auch immer wieder von \"Zombiefeuern\" die Rede. Was steckt dahinter? Und wie groß ist die Gefahr, dass auch in Deutschland bereits totgeglaubte Feuer plötzlich wiederkehren? Von Frank Bäumer.",
-   "u": "https://www.tagesschau.de/wissen/klima/waldbraende-zombiefeuer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-26T08:38:51+00:00"
   }
  ]
 }

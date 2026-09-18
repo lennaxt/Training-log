@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-18T13:36:50+00:00",
+ "updated": "2026-09-18T18:29:55+00:00",
  "items": [
+  {
+   "t": "Geflüchtete in Ceuta: Vom Strand an den Hafen",
+   "s": "Seit Wochen harren Hunderte Migranten in provisorischen Unterkünften am Strand von Ceuta aus. Madrid greift durch und verlegt die Menschen in neue Lager.",
+   "u": "https://taz.de/Gefluechtete-in-Ceuta/!6214317/",
+   "q": "taz",
+   "d": "2026-09-18T15:01:00+00:00"
+  },
+  {
+   "t": "Regierungskrise in Rumänien: Nächster Versuch",
+   "s": "Siegfried Mureșan, EU-Abgeordneter und Wunschkandidat von Staatschef von Nicușor Dan, soll Premier werden. Doch dafür fehlt eine Mehrheit im Parlament.",
+   "u": "https://taz.de/Regierungskrise-in-Rumaenien/!6214385/",
+   "q": "taz",
+   "d": "2026-09-18T14:06:00+00:00"
+  },
   {
    "t": "Tagebuch aus der Ukraine: Wir waren doch eine ganz normale Familie",
    "s": "Der lange Krieg belastet den Alltag der Menschen in der Ukraine sehr. Viele Ehen wurden geschieden. Erst in jüngster Zeit wird wieder mehr geheiratet.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Parlamentswahl-in-Schweden/!6208192/",
    "q": "taz",
    "d": "2026-09-14T18:01:00+00:00"
-  },
-  {
-   "t": "Parlamentswahl in Schweden: Knappe Kiste, Ausgang ungewiss",
-   "s": "Schwedens rot-grüne Opposition liegt nach der Parlamentswahl voraussichtlich vorne. Doch ob daraus eine neue Regierung wird, ist völlig offen.",
-   "u": "https://taz.de/Parlamentswahl-in-Schweden/!6213042/",
-   "q": "taz",
-   "d": "2026-09-14T18:00:00+00:00"
-  },
-  {
-   "t": "Präsidentschaftswahl in Frankreich: Le Pen startet durch, aber einer schmollt",
-   "s": "In Frankreich startet die Rechtspopulistin Marine Le Pen den Wahlkampf. Die Stimmung in ihrer Partei ist ungetrübt – zumindest fast.",
-   "u": "https://taz.de/Praesidentschaftswahl-in-Frankreich/!6213031/",
-   "q": "taz",
-   "d": "2026-09-14T15:15:00+00:00"
   }
  ]
 }

@@ -1,20 +1,20 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-18T13:36:47+00:00",
+ "updated": "2026-09-18T18:29:52+00:00",
  "items": [
   {
-   "t": "Hohe Spritpreise: Was eine Senkung der Mehrwertsteuer bringen könnte",
-   "s": "Angesichts der hohen Spritpreise wird auch über eine Senkung der Mehrwertsteuer diskutiert. Doch wie groß wäre die Ersparnis tatsächlich? Wer würde profitieren, wer nicht - und gibt es Hürden? Antworten auf wichtige Fragen.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/mehrwertsteuer-tanken-100.html",
+   "t": "Wirtschaft vor acht vom 18.09.2026",
+   "s": "Wirtschaft vor acht vom 18.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1651430.html",
    "q": "Tagesschau",
-   "d": "2026-09-18T12:29:46+00:00"
+   "d": "2026-09-18T18:06:58+00:00"
   },
   {
-   "t": "Volkswagen verliert Platz in Europas wichtigster Börsenliga",
-   "s": "Nach Börsenschluss am Freitag gehört die Volkswagen-Aktie nicht mehr zum europäischen Leitindex. Für das operative Geschäft ändert sich dadurch nichts - für die Aktie kann der Schritt kurzfristig dennoch Folgen haben.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/vw-aktie-europa-100.html",
+   "t": "Marktbericht: DAX gibt am großen Verfallstag nach",
+   "s": "Der deutsche Aktienmarkt hat die Woche mit Verlusten beendet. Die Anleger blickten mit Sorge auf die unsichere Lage im Nahen Osten. Auch der große Verfallstag sorgte für Bewegung.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
    "q": "Tagesschau",
-   "d": "2026-09-18T11:40:02+00:00"
+   "d": "2026-09-18T16:25:06+00:00"
   },
   {
    "t": "Putin stellt Nestlé in Russland unter Zwangsverwaltung",
@@ -50,13 +50,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-verpackungsverordnung-104.html",
    "q": "Tagesschau",
    "d": "2026-09-18T08:03:21+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 17.09.2026",
-   "s": "Wirtschaft vor acht vom 17.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1650958.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T07:22:53+00:00"
   },
   {
    "t": "Hohe Preise: Welche Energiekosten auf die Verbraucher zukommen",
@@ -169,6 +162,13 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/bildungsmonitor-neue-soziale-markwirtschaft-100.html",
    "q": "Tagesschau",
    "d": "2026-09-14T15:21:34+00:00"
+  },
+  {
+   "t": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
+   "s": "Kupfer kostet so viel wie nie. US-Zollsorgen, KI, Stromnetze und E-Autos treiben den Kupferpreis. Wo der Preisschub für Verbraucher spürbar werden könnte - vom Bauen bis zur Stromrechnung. Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/kupferpreis-rekordhoch-strom-verbraucher-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T13:03:38+00:00"
   }
  ]
 }

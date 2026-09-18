@@ -1,13 +1,27 @@
 {
  "name": "Ausland",
- "updated": "2026-09-18T13:36:46+00:00",
+ "updated": "2026-09-18T18:29:50+00:00",
  "items": [
   {
    "t": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
    "s": "Der Nordwesten Pakistans gilt als Unruheregion. Nun gab es dort - im Grenzgebiet zu Afghanistan - erneut einen verheerenden Anschlag mit vielen Toten und Verletzten. Noch ist unklar, wer dahinter steckt.",
    "u": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html",
    "q": "Tagesschau",
-   "d": "2026-09-18T12:46:17+00:00"
+   "d": "2026-09-18T17:22:37+00:00"
+  },
+  {
+   "t": "Projekt in Dänemark gestartet: Greensand soll CO2-Speicher Europas werden",
+   "s": "Mit dem Projekt Greensand ist das erste CO2-Einlagerungsprojekt in der EU gestartet. Unter der Nordsee soll in Zukunft klimaschädliches CO2 dauerhaft im Meeresboden gespeichert werden. Doch es gibt auch Kritik. Von A. Bartram.",
+   "u": "https://www.tagesschau.de/ausland/europa/daenemark-greensand-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T17:03:15+00:00"
+  },
+  {
+   "t": "Spenden für Midterms: Rekordsummen für die Kongress-Zwischenwahlen",
+   "s": "Nie zuvor floss in den USA so viel Geld in den Wahlkampf für Kongress-Zwischenwahlen. Zu den größten Spendern zählen einzelne Milliardäre. Hinzu kommt \"Dark Money\", also Spenden, die niemandem zugeordnet werden können. Von Ralf Borchard.",
+   "u": "https://www.tagesschau.de/ausland/amerika/parteispenden-republikaner-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T14:21:12+00:00"
   },
   {
    "t": "Italien erwägt Marinemission im Roten Meer zum Schutz von Frachtern",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-kommission-social-media-100.html",
    "q": "Tagesschau",
    "d": "2026-09-16T12:40:13+00:00"
-  },
-  {
-   "t": "25 Jahre Haft für Kosovos Ex-Präsident Thaci wegen Kriegsverbrechen",
-   "s": "Das Kosovo-Sondertribunal in Den Haag hat den ehemaligen Präsidenten Thaci wegen Kriegsverbrechen zu 25 Jahren Haft verurteilt. In Pristina löste das Urteil Proteste aus. Vielen gilt Thaci als Nationalheld.",
-   "u": "https://www.tagesschau.de/ausland/europa/verurteilung-thaci-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T11:48:26+00:00"
-  },
-  {
-   "t": "Von der Leyen zur Lage der Union: Neuer Krisenmechanismus und mehr Bündnisse",
-   "s": "Wie kann sich Europa besser gegen Bedrohungen wappnen? Mit dieser Frage befasste sich die EU-Kommissionspräsidentin in ihrer diesjährigen Rede zur Lage der Union. Ihre Antworten: mit einem neuen Sicherheitsmechanismus und mehr Zusammenarbeit.",
-   "u": "https://www.tagesschau.de/ausland/europa/von-der-leyen-russland-ukraine-kanada-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T10:02:53+00:00"
   }
  ]
 }
