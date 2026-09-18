@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-17T23:33:45+00:00",
+ "updated": "2026-09-18T08:16:20+00:00",
  "items": [
+  {
+   "t": "Neuanfang in Armenien: Die Heimat, die es nicht mehr gibt",
+   "s": "Drei Jahre nach der Eroberung Bergkarabachs durch Aserbaidschan leben Zehntausende Karabach-Armenier in Armenien. Viele träumen von einer Rückkehr.",
+   "u": "https://taz.de/Neuanfang-in-Armenien/!6213784/",
+   "q": "taz",
+   "d": "2026-09-18T05:53:00+00:00"
+  },
   {
    "t": "Beziehungen zwischen Kanada und der EU: Kanada möchte „engere Bande“ mit Europa",
    "s": "Von der Leyen hat ein Assoziierungsabkommen mit Kanada vorgeschlagen. Dessen Premier Mark Carney begrüßt den Vorstoß. Trump ist erzürnt.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Nordirland-Schottland-und-Wales/!6213034/",
    "q": "taz",
    "d": "2026-09-14T14:47:00+00:00"
-  },
-  {
-   "t": "Wahlkrimi in Schweden: Knappes Rennen, Schwedendemokraten verlieren",
-   "s": "Schweden hat am Sonntag gewählt, doch noch sind nicht alle Stimmen ausgezählt. Schon jetzt steht jedoch fest, dass die Regierungsbildung sehr schwierig werden wird.",
-   "u": "https://taz.de/Wahlkrimi-in-Schweden/!6212829/",
-   "q": "taz",
-   "d": "2026-09-14T09:05:00+00:00"
   }
  ]
 }

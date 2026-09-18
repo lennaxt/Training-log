@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-09-17T23:33:46+00:00",
+ "updated": "2026-09-18T08:16:21+00:00",
  "items": [
+  {
+   "t": "Vor der Wahl in Brasilien: Lula erhöht Sozialhilfe",
+   "s": "Die Wahlen in Brasilien könnten harte Einschnitte für die Bevölkerung bringen. Der amtierende Präsident Lula erhöht nun Sozialhilfe.",
+   "u": "https://taz.de/Vor-der-Wahl-in-Brasilien/!6214225/",
+   "q": "taz",
+   "d": "2026-09-18T07:58:00+00:00"
+  },
+  {
+   "t": "Geplanter Deal mit Saudi-Arabien: USA wollen Saudis F-35-Kampfjets verkaufen",
+   "s": "Tarnkappenjets gelten als die modernsten Kampfflugzeuge der Welt. Im Nahen Osten waren sie bislang dem US-Verbündeten Israel vorbehalten.",
+   "u": "https://taz.de/Geplanter-Deal-mit-Saudi-Arabien/!6214224/",
+   "q": "taz",
+   "d": "2026-09-18T06:55:00+00:00"
+  },
   {
    "t": "15 Jahre Occupy Wall Street: Als die Wall Street abgeriegelt wurde",
    "s": "In den USA verhalf die Occupy-Bewegung einer Linken zu großer Wirkungsmacht. Doch für einen basisdemokratisch öffentlichen Raum war in New York auf Dauer kein Platz.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Internationaler-Gerichtshof/!6210838/",
    "q": "taz",
    "d": "2026-09-07T14:41:00+00:00"
-  },
-  {
-   "t": "Wahlkampf in Argentinien: Trumpfkarte Nationalgefühl",
-   "s": "Argentiniens Präsident Milei missbraucht die britischen Falklandinseln als nationalistisches Wahlkampfthema, weil seine Umfragen schlecht sind.",
-   "u": "https://taz.de/Wahlkampf-in-Argentinien/!6210637/",
-   "q": "taz",
-   "d": "2026-09-07T08:20:00+00:00"
-  },
-  {
-   "t": "Vor den Midterms in den USA: Briefwahl beginnt trotz Rechtsstreit",
-   "s": "In North Carolina erhalten erste Wahlberechtigte ihre Unterlagen für die Stimmabgabe per Post. Das juristische Geharke um Trumps Versuch, die Konditionen zu erschweren, geht in eine neue Runde.",
-   "u": "https://taz.de/Vor-den-Midterms-in-den-USA/!6210501/",
-   "q": "taz",
-   "d": "2026-09-05T12:46:00+00:00"
   }
  ]
 }

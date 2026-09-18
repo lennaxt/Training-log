@@ -1,7 +1,21 @@
 {
  "name": "Wissen",
- "updated": "2026-09-17T23:33:44+00:00",
+ "updated": "2026-09-18T08:16:18+00:00",
  "items": [
+  {
+   "t": "Studie: In der EU sinkt die Impfquote bei Kindern",
+   "s": "In vielen EU-Ländern gehen die Impfquoten bei Kindern zurück. Auch Deutschland ist betroffen, wie aus einer Studie hervorgeht. Auslöser war demnach vor allem die Corona-Pandemie.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/impfungen-impfgegner-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T06:27:57+00:00"
+  },
+  {
+   "t": "Renommierter Körber-Preis für Zellforscherin Wickström",
+   "s": "Die Zellbiologin Wickström erforscht, was in unseren Zellen bei mechanischem Druck passiert. Das ist auch für die Krebsforschung relevant. Heute erhält die Finnin den diesjährigen Körber-Preis für Europäische Wissenschaft. Von Veronika Simon.",
+   "u": "https://www.tagesschau.de/wissen/forschung/koerberpreis-zellforscherin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T03:22:27+00:00"
+  },
   {
    "t": "Forscher zur KI-Entwicklung: Risiken ernst nehmen, aber nicht dramatisieren",
    "s": "Öffentlichkeitswirksam haben zuletzt große KI-Entwickler für mehr Regulierung der eigenen Technologie plädiert. Einige deutsche Forscher relativieren die Warnungen nun, trotz aller Risiken - und nehmen die Entwickler in die Pflicht. Von Sven Kästner.",
@@ -36,13 +50,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/ozonloch-114.html",
    "q": "Tagesschau",
    "d": "2026-09-16T08:11:31+00:00"
-  },
-  {
-   "t": "Wie Forscher den Strombedarf von KI senken wollen",
-   "s": "Mehr KI bringt mehr Rechenzentren mit sich - und damit mehr Strombedarf? Deutsche Forscher werkeln an sparsamerer Künstlicher Intelligenz. Erste wertvolle Erkenntnisse liegen bereits vor. Von Judith Kösters.",
-   "u": "https://www.tagesschau.de/wissen/technologie/strombedarf-ki-rechenzentren-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T14:16:54+00:00"
   },
   {
    "t": "Paul Ehrlich-Preis für australischen Immunforscher Goodnow",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/apfelbau-hitze-klimawandel-100.html",
    "q": "Tagesschau",
    "d": "2026-08-24T14:43:53+00:00"
-  },
-  {
-   "t": "Zehntausende Menschen fliehen vor Feuer im US-Bundesstaat Nevada",
-   "s": "Zehntausende Menschen fliehen vor Feuer im US-Bundesstaat Nevada",
-   "u": "https://www.tagesschau.de/video/video-1636206.html",
-   "q": "Tagesschau",
-   "d": "2026-08-24T04:43:23+00:00"
   }
  ]
 }

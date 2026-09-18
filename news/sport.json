@@ -1,7 +1,21 @@
 {
  "name": "Sport",
- "updated": "2026-09-17T23:33:47+00:00",
+ "updated": "2026-09-18T08:16:22+00:00",
  "items": [
+  {
+   "t": "Kampf für die Umwelt in Kambodscha: „Das sind schwere Zeiten für uns“",
+   "s": "Die international ausgezeichnete Umweltorganisation Mother Nature kämpft trotz ihrer Kriminalisierung weiter, berichtet Sprecherin Lisa Mean.",
+   "u": "https://taz.de/Kampf-fuer-die-Umwelt-in-Kambodscha/!6213169/",
+   "q": "taz",
+   "d": "2026-09-18T06:59:00+00:00"
+  },
+  {
+   "t": "Geplanter Deal mit Saudi-Arabien: USA wollen Saudis F-35-Kampfjets verkaufen",
+   "s": "Tarnkappenjets gelten als die modernsten Kampfflugzeuge der Welt. Im Nahen Osten waren sie bislang dem US-Verbündeten Israel vorbehalten.",
+   "u": "https://taz.de/Geplanter-Deal-mit-Saudi-Arabien/!6214224/",
+   "q": "taz",
+   "d": "2026-09-18T06:55:00+00:00"
+  },
   {
    "t": "Inselgruppe: Fidschi-Inseln erklären Notstand wegen HIV-Infektionen",
    "s": "Seit über zwei Jahren steigen in Fidschi Ansteckungen mit dem HIV-Virus stark an. Jeder 60. Erwachsene ist infiziert.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Himalaja-Flutkatastrophe/!6207816/",
    "q": "taz",
    "d": "2026-08-27T16:52:00+00:00"
-  },
-  {
-   "t": "Besuch in japanischem Frauengefängnis: Eingeschlossen und zur Arbeit verdonnert",
-   "s": "Lange galt in Japans Gefängnissen eine strenge Arbeitspflicht. Seit einer Reform von 2025 soll der Fokus auf Wiedereingliederung liegen. Gelingt das?",
-   "u": "https://taz.de/Besuch-in-japanischem-Frauengefaengnis/!6204702/",
-   "q": "taz",
-   "d": "2026-08-27T14:42:00+00:00"
-  },
-  {
-   "t": "Katastrophe im Himalaja: Mehr als 1.300 Vermisste nach Sturzflut in Nepal und Tibet",
-   "s": "Im Nepals Grenzregion zu Tibet werden Hunderte ausländische Pilger und Touristen vermisst. Dort kamen mehr als 350 Menschen um, in Tibet bisher 3.",
-   "u": "https://taz.de/Katastrophe-im-Himalaya/!6207563/",
-   "q": "taz",
-   "d": "2026-08-27T07:31:00+00:00"
   }
  ]
 }

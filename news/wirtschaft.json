@@ -1,7 +1,35 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-17T23:33:43+00:00",
+ "updated": "2026-09-18T08:16:17+00:00",
  "items": [
+  {
+   "t": "EU-Verpackungsverordnung - für kleine Händler ein \"bürokratisches Monster\"?",
+   "s": "Mit einer Verordnung will die EU für weniger Verpackungsmüll und mehr Recycling sorgen. Doch sie trifft damit nicht nur Onlineriesen wie Amazon, sondern auch kleine Händlerinnen und Händler. Von R. Schirra und T. Kukral.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-verpackungsverordnung-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T08:03:21+00:00"
+  },
+  {
+   "t": "Wirtschaft vor acht vom 17.09.2026",
+   "s": "Wirtschaft vor acht vom 17.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1650958.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T07:22:53+00:00"
+  },
+  {
+   "t": "Hohe Preise: Welche Energiekosten auf die Verbraucher zukommen",
+   "s": "Der Iran-Krieg hat Energie stark verteuert. Wo sind die Preise bereits besonders stark angestiegen? Und worauf müssen sich Haushalte mit Blick auf die kommenden Monaten noch einstellen? Von Till Bücker.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/energiekosten-strom-oel-gas-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T07:20:19+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX dürfte zum Wochenschluss zurückfallen",
+   "s": "Zumindest der Start dürfte für den DAX heute holprig verlaufen. Dabei sollten sinkende Ölpreise eigentlich stützen. Auch die Vorgaben aus den USA und Asien fallen stark aus - aber die Verunsicherung bleibt hoch.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T05:46:21+00:00"
+  },
   {
    "t": "Marktbericht: DAX schließt nach US-Zinserhöhung im Plus",
    "s": "Der DAX hat nach der Zinserhöhung der US-Notenbank zugelegt. Rückenwind kam von fallenden Ölpreisen. Nach Übernahmespekulationen führt der Diagnostikkonzern Qiagen den deutschen Leitindex an.",
@@ -101,13 +129,6 @@
    "d": "2026-09-16T08:31:09+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 15.09.2026",
-   "s": "Wirtschaft vor acht vom 15.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1649614.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T18:42:18+00:00"
-  },
-  {
    "t": "Reederei-Verband: \"Wir sind Krisen und Kriege gewohnt\"",
    "s": "Siebenstellige Mehrkosten verursacht die Umrundung Afrikas. Am Ende bezahlen das die Kunden. Doch die Preiserhöhungen liegen im Cent-Bereich, sagt Reederei-Experte Kröger. Er blickt gelassen auf die Lage: Schiffe fänden fast immer einen Weg.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-102.html",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-oesterreich-100.html",
    "q": "Tagesschau",
    "d": "2026-09-15T08:17:51+00:00"
-  },
-  {
-   "t": "Noch nie so viele Start-ups gegründet wie im ersten Halbjahr 2026",
-   "s": "Noch nie wurden so viele Unternehmen mit innovativen Geschäftsideen gegründet - vor allem dank Künstlicher Intelligenz. Die Start-up-Szene blickt optimistisch in die Zukunft. Von Steffen Clement.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/startup-boom-gruendung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T04:43:29+00:00"
-  },
-  {
-   "t": "Klingbeil stellt Bedingungen für Commerzbank-Übernahme",
-   "s": "Die Übernahme der Commerzbank durch die italienische UniCredit ist kaum noch abzuwenden - trotz aller bisherigen Widerstände, auch aus der Bundesregierung. Nun versucht Finanzminister Klingbeil, rote Linien zu ziehen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/klingbeil-bedingungen-unicredit-commerzbank-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T18:32:08+00:00"
-  },
-  {
-   "t": "Was steckt hinter der Debatte über eine KI-Bremse?",
-   "s": "Nach bedrohlichen Zwischenfällen im Zusammenhang mit KI-Modellen ist eine globale Debatte über schärfere Regeln für die Technologie entbrannt. Vorne mit dabei: ausgerechnet die führenden Entwickler OpenAI und Anthropic.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/diskussion-ki-regulierung-faq-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T18:20:40+00:00"
   }
  ]
 }
