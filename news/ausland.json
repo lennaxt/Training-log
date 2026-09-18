@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-18T08:16:16+00:00",
+ "updated": "2026-09-18T13:36:46+00:00",
  "items": [
+  {
+   "t": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
+   "s": "Der Nordwesten Pakistans gilt als Unruheregion. Nun gab es dort - im Grenzgebiet zu Afghanistan - erneut einen verheerenden Anschlag mit vielen Toten und Verletzten. Noch ist unklar, wer dahinter steckt.",
+   "u": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T12:46:17+00:00"
+  },
+  {
+   "t": "Italien erwägt Marinemission im Roten Meer zum Schutz von Frachtern",
+   "s": "Die Huthi-Miliz kontrolliert die Meerenge Bab al-Mandab im Roten Meer weitgehend. Ohne auf die EU zu warten, will Italien dort Schiffe mit der eigenen Marine schützen. Die Ankündigung dürfte vor allem ein Signal in Richtung Brüssel sein.",
+   "u": "https://www.tagesschau.de/ausland/europa/italien-erwaegt-marineeinsatz-rotes-meer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T11:02:32+00:00"
+  },
   {
    "t": "Mehr Pflanzen, weniger Fleisch: Schweiz stimmt über Ernährungsinitiative ab",
    "s": "\"Tu ma lieber die Möhrchen\", könnte es bald in der Schweiz heißen. Eine Initiative fordert mehr pflanzliche Lebensmittel und weniger Tierhaltung. Dahinter steckt die Frage: Inwieweit will sich das Land künftig selbst versorgen? Von S. Biegger.",
@@ -136,13 +150,6 @@
    "d": "2026-09-16T12:54:35+00:00"
   },
   {
-   "t": "Drohne über Litauen war laut Regierung mit Sprengstoff bestückt",
-   "s": "Vorfälle mit Flugobjekten im NATO-Gebiet häufen sich: In Litauen wurde gestern eine Drohne abgeschossen, die der Regierung zufolge Sprengstoff geladen hatte. In Polen wurde ebenfalls eine mutmaßlich russische Drohne gefunden.",
-   "u": "https://www.tagesschau.de/ausland/europa/litauen-drohne-sprengstoff-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T12:40:15+00:00"
-  },
-  {
    "t": "Social Media erst ab 13 Jahren - was die EU plant",
    "s": "Die EU plant Altersbeschränkungen für TikTok, Instagram und Co: In Deutschland und anderen Mitgliedsstaaten soll der Zugang zu Sozialen Netzwerken erst ab 13 Jahren erlaubt werden. Was Brüssel plant - ein Überblick.",
    "u": "https://www.tagesschau.de/ausland/europa/eu-kommission-social-media-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/von-der-leyen-russland-ukraine-kanada-100.html",
    "q": "Tagesschau",
    "d": "2026-09-16T10:02:53+00:00"
-  },
-  {
-   "t": "Drei Tote bei Absturz von TV-Helikopter in Los Angeles",
-   "s": "Sie wollten über einen schweren Autounfall in Los Angeles berichten - stürzten dann aber selbst mit ihrem TV-Helikopter ab. Bei dem Unglück in Los Angeles kamen mindestens drei Menschen ums Leben, es könnte aber noch mehr Opfer geben.",
-   "u": "https://www.tagesschau.de/ausland/amerika/absturz-helikopter-losangeles-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T07:46:20+00:00"
   }
  ]
 }

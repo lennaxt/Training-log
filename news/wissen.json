@@ -1,20 +1,27 @@
 {
  "name": "Wissen",
- "updated": "2026-09-18T08:16:18+00:00",
+ "updated": "2026-09-18T13:36:48+00:00",
  "items": [
+  {
+   "t": "Renommierter Körber-Preis für Zellforscherin Wickström",
+   "s": "Die Zellbiologin Wickström erforscht, was in unseren Zellen bei mechanischem Druck passiert. Das ist auch für die Krebsforschung relevant. Heute hat die Finnin den diesjährigen Körber-Preis für Europäische Wissenschaft erhalten. Von Veronika Simon.",
+   "u": "https://www.tagesschau.de/wissen/forschung/koerberpreis-zellforscherin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T11:22:10+00:00"
+  },
+  {
+   "t": "FAQ: Wie gefährlich sind die aktuellen Malaria-Fälle?",
+   "s": "In Frankfurt am Main ist erneut ein Mensch an der Tropenkrankheit Malaria gestorben, er soll von einer eingeschleppten Mücke infiziert worden sein. Drohen weitere Fälle? Und sinken mit dem Herbst die Risiken?",
+   "u": "https://www.tagesschau.de/wissen/faq-malaria-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T09:28:36+00:00"
+  },
   {
    "t": "Studie: In der EU sinkt die Impfquote bei Kindern",
    "s": "In vielen EU-Ländern gehen die Impfquoten bei Kindern zurück. Auch Deutschland ist betroffen, wie aus einer Studie hervorgeht. Auslöser war demnach vor allem die Corona-Pandemie.",
    "u": "https://www.tagesschau.de/wissen/gesundheit/impfungen-impfgegner-100.html",
    "q": "Tagesschau",
    "d": "2026-09-18T06:27:57+00:00"
-  },
-  {
-   "t": "Renommierter Körber-Preis für Zellforscherin Wickström",
-   "s": "Die Zellbiologin Wickström erforscht, was in unseren Zellen bei mechanischem Druck passiert. Das ist auch für die Krebsforschung relevant. Heute erhält die Finnin den diesjährigen Körber-Preis für Europäische Wissenschaft. Von Veronika Simon.",
-   "u": "https://www.tagesschau.de/wissen/forschung/koerberpreis-zellforscherin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T03:22:27+00:00"
   },
   {
    "t": "Forscher zur KI-Entwicklung: Risiken ernst nehmen, aber nicht dramatisieren",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/waldbraende-zombiefeuer-100.html",
    "q": "Tagesschau",
    "d": "2026-08-26T08:38:51+00:00"
-  },
-  {
-   "t": "Wie Apfelbauern mit Hitze und Trockenheit umgehen",
-   "s": "Der heimische Apfelanbau kämpft nicht nur mit günstiger Konkurrenz aus dem Ausland: Auch Hitze und ausbleibender Regen belasten Betriebe. Wie Apfelbauern damit umgehen und was in Zukunft helfen könnte. Von M. Holzreiter.",
-   "u": "https://www.tagesschau.de/wissen/klima/apfelbau-hitze-klimawandel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-08-24T14:43:53+00:00"
   }
  ]
 }

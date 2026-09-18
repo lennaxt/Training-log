@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-18T08:16:20+00:00",
+ "updated": "2026-09-18T13:36:50+00:00",
  "items": [
+  {
+   "t": "Tagebuch aus der Ukraine: Wir waren doch eine ganz normale Familie",
+   "s": "Der lange Krieg belastet den Alltag der Menschen in der Ukraine sehr. Viele Ehen wurden geschieden. Erst in jüngster Zeit wird wieder mehr geheiratet.",
+   "u": "https://taz.de/Tagebuch-aus-der-Ukraine/!6207628/",
+   "q": "taz",
+   "d": "2026-09-18T09:17:00+00:00"
+  },
   {
    "t": "Neuanfang in Armenien: Die Heimat, die es nicht mehr gibt",
    "s": "Drei Jahre nach der Eroberung Bergkarabachs durch Aserbaidschan leben Zehntausende Karabach-Armenier in Armenien. Viele träumen von einer Rückkehr.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Praesidentschaftswahl-in-Frankreich/!6213031/",
    "q": "taz",
    "d": "2026-09-14T15:15:00+00:00"
-  },
-  {
-   "t": "Nordirland, Schottland und Wales: Ach wie schön wäre die Unabhängigkeit",
-   "s": "Die Parteichefs der Unabhängigkeitsparteien von Wales, Schottland und Nordirland sagen London den Kampf an. Premier Andy Burnham reagiert verhalten.",
-   "u": "https://taz.de/Nordirland-Schottland-und-Wales/!6213034/",
-   "q": "taz",
-   "d": "2026-09-14T14:47:00+00:00"
   }
  ]
 }

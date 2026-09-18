@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-18T08:16:22+00:00",
+ "updated": "2026-09-18T13:36:52+00:00",
  "items": [
+  {
+   "t": "Terror im Nordwesten Pakistans: Mindestens 16 Tote bei Anschlag mit Autobombe",
+   "s": "Ein Anschlag mit einer Autobombe trifft eine Polizeizentrale. Die Detonation beschädigt auch eine Moschee während des Freitagsgebets.",
+   "u": "https://taz.de/Mindestens-16-Tote-bei-Anschlag-mit-Autobombe-in-Pakistan/!6214388/",
+   "q": "taz",
+   "d": "2026-09-18T12:12:00+00:00"
+  },
   {
    "t": "Kampf für die Umwelt in Kambodscha: „Das sind schwere Zeiten für uns“",
    "s": "Die international ausgezeichnete Umweltorganisation Mother Nature kämpft trotz ihrer Kriminalisierung weiter, berichtet Sprecherin Lisa Mean.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Nach-Sturzflut-in-Nepal-und-Tibet/!6207910/",
    "q": "taz",
    "d": "2026-08-28T06:13:00+00:00"
-  },
-  {
-   "t": "Himalaja-Flutkatastrophe: Die Spur der Verwüstung",
-   "s": "Nach einem Gletscherbruch in Nepals Grenzregion zu Tibet sind bei Sturzfluten über 350 Menschen gestorben, Hunderte werden vermisst. Rettungsarbeiten dauern an.",
-   "u": "https://taz.de/Himalaja-Flutkatastrophe/!6207816/",
-   "q": "taz",
-   "d": "2026-08-27T16:52:00+00:00"
   }
  ]
 }

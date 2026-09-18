@@ -1,10 +1,24 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-18T08:16:19+00:00",
+ "updated": "2026-09-18T13:36:49+00:00",
  "items": [
   {
-   "t": "Wahl in Mecklenburg-Vorpommern: „Ich bin halt rustikal“",
-   "s": "Vor einem Jahr lagen die Grünen in Mecklenburg-Vorpommern in Trümmern. Mit Spitzenfrau Claudia Müller hoffen sie auf den Verbleib im Landtag.",
+   "t": "Brandanschlag auf Synagoge: Wuppertaler Polizei geht von Alleintäter aus",
+   "s": "Nach dem Attentat auf die jüdische Gemeinde wird in Wuppertal mit Mahnwachen gegen Antisemitismus demonstriert. Solidarität von Kirchen und Ditib.",
+   "u": "https://taz.de/Brandanschlag-auf-Synagoge/!6214242/",
+   "q": "taz",
+   "d": "2026-09-18T11:19:00+00:00"
+  },
+  {
+   "t": "Tanken immer teurer: Koalition ringt weiter um Entlastung bei Spritpreisen",
+   "s": "Wann tut sich was gegen die hohen Spritpreise? In der Bundesregierung wird noch verhandelt. Der Vizekanzler erwartet aber ein „schnelles Signal“.",
+   "u": "https://taz.de/Koalition-ringt-weiter-um-Entlastung-bei-Spritpreisen/!6214315/",
+   "q": "taz",
+   "d": "2026-09-18T10:06:00+00:00"
+  },
+  {
+   "t": "Grünen-Spitzenfrau in MV: All eyes on Müller",
+   "s": "Vor einem Jahr lagen die Grünen in Mecklenburg-Vorpommern in Trümmern. Mit Topkandidatin Claudia Müller hoffen sie auf den Verbleib im Landtag.",
    "u": "https://taz.de/Wahl-in-Mecklenburg-Vorpommern/!6211647/",
    "q": "taz",
    "d": "2026-09-18T08:04:00+00:00"
@@ -101,13 +115,6 @@
    "d": "2026-09-17T11:39:00+00:00"
   },
   {
-   "t": "Linkspartei in Mecklenburg-Vorpommern: „Wir sind doch alle nicht dafür, Streit zu haben“",
-   "s": "Die Linke in Mecklenburg-Vorpommern präsentiert sich als konstruktive Mitregierpartei. Ihre Spitzenkandidatin ist Pragmatikerin durch und durch.",
-   "u": "https://taz.de/Linkspartei-in-Mecklenburg-Vorpommern/!6184190/",
-   "q": "taz",
-   "d": "2026-09-17T09:47:00+00:00"
-  },
-  {
    "t": "Wahlkampf in Mecklenburg-Vorpommern: Schwesig auf Betriebstemperatur",
    "s": "Vor der Wahl in Mecklenburg-Vorpommern stehen sich die SPD-Ministerpräsidentin und ihr AfD-Konkurrent im TV-Duell gegenüber. Schwesig ist im Attackemodus, der Rechte bleibt blass und dröge.",
    "u": "https://taz.de/Wahlkampf-in-Mecklenburg-Vorpommern/!6213888/",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Linke-nach-der-Wahl-in-Sachsen-Anhalt/!6213596/",
    "q": "taz",
    "d": "2026-09-16T14:07:00+00:00"
-  },
-  {
-   "t": "Merz in der Krise: Unterstützung um fünf vor Landtagswahl",
-   "s": "Lange haben sie geschwiegen. Nun stellen sich die CDU-Ministerpräsidenten hinter den Bundeskanzler. Auch vom Wirtschaftsflügel der Fraktion kommt Unterstützung.",
-   "u": "https://taz.de/Merz-in-der-Krise/!6213677/",
-   "q": "taz",
-   "d": "2026-09-16T13:42:00+00:00"
   }
  ]
 }

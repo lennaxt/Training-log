@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-09-18T08:16:21+00:00",
+ "updated": "2026-09-18T13:36:51+00:00",
  "items": [
+  {
+   "t": "UN-Generalversammlung: Iran-Delegation darf nach New York, aber Luxus nicht erlaubt",
+   "s": "Mitten im Krieg erlauben die USA der iranischen Delegation die Reise nach New York zur UN‑Generalversammlung. Fürs Shopping gibt es strenge Auflagen.",
+   "u": "https://taz.de/UN-Generalversammlung/!6214238/",
+   "q": "taz",
+   "d": "2026-09-18T11:25:00+00:00"
+  },
+  {
+   "t": "US-Einwanderungsbehörde ohne Leitung: Trump zieht überraschend ICE-Top-Personalie zurück",
+   "s": "Trump wollte einen neuen Leiter für die umstrittene Migrationsbehörde ICE, die für ihre Razzien berüchtigt ist. ICE inhaftiert mehr Menschen als je zuvor.",
+   "u": "https://taz.de/Trump-zieht-ueberraschend-Toppersonalie-zu-ICE-Behoerde-zurueck/!6214240/",
+   "q": "taz",
+   "d": "2026-09-18T08:53:00+00:00"
+  },
   {
    "t": "Vor der Wahl in Brasilien: Lula erhöht Sozialhilfe",
    "s": "Die Wahlen in Brasilien könnten harte Einschnitte für die Bevölkerung bringen. Der amtierende Präsident Lula erhöht nun Sozialhilfe.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Trumps-Vertraute-Natalie-Harp/!6211744/",
    "q": "taz",
    "d": "2026-09-09T14:26:00+00:00"
-  },
-  {
-   "t": "US-Außenminister in Südamerika: Rubio besucht Kolumbien",
-   "s": "Marco Rubio trifft den neuen ultrarechten kolumbianischen Präsidenten Abelardo de la Espriella. Kernthemen sind Rohstoffe und militärische Zusammenarbeit.",
-   "u": "https://taz.de/US-Aussenminister-in-Suedamerika/!6211649/",
-   "q": "taz",
-   "d": "2026-09-09T09:59:00+00:00"
-  },
-  {
-   "t": "Internationaler Gerichtshof: Deutschland hält Nicaraguas Gaza-Klage für unzulässig",
-   "s": "Nicaragua wirft Deutschland Beihilfe eines israelischen Genozids in Gaza vor. Die Bundesregierung hält dagegen, man setze sich für eine Zwei-Staaten-Lösung ein.",
-   "u": "https://taz.de/Internationaler-Gerichtshof/!6210838/",
-   "q": "taz",
-   "d": "2026-09-07T14:41:00+00:00"
   }
  ]
 }
