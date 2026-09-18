@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-18T18:29:50+00:00",
+ "updated": "2026-09-18T23:19:00+00:00",
  "items": [
+  {
+   "t": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
+   "s": "Vier Tage war Verteidigungsminister Pistorius in den USA. In Washington, New York und Fort Worth in Texas wird schnell klar, dass sich etwas verändert hat: Das Interesse der USA am Bündnispartner scheint neu erwacht. Von C. Nagel.",
+   "u": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T22:40:52+00:00"
+  },
+  {
+   "t": "US-Präsident Trump verbietet CNN Zugang zum Weißen Haus",
+   "s": "Der Sender CNN und weitere Medien sollen keinen Zugang mehr zum Weißen Haus erhalten. US-Präsident Trump wirft ihnen vor, \"Erfindungen und Lügen\" zu verbreiten. Es ist nicht das erste Mal, dass Trump gegen Journalisten vorgeht.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T21:07:18+00:00"
+  },
   {
    "t": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
    "s": "Der Nordwesten Pakistans gilt als Unruheregion. Nun gab es dort - im Grenzgebiet zu Afghanistan - erneut einen verheerenden Anschlag mit vielen Toten und Verletzten. Noch ist unklar, wer dahinter steckt.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-mekka-100.html",
    "q": "Tagesschau",
    "d": "2026-09-16T13:51:03+00:00"
-  },
-  {
-   "t": "Mindestens 60 Tote bei Einsturz von Goldmine im Sudan",
-   "s": "Beim Einsturz einer Goldmine im Sudan sind mindestens 60 Menschen ums Leben gekommen. Möglicherweise könnten weitere Arbeiter noch verschüttet sein. Das Land ist ein weltweit wichtiger Goldproduzent. Von Moritz Behrendt.",
-   "u": "https://www.tagesschau.de/ausland/afrika/sudan-goldmine-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T12:54:35+00:00"
-  },
-  {
-   "t": "Social Media erst ab 13 Jahren - was die EU plant",
-   "s": "Die EU plant Altersbeschränkungen für TikTok, Instagram und Co: In Deutschland und anderen Mitgliedsstaaten soll der Zugang zu Sozialen Netzwerken erst ab 13 Jahren erlaubt werden. Was Brüssel plant - ein Überblick.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-kommission-social-media-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T12:40:13+00:00"
   }
  ]
 }

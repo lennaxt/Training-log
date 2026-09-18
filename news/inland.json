@@ -1,7 +1,21 @@
 {
  "name": "Inland",
- "updated": "2026-09-18T18:29:49+00:00",
+ "updated": "2026-09-18T23:19:00+00:00",
  "items": [
+  {
+   "t": "Fragen und Antworten: Was plant Koalition jetzt gegen die Spritpreise?",
+   "s": "Die Bundesregierung hat auf die hohen Spritpreise reagiert. Welche Maßnahmen sind ab wann geplant? Wer hat sich in der Koalition durchgesetzt? Und: Welche Kritik gibt es? Die wichtigsten Fragen und Antworten.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T22:00:25+00:00"
+  },
+  {
+   "t": "Pistorius nimmt in Texas ersten F-35A-Jet für Bundeswehr entgegen",
+   "s": "In Texas hat Bundesverteidigungsminister Pistorius den ersten von 35 Kampfjets des Typs F-35A übernommen. Die Flugzeuge sind vom gegnerischen Radar nur schwer zu orten. Pistorius sprach von einer \"neuen Ära für die Luftwaffe\".",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/pistorius-texas-f-35-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T18:30:08+00:00"
+  },
   {
    "t": "Transformation in Äthiopien: Afrikas grüner Aufbruch",
    "s": "Kohlenstoffarme Zukunft: Mit E-Autos, Wasserkraft und Aufforstungen zeigt Äthiopien, welche Rolle Afrika in der globalen Energiewende spielen kann.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Brandanschlag-auf-Synagoge/!6214242/",
    "q": "taz",
    "d": "2026-09-18T11:19:00+00:00"
-  },
-  {
-   "t": "Politologin: Der Kreml braucht eine Schein-Legitimität",
-   "s": "Bei den Wahlen in Russland stehen nur kremltreue Parteien zur Wahl. Die Politikwissenschaftlerin Sabine Fischer erklärt, warum der Urnengang für Wladimir Putin dennoch wichtig ist und welche hybriden Bedrohungen Europa erwarten.Buschert, Fanny",
-   "u": "https://www.deutschlandfunk.de/erwartungen-an-russland-wahl-interview-mit-sabine-fischer-swp-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-18T10:16:00+00:00"
-  },
-  {
-   "t": "Tanken immer teurer: Koalition ringt weiter um Entlastung bei Spritpreisen",
-   "s": "Wann tut sich was gegen die hohen Spritpreise? In der Bundesregierung wird noch verhandelt. Der Vizekanzler erwartet aber ein „schnelles Signal“.",
-   "u": "https://taz.de/Koalition-ringt-weiter-um-Entlastung-bei-Spritpreisen/!6214315/",
-   "q": "taz",
-   "d": "2026-09-18T10:06:00+00:00"
   }
  ]
 }
