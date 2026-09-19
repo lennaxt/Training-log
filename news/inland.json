@@ -1,7 +1,21 @@
 {
  "name": "Inland",
- "updated": "2026-09-19T18:02:04+00:00",
+ "updated": "2026-09-19T23:07:04+00:00",
  "items": [
+  {
+   "t": "Richtig gute Leute: Antifa mit Popcorn",
+   "s": "Die Lehrerin Hanka Gatter leitet einen Kurs gegen Rassismus, ehrenamtlich berät sie Geflüchtete in einem Café in Parchim.",
+   "u": "https://taz.de/Richtig-gute-Leute/!6213927/",
+   "q": "taz",
+   "d": "2026-09-19T18:20:00+00:00"
+  },
+  {
+   "t": "Wirtschaft in Deutschland: Wie schlimm ist es denn nun?",
+   "s": "Was ist dran am Krisengerede der Lobbyverbände? Und bringen Sozialreformen wirklich die Volkswirtschaft in Schwung? Wir geben Antworten.",
+   "u": "https://taz.de/Wirtschaft-in-Deutschland/!6208374/",
+   "q": "taz",
+   "d": "2026-09-19T18:17:00+00:00"
+  },
   {
    "t": "Generalinspekteur Breuer wird Vorsitzender des NATO-Militärausschusses",
    "s": "Es ist einer der einflussreichsten Posten bei der NATO - und künftig hat ihn ein Deutscher inne: Generalinspekteur Breuer ist zum neuen Vorsitzenden des NATO-Militärausschusses gewählt worden. Er wird damit Berater von Generalsekretär Rutte.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/CDU-und-Fetischkultur/!6208288/",
    "q": "taz",
    "d": "2026-09-19T07:03:00+00:00"
-  },
-  {
-   "t": "Bund und Länder einigen sich: Habemus neuen Tankrabatt",
-   "s": "Die Bundesregierung vereinbart mit den Ländern ein neues Paket für Entlastungen bei den hohen Spritreisen. Opposition kritisiert das als Gießkannenlösung.",
-   "u": "https://taz.de/Bund-und-Laender-einigen-sich-auf-neuen-Tankrabatt/!6214649/",
-   "q": "taz",
-   "d": "2026-09-19T06:51:00+00:00"
-  },
-  {
-   "t": "Einigung USA-Dänemark: Trump bekommt einen Grönland-Deal",
-   "s": "Ein neues Abkommen sichert den USA eine dauerhafte Militärpräsenz auf Grönland. Doch die Darstellungen dazu klingen unterschiedlich.",
-   "u": "https://taz.de/Einigung-USA-Daenemark/!6214648/",
-   "q": "taz",
-   "d": "2026-09-19T06:33:00+00:00"
   }
  ]
 }
