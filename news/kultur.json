@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-09-19T08:04:26+00:00",
+ "updated": "2026-09-19T13:10:51+00:00",
  "items": [
+  {
+   "t": "Grönland-Abkommen mit den USA: Lob und Erleichterung, soweit das Auge reicht",
+   "s": "Trump feiert einen Grönland-Deal, auch Dänemark und Grönland sind zufrieden. Das Abkommen soll die Sicherheit stärken. Viele Details bleiben jedoch offen.",
+   "u": "https://taz.de/Groenland-Abkommen-mit-den-USA/!6214661/",
+   "q": "taz",
+   "d": "2026-09-19T11:21:00+00:00"
+  },
+  {
+   "t": "7. Stromausfall in diesem Jahr: Stromnetz auf Kuba bricht erneut zusammen",
+   "s": "US-Ölembargo, marode Kraftwerke: Die Energiekrise auf Kuba spitzt sich zu. Rund 9,4 Millionen Menschen haben keinen Strom.",
+   "u": "https://taz.de/Stromnetz-auf-Kuba-bricht-erneut-zusammen/!6214658/",
+   "q": "taz",
+   "d": "2026-09-19T09:21:00+00:00"
+  },
   {
    "t": "UN-Generalversammlung: Iran-Delegation darf nach New York, Luxus ist nicht erlaubt",
    "s": "Mitten im Krieg erlauben die USA der iranischen Delegation die Reise nach New York zur UN‑Generalversammlung. Fürs Shopping gibt es strenge Auflagen.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/25-Jahre-nach-9/11/!6212145/",
    "q": "taz",
    "d": "2026-09-10T09:20:00+00:00"
-  },
-  {
-   "t": "Wahlkampf in den USA: Darum setzt Trump auf das Feindbild Kommunismus",
-   "s": "Antikommunismus ist in den USA tief verwurzelt. Vor den Zwischenwahlen beschimpft der US-Präsident die Demokraten als „Kommunisten“. Ist das erfolgversprechend?",
-   "u": "https://taz.de/Wahlkampf-in-den-USA/!6212160/",
-   "q": "taz",
-   "d": "2026-09-10T08:06:00+00:00"
-  },
-  {
-   "t": "Trumps Vertraute Natalie Harp: 45.000 Dollar zu Weihnachten",
-   "s": "Natalie Harp gilt als wichtige Frau im engen Zirkel des US-Präsidenten. Die Höhe ihres „Weihnachtsgelds“ sorgt nun für Diskussionen.",
-   "u": "https://taz.de/Trumps-Vertraute-Natalie-Harp/!6211744/",
-   "q": "taz",
-   "d": "2026-09-09T14:26:00+00:00"
   }
  ]
 }

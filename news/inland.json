@@ -1,7 +1,84 @@
 {
  "name": "Inland",
- "updated": "2026-09-19T08:04:20+00:00",
+ "updated": "2026-09-19T13:10:46+00:00",
  "items": [
+  {
+   "t": "Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket",
+   "s": "Mit Tankrabatt und Spritpreisdeckel will die Bundesregierung gegen hohe Kraftstoffpreise vorgehen. Die Maßnahmen stoßen größtenteils auf Kritik - sie seien zu wenig zielgenau. Doch es gibt auch Zustimmung.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-19T12:39:46+00:00"
+  },
+  {
+   "t": "Teile von F-35 vermisst: Geheime Technik von US-Tarnkappenjet F-35 soll nach Hongkong gegangen sein",
+   "s": "Der US-Kongress untersucht laut Recherchen von Politico, ob Teile des hochmodernen F-35-Kampfjets China in die Hände gefallen sind.",
+   "u": "https://taz.de/Bericht-Geheime-Technik-von-US-Tarnkappenjet-F-35-nach-Hongkong-umgeleitet/!6214665/",
+   "q": "taz",
+   "d": "2026-09-19T12:38:00+00:00"
+  },
+  {
+   "t": "Wie sich Lokaljournalismus weiterentwickelt",
+   "s": "Klicks, neue Kanäle, Künstliche Intelligenz: Der Lokaljournalismus befindet sich im Wandel. Wie Zeitungen mit den Herausforderungen umgehen, zeigt eine Redaktion des Böblinger Boten. Wie kann sie sich behaupten? Von Laura Bisch.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/lokaljournalismus-zeitung-herausforderungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-19T12:20:39+00:00"
+  },
+  {
+   "t": "Studi-Mieten in Großstädten: Jedes zweite WG-Zimmer in Berlin kostet mehr als 650 Euro",
+   "s": "Deutschlandweit bleiben die Zimmer-Mieten zuletzt stabil, in den Millionenstädten aber ziehen sie an. Die Hauptstadt ist dabei nicht am teuersten.",
+   "u": "https://taz.de/Studi-Mieten-in-Grossstaedten/!6214660/",
+   "q": "taz",
+   "d": "2026-09-19T11:24:00+00:00"
+  },
+  {
+   "t": "Grönland-Abkommen mit den USA: Lob und Erleichterung, soweit das Auge reicht",
+   "s": "Trump feiert einen Grönland-Deal, auch Dänemark und Grönland sind zufrieden. Das Abkommen soll die Sicherheit stärken. Viele Details bleiben jedoch offen.",
+   "u": "https://taz.de/Groenland-Abkommen-mit-den-USA/!6214661/",
+   "q": "taz",
+   "d": "2026-09-19T11:21:00+00:00"
+  },
+  {
+   "t": "Lieferant von Rohdiamanten: Botswana greift nach De Beers",
+   "s": "Mehr Einfluss auf den Diamantenkonzern soll dem Land helfen, seine Wirtschaft zu diversifizieren. Seine Finanzreserven sind weitgehend aufgebraucht.",
+   "u": "https://taz.de/Lieferant-von-Rohdiamanten/!6197767/",
+   "q": "taz",
+   "d": "2026-09-19T10:56:00+00:00"
+  },
+  {
+   "t": "Grünen-Fraktionsvize nennt Tankrabatt \"Wahnsinn\"",
+   "s": "Die Bundesregierung plant einen neuen Tankrabatt. Ein falscher Schritt, findet der Fraktionsvize der Grünen, Andreas Audretsch. Denn ein Großteil des Geldes werde bei den Ölkonzernen landen. Er fordert, das Geld direkt an die Menschen auszuzahlen.May, Philipp",
+   "u": "https://www.deutschlandfunk.de/kritik-am-tankrabatt-interview-mit-gruenen-fraktionsvize-andreas-audretsch-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-19T10:15:00+00:00"
+  },
+  {
+   "t": "Feindbild Migration: „Diese Agenda hat eine lange Tradition“",
+   "s": "Die Demokratie ist mehr als die Herrschaft der Mehrheit, sagt Rechtsprofessor Maximilian Pichl. Er erklärt, was sie mit Flüchtlingsschutz in Europa zu tun hat.",
+   "u": "https://taz.de/Feindbild-Migration/!6208376/",
+   "q": "taz",
+   "d": "2026-09-19T09:47:00+00:00"
+  },
+  {
+   "t": "7. Stromausfall in diesem Jahr: Stromnetz auf Kuba bricht erneut zusammen",
+   "s": "US-Ölembargo, marode Kraftwerke: Die Energiekrise auf Kuba spitzt sich zu. Rund 9,4 Millionen Menschen haben keinen Strom.",
+   "u": "https://taz.de/Stromnetz-auf-Kuba-bricht-erneut-zusammen/!6214658/",
+   "q": "taz",
+   "d": "2026-09-19T09:21:00+00:00"
+  },
+  {
+   "t": "Streit um Königsnachfolge in Uganda: Neun Kaffeebohnen und ein verschwundener Palastschlüssel",
+   "s": "Ganz Uganda trauert um seinen jüngsten König, der im Alter von 34 Jahren an Krebs verstarb. Der erbitterte Streit um die Nachfolge ist in vollem Gange.",
+   "u": "https://taz.de/Streit-um-Koenigsnachfolge-in-Uganda/!6208347/",
+   "q": "taz",
+   "d": "2026-09-19T09:10:00+00:00"
+  },
+  {
+   "t": "Neue Kampfjets für die Bundeswehr: Pistorius nimmt in Texas ersten F-35 in Empfang",
+   "s": "Verteidigungsminister Pistorius reist persönlich in die USA, um die Tarnkappenjets entgegenzunehmen, die die Tornado-Flugzeuge der Bundeswehr ersetzen sollen.",
+   "u": "https://taz.de/Pistorius-nimmt-in-Texas-ersten-F-35-Kampfjet-fuer-die-Bundeswehr-in-Empfang/!6214653/",
+   "q": "taz",
+   "d": "2026-09-19T08:09:00+00:00"
+  },
   {
    "t": "Wahlkampf in Mecklenburg-Vorpommern: SPD feiert Schwesig ab, CDU blickt in den Abgrund",
    "s": "Kurz vor der Wahl in Mecklenburg-Vorpommern karren noch mal fast alle Parteien Spitzenpolitiker aus Bund und Ländern heran. Nur bei der CDU ist Totentanz.",
@@ -92,83 +169,6 @@
    "u": "https://www.tagesschau.de/inland/entlastungen-spritpreise-102.html",
    "q": "Tagesschau",
    "d": "2026-09-19T00:52:21+00:00"
-  },
-  {
-   "t": "Pistorius nimmt in Texas ersten F-35A-Jet für Bundeswehr entgegen",
-   "s": "In Texas hat Bundesverteidigungsminister Pistorius den ersten von 35 Kampfjets des Typs F-35A übernommen. Die Flugzeuge sind vom gegnerischen Radar nur schwer zu orten. Pistorius sprach von einer \"neuen Ära für die Luftwaffe\".",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/pistorius-texas-f-35-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T18:30:08+00:00"
-  },
-  {
-   "t": "Transformation in Äthiopien: Afrikas grüner Aufbruch",
-   "s": "Kohlenstoffarme Zukunft: Mit E-Autos, Wasserkraft und Aufforstungen zeigt Äthiopien, welche Rolle Afrika in der globalen Energiewende spielen kann.",
-   "u": "https://taz.de/Transformation-in-Aethiopien/!6197773/",
-   "q": "taz",
-   "d": "2026-09-18T17:57:00+00:00"
-  },
-  {
-   "t": "Debatte um hohe Spritpreise: Regierung verhandelt über Tankrabatt",
-   "s": "Die Bundesregierung verhandelt über Entlastungen beim Tanken. Die Energiesteuer könnte um 14 Cent sinken, auch ein Spritpreisdeckel ist im Gespräch.",
-   "u": "https://taz.de/Debatte-um-hohe-Spritpreise/!6214633/",
-   "q": "taz",
-   "d": "2026-09-18T17:56:00+00:00"
-  },
-  {
-   "t": "Wahlen in MV und Berlin: „Kanzlerdämmerung“ im TV? Lieber: „Zwei Engel für Germany“.",
-   "s": "Am Sonntag könnten zwei Frauen die Wahlen gewinnen, die beide zeigen, dass es eine Alternative zur AfD gibt. Schalten Sie ein!",
-   "u": "https://taz.de/Wahlen-in-MV-und-Berlin/!6208425/",
-   "q": "taz",
-   "d": "2026-09-18T17:56:00+00:00"
-  },
-  {
-   "t": "Abtreibung und patriarchale Ordnung: Allianzen beim rechten Rollback",
-   "s": "Zum „Marsch für das Leben“ versammelt sich in Berlin und anderswo die religiöse Rechte. Der Angriff auf Frauenrechte ist auch einer auf die Demokratie.",
-   "u": "https://taz.de/Abtreibung-und-patriarchale-Ordnung/!6208314/",
-   "q": "taz",
-   "d": "2026-09-18T17:55:00+00:00"
-  },
-  {
-   "t": "Folge 500 - Kanzlerdämmerungen und Niedergang der Volksparteien",
-   "s": "Seit Juni 2017 entsteht im Hauptstadtstudio das wöchentliche Redaktionsgespräch. In Jubiläumsfolge 500 blickt das Hauptstadtstudio-Team auf neun bewegte Jahre zurück und voraus. Ist der Kanzler-Job überhaupt noch machbar? Wird die AfD eine Volkspartei?Sittler, Friederike; Hamberger, Katharina; Capellan, Frank; Lindner,…",
-   "u": "https://www.deutschlandfunk.de/folge-500-kanzlerdaemmerungen-und-niedergang-der-volksparteien-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-18T17:05:00+00:00"
-  },
-  {
-   "t": "Wahl in Marokko - Trotz Ceuta-Krise keine Angebote für die Jugend",
-   "s": "Marokko erlebt einen Bau- und Wirtschaftsboom. Für junge Menschen gibt es dennoch kaum Perspektiven. Der Andrang auf die spanische Exklave Ceuta hat gezeigt: Viele wollen weg. Setzen sie dennoch Hoffnungen in die Parlamentswahl am 23. September?Ehlert, Stefan",
-   "u": "https://www.deutschlandfunk.de/wahl-in-marokko-trotz-ceuta-krise-keine-angebote-fuer-die-jugend-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-18T16:40:00+00:00"
-  },
-  {
-   "t": "Berlin-Wahl - Kristin Brinker von der AfD: Spitzenkandidatin ohne Regierungschancen",
-   "s": "Kristin Brinker tritt zum dritten Mal als Spitzenkandidatin der AfD in Berlin an. Ihre Partei kann mit Zuwächsen rechnen. Doch eine Regierungsoption hat sie wohl nicht; niemand will mit ihr koalieren. Von Jonas Wintermantel und Markus Reher.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-afd-brinker-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T16:20:49+00:00"
-  },
-  {
-   "t": "Grüne gründen Jugendbeirat: Forever Young",
-   "s": "Die Grünen wollen wieder einen Draht zu jungen Leuten bekommen. Die Bundestagsfraktion holt sich dafür Berater – von Pfadfindern, Landjugend und BUND.",
-   "u": "https://taz.de/Gruene-gruenden-Jugendbeirat/!6213970/",
-   "q": "taz",
-   "d": "2026-09-18T15:31:00+00:00"
-  },
-  {
-   "t": "Geflüchtete in Ceuta: Vom Strand an den Hafen",
-   "s": "Seit Wochen harren Hunderte Migranten in provisorischen Unterkünften am Strand von Ceuta aus. Madrid greift durch und verlegt die Menschen in neue Lager.",
-   "u": "https://taz.de/Gefluechtete-in-Ceuta/!6214317/",
-   "q": "taz",
-   "d": "2026-09-18T15:01:00+00:00"
-  },
-  {
-   "t": "Duma-Wahl in Russland – Abstimmung ohne echte Konkurrenz",
-   "s": "Noch bis Sonntag ruft Putin zu Wahlen in Russland auf. Kriegskritische Parteien sind nicht zugelassen. Warum braucht Putin diese Inszenierung genau jetzt? Und: Jürgen Klopps Äußerungen zum Nationalstolz – Wer ist wir?Stephanie Rohde",
-   "u": "https://www.deutschlandfunk.de/russland-wahl-klopp-nationalstolz-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-18T15:00:00+00:00"
   }
  ]
 }

@@ -1,7 +1,28 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-19T08:04:22+00:00",
+ "updated": "2026-09-19T13:10:48+00:00",
  "items": [
+  {
+   "t": "Auch Googles KI hackte Unternehmen",
+   "s": "Wiederholt haben KI-Systeme bei Tests unerwartet auf fremde Systeme zugegriffen. Nun wurden solche Vorfälle auch bei Googles Gemini bekannt. In der Debatte um KI-Sicherheit lässt Kalifornien mögliche strengere Sicherheitsvorgaben prüfen.",
+   "u": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-19T13:09:00+00:00"
+  },
+  {
+   "t": "Berufsleben: Job weg, Abfindung - und dann?",
+   "s": "Ob Volkswagen, Bayer oder Lufthansa - besonders das mittlere Management steht auf dem Arbeitsmarkt unter Druck. Wie kann es man sich nach einem Aufhebungsvertrag beruflich neu orientieren? Von Anke Heinhaus.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/abfindung-berufsleben-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-19T12:26:53+00:00"
+  },
+  {
+   "t": "Schweden - Die Rückkehr des Bargelds",
+   "s": "Schweden ist Vorreiter des bargeldlosen Zahlens. Doch nun müssen Supermärkte und Apotheken wieder Münzen und Scheine annehmen. Der Kurswechsel ist eine Reaktion auf Sicherheitsrisiken und wirft die Frage auf: Wie resilient ist unser Zahlungssystem?Von Konstantin Schönfelder",
+   "u": "https://www.deutschlandfunk.de/schweden-bargeld-rueckkehr-pflicht-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-19T08:23:00+00:00"
+  },
   {
    "t": "Weißstorch oder Beethoven: Europäer reden bei neuen Banknoten mit",
    "s": "Das Design der Euroscheine ist in die Jahre gekommen. Bei der anstehenden Überarbeitung lässt die EZB die Bürgerinnen und Bürger jetzt mitreden. Noch bis Montag kann abgestimmt werden. Von Ursula Mayer.",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/apotheken-apothekertag-linnemann-100.html",
    "q": "Tagesschau",
    "d": "2026-09-15T11:39:22+00:00"
-  },
-  {
-   "t": "Schwieriger Umstieg der Speditionen auf Elektro-Lkw",
-   "s": "Auf der IAA Transportation in Hannover stellt die Nutzfahrzeugbranche ihre neuen Modelle vor. Der Umstieg auf Elektro-Lkw ist für Speditionen ein aufwendiger und vor allem auch teurer Schritt. Von Michael Eiden.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/umstieg-e-lkw-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T10:34:53+00:00"
-  },
-  {
-   "t": "Gasreserven vor dem Winter: Wie Österreich vorsorgt",
-   "s": "Deutschlands Gasspeicher waren zuletzt etwa zur Hälfte gefüllt - und die Sorge vor Engpässen im Winter wächst. In Österreich wirkt die Lage entspannter. Was macht das Nachbarland anders? Von Oliver Soos.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-oesterreich-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T08:17:51+00:00"
-  },
-  {
-   "t": "Bildungsmonitor 2026: Mehr Aufsteiger, mehr Absteiger",
-   "s": "Der aktuelle Bildungsmonitor der Initiative Neue Soziale Marktwirtschaft zeigt: Das Bildungsniveau sinkt, die Schere zwischen höher Gebildeten und Bildungsfernen wächst. Fast jeder fünfte junge Erwachsene hat keinen Abschluss. Von Andre Kartschall.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/bildungsmonitor-neue-soziale-markwirtschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T15:21:34+00:00"
   }
  ]
 }

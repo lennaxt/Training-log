@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-19T08:04:24+00:00",
+ "updated": "2026-09-19T13:10:49+00:00",
  "items": [
+  {
+   "t": "Studi-Mieten in Großstädten: Jedes zweite WG-Zimmer in Berlin kostet mehr als 650 Euro",
+   "s": "Deutschlandweit bleiben die Zimmer-Mieten zuletzt stabil, in den Millionenstädten aber ziehen sie an. Die Hauptstadt ist dabei nicht am teuersten.",
+   "u": "https://taz.de/Studi-Mieten-in-Grossstaedten/!6214660/",
+   "q": "taz",
+   "d": "2026-09-19T11:24:00+00:00"
+  },
+  {
+   "t": "Feindbild Migration: „Diese Agenda hat eine lange Tradition“",
+   "s": "Die Demokratie ist mehr als die Herrschaft der Mehrheit, sagt Rechtsprofessor Maximilian Pichl. Er erklärt, was sie mit Flüchtlingsschutz in Europa zu tun hat.",
+   "u": "https://taz.de/Feindbild-Migration/!6208376/",
+   "q": "taz",
+   "d": "2026-09-19T09:47:00+00:00"
+  },
+  {
+   "t": "Neue Kampfjets für die Bundeswehr: Pistorius nimmt in Texas ersten F-35 in Empfang",
+   "s": "Verteidigungsminister Pistorius reist persönlich in die USA, um die Tarnkappenjets entgegenzunehmen, die die Tornado-Flugzeuge der Bundeswehr ersetzen sollen.",
+   "u": "https://taz.de/Pistorius-nimmt-in-Texas-ersten-F-35-Kampfjet-fuer-die-Bundeswehr-in-Empfang/!6214653/",
+   "q": "taz",
+   "d": "2026-09-19T08:09:00+00:00"
+  },
   {
    "t": "Wahlkampf in Mecklenburg-Vorpommern: SPD feiert Schwesig ab, CDU blickt in den Abgrund",
    "s": "Kurz vor der Wahl in Mecklenburg-Vorpommern karren noch mal fast alle Parteien Spitzenpolitiker aus Bund und Ländern heran. Nur bei der CDU ist Totentanz.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Nach-der-Landtagswahl-in-Sachsen-Anhalt/!6213999/",
    "q": "taz",
    "d": "2026-09-17T16:04:00+00:00"
-  },
-  {
-   "t": "Hohe Spritpreise: Finger weg von der Mehrwertsteuer",
-   "s": "Es gibt einfache Arten, Menschen zu entlasten. So könnte die Einkommensteuer für Geringverdiener gesenkt und Armen ein Fixbetrag gezahlt werden.",
-   "u": "https://taz.de/Hohe-Spritpreise/!6213930/",
-   "q": "taz",
-   "d": "2026-09-17T16:03:00+00:00"
-  },
-  {
-   "t": "Gewalt unter Eritreern in Deutschland: Zwei eritreische Regierungsgegner in Untersuchungshaft",
-   "s": "Der Generalbundesanwalt ermittelt gegen zwei eritreische Männer in Deutschland. Ihnen wird Mitgliedschaft in der Brigade N’Hamedu vorgeworfen.",
-   "u": "https://taz.de/Gewalt-unter-Eritreern-in-Deutschland/!6213982/",
-   "q": "taz",
-   "d": "2026-09-17T14:05:00+00:00"
-  },
-  {
-   "t": "Benzingeld aufs Konto: Wie der Staat uns Geld zahlen kann",
-   "s": "Seit Jahren wird über einen Auszahlungsmechanismus an Bürgerinnen und Bürger geredet. Theoretisch ist der laut Ministerium fertig. Praktisch fehlt aber noch etwas.",
-   "u": "https://taz.de/Benzingeld-vom-Staat/!6214015/",
-   "q": "taz",
-   "d": "2026-09-17T11:52:00+00:00"
   }
  ]
 }
