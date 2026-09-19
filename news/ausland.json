@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-19T13:10:47+00:00",
+ "updated": "2026-09-19T18:02:04+00:00",
  "items": [
+  {
+   "t": "Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang",
+   "s": "US-Präsident Trump hatte angekündigt, CNN, MS NOW und Politico aus dem Weißen Haus zu verbannen. Und tatsächlich: Die Reporter wurden heute abgewiesen, ihre Presseausweise deaktiviert.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-19T15:53:33+00:00"
+  },
+  {
+   "t": "USA: Trump setzt neues Sanktionspaket gegen Russland in Kraft",
+   "s": "Einreiseverbote, Strafzölle und eingefrorene Vermögen: US-Präsident Trump hat verschärfte Sanktionen gegen Russland mit seiner Unterschrift in Kraft gesetzt. Eine scharfe Reaktion aus Russland folgte prompt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-sanktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-19T14:52:46+00:00"
+  },
   {
    "t": "Wie geht China mit den Gefahren durch Künstliche Intelligenz um?",
    "s": "Debatten um die Eindämmung der Gefahren durch Künstliche Intelligenz enden in den USA meist mit dem Hinweis, dass China dann einen gefährlichen Vorsprung erlange. Doch wo steht Peking in der Debatte? Von Jörg Endriss.",
@@ -113,20 +127,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/un-bericht-kriegsverbrechen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-17T12:31:47+00:00"
-  },
-  {
-   "t": "Premier Carney: Kanada ist offen für EU-Sondermitgliedschaft",
-   "s": "Kein volles EU-Mitglied, aber eine Art Sondermitgliedschaft - das könnte Kanada bekommen. Die EU hat einen solchen Vorschlag gemacht, Premier Carney begrüßt den Vorstoß. Ob es wirklich dazu kommt, ist aber ungewiss.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kanada-eu-106.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T11:50:29+00:00"
-  },
-  {
-   "t": "US-Repräsentantenhaus beschließt Sanktionen gegen Russland",
-   "s": "Lange wurde gerungen, jetzt hat auch das US-Repräsentantenhaus neue Sanktionen gegen Russland beschlossen. Damit können auch die Handelspartner Moskaus ins Visier genommen werden. Aber ist Trump bereit, das auch umzusetzen? Von Ralf Borchard.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-russland-sanktionen-140.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T07:25:46+00:00"
   },
   {
    "t": "Wie stellt Kanada sich die \"einzigartige Allianz\" vor?",

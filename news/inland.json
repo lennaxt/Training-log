@@ -1,7 +1,56 @@
 {
  "name": "Inland",
- "updated": "2026-09-19T13:10:46+00:00",
+ "updated": "2026-09-19T18:02:04+00:00",
  "items": [
+  {
+   "t": "Generalinspekteur Breuer wird Vorsitzender des NATO-Militärausschusses",
+   "s": "Es ist einer der einflussreichsten Posten bei der NATO - und künftig hat ihn ein Deutscher inne: Generalinspekteur Breuer ist zum neuen Vorsitzenden des NATO-Militärausschusses gewählt worden. Er wird damit Berater von Generalsekretär Rutte.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/breuer-nato-militaerausschuss-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-19T17:58:34+00:00"
+  },
+  {
+   "t": "Marsch für das Leben 2026: Christlich-Konservative stoßen auf Gegendemos",
+   "s": "Das Bundesverband Lebensrecht hat zur jährlichen Demo gegen Schwangerschaftsabbruch gerufen. Die Gegendemonstrierenden haben die Strecke begleitet.",
+   "u": "https://taz.de/Marsch-fuer-das-Leben-2026/!6214673/",
+   "q": "taz",
+   "d": "2026-09-19T16:35:00+00:00"
+  },
+  {
+   "t": "Breite Bündnisse gegen die AfD?: „Es braucht einen sozialen Antifaschismus“",
+   "s": "Grüne und SPD haben ihren Neoliberalismus nicht aufgearbeitet. Das steht einer echten Kritik der herrschenden Politik im Weg, sagt Mario Candeias.",
+   "u": "https://taz.de/Breite-Buendnisse-gegen-die-AfD/!6210788/",
+   "q": "taz",
+   "d": "2026-09-19T16:20:00+00:00"
+  },
+  {
+   "t": "Kürzungen bei Kolumbiens Friedensjustiz: Rotstift trifft auf Aufarbeitung",
+   "s": "Die JEP klärt Verbrechen aus Kolumbiens bewaffnetem Konflikt auf. Nun drohen Budgetkürzungen und neue Kontrollen ihrer Urteile.",
+   "u": "https://taz.de/Kuerzungen-bei-Kolumbiens-Friedensjustiz/!6214670/",
+   "q": "taz",
+   "d": "2026-09-19T16:16:00+00:00"
+  },
+  {
+   "t": "LNG-Boom in Mosambik: Das Gas ist da. Der Wohlstand nicht",
+   "s": "Mosambik setzt auf Milliardeninvestitionen in Erdgas. Doch die versprochenen Jobs und Entwicklungschancen für viele Menschen bleiben aus.",
+   "u": "https://taz.de/LNG-Boom-in-Mosambik/!6197785/",
+   "q": "taz",
+   "d": "2026-09-19T16:12:00+00:00"
+  },
+  {
+   "t": "Krankenkassen sollen doch über Beitragsanhebung informieren müssen",
+   "s": "Gesundheitsminister Linnemann will das Aus der Informationspflicht für gesetzliche Krankenkassen über Beitragserhöhungen wieder rückgängig machen. Vor allem Verbraucherschützer hatten die Abschaffung der Pflicht scharf kritisiert.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-19T15:46:45+00:00"
+  },
+  {
+   "t": "Warnung vor ökonomischen Schäden: Handelsverband nennt AfD „absolut wirtschaftsfeindlich“",
+   "s": "Vor den Wahlen kritisiert der Einzelhandel die AfD als „nicht wählbar“, Putins Beauftragter lobt sie. Mitarbeiter von Berliner AfD-Spitzenkandidatin durchsucht.",
+   "u": "https://taz.de/Handelsverband-nennt-AfD-absolut-wirtschaftsfeindlich/!6214668/",
+   "q": "taz",
+   "d": "2026-09-19T13:21:00+00:00"
+  },
   {
    "t": "Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket",
    "s": "Mit Tankrabatt und Spritpreisdeckel will die Bundesregierung gegen hohe Kraftstoffpreise vorgehen. Die Maßnahmen stoßen größtenteils auf Kritik - sie seien zu wenig zielgenau. Doch es gibt auch Zustimmung.",
@@ -45,8 +94,8 @@
    "d": "2026-09-19T10:56:00+00:00"
   },
   {
-   "t": "Grünen-Fraktionsvize nennt Tankrabatt \"Wahnsinn\"",
-   "s": "Die Bundesregierung plant einen neuen Tankrabatt. Ein falscher Schritt, findet der Fraktionsvize der Grünen, Andreas Audretsch. Denn ein Großteil des Geldes werde bei den Ölkonzernen landen. Er fordert, das Geld direkt an die Menschen auszuzahlen.May, Philipp",
+   "t": "Grünen-Fraktionsvize übt scharfe Kritik an Tankrabatt",
+   "s": "Die Bundesregierung plant einen neuen Tankrabatt. Ein falscher Schritt, findet der Fraktionsvize der Grünen, Andreas Audretsch. Denn ein großer Teil des Geldes werde bei den Ölkonzernen landen. Er fordert, das Geld direkt an die Menschen auszuzahlen.May, Philipp",
    "u": "https://www.deutschlandfunk.de/kritik-am-tankrabatt-interview-mit-gruenen-fraktionsvize-andreas-audretsch-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-19T10:15:00+00:00"
@@ -120,55 +169,6 @@
    "u": "https://taz.de/Einigung-USA-Daenemark/!6214648/",
    "q": "taz",
    "d": "2026-09-19T06:33:00+00:00"
-  },
-  {
-   "t": "Europapolitiker: Kanada-Partnerschaft nicht von Trump abhängig machen",
-   "s": "Ursula von der Leyen schlägt Kanada eine assoziierte EU-Mitgliedschaft vor. David McAllister (CDU) begrüßt das Angebot einer Partnerschaft und betont, man werde sich trotz Zollandrohungen aus Washington nicht beirren lassen.Götzke, Manfred",
-   "u": "https://www.deutschlandfunk.de/assoziierte-eu-mitgliedschaft-fuer-kanada-interview-david-mcallister-cdu-mdep-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-19T06:15:00+00:00"
-  },
-  {
-   "t": "Hagens OB fordert härteres Vorgehen bei Sozialleistungsbetrug",
-   "s": "Einige EU-Bürger nutzten Gesetzeslücken bei Sozialleistungen aus, warnt Hagens Oberbürgermeister Dennis Rehbein (CDU). Um die Spaltung der Gesellschaft zu verhindern, fordert er schärfere Regeln auf EU-Ebene und einen besseren Datenaustausch.Götzke, Manfred",
-   "u": "https://www.deutschlandfunk.de/massnahmen-gegen-sozialbetrug-interview-mit-dennis-rehbein-ob-von-hagen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-19T05:15:00+00:00"
-  },
-  {
-   "t": "CDU vor den Wahlen: Für den Kanzler geht es ums Amt",
-   "s": "Die Zukunft von Friedrich Merz hängt an den Wahlen in Berlin und Mecklenburg-Vorpommern. Verpasst die CDU ihre Ziele deutlich, dürfte es ungemütlich werden für den Kanzler. Seine Herausforderer zögern noch. Von Tina Handel.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/cdu-merz-wahlen-berlin-mecklenburg-vorpommern-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T03:14:59+00:00"
-  },
-  {
-   "t": "Radikalisierung von Jugendlichen: Die Macht der Islamisten im Netz",
-   "s": "Islamistische Propaganda erreicht Jugendliche längst mitten in ihrem digitalen Alltag. Recherchen von BR und SWR zeigen, wie Radikalisierung über Social Media und Gaming funktioniert - und wie schwer es für Familien ist, darauf zu reagieren.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/islamismus-radikalisierung-social-media-gaming-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T03:10:46+00:00"
-  },
-  {
-   "t": "Oktoberfest beginnt - München für zwei Wochen in Feierlaune",
-   "s": "In München beginnt das Oktoberfest. Zum ersten Mal bekommt Bayerns Ministerpräsident Söder das erste Wiesn-Bier von einem Grünen gereicht - dem neuen Oberbürgermeister Krause.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/eroeffnung-oktoberfest-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T03:04:33+00:00"
-  },
-  {
-   "t": "Fragen und Antworten: Was plant Koalition jetzt gegen die Spritpreise?",
-   "s": "Die Bundesregierung hat auf die hohen Spritpreise reagiert. Welche Maßnahmen sind ab wann geplant? Wer hat sich in der Koalition durchgesetzt? Und: Welche Kritik gibt es? Die wichtigsten Fragen und Antworten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T02:05:33+00:00"
-  },
-  {
-   "t": "Entlastungen: Spritpreisdeckel dürfte für Diskussionen sorgen",
-   "s": "Die Bundesregierung will die Spritpreise in zwei Schritten senken: erst mit einem Tankrabatt, ab Januar mit einem Preisdeckel. Doch der dürfte noch für Streit in der Koalition sorgen. Von Maximilian Ulrich.",
-   "u": "https://www.tagesschau.de/inland/entlastungen-spritpreise-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T00:52:21+00:00"
   }
  ]
 }

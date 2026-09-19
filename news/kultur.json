@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-09-19T13:10:51+00:00",
+ "updated": "2026-09-19T18:02:10+00:00",
  "items": [
+  {
+   "t": "Kürzungen bei Kolumbiens Friedensjustiz: Rotstift trifft auf Aufarbeitung",
+   "s": "Die JEP klärt Verbrechen aus Kolumbiens bewaffnetem Konflikt auf. Nun drohen Budgetkürzungen und neue Kontrollen ihrer Urteile.",
+   "u": "https://taz.de/Kuerzungen-bei-Kolumbiens-Friedensjustiz/!6214670/",
+   "q": "taz",
+   "d": "2026-09-19T16:16:00+00:00"
+  },
+  {
+   "t": "Teile von F-35 vermisst: Geheime Technik von US-Tarnkappenjet F-35 soll nach Hongkong gegangen sein",
+   "s": "Der US-Kongress untersucht laut Recherchen von Politico, ob Teile des hochmodernen F-35-Kampfjets China in die Hände gefallen sind.",
+   "u": "https://taz.de/Bericht-Geheime-Technik-von-US-Tarnkappenjet-F-35-nach-Hongkong-umgeleitet/!6214665/",
+   "q": "taz",
+   "d": "2026-09-19T12:38:00+00:00"
+  },
   {
    "t": "Grönland-Abkommen mit den USA: Lob und Erleichterung, soweit das Auge reicht",
    "s": "Trump feiert einen Grönland-Deal, auch Dänemark und Grönland sind zufrieden. Das Abkommen soll die Sicherheit stärken. Viele Details bleiben jedoch offen.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/25-Jahre-9/11/!6212093/",
    "q": "taz",
    "d": "2026-09-10T11:40:00+00:00"
-  },
-  {
-   "t": "11. September und Verschwörungsmythen: Zweifeln, Raunen, Umsturz",
-   "s": "Als die Türme fielen, öffnete das Internet dem Misstrauen ganz neue Möglichkeiten. Bis zum Verschwörungs­glauben, der die autoritäre Revolte befördert.",
-   "u": "https://taz.de/11-September-und-Verschwoerungsmythen/!6208899/",
-   "q": "taz",
-   "d": "2026-09-10T10:01:00+00:00"
-  },
-  {
-   "t": "25 Jahre nach 9/11: Rudy Giuliani nimmt es persönlich",
-   "s": "Der frühere New Yorker Bürgermeister stört sich an der Anwesenheit des aktuellen Stadtoberhaupts Zohran Mamdani beim Gedenkakt an diesem Freitag.",
-   "u": "https://taz.de/25-Jahre-nach-9/11/!6212145/",
-   "q": "taz",
-   "d": "2026-09-10T09:20:00+00:00"
   }
  ]
 }
