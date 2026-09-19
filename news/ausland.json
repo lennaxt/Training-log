@@ -1,20 +1,34 @@
 {
  "name": "Ausland",
- "updated": "2026-09-18T23:19:00+00:00",
+ "updated": "2026-09-19T08:04:21+00:00",
  "items": [
   {
-   "t": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
-   "s": "Vier Tage war Verteidigungsminister Pistorius in den USA. In Washington, New York und Fort Worth in Texas wird schnell klar, dass sich etwas verändert hat: Das Interesse der USA am Bündnispartner scheint neu erwacht. Von C. Nagel.",
-   "u": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
+   "t": "Trump will CNN und andere Medien aus dem Weißen Haus verbannen",
+   "s": "US-Präsident Trump legt im Streit mit kritischen Medien nach: Nun sollen CNN, MS NOW und Politico aus dem Weißen Haus weichen. Was das konkret bedeutet, ist noch unklar - und es zeichnet sich Widerstand ab. Von R. Borchard.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-102.html",
    "q": "Tagesschau",
-   "d": "2026-09-18T22:40:52+00:00"
+   "d": "2026-09-19T06:08:18+00:00"
   },
   {
    "t": "US-Präsident Trump verbietet CNN Zugang zum Weißen Haus",
    "s": "Der Sender CNN und weitere Medien sollen keinen Zugang mehr zum Weißen Haus erhalten. US-Präsident Trump wirft ihnen vor, \"Erfindungen und Lügen\" zu verbreiten. Es ist nicht das erste Mal, dass Trump gegen Journalisten vorgeht.",
    "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-18T21:07:18+00:00"
+   "d": "2026-09-19T01:44:22+00:00"
+  },
+  {
+   "t": "Dänemark und USA verkünden Einigung im Grönland-Streit",
+   "s": "Mit seinen Forderungen und Drohungen in Bezug auf Grönland sorgte US-Präsident Trump für Spannungen in der NATO. Nun wollen die USA, Dänemark und Grönland ein Abkommen schließen. Laut Grönlands Regierungschef soll es allen nützen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T23:54:48+00:00"
+  },
+  {
+   "t": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
+   "s": "Vier Tage war Verteidigungsminister Pistorius in den USA. In Washington, New York und Fort Worth in Texas wird schnell klar, dass sich etwas verändert hat: Das Interesse der USA am Bündnispartner scheint neu erwacht. Von C. Nagel.",
+   "u": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
+   "q": "Tagesschau",
+   "d": "2026-09-18T22:40:52+00:00"
   },
   {
    "t": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
@@ -136,13 +150,6 @@
    "d": "2026-09-16T17:40:33+00:00"
   },
   {
-   "t": "Streit um Kultureinrichtung: Trump verweigert Kennedy Center Renovierung",
-   "s": "Das Kennedy Center ist nach einem Sturm in schlechtem Zustand. Es müsste dringend renoviert werden. Doch US-Präsident Trump will nur zustimmen, wenn er anschließend wieder seinen Namen am Gebäude anbringen darf. Von C. Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kennedy-center-120.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T17:03:09+00:00"
-  },
-  {
    "t": "Südukraine: Mehrere Tote nach russischem Angriff auf Linienbus",
    "s": "Tote, Verletzte und schwere Schäden in der Südukraine: Russland hat laut ukrainischen Angaben einen Bus und zwei Züge mit Drohnen angegriffen. Mindestens fünf Menschen seien getötet worden. Präsident Selenskyj spricht von einem \"Akt der Barbarei\".",
    "u": "https://www.tagesschau.de/ausland/ukraine-russische-angriffe-verkehrsmittel-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/piddington-abstimmung-unabhaengigkeit-100.html",
    "q": "Tagesschau",
    "d": "2026-09-16T15:18:10+00:00"
-  },
-  {
-   "t": "Saudi-Arabien wehrt offenbar Huthi-Drohne bei Mekka ab",
-   "s": "Für Muslime ist Mekka heilig. Nun soll die Huthi-Miliz die Stadt mit einer Drohne attackiert haben - das meldete das saudi-arabische Militär, das den Angriff nach eigenen Angaben abwehren konnte. Riad spricht von einer \"Roten Linie\".",
-   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-mekka-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T13:51:03+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-18T23:19:04+00:00",
+ "updated": "2026-09-19T08:04:25+00:00",
  "items": [
+  {
+   "t": "Einigung USA-Dänemark: Trump bekommt einen Grönland-Deal",
+   "s": "Ein neues Abkommen sichert den USA eine dauerhafte Militärpräsenz auf Grönland. Doch die Darstellungen dazu klingen unterschiedlich.",
+   "u": "https://taz.de/Einigung-USA-Daenemark/!6214648/",
+   "q": "taz",
+   "d": "2026-09-19T06:33:00+00:00"
+  },
   {
    "t": "Geflüchtete in Ceuta: Vom Strand an den Hafen",
    "s": "Seit Wochen harren Hunderte Migranten in provisorischen Unterkünften am Strand von Ceuta aus. Madrid greift durch und verlegt die Menschen in neue Lager.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Korruption-in-der-Ukraine/!6213032/",
    "q": "taz",
    "d": "2026-09-14T18:03:00+00:00"
-  },
-  {
-   "t": "Parlamentswahl in Schweden: Junge Schweden stoppen Populisten",
-   "s": "Nach der Wahl in Schweden ist vieles unklar, aber eins immerhin nicht: Die Schwedendemokraten verlieren an Zustimmung, zum ersten Mal überhaupt.",
-   "u": "https://taz.de/Parlamentswahl-in-Schweden/!6208192/",
-   "q": "taz",
-   "d": "2026-09-14T18:01:00+00:00"
   }
  ]
 }

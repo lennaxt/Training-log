@@ -1,13 +1,97 @@
 {
  "name": "Inland",
- "updated": "2026-09-18T23:19:00+00:00",
+ "updated": "2026-09-19T08:04:20+00:00",
  "items": [
+  {
+   "t": "Wahlkampf in Mecklenburg-Vorpommern: SPD feiert Schwesig ab, CDU blickt in den Abgrund",
+   "s": "Kurz vor der Wahl in Mecklenburg-Vorpommern karren noch mal fast alle Parteien Spitzenpolitiker aus Bund und Ländern heran. Nur bei der CDU ist Totentanz.",
+   "u": "https://taz.de/Wahlkampf-in-Mecklenburg-Vorpommern/!6214337/",
+   "q": "taz",
+   "d": "2026-09-19T07:53:00+00:00"
+  },
+  {
+   "t": "Madagaskar is calling: Am anderen Ende der Leitung",
+   "s": "Wer in Frankreich ein Callcenter anruft, spricht oft mit jungen Uni-Absol­vent:in­nen auf Madagaskar – für sie die Chance, einigermaßen zu verdienen.",
+   "u": "https://taz.de/Madagaskar-is-calling/!6197704/",
+   "q": "taz",
+   "d": "2026-09-19T07:16:00+00:00"
+  },
+  {
+   "t": "Mililtärputsch in Thailand 2006: Panzer rollen durch Bangkok",
+   "s": "Über Monate hatte sich die Situation zugespitzt. Den Putsch von 2006 legitimierte König Bhumibol Adulyadej dann. Der war nicht der erste und nicht der letzte in der Geschichte Thailands. Immer wieder griff das Militär nach der Macht.Ernst, Sonja",
+   "u": "https://www.deutschlandfunk.de/19-09-2006-in-thailand-putscht-sich-das-militaer-an-die-macht-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-19T07:05:00+00:00"
+  },
+  {
+   "t": "CDU und Fetischkultur: Ganz in Schwarz",
+   "s": "Berlin ist links, heißt es. Dabei könnten die Konservativen die Abgeordnetenhauswahl wieder gewinnen. Wer sie wählt? Ein Besuch beim Fetisch-Festival.",
+   "u": "https://taz.de/CDU-und-Fetischkultur/!6208288/",
+   "q": "taz",
+   "d": "2026-09-19T07:03:00+00:00"
+  },
+  {
+   "t": "Bund und Länder einigen sich: Habemus neuen Tankrabatt",
+   "s": "Die Bundesregierung vereinbart mit den Ländern ein neues Paket für Entlastungen bei den hohen Spritreisen. Opposition kritisiert das als Gießkannenlösung.",
+   "u": "https://taz.de/Bund-und-Laender-einigen-sich-auf-neuen-Tankrabatt/!6214649/",
+   "q": "taz",
+   "d": "2026-09-19T06:51:00+00:00"
+  },
+  {
+   "t": "Einigung USA-Dänemark: Trump bekommt einen Grönland-Deal",
+   "s": "Ein neues Abkommen sichert den USA eine dauerhafte Militärpräsenz auf Grönland. Doch die Darstellungen dazu klingen unterschiedlich.",
+   "u": "https://taz.de/Einigung-USA-Daenemark/!6214648/",
+   "q": "taz",
+   "d": "2026-09-19T06:33:00+00:00"
+  },
+  {
+   "t": "Europapolitiker: Kanada-Partnerschaft nicht von Trump abhängig machen",
+   "s": "Ursula von der Leyen schlägt Kanada eine assoziierte EU-Mitgliedschaft vor. David McAllister (CDU) begrüßt das Angebot einer Partnerschaft und betont, man werde sich trotz Zollandrohungen aus Washington nicht beirren lassen.Götzke, Manfred",
+   "u": "https://www.deutschlandfunk.de/assoziierte-eu-mitgliedschaft-fuer-kanada-interview-david-mcallister-cdu-mdep-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-19T06:15:00+00:00"
+  },
+  {
+   "t": "Hagens OB fordert härteres Vorgehen bei Sozialleistungsbetrug",
+   "s": "Einige EU-Bürger nutzten Gesetzeslücken bei Sozialleistungen aus, warnt Hagens Oberbürgermeister Dennis Rehbein (CDU). Um die Spaltung der Gesellschaft zu verhindern, fordert er schärfere Regeln auf EU-Ebene und einen besseren Datenaustausch.Götzke, Manfred",
+   "u": "https://www.deutschlandfunk.de/massnahmen-gegen-sozialbetrug-interview-mit-dennis-rehbein-ob-von-hagen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-19T05:15:00+00:00"
+  },
+  {
+   "t": "CDU vor den Wahlen: Für den Kanzler geht es ums Amt",
+   "s": "Die Zukunft von Friedrich Merz hängt an den Wahlen in Berlin und Mecklenburg-Vorpommern. Verpasst die CDU ihre Ziele deutlich, dürfte es ungemütlich werden für den Kanzler. Seine Herausforderer zögern noch. Von Tina Handel.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/cdu-merz-wahlen-berlin-mecklenburg-vorpommern-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-19T03:14:59+00:00"
+  },
+  {
+   "t": "Radikalisierung von Jugendlichen: Die Macht der Islamisten im Netz",
+   "s": "Islamistische Propaganda erreicht Jugendliche längst mitten in ihrem digitalen Alltag. Recherchen von BR und SWR zeigen, wie Radikalisierung über Social Media und Gaming funktioniert - und wie schwer es für Familien ist, darauf zu reagieren.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/islamismus-radikalisierung-social-media-gaming-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-19T03:10:46+00:00"
+  },
+  {
+   "t": "Oktoberfest beginnt - München für zwei Wochen in Feierlaune",
+   "s": "In München beginnt das Oktoberfest. Zum ersten Mal bekommt Bayerns Ministerpräsident Söder das erste Wiesn-Bier von einem Grünen gereicht - dem neuen Oberbürgermeister Krause.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/eroeffnung-oktoberfest-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-19T03:04:33+00:00"
+  },
   {
    "t": "Fragen und Antworten: Was plant Koalition jetzt gegen die Spritpreise?",
    "s": "Die Bundesregierung hat auf die hohen Spritpreise reagiert. Welche Maßnahmen sind ab wann geplant? Wer hat sich in der Koalition durchgesetzt? Und: Welche Kritik gibt es? Die wichtigsten Fragen und Antworten.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-18T22:00:25+00:00"
+   "d": "2026-09-19T02:05:33+00:00"
+  },
+  {
+   "t": "Entlastungen: Spritpreisdeckel dürfte für Diskussionen sorgen",
+   "s": "Die Bundesregierung will die Spritpreise in zwei Schritten senken: erst mit einem Tankrabatt, ab Januar mit einem Preisdeckel. Doch der dürfte noch für Streit in der Koalition sorgen. Von Maximilian Ulrich.",
+   "u": "https://www.tagesschau.de/inland/entlastungen-spritpreise-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-19T00:52:21+00:00"
   },
   {
    "t": "Pistorius nimmt in Texas ersten F-35A-Jet für Bundeswehr entgegen",
@@ -85,90 +169,6 @@
    "u": "https://www.deutschlandfunk.de/russland-wahl-klopp-nationalstolz-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-18T15:00:00+00:00"
-  },
-  {
-   "t": "Kürzung bei Demokratieprojekten: Bund streicht Förderung für Antirassismus-Zentrum",
-   "s": "Die Bundesregierung kürzt weiter bei der Demokratiearbeit. Jetzt trifft es das Informations- und Dokumentationszentrum Antirassismus IDA.",
-   "u": "https://taz.de/Kuerzung-bei-Demokratieprojekten/!6213913/",
-   "q": "taz",
-   "d": "2026-09-18T14:53:00+00:00"
-  },
-  {
-   "t": "EU Kids Act - Wie soziale Medien für Kinder sicherer werden sollen",
-   "s": "Mit ihrem Kids Act fordert die EU bei sozialen Medien ein Verbot von Suchtfaktoren, KI-Tricks und Fremdkontakten. Ein Stufenplan soll den Zugang ab 13 Jahren regeln. Wie realistisch ist das und wie könnten sichere Social Media für Kinder aussehen?",
-   "u": "https://www.deutschlandfunk.de/eu-kids-act-social-media-kinder-jugendschutz-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-18T14:47:00+00:00"
-  },
-  {
-   "t": "Die AfD und ihr Spitzenpersonal: Zwischen Volksnähe und Krawall",
-   "s": "Die Landtagswahlen in Sachsen-Anhalt und jetzt in Mecklenburg-Vorpommern sind bei der AfD geprägt von einem anderen Typ Politiker als zuvor. Welche Strategie steckt dahinter? Benjamin Großkopff analysiert die Inszenierung der Wahlkämpfe.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-mecklenburg-vorpommern-strategie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T14:27:34+00:00"
-  },
-  {
-   "t": "Regierungskrise in Rumänien: Nächster Versuch",
-   "s": "Siegfried Mureșan, EU-Abgeordneter und Wunschkandidat von Staatschef von Nicușor Dan, soll Premier werden. Doch dafür fehlt eine Mehrheit im Parlament.",
-   "u": "https://taz.de/Regierungskrise-in-Rumaenien/!6214385/",
-   "q": "taz",
-   "d": "2026-09-18T14:06:00+00:00"
-  },
-  {
-   "t": "Geflüchtete in Mecklenburg-Vorpommmern: „Den Menschen zeigen, dass sie nicht allein sind“",
-   "s": "Zainab Delijam besucht Unterkünfte für Geflüchtete in Mecklenburg-Vorpommern und kämpft für Frauenrechte in Afghanistan.",
-   "u": "https://taz.de/Gefluechtete-in-Mecklenburg-Vorpommmern/!6213442/",
-   "q": "taz",
-   "d": "2026-09-18T13:52:00+00:00"
-  },
-  {
-   "t": "Unruhen in Syrien: Weniger Öl, mehr Feuer",
-   "s": "Dass Syriens Übergangsregierung die Spritsubventionen streicht, löst die größten Proteste seit dem Sturz des Assad-Regimes aus.",
-   "u": "https://taz.de/Unruhen-in-Syrien/!6208428/",
-   "q": "taz",
-   "d": "2026-09-18T13:44:00+00:00"
-  },
-  {
-   "t": "Terror im Nordwesten Pakistans: Mindestens 16 Tote bei Anschlag mit Autobombe",
-   "s": "Ein Anschlag mit einer Autobombe trifft eine Polizeizentrale. Die Detonation beschädigt auch eine Moschee während des Freitagsgebets.",
-   "u": "https://taz.de/Mindestens-16-Tote-bei-Anschlag-mit-Autobombe-in-Pakistan/!6214388/",
-   "q": "taz",
-   "d": "2026-09-18T12:12:00+00:00"
-  },
-  {
-   "t": "Landtagswahl Mecklenburg-Vorpommern - Schwesig gegen die AfD",
-   "s": "Seit Wochen liefern sich AfD und Sozialdemokraten ein enges Rennen um Platz eins. Andere Parteien geraten dabei ins Hintertreffen. Vor allem für die CDU könnte die Landtagswahl zum Fiasko werden.Von Heinrich Pfeiffer",
-   "u": "https://www.deutschlandfunk.de/mecklenburg-vorpommern-landtagswahl-2026-schwesig-afd-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-18T11:57:00+00:00"
-  },
-  {
-   "t": "UN-Untersuchung zum Irankrieg: UN-Mission wirft den USA Kriegsverbrechen vor",
-   "s": "Die USA haben eine Schule und eine Sportstätte bombardiert. Teheran hat Proteste systematisch niedergeschlagen. Das Weiße Haus weist die Vorwürfe zurück.",
-   "u": "https://taz.de/UN-Untersuchung-zum-Irankrieg/!6214237/",
-   "q": "taz",
-   "d": "2026-09-18T11:28:00+00:00"
-  },
-  {
-   "t": "UN-Generalversammlung: Iran-Delegation darf nach New York, Luxus ist nicht erlaubt",
-   "s": "Mitten im Krieg erlauben die USA der iranischen Delegation die Reise nach New York zur UN‑Generalversammlung. Fürs Shopping gibt es strenge Auflagen.",
-   "u": "https://taz.de/UN-Generalversammlung/!6214238/",
-   "q": "taz",
-   "d": "2026-09-18T11:25:00+00:00"
-  },
-  {
-   "t": "Mecklenburg-Vorpommern: Wer könnte nach der Wahl regieren?",
-   "s": "Die Zuspitzung im Wahlkampf in Mecklenburg-Vorpommern zwischen SPD und AfD droht die kleineren Parteien zu zerreiben. Doch von diesen hängt ab, wie einfach oder kompliziert die Regierungsbildung wird. Von Michael Seidel.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/wahl-mecklenburg-vorpommern-wahlkampf-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T11:23:36+00:00"
-  },
-  {
-   "t": "Brandanschlag auf Synagoge: Wuppertaler Polizei geht von Alleintäter aus",
-   "s": "Nach dem Attentat auf die jüdische Gemeinde wird in Wuppertal mit Mahnwachen gegen Antisemitismus demonstriert. Solidarität von Kirchen und Ditib.",
-   "u": "https://taz.de/Brandanschlag-auf-Synagoge/!6214242/",
-   "q": "taz",
-   "d": "2026-09-18T11:19:00+00:00"
   }
  ]
 }

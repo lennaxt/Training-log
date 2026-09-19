@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-18T23:19:01+00:00",
+ "updated": "2026-09-19T08:04:22+00:00",
  "items": [
+  {
+   "t": "Weißstorch oder Beethoven: Europäer reden bei neuen Banknoten mit",
+   "s": "Das Design der Euroscheine ist in die Jahre gekommen. Bei der anstehenden Überarbeitung lässt die EZB die Bürgerinnen und Bürger jetzt mitreden. Noch bis Montag kann abgestimmt werden. Von Ursula Mayer.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-neue-banknoten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-19T03:09:49+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 18.09.2026",
    "s": "Wirtschaft vor acht vom 18.09.2026",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/bildungsmonitor-neue-soziale-markwirtschaft-100.html",
    "q": "Tagesschau",
    "d": "2026-09-14T15:21:34+00:00"
-  },
-  {
-   "t": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
-   "s": "Kupfer kostet so viel wie nie. US-Zollsorgen, KI, Stromnetze und E-Autos treiben den Kupferpreis. Wo der Preisschub für Verbraucher spürbar werden könnte - vom Bauen bis zur Stromrechnung. Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/kupferpreis-rekordhoch-strom-verbraucher-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T13:03:38+00:00"
   }
  ]
 }
