@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-20T13:35:24+00:00",
+ "updated": "2026-09-20T18:12:20+00:00",
  "items": [
+  {
+   "t": "Melonis Plan für Italiens Schulen: Ausländerquote und Schleierverbot",
+   "s": "Italiens Ministerpräsidentin will das Tragen von Gesichtsschleiern in Schulen verbieten. Außerdem will sie Eltern zum Italienischlernen verpflichten.",
+   "u": "https://taz.de/Melonis-Plan-fuer-Italiens-Schulen/!6214863/",
+   "q": "taz",
+   "d": "2026-09-20T16:09:00+00:00"
+  },
+  {
+   "t": "Krieg in der Ukraine: Verbotene Äpfel und Drohnen auf Moskau",
+   "s": "Am Wahlsonntag in Russland fliegen ukrainische Drohnen auf Moskau. In der Ukraine steht die besetzte Stadt Oleschky vor einer Hungerkatastrophe.",
+   "u": "https://taz.de/Krieg-in-der-Ukraine/!6214751/",
+   "q": "taz",
+   "d": "2026-09-20T14:11:00+00:00"
+  },
   {
    "t": "Rechtsextreme Demo in Den Haag: Sie denken, „das Volk“ zu sein",
    "s": "Die Polizei löst eine Demo in den Niederlanden auf. Protestierende zeigten Hitlergrüße, riefen zu Gewalt auf und hetzten gegen Migranten.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Schule-in-der-Ukraine/!6213130/",
    "q": "taz",
    "d": "2026-09-15T17:47:00+00:00"
-  },
-  {
-   "t": "Streit über Oligarchen: Frankreich und Slowakei blockieren Russland-Sanktionen",
-   "s": "Die Europäische Union ringt um eine langfristige Lösung, wie der Kreml bestraft werden könnte. Dabei steht ein usbekischer Oligarch im Fokus.",
-   "u": "https://taz.de/Streit-ueber-Oligarchen/!6213457/",
-   "q": "taz",
-   "d": "2026-09-15T15:22:00+00:00"
-  },
-  {
-   "t": "Korruption in der Ukraine: Ukrainisches Parlament entlässt Generalstaatsanwalt",
-   "s": "Wegen Korruptionsvorwürfen reichte der Generalstaatsanwalt den Rücktritt ein – und ging auf Dienstreise. Nun entbindet die Rada ihn von seinen Aufgaben.",
-   "u": "https://taz.de/Ukrainisches-Parlament-entlaesst-Generalstaatsanwalt/!6213401/",
-   "q": "taz",
-   "d": "2026-09-15T13:06:00+00:00"
   }
  ]
 }

@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-09-20T13:35:25+00:00",
+ "updated": "2026-09-20T18:12:21+00:00",
  "items": [
+  {
+   "t": "Trump und seine Umbenneritis: Sein Name, seine Stadt, seine Welt",
+   "s": "Donald Trump will sich in Washington verewigen – im Fall des Kennedy-Centers sogar buchstäblich. Man muss sich sorgen um die Kulturinstitution.",
+   "u": "https://taz.de/Trump-und-seine-Umbenneritis/!6208372/",
+   "q": "taz",
+   "d": "2026-09-20T16:10:00+00:00"
+  },
+  {
+   "t": "Argentinien unter Milei: Geschwächte Opposition beim „Marsch des Zorns“",
+   "s": "Die peronistische Opposition samt Gewerkschaftsverband CGT bleibt dem Protest linker Parteien und Organisationen gegen die Regierungspolitik fern.",
+   "u": "https://taz.de/Argentinien-unter-Milei/!6214824/",
+   "q": "taz",
+   "d": "2026-09-20T14:30:00+00:00"
+  },
   {
    "t": "Erste Homo-Ehe Boliviens: „Wir wollen nicht die Letzten sein“",
    "s": "Fabiana Bánzer und Scarlett Rocha haben geheiratet. Ende gut, alles gut? Mitnichten, es gibt noch noch viel zu tun für Queers in Lateinamerika.",
@@ -24,7 +38,7 @@
    "d": "2026-09-19T12:38:00+00:00"
   },
   {
-   "t": "Grönland-Abkommen mit den USA: Lob und Erleichterung, soweit das Auge reicht",
+   "t": "Grönland-Abkommen mit den USA: Lob und Erleichterung, so weit das Auge reicht",
    "s": "Trump feiert einen Grönland-Deal, auch Dänemark und Grönland sind zufrieden. Das Abkommen soll die Sicherheit stärken. Viele Details bleiben jedoch offen.",
    "u": "https://taz.de/Groenland-Abkommen-mit-den-USA/!6214661/",
    "q": "taz",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Republikaner-Event-in-Texas/!6212485/",
    "q": "taz",
    "d": "2026-09-11T07:08:00+00:00"
-  },
-  {
-   "t": "Aufstieg der Islamophobie nach 9/11: Im Schatten des Generalverdachts",
-   "s": "Seit dem 11. September 2001 haben Vorurteile gegen Muslime massiv zugenommen. 25 Jahre später kommen Muslime selbst im politischen Mainstream an.",
-   "u": "https://taz.de/Aufstieg-der-Islamophobie-nach-9/11/!6212259/",
-   "q": "taz",
-   "d": "2026-09-10T17:33:00+00:00"
-  },
-  {
-   "t": "Parteitag der Republikaner in Dallas: Texanische Trump-Verehrung",
-   "s": "In den USA halten die Republikaner erstmals einen Parteitag vor Zwischenwahlen ab. Trump verspricht Geldgeschenke – wohl wegen schlechter Umfragewerte.",
-   "u": "https://taz.de/Parteitag-der-Republikaner-in-Dallas/!6212149/",
-   "q": "taz",
-   "d": "2026-09-10T11:54:00+00:00"
   }
  ]
 }

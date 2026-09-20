@@ -1,7 +1,161 @@
 {
  "name": "Inland",
- "updated": "2026-09-20T13:35:20+00:00",
+ "updated": "2026-09-20T18:12:15+00:00",
  "items": [
+  {
+   "t": "SPD-Ergebnis in Mecklenburg-Vorpommern: Knapp vorbei ist auch daneben",
+   "s": "Die SPD in Mecklenburg-Vorpommern hatte auf den Sieg gehofft. Es reicht nur für Platz 2. Trotzdem fährt die Partei ein Traumergebnis ein.",
+   "u": "https://taz.de/SPD-Ergebnis-in-Mecklenburg-Vorpommern/!6213650/",
+   "q": "taz",
+   "d": "2026-09-20T17:55:00+00:00"
+  },
+  {
+   "t": "Grüne in Mecklenburg-Vorpommern: Händchen halten für den Wiedereinzug",
+   "s": "Die Grünen in Schwerin müssen zittern: Erste Hochrechnungen sehen die Partei in Mecklenburg-Vorpommern knapp über der 5-Prozent-Hürde.",
+   "u": "https://taz.de/Gruene-in-Mecklenburg-Vorpommern/!6213655/",
+   "q": "taz",
+   "d": "2026-09-20T17:47:00+00:00"
+  },
+  {
+   "t": "Linke gewinnt Abgeordnetenhauswahl: Berlin wird rot",
+   "s": "Elif Eralp führt die Linke zu einem historischen Wahlsieg in Berlin. Der Vorsprung vor der CDU ist groß. Auch die AfD hat sie in Schach gehalten.",
+   "u": "https://taz.de/Linke-gewinnt-Abgeordnetenhauswahl/!6213639/",
+   "q": "taz",
+   "d": "2026-09-20T17:43:00+00:00"
+  },
+  {
+   "t": "Wer zieht ein ins Berliner Rote Rathaus?: Demut statt Krach",
+   "s": "Mit der CDU oder mit der Linkspartei? Haben SPD und Grüne in Berlin noch eine Wahl? Am Ende könnte die Mehrheit der Sitze den Ausschlag geben.",
+   "u": "https://taz.de/Wer-zieht-ein-ins-Berliner-Rote-Rathaus/!6213641/",
+   "q": "taz",
+   "d": "2026-09-20T17:41:00+00:00"
+  },
+  {
+   "t": "Berliner Linkspartei: (Fast) alles richtig gemacht",
+   "s": "Die Linkspartei etabliert sich als klar stärkste Kraft im linken Lager. Daran dürfte sich so schnell nichts ändern – selbst wenn sie künftig regiert.",
+   "u": "https://taz.de/Berliner-Linkspartei/!6213518/",
+   "q": "taz",
+   "d": "2026-09-20T17:39:00+00:00"
+  },
+  {
+   "t": "Nach Landtagswahlen: Merz will an Reformkurs festhalten",
+   "s": "Bundeskanzler Merz hat sich zum Wahlausgang in Berlin und Mecklenburg-Vorpommern geäußert. Er bekräftigte, die aus seiner Sicht notwendigen Reformen durchsetzen zu wollen. Vizekanzler Klingbeil von der SPD äußerte sich jedoch kritischer.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-wahlen-mecklenburg-vorpommern-berlin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T17:38:59+00:00"
+  },
+  {
+   "t": "AfD bei Berlin-Wahl: Hinter Linken, CDU und den eigenen Ansprüchen",
+   "s": "Die AfD steht bei rund 14 Prozent und nur auf Platz 4 bei der Wahl zum Berliner Abgeordnetenhaus. Rückenwind nach der Sachsen-Anhalt-Wahl blieb offenbar aus.",
+   "u": "https://taz.de/AfD-bei-Berlin-Wahl/!6213642/",
+   "q": "taz",
+   "d": "2026-09-20T17:27:00+00:00"
+  },
+  {
+   "t": "Abgeordnetenhaus Berlin: Wichtigste Umfragen im Überblick",
+   "s": "In Berlin ist ein weiteres knappes Rennen um das Rote Rathaus zu Ende gegangen. Was sind die Hauptgründe für das Ergebnis? Eine Erklärung in Umfragegrafiken von infratest dimap.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/umfragen-wichtigstes-abgeordnetenhaus-berlin-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T16:16:19+00:00"
+  },
+  {
+   "t": "Mecklenburg-Vorpommern: Wichtigste Umfragen im Überblick",
+   "s": "Die Landtagswahl hat die politische Landschaft im Nordosten massiv verändert. Was sind die Hauptgründe für dieses Ergebnis? Eine Erklärung in Umfrage-Grafiken von infratest dimap.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/umfragen-wichtigstes-ltw-mecklenburg-vorpommern-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T16:12:56+00:00"
+  },
+  {
+   "t": "Wählerwanderung in Berlin - wer holte Stimmen von wem?",
+   "s": "Wer bekam besonders viele Stimmen von früheren Nichtwählern? Woher kamen die Zugewinne etwa der AfD und Linkspartei? Und an wen gab andere Parteien Stimmen ab? Die Wählerwanderung auf Basis der Zahlen von infratest dimap.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-abgeordnetenhaus-berlin-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T16:10:02+00:00"
+  },
+  {
+   "t": "Trump und seine Umbenneritis: Sein Name, seine Stadt, seine Welt",
+   "s": "Donald Trump will sich in Washington verewigen – im Fall des Kennedy-Centers sogar buchstäblich. Man muss sich sorgen um die Kulturinstitution.",
+   "u": "https://taz.de/Trump-und-seine-Umbenneritis/!6208372/",
+   "q": "taz",
+   "d": "2026-09-20T16:10:00+00:00"
+  },
+  {
+   "t": "Melonis Plan für Italiens Schulen: Ausländerquote und Schleierverbot",
+   "s": "Italiens Ministerpräsidentin will das Tragen von Gesichtsschleiern in Schulen verbieten. Außerdem will sie Eltern zum Italienischlernen verpflichten.",
+   "u": "https://taz.de/Melonis-Plan-fuer-Italiens-Schulen/!6214863/",
+   "q": "taz",
+   "d": "2026-09-20T16:09:00+00:00"
+  },
+  {
+   "t": "Wählerwanderung: Wer in Mecklenburg-Vorpommern wo Stimmen holte",
+   "s": "Woher kommen die Zugewinne der AfD? Von welchen Parteien wandten sich frühere Wählerinnen und Wähler ab? Und wem gaben sie diesmal ihre Stimme? Die Wählerwanderung auf Basis der Zahlen von infratest dimap.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-ltw-mecklenburg-vorpommern-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T16:08:05+00:00"
+  },
+  {
+   "t": "Vorm Wahllokal in Mecklenburg-Vorpommern: „Die AfD ist mir zu lasch“",
+   "s": "Die einen finden an der AfD einfach „alles toll“, für die anderen sind die Rechtsextremen ein No-Go. Momentaufnahme eines gespaltenen Wahlvolks.",
+   "u": "https://taz.de/Vorm-Wahllokal-in-Mecklenburg-Vorpommern/!6213501/",
+   "q": "taz",
+   "d": "2026-09-20T16:06:00+00:00"
+  },
+  {
+   "t": "So wählten die Bevölkerungsgruppen in Berlin",
+   "s": "Wie stark unterscheidet sich das Wahlverhalten zwischen Jüngeren und Älteren, zwischen Männern und Frauen in Berlin? So schnitten die Parteien in den verschiedenen Bevölkerungsgruppen ab.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-abgeordnetenhauswahl-berlin-2026-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T16:05:44+00:00"
+  },
+  {
+   "t": "So wählten die Bevölkerungsgruppen in Mecklenburg-Vorpommern 2026",
+   "s": "Wem gaben Arbeiter in Mecklenburg-Vorpommern mehrheitlich ihre Stimme? Wer hatte den größten Rückhalt bei Frauen und wer bei Männern? Das Wahlverhalten der Bevölkerungsgruppen im interaktiven Überblick.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-landtagswahl-mecklenburg-vorpommern-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T16:05:07+00:00"
+  },
+  {
+   "t": "Berlin: Koalitionsrechner zur Abgeordnetenhauswahl 2026",
+   "s": "Die Wahlberechtigten in Berlin haben das neue Abgeordnetenhaus gewählt. Welche Bündnisse hätten eine Regierungsmehrheit? Testen Sie mit dem interaktiven Koalitionsrechner die rechnerischen Möglichkeiten.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/koalitionsrechner-abgeordentenhaus-berlin-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T16:03:40+00:00"
+  },
+  {
+   "t": "Mecklenburg-Vorpommern: Koalitionsrechner zur Landtagswahl 2026",
+   "s": "Die Menschen in Mecklenburg-Vorpommern haben einen neuen Landtag gewählt. Welches Bündnis könnte künftig regieren? Testen Sie mit dem interaktiven Koalitionsrechner die rechnerischen Möglichkeiten.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/koalitionsrechner-mecklenburg-vorpommern-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T16:02:35+00:00"
+  },
+  {
+   "t": "Argentinien unter Milei: Geschwächte Opposition beim „Marsch des Zorns“",
+   "s": "Die peronistische Opposition samt Gewerkschaftsverband CGT bleibt dem Protest linker Parteien und Organisationen gegen die Regierungspolitik fern.",
+   "u": "https://taz.de/Argentinien-unter-Milei/!6214824/",
+   "q": "taz",
+   "d": "2026-09-20T14:30:00+00:00"
+  },
+  {
+   "t": "Krieg in der Ukraine: Verbotene Äpfel und Drohnen auf Moskau",
+   "s": "Am Wahlsonntag in Russland fliegen ukrainische Drohnen auf Moskau. In der Ukraine steht die besetzte Stadt Oleschky vor einer Hungerkatastrophe.",
+   "u": "https://taz.de/Krieg-in-der-Ukraine/!6214751/",
+   "q": "taz",
+   "d": "2026-09-20T14:11:00+00:00"
+  },
+  {
+   "t": "Ungewisser Wahlausgang: Wann wird es wie eng für den Kanzler?",
+   "s": "In Berlin steht für die CDU das Rote Rathaus auf dem Spiel, in Mecklenburg-Vorpommern droht den Christdemokraten ein einstelliges Ergebnis. Welche Folgen hätte das für Kanzler Merz?",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-szenarien-union-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T13:46:29+00:00"
+  },
+  {
+   "t": "Staatsanwalt prüft Todesfall in Klinik: Junge Frau auf dem Fixierbett gestorben",
+   "s": "Eine 26-Jährige stirbt nach der Fixierung in einer Kölner Psychiatrie. Die Familie sucht Antworten, die Staatsanwaltschaft prüft, ob die Klinik den Tod hätte verhindern können.",
+   "u": "https://taz.de/Nach-Todesfall-in-LVR-Klinik-Koeln/!6213891/",
+   "q": "taz",
+   "d": "2026-09-20T13:37:00+00:00"
+  },
   {
    "t": "Landtagswahl in Mecklenburg-Vorpommern: Vom Ich zum Wir",
    "s": "Kirche, Kneipe und Konsum-Markt sind in vielen Orten verschwunden. Antje Kesten will mit einem Ersatz neue Begegnungen schaffen: ihrer Wunschmaschine.",
@@ -15,160 +169,6 @@
    "u": "https://taz.de/Auswirkungen-von-Deepfakes-in-Lesotho/!6197712/",
    "q": "taz",
    "d": "2026-09-20T12:57:00+00:00"
-  },
-  {
-   "t": "Kritik an Spritpreis-Entlastungen: Klimaschädlich, teuer, ungerecht",
-   "s": "Wieder Rabatte für Verbrenner-Fahrer*innen: Ex­per­t*in­nen aus Ökonomie, Umwelt- und Verbraucherschutz kritisieren Tankrabatt und Spritpreisdeckel.",
-   "u": "https://taz.de/Kritik-an-Spritpreis-Entlastungen/!6214717/",
-   "q": "taz",
-   "d": "2026-09-20T12:54:00+00:00"
-  },
-  {
-   "t": "Wahl in Mecklenburg-Vorpommern: Was, wenn der Kultur die Puste ausgeht?",
-   "s": "Im Nordosten ist über Jahre etwas gewachsen: Orte, an denen Menschen zusammenkommen, die sich sonst kaum noch sehen. Ein AfD-Sieg würde sie bedrohen.",
-   "u": "https://taz.de/Wahl-in-Mecklenburg-Vorpommern/!6208311/",
-   "q": "taz",
-   "d": "2026-09-20T09:10:00+00:00"
-  },
-  {
-   "t": "Rechtsextreme Demo in Den Haag: Sie denken, „das Volk“ zu sein",
-   "s": "Die Polizei löst eine Demo in den Niederlanden auf. Protestierende zeigten Hitlergrüße, riefen zu Gewalt auf und hetzten gegen Migranten.",
-   "u": "https://taz.de/Rechtsextreme-Demo-in-Den-Haag/!6214681/",
-   "q": "taz",
-   "d": "2026-09-20T08:51:00+00:00"
-  },
-  {
-   "t": "Nato-Militärausschuss: Carsten Breuer übernimmt den Vorsitz",
-   "s": "Carsten Breuer ist neuer Vorsitzender des Nato‑Militärausschusses. Er ist Generalinspekteur bei der Bundeswehr und Deutschlands ranghöchster Soldat.",
-   "u": "https://taz.de/Nato-Militaerausschuss/!6214677/",
-   "q": "taz",
-   "d": "2026-09-20T07:11:00+00:00"
-  },
-  {
-   "t": "Bodenschätze Simbabwes: Das Lithium unter ihrem Land",
-   "s": "China beutet Simbabwes Rohstoffe aus. Menschen in den Abbaugebieten verlieren ihre Lebensgrundlage, versprochene Entschädigungen bleiben oft aus.",
-   "u": "https://taz.de/Bodenschaetze-Simbabwes/!6197771/",
-   "q": "taz",
-   "d": "2026-09-20T06:58:00+00:00"
-  },
-  {
-   "t": "Wahl Berlin und Mecklenburg-Vorpommern: Wähler in Rostock stimmen wegen Panne zeitweise im Bus ab",
-   "s": "Berlin und Mecklenburg-Vorpommern wählen. In Rostock wurde ein Bus zeitweise zum Wahllokal. CDU-Spitzenkandidat Evers in Berlin „entspannt“.",
-   "u": "https://taz.de/Wahl-Berlin-und-Mecklenburg-Vorpommern/!6214068/",
-   "q": "taz",
-   "d": "2026-09-20T06:55:00+00:00"
-  },
-  {
-   "t": "Erste Homo-Ehe Boliviens: „Wir wollen nicht die Letzten sein“",
-   "s": "Fabiana Bánzer und Scarlett Rocha haben geheiratet. Ende gut, alles gut? Mitnichten, es gibt noch noch viel zu tun für Queers in Lateinamerika.",
-   "u": "https://taz.de/Erste-Homo-Ehe-Boliviens/!6208346/",
-   "q": "taz",
-   "d": "2026-09-20T06:42:00+00:00"
-  },
-  {
-   "t": "Landtagswahlen 2026: Wahllokale in Berlin und Mecklenburg-Vorpommern öffnen",
-   "s": "In Berlin und Mecklenburg-Vorpommern wird heute über die Politik der kommenden fünf Jahren abgestimmt. Für die Regierung könnten die Wahlen wegweisend sein.",
-   "u": "https://taz.de/Landtagswahlen-2026/!6214676/",
-   "q": "taz",
-   "d": "2026-09-20T06:36:00+00:00"
-  },
-  {
-   "t": "Wirtschaftsweise Veronika Grimm nennt neuen Tankrabatt \"zynisch\"",
-   "s": "Die Bundesregierung will erneut die Energiesteuer auf Kraftstoffe senken und einen Spritpreisdeckel einführen, um Verbraucher zu entlasten. Die Ökonomin Grimm kritisiert das als opportunistisch - und warnt vor weitreichenden Konsequenzen.",
-   "u": "https://www.tagesschau.de/inland/tankrabatt-wirtschaftsweise-grimm-reaktion-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T05:57:07+00:00"
-  },
-  {
-   "t": "FAQ: Was Sie zur Wahl in Berlin wissen müssen",
-   "s": "Vier Parteien liegen in den Umfragen dicht beieinander, CDU und Linke konkurrieren um die Spitze: Die Berlin-Wahl verspricht spannend zu werden. Wie die Wahl abläuft und warum ihr Ausgang vieles ändern könnte.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/faq-abgeordnetenhauswahl-2026-berlin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T03:38:24+00:00"
-  },
-  {
-   "t": "Was zur Wahl in Mecklenburg-Vorpommern wichtig ist",
-   "s": "Es ist ein Zweikampf zwischen der in Umfragen führenden AfD und der regierenden SPD: In Mecklenburg-Vorpommern kämpft Manuela Schwesig um den Wahlsieg. Warum es für ein Zweierbündnis nicht reichen dürfte - und was noch wichtig ist.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/faq-wahl-mecklenburg-vorpommern-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T03:38:16+00:00"
-  },
-  {
-   "t": "Richtig gute Leute: Antifa mit Popcorn",
-   "s": "Die Lehrerin Hanka Gatter leitet einen Kurs gegen Rassismus, ehrenamtlich berät sie Geflüchtete in einem Café in Parchim.",
-   "u": "https://taz.de/Richtig-gute-Leute/!6213927/",
-   "q": "taz",
-   "d": "2026-09-19T18:20:00+00:00"
-  },
-  {
-   "t": "Wirtschaft in Deutschland: Wie schlimm ist es denn nun?",
-   "s": "Was ist dran am Krisengerede der Lobbyverbände? Und bringen Sozialreformen wirklich die Volkswirtschaft in Schwung? Wir geben Antworten.",
-   "u": "https://taz.de/Wirtschaft-in-Deutschland/!6208374/",
-   "q": "taz",
-   "d": "2026-09-19T18:17:00+00:00"
-  },
-  {
-   "t": "Generalinspekteur Breuer wird Vorsitzender des NATO-Militärausschusses",
-   "s": "Es ist einer der einflussreichsten Posten bei der NATO - und künftig hat ihn ein Deutscher inne: Generalinspekteur Breuer ist zum neuen Vorsitzenden des NATO-Militärausschusses gewählt worden. Er wird damit Berater von Generalsekretär Rutte.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/breuer-nato-militaerausschuss-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T17:58:34+00:00"
-  },
-  {
-   "t": "„Marsch für das Leben“ 2026: Christlich-Konservative stoßen auf Gegendemos",
-   "s": "Das Bundesverband Lebensrecht hat zur jährlichen Demo gegen Schwangerschaftsabbruch gerufen. Die Gegendemonstrierenden haben die Strecke begleitet.",
-   "u": "https://taz.de/Marsch-fuer-das-Leben-2026/!6214673/",
-   "q": "taz",
-   "d": "2026-09-19T16:35:00+00:00"
-  },
-  {
-   "t": "Breite Bündnisse gegen die AfD?: „Es braucht einen sozialen Antifaschismus“",
-   "s": "Grüne und SPD haben ihren Neoliberalismus nicht aufgearbeitet. Das steht einer echten Kritik der herrschenden Politik im Weg, sagt Mario Candeias.",
-   "u": "https://taz.de/Breite-Buendnisse-gegen-die-AfD/!6210788/",
-   "q": "taz",
-   "d": "2026-09-19T16:20:00+00:00"
-  },
-  {
-   "t": "Kürzungen bei Kolumbiens Friedensjustiz: Rotstift trifft auf Aufarbeitung",
-   "s": "Die JEP klärt Verbrechen aus Kolumbiens bewaffnetem Konflikt auf. Nun drohen Budgetkürzungen und neue Kontrollen ihrer Urteile.",
-   "u": "https://taz.de/Kuerzungen-bei-Kolumbiens-Friedensjustiz/!6214670/",
-   "q": "taz",
-   "d": "2026-09-19T16:16:00+00:00"
-  },
-  {
-   "t": "LNG-Boom in Mosambik: Das Gas ist da. Der Wohlstand nicht",
-   "s": "Mosambik setzt auf Milliardeninvestitionen in Erdgas. Doch die versprochenen Jobs und Entwicklungschancen für viele Menschen bleiben aus.",
-   "u": "https://taz.de/LNG-Boom-in-Mosambik/!6197785/",
-   "q": "taz",
-   "d": "2026-09-19T16:12:00+00:00"
-  },
-  {
-   "t": "Krankenkassen sollen doch über Beitragsanhebung informieren müssen",
-   "s": "Gesundheitsminister Linnemann will das Aus der Informationspflicht für gesetzliche Krankenkassen über Beitragserhöhungen wieder rückgängig machen. Vor allem Verbraucherschützer hatten die Abschaffung der Pflicht scharf kritisiert.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T15:46:45+00:00"
-  },
-  {
-   "t": "Warnung vor ökonomischen Schäden: Handelsverband nennt AfD „absolut wirtschaftsfeindlich“",
-   "s": "Vor den Wahlen kritisiert der Einzelhandel die AfD als „nicht wählbar“, Putins Beauftragter lobt sie. Mitarbeiter von Berliner AfD-Spitzenkandidatin durchsucht.",
-   "u": "https://taz.de/Handelsverband-nennt-AfD-absolut-wirtschaftsfeindlich/!6214668/",
-   "q": "taz",
-   "d": "2026-09-19T13:21:00+00:00"
-  },
-  {
-   "t": "Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket",
-   "s": "Mit Tankrabatt und Spritpreisdeckel will die Bundesregierung gegen hohe Kraftstoffpreise vorgehen. Die Maßnahmen stoßen größtenteils auf Kritik - sie seien zu wenig zielgenau. Doch es gibt auch Zustimmung.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T12:39:46+00:00"
-  },
-  {
-   "t": "Teile von F-35 vermisst: Geheime Technik von US-Tarnkappenjet F-35 soll nach Hongkong gegangen sein",
-   "s": "Der US-Kongress untersucht laut Recherchen von Politico, ob Teile des hochmodernen F-35-Kampfjets China in die Hände gefallen sind.",
-   "u": "https://taz.de/Bericht-Geheime-Technik-von-US-Tarnkappenjet-F-35-nach-Hongkong-umgeleitet/!6214665/",
-   "q": "taz",
-   "d": "2026-09-19T12:38:00+00:00"
   }
  ]
 }
