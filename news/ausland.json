@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-09-19T23:07:04+00:00",
+ "updated": "2026-09-20T08:36:33+00:00",
  "items": [
+  {
+   "t": "US-Militär meldet erneut Tote bei Angriff auf angebliches Schmugglerboot",
+   "s": "Unter Präsident Trump gehen die USA in der Karibik seit vergangenem Jahr mit gezielten Angriffen gegen mutmaßliche Drogenboote vor. Bei einem neuerlichen Einsatz sind dabei nach Militärangaben erneut vier Menschen gestorben.",
+   "u": "https://www.tagesschau.de/ausland/usa-angriffe-drogenboote-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T07:59:20+00:00"
+  },
+  {
+   "t": "Ukrainische Drohnenangriffe auf Moskau - mehrere Tote",
+   "s": "Bei Angriffen der Ukraine mit Hunderten Drohnen hat es in Russland mindestens zwei Tote gegeben. In der Region um Moskau wurde eine Raffinerie getroffen. Auch bei russischen Angriffen starben mehrere Menschen.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T07:40:10+00:00"
+  },
+  {
+   "t": "US-Medien kritisierten Trumps Hausverbot als rechtswidrigen Angriff auf die Pressefreiheit",
+   "s": "Der Hausausweis abgenommen, der Zutritt zum Weißen Haus verwehrt: Die Entscheidung des US-Präsidenten, Journalisten von CNN, MS NOW und Politico den Zutritt zu verwehren, stößt auf breite Kritik. Viele sehen die Pressefreiheit in Gefahr.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T01:55:19+00:00"
+  },
   {
    "t": "Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang",
    "s": "US-Präsident Trump hatte angekündigt, CNN, MS NOW und Politico aus dem Weißen Haus zu verbannen. Und tatsächlich: Die Reporter wurden heute abgewiesen, ihre Presseausweise deaktiviert.",
@@ -73,13 +94,6 @@
    "d": "2026-09-18T17:03:15+00:00"
   },
   {
-   "t": "Spenden für Midterms: Rekordsummen für die Kongress-Zwischenwahlen",
-   "s": "Nie zuvor floss in den USA so viel Geld in den Wahlkampf für Kongress-Zwischenwahlen. Zu den größten Spendern zählen einzelne Milliardäre. Hinzu kommt \"Dark Money\", also Spenden, die niemandem zugeordnet werden können. Von Ralf Borchard.",
-   "u": "https://www.tagesschau.de/ausland/amerika/parteispenden-republikaner-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T14:21:12+00:00"
-  },
-  {
    "t": "Italien erwägt Marinemission im Roten Meer zum Schutz von Frachtern",
    "s": "Die Huthi-Miliz kontrolliert die Meerenge Bab al-Mandab im Roten Meer weitgehend. Ohne auf die EU zu warten, will Italien dort Schiffe mit der eigenen Marine schützen. Die Ankündigung dürfte vor allem ein Signal in Richtung Brüssel sein.",
    "u": "https://www.tagesschau.de/ausland/europa/italien-erwaegt-marineeinsatz-rotes-meer-100.html",
@@ -122,13 +136,6 @@
    "d": "2026-09-17T12:45:28+00:00"
   },
   {
-   "t": "Folgenschwere Luftangriffe: UN-Bericht wirft USA Kriegsverbrechen in Iran vor",
-   "s": "Nach Angaben von UN-Berichterstattern könnten zwei US-Angriffe in Iran als Kriegsverbrechen gewertet werden. Darunter ist eine Attacke auf eine Mädchenschule zu Beginn des Jahres. Aber auch die iranische Regierung wird scharf kritisiert.",
-   "u": "https://www.tagesschau.de/ausland/amerika/un-bericht-kriegsverbrechen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T12:31:47+00:00"
-  },
-  {
    "t": "Wie stellt Kanada sich die \"einzigartige Allianz\" vor?",
    "s": "Kanada und die EU wollen noch mehr zusammenarbeiten. Wie genau das aussehen könnte, ist noch unklar. In seiner Rede vor dem EU-Parlament könnte Premier Carney heute ein paar der offenen Fragen beantworten. Von Giselle Ucar.",
    "u": "https://www.tagesschau.de/ausland/europa/kanada-eu-carney-rede-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/ukraine-russische-angriffe-verkehrsmittel-100.html",
    "q": "Tagesschau",
    "d": "2026-09-16T16:40:52+00:00"
-  },
-  {
-   "t": "Von der Leyen will neuen transatlantischen Bund mit Kanada",
-   "s": "Wo steht die EU? Und was sind die Pläne für die kommenden Monate? EU-Kommissionschefin von der Leyen hat in ihrer Grundsatzrede in Straßburg die Prioritäten skizziert - eine ihrer vielen Initiativen ist eine engere Partnerschaft mit Kanada. Von Christian Feld.",
-   "u": "https://www.tagesschau.de/ausland/europa/grundsatzrede-kommission-bruessel-eu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T15:32:58+00:00"
   }
  ]
 }

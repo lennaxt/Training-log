@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-19T23:07:05+00:00",
+ "updated": "2026-09-20T08:36:34+00:00",
  "items": [
+  {
+   "t": "Warum wir noch immer so viel Essen wegwerfen",
+   "s": "Jedes Jahr landen in Deutschland fast elf Millionen Tonnen genießbare Lebensmittel im Müll. Warum ändert sich seit Jahren kaum was? Und was können wir von unseren Nachbarn lernen? Von Edgar Verheyen.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/essen-lebensmittel-verschwendung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T03:38:41+00:00"
+  },
   {
    "t": "Auch Googles KI hackte Unternehmen",
    "s": "Wiederholt haben KI-Systeme bei Tests unerwartet auf fremde Systeme zugegriffen. Nun wurden solche Vorfälle auch bei Googles Gemini bekannt. In der Debatte um KI-Sicherheit lässt Kalifornien mögliche strengere Sicherheitsvorgaben prüfen.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-100.html",
    "q": "Tagesschau",
    "d": "2026-09-15T16:56:26+00:00"
-  },
-  {
-   "t": "Apotheken sollen stärker zu medizinischen Dienstleistern werden",
-   "s": "Apotheken stecken mitten in einem großen Wandel. Ein neues Gesetz will sie stärker in die Patientenversorgung einbinden. Sie sollen \"Gesundheitslotsen\" werden und mehr Kompetenzen bekommen. Ist das die Zukunft? Von Jenni Rieger.",
-   "u": "https://www.tagesschau.de/wirtschaft/apotheken-apothekertag-linnemann-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T11:39:22+00:00"
   }
  ]
 }

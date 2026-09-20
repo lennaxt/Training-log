@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-19T23:07:07+00:00",
+ "updated": "2026-09-20T08:36:35+00:00",
  "items": [
+  {
+   "t": "Nato-Militärausschuss: Carsten Breuer übernimmt den Vorsitz",
+   "s": "Carsten Breuer ist neuer Vorsitzender des Nato‑Militärausschusses. Er ist Generalinspekteur bei der Bundeswehr und Deutschlands ranghöchster Soldat.",
+   "u": "https://taz.de/Nato-Militaerausschuss/!6214677/",
+   "q": "taz",
+   "d": "2026-09-20T07:11:00+00:00"
+  },
   {
    "t": "Einigung USA-Dänemark: Trump bekommt einen Grönland-Deal",
    "s": "Ein neues Abkommen sichert den USA eine dauerhafte Militärpräsenz auf Grönland. Doch die Darstellungen dazu klingen unterschiedlich.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6213241/",
    "q": "taz",
    "d": "2026-09-15T07:54:00+00:00"
-  },
-  {
-   "t": "Korruption in der Ukraine: Nach Diktat ganz plötzlich verreist",
-   "s": "Der ukrainische Generalstaatsanwalt Krawtschenko tritt eine Dienstreise ins Ausland an. Am Dienstag soll das Parlament über seine Entlassung abstimmen.",
-   "u": "https://taz.de/Korruption-in-der-Ukraine/!6213032/",
-   "q": "taz",
-   "d": "2026-09-14T18:03:00+00:00"
   }
  ]
 }

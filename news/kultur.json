@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-19T23:07:08+00:00",
+ "updated": "2026-09-20T08:36:36+00:00",
  "items": [
+  {
+   "t": "Erste Homo-Ehe Boliviens: „Wir wollen nicht die Letzten sein“",
+   "s": "Fabiana Bánzer und Scarlett Rocha haben geheiratet. Ende gut, alles gut? Mitnichten, es gibt noch noch viel zu tun für Queers in Lateinamerika.",
+   "u": "https://taz.de/Erste-Homo-Ehe-Boliviens/!6208346/",
+   "q": "taz",
+   "d": "2026-09-20T06:42:00+00:00"
+  },
   {
    "t": "Kürzungen bei Kolumbiens Friedensjustiz: Rotstift trifft auf Aufarbeitung",
    "s": "Die JEP klärt Verbrechen aus Kolumbiens bewaffnetem Konflikt auf. Nun drohen Budgetkürzungen und neue Kontrollen ihrer Urteile.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Parteitag-der-Republikaner-in-Dallas/!6212149/",
    "q": "taz",
    "d": "2026-09-10T11:54:00+00:00"
-  },
-  {
-   "t": "25 Jahre 9/11: Die Suche nach den Opfern geht weiter",
-   "s": "Nicht mal die Hälfte der Menschen, die in den Trümmern des World Trade Centers starben, sind identfiziert. Die Witwe Monica Iken-Murphy hat trotzdem Hoffnung.",
-   "u": "https://taz.de/25-Jahre-9/11/!6212093/",
-   "q": "taz",
-   "d": "2026-09-10T11:40:00+00:00"
   }
  ]
 }

@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-19T23:07:06+00:00",
+ "updated": "2026-09-20T08:36:35+00:00",
  "items": [
+  {
+   "t": "Wahl Berlin und Mecklenburg-Vorpommern: Wer kann da regieren?",
+   "s": "Am Sonntag wird in Berlin und Mecklenburg-Vorpommern gewählt. In beiden Ländern ist völlig offen, wie danach Mehrheiten gefunden werden.",
+   "u": "https://taz.de/Wahl-Berlin-und-Mecklenburg-Vorpommern/!6214068/",
+   "q": "taz",
+   "d": "2026-09-20T06:55:00+00:00"
+  },
+  {
+   "t": "Landtagswahlen 2026: Wahllokale in Berlin und Mecklenburg-Vorpommern öffnen",
+   "s": "In Berlin und Mecklenburg-Vorpommern wird heute über die Politik der kommenden fünf Jahren abgestimmt. Für die Regierung könnten die Wahlen wegweisend sein.",
+   "u": "https://taz.de/Landtagswahlen-2026/!6214676/",
+   "q": "taz",
+   "d": "2026-09-20T06:36:00+00:00"
+  },
   {
    "t": "Richtig gute Leute: Antifa mit Popcorn",
    "s": "Die Lehrerin Hanka Gatter leitet einen Kurs gegen Rassismus, ehrenamtlich berät sie Geflüchtete in einem Café in Parchim.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Marsch-fuer-das-Leben-in-Berlin/!6213796/",
    "q": "taz",
    "d": "2026-09-18T05:23:00+00:00"
-  },
-  {
-   "t": "VVN-BdA und Gemeinnützigkeit: Wer hat was gegen Antifaschismus?",
-   "s": "Die Attacken des Berliner Finanzamts auf die VVN-BdA löst viel Solidarität aus. Ungeklärt ist, ob CDU-Kandidat und Finanzsenator Stefan Evers etwas damit zu tun hat.",
-   "u": "https://taz.de/VVN-BdA-und-Gemeinnuetzigkeit/!6213533/",
-   "q": "taz",
-   "d": "2026-09-17T19:07:00+00:00"
-  },
-  {
-   "t": "Berliner CDU-Wahlkampfabschluss: Geschichtsunterricht bei Papa Merz",
-   "s": "Während über sein Kanzleramt diskutiert wird, besuchte Merz den Berliner Wahlkampfabschluss. Und verglich sich indirekt mit Adenauer.",
-   "u": "https://taz.de/Berliner-CDU-Wahlkampfabschluss/!6214197/",
-   "q": "taz",
-   "d": "2026-09-17T19:04:00+00:00"
   }
  ]
 }
