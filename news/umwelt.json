@@ -1,10 +1,24 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-20T08:36:35+00:00",
+ "updated": "2026-09-20T13:35:23+00:00",
  "items": [
   {
-   "t": "Wahl Berlin und Mecklenburg-Vorpommern: Wer kann da regieren?",
-   "s": "Am Sonntag wird in Berlin und Mecklenburg-Vorpommern gewählt. In beiden Ländern ist völlig offen, wie danach Mehrheiten gefunden werden.",
+   "t": "Kritik an Spritpreis-Entlastungen: Klimaschädlich, teuer, ungerecht",
+   "s": "Wieder Rabatte für Verbrenner-Fahrer*innen: Ex­per­t*in­nen aus Ökonomie, Umwelt- und Verbraucherschutz kritisieren Tankrabatt und Spritpreisdeckel.",
+   "u": "https://taz.de/Kritik-an-Spritpreis-Entlastungen/!6214717/",
+   "q": "taz",
+   "d": "2026-09-20T12:54:00+00:00"
+  },
+  {
+   "t": "Wahl in Mecklenburg-Vorpommern: Was, wenn der Kultur die Puste ausgeht?",
+   "s": "Im Nordosten ist über Jahre etwas gewachsen: Orte, an denen Menschen zusammenkommen, die sich sonst kaum noch sehen. Ein AfD-Sieg würde sie bedrohen.",
+   "u": "https://taz.de/Wahl-in-Mecklenburg-Vorpommern/!6208311/",
+   "q": "taz",
+   "d": "2026-09-20T09:10:00+00:00"
+  },
+  {
+   "t": "Wahl Berlin und Mecklenburg-Vorpommern: Wähler in Rostock stimmen wegen Panne zeitweise im Bus ab",
+   "s": "Berlin und Mecklenburg-Vorpommern wählen. In Rostock wurde ein Bus zeitweise zum Wahllokal. CDU-Spitzenkandidat Evers in Berlin „entspannt“.",
    "u": "https://taz.de/Wahl-Berlin-und-Mecklenburg-Vorpommern/!6214068/",
    "q": "taz",
    "d": "2026-09-20T06:55:00+00:00"
@@ -31,7 +45,7 @@
    "d": "2026-09-19T18:17:00+00:00"
   },
   {
-   "t": "Marsch für das Leben 2026: Christlich-Konservative stoßen auf Gegendemos",
+   "t": "„Marsch für das Leben“ 2026: Christlich-Konservative stoßen auf Gegendemos",
    "s": "Das Bundesverband Lebensrecht hat zur jährlichen Demo gegen Schwangerschaftsabbruch gerufen. Die Gegendemonstrierenden haben die Strecke begleitet.",
    "u": "https://taz.de/Marsch-fuer-das-Leben-2026/!6214673/",
    "q": "taz",
@@ -46,7 +60,7 @@
   },
   {
    "t": "Studi-Mieten in Großstädten: Jedes zweite WG-Zimmer in Berlin kostet mehr als 650 Euro",
-   "s": "Deutschlandweit bleiben die Zimmer-Mieten zuletzt stabil, in den Millionenstädten aber ziehen sie an. Die Hauptstadt ist dabei nicht am teuersten.",
+   "s": "Deutschlandweit blieben die Zimmermieten zuletzt stabil, in den Millionenstädten aber ziehen sie an. Die Hauptstadt ist dabei nicht am teuersten.",
    "u": "https://taz.de/Studi-Mieten-in-Grossstaedten/!6214660/",
    "q": "taz",
    "d": "2026-09-19T11:24:00+00:00"
@@ -59,7 +73,7 @@
    "d": "2026-09-19T09:47:00+00:00"
   },
   {
-   "t": "Neue Kampfjets für die Bundeswehr: Pistorius nimmt in Texas ersten F-35 in Empfang",
+   "t": "Neue Kampfjets für die Bundeswehr: Boris Pistorius nimmt in Texas ersten F-35 in Empfang",
    "s": "Verteidigungsminister Pistorius reist persönlich in die USA, um die Tarnkappenjets entgegenzunehmen, die die Tornado-Flugzeuge der Bundeswehr ersetzen sollen.",
    "u": "https://taz.de/Pistorius-nimmt-in-Texas-ersten-F-35-Kampfjet-fuer-die-Bundeswehr-in-Empfang/!6214653/",
    "q": "taz",
@@ -143,13 +157,6 @@
    "d": "2026-09-18T10:06:00+00:00"
   },
   {
-   "t": "Grünen-Spitzenfrau in MV: All eyes on Müller",
-   "s": "Vor einem Jahr lagen die Grünen in Mecklenburg-Vorpommern in Trümmern. Mit Topkandidatin Claudia Müller hoffen sie auf den Verbleib im Landtag.",
-   "u": "https://taz.de/Wahl-in-Mecklenburg-Vorpommern/!6211647/",
-   "q": "taz",
-   "d": "2026-09-18T08:04:00+00:00"
-  },
-  {
    "t": "Wahlkampf in Meck-Pomm: Rot endlich wieder vor Braun",
    "s": "SPD und AfD ringen vor Landtagswahl in Mecklenburg-Vorpommern am Sonntag um den Sieg. In einer neuesten Umfrage überholt die SPD die AfD erstmals.",
    "u": "https://taz.de/Wahlkampf-in-Meck-Pomm/!6214228/",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Sachsen-Anhalt-nach-der-Wahl/!6214221/",
    "q": "taz",
    "d": "2026-09-18T05:52:00+00:00"
-  },
-  {
-   "t": "Marsch für das Leben in Berlin: Exportknaller Anti-Choice",
-   "s": "Radikale Abtreibungsgegner sind international bestens vernetzt. Am Wochenende kommen Frauenfeinde aus Europa und den USA in Berlin zusammen.",
-   "u": "https://taz.de/Marsch-fuer-das-Leben-in-Berlin/!6213796/",
-   "q": "taz",
-   "d": "2026-09-18T05:23:00+00:00"
   }
  ]
 }

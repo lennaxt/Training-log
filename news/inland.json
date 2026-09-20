@@ -1,7 +1,42 @@
 {
  "name": "Inland",
- "updated": "2026-09-20T08:36:32+00:00",
+ "updated": "2026-09-20T13:35:20+00:00",
  "items": [
+  {
+   "t": "Landtagswahl in Mecklenburg-Vorpommern: Vom Ich zum Wir",
+   "s": "Kirche, Kneipe und Konsum-Markt sind in vielen Orten verschwunden. Antje Kesten will mit einem Ersatz neue Begegnungen schaffen: ihrer Wunschmaschine.",
+   "u": "https://taz.de/Landtagswahl-in-Mecklenburg-Vorpommern/!6213587/",
+   "q": "taz",
+   "d": "2026-09-20T13:33:00+00:00"
+  },
+  {
+   "t": "Auswirkungen von Deepfakes in Lesotho: Wenn der König plötzlich lügt",
+   "s": "In Lesotho verbreiten sich Deepfakes aus den sozialen Medien bis ins UKW-Radio – auch weil Afrikas Informationsräume von globalen Tech-Konzernen dominiert sind.",
+   "u": "https://taz.de/Auswirkungen-von-Deepfakes-in-Lesotho/!6197712/",
+   "q": "taz",
+   "d": "2026-09-20T12:57:00+00:00"
+  },
+  {
+   "t": "Kritik an Spritpreis-Entlastungen: Klimaschädlich, teuer, ungerecht",
+   "s": "Wieder Rabatte für Verbrenner-Fahrer*innen: Ex­per­t*in­nen aus Ökonomie, Umwelt- und Verbraucherschutz kritisieren Tankrabatt und Spritpreisdeckel.",
+   "u": "https://taz.de/Kritik-an-Spritpreis-Entlastungen/!6214717/",
+   "q": "taz",
+   "d": "2026-09-20T12:54:00+00:00"
+  },
+  {
+   "t": "Wahl in Mecklenburg-Vorpommern: Was, wenn der Kultur die Puste ausgeht?",
+   "s": "Im Nordosten ist über Jahre etwas gewachsen: Orte, an denen Menschen zusammenkommen, die sich sonst kaum noch sehen. Ein AfD-Sieg würde sie bedrohen.",
+   "u": "https://taz.de/Wahl-in-Mecklenburg-Vorpommern/!6208311/",
+   "q": "taz",
+   "d": "2026-09-20T09:10:00+00:00"
+  },
+  {
+   "t": "Rechtsextreme Demo in Den Haag: Sie denken, „das Volk“ zu sein",
+   "s": "Die Polizei löst eine Demo in den Niederlanden auf. Protestierende zeigten Hitlergrüße, riefen zu Gewalt auf und hetzten gegen Migranten.",
+   "u": "https://taz.de/Rechtsextreme-Demo-in-Den-Haag/!6214681/",
+   "q": "taz",
+   "d": "2026-09-20T08:51:00+00:00"
+  },
   {
    "t": "Nato-Militärausschuss: Carsten Breuer übernimmt den Vorsitz",
    "s": "Carsten Breuer ist neuer Vorsitzender des Nato‑Militärausschusses. Er ist Generalinspekteur bei der Bundeswehr und Deutschlands ranghöchster Soldat.",
@@ -17,8 +52,8 @@
    "d": "2026-09-20T06:58:00+00:00"
   },
   {
-   "t": "Wahl Berlin und Mecklenburg-Vorpommern: Wer kann da regieren?",
-   "s": "Am Sonntag wird in Berlin und Mecklenburg-Vorpommern gewählt. In beiden Ländern ist völlig offen, wie danach Mehrheiten gefunden werden.",
+   "t": "Wahl Berlin und Mecklenburg-Vorpommern: Wähler in Rostock stimmen wegen Panne zeitweise im Bus ab",
+   "s": "Berlin und Mecklenburg-Vorpommern wählen. In Rostock wurde ein Bus zeitweise zum Wahllokal. CDU-Spitzenkandidat Evers in Berlin „entspannt“.",
    "u": "https://taz.de/Wahl-Berlin-und-Mecklenburg-Vorpommern/!6214068/",
    "q": "taz",
    "d": "2026-09-20T06:55:00+00:00"
@@ -80,7 +115,7 @@
    "d": "2026-09-19T17:58:34+00:00"
   },
   {
-   "t": "Marsch für das Leben 2026: Christlich-Konservative stoßen auf Gegendemos",
+   "t": "„Marsch für das Leben“ 2026: Christlich-Konservative stoßen auf Gegendemos",
    "s": "Das Bundesverband Lebensrecht hat zur jährlichen Demo gegen Schwangerschaftsabbruch gerufen. Die Gegendemonstrierenden haben die Strecke begleitet.",
    "u": "https://taz.de/Marsch-fuer-das-Leben-2026/!6214673/",
    "q": "taz",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Bericht-Geheime-Technik-von-US-Tarnkappenjet-F-35-nach-Hongkong-umgeleitet/!6214665/",
    "q": "taz",
    "d": "2026-09-19T12:38:00+00:00"
-  },
-  {
-   "t": "Wie sich Lokaljournalismus weiterentwickelt",
-   "s": "Klicks, neue Kanäle, Künstliche Intelligenz: Der Lokaljournalismus befindet sich im Wandel. Wie Zeitungen mit den Herausforderungen umgehen, zeigt eine Redaktion des Böblinger Boten. Wie kann sie sich behaupten? Von Laura Bisch.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/lokaljournalismus-zeitung-herausforderungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T12:20:39+00:00"
-  },
-  {
-   "t": "Studi-Mieten in Großstädten: Jedes zweite WG-Zimmer in Berlin kostet mehr als 650 Euro",
-   "s": "Deutschlandweit bleiben die Zimmer-Mieten zuletzt stabil, in den Millionenstädten aber ziehen sie an. Die Hauptstadt ist dabei nicht am teuersten.",
-   "u": "https://taz.de/Studi-Mieten-in-Grossstaedten/!6214660/",
-   "q": "taz",
-   "d": "2026-09-19T11:24:00+00:00"
-  },
-  {
-   "t": "Grönland-Abkommen mit den USA: Lob und Erleichterung, soweit das Auge reicht",
-   "s": "Trump feiert einen Grönland-Deal, auch Dänemark und Grönland sind zufrieden. Das Abkommen soll die Sicherheit stärken. Viele Details bleiben jedoch offen.",
-   "u": "https://taz.de/Groenland-Abkommen-mit-den-USA/!6214661/",
-   "q": "taz",
-   "d": "2026-09-19T11:21:00+00:00"
-  },
-  {
-   "t": "Lieferant von Rohdiamanten: Botswana greift nach De Beers",
-   "s": "Mehr Einfluss auf den Diamantenkonzern soll dem Land helfen, seine Wirtschaft zu diversifizieren. Seine Finanzreserven sind weitgehend aufgebraucht.",
-   "u": "https://taz.de/Lieferant-von-Rohdiamanten/!6197767/",
-   "q": "taz",
-   "d": "2026-09-19T10:56:00+00:00"
-  },
-  {
-   "t": "Grünen-Fraktionsvize übt scharfe Kritik an Tankrabatt",
-   "s": "Die Bundesregierung plant einen neuen Tankrabatt. Ein falscher Schritt, findet der Fraktionsvize der Grünen, Andreas Audretsch. Denn ein großer Teil des Geldes werde bei den Ölkonzernen landen. Er fordert, das Geld direkt an die Menschen auszuzahlen.May, Philipp",
-   "u": "https://www.deutschlandfunk.de/kritik-am-tankrabatt-interview-mit-gruenen-fraktionsvize-andreas-audretsch-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-19T10:15:00+00:00"
   }
  ]
 }

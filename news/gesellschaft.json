@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-20T08:36:35+00:00",
+ "updated": "2026-09-20T13:35:24+00:00",
  "items": [
+  {
+   "t": "Rechtsextreme Demo in Den Haag: Sie denken, „das Volk“ zu sein",
+   "s": "Die Polizei löst eine Demo in den Niederlanden auf. Protestierende zeigten Hitlergrüße, riefen zu Gewalt auf und hetzten gegen Migranten.",
+   "u": "https://taz.de/Rechtsextreme-Demo-in-Den-Haag/!6214681/",
+   "q": "taz",
+   "d": "2026-09-20T08:51:00+00:00"
+  },
   {
    "t": "Nato-Militärausschuss: Carsten Breuer übernimmt den Vorsitz",
    "s": "Carsten Breuer ist neuer Vorsitzender des Nato‑Militärausschusses. Er ist Generalinspekteur bei der Bundeswehr und Deutschlands ranghöchster Soldat.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Ukrainisches-Parlament-entlaesst-Generalstaatsanwalt/!6213401/",
    "q": "taz",
    "d": "2026-09-15T13:06:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Drohne über Litauen abgeschossen, EU vertagt Sanktionen",
-   "s": "Nato-Kampfflugzeuge schießen eine Drohne im litauischen Luftraum ab. Derweil blockiert die Slowakei weiterhin eine Verlängerung der Russland-Sanktionen.",
-   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6213241/",
-   "q": "taz",
-   "d": "2026-09-15T07:54:00+00:00"
   }
  ]
 }

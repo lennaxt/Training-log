@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-20T08:36:34+00:00",
+ "updated": "2026-09-20T13:35:22+00:00",
  "items": [
+  {
+   "t": "Ruhestand: Wie viel Vermögen Rentner wirklich ausgeben können",
+   "s": "Viele Menschen haben fürs Alter Vermögen aufgebaut. Doch wie viel davon können sie im Ruhestand ausgeben? Eine bekannte Faustregel ist nicht für jeden Rentner die beste Lösung. Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/ruhestand-vermoegen-rente-altersvorsorge-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T11:59:35+00:00"
+  },
   {
    "t": "Warum wir noch immer so viel Essen wegwerfen",
    "s": "Jedes Jahr landen in Deutschland fast elf Millionen Tonnen genießbare Lebensmittel im Müll. Warum ändert sich seit Jahren kaum was? Und was können wir von unseren Nachbarn lernen? Von Edgar Verheyen.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-102.html",
    "q": "Tagesschau",
    "d": "2026-09-15T17:05:36+00:00"
-  },
-  {
-   "t": "Wie blockierte Seewege den weltweiten Handel gefährden",
-   "s": "Die Huthi-Miliz blockiert die Meerenge von Bab al-Mandab - und damit die kürzeste Route von Asien nach Europa. Das bedeutet teure Umwege. Wie gefährdet sind Schifffahrtsrouten und globale Lieferketten? Von Marcus Pfeiffer.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T16:56:26+00:00"
   }
  ]
 }
