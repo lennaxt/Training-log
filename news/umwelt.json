@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-20T18:12:19+00:00",
+ "updated": "2026-09-20T23:15:27+00:00",
  "items": [
+  {
+   "t": "Wahlen in Berlin und Meck-Pomm: Ein linker Sieg, der sich nicht so anfühlt",
+   "s": "Schwesigs Aufholjagd und Eralps deutlicher Sieg können nicht darüber hinwegtäuschen, wie viele Menschen ihre Stimme den Rechtsextremen gegeben haben.",
+   "u": "https://taz.de/Wahlen-in-Berlin-und-Meck-Pomm/!6210946/",
+   "q": "taz",
+   "d": "2026-09-20T19:21:00+00:00"
+  },
+  {
+   "t": "AfD mit Rekordergebnissen: Stadt, Land, ein bisschen Frust",
+   "s": "Die AfD fährt in Mecklenburg-Vorpommern ein Rekordergebnis ein und landet knapp vor der SPD. Berlin hingegen enttäuscht die Rechtsextremen.",
+   "u": "https://taz.de/AfD-mit-Rekordergebnissen/!6213654/",
+   "q": "taz",
+   "d": "2026-09-20T18:20:00+00:00"
+  },
   {
    "t": "SPD-Ergebnis in Mecklenburg-Vorpommern: Knapp vorbei ist auch daneben",
    "s": "Die SPD in Mecklenburg-Vorpommern hatte auf den Sieg gehofft. Es reicht nur für Platz 2. Trotzdem fährt die Partei ein Traumergebnis ein.",
@@ -11,14 +25,14 @@
   },
   {
    "t": "Wahlen in Berlin und MV: Eine Volkspartei blickt in den Abgrund",
-   "s": "Noch nie hat die CDU schlechter abgeschnitten: In Mecklenburg-Vorpommern liegt sie bei 5 Prozent, in Berlin hinter der Linken. Merz tritt die Flucht nach vorn an.",
+   "s": "Nie hat die CDU schlechter abgeschnitten: Im Norden verpasst sie den Einzug in den Landtag, in Berlin liegt sie hinter der Linken. Merz tritt die Flucht nach vorn an.",
    "u": "https://taz.de/Wahlen-in-Berlin-und-MV/!6213624/",
    "q": "taz",
    "d": "2026-09-20T17:53:00+00:00"
   },
   {
    "t": "Grüne in Mecklenburg-Vorpommern: Händchen halten für den Wiedereinzug",
-   "s": "Die Grünen in Schwerin müssen zittern: Erste Hochrechnungen sehen die Partei in Mecklenburg-Vorpommern knapp über der 5-Prozent-Hürde.",
+   "s": "Die Hochrechnungen sehen die Grünen in Mecklenburg-Vorpommern knapp über der 5-Prozent-Hürde. Sie könnten regieren – trotz Ärger über Manuela Schwesig.",
    "u": "https://taz.de/Gruene-in-Mecklenburg-Vorpommern/!6213655/",
    "q": "taz",
    "d": "2026-09-20T17:47:00+00:00"
@@ -87,8 +101,8 @@
    "d": "2026-09-20T09:10:00+00:00"
   },
   {
-   "t": "Wahl Berlin und Mecklenburg-Vorpommern: Linke begeistert in Berlin sogar tausende ehemalige CDU-Wähler",
-   "s": "Die Linke wird in Berlin klar stärkste Partei. CDU gratuliert ihr. In Mecklenburg-Vorpommern liegt die AfD knapp vor der SPD. BSW und auch CDU zittern bei 5 Prozent. Merz will weitermachen.",
+   "t": "Wahl Berlin und Mecklenburg-Vorpommern: CDU fliegt definitiv erstmals aus einem Landtag raus",
+   "s": "Die Linke wird in Berlin klar stärkste Partei. In Mecklenburg bleibt die CDU unter 5 Prozent. Die AfD steht vor der SPD. Rot-Rot-Grün in beiden Ländern möglich.",
    "u": "https://taz.de/Wahl-Berlin-und-Mecklenburg-Vorpommern/!6214068/",
    "q": "taz",
    "d": "2026-09-20T06:55:00+00:00"
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Wahlkampf-in-Mecklenburg-Vorpommern/!6214337/",
    "q": "taz",
    "d": "2026-09-19T07:53:00+00:00"
-  },
-  {
-   "t": "CDU und Fetischkultur: Ganz in Schwarz",
-   "s": "Berlin ist links, heißt es. Dabei könnten die Konservativen die Abgeordnetenhauswahl wieder gewinnen. Wer sie wählt? Ein Besuch beim Fetisch-Festival.",
-   "u": "https://taz.de/CDU-und-Fetischkultur/!6208288/",
-   "q": "taz",
-   "d": "2026-09-19T07:03:00+00:00"
-  },
-  {
-   "t": "Bund und Länder einigen sich: Habemus neuen Tankrabatt",
-   "s": "Die Bundesregierung vereinbart mit den Ländern ein neues Paket für Entlastungen bei den hohen Spritreisen. Opposition kritisiert das als Gießkannenlösung.",
-   "u": "https://taz.de/Bund-und-Laender-einigen-sich-auf-neuen-Tankrabatt/!6214649/",
-   "q": "taz",
-   "d": "2026-09-19T06:51:00+00:00"
   }
  ]
 }

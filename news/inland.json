@@ -1,7 +1,91 @@
 {
  "name": "Inland",
- "updated": "2026-09-20T18:12:15+00:00",
+ "updated": "2026-09-20T23:15:24+00:00",
  "items": [
+  {
+   "t": "Analyse zur Wahl: Warum die Linke in Berlin so erfolgreich war",
+   "s": "Die Linke hat dank einer Altersgruppe in Berlin gewonnen und aufs richtige Thema gesetzt, das zeigen Umfragen. Für die AfD ist dort manches anders als in anderen Bundesländern. Und alle Parteien hatten ziemlich unbekannte Kandidaten. Von H. Schwesinger.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/analyse-abgeordnetenhauswahl-berlin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T22:29:07+00:00"
+  },
+  {
+   "t": "Wahlpleiten für Merz-CDU - Durchhalteparolen nach dem Desaster",
+   "s": "Die Kanzlerpartei CDU fährt nach der Landtagswahl in Sachsen-Anhalt auch in Berlin und Mecklenburg-Vorpommern heftige Verluste ein. Im Nordosten scheitert die CDU sogar an der Fünf-Prozent-Hürde. Merz will seine \"Reformen\" dennoch durchziehen.",
+   "u": "https://www.deutschlandfunk.de/landtagswahlen-folgen-bundespolitik-merz-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-20T22:07:00+00:00"
+  },
+  {
+   "t": "Berlin: Karte mit den Ergebnissen der Abgeordnetenhauswahl 2026",
+   "s": "Wer liegt in welchen Wahlkreisen, Bezirken und Wahlbezirken vorne? Welche Partei hat wo ihre Hochburgen? Die interaktive Karte zeigt detaillierte Ergebnisse der Abgeordnetenhauswahl 2026 in Berlin.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-abgeordnetenhaus-berlin-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T21:25:25+00:00"
+  },
+  {
+   "t": "Analyse: Warum die SPD in Mecklenburg-Vorpommern hinter der AfD liegt",
+   "s": "Warum gelang Ministerpräsidentin Schwesig mit dem Slogan \"Frau gegen Blau\" eine Aufholjagd? Warum lag die AfD trotzdem vorne? Umfragen von infratest dimap liefern dazu ebenso Erklärungen wie ein Detail, das die CDU alarmieren muss. Von H. Schwesinger.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-mecklenburg-vorpommern-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T21:21:39+00:00"
+  },
+  {
+   "t": "Nach Landtagswahlen: Zwischen Desaster und Jubel",
+   "s": "Kanzler Merz hat nach den Wahlen bekräftigt, die aus seiner Sicht nötigen Reformen durchsetzen zu wollen. Vizekanzler Klingbeil von der SPD räumte ein, das Thema Rente habe zu \"großer Verunsicherung\" geführt. Die AfD sieht sich erneut gestärkt.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-wahlen-mecklenburg-vorpommern-berlin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T21:03:42+00:00"
+  },
+  {
+   "t": "Mecklenburg-Vorpommern: Wahlkarte zur Landtagswahl 2026",
+   "s": "Wer liegt in welchen Wahlkreisen und Gemeinden vorne? Welche Partei hat wo ihre Hochburgen? Die interaktive Karte zeigt detaillierte Ergebnisse der Landtagswahl 2026 in Mecklenburg-Vorpommern.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-ltw-mecklenburg-vorpommern-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T20:23:11+00:00"
+  },
+  {
+   "t": "Wahlen in Berlin und Meck-Pomm: Ein linker Sieg, der sich nicht so anfühlt",
+   "s": "Schwesigs Aufholjagd und Eralps deutlicher Sieg können nicht darüber hinwegtäuschen, wie viele Menschen ihre Stimme den Rechtsextremen gegeben haben.",
+   "u": "https://taz.de/Wahlen-in-Berlin-und-Meck-Pomm/!6210946/",
+   "q": "taz",
+   "d": "2026-09-20T19:21:00+00:00"
+  },
+  {
+   "t": "Kommentar zu den Landtagswahlen - Zwei Frauen wollen regieren - und Merz einfach weitermachen",
+   "s": "Friedrich Merz erklärt nach den schwachen CDU-Ergebnissen in Berlin und Mecklenburg-Vorpommern, dass er bleiben will. Gleichzeitig könnten mit Manuela Schwesig (SPD) und Elif Eralp (Linke) zwei sehr unterschiedliche Frauen Regierungschefinnen werden.Ein Kommentar von Friederike Sittler",
+   "u": "https://www.deutschlandfunk.de/landtagswahl-berlin-mecklenburg-vorpommern-kommentar-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-20T18:30:00+00:00"
+  },
+  {
+   "t": "Nach den Landtagswahlen: Merz spielt auf Zeit",
+   "s": "Noch vor den ersten Hochrechnungen trat Kanzler Merz ans Mikro. Als Parteivorsitzender und Kanzler wolle er die Reformen voranbringen, betonte er. Der Druck auf ihn und die Bundesregierung dürfte hoch bleiben. Von Tina Handel.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-nach-den-wahlen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-20T18:20:08+00:00"
+  },
+  {
+   "t": "AfD mit Rekordergebnissen: Stadt, Land, ein bisschen Frust",
+   "s": "Die AfD fährt in Mecklenburg-Vorpommern ein Rekordergebnis ein und landet knapp vor der SPD. Berlin hingegen enttäuscht die Rechtsextremen.",
+   "u": "https://taz.de/AfD-mit-Rekordergebnissen/!6213654/",
+   "q": "taz",
+   "d": "2026-09-20T18:20:00+00:00"
+  },
+  {
+   "t": "Afrikas Sound für die Welt: Anerkennung auf globaler Bühne",
+   "s": "Afrobeats aus Westafrika sind weltweit in Mode – und die Musikbranche in Afrika wächst.",
+   "u": "https://taz.de/Afrikas-Sound-fuer-die-Welt/!6197793/",
+   "q": "taz",
+   "d": "2026-09-20T18:18:00+00:00"
+  },
+  {
+   "t": "Konflikt zwischen Saudis und Huthis: Saudi-Arabien blickt sich hilfesuchend um",
+   "s": "Der Angriff auf Riad markiert den Höhepunkt der Eskalation zwischen der Huthi-Miliz und den Saudis. Können Letztere auf internationalen Beistand setzen?",
+   "u": "https://taz.de/Konflikt-zwischen-Saudis-und-Huthis/!6214749/",
+   "q": "taz",
+   "d": "2026-09-20T18:16:00+00:00"
+  },
   {
    "t": "SPD-Ergebnis in Mecklenburg-Vorpommern: Knapp vorbei ist auch daneben",
    "s": "Die SPD in Mecklenburg-Vorpommern hatte auf den Sieg gehofft. Es reicht nur für Platz 2. Trotzdem fährt die Partei ein Traumergebnis ein.",
@@ -11,7 +95,7 @@
   },
   {
    "t": "Grüne in Mecklenburg-Vorpommern: Händchen halten für den Wiedereinzug",
-   "s": "Die Grünen in Schwerin müssen zittern: Erste Hochrechnungen sehen die Partei in Mecklenburg-Vorpommern knapp über der 5-Prozent-Hürde.",
+   "s": "Die Hochrechnungen sehen die Grünen in Mecklenburg-Vorpommern knapp über der 5-Prozent-Hürde. Sie könnten regieren – trotz Ärger über Manuela Schwesig.",
    "u": "https://taz.de/Gruene-in-Mecklenburg-Vorpommern/!6213655/",
    "q": "taz",
    "d": "2026-09-20T17:47:00+00:00"
@@ -36,13 +120,6 @@
    "u": "https://taz.de/Berliner-Linkspartei/!6213518/",
    "q": "taz",
    "d": "2026-09-20T17:39:00+00:00"
-  },
-  {
-   "t": "Nach Landtagswahlen: Merz will an Reformkurs festhalten",
-   "s": "Bundeskanzler Merz hat sich zum Wahlausgang in Berlin und Mecklenburg-Vorpommern geäußert. Er bekräftigte, die aus seiner Sicht notwendigen Reformen durchsetzen zu wollen. Vizekanzler Klingbeil von der SPD äußerte sich jedoch kritischer.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-wahlen-mecklenburg-vorpommern-berlin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T17:38:59+00:00"
   },
   {
    "t": "AfD bei Berlin-Wahl: Hinter Linken, CDU und den eigenen Ansprüchen",
@@ -92,83 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-ltw-mecklenburg-vorpommern-2026-100.html",
    "q": "Tagesschau",
    "d": "2026-09-20T16:08:05+00:00"
-  },
-  {
-   "t": "Vorm Wahllokal in Mecklenburg-Vorpommern: „Die AfD ist mir zu lasch“",
-   "s": "Die einen finden an der AfD einfach „alles toll“, für die anderen sind die Rechtsextremen ein No-Go. Momentaufnahme eines gespaltenen Wahlvolks.",
-   "u": "https://taz.de/Vorm-Wahllokal-in-Mecklenburg-Vorpommern/!6213501/",
-   "q": "taz",
-   "d": "2026-09-20T16:06:00+00:00"
-  },
-  {
-   "t": "So wählten die Bevölkerungsgruppen in Berlin",
-   "s": "Wie stark unterscheidet sich das Wahlverhalten zwischen Jüngeren und Älteren, zwischen Männern und Frauen in Berlin? So schnitten die Parteien in den verschiedenen Bevölkerungsgruppen ab.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-abgeordnetenhauswahl-berlin-2026-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T16:05:44+00:00"
-  },
-  {
-   "t": "So wählten die Bevölkerungsgruppen in Mecklenburg-Vorpommern 2026",
-   "s": "Wem gaben Arbeiter in Mecklenburg-Vorpommern mehrheitlich ihre Stimme? Wer hatte den größten Rückhalt bei Frauen und wer bei Männern? Das Wahlverhalten der Bevölkerungsgruppen im interaktiven Überblick.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-landtagswahl-mecklenburg-vorpommern-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T16:05:07+00:00"
-  },
-  {
-   "t": "Berlin: Koalitionsrechner zur Abgeordnetenhauswahl 2026",
-   "s": "Die Wahlberechtigten in Berlin haben das neue Abgeordnetenhaus gewählt. Welche Bündnisse hätten eine Regierungsmehrheit? Testen Sie mit dem interaktiven Koalitionsrechner die rechnerischen Möglichkeiten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/koalitionsrechner-abgeordentenhaus-berlin-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T16:03:40+00:00"
-  },
-  {
-   "t": "Mecklenburg-Vorpommern: Koalitionsrechner zur Landtagswahl 2026",
-   "s": "Die Menschen in Mecklenburg-Vorpommern haben einen neuen Landtag gewählt. Welches Bündnis könnte künftig regieren? Testen Sie mit dem interaktiven Koalitionsrechner die rechnerischen Möglichkeiten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/koalitionsrechner-mecklenburg-vorpommern-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T16:02:35+00:00"
-  },
-  {
-   "t": "Argentinien unter Milei: Geschwächte Opposition beim „Marsch des Zorns“",
-   "s": "Die peronistische Opposition samt Gewerkschaftsverband CGT bleibt dem Protest linker Parteien und Organisationen gegen die Regierungspolitik fern.",
-   "u": "https://taz.de/Argentinien-unter-Milei/!6214824/",
-   "q": "taz",
-   "d": "2026-09-20T14:30:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: Verbotene Äpfel und Drohnen auf Moskau",
-   "s": "Am Wahlsonntag in Russland fliegen ukrainische Drohnen auf Moskau. In der Ukraine steht die besetzte Stadt Oleschky vor einer Hungerkatastrophe.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6214751/",
-   "q": "taz",
-   "d": "2026-09-20T14:11:00+00:00"
-  },
-  {
-   "t": "Ungewisser Wahlausgang: Wann wird es wie eng für den Kanzler?",
-   "s": "In Berlin steht für die CDU das Rote Rathaus auf dem Spiel, in Mecklenburg-Vorpommern droht den Christdemokraten ein einstelliges Ergebnis. Welche Folgen hätte das für Kanzler Merz?",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-szenarien-union-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T13:46:29+00:00"
-  },
-  {
-   "t": "Staatsanwalt prüft Todesfall in Klinik: Junge Frau auf dem Fixierbett gestorben",
-   "s": "Eine 26-Jährige stirbt nach der Fixierung in einer Kölner Psychiatrie. Die Familie sucht Antworten, die Staatsanwaltschaft prüft, ob die Klinik den Tod hätte verhindern können.",
-   "u": "https://taz.de/Nach-Todesfall-in-LVR-Klinik-Koeln/!6213891/",
-   "q": "taz",
-   "d": "2026-09-20T13:37:00+00:00"
-  },
-  {
-   "t": "Landtagswahl in Mecklenburg-Vorpommern: Vom Ich zum Wir",
-   "s": "Kirche, Kneipe und Konsum-Markt sind in vielen Orten verschwunden. Antje Kesten will mit einem Ersatz neue Begegnungen schaffen: ihrer Wunschmaschine.",
-   "u": "https://taz.de/Landtagswahl-in-Mecklenburg-Vorpommern/!6213587/",
-   "q": "taz",
-   "d": "2026-09-20T13:33:00+00:00"
-  },
-  {
-   "t": "Auswirkungen von Deepfakes in Lesotho: Wenn der König plötzlich lügt",
-   "s": "In Lesotho verbreiten sich Deepfakes aus den sozialen Medien bis ins UKW-Radio – auch weil Afrikas Informationsräume von globalen Tech-Konzernen dominiert sind.",
-   "u": "https://taz.de/Auswirkungen-von-Deepfakes-in-Lesotho/!6197712/",
-   "q": "taz",
-   "d": "2026-09-20T12:57:00+00:00"
   }
  ]
 }
