@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-09-21T08:58:20+00:00",
+ "updated": "2026-09-21T15:54:25+00:00",
  "items": [
+  {
+   "t": "Planetary Health Check: Patientin Erde ist schwer angeschlagen",
+   "s": "Wie geht es dem Planeten Erde? Schwindende Artenvielfalt, versauerte Meere und ausgelaugte Böden machen ihm zu schaffen. Laut dem aktuellen Planetary Health Check ist die Lage kritisch - aber nicht aussichtslos. Von Jan Kerckhoff.",
+   "u": "https://www.tagesschau.de/wissen/forschung/planetary-health-check-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T15:09:11+00:00"
+  },
   {
    "t": "Bolivien: Forscher entdecken neue Katzenart \"Leopardus tilcayo\"",
    "s": "Erstmals seit mehr als hundert Jahren haben Forscher in Südamerika eine bislang unbekannte Katzenart entdeckt. Das Tier ist hellbraun gefleckt und kleiner als eine Hauskatze. Es trägt nun den Namen \"Leopardus tilcayo\".",
@@ -32,7 +39,7 @@
   },
   {
    "t": "Studie: In der EU sinkt die Impfquote bei Kindern",
-   "s": "In vielen EU-Ländern gehen die Impfquoten bei Kindern zurück. Auch Deutschland ist betroffen, wie aus einer Studie hervorgeht. Auslöser war demnach vor allem die Corona-Pandemie.",
+   "s": "In vielen EU-Ländern gehen die Impfquoten bei Kindern zurück. Auch Deutschland ist betroffen, wie aus einer Studie hervorgeht. Der Rückgang begann demnach während der Corona-Pandemie.",
    "u": "https://www.tagesschau.de/wissen/gesundheit/impfungen-impfgegner-100.html",
    "q": "Tagesschau",
    "d": "2026-09-18T06:27:57+00:00"
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1640358.html",
    "q": "Tagesschau",
    "d": "2026-08-31T15:25:02+00:00"
-  },
-  {
-   "t": "Klimabilanz zum Sommerende",
-   "s": "Klimabilanz zum Sommerende",
-   "u": "https://www.tagesschau.de/video/video-1640352.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T15:23:01+00:00"
   }
  ]
 }

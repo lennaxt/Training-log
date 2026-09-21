@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-21T08:58:23+00:00",
+ "updated": "2026-09-21T15:54:27+00:00",
  "items": [
+  {
+   "t": "Duma-Scheinwahlen in Russland: Wladimir Putin sichert sich Durchmarsch",
+   "s": "Die Kreml-Partei Einiges Russland zieht laut Staatsangaben als stärkste Kraft in das Parlament ein. Drei weitere Parteien, die die Fünfprozenthürde nehmen, sind auf Linie.",
+   "u": "https://taz.de/Duma-Scheinwahlen-in-Russland/!6215003/",
+   "q": "taz",
+   "d": "2026-09-21T13:03:00+00:00"
+  },
+  {
+   "t": "Wahl in Russland: Wahlkommission verkündet Sieg der Regierungspartei",
+   "s": "Die Wahlkommission teilt mit, dass Einiges Russland die Wahl für sich entschieden hat. Mit dem Ergebnis sichert sich die Regierungspartei 355 der 450 Sitze.",
+   "u": "https://taz.de/Wahl-in-Russland/!6215030/",
+   "q": "taz",
+   "d": "2026-09-21T11:48:00+00:00"
+  },
   {
    "t": "Nationalistische Ressentiments: „Mal sehen, was Polen ohne uns macht“",
    "s": "Flüchtlinge aus der Ukraine verlassen in wachsender Zahl Polen. Es gibt dort immer mehr Übergriffe – und Polens extreme Rechte pöbelt immer lauter.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Rede-zur-Lage-der-EU/!6213605/",
    "q": "taz",
    "d": "2026-09-16T09:39:00+00:00"
-  },
-  {
-   "t": "Russland vor der Wahl: Wahlschein ausfüllen oder doch ungültig machen?",
-   "s": "In Russland wird das Parlament neu gewählt, das Ergebnis aber steht schon fest. Für Kriegsgegner ist es eine schwere Zeit, doch drei Optionen haben sie noch.",
-   "u": "https://taz.de/Russland-vor-der-Wahl/!6213270/",
-   "q": "taz",
-   "d": "2026-09-16T05:53:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: „Ihr macht uns keine Angst!“",
-   "s": "Die Millionenstadt Dnipro im Südosten der Ukraine ist immer wieder Ziel russischer Luftangriffe. Doch Moskaus Zermürbungstaktik geht nicht auf.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6212635/",
-   "q": "taz",
-   "d": "2026-09-15T17:48:00+00:00"
   }
  ]
 }

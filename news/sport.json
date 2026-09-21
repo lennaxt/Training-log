@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-21T08:58:25+00:00",
+ "updated": "2026-09-21T15:54:30+00:00",
  "items": [
+  {
+   "t": "Grenzkrieg am Hindukusch: Tote bei pakistanischen Luftangriffen in Afghanistan",
+   "s": "Drei Zivilisten sind laut afghanischer Regierung durch pakistanische Luftangriffe gestorben. Pakistan spricht von 28 toten mutmaßlichen Kämpfern.",
+   "u": "https://taz.de/Grenzkrieg-am-Hindukusch/!6215018/",
+   "q": "taz",
+   "d": "2026-09-21T11:44:00+00:00"
+  },
   {
    "t": "China, USA und KI: Gespräche über ein Meldesystem für KI-Sicherheitsrisiken",
    "s": "Am Sonntag sprach der US-Finanzminister mit Chinas Vize-Ministerpräsident. Ergebnis: Die Länder wollen künftig Informationen über KI-Vorfälle austauschen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Sturzflut-im-Himalaja/!6208488/",
    "q": "taz",
    "d": "2026-08-30T13:08:00+00:00"
-  },
-  {
-   "t": "Sturzflut in Nepal: Mehr als 4.400 Menschen gerettet",
-   "s": "Nach den verheerenden Sturzfluten laufen die Such- und Bergungsarbeiten weiter. Retter kämpfen sich durch Schlamm und suchen nach über 3.000 Vermissten.",
-   "u": "https://taz.de/Sturzflut-in-Nepal/!6207953/",
-   "q": "taz",
-   "d": "2026-08-28T18:03:00+00:00"
   }
  ]
 }

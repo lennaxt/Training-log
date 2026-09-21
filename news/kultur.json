@@ -1,7 +1,28 @@
 {
  "name": "Kultur",
- "updated": "2026-09-21T08:58:24+00:00",
+ "updated": "2026-09-21T15:54:28+00:00",
  "items": [
+  {
+   "t": "81. UN-Generalversammlung in New York: Kriege und KI im Fokus des UN-Gipfels",
+   "s": "Bei der jährlichen UN-Vollversammlung stehen wieder aktuelle Krisen und Herausforderungen im Mittelpunkt, echte Durchbrüche sind nicht zu erwarten.",
+   "u": "https://taz.de/81-UN-Generalversammlung-in-New-York/!6214845/",
+   "q": "taz",
+   "d": "2026-09-21T10:15:00+00:00"
+  },
+  {
+   "t": "Armutsbekämpfung in Brasilien: Geld für die Armen, Herzen fürs Volk",
+   "s": "Kurz vor den Präsidentschaftswahlen in Brasilien erhöht Lula da Silva die Sozialhilfe. Die Opposition klagt dagegen – und würde sie doch beibehalten.",
+   "u": "https://taz.de/Armutsbekaempfung-in-Brasilien/!6214741/",
+   "q": "taz",
+   "d": "2026-09-21T09:21:00+00:00"
+  },
+  {
+   "t": "Argentinien und Großbritannien: Neuer Anlauf im Inselkonflikt",
+   "s": "Argentiniens Präsident Javier Milei will die Malwinen (Falklandinseln) von den Briten zurück. Seine nächste Bühne: die UN-Generalversammlung.",
+   "u": "https://taz.de/Argentinien-und-Grossbritannien/!6214927/",
+   "q": "taz",
+   "d": "2026-09-21T09:01:00+00:00"
+  },
   {
    "t": "ICE in Texas: Beamte schießen Mann an",
    "s": "Die ICE steht wegen Gewalt gegen Migranten in der Kritik. Nun fallen erneut Schüsse, diesmal in Austin. Der Bürgermeister der Stadt fordert Aufarbeitung.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Hitze-in-Kolumbien/!6209279/",
    "q": "taz",
    "d": "2026-09-13T09:27:00+00:00"
-  },
-  {
-   "t": "Vor den Wahlen in Brasilien: Telenovela in der brasilianischen Justiz",
-   "s": "Kurz vor der Präsidentschaftswahl tauchen neue Ermittlungserkenntnisse gegen Flávio Bolsonaro auf. Auch der Oberste Gerichtshof könnte verwickelt sein.",
-   "u": "https://taz.de/Vor-den-Wahlen-in-Brasilien/!6212651/",
-   "q": "taz",
-   "d": "2026-09-13T08:48:00+00:00"
-  },
-  {
-   "t": "Gefakte Landkarte des US-Präsidenten: Sterne, Wasser und Kilometer",
-   "s": "Donald Trump postet eine Karte, die Kanada, Grönland, Mexiko, Kuba und Island in die Stars and Stripes hüllt. Hat was von mittelalterlichen Despoten.",
-   "u": "https://taz.de/Gefakte-Landkarte-des-US-Praesidenten/!6208076/",
-   "q": "taz",
-   "d": "2026-09-12T10:30:00+00:00"
-  },
-  {
-   "t": "New York City 25 Jahre nach 9/11: Anschlag auf ein Lebensgefühl",
-   "s": "Neoliberales Luxusprojekt: Die Turbo-Gentrifizierung nach dem 11. September hat die New Yorker von ihrer eigenen Stadt entfremdet.",
-   "u": "https://taz.de/New-York-City-25-Jahre-nach-9/11/!6212153/",
-   "q": "taz",
-   "d": "2026-09-11T08:50:00+00:00"
   }
  ]
 }

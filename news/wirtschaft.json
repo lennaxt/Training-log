@@ -1,13 +1,27 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-21T08:58:20+00:00",
+ "updated": "2026-09-21T15:54:24+00:00",
  "items": [
   {
-   "t": "Marktbericht: Für Anleger sind Ölpreise wichtiger als die Wahlen",
-   "s": "Die Hoffnung auf eine Entspannung im Nahen Osten drückt die Ölpreise und schiebt damit den DAX an. Die Wahlergebnisse vom Sonntag sind zwar ebenfalls Thema - aber noch bewegen sie nicht die Kurse.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
+   "t": "Datenschutz-Verstöße: Google muss 400 Millionen Euro Strafe zahlen",
+   "s": "Der US-Techkonzern Google ist zu einer Millionenstrafe wegen Verstoßes gegen EU-Recht verurteilt worden. Grund sind Datenschutzverstöße bei der Verarbeitung von Standortdaten der Google-Nutzer.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/google-eu-strafe-datenschutz-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-21T08:38:27+00:00"
+   "d": "2026-09-21T13:49:08+00:00"
+  },
+  {
+   "t": "Unternehmen sehen Bürokratie als größtes Standortproblem",
+   "s": "Die Bürokratie ist einer aktuellen Umfrage zufolge die größte Belastung für den Wirtschaftsstandort Deutschland. Dabei steigt der bürokratische Aufwand, je größer das Unternehmen ist.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/ifo-standort-buerokratie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T13:16:37+00:00"
+  },
+  {
+   "t": "Nach Berlin-Wahl: Enteignungs-Sorgen belasten Immobilienaktien",
+   "s": "Nach der Abgeordnetenhauswahl in Berlin stehen die Aktien deutscher Wohnungsbauunternehmen deutlich unter Druck. Auch wenn für Enteignungen hohe Hürden bestehen, scheuen die Anleger das Risiko.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-vonovia-deutsche-wohnen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T12:35:12+00:00"
   },
   {
    "t": "Spirituosen-Hersteller Berentzen vor Übernahme durch US-Konzern",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-oesterreich-100.html",
    "q": "Tagesschau",
    "d": "2026-09-15T08:17:51+00:00"
-  },
-  {
-   "t": "Bildungsmonitor 2026: Mehr Aufsteiger, mehr Absteiger",
-   "s": "Der aktuelle Bildungsmonitor der Initiative Neue Soziale Marktwirtschaft zeigt: Das Bildungsniveau sinkt, die Schere zwischen höher Gebildeten und Bildungsfernen wächst. Fast jeder fünfte junge Erwachsene hat keinen Abschluss. Von Andre Kartschall.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/bildungsmonitor-neue-soziale-markwirtschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-14T15:21:34+00:00"
-  },
-  {
-   "t": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
-   "s": "Kupfer kostet so viel wie nie. US-Zollsorgen, KI, Stromnetze und E-Autos treiben den Kupferpreis. Wo der Preisschub für Verbraucher spürbar werden könnte - vom Bauen bis zur Stromrechnung. Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/kupferpreis-rekordhoch-strom-verbraucher-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T13:03:38+00:00"
   }
  ]
 }
