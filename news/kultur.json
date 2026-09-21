@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-20T23:15:29+00:00",
+ "updated": "2026-09-21T08:58:24+00:00",
  "items": [
+  {
+   "t": "ICE in Texas: Beamte schießen Mann an",
+   "s": "Die ICE steht wegen Gewalt gegen Migranten in der Kritik. Nun fallen erneut Schüsse, diesmal in Austin. Der Bürgermeister der Stadt fordert Aufarbeitung.",
+   "u": "https://taz.de/ICE-in-Texas/!6214930/",
+   "q": "taz",
+   "d": "2026-09-21T07:20:00+00:00"
+  },
   {
    "t": "Trump und seine Umbenneritis: Sein Name, seine Stadt, seine Welt",
    "s": "Donald Trump will sich in Washington verewigen – im Fall des Kennedy-Centers sogar buchstäblich. Man muss sich sorgen um die Kulturinstitution.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/New-York-City-25-Jahre-nach-9/11/!6212153/",
    "q": "taz",
    "d": "2026-09-11T08:50:00+00:00"
-  },
-  {
-   "t": "Republikaner-Event in Texas: Angstgetöse, Hass und leere Ränge",
-   "s": "Scharfe Attacken gegen die Demokraten, Geld fürs Wählen: Die Trump-Show in Dallas ist zu Ende – fünf Lehren aus dem Republikaner-Parteitag.",
-   "u": "https://taz.de/Republikaner-Event-in-Texas/!6212485/",
-   "q": "taz",
-   "d": "2026-09-11T07:08:00+00:00"
   }
  ]
 }

@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-20T23:15:25+00:00",
+ "updated": "2026-09-21T08:58:19+00:00",
  "items": [
+  {
+   "t": "Selenskyj kündigt Treffen mit Trump diese Woche in New York an",
+   "s": "Der Staatschef der Ukraine, Selenskyj, hat für seinen Besuch in New York diese Woche ein Treffen mit US-Präsident Trump angekündigt. Zuvor hatte er demnach mit Trump telefoniert. Das Treffen könne \"vieles verändern\", so Selenskyj.",
+   "u": "https://www.tagesschau.de/ausland/amerika/treffen-selenskyj-trump-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T03:17:57+00:00"
+  },
+  {
+   "t": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
+   "s": "Sie ist nur eine kleine Redaktion, doch die Entscheidung, den griechischen Dienst der Deutschen Welle zu schließen, wurde zum Politikum. Die breite Kritik aus Griechenland überraschte den Rundfunkrat offenbar. Nun kam die Kehrtwende. Von J. Riemann.",
+   "u": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T02:22:58+00:00"
+  },
   {
    "t": "Italien fordert europäische Verstärkung für sichere Schifffahrt im Roten Meer",
    "s": "Italien fürchtet massive wirtschaftliche Schäden aufgrund der jüngsten Entwicklungen in der Meerenge Bab al-Mandab. Das Land fordert Unterstützung von der EU - nachdem es kürzlich noch einen Alleingang ins Spiel gebracht hatte.",
@@ -87,13 +101,6 @@
    "d": "2026-09-18T23:54:48+00:00"
   },
   {
-   "t": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
-   "s": "Vier Tage war Verteidigungsminister Pistorius in den USA. In Washington, New York und Fort Worth in Texas wird schnell klar, dass sich etwas verändert hat: Das Interesse der USA am Bündnispartner scheint neu erwacht. Von C. Nagel.",
-   "u": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T22:40:52+00:00"
-  },
-  {
    "t": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
    "s": "Der Nordwesten Pakistans gilt als Unruheregion. Nun gab es dort - im Grenzgebiet zu Afghanistan - erneut einen verheerenden Anschlag mit vielen Toten und Verletzten. Noch ist unklar, wer dahinter steckt.",
    "u": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/hormus-oel-umwelt-100.html",
    "q": "Tagesschau",
    "d": "2026-09-17T03:47:49+00:00"
-  },
-  {
-   "t": "Syrien: Größte Proteste seit Sturz von Assad",
-   "s": "Gleich zweimal in kurzer Zeit hat die syrische Regierung Energiepreise erhöht. Dagegen regt sich im Land nun breiter Protest. Die Energiekrise hängt weniger mit der Entwicklung rund um Iran zusammen - sondern mit einem anderen Krieg. Von M. Behrendt.",
-   "u": "https://www.tagesschau.de/ausland/asien/syrien-proteste-energiepreise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T18:11:51+00:00"
   }
  ]
 }

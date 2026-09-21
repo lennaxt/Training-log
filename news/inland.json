@@ -1,7 +1,133 @@
 {
  "name": "Inland",
- "updated": "2026-09-20T23:15:24+00:00",
+ "updated": "2026-09-21T08:58:18+00:00",
  "items": [
+  {
+   "t": "CDU sortiert sich nach Wahlniederlagen neu",
+   "s": "Die Wahlen in Mecklenburg-Vorpommern und Berlin sind für die CDU eine Zäsur. Erstmals hat sie es nicht in ein Landesparlament geschafft, in Berlin wird sie abgehängt. Wie kann es nun weitergehen? Die Partei sucht nach Antworten.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/cdu-nach-wahlen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T08:56:41+00:00"
+  },
+  {
+   "t": "CDU nach den Wahlen: Merz hat keine Chance - die könnte er nutzen",
+   "s": "Die CDU verliert in Berlin und scheitert in Mecklenburg-Vorpommern an der Fünf-Prozent-Hürde. Der Druck auf Kanzler Merz nimmt dadurch zu. Er will dennoch weitermachen. Die Frage ist nur: wie? Von Benjamin Großkopff.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-landtagswahlen-mecklenburg-vorpommern-berlin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T08:17:37+00:00"
+  },
+  {
+   "t": "Syrer in Deutschland: Dobrindt will Schutzstatus auf breiter Front aberkennen",
+   "s": "Der Bundesinnenminister will Syrern noch in diesem Herbst den Schutzstatus aberkennen. Zusätzlich plant er stärkere Anreize für freiwillige Ausreisen.",
+   "u": "https://taz.de/Syrer-in-Deutschland/!6214934/",
+   "q": "taz",
+   "d": "2026-09-21T07:43:00+00:00"
+  },
+  {
+   "t": "Forderung nach einem Wahlrecht für alle: „Wahlrecht muss unabhängig von Staatsbürgerschaft gelten“",
+   "s": "Deutschland braucht neue Regeln für Teilhabe, sagt der Politikwissenschaftler Halil Can. Nur so werde es der diversen Migrationsgesellschaft gerecht.",
+   "u": "https://taz.de/Forderung-nach-einem-Wahlrecht-fuer-alle/!6214219/",
+   "q": "taz",
+   "d": "2026-09-21T07:39:00+00:00"
+  },
+  {
+   "t": "ICE in Texas: Beamte schießen Mann an",
+   "s": "Die ICE steht wegen Gewalt gegen Migranten in der Kritik. Nun fallen erneut Schüsse, diesmal in Austin. Der Bürgermeister der Stadt fordert Aufarbeitung.",
+   "u": "https://taz.de/ICE-in-Texas/!6214930/",
+   "q": "taz",
+   "d": "2026-09-21T07:20:00+00:00"
+  },
+  {
+   "t": "China, USA und KI: Gespräche über ein Meldesystem für KI-Sicherheitsrisiken",
+   "s": "Am Sonntag sprach der US-Finanzminister mit Chinas Vize-Ministerpräsident. Ergebnis: Die Länder wollen künftig Informationen über KI-Vorfälle austauschen.",
+   "u": "https://taz.de/China-USA-und-KI/!6214922/",
+   "q": "taz",
+   "d": "2026-09-21T06:50:00+00:00"
+  },
+  {
+   "t": "Briefing: Wahlen in MV und Berlin - Linke in Berlin vorne – deutliche Niederlagen für CDU",
+   "s": "In Berlin könnte es erstmals eine Regierende Bürgermeisterin von den Linken geben. In Mecklenburg-Vorpommern siegt die AfD. Die CDU scheitert dort erstmals bei einer Landtagswahl an der Fünf-Prozent-Hürde. Kanzler Merz will seine Ämter behalten.",
+   "u": "https://www.deutschlandfunk.de/wahl-mecklenburg-vorpommern-berlin-ergebnisse-folgen-2026-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-21T06:11:00+00:00"
+  },
+  {
+   "t": "AfD sieht in Schwerin keine Regierungsoption",
+   "s": "Die AfD wertet ihr Abschneiden bei der Wahl in Mecklenburg-Vorpommern als großen Erfolg. Man habe die SPD vom Thron gestoßen und die CDU pulverisiert, sagte der Co-Vorsitzende Tino Chrupalla. Eine Regierungsoption sieht er dennoch nicht.May, Philipp",
+   "u": "https://www.deutschlandfunk.de/nach-den-wahlen-interview-mit-tino-chrupalla-afd-chef-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-21T06:10:00+00:00"
+  },
+  {
+   "t": "SPD-Ministerpräsidentin Rehlinger will \"echte Reformen\" statt Kürzungen",
+   "s": "Aus dem starken Abschneiden der AfD bei der Wahl in Mecklenburg-Vorpommern muss die Bundesregierung laut SPD-Vize Anke Rehlinger Konsequenzen ziehen. \"Aus Kürzungslisten müssen echte Reformen werden\", fordert sie. Wichtiges Thema: die Rentenreform.May, Philipp",
+   "u": "https://www.deutschlandfunk.de/nach-den-wahlen-interview-mit-anke-rehlinger-spd-mp-saarland-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-21T05:45:00+00:00"
+  },
+  {
+   "t": "Aufarbeitung der Jammeh-Diktatur: Eine Generation verlangt Rechenschaft",
+   "s": "Mit friedlichen Protesten fordert die Jugendbewegung GALA in Gambia eine konsequente Aufarbeitung der Jammeh-Diktatur.",
+   "u": "https://taz.de/Aufarbeitung-der-Jammeh-Diktatur/!6197671/",
+   "q": "taz",
+   "d": "2026-09-21T05:44:00+00:00"
+  },
+  {
+   "t": "Berlin und Mecklenburg-Vorpommern: Fünf Lehren aus den Wahlen",
+   "s": "Es gibt ein Rezept gegen die AfD, und das größte Problem der CDU ist nicht der Kanzler: Fünf Lehren aus den Landtagswahlen.",
+   "u": "https://taz.de/Berlin-und-Mecklenburg-Vorpommern/!6214911/",
+   "q": "taz",
+   "d": "2026-09-21T05:27:00+00:00"
+  },
+  {
+   "t": "CDU-Vize Prien räumt Mangel an Empathie ein",
+   "s": "Nach dem Wahldebakel in Mecklenburg-Vorpommern und Berlin sucht die CDU nach ihrem Kurs. Man müsse die berechtigten Ängste der Menschen erster nehmen, sagt CDU-Vizevorsitzende Karin Prien. Trotzdem dürfe die Regierung im Reformtempo nicht nachlassen.May, Philipp",
+   "u": "https://www.deutschlandfunk.de/nach-den-wahlen-interview-mit-karin-prien-stv-cdu-vorsitzende-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-21T05:20:00+00:00"
+  },
+  {
+   "t": "Info über GKV-Zusatzbeitrag: Immerhin eine Frechheit weniger",
+   "s": "Gesundheitsminister Linnemann macht einen Teil von Warkens Reform rückgängig. Krankenkassen müssen künftig wieder über Beitragserhöhungen informieren. Gut so!",
+   "u": "https://taz.de/Versicherte-muessen-wieder-ueber-Erhoehung-der-GKV-Zusatzbeitraege-informieren-Gut-so/!6214716/",
+   "q": "taz",
+   "d": "2026-09-21T05:14:00+00:00"
+  },
+  {
+   "t": "Gescheiterte „Ausländer-Maut“: Hat Scheuer bei der Aufklärung des Maut-Debakels gelogen?",
+   "s": "Die Staatsanwaltschaft ist davon überzeugt, dass der ehemalige Verkehrsminister falsch ausgesagt hat. Am Montag beginnt der Prozess in Berlin.",
+   "u": "https://taz.de/Gescheiterte-Auslaender-Maut/!6214761/",
+   "q": "taz",
+   "d": "2026-09-21T05:12:00+00:00"
+  },
+  {
+   "t": "Nationalistische Ressentiments: „Mal sehen, was Polen ohne uns macht“",
+   "s": "Flüchtlinge aus der Ukraine verlassen in wachsender Zahl Polen. Es gibt dort immer mehr Übergriffe – und Polens extreme Rechte pöbelt immer lauter.",
+   "u": "https://taz.de/Nationalistische-Ressentiments/!6214712/",
+   "q": "taz",
+   "d": "2026-09-21T05:06:00+00:00"
+  },
+  {
+   "t": "Grünen-Chefin Brantner findet Merz-Aussage verantwortungslos",
+   "s": "Das Wahlergebnis in Mecklenburg-Vorpommern wird nach Auffassung der Grünen-Co-Vorsitzenden Franziska Brantner unabsehbare Folgen für die Bundesregierung haben. Sie mahnt eine Korrektur der geplanten Reformen an und kritisiert Kanzler Merz scharf.May, Philipp",
+   "u": "https://www.deutschlandfunk.de/nach-den-wahlen-interview-mit-franziska-brantner-gruenen-chefin-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-21T04:50:00+00:00"
+  },
+  {
+   "t": "Mecklenburg-Vorpommern und Berlin: Fünf Erkenntnisse aus den Wahlen",
+   "s": "Was haben die Wahlen in Mecklenburg-Vorpommern und Berlin gebracht? Die Ränder sind stärker, auf die SPD könnte eine Personaldebatte zukommen, die AfD entdeckt einen neuen Feelgood-Sound. Tina Handel mit fünf Erkenntnissen aus der Doppelwahl.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/erkenntnisse-landtagswahlen-mecklenburg-vorpommern-berlin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T03:26:35+00:00"
+  },
+  {
+   "t": "Ex-Verkehrsminister Scheuer vor Gericht: Vorwurf der Falschaussage",
+   "s": "Das Aus der Pkw-Maut vor sieben Jahren kostete deutsche Steuerzahler Hunderte Millionen Euro. Nun muss sich Ex-Verkehrsminister Scheuer vor Gericht verantworten: Er soll vor dem Untersuchungsausschuss falsch ausgesagt haben. Von B. Sönnichsen.",
+   "u": "https://www.tagesschau.de/inland/pkw-maut-scheuer-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T02:36:45+00:00"
+  },
   {
    "t": "Analyse zur Wahl: Warum die Linke in Berlin so erfolgreich war",
    "s": "Die Linke hat dank einer Altersgruppe in Berlin gewonnen und aufs richtige Thema gesetzt, das zeigen Umfragen. Für die AfD ist dort manches anders als in anderen Bundesländern. Und alle Parteien hatten ziemlich unbekannte Kandidaten. Von H. Schwesinger.",
@@ -31,7 +157,7 @@
    "d": "2026-09-20T21:21:39+00:00"
   },
   {
-   "t": "Nach Landtagswahlen: Zwischen Desaster und Jubel",
+   "t": "Reaktionen auf die Landtagswahlen: Zwischen Desaster und Jubel",
    "s": "Kanzler Merz hat nach den Wahlen bekräftigt, die aus seiner Sicht nötigen Reformen durchsetzen zu wollen. Vizekanzler Klingbeil von der SPD räumte ein, das Thema Rente habe zu \"großer Verunsicherung\" geführt. Die AfD sieht sich erneut gestärkt.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-wahlen-mecklenburg-vorpommern-berlin-100.html",
    "q": "Tagesschau",
@@ -43,132 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-ltw-mecklenburg-vorpommern-2026-100.html",
    "q": "Tagesschau",
    "d": "2026-09-20T20:23:11+00:00"
-  },
-  {
-   "t": "Wahlen in Berlin und Meck-Pomm: Ein linker Sieg, der sich nicht so anfühlt",
-   "s": "Schwesigs Aufholjagd und Eralps deutlicher Sieg können nicht darüber hinwegtäuschen, wie viele Menschen ihre Stimme den Rechtsextremen gegeben haben.",
-   "u": "https://taz.de/Wahlen-in-Berlin-und-Meck-Pomm/!6210946/",
-   "q": "taz",
-   "d": "2026-09-20T19:21:00+00:00"
-  },
-  {
-   "t": "Kommentar zu den Landtagswahlen - Zwei Frauen wollen regieren - und Merz einfach weitermachen",
-   "s": "Friedrich Merz erklärt nach den schwachen CDU-Ergebnissen in Berlin und Mecklenburg-Vorpommern, dass er bleiben will. Gleichzeitig könnten mit Manuela Schwesig (SPD) und Elif Eralp (Linke) zwei sehr unterschiedliche Frauen Regierungschefinnen werden.Ein Kommentar von Friederike Sittler",
-   "u": "https://www.deutschlandfunk.de/landtagswahl-berlin-mecklenburg-vorpommern-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-20T18:30:00+00:00"
-  },
-  {
-   "t": "Nach den Landtagswahlen: Merz spielt auf Zeit",
-   "s": "Noch vor den ersten Hochrechnungen trat Kanzler Merz ans Mikro. Als Parteivorsitzender und Kanzler wolle er die Reformen voranbringen, betonte er. Der Druck auf ihn und die Bundesregierung dürfte hoch bleiben. Von Tina Handel.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-nach-den-wahlen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T18:20:08+00:00"
-  },
-  {
-   "t": "AfD mit Rekordergebnissen: Stadt, Land, ein bisschen Frust",
-   "s": "Die AfD fährt in Mecklenburg-Vorpommern ein Rekordergebnis ein und landet knapp vor der SPD. Berlin hingegen enttäuscht die Rechtsextremen.",
-   "u": "https://taz.de/AfD-mit-Rekordergebnissen/!6213654/",
-   "q": "taz",
-   "d": "2026-09-20T18:20:00+00:00"
-  },
-  {
-   "t": "Afrikas Sound für die Welt: Anerkennung auf globaler Bühne",
-   "s": "Afrobeats aus Westafrika sind weltweit in Mode – und die Musikbranche in Afrika wächst.",
-   "u": "https://taz.de/Afrikas-Sound-fuer-die-Welt/!6197793/",
-   "q": "taz",
-   "d": "2026-09-20T18:18:00+00:00"
-  },
-  {
-   "t": "Konflikt zwischen Saudis und Huthis: Saudi-Arabien blickt sich hilfesuchend um",
-   "s": "Der Angriff auf Riad markiert den Höhepunkt der Eskalation zwischen der Huthi-Miliz und den Saudis. Können Letztere auf internationalen Beistand setzen?",
-   "u": "https://taz.de/Konflikt-zwischen-Saudis-und-Huthis/!6214749/",
-   "q": "taz",
-   "d": "2026-09-20T18:16:00+00:00"
-  },
-  {
-   "t": "SPD-Ergebnis in Mecklenburg-Vorpommern: Knapp vorbei ist auch daneben",
-   "s": "Die SPD in Mecklenburg-Vorpommern hatte auf den Sieg gehofft. Es reicht nur für Platz 2. Trotzdem fährt die Partei ein Traumergebnis ein.",
-   "u": "https://taz.de/SPD-Ergebnis-in-Mecklenburg-Vorpommern/!6213650/",
-   "q": "taz",
-   "d": "2026-09-20T17:55:00+00:00"
-  },
-  {
-   "t": "Grüne in Mecklenburg-Vorpommern: Händchen halten für den Wiedereinzug",
-   "s": "Die Hochrechnungen sehen die Grünen in Mecklenburg-Vorpommern knapp über der 5-Prozent-Hürde. Sie könnten regieren – trotz Ärger über Manuela Schwesig.",
-   "u": "https://taz.de/Gruene-in-Mecklenburg-Vorpommern/!6213655/",
-   "q": "taz",
-   "d": "2026-09-20T17:47:00+00:00"
-  },
-  {
-   "t": "Linke gewinnt Abgeordnetenhauswahl: Berlin wird rot",
-   "s": "Elif Eralp führt die Linke zu einem historischen Wahlsieg in Berlin. Der Vorsprung vor der CDU ist groß. Auch die AfD hat sie in Schach gehalten.",
-   "u": "https://taz.de/Linke-gewinnt-Abgeordnetenhauswahl/!6213639/",
-   "q": "taz",
-   "d": "2026-09-20T17:43:00+00:00"
-  },
-  {
-   "t": "Wer zieht ein ins Berliner Rote Rathaus?: Demut statt Krach",
-   "s": "Mit der CDU oder mit der Linkspartei? Haben SPD und Grüne in Berlin noch eine Wahl? Am Ende könnte die Mehrheit der Sitze den Ausschlag geben.",
-   "u": "https://taz.de/Wer-zieht-ein-ins-Berliner-Rote-Rathaus/!6213641/",
-   "q": "taz",
-   "d": "2026-09-20T17:41:00+00:00"
-  },
-  {
-   "t": "Berliner Linkspartei: (Fast) alles richtig gemacht",
-   "s": "Die Linkspartei etabliert sich als klar stärkste Kraft im linken Lager. Daran dürfte sich so schnell nichts ändern – selbst wenn sie künftig regiert.",
-   "u": "https://taz.de/Berliner-Linkspartei/!6213518/",
-   "q": "taz",
-   "d": "2026-09-20T17:39:00+00:00"
-  },
-  {
-   "t": "AfD bei Berlin-Wahl: Hinter Linken, CDU und den eigenen Ansprüchen",
-   "s": "Die AfD steht bei rund 14 Prozent und nur auf Platz 4 bei der Wahl zum Berliner Abgeordnetenhaus. Rückenwind nach der Sachsen-Anhalt-Wahl blieb offenbar aus.",
-   "u": "https://taz.de/AfD-bei-Berlin-Wahl/!6213642/",
-   "q": "taz",
-   "d": "2026-09-20T17:27:00+00:00"
-  },
-  {
-   "t": "Abgeordnetenhaus Berlin: Wichtigste Umfragen im Überblick",
-   "s": "In Berlin ist ein weiteres knappes Rennen um das Rote Rathaus zu Ende gegangen. Was sind die Hauptgründe für das Ergebnis? Eine Erklärung in Umfragegrafiken von infratest dimap.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/umfragen-wichtigstes-abgeordnetenhaus-berlin-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T16:16:19+00:00"
-  },
-  {
-   "t": "Mecklenburg-Vorpommern: Wichtigste Umfragen im Überblick",
-   "s": "Die Landtagswahl hat die politische Landschaft im Nordosten massiv verändert. Was sind die Hauptgründe für dieses Ergebnis? Eine Erklärung in Umfrage-Grafiken von infratest dimap.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/umfragen-wichtigstes-ltw-mecklenburg-vorpommern-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T16:12:56+00:00"
-  },
-  {
-   "t": "Wählerwanderung in Berlin - wer holte Stimmen von wem?",
-   "s": "Wer bekam besonders viele Stimmen von früheren Nichtwählern? Woher kamen die Zugewinne etwa der AfD und Linkspartei? Und an wen gab andere Parteien Stimmen ab? Die Wählerwanderung auf Basis der Zahlen von infratest dimap.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-abgeordnetenhaus-berlin-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T16:10:02+00:00"
-  },
-  {
-   "t": "Trump und seine Umbenneritis: Sein Name, seine Stadt, seine Welt",
-   "s": "Donald Trump will sich in Washington verewigen – im Fall des Kennedy-Centers sogar buchstäblich. Man muss sich sorgen um die Kulturinstitution.",
-   "u": "https://taz.de/Trump-und-seine-Umbenneritis/!6208372/",
-   "q": "taz",
-   "d": "2026-09-20T16:10:00+00:00"
-  },
-  {
-   "t": "Melonis Plan für Italiens Schulen: Ausländerquote und Schleierverbot",
-   "s": "Italiens Ministerpräsidentin will das Tragen von Gesichtsschleiern in Schulen verbieten. Außerdem will sie Eltern zum Italienischlernen verpflichten.",
-   "u": "https://taz.de/Melonis-Plan-fuer-Italiens-Schulen/!6214863/",
-   "q": "taz",
-   "d": "2026-09-20T16:09:00+00:00"
-  },
-  {
-   "t": "Wählerwanderung: Wer in Mecklenburg-Vorpommern wo Stimmen holte",
-   "s": "Woher kommen die Zugewinne der AfD? Von welchen Parteien wandten sich frühere Wählerinnen und Wähler ab? Und wem gaben sie diesmal ihre Stimme? Die Wählerwanderung auf Basis der Zahlen von infratest dimap.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-ltw-mecklenburg-vorpommern-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T16:08:05+00:00"
   }
  ]
 }

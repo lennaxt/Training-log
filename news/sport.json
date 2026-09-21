@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-20T23:15:29+00:00",
+ "updated": "2026-09-21T08:58:25+00:00",
  "items": [
+  {
+   "t": "China, USA und KI: Gespräche über ein Meldesystem für KI-Sicherheitsrisiken",
+   "s": "Am Sonntag sprach der US-Finanzminister mit Chinas Vize-Ministerpräsident. Ergebnis: Die Länder wollen künftig Informationen über KI-Vorfälle austauschen.",
+   "u": "https://taz.de/China-USA-und-KI/!6214922/",
+   "q": "taz",
+   "d": "2026-09-21T06:50:00+00:00"
+  },
   {
    "t": "Terror im Nordwesten Pakistans: Mindestens 16 Tote bei Anschlag mit Autobombe",
    "s": "Ein Anschlag mit einer Autobombe trifft eine Polizeizentrale. Die Detonation beschädigt auch eine Moschee während des Freitagsgebets.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Sturzflut-in-Nepal/!6207953/",
    "q": "taz",
    "d": "2026-08-28T18:03:00+00:00"
-  },
-  {
-   "t": "Nach Sturzflut in Nepal und Tibet: Zahl der Toten im Himalaya steigt auf 682",
-   "s": "Zwei ‌Tage nach ‌der Sturzflut im Himalaja ist die Zahl der Toten in Nepal nach Angaben der Behörden auf mehr als 680 gestiegen. Neue Überschwemmungen drohen.",
-   "u": "https://taz.de/Nach-Sturzflut-in-Nepal-und-Tibet/!6207910/",
-   "q": "taz",
-   "d": "2026-08-28T06:13:00+00:00"
   }
  ]
 }

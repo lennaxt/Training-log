@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-20T23:15:28+00:00",
+ "updated": "2026-09-21T08:58:23+00:00",
  "items": [
+  {
+   "t": "Nationalistische Ressentiments: „Mal sehen, was Polen ohne uns macht“",
+   "s": "Flüchtlinge aus der Ukraine verlassen in wachsender Zahl Polen. Es gibt dort immer mehr Übergriffe – und Polens extreme Rechte pöbelt immer lauter.",
+   "u": "https://taz.de/Nationalistische-Ressentiments/!6214712/",
+   "q": "taz",
+   "d": "2026-09-21T05:06:00+00:00"
+  },
   {
    "t": "Melonis Plan für Italiens Schulen: Ausländerquote und Schleierverbot",
    "s": "Italiens Ministerpräsidentin will das Tragen von Gesichtsschleiern in Schulen verbieten. Außerdem will sie Eltern zum Italienischlernen verpflichten.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Krieg-in-der-Ukraine/!6212635/",
    "q": "taz",
    "d": "2026-09-15T17:48:00+00:00"
-  },
-  {
-   "t": "Schule in der Ukraine: Schulstart in Irpin mit KI und Schutzraum",
-   "s": "An dem technologisch ausgerichteten Lyzeum bei Kyjiw beginnt das fünfte Schuljahr im Krieg. Durch die Luftangriffe hat sich das Lernen digital versiert.",
-   "u": "https://taz.de/Schule-in-der-Ukraine/!6213130/",
-   "q": "taz",
-   "d": "2026-09-15T17:47:00+00:00"
   }
  ]
 }

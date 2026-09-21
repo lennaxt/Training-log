@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-20T23:15:26+00:00",
+ "updated": "2026-09-21T08:58:20+00:00",
  "items": [
+  {
+   "t": "Marktbericht: Für Anleger sind Ölpreise wichtiger als die Wahlen",
+   "s": "Die Hoffnung auf eine Entspannung im Nahen Osten drückt die Ölpreise und schiebt damit den DAX an. Die Wahlergebnisse vom Sonntag sind zwar ebenfalls Thema - aber noch bewegen sie nicht die Kurse.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T08:38:27+00:00"
+  },
+  {
+   "t": "Spirituosen-Hersteller Berentzen vor Übernahme durch US-Konzern",
+   "s": "Berentzen soll in die Vereinigten Staaten verkauft werden. Der US-Konzern Sazerac hat ein Übernahmeangebot angekündigt - das von dem Schnapsproduzenten aus dem Emsland unterstützt wird.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/berentzen-uebernahme-us-konzern-sazerac-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T08:31:09+00:00"
+  },
+  {
+   "t": "Vor Trump-Xi-Gipfel: China und USA beraten über KI",
+   "s": "Die USA und China befinden sich in einem Wettlauf um den Vorsprung bei Künstlicher Intelligenz. Diese Woche wollen die Präsidenten bei einem Treffen über KI sprechen. Vertreter beider Staaten haben nun vorab über die Risiken beraten.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-china-ki-gespraeche-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T06:54:14+00:00"
+  },
+  {
+   "t": "IG Metall ruft bundesweit zu Protest in der Autoindustrie auf",
+   "s": "Ob Wolfsburg, Zwickau oder Stuttgart - die IG Metall ruft für heute zu Protesten in der Autoindustrie auf. Die Gewerkschaft wendet sich gegen die zunehmenden Einschnitte für Beschäftigte. Es sollen Aktionen an mehr als 200 Orten geben.",
+   "u": "https://www.tagesschau.de/wirtschaft/ig-metall-automobil-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T06:09:26+00:00"
+  },
+  {
+   "t": "Immer mehr Produktrückrufe bei Lebensmitteln",
+   "s": "Immer mehr Lebensmittel werden vorsorglich aus dem Handel genommen, doch die Rückrufe erreichen nicht alle Verbraucher. Hinzu kommt: Es gibt nicht genug Kontrollen. Von Martin Küstermann.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/lebensmittel-rueckrufe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T04:45:15+00:00"
+  },
   {
    "t": "Ruhestand: Wie viel Vermögen Rentner wirklich ausgeben können",
    "s": "Viele Menschen haben fürs Alter Vermögen aufgebaut. Doch wie viel davon können sie im Ruhestand ausgeben? Eine bekannte Faustregel ist nicht für jeden Rentner die beste Lösung. Von Angela Göpfert.",
@@ -15,13 +50,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/essen-lebensmittel-verschwendung-100.html",
    "q": "Tagesschau",
    "d": "2026-09-20T03:38:41+00:00"
-  },
-  {
-   "t": "Auch Googles KI hackte Unternehmen",
-   "s": "Wiederholt haben KI-Systeme bei Tests unerwartet auf fremde Systeme zugegriffen. Nun wurden solche Vorfälle auch bei Googles Gemini bekannt. In der Debatte um KI-Sicherheit lässt Kalifornien mögliche strengere Sicherheitsvorgaben prüfen.",
-   "u": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T13:09:00+00:00"
   },
   {
    "t": "Berufsleben: Job weg, Abfindung - und dann?",
@@ -50,27 +78,6 @@
    "u": "https://www.tagesschau.de/video/video-1651430.html",
    "q": "Tagesschau",
    "d": "2026-09-18T18:06:58+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX gibt am großen Verfallstag nach",
-   "s": "Der deutsche Aktienmarkt hat die Woche mit Verlusten beendet. Die Anleger blickten mit Sorge auf die unsichere Lage im Nahen Osten. Auch der große Verfallstag sorgte für Bewegung.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T16:25:06+00:00"
-  },
-  {
-   "t": "Putin stellt Nestlé in Russland unter Zwangsverwaltung",
-   "s": "Auch nach Ausbruch des Ukraine-Krieges produzierte Nestlé weiter in Russland. Nun stellt Präsident Putin das Russland-Geschäft des Schweizer Lebensmittelkonzerns per Dekret unter Zwangsverwaltung. Es ist nicht der erste Konzern, dem das passiert.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nestle-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T09:49:03+00:00"
-  },
-  {
-   "t": "Dieselpreis auf neuem Allzeithoch",
-   "s": "Am zweiten Tag in Folge hat der Preis für Diesel ein neues Rekordhoch erreicht. Im Schnitt kostete der Liter zuletzt 2,471 Euro, so eine Auswertung des ADAC. Beim Benzinpreis ging es dagegen leicht nach unten.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/diesel-preis-rekordhoch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T09:45:26+00:00"
   },
   {
    "t": "Folgen des Irankriegs - Hohe Gewinne dank hoher Spritpreise",
@@ -108,32 +115,11 @@
    "d": "2026-09-17T14:57:00+00:00"
   },
   {
-   "t": "Zinserhöhung der US-Notenbank - ein Signal an Donald Trump?",
-   "s": "US-Präsident Trump möchte niedrigere Zinsen. Doch die Notenbank Federal Reserve hat den Leitzins erhöht. Was sagt die Entscheidung über die Unabhängigkeit von Fed-Chef Warsh? Von Michelle Goddemeier.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/fed-entscheidung-warsh-trump-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T12:31:22+00:00"
-  },
-  {
    "t": "Wie klimafreundlich sind die DAX-Unternehmen?",
    "s": "Wie gut setzen deutsche Unternehmen ihre Klimaziele um? Der Klima-Report einer Frankfurter Beratungsfirma versucht den Fortschritt messbar zu machen. Maßstab ist dabei der Beitrag zur Erderwärmung - gemessen in Temperaturen. Von Katharina Wilhelm.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/dax-unternehmen-klima-100.html",
    "q": "Tagesschau",
    "d": "2026-09-17T10:29:54+00:00"
-  },
-  {
-   "t": "Auftragsbestand in der Industrie steigt auf Rekordhoch",
-   "s": "Die Auftragsbücher deutscher Industrieunternehmen sind so voll wie noch nie. Besonders Aufträge für Flugzeuge, Schiffe, Züge und auch Militärfahrzeuge sorgen für viel Extrageschäft im Verarbeitenden Gewerbe.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/industrie-aufrtagsbestand-rekord-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T09:00:03+00:00"
-  },
-  {
-   "t": "OpenAI veröffentlicht weitere KI-Zwischenfälle",
-   "s": "Künstliche Intelligenz entwickelt sich rasant - mit teils ungewollten Folgen. Zuletzt löste etwa ein Hacker-Angriff durch KI-Software von OpenAI weltweit Sorgen aus. Jetzt informierte der Entwickler über sechs neue Zwischenfälle.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/openai-kuenstliche-intelligenz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T07:05:33+00:00"
   },
   {
    "t": "Wenn das Girokonto mehr als 100 Euro kostet: Wie der Wechsel gelingt",
@@ -143,20 +129,6 @@
    "d": "2026-09-17T04:28:03+00:00"
   },
   {
-   "t": "US-Notenbank erhöht Leitzins erstmals seit 2023",
-   "s": "Im Kampf gegen die hartnäckig hohe Inflation hebt die US-Notenbank Fed den Leitzins an. Er wurde um einen Viertelpunkt erhöht - auf die neue Spanne von 3,75 bis 4,00 Prozent. Experten hatten mit diesem Schritt gerechnet.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T00:07:20+00:00"
-  },
-  {
-   "t": "Kreditkarten-Schulden: Der Alltag der Amerikaner läuft auf Pump",
-   "s": "Nicht nur die Staatsschulden der USA sind enorm - auch viele Verbraucher sind angesichts hoher Lebenshaltungskosten im Minus. Viele jüngere Amerikaner haben hohe offene Kreditkarten-Rechnungen. Von Melanie Böff.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-kreditkarten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T11:36:53+00:00"
-  },
-  {
    "t": "Hohe Spritpreise - Kommentar: Die Abhängigkeit von Öl und Gas macht uns ärmer",
    "s": "Der Krieg in der Golfregion und seine Auswirkungen treiben die Ölpreise weiter nach oben. Staatliche Hilfen nach dem Gießkannenprinzip greifen jedoch zu kurz und senden falsche Signale. Zumal der hohe Ölpreis auch nachweislich positive Effekte hat.Ein Kommentar von Dorothee Holz",
    "u": "https://www.deutschlandfunk.de/kommentar-benzinpreise-oelpreis-irankrieg-100.html",
@@ -164,11 +136,39 @@
    "d": "2026-09-16T09:49:00+00:00"
   },
   {
-   "t": "Reederei-Verband: \"Wir sind Krisen und Kriege gewohnt\"",
-   "s": "Siebenstellige Mehrkosten verursacht die Umrundung Afrikas. Am Ende bezahlen das die Kunden. Doch die Preiserhöhungen liegen im Cent-Bereich, sagt Reederei-Experte Kröger. Er blickt gelassen auf die Lage: Schiffe fänden fast immer einen Weg.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-102.html",
+   "t": "Apotheken sollen stärker zu medizinischen Dienstleistern werden",
+   "s": "Apotheken stecken mitten in einem großen Wandel. Ein neues Gesetz will sie stärker in die Patientenversorgung einbinden. Sie sollen \"Gesundheitslotsen\" werden und mehr Kompetenzen bekommen. Ist das die Zukunft? Von Jenni Rieger.",
+   "u": "https://www.tagesschau.de/wirtschaft/apotheken-apothekertag-linnemann-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-15T17:05:36+00:00"
+   "d": "2026-09-15T11:39:22+00:00"
+  },
+  {
+   "t": "Schwieriger Umstieg der Speditionen auf Elektro-Lkw",
+   "s": "Auf der IAA Transportation in Hannover stellt die Nutzfahrzeugbranche ihre neuen Modelle vor. Der Umstieg auf Elektro-Lkw ist für Speditionen ein aufwendiger und vor allem auch teurer Schritt. Von Michael Eiden.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/umstieg-e-lkw-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T10:34:53+00:00"
+  },
+  {
+   "t": "Gasreserven vor dem Winter: Wie Österreich vorsorgt",
+   "s": "Deutschlands Gasspeicher waren zuletzt etwa zur Hälfte gefüllt - und die Sorge vor Engpässen im Winter wächst. In Österreich wirkt die Lage entspannter. Was macht das Nachbarland anders? Von Oliver Soos.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-oesterreich-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-15T08:17:51+00:00"
+  },
+  {
+   "t": "Bildungsmonitor 2026: Mehr Aufsteiger, mehr Absteiger",
+   "s": "Der aktuelle Bildungsmonitor der Initiative Neue Soziale Marktwirtschaft zeigt: Das Bildungsniveau sinkt, die Schere zwischen höher Gebildeten und Bildungsfernen wächst. Fast jeder fünfte junge Erwachsene hat keinen Abschluss. Von Andre Kartschall.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/bildungsmonitor-neue-soziale-markwirtschaft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-14T15:21:34+00:00"
+  },
+  {
+   "t": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
+   "s": "Kupfer kostet so viel wie nie. US-Zollsorgen, KI, Stromnetze und E-Autos treiben den Kupferpreis. Wo der Preisschub für Verbraucher spürbar werden könnte - vom Bauen bis zur Stromrechnung. Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/kupferpreis-rekordhoch-strom-verbraucher-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-13T13:03:38+00:00"
   }
  ]
 }
