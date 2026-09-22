@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-09-22T00:08:00+00:00",
+ "updated": "2026-09-22T08:33:44+00:00",
  "items": [
+  {
+   "t": "Alexander Steinfeldt, co2online gemeinnützige GmbH, zu Klimaschutz und Energiesparen",
+   "s": "Alexander Steinfeldt, co2online gemeinnützige GmbH, zu Klimaschutz und Energiesparen",
+   "u": "https://www.tagesschau.de/video/video-1653338.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T07:38:32+00:00"
+  },
   {
    "t": "Planetary Health Check: Patientin Erde ist schwer angeschlagen",
    "s": "Wie geht es dem Planeten Erde? Schwindende Artenvielfalt, versauerte Meere und ausgelaugte Böden machen ihm zu schaffen. Laut dem aktuellen Planetary Health Check ist die Lage kritisch - aber nicht aussichtslos. Von Jan Kerckhoff.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1641340.html",
    "q": "Tagesschau",
    "d": "2026-09-02T08:29:40+00:00"
-  },
-  {
-   "t": "Abgebrochener Gletscher vermutlich Ursache für die Sturzflut am Himalaya",
-   "s": "Abgebrochener Gletscher vermutlich Ursache für die Sturzflut am Himalaya",
-   "u": "https://www.tagesschau.de/video/video-1640358.html",
-   "q": "Tagesschau",
-   "d": "2026-08-31T15:25:02+00:00"
   }
  ]
 }

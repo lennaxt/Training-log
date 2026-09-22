@@ -1,7 +1,49 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-22T00:08:01+00:00",
+ "updated": "2026-09-22T08:33:45+00:00",
  "items": [
+  {
+   "t": "CSU fordert Enteignungsverbot: Beschützer der herrschenden Klasse",
+   "s": "Panik bei Immobilienbesitzern? Zum Glück gibt es die Union! Die CSU fordert nach Linken-Wahlsieg in Berlin ein schnelles Verbot von Enteignungen.",
+   "u": "https://taz.de/CSU-fordert-Enteignungsverbot/!6215226/",
+   "q": "taz",
+   "d": "2026-09-22T06:33:00+00:00"
+  },
+  {
+   "t": "Antifaschistin über Wahlen in MV: „Das Ergebnis ist beschissen“",
+   "s": "Angesichts der erstarkten AfD warnt Leila Proft von rostock.nazifrei vor steigender Gewalt und rechnet mit Fehlern von SPD und Linkspartei ab.",
+   "u": "https://taz.de/Wahlen-in-Mecklenburg-Vorpommern-Das-Ergebnis-ist-beschissen/!6215028/",
+   "q": "taz",
+   "d": "2026-09-22T06:25:00+00:00"
+  },
+  {
+   "t": "Rot-Rot-Grün im Bund: Früher war mehr Signalwirkung",
+   "s": "Bei den Landtagswahlen gewinnt zwei Mal Rot-Rot-Grün. Ein Vorbild für den Bund nach der Wahl 2029? Für die Verantwortlichen: eher nicht.",
+   "u": "https://taz.de/Rot-Rot-Gruen-im-Bund/!6215033/",
+   "q": "taz",
+   "d": "2026-09-22T05:07:00+00:00"
+  },
+  {
+   "t": "Nach der Wahl in Marzahn-Hellersdorf: „Für uns im Bezirk ist es eine Katastrophe“",
+   "s": "Die AfD wird in Marzahn-Hellersdorf stärkste Kraft und dominiert künftig im Bezirksparlament. An­ti­fa­schis­t*in­nen warnen vor den Folgen.",
+   "u": "https://taz.de/Nach-der-Wahl-in-Marzahn-Hellersdorf/!6215014/",
+   "q": "taz",
+   "d": "2026-09-22T05:04:00+00:00"
+  },
+  {
+   "t": "100 Tage GEAS-Reform: Eingesperrt am Flughafen",
+   "s": "Seit Juni ist die Reform des EU-Asylsystems GEAS in Kraft. Geflüchtete berichten Erschreckendes aus den neu eingeführten Grenzverfahren.",
+   "u": "https://taz.de/100-Tage-GEAS-Reform/!6214969/",
+   "q": "taz",
+   "d": "2026-09-22T05:01:00+00:00"
+  },
+  {
+   "t": "Chat mit Mitglied des Remmo-Clans: Ferat Koçak entschuldigt sich",
+   "s": "Firas Remmo veröffentlicht einen alten Chat mit dem Linken-Abgeordneten Koçak. Der sagt, er habe erst nicht gewusst, mit wem er schreibe, dann aber einen Fehler begangen.",
+   "u": "https://taz.de/Chat-mit-Mitglied-des-Remmo-Clans/!6215212/",
+   "q": "taz",
+   "d": "2026-09-21T19:31:00+00:00"
+  },
   {
    "t": "Berliner Linke: Das Stadtbild hat gewählt",
    "s": "Elif Eralp hat es geschafft, die Stadtgesellschaft in ihrer Breite anzusprechen. Doch über der Berliner Linken hängt hartnäckig der Antisemitismusverdacht.",
@@ -17,8 +59,8 @@
    "d": "2026-09-21T17:43:00+00:00"
   },
   {
-   "t": "Bundesregierung nach den Landtagswahlen: Merz versucht, noch mal die Kurve zu bekommen",
-   "s": "Erstmals scheitert die Union in einem Bundesland an der 5-Prozent-Hürde. Merz sieht nur die Flucht nach vorn – und weiß dabei die SPD an seiner Seite.",
+   "t": "Bundesregierung nach den Landtagswahlen: Merz versucht noch mal die Kurve zu bekommen",
+   "s": "Erstmals scheitert die Union in einem Bundesland an der Fünfprozenthürde. Merz sieht nur die Flucht nach vorn – und weiß dabei die SPD an seiner Seite.",
    "u": "https://taz.de/Bundesregierung-nach-den-Landtagswahlen/!6215031/",
    "q": "taz",
    "d": "2026-09-21T17:43:00+00:00"
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Wahlen-in-Berlin-und-Meck-Pomm/!6210946/",
    "q": "taz",
    "d": "2026-09-20T19:21:00+00:00"
-  },
-  {
-   "t": "SPD-Ergebnis in Mecklenburg-Vorpommern: Knapp vorbei ist auch daneben",
-   "s": "Die SPD in Mecklenburg-Vorpommern hatte auf den Sieg gehofft. Es reicht nur für Platz 2. Trotzdem fährt die Partei ein Traumergebnis ein.",
-   "u": "https://taz.de/SPD-Ergebnis-in-Mecklenburg-Vorpommern/!6213650/",
-   "q": "taz",
-   "d": "2026-09-20T17:55:00+00:00"
-  },
-  {
-   "t": "Wahlen in Berlin und MV: Eine Volkspartei blickt in den Abgrund",
-   "s": "Nie hat die CDU schlechter abgeschnitten: Im Norden verpasst sie den Einzug in den Landtag, in Berlin liegt sie hinter der Linken. Merz tritt die Flucht nach vorn an.",
-   "u": "https://taz.de/Wahlen-in-Berlin-und-MV/!6213624/",
-   "q": "taz",
-   "d": "2026-09-20T17:53:00+00:00"
-  },
-  {
-   "t": "Grüne in Mecklenburg-Vorpommern: Händchen halten für den Wiedereinzug",
-   "s": "Die Hochrechnungen sehen die Grünen in Mecklenburg-Vorpommern knapp über der 5-Prozent-Hürde. Sie könnten regieren – trotz Ärger über Manuela Schwesig.",
-   "u": "https://taz.de/Gruene-in-Mecklenburg-Vorpommern/!6213655/",
-   "q": "taz",
-   "d": "2026-09-20T17:47:00+00:00"
-  },
-  {
-   "t": "Linke gewinnt Abgeordnetenhauswahl: Berlin wird rot",
-   "s": "Elif Eralp führt die Linke zu einem historischen Wahlsieg in Berlin. Der Vorsprung vor der CDU ist groß. Auch die AfD hat sie in Schach gehalten.",
-   "u": "https://taz.de/Linke-gewinnt-Abgeordnetenhauswahl/!6213639/",
-   "q": "taz",
-   "d": "2026-09-20T17:43:00+00:00"
-  },
-  {
-   "t": "Wer zieht ein ins Berliner Rote Rathaus?: Demut statt Krach",
-   "s": "Mit der CDU oder mit der Linkspartei? Haben SPD und Grüne in Berlin noch eine Wahl? Am Ende könnte die Mehrheit der Sitze den Ausschlag geben.",
-   "u": "https://taz.de/Wer-zieht-ein-ins-Berliner-Rote-Rathaus/!6213641/",
-   "q": "taz",
-   "d": "2026-09-20T17:41:00+00:00"
-  },
-  {
-   "t": "Berliner Linkspartei: (Fast) alles richtig gemacht",
-   "s": "Die Linkspartei etabliert sich als klar stärkste Kraft im linken Lager. Daran dürfte sich so schnell nichts ändern – selbst wenn sie künftig regiert.",
-   "u": "https://taz.de/Berliner-Linkspartei/!6213518/",
-   "q": "taz",
-   "d": "2026-09-20T17:39:00+00:00"
   }
  ]
 }

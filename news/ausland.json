@@ -1,7 +1,49 @@
 {
  "name": "Ausland",
- "updated": "2026-09-22T00:07:58+00:00",
+ "updated": "2026-09-22T08:33:42+00:00",
  "items": [
+  {
+   "t": "Ficos Balanceakt zwischen Kreml-Nähe und NATO-Verpflichtungen",
+   "s": "Der slowakische Premier Fico warnt vor einem Krieg mit Russland und stellt mögliche NATO-Kampfeinsätze infrage. Zugleich boomt die heimische Rüstungsindustrie. Im In- und Ausland sorgt Ficos Rhetorik für Kritik. Von M. Allweiss.",
+   "u": "https://www.tagesschau.de/ausland/slowakei-fico-110.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T07:08:21+00:00"
+  },
+  {
+   "t": "EU-Staaten streiten über Russland-Sanktionen",
+   "s": "In der kommenden Nacht laufen EU-Sanktionen gegen Russland aus. Eigentlich sollen sie verlängert werden. Doch einige Staaten wollen zwei milliardenschwere Oligarchen von der Liste streichen. Das sorgt für Diskussionen.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-210.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T07:00:14+00:00"
+  },
+  {
+   "t": "Trumps Streit mit den Medien in den USA eskaliert",
+   "s": "Der US-Präsident verbannt den weltbekannten Sender CNN und andere Medien aus dem Weißen Haus. Die Betroffenen wehren sich juristisch und bekommen Unterstützung von anderen Medien - auch vom Trump-freundlichen Sender Fox News. Von Ralf Borchard.",
+   "u": "https://www.tagesschau.de/ausland/usa-medien-trump-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T05:17:01+00:00"
+  },
+  {
+   "t": "Tote und Vermisste nach Taifun \"Dujuan\" in Japan",
+   "s": "Seit Wochen gibt es immer wieder heftige Niederschläge in Japan - nun traf ein Taifun den Großraum Tokio. Mindestens vier Menschen starben, mehrere werden vermisst. Noch immer drohen Erdrutsche.",
+   "u": "https://www.tagesschau.de/ausland/japan-taifun-108.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T04:08:44+00:00"
+  },
+  {
+   "t": "Reaktionen auf Wahlen: Deutschland sorgt gerade viele in Frankreich",
+   "s": "\"Sehr beunruhigend\" und \"ein schwerer Moment für Europa\": Viele in Frankreich fürchten die Folgen der starken Zuwächse der AfD bei den Landtagswahlen. Nur die Rechte im Land hält sich auffällig zurück. Von M. Strempel.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-afd-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T02:05:13+00:00"
+  },
+  {
+   "t": "UN-Generaldebatte in New York - Rede von Trump geplant",
+   "s": "Treffen mit Selenskyj, Grönland-Abkommen: Am Rande der UN-Generaldebatte stehen für Trump gleich mehrere Termine auf dem Plan. Auch eine Rede will er wieder halten - nach einem denkwürdigen Auftritt im vergangenen Jahr. Von M. Ganslmeier.",
+   "u": "https://www.tagesschau.de/ausland/un-trump-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T00:39:03+00:00"
+  },
   {
    "t": "Nach Rauswurf durch Trump - Sender schränken Berichterstattung ein",
    "s": "Im Streit um den Ausschluss der Korrespondenten von CNN und weiterer Medien aus dem Weißen Haus zeigen andere große Sender Solidarität und schränken ihre Berichterstattung ein. Zugleich verklagen die betroffenen Medien die Regierung.",
@@ -80,32 +122,11 @@
    "d": "2026-09-20T01:55:19+00:00"
   },
   {
-   "t": "Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang",
-   "s": "US-Präsident Trump hatte angekündigt, CNN, MS NOW und Politico aus dem Weißen Haus zu verbannen. Und tatsächlich: Die Reporter wurden heute abgewiesen, ihre Presseausweise deaktiviert.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T15:53:33+00:00"
-  },
-  {
-   "t": "USA: Trump setzt neues Sanktionspaket gegen Russland in Kraft",
-   "s": "Einreiseverbote, Strafzölle und eingefrorene Vermögen: US-Präsident Trump hat verschärfte Sanktionen gegen Russland mit seiner Unterschrift in Kraft gesetzt. Eine scharfe Reaktion aus Russland folgte prompt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-sanktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T14:52:46+00:00"
-  },
-  {
    "t": "Wie geht China mit den Gefahren durch Künstliche Intelligenz um?",
    "s": "Debatten um die Eindämmung der Gefahren durch Künstliche Intelligenz enden in den USA meist mit dem Hinweis, dass China dann einen gefährlichen Vorsprung erlange. Doch wo steht Peking in der Debatte? Von Jörg Endriss.",
    "u": "https://www.tagesschau.de/ausland/asien/china-ki-wettlauf-100.html",
    "q": "Tagesschau",
    "d": "2026-09-19T13:08:46+00:00"
-  },
-  {
-   "t": "Was ist über das mögliche Grönland-Abkommen bekannt?",
-   "s": "Im Streit um US-Ansprüche auf Grönland scheint sich eine Einigung zwischen den USA, Dänemark und Grönland abzuzeichnen - in Form eines gemeinsamen Abkommens. Was darüber bekannt ist - und worin die Brisanz im Streit um die Insel liegt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/groenland-abkommen-usa-daenemark-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T11:02:09+00:00"
   },
   {
    "t": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/bruessel-carney-eu-besuch-100.html",
    "q": "Tagesschau",
    "d": "2026-09-17T17:19:34+00:00"
-  },
-  {
-   "t": "Nach Parlamentswahl in Schweden: Knapper Sieg für Mitte-links-Lager",
-   "s": "Der von Ulf Kristersson geführte konservativ-rechte Parteienblock musste bei der Wahl in Schweden eine Niederlage hinnehmen. Der Regierungschef trat zurück. Die bisherige Opposition steht mit Magdalena Andersson vor einer schwierigen Regierungsbildung.",
-   "u": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-ruecktritt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T15:13:34+00:00"
-  },
-  {
-   "t": "Plan der EU-Kommission: Drei Altersstufen für Soziale Medien",
-   "s": "Unter 13, bis 15 und bis 18 - in diesen Schritten soll die Nutzung Sozialer Medien durch Minderjährige geregelt werden: Das schlägt die EU-Kommission mit dem EU Kids Act vor. Süchtig machende Funktionen sollen ganz verboten werden. Von K. Schmid.",
-   "u": "https://www.tagesschau.de/ausland/europa/soziale-medien-gesetz-eu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T12:45:28+00:00"
-  },
-  {
-   "t": "Wie stellt Kanada sich die \"einzigartige Allianz\" vor?",
-   "s": "Kanada und die EU wollen noch mehr zusammenarbeiten. Wie genau das aussehen könnte, ist noch unklar. In seiner Rede vor dem EU-Parlament könnte Premier Carney heute ein paar der offenen Fragen beantworten. Von Giselle Ucar.",
-   "u": "https://www.tagesschau.de/ausland/europa/kanada-eu-carney-rede-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T04:30:03+00:00"
   }
  ]
 }

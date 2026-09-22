@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-09-22T00:08:04+00:00",
+ "updated": "2026-09-22T08:33:47+00:00",
  "items": [
+  {
+   "t": "Medien im Weißen Haus: US-Sender nehmen Trump „Off Air“ in Solidarität mit CNN",
+   "s": "In den USA hatte die Regierung CNN und anderen Sendern den Zutritt zum Weißen Haus verboten. Medienpool-Mitglieder zeigen sich solidarisch – auch Fox.",
+   "u": "https://taz.de/Medien-im-Weissen-Haus/!6215227/",
+   "q": "taz",
+   "d": "2026-09-22T07:37:00+00:00"
+  },
+  {
+   "t": "Wahlmanipulation in den USA: Von „Gerrymandering“ bis Wahlmaschinenklau",
+   "s": "In den USA versucht die Trumpregierung mit verschiedenen Mitteln die Midterm-Wahlen zu beeinflussen. Demokraten und Zivilgesellschaft halten dagegen.",
+   "u": "https://taz.de/Wahlmanipulation-in-den-USA/!6214999/",
+   "q": "taz",
+   "d": "2026-09-22T05:14:00+00:00"
+  },
   {
    "t": "Medien in Kolumbien: Verklagen, bedrohen, überfahren",
    "s": "Seit Präsident de la Espriella im Amt ist, ist das Klima für unabhängige Medien in Kolumbien gefährlich geworden. Und es könnte schlimmer werden.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Wahlkampf-in-den-USA/!6213239/",
    "q": "taz",
    "d": "2026-09-15T07:57:00+00:00"
-  },
-  {
-   "t": "Honduras unter Präsident Asfura: Justiz im Dienste der Eliten",
-   "s": "Seit rund sechs Monaten ist Asfura Präsident von Honduras und seine Bilanz ist verheerend. Die Gewalt nimmt zu und es kehren korrupte Strukturen zurück.",
-   "u": "https://taz.de/Honduras-unter-Praesident-Asfura/!6212622/",
-   "q": "taz",
-   "d": "2026-09-15T05:30:00+00:00"
-  },
-  {
-   "t": "Kolumbien liberalisiert Waffenrecht: Der bewaffnete „Gute“ und die Sorge vor mehr Selbstjustiz",
-   "s": "Der ultrarechte Präsident Kolumbiens de la Espriella lockert das Waffenrecht. Die Rechte im Parlament feiert, die Opposition kündigt Klagen an.",
-   "u": "https://taz.de/Kolumbien-verschaerft-Waffenrecht/!6212841/",
-   "q": "taz",
-   "d": "2026-09-14T15:50:00+00:00"
   }
  ]
 }

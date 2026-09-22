@@ -1,7 +1,28 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-22T00:08:00+00:00",
+ "updated": "2026-09-22T08:33:43+00:00",
  "items": [
+  {
+   "t": "Marktbericht: Anleger warten auf Trumps UN-Auftritt",
+   "s": "Nach dem starken Wochenstart bleiben die Anleger zurückhaltend. Sie hoffen auf diplomatische Perspektiven: US-Präsident Trump könnte am Rande der heutigen UN-Generalversammlung mit Vertretern Irans zusammentreffen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T08:29:02+00:00"
+  },
+  {
+   "t": "Heizkosten steigen 2026 laut Prognose an",
+   "s": "Die Heizkosten für deutsche Haushalte steigen laut einer Prognose auch in diesem Jahr weiter an. Dabei gibt es Unterschiede zwischen den einzelnen Heizarten, denn nicht alle Brennstoffe werden teurer.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/prognose-heizkosten-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T08:06:34+00:00"
+  },
+  {
+   "t": "Kabinett bringt Tankrabatt auf den Weg",
+   "s": "Am 1. Oktober soll der neue Tankrabatt kommen - nun hat das Kabinett den Gesetzentwurf im Umlaufverfahren beschlossen. Bundestag und Bundesrat sollen ihn noch in dieser Woche billigen.",
+   "u": "https://www.tagesschau.de/wirtschaft/tankrabatt-254.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T07:52:20+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 21.09.2026",
    "s": "Wirtschaft vor acht vom 21.09.2026",
@@ -15,13 +36,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/warner-paramount-110.html",
    "q": "Tagesschau",
    "d": "2026-09-21T17:20:54+00:00"
-  },
-  {
-   "t": "Marktbericht: Entspannung am Ölmarkt stützt den DAX",
-   "s": "Gibt es wieder Bewegung zwischen den USA und Iran? Die Hoffnung darauf ließ die Ölpreise weiter fallen und verhalf dem DAX zu einem starken Wochenstart. Unter Druck standen Immobilientitel.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T16:27:04+00:00"
   },
   {
    "t": "Was Beschäftigte in der Autoindustrie dem Management vorwerfen",
@@ -43,13 +57,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/ifo-standort-buerokratie-100.html",
    "q": "Tagesschau",
    "d": "2026-09-21T13:16:37+00:00"
-  },
-  {
-   "t": "Nach Berlin-Wahl: Enteignungs-Sorgen belasten Immobilienaktien",
-   "s": "Nach der Abgeordnetenhauswahl in Berlin stehen die Aktien deutscher Wohnungsbauunternehmen deutlich unter Druck. Auch wenn für Enteignungen hohe Hürden bestehen, scheuen die Anleger das Risiko.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-vonovia-deutsche-wohnen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T12:35:12+00:00"
   },
   {
    "t": "Spirituosen-Hersteller Berentzen vor Übernahme durch US-Konzern",
@@ -106,13 +113,6 @@
    "u": "https://www.deutschlandfunk.de/schweden-bargeld-rueckkehr-pflicht-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-19T08:23:00+00:00"
-  },
-  {
-   "t": "Weißstorch oder Beethoven: Europäer reden bei neuen Banknoten mit",
-   "s": "Das Design der Euroscheine ist in die Jahre gekommen. Bei der anstehenden Überarbeitung lässt die EZB die Bürgerinnen und Bürger jetzt mitreden. Noch bis Montag kann abgestimmt werden. Von Ursula Mayer.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-neue-banknoten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T03:09:49+00:00"
   },
   {
    "t": "Folgen des Irankriegs - Hohe Gewinne dank hoher Spritpreise",

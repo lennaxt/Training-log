@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-22T00:08:03+00:00",
+ "updated": "2026-09-22T08:33:46+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Tote bei russischem Luftangriff auf Industriestadt Dnipro",
+   "s": "Die Ukraine wird erneut von nächtlichen Luftangriffen Russlands getroffen. Die EU ringt um Aufhebung von Sanktionen gegen zwei russische Oligarchen.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6215235/",
+   "q": "taz",
+   "d": "2026-09-22T07:42:00+00:00"
+  },
   {
    "t": "Melonis Pläne für Schulen: Minderheitsverwirrung in Italien",
    "s": "Italiens Regierungschefin Meloni will den Anteil ausländischer Kinder in Schulklassen begrenzen. Umgesehen hat sie sich an den Schulen wohl nicht.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Von-der-Leyen-zur-Lage-der-EU/!6213636/",
    "q": "taz",
    "d": "2026-09-16T15:29:00+00:00"
-  },
-  {
-   "t": "Kriegsverbrechen im Kosovo: 25 Jahre Haft für Hashim Thaçi",
-   "s": "Das Sondergericht in Den Haag verurteilt Kosovos Ex-Präsident Thaçi wegen Verbrechen im Unabhängigkeitskrieg. Kosovaren protestieren gegen das Urteil.",
-   "u": "https://taz.de/Kriegsverbrechen-im-Kosovo/!6213637/",
-   "q": "taz",
-   "d": "2026-09-16T15:05:00+00:00"
   }
  ]
 }
