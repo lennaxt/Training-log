@@ -1,7 +1,35 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-21T15:54:24+00:00",
+ "updated": "2026-09-22T00:08:00+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 21.09.2026",
+   "s": "Wirtschaft vor acht vom 21.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1653096.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T17:58:05+00:00"
+  },
+  {
+   "t": "Klage gegen Paramount: Streit über Warner-Übernahme offenbar beigelegt",
+   "s": "Der Weg scheint frei für die Übernahme des Medienkonzerns Warner durch den Konkurrenten Paramount. Es habe einen Vergleich mit den US-Bundesstaaten gegeben, die dagegen geklagt hatten, wie verschiedene Medien berichten.",
+   "u": "https://www.tagesschau.de/wirtschaft/warner-paramount-110.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T17:20:54+00:00"
+  },
+  {
+   "t": "Marktbericht: Entspannung am Ölmarkt stützt den DAX",
+   "s": "Gibt es wieder Bewegung zwischen den USA und Iran? Die Hoffnung darauf ließ die Ölpreise weiter fallen und verhalf dem DAX zu einem starken Wochenstart. Unter Druck standen Immobilientitel.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T16:27:04+00:00"
+  },
+  {
+   "t": "Was Beschäftigte in der Autoindustrie dem Management vorwerfen",
+   "s": "Ob bei Zulieferern oder den Herstellern - bei Beschäftigten in der Autoindustrie wachsen die Sorgen. Beim Aktionstag der IG Metall machen sie ihrem Ärger Luft - etwa in Baden-Württemberg. Von Fabian Siegel",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/autoindustrie-protest-aktionstag-mercedes-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T15:56:46+00:00"
+  },
   {
    "t": "Datenschutz-Verstöße: Google muss 400 Millionen Euro Strafe zahlen",
    "s": "Der US-Techkonzern Google ist zu einer Millionenstrafe wegen Verstoßes gegen EU-Recht verurteilt worden. Grund sind Datenschutzverstöße bei der Verarbeitung von Standortdaten der Google-Nutzer.",
@@ -87,13 +115,6 @@
    "d": "2026-09-19T03:09:49+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 18.09.2026",
-   "s": "Wirtschaft vor acht vom 18.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1651430.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T18:06:58+00:00"
-  },
-  {
    "t": "Folgen des Irankriegs - Hohe Gewinne dank hoher Spritpreise",
    "s": "An den Tankstellen steigen die Spritpreise auf Rekordstände, bei den großen Ölkonzernen die Gewinne. Finanzminister Lars Klingbeil würde die Konzerne daher gern stärker zur Kasse bitten. In Europa hat man damit bereits Erfahrungen gesammelt.",
    "u": "https://www.deutschlandfunk.de/spritpreise-irankrieg-profit-uebergewinnsteuer-oelkonzerne-100.html",
@@ -148,27 +169,6 @@
    "u": "https://www.deutschlandfunk.de/kommentar-benzinpreise-oelpreis-irankrieg-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-16T09:49:00+00:00"
-  },
-  {
-   "t": "Apotheken sollen stärker zu medizinischen Dienstleistern werden",
-   "s": "Apotheken stecken mitten in einem großen Wandel. Ein neues Gesetz will sie stärker in die Patientenversorgung einbinden. Sie sollen \"Gesundheitslotsen\" werden und mehr Kompetenzen bekommen. Ist das die Zukunft? Von Jenni Rieger.",
-   "u": "https://www.tagesschau.de/wirtschaft/apotheken-apothekertag-linnemann-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T11:39:22+00:00"
-  },
-  {
-   "t": "Schwieriger Umstieg der Speditionen auf Elektro-Lkw",
-   "s": "Auf der IAA Transportation in Hannover stellt die Nutzfahrzeugbranche ihre neuen Modelle vor. Der Umstieg auf Elektro-Lkw ist für Speditionen ein aufwendiger und vor allem auch teurer Schritt. Von Michael Eiden.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/umstieg-e-lkw-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T10:34:53+00:00"
-  },
-  {
-   "t": "Gasreserven vor dem Winter: Wie Österreich vorsorgt",
-   "s": "Deutschlands Gasspeicher waren zuletzt etwa zur Hälfte gefüllt - und die Sorge vor Engpässen im Winter wächst. In Österreich wirkt die Lage entspannter. Was macht das Nachbarland anders? Von Oliver Soos.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-oesterreich-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T08:17:51+00:00"
   }
  ]
 }

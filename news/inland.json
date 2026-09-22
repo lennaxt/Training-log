@@ -1,10 +1,136 @@
 {
  "name": "Inland",
- "updated": "2026-09-21T15:54:22+00:00",
+ "updated": "2026-09-22T00:07:57+00:00",
  "items": [
   {
+   "t": "SPD-Vize Rehlinger fordert \"echte Reformen und nicht nur Kürzungsvorschläge\"",
+   "s": "Für SPD-Vizechefin Rehlinger sind die jüngsten Wahlergebnisse ein Signal, dass sich etwas ändern müsse. Das \"Störgefühl\" vieler Menschen beim Rentenpaket könne sie nachvollziehen. Bei den Reformen müssten Union und SPD nun zusammenkommen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/wahlen-regierung-rehlinger-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T22:55:54+00:00"
+  },
+  {
+   "t": "\"Gerechtigkeitsproblem\": Merz tritt Debatte über Krankenkassen los",
+   "s": "Für viele überraschend hat sich Kanzler Merz zum dualen System der Krankenkassen geäußert. Viele sähen darin ein \"Gerechtigkeitsproblem\", über das man sprechen müsse. Seine Aussage ruft deutliche Kritik hervor - aber auch Lob.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-private-krankenversicherung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T20:59:55+00:00"
+  },
+  {
+   "t": "CDU-Wahlschlappe: Neuer Kurs, alte Probleme",
+   "s": "Der Bundeskanzler und CDU-Chef kämpft nach dem erneuten Wahldebakel um sein Amt. Die SPD setzt sich vom Reformkurs ab. Merz will daran festhalten und hofft auf Unterstützung. Von Jakob Mayr.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-mv-berlin-cdu-folgen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T18:03:50+00:00"
+  },
+  {
+   "t": "Berliner Linke: Das Stadtbild hat gewählt",
+   "s": "Elif Eralp hat es geschafft, die Stadtgesellschaft in ihrer Breite anzusprechen. Doch über der Berliner Linken hängt hartnäckig der Antisemitismusverdacht.",
+   "u": "https://taz.de/Berliner-Linke/!6214991/",
+   "q": "taz",
+   "d": "2026-09-21T17:44:00+00:00"
+  },
+  {
+   "t": "Bundesregierung nach den Landtagswahlen: Merz versucht, noch mal die Kurve zu bekommen",
+   "s": "Erstmals scheitert die Union in einem Bundesland an der 5-Prozent-Hürde. Merz sieht nur die Flucht nach vorn – und weiß dabei die SPD an seiner Seite.",
+   "u": "https://taz.de/Bundesregierung-nach-den-Landtagswahlen/!6215031/",
+   "q": "taz",
+   "d": "2026-09-21T17:43:00+00:00"
+  },
+  {
+   "t": "Nach Wahlsieg der Linken: Willkommen in der islamo-sozialistischen Höllendiktatur",
+   "s": "Der Wahlsieg der Linken löst in bürgerlichen und rechten Kreisen eine Kernschmelze aus. Doch hinter der Schmierkampagne steht ein gefährliches Kalkül.",
+   "u": "https://taz.de/Wahlsieg-in-Berlin-Willkommen-in-der-islamo-sozialistischen-Hoellendiktatur/!6214966/",
+   "q": "taz",
+   "d": "2026-09-21T17:43:00+00:00"
+  },
+  {
+   "t": "Jung­wäh­le­r*in­nen in Berlin: Das Herz schlägt links",
+   "s": "In Berlin haben über 40 Prozent der unter 25-Jährigen die Linke gewählt. Darüber darf man sich trotz über 16 Prozent für die AfD auch mal freuen.",
+   "u": "https://taz.de/Berlin-Ueber-40-der-unter-25-Jaehrigen-hat-die-Linke-gewaehlt/!6214984/",
+   "q": "taz",
+   "d": "2026-09-21T17:42:00+00:00"
+  },
+  {
+   "t": "Melonis Pläne für Schulen: Minderheitsverwirrung in Italien",
+   "s": "Italiens Regierungschefin Meloni will den Anteil ausländischer Kinder in Schulklassen begrenzen. Umgesehen hat sie sich an den Schulen wohl nicht.",
+   "u": "https://taz.de/Melonis-Plaene-fuer-Schulen/!6215006/",
+   "q": "taz",
+   "d": "2026-09-21T17:42:00+00:00"
+  },
+  {
+   "t": "Künstliche Intelligenz und Klimakrise: UN-Klimachef sieht Tech-Konzerne in der Pflicht",
+   "s": "Die großen Tech-Konzerne müssten mehr tun gegen die Klimakrise, fordert der Klimachef der UN – gerade in Hinblick auf künstliche Intelligenz.",
+   "u": "https://taz.de/KI-und-Klimakrise-UN-Klimachef-sieht-Tech-Konzerne-in-der-Pflicht/!6214920/",
+   "q": "taz",
+   "d": "2026-09-21T17:41:00+00:00"
+  },
+  {
+   "t": "Wahlen in Russland: Abstimmung über den Krieg",
+   "s": "Ohne Überraschung hat die Putin-Partei die Wahlen gewonnen. Doch das Verknüpfen mit dem Krieg zeigt, dass der Machthaber Loyalitätsbeweise braucht.",
+   "u": "https://taz.de/Wahlen-in-Russland/!6214963/",
+   "q": "taz",
+   "d": "2026-09-21T17:41:00+00:00"
+  },
+  {
+   "t": "Funkloch: Weimer spricht, aber antwortet nicht",
+   "s": "Wolfram Weimer wird zum 3. Oktober eine Rede halten. Republikanischer wäre, er ließe sich herab, Rechenschaft über seine kruden Äußerungen abzulegen.",
+   "u": "https://taz.de/Funkloch/!6215070/",
+   "q": "taz",
+   "d": "2026-09-21T17:40:00+00:00"
+  },
+  {
+   "t": "Gesundheitskrise in Uganda: Ugandas Kampf gegen Ebola",
+   "s": "In Kampala werden Ebola-Patient:innen behandelt. Doch wegen mangelnder Finanzierung fehlen Mittel für Schutzausrüstung.",
+   "u": "https://taz.de/Gesundheitskrise-in-Uganda/!6197787/",
+   "q": "taz",
+   "d": "2026-09-21T17:37:00+00:00"
+  },
+  {
+   "t": "Merz kündigt Gesetz gegen linke Enteignungspläne an",
+   "s": "Die Vergesellschaftungspläne der Linkspartei in Berlin schlagen hohe Wellen: Kanzler Merz will Enteignungen per Gesetz verbieten lassen. Die Bankenbranche mahnt, Investoren könnten verschreckt und Immobilienkredite teurer werden.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/enteignung-vergesellschaftung-wohnungen-berlin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T17:11:31+00:00"
+  },
+  {
+   "t": "Krise der CDU: Gefährliches Vakuum in der bürgerlichen Mitte",
+   "s": "Friedrich Merz wollte den Zuspruch zur AfD halbieren, aber er hat für ein CDU-Desaster gesorgt. Schuld haben nicht andere, sondern er und seine Partei.",
+   "u": "https://taz.de/Krise-der-CDU/!6210973/",
+   "q": "taz",
+   "d": "2026-09-21T16:34:00+00:00"
+  },
+  {
+   "t": "Medien in Kolumbien: Verklagen, bedrohen, überfahren",
+   "s": "Seit Präsident de la Espriella im Amt ist, ist das Klima für unabhängige Medien in Kolumbien gefährlich geworden. Und es könnte schlimmer werden.",
+   "u": "https://taz.de/Medien-in-Kolumbien/!6214952/",
+   "q": "taz",
+   "d": "2026-09-21T16:21:00+00:00"
+  },
+  {
+   "t": "AfD nach Landtagswahlen: Weidel und die Legende von den „linken Nazis“",
+   "s": "Nach den Wahlen verbreitet die AfD-Chefin einen rechten Mythos. Ihrem Ziel, die CDU zu zerstören, rückt die AfD derweil ein Stück näher.",
+   "u": "https://taz.de/AfD-nach-Landtagswahlen/!6215026/",
+   "q": "taz",
+   "d": "2026-09-21T16:09:00+00:00"
+  },
+  {
+   "t": "Wahlsieg der Linken in Berlin: Jung, weiblich, mit Abi",
+   "s": "Die Linke hat die Berliner Abgeordnetenhauswahl klar gewonnen. Ein Blick in die Statistik zeigt, wem sie ihren Wahlsieg verdankt.",
+   "u": "https://taz.de/Wahlsieg-der-Linken-in-Berlin/!6215159/",
+   "q": "taz",
+   "d": "2026-09-21T16:02:00+00:00"
+  },
+  {
+   "t": "Elif Eralp und Manuela Schwesig: Weiblicher Wahlsieg",
+   "s": "Die Spitzenkandidatinnen Schwesig und Eralp haben erkannt, was es heute braucht: soziale Ansprache und ein Gefühl für die Nöte der Menschen.",
+   "u": "https://taz.de/Elif-Eralp-und-Manuela-Schwesig-Beide-haben-erkannt-was-im-Wahlkampf-von-heute-wichtig-ist/!6214960/",
+   "q": "taz",
+   "d": "2026-09-21T16:01:00+00:00"
+  },
+  {
    "t": "CDU-Aus in Mecklenburg-Vorpommern: Fassungslosigkeit nach dem Super-GAU",
-   "s": "Erstmals in der Geschichte der Bundesrepublik ist die CDU nun APO. Daran sei auch der eigene Landesverband schuld, heißt es aus der Partei in Mecklenburg-Vorpommern.",
+   "s": "Erstmals in ihrer Geschichte ist die CDU nun APO. Daran sei auch der Landesverband schuld, heißt es aus Mecklenburg-Vorpommern. Landeschef Daniel Peters tritt zurück.",
    "u": "https://taz.de/CDU-Aus-in-Mecklenburg-Vorpommern/!6215015/",
    "q": "taz",
    "d": "2026-09-21T15:47:00+00:00"
@@ -43,132 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-158.html",
    "q": "Tagesschau",
    "d": "2026-09-21T14:06:38+00:00"
-  },
-  {
-   "t": "MV und Berlin: CDU-Aus und andere historische Ergebnisse",
-   "s": "Die Metropole Berlin und das am dünnsten besiedelte Bundesland Mecklenburg-Vorpommern unterscheiden sich in fast allem. Eines aber haben sie gemeinsam: historische Ergebnisse bei den gestrigen Wahlen. Ein Überblick.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/historisches-ltw-mv-berlin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T13:57:41+00:00"
-  },
-  {
-   "t": "Duma-Scheinwahlen in Russland: Wladimir Putin sichert sich Durchmarsch",
-   "s": "Die Kreml-Partei Einiges Russland zieht laut Staatsangaben als stärkste Kraft in das Parlament ein. Drei weitere Parteien, die die Fünfprozenthürde nehmen, sind auf Linie.",
-   "u": "https://taz.de/Duma-Scheinwahlen-in-Russland/!6215003/",
-   "q": "taz",
-   "d": "2026-09-21T13:03:00+00:00"
-  },
-  {
-   "t": "Wahl in Russland: Wahlkommission verkündet Sieg der Regierungspartei",
-   "s": "Die Wahlkommission teilt mit, dass Einiges Russland die Wahl für sich entschieden hat. Mit dem Ergebnis sichert sich die Regierungspartei 355 der 450 Sitze.",
-   "u": "https://taz.de/Wahl-in-Russland/!6215030/",
-   "q": "taz",
-   "d": "2026-09-21T11:48:00+00:00"
-  },
-  {
-   "t": "Grenzkrieg am Hindukusch: Tote bei pakistanischen Luftangriffen in Afghanistan",
-   "s": "Drei Zivilisten sind laut afghanischer Regierung durch pakistanische Luftangriffe gestorben. Pakistan spricht von 28 toten mutmaßlichen Kämpfern.",
-   "u": "https://taz.de/Grenzkrieg-am-Hindukusch/!6215018/",
-   "q": "taz",
-   "d": "2026-09-21T11:44:00+00:00"
-  },
-  {
-   "t": "Politologin: Personaldebatte um Merz würde die CDU noch mehr schwächen",
-   "s": "Das Wahldebakel in Mecklenburg-Vorpommern und Berlin erhöht den Druck auf Friedrich Merz. Ihn als Kanzler zu hinterfragen, hilft der CDU nicht, sagt Politologin Marianne Kneuer. In einer anderen Frage bescheinigt sie der Partei eine neue Klarheit.Klein, Bettina",
-   "u": "https://www.deutschlandfunk.de/wahlanalyse-interview-mit-politologin-marianne-kneuer-tu-dresden-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-21T10:21:00+00:00"
-  },
-  {
-   "t": "81. UN-Generalversammlung in New York: Kriege und KI im Fokus des UN-Gipfels",
-   "s": "Bei der jährlichen UN-Vollversammlung stehen wieder aktuelle Krisen und Herausforderungen im Mittelpunkt, echte Durchbrüche sind nicht zu erwarten.",
-   "u": "https://taz.de/81-UN-Generalversammlung-in-New-York/!6214845/",
-   "q": "taz",
-   "d": "2026-09-21T10:15:00+00:00"
-  },
-  {
-   "t": "Politische Teilhabe in Liberia: Junges Land, alte Macht",
-   "s": "Drei von vier Li­be­ria­ne­r:in­nen sind jünger als 35 – doch in Parlament und Politik ist die junge Generation kaum vertreten.",
-   "u": "https://taz.de/Politische-Teilhabe-in-Liberia/!6197675/",
-   "q": "taz",
-   "d": "2026-09-21T09:47:00+00:00"
-  },
-  {
-   "t": "CDU sortiert sich nach Wahlniederlagen neu",
-   "s": "Die Wahlen in Mecklenburg-Vorpommern und Berlin sind für die CDU eine Zäsur. Erstmals hat sie es nicht in ein Landesparlament geschafft, in Berlin wird sie abgehängt. Wie kann es nun weitergehen? Die Partei sucht nach Antworten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/cdu-nach-wahlen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T09:21:42+00:00"
-  },
-  {
-   "t": "Armutsbekämpfung in Brasilien: Geld für die Armen, Herzen fürs Volk",
-   "s": "Kurz vor den Präsidentschaftswahlen in Brasilien erhöht Lula da Silva die Sozialhilfe. Die Opposition klagt dagegen – und würde sie doch beibehalten.",
-   "u": "https://taz.de/Armutsbekaempfung-in-Brasilien/!6214741/",
-   "q": "taz",
-   "d": "2026-09-21T09:21:00+00:00"
-  },
-  {
-   "t": "Personalwechsel nach den Landtagswahlen: Grüne brauchen neuen General",
-   "s": "Generalsekretärin Pegah Edalatian kandidiert nach taz-Informationen nicht für eine zweite Amtszeit. Im Vorstand will sie aber in anderer Rolle bleiben.",
-   "u": "https://taz.de/Personalwechsel-nach-den-Landtagswahlen/!6214778/",
-   "q": "taz",
-   "d": "2026-09-21T09:04:00+00:00"
-  },
-  {
-   "t": "Argentinien und Großbritannien: Neuer Anlauf im Inselkonflikt",
-   "s": "Argentiniens Präsident Javier Milei will die Malwinen (Falklandinseln) von den Briten zurück. Seine nächste Bühne: die UN-Generalversammlung.",
-   "u": "https://taz.de/Argentinien-und-Grossbritannien/!6214927/",
-   "q": "taz",
-   "d": "2026-09-21T09:01:00+00:00"
-  },
-  {
-   "t": "CDU nach den Wahlen: Merz hat keine Chance - die könnte er nutzen",
-   "s": "Die CDU verliert in Berlin und scheitert in Mecklenburg-Vorpommern an der Fünf-Prozent-Hürde. Der Druck auf Kanzler Merz nimmt dadurch zu. Er will dennoch weitermachen. Die Frage ist nur: wie? Von Benjamin Großkopff.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-landtagswahlen-mecklenburg-vorpommern-berlin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T08:17:37+00:00"
-  },
-  {
-   "t": "Nach den Landtagswahlen - Wie weiter in Bund und Ländern?",
-   "s": "Die CDU musste bei den Landtagswahlen in Berlin und Mecklenburg-Vorpommern herbe Niederlagen einstecken, die AfD konnte ihren Siegeszug fortsetzen und die Linke triumphiert in Berlin. Welche Konsequenzen muss die Bundesregierung daraus ziehen?Kaess, Christiane",
-   "u": "https://www.deutschlandfunk.de/nach-den-landtags-wahlen-in-mecklenburg-vorpommern-und-berlin-wie-weiter-in-bu-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-21T08:08:00+00:00"
-  },
-  {
-   "t": "Syrer in Deutschland: Dobrindt will Schutzstatus auf breiter Front aberkennen",
-   "s": "Der Bundesinnenminister will Syrern noch in diesem Herbst den Schutzstatus aberkennen. Zusätzlich plant er stärkere Anreize für freiwillige Ausreisen.",
-   "u": "https://taz.de/Syrer-in-Deutschland/!6214934/",
-   "q": "taz",
-   "d": "2026-09-21T07:43:00+00:00"
-  },
-  {
-   "t": "Forderung nach einem Wahlrecht für alle: „Wahlrecht muss unabhängig von Staatsbürgerschaft gelten“",
-   "s": "Deutschland braucht neue Regeln für Teilhabe, sagt der Politikwissenschaftler Halil Can. Nur so werde es der diversen Migrationsgesellschaft gerecht.",
-   "u": "https://taz.de/Forderung-nach-einem-Wahlrecht-fuer-alle/!6214219/",
-   "q": "taz",
-   "d": "2026-09-21T07:39:00+00:00"
-  },
-  {
-   "t": "ICE in Texas: Beamte schießen Mann an",
-   "s": "Die ICE steht wegen Gewalt gegen Migranten in der Kritik. Nun fallen erneut Schüsse, diesmal in Austin. Der Bürgermeister der Stadt fordert Aufarbeitung.",
-   "u": "https://taz.de/ICE-in-Texas/!6214930/",
-   "q": "taz",
-   "d": "2026-09-21T07:20:00+00:00"
-  },
-  {
-   "t": "China, USA und KI: Gespräche über ein Meldesystem für KI-Sicherheitsrisiken",
-   "s": "Am Sonntag sprach der US-Finanzminister mit Chinas Vize-Ministerpräsident. Ergebnis: Die Länder wollen künftig Informationen über KI-Vorfälle austauschen.",
-   "u": "https://taz.de/China-USA-und-KI/!6214922/",
-   "q": "taz",
-   "d": "2026-09-21T06:50:00+00:00"
-  },
-  {
-   "t": "Linken-Fraktionschefin Reichinnek: Menschen wollen bezahlbare Mieten",
-   "s": "Nach ihrem Wahlsieg in Berlin will sich die Linke weiter für eine Enteignung großer Immobilienkonzerne einsetzen. Fraktionschefin Heidi Reichinnek kündigte an, ihre Partei werde das Thema in die Sondierungsgespräche einbringen.May, Philipp",
-   "u": "https://www.deutschlandfunk.de/nach-den-wahlen-interview-mit-heidi-reichinnek-linken-fraktionschefin-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-21T06:19:00+00:00"
   }
  ]
 }

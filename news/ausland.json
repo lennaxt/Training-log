@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-21T15:54:23+00:00",
+ "updated": "2026-09-22T00:07:58+00:00",
  "items": [
+  {
+   "t": "Nach Rauswurf durch Trump - Sender schränken Berichterstattung ein",
+   "s": "Im Streit um den Ausschluss der Korrespondenten von CNN und weiterer Medien aus dem Weißen Haus zeigen andere große Sender Solidarität und schränken ihre Berichterstattung ein. Zugleich verklagen die betroffenen Medien die Regierung.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-medien-trump-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T18:36:07+00:00"
+  },
+  {
+   "t": "Japan wappnet sich für Taifun \"Dujuan\"",
+   "s": "Taifun \"Dujuan\" bewegt sich auf Japan zu. Im Großraum Tokio sollen sich 1,6 Millionen Menschen vorsorglich in Sicherheit bringen, Hunderte Flüge wurden gestrichen. Die Behörden warnen vor Starkregen und Erdrutschen.",
+   "u": "https://www.tagesschau.de/ausland/asien/taifun-dujuan-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-21T16:02:43+00:00"
+  },
   {
    "t": "Was ein Notschalter für KI bringen könnte",
    "s": "Die Entwicklung von KI verläuft rasant. Rufe nach Regulierungen werden laut - und nach einem sogenannten Notschalter. Doch wie könnte das funktionieren - und vor allem: Wer dürfte ihn betätigen? Von Antje Sieb.",
@@ -94,13 +108,6 @@
    "d": "2026-09-19T11:02:09+00:00"
   },
   {
-   "t": "Trump will CNN und andere Medien aus dem Weißen Haus verbannen",
-   "s": "US-Präsident Trump legt im Streit mit kritischen Medien nach: Nun sollen CNN, MS NOW und Politico aus dem Weißen Haus weichen. Was das konkret bedeutet, ist noch unklar - und es zeichnet sich Widerstand ab. Von R. Borchard.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T06:08:18+00:00"
-  },
-  {
    "t": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
    "s": "Der Nordwesten Pakistans gilt als Unruheregion. Nun gab es dort - im Grenzgebiet zu Afghanistan - erneut einen verheerenden Anschlag mit vielen Toten und Verletzten. Noch ist unklar, wer dahinter steckt.",
    "u": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/kanada-eu-carney-rede-100.html",
    "q": "Tagesschau",
    "d": "2026-09-17T04:30:03+00:00"
-  },
-  {
-   "t": "Kampf um die Straße von Hormus: Eine Bedrohung auch für die Umwelt",
-   "s": "Minen in der Straße von Hormus, Beschuss von Tankern: Satellitenbilder zeigen nun, was das für die Umwelt bedeutet. Rund um die Meerenge gibt es laut Greenpeace mehrere Ölteppiche. Viele Schutzgebiete seien bedroht. Von N. Amin.",
-   "u": "https://www.tagesschau.de/ausland/asien/hormus-oel-umwelt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T03:47:49+00:00"
   }
  ]
 }

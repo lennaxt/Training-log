@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-21T15:54:27+00:00",
+ "updated": "2026-09-22T00:08:03+00:00",
  "items": [
+  {
+   "t": "Melonis Pläne für Schulen: Minderheitsverwirrung in Italien",
+   "s": "Italiens Regierungschefin Meloni will den Anteil ausländischer Kinder in Schulklassen begrenzen. Umgesehen hat sie sich an den Schulen wohl nicht.",
+   "u": "https://taz.de/Melonis-Plaene-fuer-Schulen/!6215006/",
+   "q": "taz",
+   "d": "2026-09-21T17:42:00+00:00"
+  },
+  {
+   "t": "Wahlen in Russland: Abstimmung über den Krieg",
+   "s": "Ohne Überraschung hat die Putin-Partei die Wahlen gewonnen. Doch das Verknüpfen mit dem Krieg zeigt, dass der Machthaber Loyalitätsbeweise braucht.",
+   "u": "https://taz.de/Wahlen-in-Russland/!6214963/",
+   "q": "taz",
+   "d": "2026-09-21T17:41:00+00:00"
+  },
   {
    "t": "Duma-Scheinwahlen in Russland: Wladimir Putin sichert sich Durchmarsch",
    "s": "Die Kreml-Partei Einiges Russland zieht laut Staatsangaben als stärkste Kraft in das Parlament ein. Drei weitere Parteien, die die Fünfprozenthürde nehmen, sind auf Linie.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Kriegsverbrechen-im-Kosovo/!6213637/",
    "q": "taz",
    "d": "2026-09-16T15:05:00+00:00"
-  },
-  {
-   "t": "Repression in der Türkei: Festnahmen bei Demos gegen LGBTIQ-Repression",
-   "s": "In der Türkei kam es nach landesweiten Razzien gegen queere Institutionen zu Protesten. Dabei wurden erneut Menschen festgenommen.",
-   "u": "https://taz.de/Repression-in-der-Tuerkei/!6213727/",
-   "q": "taz",
-   "d": "2026-09-16T13:47:00+00:00"
-  },
-  {
-   "t": "Rede zur Lage der EU: Die Pläne der Ursula von der Leyen",
-   "s": "Die EU-Kommissionspräsidentin hat ihre jährliche Rede vor dem EU-Parlament gehalten. Es ging um ein Social-Media-Verbot für Kinder, Verteidigung, Hitze und Kanada.",
-   "u": "https://taz.de/Rede-zur-Lage-der-EU/!6213605/",
-   "q": "taz",
-   "d": "2026-09-16T09:39:00+00:00"
   }
  ]
 }

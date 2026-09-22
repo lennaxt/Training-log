@@ -1,10 +1,80 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-21T15:54:26+00:00",
+ "updated": "2026-09-22T00:08:01+00:00",
  "items": [
   {
+   "t": "Berliner Linke: Das Stadtbild hat gewählt",
+   "s": "Elif Eralp hat es geschafft, die Stadtgesellschaft in ihrer Breite anzusprechen. Doch über der Berliner Linken hängt hartnäckig der Antisemitismusverdacht.",
+   "u": "https://taz.de/Berliner-Linke/!6214991/",
+   "q": "taz",
+   "d": "2026-09-21T17:44:00+00:00"
+  },
+  {
+   "t": "Nach Wahlsieg der Linken: Willkommen in der islamo-sozialistischen Höllendiktatur",
+   "s": "Der Wahlsieg der Linken löst in bürgerlichen und rechten Kreisen eine Kernschmelze aus. Doch hinter der Schmierkampagne steht ein gefährliches Kalkül.",
+   "u": "https://taz.de/Wahlsieg-in-Berlin-Willkommen-in-der-islamo-sozialistischen-Hoellendiktatur/!6214966/",
+   "q": "taz",
+   "d": "2026-09-21T17:43:00+00:00"
+  },
+  {
+   "t": "Bundesregierung nach den Landtagswahlen: Merz versucht, noch mal die Kurve zu bekommen",
+   "s": "Erstmals scheitert die Union in einem Bundesland an der 5-Prozent-Hürde. Merz sieht nur die Flucht nach vorn – und weiß dabei die SPD an seiner Seite.",
+   "u": "https://taz.de/Bundesregierung-nach-den-Landtagswahlen/!6215031/",
+   "q": "taz",
+   "d": "2026-09-21T17:43:00+00:00"
+  },
+  {
+   "t": "Jung­wäh­le­r*in­nen in Berlin: Das Herz schlägt links",
+   "s": "In Berlin haben über 40 Prozent der unter 25-Jährigen die Linke gewählt. Darüber darf man sich trotz über 16 Prozent für die AfD auch mal freuen.",
+   "u": "https://taz.de/Berlin-Ueber-40-der-unter-25-Jaehrigen-hat-die-Linke-gewaehlt/!6214984/",
+   "q": "taz",
+   "d": "2026-09-21T17:42:00+00:00"
+  },
+  {
+   "t": "Funkloch: Weimer spricht, aber antwortet nicht",
+   "s": "Wolfram Weimer wird zum 3. Oktober eine Rede halten. Republikanischer wäre, er ließe sich herab, Rechenschaft über seine kruden Äußerungen abzulegen.",
+   "u": "https://taz.de/Funkloch/!6215070/",
+   "q": "taz",
+   "d": "2026-09-21T17:40:00+00:00"
+  },
+  {
+   "t": "Islamistische Gefährder in Bremen: Schießen lernen und auf Insta posten",
+   "s": "Kurz nach Bekanntwerden eines geplanten islamistischen Anschlags in Bremen steht ein anderer Islamist vor Gericht. Konkrete Pläne hatte er nicht.",
+   "u": "https://taz.de/Islamistische-Gefaehrder-in-Bremen/!6212614/",
+   "q": "taz",
+   "d": "2026-09-21T16:41:00+00:00"
+  },
+  {
+   "t": "Krise der CDU: Gefährliches Vakuum in der bürgerlichen Mitte",
+   "s": "Friedrich Merz wollte den Zuspruch zur AfD halbieren, aber er hat für ein CDU-Desaster gesorgt. Schuld haben nicht andere, sondern er und seine Partei.",
+   "u": "https://taz.de/Krise-der-CDU/!6210973/",
+   "q": "taz",
+   "d": "2026-09-21T16:34:00+00:00"
+  },
+  {
+   "t": "AfD nach Landtagswahlen: Weidel und die Legende von den „linken Nazis“",
+   "s": "Nach den Wahlen verbreitet die AfD-Chefin einen rechten Mythos. Ihrem Ziel, die CDU zu zerstören, rückt die AfD derweil ein Stück näher.",
+   "u": "https://taz.de/AfD-nach-Landtagswahlen/!6215026/",
+   "q": "taz",
+   "d": "2026-09-21T16:09:00+00:00"
+  },
+  {
+   "t": "Wahlsieg der Linken in Berlin: Jung, weiblich, mit Abi",
+   "s": "Die Linke hat die Berliner Abgeordnetenhauswahl klar gewonnen. Ein Blick in die Statistik zeigt, wem sie ihren Wahlsieg verdankt.",
+   "u": "https://taz.de/Wahlsieg-der-Linken-in-Berlin/!6215159/",
+   "q": "taz",
+   "d": "2026-09-21T16:02:00+00:00"
+  },
+  {
+   "t": "Elif Eralp und Manuela Schwesig: Weiblicher Wahlsieg",
+   "s": "Die Spitzenkandidatinnen Schwesig und Eralp haben erkannt, was es heute braucht: soziale Ansprache und ein Gefühl für die Nöte der Menschen.",
+   "u": "https://taz.de/Elif-Eralp-und-Manuela-Schwesig-Beide-haben-erkannt-was-im-Wahlkampf-von-heute-wichtig-ist/!6214960/",
+   "q": "taz",
+   "d": "2026-09-21T16:01:00+00:00"
+  },
+  {
    "t": "CDU-Aus in Mecklenburg-Vorpommern: Fassungslosigkeit nach dem Super-GAU",
-   "s": "Erstmals in der Geschichte der Bundesrepublik ist die CDU nun APO. Daran sei auch der eigene Landesverband schuld, heißt es aus der Partei in Mecklenburg-Vorpommern.",
+   "s": "Erstmals in ihrer Geschichte ist die CDU nun APO. Daran sei auch der Landesverband schuld, heißt es aus Mecklenburg-Vorpommern. Landeschef Daniel Peters tritt zurück.",
    "u": "https://taz.de/CDU-Aus-in-Mecklenburg-Vorpommern/!6215015/",
    "q": "taz",
    "d": "2026-09-21T15:47:00+00:00"
@@ -59,13 +129,6 @@
    "d": "2026-09-20T19:21:00+00:00"
   },
   {
-   "t": "AfD mit Rekordergebnissen: Stadt, Land, ein bisschen Frust",
-   "s": "Die AfD fährt in Mecklenburg-Vorpommern ein Rekordergebnis ein und landet knapp vor der SPD. Berlin hingegen enttäuscht die Rechtsextremen.",
-   "u": "https://taz.de/AfD-mit-Rekordergebnissen/!6213654/",
-   "q": "taz",
-   "d": "2026-09-20T18:20:00+00:00"
-  },
-  {
    "t": "SPD-Ergebnis in Mecklenburg-Vorpommern: Knapp vorbei ist auch daneben",
    "s": "Die SPD in Mecklenburg-Vorpommern hatte auf den Sieg gehofft. Es reicht nur für Platz 2. Trotzdem fährt die Partei ein Traumergebnis ein.",
    "u": "https://taz.de/SPD-Ergebnis-in-Mecklenburg-Vorpommern/!6213650/",
@@ -106,69 +169,6 @@
    "u": "https://taz.de/Berliner-Linkspartei/!6213518/",
    "q": "taz",
    "d": "2026-09-20T17:39:00+00:00"
-  },
-  {
-   "t": "AfD bei Berlin-Wahl: Hinter Linken, CDU und den eigenen Ansprüchen",
-   "s": "Die AfD steht laut ersten Hochrechnungen bei rund 14 Prozent bei der Wahl zum Berliner Abgeordnetenhaus. Rückenwind nach der Sachsen-Anhalt-Wahl blieb offenbar aus.",
-   "u": "https://taz.de/AfD-bei-Berlin-Wahl/!6213642/",
-   "q": "taz",
-   "d": "2026-09-20T17:27:00+00:00"
-  },
-  {
-   "t": "Bündnis Sahra Wagenknecht: Große Klappe, zu wenig dahinter",
-   "s": "Das BSW liegt am Wahlabend in Berlin und Mecklenburg-Vorpommern nur bei um die 5 Prozent. Spaltung und Schwurbelei haben die ganz große Wirkung verfehlt",
-   "u": "https://taz.de/Buendnis-Sahra-Wagenknecht/!6213656/",
-   "q": "taz",
-   "d": "2026-09-20T17:27:00+00:00"
-  },
-  {
-   "t": "Vorm Wahllokal in Mecklenburg-Vorpommern: „Die AfD ist mir zu lasch“",
-   "s": "Die einen finden an der AfD einfach „alles toll“, für die anderen sind die Rechtsextremen ein No-Go. Momentaufnahme eines gespaltenen Wahlvolks.",
-   "u": "https://taz.de/Vorm-Wahllokal-in-Mecklenburg-Vorpommern/!6213501/",
-   "q": "taz",
-   "d": "2026-09-20T16:06:00+00:00"
-  },
-  {
-   "t": "Erinnerung an Ronald B. Schill: Hamburgs Rechts-Sprecher und die Extremen von heute",
-   "s": "Vor 25 Jahren triumphierte die Partei von Ronald Barnabas Schill bei der Bürgerschaftswahl. Ihr Erfolg hätte eine frühe Warnung sein können.",
-   "u": "https://taz.de/Erinnerung-an-Ronald-B-Schill/!6211737/",
-   "q": "taz",
-   "d": "2026-09-20T14:48:00+00:00"
-  },
-  {
-   "t": "Kritik an Spritpreis-Entlastungen: Klimaschädlich, teuer, ungerecht",
-   "s": "Wieder Rabatte für Verbrenner-Fahrer*innen: Ex­per­t*in­nen aus Ökonomie, Umwelt- und Verbraucherschutz kritisieren Tankrabatt und Spritpreisdeckel.",
-   "u": "https://taz.de/Kritik-an-Spritpreis-Entlastungen/!6214717/",
-   "q": "taz",
-   "d": "2026-09-20T12:54:00+00:00"
-  },
-  {
-   "t": "Wahl in Mecklenburg-Vorpommern: Was, wenn der Kultur die Puste ausgeht?",
-   "s": "Im Nordosten ist über Jahre etwas gewachsen: Orte, an denen Menschen zusammenkommen, die sich sonst kaum noch sehen. Ein AfD-Sieg würde sie bedrohen.",
-   "u": "https://taz.de/Wahl-in-Mecklenburg-Vorpommern/!6208311/",
-   "q": "taz",
-   "d": "2026-09-20T09:10:00+00:00"
-  },
-  {
-   "t": "Wahl Berlin und Mecklenburg-Vorpommern: CDU fliegt definitiv erstmals aus einem Landtag raus",
-   "s": "Die Linke wird in Berlin klar stärkste Partei. In Mecklenburg bleibt die CDU unter 5 Prozent. Die AfD steht vor der SPD. Rot-Rot-Grün in beiden Ländern möglich.",
-   "u": "https://taz.de/Wahl-Berlin-und-Mecklenburg-Vorpommern/!6214068/",
-   "q": "taz",
-   "d": "2026-09-20T06:55:00+00:00"
-  },
-  {
-   "t": "Landtagswahlen 2026: Wahllokale in Berlin und Mecklenburg-Vorpommern öffnen",
-   "s": "In Berlin und Mecklenburg-Vorpommern wird heute über die Politik der kommenden fünf Jahren abgestimmt. Für die Regierung könnten die Wahlen wegweisend sein.",
-   "u": "https://taz.de/Landtagswahlen-2026/!6214676/",
-   "q": "taz",
-   "d": "2026-09-20T06:36:00+00:00"
-  },
-  {
-   "t": "„Marsch für das Leben“ 2026: Christlich-Konservative stoßen auf Gegendemos",
-   "s": "Das Bundesverband Lebensrecht hat zur jährlichen Demo gegen Schwangerschaftsabbruch gerufen. Die Gegendemonstrierenden haben die Strecke begleitet.",
-   "u": "https://taz.de/Marsch-fuer-das-Leben-2026/!6214673/",
-   "q": "taz",
-   "d": "2026-09-19T16:35:00+00:00"
   }
  ]
 }

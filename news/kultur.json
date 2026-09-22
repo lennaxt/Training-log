@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-21T15:54:28+00:00",
+ "updated": "2026-09-22T00:08:04+00:00",
  "items": [
+  {
+   "t": "Medien in Kolumbien: Verklagen, bedrohen, überfahren",
+   "s": "Seit Präsident de la Espriella im Amt ist, ist das Klima für unabhängige Medien in Kolumbien gefährlich geworden. Und es könnte schlimmer werden.",
+   "u": "https://taz.de/Medien-in-Kolumbien/!6214952/",
+   "q": "taz",
+   "d": "2026-09-21T16:21:00+00:00"
+  },
   {
    "t": "81. UN-Generalversammlung in New York: Kriege und KI im Fokus des UN-Gipfels",
    "s": "Bei der jährlichen UN-Vollversammlung stehen wieder aktuelle Krisen und Herausforderungen im Mittelpunkt, echte Durchbrüche sind nicht zu erwarten.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Kolumbien-verschaerft-Waffenrecht/!6212841/",
    "q": "taz",
    "d": "2026-09-14T15:50:00+00:00"
-  },
-  {
-   "t": "Hitze in Kolumbien: Feuer, Erdbeben und kaum staatliche Hilfe in Kolumbien",
-   "s": "Das schwere Erdbeben im August hat andere Lagen fast verdrängt: die Waldbrände. Dank „Superniño“ ist es extrem heiß und trocken.",
-   "u": "https://taz.de/Hitze-in-Kolumbien/!6209279/",
-   "q": "taz",
-   "d": "2026-09-13T09:27:00+00:00"
   }
  ]
 }
