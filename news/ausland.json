@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-09-22T14:02:27+00:00",
+ "updated": "2026-09-22T18:55:32+00:00",
  "items": [
+  {
+   "t": "US-Präsident Trump erwartet Abkommen mit Iran nach den Midterms",
+   "s": "In seiner Rede vor den Vereinten Nationen gibt sich US-Präsident Trump zuversichtlich, den Iran-Krieg mit einem Abkommen beenden zu können. Erneut verbindet er dies mit einer Drohung. Auch für den Ukraine-Krieg rechnet er bald mit einer Lösung.",
+   "u": "https://www.tagesschau.de/ausland/amerika/un-generalversammlung-trump-rede-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T16:12:08+00:00"
+  },
+  {
+   "t": "Grönland, USA und Dänemark unterzeichnen Sicherheitsabkommen",
+   "s": "Im Streit um Grönland haben die USA, Dänemark und die Arktisinsel ein Abkommen geschlossen. Die Regierungschefs der drei Parteien unterzeichneten am Rande der UN-Vollversammlung in New York eine Sicherheitsvereinbarung.",
+   "u": "https://www.tagesschau.de/ausland/amerika/abkommen-zu-groenland-unterzeichnet-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T16:02:38+00:00"
+  },
+  {
+   "t": "UNHCR rechnet bald mit 230.000 Vertriebenen im Jemen",
+   "s": "Mehr als 130.000 Menschen sind im Jemen seit Anfang des Monats auf der Flucht. UN-Flüchtlingshelfer warnen, dass die Zahl bis Ende des Jahres deutlich steigen könnte. Hintergrund ist der Vormarsch der pro-iranischen Huthi-Miliz.",
+   "u": "https://www.tagesschau.de/ausland/asien/hunderttausende-vertriebene-jemen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T14:05:57+00:00"
+  },
   {
    "t": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle",
    "s": "Die Entwicklung Künstlicher Intelligenz schreitet rasant voran - doch zuletzt häuften sich Berichte von Cyberattacken durch die KI. Nun fordert eine Gruppe von 22 Staats-und Regierungschefs eine internationale Aufsicht.",
@@ -87,20 +108,6 @@
    "d": "2026-09-21T16:02:43+00:00"
   },
   {
-   "t": "Was ein Notschalter für KI bringen könnte",
-   "s": "Die Entwicklung von KI verläuft rasant. Rufe nach Regulierungen werden laut - und nach einem sogenannten Notschalter. Doch wie könnte das funktionieren - und vor allem: Wer dürfte ihn betätigen? Von Antje Sieb.",
-   "u": "https://www.tagesschau.de/ausland/amerika/notschalter-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T09:22:53+00:00"
-  },
-  {
-   "t": "Selenskyj kündigt Treffen mit Trump diese Woche in New York an",
-   "s": "Der Staatschef der Ukraine, Selenskyj, hat für seinen Besuch in New York diese Woche ein Treffen mit US-Präsident Trump angekündigt. Zuvor hatte er demnach mit Trump telefoniert. Das Treffen könne \"vieles verändern\", so Selenskyj.",
-   "u": "https://www.tagesschau.de/ausland/amerika/treffen-selenskyj-trump-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T03:17:57+00:00"
-  },
-  {
    "t": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
    "s": "Sie ist nur eine kleine Redaktion, doch die Entscheidung, den griechischen Dienst der Deutschen Welle zu schließen, wurde zum Politikum. Die breite Kritik aus Griechenland überraschte den Rundfunkrat offenbar. Nun kam die Kehrtwende. Von J. Riemann.",
    "u": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/schweiz-ernaehrungsinitiative-selbstversorgung-100.html",
    "q": "Tagesschau",
    "d": "2026-09-18T05:06:59+00:00"
-  },
-  {
-   "t": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
-   "s": "An der Ostflanke der NATO wachsen die Sorgen vor russischen Angriffen. Angesichts jüngster Vorfälle im polnisch-ukrainischen Grenzgebiet warnt Regierungschef Tusk nun vor einem russischen Plan, Ukraine-Verbündete gezielt anzugreifen.",
-   "u": "https://www.tagesschau.de/ausland/europa/tusk-warnung-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T18:21:41+00:00"
   }
  ]
 }

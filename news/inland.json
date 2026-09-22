@@ -1,174 +1,174 @@
 {
  "name": "Inland",
- "updated": "2026-09-22T14:02:26+00:00",
+ "updated": "2026-09-22T18:55:32+00:00",
  "items": [
   {
-   "t": "Umstrittene Auszeichnung: Münsters zweiter Friedenspreis",
-   "s": "Ausgerechnet die Nato bekommt in diesem Jahr den Westfälischen Friedenspreis. In Münster regt sich Widerstand samt eigens gegründetem Alternativpreis.",
-   "u": "https://taz.de/Umstrittene-Auszeichnung/!6213219/",
-   "q": "taz",
-   "d": "2026-09-22T13:53:00+00:00"
-  },
-  {
-   "t": "Antisemitismus-Debatte bei der Linkspartei in Berlin",
-   "s": "Die Linke könnte in Berlin die Regierende Bürgermeisterin stellen - doch es gibt scharfe Kritik an antisemitischen Tendenzen in Teilen der Partei. Von der Parteiführung kommen Zusagen - aber reicht das? Von Frank Aischmann.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-wahlerfolg-antisemitismus-100.html",
+   "t": "Merz und die Krankenkassen - was meinte der Kanzler?",
+   "s": "Bundeskanzler Merz hat mit seinen Äußerungen zu gesetzlichen und privaten Krankenkassen eine Debatte angestoßen. Aber was wollte er damit eigentlich sagen - und was heißt das für die Umsetzung der Reformen? Von Birthe Sönnichsen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-duales-system-krankenkassen-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-22T13:46:48+00:00"
+   "d": "2026-09-22T18:27:10+00:00"
   },
   {
-   "t": "Debatte über Krankenkassensystem: \"Merz hat recht\"",
-   "s": "Fast nebenbei hat Kanzler Merz am Montag Änderungen am Nebeneinander von gesetzlichen und privaten Krankenkassen angedeutet und dies mit einem Gerechtigkeitsproblem begründet. Jetzt bekommt er Zustimmung von ungewohnter Seite - dem Juso-Chef.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/krankenkassen-system-merz-debatte-100.html",
+   "t": "Konflikt zwischen Saudis und Huthis: Der unheilige Streit um Mekka",
+   "s": "Auch das saudi-arabische Mekka mit der heiligsten Stätte des Islam gerät ins Visier der Huthi. Die bestreiten einen Angriff, aber erheben Anspruch auf die Stadt.",
+   "u": "https://taz.de/Konflikt-zwischen-Saudis-und-Huthis/!6215325/",
+   "q": "taz",
+   "d": "2026-09-22T18:04:00+00:00"
+  },
+  {
+   "t": "AfD-Strategiepapier: Wie die AfD die CDU zerstören will",
+   "s": "In einem internen Strategiepapier legt die AfD dar, wie sie die Union im Falle einer CDU-Minderheitsregierung weiter vor sich hertreiben will.",
+   "u": "https://taz.de/AfD-Strategiepapier/!6215437/",
+   "q": "taz",
+   "d": "2026-09-22T18:01:00+00:00"
+  },
+  {
+   "t": "Geplantes Vergesellschaftungs-Verbot: Friedrich Merz als Wahlhelfer für die Linke",
+   "s": "Der Bundeskanzler will die Vergesellschaftung von Wohnungskonzernen verbieten. Damit macht er nicht nur politisch, sondern auch strategisch einen Fehler.",
+   "u": "https://taz.de/Geplantes-Vergesellschaftungs-Verbot/!6210988/",
+   "q": "taz",
+   "d": "2026-09-22T17:59:00+00:00"
+  },
+  {
+   "t": "Kritik am Kanzler: Aufstand abgesagt",
+   "s": "In der Sitzung der Unionsfraktion gibt es nach dem Katastrophensonntag Kritik am Kanzler, doch kein Scherbengericht. Der Digitalminister dreht die Stimmung.",
+   "u": "https://taz.de/Kritik-am-Kanzler/!6215537/",
+   "q": "taz",
+   "d": "2026-09-22T17:56:00+00:00"
+  },
+  {
+   "t": "Affäre um Ferat Koçak: „Grüße mit Respekt an deinen Vater“",
+   "s": "Die dubiosen Kontakte des Bundestagsabgeordneten Ferat Koçak werfen Fragen auf. Doch kann man deshalb ein Urteil über eine ganze Partei fällen?",
+   "u": "https://taz.de/Affaere-um-Ferat-Kocak/!6215297/",
+   "q": "taz",
+   "d": "2026-09-22T17:32:00+00:00"
+  },
+  {
+   "t": "Fox News gegen Trump: Keine Helden der Pressefreiheit",
+   "s": "Fox schließt sich dem Boykott von US-Medien gegen Trump an. Das zeigt: Der rechte Sender stellt sich quer, wenn er eigene Interessen gefährdet sieht.",
+   "u": "https://taz.de/Fox-News-schliesst-sich-Trump-Boykott-an-Es-geht-ihnen-nicht-um-die-Pressefreiheit/!6215298/",
+   "q": "taz",
+   "d": "2026-09-22T17:26:00+00:00"
+  },
+  {
+   "t": "Debatte um Krankenversicherung: Merz sorgt für Aufregung, Union verteilt Beruhigungspillen",
+   "s": "Mit seiner Äußerung zum ungerechten System der Krankenversicherung hat der Kanzler eine Debatte losgetreten. Nur der zuständige Minister schweigt.",
+   "u": "https://taz.de/Debatte-um-Krankenversicherung/!6215440/",
+   "q": "taz",
+   "d": "2026-09-22T16:59:00+00:00"
+  },
+  {
+   "t": "Nach der Berliner Wahl: Warten auf das Anti-Gesetz",
+   "s": "Kann Kanzler Friedrich Merz mit einem Bundesgesetz die Vergesellschaftungspläne der Berliner Linken stoppen? Am Ende wird Karlsruhe entscheiden.",
+   "u": "https://taz.de/Nach-der-Berliner-Wahl/!6215393/",
+   "q": "taz",
+   "d": "2026-09-22T16:45:00+00:00"
+  },
+  {
+   "t": "Von Trump gestarteter Streit: Grönland, Dänemark und USA unterzeichnen Abkommen",
+   "s": "Der US-Präsident hatte Ansprüche auf Grönland erhoben. Nun haben die Parteien ein Abkommen unterzeichnet – doch viele Details bleiben unklar.",
+   "u": "https://taz.de/Von-Trump-gestarteter-Streit/!6215533/",
+   "q": "taz",
+   "d": "2026-09-22T16:40:00+00:00"
+  },
+  {
+   "t": "Streit um EU-Sanktionen: Zum Preis von zwei russischen Oligarchen",
+   "s": "Kurz vor knapp findet die EU eine Möglichkeit ihre Russland-Sanktionen doch zu verlängern. Die Enthaltung eines Landes machte es möglich.",
+   "u": "https://taz.de/Streit-um-EU-Sanktionen/!6215522/",
+   "q": "taz",
+   "d": "2026-09-22T16:28:00+00:00"
+  },
+  {
+   "t": "US-Entwicklungshilfe in Kamerun: Das Blut, über das niemand spricht",
+   "s": "In Kamerun reißt die Streichung der US-Hilfsgelder Lücken in die Versorgung von Mädchen. In Konfliktregionen fehlen Hygieneartikel und Anlaufstellen.",
+   "u": "https://taz.de/US-Entwicklungshilfe-in-Kamerun/!6197751/",
+   "q": "taz",
+   "d": "2026-09-22T16:23:00+00:00"
+  },
+  {
+   "t": "Panik vor der Linkspartei: Drei Jahrzehnte roter Schrecken",
+   "s": "Nach der Wahl in Berlin üben Konservative Druck auf Grüne und SPD aus, keine Koalition mit der Linken einzugehen. Die Angst vor einer Linksregierung ist nicht neu.",
+   "u": "https://taz.de/Panik-vor-der-Linkspartei/!6215295/",
+   "q": "taz",
+   "d": "2026-09-22T16:16:00+00:00"
+  },
+  {
+   "t": "Etat für Tschechien steht: Teuerster Haushalt seit Corona",
+   "s": "Nach wochenlangem Koalitionsstreit hat sich die tschechische Regierung auf einen Staatshaushalt für 2027 geeinigt. Die Neuverschuldung ist enorm.",
+   "u": "https://taz.de/Etat-fuer-Tschechien-steht/!6215329/",
+   "q": "taz",
+   "d": "2026-09-22T16:12:00+00:00"
+  },
+  {
+   "t": "Bremer Denkmal für Brechmittelopfer: Im staatlichen Auftrag ertränkt",
+   "s": "Laye Condé starb 2005 in Bremen nach der Brechmittelfolter. Das Denkmal „Death by Drowning“ erinnert an ihn und weitere Opfer. Samstag wird es eröffnet.",
+   "u": "https://taz.de/Bremer-Denkmal-fuer-Brechmittelopfer/!6212548/",
+   "q": "taz",
+   "d": "2026-09-22T16:00:00+00:00"
+  },
+  {
+   "t": "Rebellen in Mali: Rebellen rücken gegen Militärjunta vor",
+   "s": "Die malische Armee erlebt einen schweren Schlag durch die Terrorgruppe JNIM und Tuareg-Rebellen der FLA. Letztere werden offenbar von Ukrainern unterstützt.",
+   "u": "https://taz.de/Rebellen-in-Mali/!6215328/",
+   "q": "taz",
+   "d": "2026-09-22T15:59:00+00:00"
+  },
+  {
+   "t": "Forsa-Umfrage: Mehrheit für Rücktritt von Kanzler Merz",
+   "s": "Mehr als die Hälfte der Befragten spricht sich für einen Rücktritt des Kanzlers aus. Unter den Anhängern einer Partei ist der Anteil besonders hoch.",
+   "u": "https://taz.de/Umfrage-Mehrheit-will-Ruecktritt-von-Merz/!6215511/",
+   "q": "taz",
+   "d": "2026-09-22T15:58:00+00:00"
+  },
+  {
+   "t": "Frauengesundheit: Wenn der Herzinfarkt übersehen wird",
+   "s": "Bestimmte Krankheiten äußern sich bei Frauen anders als bei Männern. Trotzdem werden geschlechtsspezifische Unterschiede häufig zu wenig berücksichtigt. Eine neue Allianz fordert Aufmerksamkeit. Von Philipp Wundersee.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/frauengesundheit-forschung-allianz-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-22T12:00:24+00:00"
+   "d": "2026-09-22T15:50:46+00:00"
   },
   {
-   "t": "Schulden und Abhängigkeit in Malawi: Wenn die Devisen fehlen",
-   "s": "Malawi ist politisch seit Jahrzehnten souverän – aber stark auf internationale Kreditgeber angewiesen. Die Folgen sind bis zur Ladentheke spürbar.",
-   "u": "https://taz.de/Schulden-und-Abhaengigkeit-in-Malawi/!6197783/",
-   "q": "taz",
-   "d": "2026-09-22T11:37:00+00:00"
-  },
-  {
-   "t": "Konsequenz aus dem Wahldebakel: CDU-Spitze in Mecklenburg-Vorpommern wirft das Handtuch",
-   "s": "Mecklenburg-Vorpommerns CDU-Chef Peters tritt zurück. Kommissarisch will nun der umtriebige Staatsminister Amthor für gute Laune in der Bude sorgen.",
-   "u": "https://taz.de/Konsequenz-aus-dem-Wahldebakel/!6215293/",
-   "q": "taz",
-   "d": "2026-09-22T11:13:00+00:00"
-  },
-  {
-   "t": "AfD-Wahlerfolg in Sachsen-Anhalt: Steht die Kulturpolitik vor einem Kurswechsel?",
-   "s": "Der Wahlerfolg der AfD sorgt für Unruhe bei Kulturschaffenden in Sachsen-Anhalt. Sie fürchten Einschnitte für ihre Arbeit und bei Fördermitteln. Andere sehen Kultur gerade jetzt als Ort des Dialogs. Von Till Schäbitz.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/afd-sachsen-anhalt-kultur-100.html",
+   "t": "Union und SPD wollen noch mal über Reformen verhandeln",
+   "s": "Die geplanten Reformen der Bundesregierung kommen noch einmal auf den Prüfstand. Am Abend will Kanzleramtschefin Warken mit Spitzenpolitikern von CDU, CSU und SPD etwa über das Thema Rente sprechen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/union-spd-beratungen-reformen-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-22T11:06:01+00:00"
+   "d": "2026-09-22T15:49:08+00:00"
   },
   {
-   "t": "Nach Terrorangriff im Westjordanland: Steht Israel vor der ersten Hinrichtung seit 1962?",
-   "s": "Der rechtsextreme Minister Ben-Gvir drängt auf die Todesstrafe für einen palästinensischen Attentäter. Das Gesetz richtet sich nur gegen Palästinenser.",
-   "u": "https://taz.de/Nach-Terrorangriff-im-Westjordanland/!6215011/",
-   "q": "taz",
-   "d": "2026-09-22T08:10:00+00:00"
-  },
-  {
-   "t": "Merz in der Unionsfraktion: Ein weiterer ungemütlicher Arbeitstag",
-   "s": "Weitermachen, aber kein \"Weiter so\" - das ist Merz' Marschrichtung. Ob seine Unionsfraktion da mitgeht, wird sich am Nachmittag zeigen. Der Kanzler und CDU-Chef trifft auf nervöse Abgeordnete. Die Kritik an ihm reißt nicht ab.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-fraktion-nach-wahldebakel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T08:09:17+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Tote bei russischem Luftangriff auf Industriestadt Dnipro",
-   "s": "Die Ukraine wird erneut von nächtlichen Luftangriffen Russlands getroffen. Die EU ringt um Aufhebung von Sanktionen gegen zwei russische Oligarchen.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6215235/",
-   "q": "taz",
-   "d": "2026-09-22T07:42:00+00:00"
-  },
-  {
-   "t": "Medien im Weißen Haus: US-Sender nehmen Trump „off air“ in Solidarität mit CNN",
-   "s": "In den USA hatte die Regierung CNN und anderen Sendern den Zutritt zum Weißen Haus verboten. Medienpool-Mitglieder zeigen sich solidarisch – auch Fox.",
-   "u": "https://taz.de/Medien-im-Weissen-Haus/!6215227/",
-   "q": "taz",
-   "d": "2026-09-22T07:37:00+00:00"
-  },
-  {
-   "t": "Nach Wahlerfolg der Berliner Linken - Das Ringen mit Antisemitismus-Vorwürfen",
-   "s": "Nach dem Wahlsieg der Linken in Berlin warnt der Zentralrat der Juden vor einer von ihr geführten Koalition. Das wirft grundsätzliche Fragen auf: Wie verbreitet ist Antisemitismus in der politischen Linken – und wo verläuft die Grenze zu legitimer Israelkritik?",
-   "u": "https://www.deutschlandfunk.de/die-linke-berlin-antisemitismus-debatte-100.html",
+   "t": "Neue Debatte um Organspende - Schweigen als Zustimmung",
+   "s": "Mehr als 8000 Menschen warten aktuell auf ein Spenderorgan. Nach wie vor werden zu wenige Organe gespendet. Der Bundestag berät nun über einen Gesetzentwurf: Künftig soll jeder als Organspender gelten, solange er nicht widerspricht. Dagegen gibt es Widerstand.",
+   "u": "https://www.deutschlandfunk.de/organspende-widerspruchsloesung-bundestag-debatte-100.html",
    "q": "Deutschlandfunk",
-   "d": "2026-09-22T06:54:00+00:00"
+   "d": "2026-09-22T15:22:00+00:00"
   },
   {
-   "t": "CSU fordert Enteignungsverbot: Beschützer der herrschenden Klasse",
-   "s": "Panik bei Immobilienbesitzern? Zum Glück gibt es die Union! Die CSU fordert nach Linken-Wahlsieg in Berlin ein schnelles Verbot von Enteignungen.",
-   "u": "https://taz.de/CSU-fordert-Enteignungsverbot/!6215226/",
-   "q": "taz",
-   "d": "2026-09-22T06:33:00+00:00"
-  },
-  {
-   "t": "Antifaschistin über Wahlen in MV: „Das Ergebnis ist beschissen“",
-   "s": "Angesichts der erstarkten AfD warnt Leila Proft von rostock.nazifrei vor steigender Gewalt und rechnet mit Fehlern von SPD und Linkspartei ab.",
-   "u": "https://taz.de/Wahlen-in-Mecklenburg-Vorpommern-Das-Ergebnis-ist-beschissen/!6215028/",
-   "q": "taz",
-   "d": "2026-09-22T06:25:00+00:00"
-  },
-  {
-   "t": "Gesundheitswesen in Afrika: Der lange Weg zum eigenen Impfstoff",
-   "s": "Bis 2040 will Afrika 60 Prozent seiner benötigten Vakzine selbst herstellen. Doch es fehlen Geld, Fachkräfte und Know-how.",
-   "u": "https://taz.de/Gesundheitswesen-in-Afrika/!6197789/",
-   "q": "taz",
-   "d": "2026-09-22T05:22:00+00:00"
-  },
-  {
-   "t": "Kretschmer: \"Allerhöchste Zeit für einen Politikwechsel\"",
-   "s": "Nach dem schlechten Abschneiden seiner Partei bei den Landtagswahlen fordert Sachsens Ministerpräsident Michael Kretschmer eine Kurskorrektur. Nichts könne so bleiben, wie es ist, betonte der CDU-Politiker. Es brauche dringend Wirtschaftswachstum.Schmidt-Mattern, Barbara",
-   "u": "https://www.deutschlandfunk.de/interview-michael-kretschmer-cdu-mp-sachsen-die-cdu-nach-den-landtagswahlen-100.html",
+   "t": "Enteignungen: Sinnvoll oder Sozialismus?",
+   "s": "Die Linke in Berlin will Wohnungskonzerne enteignen. Wie geht das überhaupt? Unser Gesprächspartner macht den Vorschlag: kaufen statt enteignen. Und: Trump schließt CNN und andere aus dem Weißen Haus aus. Die reagieren und filmen ihn nicht mehr.Grieß, Thielko",
+   "u": "https://www.deutschlandfunk.de/enteignungen-wohnungen-trump-medien-100.html",
    "q": "Deutschlandfunk",
-   "d": "2026-09-22T05:16:00+00:00"
+   "d": "2026-09-22T15:00:00+00:00"
   },
   {
-   "t": "Wahlmanipulation in den USA: Von „Gerrymandering“ bis Wahlmaschinenklau",
-   "s": "In den USA versucht die Trump-Regierung mit verschiedenen Mitteln die Midterm-Wahlen zu beeinflussen. Demokraten und Zivilgesellschaft halten dagegen.",
-   "u": "https://taz.de/Wahlmanipulation-in-den-USA/!6214999/",
+   "t": "Strategien gegen die extreme Rechte: Die rechtsextreme Landnahme verhindern",
+   "s": "Betroffene schützen und Demokratie als soziale Praxis fördern: Eine Studie in Mecklenburg-Vorpommern formuliert Strategien gegen den Rechtsruck auf dem Land.",
+   "u": "https://taz.de/Strategien-gegen-die-extreme-Rechte/!6215372/",
    "q": "taz",
-   "d": "2026-09-22T05:14:00+00:00"
+   "d": "2026-09-22T14:53:00+00:00"
   },
   {
-   "t": "Rot-Rot-Grün im Bund: Früher war mehr Signalwirkung",
-   "s": "Bei den Landtagswahlen gewinnt zwei Mal Rot-Rot-Grün. Ein Vorbild für den Bund nach der Wahl 2029? Für die Verantwortlichen: eher nicht.",
-   "u": "https://taz.de/Rot-Rot-Gruen-im-Bund/!6215033/",
+   "t": "CSU-Klausur in Kloster Banz: Söder droht Berlin",
+   "s": "Unter dem Schock der jüngsten Wahlen trifft sich die CSU-Fraktion zur Klausur. Dort fordert Söder ein Festhalten am Reformkurs – und mehr Blasmusik.",
+   "u": "https://taz.de/CSU-Klausur-in-Kloster-Banz/!6215392/",
    "q": "taz",
-   "d": "2026-09-22T05:07:00+00:00"
+   "d": "2026-09-22T14:43:00+00:00"
   },
   {
-   "t": "Nach der Wahl in Marzahn-Hellersdorf: „Für uns im Bezirk ist es eine Katastrophe“",
-   "s": "Die AfD wird in Marzahn-Hellersdorf stärkste Kraft und dominiert künftig im Bezirksparlament. An­ti­fa­schis­t*in­nen warnen vor den Folgen.",
-   "u": "https://taz.de/Nach-der-Wahl-in-Marzahn-Hellersdorf/!6215014/",
+   "t": "Veruntreuungsprozess in Spanien: Ehefrau von Pedro Sánchez muss vor Gericht",
+   "s": "In Spanien muss Begoña Gómez wegen mutmaßlicher Veruntreuung vor Gericht. Der Ermittlungsrichter blieb Beweise schuldig – die Klage kam von rechts außen.",
+   "u": "https://taz.de/Veruntreuungsprozess-in-Spanien/!6215319/",
    "q": "taz",
-   "d": "2026-09-22T05:04:00+00:00"
-  },
-  {
-   "t": "100 Tage GEAS-Reform: Eingesperrt am Flughafen",
-   "s": "Seit Juni ist die Reform des EU-Asylsystems GEAS in Kraft. Geflüchtete berichten Erschreckendes aus den neu eingeführten Grenzverfahren.",
-   "u": "https://taz.de/100-Tage-GEAS-Reform/!6214969/",
-   "q": "taz",
-   "d": "2026-09-22T05:01:00+00:00"
-  },
-  {
-   "t": "Wowereit: Enteignungspläne der Linken sind falsch",
-   "s": "Die Linke in Berlin will Immobilienkonzerne vergesellschaften. Das aber lehnt der potenzielle Koalitionspartner SPD ab, betont der ehemalige Bürgermeister Wowereit. Auch ein anderes Problem müsse die Linke in den Griff kriegen.Schmidt-Mattern, Barbara",
-   "u": "https://www.deutschlandfunk.de/interview-klaus-wowereit-spd-ehem-regierender-bgm-berlin-zum-zustand-der-spd-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-22T04:50:00+00:00"
-  },
-  {
-   "t": "Unfall auf Oktoberfest: Mitarbeiter tödlich verunglückt",
-   "s": "Bei einem Unfall an einem Free-Fall-Turm auf dem Oktoberfest in München ist ein Mitarbeiter ums Leben gekommen. Nach ersten Erkenntnissen wurde der Mann von einer Gondel getroffen. Die Polizei ermittelt.",
-   "u": "https://www.tagesschau.de/inland/oktoberfest-unfall-104.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T04:47:30+00:00"
-  },
-  {
-   "t": "Was die Wahlergebnisse für die Regierungsbildungen bedeuten",
-   "s": "Nach den Wahlen in Mecklenburg-Vorpommern und Berlin müssen sich nun Koalitionen finden. Wo ist die Ausgangslage am günstigsten? Und welche Knackpunkte gibt es zwischen den Parteien?",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/regierungsbildung-berlin-mecklenburg-vorpommern-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T02:53:25+00:00"
-  },
-  {
-   "t": "SPD-Vize Rehlinger fordert \"echte Reformen und nicht nur Kürzungsvorschläge\"",
-   "s": "Für SPD-Vizechefin Rehlinger sind die jüngsten Wahlergebnisse ein Signal, dass sich etwas ändern müsse. Das \"Störgefühl\" vieler Menschen beim Rentenpaket könne sie nachvollziehen. Bei den Reformen müssten Union und SPD nun zusammenkommen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/wahlen-regierung-rehlinger-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T22:55:54+00:00"
-  },
-  {
-   "t": "\"Gerechtigkeitsproblem\": Merz tritt Debatte über Krankenkassen los",
-   "s": "Für viele überraschend hat sich Kanzler Merz zum dualen System der Krankenkassen geäußert. Viele sähen darin ein \"Gerechtigkeitsproblem\", über das man sprechen müsse. Seine Aussage ruft deutliche Kritik hervor - aber auch Lob.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-private-krankenversicherung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T20:59:55+00:00"
+   "d": "2026-09-22T14:39:00+00:00"
   }
  ]
 }

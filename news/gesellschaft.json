@@ -1,7 +1,35 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-22T14:02:30+00:00",
+ "updated": "2026-09-22T18:55:37+00:00",
  "items": [
+  {
+   "t": "Von Trump gestarteter Streit: Grönland, Dänemark und USA unterzeichnen Abkommen",
+   "s": "Der US-Präsident hatte Ansprüche auf Grönland erhoben. Nun haben die Parteien ein Abkommen unterzeichnet – doch viele Details bleiben unklar.",
+   "u": "https://taz.de/Von-Trump-gestarteter-Streit/!6215533/",
+   "q": "taz",
+   "d": "2026-09-22T16:40:00+00:00"
+  },
+  {
+   "t": "Streit um EU-Sanktionen: Zum Preis von zwei russischen Oligarchen",
+   "s": "Kurz vor knapp findet die EU eine Möglichkeit ihre Russland-Sanktionen doch zu verlängern. Die Enthaltung eines Landes machte es möglich.",
+   "u": "https://taz.de/Streit-um-EU-Sanktionen/!6215522/",
+   "q": "taz",
+   "d": "2026-09-22T16:28:00+00:00"
+  },
+  {
+   "t": "Etat für Tschechien steht: Teuerster Haushalt seit Corona",
+   "s": "Nach wochenlangem Koalitionsstreit hat sich die tschechische Regierung auf einen Staatshaushalt für 2027 geeinigt. Die Neuverschuldung ist enorm.",
+   "u": "https://taz.de/Etat-fuer-Tschechien-steht/!6215329/",
+   "q": "taz",
+   "d": "2026-09-22T16:12:00+00:00"
+  },
+  {
+   "t": "Veruntreuungsprozess in Spanien: Ehefrau von Pedro Sánchez muss vor Gericht",
+   "s": "In Spanien muss Begoña Gómez wegen mutmaßlicher Veruntreuung vor Gericht. Der Ermittlungsrichter blieb Beweise schuldig – die Klage kam von rechts außen.",
+   "u": "https://taz.de/Veruntreuungsprozess-in-Spanien/!6215319/",
+   "q": "taz",
+   "d": "2026-09-22T14:39:00+00:00"
+  },
   {
    "t": "+++ Nachrichten im Ukrainekrieg +++: Tote bei russischem Luftangriff auf Industriestadt Dnipro",
    "s": "Die Ukraine wird erneut von nächtlichen Luftangriffen Russlands getroffen. Die EU ringt um Aufhebung von Sanktionen gegen zwei russische Oligarchen.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6213892/",
    "q": "taz",
    "d": "2026-09-17T06:12:00+00:00"
-  },
-  {
-   "t": "Vorschlag der EU-Kommission: Kanada könnte „assoziiertes EU-Mitglied“ werden – was heißt das?",
-   "s": "Kanada will engere Beziehungen zur EU. Nun steht der Vorschlag für ein neues Modell im Raum. Und Donald Trump schäumt. Die wichtigsten Fragen und Antworten.",
-   "u": "https://taz.de/Vorschlag-der-EU-Kommission/!6213660/",
-   "q": "taz",
-   "d": "2026-09-17T05:22:00+00:00"
-  },
-  {
-   "t": "Rede zur Lage der Union: Von der Leyen überspannt den Bogen",
-   "s": "In ihrer Rede zur Lage der Union lässt die EU-Kommissionspräsidentin viele Fragen offen. Wohin Europa mit ihr steuert, bleibt unklar.",
-   "u": "https://taz.de/Rede-zur-Lage-der-Union/!6213664/",
-   "q": "taz",
-   "d": "2026-09-16T17:00:00+00:00"
-  },
-  {
-   "t": "Kosovo-Sondertribunal in Den Haag: Ein Stück später Gerechtigkeit",
-   "s": "Das Urteil gegen Ex-Präsident Hashim Thaçi löst im Kosovo scharfe Kritik aus. Es könnte aber langfristig ein positives Signal für die Zukunft sein.",
-   "u": "https://taz.de/Kosovo-Sondertribunal-in-Den-Haag/!6213591/",
-   "q": "taz",
-   "d": "2026-09-16T16:02:00+00:00"
-  },
-  {
-   "t": "Von der Leyen zur Lage der EU: Stirnrunzeln und Freundschaft mit Kanada",
-   "s": "Mit Spannung war die Rede von EU-Kommissionspräsidentin von der Leyen erwartet worden. Für Irritation sorgt ihr Vorstoß nach neuen Sicherheitsgremien.",
-   "u": "https://taz.de/Von-der-Leyen-zur-Lage-der-EU/!6213636/",
-   "q": "taz",
-   "d": "2026-09-16T15:29:00+00:00"
   }
  ]
 }

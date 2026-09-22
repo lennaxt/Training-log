@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-22T14:02:31+00:00",
+ "updated": "2026-09-22T18:55:38+00:00",
  "items": [
+  {
+   "t": "Fox News gegen Trump: Keine Helden der Pressefreiheit",
+   "s": "Fox schließt sich dem Boykott von US-Medien gegen Trump an. Das zeigt: Der rechte Sender stellt sich quer, wenn er eigene Interessen gefährdet sieht.",
+   "u": "https://taz.de/Fox-News-schliesst-sich-Trump-Boykott-an-Es-geht-ihnen-nicht-um-die-Pressefreiheit/!6215298/",
+   "q": "taz",
+   "d": "2026-09-22T17:26:00+00:00"
+  },
   {
    "t": "Medien im Weißen Haus: US-Sender nehmen Trump „off air“ in Solidarität mit CNN",
    "s": "In den USA hatte die Regierung CNN und anderen Sendern den Zutritt zum Weißen Haus verboten. Medienpool-Mitglieder zeigen sich solidarisch – auch Fox.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Ankuendigung-der-Trump-Regierung/!6213434/",
    "q": "taz",
    "d": "2026-09-15T16:08:00+00:00"
-  },
-  {
-   "t": "Wahlkampf in den USA: US-Gericht lehnt Trumps Briefwahl-Einschränkung ab",
-   "s": "Der Oberste Gerichtshof hat den Eilantrag des US-Präsidenten zurückgewiesen. Bürgerrechtler sahen darin Einflussnahme und begrüßen die Entscheidung.",
-   "u": "https://taz.de/Wahlkampf-in-den-USA/!6213239/",
-   "q": "taz",
-   "d": "2026-09-15T07:57:00+00:00"
   }
  ]
 }

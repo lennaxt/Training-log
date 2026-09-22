@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-22T14:02:28+00:00",
+ "updated": "2026-09-22T18:55:34+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 22.09.2026",
+   "s": "Wirtschaft vor acht vom 22.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1653820.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T18:19:28+00:00"
+  },
   {
    "t": "Werben um Fachkräfte: Warum immer mehr Griechen Deutschland verlassen",
    "s": "Lange profitierte der deutsche Arbeitsmarkt von Griechen, die während der Eurokrise ins Land kamen. Doch diese Zeit scheint vorbei: Die griechische Regierung wirbt gezielt um ihre Talente, auch in Deutschland. Von J. Riemann.",
@@ -71,13 +78,6 @@
    "u": "https://www.tagesschau.de/investigativ/ndr-wdr/bp-offshore-windparks-100.html",
    "q": "Tagesschau",
    "d": "2026-09-22T04:00:16+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 21.09.2026",
-   "s": "Wirtschaft vor acht vom 21.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1653096.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T17:58:05+00:00"
   },
   {
    "t": "Klage gegen Paramount: Streit über Warner-Übernahme offenbar beigelegt",

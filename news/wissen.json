@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-09-22T14:02:28+00:00",
+ "updated": "2026-09-22T18:55:35+00:00",
  "items": [
+  {
+   "t": "Gründung einer Allianz für Frauengesundheit in Berlin",
+   "s": "Gründung einer Allianz für Frauengesundheit in Berlin",
+   "u": "https://www.tagesschau.de/video/video-1653672.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T15:44:26+00:00"
+  },
   {
    "t": "Gertraud Stadler, Leitung Geschlechterforschung in der Medizin, Charité Berlin, zu einer Allianz für Frauengesundheit",
    "s": "Gertraud Stadler, Leitung Geschlechterforschung in der Medizin Charité Berlin, zu einer Allianz für Frauengesundheit",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/el-nino-wmo-100.html",
    "q": "Tagesschau",
    "d": "2026-09-03T12:27:19+00:00"
-  },
-  {
-   "t": "Deutscher Umweltpreis für Klimajuristin und Membranforscher",
-   "s": "Klares Wasser aus Klärschlamm und klare Regeln für den Klimaschutz: Für ihr Engagement zu diesen Themen erhalten ein Membranfilter-Ingenieur und eine Juristin den Deutschen Umweltpreis.",
-   "u": "https://www.tagesschau.de/wissen/klima/deutscher-umweltpreis-144.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T12:04:29+00:00"
   }
  ]
 }
