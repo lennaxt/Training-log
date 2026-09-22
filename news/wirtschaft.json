@@ -1,13 +1,55 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-22T08:33:43+00:00",
+ "updated": "2026-09-22T14:02:28+00:00",
  "items": [
   {
-   "t": "Marktbericht: Anleger warten auf Trumps UN-Auftritt",
-   "s": "Nach dem starken Wochenstart bleiben die Anleger zurückhaltend. Sie hoffen auf diplomatische Perspektiven: US-Präsident Trump könnte am Rande der heutigen UN-Generalversammlung mit Vertretern Irans zusammentreffen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
+   "t": "Werben um Fachkräfte: Warum immer mehr Griechen Deutschland verlassen",
+   "s": "Lange profitierte der deutsche Arbeitsmarkt von Griechen, die während der Eurokrise ins Land kamen. Doch diese Zeit scheint vorbei: Die griechische Regierung wirbt gezielt um ihre Talente, auch in Deutschland. Von J. Riemann.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/fachkraefte-mangel-deutschland-griechenland-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-22T08:29:02+00:00"
+   "d": "2026-09-22T12:49:49+00:00"
+  },
+  {
+   "t": "Iran-Krieg und Last-Minute-Trend zehren an TUI-Gewinn",
+   "s": "Der Reisekonzern TUI hat den Iran-Krieg und den Trend zu Last-Minute-Buchungen deutlich zu spüren bekommen. Höhere Preise konnten das nur zum Teil ausgleichen. Die Aktie erlebte ein Wechselbad.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-tui-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T12:00:03+00:00"
+  },
+  {
+   "t": "Anteil von E-Autos bei Neuzulassungen in EU erreicht neuen Rekord",
+   "s": "Noch nie sind in der EU so viele Autos mit einem reinen Elektroantrieb zugelassen worden wie im vergangenen Jahr. Gut jeder sechste Pkw war ein E-Auto. Deutschland lag dabei leicht über dem Schnitt.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-e-autos-neuwagen-zulassungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T10:25:19+00:00"
+  },
+  {
+   "t": "EU und Philippinen einigen sich auf Freihandelsabkommen",
+   "s": "Die EU und die Philippinen haben sich im Grundsatz auf ein Freihandelsabkommen verständigt. Die Vereinbarung soll für Unternehmen auf beiden Seiten neue Exportmärkte erschließen und Lieferketten stabiler machen.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-philippinen-freihandelsabkommen-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T09:58:06+00:00"
+  },
+  {
+   "t": "Die erfolgreiche Neobank Revolut und das Glücksspielproblem",
+   "s": "Revolut ist eine der am schnellsten wachsenden Banken und erobert immer mehr Märkte weltweit. Recherchen von WDR, NDR und SZ zeigen nun mutmaßliche Probleme der Onlinebank bei der Geldwäscheprävention, vor allem im Kampf gegen illegales Glücksspiel.",
+   "u": "https://www.tagesschau.de/investigativ/ndr-wdr/onlinebank-revolut-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T09:00:21+00:00"
+  },
+  {
+   "t": "Evonik kündigt Abbau von 3.200 Stellen an",
+   "s": "Der Chemiekonzern Evonik hat den Abbau von 3.200 Stellen angekündigt. Mehr als 2.000 davon sollen in Deutschland wegfallen. Gute Chancen für Wachstum sieht Evonik besonders außerhalb von Europa.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/evonik-chemiekonzern-stellenabbau-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T08:49:47+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 22.09.2026",
+   "s": "Update Wirtschaft vom 22.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1653388.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T08:35:05+00:00"
   },
   {
    "t": "Heizkosten steigen 2026 laut Prognose an",
@@ -22,6 +64,13 @@
    "u": "https://www.tagesschau.de/wirtschaft/tankrabatt-254.html",
    "q": "Tagesschau",
    "d": "2026-09-22T07:52:20+00:00"
+  },
+  {
+   "t": "Windenergiebranche: Milliardenpoker um Offshore-Parks",
+   "s": "In der deutschen Nordsee wollte BP zwei riesige Windparks bauen. Doch die Arbeiten an den Projekten sind offenbar seit Monaten eingestellt. Das zeigen Recherchen von NDR, WDR und SZ.",
+   "u": "https://www.tagesschau.de/investigativ/ndr-wdr/bp-offshore-windparks-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T04:00:16+00:00"
   },
   {
    "t": "Wirtschaft vor acht vom 21.09.2026",
@@ -95,7 +144,7 @@
   },
   {
    "t": "Warum wir noch immer so viel Essen wegwerfen",
-   "s": "Jedes Jahr landen in Deutschland fast elf Millionen Tonnen genießbare Lebensmittel im Müll. Warum ändert sich seit Jahren kaum was? Und was können wir von unseren Nachbarn lernen? Von Edgar Verheyen.",
+   "s": "Jedes Jahr landen in Deutschland fast elf Millionen Tonnen Lebensmittel im Müll. Warum ändert sich seit Jahren kaum was? Und was können wir von unseren Nachbarn lernen? Von Edgar Verheyen.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/essen-lebensmittel-verschwendung-100.html",
    "q": "Tagesschau",
    "d": "2026-09-20T03:38:41+00:00"
@@ -120,55 +169,6 @@
    "u": "https://www.deutschlandfunk.de/spritpreise-irankrieg-profit-uebergewinnsteuer-oelkonzerne-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-18T08:37:00+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 18.09.2026",
-   "s": "Update Wirtschaft vom 18.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1651038.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T08:29:40+00:00"
-  },
-  {
-   "t": "EU-Verpackungsverordnung - für kleine Händler ein \"bürokratisches Monster\"?",
-   "s": "Mit einer Verordnung will die EU für weniger Verpackungsmüll und mehr Recycling sorgen. Doch sie trifft damit nicht nur Onlineriesen wie Amazon, sondern auch kleine Händlerinnen und Händler. Von R. Schirra und T. Kukral.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-verpackungsverordnung-104.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T08:03:21+00:00"
-  },
-  {
-   "t": "Hohe Preise: Welche Energiekosten auf die Verbraucher zukommen",
-   "s": "Der Iran-Krieg hat Energie stark verteuert. Wo sind die Preise bereits besonders stark angestiegen? Und worauf müssen sich Haushalte mit Blick auf die kommenden Monate noch einstellen? Von Till Bücker.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/energiekosten-strom-oel-gas-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T07:20:19+00:00"
-  },
-  {
-   "t": "Assoziierte EU-Mitgliedschaft - Kanada rückt näher an Europa heran",
-   "s": "Angesichts von Donald Trumps unberechenbarer Zollpolitik hat sich Kanadas Premier Mark Carney für eine engere Anbindung seines Landes an die EU ausgesprochen. Was versprechen sich die Länder von einer Allianz?",
-   "u": "https://www.deutschlandfunk.de/kanada-eu-allianz-usa-trump-zollpolitik-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-17T14:57:00+00:00"
-  },
-  {
-   "t": "Wie klimafreundlich sind die DAX-Unternehmen?",
-   "s": "Wie gut setzen deutsche Unternehmen ihre Klimaziele um? Der Klima-Report einer Frankfurter Beratungsfirma versucht den Fortschritt messbar zu machen. Maßstab ist dabei der Beitrag zur Erderwärmung - gemessen in Temperaturen. Von Katharina Wilhelm.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/dax-unternehmen-klima-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T10:29:54+00:00"
-  },
-  {
-   "t": "Wenn das Girokonto mehr als 100 Euro kostet: Wie der Wechsel gelingt",
-   "s": "Das Girokonto ist praktisch unverzichtbar. Doch vor allem bei vielen Filialbanken fällt mittlerweile eine Kontoführungsgebühr an - Kosten, die sich oft vermeiden lassen. Von L.-M. Hiltscher und L. Sallamon.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/girokonto-kontofuehrungsgebuehr-wechsel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T04:28:03+00:00"
-  },
-  {
-   "t": "Hohe Spritpreise - Kommentar: Die Abhängigkeit von Öl und Gas macht uns ärmer",
-   "s": "Der Krieg in der Golfregion und seine Auswirkungen treiben die Ölpreise weiter nach oben. Staatliche Hilfen nach dem Gießkannenprinzip greifen jedoch zu kurz und senden falsche Signale. Zumal der hohe Ölpreis auch nachweislich positive Effekte hat.Ein Kommentar von Dorothee Holz",
-   "u": "https://www.deutschlandfunk.de/kommentar-benzinpreise-oelpreis-irankrieg-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-16T09:49:00+00:00"
   }
  ]
 }

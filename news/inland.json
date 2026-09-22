@@ -1,7 +1,49 @@
 {
  "name": "Inland",
- "updated": "2026-09-22T08:33:40+00:00",
+ "updated": "2026-09-22T14:02:26+00:00",
  "items": [
+  {
+   "t": "Umstrittene Auszeichnung: Münsters zweiter Friedenspreis",
+   "s": "Ausgerechnet die Nato bekommt in diesem Jahr den Westfälischen Friedenspreis. In Münster regt sich Widerstand samt eigens gegründetem Alternativpreis.",
+   "u": "https://taz.de/Umstrittene-Auszeichnung/!6213219/",
+   "q": "taz",
+   "d": "2026-09-22T13:53:00+00:00"
+  },
+  {
+   "t": "Antisemitismus-Debatte bei der Linkspartei in Berlin",
+   "s": "Die Linke könnte in Berlin die Regierende Bürgermeisterin stellen - doch es gibt scharfe Kritik an antisemitischen Tendenzen in Teilen der Partei. Von der Parteiführung kommen Zusagen - aber reicht das? Von Frank Aischmann.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-wahlerfolg-antisemitismus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T13:46:48+00:00"
+  },
+  {
+   "t": "Debatte über Krankenkassensystem: \"Merz hat recht\"",
+   "s": "Fast nebenbei hat Kanzler Merz am Montag Änderungen am Nebeneinander von gesetzlichen und privaten Krankenkassen angedeutet und dies mit einem Gerechtigkeitsproblem begründet. Jetzt bekommt er Zustimmung von ungewohnter Seite - dem Juso-Chef.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/krankenkassen-system-merz-debatte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T12:00:24+00:00"
+  },
+  {
+   "t": "Schulden und Abhängigkeit in Malawi: Wenn die Devisen fehlen",
+   "s": "Malawi ist politisch seit Jahrzehnten souverän – aber stark auf internationale Kreditgeber angewiesen. Die Folgen sind bis zur Ladentheke spürbar.",
+   "u": "https://taz.de/Schulden-und-Abhaengigkeit-in-Malawi/!6197783/",
+   "q": "taz",
+   "d": "2026-09-22T11:37:00+00:00"
+  },
+  {
+   "t": "Konsequenz aus dem Wahldebakel: CDU-Spitze in Mecklenburg-Vorpommern wirft das Handtuch",
+   "s": "Mecklenburg-Vorpommerns CDU-Chef Peters tritt zurück. Kommissarisch will nun der umtriebige Staatsminister Amthor für gute Laune in der Bude sorgen.",
+   "u": "https://taz.de/Konsequenz-aus-dem-Wahldebakel/!6215293/",
+   "q": "taz",
+   "d": "2026-09-22T11:13:00+00:00"
+  },
+  {
+   "t": "AfD-Wahlerfolg in Sachsen-Anhalt: Steht die Kulturpolitik vor einem Kurswechsel?",
+   "s": "Der Wahlerfolg der AfD sorgt für Unruhe bei Kulturschaffenden in Sachsen-Anhalt. Sie fürchten Einschnitte für ihre Arbeit und bei Fördermitteln. Andere sehen Kultur gerade jetzt als Ort des Dialogs. Von Till Schäbitz.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/afd-sachsen-anhalt-kultur-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T11:06:01+00:00"
+  },
   {
    "t": "Nach Terrorangriff im Westjordanland: Steht Israel vor der ersten Hinrichtung seit 1962?",
    "s": "Der rechtsextreme Minister Ben-Gvir drängt auf die Todesstrafe für einen palästinensischen Attentäter. Das Gesetz richtet sich nur gegen Palästinenser.",
@@ -17,14 +59,14 @@
    "d": "2026-09-22T08:09:17+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Tote bei russischem Luftangriff auf Industriestadt Dnipro",
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Tote bei russischem Luftangriff auf Industriestadt Dnipro",
    "s": "Die Ukraine wird erneut von nächtlichen Luftangriffen Russlands getroffen. Die EU ringt um Aufhebung von Sanktionen gegen zwei russische Oligarchen.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6215235/",
    "q": "taz",
    "d": "2026-09-22T07:42:00+00:00"
   },
   {
-   "t": "Medien im Weißen Haus: US-Sender nehmen Trump „Off Air“ in Solidarität mit CNN",
+   "t": "Medien im Weißen Haus: US-Sender nehmen Trump „off air“ in Solidarität mit CNN",
    "s": "In den USA hatte die Regierung CNN und anderen Sendern den Zutritt zum Weißen Haus verboten. Medienpool-Mitglieder zeigen sich solidarisch – auch Fox.",
    "u": "https://taz.de/Medien-im-Weissen-Haus/!6215227/",
    "q": "taz",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/merz-private-krankenversicherung-100.html",
    "q": "Tagesschau",
    "d": "2026-09-21T20:59:55+00:00"
-  },
-  {
-   "t": "Chat mit Mitglied des Remmo-Clans: Ferat Koçak entschuldigt sich",
-   "s": "Firas Remmo veröffentlicht einen alten Chat mit dem Linken-Abgeordneten Koçak. Der sagt, er habe erst nicht gewusst, mit wem er schreibe, dann aber einen Fehler begangen.",
-   "u": "https://taz.de/Chat-mit-Mitglied-des-Remmo-Clans/!6215212/",
-   "q": "taz",
-   "d": "2026-09-21T19:31:00+00:00"
-  },
-  {
-   "t": "CDU-Wahlschlappe: Neuer Kurs, alte Probleme",
-   "s": "Der Bundeskanzler und CDU-Chef kämpft nach dem erneuten Wahldebakel um sein Amt. Die SPD setzt sich vom Reformkurs ab. Merz will daran festhalten und hofft auf Unterstützung. Von Jakob Mayr.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-mv-berlin-cdu-folgen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T18:03:50+00:00"
-  },
-  {
-   "t": "Berliner Linke: Das Stadtbild hat gewählt",
-   "s": "Elif Eralp hat es geschafft, die Stadtgesellschaft in ihrer Breite anzusprechen. Doch über der Berliner Linken hängt hartnäckig der Antisemitismusverdacht.",
-   "u": "https://taz.de/Berliner-Linke/!6214991/",
-   "q": "taz",
-   "d": "2026-09-21T17:44:00+00:00"
-  },
-  {
-   "t": "Bundesregierung nach den Landtagswahlen: Merz versucht noch mal die Kurve zu bekommen",
-   "s": "Erstmals scheitert die Union in einem Bundesland an der Fünfprozenthürde. Merz sieht nur die Flucht nach vorn – und weiß dabei die SPD an seiner Seite.",
-   "u": "https://taz.de/Bundesregierung-nach-den-Landtagswahlen/!6215031/",
-   "q": "taz",
-   "d": "2026-09-21T17:43:00+00:00"
-  },
-  {
-   "t": "Nach Wahlsieg der Linken: Willkommen in der islamo-sozialistischen Höllendiktatur",
-   "s": "Der Wahlsieg der Linken löst in bürgerlichen und rechten Kreisen eine Kernschmelze aus. Doch hinter der Schmierkampagne steht ein gefährliches Kalkül.",
-   "u": "https://taz.de/Wahlsieg-in-Berlin-Willkommen-in-der-islamo-sozialistischen-Hoellendiktatur/!6214966/",
-   "q": "taz",
-   "d": "2026-09-21T17:43:00+00:00"
-  },
-  {
-   "t": "Jung­wäh­le­r*in­nen in Berlin: Das Herz schlägt links",
-   "s": "In Berlin haben über 40 Prozent der unter 25-Jährigen die Linke gewählt. Darüber darf man sich trotz über 16 Prozent für die AfD auch mal freuen.",
-   "u": "https://taz.de/Berlin-Ueber-40-der-unter-25-Jaehrigen-hat-die-Linke-gewaehlt/!6214984/",
-   "q": "taz",
-   "d": "2026-09-21T17:42:00+00:00"
   }
  ]
 }
