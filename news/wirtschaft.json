@@ -1,13 +1,55 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-23T08:36:17+00:00",
+ "updated": "2026-09-23T14:14:49+00:00",
  "items": [
+  {
+   "t": "Versandapotheke der Drogeriemarktkette dm vor Gericht",
+   "s": "Seit Dezember 2025 verkauft dm über ein Tochterunternehmen rezeptfreie Medikamente. Dagegen hat die Wettbewerbszentrale geklagt. Eine Vermischung von Drogerie- und Apothekenangebot sei unzulässig. Von Kolja Schwartz.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/dm-med-apotheke-klage-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T13:01:00+00:00"
+  },
+  {
+   "t": "Nach einer Studie investieren immer mehr Deutsche in Aktien",
+   "s": "Deutsche gelten als Aktienmuffel. Doch jeder Zweite investiert einer Studie zufolge am Kapitalmarkt, insbesondere jüngere Menschen. Ein Großteil lässt das Geld aber weiter mit Verlusten auf dem Sparbuch liegen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/aktienmarkt-investieren-dax-ing-bank-marktbericht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T12:43:28+00:00"
+  },
+  {
+   "t": "Nach Mega-Börsengang: Neuer Öl-Boom in Nigeria?",
+   "s": "Mit einem gigantischen Börsengang können sich erstmals Kleinanleger an Afrikas größter Ölraffinerie beteiligen. Das Unternehmen des Multimillionärs Dangote profitiert von der globalen Energiekrise. Von G. Restle.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/oel-boom-nigeria-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T12:13:28+00:00"
+  },
+  {
+   "t": "IG Metall fordert fünf Prozent mehr Geld",
+   "s": "In der anstehenden Tarifrunde für die Beschäftigten in der Metall- und Elektroindustrie fordert die IG Metall fünf Prozent mehr Geld. Zudem soll es eine tarifliche Gewinnbeteiligung für \"Boom-Unternehmen\" geben.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/tarifforderungen-ig-metall-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T11:19:41+00:00"
+  },
+  {
+   "t": "OECD hebt Konjunkturprognose für deutsche Wirtschaft deutlich an",
+   "s": "Die OECD hat ihre Wachstumsprognose für die deutsche Wirtschaft in diesem Jahr deutlich heraufgesetzt. Das Bruttoinlandsprodukt werde um 1,1 Prozent wachsen. Für 2027 steht ebenfalls eine positive Prognose.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-bip-prognose-oecd-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T10:13:52+00:00"
+  },
   {
    "t": "Update Wirtschaft vom 23.09.2026",
    "s": "Update Wirtschaft vom 23.09.2026",
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1654052.html",
    "q": "Tagesschau",
    "d": "2026-09-23T08:22:38+00:00"
+  },
+  {
+   "t": "Stellenangebote für Berufseinsteiger seit 2022 stark geschrumpft",
+   "s": "Die Zahl der Stellenangebote für Berufseinsteiger ist in den vergangenen Jahren einer Analyse zufolge stark zurückgegangen. Besonders deutlich lässt sich die Entwicklung bei Wissensberufen beobachten.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/stellenangebot-junge-berufseinsteiger-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T08:11:28+00:00"
   },
   {
    "t": "USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
@@ -29,13 +71,6 @@
    "u": "https://www.tagesschau.de/inland/reformdebatte-warken-koalition-100.html",
    "q": "Tagesschau",
    "d": "2026-09-23T05:57:37+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX leicht höher erwartet",
-   "s": "Die KI-Rally ist zurück, zugleich setzen die Märkte auf eine weitere Entspannung im Iran-Konflikt sowie ein konstruktives Gipfeltreffen zwischen China und den USA. Der DAX dürfte etwas höher starten.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T05:41:08+00:00"
   },
   {
    "t": "Neue Details zu Anlage-Verlusten bei Krankenkassen",
@@ -134,41 +169,6 @@
    "u": "https://www.deutschlandfunk.de/kommentar-benzinpreise-oelpreis-irankrieg-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-16T09:49:00+00:00"
-  },
-  {
-   "t": "Griechenlands Reeder - Das steckt hinter ihrem Reichtum",
-   "s": "Griechische Schifffahrtsunternehmer gehören zu den vermögendsten Menschen der Welt. Sie haben großen Einfluss auf die Politik, sagen Experten. Für manche ihrer Geschäfte werden sie stark kritisiert.",
-   "u": "https://www.deutschlandfunk.de/reeder-griechenland-russland-schattenflotte-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-13T08:38:00+00:00"
-  },
-  {
-   "t": "Kartenzahlungspflicht - Schützt lieber das Bargeld",
-   "s": "Geschäfte sollen nach Plänen von Finanzminister Lars Klingbeil künftig mindestens eine digitale Bezahlmöglichkeit anbieten müssen. Eine unnötige Vorschrift. Wichtiger wäre es, die Annahme von Bargeld verpflichtend zu machen.Ein Kommentar von Manfred Kloiber",
-   "u": "https://www.deutschlandfunk.de/kartenzahlung-bargeld-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-12T07:18:00+00:00"
-  },
-  {
-   "t": "Kommentar - Wer auf Strom setzt, spart künftig viel Geld",
-   "s": "Die Zukunft gehört der Elektrifizierung. Doch die Stromrevolution verläuft noch immer zu langsam, um die Klimakrise zu bremsen.Überlegungen von Christian Stöcker",
-   "u": "https://www.deutschlandfunkkultur.de/energiewende-electrotech-elektrifizierung-strom-geld-sparen-klimawandel-meinung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-11T05:20:00+00:00"
-  },
-  {
-   "t": "USA gegen China - Mercedes-Benz droht, unter die Räder zu kommen",
-   "s": "Jahrzehntelang profitierten deutsche Autobauer vom Geschäft mit China. Nun könnte sich das aufgrund eines US-Gesetzes als Risiko erweisen. Vor allem für einen DAX-Konzern steht dabei viel auf dem Spiel.Von Steffen Wurzel",
-   "u": "https://www.deutschlandfunk.de/mercedes-usa-gesetz-china-verkaufsverbot-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-10T15:20:00+00:00"
-  },
-  {
-   "t": "Haushaltsentwurf - Eine gigantische Neuverschuldung und viele Fragezeichen",
-   "s": "Der Staat hat viel Geld in die Hand genommen, um die Missstände in Deutschland anzugehen. Dabei bleiben aber viele Fragen offen: Entfacht das Geld nur ein konjunkturelles Strohfeuer? Werden Lücken gestopft, statt in Infrastruktur investiert?Von Jörg Münchenberg",
-   "u": "https://www.deutschlandfunk.de/bundeshaushalt-investitionen-neuverschuldung-klingbeil-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-09T15:40:00+00:00"
   }
  ]
 }

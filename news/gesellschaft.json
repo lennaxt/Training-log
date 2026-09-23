@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-23T08:36:20+00:00",
+ "updated": "2026-09-23T14:14:51+00:00",
  "items": [
+  {
+   "t": "Britische Weltraumstrategie: London schützt Satelliten mit neuer Weltraumeinheit",
+   "s": "Das Weltall ist zum Kriegsschauplatz geworden, sagt der Chef der Royal Air Force. Britische Satelliten sollen von einer eigenen Militäreinheit geschützt werden.",
+   "u": "https://taz.de/Britische-Weltraumstrategie/!6215730/",
+   "q": "taz",
+   "d": "2026-09-23T13:49:00+00:00"
+  },
+  {
+   "t": "EU-Sanktionen gegen Russland: Erfolg für zwei russische Milliardäre",
+   "s": "Die EU streicht die Oligarchen Alischer Usmanow und Michail Fridman von ihrer Russland-Sanktionsliste. Für Usmanow hatte sich vor allem Paris eingesetzt.",
+   "u": "https://taz.de/EU-Sanktionen-gegen-Russland/!6215559/",
+   "q": "taz",
+   "d": "2026-09-23T10:53:00+00:00"
+  },
+  {
+   "t": "Zwangsrekrutierungen für russische Armee: In Shorts und Badeschlappen entführt",
+   "s": "Wegen hoher Verluste braucht die russische Armee neues Kanonenfutter für die Front. Immer öfter werden auch kranke Menschen zwangsrekrutiert.",
+   "u": "https://taz.de/Zwangsrekrutierungen-fuer-russische-Armee/!6215357/",
+   "q": "taz",
+   "d": "2026-09-23T10:25:00+00:00"
+  },
   {
    "t": "Grönland-Abkommen unterzeichnet: Happy End in New York",
    "s": "Trump, Frederiksen und Nielsen besiegeln den Grönland-Deal. Geplant sind zwei neue US-Basen und eine engere sicherheitspolitische Zusammenarbeit.",
@@ -25,7 +46,7 @@
   },
   {
    "t": "Streit um EU-Sanktionen: Zum Preis von zwei russischen Oligarchen",
-   "s": "Kurz vor knapp findet die EU eine Möglichkeit ihre Russland-Sanktionen doch zu verlängern. Die Enthaltung eines Landes machte es möglich.",
+   "s": "Kurz vor knapp findet die EU eine Möglichkeit, ihre Russland-Sanktionen doch zu verlängern. Die Enthaltung eines Landes machte es möglich.",
    "u": "https://taz.de/Streit-um-EU-Sanktionen/!6215522/",
    "q": "taz",
    "d": "2026-09-22T16:28:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Neuanfang-in-Armenien/!6213784/",
    "q": "taz",
    "d": "2026-09-18T05:53:00+00:00"
-  },
-  {
-   "t": "Beziehungen zwischen Kanada und der EU: Kanada möchte „engere Bande“ mit Europa",
-   "s": "Von der Leyen hat ein Assoziierungsabkommen mit Kanada vorgeschlagen. Dessen Premier Mark Carney begrüßt den Vorstoß. Trump ist erzürnt.",
-   "u": "https://taz.de/Beziehungen-zwischen-Kanada-und-der-EU/!6213957/",
-   "q": "taz",
-   "d": "2026-09-17T17:44:00+00:00"
-  },
-  {
-   "t": "Opposition in Schweden: Pingpong um Mandate sorgt für Nervenkitzel",
-   "s": "Vier Tage nach der Wahl in Schweden steht der knappe Wahlsieg der Opposition um die Sozialdemokraten fest. Die Regierungsbildung wird schwierig.",
-   "u": "https://taz.de/Opposition-in-Schweden/!6213916/",
-   "q": "taz",
-   "d": "2026-09-17T17:42:00+00:00"
-  },
-  {
-   "t": "Opposition in Russland: Fernsehkoch Pawel Sjutkin muss sechs Jahre in Haft",
-   "s": "Sein Hitler-Vergleich hat Russlands Präsident Putin nicht gefallen. Jetzt muss Fernsehkoch Pawel Sjutkin ins Gefängnis. Er nennt es eine „kreative Dienstreise“.",
-   "u": "https://taz.de/Russland/!6213945/",
-   "q": "taz",
-   "d": "2026-09-17T17:41:00+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-09-23T08:36:18+00:00",
+ "updated": "2026-09-23T14:14:50+00:00",
  "items": [
+  {
+   "t": "Frauengesundheit: Wenn der Herzinfarkt übersehen wird",
+   "s": "Bestimmte Krankheiten äußern sich bei Frauen anders als bei Männern. Trotzdem werden geschlechtsspezifische Unterschiede häufig zu wenig berücksichtigt. Eine neue Allianz fordert Aufmerksamkeit. Von Philipp Wundersee.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/frauengesundheit-forschung-allianz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T15:50:46+00:00"
+  },
   {
    "t": "Gründung einer Allianz für Frauengesundheit in Berlin",
    "s": "Gründung einer Allianz für Frauengesundheit in Berlin",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/forschung/ig-nobelpreise-zuerich-100.html",
    "q": "Tagesschau",
    "d": "2026-09-03T19:40:23+00:00"
-  },
-  {
-   "t": "Wetterphänomen El Niño wird überall zu spüren sein",
-   "s": "Dürren, Überschwemmungen, Taifune: Die Weltwetterorganisation rechnet in diesem Jahr mit einem Rekord-El-Niño - und zahlreichen Opfern im Pazifikraum. Auch Europa wird betroffen sein - aber auf andere Weise. Von Frank Bäumer.",
-   "u": "https://www.tagesschau.de/wissen/klima/el-nino-wmo-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T12:27:19+00:00"
   }
  ]
 }
