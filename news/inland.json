@@ -1,7 +1,105 @@
 {
  "name": "Inland",
- "updated": "2026-09-23T14:14:47+00:00",
+ "updated": "2026-09-23T19:04:03+00:00",
  "items": [
+  {
+   "t": "Antisemitismus-Streit in der Linken: An Koçak spaltet sich die Linkspartei",
+   "s": "Die Linke streitet über den Umgang mit ihrem Abgeordneten Ferat Koçak. Gefährden die Antisemitismusvorwürfe die rot-rot-grüne Regierungsbildung in Berlin?",
+   "u": "https://taz.de/Antisemitismus-Streit-in-der-Linken/!6215665/",
+   "q": "taz",
+   "d": "2026-09-23T17:29:00+00:00"
+  },
+  {
+   "t": "Gibt es die politische Mitte noch?",
+   "s": "Zweimal AfD, einmal Die Linke - das sind die großen Gewinnerinnen der Wahlen in diesem Herbst. CDU und SPD wirken angeschlagen. Wie zerklüftet und polarisiert ist die deutsche Parteienlandschaft? Und was heißt das für unsere Demokratie?Schäfer, Christoph",
+   "u": "https://www.deutschlandfunk.de/politische-mitte-linke-afd-parteien-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-23T17:15:00+00:00"
+  },
+  {
+   "t": "Gesetzesverschärfung geplant - Kein K.o. für K.-o.-Tropfen",
+   "s": "Die Bundesregierung will den Einsatz von K.-o.-Tropfen bei Sexual- und Raubdelikten härter bestrafen, um Täter abzuschrecken. Betroffene und Fachleute begrüßen das nur teilweise. Sie sehen das Problem woanders: Die Taten lassen sich schwer nachweisen.",
+   "u": "https://www.deutschlandfunk.de/ko-tropfen-strafe-gesetz-sexualstrafrecht-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-23T16:43:00+00:00"
+  },
+  {
+   "t": "Steigende Rüstungsausgaben: Union fürchtet „Goldgräberstimmung“",
+   "s": "Die Union sorgt sich im Bundestag um Geldverschwendung bei Rüstungsausgaben. Der Verteidigungsminister verweist auf den Kapitalismus als Problem.",
+   "u": "https://taz.de/Steigende-Ruestungsausgaben/!6215456/",
+   "q": "taz",
+   "d": "2026-09-23T16:26:00+00:00"
+  },
+  {
+   "t": "Zweites Urteil in New York: Harvey Weinstein zu 15 Jahren Haft verurteilt",
+   "s": "Mehr als sechs Jahre nach der ersten Verurteilung des Filmproduzenten wegen Sexualverbrechen wurde er nun erneut schuldig gesprochen.",
+   "u": "https://taz.de/Zweites-Urteil-in-New-York/!6215878/",
+   "q": "taz",
+   "d": "2026-09-23T16:19:00+00:00"
+  },
+  {
+   "t": "EU-Sanktionen gegen Russland: Oh là là, Oligarch",
+   "s": "Frankreich lässt einen russischen Oligarchen von der EU-Sanktionsliste streichen. Gleichzeitig lässt Aserbaidschan einen Franzosen frei. Der Deal sorgt für Kritik.",
+   "u": "https://taz.de/EU-Sanktionen-gegen-Russland/!6215667/",
+   "q": "taz",
+   "d": "2026-09-23T16:09:00+00:00"
+  },
+  {
+   "t": "Grundsicherung und Missbrauchsdebatte: Aktionsplan gegen Sozialbetrug beschlossen",
+   "s": "Die Bundesregierung will verstärkt gegen Sozialmissbrauch durch EU-Bürger:innen vorgehen. Aber Aufstockende aus der EU haben es heute schon schwer.",
+   "u": "https://taz.de/Grundsicherung-und-Missbrauchsdebatte/!6215708/",
+   "q": "taz",
+   "d": "2026-09-23T16:01:00+00:00"
+  },
+  {
+   "t": "1.673 Tage Krieg in der Ukraine: Zum Urlaub nach Hause, trotz Krieg",
+   "s": "Aus ganz Europa fahren Ukrainer trotz des Krieges in ihre Heimat. Dafür gibt es verschiedene Gründe. Drei Familien berichten von ihrer Situation.",
+   "u": "https://taz.de/1673-Tage-Krieg-in-der-Ukraine/!6207944/",
+   "q": "taz",
+   "d": "2026-09-23T15:51:00+00:00"
+  },
+  {
+   "t": "EU-Mittel für Ungarn: In Budapest klingelt die Kasse",
+   "s": "Die EU-Kommission gibt 4,2 Milliarden Euro aus dem EU-Kohäsionsfonds frei. Damit würden die Reformbemühungen der neuen Regierung gewürdigt, heißt es.",
+   "u": "https://taz.de/EU-Mittel-fuer-Ungarn/!6215725/",
+   "q": "taz",
+   "d": "2026-09-23T15:46:00+00:00"
+  },
+  {
+   "t": "Söldner für den Ukraine-Feldzug: Russland rekrutiert Afrikas Jugend für seinen Krieg",
+   "s": "Russland lockt junge Menschen an die Ukraine-Front. Die Strategie dabei: vermeintliche Jobange­­bote und finanzielle Versprechen.",
+   "u": "https://taz.de/Soeldner-fuer-den-Ukraine-Feldzug/!6197762/",
+   "q": "taz",
+   "d": "2026-09-23T15:35:00+00:00"
+  },
+  {
+   "t": "Urteil gegen Ex-Milizenführer Said: Ein Schritt zur Aufarbeitung",
+   "s": "Mit Said Abdel Kani ist erstmals ein Mitglied der Seleka-Miliz verurteilt worden. Die hat in der Zentralafrikanischen Republik schwerste Verbrechen begangen.",
+   "u": "https://taz.de/Urteil-gegen-Ex-Milizenfuehrer-Said/!6215662/",
+   "q": "taz",
+   "d": "2026-09-23T15:25:00+00:00"
+  },
+  {
+   "t": "Stolpersteine in Sachsen: „Das dient nicht dem Erinnern, sondern dem Vergessen“",
+   "s": "In Heidenau unterstützen CDU- und AfD-Mitglieder einen Antrag gegen die Gedenksteine für Opfer der Nazis. Betroffenenverbände kritisieren den Vorstoß.",
+   "u": "https://taz.de/Stolpersteine-in-Sachsen/!6215252/",
+   "q": "taz",
+   "d": "2026-09-23T15:12:00+00:00"
+  },
+  {
+   "t": "Antisemitismus und Enteignungen – Ist die Linke regierungsfähig?",
+   "s": "Die Kritik an der Berliner Linken lässt nicht nach. Müssen Grüne und SPD die Reißleine ziehen oder sind die Vorwürfe übertrieben? Außerdem: Trump bei der UN-Generaldebatte – ist der US-Präsident schon eine Lame Duck?Philipp May",
+   "u": "https://www.deutschlandfunk.de/linke-regierungsbildung-un-trump-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-23T15:00:00+00:00"
+  },
+  {
+   "t": "AfD-Besuch in Österreich: Nachhilfe in Sachen Machtergreifung",
+   "s": "Eine Delegation der AfD Sachsen-Anhalt trifft sich zum Meinungsaustausch mit Kollegen der rechtsextremen FPÖ. Deren Chef Herbert Kickl ist voller Lob.",
+   "u": "https://taz.de/AfD-Besuch-in-Oesterreich/!6215635/",
+   "q": "taz",
+   "d": "2026-09-23T14:26:00+00:00"
+  },
   {
    "t": "Britische Weltraumstrategie: London schützt Satelliten mit neuer Weltraumeinheit",
    "s": "Das Weltall ist zum Kriegsschauplatz geworden, sagt der Chef der Royal Air Force. Britische Satelliten sollen von einer eigenen Militäreinheit geschützt werden.",
@@ -18,7 +116,7 @@
   },
   {
    "t": "Kabinett beschließt Gesetzentwurf für digitalen Kassenbon ab 2028",
-   "s": "Weniger Papier, weniger Bürokratie und auch weniger Steuerbetrug: Darauf setzt das Kabinett mit einem neuen Gesetzentwurf. Ab 2028 sollen Kassenbons künftig digital werden. Für wen es Ausnahmen geben soll - und was der Einzelhandel kritisiert.",
+   "s": "Weniger Papier, weniger Bürokratie und auch weniger Steuerbetrug: Darauf setzt das Kabinett mit einem neuen Gesetzentwurf. Ab 2028 sollen Kassenbons digital werden. Für wen es Ausnahmen geben soll - und was der Einzelhandel kritisiert.",
    "u": "https://www.tagesschau.de/inland/kassenbon-digital-104.html",
    "q": "Tagesschau",
    "d": "2026-09-23T13:36:24+00:00"
@@ -71,104 +169,6 @@
    "u": "https://www.tagesschau.de/inland/ko-tropfen-strafen-gesetzentwurf-100.html",
    "q": "Tagesschau",
    "d": "2026-09-23T09:30:19+00:00"
-  },
-  {
-   "t": "Warnungen vor Koalition mit der Linken in Berlin",
-   "s": "Nach dem Berliner Wahlerfolg nimmt die Linke Kurs aufs Rote Rathaus. Die möglichen Koalitionspartner äußern Bedenken - wegen antisemitischer Tendenzen in der Partei. Andere warnen vor den Folgen für Juden in der Hauptstadt.",
-   "u": "https://www.tagesschau.de/inland/linke-berlin-antisemitismus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T09:08:41+00:00"
-  },
-  {
-   "t": "Mehrzweckeier und Bundeswehrwerbung: Am Mittelfinger gepackt",
-   "s": "Das Radargerät des Autors gibt angesichts der Wehrpflicht dunkle Aussichten preis. Aber entspricht das auch der Realität?",
-   "u": "https://taz.de/Mehrzweckeier-und-Bundeswehrwerbung/!6205429/",
-   "q": "taz",
-   "d": "2026-09-23T08:57:00+00:00"
-  },
-  {
-   "t": "Können Wohnungen in Berlin vergesellschaftet werden?",
-   "s": "Die Linke will in Berlin Wohnungen von großen Konzernen vergesellschaften. Im Fokus steht ein Artikel aus dem Grundgesetz, der noch nie angewandt wurde. Juristisch ist das Vorgehen umstritten. Von A. Stephany, A. Lagmöller und M. Bauer.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/wohnungen-vergesellschaftung-berlin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T08:17:39+00:00"
-  },
-  {
-   "t": "Debatte um Wahlbetrug: US-Regierung meldet nur 160 Festnahmen wegen möglicher Wahlverstöße",
-   "s": "Die Trump-Regierung beklagt Wahlbetrug durch Nicht-US-Bürger. Die nun veröffentlichten Zahlen zeigen jedoch deutlich weniger Fälle als behauptet.",
-   "u": "https://taz.de/Debatte-um-Wahlbetrug/!6215560/",
-   "q": "taz",
-   "d": "2026-09-23T08:02:00+00:00"
-  },
-  {
-   "t": "UN-Vollversammlung in New York: Donald Trump zwischen Kriegstreiber und Friedensstifter",
-   "s": "Der US-Präsident nutzt die Generalversammlung der Vereinten Nationen ein weiteres Mal zur Selbstinszenierung. Themen waren unter anderem der Krieg in Iran.",
-   "u": "https://taz.de/UN-Vollversammlung-in-New-York/!6215544/",
-   "q": "taz",
-   "d": "2026-09-23T07:57:00+00:00"
-  },
-  {
-   "t": "Deutschland tritt UN-Hochseeschutzabkommen bei",
-   "s": "Plastikmüll, Überfischung und Klimawandel belasten die Ozeane. Zum Schutz der Hochsee gibt es deshalb ein UN-Abkommen - und Deutschland ist dem nun beigetreten. Es geht um den Schutz von zwei Dritteln der Meeresfläche.",
-   "u": "https://www.tagesschau.de/inland/hochseeschutzabkommen-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T07:07:18+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Iran-Krieg +++: USA und Iran nehmen Gespräche wieder auf",
-   "s": "Trotz Trumps neuer Drohungen kommen die USA und Iran am Rande der UN-Vollversammlung in New York erstmals seit dem Scheitern der Waffenruhe wieder ins Gespräch.",
-   "u": "https://taz.de/-Nachrichten-im-Iran-Krieg-/!6215541/",
-   "q": "taz",
-   "d": "2026-09-23T06:02:00+00:00"
-  },
-  {
-   "t": "Kanzleramtschefin Warken verspricht Tempo bei Reformen",
-   "s": "Kanzleramtschefin Warken hat einflussreichen Wirtschaftsverbänden zugesagt, dass die geplanten Reformen zügig kämen - trotz Unruhe in der Koalition. Von einem Treffen der Koalitionsspitzen drang nichts nach außen.",
-   "u": "https://www.tagesschau.de/inland/reformdebatte-warken-koalition-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T05:57:37+00:00"
-  },
-  {
-   "t": "Grönland-Abkommen unterzeichnet: Happy End in New York",
-   "s": "Trump, Frederiksen und Nielsen besiegeln den Grönland-Deal. Geplant sind zwei neue US-Basen und eine engere sicherheitspolitische Zusammenarbeit.",
-   "u": "https://taz.de/Groenland-Abkommen-unterzeichnet/!6215540/",
-   "q": "taz",
-   "d": "2026-09-23T05:53:00+00:00"
-  },
-  {
-   "t": "Bürgerkrieg in Sudan: Die Revolution, die im Krieg endete",
-   "s": "Armee und RSF-Miliz überziehen Sudan mit Gewalt. Der Konflikt reicht weit über die Grenzen des Landes hinaus.",
-   "u": "https://taz.de/Buergerkrieg-in-Sudan/!6197749/",
-   "q": "taz",
-   "d": "2026-09-23T05:22:00+00:00"
-  },
-  {
-   "t": "Unionsfraktion: Kein Aufstand gegen Merz - aber großes Grummeln",
-   "s": "Nach dem Wahldebakel vom Wochenende hatte Kanzler Merz noch einen schwierigen Termin vor sich: die Sitzung der Unionsfraktion im Bundestag. Dort erhielt er schließlich vor allem Zuspruch - er müsse nun aber auch liefern. Von Katrin Aue.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-unionsfraktion-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T05:13:21+00:00"
-  },
-  {
-   "t": "Strafvollzug in Österreich: Tödliche Messerstiche im Knast",
-   "s": "Österreichische Haftanstalten sind total überbelegt. Vor allem mangelt es an psychiatrischer Versorgung der Häftlinge. Experten schlagen Alarm.",
-   "u": "https://taz.de/Strafvollzug-in-Oesterreich/!6214316/",
-   "q": "taz",
-   "d": "2026-09-23T05:07:00+00:00"
-  },
-  {
-   "t": "11KM-Podcast: Warum Regieren immer komplizierter wird",
-   "s": "Nach den Landtagswahlen ist der Kanzler angezählt, seine Reformen stehen auf der Kippe und der Politikbetrieb wirkt aus dem Tritt. Der Podcast 11KM über eine Demokratie im Dauerstress.",
-   "u": "https://www.tagesschau.de/inland/podcast-11km-wahlen-reformen-kanzler-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T04:41:44+00:00"
-  },
-  {
-   "t": "UN-Vollversammlung: Außenminister hofft auf Bewegung im Irankrieg",
-   "s": "Am Rande der UN-Generaldebatte haben Vertreter der USA und des Iran Gespräche geführt. Bundesaußenminister Johann Wadephul hofft nun auf Verhandlungen zum Ende des Krieges. \"Wir machen hier Druck, dass die Straße von Hormus wieder freigegeben wird.\"Buschert, Fanny",
-   "u": "https://www.deutschlandfunk.de/zur-un-generaldebatte-interview-johann-wadephul-cdu-bundesaussenminister-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-23T03:06:00+00:00"
   }
  ]
 }

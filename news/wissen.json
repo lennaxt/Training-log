@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-09-23T14:14:50+00:00",
+ "updated": "2026-09-23T19:04:05+00:00",
  "items": [
+  {
+   "t": "Ehrenamtliche renaturieren Moor im Erzgebirge",
+   "s": "Moore können Klimaschützer sein. Aber nur, wenn sie intakt und feucht genug sind. Im Seifenwerkmoor im Erzgebirge arbeiten ehrenamtliche Helfer ihrer Freizeit daran, ein Moorgebiet wiederzubeleben.",
+   "u": "https://www.tagesschau.de/video/video-1654414.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T16:52:25+00:00"
+  },
   {
    "t": "Frauengesundheit: Wenn der Herzinfarkt übersehen wird",
    "s": "Bestimmte Krankheiten äußern sich bei Frauen anders als bei Männern. Trotzdem werden geschlechtsspezifische Unterschiede häufig zu wenig berücksichtigt. Eine neue Allianz fordert Aufmerksamkeit. Von Philipp Wundersee.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/luftqualitaet-braende-feinstaub-wmo-100.html",
    "q": "Tagesschau",
    "d": "2026-09-07T09:56:13+00:00"
-  },
-  {
-   "t": "Ig-Nobelpreise: Unterhosen verbuddeln für die Wissenschaft",
-   "s": "Erst lachen, dann nachdenken: Um einen Ig-Nobelpreis zu bekommen, muss ein Forschungsthema lustig wirken - aber trotzdem etwas Ernsthaftes dahinterstecken. Dieses Jahr wird der Preis zum ersten Mal in Zürich vergeben. Von David Beck.",
-   "u": "https://www.tagesschau.de/wissen/forschung/ig-nobelpreise-zuerich-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-03T19:40:23+00:00"
   }
  ]
 }

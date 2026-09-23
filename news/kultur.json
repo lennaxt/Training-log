@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-23T14:14:52+00:00",
+ "updated": "2026-09-23T19:04:08+00:00",
  "items": [
+  {
+   "t": "Zweites Urteil in New York: Harvey Weinstein zu 15 Jahren Haft verurteilt",
+   "s": "Mehr als sechs Jahre nach der ersten Verurteilung des Filmproduzenten wegen Sexualverbrechen wurde er nun erneut schuldig gesprochen.",
+   "u": "https://taz.de/Zweites-Urteil-in-New-York/!6215878/",
+   "q": "taz",
+   "d": "2026-09-23T16:19:00+00:00"
+  },
   {
    "t": "Debatte um Wahlbetrug: US-Regierung meldet nur 160 Festnahmen wegen möglicher Wahlverstöße",
    "s": "Die Trump-Regierung beklagt Wahlbetrug durch Nicht-US-Bürger. Die nun veröffentlichten Zahlen zeigen jedoch deutlich weniger Fälle als behauptet.",
@@ -80,7 +87,7 @@
    "d": "2026-09-21T07:20:00+00:00"
   },
   {
-   "t": "Trump und seine Umbenneritis: Sein Name, seine Stadt, seine Welt",
+   "t": "Trump und seine Umbenenneritis: Sein Name, seine Stadt, seine Welt",
    "s": "Donald Trump will sich in Washington verewigen – im Fall des Kennedy-Centers sogar buchstäblich. Man muss sich sorgen um die Kulturinstitution.",
    "u": "https://taz.de/Trump-und-seine-Umbenneritis/!6208372/",
    "q": "taz",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/15-Jahre-Occupy-Wall-Street/!6213571/",
    "q": "taz",
    "d": "2026-09-17T05:41:00+00:00"
-  },
-  {
-   "t": "Nach US-Medienberichten: Washington will Milliarden-Rüstungspaket für Israel genehmigen",
-   "s": "Rüstungsgüter im Wert von 2,8 Milliarden Dollar wollen die USA an Israel liefern. Darunter einige der „zerstörerischsten Munitionsarten“ westlicher Arsenale.",
-   "u": "https://taz.de/Nach-US-Medienberichten/!6213579/",
-   "q": "taz",
-   "d": "2026-09-16T11:01:00+00:00"
   }
  ]
 }

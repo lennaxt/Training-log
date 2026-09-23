@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-23T14:14:51+00:00",
+ "updated": "2026-09-23T19:04:07+00:00",
  "items": [
+  {
+   "t": "EU-Sanktionen gegen Russland: Oh là là, Oligarch",
+   "s": "Frankreich lässt einen russischen Oligarchen von der EU-Sanktionsliste streichen. Gleichzeitig lässt Aserbaidschan einen Franzosen frei. Der Deal sorgt für Kritik.",
+   "u": "https://taz.de/EU-Sanktionen-gegen-Russland/!6215667/",
+   "q": "taz",
+   "d": "2026-09-23T16:09:00+00:00"
+  },
+  {
+   "t": "1.673 Tage Krieg in der Ukraine: Zum Urlaub nach Hause, trotz Krieg",
+   "s": "Aus ganz Europa fahren Ukrainer trotz des Krieges in ihre Heimat. Dafür gibt es verschiedene Gründe. Drei Familien berichten von ihrer Situation.",
+   "u": "https://taz.de/1673-Tage-Krieg-in-der-Ukraine/!6207944/",
+   "q": "taz",
+   "d": "2026-09-23T15:51:00+00:00"
+  },
+  {
+   "t": "X klagt gegen Landesmedienanstalt: Alles für die Nazi-Parole",
+   "s": "Vorm Verwaltungsgericht Hannover geht X gegen die Niedersächsische Landesmedienanstalt vor. Es geht um einen Post des Coronakritikers Stefan Homburg.",
+   "u": "https://taz.de/X-klagt-gegen-Landesmedienanstalt/!6215442/",
+   "q": "taz",
+   "d": "2026-09-23T15:48:00+00:00"
+  },
+  {
+   "t": "EU-Mittel für Ungarn: In Budapest klingelt die Kasse",
+   "s": "Die EU-Kommission gibt 4,2 Milliarden Euro aus dem EU-Kohäsionsfonds frei. Damit würden die Reformbemühungen der neuen Regierung gewürdigt, heißt es.",
+   "u": "https://taz.de/EU-Mittel-fuer-Ungarn/!6215725/",
+   "q": "taz",
+   "d": "2026-09-23T15:46:00+00:00"
+  },
+  {
+   "t": "AfD-Besuch in Österreich: Nachhilfe in Sachen Machtergreifung",
+   "s": "Eine Delegation der AfD Sachsen-Anhalt trifft sich zum Meinungsaustausch mit Kollegen der rechtsextremen FPÖ. Deren Chef Herbert Kickl ist voller Lob.",
+   "u": "https://taz.de/AfD-Besuch-in-Oesterreich/!6215635/",
+   "q": "taz",
+   "d": "2026-09-23T14:26:00+00:00"
+  },
   {
    "t": "Britische Weltraumstrategie: London schützt Satelliten mit neuer Weltraumeinheit",
    "s": "Das Weltall ist zum Kriegsschauplatz geworden, sagt der Chef der Royal Air Force. Britische Satelliten sollen von einer eigenen Militäreinheit geschützt werden.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Nato-Militaerausschuss/!6214677/",
    "q": "taz",
    "d": "2026-09-20T07:11:00+00:00"
-  },
-  {
-   "t": "Einigung USA-Dänemark: Trump bekommt einen Grönland-Deal",
-   "s": "Ein neues Abkommen sichert den USA eine dauerhafte Militärpräsenz auf Grönland. Doch die Darstellungen dazu klingen unterschiedlich.",
-   "u": "https://taz.de/Einigung-USA-Daenemark/!6214648/",
-   "q": "taz",
-   "d": "2026-09-19T06:33:00+00:00"
-  },
-  {
-   "t": "Geflüchtete in Ceuta: Vom Strand an den Hafen",
-   "s": "Seit Wochen harren Hunderte Migranten in provisorischen Unterkünften am Strand von Ceuta aus. Madrid greift durch und verlegt die Menschen in neue Lager.",
-   "u": "https://taz.de/Gefluechtete-in-Ceuta/!6214317/",
-   "q": "taz",
-   "d": "2026-09-18T15:01:00+00:00"
-  },
-  {
-   "t": "Regierungskrise in Rumänien: Nächster Versuch",
-   "s": "Siegfried Mureșan, EU-Abgeordneter und Wunschkandidat von Staatschef von Nicușor Dan, soll Premier werden. Doch dafür fehlt eine Mehrheit im Parlament.",
-   "u": "https://taz.de/Regierungskrise-in-Rumaenien/!6214385/",
-   "q": "taz",
-   "d": "2026-09-18T14:06:00+00:00"
-  },
-  {
-   "t": "Tagebuch aus der Ukraine: Wir waren doch eine ganz normale Familie",
-   "s": "Der lange Krieg belastet den Alltag der Menschen in der Ukraine sehr. Viele Ehen wurden geschieden. Erst in jüngster Zeit wird wieder mehr geheiratet.",
-   "u": "https://taz.de/Tagebuch-aus-der-Ukraine/!6207628/",
-   "q": "taz",
-   "d": "2026-09-18T09:17:00+00:00"
-  },
-  {
-   "t": "Neuanfang in Armenien: Die Heimat, die es nicht mehr gibt",
-   "s": "Drei Jahre nach der Eroberung Bergkarabachs durch Aserbaidschan leben Zehntausende Karabach-Armenier in Armenien. Viele träumen von einer Rückkehr.",
-   "u": "https://taz.de/Neuanfang-in-Armenien/!6213784/",
-   "q": "taz",
-   "d": "2026-09-18T05:53:00+00:00"
   }
  ]
 }

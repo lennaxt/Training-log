@@ -1,7 +1,42 @@
 {
  "name": "Ausland",
- "updated": "2026-09-23T14:14:48+00:00",
+ "updated": "2026-09-23T19:04:04+00:00",
  "items": [
+  {
+   "t": "Iran wehrt sich vor UN gegen Trump-Drohungen",
+   "s": "In einer Rede vor den Vereinten Nationen hat Irans Präsident Peseschkian eine internationale Ordnung der \"Gewalttätigen\" beklagt - und sich gegen US-Präsident Trumps Drohungen gewehrt. Doch es wurde auch verhandelt.",
+   "u": "https://www.tagesschau.de/ausland/peseschkian-rede-un-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T18:34:47+00:00"
+  },
+  {
+   "t": "Ex-Hollywood-Produzent Harvey Weinstein erneut verurteilt",
+   "s": "Die Enthüllungen über die Übergriffe von Hollywood-Produzent Weinstein lösten vor fast zehn Jahren die weltweite MeToo-Bewegung aus. Nun ist der 74-Jährige erneut wegen Sexualdelikten zu einer langen Haft verurteilt worden.",
+   "u": "https://www.tagesschau.de/ausland/usa-weinstein-haft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T18:27:35+00:00"
+  },
+  {
+   "t": "EU streicht Oligarchen von Sanktionsliste: Ein Kompromiss, der für Diskussionen sorgt",
+   "s": "Die EU hat zwei russische Oligarchen von der Sanktionsliste gestrichen. Im Gegenzug wurde inzwischen ein Franzose in Aserbaidschan begnadigt. Hat sich die EU erpressbar gemacht? In Brüssel versucht man, sich zu erklären. Von T. Spickhofen.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-142.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T16:50:49+00:00"
+  },
+  {
+   "t": "Neuer Sender übernimmt: Niederlande nehmen wieder am ESC teil",
+   "s": "Nach einem Jahr Abwesenheit wollen die Niederlande 2027 wieder beim Eurovision Song Contest mit dabei sein. Der öffentlich-rechtliche Rundfunk übernimmt vom bisherigen Sender. Ein erneuter Boykott wegen der Teilnahme Israels ist damit vom Tisch.",
+   "u": "https://www.tagesschau.de/ausland/europa/esc-niederlande-boykott-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T15:44:34+00:00"
+  },
+  {
+   "t": "Wieder Tote bei russischen Angriffen auf zivile Infrastruktur in der Ukraine",
+   "s": "Russland hat die Ukraine in der Nacht mit neuen Angriffen überzogen. Landesweit starben mehre Menschen, Dutzende wurden verletzt. Polen meldete eine erneute Verletzung seines Luftraums durch einen russischen Militärhubschrauber.",
+   "u": "https://www.tagesschau.de/ausland/europa/angriffe-auf-ukraine-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T14:19:14+00:00"
+  },
   {
    "t": "Trump und Selenskyj sprechen über Deeskalation mit Russland",
    "s": "Der US-Präsident war bei der UN-Generalversammlung ein gefragter Gesprächspartner. Mit dem ukrainischen Staatschef Selenskyj sprach Trump über den russischen Angriffskrieg. Vom französischen Präsidenten Macron bekam er Gegenwind.",
@@ -108,13 +143,6 @@
    "d": "2026-09-22T02:05:13+00:00"
   },
   {
-   "t": "UN-Generaldebatte in New York - Rede von Trump geplant",
-   "s": "Treffen mit Selenskyj, Grönland-Abkommen: Am Rande der UN-Generaldebatte stehen für Trump gleich mehrere Termine auf dem Plan. Auch eine Rede will er wieder halten - nach einem denkwürdigen Auftritt im vergangenen Jahr. Von M. Ganslmeier.",
-   "u": "https://www.tagesschau.de/ausland/un-trump-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T00:39:03+00:00"
-  },
-  {
    "t": "Japan wappnet sich für Taifun \"Dujuan\"",
    "s": "Taifun \"Dujuan\" bewegt sich auf Japan zu. Im Großraum Tokio sollen sich 1,6 Millionen Menschen vorsorglich in Sicherheit bringen, Hunderte Flüge wurden gestrichen. Die Behörden warnen vor Starkregen und Erdrutschen.",
    "u": "https://www.tagesschau.de/ausland/asien/taifun-dujuan-100.html",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/afrika/kenia-ruto-migranten-100.html",
    "q": "Tagesschau",
    "d": "2026-09-20T12:09:09+00:00"
-  },
-  {
-   "t": "Ukrainische Drohnenangriffe auf Region Moskau - mehrere Tote",
-   "s": "Bei Angriffen der Ukraine mit Hunderten Drohnen hat es in Russland mindestens zwei Tote gegeben. In der Region um Moskau wurde eine Raffinerie getroffen. Auch bei russischen Angriffen starben mehrere Menschen.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T09:33:43+00:00"
-  },
-  {
-   "t": "Wie geht China mit den Gefahren durch Künstliche Intelligenz um?",
-   "s": "Debatten um die Eindämmung der Gefahren durch Künstliche Intelligenz enden in den USA meist mit dem Hinweis, dass China dann einen gefährlichen Vorsprung erlange. Doch wo steht Peking in der Debatte? Von Jörg Endriss.",
-   "u": "https://www.tagesschau.de/ausland/asien/china-ki-wettlauf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T13:08:46+00:00"
-  },
-  {
-   "t": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
-   "s": "Der Nordwesten Pakistans gilt als Unruheregion. Nun gab es dort - im Grenzgebiet zu Afghanistan - erneut einen verheerenden Anschlag mit vielen Toten und Verletzten. Noch ist unklar, wer dahinter steckt.",
-   "u": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T17:22:37+00:00"
-  },
-  {
-   "t": "Projekt in Dänemark gestartet: Greensand soll CO2-Speicher Europas werden",
-   "s": "Mit dem Projekt Greensand ist das erste CO2-Einlagerungsprojekt in der EU gestartet. Unter der Nordsee soll in Zukunft klimaschädliches CO2 dauerhaft im Meeresboden gespeichert werden. Doch es gibt auch Kritik. Von A. Bartram.",
-   "u": "https://www.tagesschau.de/ausland/europa/daenemark-greensand-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T17:03:15+00:00"
   }
  ]
 }

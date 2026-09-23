@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-23T14:14:49+00:00",
+ "updated": "2026-09-23T19:04:05+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 23.09.2026",
+   "s": "Wirtschaft vor acht vom 23.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1654526.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T18:46:54+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX baut Verluste aus",
+   "s": "Der wieder steigende Öl-Preis drückt den DAX weiter ins Minus. Die jüngst aufgekeimte Hoffnung auf eine Entspannung am Öl-Markt ist vorerst wieder dahin.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T16:00:34+00:00"
+  },
   {
    "t": "Versandapotheke der Drogeriemarktkette dm vor Gericht",
    "s": "Seit Dezember 2025 verkauft dm über ein Tochterunternehmen rezeptfreie Medikamente. Dagegen hat die Wettbewerbszentrale geklagt. Eine Vermischung von Drogerie- und Apothekenangebot sei unzulässig. Von Kolja Schwartz.",
@@ -87,13 +101,6 @@
    "d": "2026-09-23T03:29:12+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 22.09.2026",
-   "s": "Wirtschaft vor acht vom 22.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1653820.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T18:19:28+00:00"
-  },
-  {
    "t": "Werben um Fachkräfte: Warum immer mehr Griechen Deutschland verlassen",
    "s": "Lange profitierte der deutsche Arbeitsmarkt von Griechen, die während der Eurokrise ins Land kamen. Doch diese Zeit scheint vorbei: Die griechische Regierung wirbt gezielt um ihre Talente, auch in Deutschland. Von J. Riemann.",
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/fachkraefte-mangel-deutschland-griechenland-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.deutschlandfunk.de/kanada-eu-allianz-usa-trump-zollpolitik-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-17T14:57:00+00:00"
-  },
-  {
-   "t": "Hohe Spritpreise - Kommentar: Die Abhängigkeit von Öl und Gas macht uns ärmer",
-   "s": "Der Krieg in der Golfregion und seine Auswirkungen treiben die Ölpreise weiter nach oben. Staatliche Hilfen nach dem Gießkannenprinzip greifen jedoch zu kurz und senden falsche Signale. Zumal der hohe Ölpreis auch nachweislich positive Effekte hat.Ein Kommentar von Dorothee Holz",
-   "u": "https://www.deutschlandfunk.de/kommentar-benzinpreise-oelpreis-irankrieg-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-16T09:49:00+00:00"
   }
  ]
 }
