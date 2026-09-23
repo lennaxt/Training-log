@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-09-23T19:04:04+00:00",
+ "updated": "2026-09-23T23:42:47+00:00",
  "items": [
+  {
+   "t": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein",
+   "s": "Vor sieben Jahren war Russlands Präsident Putin das letzte Mal persönlich bei einem G20-Gipfel. Nun haben die USA ihn nach Angaben von Außenminister Rubio nach Miami eingeladen. Die Aussicht auf eine Waffenruhe in der Ukraine bleibt aber vage.",
+   "u": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T19:59:52+00:00"
+  },
   {
    "t": "Iran wehrt sich vor UN gegen Trump-Drohungen",
    "s": "In einer Rede vor den Vereinten Nationen hat Irans Präsident Peseschkian eine internationale Ordnung der \"Gewalttätigen\" beklagt - und sich gegen US-Präsident Trumps Drohungen gewehrt. Doch es wurde auch verhandelt.",
@@ -32,7 +39,7 @@
   },
   {
    "t": "Wieder Tote bei russischen Angriffen auf zivile Infrastruktur in der Ukraine",
-   "s": "Russland hat die Ukraine in der Nacht mit neuen Angriffen überzogen. Landesweit starben mehre Menschen, Dutzende wurden verletzt. Polen meldete eine erneute Verletzung seines Luftraums durch einen russischen Militärhubschrauber.",
+   "s": "Russland hat die Ukraine in der Nacht mit neuen Angriffen überzogen. Landesweit starben mehrere Menschen. Polen meldete eine erneute Verletzung seines Luftraums durch einen russischen Militärhubschrauber.",
    "u": "https://www.tagesschau.de/ausland/europa/angriffe-auf-ukraine-100.html",
    "q": "Tagesschau",
    "d": "2026-09-23T14:19:14+00:00"
@@ -120,13 +127,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-210.html",
    "q": "Tagesschau",
    "d": "2026-09-22T07:00:14+00:00"
-  },
-  {
-   "t": "Trumps Streit mit den Medien in den USA eskaliert",
-   "s": "Der US-Präsident verbannt den weltbekannten Sender CNN und andere Medien aus dem Weißen Haus. Die Betroffenen wehren sich juristisch und bekommen Unterstützung von anderen Medien - auch vom Trump-freundlichen Sender Fox News. Von Ralf Borchard.",
-   "u": "https://www.tagesschau.de/ausland/usa-medien-trump-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T05:17:01+00:00"
   },
   {
    "t": "Tote und Vermisste nach Taifun \"Dujuan\" in Japan",

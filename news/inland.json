@@ -1,7 +1,14 @@
 {
  "name": "Inland",
- "updated": "2026-09-23T19:04:03+00:00",
+ "updated": "2026-09-23T23:42:46+00:00",
  "items": [
+  {
+   "t": "Bundeskabinett beschließt Aktionsplan gegen Sozialmissbrauch",
+   "s": "Die Bundesregierung hat einen Aktionsplan gegen Sozialmissbrauch beschlossen. Er zielt zum Beispiel auf Kriminelle, die Menschen in \"Schrottimmobilien\" unterbringen, für die das Jobcenter überhöhte Mieten zahlen soll. Von D. Pepping.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/aktionsplan-gegen-sozialmissbrauch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T19:11:42+00:00"
+  },
   {
    "t": "Antisemitismus-Streit in der Linken: An Koçak spaltet sich die Linkspartei",
    "s": "Die Linke streitet über den Umgang mit ihrem Abgeordneten Ferat Koçak. Gefährden die Antisemitismusvorwürfe die rot-rot-grüne Regierungsbildung in Berlin?",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/AfD-und-Beamte/!6214993/",
    "q": "taz",
    "d": "2026-09-23T09:34:00+00:00"
-  },
-  {
-   "t": "Beratung über Strafverschärfung bei Delikten mit K.-o.-Tropfen",
-   "s": "Wer K.-o.-Tropfen für eine Vergewaltigung oder einen Raub einsetzt, soll künftig mindestens fünf Jahre ins Gefängnis. Der Bundestag berät heute über den Gesetzentwurf. Justizministerin Hubig setzt zusätzlich auf Aufklärung.",
-   "u": "https://www.tagesschau.de/inland/ko-tropfen-strafen-gesetzentwurf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T09:30:19+00:00"
   }
  ]
 }
