@@ -1,17 +1,31 @@
 {
  "name": "Ausland",
- "updated": "2026-09-22T23:36:20+00:00",
+ "updated": "2026-09-23T08:36:15+00:00",
  "items": [
   {
-   "t": "Mehr Staatsmann und weniger Konfrontation",
-   "s": "US-Präsident Trump hat sich bei der UN-Vollversammlung ungewohnt diszipliniert präsentiert. Doch hinter dem Kurswechsel stecken vor allem innenpolitischer Druck und die Suche nach einem Ausweg, meint Martin Ganslmeier.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-rede-un-kommentar-100.html",
+   "t": "Trump und Selenskyj sprechen über Deeskalation mit Russland",
+   "s": "Der US-Präsident war bei der UN-Generalversammlung ein gefragter Gesprächspartner. Mit dem ukrainischen Staatschef Selenskyj sprach Trump über den russischen Angriffskrieg. Vom französischen Präsidenten Macron bekam er Gegenwind.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-un-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-22T22:44:43+00:00"
+   "d": "2026-09-23T07:10:49+00:00"
+  },
+  {
+   "t": "Freude über Grönland-Abkommen - doch etwas Skepsis bleibt",
+   "s": "Lange wussten die Grönländer nicht, wie der Streit mit den USA um die Arktisinsel ausgehen wird. Jetzt gibt es ein Abkommen und die Erleichterung ist groß. Doch gibt US-Präsident Trump wirklich Ruhe? Von Mats Nickelsen.",
+   "u": "https://www.tagesschau.de/ausland/europa/groenland-abkommen-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T05:57:36+00:00"
+  },
+  {
+   "t": "Marokko wählt neues Parlament: Wozu noch ein Kreuz machen?",
+   "s": "In Marokko wird ein neues Parlament gewählt, doch ein erheblicher Teil der Macht bleibt beim König. Gerade junge Marokkaner sehen kaum Perspektiven mehr für sich. Die Regierung fürchtet eine geringe Wahlbeteiligung. Von S. Ehlert.",
+   "u": "https://www.tagesschau.de/ausland/afrika/marokko-vor-parlamentswahl-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T04:11:16+00:00"
   },
   {
    "t": "US-Präsident Trump erwartet Abkommen mit Iran nach den Midterms",
-   "s": "In seiner Rede vor den Vereinten Nationen gibt sich US-Präsident Trump zuversichtlich, den Iran-Krieg mit einem Abkommen beenden zu können. Erneut verbindet er dies mit einer Drohung. Auch für den Ukraine-Krieg rechnet er bald mit einer Lösung.",
+   "s": "Vor den Vereinten Nationen gab sich US-Präsident Trump zuversichtlich, den Iran-Krieg mit einem Abkommen beenden zu können. Er bestätigte Gespräche von Vertretern beider Seiten. Auch für den Ukraine-Krieg rechnet er bald mit einer Lösung.",
    "u": "https://www.tagesschau.de/ausland/amerika/un-generalversammlung-trump-rede-100.html",
    "q": "Tagesschau",
    "d": "2026-09-22T16:12:08+00:00"
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/daenemark-greensand-100.html",
    "q": "Tagesschau",
    "d": "2026-09-18T17:03:15+00:00"
-  },
-  {
-   "t": "Italien erwägt Marinemission im Roten Meer zum Schutz von Frachtern",
-   "s": "Die Huthi-Miliz kontrolliert die Meerenge Bab al-Mandab im Roten Meer weitgehend. Ohne auf die EU zu warten, will Italien dort Schiffe mit der eigenen Marine schützen. Die Ankündigung dürfte vor allem ein Signal in Richtung Brüssel sein.",
-   "u": "https://www.tagesschau.de/ausland/europa/italien-erwaegt-marineeinsatz-rotes-meer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T11:02:32+00:00"
-  },
-  {
-   "t": "Mehr Pflanzen, weniger Fleisch: Schweiz stimmt über Ernährungsinitiative ab",
-   "s": "\"Tu ma lieber die Möhrchen\", könnte es bald in der Schweiz heißen. Eine Initiative fordert mehr pflanzliche Lebensmittel und weniger Tierhaltung. Dahinter steckt die Frage: Inwieweit will sich das Land künftig selbst versorgen? Von S. Biegger.",
-   "u": "https://www.tagesschau.de/ausland/europa/schweiz-ernaehrungsinitiative-selbstversorgung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T05:06:59+00:00"
   }
  ]
 }

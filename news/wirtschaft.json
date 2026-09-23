@@ -1,7 +1,56 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-22T23:36:21+00:00",
+ "updated": "2026-09-23T08:36:17+00:00",
  "items": [
+  {
+   "t": "Update Wirtschaft vom 23.09.2026",
+   "s": "Update Wirtschaft vom 23.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1654052.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T08:22:38+00:00"
+  },
+  {
+   "t": "USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
+   "s": "Angesichts der gestiegenen Treibstoffpreise in den USA hat sich US-Präsident Trump für einen Diesel-Exportstopp ausgesprochen. Zuletzt ergriffen die USA einen solchen Schritt während der Ölkrise der 1970er-Jahre.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-diskussion-exportstopp-diesel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T06:22:27+00:00"
+  },
+  {
+   "t": "ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
+   "s": "Seit April dürfen Tankstellen nur noch um 12 Uhr die Spritpreise erhöhen. Der ADAC kritisiert, dass die Regel zu größeren Preisschwankungen im Tagesverlauf geführt habe, statt die Preise zu senken.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/adac-tankstellen-12-uhr-regel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T06:09:58+00:00"
+  },
+  {
+   "t": "Kanzleramtschefin Warken verspricht Tempo bei Reformen",
+   "s": "Kanzleramtschefin Warken hat einflussreichen Wirtschaftsverbänden zugesagt, dass die geplanten Reformen zügig kämen - trotz Unruhe in der Koalition. Von einem Treffen der Koalitionsspitzen drang nichts nach außen.",
+   "u": "https://www.tagesschau.de/inland/reformdebatte-warken-koalition-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T05:57:37+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX leicht höher erwartet",
+   "s": "Die KI-Rally ist zurück, zugleich setzen die Märkte auf eine weitere Entspannung im Iran-Konflikt sowie ein konstruktives Gipfeltreffen zwischen China und den USA. Der DAX dürfte etwas höher starten.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T05:41:08+00:00"
+  },
+  {
+   "t": "Neue Details zu Anlage-Verlusten bei Krankenkassen",
+   "s": "Drei kleinere Krankenkassen haben laut NDR, WDR und SZ zusammen mehr als 100 Millionen Euro im Veriusfonds verloren. Eine Sonderprüfung der KV Berlin bezweifelt, dass ihre Anlagerichtlinie eingehalten wurde.",
+   "u": "https://www.tagesschau.de/investigativ/ndr-wdr/krankenkassen-verluste-anlagen-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T04:06:32+00:00"
+  },
+  {
+   "t": "Bauzinsen über vier Prozent: Was Käufer jetzt wissen müssen",
+   "s": "Der Immobilienkauf wird wieder teurer. Bauzinsen für zehnjährige Darlehen liegen inzwischen über vier Prozent. Was Käufer und Eigentümer jetzt bei Finanzierung und Anschlusskredit beachten sollten. Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bauzinsen-hypotheken-immobilienkauf-anschlussfinanzierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T03:29:12+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 22.09.2026",
    "s": "Wirtschaft vor acht vom 22.09.2026",
@@ -15,13 +64,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/fachkraefte-mangel-deutschland-griechenland-100.html",
    "q": "Tagesschau",
    "d": "2026-09-22T12:49:49+00:00"
-  },
-  {
-   "t": "Iran-Krieg und Last-Minute-Trend zehren an TUI-Gewinn",
-   "s": "Der Reisekonzern TUI hat den Iran-Krieg und den Trend zu Last-Minute-Buchungen deutlich zu spüren bekommen. Höhere Preise konnten das nur zum Teil ausgleichen. Die Aktie erlebte ein Wechselbad.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-tui-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T12:00:03+00:00"
   },
   {
    "t": "Anteil von E-Autos bei Neuzulassungen in EU erreicht neuen Rekord",
@@ -52,13 +94,6 @@
    "d": "2026-09-22T08:49:47+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 22.09.2026",
-   "s": "Update Wirtschaft vom 22.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1653388.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T08:35:05+00:00"
-  },
-  {
    "t": "Heizkosten steigen 2026 laut Prognose an",
    "s": "Die Heizkosten für deutsche Haushalte steigen laut einer Prognose auch in diesem Jahr weiter an. Dabei gibt es Unterschiede zwischen den einzelnen Heizarten, denn nicht alle Brennstoffe werden teurer.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/prognose-heizkosten-2026-100.html",
@@ -73,90 +108,6 @@
    "d": "2026-09-22T07:52:20+00:00"
   },
   {
-   "t": "Windenergiebranche: Milliardenpoker um Offshore-Parks",
-   "s": "In der deutschen Nordsee wollte BP zwei riesige Windparks bauen. Doch die Arbeiten an den Projekten sind offenbar seit Monaten eingestellt. Das zeigen Recherchen von NDR, WDR und SZ.",
-   "u": "https://www.tagesschau.de/investigativ/ndr-wdr/bp-offshore-windparks-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T04:00:16+00:00"
-  },
-  {
-   "t": "Klage gegen Paramount: Streit über Warner-Übernahme offenbar beigelegt",
-   "s": "Der Weg scheint frei für die Übernahme des Medienkonzerns Warner durch den Konkurrenten Paramount. Es habe einen Vergleich mit den US-Bundesstaaten gegeben, die dagegen geklagt hatten, wie verschiedene Medien berichten.",
-   "u": "https://www.tagesschau.de/wirtschaft/warner-paramount-110.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T17:20:54+00:00"
-  },
-  {
-   "t": "Was Beschäftigte in der Autoindustrie dem Management vorwerfen",
-   "s": "Ob bei Zulieferern oder den Herstellern - bei Beschäftigten in der Autoindustrie wachsen die Sorgen. Beim Aktionstag der IG Metall machen sie ihrem Ärger Luft - etwa in Baden-Württemberg. Von Fabian Siegel",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/autoindustrie-protest-aktionstag-mercedes-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T15:56:46+00:00"
-  },
-  {
-   "t": "Datenschutz-Verstöße: Google muss 400 Millionen Euro Strafe zahlen",
-   "s": "Der US-Techkonzern Google ist zu einer Millionenstrafe wegen Verstoßes gegen EU-Recht verurteilt worden. Grund sind Datenschutzverstöße bei der Verarbeitung von Standortdaten der Google-Nutzer.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/google-eu-strafe-datenschutz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T13:49:08+00:00"
-  },
-  {
-   "t": "Unternehmen sehen Bürokratie als größtes Standortproblem",
-   "s": "Die Bürokratie ist einer aktuellen Umfrage zufolge die größte Belastung für den Wirtschaftsstandort Deutschland. Dabei steigt der bürokratische Aufwand, je größer das Unternehmen ist.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/ifo-standort-buerokratie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T13:16:37+00:00"
-  },
-  {
-   "t": "Spirituosen-Hersteller Berentzen vor Übernahme durch US-Konzern",
-   "s": "Berentzen soll in die Vereinigten Staaten verkauft werden. Der US-Konzern Sazerac hat ein Übernahmeangebot angekündigt - das von dem Schnapsproduzenten aus dem Emsland unterstützt wird.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/berentzen-uebernahme-us-konzern-sazerac-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T08:31:09+00:00"
-  },
-  {
-   "t": "Vor Trump-Xi-Gipfel: China und USA beraten über KI",
-   "s": "Die USA und China befinden sich in einem Wettlauf um den Vorsprung bei Künstlicher Intelligenz. Diese Woche wollen die Präsidenten bei einem Treffen über KI sprechen. Vertreter beider Staaten haben nun vorab über die Risiken beraten.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-china-ki-gespraeche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T06:54:14+00:00"
-  },
-  {
-   "t": "IG Metall ruft bundesweit zu Protest in der Autoindustrie auf",
-   "s": "Ob Wolfsburg, Zwickau oder Stuttgart - die IG Metall ruft für heute zu Protesten in der Autoindustrie auf. Die Gewerkschaft wendet sich gegen die zunehmenden Einschnitte für Beschäftigte. Es sollen Aktionen an mehr als 200 Orten geben.",
-   "u": "https://www.tagesschau.de/wirtschaft/ig-metall-automobil-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T06:09:26+00:00"
-  },
-  {
-   "t": "Immer mehr Produktrückrufe bei Lebensmitteln",
-   "s": "Immer mehr Lebensmittel werden vorsorglich aus dem Handel genommen, doch die Rückrufe erreichen nicht alle Verbraucher. Hinzu kommt: Es gibt nicht genug Kontrollen. Von Martin Küstermann.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/lebensmittel-rueckrufe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T04:45:15+00:00"
-  },
-  {
-   "t": "Ruhestand: Wie viel Vermögen Rentner wirklich ausgeben können",
-   "s": "Viele Menschen haben fürs Alter Vermögen aufgebaut. Doch wie viel davon können sie im Ruhestand ausgeben? Eine bekannte Faustregel ist nicht für jeden Rentner die beste Lösung. Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/ruhestand-vermoegen-rente-altersvorsorge-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T11:59:35+00:00"
-  },
-  {
-   "t": "Warum wir noch immer so viel Essen wegwerfen",
-   "s": "Jedes Jahr landen in Deutschland fast elf Millionen Tonnen Lebensmittel im Müll. Warum ändert sich seit Jahren kaum was? Und was können wir von unseren Nachbarn lernen? Von Edgar Verheyen.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/essen-lebensmittel-verschwendung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T03:38:41+00:00"
-  },
-  {
-   "t": "Berufsleben: Job weg, Abfindung - und dann?",
-   "s": "Ob Volkswagen, Bayer oder Lufthansa - besonders das mittlere Management steht auf dem Arbeitsmarkt unter Druck. Wie kann es man sich nach einem Aufhebungsvertrag beruflich neu orientieren? Von Anke Heinhaus.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/abfindung-berufsleben-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-19T12:26:53+00:00"
-  },
-  {
    "t": "Schweden - Die Rückkehr des Bargelds",
    "s": "Schweden ist Vorreiter des bargeldlosen Zahlens. Doch nun müssen Supermärkte und Apotheken wieder Münzen und Scheine annehmen. Der Kurswechsel ist eine Reaktion auf Sicherheitsrisiken und wirft die Frage auf: Wie resilient ist unser Zahlungssystem?Von Konstantin Schönfelder",
    "u": "https://www.deutschlandfunk.de/schweden-bargeld-rueckkehr-pflicht-100.html",
@@ -169,6 +120,55 @@
    "u": "https://www.deutschlandfunk.de/spritpreise-irankrieg-profit-uebergewinnsteuer-oelkonzerne-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-18T08:37:00+00:00"
+  },
+  {
+   "t": "Assoziierte EU-Mitgliedschaft - Kanada rückt näher an Europa heran",
+   "s": "Angesichts von Donald Trumps unberechenbarer Zollpolitik hat sich Kanadas Premier Mark Carney für eine engere Anbindung seines Landes an die EU ausgesprochen. Was versprechen sich die Länder von einer Allianz?",
+   "u": "https://www.deutschlandfunk.de/kanada-eu-allianz-usa-trump-zollpolitik-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-17T14:57:00+00:00"
+  },
+  {
+   "t": "Hohe Spritpreise - Kommentar: Die Abhängigkeit von Öl und Gas macht uns ärmer",
+   "s": "Der Krieg in der Golfregion und seine Auswirkungen treiben die Ölpreise weiter nach oben. Staatliche Hilfen nach dem Gießkannenprinzip greifen jedoch zu kurz und senden falsche Signale. Zumal der hohe Ölpreis auch nachweislich positive Effekte hat.Ein Kommentar von Dorothee Holz",
+   "u": "https://www.deutschlandfunk.de/kommentar-benzinpreise-oelpreis-irankrieg-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-16T09:49:00+00:00"
+  },
+  {
+   "t": "Griechenlands Reeder - Das steckt hinter ihrem Reichtum",
+   "s": "Griechische Schifffahrtsunternehmer gehören zu den vermögendsten Menschen der Welt. Sie haben großen Einfluss auf die Politik, sagen Experten. Für manche ihrer Geschäfte werden sie stark kritisiert.",
+   "u": "https://www.deutschlandfunk.de/reeder-griechenland-russland-schattenflotte-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-13T08:38:00+00:00"
+  },
+  {
+   "t": "Kartenzahlungspflicht - Schützt lieber das Bargeld",
+   "s": "Geschäfte sollen nach Plänen von Finanzminister Lars Klingbeil künftig mindestens eine digitale Bezahlmöglichkeit anbieten müssen. Eine unnötige Vorschrift. Wichtiger wäre es, die Annahme von Bargeld verpflichtend zu machen.Ein Kommentar von Manfred Kloiber",
+   "u": "https://www.deutschlandfunk.de/kartenzahlung-bargeld-kommentar-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-12T07:18:00+00:00"
+  },
+  {
+   "t": "Kommentar - Wer auf Strom setzt, spart künftig viel Geld",
+   "s": "Die Zukunft gehört der Elektrifizierung. Doch die Stromrevolution verläuft noch immer zu langsam, um die Klimakrise zu bremsen.Überlegungen von Christian Stöcker",
+   "u": "https://www.deutschlandfunkkultur.de/energiewende-electrotech-elektrifizierung-strom-geld-sparen-klimawandel-meinung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-11T05:20:00+00:00"
+  },
+  {
+   "t": "USA gegen China - Mercedes-Benz droht, unter die Räder zu kommen",
+   "s": "Jahrzehntelang profitierten deutsche Autobauer vom Geschäft mit China. Nun könnte sich das aufgrund eines US-Gesetzes als Risiko erweisen. Vor allem für einen DAX-Konzern steht dabei viel auf dem Spiel.Von Steffen Wurzel",
+   "u": "https://www.deutschlandfunk.de/mercedes-usa-gesetz-china-verkaufsverbot-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-10T15:20:00+00:00"
+  },
+  {
+   "t": "Haushaltsentwurf - Eine gigantische Neuverschuldung und viele Fragezeichen",
+   "s": "Der Staat hat viel Geld in die Hand genommen, um die Missstände in Deutschland anzugehen. Dabei bleiben aber viele Fragen offen: Entfacht das Geld nur ein konjunkturelles Strohfeuer? Werden Lücken gestopft, statt in Infrastruktur investiert?Von Jörg Münchenberg",
+   "u": "https://www.deutschlandfunk.de/bundeshaushalt-investitionen-neuverschuldung-klingbeil-kommentar-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-09T15:40:00+00:00"
   }
  ]
 }

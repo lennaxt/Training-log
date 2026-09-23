@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-22T23:36:23+00:00",
+ "updated": "2026-09-23T08:36:20+00:00",
  "items": [
+  {
+   "t": "Grönland-Abkommen unterzeichnet: Happy End in New York",
+   "s": "Trump, Frederiksen und Nielsen besiegeln den Grönland-Deal. Geplant sind zwei neue US-Basen und eine engere sicherheitspolitische Zusammenarbeit.",
+   "u": "https://taz.de/Groenland-Abkommen-unterzeichnet/!6215540/",
+   "q": "taz",
+   "d": "2026-09-23T05:53:00+00:00"
+  },
+  {
+   "t": "Strafvollzug in Österreich: Tödliche Messerstiche im Knast",
+   "s": "Österreichische Haftanstalten sind total überbelegt. Vor allem mangelt es an psychiatrischer Versorgung der Häftlinge. Experten schlagen Alarm.",
+   "u": "https://taz.de/Strafvollzug-in-Oesterreich/!6214316/",
+   "q": "taz",
+   "d": "2026-09-23T05:07:00+00:00"
+  },
   {
    "t": "Von Trump gestarteter Streit: Grönland, Dänemark und USA unterzeichnen Abkommen",
    "s": "Der US-Präsident hatte Ansprüche auf Grönland erhoben. Nun haben die Parteien ein Abkommen unterzeichnet – doch viele Details bleiben unklar.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Russland/!6213945/",
    "q": "taz",
    "d": "2026-09-17T17:41:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: Alarmstufe Rot im Dauermodus",
-   "s": "Die ukrainische Hauptstadt Kyjiw wurde in der Nacht zu Donnerstag wieder Ziel massiver russische Luftangriffe. Tote sind keine zu beklagen.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6213936/",
-   "q": "taz",
-   "d": "2026-09-17T15:40:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: US-Kongress beschließt Gesetz für Russland-Sanktionen",
-   "s": "Gibt es bald neue US-Sanktionen gegen Russland? Ein Gesetz dazu hat nun das US-Parlament passiert. Der Schritt könnte auch die Beziehungen zu China belasten.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6213892/",
-   "q": "taz",
-   "d": "2026-09-17T06:12:00+00:00"
   }
  ]
 }

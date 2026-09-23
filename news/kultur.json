@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-09-22T23:36:24+00:00",
+ "updated": "2026-09-23T08:36:21+00:00",
  "items": [
+  {
+   "t": "Grönland-Abkommen unterzeichnet: Happy End in New York",
+   "s": "Trump, Frederiksen und Nielsen besiegeln den Grönland-Deal. Geplant sind zwei neue US-Basen und eine engere sicherheitspolitische Zusammenarbeit.",
+   "u": "https://taz.de/Groenland-Abkommen-unterzeichnet/!6215540/",
+   "q": "taz",
+   "d": "2026-09-23T05:53:00+00:00"
+  },
   {
    "t": "Fox News gegen Trump: Keine Helden der Pressefreiheit",
    "s": "Fox schließt sich dem Boykott von US-Medien gegen Trump an. Das zeigt: Der rechte Sender stellt sich quer, wenn er eigene Interessen gefährdet sieht.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Urteil-mit-Symbolcharakter-in-Guatemala/!6213322/",
    "q": "taz",
    "d": "2026-09-15T16:39:00+00:00"
-  },
-  {
-   "t": "Ankündigung der Trump-Regierung: USA bestätigen erstmals Waffen im Weltall",
-   "s": "Weltraumwaffen waren lange Science-Fiction-Elemente. Doch diese Zeiten scheinen vorbei. Der Erdorbit könnte zum Kriegsschauplatz werden.",
-   "u": "https://taz.de/Ankuendigung-der-Trump-Regierung/!6213434/",
-   "q": "taz",
-   "d": "2026-09-15T16:08:00+00:00"
   }
  ]
 }
