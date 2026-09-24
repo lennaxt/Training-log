@@ -1,11 +1,39 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-24T14:13:16+00:00",
+ "updated": "2026-09-24T19:11:08+00:00",
  "items": [
   {
+   "t": "Sozialkürzungen: Einzelfallhilfen für Menschen mit Behinderung sind bedroht",
+   "s": "Gleich mehrere Gesetze plant die schwarz-rote Bundesregierung, die Einsparungen bei Menschen mit Behinderungen bedeuten würden. Am Freitag wird eines davon beraten.",
+   "u": "https://taz.de/Sozialkuerzungen/!6214377/",
+   "q": "taz",
+   "d": "2026-09-24T18:29:00+00:00"
+  },
+  {
+   "t": "Organisierte Kriminalität und Politik: Ungebetene Gäste",
+   "s": "Mafia-Bosse und Großkriminelle suchen gerne die Nähe zu Politikern. Darüber könnte der Berliner Linken-Politiker Ferat Koçak jetzt straucheln.",
+   "u": "https://taz.de/Organisierte-Kriminalitaet-und-Politik-Wird-Ferat-Kocak-zum-Bauernopfer-im-Koalitionspoker/!6215882/",
+   "q": "taz",
+   "d": "2026-09-24T18:26:00+00:00"
+  },
+  {
+   "t": "Neue Leiterin der bpb: Eine Schulleiterin an der Spitze der Bundeszentrale",
+   "s": "Nina Hauer soll Chefin der Bundeszentrale für politische Bildung werden. Sie wäre die erste Frau in dieser Position. Und wo steht sie politisch?",
+   "u": "https://taz.de/Neue-Leiterin-der-bpb/!6216007/",
+   "q": "taz",
+   "d": "2026-09-24T18:24:00+00:00"
+  },
+  {
+   "t": "Wahlen in Mecklenburg-Vorpommern: AfD-interne Kritik am Wahlerfolg",
+   "s": "Nach einer AfD-Analyse wäre in Mecklenburg-Vorpommern mehr möglich gewesen. Der Schuldige: ihr Ministerpräsidentenkandidat.",
+   "u": "https://taz.de/Wahlen-in-Mecklenburg-Vorpommern/!6215933/",
+   "q": "taz",
+   "d": "2026-09-24T16:20:00+00:00"
+  },
+  {
    "t": "Umstrittene Polizei-Software: Der „Einstieg in den Ausstieg“ von Palantir",
-   "s": "Hessens Innenminister Poseck (CDU) zeigt sich bereit zum Ausstieg aus der umstrittenen Software des US-Milliardärs Peter Thiel. Doch das Konkurrenzprogramm muss noch besser werden.",
-   "u": "https://taz.de/Umstrittene-Polizei-Software/!6215930/",
+   "s": "Hessens Innenminister Poseck (CDU) zeigt sich bereit zum Ausstieg aus der umstrittenen Software des US-Milliardärs Peter Thiel.",
+   "u": "https://taz.de/Der-Einstieg-in-den-Ausstieg-von-Palantir/!6215930/",
    "q": "taz",
    "d": "2026-09-24T13:06:00+00:00"
   },
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Affaere-um-Ferat-Kocak/!6215297/",
    "q": "taz",
    "d": "2026-09-22T17:32:00+00:00"
-  },
-  {
-   "t": "Debatte um Krankenversicherung: Merz sorgt für Aufregung, Union verteilt Beruhigungspillen",
-   "s": "Mit seiner Äußerung zum ungerechten System der Krankenversicherung hat der Kanzler eine Debatte losgetreten. Nur der zuständige Minister schweigt.",
-   "u": "https://taz.de/Debatte-um-Krankenversicherung/!6215440/",
-   "q": "taz",
-   "d": "2026-09-22T16:59:00+00:00"
-  },
-  {
-   "t": "Nach der Berliner Wahl: Warten auf das Anti-Gesetz",
-   "s": "Kann Kanzler Friedrich Merz mit einem Bundesgesetz die Vergesellschaftungspläne der Berliner Linken stoppen? Am Ende wird Karlsruhe entscheiden.",
-   "u": "https://taz.de/Nach-der-Berliner-Wahl/!6215393/",
-   "q": "taz",
-   "d": "2026-09-22T16:45:00+00:00"
-  },
-  {
-   "t": "Panik vor der Linkspartei: Drei Jahrzehnte roter Schrecken",
-   "s": "Nach der Wahl in Berlin üben Konservative Druck auf Grüne und SPD aus, keine Koalition mit der Linken einzugehen. Die Angst vor einer Linksregierung ist nicht neu.",
-   "u": "https://taz.de/Panik-vor-der-Linkspartei/!6215295/",
-   "q": "taz",
-   "d": "2026-09-22T16:16:00+00:00"
-  },
-  {
-   "t": "Bremer Denkmal für Brechmittelopfer: In staatlicher Obhut ertränkt",
-   "s": "Laye Condé starb 2005 in Bremen nach der Brechmittelfolter. Das Denkmal „Death by Drowning“ erinnert an ihn und weitere Opfer. Samstag wird es eröffnet.",
-   "u": "https://taz.de/Bremer-Denkmal-fuer-Brechmittelopfer/!6212548/",
-   "q": "taz",
-   "d": "2026-09-22T16:00:00+00:00"
   }
  ]
 }

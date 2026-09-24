@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-24T14:13:14+00:00",
+ "updated": "2026-09-24T19:11:07+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 24.09.2026",
+   "s": "Wirtschaft vor acht vom 24.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1655056.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T18:04:49+00:00"
+  },
+  {
+   "t": "Wechsel zum IWF: EZB-Direktorin Schnabel tritt vorzeitig ab",
+   "s": "Die deutsche Top-Ökonomin zieht es für eine neue Rolle nach Washington zum Internationalen Währungsfonds. Die Neubesetzung könnte interessant werden - denn auch die EZB-Präsidentin könnte ihren Posten vorzeitig räumen.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-schnabel-ezb-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T16:35:53+00:00"
+  },
+  {
+   "t": "Marktbericht: Hohe Ölpreise fachen Inflations- und Zinsängste an",
+   "s": "Die Zinssorgen lassen die DAX-Anleger nicht los. Höhere Ölpreise und steigende Bond-Renditen haben den deutschen Leitindex heute belastet. Dagegen konnten auch gute Konjunkturdaten nichts ausrichten.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T16:18:29+00:00"
+  },
+  {
+   "t": "Marktmacht - Kampf den Kartellen",
+   "s": "Ob hohe Preissprünge an der Zapfsäule oder die Marktmacht globaler Tech-Riesen: In Deutschland soll das Bundeskartellamt den Wettbewerb sichern. Doch der Kampf gegen die Branchenriesen ist schwierig und wird schon lange ausgefochten.",
+   "u": "https://www.deutschlandfunk.de/bundeskartellamt-kartellrecht-marktmacht-wettbewerb-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-24T14:56:00+00:00"
+  },
+  {
+   "t": "Banken in Deutschland bewähren sich im Stresstest - mit Ausnahmen",
+   "s": "Der deutsche Bankenmarkt zeigt sich weitgehend krisenfest - das ist das Ergebnis des neuen Stresstests von Bundesbank und Finanzaufsicht. Dabei werden bestimmte Schocks und Verwerfungen simuliert. Von Ursula Mayer.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/banken-stresstest-bafin-bundesbank-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T14:29:16+00:00"
+  },
   {
    "t": "Macht- und Gewinnstreben gefährden KI-Sicherheit",
    "s": "Seit Monaten warnen Experten: KI ohne Kontrolle schadet, könnte letztlich die Menschheit gefährden. Doch die Idee globaler Regeln für mehr Sicherheit droht an Macht- und Gewinnstreben zu scheitern. Von Heidi Radvilas.",
@@ -15,13 +50,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/prix-goncourt-ki-100.html",
    "q": "Tagesschau",
    "d": "2026-09-24T12:08:06+00:00"
-  },
-  {
-   "t": "Marktbericht: Boeing muss um neue China-Bestellungen bangen",
-   "s": "Eigentlich setzte der US-Flugzeugbauer Boeing große Hoffnungen in das Treffen zwischen den Präsidenten der USA und Chinas. Neue Lieferverträge sollten geschlossen werden. Doch diese Hoffnungen schwinden.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-boeing-bestellungen-china-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T11:28:15+00:00"
   },
   {
    "t": "Deutlich höheres Wirtschaftswachstum erwartet als bisher",
@@ -71,13 +99,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html",
    "q": "Tagesschau",
    "d": "2026-09-23T23:58:22+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 23.09.2026",
-   "s": "Wirtschaft vor acht vom 23.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1654526.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T18:46:54+00:00"
   },
   {
    "t": "Versandapotheke der Drogeriemarktkette dm vor Gericht",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bauzinsen-hypotheken-immobilienkauf-anschlussfinanzierung-100.html",
    "q": "Tagesschau",
    "d": "2026-09-23T03:29:12+00:00"
-  },
-  {
-   "t": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle",
-   "s": "Die Entwicklung Künstlicher Intelligenz schreitet rasant voran - doch zuletzt häuften sich Berichte von Cyberattacken durch die KI. Nun fordert eine Gruppe von 22 Staats-und Regierungschefs eine internationale Aufsicht.",
-   "u": "https://www.tagesschau.de/ausland/aufruf-staatschefs-ki-regulierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T13:45:32+00:00"
-  },
-  {
-   "t": "Werben um Fachkräfte: Warum immer mehr Griechen Deutschland verlassen",
-   "s": "Lange profitierte der deutsche Arbeitsmarkt von Griechen, die während der Eurokrise ins Land kamen. Doch diese Zeit scheint vorbei: Die griechische Regierung wirbt gezielt um ihre Talente, auch in Deutschland. Von J. Riemann.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/fachkraefte-mangel-deutschland-griechenland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T12:49:49+00:00"
-  },
-  {
-   "t": "Anteil von E-Autos bei Neuzulassungen in EU erreicht neuen Rekord",
-   "s": "Noch nie sind in der EU so viele Autos mit einem reinen Elektroantrieb zugelassen worden wie im vergangenen Jahr. Gut jeder sechste Pkw war ein E-Auto. Deutschland lag dabei leicht über dem Schnitt.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-e-autos-neuwagen-zulassungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T10:25:19+00:00"
   }
  ]
 }

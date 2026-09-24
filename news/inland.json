@@ -1,7 +1,84 @@
 {
  "name": "Inland",
- "updated": "2026-09-24T14:13:12+00:00",
+ "updated": "2026-09-24T19:11:05+00:00",
  "items": [
+  {
+   "t": "Sozialkürzungen: Einzelfallhilfen für Menschen mit Behinderung sind bedroht",
+   "s": "Gleich mehrere Gesetze plant die schwarz-rote Bundesregierung, die Einsparungen bei Menschen mit Behinderungen bedeuten würden. Am Freitag wird eines davon beraten.",
+   "u": "https://taz.de/Sozialkuerzungen/!6214377/",
+   "q": "taz",
+   "d": "2026-09-24T18:29:00+00:00"
+  },
+  {
+   "t": "Organisierte Kriminalität und Politik: Ungebetene Gäste",
+   "s": "Mafia-Bosse und Großkriminelle suchen gerne die Nähe zu Politikern. Darüber könnte der Berliner Linken-Politiker Ferat Koçak jetzt straucheln.",
+   "u": "https://taz.de/Organisierte-Kriminalitaet-und-Politik-Wird-Ferat-Kocak-zum-Bauernopfer-im-Koalitionspoker/!6215882/",
+   "q": "taz",
+   "d": "2026-09-24T18:26:00+00:00"
+  },
+  {
+   "t": "Neue Leiterin der bpb: Eine Schulleiterin an der Spitze der Bundeszentrale",
+   "s": "Nina Hauer soll Chefin der Bundeszentrale für politische Bildung werden. Sie wäre die erste Frau in dieser Position. Und wo steht sie politisch?",
+   "u": "https://taz.de/Neue-Leiterin-der-bpb/!6216007/",
+   "q": "taz",
+   "d": "2026-09-24T18:24:00+00:00"
+  },
+  {
+   "t": "Rheinland-Pfalz behält MPK-Vorsitz - Sachsen-Anhalt wird übersprungen",
+   "s": "Die 16 Länderchefs haben sich darauf geeinigt, dass Rheinland-Pfalz ein weiteres Jahr den Vorsitz der Ministerpräsidentenkonferenz übernimmt. Damit wird Sachsen-Anhalt in der jährlich wechselnden Reihenfolge übersprungen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-behaelt-mpk-vorsitz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T17:54:13+00:00"
+  },
+  {
+   "t": "Arbeit soll in Japans Gefängnissen keine Strafe mehr sein",
+   "s": "Erstmals seit über 100 Jahren reformiert Japan seine Gefängnis-Gesetze. Der pauschale Arbeitszwang für Inhaftierte fällt weg. Stattdessen rückt die Wiedereingliederung in die Gesellschaft stärker in den Fokus. Gelingt der Kulturwandel hinter Gittern?Fritz, Martin",
+   "u": "https://www.deutschlandfunk.de/japans-gefaengnisse-arbeit-soll-keine-strafe-mehr-sein-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-24T16:40:00+00:00"
+  },
+  {
+   "t": "Baltische Länder gegen Oligarchen: Wenn die EU nicht mitmacht, machen sie es eben selbst",
+   "s": "Die baltischen Länder verhängen eigene Sanktionen gegen zwei russische Oligarchen. Von der Lockerung durch die Europäische Union sind sie nicht überzeugt.",
+   "u": "https://taz.de/Baltische-Laender-gegen-Oligarchen/!6215952/",
+   "q": "taz",
+   "d": "2026-09-24T16:26:00+00:00"
+  },
+  {
+   "t": "Wahlen in Mecklenburg-Vorpommern: AfD-interne Kritik am Wahlerfolg",
+   "s": "Nach einer AfD-Analyse wäre in Mecklenburg-Vorpommern mehr möglich gewesen. Der Schuldige: ihr Ministerpräsidentenkandidat.",
+   "u": "https://taz.de/Wahlen-in-Mecklenburg-Vorpommern/!6215933/",
+   "q": "taz",
+   "d": "2026-09-24T16:20:00+00:00"
+  },
+  {
+   "t": "Trump-Regierung verliert vor Gericht: Journalisten dürfen nun wieder ins Weiße Haus",
+   "s": "Der US-Präsident kassiert eine Klatsche: Er muss die Berichterstattung von CNN, MS NOW und Politico zulassen. Im Laufe des Donnerstags hatten die Reporter wieder Zutritt.",
+   "u": "https://taz.de/Trotz-Niederlage-Trumps-vor-Gericht/!6216008/",
+   "q": "taz",
+   "d": "2026-09-24T15:09:00+00:00"
+  },
+  {
+   "t": "Aufrüstung im Orbit: Was über die US-Anti-Satellitenwaffen bekannt ist",
+   "s": "Satelliten sind für Streitkräfte unverzichtbar. Die USA sprechen nun erstmals über Anti-Satellitenwaffen, die sie im All stationiert hätten. Auch Europa rüstet sich gegen Angriffe im Orbit. Doch einen Haken hat die Sache.Urban, Karl",
+   "u": "https://www.deutschlandfunk.de/aufruestung-im-orbit-was-ueber-die-antisatelliten-waffen-der-usa-bekannt-ist-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-24T14:36:14+00:00"
+  },
+  {
+   "t": "Nächster Anlauf im Bundestag zu umstrittenen Organspende-Regeln",
+   "s": "Kontrovers, emotional und persönlich: Mit einer ersten Lesung hat der Bundestag begonnen, das Thema Organspende neu anzugehen. Bei einem sind sich alle einig - es gibt zu wenig Spenden in Deutschland.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundestagsdebatte-organspende-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T14:35:19+00:00"
+  },
+  {
+   "t": "Wahlen in Marokko: Wirtschaftsliberale gewinnen Parlamentswahlen",
+   "s": "Die Partei PAM geht als Sieger aus den Wahlen in Marokko hervor. Die Wahlbeteiligung war historisch niedrig. Ein Fußballmanager könnte jetzt Premier werden.",
+   "u": "https://taz.de/Parlamentswahl-in-Marokko/!6216068/",
+   "q": "taz",
+   "d": "2026-09-24T14:14:00+00:00"
+  },
   {
    "t": "US-Zwischenwahlen im November: Keine Beobachtung erwünscht",
    "s": "Erstmals wurden keine OSZE-Beobachter zu US-Wahlen eingeladen. Der Transatlantik-Koordinator Metin Hakverdi kritisiert diese Entscheidung der USA.",
@@ -18,8 +95,8 @@
   },
   {
    "t": "Umstrittene Polizei-Software: Der „Einstieg in den Ausstieg“ von Palantir",
-   "s": "Hessens Innenminister Poseck (CDU) zeigt sich bereit zum Ausstieg aus der umstrittenen Software des US-Milliardärs Peter Thiel. Doch das Konkurrenzprogramm muss noch besser werden.",
-   "u": "https://taz.de/Umstrittene-Polizei-Software/!6215930/",
+   "s": "Hessens Innenminister Poseck (CDU) zeigt sich bereit zum Ausstieg aus der umstrittenen Software des US-Milliardärs Peter Thiel.",
+   "u": "https://taz.de/Der-Einstieg-in-den-Ausstieg-von-Palantir/!6215930/",
    "q": "taz",
    "d": "2026-09-24T13:06:00+00:00"
   },
@@ -92,83 +169,6 @@
    "u": "https://taz.de/Transplantationsgesetz-im-Bundestag/!6215893/",
    "q": "taz",
    "d": "2026-09-24T06:25:00+00:00"
-  },
-  {
-   "t": "US-Medien im Weißen Haus: Sie dürfen wieder rein",
-   "s": "Nachdem US-Präsident Donald Trump einigen Medien den Zutritt ins Weiße Haus verweigert hatte, klagten die betroffenen Sender. Jetzt entschied ein Gericht.",
-   "u": "https://taz.de/US-Medien-im-Weissen-Haus/!6215888/",
-   "q": "taz",
-   "d": "2026-09-24T06:00:00+00:00"
-  },
-  {
-   "t": "Unionsfraktionschef Frei: \"Merz hat sein Amt sicher im Griff\"",
-   "s": "Nach den CDU-Wahlniederlagen im Osten hat Unionsfraktionschef Thorsten Frei Kanzler Merz den Rücken gestärkt. Frei fordert rasche Reformen und setzt auf Wirtschaftswachstum. In der Rentenpolitik drängt er auf Einschnitte bei der Rente mit 63.Heinemann, Christoph",
-   "u": "https://www.deutschlandfunk.de/interview-mit-thorsten-frei-cdu-vorsitzender-unionsfraktion-zu-reformprozess-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-24T05:15:00+00:00"
-  },
-  {
-   "t": "UN-Sicherheitsrat: Ein Tisch, gedeckt im Jahr 1945",
-   "s": "Afrika ist Schauplatz eines Großteils der weltweiten Konflikte, hat im UN-Sicherheitsrat aber keinen ständigen Sitz. Nigeria will das ändern.",
-   "u": "https://taz.de/UN-Sicherheitsrat/!6197760/",
-   "q": "taz",
-   "d": "2026-09-24T05:09:00+00:00"
-  },
-  {
-   "t": "Warnsignal im Südpazifik: HIV-Notstand in Fidschi",
-   "s": "Auf den Südpazifikinseln galt HIV lange als begrenztes Problem. Doch nun haben die Fidschi-Inseln einen der weltweit schnellsten Infektionsanstiege.",
-   "u": "https://taz.de/Warnsignal-im-Suedpazifik/!6215628/",
-   "q": "taz",
-   "d": "2026-09-24T05:05:00+00:00"
-  },
-  {
-   "t": "Geheimdienstreform im Bundestag: Wie weit geht Dobrindts Schnüffeloffensive?",
-   "s": "Alexander Dobrindts (CSU) Geheimdienstreform kommt in den Bundestag. Grüne und Linke kritisieren erweiterte Befugnisse und mangelnde Kontrolle.",
-   "u": "https://taz.de/Geheimdienstreform-im-Bundestag/!6215607/",
-   "q": "taz",
-   "d": "2026-09-24T05:04:00+00:00"
-  },
-  {
-   "t": "Die Linke hat ein „Riesen-Antisemitismusproblem“",
-   "s": "Nach Vorfällen im Berliner Wahlkampf sieht die Jüdische Studierendenunion eine schleichende Normalisierung von Antisemitismus bei den Linken. JSUD-Chef Ron Dekel fordert Parteiausschlüsse und warnt vor den Folgen für die Regierungsbildung in Berlin.Heinemann, Christoph",
-   "u": "https://www.deutschlandfunk.de/interview-mit-ron-dekel-juedische-studierendenunion-vs-zu-linke-antisemitisch-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-24T04:50:00+00:00"
-  },
-  {
-   "t": "Organspende: Argumente für und gegen die Widerspruchslösung",
-   "s": "Weil zu wenig Organe verfügbar sind, sterben viele schwerstkranke Patienten. Drei Vorschläge, das zu ändern, werden heute im Bundestag debattiert. Zankapfel ist die Widerspruchslösung. Was spricht dafür und was dagegen? Von Daniela Remus.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/transplantation-organspende-bundestag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T04:12:17+00:00"
-  },
-  {
-   "t": "Reform der Nachrichtendienste - Revolution oder Tabubruch?",
-   "s": "Sabotage im Ausland und Eindringen in Privatwohnungen: Heute diskutiert der Bundestag über die Bundesnachrichtendienst- und Verfassungsschutzreform. Die Opposition warnt vor einem Bruch mit Lehren aus der Geschichte. Von Markus Sambale.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-reform-bundestag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T03:02:58+00:00"
-  },
-  {
-   "t": "Bundeskabinett beschließt Aktionsplan gegen Sozialmissbrauch",
-   "s": "Die Bundesregierung hat einen Aktionsplan gegen Sozialmissbrauch beschlossen. Er zielt zum Beispiel auf Kriminelle, die Menschen in \"Schrottimmobilien\" unterbringen, für die das Jobcenter überhöhte Mieten zahlen soll. Von D. Pepping.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/aktionsplan-gegen-sozialmissbrauch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T19:11:42+00:00"
-  },
-  {
-   "t": "Antisemitismus-Streit in der Linken: An Koçak spaltet sich die Linkspartei",
-   "s": "Die Linke streitet über den Umgang mit ihrem Abgeordneten Ferat Koçak. Gefährden die Antisemitismusvorwürfe die rot-rot-grüne Regierungsbildung in Berlin?",
-   "u": "https://taz.de/Antisemitismus-Streit-in-der-Linken/!6215665/",
-   "q": "taz",
-   "d": "2026-09-23T17:29:00+00:00"
-  },
-  {
-   "t": "Gibt es die politische Mitte noch?",
-   "s": "Zweimal AfD, einmal Die Linke - das sind die großen Gewinnerinnen der Wahlen in diesem Herbst. CDU und SPD wirken angeschlagen. Wie zerklüftet und polarisiert ist die deutsche Parteienlandschaft? Und was heißt das für unsere Demokratie?Schäfer, Christoph",
-   "u": "https://www.deutschlandfunk.de/politische-mitte-linke-afd-parteien-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-23T17:15:00+00:00"
   }
  ]
 }

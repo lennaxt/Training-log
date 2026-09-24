@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-24T14:13:17+00:00",
+ "updated": "2026-09-24T19:11:10+00:00",
  "items": [
+  {
+   "t": "Baltische Länder gegen Oligarchen: Wenn die EU nicht mitmacht, machen sie es eben selbst",
+   "s": "Die baltischen Länder verhängen eigene Sanktionen gegen zwei russische Oligarchen. Von der Lockerung durch die Europäische Union sind sie nicht überzeugt.",
+   "u": "https://taz.de/Baltische-Laender-gegen-Oligarchen/!6215952/",
+   "q": "taz",
+   "d": "2026-09-24T16:26:00+00:00"
+  },
   {
    "t": "Krieg in der Ukraine: Schwerer Beschuss der ukrainischen Hauptstadt",
    "s": "Schwere Explosionen erschütterten Kyjiw bei nächtlichem Raketenbeschuss. Mindestens zwei Menschen starben.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Melonis-Plan-fuer-Italiens-Schulen/!6214863/",
    "q": "taz",
    "d": "2026-09-20T16:09:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: Verbotene Äpfel und Drohnen auf Moskau",
-   "s": "Am Wahlsonntag in Russland fliegen ukrainische Drohnen auf Moskau. In der Ukraine steht die besetzte Stadt Oleschky vor einer Hungerkatastrophe.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6214751/",
-   "q": "taz",
-   "d": "2026-09-20T14:11:00+00:00"
   }
  ]
 }

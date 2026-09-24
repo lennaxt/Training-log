@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-09-24T14:13:19+00:00",
+ "updated": "2026-09-24T19:11:11+00:00",
  "items": [
+  {
+   "t": "Trump-Regierung verliert vor Gericht: Journalisten dürfen nun wieder ins Weiße Haus",
+   "s": "Der US-Präsident kassiert eine Klatsche: Er muss die Berichterstattung von CNN, MS NOW und Politico zulassen. Im Laufe des Donnerstags hatten die Reporter wieder Zutritt.",
+   "u": "https://taz.de/Trotz-Niederlage-Trumps-vor-Gericht/!6216008/",
+   "q": "taz",
+   "d": "2026-09-24T15:09:00+00:00"
+  },
+  {
+   "t": "US-Zwischenwahlen im November: Keine Beobachtung erwünscht",
+   "s": "Erstmals wurden keine OSZE-Beobachter zu US-Wahlen eingeladen. Der Transatlantik-Koordinator Metin Hakverdi kritisiert diese Entscheidung der USA.",
+   "u": "https://taz.de/US-Zwischenwahlen-im-November/!6216166/",
+   "q": "taz",
+   "d": "2026-09-24T13:50:00+00:00"
+  },
   {
    "t": "US-Medien im Weißen Haus: Sie dürfen wieder rein",
    "s": "Nachdem US-Präsident Donald Trump einigen Medien den Zutritt ins Weiße Haus verweigert hatte, klagten die betroffenen Sender. Jetzt entschied ein Gericht.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Trump-zieht-ueberraschend-Toppersonalie-zu-ICE-Behoerde-zurueck/!6214240/",
    "q": "taz",
    "d": "2026-09-18T08:53:00+00:00"
-  },
-  {
-   "t": "Vor der Wahl in Brasilien: Lula erhöht Sozialhilfe",
-   "s": "Die Wahlen in Brasilien könnten harte Einschnitte für die Bevölkerung bringen. Der amtierende Präsident Lula erhöht nun Sozialhilfe.",
-   "u": "https://taz.de/Vor-der-Wahl-in-Brasilien/!6214225/",
-   "q": "taz",
-   "d": "2026-09-18T07:58:00+00:00"
-  },
-  {
-   "t": "Geplanter Deal mit Saudi-Arabien: USA wollen Saudis F-35-Kampfjets verkaufen",
-   "s": "Tarnkappenjets gelten als die modernsten Kampfflugzeuge der Welt. Im Nahen Osten waren sie bislang dem US-Verbündeten Israel vorbehalten.",
-   "u": "https://taz.de/Geplanter-Deal-mit-Saudi-Arabien/!6214224/",
-   "q": "taz",
-   "d": "2026-09-18T06:55:00+00:00"
   }
  ]
 }
