@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-24T19:11:05+00:00",
+ "updated": "2026-09-24T23:52:51+00:00",
  "items": [
+  {
+   "t": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
+   "s": "Eklat bei den Vereinten Nationen: Als Israels Premier ans Rednerpult trat, verließen Dutzende Diplomaten den Saal. Netanjahu reagierte scharf - und verteidigte die Kriege in Nahost.",
+   "u": "https://www.tagesschau.de/ausland/asien/netanjahu-kritik-un-generaldebatte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T21:51:23+00:00"
+  },
+  {
+   "t": "Prunk und Pandas: Trump empfängt Xi in Washington",
+   "s": "KI, Handel, Ukraine und Taiwan - die Liste der Gipfelthemen ist lang. Doch das Treffen der Präsidenten Trump und Xi beginnt freundschaftlich - was auch mit Pandas zu tun haben könnte. Und dann ist da noch Thukydides.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-china-trump-xi-pandas-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T19:43:38+00:00"
+  },
   {
    "t": "Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen",
    "s": "Gelingt es der Ukraine, den russischen Vorsprung bei schnellen, mit Jetantrieb ausgestatteten Drohnen aufzuholen? Die Antwort entscheidet über Leben und Tod vieler Menschen. Von Kai Küstner und Stefan Niemann.",
@@ -15,13 +29,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-medien-cnn-trump-102.html",
    "q": "Tagesschau",
    "d": "2026-09-24T17:20:41+00:00"
-  },
-  {
-   "t": "Prunk und Pandas: Trump empfängt Xi in Washington",
-   "s": "Künstliche Intelligenz, Handel, Ukraine und Taiwan - die Liste der brisanten Themen zwischen den USA und China ist lang. Doch das Treffen von Trump und Xi begann betont freundschaftlich - was auch mit zwei Pandas zu tun haben könnte.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-china-trump-xi-pandas-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T16:53:28+00:00"
   },
   {
    "t": "Kämpfe in Tigray-Region im Norden Äthiopiens eskalieren",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/hunderttausende-vertriebene-jemen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-22T14:05:57+00:00"
-  },
-  {
-   "t": "\"Swan Song\": Warum ein Buch über Prinzessin Diana für Furore sorgt",
-   "s": "Charles Spencer, der Bruder von Lady Di, hat ein Buch über seine Schwester geschrieben. Darin erhebt er schwere Vorwürfe gegen den heutigen König, die der Palast ungewöhnlich deutlich zurückweist. Von Lisa-Maria Röhling.",
-   "u": "https://www.tagesschau.de/ausland/europa/prinzessin-diana-buch-bruder-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T11:00:55+00:00"
   }
  ]
 }
