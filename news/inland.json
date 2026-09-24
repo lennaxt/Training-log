@@ -1,7 +1,63 @@
 {
  "name": "Inland",
- "updated": "2026-09-24T08:28:38+00:00",
+ "updated": "2026-09-24T14:13:12+00:00",
  "items": [
+  {
+   "t": "US-Zwischenwahlen im November: Keine Beobachtung erwünscht",
+   "s": "Erstmals wurden keine OSZE-Beobachter zu US-Wahlen eingeladen. Der Transatlantik-Koordinator Metin Hakverdi kritisiert diese Entscheidung der USA.",
+   "u": "https://taz.de/US-Zwischenwahlen-im-November/!6216166/",
+   "q": "taz",
+   "d": "2026-09-24T13:50:00+00:00"
+  },
+  {
+   "t": "Steht die CDU vor ihrem Ende als Volkspartei?",
+   "s": "Ob die CDU noch Volkspartei sei, wurde Friedrich Merz nach dem Wahldesaster gefragt: \"Nur noch in Teilen\", antwortete der Kanzler. Was bedeutet das konkret? Und ist die AfD mittlerweile eine Volkspartei? Von Jasper Ruppert.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-cdu-volkspartei-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T13:45:39+00:00"
+  },
+  {
+   "t": "Umstrittene Polizei-Software: Der „Einstieg in den Ausstieg“ von Palantir",
+   "s": "Hessens Innenminister Poseck (CDU) zeigt sich bereit zum Ausstieg aus der umstrittenen Software des US-Milliardärs Peter Thiel. Doch das Konkurrenzprogramm muss noch besser werden.",
+   "u": "https://taz.de/Umstrittene-Polizei-Software/!6215930/",
+   "q": "taz",
+   "d": "2026-09-24T13:06:00+00:00"
+  },
+  {
+   "t": "Nach Wahl in Berlin: Özdemir warnt Grüne vor Koalition mit Linkspartei",
+   "s": "Nach dem Wahlsieg der Linken in Berlin brodelt die Debatte über eine mögliche Koalitionsbildung. Führende Politiker der Grünen warnen - 150 jüdische Berliner nehmen die Partei gegen Antisemitismusvorwürfe in Schutz.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/oezdemir-linke-warnung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T11:55:47+00:00"
+  },
+  {
+   "t": "Nach Landtagswahl in Sachsen-Anhalt: SPD hält an Gesprächen fest",
+   "s": "Sachsen-Anhalts SPD lädt zum Gespräch ein, um eine Regierung ohne AfD in Sachsen-Anhalt zu ermöglichen. Obwohl die CDU abgesagt hat, steht der Termin.",
+   "u": "https://taz.de/Nach-Landtagswahl-in-Sachsen-Anhalt/!6215932/",
+   "q": "taz",
+   "d": "2026-09-24T10:53:00+00:00"
+  },
+  {
+   "t": "Elif Eralp gewinnt Berlin-Wahl: „Eine von uns wird Bürgermeisterin!“",
+   "s": "Zum ersten Mal hat unser Kolumnist in Deutschland gewählt. Seine Freude über das Wahlergebnis wird von den politischen und medialen Folgen getrübt.",
+   "u": "https://taz.de/Elif-Eralp-gewinnt-Berlin-Wahl/!6215902/",
+   "q": "taz",
+   "d": "2026-09-24T10:37:00+00:00"
+  },
+  {
+   "t": "Ökonom: Verunsicherung bedroht Wachstum",
+   "s": "Sebastian Dullien von der Hans-Böckler-Stiftung sieht Anzeichen für eine Erholung der deutschen Wirtschaft. Um den Aufschwung nicht zu gefährden, dürften die Menschen aber nicht ständig durch Debatten über Sozialkürzungen verunsichert werden.Kaess, Christiane",
+   "u": "https://www.deutschlandfunk.de/interview-zur-wirtschafts-prognose-mit-prof-sebastian-dullien-boeckler-institut-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-24T10:15:14+00:00"
+  },
+  {
+   "t": "Kontroverse Debatte um Reform der Nachrichtendienste im Bundestag",
+   "s": "Der Bundesnachrichtendienst und der Verfassungsschutz sollen deutlich mehr Befugnisse erhalten. Davon verspricht sich die Regierung größere Sicherheit. Die Opposition befürchtet hingegen einen Bruch der Grundrechte. Auch Ärzte sind besorgt.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/reform-bnd-bundestag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T10:09:28+00:00"
+  },
   {
    "t": "Israel vor der Parlamentswahl: Wer antreten darf – und wer nicht",
    "s": "Die israelische Wahlkommission stimmt für den Ausschluss arabischer Parteien. Das letzte Wort hat das Oberste Gericht. Auch gegen Rechte gibt es Ausschlussanträge.",
@@ -25,7 +81,7 @@
   },
   {
    "t": "EU-Beitrittskandidat Montenegro: Europa im Herzen",
-   "s": "Montenegro stimmt über die Absetzung des Parlamentspräsidenten ab, weil er Serbiens Völkermörder Mladić ehrte. Die jungen Menschen hier sind indes längst weiter.",
+   "s": "Montenegro stimmt heute über die Absetzung des Parlamentspräsidenten ab, weil er Serbiens Völkermörder Mladić ehrte. Die jungen Menschen sind indes längst weiter.",
    "u": "https://taz.de/EU-Beitrittskandidat-Montenegro/!6215204/",
    "q": "taz",
    "d": "2026-09-24T06:50:00+00:00"
@@ -113,62 +169,6 @@
    "u": "https://www.deutschlandfunk.de/politische-mitte-linke-afd-parteien-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-23T17:15:00+00:00"
-  },
-  {
-   "t": "Gesetzesverschärfung geplant - Kein K. o. für K.-o.-Tropfen",
-   "s": "Die Bundesregierung will den Einsatz von K.-o.-Tropfen bei Sexual- und Raubdelikten härter bestrafen, um Täter abzuschrecken. Betroffene und Fachleute begrüßen das nur teilweise. Sie sehen das Problem woanders: Die Taten lassen sich schwer nachweisen.",
-   "u": "https://www.deutschlandfunk.de/ko-tropfen-strafe-gesetz-sexualstrafrecht-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-23T16:43:00+00:00"
-  },
-  {
-   "t": "Steigende Rüstungsausgaben: Union fürchtet „Goldgräberstimmung“",
-   "s": "Die Union sorgt sich im Bundestag um Geldverschwendung bei Rüstungsausgaben. Der Verteidigungsminister verweist auf den Kapitalismus als Problem.",
-   "u": "https://taz.de/Steigende-Ruestungsausgaben/!6215456/",
-   "q": "taz",
-   "d": "2026-09-23T16:26:00+00:00"
-  },
-  {
-   "t": "Zweites Urteil in New York: Harvey Weinstein zu 15 Jahren Haft verurteilt",
-   "s": "Mehr als sechs Jahre nach der ersten Verurteilung des Filmproduzenten wegen Sexualverbrechen wurde er nun erneut schuldig gesprochen.",
-   "u": "https://taz.de/Zweites-Urteil-in-New-York/!6215878/",
-   "q": "taz",
-   "d": "2026-09-23T16:19:00+00:00"
-  },
-  {
-   "t": "EU-Sanktionen gegen Russland: Oh là là, Oligarch",
-   "s": "Frankreich lässt einen russischen Oligarchen von der EU-Sanktionsliste streichen. Gleichzeitig lässt Aserbaidschan einen Franzosen frei. Der Deal sorgt für Kritik.",
-   "u": "https://taz.de/EU-Sanktionen-gegen-Russland/!6215667/",
-   "q": "taz",
-   "d": "2026-09-23T16:09:00+00:00"
-  },
-  {
-   "t": "Grundsicherung und Missbrauchsdebatte: Aktionsplan gegen Sozialbetrug beschlossen",
-   "s": "Die Bundesregierung will verstärkt gegen Sozialmissbrauch durch EU-Bürger:innen vorgehen. Aber Aufstockende aus der EU haben es heute schon schwer.",
-   "u": "https://taz.de/Grundsicherung-und-Missbrauchsdebatte/!6215708/",
-   "q": "taz",
-   "d": "2026-09-23T16:01:00+00:00"
-  },
-  {
-   "t": "1.673 Tage Krieg in der Ukraine: Zum Urlaub nach Hause, trotz Krieg",
-   "s": "Aus ganz Europa fahren Ukrainer trotz des Krieges in ihre Heimat. Dafür gibt es verschiedene Gründe. Drei Familien berichten von ihrer Situation.",
-   "u": "https://taz.de/1673-Tage-Krieg-in-der-Ukraine/!6207944/",
-   "q": "taz",
-   "d": "2026-09-23T15:51:00+00:00"
-  },
-  {
-   "t": "EU-Mittel für Ungarn: In Budapest klingelt die Kasse",
-   "s": "Die EU-Kommission gibt 4,2 Milliarden Euro aus dem EU-Kohäsionsfonds frei. Damit würden die Reformbemühungen der neuen Regierung gewürdigt, heißt es.",
-   "u": "https://taz.de/EU-Mittel-fuer-Ungarn/!6215725/",
-   "q": "taz",
-   "d": "2026-09-23T15:46:00+00:00"
-  },
-  {
-   "t": "Söldner für den Ukraine-Feldzug: Russland rekrutiert Afrikas Jugend für seinen Krieg",
-   "s": "Russland lockt junge Menschen an die Ukraine-Front. Die Strategie dabei: vermeintliche Jobange­­bote und finanzielle Versprechen.",
-   "u": "https://taz.de/Soeldner-fuer-den-Ukraine-Feldzug/!6197762/",
-   "q": "taz",
-   "d": "2026-09-23T15:35:00+00:00"
   }
  ]
 }
