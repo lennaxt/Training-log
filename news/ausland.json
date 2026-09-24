@@ -1,7 +1,63 @@
 {
  "name": "Ausland",
- "updated": "2026-09-23T23:42:47+00:00",
+ "updated": "2026-09-24T08:28:38+00:00",
  "items": [
+  {
+   "t": "Marokko: Wahlbeteiligung auf niedrigstem Stand seit 2007",
+   "s": "Marokko bekommt einen neuen Regierungschef. Bei der Parlamentswahl wurde die bisherige Koalitionspartei PAM stärkste Kraft. Doch nur 38 Prozent aller Wahlberechtigten gaben ihre Stimme ab.",
+   "u": "https://www.tagesschau.de/ausland/afrika/marokko-parlamentswahl-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T08:18:11+00:00"
+  },
+  {
+   "t": "KI-Agent hackt australisches Regierungsportal",
+   "s": "Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premierminister Albanese zeigt sich besorgt.",
+   "u": "https://www.tagesschau.de/ausland/ozeanien/openai-australien-regierungsportal-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T07:12:43+00:00"
+  },
+  {
+   "t": "Gericht hebt Ausschluss von Medien aus Weißem Haus vorerst auf",
+   "s": "Ein US-Gericht hat den von Präsident Trump verhängten Ausschluss von Journalisten aus dem Weißen Haus vorerst aufgehoben. Der sei wohl verfassungswidrig, erklärte der von Trump selbst berufene Richter.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-gericht-medien-weisses-haus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T06:14:19+00:00"
+  },
+  {
+   "t": "Wieder Tote bei russischen Angriffen auf Kiew",
+   "s": "Die ukrainische Hauptstadt ist erneut Ziel russischer Angriffe geworden. Mindestens zwei Menschen sollen getötet worden sein. Der ukrainische Präsident Selenskyj wirbt in den USA um mehr Schärfe gegenüber dem Kreml.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kiew-106.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T06:07:25+00:00"
+  },
+  {
+   "t": "Wadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor",
+   "s": "\"Neue Stufe erreicht\": Außenminister Wadephul hat Russland vor den UN eine Eskalation vorgeworfen. Der Drohnenvorfall am Flughafen Leipzig/Halle sei kein Einzelfall. Er skizzierte auch einen Weg aus dem Konflikt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/wadephul-russland-eskalation-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T05:57:58+00:00"
+  },
+  {
+   "t": "Staatsbesuch in den USA: Xi bringt schwierige Themen mit",
+   "s": "Probleme gibt es viele: Chinas Präsident Xi ist in den USA gelandet. Wie geht es bei KI, Zöllen, Iran und Taiwan weiter? US-Präsident Trump braucht den Erfolg eher als sein umschmeichelter Gast. Von Ralf Borchard.",
+   "u": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T04:42:27+00:00"
+  },
+  {
+   "t": "Hoffen auf Israel: die Drusen auf den Golanhöhen",
+   "s": "Auf den von Israel annektierten Golanhöhen fühlten sich die meisten Drusen jahrzehntelang Syrien zugehörig, man lehnte die israelische Staatsbürgerschaft ab. Doch Krieg und Gewalt erschüttern alte Gewissheiten. Von Natalie Amiri.",
+   "u": "https://www.tagesschau.de/ausland/asien/drusen-golanhoehen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T23:58:29+00:00"
+  },
+  {
+   "t": "Techbosse warnen UN-Sicherheitsrat vor KI",
+   "s": "Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, an stärkerer Regulierung mitzuwirken. Von Giselle Ucar.",
+   "u": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T23:58:22+00:00"
+  },
   {
    "t": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein",
    "s": "Vor sieben Jahren war Russlands Präsident Putin das letzte Mal persönlich bei einem G20-Gipfel. Nun haben die USA ihn nach Angaben von Außenminister Rubio nach Miami eingeladen. Die Aussicht auf eine Waffenruhe in der Ukraine bleibt aber vage.",
@@ -73,13 +129,6 @@
    "d": "2026-09-22T16:12:08+00:00"
   },
   {
-   "t": "Grönland, USA und Dänemark unterzeichnen Sicherheitsabkommen",
-   "s": "Im Streit um Grönland haben die USA, Dänemark und die Arktisinsel ein Abkommen geschlossen. Die Regierungschefs der drei Parteien unterzeichneten am Rande der UN-Vollversammlung in New York eine Sicherheitsvereinbarung.",
-   "u": "https://www.tagesschau.de/ausland/amerika/abkommen-zu-groenland-unterzeichnet-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T16:02:38+00:00"
-  },
-  {
    "t": "UNHCR rechnet bald mit 230.000 Vertriebenen im Jemen",
    "s": "Mehr als 130.000 Menschen sind im Jemen seit Anfang des Monats auf der Flucht. UN-Flüchtlingshelfer warnen, dass die Zahl bis Ende des Jahres deutlich steigen könnte. Hintergrund ist der Vormarsch der pro-iranischen Huthi-Miliz.",
    "u": "https://www.tagesschau.de/ausland/asien/hunderttausende-vertriebene-jemen-100.html",
@@ -87,32 +136,11 @@
    "d": "2026-09-22T14:05:57+00:00"
   },
   {
-   "t": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle",
-   "s": "Die Entwicklung Künstlicher Intelligenz schreitet rasant voran - doch zuletzt häuften sich Berichte von Cyberattacken durch die KI. Nun fordert eine Gruppe von 22 Staats-und Regierungschefs eine internationale Aufsicht.",
-   "u": "https://www.tagesschau.de/ausland/aufruf-staatschefs-ki-regulierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T13:45:32+00:00"
-  },
-  {
    "t": "\"Swan Song\": Warum ein Buch über Prinzessin Diana für Furore sorgt",
    "s": "Charles Spencer, der Bruder von Lady Di, hat ein Buch über seine Schwester geschrieben. Darin erhebt er schwere Vorwürfe gegen den heutigen König, die der Palast ungewöhnlich deutlich zurückweist. Von Lisa-Maria Röhling.",
    "u": "https://www.tagesschau.de/ausland/europa/prinzessin-diana-buch-bruder-100.html",
    "q": "Tagesschau",
    "d": "2026-09-22T11:00:55+00:00"
-  },
-  {
-   "t": "Los Angeles: Lucas Museum of Narrative Art wird eröffnet",
-   "s": "Fotos, Requisiten, Kostüme: Im neuen Museum von \"Star Wars\"-Erfinder George Lucas kommen Fans auf ihren Geschmack. Aber die Weltraum-Saga macht nur einen kleinen Teil der Sammlung aus. Antje Sieb verrät, was sonst noch zu sehen ist.",
-   "u": "https://www.tagesschau.de/ausland/amerika/lucas-arts-museum-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T09:28:42+00:00"
-  },
-  {
-   "t": "UN wollen neues \"Rolltreppen-Gate\" mit Trump verhindern",
-   "s": "Trumps Auftritt bei den Vereinten Nationen vor einem Jahr sorgte für Wirbel. Der US-Präsident sprach von \"Sabotage\" - unter anderem, weil eine Rolltreppe plötzlich stoppte. Heute soll sich all das nicht wiederholen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-un-128.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T09:19:10+00:00"
   },
   {
    "t": "Ficos Balanceakt zwischen Kreml-Nähe und NATO-Verpflichtungen",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-afd-100.html",
    "q": "Tagesschau",
    "d": "2026-09-22T02:05:13+00:00"
-  },
-  {
-   "t": "Japan wappnet sich für Taifun \"Dujuan\"",
-   "s": "Taifun \"Dujuan\" bewegt sich auf Japan zu. Im Großraum Tokio sollen sich 1,6 Millionen Menschen vorsorglich in Sicherheit bringen, Hunderte Flüge wurden gestrichen. Die Behörden warnen vor Starkregen und Erdrutschen.",
-   "u": "https://www.tagesschau.de/ausland/asien/taifun-dujuan-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T16:02:43+00:00"
-  },
-  {
-   "t": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
-   "s": "Sie ist nur eine kleine Redaktion, doch die Entscheidung, den griechischen Dienst der Deutschen Welle zu schließen, wurde zum Politikum. Die breite Kritik aus Griechenland überraschte den Rundfunkrat offenbar. Nun kam die Kehrtwende. Von J. Riemann.",
-   "u": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T02:22:58+00:00"
-  },
-  {
-   "t": "Italien fordert europäische Verstärkung für sichere Schifffahrt im Roten Meer",
-   "s": "Italien fürchtet massive wirtschaftliche Schäden aufgrund der jüngsten Entwicklungen in der Meerenge Bab al-Mandab. Das Land fordert Unterstützung von der EU - nachdem es kürzlich noch einen Alleingang ins Spiel gebracht hatte.",
-   "u": "https://www.tagesschau.de/ausland/europa/italien-fordert-europaeische-unterstuetzung-im-roten-meer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T13:02:26+00:00"
-  },
-  {
-   "t": "Kenias Präsident setzt auf Stimmung gegen Migranten",
-   "s": "Weit mehr als 10.000 Menschen aus Burundi haben in Kenia Zuflucht gefunden, oft halten sie sich mit kleinen Jobs über Wasser. Doch viele denken über eine Rückkehr nach, denn die Regierung macht Stimmung gegen sie. Warum tut sie das? Von K. Bensch.",
-   "u": "https://www.tagesschau.de/ausland/afrika/kenia-ruto-migranten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-20T12:09:09+00:00"
   }
  ]
 }

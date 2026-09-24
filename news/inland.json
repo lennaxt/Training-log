@@ -1,7 +1,98 @@
 {
  "name": "Inland",
- "updated": "2026-09-23T23:42:46+00:00",
+ "updated": "2026-09-24T08:28:38+00:00",
  "items": [
+  {
+   "t": "Israel vor der Parlamentswahl: Wer antreten darf – und wer nicht",
+   "s": "Die israelische Wahlkommission stimmt für den Ausschluss arabischer Parteien. Das letzte Wort hat das Oberste Gericht. Auch gegen Rechte gibt es Ausschlussanträge.",
+   "u": "https://taz.de/Israel-vor-der-Parlamentswahl/!6215897/",
+   "q": "taz",
+   "d": "2026-09-24T08:11:00+00:00"
+  },
+  {
+   "t": "Nach Wahl in Sachsen-Anhalt: CDU könnte Weg für AfD-Regierung ebnen",
+   "s": "Die CDU Sachsen-Anhalt wird nicht an Gesprächen mit den demokratischen Parteien teilnehmen und geht in die Opposition. Eine Einladung der SPD schlug sie aus.",
+   "u": "https://taz.de/Nach-Wahl-in-Sachsen-Anhalt/!6215913/",
+   "q": "taz",
+   "d": "2026-09-24T07:57:00+00:00"
+  },
+  {
+   "t": "Krieg in der Ukraine: Schwerer Beschuss der ukrainischen Hauptstadt",
+   "s": "Schwere Explosionen erschütterten Kyjiw bei nächtlichem Raketenbeschuss. Mindestens zwei Menschen starben.",
+   "u": "https://taz.de/Krieg-in-der-Ukraine/!6215896/",
+   "q": "taz",
+   "d": "2026-09-24T07:05:00+00:00"
+  },
+  {
+   "t": "EU-Beitrittskandidat Montenegro: Europa im Herzen",
+   "s": "Montenegro stimmt über die Absetzung des Parlamentspräsidenten ab, weil er Serbiens Völkermörder Mladić ehrte. Die jungen Menschen hier sind indes längst weiter.",
+   "u": "https://taz.de/EU-Beitrittskandidat-Montenegro/!6215204/",
+   "q": "taz",
+   "d": "2026-09-24T06:50:00+00:00"
+  },
+  {
+   "t": "Transplantationsgesetz im Bundestag: Organspende – Zustimmung oder Widerspruch?",
+   "s": "250 Abgeordnete meinen, dass sich bei der Organspende etwas ändern muss. Worum es dabei geht und was in der Lesung am Donnerstag besprochen wird.",
+   "u": "https://taz.de/Transplantationsgesetz-im-Bundestag/!6215893/",
+   "q": "taz",
+   "d": "2026-09-24T06:25:00+00:00"
+  },
+  {
+   "t": "US-Medien im Weißen Haus: Sie dürfen wieder rein",
+   "s": "Nachdem US-Präsident Donald Trump einigen Medien den Zutritt ins Weiße Haus verweigert hatte, klagten die betroffenen Sender. Jetzt entschied ein Gericht.",
+   "u": "https://taz.de/US-Medien-im-Weissen-Haus/!6215888/",
+   "q": "taz",
+   "d": "2026-09-24T06:00:00+00:00"
+  },
+  {
+   "t": "Unionsfraktionschef Frei: \"Merz hat sein Amt sicher im Griff\"",
+   "s": "Nach den CDU-Wahlniederlagen im Osten hat Unionsfraktionschef Thorsten Frei Kanzler Merz den Rücken gestärkt. Frei fordert rasche Reformen und setzt auf Wirtschaftswachstum. In der Rentenpolitik drängt er auf Einschnitte bei der Rente mit 63.Heinemann, Christoph",
+   "u": "https://www.deutschlandfunk.de/interview-mit-thorsten-frei-cdu-vorsitzender-unionsfraktion-zu-reformprozess-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-24T05:15:00+00:00"
+  },
+  {
+   "t": "UN-Sicherheitsrat: Ein Tisch, gedeckt im Jahr 1945",
+   "s": "Afrika ist Schauplatz eines Großteils der weltweiten Konflikte, hat im UN-Sicherheitsrat aber keinen ständigen Sitz. Nigeria will das ändern.",
+   "u": "https://taz.de/UN-Sicherheitsrat/!6197760/",
+   "q": "taz",
+   "d": "2026-09-24T05:09:00+00:00"
+  },
+  {
+   "t": "Warnsignal im Südpazifik: HIV-Notstand in Fidschi",
+   "s": "Auf den Südpazifikinseln galt HIV lange als begrenztes Problem. Doch nun haben die Fidschi-Inseln einen der weltweit schnellsten Infektionsanstiege.",
+   "u": "https://taz.de/Warnsignal-im-Suedpazifik/!6215628/",
+   "q": "taz",
+   "d": "2026-09-24T05:05:00+00:00"
+  },
+  {
+   "t": "Geheimdienstreform im Bundestag: Wie weit geht Dobrindts Schnüffeloffensive?",
+   "s": "Alexander Dobrindts (CSU) Geheimdienstreform kommt in den Bundestag. Grüne und Linke kritisieren erweiterte Befugnisse und mangelnde Kontrolle.",
+   "u": "https://taz.de/Geheimdienstreform-im-Bundestag/!6215607/",
+   "q": "taz",
+   "d": "2026-09-24T05:04:00+00:00"
+  },
+  {
+   "t": "Die Linke hat ein „Riesen-Antisemitismusproblem“",
+   "s": "Nach Vorfällen im Berliner Wahlkampf sieht die Jüdische Studierendenunion eine schleichende Normalisierung von Antisemitismus bei den Linken. JSUD-Chef Ron Dekel fordert Parteiausschlüsse und warnt vor den Folgen für die Regierungsbildung in Berlin.Heinemann, Christoph",
+   "u": "https://www.deutschlandfunk.de/interview-mit-ron-dekel-juedische-studierendenunion-vs-zu-linke-antisemitisch-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-24T04:50:00+00:00"
+  },
+  {
+   "t": "Organspende: Argumente für und gegen die Widerspruchslösung",
+   "s": "Weil zu wenig Organe verfügbar sind, sterben viele schwerstkranke Patienten. Drei Vorschläge, das zu ändern, werden heute im Bundestag debattiert. Zankapfel ist die Widerspruchslösung. Was spricht dafür und was dagegen? Von Daniela Remus.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/transplantation-organspende-bundestag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T04:12:17+00:00"
+  },
+  {
+   "t": "Reform der Nachrichtendienste - Revolution oder Tabubruch?",
+   "s": "Sabotage im Ausland und Eindringen in Privatwohnungen: Heute diskutiert der Bundestag über die Bundesnachrichtendienst- und Verfassungsschutzreform. Die Opposition warnt vor einem Bruch mit Lehren aus der Geschichte. Von Markus Sambale.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-reform-bundestag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T03:02:58+00:00"
+  },
   {
    "t": "Bundeskabinett beschließt Aktionsplan gegen Sozialmissbrauch",
    "s": "Die Bundesregierung hat einen Aktionsplan gegen Sozialmissbrauch beschlossen. Er zielt zum Beispiel auf Kriminelle, die Menschen in \"Schrottimmobilien\" unterbringen, für die das Jobcenter überhöhte Mieten zahlen soll. Von D. Pepping.",
@@ -24,7 +115,7 @@
    "d": "2026-09-23T17:15:00+00:00"
   },
   {
-   "t": "Gesetzesverschärfung geplant - Kein K.o. für K.-o.-Tropfen",
+   "t": "Gesetzesverschärfung geplant - Kein K. o. für K.-o.-Tropfen",
    "s": "Die Bundesregierung will den Einsatz von K.-o.-Tropfen bei Sexual- und Raubdelikten härter bestrafen, um Täter abzuschrecken. Betroffene und Fachleute begrüßen das nur teilweise. Sie sehen das Problem woanders: Die Taten lassen sich schwer nachweisen.",
    "u": "https://www.deutschlandfunk.de/ko-tropfen-strafe-gesetz-sexualstrafrecht-100.html",
    "q": "Deutschlandfunk",
@@ -78,97 +169,6 @@
    "u": "https://taz.de/Soeldner-fuer-den-Ukraine-Feldzug/!6197762/",
    "q": "taz",
    "d": "2026-09-23T15:35:00+00:00"
-  },
-  {
-   "t": "Urteil gegen Ex-Milizenführer Said: Ein Schritt zur Aufarbeitung",
-   "s": "Mit Said Abdel Kani ist erstmals ein Mitglied der Seleka-Miliz verurteilt worden. Die hat in der Zentralafrikanischen Republik schwerste Verbrechen begangen.",
-   "u": "https://taz.de/Urteil-gegen-Ex-Milizenfuehrer-Said/!6215662/",
-   "q": "taz",
-   "d": "2026-09-23T15:25:00+00:00"
-  },
-  {
-   "t": "Stolpersteine in Sachsen: „Das dient nicht dem Erinnern, sondern dem Vergessen“",
-   "s": "In Heidenau unterstützen CDU- und AfD-Mitglieder einen Antrag gegen die Gedenksteine für Opfer der Nazis. Betroffenenverbände kritisieren den Vorstoß.",
-   "u": "https://taz.de/Stolpersteine-in-Sachsen/!6215252/",
-   "q": "taz",
-   "d": "2026-09-23T15:12:00+00:00"
-  },
-  {
-   "t": "Antisemitismus und Enteignungen – Ist die Linke regierungsfähig?",
-   "s": "Die Kritik an der Berliner Linken lässt nicht nach. Müssen Grüne und SPD die Reißleine ziehen oder sind die Vorwürfe übertrieben? Außerdem: Trump bei der UN-Generaldebatte – ist der US-Präsident schon eine Lame Duck?Philipp May",
-   "u": "https://www.deutschlandfunk.de/linke-regierungsbildung-un-trump-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-23T15:00:00+00:00"
-  },
-  {
-   "t": "AfD-Besuch in Österreich: Nachhilfe in Sachen Machtergreifung",
-   "s": "Eine Delegation der AfD Sachsen-Anhalt trifft sich zum Meinungsaustausch mit Kollegen der rechtsextremen FPÖ. Deren Chef Herbert Kickl ist voller Lob.",
-   "u": "https://taz.de/AfD-Besuch-in-Oesterreich/!6215635/",
-   "q": "taz",
-   "d": "2026-09-23T14:26:00+00:00"
-  },
-  {
-   "t": "Britische Weltraumstrategie: London schützt Satelliten mit neuer Weltraumeinheit",
-   "s": "Das Weltall ist zum Kriegsschauplatz geworden, sagt der Chef der Royal Air Force. Britische Satelliten sollen von einer eigenen Militäreinheit geschützt werden.",
-   "u": "https://taz.de/Britische-Weltraumstrategie/!6215730/",
-   "q": "taz",
-   "d": "2026-09-23T13:49:00+00:00"
-  },
-  {
-   "t": "Gericht entscheidet: Kubitschek-Tochter darf nicht in den Schuldienst",
-   "s": "Die Tochter eines der bekanntesten Rechtsextremen darf laut Oberverwaltungsgericht nicht Lehrerin werden. Sie ist seit Jahren selbst in der Szene aktiv.",
-   "u": "https://taz.de/Oberverwaltungsgericht-entscheidet/!6215702/",
-   "q": "taz",
-   "d": "2026-09-23T13:43:00+00:00"
-  },
-  {
-   "t": "Kabinett beschließt Gesetzentwurf für digitalen Kassenbon ab 2028",
-   "s": "Weniger Papier, weniger Bürokratie und auch weniger Steuerbetrug: Darauf setzt das Kabinett mit einem neuen Gesetzentwurf. Ab 2028 sollen Kassenbons digital werden. Für wen es Ausnahmen geben soll - und was der Einzelhandel kritisiert.",
-   "u": "https://www.tagesschau.de/inland/kassenbon-digital-104.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T13:36:24+00:00"
-  },
-  {
-   "t": "AfD-Hochburg in Mecklenburg-Vorpommern: Deutsche Hölle Demmin",
-   "s": "In der Kleinstadt Demmin in Vorpommern muss man nach begeisterten AfD-Anhängern nicht lange suchen. Mehr als jeder Zweite wählte hier rechtsextrem.",
-   "u": "https://taz.de/AfD-Hochburg-in-Mecklenburg-Vorpommern/!6215225/",
-   "q": "taz",
-   "d": "2026-09-23T13:35:00+00:00"
-  },
-  {
-   "t": "Wie die Gebärdensprache Teilhabe ermöglicht",
-   "s": "Gebärdensprache kann Teilhabe für schwerhörige und gehörlose Menschen ermöglichen. Beim Fernsehsender Phoenix wird damit die tagesschau gedolmetscht, in einem Essener Gebärdenchor ist sie Teil von Auftritten. Von David Zajonz.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/gebaerdensprache-160.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T11:11:11+00:00"
-  },
-  {
-   "t": "EU-Sanktionen gegen Russland: Erfolg für zwei russische Milliardäre",
-   "s": "Die EU streicht die Oligarchen Alischer Usmanow und Michail Fridman von ihrer Russland-Sanktionsliste. Für Usmanow hatte sich vor allem Paris eingesetzt.",
-   "u": "https://taz.de/EU-Sanktionen-gegen-Russland/!6215559/",
-   "q": "taz",
-   "d": "2026-09-23T10:53:00+00:00"
-  },
-  {
-   "t": "Zwangsrekrutierungen für russische Armee: In Shorts und Badeschlappen entführt",
-   "s": "Wegen hoher Verluste braucht die russische Armee neues Kanonenfutter für die Front. Immer öfter werden auch kranke Menschen zwangsrekrutiert.",
-   "u": "https://taz.de/Zwangsrekrutierungen-fuer-russische-Armee/!6215357/",
-   "q": "taz",
-   "d": "2026-09-23T10:25:00+00:00"
-  },
-  {
-   "t": "K.-o.-Tropfen: Was bringen härtere Strafen bei heimlicher Betäubung?",
-   "s": "Der Einsatz von K.-o.-Tropfen soll in Deutschland härter bestraft werden. Laut Nina Fuchs vom Verein \"KO - Kein Opfer\" wird das wenig bringen. Denn nur ein Bruchteil der Fälle komme überhaupt vor Gericht. Man müsse an anderer Stelle ansetzen.Grieß, Thielko",
-   "u": "https://www.deutschlandfunk.de/besserer-opferschutz-interview-mit-nina-fuchs-k-o-kein-opfer-e-v-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-23T10:15:00+00:00"
-  },
-  {
-   "t": "AfD und Beamte: Widerstand oder Ruhestand",
-   "s": "Sollte die AfD in Sachsen-Anhalt tatsächlich regieren, kommt es auch auf die Beamten an. Sie können den AfD-Anweisungen widersprechen. Tun sie es auch?",
-   "u": "https://taz.de/AfD-und-Beamte/!6214993/",
-   "q": "taz",
-   "d": "2026-09-23T09:34:00+00:00"
   }
  ]
 }

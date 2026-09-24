@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-23T23:42:54+00:00",
+ "updated": "2026-09-24T08:28:46+00:00",
  "items": [
+  {
+   "t": "Warnsignal im Südpazifik: HIV-Notstand in Fidschi",
+   "s": "Auf den Südpazifikinseln galt HIV lange als begrenztes Problem. Doch nun haben die Fidschi-Inseln einen der weltweit schnellsten Infektionsanstiege.",
+   "u": "https://taz.de/Warnsignal-im-Suedpazifik/!6215628/",
+   "q": "taz",
+   "d": "2026-09-24T05:05:00+00:00"
+  },
   {
    "t": "Grenzkrieg am Hindukusch: Tote bei pakistanischen Luftangriffen in Afghanistan",
    "s": "Drei Zivilisten sind laut afghanischer Regierung durch pakistanische Luftangriffe gestorben. Pakistan spricht von 28 toten mutmaßlichen Kämpfern.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Flutkatastrophe-im-Himalaja/!6208479/",
    "q": "taz",
    "d": "2026-08-30T14:08:00+00:00"
-  },
-  {
-   "t": "Sturzflut im Himalaja: Propaganda statt Aufklärung",
-   "s": "Auf nepalesischer Seite können Medienschaffende frei berichten. Das chinesisch kontrollierte Tibet hingegen bleibt eine Blackbox.",
-   "u": "https://taz.de/Sturzflut-im-Himalaja/!6208488/",
-   "q": "taz",
-   "d": "2026-08-30T13:08:00+00:00"
   }
  ]
 }

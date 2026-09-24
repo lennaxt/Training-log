@@ -1,7 +1,49 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-23T23:42:50+00:00",
+ "updated": "2026-09-24T08:28:40+00:00",
  "items": [
+  {
+   "t": "Update Wirtschaft vom 24.09.2026",
+   "s": "Update Wirtschaft vom 24.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1654690.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T07:54:06+00:00"
+  },
+  {
+   "t": "KI-Agent hackt australisches Regierungsportal",
+   "s": "Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premierminister Albanese zeigt sich besorgt.",
+   "u": "https://www.tagesschau.de/ausland/ozeanien/openai-australien-regierungsportal-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T07:12:43+00:00"
+  },
+  {
+   "t": "Hitze schwächt Europas Wirtschaftsleistung",
+   "s": "Extreme Hitze kostet die europäische Wirtschaft in diesem Jahr voraussichtlich 113 Milliarden Euro. Deutschland ist besonders stark betroffen. Die Allianz warnt vor weiter steigenden Schäden durch den Klimawandel.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/hitze-senkt-europas-wirtschaftsleistung-allianz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T06:45:33+00:00"
+  },
+  {
+   "t": "Marktbericht: Ölpreis und Zinsängste belasten die Börsen",
+   "s": "Der DAX dürfte heute zum Handelsbeginn sinken. Der kräftige Anstieg des Ölpreises schürt neue Inflations- und Zinssorgen. Im Fokus stehen zudem der Trump-Xi-Gipfel und die neue Konjunkturprognose.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T05:26:00+00:00"
+  },
+  {
+   "t": "Rüstungsindustrie präsentiert ihre Produkte auf Verteidigungsmesse",
+   "s": "Drohnen, die andere Drohnen einfangen, KI-gesteuerte Abfangsysteme und Sensoren, die den Luftraum überwachen: Auf der neuen Verteidigungsmesse Euro Defence Expo zeigt die Branche, wie sie auf veränderte Bedrohungen reagieren will. Von Jens Eberl.",
+   "u": "https://www.tagesschau.de/wirtschaft/ruestungsindustrie-drohnen-eudex-verteigungsmesse-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-24T03:32:22+00:00"
+  },
+  {
+   "t": "Techbosse warnen UN-Sicherheitsrat vor KI",
+   "s": "Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, an stärkerer Regulierung mitzuwirken. Von Giselle Ucar.",
+   "u": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-23T23:58:22+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 23.09.2026",
    "s": "Wirtschaft vor acht vom 23.09.2026",
@@ -10,25 +52,11 @@
    "d": "2026-09-23T18:46:54+00:00"
   },
   {
-   "t": "Marktbericht: DAX baut Verluste aus",
-   "s": "Der wieder steigende Öl-Preis drückt den DAX weiter ins Minus. Die jüngst aufgekeimte Hoffnung auf eine Entspannung am Öl-Markt ist vorerst wieder dahin.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T16:00:34+00:00"
-  },
-  {
    "t": "Versandapotheke der Drogeriemarktkette dm vor Gericht",
    "s": "Seit Dezember 2025 verkauft dm über ein Tochterunternehmen rezeptfreie Medikamente. Dagegen hat die Wettbewerbszentrale geklagt. Eine Vermischung von Drogerie- und Apothekenangebot sei unzulässig. Von Kolja Schwartz.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/dm-med-apotheke-klage-100.html",
    "q": "Tagesschau",
    "d": "2026-09-23T13:01:00+00:00"
-  },
-  {
-   "t": "Nach einer Studie investieren immer mehr Deutsche in Aktien",
-   "s": "Deutsche gelten als Aktienmuffel. Doch jeder Zweite investiert einer Studie zufolge am Kapitalmarkt, insbesondere jüngere Menschen. Ein Großteil lässt das Geld aber weiter mit Verlusten auf dem Sparbuch liegen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/aktienmarkt-investieren-dax-ing-bank-marktbericht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T12:43:28+00:00"
   },
   {
    "t": "Nach Mega-Börsengang: Neuer Öl-Boom in Nigeria?",
@@ -50,13 +78,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-bip-prognose-oecd-100.html",
    "q": "Tagesschau",
    "d": "2026-09-23T10:13:52+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 23.09.2026",
-   "s": "Update Wirtschaft vom 23.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1654052.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T08:22:38+00:00"
   },
   {
    "t": "Stellenangebote für Berufseinsteiger seit 2022 stark geschrumpft",
@@ -101,6 +122,13 @@
    "d": "2026-09-23T03:29:12+00:00"
   },
   {
+   "t": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle",
+   "s": "Die Entwicklung Künstlicher Intelligenz schreitet rasant voran - doch zuletzt häuften sich Berichte von Cyberattacken durch die KI. Nun fordert eine Gruppe von 22 Staats-und Regierungschefs eine internationale Aufsicht.",
+   "u": "https://www.tagesschau.de/ausland/aufruf-staatschefs-ki-regulierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-22T13:45:32+00:00"
+  },
+  {
    "t": "Werben um Fachkräfte: Warum immer mehr Griechen Deutschland verlassen",
    "s": "Lange profitierte der deutsche Arbeitsmarkt von Griechen, die während der Eurokrise ins Land kamen. Doch diese Zeit scheint vorbei: Die griechische Regierung wirbt gezielt um ihre Talente, auch in Deutschland. Von J. Riemann.",
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/fachkraefte-mangel-deutschland-griechenland-100.html",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/prognose-heizkosten-2026-100.html",
    "q": "Tagesschau",
    "d": "2026-09-22T08:06:34+00:00"
-  },
-  {
-   "t": "Kabinett bringt Tankrabatt auf den Weg",
-   "s": "Am 1. Oktober soll der neue Tankrabatt kommen - nun hat das Kabinett den Gesetzentwurf im Umlaufverfahren beschlossen. Bundestag und Bundesrat sollen ihn noch in dieser Woche billigen.",
-   "u": "https://www.tagesschau.de/wirtschaft/tankrabatt-254.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T07:52:20+00:00"
-  },
-  {
-   "t": "Schweden - Die Rückkehr des Bargelds",
-   "s": "Schweden ist Vorreiter des bargeldlosen Zahlens. Doch nun müssen Supermärkte und Apotheken wieder Münzen und Scheine annehmen. Der Kurswechsel ist eine Reaktion auf Sicherheitsrisiken und wirft die Frage auf: Wie resilient ist unser Zahlungssystem?Von Konstantin Schönfelder",
-   "u": "https://www.deutschlandfunk.de/schweden-bargeld-rueckkehr-pflicht-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-19T08:23:00+00:00"
-  },
-  {
-   "t": "Folgen des Irankriegs - Hohe Gewinne dank hoher Spritpreise",
-   "s": "An den Tankstellen steigen die Spritpreise auf Rekordstände, bei den großen Ölkonzernen die Gewinne. Finanzminister Lars Klingbeil würde die Konzerne daher gern stärker zur Kasse bitten. In Europa hat man damit bereits Erfahrungen gesammelt.",
-   "u": "https://www.deutschlandfunk.de/spritpreise-irankrieg-profit-uebergewinnsteuer-oelkonzerne-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-18T08:37:00+00:00"
-  },
-  {
-   "t": "Assoziierte EU-Mitgliedschaft - Kanada rückt näher an Europa heran",
-   "s": "Angesichts von Donald Trumps unberechenbarer Zollpolitik hat sich Kanadas Premier Mark Carney für eine engere Anbindung seines Landes an die EU ausgesprochen. Was versprechen sich die Länder von einer Allianz?",
-   "u": "https://www.deutschlandfunk.de/kanada-eu-allianz-usa-trump-zollpolitik-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-17T14:57:00+00:00"
   }
  ]
 }
