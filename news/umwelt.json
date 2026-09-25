@@ -1,10 +1,38 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-25T08:50:39+00:00",
+ "updated": "2026-09-25T14:36:46+00:00",
  "items": [
   {
-   "t": "Antrag zu NS-Gedenken in Sachsen: CDU reicht AfD die Hand",
-   "s": "Stadträte von CDU und AfD sprechen sich gegen Stolpersteine zur Erinnerung an Opfer des Nationalsozialismus in der Stadt aus. Ihr Antrag wurde angenommen.",
+   "t": "Bundesregierung beschließt Tankrabatt: Sie hat es wieder getan",
+   "s": "Bundestag und Bundesrat beschließen einen Tankrabatt: Eine Mehrheit der Abgeordneten stimmt für eine Entlastung von rund 17 Cent pro Liter ab Oktober.",
+   "u": "https://taz.de/Bundesregierung-beschliesst-Tankrabatt/!6216361/",
+   "q": "taz",
+   "d": "2026-09-25T13:40:00+00:00"
+  },
+  {
+   "t": "Debatte nach Wahlsieg: Was dran ist an den Vorwürfen gegen die Linke Berlin",
+   "s": "Nach dem Wahlsieg der Linken in Berlin schlagen der Partei heftige Vorwürfe entgegen. Es geht um Antisemitismus und Kontakte mit Kriminellen.",
+   "u": "https://taz.de/Debatte-nach-Wahlsieg/!6211074/",
+   "q": "taz",
+   "d": "2026-09-25T13:17:00+00:00"
+  },
+  {
+   "t": "Trend zum Linksbündnis in Berlin: SPD-„Ahnengalerie des Abstiegs“ bekommt Gegenwind",
+   "s": "Immer mehr Stimmen in der SPD machen sich für eine rot-grün-rote Koalition in Berlin stark. Nun melden sich auch SPD-Bundestagsabgeordnete zu Wort.",
+   "u": "https://taz.de/Trend-zum-Linksbuendnis-in-Berlin/!6215993/",
+   "q": "taz",
+   "d": "2026-09-25T12:05:00+00:00"
+  },
+  {
+   "t": "Linke Mehrheiten im Bund: Ein Fiebertraum in Rot-Grün-Rot",
+   "s": "In Berlin trifft eine rot-grün-rote Regierung auf heftigen Widerstand. Trotzdem fragen manche leise: Wären linke Mehrheiten auch im Bund möglich?",
+   "u": "https://taz.de/Linke-Mehrheiten-im-Bund/!6216297/",
+   "q": "taz",
+   "d": "2026-09-25T12:04:00+00:00"
+  },
+  {
+   "t": "Antrag zu NS-Gedenken in Sachsen: Knobloch kritisiert CDU-Zusammenarbeit mit AfD",
+   "s": "Stadträte von CDU und AfD wollen keine Stolpersteine zur Erinnerung an NS-Opfer in Heidenau. Charlotte Knobloch hält das für den „völlig falschen Weg“.",
    "u": "https://taz.de/Antrag-zu-NS-Gedenken-in-Sachsen/!6216278/",
    "q": "taz",
    "d": "2026-09-25T06:12:00+00:00"
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Spitzenkandidatin-der-Nord-Linken/!6213024/",
    "q": "taz",
    "d": "2026-09-23T12:44:00+00:00"
-  },
-  {
-   "t": "Regelanfrage beim Verfassungsschutz: Hamburg durchleuchtet sein Personal",
-   "s": "Binnen eines Monats ließ Hamburg über 4.000 Personen vom Verfassungsschutz überprüfen. Es gab fünf Treffer, darunter ein Islamist und ein Linksextremist.",
-   "u": "https://taz.de/Regelanfrage-beim-Verfassungsschutz/!6215594/",
-   "q": "taz",
-   "d": "2026-09-23T11:03:00+00:00"
-  },
-  {
-   "t": "AfD und Beamte: Widerstand oder Ruhestand",
-   "s": "Sollte die AfD in Sachsen-Anhalt tatsächlich regieren, kommt es auch auf die Beamten an. Sie können den AfD-Anweisungen widersprechen. Tun sie es auch?",
-   "u": "https://taz.de/AfD-und-Beamte/!6214993/",
-   "q": "taz",
-   "d": "2026-09-23T09:34:00+00:00"
-  },
-  {
-   "t": "Mehrzweckeier und Bundeswehrwerbung: Am Mittelfinger gepackt",
-   "s": "Das Radargerät des Autors gibt angesichts der Wehrpflicht dunkle Aussichten preis. Aber entspricht das auch der Realität?",
-   "u": "https://taz.de/Mehrzweckeier-und-Bundeswehrwerbung/!6205429/",
-   "q": "taz",
-   "d": "2026-09-23T08:57:00+00:00"
-  },
-  {
-   "t": "AfD-Strategiepapier: Wie die AfD die CDU zerstören will",
-   "s": "In einem internen Strategiepapier legt die AfD dar, wie sie die Union im Falle einer CDU-Minderheitsregierung weiter vor sich hertreiben will.",
-   "u": "https://taz.de/AfD-Strategiepapier/!6215437/",
-   "q": "taz",
-   "d": "2026-09-22T18:01:00+00:00"
   }
  ]
 }

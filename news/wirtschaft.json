@@ -1,7 +1,77 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-25T08:50:37+00:00",
+ "updated": "2026-09-25T14:36:45+00:00",
  "items": [
+  {
+   "t": "Bundestag und Bundesrat beschließen erneuten \"Tankrabatt\"",
+   "s": "Der \"Tankrabatt\" kommt wieder. Diesmal gilt die Preissenkung sogar drei Monate lang. Das sind gute Nachrichten für Autofahrer, Spediteure und Landwirte. Es gibt aber auch Kritik an der Maßnahme.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-bundesrat-beschlossen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T14:36:26+00:00"
+  },
+  {
+   "t": "Entlastung im Bundestag: So schnell soll der \"Tankrabatt\" kommen",
+   "s": "Mit einem neuen \"Tankrabatt\" will die Bundesregierung die Spritpreise möglichst schnell senken. Nach dem Bundestag stimmte auch der Bundesrat zu. Wie hoch der Rabatt ausfällt und was noch geplant ist.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T13:48:03+00:00"
+  },
+  {
+   "t": "Bundestag beschließt erneuten \"Tankrabatt\"- auch Bundesrat stimmt zu",
+   "s": "Der Bundestag hat einen \"Tankrabatt\" von Oktober bis Dezember beschlossen. Damit sollen die hohen Spritpreise gedrückt werden. Auch der Bundesrat stimmte zu.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-beschluss-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T13:30:47+00:00"
+  },
+  {
+   "t": "Bundestag berät erstmals über \"Frühstartrente\" ab sechs Jahren",
+   "s": "Mit der Altersvorsorge kann man nicht früh genug anfangen - oft entscheidet aber die Finanzlage des Elternhauses mit. Künftig will der Staat helfen - mit einem Monatsbeitrag und Hoffnung auf den Zinsenzinseffekt.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/fruehstartrente-bundestag-debatte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T13:11:27+00:00"
+  },
+  {
+   "t": "Halter von E-Scootern haften künftig bei Unfällen",
+   "s": "E-Scooter-Unfallopfer sollen einfacher an Schadensersatz kommen. Der Bundesrat hat einem Gesetz zugestimmt, das die Haftungsregeln ändert - künftig sollen die Vermieter das Haftungsrisiko tragen.",
+   "u": "https://www.tagesschau.de/inland/bundesrat-escooter-haftung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T12:06:53+00:00"
+  },
+  {
+   "t": "Marktbericht: Verbraucher halten ihr Geld zusammen",
+   "s": "Die Stimmung der Verbraucher in Deutschland ist so schlecht wie seit Monaten nicht. Hauptgrund sind die hohen Energiepreise. Diese stehen heute auch an der Börse einmal mehr im Fokus.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-konsumklima-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T11:11:04+00:00"
+  },
+  {
+   "t": "Kommentar: Der \"Tankrabatt\" ist politisch richtig",
+   "s": "Mit dem \"Tankrabatt\" hat die Bundesregierung zumindest politisch die richtige Maßnahme ergriffen, meint Benjamin Großkopff. Zwar mag es ökonomische Gründe geben, die dagegen sprechen, dennoch werden fast alle Bürger davon profitieren.",
+   "u": "https://www.tagesschau.de/kommentar/tankrabatt-kommentar-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T10:42:45+00:00"
+  },
+  {
+   "t": "Staat steigt bei Condor aus - Finanzinvestor übernimmt Anteile",
+   "s": "Staatshilfen aus der Corona-Krise hat Condor zurückgezahlt, nun folgt der nächste Schritt: Ein Finanzinvestor übernimmt bis Sommer 2027 alle Anteile an der Fluggesellschaft. Der Bund und das Land Hessen steigen aus.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/condor-bund-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T10:31:17+00:00"
+  },
+  {
+   "t": "US-Sanktionen: Warum iranische Airlines weiter in die Türkei fliegen",
+   "s": "Neue US-Sanktionen sollen den iranischen Luftverkehr treffen. Flugzeuge aus dem Land sollen weltweit nicht mehr abgefertigt werden. Doch in Istanbul landen weiterhin Jets aus Iran. Die Türkei nutzt offenbar ein Schlupfloch. Von Pia Masurczak.",
+   "u": "https://www.tagesschau.de/ausland/europa/tuerkei-iran-sanktionen-flugverbot-usa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T10:07:23+00:00"
+  },
+  {
+   "t": "Immer mehr Haushalte beziehen Wohngeld",
+   "s": "Die Bundesregierung will beim Wohngeld kürzen. Gleichzeitig steigt der Bedarf: Noch nie war die Zahl an Haushalten, die Wohngeld beziehen, so hoch wie Ende des vergangenen Jahres. Auch der Betrag stieg auf ein neues Hoch.",
+   "u": "https://www.tagesschau.de/inland/wohngeld-statistik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T09:39:15+00:00"
+  },
   {
    "t": "Löst Vergesellschaftung das Wohnungsproblem?",
    "s": "Die Linke will das Wohnungsproblem in Berlin mit einem nie eingesetzten Mittel angehen: Der Vergesellschaftung privater Wohnbau-Konzerne. Ökonomen sprechen von Tabubruch. Von Heidi Radvilas.",
@@ -15,20 +85,6 @@
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1655214.html",
    "q": "Tagesschau",
    "d": "2026-09-25T08:14:50+00:00"
-  },
-  {
-   "t": "Entlastung im Bundestag: So schnell soll der Tankrabatt kommen",
-   "s": "Mit einem neuen Tankrabatt will die Bundesregierung die Spritpreise möglichst schnell senken. Heute sollen der Bundestag und Bundesrat darüber entscheiden. Wie hoch der Rabatt ausfällt und was noch geplant ist.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T07:27:57+00:00"
-  },
-  {
-   "t": "Marktbericht: Stoppt der DAX seine Verlustserie?",
-   "s": "Dem deutschen Leitindex winkt ein versöhnlicher Wochenabschluss. Dafür könnten neue Konjunkturdaten sorgen. Doch der hohe Ölpreis bleibt eine Belastung und facht die Inflationsangst an.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T05:57:17+00:00"
   },
   {
    "t": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
@@ -46,7 +102,7 @@
   },
   {
    "t": "Schulen in Singapur: Den Lernerfolg nicht der KI überlassen",
-   "s": "Der KI die Hausaufgaben überlassen: Die Möglichkeiten künstlicher Intelligenz sind für Schüler verführerisch. Singapur hat deshalb eigene KI-Tools für den Unterricht entwickelt - von denen auch Lehrer profitieren. Von J. Johnston.",
+   "s": "Der KI die Hausaufgaben überlassen: Die Möglichkeiten Künstlicher Intelligenz sind für Schüler verführerisch. Singapur hat deshalb eigene KI-Tools für den Unterricht entwickelt - von denen auch Lehrer profitieren. Von J. Johnston.",
    "u": "https://www.tagesschau.de/ausland/asien/singapur-ki-schulunterricht-100.html",
    "q": "Tagesschau",
    "d": "2026-09-25T03:22:44+00:00"
@@ -113,62 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/ozeanien/openai-australien-regierungsportal-100.html",
    "q": "Tagesschau",
    "d": "2026-09-24T07:12:43+00:00"
-  },
-  {
-   "t": "Hitze schwächt Europas Wirtschaftsleistung",
-   "s": "Extreme Hitze kostet die europäische Wirtschaft in diesem Jahr voraussichtlich 113 Milliarden Euro. Deutschland ist besonders stark betroffen. Die Allianz warnt vor weiter steigenden Schäden durch den Klimawandel.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/hitze-senkt-europas-wirtschaftsleistung-allianz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T06:45:33+00:00"
-  },
-  {
-   "t": "Rüstungsindustrie präsentiert ihre Produkte auf Verteidigungsmesse",
-   "s": "Drohnen, die andere Drohnen einfangen, KI-gesteuerte Abfangsysteme und Sensoren, die den Luftraum überwachen: Auf der neuen Verteidigungsmesse Euro Defence Expo zeigt die Branche, wie sie auf veränderte Bedrohungen reagieren will. Von Jens Eberl.",
-   "u": "https://www.tagesschau.de/wirtschaft/ruestungsindustrie-drohnen-eudex-verteigungsmesse-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T03:32:22+00:00"
-  },
-  {
-   "t": "Techbosse warnen UN-Sicherheitsrat vor KI",
-   "s": "Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, an stärkerer Regulierung mitzuwirken. Von Giselle Ucar.",
-   "u": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T23:58:22+00:00"
-  },
-  {
-   "t": "Versandapotheke der Drogeriemarktkette dm vor Gericht",
-   "s": "Seit Dezember 2025 verkauft dm über ein Tochterunternehmen rezeptfreie Medikamente. Dagegen hat die Wettbewerbszentrale geklagt. Eine Vermischung von Drogerie- und Apothekenangebot sei unzulässig. Von Kolja Schwartz.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/dm-med-apotheke-klage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T13:01:00+00:00"
-  },
-  {
-   "t": "Nach Mega-Börsengang: Neuer Öl-Boom in Nigeria?",
-   "s": "Mit einem gigantischen Börsengang können sich erstmals Kleinanleger an Afrikas größter Ölraffinerie beteiligen. Das Unternehmen des Multimillionärs Dangote profitiert von der globalen Energiekrise. Von G. Restle.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/oel-boom-nigeria-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T12:13:28+00:00"
-  },
-  {
-   "t": "IG Metall fordert fünf Prozent mehr Geld",
-   "s": "In der anstehenden Tarifrunde für die Beschäftigten in der Metall- und Elektroindustrie fordert die IG Metall fünf Prozent mehr Geld. Zudem soll es eine tarifliche Gewinnbeteiligung für \"Boom-Unternehmen\" geben.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/tarifforderungen-ig-metall-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T11:19:41+00:00"
-  },
-  {
-   "t": "OECD hebt Konjunkturprognose für deutsche Wirtschaft deutlich an",
-   "s": "Die OECD hat ihre Wachstumsprognose für die deutsche Wirtschaft in diesem Jahr deutlich heraufgesetzt. Das Bruttoinlandsprodukt werde um 1,1 Prozent wachsen. Für 2027 steht ebenfalls eine positive Prognose.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-bip-prognose-oecd-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T10:13:52+00:00"
-  },
-  {
-   "t": "Können Wohnungen in Berlin vergesellschaftet werden?",
-   "s": "Die Linke will in Berlin Wohnungen von großen Konzernen vergesellschaften. Im Fokus steht ein Artikel aus dem Grundgesetz, der noch nie angewandt wurde. Juristisch ist das Vorgehen umstritten. Von A. Stephany, A. Lagmöller und M. Bauer.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/wohnungen-vergesellschaftung-berlin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T08:17:39+00:00"
   }
  ]
 }

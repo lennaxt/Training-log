@@ -1,10 +1,24 @@
 {
  "name": "Ausland",
- "updated": "2026-09-25T08:50:36+00:00",
+ "updated": "2026-09-25T14:36:43+00:00",
  "items": [
   {
+   "t": "Papst Leo XIV. in Frankreich: Treffen mit Macron in Paris",
+   "s": "Papst Leo XIV. ist zu seinem ersten Frankreich-Besuch in Paris eingetroffen. Beim Treffen mit Präsident Macron sprach er über Sterbehilfe und KI. In den kommenden Tagen werden Hunderttausende Gläubige erwartet.",
+   "u": "https://www.tagesschau.de/ausland/europa/papst-leo-reise-frankreich-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T13:34:08+00:00"
+  },
+  {
+   "t": "Hunderte Jungwale tot in Argentinien - Forscher vermuten Infektion",
+   "s": "Hunderte Walkälber sind tot an Strände in Südargentinien gespült worden. Forscher gehen davon aus, dass das Walsterben auf eine Hautinfektion zurückgeht - die Walpopulation der Region sei aber nicht gefährdet.",
+   "u": "https://www.tagesschau.de/ausland/amerika/jungwale-argentinien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T09:25:47+00:00"
+  },
+  {
    "t": "Xi bei Trump: Fanfaren, Spalier, Bankett - aber kaum Lösungen",
-   "s": "Als Geschenk gab es sogar eine massive Weißkopfadlerstatue: Beim Besuch von Chinas Präsident Xi wurde in Washington groß aufgefahren. Doch viele Probleme bleiben - und es gibt Kritik an Trumps Pomp. Von Ralf Borchard.",
+   "s": "Als Geschenk gab es sogar eine massive Weißkopfseeadlerstatue: Beim Besuch von Chinas Präsident Xi wurde in Washington groß aufgefahren. Doch viele Probleme bleiben - und es gibt Kritik an Trumps Pomp. Von Ralf Borchard.",
    "u": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-104.html",
    "q": "Tagesschau",
    "d": "2026-09-25T04:41:49+00:00"
@@ -136,13 +150,6 @@
    "d": "2026-09-23T23:58:22+00:00"
   },
   {
-   "t": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein",
-   "s": "Vor sieben Jahren war Russlands Präsident Putin das letzte Mal persönlich bei einem G20-Gipfel. Nun haben die USA ihn nach Angaben von Außenminister Rubio nach Miami eingeladen. Die Aussicht auf eine Waffenruhe in der Ukraine bleibt aber vage.",
-   "u": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T19:59:52+00:00"
-  },
-  {
    "t": "Iran wehrt sich vor UN gegen Trump-Drohungen",
    "s": "In einer Rede vor den Vereinten Nationen hat Irans Präsident Peseschkian eine internationale Ordnung der \"Gewalttätigen\" beklagt - und sich gegen US-Präsident Trumps Drohungen gewehrt. Doch es wurde auch verhandelt.",
    "u": "https://www.tagesschau.de/ausland/peseschkian-rede-un-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/esc-niederlande-boykott-102.html",
    "q": "Tagesschau",
    "d": "2026-09-23T15:44:34+00:00"
-  },
-  {
-   "t": "Wieder Tote bei russischen Angriffen auf zivile Infrastruktur in der Ukraine",
-   "s": "Russland hat die Ukraine in der Nacht mit neuen Angriffen überzogen. Landesweit starben mehrere Menschen. Polen meldete eine erneute Verletzung seines Luftraums durch einen russischen Militärhubschrauber.",
-   "u": "https://www.tagesschau.de/ausland/europa/angriffe-auf-ukraine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T14:19:14+00:00"
   }
  ]
 }
