@@ -1,7 +1,77 @@
 {
  "name": "Inland",
- "updated": "2026-09-25T14:36:42+00:00",
+ "updated": "2026-09-25T19:15:29+00:00",
  "items": [
+  {
+   "t": "SPD stoppt vorerst Pflegereform: \"Das lassen wir nicht zu\"",
+   "s": "Kommende Woche wollte das Bundeskabinett die geplante Reform in der Pflege auf den Weg bringen - doch das wird wohl nicht klappen. Die SPD will nachverhandeln und droht nach Informationen des ARD-Hauptstadtstudios mit Blockade. Von A. Budweg.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/pflegeversicherung-spd-kabinett-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T18:38:15+00:00"
+  },
+  {
+   "t": "Muss Spahn nun auch um seinen Platz im Haushaltsausschuss bangen?",
+   "s": "Nach seinem Rücktritt als Fraktionschef sitzt Jens Spahn nun im Haushaltsausschuss. Doch in der Union gibt es nach ARD-Informationen Unmut - über einen Urlaub Spahns während einer Ausschusssitzung. Von M. Rödle und P. Kuntschner.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/spahn-haushaltsausschuss-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T18:20:24+00:00"
+  },
+  {
+   "t": "Antisemitismus in der Linkspartei: Wollen wir nicht besser sein?",
+   "s": "Ich will, dass Berlins nächste Regierende Elif Eralp heißt. Gleichzeitig will ich, dass die Ängste von uns jüdischen Menschen ernst genommen werden.",
+   "u": "https://taz.de/Antisemitismus-in-der-Linkspartei/!6211073/",
+   "q": "taz",
+   "d": "2026-09-25T17:12:00+00:00"
+  },
+  {
+   "t": "Rot-Rot-Grün in Mecklenburg-Vorpommern: Muss ja",
+   "s": "Im neu gewählten Landtag von Mecklenburg-Vorpommern hat Rot-Rot-Grün eine Mehrheit. Trotz Animositäten sind SPD, Linke und Grüne bereit zu koalieren.",
+   "u": "https://taz.de/Rot-Rot-Gruen-in-Mecklenburg-Vorpommern/!6211151/",
+   "q": "taz",
+   "d": "2026-09-25T17:08:00+00:00"
+  },
+  {
+   "t": "Drohnenangriff auf Bürohaus in Kyjiw: „Wir alle sind lebende Ziele für Putin“",
+   "s": "Die russischen Streitkräfte greifen ein Bürogebäude in der ukrainischen Hauptstadt Kyjiw an. Mindestens 7 Menschen sterben bei der Drohnenattacke.",
+   "u": "https://taz.de/Drohnenangriff-auf-Buerohaus-in-Kyjiw/!6216389/",
+   "q": "taz",
+   "d": "2026-09-25T17:06:00+00:00"
+  },
+  {
+   "t": "Maga-Druck auf Internationale Justiz: „Hände weg vom ICC“",
+   "s": "US-Präsident Trump fordert alle Staaten auf, aus dem Internationalen Strafgerichtshof auszusteigen und kündigt Sanktionen an. Doch es gibt Widerstand.",
+   "u": "https://taz.de/Maga-Druck-auf-Internationale-Justiz/!6216300/",
+   "q": "taz",
+   "d": "2026-09-25T16:53:00+00:00"
+  },
+  {
+   "t": "Soli mit albanischem Antifaschisten: Internationale Unterstützung für Pariser Exil-Antifas",
+   "s": "Europäische Intellektuelle stellen sich gegen die Auslieferung von „Gino“ aus Frankreich nach Deutschland. Derweil kommt Lina E. vorerst frei.",
+   "u": "https://taz.de/Soli-mit-albanischem-Antifaschisten/!6216191/",
+   "q": "taz",
+   "d": "2026-09-25T15:43:00+00:00"
+  },
+  {
+   "t": "Spritpreisdeckel - Problem der Knappheit kann sich verschärfen",
+   "s": "Die Bundesregierung will Autofahrer angesichts steigender Spritpreise gleich doppelt entlasten. Neben dem gerade beschlossenen Tankrabatt ist auch ein sogenannter Spritpreisdeckel in der Diskussion. Es wäre ein ungewöhnlicher Eingriff in den Markt.",
+   "u": "https://www.deutschlandfunk.de/tankrabatt-spritpreisbremse-entlastung-benzinpreis-auto-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-25T15:42:00+00:00"
+  },
+  {
+   "t": "Sachsen Anhalt – Wie AfD und BSW das Parlament umbauen",
+   "s": "AfD und BSW arbeiten in Sachsen-Anhalt schon bei ersten Machtfragen zusammen – von Ausschüssen bis zur Sitzordnung. Ist das der Auftakt für eine AfD-Minderheitsregierung? Und: Die Frühstartrente soll kommen.Schulz, Sandra",
+   "u": "https://www.deutschlandfunk.de/regierungsbildung-afd-bsw-rente-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-25T15:00:00+00:00"
+  },
+  {
+   "t": "Bundestag und Bundesrat beschließen erneuten \"Tankrabatt\"",
+   "s": "Der \"Tankrabatt\" kommt wieder. Diesmal gilt die Preissenkung sogar drei Monate lang. Das sind gute Nachrichten für Autofahrer, Spediteure und Landwirte. Es gibt aber auch Kritik an der Maßnahme.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-bundesrat-beschlossen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T14:36:26+00:00"
+  },
   {
    "t": "Proteste gegen Wehrpflicht - Tausende Schüler demonstrieren bundesweit",
    "s": "Das Gesetz über den neuen Wehrdienst ist Anfang des Jahres in Kraft getreten. Damit will die Regierung mehr junge Menschen für die Bundeswehr gewinnen. Nun gab es in vielen Städten Schüler-Proteste gegen eine mögliche Wehrpflicht.",
@@ -94,81 +164,11 @@
    "d": "2026-09-25T10:27:00+00:00"
   },
   {
-   "t": "Frühstartrente - was aus zehn Euro pro Monat werden kann",
+   "t": "Frühstartrente - Was aus zehn Euro pro Monat werden kann",
    "s": "Mit der Frühstartrente sollen Kinder ab 6 Jahren monatlich zehn Euro vom Staat erhalten. Ökonomin Milena Schwarz hält dies für sinnvoll: Privates Vermögen wird aufgebaut und Kapitalmarktwissen vertieft. Fehler der Riester-Rente gelte es zu vermeiden.Engels, Silvia",
    "u": "https://www.deutschlandfunk.de/fruehstartrente-sinnvoll-interview-mit-milena-schwarz-sachverstaendigenrat-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-25T10:16:00+00:00"
-  },
-  {
-   "t": "Immer mehr Haushalte beziehen Wohngeld",
-   "s": "Die Bundesregierung will beim Wohngeld kürzen. Gleichzeitig steigt der Bedarf: Noch nie war die Zahl an Haushalten, die Wohngeld beziehen, so hoch wie Ende des vergangenen Jahres. Auch der Betrag stieg auf ein neues Hoch.",
-   "u": "https://www.tagesschau.de/inland/wohngeld-statistik-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T09:39:15+00:00"
-  },
-  {
-   "t": "Rheinland-Pfalz behält MPK-Vorsitz - Sachsen-Anhalt wird übersprungen",
-   "s": "Rheinland-Pfalz soll ein weiteres Jahr den Vorsitz der Ministerpräsidentenkonferenz übernehmen - damit wird Sachsen-Anhalt in der jährlich wechselnden Reihenfolge übersprungen. Die AfD kritisiert das.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-behaelt-mpk-vorsitz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T09:00:51+00:00"
-  },
-  {
-   "t": "Tagebuch aus der Ukraine: Geschichten von der Rettung der Fledermäuse",
-   "s": "Zu den Kriegsfolgen in der Ukraine gehört, dass sich Tausende Fledermäuse in leerstehenden Gebäuden einnisten. Etliche Gruppen kümmern sich um sie.",
-   "u": "https://taz.de/Tagebuch-aus-der-Ukraine/!6213306/",
-   "q": "taz",
-   "d": "2026-09-25T08:37:00+00:00"
-  },
-  {
-   "t": "SPD-Landeschefin Schwesig übt harsche Kritik am Kurs von Kanzler Merz",
-   "s": "Mecklenburg-Vorpommerns Ministerpräsidentin Schwesig wird deutlicher in ihrer Merz-Kritik: Ein einfaches \"Weiter so\" reiche einfach nicht. Der Kanzler müsse die Ministerpräsidentinnen und -präsidenten einbeziehen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/schwesig-kritik-merz-reformen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T08:22:31+00:00"
-  },
-  {
-   "t": "„Bewaffneter Streik“ in Kolumbien: Stille in Santa Marta – und der Präsident kommt mit Waffe",
-   "s": "In Kolumbiens Karibikstadt Santa Marta übt eine Gruppe von Paramilitärs den „bewaffneten Streik“. Geschäfte und Schulen sind geschlossen, Busse brennen.",
-   "u": "https://taz.de/Bewaffneter-Streik-in-Kolumbien/!6215956/",
-   "q": "taz",
-   "d": "2026-09-25T07:32:00+00:00"
-  },
-  {
-   "t": "Eklat bei UN-Generalversammlung: Netanjahu allein im Haus",
-   "s": "Der israelische Ministerpräsident teilt in seiner UN-Rede scharf aus, auch gegen New Yorks Bürgermeister Mamdani. Delegierte verlassen den Saal, draußen wird demonstriert.",
-   "u": "https://taz.de/UN-Generalversammlung/!6216287/",
-   "q": "taz",
-   "d": "2026-09-25T07:25:00+00:00"
-  },
-  {
-   "t": "Workshop der panterstiftung: Afrika sucht Partner – Europa sucht sich selbst",
-   "s": "Seit April haben beim 5. Afrika-Workshop der taz panterstiftung 16 Jour­na­lis­t:in­nen über das Verhältnis Afrikas zu den Großmächten diskutiert.",
-   "u": "https://taz.de/Workshop-der-panterstiftung/!6197157/",
-   "q": "taz",
-   "d": "2026-09-25T07:01:00+00:00"
-  },
-  {
-   "t": "Trump und Xi in Washington: Schaumwein, ein Adler und Spartas Angst",
-   "s": "US-Präsident Trump empfängt Xi Jinping mit großem Pomp. Greifbare Ergebnisse gibt es kaum, aber Peking gewinnt im Systemkampf der Weltmächte Zeit.",
-   "u": "https://taz.de/Trump-und-Xi-in-Washington/!6216280/",
-   "q": "taz",
-   "d": "2026-09-25T06:32:00+00:00"
-  },
-  {
-   "t": "Antrag zu NS-Gedenken in Sachsen: Knobloch kritisiert CDU-Zusammenarbeit mit AfD",
-   "s": "Stadträte von CDU und AfD wollen keine Stolpersteine zur Erinnerung an NS-Opfer in Heidenau. Charlotte Knobloch hält das für den „völlig falschen Weg“.",
-   "u": "https://taz.de/Antrag-zu-NS-Gedenken-in-Sachsen/!6216278/",
-   "q": "taz",
-   "d": "2026-09-25T06:12:00+00:00"
-  },
-  {
-   "t": "Wahlkampf in Israel: Mit Paragraf 7A gegen arabische Parteien",
-   "s": "Als 1984 die rechtsextreme Kach-Partei in die Knesset einzog, führte Israel ein Gesetz zum Ausschluss von Parteien ein. Nun nutzen es Rechte gegen ihre Gegner.",
-   "u": "https://taz.de/Wahlkampf-in-Israel/!6215951/",
-   "q": "taz",
-   "d": "2026-09-25T05:55:00+00:00"
   }
  ]
 }

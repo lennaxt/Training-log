@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-25T14:36:47+00:00",
+ "updated": "2026-09-25T19:15:33+00:00",
  "items": [
+  {
+   "t": "Drohnenangriff auf Bürohaus in Kyjiw: „Wir alle sind lebende Ziele für Putin“",
+   "s": "Die russischen Streitkräfte greifen ein Bürogebäude in der ukrainischen Hauptstadt Kyjiw an. Mindestens 7 Menschen sterben bei der Drohnenattacke.",
+   "u": "https://taz.de/Drohnenangriff-auf-Buerohaus-in-Kyjiw/!6216389/",
+   "q": "taz",
+   "d": "2026-09-25T17:06:00+00:00"
+  },
+  {
+   "t": "Maga-Druck auf Internationale Justiz: „Hände weg vom ICC“",
+   "s": "US-Präsident Trump fordert alle Staaten auf, aus dem Internationalen Strafgerichtshof auszusteigen und kündigt Sanktionen an. Doch es gibt Widerstand.",
+   "u": "https://taz.de/Maga-Druck-auf-Internationale-Justiz/!6216300/",
+   "q": "taz",
+   "d": "2026-09-25T16:53:00+00:00"
+  },
   {
    "t": "Papstbesuch in Frankreich: Heiliger Vater ante portas",
    "s": "Papst Leo XIV. kommt am Freitag für vier Tage nach Frankreich. Auch viele Nichtkatholiken wollen seine Botschaft zum Frieden und der KI-Debatte hören.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Duma-Scheinwahlen-in-Russland/!6215003/",
    "q": "taz",
    "d": "2026-09-21T13:03:00+00:00"
-  },
-  {
-   "t": "Wahl in Russland: Wahlkommission verkündet Sieg der Regierungspartei",
-   "s": "Die Wahlkommission teilt mit, dass Einiges Russland die Wahl für sich entschieden hat. Mit dem Ergebnis sichert sich die Regierungspartei 355 der 450 Sitze.",
-   "u": "https://taz.de/Wahl-in-Russland/!6215030/",
-   "q": "taz",
-   "d": "2026-09-21T11:48:00+00:00"
-  },
-  {
-   "t": "Nationalistische Ressentiments: „Mal sehen, was Polen ohne uns macht“",
-   "s": "Flüchtlinge aus der Ukraine verlassen in wachsender Zahl Polen. Es gibt dort immer mehr Übergriffe – und Polens extreme Rechte pöbelt immer lauter.",
-   "u": "https://taz.de/Nationalistische-Ressentiments/!6214712/",
-   "q": "taz",
-   "d": "2026-09-21T05:06:00+00:00"
   }
  ]
 }

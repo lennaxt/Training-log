@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-09-25T14:36:43+00:00",
+ "updated": "2026-09-25T19:15:30+00:00",
  "items": [
+  {
+   "t": "Diego Garcia - Streit um einen Militärstützpunkt",
+   "s": "Eigentlich wollte London die Insel Diego Garcia an Mauritius zurückgeben. Doch US-Präsident Trump stoppte den \"schrecklichen\" Deal. Für ihn geht es um einen der wichtigsten US-Militärstützpunkte. Von Stephan Ueberbach.",
+   "u": "https://www.tagesschau.de/ausland/afrika/afrika-indischer-ozean-chagos-usa-mauritius-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T16:47:04+00:00"
+  },
   {
    "t": "Papst Leo XIV. in Frankreich: Treffen mit Macron in Paris",
    "s": "Papst Leo XIV. ist zu seinem ersten Frankreich-Besuch in Paris eingetroffen. Beim Treffen mit Präsident Macron sprach er über Sterbehilfe und KI. In den kommenden Tagen werden Hunderttausende Gläubige erwartet.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-142.html",
    "q": "Tagesschau",
    "d": "2026-09-23T16:50:49+00:00"
-  },
-  {
-   "t": "Neuer Sender übernimmt: Niederlande nehmen wieder am ESC teil",
-   "s": "Nach einem Jahr Abwesenheit wollen die Niederlande 2027 wieder beim Eurovision Song Contest mit dabei sein. Der öffentlich-rechtliche Rundfunk übernimmt vom bisherigen Sender. Ein erneuter Boykott wegen der Teilnahme Israels ist damit vom Tisch.",
-   "u": "https://www.tagesschau.de/ausland/europa/esc-niederlande-boykott-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T15:44:34+00:00"
   }
  ]
 }
