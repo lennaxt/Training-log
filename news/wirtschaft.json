@@ -1,7 +1,56 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-24T23:52:52+00:00",
+ "updated": "2026-09-25T08:50:37+00:00",
  "items": [
+  {
+   "t": "Löst Vergesellschaftung das Wohnungsproblem?",
+   "s": "Die Linke will das Wohnungsproblem in Berlin mit einem nie eingesetzten Mittel angehen: Der Vergesellschaftung privater Wohnbau-Konzerne. Ökonomen sprechen von Tabubruch. Von Heidi Radvilas.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/vergesellschaftung-wohnungsproblem-berlin-mietmarkt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T08:40:50+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 25.09.2026",
+   "s": "Update Wirtschaft vom 25.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1655214.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T08:14:50+00:00"
+  },
+  {
+   "t": "Entlastung im Bundestag: So schnell soll der Tankrabatt kommen",
+   "s": "Mit einem neuen Tankrabatt will die Bundesregierung die Spritpreise möglichst schnell senken. Heute sollen der Bundestag und Bundesrat darüber entscheiden. Wie hoch der Rabatt ausfällt und was noch geplant ist.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T07:27:57+00:00"
+  },
+  {
+   "t": "Marktbericht: Stoppt der DAX seine Verlustserie?",
+   "s": "Dem deutschen Leitindex winkt ein versöhnlicher Wochenabschluss. Dafür könnten neue Konjunkturdaten sorgen. Doch der hohe Ölpreis bleibt eine Belastung und facht die Inflationsangst an.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T05:57:17+00:00"
+  },
+  {
+   "t": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
+   "s": "Um die Ölinfrastruktur Saudi-Arabiens zu schützen, kündigt Frankreich an, Militärgerät und Truppen ans Rote Meer zu schicken. Direkt in den Konflikt mit der Huthi-Miliz wolle er aber nicht einsteigen, sagte Präsident Macron.",
+   "u": "https://www.tagesschau.de/ausland/europa/macron-soldaten-saudi-arabien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T03:44:09+00:00"
+  },
+  {
+   "t": "Manipulationsskandal an der türkischen Börse",
+   "s": "Die türkische Börse wird von einem Manipulationsskandal erschüttert. Mehrere Investmentfirmen sollen einzelne Aktienkurse künstlich in die Höhe getrieben haben. Hunderttausende Anleger könnten betroffen sein. Von Pia Masurczak.",
+   "u": "https://www.tagesschau.de/wirtschaft/boerse/manipulation-skandal-boerse-istanbul-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T03:22:52+00:00"
+  },
+  {
+   "t": "Schulen in Singapur: Den Lernerfolg nicht der KI überlassen",
+   "s": "Der KI die Hausaufgaben überlassen: Die Möglichkeiten künstlicher Intelligenz sind für Schüler verführerisch. Singapur hat deshalb eigene KI-Tools für den Unterricht entwickelt - von denen auch Lehrer profitieren. Von J. Johnston.",
+   "u": "https://www.tagesschau.de/ausland/asien/singapur-ki-schulunterricht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T03:22:44+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 24.09.2026",
    "s": "Wirtschaft vor acht vom 24.09.2026",
@@ -15,13 +64,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-schnabel-ezb-100.html",
    "q": "Tagesschau",
    "d": "2026-09-24T16:35:53+00:00"
-  },
-  {
-   "t": "Marktbericht: Hohe Ölpreise fachen Inflations- und Zinsängste an",
-   "s": "Die Zinssorgen lassen die DAX-Anleger nicht los. Höhere Ölpreise und steigende Bond-Renditen haben den deutschen Leitindex heute belastet. Dagegen konnten auch gute Konjunkturdaten nichts ausrichten.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T16:18:29+00:00"
   },
   {
    "t": "Marktmacht - Kampf den Kartellen",
@@ -64,13 +106,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/immobilienpreise-haeuser-wohnungen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-24T08:59:05+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 24.09.2026",
-   "s": "Update Wirtschaft vom 24.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1654690.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T07:54:06+00:00"
   },
   {
    "t": "KI-Agent hackt australisches Regierungsportal",
@@ -129,46 +164,11 @@
    "d": "2026-09-23T10:13:52+00:00"
   },
   {
-   "t": "Stellenangebote für Berufseinsteiger seit 2022 stark geschrumpft",
-   "s": "Die Zahl der Stellenangebote für Berufseinsteiger ist in den vergangenen Jahren einer Analyse zufolge stark zurückgegangen. Besonders deutlich lässt sich die Entwicklung bei Wissensberufen beobachten.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/stellenangebot-junge-berufseinsteiger-100.html",
+   "t": "Können Wohnungen in Berlin vergesellschaftet werden?",
+   "s": "Die Linke will in Berlin Wohnungen von großen Konzernen vergesellschaften. Im Fokus steht ein Artikel aus dem Grundgesetz, der noch nie angewandt wurde. Juristisch ist das Vorgehen umstritten. Von A. Stephany, A. Lagmöller und M. Bauer.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/wohnungen-vergesellschaftung-berlin-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-23T08:11:28+00:00"
-  },
-  {
-   "t": "USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
-   "s": "Angesichts der gestiegenen Treibstoffpreise in den USA hat sich US-Präsident Trump für einen Diesel-Exportstopp ausgesprochen. Zuletzt ergriffen die USA einen solchen Schritt während der Ölkrise der 1970er-Jahre.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-diskussion-exportstopp-diesel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T06:22:27+00:00"
-  },
-  {
-   "t": "ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
-   "s": "Seit April dürfen Tankstellen nur noch um 12 Uhr die Spritpreise erhöhen. Der ADAC kritisiert, dass die Regel zu größeren Preisschwankungen im Tagesverlauf geführt habe, statt die Preise zu senken.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/adac-tankstellen-12-uhr-regel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T06:09:58+00:00"
-  },
-  {
-   "t": "Kanzleramtschefin Warken verspricht Tempo bei Reformen",
-   "s": "Kanzleramtschefin Warken hat einflussreichen Wirtschaftsverbänden zugesagt, dass die geplanten Reformen zügig kämen - trotz Unruhe in der Koalition. Von einem Treffen der Koalitionsspitzen drang nichts nach außen.",
-   "u": "https://www.tagesschau.de/inland/reformdebatte-warken-koalition-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T05:57:37+00:00"
-  },
-  {
-   "t": "Neue Details zu Anlage-Verlusten bei Krankenkassen",
-   "s": "Drei kleinere Krankenkassen haben laut NDR, WDR und SZ zusammen mehr als 100 Millionen Euro im Veriusfonds verloren. Eine Sonderprüfung der KV Berlin bezweifelt, dass ihre Anlagerichtlinie eingehalten wurde.",
-   "u": "https://www.tagesschau.de/investigativ/ndr-wdr/krankenkassen-verluste-anlagen-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T04:06:32+00:00"
-  },
-  {
-   "t": "Bauzinsen über vier Prozent: Was Käufer jetzt wissen müssen",
-   "s": "Der Immobilienkauf wird wieder teurer. Bauzinsen für zehnjährige Darlehen liegen inzwischen über vier Prozent. Was Käufer und Eigentümer jetzt bei Finanzierung und Anschlusskredit beachten sollten. Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bauzinsen-hypotheken-immobilienkauf-anschlussfinanzierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T03:29:12+00:00"
+   "d": "2026-09-23T08:17:39+00:00"
   }
  ]
 }

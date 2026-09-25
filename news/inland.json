@@ -1,7 +1,98 @@
 {
  "name": "Inland",
- "updated": "2026-09-24T23:52:51+00:00",
+ "updated": "2026-09-25T08:50:35+00:00",
  "items": [
+  {
+   "t": "Tagebuch aus der Ukraine: Geschichten von der Rettung der Fledermäuse",
+   "s": "Zu den Kriegsfolgen in der Ukraine gehört, dass sich Tausende Fledermäuse in leerstehenden Gebäuden einnisten. Etliche Gruppen kümmern sich um sie.",
+   "u": "https://taz.de/Tagebuch-aus-der-Ukraine/!6213306/",
+   "q": "taz",
+   "d": "2026-09-25T08:37:00+00:00"
+  },
+  {
+   "t": "SPD-Landeschefin Schwesig übt harsche Kritik am Kurs von Kanzler Merz",
+   "s": "Mecklenburg-Vorpommerns Ministerpräsidentin Schwesig wird deutlicher in ihrer Merz-Kritik: ein einfaches \"Weiter so\" reiche einfach nicht. Der Kanzler müsse die Ministerpräsidentinnen und -präsidenten einbeziehen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/schwesig-kritik-merz-reformen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T08:22:31+00:00"
+  },
+  {
+   "t": "„Bewaffneter Streik“ in Kolumbien: Stille in Santa Marta – und der Präsident kommt mit Waffe",
+   "s": "In Kolumbiens Karibikstadt Santa Marta übt eine Gruppe von Paramilitärs den „bewaffneten Streik“. Geschäfte und Schulen sind geschlossen, Busse brennen.",
+   "u": "https://taz.de/Bewaffneter-Streik-in-Kolumbien/!6215956/",
+   "q": "taz",
+   "d": "2026-09-25T07:32:00+00:00"
+  },
+  {
+   "t": "Entlastung im Bundestag: So schnell soll der Tankrabatt kommen",
+   "s": "Mit einem neuen Tankrabatt will die Bundesregierung die Spritpreise möglichst schnell senken. Heute sollen der Bundestag und Bundesrat darüber entscheiden. Wie hoch der Rabatt ausfällt und was noch geplant ist.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-25T07:27:57+00:00"
+  },
+  {
+   "t": "Eklat bei UN-Generalversammlung: Netanjahu allein im Haus",
+   "s": "Der israelische Ministerpräsident teilt in seiner UN-Rede scharf aus, auch gegen New Yorks Bürgermeister Mamdani. Delegierte verlassen den Saal, draußen wird demonstriert.",
+   "u": "https://taz.de/UN-Generalversammlung/!6216287/",
+   "q": "taz",
+   "d": "2026-09-25T07:25:00+00:00"
+  },
+  {
+   "t": "Workshop der panterstiftung: Afrika sucht Partner – Europa sucht sich selbst",
+   "s": "Seit April haben beim 5. Afrika-Workshop der taz panterstiftung 16 Jour­na­lis­t:in­nen über das Verhältnis Afrikas zu den Großmächten diskutiert.",
+   "u": "https://taz.de/Workshop-der-panterstiftung/!6197157/",
+   "q": "taz",
+   "d": "2026-09-25T07:01:00+00:00"
+  },
+  {
+   "t": "Trump und Xi in Washington: Schaumwein, ein Adler und Spartas Angst",
+   "s": "US-Präsident Trump empfängt Xi Jinping mit großem Pomp. Greifbare Ergebnisse gibt es kaum, aber Peking gewinnt im Systemkampf der Weltmächte Zeit.",
+   "u": "https://taz.de/Trump-und-Xi-in-Washington/!6216280/",
+   "q": "taz",
+   "d": "2026-09-25T06:32:00+00:00"
+  },
+  {
+   "t": "Antrag zu NS-Gedenken in Sachsen: CDU reicht AfD die Hand",
+   "s": "Stadträte von CDU und AfD sprechen sich gegen Stolpersteine zur Erinnerung an Opfer des Nationalsozialismus in der Stadt aus. Ihr Antrag wurde angenommen.",
+   "u": "https://taz.de/Antrag-zu-NS-Gedenken-in-Sachsen/!6216278/",
+   "q": "taz",
+   "d": "2026-09-25T06:12:00+00:00"
+  },
+  {
+   "t": "Wahlkampf in Israel: Mit Paragraf 7A gegen arabische Parteien",
+   "s": "Als 1984 die rechtsextreme Kach-Partei in die Knesset einzog, führte Israel ein Gesetz zum Ausschluss von Parteien ein. Nun nutzen es Rechte gegen ihre Gegner.",
+   "u": "https://taz.de/Wahlkampf-in-Israel/!6215951/",
+   "q": "taz",
+   "d": "2026-09-25T05:55:00+00:00"
+  },
+  {
+   "t": "Papstbesuch in Frankreich: Heiliger Vater ante portas",
+   "s": "Papst Leo XIV. kommt am Freitag für vier Tage nach Frankreich. Auch viele Nichtkatholiken wollen seine Botschaft zum Frieden und der KI-Debatte hören.",
+   "u": "https://taz.de/Papst-Besuch-in-Frankreich/!6216064/",
+   "q": "taz",
+   "d": "2026-09-25T05:17:00+00:00"
+  },
+  {
+   "t": "Berliner Linke weist Antisemitismusvorwürfe zurück",
+   "s": "Die Antisemitismus-Debatte belastet die Regierungsbildung auf Landesebene in Berlin. Linken-Landesvorsitzende Kerstin Wolter räumt zwar Fehler Einzelner ein, sieht darin aber kein strukturelles Problem ihrer Partei.Heckmann, Dirk-Oliver",
+   "u": "https://www.deutschlandfunk.de/linken-landesparteitag-und-antisemitismus-vorwuerfe-interview-kerstin-wolter-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-25T05:15:22+00:00"
+  },
+  {
+   "t": "Gewerkschaften gegen Kürzungen: Sozialproteste stellen sich breiter auf",
+   "s": "Für das Wochenende ruft der DGB zu bundesweiten Demonstrationen auf. Zuletzt tat sich der DGB mit Mobilisierung auf der Straße schwer.",
+   "u": "https://taz.de/Gewerkschaftsproteste-gegen-Kuerzungen/!6215691/",
+   "q": "taz",
+   "d": "2026-09-25T05:12:00+00:00"
+  },
+  {
+   "t": "Reform der Geheimdienste: Mehr Befugnisse, aber auch mehr Kontrolle",
+   "s": "Angesichts russischer Bedrohungen hält Sicherheitsexperte Luca Manns eine Reform von BND und Verfassungsschutz für notwendig. Befürchtungen vor einer \"Geheimpolizei\" weist er jedoch zurück, denn die Dienste stehen auch stärker unter Kontrolle.Fischer, Jochen",
+   "u": "https://www.deutschlandfunk.de/welche-reformen-brauchen-die-geheimdienste-int-luca-manns-uni-koeln-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-24T21:20:00+00:00"
+  },
   {
    "t": "Sozialkürzungen: Einzelfallhilfen für Menschen mit Behinderung sind bedroht",
    "s": "Gleich mehrere Gesetze plant die schwarz-rote Bundesregierung, die Einsparungen bei Menschen mit Behinderungen bedeuten würden. Am Freitag wird eines davon beraten.",
@@ -78,97 +169,6 @@
    "u": "https://taz.de/Parlamentswahl-in-Marokko/!6216068/",
    "q": "taz",
    "d": "2026-09-24T14:14:00+00:00"
-  },
-  {
-   "t": "US-Zwischenwahlen im November: Keine Beobachtung erwünscht",
-   "s": "Erstmals wurden keine OSZE-Beobachter zu US-Wahlen eingeladen. Der Transatlantik-Koordinator Metin Hakverdi kritisiert diese Entscheidung der USA.",
-   "u": "https://taz.de/US-Zwischenwahlen-im-November/!6216166/",
-   "q": "taz",
-   "d": "2026-09-24T13:50:00+00:00"
-  },
-  {
-   "t": "Steht die CDU vor ihrem Ende als Volkspartei?",
-   "s": "Ob die CDU noch Volkspartei sei, wurde Friedrich Merz nach dem Wahldesaster gefragt: \"Nur noch in Teilen\", antwortete der Kanzler. Was bedeutet das konkret? Und ist die AfD mittlerweile eine Volkspartei? Von Jasper Ruppert.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-cdu-volkspartei-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T13:45:39+00:00"
-  },
-  {
-   "t": "Umstrittene Polizei-Software: Der „Einstieg in den Ausstieg“ von Palantir",
-   "s": "Hessens Innenminister Poseck (CDU) zeigt sich bereit zum Ausstieg aus der umstrittenen Software des US-Milliardärs Peter Thiel.",
-   "u": "https://taz.de/Der-Einstieg-in-den-Ausstieg-von-Palantir/!6215930/",
-   "q": "taz",
-   "d": "2026-09-24T13:06:00+00:00"
-  },
-  {
-   "t": "Nach Wahl in Berlin: Özdemir warnt Grüne vor Koalition mit Linkspartei",
-   "s": "Nach dem Wahlsieg der Linken in Berlin brodelt die Debatte über eine mögliche Koalitionsbildung. Führende Politiker der Grünen warnen - 150 jüdische Berliner nehmen die Partei gegen Antisemitismusvorwürfe in Schutz.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/oezdemir-linke-warnung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T11:55:47+00:00"
-  },
-  {
-   "t": "Nach Landtagswahl in Sachsen-Anhalt: SPD hält an Gesprächen fest",
-   "s": "Sachsen-Anhalts SPD lädt zum Gespräch ein, um eine Regierung ohne AfD in Sachsen-Anhalt zu ermöglichen. Obwohl die CDU abgesagt hat, steht der Termin.",
-   "u": "https://taz.de/Nach-Landtagswahl-in-Sachsen-Anhalt/!6215932/",
-   "q": "taz",
-   "d": "2026-09-24T10:53:00+00:00"
-  },
-  {
-   "t": "Elif Eralp gewinnt Berlin-Wahl: „Eine von uns wird Bürgermeisterin!“",
-   "s": "Zum ersten Mal hat unser Kolumnist in Deutschland gewählt. Seine Freude über das Wahlergebnis wird von den politischen und medialen Folgen getrübt.",
-   "u": "https://taz.de/Elif-Eralp-gewinnt-Berlin-Wahl/!6215902/",
-   "q": "taz",
-   "d": "2026-09-24T10:37:00+00:00"
-  },
-  {
-   "t": "Ökonom: Verunsicherung bedroht Wachstum",
-   "s": "Sebastian Dullien von der Hans-Böckler-Stiftung sieht Anzeichen für eine Erholung der deutschen Wirtschaft. Um den Aufschwung nicht zu gefährden, dürften die Menschen aber nicht ständig durch Debatten über Sozialkürzungen verunsichert werden.Kaess, Christiane",
-   "u": "https://www.deutschlandfunk.de/interview-zur-wirtschafts-prognose-mit-prof-sebastian-dullien-boeckler-institut-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-24T10:15:14+00:00"
-  },
-  {
-   "t": "Kontroverse Debatte um Reform der Nachrichtendienste im Bundestag",
-   "s": "Der Bundesnachrichtendienst und der Verfassungsschutz sollen deutlich mehr Befugnisse erhalten. Davon verspricht sich die Regierung größere Sicherheit. Die Opposition befürchtet hingegen einen Bruch der Grundrechte. Auch Ärzte sind besorgt.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/reform-bnd-bundestag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T10:09:28+00:00"
-  },
-  {
-   "t": "Israel vor der Parlamentswahl: Wer antreten darf – und wer nicht",
-   "s": "Die israelische Wahlkommission stimmt für den Ausschluss arabischer Parteien. Das letzte Wort hat das Oberste Gericht. Auch gegen Rechte gibt es Ausschlussanträge.",
-   "u": "https://taz.de/Israel-vor-der-Parlamentswahl/!6215897/",
-   "q": "taz",
-   "d": "2026-09-24T08:11:00+00:00"
-  },
-  {
-   "t": "Nach Wahl in Sachsen-Anhalt: CDU könnte Weg für AfD-Regierung ebnen",
-   "s": "Die CDU Sachsen-Anhalt wird nicht an Gesprächen mit den demokratischen Parteien teilnehmen und geht in die Opposition. Eine Einladung der SPD schlug sie aus.",
-   "u": "https://taz.de/Nach-Wahl-in-Sachsen-Anhalt/!6215913/",
-   "q": "taz",
-   "d": "2026-09-24T07:57:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: Schwerer Beschuss der ukrainischen Hauptstadt",
-   "s": "Schwere Explosionen erschütterten Kyjiw bei nächtlichem Raketenbeschuss. Mindestens zwei Menschen starben.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6215896/",
-   "q": "taz",
-   "d": "2026-09-24T07:05:00+00:00"
-  },
-  {
-   "t": "EU-Beitrittskandidat Montenegro: Europa im Herzen",
-   "s": "Montenegro stimmt heute über die Absetzung des Parlamentspräsidenten ab, weil er Serbiens Völkermörder Mladić ehrte. Die jungen Menschen sind indes längst weiter.",
-   "u": "https://taz.de/EU-Beitrittskandidat-Montenegro/!6215204/",
-   "q": "taz",
-   "d": "2026-09-24T06:50:00+00:00"
-  },
-  {
-   "t": "Transplantationsgesetz im Bundestag: Organspende – Zustimmung oder Widerspruch?",
-   "s": "250 Abgeordnete meinen, dass sich bei der Organspende etwas ändern muss. Worum es dabei geht und was in der Lesung am Donnerstag besprochen wird.",
-   "u": "https://taz.de/Transplantationsgesetz-im-Bundestag/!6215893/",
-   "q": "taz",
-   "d": "2026-09-24T06:25:00+00:00"
   }
  ]
 }

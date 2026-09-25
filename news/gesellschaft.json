@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-24T23:52:54+00:00",
+ "updated": "2026-09-25T08:50:40+00:00",
  "items": [
+  {
+   "t": "Papstbesuch in Frankreich: Heiliger Vater ante portas",
+   "s": "Papst Leo XIV. kommt am Freitag für vier Tage nach Frankreich. Auch viele Nichtkatholiken wollen seine Botschaft zum Frieden und der KI-Debatte hören.",
+   "u": "https://taz.de/Papst-Besuch-in-Frankreich/!6216064/",
+   "q": "taz",
+   "d": "2026-09-25T05:17:00+00:00"
+  },
   {
    "t": "Baltische Länder gegen Oligarchen: Wenn die EU nicht mitmacht, machen sie es eben selbst",
    "s": "Die baltischen Länder verhängen eigene Sanktionen gegen zwei russische Oligarchen. Von der Lockerung durch die Europäische Union sind sie nicht überzeugt.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Nationalistische-Ressentiments/!6214712/",
    "q": "taz",
    "d": "2026-09-21T05:06:00+00:00"
-  },
-  {
-   "t": "Melonis Plan für Italiens Schulen: Ausländerquote und Schleierverbot",
-   "s": "Italiens Ministerpräsidentin will das Tragen von Gesichtsschleiern in Schulen verbieten. Außerdem will sie Eltern zum Italienischlernen verpflichten.",
-   "u": "https://taz.de/Melonis-Plan-fuer-Italiens-Schulen/!6214863/",
-   "q": "taz",
-   "d": "2026-09-20T16:09:00+00:00"
   }
  ]
 }
