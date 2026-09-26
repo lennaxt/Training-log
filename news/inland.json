@@ -1,7 +1,42 @@
 {
  "name": "Inland",
- "updated": "2026-09-25T23:57:34+00:00",
+ "updated": "2026-09-26T08:37:15+00:00",
  "items": [
+  {
+   "t": "Wie eine Brücke ein Dorf belebt",
+   "s": "Leere Häuser, wenige Kinder, klamme Kasse: Mörsdorf in Rheinland-Pfalz kämpfte mit Zukunftssorgen. Jetzt kommen Touristen in den Ort - und bringen Trubel, aber auch Geld. Wie das gelungen ist? Mit einer außergewöhnlichen Brücke. Von Michael Eiden.",
+   "u": "https://www.tagesschau.de/inland/mittendrin/haengeseilbruecke-geierlay-dorf-moersdorf-tourismus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T08:07:43+00:00"
+  },
+  {
+   "t": "Gedenken an NS-Opfer in Sachsen: Eine Kultur des Vergessens",
+   "s": "Der Stadtrat Heidenau hat das Gedenken an Opfer der Nazis auf den Friedhof verbannt. Die Rechten setzen zu ihrem lange geforderten Schlussstrich an.",
+   "u": "https://taz.de/Gedenken-an-NS-Opfer-in-Sachsen/!6216336/",
+   "q": "taz",
+   "d": "2026-09-26T07:39:00+00:00"
+  },
+  {
+   "t": "Die gefährlichste Frau Deutschlands: Wer hat Angst vor Elif Eralp?",
+   "s": "Seit dem Sieg der Linken in Berlin bebt die politische Landschaft. Die Furcht vor Enteignungen geht um – und die Hoffnung, dass die Partei scheitert.",
+   "u": "https://taz.de/Die-gefaehrlichste-Frau-Deutschlands/!6215638/",
+   "q": "taz",
+   "d": "2026-09-26T07:04:00+00:00"
+  },
+  {
+   "t": "Deutsche Olympia-Bewerbung: Wer macht das Rennen?",
+   "s": "Der Deutsche Olympische Sportbund entscheidet heute über die deutsche Olympia-Bewerbung. Was Sie zur Abstimmung und der Konkurrenz wissen müssen - und wie es danach weitergeht.",
+   "u": "https://www.tagesschau.de/inland/olympia-kandidatur-deutschland-faq-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T06:53:27+00:00"
+  },
+  {
+   "t": "DGB-Chefin Fahimi fordert gerechtere Sozialreformen",
+   "s": "Mit Protesten in 15 deutschen Städten stemmen sich die Gewerkschaften gegen die Reformpolitik der Bundesregierung. DGB-Chefin Yasmin Fahimi bezeichnete es im Vorfeld als Unverschämtheit, wie im Versicherungssystem jetzt herumgewütet werde.Brandes, Rainer",
+   "u": "https://www.deutschlandfunk.de/bundesweite-sozialstaatsproteste-interview-mit-dgb-chefin-yasmin-fahimi-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-26T05:18:00+00:00"
+  },
   {
    "t": "SPD stoppt vorerst Pflegereform: \"Das lassen wir nicht zu\"",
    "s": "Kommende Woche wollte das Bundeskabinett die geplante Reform in der Pflege auf den Weg bringen - doch das wird wohl nicht klappen. Die SPD will nachverhandeln und droht nach Informationen des ARD-Hauptstadtstudios mit Blockade. Von A. Budweg.",
@@ -52,7 +87,7 @@
    "d": "2026-09-25T15:43:00+00:00"
   },
   {
-   "t": "Spritpreisdeckel - Problem der Knappheit kann sich verschärfen",
+   "t": "Spritpreisdeckel - Warnungen vor Risiken und Nebenwirkungen",
    "s": "Die Bundesregierung will Autofahrer angesichts steigender Spritpreise gleich doppelt entlasten. Neben dem gerade beschlossenen Tankrabatt ist auch ein sogenannter Spritpreisdeckel in der Diskussion. Es wäre ein ungewöhnlicher Eingriff in den Markt.",
    "u": "https://www.deutschlandfunk.de/tankrabatt-spritpreisbremse-entlastung-benzinpreis-auto-100.html",
    "q": "Deutschlandfunk",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Trend-zum-Linksbuendnis-in-Berlin/!6215993/",
    "q": "taz",
    "d": "2026-09-25T12:05:00+00:00"
-  },
-  {
-   "t": "Linke Mehrheiten im Bund: Ein Fiebertraum in Rot-Grün-Rot",
-   "s": "In Berlin trifft eine rot-grün-rote Regierung auf heftigen Widerstand. Trotzdem fragen manche leise: Wären linke Mehrheiten auch im Bund möglich?",
-   "u": "https://taz.de/Linke-Mehrheiten-im-Bund/!6216297/",
-   "q": "taz",
-   "d": "2026-09-25T12:04:00+00:00"
-  },
-  {
-   "t": "Lindern Vergesellschaftungen die Wohnungsnot?",
-   "s": "Die Linke hat die Berlin-Wahl mit dem Versprechen gewonnen, große Wohnungskonzerne zu vergesellschaften. Die Bundesregierung will das verhindern. Wem nützt das Milliardenprojekt, wem ein langer Rechtsstreit - und was hilft Mietern und Wohnungssuchenden?Wurzel, Steffen; Geuther, Gudula; Engelbrecht, Sebastian",
-   "u": "https://www.deutschlandfunk.de/lindern-enteignungen-die-wohnngsnot-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-25T12:00:00+00:00"
-  },
-  {
-   "t": "Kindergeld soll von 2027 an ohne Antrag ausgezahlt werden",
-   "s": "Weniger Papierkram nach der Geburt: Das Kindergeld soll von 2027 an in vielen Fällen automatisch auf dem Konto landen. Rund 300.000 Anträge pro Jahr könnten dadurch entfallen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-antragsloses-kindergeld-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T10:55:27+00:00"
-  },
-  {
-   "t": "Türkisches Militär im Irak: Truppenrückzug in der Variante light",
-   "s": "Die Türkei will ihre Truppen aus einer Basis im Irak abziehen. Doch die Stellungen an der Grenze, die dem Kampf gegen die PKK dienten, bleiben weiterhin.",
-   "u": "https://taz.de/Tuerkisches-Militaer-im-Irak/!6215953/",
-   "q": "taz",
-   "d": "2026-09-25T10:27:00+00:00"
-  },
-  {
-   "t": "Frühstartrente - Was aus zehn Euro pro Monat werden kann",
-   "s": "Mit der Frühstartrente sollen Kinder ab 6 Jahren monatlich zehn Euro vom Staat erhalten. Ökonomin Milena Schwarz hält dies für sinnvoll: Privates Vermögen wird aufgebaut und Kapitalmarktwissen vertieft. Fehler der Riester-Rente gelte es zu vermeiden.Engels, Silvia",
-   "u": "https://www.deutschlandfunk.de/fruehstartrente-sinnvoll-interview-mit-milena-schwarz-sachverstaendigenrat-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-25T10:16:00+00:00"
   }
  ]
 }

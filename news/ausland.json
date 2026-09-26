@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-09-25T23:57:34+00:00",
+ "updated": "2026-09-26T08:37:16+00:00",
  "items": [
+  {
+   "t": "Überschwemmungen: Behörden rufen Katastrophenfall in Bangkok aus",
+   "s": "Überflutete Straßen und vollgelaufene Kanäle - in der thailändischen Hauptstadt Bangkok herrscht nach tagelangen Regenfällen Notstand. Der Wetterdienst warnt vor neuen Regenfällen.",
+   "u": "https://www.tagesschau.de/ausland/asien/thailand-unwetter-regen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T07:59:24+00:00"
+  },
+  {
+   "t": "US-Präsident Trump schließt CNN von Reise aus",
+   "s": "Der Streit von US-Präsident Trump mit US-Medien schien nach einem Richterspruch vorerst beigelegt. Die betroffenen Journalisten bekamen wieder Zugang zum Weißen Haus. Doch nun darf CNN den Präsidenten nicht auf einer Reise begleiten.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-cnn-112.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T07:43:28+00:00"
+  },
+  {
+   "t": "OpenAI informiert über weiteres Fehlverhalten von KI",
+   "s": "Erneut haben sich KI-Modelle des US-Unternehmens OpenAI selbstständig gemacht. Diesmal hatten sie Webseiten der US-Regierung im Visier. Zudem verbreitete die KI Fotos von Nutzern.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-ki-openai-regierungswebseiten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T06:47:22+00:00"
+  },
+  {
+   "t": "Iran macht Vorschlag für Öffnung der Straße von Hormus",
+   "s": "Seit Monaten ist die Straße von Hormus weitgehend blockiert - mit Folgen für die Wirtschaft. Iran hat den USA nun einen Plan übermittelt. Präsident Trump scheint aber nicht interessiert. Saudi-Arabien meldet neue Angriffe in der Region.",
+   "u": "https://www.tagesschau.de/ausland/asien/iran-hormus-usa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T06:26:54+00:00"
+  },
   {
    "t": "Diego Garcia - Streit um einen Militärstützpunkt",
    "s": "Eigentlich wollte London die Insel Diego Garcia an Mauritius zurückgeben. Doch US-Präsident Trump stoppte den \"schrecklichen\" Deal. Für ihn geht es um einen der wichtigsten US-Militärstützpunkte. Von Stephan Ueberbach.",
@@ -136,39 +164,11 @@
    "d": "2026-09-24T05:57:58+00:00"
   },
   {
-   "t": "Staatsbesuch in den USA: Xi bringt schwierige Themen mit",
-   "s": "Probleme gibt es viele: Chinas Präsident Xi ist in den USA gelandet. Wie geht es bei KI, Zöllen, Iran und Taiwan weiter? US-Präsident Trump braucht den Erfolg eher als sein umschmeichelter Gast. Von Ralf Borchard.",
-   "u": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T04:42:27+00:00"
-  },
-  {
    "t": "Hoffen auf Israel: die Drusen auf den Golanhöhen",
    "s": "Auf den von Israel annektierten Golanhöhen fühlten sich die meisten Drusen jahrzehntelang Syrien zugehörig, man lehnte die israelische Staatsbürgerschaft ab. Doch Krieg und Gewalt erschüttern alte Gewissheiten. Von Natalie Amiri.",
    "u": "https://www.tagesschau.de/ausland/asien/drusen-golanhoehen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-23T23:58:29+00:00"
-  },
-  {
-   "t": "Techbosse warnen UN-Sicherheitsrat vor KI",
-   "s": "Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, an stärkerer Regulierung mitzuwirken. Von Giselle Ucar.",
-   "u": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T23:58:22+00:00"
-  },
-  {
-   "t": "Iran wehrt sich vor UN gegen Trump-Drohungen",
-   "s": "In einer Rede vor den Vereinten Nationen hat Irans Präsident Peseschkian eine internationale Ordnung der \"Gewalttätigen\" beklagt - und sich gegen US-Präsident Trumps Drohungen gewehrt. Doch es wurde auch verhandelt.",
-   "u": "https://www.tagesschau.de/ausland/peseschkian-rede-un-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T18:34:47+00:00"
-  },
-  {
-   "t": "EU streicht Oligarchen von Sanktionsliste: Ein Kompromiss, der für Diskussionen sorgt",
-   "s": "Die EU hat zwei russische Oligarchen von der Sanktionsliste gestrichen. Im Gegenzug wurde inzwischen ein Franzose in Aserbaidschan begnadigt. Hat sich die EU erpressbar gemacht? In Brüssel versucht man, sich zu erklären. Von T. Spickhofen.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-142.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T16:50:49+00:00"
   }
  ]
 }
