@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-26T13:45:13+00:00",
+ "updated": "2026-09-26T18:37:18+00:00",
  "items": [
+  {
+   "t": "Australien und der Krieg im Nahen Osten: Was eine US-Militäranlage im Outback mit Gaza zu tun hat",
+   "s": "Eine Militäranlage im australischen Outback gerät wegen ihrer möglichen Rolle im Gaza-Krieg ins politische Kreuzfeuer. Seit Monaten gibt es Proteste.",
+   "u": "https://taz.de/Australien-und-der-Krieg-im-Nahen-Osten/!6216286/",
+   "q": "taz",
+   "d": "2026-09-26T13:39:00+00:00"
+  },
   {
    "t": "Warnsignal im Südpazifik: HIV-Notstand in Fidschi",
    "s": "Auf den Südpazifikinseln galt HIV lange als begrenztes Problem. Doch nun haben die Fidschi-Inseln einen der weltweit schnellsten Infektionsanstiege.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Chinesische-Reisediplomatie/!6209084/",
    "q": "taz",
    "d": "2026-09-01T14:08:00+00:00"
-  },
-  {
-   "t": "Flutkatastrophe im Himalaja: Tausende noch immer vermisst",
-   "s": "Durch die Flutkatastrophe sind in Nepal und China mehr als 780 Menschen ums Leben gekommen. Der Wiederaufbau der Region wird Milliarden kosten.",
-   "u": "https://taz.de/Flutkatastrophe-im-Himalaja/!6208479/",
-   "q": "taz",
-   "d": "2026-08-30T14:08:00+00:00"
   }
  ]
 }

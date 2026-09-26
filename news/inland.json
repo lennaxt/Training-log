@@ -1,7 +1,77 @@
 {
  "name": "Inland",
- "updated": "2026-09-26T13:45:09+00:00",
+ "updated": "2026-09-26T18:37:12+00:00",
  "items": [
+  {
+   "t": "NRW-Ministerpräsident Wüst: Merz muss durchstarten",
+   "s": "Hendrik Wüst fordert von der Bundesregierung mehr Tempo: Einiges ziehe sich zu lang, sagt der CDU-Ministerpräsident von NRW. Der Renten-Gesetzentwurf etwa müsse rasch kommen – mit einer Regelung für Menschen, die nicht mehr arbeiten können.Panning, Jonas",
+   "u": "https://www.deutschlandfunk.de/interview-wuest-hendrik-ministerpraesident-von-nordrhein-westfalen-cdu-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-26T18:28:00+00:00"
+  },
+  {
+   "t": "Katstrophe in Nepal: Nach der Sintflut",
+   "s": "Nach dem Gletscherabbruch in Nepal beginnt der Alltag. Schulleiter Madhav Lamichhane unterrichtet zwischen Hilfsgütern und Notübernachtung.",
+   "u": "https://taz.de/Katstrophe-in-Nepal/!6211191/",
+   "q": "taz",
+   "d": "2026-09-26T18:08:00+00:00"
+  },
+  {
+   "t": "Streit nach der Berlin-Wahl: Alle schauen wieder auf diese Stadt",
+   "s": "Berlin hat gewählt und der Wahlsieg der Linken in der Hauptstadt sorgt auch im fernen Bayern für Aufregung. Und nicht nur dort.",
+   "u": "https://taz.de/Streit-nach-der-Berlin-Wahl/!6211115/",
+   "q": "taz",
+   "d": "2026-09-26T18:08:00+00:00"
+  },
+  {
+   "t": "Missbrauchsprozesse in Deutschland: Vernetzte Vergewaltiger",
+   "s": "Überall im Land werden Prozesse gegen Männer geführt, die Frauen betäuben, vergewaltigen und filmen. Die Ermittlungen führen zu immer mehr Tätern.",
+   "u": "https://taz.de/Missbrauchsprozesse-in-Deutschland/!6214048/",
+   "q": "taz",
+   "d": "2026-09-26T18:03:00+00:00"
+  },
+  {
+   "t": "Wirtschaft unter Putin: Und schleichend stirbt die russische Wirtschaft",
+   "s": "Mit Steuereinnahmen wollte der Kreml seine Kassen füllen. Nun gehen immer mehr Firmen pleite und die Kosten des Kriegs gegen die Ukraine bleiben hoch.",
+   "u": "https://taz.de/Wirtschaft-unter-Putin/!6211082/",
+   "q": "taz",
+   "d": "2026-09-26T16:49:00+00:00"
+  },
+  {
+   "t": "Juristin über Vergewaltigungsprozesse: „Das Dunkelfeld ist riesig“",
+   "s": "Netzwerke von Vergewaltigern hat es schon immer gegeben, sagt die Rechtswissenschaftlerin Susanne Beck. Neu ist allerdings die digitale Verbreitung.",
+   "u": "https://taz.de/Juristin-ueber-Vergewaltigungsprozesse/!6211188/",
+   "q": "taz",
+   "d": "2026-09-26T16:48:00+00:00"
+  },
+  {
+   "t": "Dobrindt will schnelle Eingreiftruppe der EU-Grenzschutzagentur Frontex",
+   "s": "Die europäischen Grenzschutzagentur soll laut Innenminister Dobrindt künftig schnell auf Massenankünfte von Migranten wie etwa im Sommer in Ceuta reagieren. Auch sonst sollen die Befugnisse von Frontex gestärkt werden.",
+   "u": "https://www.tagesschau.de/inland/dobrindt-munich-migration-meeting-frontex-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T15:27:14+00:00"
+  },
+  {
+   "t": "Erstversorgung im Ukrainekrieg: Schneller als der Notarzt",
+   "s": "Immer mehr Ukrainern ist klar, dass sie Grundkenntnisse in Erster Hilfe brauchen. Die Nachfrage nach Schulungen steigt rapide an.",
+   "u": "https://taz.de/Erstversorgung-im-Ukrainekrieg/!6215955/",
+   "q": "taz",
+   "d": "2026-09-26T15:27:00+00:00"
+  },
+  {
+   "t": "Massenprotest der Gewerkschaften: Über 175.000 gegen Sozialabbau",
+   "s": "Zum Aktionstag für den Erhalt des Sozialstaats und gegen die Reformpläne von Kanzler Merz gehen bundesweit Menschen auf die Straße. Allein in Essen mehr als 18.000.",
+   "u": "https://taz.de/DGB-Aktionstag-gegen-Sozialkuerzungen/!6216422/",
+   "q": "taz",
+   "d": "2026-09-26T14:03:00+00:00"
+  },
+  {
+   "t": "Zehntausende protestieren in mehreren Städten gegen Sozialreformen",
+   "s": "Zehntausende Menschen haben gegen die Sozialpolitik der Bundesregierung protestiert. Dazu aufgerufen hatte der Deutsche Gewerkschaftsbund. Die Regierungspläne gingen zu Lasten der Arbeitnehmer, so DGB-Chefin Fahimi.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/sozialreformen-proteste-dgb-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T13:54:08+00:00"
+  },
   {
    "t": "Australien und der Krieg im Nahen Osten: Was eine US-Militäranlage im Outback mit Gaza zu tun hat",
    "s": "Eine Militäranlage im australischen Outback gerät wegen ihrer möglichen Rolle im Gaza-Krieg ins politische Kreuzfeuer. Seit Monaten gibt es Proteste.",
@@ -17,18 +87,18 @@
    "d": "2026-09-26T12:30:06+00:00"
   },
   {
-   "t": "DGB protestiert in mehreren Städten gegen Sozialreformen",
-   "s": "Der Deutsche Gewerkschaftsbund (DGB) protestiert gegen die Sozialpolitik der Bundesregierung. In mehreren Städten gibt es Kundgebungen. Die geplanten Maßnahmen gingen zu Lasten der Arbeitnehmer, sagte DGB-Chefin Fahimi.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/sozialreformen-proteste-dgb-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-26T12:05:22+00:00"
-  },
-  {
    "t": "Öffnung der Straße von Hormus: Trump lehnt Irans Vorschlag ab",
    "s": "Der Iran stellte eine Öffnung der Straße von Hormus und Gespräche mit den USA in Aussicht. Doch der US-Präsident lehnt den Vorschlag offenbar ab.",
    "u": "https://taz.de/Oeffnung-der-Strasse-von-Hormus/!6216419/",
    "q": "taz",
    "d": "2026-09-26T12:00:00+00:00"
+  },
+  {
+   "t": "Eskalation am Bab al-Mandab: Was tun Riads Bündnispartner Türkei und Pakistan?",
+   "s": "Die mit Iran verbündeten Huthi-Rebellen können heute die Meerenge kontrollieren und gefährden so die Versorgung mit Öl und Gas. Sie greifen auch Saudi-Arabien an. Werden Pakistan und die Türkei Beistand leisten? Dazu verpflichtet der Mekka-Pakt.Masurczak, Pia; Amler, Franziska",
+   "u": "https://www.deutschlandfunk.de/eskalation-am-bab-al-mandab-was-tun-riads-buendnispartner-tuerkei-und-pakistan-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-26T11:32:00+00:00"
   },
   {
    "t": "Bildungsministerin Prien: \"Verbot von Stolpersteinen ist Skandal\"",
@@ -99,76 +169,6 @@
    "u": "https://taz.de/Die-gefaehrlichste-Frau-Deutschlands/!6215638/",
    "q": "taz",
    "d": "2026-09-26T07:04:00+00:00"
-  },
-  {
-   "t": "Deutsche Olympia-Bewerbung: Wer macht das Rennen?",
-   "s": "Der Deutsche Olympische Sportbund entscheidet heute über die deutsche Olympia-Bewerbung. Was Sie zur Abstimmung und der Konkurrenz wissen müssen - und wie es danach weitergeht.",
-   "u": "https://www.tagesschau.de/inland/olympia-kandidatur-deutschland-faq-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-26T06:53:27+00:00"
-  },
-  {
-   "t": "Hofreiter (Grüne): Russland-Sanktionen stärker durchsetzen",
-   "s": "Die Luftabwehr der Ukraine steht wegen russischer Raketenangriffe derzeit massiv unter Druck. Daher müsse noch stärker als bisher durchgesetzt werden, dass keine westlichen Bauteile nach Russland gelangen, fordert Grünen-Politiker Anton Hofreiter.Brandes, Rainer",
-   "u": "https://www.deutschlandfunk.de/ukraine-in-bedraengnis-interview-mit-anton-hofreiter-gruene-mdb-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-26T06:15:00+00:00"
-  },
-  {
-   "t": "DGB-Chefin Fahimi fordert gerechtere Sozialreformen",
-   "s": "Mit Protesten in 15 deutschen Städten stemmen sich die Gewerkschaften gegen die Reformpolitik der Bundesregierung. DGB-Chefin Yasmin Fahimi bezeichnete es im Vorfeld als Unverschämtheit, wie im Versicherungssystem jetzt herumgewütet werde.Brandes, Rainer",
-   "u": "https://www.deutschlandfunk.de/bundesweite-sozialstaatsproteste-interview-mit-dgb-chefin-yasmin-fahimi-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-26T05:18:00+00:00"
-  },
-  {
-   "t": "SPD stoppt vorerst Pflegereform: \"Das lassen wir nicht zu\"",
-   "s": "Kommende Woche wollte das Bundeskabinett die geplante Reform in der Pflege auf den Weg bringen - doch das wird wohl nicht klappen. Die SPD will nachverhandeln und droht nach Informationen des ARD-Hauptstadtstudios mit Blockade. Von A. Budweg.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/pflegeversicherung-spd-kabinett-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T18:38:15+00:00"
-  },
-  {
-   "t": "Muss Spahn nun auch um seinen Platz im Haushaltsausschuss bangen?",
-   "s": "Nach seinem Rücktritt als Fraktionschef sitzt Jens Spahn nun im Haushaltsausschuss. Doch in der Union gibt es nach ARD-Informationen Unmut - über einen Urlaub Spahns während einer Ausschusssitzung. Von M. Rödle und P. Kuntschner.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/spahn-haushaltsausschuss-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T18:20:24+00:00"
-  },
-  {
-   "t": "Antisemitismus in der Linkspartei: Wollen wir nicht besser sein?",
-   "s": "Ich will, dass Berlins nächste Regierende Elif Eralp heißt. Gleichzeitig will ich, dass die Ängste von uns jüdischen Menschen ernst genommen werden.",
-   "u": "https://taz.de/Antisemitismus-in-der-Linkspartei/!6211073/",
-   "q": "taz",
-   "d": "2026-09-25T17:12:00+00:00"
-  },
-  {
-   "t": "Rot-Rot-Grün in Mecklenburg-Vorpommern: Muss ja",
-   "s": "Im neu gewählten Landtag von Mecklenburg-Vorpommern hat Rot-Rot-Grün eine Mehrheit. Trotz Animositäten sind SPD, Linke und Grüne bereit zu koalieren.",
-   "u": "https://taz.de/Rot-Rot-Gruen-in-Mecklenburg-Vorpommern/!6211151/",
-   "q": "taz",
-   "d": "2026-09-25T17:08:00+00:00"
-  },
-  {
-   "t": "Drohnenangriff auf Bürohaus in Kyjiw: „Wir alle sind lebende Ziele für Putin“",
-   "s": "Die russischen Streitkräfte greifen ein Bürogebäude in der ukrainischen Hauptstadt Kyjiw an. Mindestens 7 Menschen sterben bei der Drohnenattacke.",
-   "u": "https://taz.de/Drohnenangriff-auf-Buerohaus-in-Kyjiw/!6216389/",
-   "q": "taz",
-   "d": "2026-09-25T17:06:00+00:00"
-  },
-  {
-   "t": "Maga-Druck auf Internationale Justiz: „Hände weg vom ICC“",
-   "s": "US-Präsident Trump fordert alle Staaten auf, aus dem Internationalen Strafgerichtshof auszusteigen und kündigt Sanktionen an. Doch es gibt Widerstand.",
-   "u": "https://taz.de/Maga-Druck-auf-Internationale-Justiz/!6216300/",
-   "q": "taz",
-   "d": "2026-09-25T16:53:00+00:00"
-  },
-  {
-   "t": "Soli mit albanischem Antifaschisten: Internationale Unterstützung für Pariser Exil-Antifas",
-   "s": "Europäische Intellektuelle stellen sich gegen die Auslieferung von „Gino“ aus Frankreich nach Deutschland. Derweil kommt Lina E. vorerst frei.",
-   "u": "https://taz.de/Soli-mit-albanischem-Antifaschisten/!6216191/",
-   "q": "taz",
-   "d": "2026-09-25T15:43:00+00:00"
   }
  ]
 }

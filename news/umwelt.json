@@ -1,7 +1,35 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-26T13:45:11+00:00",
+ "updated": "2026-09-26T18:37:15+00:00",
  "items": [
+  {
+   "t": "Streit nach der Berlin-Wahl: Alle schauen wieder auf diese Stadt",
+   "s": "Berlin hat gewählt und der Wahlsieg der Linken in der Hauptstadt sorgt auch im fernen Bayern für Aufregung. Und nicht nur dort.",
+   "u": "https://taz.de/Streit-nach-der-Berlin-Wahl/!6211115/",
+   "q": "taz",
+   "d": "2026-09-26T18:08:00+00:00"
+  },
+  {
+   "t": "Missbrauchsprozesse in Deutschland: Vernetzte Vergewaltiger",
+   "s": "Überall im Land werden Prozesse gegen Männer geführt, die Frauen betäuben, vergewaltigen und filmen. Die Ermittlungen führen zu immer mehr Tätern.",
+   "u": "https://taz.de/Missbrauchsprozesse-in-Deutschland/!6214048/",
+   "q": "taz",
+   "d": "2026-09-26T18:03:00+00:00"
+  },
+  {
+   "t": "Juristin über Vergewaltigungsprozesse: „Das Dunkelfeld ist riesig“",
+   "s": "Netzwerke von Vergewaltigern hat es schon immer gegeben, sagt die Rechtswissenschaftlerin Susanne Beck. Neu ist allerdings die digitale Verbreitung.",
+   "u": "https://taz.de/Juristin-ueber-Vergewaltigungsprozesse/!6211188/",
+   "q": "taz",
+   "d": "2026-09-26T16:48:00+00:00"
+  },
+  {
+   "t": "Massenprotest der Gewerkschaften: Über 175.000 gegen Sozialabbau",
+   "s": "Zum Aktionstag für den Erhalt des Sozialstaats und gegen die Reformpläne von Kanzler Merz gehen bundesweit Menschen auf die Straße. Allein in Essen mehr als 18.000.",
+   "u": "https://taz.de/DGB-Aktionstag-gegen-Sozialkuerzungen/!6216422/",
+   "q": "taz",
+   "d": "2026-09-26T14:03:00+00:00"
+  },
   {
    "t": "Karin Prien zu Stolperstein-Verbot: „Das ist ein Skandal“",
    "s": "CDU- und AfD-Politiker haben in der sächsischen Stadt Heidenau einen Antrag gegen Stolpersteine beschlossen. Jetzt äußert sich die Bundesbildungsministerin.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Wahlen-in-Mecklenburg-Vorpommern/!6215933/",
    "q": "taz",
    "d": "2026-09-24T16:20:00+00:00"
-  },
-  {
-   "t": "Umstrittene Polizei-Software: Der „Einstieg in den Ausstieg“ von Palantir",
-   "s": "Hessens Innenminister Poseck (CDU) zeigt sich bereit zum Ausstieg aus der umstrittenen Software des US-Milliardärs Peter Thiel.",
-   "u": "https://taz.de/Der-Einstieg-in-den-Ausstieg-von-Palantir/!6215930/",
-   "q": "taz",
-   "d": "2026-09-24T13:06:00+00:00"
-  },
-  {
-   "t": "Nach Landtagswahl in Sachsen-Anhalt: SPD hält an Gesprächen fest",
-   "s": "Sachsen-Anhalts SPD lädt zum Gespräch ein, um eine Regierung ohne AfD in Sachsen-Anhalt zu ermöglichen. Obwohl die CDU abgesagt hat, steht der Termin.",
-   "u": "https://taz.de/Nach-Landtagswahl-in-Sachsen-Anhalt/!6215932/",
-   "q": "taz",
-   "d": "2026-09-24T10:53:00+00:00"
-  },
-  {
-   "t": "Elif Eralp gewinnt Berlin-Wahl: „Eine von uns wird Bürgermeisterin!“",
-   "s": "Zum ersten Mal hat unser Kolumnist in Deutschland gewählt. Seine Freude über das Wahlergebnis wird von den politischen und medialen Folgen getrübt.",
-   "u": "https://taz.de/Elif-Eralp-gewinnt-Berlin-Wahl/!6215902/",
-   "q": "taz",
-   "d": "2026-09-24T10:37:00+00:00"
-  },
-  {
-   "t": "Nach Wahl in Sachsen-Anhalt: CDU könnte Weg für AfD-Regierung ebnen",
-   "s": "Die CDU Sachsen-Anhalt wird nicht an Gesprächen mit den demokratischen Parteien teilnehmen und geht in die Opposition. Eine Einladung der SPD schlug sie aus.",
-   "u": "https://taz.de/Nach-Wahl-in-Sachsen-Anhalt/!6215913/",
-   "q": "taz",
-   "d": "2026-09-24T07:57:00+00:00"
   }
  ]
 }

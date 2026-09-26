@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-26T13:45:12+00:00",
+ "updated": "2026-09-26T18:37:16+00:00",
  "items": [
+  {
+   "t": "Erstversorgung im Ukrainekrieg: Schneller als der Notarzt",
+   "s": "Immer mehr Ukrainern ist klar, dass sie Grundkenntnisse in Erster Hilfe brauchen. Die Nachfrage nach Schulungen steigt rapide an.",
+   "u": "https://taz.de/Erstversorgung-im-Ukrainekrieg/!6215955/",
+   "q": "taz",
+   "d": "2026-09-26T15:27:00+00:00"
+  },
   {
    "t": "Drohnenangriff auf Bürohaus in Kyjiw: „Wir alle sind lebende Ziele für Putin“",
    "s": "Die russischen Streitkräfte greifen ein Bürogebäude in der ukrainischen Hauptstadt Kyjiw an. Mindestens 7 Menschen sterben bei der Drohnenattacke.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Wahlen-in-Russland/!6214963/",
    "q": "taz",
    "d": "2026-09-21T17:41:00+00:00"
-  },
-  {
-   "t": "Duma-Scheinwahlen in Russland: Wladimir Putin sichert sich Durchmarsch",
-   "s": "Die Kreml-Partei Einiges Russland zieht laut Staatsangaben als stärkste Kraft in das Parlament ein. Drei weitere Parteien, die die Fünfprozenthürde nehmen, sind auf Linie.",
-   "u": "https://taz.de/Duma-Scheinwahlen-in-Russland/!6215003/",
-   "q": "taz",
-   "d": "2026-09-21T13:03:00+00:00"
   }
  ]
 }
