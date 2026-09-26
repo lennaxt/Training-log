@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-26T08:37:17+00:00",
+ "updated": "2026-09-26T13:45:10+00:00",
  "items": [
+  {
+   "t": "Warum die deutsche Offshore-Windenergiebranche in der Krise steckt",
+   "s": "Bei Windenergie-Firmen wachsen die Sorgen. Projekte fehlen, chinesische Konkurrenten unterbieten die Preise. Droht das Schicksal der Solarenergie-Branche, indem Firmen schließen und die Produktion nach China geht? Von N. Peerenboom.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/offshore-windparks-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T11:13:17+00:00"
+  },
   {
    "t": "Fachkräfte wetteifern auf der Weltmeisterschaft der Berufe",
    "s": "In Shanghai laufen die Wettkämpfe der \"WorldSkills\". Die chinesische Metropole ist erstmals Austragungsort der der Weltmeisterschaft der Berufe, bei der auch deutsche Fachkräfte am Start sind. Von Christoph Kober.",
@@ -162,13 +169,6 @@
    "u": "https://www.deutschlandfunk.de/bundeskartellamt-kartellrecht-marktmacht-wettbewerb-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-24T14:56:00+00:00"
-  },
-  {
-   "t": "Banken in Deutschland bewähren sich im Stresstest - mit Ausnahmen",
-   "s": "Der deutsche Bankenmarkt zeigt sich weitgehend krisenfest - das ist das Ergebnis des neuen Stresstests von Bundesbank und Finanzaufsicht. Dabei werden bestimmte Schocks und Verwerfungen simuliert. Von Ursula Mayer.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/banken-stresstest-bafin-bundesbank-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T14:29:16+00:00"
   }
  ]
 }

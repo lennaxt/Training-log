@@ -1,7 +1,84 @@
 {
  "name": "Inland",
- "updated": "2026-09-26T08:37:15+00:00",
+ "updated": "2026-09-26T13:45:09+00:00",
  "items": [
+  {
+   "t": "Australien und der Krieg im Nahen Osten: Was eine US-Militäranlage im Outback mit Gaza zu tun hat",
+   "s": "Eine Militäranlage im australischen Outback gerät wegen ihrer möglichen Rolle im Gaza-Krieg ins politische Kreuzfeuer. Seit Monaten gibt es Proteste.",
+   "u": "https://taz.de/Australien-und-der-Krieg-im-Nahen-Osten/!6216286/",
+   "q": "taz",
+   "d": "2026-09-26T13:39:00+00:00"
+  },
+  {
+   "t": "Exklusiv: SPD will Eigenanteil für Pflegeheimkosten deckeln",
+   "s": "Die SPD will die geplante Reform in der Pflege nachverhandeln. Ein Papier, das dem ARD-Hauptstadtstudio exklusiv vorliegt, beschreibt, wie ein Pflegedeckel aussehen könnte: Der \"einrichtungseinheitliche\" Eigenanteil soll dabei sinken. Von M. Rödle.",
+   "u": "https://www.tagesschau.de/inland/pflegekosten-deckel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T12:30:06+00:00"
+  },
+  {
+   "t": "DGB protestiert in mehreren Städten gegen Sozialreformen",
+   "s": "Der Deutsche Gewerkschaftsbund (DGB) protestiert gegen die Sozialpolitik der Bundesregierung. In mehreren Städten gibt es Kundgebungen. Die geplanten Maßnahmen gingen zu Lasten der Arbeitnehmer, sagte DGB-Chefin Fahimi.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/sozialreformen-proteste-dgb-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T12:05:22+00:00"
+  },
+  {
+   "t": "Öffnung der Straße von Hormus: Trump lehnt Irans Vorschlag ab",
+   "s": "Der Iran stellte eine Öffnung der Straße von Hormus und Gespräche mit den USA in Aussicht. Doch der US-Präsident lehnt den Vorschlag offenbar ab.",
+   "u": "https://taz.de/Oeffnung-der-Strasse-von-Hormus/!6216419/",
+   "q": "taz",
+   "d": "2026-09-26T12:00:00+00:00"
+  },
+  {
+   "t": "Bildungsministerin Prien: \"Verbot von Stolpersteinen ist Skandal\"",
+   "s": "Stolpersteine erinnern an die Opfer des Nationalsozialismus. Im sächsischen Heidenau sollen laut einem Beschluss des Stadtrats keine neuen mehr verlegt werden. Bundesbildungsministerin Prien spricht von einem Skandal.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/heidenau-stolpersteine-prien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T11:27:04+00:00"
+  },
+  {
+   "t": "Karin Prien zu Stolperstein-Verbot: „Das ist ein Skandal“",
+   "s": "CDU- und AfD-Politiker haben in der sächsischen Stadt Heidenau einen Antrag gegen Stolpersteine beschlossen. Jetzt äußert sich die Bundesbildungsministerin.",
+   "u": "https://taz.de/Karin-Prien-zu-Stolperstein-Verbot/!6216417/",
+   "q": "taz",
+   "d": "2026-09-26T10:48:00+00:00"
+  },
+  {
+   "t": "Umbau des Sozialstaats: Kommen jetzt gerechte Reformen?",
+   "s": "Die SPD will einen „Gerechtigkeitscheck“ bei der Pflege- und Rentenreform, selbst der Kanzler redet von Gerechtigkeit. Fraglich, ob seine Union mitzieht.",
+   "u": "https://taz.de/Umbau-des-Sozialstaats/!6211112/",
+   "q": "taz",
+   "d": "2026-09-26T09:46:00+00:00"
+  },
+  {
+   "t": "Ebola in der DR Kongo: Der Ausbruch weitet sich aus",
+   "s": "Im Kongo fehlt es an Personal, in manchen Orten steigen die Fallzahlen weiter dramatisch an. Infizierte Kleinkinder sterben laut WHO zu 60 Prozent.",
+   "u": "https://taz.de/Ebola-in-der-DR-Kongo/!6216415/",
+   "q": "taz",
+   "d": "2026-09-26T09:25:00+00:00"
+  },
+  {
+   "t": "Kann die Linke in der Hauptstadt regieren?",
+   "s": "Die Abgeordnetenhauswahl in Berlin hat die Linke gewonnen. Aber was ist der Sieg wert? Antisemitismusvorwürfe lassen die möglichen Koalitionspartner SPD und Grüne zögern. Einige Linke sehen eine Diffamierungskampagne. Von C. Buckenmaier.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T09:16:05+00:00"
+  },
+  {
+   "t": "Gegen Kürzungen in der Pflege: Patientenschützer begrüßen SPD-Vorstoß",
+   "s": "Am Mittwoch soll das Bundeskabinett die Pflegereform beschließen. Doch jetzt droht die SPD, das Ganze zu blockieren. Patientenschützer begrüßen das.",
+   "u": "https://taz.de/Pflegereform-der-Bundesregierung/!6216411/",
+   "q": "taz",
+   "d": "2026-09-26T08:58:00+00:00"
+  },
+  {
+   "t": "Linker Influencer packt aus: „Der Faschismus gewinnt, weil er unterhaltsamer ist“",
+   "s": "Der YouTuber Dara Sasmaz erreicht Millionen. Im taz-Interview erklärt er, wie man Wahlkämpfe gewinnt und was die Linkspartei in Berlin jetzt beachten muss.",
+   "u": "https://taz.de/Linker-Influencer-packt-aus/!6216352/",
+   "q": "taz",
+   "d": "2026-09-26T08:57:00+00:00"
+  },
   {
    "t": "Wie eine Brücke ein Dorf belebt",
    "s": "Leere Häuser, wenige Kinder, klamme Kasse: Mörsdorf in Rheinland-Pfalz kämpfte mit Zukunftssorgen. Jetzt kommen Touristen in den Ort - und bringen Trubel, aber auch Geld. Wie das gelungen ist? Mit einer außergewöhnlichen Brücke. Von Michael Eiden.",
@@ -29,6 +106,13 @@
    "u": "https://www.tagesschau.de/inland/olympia-kandidatur-deutschland-faq-100.html",
    "q": "Tagesschau",
    "d": "2026-09-26T06:53:27+00:00"
+  },
+  {
+   "t": "Hofreiter (Grüne): Russland-Sanktionen stärker durchsetzen",
+   "s": "Die Luftabwehr der Ukraine steht wegen russischer Raketenangriffe derzeit massiv unter Druck. Daher müsse noch stärker als bisher durchgesetzt werden, dass keine westlichen Bauteile nach Russland gelangen, fordert Grünen-Politiker Anton Hofreiter.Brandes, Rainer",
+   "u": "https://www.deutschlandfunk.de/ukraine-in-bedraengnis-interview-mit-anton-hofreiter-gruene-mdb-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-26T06:15:00+00:00"
   },
   {
    "t": "DGB-Chefin Fahimi fordert gerechtere Sozialreformen",
@@ -85,90 +169,6 @@
    "u": "https://taz.de/Soli-mit-albanischem-Antifaschisten/!6216191/",
    "q": "taz",
    "d": "2026-09-25T15:43:00+00:00"
-  },
-  {
-   "t": "Spritpreisdeckel - Warnungen vor Risiken und Nebenwirkungen",
-   "s": "Die Bundesregierung will Autofahrer angesichts steigender Spritpreise gleich doppelt entlasten. Neben dem gerade beschlossenen Tankrabatt ist auch ein sogenannter Spritpreisdeckel in der Diskussion. Es wäre ein ungewöhnlicher Eingriff in den Markt.",
-   "u": "https://www.deutschlandfunk.de/tankrabatt-spritpreisbremse-entlastung-benzinpreis-auto-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-25T15:42:00+00:00"
-  },
-  {
-   "t": "Sachsen Anhalt – Wie AfD und BSW das Parlament umbauen",
-   "s": "AfD und BSW arbeiten in Sachsen-Anhalt schon bei ersten Machtfragen zusammen – von Ausschüssen bis zur Sitzordnung. Ist das der Auftakt für eine AfD-Minderheitsregierung? Und: Die Frühstartrente soll kommen.Schulz, Sandra",
-   "u": "https://www.deutschlandfunk.de/regierungsbildung-afd-bsw-rente-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-25T15:00:00+00:00"
-  },
-  {
-   "t": "Bundestag und Bundesrat beschließen erneuten \"Tankrabatt\"",
-   "s": "Der \"Tankrabatt\" kommt wieder. Diesmal gilt die Preissenkung sogar drei Monate lang. Das sind gute Nachrichten für Autofahrer, Spediteure und Landwirte. Es gibt aber auch Kritik an der Maßnahme.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-bundesrat-beschlossen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T14:36:26+00:00"
-  },
-  {
-   "t": "Proteste gegen Wehrpflicht - Tausende Schüler demonstrieren bundesweit",
-   "s": "Das Gesetz über den neuen Wehrdienst ist Anfang des Jahres in Kraft getreten. Damit will die Regierung mehr junge Menschen für die Bundeswehr gewinnen. Nun gab es in vielen Städten Schüler-Proteste gegen eine mögliche Wehrpflicht.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/wehrpflicht-proteste-schueler-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T13:56:05+00:00"
-  },
-  {
-   "t": "Entlastung im Bundestag: So schnell soll der \"Tankrabatt\" kommen",
-   "s": "Mit einem neuen \"Tankrabatt\" will die Bundesregierung die Spritpreise möglichst schnell senken. Nach dem Bundestag stimmte auch der Bundesrat zu. Wie hoch der Rabatt ausfällt und was noch geplant ist.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T13:48:03+00:00"
-  },
-  {
-   "t": "Bundesregierung beschließt Tankrabatt: Sie hat es wieder getan",
-   "s": "Bundestag und Bundesrat beschließen einen Tankrabatt: Eine Mehrheit der Abgeordneten stimmt für eine Entlastung von rund 17 Cent pro Liter ab Oktober.",
-   "u": "https://taz.de/Bundesregierung-beschliesst-Tankrabatt/!6216361/",
-   "q": "taz",
-   "d": "2026-09-25T13:40:00+00:00"
-  },
-  {
-   "t": "Bundestag beschließt erneuten \"Tankrabatt\"- auch Bundesrat stimmt zu",
-   "s": "Der Bundestag hat einen \"Tankrabatt\" von Oktober bis Dezember beschlossen. Damit sollen die hohen Spritpreise gedrückt werden. Auch der Bundesrat stimmte zu.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-beschluss-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T13:30:47+00:00"
-  },
-  {
-   "t": "Debatte nach Wahlsieg: Was dran ist an den Vorwürfen gegen die Linke Berlin",
-   "s": "Nach dem Wahlsieg der Linken in Berlin schlagen der Partei heftige Vorwürfe entgegen. Es geht um Antisemitismus und Kontakte mit Kriminellen.",
-   "u": "https://taz.de/Debatte-nach-Wahlsieg/!6211074/",
-   "q": "taz",
-   "d": "2026-09-25T13:17:00+00:00"
-  },
-  {
-   "t": "Bundestag berät erstmals über \"Frühstartrente\" ab sechs Jahren",
-   "s": "Mit der Altersvorsorge kann man nicht früh genug anfangen - oft entscheidet aber die Finanzlage des Elternhauses mit. Künftig will der Staat helfen - mit einem Monatsbeitrag und Hoffnung auf den Zinsenzinseffekt.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/fruehstartrente-bundestag-debatte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T13:11:27+00:00"
-  },
-  {
-   "t": "Kunstfreiheit in Thüringen: Polizei wirft Poetry Slammer Verunglimpfung des Staates vor",
-   "s": "Nach einem Poetry Slam in Gera nimmt die Polizei einen Künstler ins Visier. Ihm wird vorgeworfen, den Staat verunglimpft zu haben. Was Juristen dazu sagen.",
-   "u": "https://taz.de/Kunstfreiheit-in-Thueringen/!6214958/",
-   "q": "taz",
-   "d": "2026-09-25T12:54:00+00:00"
-  },
-  {
-   "t": "Halter von E-Scootern haften künftig bei Unfällen",
-   "s": "E-Scooter-Unfallopfer sollen einfacher an Schadensersatz kommen. Der Bundesrat hat einem Gesetz zugestimmt, das die Haftungsregeln ändert - künftig sollen die Vermieter das Haftungsrisiko tragen.",
-   "u": "https://www.tagesschau.de/inland/bundesrat-escooter-haftung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T12:06:53+00:00"
-  },
-  {
-   "t": "Trend zum Linksbündnis in Berlin: SPD-„Ahnengalerie des Abstiegs“ bekommt Gegenwind",
-   "s": "Immer mehr Stimmen in der SPD machen sich für eine rot-grün-rote Koalition in Berlin stark. Nun melden sich auch SPD-Bundestagsabgeordnete zu Wort.",
-   "u": "https://taz.de/Trend-zum-Linksbuendnis-in-Berlin/!6215993/",
-   "q": "taz",
-   "d": "2026-09-25T12:05:00+00:00"
   }
  ]
 }

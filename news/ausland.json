@@ -1,13 +1,20 @@
 {
  "name": "Ausland",
- "updated": "2026-09-26T08:37:16+00:00",
+ "updated": "2026-09-26T13:45:09+00:00",
  "items": [
   {
    "t": "Überschwemmungen: Behörden rufen Katastrophenfall in Bangkok aus",
-   "s": "Überflutete Straßen und vollgelaufene Kanäle - in der thailändischen Hauptstadt Bangkok herrscht nach tagelangen Regenfällen Notstand. Der Wetterdienst warnt vor neuen Regenfällen.",
+   "s": "Überflutete Straßen und vollgelaufene Kanäle - in der thailändischen Hauptstadt Bangkok herrscht nach tagelangen Regenfällen Notstand. Der Katastrophenschutz warnt vor Sturzfluten und Schlammlawinen.",
    "u": "https://www.tagesschau.de/ausland/asien/thailand-unwetter-regen-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-26T07:59:24+00:00"
+   "d": "2026-09-26T13:22:36+00:00"
+  },
+  {
+   "t": "Außenminister Wadephul spricht vor UN-Generalversammlung",
+   "s": "Bundesaußenminister Wadephul vertritt heute Kanzler Merz bei den Vereinten Nationen. Die Unterstützung der Ukraine wird in seiner Rede vor der UN-Generalversammlung voraussichtlich im Mittelpunkt stehen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/un-versammlung-wadephul-lawrow-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T09:11:14+00:00"
   },
   {
    "t": "US-Präsident Trump schließt CNN von Reise aus",
@@ -148,13 +155,6 @@
    "u": "https://www.tagesschau.de/ausland/ozeanien/openai-australien-regierungsportal-100.html",
    "q": "Tagesschau",
    "d": "2026-09-24T07:12:43+00:00"
-  },
-  {
-   "t": "Gericht hebt Ausschluss von Medien aus Weißem Haus vorerst auf",
-   "s": "Ein US-Gericht hat den von Präsident Trump verhängten Ausschluss von Journalisten aus dem Weißen Haus vorerst aufgehoben. Der sei wohl verfassungswidrig, erklärte der von Trump selbst berufene Richter.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-gericht-medien-weisses-haus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T06:14:19+00:00"
   },
   {
    "t": "Wadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor",

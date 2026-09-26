@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-09-26T08:37:17+00:00",
+ "updated": "2026-09-26T13:45:10+00:00",
  "items": [
+  {
+   "t": "Wie lange gibt es diesen Gletscher noch? Weltkarte zeigt Schmelze",
+   "s": "Durch den Klimawandel schmelzen Gletscher - das ist bekannt. Doch wie lange wird es jeden einzelnen noch geben? Eine interaktive Karte zeigt, wie sie sich in Zukunft entwickeln - je nach Klimaszenario. Von v. Sperber und v. Liebe.",
+   "u": "https://www.tagesschau.de/wissen/klima/karte-gletscher-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T09:16:37+00:00"
+  },
   {
    "t": "Weltraumspiegel: Satelliten sollen nachts die Erde erhellen",
    "s": "Ein US-Unternehmen will Tausende Satelliten ins All schicken, um mit Spiegeln die Nachtseite der Erde zu beleuchten. Forschende warnen vor Gefahren für Astronomie, Natur - und den Menschen. Von Jan Kerckhoff.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/nordsee-ostsee-temperaturen-104.html",
    "q": "Tagesschau",
    "d": "2026-09-07T14:49:25+00:00"
-  },
-  {
-   "t": "Meteorologen warnen vor Gesundheitsschäden durch Großfeuer",
-   "s": "Wald- und Buschfeuer verursachen nicht nur direkte, sondern auch indirekte Schäden. Die Weltorganisation für Meteorologie warnt vor negativen Folgen für die menschliche Gesundheit, auch weit entfernt von Brandorten.",
-   "u": "https://www.tagesschau.de/wissen/klima/luftqualitaet-braende-feinstaub-wmo-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-07T09:56:13+00:00"
   }
  ]
 }
