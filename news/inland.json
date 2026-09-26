@@ -1,7 +1,14 @@
 {
  "name": "Inland",
- "updated": "2026-09-26T18:37:12+00:00",
+ "updated": "2026-09-26T23:38:04+00:00",
  "items": [
+  {
+   "t": "Berliner SPD will mit Linken und Grünen sondieren",
+   "s": "Der Vorstand der Berliner SPD hat sich nach Informationen des rbb zu Sondierungsgesprächen mit Linkspartei und Grünen bereit erklärt. Damit haben nun alle drei Parteien Sondierungen zugestimmt.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/berlin-spd-linke-gruene-sondierungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T20:07:54+00:00"
+  },
   {
    "t": "NRW-Ministerpräsident Wüst: Merz muss durchstarten",
    "s": "Hendrik Wüst fordert von der Bundesregierung mehr Tempo: Einiges ziehe sich zu lang, sagt der CDU-Ministerpräsident von NRW. Der Renten-Gesetzentwurf etwa müsse rasch kommen – mit einer Regelung für Menschen, die nicht mehr arbeiten können.Panning, Jonas",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Gedenken-an-NS-Opfer-in-Sachsen/!6216336/",
    "q": "taz",
    "d": "2026-09-26T07:39:00+00:00"
-  },
-  {
-   "t": "Die gefährlichste Frau Deutschlands: Wer hat Angst vor Elif Eralp?",
-   "s": "Seit dem Sieg der Linken in Berlin bebt die politische Landschaft. Die Furcht vor Enteignungen geht um – und die Hoffnung, dass die Partei scheitert.",
-   "u": "https://taz.de/Die-gefaehrlichste-Frau-Deutschlands/!6215638/",
-   "q": "taz",
-   "d": "2026-09-26T07:04:00+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-09-26T18:37:12+00:00",
+ "updated": "2026-09-26T23:38:06+00:00",
  "items": [
+  {
+   "t": "Wadephul zum Treffen mit Lawrow: \"Mit Gegnern muss man verhandeln\"",
+   "s": "Es war das erste Treffen der Chefdiplomaten Deutschlands und Russlands seit Beginn des russischen Angriffs auf die Ukraine. In den tagesthemen erklärt Bundesaußenminister Wadephul, wie es zum Treffen mit dem Amtskollegen Lawrow kam.",
+   "u": "https://www.tagesschau.de/ausland/wadephul-rede-un-generalversammlung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-26T22:29:36+00:00"
+  },
   {
    "t": "Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab",
    "s": "Die Straße von Hormus ist seit Beginn des Iran-Kriegs für die Schifffahrt praktisch blockiert. Iran unterbreitete den USA am Rande der UN-Generalversammlung einen Vorschlag zur Öffnung. Den lehnte US-Präsident Trump nun ab.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/afrika/marokko-parlamentswahl-100.html",
    "q": "Tagesschau",
    "d": "2026-09-24T08:18:11+00:00"
-  },
-  {
-   "t": "KI-Agent hackt australisches Regierungsportal",
-   "s": "Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premierminister Albanese zeigt sich besorgt.",
-   "u": "https://www.tagesschau.de/ausland/ozeanien/openai-australien-regierungsportal-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T07:12:43+00:00"
   }
  ]
 }

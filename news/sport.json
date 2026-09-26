@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-26T18:37:18+00:00",
+ "updated": "2026-09-26T23:38:12+00:00",
  "items": [
+  {
+   "t": "Katstrophe in Nepal: Nach der Sintflut",
+   "s": "Nach dem Gletscherabbruch in Nepal beginnt der Alltag. Schulleiter Madhav Lamichhane unterrichtet zwischen Hilfsgütern und Notübernachtung.",
+   "u": "https://taz.de/Katstrophe-in-Nepal/!6211191/",
+   "q": "taz",
+   "d": "2026-09-26T18:08:00+00:00"
+  },
   {
    "t": "Australien und der Krieg im Nahen Osten: Was eine US-Militäranlage im Outback mit Gaza zu tun hat",
    "s": "Eine Militäranlage im australischen Outback gerät wegen ihrer möglichen Rolle im Gaza-Krieg ins politische Kreuzfeuer. Seit Monaten gibt es Proteste.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Flutkatastrophe-in-Nepal/!6209109/",
    "q": "taz",
    "d": "2026-09-01T15:13:00+00:00"
-  },
-  {
-   "t": "Chinesische Reisediplomatie: Xi Jinpings diplomatische Charmeoffensive",
-   "s": "Während US-Präsident Trump seine Verbündeten verschreckt, weitet Chinas Machthaber Xi seinen globalen Einfluss aus – von Bischkek über Kairo und Delhi nach Washington.",
-   "u": "https://taz.de/Chinesische-Reisediplomatie/!6209084/",
-   "q": "taz",
-   "d": "2026-09-01T14:08:00+00:00"
   }
  ]
 }
