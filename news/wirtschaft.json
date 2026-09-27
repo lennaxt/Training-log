@@ -1,7 +1,28 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-27T09:16:44+00:00",
+ "updated": "2026-09-27T18:59:02+00:00",
  "items": [
+  {
+   "t": "Gewerbesteueroasen - Standortwettbewerb auf Kosten von Kommunen",
+   "s": "Steueroasen gibt es nicht nur auf den Cayman Islands, sondern auch in Deutschland. Sie sind legal, führen aber auch zu Missbrauch durch Unternehmer. Leidtragende sind die Kommunen.",
+   "u": "https://www.deutschlandfunk.de/steueroasen-deutschland-gewerbesteuer-kommunen-unternehmen-hebesatz-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-27T15:20:00+00:00"
+  },
+  {
+   "t": "Vergesellschaftung - Soziale Wohnungspolitik mit Risiken",
+   "s": "Die Linke will in Berlin Wohnungsbestände von großen Konzernen vergesellschaften. Nach dem Grundgesetz ist das prinzipiell möglich. Welche Folgen hätte das für die Mieten? Und ist es auch ein Mittel gegen die Wohnungsnot?",
+   "u": "https://www.deutschlandfunk.de/vergesellschaftung-enteignung-wohnungen-berlin-linke-elif-eralp-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-27T14:18:00+00:00"
+  },
+  {
+   "t": "Milchprodukte könnten spürbar teurer werden",
+   "s": "Milch, Joghurt und Quark könnten bald deutlich teurer werden. Die Molkereien wollen höhere Preise durchsetzen. Eine Rolle spielt dabei auch das Klima im tropischen Pazifik - und der Proteinhype.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher-milch-preise-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T12:44:33+00:00"
+  },
   {
    "t": "KI-Entwickler OpenAI pausiert Training nach Zwischenfall",
    "s": "Im Alltag ist KI für viele Menschen ein nützliches Werkzeug. Doch jenseits von Chatbots machen sich KI-Agenten immer wieder selbstständig und durchbrechen Grenzen. Bei OpenAI ist dies erneut passiert. Das Unternehmen pausiert deshalb die Entwicklung.",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1655214.html",
    "q": "Tagesschau",
    "d": "2026-09-25T08:14:50+00:00"
-  },
-  {
-   "t": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
-   "s": "Um die Ölinfrastruktur Saudi-Arabiens zu schützen, kündigt Frankreich an, Militärgerät und Truppen ans Rote Meer zu schicken. Direkt in den Konflikt mit der Huthi-Miliz wolle er aber nicht einsteigen, sagte Präsident Macron.",
-   "u": "https://www.tagesschau.de/ausland/europa/macron-soldaten-saudi-arabien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T03:44:09+00:00"
-  },
-  {
-   "t": "Manipulationsskandal an der türkischen Börse",
-   "s": "Die türkische Börse wird von einem Manipulationsskandal erschüttert. Mehrere Investmentfirmen sollen einzelne Aktienkurse künstlich in die Höhe getrieben haben. Hunderttausende Anleger könnten betroffen sein. Von Pia Masurczak.",
-   "u": "https://www.tagesschau.de/wirtschaft/boerse/manipulation-skandal-boerse-istanbul-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T03:22:52+00:00"
-  },
-  {
-   "t": "Schulen in Singapur: Den Lernerfolg nicht der KI überlassen",
-   "s": "Der KI die Hausaufgaben überlassen: Die Möglichkeiten Künstlicher Intelligenz sind für Schüler verführerisch. Singapur hat deshalb eigene KI-Tools für den Unterricht entwickelt - von denen auch Lehrer profitieren. Von J. Johnston.",
-   "u": "https://www.tagesschau.de/ausland/asien/singapur-ki-schulunterricht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T03:22:44+00:00"
   }
  ]
 }

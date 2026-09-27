@@ -1,10 +1,52 @@
 {
  "name": "Ausland",
- "updated": "2026-09-27T09:16:43+00:00",
+ "updated": "2026-09-27T18:59:01+00:00",
  "items": [
   {
+   "t": "Umstrittener Marsch in Nordirland - Gegner blockieren Oranier-Parade",
+   "s": "Der protestantische Oranier-Orden wollte durch einen katholischen Teil der Stadt Portadown in Nordirland marschieren. Doch Gegner blockieren den Marsch. Es geht um eine Straße, die früher ein Unruhen-Brennpunkt war. Von Franziska Hoppen.",
+   "u": "https://www.tagesschau.de/ausland/europa/irland-proteste-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T18:34:10+00:00"
+  },
+  {
+   "t": "Terrorverdacht: Britische Polizei nimmt fünf Männer bei Militärstützpunkt fest",
+   "s": "Großeinsatz nach Sprengstoffverdacht: An dem auch von den USA genutzten britischen Militärstützpunkt Fairford sind fünf Männer festgenommen worden. Laut US-Präsident Trump wollten sie \"großen Schaden\" anrichten.",
+   "u": "https://www.tagesschau.de/ausland/festnahmen-grossbritannien-luftwaffenstuetzpunkt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T16:57:19+00:00"
+  },
+  {
+   "t": "Volksabstimmung in der Schweiz: Mehrheit gegen verschärfte Neutralität",
+   "s": "In einer Volksabstimmung hat sich in der Schweiz eine Mehrheit dagegen ausgesprochen, das Neutralitätsgebot für das eigene Land zu verschärfen. Ein Ergebnis, das in Russland für Unmut sorgen dürfte.",
+   "u": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-neutralitaet-106.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T14:30:59+00:00"
+  },
+  {
+   "t": "Polen: Wenn der Krieg näher kommt",
+   "s": "Drohnen und Raketen, die nah an der polnischen Grenze einschlagen - der Krieg gegen die Ukraine rückt spürbar an den Alltag der Menschen heran. Schutzräume und Warn-SMS gewinnen an Bedeutung. Wie ist die Stimmung vor Ort? Von P. Milling.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-grenzgebiet-ukraine-sorgen-russland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T12:01:01+00:00"
+  },
+  {
+   "t": "Wurde Israel von Ägypten vor Hamas-Überfall gewarnt?",
+   "s": "Der Hamas-Terrorangriff von 2023 beschäftigt Israel bis heute. Einem Bericht zufolge wurde Israel von Ägypten vor dem Angriff gewarnt. Premier Netanjahu bestreitet das, doch die Vorwürfe setzen ihn vor der anstehenden Wahl unter Druck.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-warnungen-hamas-ueberfall-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T11:27:48+00:00"
+  },
+  {
+   "t": "Labour-Parteitag: Premier Burnham und sein Plan für den Norden",
+   "s": "Andy Burnham ist keine 100 Tage im Amt, da steht sein erster Labour-Parteitag als Premierminister an. Er will die Briten für sich gewinnen - auch mit Geld und Einfluss für den Norden. Von Christoph Prössl.",
+   "u": "https://www.tagesschau.de/ausland/europa/burnham-vor-labour-parteitag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T10:26:11+00:00"
+  },
+  {
    "t": "Südafrika: 17 Tote bei Schusswaffenangriff nahe Johannesburg",
-   "s": "Es gilt als eines der schwersten Gewaltverbrechen in Südafrika der vergangenen Jahre: Nahe der Metropole Johannesburg wurden bei einer Schießerei 17 Menschen getötet. Auch bei Kapstadt gab es einen Angriff.",
+   "s": "Es gilt als eines der schwersten Gewaltverbrechen in Südafrika der vergangenen Jahre: Nahe der Metropole Johannesburg wurden bei einem Schusswaffenangriff 17 Menschen getötet. Auch bei Kapstadt gab es einen Angriff.",
    "u": "https://www.tagesschau.de/ausland/afrika/suedafrika-schusswaffenangriff-johannesburg-100.html",
    "q": "Tagesschau",
    "d": "2026-09-27T09:10:40+00:00"
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/macron-soldaten-saudi-arabien-100.html",
    "q": "Tagesschau",
    "d": "2026-09-25T03:44:09+00:00"
-  },
-  {
-   "t": "Ägäis: Spannungen zwischen Griechenland und der Türkei nehmen zu",
-   "s": "Griechenland und die Türkei beschuldigen sich gegenseitig, für zunehmende Spannungen zwischen beiden Ländern verantwortlich zu sein. Es geht um Hoheitsgewässer, Besitzansprüche und Einfluss im Mittelmeerraum. Von Jasper Riemann.",
-   "u": "https://www.tagesschau.de/ausland/europa/griechenland-tuerkei-spannungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T02:48:00+00:00"
-  },
-  {
-   "t": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
-   "s": "Eklat bei den Vereinten Nationen: Als Israels Premier ans Rednerpult trat, verließen Dutzende Diplomaten den Saal. Netanjahu reagierte scharf - und verteidigte die Kriege in Nahost.",
-   "u": "https://www.tagesschau.de/ausland/asien/netanjahu-kritik-un-generaldebatte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T21:51:23+00:00"
-  },
-  {
-   "t": "Prunk und Pandas: Trump empfängt Xi in Washington",
-   "s": "KI, Handel, Ukraine und Taiwan - die Liste der Gipfelthemen ist lang. Doch das Treffen der Präsidenten Trump und Xi beginnt freundschaftlich - was auch mit Pandas zu tun haben könnte. Und dann ist da noch Thukydides.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-china-trump-xi-pandas-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T19:43:38+00:00"
-  },
-  {
-   "t": "Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen",
-   "s": "Gelingt es der Ukraine, den russischen Vorsprung bei schnellen, mit Jetantrieb ausgestatteten Drohnen aufzuholen? Die Antwort entscheidet über Leben und Tod vieler Menschen. Von Kai Küstner und Stefan Niemann.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-schnelle-drohnen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T17:50:55+00:00"
-  },
-  {
-   "t": "Nach Richterspruch - Weißes Haus lässt CNN-Reporter wieder zu",
-   "s": "US-Präsident Trump hatte CNN und andere Medien tagelang ausgesperrt. Auch nach einem Richterspruch verweigerte das Weiße Haus Reportern zunächst den Zugang. Jetzt gab die Trump-Regierung nach.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-medien-cnn-trump-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T17:20:41+00:00"
-  },
-  {
-   "t": "Kämpfe in Tigray-Region im Norden Äthiopiens eskalieren",
-   "s": "Im Norden Äthiopiens ist ein alter Konflikt wieder voll entbrannt: Die \"Volksbefreiungsfront\" von Tigray will zurück an die Macht. Beobachter warnen vor einem Flächenbrand am Horn von Afrika. Von Karin Bensch.",
-   "u": "https://www.tagesschau.de/ausland/afrika/tigray-konflikt-eskalation-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T15:18:06+00:00"
   }
  ]
 }

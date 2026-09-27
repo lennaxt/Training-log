@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-09-27T09:16:46+00:00",
+ "updated": "2026-09-27T18:59:06+00:00",
  "items": [
+  {
+   "t": "US-Zwischenwahlen in Alaska: Kandidatin zwischen Lachs und Öl",
+   "s": "Mary Peltola will als erste Indigene in den US-Senat einziehen. Dabei vertritt sie Ansichten, die in ihrer Partei für Unmut sorgen könnten.",
+   "u": "https://taz.de/US-Zwischenwahlen-in-Alaska/!6216762/",
+   "q": "taz",
+   "d": "2026-09-27T18:04:00+00:00"
+  },
+  {
+   "t": "UN-Gipfel in New York: Russland lässt deutsche Diplomatieversuche abblitzen",
+   "s": "Am Rande der UN-Generalversammlung traf Außenminister Wadephul auf seinen russischen Amtskollegen Lawrow. Von einer diplomatischen Lösung ist man weit entfernt.",
+   "u": "https://taz.de/UN-Gipfel-in-New-York/!6216439/",
+   "q": "taz",
+   "d": "2026-09-27T09:16:00+00:00"
+  },
   {
    "t": "„Bewaffneter Streik“ in Kolumbien: Stille in Santa Marta – und der Präsident kommt mit Waffe",
    "s": "In Kolumbiens Karibikstadt Santa Marta übt eine Gruppe von Paramilitärs den „bewaffneten Streik“. Geschäfte und Schulen sind geschlossen, Busse brennen.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Kuerzungen-bei-Kolumbiens-Friedensjustiz/!6214670/",
    "q": "taz",
    "d": "2026-09-19T16:16:00+00:00"
-  },
-  {
-   "t": "Teile von F-35 vermisst: Geheime Technik von US-Tarnkappenjet F-35 soll nach Hongkong gegangen sein",
-   "s": "Der US-Kongress untersucht laut Recherchen von Politico, ob Teile des hochmodernen F-35-Kampfjets China in die Hände gefallen sind.",
-   "u": "https://taz.de/Bericht-Geheime-Technik-von-US-Tarnkappenjet-F-35-nach-Hongkong-umgeleitet/!6214665/",
-   "q": "taz",
-   "d": "2026-09-19T12:38:00+00:00"
-  },
-  {
-   "t": "Grönland-Abkommen mit den USA: Lob und Erleichterung, so weit das Auge reicht",
-   "s": "Trump feiert einen Grönland-Deal, auch Dänemark und Grönland sind zufrieden. Das Abkommen soll die Sicherheit stärken. Viele Details bleiben jedoch offen.",
-   "u": "https://taz.de/Groenland-Abkommen-mit-den-USA/!6214661/",
-   "q": "taz",
-   "d": "2026-09-19T11:21:00+00:00"
   }
  ]
 }

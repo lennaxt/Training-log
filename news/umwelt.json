@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-27T09:16:45+00:00",
+ "updated": "2026-09-27T18:59:04+00:00",
  "items": [
+  {
+   "t": "Sondierungsgespräche in Berlin: Zurück auf dem Boden der Realpolitik",
+   "s": "In der Hauptstadt nehmen Linke, Grüne und SPD jetzt Kurs auf ein Linksbündnis. Leicht wird es nicht.",
+   "u": "https://taz.de/Sondierungsgespraeche-in-Berlin/!6216763/",
+   "q": "taz",
+   "d": "2026-09-27T15:47:00+00:00"
+  },
+  {
+   "t": "Krise der CDU: Rhein will „Stadtbild“-Debatte wiederaufleben lassen",
+   "s": "Bundeskanzler Merz geriet vor einem Jahr wegen seiner Äußerung zum „Stadtbild“ unter Druck. Hessens Regierungschef hält die Debatte nach wie vor für richtig.",
+   "u": "https://taz.de/Rhein-will-Stadtbild-Debatte-fortsetzen/!6216716/",
+   "q": "taz",
+   "d": "2026-09-27T12:07:00+00:00"
+  },
+  {
+   "t": "Alternativer Westfälischer Friedenspreis: Kriegsdienstverweigerer-Netzwerk mit Friedenspreis geehrt",
+   "s": "Weil die Nato am 1. Oktober den renommierten Preis des Westfälischen Friedens erhält, wurde aus Protest dagegen in Münster ein alternativer Preis vergeben.",
+   "u": "https://taz.de/Kriegsdienstverweigerer-Netzwerk-mit-neuem-Friedenspreis-geehrt/!6216485/",
+   "q": "taz",
+   "d": "2026-09-27T10:37:00+00:00"
+  },
   {
    "t": "Besuch beim Merkel-Portrait: Mit ihr wollen immer noch alle ein Foto",
    "s": "Im Berliner Bode-Museum ist die Sehnsucht zum Bild geworden. Angela Merkels Porträt kommt gut an – und füllt eine Leerstelle namens Friedrich Merz.",
@@ -45,8 +66,8 @@
    "d": "2026-09-26T16:48:00+00:00"
   },
   {
-   "t": "Massenprotest der Gewerkschaften: Über 175.000 gegen Sozialabbau",
-   "s": "Zum Aktionstag für den Erhalt des Sozialstaats und gegen die Reformpläne von Kanzler Merz gehen bundesweit Menschen auf die Straße. Allein in Essen mehr als 18.000.",
+   "t": "Massenproteste der Gewerkschaften: Über 175.000 gegen Sozialabbau",
+   "s": "Zum Aktionstag für den Erhalt des Sozialstaats und gegen die Reformpläne von Kanzler Merz gehen bundesweit viele Menschen auf die Straße. Allein in Essen mehr als 18.000.",
    "u": "https://taz.de/DGB-Aktionstag-gegen-Sozialkuerzungen/!6216422/",
    "q": "taz",
    "d": "2026-09-26T14:03:00+00:00"
@@ -81,7 +102,7 @@
   },
   {
    "t": "Gedenken an NS-Opfer in Sachsen: Eine Kultur des Vergessens",
-   "s": "Der Stadtrat Heidenau hat das Gedenken an Opfer der Nazis auf den Friedhof verbannt. Die Rechten setzen zu ihrem lange geforderten Schlussstrich an.",
+   "s": "Der Stadtrat Heidenau hat Stolpersteine für Opfer der Nazis aus der Stadt verbannt. Die Rechten setzen zu ihrem lange geforderten Schlussstrich an.",
    "u": "https://taz.de/Gedenken-an-NS-Opfer-in-Sachsen/!6216336/",
    "q": "taz",
    "d": "2026-09-26T07:39:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Antrag-zu-NS-Gedenken-in-Sachsen/!6216278/",
    "q": "taz",
    "d": "2026-09-25T06:12:00+00:00"
-  },
-  {
-   "t": "Gewerkschaften gegen Kürzungen: Sozialproteste stellen sich breiter auf",
-   "s": "Für das Wochenende ruft der DGB zu bundesweiten Demonstrationen auf. Zuletzt tat sich der DGB mit Mobilisierung auf der Straße schwer.",
-   "u": "https://taz.de/Gewerkschaftsproteste-gegen-Kuerzungen/!6215691/",
-   "q": "taz",
-   "d": "2026-09-25T05:12:00+00:00"
-  },
-  {
-   "t": "Fahrer bei Lieferdiensten: Ende der Ausbeutungen?",
-   "s": "Rider sollen künftig direkt bei Essenslieferdiensten beschäftigt werden, nicht mehr bei Subunternehmern. Vorbild ist eine Regelung aus der Fleischindustrie.",
-   "u": "https://taz.de/Fahrer-bei-Lieferdiensten/!6215958/",
-   "q": "taz",
-   "d": "2026-09-25T03:30:00+00:00"
-  },
-  {
-   "t": "Sozialkürzungen: Einzelfallhilfen für Menschen mit Behinderung sind bedroht",
-   "s": "Gleich mehrere Gesetze plant die schwarz-rote Bundesregierung, die Einsparungen bei Menschen mit Behinderungen bedeuten würden. Am Freitag wird eines davon beraten.",
-   "u": "https://taz.de/Sozialkuerzungen/!6214377/",
-   "q": "taz",
-   "d": "2026-09-24T18:29:00+00:00"
   }
  ]
 }
