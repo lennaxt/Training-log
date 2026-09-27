@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-27T18:59:02+00:00",
+ "updated": "2026-09-27T23:48:22+00:00",
  "items": [
+  {
+   "t": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
+   "s": "Eine sechsstellige Summe kosten Kinder ihre Eltern bis zum 18. Geburtstag. Allerdings müssen Eltern das nicht ganz alleine finanzieren. Denn der Staat unterstützt Familien in Deutschland mit zahlreichen Leistungen. Von L.-M. Hiltscher.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T20:02:02+00:00"
+  },
   {
    "t": "Gewerbesteueroasen - Standortwettbewerb auf Kosten von Kommunen",
    "s": "Steueroasen gibt es nicht nur auf den Cayman Islands, sondern auch in Deutschland. Sie sind legal, führen aber auch zu Missbrauch durch Unternehmer. Leidtragende sind die Kommunen.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/vergesellschaftung-wohnungsproblem-berlin-mietmarkt-100.html",
    "q": "Tagesschau",
    "d": "2026-09-25T08:40:50+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 25.09.2026",
-   "s": "Update Wirtschaft vom 25.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1655214.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T08:14:50+00:00"
   }
  ]
 }

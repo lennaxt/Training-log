@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-09-27T18:59:01+00:00",
+ "updated": "2026-09-27T23:48:21+00:00",
  "items": [
+  {
+   "t": "Serbiens Präsident Vucic tritt zurück",
+   "s": "Ein halbes Jahr vor Ende seines Mandats tritt Vucic als serbischer Präsident zurück. Mit dem Schritt will er vom Präsidialamt in das Amt des Premiers wechseln. Zuletzt gab es Massenproteste und politischen Druck. Von Silke Hahne.",
+   "u": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T23:13:56+00:00"
+  },
   {
    "t": "Umstrittener Marsch in Nordirland - Gegner blockieren Oranier-Parade",
    "s": "Der protestantische Oranier-Orden wollte durch einen katholischen Teil der Stadt Portadown in Nordirland marschieren. Doch Gegner blockieren den Marsch. Es geht um eine Straße, die früher ein Unruhen-Brennpunkt war. Von Franziska Hoppen.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-104.html",
    "q": "Tagesschau",
    "d": "2026-09-25T04:41:49+00:00"
-  },
-  {
-   "t": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
-   "s": "Um die Ölinfrastruktur Saudi-Arabiens zu schützen, kündigt Frankreich an, Militärgerät und Truppen ans Rote Meer zu schicken. Direkt in den Konflikt mit der Huthi-Miliz wolle er aber nicht einsteigen, sagte Präsident Macron.",
-   "u": "https://www.tagesschau.de/ausland/europa/macron-soldaten-saudi-arabien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T03:44:09+00:00"
   }
  ]
 }
