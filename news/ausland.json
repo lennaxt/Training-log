@@ -1,10 +1,45 @@
 {
  "name": "Ausland",
- "updated": "2026-09-26T23:38:06+00:00",
+ "updated": "2026-09-27T09:16:43+00:00",
  "items": [
   {
+   "t": "Südafrika: 17 Tote bei Schusswaffenangriff nahe Johannesburg",
+   "s": "Es gilt als eines der schwersten Gewaltverbrechen in Südafrika der vergangenen Jahre: Nahe der Metropole Johannesburg wurden bei einer Schießerei 17 Menschen getötet. Auch bei Kapstadt gab es einen Angriff.",
+   "u": "https://www.tagesschau.de/ausland/afrika/suedafrika-schusswaffenangriff-johannesburg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T09:10:40+00:00"
+  },
+  {
+   "t": "EU stellt 710 Millionen Euro für weltweite Krisenhilfe bereit",
+   "s": "Weltweit leiden Menschen unter den Folgen von Naturkatastrophen oder Konflikten. EU-Kommissionspräsidentin von der Leyen hat nun weitere Hilfen für sie angekündigt. Ein Großteil des Geldes soll nach Afrika fließen.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-krisenhilfe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T07:05:01+00:00"
+  },
+  {
+   "t": "Sturm an der US-Ostküste: Ein Toter, viele Haushalte ohne Strom",
+   "s": "Ein schwerer Sturm hat im Nordosten der USA den Flugverkehr teilweise lahmgelegt und zu Stromausfällen geführt. In New York kam ein Mensch durch einen umgestürzten Baum ums Leben. Viele Veranstaltungen wurden abgesagt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/sturm-usa-144.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T06:57:10+00:00"
+  },
+  {
+   "t": "EU geht gegen \"Greenwashing\" in der Werbung vor",
+   "s": "\"Grün\", \"nachhaltig\", \"klimaneutral\" - eine ab heute geltende EU-Richtlinie soll für mehr Klarheit bei Umwelt-Aussagen sorgen. Kritik gibt es an der deutschen Umsetzung. Was passiert nun mit Produkten in alten Verpackungen? Von Sarah López.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-greenwashing-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T04:51:55+00:00"
+  },
+  {
+   "t": "Schweiz: Volksabstimmung über striktere Neutralität",
+   "s": "Die Schweiz ist berühmt für Schokolade, Uhren und politische Neutralität. Über letzteres wird gestritten. Der Grund: Die Sanktionen gegen Russland - aus Sicht der Initiative, über die heute abgestimmt wird, ein \"Sündenfall\". Von S. Biegger und S. Dodt.",
+   "u": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-neutralitaet-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T03:21:29+00:00"
+  },
+  {
    "t": "Wadephul zum Treffen mit Lawrow: \"Mit Gegnern muss man verhandeln\"",
-   "s": "Es war das erste Treffen der Chefdiplomaten Deutschlands und Russlands seit Beginn des russischen Angriffs auf die Ukraine. In den tagesthemen erklärt Bundesaußenminister Wadephul, wie es zum Treffen mit dem Amtskollegen Lawrow kam.",
+   "s": "Es war das erste Treffen der Chefdiplomaten Deutschlands und Russlands seit Beginn des russischen Angriffs auf die Ukraine. In den tagesthemen erklärt Bundesaußenminister Wadephul, wie es zum Treffen mit Lawrow kam - und wie er es bewertet.",
    "u": "https://www.tagesschau.de/ausland/wadephul-rede-un-generalversammlung-100.html",
    "q": "Tagesschau",
    "d": "2026-09-26T22:29:36+00:00"
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/afrika/tigray-konflikt-eskalation-100.html",
    "q": "Tagesschau",
    "d": "2026-09-24T15:18:06+00:00"
-  },
-  {
-   "t": "Trotz vorläufigen Richterspruchs: Weißes Haus weist Reporter weiter ab",
-   "s": "In seinem Dauerstreit mit den Medien hatte US-Präsident Trump unter anderem CNN den Zugang zum Weißen Haus verweigert. Ein Richter setzte die Entscheidung außer Kraft - doch das Weiße Haus sperrt sich.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-medien-cnn-trump-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T14:47:55+00:00"
-  },
-  {
-   "t": "Israelisches Wahlkomitee schließt arabische Parteien von Parlamentswahl aus",
-   "s": "Gut einen Monat vor der Parlamentswahl in Israel hat das Wahlkomitee alle arabischen Parteien ausgeschlossen. Das Oberste Gericht könnte die Entscheidung zwar noch kippen - politische Schäden könnten jedoch bleiben.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-schliesst-arabische-parteien-aus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T14:33:06+00:00"
-  },
-  {
-   "t": "Frontstadt in der Ukraine: \"Jetzt beginnt dort echter Hunger\"",
-   "s": "Seit Mai leben die Menschen in Oleschky von Vorräten und dem, was sie im Sommer geerntet haben. Der Hunger nimmt in der von Russen besetzten Frontstadt jeden Tag zu. Nur wenigen gelingt die Flucht - die Gegend ist vermint. Von F. Kellermann.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-humanitaere-lage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T10:28:36+00:00"
-  },
-  {
-   "t": "Wieder Tote bei russischen Angriffen auf die Ukraine",
-   "s": "Bei russischen Angriffen auf die Ukraine hat es erneut Tote gegeben. In Kiew kamen nach Behördenangaben zwei Menschen ums Leben, beim Angriff auf ein landwirtschaftliches Gebäude in der Region Charkiw sechs.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kiew-106.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T09:23:30+00:00"
-  },
-  {
-   "t": "Marokko: Wahlbeteiligung auf niedrigstem Stand seit 2007",
-   "s": "Marokko bekommt einen neuen Regierungschef. Bei der Parlamentswahl wurde die bisherige Koalitionspartei PAM stärkste Kraft. Doch nur 38 Prozent aller Wahlberechtigten gaben ihre Stimme ab.",
-   "u": "https://www.tagesschau.de/ausland/afrika/marokko-parlamentswahl-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T08:18:11+00:00"
   }
  ]
 }

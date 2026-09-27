@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-26T23:38:08+00:00",
+ "updated": "2026-09-27T09:16:44+00:00",
  "items": [
+  {
+   "t": "KI-Entwickler OpenAI pausiert Training nach Zwischenfall",
+   "s": "Im Alltag ist KI für viele Menschen ein nützliches Werkzeug. Doch jenseits von Chatbots machen sich KI-Agenten immer wieder selbstständig und durchbrechen Grenzen. Bei OpenAI ist dies erneut passiert. Das Unternehmen pausiert deshalb die Entwicklung.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T09:12:24+00:00"
+  },
+  {
+   "t": "Halten Fertighäuser, was sie versprechen?",
+   "s": "Der Bau des eigenen Hauses ist teuer. Deshalb boomen Fertighäuser, denn sie versprechen Planbarkeit und Tempo - am besten noch mit Festpreis. Doch wie günstig und kalkulierbar ist das wirklich? Von A. Jancevski und L.-M. Hiltscher.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/fertighaus-bau-immobilien-wohnraum-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-27T09:10:56+00:00"
+  },
   {
    "t": "Warum die deutsche Offshore-Windenergiebranche in der Krise steckt",
    "s": "Bei Windenergie-Firmen wachsen die Sorgen. Projekte fehlen, chinesische Konkurrenten unterbieten die Preise. Droht das Schicksal der Solarenergie-Branche, indem Firmen schließen und die Produktion nach China geht? Von N. Peerenboom.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/singapur-ki-schulunterricht-100.html",
    "q": "Tagesschau",
    "d": "2026-09-25T03:22:44+00:00"
-  },
-  {
-   "t": "Wechsel zum IWF: EZB-Direktorin Schnabel tritt vorzeitig ab",
-   "s": "Die deutsche Top-Ökonomin zieht es für eine neue Rolle nach Washington zum Internationalen Währungsfonds. Die Neubesetzung könnte interessant werden - denn auch die EZB-Präsidentin könnte ihren Posten vorzeitig räumen.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-schnabel-ezb-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-24T16:35:53+00:00"
-  },
-  {
-   "t": "Marktmacht - Kampf den Kartellen",
-   "s": "Ob hohe Preissprünge an der Zapfsäule oder die Marktmacht globaler Tech-Riesen: In Deutschland soll das Bundeskartellamt den Wettbewerb sichern. Doch der Kampf gegen die Branchenriesen ist schwierig und wird schon lange ausgefochten.",
-   "u": "https://www.deutschlandfunk.de/bundeskartellamt-kartellrecht-marktmacht-wettbewerb-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-24T14:56:00+00:00"
   }
  ]
 }

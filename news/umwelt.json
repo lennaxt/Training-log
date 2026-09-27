@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-26T23:38:09+00:00",
+ "updated": "2026-09-27T09:16:45+00:00",
  "items": [
+  {
+   "t": "Besuch beim Merkel-Portrait: Mit ihr wollen immer noch alle ein Foto",
+   "s": "Im Berliner Bode-Museum ist die Sehnsucht zum Bild geworden. Angela Merkels Porträt kommt gut an – und füllt eine Leerstelle namens Friedrich Merz.",
+   "u": "https://taz.de/Besuch-beim-Merkel-Portrait/!6211066/",
+   "q": "taz",
+   "d": "2026-09-27T07:47:00+00:00"
+  },
+  {
+   "t": "Sondierungen in Berlin: SPD will mit Linken über Regierungsbildung sprechen",
+   "s": "Die SPD sieht hohe Hürden für eine Koalition mit der Linken unter Elif Eralp in der Hauptstadt. Die Grünen machen ihre Teilnahme von klaren Zusagen abhängig.",
+   "u": "https://taz.de/Sondierungen-in-Berlin/!6216437/",
+   "q": "taz",
+   "d": "2026-09-27T07:30:00+00:00"
+  },
+  {
+   "t": "Charisma in Krisenzeiten: Wie man die Massen gewinnt",
+   "s": "Elif Eralp und Ulrich Siegmund sind grundverschieden. Ihre jüngsten Erfolge hatten aber eine gleiche Zutat: Charisma. Was wir daraus für die Zukunft lernen können.",
+   "u": "https://taz.de/Charisma-in-Krisenzeiten/!6216346/",
+   "q": "taz",
+   "d": "2026-09-27T07:18:00+00:00"
+  },
   {
    "t": "Streit nach der Berlin-Wahl: Alle schauen wieder auf diese Stadt",
    "s": "Berlin hat gewählt und der Wahlsieg der Linken in der Hauptstadt sorgt auch im fernen Bayern für Aufregung. Und nicht nur dort.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Sozialkuerzungen/!6214377/",
    "q": "taz",
    "d": "2026-09-24T18:29:00+00:00"
-  },
-  {
-   "t": "Organisierte Kriminalität und Politik: Ungebetene Gäste",
-   "s": "Mafia-Bosse und Großkriminelle suchen gerne die Nähe zu Politikern. Darüber könnte der Berliner Linken-Politiker Ferat Koçak jetzt straucheln.",
-   "u": "https://taz.de/Organisierte-Kriminalitaet-und-Politik-Wird-Ferat-Kocak-zum-Bauernopfer-im-Koalitionspoker/!6215882/",
-   "q": "taz",
-   "d": "2026-09-24T18:26:00+00:00"
-  },
-  {
-   "t": "Neue Leiterin der bpb: Eine Schulleiterin an der Spitze der Bundeszentrale",
-   "s": "Nina Hauer soll Chefin der Bundeszentrale für politische Bildung werden. Sie wäre die erste Frau in dieser Position. Und wo steht sie politisch?",
-   "u": "https://taz.de/Neue-Leiterin-der-bpb/!6216007/",
-   "q": "taz",
-   "d": "2026-09-24T18:24:00+00:00"
-  },
-  {
-   "t": "Wahlen in Mecklenburg-Vorpommern: AfD-interne Kritik am Wahlerfolg",
-   "s": "Nach einer AfD-Analyse wäre in Mecklenburg-Vorpommern mehr möglich gewesen. Der Schuldige: ihr Ministerpräsidentenkandidat.",
-   "u": "https://taz.de/Wahlen-in-Mecklenburg-Vorpommern/!6215933/",
-   "q": "taz",
-   "d": "2026-09-24T16:20:00+00:00"
   }
  ]
 }
