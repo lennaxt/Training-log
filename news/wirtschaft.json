@@ -1,20 +1,83 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-28T09:48:27+00:00",
+ "updated": "2026-09-28T21:14:40+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 28.09.2026",
+   "s": "Wirtschaft vor acht vom 28.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1657180.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T18:31:17+00:00"
+  },
+  {
+   "t": "\"Starship\"-Rakete erreicht erstmals Erdumlaufbahn",
+   "s": "Eine \"Starship\"-Rakete ist erstmals in den Orbit gelangt. Dort setzte sie mehrere Satelliten aus. Geplant war, dass die Riesen-Rakete die Erde sechsmal umrundet - wegen technischer Probleme landete sie aber schon Stunden früher im Pazifik.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/space-x-raketenstart-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T18:05:57+00:00"
+  },
+  {
+   "t": "Russland stellt Metros Vermögenswerte unter Zwangsverwaltung",
+   "s": "Die Metro AG hat nach Beginn des Ukraine-Kriegs sein Geschäft in Russland weitergeführt. Jetzt hat der russische Präsident Putin diesen Teil des Handelskonzerns unter Zwangsverwaltung gestellt. Zuvor war es schon anderen Unternehmen so ergangen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-metro-vermoegenswerte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T17:14:23+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX gibt nur wenig nach",
+   "s": "Trotz steigender Ölpreise hielt sich der DAX zum Wochenstart recht gut. Dabei stützte die Hoffnung auf weitere Gespräche zwischen den USA und Iran. Bewegung gab es bei kleineren Konzernen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-162.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T16:21:45+00:00"
+  },
+  {
+   "t": "Europäische Verbraucherschützer mahnen Airlines ab",
+   "s": "Wenn ein Flug annulliert wird, steht Kunden eine Erstattung des Ticketpreises zu. Doch manche Airlines machen es ihren Kunden dabei schwer, wenn über Vermittler gebucht wurde. Verbraucherschützer halten das für unzulässig.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/zev-abmahnung-airlines-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T15:45:38+00:00"
+  },
+  {
+   "t": "Schaden in Milliardenhöhe - Anlagebetrug mit gefälschten Nachrichtenseiten",
+   "s": "Sie sehen aus wie Artikel der tagesschau, führen jedoch auf betrügerische Anlageplattformen. Schätzungen zufolge machen Verbrechernetzwerke mit dieser Masche jährlich Milliarden - und bringen Tausende Menschen um ihr Erspartes. Von Pascal Siggelkow.",
+   "u": "https://www.tagesschau.de/investigativ/faktenfinder/geldanlage-betrug-fake-nachrichtenseiten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T13:43:05+00:00"
+  },
+  {
+   "t": "Drei deutsche BioNTech-Werke müssen schließen",
+   "s": "Drei deutsche Produktionsstandorte des Pharmaunternehmens BioNTech werden geschlossen. In den Werken in Marburg, Idar-Oberstein und Tübingen sind derzeit rund 1.800 Mitarbeiter beschäftigt.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/biontech-standorte-schliessung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T13:17:39+00:00"
+  },
+  {
+   "t": "Hohe Ethanolpreise: Südzucker erwartet bessere Geschäfte",
+   "s": "Die Geschäfte bei Südzucker laufen noch besser als bisher gedacht. Der Zuckerkonzern hat zuletzt sowohl von zunehmenden Wetterextremen als auch von den Folgen des Iran-Konflikts profitiert.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-suedzucker-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T12:18:56+00:00"
+  },
+  {
+   "t": "Frankreichs Designer-Nachwuchs geht neue Wege",
+   "s": "Eine Stadt wird zum Laufsteg: Die Paris Fashion Week startet. Berühmte Designer zeigen ihre neuesten Kollektionen - doch was macht eigentlich der französische Mode-Nachwuchs? Von Henrik Lesser-Willun.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/mode-nachwuchs-designer-paris-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T11:08:12+00:00"
+  },
+  {
+   "t": "Rheinpegel in Köln auf Rekordtief - Lkw-Fahrverbot bleibt ausgesetzt",
+   "s": "Nur noch 40 Zentimeter - noch nie wurde in Köln ein derart niedriger Rheinpegel gemessen. Wegen des extremen Niedrigwassers soll das Sonntags-Fahrverbot für Lkw in Nordrhein-Westfalen ausgesetzt bleiben.",
+   "u": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rheinpegel-tiefststand-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T11:08:00+00:00"
+  },
   {
    "t": "Einwanderer in vielen Berufen unverzichtbar",
    "s": "In vielen Branchen mit Fachkräftemangel sind Beschäftigte mit Einwanderungsgeschichte überdurchschnittlich stark vertreten. Die Integration hängt dabei von der Herkunftsregion und der Aufenthaltsdauer ab.",
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/engpassberufe-einwanderer-100.html",
    "q": "Tagesschau",
    "d": "2026-09-28T09:20:23+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX trotzt steigenden Ölpreisen",
-   "s": "Obwohl die Ölpreise wieder steigen, hält sich der DAX zu Wochenbeginn stabil im Plus. Allerdings bleibt die Lage angespannt, ohne frische Impulse sind der Kursfantasie enge Grenzen gesetzt.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-162.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T08:35:47+00:00"
   },
   {
    "t": "Update Wirtschaft vom 28.09.2026",
@@ -94,13 +157,6 @@
    "d": "2026-09-26T06:00:40+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 25.09.2026",
-   "s": "Wirtschaft vor acht vom 25.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1655568.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T17:56:59+00:00"
-  },
-  {
    "t": "Rückruf bei VW, Audi und Seat: Das müssen Besitzer jetzt wissen",
    "s": "Eine fehlerhafte Schraube kann bei Autos des VW-Konzerns zu einem Ausfall der Lenkung führen. Allein in Deutschland müssen fast eine Million Fahrzeuge vorsorglich in die Werkstatt. Welche Modelle betroffen sind - und was zu tun ist.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-audi-seat-lenkungsausfall-100.html",
@@ -113,62 +169,6 @@
    "u": "https://www.deutschlandfunk.de/tankrabatt-spritpreisbremse-entlastung-benzinpreis-auto-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-25T15:42:00+00:00"
-  },
-  {
-   "t": "BASF wirft ein Auge auf Konkurrent Evonik",
-   "s": "Der Chemieindustrie könnte ein milliardenschwerer Deal bevorstehen: Der Konzern BASF zeigt Interesse am Konkurrenten Evonik. Die Spekulationen haben an der Börse bereits für Bewegung gesorgt.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/evonik-basf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T15:37:05+00:00"
-  },
-  {
-   "t": "Bundestag und Bundesrat beschließen erneuten \"Tankrabatt\"",
-   "s": "Der \"Tankrabatt\" kommt wieder. Diesmal gilt die Preissenkung sogar drei Monate lang. Das sind gute Nachrichten für Autofahrer, Spediteure und Landwirte. Es gibt aber auch Kritik an der Maßnahme.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-bundesrat-beschlossen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T14:36:26+00:00"
-  },
-  {
-   "t": "Entlastung im Bundestag: So schnell soll der \"Tankrabatt\" kommen",
-   "s": "Mit einem neuen \"Tankrabatt\" will die Bundesregierung die Spritpreise möglichst schnell senken. Nach dem Bundestag stimmte auch der Bundesrat zu. Wie hoch der Rabatt ausfällt und was noch geplant ist.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T13:48:03+00:00"
-  },
-  {
-   "t": "Bundestag beschließt erneuten \"Tankrabatt\"- auch Bundesrat stimmt zu",
-   "s": "Der Bundestag hat einen \"Tankrabatt\" von Oktober bis Dezember beschlossen. Damit sollen die hohen Spritpreise gedrückt werden. Auch der Bundesrat stimmte zu.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-beschluss-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T13:30:47+00:00"
-  },
-  {
-   "t": "Bundestag berät erstmals über \"Frühstartrente\" ab sechs Jahren",
-   "s": "Mit der Altersvorsorge kann man nicht früh genug anfangen - oft entscheidet aber die Finanzlage des Elternhauses mit. Künftig will der Staat helfen - mit einem Monatsbeitrag und Hoffnung auf den Zinsenzinseffekt.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/fruehstartrente-bundestag-debatte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T13:11:27+00:00"
-  },
-  {
-   "t": "Halter von E-Scootern haften künftig bei Unfällen",
-   "s": "E-Scooter-Unfallopfer sollen einfacher an Schadensersatz kommen. Der Bundesrat hat einem Gesetz zugestimmt, das die Haftungsregeln ändert - künftig sollen die Vermieter das Haftungsrisiko tragen.",
-   "u": "https://www.tagesschau.de/inland/bundesrat-escooter-haftung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T12:06:53+00:00"
-  },
-  {
-   "t": "VW, Audi, Seat müssen mehr als eine Million Autos zurückrufen",
-   "s": "Volkswagen, Audi und Seat müssen allein in Deutschland rund eine Million Autos in die Werkstätten zurückrufen. Grund dafür sind mögliche Probleme mit der Lenkung bei mehreren Modellen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-lenkungsausfall-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T11:55:15+00:00"
-  },
-  {
-   "t": "Kommentar: Der \"Tankrabatt\" ist politisch richtig",
-   "s": "Mit dem \"Tankrabatt\" hat die Bundesregierung zumindest politisch die richtige Maßnahme ergriffen, meint Benjamin Großkopff. Zwar mag es ökonomische Gründe geben, die dagegen sprechen, dennoch werden fast alle Bürger davon profitieren.",
-   "u": "https://www.tagesschau.de/kommentar/tankrabatt-kommentar-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T10:42:45+00:00"
   }
  ]
 }

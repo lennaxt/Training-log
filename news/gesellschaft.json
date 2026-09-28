@@ -1,7 +1,49 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-28T09:48:29+00:00",
+ "updated": "2026-09-28T21:14:43+00:00",
  "items": [
+  {
+   "t": "Krieg in der Ukraine: Viel Kritik, wenig Konkretes",
+   "s": "Die EU wirft Russland mangelnden Friedenswillen vor. Beim Treffen der Verteidigungsminister bleiben konkrete Beschlüsse jedoch aus.",
+   "u": "https://taz.de/Krieg-in-der-Ukraine/!6217027/",
+   "q": "taz",
+   "d": "2026-09-28T17:54:00+00:00"
+  },
+  {
+   "t": "Russischer Menschenrechtler: Nicht einmal im Gefängnis ist er sicher",
+   "s": "Der Historiker Juri Dmitrijew sitzt seit Jahren in russischer Haft. Nun soll sich sein Gesundheitszustand drastisch verschlechtert haben.",
+   "u": "https://taz.de/Russischer-Menschenrechtler/!6217025/",
+   "q": "taz",
+   "d": "2026-09-28T16:05:00+00:00"
+  },
+  {
+   "t": "Humanitäre Krise in Ukraine: Kaum Essen, kein Entkommen in Oleschky",
+   "s": "In der russisch besetzten Stadt Oleschky in der Südukraine sind die Menschen von Versorgung und Evakuierung abgeschnitten. Eine ukrainische Drohnenaktion bringt kurzfristig Hilfe.",
+   "u": "https://taz.de/Humanitaere-Krise-in-Ukraine/!6217026/",
+   "q": "taz",
+   "d": "2026-09-28T15:30:00+00:00"
+  },
+  {
+   "t": "Senatswahlen in Frankreich: Noch mehr rechte Männer im Altherrenklub",
+   "s": "Nach den Wahlen zur Hälfte der Senatssitze in Frankreich kann Marine Le Pens rechtsextremes Rassemblement National erstmals eine Fraktion bilden.",
+   "u": "https://taz.de/Senatswahlen-in-Frankreich/!6217010/",
+   "q": "taz",
+   "d": "2026-09-28T14:22:00+00:00"
+  },
+  {
+   "t": "Drama um Regierungsbildung in Schweden: Politpoker in Stockholm",
+   "s": "Sozialdemokratin Magdalena Andersson gibt erst mal auf und bricht den Versuch ab, eine Regierung zu bilden. Die Hängepartie in Schweden geht weiter.",
+   "u": "https://taz.de/Drama-um-Regierungsbildung-in-Schweden/!6217013/",
+   "q": "taz",
+   "d": "2026-09-28T14:11:00+00:00"
+  },
+  {
+   "t": "Mietenproteste in Spanien: „Dekret Maricarmen“ soll schnell kommen",
+   "s": "Ein Protestcamp gegen Wohnungsnot in Madrid setzt die Minderheitsregierung des spanischen Ministerpräsidenten Sánchez unter Druck – knapp ein Jahr vor den Parlamentswahlen.",
+   "u": "https://taz.de/Mietenkampf-in-Spanien/!6217017/",
+   "q": "taz",
+   "d": "2026-09-28T12:45:00+00:00"
+  },
   {
    "t": "Serbiens Präsident Vučić tritt zurück: Weg frei für Kandidatur als Regierungschef",
    "s": "Serbiens Präsident Vučić will an die Macht und leitet den nächsten Schritt dazu ein. Vor seinem Rücktritt begnadigte er noch 49 Verurteilte.",
@@ -18,7 +60,7 @@
   },
   {
    "t": "Mieten-Kampf in Spanien: Solidarität nach Zwangsräumung von 87-Jähriger",
-   "s": "Ausgelöst durch einen besonders krassen Fall protestieren Zehntausende gegen hohe Mieten in Spanien. Die Regierung steht unter Druck, Linke fordern Enteignungen.",
+   "s": "Ausgelöst durch einen besonders krassen Fall, protestieren Zehntausende gegen hohe Mieten in Spanien. Die Regierung steht unter Druck, Linke fordern Enteignungen.",
    "u": "https://taz.de/Mieten-Kampf-in-Spanien/!6216495/",
    "q": "taz",
    "d": "2026-09-27T18:00:00+00:00"
@@ -88,7 +130,7 @@
   },
   {
    "t": "Maga-Druck auf Internationale Justiz: „Hände weg vom ICC“",
-   "s": "US-Präsident Trump fordert alle Staaten auf, aus dem Internationalen Strafgerichtshof auszusteigen und kündigt Sanktionen an. Doch es gibt Widerstand.",
+   "s": "US-Präsident Trump fordert alle Staaten auf, aus dem Internationalen Strafgerichtshof auszusteigen, und kündigt Sanktionen an. Doch es gibt Widerstand.",
    "u": "https://taz.de/Maga-Druck-auf-Internationale-Justiz/!6216300/",
    "q": "taz",
    "d": "2026-09-25T16:53:00+00:00"
@@ -127,48 +169,6 @@
    "u": "https://taz.de/EU-Sanktionen-gegen-Russland/!6215667/",
    "q": "taz",
    "d": "2026-09-23T16:09:00+00:00"
-  },
-  {
-   "t": "1.673 Tage Krieg in der Ukraine: Zum Urlaub nach Hause, trotz Krieg",
-   "s": "Aus ganz Europa fahren Ukrainer trotz des Krieges in ihre Heimat. Dafür gibt es verschiedene Gründe. Drei Familien berichten von ihrer Situation.",
-   "u": "https://taz.de/1673-Tage-Krieg-in-der-Ukraine/!6207944/",
-   "q": "taz",
-   "d": "2026-09-23T15:51:00+00:00"
-  },
-  {
-   "t": "X klagt gegen Landesmedienanstalt: Alles für die Nazi-Parole",
-   "s": "Vorm Verwaltungsgericht Hannover geht X gegen die Niedersächsische Landesmedienanstalt vor. Es geht um einen Post des Coronakritikers Stefan Homburg.",
-   "u": "https://taz.de/X-klagt-gegen-Landesmedienanstalt/!6215442/",
-   "q": "taz",
-   "d": "2026-09-23T15:48:00+00:00"
-  },
-  {
-   "t": "EU-Mittel für Ungarn: In Budapest klingelt die Kasse",
-   "s": "Die EU-Kommission gibt 4,2 Milliarden Euro aus dem EU-Kohäsionsfonds frei. Damit würden die Reformbemühungen der neuen Regierung gewürdigt, heißt es.",
-   "u": "https://taz.de/EU-Mittel-fuer-Ungarn/!6215725/",
-   "q": "taz",
-   "d": "2026-09-23T15:46:00+00:00"
-  },
-  {
-   "t": "AfD-Besuch in Österreich: Nachhilfe in Sachen Machtergreifung",
-   "s": "Eine Delegation der AfD Sachsen-Anhalt trifft sich zum Meinungsaustausch mit Kollegen der rechtsextremen FPÖ. Deren Chef Herbert Kickl ist voller Lob.",
-   "u": "https://taz.de/AfD-Besuch-in-Oesterreich/!6215635/",
-   "q": "taz",
-   "d": "2026-09-23T14:26:00+00:00"
-  },
-  {
-   "t": "Britische Weltraumstrategie: London schützt Satelliten mit neuer Weltraumeinheit",
-   "s": "Das Weltall ist zum Kriegsschauplatz geworden, sagt der Chef der Royal Air Force. Britische Satelliten sollen von einer eigenen Militäreinheit geschützt werden.",
-   "u": "https://taz.de/Britische-Weltraumstrategie/!6215730/",
-   "q": "taz",
-   "d": "2026-09-23T13:49:00+00:00"
-  },
-  {
-   "t": "EU-Sanktionen gegen Russland: Erfolg für zwei russische Milliardäre",
-   "s": "Die EU streicht die Oligarchen Alischer Usmanow und Michail Fridman von ihrer Russland-Sanktionsliste. Für Usmanow hatte sich vor allem Paris eingesetzt.",
-   "u": "https://taz.de/EU-Sanktionen-gegen-Russland/!6215559/",
-   "q": "taz",
-   "d": "2026-09-23T10:53:00+00:00"
   }
  ]
 }
