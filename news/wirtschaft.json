@@ -1,7 +1,49 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-27T23:48:22+00:00",
+ "updated": "2026-09-28T09:48:27+00:00",
  "items": [
+  {
+   "t": "Einwanderer in vielen Berufen unverzichtbar",
+   "s": "In vielen Branchen mit Fachkräftemangel sind Beschäftigte mit Einwanderungsgeschichte überdurchschnittlich stark vertreten. Die Integration hängt dabei von der Herkunftsregion und der Aufenthaltsdauer ab.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/engpassberufe-einwanderer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T09:20:23+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX trotzt steigenden Ölpreisen",
+   "s": "Obwohl die Ölpreise wieder steigen, hält sich der DAX zu Wochenbeginn stabil im Plus. Allerdings bleibt die Lage angespannt, ohne frische Impulse sind der Kursfantasie enge Grenzen gesetzt.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-162.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T08:35:47+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 28.09.2026",
+   "s": "Update Wirtschaft vom 28.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1656680.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T08:05:19+00:00"
+  },
+  {
+   "t": "KI-Boom und Rüstung bringen Rekord bei Milliarden-Start-ups",
+   "s": "Die deutsche Gründerbranche bringt immer mehr Milliarden-Start-ups hervor. Dazu gehören etwa Trade Republic und N26, aber auch die Softwarefirma Osapiens und die Rüstungsfirma Stark Defense.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/startup-boom-gruendungen-ruestung-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T08:01:42+00:00"
+  },
+  {
+   "t": "Solarstromproduktion übertrifft bereits jetzt Vorjahreswert",
+   "s": "In diesem Jahr ist hierzulande bereits Ende September mehr Solarstrom erzeugt worden als im gesamten Jahr 2025. Zu dem Rekord trugen ungewöhnlich viele Sonnenstunden und der Ausbau der Photovoltaik bei.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/solarstrom-produktion-rekord-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T06:18:50+00:00"
+  },
+  {
+   "t": "Lebensmittelpreise: Droht die nächste Inflationswelle?",
+   "s": "An den Rohstoffbörsen steigen die Preise für Weizen, Mais und Zucker kräftig - im deutschen Supermarkt ist davon bislang kaum etwas angekommen. Doch Experten warnen: Das ist nur eine Frage der Zeit. Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/lebensmittelpreise-weizen-mais-zucker-inflation-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T04:00:07+00:00"
+  },
   {
    "t": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
    "s": "Eine sechsstellige Summe kosten Kinder ihre Eltern bis zum 18. Geburtstag. Allerdings müssen Eltern das nicht ganz alleine finanzieren. Denn der Staat unterstützt Familien in Deutschland mit zahlreichen Leistungen. Von L.-M. Hiltscher.",
@@ -22,13 +64,6 @@
    "u": "https://www.deutschlandfunk.de/vergesellschaftung-enteignung-wohnungen-berlin-linke-elif-eralp-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-27T14:18:00+00:00"
-  },
-  {
-   "t": "Milchprodukte könnten spürbar teurer werden",
-   "s": "Milch, Joghurt und Quark könnten bald deutlich teurer werden. Die Molkereien wollen höhere Preise durchsetzen. Eine Rolle spielt dabei auch das Klima im tropischen Pazifik - und der Proteinhype.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher-milch-preise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-27T12:44:33+00:00"
   },
   {
    "t": "KI-Entwickler OpenAI pausiert Training nach Zwischenfall",
@@ -71,13 +106,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-audi-seat-lenkungsausfall-100.html",
    "q": "Tagesschau",
    "d": "2026-09-25T16:44:11+00:00"
-  },
-  {
-   "t": "Marktbericht: Neue Friedenshoffnungen machen DAX-Anlegern Mut",
-   "s": "Neue Hoffnungen auf einen Frieden im Nahen Osten lassen die Ölpreise zum Wochenschluss sinken. Das macht den Anlegern an der Börse Mut. Gleichzeitig bewegt eine mögliche Übernahme die Kurse.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T16:31:47+00:00"
   },
   {
    "t": "Spritpreisdeckel - Warnungen vor Risiken und Nebenwirkungen",
@@ -129,11 +157,11 @@
    "d": "2026-09-25T12:06:53+00:00"
   },
   {
-   "t": "Marktbericht: Verbraucher halten ihr Geld zusammen",
-   "s": "Die Stimmung der Verbraucher in Deutschland ist so schlecht wie seit Monaten nicht. Hauptgrund sind die hohen Energiepreise. Diese stehen heute auch an der Börse einmal mehr im Fokus.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-konsumklima-100.html",
+   "t": "VW, Audi, Seat müssen mehr als eine Million Autos zurückrufen",
+   "s": "Volkswagen, Audi und Seat müssen allein in Deutschland rund eine Million Autos in die Werkstätten zurückrufen. Grund dafür sind mögliche Probleme mit der Lenkung bei mehreren Modellen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-lenkungsausfall-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-25T11:11:04+00:00"
+   "d": "2026-09-25T11:55:15+00:00"
   },
   {
    "t": "Kommentar: Der \"Tankrabatt\" ist politisch richtig",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/kommentar/tankrabatt-kommentar-100.html",
    "q": "Tagesschau",
    "d": "2026-09-25T10:42:45+00:00"
-  },
-  {
-   "t": "Staat steigt bei Condor aus - Finanzinvestor übernimmt Anteile",
-   "s": "Staatshilfen aus der Corona-Krise hat Condor zurückgezahlt, nun folgt der nächste Schritt: Ein Finanzinvestor übernimmt bis Sommer 2027 alle Anteile an der Fluggesellschaft. Der Bund und das Land Hessen steigen aus.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/condor-bund-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T10:31:17+00:00"
-  },
-  {
-   "t": "US-Sanktionen: Warum iranische Airlines weiter in die Türkei fliegen",
-   "s": "Neue US-Sanktionen sollen den iranischen Luftverkehr treffen. Flugzeuge aus dem Land sollen weltweit nicht mehr abgefertigt werden. Doch in Istanbul landen weiterhin Jets aus Iran. Die Türkei nutzt offenbar ein Schlupfloch. Von Pia Masurczak.",
-   "u": "https://www.tagesschau.de/ausland/europa/tuerkei-iran-sanktionen-flugverbot-usa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T10:07:23+00:00"
-  },
-  {
-   "t": "Immer mehr Haushalte beziehen Wohngeld",
-   "s": "Die Bundesregierung will beim Wohngeld kürzen. Gleichzeitig steigt der Bedarf: Noch nie war die Zahl an Haushalten, die Wohngeld beziehen, so hoch wie Ende des vergangenen Jahres. Auch der Betrag stieg auf ein neues Hoch.",
-   "u": "https://www.tagesschau.de/inland/wohngeld-statistik-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T09:39:15+00:00"
-  },
-  {
-   "t": "Löst Vergesellschaftung das Wohnungsproblem?",
-   "s": "Die Linke will das Wohnungsproblem in Berlin mit einem nie eingesetzten Mittel angehen: der Vergesellschaftung privater Wohnbau-Konzerne. Ökonomen sprechen von Tabubruch. Von Heidi Radvilas.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/vergesellschaftung-wohnungsproblem-berlin-mietmarkt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T08:40:50+00:00"
   }
  ]
 }

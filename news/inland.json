@@ -1,7 +1,98 @@
 {
  "name": "Inland",
- "updated": "2026-09-27T23:48:21+00:00",
+ "updated": "2026-09-28T09:48:25+00:00",
  "items": [
+  {
+   "t": "Rechter Vordenker Curtis Yarvin: Der Nihilismus der Feeds",
+   "s": "Er hat Männern wie Peter Thiel seine Ideen eingeflüstert. Unter seinen Fans sind Tech-Bros, Postlibertäre und Faschos. Warum lieben sie Curtis Yarvin so sehr?",
+   "u": "https://taz.de/Rechter-Vordenker-Curtis-Yarvin/!6211089/",
+   "q": "taz",
+   "d": "2026-09-28T08:42:00+00:00"
+  },
+  {
+   "t": "Neues Bestattungsgesetz in Rheinland-Pfalz: Wie ist die Bilanz nach einem Jahr?",
+   "s": "Die Urne beigesetzt im Fluss, ein Erinnerungsstück gefertigt aus der Asche des Verstorbenen: Seit einem Jahr sind in Rheinland-Pfalz neue Bestattungsformen möglich. So fällt die erste Bilanz aus. Von Axel John.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/bestattungen-gesetz-bilanz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T08:32:55+00:00"
+  },
+  {
+   "t": "Nach Wortgefecht in Talkshow: Berliner Linke zeigt Innenminister Dobrindt an",
+   "s": "Bundesinnenminister Dobrindt wurde angezeigt - von der Berliner Linken. In einer Polit-Talkshow hatte er einen Versprecher der Moderatorin über Elif Eralp kommentiert. Die Partei wirft dem CSU-Politiker nun üble Nachrede und Beleidigung vor.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/berliner-linke-dobrindt-anzeige-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T08:00:31+00:00"
+  },
+  {
+   "t": "Gerüchte um Robert Habeck: Er will keine neue Partei gründen",
+   "s": "Der ehemalige Wirtschaftsminister muss sich in einer ARD-Sendung nochmal zu den Grünen bekennen. In die Politik will er „im Moment“ nicht noch mal zurück.",
+   "u": "https://taz.de/Geruechte-um-Robert-Habeck/!6216923/",
+   "q": "taz",
+   "d": "2026-09-28T06:47:00+00:00"
+  },
+  {
+   "t": "Serbiens Präsident Vučić tritt zurück: Weg frei für Kandidatur als Regierungschef",
+   "s": "Serbiens Präsident Vučić will an die Macht und leitet den nächsten Schritt dazu ein. Vor seinem Rücktritt begnadigte er noch 49 Verurteilte.",
+   "u": "https://taz.de/Serbiens-Praesident-Vucic-tritt-zurueck/!6216922/",
+   "q": "taz",
+   "d": "2026-09-28T06:37:00+00:00"
+  },
+  {
+   "t": "Streit über Antisemitismusvorwurf: Linke zeigt Dobrindt an",
+   "s": "Der Bundesinnenminister kommentiert in der Sendung „Maybrit Illner“ einen Versprecher über die Berliner Linke Elif Eralp. Die stellt Strafanzeige.",
+   "u": "https://taz.de/Streit-ueber-Antisemitismusvorwurf-Linke-zeigt-Dobrindt-an/!6216920/",
+   "q": "taz",
+   "d": "2026-09-28T06:09:00+00:00"
+  },
+  {
+   "t": "Ex-Vizekanzler Habeck dementiert Pläne für Parteigründung",
+   "s": "Will Robert Habeck eine neue Partei gründen? Darüber wird offenbar im politischen Berlin spekuliert. Bei Caren Miosga stellt der Ex-Vizekanzler klar, was er von diesem Gerücht hält.",
+   "u": "https://www.tagesschau.de/inland/habeck-dementiert-plaene-parteigruendung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T05:34:47+00:00"
+  },
+  {
+   "t": "75 Jahre Hüter der Verfassung: Diese Aufgaben hat das Bundesverfassungsgericht",
+   "s": "Das Bundesverfassungsgericht wacht über die Verfassung. Was sind seine Aufgaben? Und warum sitzt es in Karlsruhe? Und warum diese roten Roben? Ein Überblick von Michael-Matthias Nordhardt und Frank Bräutigam.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-jubilaeum-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T05:34:24+00:00"
+  },
+  {
+   "t": "75 Jahre Bundesverfassungsgericht: Wie Karlsruhe das Land geprägt hat",
+   "s": "Vor 75 Jahren hat das Bundesverfassungsgericht seine Arbeit aufgenommen. Mit seinen Urteilen hat es das Land und die Gesellschaft geprägt. Ein Festakt in Karlsruhe würdigt die Bedeutung des Gerichts. Von Kolja Schwartz.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-jubilaeum-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-28T05:34:18+00:00"
+  },
+  {
+   "t": "Private und gesetzliche Pflege: SPD-Politiker für mehr Gerechtigkeit",
+   "s": "Christos Pantazis will die Ungleichheit zwischen privat und gesetzlich Versicherten beenden. Die Finanzierung der Pflege müsse dauerhaft gesichert werden. Dazu braucht es aus Sicht des SPD-Gesundheitspolitikers grundlegende strukturelle Änderungen.Armbrüster, Tobias",
+   "u": "https://www.deutschlandfunk.de/debatte-um-pflegereform-interview-christos-pantazis-spd-gesundheitspolitiker-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-28T05:15:00+00:00"
+  },
+  {
+   "t": "Proteste für bezahlbaren Wohnraum: Enteignen – jetzt!",
+   "s": "In Madrid sind nach der Zwangsräumung einer 87-Jährigen Zehntausende auf die Straße gegangen. Gegen den Mietenwahnsinn helfen nur drastische Maßnahmen.",
+   "u": "https://taz.de/Proteste-fuer-bezahlbaren-Wohnraum/!6216750/",
+   "q": "taz",
+   "d": "2026-09-28T05:07:00+00:00"
+  },
+  {
+   "t": "Safe Abortion Day: Sichere Abtreibungen unter Druck",
+   "s": "Am Montag protestieren Fe­mi­nis­t:in­nen weltweit für legale und sichere Abtreibungen. Diese werden zunehmend infrage gestellt – auch in Deutschland.",
+   "u": "https://taz.de/Safe-Abortion-Day/!6215684/",
+   "q": "taz",
+   "d": "2026-09-28T05:05:00+00:00"
+  },
+  {
+   "t": "Berlin-Wahl - Banaszak (Grüne): Koalition gibt es nicht zum Nulltarif",
+   "s": "Grünenchef Banaszak stellt klare Bedingungen mit Blick auf eine mögliche Koalition mit der Linken in Berlin. Bei Themen wie Antisemitismus und Islamismus dürfe es keine zwei Meinungen geben. Einer Koalition mit der CDU erteilt er hingegen eine Absage.Armbrüster, Tobias",
+   "u": "https://www.deutschlandfunk.de/wie-umgehen-mit-der-linkspartei-interview-felix-banaszak-gruene-vorsitzender-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-28T04:50:00+00:00"
+  },
   {
    "t": "US-Zwischenwahlen in Alaska: Kandidatin zwischen Lachs und Öl",
    "s": "Mary Peltola will als erste Indigene in den US-Senat einziehen. Dabei vertritt sie Ansichten, die in ihrer Partei für Unmut sorgen könnten.",
@@ -78,97 +169,6 @@
    "u": "https://taz.de/Opposition-sammelt-sich-gegen-Netanjahu/!6216770/",
    "q": "taz",
    "d": "2026-09-27T14:03:00+00:00"
-  },
-  {
-   "t": "Russische Angriffe auf Saporischschja: Tote und Verletzte unweit der Front",
-   "s": "Im ostukrainischen Saporischschja sind am Wochenende zwei Menschen durch russische Drohnen getötet worden. Angegriffen wurden Wohnhäuser und zwei Kliniken.",
-   "u": "https://taz.de/Russische-Angriffe-auf-Saporischschja/!6216512/",
-   "q": "taz",
-   "d": "2026-09-27T13:29:00+00:00"
-  },
-  {
-   "t": "Krieg in Jemen: Huthi melden Tote und Dutzende Verletzte bei Angriff",
-   "s": "Die Gewalt in Jemen eskaliert weiter. Nachbar Saudi-Arabien scheint seinen Mekka-Verteidigungspakt mit der Türkei und Pakistan in den Fokus rücken zu wollen.",
-   "u": "https://taz.de/Krieg-im-Jemen/!6216736/",
-   "q": "taz",
-   "d": "2026-09-27T13:03:00+00:00"
-  },
-  {
-   "t": "Start der Sondierungsgespräche in Berlin: Sie wollen reden – miteinander statt übereinander",
-   "s": "In der neuen Woche beginnen Sondierungen über ein Linksbündnis. Die Grünen und die SPD haben eine Einladung der Linkspartei dazu angenommen.",
-   "u": "https://taz.de/Start-der-Sondierungsgespraeche-in-Berlin/!6215714/",
-   "q": "taz",
-   "d": "2026-09-27T12:14:00+00:00"
-  },
-  {
-   "t": "Nigerias Präsident schwänzt die UNO: Regieren „per Fernbedienung“ – geht das?",
-   "s": "Nigerias Präsident Bola Tinubu soll eigentlich Wahlkampf machen und bei der UNO sprechen. Stattdessen macht er ausgiebig Urlaub in Frankreich.",
-   "u": "https://taz.de/Nigerias-Praesident-schwaenzt-die-UNO/!6216668/",
-   "q": "taz",
-   "d": "2026-09-27T12:11:00+00:00"
-  },
-  {
-   "t": "Krise der CDU: Rhein will „Stadtbild“-Debatte wiederaufleben lassen",
-   "s": "Bundeskanzler Merz geriet vor einem Jahr wegen seiner Äußerung zum „Stadtbild“ unter Druck. Hessens Regierungschef hält die Debatte nach wie vor für richtig.",
-   "u": "https://taz.de/Rhein-will-Stadtbild-Debatte-fortsetzen/!6216716/",
-   "q": "taz",
-   "d": "2026-09-27T12:07:00+00:00"
-  },
-  {
-   "t": "Alternativer Westfälischer Friedenspreis: Kriegsdienstverweigerer-Netzwerk mit Friedenspreis geehrt",
-   "s": "Weil die Nato am 1. Oktober den renommierten Preis des Westfälischen Friedens erhält, wurde aus Protest dagegen in Münster ein alternativer Preis vergeben.",
-   "u": "https://taz.de/Kriegsdienstverweigerer-Netzwerk-mit-neuem-Friedenspreis-geehrt/!6216485/",
-   "q": "taz",
-   "d": "2026-09-27T10:37:00+00:00"
-  },
-  {
-   "t": "Ansturm auf Ceuta: Neue Zweige für ihr Grab",
-   "s": "Als Ende Juli kurz die Grenze nach Ceuta offen ist, versuchen Tausende Marokkaner:innen, nach Spanien zu kommen. Viele sterben, auch die 26-jährige Faten El Azizi.",
-   "u": "https://taz.de/Ansturm-auf-Ceuta/!6211147/",
-   "q": "taz",
-   "d": "2026-09-27T10:35:00+00:00"
-  },
-  {
-   "t": "UN-Gipfel in New York: Russland lässt deutsche Diplomatieversuche abblitzen",
-   "s": "Am Rande der UN-Generalversammlung traf Außenminister Wadephul auf seinen russischen Amtskollegen Lawrow. Von einer diplomatischen Lösung ist man weit entfernt.",
-   "u": "https://taz.de/UN-Gipfel-in-New-York/!6216439/",
-   "q": "taz",
-   "d": "2026-09-27T09:16:00+00:00"
-  },
-  {
-   "t": "Terrorangriff vom 7. Oktober 2023: Auch Ägypten soll Israel vor Hamas-Gefahr gewarnt haben",
-   "s": "Ägyptens Geheimdienstchef soll laut „Atlantic“ vor dem 7. Oktober 2023 in Israel gewesen sein – und über einen bevorstehenden Hamas-Angriff informiert haben.",
-   "u": "https://taz.de/Auch-Aegypten-soll-Israel-vor-Hamas-Gefahr-gewarnt-haben/!6216451/",
-   "q": "taz",
-   "d": "2026-09-27T07:49:00+00:00"
-  },
-  {
-   "t": "Rente nach 45 Beitragsjahren - sinnvoll oder ungerecht?",
-   "s": "Die Debatte über die Rentenreform wird hoch emotional geführt. Der Blick auf die Zahlen macht aber klar: Irgendetwas muss passieren. Denn das deutsche Rentensystem steht unter Druck. Von Jan-Peter Bartels.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/rentensystem-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-27T07:21:42+00:00"
-  },
-  {
-   "t": "Charisma in Krisenzeiten: Wie man die Massen gewinnt",
-   "s": "Elif Eralp und Ulrich Siegmund sind grundverschieden. Ihre jüngsten Erfolge hatten aber eine gleiche Zutat: Charisma. Was wir daraus für die Zukunft lernen können.",
-   "u": "https://taz.de/Charisma-in-Krisenzeiten/!6216346/",
-   "q": "taz",
-   "d": "2026-09-27T07:18:00+00:00"
-  },
-  {
-   "t": "Vor 20 Jahren: In Berlin tagt erstmals die Deutsche Islam Konferenz",
-   "s": "Vor 20 Jahren hat der damalige Bundesinnenminister Wolfgang Schäuble die Deutsche Islam Konferenz ins Leben gerufen. Sie hat zu wichtigen politischen Entwicklungen beigetragen, wird aber auch immer wieder kritisiert.Röther, Christian",
-   "u": "https://www.deutschlandfunk.de/27-09-2006-erste-deutsche-islam-konferenz-in-berlin-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-27T07:05:00+00:00"
-  },
-  {
-   "t": "Treffen am Rande der UN: Wadephul und Lawrow bleiben nach Gespräch uneins",
-   "s": "Ein Handschlag, gut 20 Minuten Gespräch – und grundlegender Dissens: Wadephul trifft in New York erstmals bilateral auf Russlands Außenminister.",
-   "u": "https://taz.de/Wadephul-und-Lawrow-bleiben-uneins/!6216434/",
-   "q": "taz",
-   "d": "2026-09-27T06:52:00+00:00"
   }
  ]
 }
