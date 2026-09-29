@@ -1,10 +1,52 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-29T09:51:21+00:00",
+ "updated": "2026-09-29T19:59:22+00:00",
  "items": [
   {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Putin ordnet weitere Aufstockung der russischen Armee an",
-   "s": "Russland ‌will die Militärausgaben in 2027 um 27 Prozent steigern. Nordkorea verstärkt laut Selenskyj seine Truppen in Russland. Wieder gab es heftige Angriffe auf Kyjiw.",
+   "t": "Mietenkampf in Spanien: Mieter machen Druck",
+   "s": "Nach massiven Protesten verschärft Spaniens Regierung den Mieterschutz. Zwangsräumungen werden erschwert, unbefristete Mietverträge sollen kommen.",
+   "u": "https://taz.de/Neuregulierung-des-Wohnungsmarktes-So-verschaerft-die-spanische-Regierung-den-Mieterschutz/!6217316/",
+   "q": "taz",
+   "d": "2026-09-29T18:14:00+00:00"
+  },
+  {
+   "t": "Britischer Premier Andy Burnham: Mit den Werten von 1945 Großbritannien reformieren",
+   "s": "Der britische Premierminister kündigt mehr „öffentliche Kontrolle“ der sozialen Infrastruktur an. Seine Parteitagsrede gerät stellenweise emotional.",
+   "u": "https://taz.de/Britischer-Premier-Andy-Burnham/!6217275/",
+   "q": "taz",
+   "d": "2026-09-29T15:48:00+00:00"
+  },
+  {
+   "t": "Andy Burnham auf dem Labour-Parteitag: Zurück in die gute alte Zeit",
+   "s": "Der britische Labour-Premierminister appelliert an die Werte von 1945. Damit will er der rechten Nostalgiewelle den Wind aus den Segeln nehmen.",
+   "u": "https://taz.de/Andy-Burnham-auf-dem-Labour-Parteitag/!6217263/",
+   "q": "taz",
+   "d": "2026-09-29T15:18:00+00:00"
+  },
+  {
+   "t": "Frankreich vor Präsidentschaftswahlen: RN-Chef Bardella soll „obsessiv“ antisemitisch gewesen sein",
+   "s": "Der Chef der französischen rechtsextremen Partei RN, Jordan Bardella, soll sich als junger Mann antisemitisch geäußert haben. Er spricht von „plumpen Fälschungen“.",
+   "u": "https://taz.de/Frankreich-vor-Praesidentschaftswahlen/!6217288/",
+   "q": "taz",
+   "d": "2026-09-29T12:04:00+00:00"
+  },
+  {
+   "t": "Labour-Parteitag in Großbritannien: Eine Prise Hoffnung",
+   "s": "Großbritanniens regierende Labour-Partei trifft sich zum ersten Parteitag unter Andy Burnham. Im Vergleich zur Ära Starmer ist die Stimmung besser.",
+   "u": "https://taz.de/Labour-Parteitag-in-Grossbritannien/!6217253/",
+   "q": "taz",
+   "d": "2026-09-29T11:57:00+00:00"
+  },
+  {
+   "t": "Urteil gegen ägyptische Geheimdienstler: Zehn Jahre Haft für Folter und Tötung von Giulio Regeni",
+   "s": "2016 wurde der 28-jährige italienische Doktorand Giulio Regeni in Kairo entführt. Wenige Tage später tauchte seine Leiche auf, voller Folterspuren.",
+   "u": "https://taz.de/Urteil-gegen-aegyptische-Geheimdienstler/!6217284/",
+   "q": "taz",
+   "d": "2026-09-29T11:54:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Estland wirft Russland Brandanschlag auf Rüstungshersteller vor",
+   "s": "Der Brand bei einem Hersteller von Militärsystemen war nach Angaben der Regierung in Tallinn ein russicher Sabotageakt. Wieder heftige Angriffe auf Kyjiw.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6217244/",
    "q": "taz",
    "d": "2026-09-29T08:05:00+00:00"
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Wadephul-und-Lawrow-bleiben-uneins/!6216434/",
    "q": "taz",
    "d": "2026-09-27T06:52:00+00:00"
-  },
-  {
-   "t": "Wirtschaft unter Putin: Und schleichend stirbt die russische Wirtschaft",
-   "s": "Mit Steuereinnahmen wollte der Kreml seine Kassen füllen. Nun gehen immer mehr Firmen pleite und die Kosten des Kriegs gegen die Ukraine bleiben hoch.",
-   "u": "https://taz.de/Wirtschaft-unter-Putin/!6211082/",
-   "q": "taz",
-   "d": "2026-09-26T16:49:00+00:00"
-  },
-  {
-   "t": "Erstversorgung im Ukrainekrieg: Schneller als der Notarzt",
-   "s": "Immer mehr Ukrainern ist klar, dass sie Grundkenntnisse in Erster Hilfe brauchen. Die Nachfrage nach Schulungen steigt rapide an.",
-   "u": "https://taz.de/Erstversorgung-im-Ukrainekrieg/!6215955/",
-   "q": "taz",
-   "d": "2026-09-26T15:27:00+00:00"
-  },
-  {
-   "t": "Drohnenangriff auf Bürohaus in Kyjiw: „Wir alle sind lebende Ziele für Putin“",
-   "s": "Die russischen Streitkräfte greifen ein Bürogebäude in der ukrainischen Hauptstadt Kyjiw an. Mindestens 7 Menschen sterben bei der Drohnenattacke.",
-   "u": "https://taz.de/Drohnenangriff-auf-Buerohaus-in-Kyjiw/!6216389/",
-   "q": "taz",
-   "d": "2026-09-25T17:06:00+00:00"
-  },
-  {
-   "t": "Maga-Druck auf Internationale Justiz: „Hände weg vom ICC“",
-   "s": "US-Präsident Trump fordert alle Staaten auf, aus dem Internationalen Strafgerichtshof auszusteigen, und kündigt Sanktionen an. Doch es gibt Widerstand.",
-   "u": "https://taz.de/Maga-Druck-auf-Internationale-Justiz/!6216300/",
-   "q": "taz",
-   "d": "2026-09-25T16:53:00+00:00"
-  },
-  {
-   "t": "Papstbesuch in Frankreich: Heiliger Vater ante portas",
-   "s": "Papst Leo XIV. kommt am Freitag für vier Tage nach Frankreich. Auch viele Nichtkatholiken wollen seine Botschaft zum Frieden und der KI-Debatte hören.",
-   "u": "https://taz.de/Papst-Besuch-in-Frankreich/!6216064/",
-   "q": "taz",
-   "d": "2026-09-25T05:17:00+00:00"
-  },
-  {
-   "t": "Baltische Länder gegen Oligarchen: Wenn die EU nicht mitmacht, machen sie es eben selbst",
-   "s": "Die baltischen Länder verhängen eigene Sanktionen gegen zwei russische Oligarchen. Von der Lockerung durch die Europäische Union sind sie nicht überzeugt.",
-   "u": "https://taz.de/Baltische-Laender-gegen-Oligarchen/!6215952/",
-   "q": "taz",
-   "d": "2026-09-24T16:26:00+00:00"
   }
  ]
 }

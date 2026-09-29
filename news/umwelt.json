@@ -1,7 +1,91 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-29T09:51:20+00:00",
+ "updated": "2026-09-29T19:59:22+00:00",
  "items": [
+  {
+   "t": "Upskirting-Videos auf der Wiesn: Ein Recht aufs Oktoberfest",
+   "s": "ARD und BR decken den Verkauf sexualisierter Videos von Frauen auf dem Teufelsrad auf. Sofort beginnt das Victim blaming. Dabei ist klar, wo die Schuld liegt.",
+   "u": "https://taz.de/Verkauf-sexualisierter-Videos-von-Frauen-auf-dem-Oktoberfest-Es-gibt-keinen-sicheren-Ort-und-keine-sichere-Kleidung/!6217331/",
+   "q": "taz",
+   "d": "2026-09-29T18:16:00+00:00"
+  },
+  {
+   "t": "Union und der Länderfinanzausgleich: Die Wunderwaffe gegen linke Politik",
+   "s": "Eine von der Linken regierte Hauptstadt will die Union nicht mitfinanzieren. Bei der AfD in Sachsen-Anhalt war CSU-Chef Söder nicht so rigoros.",
+   "u": "https://taz.de/Union-und-der-Laenderfinanzausgleich/!6217293/",
+   "q": "taz",
+   "d": "2026-09-29T18:15:00+00:00"
+  },
+  {
+   "t": "NRW-Ministerpräsident in der Türkei: Wüst „dankbar“ für Austausch mit Erdoğan",
+   "s": "Dem Regierungschef aus Nordrhein-Westfalen geht es bei seinem Türkeibesuch um die Wirtschaft. Und was ist mit seinen Ambitionen, Kanzler zu werden?",
+   "u": "https://taz.de/NRW-Ministerpraesident-in-der-Tuerkei/!6217317/",
+   "q": "taz",
+   "d": "2026-09-29T18:12:00+00:00"
+  },
+  {
+   "t": "Der Fall Schneider/Schwerte: Der Lieblingsprofessor, ein SS-Mann",
+   "s": "Mit neuer Identität lehrte Hans Ernst Schneider nach dem Krieg an der RWTH Aachen. Kurz vor seinem Tod wird er enttarnt. Trotzdem schwärmen Studierende noch.",
+   "u": "https://taz.de/Der-Fall-Schneider/Schwerte/!6213525/",
+   "q": "taz",
+   "d": "2026-09-29T18:11:00+00:00"
+  },
+  {
+   "t": "Ministerpräsident von Sachsen-Anhalt: Siegmund rechnet mit Unbekannten",
+   "s": "Die AfD in Sachsen-Anhalt hat ihre Meinung geändert. Auch ohne eigene Mehrheit will sich ihr Spitzenkandidat zur Wahl stellen.",
+   "u": "https://taz.de/Ministerpraesident-von-Sachsen-Anhalt/!6217269/",
+   "q": "taz",
+   "d": "2026-09-29T17:25:00+00:00"
+  },
+  {
+   "t": "Grüne streiten über Basisdemokratie: Nun darf nochmal abgestimmt werden",
+   "s": "Der Grünen-Vorstand will den Streit um seine Parteisatzung endgültig beenden. Der Parteitag soll einen Mitgliederentscheid aus dem Sommer bestätigen.",
+   "u": "https://taz.de/Gruene-streitet-ueber-Basisdemokratie/!6217274/",
+   "q": "taz",
+   "d": "2026-09-29T15:49:00+00:00"
+  },
+  {
+   "t": "Neuer Coup der Wirtschaftsministerin: Reiche ist der Redispatch der Regierung",
+   "s": "Wirtschaftsministerin Reiche tut alles dafür, die Wirtschaft zu bremsen. Ihr neuester Coup: keine Entschädigung für nicht eingespeiste Windenergie.",
+   "u": "https://taz.de/Der-naechste-Streich-von-Katherina-Reiche-um-die-Wirtschaft-zu-bremsen-Keine-Entschaedigung-fuer-nicht-eingespeiste-Windenergie/!6211825/",
+   "q": "taz",
+   "d": "2026-09-29T15:46:00+00:00"
+  },
+  {
+   "t": "Länderfinanzausgleich: Union droht Berlin mit Geldentzug",
+   "s": "Im Fall einer Links-Regierung will die Union Berlin Zahlungen aus Finanzausgleich und Hauptstadtvertrag kürzen. Doch dafür fehlt die rechtliche Grundlage.",
+   "u": "https://taz.de/Laenderfinanzausgleich/!6217310/",
+   "q": "taz",
+   "d": "2026-09-29T15:37:00+00:00"
+  },
+  {
+   "t": "Angriffe gegen Berliner Linke: Jetzt wollen alle mal was sagen",
+   "s": "Wahlverlierer CDU schießt auf allen Kanälen gegen die Berliner Linke. Aus Schleswig-Holstein kommt eine Attacke eher skurriler Art.",
+   "u": "https://taz.de/Angriffe-gegen-Berliner-Linke/!6217312/",
+   "q": "taz",
+   "d": "2026-09-29T15:25:00+00:00"
+  },
+  {
+   "t": "Pläne für Superreiche: Grüne wollen Millardäre ein bisschen zur Kasse bitten",
+   "s": "Die Partei möchte Kapital ab 500 Millionen Euro mit einer Zusatzabgabe von 2 bis 4 Prozent belegen. Doch für die Union dürfte selbst das schwierig werden.",
+   "u": "https://taz.de/Zusatzabgabe-Gruene-wollen-Millardaere-ein-bisschen-zur-Kasse-bitten/!6217325/",
+   "q": "taz",
+   "d": "2026-09-29T13:54:00+00:00"
+  },
+  {
+   "t": "Urteil in Sachsen-Anhalt: Kein Referendariat nach rechter Vergangenheit",
+   "s": "Ein wegen rechter Umtriebe aus der Bundeswehr entlassener Mann will ins Rechtsreferendariat. Das Oberverwaltungsgericht zweifelt an seiner Verfassungstreue.",
+   "u": "https://taz.de/Gericht-Kein-Referendariat-nach-rechter-Vergangenheit/!6217402/",
+   "q": "taz",
+   "d": "2026-09-29T12:53:00+00:00"
+  },
+  {
+   "t": "Lohnlücke zwischen Ost und West: DGB fordert mehr Tarifbindung in Ostdeutschland",
+   "s": "Jahrzehnte nach der deutschen Einheit sind Löhne im Osten immer noch schlechter als im Westen. Der Deutsche Gewerkschaftsbund kritisiert ein unzureichendes Bundesgesetz.",
+   "u": "https://taz.de/Lohnluecke-zwischen-Ost-und-West/!6217374/",
+   "q": "taz",
+   "d": "2026-09-29T12:40:00+00:00"
+  },
   {
    "t": "Koalition diskutiert über Pflegereform: CDU-Sozialpolitiker kritisiert „teure Wünsche“ der SPD",
    "s": "Karl-Josef Laumann drängt auf das Sparpaket für die Pflegeversicherung. Es soll das drohende Milliardendefizit der gesetzlichen Pflegeversicherung und steigende Beiträge verhindern.",
@@ -85,90 +169,6 @@
    "u": "https://taz.de/Wuest-auf-Erdogan-Besuch/!6217080/",
    "q": "taz",
    "d": "2026-09-28T15:39:00+00:00"
-  },
-  {
-   "t": "123 Stichwahlen in Niedersachsen: Grüne triumphieren, AfD verliert",
-   "s": "Grüne gewinnen nicht nur in ihren Hochburgen, die AfD bringt keine Kandidaten durch. Für SPD und CDU sehen die Stichwahl-Ergebnisse durchwachsen aus.",
-   "u": "https://taz.de/123-Stichwahlen-in-Niedersachsen/!6216956/",
-   "q": "taz",
-   "d": "2026-09-28T13:30:00+00:00"
-  },
-  {
-   "t": "Stichwahlen in Niedersachsen: Hannovers Rathaus bleibt grün",
-   "s": "Der grüne Oberbürgermeister Belit Onay siegt souverän über Axel von der Ohe (SPD) – die große Frage ist, wie man sich nun wieder zusammenrauft.",
-   "u": "https://taz.de/Stichwahlen-in-Niedersachsen/!6216927/",
-   "q": "taz",
-   "d": "2026-09-28T12:16:00+00:00"
-  },
-  {
-   "t": "Nach Aufregung im Netz: Amthor verzichtet auf Strandkorb im Kanzleramt",
-   "s": "Nach dem Jobwechsel ins Kanzleramt hat Philipp Amthor einen Strandkorb auf den Büro-Balkon bringen lassen. Nun lässt er das gute Stück wieder abtransportieren.",
-   "u": "https://taz.de/Nach-Aufregung-im-Netz/!6217060/",
-   "q": "taz",
-   "d": "2026-09-28T12:15:00+00:00"
-  },
-  {
-   "t": "Mögliche Bundespräsidentin Ilse Aigner: Frau Präsidentin wäre dann so weit",
-   "s": "Bayerns Landtagspräsidentin Aigner hat gute Karten im Rennen ums Bundespräsidentenamt. Doch noch gibt es Unwägbarkeiten. Eine heißt mal wieder Söder.",
-   "u": "https://taz.de/Moegliche-Bundespraesidentin-Ilse-Aigner/!6216822/",
-   "q": "taz",
-   "d": "2026-09-28T12:11:00+00:00"
-  },
-  {
-   "t": "Schon wieder ein Rücktritt: Jens Spahn gibt Sitz im Haushaltsausschuss ab",
-   "s": "Ex-Unions-Fraktionschef Spahn fehlte im Bundestag, ein Foto soll ihn stattdessen im Urlaub auf Sardinien zeigen. Auch in seiner Partei gibt es darüber Unmut.",
-   "u": "https://taz.de/Jens-Spahn-gibt-Sitz-im-Haushaltsausschuss-ab/!6216984/",
-   "q": "taz",
-   "d": "2026-09-28T10:37:00+00:00"
-  },
-  {
-   "t": "Streit um Pflegesparpläne: SPD stellt sich quer",
-   "s": "Die SPD-Bundestagsfraktion will die Sparpläne des Gesundheitsministers bei der Pflege blockieren. Nun gibt es Krisengespräche. Die SPD hat zwei Forderungen.",
-   "u": "https://taz.de/Streit-um-Pflegesparplaene/!6216982/",
-   "q": "taz",
-   "d": "2026-09-28T10:17:00+00:00"
-  },
-  {
-   "t": "Gerüchte um Robert Habeck: Er will keine neue Partei gründen",
-   "s": "Der ehemalige Wirtschaftsminister muss sich in einer ARD-Sendung nochmal zu den Grünen bekennen. In die Politik will er „im Moment“ nicht noch mal zurück.",
-   "u": "https://taz.de/Geruechte-um-Robert-Habeck/!6216923/",
-   "q": "taz",
-   "d": "2026-09-28T06:47:00+00:00"
-  },
-  {
-   "t": "Streit über Antisemitismusvorwurf: Linke zeigt Dobrindt an",
-   "s": "Der Bundesinnenminister kommentiert in der Sendung „Maybrit Illner“ einen Versprecher über die Berliner Linke Elif Eralp. Die stellt Strafanzeige.",
-   "u": "https://taz.de/Streit-ueber-Antisemitismusvorwurf-Linke-zeigt-Dobrindt-an/!6216920/",
-   "q": "taz",
-   "d": "2026-09-28T06:09:00+00:00"
-  },
-  {
-   "t": "Safe Abortion Day: Sichere Abtreibungen unter Druck",
-   "s": "Am Montag protestieren Fe­mi­nis­t:in­nen weltweit für legale und sichere Abtreibungen. Diese werden zunehmend infrage gestellt – auch in Deutschland.",
-   "u": "https://taz.de/Safe-Abortion-Day/!6215684/",
-   "q": "taz",
-   "d": "2026-09-28T05:05:00+00:00"
-  },
-  {
-   "t": "Sondierungsgespräche in Berlin: Zurück auf dem Boden der Realpolitik",
-   "s": "In der Hauptstadt nehmen Linke, Grüne und SPD jetzt Kurs auf ein Linksbündnis. Leicht wird es nicht.",
-   "u": "https://taz.de/Sondierungsgespraeche-in-Berlin/!6216763/",
-   "q": "taz",
-   "d": "2026-09-27T15:47:00+00:00"
-  },
-  {
-   "t": "Krise der CDU: Rhein will „Stadtbild“-Debatte wiederaufleben lassen",
-   "s": "Bundeskanzler Merz geriet vor einem Jahr wegen seiner Äußerung zum „Stadtbild“ unter Druck. Hessens Regierungschef hält die Debatte nach wie vor für richtig.",
-   "u": "https://taz.de/Rhein-will-Stadtbild-Debatte-fortsetzen/!6216716/",
-   "q": "taz",
-   "d": "2026-09-27T12:07:00+00:00"
-  },
-  {
-   "t": "Alternativer Westfälischer Friedenspreis: Kriegsdienstverweigerer-Netzwerk mit Friedenspreis geehrt",
-   "s": "Weil die Nato am 1. Oktober den renommierten Preis des Westfälischen Friedens erhält, wurde aus Protest dagegen in Münster ein alternativer Preis vergeben.",
-   "u": "https://taz.de/Kriegsdienstverweigerer-Netzwerk-mit-neuem-Friedenspreis-geehrt/!6216485/",
-   "q": "taz",
-   "d": "2026-09-27T10:37:00+00:00"
   }
  ]
 }

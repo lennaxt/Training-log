@@ -1,13 +1,48 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-29T09:51:18+00:00",
+ "updated": "2026-09-29T19:59:20+00:00",
  "items": [
   {
-   "t": "Marktbericht: Anleger können sich nicht zum Kauf durchringen",
-   "s": "Die Ölpreise steigen und belasten die globalen Aktienmärkte. Positive Impulse sind Fehlanzeige. Können neue Hoffnungen auf eine diplomatische Einigung zwischen den USA und Iran den Markt stützen?",
+   "t": "Wirtschaft vor acht vom 29.09.2926",
+   "s": "Wirtschaft vor acht vom 29.09.2926",
+   "u": "https://www.tagesschau.de/video/video-1657780.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T18:36:27+00:00"
+  },
+  {
+   "t": "Marktbericht: Anleger weiter zuversichtlich",
+   "s": "Am deutschen Aktienmarkt regiert die Hoffnung. Nachrichten über weitere Verhandlungen im Iran-Konflikt verhalfen dem DAX zu einem leichten Plus.",
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
    "q": "Tagesschau",
-   "d": "2026-09-29T08:29:27+00:00"
+   "d": "2026-09-29T16:37:28+00:00"
+  },
+  {
+   "t": "Sonntagsfahrverbot für Lkw bleibt vielerorts ausgesetzt",
+   "s": "Die Flüsse in Deutschland haben sich noch nicht von dem Extremsommer erholt. Weil die Pegelstände weiter niedrig sind, verlängern viele Bundesländer ihre Ausnahmen beim Sonntags- und Feiertagsfahrverbot für Lkw.",
+   "u": "https://www.tagesschau.de/wirtschaft/lkw-sonntagsfahrverbot-ausnahme-verlaengerung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T14:54:11+00:00"
+  },
+  {
+   "t": "Haushalte sind so reich wie nie - Vermögen ungleich verteilt",
+   "s": "Der KI-Boom an den Börsen hat das weltweite Geldvermögen im vergangenen Jahr auf einen Rekordwert getrieben. Die privaten Haushalte besaßen zum Jahresende ein Vermögen von 268,4 Billionen Euro.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/geldvermoegen-private-haushalte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T13:17:47+00:00"
+  },
+  {
+   "t": "KI außer Kontrolle: Wer haftet in so einem Fall eigentlich?",
+   "s": "Mehrere KI-Modelle haben zuletzt ungewolltes und nicht vorhergesehenes Verhalten gezeigt. Doch wer zahlt die Schäden, wenn KI-Agenten in fremde IT eindringen? Teilweise ist das juristisches Neuland.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/ki-ausbrueche-haftung-faq-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T12:44:40+00:00"
+  },
+  {
+   "t": "Hitzesommer schlägt sich auch an der Börse nieder",
+   "s": "Der auslaufende Hitzesommer hat tiefe Spuren in den Bilanzen vieler Unternehmen hinterlassen. Neben vielen Leidtragenden lassen sich an der Börse vereinzelt aber auch Gewinner des Extremwetters ausmachen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-hitzesommer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T12:31:39+00:00"
   },
   {
    "t": "Update Wirtschaft vom 29.09.2026",
@@ -15,6 +50,13 @@
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1657338.html",
    "q": "Tagesschau",
    "d": "2026-09-29T08:29:00+00:00"
+  },
+  {
+   "t": "US-Importverbote gegen Kanada ab heute in Kraft",
+   "s": "Ab heute treten neue Importverbote für kanadische Waren in die USA in Kraft. Betroffen sind unter anderem eine Reihe von Molkereiprodukten, alkoholischen Getränken und Motorrädern.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-zollstreit-104.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T07:19:37+00:00"
   },
   {
    "t": "Software-Problem verzögert Zulassung neuer Boeing-Variante",
@@ -29,13 +71,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/technologie/openai-ki-102.html",
    "q": "Tagesschau",
    "d": "2026-09-29T05:03:40+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 28.09.2026",
-   "s": "Wirtschaft vor acht vom 28.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1657180.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T18:31:17+00:00"
   },
   {
    "t": "\"Starship\"-Rakete erreicht erstmals Erdumlaufbahn",
@@ -134,41 +169,6 @@
    "u": "https://www.deutschlandfunk.de/steueroasen-deutschland-gewerbesteuer-kommunen-unternehmen-hebesatz-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-27T15:20:00+00:00"
-  },
-  {
-   "t": "Vergesellschaftung - Soziale Wohnungspolitik mit Risiken",
-   "s": "Die Linke will in Berlin Wohnungsbestände von großen Konzernen vergesellschaften. Nach dem Grundgesetz ist das prinzipiell möglich. Welche Folgen hätte das für die Mieten? Und ist es auch ein Mittel gegen die Wohnungsnot?",
-   "u": "https://www.deutschlandfunk.de/vergesellschaftung-enteignung-wohnungen-berlin-linke-elif-eralp-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-27T14:18:00+00:00"
-  },
-  {
-   "t": "KI-Entwickler OpenAI pausiert Training nach Zwischenfall",
-   "s": "Im Alltag ist KI für viele Menschen ein nützliches Werkzeug. Doch jenseits von Chatbots machen sich KI-Agenten immer wieder selbstständig und durchbrechen Grenzen. Bei OpenAI ist dies erneut passiert. Das Unternehmen pausiert deshalb die Entwicklung.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-27T09:12:24+00:00"
-  },
-  {
-   "t": "Halten Fertighäuser, was sie versprechen?",
-   "s": "Der Bau des eigenen Hauses ist teuer. Deshalb boomen Fertighäuser, denn sie versprechen Planbarkeit und Tempo - am besten noch mit Festpreis. Doch wie günstig und kalkulierbar ist das wirklich? Von A. Jancevski und L.-M. Hiltscher.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/fertighaus-bau-immobilien-wohnraum-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-27T09:10:56+00:00"
-  },
-  {
-   "t": "Warum die deutsche Offshore-Windenergiebranche in der Krise steckt",
-   "s": "Bei Windenergie-Firmen wachsen die Sorgen. Projekte fehlen, chinesische Konkurrenten unterbieten die Preise. Droht das Schicksal der Solarenergie-Branche, indem Firmen schließen und die Produktion nach China geht? Von N. Peerenboom.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/offshore-windparks-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-26T11:13:17+00:00"
-  },
-  {
-   "t": "Fachkräfte wetteifern auf der Weltmeisterschaft der Berufe",
-   "s": "In Shanghai laufen die Wettkämpfe der \"WorldSkills\". Die chinesische Metropole ist erstmals Austragungsort der Weltmeisterschaft der Berufe, bei der auch deutsche Fachkräfte am Start sind. Von Christoph Kober.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/world-skills-shanghai-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-26T06:00:40+00:00"
   }
  ]
 }

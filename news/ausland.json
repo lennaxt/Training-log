@@ -1,7 +1,84 @@
 {
  "name": "Ausland",
- "updated": "2026-09-29T09:51:16+00:00",
+ "updated": "2026-09-29T19:59:19+00:00",
  "items": [
+  {
+   "t": "Marokkos König ernennt erstmals eine Frau zur Ministerpräsidentin",
+   "s": "Als Favorit galt der populäre Chef des Königlichen Fußballverbandes. Doch Marokkos König ernannte eine Frau zur Regierungschefin - erstmals in der Geschichte des Landes: die bisheriger Wohnungsbauministerin El Mansouri.",
+   "u": "https://www.tagesschau.de/ausland/afrika/marokko-frau-regierungschefin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T19:11:36+00:00"
+  },
+  {
+   "t": "Schüler und Beamte protestieren gegen Sparkurs in Frankreich",
+   "s": "Schlechte Ausstattung, zu große Klassen, Ungleichheit: Seit Tagen machen Schüler in Frankreich bei Protesten ihrem Unmut Luft. Einige schlossen sich nun Beamten an, die gegen den Sparkurs der Regierung auf die Straße gingen. Von Julia Borutta.",
+   "u": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T18:25:01+00:00"
+  },
+  {
+   "t": "Burnham kündigt umfassende Sozialreformen für Großbritannien an",
+   "s": "Der britische Premierminister Burnham hat beim Parteitag von Labour umfassende politische Reformen angekündigt. Sie sollen langfristig die Lebenshaltungskosten senken und das Sozialsystem neu sortieren. Von Lisa-Maria Röhling.",
+   "u": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-rede-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T15:55:24+00:00"
+  },
+  {
+   "t": "Westjordanland: Siedler verhindern Rückkehr vertriebener Palästinenser",
+   "s": "Selbst Israels Premier schaltete sich in den Fall ein: Familie Tubassi wurde von jüdischen Siedlern aus ihrem Haus im Westjordanland vertrieben. Sie wehrte sich erfolgreich vor Gericht. Doch auch das half ihr nicht. Von Felicitas Boeselager.",
+   "u": "https://www.tagesschau.de/ausland/siedlergewalt-westjordanland-israel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T15:50:53+00:00"
+  },
+  {
+   "t": "Spanische Regierung will Mietverträge entfristen und Zwangsräumungen verbieten",
+   "s": "Angesichts der landesweiten Proteste hat die spanische Regierung zwei Dekrete gegen Wohnungsnot beschlossen. Die 87-Jährige, deren Zwangsräumung die Proteste ausgelöst hatte, konnte zurück in ihre Wohnung in Madrid.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-will-mietvertraege-entfristen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T14:29:56+00:00"
+  },
+  {
+   "t": "Estland macht Russland für Brandanschlag verantwortlich",
+   "s": "Estland wirft Russland Sabotage vor: Hinter einem Brandanschlag auf eine Rüstungsfirma in Tallinn steckt nach neuesten Erkenntnissen Russland. NATO-Chef Rutte rief die Bündnismitglieder auf, ruhig zu bleiben.",
+   "u": "https://www.tagesschau.de/ausland/estland-brandanschlag-russland-nato-ostflanke-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T13:44:47+00:00"
+  },
+  {
+   "t": "Nach schweren Drohnenangriffen: Saudi-arabische Ölpipeline offenbar wieder in Betrieb",
+   "s": "Saudi-Arabien hat laut Medienberichten die Ölexporte über die Ost-West-Pipeline wieder aufgenommen. Das Land hatte vorübergehend den Betrieb eingestellt, da die Pipeline bei Angriffen beschädigt wurde. Analysten erwarten bald volle Kapazität.",
+   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-ost-west-pipeline-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T13:35:10+00:00"
+  },
+  {
+   "t": "EU: Pro Bürger landen jährlich 129 Kilo Lebensmittel im Müll",
+   "s": "Jeder EU-Bürger wirft pro Jahr Dutzende Kilogramm an Lebensmitteln weg, wie eine neue Statistik zeigt. Dagegen soll vorgegangen werden - auf europäischer und nationaler Ebene.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-lebensmittel-muell-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T12:45:14+00:00"
+  },
+  {
+   "t": "Militär greift Markt in Myanmar an - mindestens 50 Tote",
+   "s": "Seit dem Militärputsch vor mehr als fünf Jahren herrscht in Myanmar ein andauernder bewaffneter Konflikt. Immer wieder geraten auch zivile Ziele ins Visier des Militärs. Diesmal attackierten Kampfjets einen Markt und eine Brücke.",
+   "u": "https://www.tagesschau.de/ausland/asien/luftangriffe-myanmar-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T12:23:05+00:00"
+  },
+  {
+   "t": "Kolumbiens Präsident macht karibisches Touristenmekka zur Kampfzone",
+   "s": "Für viele Reisende gilt die kolumbianische Karibikküste als Traumziel. Doch Kolumbiens neuer Präsident will die dort herrschenden Paramilitärs mit allen Mitteln zerschlagen. Und so wird die Region gerade zur Kampfzone. Von Jenny Barke.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kolumbien-kaempfe-touristengebiet-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T11:57:43+00:00"
+  },
+  {
+   "t": "Hinrichtungen in Iran: Geflüchtet, zurückgekehrt, zum Tode verurteilt",
+   "s": "Ali Zarei hat in Iran gegen das Regime protestiert, wurde verletzt und flüchtete nach Deutschland. Aus unbekannten Gründen kehrte er dann zurück - nun droht ihm die Hinrichtung. Von B. Esmaili und S. Govedarica.",
+   "u": "https://www.tagesschau.de/ausland/asien/iran-ali-zarei-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T10:31:09+00:00"
+  },
   {
    "t": "Australien: Walkadaver sorgt für Hai-Alarm am Stadtstrand von Perth",
    "s": "Ein Walkadaver sorgt an der Westküste Australiens für Aufregung. Direkt am beliebten Stadtstrand von Perth lockt der tote Buckelwal offenbar auch Haie an. Die Behörden haben reagiert - zwei Wochen nach einem tödlichen Haiangriff. Von F. Bahrdt.",
@@ -92,83 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-verteidigung-kallas-100.html",
    "q": "Tagesschau",
    "d": "2026-09-28T11:58:47+00:00"
-  },
-  {
-   "t": "Indien und Nepal: Viele Tote wegen Überschwemmungen",
-   "s": "Starke Regenfälle haben in Nordindien und Nepal schwere Überschwemmungen und Erdrutsche ausgelöst. Dabei wurden in beiden Ländern mehr als 80 Menschen getötet, zahlreiche werden noch vermisst. Hunderte Häuser wurden zerstört.",
-   "u": "https://www.tagesschau.de/ausland/asien/nepal-indien-flutkatastrophe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T11:51:03+00:00"
-  },
-  {
-   "t": "Nepal nach der Flutkatastrophe: \"Die ganze Lebensgrundlage ist weg\"",
-   "s": "Einen Monat nach der verheerenden Flut kämpfen die Menschen in Nepal noch immer gegen Schlamm, Zerstörung - und mit dem Verlust von Angehörigen. Tausende werden noch vermisst und die Angst vor der nächsten Katastrophe bleibt. Von F. Amler.",
-   "u": "https://www.tagesschau.de/ausland/asien/nepal-flutkatastrophe-lage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T08:46:47+00:00"
-  },
-  {
-   "t": "Israels Wahlkampf mit harten Bandagen - Ausschluss arabischer Parteien?",
-   "s": "In dieser Woche soll Israels Oberster Gerichtshof entscheiden, ob arabische Parteien von den Wahlen ausgeschlossen werden. Allein der Versuch des Ausschlusses sorgt für Verunsicherung und Wut. Von Bettina Meier.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahlen-parteien-arabisch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T03:54:40+00:00"
-  },
-  {
-   "t": "Zeltproteste gegen Wohnungsnot und hohe Mieten in Madrid",
-   "s": "Der Fall bewegt Spanien: Eine 87‑Jährige muss nach Jahrzehnten ihre Wohnung verlassen. Zehntausende demonstrierten in Madrid gegen die Wohnungskrise. Entsteht eine neue Protestbewegung? Von H.-G. Kellner.",
-   "u": "https://www.tagesschau.de/ausland/europa/madrid-proteste-wohnungsnot-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T01:22:23+00:00"
-  },
-  {
-   "t": "Serbiens Präsident Vucic tritt zurück",
-   "s": "Ein halbes Jahr vor Ende seines Mandats tritt Vucic als serbischer Präsident zurück. Mit dem Schritt will er vom Präsidialamt in das Amt des Premiers wechseln. Zuletzt gab es Massenproteste und politischen Druck. Von Silke Hahne.",
-   "u": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-27T23:13:56+00:00"
-  },
-  {
-   "t": "Umstrittener Marsch in Nordirland - Gegner blockieren Oranier-Parade",
-   "s": "Der protestantische Oranier-Orden wollte durch einen katholischen Teil der Stadt Portadown in Nordirland marschieren. Doch Gegner blockieren den Marsch. Es geht um eine Straße, die früher ein Unruhen-Brennpunkt war. Von Franziska Hoppen.",
-   "u": "https://www.tagesschau.de/ausland/europa/irland-proteste-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-27T18:34:10+00:00"
-  },
-  {
-   "t": "Terrorverdacht: Britische Polizei nimmt fünf Männer bei Militärstützpunkt fest",
-   "s": "Großeinsatz nach Sprengstoffverdacht: An dem auch von den USA genutzten britischen Militärstützpunkt Fairford sind fünf Männer festgenommen worden. Laut US-Präsident Trump wollten sie \"großen Schaden\" anrichten.",
-   "u": "https://www.tagesschau.de/ausland/festnahmen-grossbritannien-luftwaffenstuetzpunkt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-27T16:57:19+00:00"
-  },
-  {
-   "t": "Volksabstimmung in der Schweiz: Mehrheit gegen verschärfte Neutralität",
-   "s": "In einer Volksabstimmung hat sich in der Schweiz eine Mehrheit dagegen ausgesprochen, das Neutralitätsgebot für das eigene Land zu verschärfen. Ein Ergebnis, das in Russland für Unmut sorgen dürfte.",
-   "u": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-neutralitaet-106.html",
-   "q": "Tagesschau",
-   "d": "2026-09-27T14:30:59+00:00"
-  },
-  {
-   "t": "Polen: Wenn der Krieg näher kommt",
-   "s": "Drohnen und Raketen, die nah an der polnischen Grenze einschlagen - der Krieg gegen die Ukraine rückt spürbar an den Alltag der Menschen heran. Schutzräume und Warn-SMS gewinnen an Bedeutung. Wie ist die Stimmung vor Ort? Von P. Milling.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-grenzgebiet-ukraine-sorgen-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-27T12:01:01+00:00"
-  },
-  {
-   "t": "Wurde Israel von Ägypten vor Hamas-Überfall gewarnt?",
-   "s": "Der Hamas-Terrorangriff von 2023 beschäftigt Israel bis heute. Einem Bericht zufolge wurde Israel von Ägypten vor dem Angriff gewarnt. Premier Netanjahu bestreitet das, doch die Vorwürfe setzen ihn vor der anstehenden Wahl unter Druck.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-warnungen-hamas-ueberfall-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-27T11:27:48+00:00"
-  },
-  {
-   "t": "Südafrika: 17 Tote bei Schusswaffenangriff nahe Johannesburg",
-   "s": "Es gilt als eines der schwersten Gewaltverbrechen in Südafrika der vergangenen Jahre: Nahe der Metropole Johannesburg wurden bei einem Schusswaffenangriff 17 Menschen getötet. Auch bei Kapstadt gab es einen Angriff.",
-   "u": "https://www.tagesschau.de/ausland/afrika/suedafrika-schusswaffenangriff-johannesburg-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-27T09:10:40+00:00"
   }
  ]
 }
