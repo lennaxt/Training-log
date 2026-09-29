@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-28T21:14:43+00:00",
+ "updated": "2026-09-29T09:51:21+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Putin ordnet weitere Aufstockung der russischen Armee an",
+   "s": "Russland ‌will die Militärausgaben in 2027 um 27 Prozent steigern. Nordkorea verstärkt laut Selenskyj seine Truppen in Russland. Wieder gab es heftige Angriffe auf Kyjiw.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6217244/",
+   "q": "taz",
+   "d": "2026-09-29T08:05:00+00:00"
+  },
+  {
+   "t": "Nach Witzen über Erdoğan: 19 Monate Haft für Satiriker",
+   "s": "Der türkische Satiriker Deniz Göktaş scherzt über den Präsidenten und erhält prompt die Quittung. Vor Gericht lässt er sich nicht einschüchtern.",
+   "u": "https://taz.de/Nach-Witzen-ueber-Erdogan/!6217232/",
+   "q": "taz",
+   "d": "2026-09-29T07:34:00+00:00"
+  },
+  {
+   "t": "Nach Zwangsräumung in Madrid: Seniorin darf in Wohnung zurück",
+   "s": "Zehntausende hatten gegen die Zwangsräumung einer 87-Jährigen protestiert, die ihre Wohnung nach 70 Jahren verlassen musste. Jetzt kann sie zurückkehren.",
+   "u": "https://taz.de/Nach-Zwangsraeumung-Seniorin-darf-in-Wohnung-zurueck/!6217227/",
+   "q": "taz",
+   "d": "2026-09-29T05:56:00+00:00"
+  },
   {
    "t": "Krieg in der Ukraine: Viel Kritik, wenig Konkretes",
    "s": "Die EU wirft Russland mangelnden Friedenswillen vor. Beim Treffen der Verteidigungsminister bleiben konkrete Beschlüsse jedoch aus.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Baltische-Laender-gegen-Oligarchen/!6215952/",
    "q": "taz",
    "d": "2026-09-24T16:26:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: Schwerer Beschuss der ukrainischen Hauptstadt",
-   "s": "Schwere Explosionen erschütterten Kyjiw bei nächtlichem Raketenbeschuss. Mindestens zwei Menschen starben.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6215896/",
-   "q": "taz",
-   "d": "2026-09-24T07:05:00+00:00"
-  },
-  {
-   "t": "EU-Beitrittskandidat Montenegro: Europa im Herzen",
-   "s": "Montenegro stimmt heute über die Absetzung des Parlamentspräsidenten ab, weil er Serbiens Völkermörder Mladić ehrte. Die jungen Menschen sind indes längst weiter.",
-   "u": "https://taz.de/EU-Beitrittskandidat-Montenegro/!6215204/",
-   "q": "taz",
-   "d": "2026-09-24T06:50:00+00:00"
-  },
-  {
-   "t": "EU-Sanktionen gegen Russland: Oh là là, Oligarch",
-   "s": "Frankreich lässt einen russischen Oligarchen von der EU-Sanktionsliste streichen. Gleichzeitig lässt Aserbaidschan einen Franzosen frei. Der Deal sorgt für Kritik.",
-   "u": "https://taz.de/EU-Sanktionen-gegen-Russland/!6215667/",
-   "q": "taz",
-   "d": "2026-09-23T16:09:00+00:00"
   }
  ]
 }

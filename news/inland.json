@@ -1,10 +1,87 @@
 {
  "name": "Inland",
- "updated": "2026-09-28T21:14:38+00:00",
+ "updated": "2026-09-29T09:51:16+00:00",
  "items": [
   {
+   "t": "Koalition ringt um Kompromiss zur Pflegereform",
+   "s": "Die Zeit ist knapp: Morgen soll der Koalitionskompromiss zur Pflege stehen. Union und SPD versichern: Wir bekommen das hin. Doch die Zweifel der SPD am \"Kürzungspaket\" scheinen längst nicht ausgeräumt.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-koalition-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T09:16:20+00:00"
+  },
+  {
+   "t": "Jens Spahn: Vom politischen Instinkt verlassen",
+   "s": "Jens Spahn wird zum Hinterbänkler. Nach seinem Rückzug als Fraktionschef hat er auch im Haushaltsausschuss aufgegeben. Doch wie geht es jetzt weiter für ihn, der bisher nur den Weg nach oben kannte? Von Benjamin Großkopff.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-110.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T08:27:36+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Putin ordnet weitere Aufstockung der russischen Armee an",
+   "s": "Russland ‌will die Militärausgaben in 2027 um 27 Prozent steigern. Nordkorea verstärkt laut Selenskyj seine Truppen in Russland. Wieder gab es heftige Angriffe auf Kyjiw.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6217244/",
+   "q": "taz",
+   "d": "2026-09-29T08:05:00+00:00"
+  },
+  {
+   "t": "Nach Witzen über Erdoğan: 19 Monate Haft für Satiriker",
+   "s": "Der türkische Satiriker Deniz Göktaş scherzt über den Präsidenten und erhält prompt die Quittung. Vor Gericht lässt er sich nicht einschüchtern.",
+   "u": "https://taz.de/Nach-Witzen-ueber-Erdogan/!6217232/",
+   "q": "taz",
+   "d": "2026-09-29T07:34:00+00:00"
+  },
+  {
+   "t": "Koalition diskutiert über Pflegereform: CDU-Sozialpolitiker kritisiert „teure Wünsche“ der SPD",
+   "s": "Karl-Josef Laumann drängt auf das Sparpaket für die Pflegeversicherung. Es soll das drohende Milliardendefizit der gesetzlichen Pflegeversicherung und steigende Beiträge verhindern.",
+   "u": "https://taz.de/Koalition-diskutiert-ueber-Pflegereform/!6217231/",
+   "q": "taz",
+   "d": "2026-09-29T07:16:00+00:00"
+  },
+  {
+   "t": "Debattenkultur im Bundestag: Klöckner droht Störern im Bundestag mit Rauswurf",
+   "s": "Bundestagspräsidentin Klöckner hat vor wachsender Polarisierung im Parlament gewarnt und kündigte Konsequenzen für wiederholte Störungen an - notfalls drohe ganzen Fraktionen der Rauswurf. Sie kritisierte auch eine Inszenierung für Social Media.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/kloeckner-stoerer-bundestag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T06:58:00+00:00"
+  },
+  {
+   "t": "Warnung vor linker Bürgermeisterin: Unionsländer drohen Berlin mit Geldentzug",
+   "s": "Nach dem Wahlsieg in Berlin könnte die Linke die Regierung anführen. Unionsgeführte Bundesländer wollen dann die Finanzierung der Hauptstadt in Frage stellen.",
+   "u": "https://taz.de/Unionslaender-drohen-Berlin-bei-Linksregierung-mit-Geldentzug/!6217228/",
+   "q": "taz",
+   "d": "2026-09-29T06:26:00+00:00"
+  },
+  {
+   "t": "Nach Zwangsräumung in Madrid: Seniorin darf in Wohnung zurück",
+   "s": "Zehntausende hatten gegen die Zwangsräumung einer 87-Jährigen protestiert, die ihre Wohnung nach 70 Jahren verlassen musste. Jetzt kann sie zurückkehren.",
+   "u": "https://taz.de/Nach-Zwangsraeumung-Seniorin-darf-in-Wohnung-zurueck/!6217227/",
+   "q": "taz",
+   "d": "2026-09-29T05:56:00+00:00"
+  },
+  {
+   "t": "Digitale sexualisierte Gewalt: Frauen ziehen sich aus dem Netz zurück",
+   "s": "Weniger Bilder, weniger Posts – die Sorge vor sexualisierter Gewalt drängt Frauen aus dem Netz. Das ist demokratiegefährdend, warnt der Frauenrat.",
+   "u": "https://taz.de/Digitale-sexualisierte-Gewalt/!6216961/",
+   "q": "taz",
+   "d": "2026-09-29T05:26:00+00:00"
+  },
+  {
+   "t": "Ehemaliger deutscher Botschafter: Dialog mit Moskau markiert Grenzen",
+   "s": "Der frühere Moskau-Botschafter Rüdiger von Fritsch sieht keine Grundlage für Verhandlungen mit Russland. Das Treffen von Außenminister Wadephul mit seinem russischen Amtskollegen sei dennoch sinnvoll gewesen. Es habe Moskau klare Grenzen aufgezeigt.Klein, Bettina",
+   "u": "https://www.deutschlandfunk.de/interview-ruediger-v-fritsch-ehe-botschafter-in-moskau-zu-wadephul-lawrow-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-29T04:50:00+00:00"
+  },
+  {
+   "t": "Verteidigung im All: Bundeswehr und Rüstungsbranche bündeln Kräfte",
+   "s": "Moderne Streitkräfte sind von Satelliten abhängig - das Weltall wird für die Verteidigung wichtiger. Beim Netzwerk-Event \"Mission-K\" in Kalkar nähern sich Bundeswehr und Rüstungsbranche an. Kommen sie sich zu nah? Von O. Neuroth.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/ruestungsindustrie-weltraum-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T03:00:33+00:00"
+  },
+  {
    "t": "Rückzug von Spahn: Die CDU hat keinen Platz für Sonnenkönige",
-   "s": "Nur wenige Tage im neuen Job stolpert Jens Spahn über den nächsten Skandal und muss sich nach massiver Kritik zurück ziehen. Das macht Hoffnung.",
+   "s": "Nur wenige Tage im neuen Job stolpert Jens Spahn über den nächsten Skandal und muss sich nach massiver Kritik zurückziehen. Das macht Hoffnung.",
    "u": "https://taz.de/Rueckzug-von-Spahn/!6211810/",
    "q": "taz",
    "d": "2026-09-28T17:58:00+00:00"
@@ -17,7 +94,7 @@
    "d": "2026-09-28T17:57:00+00:00"
   },
   {
-   "t": "Debatte um Antisemitismus: Wie Berliner Ju­den*Jü­din­nen auf die Linke schauen",
+   "t": "Debatte um Antisemitismus: Wie Jüdinnen und Juden auf die Linke schauen",
    "s": "Deutschland streitet um echten und vermeintlichen Antisemitismus in der Berliner Linkspartei. Hier erzählen Ju­den*Jü­din­nen aus der Hauptstadt, wie sie dazu stehen.",
    "u": "https://taz.de/Wie-Berliner-Juden-und-Juedinnen-auf-die-Linke-schauen/!6216148/",
    "q": "taz",
@@ -88,87 +165,10 @@
   },
   {
    "t": "Wüst auf Erdoğan-Besuch: NRW-Chef auf Kanzlerprobefahrt",
-   "s": "Türkeireise mit Geschäftssinn: NRW-MP Wüst würdigt Beitrag türkischer Migranten in Deutschland bei Besuch des türkischen Präsidenten Erdoğan",
+   "s": "Überraschend besucht Hendrik Wüst (CDU) den türkischen Präsidenten Erdoğan. Dort würdigt er den Beitrag türkischer Migranten in der Bundesrepublik.",
    "u": "https://taz.de/Wuest-auf-Erdogan-Besuch/!6217080/",
    "q": "taz",
    "d": "2026-09-28T15:39:00+00:00"
-  },
-  {
-   "t": "Humanitäre Krise in Ukraine: Kaum Essen, kein Entkommen in Oleschky",
-   "s": "In der russisch besetzten Stadt Oleschky in der Südukraine sind die Menschen von Versorgung und Evakuierung abgeschnitten. Eine ukrainische Drohnenaktion bringt kurzfristig Hilfe.",
-   "u": "https://taz.de/Humanitaere-Krise-in-Ukraine/!6217026/",
-   "q": "taz",
-   "d": "2026-09-28T15:30:00+00:00"
-  },
-  {
-   "t": "75 Jahre BVerfG - Hüter der Grundrechte oder politischer Mitspieler?",
-   "s": "Kopftuchverbot, Soldaten als Mörder, Kruzifix – viele Urteile aus Karlsruhe haben große Debatten ausgelöst. Wie hat sich das Verhältnis des BVerfG zur Politik bis heute verändert? Und: Die Mietenkrise in Spanien führt zu Massenprotesten.Schulz, Josephine",
-   "u": "https://www.deutschlandfunk.de/75-jahre-bverfg-karlsruhe-grundrechte-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-28T15:00:19+00:00"
-  },
-  {
-   "t": "Seoul verlangt Entschuldigung: Südkorea wirft Ukraine Geheimnisverrat vor",
-   "s": "Zwischen Seoul und Kyjiw knirscht es. Auslöser ist der Umgang mit der Überstellung zweier in der Ukraine gefangener nordkoreanischer Soldaten nach Südkorea.",
-   "u": "https://taz.de/Seoul-verlangt-Entschuldigung/!6217014/",
-   "q": "taz",
-   "d": "2026-09-28T14:25:00+00:00"
-  },
-  {
-   "t": "Senatswahlen in Frankreich: Noch mehr rechte Männer im Altherrenklub",
-   "s": "Nach den Wahlen zur Hälfte der Senatssitze in Frankreich kann Marine Le Pens rechtsextremes Rassemblement National erstmals eine Fraktion bilden.",
-   "u": "https://taz.de/Senatswahlen-in-Frankreich/!6217010/",
-   "q": "taz",
-   "d": "2026-09-28T14:22:00+00:00"
-  },
-  {
-   "t": "SPD und Sozialverbände drängen auf Änderungen der geplanten Pflegereform",
-   "s": "Eigentlich soll das Bundeskabinett am Mittwoch die Pflegereform auf den Weg bringen. Doch die SPD fordert vor einem Treffen der Koalitionsspitzen am Abend erneut Änderungen. Auch Sozialverbände üben Kritik.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T14:20:19+00:00"
-  },
-  {
-   "t": "Drama um Regierungsbildung in Schweden: Politpoker in Stockholm",
-   "s": "Sozialdemokratin Magdalena Andersson gibt erst mal auf und bricht den Versuch ab, eine Regierung zu bilden. Die Hängepartie in Schweden geht weiter.",
-   "u": "https://taz.de/Drama-um-Regierungsbildung-in-Schweden/!6217013/",
-   "q": "taz",
-   "d": "2026-09-28T14:11:00+00:00"
-  },
-  {
-   "t": "US-Truppen verlassen Irak: Eine neue Phase der Ungewissheit",
-   "s": "Diktator Saddam Hussein ist gestürzt, die IS-Terrormiliz gilt als besiegt – nun zieht das US-Militär aus dem Irak ab. Von dauerhafter Stabilität ist das Land aber weit entfernt.",
-   "u": "https://taz.de/US-Truppen-ziehen-aus-dem-Irak-ab/!6217122/",
-   "q": "taz",
-   "d": "2026-09-28T13:31:00+00:00"
-  },
-  {
-   "t": "Mietenproteste in Spanien: „Dekret Maricarmen“ soll schnell kommen",
-   "s": "Ein Protestcamp gegen Wohnungsnot in Madrid setzt die Minderheitsregierung des spanischen Ministerpräsidenten Sánchez unter Druck – knapp ein Jahr vor den Parlamentswahlen.",
-   "u": "https://taz.de/Mietenkampf-in-Spanien/!6217017/",
-   "q": "taz",
-   "d": "2026-09-28T12:45:00+00:00"
-  },
-  {
-   "t": "Nach Aufregung im Netz: Amthor verzichtet auf Strandkorb im Kanzleramt",
-   "s": "Nach dem Jobwechsel ins Kanzleramt hat Philipp Amthor einen Strandkorb auf den Büro-Balkon bringen lassen. Nun lässt er das gute Stück wieder abtransportieren.",
-   "u": "https://taz.de/Nach-Aufregung-im-Netz/!6217060/",
-   "q": "taz",
-   "d": "2026-09-28T12:15:00+00:00"
-  },
-  {
-   "t": "Mögliche Bundespräsidentin Ilse Aigner: Frau Präsidentin wäre dann so weit",
-   "s": "Bayerns Landtagspräsidentin Aigner hat gute Karten im Rennen ums Bundespräsidentenamt. Doch noch gibt es Unwägbarkeiten. Eine heißt mal wieder Söder.",
-   "u": "https://taz.de/Moegliche-Bundespraesidentin-Ilse-Aigner/!6216822/",
-   "q": "taz",
-   "d": "2026-09-28T12:11:00+00:00"
-  },
-  {
-   "t": "Spahn verzichtet offenbar auf Sitz im Haushaltsausschuss",
-   "s": "Ex-Unionsfraktionschef Spahn will sich aus dem Haushaltsausschuss des Bundestags zurückziehen. \"Normales Arbeiten\" sei für ihn aktuell \"kaum möglich\", teilte er mit. Spahn steht wegen einer privaten Reise während der Sitzungszeit in der Kritik.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/spahn-verzicht-haushaltsausschuss-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T11:58:52+00:00"
   }
  ]
 }

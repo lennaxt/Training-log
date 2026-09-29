@@ -1,7 +1,35 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-28T21:14:40+00:00",
+ "updated": "2026-09-29T09:51:18+00:00",
  "items": [
+  {
+   "t": "Marktbericht: Anleger können sich nicht zum Kauf durchringen",
+   "s": "Die Ölpreise steigen und belasten die globalen Aktienmärkte. Positive Impulse sind Fehlanzeige. Können neue Hoffnungen auf eine diplomatische Einigung zwischen den USA und Iran den Markt stützen?",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T08:29:27+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 29.09.2026",
+   "s": "Update Wirtschaft vom 29.09.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1657338.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T08:29:00+00:00"
+  },
+  {
+   "t": "Software-Problem verzögert Zulassung neuer Boeing-Variante",
+   "s": "Der von wiederholten Pannen geplagte US-Flugzeugbauer Boeing hat einen Software-Fehler bei seinem Modell 737 MAX entdeckt. Dieser verzögert nun die Zulassung der neuen, größten Modellvariante weiter.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/boeing-software-probleme-zulassung-7373-max-10-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T06:43:52+00:00"
+  },
+  {
+   "t": "OpenAI stoppt Veröffentlichung von neuem KI-Modell wegen Sicherheitsbedenken",
+   "s": "Erneut hat ein KI-Modell des Unternehmens OpenAI in Tests zu eigenständig agiert - und wird daher aus Sicherheitsgründen vorerst nicht veröffentlicht. Auch in Tests anderer KI-Modelle hatte es bereits ähnliche Zwischenfälle gegeben.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/openai-ki-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T05:03:40+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 28.09.2026",
    "s": "Wirtschaft vor acht vom 28.09.2026",
@@ -18,17 +46,10 @@
   },
   {
    "t": "Russland stellt Metros Vermögenswerte unter Zwangsverwaltung",
-   "s": "Die Metro AG hat nach Beginn des Ukraine-Kriegs sein Geschäft in Russland weitergeführt. Jetzt hat der russische Präsident Putin diesen Teil des Handelskonzerns unter Zwangsverwaltung gestellt. Zuvor war es schon anderen Unternehmen so ergangen.",
+   "s": "Die Metro AG hat nach Beginn des Ukraine-Kriegs ihr Geschäft in Russland weitergeführt. Jetzt hat Präsident Putin diesen Teil des Konzerns unter Zwangsverwaltung gestellt. Zuvor war es schon anderen Unternehmen so ergangen.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-metro-vermoegenswerte-100.html",
    "q": "Tagesschau",
    "d": "2026-09-28T17:14:23+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX gibt nur wenig nach",
-   "s": "Trotz steigender Ölpreise hielt sich der DAX zum Wochenstart recht gut. Dabei stützte die Hoffnung auf weitere Gespräche zwischen den USA und Iran. Bewegung gab es bei kleineren Konzernen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-162.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T16:21:45+00:00"
   },
   {
    "t": "Europäische Verbraucherschützer mahnen Airlines ab",
@@ -78,13 +99,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/engpassberufe-einwanderer-100.html",
    "q": "Tagesschau",
    "d": "2026-09-28T09:20:23+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 28.09.2026",
-   "s": "Update Wirtschaft vom 28.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1656680.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T08:05:19+00:00"
   },
   {
    "t": "KI-Boom und Rüstung bringen Rekord bei Milliarden-Start-ups",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/world-skills-shanghai-100.html",
    "q": "Tagesschau",
    "d": "2026-09-26T06:00:40+00:00"
-  },
-  {
-   "t": "Rückruf bei VW, Audi und Seat: Das müssen Besitzer jetzt wissen",
-   "s": "Eine fehlerhafte Schraube kann bei Autos des VW-Konzerns zu einem Ausfall der Lenkung führen. Allein in Deutschland müssen fast eine Million Fahrzeuge vorsorglich in die Werkstatt. Welche Modelle betroffen sind - und was zu tun ist.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-audi-seat-lenkungsausfall-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-25T16:44:11+00:00"
-  },
-  {
-   "t": "Spritpreisdeckel - Warnungen vor Risiken und Nebenwirkungen",
-   "s": "Die Bundesregierung will Autofahrer angesichts steigender Spritpreise gleich doppelt entlasten. Neben dem gerade beschlossenen Tankrabatt ist auch ein sogenannter Spritpreisdeckel in der Diskussion. Es wäre ein ungewöhnlicher Eingriff in den Markt.",
-   "u": "https://www.deutschlandfunk.de/tankrabatt-spritpreisbremse-entlastung-benzinpreis-auto-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-25T15:42:00+00:00"
   }
  ]
 }

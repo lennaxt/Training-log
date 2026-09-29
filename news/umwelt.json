@@ -1,10 +1,31 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-28T21:14:42+00:00",
+ "updated": "2026-09-29T09:51:20+00:00",
  "items": [
   {
+   "t": "Koalition diskutiert über Pflegereform: CDU-Sozialpolitiker kritisiert „teure Wünsche“ der SPD",
+   "s": "Karl-Josef Laumann drängt auf das Sparpaket für die Pflegeversicherung. Es soll das drohende Milliardendefizit der gesetzlichen Pflegeversicherung und steigende Beiträge verhindern.",
+   "u": "https://taz.de/Koalition-diskutiert-ueber-Pflegereform/!6217231/",
+   "q": "taz",
+   "d": "2026-09-29T07:16:00+00:00"
+  },
+  {
+   "t": "Warnung vor linker Bürgermeisterin: Unionsländer drohen Berlin mit Geldentzug",
+   "s": "Nach dem Wahlsieg in Berlin könnte die Linke die Regierung anführen. Unionsgeführte Bundesländer wollen dann die Finanzierung der Hauptstadt in Frage stellen.",
+   "u": "https://taz.de/Unionslaender-drohen-Berlin-bei-Linksregierung-mit-Geldentzug/!6217228/",
+   "q": "taz",
+   "d": "2026-09-29T06:26:00+00:00"
+  },
+  {
+   "t": "Digitale sexualisierte Gewalt: Frauen ziehen sich aus dem Netz zurück",
+   "s": "Weniger Bilder, weniger Posts – die Sorge vor sexualisierter Gewalt drängt Frauen aus dem Netz. Das ist demokratiegefährdend, warnt der Frauenrat.",
+   "u": "https://taz.de/Digitale-sexualisierte-Gewalt/!6216961/",
+   "q": "taz",
+   "d": "2026-09-29T05:26:00+00:00"
+  },
+  {
    "t": "Rückzug von Spahn: Die CDU hat keinen Platz für Sonnenkönige",
-   "s": "Nur wenige Tage im neuen Job stolpert Jens Spahn über den nächsten Skandal und muss sich nach massiver Kritik zurück ziehen. Das macht Hoffnung.",
+   "s": "Nur wenige Tage im neuen Job stolpert Jens Spahn über den nächsten Skandal und muss sich nach massiver Kritik zurückziehen. Das macht Hoffnung.",
    "u": "https://taz.de/Rueckzug-von-Spahn/!6211810/",
    "q": "taz",
    "d": "2026-09-28T17:58:00+00:00"
@@ -17,7 +38,7 @@
    "d": "2026-09-28T17:57:00+00:00"
   },
   {
-   "t": "Debatte um Antisemitismus: Wie Berliner Ju­den*Jü­din­nen auf die Linke schauen",
+   "t": "Debatte um Antisemitismus: Wie Jüdinnen und Juden auf die Linke schauen",
    "s": "Deutschland streitet um echten und vermeintlichen Antisemitismus in der Berliner Linkspartei. Hier erzählen Ju­den*Jü­din­nen aus der Hauptstadt, wie sie dazu stehen.",
    "u": "https://taz.de/Wie-Berliner-Juden-und-Juedinnen-auf-die-Linke-schauen/!6216148/",
    "q": "taz",
@@ -60,7 +81,7 @@
   },
   {
    "t": "Wüst auf Erdoğan-Besuch: NRW-Chef auf Kanzlerprobefahrt",
-   "s": "Türkeireise mit Geschäftssinn: NRW-MP Wüst würdigt Beitrag türkischer Migranten in Deutschland bei Besuch des türkischen Präsidenten Erdoğan",
+   "s": "Überraschend besucht Hendrik Wüst (CDU) den türkischen Präsidenten Erdoğan. Dort würdigt er den Beitrag türkischer Migranten in der Bundesrepublik.",
    "u": "https://taz.de/Wuest-auf-Erdogan-Besuch/!6217080/",
    "q": "taz",
    "d": "2026-09-28T15:39:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Kriegsdienstverweigerer-Netzwerk-mit-neuem-Friedenspreis-geehrt/!6216485/",
    "q": "taz",
    "d": "2026-09-27T10:37:00+00:00"
-  },
-  {
-   "t": "Besuch beim Merkel-Portrait: Mit ihr wollen immer noch alle ein Foto",
-   "s": "Im Berliner Bode-Museum ist die Sehnsucht zum Bild geworden. Angela Merkels Porträt kommt gut an – und füllt eine Leerstelle namens Friedrich Merz.",
-   "u": "https://taz.de/Besuch-beim-Merkel-Portrait/!6211066/",
-   "q": "taz",
-   "d": "2026-09-27T07:47:00+00:00"
-  },
-  {
-   "t": "Sondierungen in Berlin: SPD will mit Linken über Regierungsbildung sprechen",
-   "s": "Die SPD sieht hohe Hürden für eine Koalition mit der Linken unter Elif Eralp in der Hauptstadt. Die Grünen machen ihre Teilnahme von klaren Zusagen abhängig.",
-   "u": "https://taz.de/Sondierungen-in-Berlin/!6216437/",
-   "q": "taz",
-   "d": "2026-09-27T07:30:00+00:00"
-  },
-  {
-   "t": "Charisma in Krisenzeiten: Wie man die Massen gewinnt",
-   "s": "Elif Eralp und Ulrich Siegmund sind grundverschieden. Ihre jüngsten Erfolge hatten aber eine gleiche Zutat: Charisma. Was wir daraus für die Zukunft lernen können.",
-   "u": "https://taz.de/Charisma-in-Krisenzeiten/!6216346/",
-   "q": "taz",
-   "d": "2026-09-27T07:18:00+00:00"
   }
  ]
 }
