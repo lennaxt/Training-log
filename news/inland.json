@@ -1,20 +1,83 @@
 {
  "name": "Inland",
- "updated": "2026-09-30T00:28:26+00:00",
+ "updated": "2026-09-30T09:43:32+00:00",
  "items": [
   {
-   "t": "Kasachischer Präsident beim Kanzler: Öl, Rohstoffe und Putin",
-   "s": "Mehr Öl aus Kasachstan - beim Besuch von Präsident Tokajew in Berlin betonte Kanzler Merz das deutsche Interesse. Generell soll die wirtschaftliche Zusammenarbeit enger werden. Auch der russische Angriffskrieg war Thema. Von Christina Nagel.",
-   "u": "https://www.tagesschau.de/inland/merz-praesident-kasachstan-oel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T19:44:05+00:00"
+   "t": "Rechtsextremismus in Lippoldisberg: Buchhändlerin wegen Nazi-Propaganda verurteilt",
+   "s": "Das Amtsgericht Kassel glaubt einer extrem rechten Verlegerin, dass sie mit braunem Gedankengut nichts zu tun habe. Dabei hatte sie NS-Propaganda vorrätig.",
+   "u": "https://taz.de/Rechtsextremismus-in-Lippoldisberg/!6217470/",
+   "q": "taz",
+   "d": "2026-09-30T09:14:00+00:00"
   },
   {
    "t": "Reformdebatte in der schwarz-roten Koalition",
    "s": "Die Bundesregierung beteuert es nahezu täglich: Deutschland braucht Reformen. Noch in diesem Herbst hat Schwarz-Rot viel vor - und droht sich in Diskussionen zu verlieren. Was auf der To-do-Liste steht. Von Jan Willems.",
    "u": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-29T18:25:40+00:00"
+   "d": "2026-09-30T08:45:42+00:00"
+  },
+  {
+   "t": "Nach Kritik an Israel: Mamdani stellt Plan gegen Antisemitismus in New York vor",
+   "s": "Der Plan des New Yorker Bürgermeisters sieht zusätzliche Mittel für die Sicherheit von Synagogen vor. Den israelischen Konsul überzeugt das nicht.",
+   "u": "https://taz.de/Nach-Kritik-an-Israel/!6217597/",
+   "q": "taz",
+   "d": "2026-09-30T08:13:00+00:00"
+  },
+  {
+   "t": "Razzia wegen Geldwäsche-Netzwerk um \"Hells Angels\"",
+   "s": "Die Polizei durchsucht seit dem frühen Morgen Wohnungen in mehreren Bundesländern und im europäischen Ausland: Im Visier haben die Behörden ein internationales Geldwäsche-Netzwerk um die \"Hells Angels\".",
+   "u": "https://www.tagesschau.de/inland/razzia-geldwaesche-banden-hells-angels-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T08:12:20+00:00"
+  },
+  {
+   "t": "Todesstrafe in den USA: Hinrichtung in Tennessee steht bevor",
+   "s": "In dem US-Bundesstaat soll am Mittwoch zum ersten Mal seit über 200 Jahren eine Frau exekutiert werden. Ein Gnadengesuch der Verurteilten wurde abgelehnt.",
+   "u": "https://taz.de/Todesstrafe-in-den-USA/!6217574/",
+   "q": "taz",
+   "d": "2026-09-30T07:41:00+00:00"
+  },
+  {
+   "t": "Vor den Kabinettsberatungen: Langes Ringen um geplante Pflegereform nicht zu Ende",
+   "s": "Bis zuletzt verhandeln Union und SPD über die Pflegereform – und ob der Gesetzentwurf von Gesundheitsminister Linnemann wie geplant im Kabinett beraten wird.",
+   "u": "https://taz.de/Vor-den-Kabinettsberatungen/!6217569/",
+   "q": "taz",
+   "d": "2026-09-30T06:14:00+00:00"
+  },
+  {
+   "t": "Intensivpfleger Ricardo Lange: „Pflege ist eine Investition“",
+   "s": "Pfleger Ricardo Lange kritisiert Kürzungen im Zuge der Pflegereform: Weniger Pflegekräfte erhöhen die Komplikationsrate, sagt er. Das führe zu längeren Krankenhausaufenthalten und höheren Kosten. Personaleinsparungen seien daher der falsche Schritt.Zerback, Sarah",
+   "u": "https://www.deutschlandfunk.de/alltag-als-pflegekraft-interview-mit-pfleger-ricardo-lange-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-30T06:11:00+00:00"
+  },
+  {
+   "t": "Vergabe der Alternativen Nobelpreise: Menschen in der Krise eine Stimme geben",
+   "s": "Den Alternativen Nobelpreis erhalten Initiativen in Georgien, Pakistan, USA und dem Süden Afrikas. Eine Preisträgerin setzt sich gegen die Übermacht der KI-Konzerne ein.",
+   "u": "https://taz.de/Vergabe-der-Alternativen-Nobelpreise/!6217358/",
+   "q": "taz",
+   "d": "2026-09-30T05:15:00+00:00"
+  },
+  {
+   "t": "Bundesfamilienministerin erwägt Kehrtwende bei Elterngeldreform",
+   "s": "Familienministerin Prien macht Eltern Hoffnungen: Möglicherweise soll das Elterngeld doch nicht auf zwölf Monate gekürzt werden. Auch die Aufteilung der Elterngeldmonate stehe auf dem Prüfstand, so Prien. Für ihre Kürzungspläne gab es viel Kritik.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/prien-kuerzungen-elterngeld-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T02:03:26+00:00"
+  },
+  {
+   "t": "Premierminister Andy Burnham: neuer Hoffnungsträger für Großbritannien",
+   "s": "Großbritanniens neuer Regierungschef verbreitet mit seiner ersten Parteitagsrede Optimismus. Der Labour-Chef kündigt Reformen an etwa für den Wohnungssektor und die Sozialsysteme. Bis zur Umsetzung dürfte es noch dauern, so die Journalistin McElvoy.Grieß, Thielko",
+   "u": "https://www.deutschlandfunk.de/gb-hope-again-hat-andy-burnham-geliefert-interview-mit-anne-mcelvoy-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-29T21:08:50+00:00"
+  },
+  {
+   "t": "Kasachischer Präsident beim Kanzler: Öl, Rohstoffe und Putin",
+   "s": "Mehr Öl aus Kasachstan - beim Besuch von Präsident Tokajew in Berlin betonte Kanzler Merz das deutsche Interesse. Generell soll die wirtschaftliche Zusammenarbeit enger werden. Auch der russische Angriffskrieg war Thema. Von Christina Nagel.",
+   "u": "https://www.tagesschau.de/inland/merz-praesident-kasachstan-oel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T19:44:05+00:00"
   },
   {
    "t": "Upskirting-Videos auf der Wiesn: Ein Recht aufs Oktoberfest",
@@ -106,69 +169,6 @@
    "u": "https://taz.de/Volksbegehren-in-Bayern/!6213931/",
    "q": "taz",
    "d": "2026-09-29T15:18:00+00:00"
-  },
-  {
-   "t": "Andy Burnham auf dem Labour-Parteitag: Zurück in die gute alte Zeit",
-   "s": "Der britische Labour-Premierminister appelliert an die Werte von 1945. Damit will er der rechten Nostalgiewelle den Wind aus den Segeln nehmen.",
-   "u": "https://taz.de/Andy-Burnham-auf-dem-Labour-Parteitag/!6217263/",
-   "q": "taz",
-   "d": "2026-09-29T15:18:00+00:00"
-  },
-  {
-   "t": "Kursdebatte - Muss die CDU sozialer werden?",
-   "s": "Mehr Gerechtigkeit? Härterer Ton gegen Migration? Mehr Gefühl? Nach den Wahlniederlagen steht die CDU zwischen Kurswechselforderungen und Festhalten an den Reformplänen. Und: Der deutsche Schulpreis wurde vergeben. Was läuft gut in unseren Schulen?Schulz, Josephine",
-   "u": "https://www.deutschlandfunk.de/kursdebatte-muss-die-cdu-sozialer-werden-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-29T15:00:18+00:00"
-  },
-  {
-   "t": "Bürgerkrieg in Myanmar: Luftangriff auf einen Markt tötet rund 50 Menschen",
-   "s": "In Myanmar versucht die Militärregierung mit einer Offensive, die stärkste Rebellenorganisation zurückzudrängen. Getötet werden vor allem Zivilisten.",
-   "u": "https://taz.de/Buergerkrieg-in-Myanmar/!6217256/",
-   "q": "taz",
-   "d": "2026-09-29T14:38:00+00:00"
-  },
-  {
-   "t": "Was wird aus den Eigenanteilen in der Pflege?",
-   "s": "Das Ringen um einen Kompromiss bei der Pflegereform dauert an. Die SPD lehnt Leistungskürzungen ab und verlangt einen \"Deckel\" für den Eigenanteil. Wie er funktionieren soll - und was eigentlich vorgesehen ist. Von Ilanit Spinner.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/pflegedeckel-eigenanteil-reform-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T14:28:39+00:00"
-  },
-  {
-   "t": "Pläne für Superreiche: Grüne wollen Millardäre ein bisschen zur Kasse bitten",
-   "s": "Die Partei möchte Kapital ab 500 Millionen Euro mit einer Zusatzabgabe von 2 bis 4 Prozent belegen. Doch für die Union dürfte selbst das schwierig werden.",
-   "u": "https://taz.de/Zusatzabgabe-Gruene-wollen-Millardaere-ein-bisschen-zur-Kasse-bitten/!6217325/",
-   "q": "taz",
-   "d": "2026-09-29T13:54:00+00:00"
-  },
-  {
-   "t": "Urteil in Sachsen-Anhalt: Kein Referendariat nach rechter Vergangenheit",
-   "s": "Ein wegen rechter Umtriebe aus der Bundeswehr entlassener Mann will ins Rechtsreferendariat. Das Oberverwaltungsgericht zweifelt an seiner Verfassungstreue.",
-   "u": "https://taz.de/Gericht-Kein-Referendariat-nach-rechter-Vergangenheit/!6217402/",
-   "q": "taz",
-   "d": "2026-09-29T12:53:00+00:00"
-  },
-  {
-   "t": "Lohnlücke zwischen Ost und West: DGB fordert mehr Tarifbindung in Ostdeutschland",
-   "s": "Jahrzehnte nach der deutschen Einheit sind Löhne im Osten immer noch schlechter als im Westen. Der Deutsche Gewerkschaftsbund kritisiert ein unzureichendes Bundesgesetz.",
-   "u": "https://taz.de/Lohnluecke-zwischen-Ost-und-West/!6217374/",
-   "q": "taz",
-   "d": "2026-09-29T12:40:00+00:00"
-  },
-  {
-   "t": "Frankreich vor Präsidentschaftswahlen: RN-Chef Bardella soll „obsessiv“ antisemitisch gewesen sein",
-   "s": "Der Chef der französischen rechtsextremen Partei RN, Jordan Bardella, soll sich als junger Mann antisemitisch geäußert haben. Er spricht von „plumpen Fälschungen“.",
-   "u": "https://taz.de/Frankreich-vor-Praesidentschaftswahlen/!6217288/",
-   "q": "taz",
-   "d": "2026-09-29T12:04:00+00:00"
-  },
-  {
-   "t": "Labour-Parteitag in Großbritannien: Eine Prise Hoffnung",
-   "s": "Großbritanniens regierende Labour-Partei trifft sich zum ersten Parteitag unter Andy Burnham. Im Vergleich zur Ära Starmer ist die Stimmung besser.",
-   "u": "https://taz.de/Labour-Parteitag-in-Grossbritannien/!6217253/",
-   "q": "taz",
-   "d": "2026-09-29T11:57:00+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-30T00:28:30+00:00",
+ "updated": "2026-09-30T09:43:38+00:00",
  "items": [
+  {
+   "t": "Vergabe der Alternativen Nobelpreise: Menschen in der Krise eine Stimme geben",
+   "s": "Den Alternativen Nobelpreis erhalten Initiativen in Georgien, Pakistan, USA und dem Süden Afrikas. Eine Preisträgerin setzt sich gegen die Übermacht der KI-Konzerne ein.",
+   "u": "https://taz.de/Vergabe-der-Alternativen-Nobelpreise/!6217358/",
+   "q": "taz",
+   "d": "2026-09-30T05:15:00+00:00"
+  },
   {
    "t": "Mietenkampf in Spanien: Mieter machen Druck",
    "s": "Nach massiven Protesten verschärft Spaniens Regierung den Mieterschutz. Zwangsräumungen werden erschwert, unbefristete Mietverträge sollen kommen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Ansturm-auf-Ceuta/!6211147/",
    "q": "taz",
    "d": "2026-09-27T10:35:00+00:00"
-  },
-  {
-   "t": "Treffen am Rande der UN: Wadephul und Lawrow bleiben nach Gespräch uneins",
-   "s": "Ein Handschlag, gut 20 Minuten Gespräch – und grundlegender Dissens: Wadephul trifft in New York erstmals bilateral auf Russlands Außenminister.",
-   "u": "https://taz.de/Wadephul-und-Lawrow-bleiben-uneins/!6216434/",
-   "q": "taz",
-   "d": "2026-09-27T06:52:00+00:00"
   }
  ]
 }

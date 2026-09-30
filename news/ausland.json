@@ -1,13 +1,48 @@
 {
  "name": "Ausland",
- "updated": "2026-09-30T00:28:26+00:00",
+ "updated": "2026-09-30T09:43:33+00:00",
  "items": [
   {
+   "t": "Ukrainische Behörden melden mehrere Tote durch Angriffe auf Kiew",
+   "s": "Durch russische Drohnen- und Raketenangriffe auf die Stadt und Region Kiew sind laut ukrainischen Behörden mehrere Menschen getötet und weitere verletzt worden. In Polen wurde der Betrieb zweier Flughäfen zeitweise eingestellt.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-kiew-134.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T09:20:40+00:00"
+  },
+  {
    "t": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
-   "s": "Seit Wochen wird weltweit über Risiken und Beschränkungen Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen sich freiwillig selbst kontrollieren.",
+   "s": "Seit Wochen wird weltweit über Risiken und Beschränkungen von Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen sich freiwillig selbst kontrollieren.",
    "u": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-29T23:02:24+00:00"
+   "d": "2026-09-30T07:59:56+00:00"
+  },
+  {
+   "t": "US-Truppen ziehen ab - Im Irak beginnt eine neue Ära",
+   "s": "Im Irak ist es der Schlusspunkt nach einer Epoche. Nach mehr als 20 Jahren endete heute die Präsenz des US-Militärs. Doch das bedeutet nicht, dass die irakische Armee die alleinige Kontrolle übernimmt. Viele Akteure mischen weiter mit. Von A. Osius.",
+   "u": "https://www.tagesschau.de/ausland/asien/irak-usa-truppenabzug-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T07:13:56+00:00"
+  },
+  {
+   "t": "Vergewaltigungsvorwürfe an US-Elite-Uni Cornell werden neu untersucht",
+   "s": "Vor etwa zwei Jahren wurde eine Gruppenvergewaltigung an der US-Elite-Uni Cornell angezeigt - ohne große Konsequenzen. Nun meldet sich die junge Frau erneut zu Wort und der Fall wird neu aufgerollt. Von Ute Schyns.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kritik-cornell-vorwuerfe-vergewaltigung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T07:08:37+00:00"
+  },
+  {
+   "t": "Preisträgerinnen des Alternativen Nobelpreises bekannt gegeben",
+   "s": "In Stockholm sind die Preisträgerinnen des Right Livelihood Award bekannt gegeben worden - oft auch Alternativer Nobelpreis genannt. Die Auszeichnung geht in diesem Jahr ausschließlich an Frauen und von Frauen geführte Organisationen. Von J. Sinram.",
+   "u": "https://www.tagesschau.de/ausland/europa/preistraeger-right-livelihood-award-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T04:54:58+00:00"
+  },
+  {
+   "t": "Ukrainische Wirtschaft durch Krieg unter Druck",
+   "s": "Russland hat seine Angriffe auf die Ukraine seit Wochen verstärkt. Eine große Belastung ist das auch für die Wirtschaft: Brennende Einkaufszentren und Lagerhallen, unterbrochene Logistikketten fordern Unternehmen heraus. Von M. Dugge.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-unternehmen-trotz-krieg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T02:06:47+00:00"
   },
   {
    "t": "Burnham kündigt auf Labour-Parteitag Reformen an",
@@ -18,7 +53,7 @@
   },
   {
    "t": "Marokkos König ernennt erstmals eine Frau zur Ministerpräsidentin",
-   "s": "Als Favorit galt der populäre Chef des Königlichen Fußballverbandes. Doch Marokkos König ernannte eine Frau zur Regierungschefin - erstmals in der Geschichte des Landes: die bisheriger Wohnungsbauministerin El Mansouri.",
+   "s": "Als Favorit galt der populäre Chef des Königlichen Fußballverbandes. Doch Marokkos König ernannte eine Frau zur Regierungschefin - erstmals in der Geschichte des Landes: die bisherige Wohnungsbauministerin El Mansouri.",
    "u": "https://www.tagesschau.de/ausland/afrika/marokko-frau-regierungschefin-100.html",
    "q": "Tagesschau",
    "d": "2026-09-29T19:11:36+00:00"
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/papst-leo-in-metz-100.html",
    "q": "Tagesschau",
    "d": "2026-09-28T17:30:16+00:00"
-  },
-  {
-   "t": "Regierungsbildung in Schweden: Andersson gibt auf - kommt jetzt Kristersson?",
-   "s": "Die Parlamentswahl haben die Sozialdemokraten gewonnen. Doch die Bemühungen von Parteichefin Andersson um eine Regierung sind gescheitert. Erhält nun Schwedens bisheriger Ministerpräsident Kristersson seine Chance? Von Jana Sinram.",
-   "u": "https://www.tagesschau.de/ausland/europa/schweden-regierungsbildung-112.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T16:05:59+00:00"
-  },
-  {
-   "t": "Luftwaffenstützpunkt in Großbritannien: Festgenommene sind Briten",
-   "s": "Nach dem möglichen Anschlagsversuch nahe eines britischen Luftwaffenstützpunktes gibt es neue Erkenntnisse. Die Festgenommenen sind Briten - unter Auflagen wurden sie freigelassen. Die Polizei prüft einen möglichen Auftrag eines \"fremden Staats\".",
-   "u": "https://www.tagesschau.de/ausland/europa/grossbritannien-festgenommene-sind-briten-militaerbasis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T15:37:31+00:00"
-  },
-  {
-   "t": "Akademie der Wissenschaften in Kiew steht nach russischem Angriff in Flammen",
-   "s": "Nach einer neuen russischen Angriffswelle brennt das historische Gebäude der Nationalen Akademie der Wissenschaften in Kiew. Es gibt mindestens eine Tote, Rettungskräfte suchen nach weiteren Opfern. Auch andere Landesteile wurden beschossen.",
-   "u": "https://www.tagesschau.de/ausland/europa/russische-angriffe-kiew-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T14:43:48+00:00"
-  },
-  {
-   "t": "Ramaphosa will \"alle Register\" gegen Gewalt in Südafrika ziehen",
-   "s": "Am Wochenende starben in Südafrika mindestens 28 Menschen durch Schusswaffen. Sicherheitsexperten sehen ein Muster aus Gewaltbereitschaft, organisiertem Verbrechen und schwacher Polizei. Präsident Ramaphosa kündigt harte Maßnahmen an. Von S. Ueberbach.",
-   "u": "https://www.tagesschau.de/ausland/afrika/suedafrika-unruhen-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T14:39:04+00:00"
-  },
-  {
-   "t": "Polen investiert massiv in die Drohnenabwehr an der Ostgrenze",
-   "s": "In Ostpolen, im Grenzgebiet zur Ukraine, ist die Lage angespannt. Eine effektive Drohnenabwehr wird für das Land immer wichtiger. Nun baut Polen im Eiltempo ein komplexes System auf. Von Palina Milling.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-drohnen-abwehr-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T14:11:06+00:00"
   }
  ]
 }

@@ -1,27 +1,55 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-30T00:28:27+00:00",
+ "updated": "2026-09-30T09:43:34+00:00",
  "items": [
+  {
+   "t": "Marktbericht: KI sorgt für Rückenwind bei Tech-Werten",
+   "s": "Der DAX ist positiv in den Handel gestartet. Auftrieb kommt durch die gute Stimmung in der weltweiten Technologiebranche. Die ist einmal mehr getrieben vom Hype um KI.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T09:22:36+00:00"
+  },
+  {
+   "t": "Tanken in Deutschland war noch nie so teuer wie im September",
+   "s": "Die durchschnittlichen Preise an Tankstellen in Deutschland waren noch nie höher als im September. Für den Rest des Jahres dürften die Preise für Autofahrerinnen und Autofahrer durch den \"Tankrabatt\" aber sinken.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/september-tanken-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T08:23:56+00:00"
+  },
+  {
+   "t": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
+   "s": "Seit Wochen wird weltweit über Risiken und Beschränkungen von Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen sich freiwillig selbst kontrollieren.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T07:59:56+00:00"
+  },
+  {
+   "t": "Deutschlandticket wird wohl wieder teurer",
+   "s": "Heute soll über den künftigen Preis für das Deutschlandticket entschieden werden. Einem Medienbericht zufolge könnte es 2027 fast vier Euro mehr kosten. Von Verbänden kommt bereits Kritik.",
+   "u": "https://www.tagesschau.de/wirtschaft/deutschlandticket-preis-108.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T06:13:10+00:00"
+  },
+  {
+   "t": "Hat die Schufa ihr Transparenz-Versprechen gebrochen?",
+   "s": "Vollkommen transparent, verständlich und nachvollziehbar: So sollte der neue Schufa-Score sein, mit dem Millionen Verbraucherinnen und Verbraucher bewertet werden. Doch Recherchen von NDR und SZ zeigen: Das war offenbar nicht mehr als ein leeres Versprechen.",
+   "u": "https://www.tagesschau.de/investigativ/ndr/schufa-score-auskunftei-verbraucher-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T04:00:51+00:00"
+  },
+  {
+   "t": "US-Verbrauchervertrauen sinkt auf tiefsten Stand seit 2014",
+   "s": "Kurz vor den Zwischenwahlen in den USA sinkt das Vertrauen der Verbraucher deutlich - auf den tiefsten Stand seit 2014. Gründe für die schlechte Stimmung sind steigende Preise und die Lage auf dem Arbeitsmarkt. Von A. Schneider.",
+   "u": "https://www.tagesschau.de/wirtschaft/usa-verbrauchervertrauen-einbruch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T03:35:20+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 29.09.2926",
    "s": "Wirtschaft vor acht vom 29.09.2926",
    "u": "https://www.tagesschau.de/video/video-1657780.html",
    "q": "Tagesschau",
    "d": "2026-09-29T18:36:27+00:00"
-  },
-  {
-   "t": "Marktbericht: Anleger weiter zuversichtlich",
-   "s": "Am deutschen Aktienmarkt regiert die Hoffnung. Nachrichten über weitere Verhandlungen im Iran-Konflikt verhalfen dem DAX zu einem leichten Plus.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-164.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T16:37:28+00:00"
-  },
-  {
-   "t": "Sonntagsfahrverbot für Lkw bleibt vielerorts ausgesetzt",
-   "s": "Die Flüsse in Deutschland haben sich noch nicht von dem Extremsommer erholt. Weil die Pegelstände weiter niedrig sind, verlängern viele Bundesländer ihre Ausnahmen beim Sonntags- und Feiertagsfahrverbot für Lkw.",
-   "u": "https://www.tagesschau.de/wirtschaft/lkw-sonntagsfahrverbot-ausnahme-verlaengerung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T14:54:11+00:00"
   },
   {
    "t": "Haushalte sind so reich wie nie - Vermögen ungleich verteilt",
@@ -38,13 +66,6 @@
    "d": "2026-09-29T12:44:40+00:00"
   },
   {
-   "t": "Hitzesommer schlägt sich auch an der Börse nieder",
-   "s": "Der auslaufende Hitzesommer hat tiefe Spuren in den Bilanzen vieler Unternehmen hinterlassen. Neben vielen Leidtragenden lassen sich an der Börse vereinzelt aber auch Gewinner des Extremwetters ausmachen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-hitzesommer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T12:31:39+00:00"
-  },
-  {
    "t": "Update Wirtschaft vom 29.09.2026",
    "s": "Update Wirtschaft vom 29.09.2026",
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1657338.html",
@@ -52,8 +73,8 @@
    "d": "2026-09-29T08:29:00+00:00"
   },
   {
-   "t": "US-Importverbote gegen Kanada ab heute in Kraft",
-   "s": "Ab heute treten neue Importverbote für kanadische Waren in die USA in Kraft. Betroffen sind unter anderem eine Reihe von Molkereiprodukten, alkoholischen Getränken und Motorrädern.",
+   "t": "US-Importverbote gegen Kanada in Kraft",
+   "s": "Für kanadische Waren sind neue Importverbote in die USA in Kraft getreten. Betroffen sind unter anderem eine Reihe von Molkereiprodukten, alkoholischen Getränken und Motorrädern.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-zollstreit-104.html",
    "q": "Tagesschau",
    "d": "2026-09-29T07:19:37+00:00"
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/energie/solarstrom-produktion-rekord-2026-100.html",
    "q": "Tagesschau",
    "d": "2026-09-28T06:18:50+00:00"
-  },
-  {
-   "t": "Lebensmittelpreise: Droht die nächste Inflationswelle?",
-   "s": "An den Rohstoffbörsen steigen die Preise für Weizen, Mais und Zucker kräftig - im deutschen Supermarkt ist davon bislang kaum etwas angekommen. Doch Experten warnen: Das ist nur eine Frage der Zeit. Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/lebensmittelpreise-weizen-mais-zucker-inflation-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T04:00:07+00:00"
-  },
-  {
-   "t": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
-   "s": "Eine sechsstellige Summe kosten Kinder ihre Eltern bis zum 18. Geburtstag. Allerdings müssen Eltern das nicht ganz alleine finanzieren. Denn der Staat unterstützt Familien in Deutschland mit zahlreichen Leistungen. Von L.-M. Hiltscher.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-27T20:02:02+00:00"
-  },
-  {
-   "t": "Gewerbesteueroasen - Standortwettbewerb auf Kosten von Kommunen",
-   "s": "Steueroasen gibt es nicht nur auf den Cayman Islands, sondern auch in Deutschland. Sie sind legal, führen aber auch zu Missbrauch durch Unternehmer. Leidtragende sind die Kommunen.",
-   "u": "https://www.deutschlandfunk.de/steueroasen-deutschland-gewerbesteuer-kommunen-unternehmen-hebesatz-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-27T15:20:00+00:00"
   }
  ]
 }
