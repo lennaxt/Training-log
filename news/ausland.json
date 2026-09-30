@@ -1,13 +1,62 @@
 {
  "name": "Ausland",
- "updated": "2026-09-30T09:43:33+00:00",
+ "updated": "2026-09-30T20:02:40+00:00",
  "items": [
+  {
+   "t": "Flydubai-Flug nach Tel Aviv: Was über den Vorfall bekannt ist",
+   "s": "Nach dem gewaltsamen Vorfall im Cockpit eines Flydubai-Flugzeugs auf dem Weg nach Tel Aviv geht die israelische Regierung von einem versuchten Terroranschlag aus. Was über den Zwischenfall bekannt ist - und was nicht.",
+   "u": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T19:40:15+00:00"
+  },
+  {
+   "t": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
+   "s": "Großbritannien hat nach Angaben von Premier Burnham Hinweise, dass Iran in den Vorfall nahe dem Luftwaffenstützpunkt Fairford verwickelt ist. Teheran bestreitet jegliche Beteiligung. Viele Details sind weiter unklar.",
+   "u": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T18:07:15+00:00"
+  },
+  {
+   "t": "Erdölraffinerie in Kenia soll Afrikas Wirtschaft einen Schub geben",
+   "s": "Mit Erdöl kennt sich Aliko Dangote aus: Der reichste Afrikaner betreibt in Nigeria die größte Raffinerie des Kontinents. Nun soll eine weitere in Kenia dazukommen. Dangote verfolgt damit große Pläne. Von K. Bensch.",
+   "u": "https://www.tagesschau.de/ausland/afrika/kenia-erdoel-raffinerie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T17:23:51+00:00"
+  },
+  {
+   "t": "Frankreich: Antisemitismus-Vorwürfe gegen LePens Parteichef Bardella",
+   "s": "Ein investigatives Portal erhebt schwere Vorwürfe gegen Jordan Bardella, Chef des rechtsnationalen Rassemblement National. In seinen Anfängen als Politiker soll er antisemitische Textnachrichten verschickt haben. Von J. Borutta.",
+   "u": "https://www.tagesschau.de/ausland/europa/bardella-vorwuerfe-antisemitismus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T16:59:44+00:00"
+  },
+  {
+   "t": "Versuchter Terror? Gewaltvorfall in Cockpit von Flydubai-Maschine",
+   "s": "An Bord einer Maschine von Dubai nach Tel Aviv hat ein Pilot auf seinen Kollegen mit einem Messer eingestochen. 180 Israelis waren an Bord. Israels Regierung spricht bereits von einem Anschlagsversuch.",
+   "u": "https://www.tagesschau.de/ausland/asien/flydubai-notlandung-terrorverdacht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T15:55:45+00:00"
+  },
   {
    "t": "Ukrainische Behörden melden mehrere Tote durch Angriffe auf Kiew",
    "s": "Durch russische Drohnen- und Raketenangriffe auf die Stadt und Region Kiew sind laut ukrainischen Behörden mehrere Menschen getötet und weitere verletzt worden. In Polen wurde der Betrieb zweier Flughäfen zeitweise eingestellt.",
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-kiew-134.html",
    "q": "Tagesschau",
-   "d": "2026-09-30T09:20:40+00:00"
+   "d": "2026-09-30T15:46:53+00:00"
+  },
+  {
+   "t": "EU will krisenfeste Kommunikation für Europas Rettungsdienste",
+   "s": "Meist scheitert die grenzübergreifende Kommunikation von Polizei und Rettungsdiensten in Europa an technischen Problemen. Das will die EU-Kommission jetzt ändern - gerade auch für Krisenfälle. Von Andreas Meyer-Feist.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-plan-kommunikation-krisenfall-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T15:03:58+00:00"
+  },
+  {
+   "t": "Flydubai-Maschine muss nach Vorfall an Bord notlanden",
+   "s": "Auf dem Weg nach Tel Aviv musste eine Maschine der Airline Flydubai in Saudi-Arabien notlanden. Zwischen den Piloten soll es eine Auseinandersetzung gegeben haben. An Bord der Maschine waren laut Berichten 180 Menschen.",
+   "u": "https://www.tagesschau.de/ausland/asien/flydubai-notlandung-106.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T13:10:21+00:00"
   },
   {
    "t": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
@@ -120,55 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/kolumbien-kaempfe-touristengebiet-100.html",
    "q": "Tagesschau",
    "d": "2026-09-29T11:57:43+00:00"
-  },
-  {
-   "t": "Hinrichtungen in Iran: Geflüchtet, zurückgekehrt, zum Tode verurteilt",
-   "s": "Ali Zarei hat in Iran gegen das Regime protestiert, wurde verletzt und flüchtete nach Deutschland. Aus unbekannten Gründen kehrte er dann zurück - nun droht ihm die Hinrichtung. Von B. Esmaili und S. Govedarica.",
-   "u": "https://www.tagesschau.de/ausland/asien/iran-ali-zarei-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T10:31:09+00:00"
-  },
-  {
-   "t": "Australien: Walkadaver sorgt für Hai-Alarm am Stadtstrand von Perth",
-   "s": "Ein Walkadaver sorgt an der Westküste Australiens für Aufregung. Direkt am beliebten Stadtstrand von Perth lockt der tote Buckelwal offenbar auch Haie an. Die Behörden haben reagiert - zwei Wochen nach einem tödlichen Haiangriff. Von F. Bahrdt.",
-   "u": "https://www.tagesschau.de/ausland/ozeanien/australien-perth-gestrandeter-wal-hai-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T03:59:31+00:00"
-  },
-  {
-   "t": "Nach Zwangsräumung in Madrid: 87-Jährige darf in ihre Wohnung zurück",
-   "s": "Die 87-jährige Mieterin, deren Wohnung zwangsgeräumt wurde, soll nach Hause zurückkehren können. Nach landesweiten Protesten will die spanische Regierung nun ein Dekret beschließen - gegen steigende Mieten und Wohnungsnot. Von H.-G. Kellner.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-rentnerin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T00:31:37+00:00"
-  },
-  {
-   "t": "NRW-Landeschef Wüst trifft überraschend Erdogan in Türkei",
-   "s": "Nordrhein-Westfalens Ministerpräsident Wüst ist für drei Tage zu Besuch in der Türkei. Anlass ist das 65-jährige Jubiläum des Gastarbeiter-Abkommens. Für viele überraschend traf Wüst dort Präsident Erdogan.",
-   "u": "https://www.tagesschau.de/ausland/asien/hendrik-wuest-erdogan-tuerkei-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T19:05:03+00:00"
-  },
-  {
-   "t": "Türkei: \"Gesellschaft soll Angst vor queeren Menschen bekommen\"",
-   "s": "In der Türkei gehen die Behörden derzeit verstärkt gegen die LGBTQI-Community vor. Menschenrechtler sprechen von einer Kampagne der Kriminalisierung, Betroffene haben Angst vor noch mehr Stigmatisierung. Von Katharina Willinger.",
-   "u": "https://www.tagesschau.de/ausland/asien/tuerkei-kriminalisierung-lgbt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T18:54:46+00:00"
-  },
-  {
-   "t": "Griechenland will während EU-Ratsvorsitz Abschiebezentrum in Afrika einrichten",
-   "s": "Im Sommer 2027 übernimmt Griechenland den EU-Ratsvorsitz. Für diese Zeit kündigte die Regierung nun an, ein europäisches Abschiebezentrum in Afrika einzurichten. Angeblich hat man sich sogar schon auf ein Land geeinigt. Von J. Riemann.",
-   "u": "https://www.tagesschau.de/ausland/europa/griechenland-will-abschiebezentren-in-afrika-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T18:34:20+00:00"
-  },
-  {
-   "t": "Papst in Metz - Eine Rede an Europas Gewissen",
-   "s": "Papst Leo XIV. hat Europa zum Festhalten an Völkerrecht, Dialog und Multilateralismus aufgerufen. Zum Abschluss seiner Frankreich-Reise äußerte er auch Kritik, die in Richtung US-Präsident Trump gerichtet sein dürfte. Von Cai Rienäcker.",
-   "u": "https://www.tagesschau.de/ausland/europa/papst-leo-in-metz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T17:30:16+00:00"
   }
  ]
 }

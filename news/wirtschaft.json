@@ -1,13 +1,62 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-09-30T09:43:34+00:00",
+ "updated": "2026-09-30T20:02:41+00:00",
  "items": [
   {
-   "t": "Marktbericht: KI sorgt für Rückenwind bei Tech-Werten",
-   "s": "Der DAX ist positiv in den Handel gestartet. Auftrieb kommt durch die gute Stimmung in der weltweiten Technologiebranche. Die ist einmal mehr getrieben vom Hype um KI.",
+   "t": "Wirtschaft vor acht vom 30.09.2026",
+   "s": "Wirtschaft vor acht vom 30.09.2026",
+   "u": "https://www.tagesschau.de/video/video-1658324.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T18:36:16+00:00"
+  },
+  {
+   "t": "Verträge gekündigt: Volkswagen steht vor neuer Tarifschlacht",
+   "s": "Die VW-Geschäftsführung hat eine Reihe von Tarifverträgen gekündigt. Nun drohen dem Konzern harte Wochen. Die Arbeitnehmerseite hat bereits massiven Widerstand angekündigt. Von Torben Hildebrandt.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-tarifvertraege-sparkurs-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T17:02:10+00:00"
+  },
+  {
+   "t": "Marktbericht: Zinsängste schrecken DAX-Anleger ab",
+   "s": "Am deutschen Aktienmarkt überwog heute die Sorge vor steigenden Zinsen. Zuvor zeigten Inflationsdaten aus der Eurozone eine Teuerung deutlich über dem Ziel der EZB. Aber auch Einzelwerte standen im Fokus.",
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-30T09:22:36+00:00"
+   "d": "2026-09-30T16:22:36+00:00"
+  },
+  {
+   "t": "Preis für Deutschlandticket steigt im Januar auf 66,80 Euro",
+   "s": "Das Deutschlandticket wird erneut teurer. Es kostet ab Januar 66,80 Euro und damit 3,80 Euro mehr als bisher. An der neuen Preissteigerung gab es vorab schon deutliche Kritik von Fahrgast- und Umweltverbänden.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-preis-110.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T14:06:15+00:00"
+  },
+  {
+   "t": "Volkswagen kündigt zum Jahresende fast alle Tarifverträge",
+   "s": "Der kriselnde Autobauer VW hat zum Jahresende eine Reihe von Tarifverträgen gekündigt und begründet das mit dem aktuellen Kostendruck. Die IG Metall spricht von einem \"üblen Foul an der Belegschaft\".",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-aufhebung-tarifvertraege-sparmassnahmen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T14:00:31+00:00"
+  },
+  {
+   "t": "Inflationsrate steigt im September auf 3,3 Prozent",
+   "s": "Die Inflation in Deutschland ist im September erstmals seit fast drei Jahren auf über drei Prozent angestiegen. Schuld daran sind vor allem massiv gestiegene Energiepreise. Lebensmittel verteuerten sich kaum.",
+   "u": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T12:52:15+00:00"
+  },
+  {
+   "t": "Reiche weist staatliches Unternehmen an, mehr Gas einzuspeichern",
+   "s": "Die Gasspeicher sind aktuell nur zu etwas mehr als der Hälfte gefüllt. Nun drängt Wirtschaftsministerin Reiche alle Energieunternehmen dazu, mehr Erdgas einzuspeichern. Eine staatliche Firma erhält eine direkte Anweisung.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-reiche-winter-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T10:16:57+00:00"
+  },
+  {
+   "t": "Arbeitslosenzahl sinkt leicht unter Marke von drei Millionen",
+   "s": "Mit dem Ende der Sommerpause gibt es meist Bewegung auf dem Arbeitsmarkt. Im September ging die Zahl der Menschen ohne Job aber nur leicht zurück. Unternehmen suchen weiterhin kaum nach neuem Personal.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-arbeitsmarkt-september-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T08:42:03+00:00"
   },
   {
    "t": "Tanken in Deutschland war noch nie so teuer wie im September",
@@ -24,13 +73,6 @@
    "d": "2026-09-30T07:59:56+00:00"
   },
   {
-   "t": "Deutschlandticket wird wohl wieder teurer",
-   "s": "Heute soll über den künftigen Preis für das Deutschlandticket entschieden werden. Einem Medienbericht zufolge könnte es 2027 fast vier Euro mehr kosten. Von Verbänden kommt bereits Kritik.",
-   "u": "https://www.tagesschau.de/wirtschaft/deutschlandticket-preis-108.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T06:13:10+00:00"
-  },
-  {
    "t": "Hat die Schufa ihr Transparenz-Versprechen gebrochen?",
    "s": "Vollkommen transparent, verständlich und nachvollziehbar: So sollte der neue Schufa-Score sein, mit dem Millionen Verbraucherinnen und Verbraucher bewertet werden. Doch Recherchen von NDR und SZ zeigen: Das war offenbar nicht mehr als ein leeres Versprechen.",
    "u": "https://www.tagesschau.de/investigativ/ndr/schufa-score-auskunftei-verbraucher-100.html",
@@ -43,13 +85,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/usa-verbrauchervertrauen-einbruch-100.html",
    "q": "Tagesschau",
    "d": "2026-09-30T03:35:20+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 29.09.2926",
-   "s": "Wirtschaft vor acht vom 29.09.2926",
-   "u": "https://www.tagesschau.de/video/video-1657780.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T18:36:27+00:00"
   },
   {
    "t": "Haushalte sind so reich wie nie - Vermögen ungleich verteilt",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-suedzucker-100.html",
    "q": "Tagesschau",
    "d": "2026-09-28T12:18:56+00:00"
-  },
-  {
-   "t": "Frankreichs Designer-Nachwuchs geht neue Wege",
-   "s": "Eine Stadt wird zum Laufsteg: Die Paris Fashion Week startet. Berühmte Designer zeigen ihre neuesten Kollektionen - doch was macht eigentlich der französische Mode-Nachwuchs? Von Henrik Lesser-Willun.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/mode-nachwuchs-designer-paris-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T11:08:12+00:00"
-  },
-  {
-   "t": "Rheinpegel in Köln auf Rekordtief - Lkw-Fahrverbot bleibt ausgesetzt",
-   "s": "Nur noch 40 Zentimeter - noch nie wurde in Köln ein derart niedriger Rheinpegel gemessen. Wegen des extremen Niedrigwassers soll das Sonntags-Fahrverbot für Lkw in Nordrhein-Westfalen ausgesetzt bleiben.",
-   "u": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rheinpegel-tiefststand-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T11:08:00+00:00"
-  },
-  {
-   "t": "Einwanderer in vielen Berufen unverzichtbar",
-   "s": "In vielen Branchen mit Fachkräftemangel sind Beschäftigte mit Einwanderungsgeschichte überdurchschnittlich stark vertreten. Die Integration hängt dabei von der Herkunftsregion und der Aufenthaltsdauer ab.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/engpassberufe-einwanderer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T09:20:23+00:00"
-  },
-  {
-   "t": "KI-Boom und Rüstung bringen Rekord bei Milliarden-Start-ups",
-   "s": "Die deutsche Gründerbranche bringt immer mehr Milliarden-Start-ups hervor. Dazu gehören etwa Trade Republic und N26, aber auch die Softwarefirma Osapiens und die Rüstungsfirma Stark Defense.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/startup-boom-gruendungen-ruestung-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T08:01:42+00:00"
-  },
-  {
-   "t": "Solarstromproduktion übertrifft bereits jetzt Vorjahreswert",
-   "s": "In diesem Jahr ist hierzulande bereits Ende September mehr Solarstrom erzeugt worden als im gesamten Jahr 2025. Zu dem Rekord trugen ungewöhnlich viele Sonnenstunden und der Ausbau der Photovoltaik bei.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/solarstrom-produktion-rekord-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T06:18:50+00:00"
   }
  ]
 }

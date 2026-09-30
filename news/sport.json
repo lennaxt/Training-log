@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-30T09:43:40+00:00",
+ "updated": "2026-09-30T20:02:45+00:00",
  "items": [
+  {
+   "t": "Alternativer Nobelpreis: „Sie verwandelt Kampf in Solidarität“",
+   "s": "Die ausgezeichnete pakistanische Menschenrechtsanwältin, Feministin und Aktivistin Jalila Haider setzt sich mutig für die Schwächsten in ihrer Heimat ein.",
+   "u": "https://taz.de/Alternativer-Nobelpreis/!6217621/",
+   "q": "taz",
+   "d": "2026-09-30T12:04:00+00:00"
+  },
   {
    "t": "Bürgerkrieg in Myanmar: Luftangriff auf einen Markt tötet rund 50 Menschen",
    "s": "In Myanmar versucht die Militärregierung mit einer Offensive, die stärkste Rebellenorganisation zurückzudrängen. Getötet werden vor allem Zivilisten.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Nordkorea/!6211982/",
    "q": "taz",
    "d": "2026-09-09T16:33:00+00:00"
-  },
-  {
-   "t": "Korruptionsverdacht: Cousin von Präsident Ferdinand Marcos in Haft",
-   "s": "In den Philippinen geht der Machtkampf der Familienclans Marcos und Duterte vor dem Hintergrund massiver Korruptionsvorwürfe in eine neue Runde.",
-   "u": "https://taz.de/Korruptionsverdacht/!6211333/",
-   "q": "taz",
-   "d": "2026-09-08T13:09:00+00:00"
   }
  ]
 }

@@ -1,9 +1,121 @@
 {
  "name": "Umwelt",
- "updated": "2026-09-30T09:43:37+00:00",
+ "updated": "2026-09-30T20:02:43+00:00",
  "items": [
   {
-   "t": "Rechtsextremismus in Lippoldisberg: Buchhändlerin wegen Nazi-Propaganda verurteilt",
+   "t": "Neue Vorwürfe gegen Elif Eralp: Die Rote Hilfe ist wichtiger denn je",
+   "s": "Eine linke Juristin war Mitglied einer linken juristischen Organisation, wo ist der Skandal? Elif Eralp muss sich für nichts schämen – im Gegenteil.",
+   "u": "https://taz.de/Neue-Vorwuerfe-gegen-Elif-Eralp/!6211855/",
+   "q": "taz",
+   "d": "2026-09-30T18:18:00+00:00"
+  },
+  {
+   "t": "Aufregung um die Linkspartei: „Das ist erst der Anfang“",
+   "s": "Hinter der Angst vor Elif Eralp steht eine lange Tradition des Antikommunismus, sagt der Soziologe Anton Schmidt. Kom­mu­nis­t:in­nen brauchen diese Panik nicht.",
+   "u": "https://taz.de/Soziologe-zur-Aufregung-ueber-die-Linkspartei-Das-ist-erst-der-Anfang/!6217731/",
+   "q": "taz",
+   "d": "2026-09-30T18:17:00+00:00"
+  },
+  {
+   "t": "Konsequenzen nach Wahlparty in Neukölln: Koçak sei „naiv“ und „überfordert“ gewesen",
+   "s": "Nach Kritik gibt der linke Bundestagsabgeordnete Ferat Koçak seinen Sitz im Innenausschuss ab und räumt Fehler ein. Wie glaubwürdig ist das?",
+   "u": "https://taz.de/Nach-Wahlparty-Kocak-gibt-Sitz-in-Innenausschuss-ab/!6217924/",
+   "q": "taz",
+   "d": "2026-09-30T18:11:00+00:00"
+  },
+  {
+   "t": "Anhörung zum AfD-Verbotsverfahren: Tagesordnungspunkt: AfD-Verbot",
+   "s": "In Thüringen geht es erstmals in einem deutschen Parlamentsausschuss öffentlich um ein mögliches AfD-Verbot. Auch Hape Kerkeling sollte dazu sprechen.",
+   "u": "https://taz.de/Anhoerung-zum-AfD-Verbotsverfahren/!6217736/",
+   "q": "taz",
+   "d": "2026-09-30T18:07:00+00:00"
+  },
+  {
+   "t": "Einigung bei Pflegereform: Vor allem ein Spargesetz",
+   "s": "Die Pflegereform ist beschlossen. Die Belastungen für Pflegebedürftige werden weiter steigen. Das wirft heikle Gerechtigkeitsfragen auf.",
+   "u": "https://taz.de/Pflegereform-Ein-Spargesetz-dass-prekaere-Gerechtigkeitsfragen-aufwirft/!6217663/",
+   "q": "taz",
+   "d": "2026-09-30T18:07:00+00:00"
+  },
+  {
+   "t": "Antifa-Prozess in Budapest: „Lass dich nicht einschüchtern!“",
+   "s": "An­ti­fa­schis­t*in Maja T. wird vor dem Berufungsgericht in Ungarn zu sieben Jahren Haft verurteilt. Anwälte fordern die Überstellung nach Deutschland.",
+   "u": "https://taz.de/Antifa-Prozess-in-Budapest/!6217628/",
+   "q": "taz",
+   "d": "2026-09-30T16:07:00+00:00"
+  },
+  {
+   "t": "SPD-Papier zu wehrhafter Demokratie: „Rundumschlag“ gegen rechts",
+   "s": "Die SPD-Bundestagsfraktion hat ein Grundsatzpapier zum Schutz der Demokratie gegen autoritäre Angriffe erarbeitet. Es ist auch ein Schritt in Richtung AfD-Verbot.",
+   "u": "https://taz.de/SPD-Papier-zu-wehrhafter-Demokratie/!6217740/",
+   "q": "taz",
+   "d": "2026-09-30T15:50:00+00:00"
+  },
+  {
+   "t": "Pflegereform und Finanzen: Begutachtungen werden strenger",
+   "s": "Das Kabinett hat am Mittwoch die Pflegereform beschlossen. Geplant sind Kürzungen beim Pflegegrad 1 und höhere Beiträge für Kinderlose.",
+   "u": "https://taz.de/Pflegereform-und-Finanzen/!6217635/",
+   "q": "taz",
+   "d": "2026-09-30T15:50:00+00:00"
+  },
+  {
+   "t": "Antifa-Prozess in Paris: Grünes Licht für Auslieferung",
+   "s": "Frankreichs will den Antifaschisten Gino nach Deutschland schicken. Damit besteht nun die Gefahr einer Auslieferung an Ungarn.",
+   "u": "https://taz.de/Antifa-Prozess-in-Paris/!6217830/",
+   "q": "taz",
+   "d": "2026-09-30T15:45:00+00:00"
+  },
+  {
+   "t": "Türkeibesuch von Hendrik Wüst: Visa für Geschäftsleute, Schulterklopfen für Opposition",
+   "s": "Bei seiner Türkeireise kann NRWs Ministerpräsident schnellere Visaverfahren ankündigen. Opposition und Zivilgesellschaft trifft er am Ende auch noch.",
+   "u": "https://taz.de/Tuerkeibesuch-von-Hendrik-Wuest/!6217787/",
+   "q": "taz",
+   "d": "2026-09-30T15:14:00+00:00"
+  },
+  {
+   "t": "Angriffe gegen Berliner Linke: Jetzt bekommt auch Baden-Württembergs Innenminister Post",
+   "s": "Unionspolitiker teilen gegen die Berliner Linke und ihre Spitzenpolitikerin Elif Eralp aus. Die Partei wehrt sich juristisch. Nun trifft es Manuel Hagel.",
+   "u": "https://taz.de/Angriffe-gegen-Berliner-Linke/!6217734/",
+   "q": "taz",
+   "d": "2026-09-30T13:31:00+00:00"
+  },
+  {
+   "t": "Ungleiche Vermögen in Ost und West: Ostbeauftragte für Umverteilung per Erbschaftssteuer",
+   "s": "Die Vermögen sind in Ostdeutschland statistisch nur halb so groß wie im Westen. Die Ostbeauftragte Elisabeth Kaiser bringt die Idee des Grunderbes wieder ins Gespräch.",
+   "u": "https://taz.de/Ungleiche-Vermoegen-in-Ost-und-West/!6217757/",
+   "q": "taz",
+   "d": "2026-09-30T12:29:00+00:00"
+  },
+  {
+   "t": "Analyse zu Hintergründen: Deutlich mehr rechtsextremer als islamischer Antisemitismus",
+   "s": "Die Recherche- und Informationsstellen Antisemitismus haben die Motivation hinter judenfeindlichen Vorfällen seit 2019 untersucht. Religiöser Hass ist vergleichsweise selten.",
+   "u": "https://taz.de/Analyse-zu-Antisemitismus/!6217683/",
+   "q": "taz",
+   "d": "2026-09-30T12:21:00+00:00"
+  },
+  {
+   "t": "Kürzung von Elterngeld: Familienministerin Prien erwägt Kehrtwende",
+   "s": "Die Bundesfamilienministerin will eine Kürzung der Elterngeldmonate verhindern und macht Familien Hoffnung. Harsche Kritik äußert sie am Tankrabatt.",
+   "u": "https://taz.de/Kuerzung-von-Elterngeld/!6217638/",
+   "q": "taz",
+   "d": "2026-09-30T11:05:00+00:00"
+  },
+  {
+   "t": "Elif Eralp und die Rote Hilfe: Schwarze Vorwürfe gegen rote Elif",
+   "s": "Die Spitzenkandidatin der Berliner Linken war lange Zeit Mitglied der Roten Hilfe. Dass das auf ihrer Seite im Abgeordnetenhaus stand, hat jetzt die „FAZ“ aufgeschrieben.",
+   "u": "https://taz.de/Elif-Eralp-und-die-Rote-Hilfe/!6217632/",
+   "q": "taz",
+   "d": "2026-09-30T10:28:00+00:00"
+  },
+  {
+   "t": "Kabinett erzielt Einigung: Regierung lässt Kinderlose für Pflegereform zahlen",
+   "s": "Die Bundesregierung bringt die Pflegereform auf den Weg, über die Union und SPD bis zur letzten Minute gerungen hatten. Nun werden erste Details bekannt.",
+   "u": "https://taz.de/Regierung-bringt-Pflegereform-auf-den-Weg/!6217641/",
+   "q": "taz",
+   "d": "2026-09-30T09:46:00+00:00"
+  },
+  {
+   "t": "Rechtsextremismus in Lippoldsberg: Buchhändlerin wegen Nazi-Propaganda verurteilt",
    "s": "Das Amtsgericht Kassel glaubt einer extrem rechten Verlegerin, dass sie mit braunem Gedankengut nichts zu tun habe. Dabei hatte sie NS-Propaganda vorrätig.",
    "u": "https://taz.de/Rechtsextremismus-in-Lippoldisberg/!6217470/",
    "q": "taz",
@@ -39,7 +151,7 @@
   },
   {
    "t": "Der Fall Schneider/Schwerte: Der Lieblingsprofessor, ein SS-Mann",
-   "s": "Mit neuer Identität lehrte Hans Ernst Schneider nach dem Krieg an der RWTH Aachen. Kurz vor seinem Tod wird er enttarnt. Trotzdem schwärmen Studierende noch.",
+   "s": "Mit neuer Identität lehrte Hans Ernst Schneider nach dem Krieg an der RWTH Aachen. Kurz vor seinem Tod wurde er enttarnt. Trotzdem schwärmen Studierende noch.",
    "u": "https://taz.de/Der-Fall-Schneider/Schwerte/!6213525/",
    "q": "taz",
    "d": "2026-09-29T18:11:00+00:00"
@@ -57,118 +169,6 @@
    "u": "https://taz.de/Gruene-streitet-ueber-Basisdemokratie/!6217274/",
    "q": "taz",
    "d": "2026-09-29T15:49:00+00:00"
-  },
-  {
-   "t": "Neuer Coup der Wirtschaftsministerin: Reiche ist der Redispatch der Regierung",
-   "s": "Wirtschaftsministerin Reiche tut alles dafür, die Wirtschaft zu bremsen. Ihr neuester Coup: keine Entschädigung für nicht eingespeiste Windenergie.",
-   "u": "https://taz.de/Der-naechste-Streich-von-Katherina-Reiche-um-die-Wirtschaft-zu-bremsen-Keine-Entschaedigung-fuer-nicht-eingespeiste-Windenergie/!6211825/",
-   "q": "taz",
-   "d": "2026-09-29T15:46:00+00:00"
-  },
-  {
-   "t": "Länderfinanzausgleich: Union droht Berlin mit Geldentzug",
-   "s": "Im Fall einer Links-Regierung will die Union Berlin Zahlungen aus Finanzausgleich und Hauptstadtvertrag kürzen. Doch dafür fehlt die rechtliche Grundlage.",
-   "u": "https://taz.de/Laenderfinanzausgleich/!6217310/",
-   "q": "taz",
-   "d": "2026-09-29T15:37:00+00:00"
-  },
-  {
-   "t": "Angriffe gegen Berliner Linke: Jetzt wollen alle mal was sagen",
-   "s": "Wahlverlierer CDU schießt auf allen Kanälen gegen die Berliner Linke. Aus Schleswig-Holstein kommt eine Attacke eher skurriler Art.",
-   "u": "https://taz.de/Angriffe-gegen-Berliner-Linke/!6217312/",
-   "q": "taz",
-   "d": "2026-09-29T15:25:00+00:00"
-  },
-  {
-   "t": "Pläne für Superreiche: Grüne wollen Millardäre ein bisschen zur Kasse bitten",
-   "s": "Die Partei möchte Kapital ab 500 Millionen Euro mit einer Zusatzabgabe von 2 bis 4 Prozent belegen. Doch für die Union dürfte selbst das schwierig werden.",
-   "u": "https://taz.de/Zusatzabgabe-Gruene-wollen-Millardaere-ein-bisschen-zur-Kasse-bitten/!6217325/",
-   "q": "taz",
-   "d": "2026-09-29T13:54:00+00:00"
-  },
-  {
-   "t": "Urteil in Sachsen-Anhalt: Kein Referendariat nach rechter Vergangenheit",
-   "s": "Ein wegen rechter Umtriebe aus der Bundeswehr entlassener Mann will ins Rechtsreferendariat. Das Oberverwaltungsgericht zweifelt an seiner Verfassungstreue.",
-   "u": "https://taz.de/Gericht-Kein-Referendariat-nach-rechter-Vergangenheit/!6217402/",
-   "q": "taz",
-   "d": "2026-09-29T12:53:00+00:00"
-  },
-  {
-   "t": "Lohnlücke zwischen Ost und West: DGB fordert mehr Tarifbindung in Ostdeutschland",
-   "s": "Jahrzehnte nach der deutschen Einheit sind Löhne im Osten immer noch schlechter als im Westen. Der Deutsche Gewerkschaftsbund kritisiert ein unzureichendes Bundesgesetz.",
-   "u": "https://taz.de/Lohnluecke-zwischen-Ost-und-West/!6217374/",
-   "q": "taz",
-   "d": "2026-09-29T12:40:00+00:00"
-  },
-  {
-   "t": "Koalition diskutiert über Pflegereform: CDU-Sozialpolitiker kritisiert „teure Wünsche“ der SPD",
-   "s": "Karl-Josef Laumann drängt auf das Sparpaket für die Pflegeversicherung. Es soll das drohende Milliardendefizit der gesetzlichen Pflegeversicherung und steigende Beiträge verhindern.",
-   "u": "https://taz.de/Koalition-diskutiert-ueber-Pflegereform/!6217231/",
-   "q": "taz",
-   "d": "2026-09-29T07:16:00+00:00"
-  },
-  {
-   "t": "Warnung vor linker Bürgermeisterin: Unionsländer drohen Berlin mit Geldentzug",
-   "s": "Nach dem Wahlsieg in Berlin könnte die Linke die Regierung anführen. Unionsgeführte Bundesländer wollen dann die Finanzierung der Hauptstadt in Frage stellen.",
-   "u": "https://taz.de/Unionslaender-drohen-Berlin-bei-Linksregierung-mit-Geldentzug/!6217228/",
-   "q": "taz",
-   "d": "2026-09-29T06:26:00+00:00"
-  },
-  {
-   "t": "Digitale sexualisierte Gewalt: Frauen ziehen sich aus dem Netz zurück",
-   "s": "Weniger Bilder, weniger Posts – die Sorge vor sexualisierter Gewalt drängt Frauen aus dem Netz. Das ist demokratiegefährdend, warnt der Frauenrat.",
-   "u": "https://taz.de/Digitale-sexualisierte-Gewalt/!6216961/",
-   "q": "taz",
-   "d": "2026-09-29T05:26:00+00:00"
-  },
-  {
-   "t": "Rückzug von Spahn: Die CDU hat keinen Platz für Sonnenkönige",
-   "s": "Nur wenige Tage im neuen Job stolpert Jens Spahn über den nächsten Skandal und muss sich nach massiver Kritik zurückziehen. Das macht Hoffnung.",
-   "u": "https://taz.de/Rueckzug-von-Spahn/!6211810/",
-   "q": "taz",
-   "d": "2026-09-28T17:58:00+00:00"
-  },
-  {
-   "t": "Eralp zeigt Dobrindt an: Überfällige rote Karte",
-   "s": "Der inflationäre Missbrauch des Antisemitismus-Vorwurfs zu politischen Zwecken ist fatal. Nicht nur die Linke sollte sich dagegen wehren.",
-   "u": "https://taz.de/Elif-Eralp-zeigt-Alexander-Dobrindt-an-Ueberfaellige-rote-Karte/!6216996/",
-   "q": "taz",
-   "d": "2026-09-28T17:57:00+00:00"
-  },
-  {
-   "t": "Debatte um Antisemitismus: Wie Jüdinnen und Juden auf die Linke schauen",
-   "s": "Deutschland streitet um echten und vermeintlichen Antisemitismus in der Berliner Linkspartei. Hier erzählen Ju­den*Jü­din­nen aus der Hauptstadt, wie sie dazu stehen.",
-   "u": "https://taz.de/Wie-Berliner-Juden-und-Juedinnen-auf-die-Linke-schauen/!6216148/",
-   "q": "taz",
-   "d": "2026-09-28T17:57:00+00:00"
-  },
-  {
-   "t": "Eralp zeigt Dobrindt an: Überfällige rote Karte",
-   "s": "Der inflationäre Missbrauch des Antisemitismus-Vorwurfs zu politischen Zwecken ist fatal. Nicht nur die Linke sollte sich dagegen wehren.",
-   "u": "https://taz.de/Elif-Eralp-zeigt-Alexander-Dobrindt-an-Ueberfaellige-rote-Karte/!6216996/",
-   "q": "taz",
-   "d": "2026-09-28T17:57:00+00:00"
-  },
-  {
-   "t": "SPD droht mit Blockade: Intensive Verhandlungen um die Pflege",
-   "s": "Die Pflegereform steht auf der Kippe: Die SPD warnt vor einem Kürzungspaket. Das Gesundheitsministerium hält am Kabinettsbeschluss am Mittwoch fest.",
-   "u": "https://taz.de/SPD-droht-mit-Blockade/!6217015/",
-   "q": "taz",
-   "d": "2026-09-28T16:12:00+00:00"
-  },
-  {
-   "t": "AfD in Sachsen-Anhalt: Rechtsextreme haben bald ersten Landtagspräsidenten",
-   "s": "Mit Tobias Rausch will die AfD jemanden als Landtagspräsidenten aufstellen, der für Vetternwirtschaft bekannt ist. Das BSW sieht kein Problem.",
-   "u": "https://taz.de/AfD-in-Sachsen-Anhalt/!6217012/",
-   "q": "taz",
-   "d": "2026-09-28T16:05:00+00:00"
-  },
-  {
-   "t": "Stichwahlen in Niedersachsen: In Minischritten zur feministischen Revolution",
-   "s": "Jeder vierte der 36 Landratsposten Niedersachsens wird nach den Direktwahlen von einer Frau wahrgenommen werden. Bislang waren es nur rund 14 Prozent.",
-   "u": "https://taz.de/Stichwahlen-in-Niedersachsen/!6217061/",
-   "q": "taz",
-   "d": "2026-09-28T15:57:00+00:00"
   }
  ]
 }

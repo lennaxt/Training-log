@@ -1,9 +1,23 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-09-30T09:43:38+00:00",
+ "updated": "2026-09-30T20:02:43+00:00",
  "items": [
   {
-   "t": "Vergabe der Alternativen Nobelpreise: Menschen in der Krise eine Stimme geben",
+   "t": "Alternativer Nobelpreis: Unermüdlicher Einsatz für Menschenrechte",
+   "s": "Das georgische An­wäl­t*in­nen­kol­lek­tiv GYLA, die älteste NGO des Landes, trotzt dem sich verschärfenden Druck auf die Zivilgesellschaft.",
+   "u": "https://taz.de/Alternativer-Nobelpreis/!6217640/",
+   "q": "taz",
+   "d": "2026-09-30T15:22:00+00:00"
+  },
+  {
+   "t": "Rückkehrer nach Russland: 18 Jahre Haft wegen Überweisung von 30 Euro",
+   "s": "Russen, die in ihre Heimat zurückkehren, werden aus fadenscheinigen Gründen zu langen Haftstrafen verurteilt. Menschenrechtler dokumentieren ihre Fälle.",
+   "u": "https://taz.de/Rueckkehrer-nach-Russland/!6217598/",
+   "q": "taz",
+   "d": "2026-09-30T12:02:00+00:00"
+  },
+  {
+   "t": "Gewinner des Alternativen Nobelpreises: Menschen in der Krise eine Stimme geben",
    "s": "Den Alternativen Nobelpreis erhalten Initiativen in Georgien, Pakistan, USA und dem Süden Afrikas. Eine Preisträgerin setzt sich gegen die Übermacht der KI-Konzerne ein.",
    "u": "https://taz.de/Vergabe-der-Alternativen-Nobelpreise/!6217358/",
    "q": "taz",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Deutsch-russsiches-Treffen-in-New-York/!6216751/",
    "q": "taz",
    "d": "2026-09-27T14:18:00+00:00"
-  },
-  {
-   "t": "Russische Angriffe auf Saporischschja: Tote und Verletzte unweit der Front",
-   "s": "Im ostukrainischen Saporischschja sind am Wochenende zwei Menschen durch russische Drohnen getötet worden. Angegriffen wurden Wohnhäuser und zwei Kliniken.",
-   "u": "https://taz.de/Russische-Angriffe-auf-Saporischschja/!6216512/",
-   "q": "taz",
-   "d": "2026-09-27T13:29:00+00:00"
-  },
-  {
-   "t": "Ansturm auf Ceuta: Neue Zweige für ihr Grab",
-   "s": "Als Ende Juli kurz die Grenze nach Ceuta offen ist, versuchen Tausende Marokkaner:innen, nach Spanien zu kommen. Viele sterben, auch die 26-jährige Faten El Azizi.",
-   "u": "https://taz.de/Ansturm-auf-Ceuta/!6211147/",
-   "q": "taz",
-   "d": "2026-09-27T10:35:00+00:00"
   }
  ]
 }
