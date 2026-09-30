@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-09-29T19:59:19+00:00",
+ "updated": "2026-09-30T00:28:26+00:00",
  "items": [
+  {
+   "t": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
+   "s": "Seit Wochen wird weltweit über Risiken und Beschränkungen Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen sich freiwillig selbst kontrollieren.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T23:02:24+00:00"
+  },
+  {
+   "t": "Burnham kündigt auf Labour-Parteitag Reformen an",
+   "s": "Burnham könnte für Labour ein Wendepunkt sein: Seine Nahbarkeit kommt an, mit ihm als Premier wird die Partei wieder beliebter. Nach kleineren Projekten sollen nun große Reformen zeigen, dass er auch anpacken kann. Von Lisa-Maria Röhling.",
+   "u": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-labour-102.html",
+   "q": "Tagesschau",
+   "d": "2026-09-29T20:19:59+00:00"
+  },
   {
    "t": "Marokkos König ernennt erstmals eine Frau zur Ministerpräsidentin",
    "s": "Als Favorit galt der populäre Chef des Königlichen Fußballverbandes. Doch Marokkos König ernannte eine Frau zur Regierungschefin - erstmals in der Geschichte des Landes: die bisheriger Wohnungsbauministerin El Mansouri.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/polen-drohnen-abwehr-100.html",
    "q": "Tagesschau",
    "d": "2026-09-28T14:11:06+00:00"
-  },
-  {
-   "t": "Schweden: Wahlsiegerin Andersson kann keine Regierung bilden",
-   "s": "Die schwedische Sozialdemokratin und Wahlsiegerin Andersson hat die Sondierungsgespräche mit den Linken für gescheitert erklärt. Hintergrund ist die Unterstützung der Linken für den konservativen Parlamentspräsidenten Norlén.",
-   "u": "https://www.tagesschau.de/ausland/europa/schweden-regierungsbildung-110.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T13:20:41+00:00"
-  },
-  {
-   "t": "Kallas: Bericht offenbart Lücken bei EU-Verteidigungsbereitschaft",
-   "s": "Die Außenbeauftragte der EU, Kallas, warnt vor mangelnder Verteidigungsbereitschaft innerhalb der Europäischen Union. Ein neuer Bericht verweist offenbar auf Lücken etwa bei der Luftverteidigung und bei Munitionsbeständen.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-verteidigung-kallas-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T11:58:47+00:00"
   }
  ]
 }
