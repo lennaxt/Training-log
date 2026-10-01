@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-09-30T20:02:45+00:00",
+ "updated": "2026-10-01T00:33:39+00:00",
  "items": [
+  {
+   "t": "Weltweite Aufrüstung: Deutsche Rüstungsindustrie drängt nach Japan",
+   "s": "Die Regierung in Tokio hat ihre Beschränkung von Waffenexporten gelockert. Rüstungskonzerne loten jetzt neue Kooperationen aus.",
+   "u": "https://taz.de/Weltweite-Aufruestung/!6217630/",
+   "q": "taz",
+   "d": "2026-09-30T15:52:00+00:00"
+  },
   {
    "t": "Alternativer Nobelpreis: „Sie verwandelt Kampf in Solidarität“",
    "s": "Die ausgezeichnete pakistanische Menschenrechtsanwältin, Feministin und Aktivistin Jalila Haider setzt sich mutig für die Schwächsten in ihrer Heimat ein.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Brics-Gipfel-in-Delhi/!6212507/",
    "q": "taz",
    "d": "2026-09-11T11:26:00+00:00"
-  },
-  {
-   "t": "Nordkorea: Der zweite Frühling des Kim-Regimes",
-   "s": "Lange Zeit schien das Regime dem Zusammenbruch nahe. Doch jetzt genießt es dank Moskau und Peking neue Stärke, die aber nicht von Dauer sein dürfte.",
-   "u": "https://taz.de/Nordkorea/!6211982/",
-   "q": "taz",
-   "d": "2026-09-09T16:33:00+00:00"
   }
  ]
 }

@@ -1,13 +1,27 @@
 {
  "name": "Ausland",
- "updated": "2026-09-30T20:02:40+00:00",
+ "updated": "2026-10-01T00:33:34+00:00",
  "items": [
+  {
+   "t": "Burkaverbot und Sprachquote an Italiens Schulen in Kraft",
+   "s": "Nicht nur Schüler, sondern auch Eltern sind betroffen: In Italien gilt jetzt an Schulen ein Verschleierungsverbot und eine Sprachquote. Staatschef Mattarella unterschrieb am Abend ein Gesetzesdekret der rechten Meloni-Regierung.",
+   "u": "https://www.tagesschau.de/ausland/europa/italien-erlaesst-burkaverbot-und-sprachquote-an-schulen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T00:28:55+00:00"
+  },
+  {
+   "t": "US-Verteidigungsminister Hegseth verschlankt US-Armee - neue Rolle für Musk",
+   "s": "Der US-Verteidigungsminister strukturiert weiter die Armee um: Künftig soll es 20 Prozent weniger Offiziere und Planstellen geben. Zudem kommt Elon Musk eine neue Rolle zu: Der Tech-Milliardär soll die künftige Kriegsführung erforschen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/hegseth-entlaesst-offiziere-musk-untersucht-kriegsfuehrung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-09-30T23:16:22+00:00"
+  },
   {
    "t": "Flydubai-Flug nach Tel Aviv: Was über den Vorfall bekannt ist",
    "s": "Nach dem gewaltsamen Vorfall im Cockpit eines Flydubai-Flugzeugs auf dem Weg nach Tel Aviv geht die israelische Regierung von einem versuchten Terroranschlag aus. Was über den Zwischenfall bekannt ist - und was nicht.",
    "u": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html",
    "q": "Tagesschau",
-   "d": "2026-09-30T19:40:15+00:00"
+   "d": "2026-09-30T20:31:18+00:00"
   },
   {
    "t": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-lebensmittel-muell-100.html",
    "q": "Tagesschau",
    "d": "2026-09-29T12:45:14+00:00"
-  },
-  {
-   "t": "Militär greift Markt in Myanmar an - mindestens 50 Tote",
-   "s": "Seit dem Militärputsch vor mehr als fünf Jahren herrscht in Myanmar ein andauernder bewaffneter Konflikt. Immer wieder geraten auch zivile Ziele ins Visier des Militärs. Diesmal attackierten Kampfjets einen Markt und eine Brücke.",
-   "u": "https://www.tagesschau.de/ausland/asien/luftangriffe-myanmar-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T12:23:05+00:00"
-  },
-  {
-   "t": "Kolumbiens Präsident macht karibisches Touristenmekka zur Kampfzone",
-   "s": "Für viele Reisende gilt die kolumbianische Karibikküste als Traumziel. Doch Kolumbiens neuer Präsident will die dort herrschenden Paramilitärs mit allen Mitteln zerschlagen. Und so wird die Region gerade zur Kampfzone. Von Jenny Barke.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kolumbien-kaempfe-touristengebiet-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T11:57:43+00:00"
   }
  ]
 }
