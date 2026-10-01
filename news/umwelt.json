@@ -1,7 +1,42 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-01T00:33:36+00:00",
+ "updated": "2026-10-01T10:09:53+00:00",
  "items": [
+  {
+   "t": "Stolpersteinverbot in Heidenau: Sächsische Bürgermeisterin reagiert nicht auf Kritik",
+   "s": "International schockiert der Beschluss in Heidenau, keine neuen Stolpersteine zu verlegen. Für die Bürgermeisterin ändert das nichts.",
+   "u": "https://taz.de/Stolpersteinverbot-in-Heidenau/!6217596/",
+   "q": "taz",
+   "d": "2026-10-01T09:50:00+00:00"
+  },
+  {
+   "t": "Wegen drohender AfD-Blockade: Innenminister ändern Beschlussfähigkeit",
+   "s": "Die Innenministerkonferenz verabschiedet sich von der Einstimmigkeit. Der Grund: ein drohender rechtsextremer Innenminister in Sachsen-Anhalt.",
+   "u": "https://taz.de/Wegen-drohender-AfD-Blockade/!6217955/",
+   "q": "taz",
+   "d": "2026-10-01T09:20:00+00:00"
+  },
+  {
+   "t": "taz-Anwalt über die Rote Hilfe: Manche Kritik an der Roten Hilfe riecht nach Putins Russland",
+   "s": "Wer Betroffene von Strafverfolgung unterstützt, handelt nicht der Verfassung zuwider. Denn auch die Justiz handelt nicht immer rechtsstaatlich.",
+   "u": "https://taz.de/taz-Anwalt-ueber-die-Rote-Hilfe/!6217685/",
+   "q": "taz",
+   "d": "2026-10-01T08:03:00+00:00"
+  },
+  {
+   "t": "Aktivist für Menschen mit Behinderung: „Hunderttausende wollen nicht mehr fremdbestimmt werden“",
+   "s": "Menschen mit Behinderungen protestieren vorm EU-Parlament für ein selbstbestimmtes Leben. Aktivist Florian Sanden kritisiert geplante Sozialkürzungen.",
+   "u": "https://taz.de/Aktivist-fuer-Menschen-mit-Behinderung/!6217251/",
+   "q": "taz",
+   "d": "2026-10-01T05:53:00+00:00"
+  },
+  {
+   "t": "Regeln für Hochschulprüfungen: Die künstliche Intelligenz schreibt sowieso mit",
+   "s": "Nur wenige Unis haben klare Regeln für den Umgang mit Sprachmodellen. In zwei Fällen musste schon ein Gericht ran.",
+   "u": "https://taz.de/Regeln-fuer-Hochschulpruefungen/!6217261/",
+   "q": "taz",
+   "d": "2026-10-01T05:00:00+00:00"
+  },
   {
    "t": "Neue Vorwürfe gegen Elif Eralp: Die Rote Hilfe ist wichtiger denn je",
    "s": "Eine linke Juristin war Mitglied einer linken juristischen Organisation, wo ist der Skandal? Elif Eralp muss sich für nichts schämen – im Gegenteil.",
@@ -32,7 +67,7 @@
   },
   {
    "t": "Einigung bei Pflegereform: Vor allem ein Spargesetz",
-   "s": "Die Pflegereform ist beschlossen. Die Belastungen für Pflegebedürftige werden weiter steigen. Das wirft heikle Gerechtigkeitsfragen auf.",
+   "s": "Die Koalition hat sich auf die Pflegereform geeinigt. Belastungen für Pflegebedürftige werden weiter steigen. Das wirft heikle Gerechtigkeitsfragen auf.",
    "u": "https://taz.de/Pflegereform-Ein-Spargesetz-dass-prekaere-Gerechtigkeitsfragen-aufwirft/!6217663/",
    "q": "taz",
    "d": "2026-09-30T18:07:00+00:00"
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Verkauf-sexualisierter-Videos-von-Frauen-auf-dem-Oktoberfest-Es-gibt-keinen-sicheren-Ort-und-keine-sichere-Kleidung/!6217331/",
    "q": "taz",
    "d": "2026-09-29T18:16:00+00:00"
-  },
-  {
-   "t": "Union und der Länderfinanzausgleich: Die Wunderwaffe gegen linke Politik",
-   "s": "Eine von der Linken regierte Hauptstadt will die Union nicht mitfinanzieren. Bei der AfD in Sachsen-Anhalt war CSU-Chef Söder nicht so rigoros.",
-   "u": "https://taz.de/Union-und-der-Laenderfinanzausgleich/!6217293/",
-   "q": "taz",
-   "d": "2026-09-29T18:15:00+00:00"
-  },
-  {
-   "t": "NRW-Ministerpräsident in der Türkei: Wüst „dankbar“ für Austausch mit Erdoğan",
-   "s": "Dem Regierungschef aus Nordrhein-Westfalen geht es bei seinem Türkeibesuch um die Wirtschaft. Und was ist mit seinen Ambitionen, Kanzler zu werden?",
-   "u": "https://taz.de/NRW-Ministerpraesident-in-der-Tuerkei/!6217317/",
-   "q": "taz",
-   "d": "2026-09-29T18:12:00+00:00"
-  },
-  {
-   "t": "Der Fall Schneider/Schwerte: Der Lieblingsprofessor, ein SS-Mann",
-   "s": "Mit neuer Identität lehrte Hans Ernst Schneider nach dem Krieg an der RWTH Aachen. Kurz vor seinem Tod wurde er enttarnt. Trotzdem schwärmen Studierende noch.",
-   "u": "https://taz.de/Der-Fall-Schneider/Schwerte/!6213525/",
-   "q": "taz",
-   "d": "2026-09-29T18:11:00+00:00"
-  },
-  {
-   "t": "Ministerpräsident von Sachsen-Anhalt: Siegmund rechnet mit Unbekannten",
-   "s": "Die AfD in Sachsen-Anhalt hat ihre Meinung geändert. Auch ohne eigene Mehrheit will sich ihr Spitzenkandidat zur Wahl stellen.",
-   "u": "https://taz.de/Ministerpraesident-von-Sachsen-Anhalt/!6217269/",
-   "q": "taz",
-   "d": "2026-09-29T17:25:00+00:00"
-  },
-  {
-   "t": "Grüne streiten über Basisdemokratie: Nun darf nochmal abgestimmt werden",
-   "s": "Der Grünen-Vorstand will den Streit um seine Parteisatzung endgültig beenden. Der Parteitag soll einen Mitgliederentscheid aus dem Sommer bestätigen.",
-   "u": "https://taz.de/Gruene-streitet-ueber-Basisdemokratie/!6217274/",
-   "q": "taz",
-   "d": "2026-09-29T15:49:00+00:00"
   }
  ]
 }

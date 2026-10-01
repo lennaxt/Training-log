@@ -1,7 +1,77 @@
 {
  "name": "Inland",
- "updated": "2026-10-01T00:33:33+00:00",
+ "updated": "2026-10-01T10:09:50+00:00",
  "items": [
+  {
+   "t": "Stolpersteinverbot in Heidenau: Sächsische Bürgermeisterin reagiert nicht auf Kritik",
+   "s": "International schockiert der Beschluss in Heidenau, keine neuen Stolpersteine zu verlegen. Für die Bürgermeisterin ändert das nichts.",
+   "u": "https://taz.de/Stolpersteinverbot-in-Heidenau/!6217596/",
+   "q": "taz",
+   "d": "2026-10-01T09:50:00+00:00"
+  },
+  {
+   "t": "Wegen drohender AfD-Blockade: Innenminister ändern Beschlussfähigkeit",
+   "s": "Die Innenministerkonferenz verabschiedet sich von der Einstimmigkeit. Der Grund: ein drohender rechtsextremer Innenminister in Sachsen-Anhalt.",
+   "u": "https://taz.de/Wegen-drohender-AfD-Blockade/!6217955/",
+   "q": "taz",
+   "d": "2026-10-01T09:20:00+00:00"
+  },
+  {
+   "t": "US-Kriegsminister Hegseth: Musk soll „Zukunft der Kriegsführung“ miterforschen",
+   "s": "Laut US-Kriegsminister Pete Hegseth soll der Tech-Milliardär Elon Musk mit seinen Firmen KI und Roboter für das Militär entwickeln.",
+   "u": "https://taz.de/USA/!6217961/",
+   "q": "taz",
+   "d": "2026-10-01T08:57:00+00:00"
+  },
+  {
+   "t": "Reformpläne: Hohe Erwartungen an die Pflegekommission",
+   "s": "Der erste Schritt zur Stabilisierung der Pflegeversicherung ist getan - viele schwierige Fragen sollen von einer Kommission geklärt werden. Ein zentraler SPD-Vorschlag soll dort laut Gesundheitsminister Linnemann aber kein Thema sein.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-208.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T08:50:11+00:00"
+  },
+  {
+   "t": "taz-Anwalt über die Rote Hilfe: Manche Kritik an der Roten Hilfe riecht nach Putins Russland",
+   "s": "Wer Betroffene von Strafverfolgung unterstützt, handelt nicht der Verfassung zuwider. Denn auch die Justiz handelt nicht immer rechtsstaatlich.",
+   "u": "https://taz.de/taz-Anwalt-ueber-die-Rote-Hilfe/!6217685/",
+   "q": "taz",
+   "d": "2026-10-01T08:03:00+00:00"
+  },
+  {
+   "t": "Aktivist für Menschen mit Behinderung: „Hunderttausende wollen nicht mehr fremdbestimmt werden“",
+   "s": "Menschen mit Behinderungen protestieren vorm EU-Parlament für ein selbstbestimmtes Leben. Aktivist Florian Sanden kritisiert geplante Sozialkürzungen.",
+   "u": "https://taz.de/Aktivist-fuer-Menschen-mit-Behinderung/!6217251/",
+   "q": "taz",
+   "d": "2026-10-01T05:53:00+00:00"
+  },
+  {
+   "t": "Flydubai-Flugzeug: Israel geht von Terroranschlag aus",
+   "s": "Der Flug von Dubai nach Tel Aviv hätte offenbar in einer Katastrophe enden können. Immer mehr wird darüber bekannt, was sich im Cockpit abspielte.",
+   "u": "https://taz.de/Flydubai-Flugzeug/!6217932/",
+   "q": "taz",
+   "d": "2026-10-01T05:49:00+00:00"
+  },
+  {
+   "t": "Dahmen (Grüne) hält Einigung bei Pflegereform für unzureichend",
+   "s": "Bei der Last-Minute-Einigung der Pflegereform ist ein kleines Kürzungs- und Sparpaket herausgekommen. Zu wenig, meint der Arzt und Grünen-Politiker Janosch Dahmen. Vor allem das große Gerechtigkeitsversprechen der Koalition sei verfehlt worden.Kaess, Christiane",
+   "u": "https://www.deutschlandfunk.de/interview-janosch-dahmen-gruene-jetzt-doch-einigung-auf-pflegereform-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-01T05:20:00+00:00"
+  },
+  {
+   "t": "Hinrichtung in Tennessee abgebrochen: Sie überlebte zwei Giftspritzen",
+   "s": "Zunächst stoppt ein Gericht die erste Hinrichtung einer Frau seit mehr als 200 Jahren in dem US‑Südstaat. Die Vollstreckung folgt – und scheitert.",
+   "u": "https://taz.de/Hinrichtung-in-Tennessee-abgebrochen/!6217930/",
+   "q": "taz",
+   "d": "2026-10-01T05:18:00+00:00"
+  },
+  {
+   "t": "Regeln für Hochschulprüfungen: Die künstliche Intelligenz schreibt sowieso mit",
+   "s": "Nur wenige Unis haben klare Regeln für den Umgang mit Sprachmodellen. In zwei Fällen musste schon ein Gericht ran.",
+   "u": "https://taz.de/Regeln-fuer-Hochschulpruefungen/!6217261/",
+   "q": "taz",
+   "d": "2026-10-01T05:00:00+00:00"
+  },
   {
    "t": "Neue Vorwürfe gegen Elif Eralp: Die Rote Hilfe ist wichtiger denn je",
    "s": "Eine linke Juristin war Mitglied einer linken juristischen Organisation, wo ist der Skandal? Elif Eralp muss sich für nichts schämen – im Gegenteil.",
@@ -32,7 +102,7 @@
   },
   {
    "t": "Einigung bei Pflegereform: Vor allem ein Spargesetz",
-   "s": "Die Pflegereform ist beschlossen. Die Belastungen für Pflegebedürftige werden weiter steigen. Das wirft heikle Gerechtigkeitsfragen auf.",
+   "s": "Die Koalition hat sich auf die Pflegereform geeinigt. Belastungen für Pflegebedürftige werden weiter steigen. Das wirft heikle Gerechtigkeitsfragen auf.",
    "u": "https://taz.de/Pflegereform-Ein-Spargesetz-dass-prekaere-Gerechtigkeitsfragen-aufwirft/!6217663/",
    "q": "taz",
    "d": "2026-09-30T18:07:00+00:00"
@@ -99,76 +169,6 @@
    "u": "https://taz.de/SPD-Papier-zu-wehrhafter-Demokratie/!6217740/",
    "q": "taz",
    "d": "2026-09-30T15:50:00+00:00"
-  },
-  {
-   "t": "Todesstrafe in den USA: Hinrichtung in Tennessee kurz vorher gestoppt",
-   "s": "In dem US-Bundesstaat sollte mit Christa Pike zum ersten Mal seit über 200 Jahren eine Frau exekutiert werden. Doch ein Gericht stoppte die Vollstreckung kurz zuvor.",
-   "u": "https://taz.de/Todesstrafe-in-den-USA/!6217574/",
-   "q": "taz",
-   "d": "2026-09-30T15:47:00+00:00"
-  },
-  {
-   "t": "Antifa-Prozess in Paris: Grünes Licht für Auslieferung",
-   "s": "Frankreichs will den Antifaschisten Gino nach Deutschland schicken. Damit besteht nun die Gefahr einer Auslieferung an Ungarn.",
-   "u": "https://taz.de/Antifa-Prozess-in-Paris/!6217830/",
-   "q": "taz",
-   "d": "2026-09-30T15:45:00+00:00"
-  },
-  {
-   "t": "Erste Reformschritte beschlossen: Was sich bei der Pflege ändern soll",
-   "s": "Nach langem Ringen hat sich sie Bundesregierung auf ein \"Pflegeneuordnungsgesetz\" geeinigt. Das setzt zunächst darauf, das System am Laufen zu halten. Für Kinderlose wird es teurer. Was sich sonst noch ändern soll - ein Überblick.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/faq-pflegereform-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T15:24:32+00:00"
-  },
-  {
-   "t": "Alternativer Nobelpreis: Unermüdlicher Einsatz für Menschenrechte",
-   "s": "Das georgische An­wäl­t*in­nen­kol­lek­tiv GYLA, die älteste NGO des Landes, trotzt dem sich verschärfenden Druck auf die Zivilgesellschaft.",
-   "u": "https://taz.de/Alternativer-Nobelpreis/!6217640/",
-   "q": "taz",
-   "d": "2026-09-30T15:22:00+00:00"
-  },
-  {
-   "t": "Pflegegesetz im Kabinett: Die große Reform ist erstmal vertagt",
-   "s": "Es gibt nun ein Pflegegesetz - doch die große Strukturreform soll erst 2027 folgen. Wie stehen Union und SPD nach der Einigung da? Und werden die geplanten Einsparungen ausreichen? Von Tina Handel.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kabinett-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T15:19:50+00:00"
-  },
-  {
-   "t": "Türkeibesuch von Hendrik Wüst: Visa für Geschäftsleute, Schulterklopfen für Opposition",
-   "s": "Bei seiner Türkeireise kann NRWs Ministerpräsident schnellere Visaverfahren ankündigen. Opposition und Zivilgesellschaft trifft er am Ende auch noch.",
-   "u": "https://taz.de/Tuerkeibesuch-von-Hendrik-Wuest/!6217787/",
-   "q": "taz",
-   "d": "2026-09-30T15:14:00+00:00"
-  },
-  {
-   "t": "Leere Gasspeicher – Ministerin lässt jetzt shoppen",
-   "s": "Die Füllstände der Gasspeicher in Deutschland liegen auf einem vergleichsweise niedrigen Niveau. Deshalb hat Katherina Reiche das staatliche Energieunternehmen Sefe nun doch dazu angewiesen, Gas einzuspeichern. Wie kam es zu der Kehrtwende? Und: Die Koalition will die Pflegeversicherung stabilisieren.Schulz, Sandra",
-   "u": "https://www.deutschlandfunk.de/niedriger-fuellstand-gasspeicher-katherina-reiche-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-30T15:00:00+00:00"
-  },
-  {
-   "t": "Marokkos Ministerpräsidentin: Eine Premiere für Marokko",
-   "s": "Fatima Ezzahra El Mansouri war bereits die erste Frau an der Spitze des Gemeinderats von Marrakesch. Nun wird sie Marokkos erste Regierungschefin.",
-   "u": "https://taz.de/Marokkos-Ministerpraesidentin/!6217697/",
-   "q": "taz",
-   "d": "2026-09-30T14:53:00+00:00"
-  },
-  {
-   "t": "Alternativer Nobelpreis: Kämpferin für eine bessere Technologie",
-   "s": "Künstliche Intelligenz muss nicht konzernorientiert sein, findet die Informatikerin Timnit Gebru. Die Preisträgerin will die Technologie alternativ denken.",
-   "u": "https://taz.de/Alternativer-Nobelpreis/!6217620/",
-   "q": "taz",
-   "d": "2026-09-30T14:19:00+00:00"
-  },
-  {
-   "t": "Razzia wegen Geldwäsche-Netzwerk um \"Hells Angels\"",
-   "s": "Die Polizei hat am frühen Morgen Wohnungen in mehreren Bundesländern und im europäischen Ausland durchsucht: Im Visier haben die Behörden ein internationales Geldwäsche-Netzwerk um die \"Hells Angels\".",
-   "u": "https://www.tagesschau.de/inland/razzia-geldwaesche-banden-hells-angels-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T14:05:10+00:00"
   }
  ]
 }

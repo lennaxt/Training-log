@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-10-01T00:33:38+00:00",
+ "updated": "2026-10-01T10:09:55+00:00",
  "items": [
+  {
+   "t": "US-Kriegsminister Hegseth: Musk soll „Zukunft der Kriegsführung“ miterforschen",
+   "s": "Laut US-Kriegsminister Pete Hegseth soll der Tech-Milliardär Elon Musk mit seinen Firmen KI und Roboter für das Militär entwickeln.",
+   "u": "https://taz.de/USA/!6217961/",
+   "q": "taz",
+   "d": "2026-10-01T08:57:00+00:00"
+  },
+  {
+   "t": "Hinrichtung in Tennessee abgebrochen: Sie überlebte zwei Giftspritzen",
+   "s": "Zunächst stoppt ein Gericht die erste Hinrichtung einer Frau seit mehr als 200 Jahren in dem US‑Südstaat. Die Vollstreckung folgt – und scheitert.",
+   "u": "https://taz.de/Hinrichtung-in-Tennessee-abgebrochen/!6217930/",
+   "q": "taz",
+   "d": "2026-10-01T05:18:00+00:00"
+  },
   {
    "t": "Todesstrafe in den USA: Hinrichtung in Tennessee kurz vorher gestoppt",
    "s": "In dem US-Bundesstaat sollte mit Christa Pike zum ersten Mal seit über 200 Jahren eine Frau exekutiert werden. Doch ein Gericht stoppte die Vollstreckung kurz zuvor.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Armutsbekaempfung-in-Brasilien/!6214741/",
    "q": "taz",
    "d": "2026-09-21T09:21:00+00:00"
-  },
-  {
-   "t": "Argentinien und Großbritannien: Neuer Anlauf im Inselkonflikt",
-   "s": "Argentiniens Präsident Javier Milei will die Malwinen (Falklandinseln) von den Briten zurück. Seine nächste Bühne: die UN-Generalversammlung.",
-   "u": "https://taz.de/Argentinien-und-Grossbritannien/!6214927/",
-   "q": "taz",
-   "d": "2026-09-21T09:01:00+00:00"
-  },
-  {
-   "t": "ICE in Texas: Beamte schießen Mann an",
-   "s": "Die ICE steht wegen Gewalt gegen Migranten in der Kritik. Nun fallen erneut Schüsse, diesmal in Austin. Der Bürgermeister der Stadt fordert Aufarbeitung.",
-   "u": "https://taz.de/ICE-in-Texas/!6214930/",
-   "q": "taz",
-   "d": "2026-09-21T07:20:00+00:00"
   }
  ]
 }

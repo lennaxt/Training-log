@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-01T00:33:35+00:00",
+ "updated": "2026-10-01T10:09:51+00:00",
  "items": [
+  {
+   "t": "Was Autofahrer zum Start des neuen \"Tankrabatts\" wissen müssen",
+   "s": "Ab heute gilt ein neuer \"Tankrabatt\". Wie kommen Kunden an günstigeren Sprit? Wann lohnt sich das Tanken und wie viel kann man sparen? Was man zum Start des \"Tankrabatts\" wissen muss.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-tankrabatt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T08:34:33+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX fällt unter 25.000 Punkte",
+   "s": "Belastet von Inflationssorgen und der Befürchtung steigender Zinsen ist der DAX mit Verlusten in den Oktober gestartet. Dabei fiel sogar die psychologisch wichtige Marke von 25.000 Punkten.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T08:26:21+00:00"
+  },
+  {
+   "t": "Energieverbrauch: Anteil von Ökostrom steigt auf Rekordwert",
+   "s": "In den ersten neun Monaten des Jahres betrug der Anteil von Ökostrom am gesamten Stromverbrauch fast 61 Prozent. Das ist so viel wie nie. Gleichzeitig stieg aber auch der Strombedarf.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/oekostrom-wind-sonne-wasserkraft-rekord-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T07:56:39+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 01.10.2026",
+   "s": "Update Wirtschaft vom 01.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1658544.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T07:48:32+00:00"
+  },
+  {
+   "t": "Freiwilliger Spritpreisdeckel - auch in Deutschland denkbar?",
+   "s": "In Frankreich und Italien begrenzen große Mineralölkonzerne die Preise an ihren Tankstellen. Dafür verzichten sie auf einen Teil ihrer Gewinne. Könnten Konzerne in Deutschland das auch machen? Von Michelle Goddemeier.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-deckel-europa-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T04:51:25+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 30.09.2026",
    "s": "Wirtschaft vor acht vom 30.09.2026",
@@ -10,18 +45,11 @@
    "d": "2026-09-30T18:36:16+00:00"
   },
   {
-   "t": "Verträge gekündigt: Volkswagen steht vor neuer Tarifschlacht",
+   "t": "Verträge gekündigt: Volkswagen steht vor neuem Tarifkampf",
    "s": "Die VW-Geschäftsführung hat eine Reihe von Tarifverträgen gekündigt. Nun drohen dem Konzern harte Wochen. Die Arbeitnehmerseite hat bereits massiven Widerstand angekündigt. Von Torben Hildebrandt.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-tarifvertraege-sparkurs-100.html",
    "q": "Tagesschau",
    "d": "2026-09-30T17:02:10+00:00"
-  },
-  {
-   "t": "Marktbericht: Zinsängste schrecken DAX-Anleger ab",
-   "s": "Am deutschen Aktienmarkt überwog heute die Sorge vor steigenden Zinsen. Zuvor zeigten Inflationsdaten aus der Eurozone eine Teuerung deutlich über dem Ziel der EZB. Aber auch Einzelwerte standen im Fokus.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T16:22:36+00:00"
   },
   {
    "t": "Preis für Deutschlandticket steigt im Januar auf 66,80 Euro",
@@ -101,13 +129,6 @@
    "d": "2026-09-29T12:44:40+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 29.09.2026",
-   "s": "Update Wirtschaft vom 29.09.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1657338.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T08:29:00+00:00"
-  },
-  {
    "t": "US-Importverbote gegen Kanada in Kraft",
    "s": "Für kanadische Waren sind neue Importverbote in die USA in Kraft getreten. Betroffen sind unter anderem eine Reihe von Molkereiprodukten, alkoholischen Getränken und Motorrädern.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-zollstreit-104.html",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/zev-abmahnung-airlines-100.html",
    "q": "Tagesschau",
    "d": "2026-09-28T15:45:38+00:00"
-  },
-  {
-   "t": "Schaden in Milliardenhöhe - Anlagebetrug mit gefälschten Nachrichtenseiten",
-   "s": "Sie sehen aus wie Artikel der tagesschau, führen jedoch auf betrügerische Anlageplattformen. Schätzungen zufolge machen Verbrechernetzwerke mit dieser Masche jährlich Milliarden - und bringen Tausende Menschen um ihr Erspartes. Von Pascal Siggelkow.",
-   "u": "https://www.tagesschau.de/investigativ/faktenfinder/geldanlage-betrug-fake-nachrichtenseiten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T13:43:05+00:00"
-  },
-  {
-   "t": "Drei deutsche BioNTech-Werke müssen schließen",
-   "s": "Drei deutsche Produktionsstandorte des Pharmaunternehmens BioNTech werden geschlossen. In den Werken in Marburg, Idar-Oberstein und Tübingen sind derzeit rund 1.800 Mitarbeiter beschäftigt.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/biontech-standorte-schliessung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T13:17:39+00:00"
-  },
-  {
-   "t": "Hohe Ethanolpreise: Südzucker erwartet bessere Geschäfte",
-   "s": "Die Geschäfte bei Südzucker laufen noch besser als bisher gedacht. Der Zuckerkonzern hat zuletzt sowohl von zunehmenden Wetterextremen als auch von den Folgen des Iran-Konflikts profitiert.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-suedzucker-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T12:18:56+00:00"
   }
  ]
 }

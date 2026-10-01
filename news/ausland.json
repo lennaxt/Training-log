@@ -1,20 +1,69 @@
 {
  "name": "Ausland",
- "updated": "2026-10-01T00:33:34+00:00",
+ "updated": "2026-10-01T10:09:50+00:00",
  "items": [
+  {
+   "t": "Südafrikas Präsident räumt Versäumnisse bei Gewalt gegen Frauen ein",
+   "s": "Südafrika wird von mehreren Morden an Frauen erschüttert. Präsident Ramaphosa hat nun Versäumnisse beim Kampf gegen geschlechtsbezogene Gewalt eingeräumt und Maßnahmen angekündigt - die halten Kritiker für längst überfällig. Von S. Ueberbach.",
+   "u": "https://www.tagesschau.de/ausland/afrika/suedafrika-gewalt-frauen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T09:25:58+00:00"
+  },
+  {
+   "t": "Überwachung in China: Der Staat will alles sehen",
+   "s": "Mehr als 700 Millionen Kameras, die durch KI und Gesichtserkennung vernetzt sind, digitale Beobachtung im Internet: China betreibt das umfassendste Überwachungssystem der Welt. Viele finden das aber gar nicht schlimm. Von Christoph Kober.",
+   "u": "https://www.tagesschau.de/ausland/asien/china-ueberwachung-106.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T08:23:14+00:00"
+  },
+  {
+   "t": "Neue Ausreiseverbote für Chinas \"nationale Sicherheit\"",
+   "s": "Peking verhängt für immer mehr Chinesen Ausreiseverbote. Nun soll ein weit gefasstes neues Gesetz die Abwanderung von Know-how, Technologie und Talenten verhindern - vor allem in die USA. Von Marie v. Mallinckrodt.",
+   "u": "https://www.tagesschau.de/ausland/asien/china-ausreisebeschraenkungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T08:22:51+00:00"
+  },
+  {
+   "t": "Gewalt im Cockpit: Flydubai-Passagiere sicher nach Tel Aviv gebracht",
+   "s": "Umjubelter Empfang in Tel Aviv: Eine Ersatzmaschine hat die Passagiere des Flydubai-Fluges nach Israel gebracht. Augenzeugen berichten von einem Kampf im Cockpit und steilem Sinkflug. Von Felicitas Boeselager.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-fly-dubai-vorfall-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T07:11:34+00:00"
+  },
+  {
+   "t": "Wadephul für schnellen EU-Beitritt der Westbalkan-Länder",
+   "s": "Außenminister Wadephul sieht einen EU-Beitritt der westlichen Balkanstaaten als ein Kerninteresse Europas. Er verweist vor Gesprächen in Montenegro dabei auf eine Einflussnahme von Russland und Chinas. Von Georg Schwarte.",
+   "u": "https://www.tagesschau.de/ausland/europa/wadephul-reise-balkan-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T06:48:36+00:00"
+  },
+  {
+   "t": "Gescheiterte Hinrichtung: Verurteilte überlebt zwei Giftspritzen",
+   "s": "Vor 30 Jahren wurde Christa Pike in den USA wegen Mordes zum Tode verurteilt. Nun sollte die Hinrichtung nach langem juristischen Tauziehen vollzogen werden - doch die Verurteilte überlebte.",
+   "u": "https://www.tagesschau.de/ausland/amerika/hinrichtung-usa-supreme-court-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T05:56:36+00:00"
+  },
+  {
+   "t": "Generale und Admirale - Hegseth streicht ein Fünftel aller Stellen",
+   "s": "US-Verteidigungsminister Hegseth kürzt die Stellen von Generalen und Admiralen drastisch zusammen. Ein Vorgänger kritisiert die Entscheidung deutlich. Elon Musk bekommt vom Pentagon eine wichtige Rolle.",
+   "u": "https://www.tagesschau.de/ausland/amerika/hegseth-entlaesst-offiziere-musk-untersucht-kriegsfuehrung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T05:45:02+00:00"
+  },
+  {
+   "t": "Supreme Court erlaubt Hinrichtung von Frau in Tennessee",
+   "s": "Zunächst war die Vollstreckung des Todesurteils im Fall Christa Pike gestoppt worden. Dann kippte der Oberste Gerichtshof in den USA die Entscheidung. Schließlich gab es Unregelmäßigkeiten beim Vollzug der Todesstrafe: Die Verurteilte überlebte.",
+   "u": "https://www.tagesschau.de/ausland/amerika/hinrichtung-frau-us-bundesstaat-tennessee-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T02:40:55+00:00"
+  },
   {
    "t": "Burkaverbot und Sprachquote an Italiens Schulen in Kraft",
    "s": "Nicht nur Schüler, sondern auch Eltern sind betroffen: In Italien gilt jetzt an Schulen ein Verschleierungsverbot und eine Sprachquote. Staatschef Mattarella unterschrieb am Abend ein Gesetzesdekret der rechten Meloni-Regierung.",
    "u": "https://www.tagesschau.de/ausland/europa/italien-erlaesst-burkaverbot-und-sprachquote-an-schulen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-01T00:28:55+00:00"
-  },
-  {
-   "t": "US-Verteidigungsminister Hegseth verschlankt US-Armee - neue Rolle für Musk",
-   "s": "Der US-Verteidigungsminister strukturiert weiter die Armee um: Künftig soll es 20 Prozent weniger Offiziere und Planstellen geben. Zudem kommt Elon Musk eine neue Rolle zu: Der Tech-Milliardär soll die künftige Kriegsführung erforschen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/hegseth-entlaesst-offiziere-musk-untersucht-kriegsfuehrung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T23:16:22+00:00"
   },
   {
    "t": "Flydubai-Flug nach Tel Aviv: Was über den Vorfall bekannt ist",
@@ -120,55 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/afrika/marokko-frau-regierungschefin-100.html",
    "q": "Tagesschau",
    "d": "2026-09-29T19:11:36+00:00"
-  },
-  {
-   "t": "Schüler und Beamte protestieren gegen Sparkurs in Frankreich",
-   "s": "Schlechte Ausstattung, zu große Klassen, Ungleichheit: Seit Tagen machen Schüler in Frankreich bei Protesten ihrem Unmut Luft. Einige schlossen sich nun Beamten an, die gegen den Sparkurs der Regierung auf die Straße gingen. Von Julia Borutta.",
-   "u": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T18:25:01+00:00"
-  },
-  {
-   "t": "Burnham kündigt umfassende Sozialreformen für Großbritannien an",
-   "s": "Der britische Premierminister Burnham hat beim Parteitag von Labour umfassende politische Reformen angekündigt. Sie sollen langfristig die Lebenshaltungskosten senken und das Sozialsystem neu sortieren. Von Lisa-Maria Röhling.",
-   "u": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-rede-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T15:55:24+00:00"
-  },
-  {
-   "t": "Westjordanland: Siedler verhindern Rückkehr vertriebener Palästinenser",
-   "s": "Selbst Israels Premier schaltete sich in den Fall ein: Familie Tubassi wurde von jüdischen Siedlern aus ihrem Haus im Westjordanland vertrieben. Sie wehrte sich erfolgreich vor Gericht. Doch auch das half ihr nicht. Von Felicitas Boeselager.",
-   "u": "https://www.tagesschau.de/ausland/siedlergewalt-westjordanland-israel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T15:50:53+00:00"
-  },
-  {
-   "t": "Spanische Regierung will Mietverträge entfristen und Zwangsräumungen verbieten",
-   "s": "Angesichts der landesweiten Proteste hat die spanische Regierung zwei Dekrete gegen Wohnungsnot beschlossen. Die 87-Jährige, deren Zwangsräumung die Proteste ausgelöst hatte, konnte zurück in ihre Wohnung in Madrid.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-will-mietvertraege-entfristen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T14:29:56+00:00"
-  },
-  {
-   "t": "Estland macht Russland für Brandanschlag verantwortlich",
-   "s": "Estland wirft Russland Sabotage vor: Hinter einem Brandanschlag auf eine Rüstungsfirma in Tallinn steckt nach neuesten Erkenntnissen Russland. NATO-Chef Rutte rief die Bündnismitglieder auf, ruhig zu bleiben.",
-   "u": "https://www.tagesschau.de/ausland/estland-brandanschlag-russland-nato-ostflanke-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T13:44:47+00:00"
-  },
-  {
-   "t": "Nach schweren Drohnenangriffen: Saudi-arabische Ölpipeline offenbar wieder in Betrieb",
-   "s": "Saudi-Arabien hat laut Medienberichten die Ölexporte über die Ost-West-Pipeline wieder aufgenommen. Das Land hatte vorübergehend den Betrieb eingestellt, da die Pipeline bei Angriffen beschädigt wurde. Analysten erwarten bald volle Kapazität.",
-   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-ost-west-pipeline-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T13:35:10+00:00"
-  },
-  {
-   "t": "EU: Pro Bürger landen jährlich 129 Kilo Lebensmittel im Müll",
-   "s": "Jeder EU-Bürger wirft pro Jahr Dutzende Kilogramm an Lebensmitteln weg, wie eine neue Statistik zeigt. Dagegen soll vorgegangen werden - auf europäischer und nationaler Ebene.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-lebensmittel-muell-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T12:45:14+00:00"
   }
  ]
 }
