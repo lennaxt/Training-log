@@ -1,7 +1,49 @@
 {
  "name": "Ausland",
- "updated": "2026-10-01T10:09:50+00:00",
+ "updated": "2026-10-01T20:21:25+00:00",
  "items": [
+  {
+   "t": "Netanjahu schreibt dem Flydubai-Co-Piloten islamistische Gesinnung zu",
+   "s": "Nach der Gewalttat auf einem Flydubai-Flug nach Tel Aviv laufen die Untersuchungen, wie es zu der Auseinandersetzung im Cockpit kam. Israels Premier Netanjahu geht von einer islamistischen Radikalisierung des Co-Piloten aus.",
+   "u": "https://www.tagesschau.de/ausland/asien/netanjahu-flydubai-copilot-islamistisch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T19:54:14+00:00"
+  },
+  {
+   "t": "Gescheiterte Hinrichtung in den USA sorgt für Entsetzen - Debatte über Todesstrafe",
+   "s": "Nach der fehlgeschlagenen Hinrichtung einer verurteilten Mörderin in den USA dringen Menschenrechtler auf die Abschaffung der Todesstrafe. Zum Zustand der Frau, die zwei Giftspritzen überlebt hat, ist weiterhin wenig bekannt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/ende-der-todesstrafe-in-den-usa-gefordert-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T19:11:40+00:00"
+  },
+  {
+   "t": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
+   "s": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen Missstände an Schulen.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T16:26:29+00:00"
+  },
+  {
+   "t": "Bundeswehr-Einsatz im Irak beendet - Soldaten kehren zurück",
+   "s": "Nach mehr als einem Jahrzehnt der Bundeswehr-Präsenz im Irak sind die letzten 28 Soldaten und Soldatinnen wieder zurück in Deutschland. Das Verteidigungsministerium arbeitet bereits an einer neuen Zusammenarbeit.",
+   "u": "https://www.tagesschau.de/ausland/asien/letzte-bundeswehr-soldaten-aus-irak-zurueckgekehrt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T16:05:21+00:00"
+  },
+  {
+   "t": "Bremst Israel deutsche Gaza-Hilfe aus?",
+   "s": "Deutschland hat Israel Lkw-Scanner ausgeliehen. Die Idee: mehr Lkw können am Grenzübergang durchleuchtet werden, mehr Hilfe kann nach Gaza gelangen. Doch die Scanner sind gar nicht in Betrieb, wie Recherchen des ARD-Studios Tel Aviv zeigen. Von Björn Dake.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-bremst-deutsche-gazahilfe-aus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T13:53:48+00:00"
+  },
+  {
+   "t": "EU schafft rechtliche Basis für Abschiebezentren in Drittstaaten",
+   "s": "Zwei Monate nach der Krise in Ceuta verschärfen die EU-Länder ihre Asylregeln weiter. Künftig dürfen sie umstrittene Abschiebezentren in Drittstaaten betreiben. Innenminister Dobrindt hofft noch in diesem Jahr auf eine erste Vereinbarung.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-abschiebezentren-drittstaaten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T13:48:13+00:00"
+  },
   {
    "t": "Südafrikas Präsident räumt Versäumnisse bei Gewalt gegen Frauen ein",
    "s": "Südafrika wird von mehreren Morden an Frauen erschüttert. Präsident Ramaphosa hat nun Versäumnisse beim Kampf gegen geschlechtsbezogene Gewalt eingeräumt und Maßnahmen angekündigt - die halten Kritiker für längst überfällig. Von S. Ueberbach.",
@@ -18,7 +60,7 @@
   },
   {
    "t": "Neue Ausreiseverbote für Chinas \"nationale Sicherheit\"",
-   "s": "Peking verhängt für immer mehr Chinesen Ausreiseverbote. Nun soll ein weit gefasstes neues Gesetz die Abwanderung von Know-how, Technologie und Talenten verhindern - vor allem in die USA. Von Marie v. Mallinckrodt.",
+   "s": "Peking verhängt für immer mehr Chinesen Ausreiseverbote. Nun soll ein weit gefasstes neues Gesetz die Abwanderung von Know-how, Technologie und Talenten verhindern - vor allem in die USA. Von Marie von Mallinckrodt.",
    "u": "https://www.tagesschau.de/ausland/asien/china-ausreisebeschraenkungen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-01T08:22:51+00:00"
@@ -32,7 +74,7 @@
   },
   {
    "t": "Wadephul für schnellen EU-Beitritt der Westbalkan-Länder",
-   "s": "Außenminister Wadephul sieht einen EU-Beitritt der westlichen Balkanstaaten als ein Kerninteresse Europas. Er verweist vor Gesprächen in Montenegro dabei auf eine Einflussnahme von Russland und Chinas. Von Georg Schwarte.",
+   "s": "Außenminister Wadephul sieht einen EU-Beitritt der westlichen Balkanstaaten als ein Kerninteresse Europas. Er verweist vor Gesprächen in Montenegro dabei auf eine Einflussnahme von Russland und China. Von Georg Schwarte.",
    "u": "https://www.tagesschau.de/ausland/europa/wadephul-reise-balkan-100.html",
    "q": "Tagesschau",
    "d": "2026-10-01T06:48:36+00:00"
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
    "q": "Tagesschau",
    "d": "2026-09-30T07:59:56+00:00"
-  },
-  {
-   "t": "US-Truppen ziehen ab - Im Irak beginnt eine neue Ära",
-   "s": "Im Irak ist es der Schlusspunkt nach einer Epoche. Nach mehr als 20 Jahren endete heute die Präsenz des US-Militärs. Doch das bedeutet nicht, dass die irakische Armee die alleinige Kontrolle übernimmt. Viele Akteure mischen weiter mit. Von A. Osius.",
-   "u": "https://www.tagesschau.de/ausland/asien/irak-usa-truppenabzug-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T07:13:56+00:00"
-  },
-  {
-   "t": "Vergewaltigungsvorwürfe an US-Elite-Uni Cornell werden neu untersucht",
-   "s": "Vor etwa zwei Jahren wurde eine Gruppenvergewaltigung an der US-Elite-Uni Cornell angezeigt - ohne große Konsequenzen. Nun meldet sich die junge Frau erneut zu Wort und der Fall wird neu aufgerollt. Von Ute Schyns.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kritik-cornell-vorwuerfe-vergewaltigung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T07:08:37+00:00"
-  },
-  {
-   "t": "Preisträgerinnen des Alternativen Nobelpreises bekannt gegeben",
-   "s": "In Stockholm sind die Preisträgerinnen des Right Livelihood Award bekannt gegeben worden - oft auch Alternativer Nobelpreis genannt. Die Auszeichnung geht in diesem Jahr ausschließlich an Frauen und von Frauen geführte Organisationen. Von J. Sinram.",
-   "u": "https://www.tagesschau.de/ausland/europa/preistraeger-right-livelihood-award-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T04:54:58+00:00"
-  },
-  {
-   "t": "Ukrainische Wirtschaft durch Krieg unter Druck",
-   "s": "Russland hat seine Angriffe auf die Ukraine seit Wochen verstärkt. Eine große Belastung ist das auch für die Wirtschaft: Brennende Einkaufszentren und Lagerhallen, unterbrochene Logistikketten fordern Unternehmen heraus. Von M. Dugge.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-unternehmen-trotz-krieg-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T02:06:47+00:00"
-  },
-  {
-   "t": "Burnham kündigt auf Labour-Parteitag Reformen an",
-   "s": "Burnham könnte für Labour ein Wendepunkt sein: Seine Nahbarkeit kommt an, mit ihm als Premier wird die Partei wieder beliebter. Nach kleineren Projekten sollen nun große Reformen zeigen, dass er auch anpacken kann. Von Lisa-Maria Röhling.",
-   "u": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-labour-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T20:19:59+00:00"
-  },
-  {
-   "t": "Marokkos König ernennt erstmals eine Frau zur Ministerpräsidentin",
-   "s": "Als Favorit galt der populäre Chef des Königlichen Fußballverbandes. Doch Marokkos König ernannte eine Frau zur Regierungschefin - erstmals in der Geschichte des Landes: die bisherige Wohnungsbauministerin El Mansouri.",
-   "u": "https://www.tagesschau.de/ausland/afrika/marokko-frau-regierungschefin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T19:11:36+00:00"
   }
  ]
 }

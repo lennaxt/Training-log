@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-01T10:09:54+00:00",
+ "updated": "2026-10-01T20:21:29+00:00",
  "items": [
+  {
+   "t": "Bundeswehreinsatz im Irak: Klangloses Ende für den zweitgrößten Auslandseinsatz",
+   "s": "Die deutsche Armee hat ihren Einsatz in Irak nach eigenen Angaben „erfüllt“. Offen ist, wie es ohne sie in der kurdischen Autonomieregion weitergeht.",
+   "u": "https://taz.de/Bundeswehreinsatz-im-Irak/!6217820/",
+   "q": "taz",
+   "d": "2026-10-01T15:58:00+00:00"
+  },
   {
    "t": "Alternativer Nobelpreis: Unermüdlicher Einsatz für Menschenrechte",
    "s": "Das georgische An­wäl­t*in­nen­kol­lek­tiv GYLA, die älteste NGO des Landes, trotzt dem sich verschärfenden Druck auf die Zivilgesellschaft.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Volksabstimmung-in-der-Schweiz/!6216507/",
    "q": "taz",
    "d": "2026-09-27T15:48:00+00:00"
-  },
-  {
-   "t": "Deutsch-russiches Treffen in New York: Nicht satisfaktionsfähig",
-   "s": "Das Gespräch zwischen Wadephul und Lawrow zeigt Russlands Desinteresse an Verhandlungen. Die Demütigung hätte der Außenminister sich ersparen können.",
-   "u": "https://taz.de/Deutsch-russsiches-Treffen-in-New-York/!6216751/",
-   "q": "taz",
-   "d": "2026-09-27T14:18:00+00:00"
   }
  ]
 }

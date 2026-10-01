@@ -1,7 +1,21 @@
 {
  "name": "Sport",
- "updated": "2026-10-01T10:09:56+00:00",
+ "updated": "2026-10-01T20:21:30+00:00",
  "items": [
+  {
+   "t": "Massaker-Opfer in Iran: Der Widerspruch der Väter",
+   "s": "Vor der UN-Generalversammlung machte Irans Präsident Massud Peseschkian Terroristen und den Mossad für die Januar-Massaker verantwortlich. Angehörige der Opfer widersprechen.",
+   "u": "https://taz.de/Massaker-Opfer-in-Iran/!6217987/",
+   "q": "taz",
+   "d": "2026-10-01T17:40:00+00:00"
+  },
+  {
+   "t": "Grenzkrieg mit Afghanistan: Pakistan eskaliert wieder am Hindukusch",
+   "s": "Die pakistanische Luftwaffe greift erneut angebliche Terroristenlager in Afghanistan an. Erstmals gibt es Berichte über eine Unterstützung bewaffneter Taliban-Gegner.",
+   "u": "https://taz.de/Grenzkrieg-mit-Afghanistan/!6217958/",
+   "q": "taz",
+   "d": "2026-10-01T13:53:00+00:00"
+  },
   {
    "t": "Weltweite Aufrüstung: Deutsche Rüstungsindustrie drängt nach Japan",
    "s": "Die Regierung in Tokio hat ihre Beschränkung von Waffenexporten gelockert. Rüstungskonzerne loten jetzt neue Kooperationen aus.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/BRICS-als-internationale-Plattform/!6212701/",
    "q": "taz",
    "d": "2026-09-12T18:25:00+00:00"
-  },
-  {
-   "t": "Chinas Aufstieg seit 2001: Von der Goldgrube zum Konkurrenten",
-   "s": "Der WTO-Beitritt war zentral für Chinas Entwicklung. Der Westen träumte vom „Wandel durch Handel“, Xi Jinping aber seinen „chinesischen Traum“.",
-   "u": "https://taz.de/Chinas-Aufstieg-seit-2001/!6208883/",
-   "q": "taz",
-   "d": "2026-09-12T08:44:00+00:00"
-  },
-  {
-   "t": "Brics-Gipfel in Delhi: Nicht westlich, aber nicht gegen den Westen",
-   "s": "Chinas Staatschef Xi Jinping kommt erstmals seit 2019 nach Indien – zum Brics-Gipfel. Gelingt dem Bündnis eine gemeinsame Politik trotz Unterschieden?",
-   "u": "https://taz.de/Brics-Gipfel-in-Delhi/!6212507/",
-   "q": "taz",
-   "d": "2026-09-11T11:26:00+00:00"
   }
  ]
 }

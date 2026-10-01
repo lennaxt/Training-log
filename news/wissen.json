@@ -1,7 +1,28 @@
 {
  "name": "Wissen",
- "updated": "2026-10-01T10:09:52+00:00",
+ "updated": "2026-10-01T20:21:27+00:00",
  "items": [
+  {
+   "t": "Google schickt testweise KI-Chips ins All - Rechenzentren im All",
+   "s": "Unendliche Weite und extrem niedrige Temperaturen: Das Weltall könnte Potenzial für Rechenzentren bergen, die auf der Erde Ressourcen verbrauchen. Google wagt nun einen ersten Schritt in diese Richtung - trotz technischer Hürden. Von David Beck.",
+   "u": "https://www.tagesschau.de/wissen/weltraum/ki-chips-im-all-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T16:17:17+00:00"
+  },
+  {
+   "t": "Drastische Auswirkungen von Hitzesommer und Klimawandel auf Schweizer Gletscher",
+   "s": "Drastische Auswirkungen von Hitzesommer und Klimawandel auf Schweizer Gletscher",
+   "u": "https://www.tagesschau.de/video/video-1658858.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T15:18:48+00:00"
+  },
+  {
+   "t": "Folge des Klimawandels: Schweizer Gletscher schmelzen schneller",
+   "s": "Folge des Klimawandels: Schweizer Gletscher schmelzen schneller",
+   "u": "https://www.tagesschau.de/video/video-1658806.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T14:11:25+00:00"
+  },
   {
    "t": "Für die Schweizer Gletscher war 2026 ein verheerendes Jahr",
    "s": "Seit Jahrtausenden prägen Gletscher die Schweizer Alpen. Doch neueste Zahlen geben Grund zur Sorge: Die Gletscher schmelzen weiter dramatisch und haben dieses Jahr mehr als fünf Prozent ihres Volumens verloren. Von Sandra Biegger.",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/gesundheit-sepsis-100.html",
    "q": "Tagesschau",
    "d": "2026-09-13T06:16:32+00:00"
-  },
-  {
-   "t": "Oktoberfest: So gut schützen Impfungen vor Atemwegsinfekten",
-   "s": "Die \"Wiesn-Grippe\" gibt es eigentlich nicht. Doch nach dem Oktoberfestbesuch klagen viele über Husten und Schnupfen. Welche Viren dahinterstecken und welche Impfungen helfen können. Von Doris Tromballa.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/oktoberfest-grippe-corona-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-11T10:29:58+00:00"
-  },
-  {
-   "t": "Weitere Nachrichten zu Gesundheit und Medizin",
-   "s": "Tagesaktuelle Nachrichten zu Medizin, Gesundheit und Corona. Neue Studien, Experten-Meinungen und Hintergründe zu aktuellen Wissens-Themen.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit",
-   "q": "Tagesschau",
-   "d": "2026-09-11T09:08:28+00:00"
-  },
-  {
-   "t": "Rauchen senkt laut WHO Chance auf Schwangerschaft deutlich",
-   "s": "Wer raucht, hat schlechtere Aussichten, Vater oder Mutter zu werden. Bei Männern kann die Spermienqualität sinken, bei Frauen steigt das Risiko von Unfruchtbarkeit. Die WHO warnt auch vor den Folgen des Passivrauchens.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/who-rauchen-schwangerschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-08T13:46:02+00:00"
   }
  ]
 }

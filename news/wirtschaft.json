@@ -1,20 +1,69 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-01T10:09:51+00:00",
+ "updated": "2026-10-01T20:21:26+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 01.10.2026",
+   "s": "Wirtschaft vor acht vom 01.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1658986.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T17:46:32+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX schließt unter 25.000 Punkten",
+   "s": "Steigende Energiepreise und weiter anziehende Anleiherenditen haben den Aktienmarkt geschwächt. Der DAX hat erstmals seit Juli unterhalb der psychologisch wichtige Marke von 25.000 Punkten geschlossen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T16:41:56+00:00"
+  },
+  {
+   "t": "BGH kippt Preiserhöhung bei Amazon Prime",
+   "s": "Eine Preiserhöhung von Amazon Prime vor vier Jahren ist laut BGH-Urteil unwirksam. Bestimmte Kundinnen und Kunden können jetzt Geld zurückverlangen. Verbraucherschützer raten zur Sammelklage. Von Klaus Hempel.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T15:47:54+00:00"
+  },
+  {
+   "t": "Start des neuen \"Tankrabatts\": Spritpreise sinken deutlich",
+   "s": "Der neue \"Tankrabatt\" macht sich an den Zapfsäulen bemerkbar: Benzin und Diesel sind zum Start deutlich billiger geworden. Doch wie lange hält die Entlastung? Das Bundeskartellamt will die Preise genau beobachten. Von Jens Eberl.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-320.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T14:11:15+00:00"
+  },
+  {
+   "t": "VW kündigt Tarifverträge: Was heißt das für Beschäftigte?",
+   "s": "Im Zuge des verschärften Sparprogramms hat das Volkswagen-Management einen Großteil der bestehenden Tarifverträge gekündigt. Was bedeutet das für Beschäftigte?",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-vw-arbeitskampf-tarifvertrag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T13:19:39+00:00"
+  },
+  {
+   "t": "Neuer \"Tankrabatt\" startet mit stark fallenden Preisen",
+   "s": "Seit Mitternacht gilt der neue \"Tankrabatt\" und zeigt schnell Wirkung. E10 kostete am Morgen mancherorts sogar weniger als zwei Euro. Unklar ist, ob die gesamte Entlastung bei Verbrauchern ankommen wird - die Maßnahme bleibt umstritten.",
+   "u": "https://www.tagesschau.de/wirtschaft/spritpreise-tankrabatt-116.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T11:59:27+00:00"
+  },
+  {
+   "t": "Teile des Batterieherstellers Varta gehen ins Insolvenzverfahren",
+   "s": "Für vier Gesellschaften des angeschlagenen Batterieherstellers Varta beginnt ein Insolvenzsverfahren. Ziel ist es, neue Eigentümer für die Firmen zu finden. Die Chancen stehen wohl nicht schlecht.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/batteriehersteller-varta-investoren-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T11:38:57+00:00"
+  },
+  {
+   "t": "Warum Schwarz-Rot auf den \"Tankrabatt\" setzt",
+   "s": "Eigentlich wollte die Regierung hohe Spritpreise nicht einfach \"wegsubventionieren\". Doch seit heute gilt die Neuauflage des \"Tankrabatts\". Warum Union und SPD trotz Kritik darauf setzen - und was danach kommen soll. Von A.-K. Mellmann und B. Großkopff.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundesregierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T11:11:49+00:00"
+  },
   {
    "t": "Was Autofahrer zum Start des neuen \"Tankrabatts\" wissen müssen",
    "s": "Ab heute gilt ein neuer \"Tankrabatt\". Wie kommen Kunden an günstigeren Sprit? Wann lohnt sich das Tanken und wie viel kann man sparen? Was man zum Start des \"Tankrabatts\" wissen muss.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-tankrabatt-100.html",
    "q": "Tagesschau",
    "d": "2026-10-01T08:34:33+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX fällt unter 25.000 Punkte",
-   "s": "Belastet von Inflationssorgen und der Befürchtung steigender Zinsen ist der DAX mit Verlusten in den Oktober gestartet. Dabei fiel sogar die psychologisch wichtige Marke von 25.000 Punkten.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T08:26:21+00:00"
   },
   {
    "t": "Energieverbrauch: Anteil von Ökostrom steigt auf Rekordwert",
@@ -36,13 +85,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-deckel-europa-deutschland-100.html",
    "q": "Tagesschau",
    "d": "2026-10-01T04:51:25+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 30.09.2026",
-   "s": "Wirtschaft vor acht vom 30.09.2026",
-   "u": "https://www.tagesschau.de/video/video-1658324.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T18:36:16+00:00"
   },
   {
    "t": "Verträge gekündigt: Volkswagen steht vor neuem Tarifkampf",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/technologie/ki-ausbrueche-haftung-faq-100.html",
    "q": "Tagesschau",
    "d": "2026-09-29T12:44:40+00:00"
-  },
-  {
-   "t": "US-Importverbote gegen Kanada in Kraft",
-   "s": "Für kanadische Waren sind neue Importverbote in die USA in Kraft getreten. Betroffen sind unter anderem eine Reihe von Molkereiprodukten, alkoholischen Getränken und Motorrädern.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-zollstreit-104.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T07:19:37+00:00"
-  },
-  {
-   "t": "Software-Problem verzögert Zulassung neuer Boeing-Variante",
-   "s": "Der von wiederholten Pannen geplagte US-Flugzeugbauer Boeing hat einen Software-Fehler bei seinem Modell 737 MAX entdeckt. Dieser verzögert nun die Zulassung der neuen, größten Modellvariante weiter.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/boeing-software-probleme-zulassung-7373-max-10-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T06:43:52+00:00"
-  },
-  {
-   "t": "OpenAI stoppt Veröffentlichung von neuem KI-Modell wegen Sicherheitsbedenken",
-   "s": "Erneut hat ein KI-Modell des Unternehmens OpenAI in Tests zu eigenständig agiert - und wird daher aus Sicherheitsgründen vorerst nicht veröffentlicht. Auch in Tests anderer KI-Modelle hatte es bereits ähnliche Zwischenfälle gegeben.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/openai-ki-102.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T05:03:40+00:00"
-  },
-  {
-   "t": "\"Starship\"-Rakete erreicht erstmals Erdumlaufbahn",
-   "s": "Eine \"Starship\"-Rakete ist erstmals in den Orbit gelangt. Dort setzte sie mehrere Satelliten aus. Geplant war, dass die Riesen-Rakete die Erde sechsmal umrundet - wegen technischer Probleme landete sie aber schon Stunden früher im Pazifik.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/space-x-raketenstart-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T18:05:57+00:00"
-  },
-  {
-   "t": "Russland stellt Metros Vermögenswerte unter Zwangsverwaltung",
-   "s": "Die Metro AG hat nach Beginn des Ukraine-Kriegs ihr Geschäft in Russland weitergeführt. Jetzt hat Präsident Putin diesen Teil des Konzerns unter Zwangsverwaltung gestellt. Zuvor war es schon anderen Unternehmen so ergangen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-metro-vermoegenswerte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T17:14:23+00:00"
-  },
-  {
-   "t": "Europäische Verbraucherschützer mahnen Airlines ab",
-   "s": "Wenn ein Flug annulliert wird, steht Kunden eine Erstattung des Ticketpreises zu. Doch manche Airlines machen es ihren Kunden dabei schwer, wenn über Vermittler gebucht wurde. Verbraucherschützer halten das für unzulässig.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/zev-abmahnung-airlines-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-28T15:45:38+00:00"
   }
  ]
 }
