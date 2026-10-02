@@ -1,7 +1,28 @@
 {
  "name": "Wissen",
- "updated": "2026-10-02T09:47:38+00:00",
+ "updated": "2026-10-02T19:57:33+00:00",
  "items": [
+  {
+   "t": "Fünf neue Exzellenzuniversitäten in Deutschland gekürt",
+   "s": "Drei neue Unis und zwei Hochschulverbünde dürfen sich jetzt Exzellenzuniversität nennen. Sie bekommen künftig deutlich mehr Geld für die Spitzenforschung. Für Studierende hat das allerdings eher einen indirekten Nutzen. Von Anja Braun.",
+   "u": "https://www.tagesschau.de/wissen/forschung/exzellenzunis-bekanntgegeben-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T15:04:08+00:00"
+  },
+  {
+   "t": "Von Stechmücken übertragen: Erstmals Sindbis-Virus in Deutschland",
+   "s": "Dem Robert Koch-Institut zufolge ist erstmals eine Infektion mit dem Sindbis-Virus in Deutschland nachgewiesen worden. Es wird von Stechmücken übertragen und verläuft meistens harmlos. Von Jan Kerckhoff.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/sindbis-virus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T14:23:37+00:00"
+  },
+  {
+   "t": "EU-Klimadienst Copernicus: Sommer 2026 in Westeuropa heißester seit Aufzeichnung",
+   "s": "EU-Klimadienst Copernicus: Sommer 2026 in Westeuropa heißester seit Aufzeichnung",
+   "u": "https://www.tagesschau.de/video/video-1659294.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T12:11:22+00:00"
+  },
   {
    "t": "Copernicus: Sommer in Westeuropa war so heiß wie nie zuvor",
    "s": "Der Sommer in Westeuropa war so heiß und trocken wie nie zuvor. Auch bei den Hitzetagen gab es diesen Sommer laut dem EU-Klimadienst Copernicus einen neuen Höchststand - mit ernsten Folgen für die Gesundheit.",
@@ -101,13 +122,6 @@
    "d": "2026-09-21T15:09:11+00:00"
   },
   {
-   "t": "Bolivien: Forscher entdecken neue Katzenart \"Leopardus tilcayo\"",
-   "s": "Erstmals seit mehr als hundert Jahren haben Forscher in Südamerika eine bislang unbekannte Katzenart entdeckt. Das Tier ist hellbraun gefleckt und kleiner als eine Hauskatze. Es trägt nun den Namen \"Leopardus tilcayo\".",
-   "u": "https://www.tagesschau.de/wissen/bolivien-neue-katzenart-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T17:02:36+00:00"
-  },
-  {
    "t": "Finnische Zellbiologin und Medizinerin Sara Wickström erhält Körber-Preis für Krebsforschung",
    "s": "Finnische Zellbiologin und Medizinerin Sara Wickström erhält Körber-Preis für Krebsforschung",
    "u": "https://www.tagesschau.de/video/video-1651198.html",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/ozonloch-114.html",
    "q": "Tagesschau",
    "d": "2026-09-16T08:11:31+00:00"
-  },
-  {
-   "t": "Paul Ehrlich-Preis für australischen Immunforscher Goodnow",
-   "s": "Der australische Immunologe Goodnow erhält den Paul Ehrlich- und Ludwig Darmstaedter-Preis 2027. Er zeigte, dass potenziell schädliche Immunzellen nicht zerstört, sondern als Reserve in eine Art Tiefschlaf versetzt werden. Von Nina Kunze.",
-   "u": "https://www.tagesschau.de/wissen/forschung/preis-immunforscher-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-15T08:01:07+00:00"
-  },
-  {
-   "t": "Welt-Sepsis-Tag: Warum bei Blutvergiftungen oft zu viel Zeit vergeht",
-   "s": "Der Welt-Sepsis-Tag soll heute auf die Gefahr durch Blutvergiftungen aufmerksam machen. In Deutschland sterben vergleichsweise viele Menschen daran - sie bleiben in Kliniken oft unerkannt. Von D. Remus und M. Stinn.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/gesundheit-sepsis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-13T06:16:32+00:00"
   }
  ]
 }

@@ -1,13 +1,76 @@
 {
  "name": "Ausland",
- "updated": "2026-10-02T09:47:36+00:00",
+ "updated": "2026-10-02T19:57:31+00:00",
  "items": [
+  {
+   "t": "G7-Staaten geben Diesel- und Rohöl-Reserven frei",
+   "s": "Die G7-Staaten wollen angesichts der hohen Kraftstoffpreise Öl-Reserven freigeben. Die USA hatten zuvor Druck vor allem auf die europäischen G7-Mitglieder gemacht. Für US-Präsident Trump sind die hohen Preise innenpolitisch ein großes Problem.",
+   "u": "https://www.tagesschau.de/ausland/g7-dieselreserven-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T19:17:42+00:00"
+  },
+  {
+   "t": "Frankreichs Schulprotest hält an - Regierung verspricht Verbesserungen",
+   "s": "Seit Tagen gehen Schülerinnen und Schüler in Frankreich auf die Straße, um mehr Geld für Bildung einzufordern. Bildungsminister Geffray versprach Verbesserungen. Schülervertreter wollen weiter protestieren - distanzieren sich aber von Gewalt.",
+   "u": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T19:00:30+00:00"
+  },
+  {
+   "t": "USA: Trumps Republikaner unter Druck vor den Midterms",
+   "s": "Den Republikanern drohen bei den US-Zwischenwahlen herbe Verluste. Das liegt auch an Präsident Trump. Erste republikanische Kandidaten beginnen, sich von ihm zu distanzieren. Wie ist die Lage einen Monat vor der Wahl? Von Ralf Borchard.",
+   "u": "https://www.tagesschau.de/ausland/midterms-republikaner-trump-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T15:54:40+00:00"
+  },
+  {
+   "t": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
+   "s": "Zwei Tage ist es her, dass ein Pilot auf einem Flug von Dubai nach Tel Aviv von seinem Co-Piloten angegriffen wurde - jetzt hat er sich erstmals selber zu dem Vorfall geäußert. Die Ermittlungen über die Hintergründe laufen.",
+   "u": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T14:59:41+00:00"
+  },
+  {
+   "t": "Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab",
+   "s": "Die Koalition von Spaniens Regierungschef Sánchez ist im Parlament mit ihren Dekreten für mehr Mieterschutz gescheitert. Nach landesweiten Protesten wollte die Regierung unter anderem Zwangsräumungen in sozialen Notlagen verbieten.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-wohungsgesetze-gescheitert-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T14:42:28+00:00"
+  },
+  {
+   "t": "Altkanzler Schröder wird Aufsichtsrat bei russischer Globus-Gruppe",
+   "s": "Altkanzler Schröder wird Aufsichtsrat beim russischen Ableger der Supermarktkette Globus. Erst vor wenigen Tagen hatte Kremlchef Putin ausländische Firmen, darunter auch Metro, in Russland unter Zwangsverwaltung gestellt.",
+   "u": "https://www.tagesschau.de/ausland/altkanzler-schroeder-aufsichtsrat-russischer-globus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T14:39:04+00:00"
+  },
+  {
+   "t": "Schwedens Wahlsiegerin Andersson unternimmt zweiten Anlauf zur Regierungsbildung",
+   "s": "Eigentlich hatte Schwedens Wahlsiegerin Andersson die Regierungsbildung für unmöglich erklärt. Nun soll sie es trotzdem noch mal versuchen. Denn auch der amtierende Ministerpräsident Kristersson dürfte keine Mehrheit finden.",
+   "u": "https://www.tagesschau.de/ausland/europa/schwedische-regierungsbildung-andersson-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T13:15:45+00:00"
+  },
+  {
+   "t": "Israels Oberstes Gericht lässt arabische Parteien bei Parlamentswahl zu",
+   "s": "Ende Oktober steht in Israel eine wegweisende Parlamentswahl an. Das Zentrale Wahlkomitee wollte arabische Parteien davon ausschließen - diesen Beschluss hat das Oberste Gericht nun gekippt.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wahlen-gericht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T13:06:06+00:00"
+  },
+  {
+   "t": "Was es mit Melonis Schul-Dekret auf sich hat",
+   "s": "Ausländerquote und Burkaverbot: Italiens Regierung verschärft per Dekret die Regeln an Schulen. Doch in der Praxis greifen die Maßnahmen kaum. Kritiker sprechen von Nervosität und Wahlkampftaktik. Von A. Giordano.",
+   "u": "https://www.tagesschau.de/ausland/europa/italien-schuldekret-meloni-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T13:04:52+00:00"
+  },
   {
    "t": "Luftangriffe auf Kiew dauern an - Brücken gesperrt",
    "s": "Russland greift weiter ukrainische Infrastruktur an. Am Morgen wurde die Südbrücke in Kiew von einer Drohne getroffen. Die wichtige Ost-West-Verbindung sowie weitere Brücken wurden gesperrt.",
    "u": "https://www.tagesschau.de/ausland/europa/angriff-kiew-bruecke-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-02T06:52:44+00:00"
+   "d": "2026-10-02T12:26:52+00:00"
   },
   {
    "t": "Gescheiterte Hinrichtung heizt Debatte über Todesstrafe neu an",
@@ -106,69 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/wadephul-reise-balkan-100.html",
    "q": "Tagesschau",
    "d": "2026-10-01T06:48:36+00:00"
-  },
-  {
-   "t": "Gescheiterte Hinrichtung: Verurteilte überlebt zwei Giftspritzen",
-   "s": "Vor 30 Jahren wurde Christa Pike in den USA wegen Mordes zum Tode verurteilt. Nun sollte die Hinrichtung nach langem juristischen Tauziehen vollzogen werden - doch die Verurteilte überlebte.",
-   "u": "https://www.tagesschau.de/ausland/amerika/hinrichtung-usa-supreme-court-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T05:56:36+00:00"
-  },
-  {
-   "t": "Generale und Admirale - Hegseth streicht ein Fünftel aller Stellen",
-   "s": "US-Verteidigungsminister Hegseth kürzt die Stellen von Generalen und Admiralen drastisch zusammen. Ein Vorgänger kritisiert die Entscheidung deutlich. Elon Musk bekommt vom Pentagon eine wichtige Rolle.",
-   "u": "https://www.tagesschau.de/ausland/amerika/hegseth-entlaesst-offiziere-musk-untersucht-kriegsfuehrung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T05:45:02+00:00"
-  },
-  {
-   "t": "Supreme Court erlaubt Hinrichtung von Frau in Tennessee",
-   "s": "Zunächst war die Vollstreckung des Todesurteils im Fall Christa Pike gestoppt worden. Dann kippte der Oberste Gerichtshof in den USA die Entscheidung. Schließlich gab es Unregelmäßigkeiten beim Vollzug der Todesstrafe: Die Verurteilte überlebte.",
-   "u": "https://www.tagesschau.de/ausland/amerika/hinrichtung-frau-us-bundesstaat-tennessee-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T02:40:55+00:00"
-  },
-  {
-   "t": "Burkaverbot und Sprachquote an Italiens Schulen in Kraft",
-   "s": "Nicht nur Schüler, sondern auch Eltern sind betroffen: In Italien gilt jetzt an Schulen ein Verschleierungsverbot und eine Sprachquote. Staatschef Mattarella unterschrieb am Abend ein Gesetzesdekret der rechten Meloni-Regierung.",
-   "u": "https://www.tagesschau.de/ausland/europa/italien-erlaesst-burkaverbot-und-sprachquote-an-schulen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T00:28:55+00:00"
-  },
-  {
-   "t": "Flydubai-Flug nach Tel Aviv: Was über den Vorfall bekannt ist",
-   "s": "Nach dem gewaltsamen Vorfall im Cockpit eines Flydubai-Flugzeugs auf dem Weg nach Tel Aviv geht die israelische Regierung von einem versuchten Terroranschlag aus. Was über den Zwischenfall bekannt ist - und was nicht.",
-   "u": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T20:31:18+00:00"
-  },
-  {
-   "t": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
-   "s": "Großbritannien hat nach Angaben von Premier Burnham Hinweise, dass Iran in den Vorfall nahe dem Luftwaffenstützpunkt Fairford verwickelt ist. Teheran bestreitet jegliche Beteiligung. Viele Details sind weiter unklar.",
-   "u": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T18:07:15+00:00"
-  },
-  {
-   "t": "Erdölraffinerie in Kenia soll Afrikas Wirtschaft einen Schub geben",
-   "s": "Mit Erdöl kennt sich Aliko Dangote aus: Der reichste Afrikaner betreibt in Nigeria die größte Raffinerie des Kontinents. Nun soll eine weitere in Kenia dazukommen. Dangote verfolgt damit große Pläne. Von K. Bensch.",
-   "u": "https://www.tagesschau.de/ausland/afrika/kenia-erdoel-raffinerie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T17:23:51+00:00"
-  },
-  {
-   "t": "Frankreich: Antisemitismus-Vorwürfe gegen LePens Parteichef Bardella",
-   "s": "Ein investigatives Portal erhebt schwere Vorwürfe gegen Jordan Bardella, Chef des rechtsnationalen Rassemblement National. In seinen Anfängen als Politiker soll er antisemitische Textnachrichten verschickt haben. Von J. Borutta.",
-   "u": "https://www.tagesschau.de/ausland/europa/bardella-vorwuerfe-antisemitismus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T16:59:44+00:00"
-  },
-  {
-   "t": "Versuchter Terror? Gewaltvorfall in Cockpit von Flydubai-Maschine",
-   "s": "An Bord einer Maschine von Dubai nach Tel Aviv hat ein Pilot auf seinen Kollegen mit einem Messer eingestochen. 180 Israelis waren an Bord. Israels Regierung spricht bereits von einem Anschlagsversuch.",
-   "u": "https://www.tagesschau.de/ausland/asien/flydubai-notlandung-terrorverdacht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T15:55:45+00:00"
   }
  ]
 }

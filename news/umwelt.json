@@ -1,10 +1,66 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-02T09:47:39+00:00",
+ "updated": "2026-10-02T19:57:34+00:00",
  "items": [
   {
+   "t": "AfD-Fans im eigenen Umfeld: Ihr Deutschland ist nicht mein Deutschland",
+   "s": "Unsere Autorin hat jahrelang versucht, AfD-Fans in ihrem westdeutschen Umfeld zu verstehen – vergeblich. Daher ist jetzt Schluss mit der Einfühlsamkeit.",
+   "u": "https://taz.de/Umgang-mit-AfD-Fans-im-eigenen-Umfeld-Ihr-Deutschland-ist-nicht-mein-Deutschland/!6214494/",
+   "q": "taz",
+   "d": "2026-10-02T17:44:00+00:00"
+  },
+  {
+   "t": "Debatte um Ferat Koçak: Das reicht nicht",
+   "s": "Nach der Erklärung von Ferat Koçak bleiben viele Fragen offen. Doch die Linken-Spitze gibt sich zufrieden – und zeigt damit Schwäche.",
+   "u": "https://taz.de/Debatte-um-Ferat-Kocak/!6218524/",
+   "q": "taz",
+   "d": "2026-10-02T17:43:00+00:00"
+  },
+  {
+   "t": "Koçak und der Antifaschismus: Eine Chance für den Innenausschuss?",
+   "s": "Der Linken-Abgeordnete Ferat Koçak gibt seinen Sitz im Innenausschuss auf. Für die parlamentarische Arbeit der Linken könnte das eine gute Entwicklung sein.",
+   "u": "https://taz.de/Kocak-und-der-Antifaschismus/!6218527/",
+   "q": "taz",
+   "d": "2026-10-02T17:43:00+00:00"
+  },
+  {
+   "t": "Teufelsrad auf dem Oktoberfest: Kein Filmen der Unterhose",
+   "s": "Der Upskirting-Paragraf gilt auch für Unterwäsche-Aufnahmen von Dirndl-Trägerinnen auf dem Teufelsrad. Das könnte sich mit einer Neuregelung ändern.",
+   "u": "https://taz.de/Teufelsrad-auf-dem-Oktoberfest/!6218512/",
+   "q": "taz",
+   "d": "2026-10-02T16:08:00+00:00"
+  },
+  {
+   "t": "Ausgezeichnete Exzellenzuniversitäten: Geld für die Unis in Freiburg, Jena und Köln",
+   "s": "Drei weitere Hochschulen und zwei Hochschulverbünde erhalten den Titel „Exzellenzuniversität“. Sie dürfen sich auf eine Millionenförderung freuen.",
+   "u": "https://taz.de/Ausgezeichnete-Exzellenzuniversitaeten/!6218525/",
+   "q": "taz",
+   "d": "2026-10-02T15:03:00+00:00"
+  },
+  {
+   "t": "Prozess wegen Tod von Lorenz A.: Polizeipsychologe soll Notwehr-Frage begutachten",
+   "s": "Der Schwarze Lorenz A. wurde von einem Polizisten erschossen. Ein Gutachter soll klären, ob der hätte erkennen können, dass keine Notwehrsituation vorlag.",
+   "u": "https://taz.de/Prozess-wegen-des-Todes-von-Lorenz-A/!6218518/",
+   "q": "taz",
+   "d": "2026-10-02T14:44:00+00:00"
+  },
+  {
+   "t": "Tag der Deutschen Einheit: Mit Placebos gegen die fortgesetzte Teilung",
+   "s": "Zum Einheitsfeiertag liefert die Ostbeauftragte Elisabeth Kaiser jede Menge Empathie und Statistiken. Das ist verdienstvoll, auch wenn Lücken bleiben.",
+   "u": "https://taz.de/Tag-der-Deutschen-Einheit/!6218470/",
+   "q": "taz",
+   "d": "2026-10-02T13:57:00+00:00"
+  },
+  {
+   "t": "Einheitsfeier in Bremen: Eine Stadt findet sich gut",
+   "s": "Bremen richtet das Fest zur Deutschen Einheit aus und feiert in erster Linie sich selbst. Manche hoffen auf linksextremistische Randale.",
+   "u": "https://taz.de/Einheitsfeier-in-Bremen/!6218045/",
+   "q": "taz",
+   "d": "2026-10-02T11:23:00+00:00"
+  },
+  {
    "t": "Berliner Remmo-Familie: Der Kriminelle als neutrale Quelle",
-   "s": "Im Kuddelmuddel um Kontakte des Berliner Linken-Politikers Ferhat Koçak sollte eines nicht vergessen werden: Die Familie Remmo hat eigene Interessen.",
+   "s": "Im Kuddelmuddel um Kontakte des Berliner Linken-Politikers Ferat Koçak sollte eines nicht vergessen werden: Die Familie Remmo hat eigene Interessen.",
    "u": "https://taz.de/Berliner-Remmo-Familie/!6210146/",
    "q": "taz",
    "d": "2026-10-02T09:14:00+00:00"
@@ -24,8 +80,8 @@
    "d": "2026-10-02T05:09:00+00:00"
   },
   {
-   "t": "Nato bekommt Westfälischen Frieden: „Danke, Friedrich“ und ein Appell an Europas Verantwortung",
-   "s": "Kanzler Merz schwört die Bevölkerung bei der Verleihung des Westfälischen Friedenspreises auf Aufrüstung ein. Die Nato lobt er als Friedensbringer.",
+   "t": "Nato erhält Westfälischen-Friedens-Preis: „Danke, Friedrich“ und ein Appell an Europas Verantwortung",
+   "s": "Kanzler Merz schwört die Bevölkerung bei der Verleihung des Westfälischen-Friedens-Preises auf Aufrüstung ein. Die Nato lobt er als Friedensbringer.",
    "u": "https://taz.de/Nato-bekommt-Westfaelischen-Frieden/!6218405/",
    "q": "taz",
    "d": "2026-10-01T17:48:00+00:00"
@@ -94,20 +150,6 @@
    "d": "2026-10-01T08:03:00+00:00"
   },
   {
-   "t": "Aktivist für Menschen mit Behinderung: „Hunderttausende wollen nicht mehr fremdbestimmt werden“",
-   "s": "Menschen mit Behinderungen protestieren vorm EU-Parlament für ein selbstbestimmtes Leben. Aktivist Florian Sanden kritisiert geplante Sozialkürzungen.",
-   "u": "https://taz.de/Aktivist-fuer-Menschen-mit-Behinderung/!6217251/",
-   "q": "taz",
-   "d": "2026-10-01T05:53:00+00:00"
-  },
-  {
-   "t": "Regeln für Hochschulprüfungen: Die künstliche Intelligenz schreibt sowieso mit",
-   "s": "Nur wenige Unis haben klare Regeln für den Umgang mit Sprachmodellen. In zwei Fällen musste schon ein Gericht ran.",
-   "u": "https://taz.de/Regeln-fuer-Hochschulpruefungen/!6217261/",
-   "q": "taz",
-   "d": "2026-10-01T05:00:00+00:00"
-  },
-  {
    "t": "Neue Vorwürfe gegen Elif Eralp: Die Rote Hilfe ist wichtiger denn je",
    "s": "Eine linke Juristin war Mitglied einer linken juristischen Organisation, wo ist der Skandal? Elif Eralp muss sich für nichts schämen – im Gegenteil.",
    "u": "https://taz.de/Neue-Vorwuerfe-gegen-Elif-Eralp/!6211855/",
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Nach-Wahlparty-Kocak-gibt-Sitz-in-Innenausschuss-ab/!6217924/",
    "q": "taz",
    "d": "2026-09-30T18:11:00+00:00"
-  },
-  {
-   "t": "Anhörung zum AfD-Verbotsverfahren: Tagesordnungspunkt: AfD-Verbot",
-   "s": "In Thüringen geht es erstmals in einem deutschen Parlamentsausschuss öffentlich um ein mögliches AfD-Verbot. Auch Hape Kerkeling sollte dazu sprechen.",
-   "u": "https://taz.de/Anhoerung-zum-AfD-Verbotsverfahren/!6217736/",
-   "q": "taz",
-   "d": "2026-09-30T18:07:00+00:00"
-  },
-  {
-   "t": "Einigung bei Pflegereform: Vor allem ein Spargesetz",
-   "s": "Die Koalition hat sich auf die Pflegereform geeinigt. Belastungen für Pflegebedürftige werden weiter steigen. Das wirft heikle Gerechtigkeitsfragen auf.",
-   "u": "https://taz.de/Pflegereform-Ein-Spargesetz-dass-prekaere-Gerechtigkeitsfragen-aufwirft/!6217663/",
-   "q": "taz",
-   "d": "2026-09-30T18:07:00+00:00"
-  },
-  {
-   "t": "Antifa-Prozess in Budapest: „Lass dich nicht einschüchtern!“",
-   "s": "An­ti­fa­schis­t*in Maja T. wird vor dem Berufungsgericht in Ungarn zu sieben Jahren Haft verurteilt. Anwälte fordern die Überstellung nach Deutschland.",
-   "u": "https://taz.de/Antifa-Prozess-in-Budapest/!6217628/",
-   "q": "taz",
-   "d": "2026-09-30T16:07:00+00:00"
-  },
-  {
-   "t": "SPD-Papier zu wehrhafter Demokratie: „Rundumschlag“ gegen rechts",
-   "s": "Die SPD-Bundestagsfraktion hat ein Grundsatzpapier zum Schutz der Demokratie gegen autoritäre Angriffe erarbeitet. Es ist auch ein Schritt in Richtung AfD-Verbot.",
-   "u": "https://taz.de/SPD-Papier-zu-wehrhafter-Demokratie/!6217740/",
-   "q": "taz",
-   "d": "2026-09-30T15:50:00+00:00"
-  },
-  {
-   "t": "Pflegereform und Finanzen: Begutachtungen werden strenger",
-   "s": "Das Kabinett hat am Mittwoch die Pflegereform beschlossen. Geplant sind Kürzungen beim Pflegegrad 1 und höhere Beiträge für Kinderlose.",
-   "u": "https://taz.de/Pflegereform-und-Finanzen/!6217635/",
-   "q": "taz",
-   "d": "2026-09-30T15:50:00+00:00"
-  },
-  {
-   "t": "Antifa-Prozess in Paris: Grünes Licht für Auslieferung",
-   "s": "Frankreichs will den Antifaschisten Gino nach Deutschland schicken. Damit besteht nun die Gefahr einer Auslieferung an Ungarn.",
-   "u": "https://taz.de/Antifa-Prozess-in-Paris/!6217830/",
-   "q": "taz",
-   "d": "2026-09-30T15:45:00+00:00"
   }
  ]
 }

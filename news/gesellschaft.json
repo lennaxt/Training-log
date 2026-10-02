@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-02T09:47:40+00:00",
+ "updated": "2026-10-02T19:57:35+00:00",
  "items": [
+  {
+   "t": "Proteste an Schulen und Universitäten: Frankreichs Regierung hat den Flächenbrand zu verantworten",
+   "s": "Paris will einen harten Sparkurs durchsetzen und die junge Generation wehrt sich. Statt zu handeln, wird die Linke beschuldigt, die Proteste anzuheizen.",
+   "u": "https://taz.de/Proteste-an-Schulen-und-Universitaeten/!6218502/",
+   "q": "taz",
+   "d": "2026-10-02T17:42:00+00:00"
+  },
+  {
+   "t": "Abstimmung im spanischen Parlament: Sánchez scheitert mit Paket gegen Wohnungskrise",
+   "s": "Das spanische Parlament hat Gesetze, die den Wohnungsmarkt neu regeln sollten, abgelehnt. Regierungschef Sánchez gerät zunehmend unter Druck.",
+   "u": "https://taz.de/Abstimmung-im-spanischen-Parlament/!6218477/",
+   "q": "taz",
+   "d": "2026-10-02T15:34:00+00:00"
+  },
+  {
+   "t": "Brennende Barrikaden in Frankreich: Der wütende Frust der jungen Generation",
+   "s": "An Schulen in ganz Frankreich protestieren Schüler gegen Lehrermangel und marode Infrastruktur. Die Regierung vermutet die Linke als Drahtzieher.",
+   "u": "https://taz.de/Brennende-Barrikaden-in-Frankreich/!6218479/",
+   "q": "taz",
+   "d": "2026-10-02T12:40:00+00:00"
+  },
+  {
+   "t": "Nostalgie in Großbritannien: War früher alles besser?",
+   "s": "Großbritanniens Premier Andy Burnham sagt, sein Land sei auf dem falschen Weg – und will zurück zu den Werten der Nachkriegszeit. Da lohnt es sich, genau hinzuschauen.",
+   "u": "https://taz.de/Nostalgie-in-Grossbritannien/!6214477/",
+   "q": "taz",
+   "d": "2026-10-02T10:28:00+00:00"
+  },
+  {
+   "t": "EU erwägt, Asylrecht auszusetzen: Ein Fundament, auf das gebaut werden soll",
+   "s": "Der Migrationspakt ist erst wenige Monate alt, doch die EU-Innenminister wollen es noch verschärfen. Sogar über die Aussetzung des Asylrechts wird nachgedacht.",
+   "u": "https://taz.de/Treffen-der-EU-Innenminister/!6218458/",
+   "q": "taz",
+   "d": "2026-10-02T09:34:00+00:00"
+  },
   {
    "t": "Mietenproteste in Spanien: Unerträgliche Wohnungssituation",
    "s": "In Madrid protestieren die Menschen nach der Zwangsräumung einer Rentnerin für bezahlbaren Wohnraum. Zu hohe Mieten sehen alle als Problem.",
@@ -11,7 +46,7 @@
   },
   {
    "t": "UN-Flüchtlingshilfswerk warnt: Bildung von Flüchtlingskindern in Gefahr",
-   "s": "Globale Mittel-Kürzungen lassen das Schulangebot für Kinder auf der Flucht schrumpfen. Besonders schlimm ist das für Mädchen in der Sekundarstufe.",
+   "s": "Globale Mittelkürzungen lassen das Schulangebot für Kinder auf der Flucht schrumpfen. Besonders schlimm ist das für Mädchen in der Sekundarstufe.",
    "u": "https://taz.de/UN-Fluechtlingshilfswerk-warnt/!6218449/",
    "q": "taz",
    "d": "2026-10-02T08:07:00+00:00"
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Russischer-Menschenrechtler/!6217025/",
    "q": "taz",
    "d": "2026-09-28T16:05:00+00:00"
-  },
-  {
-   "t": "Humanitäre Krise in Ukraine: Kaum Essen, kein Entkommen in Oleschky",
-   "s": "In der russisch besetzten Stadt Oleschky in der Südukraine sind die Menschen von Versorgung und Evakuierung abgeschnitten. Eine ukrainische Drohnenaktion bringt kurzfristig Hilfe.",
-   "u": "https://taz.de/Humanitaere-Krise-in-Ukraine/!6217026/",
-   "q": "taz",
-   "d": "2026-09-28T15:30:00+00:00"
-  },
-  {
-   "t": "Senatswahlen in Frankreich: Noch mehr rechte Männer im Altherrenklub",
-   "s": "Nach den Wahlen zur Hälfte der Senatssitze in Frankreich kann Marine Le Pens rechtsextremes Rassemblement National erstmals eine Fraktion bilden.",
-   "u": "https://taz.de/Senatswahlen-in-Frankreich/!6217010/",
-   "q": "taz",
-   "d": "2026-09-28T14:22:00+00:00"
-  },
-  {
-   "t": "Drama um Regierungsbildung in Schweden: Politpoker in Stockholm",
-   "s": "Sozialdemokratin Magdalena Andersson gibt erst mal auf und bricht den Versuch ab, eine Regierung zu bilden. Die Hängepartie in Schweden geht weiter.",
-   "u": "https://taz.de/Drama-um-Regierungsbildung-in-Schweden/!6217013/",
-   "q": "taz",
-   "d": "2026-09-28T14:11:00+00:00"
-  },
-  {
-   "t": "Mietenproteste in Spanien: „Dekret Maricarmen“ soll schnell kommen",
-   "s": "Ein Protestcamp gegen Wohnungsnot in Madrid setzt die Minderheitsregierung des spanischen Ministerpräsidenten Sánchez unter Druck – knapp ein Jahr vor den Parlamentswahlen.",
-   "u": "https://taz.de/Mietenkampf-in-Spanien/!6217017/",
-   "q": "taz",
-   "d": "2026-09-28T12:45:00+00:00"
-  },
-  {
-   "t": "Serbiens Präsident Vučić tritt zurück: Weg frei für Kandidatur als Regierungschef",
-   "s": "Serbiens Präsident Vučić will an die Macht und leitet den nächsten Schritt dazu ein. Vor seinem Rücktritt begnadigte er noch 49 Verurteilte.",
-   "u": "https://taz.de/Serbiens-Praesident-Vucic-tritt-zurueck/!6216922/",
-   "q": "taz",
-   "d": "2026-09-28T06:37:00+00:00"
   }
  ]
 }

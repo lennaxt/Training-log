@@ -1,7 +1,35 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-02T09:47:37+00:00",
+ "updated": "2026-10-02T19:57:33+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 02.10.2026",
+   "s": "Wirtschaft vor acht vom 02.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1659528.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T18:00:23+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX geht versöhnlich ins Wochenende",
+   "s": "Der DAX hat angesichts schwacher US-Arbeitsmarktdaten zugelegt. Die nähren die Hoffnung, dass die US-Notenbank Fed von einer weiteren Erhöhung der Leitzinsen vorerst absehen kann.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T16:49:21+00:00"
+  },
+  {
+   "t": "Kaufhauskette Galeria taumelt in die vierte Insolvenz",
+   "s": "Deutschlands letzte große Warenhauskette Galeria hat erneut Insolvenz angemeldet - es ist bereits die vierte innerhalb von sechs Jahren. Wie es mit den etwa 12.000 Mitarbeitenden in den 83 Warenhäusern weitergeht, ist unklar.",
+   "u": "https://www.tagesschau.de/wirtschaft/galeria-insolvenz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T11:18:53+00:00"
+  },
+  {
+   "t": "Inflation im Euroraum steigt stärker als erwartet - auf 3,8 Prozent",
+   "s": "Die Inflationsrate in der Eurozone ist im September auf 3,8 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Der Grund sind die hohen Energiepreise.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-anstieg-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T10:52:03+00:00"
+  },
   {
    "t": "Tankrabatt für Autofahrer, aber kein Nachlass beim Heizen: ungerecht?",
    "s": "Autofahrer profitieren seit dem 1. Oktober vom \"Tankrabatt\". Hausbesitzer mit Ölheizung gehen leer aus. Fachleute sehen darin ein Gerechtigkeitsproblem - warnen aber vor neuen, teuren Steuernachlässen. Von O. Bemelmann und S. Groß.",
@@ -10,11 +38,11 @@
    "d": "2026-10-02T09:22:31+00:00"
   },
   {
-   "t": "Marktbericht: DAX wieder über 25.000 Punkten",
-   "s": "Der DAX hat vor der Veröffentlichung der US-Arbeitsmarktdaten zugelegt. Anleger erhoffen sich von den Zahlen neue Hinweise auf die Geldpolitik der US-Notenbank Federal Reserve.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
+   "t": "Nach BGH-Urteil - Amazon senkt Preis für langjährige Prime-Kunden",
+   "s": "Der Bundesgerichtshof hatte eine Preiserhöhung von Amazon Prime für rechtswidrig erklärt. Der Konzern hat nun reagiert: Für langjährige Prime-Kunden gilt vorübergehend wieder der alte Preis. Betroffene können zudem Geld zurückfordern.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-102.html",
    "q": "Tagesschau",
-   "d": "2026-10-02T08:15:46+00:00"
+   "d": "2026-10-02T09:08:12+00:00"
   },
   {
    "t": "Update Wirtschaft vom 02.10.2026",
@@ -43,13 +71,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
    "q": "Tagesschau",
    "d": "2026-10-01T17:49:18+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 01.10.2026",
-   "s": "Wirtschaft vor acht vom 01.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1658986.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T17:46:32+00:00"
   },
   {
    "t": "Google schickt testweise KI-Chips ins All - Rechenzentren im All",
@@ -88,7 +109,7 @@
   },
   {
    "t": "Teile des Batterieherstellers Varta gehen ins Insolvenzverfahren",
-   "s": "Für vier Gesellschaften des angeschlagenen Batterieherstellers Varta beginnt ein Insolvenzsverfahren. Ziel ist es, neue Eigentümer für die Firmen zu finden. Die Chancen stehen wohl nicht schlecht.",
+   "s": "Für vier Gesellschaften des angeschlagenen Batterieherstellers Varta beginnt ein Insolvenzverfahren. Ziel ist es, neue Eigentümer für die Firmen zu finden. Die Chancen stehen wohl nicht schlecht.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/batteriehersteller-varta-investoren-100.html",
    "q": "Tagesschau",
    "d": "2026-10-01T11:38:57+00:00"
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-aufhebung-tarifvertraege-sparmassnahmen-100.html",
    "q": "Tagesschau",
    "d": "2026-09-30T14:00:31+00:00"
-  },
-  {
-   "t": "Inflationsrate steigt im September auf 3,3 Prozent",
-   "s": "Die Inflation in Deutschland ist im September erstmals seit fast drei Jahren auf über drei Prozent angestiegen. Schuld daran sind vor allem massiv gestiegene Energiepreise. Lebensmittel verteuerten sich kaum.",
-   "u": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T12:52:15+00:00"
-  },
-  {
-   "t": "Reiche weist staatliches Unternehmen an, mehr Gas einzuspeichern",
-   "s": "Die Gasspeicher sind aktuell nur zu etwas mehr als der Hälfte gefüllt. Nun drängt Wirtschaftsministerin Reiche alle Energieunternehmen dazu, mehr Erdgas einzuspeichern. Eine staatliche Firma erhält eine direkte Anweisung.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-reiche-winter-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T10:16:57+00:00"
-  },
-  {
-   "t": "Tanken in Deutschland war noch nie so teuer wie im September",
-   "s": "Die durchschnittlichen Preise an Tankstellen in Deutschland waren noch nie höher als im September. Für den Rest des Jahres dürften die Preise für Autofahrerinnen und Autofahrer durch den \"Tankrabatt\" aber sinken.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/september-tanken-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T08:23:56+00:00"
   }
  ]
 }

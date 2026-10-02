@@ -1,9 +1,23 @@
 {
  "name": "Kultur",
- "updated": "2026-10-02T09:47:42+00:00",
+ "updated": "2026-10-02T19:57:37+00:00",
  "items": [
   {
-   "t": "Hinrichtung von Frau in Tennessee: Christa Pike im kritischen Zustand",
+   "t": "Todesstrafe in den USA: „Es sollte nicht schwer sein“, sagt Trump",
+   "s": "Der Fall Pike hat in den USA die Debatte um die Todesstrafe neu entfacht. Weder Demokraten noch Republikaner wollen sie komplett abschaffen.",
+   "u": "https://taz.de/Todesstrafe-in-den-USA/!6218500/",
+   "q": "taz",
+   "d": "2026-10-02T16:03:00+00:00"
+  },
+  {
+   "t": "Lula und Bolsonaro in Brasilien: Kontrahenten wollten nicht streiten",
+   "s": "Kurz vor der Wahl platzt das TV-Duell zwischen Präsident Lula und seinem Herausforderer Bolsonaro. Woran das lag und was stattdessen lief.",
+   "u": "https://taz.de/Wahlkampf-in-Brasilien/!6218443/",
+   "q": "taz",
+   "d": "2026-10-02T10:24:00+00:00"
+  },
+  {
+   "t": "Hinrichtung von Frau in Tennessee: Christa Pike in kritischem Zustand",
    "s": "Zweimal wird Christa Pike ein tödliches Mittel verabreicht – doch sie stirbt nicht. Was über ihren Gesundheitszustand bekannt ist.",
    "u": "https://taz.de/Hinrichtung-von-Frau-in-Tennessee/!6218447/",
    "q": "taz",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Medien-im-Weissen-Haus/!6215227/",
    "q": "taz",
    "d": "2026-09-22T07:37:00+00:00"
-  },
-  {
-   "t": "Wahlmanipulation in den USA: Von „Gerrymandering“ bis Wahlmaschinenklau",
-   "s": "In den USA versucht die Trump-Regierung mit verschiedenen Mitteln die Midterm-Wahlen zu beeinflussen. Demokraten und Zivilgesellschaft halten dagegen.",
-   "u": "https://taz.de/Wahlmanipulation-in-den-USA/!6214999/",
-   "q": "taz",
-   "d": "2026-09-22T05:14:00+00:00"
-  },
-  {
-   "t": "Medien in Kolumbien: Verklagen, bedrohen, überfahren",
-   "s": "Seit Präsident de la Espriella im Amt ist, ist das Klima für unabhängige Medien in Kolumbien gefährlich geworden. Und es könnte schlimmer werden.",
-   "u": "https://taz.de/Medien-in-Kolumbien/!6214952/",
-   "q": "taz",
-   "d": "2026-09-21T16:21:00+00:00"
   }
  ]
 }
