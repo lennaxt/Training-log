@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-10-01T20:21:25+00:00",
+ "updated": "2026-10-02T00:48:12+00:00",
  "items": [
+  {
+   "t": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
+   "s": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen Missstände an Schulen.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T21:02:22+00:00"
+  },
   {
    "t": "Netanjahu schreibt dem Flydubai-Co-Piloten islamistische Gesinnung zu",
    "s": "Nach der Gewalttat auf einem Flydubai-Flug nach Tel Aviv laufen die Untersuchungen, wie es zu der Auseinandersetzung im Cockpit kam. Israels Premier Netanjahu geht von einer islamistischen Radikalisierung des Co-Piloten aus.",
@@ -15,13 +22,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/ende-der-todesstrafe-in-den-usa-gefordert-100.html",
    "q": "Tagesschau",
    "d": "2026-10-01T19:11:40+00:00"
-  },
-  {
-   "t": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
-   "s": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen Missstände an Schulen.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T16:26:29+00:00"
   },
   {
    "t": "Bundeswehr-Einsatz im Irak beendet - Soldaten kehren zurück",
