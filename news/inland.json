@@ -1,7 +1,98 @@
 {
  "name": "Inland",
- "updated": "2026-10-02T00:48:11+00:00",
+ "updated": "2026-10-02T09:47:35+00:00",
  "items": [
+  {
+   "t": "Treffen der EU-Innenminister: Ein Fundament, auf das gebaut werden soll",
+   "s": "Der Migrationspakt ist erst wenige Monate alt, doch die EU-Innenminister wollen nachschärfen. Auch über die Aussetzung des Asylrechts wird nachgedacht.",
+   "u": "https://taz.de/Treffen-der-EU-Innenminister/!6218458/",
+   "q": "taz",
+   "d": "2026-10-02T09:34:00+00:00"
+  },
+  {
+   "t": "Deutschland zum Tag der Deutschen Einheit zu Gast in Bremen",
+   "s": "Mehr als 700 Veranstaltungen und prominente Gäste: Bremen verwandelt sich zum 3. Oktober in eine Festivalmeile. Bürgermeister Bovenschulte erwartet einen Tag der \"gelebten deutschen Einheit\". 400.000 Menschen werden erwartet.",
+   "u": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T09:31:59+00:00"
+  },
+  {
+   "t": "1.682 Tage Krieg in der Ukraine: Wie man eine „Drohnensafari“ überleben kann",
+   "s": "Unser Autor hat an einem Training für Journalisten teilgenommen. Dort hat er gelernt, wie man bei einer Jagd durch russische FPV-Drohnen entkommt.",
+   "u": "https://taz.de/1682-Tage-Krieg-in-der-Ukraine/!6209341/",
+   "q": "taz",
+   "d": "2026-10-02T09:16:00+00:00"
+  },
+  {
+   "t": "Berliner Remmo-Familie: Der Kriminelle als neutrale Quelle",
+   "s": "Im Kuddelmuddel um Kontakte des Berliner Linken-Politikers Ferhat Koçak sollte eines nicht vergessen werden: Die Familie Remmo hat eigene Interessen.",
+   "u": "https://taz.de/Berliner-Remmo-Familie/!6210146/",
+   "q": "taz",
+   "d": "2026-10-02T09:14:00+00:00"
+  },
+  {
+   "t": "Kehrtwende bei der CDU: Plötzlich keine Lust mehr auf Kürzen",
+   "s": "Familienministerin Prien will die Sparpläne beim Elterngeld überdenken, auch Merz sieht ein Gerechtigkeitsproblem. Lässt die CDU jetzt Milde walten?",
+   "u": "https://taz.de/Kehrtwende-bei-der-CDU/!6214486/",
+   "q": "taz",
+   "d": "2026-10-02T08:57:00+00:00"
+  },
+  {
+   "t": "Mietenproteste in Spanien: Unerträgliche Wohnungssituation",
+   "s": "In Madrid protestieren die Menschen nach der Zwangsräumung einer Rentnerin für bezahlbaren Wohnraum. Zu hohe Mieten sehen alle als Problem.",
+   "u": "https://taz.de/Mietenproteste-in-Spanien/!6214478/",
+   "q": "taz",
+   "d": "2026-10-02T08:29:00+00:00"
+  },
+  {
+   "t": "UN-Flüchtlingshilfswerk warnt: Bildung von Flüchtlingskindern in Gefahr",
+   "s": "Globale Mittel-Kürzungen lassen das Schulangebot für Kinder auf der Flucht schrumpfen. Besonders schlimm ist das für Mädchen in der Sekundarstufe.",
+   "u": "https://taz.de/UN-Fluechtlingshilfswerk-warnt/!6218449/",
+   "q": "taz",
+   "d": "2026-10-02T08:07:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Nahost-Konflikt +++: Trump droht Iran mit harten Konsequenzen im Flydubai-Vorfall",
+   "s": "Sollte Iran beteiligt gewesen sein am Flydubai-Vorfall, so droht der US-Präsident mit Konsequenzen. In der Straße von Hormus wurde ein Tanker beschossen.",
+   "u": "https://taz.de/-Nachrichten-im-Nahost-Konflikt-/!6218446/",
+   "q": "taz",
+   "d": "2026-10-02T07:50:00+00:00"
+  },
+  {
+   "t": "Gestopptes Fregatten-Projekt: Werft will 4,7 Milliarden Euro von Deutschland",
+   "s": "Massive Verzögerungen und eine Kostenexplosion - im Juni hatte Verteidigungsminister Pistorius ein neues Fregatten-Projekt für die Bundeswehr gestoppt. Nun fordert die betroffene niederländische Werft Milliarden vom Bund.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/werft-milliardenforderung-fregatte-bundeswehr-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T07:19:51+00:00"
+  },
+  {
+   "t": "Hinrichtung von Frau in Tennessee: Christa Pike im kritischen Zustand",
+   "s": "Zweimal wird Christa Pike ein tödliches Mittel verabreicht – doch sie stirbt nicht. Was über ihren Gesundheitszustand bekannt ist.",
+   "u": "https://taz.de/Hinrichtung-von-Frau-in-Tennessee/!6218447/",
+   "q": "taz",
+   "d": "2026-10-02T07:17:00+00:00"
+  },
+  {
+   "t": "Tagebuch aus Russland: Zur Wahl stand die Qual",
+   "s": "Anzukreuzbar ist nur, was das Leben verschlechtert und den Krieg verlängert. Die Duma-Wahlen beweisen: Demokratie ist für den Kreml bloße Attrappe.",
+   "u": "https://taz.de/Tagebuch-aus-Russland/!6217037/",
+   "q": "taz",
+   "d": "2026-10-02T06:03:00+00:00"
+  },
+  {
+   "t": "Vergesellschaftung: „Die Gewerkschaften müssen mehr Marx wagen“",
+   "s": "Nicht nur Wohnraum vergesellschaften, sondern auch Stromnetze und Stahlindustrie: Das schlägt Ökonom Tom Krebs vor. Aber wer soll das durchsetzen?",
+   "u": "https://taz.de/Vergesellschaftung/!6214479/",
+   "q": "taz",
+   "d": "2026-10-02T05:09:00+00:00"
+  },
+  {
+   "t": "36 Jahre Deutsche Einheit: \"Sternstunde der Deutschen im 20. Jahrhundert\"",
+   "s": "Markus Meckel, der letzte Außenminister der DDR, blickt auf 36 Jahre Wiedervereinigung zurück. Und er bedauert, dass diese große Errungenschaft der Deutschen heute in der Öffentlichkeit viel zu wenig wertgeschätzt wird.Heinemann, Christoph",
+   "u": "https://www.deutschlandfunk.de/36-jahre-deutsche-einheit-interview-markus-meckel-letzter-ddr-aussenminister-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-02T04:50:00+00:00"
+  },
   {
    "t": "Merz' verleiht Friedenspreis an die NATO - \"Moskau Einhalt gebieten\"",
    "s": "Die Verleihung des Westfälischen Friedenspreises an die NATO in Münster hat Kanzler Merz für eine Grundsatzrede genutzt. Er unterstrich die Bedeutung der Allianz - auch, um \"Moskau Einhalt zu gebieten\".",
@@ -25,7 +116,7 @@
   },
   {
    "t": "Q&A zur Todesstrafe in den USA: Wie oft gehen Hinrichtungen schief?",
-   "s": "Nach zwei Dosen der Giftspritze lebte die zum Tode verurteilte Christa Pike noch. Nicht das erste Mal, das in den USA Hinrichtungen misslingen.",
+   "s": "Nach zwei Dosen der Giftspritze lebte die zum Tode verurteilte Christa Pike noch. Nicht das erste Mal, dass in den USA Hinrichtungen misslingen.",
    "u": "https://taz.de/QA-zur-Todesstrafe-in-den-USA/!6218375/",
    "q": "taz",
    "d": "2026-10-01T17:47:00+00:00"
@@ -59,6 +150,13 @@
    "d": "2026-10-01T17:05:00+00:00"
   },
   {
+   "t": "Medienberichte über die Linkspartei: Tagesspiegel scheitert an Selbstreflexion",
+   "s": "Leitende Redakteure des Tagesspiegels wollen in einem Pocast ihre Linkspartei-Berichterstattung überdenken. Ist die zu hart oder faktisch falsch?",
+   "u": "https://taz.de/Berichterstattung-ueber-die-Linkspartei/!6218077/",
+   "q": "taz",
+   "d": "2026-10-01T17:00:00+00:00"
+  },
+  {
    "t": "Gipfel gegen soziale Ungleichheit: „Billiger kann ich gar nicht leben“",
    "s": "Auf dem Armutsgipfel kommen Betroffene und Verbände zusammen. Viele Probleme seien für Menschen aus der Mittelschicht gar nicht nachvollziehbar, heißt es.",
    "u": "https://taz.de/Gipfel-gegen-soziale-Ungleichheit/!6218064/",
@@ -71,104 +169,6 @@
    "u": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-oktober-110.html",
    "q": "Tagesschau",
    "d": "2026-10-01T16:00:14+00:00"
-  },
-  {
-   "t": "Bundeswehreinsatz im Irak: Klangloses Ende für den zweitgrößten Auslandseinsatz",
-   "s": "Die deutsche Armee hat ihren Einsatz in Irak nach eigenen Angaben „erfüllt“. Offen ist, wie es ohne sie in der kurdischen Autonomieregion weitergeht.",
-   "u": "https://taz.de/Bundeswehreinsatz-im-Irak/!6217820/",
-   "q": "taz",
-   "d": "2026-10-01T15:58:00+00:00"
-  },
-  {
-   "t": "Illegale Wahlkampffinanzierung: Muss die Wahl in Sachsen-Anhalt wiederholt werden?",
-   "s": "Parteienrechtlerin Sophie Schönberger hält die Landtagswahl für anfechtbar: Die AfD-Landtagsfraktion bezahlte zentrale Wahlkampfveranstaltungen.",
-   "u": "https://taz.de/Illegale-Wahlkampffinanzierung/!6218421/",
-   "q": "taz",
-   "d": "2026-10-01T15:41:00+00:00"
-  },
-  {
-   "t": "Satellitenbilder von Gaza aktualisiert: Google Maps zeigt die Verwüstung in Gaza",
-   "s": "Das meistgenutzte Navigationssystem von Google Maps hat die Satellitenbilder des Gazastreifens aktualisiert. Die Bilder zeigen das Ausmaß der Zerstörung.",
-   "u": "https://taz.de/Aktualisierte-Satellitenbilder-Google-Maps-zeigt-die-Verwuestung-in-Gaza/!6218036/",
-   "q": "taz",
-   "d": "2026-10-01T15:18:00+00:00"
-  },
-  {
-   "t": "Durchschnittsalter auf dem Land steigt stärker als in Städten",
-   "s": "In ländlichen Gemeinden steigt das Durchschnittsalter der Menschen deutlich stärker als in Großstädten. Insgesamt lag der Altersschnitt in Deutschland vergangenes Jahr bei 45 Jahren - mit Unterschieden zwischen den Bundesländern.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/alter-stadt-land-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T14:23:02+00:00"
-  },
-  {
-   "t": "Grenzkrieg mit Afghanistan: Pakistan eskaliert wieder am Hindukusch",
-   "s": "Die pakistanische Luftwaffe greift erneut angebliche Terroristenlager in Afghanistan an. Erstmals gibt es Berichte über eine Unterstützung bewaffneter Taliban-Gegner.",
-   "u": "https://taz.de/Grenzkrieg-mit-Afghanistan/!6217958/",
-   "q": "taz",
-   "d": "2026-10-01T13:53:00+00:00"
-  },
-  {
-   "t": "Erst Hausarzt, dann Facharzt - Baden-Württemberg als Vorreiter",
-   "s": "Der Hausarzt als erste Anlaufstelle: Die Bundesregierung will das System der Primärversorgung bundesweit einführen. In Baden-Württemberg gibt es das System seit fast 20 Jahren. Wie läuft es dort? Von Fabian Siegel.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/versorgung-hausarzt-facharzt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T13:40:53+00:00"
-  },
-  {
-   "t": "Studie zu größten Ängsten: Deutsche sorgen sich mehr ums Geld als ums Klima",
-   "s": "Die Deutschen haben laut einer Umfrage Angst vor höheren Preisen, Steuern und Mieten. Nachgelassen hat trotz Rekordhitze die Angst vor dem Klimawandel.",
-   "u": "https://taz.de/Studie-zu-groessten-Aengsten/!6218026/",
-   "q": "taz",
-   "d": "2026-10-01T13:11:00+00:00"
-  },
-  {
-   "t": "Krise bei Volkswagen: Neue Arbeitskämpfe stehen bevor",
-   "s": "Das VW-Management hat fast alle Haustarifverträge gekündigt. Auch jenseits von Wolfsburg stehen schwierige Tarifgespräche an.",
-   "u": "https://taz.de/Krise-bei-Volkswagen/!6214489/",
-   "q": "taz",
-   "d": "2026-10-01T12:59:00+00:00"
-  },
-  {
-   "t": "Gewalt in Flydubai-Maschine: Verhinderte Flugzeug-Katastrophe landet in Israels Wahlkampf",
-   "s": "Nach der Notlandung des Flydubai-Fluges spricht Israels Verteidigungsminister von einem „dschihadistischen Anschlagsversuch“ – ohne Belege zu nennen. Vieles ist noch offen.",
-   "u": "https://taz.de/Nach-mutmasslichem-Anschlagsversuch/!6217957/",
-   "q": "taz",
-   "d": "2026-10-01T12:46:00+00:00"
-  },
-  {
-   "t": "Das BSW heißt ab heute BSW - Wagenknecht nicht mehr im Parteinamen",
-   "s": "Das Bündnis Sahra Wagenknecht gibt es nicht mehr. Seit heute hat der Parteiname nichts mehr mit der Gründerin zu tun. Das Kürzel BSW steht nun für Bündnis für Soziale Gerechtigkeit und Wirtschaftliche Vernunft. Von Frank Aischmann.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bsw-umbenennung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T12:28:48+00:00"
-  },
-  {
-   "t": "Warum Schwarz-Rot auf den \"Tankrabatt\" setzt",
-   "s": "Eigentlich wollte die Regierung hohe Spritpreise nicht einfach \"wegsubventionieren\". Doch seit heute gilt die Neuauflage des \"Tankrabatts\". Warum Union und SPD trotz Kritik darauf setzen - und was danach kommen soll. Von A.-K. Mellmann und B. Großkopff.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundesregierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T11:11:49+00:00"
-  },
-  {
-   "t": "Kanzleramt bremst beim Gesetzentwurf zur Zuckersteuer",
-   "s": "Die geplante Zuckersteuer sorgt weiter für Schlagzeilen: Der von Finanzminister Klingbeil vorgelegte Gesetzentwurf stößt auf Widerstand im Kanzleramt. Der Entwurf weiche von Empfehlungen einer Finanzkommission ab.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-kanzleramt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T11:01:33+00:00"
-  },
-  {
-   "t": "Pflege-Expertin: Die Pflege in Deutschland steht auf der Kippe",
-   "s": "Die Pflegereform verschärft die ohnehin schon angespannte Situation in der Pflege. Sparmaßnahmen führen zu weniger und auch weniger gut ausgebildetem Personal, warnt Vera Lux, Präsidentin des Deutschen Berufsverbandes für Pflegeberufe.Schulz, Sandra",
-   "u": "https://www.deutschlandfunk.de/ist-die-pflege-noch-zu-retten-interview-mit-vera-lux-dbfk-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-01T10:15:00+00:00"
-  },
-  {
-   "t": "Stolpersteinverbot in Heidenau: Sächsische Bürgermeisterin reagiert nicht auf Kritik",
-   "s": "International schockiert der Beschluss in Heidenau, keine neuen Stolpersteine zu verlegen. Für die Bürgermeisterin ändert das nichts.",
-   "u": "https://taz.de/Stolpersteinverbot-in-Heidenau/!6217596/",
-   "q": "taz",
-   "d": "2026-10-01T09:50:00+00:00"
   }
  ]
 }

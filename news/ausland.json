@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-10-02T00:48:12+00:00",
+ "updated": "2026-10-02T09:47:36+00:00",
  "items": [
+  {
+   "t": "Luftangriffe auf Kiew dauern an - Brücken gesperrt",
+   "s": "Russland greift weiter ukrainische Infrastruktur an. Am Morgen wurde die Südbrücke in Kiew von einer Drohne getroffen. Die wichtige Ost-West-Verbindung sowie weitere Brücken wurden gesperrt.",
+   "u": "https://www.tagesschau.de/ausland/europa/angriff-kiew-bruecke-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T06:52:44+00:00"
+  },
+  {
+   "t": "Gescheiterte Hinrichtung heizt Debatte über Todesstrafe neu an",
+   "s": "Der Fall einer Mörderin, die ihre versuchte Hinrichtung überlebte, hat die Debatte über die Todesstrafe in den USA wieder angeheizt. Die Frau ist offenbar weiter in kritischem Zustand. Ihr Anwalt spricht von diversen Pannen. Von Giselle Ucar.",
+   "u": "https://www.tagesschau.de/ausland/amerika/hinrichtung-tennessee-giftspritze-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T05:45:36+00:00"
+  },
+  {
+   "t": "Astronauten erreichen ISS in Rekordzeit",
+   "s": "So schnell war noch kein US-Raumschiff an der ISS: Knapp acht Stunden nach dem Start hat eine \"Dragon\"-Kapsel die Weltraumstation erreicht. An Bord sind vier Raumfahrer aus den USA, Kanada und Russland.",
+   "u": "https://www.tagesschau.de/ausland/amerika/iss-crew-im-all-angekommen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T05:22:09+00:00"
+  },
+  {
+   "t": "Scheitern Spaniens Wohnungsgesetze noch im Parlament?",
+   "s": "Nach den Protesten aufgrund der Zwangsräumung der Wohnung einer Rentnerin in Madrid stimmt nun das Parlament ab - doch eine Mehrheit für stärkeren Mieterschutz ist alles andere als sicher. Von Hans-Günter Kellner.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-maricarmen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T01:49:37+00:00"
+  },
   {
    "t": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
    "s": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen Missstände an Schulen.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/flydubai-notlandung-terrorverdacht-100.html",
    "q": "Tagesschau",
    "d": "2026-09-30T15:55:45+00:00"
-  },
-  {
-   "t": "Ukrainische Behörden melden mehrere Tote durch Angriffe auf Kiew",
-   "s": "Durch russische Drohnen- und Raketenangriffe auf die Stadt und Region Kiew sind laut ukrainischen Behörden mehrere Menschen getötet und weitere verletzt worden. In Polen wurde der Betrieb zweier Flughäfen zeitweise eingestellt.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-kiew-134.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T15:46:53+00:00"
-  },
-  {
-   "t": "EU will krisenfeste Kommunikation für Europas Rettungsdienste",
-   "s": "Meist scheitert die grenzübergreifende Kommunikation von Polizei und Rettungsdiensten in Europa an technischen Problemen. Das will die EU-Kommission jetzt ändern - gerade auch für Krisenfälle. Von Andreas Meyer-Feist.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-plan-kommunikation-krisenfall-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T15:03:58+00:00"
-  },
-  {
-   "t": "Flydubai-Maschine muss nach Vorfall an Bord notlanden",
-   "s": "Auf dem Weg nach Tel Aviv musste eine Maschine der Airline Flydubai in Saudi-Arabien notlanden. Zwischen den Piloten soll es eine Auseinandersetzung gegeben haben. An Bord der Maschine waren laut Berichten 180 Menschen.",
-   "u": "https://www.tagesschau.de/ausland/asien/flydubai-notlandung-106.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T13:10:21+00:00"
-  },
-  {
-   "t": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
-   "s": "Seit Wochen wird weltweit über Risiken und Beschränkungen von Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen sich freiwillig selbst kontrollieren.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T07:59:56+00:00"
   }
  ]
 }

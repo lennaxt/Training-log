@@ -1,7 +1,35 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-02T00:48:14+00:00",
+ "updated": "2026-10-02T09:47:40+00:00",
  "items": [
+  {
+   "t": "Mietenproteste in Spanien: Unerträgliche Wohnungssituation",
+   "s": "In Madrid protestieren die Menschen nach der Zwangsräumung einer Rentnerin für bezahlbaren Wohnraum. Zu hohe Mieten sehen alle als Problem.",
+   "u": "https://taz.de/Mietenproteste-in-Spanien/!6214478/",
+   "q": "taz",
+   "d": "2026-10-02T08:29:00+00:00"
+  },
+  {
+   "t": "UN-Flüchtlingshilfswerk warnt: Bildung von Flüchtlingskindern in Gefahr",
+   "s": "Globale Mittel-Kürzungen lassen das Schulangebot für Kinder auf der Flucht schrumpfen. Besonders schlimm ist das für Mädchen in der Sekundarstufe.",
+   "u": "https://taz.de/UN-Fluechtlingshilfswerk-warnt/!6218449/",
+   "q": "taz",
+   "d": "2026-10-02T08:07:00+00:00"
+  },
+  {
+   "t": "Geflüchtete an der Grenze Lettlands: Mit Grüßen aus Moskau",
+   "s": "Die Zahl der Geflüchteten, die über Belarus nach Lettland kommen, steigt. NGOs und Grenzbeamte vermuten Russland als Akteur im Hintergrund.",
+   "u": "https://taz.de/Gefluechtete-an-der-Grenze-Lettlands/!6216311/",
+   "q": "taz",
+   "d": "2026-10-02T07:45:00+00:00"
+  },
+  {
+   "t": "Tagebuch aus Russland: Zur Wahl stand die Qual",
+   "s": "Anzukreuzbar ist nur, was das Leben verschlechtert und den Krieg verlängert. Die Duma-Wahlen beweisen: Demokratie ist für den Kreml bloße Attrappe.",
+   "u": "https://taz.de/Tagebuch-aus-Russland/!6217037/",
+   "q": "taz",
+   "d": "2026-10-02T06:03:00+00:00"
+  },
   {
    "t": "Bundeswehreinsatz im Irak: Klangloses Ende für den zweitgrößten Auslandseinsatz",
    "s": "Die deutsche Armee hat ihren Einsatz in Irak nach eigenen Angaben „erfüllt“. Offen ist, wie es ohne sie in der kurdischen Autonomieregion weitergeht.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Serbiens-Praesident-Vucic-tritt-zurueck/!6216922/",
    "q": "taz",
    "d": "2026-09-28T06:37:00+00:00"
-  },
-  {
-   "t": "Proteste für bezahlbaren Wohnraum: Enteignen – jetzt!",
-   "s": "In Madrid sind nach der Zwangsräumung einer 87-Jährigen Zehntausende auf die Straße gegangen. Gegen den Mietenwahnsinn helfen nur drastische Maßnahmen.",
-   "u": "https://taz.de/Proteste-fuer-bezahlbaren-Wohnraum/!6216750/",
-   "q": "taz",
-   "d": "2026-09-28T05:07:00+00:00"
-  },
-  {
-   "t": "Mieten-Kampf in Spanien: Solidarität nach Zwangsräumung von 87-Jähriger",
-   "s": "Ausgelöst durch einen besonders krassen Fall, protestieren Zehntausende gegen hohe Mieten in Spanien. Die Regierung steht unter Druck, Linke fordern Enteignungen.",
-   "u": "https://taz.de/Mieten-Kampf-in-Spanien/!6216495/",
-   "q": "taz",
-   "d": "2026-09-27T18:00:00+00:00"
-  },
-  {
-   "t": "Festnahmen an US-Luftwaffenbasis: Britische Polizei vereitelt mutmaßlichen Terroranschlag",
-   "s": "Von der Militärbasis Fairford in England aus starten US-Bomber zu Angriffen auf Iran. Jetzt wurden dort fünf Männer unter Terrorverdacht festgenommen.",
-   "u": "https://taz.de/Festnahmen-an-US-Luftwaffenbasis/!6216776/",
-   "q": "taz",
-   "d": "2026-09-27T17:00:00+00:00"
-  },
-  {
-   "t": "Volksabstimmung in der Schweiz: Die Schwei­ze­r:in­nen lehnen „Neutralitätsinitiative“ ab",
-   "s": "Bern kann Russland-Sanktionen weiter mittragen: Eine rechte Initiative, die das künftig verhindert hätte, wurde am Sonntag an der Urne versenkt.",
-   "u": "https://taz.de/Volksabstimmung-in-der-Schweiz/!6216507/",
-   "q": "taz",
-   "d": "2026-09-27T15:48:00+00:00"
   }
  ]
 }

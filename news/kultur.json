@@ -1,10 +1,17 @@
 {
  "name": "Kultur",
- "updated": "2026-10-02T00:48:15+00:00",
+ "updated": "2026-10-02T09:47:42+00:00",
  "items": [
   {
+   "t": "Hinrichtung von Frau in Tennessee: Christa Pike im kritischen Zustand",
+   "s": "Zweimal wird Christa Pike ein tödliches Mittel verabreicht – doch sie stirbt nicht. Was über ihren Gesundheitszustand bekannt ist.",
+   "u": "https://taz.de/Hinrichtung-von-Frau-in-Tennessee/!6218447/",
+   "q": "taz",
+   "d": "2026-10-02T07:17:00+00:00"
+  },
+  {
    "t": "Q&A zur Todesstrafe in den USA: Wie oft gehen Hinrichtungen schief?",
-   "s": "Nach zwei Dosen der Giftspritze lebte die zum Tode verurteilte Christa Pike noch. Nicht das erste Mal, das in den USA Hinrichtungen misslingen.",
+   "s": "Nach zwei Dosen der Giftspritze lebte die zum Tode verurteilte Christa Pike noch. Nicht das erste Mal, dass in den USA Hinrichtungen misslingen.",
    "u": "https://taz.de/QA-zur-Todesstrafe-in-den-USA/!6218375/",
    "q": "taz",
    "d": "2026-10-01T17:47:00+00:00"
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Medien-in-Kolumbien/!6214952/",
    "q": "taz",
    "d": "2026-09-21T16:21:00+00:00"
-  },
-  {
-   "t": "81. UN-Generalversammlung in New York: Kriege und KI im Fokus des UN-Gipfels",
-   "s": "Bei der jährlichen UN-Vollversammlung stehen wieder aktuelle Krisen und Herausforderungen im Mittelpunkt, echte Durchbrüche sind nicht zu erwarten.",
-   "u": "https://taz.de/81-UN-Generalversammlung-in-New-York/!6214845/",
-   "q": "taz",
-   "d": "2026-09-21T10:15:00+00:00"
   }
  ]
 }

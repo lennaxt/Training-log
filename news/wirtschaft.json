@@ -1,7 +1,49 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-02T00:48:12+00:00",
+ "updated": "2026-10-02T09:47:37+00:00",
  "items": [
+  {
+   "t": "Tankrabatt für Autofahrer, aber kein Nachlass beim Heizen: ungerecht?",
+   "s": "Autofahrer profitieren seit dem 1. Oktober vom \"Tankrabatt\". Hausbesitzer mit Ölheizung gehen leer aus. Fachleute sehen darin ein Gerechtigkeitsproblem - warnen aber vor neuen, teuren Steuernachlässen. Von O. Bemelmann und S. Groß.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/heizen-tankrabatt-debatte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T09:22:31+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX wieder über 25.000 Punkten",
+   "s": "Der DAX hat vor der Veröffentlichung der US-Arbeitsmarktdaten zugelegt. Anleger erhoffen sich von den Zahlen neue Hinweise auf die Geldpolitik der US-Notenbank Federal Reserve.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T08:15:46+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 02.10.2026",
+   "s": "Update Wirtschaft vom 02.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1659176.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T07:49:42+00:00"
+  },
+  {
+   "t": "Commerzbank: Braucht Deutschland schärferes Übernahmerecht?",
+   "s": "Die Fälle Commerzbank, Hugo Boss und ProSiebenSat.1 zeigen, wie leicht Investoren in Deutschland ihre Kontrolle ausbauen können. Andere Länder setzen beim Aktionärsschutz strengere Grenzen. Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-uebernahmerecht-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-02T07:16:35+00:00"
+  },
+  {
+   "t": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
+   "s": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen Missstände an Schulen.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T21:02:22+00:00"
+  },
+  {
+   "t": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
+   "s": "Dass eine Zuckersteuer kommen soll, war eigentlich schon geklärt. Dennoch bremst das Kanzleramt jetzt bei einem Entwurf aus dem Finanzministerium. Was steckt dahinter? Warum drängt das Thema? Von Nicole Kohnert.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T17:49:18+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 01.10.2026",
    "s": "Wirtschaft vor acht vom 01.10.2026",
@@ -10,11 +52,11 @@
    "d": "2026-10-01T17:46:32+00:00"
   },
   {
-   "t": "Marktbericht: DAX schließt unter 25.000 Punkten",
-   "s": "Steigende Energiepreise und weiter anziehende Anleiherenditen haben den Aktienmarkt geschwächt. Der DAX hat erstmals seit Juli unterhalb der psychologisch wichtige Marke von 25.000 Punkten geschlossen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html",
+   "t": "Google schickt testweise KI-Chips ins All - Rechenzentren im All",
+   "s": "Unendliche Weite und extrem niedrige Temperaturen: Das Weltall könnte Potenzial für Rechenzentren bergen, die auf der Erde Ressourcen verbrauchen. Google wagt nun einen ersten Schritt in diese Richtung - trotz technischer Hürden. Von David Beck.",
+   "u": "https://www.tagesschau.de/wissen/weltraum/ki-chips-im-all-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-01T16:41:56+00:00"
+   "d": "2026-10-01T16:17:17+00:00"
   },
   {
    "t": "BGH kippt Preiserhöhung bei Amazon Prime",
@@ -59,6 +101,13 @@
    "d": "2026-10-01T11:11:49+00:00"
   },
   {
+   "t": "Kanzleramt bremst beim Gesetzentwurf zur Zuckersteuer",
+   "s": "Die geplante Zuckersteuer sorgt weiter für Schlagzeilen: Der von Finanzminister Klingbeil vorgelegte Gesetzentwurf stößt auf Widerstand im Kanzleramt. Der Entwurf weiche von Empfehlungen einer Finanzkommission ab.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-kanzleramt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-01T11:01:33+00:00"
+  },
+  {
    "t": "Was Autofahrer zum Start des neuen \"Tankrabatts\" wissen müssen",
    "s": "Ab heute gilt ein neuer \"Tankrabatt\". Wie kommen Kunden an günstigeren Sprit? Wann lohnt sich das Tanken und wie viel kann man sparen? Was man zum Start des \"Tankrabatts\" wissen muss.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-tankrabatt-100.html",
@@ -71,13 +120,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/energie/oekostrom-wind-sonne-wasserkraft-rekord-100.html",
    "q": "Tagesschau",
    "d": "2026-10-01T07:56:39+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 01.10.2026",
-   "s": "Update Wirtschaft vom 01.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1658544.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T07:48:32+00:00"
   },
   {
    "t": "Freiwilliger Spritpreisdeckel - auch in Deutschland denkbar?",
@@ -122,53 +164,11 @@
    "d": "2026-09-30T10:16:57+00:00"
   },
   {
-   "t": "Arbeitslosenzahl sinkt leicht unter Marke von drei Millionen",
-   "s": "Mit dem Ende der Sommerpause gibt es meist Bewegung auf dem Arbeitsmarkt. Im September ging die Zahl der Menschen ohne Job aber nur leicht zurück. Unternehmen suchen weiterhin kaum nach neuem Personal.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-arbeitsmarkt-september-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T08:42:03+00:00"
-  },
-  {
    "t": "Tanken in Deutschland war noch nie so teuer wie im September",
    "s": "Die durchschnittlichen Preise an Tankstellen in Deutschland waren noch nie höher als im September. Für den Rest des Jahres dürften die Preise für Autofahrerinnen und Autofahrer durch den \"Tankrabatt\" aber sinken.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/september-tanken-100.html",
    "q": "Tagesschau",
    "d": "2026-09-30T08:23:56+00:00"
-  },
-  {
-   "t": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
-   "s": "Seit Wochen wird weltweit über Risiken und Beschränkungen von Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen sich freiwillig selbst kontrollieren.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T07:59:56+00:00"
-  },
-  {
-   "t": "Hat die Schufa ihr Transparenz-Versprechen gebrochen?",
-   "s": "Vollkommen transparent, verständlich und nachvollziehbar: So sollte der neue Schufa-Score sein, mit dem Millionen Verbraucherinnen und Verbraucher bewertet werden. Doch Recherchen von NDR und SZ zeigen: Das war offenbar nicht mehr als ein leeres Versprechen.",
-   "u": "https://www.tagesschau.de/investigativ/ndr/schufa-score-auskunftei-verbraucher-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T04:00:51+00:00"
-  },
-  {
-   "t": "US-Verbrauchervertrauen sinkt auf tiefsten Stand seit 2014",
-   "s": "Kurz vor den Zwischenwahlen in den USA sinkt das Vertrauen der Verbraucher deutlich - auf den tiefsten Stand seit 2014. Gründe für die schlechte Stimmung sind steigende Preise und die Lage auf dem Arbeitsmarkt. Von A. Schneider.",
-   "u": "https://www.tagesschau.de/wirtschaft/usa-verbrauchervertrauen-einbruch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T03:35:20+00:00"
-  },
-  {
-   "t": "Haushalte sind so reich wie nie - Vermögen ungleich verteilt",
-   "s": "Der KI-Boom an den Börsen hat das weltweite Geldvermögen im vergangenen Jahr auf einen Rekordwert getrieben. Die privaten Haushalte besaßen zum Jahresende ein Vermögen von 268,4 Billionen Euro.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/geldvermoegen-private-haushalte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T13:17:47+00:00"
-  },
-  {
-   "t": "KI außer Kontrolle: Wer haftet in so einem Fall eigentlich?",
-   "s": "Mehrere KI-Modelle haben zuletzt ungewolltes und nicht vorhergesehenes Verhalten gezeigt. Doch wer zahlt die Schäden, wenn KI-Agenten in fremde IT eindringen? Teilweise ist das juristisches Neuland.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/ki-ausbrueche-haftung-faq-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-29T12:44:40+00:00"
   }
  ]
 }
