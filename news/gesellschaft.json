@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-03T18:41:16+00:00",
+ "updated": "2026-10-03T23:47:03+00:00",
  "items": [
+  {
+   "t": "Wahlen in Bosnien und Herzegowina: Zwischen Erschöpfung und dem Kampf gegen Wahlbetrug",
+   "s": "In Bosnien und Herzegowina wird am Sonntag gewählt. Die Stimmung in der Bevölkerung ist getrübt. Nur wenige glauben an einen politischen Wechsel.",
+   "u": "https://taz.de/Wahlen-in-Bosnien-und-Herzegowina/!6217644/",
+   "q": "taz",
+   "d": "2026-10-03T18:23:00+00:00"
+  },
   {
    "t": "+++ Nachrichten im Ukraine-Krieg +++: Russland schießt erneut auf Brücke in Kyjiw",
    "s": "Russland setzt seine Angriffe auf Straßenbrücken in der ukrainischen Hauptstadt Kyjiw fort. Moldau meldet Einschläge.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Nach-Witzen-ueber-Erdogan/!6217232/",
    "q": "taz",
    "d": "2026-09-29T07:34:00+00:00"
-  },
-  {
-   "t": "Nach Zwangsräumung in Madrid: Seniorin darf in Wohnung zurück",
-   "s": "Zehntausende hatten gegen die Zwangsräumung einer 87-Jährigen protestiert, die ihre Wohnung nach 70 Jahren verlassen musste. Jetzt kann sie zurückkehren.",
-   "u": "https://taz.de/Nach-Zwangsraeumung-Seniorin-darf-in-Wohnung-zurueck/!6217227/",
-   "q": "taz",
-   "d": "2026-09-29T05:56:00+00:00"
   }
  ]
 }
