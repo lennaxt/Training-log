@@ -1,13 +1,41 @@
 {
  "name": "Ausland",
- "updated": "2026-10-03T14:19:45+00:00",
+ "updated": "2026-10-03T18:41:11+00:00",
  "items": [
   {
-   "t": "Russland beschießt erneut Brücke in Kiew",
-   "s": "Erneut hat Russland eine Brücke in der ukrainischen Hauptstadt beschossen - diesmal traf es die Nordbrücke. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews angegriffen und beschädigt worden.",
+   "t": "Wahl in Lettland: Partei von Ministerpräsident laut Prognose in Führung",
+   "s": "Die Letten haben ein neues Parlament gewählt. Laut Nachwahlbefragung liegt das Bündnis von Ministerpräsident Kulbergs vorn. Zentrale Themen im Wahlkampf waren Sicherheit und Verteidigung, aber auch die hohen Lebenshaltungskosten.",
+   "u": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T18:28:32+00:00"
+  },
+  {
+   "t": "Holocaust-Überlebende Irene Butter in den USA verstorben",
+   "s": "Die Holocaust-Überlebende und Friedensaktivistin Irene Butter ist in den USA verstorben. Die gebürtige Berlinerin wurde 95 Jahre alt. Vor zwei Jahren hatte sie das Bundesverdienstkreuz für ihre Aufklärungsarbeit als Zeitzeugin erhalten.",
+   "u": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T17:41:01+00:00"
+  },
+  {
+   "t": "Todesstrafe in Tennessee: Neue Details zu gescheiterter Hinrichtung",
+   "s": "Nach der missglückten Hinrichtung liegt die zum Tode verurteilte Christa Pike bewusstlos in einem Krankenhaus und wird künstlich beatmet. Nun gerät das Personal in den Fokus - der Behördenchef ist zurückgetreten.",
+   "u": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T17:04:05+00:00"
+  },
+  {
+   "t": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
+   "s": "Erneut hat Russland eine Brücke in der ukrainischen Hauptstadt beschossen. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews getroffen worden. Angriffe gab es auch in anderen Landesteilen. Mehrere Menschen wurden getötet.",
    "u": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-03T12:14:23+00:00"
+   "d": "2026-10-03T15:03:41+00:00"
+  },
+  {
+   "t": "Landesweit große Demos gegen Wohnungsnot in Spanien",
+   "s": "Nach dem Scheitern wichtiger Mietdekrete sind in Spanien viele Menschen auf die Straße gegangen. Veranstalter sprechen von 500.000 Teilnehmern allein in Madrid - die Regierung von 70.000. Derweil gibt es Spekulationen über Neuwahlen.",
+   "u": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T14:22:55+00:00"
   },
   {
    "t": "Walfang-Konferenz in Australien: Schutzgebiet scheitert erneut",
@@ -24,7 +52,7 @@
    "d": "2026-10-03T10:47:51+00:00"
   },
   {
-   "t": "Großbritanniens Zusammenarbeit mit der EU: Bye, bye, Brexit?",
+   "t": "Großbritanniens Zusammenarbeit mit der EU: Bye-bye, Brexit?",
    "s": "Großbritanniens Premier Burnham nährt mit einer Aussage Diskussionen um einen Wiedereintritt seines Landes in die EU. Gründe zur Zusammenarbeit gäbe es genug. Aber wäre eine Rückkehr wirklich denkbar? Von Sabrina Fritz.",
    "u": "https://www.tagesschau.de/ausland/europa/grossbritannien-zusammenarbeit-eu-100.html",
    "q": "Tagesschau",
@@ -43,13 +71,6 @@
    "u": "https://www.tagesschau.de/ausland/brasilien-lula-praesidentenwahl-100.html",
    "q": "Tagesschau",
    "d": "2026-10-03T08:56:27+00:00"
-  },
-  {
-   "t": "Todesstrafe in Tennessee: Neue Details zu gescheiterter Hinrichtung",
-   "s": "Nach der missglückten Hinrichtung liegt die zum Tode verurteilte Christa Pike bewusstlos in einem Krankenhaus und wird künstlich beatmet. Ein Gerichtsantrag der Anwälte bringt jetzt neue Details ans Licht.",
-   "u": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T08:54:30+00:00"
   },
   {
    "t": "US-Medienberichte: Flydubai-Co-Pilot galt zuvor als Sicherheitsrisiko",
@@ -143,32 +164,11 @@
    "d": "2026-10-02T13:06:06+00:00"
   },
   {
-   "t": "Was es mit Melonis Schul-Dekret auf sich hat",
-   "s": "Ausländerquote und Burkaverbot: Italiens Regierung verschärft per Dekret die Regeln an Schulen. Doch in der Praxis greifen die Maßnahmen kaum. Kritiker sprechen von Nervosität und Wahlkampftaktik. Von A. Giordano.",
-   "u": "https://www.tagesschau.de/ausland/europa/italien-schuldekret-meloni-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T13:04:52+00:00"
-  },
-  {
    "t": "Luftangriffe auf Kiew dauern an - Brücken gesperrt",
    "s": "Russland greift weiter ukrainische Infrastruktur an. Am Morgen wurde die Südbrücke in Kiew von einer Drohne getroffen. Die wichtige Ost-West-Verbindung sowie weitere Brücken wurden gesperrt.",
    "u": "https://www.tagesschau.de/ausland/europa/angriff-kiew-bruecke-100.html",
    "q": "Tagesschau",
    "d": "2026-10-02T12:26:52+00:00"
-  },
-  {
-   "t": "Gescheiterte Hinrichtung heizt Debatte über Todesstrafe neu an",
-   "s": "Der Fall einer Mörderin, die ihre versuchte Hinrichtung überlebte, hat die Debatte über die Todesstrafe in den USA wieder angeheizt. Die Frau ist offenbar weiter in kritischem Zustand. Ihr Anwalt spricht von diversen Pannen. Von Giselle Ucar.",
-   "u": "https://www.tagesschau.de/ausland/amerika/hinrichtung-tennessee-giftspritze-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T05:45:36+00:00"
-  },
-  {
-   "t": "Astronauten erreichen ISS in Rekordzeit",
-   "s": "So schnell war noch kein US-Raumschiff an der ISS: Knapp acht Stunden nach dem Start hat eine \"Dragon\"-Kapsel die Weltraumstation erreicht. An Bord sind vier Raumfahrer aus den USA, Kanada und Russland.",
-   "u": "https://www.tagesschau.de/ausland/amerika/iss-crew-im-all-angekommen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T05:22:09+00:00"
   }
  ]
 }

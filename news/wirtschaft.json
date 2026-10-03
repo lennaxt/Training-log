@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-03T14:19:47+00:00",
+ "updated": "2026-10-03T18:41:13+00:00",
  "items": [
+  {
+   "t": "Fachkräfte fehlen - doch es gibt auch Chancen in Ostdeutschland",
+   "s": "Ostdeutschland bietet viel Platz für neue Fabriken. Doch ausgerechnet dort, wo neue Industriearbeitsplätze entstehen könnten, fehlen zunehmend Fachkräfte. Ökonomen sehen dennoch Chancen. Von Claudia Wehrle.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/ostdeutschland-wirtschaftsstandort-beschaeftigung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T16:40:33+00:00"
+  },
+  {
+   "t": "Wer an KI-Songs verdient - und wer leer ausgeht",
+   "s": "Immer mehr Songs auf Streamingplattformen werden nicht von Menschen erschaffen, sondern stammen aus der Maschine - und nicht immer ist das erkennbar. Viele Musikschaffende sehen dadurch ihre wirtschaftliche Existenz bedroht. Von N. Laryea.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-musik-existenz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T15:11:44+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 02.10.2026",
    "s": "Wirtschaft vor acht vom 02.10.2026",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-tarifvertraege-sparkurs-100.html",
    "q": "Tagesschau",
    "d": "2026-09-30T17:02:10+00:00"
-  },
-  {
-   "t": "Preis für Deutschlandticket steigt im Januar auf 66,80 Euro",
-   "s": "Das Deutschlandticket wird erneut teurer. Es kostet ab Januar 66,80 Euro und damit 3,80 Euro mehr als bisher. An der neuen Preissteigerung gab es vorab schon deutliche Kritik von Fahrgast- und Umweltverbänden.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-preis-110.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T14:06:15+00:00"
-  },
-  {
-   "t": "Volkswagen kündigt zum Jahresende fast alle Tarifverträge",
-   "s": "Der kriselnde Autobauer VW hat zum Jahresende eine Reihe von Tarifverträgen gekündigt und begründet das mit dem aktuellen Kostendruck. Die IG Metall spricht von einem \"üblen Foul an der Belegschaft\".",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-aufhebung-tarifvertraege-sparmassnahmen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T14:00:31+00:00"
   }
  ]
 }

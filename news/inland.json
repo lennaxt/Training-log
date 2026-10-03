@@ -1,7 +1,42 @@
 {
  "name": "Inland",
- "updated": "2026-10-03T14:19:45+00:00",
+ "updated": "2026-10-03T18:41:11+00:00",
  "items": [
+  {
+   "t": "Wahlen in Bosnien und Herzegowina: Zwischen Erschöpfung und dem Kampf gegen Wahlbetrug",
+   "s": "In Bosnien und Herzegowina wird am Sonntag gewählt. Die Stimmung in der Bevölkerung ist getrübt. Nur wenige glauben an einen politischen Wechsel.",
+   "u": "https://taz.de/Wahlen-in-Bosnien-und-Herzegowina/!6217644/",
+   "q": "taz",
+   "d": "2026-10-03T18:23:00+00:00"
+  },
+  {
+   "t": "Sachsen-Anhalts Landtagspräsident in spe: Der Rausch des Geldes",
+   "s": "Es ist eine Zäsur, dass am 6. Oktober der erste AfD-Parlamentspräsident gewählt werden soll. Tobias Rausch trägt das Völkische mit und greift gern zu.",
+   "u": "https://taz.de/Sachsen-Anhalts-Landtagspraesident-in-spe/!6214485/",
+   "q": "taz",
+   "d": "2026-10-03T18:17:00+00:00"
+  },
+  {
+   "t": "AfDlerin klagt gegen Kündigung: Gottes Brandmauer",
+   "s": "Die Caritas Salzgitter hat einer Erzieherin gekündigt, weil sie für die AfD kandidiert hat. Die Geschasste wehrt sich mithilfe eines rechten Anwalts.",
+   "u": "https://taz.de/AfDlerin-klagt-gegen-Kuendigung/!6210196/",
+   "q": "taz",
+   "d": "2026-10-03T16:05:00+00:00"
+  },
+  {
+   "t": "Abtreibung in Brasilien: „Mein Leben gehört wieder mir“",
+   "s": "Abtreibung ist in Brasilien illegal, aber unter gewissen Umständen straffrei. Doch benachteiligte Schwangere sind über ihre Rechte oft nicht informiert.",
+   "u": "https://taz.de/Abtreibung-in-Brasilien/!6216959/",
+   "q": "taz",
+   "d": "2026-10-03T16:01:00+00:00"
+  },
+  {
+   "t": "Wahl in Brasilien: Lula gegen Bolsonaro Junior",
+   "s": "Bei der Präsidentschaftswahl in Brasilien stehen sich Amtsinhaber Luiz Inácio Lula da Silva und Flávio Bolsonaro, Sohn von Ex-Präsident Jair Bolsonaro, gegenüber. Der Ausgang der Wahl dürfte Auswirkungen auf die gesamte Region haben.",
+   "u": "https://www.deutschlandfunk.de/brasilien-praesidentschaftswahl-lula-da-silva-bolsonaro-usa-trump-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-03T15:34:00+00:00"
+  },
   {
    "t": "Bundesweite Aktion: Menschenketten für Gerechtigkeit und Klima",
    "s": "In mehr als 100 Städten haben Tausende in Menschenketten für mehr Klimaschutz und Gerechtigkeit demonstriert. Die Aktion soll auf die Ursachen von Hitzetoten, Fluten und Waldbrände aufmerksam machen.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Wahlen-in-Israel/!6218499/",
    "q": "taz",
    "d": "2026-10-02T16:22:00+00:00"
-  },
-  {
-   "t": "Katja Wolf: \"Mein Herz brennt für Gerechtigkeit\"",
-   "s": "Katja Wolf war 14 Jahre alt zur Wendezeit. Sie hat diese sehr intensiv erlebt: „Mit all den Brüchen, die damit verbunden waren.” Umso empörter ist die Gründerin der Partei Thüringen.Gerecht über die niedrigeren Renten im Osten. Das sei inakzeptabel.Bernhard, Henry",
-   "u": "https://www.deutschlandfunk.de/interview-wolf-katja-finanzministerin-thueringen-thueringen-gerecht-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-02T16:21:00+00:00"
-  },
-  {
-   "t": "Bilger erwartet von der Bahn bis 2029 \"spürbare Verbesserung\"",
-   "s": "In drei Jahren sollen Bahnkunden aufatmen können. Bis dahin erwarte er eine \"spürbare Verbesserung\", so Verkehrsminister Bilger im ARD-Interview. Eine \"Leistungsvereinbarung\" soll den Druck auf die Bahn erhöhen. Von Jan Zimmermann.",
-   "u": "https://www.tagesschau.de/inland/bilger-verspricht-besserung-bei-bahn-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T16:18:24+00:00"
-  },
-  {
-   "t": "Teufelsrad auf dem Oktoberfest: Kein Filmen der Unterhose",
-   "s": "Der Upskirting-Paragraf gilt auch für Unterwäsche-Aufnahmen von Dirndl-Trägerinnen auf dem Teufelsrad. Das könnte sich mit einer Neuregelung ändern.",
-   "u": "https://taz.de/Teufelsrad-auf-dem-Oktoberfest/!6218512/",
-   "q": "taz",
-   "d": "2026-10-02T16:08:00+00:00"
-  },
-  {
-   "t": "Todesstrafe in den USA: „Es sollte nicht schwer sein“, sagt Trump",
-   "s": "Der Fall Pike hat in den USA die Debatte um die Todesstrafe neu entfacht. Weder Demokraten noch Republikaner wollen sie komplett abschaffen.",
-   "u": "https://taz.de/Todesstrafe-in-den-USA/!6218500/",
-   "q": "taz",
-   "d": "2026-10-02T16:03:00+00:00"
-  },
-  {
-   "t": "Abstimmung im spanischen Parlament: Sánchez scheitert mit Paket gegen Wohnungskrise",
-   "s": "Das spanische Parlament hat Gesetze, die den Wohnungsmarkt neu regeln sollten, abgelehnt. Regierungschef Sánchez gerät zunehmend unter Druck.",
-   "u": "https://taz.de/Abstimmung-im-spanischen-Parlament/!6218477/",
-   "q": "taz",
-   "d": "2026-10-02T15:34:00+00:00"
   }
  ]
 }

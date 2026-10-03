@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-03T14:19:50+00:00",
+ "updated": "2026-10-03T18:41:17+00:00",
  "items": [
+  {
+   "t": "Abtreibung in Brasilien: „Mein Leben gehört wieder mir“",
+   "s": "Abtreibung ist in Brasilien illegal, aber unter gewissen Umständen straffrei. Doch benachteiligte Schwangere sind über ihre Rechte oft nicht informiert.",
+   "u": "https://taz.de/Abtreibung-in-Brasilien/!6216959/",
+   "q": "taz",
+   "d": "2026-10-03T16:01:00+00:00"
+  },
   {
    "t": "Todesstrafe in den USA: „Es sollte nicht schwer sein“, sagt Trump",
    "s": "Der Fall Pike hat in den USA die Debatte um die Todesstrafe neu entfacht. Weder Demokraten noch Republikaner wollen sie komplett abschaffen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Fox-News-schliesst-sich-Trump-Boykott-an-Es-geht-ihnen-nicht-um-die-Pressefreiheit/!6215298/",
    "q": "taz",
    "d": "2026-09-22T17:26:00+00:00"
-  },
-  {
-   "t": "Medien im Weißen Haus: US-Sender nehmen Trump „off air“ in Solidarität mit CNN",
-   "s": "In den USA hatte die Regierung CNN und anderen Sendern den Zutritt zum Weißen Haus verboten. Medienpool-Mitglieder zeigen sich solidarisch – auch Fox.",
-   "u": "https://taz.de/Medien-im-Weissen-Haus/!6215227/",
-   "q": "taz",
-   "d": "2026-09-22T07:37:00+00:00"
   }
  ]
 }
