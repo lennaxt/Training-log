@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-03T00:30:57+00:00",
+ "updated": "2026-10-03T09:10:37+00:00",
  "items": [
+  {
+   "t": "Parlamentswahl in Lettland: Kampfflugzeuge schützten Wahlkampf",
+   "s": "Das EU- und Natomitglied Lettland wählt ein neues Parlament. Überschattet wird die Wahl von der Sorge vor Drohnenangriffen.",
+   "u": "https://taz.de/Parlamentswahl-in-Lettland/!6218560/",
+   "q": "taz",
+   "d": "2026-10-03T08:10:00+00:00"
+  },
   {
    "t": "Proteste an Schulen und Universitäten: Frankreichs Regierung hat den Flächenbrand zu verantworten",
    "s": "Paris will einen harten Sparkurs durchsetzen und die junge Generation wehrt sich. Statt zu handeln, wird die Linke beschuldigt, die Proteste anzuheizen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Krieg-in-der-Ukraine/!6217027/",
    "q": "taz",
    "d": "2026-09-28T17:54:00+00:00"
-  },
-  {
-   "t": "Russischer Menschenrechtler: Nicht einmal im Gefängnis ist er sicher",
-   "s": "Der Historiker Juri Dmitrijew sitzt seit Jahren in russischer Haft. Nun soll sich sein Gesundheitszustand drastisch verschlechtert haben.",
-   "u": "https://taz.de/Russischer-Menschenrechtler/!6217025/",
-   "q": "taz",
-   "d": "2026-09-28T16:05:00+00:00"
   }
  ]
 }

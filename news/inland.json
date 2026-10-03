@@ -1,7 +1,35 @@
 {
  "name": "Inland",
- "updated": "2026-10-03T00:30:54+00:00",
+ "updated": "2026-10-03T09:10:32+00:00",
  "items": [
+  {
+   "t": "Parlamentswahl in Lettland: Kampfflugzeuge schützten Wahlkampf",
+   "s": "Das EU- und Natomitglied Lettland wählt ein neues Parlament. Überschattet wird die Wahl von der Sorge vor Drohnenangriffen.",
+   "u": "https://taz.de/Parlamentswahl-in-Lettland/!6218560/",
+   "q": "taz",
+   "d": "2026-10-03T08:10:00+00:00"
+  },
+  {
+   "t": "Flug von Flydubai: Co-Pilot plante wohl Terroranschlag",
+   "s": "Am Mittwoch versuchte ein Copilot, ein Flugzeug zum Absturz zu bringen. Er hat nach Angaben der emiratischen Behörden einen „Terrorakt“ geplant.",
+   "u": "https://taz.de/Flug-von-Flydubai/!6218556/",
+   "q": "taz",
+   "d": "2026-10-03T07:37:00+00:00"
+  },
+  {
+   "t": "Kommunikationsfreiheit - Das Recht, die Macht und die Bedingungen offener Diskurse",
+   "s": "Offene Diskurse sind die Bedingung gelingender Demokratie. Und das Recht hat die Aufgabe, Bedingungen herzustellen, die eine freie individuelle und öffentliche Meinungsbildung weitestgehend ermöglichen.Von Valerie Rhein",
+   "u": "https://www.deutschlandfunk.de/das-recht-die-macht-und-die-bedingungen-offener-diskurse-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-03T07:30:00+00:00"
+  },
+  {
+   "t": "Ostdeutsche in Führungspositionen: \"Es gibt kaum positive Entwicklungen\"",
+   "s": "Auch 36 Jahre nach der Wiedervereinigung sind Ostdeutsche selten in Führungspositionen vertreten. Der Soziologe Hartmann sieht nur wenige Fortschritte - und spricht sich für Quoten bei der Besetzung von Posten aus.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/hartmann-ostdeutsche-westdeutsche-fuehrungspositionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T03:32:08+00:00"
+  },
   {
    "t": "Feierlichkeiten zu Tag der Deutschen Einheit in Bremen begonnen",
    "s": "Mit einem symbolischen Raketenstart ist das Bürgerfest zum Tag der Deutschen Einheit in Bremen eröffnet worden. Bürgermeister Bovenschulte erwartet einen Tag der \"gelebten deutschen Einheit\". Die ersten prominenten Gäste sind bereits eingetroffen.",
@@ -141,34 +169,6 @@
    "u": "https://www.deutschlandfunk.de/strandkorb-und-sardinien-urlaub-cdu-im-medialen-fokus-102.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-02T13:35:00+00:00"
-  },
-  {
-   "t": "Brennende Barrikaden in Frankreich: Der wütende Frust der jungen Generation",
-   "s": "An Schulen in ganz Frankreich protestieren Schüler gegen Lehrermangel und marode Infrastruktur. Die Regierung vermutet die Linke als Drahtzieher.",
-   "u": "https://taz.de/Brennende-Barrikaden-in-Frankreich/!6218479/",
-   "q": "taz",
-   "d": "2026-10-02T12:40:00+00:00"
-  },
-  {
-   "t": "Einheitsfeier in Bremen: Eine Stadt findet sich gut",
-   "s": "Bremen richtet das Fest zur Deutschen Einheit aus und feiert in erster Linie sich selbst. Manche hoffen auf linksextremistische Randale.",
-   "u": "https://taz.de/Einheitsfeier-in-Bremen/!6218045/",
-   "q": "taz",
-   "d": "2026-10-02T11:23:00+00:00"
-  },
-  {
-   "t": "Nostalgie in Großbritannien: War früher alles besser?",
-   "s": "Großbritanniens Premier Andy Burnham sagt, sein Land sei auf dem falschen Weg – und will zurück zu den Werten der Nachkriegszeit. Da lohnt es sich, genau hinzuschauen.",
-   "u": "https://taz.de/Nostalgie-in-Grossbritannien/!6214477/",
-   "q": "taz",
-   "d": "2026-10-02T10:28:00+00:00"
-  },
-  {
-   "t": "Ultragruppe Horda Azzuro: „Natürlich lüge ich Bullen ins Gesicht“",
-   "s": "Zu ihrem Jubiläum gibt die Jenaer Ultra-Gruppe Horda Azzuro ungewöhnliche Einblicke. Ein Gespräch über Anti-Haltung, die Mentalità Ultra und Utopie.",
-   "u": "https://taz.de/Ultragruppe-Horda-Azzuro/!6211239/",
-   "q": "taz",
-   "d": "2026-10-02T10:27:00+00:00"
   }
  ]
 }
