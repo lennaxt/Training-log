@@ -1,7 +1,42 @@
 {
  "name": "Ausland",
- "updated": "2026-10-03T09:10:32+00:00",
+ "updated": "2026-10-03T14:19:45+00:00",
  "items": [
+  {
+   "t": "Russland beschießt erneut Brücke in Kiew",
+   "s": "Erneut hat Russland eine Brücke in der ukrainischen Hauptstadt beschossen - diesmal traf es die Nordbrücke. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews angegriffen und beschädigt worden.",
+   "u": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T12:14:23+00:00"
+  },
+  {
+   "t": "Walfang-Konferenz in Australien: Schutzgebiet scheitert erneut",
+   "s": "Die Internationale Walfangkommission hat in Australien über die weltweiten Bestände beraten. Auf ein großes Schutzgebiet konnten sich die Mitglieder nicht verständigen - dafür aber auf andere Maßnahmen. Von Jennifer Johnston.",
+   "u": "https://www.tagesschau.de/ausland/ozeanien/australien-walschutz-konferenz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T10:56:13+00:00"
+  },
+  {
+   "t": "Frankreich: Seit Montag mehr als 5.000 Festnahmen bei Schülerprotesten",
+   "s": "Bei den Schülerprotesten in Frankreich sind in dieser Woche mehr als 5.000 Menschen festgenommen worden - die meisten von ihnen waren minderjährig. Laut Regierung gab es Angriffe auf Ordnungskräfte, Lehrer und Passanten.",
+   "u": "https://www.tagesschau.de/ausland/frankreich-schuelerproteste-festnahmen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T10:47:51+00:00"
+  },
+  {
+   "t": "Großbritanniens Zusammenarbeit mit der EU: Bye, bye, Brexit?",
+   "s": "Großbritanniens Premier Burnham nährt mit einer Aussage Diskussionen um einen Wiedereintritt seines Landes in die EU. Gründe zur Zusammenarbeit gäbe es genug. Aber wäre eine Rückkehr wirklich denkbar? Von Sabrina Fritz.",
+   "u": "https://www.tagesschau.de/ausland/europa/grossbritannien-zusammenarbeit-eu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T09:54:11+00:00"
+  },
+  {
+   "t": "Fall Widdecombe: Möglicherweise auch Anschlag auf Farage geplant",
+   "s": "Im Juli wurde ein 28-Jähriger im Fall der getöteten Brexit-Politikerin Widdecombe wegen Mordes angeklagt. Die Ermittler stellen nun eine Verbindung zu weiteren Anschlagspläne her - unter anderem gegen Rechtspopulist Farage.",
+   "u": "https://www.tagesschau.de/ausland/europa/mord-ann-widdecombe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T09:11:57+00:00"
+  },
   {
    "t": "Lula vor Wahl in Brasilien: 80 Jahre und noch nicht müde",
    "s": "In Brasilien will Präsident Lula am Sonntag die Wahl gegen den Sohn seines Vorgängers Bolsonaro gewinnen. Es wäre die vierte Amtszeit für den früheren Gewerkschaftsführer, der auch für Europa ein wichtiger Partner ist. Von A. Herrberg.",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/iss-crew-im-all-angekommen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-02T05:22:09+00:00"
-  },
-  {
-   "t": "Scheitern Spaniens Wohnungsgesetze noch im Parlament?",
-   "s": "Nach den Protesten aufgrund der Zwangsräumung der Wohnung einer Rentnerin in Madrid stimmt nun das Parlament ab - doch eine Mehrheit für stärkeren Mieterschutz ist alles andere als sicher. Von Hans-Günter Kellner.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-maricarmen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T01:49:37+00:00"
-  },
-  {
-   "t": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
-   "s": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen Missstände an Schulen.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T21:02:22+00:00"
-  },
-  {
-   "t": "Netanjahu schreibt dem Flydubai-Co-Piloten islamistische Gesinnung zu",
-   "s": "Nach der Gewalttat auf einem Flydubai-Flug nach Tel Aviv laufen die Untersuchungen, wie es zu der Auseinandersetzung im Cockpit kam. Israels Premier Netanjahu geht von einer islamistischen Radikalisierung des Co-Piloten aus.",
-   "u": "https://www.tagesschau.de/ausland/asien/netanjahu-flydubai-copilot-islamistisch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T19:54:14+00:00"
-  },
-  {
-   "t": "Gescheiterte Hinrichtung in den USA sorgt für Entsetzen - Debatte über Todesstrafe",
-   "s": "Nach der fehlgeschlagenen Hinrichtung einer verurteilten Mörderin in den USA dringen Menschenrechtler auf die Abschaffung der Todesstrafe. Zum Zustand der Frau, die zwei Giftspritzen überlebt hat, ist weiterhin wenig bekannt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/ende-der-todesstrafe-in-den-usa-gefordert-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T19:11:40+00:00"
-  },
-  {
-   "t": "Bundeswehr-Einsatz im Irak beendet - Soldaten kehren zurück",
-   "s": "Nach mehr als einem Jahrzehnt der Bundeswehr-Präsenz im Irak sind die letzten 28 Soldaten und Soldatinnen wieder zurück in Deutschland. Das Verteidigungsministerium arbeitet bereits an einer neuen Zusammenarbeit.",
-   "u": "https://www.tagesschau.de/ausland/asien/letzte-bundeswehr-soldaten-aus-irak-zurueckgekehrt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T16:05:21+00:00"
   }
  ]
 }

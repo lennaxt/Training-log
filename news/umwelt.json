@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-03T09:10:36+00:00",
+ "updated": "2026-10-03T14:19:48+00:00",
  "items": [
+  {
+   "t": "Konzertkundgebung gegen die Wehrpflicht: „Für dieses Deutschland kämpfen? Nein, danke!“",
+   "s": "Vor dem Brandenburger Tor protestieren Tausende Jugendliche gegen die Militarisierung. Mit Pogo und Sprechchören richteten sie sich an die Regierung.",
+   "u": "https://taz.de/Konzertkundgebung-gegen-die-Wehrpflicht/!6218555/",
+   "q": "taz",
+   "d": "2026-10-03T09:34:00+00:00"
+  },
   {
    "t": "AfD-Fans im eigenen Umfeld: Ihr Deutschland ist nicht mein Deutschland",
    "s": "Unsere Autorin hat jahrelang versucht, AfD-Fans in ihrem westdeutschen Umfeld zu verstehen – vergeblich. Daher ist jetzt Schluss mit der Einfühlsamkeit.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Soziologe-zur-Aufregung-ueber-die-Linkspartei-Das-ist-erst-der-Anfang/!6217731/",
    "q": "taz",
    "d": "2026-09-30T18:17:00+00:00"
-  },
-  {
-   "t": "Konsequenzen nach Wahlparty in Neukölln: Koçak sei „naiv“ und „überfordert“ gewesen",
-   "s": "Nach Kritik gibt der linke Bundestagsabgeordnete Ferat Koçak seinen Sitz im Innenausschuss ab und räumt Fehler ein. Wie glaubwürdig ist das?",
-   "u": "https://taz.de/Nach-Wahlparty-Kocak-gibt-Sitz-in-Innenausschuss-ab/!6217924/",
-   "q": "taz",
-   "d": "2026-09-30T18:11:00+00:00"
   }
  ]
 }

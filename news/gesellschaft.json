@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-03T09:10:37+00:00",
+ "updated": "2026-10-03T14:19:49+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Russland schießt erneut auf Brücke in Kyjiw",
+   "s": "Russland setzt seine Angriffe auf Straßenbrücken in der ukrainischen Hauptstadt Kyjiw fort. Moldau meldet Einschläge.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6218568/",
+   "q": "taz",
+   "d": "2026-10-03T11:26:00+00:00"
+  },
   {
    "t": "Parlamentswahl in Lettland: Kampfflugzeuge schützten Wahlkampf",
    "s": "Das EU- und Natomitglied Lettland wählt ein neues Parlament. Überschattet wird die Wahl von der Sorge vor Drohnenangriffen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Nach-Zwangsraeumung-Seniorin-darf-in-Wohnung-zurueck/!6217227/",
    "q": "taz",
    "d": "2026-09-29T05:56:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: Viel Kritik, wenig Konkretes",
-   "s": "Die EU wirft Russland mangelnden Friedenswillen vor. Beim Treffen der Verteidigungsminister bleiben konkrete Beschlüsse jedoch aus.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6217027/",
-   "q": "taz",
-   "d": "2026-09-28T17:54:00+00:00"
   }
  ]
 }

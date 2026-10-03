@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-03T09:10:35+00:00",
+ "updated": "2026-10-03T14:19:47+00:00",
  "items": [
+  {
+   "t": "Bundesweit Menschenketten für mehr Klimaschutz und Einhaltung der Grundrechte",
+   "s": "Bundesweit Menschenketten für mehr Klimaschutz und Einhaltung der Grundrechte",
+   "u": "https://www.tagesschau.de/video/video-1659824.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T13:40:12+00:00"
+  },
   {
    "t": "Fünf neue Exzellenzuniversitäten in Deutschland gekürt",
    "s": "Drei neue Unis und zwei Hochschulverbünde dürfen sich jetzt Exzellenzuniversität nennen. Sie bekommen künftig deutlich mehr Geld für die Spitzenforschung. Für Studierende hat das allerdings eher einen indirekten Nutzen. Von Anja Braun.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/bluttest-bauspeicheldruesenkrebs-100.html",
    "q": "Tagesschau",
    "d": "2026-09-16T13:22:15+00:00"
-  },
-  {
-   "t": "Ozonloch über der Antarktis schrumpft 2025 weiter",
-   "s": "Das Ozonloch über der Antarktis wird kleiner - und war 2025 so klein wie selten seit Anfang der 90er-Jahre. Die Weltwetterorganisation spricht von einer Erfolgsgeschichte und sieht die Ozonschicht auf dem Weg der Erholung.",
-   "u": "https://www.tagesschau.de/wissen/klima/ozonloch-114.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T08:11:31+00:00"
   }
  ]
 }

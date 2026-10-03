@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-10-03T09:10:40+00:00",
+ "updated": "2026-10-03T14:19:51+00:00",
  "items": [
+  {
+   "t": "CJP-Proteste in Indien: Die Kakerlaken demonstrieren wieder",
+   "s": "In den indischen Großstädten Mumbai und Delhi fordern Tausende Protestierende den Rücktritt von Wahlkommissionschef Gyanesh Kumar.",
+   "u": "https://taz.de/CJP-Proteste-in-Indien/!6218558/",
+   "q": "taz",
+   "d": "2026-10-03T09:08:00+00:00"
+  },
   {
    "t": "Massaker-Opfer in Iran: Der Widerspruch der Väter",
    "s": "Vor der UN-Generalversammlung machte Irans Präsident Massud Peseschkian Terroristen und den Mossad für die Januar-Massaker verantwortlich. Angehörige der Opfer widersprechen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Tokio-streitet-ueber-Strassenprostitution/!6208092/",
    "q": "taz",
    "d": "2026-09-12T18:31:00+00:00"
-  },
-  {
-   "t": "Brics-Gipfel in Delhi: Ein Brics-Gipfel mit Erklärung(en)",
-   "s": "Indien konnte als Gastgeber des Brics-Gipfels am ersten Tag eine gemeinsame Erklärung präsentieren. Doch hinter dem demonstrierten Konsens bleiben die Differenzen.",
-   "u": "https://taz.de/BRICS-als-internationale-Plattform/!6212701/",
-   "q": "taz",
-   "d": "2026-09-12T18:25:00+00:00"
   }
  ]
 }

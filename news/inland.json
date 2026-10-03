@@ -1,7 +1,56 @@
 {
  "name": "Inland",
- "updated": "2026-10-03T09:10:32+00:00",
+ "updated": "2026-10-03T14:19:45+00:00",
  "items": [
+  {
+   "t": "Bundesweite Aktion: Menschenketten für Gerechtigkeit und Klima",
+   "s": "In mehr als 100 Städten haben Tausende in Menschenketten für mehr Klimaschutz und Gerechtigkeit demonstriert. Die Aktion soll auf die Ursachen von Hitzetoten, Fluten und Waldbrände aufmerksam machen.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/menschenkette-klima-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T14:03:39+00:00"
+  },
+  {
+   "t": "Tag der Deutschen Einheit: Kirchen fordern Zusammenhalt - Warnung vor Polarisierung",
+   "s": "In Bremen wird der Tag der Deutschen Einheit gefeiert. Kirchenvertreter warnten dabei vor einer Polarisierung der Gesellschaft, Bundespräsident Steinmeier vor Extremismus. Die Ostbeauftragte Kaiser plädierte unterdessen für eine ostdeutsche Bundespräsidentin.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-bremen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T13:03:27+00:00"
+  },
+  {
+   "t": "Steinmeier: \"Es geht um die Selbstbehauptung der Demokratie\"",
+   "s": "Bundespräsident Steinmeier hat den Tag der Deutschen Einheit für eine Warnung vor Extremismus genutzt. Beim Festakt forderte er dazu auf, die demokratischen Grundrechte zu verteidigen. Steinmeier scheidet im März aus dem Amt.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-steinmeier-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T12:29:08+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Russland schießt erneut auf Brücke in Kyjiw",
+   "s": "Russland setzt seine Angriffe auf Straßenbrücken in der ukrainischen Hauptstadt Kyjiw fort. Moldau meldet Einschläge.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6218568/",
+   "q": "taz",
+   "d": "2026-10-03T11:26:00+00:00"
+  },
+  {
+   "t": "Wohnungsnot: Kommunen fordern Konzept für ländlichen Raum",
+   "s": "Bezahlbarer Wohnraum ist vor allem in Ballungsgebieten rar. Als eine Lösung schlagen Städte und Gemeinden vor, ländliche Regionen attraktiver zu machen. Bisher mangele es aber vor allem an Versorgungs- und Nahverkehrsangeboten.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/wohnungsnot-168.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T10:42:24+00:00"
+  },
+  {
+   "t": "Konzertkundgebung gegen die Wehrpflicht: „Für dieses Deutschland kämpfen? Nein, danke!“",
+   "s": "Vor dem Brandenburger Tor protestieren Tausende Jugendliche gegen die Militarisierung. Mit Pogo und Sprechchören richteten sie sich an die Regierung.",
+   "u": "https://taz.de/Konzertkundgebung-gegen-die-Wehrpflicht/!6218555/",
+   "q": "taz",
+   "d": "2026-10-03T09:34:00+00:00"
+  },
+  {
+   "t": "CJP-Proteste in Indien: Die Kakerlaken demonstrieren wieder",
+   "s": "In den indischen Großstädten Mumbai und Delhi fordern Tausende Protestierende den Rücktritt von Wahlkommissionschef Gyanesh Kumar.",
+   "u": "https://taz.de/CJP-Proteste-in-Indien/!6218558/",
+   "q": "taz",
+   "d": "2026-10-03T09:08:00+00:00"
+  },
   {
    "t": "Parlamentswahl in Lettland: Kampfflugzeuge schützten Wahlkampf",
    "s": "Das EU- und Natomitglied Lettland wählt ein neues Parlament. Überschattet wird die Wahl von der Sorge vor Drohnenangriffen.",
@@ -120,55 +169,6 @@
    "u": "https://taz.de/Abstimmung-im-spanischen-Parlament/!6218477/",
    "q": "taz",
    "d": "2026-10-02T15:34:00+00:00"
-  },
-  {
-   "t": "Ausgezeichnete Exzellenzuniversitäten: Geld für die Unis in Freiburg, Jena und Köln",
-   "s": "Drei weitere Hochschulen und zwei Hochschulverbünde erhalten den Titel „Exzellenzuniversität“. Sie dürfen sich auf eine Millionenförderung freuen.",
-   "u": "https://taz.de/Ausgezeichnete-Exzellenzuniversitaeten/!6218525/",
-   "q": "taz",
-   "d": "2026-10-02T15:03:00+00:00"
-  },
-  {
-   "t": "Kommentar zum Tag der Deutschen Einheit: Wo steckt das Wir?",
-   "s": "Nach den Wahlen in Berlin, Sachsen-Anhalt und Mecklenburg-Vorpommern stellt sich die Frage: Wie viel Deutsche Einheit ist noch übrig? 36 Jahre nach der Wiedervereinigung wird es Zeit, dass wir uns das Wir neu erarbeiten.Von Susanne Schwarzbach",
-   "u": "https://www.deutschlandfunk.de/kommentar-tag-deutsche-einheit-wo-steckt-das-wir-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-02T15:00:00+00:00"
-  },
-  {
-   "t": "Prozess wegen Tod von Lorenz A.: Polizeipsychologe soll Notwehr-Frage begutachten",
-   "s": "Der Schwarze Lorenz A. wurde von einem Polizisten erschossen. Ein Gutachter soll klären, ob der hätte erkennen können, dass keine Notwehrsituation vorlag.",
-   "u": "https://taz.de/Prozess-wegen-des-Todes-von-Lorenz-A/!6218518/",
-   "q": "taz",
-   "d": "2026-10-02T14:44:00+00:00"
-  },
-  {
-   "t": "Mit wem sollen wir zusammenhalten?: Tag der deutschen Spaltung",
-   "s": "Der gesellschaftliche Zusammenhalt hat sich verbessert – wie blöd. Am Tag der Deutschen Einheit sollten wir uns auf unsere Unterschiede besinnen.",
-   "u": "https://taz.de/Mit-wem-sollen-wir-zusammenhalten/!6217252/",
-   "q": "taz",
-   "d": "2026-10-02T14:27:00+00:00"
-  },
-  {
-   "t": "Tag der Deutschen Einheit: Mit Placebos gegen die fortgesetzte Teilung",
-   "s": "Zum Einheitsfeiertag liefert die Ostbeauftragte Elisabeth Kaiser jede Menge Empathie und Statistiken. Das ist verdienstvoll, auch wenn Lücken bleiben.",
-   "u": "https://taz.de/Tag-der-Deutschen-Einheit/!6218470/",
-   "q": "taz",
-   "d": "2026-10-02T13:57:00+00:00"
-  },
-  {
-   "t": "Flug von Flydubai: Pilot äußert sich aus dem Krankenhaus",
-   "s": "Er war verletzt und schaffte es doch, das Cockpit zu öffnen – und rettete so das Leben der Passagiere. Nun äußert sich der Pilot Machchhar zum Angriff.",
-   "u": "https://taz.de/Flug-von-Flydubai/!6218511/",
-   "q": "taz",
-   "d": "2026-10-02T13:45:00+00:00"
-  },
-  {
-   "t": "CDU im medialen Fokus: Strandkorb und Sardinien-Urlaub",
-   "s": "„Merz in der Krise“ – „CDU am Abgrund“. Welche Rolle spielen Medien durch Zuspitzung und Dramatisierung beim Blick auf die CDU? Und welches Bild erzeugt die Partei selbst? Darüber diskutieren Dokumentarfilmer Stephan Lamby und Katharina Hamberger (Dlf).Brinkmann, Sören; Hamberger, Katharina; Lamby, Stephan",
-   "u": "https://www.deutschlandfunk.de/strandkorb-und-sardinien-urlaub-cdu-im-medialen-fokus-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-02T13:35:00+00:00"
   }
  ]
 }
