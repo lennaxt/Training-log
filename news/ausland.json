@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-10-02T19:57:31+00:00",
+ "updated": "2026-10-03T00:30:55+00:00",
  "items": [
+  {
+   "t": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
+   "s": "Zwei Tage ist es her, dass ein Pilot auf einem Flug von Dubai nach Tel Aviv von seinem Co-Piloten angegriffen wurde - jetzt hat er sich erstmals selber zu dem Vorfall geäußert. Die Ermittlungen über die Hintergründe laufen.",
+   "u": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T00:18:32+00:00"
+  },
   {
    "t": "G7-Staaten geben Diesel- und Rohöl-Reserven frei",
    "s": "Die G7-Staaten wollen angesichts der hohen Kraftstoffpreise Öl-Reserven freigeben. Die USA hatten zuvor Druck vor allem auf die europäischen G7-Mitglieder gemacht. Für US-Präsident Trump sind die hohen Preise innenpolitisch ein großes Problem.",
@@ -22,13 +29,6 @@
    "u": "https://www.tagesschau.de/ausland/midterms-republikaner-trump-100.html",
    "q": "Tagesschau",
    "d": "2026-10-02T15:54:40+00:00"
-  },
-  {
-   "t": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
-   "s": "Zwei Tage ist es her, dass ein Pilot auf einem Flug von Dubai nach Tel Aviv von seinem Co-Piloten angegriffen wurde - jetzt hat er sich erstmals selber zu dem Vorfall geäußert. Die Ermittlungen über die Hintergründe laufen.",
-   "u": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T14:59:41+00:00"
   },
   {
    "t": "Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab",
