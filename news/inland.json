@@ -1,7 +1,63 @@
 {
  "name": "Inland",
- "updated": "2026-10-03T23:46:59+00:00",
+ "updated": "2026-10-04T09:49:35+00:00",
  "items": [
+  {
+   "t": "Landwirtschaft im Kriegsgebiet: Zarte Pflanzen",
+   "s": "Nach drei Jahren Krieg liegt Gaza in Trümmern, von der Landwirtschaft ist kaum etwas übrig. Einige Bauern arbeiten trotzdem an einer besseren Zukunft.",
+   "u": "https://taz.de/Landwirtschaft-im-Kriegsgebiet/!6214457/",
+   "q": "taz",
+   "d": "2026-10-04T09:22:00+00:00"
+  },
+  {
+   "t": "Vor den Wahlen in Brasilien: Gott, steh uns bei!",
+   "s": "Wer in Brasilien Präsident werden möchte, muss auch die evangelikalen Christen von sich überzeugen. Wie Amtsinhaber „Lula“ und Flávio Bolsonaro um sie buhlen.",
+   "u": "https://taz.de/Vor-den-Wahlen-in-Brasilien/!6214483/",
+   "q": "taz",
+   "d": "2026-10-04T07:27:00+00:00"
+  },
+  {
+   "t": "Parlamentswahl in Lettland: Regierungspartei von Andris Kulbergs klar vorne",
+   "s": "Eindeutige Bestätigung für den Pro-EU- und Ukraine-Kurs des Regierungschefs: In Lettland setzt sich die Partei des Ministerpräsidenten klar durch.",
+   "u": "https://taz.de/Regierungspartei-siegt-klar-bei-Parlamentswahl-in-Lettland/!6218574/",
+   "q": "taz",
+   "d": "2026-10-04T07:15:00+00:00"
+  },
+  {
+   "t": "Wahlen in Bosnien und Herzegowina: Was geopolitisch in Bosnien auf dem Spiel steht",
+   "s": "Unter Trump wenden sich die USA der Republika Srpska zu. Den multiethnischen Gesamtstaat müsste jetzt Europa alleine vor der Zerstörung schützen.",
+   "u": "https://taz.de/Wahlen-in-Bosnien-und-Herzegowina/!6217645/",
+   "q": "taz",
+   "d": "2026-10-04T07:09:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Drohnen-Angriff auf Brücke während Merz-Besuchs",
+   "s": "Trotz russischer Reisewarnung stattet Kanzler Merz der Ukraine einen Solidaritätsbesuch ab. Während seines Aufenthalts gibt es mehrfachen Drohnenalarm.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6218573/",
+   "q": "taz",
+   "d": "2026-10-04T06:39:00+00:00"
+  },
+  {
+   "t": "Schneider fordert anderen Umgang mit Wasser",
+   "s": "Wegen der niedrigen Pegelstände hat Bundesumweltminister Schneider ein Umdenken im Umgang mit Wasser angemahnt. Er rief die Bundesländer zu massiven Investitionen in die Wasserinfrastruktur auf.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/schneider-niedrigwasser-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T06:34:46+00:00"
+  },
+  {
+   "t": "140 Jahre Seemannsmission: Eine Pause von den Weltmeeren",
+   "s": "Zeitdruck, Kriege und Krisen machen die Arbeit für Seefahrer immer härter. Seit 140 Jahren hilft die Deutsche Seemannsmission, den Bordalltag kurz zu vergessen - so wie im Hamburger Seemannsclub Duckdalben. Von Sophia Stritzel.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/seemannsmission-hamburg-seefahrer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T06:00:33+00:00"
+  },
+  {
+   "t": "Hessischer Ministerpräsident Rhein will AfD Ausschussvorsitze ermöglichen",
+   "s": "Hessens Ministerpräsident Rhein schließt eine inhaltliche Zusammenarbeit mit der AfD aus. In den Augen des CDU-Landeschefs sollte die Partei aber auch im Bundestag Ausschussvorsitze übernehmen können.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T02:05:39+00:00"
+  },
   {
    "t": "Wahlen in Bosnien und Herzegowina: Zwischen Erschöpfung und dem Kampf gegen Wahlbetrug",
    "s": "In Bosnien und Herzegowina wird am Sonntag gewählt. Die Stimmung in der Bevölkerung ist getrübt. Nur wenige glauben an einen politischen Wechsel.",
@@ -113,62 +169,6 @@
    "u": "https://www.tagesschau.de/inland/gesellschaft/hartmann-ostdeutsche-westdeutsche-fuehrungspositionen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-03T03:32:08+00:00"
-  },
-  {
-   "t": "Feierlichkeiten zu Tag der Deutschen Einheit in Bremen begonnen",
-   "s": "Mit einem symbolischen Raketenstart ist das Bürgerfest zum Tag der Deutschen Einheit in Bremen eröffnet worden. Bürgermeister Bovenschulte erwartet einen Tag der \"gelebten deutschen Einheit\". Die ersten prominenten Gäste sind bereits eingetroffen.",
-   "u": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T19:28:18+00:00"
-  },
-  {
-   "t": "Warum es in der schwarz-roten Koalition knirscht",
-   "s": "Pflege, Rente, Zuckersteuer und überall Spardruck: Es ruckelt heftig in der schwarz-roten Koalition. Gleichzeitig steigt die Unzufriedenheit, viele Menschen fordern spürbare Entlastungen. Wie kommt die Koalition da raus?",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/pflege-zucker-koalition-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T17:53:12+00:00"
-  },
-  {
-   "t": "AfD-Fans im eigenen Umfeld: Ihr Deutschland ist nicht mein Deutschland",
-   "s": "Unsere Autorin hat jahrelang versucht, AfD-Fans in ihrem westdeutschen Umfeld zu verstehen – vergeblich. Daher ist jetzt Schluss mit der Einfühlsamkeit.",
-   "u": "https://taz.de/Umgang-mit-AfD-Fans-im-eigenen-Umfeld-Ihr-Deutschland-ist-nicht-mein-Deutschland/!6214494/",
-   "q": "taz",
-   "d": "2026-10-02T17:44:00+00:00"
-  },
-  {
-   "t": "Debatte um Ferat Koçak: Das reicht nicht",
-   "s": "Nach der Erklärung von Ferat Koçak bleiben viele Fragen offen. Doch die Linken-Spitze gibt sich zufrieden – und zeigt damit Schwäche.",
-   "u": "https://taz.de/Debatte-um-Ferat-Kocak/!6218524/",
-   "q": "taz",
-   "d": "2026-10-02T17:43:00+00:00"
-  },
-  {
-   "t": "Koçak und der Antifaschismus: Eine Chance für den Innenausschuss?",
-   "s": "Der Linken-Abgeordnete Ferat Koçak gibt seinen Sitz im Innenausschuss auf. Für die parlamentarische Arbeit der Linken könnte das eine gute Entwicklung sein.",
-   "u": "https://taz.de/Kocak-und-der-Antifaschismus/!6218527/",
-   "q": "taz",
-   "d": "2026-10-02T17:43:00+00:00"
-  },
-  {
-   "t": "Proteste an Schulen und Universitäten: Frankreichs Regierung hat den Flächenbrand zu verantworten",
-   "s": "Paris will einen harten Sparkurs durchsetzen und die junge Generation wehrt sich. Statt zu handeln, wird die Linke beschuldigt, die Proteste anzuheizen.",
-   "u": "https://taz.de/Proteste-an-Schulen-und-Universitaeten/!6218502/",
-   "q": "taz",
-   "d": "2026-10-02T17:42:00+00:00"
-  },
-  {
-   "t": "Trumps Milliardengeschäfte: Krypto-Coins und Korruptionsvorwürfe",
-   "s": "In der Geopolitik und bei seinen privaten Finanzen beschäftigt sich Donald Trump gern mit „Deals“. Die offizielle Aufstellung der Einkünfte des US-Präsidenten war bei Joe Biden elf Seiten lang. Bei Trump sind es mehr als 920 Seiten.Wessel, Felix",
-   "u": "https://www.deutschlandfunk.de/donald-trumps-milliardengeschaefte-krypto-coins-und-korruptionsvorwuerfe-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-02T16:40:00+00:00"
-  },
-  {
-   "t": "Wahlen in Israel: Arabische Parteien zur Wahl zugelassen",
-   "s": "Der Oberste Gerichtshof in Israel hat den arabischen Parteien erlaubt, an der Parlamentswahl Ende Oktober teilzunehmen. Bis auf einen Kandidaten.",
-   "u": "https://taz.de/Wahlen-in-Israel/!6218499/",
-   "q": "taz",
-   "d": "2026-10-02T16:22:00+00:00"
   }
  ]
 }

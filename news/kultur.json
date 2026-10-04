@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-03T23:47:04+00:00",
+ "updated": "2026-10-04T09:49:40+00:00",
  "items": [
+  {
+   "t": "Vor den Wahlen in Brasilien: Gott, steh uns bei!",
+   "s": "Wer in Brasilien Präsident werden möchte, muss auch die evangelikalen Christen von sich überzeugen. Wie Amtsinhaber „Lula“ und Flávio Bolsonaro um sie buhlen.",
+   "u": "https://taz.de/Vor-den-Wahlen-in-Brasilien/!6214483/",
+   "q": "taz",
+   "d": "2026-10-04T07:27:00+00:00"
+  },
   {
    "t": "Abtreibung in Brasilien: „Mein Leben gehört wieder mir“",
    "s": "Abtreibung ist in Brasilien illegal, aber unter gewissen Umständen straffrei. Doch benachteiligte Schwangere sind über ihre Rechte oft nicht informiert.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Groenland-Abkommen-unterzeichnet/!6215540/",
    "q": "taz",
    "d": "2026-09-23T05:53:00+00:00"
-  },
-  {
-   "t": "Fox News gegen Trump: Keine Helden der Pressefreiheit",
-   "s": "Fox schließt sich dem Boykott von US-Medien gegen Trump an. Das zeigt: Der rechte Sender stellt sich quer, wenn er eigene Interessen gefährdet sieht.",
-   "u": "https://taz.de/Fox-News-schliesst-sich-Trump-Boykott-an-Es-geht-ihnen-nicht-um-die-Pressefreiheit/!6215298/",
-   "q": "taz",
-   "d": "2026-09-22T17:26:00+00:00"
   }
  ]
 }

@@ -1,13 +1,55 @@
 {
  "name": "Ausland",
- "updated": "2026-10-03T23:47:00+00:00",
+ "updated": "2026-10-04T09:49:36+00:00",
  "items": [
   {
-   "t": "Wahl in Lettland: Partei von Ministerpräsident laut Prognose in Führung",
-   "s": "Die Letten haben ein neues Parlament gewählt. Laut Nachwahlbefragung liegt das Bündnis von Ministerpräsident Kulbergs vorn. Zentrale Themen im Wahlkampf waren Sicherheit und Verteidigung, aber auch die hohen Lebenshaltungskosten.",
+   "t": "Krieg gegen die Ukraine: Merz besucht Kiew - Russland greift Brücke an",
+   "s": "Während Kanzler Merz Kiew besucht, hat ein russischer Angriff auf eine Brücke dort Alarm ausgelöst. Merz sagte dem Land Unterstützung zu und trifft sich mit Präsident Selenskyj. Russland begehe \"tägliche Kriegsverbrechen\".",
+   "u": "https://www.tagesschau.de/ausland/europa/merz-kiew-drohnen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T09:39:12+00:00"
+  },
+  {
+   "t": "Tory-Parteitag: Wie Kemi Badenoch die Tories retten will",
+   "s": "Die britischen Konservativen sind in den Umfragen seit Langem abgeschlagen. Bei dem Parteitag in Birmingham will Kemi Badenoch ihren Tories neuen Mut einflößen. Kann die Parteichefin das? Von Lisa-Marie Röhling.",
+   "u": "https://www.tagesschau.de/ausland/europa/tories-parteitag-badenoch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T09:12:59+00:00"
+  },
+  {
+   "t": "Wahl in Lettland: Partei von Ministerpräsident in Führung",
+   "s": "Die Letten haben ein neues Parlament gewählt - nachdem die meisten Stimmen ausgezählt sind, liegt die Vereinigte Liste von Ministerpräsident Kulbergs vorn. Doch auch prorussische Parteien haben zugelegt.",
    "u": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-03T18:28:32+00:00"
+   "d": "2026-10-04T07:58:11+00:00"
+  },
+  {
+   "t": "Lula gegen Bolsonaro: Ein Duell bekannter Namen in Brasilien",
+   "s": "Heute wählt Brasilien. Wie beim letzten Mal heißt es: Lula gegen einen Bolsonaro. Ein 80-Jähriger gegen den Sohn des Ex-Präsidenten. Auch für US-Präsident Trump ist der Ausgang von großer Bedeutung. Von Anne Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-lula-bolsonaro-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T06:09:05+00:00"
+  },
+  {
+   "t": "Krieg gegen die Ukraine: Kanzler Merz besucht Kiew",
+   "s": "Es soll auch um weitere militärische Unterstützung gehen: Bundeskanzler Merz ist zu einem Solidaritätsbesuch in Kiew eingetroffen. Zuvor hatte Russland vor Reisen in die Ukraine gewarnt.",
+   "u": "https://www.tagesschau.de/ausland/europa/eilmeldung-merz-kiew-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T04:44:05+00:00"
+  },
+  {
+   "t": "Bosnien und Herzegowina: Mit neuer Technik mehr Vertrauen in die Wahlen",
+   "s": "In Bosnien und Herzegowina werden das Parlament, das dreiköpfige Staatspräsidium und die Regionalregierungen gewählt. Neue Technik soll dabei helfen, Manipulationen zu erschweren. Von S. Hahne.",
+   "u": "https://www.tagesschau.de/ausland/europa/bosnien-und-herzegowina-wahl-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T03:04:08+00:00"
+  },
+  {
+   "t": "Luftangriff: Rettungskräfte melden Tote im Gazastreifen",
+   "s": "Bei einem Luftangriff im Gazastreifen sind nach Angaben von palästinensischen Rettungskräften mehrere Menschen getötet worden. Die israelische Armee gab an, ein hochrangiges Hamas-Mitglied angegriffen zu haben.",
+   "u": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html",
+   "q": "Tagesschau",
+   "d": "2026-10-03T23:54:49+00:00"
   },
   {
    "t": "Holocaust-Überlebende Irene Butter in den USA verstorben",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-100.html",
    "q": "Tagesschau",
    "d": "2026-10-02T19:00:30+00:00"
-  },
-  {
-   "t": "USA: Trumps Republikaner unter Druck vor den Midterms",
-   "s": "Den Republikanern drohen bei den US-Zwischenwahlen herbe Verluste. Das liegt auch an Präsident Trump. Erste republikanische Kandidaten beginnen, sich von ihm zu distanzieren. Wie ist die Lage einen Monat vor der Wahl? Von Ralf Borchard.",
-   "u": "https://www.tagesschau.de/ausland/midterms-republikaner-trump-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T15:54:40+00:00"
-  },
-  {
-   "t": "Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab",
-   "s": "Die Koalition von Spaniens Regierungschef Sánchez ist im Parlament mit ihren Dekreten für mehr Mieterschutz gescheitert. Nach landesweiten Protesten wollte die Regierung unter anderem Zwangsräumungen in sozialen Notlagen verbieten.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-wohungsgesetze-gescheitert-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T14:42:28+00:00"
-  },
-  {
-   "t": "Altkanzler Schröder wird Aufsichtsrat bei russischer Globus-Gruppe",
-   "s": "Altkanzler Schröder wird Aufsichtsrat beim russischen Ableger der Supermarktkette Globus. Erst vor wenigen Tagen hatte Kremlchef Putin ausländische Firmen, darunter auch Metro, in Russland unter Zwangsverwaltung gestellt.",
-   "u": "https://www.tagesschau.de/ausland/altkanzler-schroeder-aufsichtsrat-russischer-globus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T14:39:04+00:00"
-  },
-  {
-   "t": "Schwedens Wahlsiegerin Andersson unternimmt zweiten Anlauf zur Regierungsbildung",
-   "s": "Eigentlich hatte Schwedens Wahlsiegerin Andersson die Regierungsbildung für unmöglich erklärt. Nun soll sie es trotzdem noch mal versuchen. Denn auch der amtierende Ministerpräsident Kristersson dürfte keine Mehrheit finden.",
-   "u": "https://www.tagesschau.de/ausland/europa/schwedische-regierungsbildung-andersson-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T13:15:45+00:00"
-  },
-  {
-   "t": "Israels Oberstes Gericht lässt arabische Parteien bei Parlamentswahl zu",
-   "s": "Ende Oktober steht in Israel eine wegweisende Parlamentswahl an. Das Zentrale Wahlkomitee wollte arabische Parteien davon ausschließen - diesen Beschluss hat das Oberste Gericht nun gekippt.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahlen-gericht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T13:06:06+00:00"
-  },
-  {
-   "t": "Luftangriffe auf Kiew dauern an - Brücken gesperrt",
-   "s": "Russland greift weiter ukrainische Infrastruktur an. Am Morgen wurde die Südbrücke in Kiew von einer Drohne getroffen. Die wichtige Ost-West-Verbindung sowie weitere Brücken wurden gesperrt.",
-   "u": "https://www.tagesschau.de/ausland/europa/angriff-kiew-bruecke-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T12:26:52+00:00"
   }
  ]
 }

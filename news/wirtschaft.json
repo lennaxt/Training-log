@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-03T23:47:01+00:00",
+ "updated": "2026-10-04T09:49:37+00:00",
  "items": [
+  {
+   "t": "Job-Einstieg mit Problemen: Wie KI den Arbeitsmarkt verändert",
+   "s": "Junge Menschen haben zunehmend Probleme, Einstiegsjobs zu finden. Ein Grund: Künstliche Intelligenz übernimmt immer mehr Tätigkeiten für Unternehmen. Nur wie soll dann der Karrierestart gelingen? Von Joscha Bartlitz.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/kuenstliche-intelligenz-job-einstieg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T08:13:01+00:00"
+  },
+  {
+   "t": "Deutsche Bahn will Familienticket dauerhaft anbieten",
+   "s": "Das Angebot war zunächst nur auf den Sommer begrenzt - jetzt soll es dauerhaft eingeführt werden: das Familienticket der Deutschen Bahn. Denn laut Bahn-Chefin Palla war der Pauschalpreis ein Erfolg.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-familienticket-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T00:51:20+00:00"
+  },
   {
    "t": "Fachkräfte fehlen - doch es gibt auch Chancen in Ostdeutschland",
    "s": "Ostdeutschland bietet viel Platz für neue Fabriken. Doch ausgerechnet dort, wo neue Industriearbeitsplätze entstehen könnten, fehlen zunehmend Fachkräfte. Ökonomen sehen dennoch Chancen. Von Claudia Wehrle.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/energie/oekostrom-wind-sonne-wasserkraft-rekord-100.html",
    "q": "Tagesschau",
    "d": "2026-10-01T07:56:39+00:00"
-  },
-  {
-   "t": "Freiwilliger Spritpreisdeckel - auch in Deutschland denkbar?",
-   "s": "In Frankreich und Italien begrenzen große Mineralölkonzerne die Preise an ihren Tankstellen. Dafür verzichten sie auf einen Teil ihrer Gewinne. Könnten Konzerne in Deutschland das auch machen? Von Michelle Goddemeier.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-deckel-europa-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T04:51:25+00:00"
-  },
-  {
-   "t": "Verträge gekündigt: Volkswagen steht vor neuem Tarifkampf",
-   "s": "Die VW-Geschäftsführung hat eine Reihe von Tarifverträgen gekündigt. Nun drohen dem Konzern harte Wochen. Die Arbeitnehmerseite hat bereits massiven Widerstand angekündigt. Von Torben Hildebrandt.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-tarifvertraege-sparkurs-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-30T17:02:10+00:00"
   }
  ]
 }
