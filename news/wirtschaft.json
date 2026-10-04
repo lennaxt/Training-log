@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-04T09:49:37+00:00",
+ "updated": "2026-10-04T18:38:37+00:00",
  "items": [
+  {
+   "t": "Influencer werden für ethische Jagd zum Problem",
+   "s": "Für die Reichweite in sozialen Medien bringt Action oft mehr als Jagdethik. Einen verantwortungsvollen Umgang mit Waffen gibt es dabei bisweilen nicht. Jagdausstatter distanzieren sich deshalb von einigen Influencern. Von B. Augustin.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/jagd-hobby-lifestyle-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T10:16:11+00:00"
+  },
   {
    "t": "Job-Einstieg mit Problemen: Wie KI den Arbeitsmarkt verändert",
    "s": "Junge Menschen haben zunehmend Probleme, Einstiegsjobs zu finden. Ein Grund: Künstliche Intelligenz übernimmt immer mehr Tätigkeiten für Unternehmen. Nur wie soll dann der Karrierestart gelingen? Von Joscha Bartlitz.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-tankrabatt-100.html",
    "q": "Tagesschau",
    "d": "2026-10-01T08:34:33+00:00"
-  },
-  {
-   "t": "Energieverbrauch: Anteil von Ökostrom steigt auf Rekordwert",
-   "s": "In den ersten neun Monaten des Jahres betrug der Anteil von Ökostrom am gesamten Stromverbrauch fast 61 Prozent. Das ist so viel wie nie. Gleichzeitig stieg aber auch der Strombedarf.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/oekostrom-wind-sonne-wasserkraft-rekord-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T07:56:39+00:00"
   }
  ]
 }

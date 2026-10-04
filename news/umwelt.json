@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-04T09:49:38+00:00",
+ "updated": "2026-10-04T18:38:38+00:00",
  "items": [
+  {
+   "t": "Politisches Gender Gap: Packt sie beim Geld!",
+   "s": "In Sachsen-Anhalt liegt der Frauenanteil im Parlament nur bei 22 Prozent. Anderswo ist es ähnlich. Doch es gibt effektive Wege, für Parität zu sorgen.",
+   "u": "https://taz.de/Politisches-Gender-Gap/!6218598/",
+   "q": "taz",
+   "d": "2026-10-04T18:19:00+00:00"
+  },
+  {
+   "t": "Jubel, Trubel, Hassverbrechen: Weitgehend friedliche Einheitsfeier in Bremen",
+   "s": "Ein homophober Angriff überschattet die Einheitsfeier in Bremen. Die verläuft friedlich, obwohl Neo-Altlinke ein Feuer entfachen und die AfD hetzt.",
+   "u": "https://taz.de/Jubel-Trubel-Hassverbrechen/!6218611/",
+   "q": "taz",
+   "d": "2026-10-04T13:27:00+00:00"
+  },
+  {
+   "t": "Kritik an Pflegereform: Sozialbündnis fordert Stopp der Kürzungspläne",
+   "s": "Bei der Pflege und in anderen Bereichen setzt die Regierung auch auf Einsparungen. Gewerkschaften und Verbände warnen vor weitreichenden Folgen.",
+   "u": "https://taz.de/Kritik-an-Pflegereform/!6218640/",
+   "q": "taz",
+   "d": "2026-10-04T11:15:00+00:00"
+  },
   {
    "t": "Sachsen-Anhalts Landtagspräsident in spe: Der Rausch des Geldes",
    "s": "Es ist eine Zäsur, dass am 6. Oktober der erste AfD-Parlamentspräsident gewählt werden soll. Tobias Rausch trägt das Völkische mit und greift gern zu.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Krise-bei-Volkswagen/!6214489/",
    "q": "taz",
    "d": "2026-10-01T12:59:00+00:00"
-  },
-  {
-   "t": "Stolpersteinverbot in Heidenau: Sächsische Bürgermeisterin reagiert nicht auf Kritik",
-   "s": "International schockiert der Beschluss in Heidenau, keine neuen Stolpersteine zu verlegen. Für die Bürgermeisterin ändert das nichts.",
-   "u": "https://taz.de/Stolpersteinverbot-in-Heidenau/!6217596/",
-   "q": "taz",
-   "d": "2026-10-01T09:50:00+00:00"
-  },
-  {
-   "t": "Wegen drohender AfD-Blockade: Innenminister ändern Beschlussfähigkeit",
-   "s": "Die Innenministerkonferenz verabschiedet sich von der Einstimmigkeit. Der Grund: ein drohender rechtsextremer Innenminister in Sachsen-Anhalt.",
-   "u": "https://taz.de/Wegen-drohender-AfD-Blockade/!6217955/",
-   "q": "taz",
-   "d": "2026-10-01T09:20:00+00:00"
-  },
-  {
-   "t": "taz-Anwalt über die Rote Hilfe: Manche Kritik an der Roten Hilfe riecht nach Putins Russland",
-   "s": "Wer Betroffene von Strafverfolgung unterstützt, handelt nicht der Verfassung zuwider. Denn auch die Justiz handelt nicht immer rechtsstaatlich.",
-   "u": "https://taz.de/taz-Anwalt-Manche-Kritik-an-der-Roten-Hilfe-riecht-nach-Putins-Russland/!6217685/",
-   "q": "taz",
-   "d": "2026-10-01T08:03:00+00:00"
   }
  ]
 }

@@ -1,7 +1,77 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-04T09:49:39+00:00",
+ "updated": "2026-10-04T18:38:39+00:00",
  "items": [
+  {
+   "t": "Wahltag in Bosnien und Herzegowina: Kampf um Stimmen und Identitäten",
+   "s": "Mittelstürmer Edin Džeko lässt sich zum Abschied als multikulturelle Seele Bosniens feiern. Ob sich das auch bei den Wahlen widerspiegelt?",
+   "u": "https://taz.de/Wahltag-in-Bosnien-und-Herzegowina/!6218680/",
+   "q": "taz",
+   "d": "2026-10-04T18:19:00+00:00"
+  },
+  {
+   "t": "Ukrainische Rüstungsindustrie: Rückkehr zu den Wurzeln",
+   "s": "Ukrainische Drohnen gelten weltweit als erfolgreich und kampferprobt – aber ukrainische Firmen kämpfen um ihre Integration in den Weltmarkt.",
+   "u": "https://taz.de/Ukrainische-Ruestungsindustrie/!6218651/",
+   "q": "taz",
+   "d": "2026-10-04T16:35:00+00:00"
+  },
+  {
+   "t": "Russischer Angriff auf Brücke in Kyjiw: „Die Drohne flog direkt über mich hinweg“",
+   "s": "Schon wieder hat Russland in Kyjiw eine Brücke über den Dnipro beschossen. Zum Glück wurden die Stahlträger nicht getroffen, sagt eine Augenzeugin.",
+   "u": "https://taz.de/Russischer-Angriff-auf-Bruecke-in-Kyjiw/!6218650/",
+   "q": "taz",
+   "d": "2026-10-04T16:34:00+00:00"
+  },
+  {
+   "t": "Jugendrevolte in Frankreich: Die geopferte Generation",
+   "s": "Der Aufstand der Jugendlichen ist eine direkte Reaktion auf die geplanten Sparmaßnahmen. Die französische Regierung sollte nicht so überrascht tun.",
+   "u": "https://taz.de/Jugendrevolte-in-Frankreich/!6211869/",
+   "q": "taz",
+   "d": "2026-10-04T16:33:00+00:00"
+  },
+  {
+   "t": "Schulstreik in Frankreich: Klassenkampf in Frankreich",
+   "s": "Frankreichs Innenminister trifft Vertreter der protestierenden Schülerschaft. Aber eine Einigung ist nicht in Sicht.",
+   "u": "https://taz.de/Schulstreik-in-Frankreich/!6218601/",
+   "q": "taz",
+   "d": "2026-10-04T14:26:00+00:00"
+  },
+  {
+   "t": "Deutsche Kooperation mit der Ukraine: Mehrfacher Luftalarm bei Merz-Besuch in Kyjiw",
+   "s": "Merz verspricht, dass Deutschland bei Unterstützung der Ukraine nicht nachlassen werde. Milliarden für Rüstungshilfe und Reparatur von Kraftwerken.",
+   "u": "https://taz.de/Deutsche-Kooperation-mit-der-Ukraine/!6218648/",
+   "q": "taz",
+   "d": "2026-10-04T14:19:00+00:00"
+  },
+  {
+   "t": "Tausend Jahre nach seinem Tod: Zar Samuil bekommt neue Ruhestätte in Sofia",
+   "s": "Auch wenn nicht gänzlich sicher ist, dass er es wirklich ist: Die sterblichen Überreste des Zaren Samuil sind nach Bulgarien umgebettet worden.",
+   "u": "https://taz.de/Mutmassliche-Ueberreste-von-bulgarischem-Zar-kehren-tausend-Jahre-nach-seinem-Tod-zurueck/!6218697/",
+   "q": "taz",
+   "d": "2026-10-04T12:06:00+00:00"
+  },
+  {
+   "t": "Deutsche Stiftungen in Georgien: Moskau lässt grüßen",
+   "s": "Die Konrad-Adenauer-Stifung und die Konrad-Naumann-Stiftung ziehen sich aus Georgien zurück. Ein neuer Erfolg Putins gegen die Zivilgesellschaft.",
+   "u": "https://taz.de/Deutsche-Stiftungen-in-Georgien/!6218596/",
+   "q": "taz",
+   "d": "2026-10-04T11:26:00+00:00"
+  },
+  {
+   "t": "Mietenkampf in Spanien: Vom Frust zum Generalstreik",
+   "s": "Nach dem Scheitern des Mietreformpakets kommt es zum Massenprotest. Parallel dazu gibt es Streikpläne und Spekulationen über vorgezogene Neuwahlen.",
+   "u": "https://taz.de/Mietenkampf-in-Spanien/!6218657/",
+   "q": "taz",
+   "d": "2026-10-04T11:23:00+00:00"
+  },
+  {
+   "t": "Nach der Wahl in Lettland: Klarer Sieg bei leeren Kassen",
+   "s": "Die Partei des Ministerpräsidenten Andris Kulbergs gewinnt die Wahl mit großem Vorsprung. Die Wahlversprechen umzusetzen wird allerdings schwierig.",
+   "u": "https://taz.de/Nach-der-Wahl-in-Lettland/!6218577/",
+   "q": "taz",
+   "d": "2026-10-04T11:13:00+00:00"
+  },
   {
    "t": "Parlamentswahl in Lettland: Regierungspartei von Andris Kulbergs klar vorne",
    "s": "Eindeutige Bestätigung für den Pro-EU- und Ukraine-Kurs des Regierungschefs: In Lettland setzt sich die Partei des Ministerpräsidenten klar durch.",
@@ -99,76 +169,6 @@
    "u": "https://taz.de/Gefluechtete-an-der-Grenze-Lettlands/!6216311/",
    "q": "taz",
    "d": "2026-10-02T07:45:00+00:00"
-  },
-  {
-   "t": "Tagebuch aus Russland: Zur Wahl stand die Qual",
-   "s": "Anzukreuzbar ist nur, was das Leben verschlechtert und den Krieg verlängert. Die Duma-Wahlen beweisen: Demokratie ist für den Kreml bloße Attrappe.",
-   "u": "https://taz.de/Tagebuch-aus-Russland/!6217037/",
-   "q": "taz",
-   "d": "2026-10-02T06:03:00+00:00"
-  },
-  {
-   "t": "Bundeswehreinsatz im Irak: Klangloses Ende für den zweitgrößten Auslandseinsatz",
-   "s": "Die deutsche Armee hat ihren Einsatz in Irak nach eigenen Angaben „erfüllt“. Offen ist, wie es ohne sie in der kurdischen Autonomieregion weitergeht.",
-   "u": "https://taz.de/Bundeswehreinsatz-im-Irak/!6217820/",
-   "q": "taz",
-   "d": "2026-10-01T15:58:00+00:00"
-  },
-  {
-   "t": "Alternativer Nobelpreis: Unermüdlicher Einsatz für Menschenrechte",
-   "s": "Das georgische An­wäl­t*in­nen­kol­lek­tiv GYLA, die älteste NGO des Landes, trotzt dem sich verschärfenden Druck auf die Zivilgesellschaft.",
-   "u": "https://taz.de/Alternativer-Nobelpreis/!6217640/",
-   "q": "taz",
-   "d": "2026-09-30T15:22:00+00:00"
-  },
-  {
-   "t": "Rückkehrer nach Russland: 18 Jahre Haft wegen Überweisung von 30 Euro",
-   "s": "Russen, die in ihre Heimat zurückkehren, werden aus fadenscheinigen Gründen zu langen Haftstrafen verurteilt. Menschenrechtler dokumentieren ihre Fälle.",
-   "u": "https://taz.de/Rueckkehrer-nach-Russland/!6217598/",
-   "q": "taz",
-   "d": "2026-09-30T12:02:00+00:00"
-  },
-  {
-   "t": "Gewinner des Alternativen Nobelpreises: Menschen in der Krise eine Stimme geben",
-   "s": "Den Alternativen Nobelpreis erhalten Initiativen in Georgien, Pakistan, USA und dem Süden Afrikas. Eine Preisträgerin setzt sich gegen die Übermacht der KI-Konzerne ein.",
-   "u": "https://taz.de/Vergabe-der-Alternativen-Nobelpreise/!6217358/",
-   "q": "taz",
-   "d": "2026-09-30T05:15:00+00:00"
-  },
-  {
-   "t": "Mietenkampf in Spanien: Mieter machen Druck",
-   "s": "Nach massiven Protesten verschärft Spaniens Regierung den Mieterschutz. Zwangsräumungen werden erschwert, unbefristete Mietverträge sollen kommen.",
-   "u": "https://taz.de/Neuregulierung-des-Wohnungsmarktes-So-verschaerft-die-spanische-Regierung-den-Mieterschutz/!6217316/",
-   "q": "taz",
-   "d": "2026-09-29T18:14:00+00:00"
-  },
-  {
-   "t": "Britischer Premier Andy Burnham: Mit den Werten von 1945 Großbritannien reformieren",
-   "s": "Der britische Premierminister kündigt mehr „öffentliche Kontrolle“ der sozialen Infrastruktur an. Seine Parteitagsrede gerät stellenweise emotional.",
-   "u": "https://taz.de/Britischer-Premier-Andy-Burnham/!6217275/",
-   "q": "taz",
-   "d": "2026-09-29T15:48:00+00:00"
-  },
-  {
-   "t": "Andy Burnham auf dem Labour-Parteitag: Zurück in die gute alte Zeit",
-   "s": "Der britische Labour-Premierminister appelliert an die Werte von 1945. Damit will er der rechten Nostalgiewelle den Wind aus den Segeln nehmen.",
-   "u": "https://taz.de/Andy-Burnham-auf-dem-Labour-Parteitag/!6217263/",
-   "q": "taz",
-   "d": "2026-09-29T15:18:00+00:00"
-  },
-  {
-   "t": "Frankreich vor Präsidentschaftswahlen: RN-Chef Bardella soll „obsessiv“ antisemitisch gewesen sein",
-   "s": "Der Chef der französischen rechtsextremen Partei RN, Jordan Bardella, soll sich als junger Mann antisemitisch geäußert haben. Er spricht von „plumpen Fälschungen“.",
-   "u": "https://taz.de/Frankreich-vor-Praesidentschaftswahlen/!6217288/",
-   "q": "taz",
-   "d": "2026-09-29T12:04:00+00:00"
-  },
-  {
-   "t": "Labour-Parteitag in Großbritannien: Eine Prise Hoffnung",
-   "s": "Großbritanniens regierende Labour-Partei trifft sich zum ersten Parteitag unter Andy Burnham. Im Vergleich zur Ära Starmer ist die Stimmung besser.",
-   "u": "https://taz.de/Labour-Parteitag-in-Grossbritannien/!6217253/",
-   "q": "taz",
-   "d": "2026-09-29T11:57:00+00:00"
   }
  ]
 }

@@ -1,7 +1,154 @@
 {
  "name": "Inland",
- "updated": "2026-10-04T09:49:35+00:00",
+ "updated": "2026-10-04T18:38:35+00:00",
  "items": [
+  {
+   "t": "Wahltag in Bosnien und Herzegowina: Kampf um Stimmen und Identitäten",
+   "s": "Mittelstürmer Edin Džeko lässt sich zum Abschied als multikulturelle Seele Bosniens feiern. Ob sich das auch bei den Wahlen widerspiegelt?",
+   "u": "https://taz.de/Wahltag-in-Bosnien-und-Herzegowina/!6218680/",
+   "q": "taz",
+   "d": "2026-10-04T18:19:00+00:00"
+  },
+  {
+   "t": "Politisches Gender Gap: Packt sie beim Geld!",
+   "s": "In Sachsen-Anhalt liegt der Frauenanteil im Parlament nur bei 22 Prozent. Anderswo ist es ähnlich. Doch es gibt effektive Wege, für Parität zu sorgen.",
+   "u": "https://taz.de/Politisches-Gender-Gap/!6218598/",
+   "q": "taz",
+   "d": "2026-10-04T18:19:00+00:00"
+  },
+  {
+   "t": "Raus aus dem Sanierungsstau - Schneller Brücken bauen",
+   "s": "Tausende marode Brücken lähmen den Verkehr in Deutschland. Jahrelange Sperrungen kosten die Wirtschaft Millionen. Dabei könnte es schon längst schneller gehen mit Verfahren, die den Bau beschleunigen. (Erstsendung: 07.09.2026)Leue, Vivien",
+   "u": "https://www.deutschlandfunk.de/schneller-bruecken-bauen-wie-deutschland-aus-dem-sanierungsstau-kommt-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-04T16:40:00+00:00"
+  },
+  {
+   "t": "Konflikt am Horn von Afrika: Äthiopien und Eritrea am Rande des Krieges",
+   "s": "Während Äthiopiens Armee in der Region Tigray vorrückt, sammeln sich Äthiopiens Gegner in Ägypten. Eritrea bricht die diplomatischen Beziehungen ab.",
+   "u": "https://taz.de/Konflikt-am-Horn-von-Afrika/!6218653/",
+   "q": "taz",
+   "d": "2026-10-04T16:36:00+00:00"
+  },
+  {
+   "t": "Ukrainische Rüstungsindustrie: Rückkehr zu den Wurzeln",
+   "s": "Ukrainische Drohnen gelten weltweit als erfolgreich und kampferprobt – aber ukrainische Firmen kämpfen um ihre Integration in den Weltmarkt.",
+   "u": "https://taz.de/Ukrainische-Ruestungsindustrie/!6218651/",
+   "q": "taz",
+   "d": "2026-10-04T16:35:00+00:00"
+  },
+  {
+   "t": "Russischer Angriff auf Brücke in Kyjiw: „Die Drohne flog direkt über mich hinweg“",
+   "s": "Schon wieder hat Russland in Kyjiw eine Brücke über den Dnipro beschossen. Zum Glück wurden die Stahlträger nicht getroffen, sagt eine Augenzeugin.",
+   "u": "https://taz.de/Russischer-Angriff-auf-Bruecke-in-Kyjiw/!6218650/",
+   "q": "taz",
+   "d": "2026-10-04T16:34:00+00:00"
+  },
+  {
+   "t": "Frankreichs Schulproteste: Vorgeschmack auf die Präsidentenwahl 2027?",
+   "s": "In Frankreich demonstrieren massenhaft Schülerinnen und Schüler für mehr Geld im Bildungssystem. Doch Gewalt überschattet die Proteste, und auch der Präsidentschaftswahlkampf 2027 spielt bereits hinein.",
+   "u": "https://www.deutschlandfunk.de/frankreich-proteste-schueler-bildung-gerechtigkeit-praesidentschaftswahl-2027-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-04T15:23:00+00:00"
+  },
+  {
+   "t": "Hamburg behält Vorsitz der Justizministerkonferenz",
+   "s": "Die Regierungsbildung in Sachsen-Anhalt wirbelt auch auf Länderebene einiges durcheinander. Hamburg hätte den Vorsitz der Justizministerkonferenz eigentlich abgeben müssen - macht nun aber weiter.",
+   "u": "https://www.tagesschau.de/inland/justizministerkonferenz-vorsitz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T14:51:32+00:00"
+  },
+  {
+   "t": "Schulstreik in Frankreich: Klassenkampf in Frankreich",
+   "s": "Frankreichs Innenminister trifft Vertreter der protestierenden Schülerschaft. Aber eine Einigung ist nicht in Sicht.",
+   "u": "https://taz.de/Schulstreik-in-Frankreich/!6218601/",
+   "q": "taz",
+   "d": "2026-10-04T14:26:00+00:00"
+  },
+  {
+   "t": "Deutsche Kooperation mit der Ukraine: Mehrfacher Luftalarm bei Merz-Besuch in Kyjiw",
+   "s": "Merz verspricht, dass Deutschland bei Unterstützung der Ukraine nicht nachlassen werde. Milliarden für Rüstungshilfe und Reparatur von Kraftwerken.",
+   "u": "https://taz.de/Deutsche-Kooperation-mit-der-Ukraine/!6218648/",
+   "q": "taz",
+   "d": "2026-10-04T14:19:00+00:00"
+  },
+  {
+   "t": "Neuer Krieg in Äthiopien: Flächenbrand in Afrika",
+   "s": "Der Krieg in Äthiopien droht sich zum Regionalkrieg im gesamten Nordosten Afrikas auszuweiten. Es gäbe Möglichkeiten, dagegen etwas zu tun.",
+   "u": "https://taz.de/Neuer-Krieg-in-Aethiopien/!6218594/",
+   "q": "taz",
+   "d": "2026-10-04T13:52:00+00:00"
+  },
+  {
+   "t": "Nachruf auf Dafroza Gauthier: Ein ruandische Kämpferin für Gerechtigkeit",
+   "s": "Dafroza Mukarumongi-Gauthier brachte Verantwortliche für Ruandas Völkermord an den Tutsi vor Gericht. Sie starb mit 72 Jahren.",
+   "u": "https://taz.de/Nachruf-auf-Dafroza-Gauthier/!6218604/",
+   "q": "taz",
+   "d": "2026-10-04T13:51:00+00:00"
+  },
+  {
+   "t": "Gescheiterte Hinrichtung in den USA: Chef von Strafvollzugsbehörde von Tennessee tritt zurück",
+   "s": "Im US-Bundesstaat Tennessee muss Behördenchef Frank Strada seinen Posten räumen. Grund sind die Fehler bei der Hinrichtung der Mörderin Christa Pike.",
+   "u": "https://taz.de/Gescheiterte-Hinrichtung-in-den-USA-Chef-von-Strafvollzugsbehoerde-tritt-zurueck/!6218726/",
+   "q": "taz",
+   "d": "2026-10-04T12:56:00+00:00"
+  },
+  {
+   "t": "Rekord-Wiesn: 7,4 Millionen Besucher auf dem Oktoberfest",
+   "s": "Das Oktoberfest hat in diesem Jahr einen neuen Besucherrekord verzeichnet. Insgesamt zählten die Veranstalter in den vergangenen zwei Wochen 7,4 Millionen Menschen auf der Wiesn. Überschattet wurde das Fest von zwei Unfällen.",
+   "u": "https://www.tagesschau.de/inland/oktoberfest-bilanz-110.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T12:32:14+00:00"
+  },
+  {
+   "t": "Rhein will AfD Ausschussvorsitze ermöglichen",
+   "s": "Hessens Ministerpräsident Rhein plädiert dafür, dass die AfD im Bundestag Ausschussvorsitze übernehmen könne. Aus dem Parlament gibt es für den CDU-Politiker klaren Widerspruch, die AfD begrüßt den Vorstoß.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T12:21:51+00:00"
+  },
+  {
+   "t": "Tausend Jahre nach seinem Tod: Zar Samuil bekommt neue Ruhestätte in Sofia",
+   "s": "Auch wenn nicht gänzlich sicher ist, dass er es wirklich ist: Die sterblichen Überreste des Zaren Samuil sind nach Bulgarien umgebettet worden.",
+   "u": "https://taz.de/Mutmassliche-Ueberreste-von-bulgarischem-Zar-kehren-tausend-Jahre-nach-seinem-Tod-zurueck/!6218697/",
+   "q": "taz",
+   "d": "2026-10-04T12:06:00+00:00"
+  },
+  {
+   "t": "Schneider fordert anderen Umgang mit Wasser",
+   "s": "Wegen der niedrigen Pegelstände hat Bundesumweltminister Schneider ein Umdenken im Umgang mit Wasser angemahnt. Er rief die Bundesländer zu massiven Investitionen in die Wasserinfrastruktur auf.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/schneider-niedrigwasser-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T11:49:51+00:00"
+  },
+  {
+   "t": "Deutsche Stiftungen in Georgien: Moskau lässt grüßen",
+   "s": "Die Konrad-Adenauer-Stifung und die Konrad-Naumann-Stiftung ziehen sich aus Georgien zurück. Ein neuer Erfolg Putins gegen die Zivilgesellschaft.",
+   "u": "https://taz.de/Deutsche-Stiftungen-in-Georgien/!6218596/",
+   "q": "taz",
+   "d": "2026-10-04T11:26:00+00:00"
+  },
+  {
+   "t": "Mietenkampf in Spanien: Vom Frust zum Generalstreik",
+   "s": "Nach dem Scheitern des Mietreformpakets kommt es zum Massenprotest. Parallel dazu gibt es Streikpläne und Spekulationen über vorgezogene Neuwahlen.",
+   "u": "https://taz.de/Mietenkampf-in-Spanien/!6218657/",
+   "q": "taz",
+   "d": "2026-10-04T11:23:00+00:00"
+  },
+  {
+   "t": "Kritik an Pflegereform: Sozialbündnis fordert Stopp der Kürzungspläne",
+   "s": "Bei der Pflege und in anderen Bereichen setzt die Regierung auch auf Einsparungen. Gewerkschaften und Verbände warnen vor weitreichenden Folgen.",
+   "u": "https://taz.de/Kritik-an-Pflegereform/!6218640/",
+   "q": "taz",
+   "d": "2026-10-04T11:15:00+00:00"
+  },
+  {
+   "t": "Nach der Wahl in Lettland: Klarer Sieg bei leeren Kassen",
+   "s": "Die Partei des Ministerpräsidenten Andris Kulbergs gewinnt die Wahl mit großem Vorsprung. Die Wahlversprechen umzusetzen wird allerdings schwierig.",
+   "u": "https://taz.de/Nach-der-Wahl-in-Lettland/!6218577/",
+   "q": "taz",
+   "d": "2026-10-04T11:13:00+00:00"
+  },
   {
    "t": "Landwirtschaft im Kriegsgebiet: Zarte Pflanzen",
    "s": "Nach drei Jahren Krieg liegt Gaza in Trümmern, von der Landwirtschaft ist kaum etwas übrig. Einige Bauern arbeiten trotzdem an einer besseren Zukunft.",
@@ -22,153 +169,6 @@
    "u": "https://taz.de/Regierungspartei-siegt-klar-bei-Parlamentswahl-in-Lettland/!6218574/",
    "q": "taz",
    "d": "2026-10-04T07:15:00+00:00"
-  },
-  {
-   "t": "Wahlen in Bosnien und Herzegowina: Was geopolitisch in Bosnien auf dem Spiel steht",
-   "s": "Unter Trump wenden sich die USA der Republika Srpska zu. Den multiethnischen Gesamtstaat müsste jetzt Europa alleine vor der Zerstörung schützen.",
-   "u": "https://taz.de/Wahlen-in-Bosnien-und-Herzegowina/!6217645/",
-   "q": "taz",
-   "d": "2026-10-04T07:09:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Drohnen-Angriff auf Brücke während Merz-Besuchs",
-   "s": "Trotz russischer Reisewarnung stattet Kanzler Merz der Ukraine einen Solidaritätsbesuch ab. Während seines Aufenthalts gibt es mehrfachen Drohnenalarm.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6218573/",
-   "q": "taz",
-   "d": "2026-10-04T06:39:00+00:00"
-  },
-  {
-   "t": "Schneider fordert anderen Umgang mit Wasser",
-   "s": "Wegen der niedrigen Pegelstände hat Bundesumweltminister Schneider ein Umdenken im Umgang mit Wasser angemahnt. Er rief die Bundesländer zu massiven Investitionen in die Wasserinfrastruktur auf.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/schneider-niedrigwasser-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T06:34:46+00:00"
-  },
-  {
-   "t": "140 Jahre Seemannsmission: Eine Pause von den Weltmeeren",
-   "s": "Zeitdruck, Kriege und Krisen machen die Arbeit für Seefahrer immer härter. Seit 140 Jahren hilft die Deutsche Seemannsmission, den Bordalltag kurz zu vergessen - so wie im Hamburger Seemannsclub Duckdalben. Von Sophia Stritzel.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/seemannsmission-hamburg-seefahrer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T06:00:33+00:00"
-  },
-  {
-   "t": "Hessischer Ministerpräsident Rhein will AfD Ausschussvorsitze ermöglichen",
-   "s": "Hessens Ministerpräsident Rhein schließt eine inhaltliche Zusammenarbeit mit der AfD aus. In den Augen des CDU-Landeschefs sollte die Partei aber auch im Bundestag Ausschussvorsitze übernehmen können.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T02:05:39+00:00"
-  },
-  {
-   "t": "Wahlen in Bosnien und Herzegowina: Zwischen Erschöpfung und dem Kampf gegen Wahlbetrug",
-   "s": "In Bosnien und Herzegowina wird am Sonntag gewählt. Die Stimmung in der Bevölkerung ist getrübt. Nur wenige glauben an einen politischen Wechsel.",
-   "u": "https://taz.de/Wahlen-in-Bosnien-und-Herzegowina/!6217644/",
-   "q": "taz",
-   "d": "2026-10-03T18:23:00+00:00"
-  },
-  {
-   "t": "Sachsen-Anhalts Landtagspräsident in spe: Der Rausch des Geldes",
-   "s": "Es ist eine Zäsur, dass am 6. Oktober der erste AfD-Parlamentspräsident gewählt werden soll. Tobias Rausch trägt das Völkische mit und greift gern zu.",
-   "u": "https://taz.de/Sachsen-Anhalts-Landtagspraesident-in-spe/!6214485/",
-   "q": "taz",
-   "d": "2026-10-03T18:17:00+00:00"
-  },
-  {
-   "t": "AfDlerin klagt gegen Kündigung: Gottes Brandmauer",
-   "s": "Die Caritas Salzgitter hat einer Erzieherin gekündigt, weil sie für die AfD kandidiert hat. Die Geschasste wehrt sich mithilfe eines rechten Anwalts.",
-   "u": "https://taz.de/AfDlerin-klagt-gegen-Kuendigung/!6210196/",
-   "q": "taz",
-   "d": "2026-10-03T16:05:00+00:00"
-  },
-  {
-   "t": "Abtreibung in Brasilien: „Mein Leben gehört wieder mir“",
-   "s": "Abtreibung ist in Brasilien illegal, aber unter gewissen Umständen straffrei. Doch benachteiligte Schwangere sind über ihre Rechte oft nicht informiert.",
-   "u": "https://taz.de/Abtreibung-in-Brasilien/!6216959/",
-   "q": "taz",
-   "d": "2026-10-03T16:01:00+00:00"
-  },
-  {
-   "t": "Wahl in Brasilien: Lula gegen Bolsonaro Junior",
-   "s": "Bei der Präsidentschaftswahl in Brasilien stehen sich Amtsinhaber Luiz Inácio Lula da Silva und Flávio Bolsonaro, Sohn von Ex-Präsident Jair Bolsonaro, gegenüber. Der Ausgang der Wahl dürfte Auswirkungen auf die gesamte Region haben.",
-   "u": "https://www.deutschlandfunk.de/brasilien-praesidentschaftswahl-lula-da-silva-bolsonaro-usa-trump-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-03T15:34:00+00:00"
-  },
-  {
-   "t": "Bundesweite Aktion: Menschenketten für Gerechtigkeit und Klima",
-   "s": "In mehr als 100 Städten haben Tausende in Menschenketten für mehr Klimaschutz und Gerechtigkeit demonstriert. Die Aktion soll auf die Ursachen von Hitzetoten, Fluten und Waldbrände aufmerksam machen.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/menschenkette-klima-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T14:03:39+00:00"
-  },
-  {
-   "t": "Tag der Deutschen Einheit: Kirchen fordern Zusammenhalt - Warnung vor Polarisierung",
-   "s": "In Bremen wird der Tag der Deutschen Einheit gefeiert. Kirchenvertreter warnten dabei vor einer Polarisierung der Gesellschaft, Bundespräsident Steinmeier vor Extremismus. Die Ostbeauftragte Kaiser plädierte unterdessen für eine ostdeutsche Bundespräsidentin.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-bremen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T13:03:27+00:00"
-  },
-  {
-   "t": "Steinmeier: \"Es geht um die Selbstbehauptung der Demokratie\"",
-   "s": "Bundespräsident Steinmeier hat den Tag der Deutschen Einheit für eine Warnung vor Extremismus genutzt. Beim Festakt forderte er dazu auf, die demokratischen Grundrechte zu verteidigen. Steinmeier scheidet im März aus dem Amt.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-steinmeier-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T12:29:08+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Russland schießt erneut auf Brücke in Kyjiw",
-   "s": "Russland setzt seine Angriffe auf Straßenbrücken in der ukrainischen Hauptstadt Kyjiw fort. Moldau meldet Einschläge.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6218568/",
-   "q": "taz",
-   "d": "2026-10-03T11:26:00+00:00"
-  },
-  {
-   "t": "Wohnungsnot: Kommunen fordern Konzept für ländlichen Raum",
-   "s": "Bezahlbarer Wohnraum ist vor allem in Ballungsgebieten rar. Als eine Lösung schlagen Städte und Gemeinden vor, ländliche Regionen attraktiver zu machen. Bisher mangele es aber vor allem an Versorgungs- und Nahverkehrsangeboten.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/wohnungsnot-168.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T10:42:24+00:00"
-  },
-  {
-   "t": "Konzertkundgebung gegen die Wehrpflicht: „Für dieses Deutschland kämpfen? Nein, danke!“",
-   "s": "Vor dem Brandenburger Tor protestieren Tausende Jugendliche gegen die Militarisierung. Mit Pogo und Sprechchören richteten sie sich an die Regierung.",
-   "u": "https://taz.de/Konzertkundgebung-gegen-die-Wehrpflicht/!6218555/",
-   "q": "taz",
-   "d": "2026-10-03T09:34:00+00:00"
-  },
-  {
-   "t": "CJP-Proteste in Indien: Die Kakerlaken demonstrieren wieder",
-   "s": "In den indischen Großstädten Mumbai und Delhi fordern Tausende Protestierende den Rücktritt von Wahlkommissionschef Gyanesh Kumar.",
-   "u": "https://taz.de/CJP-Proteste-in-Indien/!6218558/",
-   "q": "taz",
-   "d": "2026-10-03T09:08:00+00:00"
-  },
-  {
-   "t": "Parlamentswahl in Lettland: Kampfflugzeuge schützten Wahlkampf",
-   "s": "Das EU- und Natomitglied Lettland wählt ein neues Parlament. Überschattet wird die Wahl von der Sorge vor Drohnenangriffen.",
-   "u": "https://taz.de/Parlamentswahl-in-Lettland/!6218560/",
-   "q": "taz",
-   "d": "2026-10-03T08:10:00+00:00"
-  },
-  {
-   "t": "Flug von Flydubai: Co-Pilot plante wohl Terroranschlag",
-   "s": "Am Mittwoch versuchte ein Copilot, ein Flugzeug zum Absturz zu bringen. Er hat nach Angaben der emiratischen Behörden einen „Terrorakt“ geplant.",
-   "u": "https://taz.de/Flug-von-Flydubai/!6218556/",
-   "q": "taz",
-   "d": "2026-10-03T07:37:00+00:00"
-  },
-  {
-   "t": "Kommunikationsfreiheit - Das Recht, die Macht und die Bedingungen offener Diskurse",
-   "s": "Offene Diskurse sind die Bedingung gelingender Demokratie. Und das Recht hat die Aufgabe, Bedingungen herzustellen, die eine freie individuelle und öffentliche Meinungsbildung weitestgehend ermöglichen.Von Valerie Rhein",
-   "u": "https://www.deutschlandfunk.de/das-recht-die-macht-und-die-bedingungen-offener-diskurse-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-03T07:30:00+00:00"
-  },
-  {
-   "t": "Ostdeutsche in Führungspositionen: \"Es gibt kaum positive Entwicklungen\"",
-   "s": "Auch 36 Jahre nach der Wiedervereinigung sind Ostdeutsche selten in Führungspositionen vertreten. Der Soziologe Hartmann sieht nur wenige Fortschritte - und spricht sich für Quoten bei der Besetzung von Posten aus.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/hartmann-ostdeutsche-westdeutsche-fuehrungspositionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T03:32:08+00:00"
   }
  ]
 }

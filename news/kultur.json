@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-04T09:49:40+00:00",
+ "updated": "2026-10-04T18:38:41+00:00",
  "items": [
+  {
+   "t": "Gescheiterte Hinrichtung in den USA: Chef von Strafvollzugsbehörde von Tennessee tritt zurück",
+   "s": "Im US-Bundesstaat Tennessee muss Behördenchef Frank Strada seinen Posten räumen. Grund sind die Fehler bei der Hinrichtung der Mörderin Christa Pike.",
+   "u": "https://taz.de/Gescheiterte-Hinrichtung-in-den-USA-Chef-von-Strafvollzugsbehoerde-tritt-zurueck/!6218726/",
+   "q": "taz",
+   "d": "2026-10-04T12:56:00+00:00"
+  },
   {
    "t": "Vor den Wahlen in Brasilien: Gott, steh uns bei!",
    "s": "Wer in Brasilien Präsident werden möchte, muss auch die evangelikalen Christen von sich überzeugen. Wie Amtsinhaber „Lula“ und Flávio Bolsonaro um sie buhlen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/UN-Vollversammlung-in-New-York/!6215544/",
    "q": "taz",
    "d": "2026-09-23T07:57:00+00:00"
-  },
-  {
-   "t": "Grönland-Abkommen unterzeichnet: Happy End in New York",
-   "s": "Trump, Frederiksen und Nielsen besiegeln den Grönland-Deal. Geplant sind zwei neue US-Basen und eine engere sicherheitspolitische Zusammenarbeit.",
-   "u": "https://taz.de/Groenland-Abkommen-unterzeichnet/!6215540/",
-   "q": "taz",
-   "d": "2026-09-23T05:53:00+00:00"
   }
  ]
 }

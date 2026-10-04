@@ -1,7 +1,70 @@
 {
  "name": "Ausland",
- "updated": "2026-10-04T09:49:36+00:00",
+ "updated": "2026-10-04T18:38:35+00:00",
  "items": [
+  {
+   "t": "Regierung im Jemen verkündet Großoffensive gegen Huthi-Miliz",
+   "s": "Nach militärischen Erfolgen der Huthi will Jemens international anerkannte Regierung nun in die Offensive gehen. Ziel sei es, das Land aus dem Griff der Miliz zu befreien. Doch das dürfte nicht so einfach sein. Von Anna Osius.",
+   "u": "https://www.tagesschau.de/ausland/asien/jemen-huthi-kaempfe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T17:43:26+00:00"
+  },
+  {
+   "t": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
+   "s": "Kanzler Merz hat bei seinem Besuch in Kiew erneut Russland zu einem Ende des Krieges aufgefordert. Im Bericht aus Berlin sagte er, für die Stabilität Europas seien weitere Hilfen für die Ukraine wichtig - genau wie eine zuverlässige Bundesregierung.",
+   "u": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T16:43:05+00:00"
+  },
+  {
+   "t": "Wahl in Brasilien: Kommen die Bolsonaros zurück?",
+   "s": "Bei der Wahl in Brasilien geht es heute darum, ob die Bolsonaros zurück an die Macht kommen. Flávio Bolsonaro tritt an - er wurde von seinem verurteilten Vater als Erbe auserkoren. Von Xenia Böttcher.",
+   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-160.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T14:06:39+00:00"
+  },
+  {
+   "t": "Zahl der Asylanträge in der EU offenbar deutlich gesunken",
+   "s": "Die Zahl der Asylanträge in Europa ist gesunken - in den ersten neun Monaten dieses Jahres wurden laut einem Zeitungsbericht im Vergleich zum Vorjahr fast ein Viertel weniger Anträge gestellt. Deutschland liegt auf Platz drei.",
+   "u": "https://www.tagesschau.de/ausland/europa/asylantraege-europa-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T14:03:55+00:00"
+  },
+  {
+   "t": "Merz-Besuch in Kiew: Eine Milliarde Militärhilfe für die Ukraine",
+   "s": "Bundeskanzler Merz hat der Ukraine eine Milliarde Euro an Militärhilfen und weitere 350 Millionen für den Energiesektor zugesagt. Das soll sich auch für Deutschland lohnen: Neue Rüstungsprojekte und ein Wissenstransfer stehen im Fokus.",
+   "u": "https://www.tagesschau.de/ausland/europa/merz-kiew-106.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T13:33:30+00:00"
+  },
+  {
+   "t": "Mehrere Verletzte bei Campingplatz-Brand am Gardasee",
+   "s": "Bei einem Brand auf einem großen Campingplatz am Gardasee in Italien sind mehrere Menschen verletzt worden. Inzwischen sind die Flammen unter Kontrolle - auch dank vier Feuerwehrleuten aus Hessen. Von Ivo Marusczyk.",
+   "u": "https://www.tagesschau.de/ausland/europa/gardasee-brand-campingplatz-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T13:32:18+00:00"
+  },
+  {
+   "t": "Baskenland und Katalonien: Tote bei schweren Unwettern in Spanien",
+   "s": "Bei heftigen Regenfällen in Spanien sind drei Menschen ums Leben gekommen. In Katalonien und im Baskenland wurden Straßen und Keller überflutet - die Feuerwehr war im Dauereinsatz.",
+   "u": "https://www.tagesschau.de/ausland/europa/unwetter-spanien-124.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T11:43:22+00:00"
+  },
+  {
+   "t": "Holocaust-Überlebende Irene Butter in den USA verstorben",
+   "s": "Die Holocaust-Überlebende und Friedensaktivistin Irene Butter ist in den USA verstorben. Die gebürtige Berlinerin wurde 95 Jahre alt. Vor zwei Jahren hatte sie das Bundesverdienstkreuz für ihre Aufklärungsarbeit als Zeitzeugin erhalten.",
+   "u": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T10:54:10+00:00"
+  },
+  {
+   "t": "Jemens Militär greift Huthi-Hochburgen an",
+   "s": "Im Jemen flammen die Kämpfe zwischen Regierungstruppen und der Huthi-Miliz erneut auf. Das Militär griff unter anderem Ziele in der Hauptstadt Sanaa an, die von der pro-iranischen Gruppe kontrolliert wird.",
+   "u": "https://www.tagesschau.de/ausland/asien/angriffe-jemen-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T10:05:29+00:00"
+  },
   {
    "t": "Krieg gegen die Ukraine: Merz besucht Kiew - Russland greift Brücke an",
    "s": "Während Kanzler Merz Kiew besucht, hat ein russischer Angriff auf eine Brücke dort Alarm ausgelöst. Merz sagte dem Land Unterstützung zu und trifft sich mit Präsident Selenskyj. Russland begehe \"tägliche Kriegsverbrechen\".",
@@ -11,7 +74,7 @@
   },
   {
    "t": "Tory-Parteitag: Wie Kemi Badenoch die Tories retten will",
-   "s": "Die britischen Konservativen sind in den Umfragen seit Langem abgeschlagen. Bei dem Parteitag in Birmingham will Kemi Badenoch ihren Tories neuen Mut einflößen. Kann die Parteichefin das? Von Lisa-Marie Röhling.",
+   "s": "Die britischen Konservativen sind in den Umfragen seit Langem abgeschlagen. Bei dem Parteitag in Birmingham will Kemi Badenoch ihren Tories neuen Mut einflößen. Kann die Parteichefin das? Von Lisa-Maria Röhling.",
    "u": "https://www.tagesschau.de/ausland/europa/tories-parteitag-badenoch-100.html",
    "q": "Tagesschau",
    "d": "2026-10-04T09:12:59+00:00"
@@ -50,13 +113,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html",
    "q": "Tagesschau",
    "d": "2026-10-03T23:54:49+00:00"
-  },
-  {
-   "t": "Holocaust-Überlebende Irene Butter in den USA verstorben",
-   "s": "Die Holocaust-Überlebende und Friedensaktivistin Irene Butter ist in den USA verstorben. Die gebürtige Berlinerin wurde 95 Jahre alt. Vor zwei Jahren hatte sie das Bundesverdienstkreuz für ihre Aufklärungsarbeit als Zeitzeugin erhalten.",
-   "u": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T17:41:01+00:00"
   },
   {
    "t": "Todesstrafe in Tennessee: Neue Details zu gescheiterter Hinrichtung",
@@ -113,62 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/brasilien-lula-praesidentenwahl-100.html",
    "q": "Tagesschau",
    "d": "2026-10-03T08:56:27+00:00"
-  },
-  {
-   "t": "US-Medienberichte: Flydubai-Co-Pilot galt zuvor als Sicherheitsrisiko",
-   "s": "Nach dem Angriff auf einem Flydubai-Flug veröffentlichen Medien neue Details: Demnach durfte der Co-Pilot bei seinem vorherigen Arbeitgeber wegen Extremismusverdacht nicht mehr fliegen. Behörden in den Emiraten gehen nun von einem Terrorakt aus.",
-   "u": "https://www.tagesschau.de/ausland/flydubai-co-pilot-sicherheitsrisiko-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T08:09:34+00:00"
-  },
-  {
-   "t": "Mysteriöse Einbruchserie bei Abgeordneten in Finnland",
-   "s": "Eine mysteriöse Einbruchserie bei Abgeordneten beschäftigt Finnland. Die Hausbesuche, bei denen nie etwas entwendet wird, erinnern an Spitzelmethoden aus Sowjetzeiten. Die Polizei ermittelt, die Politik ist alarmiert. Von C. Stichler.",
-   "u": "https://www.tagesschau.de/ausland/europa/finnland-einbrueche-abgeordnete-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T06:39:28+00:00"
-  },
-  {
-   "t": "Gefahren nach der Flutkatastrophe für Überlebende in Nepal",
-   "s": "Mehr als einen Monat nach der Flutkatastrophe im Himalaya ist die Lage für viele Überlebende immer noch prekär. Gerade für Kinder und junge Frauen birgt das Leben in Notunterkünften viele Gefahren. Von Franziska Amler.",
-   "u": "https://www.tagesschau.de/ausland/asien/nepal-nach-katastrophe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T04:48:24+00:00"
-  },
-  {
-   "t": "Lettland: Zwischen Russland-Sorge und hohen Lebenshaltungskosten",
-   "s": "Lettland wählt ein neues Parlament. Die hohen Lebenshaltungskosten und das Gesundheitssystem bestimmten den Wahlkampf. Aber auch die Sorge vor Russland. Ministerpräsident Kulbergs will seinen klaren Westkurs fortsetzen. Von Arne Bartram.",
-   "u": "https://www.tagesschau.de/ausland/europa/lettland-parlamentswahlen-104.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T04:32:49+00:00"
-  },
-  {
-   "t": "New Yorks Gouverneurin kündigt nach Gruppenvergewaltigung an Uni Aufklärung an",
-   "s": "Nach der mutmaßlichen Gruppenvergewaltigung an einer US-Elite-Universität verspricht New Yorks Gouverneurin Hochul jetzt Aufklärung. Staatsanwaltschaft und die Uni selbst waren zuvor in die Kritik geraten. Von Martin Ganslmeier.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-gruppenvergewaltigung-elite-uni-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T01:55:59+00:00"
-  },
-  {
-   "t": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
-   "s": "Zwei Tage ist es her, dass ein Pilot auf einem Flug von Dubai nach Tel Aviv von seinem Co-Piloten angegriffen wurde - jetzt hat er sich erstmals selber zu dem Vorfall geäußert. Die Ermittlungen über die Hintergründe laufen.",
-   "u": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T00:18:32+00:00"
-  },
-  {
-   "t": "G7-Staaten geben Diesel- und Rohöl-Reserven frei",
-   "s": "Die G7-Staaten wollen angesichts der hohen Kraftstoffpreise Öl-Reserven freigeben. Die USA hatten zuvor Druck vor allem auf die europäischen G7-Mitglieder gemacht. Für US-Präsident Trump sind die hohen Preise innenpolitisch ein großes Problem.",
-   "u": "https://www.tagesschau.de/ausland/g7-dieselreserven-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T19:17:42+00:00"
-  },
-  {
-   "t": "Frankreichs Schulprotest hält an - Regierung verspricht Verbesserungen",
-   "s": "Seit Tagen gehen Schülerinnen und Schüler in Frankreich auf die Straße, um mehr Geld für Bildung einzufordern. Bildungsminister Geffray versprach Verbesserungen. Schülervertreter wollen weiter protestieren - distanzieren sich aber von Gewalt.",
-   "u": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T19:00:30+00:00"
   }
  ]
 }
