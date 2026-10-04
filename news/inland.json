@@ -1,7 +1,14 @@
 {
  "name": "Inland",
- "updated": "2026-10-04T18:38:35+00:00",
+ "updated": "2026-10-04T23:57:35+00:00",
  "items": [
+  {
+   "t": "Schulze zu Sachsen-Anhalt: \"Es wird keiner von der CDU zur AfD wechseln\"",
+   "s": "Die AfD will nach der Wahl in Sachsen-Anhalt regieren, doch ihr fehlt bisher eine Mehrheit. CDU-Fraktionschef Schulze bekräftigte im Bericht aus Berlin, dass die AfD bei der Ministerpräsidentenwahl nicht auf CDU-Stimmen setzen könne.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-schulze-bab-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T18:40:10+00:00"
+  },
   {
    "t": "Wahltag in Bosnien und Herzegowina: Kampf um Stimmen und Identitäten",
    "s": "Mittelstürmer Edin Džeko lässt sich zum Abschied als multikulturelle Seele Bosniens feiern. Ob sich das auch bei den Wahlen widerspiegelt?",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Vor-den-Wahlen-in-Brasilien/!6214483/",
    "q": "taz",
    "d": "2026-10-04T07:27:00+00:00"
-  },
-  {
-   "t": "Parlamentswahl in Lettland: Regierungspartei von Andris Kulbergs klar vorne",
-   "s": "Eindeutige Bestätigung für den Pro-EU- und Ukraine-Kurs des Regierungschefs: In Lettland setzt sich die Partei des Ministerpräsidenten klar durch.",
-   "u": "https://taz.de/Regierungspartei-siegt-klar-bei-Parlamentswahl-in-Lettland/!6218574/",
-   "q": "taz",
-   "d": "2026-10-04T07:15:00+00:00"
   }
  ]
 }

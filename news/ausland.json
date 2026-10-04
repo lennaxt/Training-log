@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-10-04T18:38:35+00:00",
+ "updated": "2026-10-04T23:57:36+00:00",
  "items": [
+  {
+   "t": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula steuern auf Stichwahl zu",
+   "s": "Die Abstimmung um die Präsidentschaft in Brasilien gilt als Richtungswahl. Derzeit werden die Stimmen ausgezählt. Herausforderer Bolsonaro liegt zwar vorn - aber die bisherigen Ergebnisse deuten auf eine Stichwahl mit Amtsinhaber Lula hin.",
+   "u": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-04T23:24:40+00:00"
+  },
   {
    "t": "Regierung im Jemen verkündet Großoffensive gegen Huthi-Miliz",
    "s": "Nach militärischen Erfolgen der Huthi will Jemens international anerkannte Regierung nun in die Offensive gehen. Ziel sei es, das Land aus dem Griff der Miliz zu befreien. Doch das dürfte nicht so einfach sein. Von Anna Osius.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/mord-ann-widdecombe-100.html",
    "q": "Tagesschau",
    "d": "2026-10-03T09:11:57+00:00"
-  },
-  {
-   "t": "Lula vor Wahl in Brasilien: 80 Jahre und noch nicht müde",
-   "s": "In Brasilien will Präsident Lula am Sonntag die Wahl gegen den Sohn seines Vorgängers Bolsonaro gewinnen. Es wäre die vierte Amtszeit für den früheren Gewerkschaftsführer, der auch für Europa ein wichtiger Partner ist. Von A. Herrberg.",
-   "u": "https://www.tagesschau.de/ausland/brasilien-lula-praesidentenwahl-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T08:56:27+00:00"
   }
  ]
 }
