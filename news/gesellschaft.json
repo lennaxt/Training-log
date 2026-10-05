@@ -1,7 +1,56 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-05T10:28:34+00:00",
+ "updated": "2026-10-05T22:01:30+00:00",
  "items": [
+  {
+   "t": "Grüner Parteitag in Großbritannien: Wie antisemitisch sind die englischen Grünen?",
+   "s": "Auf ihrem Parteitag haben die englischen Grünen Zionismus zu Rassismus erklärt. Parteichef Zack Polanski ist abgetaucht und steht jetzt unter Druck.",
+   "u": "https://taz.de/Parteitag-in-Brighton-Wie-antisemitisch-sind-die-englischen-Gruenen/!6218802/",
+   "q": "taz",
+   "d": "2026-10-05T16:48:00+00:00"
+  },
+  {
+   "t": "Wahlen in Bosnien und Herzegowina: Ein Erfolg für destruktive Kräfte",
+   "s": "Bei den Wahlen am Sonntag dominieren eindeutig nationalistische Parteien. Die Wahlbeteiligung erreicht mit nur 42 Prozent ein historisches Tief.",
+   "u": "https://taz.de/Wahlen-in-Bosnien-und-Herzegowina/!6218885/",
+   "q": "taz",
+   "d": "2026-10-05T15:40:00+00:00"
+  },
+  {
+   "t": "Schülerproteste in Frankreich: Viel Geld und wenig Resultate",
+   "s": "Frankreichs Schulen sind in einem miserablen Zustand. Aber warum? Das Bildungssystem im OECD-Vergleich.",
+   "u": "https://taz.de/Schuelerproteste-in-Frankreich/!6218898/",
+   "q": "taz",
+   "d": "2026-10-05T15:05:00+00:00"
+  },
+  {
+   "t": "Minister soll Österreichs SPÖ führen: Kompetent und beliebt",
+   "s": "Österreichs Finanzminister Markus Marterbauer soll Andreas Babler an der Spitze der österreichischen Sozialdemokraten beerben. Er ist trotz seines Sparkurses beliebt.",
+   "u": "https://taz.de/Markus-Marterbauer-wird-SPOe-Chef/!6218895/",
+   "q": "taz",
+   "d": "2026-10-05T13:27:00+00:00"
+  },
+  {
+   "t": "Repressionen in Russland: Festnahmen und Misshandlungen von Putin-Kritikern",
+   "s": "Im Nachgang zu den Duma-Wahlen in Russland im September rechnet der Kreml mit seinen Kri­ti­ke­r:in­nen ab. Auch die Kommunistische Partei ist davon betroffen.",
+   "u": "https://taz.de/Nachgang-der-Duma-Wahlen-in-Russland-Festnahmen-und-Misshandlungen/!6218909/",
+   "q": "taz",
+   "d": "2026-10-05T12:33:00+00:00"
+  },
+  {
+   "t": "Massiver Datendiebstahl: Hackerangriff auf zentrales Melderegister in Dänemark",
+   "s": "Dänemark meldet eine Attacke auf ein Datensystem, in dem Informationen von Bürgerinnen und Bürgern registriert sind. Fast neun Millionen Daten wurden entwendet.",
+   "u": "https://taz.de/Massiver-Datendiebstahl/!6218828/",
+   "q": "taz",
+   "d": "2026-10-05T12:27:00+00:00"
+  },
+  {
+   "t": "Neuwahlen in Spanien: Ministerpräsident Sánchez sucht sein Momentum",
+   "s": "Spaniens Regierungschef Pedro Sánchez setzt für Ende November Neuwahlen an. Seine Koalition ist an den Mietenprotesten zerbrochen.",
+   "u": "https://taz.de/Neuwahlen-in-Spanien/!6218894/",
+   "q": "taz",
+   "d": "2026-10-05T11:19:00+00:00"
+  },
   {
    "t": "Mietenkampf in Spanien: Spaniens Ministerpräsident kündigt Neuwahlen an",
    "s": "Das spanische Parlament hatte seine Dekrete zur Bekämpfung der Krise auf dem Wohnungsmarkt abgelehnt. Nun tritt Pedro ‌Sánchez die Flucht nach vorn an.",
@@ -120,55 +169,6 @@
    "u": "https://taz.de/Wahlen-in-Bosnien-und-Herzegowina/!6217644/",
    "q": "taz",
    "d": "2026-10-03T18:23:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Russland schießt erneut auf Brücke in Kyjiw",
-   "s": "Russland setzt seine Angriffe auf Straßenbrücken in der ukrainischen Hauptstadt Kyjiw fort. Moldau meldet Einschläge.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6218568/",
-   "q": "taz",
-   "d": "2026-10-03T11:26:00+00:00"
-  },
-  {
-   "t": "Parlamentswahl in Lettland: Kampfflugzeuge schützten Wahlkampf",
-   "s": "Das EU- und Natomitglied Lettland wählt ein neues Parlament. Überschattet wird die Wahl von der Sorge vor Drohnenangriffen.",
-   "u": "https://taz.de/Parlamentswahl-in-Lettland/!6218560/",
-   "q": "taz",
-   "d": "2026-10-03T08:10:00+00:00"
-  },
-  {
-   "t": "Proteste an Schulen und Universitäten: Frankreichs Regierung hat den Flächenbrand zu verantworten",
-   "s": "Paris will einen harten Sparkurs durchsetzen und die junge Generation wehrt sich. Statt zu handeln, wird die Linke beschuldigt, die Proteste anzuheizen.",
-   "u": "https://taz.de/Proteste-an-Schulen-und-Universitaeten/!6218502/",
-   "q": "taz",
-   "d": "2026-10-02T17:42:00+00:00"
-  },
-  {
-   "t": "Abstimmung im spanischen Parlament: Sánchez scheitert mit Paket gegen Wohnungskrise",
-   "s": "Das spanische Parlament hat Gesetze, die den Wohnungsmarkt neu regeln sollten, abgelehnt. Regierungschef Sánchez gerät zunehmend unter Druck.",
-   "u": "https://taz.de/Abstimmung-im-spanischen-Parlament/!6218477/",
-   "q": "taz",
-   "d": "2026-10-02T15:34:00+00:00"
-  },
-  {
-   "t": "Brennende Barrikaden in Frankreich: Der wütende Frust der jungen Generation",
-   "s": "An Schulen in ganz Frankreich protestieren Schüler gegen Lehrermangel und marode Infrastruktur. Die Regierung vermutet die Linke als Drahtzieher.",
-   "u": "https://taz.de/Brennende-Barrikaden-in-Frankreich/!6218479/",
-   "q": "taz",
-   "d": "2026-10-02T12:40:00+00:00"
-  },
-  {
-   "t": "Nostalgie in Großbritannien: War früher alles besser?",
-   "s": "Großbritanniens Premier Andy Burnham sagt, sein Land sei auf dem falschen Weg – und will zurück zu den Werten der Nachkriegszeit. Da lohnt es sich, genau hinzuschauen.",
-   "u": "https://taz.de/Nostalgie-in-Grossbritannien/!6214477/",
-   "q": "taz",
-   "d": "2026-10-02T10:28:00+00:00"
-  },
-  {
-   "t": "EU erwägt, Asylrecht auszusetzen: Ein Fundament, auf das gebaut werden soll",
-   "s": "Der Migrationspakt ist erst wenige Monate alt, doch die EU-Innenminister wollen es noch verschärfen. Sogar über die Aussetzung des Asylrechts wird nachgedacht.",
-   "u": "https://taz.de/Treffen-der-EU-Innenminister/!6218458/",
-   "q": "taz",
-   "d": "2026-10-02T09:34:00+00:00"
   }
  ]
 }

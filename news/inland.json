@@ -1,174 +1,174 @@
 {
  "name": "Inland",
- "updated": "2026-10-05T10:28:31+00:00",
+ "updated": "2026-10-05T22:01:25+00:00",
  "items": [
   {
+   "t": "Ärger um neue Fregatten der Bundeswehr - Opposition macht Druck",
+   "s": "Eigentlich sollte ein niederländisches Unternehmen moderne Fregatten für die Bundeswehr liefern. Doch das Verteidigungsministerium beendete das Projekt - und beauftragte eine andere Firma. Das hat ein Nachspiel. Von M. Kubina und B. Großkopff.",
+   "u": "https://www.tagesschau.de/inland/verteidigungsministerium-fregatten-bundeswehr-kritik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T18:01:40+00:00"
+  },
+  {
+   "t": "AfD in Sachsen-Anhalt: Die Rechtsextremen und ihre Steigbügelhalter",
+   "s": "In Sachsen-Anhalt konstituiert sich am Dienstag der Landtag, es droht eine AfD-Regierung. Das sind die Köpfe hinter der AfD- und BSW-Fraktion.",
+   "u": "https://taz.de/Sachsen-Anhalt-Uebersicht-zu-allen-Personen-der-AfD--und-BSW-Fraktion/!6217643/",
+   "q": "taz",
+   "d": "2026-10-05T17:56:00+00:00"
+  },
+  {
+   "t": "Zionismus: Am Anfang war die Sehnsucht",
+   "s": "Was ist eigentlich Zionismus? Woher kommt der Begriff und wie hat sich seine Bedeutung über die Zeit verändert? Fragen und Antworten.",
+   "u": "https://taz.de/Was-ist-eigentlich-Zionismus-Wie-hat-sich-Bedeutung-des-Wortes-veraendert-Die-wichtigsten-Fragen-und-Antworten/!6219153/",
+   "q": "taz",
+   "d": "2026-10-05T17:51:00+00:00"
+  },
+  {
+   "t": "Wie die Chefs der Nachrichtendienste die Sicherheitslage einschätzen",
+   "s": "Einschüchterung, Cyberangriffe, Anschlagspläne - Russland führe einen \"Schattenkrieg\" gegen Deutschland, sagt BND-Chef Jäger. Ein offener Krieg sei das nicht, doch die Grenze verschwimme. Was bedeutet das? Von O. Neuroth.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-praesidenten-bedrohung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T17:11:29+00:00"
+  },
+  {
+   "t": "Warum die Linke wegen eines Insta-Posts bis vor das Verfassungsgericht zieht",
+   "s": "Wirtschaftsministerin Reiche greift die Linke in einer Rede scharf an. Ihr Ministerium macht daraus einen Instagram-Post. Nun zieht die Partei vor das Bundesverfassungsgericht: Das Ministerium sei zur Neutralität verpflichtet. Von F. Aischmann.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T17:10:20+00:00"
+  },
+  {
+   "t": "Günther kritisiert Energiepolitik von Ministerin Reiche",
+   "s": "Um Kosten zu sparen, will Bundeswirtschaftsministerin Reiche die Förderung Erneuerbarer Energien kürzen. Mit scharfen Worten versucht Schleswig-Holsteins Ministerpräsident Günther, das Vorhaben seiner Parteigenossin zu verhindern.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/reiche-guenther-energiepolitik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T17:01:40+00:00"
+  },
+  {
+   "t": "Grüner Parteitag in Großbritannien: Wie antisemitisch sind die englischen Grünen?",
+   "s": "Auf ihrem Parteitag haben die englischen Grünen Zionismus zu Rassismus erklärt. Parteichef Zack Polanski ist abgetaucht und steht jetzt unter Druck.",
+   "u": "https://taz.de/Parteitag-in-Brighton-Wie-antisemitisch-sind-die-englischen-Gruenen/!6218802/",
+   "q": "taz",
+   "d": "2026-10-05T16:48:00+00:00"
+  },
+  {
+   "t": "Revanchismus beim AfD-Nachwuchs: Vorstand der AfD-Jugend will „großdeutsche Lösung“",
+   "s": "Luca Maurice Strauf hat am Tag der Wiedervereinigung eine Karte gepostet, auf der Teile vieler Nachbarländer deutsch eingefärbt sind. Das sorgt für Stress – nicht nur in der AfD-Jugend.",
+   "u": "https://taz.de/Revanchismus-beim-AfD-Nachwuchs/!6219202/",
+   "q": "taz",
+   "d": "2026-10-05T16:47:00+00:00"
+  },
+  {
+   "t": "Das Bündnis \"Widersetzen\" - Wie weit darf ziviler Ungehorsam gehen?",
+   "s": "Widerstand leisten statt nur zu protestieren: Blockaden gegen Parteiveranstaltungen gehören zur neuen Protestpraxis, etwa beim Bündnis \"Widersetzen\". Doch wo endet ziviler Ungehorsam und wo überschreitet er demokratische Grenzen?Bernhard, Henry",
+   "u": "https://www.deutschlandfunk.de/das-buendnis-widersetzen-ziviler-ungehorsam-und-die-grenzen-des-protests-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-05T16:27:00+00:00"
+  },
+  {
+   "t": "Prozess gegen mutmaßliche Wegwerfagenten: Geldstrafe für Bauschaum-Attacken auf Autos",
+   "s": "2025 wurden hunderte Autos sabotiert, angeblich von Öko-Aktivisten. Nun wurden drei junge Erwachsene dafür verurteilt – und die Spur weist nach Russland.",
+   "u": "https://taz.de/Prozess-gegen-mutmassliche-Wegwerfagenten/!6218876/",
+   "q": "taz",
+   "d": "2026-10-05T15:58:00+00:00"
+  },
+  {
+   "t": "Bundesumweltminister: Pharmafirmen sollen für Wasserreinigung zahlen",
+   "s": "Wer bezahlt für die Beseitigung von Medikamenten- und Kosmetikarückständen im Wasser? Der Umweltminister will die Hersteller zur Kasse bitten. Auch Rechenzentren sollen mehr für Wasser zahlen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/schneider-pharmafirmen-zahlungen-medikamentenrueckstaende-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T15:50:10+00:00"
+  },
+  {
+   "t": "Klage vor dem Verfassungsgericht: Die Linke klagt nun auch gegen Reiche",
+   "s": "Die Linke will den Vorwurf des Antisemitismus nicht auf sich sitzen lassen. Jetzt klagt sie gegen Wirtschaftsministerin Reiche vor dem Verfassungsgericht.",
+   "u": "https://taz.de/Klage-vor-dem-Verfassungsgericht/!6218921/",
+   "q": "taz",
+   "d": "2026-10-05T15:42:00+00:00"
+  },
+  {
+   "t": "Wahlen in Bosnien und Herzegowina: Ein Erfolg für destruktive Kräfte",
+   "s": "Bei den Wahlen am Sonntag dominieren eindeutig nationalistische Parteien. Die Wahlbeteiligung erreicht mit nur 42 Prozent ein historisches Tief.",
+   "u": "https://taz.de/Wahlen-in-Bosnien-und-Herzegowina/!6218885/",
+   "q": "taz",
+   "d": "2026-10-05T15:40:00+00:00"
+  },
+  {
+   "t": "Pläne der hessischen Landesregierung: Existenzrecht Israels darf geschützt werden",
+   "s": "Hessens Landesregierung will verbieten, Israel die Daseinsberechtigung abzusprechen. Ein Gutachten sagt nun: Das wäre möglich. Doch Zweifel bleiben.",
+   "u": "https://taz.de/Plaene-der-hessischen-Landesregierung/!6218875/",
+   "q": "taz",
+   "d": "2026-10-05T15:15:00+00:00"
+  },
+  {
+   "t": "Union und SPD planen neue Plastiksteuer",
+   "s": "Union und SPD wollen Unternehmen mit einer neuen Steuer dazu bringen, den Verbrauch von Plastik zu reduzieren. Sie erhoffen sich auch wichtige Einnahmen für den Haushalt. Wirtschaftsverbände kritisieren den Entwurf.",
+   "u": "https://www.tagesschau.de/inland/koalition-fraktionen-plastiksteuer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T15:10:29+00:00"
+  },
+  {
+   "t": "Schülerproteste in Frankreich: Viel Geld und wenig Resultate",
+   "s": "Frankreichs Schulen sind in einem miserablen Zustand. Aber warum? Das Bildungssystem im OECD-Vergleich.",
+   "u": "https://taz.de/Schuelerproteste-in-Frankreich/!6218898/",
+   "q": "taz",
+   "d": "2026-10-05T15:05:00+00:00"
+  },
+  {
+   "t": "Studie zu Antisemitismus: „Eine neue antisemitische Normalität“",
+   "s": "Interviews mit Jü­din­nen*­Ju­den nach dem 7. Oktober zeigen, wie der Rassismus in Teilen der Gesellschaft grassiert. Insbesondere Kinder erfahren Mobbing.",
+   "u": "https://taz.de/Studie-zu-Antisemitismus/!6218966/",
+   "q": "taz",
+   "d": "2026-10-05T14:29:00+00:00"
+  },
+  {
+   "t": "Geheimdienst-Spitzen im Bundestag: BND-Chef Jäger warnt vor „gewaltsamem Konflikt“ mit Russland",
+   "s": "Im parlamentarischen Kontrollgremium warnen die Spitzen der deutschen Geheimdienste vor russischen Aktionen im Baltikum. Ein Großangriff sei aber unwahrscheinlich.",
+   "u": "https://taz.de/Geheimdienst-Spitzen-im-Bundestag/!6218907/",
+   "q": "taz",
+   "d": "2026-10-05T14:28:00+00:00"
+  },
+  {
+   "t": "Erster Gang der Präsidentschaftswahl: Brasilien drohen dunkle Jahre",
+   "s": "Bei der Präsidentschaftswahl in Brasilien war der Etappensieg von Bolsonaro Junior auch ein Votum gegen Amtsinhaber Lula. Ihm bleiben drei Wochen, um die Katastrophe abzuwenden.",
+   "u": "https://taz.de/Erster-Gang-der-Praesidentschaftswahl/!6218879/",
+   "q": "taz",
+   "d": "2026-10-05T13:59:00+00:00"
+  },
+  {
+   "t": "Minister soll Österreichs SPÖ führen: Kompetent und beliebt",
+   "s": "Österreichs Finanzminister Markus Marterbauer soll Andreas Babler an der Spitze der österreichischen Sozialdemokraten beerben. Er ist trotz seines Sparkurses beliebt.",
+   "u": "https://taz.de/Markus-Marterbauer-wird-SPOe-Chef/!6218895/",
+   "q": "taz",
+   "d": "2026-10-05T13:27:00+00:00"
+  },
+  {
+   "t": "Repressionen in Russland: Festnahmen und Misshandlungen von Putin-Kritikern",
+   "s": "Im Nachgang zu den Duma-Wahlen in Russland im September rechnet der Kreml mit seinen Kri­ti­ke­r:in­nen ab. Auch die Kommunistische Partei ist davon betroffen.",
+   "u": "https://taz.de/Nachgang-der-Duma-Wahlen-in-Russland-Festnahmen-und-Misshandlungen/!6218909/",
+   "q": "taz",
+   "d": "2026-10-05T12:33:00+00:00"
+  },
+  {
    "t": "BND-Chef warnt vor \"gewaltsamem Konflikt mit Russland\"",
-   "s": "Nach Einschätzung von BND-Chef Jäger befindet sich Deutschland in einem \"Schattenkrieg\" mit Russland. Bei ihrer jährlichen Anhörung warnten die Nachrichtendienste erneut vor einem Anschlagsrisiko - und drängten auf mehr Befugnisse.",
+   "s": "Nach Einschätzung von BND-Chef Jäger ist Deutschland in einem \"Schattenkrieg\" mit Russland. Bei ihrer Anhörung warnten die Nachrichtendienste erneut vor einem Anschlagsrisiko. Thema war auch die Lage in Sachsen-Anhalt.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-chefs-anhoerung-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-05T10:04:35+00:00"
+   "d": "2026-10-05T12:29:07+00:00"
   },
   {
-   "t": "Kommentar: Politische Kälte auf dem spanischen Wohnungsmarkt",
-   "s": "Das spanische Parlament hat geplante, recht milde Mieterschutzregeln abgelehnt. Das Nein offenbart politische Kälte gegenüber einem der größten Probleme des Landes. Für Ministerpräsident Pedro Sánchez wird das zur Bewährungsprobe.Von Hans-Günter Kellner",
-   "u": "https://www.deutschlandfunk.de/kommentar-spanien-proteste-mieten-wohnen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-05T08:29:00+00:00"
-  },
-  {
-   "t": "Mietenkampf in Spanien: Spaniens Ministerpräsident kündigt Neuwahlen an",
-   "s": "Das spanische Parlament hatte seine Dekrete zur Bekämpfung der Krise auf dem Wohnungsmarkt abgelehnt. Nun tritt Pedro ‌Sánchez die Flucht nach vorn an.",
-   "u": "https://taz.de/Mietenkampf-in-Spanien/!6218820/",
+   "t": "Massiver Datendiebstahl: Hackerangriff auf zentrales Melderegister in Dänemark",
+   "s": "Dänemark meldet eine Attacke auf ein Datensystem, in dem Informationen von Bürgerinnen und Bürgern registriert sind. Fast neun Millionen Daten wurden entwendet.",
+   "u": "https://taz.de/Massiver-Datendiebstahl/!6218828/",
    "q": "taz",
-   "d": "2026-10-05T07:44:00+00:00"
+   "d": "2026-10-05T12:27:00+00:00"
   },
   {
-   "t": "Ist die Kirche die „letzte antifaschistische Hoffnung im Osten\"?",
-   "s": "Jan Böhmermann hat die Kirche im „ZDF Magazin Royale“ als „letzte antifaschistische Hoffnung im Osten\" bezeichnet. Christoph Maier von der Evangelischen Akademie Sachsen-Anhalt hält so ein Label nur für bedingt nützlich. Wie will er der AfD begegnen?Meyer, Luisa",
-   "u": "https://www.deutschlandfunk.de/sachsen-anhalt-kann-die-zivilgesellschaft-die-afd-ueberleben-christoph-maier-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-05T07:36:00+00:00"
-  },
-  {
-   "t": "Wegen Äußerung nach Berlin-Wahl: Linke zieht gegen Ministerin Reiche vor Gericht",
-   "s": "Die Linke wirft Katherina Reiche vor, als Ministerin das Neutralitätsgebot verletzt zu haben. Nun will sie das Bundesverfassungsgericht entscheiden lassen.",
-   "u": "https://taz.de/Wegen-Aeusserung-nach-Berlin-Wahl/!6218809/",
+   "t": "Linkspartei in Berlin: Die juristische Hürde für einen Rauswurf ist hoch",
+   "s": "Die Berliner Linkspartei steht unter Druck, sich von problematischen Mitgliedern zu trennen. Doch auch wenn sie das wollte, wäre das nicht so einfach.",
+   "u": "https://taz.de/Letzter-Ausweg-Parteigerichtsverfahren/!6218821/",
    "q": "taz",
-   "d": "2026-10-05T07:25:00+00:00"
-  },
-  {
-   "t": "Frankreich - Mit Sparhaushalt gegen Schülerproteste?",
-   "s": "Die Schülerproteste in Frankreich wegen Unterrichtsausfällen und maroden Gebäuden gehen weiter. Die Regierung hat reagiert und einen Sparhaushalt angekündigt, der die Bildung aber schont. Sie sendet damit ein klares Signal - nicht nur an die Schüler.Noll, Andreas",
-   "u": "https://www.deutschlandfunk.de/sparen-gegen-den-protest-eileen-keller-dfi-zu-frankreichs-haushalt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-05T07:19:00+00:00"
-  },
-  {
-   "t": "Brüssel und Budapest: Es geht um Geld, viel Geld",
-   "s": "Nach dem Sturz Orbáns gehen Reformen in Ungarn nur schleppend weiter. Abgeordnete des Europäischen Parlaments kommen kaum an Informationen.",
-   "u": "https://taz.de/Bruessel-und-Budapest/!6218798/",
-   "q": "taz",
-   "d": "2026-10-05T06:41:00+00:00"
-  },
-  {
-   "t": "Rechtsruck in Brasilien: Bolsonaro liegt knapp vor Lula",
-   "s": "Brasiliens Linksregierung erleidet eine schwere Schlappe, der rechte Flávio Bolsonaro triumphiert. Nun entscheidet die Stichwahl, wer Präsident wird.",
-   "u": "https://taz.de/Rechtsruck-in-Brasilien/!6218796/",
-   "q": "taz",
-   "d": "2026-10-05T06:25:00+00:00"
-  },
-  {
-   "t": "Merz in der Ukraine - Es geht um mehr als Geld für Waffen und Energie",
-   "s": "Verteidigungspolitiker Kiesewetter (CDU) fordert, sich klar an die Seite der Ukraine zu stellen. Bei den von Kanzler Merz in Kiew zugesagten 1,35 Milliarden Euro gehe es nicht um Almosen. Es gehe \"um knallharte deutsche Sicherheitsinteressen\".Grieß, Thielko",
-   "u": "https://www.deutschlandfunk.de/interview-roderich-kiesewetter-cdu-zur-merz-reise-nach-kiew-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-05T05:15:00+00:00"
-  },
-  {
-   "t": "Homofeinde gegen türkischen Musiker: Verhaftet wegen sexy",
-   "s": "Am Ende schwingen zwei Männer die Hüften. Für die AKP und ihre „Familienpolitik“ ist das Musikvideo von Mabel Matiz ein Problem. Aber es gibt eine Antwort.",
-   "u": "https://taz.de/Homofeinde-gegen-tuerkischen-Musiker/!6218646/",
-   "q": "taz",
-   "d": "2026-10-05T05:12:00+00:00"
-  },
-  {
-   "t": "Strafrechtsverschärfung: Hetze kann Mandat kosten",
-   "s": "Wer wegen Volksverhetzung zu mindestens einem Jahr Haft verurteilt wird, soll künftig weder kandidieren noch verbeamtet werden dürfen.",
-   "u": "https://taz.de/Strafrechtsverschaerfung/!6218600/",
-   "q": "taz",
-   "d": "2026-10-05T05:10:00+00:00"
-  },
-  {
-   "t": "Linke zieht gegen Reiche vor Bundesverfassungsgericht",
-   "s": "Die Linke wirft CDU-Politikerin Reiche vor, mit einem Video auf dem Account des Bundeswirtschaftsministeriums das Neutralitätsgebot verletzt zu haben. Nun will die Partei das höchste deutsche Gericht entscheiden lassen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-bundesverfassungsgericht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T03:39:00+00:00"
-  },
-  {
-   "t": "SPD-Basis setzt rote Linien bei der Arbeitszeitreform",
-   "s": "Die Koalition will Arbeitszeitregeln flexibler machen. Nun meldet sich die SPD-Basis zu Wort: Keine Wochenarbeitszeit ohne Tarifvertrag, heißt es in einem Positionspapier. Das könnte neuen Streit in der Koalition bedeuten. Von Jan-Peter Bartels.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/spd-arbeitszeit-woche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T03:00:50+00:00"
-  },
-  {
-   "t": "Schulze zu Sachsen-Anhalt: \"Es wird keiner von der CDU zur AfD wechseln\"",
-   "s": "Die AfD will nach der Wahl in Sachsen-Anhalt regieren, doch ihr fehlt bisher eine Mehrheit. CDU-Fraktionschef Schulze bekräftigte im Bericht aus Berlin, dass die AfD bei der Ministerpräsidentenwahl nicht auf CDU-Stimmen setzen könne.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-schulze-bab-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T18:40:10+00:00"
-  },
-  {
-   "t": "Wahltag in Bosnien und Herzegowina: Kampf um Stimmen und Identitäten",
-   "s": "Mittelstürmer Edin Džeko lässt sich zum Abschied als multikulturelle Seele Bosniens feiern. Ob sich das auch bei den Wahlen widerspiegelt?",
-   "u": "https://taz.de/Wahltag-in-Bosnien-und-Herzegowina/!6218680/",
-   "q": "taz",
-   "d": "2026-10-04T18:19:00+00:00"
-  },
-  {
-   "t": "Politisches Gender Gap: Packt sie beim Geld!",
-   "s": "In Sachsen-Anhalt liegt der Frauenanteil im Parlament nur bei 22 Prozent. Anderswo ist es ähnlich. Doch es gibt effektive Wege, für Parität zu sorgen.",
-   "u": "https://taz.de/Politisches-Gender-Gap/!6218598/",
-   "q": "taz",
-   "d": "2026-10-04T18:19:00+00:00"
-  },
-  {
-   "t": "Raus aus dem Sanierungsstau - Schneller Brücken bauen",
-   "s": "Tausende marode Brücken lähmen den Verkehr in Deutschland. Jahrelange Sperrungen kosten die Wirtschaft Millionen. Dabei könnte es schon längst schneller gehen mit Verfahren, die den Bau beschleunigen. (Erstsendung: 07.09.2026)Leue, Vivien",
-   "u": "https://www.deutschlandfunk.de/schneller-bruecken-bauen-wie-deutschland-aus-dem-sanierungsstau-kommt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-04T16:40:00+00:00"
-  },
-  {
-   "t": "Konflikt am Horn von Afrika: Äthiopien und Eritrea am Rande des Krieges",
-   "s": "Während Äthiopiens Armee in der Region Tigray vorrückt, sammeln sich Äthiopiens Gegner in Ägypten. Eritrea bricht die diplomatischen Beziehungen ab.",
-   "u": "https://taz.de/Konflikt-am-Horn-von-Afrika/!6218653/",
-   "q": "taz",
-   "d": "2026-10-04T16:36:00+00:00"
-  },
-  {
-   "t": "Ukrainische Rüstungsindustrie: Rückkehr zu den Wurzeln",
-   "s": "Ukrainische Drohnen gelten weltweit als erfolgreich und kampferprobt – aber ukrainische Firmen kämpfen um ihre Integration in den Weltmarkt.",
-   "u": "https://taz.de/Ukrainische-Ruestungsindustrie/!6218651/",
-   "q": "taz",
-   "d": "2026-10-04T16:35:00+00:00"
-  },
-  {
-   "t": "Russischer Angriff auf Brücke in Kyjiw: „Die Drohne flog direkt über mich hinweg“",
-   "s": "Schon wieder hat Russland in Kyjiw eine Brücke über den Dnipro beschossen. Zum Glück wurden die Stahlträger nicht getroffen, sagt eine Augenzeugin.",
-   "u": "https://taz.de/Russischer-Angriff-auf-Bruecke-in-Kyjiw/!6218650/",
-   "q": "taz",
-   "d": "2026-10-04T16:34:00+00:00"
-  },
-  {
-   "t": "Frankreichs Schulproteste: Vorgeschmack auf die Präsidentenwahl 2027?",
-   "s": "In Frankreich demonstrieren massenhaft Schülerinnen und Schüler für mehr Geld im Bildungssystem. Doch Gewalt überschattet die Proteste, und auch der Präsidentschaftswahlkampf 2027 spielt bereits hinein.",
-   "u": "https://www.deutschlandfunk.de/frankreich-proteste-schueler-bildung-gerechtigkeit-praesidentschaftswahl-2027-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-04T15:23:00+00:00"
-  },
-  {
-   "t": "Hamburg behält Vorsitz der Justizministerkonferenz",
-   "s": "Die Regierungsbildung in Sachsen-Anhalt wirbelt auch auf Länderebene einiges durcheinander. Hamburg hätte den Vorsitz der Justizministerkonferenz eigentlich abgeben müssen - macht nun aber weiter.",
-   "u": "https://www.tagesschau.de/inland/justizministerkonferenz-vorsitz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T14:51:32+00:00"
-  },
-  {
-   "t": "Schulstreik in Frankreich: Klassenkampf in Frankreich",
-   "s": "Frankreichs Innenminister trifft Vertreter der protestierenden Schülerschaft. Aber eine Einigung ist nicht in Sicht.",
-   "u": "https://taz.de/Schulstreik-in-Frankreich/!6218601/",
-   "q": "taz",
-   "d": "2026-10-04T14:26:00+00:00"
-  },
-  {
-   "t": "Deutsche Kooperation mit der Ukraine: Mehrfacher Luftalarm bei Merz-Besuch in Kyjiw",
-   "s": "Merz verspricht, dass Deutschland bei Unterstützung der Ukraine nicht nachlassen werde. Milliarden für Rüstungshilfe und Reparatur von Kraftwerken.",
-   "u": "https://taz.de/Deutsche-Kooperation-mit-der-Ukraine/!6218648/",
-   "q": "taz",
-   "d": "2026-10-04T14:19:00+00:00"
+   "d": "2026-10-05T12:00:00+00:00"
   }
  ]
 }

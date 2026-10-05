@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-10-05T10:28:31+00:00",
+ "updated": "2026-10-05T22:01:25+00:00",
  "items": [
+  {
+   "t": "America.gov: Digitaler Service oder Überwachung per KI?",
+   "s": "Die US-Regierung will Behördengänge in einer einzigen, KI-gestützten Plattform bündeln. Bequem, schnell und angeblich ohne zentrale Datensammlung. Doch wer liest mit, wenn Bürger einem Chatbot ihre Lebenssituation anvertrauen? Von Samuel Jackisch.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-america-gov-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T17:12:58+00:00"
+  },
+  {
+   "t": "Regierungstruppen im Jemen melden Kontrolle über wichtige Meerenge",
+   "s": "Lange war die Huthi-Miliz im Jemen auf dem Vormarsch, jetzt schlagen die Regierungstruppen zurück. Unterstützt von Saudi-Arabien konnten sie offenbar die strategisch wichtige Meerenge Bab al-Mandab unter Kontrolle bringen.",
+   "u": "https://www.tagesschau.de/ausland/asien/jemen-regierungstruppen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T16:24:40+00:00"
+  },
+  {
+   "t": "Tote nach Schiffsunglück im Schwarzen Meer - Drohnenangriff?",
+   "s": "Im Schwarzen Meer ist ein Schiff nach einem Brand an Bord gesunken. Berichten zufolge wurde der Frachter von einer Drohne getroffen. Der ukrainische Präsident Selenskyj spricht von einem \"schrecklichen Angriff\" Russlands.",
+   "u": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-schiff-verunglueckt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T14:33:37+00:00"
+  },
+  {
+   "t": "Moldau: Wassermangel trifft hohe Ölpreise",
+   "s": "Die Republik Moldau leidet weiter unter Dürre, die Pegelstände der Flüsse sind niedrig. Zugleich hat die Regierung wegen der hohen Preise einen Energienotstand ausgerufen. Die Opposition nutzt das für Signale im Sinne Russlands. Von P. Raillon.",
+   "u": "https://www.tagesschau.de/ausland/europa/moldau-energie-notstand-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T11:43:42+00:00"
+  },
   {
    "t": "Alltag in Iran zwischen Wirtschaftskrise und Angst vor Krieg",
    "s": "Im Krieg der USA gegen Iran ist keine Lösung in Sicht. Gekämpft wird zwar nicht, Gespräche haben aber keine Fortschritte gebracht. Die wirtschaftliche Lage in Iran bleibt katastrophal. Wie beeinflusst das den Alltag? Von B. Weber.",
@@ -18,7 +46,7 @@
   },
   {
    "t": "Solidarität mit Studentin \"Jane Doe\" nach Vergewaltigungsklage",
-   "s": "Unter dem Motto \"Ich bin Jane Doe\" solidarisieren sich weltweit Menschen in den sozialen Medien mit einer Studentin. Unter diesem Pseudonym hatte die junge Frau eine Klage wegen Gruppenvergewaltigung eingereicht.",
+   "s": "Unter dem Motto \"Ich bin Jane Doe\" solidarisieren sich weltweit Menschen in den Sozialen Medien mit einer Studentin. Unter diesem Pseudonym hatte die junge Frau eine Klage wegen Gruppenvergewaltigung eingereicht.",
    "u": "https://www.tagesschau.de/ausland/amerika/jane-doe-cornell-100.html",
    "q": "Tagesschau",
    "d": "2026-10-05T08:34:36+00:00"
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/angriffe-jemen-102.html",
    "q": "Tagesschau",
    "d": "2026-10-04T10:05:29+00:00"
-  },
-  {
-   "t": "Krieg gegen die Ukraine: Merz besucht Kiew - Russland greift Brücke an",
-   "s": "Während Kanzler Merz Kiew besucht, hat ein russischer Angriff auf eine Brücke dort Alarm ausgelöst. Merz sagte dem Land Unterstützung zu und trifft sich mit Präsident Selenskyj. Russland begehe \"tägliche Kriegsverbrechen\".",
-   "u": "https://www.tagesschau.de/ausland/europa/merz-kiew-drohnen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T09:39:12+00:00"
-  },
-  {
-   "t": "Tory-Parteitag: Wie Kemi Badenoch die Tories retten will",
-   "s": "Die britischen Konservativen sind in den Umfragen seit Langem abgeschlagen. Bei dem Parteitag in Birmingham will Kemi Badenoch ihren Tories neuen Mut einflößen. Kann die Parteichefin das? Von Lisa-Maria Röhling.",
-   "u": "https://www.tagesschau.de/ausland/europa/tories-parteitag-badenoch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T09:12:59+00:00"
-  },
-  {
-   "t": "Wahl in Lettland: Partei von Ministerpräsident in Führung",
-   "s": "Die Letten haben ein neues Parlament gewählt - nachdem die meisten Stimmen ausgezählt sind, liegt die Vereinigte Liste von Ministerpräsident Kulbergs vorn. Doch auch prorussische Parteien haben zugelegt.",
-   "u": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T07:58:11+00:00"
-  },
-  {
-   "t": "Lula gegen Bolsonaro: Ein Duell bekannter Namen in Brasilien",
-   "s": "Heute wählt Brasilien. Wie beim letzten Mal heißt es: Lula gegen einen Bolsonaro. Ein 80-Jähriger gegen den Sohn des Ex-Präsidenten. Auch für US-Präsident Trump ist der Ausgang von großer Bedeutung. Von Anne Herrberg.",
-   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-lula-bolsonaro-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T06:09:05+00:00"
   }
  ]
 }

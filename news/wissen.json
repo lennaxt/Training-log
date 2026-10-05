@@ -1,13 +1,34 @@
 {
  "name": "Wissen",
- "updated": "2026-10-05T10:28:33+00:00",
+ "updated": "2026-10-05T22:01:27+00:00",
  "items": [
   {
+   "t": "Nobelpreisträger Hegemann in den tagesthemen: \"Ich bin natürlich überwältigt\"",
+   "s": "Der Algenforscher Peter Hegemann hat Grund zum Feiern: Gemeinsam mit zwei weiteren Forschern erhält er den Medizin-Nobelpreis. In den tagesthemen berichtet er vom Nutzen der Optogenetik - und fordert mehr Mut von der Politik.",
+   "u": "https://www.tagesschau.de/wissen/forschung/tagesthemen-interview-hegemann-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T19:37:30+00:00"
+  },
+  {
+   "t": "Optogenetik: Medizin-Nobelpreis für den Lichtschalter im Gehirn",
+   "s": "Eine Grünalge lieferte den entscheidenden Baustein: Mit der Optogenetik lassen sich Nervenzellen durch Licht steuern. Dafür erhalten Peter Hegemann, Georg Nagel und Karl Deisseroth den Medizin-Nobelpreis. Von Doris Tromballa.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/optogenetik-nobelpreis-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T14:53:43+00:00"
+  },
+  {
+   "t": "Kommunikation von Nervenzellen im Gehirn: Forscher-Trio erhält Medizin-Nobelpreis",
+   "s": "Kommunikation von Nervenzellen im Gehirn: Forscher-Trio erhält Medizin-Nobelpreis",
+   "u": "https://www.tagesschau.de/video/video-1660770.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T14:09:06+00:00"
+  },
+  {
    "t": "Medizin-Nobelpreis für Optogenetik-Forscher aus Deutschland und USA",
-   "s": "Für ihre Optogenetik-Forschung erhalten ein Berliner, ein Würzburger und ein US-Amerikaner den Medizin-Nobelpreis. Peter Hegemann, Georg Nagel und Karl Deisseroth bekommen jeweils ein Drittel des Preisgeldes von rund einer Million Euro.",
+   "s": "Ein Berliner, ein Würzburger und ein US-Amerikaner erhalten den Medizin-Nobelpreis. Peter Hegemann, Georg Nagel und Karl Deisseroth teilen sich die Auszeichnung. Ihre Arbeit zeige, wie Nervenzellen im Gehirn Erinnerungen, Gefühle und Verhaltensweisen formen.",
    "u": "https://www.tagesschau.de/wissen/forschung/medizin-nobelpreis-optogenetik-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-05T10:01:47+00:00"
+   "d": "2026-10-05T12:27:25+00:00"
   },
   {
    "t": "Nobelpreis für Medizin geht an Forscher aus Deutschland und den USA",
@@ -71,13 +92,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/copernicus-heisser-sommer-100.html",
    "q": "Tagesschau",
    "d": "2026-10-02T07:28:09+00:00"
-  },
-  {
-   "t": "Google schickt testweise KI-Chips ins All - Rechenzentren im All",
-   "s": "Unendliche Weite und extrem niedrige Temperaturen: Das Weltall könnte Potenzial für Rechenzentren bergen, die auf der Erde Ressourcen verbrauchen. Google wagt nun einen ersten Schritt in diese Richtung - trotz technischer Hürden. Von David Beck.",
-   "u": "https://www.tagesschau.de/wissen/weltraum/ki-chips-im-all-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T16:17:17+00:00"
   },
   {
    "t": "Drastische Auswirkungen von Hitzesommer und Klimawandel auf Schweizer Gletscher",
@@ -150,25 +164,11 @@
    "d": "2026-09-21T15:09:11+00:00"
   },
   {
-   "t": "Finnische Zellbiologin und Medizinerin Sara Wickström erhält Körber-Preis für Krebsforschung",
-   "s": "Finnische Zellbiologin und Medizinerin Sara Wickström erhält Körber-Preis für Krebsforschung",
-   "u": "https://www.tagesschau.de/video/video-1651198.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T13:38:07+00:00"
-  },
-  {
    "t": "Renommierter Körber-Preis für Zellforscherin Wickström",
    "s": "Die Zellbiologin Wickström erforscht, was in unseren Zellen bei mechanischem Druck passiert. Das ist auch für die Krebsforschung relevant. Heute hat die Finnin den diesjährigen Körber-Preis für Europäische Wissenschaft erhalten. Von Veronika Simon.",
    "u": "https://www.tagesschau.de/wissen/forschung/koerberpreis-zellforscherin-100.html",
    "q": "Tagesschau",
    "d": "2026-09-18T11:22:10+00:00"
-  },
-  {
-   "t": "Studie: In der EU sinkt die Impfquote bei Kindern",
-   "s": "In vielen EU-Ländern gehen die Impfquoten bei Kindern zurück. Auch Deutschland ist betroffen, wie aus einer Studie hervorgeht. Der Rückgang begann demnach während der Corona-Pandemie.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/impfungen-impfgegner-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T06:27:57+00:00"
   }
  ]
 }

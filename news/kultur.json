@@ -1,9 +1,16 @@
 {
  "name": "Kultur",
- "updated": "2026-10-05T10:28:35+00:00",
+ "updated": "2026-10-05T22:01:31+00:00",
  "items": [
   {
-   "t": "Rechtsruck in Brasilien: Bolsonaro liegt knapp vor Lula",
+   "t": "Erster Gang der Präsidentschaftswahl: Brasilien drohen dunkle Jahre",
+   "s": "Bei der Präsidentschaftswahl in Brasilien war der Etappensieg von Bolsonaro Junior auch ein Votum gegen Amtsinhaber Lula. Ihm bleiben drei Wochen, um die Katastrophe abzuwenden.",
+   "u": "https://taz.de/Erster-Gang-der-Praesidentschaftswahl/!6218879/",
+   "q": "taz",
+   "d": "2026-10-05T13:59:00+00:00"
+  },
+  {
+   "t": "Rechtsruck in Brasilien: Flávio Bolsonaro liegt knapp vor Lula",
    "s": "Brasiliens Linksregierung erleidet eine schwere Schlappe, der rechte Flávio Bolsonaro triumphiert. Nun entscheidet die Stichwahl, wer Präsident wird.",
    "u": "https://taz.de/Rechtsruck-in-Brasilien/!6218796/",
    "q": "taz",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Zweites-Urteil-in-New-York/!6215878/",
    "q": "taz",
    "d": "2026-09-23T16:19:00+00:00"
-  },
-  {
-   "t": "Debatte um Wahlbetrug: US-Regierung meldet nur 160 Festnahmen wegen möglicher Wahlverstöße",
-   "s": "Die Trump-Regierung beklagt Wahlbetrug durch Nicht-US-Bürger. Die nun veröffentlichten Zahlen zeigen jedoch deutlich weniger Fälle als behauptet.",
-   "u": "https://taz.de/Debatte-um-Wahlbetrug/!6215560/",
-   "q": "taz",
-   "d": "2026-09-23T08:02:00+00:00"
   }
  ]
 }
