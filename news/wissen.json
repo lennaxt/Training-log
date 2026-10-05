@@ -1,13 +1,41 @@
 {
  "name": "Wissen",
- "updated": "2026-10-04T23:57:38+00:00",
+ "updated": "2026-10-05T10:28:33+00:00",
  "items": [
   {
+   "t": "Medizin-Nobelpreis für Optogenetik-Forscher aus Deutschland und USA",
+   "s": "Für ihre Optogenetik-Forschung erhalten ein Berliner, ein Würzburger und ein US-Amerikaner den Medizin-Nobelpreis. Peter Hegemann, Georg Nagel und Karl Deisseroth bekommen jeweils ein Drittel des Preisgeldes von rund einer Million Euro.",
+   "u": "https://www.tagesschau.de/wissen/forschung/medizin-nobelpreis-optogenetik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T10:01:47+00:00"
+  },
+  {
+   "t": "Nobelpreis für Medizin geht an Forscher aus Deutschland und den USA",
+   "s": "Nobelpreis für Medizin geht an Forscher aus Deutschland und den USA",
+   "u": "https://www.tagesschau.de/video/video-1660638.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T09:55:56+00:00"
+  },
+  {
+   "t": "Rekordschmelze in den Schweizer Alpen",
+   "s": "Rekordschmelze in den Schweizer Alpen",
+   "u": "https://www.tagesschau.de/video/video-1660576.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T08:48:25+00:00"
+  },
+  {
+   "t": "Australien: Alge kann Methan-Ausstoß von Rindern reduzieren",
+   "s": "Rund ein Viertel des menschengemachten Methans entsteht in der Rinderzucht. Australische Landwirte wollen das ändern - mit einem Trick: Sie lassen Rotalgen ins Futter ihrer Rinder mischen. Von Florian Bahrdt.",
+   "u": "https://www.tagesschau.de/wissen/klima/australien-methan-kuehe-futter-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T07:03:08+00:00"
+  },
+  {
    "t": "125 Jahre Nobelpreis: Was macht die Auszeichnung so bedeutend?",
-   "s": "Von morgen an wird wieder verkündet, wer die diesjährigen Nobelpreise erhält - und das seit mittlerweile 125 Jahren. Warum hat die Auszeichnung eine so hohe Bedeutung? Und wie werden die Preisträger ermittelt? Von Nina Kunze.",
+   "s": "Von heute an wird wieder verkündet, wer die diesjährigen Nobelpreise erhält - und das seit mittlerweile 125 Jahren. Warum hat die Auszeichnung eine so hohe Bedeutung? Und wie werden die Preisträger ermittelt? Von Nina Kunze.",
    "u": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-04T16:06:59+00:00"
+   "d": "2026-10-05T04:32:01+00:00"
   },
   {
    "t": "Bundesweit Menschenketten für mehr Klimaschutz und Einhaltung der Grundrechte",
@@ -115,13 +143,6 @@
    "d": "2026-09-22T12:51:30+00:00"
   },
   {
-   "t": "Alexander Steinfeldt, co2online gemeinnützige GmbH, zu Klimaschutz und Energiesparen",
-   "s": "Alexander Steinfeldt, co2online gemeinnützige GmbH, zu Klimaschutz und Energiesparen",
-   "u": "https://www.tagesschau.de/video/video-1653338.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T07:38:32+00:00"
-  },
-  {
    "t": "Planetary Health Check: Patientin Erde ist schwer angeschlagen",
    "s": "Wie geht es dem Planeten Erde? Schwindende Artenvielfalt, versauerte Meere und ausgelaugte Böden machen ihm zu schaffen. Laut dem aktuellen Planetary Health Check ist die Lage kritisch - aber nicht aussichtslos. Von Jan Kerckhoff.",
    "u": "https://www.tagesschau.de/wissen/forschung/planetary-health-check-100.html",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/impfungen-impfgegner-100.html",
    "q": "Tagesschau",
    "d": "2026-09-18T06:27:57+00:00"
-  },
-  {
-   "t": "Klimawandel war ein Hauptgrund für Felssturz im Himalaya",
-   "s": "Ein neuer Bericht über die Ursachen der Sturzflut im Himalaya zeigt: Der Klimawandel hatte einen weit größeren Anteil an der Katastrophe als zunächst vermutet. Ein dabei entdecktes, kaum bekanntes Phänomen könnte auch in den Alpen relevant sein. Von Frank Bäumer.",
-   "u": "https://www.tagesschau.de/wissen/klima/sturzflut-himalaya-klimawandel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T09:29:24+00:00"
-  },
-  {
-   "t": "Bericht der WMO: Wasserspeicher schrumpfen weltweit",
-   "s": "Schmelzende Gletscher, weniger Wasser in Flüssen: Die Wasserreserven schwinden seit Jahren, warnt die Weltwetterorganisation. Damit gehe auch der Puffer für Dürrejahre verloren - mit Folgen für Bevölkerung und Wirtschaft.",
-   "u": "https://www.tagesschau.de/wissen/klima/wmo-bericht-zu-wasserressourcen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-17T05:55:02+00:00"
-  },
-  {
-   "t": "Neuer Bluttest weckt Hoffnung auf Früherkennung bei Bauchspeicheldrüsenkrebs",
-   "s": "Tumore der Bauchspeicheldrüse sind meist erst erkennbar, wenn man sie kaum noch behandeln kann. Ein neuer Bluttest kann bei der Früherkennung helfen. Hoffnung weckt auch ein neuer Wirkstoff. Von Joachim Budde.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/bluttest-bauspeicheldruesenkrebs-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-16T13:22:15+00:00"
   }
  ]
 }

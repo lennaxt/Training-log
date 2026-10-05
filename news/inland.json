@@ -1,7 +1,98 @@
 {
  "name": "Inland",
- "updated": "2026-10-04T23:57:35+00:00",
+ "updated": "2026-10-05T10:28:31+00:00",
  "items": [
+  {
+   "t": "BND-Chef warnt vor \"gewaltsamem Konflikt mit Russland\"",
+   "s": "Nach Einschätzung von BND-Chef Jäger befindet sich Deutschland in einem \"Schattenkrieg\" mit Russland. Bei ihrer jährlichen Anhörung warnten die Nachrichtendienste erneut vor einem Anschlagsrisiko - und drängten auf mehr Befugnisse.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-chefs-anhoerung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T10:04:35+00:00"
+  },
+  {
+   "t": "Kommentar: Politische Kälte auf dem spanischen Wohnungsmarkt",
+   "s": "Das spanische Parlament hat geplante, recht milde Mieterschutzregeln abgelehnt. Das Nein offenbart politische Kälte gegenüber einem der größten Probleme des Landes. Für Ministerpräsident Pedro Sánchez wird das zur Bewährungsprobe.Von Hans-Günter Kellner",
+   "u": "https://www.deutschlandfunk.de/kommentar-spanien-proteste-mieten-wohnen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-05T08:29:00+00:00"
+  },
+  {
+   "t": "Mietenkampf in Spanien: Spaniens Ministerpräsident kündigt Neuwahlen an",
+   "s": "Das spanische Parlament hatte seine Dekrete zur Bekämpfung der Krise auf dem Wohnungsmarkt abgelehnt. Nun tritt Pedro ‌Sánchez die Flucht nach vorn an.",
+   "u": "https://taz.de/Mietenkampf-in-Spanien/!6218820/",
+   "q": "taz",
+   "d": "2026-10-05T07:44:00+00:00"
+  },
+  {
+   "t": "Ist die Kirche die „letzte antifaschistische Hoffnung im Osten\"?",
+   "s": "Jan Böhmermann hat die Kirche im „ZDF Magazin Royale“ als „letzte antifaschistische Hoffnung im Osten\" bezeichnet. Christoph Maier von der Evangelischen Akademie Sachsen-Anhalt hält so ein Label nur für bedingt nützlich. Wie will er der AfD begegnen?Meyer, Luisa",
+   "u": "https://www.deutschlandfunk.de/sachsen-anhalt-kann-die-zivilgesellschaft-die-afd-ueberleben-christoph-maier-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-05T07:36:00+00:00"
+  },
+  {
+   "t": "Wegen Äußerung nach Berlin-Wahl: Linke zieht gegen Ministerin Reiche vor Gericht",
+   "s": "Die Linke wirft Katherina Reiche vor, als Ministerin das Neutralitätsgebot verletzt zu haben. Nun will sie das Bundesverfassungsgericht entscheiden lassen.",
+   "u": "https://taz.de/Wegen-Aeusserung-nach-Berlin-Wahl/!6218809/",
+   "q": "taz",
+   "d": "2026-10-05T07:25:00+00:00"
+  },
+  {
+   "t": "Frankreich - Mit Sparhaushalt gegen Schülerproteste?",
+   "s": "Die Schülerproteste in Frankreich wegen Unterrichtsausfällen und maroden Gebäuden gehen weiter. Die Regierung hat reagiert und einen Sparhaushalt angekündigt, der die Bildung aber schont. Sie sendet damit ein klares Signal - nicht nur an die Schüler.Noll, Andreas",
+   "u": "https://www.deutschlandfunk.de/sparen-gegen-den-protest-eileen-keller-dfi-zu-frankreichs-haushalt-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-05T07:19:00+00:00"
+  },
+  {
+   "t": "Brüssel und Budapest: Es geht um Geld, viel Geld",
+   "s": "Nach dem Sturz Orbáns gehen Reformen in Ungarn nur schleppend weiter. Abgeordnete des Europäischen Parlaments kommen kaum an Informationen.",
+   "u": "https://taz.de/Bruessel-und-Budapest/!6218798/",
+   "q": "taz",
+   "d": "2026-10-05T06:41:00+00:00"
+  },
+  {
+   "t": "Rechtsruck in Brasilien: Bolsonaro liegt knapp vor Lula",
+   "s": "Brasiliens Linksregierung erleidet eine schwere Schlappe, der rechte Flávio Bolsonaro triumphiert. Nun entscheidet die Stichwahl, wer Präsident wird.",
+   "u": "https://taz.de/Rechtsruck-in-Brasilien/!6218796/",
+   "q": "taz",
+   "d": "2026-10-05T06:25:00+00:00"
+  },
+  {
+   "t": "Merz in der Ukraine - Es geht um mehr als Geld für Waffen und Energie",
+   "s": "Verteidigungspolitiker Kiesewetter (CDU) fordert, sich klar an die Seite der Ukraine zu stellen. Bei den von Kanzler Merz in Kiew zugesagten 1,35 Milliarden Euro gehe es nicht um Almosen. Es gehe \"um knallharte deutsche Sicherheitsinteressen\".Grieß, Thielko",
+   "u": "https://www.deutschlandfunk.de/interview-roderich-kiesewetter-cdu-zur-merz-reise-nach-kiew-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-05T05:15:00+00:00"
+  },
+  {
+   "t": "Homofeinde gegen türkischen Musiker: Verhaftet wegen sexy",
+   "s": "Am Ende schwingen zwei Männer die Hüften. Für die AKP und ihre „Familienpolitik“ ist das Musikvideo von Mabel Matiz ein Problem. Aber es gibt eine Antwort.",
+   "u": "https://taz.de/Homofeinde-gegen-tuerkischen-Musiker/!6218646/",
+   "q": "taz",
+   "d": "2026-10-05T05:12:00+00:00"
+  },
+  {
+   "t": "Strafrechtsverschärfung: Hetze kann Mandat kosten",
+   "s": "Wer wegen Volksverhetzung zu mindestens einem Jahr Haft verurteilt wird, soll künftig weder kandidieren noch verbeamtet werden dürfen.",
+   "u": "https://taz.de/Strafrechtsverschaerfung/!6218600/",
+   "q": "taz",
+   "d": "2026-10-05T05:10:00+00:00"
+  },
+  {
+   "t": "Linke zieht gegen Reiche vor Bundesverfassungsgericht",
+   "s": "Die Linke wirft CDU-Politikerin Reiche vor, mit einem Video auf dem Account des Bundeswirtschaftsministeriums das Neutralitätsgebot verletzt zu haben. Nun will die Partei das höchste deutsche Gericht entscheiden lassen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-bundesverfassungsgericht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T03:39:00+00:00"
+  },
+  {
+   "t": "SPD-Basis setzt rote Linien bei der Arbeitszeitreform",
+   "s": "Die Koalition will Arbeitszeitregeln flexibler machen. Nun meldet sich die SPD-Basis zu Wort: Keine Wochenarbeitszeit ohne Tarifvertrag, heißt es in einem Positionspapier. Das könnte neuen Streit in der Koalition bedeuten. Von Jan-Peter Bartels.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/spd-arbeitszeit-woche-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T03:00:50+00:00"
+  },
   {
    "t": "Schulze zu Sachsen-Anhalt: \"Es wird keiner von der CDU zur AfD wechseln\"",
    "s": "Die AfD will nach der Wahl in Sachsen-Anhalt regieren, doch ihr fehlt bisher eine Mehrheit. CDU-Fraktionschef Schulze bekräftigte im Bericht aus Berlin, dass die AfD bei der Ministerpräsidentenwahl nicht auf CDU-Stimmen setzen könne.",
@@ -78,97 +169,6 @@
    "u": "https://taz.de/Deutsche-Kooperation-mit-der-Ukraine/!6218648/",
    "q": "taz",
    "d": "2026-10-04T14:19:00+00:00"
-  },
-  {
-   "t": "Neuer Krieg in Äthiopien: Flächenbrand in Afrika",
-   "s": "Der Krieg in Äthiopien droht sich zum Regionalkrieg im gesamten Nordosten Afrikas auszuweiten. Es gäbe Möglichkeiten, dagegen etwas zu tun.",
-   "u": "https://taz.de/Neuer-Krieg-in-Aethiopien/!6218594/",
-   "q": "taz",
-   "d": "2026-10-04T13:52:00+00:00"
-  },
-  {
-   "t": "Nachruf auf Dafroza Gauthier: Ein ruandische Kämpferin für Gerechtigkeit",
-   "s": "Dafroza Mukarumongi-Gauthier brachte Verantwortliche für Ruandas Völkermord an den Tutsi vor Gericht. Sie starb mit 72 Jahren.",
-   "u": "https://taz.de/Nachruf-auf-Dafroza-Gauthier/!6218604/",
-   "q": "taz",
-   "d": "2026-10-04T13:51:00+00:00"
-  },
-  {
-   "t": "Gescheiterte Hinrichtung in den USA: Chef von Strafvollzugsbehörde von Tennessee tritt zurück",
-   "s": "Im US-Bundesstaat Tennessee muss Behördenchef Frank Strada seinen Posten räumen. Grund sind die Fehler bei der Hinrichtung der Mörderin Christa Pike.",
-   "u": "https://taz.de/Gescheiterte-Hinrichtung-in-den-USA-Chef-von-Strafvollzugsbehoerde-tritt-zurueck/!6218726/",
-   "q": "taz",
-   "d": "2026-10-04T12:56:00+00:00"
-  },
-  {
-   "t": "Rekord-Wiesn: 7,4 Millionen Besucher auf dem Oktoberfest",
-   "s": "Das Oktoberfest hat in diesem Jahr einen neuen Besucherrekord verzeichnet. Insgesamt zählten die Veranstalter in den vergangenen zwei Wochen 7,4 Millionen Menschen auf der Wiesn. Überschattet wurde das Fest von zwei Unfällen.",
-   "u": "https://www.tagesschau.de/inland/oktoberfest-bilanz-110.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T12:32:14+00:00"
-  },
-  {
-   "t": "Rhein will AfD Ausschussvorsitze ermöglichen",
-   "s": "Hessens Ministerpräsident Rhein plädiert dafür, dass die AfD im Bundestag Ausschussvorsitze übernehmen könne. Aus dem Parlament gibt es für den CDU-Politiker klaren Widerspruch, die AfD begrüßt den Vorstoß.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T12:21:51+00:00"
-  },
-  {
-   "t": "Tausend Jahre nach seinem Tod: Zar Samuil bekommt neue Ruhestätte in Sofia",
-   "s": "Auch wenn nicht gänzlich sicher ist, dass er es wirklich ist: Die sterblichen Überreste des Zaren Samuil sind nach Bulgarien umgebettet worden.",
-   "u": "https://taz.de/Mutmassliche-Ueberreste-von-bulgarischem-Zar-kehren-tausend-Jahre-nach-seinem-Tod-zurueck/!6218697/",
-   "q": "taz",
-   "d": "2026-10-04T12:06:00+00:00"
-  },
-  {
-   "t": "Schneider fordert anderen Umgang mit Wasser",
-   "s": "Wegen der niedrigen Pegelstände hat Bundesumweltminister Schneider ein Umdenken im Umgang mit Wasser angemahnt. Er rief die Bundesländer zu massiven Investitionen in die Wasserinfrastruktur auf.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/schneider-niedrigwasser-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T11:49:51+00:00"
-  },
-  {
-   "t": "Deutsche Stiftungen in Georgien: Moskau lässt grüßen",
-   "s": "Die Konrad-Adenauer-Stifung und die Konrad-Naumann-Stiftung ziehen sich aus Georgien zurück. Ein neuer Erfolg Putins gegen die Zivilgesellschaft.",
-   "u": "https://taz.de/Deutsche-Stiftungen-in-Georgien/!6218596/",
-   "q": "taz",
-   "d": "2026-10-04T11:26:00+00:00"
-  },
-  {
-   "t": "Mietenkampf in Spanien: Vom Frust zum Generalstreik",
-   "s": "Nach dem Scheitern des Mietreformpakets kommt es zum Massenprotest. Parallel dazu gibt es Streikpläne und Spekulationen über vorgezogene Neuwahlen.",
-   "u": "https://taz.de/Mietenkampf-in-Spanien/!6218657/",
-   "q": "taz",
-   "d": "2026-10-04T11:23:00+00:00"
-  },
-  {
-   "t": "Kritik an Pflegereform: Sozialbündnis fordert Stopp der Kürzungspläne",
-   "s": "Bei der Pflege und in anderen Bereichen setzt die Regierung auch auf Einsparungen. Gewerkschaften und Verbände warnen vor weitreichenden Folgen.",
-   "u": "https://taz.de/Kritik-an-Pflegereform/!6218640/",
-   "q": "taz",
-   "d": "2026-10-04T11:15:00+00:00"
-  },
-  {
-   "t": "Nach der Wahl in Lettland: Klarer Sieg bei leeren Kassen",
-   "s": "Die Partei des Ministerpräsidenten Andris Kulbergs gewinnt die Wahl mit großem Vorsprung. Die Wahlversprechen umzusetzen wird allerdings schwierig.",
-   "u": "https://taz.de/Nach-der-Wahl-in-Lettland/!6218577/",
-   "q": "taz",
-   "d": "2026-10-04T11:13:00+00:00"
-  },
-  {
-   "t": "Landwirtschaft im Kriegsgebiet: Zarte Pflanzen",
-   "s": "Nach drei Jahren Krieg liegt Gaza in Trümmern, von der Landwirtschaft ist kaum etwas übrig. Einige Bauern arbeiten trotzdem an einer besseren Zukunft.",
-   "u": "https://taz.de/Landwirtschaft-im-Kriegsgebiet/!6214457/",
-   "q": "taz",
-   "d": "2026-10-04T09:22:00+00:00"
-  },
-  {
-   "t": "Vor den Wahlen in Brasilien: Gott, steh uns bei!",
-   "s": "Wer in Brasilien Präsident werden möchte, muss auch die evangelikalen Christen von sich überzeugen. Wie Amtsinhaber „Lula“ und Flávio Bolsonaro um sie buhlen.",
-   "u": "https://taz.de/Vor-den-Wahlen-in-Brasilien/!6214483/",
-   "q": "taz",
-   "d": "2026-10-04T07:27:00+00:00"
   }
  ]
 }

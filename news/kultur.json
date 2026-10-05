@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-04T23:57:41+00:00",
+ "updated": "2026-10-05T10:28:35+00:00",
  "items": [
+  {
+   "t": "Rechtsruck in Brasilien: Bolsonaro liegt knapp vor Lula",
+   "s": "Brasiliens Linksregierung erleidet eine schwere Schlappe, der rechte Flávio Bolsonaro triumphiert. Nun entscheidet die Stichwahl, wer Präsident wird.",
+   "u": "https://taz.de/Rechtsruck-in-Brasilien/!6218796/",
+   "q": "taz",
+   "d": "2026-10-05T06:25:00+00:00"
+  },
   {
    "t": "Gescheiterte Hinrichtung in den USA: Chef von Strafvollzugsbehörde von Tennessee tritt zurück",
    "s": "Im US-Bundesstaat Tennessee muss Behördenchef Frank Strada seinen Posten räumen. Grund sind die Fehler bei der Hinrichtung der Mörderin Christa Pike.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Debatte-um-Wahlbetrug/!6215560/",
    "q": "taz",
    "d": "2026-09-23T08:02:00+00:00"
-  },
-  {
-   "t": "UN-Vollversammlung in New York: Donald Trump zwischen Kriegstreiber und Friedensstifter",
-   "s": "Der US-Präsident nutzt die Generalversammlung der Vereinten Nationen ein weiteres Mal zur Selbstinszenierung. Themen waren unter anderem der Krieg in Iran.",
-   "u": "https://taz.de/UN-Vollversammlung-in-New-York/!6215544/",
-   "q": "taz",
-   "d": "2026-09-23T07:57:00+00:00"
   }
  ]
 }

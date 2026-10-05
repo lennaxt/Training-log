@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-04T23:57:40+00:00",
+ "updated": "2026-10-05T10:28:34+00:00",
  "items": [
+  {
+   "t": "Mietenkampf in Spanien: Spaniens Ministerpräsident kündigt Neuwahlen an",
+   "s": "Das spanische Parlament hatte seine Dekrete zur Bekämpfung der Krise auf dem Wohnungsmarkt abgelehnt. Nun tritt Pedro ‌Sánchez die Flucht nach vorn an.",
+   "u": "https://taz.de/Mietenkampf-in-Spanien/!6218820/",
+   "q": "taz",
+   "d": "2026-10-05T07:44:00+00:00"
+  },
+  {
+   "t": "Brüssel und Budapest: Es geht um Geld, viel Geld",
+   "s": "Nach dem Sturz Orbáns gehen Reformen in Ungarn nur schleppend weiter. Abgeordnete des Europäischen Parlaments kommen kaum an Informationen.",
+   "u": "https://taz.de/Bruessel-und-Budapest/!6218798/",
+   "q": "taz",
+   "d": "2026-10-05T06:41:00+00:00"
+  },
+  {
+   "t": "Homofeinde gegen türkischen Musiker: Verhaftet wegen sexy",
+   "s": "Am Ende schwingen zwei Männer die Hüften. Für die AKP und ihre „Familienpolitik“ ist das Musikvideo von Mabel Matiz ein Problem. Aber es gibt eine Antwort.",
+   "u": "https://taz.de/Homofeinde-gegen-tuerkischen-Musiker/!6218646/",
+   "q": "taz",
+   "d": "2026-10-05T05:12:00+00:00"
+  },
   {
    "t": "Wahltag in Bosnien und Herzegowina: Kampf um Stimmen und Identitäten",
    "s": "Mittelstürmer Edin Džeko lässt sich zum Abschied als multikulturelle Seele Bosniens feiern. Ob sich das auch bei den Wahlen widerspiegelt?",
@@ -53,7 +74,7 @@
   },
   {
    "t": "Deutsche Stiftungen in Georgien: Moskau lässt grüßen",
-   "s": "Die Konrad-Adenauer-Stifung und die Konrad-Naumann-Stiftung ziehen sich aus Georgien zurück. Ein neuer Erfolg Putins gegen die Zivilgesellschaft.",
+   "s": "Die Konrad-Adenauer-Stiftung und die Friedrich-Naumann-Stiftung ziehen sich aus Georgien zurück. Ein neuer Erfolg Putins gegen die Zivilgesellschaft.",
    "u": "https://taz.de/Deutsche-Stiftungen-in-Georgien/!6218596/",
    "q": "taz",
    "d": "2026-10-04T11:26:00+00:00"
@@ -87,7 +108,7 @@
    "d": "2026-10-04T07:09:00+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Drohnen-Angriff auf Brücke während Merz-Besuchs",
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Drohnen-Angriff auf Brücke während Merz-Besuch",
    "s": "Trotz russischer Reisewarnung stattet Kanzler Merz der Ukraine einen Solidaritätsbesuch ab. Während seines Aufenthalts gibt es mehrfachen Drohnenalarm.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6218573/",
    "q": "taz",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Treffen-der-EU-Innenminister/!6218458/",
    "q": "taz",
    "d": "2026-10-02T09:34:00+00:00"
-  },
-  {
-   "t": "Mietenproteste in Spanien: Unerträgliche Wohnungssituation",
-   "s": "In Madrid protestieren die Menschen nach der Zwangsräumung einer Rentnerin für bezahlbaren Wohnraum. Zu hohe Mieten sehen alle als Problem.",
-   "u": "https://taz.de/Mietenproteste-in-Spanien/!6214478/",
-   "q": "taz",
-   "d": "2026-10-02T08:29:00+00:00"
-  },
-  {
-   "t": "UN-Flüchtlingshilfswerk warnt: Bildung von Flüchtlingskindern in Gefahr",
-   "s": "Globale Mittelkürzungen lassen das Schulangebot für Kinder auf der Flucht schrumpfen. Besonders schlimm ist das für Mädchen in der Sekundarstufe.",
-   "u": "https://taz.de/UN-Fluechtlingshilfswerk-warnt/!6218449/",
-   "q": "taz",
-   "d": "2026-10-02T08:07:00+00:00"
-  },
-  {
-   "t": "Geflüchtete an der Grenze Lettlands: Mit Grüßen aus Moskau",
-   "s": "Die Zahl der Geflüchteten, die über Belarus nach Lettland kommen, steigt. NGOs und Grenzbeamte vermuten Russland als Akteur im Hintergrund.",
-   "u": "https://taz.de/Gefluechtete-an-der-Grenze-Lettlands/!6216311/",
-   "q": "taz",
-   "d": "2026-10-02T07:45:00+00:00"
   }
  ]
 }

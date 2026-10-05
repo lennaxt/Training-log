@@ -1,7 +1,35 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-04T23:57:39+00:00",
+ "updated": "2026-10-05T10:28:33+00:00",
  "items": [
+  {
+   "t": "Zerwürfnis im Gemeinderat: Mit der Brechstange",
+   "s": "Im schleswig-holsteinischen Schellhorn setzt ein stellvertretender Bürgermeister Gemeinderäte unter Druck. Sein Ziel: private Bauvorhaben voranbringen.",
+   "u": "https://taz.de/Zerwuerfnis-im-Gemeinderat/!6217845/",
+   "q": "taz",
+   "d": "2026-10-05T08:00:00+00:00"
+  },
+  {
+   "t": "Wegen Äußerung nach Berlin-Wahl: Linke zieht gegen Ministerin Reiche vor Gericht",
+   "s": "Die Linke wirft Katherina Reiche vor, als Ministerin das Neutralitätsgebot verletzt zu haben. Nun will sie das Bundesverfassungsgericht entscheiden lassen.",
+   "u": "https://taz.de/Wegen-Aeusserung-nach-Berlin-Wahl/!6218809/",
+   "q": "taz",
+   "d": "2026-10-05T07:25:00+00:00"
+  },
+  {
+   "t": "NSU-Mord in Hamburg: Der Generalbundesanwalt behindert Aufarbeitung",
+   "s": "Ein volles Jahr wartet das von der Bürgerschaft beauftragte Forschungsteam nun schon auf die Freigabe von Polizei-Akten. Viel Zeit bleibt nicht mehr.",
+   "u": "https://taz.de/NSU-Mord-in-Hamburg/!6215548/",
+   "q": "taz",
+   "d": "2026-10-05T06:00:00+00:00"
+  },
+  {
+   "t": "Strafrechtsverschärfung: Hetze kann Mandat kosten",
+   "s": "Wer wegen Volksverhetzung zu mindestens einem Jahr Haft verurteilt wird, soll künftig weder kandidieren noch verbeamtet werden dürfen.",
+   "u": "https://taz.de/Strafrechtsverschaerfung/!6218600/",
+   "q": "taz",
+   "d": "2026-10-05T05:10:00+00:00"
+  },
   {
    "t": "Politisches Gender Gap: Packt sie beim Geld!",
    "s": "In Sachsen-Anhalt liegt der Frauenanteil im Parlament nur bei 22 Prozent. Anderswo ist es ähnlich. Doch es gibt effektive Wege, für Parität zu sorgen.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Konsequenzen-fuer-Kocak/!6218425/",
    "q": "taz",
    "d": "2026-10-01T17:05:00+00:00"
-  },
-  {
-   "t": "Gipfel gegen soziale Ungleichheit: „Billiger kann ich gar nicht leben“",
-   "s": "Auf dem Armutsgipfel kommen Betroffene und Verbände zusammen. Viele Probleme seien für Menschen aus der Mittelschicht gar nicht nachvollziehbar, heißt es.",
-   "u": "https://taz.de/Gipfel-gegen-soziale-Ungleichheit/!6218064/",
-   "q": "taz",
-   "d": "2026-10-01T16:57:00+00:00"
-  },
-  {
-   "t": "Illegale Wahlkampffinanzierung: Muss die Wahl in Sachsen-Anhalt wiederholt werden?",
-   "s": "Parteienrechtlerin Sophie Schönberger hält die Landtagswahl für anfechtbar: Die AfD-Landtagsfraktion bezahlte zentrale Wahlkampfveranstaltungen.",
-   "u": "https://taz.de/Illegale-Wahlkampffinanzierung/!6218421/",
-   "q": "taz",
-   "d": "2026-10-01T15:41:00+00:00"
-  },
-  {
-   "t": "Studie zu größten Ängsten: Deutsche sorgen sich mehr ums Geld als ums Klima",
-   "s": "Die Deutschen haben laut einer Umfrage Angst vor höheren Preisen, Steuern und Mieten. Nachgelassen hat trotz Rekordhitze die Angst vor dem Klimawandel.",
-   "u": "https://taz.de/Studie-zu-groessten-Aengsten/!6218026/",
-   "q": "taz",
-   "d": "2026-10-01T13:11:00+00:00"
-  },
-  {
-   "t": "Krise bei Volkswagen: Neue Arbeitskämpfe stehen bevor",
-   "s": "Das VW-Management hat fast alle Haustarifverträge gekündigt. Auch jenseits von Wolfsburg stehen schwierige Tarifgespräche an.",
-   "u": "https://taz.de/Krise-bei-Volkswagen/!6214489/",
-   "q": "taz",
-   "d": "2026-10-01T12:59:00+00:00"
   }
  ]
 }

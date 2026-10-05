@@ -1,7 +1,56 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-04T23:57:37+00:00",
+ "updated": "2026-10-05T10:28:32+00:00",
  "items": [
+  {
+   "t": "Seit Mai: E-Auto-Prämie an 100.000 Antragsteller ausgezahlt",
+   "s": "Die neue Prämie zur Förderung von E-Autos hat laut Umweltminister Schneider die Erwartungen übertroffen. Geld sei bereits an 100.000 Antragsteller geflossen - viele von ihnen mit geringerem Einkommen.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-praemie-126.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T10:27:00+00:00"
+  },
+  {
+   "t": "E-Autos boomen bei deutschen Käufern",
+   "s": "Die hohen Spritpreise lassen offenbar viele Menschen umdenken: Mehr als jedes dritte neu zugelassene Auto war zuletzt ein Elektroauto. Die Zulassungen von Benzin- und Dieselautos brachen dagegen ein.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/neuzulassungen-pkw-kba-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T10:01:36+00:00"
+  },
+  {
+   "t": "Streckensanierung Berlin-Hannover wird aufwendiger - und teurer",
+   "s": "Fast 1,5 Stunden länger brauchen nun Züge zwischen Hannover und Berlin. Und die Generalsanierung soll mehr als ein Jahr dauern - wesentlich länger als noch vor kurzem angekündigt. Das führt zu Protesten. Von Andre Kartschall.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-hannover-berlin-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T09:15:37+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 05.10.2026",
+   "s": "Update Wirtschaft vom 05.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1660528.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T08:19:22+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX mit angezogener Handbremse",
+   "s": "Der DAX ist kaum verändert in die neue Woche gestartet. Für gedämpfte Stimmung sorgt am Morgen ein erneuter Rückgang beim Euro. Auch weiterhin hohe Ölpreise bleiben eine Belastung.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T07:51:50+00:00"
+  },
+  {
+   "t": "Warum immer mehr junge Menschen einen Job in der Pflege wollen",
+   "s": "Immer mehr junge Menschen entscheiden sich für eine Ausbildung im Gesundheitswesen: Kliniken melden Bewerberrekorde, Pflegeschulen haben Wartelisten. Gleichzeitig bleibt der Fachkräftemangel groß. Von Johannes Baumert.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ausbildungsboom-pflege-gesundheit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T04:47:41+00:00"
+  },
+  {
+   "t": "SPD-Basis setzt rote Linien bei der Arbeitszeitreform",
+   "s": "Die Koalition will Arbeitszeitregeln flexibler machen. Nun meldet sich die SPD-Basis zu Wort: Keine Wochenarbeitszeit ohne Tarifvertrag, heißt es in einem Positionspapier. Das könnte neuen Streit in der Koalition bedeuten. Von Jan-Peter Bartels.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/spd-arbeitszeit-woche-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T03:00:50+00:00"
+  },
   {
    "t": "Influencer werden für ethische Jagd zum Problem",
    "s": "Für die Reichweite in sozialen Medien bringt Action oft mehr als Jagdethik. Einen verantwortungsvollen Umgang mit Waffen gibt es dabei bisweilen nicht. Jagdausstatter distanzieren sich deshalb von einigen Influencern. Von B. Augustin.",
@@ -45,13 +94,6 @@
    "d": "2026-10-02T18:00:23+00:00"
   },
   {
-   "t": "Marktbericht: DAX geht versöhnlich ins Wochenende",
-   "s": "Der DAX hat angesichts schwacher US-Arbeitsmarktdaten zugelegt. Die nähren die Hoffnung, dass die US-Notenbank Fed von einer weiteren Erhöhung der Leitzinsen vorerst absehen kann.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T16:49:21+00:00"
-  },
-  {
    "t": "Kaufhauskette Galeria taumelt in die vierte Insolvenz",
    "s": "Deutschlands letzte große Warenhauskette Galeria hat erneut Insolvenz angemeldet - es ist bereits die vierte innerhalb von sechs Jahren. Wie es mit den etwa 12.000 Mitarbeitenden in den 83 Warenhäusern weitergeht, ist unklar.",
    "u": "https://www.tagesschau.de/wirtschaft/galeria-insolvenz-100.html",
@@ -73,32 +115,11 @@
    "d": "2026-10-02T09:22:31+00:00"
   },
   {
-   "t": "Nach BGH-Urteil - Amazon senkt Preis für langjährige Prime-Kunden",
-   "s": "Der Bundesgerichtshof hatte eine Preiserhöhung von Amazon Prime für rechtswidrig erklärt. Der Konzern hat nun reagiert: Für langjährige Prime-Kunden gilt vorübergehend wieder der alte Preis. Betroffene können zudem Geld zurückfordern.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T09:08:12+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 02.10.2026",
-   "s": "Update Wirtschaft vom 02.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1659176.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T07:49:42+00:00"
-  },
-  {
    "t": "Commerzbank: Braucht Deutschland schärferes Übernahmerecht?",
    "s": "Die Fälle Commerzbank, Hugo Boss und ProSiebenSat.1 zeigen, wie leicht Investoren in Deutschland ihre Kontrolle ausbauen können. Andere Länder setzen beim Aktionärsschutz strengere Grenzen. Von Angela Göpfert.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-uebernahmerecht-deutschland-100.html",
    "q": "Tagesschau",
    "d": "2026-10-02T07:16:35+00:00"
-  },
-  {
-   "t": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
-   "s": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen Missstände an Schulen.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T21:02:22+00:00"
   },
   {
    "t": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
@@ -108,55 +129,6 @@
    "d": "2026-10-01T17:49:18+00:00"
   },
   {
-   "t": "Google schickt testweise KI-Chips ins All - Rechenzentren im All",
-   "s": "Unendliche Weite und extrem niedrige Temperaturen: Das Weltall könnte Potenzial für Rechenzentren bergen, die auf der Erde Ressourcen verbrauchen. Google wagt nun einen ersten Schritt in diese Richtung - trotz technischer Hürden. Von David Beck.",
-   "u": "https://www.tagesschau.de/wissen/weltraum/ki-chips-im-all-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T16:17:17+00:00"
-  },
-  {
-   "t": "BGH kippt Preiserhöhung bei Amazon Prime",
-   "s": "Eine Preiserhöhung von Amazon Prime vor vier Jahren ist laut BGH-Urteil unwirksam. Bestimmte Kundinnen und Kunden können jetzt Geld zurückverlangen. Verbraucherschützer raten zur Sammelklage. Von Klaus Hempel.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T15:47:54+00:00"
-  },
-  {
-   "t": "Start des neuen \"Tankrabatts\": Spritpreise sinken deutlich",
-   "s": "Der neue \"Tankrabatt\" macht sich an den Zapfsäulen bemerkbar: Benzin und Diesel sind zum Start deutlich billiger geworden. Doch wie lange hält die Entlastung? Das Bundeskartellamt will die Preise genau beobachten. Von Jens Eberl.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-320.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T14:11:15+00:00"
-  },
-  {
-   "t": "VW kündigt Tarifverträge: Was heißt das für Beschäftigte?",
-   "s": "Im Zuge des verschärften Sparprogramms hat das Volkswagen-Management einen Großteil der bestehenden Tarifverträge gekündigt. Was bedeutet das für Beschäftigte?",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-vw-arbeitskampf-tarifvertrag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T13:19:39+00:00"
-  },
-  {
-   "t": "Neuer \"Tankrabatt\" startet mit stark fallenden Preisen",
-   "s": "Seit Mitternacht gilt der neue \"Tankrabatt\" und zeigt schnell Wirkung. E10 kostete am Morgen mancherorts sogar weniger als zwei Euro. Unklar ist, ob die gesamte Entlastung bei Verbrauchern ankommen wird - die Maßnahme bleibt umstritten.",
-   "u": "https://www.tagesschau.de/wirtschaft/spritpreise-tankrabatt-116.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T11:59:27+00:00"
-  },
-  {
-   "t": "Teile des Batterieherstellers Varta gehen ins Insolvenzverfahren",
-   "s": "Für vier Gesellschaften des angeschlagenen Batterieherstellers Varta beginnt ein Insolvenzverfahren. Ziel ist es, neue Eigentümer für die Firmen zu finden. Die Chancen stehen wohl nicht schlecht.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/batteriehersteller-varta-investoren-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T11:38:57+00:00"
-  },
-  {
-   "t": "Warum Schwarz-Rot auf den \"Tankrabatt\" setzt",
-   "s": "Eigentlich wollte die Regierung hohe Spritpreise nicht einfach \"wegsubventionieren\". Doch seit heute gilt die Neuauflage des \"Tankrabatts\". Warum Union und SPD trotz Kritik darauf setzen - und was danach kommen soll. Von A.-K. Mellmann und B. Großkopff.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundesregierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T11:11:49+00:00"
-  },
-  {
    "t": "Kanzleramt bremst beim Gesetzentwurf zur Zuckersteuer",
    "s": "Die geplante Zuckersteuer sorgt weiter für Schlagzeilen: Der von Finanzminister Klingbeil vorgelegte Gesetzentwurf stößt auf Widerstand im Kanzleramt. Der Entwurf weiche von Empfehlungen einer Finanzkommission ab.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-kanzleramt-100.html",
@@ -164,11 +136,39 @@
    "d": "2026-10-01T11:01:33+00:00"
   },
   {
-   "t": "Was Autofahrer zum Start des neuen \"Tankrabatts\" wissen müssen",
-   "s": "Ab heute gilt ein neuer \"Tankrabatt\". Wie kommen Kunden an günstigeren Sprit? Wann lohnt sich das Tanken und wie viel kann man sparen? Was man zum Start des \"Tankrabatts\" wissen muss.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-tankrabatt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T08:34:33+00:00"
+   "t": "Gewerbesteueroasen - Standortwettbewerb auf Kosten von Kommunen",
+   "s": "Steueroasen gibt es nicht nur auf den Cayman Islands, sondern auch in Deutschland. Sie sind legal, führen aber auch zu Missbrauch durch Unternehmer. Leidtragende sind die Kommunen.",
+   "u": "https://www.deutschlandfunk.de/steueroasen-deutschland-gewerbesteuer-kommunen-unternehmen-hebesatz-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-27T15:20:00+00:00"
+  },
+  {
+   "t": "Vergesellschaftung - Soziale Wohnungspolitik mit Risiken",
+   "s": "Die Linke will in Berlin Wohnungsbestände von großen Konzernen vergesellschaften. Nach dem Grundgesetz ist das prinzipiell möglich. Welche Folgen hätte das für die Mieten? Und ist es auch ein Mittel gegen die Wohnungsnot?",
+   "u": "https://www.deutschlandfunk.de/vergesellschaftung-enteignung-wohnungen-berlin-linke-elif-eralp-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-27T14:18:00+00:00"
+  },
+  {
+   "t": "Spritpreisdeckel - Warnungen vor Risiken und Nebenwirkungen",
+   "s": "Die Bundesregierung will Autofahrer angesichts steigender Spritpreise gleich doppelt entlasten. Neben dem gerade beschlossenen Tankrabatt ist auch ein sogenannter Spritpreisdeckel in der Diskussion. Es wäre ein ungewöhnlicher Eingriff in den Markt.",
+   "u": "https://www.deutschlandfunk.de/tankrabatt-spritpreisbremse-entlastung-benzinpreis-auto-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-25T15:42:00+00:00"
+  },
+  {
+   "t": "Marktmacht - Kampf den Kartellen",
+   "s": "Ob hohe Preissprünge an der Zapfsäule oder die Marktmacht globaler Tech-Riesen: In Deutschland soll das Bundeskartellamt den Wettbewerb sichern. Doch der Kampf gegen die Branchenriesen ist schwierig und wird schon lange ausgefochten.",
+   "u": "https://www.deutschlandfunk.de/bundeskartellamt-kartellrecht-marktmacht-wettbewerb-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-24T14:56:00+00:00"
+  },
+  {
+   "t": "Schweden - Die Rückkehr des Bargelds",
+   "s": "Schweden ist Vorreiter des bargeldlosen Zahlens. Doch nun müssen Supermärkte und Apotheken wieder Münzen und Scheine annehmen. Der Kurswechsel ist eine Reaktion auf Sicherheitsrisiken und wirft die Frage auf: Wie resilient ist unser Zahlungssystem?Von Konstantin Schönfelder",
+   "u": "https://www.deutschlandfunk.de/schweden-bargeld-rueckkehr-pflicht-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-19T08:23:00+00:00"
   }
  ]
 }

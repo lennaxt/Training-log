@@ -1,13 +1,90 @@
 {
  "name": "Ausland",
- "updated": "2026-10-04T23:57:36+00:00",
+ "updated": "2026-10-05T10:28:31+00:00",
  "items": [
   {
-   "t": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula steuern auf Stichwahl zu",
-   "s": "Die Abstimmung um die Präsidentschaft in Brasilien gilt als Richtungswahl. Derzeit werden die Stimmen ausgezählt. Herausforderer Bolsonaro liegt zwar vorn - aber die bisherigen Ergebnisse deuten auf eine Stichwahl mit Amtsinhaber Lula hin.",
+   "t": "Alltag in Iran zwischen Wirtschaftskrise und Angst vor Krieg",
+   "s": "Im Krieg der USA gegen Iran ist keine Lösung in Sicht. Gekämpft wird zwar nicht, Gespräche haben aber keine Fortschritte gebracht. Die wirtschaftliche Lage in Iran bleibt katastrophal. Wie beeinflusst das den Alltag? Von B. Weber.",
+   "u": "https://www.tagesschau.de/ausland/asien/iran-alltag-wirtschaftskrise-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T09:26:49+00:00"
+  },
+  {
+   "t": "Dänisches Melderegister mit Daten von 8,8 Millionen Menschen gehackt",
+   "s": "Unbekannte haben sich Zugriff zum dänischen Melderegister verschafft. Die zuständige Ministerin spricht von einem äußerst schwerwiegenden Vorfall. Daten von 8,8 Millionen Menschen sind betroffen.",
+   "u": "https://www.tagesschau.de/ausland/europa/daenemark-hackerangriff-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T09:14:13+00:00"
+  },
+  {
+   "t": "Solidarität mit Studentin \"Jane Doe\" nach Vergewaltigungsklage",
+   "s": "Unter dem Motto \"Ich bin Jane Doe\" solidarisieren sich weltweit Menschen in den sozialen Medien mit einer Studentin. Unter diesem Pseudonym hatte die junge Frau eine Klage wegen Gruppenvergewaltigung eingereicht.",
+   "u": "https://www.tagesschau.de/ausland/amerika/jane-doe-cornell-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T08:34:36+00:00"
+  },
+  {
+   "t": "Spanien: Regierungschef Sánchez kündigt Neuwahlen an",
+   "s": "Der Streit über die Wohnungsmarktpolitik führt zu Neuwahlen in Spanien. Regierungschef Sánchez kündigte eine vorgezogene Parlamentswahl im November an. Seine Sozialisten liegen in Umfragen hinter den Konservativen.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T08:11:20+00:00"
+  },
+  {
+   "t": "Holocaust-Überlebende Irene Butter in den USA verstorben",
+   "s": "Die Holocaust-Überlebende und Friedensaktivistin Irene Butter ist in den USA verstorben. Die gebürtige Berlinerin wurde 95 Jahre alt. Vor zwei Jahren hatte sie das Bundesverdienstkreuz für ihre Aufklärungsarbeit als Zeitzeugin erhalten.",
+   "u": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T07:52:58+00:00"
+  },
+  {
+   "t": "Vorgezogene Wahl: Das Kalkül von Spaniens \"Überlebenskünstler\" Sánchez",
+   "s": "Schon die vergangenen Regierungsjahre von Spaniens Ministerpräsident Sánchez glichen einer Achterbahnfahrt. Dass er nun vorgezogene Wahlen ausgerufen hat, dürfte mit einer Umfrage zum Thema \"Mieterschutz\" zusammenhängen. Von S. Kisters.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-sanchez-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T07:22:10+00:00"
+  },
+  {
+   "t": "Ukraine: Neuer deutscher Besuch, neue russische Angriffe",
+   "s": "Nach Bundeskanzler Merz besucht Bildungsministerin Prien die Ukraine und betont Deutschlands Unterstützung. Die sei auch im eigenen Interesse, betont CDU-Politiker Röttgen. Die Ukraine meldet derweil neue Angriffe.",
+   "u": "https://www.tagesschau.de/ausland/europa/prien-besuch-ukraine-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T07:02:36+00:00"
+  },
+  {
+   "t": "Stichwahl nötig: Brasilien rückt weiter nach rechts",
+   "s": "Bolsonaro oder Lula? Bei der Präsidentschaftswahl in Brasilien gehen beide Kandidaten in eine Stichwahl. Der Sohn des Ex-Präsidenten gilt als Favorit. Er profitiert von Unzufriedenheit über hohe Lebenshaltungskosten und Kriminalität. Von A. Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-ergebnis-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T05:41:41+00:00"
+  },
+  {
+   "t": "Österreichs Vizekanzler und SPÖ-Chef Babler kündigt Rückzug an",
+   "s": "Der Chefposten der SPÖ in Österreich gilt als Schleudersitz. Und er wurde seinem Ruf erneut gerecht: Vizekanzler und Parteichef Babler zieht sich zurück. Damit will er eine stabile Regierung gewährleisten - und Neuwahlen verhindern. Von S. Hahne.",
+   "u": "https://www.tagesschau.de/ausland/europa/oesterreich-rueckzug-vizekanzler-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T03:04:40+00:00"
+  },
+  {
+   "t": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
+   "s": "Washington hat seine Langstreckenbomber vom britischen Militärstützpunkt Fairford zurückbeordert - aus Sicherheitsgründen, wie das Pentagon erklärte. Vor einer Woche waren dort Männer wegen möglicher Anschlagspläne festgenommen worden.",
+   "u": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T01:56:23+00:00"
+  },
+  {
+   "t": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula ziehen in Stichwahl ein",
+   "s": "Die Präsidentenwahl in Brasilien wird in einer Stichwahl entschieden: Herausforderer Bolsonaro liegt nach Auszählung fast aller Stimmen zwar etwas vor Amtsinhaber Lula - aber die absolute Mehrheit erreichten beide nicht.",
    "u": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-04T23:24:40+00:00"
+   "d": "2026-10-05T01:35:56+00:00"
+  },
+  {
+   "t": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
+   "s": "Bei den Wahlen in Bosnien und Herzegowina haben vor allem nationalistische Kräfte die Oberhand. Beobachter halten mit dem nun gewählten Staatspräsidium eine Begnadigung von Ex-Machthaber Dodik für möglich. Von S. Hahne.",
+   "u": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html",
+   "q": "Tagesschau",
+   "d": "2026-10-05T00:33:07+00:00"
   },
   {
    "t": "Regierung im Jemen verkündet Großoffensive gegen Huthi-Miliz",
@@ -59,13 +136,6 @@
    "d": "2026-10-04T11:43:22+00:00"
   },
   {
-   "t": "Holocaust-Überlebende Irene Butter in den USA verstorben",
-   "s": "Die Holocaust-Überlebende und Friedensaktivistin Irene Butter ist in den USA verstorben. Die gebürtige Berlinerin wurde 95 Jahre alt. Vor zwei Jahren hatte sie das Bundesverdienstkreuz für ihre Aufklärungsarbeit als Zeitzeugin erhalten.",
-   "u": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T10:54:10+00:00"
-  },
-  {
    "t": "Jemens Militär greift Huthi-Hochburgen an",
    "s": "Im Jemen flammen die Kämpfe zwischen Regierungstruppen und der Huthi-Miliz erneut auf. Das Militär griff unter anderem Ziele in der Hauptstadt Sanaa an, die von der pro-iranischen Gruppe kontrolliert wird.",
    "u": "https://www.tagesschau.de/ausland/asien/angriffe-jemen-102.html",
@@ -99,76 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-lula-bolsonaro-100.html",
    "q": "Tagesschau",
    "d": "2026-10-04T06:09:05+00:00"
-  },
-  {
-   "t": "Krieg gegen die Ukraine: Kanzler Merz besucht Kiew",
-   "s": "Es soll auch um weitere militärische Unterstützung gehen: Bundeskanzler Merz ist zu einem Solidaritätsbesuch in Kiew eingetroffen. Zuvor hatte Russland vor Reisen in die Ukraine gewarnt.",
-   "u": "https://www.tagesschau.de/ausland/europa/eilmeldung-merz-kiew-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T04:44:05+00:00"
-  },
-  {
-   "t": "Bosnien und Herzegowina: Mit neuer Technik mehr Vertrauen in die Wahlen",
-   "s": "In Bosnien und Herzegowina werden das Parlament, das dreiköpfige Staatspräsidium und die Regionalregierungen gewählt. Neue Technik soll dabei helfen, Manipulationen zu erschweren. Von S. Hahne.",
-   "u": "https://www.tagesschau.de/ausland/europa/bosnien-und-herzegowina-wahl-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T03:04:08+00:00"
-  },
-  {
-   "t": "Luftangriff: Rettungskräfte melden Tote im Gazastreifen",
-   "s": "Bei einem Luftangriff im Gazastreifen sind nach Angaben von palästinensischen Rettungskräften mehrere Menschen getötet worden. Die israelische Armee gab an, ein hochrangiges Hamas-Mitglied angegriffen zu haben.",
-   "u": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T23:54:49+00:00"
-  },
-  {
-   "t": "Todesstrafe in Tennessee: Neue Details zu gescheiterter Hinrichtung",
-   "s": "Nach der missglückten Hinrichtung liegt die zum Tode verurteilte Christa Pike bewusstlos in einem Krankenhaus und wird künstlich beatmet. Nun gerät das Personal in den Fokus - der Behördenchef ist zurückgetreten.",
-   "u": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T17:04:05+00:00"
-  },
-  {
-   "t": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
-   "s": "Erneut hat Russland eine Brücke in der ukrainischen Hauptstadt beschossen. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews getroffen worden. Angriffe gab es auch in anderen Landesteilen. Mehrere Menschen wurden getötet.",
-   "u": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T15:03:41+00:00"
-  },
-  {
-   "t": "Landesweit große Demos gegen Wohnungsnot in Spanien",
-   "s": "Nach dem Scheitern wichtiger Mietdekrete sind in Spanien viele Menschen auf die Straße gegangen. Veranstalter sprechen von 500.000 Teilnehmern allein in Madrid - die Regierung von 70.000. Derweil gibt es Spekulationen über Neuwahlen.",
-   "u": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T14:22:55+00:00"
-  },
-  {
-   "t": "Walfang-Konferenz in Australien: Schutzgebiet scheitert erneut",
-   "s": "Die Internationale Walfangkommission hat in Australien über die weltweiten Bestände beraten. Auf ein großes Schutzgebiet konnten sich die Mitglieder nicht verständigen - dafür aber auf andere Maßnahmen. Von Jennifer Johnston.",
-   "u": "https://www.tagesschau.de/ausland/ozeanien/australien-walschutz-konferenz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T10:56:13+00:00"
-  },
-  {
-   "t": "Frankreich: Seit Montag mehr als 5.000 Festnahmen bei Schülerprotesten",
-   "s": "Bei den Schülerprotesten in Frankreich sind in dieser Woche mehr als 5.000 Menschen festgenommen worden - die meisten von ihnen waren minderjährig. Laut Regierung gab es Angriffe auf Ordnungskräfte, Lehrer und Passanten.",
-   "u": "https://www.tagesschau.de/ausland/frankreich-schuelerproteste-festnahmen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T10:47:51+00:00"
-  },
-  {
-   "t": "Großbritanniens Zusammenarbeit mit der EU: Bye-bye, Brexit?",
-   "s": "Großbritanniens Premier Burnham nährt mit einer Aussage Diskussionen um einen Wiedereintritt seines Landes in die EU. Gründe zur Zusammenarbeit gäbe es genug. Aber wäre eine Rückkehr wirklich denkbar? Von Sabrina Fritz.",
-   "u": "https://www.tagesschau.de/ausland/europa/grossbritannien-zusammenarbeit-eu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T09:54:11+00:00"
-  },
-  {
-   "t": "Fall Widdecombe: Möglicherweise auch Anschlag auf Farage geplant",
-   "s": "Im Juli wurde ein 28-Jähriger im Fall der getöteten Brexit-Politikerin Widdecombe wegen Mordes angeklagt. Die Ermittler stellen nun eine Verbindung zu weiteren Anschlagspläne her - unter anderem gegen Rechtspopulist Farage.",
-   "u": "https://www.tagesschau.de/ausland/europa/mord-ann-widdecombe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T09:11:57+00:00"
   }
  ]
 }
