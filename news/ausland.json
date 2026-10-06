@@ -1,7 +1,63 @@
 {
  "name": "Ausland",
- "updated": "2026-10-05T22:01:25+00:00",
+ "updated": "2026-10-06T10:19:54+00:00",
  "items": [
+  {
+   "t": "US-Bundesstaat Pennsylvania meldet mehr als 1.000 Masern-Fälle",
+   "s": "Der US-Bundesstaat Pennsylvania hat mehr als 1.000 Masern-Fälle gemeldet - das ist der höchste Stand seit 35 Jahren. Etwa 200 Menschen werden im Krankenhaus behandelt, fünf sind gestorben. Von Nina Barth.",
+   "u": "https://www.tagesschau.de/ausland/amerika/pennsylvania-masern-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T09:36:32+00:00"
+  },
+  {
+   "t": "Solidarität mit Jane Doe: \"Es geht um unsere Körper, um unsere Leben!\"",
+   "s": "Seit Tagen sorgt eine mutmaßliche Gruppenvergewaltigung in den USA für Schlagzeilen. Der Fall ist zwei Jahre her. Die mangelhafte Aufklärung macht Studierende der Cornell University wütend. Von M. Ganslmeier.",
+   "u": "https://www.tagesschau.de/ausland/amerika/jane-doe-cornell-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T07:30:38+00:00"
+  },
+  {
+   "t": "Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation",
+   "s": "Unterrichtsausfall, marode Gebäude, ungleiche Bildungschancen: Frankreichs Schüler gehen dagegen seit Tagen auf die Straße. Auch für heute sind Proteste angekündigt - begleitet von der Sorge vor weiterer Eskalation. Von J. Borutta.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerdemos-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T07:17:43+00:00"
+  },
+  {
+   "t": "Reformdruck nicht nur auf Beitrittskandidaten - auch auf die EU",
+   "s": "Die EU will reformbereite Beitrittskandidaten nicht endlos warten lassen. Doch da die strengen Reformkriterien noch nicht erfüllt sind, bedarf es dafür neuer Modelle. Und auch die EU selbst muss sich noch vorbereiten. Von Tina Hassel.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-erweiterungsbericht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T06:45:06+00:00"
+  },
+  {
+   "t": "Trump erlaubt angesichts hoher Spritpreise Nutzung von steuerfreiem Diesel",
+   "s": "Mit dem Iran-Krieg ist das Tanken auch in den USA deutlich teurer geworden. Nun verspricht US-Präsident Trump Abhilfe: Autofahrer sollen steuerfreien, \"roten\" Diesel nutzen können. Der ist bisher nur in der Landwirtschaft erlaubt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T05:30:33+00:00"
+  },
+  {
+   "t": "Debatte über Meinungsfreiheit: Warum viele ihre Meinung lieber für sich behalten",
+   "s": "Offene Debatten und politische Diskussionen: Meinungsfreiheit gehört zum nationalen Selbstverständnis der US-Amerikaner. Doch Studien zeigen: An den Universitäten behalten immer mehr ihre Ansichten lieber für sich. Von Anne Schneider.",
+   "u": "https://www.tagesschau.de/ausland/amerika/free-speech-usa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T05:22:59+00:00"
+  },
+  {
+   "t": "\"Hallo\" statt \"Privjet\": An Lettlands Schulen ist Russisch verboten",
+   "s": "Lettland will sich sprachlich stärker nach Europa orientieren - seit diesem Schuljahr darf Russisch an Schulen nicht mehr als Fremdsprache unterrichtet werden. Besonders populär wird stattdessen: Deutsch. Von Arne Bartram.",
+   "u": "https://www.tagesschau.de/ausland/europa/lettland-schulen-russisch-deutsch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T04:46:48+00:00"
+  },
+  {
+   "t": "Türkei und Pakistan entsenden Truppen nach Saudi-Arabien",
+   "s": "Aufgrund von Huthi-Angriffen auf Saudi-Arabien schicken Pakistan und die Türkei Truppen zur Unterstützung. Zudem wurden Explosionen in der Hauptstadt Riad gemeldet.",
+   "u": "https://www.tagesschau.de/ausland/asien/tuerkei-pakistan-saudi-arabien-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T00:54:01+00:00"
+  },
   {
    "t": "America.gov: Digitaler Service oder Überwachung per KI?",
    "s": "Die US-Regierung will Behördengänge in einer einzigen, KI-gestützten Plattform bündeln. Bequem, schnell und angeblich ohne zentrale Datensammlung. Doch wer liest mit, wenn Bürger einem Chatbot ihre Lebenssituation anvertrauen? Von Samuel Jackisch.",
@@ -59,13 +115,6 @@
    "d": "2026-10-05T08:11:20+00:00"
   },
   {
-   "t": "Holocaust-Überlebende Irene Butter in den USA verstorben",
-   "s": "Die Holocaust-Überlebende und Friedensaktivistin Irene Butter ist in den USA verstorben. Die gebürtige Berlinerin wurde 95 Jahre alt. Vor zwei Jahren hatte sie das Bundesverdienstkreuz für ihre Aufklärungsarbeit als Zeitzeugin erhalten.",
-   "u": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T07:52:58+00:00"
-  },
-  {
    "t": "Vorgezogene Wahl: Das Kalkül von Spaniens \"Überlebenskünstler\" Sánchez",
    "s": "Schon die vergangenen Regierungsjahre von Spaniens Ministerpräsident Sánchez glichen einer Achterbahnfahrt. Dass er nun vorgezogene Wahlen ausgerufen hat, dürfte mit einer Umfrage zum Thema \"Mieterschutz\" zusammenhängen. Von S. Kisters.",
    "u": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-sanchez-100.html",
@@ -120,55 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/jemen-huthi-kaempfe-100.html",
    "q": "Tagesschau",
    "d": "2026-10-04T17:43:26+00:00"
-  },
-  {
-   "t": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
-   "s": "Kanzler Merz hat bei seinem Besuch in Kiew erneut Russland zu einem Ende des Krieges aufgefordert. Im Bericht aus Berlin sagte er, für die Stabilität Europas seien weitere Hilfen für die Ukraine wichtig - genau wie eine zuverlässige Bundesregierung.",
-   "u": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T16:43:05+00:00"
-  },
-  {
-   "t": "Wahl in Brasilien: Kommen die Bolsonaros zurück?",
-   "s": "Bei der Wahl in Brasilien geht es heute darum, ob die Bolsonaros zurück an die Macht kommen. Flávio Bolsonaro tritt an - er wurde von seinem verurteilten Vater als Erbe auserkoren. Von Xenia Böttcher.",
-   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-160.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T14:06:39+00:00"
-  },
-  {
-   "t": "Zahl der Asylanträge in der EU offenbar deutlich gesunken",
-   "s": "Die Zahl der Asylanträge in Europa ist gesunken - in den ersten neun Monaten dieses Jahres wurden laut einem Zeitungsbericht im Vergleich zum Vorjahr fast ein Viertel weniger Anträge gestellt. Deutschland liegt auf Platz drei.",
-   "u": "https://www.tagesschau.de/ausland/europa/asylantraege-europa-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T14:03:55+00:00"
-  },
-  {
-   "t": "Merz-Besuch in Kiew: Eine Milliarde Militärhilfe für die Ukraine",
-   "s": "Bundeskanzler Merz hat der Ukraine eine Milliarde Euro an Militärhilfen und weitere 350 Millionen für den Energiesektor zugesagt. Das soll sich auch für Deutschland lohnen: Neue Rüstungsprojekte und ein Wissenstransfer stehen im Fokus.",
-   "u": "https://www.tagesschau.de/ausland/europa/merz-kiew-106.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T13:33:30+00:00"
-  },
-  {
-   "t": "Mehrere Verletzte bei Campingplatz-Brand am Gardasee",
-   "s": "Bei einem Brand auf einem großen Campingplatz am Gardasee in Italien sind mehrere Menschen verletzt worden. Inzwischen sind die Flammen unter Kontrolle - auch dank vier Feuerwehrleuten aus Hessen. Von Ivo Marusczyk.",
-   "u": "https://www.tagesschau.de/ausland/europa/gardasee-brand-campingplatz-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T13:32:18+00:00"
-  },
-  {
-   "t": "Baskenland und Katalonien: Tote bei schweren Unwettern in Spanien",
-   "s": "Bei heftigen Regenfällen in Spanien sind drei Menschen ums Leben gekommen. In Katalonien und im Baskenland wurden Straßen und Keller überflutet - die Feuerwehr war im Dauereinsatz.",
-   "u": "https://www.tagesschau.de/ausland/europa/unwetter-spanien-124.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T11:43:22+00:00"
-  },
-  {
-   "t": "Jemens Militär greift Huthi-Hochburgen an",
-   "s": "Im Jemen flammen die Kämpfe zwischen Regierungstruppen und der Huthi-Miliz erneut auf. Das Militär griff unter anderem Ziele in der Hauptstadt Sanaa an, die von der pro-iranischen Gruppe kontrolliert wird.",
-   "u": "https://www.tagesschau.de/ausland/asien/angriffe-jemen-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T10:05:29+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-05T22:01:30+00:00",
+ "updated": "2026-10-06T10:19:59+00:00",
  "items": [
+  {
+   "t": "Schülerproteste in Frankreich: Protest macht Schule",
+   "s": "Frankreichs Regierung versucht die protestierenden Schü­le­r*in­nen einzuschüchtern und zu diskreditieren. Doch die Jugendlichen bleiben unbeeindruckt.",
+   "u": "https://taz.de/Schuelerproteste-in-Frankreich/!6218897/",
+   "q": "taz",
+   "d": "2026-10-06T05:10:00+00:00"
+  },
   {
    "t": "Grüner Parteitag in Großbritannien: Wie antisemitisch sind die englischen Grünen?",
    "s": "Auf ihrem Parteitag haben die englischen Grünen Zionismus zu Rassismus erklärt. Parteichef Zack Polanski ist abgetaucht und steht jetzt unter Druck.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6218573/",
    "q": "taz",
    "d": "2026-10-04T06:39:00+00:00"
-  },
-  {
-   "t": "Wahlen in Bosnien und Herzegowina: Zwischen Erschöpfung und dem Kampf gegen Wahlbetrug",
-   "s": "In Bosnien und Herzegowina wird am Sonntag gewählt. Die Stimmung in der Bevölkerung ist getrübt. Nur wenige glauben an einen politischen Wechsel.",
-   "u": "https://taz.de/Wahlen-in-Bosnien-und-Herzegowina/!6217644/",
-   "q": "taz",
-   "d": "2026-10-03T18:23:00+00:00"
   }
  ]
 }

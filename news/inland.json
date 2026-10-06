@@ -1,7 +1,105 @@
 {
  "name": "Inland",
- "updated": "2026-10-05T22:01:25+00:00",
+ "updated": "2026-10-06T10:19:54+00:00",
  "items": [
+  {
+   "t": "Krieg in Jemen: Gegenoffensive im Morgengrauen",
+   "s": "Die jemenitischen Huthi-Rebellen wollen nach der Küste am Roten Meer weitere Städte einnehmen. Jetzt läuft ein Gegenangriff. Schickt die Türkei Truppen?",
+   "u": "https://taz.de/Krieg-in-Jemen/!6219269/",
+   "q": "taz",
+   "d": "2026-10-06T09:20:00+00:00"
+  },
+  {
+   "t": "Todesstrafe im US-Militär: Trump genehmigt erste Militärhinrichtung seit über 60 Jahren",
+   "s": "Erstmals seit 1961 könnte es in den USA eine Militärexekution geben: die Erschießung des Fort-Hood-Attentäters, der 2009 auf dem Stützpunkt 13 Menschen tötete.",
+   "u": "https://taz.de/Todesstrafe-im-US-Militaer/!6219275/",
+   "q": "taz",
+   "d": "2026-10-06T08:08:00+00:00"
+  },
+  {
+   "t": "Neuer Landtag in Sachsen-Anhalt: Wahl des ersten AfD-Parlamentspräsidenten steht bevor",
+   "s": "In Magdeburg findet heute die konstituierende Sitzung des neuen Parlaments statt. Für die AfD der erste Schritt zur Macht, der Plenarsaal wurde bereits umgebaut.",
+   "u": "https://taz.de/Liveticker-zu-Sachsen-Anhalt-Erster-AfD-Parlamentspraesident-der-Geschichte-wird-gewaehlt/!6219259/",
+   "q": "taz",
+   "d": "2026-10-06T08:07:00+00:00"
+  },
+  {
+   "t": "Vorsondierungen in der Hauptstadt: Keine Brandmauer durch Berlin",
+   "s": "Mit Rot-Grün-Rot könnte die Linkspartei zur Avantgarde ihrer eigenen Entrevolutionierung werden. Und sollte dabei sogar trotzdem radikal bleiben.",
+   "u": "https://taz.de/Vorsondierungen-in-der-Hauptstadt/!6218825/",
+   "q": "taz",
+   "d": "2026-10-06T07:21:00+00:00"
+  },
+  {
+   "t": "Gedenkstätten in Sachsen-Anhalt: Ins Blaue hinein",
+   "s": "NS-Gedenkstätten sorgen sich vor einer AfD-Regierung. Sie fürchten, dass ihnen die Mittel gekürzt werden. Ein Besuch in der ehemaligen Tötungsanstalt Bernburg.",
+   "u": "https://taz.de/NS-Gedenkstaetten-Besuch-in-der-ehemaligen-Toetungsanstalt-Bernburg-Sachsen-Anhalt/!6215864/",
+   "q": "taz",
+   "d": "2026-10-06T07:21:00+00:00"
+  },
+  {
+   "t": "Haftbefehle gegen Taliban-Führer: Afghanistans Frauenpolitik soll in Den Haag vor Gericht",
+   "s": "Der Internationale Strafgerichtshof macht Haftbefehle gegen Taliban-Führer in Afghanistan öffentlich. Es geht um deren Umgang mit Frauen und Mädchen.",
+   "u": "https://taz.de/Haftbefehle-gegen-Taliban-Fuehrer/!6219258/",
+   "q": "taz",
+   "d": "2026-10-06T07:20:00+00:00"
+  },
+  {
+   "t": "Nach neuem Wehrdienstgesetz: Zahl der Kriegsdienstverweigerer geht weiter steil nach oben",
+   "s": "Die Wehrpflicht ist noch ausgesetzt. Doch die Zahl der Anträge auf Kriegsdienstverweigerung steigt stark – und liegt schon jetzt dreimal höher als 2025.",
+   "u": "https://taz.de/Nach-neuem-Wehrdienstgesetz/!6219255/",
+   "q": "taz",
+   "d": "2026-10-06T07:18:00+00:00"
+  },
+  {
+   "t": "Landtagspräsidentenwahl - Siegmund rechnet mit Mehrheit für AfD-Kandidat",
+   "s": "AfD-Politiker Ulrich Siegmund bekräftigt den Anspruch seiner Partei auf das Landtagspräsidenten-Amt in Sachsen-Anhalt. Er rechnet damit, dass AfD-Kandidat Tobias Rausch bei der Wahl am Dienstag die Mehrheit bekommt. Nötig sind dafür auch BSW-Stimmen.May, Philipp",
+   "u": "https://www.deutschlandfunk.de/konstituierung-landtag-sachsen-anhalt-int-ulrich-siegmund-afd-fraktionschef-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-06T06:15:13+00:00"
+  },
+  {
+   "t": "Verteidigungsabkommen aktiviert: Türkei und Pakistan entsenden Truppen nach Saudi-Arabien",
+   "s": "Saudi-Arabien gerät mit der neuen Eskalation im Jemen-Krieg wieder unter Beschuss aus dem südlichen Nachbarland. Seine Verbündeten unterstützen das Königreich.",
+   "u": "https://taz.de/Tuerkei-und-Pakistan-entsenden-Truppen-nach-Saudi-Arabien/!6219250/",
+   "q": "taz",
+   "d": "2026-10-06T06:01:00+00:00"
+  },
+  {
+   "t": "Schülerproteste in Frankreich: Protest macht Schule",
+   "s": "Frankreichs Regierung versucht die protestierenden Schü­le­r*in­nen einzuschüchtern und zu diskreditieren. Doch die Jugendlichen bleiben unbeeindruckt.",
+   "u": "https://taz.de/Schuelerproteste-in-Frankreich/!6218897/",
+   "q": "taz",
+   "d": "2026-10-06T05:10:00+00:00"
+  },
+  {
+   "t": "Erste Landtagssitzung in Sachsen-Anhalt: Ein Präsident, sie zu knechten",
+   "s": "Bei der konstituierenden Sitzung könnte ein AfD-Politiker das höchste Amt des Bundeslands bekommen. Die wichtigsten Fragen und Antworten dazu.",
+   "u": "https://taz.de/Erste-Landtagssitzung-in-Sachsen-Anhalt/!6218994/",
+   "q": "taz",
+   "d": "2026-10-06T05:09:00+00:00"
+  },
+  {
+   "t": "Neuwahlen in Spanien - Letzte Chance für Ministerpräsident Sánchez",
+   "s": "Spaniens Ministerpräsident hat für November Neuwahlen angekündigt. Trotz Wirtschaftswachstums ist die Unzufriedenheit im Land groß, vor allem beim Thema Wohnen. Historiker Collado Seidel glaubt, dass Pedro Sánchez die Neuwahl dennoch gewinnen könnte.May, Philipp",
+   "u": "https://www.deutschlandfunk.de/polit-situation-in-spanien-vor-den-neuwahlen-int-mit-carlos-collado-seidel-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-06T04:50:54+00:00"
+  },
+  {
+   "t": "Neuer Wehrdienst: Zahl der Kriegsdienstverweigerer stark angestiegen",
+   "s": "Die Wehrpflicht ist immer noch ausgesetzt in Deutschland. Und doch steigt die Zahl der Anträge auf Kriegsdienstverweigerung stark an. Dafür gibt es Gründe.",
+   "u": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-124.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T03:25:07+00:00"
+  },
+  {
+   "t": "Konstituierende Sitzung in Sachsen-Anhalt: Die AfD und die ganz große Bühne",
+   "s": "Heute richten sich erneut viele Blicke auf Sachsen-Anhalt: Der Landtag kommt zu seiner konstituierenden Sitzung zusammen. Die AfD will erstmals einen Parlamentspräsidenten stellen - und Regierungsfähigkeit beweisen. Von Torben Lehning.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-konstituierende-sitzung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T02:18:45+00:00"
+  },
   {
    "t": "Ärger um neue Fregatten der Bundeswehr - Opposition macht Druck",
    "s": "Eigentlich sollte ein niederländisches Unternehmen moderne Fregatten für die Bundeswehr liefern. Doch das Verteidigungsministerium beendete das Projekt - und beauftragte eine andere Firma. Das hat ein Nachspiel. Von M. Kubina und B. Großkopff.",
@@ -39,7 +137,7 @@
   },
   {
    "t": "Günther kritisiert Energiepolitik von Ministerin Reiche",
-   "s": "Um Kosten zu sparen, will Bundeswirtschaftsministerin Reiche die Förderung Erneuerbarer Energien kürzen. Mit scharfen Worten versucht Schleswig-Holsteins Ministerpräsident Günther, das Vorhaben seiner Parteigenossin zu verhindern.",
+   "s": "Um Kosten zu sparen, will Bundeswirtschaftsministerin Reiche die Förderung Erneuerbarer Energien kürzen. Mit scharfen Worten versucht Schleswig-Holsteins Ministerpräsident Günther, das Vorhaben seiner Parteifreundin zu verhindern.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/reiche-guenther-energiepolitik-100.html",
    "q": "Tagesschau",
    "d": "2026-10-05T17:01:40+00:00"
@@ -71,104 +169,6 @@
    "u": "https://taz.de/Prozess-gegen-mutmassliche-Wegwerfagenten/!6218876/",
    "q": "taz",
    "d": "2026-10-05T15:58:00+00:00"
-  },
-  {
-   "t": "Bundesumweltminister: Pharmafirmen sollen für Wasserreinigung zahlen",
-   "s": "Wer bezahlt für die Beseitigung von Medikamenten- und Kosmetikarückständen im Wasser? Der Umweltminister will die Hersteller zur Kasse bitten. Auch Rechenzentren sollen mehr für Wasser zahlen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/schneider-pharmafirmen-zahlungen-medikamentenrueckstaende-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T15:50:10+00:00"
-  },
-  {
-   "t": "Klage vor dem Verfassungsgericht: Die Linke klagt nun auch gegen Reiche",
-   "s": "Die Linke will den Vorwurf des Antisemitismus nicht auf sich sitzen lassen. Jetzt klagt sie gegen Wirtschaftsministerin Reiche vor dem Verfassungsgericht.",
-   "u": "https://taz.de/Klage-vor-dem-Verfassungsgericht/!6218921/",
-   "q": "taz",
-   "d": "2026-10-05T15:42:00+00:00"
-  },
-  {
-   "t": "Wahlen in Bosnien und Herzegowina: Ein Erfolg für destruktive Kräfte",
-   "s": "Bei den Wahlen am Sonntag dominieren eindeutig nationalistische Parteien. Die Wahlbeteiligung erreicht mit nur 42 Prozent ein historisches Tief.",
-   "u": "https://taz.de/Wahlen-in-Bosnien-und-Herzegowina/!6218885/",
-   "q": "taz",
-   "d": "2026-10-05T15:40:00+00:00"
-  },
-  {
-   "t": "Pläne der hessischen Landesregierung: Existenzrecht Israels darf geschützt werden",
-   "s": "Hessens Landesregierung will verbieten, Israel die Daseinsberechtigung abzusprechen. Ein Gutachten sagt nun: Das wäre möglich. Doch Zweifel bleiben.",
-   "u": "https://taz.de/Plaene-der-hessischen-Landesregierung/!6218875/",
-   "q": "taz",
-   "d": "2026-10-05T15:15:00+00:00"
-  },
-  {
-   "t": "Union und SPD planen neue Plastiksteuer",
-   "s": "Union und SPD wollen Unternehmen mit einer neuen Steuer dazu bringen, den Verbrauch von Plastik zu reduzieren. Sie erhoffen sich auch wichtige Einnahmen für den Haushalt. Wirtschaftsverbände kritisieren den Entwurf.",
-   "u": "https://www.tagesschau.de/inland/koalition-fraktionen-plastiksteuer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T15:10:29+00:00"
-  },
-  {
-   "t": "Schülerproteste in Frankreich: Viel Geld und wenig Resultate",
-   "s": "Frankreichs Schulen sind in einem miserablen Zustand. Aber warum? Das Bildungssystem im OECD-Vergleich.",
-   "u": "https://taz.de/Schuelerproteste-in-Frankreich/!6218898/",
-   "q": "taz",
-   "d": "2026-10-05T15:05:00+00:00"
-  },
-  {
-   "t": "Studie zu Antisemitismus: „Eine neue antisemitische Normalität“",
-   "s": "Interviews mit Jü­din­nen*­Ju­den nach dem 7. Oktober zeigen, wie der Rassismus in Teilen der Gesellschaft grassiert. Insbesondere Kinder erfahren Mobbing.",
-   "u": "https://taz.de/Studie-zu-Antisemitismus/!6218966/",
-   "q": "taz",
-   "d": "2026-10-05T14:29:00+00:00"
-  },
-  {
-   "t": "Geheimdienst-Spitzen im Bundestag: BND-Chef Jäger warnt vor „gewaltsamem Konflikt“ mit Russland",
-   "s": "Im parlamentarischen Kontrollgremium warnen die Spitzen der deutschen Geheimdienste vor russischen Aktionen im Baltikum. Ein Großangriff sei aber unwahrscheinlich.",
-   "u": "https://taz.de/Geheimdienst-Spitzen-im-Bundestag/!6218907/",
-   "q": "taz",
-   "d": "2026-10-05T14:28:00+00:00"
-  },
-  {
-   "t": "Erster Gang der Präsidentschaftswahl: Brasilien drohen dunkle Jahre",
-   "s": "Bei der Präsidentschaftswahl in Brasilien war der Etappensieg von Bolsonaro Junior auch ein Votum gegen Amtsinhaber Lula. Ihm bleiben drei Wochen, um die Katastrophe abzuwenden.",
-   "u": "https://taz.de/Erster-Gang-der-Praesidentschaftswahl/!6218879/",
-   "q": "taz",
-   "d": "2026-10-05T13:59:00+00:00"
-  },
-  {
-   "t": "Minister soll Österreichs SPÖ führen: Kompetent und beliebt",
-   "s": "Österreichs Finanzminister Markus Marterbauer soll Andreas Babler an der Spitze der österreichischen Sozialdemokraten beerben. Er ist trotz seines Sparkurses beliebt.",
-   "u": "https://taz.de/Markus-Marterbauer-wird-SPOe-Chef/!6218895/",
-   "q": "taz",
-   "d": "2026-10-05T13:27:00+00:00"
-  },
-  {
-   "t": "Repressionen in Russland: Festnahmen und Misshandlungen von Putin-Kritikern",
-   "s": "Im Nachgang zu den Duma-Wahlen in Russland im September rechnet der Kreml mit seinen Kri­ti­ke­r:in­nen ab. Auch die Kommunistische Partei ist davon betroffen.",
-   "u": "https://taz.de/Nachgang-der-Duma-Wahlen-in-Russland-Festnahmen-und-Misshandlungen/!6218909/",
-   "q": "taz",
-   "d": "2026-10-05T12:33:00+00:00"
-  },
-  {
-   "t": "BND-Chef warnt vor \"gewaltsamem Konflikt mit Russland\"",
-   "s": "Nach Einschätzung von BND-Chef Jäger ist Deutschland in einem \"Schattenkrieg\" mit Russland. Bei ihrer Anhörung warnten die Nachrichtendienste erneut vor einem Anschlagsrisiko. Thema war auch die Lage in Sachsen-Anhalt.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-chefs-anhoerung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T12:29:07+00:00"
-  },
-  {
-   "t": "Massiver Datendiebstahl: Hackerangriff auf zentrales Melderegister in Dänemark",
-   "s": "Dänemark meldet eine Attacke auf ein Datensystem, in dem Informationen von Bürgerinnen und Bürgern registriert sind. Fast neun Millionen Daten wurden entwendet.",
-   "u": "https://taz.de/Massiver-Datendiebstahl/!6218828/",
-   "q": "taz",
-   "d": "2026-10-05T12:27:00+00:00"
-  },
-  {
-   "t": "Linkspartei in Berlin: Die juristische Hürde für einen Rauswurf ist hoch",
-   "s": "Die Berliner Linkspartei steht unter Druck, sich von problematischen Mitgliedern zu trennen. Doch auch wenn sie das wollte, wäre das nicht so einfach.",
-   "u": "https://taz.de/Letzter-Ausweg-Parteigerichtsverfahren/!6218821/",
-   "q": "taz",
-   "d": "2026-10-05T12:00:00+00:00"
   }
  ]
 }

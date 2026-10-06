@@ -1,7 +1,56 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-05T22:01:27+00:00",
+ "updated": "2026-10-06T10:19:56+00:00",
  "items": [
+  {
+   "t": "Kaufpreise für E-Autos nähern sich Verbrennern an",
+   "s": "Die Anschaffungspreise von Verbrennern und E-Autos nähern sich einer Studie zufolge wieder an. Ein Grund sind neue und günstigere Modelle, die Signalwirkung für den ganzen Markt haben.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/preise-e-autos-verbrenner-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T08:21:54+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 06.10.2026",
+   "s": "Update Wirtschaft vom 06.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1661226.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T08:20:55+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX gewinnt an Schwung",
+   "s": "Nach dem vorsichtigen Wochenstart ist der deutsche Leitindex mit einem Plus gestartet. Damit folgte der DAX der Tech-Rally an der Wall Street. Gegenwind lieferten neue Konjunkturdaten.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T07:56:06+00:00"
+  },
+  {
+   "t": "Freigabe der Ölreserven: Was bringt das für die Preise?",
+   "s": "Im Kampf gegen die hohen Öl- und Kraftstoffpreise geben die G7-Staaten bis zu 100 Millionen Barrel aus strategischen Reserven frei. Zumindest kurzfristig ist mit einer Entlastung zu rechnen - auch an den Tankstellen. Von Heidi Radvilas.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/freigabe-oelreserven-preise-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T07:13:43+00:00"
+  },
+  {
+   "t": "Trump erlaubt angesichts hoher Spritpreise Nutzung von steuerfreiem Diesel",
+   "s": "Mit dem Iran-Krieg ist das Tanken auch in den USA deutlich teurer geworden. Nun verspricht US-Präsident Trump Abhilfe: Autofahrer sollen steuerfreien, \"roten\" Diesel nutzen können. Der ist bisher nur in der Landwirtschaft erlaubt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T05:30:33+00:00"
+  },
+  {
+   "t": "Warum ein Studium keine Jobgarantie mehr ist",
+   "s": "Hunderttausende Menschen hierzulande haben einen Uniabschluss und trotzdem keinen Job. Dabei galt lange: Wer studiert, hat später die besten Berufsaussichten. Doch diese Gewissheit bröckelt. Von L.-M. Hiltscher und C. Dörr.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/ausbildung-oder-studium-was-lohnt-sich-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T04:23:54+00:00"
+  },
+  {
+   "t": "Frankfurter Buchmesse von Existenzangst und KI-Sorgen überschattet",
+   "s": "Die Leselust sinkt, Läden schließen, die Politik macht Druck. Wird die Krise der deutschen Buchbranche existenziell? Das ist ein bestimmendes Thema, das den Start der 78. Frankfurter Buchmesse überschattet. Von Sonja Fouraté.",
+   "u": "https://www.tagesschau.de/kultur/frankfurter-buchmesse-2026-ausblick-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T04:22:55+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 05.10.2026",
    "s": "Wirtschaft vor acht vom 05.10.2026",
@@ -17,32 +66,11 @@
    "d": "2026-10-05T16:42:44+00:00"
   },
   {
-   "t": "Marktbericht: DAX kommt nicht vom Fleck",
-   "s": "Zu Beginn der neuen Woche konnte der deutsche Aktienmarkt kaum Boden gutmachen. Die Kurse wurden vor allem durch die fortgesetzte Schwäche des Euro gebremst.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T16:28:41+00:00"
-  },
-  {
    "t": "Preise für Flugtickets aus Deutschland seit 2010 etwa verdoppelt",
    "s": "Die Kosten für Flugreisen sind in Deutschland zuletzt stark angestiegen. Doch die Tendenz ist nicht neu. Ein Bericht sieht Nachteile am Standort und einen Bedeutungsverlust deutscher Drehkreuze.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/luftfahrt-flugtickets-preise-100.html",
    "q": "Tagesschau",
    "d": "2026-10-05T13:44:19+00:00"
-  },
-  {
-   "t": "Talfahrt geht weiter: Euro fällt unter 1,12 Dollar",
-   "s": "Politische Unsicherheiten in Frankreich und Spanien haben den jüngsten Kursverfall des Euro beschleunigt. Dafür gibt es auch längerfristige Gründe. Von Detlev Landmesser.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-euro-frankreich-spanien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T12:11:06+00:00"
-  },
-  {
-   "t": "Moldau: Wassermangel trifft hohe Ölpreise",
-   "s": "Die Republik Moldau leidet weiter unter Dürre, die Pegelstände der Flüsse sind niedrig. Zugleich hat die Regierung wegen der hohen Preise einen Energienotstand ausgerufen. Die Opposition nutzt das für Signale im Sinne Russlands. Von P. Raillon.",
-   "u": "https://www.tagesschau.de/ausland/europa/moldau-energie-notstand-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T11:43:42+00:00"
   },
   {
    "t": "Die E-Auto-Prämie für Einkommenschwächere zeigt Wirkung",
@@ -94,13 +122,6 @@
    "d": "2026-10-05T08:24:00+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 05.10.2026",
-   "s": "Update Wirtschaft vom 05.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1660528.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T08:19:22+00:00"
-  },
-  {
    "t": "Warum immer mehr junge Menschen einen Job in der Pflege wollen",
    "s": "Immer mehr junge Menschen entscheiden sich für eine Ausbildung im Gesundheitswesen: Kliniken melden Bewerberrekorde, Pflegeschulen haben Wartelisten. Gleichzeitig bleibt der Fachkräftemangel groß. Von Johannes Baumert.",
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ausbildungsboom-pflege-gesundheit-100.html",
@@ -115,60 +136,39 @@
    "d": "2026-10-05T03:00:50+00:00"
   },
   {
-   "t": "Influencer werden für ethische Jagd zum Problem",
-   "s": "Für die Reichweite in sozialen Medien bringt Action oft mehr als Jagdethik. Einen verantwortungsvollen Umgang mit Waffen gibt es dabei bisweilen nicht. Jagdausstatter distanzieren sich deshalb von einigen Influencern. Von B. Augustin.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/jagd-hobby-lifestyle-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T10:16:11+00:00"
+   "t": "Gewerbesteueroasen - Standortwettbewerb auf Kosten von Kommunen",
+   "s": "Steueroasen gibt es nicht nur auf den Cayman Islands, sondern auch in Deutschland. Sie sind legal, führen aber auch zu Missbrauch durch Unternehmer. Leidtragende sind die Kommunen.",
+   "u": "https://www.deutschlandfunk.de/steueroasen-deutschland-gewerbesteuer-kommunen-unternehmen-hebesatz-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-27T15:20:00+00:00"
   },
   {
-   "t": "Job-Einstieg mit Problemen: Wie KI den Arbeitsmarkt verändert",
-   "s": "Junge Menschen haben zunehmend Probleme, Einstiegsjobs zu finden. Ein Grund: Künstliche Intelligenz übernimmt immer mehr Tätigkeiten für Unternehmen. Nur wie soll dann der Karrierestart gelingen? Von Joscha Bartlitz.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/kuenstliche-intelligenz-job-einstieg-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-04T08:13:01+00:00"
+   "t": "Vergesellschaftung - Soziale Wohnungspolitik mit Risiken",
+   "s": "Die Linke will in Berlin Wohnungsbestände von großen Konzernen vergesellschaften. Nach dem Grundgesetz ist das prinzipiell möglich. Welche Folgen hätte das für die Mieten? Und ist es auch ein Mittel gegen die Wohnungsnot?",
+   "u": "https://www.deutschlandfunk.de/vergesellschaftung-enteignung-wohnungen-berlin-linke-elif-eralp-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-27T14:18:00+00:00"
   },
   {
-   "t": "Fachkräfte fehlen - doch es gibt auch Chancen in Ostdeutschland",
-   "s": "Ostdeutschland bietet viel Platz für neue Fabriken. Doch ausgerechnet dort, wo neue Industriearbeitsplätze entstehen könnten, fehlen zunehmend Fachkräfte. Ökonomen sehen dennoch Chancen. Von Claudia Wehrle.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/ostdeutschland-wirtschaftsstandort-beschaeftigung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T16:40:33+00:00"
+   "t": "Spritpreisdeckel - Warnungen vor Risiken und Nebenwirkungen",
+   "s": "Die Bundesregierung will Autofahrer angesichts steigender Spritpreise gleich doppelt entlasten. Neben dem gerade beschlossenen Tankrabatt ist auch ein sogenannter Spritpreisdeckel in der Diskussion. Es wäre ein ungewöhnlicher Eingriff in den Markt.",
+   "u": "https://www.deutschlandfunk.de/tankrabatt-spritpreisbremse-entlastung-benzinpreis-auto-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-25T15:42:00+00:00"
   },
   {
-   "t": "Wer an KI-Songs verdient - und wer leer ausgeht",
-   "s": "Immer mehr Songs auf Streamingplattformen werden nicht von Menschen erschaffen, sondern stammen aus der Maschine - und nicht immer ist das erkennbar. Viele Musikschaffende sehen dadurch ihre wirtschaftliche Existenz bedroht. Von N. Laryea.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-musik-existenz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T15:11:44+00:00"
+   "t": "Marktmacht - Kampf den Kartellen",
+   "s": "Ob hohe Preissprünge an der Zapfsäule oder die Marktmacht globaler Tech-Riesen: In Deutschland soll das Bundeskartellamt den Wettbewerb sichern. Doch der Kampf gegen die Branchenriesen ist schwierig und wird schon lange ausgefochten.",
+   "u": "https://www.deutschlandfunk.de/bundeskartellamt-kartellrecht-marktmacht-wettbewerb-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-24T14:56:00+00:00"
   },
   {
-   "t": "Tankrabatt für Autofahrer, aber kein Nachlass beim Heizen: ungerecht?",
-   "s": "Autofahrer profitieren seit dem 1. Oktober vom \"Tankrabatt\". Hausbesitzer mit Ölheizung gehen leer aus. Fachleute sehen darin ein Gerechtigkeitsproblem - warnen aber vor neuen, teuren Steuernachlässen. Von O. Bemelmann und S. Groß.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/heizen-tankrabatt-debatte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T09:22:31+00:00"
-  },
-  {
-   "t": "Commerzbank: Braucht Deutschland schärferes Übernahmerecht?",
-   "s": "Die Fälle Commerzbank, Hugo Boss und ProSiebenSat.1 zeigen, wie leicht Investoren in Deutschland ihre Kontrolle ausbauen können. Andere Länder setzen beim Aktionärsschutz strengere Grenzen. Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-uebernahmerecht-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T07:16:35+00:00"
-  },
-  {
-   "t": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
-   "s": "Dass eine Zuckersteuer kommen soll, war eigentlich schon geklärt. Dennoch bremst das Kanzleramt jetzt bei einem Entwurf aus dem Finanzministerium. Was steckt dahinter? Warum drängt das Thema? Von Nicole Kohnert.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T17:49:18+00:00"
-  },
-  {
-   "t": "Kanzleramt bremst beim Gesetzentwurf zur Zuckersteuer",
-   "s": "Die geplante Zuckersteuer sorgt weiter für Schlagzeilen: Der von Finanzminister Klingbeil vorgelegte Gesetzentwurf stößt auf Widerstand im Kanzleramt. Der Entwurf weiche von Empfehlungen einer Finanzkommission ab.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-kanzleramt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T11:01:33+00:00"
+   "t": "Schweden - Die Rückkehr des Bargelds",
+   "s": "Schweden ist Vorreiter des bargeldlosen Zahlens. Doch nun müssen Supermärkte und Apotheken wieder Münzen und Scheine annehmen. Der Kurswechsel ist eine Reaktion auf Sicherheitsrisiken und wirft die Frage auf: Wie resilient ist unser Zahlungssystem?Von Konstantin Schönfelder",
+   "u": "https://www.deutschlandfunk.de/schweden-bargeld-rueckkehr-pflicht-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-19T08:23:00+00:00"
   }
  ]
 }

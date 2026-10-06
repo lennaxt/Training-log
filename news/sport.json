@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-10-05T22:01:32+00:00",
+ "updated": "2026-10-06T10:20:02+00:00",
  "items": [
+  {
+   "t": "Haftbefehle gegen Taliban-Führer: Afghanistans Frauenpolitik soll in Den Haag vor Gericht",
+   "s": "Der Internationale Strafgerichtshof macht Haftbefehle gegen Taliban-Führer in Afghanistan öffentlich. Es geht um deren Umgang mit Frauen und Mädchen.",
+   "u": "https://taz.de/Haftbefehle-gegen-Taliban-Fuehrer/!6219258/",
+   "q": "taz",
+   "d": "2026-10-06T07:20:00+00:00"
+  },
   {
    "t": "CJP-Proteste in Indien: Die Kakerlaken demonstrieren wieder",
    "s": "In den indischen Großstädten Mumbai und Delhi fordern Tausende Protestierende den Rücktritt von Wahlkommissionschef Gyanesh Kumar.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Konflikt-in-den-Philippinen/!6212784/",
    "q": "taz",
    "d": "2026-09-13T12:08:00+00:00"
-  },
-  {
-   "t": "Tokio streitet über Straßenprostitution: Wer Sex kauft, soll bestraft werden?",
-   "s": "Japan diskutiert über Strafen für Freier. Bisher werden nur die Sexarbeiterinnen belangt – und nicht alle wollen, dass sich das ändert.",
-   "u": "https://taz.de/Tokio-streitet-ueber-Strassenprostitution/!6208092/",
-   "q": "taz",
-   "d": "2026-09-12T18:31:00+00:00"
   }
  ]
 }

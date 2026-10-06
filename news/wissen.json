@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-05T22:01:27+00:00",
+ "updated": "2026-10-06T10:19:56+00:00",
  "items": [
+  {
+   "t": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher",
+   "s": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher",
+   "u": "https://www.tagesschau.de/video/video-1661224.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T08:29:01+00:00"
+  },
   {
    "t": "Nobelpreisträger Hegemann in den tagesthemen: \"Ich bin natürlich überwältigt\"",
    "s": "Der Algenforscher Peter Hegemann hat Grund zum Feiern: Gemeinsam mit zwei weiteren Forschern erhält er den Medizin-Nobelpreis. In den tagesthemen berichtet er vom Nutzen der Optogenetik - und fordert mehr Mut von der Politik.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/forschung/planetary-health-check-100.html",
    "q": "Tagesschau",
    "d": "2026-09-21T15:09:11+00:00"
-  },
-  {
-   "t": "Renommierter Körber-Preis für Zellforscherin Wickström",
-   "s": "Die Zellbiologin Wickström erforscht, was in unseren Zellen bei mechanischem Druck passiert. Das ist auch für die Krebsforschung relevant. Heute hat die Finnin den diesjährigen Körber-Preis für Europäische Wissenschaft erhalten. Von Veronika Simon.",
-   "u": "https://www.tagesschau.de/wissen/forschung/koerberpreis-zellforscherin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-18T11:22:10+00:00"
   }
  ]
 }
