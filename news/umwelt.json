@@ -1,10 +1,52 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-06T10:19:58+00:00",
+ "updated": "2026-10-06T20:20:54+00:00",
  "items": [
   {
-   "t": "Neuer Landtag in Sachsen-Anhalt: Wahl des ersten AfD-Parlamentspräsidenten steht bevor",
-   "s": "In Magdeburg findet heute die konstituierende Sitzung des neuen Parlaments statt. Für die AfD der erste Schritt zur Macht, der Plenarsaal wurde bereits umgebaut.",
+   "t": "Kapitän der deutschen Klimadiplomatie: Flasbarth schmeißt hin",
+   "s": "Jochen Flasbarth hat es vom Nabu-Chef zum Staatssekretär im Bundesumweltministerium gebracht. Jetzt verlässt er die politische Seite.",
+   "u": "https://taz.de/Kapitaen-der-deutschen-Klimadiplomatie/!6219335/",
+   "q": "taz",
+   "d": "2026-10-06T16:32:00+00:00"
+  },
+  {
+   "t": "AfD-Landtagspräsident in Sachsen-Anhalt: Rechtsextremer Durchmarsch",
+   "s": "Tobias Rausch ist der erste rechtsextreme Landtagspräsident der Republik. Das lässt erste Schlüsse zu, wer künftig in Sachsen-Anhalt regiert.",
+   "u": "https://taz.de/AfD-Landtagspraesident-in-Sachsen-Anhalt/!6219334/",
+   "q": "taz",
+   "d": "2026-10-06T16:29:00+00:00"
+  },
+  {
+   "t": "Flugzeugabsturz: Kein Schmerzensgeld für Germanwings-Hinterbliebene",
+   "s": "Das Landgericht Braunschweig hat elf Jahre nach dem Absturz Ansprüche gegen den Staat verneint. Klä­ge­r:in­nen prüfen eine Berufung.",
+   "u": "https://taz.de/Flugzeugabsturz/!6219473/",
+   "q": "taz",
+   "d": "2026-10-06T15:30:00+00:00"
+  },
+  {
+   "t": "Studie zu Netzwerken: Irans linksextreme Bündnispartner in Deutschland",
+   "s": "Das Islamische Zentrum Hamburg ist verboten, doch iranische Netzwerke bestehen fort, zeigt eine neue Studie. Sie finden auch Anschluss an Teile der politischen Linken.",
+   "u": "https://taz.de/Studie-zu-Iran-treuen-Netzwerken/!6219284/",
+   "q": "taz",
+   "d": "2026-10-06T12:52:00+00:00"
+  },
+  {
+   "t": "Abzug aus Kurdistan: Bîjî, bîjî, Bundeswehr",
+   "s": "Vor wenigen Tagen ging eine Ära zu Ende, die kaum Beachtung fand. Der deutsche Einsatz in Kurdistan sagt viel aus über das linke Verhältnis zur Bundeswehr.",
+   "u": "https://taz.de/Abzug-aus-Kurdistan/!6218836/",
+   "q": "taz",
+   "d": "2026-10-06T11:54:00+00:00"
+  },
+  {
+   "t": "Papiere aus dem Geheimdienst angekauft: Ex-BND-Chef Hanning unter Spionageverdacht festgenommen",
+   "s": "Ex-BND-Chef August Hanning soll jahrelang interne Geheimdienstpapiere gekauft haben. Zudem soll er Kontakt zu einem ausländischen Nachrichtendienst gehabt haben.",
+   "u": "https://taz.de/Papiere-aus-dem-Geheimdienst-angekauft/!6219292/",
+   "q": "taz",
+   "d": "2026-10-06T10:27:00+00:00"
+  },
+  {
+   "t": "Neuer Landtag in Sachsen-Anhalt: Rechtsextremer Hardliner wird überraschend Vizepräsident",
+   "s": "Tobias Rausch wurde zum ersten AfD-Parlamentspräsidenten gewählt, wohl auch mit Stimmen von der CDU. Auch ein Vizepräsident der AfD bekommt eine Mehrheit.",
    "u": "https://taz.de/Liveticker-zu-Sachsen-Anhalt-Erster-AfD-Parlamentspraesident-der-Geschichte-wird-gewaehlt/!6219259/",
    "q": "taz",
    "d": "2026-10-06T08:07:00+00:00"
@@ -46,7 +88,7 @@
   },
   {
    "t": "AfD in Sachsen-Anhalt: Die Rechtsextremen und ihre Steigbügelhalter",
-   "s": "In Sachsen-Anhalt konstituiert sich am Dienstag der Landtag, es droht eine AfD-Regierung. Das sind die Köpfe hinter der AfD- und BSW-Fraktion.",
+   "s": "In Sachsen-Anhalt konstituiert sich am Dienstag der Landtag, es droht eine AfD-Regierung. Das sind die Köpfe hinter der AfD- und der BSW-Fraktion.",
    "u": "https://taz.de/Sachsen-Anhalt-Uebersicht-zu-allen-Personen-der-AfD--und-BSW-Fraktion/!6217643/",
    "q": "taz",
    "d": "2026-10-05T17:56:00+00:00"
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Wegen-Aeusserung-nach-Berlin-Wahl/!6218809/",
    "q": "taz",
    "d": "2026-10-05T07:25:00+00:00"
-  },
-  {
-   "t": "NSU-Mord in Hamburg: Der Generalbundesanwalt behindert Aufarbeitung",
-   "s": "Ein volles Jahr wartet das von der Bürgerschaft beauftragte Forschungsteam nun schon auf die Freigabe von Polizei-Akten. Viel Zeit bleibt nicht mehr.",
-   "u": "https://taz.de/NSU-Mord-in-Hamburg/!6215548/",
-   "q": "taz",
-   "d": "2026-10-05T06:00:00+00:00"
-  },
-  {
-   "t": "Strafrechtsverschärfung: Hetze kann Mandat kosten",
-   "s": "Wer wegen Volksverhetzung zu mindestens einem Jahr Haft verurteilt wird, soll künftig weder kandidieren noch verbeamtet werden dürfen.",
-   "u": "https://taz.de/Strafrechtsverschaerfung/!6218600/",
-   "q": "taz",
-   "d": "2026-10-05T05:10:00+00:00"
-  },
-  {
-   "t": "Politisches Gender Gap: Packt sie beim Geld!",
-   "s": "In Sachsen-Anhalt liegt der Frauenanteil im Parlament nur bei 22 Prozent. Anderswo ist es ähnlich. Doch es gibt effektive Wege, für Parität zu sorgen.",
-   "u": "https://taz.de/Politisches-Gender-Gap/!6218598/",
-   "q": "taz",
-   "d": "2026-10-04T18:19:00+00:00"
-  },
-  {
-   "t": "Jubel, Trubel, Hassverbrechen: Weitgehend friedliche Einheitsfeier in Bremen",
-   "s": "Ein homophober Angriff überschattet die Einheitsfeier in Bremen. Die verläuft friedlich, obwohl Neo-Altlinke ein Feuer entfachen und die AfD hetzt.",
-   "u": "https://taz.de/Jubel-Trubel-Hassverbrechen/!6218611/",
-   "q": "taz",
-   "d": "2026-10-04T13:27:00+00:00"
-  },
-  {
-   "t": "Kritik an Pflegereform: Sozialbündnis fordert Stopp der Kürzungspläne",
-   "s": "Bei der Pflege und in anderen Bereichen setzt die Regierung auch auf Einsparungen. Gewerkschaften und Verbände warnen vor weitreichenden Folgen.",
-   "u": "https://taz.de/Kritik-an-Pflegereform/!6218640/",
-   "q": "taz",
-   "d": "2026-10-04T11:15:00+00:00"
-  },
-  {
-   "t": "Sachsen-Anhalts Landtagspräsident in spe: Der Rausch des Geldes",
-   "s": "Es ist eine Zäsur, dass am 6. Oktober der erste AfD-Parlamentspräsident gewählt werden soll. Tobias Rausch trägt das Völkische mit und greift gern zu.",
-   "u": "https://taz.de/Sachsen-Anhalts-Landtagspraesident-in-spe/!6214485/",
-   "q": "taz",
-   "d": "2026-10-03T18:17:00+00:00"
   }
  ]
 }

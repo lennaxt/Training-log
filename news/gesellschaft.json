@@ -1,7 +1,35 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-06T10:19:59+00:00",
+ "updated": "2026-10-06T20:20:55+00:00",
  "items": [
+  {
+   "t": "Proteste in Frankreich: Nach den Lycées die Universitäten",
+   "s": "Die Schülerbewegung treibt die Regierung immer weiter in die Enge, Studierende schließen sich ihr an. Das Vorgehen der Polizei wird kritisiert.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6219351/",
+   "q": "taz",
+   "d": "2026-10-06T16:40:00+00:00"
+  },
+  {
+   "t": "Griechenland: Prozess gegen Seenotretter beginnt",
+   "s": "Die griechische Justiz wirft den Aktivisten Tommy Olsen und Panayote Dimitras die Gründung einer kriminellen Vereinigung vor. Amnesty International ist entsetzt.",
+   "u": "https://taz.de/Seenotrettung-in-Griechenland/!6219270/",
+   "q": "taz",
+   "d": "2026-10-06T13:23:00+00:00"
+  },
+  {
+   "t": "Verdacht auf Lungenpest: Intransparenz russischer Behörden nährt Spekulationen",
+   "s": "In Sibirien stirbt eine Medizinerin – angeblich an einer „gefährlichen Infektion“. Jetzt wird spekuliert, dass die Todesursache die Lungenpest sei.",
+   "u": "https://taz.de/Lungenpest-Verdacht-in-Russland/!6219350/",
+   "q": "taz",
+   "d": "2026-10-06T11:57:00+00:00"
+  },
+  {
+   "t": "Nach neun Jahren Exil: Spaniens Justiz macht Weg für Rückkehr Puigdemonts frei",
+   "s": "Das Verfassungsgericht kippt das zentrale Argument des Obersten Gerichtshofs für den Haftbefehl gegen Puigdemont, der damit aufgehoben ist.",
+   "u": "https://taz.de/Nach-neun-Jahren-Exil/!6219402/",
+   "q": "taz",
+   "d": "2026-10-06T11:55:00+00:00"
+  },
   {
    "t": "Schülerproteste in Frankreich: Protest macht Schule",
    "s": "Frankreichs Regierung versucht die protestierenden Schü­le­r*in­nen einzuschüchtern und zu diskreditieren. Doch die Jugendlichen bleiben unbeeindruckt.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Mietenkampf-in-Spanien/!6218657/",
    "q": "taz",
    "d": "2026-10-04T11:23:00+00:00"
-  },
-  {
-   "t": "Nach der Wahl in Lettland: Klarer Sieg bei leeren Kassen",
-   "s": "Die Partei des Ministerpräsidenten Andris Kulbergs gewinnt die Wahl mit großem Vorsprung. Die Wahlversprechen umzusetzen wird allerdings schwierig.",
-   "u": "https://taz.de/Nach-der-Wahl-in-Lettland/!6218577/",
-   "q": "taz",
-   "d": "2026-10-04T11:13:00+00:00"
-  },
-  {
-   "t": "Parlamentswahl in Lettland: Regierungspartei von Andris Kulbergs klar vorne",
-   "s": "Eindeutige Bestätigung für den Pro-EU- und Ukraine-Kurs des Regierungschefs: In Lettland setzt sich die Partei des Ministerpräsidenten klar durch.",
-   "u": "https://taz.de/Regierungspartei-siegt-klar-bei-Parlamentswahl-in-Lettland/!6218574/",
-   "q": "taz",
-   "d": "2026-10-04T07:15:00+00:00"
-  },
-  {
-   "t": "Wahlen in Bosnien und Herzegowina: Was geopolitisch in Bosnien auf dem Spiel steht",
-   "s": "Unter Trump wenden sich die USA der Republika Srpska zu. Den multiethnischen Gesamtstaat müsste jetzt Europa alleine vor der Zerstörung schützen.",
-   "u": "https://taz.de/Wahlen-in-Bosnien-und-Herzegowina/!6217645/",
-   "q": "taz",
-   "d": "2026-10-04T07:09:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Drohnen-Angriff auf Brücke während Merz-Besuch",
-   "s": "Trotz russischer Reisewarnung stattet Kanzler Merz der Ukraine einen Solidaritätsbesuch ab. Während seines Aufenthalts gibt es mehrfachen Drohnenalarm.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6218573/",
-   "q": "taz",
-   "d": "2026-10-04T06:39:00+00:00"
   }
  ]
 }

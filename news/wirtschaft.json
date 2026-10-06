@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-06T10:19:56+00:00",
+ "updated": "2026-10-06T20:20:52+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 06.10.2026",
+   "s": "Wirtschaft vor acht vom 06.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1661676.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T17:55:17+00:00"
+  },
+  {
+   "t": "Paramount übernimmt Warner offiziell - große Fusion in Hollywood",
+   "s": "Monatelang liefen die Verhandlungen über eine Übernahme des Warner-Konzerns. Jetzt hat Paramount den milliardenschweren Deal finalisiert. Doch die Fusion weckt Sorgen vor einem Jobabbau in Hollywood - und politischer Einflussnahme.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-warner-uebernahme-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T15:18:04+00:00"
+  },
+  {
+   "t": "Tankstellen: Verstöße gegen die 12-Uhr-Regel werden weniger",
+   "s": "Die Zahl der Tankstellen, die gegen die 12-Uhr-Regel verstoßen, ist deutlich gesunken. Laut SWR-Analyse konzentrieren sich die verbliebenen Fälle auf wenige auffällige Betreiber. Von Jan Russezki.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/zwoelf-uhr-tank-regel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T13:29:54+00:00"
+  },
+  {
+   "t": "Rheinmetall erschließt sich das Weltall",
+   "s": "Rheinmetall hat die Serienproduktion von Satelliten aufgenommen. Damit erweitert der Rüstungskonzern sein breites Produktportfolio weiter. Die Rheinmetall-Aktie war zuletzt aber kaum gefragt.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-rheinmetall-weltall-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T12:09:30+00:00"
+  },
+  {
+   "t": "Wasser wird wertvoller",
+   "s": "Deutschland hat im Winter zu viel Wasser – und im Sommer immer weniger. Das belastet Umwelt und Wirtschaft. Die Bundesregierung fordert einen “neuen Umgang” mit Wasser. Wer viel verbraucht, soll mehr zahlen.",
+   "u": "https://www.deutschlandfunk.de/wassermangel-deutschland-strategie-bundesregierung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-06T11:45:00+00:00"
+  },
   {
    "t": "Kaufpreise für E-Autos nähern sich Verbrennern an",
    "s": "Die Anschaffungspreise von Verbrennern und E-Autos nähern sich einer Studie zufolge wieder an. Ein Grund sind neue und günstigere Modelle, die Signalwirkung für den ganzen Markt haben.",
@@ -15,13 +50,6 @@
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1661226.html",
    "q": "Tagesschau",
    "d": "2026-10-06T08:20:55+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX gewinnt an Schwung",
-   "s": "Nach dem vorsichtigen Wochenstart ist der deutsche Leitindex mit einem Plus gestartet. Damit folgte der DAX der Tech-Rally an der Wall Street. Gegenwind lieferten neue Konjunkturdaten.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T07:56:06+00:00"
   },
   {
    "t": "Freigabe der Ölreserven: Was bringt das für die Preise?",
@@ -50,13 +78,6 @@
    "u": "https://www.tagesschau.de/kultur/frankfurter-buchmesse-2026-ausblick-100.html",
    "q": "Tagesschau",
    "d": "2026-10-06T04:22:55+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 05.10.2026",
-   "s": "Wirtschaft vor acht vom 05.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1661012.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T18:27:45+00:00"
   },
   {
    "t": "Energiepreise: Preise für Benzin und Diesel steigen wieder leicht",
@@ -148,27 +169,6 @@
    "u": "https://www.deutschlandfunk.de/vergesellschaftung-enteignung-wohnungen-berlin-linke-elif-eralp-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-27T14:18:00+00:00"
-  },
-  {
-   "t": "Spritpreisdeckel - Warnungen vor Risiken und Nebenwirkungen",
-   "s": "Die Bundesregierung will Autofahrer angesichts steigender Spritpreise gleich doppelt entlasten. Neben dem gerade beschlossenen Tankrabatt ist auch ein sogenannter Spritpreisdeckel in der Diskussion. Es wäre ein ungewöhnlicher Eingriff in den Markt.",
-   "u": "https://www.deutschlandfunk.de/tankrabatt-spritpreisbremse-entlastung-benzinpreis-auto-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-25T15:42:00+00:00"
-  },
-  {
-   "t": "Marktmacht - Kampf den Kartellen",
-   "s": "Ob hohe Preissprünge an der Zapfsäule oder die Marktmacht globaler Tech-Riesen: In Deutschland soll das Bundeskartellamt den Wettbewerb sichern. Doch der Kampf gegen die Branchenriesen ist schwierig und wird schon lange ausgefochten.",
-   "u": "https://www.deutschlandfunk.de/bundeskartellamt-kartellrecht-marktmacht-wettbewerb-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-24T14:56:00+00:00"
-  },
-  {
-   "t": "Schweden - Die Rückkehr des Bargelds",
-   "s": "Schweden ist Vorreiter des bargeldlosen Zahlens. Doch nun müssen Supermärkte und Apotheken wieder Münzen und Scheine annehmen. Der Kurswechsel ist eine Reaktion auf Sicherheitsrisiken und wirft die Frage auf: Wie resilient ist unser Zahlungssystem?Von Konstantin Schönfelder",
-   "u": "https://www.deutschlandfunk.de/schweden-bargeld-rueckkehr-pflicht-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-19T08:23:00+00:00"
   }
  ]
 }

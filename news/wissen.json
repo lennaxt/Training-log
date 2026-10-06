@@ -1,7 +1,21 @@
 {
  "name": "Wissen",
- "updated": "2026-10-06T10:19:56+00:00",
+ "updated": "2026-10-06T20:20:53+00:00",
  "items": [
+  {
+   "t": "Nobelpreis für Physik: Auszeichnung für Nachweis von \"Geistern aus dem All\"",
+   "s": "Ein riesiges Observatorium unter dem antarktischen Eis: Mit dieser verrückten Idee weist Francis Halzen Neutrinos nach - \"Geisterteilchen\" aus dem All. Dafür wird er mit dem Physik-Nobelpreis ausgezeichnet. Von David Beck und Ralf Kölbel.",
+   "u": "https://www.tagesschau.de/wissen/physiknobelpreis-francis-halzen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T15:23:56+00:00"
+  },
+  {
+   "t": "Nobelpreis für Physik geht an Neutrinoforscher Francis Halzen",
+   "s": "Der Nobelpreis für Physik geht an den belgisch-amerikanischen Forscher Francis Halzen. Der Wissenschaftler erhalte die Auszeichnung für seine Pionierarbeit bei der Erforschung von Neutrinos - also Elementarteilchen - am Südpol, wie das Nobelkomitee mitteilte.",
+   "u": "https://www.tagesschau.de/wissen/nobelpreis-physik-francis-halzen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T13:42:12+00:00"
+  },
   {
    "t": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher",
    "s": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1653554.html",
    "q": "Tagesschau",
    "d": "2026-09-22T12:54:03+00:00"
-  },
-  {
-   "t": "Gertraud Stadler, Leitung Geschlechterforschung in der Medizin an der Charité Berlin, zur Allianz für Frauengesundheit",
-   "s": "Gertraud Stadler, Leitung Geschlechterforschung in der Medizin an der Charité Berlin, zur Allianz für Frauengesundheit",
-   "u": "https://www.tagesschau.de/video/video-1653552.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T12:51:30+00:00"
-  },
-  {
-   "t": "Planetary Health Check: Patientin Erde ist schwer angeschlagen",
-   "s": "Wie geht es dem Planeten Erde? Schwindende Artenvielfalt, versauerte Meere und ausgelaugte Böden machen ihm zu schaffen. Laut dem aktuellen Planetary Health Check ist die Lage kritisch - aber nicht aussichtslos. Von Jan Kerckhoff.",
-   "u": "https://www.tagesschau.de/wissen/forschung/planetary-health-check-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-21T15:09:11+00:00"
   }
  ]
 }

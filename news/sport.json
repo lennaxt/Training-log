@@ -1,7 +1,21 @@
 {
  "name": "Sport",
- "updated": "2026-10-06T10:20:02+00:00",
+ "updated": "2026-10-06T20:20:58+00:00",
  "items": [
+  {
+   "t": "Frieden im Nahen Osten: Und doch gibt es Hoffnung",
+   "s": "Wir müssen endlich aufhören, den Nahost-Konflikt zu verwalten, sagt der palästinensische Friedensaktivist Hamza Howidy. Dabei spielt der Westen eine entscheidende Rolle.",
+   "u": "https://taz.de/Frieden-im-Nahen-Osten/!6219336/",
+   "q": "taz",
+   "d": "2026-10-06T17:45:00+00:00"
+  },
+  {
+   "t": "Abzug aus Kurdistan: Bîjî, bîjî, Bundeswehr",
+   "s": "Vor wenigen Tagen ging eine Ära zu Ende, die kaum Beachtung fand. Der deutsche Einsatz in Kurdistan sagt viel aus über das linke Verhältnis zur Bundeswehr.",
+   "u": "https://taz.de/Abzug-aus-Kurdistan/!6218836/",
+   "q": "taz",
+   "d": "2026-10-06T11:54:00+00:00"
+  },
   {
    "t": "Haftbefehle gegen Taliban-Führer: Afghanistans Frauenpolitik soll in Den Haag vor Gericht",
    "s": "Der Internationale Strafgerichtshof macht Haftbefehle gegen Taliban-Führer in Afghanistan öffentlich. Es geht um deren Umgang mit Frauen und Mädchen.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Wahlen-in-japanischer-Praefektur/!6213043/",
    "q": "taz",
    "d": "2026-09-14T18:02:00+00:00"
-  },
-  {
-   "t": "Brics-Gipfel: Indien nimmt Brics die potenzielle Schärfe",
-   "s": "In Delhi demonstrieren die Brics-Staaten Einigkeit trotz Irankrieg und gegensätzlicher Interessen. Sie wollen dem Globalen Süden mehr Gewicht geben.",
-   "u": "https://taz.de/Brics-Gipfel/!6212781/",
-   "q": "taz",
-   "d": "2026-09-13T14:44:00+00:00"
-  },
-  {
-   "t": "Konflikt in den Philippinen: Ein wackeliger Schritt in Richtung Frieden",
-   "s": "Im Süden der Philippinen wählen Muslime jetzt erstmals ein eigenes Autonomieparlament. Dabei treten einstige Moro-Rebellenführer gegeneinander an.",
-   "u": "https://taz.de/Konflikt-in-den-Philippinen/!6212784/",
-   "q": "taz",
-   "d": "2026-09-13T12:08:00+00:00"
   }
  ]
 }
