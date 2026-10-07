@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-10-06T20:20:50+00:00",
+ "updated": "2026-10-07T00:43:29+00:00",
  "items": [
+  {
+   "t": "USA: Frau nach gescheiterter Hinrichtung wieder bei Bewusstsein",
+   "s": "Nach einem gescheiterten Hinrichtungsversuch in Tennessee war Christa Pike zunächst bewusstlos. Nun ist sie laut ihren Anwälten wieder ansprechbar - sie fordern, ihre Todesstrafe in lebenslange Haft umzuwandeln.",
+   "u": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-bewusstsein-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T23:56:42+00:00"
+  },
   {
    "t": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
    "s": "Die Protestwelle junger Menschen in Frankreich für bessere Lernbedingungen an Schulen hat einen neuen Höhepunkt erreicht. Laut Innenministerium beteiligten sich 256.000 Menschen an Demos, allein 56.000 in Paris. Von Carolin Dylla.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-sanchez-100.html",
    "q": "Tagesschau",
    "d": "2026-10-05T07:22:10+00:00"
-  },
-  {
-   "t": "Ukraine: Neuer deutscher Besuch, neue russische Angriffe",
-   "s": "Nach Bundeskanzler Merz besucht Bildungsministerin Prien die Ukraine und betont Deutschlands Unterstützung. Die sei auch im eigenen Interesse, betont CDU-Politiker Röttgen. Die Ukraine meldet derweil neue Angriffe.",
-   "u": "https://www.tagesschau.de/ausland/europa/prien-besuch-ukraine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T07:02:36+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Inland",
- "updated": "2026-10-06T20:20:49+00:00",
+ "updated": "2026-10-07T00:43:28+00:00",
  "items": [
+  {
+   "t": "Vorsitz des Parlamentarischen Kontrollgremiums Henrichmann im Interview",
+   "s": "Die Spionage-Vorwürfe gegen Ex-BND-Chef Hanning haben \"an den Grundfesten gerüttelt\", so der Vorsitzende des Parlamentarischen Kontrollgremiums, Henrichmann, im tagesthemen-Interview. Das Wichtigste sei nun eine lückenlose Aufklärung.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/interview-pkgr-henrichmann-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T22:05:31+00:00"
+  },
   {
    "t": "Bahn-Sanierung: Verkehrsministerium legt \"Infraplan\" vor",
    "s": "Im neuen \"Infraplan\" legt der Bund konkrete Ziele für Sanierung und Ausbau des Bahnnetzes fest. Doch die Branche mahnt: Ohne gesicherte Finanzierung droht auch dieser Plan in der Schublade zu verschwinden. Von Benjamin Großkopff.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Papiere-aus-dem-Geheimdienst-angekauft/!6219292/",
    "q": "taz",
    "d": "2026-10-06T10:27:00+00:00"
-  },
-  {
-   "t": "Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen",
-   "s": "Der frühere BND-Chef Hanning steht im Verdacht, sich nach seiner Tätigkeit beim Nachrichtendienst geheime Informationen beschafft und weiterverkauft zu haben. Hannings Festnahme schadet der Reputation des BND enorm, mit ungewissen Folgen.Wurzel, Steffen",
-   "u": "https://www.deutschlandfunk.de/ex-bnd-chef-hanning-wegen-spionageverdachts-festgenommen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-06T10:24:18+00:00"
   }
  ]
 }
