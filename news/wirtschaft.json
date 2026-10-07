@@ -1,13 +1,83 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-07T00:43:30+00:00",
+ "updated": "2026-10-07T10:17:17+00:00",
  "items": [
+  {
+   "t": "Deutsche Unternehmen fahren Produktion überraschend deutlich hoch",
+   "s": "Trotz Behinderungen der Rhein-Schifffahrt durch das Niedrigwasser haben die deutschen Unternehmen ihre Produktion im August stark hochgefahren. Ein kräftigeres Plus gab es zuletzt im März 2025.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/produktion-industrie-bau-august-plus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T10:02:20+00:00"
+  },
+  {
+   "t": "Verkehrsausschuss stimmt für Bahn-Neubaustrecke Hamburg-Hannover",
+   "s": "Die Bahnstrecke Hamburg-Hannover ist sehr wichtig für den Personen- und Güterverkehr - aber auch überlastet. Der Verkehrsausschuss des Bundestags stimmte nun für eine Neubaustrecke. Gegen das Projekt gibt es Widerstand.",
+   "u": "https://www.tagesschau.de/wirtschaft/bahn-neubaustrecke-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T08:58:04+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 07.10.2026",
+   "s": "Update Wirtschaft vom 07.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1661910.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T08:27:22+00:00"
+  },
+  {
+   "t": "Sorgen um Geld: Frauen fühlen sich finanziell unsicherer",
+   "s": "Fast die Hälfte aller Frauen in Deutschland macht sich Sorgen um ihre finanzielle Zukunft. Ein wichtiger Grund: Vielen Frauen fehlt das Geld, um überhaupt vorsorgen zu können.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/finanzen-frauen-sicherheit-unsicher-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T07:14:12+00:00"
+  },
+  {
+   "t": "Selbstständige erhalten keinen Mutterschutz",
+   "s": "Für selbstständige Frauen gilt der Mutterschutz nicht. Viele können sich eine Pause rund um die Geburt deshalb kaum leisten. Ein Bündnis fordert eine gesetzliche Absicherung und hat konkrete Finanzierungsvorschläge. Von Anke Hahn.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mutterschutz-selbststaendige-110.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T07:03:20+00:00"
+  },
+  {
+   "t": "Verbraucherpolitiker kritisieren Schufa wegen mangelnder Transparenz",
+   "s": "Erst bewarb die Schufa ihren neuen Score mit Transparenz, dann kamen durch NDR- und SZ-Recherchen weitere Bewertungsscores ans Licht. Linke, Grüne, SPD und Union üben Kritik und fordern Antworten. Nur die AfD sieht kein Problem. Von P. Hornung.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/schufa-bundestag-kritik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T04:59:20+00:00"
+  },
+  {
+   "t": "Was die Metall-Tarifrunde so kompliziert macht",
+   "s": "Heute beginnen die Verhandlungen über die Tarifbedingungen in der Metall- und Elektroindustrie. Betroffen sind rund 3,7 Millionen Beschäftigte. Antworten auf die wichtigsten Fragen zum Gesprächsstart.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-tarifverhandlungen-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T04:06:08+00:00"
+  },
+  {
+   "t": "BR-Recherche zu Pestiziden - Mehr als 50 Wirkstoffe scheitern an EU-Prüfung",
+   "s": "Mehr als 50 Pestizid-Wirkstoffe sind seit 2011 bei der Wiederzulassung in der EU durchgefallen, zeigt eine Analyse von BR Data. Genau diese Überprüfung will die EU-Kommission abschaffen. Wissenschaftler befürchten Risiken für Mensch und Umwelt.",
+   "u": "https://www.tagesschau.de/investigativ/br-recherche/eu-neuregelung-pestizid-zulassung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T04:00:21+00:00"
+  },
+  {
+   "t": "Bahn-Sanierung: Verkehrsministerium legt \"Infraplan\" vor",
+   "s": "Im neuen \"Infraplan\" legt der Bund konkrete Ziele für Sanierung und Ausbau des Bahnnetzes fest. Doch die Branche mahnt: Ohne gesicherte Finanzierung droht auch dieser Plan in der Schublade zu verschwinden. Von Benjamin Großkopff.",
+   "u": "https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T18:57:31+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 06.10.2026",
    "s": "Wirtschaft vor acht vom 06.10.2026",
    "u": "https://www.tagesschau.de/video/video-1661676.html",
    "q": "Tagesschau",
    "d": "2026-10-06T17:55:17+00:00"
+  },
+  {
+   "t": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
+   "s": "Europas Wirtschaft leidet unter Exporten aus China. Kurz vor dem Besuch des EU-Handelskommissars in Peking fordern die Regierungen in Berlin und Paris nun neue Instrumente gegenüber China. Damit sind die Erwartungen gesetzt. Von Sarah López.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-06T17:43:36+00:00"
   },
   {
    "t": "Paramount übernimmt Warner offiziell - große Fusion in Hollywood",
@@ -45,13 +115,6 @@
    "d": "2026-10-06T08:21:54+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 06.10.2026",
-   "s": "Update Wirtschaft vom 06.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1661226.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T08:20:55+00:00"
-  },
-  {
    "t": "Freigabe der Ölreserven: Was bringt das für die Preise?",
    "s": "Im Kampf gegen die hohen Öl- und Kraftstoffpreise geben die G7-Staaten bis zu 100 Millionen Barrel aus strategischen Reserven frei. Zumindest kurzfristig ist mit einer Entlastung zu rechnen - auch an den Tankstellen. Von Heidi Radvilas.",
    "u": "https://www.tagesschau.de/wirtschaft/energie/freigabe-oelreserven-preise-100.html",
@@ -87,13 +150,6 @@
    "d": "2026-10-05T16:42:44+00:00"
   },
   {
-   "t": "Preise für Flugtickets aus Deutschland seit 2010 etwa verdoppelt",
-   "s": "Die Kosten für Flugreisen sind in Deutschland zuletzt stark angestiegen. Doch die Tendenz ist nicht neu. Ein Bericht sieht Nachteile am Standort und einen Bedeutungsverlust deutscher Drehkreuze.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/luftfahrt-flugtickets-preise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T13:44:19+00:00"
-  },
-  {
    "t": "Die E-Auto-Prämie für Einkommenschwächere zeigt Wirkung",
    "s": "Die hohen Kraftstoffpreise bringen immer mehr Kunden zum Umschwenken auf Hybrid oder E-Auto. Auch der seit Jahresbeginn mögliche Zuschuss für einkommensschwächere Haushalte wirkt. Von Lars Ohlinger.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-foerderung-112.html",
@@ -113,62 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-praemie-126.html",
    "q": "Tagesschau",
    "d": "2026-10-05T10:27:00+00:00"
-  },
-  {
-   "t": "E-Autos boomen bei deutschen Käufern",
-   "s": "Die hohen Spritpreise lassen offenbar viele Menschen umdenken: Mehr als jedes dritte neu zugelassene Auto war zuletzt ein Elektroauto. Die Zulassungen von Benzin- und Dieselautos brachen dagegen ein.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/neuzulassungen-pkw-kba-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T10:01:36+00:00"
-  },
-  {
-   "t": "Streckensanierung Berlin-Hannover wird aufwendiger - und teurer",
-   "s": "Fast 1,5 Stunden länger brauchen nun Züge zwischen Hannover und Berlin. Und die Generalsanierung soll mehr als ein Jahr dauern - wesentlich länger als noch vor kurzem angekündigt. Das führt zu Protesten. Von Andre Kartschall.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-hannover-berlin-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T09:15:37+00:00"
-  },
-  {
-   "t": "Kommentar: Politische Kälte auf dem spanischen Wohnungsmarkt",
-   "s": "Das spanische Parlament hat geplante, recht milde Mieterschutzregeln abgelehnt. Das Nein offenbart politische Kälte gegenüber einem der größten Probleme des Landes. Für Ministerpräsident Pedro Sánchez wird das zur Bewährungsprobe.Von Hans-Günter Kellner",
-   "u": "https://www.deutschlandfunk.de/kommentar-spanien-proteste-mieten-wohnen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-05T08:29:00+00:00"
-  },
-  {
-   "t": "Gericht ordnet Insolvenzverfahren für Galeria an",
-   "s": "Das Amtsgericht Düsseldorf hat das vorläufige Insolvenzverfahren für Galeria angeordnet. Die Zukunft der Kaufhauskette ist ungewiss. Es ist bereits der vierte Insolvenzantrag des Unternehmens.",
-   "u": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/galeria-insolvenzverfahren-zulassung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T08:24:00+00:00"
-  },
-  {
-   "t": "Warum immer mehr junge Menschen einen Job in der Pflege wollen",
-   "s": "Immer mehr junge Menschen entscheiden sich für eine Ausbildung im Gesundheitswesen: Kliniken melden Bewerberrekorde, Pflegeschulen haben Wartelisten. Gleichzeitig bleibt der Fachkräftemangel groß. Von Johannes Baumert.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ausbildungsboom-pflege-gesundheit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T04:47:41+00:00"
-  },
-  {
-   "t": "SPD-Basis setzt rote Linien bei der Arbeitszeitreform",
-   "s": "Die Koalition will Arbeitszeitregeln flexibler machen. Nun meldet sich die SPD-Basis zu Wort: Keine Wochenarbeitszeit ohne Tarifvertrag, heißt es in einem Positionspapier. Das könnte neuen Streit in der Koalition bedeuten. Von Jan-Peter Bartels.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/spd-arbeitszeit-woche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T03:00:50+00:00"
-  },
-  {
-   "t": "Gewerbesteueroasen - Standortwettbewerb auf Kosten von Kommunen",
-   "s": "Steueroasen gibt es nicht nur auf den Cayman Islands, sondern auch in Deutschland. Sie sind legal, führen aber auch zu Missbrauch durch Unternehmer. Leidtragende sind die Kommunen.",
-   "u": "https://www.deutschlandfunk.de/steueroasen-deutschland-gewerbesteuer-kommunen-unternehmen-hebesatz-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-27T15:20:00+00:00"
-  },
-  {
-   "t": "Vergesellschaftung - Soziale Wohnungspolitik mit Risiken",
-   "s": "Die Linke will in Berlin Wohnungsbestände von großen Konzernen vergesellschaften. Nach dem Grundgesetz ist das prinzipiell möglich. Welche Folgen hätte das für die Mieten? Und ist es auch ein Mittel gegen die Wohnungsnot?",
-   "u": "https://www.deutschlandfunk.de/vergesellschaftung-enteignung-wohnungen-berlin-linke-elif-eralp-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-27T14:18:00+00:00"
   }
  ]
 }

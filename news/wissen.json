@@ -1,7 +1,21 @@
 {
  "name": "Wissen",
- "updated": "2026-10-07T00:43:30+00:00",
+ "updated": "2026-10-07T10:17:18+00:00",
  "items": [
+  {
+   "t": "Jetzt live: Wer bekommt den Chemie-Nobelpreis?",
+   "s": "Der Nobelpreis ist wohl die renommierteste Auszeichnung der Welt. Heute gibt die Königlich-Schwedische Akademie der Wissenschaften in Stockholm bekannt, wer in diesem Jahr den Preis in der Kategorie Chemie erhält.",
+   "u": "https://www.tagesschau.de/wissen/forschung/nobelpreise-livestream-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T09:35:47+00:00"
+  },
+  {
+   "t": "Weltgesundheitsorganisation warnt vor Ausbreitung von Fettleibigkeit",
+   "s": "Immer mehr Kinder und Jugendliche weltweit sind fettleibig. Darum hat die WHO nun globale Leitlinien herausgegeben, um eine weitere Zunahme von Adipositasfällen zu stoppen. Dabei im Fokus: die Ernährung. Abnehmspritzen lehnt die WHO ab.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/who-warnt-vor-ausbreitung-von-fettleibigkeit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T08:21:57+00:00"
+  },
   {
    "t": "Nobelpreis für Physik: Auszeichnung für Nachweis von \"Geistern aus dem All\"",
    "s": "Ein riesiges Observatorium unter dem antarktischen Eis: Mit dieser verrückten Idee weist Francis Halzen Neutrinos nach - \"Geisterteilchen\" aus dem All. Dafür wird er mit dem Physik-Nobelpreis ausgezeichnet. Von David Beck und Ralf Kölbel.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/frauengesundheit-forschung-allianz-100.html",
    "q": "Tagesschau",
    "d": "2026-09-22T15:50:46+00:00"
-  },
-  {
-   "t": "Gründung einer Allianz für Frauengesundheit in Berlin",
-   "s": "Gründung einer Allianz für Frauengesundheit in Berlin",
-   "u": "https://www.tagesschau.de/video/video-1653672.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T15:44:26+00:00"
-  },
-  {
-   "t": "Gertraud Stadler, Leitung Geschlechterforschung in der Medizin, Charité Berlin, zu einer Allianz für Frauengesundheit",
-   "s": "Gertraud Stadler, Leitung Geschlechterforschung in der Medizin Charité Berlin, zu einer Allianz für Frauengesundheit",
-   "u": "https://www.tagesschau.de/video/video-1653554.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T12:54:03+00:00"
   }
  ]
 }

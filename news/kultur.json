@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-07T00:43:33+00:00",
+ "updated": "2026-10-07T10:17:21+00:00",
  "items": [
+  {
+   "t": "Nach gescheiterter Hinrichtung: Pike soll wieder bei Bewusstsein sein",
+   "s": "Nach einem gescheiterten Hinrichtungsversuch in Tennessee war Christa Pike zunächst bewusstlos. Nun ist sie laut ihren Anwälten wieder ansprechbar. Wie es nun weitergeht.",
+   "u": "https://taz.de/Nach-gescheiterter-Hinrichtung/!6219561/",
+   "q": "taz",
+   "d": "2026-10-07T06:05:00+00:00"
+  },
   {
    "t": "Todesstrafe im US-Militär: Trump genehmigt erste Militärhinrichtung seit über 60 Jahren",
    "s": "Erstmals seit 1961 könnte es in den USA eine Militärexekution geben: die Erschießung des Fort-Hood-Attentäters, der 2009 auf dem Stützpunkt 13 Menschen tötete.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/US-Zwischenwahlen-im-November/!6216166/",
    "q": "taz",
    "d": "2026-09-24T13:50:00+00:00"
-  },
-  {
-   "t": "US-Medien im Weißen Haus: Sie dürfen wieder rein",
-   "s": "Nachdem US-Präsident Donald Trump einigen Medien den Zutritt ins Weiße Haus verweigert hatte, klagten die betroffenen Sender. Jetzt entschied ein Gericht.",
-   "u": "https://taz.de/US-Medien-im-Weissen-Haus/!6215888/",
-   "q": "taz",
-   "d": "2026-09-24T06:00:00+00:00"
   }
  ]
 }

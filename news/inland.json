@@ -1,7 +1,126 @@
 {
  "name": "Inland",
- "updated": "2026-10-07T00:43:28+00:00",
+ "updated": "2026-10-07T10:17:16+00:00",
  "items": [
+  {
+   "t": "SPD-Bundesspitze fordert von der CDU Aufklärung zu Sachsen-Anhalt",
+   "s": "Die Wahl des AfD-Politikers Rausch zum Landtagspräsidenten wirkt sich auf die Bundespolitik aus. Die SPD fordert vom Koalitionspartner CDU Aufklärung, die SPD-Fraktion protestierte in Berlin an einem symbolträchtigen Ort.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-reaktion-koalition-sachsenanhalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T09:34:33+00:00"
+  },
+  {
+   "t": "Schwedisch-finnisches Manöver: Zu Besuch an der Nato-Nordostflanke",
+   "s": "Schweden und Finnland üben auf See gemeinsam für den Ernstfall. Der Zivilbevölkerung zeigen sie sich gerne. Ein Ortsbesuch.",
+   "u": "https://taz.de/Schwedisch-finnisches-Manoever/!6219349/",
+   "q": "taz",
+   "d": "2026-10-07T09:04:00+00:00"
+  },
+  {
+   "t": "Ehemalige IS-Kämpfer: NGO schlägt Alarm",
+   "s": "Mutmaßliche ehemalige IS-Kämpfer sind im Frühjahr von Syrien in den Irak verlegt worden, unter ihnen auch Deutsche. Dort drohen ihnen unfaire Verfahren.",
+   "u": "https://taz.de/Ehemalige-IS-Kaempfer/!6219570/",
+   "q": "taz",
+   "d": "2026-10-07T08:54:00+00:00"
+  },
+  {
+   "t": "Jüdischer Alltag in Deutschland: Leben mit Sicherheitsvorkehrungen",
+   "s": "Seit dem Terrorangriff der Hamas auf Israel 2023 hat sich die Bedrohungslage für Jüdinnen und Juden in Deutschland weiter verschärft. Hinter Anschlagsplänen hierzulande stecken mutmaßlich auch iranische Netzwerke. Von J. Röhmel und S. Wolf.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/juedisches-leben-deutschland-106.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T08:17:17+00:00"
+  },
+  {
+   "t": "Nationale Wasserstrategie der Bundesregierung - Was tun gegen Wasserknappheit?",
+   "s": "Die Klimakrise wird auch in Deutschland immer spürbarer – unter anderem durch Dürren. Deshalb will die Bundesregierung handeln. Das Bundeskabinett beschloss eine Nationale Wasserstrategie. Damit soll langfristig gegen Wasserknappheit gehandelt werden.",
+   "u": "https://www.deutschlandfunk.de/wasserknappheit-wassermangel-nationale-wasserstrategie-durre-in-deutschland-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-07T08:12:00+00:00"
+  },
+  {
+   "t": "Bürgerkrieg in Mali: Regierungstruppen erobern die Stadt Kidal zurück",
+   "s": "Tuareg-Rebellen haben sich aus der nordmalischen Stadt zurückgezogen, die sie vor fünf Monaten erobert hatten. Es ist ein großer symbolischer Sieg für die Regierung.",
+   "u": "https://taz.de/Buergerkrieg-in-Mali/!6219566/",
+   "q": "taz",
+   "d": "2026-10-07T08:09:00+00:00"
+  },
+  {
+   "t": "Frieden im Nahen Osten: Und doch gibt es Hoffnung",
+   "s": "Wir müssen endlich aufhören, den Nahost-Konflikt nur zu verwalten, sagt der palästinensische Friedensaktivist Hamza Howidy. Dabei spielt der Westen eine entscheidende Rolle.",
+   "u": "https://taz.de/Frieden-im-Nahen-Osten/!6219336/",
+   "q": "taz",
+   "d": "2026-10-07T07:23:00+00:00"
+  },
+  {
+   "t": "Dritter Jahrestag des 7. Oktober: Israel gedenkt der Opfer des Hamas-Großangriffs",
+   "s": "Drei Jahre nach dem blutigen Massaker im Süden Israels gedenkt das Land der Opfer. Juden und Israelis sind weiterhin konkrete Ziele von Terror und Gewalt, kritisieren Rabbiner.",
+   "u": "https://taz.de/Dritter-Jahrestag-des-7-Oktober/!6219563/",
+   "q": "taz",
+   "d": "2026-10-07T07:12:00+00:00"
+  },
+  {
+   "t": "Als der „War on Terror“ begann",
+   "s": "Nach den Anschlägen vom 11. September 2001 erklärten die USA dem Terror den Krieg. Am 7. Oktober griffen sie gemeinsam mit den Briten Afghanistan an. Der „War on Terror“ forderte Hunderttausende Menschenleben und veränderte die Weltpolitik.Stryjak, Jürgen",
+   "u": "https://www.deutschlandfunk.de/07-10-2001-amerikanisch-britische-luftangriffe-auf-taliban-und-al-qaida-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-07T07:05:00+00:00"
+  },
+  {
+   "t": "Landtagspräsidentenwahl in Magdeburg: Die CDU ist nur noch einen Schritt vom Abgrund entfernt",
+   "s": "Abgeordnete der Union haben wohl einen AfD-Politiker in ein hohes Staatsamt gewählt. Wenn die CDU nicht klärt, wo sie steht, wird es sie zerreißen.",
+   "u": "https://taz.de/Landtagspraesidentenwahl-in-Magdeburg/!6219557/",
+   "q": "taz",
+   "d": "2026-10-07T06:07:00+00:00"
+  },
+  {
+   "t": "Ex-BND-Chef Hanning wird heute dem Ermittlungsrichter vorgeführt",
+   "s": "Die Liste der Vorwürfe ist lang: Der BGH entscheidet heute, ob der unter Spionageverdacht stehende Ex-BND-Chef Hanning in U-Haft kommt. Politiker fordern ein Verbot von Anschlussjobs für hohe Ex-Nachrichtendienstmitarbeiter.",
+   "u": "https://www.tagesschau.de/inland/hanning-bnd-chef-ermittlungsrichter-bgh-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T06:06:22+00:00"
+  },
+  {
+   "t": "Nach gescheiterter Hinrichtung: Pike soll wieder bei Bewusstsein sein",
+   "s": "Nach einem gescheiterten Hinrichtungsversuch in Tennessee war Christa Pike zunächst bewusstlos. Nun ist sie laut ihren Anwälten wieder ansprechbar. Wie es nun weitergeht.",
+   "u": "https://taz.de/Nach-gescheiterter-Hinrichtung/!6219561/",
+   "q": "taz",
+   "d": "2026-10-07T06:05:00+00:00"
+  },
+  {
+   "t": "Drei Jahre nach Hamas-Angriff: Israel trauert, Gaza leidet",
+   "s": "Drei Jahre nach dem blutigen Angriff der Hamas gedenkt Israel der Opfer. Im Gazastreifen leiden die Menschen. Welthungerhilfe-Generalsekretär Matthias Mogge berichtet von Hunger, Gewalt, Zerstörung und katastrophalen Lebensumständen.Segador, Julio",
+   "u": "https://www.deutschlandfunk.de/jahrestag-des-terroranschlags-der-hamas-auf-israel-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-07T05:40:00+00:00"
+  },
+  {
+   "t": "Antifaschistische Wirtschaftpolitik: Dunkelrot-Rot-Grün sucht nach Alternativen",
+   "s": "Die Ökonomin Isabella M. Weber präsentiert in Berlin ihr aktuelles Buch „Antifaschistische Wirtschaftspolitik“ – zusammen mit SPD, Linken und Grünen.",
+   "u": "https://taz.de/Antifaschistische-Wirtschaftpolitik/!6219373/",
+   "q": "taz",
+   "d": "2026-10-07T05:22:00+00:00"
+  },
+  {
+   "t": "Koalitionsausschuss: Vier Stimmen sorgen für neuen Streit",
+   "s": "Union und SPD sind zuletzt leidenschaftlich über Rente, Pflege und Steuern aneinandergeraten. SPD-Fraktionsvize Wiebke Esdar gibt zu, dass alles \"zu ruckelig\" verläuft. Doch im Koalitionsausschuss könnte ein ganz anderer Streit bestimmend sein.Heckmann, Dirk-Oliver",
+   "u": "https://www.deutschlandfunk.de/interview-mit-wiebke-esdar-spd-fraktionsvize-zum-koalitionsausschuss-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-07T05:15:00+00:00"
+  },
+  {
+   "t": "Verbraucherpolitiker kritisieren Schufa wegen mangelnder Transparenz",
+   "s": "Erst bewarb die Schufa ihren neuen Score mit Transparenz, dann kamen durch NDR- und SZ-Recherchen weitere Bewertungsscores ans Licht. Linke, Grüne, SPD und Union üben Kritik und fordern Antworten. Nur die AfD sieht kein Problem. Von P. Hornung.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/schufa-bundestag-kritik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T04:59:20+00:00"
+  },
+  {
+   "t": "Bundeskanzler Merz sichert Israel Beistand zu",
+   "s": "Drei Jahre nach dem Hamas-Überfall auf Israel verspricht Bundeskanzler Merz dem jüdischen Staat festen Beistand. Auch werde Deutschland im Kampf gegen Antisemitismus nicht nachlassen.",
+   "u": "https://www.tagesschau.de/inland/israel-hamas-merz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T03:20:19+00:00"
+  },
   {
    "t": "Vorsitz des Parlamentarischen Kontrollgremiums Henrichmann im Interview",
    "s": "Die Spionage-Vorwürfe gegen Ex-BND-Chef Hanning haben \"an den Grundfesten gerüttelt\", so der Vorsitzende des Parlamentarischen Kontrollgremiums, Henrichmann, im tagesthemen-Interview. Das Wichtigste sei nun eine lückenlose Aufklärung.",
@@ -17,11 +136,11 @@
    "d": "2026-10-06T18:57:31+00:00"
   },
   {
-   "t": "Frieden im Nahen Osten: Und doch gibt es Hoffnung",
-   "s": "Wir müssen endlich aufhören, den Nahost-Konflikt zu verwalten, sagt der palästinensische Friedensaktivist Hamza Howidy. Dabei spielt der Westen eine entscheidende Rolle.",
-   "u": "https://taz.de/Frieden-im-Nahen-Osten/!6219336/",
-   "q": "taz",
-   "d": "2026-10-06T17:45:00+00:00"
+   "t": "Kommentar zu Sachsen-Anhalt: Grenzverschiebungen ohne absehbares Ende",
+   "s": "Hans-Thomas Tillschneider ist Landtagsvizepräsident in Sachsen-Anhalt, obwohl ihn im Vorfeld alle außer der AfD abgelehnt hatten. In der geheimen Wahl zeigten sich neue politische Realitäten: Die AfD hat Rückhalt über das BSW hinaus.Ein Kommentar von Niklas Ottersbach",
+   "u": "https://www.deutschlandfunk.de/kommentar-landtagspraesident-afd-sachsen-anhalt-tillschneider-rausch-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-06T18:11:00+00:00"
   },
   {
    "t": "Ärger in Berlin nach AfD-Erfolg in Sachsen-Anhalt",
@@ -29,6 +148,13 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/wahl-landtagspraesident-sachsen-anhalt-afd-100.html",
    "q": "Tagesschau",
    "d": "2026-10-06T17:05:00+00:00"
+  },
+  {
+   "t": "Nord-Stream-Prozess: Steht der richtige Täter vor Gericht?",
+   "s": "Vier Jahre nach den Nord-Stream-Anschlägen wird dem ukrainischen Offizier Serhii K. in Hamburg der Prozess gemacht. Doch viele Fragen sind noch offen. Handelte er in staatlichem Auftrag? Und können die Pipelines als legitimes Kriegsziel gelten?Adler, Sabine",
+   "u": "https://www.deutschlandfunk.de/nord-stream-prozess-steht-der-richtige-taeter-vor-gericht-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-06T16:40:00+00:00"
   },
   {
    "t": "Proteste in Frankreich: Nach den Lycées die Universitäten",
@@ -43,132 +169,6 @@
    "u": "https://taz.de/Kapitaen-der-deutschen-Klimadiplomatie/!6219335/",
    "q": "taz",
    "d": "2026-10-06T16:32:00+00:00"
-  },
-  {
-   "t": "AfD-Landtagspräsident in Sachsen-Anhalt: Rechtsextremer Durchmarsch",
-   "s": "Tobias Rausch ist der erste rechtsextreme Landtagspräsident der Republik. Das lässt erste Schlüsse zu, wer künftig in Sachsen-Anhalt regiert.",
-   "u": "https://taz.de/AfD-Landtagspraesident-in-Sachsen-Anhalt/!6219334/",
-   "q": "taz",
-   "d": "2026-10-06T16:29:00+00:00"
-  },
-  {
-   "t": "Sachsen-Anhalt: AfD-Erfolg bringt CDU und Schulze in Bedrängnis",
-   "s": "Erstmals stellt die AfD einen Landtagspräsidenten. Die Wahl von Tobias Rausch in Sachsen-Anhalt bringt vor allem einen Politiker der CDU in Bedrängnis: Noch-Ministerpräsident Sven Schulze. Steht seine Fraktion noch hinter ihm? Von L. Frohmüller.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/magdeburg-afd-landtagspraesident-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T16:22:39+00:00"
-  },
-  {
-   "t": "Sachsen-Anhalt: AfD stellt mit Tillschneider auch Landtagsvizepräsident",
-   "s": "Der AfD-Politiker Tillschneider ist zum neuen Landtagsvizepräsidenten in Sachsen-Anhalt gewählt worden. Die CDU stellt mit dem Abgeordneten Borchert den zweiten Vizepräsidenten. Der SPD-Kandidat Willingmann fiel bei der Wahl durch.",
-   "u": "https://www.tagesschau.de/inland/sachsen-anhalt-landtagsvizepraesident-tillschneider-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T16:15:19+00:00"
-  },
-  {
-   "t": "Entsetzen nach Festnahme des Ex-BND-Chefs Hanning",
-   "s": "\"Verstörend\" und \"alarmierend\": Die überraschende Festnahme des Ex-BND-Chefs Hanning hat für Aufsehen gesorgt. Sicherheitspolitiker von Regierung und Opposition zeigen sich entsetzt und fordern eine umfassende Aufklärung des Falls.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/festnahme-hanning-bnd-reaktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T15:51:40+00:00"
-  },
-  {
-   "t": "Flugzeugabsturz: Kein Schmerzensgeld für Germanwings-Hinterbliebene",
-   "s": "Das Landgericht Braunschweig hat elf Jahre nach dem Absturz Ansprüche gegen den Staat verneint. Klä­ge­r:in­nen prüfen eine Berufung.",
-   "u": "https://taz.de/Flugzeugabsturz/!6219473/",
-   "q": "taz",
-   "d": "2026-10-06T15:30:00+00:00"
-  },
-  {
-   "t": "Grünen-Politiker über Polizeigesetzpläne: „Freiheit kann zerbrechlich sein“",
-   "s": "Schleswig-Holsteins schwarz-grüne Koalition plant ein neues Polizeigesetz. Wuchtige Kritik aus der Partei lässt Innenpolitiker Jan Kürschner nicht kalt.",
-   "u": "https://taz.de/Gruenen-Politiker-ueber-Polizeigesetzplaene/!6216326/",
-   "q": "taz",
-   "d": "2026-10-06T14:49:00+00:00"
-  },
-  {
-   "t": "Nord-Stream-Prozess: Steht der richtige Täter vor Gericht?",
-   "s": "Vier Jahre nach den Nord-Stream-Anschlägen wird dem ukrainischen Offizier Serhii K. in Hamburg der Prozess gemacht. Doch viele Fragen sind noch offen. Handelte er in staatlichem Auftrag? Und können die Pipelines als legitimes Kriegsziel gelten?Adler, Sabine",
-   "u": "https://www.deutschlandfunk.de/nord-stream-prozess-steht-der-richtige-taeter-vor-gericht-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-06T14:48:05+00:00"
-  },
-  {
-   "t": "Drei Jahre nach 7. Oktober: Ein Neuanfang für Be’eri",
-   "s": "Die Kibbuzniks im Süden Israels vertrauten sich so sehr, dass sie ihre Haustüren nicht abschlossen. Dann kam der 7. Oktober. Wie lebt es sich dort heute?",
-   "u": "https://taz.de/Drei-Jahre-nach-dem-7-Oktober/!6214490/",
-   "q": "taz",
-   "d": "2026-10-06T13:37:00+00:00"
-  },
-  {
-   "t": "Griechenland: Prozess gegen Seenotretter beginnt",
-   "s": "Die griechische Justiz wirft den Aktivisten Tommy Olsen und Panayote Dimitras die Gründung einer kriminellen Vereinigung vor. Amnesty International ist entsetzt.",
-   "u": "https://taz.de/Seenotrettung-in-Griechenland/!6219270/",
-   "q": "taz",
-   "d": "2026-10-06T13:23:00+00:00"
-  },
-  {
-   "t": "Studie zu Netzwerken: Irans linksextreme Bündnispartner in Deutschland",
-   "s": "Das Islamische Zentrum Hamburg ist verboten, doch iranische Netzwerke bestehen fort, zeigt eine neue Studie. Sie finden auch Anschluss an Teile der politischen Linken.",
-   "u": "https://taz.de/Studie-zu-Iran-treuen-Netzwerken/!6219284/",
-   "q": "taz",
-   "d": "2026-10-06T12:52:00+00:00"
-  },
-  {
-   "t": "Die Macht der Blockade: Protest an der Grenze des Zulässigen",
-   "s": "Blockaden gegen Parteiveranstaltungen gehören inzwischen zur Protestpraxis. Das Bündnis „Widersetzen“ ist ein Beispiel dafür. Doch die Aktionen zeigen, wie umstritten die Grenzen zivilen Ungehorsams in der Demokratie sind.",
-   "u": "https://www.deutschlandfunk.de/ziviler-ungehorsam-grenzen-protest-afd-blockade-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-06T12:27:00+00:00"
-  },
-  {
-   "t": "Verdacht auf Lungenpest: Intransparenz russischer Behörden nährt Spekulationen",
-   "s": "In Sibirien stirbt eine Medizinerin – angeblich an einer „gefährlichen Infektion“. Jetzt wird spekuliert, dass die Todesursache die Lungenpest sei.",
-   "u": "https://taz.de/Lungenpest-Verdacht-in-Russland/!6219350/",
-   "q": "taz",
-   "d": "2026-10-06T11:57:00+00:00"
-  },
-  {
-   "t": "Nach neun Jahren Exil: Spaniens Justiz macht Weg für Rückkehr Puigdemonts frei",
-   "s": "Das Verfassungsgericht kippt das zentrale Argument des Obersten Gerichtshofs für den Haftbefehl gegen Puigdemont, der damit aufgehoben ist.",
-   "u": "https://taz.de/Nach-neun-Jahren-Exil/!6219402/",
-   "q": "taz",
-   "d": "2026-10-06T11:55:00+00:00"
-  },
-  {
-   "t": "Abzug aus Kurdistan: Bîjî, bîjî, Bundeswehr",
-   "s": "Vor wenigen Tagen ging eine Ära zu Ende, die kaum Beachtung fand. Der deutsche Einsatz in Kurdistan sagt viel aus über das linke Verhältnis zur Bundeswehr.",
-   "u": "https://taz.de/Abzug-aus-Kurdistan/!6218836/",
-   "q": "taz",
-   "d": "2026-10-06T11:54:00+00:00"
-  },
-  {
-   "t": "Bundesweit erster AfD-Landtagspräsident in Sachsen-Anhalt gewählt",
-   "s": "Tobias Rausch ist neuer Landtagspräsident in Sachsen-Anhalt. Der 35-Jährige wurde im ersten Wahlgang in das höchste Amt des Bundeslandes gewählt. Damit stellt die AfD erstmals in Deutschland einen Landtagspräsidenten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T11:47:11+00:00"
-  },
-  {
-   "t": "Wasser wird wertvoller",
-   "s": "Deutschland hat im Winter zu viel Wasser – und im Sommer immer weniger. Das belastet Umwelt und Wirtschaft. Die Bundesregierung fordert einen “neuen Umgang” mit Wasser. Wer viel verbraucht, soll mehr zahlen.",
-   "u": "https://www.deutschlandfunk.de/wassermangel-deutschland-strategie-bundesregierung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-06T11:45:00+00:00"
-  },
-  {
-   "t": "Erster AfD-Landtagspräsident: Diese Macht hat Tobias Rausch jetzt",
-   "s": "Mit Tobias Rausch steht zum ersten Mal ein AfD-Politiker an der Spitze eines deutschen Landtags. In Sachsen-Anhalt wurde er im ersten Wahlgang gewählt. Das Amt ist nicht nur repräsentativ, sondern verfügt über wichtige Befugnisse im Parlamentsbetrieb.",
-   "u": "https://www.deutschlandfunk.de/tobias-rausch-afd-landtagspraesident-sachsen-anhalt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-06T11:14:00+00:00"
-  },
-  {
-   "t": "Papiere aus dem Geheimdienst angekauft: Ex-BND-Chef Hanning unter Spionageverdacht festgenommen",
-   "s": "Ex-BND-Chef August Hanning soll jahrelang interne Geheimdienstpapiere gekauft haben. Zudem soll er Kontakt zu einem ausländischen Nachrichtendienst gehabt haben.",
-   "u": "https://taz.de/Papiere-aus-dem-Geheimdienst-angekauft/!6219292/",
-   "q": "taz",
-   "d": "2026-10-06T10:27:00+00:00"
   }
  ]
 }

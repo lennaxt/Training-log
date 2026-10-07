@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-07T00:43:32+00:00",
+ "updated": "2026-10-07T10:17:20+00:00",
  "items": [
+  {
+   "t": "Schwedisch-finnisches Manöver: Zu Besuch an der Nato-Nordostflanke",
+   "s": "Schweden und Finnland üben auf See gemeinsam für den Ernstfall. Der Zivilbevölkerung zeigen sie sich gerne. Ein Ortsbesuch.",
+   "u": "https://taz.de/Schwedisch-finnisches-Manoever/!6219349/",
+   "q": "taz",
+   "d": "2026-10-07T09:04:00+00:00"
+  },
   {
    "t": "Proteste in Frankreich: Nach den Lycées die Universitäten",
    "s": "Die Schülerbewegung treibt die Regierung immer weiter in die Enge, Studierende schließen sich ihr an. Das Vorgehen der Polizei wird kritisiert.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Deutsche-Stiftungen-in-Georgien/!6218596/",
    "q": "taz",
    "d": "2026-10-04T11:26:00+00:00"
-  },
-  {
-   "t": "Mietenkampf in Spanien: Vom Frust zum Generalstreik",
-   "s": "Nach dem Scheitern des Mietreformpakets kommt es zum Massenprotest. Parallel dazu gibt es Streikpläne und Spekulationen über vorgezogene Neuwahlen.",
-   "u": "https://taz.de/Mietenkampf-in-Spanien/!6218657/",
-   "q": "taz",
-   "d": "2026-10-04T11:23:00+00:00"
   }
  ]
 }

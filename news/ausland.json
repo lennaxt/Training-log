@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-10-07T00:43:29+00:00",
+ "updated": "2026-10-07T10:17:17+00:00",
  "items": [
+  {
+   "t": "Konservative Meinungsmacht: US-Sender Fox News wird 30",
+   "s": "Vor genau 30 Jahren ging Fox News erstmals auf Sendung. Als Gegengewicht zu den eher linksliberalen Mainstream-Kanälen geplant, stieg der Sender schnell zum Markt- und Meinungsführer auf. Von Martin Ganslmeier",
+   "u": "https://www.tagesschau.de/ausland/amerika/fox-news-usa-medien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T09:52:01+00:00"
+  },
+  {
+   "t": "Israel gedenkt der Opfer des Hamas-Überfalls am 7. Oktober 2023",
+   "s": "Vor drei Jahren überfielen islamistische Terroristen Israel. Etwa 1.200 Menschen wurden getötet, Hunderte verschleppt. In Tel Aviv und an anderen Orten im Land wird der Opfer des Hamas-Überfalls gedacht.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-gedenken-hamas-ueberfall-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T09:24:13+00:00"
+  },
+  {
+   "t": "129 Tage in der Hand der Hamas: Das neue Leben des Luis Har",
+   "s": "Am 7. Oktober 2023 wurde Luis Har von der Hamas verschleppt und 129 Tage später in einer dramatischen Aktion befreit. Drei Jahre danach kämpft er mit den Spuren des Traumas - und dem Schweigen seiner Nachbarn. Von J. Segador.",
+   "u": "https://www.tagesschau.de/ausland/asien/129-tage-hamas-har-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T01:01:01+00:00"
+  },
   {
    "t": "USA: Frau nach gescheiterter Hinrichtung wieder bei Bewusstsein",
    "s": "Nach einem gescheiterten Hinrichtungsversuch in Tennessee war Christa Pike zunächst bewusstlos. Nun ist sie laut ihren Anwälten wieder ansprechbar - sie fordern, ihre Todesstrafe in lebenslange Haft umzuwandeln.",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/daenemark-hackerangriff-100.html",
    "q": "Tagesschau",
    "d": "2026-10-05T09:14:13+00:00"
-  },
-  {
-   "t": "Solidarität mit Studentin \"Jane Doe\" nach Vergewaltigungsklage",
-   "s": "Unter dem Motto \"Ich bin Jane Doe\" solidarisieren sich weltweit Menschen in den Sozialen Medien mit einer Studentin. Unter diesem Pseudonym hatte die junge Frau eine Klage wegen Gruppenvergewaltigung eingereicht.",
-   "u": "https://www.tagesschau.de/ausland/amerika/jane-doe-cornell-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T08:34:36+00:00"
-  },
-  {
-   "t": "Spanien: Regierungschef Sánchez kündigt Neuwahlen an",
-   "s": "Der Streit über die Wohnungsmarktpolitik führt zu Neuwahlen in Spanien. Regierungschef Sánchez kündigte eine vorgezogene Parlamentswahl im November an. Seine Sozialisten liegen in Umfragen hinter den Konservativen.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-104.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T08:11:20+00:00"
-  },
-  {
-   "t": "Vorgezogene Wahl: Das Kalkül von Spaniens \"Überlebenskünstler\" Sánchez",
-   "s": "Schon die vergangenen Regierungsjahre von Spaniens Ministerpräsident Sánchez glichen einer Achterbahnfahrt. Dass er nun vorgezogene Wahlen ausgerufen hat, dürfte mit einer Umfrage zum Thema \"Mieterschutz\" zusammenhängen. Von S. Kisters.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-sanchez-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T07:22:10+00:00"
   }
  ]
 }
