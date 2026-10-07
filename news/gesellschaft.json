@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-07T10:17:20+00:00",
+ "updated": "2026-10-07T20:38:45+00:00",
  "items": [
+  {
+   "t": "Kosovo-Sondertribunal: Zeit zur Aussöhnung",
+   "s": "Kosovos Präsidentin verdankt ihren Job einem misslichen Deal. Die Hoffnung bleibt, dass es zu einer Annäherung zwischen Prishtina und Belgrad kommt.",
+   "u": "https://taz.de/Kosovo-Sondertribunal/!6219682/",
+   "q": "taz",
+   "d": "2026-10-07T16:23:00+00:00"
+  },
+  {
+   "t": "Wehrdienst in der russischen Armee: Energydrinks gegen die Einberufung",
+   "s": "In Russland müssen auch offensichtlich untaugliche Männer Wehrdienst leisten. Dann werden sie im Angriffskrieg in der Ukraine verheizt.",
+   "u": "https://taz.de/Wehrdienst-in-der-russischen-Armee/!6219625/",
+   "q": "taz",
+   "d": "2026-10-07T15:48:00+00:00"
+  },
+  {
+   "t": "Präsidentschaftswahl in Kosovo: Auf den letzten Drücker",
+   "s": "Kosovos Parlament wählt vor dem Ablauf der Frist mit Justina Shiroka Pula doch noch ein Staatsoberhaupt. Damit werden Neuwahlen abgewendet.",
+   "u": "https://taz.de/Praesidentschaftswahl-in-Kosovo/!6219572/",
+   "q": "taz",
+   "d": "2026-10-07T13:05:00+00:00"
+  },
+  {
+   "t": "Nachwahl in Großbritannien: Labour-Kandidatin aus Somalia ringt mit Grünen-Chef um Sitz",
+   "s": "Der britische Premier Keir Starmer gibt seinen Londoner Wahlkreis auf. Um seine Nachfolge rivalisieren zwei Kandidaten, deren Tonfall sich deutlich unterscheidet.",
+   "u": "https://taz.de/Nachwahl-in-Grossbritannien/!6219606/",
+   "q": "taz",
+   "d": "2026-10-07T12:22:00+00:00"
+  },
+  {
+   "t": "Schülerproteste gehen weiter: Frankreichs Regierung setzt Einsatz von Schockgranaten aus",
+   "s": "Nach schweren Verletzungen bei den jüngsten Schulprotesten in Frankreich bleibt die Lage angespannt. Präsident Macron mahnt zur Mäßigung bei Polizeieinsätzen.",
+   "u": "https://taz.de/Schuelerproteste-gehen-weiter/!6219635/",
+   "q": "taz",
+   "d": "2026-10-07T10:30:00+00:00"
+  },
   {
    "t": "Schwedisch-finnisches Manöver: Zu Besuch an der Nato-Nordostflanke",
    "s": "Schweden und Finnland üben auf See gemeinsam für den Ernstfall. Der Zivilbevölkerung zeigen sie sich gerne. Ein Ortsbesuch.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Russischer-Angriff-auf-Bruecke-in-Kyjiw/!6218650/",
    "q": "taz",
    "d": "2026-10-04T16:34:00+00:00"
-  },
-  {
-   "t": "Jugendrevolte in Frankreich: Die geopferte Generation",
-   "s": "Der Aufstand der Jugendlichen ist eine direkte Reaktion auf die geplanten Sparmaßnahmen. Die französische Regierung sollte nicht so überrascht tun.",
-   "u": "https://taz.de/Jugendrevolte-in-Frankreich/!6211869/",
-   "q": "taz",
-   "d": "2026-10-04T16:33:00+00:00"
-  },
-  {
-   "t": "Schulstreik in Frankreich: Klassenkampf in Frankreich",
-   "s": "Frankreichs Innenminister trifft Vertreter der protestierenden Schülerschaft. Aber eine Einigung ist nicht in Sicht.",
-   "u": "https://taz.de/Schulstreik-in-Frankreich/!6218601/",
-   "q": "taz",
-   "d": "2026-10-04T14:26:00+00:00"
-  },
-  {
-   "t": "Deutsche Kooperation mit der Ukraine: Mehrfacher Luftalarm bei Merz-Besuch in Kyjiw",
-   "s": "Merz verspricht, dass Deutschland bei Unterstützung der Ukraine nicht nachlassen werde. Milliarden für Rüstungshilfe und Reparatur von Kraftwerken.",
-   "u": "https://taz.de/Deutsche-Kooperation-mit-der-Ukraine/!6218648/",
-   "q": "taz",
-   "d": "2026-10-04T14:19:00+00:00"
-  },
-  {
-   "t": "Tausend Jahre nach seinem Tod: Zar Samuil bekommt neue Ruhestätte in Sofia",
-   "s": "Auch wenn nicht gänzlich sicher ist, dass er es wirklich ist: Die sterblichen Überreste des Zaren Samuil sind nach Bulgarien umgebettet worden.",
-   "u": "https://taz.de/Mutmassliche-Ueberreste-von-bulgarischem-Zar-kehren-tausend-Jahre-nach-seinem-Tod-zurueck/!6218697/",
-   "q": "taz",
-   "d": "2026-10-04T12:06:00+00:00"
-  },
-  {
-   "t": "Deutsche Stiftungen in Georgien: Moskau lässt grüßen",
-   "s": "Die Konrad-Adenauer-Stiftung und die Friedrich-Naumann-Stiftung ziehen sich aus Georgien zurück. Ein neuer Erfolg Putins gegen die Zivilgesellschaft.",
-   "u": "https://taz.de/Deutsche-Stiftungen-in-Georgien/!6218596/",
-   "q": "taz",
-   "d": "2026-10-04T11:26:00+00:00"
   }
  ]
 }

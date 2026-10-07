@@ -1,13 +1,20 @@
 {
  "name": "Wissen",
- "updated": "2026-10-07T10:17:18+00:00",
+ "updated": "2026-10-07T20:38:43+00:00",
  "items": [
   {
-   "t": "Jetzt live: Wer bekommt den Chemie-Nobelpreis?",
-   "s": "Der Nobelpreis ist wohl die renommierteste Auszeichnung der Welt. Heute gibt die Königlich-Schwedische Akademie der Wissenschaften in Stockholm bekannt, wer in diesem Jahr den Preis in der Kategorie Chemie erhält.",
-   "u": "https://www.tagesschau.de/wissen/forschung/nobelpreise-livestream-100.html",
+   "t": "Grundlegendes Konzept entdeckt - Chemie-Nobelpreis für Japaner und Franzosen",
+   "s": "Die Forscher Henri Kagan und Kenso Soai haben ein grundlegendes Konzept der organischen Chemie entdeckt. Ihre Ergebnisse sind auch für die Entwicklung von Medikamenten wichtig. Von Veronika Simon.",
+   "u": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-kagan-soai-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-07T09:35:47+00:00"
+   "d": "2026-10-07T14:49:24+00:00"
+  },
+  {
+   "t": "Chemie-Nobelpreis geht an Franzosen Kagan und Japaner Soai",
+   "s": "Der Nobelpreis für Chemie geht an den 1930 geborenen Franzosen Henri B. Kagan und den Japaner Kenso Soai. Sie werden für Entdeckungen ausgezeichnet, die etwa bei der Herstellung von Arzneimitteln entscheidend seien.",
+   "u": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-fuer-kagan-und-soai-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T11:52:14+00:00"
   },
   {
    "t": "Weltgesundheitsorganisation warnt vor Ausbreitung von Fettleibigkeit",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1654414.html",
    "q": "Tagesschau",
    "d": "2026-09-23T16:52:25+00:00"
-  },
-  {
-   "t": "Frauengesundheit: Wenn der Herzinfarkt übersehen wird",
-   "s": "Bestimmte Krankheiten äußern sich bei Frauen anders als bei Männern. Trotzdem werden geschlechtsspezifische Unterschiede häufig zu wenig berücksichtigt. Eine neue Allianz fordert Aufmerksamkeit. Von Philipp Wundersee.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/frauengesundheit-forschung-allianz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-09-22T15:50:46+00:00"
   }
  ]
 }

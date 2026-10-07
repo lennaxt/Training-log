@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-10-07T10:17:22+00:00",
+ "updated": "2026-10-07T20:38:47+00:00",
  "items": [
+  {
+   "t": "Schulproteste auch in Belgien: „Wir haben unsere eigenen Forderungen“",
+   "s": "Schon seit Monaten hält eine Streikbewegung Belgiens Schulen in Atem. Doch dort sind die Probleme anders als in Frankreich.",
+   "u": "https://taz.de/Schulproteste-auch-in-Belgien/!6219672/",
+   "q": "taz",
+   "d": "2026-10-07T14:17:00+00:00"
+  },
   {
    "t": "Frieden im Nahen Osten: Und doch gibt es Hoffnung",
    "s": "Wir müssen endlich aufhören, den Nahost-Konflikt nur zu verwalten, sagt der palästinensische Friedensaktivist Hamza Howidy. Dabei spielt der Westen eine entscheidende Rolle.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Kuenstliche-Intellligenz/!6213320/",
    "q": "taz",
    "d": "2026-09-15T15:11:00+00:00"
-  },
-  {
-   "t": "Wahlen in japanischer Präfektur: Wirtschaft statt Pazifismus",
-   "s": "Zweimal gewann Denny Tamaki in Okinawa mit einer Anti-Militär-Politik. Doch junge Japaner auf dem Archipel haben inzwischen andere Prioritäten.",
-   "u": "https://taz.de/Wahlen-in-japanischer-Praefektur/!6213043/",
-   "q": "taz",
-   "d": "2026-09-14T18:02:00+00:00"
   }
  ]
 }
