@@ -1,7 +1,35 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-08T10:36:42+00:00",
+ "updated": "2026-10-08T20:42:03+00:00",
  "items": [
+  {
+   "t": "Maricarmen im Krankenhaus gestorben: Tod nach Zwangsräumung",
+   "s": "Kurz bevor sie ihren neuen Mietvertrag unterzeichnen konnte, ist die Rentnerin Maricarmen gestorben. Das Mietenthema dürfte nun den Wahlkampf prägen.",
+   "u": "https://taz.de/Maricarmen-im-Krankenhaus-gestorben/!6219930/",
+   "q": "taz",
+   "d": "2026-10-08T17:47:00+00:00"
+  },
+  {
+   "t": "Schülerproteste in Frankreich: Religiöse Privatschulen schließen sich der Jugendrevolte an",
+   "s": "Mit weiteren Schulblockaden und Sit-ins vor Universitäten protestieren französische Jugendliche weiter. Premier Lecornu macht keine Zugeständnisse.",
+   "u": "https://taz.de/Schuelerproteste-in-Frankreich/!6219923/",
+   "q": "taz",
+   "d": "2026-10-08T16:15:00+00:00"
+  },
+  {
+   "t": "Russischer Angriff auf Pryluky: 22 Tote, darunter 5 Kinder",
+   "s": "In der Kleinstadt Pryluky beschossen russische Streitkräfte ein Wohngebiet mit sechs Marschflugkörpern. Die Stadt galt bislang als relativ sicher.",
+   "u": "https://taz.de/Russischer-Angriff-auf-Pryluky/!6219922/",
+   "q": "taz",
+   "d": "2026-10-08T14:40:00+00:00"
+  },
+  {
+   "t": "Neues Wahlgesetz in Italien: Meloni zementiert ihre Macht",
+   "s": "Italiens Rechtskoalition hat Giorgia Melonis neues Wahlgesetz verabschiedet. Künftig gibt es einen überproportionalen Bonus für die stärkste Partei.",
+   "u": "https://taz.de/Neues-Wahlgesetz-in-Italien/!6219925/",
+   "q": "taz",
+   "d": "2026-10-08T14:17:00+00:00"
+  },
   {
    "t": "Mietenproteste in Spanien: Rentnerin Maricarmen ist gestorben",
    "s": "Die 87-jährige Maricarmen Abascal, die in Spanien Mietenproteste und Neuwahlen ausgelöst hat, ist tot. Nun könnten sich die Fronten noch weiter verhärten.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Mietenkampf-in-Spanien/!6218820/",
    "q": "taz",
    "d": "2026-10-05T07:44:00+00:00"
-  },
-  {
-   "t": "Brüssel und Budapest: Es geht um Geld, viel Geld",
-   "s": "Nach dem Sturz Orbáns gehen Reformen in Ungarn nur schleppend weiter. Abgeordnete des Europäischen Parlaments kommen kaum an Informationen.",
-   "u": "https://taz.de/Bruessel-und-Budapest/!6218798/",
-   "q": "taz",
-   "d": "2026-10-05T06:41:00+00:00"
-  },
-  {
-   "t": "Homofeinde gegen türkischen Musiker: Verhaftet wegen sexy",
-   "s": "Am Ende schwingen zwei Männer die Hüften. Für die AKP und ihre „Familienpolitik“ ist das Musikvideo von Mabel Matiz ein Problem. Aber es gibt eine Antwort.",
-   "u": "https://taz.de/Homofeinde-gegen-tuerkischen-Musiker/!6218646/",
-   "q": "taz",
-   "d": "2026-10-05T05:12:00+00:00"
-  },
-  {
-   "t": "Wahltag in Bosnien und Herzegowina: Kampf um Stimmen und Identitäten",
-   "s": "Mittelstürmer Edin Džeko lässt sich zum Abschied als multikulturelle Seele Bosniens feiern. Ob sich das auch bei den Wahlen widerspiegelt?",
-   "u": "https://taz.de/Wahltag-in-Bosnien-und-Herzegowina/!6218680/",
-   "q": "taz",
-   "d": "2026-10-04T18:19:00+00:00"
-  },
-  {
-   "t": "Ukrainische Rüstungsindustrie: Rückkehr zu den Wurzeln",
-   "s": "Ukrainische Drohnen gelten weltweit als erfolgreich und kampferprobt – aber ukrainische Firmen kämpfen um ihre Integration in den Weltmarkt.",
-   "u": "https://taz.de/Ukrainische-Ruestungsindustrie/!6218651/",
-   "q": "taz",
-   "d": "2026-10-04T16:35:00+00:00"
   }
  ]
 }

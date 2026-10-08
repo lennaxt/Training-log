@@ -1,13 +1,55 @@
 {
  "name": "Ausland",
- "updated": "2026-10-08T10:36:38+00:00",
+ "updated": "2026-10-08T20:42:00+00:00",
  "items": [
   {
    "t": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
    "s": "Bei russischen Angriffen auf zwei Busse in der Ostukraine sind mindestens 30 Menschen getötet worden, weitere 18 wurden verletzt. Nach Angriffen auf Kiew und andere Städte musste der Strom dort abgeschaltet werden.",
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-08T10:22:18+00:00"
+   "d": "2026-10-08T19:16:45+00:00"
+  },
+  {
+   "t": "Nach gescheiterter Hinrichtung: Wie geht es weiter im Fall Pike?",
+   "s": "Nachdem die Mörderin Christa Pike den Versuch ihrer Hinrichtung überlebte, kann sie mittlerweile wieder laufen, ist aber in gesundheitlich schlechtem Zustand. Doch wie geht es nun weiter? Wird es einen neuen Exekutionsversuch geben? Ein Überblick.",
+   "u": "https://www.tagesschau.de/ausland/amerika/christa-pike-gescheiterte-hinrichtung-folgen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T17:32:20+00:00"
+  },
+  {
+   "t": "Huthi greifen erneut Ziele in Saudi-Arabien an - auch Gegenangriffe gemeldet",
+   "s": "Die gegenseitigen Angriffe von Saudi-Arabien und der jemenitischen Huthi-Miliz halten an. Nach Attacken auf saudi-arabische Flughäfen meldet Riad die Zerstörung von Dutzenden militärischen Objekten der Huthi im Jemen.",
+   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-huthi-angriffe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T15:35:30+00:00"
+  },
+  {
+   "t": "Großbritannien: Burnham bietet Deutschland Kampfjet-Kooperation an",
+   "s": "Bei seinem Besuch in Berlin hat der neue britische Premier Burnham die Absicht einer engen Zusammenarbeit mit Deutschland unterstrichen. Für Überraschung sorgte ein Angebot im Verteidigungsbereich.",
+   "u": "https://www.tagesschau.de/ausland/europa/burnham-besuch-berlin-kooperation-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T15:14:59+00:00"
+  },
+  {
+   "t": "Eritreische Truppen rücken offenbar in Äthiopien ein",
+   "s": "Ende September war in der äthiopischen Tigray-Region ein alter Konflikt wieder aufgeflammt. Nun gibt es Berichte, wonach Truppen des benachbarten Eritrea dort einmarschiert seien. Beide Länder machen sich gegenseitig Vorwürfe.",
+   "u": "https://www.tagesschau.de/ausland/afrika/eritrea-aethiopien-tigray-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T15:12:46+00:00"
+  },
+  {
+   "t": "Italiens Parlament billigt umstrittene Wahlrechtsreform von Meloni",
+   "s": "Die umstrittene Wahlrechtsreform von Italiens Ministerpräsidentin Meloni ist endgültig verabschiedet worden. Die Opposition wirft der Regierung vor, damit ihre Macht sichern zu wollen. Zudem gibt es verfassungsrechtliche Bedenken.",
+   "u": "https://www.tagesschau.de/ausland/europa/meloni-wahlrechtsreform-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T13:47:19+00:00"
+  },
+  {
+   "t": "Nach bestätigtem Todesfall: Auch in Kenia wächst die Sorge vor Ebola",
+   "s": "Es ist der erste Ebola-Fall in Kenia: Am Montag starb ein aus dem Kongo eingereister Mann an der Krankheit. Behörden und WHO reagieren mit verstärkten Maßnahmen - und in der Bevölkerung wächst die Sorge. Von Karin Bensch.",
+   "u": "https://www.tagesschau.de/ausland/afrika/ebola-kenia-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T12:53:37+00:00"
   },
   {
    "t": "Midterms: Demokraten verklagen Trump-Regierung wegen TV-Spots",
@@ -22,13 +64,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
    "q": "Tagesschau",
    "d": "2026-10-08T08:24:58+00:00"
-  },
-  {
-   "t": "Nach Huthi-Angriffen auf Riad: Saudi-Arabien greift erneut Ziele im Jemen an",
-   "s": "Die gegenseitigen Angriffe von Saudi-Arabien und der jemenitischen Huthi-Miliz halten an. Nach Attacken auf saudi-arabische Flughäfen meldet Riad die Zerstörung von Dutzenden militärischen Objekten der Huthi im Jemen.",
-   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-huthi-angriffe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T08:14:35+00:00"
   },
   {
    "t": "Burnham bei Merz: Deutschland und Großbritannien stärken Cyberabwehr",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-bewusstsein-100.html",
    "q": "Tagesschau",
    "d": "2026-10-06T23:56:42+00:00"
-  },
-  {
-   "t": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
-   "s": "Die Protestwelle junger Menschen in Frankreich für bessere Lernbedingungen an Schulen hat einen neuen Höhepunkt erreicht. Laut Innenministerium beteiligten sich 256.000 Menschen an Demos, allein 56.000 in Paris. Von Carolin Dylla.",
-   "u": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T19:54:16+00:00"
-  },
-  {
-   "t": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
-   "s": "Europas Wirtschaft leidet unter Exporten aus China. Kurz vor dem Besuch des EU-Handelskommissars in Peking fordern die Regierungen in Berlin und Paris nun neue Instrumente gegenüber China. Damit sind die Erwartungen gesetzt. Von Sarah López.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T17:43:36+00:00"
-  },
-  {
-   "t": "Propaganda, Dementi und Unklarheit im Jemen-Krieg",
-   "s": "Ob Huthi-Miliz, jemenitische Regierungstruppen oder Saudi-Arabien - die Parteien im Jemen-Krieg sprechen oft von Schlägen und Erfolgen, bei denen unklar ist, was stimmt. Klar ist aber: Ein Ende des Kriegs ist nicht in Sicht. Von M. Behrendt.",
-   "u": "https://www.tagesschau.de/ausland/asien/jemen-propaganda-kaempfe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T16:31:55+00:00"
-  },
-  {
-   "t": "Schülerproteste in Frankreich erreichen neuen Höhepunkt",
-   "s": "Blockierte Gymnasien und Hochschulen, landesweite Demos: In Frankreich haben sich die Schülerproteste ausgeweitet. Auch Gewerkschaften schlossen sich den Protesten an. Die Polizei ist mit einem Großaufgebot im Einsatz.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-schulen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T13:42:34+00:00"
-  },
-  {
-   "t": "Separatistenführer Puigdemont kann nach Spanien zurückkehren",
-   "s": "Per Referendum wollte der katalanische Regierungschef Puigdemont 2017 die Unabhängigkeit der Region durchsetzen - und scheiterte. Es folgte die Flucht ins Ausland und Jahre im Exil. Nun ebnet das Verfassungsgericht den Weg für seine mögliche Rückkehr.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-puigdemont-verfassungsgericht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T13:40:37+00:00"
   }
  ]
 }
