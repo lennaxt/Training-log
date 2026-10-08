@@ -1,10 +1,73 @@
 {
  "name": "Ausland",
- "updated": "2026-10-07T10:17:17+00:00",
+ "updated": "2026-10-08T01:01:04+00:00",
  "items": [
   {
+   "t": "Suche geht weiter: Wer wird Nachfolger von UN-Generalsekretär Guterres?",
+   "s": "Bei der UN ist weiterhin offen, wer neuer Generalsekretär wird. Die fünfzehn Mitgliedsstaaten im Sicherheitsrat konnten auch bei ihrer fünften Probeabstimmung keine Vorentscheidung erreichen. Von M. Ganslmeier.",
+   "u": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-nachfolge-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T23:25:54+00:00"
+  },
+  {
+   "t": "Nach gescheiterter Hinrichtung: Anwälte sprechen über Pikes Gesundheitszustand",
+   "s": "Die verurteilte Mörderin Christa Pike sollte vergangene Woche hingerichtet werden - überlebte allerdings zwei Giftspritzen. Nun wurden Details über ihren Gesundheitszustand bekannt - unter anderem leide sie an einer Lungenentzündung, so ihre Anwälte.",
+   "u": "https://www.tagesschau.de/ausland/amerika/pike-hinrichtung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T22:05:42+00:00"
+  },
+  {
+   "t": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
+   "s": "Die Schulproteste in Frankreich halten weiter an. Premier Lecornu sicherte den Schülern nun bessere Lernbedingungen zu, ohne aber zusätzlichen Finanzhilfen in Aussicht zu stellen. Doch neue Proteste sind bereits angekündigt.",
+   "u": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T20:00:05+00:00"
+  },
+  {
+   "t": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
+   "s": "Ihr Name stand symbolisch für die spanische Wohnungskrise. Nach der Zwangsräumung der Wohnung der 87-jährigen Maricarmen Abascal war es zu landesweiten Protesten gekommen. Nun ist die Rentnerin gestorben.",
+   "u": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T19:38:22+00:00"
+  },
+  {
+   "t": "Hamas-Überfall auf Israel: Der Strand, an dem der 7. Oktober begann",
+   "s": "In Zikim griff die Hamas am 7. Oktober 2023 Israel vom Meer aus an. 18 Menschen starben dort, doch der Versuch der Terroristen, in den Kibbuz vorzudringen, scheiterte. Wie schaut man heute auf die dramatischen Stunden? Von B. Meier.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-ueberfall-hamas-zikim-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T17:31:36+00:00"
+  },
+  {
+   "t": "3. Jahrestag des Hamas-Überfalls auf Israel: \"Der Schmerz sitzt tief\"",
+   "s": "Für Israel wird der 7. Oktober noch lange ein Trauma bleiben. Drei Jahre nach dem Hamas-Überfall fühlen viele in Israel nicht nur Trauer, sondern sind enttäuscht von den eigenen Behörden und der Weltgemeinschaft. Von Julio Segador.",
+   "u": "https://www.tagesschau.de/ausland/asien/dritter-jahrestag-hamas-israel-gedenken-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T17:01:48+00:00"
+  },
+  {
+   "t": "EU plant Beitritt in Stufen - und Ende der Einstimmigkeit",
+   "s": "Um einen EU-Beitritt einfacher zu machen, plant die Kommission eine Mitgliedschaft in Stufen. Und damit eine erweiterte Union handlungsfähig bleibt, soll es zentrale Reformen geben: etwa beim Prinzip der Einstimmigkeit. Von Sabrina Fritz.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-regeln-mitgliedschaft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T16:33:03+00:00"
+  },
+  {
+   "t": "Ukraine: Viele Tote bei russischen Angriffen",
+   "s": "Wieder haben russische Raketen, Drohnen und Marschflugkörper Kiew und andere ukrainische Städte getroffen. In der nordukrainischen Stadt Pryluki trafen Raketen ein mehrstöckiges Wohnhaus. Es gibt viele Tote.",
+   "u": "https://www.tagesschau.de/ausland/europa/russland-greift-kiew-an-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T15:21:49+00:00"
+  },
+  {
+   "t": "Wie sich ein in Israel untergetauchter Palästinenser durchschlägt",
+   "s": "Als die Hamas Israel überfiel, hielten sich dort Tausende Palästinenser zur Arbeit auf. Einer von ihnen ist Farid. Er schlägt sich mit Gelegenheitsjobs durch. Seine Familie lebt im Gazastreifen. Von Felicitas Boeselager.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-palaestinenser-108.html",
+   "q": "Tagesschau",
+   "d": "2026-10-07T11:19:56+00:00"
+  },
+  {
    "t": "Konservative Meinungsmacht: US-Sender Fox News wird 30",
-   "s": "Vor genau 30 Jahren ging Fox News erstmals auf Sendung. Als Gegengewicht zu den eher linksliberalen Mainstream-Kanälen geplant, stieg der Sender schnell zum Markt- und Meinungsführer auf. Von Martin Ganslmeier",
+   "s": "Vor genau 30 Jahren ging Fox News erstmals auf Sendung. Als Gegengewicht zu den eher linksliberalen Mainstream-Kanälen geplant, stieg der Sender schnell zum Markt- und Meinungsführer auf. Von Martin Ganslmeier.",
    "u": "https://www.tagesschau.de/ausland/amerika/fox-news-usa-medien-100.html",
    "q": "Tagesschau",
    "d": "2026-10-07T09:52:01+00:00"
@@ -106,69 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
    "q": "Tagesschau",
    "d": "2026-10-06T05:30:33+00:00"
-  },
-  {
-   "t": "Debatte über Meinungsfreiheit: Warum viele ihre Meinung lieber für sich behalten",
-   "s": "Offene Debatten und politische Diskussionen: Meinungsfreiheit gehört zum nationalen Selbstverständnis der US-Amerikaner. Doch Studien zeigen: An den Universitäten behalten immer mehr ihre Ansichten lieber für sich. Von Anne Schneider.",
-   "u": "https://www.tagesschau.de/ausland/amerika/free-speech-usa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T05:22:59+00:00"
-  },
-  {
-   "t": "\"Hallo\" statt \"Privjet\": An Lettlands Schulen ist Russisch verboten",
-   "s": "Lettland will sich sprachlich stärker nach Europa orientieren - seit diesem Schuljahr darf Russisch an Schulen nicht mehr als Fremdsprache unterrichtet werden. Besonders populär wird stattdessen: Deutsch. Von Arne Bartram.",
-   "u": "https://www.tagesschau.de/ausland/europa/lettland-schulen-russisch-deutsch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T04:46:48+00:00"
-  },
-  {
-   "t": "Türkei und Pakistan entsenden Truppen nach Saudi-Arabien",
-   "s": "Aufgrund von Huthi-Angriffen auf Saudi-Arabien schicken Pakistan und die Türkei Truppen zur Unterstützung. Zudem wurden Explosionen in der Hauptstadt Riad gemeldet.",
-   "u": "https://www.tagesschau.de/ausland/asien/tuerkei-pakistan-saudi-arabien-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T00:54:01+00:00"
-  },
-  {
-   "t": "America.gov: Digitaler Service oder Überwachung per KI?",
-   "s": "Die US-Regierung will Behördengänge in einer einzigen, KI-gestützten Plattform bündeln. Bequem, schnell und angeblich ohne zentrale Datensammlung. Doch wer liest mit, wenn Bürger einem Chatbot ihre Lebenssituation anvertrauen? Von Samuel Jackisch.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-america-gov-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T17:12:58+00:00"
-  },
-  {
-   "t": "Regierungstruppen im Jemen melden Kontrolle über wichtige Meerenge",
-   "s": "Lange war die Huthi-Miliz im Jemen auf dem Vormarsch, jetzt schlagen die Regierungstruppen zurück. Unterstützt von Saudi-Arabien konnten sie offenbar die strategisch wichtige Meerenge Bab al-Mandab unter Kontrolle bringen.",
-   "u": "https://www.tagesschau.de/ausland/asien/jemen-regierungstruppen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T16:24:40+00:00"
-  },
-  {
-   "t": "Tote nach Schiffsunglück im Schwarzen Meer - Drohnenangriff?",
-   "s": "Im Schwarzen Meer ist ein Schiff nach einem Brand an Bord gesunken. Berichten zufolge wurde der Frachter von einer Drohne getroffen. Der ukrainische Präsident Selenskyj spricht von einem \"schrecklichen Angriff\" Russlands.",
-   "u": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-schiff-verunglueckt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T14:33:37+00:00"
-  },
-  {
-   "t": "Moldau: Wassermangel trifft hohe Ölpreise",
-   "s": "Die Republik Moldau leidet weiter unter Dürre, die Pegelstände der Flüsse sind niedrig. Zugleich hat die Regierung wegen der hohen Preise einen Energienotstand ausgerufen. Die Opposition nutzt das für Signale im Sinne Russlands. Von P. Raillon.",
-   "u": "https://www.tagesschau.de/ausland/europa/moldau-energie-notstand-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T11:43:42+00:00"
-  },
-  {
-   "t": "Alltag in Iran zwischen Wirtschaftskrise und Angst vor Krieg",
-   "s": "Im Krieg der USA gegen Iran ist keine Lösung in Sicht. Gekämpft wird zwar nicht, Gespräche haben aber keine Fortschritte gebracht. Die wirtschaftliche Lage in Iran bleibt katastrophal. Wie beeinflusst das den Alltag? Von B. Weber.",
-   "u": "https://www.tagesschau.de/ausland/asien/iran-alltag-wirtschaftskrise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T09:26:49+00:00"
-  },
-  {
-   "t": "Dänisches Melderegister mit Daten von 8,8 Millionen Menschen gehackt",
-   "s": "Unbekannte haben sich Zugriff zum dänischen Melderegister verschafft. Die zuständige Ministerin spricht von einem äußerst schwerwiegenden Vorfall. Daten von 8,8 Millionen Menschen sind betroffen.",
-   "u": "https://www.tagesschau.de/ausland/europa/daenemark-hackerangriff-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T09:14:13+00:00"
   }
  ]
 }
