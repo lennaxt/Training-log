@@ -1,27 +1,69 @@
 {
  "name": "Ausland",
- "updated": "2026-10-08T01:01:04+00:00",
+ "updated": "2026-10-08T10:36:38+00:00",
  "items": [
+  {
+   "t": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
+   "s": "Bei russischen Angriffen auf zwei Busse in der Ostukraine sind mindestens 30 Menschen getötet worden, weitere 18 wurden verletzt. Nach Angriffen auf Kiew und andere Städte musste der Strom dort abgeschaltet werden.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T10:22:18+00:00"
+  },
+  {
+   "t": "Midterms: Demokraten verklagen Trump-Regierung wegen TV-Spots",
+   "s": "Vor den Midterms in den USA reichen die Demokraten gegen die Trump-Regierung Klage ein - anscheinend wurde mit Steuergeldern Wahlwerbung finanziert. Die umstrittenen TV-Spots stoßen auch bei Republikanern auf Kritik.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-wahlwerbespots-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T08:35:14+00:00"
+  },
+  {
+   "t": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
+   "s": "Die Schulproteste in Frankreich halten weiter an. Premier Lecornu sicherte den Schülern nun bessere Lernbedingungen zu, ohne aber zusätzliche Finanzhilfen in Aussicht zu stellen. Neue Proteste sind bereits angekündigt.",
+   "u": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T08:24:58+00:00"
+  },
+  {
+   "t": "Nach Huthi-Angriffen auf Riad: Saudi-Arabien greift erneut Ziele im Jemen an",
+   "s": "Die gegenseitigen Angriffe von Saudi-Arabien und der jemenitischen Huthi-Miliz halten an. Nach Attacken auf saudi-arabische Flughäfen meldet Riad die Zerstörung von Dutzenden militärischen Objekten der Huthi im Jemen.",
+   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-huthi-angriffe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T08:14:35+00:00"
+  },
+  {
+   "t": "Burnham bei Merz: Deutschland und Großbritannien stärken Cyberabwehr",
+   "s": "Wegen zunehmenden hybriden Bedrohungen wollen Berlin und London stärker bei der Cyberabwehr kooperieren. Bei seinem Antrittsbesuch in Berlin wollen Premier Burnham und Kanzler Merz auch einen neuen Freundschaftsvertrag in Kraft setzen.",
+   "u": "https://www.tagesschau.de/ausland/burnham-merz-besuch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T06:27:32+00:00"
+  },
+  {
+   "t": "Nach gescheiterter Hinrichtung: Anwälte sprechen über Pikes Gesundheitszustand",
+   "s": "Die verurteilte Mörderin Christa Pike sollte vergangene Woche in den USA hingerichtet werden - überlebte allerdings zwei Giftspritzen. Derweil wurde ein Mann in Texas hingerichtet.",
+   "u": "https://www.tagesschau.de/ausland/amerika/pike-hinrichtung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T02:51:45+00:00"
+  },
+  {
+   "t": "Italien: Melonis Machtpoker um das Wahlrecht",
+   "s": "Kann Italiens Ministerpräsidentin Meloni ihr umstrittenes neues Wahlrecht durchsetzen? Die Schlussabstimmung im Abgeordnetenhaus wird zur Zitterpartie. Meloni hat das neue Wahlrecht an die Vertrauensfrage geknüpft. Von Ivo Marusczyk.",
+   "u": "https://www.tagesschau.de/ausland/europa/italien-wahlrechtsreform-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T02:41:09+00:00"
+  },
+  {
+   "t": "Dritter Jahrestag des 7. Oktober: Ein emotionaler Gedenktag in Israel geht zu Ende",
+   "s": "Die Trauer über die mehr als 1.200 Todesopfer vom 7. Oktober vor drei Jahren ist in Tel Aviv groß. Zehntausende Menschen versammelten sich, um zu erinnern. Doch es kam auch zu Protesten. Von F. Boeselager.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-hamas-ueberfall-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T01:35:58+00:00"
+  },
   {
    "t": "Suche geht weiter: Wer wird Nachfolger von UN-Generalsekretär Guterres?",
    "s": "Bei der UN ist weiterhin offen, wer neuer Generalsekretär wird. Die fünfzehn Mitgliedsstaaten im Sicherheitsrat konnten auch bei ihrer fünften Probeabstimmung keine Vorentscheidung erreichen. Von M. Ganslmeier.",
    "u": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-nachfolge-100.html",
    "q": "Tagesschau",
    "d": "2026-10-07T23:25:54+00:00"
-  },
-  {
-   "t": "Nach gescheiterter Hinrichtung: Anwälte sprechen über Pikes Gesundheitszustand",
-   "s": "Die verurteilte Mörderin Christa Pike sollte vergangene Woche hingerichtet werden - überlebte allerdings zwei Giftspritzen. Nun wurden Details über ihren Gesundheitszustand bekannt - unter anderem leide sie an einer Lungenentzündung, so ihre Anwälte.",
-   "u": "https://www.tagesschau.de/ausland/amerika/pike-hinrichtung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T22:05:42+00:00"
-  },
-  {
-   "t": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
-   "s": "Die Schulproteste in Frankreich halten weiter an. Premier Lecornu sicherte den Schülern nun bessere Lernbedingungen zu, ohne aber zusätzlichen Finanzhilfen in Aussicht zu stellen. Doch neue Proteste sind bereits angekündigt.",
-   "u": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T20:00:05+00:00"
   },
   {
    "t": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
@@ -38,7 +80,7 @@
    "d": "2026-10-07T17:31:36+00:00"
   },
   {
-   "t": "3. Jahrestag des Hamas-Überfalls auf Israel: \"Der Schmerz sitzt tief\"",
+   "t": "Dritter Jahrestag des Hamas-Überfalls auf Israel: \"Der Schmerz sitzt tief\"",
    "s": "Für Israel wird der 7. Oktober noch lange ein Trauma bleiben. Drei Jahre nach dem Hamas-Überfall fühlen viele in Israel nicht nur Trauer, sondern sind enttäuscht von den eigenen Behörden und der Weltgemeinschaft. Von Julio Segador.",
    "u": "https://www.tagesschau.de/ausland/asien/dritter-jahrestag-hamas-israel-gedenken-100.html",
    "q": "Tagesschau",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/spanien-puigdemont-verfassungsgericht-100.html",
    "q": "Tagesschau",
    "d": "2026-10-06T13:40:37+00:00"
-  },
-  {
-   "t": "Drohnenangriffe im Schwarzen Meer: Frachter vor Bulgarien gesunken",
-   "s": "Wieder sind im Schwarzen Meer Handelsschiffe unter Beschuss geraten - diesmal vor der Küste Bulgariens. Ein Frachter ist gesunken, die Crew wird vermisst. Auf einem weiteren Handelsschiff gab es mehrere Verletzte.",
-   "u": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-drohnenangriff-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T11:00:35+00:00"
-  },
-  {
-   "t": "US-Bundesstaat Pennsylvania meldet mehr als 1.000 Masern-Fälle",
-   "s": "Der US-Bundesstaat Pennsylvania hat mehr als 1.000 Masern-Fälle gemeldet - das ist der höchste Stand seit 35 Jahren. Etwa 200 Menschen werden im Krankenhaus behandelt, fünf sind gestorben. Von Nina Barth.",
-   "u": "https://www.tagesschau.de/ausland/amerika/pennsylvania-masern-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T09:36:32+00:00"
-  },
-  {
-   "t": "Solidarität mit Jane Doe: \"Es geht um unsere Körper, um unsere Leben!\"",
-   "s": "Seit Tagen sorgt eine mutmaßliche Gruppenvergewaltigung in den USA für Schlagzeilen. Der Fall ist zwei Jahre her. Die mangelhafte Aufklärung macht Studierende der Cornell University wütend. Von M. Ganslmeier.",
-   "u": "https://www.tagesschau.de/ausland/amerika/jane-doe-cornell-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T07:30:38+00:00"
-  },
-  {
-   "t": "Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation",
-   "s": "Unterrichtsausfall, marode Gebäude, ungleiche Bildungschancen: Frankreichs Schüler gehen dagegen seit Tagen auf die Straße. Auch für heute sind Proteste angekündigt - begleitet von der Sorge vor weiterer Eskalation. Von J. Borutta.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerdemos-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T07:17:43+00:00"
-  },
-  {
-   "t": "Reformdruck nicht nur auf Beitrittskandidaten - auch auf die EU",
-   "s": "Die EU will reformbereite Beitrittskandidaten nicht endlos warten lassen. Doch da die strengen Reformkriterien noch nicht erfüllt sind, bedarf es dafür neuer Modelle. Und auch die EU selbst muss sich noch vorbereiten. Von Tina Hassel.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-erweiterungsbericht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T06:45:06+00:00"
-  },
-  {
-   "t": "Trump erlaubt angesichts hoher Spritpreise Nutzung von steuerfreiem Diesel",
-   "s": "Mit dem Iran-Krieg ist das Tanken auch in den USA deutlich teurer geworden. Nun verspricht US-Präsident Trump Abhilfe: Autofahrer sollen steuerfreien, \"roten\" Diesel nutzen können. Der ist bisher nur in der Landwirtschaft erlaubt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T05:30:33+00:00"
   }
  ]
 }

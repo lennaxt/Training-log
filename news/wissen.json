@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-08T01:01:05+00:00",
+ "updated": "2026-10-08T10:36:40+00:00",
  "items": [
+  {
+   "t": "Umweltschutz: Tierbestände nehmen laut WWF stark ab",
+   "s": "Viele Wildtierbestände nehmen einem WWF-Bericht zufolge dramatisch ab. Doch es gibt auch positive Nachrichten: Einzelne Bestände konnten sich durch Fangquoten oder gezielten Artenschutz erholen.",
+   "u": "https://www.tagesschau.de/wissen/tiere/wwf-wildtierbestand-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T06:41:25+00:00"
+  },
   {
    "t": "Grundlegendes Konzept entdeckt - Chemie-Nobelpreis für Japaner und Franzosen",
    "s": "Die Forscher Henri Kagan und Kenso Soai haben ein grundlegendes Konzept der organischen Chemie entdeckt. Ihre Ergebnisse sind auch für die Entwicklung von Medikamenten wichtig. Von Veronika Simon.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/karte-gletscher-104.html",
    "q": "Tagesschau",
    "d": "2026-09-26T09:16:37+00:00"
-  },
-  {
-   "t": "Ehrenamtliche renaturieren Moor im Erzgebirge",
-   "s": "Moore können Klimaschützer sein. Aber nur, wenn sie intakt und feucht genug sind. Im Seifenwerkmoor im Erzgebirge arbeiten ehrenamtliche Helfer ihrer Freizeit daran, ein Moorgebiet wiederzubeleben.",
-   "u": "https://www.tagesschau.de/video/video-1654414.html",
-   "q": "Tagesschau",
-   "d": "2026-09-23T16:52:25+00:00"
   }
  ]
 }

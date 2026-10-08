@@ -1,7 +1,35 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-08T01:01:04+00:00",
+ "updated": "2026-10-08T10:36:39+00:00",
  "items": [
+  {
+   "t": "Marktbericht: DAX fällt unter 25.000 Punkte",
+   "s": "Der DAX sackt im frühen Handel weiter ab. Der unveränderte Mix von Risiken belastet die Börsen. Hoffnungen richten sich nun auf die Berichtssaison - doch die Messlatte ist hoch.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-oel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T08:30:36+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 08.10.2026",
+   "s": "Update Wirtschaft vom 08.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1662480.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T08:00:15+00:00"
+  },
+  {
+   "t": "Commerzbank-Übernahme: Was auf Beschäftigte und Mittelstand zukommt",
+   "s": "Die italienische Großbank UniCredit steht vor der Übernahme der Commerzbank. Jetzt beginnt die entscheidende Phase - mit gravierenden Folgen für Mitarbeiter und Firmenkunden. Von Steffen Clement.",
+   "u": "https://www.tagesschau.de/wirtschaft/commerzbank-uebernahme-mitarbeiter-kunden-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T06:57:16+00:00"
+  },
+  {
+   "t": "Europäischer Rechnungshof warnt vor hohen Schulden",
+   "s": "Der Rechnungshof hat vor den Folgen der zunehmenden Verschuldung der EU gewarnt, die bis 2027 auf bis zu eine Billion Euro steigen könnten. Die Prüfer entdeckten auch Unregelmäßigkeiten in Milliardenhöhe.",
+   "u": "https://www.tagesschau.de/wirtschaft/eu-rechnungshof-schulden-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T03:45:40+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 07.10.2026",
    "s": "Wirtschaft vor acht vom 07.10.2026",
@@ -10,25 +38,11 @@
    "d": "2026-10-07T17:52:26+00:00"
   },
   {
-   "t": "DAX fällt wieder zurück",
-   "s": "Die Anleger haben sich nach den jüngsten Gewinntagen heute wieder zurückgezogen. Steigende Ölpreise und Anleiherenditen drücken die Stimmung. Im besonderen Fokus standen Autoaktien.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-118.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T16:30:44+00:00"
-  },
-  {
    "t": "Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet",
    "s": "Rund die Hälfte der Unternehmen in Deutschland nutzt inzwischen KI-Anwendungen. Aber viele Firmen haben nur unzureichende Schutzvorkehrungen, um sich etwa vor Cyberangriffen zu schützen. Von M. Polansky.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-sicherheit-cyberattaken-100.html",
    "q": "Tagesschau",
    "d": "2026-10-07T13:55:15+00:00"
-  },
-  {
-   "t": "Marktbericht: Porsche zieht die Reißleine",
-   "s": "Weniger ist mehr: Der Sportwagenbauer Porsche will sich zukünftig auf weniger, dafür lukrativere Modelle konzentrieren. Zudem sollen die Kosten weiterhin rigoros gesenkt werden.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/porsche-mittags-mb-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T12:23:36+00:00"
   },
   {
    "t": "Bund untersagt Zippel-Übernahme durch chinesische Cosco",
@@ -50,13 +64,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/bahn-neubaustrecke-100.html",
    "q": "Tagesschau",
    "d": "2026-10-07T08:58:04+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 07.10.2026",
-   "s": "Update Wirtschaft vom 07.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1661910.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T08:27:22+00:00"
   },
   {
    "t": "Sorgen um Geld: Frauen fühlen sich finanziell unsicherer",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/kultur/frankfurter-buchmesse-2026-ausblick-100.html",
    "q": "Tagesschau",
    "d": "2026-10-06T04:22:55+00:00"
-  },
-  {
-   "t": "Energiepreise: Preise für Benzin und Diesel steigen wieder leicht",
-   "s": "Der \"Tankrabatt\" soll Verbrauchern Entlastung bringen. Kurz nach dem Start steigen die Kraftstoffpreise aber wieder leicht an. Laut ADAC ist das \"nur schwer nachvollziehbar\".",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-120.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T16:42:44+00:00"
   }
  ]
 }

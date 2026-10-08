@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-08T01:01:07+00:00",
+ "updated": "2026-10-08T10:36:44+00:00",
  "items": [
+  {
+   "t": "Gewaltgeschichte einer linken Stadt: Unter dem Pflaster die Sklaverei",
+   "s": "Kaum jemand weiß, dass New York City einst ein Zentrum des Sklaven­handels war. Nun fordern Schwarze und Indigene Menschen Entschädigung.",
+   "u": "https://taz.de/Gewaltgeschichte-einer-linken-Stadt/!6214484/",
+   "q": "taz",
+   "d": "2026-10-08T07:04:00+00:00"
+  },
   {
    "t": "Nach gescheiterter Hinrichtung: Pike soll wieder bei Bewusstsein sein",
    "s": "Nach einem gescheiterten Hinrichtungsversuch in Tennessee war Christa Pike zunächst bewusstlos. Nun ist sie laut ihren Anwälten wieder ansprechbar. Wie es nun weitergeht.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Trotz-Niederlage-Trumps-vor-Gericht/!6216008/",
    "q": "taz",
    "d": "2026-09-24T15:09:00+00:00"
-  },
-  {
-   "t": "US-Zwischenwahlen im November: Keine Beobachtung erwünscht",
-   "s": "Erstmals wurden keine OSZE-Beobachter zu US-Wahlen eingeladen. Der Transatlantik-Koordinator Metin Hakverdi kritisiert diese Entscheidung der USA.",
-   "u": "https://taz.de/US-Zwischenwahlen-im-November/!6216166/",
-   "q": "taz",
-   "d": "2026-09-24T13:50:00+00:00"
   }
  ]
 }
