@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-08T20:42:01+00:00",
+ "updated": "2026-10-09T01:13:51+00:00",
  "items": [
+  {
+   "t": "Verkündung in Oslo: Wer macht das Rennen um den Friedensnobelpreis?",
+   "s": "Um elf Uhr am Vormittag blickt die Welt mit Spannung nach Oslo, wer in diesem Jahr den Friedensnobelpreis verliehen bekommt - auch, weil die Entscheidung im vergangenen Jahr umstritten war. Von Jana Sinram.",
+   "u": "https://www.tagesschau.de/wissen/friedensnobelpreis-2026-vergabe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T00:09:09+00:00"
+  },
   {
    "t": "Umweltschutz: Tierbestände nehmen laut WWF stark ab",
    "s": "Viele Wildtierbestände nehmen einem WWF-Bericht zufolge dramatisch ab. Doch es gibt auch positive Nachrichten: Einzelne Bestände konnten sich durch Fangquoten oder gezielten Artenschutz erholen.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/schweiz-klima-gletscher-100.html",
    "q": "Tagesschau",
    "d": "2026-10-01T09:36:52+00:00"
-  },
-  {
-   "t": "Wie lange gibt es diesen Gletscher noch? Weltkarte zeigt Schmelze",
-   "s": "Durch den Klimawandel schmelzen Gletscher - das ist bekannt. Doch wie lange wird es jeden einzelnen noch geben? Eine interaktive Karte zeigt, wie sie sich in Zukunft entwickeln - je nach Klimaszenario. Von v. Sperber und v. Liebe.",
-   "u": "https://www.tagesschau.de/wissen/klima/karte-gletscher-104.html",
-   "q": "Tagesschau",
-   "d": "2026-09-26T09:16:37+00:00"
   }
  ]
 }

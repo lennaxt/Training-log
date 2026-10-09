@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-10-08T20:42:00+00:00",
+ "updated": "2026-10-09T01:13:50+00:00",
  "items": [
+  {
+   "t": "Schülerproteste: Frankreich will kurzfristig 3.000 Vertretungslehrer einsetzen",
+   "s": "Nach anhaltenden Schulprotesten will Frankreich kurzfristig mehr als 3.000 Vertretungslehrer organisieren. Eine Software solle dabei die Schulen anzeigen, die sich in einer problematischen Situation befänden, so Bildungsminister Geffray.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T22:08:21+00:00"
+  },
+  {
+   "t": "USA klagen venezolanischen Ex-Präsidenten Maduro wegen Folter an",
+   "s": "Im Juni kommenden Jahres soll der Prozess gegen Venezuelas ehemaligen Staatschef Maduro in den USA beginnen. Er und seine Frau müssen sich dabei neuen Vorwürfen stellen - neben \"Drogenterrorismus\" ist nun auch von Folter die Rede.",
+   "u": "https://www.tagesschau.de/ausland/amerika/maduro-wegen-folter-angeklagt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T22:00:28+00:00"
+  },
   {
    "t": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
    "s": "Bei russischen Angriffen auf zwei Busse in der Ostukraine sind mindestens 30 Menschen getötet worden, weitere 18 wurden verletzt. Nach Angriffen auf Kiew und andere Städte musste der Strom dort abgeschaltet werden.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/israel-gedenken-hamas-ueberfall-102.html",
    "q": "Tagesschau",
    "d": "2026-10-07T09:24:13+00:00"
-  },
-  {
-   "t": "129 Tage in der Hand der Hamas: Das neue Leben des Luis Har",
-   "s": "Am 7. Oktober 2023 wurde Luis Har von der Hamas verschleppt und 129 Tage später in einer dramatischen Aktion befreit. Drei Jahre danach kämpft er mit den Spuren des Traumas - und dem Schweigen seiner Nachbarn. Von J. Segador.",
-   "u": "https://www.tagesschau.de/ausland/asien/129-tage-hamas-har-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T01:01:01+00:00"
-  },
-  {
-   "t": "USA: Frau nach gescheiterter Hinrichtung wieder bei Bewusstsein",
-   "s": "Nach einem gescheiterten Hinrichtungsversuch in Tennessee war Christa Pike zunächst bewusstlos. Nun ist sie laut ihren Anwälten wieder ansprechbar - sie fordern, ihre Todesstrafe in lebenslange Haft umzuwandeln.",
-   "u": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-bewusstsein-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T23:56:42+00:00"
   }
  ]
 }
