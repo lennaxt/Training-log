@@ -1,7 +1,91 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-09T10:35:26+00:00",
+ "updated": "2026-10-09T20:06:58+00:00",
  "items": [
+  {
+   "t": "Jüdische Studierendenunion über Halle: „Wir lassen unser Gedenken nicht kapern“",
+   "s": "Beim Gedenken in Halle hat die JSUD dem AfD-Vize-Landtagspräsidenten den Zutritt verweigert. Man lasse sich nicht instrumentalisieren, sagt Ron Dekel.",
+   "u": "https://taz.de/Juedische-Studierendenunion-ueber-Halle/!6220489/",
+   "q": "taz",
+   "d": "2026-10-09T19:02:00+00:00"
+  },
+  {
+   "t": "Rot-grün-rote Sondierungen in Berlin: Palästinasolidarische Linke sollten Ja sagen",
+   "s": "Der Kompromiss zum Thema Antisemitismus schmeckt einem Teil der Berliner Linkspartei nicht. Dabei ermöglicht er Kritik an Israel und bietet eine riesige Chance.",
+   "u": "https://taz.de/Rot-gruen-rote-Sondierungen-in-Berlin/!6216562/",
+   "q": "taz",
+   "d": "2026-10-09T17:51:00+00:00"
+  },
+  {
+   "t": "Reform der Pflegeversicherung: Regierung schickt Frauen mit Vollgas in die Armut",
+   "s": "Töchter, Ehefrauen, Mütter, Schwestern: Wer Angehörige zu Hause pflegt, war schon immer kurz vorm Burn-out. Jetzt erst recht.",
+   "u": "https://taz.de/Reform-der-Pflegeversicherung/!6216539/",
+   "q": "taz",
+   "d": "2026-10-09T17:29:00+00:00"
+  },
+  {
+   "t": "Bundestag debattiert über Sachsen-Anhalt: Kehrtag",
+   "s": "Die Gefahren einer weiteren Zusammenarbeit mit der AfD sind bekannt. Doch statt diese ernst zu nehmen, versucht die Union es mit Ablenkungsmanövern.",
+   "u": "https://taz.de/Nach-den-Wahlen-in-Sachsen-Anhalt/!6220491/",
+   "q": "taz",
+   "d": "2026-10-09T17:15:00+00:00"
+  },
+  {
+   "t": "Rot-rot-grün will koalieren: Schwerin ist nicht Berlin",
+   "s": "Anders als in der Bundeshauptstadt einigen sich SPD, Linke und Grüne in Mecklenburg-Vorpommern geräuschlos auf Koalitionsverhandlungen. Was haben sie vor?",
+   "u": "https://taz.de/Rot-rot-gruen-will-koalieren/!6220358/",
+   "q": "taz",
+   "d": "2026-10-09T16:35:00+00:00"
+  },
+  {
+   "t": "Blutbad in der Oberpfalz: Routinekontrolle mit zwei Toten",
+   "s": "Zwei Mitarbeiter eines bayerischen Landratsamts wollen einen Waffenbesitzer überprüfen. Kurz darauf sind sie tot. Eine Bluttat, die Fragen aufwirft.",
+   "u": "https://taz.de/Blutbad-in-der-Oberpfalz/!6220304/",
+   "q": "taz",
+   "d": "2026-10-09T15:07:00+00:00"
+  },
+  {
+   "t": "Gedenkveranstaltung in Halle: Tillschneider muss draußen bleiben",
+   "s": "Beim Gedenken an den Anschlag in Halle vor sieben Jahren wollte auch der gewählte AfD-Landtagsvizepräsident teilnehmen. Die Veranstalter wehren sich.",
+   "u": "https://taz.de/Gedenkveranstaltung-in-Halle/!6220335/",
+   "q": "taz",
+   "d": "2026-10-09T13:46:00+00:00"
+  },
+  {
+   "t": "Tag der Deutschen Einheit: Kritik an Polizeieinsatz in Bremen",
+   "s": "Stundenlang setzte die Polizei während der Bremer Einheitsfeier Menschen fest, die sich spontan versammelt hatten. Einige protestierten gegen die AfD.",
+   "u": "https://taz.de/Tag-der-Deutschen-Einheit/!6216584/",
+   "q": "taz",
+   "d": "2026-10-09T13:08:00+00:00"
+  },
+  {
+   "t": "CDU lügt über Abstimmungsverhalten: Zeit der Werwölfe in Sachsen-Anhalt",
+   "s": "Zum ersten Mal seit 1945 wurde in Magdeburg ein Rechtsextremist zum Präsidenten eines deutschen Parlaments gewählt – und CDU-Abgeordnete lügen über ihr Wahlverhalten.",
+   "u": "https://taz.de/CDU-luegt-ueber-Abstimmungsverhalten/!6216651/",
+   "q": "taz",
+   "d": "2026-10-09T12:27:00+00:00"
+  },
+  {
+   "t": "Einigung von Rot-Grün-Rot in Berlin: Autoritäre Ausschlussfantasien",
+   "s": "Womöglich haben Linke, Grüne und SPD mit ihrer „Berliner Vereinbarung“ den Streit nur vertagt. Denn der Teufel liegt bekanntlich im Detail.",
+   "u": "https://taz.de/Einigung-von-Rot-Gruen-Rot-in-Berlin/!6220301/",
+   "q": "taz",
+   "d": "2026-10-09T12:17:00+00:00"
+  },
+  {
+   "t": "Hintergrund noch unklar: Ukraine-Hilfe brennt in Frankfurt am Main",
+   "s": "An einer Frankfurter Schule ist ein Feuer ausgebrochen. Betroffen ist ein Lagerraum der Hilfsinitiative „Frankfurt for Ukraine“.",
+   "u": "https://taz.de/Hintergrund-noch-unklar/!6220283/",
+   "q": "taz",
+   "d": "2026-10-09T11:36:00+00:00"
+  },
+  {
+   "t": "Gedenken an Anschlag in Halle: Menschenkette blockiert AfD-Mann Tillschneider",
+   "s": "Jüdische Studierende haben sich dem neuen Landtagsvizepräsidenten Hans-Thomas Tillschneider in den Weg gestellt. Der rechtsextreme AfD-Vordenker war beim Gedenken an den rechtsextremistischen Anschlag aufgetaucht.",
+   "u": "https://taz.de/Gedenken-an-Anschlag-in-Halle/!6220279/",
+   "q": "taz",
+   "d": "2026-10-09T11:09:00+00:00"
+  },
   {
    "t": "Niedersächsischer SPD-Politiker Politze: Rücktritt nach Aufhebung der Immunität",
    "s": "SPD-Fraktionschef Stefan Politze tritt zurück. Auch gegen den Chef der SPD Hannover, Adis Ahmetovic, ermittelt mittlerweile die Staatsanwaltschaft.",
@@ -32,7 +116,7 @@
   },
   {
    "t": "Winfried Kretschmann im Ruhestand: „Ich habe mir die AfD nie umfassend vorgeknöpft“",
-   "s": "16 Jahre lang war Winfried Kretschmann Ministerpräsident in Baden-Württemberg. Ein Gespräch über Versäumnisse, Sokrates und den Kampf mit dem Tablet.",
+   "s": "15 Jahre lang war Winfried Kretschmann Ministerpräsident in Baden-Württemberg. Ein Gespräch über Versäumnisse, Sokrates und den Kampf mit dem Tablet.",
    "u": "https://taz.de/Winfried-Kretschmann-im-Interview-Ich-habe-mir-die-AfD-nie-umfassend-vorgeknoepft/!6216639/",
    "q": "taz",
    "d": "2026-10-09T05:05:00+00:00"
@@ -50,13 +134,6 @@
    "u": "https://taz.de/Leitantraege-fuer-Parteitag-vorgestellt/!6219995/",
    "q": "taz",
    "d": "2026-10-08T16:41:00+00:00"
-  },
-  {
-   "t": "Kampf für Bildungsgerechtigkeit: Keine Gelder mehr für Bildung von Zugewanderten",
-   "s": "Mehr als 100.000 Menschen unterschrieben eine Petition gegen die vollständige Streichung der Bildungsberatung GF-H, die am Mittwoch übergeben wurde.",
-   "u": "https://taz.de/Kampf-fuer-Bildungsgerechtigkeit/!6219314/",
-   "q": "taz",
-   "d": "2026-10-08T16:20:00+00:00"
   },
   {
    "t": "Datenschutzbeauftragter Hennemann: „Digitale Souveränität ist wichtig“",
@@ -92,83 +169,6 @@
    "u": "https://taz.de/AfD-Erfolge-in-Magdeburg/!6219897/",
    "q": "taz",
    "d": "2026-10-08T08:04:00+00:00"
-  },
-  {
-   "t": "Gedenken an den 7. Oktober: Eine in Teilen verstörende Debatte",
-   "s": "Der Bundestag wollte am Jahrestag des 7. Oktober über den Schutz von jüdischem Leben debattieren. Nicht alle Abgeordneten haben das geschafft.",
-   "u": "https://taz.de/Gedenken-an-den-7Oktober/!6219806/",
-   "q": "taz",
-   "d": "2026-10-08T06:41:00+00:00"
-  },
-  {
-   "t": "Schweigemarsch in Frankfurt: „Hass zeigt seine hässlichste Fratze“",
-   "s": "Am Mittwoch haben Hunderte Menschen gegen den Terror demonstriert. Michel Friedman warnt vor möglicher Regierungsbeteiligung der Linken in Berlin.",
-   "u": "https://taz.de/Schweigemarsch-in-Frankfurt/!6219877/",
-   "q": "taz",
-   "d": "2026-10-08T06:28:00+00:00"
-  },
-  {
-   "t": "Antiimperialistische Demo in Berlin: Terror-Glorifizierung auf den Straßen",
-   "s": "Einem Aufruf antikolonialer Gruppen zum Jahrestag des 7. Oktobers sind in Berlin Hunderte Menschen gefolgt. Es war eine offene Feier des Hamas-Massakers.",
-   "u": "https://taz.de/Antiimperialistische-Demo-in-Berlin/!6219874/",
-   "q": "taz",
-   "d": "2026-10-07T18:55:00+00:00"
-  },
-  {
-   "t": "Jahrestag des 7. Oktober: Applaus am Bebelplatz, rote Hände am Checkpoint",
-   "s": "Hunderte gedenken auf dem Bebelplatz der Opfer des Hamas-Massakers. Einen Kilometer weiter beschwört eine Demo die „Befreiung ganz Palästinas“",
-   "u": "https://taz.de/Jahrestag-des-7-Oktober/!6219604/",
-   "q": "taz",
-   "d": "2026-10-07T18:24:00+00:00"
-  },
-  {
-   "t": "Aserbaidschan-Affäre: Der Ex-BND-Chef und seine Connections",
-   "s": "August Hanning ist wegen Spionageverdachts festgenommen worden. Er war gern gesehener Gast bei Staaten mit zweifelhafter Reputation.",
-   "u": "https://taz.de/Die-Connections-vom-Ex-BND-Chef-Hanning-war-gern-gesehener-Gast-bei-Staaten-mit-zweifelhafter-Reputation/!6219630/",
-   "q": "taz",
-   "d": "2026-10-07T18:23:00+00:00"
-  },
-  {
-   "t": "Zivilcourage zeigen: Was wir alle jetzt gegen die AfD tun können",
-   "s": "In Sachsen-Anhalt zeichnet sich eine rechtsextreme Landesregierung ab. Was kann man tun? Eine unvollständige Liste praktischer Vorschläge.",
-   "u": "https://taz.de/Sachsen-Anhalt-Was-wir-alle-jetzt-gegen-die-AfD-tun-koennen/!6219582/",
-   "q": "taz",
-   "d": "2026-10-07T18:22:00+00:00"
-  },
-  {
-   "t": "Rechtsextremer Landtagspräsident: Die Union schaut lieber nach links",
-   "s": "Friedrich Merz spielt die Rolle der CDU für die Landtagspräsidenten-Wahl herunter. Die SPD gibt sich zumindest nach außen hin kämpferisch.",
-   "u": "https://taz.de/Rechtsextremer-Landtagspraesident/!6219601/",
-   "q": "taz",
-   "d": "2026-10-07T17:12:00+00:00"
-  },
-  {
-   "t": "Krankenkassenreform: Neuer Schongang für Pharmaindustrie",
-   "s": "Das Krankenkassen-Sparpaket wollte eigentlich die Pharmaindustrie stärker in die Pflicht nehmen. Das soll nun aber wieder aufgeweicht werden.",
-   "u": "https://taz.de/Krankenkassenreform/!6219642/",
-   "q": "taz",
-   "d": "2026-10-07T16:24:00+00:00"
-  },
-  {
-   "t": "Erhöhung der Tabaksteuer: Rauchzeichen von der CDU",
-   "s": "Bei der Anhörung zur Tabaksteuererhöhung lädt die Union nur Ver­tre­te­r:in­nen aus der Tabakindustrie ein. Deren Einfluss ist ohnehin zu massiv.",
-   "u": "https://taz.de/Erhoehung-der-Tabaksteuer/!6219624/",
-   "q": "taz",
-   "d": "2026-10-07T16:21:00+00:00"
-  },
-  {
-   "t": "Verdacht auf Vorteilsgewährung: Ermittlungen gegen den nächsten Genossen",
-   "s": "Niedersachsens Landtag hat die Immunität des SPD-Fraktionschefs Politze aufgehoben. Gegen ihn gibt es ähnliche Vorwürfe wie gegen Krach in Berlin.",
-   "u": "https://taz.de/Verdacht-auf-Vorteilsgewaehrung/!6219594/",
-   "q": "taz",
-   "d": "2026-10-07T15:42:00+00:00"
-  },
-  {
-   "t": "Antisemitismus in der Linkspartei: Umstrittene Zusammenarbeit in Leipzig",
-   "s": "Teile der Leipziger Linken wollen stärker mit Hamas-nahen Organisationen wie Handala zusammenarbeiten. Das zeigt sich auch diese Woche in Berlin.",
-   "u": "https://taz.de/Antisemitismus-in-der-Linkspartei/!6219513/",
-   "q": "taz",
-   "d": "2026-10-07T15:34:00+00:00"
   }
  ]
 }

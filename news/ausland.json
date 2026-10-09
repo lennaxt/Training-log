@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-10-09T10:35:23+00:00",
+ "updated": "2026-10-09T20:06:56+00:00",
  "items": [
+  {
+   "t": "Flydubai-Co-Pilot plante laut Ermittlern Selbstmordanschlag",
+   "s": "Zum vereitelten Absturz des Flydubai-Flugzeugs Ende September sind weitere Details bekannt geworden. Der Co-Pilot hatte nach Angaben der Ermittler geplant, die Maschine in ein israelisches Flughafenterminal zu steuern.",
+   "u": "https://www.tagesschau.de/ausland/flydubai-flugzeug-selbstmordanschlag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T19:12:19+00:00"
+  },
+  {
+   "t": "Nobelpreisträgerin Pillay: Unerschrockene Kämpferin für das Recht",
+   "s": "Navanethem Pillay ist während der Apartheid in Südafrika aufgewachsen. Ihr Leben widmete die Juristin später dem Kampf gegen Gewalt und Unrecht. Nun ist sie für ihr Engagement mit dem Friedensnobelpreis ausgezeichnet worden. Von S. Ueberbach.",
+   "u": "https://www.tagesschau.de/ausland/afrika/nobelpreis-pillay-portrait-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T18:06:06+00:00"
+  },
+  {
+   "t": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
+   "s": "Die USA verschärfen ihr Vorgehen gegen den Internationalen Strafgerichtshof in Den Haag mit neuen Sanktionen - kurz nach dem Friedensnobelpreis für eine ehemalige IStGH-Richterin. Aus Europa kommt vehemente Kritik.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T17:47:36+00:00"
+  },
+  {
+   "t": "USA wollen Hinrichtung von Attentäter per Livestream übertragen",
+   "s": "Anfang Dezember wollen die USA erstmals seit mehr als 60 Jahren eine Militärhinrichtung durchführen. Sie soll öffentlich sein, sagt der US-Verteidigungsminister Hegseth - und per Livestream übertragen werden.",
+   "u": "https://www.tagesschau.de/ausland/amerika/pentagon-hinrichtung-livestream-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T11:43:47+00:00"
+  },
   {
    "t": "Nobelpreisträgerin Machado: Weiter im Exil - mit wenig Einfluss",
    "s": "Die Verleihung des Friedensnobelpreises an die Oppositionsführerin Machado galt in Venezuela als Zeichen der Hoffnung. Davon ist nach einem Jahr jedoch nicht mehr viel geblieben - auch wegen der mangelnden Unterstützung Trumps. Von Jenny Barke.",
@@ -50,13 +78,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html",
    "q": "Tagesschau",
    "d": "2026-10-09T03:20:12+00:00"
-  },
-  {
-   "t": "USA wollen Hinrichtung von Attentäter per Livestream übertragen",
-   "s": "Anfang Dezember wollen die USA erstmals seit mehr als 60 Jahren eine Militärhinrichtung durchführen. Sie soll öffentlich sein, sagt der US-Verteidigungsminister Hegseth - und per Livestream übertragen werden.",
-   "u": "https://www.tagesschau.de/ausland/amerika/pentagon-hinrichtung-livestream-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T02:33:17+00:00"
   },
   {
    "t": "Geringe Chancen: Donald Trump will den Friedensnobelpreis",
@@ -122,25 +143,11 @@
    "d": "2026-10-08T12:53:37+00:00"
   },
   {
-   "t": "Midterms: Demokraten verklagen Trump-Regierung wegen TV-Spots",
-   "s": "Vor den Midterms in den USA reichen die Demokraten gegen die Trump-Regierung Klage ein - anscheinend wurde mit Steuergeldern Wahlwerbung finanziert. Die umstrittenen TV-Spots stoßen auch bei Republikanern auf Kritik.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-wahlwerbespots-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T08:35:14+00:00"
-  },
-  {
    "t": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
    "s": "Die Schulproteste in Frankreich halten weiter an. Premier Lecornu sicherte den Schülern nun bessere Lernbedingungen zu, ohne aber zusätzliche Finanzhilfen in Aussicht zu stellen. Neue Proteste sind bereits angekündigt.",
    "u": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
    "q": "Tagesschau",
    "d": "2026-10-08T08:24:58+00:00"
-  },
-  {
-   "t": "Burnham bei Merz: Deutschland und Großbritannien stärken Cyberabwehr",
-   "s": "Wegen zunehmenden hybriden Bedrohungen wollen Berlin und London stärker bei der Cyberabwehr kooperieren. Bei seinem Antrittsbesuch in Berlin wollen Premier Burnham und Kanzler Merz auch einen neuen Freundschaftsvertrag in Kraft setzen.",
-   "u": "https://www.tagesschau.de/ausland/burnham-merz-besuch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T06:27:32+00:00"
   },
   {
    "t": "Italien: Melonis Machtpoker um das Wahlrecht",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
    "q": "Tagesschau",
    "d": "2026-10-07T19:38:22+00:00"
-  },
-  {
-   "t": "Hamas-Überfall auf Israel: Der Strand, an dem der 7. Oktober begann",
-   "s": "In Zikim griff die Hamas am 7. Oktober 2023 Israel vom Meer aus an. 18 Menschen starben dort, doch der Versuch der Terroristen, in den Kibbuz vorzudringen, scheiterte. Wie schaut man heute auf die dramatischen Stunden? Von B. Meier.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-ueberfall-hamas-zikim-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T17:31:36+00:00"
   }
  ]
 }

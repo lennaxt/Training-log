@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-09T10:35:28+00:00",
+ "updated": "2026-10-09T20:07:00+00:00",
  "items": [
+  {
+   "t": "Todesstrafe in den USA: Scheitern als Kalkül",
+   "s": "Dem Trump-Regime ist es nicht gelungen, Christa Pike hinzurichten. Das ist nicht überraschend. Die Risiken des eingesetzten Mittels sind bekannt.",
+   "u": "https://taz.de/Todesstrafe-in-den-USA/!6220240/",
+   "q": "taz",
+   "d": "2026-10-09T17:56:00+00:00"
+  },
   {
    "t": "Venezolanisches Ehepaar Maduro: USA werfen Ex-Präsident und seiner Frau Folter vor",
    "s": "Die US-Staatsanwaltschaft erhebt schwere Foltervorwürfe gegen Venezuelas früheren Staatschef Nicolás Maduro und seine Frau. Beide sind bereits in Haft.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Bewaffneter-Streik-in-Kolumbien/!6215956/",
    "q": "taz",
    "d": "2026-09-25T07:32:00+00:00"
-  },
-  {
-   "t": "Eklat bei UN-Generalversammlung: Netanjahu allein im Haus",
-   "s": "Der israelische Ministerpräsident teilt in seiner UN-Rede scharf aus, auch gegen New Yorks Bürgermeister Mamdani. Delegierte verlassen den Saal, draußen wird demonstriert.",
-   "u": "https://taz.de/UN-Generalversammlung/!6216287/",
-   "q": "taz",
-   "d": "2026-09-25T07:25:00+00:00"
   }
  ]
 }

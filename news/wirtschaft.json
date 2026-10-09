@@ -1,13 +1,48 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-09T10:35:24+00:00",
+ "updated": "2026-10-09T20:06:57+00:00",
  "items": [
   {
+   "t": "Wirtschaft vor acht vom 09.10.2026",
+   "s": "Wirtschaft vor acht vom 09.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1663618.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T18:24:19+00:00"
+  },
+  {
    "t": "Marktbericht: Ölpreis sinkt - DAX steigt über 25.000 Punkte",
-   "s": "Der DAX kehrt zurück über die Marke von 25.000 Punkten. Aber wie nachhaltig ist der Kursanstieg? An der Börse gibt es weiterhin viele Unsicherheitsfaktoren - auch mit Blick auf den Rohölmarkt, wo die Preise zuletzt nachgaben.",
+   "s": "Ende einer turbulenten Woche: Der DAX profitierte von einer Beruhigung am Ölmarkt und stieg wieder über die Marke von 25.000 Punkten. Lange Gesichter gab es aber bei den Telekom-Aktionären.",
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html",
    "q": "Tagesschau",
-   "d": "2026-10-09T08:32:12+00:00"
+   "d": "2026-10-09T16:10:17+00:00"
+  },
+  {
+   "t": "Spritpreis-Entlastung: Was bringt der \"Tankrabatt\" den Autofahrern?",
+   "s": "Seit einer Woche gibt es den neuen \"Tankrabatt\". Experten zufolge kommt die Entlastung zwar nicht vollständig bei Autofahrern an - aber größtenteils. Und doch hält sich die Begeisterung an den Zapfsäulen in Grenzen. Von T. Denzel.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/tankrabatt-spritpreise-entlastung-autofahrer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T13:29:55+00:00"
+  },
+  {
+   "t": "Bahn will bis 2031 weniger wichtige Strecken sanieren bisher geplant",
+   "s": "Die Deutsche Bahn kommt bei ihrer Generalsanierung langsamer voran als gedacht. In den kommenden fünf Jahren sollen erheblich weniger Hauptstrecken saniert werden als bisher geplant.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-saniert-weniger-wichtige-strecken-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T12:34:02+00:00"
+  },
+  {
+   "t": "Umsätze von Shein, Temu und AliExpress brechen in Deutschland ein",
+   "s": "Die Umsätze asiatischer Online-Plattformen wie Shein in Deutschland sind stark zurückgegangen, ihre Marktanteile sind gesunken. Hintergrund ist eine neue Zollgebühr für Warensendungen aus Nicht-EU-Staaten.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/umsatzeinbruch-shein-temu-zoll-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T11:24:13+00:00"
+  },
+  {
+   "t": "Baupreise steigen besonders stark",
+   "s": "In Deutschland fehlen Hunderttausende Wohnungen, hohe Kosten belasten die Bau-Branche. Entspannung ist nicht in Sicht: Zuletzt lag der Anstieg der Baupreise deutlich über der allgemeinen Inflationsrate.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/bauen-teuer-baukosten-bauzinsen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T11:11:04+00:00"
   },
   {
    "t": "Finanzaufsicht verhängt 1,2-Millionen-Euro-Strafe gegen Volkswagen",
@@ -50,13 +85,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/eu-rechnungshof-schulden-100.html",
    "q": "Tagesschau",
    "d": "2026-10-08T03:45:40+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 07.10.2026",
-   "s": "Wirtschaft vor acht vom 07.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1662278.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T17:52:26+00:00"
   },
   {
    "t": "Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-warner-uebernahme-102.html",
    "q": "Tagesschau",
    "d": "2026-10-06T15:18:04+00:00"
-  },
-  {
-   "t": "Tankstellen: Verstöße gegen die 12-Uhr-Regel werden weniger",
-   "s": "Die Zahl der Tankstellen, die gegen die 12-Uhr-Regel verstoßen, ist deutlich gesunken. Laut SWR-Analyse konzentrieren sich die verbliebenen Fälle auf wenige auffällige Betreiber. Von Jan Russezki.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/zwoelf-uhr-tank-regel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T13:29:54+00:00"
-  },
-  {
-   "t": "Wasser wird wertvoller",
-   "s": "Deutschland hat im Winter zu viel Wasser – und im Sommer immer weniger. Das belastet Umwelt und Wirtschaft. Die Bundesregierung fordert einen “neuen Umgang” mit Wasser. Wer viel verbraucht, soll mehr zahlen.",
-   "u": "https://www.deutschlandfunk.de/wassermangel-deutschland-strategie-bundesregierung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-06T11:45:00+00:00"
-  },
-  {
-   "t": "Kaufpreise für E-Autos nähern sich Verbrennern an",
-   "s": "Die Anschaffungspreise von Verbrennern und E-Autos nähern sich einer Studie zufolge wieder an. Ein Grund sind neue und günstigere Modelle, die Signalwirkung für den ganzen Markt haben.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/preise-e-autos-verbrenner-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T08:21:54+00:00"
-  },
-  {
-   "t": "Freigabe der Ölreserven: Was bringt das für die Preise?",
-   "s": "Im Kampf gegen die hohen Öl- und Kraftstoffpreise geben die G7-Staaten bis zu 100 Millionen Barrel aus strategischen Reserven frei. Zumindest kurzfristig ist mit einer Entlastung zu rechnen - auch an den Tankstellen. Von Heidi Radvilas.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/freigabe-oelreserven-preise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T07:13:43+00:00"
   }
  ]
 }
