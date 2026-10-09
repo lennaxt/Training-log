@@ -1,27 +1,41 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-09T01:13:50+00:00",
+ "updated": "2026-10-09T10:35:24+00:00",
  "items": [
+  {
+   "t": "Marktbericht: Ölpreis sinkt - DAX steigt über 25.000 Punkte",
+   "s": "Der DAX kehrt zurück über die Marke von 25.000 Punkten. Aber wie nachhaltig ist der Kursanstieg? An der Börse gibt es weiterhin viele Unsicherheitsfaktoren - auch mit Blick auf den Rohölmarkt, wo die Preise zuletzt nachgaben.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T08:32:12+00:00"
+  },
+  {
+   "t": "Finanzaufsicht verhängt 1,2-Millionen-Euro-Strafe gegen Volkswagen",
+   "s": "Die Finanzaufsicht BaFin hat Volkswagen wegen eines mutmaßlichen Verstoßes gegen Veröffentlichungspflichten mit einer millionenschweren Geldbuße belegt. Es geht um die Regeln zu Insider-Informationen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-millionenstrafe-bafin-veroeffentlichungspflicht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T08:00:22+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 09.10.2026",
+   "s": "Update Wirtschaft vom 09.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1663132.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T07:47:27+00:00"
+  },
+  {
+   "t": "Warum Deutschland bei Betriebsrenten Nachholbedarf hat",
+   "s": "Betriebsrenten sind in anderen Ländern viel stärker verbreitet als in Deutschland. Für Arbeitgeber werden sie angesichts des Fachkräftemangels immer wichtiger, um Mitarbeiter zu gewinnen. Von Claudia Wehrle.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/betriebsrente-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T06:43:59+00:00"
+  },
   {
    "t": "Regierung hebt Wachstumsprognose für 2026 auf 1,3 Prozent an",
    "s": "Die Bundesregierung erwartet für das laufende Jahr ein Wachstum von 1,3 Prozent. Damit blickt sie deutlich optimistischer auf die wirtschaftliche Entwicklung als noch im Frühjahr, als sie von 0,5 Prozent ausgegangen war.",
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/wachstumsprognose-regierung-100.html",
    "q": "Tagesschau",
    "d": "2026-10-08T20:01:59+00:00"
-  },
-  {
-   "t": "Marktbericht: Samsung setzt mit Rekordgewinn neue Maßstäbe",
-   "s": "Fast 72 Milliarden Euro in einem Quartal - noch nie hat ein Tech-Unternehmen so viel verdient wie jetzt Samsung. Für den südkoreanischen Konzern war es der vierte Rekordgewinn in Folge, angetrieben vom Chip-Geschäft",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-samsung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T12:02:09+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 08.10.2026",
-   "s": "Update Wirtschaft vom 08.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1662480.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T08:00:15+00:00"
   },
   {
    "t": "Commerzbank-Übernahme: Was auf Beschäftigte und Mittelstand zukommt",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/energie/freigabe-oelreserven-preise-100.html",
    "q": "Tagesschau",
    "d": "2026-10-06T07:13:43+00:00"
-  },
-  {
-   "t": "Trump erlaubt angesichts hoher Spritpreise Nutzung von steuerfreiem Diesel",
-   "s": "Mit dem Iran-Krieg ist das Tanken auch in den USA deutlich teurer geworden. Nun verspricht US-Präsident Trump Abhilfe: Autofahrer sollen steuerfreien, \"roten\" Diesel nutzen können. Der ist bisher nur in der Landwirtschaft erlaubt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T05:30:33+00:00"
-  },
-  {
-   "t": "Warum ein Studium keine Jobgarantie mehr ist",
-   "s": "Hunderttausende Menschen hierzulande haben einen Uniabschluss und trotzdem keinen Job. Dabei galt lange: Wer studiert, hat später die besten Berufsaussichten. Doch diese Gewissheit bröckelt. Von L.-M. Hiltscher und C. Dörr.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/ausbildung-oder-studium-was-lohnt-sich-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T04:23:54+00:00"
   }
  ]
 }

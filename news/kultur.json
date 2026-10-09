@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-10-09T01:13:53+00:00",
+ "updated": "2026-10-09T10:35:28+00:00",
  "items": [
+  {
+   "t": "Venezolanisches Ehepaar Maduro: USA werfen Ex-Präsident und seiner Frau Folter vor",
+   "s": "Die US-Staatsanwaltschaft erhebt schwere Foltervorwürfe gegen Venezuelas früheren Staatschef Nicolás Maduro und seine Frau. Beide sind bereits in Haft.",
+   "u": "https://taz.de/Venezolanisches-Ehepaar-Maduro/!6220230/",
+   "q": "taz",
+   "d": "2026-10-09T06:30:00+00:00"
+  },
+  {
+   "t": "Hinrichtung in den USA: Erschießung per Livestream",
+   "s": "Die USA wollen eine Militärhinrichtung durchführen – öffentlich. Und das kurz nach der gescheiterten Exekution von Christa Pike, die weltweit Entsetzen auslöste.",
+   "u": "https://taz.de/Hinrichtung-in-den-USA/!6220226/",
+   "q": "taz",
+   "d": "2026-10-09T06:07:00+00:00"
+  },
   {
    "t": "Gewaltgeschichte einer linken Stadt: Unter dem Pflaster die Sklaverei",
    "s": "Kaum jemand weiß, dass New York City einst ein Zentrum des Sklaven­handels war. Nun fordern Schwarze und Indigene Menschen Entschädigung.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/UN-Generalversammlung/!6216287/",
    "q": "taz",
    "d": "2026-09-25T07:25:00+00:00"
-  },
-  {
-   "t": "Trump und Xi in Washington: Schaumwein, ein Adler und Spartas Angst",
-   "s": "US-Präsident Trump empfängt Xi Jinping mit großem Pomp. Greifbare Ergebnisse gibt es kaum, aber Peking gewinnt im Systemkampf der Weltmächte Zeit.",
-   "u": "https://taz.de/Trump-und-Xi-in-Washington/!6216280/",
-   "q": "taz",
-   "d": "2026-09-25T06:32:00+00:00"
-  },
-  {
-   "t": "Trump-Regierung verliert vor Gericht: Journalisten dürfen nun wieder ins Weiße Haus",
-   "s": "Der US-Präsident kassiert eine Klatsche: Er muss die Berichterstattung von CNN, MS NOW und Politico zulassen. Im Laufe des Donnerstags hatten die Reporter wieder Zutritt.",
-   "u": "https://taz.de/Trotz-Niederlage-Trumps-vor-Gericht/!6216008/",
-   "q": "taz",
-   "d": "2026-09-24T15:09:00+00:00"
   }
  ]
 }
