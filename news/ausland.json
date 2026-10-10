@@ -1,7 +1,56 @@
 {
  "name": "Ausland",
- "updated": "2026-10-10T09:52:08+00:00",
+ "updated": "2026-10-10T19:17:13+00:00",
  "items": [
+  {
+   "t": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
+   "s": "Gestern hatte US-Präsident Trump einen Dieseldeal mit Russland angekündigt. Die Ukraine reagierte empört, nun fordert Trump eine Ablösung des ukrainischen Staatschefs Selenskyj. Er habe die Schuld an den hohen Energiepreisen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T18:26:35+00:00"
+  },
+  {
+   "t": "Serie von Messerattacken an Schulen in Polen",
+   "s": "In Polen sorgt eine Serie von Messerattacken an Schulen für Entsetzen. Am Donnerstag starben zwei Menschen nach einem Angriff auf eine Grundschule. Nun wurden bei einem weiteren Angriff drei Frauen verletzt.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T16:33:42+00:00"
+  },
+  {
+   "t": "Mehrere Tote durch russische Angriffe auf Saporischschja",
+   "s": "Während in Miami über Hilfe für die Ukraine und Wege hin zu einem Ende des russischen Angriffskrieges beraten wird, setzt Moskau seine Attacken fort. In der Region Saporischschja gab es mehrere Todesopfer. Auch Kiew wurde erneut attackiert.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T16:05:24+00:00"
+  },
+  {
+   "t": "Merz sieht bei irischem Vorschlag für EU-Haushalt \"keine Grundlage für Einigung\"",
+   "s": "Die irische EU-Ratspräsidentschaft hat einen neuen Vorschlag für den nächsten EU-Haushalt vorgelegt. Die Reaktion aus Deutschland darauf ist verhalten. Kanzler Merz sieht keine Grundlage für eine Einigung. Von Kathrin Schmid.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-haushalt-irischer-vorschlag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T14:33:27+00:00"
+  },
+  {
+   "t": "Nationalfeiertag in Taiwan: \"Wir werden unsere Freiheit nicht aufgeben\"",
+   "s": "Zum Nationalfeiertag appelliert Taiwan an die Länder im Indopazifik, sich für Frieden und Stabilität in der Region einzusetzen. Doch China gebärdet sich zunehmend aggressiv. Von Christoph Kober.",
+   "u": "https://www.tagesschau.de/ausland/asien/taiwan-nationalfeiertag-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T14:22:48+00:00"
+  },
+  {
+   "t": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
+   "s": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Inzwischen hat sich der Sturm aber deutlich abgeschwächt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T12:44:57+00:00"
+  },
+  {
+   "t": "Gründer der indischen \"Kakerlaken\"-Bewegung festgenommen",
+   "s": "In Indien sind Tausende, meist jugendliche Anhänger der \"Kakerlaken\"-Bewegung festgenommen worden. Im ganzen Land gab es Proteste gegen die Wahlkommission. Bereits im Vorfeld war der Gründer der Bewegung festgesetzt worden.",
+   "u": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T11:08:42+00:00"
+  },
   {
    "t": "Schweres Erdbeben erschüttert Panama",
    "s": "In Panama hat es ein schweres Erdbeben der Stärke 7,7 gegeben. In Panama-Stadt schwankten Gebäude, Menschen verließen die Häuser. Dutzende Nachbeben folgten. Nach Angaben der Behörden gab es mehrere Verletzte.",
@@ -10,25 +59,11 @@
    "d": "2026-10-10T09:34:50+00:00"
   },
   {
-   "t": "Gründer der indischen Kakerlaken-Bewegung festgenommen",
-   "s": "Vor einer geplanten Demonstration gegen Indiens Wahlkommission ist der Gründer der sogenannten Kakerlaken-Bewegung festgenommen worden. Die Bewegung fordert den Rücktritt des Wahlkommissionschefs.",
-   "u": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T08:46:02+00:00"
-  },
-  {
    "t": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
    "s": "Ein Jahr nach der Waffenruhe im Gazastreifen leben viele Menschen weiter in Not, Hilfsorganisationen sichern ihr Überleben. Von der internationalen Politik fühlen sich die Menschen vergessen. Von Felicitas Boeselager.",
    "u": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html",
    "q": "Tagesschau",
    "d": "2026-10-10T07:37:37+00:00"
-  },
-  {
-   "t": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
-   "s": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Mehrere Bundesstaaten haben den Notstand ausgerufen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T07:15:42+00:00"
   },
   {
    "t": "Wahlkampf per Fahrrad: Können Serbiens Studenten Vucic besiegen?",
@@ -108,13 +143,6 @@
    "d": "2026-10-09T06:59:55+00:00"
   },
   {
-   "t": "Mann durch Schüsse während ICE-Einsatz in New York verletzt",
-   "s": "In New York wurde ein Mann von einem ICE-Bediensteten in seinem Auto angeschossen. Auch ein Kind befand sich in dem Fahrzeug. Vom Bürgermeister der Metropole, Mamdani, kommt scharfe Kritik an dem Vorfall.",
-   "u": "https://www.tagesschau.de/ausland/amerika/newyork-ice-schuesse-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T05:37:53+00:00"
-  },
-  {
    "t": "Protest und Andenken: Zehntausende in Spanien auf der Straße für Maricarmen",
    "s": "Der Tod einer 87-Jährigen nach der Zwangsräumung ihrer Wohnung befeuert in Spanien den Protest gegen die Wohnungsnot. Ein Streik und Neuwahlen sind schon angekündigt. Ein Ende des Unmuts ist aber nicht in Sicht.",
    "u": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-huthi-angriffe-100.html",
    "q": "Tagesschau",
    "d": "2026-10-08T15:35:30+00:00"
-  },
-  {
-   "t": "Großbritannien: Burnham bietet Deutschland Kampfjet-Kooperation an",
-   "s": "Bei seinem Besuch in Berlin hat der neue britische Premier Burnham die Absicht einer engen Zusammenarbeit mit Deutschland unterstrichen. Für Überraschung sorgte ein Angebot im Verteidigungsbereich.",
-   "u": "https://www.tagesschau.de/ausland/europa/burnham-besuch-berlin-kooperation-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T15:14:59+00:00"
-  },
-  {
-   "t": "Eritreische Truppen rücken offenbar in Äthiopien ein",
-   "s": "Ende September war in der äthiopischen Tigray-Region ein alter Konflikt wieder aufgeflammt. Nun gibt es Berichte, wonach Truppen des benachbarten Eritrea dort einmarschiert seien. Beide Länder machen sich gegenseitig Vorwürfe.",
-   "u": "https://www.tagesschau.de/ausland/afrika/eritrea-aethiopien-tigray-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T15:12:46+00:00"
-  },
-  {
-   "t": "Italiens Parlament billigt umstrittene Wahlrechtsreform von Meloni",
-   "s": "Die umstrittene Wahlrechtsreform von Italiens Ministerpräsidentin Meloni ist endgültig verabschiedet worden. Die Opposition wirft der Regierung vor, damit ihre Macht sichern zu wollen. Zudem gibt es verfassungsrechtliche Bedenken.",
-   "u": "https://www.tagesschau.de/ausland/europa/meloni-wahlrechtsreform-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T13:47:19+00:00"
-  },
-  {
-   "t": "Nach bestätigtem Todesfall: Auch in Kenia wächst die Sorge vor Ebola",
-   "s": "Es ist der erste Ebola-Fall in Kenia: Am Montag starb ein aus dem Kongo eingereister Mann an der Krankheit. Behörden und WHO reagieren mit verstärkten Maßnahmen - und in der Bevölkerung wächst die Sorge. Von Karin Bensch.",
-   "u": "https://www.tagesschau.de/ausland/afrika/ebola-kenia-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T12:53:37+00:00"
   }
  ]
 }

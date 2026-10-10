@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-10T09:52:12+00:00",
+ "updated": "2026-10-10T19:17:18+00:00",
  "items": [
+  {
+   "t": "Schulproteste in Frankreich: Auf den Barrikaden",
+   "s": "Die Proteste einer schnell wachsenden Be­we­gung von Schü­le­r*in­nen erschüttern ganz Frankreich. Polizei und Regierung heizen die Wut weiter an.",
+   "u": "https://taz.de/Schulproteste-in-Frankreich/!6216569/",
+   "q": "taz",
+   "d": "2026-10-10T11:12:00+00:00"
+  },
   {
    "t": "Soziologe über Polizei in Frankreich: „Die meisten Verstümmelungen durch Polizeigewalt in Europa“",
    "s": "Bei den Protesten in Frankreich schockiert die Polizei erneut mit ihrem gewalttätigen Vorgehen – und das gegen Minderjährige. Woran das liegt, erklärt Sebastian Roché.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Lungenpest-Verdacht-in-Russland/!6219350/",
    "q": "taz",
    "d": "2026-10-06T11:57:00+00:00"
-  },
-  {
-   "t": "Nach neun Jahren Exil: Spaniens Justiz macht Weg für Rückkehr Puigdemonts frei",
-   "s": "Das Verfassungsgericht kippt das zentrale Argument des Obersten Gerichtshofs für den Haftbefehl gegen Puigdemont, der damit aufgehoben ist.",
-   "u": "https://taz.de/Nach-neun-Jahren-Exil/!6219402/",
-   "q": "taz",
-   "d": "2026-10-06T11:55:00+00:00"
   }
  ]
 }

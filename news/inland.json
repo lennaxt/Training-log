@@ -1,13 +1,104 @@
 {
  "name": "Inland",
- "updated": "2026-10-10T09:52:07+00:00",
+ "updated": "2026-10-10T19:17:13+00:00",
  "items": [
+  {
+   "t": "Erbschaftsteuer: Gerechter erben – geht das?",
+   "s": "Das Bundesverfassungsgericht verhandelt über die Erbschaftsteuer. Ist sie mit dem Gleichheitsgrundsatz vereinbar? Die wichtigsten Fragen und Antworten.",
+   "u": "https://taz.de/Erbschaftsteuer/!6216599/",
+   "q": "taz",
+   "d": "2026-10-10T18:11:00+00:00"
+  },
+  {
+   "t": "Demokratie in der Krise: Pistorius ist jetzt Antifa",
+   "s": "Seit Dienstag hält erstmals ein AfD-Politiker in Deutschland ein hohes Staatsamt, vermutlich dank der CDU. Verzweifeln könnte man deshalb – muss man aber nicht!",
+   "u": "https://taz.de/Demokratie-in-der-Krise/!6216607/",
+   "q": "taz",
+   "d": "2026-10-10T18:07:00+00:00"
+  },
+  {
+   "t": "1.690 Tage Krieg in der Ukraine: Freiwilligenjob in der Ukraine statt Enkelbetreuung in den USA",
+   "s": "Die amerikanische Rentnerin Barbara hilft regelmäßig als Freiwillige im westukrainischen Lwiw. Sie sieht ihr Engagement als Ehre und schätzt die Erfahrungen.",
+   "u": "https://taz.de/1690-Tage-Krieg-in-der-Ukraine/!6218065/",
+   "q": "taz",
+   "d": "2026-10-10T18:04:00+00:00"
+  },
+  {
+   "t": "CDU diskutiert über Umgang mit der AfD",
+   "s": "Zwei Tage lang will das CDU-Präsidium in Klausur gehen, um über Konsequenzen aus den jüngsten Wahlschlappen zu beraten. Dabei rückt eine Frage immer mehr in den Mittelpunkt: Soll der Umgang mit der AfD neu definiert werden?",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T15:34:39+00:00"
+  },
+  {
+   "t": "Kommentar: Frankreichs Jugend verliert das Vertrauen in die Politik",
+   "s": "Marode Schulgebäude und Unterrichtsausfälle sind nur Auslöser der Schülerproteste in Frankreich. Wo demokratische Institutionen aus Sicht der jungen Generation an Glaubwürdigkeit verlieren, gewinnen extreme Rechte und radikale Linke an Attraktivität.Von Stephan Detjen",
+   "u": "https://www.deutschlandfunk.de/kommentar-schuelerproteste-in-frankreich-wut-der-jungen-generation-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-10T14:38:00+00:00"
+  },
+  {
+   "t": "Weg frei für Koalitionsverhandlungen in Schwerin",
+   "s": "Nach SPD und Linken haben in Mecklenburg-Vorpommern auch die Grünen für Koalitionsverhandlungen zur Bildung einer rot-rot-grünen Landesregierung gestimmt. Die Koalitionsgespräche sollen am Montag beginnen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/mv-koalitionsverhandlungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T14:36:51+00:00"
+  },
+  {
+   "t": "Kolumne Stadtgespräch aus Tel Aviv: Was der gescheiterte Fly-Dubai-Anschlag mit Israelis macht",
+   "s": "Nach dem Vorfall in der Flydubai-Maschine ziehen viele Israelis Parallelen zum Behördenversagen am 7. Oktober. Politiker hingegen machen damit Wahlkampf.",
+   "u": "https://taz.de/Kolumne-Stadtgespraech-aus-Tel-Aviv/!6216570/",
+   "q": "taz",
+   "d": "2026-10-10T14:20:00+00:00"
+  },
+  {
+   "t": "Hinrichtung im Livestream: US‑Politiker und UNO fordern Verzicht",
+   "s": "Es wäre wohl die erste Militärexekution in den USA seit mehr als 60 Jahren – per Livestream übertragen. Letzteres war wohl nicht Trumps Entscheidung.",
+   "u": "https://taz.de/Hinrichtung-im-Livestream/!6220517/",
+   "q": "taz",
+   "d": "2026-10-10T14:13:00+00:00"
+  },
+  {
+   "t": "Kommentar: Vier Stimmen für die AfD normalisieren den Rechtsextremismus",
+   "s": "Die fraktionsübergreifende Wahl von Tobias Rausch zum ersten AfD-Landtagspräsidenten erhöht die Wahrscheinlichkeit, dass ein Ministerpräsident aus den Reihen der AfD gewählt wird. Damit wird der Rechtsextremismus schrittweise normalisiert.Von Daniela Vates",
+   "u": "https://www.deutschlandfunk.de/kommentar-vier-stimmen-mehr-afd-magdeburg-extremismus-wird-normalisiert-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-10T13:23:00+00:00"
+  },
+  {
+   "t": "Streit um Energiereformen: Das Schlimmste verhindern",
+   "s": "Die Bundestagsabgeordnete Nina Scheer verhandelt für die SPD über die umstrittenen Energiereformen von Ministerin Katherina Reiche. Warum viele auf sie hoffen.",
+   "u": "https://taz.de/Streit-um-Energiereformen/!6216526/",
+   "q": "taz",
+   "d": "2026-10-10T12:37:00+00:00"
+  },
+  {
+   "t": "Schulproteste in Frankreich: Auf den Barrikaden",
+   "s": "Die Proteste einer schnell wachsenden Be­we­gung von Schü­le­r*in­nen erschüttern ganz Frankreich. Polizei und Regierung heizen die Wut weiter an.",
+   "u": "https://taz.de/Schulproteste-in-Frankreich/!6216569/",
+   "q": "taz",
+   "d": "2026-10-10T11:12:00+00:00"
+  },
+  {
+   "t": "Trumps Diesel-Deal mit Putin – „Das ist ein Verrat“",
+   "s": "US-Präsident Trump hat einen Deal mit Russland verkündet: 300.000 Tonnen Diesel sollen in die USA und den Weltmarkt fließen, um die Spritpreise zu senken. Grünen-Europapolitiker Lagodinsky kritisiert das Vorgehen – und fordert härtere EU-Sanktionen.Kaess, Christiane",
+   "u": "https://www.deutschlandfunk.de/trumps-diesel-deal-interview-m-europaparlamentarier-sergey-lagodinsky-gruene-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-10T10:15:05+00:00"
+  },
   {
    "t": "Nach Schuss auf Migrant in New York: Mamdani will ICE abschaffen",
    "s": "Zohran Mamdani, Bürgermeister von NYC, kritisierte den Einsatz von ICE‑Agenten. Am Donnerstagabend schossen sie auf einen Mann, sein fünfjähriger Sohn saß daneben.",
    "u": "https://taz.de/Nach-Schuss-auf-Migrant-in-New-York/!6220512/",
    "q": "taz",
    "d": "2026-10-10T09:37:00+00:00"
+  },
+  {
+   "t": "Wehrpflicht - Wie läuft es mit der Gleichberechtigung in Norwegens Kasernen?",
+   "s": "Seit 2015 gilt in Norwegen die Wehrpflicht für alle. Eine Karriere im Militär streben aber nur wenige der Rekrutinnen an. Frauen machen ein Drittel der Streitkräfte aus, doch Genderklischees und sexuelle Gewalt verschwinden nicht automatisch. (Erstsendung: 14.03.2026)Köhne, Gunnar",
+   "u": "https://www.deutschlandfunk.de/norwegen-gleichberechtigung-in-der-kaserne-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-10T09:05:00+00:00"
   },
   {
    "t": "Vor Klausur des Präsidiums: CDU sucht den Weg aus der Krise",
@@ -31,8 +122,8 @@
    "d": "2026-10-10T06:45:00+00:00"
   },
   {
-   "t": "Trump kauft Kraftstoff von Putin: Ukraine kritisiert Diesel-Deal scharf",
-   "s": "In den USA ist der Sprit teuer – vor den Kongresswahlen ist der Druck auf Donald Trump hoch. Nun verkündet der US-Präsident einen Deal mit Putin.",
+   "t": "Treibstoffdeal zwischen USA und Russland: Trump fordert Ablösung Selenskyjs",
+   "s": "Drei Wochen vor den Kongresswahlen verkündet der US-Präsident einen Deal mit Putin, um günstig an Sprit zu kommen. Für die Ukraine fordert er einen „neuen Präsidenten“.",
    "u": "https://taz.de/Trump-kauft-Kraftstoff-von-Putin/!6220504/",
    "q": "taz",
    "d": "2026-10-10T06:21:00+00:00"
@@ -78,97 +169,6 @@
    "u": "https://taz.de/Protokoll-aus-Cherson/!6219602/",
    "q": "taz",
    "d": "2026-10-09T18:01:00+00:00"
-  },
-  {
-   "t": "Protokoll aus Cherson: „Wir stützen uns gegenseitig“",
-   "s": "In Cherson ist es lebensgefährlich, aber noch gibt es Essen und Strom. Die 45-jährige Anna erklärt, warum sie und ihre Familie die Stadt nicht verlassen.",
-   "u": "https://taz.de/Protokoll-aus-Cherson/!6219759/",
-   "q": "taz",
-   "d": "2026-10-09T18:00:00+00:00"
-  },
-  {
-   "t": "Todesstrafe in den USA: Scheitern als Kalkül",
-   "s": "Dem Trump-Regime ist es nicht gelungen, Christa Pike hinzurichten. Das ist nicht überraschend. Die Risiken des eingesetzten Mittels sind bekannt.",
-   "u": "https://taz.de/Todesstrafe-in-den-USA/!6220240/",
-   "q": "taz",
-   "d": "2026-10-09T17:56:00+00:00"
-  },
-  {
-   "t": "Rot-grün-rote Sondierungen in Berlin: Palästinasolidarische Linke sollten Ja sagen",
-   "s": "Der Kompromiss zum Thema Antisemitismus schmeckt einem Teil der Berliner Linkspartei nicht. Dabei ermöglicht er Kritik an Israel und bietet eine riesige Chance.",
-   "u": "https://taz.de/Rot-gruen-rote-Sondierungen-in-Berlin/!6216562/",
-   "q": "taz",
-   "d": "2026-10-09T17:51:00+00:00"
-  },
-  {
-   "t": "Ministerin zu Kita-Gesetz: \"Bildungschancen sollten von Talenten bestimmt sein\"",
-   "s": "Familienministerin Prien hat im Bundestag ihr geplantes Gesetz für mehr Qualität in Kitas verteidigt. Gezielte frühkindliche Bildung führe zu mehr Chancengerechtigkeit. Aus der Opposition kam Kritik an der Finanzierung.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/kita-chancen-gesetz-bundestag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T17:50:26+00:00"
-  },
-  {
-   "t": "Reform der Pflegeversicherung: Regierung schickt Frauen mit Vollgas in die Armut",
-   "s": "Töchter, Ehefrauen, Mütter, Schwestern: Wer Angehörige zu Hause pflegt, war schon immer kurz vorm Burn-out. Jetzt erst recht.",
-   "u": "https://taz.de/Reform-der-Pflegeversicherung/!6216539/",
-   "q": "taz",
-   "d": "2026-10-09T17:29:00+00:00"
-  },
-  {
-   "t": "Bundestag debattiert über Sachsen-Anhalt: Kehrtag",
-   "s": "Die Gefahren einer weiteren Zusammenarbeit mit der AfD sind bekannt. Doch statt diese ernst zu nehmen, versucht die Union es mit Ablenkungsmanövern.",
-   "u": "https://taz.de/Nach-den-Wahlen-in-Sachsen-Anhalt/!6220491/",
-   "q": "taz",
-   "d": "2026-10-09T17:15:00+00:00"
-  },
-  {
-   "t": "Aktuelle Stunde: Streit im Bundestag nach Wahl von AfD-Landtagspräsident",
-   "s": "Die Linksfraktion hatte im Bundestag eine Aktuelle Stunde beantragt. Um den Umgang mit der AfD in Sachsen-Anhalt sollte es gehen. Es wurde eine von starken Emotionen und Zwischenrufen geprägte Debatte. Von D. Pepping.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rechtsextremisten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T16:59:58+00:00"
-  },
-  {
-   "t": "Rot-rot-grün will koalieren: Schwerin ist nicht Berlin",
-   "s": "Anders als in der Bundeshauptstadt einigen sich SPD, Linke und Grüne in Mecklenburg-Vorpommern geräuschlos auf Koalitionsverhandlungen. Was haben sie vor?",
-   "u": "https://taz.de/Rot-rot-gruen-will-koalieren/!6220358/",
-   "q": "taz",
-   "d": "2026-10-09T16:35:00+00:00"
-  },
-  {
-   "t": "EU-Handelskommissar in Peking: Letzte Visite vor dem Handelskrieg",
-   "s": "EU-Handelskommissar Šefčovič will in China die Wogen glätten. Peking spricht von einer Einigung, doch die Details sind unklar.",
-   "u": "https://taz.de/EU-Handelskommissar-in-Peking/!6220310/",
-   "q": "taz",
-   "d": "2026-10-09T16:19:00+00:00"
-  },
-  {
-   "t": "Podcast klima update°: Wie Deutschland gegen das Verbrenner-Aus mobil macht",
-   "s": "Die geplante Plastiksteuer ist ökologisch Murks. Deutschland bricht Klima-Versprechen gegenüber dem Globalen Süden. Das Verbrenner-Aus ist gefährdet.",
-   "u": "https://taz.de/Podcast-klima-updatedeg/!6220357/",
-   "q": "taz",
-   "d": "2026-10-09T16:16:00+00:00"
-  },
-  {
-   "t": "Frauenhaus Maison Baobab: Hier sind sie sicher",
-   "s": "Im Maison Baobab im marokkanischen Rabat leben viele Migrantinnen, die auf der Flucht Gewalt erlebt haben. Nun atmen sie durch. Doch es ist nur ein Schutz auf Zeit.",
-   "u": "https://taz.de/Frauenhaus-Maison-Baobab/!6214529/",
-   "q": "taz",
-   "d": "2026-10-09T16:13:00+00:00"
-  },
-  {
-   "t": "Korruption in der Ukraine: Spionagevorwürfe, Korruption und Schweigen in Wien",
-   "s": "Zwei ukrainische Investigativjournalisten werden in Österreich festgenommen. Sie hatten zu Ex-Generalstaatsanwalt Krawtschenko recherchiert.",
-   "u": "https://taz.de/Korruption-in-der-Ukraine/!6220321/",
-   "q": "taz",
-   "d": "2026-10-09T16:12:00+00:00"
-  },
-  {
-   "t": "Altkanzler Schröder bei Putins Geburtstag: Kopfschütteln, Wut, Empörung",
-   "s": "Kopfschütteln, Wut, Empörung: Der Besuch von Altkanzler Schröder bei Putins Geburtstag in Moskau stößt in Berlin auf Unverständnis. Zum wiederholten Mal irritiert der 82-Jährige mit seiner Nähe zum Kremlchef. Von Georg Schwarte.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/russland-altkanzler-schroeder-putin-geburtstag-kritik-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T15:12:24+00:00"
   }
  ]
 }

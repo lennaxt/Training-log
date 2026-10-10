@@ -1,7 +1,28 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-10T09:52:09+00:00",
+ "updated": "2026-10-10T19:17:15+00:00",
  "items": [
+  {
+   "t": "Wie Start-ups in Deutschland trotz Hürden Erfolg haben können",
+   "s": "Ein Berliner KI-Start-up zeigt, wie deutsche Gründer es auf die Weltbühne schaffen. Doch viele aufstrebende Unternehmen werden in ihrem Potenzial immer noch ausgebremst. Dabei gebe es viel Talent, sagt ein Gründer. Von A. Kartschall.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/startup-einhorn-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T13:07:24+00:00"
+  },
+  {
+   "t": "Deutschland bleibt beim Nein zu russischem Öl",
+   "s": "Auch nach Trumps Dieseldeal mit Putin will die Bundesregierung auf russisches Öl verzichten. Die Grünen werfen der US-Regierung Skrupellosigkeit vor. Die Spritpreise in Deutschland reagierten nicht.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/trump-diesel-oelpreis-reaktionen-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T12:04:32+00:00"
+  },
+  {
+   "t": "Weniger Hybridfahrzeug-Exporte: EU und China wenden Eskalation vorerst ab",
+   "s": "China akzeptiert EU-Handelsbeschränkungen für Hybridfahrzeuge. Doch wie nachhaltig wirkt dieses Zugeständnis? Und wie geht es in anderen Wirtschaftsbereichen weiter? Von Christoph Kober.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-eu-hybridautos-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T10:15:19+00:00"
+  },
   {
    "t": "Immobilienmarkt: Steigende Preise trotz sinkender Nachfrage",
    "s": "Die Preise für Wohnimmobilien legen weiter zu - obwohl Baukredite sehr teuer geworden sind und sich weniger Menschen eine Eigentumswohnung oder ein Haus leisten können. Wie passt das zusammen? Von Heidi Radvilas",
@@ -15,6 +36,20 @@
    "u": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-ki-104.html",
    "q": "Tagesschau",
    "d": "2026-10-10T05:48:52+00:00"
+  },
+  {
+   "t": "Trump kündigt russische Diesellieferungen an",
+   "s": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T02:43:04+00:00"
+  },
+  {
+   "t": "China sagt EU weniger Exporte von Hybridautos zu",
+   "s": "Der Konkurrenzdruck aus China macht insbesondere deutschen Autobauern zu schaffen. Die EU will daher erreichen, dass Peking in Europa weniger Hybridautos verkauft - nun verkünden beide Seiten einen Kompromiss.",
+   "u": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T22:54:50+00:00"
   },
   {
    "t": "Wirtschaft vor acht vom 09.10.2026",
@@ -87,6 +122,13 @@
    "d": "2026-10-08T20:01:59+00:00"
   },
   {
+   "t": "Hohe Erwartungen an Besuch von EU-Handelskommissar Sefcovic in Peking",
+   "s": "Die wirtschaftlichen Beziehungen zwischen der EU und China sind angespannt. EU-Handelskommissar Sefcovic wird bei seinen Gesprächen in Peking versuchen, den Handelsstreit beizulegen. Von Eva Lamby-Schmitt.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-china-sefcovic-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-08T12:50:11+00:00"
+  },
+  {
    "t": "Commerzbank-Übernahme: Was auf Beschäftigte und Mittelstand zukommt",
    "s": "Die italienische Großbank UniCredit steht vor der Übernahme der Commerzbank. Jetzt beginnt die entscheidende Phase - mit gravierenden Folgen für Mitarbeiter und Firmenkunden. Von Steffen Clement.",
    "u": "https://www.tagesschau.de/wirtschaft/commerzbank-uebernahme-mitarbeiter-kunden-100.html",
@@ -108,27 +150,6 @@
    "d": "2026-10-07T13:55:15+00:00"
   },
   {
-   "t": "Bund untersagt Zippel-Übernahme durch chinesische Cosco",
-   "s": "Das Kartellamt hatte schon grünes Licht gegeben, jetzt trat die Bundesregierung auf die Bremse: Die chinesische Cosco-Reederei darf doch nicht die Mehrheit des Logistikunternehmens Zippel übernehmen. Aus Sicherheitsgründen, wie es hieß.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zippel-cosco-china-aussenhandel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T11:43:26+00:00"
-  },
-  {
-   "t": "Deutsche Unternehmen fahren Produktion überraschend deutlich hoch",
-   "s": "Trotz Behinderungen der Rhein-Schifffahrt durch das Niedrigwasser haben die deutschen Unternehmen ihre Produktion im August stark hochgefahren. Ein kräftigeres Plus gab es zuletzt im März 2025.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/produktion-industrie-bau-august-plus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T10:02:20+00:00"
-  },
-  {
-   "t": "Verkehrsausschuss stimmt für Bahn-Neubaustrecke Hamburg-Hannover",
-   "s": "Die Bahnstrecke Hamburg-Hannover ist sehr wichtig für den Personen- und Güterverkehr - aber auch überlastet. Der Verkehrsausschuss des Bundestags stimmte nun für eine Neubaustrecke. Gegen das Projekt gibt es Widerstand.",
-   "u": "https://www.tagesschau.de/wirtschaft/bahn-neubaustrecke-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T08:58:04+00:00"
-  },
-  {
    "t": "Sorgen um Geld: Frauen fühlen sich finanziell unsicherer",
    "s": "Fast die Hälfte aller Frauen in Deutschland macht sich Sorgen um ihre finanzielle Zukunft. Ein wichtiger Grund: Vielen Frauen fehlt das Geld, um überhaupt vorsorgen zu können.",
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/finanzen-frauen-sicherheit-unsicher-100.html",
@@ -143,32 +164,11 @@
    "d": "2026-10-07T07:03:20+00:00"
   },
   {
-   "t": "Verbraucherpolitiker kritisieren Schufa wegen mangelnder Transparenz",
-   "s": "Erst bewarb die Schufa ihren neuen Score mit Transparenz, dann kamen durch NDR- und SZ-Recherchen weitere Bewertungsscores ans Licht. Linke, Grüne, SPD und Union üben Kritik und fordern Antworten. Nur die AfD sieht kein Problem. Von P. Hornung.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/schufa-bundestag-kritik-100.html",
+   "t": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
+   "s": "Europas Wirtschaft leidet unter Exporten aus China. Kurz vor dem Besuch des EU-Handelskommissars in Peking fordern die Regierungen in Berlin und Paris nun neue Instrumente gegenüber China. Damit sind die Erwartungen gesetzt. Von Sarah López.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-07T04:59:20+00:00"
-  },
-  {
-   "t": "Was die Metall-Tarifrunde so kompliziert macht",
-   "s": "Heute beginnen die Verhandlungen über die Tarifbedingungen in der Metall- und Elektroindustrie. Betroffen sind rund 3,7 Millionen Beschäftigte. Antworten auf die wichtigsten Fragen zum Gesprächsstart.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-tarifverhandlungen-104.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T04:06:08+00:00"
-  },
-  {
-   "t": "BR-Recherche zu Pestiziden - Mehr als 50 Wirkstoffe scheitern an EU-Prüfung",
-   "s": "Mehr als 50 Pestizid-Wirkstoffe sind seit 2011 bei der Wiederzulassung in der EU durchgefallen, zeigt eine Analyse von BR Data. Genau diese Überprüfung will die EU-Kommission abschaffen. Wissenschaftler befürchten Risiken für Mensch und Umwelt.",
-   "u": "https://www.tagesschau.de/investigativ/br-recherche/eu-neuregelung-pestizid-zulassung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T04:00:21+00:00"
-  },
-  {
-   "t": "Bahn-Sanierung: Verkehrsministerium legt \"Infraplan\" vor",
-   "s": "Im neuen \"Infraplan\" legt der Bund konkrete Ziele für Sanierung und Ausbau des Bahnnetzes fest. Doch die Branche mahnt: Ohne gesicherte Finanzierung droht auch dieser Plan in der Schublade zu verschwinden. Von Benjamin Großkopff.",
-   "u": "https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T18:57:31+00:00"
+   "d": "2026-10-06T17:43:36+00:00"
   }
  ]
 }
