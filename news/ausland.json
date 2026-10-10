@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-10-09T20:06:56+00:00",
+ "updated": "2026-10-10T00:52:36+00:00",
  "items": [
+  {
+   "t": "Schweres Erdbeben erschüttert Panama",
+   "s": "In Panama hat es ein schweres Erdbeben der Stärke 7,7 gegeben. In Panama-Stadt schwankten Gebäude, Menschen verließen die Häuser. Eine Tsunamiwarnung wurde aufgehoben. Über mögliche Verletzte gibt es bislang keine Angaben.",
+   "u": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T23:58:47+00:00"
+  },
+  {
+   "t": "China sagt EU weniger Exporte von Hybridautos zu",
+   "s": "Der Konkurrenzdruck aus China macht insbesondere deutschen Autobauern zu schaffen. Die EU will daher erreichen, dass Peking in Europa weniger Hybridautos verkauft - nun verkünden beide Seiten einen Kompromiss.",
+   "u": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T22:54:50+00:00"
+  },
+  {
+   "t": "Trump kündigt russische Diesel-Lieferungen an",
+   "s": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-09T22:19:16+00:00"
+  },
   {
    "t": "Flydubai-Co-Pilot plante laut Ermittlern Selbstmordanschlag",
    "s": "Zum vereitelten Absturz des Flydubai-Flugzeugs Ende September sind weitere Details bekannt geworden. Der Co-Pilot hatte nach Angaben der Ermittler geplant, die Maschine in ein israelisches Flughafenterminal zu steuern.",
@@ -66,13 +87,6 @@
    "d": "2026-10-09T05:37:53+00:00"
   },
   {
-   "t": "Nach gescheiterter Hinrichtung: Wie geht es weiter im Fall Pike?",
-   "s": "Nachdem die Mörderin Christa Pike den Versuch ihrer Hinrichtung überlebte, kann sie mittlerweile wieder laufen, ist aber in gesundheitlich schlechtem Zustand. Doch wie geht es nun weiter? Wird es einen neuen Exekutionsversuch geben? Ein Überblick.",
-   "u": "https://www.tagesschau.de/ausland/amerika/christa-pike-gescheiterte-hinrichtung-folgen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T05:23:12+00:00"
-  },
-  {
    "t": "Protest und Andenken: Zehntausende in Spanien auf der Straße für Maricarmen",
    "s": "Der Tod einer 87-Jährigen nach der Zwangsräumung ihrer Wohnung befeuert in Spanien den Protest gegen die Wohnungsnot. Ein Streik und Neuwahlen sind schon angekündigt. Ein Ende des Unmuts ist aber nicht in Sicht.",
    "u": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html",
@@ -92,13 +106,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html",
    "q": "Tagesschau",
    "d": "2026-10-08T22:08:21+00:00"
-  },
-  {
-   "t": "USA klagen venezolanischen Ex-Präsidenten Maduro wegen Folter an",
-   "s": "Im Juni kommenden Jahres soll der Prozess gegen Venezuelas ehemaligen Staatschef Maduro in den USA beginnen. Er und seine Frau müssen sich dabei neuen Vorwürfen stellen - neben \"Drogenterrorismus\" ist nun auch von Folter die Rede.",
-   "u": "https://www.tagesschau.de/ausland/amerika/maduro-wegen-folter-angeklagt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T22:00:28+00:00"
   },
   {
    "t": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-hamas-ueberfall-100.html",
    "q": "Tagesschau",
    "d": "2026-10-08T01:35:58+00:00"
-  },
-  {
-   "t": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
-   "s": "Ihr Name stand symbolisch für die spanische Wohnungskrise. Nach der Zwangsräumung der Wohnung der 87-jährigen Maricarmen Abascal war es zu landesweiten Protesten gekommen. Nun ist die Rentnerin gestorben.",
-   "u": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T19:38:22+00:00"
   }
  ]
 }
