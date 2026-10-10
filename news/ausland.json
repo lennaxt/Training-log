@@ -1,13 +1,55 @@
 {
  "name": "Ausland",
- "updated": "2026-10-10T00:52:36+00:00",
+ "updated": "2026-10-10T09:52:08+00:00",
  "items": [
   {
    "t": "Schweres Erdbeben erschüttert Panama",
-   "s": "In Panama hat es ein schweres Erdbeben der Stärke 7,7 gegeben. In Panama-Stadt schwankten Gebäude, Menschen verließen die Häuser. Eine Tsunamiwarnung wurde aufgehoben. Über mögliche Verletzte gibt es bislang keine Angaben.",
+   "s": "In Panama hat es ein schweres Erdbeben der Stärke 7,7 gegeben. In Panama-Stadt schwankten Gebäude, Menschen verließen die Häuser. Dutzende Nachbeben folgten. Nach Angaben der Behörden gab es mehrere Verletzte.",
    "u": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-09T23:58:47+00:00"
+   "d": "2026-10-10T09:34:50+00:00"
+  },
+  {
+   "t": "Gründer der indischen Kakerlaken-Bewegung festgenommen",
+   "s": "Vor einer geplanten Demonstration gegen Indiens Wahlkommission ist der Gründer der sogenannten Kakerlaken-Bewegung festgenommen worden. Die Bewegung fordert den Rücktritt des Wahlkommissionschefs.",
+   "u": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T08:46:02+00:00"
+  },
+  {
+   "t": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
+   "s": "Ein Jahr nach der Waffenruhe im Gazastreifen leben viele Menschen weiter in Not, Hilfsorganisationen sichern ihr Überleben. Von der internationalen Politik fühlen sich die Menschen vergessen. Von Felicitas Boeselager.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T07:37:37+00:00"
+  },
+  {
+   "t": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
+   "s": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Mehrere Bundesstaaten haben den Notstand ausgerufen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T07:15:42+00:00"
+  },
+  {
+   "t": "Wahlkampf per Fahrrad: Können Serbiens Studenten Vucic besiegen?",
+   "s": "Vor zwei Jahren begannen die Studentenproteste gegen Serbiens Regierung unter Vucic - und für Neuwahlen. Jetzt, da es Ende des Monats tatsächlich Wahlen geben wird, haben die Studierenden eine echte Chance. Von A. Herz.",
+   "u": "https://www.tagesschau.de/ausland/europa/serbien-wahl-studenten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T05:44:11+00:00"
+  },
+  {
+   "t": "Auch Republikaner über geplante Live-Hinrichtung entsetzt",
+   "s": "Eine Militärhinrichtung im Livestream: In den USA wird kontrovers über die Ankündigung des Verteidigungsministers diskutiert. Die Rede ist von Methoden wie bei der IS-Miliz. Auch Vizepräsident Vance geht auf Distanz. Von Nina Barth.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-todesstrafe-106.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T03:56:30+00:00"
+  },
+  {
+   "t": "Trump kündigt russische Diesellieferungen an",
+   "s": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T02:43:04+00:00"
   },
   {
    "t": "China sagt EU weniger Exporte von Hybridautos zu",
@@ -15,13 +57,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
    "q": "Tagesschau",
    "d": "2026-10-09T22:54:50+00:00"
-  },
-  {
-   "t": "Trump kündigt russische Diesel-Lieferungen an",
-   "s": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T22:19:16+00:00"
   },
   {
    "t": "Flydubai-Co-Pilot plante laut Ermittlern Selbstmordanschlag",
@@ -43,13 +78,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html",
    "q": "Tagesschau",
    "d": "2026-10-09T17:47:36+00:00"
-  },
-  {
-   "t": "USA wollen Hinrichtung von Attentäter per Livestream übertragen",
-   "s": "Anfang Dezember wollen die USA erstmals seit mehr als 60 Jahren eine Militärhinrichtung durchführen. Sie soll öffentlich sein, sagt der US-Verteidigungsminister Hegseth - und per Livestream übertragen werden.",
-   "u": "https://www.tagesschau.de/ausland/amerika/pentagon-hinrichtung-livestream-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T11:43:47+00:00"
   },
   {
    "t": "Nobelpreisträgerin Machado: Weiter im Exil - mit wenig Einfluss",
@@ -92,13 +120,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html",
    "q": "Tagesschau",
    "d": "2026-10-09T03:20:12+00:00"
-  },
-  {
-   "t": "Geringe Chancen: Donald Trump will den Friedensnobelpreis",
-   "s": "Wer unter den diesjährigen 287 Kandidaten für den Friedensnobelpreis ist, ist geheim. Auch US-Präsident Trump soll unter den Nominierten sein - trotz des Kriegs gegen Iran. Seine Chancen sind allerdings eher gering. Von J. Oppel.",
-   "u": "https://www.tagesschau.de/ausland/trump-friedensnobelpreis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T01:41:40+00:00"
   },
   {
    "t": "Schülerproteste: Frankreich will kurzfristig 3.000 Vertretungslehrer einsetzen",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/afrika/ebola-kenia-100.html",
    "q": "Tagesschau",
    "d": "2026-10-08T12:53:37+00:00"
-  },
-  {
-   "t": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
-   "s": "Die Schulproteste in Frankreich halten weiter an. Premier Lecornu sicherte den Schülern nun bessere Lernbedingungen zu, ohne aber zusätzliche Finanzhilfen in Aussicht zu stellen. Neue Proteste sind bereits angekündigt.",
-   "u": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T08:24:58+00:00"
-  },
-  {
-   "t": "Italien: Melonis Machtpoker um das Wahlrecht",
-   "s": "Kann Italiens Ministerpräsidentin Meloni ihr umstrittenes neues Wahlrecht durchsetzen? Die Schlussabstimmung im Abgeordnetenhaus wird zur Zitterpartie. Meloni hat das neue Wahlrecht an die Vertrauensfrage geknüpft. Von Ivo Marusczyk.",
-   "u": "https://www.tagesschau.de/ausland/europa/italien-wahlrechtsreform-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T02:41:09+00:00"
-  },
-  {
-   "t": "Dritter Jahrestag des 7. Oktober: Ein emotionaler Gedenktag in Israel geht zu Ende",
-   "s": "Die Trauer über die mehr als 1.200 Todesopfer vom 7. Oktober vor drei Jahren ist in Tel Aviv groß. Zehntausende Menschen versammelten sich, um zu erinnern. Doch es kam auch zu Protesten. Von F. Boeselager.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-hamas-ueberfall-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T01:35:58+00:00"
   }
  ]
 }
