@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-11T00:14:37+00:00",
+ "updated": "2026-10-11T10:01:43+00:00",
  "items": [
+  {
+   "t": "Neue Pressesprecherin des Weißen Hauses: Nachfolge in schwierigen Zeiten",
+   "s": "Katie Zacharia hat Erfahrung bei den rechten Sendern Fox News und Newsmax. Jetzt soll sie direkt im Weißen Haus für die Trump-Regierung sprechen.",
+   "u": "https://taz.de/Neue-Pressesprecherin-des-Weissen-Hauses/!6220525/",
+   "q": "taz",
+   "d": "2026-10-11T08:13:00+00:00"
+  },
   {
    "t": "Hinrichtung im Livestream: US‑Politiker und UNO fordern Verzicht",
    "s": "Es wäre wohl die erste Militärexekution in den USA seit mehr als 60 Jahren – per Livestream übertragen. Letzteres war wohl nicht Trumps Entscheidung.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Wiederbewaffnung-Pentagon-lobt-Deutschland-vor-US-Kongress/!6217301/",
    "q": "taz",
    "d": "2026-09-29T10:28:00+00:00"
-  },
-  {
-   "t": "Abschied der Toten Hosen in Buenos Aires: „Wir wollen jetzt ‚Adiós‘ sagen, wo wir in Bestform sind“",
-   "s": "Die Toten Hosen kommen im Oktober auf Abschiedstournee nach Argentinien. Wohl keine andere deutsche Band hat so viele Fans im Land am Río de la Plata.",
-   "u": "https://taz.de/Abschied-der-Toten-Hosen-in-Buenos-Aires/!6211083/",
-   "q": "taz",
-   "d": "2026-09-28T11:42:00+00:00"
   }
  ]
 }

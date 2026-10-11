@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-11T00:14:34+00:00",
+ "updated": "2026-10-11T10:01:40+00:00",
  "items": [
+  {
+   "t": "Nostalgie und Nachhaltigkeit: Ein zweites Leben für die Vespa",
+   "s": "Zu laut, zu schmutzig: Italien verbannt alte Motorroller zunehmend aus den Innenstädten. Was tun, wenn die Vespa zum Garagenhüter wird? Dank Umbau-Kits werden die geliebten Originale zum E-Roller. Von Greta Prünster.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/vespa-e-roller-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-11T03:55:19+00:00"
+  },
   {
    "t": "Wie Start-ups in Deutschland trotz Hürden Erfolg haben können",
    "s": "Ein Berliner KI-Start-up zeigt, wie deutsche Gründer es auf die Weltbühne schaffen. Doch viele aufstrebende Unternehmen werden in ihrem Potenzial immer noch ausgebremst. Dabei gebe es viel Talent, sagt ein Gründer. Von A. Kartschall.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mutterschutz-selbststaendige-110.html",
    "q": "Tagesschau",
    "d": "2026-10-07T07:03:20+00:00"
-  },
-  {
-   "t": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
-   "s": "Europas Wirtschaft leidet unter Exporten aus China. Kurz vor dem Besuch des EU-Handelskommissars in Peking fordern die Regierungen in Berlin und Paris nun neue Instrumente gegenüber China. Damit sind die Erwartungen gesetzt. Von Sarah López.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T17:43:36+00:00"
   }
  ]
 }
