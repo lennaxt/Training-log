@@ -1,7 +1,147 @@
 {
  "name": "Inland",
- "updated": "2026-10-11T10:01:38+00:00",
+ "updated": "2026-10-11T19:34:02+00:00",
  "items": [
+  {
+   "t": "\"Die Stromsteuer muss für alle gesenkt werden\"",
+   "s": "Die CDU will raus aus der Krise und wieder näher an die Lebenswirklichkeit der Menschen. Als konkrete Maßnahme schlägt der rheinland-pfälzische Regierungschef Schnieder im ARD-Bericht aus Berlin vor, die Stromsteuer für alle zu senken.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-11T18:05:00+00:00"
+  },
+  {
+   "t": "US-Sanktionen gegen IStGH: Die Richter und ihr Henker",
+   "s": "Die Trump-Regierung greift den Internationalen Strafgerichtshof in Den Haag mit Sanktionen an. Wie sich das anfühlt, weiß Richterin Kimberly Prost.",
+   "u": "https://taz.de/US-Sanktionen-gegen-IStGH/!6220564/",
+   "q": "taz",
+   "d": "2026-10-11T17:48:00+00:00"
+  },
+  {
+   "t": "Trump und die Midterms: Schnell noch mal rund um sich schlagen",
+   "s": "Der US-Präsident wird zusehends nervös und er hat gute Gründe dafür. Weder für sein Umfeld noch für den Rest der Welt verheißt das Gutes.",
+   "u": "https://taz.de/Trump-und-die-Midterms/!6216808/",
+   "q": "taz",
+   "d": "2026-10-11T17:47:00+00:00"
+  },
+  {
+   "t": "Nach Trumps Diesel-Deal mit Putin: Rückhalt für Selenskyj",
+   "s": "Der ukrainische Präsident nennt Trumps Diesel-Abkommen „Investition in den Krieg“. Der ging mit einem heftigen Angriff auf Saporischschja weiter.",
+   "u": "https://taz.de/Nach-Trumps-Diesel-Deal-mit-Putin/!6220585/",
+   "q": "taz",
+   "d": "2026-10-11T17:46:00+00:00"
+  },
+  {
+   "t": "Huthi-Angriff auf Flughafen in Riad: Spiel mit dem Feuer",
+   "s": "Es wird immer schwerer, diesen Krieg zu begrenzen. Damit steigt Gefahr, dass die Lage auf der arabischen Halbinsel außer Kontrolle gerät.",
+   "u": "https://taz.de/Huthi-Angriff-auf-Flughafen-in-Riad/!6220738/",
+   "q": "taz",
+   "d": "2026-10-11T17:46:00+00:00"
+  },
+  {
+   "t": "CDU-Präsidiumsklausur: Wohin steuert die Union?",
+   "s": "Wahlniederlagen, schleppende Reformvorhaben, bröckelnde Brandmauer: Die CDU diskutiert zwei Tage über den Umgang mit der AfD – und sich selbst.",
+   "u": "https://taz.de/CDU-Praesidiumsklausur/!6220704/",
+   "q": "taz",
+   "d": "2026-10-11T17:45:00+00:00"
+  },
+  {
+   "t": "Schwarz-Rot unter Druck: Wie die Koalition Vertrauen zurückgewinnen will",
+   "s": "Reformstau, schwindende Zustimmung in der Bevölkerung, desaströse Wahlergebnisse - die schwarz-rote Koalition steht unter Druck. Jetzt muss sie unter Beweis stellen, dass sie noch handlungsfähig ist. Von Ilanit Spinner.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-11T17:36:32+00:00"
+  },
+  {
+   "t": "Hessen versucht, den Staat zu verschlanken",
+   "s": "Hessen will weniger Bürokratie. Etliche Regelungen wurden schon vereinfacht. Beim Amt reich oft eine Mail statt eines Formulars. Auch Berichtspflichten für Unternehmen wurden gestrichen. Kann in Hessen gelingen, was vielerorts versprochen wird? (Erstsendung am 15.9.26)Lischka, Gregor",
+   "u": "https://www.deutschlandfunk.de/buerokratieabbau-in-deutschland-wie-hessen-den-staat-verschlanken-will-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-11T16:40:00+00:00"
+  },
+  {
+   "t": "Schröders Putin-Freundschaft: Der unerträgliche Genosse",
+   "s": "Wie soll die SPD von der Linken Distanz zu Clan-Chefs fordern, wenn sie den bekennenden Kumpel eines Kriegsverbrechers in ihren Reihen duldet?",
+   "u": "https://taz.de/Schroeders-Putin-Freundschaft/!6220771/",
+   "q": "taz",
+   "d": "2026-10-11T15:55:00+00:00"
+  },
+  {
+   "t": "US-Sanktionen gegen Strafgerichtshof: Das Weltgericht lahmlegen, aber nicht sofort",
+   "s": "Die US-Regierung setzt dem Internationalen Strafgerichtshof eine Frist von 180 Tagen. Danach will sie ihm „ein Ende setzen“. Wie reagiert die EU?",
+   "u": "https://taz.de/US-Sanktionen-gegen-Strafgerichtshof/!6220566/",
+   "q": "taz",
+   "d": "2026-10-11T15:54:00+00:00"
+  },
+  {
+   "t": "Streit um EU-Haushalt: Kürzungen oder noch mehr Kürzungen?",
+   "s": "Der Streit über den Haushalt und die Zukunft der EU spitzt sich zu – Merz lehnt einen neuen Kompromissvorschlag der irischen Ratspräsidentschaft ab.",
+   "u": "https://taz.de/Streit-um-EU-Haushalt/!6220588/",
+   "q": "taz",
+   "d": "2026-10-11T15:53:00+00:00"
+  },
+  {
+   "t": "Neuer Krieg am Horn von Afrika: Äthiopien wirft Eritrea Einmarsch in Tigray vor",
+   "s": "Eritreische Truppen sollen die Grenze überquert haben, um Rebellen in Tigray zu unterstützen. Äthiopische Truppen sind dort selbst auf dem Vormarsch.",
+   "u": "https://taz.de/Neuer-Krieg-am-Horn-von-Afrika/!6220591/",
+   "q": "taz",
+   "d": "2026-10-11T15:52:00+00:00"
+  },
+  {
+   "t": "Jugendproteste in Indien: Aktivistin Neha Bora gibt trotz Festnahmen nicht auf",
+   "s": "Neha Bora ist die Vorsitzende der linken Studierendenorganisation AISA. Sie ist eine der bekanntesten Stimmen der indischen Jugendproteste.",
+   "u": "https://taz.de/Jugendproteste-in-Indien/!6220590/",
+   "q": "taz",
+   "d": "2026-10-11T14:21:00+00:00"
+  },
+  {
+   "t": "Brandanschlag in Frankfurt am Main: Hilfsgüter für die Ukraine in Flammen",
+   "s": "In Frankfurt am Main verbrannten in der Nacht auf Freitag tonnenweise Hilfsgüter für ukrainische Zivilist*innen. Die Polizei vermutet Brandstiftung.",
+   "u": "https://taz.de/Brandanschlag-in-Frankfurt-am-Main/!6220613/",
+   "q": "taz",
+   "d": "2026-10-11T14:09:00+00:00"
+  },
+  {
+   "t": "Ausländerfeindliche Unruhen in Südafrika: Autos und Geschäfte angezündet",
+   "s": "In Johannesburg und Durban kommt es zu Ausschreitungen bei Protesten gegen Zuwanderung. Fake News über ein Gerichtsurteil waren der Auslöser.",
+   "u": "https://taz.de/Auslaenderfeindliche-Unruhen-in-Suedafrika/!6220575/",
+   "q": "taz",
+   "d": "2026-10-11T14:06:00+00:00"
+  },
+  {
+   "t": "Anschlagspläne in Polen: Hinweise auf Planung eines Angriffs auf Tusk",
+   "s": "In Polen herrscht nach mehreren Angriffen an Schulen erhöhte Wachsamkeit. Nach Angaben des Innenministeriums könnte es über Drohungen hinausgehen.",
+   "u": "https://taz.de/Anschlagsplaene-in-Polen/!6220758/",
+   "q": "taz",
+   "d": "2026-10-11T13:52:00+00:00"
+  },
+  {
+   "t": "Palästinensische Autonomiegebiete: Abbas verschiebt die Wahlen tief ins nächste Jahr",
+   "s": "Eigentlich sollten im November endlich Wahlen in den palästinensischen Autonomiegebieten stattfinden. Die sind jetzt auf September 2027 verschoben.",
+   "u": "https://taz.de/Palaestinensische-Autonomiegebiete/!6220592/",
+   "q": "taz",
+   "d": "2026-10-11T13:05:00+00:00"
+  },
+  {
+   "t": "Flüchtlingskatastrophe am Roten Meer: Mehr als 100 Flüchtlinge vor Dschibuti ertrunken",
+   "s": "Ein Boot mit Menschen aus Äthiopien kentert auf dem Weg nach Jemen. Die Kriege in beiden Ländern eskalieren gleichzeitig, mit dramatischen Folgen.",
+   "u": "https://taz.de/Fluechtlingskatastrophe-am-Roten-Meer/!6220669/",
+   "q": "taz",
+   "d": "2026-10-11T12:36:00+00:00"
+  },
+  {
+   "t": "Senats- und Kommunalwahlen in Tschechien: Denkzettel für Andrej Babiš",
+   "s": "Im ersten Stimmungstest seit der Regierungsübernahme Ende letzten Jahres bleibt Tschechiens Regierungspartei ANO deutlich unter den Erwartungen.",
+   "u": "https://taz.de/Senats--und-Kommunalwahlen-in-Tschechien/!6220544/",
+   "q": "taz",
+   "d": "2026-10-11T11:36:00+00:00"
+  },
+  {
+   "t": "Jemens Rebellen greifen Saudi-Arabien an: Saudi-Arabiens Hauptstadtflughafen stellt nach Beschuss Betrieb ein",
+   "s": "Ein Raketenangriff von Jemens Huthi-Rebellen erzwingt die Schließung des Airports von Riad. Schwere Kämpfe toben in Jemen.",
+   "u": "https://taz.de/Jemens-Rebellen-greifen-Saudi-Arabien-an/!6220561/",
+   "q": "taz",
+   "d": "2026-10-11T10:41:00+00:00"
+  },
   {
    "t": "Gerhard Schröder und die SPD: Partei fordert Rauswurf",
    "s": "Schröder beschädige die Glaubwürdigkeit der Sozialdemokraten, so der Vorwurf. Anlass ist unter anderem der Geburtstagsbesuch bei Kremlchef Putin.",
@@ -17,18 +157,11 @@
    "d": "2026-10-11T08:13:00+00:00"
   },
   {
-   "t": "Diesel-Deal mit Putin: Trumps Wut auf Selenskyj trifft den Falschen",
-   "s": "Der US-Präsident hat sich wieder einmal verzockt, erkennt erst zu spät, dass sein Abkommen mit Moskau kaum taugt, und schlägt dann um sich.",
+   "t": "Trumps Ukraine-Politik: US-Präsident spricht von „Energie-Waffenruhe“",
+   "s": "Trump schließt mit Putin einen Diesel-Deal – und attackiert den ukrainischen Präsidenten hart. Fragezeichen über mögliche „Energie-Waffenruhe“.",
    "u": "https://taz.de/Diesel-Deal-mit-Putin/!6220524/",
    "q": "taz",
    "d": "2026-10-11T07:57:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Nahostkrieg +++: Tote und Verletzte bei Angriff auf Flughafen in Riad",
-   "s": "Die jemenitische Huthi-Miliz hatte den Airport der saudi-arabischen Hauptstadt ‌schon mehrmals attackiert. Bei einem Luftschlag am Sonntagmorgen sind mindestens zwölf Menschen gestorben.",
-   "u": "https://taz.de/-Nachrichten-im-Nahost-Krieg-/!6220528/",
-   "q": "taz",
-   "d": "2026-10-11T07:48:00+00:00"
   },
   {
    "t": "Naher Osten: Beirut, Stadt der offenen Wunden",
@@ -36,139 +169,6 @@
    "u": "https://www.deutschlandfunk.de/beirut-naher-osten-buergerkrieg-wiederaufbau-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-11T07:30:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Trump-Deal empört Ukraine",
-   "s": "Der US-Präsident erlaubt eine Öllieferung aus Russland. Außerdem drängt er auf eine Absetzung Selenskyjs. Die ukrainische Regierung weist diese Forderung zurück und kriegt Unterstützung aus der EU.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6220522/",
-   "q": "taz",
-   "d": "2026-10-11T07:26:00+00:00"
-  },
-  {
-   "t": "Schutzstatus in Deutschland: Asylklagen dauern wieder länger",
-   "s": "In den vergangenen Jahren war die Dauer von Asylklagen zurückgegangen. Inzwischen müssen Schutzsuchende wieder länger auf die Klärung ihres Status warten - die Zeit ist dabei jedoch stark vom Bundesland abhängig.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/migration-asyl-klagen-dauer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T06:21:19+00:00"
-  },
-  {
-   "t": "Seehofer sieht \"Glaubwürdigkeitsverlust\" bei Merz",
-   "s": "Vor der CDU-Klausur hat der ehemalige CSU-Chef Seehofer massive Kritik an Kanzler Merz geübt. Gebrochene Wahlversprechen hätten seiner Glaubwürdigkeit geschadet. Nun seien ein Kurswechsel und weniger Selbstbeschäftigung nötig.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/seehofer-merz-klausur-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T03:50:03+00:00"
-  },
-  {
-   "t": "Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe",
-   "s": "In der CDU ist die Stimmung nach den miserablen Ergebnissen bei den jüngsten Landtagswahlen und sinkenden Umfragewerten schlecht. Heute und morgen kommt das Parteipräsidium zusammen. Von Sabine Henkel.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidiumssitzung-klausur-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T01:27:57+00:00"
-  },
-  {
-   "t": "Berliner Sondierungen sorgen für Ärger in der Koalition",
-   "s": "Rot-Grün-Rot in Berlin wird konkreter - das hat auch Auswirkungen auf die Bundespolitik. Kulturstaatsminister Weimer warnt vor einer Zusammenarbeit mit der Linken. Die SPD sieht Handlungsbedarf an anderer Stelle.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/weimer-kluessendorf-berlin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T01:12:51+00:00"
-  },
-  {
-   "t": "Erbschaftsteuer: Gerechter erben – geht das?",
-   "s": "Das Bundesverfassungsgericht verhandelt über die Erbschaftsteuer. Ist sie mit dem Gleichheitsgrundsatz vereinbar? Die wichtigsten Fragen und Antworten.",
-   "u": "https://taz.de/Erbschaftsteuer/!6216599/",
-   "q": "taz",
-   "d": "2026-10-10T18:11:00+00:00"
-  },
-  {
-   "t": "Demokratie in der Krise: Pistorius ist jetzt Antifa",
-   "s": "Seit Dienstag hält erstmals ein AfD-Politiker in Deutschland ein hohes Staatsamt, vermutlich dank der CDU. Verzweifeln könnte man deshalb – muss man aber nicht!",
-   "u": "https://taz.de/Demokratie-in-der-Krise/!6216607/",
-   "q": "taz",
-   "d": "2026-10-10T18:07:00+00:00"
-  },
-  {
-   "t": "1.690 Tage Krieg in der Ukraine: Freiwilligenjob in der Ukraine statt Enkelbetreuung in den USA",
-   "s": "Die amerikanische Rentnerin Barbara hilft regelmäßig als Freiwillige im westukrainischen Lwiw. Sie sieht ihr Engagement als Ehre und schätzt die Erfahrungen.",
-   "u": "https://taz.de/1690-Tage-Krieg-in-der-Ukraine/!6218065/",
-   "q": "taz",
-   "d": "2026-10-10T18:04:00+00:00"
-  },
-  {
-   "t": "CDU diskutiert über Umgang mit der AfD",
-   "s": "Zwei Tage lang will das CDU-Präsidium in Klausur gehen, um über Konsequenzen aus den jüngsten Wahlschlappen zu beraten. Dabei rückt eine Frage immer mehr in den Mittelpunkt: Soll der Umgang mit der AfD neu definiert werden?",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T15:34:39+00:00"
-  },
-  {
-   "t": "Kommentar: Frankreichs Jugend verliert das Vertrauen in die Politik",
-   "s": "Marode Schulgebäude und Unterrichtsausfälle sind nur Auslöser der Schülerproteste in Frankreich. Wo demokratische Institutionen aus Sicht der jungen Generation an Glaubwürdigkeit verlieren, gewinnen extreme Rechte und radikale Linke an Attraktivität.Von Stephan Detjen",
-   "u": "https://www.deutschlandfunk.de/kommentar-schuelerproteste-in-frankreich-wut-der-jungen-generation-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-10T14:38:00+00:00"
-  },
-  {
-   "t": "Weg frei für Koalitionsverhandlungen in Schwerin",
-   "s": "Nach SPD und Linken haben in Mecklenburg-Vorpommern auch die Grünen für Koalitionsverhandlungen zur Bildung einer rot-rot-grünen Landesregierung gestimmt. Die Koalitionsgespräche sollen am Montag beginnen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/mv-koalitionsverhandlungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T14:36:51+00:00"
-  },
-  {
-   "t": "Kolumne Stadtgespräch aus Tel Aviv: Was der gescheiterte Fly-Dubai-Anschlag mit Israelis macht",
-   "s": "Nach dem Vorfall in der Flydubai-Maschine ziehen viele Israelis Parallelen zum Behördenversagen am 7. Oktober. Politiker hingegen machen damit Wahlkampf.",
-   "u": "https://taz.de/Kolumne-Stadtgespraech-aus-Tel-Aviv/!6216570/",
-   "q": "taz",
-   "d": "2026-10-10T14:20:00+00:00"
-  },
-  {
-   "t": "Hinrichtung im Livestream: US‑Politiker und UNO fordern Verzicht",
-   "s": "Es wäre wohl die erste Militärexekution in den USA seit mehr als 60 Jahren – per Livestream übertragen. Letzteres war wohl nicht Trumps Entscheidung.",
-   "u": "https://taz.de/Hinrichtung-im-Livestream/!6220517/",
-   "q": "taz",
-   "d": "2026-10-10T14:13:00+00:00"
-  },
-  {
-   "t": "Kommentar: Vier Stimmen für die AfD normalisieren den Rechtsextremismus",
-   "s": "Die fraktionsübergreifende Wahl von Tobias Rausch zum ersten AfD-Landtagspräsidenten erhöht die Wahrscheinlichkeit, dass ein Ministerpräsident aus den Reihen der AfD gewählt wird. Damit wird der Rechtsextremismus schrittweise normalisiert.Von Daniela Vates",
-   "u": "https://www.deutschlandfunk.de/kommentar-vier-stimmen-mehr-afd-magdeburg-extremismus-wird-normalisiert-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-10T13:23:00+00:00"
-  },
-  {
-   "t": "Streit um Energiereformen: Das Schlimmste verhindern",
-   "s": "Die Bundestagsabgeordnete Nina Scheer verhandelt für die SPD über die umstrittenen Energiereformen von Ministerin Katherina Reiche. Warum viele auf sie hoffen.",
-   "u": "https://taz.de/Streit-um-Energiereformen/!6216526/",
-   "q": "taz",
-   "d": "2026-10-10T12:37:00+00:00"
-  },
-  {
-   "t": "Schulproteste in Frankreich: Auf den Barrikaden",
-   "s": "Die Proteste einer schnell wachsenden Be­we­gung von Schü­le­r*in­nen erschüttern ganz Frankreich. Polizei und Regierung heizen die Wut weiter an.",
-   "u": "https://taz.de/Schulproteste-in-Frankreich/!6216569/",
-   "q": "taz",
-   "d": "2026-10-10T11:12:00+00:00"
-  },
-  {
-   "t": "Trumps Diesel-Deal mit Putin – „Das ist ein Verrat“",
-   "s": "US-Präsident Trump hat einen Deal mit Russland verkündet: 300.000 Tonnen Diesel sollen in die USA und den Weltmarkt fließen, um die Spritpreise zu senken. Grünen-Europapolitiker Lagodinsky kritisiert das Vorgehen – und fordert härtere EU-Sanktionen.Kaess, Christiane",
-   "u": "https://www.deutschlandfunk.de/trumps-diesel-deal-interview-m-europaparlamentarier-sergey-lagodinsky-gruene-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-10T10:15:05+00:00"
-  },
-  {
-   "t": "Nach Schuss auf Migrant in New York: Mamdani will ICE abschaffen",
-   "s": "Zohran Mamdani, Bürgermeister von NYC, kritisierte den Einsatz von ICE‑Agenten. Am Donnerstagabend schossen sie auf einen Mann, sein fünfjähriger Sohn saß daneben.",
-   "u": "https://taz.de/Nach-Schuss-auf-Migrant-in-New-York/!6220512/",
-   "q": "taz",
-   "d": "2026-10-10T09:37:00+00:00"
-  },
-  {
-   "t": "Wehrpflicht - Wie läuft es mit der Gleichberechtigung in Norwegens Kasernen?",
-   "s": "Seit 2015 gilt in Norwegen die Wehrpflicht für alle. Eine Karriere im Militär streben aber nur wenige der Rekrutinnen an. Frauen machen ein Drittel der Streitkräfte aus, doch Genderklischees und sexuelle Gewalt verschwinden nicht automatisch. (Erstsendung: 14.03.2026)Köhne, Gunnar",
-   "u": "https://www.deutschlandfunk.de/norwegen-gleichberechtigung-in-der-kaserne-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-10T09:05:00+00:00"
   }
  ]
 }

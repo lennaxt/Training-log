@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-10-11T10:01:43+00:00",
+ "updated": "2026-10-11T19:34:06+00:00",
  "items": [
+  {
+   "t": "Trump und die Midterms: Schnell noch mal rund um sich schlagen",
+   "s": "Der US-Präsident wird zusehends nervös und er hat gute Gründe dafür. Weder für sein Umfeld noch für den Rest der Welt verheißt das Gutes.",
+   "u": "https://taz.de/Trump-und-die-Midterms/!6216808/",
+   "q": "taz",
+   "d": "2026-10-11T17:47:00+00:00"
+  },
+  {
+   "t": "Todesstrafe in den USA: Staat und Spektakel",
+   "s": "Der fehlgeschlagene Versuch, die Mörderin Christa Pike hinzurichten, zeigt die ganze Grausamkeit der Todesstrafe. Wir dürfen uns nicht damit abfinden.",
+   "u": "https://taz.de/Todesstrafe-in-den-USA/!6220559/",
+   "q": "taz",
+   "d": "2026-10-11T11:43:00+00:00"
+  },
   {
    "t": "Neue Pressesprecherin des Weißen Hauses: Nachfolge in schwierigen Zeiten",
    "s": "Katie Zacharia hat Erfahrung bei den rechten Sendern Fox News und Newsmax. Jetzt soll sie direkt im Weißen Haus für die Trump-Regierung sprechen.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Todesstrafe-in-den-USA/!6217574/",
    "q": "taz",
    "d": "2026-09-30T15:47:00+00:00"
-  },
-  {
-   "t": "Nach Kritik an Israel: Mamdani stellt Plan gegen Antisemitismus in New York vor",
-   "s": "Der Plan des New Yorker Bürgermeisters sieht zusätzliche Mittel für die Sicherheit von Synagogen vor. Den israelischen Konsul überzeugt das nicht.",
-   "u": "https://taz.de/Nach-Kritik-an-Israel/!6217597/",
-   "q": "taz",
-   "d": "2026-09-30T08:13:00+00:00"
-  },
-  {
-   "t": "Erhöhung der Rüstungsausgaben: Pentagon lobt Deutschland vor US-Kongress",
-   "s": "Ein ranghoher Vertreter des Pentagons lobt die Bundesrepublik. Deutschland sei von einer Demilitarisierung zur schnellen Wiederbewaffnung übergegangen.",
-   "u": "https://taz.de/Wiederbewaffnung-Pentagon-lobt-Deutschland-vor-US-Kongress/!6217301/",
-   "q": "taz",
-   "d": "2026-09-29T10:28:00+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-10-11T10:01:44+00:00",
+ "updated": "2026-10-11T19:34:06+00:00",
  "items": [
+  {
+   "t": "Jugendproteste in Indien: Aktivistin Neha Bora gibt trotz Festnahmen nicht auf",
+   "s": "Neha Bora ist die Vorsitzende der linken Studierendenorganisation AISA. Sie ist eine der bekanntesten Stimmen der indischen Jugendproteste.",
+   "u": "https://taz.de/Jugendproteste-in-Indien/!6220590/",
+   "q": "taz",
+   "d": "2026-10-11T14:21:00+00:00"
+  },
   {
    "t": "Neue Sicherheitsarchitektur: Sydney rüstet sich für den nächsten Terroranschlag",
    "s": "In der australischen Metropole patrouillieren künftig schwer bewaffnete Polizisten als Folge des antisemitischen Terroranschlags vom Bondi Beach.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Libanesischer-Ex-Praesident-vor-Gericht/!6213630/",
    "q": "taz",
    "d": "2026-09-16T18:03:00+00:00"
-  },
-  {
-   "t": "Gedenken an Jina Mahsa Amini: Du bleibst eine von uns",
-   "s": "Vor vier Jahren starb Jina Mahsa Amini in einem Gefängnis in Teheran. Sie hatte nichts verbrochen, nur ihr Kopftuch nicht „ordnungsgemäß“ getragen.",
-   "u": "https://taz.de/Gedenken-an-Jina-Mahsa-Amini/!6213253/",
-   "q": "taz",
-   "d": "2026-09-16T08:01:00+00:00"
   }
  ]
 }

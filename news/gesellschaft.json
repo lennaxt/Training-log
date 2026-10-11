@@ -1,10 +1,52 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-11T10:01:43+00:00",
+ "updated": "2026-10-11T19:34:05+00:00",
  "items": [
   {
-   "t": "Diesel-Deal mit Putin: Trumps Wut auf Selenskyj trifft den Falschen",
-   "s": "Der US-Präsident hat sich wieder einmal verzockt, erkennt erst zu spät, dass sein Abkommen mit Moskau kaum taugt, und schlägt dann um sich.",
+   "t": "US-Sanktionen gegen IStGH: Die Richter und ihr Henker",
+   "s": "Die Trump-Regierung greift den Internationalen Strafgerichtshof in Den Haag mit Sanktionen an. Wie sich das anfühlt, weiß Richterin Kimberly Prost.",
+   "u": "https://taz.de/US-Sanktionen-gegen-IStGH/!6220564/",
+   "q": "taz",
+   "d": "2026-10-11T17:48:00+00:00"
+  },
+  {
+   "t": "Nach Trumps Diesel-Deal mit Putin: Rückhalt für Selenskyj",
+   "s": "Der ukrainische Präsident nennt Trumps Diesel-Abkommen „Investition in den Krieg“. Der ging mit einem heftigen Angriff auf Saporischschja weiter.",
+   "u": "https://taz.de/Nach-Trumps-Diesel-Deal-mit-Putin/!6220585/",
+   "q": "taz",
+   "d": "2026-10-11T17:46:00+00:00"
+  },
+  {
+   "t": "US-Sanktionen gegen Strafgerichtshof: Das Weltgericht lahmlegen, aber nicht sofort",
+   "s": "Die US-Regierung setzt dem Internationalen Strafgerichtshof eine Frist von 180 Tagen. Danach will sie ihm „ein Ende setzen“. Wie reagiert die EU?",
+   "u": "https://taz.de/US-Sanktionen-gegen-Strafgerichtshof/!6220566/",
+   "q": "taz",
+   "d": "2026-10-11T15:54:00+00:00"
+  },
+  {
+   "t": "Streit um EU-Haushalt: Kürzungen oder noch mehr Kürzungen?",
+   "s": "Der Streit über den Haushalt und die Zukunft der EU spitzt sich zu – Merz lehnt einen neuen Kompromissvorschlag der irischen Ratspräsidentschaft ab.",
+   "u": "https://taz.de/Streit-um-EU-Haushalt/!6220588/",
+   "q": "taz",
+   "d": "2026-10-11T15:53:00+00:00"
+  },
+  {
+   "t": "Anschlagspläne in Polen: Hinweise auf Planung eines Angriffs auf Tusk",
+   "s": "In Polen herrscht nach mehreren Angriffen an Schulen erhöhte Wachsamkeit. Nach Angaben des Innenministeriums könnte es über Drohungen hinausgehen.",
+   "u": "https://taz.de/Anschlagsplaene-in-Polen/!6220758/",
+   "q": "taz",
+   "d": "2026-10-11T13:52:00+00:00"
+  },
+  {
+   "t": "Senats- und Kommunalwahlen in Tschechien: Denkzettel für Andrej Babiš",
+   "s": "Im ersten Stimmungstest seit der Regierungsübernahme Ende letzten Jahres bleibt Tschechiens Regierungspartei ANO deutlich unter den Erwartungen.",
+   "u": "https://taz.de/Senats--und-Kommunalwahlen-in-Tschechien/!6220544/",
+   "q": "taz",
+   "d": "2026-10-11T11:36:00+00:00"
+  },
+  {
+   "t": "Trumps Ukraine-Politik: US-Präsident spricht von „Energie-Waffenruhe“",
+   "s": "Trump schließt mit Putin einen Diesel-Deal – und attackiert den ukrainischen Präsidenten hart. Fragezeichen über mögliche „Energie-Waffenruhe“.",
    "u": "https://taz.de/Diesel-Deal-mit-Putin/!6220524/",
    "q": "taz",
    "d": "2026-10-11T07:57:00+00:00"
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Kosovo-Sondertribunal/!6219682/",
    "q": "taz",
    "d": "2026-10-07T16:23:00+00:00"
-  },
-  {
-   "t": "Wehrdienst in der russischen Armee: Energydrinks gegen die Einberufung",
-   "s": "In Russland müssen auch offensichtlich untaugliche Männer Wehrdienst leisten. Dann werden sie im Angriffskrieg in der Ukraine verheizt.",
-   "u": "https://taz.de/Wehrdienst-in-der-russischen-Armee/!6219625/",
-   "q": "taz",
-   "d": "2026-10-07T15:48:00+00:00"
-  },
-  {
-   "t": "Präsidentschaftswahl in Kosovo: Auf den letzten Drücker",
-   "s": "Kosovos Parlament wählt vor dem Ablauf der Frist mit Justina Shiroka Pula doch noch ein Staatsoberhaupt. Damit werden Neuwahlen abgewendet.",
-   "u": "https://taz.de/Praesidentschaftswahl-in-Kosovo/!6219572/",
-   "q": "taz",
-   "d": "2026-10-07T13:05:00+00:00"
-  },
-  {
-   "t": "Nachwahl in Großbritannien: Labour-Kandidatin aus Somalia ringt mit Grünen-Chef um Sitz",
-   "s": "Der britische Premier Keir Starmer gibt seinen Londoner Wahlkreis auf. Um seine Nachfolge rivalisieren zwei Kandidaten, deren Tonfall sich deutlich unterscheidet.",
-   "u": "https://taz.de/Nachwahl-in-Grossbritannien/!6219606/",
-   "q": "taz",
-   "d": "2026-10-07T12:22:00+00:00"
-  },
-  {
-   "t": "Schülerproteste gehen weiter: Frankreichs Regierung setzt Einsatz von Schockgranaten aus",
-   "s": "Nach schweren Verletzungen bei den jüngsten Schulprotesten in Frankreich bleibt die Lage angespannt. Präsident Macron mahnt zur Mäßigung bei Polizeieinsätzen.",
-   "u": "https://taz.de/Schuelerproteste-gehen-weiter/!6219635/",
-   "q": "taz",
-   "d": "2026-10-07T10:30:00+00:00"
-  },
-  {
-   "t": "Schwedisch-finnisches Manöver: Zu Besuch an der Nato-Nordostflanke",
-   "s": "Schweden und Finnland üben auf See gemeinsam für den Ernstfall. Der Zivilbevölkerung zeigen sie sich gerne. Ein Ortsbesuch.",
-   "u": "https://taz.de/Schwedisch-finnisches-Manoever/!6219349/",
-   "q": "taz",
-   "d": "2026-10-07T09:04:00+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Nach den Lycées die Universitäten",
-   "s": "Die Schülerbewegung treibt die Regierung immer weiter in die Enge, Studierende schließen sich ihr an. Das Vorgehen der Polizei wird kritisiert.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6219351/",
-   "q": "taz",
-   "d": "2026-10-06T16:40:00+00:00"
   }
  ]
 }

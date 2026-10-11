@@ -1,7 +1,35 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-11T10:01:42+00:00",
+ "updated": "2026-10-11T19:34:04+00:00",
  "items": [
+  {
+   "t": "CDU-Präsidiumsklausur: Wohin steuert die Union?",
+   "s": "Wahlniederlagen, schleppende Reformvorhaben, bröckelnde Brandmauer: Die CDU diskutiert zwei Tage über den Umgang mit der AfD – und sich selbst.",
+   "u": "https://taz.de/CDU-Praesidiumsklausur/!6220704/",
+   "q": "taz",
+   "d": "2026-10-11T17:45:00+00:00"
+  },
+  {
+   "t": "Schröders Putin-Freundschaft: Der unerträgliche Genosse",
+   "s": "Wie soll die SPD von der Linken Distanz zu Clan-Chefs fordern, wenn sie den bekennenden Kumpel eines Kriegsverbrechers in ihren Reihen duldet?",
+   "u": "https://taz.de/Schroeders-Putin-Freundschaft/!6220771/",
+   "q": "taz",
+   "d": "2026-10-11T15:55:00+00:00"
+  },
+  {
+   "t": "Brandanschlag in Frankfurt am Main: Hilfsgüter für die Ukraine in Flammen",
+   "s": "In Frankfurt am Main verbrannten in der Nacht auf Freitag tonnenweise Hilfsgüter für ukrainische Zivilist*innen. Die Polizei vermutet Brandstiftung.",
+   "u": "https://taz.de/Brandanschlag-in-Frankfurt-am-Main/!6220613/",
+   "q": "taz",
+   "d": "2026-10-11T14:09:00+00:00"
+  },
+  {
+   "t": "Aufschwung der Populisten: Die Demokratie hat eine Zukunft",
+   "s": "Sie hat es zu gut gemeint, die Anspruchshaltungen angekurbelt und schließlich enttäuscht. Doch es ist nicht die Aufgabe der Demokratie, zu liefern.",
+   "u": "https://taz.de/Aufschwung-der-Populisten/!6218241/",
+   "q": "taz",
+   "d": "2026-10-11T13:36:00+00:00"
+  },
   {
    "t": "Gerhard Schröder und die SPD: Partei fordert Rauswurf",
    "s": "Schröder beschädige die Glaubwürdigkeit der Sozialdemokraten, so der Vorwurf. Anlass ist unter anderem der Geburtstagsbesuch bei Kremlchef Putin.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Einigung-von-Rot-Gruen-Rot-in-Berlin/!6220301/",
    "q": "taz",
    "d": "2026-10-09T12:17:00+00:00"
-  },
-  {
-   "t": "Hintergrund noch unklar: Ukraine-Hilfe brennt in Frankfurt am Main",
-   "s": "An einer Frankfurter Schule ist ein Feuer ausgebrochen. Betroffen ist ein Lagerraum der Hilfsinitiative „Frankfurt for Ukraine“.",
-   "u": "https://taz.de/Hintergrund-noch-unklar/!6220283/",
-   "q": "taz",
-   "d": "2026-10-09T11:36:00+00:00"
-  },
-  {
-   "t": "Gedenken an Anschlag in Halle: Menschenkette blockiert AfD-Mann Tillschneider",
-   "s": "Jüdische Studierende haben sich dem neuen Landtagsvizepräsidenten Hans-Thomas Tillschneider in den Weg gestellt. Der rechtsextreme AfD-Vordenker war beim Gedenken an den rechtsextremistischen Anschlag aufgetaucht.",
-   "u": "https://taz.de/Gedenken-an-Anschlag-in-Halle/!6220279/",
-   "q": "taz",
-   "d": "2026-10-09T11:09:00+00:00"
-  },
-  {
-   "t": "Niedersächsischer SPD-Politiker Politze: Rücktritt nach Aufhebung der Immunität",
-   "s": "SPD-Fraktionschef Stefan Politze tritt zurück. Auch gegen den Chef der SPD Hannover, Adis Ahmetovic, ermittelt mittlerweile die Staatsanwaltschaft.",
-   "u": "https://taz.de/Niedersaechsischer-SPD-Politiker-Politze/!6220266/",
-   "q": "taz",
-   "d": "2026-10-09T09:59:00+00:00"
-  },
-  {
-   "t": "Gedenken an Anschlag von Halle: Wo die Solidarität schwindet",
-   "s": "Beim Gedenken in Halle thematisieren Überlebende des Anschlags ihre Ängste. Es geht um die Wahl in Sachsen-Anhalt, den 7. Oktober und fehlenden Zusammenhalt.",
-   "u": "https://taz.de/Gedenken-an-Anschlag-von-Halle/!6220224/",
-   "q": "taz",
-   "d": "2026-10-09T08:30:00+00:00"
   }
  ]
 }

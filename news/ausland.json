@@ -1,7 +1,63 @@
 {
  "name": "Ausland",
- "updated": "2026-10-11T10:01:39+00:00",
+ "updated": "2026-10-11T19:34:02+00:00",
  "items": [
+  {
+   "t": "Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation",
+   "s": "Nach dem schweren Angriff auf den Flughafen von Riad droht die Huthi-Miliz mit einer weiteren Eskalation. Saudi-Arabien fühlt sich vom Partner USA im Stich gelassen und sucht neue Verbündete. Von Anna Osius.",
+   "u": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-11T17:50:11+00:00"
+  },
+  {
+   "t": "Trump meldet \"Energie-Waffenruhe\" zwischen Russland und Ukraine",
+   "s": "Laut US-Präsident Trump gibt es eine \"Energie-Waffenruhe\" zwischen Russland und der Ukraine. Sie trete mit sofortiger Wirkung in Kraft, erklärte er auf seiner Plattform Truth Social. Eine Bestätigung aus Kiew oder Moskau liegt bislang nicht vor.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-11T17:31:38+00:00"
+  },
+  {
+   "t": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
+   "s": "Noch ist vieles im Unklaren, aber die Sorge scheint groß. Offenbar hat die polnische Polizei konkrete Hinweise auf Anschlagspläne auf Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz. Ein Mann wurde festgenommen.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-11T15:37:39+00:00"
+  },
+  {
+   "t": "Auf der Flucht: Viele Tote bei Schiffsunglück vor Dschibuti",
+   "s": "Vor der Küste Dschibutis hat sich ein schweres Unglück ereignet. Mehr als hundert Menschen kamen ums Leben. Ebenso viele werden noch vermisst. Sie hatten sich ein besseres Leben auf der arabischen Halbinsel erhofft.",
+   "u": "https://www.tagesschau.de/ausland/afrika/schiffsungueck-dschibuti-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-11T14:32:56+00:00"
+  },
+  {
+   "t": "Selenskyj will Angriffe auf russische Raffinerien fortsetzen",
+   "s": "Nach Trumps Drohungen gegen den ukrainischen Präsidenten hat Selenskyj nun reagiert - und angekündigt, die Angriffe auf russische Ölraffinerien fortzusetzen. Ein Ende sei nur möglich, wenn auch Russland seine Attacken einstelle.",
+   "u": "https://www.tagesschau.de/ausland/europa/trump-selenskyj-russland-reaktion-raffinerien-angriffe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-11T14:22:07+00:00"
+  },
+  {
+   "t": "Nach Senderboykott: US-Justiz prüft Verstoß gegen Kartellrecht",
+   "s": "Mehrere US-Sender hatten vorübergehend die Berichterstattung über US-Präsident Trump eingestellt, weil er einzelne Medien aus dem Weißen Haus ausgeschlossen hatte. Jetzt prüft das Justizministerium rechtliche Schritte gegen sie.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-medien-us-sender-cnn-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-11T11:23:58+00:00"
+  },
+  {
+   "t": "Angriff auf Yandex: Ukraine legt \"russisches Google\" lahm",
+   "s": "Zum dritten Mal innerhalb von vier Tagen ist der russische Technologie- und KI-Konzern Yandex Ziel eines ukrainischen Drohnenangriffs geworden. Das Rechenzentrum in der Region Wladimir musste vollständig abgeschaltet werden.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-yandex-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-11T10:53:06+00:00"
+  },
+  {
+   "t": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
+   "s": "Ein Einschlag mitten im Terminal: Der jüngste Raketenangriff am Flughafen Riad ist der schwerste auf Saudi-Arabien seit Beginn des Iran-Kriegs. Augenzeugen berichten von Panik und vielen Opfern. Greifen jetzt die USA ein? Von Anna Osius.",
+   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-11T10:39:51+00:00"
+  },
   {
    "t": "Todeskandidatin Pike nach gescheiterter Hinrichtung wieder im Gefängnis",
    "s": "Die US-Todeskandidatin Pike hat rund anderthalb Wochen nach ihrer gescheiterten Hinrichtung das Krankenhaus verlassen. Sie ist mittlerweile in das Gefängnis zurückgekehrt, in dem sie seit mehr als 30 Jahren inhaftiert ist.",
@@ -113,62 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/serbien-wahl-studenten-100.html",
    "q": "Tagesschau",
    "d": "2026-10-10T05:44:11+00:00"
-  },
-  {
-   "t": "Auch Republikaner über geplante Live-Hinrichtung entsetzt",
-   "s": "Eine Militärhinrichtung im Livestream: In den USA wird kontrovers über die Ankündigung des Verteidigungsministers diskutiert. Die Rede ist von Methoden wie bei der IS-Miliz. Auch Vizepräsident Vance geht auf Distanz. Von Nina Barth.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-todesstrafe-106.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T03:56:30+00:00"
-  },
-  {
-   "t": "Trump kündigt russische Diesellieferungen an",
-   "s": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T02:43:04+00:00"
-  },
-  {
-   "t": "China sagt EU weniger Exporte von Hybridautos zu",
-   "s": "Der Konkurrenzdruck aus China macht insbesondere deutschen Autobauern zu schaffen. Die EU will daher erreichen, dass Peking in Europa weniger Hybridautos verkauft - nun verkünden beide Seiten einen Kompromiss.",
-   "u": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T22:54:50+00:00"
-  },
-  {
-   "t": "Flydubai-Co-Pilot plante laut Ermittlern Selbstmordanschlag",
-   "s": "Zum vereitelten Absturz des Flydubai-Flugzeugs Ende September sind weitere Details bekannt geworden. Der Co-Pilot hatte nach Angaben der Ermittler geplant, die Maschine in ein israelisches Flughafenterminal zu steuern.",
-   "u": "https://www.tagesschau.de/ausland/flydubai-flugzeug-selbstmordanschlag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T19:12:19+00:00"
-  },
-  {
-   "t": "Nobelpreisträgerin Pillay: Unerschrockene Kämpferin für das Recht",
-   "s": "Navanethem Pillay ist während der Apartheid in Südafrika aufgewachsen. Ihr Leben widmete die Juristin später dem Kampf gegen Gewalt und Unrecht. Nun ist sie für ihr Engagement mit dem Friedensnobelpreis ausgezeichnet worden. Von S. Ueberbach.",
-   "u": "https://www.tagesschau.de/ausland/afrika/nobelpreis-pillay-portrait-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T18:06:06+00:00"
-  },
-  {
-   "t": "Verhandlungen in den USA während massiver Angriffe in der Ukraine",
-   "s": "Unterhändler aus der Ukraine und den USA treffen sich zu Gesprächen über den Krieg. Die vergangenen Tage in der Ukraine waren geprägt von massiven russischen Angriffen mit vielen Toten. Außenminister Wadephul verschärft seinen Ton gegenüber Putin.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T07:57:06+00:00"
-  },
-  {
-   "t": "Arbeiten für die ukrainische Bahn - in ständiger Gefahr",
-   "s": "Für die ukrainische Eisenbahn sind Fahrten ein gefährlicher Spießrutenlauf: Es gilt, den Zug sicher ans Ziel zu bringen - trotz Drohnen- und Raketenangriffen. Wie geht es den Mitarbeitenden der Bahn dabei? Von Marc Dugge.",
-   "u": "https://www.tagesschau.de/ausland/ukraine-eisenbahn-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T07:00:09+00:00"
-  },
-  {
-   "t": "KI-Firmen müssen sich nach KI-Angriff in Australien erklären",
-   "s": "KI-Firmen wie OpenAI und Anthropic haben großes Interesse an Australien, etwa um Rechenzentren zu bauen. Doch ein Übergriff eines KI-Agenten auf ein Regierungsportal wirft Fragen auf. Die Regierung will Gesetze verschärfen. Von J. Johnston.",
-   "u": "https://www.tagesschau.de/ausland/ozeanien/ki-anhoerung-australien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T06:59:55+00:00"
   }
  ]
 }
