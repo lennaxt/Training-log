@@ -1,10 +1,24 @@
 {
  "name": "Ausland",
- "updated": "2026-10-10T19:17:13+00:00",
+ "updated": "2026-10-11T00:14:33+00:00",
  "items": [
   {
+   "t": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
+   "s": "Etwa 40 Millionen Passagiere nutzen den Flughafen in der saudischen Hauptstadt Riad jedes Jahr. Zuletzt wurde er mehrfach angegriffen. Nun gab es wieder eine Attacke - mindestens zwölf Menschen starben. Diplomaten vermuten die Huthi-Miliz hinter dem Angriff.",
+   "u": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T23:56:54+00:00"
+  },
+  {
+   "t": "Mehrere Tote und etliche ohne Strom durch Sturm \"Isaias\"",
+   "s": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Inzwischen hat sich der Sturm aber deutlich abgeschwächt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-10T20:44:04+00:00"
+  },
+  {
    "t": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
-   "s": "Gestern hatte US-Präsident Trump einen Dieseldeal mit Russland angekündigt. Die Ukraine reagierte empört, nun fordert Trump eine Ablösung des ukrainischen Staatschefs Selenskyj. Er habe die Schuld an den hohen Energiepreisen.",
+   "s": "Am Freitag hatte US-Präsident Trump einen Dieseldeal mit Russland angekündigt. Die Ukraine reagierte empört, nun fordert Trump eine Ablösung des ukrainischen Staatschefs Selenskyj. Er habe die Schuld an den hohen Energiepreisen.",
    "u": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
    "q": "Tagesschau",
    "d": "2026-10-10T18:26:35+00:00"
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html",
    "q": "Tagesschau",
    "d": "2026-10-08T22:08:21+00:00"
-  },
-  {
-   "t": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
-   "s": "Bei russischen Angriffen auf zwei Busse in der Ostukraine sind mindestens 30 Menschen getötet worden, weitere 18 wurden verletzt. Nach Angriffen auf Kiew und andere Städte musste der Strom dort abgeschaltet werden.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T19:16:45+00:00"
-  },
-  {
-   "t": "Huthi greifen erneut Ziele in Saudi-Arabien an - auch Gegenangriffe gemeldet",
-   "s": "Die gegenseitigen Angriffe von Saudi-Arabien und der jemenitischen Huthi-Miliz halten an. Nach Attacken auf saudi-arabische Flughäfen meldet Riad die Zerstörung von Dutzenden militärischen Objekten der Huthi im Jemen.",
-   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-huthi-angriffe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T15:35:30+00:00"
   }
  ]
 }
