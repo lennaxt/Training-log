@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-10-11T19:34:02+00:00",
+ "updated": "2026-10-12T00:33:21+00:00",
  "items": [
+  {
+   "t": "Huthis greifen erneut Flughäfen in Saudi-Arabien an",
+   "s": "Die Huthi-Miliz hat ihre Attacken auf saudische Flughäfen fortgesetzt. Die Luftfahrtbehörde meldete mehrere Verletzte nach einem neuen Angriff auf den Flughafen King Khalid - mindestens ein Mensch wurde getötet.",
+   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthis-flughafen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-12T00:20:21+00:00"
+  },
+  {
+   "t": "Russland greift trotz angeblicher \"Energie-Waffenruhe\" weiter Anlagen an",
+   "s": "Russland hat erneut Energieanlagen angegriffen. Die Attacken erfolgten nach der Verkündung einer \"Energie-Waffenruhe\" zwischen Kiew und Moskau durch US-Präsident Trump - die bislang von beiden Seiten nicht bestätigt wurde.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-11T20:11:44+00:00"
+  },
+  {
+   "t": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
+   "s": "Noch ist vieles im Unklaren, aber die Sorge scheint groß. Offenbar hat die polnische Polizei konkrete Hinweise auf Anschlagspläne auf Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz. Ein Mann wurde festgenommen.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-11T20:11:03+00:00"
+  },
   {
    "t": "Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation",
    "s": "Nach dem schweren Angriff auf den Flughafen von Riad droht die Huthi-Miliz mit einer weiteren Eskalation. Saudi-Arabien fühlt sich vom Partner USA im Stich gelassen und sucht neue Verbündete. Von Anna Osius.",
@@ -15,13 +36,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
    "q": "Tagesschau",
    "d": "2026-10-11T17:31:38+00:00"
-  },
-  {
-   "t": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
-   "s": "Noch ist vieles im Unklaren, aber die Sorge scheint groß. Offenbar hat die polnische Polizei konkrete Hinweise auf Anschlagspläne auf Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz. Ein Mann wurde festgenommen.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T15:37:39+00:00"
   },
   {
    "t": "Auf der Flucht: Viele Tote bei Schiffsunglück vor Dschibuti",
@@ -150,25 +164,11 @@
    "d": "2026-10-10T11:08:42+00:00"
   },
   {
-   "t": "Schweres Erdbeben erschüttert Panama",
-   "s": "In Panama hat es ein schweres Erdbeben der Stärke 7,7 gegeben. In Panama-Stadt schwankten Gebäude, Menschen verließen die Häuser. Dutzende Nachbeben folgten. Nach Angaben der Behörden gab es mehrere Verletzte.",
-   "u": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T09:34:50+00:00"
-  },
-  {
    "t": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
    "s": "Ein Jahr nach der Waffenruhe im Gazastreifen leben viele Menschen weiter in Not, Hilfsorganisationen sichern ihr Überleben. Von der internationalen Politik fühlen sich die Menschen vergessen. Von Felicitas Boeselager.",
    "u": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html",
    "q": "Tagesschau",
    "d": "2026-10-10T07:37:37+00:00"
-  },
-  {
-   "t": "Wahlkampf per Fahrrad: Können Serbiens Studenten Vucic besiegen?",
-   "s": "Vor zwei Jahren begannen die Studentenproteste gegen Serbiens Regierung unter Vucic - und für Neuwahlen. Jetzt, da es Ende des Monats tatsächlich Wahlen geben wird, haben die Studierenden eine echte Chance. Von A. Herz.",
-   "u": "https://www.tagesschau.de/ausland/europa/serbien-wahl-studenten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T05:44:11+00:00"
   }
  ]
 }
