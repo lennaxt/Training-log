@@ -1,20 +1,41 @@
 {
  "name": "Ausland",
- "updated": "2026-10-12T00:33:21+00:00",
+ "updated": "2026-10-12T10:51:56+00:00",
  "items": [
   {
-   "t": "Huthis greifen erneut Flughäfen in Saudi-Arabien an",
-   "s": "Die Huthi-Miliz hat ihre Attacken auf saudische Flughäfen fortgesetzt. Die Luftfahrtbehörde meldete mehrere Verletzte nach einem neuen Angriff auf den Flughafen King Khalid - mindestens ein Mensch wurde getötet.",
+   "t": "EU-Außenminister beschließen größte Sanktionsrunde gegen Russland",
+   "s": "Es geht um mehr als 1.600 Personen und Organisationen: Die EU-Außenminister haben neue Sanktionen wegen des russischen Angriffskrieges gegen die Ukraine beschlossen. Deutliche Kritik gibt es am Vorgehen der USA. Von Tina Hassel.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-aussenministertreffen-120.html",
+   "q": "Tagesschau",
+   "d": "2026-10-12T08:33:32+00:00"
+  },
+  {
+   "t": "Huthi-Miliz greift erneut Flughäfen in Saudi-Arabien an",
+   "s": "Es ist eine gefährliche Eskalation im Nahen Osten: Die Huthi-Miliz aus dem Jemen greift weiter Saudi-Arabien an. Neben dem Flughafen in Riad wurden auch wieder Energieanlagen getroffen. Nun bietet Iran Vermittlungsgespräche an.",
    "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthis-flughafen-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-12T00:20:21+00:00"
+   "d": "2026-10-12T08:00:56+00:00"
   },
   {
    "t": "Russland greift trotz angeblicher \"Energie-Waffenruhe\" weiter Anlagen an",
    "s": "Russland hat erneut Energieanlagen angegriffen. Die Attacken erfolgten nach der Verkündung einer \"Energie-Waffenruhe\" zwischen Kiew und Moskau durch US-Präsident Trump - die bislang von beiden Seiten nicht bestätigt wurde.",
    "u": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
    "q": "Tagesschau",
-   "d": "2026-10-11T20:11:44+00:00"
+   "d": "2026-10-12T06:38:55+00:00"
+  },
+  {
+   "t": "US-Senatoren kritisieren Trumps Diesel-Pläne als rechtswidrig",
+   "s": "Der von Präsident Trump angekündigte Import von russischem Diesel in die USA hat weltweit für harsche Kritik gesorgt. Auch im US-Kongress regt sich zunehmend Widerstand - nicht nur auf Seiten der Demokraten.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kritik-diesellieferung-russland-trump-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-12T05:40:02+00:00"
+  },
+  {
+   "t": "Nordkorea feuert offenbar erneut ballistische Raketen ab",
+   "s": "Die Spannungen auf der koreanischen Halbinsel haben in jüngster Zeit wieder zugenommen. Nun führte Nordkorea laut Angaben aus Südkorea und Japan erneut einen Raketentest durch. Die Geschosse landeten im Meer.",
+   "u": "https://www.tagesschau.de/ausland/asien/suedkorea-nordkorea-raketen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-12T04:39:12+00:00"
   },
   {
    "t": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
@@ -24,7 +45,7 @@
    "d": "2026-10-11T20:11:03+00:00"
   },
   {
-   "t": "Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation",
+   "t": "Angriffe auf Saudi-Arabien: Huthi drohen mit weiterer Eskalation",
    "s": "Nach dem schweren Angriff auf den Flughafen von Riad droht die Huthi-Miliz mit einer weiteren Eskalation. Saudi-Arabien fühlt sich vom Partner USA im Stich gelassen und sucht neue Verbündete. Von Anna Osius.",
    "u": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
    "q": "Tagesschau",
@@ -66,7 +87,7 @@
    "d": "2026-10-11T10:53:06+00:00"
   },
   {
-   "t": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
+   "t": "Huthi-Angriff auf Flughafen Riad: Albtraum am Abflug-Gate",
    "s": "Ein Einschlag mitten im Terminal: Der jüngste Raketenangriff am Flughafen Riad ist der schwerste auf Saudi-Arabien seit Beginn des Iran-Kriegs. Augenzeugen berichten von Panik und vielen Opfern. Greifen jetzt die USA ein? Von Anna Osius.",
    "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html",
    "q": "Tagesschau",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/taiwan-nationalfeiertag-104.html",
    "q": "Tagesschau",
    "d": "2026-10-10T14:22:48+00:00"
-  },
-  {
-   "t": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
-   "s": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Inzwischen hat sich der Sturm aber deutlich abgeschwächt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T12:44:57+00:00"
-  },
-  {
-   "t": "Gründer der indischen \"Kakerlaken\"-Bewegung festgenommen",
-   "s": "In Indien sind Tausende, meist jugendliche Anhänger der \"Kakerlaken\"-Bewegung festgenommen worden. Im ganzen Land gab es Proteste gegen die Wahlkommission. Bereits im Vorfeld war der Gründer der Bewegung festgesetzt worden.",
-   "u": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T11:08:42+00:00"
-  },
-  {
-   "t": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
-   "s": "Ein Jahr nach der Waffenruhe im Gazastreifen leben viele Menschen weiter in Not, Hilfsorganisationen sichern ihr Überleben. Von der internationalen Politik fühlen sich die Menschen vergessen. Von Felicitas Boeselager.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T07:37:37+00:00"
   }
  ]
 }

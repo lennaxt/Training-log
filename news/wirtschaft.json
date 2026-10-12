@@ -1,7 +1,49 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-12T00:33:22+00:00",
+ "updated": "2026-10-12T10:51:57+00:00",
  "items": [
+  {
+   "t": "Nobelpreis für Wirtschaftswissenschaften für US-Ökonomen Hall und Woodford",
+   "s": "Die US-Amerikaner Hall und Woodford werden mit dem Wirtschaftspreis in Gedenken an Alfred Nobel ausgezeichnet. Sie werden für ihre Arbeit zur Stabilisierung der Wirtschaft geehrt, erklärte die Königlich-Schwedische Akademie der Wissenschaften.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nobelpreis-wirtschaft-146.html",
+   "q": "Tagesschau",
+   "d": "2026-10-12T10:28:28+00:00"
+  },
+  {
+   "t": "Briefporto 2027: Standardbrief könnte 1,14 Euro kosten",
+   "s": "Ein Brief für mehr als einen Euro? Das könnte bald Realität werden. Die Post soll laut der Bundesnetzagentur ihre Preise kräftig erhöhen dürfen, auch für Pakete. Was dahintersteckt und wie teuer es werden könnte.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-post-preisanpassung-entwurf-bundesnetzagentur-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-12T09:54:11+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX-Erholung setzt sich fort",
+   "s": "Der DAX legt zum Wochenstart weiter zu und knüpft an die Erholung vom Freitag an. Der Aufschwung ist aber wacklig, denn hohe Ölpreise und Anleiherenditen bleiben weiterhin ein Risiko.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html",
+   "q": "Tagesschau",
+   "d": "2026-10-12T08:55:44+00:00"
+  },
+  {
+   "t": "Was hinter der aktuellen Euro-Schwäche steckt",
+   "s": "Politische Unsicherheiten in Frankreich und Spanien bringen den Euro unter Druck. Dazu kommen Sorgen wegen der hohen Staatsschulden in Europa. Was bedeutet das für Europas Gemeinschaftswährung? Von Claudia Wehrle.",
+   "u": "https://www.tagesschau.de/wirtschaft/devisen-euroschwaeche-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-12T08:17:50+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 12.10.2026",
+   "s": "Update Wirtschaft vom 12.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1664688.html",
+   "q": "Tagesschau",
+   "d": "2026-10-12T07:52:59+00:00"
+  },
+  {
+   "t": "Erbschaftsteuer beim Bundesverfassungsgericht auf dem Prüfstand",
+   "s": "Am Bundesverfassungsgericht geht es diese Woche gleich zwei Mal um die Erbschaftsteuer: Karlsruhe verhandelt unter anderem darüber, ob Unternehmenserben zu wenig Steuern zahlen. Von A. Stein und A. Lagmöller.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/erbschaftssteuer-bundesverfassungsgericht-verhandlung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-12T03:01:19+00:00"
+  },
   {
    "t": "Warnsystem gegen Deepfakes: Tom Cruise in der Teams-Schalte",
    "s": "Videokonferenzen sind in Unternehmen längst Alltag. Doch in Zeiten von KI und Deepfakes geraten sie zunehmend in den Fokus von Cyberkriminellen. Forschende haben nun ein Warnsystem entwickelt. Von Stefan Venator.",
@@ -45,13 +87,6 @@
    "d": "2026-10-10T06:32:43+00:00"
   },
   {
-   "t": "Anthropic-KI stellt Visaanträge bei US-Außenministerium",
-   "s": "Erneut hat das US-Techunternehmen Anthropic gemeldet, dass eines seiner KI-Modelle eigenmächtig gehandelt hat. Die KI erstellte eigenständig Visaanträge und gab der Polizei einen falschen Tipp. Von Gabi Biesinger.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-ki-104.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T05:48:52+00:00"
-  },
-  {
    "t": "Trump kündigt russische Diesellieferungen an",
    "s": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
    "u": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
@@ -73,53 +108,11 @@
    "d": "2026-10-09T18:24:19+00:00"
   },
   {
-   "t": "Marktbericht: Ölpreis sinkt - DAX steigt über 25.000 Punkte",
-   "s": "Ende einer turbulenten Woche: Der DAX profitierte von einer Beruhigung am Ölmarkt und stieg wieder über die Marke von 25.000 Punkten. Lange Gesichter gab es aber bei den Telekom-Aktionären.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T16:10:17+00:00"
-  },
-  {
    "t": "Spritpreis-Entlastung: Was bringt der \"Tankrabatt\" den Autofahrern?",
    "s": "Seit einer Woche gibt es den neuen \"Tankrabatt\". Experten zufolge kommt die Entlastung zwar nicht vollständig bei Autofahrern an - aber größtenteils. Und doch hält sich die Begeisterung an den Zapfsäulen in Grenzen. Von T. Denzel.",
    "u": "https://www.tagesschau.de/wirtschaft/energie/tankrabatt-spritpreise-entlastung-autofahrer-100.html",
    "q": "Tagesschau",
    "d": "2026-10-09T13:29:55+00:00"
-  },
-  {
-   "t": "Bahn will bis 2031 weniger wichtige Strecken sanieren bisher geplant",
-   "s": "Die Deutsche Bahn kommt bei ihrer Generalsanierung langsamer voran als gedacht. In den kommenden fünf Jahren sollen erheblich weniger Hauptstrecken saniert werden als bisher geplant.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-saniert-weniger-wichtige-strecken-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T12:34:02+00:00"
-  },
-  {
-   "t": "Umsätze von Shein, Temu und AliExpress brechen in Deutschland ein",
-   "s": "Die Umsätze asiatischer Online-Plattformen wie Shein in Deutschland sind stark zurückgegangen, ihre Marktanteile sind gesunken. Hintergrund ist eine neue Zollgebühr für Warensendungen aus Nicht-EU-Staaten.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/umsatzeinbruch-shein-temu-zoll-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T11:24:13+00:00"
-  },
-  {
-   "t": "Baupreise steigen besonders stark",
-   "s": "In Deutschland fehlen Hunderttausende Wohnungen, hohe Kosten belasten die Bau-Branche. Entspannung ist nicht in Sicht: Zuletzt lag der Anstieg der Baupreise deutlich über der allgemeinen Inflationsrate.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/bauen-teuer-baukosten-bauzinsen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T11:11:04+00:00"
-  },
-  {
-   "t": "Finanzaufsicht verhängt 1,2-Millionen-Euro-Strafe gegen Volkswagen",
-   "s": "Die Finanzaufsicht BaFin hat Volkswagen wegen eines mutmaßlichen Verstoßes gegen Veröffentlichungspflichten mit einer millionenschweren Geldbuße belegt. Es geht um die Regeln zu Insider-Informationen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-millionenstrafe-bafin-veroeffentlichungspflicht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T08:00:22+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 09.10.2026",
-   "s": "Update Wirtschaft vom 09.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1663132.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T07:47:27+00:00"
   },
   {
    "t": "Warum Deutschland bei Betriebsrenten Nachholbedarf hat",
@@ -129,46 +122,53 @@
    "d": "2026-10-09T06:43:59+00:00"
   },
   {
-   "t": "Regierung hebt Wachstumsprognose für 2026 auf 1,3 Prozent an",
-   "s": "Die Bundesregierung erwartet für das laufende Jahr ein Wachstum von 1,3 Prozent. Damit blickt sie deutlich optimistischer auf die wirtschaftliche Entwicklung als noch im Frühjahr, als sie von 0,5 Prozent ausgegangen war.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/wachstumsprognose-regierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T20:01:59+00:00"
+   "t": "Wasser wird wertvoller",
+   "s": "Deutschland hat im Winter zu viel Wasser – und im Sommer immer weniger. Das belastet Umwelt und Wirtschaft. Die Bundesregierung fordert einen “neuen Umgang” mit Wasser. Wer viel verbraucht, soll mehr zahlen.",
+   "u": "https://www.deutschlandfunk.de/wassermangel-deutschland-strategie-bundesregierung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-06T11:45:00+00:00"
   },
   {
-   "t": "Hohe Erwartungen an Besuch von EU-Handelskommissar Sefcovic in Peking",
-   "s": "Die wirtschaftlichen Beziehungen zwischen der EU und China sind angespannt. EU-Handelskommissar Sefcovic wird bei seinen Gesprächen in Peking versuchen, den Handelsstreit beizulegen. Von Eva Lamby-Schmitt.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-china-sefcovic-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T12:50:11+00:00"
+   "t": "CO2-Zertifikate: Wie glaubwürdig ist der freiwillige Klimamarkt?",
+   "s": "Unternehmen nutzen CO2-Zertifikate, um Emissionen auszugleichen. Doch bei vielen Projekten ist unklar, wie groß die Klimawirkung wirklich ist, wohin das Geld fließt und welche Folgen sie für Landrechte und Menschen vor Ort haben.",
+   "u": "https://www.deutschlandfunk.de/klimaschutz-co2-zertifikate-emissionen-kompensation-greenwashing-kritik-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-05T10:39:00+00:00"
   },
   {
-   "t": "Commerzbank-Übernahme: Was auf Beschäftigte und Mittelstand zukommt",
-   "s": "Die italienische Großbank UniCredit steht vor der Übernahme der Commerzbank. Jetzt beginnt die entscheidende Phase - mit gravierenden Folgen für Mitarbeiter und Firmenkunden. Von Steffen Clement.",
-   "u": "https://www.tagesschau.de/wirtschaft/commerzbank-uebernahme-mitarbeiter-kunden-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T06:57:16+00:00"
+   "t": "Kommentar: Politische Kälte auf dem spanischen Wohnungsmarkt",
+   "s": "Das spanische Parlament hat geplante, recht milde Mieterschutzregeln abgelehnt. Das Nein offenbart politische Kälte gegenüber einem der größten Probleme des Landes. Für Ministerpräsident Pedro Sánchez wird das zur Bewährungsprobe.Von Hans-Günter Kellner",
+   "u": "https://www.deutschlandfunk.de/kommentar-spanien-proteste-mieten-wohnen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-05T08:29:00+00:00"
   },
   {
-   "t": "Europäischer Rechnungshof warnt vor hohen Schulden",
-   "s": "Der Rechnungshof hat vor den Folgen der zunehmenden Verschuldung der EU gewarnt, die bis 2027 auf bis zu eine Billion Euro steigen könnten. Die Prüfer entdeckten auch Unregelmäßigkeiten in Milliardenhöhe.",
-   "u": "https://www.tagesschau.de/wirtschaft/eu-rechnungshof-schulden-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T03:45:40+00:00"
+   "t": "Gewerbesteueroasen - Standortwettbewerb auf Kosten von Kommunen",
+   "s": "Steueroasen gibt es nicht nur auf den Cayman Islands, sondern auch in Deutschland. Sie sind legal, führen aber auch zu Missbrauch durch Unternehmer. Leidtragende sind die Kommunen.",
+   "u": "https://www.deutschlandfunk.de/steueroasen-deutschland-gewerbesteuer-kommunen-unternehmen-hebesatz-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-27T15:20:00+00:00"
   },
   {
-   "t": "Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet",
-   "s": "Rund die Hälfte der Unternehmen in Deutschland nutzt inzwischen KI-Anwendungen. Aber viele Firmen haben nur unzureichende Schutzvorkehrungen, um sich etwa vor Cyberangriffen zu schützen. Von M. Polansky.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-sicherheit-cyberattaken-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T13:55:15+00:00"
+   "t": "Vergesellschaftung - Soziale Wohnungspolitik mit Risiken",
+   "s": "Die Linke will in Berlin Wohnungsbestände von großen Konzernen vergesellschaften. Nach dem Grundgesetz ist das prinzipiell möglich. Welche Folgen hätte das für die Mieten? Und ist es auch ein Mittel gegen die Wohnungsnot?",
+   "u": "https://www.deutschlandfunk.de/vergesellschaftung-enteignung-wohnungen-berlin-linke-elif-eralp-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-27T14:18:00+00:00"
   },
   {
-   "t": "Sorgen um Geld: Frauen fühlen sich finanziell unsicherer",
-   "s": "Fast die Hälfte aller Frauen in Deutschland macht sich Sorgen um ihre finanzielle Zukunft. Ein wichtiger Grund: Vielen Frauen fehlt das Geld, um überhaupt vorsorgen zu können.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/finanzen-frauen-sicherheit-unsicher-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T07:14:12+00:00"
+   "t": "Spritpreisdeckel - Warnungen vor Risiken und Nebenwirkungen",
+   "s": "Die Bundesregierung will Autofahrer angesichts steigender Spritpreise gleich doppelt entlasten. Neben dem gerade beschlossenen Tankrabatt ist auch ein sogenannter Spritpreisdeckel in der Diskussion. Es wäre ein ungewöhnlicher Eingriff in den Markt.",
+   "u": "https://www.deutschlandfunk.de/tankrabatt-spritpreisbremse-entlastung-benzinpreis-auto-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-25T15:42:00+00:00"
+  },
+  {
+   "t": "Marktmacht - Kampf den Kartellen",
+   "s": "Ob hohe Preissprünge an der Zapfsäule oder die Marktmacht globaler Tech-Riesen: In Deutschland soll das Bundeskartellamt den Wettbewerb sichern. Doch der Kampf gegen die Branchenriesen ist schwierig und wird schon lange ausgefochten.",
+   "u": "https://www.deutschlandfunk.de/bundeskartellamt-kartellrecht-marktmacht-wettbewerb-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-24T14:56:00+00:00"
   }
  ]
 }

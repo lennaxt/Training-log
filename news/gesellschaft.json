@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-12T00:33:24+00:00",
+ "updated": "2026-10-12T10:52:00+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Angriffe trotz verkündeter Waffenruhe",
+   "s": "Auch nach Trumps Verkündung gehen die Angriffe laut der Ukraine weiter. EU-Außenbeauftragte Kallas warnt vor einer Ölkatastrophe.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6220799/",
+   "q": "taz",
+   "d": "2026-10-12T06:57:00+00:00"
+  },
   {
    "t": "US-Sanktionen gegen IStGH: Die Richter und ihr Henker",
    "s": "Die Trump-Regierung greift den Internationalen Strafgerichtshof in Den Haag mit Sanktionen an. Wie sich das anfühlt, weiß Richterin Kimberly Prost.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Mietenproteste-in-Spanien/!6219880/",
    "q": "taz",
    "d": "2026-10-08T06:33:00+00:00"
-  },
-  {
-   "t": "Kosovo-Sondertribunal: Zeit zur Aussöhnung",
-   "s": "Kosovos Präsidentin verdankt ihren Job einem misslichen Deal. Die Hoffnung bleibt, dass es zu einer Annäherung zwischen Prishtina und Belgrad kommt.",
-   "u": "https://taz.de/Kosovo-Sondertribunal/!6219682/",
-   "q": "taz",
-   "d": "2026-10-07T16:23:00+00:00"
   }
  ]
 }
