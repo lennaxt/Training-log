@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-10-12T10:52:02+00:00",
+ "updated": "2026-10-12T22:30:00+00:00",
  "items": [
+  {
+   "t": "Politische Krise: „Maskierter Coup“ in Pakistan",
+   "s": "Die pakistanische Regierung verhängt den Ausnahmezustand in einer Provinz. Das könnte der Auftakt für weiterreichende Umbaupläne des Landes sein.",
+   "u": "https://taz.de/Politische-Krise/!6220857/",
+   "q": "taz",
+   "d": "2026-10-12T14:30:00+00:00"
+  },
   {
    "t": "Jugendproteste in Indien: Aktivistin Neha Bora gibt trotz Festnahmen nicht auf",
    "s": "Neha Bora ist die Vorsitzende der linken Studierendenorganisation AISA. Sie ist eine der bekanntesten Stimmen der indischen Jugendproteste.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Inselgruppe/!6213911/",
    "q": "taz",
    "d": "2026-09-17T09:20:00+00:00"
-  },
-  {
-   "t": "Libanesischer Ex-Präsident vor Gericht: Beiruter Hafenexplosion hat ein Nachspiel",
-   "s": "Der libanesische Ex-Präsident Michel Aoun muss sich für die Explosion von Ammoniumnitrat im Hafen von Beirut 2020 verantworten. Über 250 Menschen starben.",
-   "u": "https://taz.de/Libanesischer-Ex-Praesident-vor-Gericht/!6213630/",
-   "q": "taz",
-   "d": "2026-09-16T18:03:00+00:00"
   }
  ]
 }

@@ -1,13 +1,41 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-12T10:51:57+00:00",
+ "updated": "2026-10-12T22:29:55+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 12.10.2026",
+   "s": "Wirtschaft vor acht vom 12.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1665082.html",
+   "q": "Tagesschau",
+   "d": "2026-10-12T18:29:55+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX trotzt den hohen Ölpreisen",
+   "s": "Der deutsche Aktienmarkt konnte heute an seine Gewinne vom Freitag anknüpfen - und das trotz steigender Ölpreise. Gestützt wurden die Kurse von politischen Faktoren.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html",
+   "q": "Tagesschau",
+   "d": "2026-10-12T16:31:48+00:00"
+  },
+  {
+   "t": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr",
+   "s": "Seit zwei Jahren sind EU-Zölle auf Elektroautos aus China in Kraft, viele chinesische Hersteller steigerten seitdem trotzdem ihre Exporte von Hybridfahrzeugen. Dem setzt die Europäische Union jetzt Grenzen.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-china-hybridautos-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-12T11:38:03+00:00"
+  },
   {
    "t": "Nobelpreis für Wirtschaftswissenschaften für US-Ökonomen Hall und Woodford",
    "s": "Die US-Amerikaner Hall und Woodford werden mit dem Wirtschaftspreis in Gedenken an Alfred Nobel ausgezeichnet. Sie werden für ihre Arbeit zur Stabilisierung der Wirtschaft geehrt, erklärte die Königlich-Schwedische Akademie der Wissenschaften.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nobelpreis-wirtschaft-146.html",
    "q": "Tagesschau",
-   "d": "2026-10-12T10:28:28+00:00"
+   "d": "2026-10-12T11:06:56+00:00"
+  },
+  {
+   "t": "Weitere Stufe des PFAS-Verbots in Kraft getreten",
+   "s": "Sie stecken in Bekleidung, Cremes oder Fast-Food-Kartons: PFAS. Doch die \"Ewigkeitschemikalien\" stehen im Verdacht, den Körper zu schädigen. Weitere PFAS-Produkte sind nun in der EU verboten. Von Juri Sonnenholzner.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/ewigkeitschemikalien-pfas-verbot-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-12T11:05:06+00:00"
   },
   {
    "t": "Briefporto 2027: Standardbrief könnte 1,14 Euro kosten",
@@ -15,13 +43,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-post-preisanpassung-entwurf-bundesnetzagentur-100.html",
    "q": "Tagesschau",
    "d": "2026-10-12T09:54:11+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX-Erholung setzt sich fort",
-   "s": "Der DAX legt zum Wochenstart weiter zu und knüpft an die Erholung vom Freitag an. Der Aufschwung ist aber wacklig, denn hohe Ölpreise und Anleiherenditen bleiben weiterhin ein Risiko.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T08:55:44+00:00"
   },
   {
    "t": "Was hinter der aktuellen Euro-Schwäche steckt",
@@ -101,13 +122,6 @@
    "d": "2026-10-09T22:54:50+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 09.10.2026",
-   "s": "Wirtschaft vor acht vom 09.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1663618.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T18:24:19+00:00"
-  },
-  {
    "t": "Spritpreis-Entlastung: Was bringt der \"Tankrabatt\" den Autofahrern?",
    "s": "Seit einer Woche gibt es den neuen \"Tankrabatt\". Experten zufolge kommt die Entlastung zwar nicht vollständig bei Autofahrern an - aber größtenteils. Und doch hält sich die Begeisterung an den Zapfsäulen in Grenzen. Von T. Denzel.",
    "u": "https://www.tagesschau.de/wirtschaft/energie/tankrabatt-spritpreise-entlastung-autofahrer-100.html",
@@ -155,20 +169,6 @@
    "u": "https://www.deutschlandfunk.de/vergesellschaftung-enteignung-wohnungen-berlin-linke-elif-eralp-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-09-27T14:18:00+00:00"
-  },
-  {
-   "t": "Spritpreisdeckel - Warnungen vor Risiken und Nebenwirkungen",
-   "s": "Die Bundesregierung will Autofahrer angesichts steigender Spritpreise gleich doppelt entlasten. Neben dem gerade beschlossenen Tankrabatt ist auch ein sogenannter Spritpreisdeckel in der Diskussion. Es wäre ein ungewöhnlicher Eingriff in den Markt.",
-   "u": "https://www.deutschlandfunk.de/tankrabatt-spritpreisbremse-entlastung-benzinpreis-auto-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-25T15:42:00+00:00"
-  },
-  {
-   "t": "Marktmacht - Kampf den Kartellen",
-   "s": "Ob hohe Preissprünge an der Zapfsäule oder die Marktmacht globaler Tech-Riesen: In Deutschland soll das Bundeskartellamt den Wettbewerb sichern. Doch der Kampf gegen die Branchenriesen ist schwierig und wird schon lange ausgefochten.",
-   "u": "https://www.deutschlandfunk.de/bundeskartellamt-kartellrecht-marktmacht-wettbewerb-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-24T14:56:00+00:00"
   }
  ]
 }

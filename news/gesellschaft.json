@@ -1,9 +1,44 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-12T10:52:00+00:00",
+ "updated": "2026-10-12T22:29:58+00:00",
  "items": [
   {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Angriffe trotz verkündeter Waffenruhe",
+   "t": "Treffen der EU-Außenminister: Rekordsanktionen gegen russische Kriegstreiber",
+   "s": "Die EU-Außenminister einigen sich auf ein massives Strafpaket gegen Russland. Auch an Trumps „Energie-Waffenruhe“ hegen sie erhebliche Zweifel.",
+   "u": "https://taz.de/Treffen-der-EU-Aussenminister/!6220874/",
+   "q": "taz",
+   "d": "2026-10-12T17:52:00+00:00"
+  },
+  {
+   "t": "Präsidentschaftswahl in Bulgarien: Faktenfreie populistische Rhetorik",
+   "s": "Ilijana Jotowa führt die Umfragen vor den Präsidentschaftswahlen Ende Oktober an. Gewinnt sie, kann sich die EU auf eine prorussische Populistin einstellen.",
+   "u": "https://taz.de/Praesidentschaftswahl-in-Bulgarien/!6220696/",
+   "q": "taz",
+   "d": "2026-10-12T17:52:00+00:00"
+  },
+  {
+   "t": "Gewalt in Polen: Mutmaßlicher Attentäter festgenommen",
+   "s": "Ein 66-Jähriger soll einen Anschlag auf Premier Tusk und Verteidigungsminister Kosiniak-Kamysz geplant haben. Nun ging er der Polizei ins Netz.",
+   "u": "https://taz.de/Gewalt-in-Polen/!6220881/",
+   "q": "taz",
+   "d": "2026-10-12T15:10:00+00:00"
+  },
+  {
+   "t": "Von Trump verkündete Energie-Waffenruhe: Kreml plötzlich wortkarg",
+   "s": "Die russische Regierung hat zu der von Trump verkündeten Energie-Waffenruhe nichts zu sagen. Auf eine längere Unterbrechung der Kampfhandlungen werde man sich nicht einlassen.",
+   "u": "https://taz.de/Trumps-Fantasie-von-Energie-Waffenruhe/!6220887/",
+   "q": "taz",
+   "d": "2026-10-12T14:09:00+00:00"
+  },
+  {
+   "t": "Sozialisten in Frankreich: Raphaël Glucksmann wird Kandidat bei Präsidentschaftswahlen",
+   "s": "Der EU-Abgeordnete Glucksmann geht bei den Präsidentenwahlen 2027 für die Sozialisten ins Rennen. Dass er in die Stichwahl kommt, ist allerdings unwahrscheinlich.",
+   "u": "https://taz.de/Vorwahlen-der-Sozialisten-in-Frankreich/!6220856/",
+   "q": "taz",
+   "d": "2026-10-12T11:32:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Russland lehnt Selenskyj-Vorschlag für Waffenruhe ab",
    "s": "Auch nach Trumps Verkündung gehen die Angriffe laut der Ukraine weiter. EU-Außenbeauftragte Kallas warnt vor einer Ölkatastrophe.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6220799/",
    "q": "taz",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Nachwahl-in-Grossbritannien/!6220235/",
    "q": "taz",
    "d": "2026-10-09T09:46:00+00:00"
-  },
-  {
-   "t": "Maricarmen im Krankenhaus gestorben: Tod nach Zwangsräumung",
-   "s": "Kurz bevor sie ihren neuen Mietvertrag unterzeichnen konnte, ist die Rentnerin Maricarmen gestorben. Das Mietenthema dürfte nun den Wahlkampf prägen.",
-   "u": "https://taz.de/Maricarmen-im-Krankenhaus-gestorben/!6219930/",
-   "q": "taz",
-   "d": "2026-10-08T17:47:00+00:00"
-  },
-  {
-   "t": "Schülerproteste in Frankreich: Religiöse Privatschulen schließen sich der Jugendrevolte an",
-   "s": "Mit weiteren Schulblockaden und Sit-ins vor Universitäten protestieren französische Jugendliche weiter. Premier Lecornu macht keine Zugeständnisse.",
-   "u": "https://taz.de/Schuelerproteste-in-Frankreich/!6219923/",
-   "q": "taz",
-   "d": "2026-10-08T16:15:00+00:00"
-  },
-  {
-   "t": "Russischer Angriff auf Pryluky: 22 Tote, darunter 5 Kinder",
-   "s": "In der Kleinstadt Pryluky beschossen russische Streitkräfte ein Wohngebiet mit sechs Marschflugkörpern. Die Stadt galt bislang als relativ sicher.",
-   "u": "https://taz.de/Russischer-Angriff-auf-Pryluky/!6219922/",
-   "q": "taz",
-   "d": "2026-10-08T14:40:00+00:00"
-  },
-  {
-   "t": "Neues Wahlgesetz in Italien: Meloni zementiert ihre Macht",
-   "s": "Italiens Rechtskoalition hat Giorgia Melonis neues Wahlgesetz verabschiedet. Künftig gibt es einen überproportionalen Bonus für die stärkste Partei.",
-   "u": "https://taz.de/Neues-Wahlgesetz-in-Italien/!6219925/",
-   "q": "taz",
-   "d": "2026-10-08T14:17:00+00:00"
-  },
-  {
-   "t": "Mietenproteste in Spanien: Rentnerin Maricarmen ist gestorben",
-   "s": "Die 87-jährige Maricarmen Abascal, die in Spanien Mietenproteste und Neuwahlen ausgelöst hat, ist tot. Nun könnten sich die Fronten noch weiter verhärten.",
-   "u": "https://taz.de/Mietenproteste-in-Spanien/!6219880/",
-   "q": "taz",
-   "d": "2026-10-08T06:33:00+00:00"
   }
  ]
 }
