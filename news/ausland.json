@@ -1,7 +1,49 @@
 {
  "name": "Ausland",
- "updated": "2026-10-12T22:29:54+00:00",
+ "updated": "2026-10-13T10:37:46+00:00",
  "items": [
+  {
+   "t": "Spaniens König in Ceuta: Spuren beseitigt, Problem weggeschoben",
+   "s": "Der spanische König besucht für zwei Tage die Enklave Ceuta. Vor seiner Anreise wurden Strände und Straßen geräumt, wo Migranten über Wochen ausgeharrt hatten. Was also wird Felipe VI. in Ceuta sehen können? Von F. Welz.",
+   "u": "https://www.tagesschau.de/ausland/afrika/spanien-marokko-besuch-felipe-ceuta-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T09:24:42+00:00"
+  },
+  {
+   "t": "Schwarzes Meer: Erneut Frachter vor bulgarischer Küste gesunken",
+   "s": "Vor Bulgariens Küste sind wieder Handelsschiffe von Drohnen getroffen worden. Bei dem Angriff sank ein Frachter, mehrere Seeleute werden vermisst. Die bulgarische Regierung verdächtigt Russland und schaltet die NATO ein.",
+   "u": "https://www.tagesschau.de/ausland/europa/drohnenangriff-frachter-schwarzes-meer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T09:17:24+00:00"
+  },
+  {
+   "t": "Kurz vor Zwischenwahlen: Durchsuchung bei Trump-Kritikerin Omar",
+   "s": "Erst lässt die US-Justiz Ilhan Omars Haus durchsuchen, dann beschimpft der Präsident die demokratische Abgeordnete aufgrund ihrer Herkunft. Sie ist nicht zum ersten Mal Trumps Attacken ausgesetzt und spricht von politischer Einschüchterung.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-ilhan-omar-durchsuchung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T07:57:41+00:00"
+  },
+  {
+   "t": "Wehrt sich Europa gegen die US-Sanktionen gegen das Weltstrafgericht?",
+   "s": "Die US-Sanktionen gegen den Internationalen Strafgerichtshof werden als Angriff auf das Völkerrecht kritisiert. Sie wirken sich auch direkt auf Tätigkeiten in der EU aus. In Europa wächst die Forderung, das nicht länger zu tolerieren. Von J.-M. Magro.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-istgh-us-sanktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T06:36:11+00:00"
+  },
+  {
+   "t": "Auftakt der Haushaltsdebatte: \"Frankreich steht finanziell mit dem Rücken zur Wand\"",
+   "s": "In Frankreich beginnen heute die Haushaltsberatungen für das kommende Jahr. Die Regierung will kräftig sparen, um das Defizit zu reduzieren. Ein halbes Jahr vor der Präsidentenwahl dürfte die Debatte hitzig werden. Von C. Dylla.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-haushaltsdebatte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T05:37:12+00:00"
+  },
+  {
+   "t": "Neue Schülerproteste: Wie ein Brandbeschleuniger in Frankreichs Krise",
+   "s": "Dass Demonstrationen eskalieren, kennt Frankreich. Doch das Ausmaß der Schülerproteste übertrifft frühere Bewegungen deutlich. Das zeigt, wie tief das Land gespalten ist. Heute soll erneut protestiert werden. Von Julia Borutta.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-neue-schuelerproteste-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T05:37:06+00:00"
+  },
   {
    "t": "Riad erneut von Explosionen erschüttert - Abschuss von Rakete gemeldet",
    "s": "In der saudischen Hauptstadt Riad ist es erneut zu Explosionen gekommen. Offenbar wurde eine von der Huthi-Miliz abgefeuerte Rakete zerstört. Die Bewohner waren zuvor vor einer \"feindlichen Bedrohung\" gewarnt worden.",
@@ -15,13 +57,6 @@
    "u": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-12T19:49:18+00:00"
-  },
-  {
-   "t": "Papst geht Dienstag für Lungenoperation ins Krankenhaus",
-   "s": "Nach dem Fund eines Knotens in der Lunge will sich Papst Leo operieren lassen. Morgen begibt er sich ins Krankenhaus. Spätestens am Mittwoch soll der Eingriff durchgeführt werden. Von Ivo Marusczyk.",
-   "u": "https://www.tagesschau.de/ausland/papst-leo-op-lunge-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T17:31:01+00:00"
   },
   {
    "t": "EU-Außenminister: Sanktionspaket mit willkommener Nebenwirkung",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-11T10:39:51+00:00"
-  },
-  {
-   "t": "Todeskandidatin Pike nach gescheiterter Hinrichtung wieder im Gefängnis",
-   "s": "Die US-Todeskandidatin Pike hat rund anderthalb Wochen nach ihrer gescheiterten Hinrichtung das Krankenhaus verlassen. Sie ist mittlerweile in das Gefängnis zurückgekehrt, in dem sie seit mehr als 30 Jahren inhaftiert ist.",
-   "u": "https://www.tagesschau.de/ausland/amerika/pike-todeskandidatin-krankenhaus-gefaengnis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T09:20:40+00:00"
-  },
-  {
-   "t": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
-   "s": "Der Konflikt zwischen Saudi-Arabien und der Huthi-Miliz verschärft sich: Nun gab es bei einem Angriff in Riad mindestens zwölf Tote und Hunderte Verletzte. Der Flughafenbetrieb blieb zunächst ausgesetzt.",
-   "u": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T09:05:29+00:00"
-  },
-  {
-   "t": "Bürgermeisterwahl: Entscheidung in Krakau - Stimmungstest für Polen",
-   "s": "Polens zweitgrößte Stadt Krakau wählt einen Bürgermeister: Die regierungsnahe Kandidatin tritt gegen einen Kandidaten an, der mit Stimmen von rechts rechnen kann. Ein Stimmungstest vor der Parlamentswahl. Von P. Milling",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-krakau-buergermeister-wahlen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T06:19:57+00:00"
-  },
-  {
-   "t": "Gespräche in Athen: Rubio umwirbt die Gas-Drehscheibe Griechenland",
-   "s": "Südosteuropäische Länder bauen ein Pipelinesystem auf, das Gas über den Kontinent verteilen soll - um unabhängig von Russland zu werden. Auch Flüssiggasexporteur USA zeigt Interesse. Droht eine neue Abhängigkeit? Von J. Riemann.",
-   "u": "https://www.tagesschau.de/ausland/europa/griechenland-usa-gas-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T05:43:37+00:00"
-  },
-  {
-   "t": "Ukraine: Trump setzt Präsident Selenskyj weiter unter Druck",
-   "s": "\"Zeit, dass die Ukraine einen neuen Präsidenten bekommt\": US-Präsident Trump setzt Selenskyj weiter unter Druck. Er fordert erneut Wahlen - die rechtlich ausgeschlossen sind. Doch Selenskyj bekommt auch Rückhalt.",
-   "u": "https://www.tagesschau.de/ausland/trump-selenskyj-rueckzug-reaktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T03:47:34+00:00"
   }
  ]
 }

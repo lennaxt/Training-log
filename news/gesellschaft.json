@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-12T22:29:58+00:00",
+ "updated": "2026-10-13T10:37:49+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Mutmaßliche Saboteure in Deutschland festgenommen",
+   "s": "Zwei Verdächtige, die einen Brandanschlag in Polen verübt haben sollen, sind in Deutschland gefasst worden. Trump beharrt auf „Energie-Waffenruhe“.",
+   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6221193/",
+   "q": "taz",
+   "d": "2026-10-13T06:54:00+00:00"
+  },
   {
    "t": "Treffen der EU-Außenminister: Rekordsanktionen gegen russische Kriegstreiber",
    "s": "Die EU-Außenminister einigen sich auf ein massives Strafpaket gegen Russland. Auch an Trumps „Energie-Waffenruhe“ hegen sie erhebliche Zweifel.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Verhandlungen-am-Freitag-und-Samstag/!6220280/",
    "q": "taz",
    "d": "2026-10-09T13:03:00+00:00"
-  },
-  {
-   "t": "Nachwahl in Großbritannien: Pinker Farbtupfer im Unterhaus",
-   "s": "Die Labour-Kandidatin Sagal Abdi-Wali holt einen Sitz im Wahlkreis Holborn und St. Pancras. Sie kam als Flüchtlingskind aus Somalia nach Großbritannien.",
-   "u": "https://taz.de/Nachwahl-in-Grossbritannien/!6220235/",
-   "q": "taz",
-   "d": "2026-10-09T09:46:00+00:00"
   }
  ]
 }

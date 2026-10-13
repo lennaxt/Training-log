@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-12T22:29:55+00:00",
+ "updated": "2026-10-13T10:37:47+00:00",
  "items": [
+  {
+   "t": "Weinlese: Winzer rechnen mit kleinster Ernte seit 2010",
+   "s": "Rund 20 Prozent weniger als im Durchschnitt: Nach dem Ende der Weinlese rechnen die deutschen Winzer mit weniger Wein für dieses Jahr. \"Spitze\" sei hingegen die diesjährige Qualität.",
+   "u": "https://www.tagesschau.de/wirtschaft/weinlese-2026-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T10:13:09+00:00"
+  },
+  {
+   "t": "Marktbericht: Anleger bleiben zuversichtlich",
+   "s": "Trotz der schwierigen geostrategischen Lage behauptet sich der DAX zum Handelsstart auf hohem Niveau - und legt sogar zu. Die Anleger erwarten nun den Beginn der US-Berichtssaison der Unternehmen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T09:33:13+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 13.10.2026",
+   "s": "Update Wirtschaft vom 13.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1665282.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T07:48:13+00:00"
+  },
+  {
+   "t": "IWF hebt Prognose für deutsche Wirtschaft deutlich an",
+   "s": "Fast doppelt so stark wie bislang erwartet: Der Internationale Währungsfonds hebt die Wirtschaftsprognose für Deutschland auf 1,3 Prozent an. Für die Weltwirtschaft gibt es eine kleine Änderung.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-prognose-deutschland-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T03:30:15+00:00"
+  },
+  {
+   "t": "Autoindustrie: VW in der Slowakei - hoffnungsvolle Krise?",
+   "s": "In Bratislava steht das zweitgrößte Werk von Volkswagen - eines der modernsten. Dennoch könnte es schrumpfen. Doch es gibt Hoffnung in der Slowakei, deren Einwohner weltweit am meisten Autos pro Kopf produzieren. Von M. Allweiss.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T00:10:57+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 12.10.2026",
    "s": "Wirtschaft vor acht vom 12.10.2026",
@@ -10,11 +45,11 @@
    "d": "2026-10-12T18:29:55+00:00"
   },
   {
-   "t": "Marktbericht: DAX trotzt den hohen Ölpreisen",
-   "s": "Der deutsche Aktienmarkt konnte heute an seine Gewinne vom Freitag anknüpfen - und das trotz steigender Ölpreise. Gestützt wurden die Kurse von politischen Faktoren.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html",
+   "t": "Wie staatliche Eingriffe doch funktionieren können",
+   "s": "Greift die Politik in die Wirtschaft ein, kann das ziemlich schiefgehen. Der diesjährige Wirtschaftspreis in Gedenken an Alfred Nobel würdigt zwei Forscher, deren Arbeit politische Entscheidungen beeinflusst. Von Detlev Landmesser.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nobelpreis-wirtschaft-hall-woodford-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-12T16:31:48+00:00"
+   "d": "2026-10-12T14:43:53+00:00"
   },
   {
    "t": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr",
@@ -50,13 +85,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/devisen-euroschwaeche-100.html",
    "q": "Tagesschau",
    "d": "2026-10-12T08:17:50+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 12.10.2026",
-   "s": "Update Wirtschaft vom 12.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1664688.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T07:52:59+00:00"
   },
   {
    "t": "Erbschaftsteuer beim Bundesverfassungsgericht auf dem Prüfstand",
@@ -141,34 +169,6 @@
    "u": "https://www.deutschlandfunk.de/wassermangel-deutschland-strategie-bundesregierung-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-06T11:45:00+00:00"
-  },
-  {
-   "t": "CO2-Zertifikate: Wie glaubwürdig ist der freiwillige Klimamarkt?",
-   "s": "Unternehmen nutzen CO2-Zertifikate, um Emissionen auszugleichen. Doch bei vielen Projekten ist unklar, wie groß die Klimawirkung wirklich ist, wohin das Geld fließt und welche Folgen sie für Landrechte und Menschen vor Ort haben.",
-   "u": "https://www.deutschlandfunk.de/klimaschutz-co2-zertifikate-emissionen-kompensation-greenwashing-kritik-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-05T10:39:00+00:00"
-  },
-  {
-   "t": "Kommentar: Politische Kälte auf dem spanischen Wohnungsmarkt",
-   "s": "Das spanische Parlament hat geplante, recht milde Mieterschutzregeln abgelehnt. Das Nein offenbart politische Kälte gegenüber einem der größten Probleme des Landes. Für Ministerpräsident Pedro Sánchez wird das zur Bewährungsprobe.Von Hans-Günter Kellner",
-   "u": "https://www.deutschlandfunk.de/kommentar-spanien-proteste-mieten-wohnen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-05T08:29:00+00:00"
-  },
-  {
-   "t": "Gewerbesteueroasen - Standortwettbewerb auf Kosten von Kommunen",
-   "s": "Steueroasen gibt es nicht nur auf den Cayman Islands, sondern auch in Deutschland. Sie sind legal, führen aber auch zu Missbrauch durch Unternehmer. Leidtragende sind die Kommunen.",
-   "u": "https://www.deutschlandfunk.de/steueroasen-deutschland-gewerbesteuer-kommunen-unternehmen-hebesatz-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-27T15:20:00+00:00"
-  },
-  {
-   "t": "Vergesellschaftung - Soziale Wohnungspolitik mit Risiken",
-   "s": "Die Linke will in Berlin Wohnungsbestände von großen Konzernen vergesellschaften. Nach dem Grundgesetz ist das prinzipiell möglich. Welche Folgen hätte das für die Mieten? Und ist es auch ein Mittel gegen die Wohnungsnot?",
-   "u": "https://www.deutschlandfunk.de/vergesellschaftung-enteignung-wohnungen-berlin-linke-elif-eralp-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-27T14:18:00+00:00"
   }
  ]
 }
