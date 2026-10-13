@@ -1,20 +1,76 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-13T10:37:47+00:00",
+ "updated": "2026-10-13T20:41:32+00:00",
  "items": [
   {
+   "t": "Wirtschaft vor acht vom 13.10.2026",
+   "s": "Wirtschaft vor acht vom 13.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1665754.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T19:49:10+00:00"
+  },
+  {
+   "t": "EU bremst Hybrid-Importe: Können deutsche Autobauer profitieren?",
+   "s": "Chinesische Autohersteller gewinnen in Europa massiv an Gewicht. Die EU will die Konkurrenz eindämmen. Ein Import-Deckel für Hybridfahrzeuge soll heimische Hersteller stützen. Kann das funktionieren? Von Sebastian Schreiber.",
+   "u": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T18:03:27+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX driftet ins Minus",
+   "s": "Am Ende konnte der DAX sein Plus nicht mehr halten. Neue Sorgen im Chipsektor und ein enttäuschender Start in die Berichtssaison lasteten auf den Kursen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T16:36:06+00:00"
+  },
+  {
+   "t": "Bundesverfassungsgericht zur Erbschaftsteuer: Wie gerecht ist sie?",
+   "s": "Wer in Deutschland erbt, muss Steuern zahlen. Außer man erbt ein Unternehmen, dann gibt es Ausnahmen - und oft fallen keine Steuern an. Ob das in Ordnung ist, muss nun das Verfassungsgericht entscheiden. Von Antonetta Stephany und Max Bauer.",
+   "u": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T16:30:57+00:00"
+  },
+  {
+   "t": "Kommentar zur Erbschaftssteuer: Mehr Gerechtigkeit wagen!",
+   "s": "Das Bundesverfassungsgericht beschäftigt sich mit der Erbschaftssteuer. Hierbei geht es um Fragen der Gerechtigkeit, mit denen sich eigentlich die Politik auseinandersetzen sollte. Die Koalition könnte dabei Handlungsfähigkeit zeigen.Ein Standpunkt von Gudula Geuther",
+   "u": "https://www.deutschlandfunk.de/erbschaftssteuer-gerechtigkeit-verfassungsgericht-firmenerben-koalition-kommentar-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-13T15:50:00+00:00"
+  },
+  {
+   "t": "Galeria-Insolvenz: Wie geht's weiter für Angestellte und Kunden?",
+   "s": "Abgesperrte Regale, Unsicherheit über Standorte - nun zumindest Insolvenzgeld für Beschäftigte. Wie geht es vor dem wichtigen Weihnachtsgeschäft für die Kaufhauskette Galeria weiter? Ein Überblick.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T14:33:25+00:00"
+  },
+  {
+   "t": "Bei diesen drei Themen stockt die Rentenreform",
+   "s": "Nach dem überraschenden Rücktritt von Bundesarbeitsministerin Bas muss ihr Nachfolger Schweitzer die Rentenreform voranbringen - ausgerechnet er, der die Pläne bisher kritisiert hatte. Drei Knackpunkte gilt es zu lösen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-empfehlungen-knackpunkte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T12:26:15+00:00"
+  },
+  {
+   "t": "Bahn-Fahrplan: Neue ICE-Sprinter, aber weiter viele Baustellen",
+   "s": "Ab diesem Mittwoch lassen sich Tickets für den neuen Bahn-Fahrplan buchen. Zum Wechsel im Dezember fährt ein neuer ICE-Sprinter zwischen Hamburg und München. Baustellen werden weiter für längere Fahrzeiten sorgen.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-fahrplan-zugverkehr-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T11:06:11+00:00"
+  },
+  {
    "t": "Weinlese: Winzer rechnen mit kleinster Ernte seit 2010",
-   "s": "Rund 20 Prozent weniger als im Durchschnitt: Nach dem Ende der Weinlese rechnen die deutschen Winzer mit weniger Wein für dieses Jahr. \"Spitze\" sei hingegen die diesjährige Qualität.",
+   "s": "Die diesjährige Weinernte bleibt den Winzern zufolge unter dem Durchschnitt der vergangenen Jahre. Durch den heißen Sommer sind viele Trauben kleiner als sonst - schmecken aber intensiver.",
    "u": "https://www.tagesschau.de/wirtschaft/weinlese-2026-deutschland-100.html",
    "q": "Tagesschau",
    "d": "2026-10-13T10:13:09+00:00"
   },
   {
-   "t": "Marktbericht: Anleger bleiben zuversichtlich",
-   "s": "Trotz der schwierigen geostrategischen Lage behauptet sich der DAX zum Handelsstart auf hohem Niveau - und legt sogar zu. Die Anleger erwarten nun den Beginn der US-Berichtssaison der Unternehmen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T09:33:13+00:00"
+   "t": "Erbschaftssteuer vor Gericht - Von Firmenerben, Sparkonten und Aktiendepots",
+   "s": "In Deutschland werden nicht nur Geld und Immobilien vererbt, auch viele Firmen gehen auf die nächste Generation über. Dass ein vererbtes Unternehmen anders besteuert wird als etwa Aktien oder ein Sparkonto, beschäftigt nun wieder das Verfassungsgericht.",
+   "u": "https://www.deutschlandfunk.de/erbschaftsteuer-gerechtigkeit-unternehmen-verfassungsgericht-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-13T09:52:00+00:00"
   },
   {
    "t": "Update Wirtschaft vom 13.10.2026",
@@ -36,13 +92,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
    "q": "Tagesschau",
    "d": "2026-10-13T00:10:57+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 12.10.2026",
-   "s": "Wirtschaft vor acht vom 12.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1665082.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T18:29:55+00:00"
   },
   {
    "t": "Wie staatliche Eingriffe doch funktionieren können",
@@ -120,55 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/energie/trump-diesel-oelpreis-reaktionen-deutschland-100.html",
    "q": "Tagesschau",
    "d": "2026-10-10T12:04:32+00:00"
-  },
-  {
-   "t": "Weniger Hybridfahrzeug-Exporte: EU und China wenden Eskalation vorerst ab",
-   "s": "China akzeptiert EU-Handelsbeschränkungen für Hybridfahrzeuge. Doch wie nachhaltig wirkt dieses Zugeständnis? Und wie geht es in anderen Wirtschaftsbereichen weiter? Von Christoph Kober.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-eu-hybridautos-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T10:15:19+00:00"
-  },
-  {
-   "t": "Immobilienmarkt: Steigende Preise trotz sinkender Nachfrage",
-   "s": "Die Preise für Wohnimmobilien legen weiter zu - obwohl Baukredite sehr teuer geworden sind und sich weniger Menschen eine Eigentumswohnung oder ein Haus leisten können. Wie passt das zusammen? Von Heidi Radvilas",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/hauskauf-wohnungskauf-kaufkraft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T06:32:43+00:00"
-  },
-  {
-   "t": "Trump kündigt russische Diesellieferungen an",
-   "s": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T02:43:04+00:00"
-  },
-  {
-   "t": "China sagt EU weniger Exporte von Hybridautos zu",
-   "s": "Der Konkurrenzdruck aus China macht insbesondere deutschen Autobauern zu schaffen. Die EU will daher erreichen, dass Peking in Europa weniger Hybridautos verkauft - nun verkünden beide Seiten einen Kompromiss.",
-   "u": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T22:54:50+00:00"
-  },
-  {
-   "t": "Spritpreis-Entlastung: Was bringt der \"Tankrabatt\" den Autofahrern?",
-   "s": "Seit einer Woche gibt es den neuen \"Tankrabatt\". Experten zufolge kommt die Entlastung zwar nicht vollständig bei Autofahrern an - aber größtenteils. Und doch hält sich die Begeisterung an den Zapfsäulen in Grenzen. Von T. Denzel.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/tankrabatt-spritpreise-entlastung-autofahrer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T13:29:55+00:00"
-  },
-  {
-   "t": "Warum Deutschland bei Betriebsrenten Nachholbedarf hat",
-   "s": "Betriebsrenten sind in anderen Ländern viel stärker verbreitet als in Deutschland. Für Arbeitgeber werden sie angesichts des Fachkräftemangels immer wichtiger, um Mitarbeiter zu gewinnen. Von Claudia Wehrle.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/betriebsrente-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T06:43:59+00:00"
-  },
-  {
-   "t": "Wasser wird wertvoller",
-   "s": "Deutschland hat im Winter zu viel Wasser – und im Sommer immer weniger. Das belastet Umwelt und Wirtschaft. Die Bundesregierung fordert einen “neuen Umgang” mit Wasser. Wer viel verbraucht, soll mehr zahlen.",
-   "u": "https://www.deutschlandfunk.de/wassermangel-deutschland-strategie-bundesregierung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-06T11:45:00+00:00"
   }
  ]
 }

@@ -1,7 +1,70 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-13T10:37:48+00:00",
+ "updated": "2026-10-13T20:41:34+00:00",
  "items": [
+  {
+   "t": "Krise der Volksparteien: Die Stunde der Sozialdemokratie",
+   "s": "Die SPD ist mit sich selbst beschäftigt und steckt pathologisch in alten Vorstellungen fest. Dabei könnte jetzt ihr Moment sein.",
+   "u": "https://taz.de/Die-SPD-steckt-in-alten-Vorstellungen-fest-dabei-koennte-jetzt-ihr-Moment-sein/!6221205/",
+   "q": "taz",
+   "d": "2026-10-13T17:52:00+00:00"
+  },
+  {
+   "t": "Zum Nord-Stream-Prozess: „Im Krieg dürfen zivile Objekte nicht angegriffen werden“",
+   "s": "Der Prozess um einen Ukrainer, der die Sprengung der Nord-Stream-Pipelines organisiert haben soll, beginnt. Völkerrechtler Kai Ambos erklärt die Anklage.",
+   "u": "https://taz.de/Zum-Nord-Stream-Prozess/!6221273/",
+   "q": "taz",
+   "d": "2026-10-13T17:52:00+00:00"
+  },
+  {
+   "t": "Landtag Sachsen-Anhalt: CDU-Fraktion will AfD sitzen lassen",
+   "s": "Die CDU in Sachsen-Anhalt will bei der Ministerpräsidentenwahl den Saal verlassen, um Siegmunds Erfolg zu verhindern. Das setzt AfD und BSW unter Druck.",
+   "u": "https://taz.de/Landtag-Sachsen-Anhalt/!6221397/",
+   "q": "taz",
+   "d": "2026-10-13T16:36:00+00:00"
+  },
+  {
+   "t": "Erbschaftsteuer vor Gericht: Karlsruhe prüft den Erbenrabatt",
+   "s": "Normale Erbschaften werden besteuert, Unternehmensvermögen oft verschont. Ist das gerecht? Darüber verhandelte das Bundesverfassungsgericht.",
+   "u": "https://taz.de/Erbschaftsteuer-vor-Gericht/!6221399/",
+   "q": "taz",
+   "d": "2026-10-13T16:17:00+00:00"
+  },
+  {
+   "t": "Sexualisierte Gewalt gegen Kinder: „Risiken im digitalen Raum explodieren“",
+   "s": "Tausende Kinder und Jugendliche erleben sexuelle Gewalt in Deutschland. Die Missbrauchsbeauftragte fordert dringend mehr Schutz und Ressourcen.",
+   "u": "https://taz.de/Sexualisierte-Gewalt-gegen-Kinder/!6221345/",
+   "q": "taz",
+   "d": "2026-10-13T16:15:00+00:00"
+  },
+  {
+   "t": "Ministerpräsidentenwahl in Magdeburg: Abweichler müssen Farbe bekennen",
+   "s": "Die CDU will den Saal verlassen, wenn in Sachsen-Anhalt der neue Ministerpräsident gewählt wird. Die Partei baut damit einem neuen Skandal vor.",
+   "u": "https://taz.de/Ministerpraesidentenwahl-in-Magdeburg/!6216855/",
+   "q": "taz",
+   "d": "2026-10-13T15:54:00+00:00"
+  },
+  {
+   "t": "Antisemitismusbeauftragte des Bundes: Eine Adlige für Dobrindt",
+   "s": "Die deutsche EU-Beamtin Katharina von Schnurbein soll neue Antisemitismusbeauftragte des Bundes werden. In Brüssel war sie durchaus umstritten.",
+   "u": "https://taz.de/Antisemitismusbeauftragte-des-Bundes/!6221300/",
+   "q": "taz",
+   "d": "2026-10-13T14:00:00+00:00"
+  },
+  {
+   "t": "Notfall im Luftverkehr: Entwarnung nach Alarm an Flughafen Nürnberg",
+   "s": "Wegen einer möglicher Notlage eines aus Griechenland kommenden Flugzeugs stiegen Eurofighter auf. Die Polizei sperrt den Nürnberger Flughafen. Nun wurde Entwarnung gegeben.",
+   "u": "https://taz.de/Notfall-im-Luftverkehr/!6221312/",
+   "q": "taz",
+   "d": "2026-10-13T12:43:00+00:00"
+  },
+  {
+   "t": "Sieben Probleme der Koalition: Wo die Regierung noch nach Lösungen sucht",
+   "s": "Rente, Pflege, Steuern: Schwarz-Rot steht vor großen Herausforderungen. Der Rückzug von Bärbel Bas hat die Lage nicht einfacher gemacht.",
+   "u": "https://taz.de/Sieben-Probleme-der-Koalition/!6221296/",
+   "q": "taz",
+   "d": "2026-10-13T11:56:00+00:00"
+  },
   {
    "t": "Widersetzen Magdeburg über Protest: „Die antifaschistische Bewegung zusammenführen“",
    "s": "Ziviler Ungehorsam wird wichtig beim Protest in Sachsen-Anhalt, sagt Fe Schultz von Widersetzen Magdeburg. Eine AfD-Regierung dort wäre „ganz klar faschistisch“.",
@@ -17,7 +80,7 @@
    "d": "2026-10-13T09:09:00+00:00"
   },
   {
-   "t": "Weggfall von Pflegegrad 1: Ohne Marc ist das nicht zu schaffen",
+   "t": "Wegfall von Pflegegrad 1: Ohne Marc ist das nicht zu schaffen",
    "s": "Fällt der Pflegegrad 1 weg, erschwert das den Alltag von Betroffenen, von Einkaufs- über Haushaltshilfe bis hin zur Wegbegleitung. Eine Mutter erzählt.",
    "u": "https://taz.de/Weggfall-von-Pflegegrad-1/!6220817/",
    "q": "taz",
@@ -87,13 +150,6 @@
    "d": "2026-10-12T10:20:00+00:00"
   },
   {
-   "t": "Franziska Brantner: Sie kann alles. Außer strahlen?",
-   "s": "Grünen-Chefin Franziska Brantner arbeitet akribisch. In ihr Amt ist sie hineingewachsen. Die Herzen aber erreicht sie nicht. Es sei denn, sie spricht persönlich vor.",
-   "u": "https://taz.de/Franziska-Brantner/!6216641/",
-   "q": "taz",
-   "d": "2026-10-12T09:32:00+00:00"
-  },
-  {
    "t": "Antisemitismus in den Parteien: Vor der eigenen Tür kehren",
    "s": "Keine Partei sollte sich beim Thema Antisemitismus zur moralischen Instanz über andere erheben, denn alle haben eigene Fälle aufzuarbeiten.",
    "u": "https://taz.de/Antisemitismus-in-den-Parteien/!6220639/",
@@ -113,62 +169,6 @@
    "u": "https://taz.de/SPD-Generalsekretaer-zu-Reformen/!6220584/",
    "q": "taz",
    "d": "2026-10-12T05:07:00+00:00"
-  },
-  {
-   "t": "CDU-Präsidiumsklausur: Wohin steuert die Union?",
-   "s": "Wahlniederlagen, schleppende Reformvorhaben, bröckelnde Brandmauer: Die CDU diskutiert zwei Tage über den Umgang mit der AfD – und sich selbst.",
-   "u": "https://taz.de/CDU-Praesidiumsklausur/!6220704/",
-   "q": "taz",
-   "d": "2026-10-11T17:45:00+00:00"
-  },
-  {
-   "t": "Schröders Putin-Freundschaft: Der unerträgliche Genosse",
-   "s": "Wie soll die SPD von der Linken Distanz zu Clan-Chefs fordern, wenn sie den bekennenden Kumpel eines Kriegsverbrechers in ihren Reihen duldet?",
-   "u": "https://taz.de/Schroeders-Putin-Freundschaft/!6220771/",
-   "q": "taz",
-   "d": "2026-10-11T15:55:00+00:00"
-  },
-  {
-   "t": "Brandanschlag in Frankfurt am Main: Hilfsgüter für die Ukraine in Flammen",
-   "s": "In Frankfurt am Main verbrannten in der Nacht auf Freitag tonnenweise Hilfsgüter für ukrainische Zivilist*innen. Die Polizei vermutet Brandstiftung.",
-   "u": "https://taz.de/Brandanschlag-in-Frankfurt-am-Main/!6220613/",
-   "q": "taz",
-   "d": "2026-10-11T14:09:00+00:00"
-  },
-  {
-   "t": "Aufschwung der Populisten: Die Demokratie hat eine Zukunft",
-   "s": "Sie hat es zu gut gemeint, die Anspruchshaltungen angekurbelt und schließlich enttäuscht. Doch es ist nicht die Aufgabe der Demokratie, zu liefern.",
-   "u": "https://taz.de/Aufschwung-der-Populisten/!6218241/",
-   "q": "taz",
-   "d": "2026-10-11T13:36:00+00:00"
-  },
-  {
-   "t": "Gerhard Schröder und die SPD: Partei fordert Rauswurf",
-   "s": "Schröder beschädige die Glaubwürdigkeit der Sozialdemokraten, so der Vorwurf. Anlass ist unter anderem der Geburtstagsbesuch bei Kremlchef Putin.",
-   "u": "https://taz.de/Gerhard-Schroeder-und-die-SPD/!6220565/",
-   "q": "taz",
-   "d": "2026-10-11T09:52:00+00:00"
-  },
-  {
-   "t": "Zeichen setzen gegen die AfD: Protest von unten ist das Gebot der Stunde",
-   "s": "Was macht man, wenn Höcke und Co. anreisen? Protest hat viele Facetten, vom Grundgesetz in der Hand als leiser Geste bis zur lautstarken Demo.",
-   "u": "https://taz.de/Zeichen-setzen-gegen-die-AfD/!6216566/",
-   "q": "taz",
-   "d": "2026-10-11T09:05:00+00:00"
-  },
-  {
-   "t": "Erbschaftsteuer: Gerechter erben – geht das?",
-   "s": "Das Bundesverfassungsgericht verhandelt über die Erbschaftsteuer. Ist sie mit dem Gleichheitsgrundsatz vereinbar? Die wichtigsten Fragen und Antworten.",
-   "u": "https://taz.de/Erbschaftsteuer/!6216599/",
-   "q": "taz",
-   "d": "2026-10-10T18:11:00+00:00"
-  },
-  {
-   "t": "Demokratie in der Krise: Pistorius ist jetzt Antifa",
-   "s": "Seit Dienstag hält erstmals ein AfD-Politiker in Deutschland ein hohes Staatsamt, vermutlich dank der CDU. Verzweifeln könnte man deshalb – muss man aber nicht!",
-   "u": "https://taz.de/Demokratie-in-der-Krise/!6216607/",
-   "q": "taz",
-   "d": "2026-10-10T18:07:00+00:00"
   }
  ]
 }

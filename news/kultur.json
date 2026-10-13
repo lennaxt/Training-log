@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-10-13T10:37:50+00:00",
+ "updated": "2026-10-13T20:41:36+00:00",
  "items": [
+  {
+   "t": "Trump-Gegnerin Ilhan Omar: Hausdurchsuchung kurz vor den Wahlen",
+   "s": "Die somalischstämmige Abgeordnete Ilhan Omar wird regelmäßig von US-Präsident Donald Trump beleidigt. Hat er die Justiz instrumentalisiert, um sie einzuschüchtern?",
+   "u": "https://taz.de/Trump-Gegnerin-Ilhan-Omar/!6221251/",
+   "q": "taz",
+   "d": "2026-10-13T14:32:00+00:00"
+  },
+  {
+   "t": "Elon Musk finanziert US-Wahlkampf: Eine Viertelmilliarde Dollar für die Republikaner",
+   "s": "Tesla-Chef Elon Musk hat vor den Midterm-Wahlen rund 276 Millionen US-Dollar an die Republikaner gespendet – die bisher größte Spende an Trumps Partei in diesem Wahlkampf.",
+   "u": "https://taz.de/Parteispende-von-Elon-Musk/!6221344/",
+   "q": "taz",
+   "d": "2026-10-13T13:13:00+00:00"
+  },
   {
    "t": "Trump und die Midterms: Schnell noch mal rund um sich schlagen",
    "s": "Der US-Präsident wird zusehends nervös und er hat gute Gründe dafür. Weder für sein Umfeld noch für den Rest der Welt verheißt das Gutes.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/USA/!6217961/",
    "q": "taz",
    "d": "2026-10-01T08:57:00+00:00"
-  },
-  {
-   "t": "Hinrichtung in Tennessee abgebrochen: Sie überlebte zwei Giftspritzen",
-   "s": "Zunächst stoppt ein Gericht die erste Hinrichtung einer Frau seit mehr als 200 Jahren in dem US‑Südstaat. Die Vollstreckung folgt – und scheitert.",
-   "u": "https://taz.de/Hinrichtung-in-Tennessee-abgebrochen/!6217930/",
-   "q": "taz",
-   "d": "2026-10-01T05:18:00+00:00"
-  },
-  {
-   "t": "Todesstrafe in den USA: Hinrichtung in Tennessee kurz vorher gestoppt",
-   "s": "In dem US-Bundesstaat sollte mit Christa Pike zum ersten Mal seit über 200 Jahren eine Frau exekutiert werden. Doch ein Gericht stoppte die Vollstreckung kurz zuvor.",
-   "u": "https://taz.de/Todesstrafe-in-den-USA/!6217574/",
-   "q": "taz",
-   "d": "2026-09-30T15:47:00+00:00"
   }
  ]
 }

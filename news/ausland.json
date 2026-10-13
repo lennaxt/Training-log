@@ -1,17 +1,87 @@
 {
  "name": "Ausland",
- "updated": "2026-10-13T10:37:46+00:00",
+ "updated": "2026-10-13T20:41:31+00:00",
  "items": [
   {
+   "t": "Papst Leo XIV. hat Lungenkrebs",
+   "s": "Auf Anraten der Ärzte hatte sich Papst Leo XIV. einer Lungenoperation unterzogen. Laut Angaben des Vatikan habe sich dabei die vermutete Diagnose eines Lungenkarzinoms bestätigt. Die Operation habe der Heilige Vater gut überstanden.",
+   "u": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T20:40:06+00:00"
+  },
+  {
+   "t": "40 Jahre Gefängnis für Angeklagten in Tupac-Prozess",
+   "s": "Gut 30 Jahre nach dem Mord an US-Rapper Tupac Shakur ist der frühere Gang-Anführer Duane Davis zu 40 Jahren Haft verurteilt worden. Im September hatte ihn eine Jury für schuldig befunden, den Mord organisiert zu haben.",
+   "u": "https://www.tagesschau.de/ausland/angeklagter-tupac-40-jahre-haft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T20:13:11+00:00"
+  },
+  {
+   "t": "Cyberattacken auf Hunderte französische Supermärkte",
+   "s": "Bei einem Cyberangriff sind die Tiefkühlsysteme Hunderter französischer Supermärkte lahmgelegt worden. Frankreichs Finanzminister spricht von einem \"Weckruf an alle\". Auch das deutsche Bundesamt für Sicherheit ist alarmiert.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T18:37:01+00:00"
+  },
+  {
+   "t": "US-Botschafterin in Athen tritt auf Druck der US-Regierung zurück",
+   "s": "Die US-Botschafterin in Athen, Guilfoyle, ist zurückgetreten. Zuvor hatte die US-Regierung sie wegen angeblichen Fehlverhaltens dazu aufgefordert. Es geht unter anderem um Kreditkartenschulden von 100.000 US-Dollar.",
+   "u": "https://www.tagesschau.de/ausland/europa/us-botschaft-athen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T18:02:23+00:00"
+  },
+  {
+   "t": "Wirtschaft im Jemen: Waffen statt Honig und Fisch",
+   "s": "Der Krieg im Jemen bedroht nicht nur eine der wichtigsten Handelsrouten der Welt, sondern auch die lokale Wirtschaft. Viele Existenzen sind bedroht, die mögliche Teilung des Landes in Nord und Süd wird diskutiert. Von Ramin Sina.",
+   "u": "https://www.tagesschau.de/ausland/asien/jemen-krieg-alltag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T18:00:34+00:00"
+  },
+  {
+   "t": "Schwarzes Meer: Bulgarien nennt Drohnenangriffe \"absolut inakzeptabel\"",
+   "s": "Es ist der zweite Vorfall innerhalb einer Woche: Wieder wurden Schiffe vor Bulgariens Küste von Drohnen attackiert. Die Regierung bestellte die russische Botschafterin ein. Experten sehen eine konkrete Gefahr für Europas Sicherheit. Von Silke Hahne.",
+   "u": "https://www.tagesschau.de/ausland/schwarzes-meer-schiffe-drohnen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T17:34:06+00:00"
+  },
+  {
+   "t": "Landesweite Demonstrationen: Frankreichs Schüler lassen nicht locker",
+   "s": "Ihre Forderungen sind bekannt: bessere Lernbedingungen. Wieder sind in Frankreich deswegen Schulen blockiert, wieder waren mehr als 160.000 Schüler zum Protest auf der Straße. Die Zugeständnisse der Politik sind ihnen bislang zu gering.",
+   "u": "https://www.tagesschau.de/ausland/frankreich-schueler-studenten-proteste-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T15:54:56+00:00"
+  },
+  {
+   "t": "Ungarn streicht Anti-LGBTQ-Regeln aus Orbans Kinderschutzgesetz",
+   "s": "Bücher in schwarzer Folie, bestimmte Filme und Pride-Paraden verboten: Jahrelang schränkte Ungarn die Rechte sexueller Minderheiten ein. Nun vollzieht die neue Regierung eine Kehrtwende.",
+   "u": "https://www.tagesschau.de/ausland/europa/ungarn-kippt-umstrittenes-anti-lgbtq-gesetz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T15:10:25+00:00"
+  },
+  {
+   "t": "Königspaar zu Besuch - Spanien will Unterstützung für Ceuta zeigen",
+   "s": "Spanien will nach dem Migrantenansturm Unterstützung für die Exklave Ceuta zeigen. Zum ersten Mal seit fast 20 Jahren kommt der König zu Besuch. Das royale Programm streift das Thema Migration aber nur.",
+   "u": "https://www.tagesschau.de/ausland/europa/ceuta-besuch-koenigspaar-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T14:08:51+00:00"
+  },
+  {
+   "t": "Türkische Regierung erhöht Druck auf Medien im Internet",
+   "s": "Die türkische Regierung erhöht den Druck auf Medien im Internet. Allein im September ordnete sie Sperren gegen knapp 1.300 X-Accounts an. Betroffene Redaktionen kämpfen darum, ihre Leser weiter zu erreichen. Von Antonia Rüller.",
+   "u": "https://www.tagesschau.de/ausland/asien/internetsperren-tuerkei-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T10:45:36+00:00"
+  },
+  {
    "t": "Spaniens König in Ceuta: Spuren beseitigt, Problem weggeschoben",
-   "s": "Der spanische König besucht für zwei Tage die Enklave Ceuta. Vor seiner Anreise wurden Strände und Straßen geräumt, wo Migranten über Wochen ausgeharrt hatten. Was also wird Felipe VI. in Ceuta sehen können? Von F. Welz.",
+   "s": "Der spanische König besucht für zwei Tage die Exklave Ceuta. Vor seiner Anreise wurden Strände und Straßen geräumt, wo Migranten über Wochen ausgeharrt hatten. Was also wird Felipe VI. in Ceuta sehen können? Von F. Welz.",
    "u": "https://www.tagesschau.de/ausland/afrika/spanien-marokko-besuch-felipe-ceuta-100.html",
    "q": "Tagesschau",
    "d": "2026-10-13T09:24:42+00:00"
   },
   {
    "t": "Schwarzes Meer: Erneut Frachter vor bulgarischer Küste gesunken",
-   "s": "Vor Bulgariens Küste sind wieder Handelsschiffe von Drohnen getroffen worden. Bei dem Angriff sank ein Frachter, mehrere Seeleute werden vermisst. Die bulgarische Regierung verdächtigt Russland und schaltet die NATO ein.",
+   "s": "Vor Bulgariens Küste sind wieder Handelsschiffe von Drohnen getroffen worden. Bei dem Angriff sank ein Frachter, mehrere Seeleute werden vermisst. Die bulgarische Regierung verdächtigt Russland und schaltete die NATO ein.",
    "u": "https://www.tagesschau.de/ausland/europa/drohnenangriff-frachter-schwarzes-meer-100.html",
    "q": "Tagesschau",
    "d": "2026-10-13T09:17:24+00:00"
@@ -67,7 +137,7 @@
   },
   {
    "t": "Israel verweigert taz-Korrespondentin die Einreise",
-   "s": "Offenbar in Verbindung mit ihrer kritischen Berichterstattung verweigert Israel der taz-Journalistin Bilanceri die Einreise. Sie spricht von einer schlechten Nachricht für die Pressefreiheit. Auch israelische Kollegen sind besorgt. Von J.-C. Kitzler.",
+   "s": "Nach kritischer Berichterstattung verweigert Israel der taz-Journalistin Bilanceri die Einreise. Sie spricht von einer schlechten Nachricht für die Pressefreiheit. Auch israelische Kollegen sind besorgt. Von J.-C. Kitzler.",
    "u": "https://www.tagesschau.de/ausland/asien/israel-pressefreiheit-korrespondentin-taz-einreise-verweigert-100.html",
    "q": "Tagesschau",
    "d": "2026-10-12T16:08:10+00:00"
@@ -99,76 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
    "q": "Tagesschau",
    "d": "2026-10-12T06:38:55+00:00"
-  },
-  {
-   "t": "US-Senatoren kritisieren Trumps Diesel-Pläne als rechtswidrig",
-   "s": "Der von Präsident Trump angekündigte Import von russischem Diesel in die USA hat weltweit für harsche Kritik gesorgt. Auch im US-Kongress regt sich zunehmend Widerstand - nicht nur auf Seiten der Demokraten.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kritik-diesellieferung-russland-trump-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T05:40:02+00:00"
-  },
-  {
-   "t": "Nordkorea feuert offenbar erneut ballistische Raketen ab",
-   "s": "Die Spannungen auf der koreanischen Halbinsel haben in jüngster Zeit wieder zugenommen. Nun führte Nordkorea laut Angaben aus Südkorea und Japan erneut einen Raketentest durch. Die Geschosse landeten im Meer.",
-   "u": "https://www.tagesschau.de/ausland/asien/suedkorea-nordkorea-raketen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T04:39:12+00:00"
-  },
-  {
-   "t": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
-   "s": "Noch ist vieles im Unklaren, aber die Sorge scheint groß. Offenbar hat die polnische Polizei konkrete Hinweise auf Anschlagspläne auf Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz. Ein Mann wurde festgenommen.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T20:11:03+00:00"
-  },
-  {
-   "t": "Angriffe auf Saudi-Arabien: Huthi drohen mit weiterer Eskalation",
-   "s": "Nach dem schweren Angriff auf den Flughafen von Riad droht die Huthi-Miliz mit einer weiteren Eskalation. Saudi-Arabien fühlt sich vom Partner USA im Stich gelassen und sucht neue Verbündete. Von Anna Osius.",
-   "u": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T17:50:11+00:00"
-  },
-  {
-   "t": "Trump meldet \"Energie-Waffenruhe\" zwischen Russland und Ukraine",
-   "s": "Laut US-Präsident Trump gibt es eine \"Energie-Waffenruhe\" zwischen Russland und der Ukraine. Sie trete mit sofortiger Wirkung in Kraft, erklärte er auf seiner Plattform Truth Social. Eine Bestätigung aus Kiew oder Moskau liegt bislang nicht vor.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T17:31:38+00:00"
-  },
-  {
-   "t": "Auf der Flucht: Viele Tote bei Schiffsunglück vor Dschibuti",
-   "s": "Vor der Küste Dschibutis hat sich ein schweres Unglück ereignet. Mehr als hundert Menschen kamen ums Leben. Ebenso viele werden noch vermisst. Sie hatten sich ein besseres Leben auf der arabischen Halbinsel erhofft.",
-   "u": "https://www.tagesschau.de/ausland/afrika/schiffsungueck-dschibuti-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T14:32:56+00:00"
-  },
-  {
-   "t": "Selenskyj will Angriffe auf russische Raffinerien fortsetzen",
-   "s": "Nach Trumps Drohungen gegen den ukrainischen Präsidenten hat Selenskyj nun reagiert - und angekündigt, die Angriffe auf russische Ölraffinerien fortzusetzen. Ein Ende sei nur möglich, wenn auch Russland seine Attacken einstelle.",
-   "u": "https://www.tagesschau.de/ausland/europa/trump-selenskyj-russland-reaktion-raffinerien-angriffe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T14:22:07+00:00"
-  },
-  {
-   "t": "Nach Senderboykott: US-Justiz prüft Verstoß gegen Kartellrecht",
-   "s": "Mehrere US-Sender hatten vorübergehend die Berichterstattung über US-Präsident Trump eingestellt, weil er einzelne Medien aus dem Weißen Haus ausgeschlossen hatte. Jetzt prüft das Justizministerium rechtliche Schritte gegen sie.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-medien-us-sender-cnn-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T11:23:58+00:00"
-  },
-  {
-   "t": "Angriff auf Yandex: Ukraine legt \"russisches Google\" lahm",
-   "s": "Zum dritten Mal innerhalb von vier Tagen ist der russische Technologie- und KI-Konzern Yandex Ziel eines ukrainischen Drohnenangriffs geworden. Das Rechenzentrum in der Region Wladimir musste vollständig abgeschaltet werden.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-yandex-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T10:53:06+00:00"
-  },
-  {
-   "t": "Huthi-Angriff auf Flughafen Riad: Albtraum am Abflug-Gate",
-   "s": "Ein Einschlag mitten im Terminal: Der jüngste Raketenangriff am Flughafen Riad ist der schwerste auf Saudi-Arabien seit Beginn des Iran-Kriegs. Augenzeugen berichten von Panik und vielen Opfern. Greifen jetzt die USA ein? Von Anna Osius.",
-   "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T10:39:51+00:00"
   }
  ]
 }
