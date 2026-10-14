@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-14T08:44:38+00:00",
+ "updated": "2026-10-14T14:31:14+00:00",
  "items": [
+  {
+   "t": "Sorge um Papst Leo XIV. nach Lungenkrebs-Diagnose",
+   "s": "Papst Leo XIV. ist wegen einer Krebserkrankung an der Lunge operiert worden. Dem 71-Jährigen sei am Dienstag der untere Lappen des rechten Lungenflügels entfernt worden, teilte der Vatikan mit.",
+   "u": "https://www.tagesschau.de/video/video-1666086.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T13:53:48+00:00"
+  },
   {
    "t": "Wechseljahre verändern Körper laut neuer Studie früher als gedacht",
    "s": "Hitzewallungen, Schlafstörungen oder Gewichtszunahme - die Symptome der Wechseljahre sind vielfältig. Eine neue Studie zeigt nun: Diese Phase beginnt früher als gedacht und bringt massive Veränderungen mit sich. Von Veronika Simon.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1658858.html",
    "q": "Tagesschau",
    "d": "2026-10-01T15:18:48+00:00"
-  },
-  {
-   "t": "Folge des Klimawandels: Schweizer Gletscher schmelzen schneller",
-   "s": "Folge des Klimawandels: Schweizer Gletscher schmelzen schneller",
-   "u": "https://www.tagesschau.de/video/video-1658806.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T14:11:25+00:00"
   }
  ]
 }

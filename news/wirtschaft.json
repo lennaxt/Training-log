@@ -1,7 +1,56 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-14T08:44:38+00:00",
+ "updated": "2026-10-14T14:31:14+00:00",
  "items": [
+  {
+   "t": "Künstliche Intelligenz: Was bedeutet die neue KI-Welt für Unternehmen?",
+   "s": "Kostendruck durch teure Energie, hohe Arbeitskosten und geopolitische Krisen - die Stimmung von Unternehmen in Deutschland ist getrübt. Welchen Einfluss haben in dieser Zeit die Veränderungen durch Künstliche Intelligenz? Von Anna Knake.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-unternehmen-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T14:04:50+00:00"
+  },
+  {
+   "t": "Wärmepumpen dominieren den Heizungsmarkt - \"Öl ist praktisch tot\"",
+   "s": "Seit Jahren sind Wärmepumpen ein Reizthema in der Politik. Trotz ständig wechselnder gesetzlicher Vorgaben boomt das Geschäft mit den klimafreundlicheren Heizungen. Möglich machen das auch massive Subventionen. Von Axel John.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/waermepumpen-bilanz-heizen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T11:28:13+00:00"
+  },
+  {
+   "t": "Einigung in der Koalition: So soll die Zuckersteuer aussehen",
+   "s": "Der Streit in der schwarz-roten Koalition über die Steuer auf zuckergesüßte Getränke ist beigelegt. Das Kabinett hat einen Regelungsvorschlag beschlossen. Was geplant ist und was die Regierung damit erreichen will.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-einigung-folgen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T10:32:28+00:00"
+  },
+  {
+   "t": "Chinas Handelsüberschuss nähert sich der Billionen-Dollar-Marke",
+   "s": "Chinas Exporte sind im September überraschend stark gestiegen. Der Handelsüberschuss der Volksrepublik könnte in diesem Jahr ein historisches Hoch erreichen. Vor allem Halbleiter und Autos treiben das Wachstum an.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-handelsueberschuss-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T10:24:16+00:00"
+  },
+  {
+   "t": "Verurteilter Signa-Gründer Benko darf in den Hausarrest wechseln",
+   "s": "Der wegen Betrugs verurteilte österreichische Investor René Benko darf das Gefängnis vorerst verlassen. Er soll sich mit einer Fußfessel im Hausarrest auf seinen neuen Prozess vorbereiten können.",
+   "u": "https://www.tagesschau.de/ausland/benko-fussfessel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T09:48:39+00:00"
+  },
+  {
+   "t": "Bundesregierung einigt sich bei Zuckersteuer auf Zwei-Stufen-Modell",
+   "s": "Nach der Einigung von Union und SPD zur Zuckersteuer hat das Bundeskabinett den entsprechenden Gesetzesentwurf auf den Weg gebracht. Ab dem 1. Juli 2027 soll ein Zwei-Stufen-Modell gelten - abhängig vom Zuckeranteil.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T09:44:37+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX startet höher",
+   "s": "Der DAX ist mit leichten Aufschlägen in den Tag gestartet. Die Hoffnungen liegen weiter auf der anlaufenden Berichtssaison. Wichtige Inflationsdaten werden am Nachmittag erwartet.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T08:46:15+00:00"
+  },
   {
    "t": "Update Wirtschaft vom 14.10.2026",
    "s": "Update Wirtschaft vom 14.10.2026",
@@ -15,20 +64,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html",
    "q": "Tagesschau",
    "d": "2026-10-14T06:59:05+00:00"
-  },
-  {
-   "t": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
-   "s": "Die Bundesregierung hat sich nach Angaben aus dem Finanzministerium beim Thema Zuckersteuer geeinigt. Einzelheiten sollen demnächst vorgestellt werden. Laut Medienberichten soll ab 1. Juli 2027 ein Zwei-Stufen-Modell gelten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T05:52:51+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX leicht höher gesehen",
-   "s": "In Asien erholen sich die Technologiewerte wieder, was auch den DAX entlasten dürfte. Der deutsche Leitindex dürfte leicht höher in den Tag starten.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T05:35:03+00:00"
   },
   {
    "t": "Finnland: KI-Boom auf Kosten der Natur?",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nobelpreis-wirtschaft-146.html",
    "q": "Tagesschau",
    "d": "2026-10-12T11:06:56+00:00"
-  },
-  {
-   "t": "Weitere Stufe des PFAS-Verbots in Kraft getreten",
-   "s": "Sie stecken in Bekleidung, Cremes oder Fast-Food-Kartons: PFAS. Doch die \"Ewigkeitschemikalien\" stehen im Verdacht, den Körper zu schädigen. Weitere PFAS-Produkte sind nun in der EU verboten. Von Juri Sonnenholzner.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/ewigkeitschemikalien-pfas-verbot-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T11:05:06+00:00"
-  },
-  {
-   "t": "Briefporto 2027: Standardbrief könnte 1,14 Euro kosten",
-   "s": "Ein Brief für mehr als einen Euro? Das könnte bald Realität werden. Die Post soll laut der Bundesnetzagentur ihre Preise kräftig erhöhen dürfen, auch für Pakete. Was dahintersteckt und wie teuer es werden könnte.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-post-preisanpassung-entwurf-bundesnetzagentur-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T09:54:11+00:00"
-  },
-  {
-   "t": "Was hinter der aktuellen Euro-Schwäche steckt",
-   "s": "Politische Unsicherheiten in Frankreich und Spanien bringen den Euro unter Druck. Dazu kommen Sorgen wegen der hohen Staatsschulden in Europa. Was bedeutet das für Europas Gemeinschaftswährung? Von Claudia Wehrle.",
-   "u": "https://www.tagesschau.de/wirtschaft/devisen-euroschwaeche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T08:17:50+00:00"
-  },
-  {
-   "t": "Erbschaftsteuer beim Bundesverfassungsgericht auf dem Prüfstand",
-   "s": "Am Bundesverfassungsgericht geht es diese Woche gleich zwei Mal um die Erbschaftsteuer: Karlsruhe verhandelt unter anderem darüber, ob Unternehmenserben zu wenig Steuern zahlen. Von A. Stein und A. Lagmöller.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/erbschaftssteuer-bundesverfassungsgericht-verhandlung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T03:01:19+00:00"
-  },
-  {
-   "t": "Warnsystem gegen Deepfakes: Tom Cruise in der Teams-Schalte",
-   "s": "Videokonferenzen sind in Unternehmen längst Alltag. Doch in Zeiten von KI und Deepfakes geraten sie zunehmend in den Fokus von Cyberkriminellen. Forschende haben nun ein Warnsystem entwickelt. Von Stefan Venator.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/fake-videokonferenzen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T14:24:52+00:00"
   }
  ]
 }

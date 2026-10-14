@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-14T08:44:41+00:00",
+ "updated": "2026-10-14T14:31:18+00:00",
  "items": [
+  {
+   "t": "Gewaltsame Festnahmen in USA: Die Tricks der Abschiebepolizei, um Widerstand zu vermeiden",
+   "s": "Die US-Einwanderungspolizei ICE rief in den Städten massiven Widerstand hervor. Nun operiert die Behörde dezentral. Tausende sind betroffen.",
+   "u": "https://taz.de/Gewalt-der-US-Abschiebepolizei/!6221488/",
+   "q": "taz",
+   "d": "2026-10-14T12:49:00+00:00"
+  },
   {
    "t": "Peruaner im Ukrainekrieg: Als Kanonenfutter nach Russland geködert",
    "s": "Russland lockt Peruaner mit falschen Jobangeboten in den Ukrainekrieg. Viele werden vermisst, ihre Familien haben kaum Chancen, sie zu finden.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Hinrichtung-von-Frau-in-Tennessee/!6218447/",
    "q": "taz",
    "d": "2026-10-02T07:17:00+00:00"
-  },
-  {
-   "t": "Q&A zur Todesstrafe in den USA: Wie oft gehen Hinrichtungen schief?",
-   "s": "Nach zwei Dosen der Giftspritze lebte die zum Tode verurteilte Christa Pike noch. Nicht das erste Mal, dass in den USA Hinrichtungen misslingen.",
-   "u": "https://taz.de/QA-zur-Todesstrafe-in-den-USA/!6218375/",
-   "q": "taz",
-   "d": "2026-10-01T17:47:00+00:00"
   }
  ]
 }

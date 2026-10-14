@@ -1,7 +1,42 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-14T08:44:39+00:00",
+ "updated": "2026-10-14T14:31:15+00:00",
  "items": [
+  {
+   "t": "Deutsch-Israelische Gesellschaft: „Boykottiert die Boykotteure!“",
+   "s": "Die Deutsch-Israelische Gesellschaft feierte ihren 60. Geburtstag im Roten Rathaus. Eine Koalition in Berlin unter Führung der Linkspartei lehnt sie ab.",
+   "u": "https://taz.de/Deutsch-Israelische-Gesellschaft/!6221631/",
+   "q": "taz",
+   "d": "2026-10-14T12:52:00+00:00"
+  },
+  {
+   "t": "Sondierungsgespräche: Berliner Grüne wollen doch wieder reden, die SPD zögert",
+   "s": "Nach dem Stopp der Sondierungen sind sich Grüne, SPD und Linke in Berlin uneins, wer welche Abmachung gebrochen haben soll. Die Grünen geben sich wieder gesprächsbereit.",
+   "u": "https://taz.de/Sondierungsgespraeche-in-Berlin/!6221551/",
+   "q": "taz",
+   "d": "2026-10-14T11:43:00+00:00"
+  },
+  {
+   "t": "Besteuerung von Unternehmenserben: Absurde Bevorzugung",
+   "s": "Weil die Erbschaftsteuer beim Erben großer Unternehmen sehr hoch wäre, werden Er­b:in­nen meist völlig verschont. Die Besserstellung ist nicht vermittelbar.",
+   "u": "https://taz.de/Besteuerung-von-Unternehmenserben/!6221497/",
+   "q": "taz",
+   "d": "2026-10-14T10:50:00+00:00"
+  },
+  {
+   "t": "Kampf gegen Übergewicht: Bundesregierung will Zuckersteuer auf Getränke ab Mitte 2027",
+   "s": "Das Kabinett beschließt einen Entwurf mit weniger Einnahmen als bisher vom Finanzministerium geplant. Kleine Hersteller sollen verschont werden.",
+   "u": "https://taz.de/Kampf-gegen-Uebergewicht/!6221575/",
+   "q": "taz",
+   "d": "2026-10-14T10:29:00+00:00"
+  },
+  {
+   "t": "Sondierungsstopp in Berlin: Wer hat Angst vorm Linksbündnis?",
+   "s": "Zwar sind die Sondierungen noch nicht abgebrochen. Doch SPD und Grüne haben in einem Maße eskaliert, dass ein Zusammenkommen kaum mehr möglich scheint.",
+   "u": "https://taz.de/Sondierungsstopp-in-Berlin/!6221494/",
+   "q": "taz",
+   "d": "2026-10-14T09:02:00+00:00"
+  },
   {
    "t": "Behindertengleichstellungsgesetz: Barrierefreiheit wird verschleppt",
    "s": "Die SPD wirft der Union vor, die Reform des Behindertengleichstellungsgesetzes zu blockieren. Die Union bestreitet das. Warum geht es nicht voran?",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Personalwechsel-in-der-SPD/!6220961/",
    "q": "taz",
    "d": "2026-10-12T17:55:00+00:00"
-  },
-  {
-   "t": "Landtag Sachsen-Anhalt: Die kuschelnde Querfront",
-   "s": "In Sachsen-Anhalt rücken AfD und BSW zusammen und sorgen mit einer Sondersitzung für Kritik. Die CDU überlegt bei Siegmund-Wahl, den Saal zu verlassen.",
-   "u": "https://taz.de/Landtag-Sachsen-Anhalt/!6220858/",
-   "q": "taz",
-   "d": "2026-10-12T17:54:00+00:00"
-  },
-  {
-   "t": "Erbschaftsteuer vor Gericht: Bayern allein gegen alle",
-   "s": "Die bayerische Staatsregierung will vor dem Bundesverfassungsgericht die Regionalisierung der Erbschaftsteuer durchsetzen. Kein anderes Bundesland zieht mit.",
-   "u": "https://taz.de/Erbschaftsteuer-vor-Gericht/!6220802/",
-   "q": "taz",
-   "d": "2026-10-12T17:54:00+00:00"
-  },
-  {
-   "t": "Preise für Israel-Kritiker: Zwei Ohrfeigen für Deutschland",
-   "s": "Die Buchpreis-Rede von Philippe Sands und der Friedensnobelpreis an Navi Pillay zeigen: Die Bundesregierung steht zunehmend allein da.",
-   "u": "https://taz.de/Mehrere-renommierte-Preise-fuer-Israel-Kritiker-zeigen-Die-Bundesregierung-steht-zunehmend-allein-da/!6220844/",
-   "q": "taz",
-   "d": "2026-10-12T17:53:00+00:00"
-  },
-  {
-   "t": "CDU bespricht Wahlniederlagen: Alter Wein in neuen Schläuchen",
-   "s": "Zwei Tage nahm sich das CDU-Präsidium, um Schlüsse aus den Wahlniederlagen zu ziehen. Neue Erkenntnisse? Kaum. Aber eine neue Steuersenkung",
-   "u": "https://taz.de/CDU-bespricht-Wahlniederlagen/!6220864/",
-   "q": "taz",
-   "d": "2026-10-12T15:56:00+00:00"
-  },
-  {
-   "t": "Neue Regeln für Schöf­f:in­nen: Hubig macht Justizschotten dicht",
-   "s": "Rechtsextreme Gruppen rufen immer wieder dazu auf, Schöf­f:in­nen­äm­ter zu besetzen. Dem will das Justizministerium nun einen Riegel vorschieben.",
-   "u": "https://taz.de/Neue-Regeln-fuer-Schoeffinnen/!6220862/",
-   "q": "taz",
-   "d": "2026-10-12T15:23:00+00:00"
   }
  ]
 }

@@ -1,7 +1,35 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-14T08:44:40+00:00",
+ "updated": "2026-10-14T14:31:17+00:00",
  "items": [
+  {
+   "t": "Kyjiw rüstet sich für Winter: Vitali Klitschko muss sich gegen Vorwürfe wehren",
+   "s": "Kyjiws Bürgermeister Klitschko kritisiert die ukrainische Regierung scharf. Nun steht er selbst unter Druck – wegen mangelnder Vorbereitungen auf den Winter.",
+   "u": "https://taz.de/Kyjiw-ruestet-sich-fuer-Winter/!6221490/",
+   "q": "taz",
+   "d": "2026-10-14T14:02:00+00:00"
+  },
+  {
+   "t": "Nach Starlink-Anschlag in Polen: Brand an Starlink-Antennen auch in Bulgarien",
+   "s": "Anlagen des Satellitendienstes Starlink sind wohl zu Zielen von Saboteuren geworden. Sofia meldet jetzt ebenfalls einen Brand in einer Anlage.",
+   "u": "https://taz.de/Nach-Starlink-Anschlag-in-Polen/!6221692/",
+   "q": "taz",
+   "d": "2026-10-14T13:49:00+00:00"
+  },
+  {
+   "t": "Drohnen auf Rechenzentren: Angriffe auf IT-Riesen schaden Russland schwer",
+   "s": "Die Drohnenangriffe auf den Internetkonzern Yandex haben schwere Folgen für die russische Wirtschaft. Vieles im Alltag ist eingeschränkt.",
+   "u": "https://taz.de/Drohnen-auf-Rechenzentren/!6221510/",
+   "q": "taz",
+   "d": "2026-10-14T10:35:00+00:00"
+  },
+  {
+   "t": "Razzien gegen Queers in der Türkei: Finsternis am Bosporus",
+   "s": "Einst galt Istanbul als Kunstmetropole. Doch durch staatliche Repressionen unter Erdoğan kann gerade queere Kunst kaum mehr stattfinden.",
+   "u": "https://taz.de/Razzien-gegen-Queers-in-der-Tuerkei/!6221210/",
+   "q": "taz",
+   "d": "2026-10-14T08:58:00+00:00"
+  },
   {
    "t": "E-Scooter in Georgien: Roller für Tblissi, Daten für Moskau",
    "s": "Der russische Technologiegigant Yandex betreibt in Georgien den Verleih von E-Scootern und andere Mobilitätsangebote. Putins Geheimdienst fährt mit.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Anschlagsplaene-in-Polen/!6220758/",
    "q": "taz",
    "d": "2026-10-11T13:52:00+00:00"
-  },
-  {
-   "t": "Senats- und Kommunalwahlen in Tschechien: Denkzettel für Andrej Babiš",
-   "s": "Im ersten Stimmungstest seit der Regierungsübernahme Ende letzten Jahres bleibt Tschechiens Regierungspartei ANO deutlich unter den Erwartungen.",
-   "u": "https://taz.de/Senats--und-Kommunalwahlen-in-Tschechien/!6220544/",
-   "q": "taz",
-   "d": "2026-10-11T11:36:00+00:00"
-  },
-  {
-   "t": "Trumps Ukraine-Politik: US-Präsident spricht von „Energie-Waffenruhe“",
-   "s": "Trump schließt mit Putin einen Diesel-Deal – und attackiert den ukrainischen Präsidenten hart. Fragezeichen über mögliche „Energie-Waffenruhe“.",
-   "u": "https://taz.de/Diesel-Deal-mit-Putin/!6220524/",
-   "q": "taz",
-   "d": "2026-10-11T07:57:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Trump-Deal empört Ukraine",
-   "s": "Der US-Präsident erlaubt eine Öllieferung aus Russland. Außerdem drängt er auf eine Absetzung Selenskyjs. Die ukrainische Regierung weist diese Forderung zurück und kriegt Unterstützung aus der EU.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6220522/",
-   "q": "taz",
-   "d": "2026-10-11T07:26:00+00:00"
-  },
-  {
-   "t": "Schulproteste in Frankreich: Auf den Barrikaden",
-   "s": "Die Proteste einer schnell wachsenden Be­we­gung von Schü­le­r*in­nen erschüttern ganz Frankreich. Polizei und Regierung heizen die Wut weiter an.",
-   "u": "https://taz.de/Schulproteste-in-Frankreich/!6216569/",
-   "q": "taz",
-   "d": "2026-10-10T11:12:00+00:00"
   }
  ]
 }
