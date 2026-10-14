@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-14T00:18:48+00:00",
+ "updated": "2026-10-14T08:44:40+00:00",
  "items": [
+  {
+   "t": "E-Scooter in Georgien: Roller für Tblissi, Daten für Moskau",
+   "s": "Der russische Technologiegigant Yandex betreibt in Georgien den Verleih von E-Scootern und andere Mobilitätsangebote. Putins Geheimdienst fährt mit.",
+   "u": "https://taz.de/E-Scooter-in-Georgien/!6212058/",
+   "q": "taz",
+   "d": "2026-10-14T08:14:00+00:00"
+  },
+  {
+   "t": "Raketen treffen Kyjiw ohne Warnung: Während sie schliefen",
+   "s": "Wieder explodieren russische Raketen in Kyjiw. Bürgermeister Klitschko spricht von mehreren Opfern – und einer gezielten Kampagne gegen ihn.",
+   "u": "https://taz.de/Waehrend-sie-schliefen-Raketen-treffen-Kyjiw-ohne-Warnung/!6221481/",
+   "q": "taz",
+   "d": "2026-10-14T06:20:00+00:00"
+  },
   {
    "t": "Zum Nord-Stream-Prozess: „Im Krieg dürfen zivile Objekte nicht angegriffen werden“",
    "s": "Der Prozess um einen Ukrainer, der die Sprengung der Nord-Stream-Pipelines organisiert haben soll, beginnt. Völkerrechtler Kai Ambos erklärt die Anklage.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Schulproteste-in-Frankreich/!6216569/",
    "q": "taz",
    "d": "2026-10-10T11:12:00+00:00"
-  },
-  {
-   "t": "Soziologe über Polizei in Frankreich: „Die meisten Verstümmelungen durch Polizeigewalt in Europa“",
-   "s": "Bei den Protesten in Frankreich schockiert die Polizei erneut mit ihrem gewalttätigen Vorgehen – und das gegen Minderjährige. Woran das liegt, erklärt Sebastian Roché.",
-   "u": "https://taz.de/Soziologe-ueber-Polizeigewalt/!6219936/",
-   "q": "taz",
-   "d": "2026-10-09T18:13:00+00:00"
-  },
-  {
-   "t": "Drohnenjagd auf Menschen in Cherson: „Ich hatte Angst, dass mir niemand hilft“",
-   "s": "Ein Elfjähriger überlebt einen Angriff durch eine russische Drohne. Immer wieder werden in der ukrainischen Hafenstadt gezielt Menschen attackiert.",
-   "u": "https://taz.de/Drohnenjagd-auf-Menschen-in-Cherson/!6219516/",
-   "q": "taz",
-   "d": "2026-10-09T18:02:00+00:00"
   }
  ]
 }

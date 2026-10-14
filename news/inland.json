@@ -1,13 +1,62 @@
 {
  "name": "Inland",
- "updated": "2026-10-14T00:18:44+00:00",
+ "updated": "2026-10-14T08:44:36+00:00",
  "items": [
+  {
+   "t": "Grünen-Chefin Brantner befürwortet Stopp der Sondierungen in Berlin",
+   "s": "Die unterbrochenen rot-grün-roten Sondierungsgespräche in Berlin sorgen für Diskussionen über das Rote Rathaus hinaus: Grünen-Chefin Brantner befürwortet den Stopp. Hintergrund ist eine gemeinsame Erklärung zum Umgang mit Antisemitismus.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/sondierungsgespraeche-berlin-spd-linke-gruene-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T08:06:59+00:00"
+  },
+  {
+   "t": "Behindertengleichstellungsgesetz: Barrierefreiheit wird verschleppt",
+   "s": "Die SPD wirft der Union vor, die Reform des Behindertengleichstellungsgesetzes zu blockieren. Die Union bestreitet das. Warum geht es nicht voran?",
+   "u": "https://taz.de/Behindertengleichstellungsgesetz-Warum-geht-es-mit-der-Reform-nicht-voran/!6221306/",
+   "q": "taz",
+   "d": "2026-10-14T06:48:00+00:00"
+  },
+  {
+   "t": "Raketen treffen Kyjiw ohne Warnung: Während sie schliefen",
+   "s": "Wieder explodieren russische Raketen in Kyjiw. Bürgermeister Klitschko spricht von mehreren Opfern – und einer gezielten Kampagne gegen ihn.",
+   "u": "https://taz.de/Waehrend-sie-schliefen-Raketen-treffen-Kyjiw-ohne-Warnung/!6221481/",
+   "q": "taz",
+   "d": "2026-10-14T06:20:00+00:00"
+  },
+  {
+   "t": "Nach langem Hin und Her: Koalition einigt sich auf Zuckersteuer",
+   "s": "Union und SPD wollen eine Steuer auf stark gezuckerte Getränke einführen. Um die Details wurde lange gerungen. Jetzt gibt es eine Einigung.",
+   "u": "https://taz.de/Nach-langem-Hin-und-Her/!6221477/",
+   "q": "taz",
+   "d": "2026-10-14T05:58:00+00:00"
+  },
   {
    "t": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
    "s": "Die Bundesregierung hat sich nach Angaben aus dem Finanzministerium beim Thema Zuckersteuer geeinigt. Einzelheiten sollen demnächst vorgestellt werden. Laut Medienberichten soll ab 1. Juli 2027 ein Zwei-Stufen-Modell gelten.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-13T20:55:26+00:00"
+   "d": "2026-10-14T05:52:51+00:00"
+  },
+  {
+   "t": "Peruaner im Ukrainekrieg: Als Kanonenfutter nach Russland geködert",
+   "s": "Russland lockt Peruaner mit falschen Jobangeboten in den Ukrainekrieg. Viele werden vermisst, ihre Familien haben kaum Chancen, sie zu finden.",
+   "u": "https://taz.de/Peruaner-im-Ukrainekrieg/!6218728/",
+   "q": "taz",
+   "d": "2026-10-14T05:09:00+00:00"
+  },
+  {
+   "t": "Prozessauftakt – Sind die Nord-Stream-Anschläge Kriegsverbrechen?",
+   "s": "Vier Jahre nach den Anschlägen auf die Nord-Stream-Pipelines beginnt der Prozess gegen den mutmaßlichen Täter, ein Offizier der ukrainischen Armee. Ihm wird vorgeworfen, zivile Ziele angegriffen zu haben. Welche Konsequenzen hätte eine Verurteilung?Armbrüster, Tobias",
+   "u": "https://www.deutschlandfunk.de/nordstream-prozess-interview-mit-dem-buch-autor-bojan-pancevski-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-14T04:50:00+00:00"
+  },
+  {
+   "t": "Nord-Stream-Anschlag - ein Prozess mit politischer Dimension",
+   "s": "Rund vier Jahre nach den Anschlägen auf die Nord-Stream-Pipelines beginnt heute in Hamburg der Prozess gegen den angeklagten Ukrainer. Der Prozess dürfte die Debatte über die Ukraine-Hilfen befeuern. Von Christina Nagel.",
+   "u": "https://www.tagesschau.de/inland/prozess-nord-stream-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T04:24:15+00:00"
   },
   {
    "t": "Zum Nord-Stream-Prozess: „Im Krieg dürfen zivile Objekte nicht angegriffen werden“",
@@ -67,7 +116,7 @@
   },
   {
    "t": "Nach Rücktritt von Bas: SPD sucht neue Vorsitzende",
-   "s": "Wer wird künftig an der Doppelspitze der SPD stehen? Klingbeil gilt vielen als Favorit, lässt seine Kandidatur jedoch offen. Pistorius? Schwesig? Rehlinger? Sie alle haben bereits abgesagt - und die Rufe nach einer neuen Aufgabenverteilung werden lauter.",
+   "s": "Wer wird künftig die SPD führen? Klingbeil gilt vielen als Favorit, lässt seine Kandidatur jedoch offen. Pistorius? Schwesig? Rehlinger? Sie alle haben abgesagt oder zumindest vorerst abgewunken. Rufe nach einem Neustart werden lauter.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/spd-debatte-vorsitz-100.html",
    "q": "Tagesschau",
    "d": "2026-10-13T16:33:51+00:00"
@@ -120,55 +169,6 @@
    "u": "https://www.deutschlandfunk.de/erbschaftsteuer-bundesverfassungsgericht-schuelerproteste-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-13T15:00:00+00:00"
-  },
-  {
-   "t": "Kurswechsel in Ungarn: Anti-LGBTIQ+-Gesetze gekippt",
-   "s": "Das ungarische Parlament entschärft Orbáns umstrittenes „Kinderschutzgesetz“. Menschenrechtler loben den Schritt, sehen aber noch entscheidende Lücken.",
-   "u": "https://taz.de/Kurswechsel-in-Ungarn/!6221216/",
-   "q": "taz",
-   "d": "2026-10-13T14:41:00+00:00"
-  },
-  {
-   "t": "Neue Rebellenallianz in der DR Kongo: Expräsident Kabila will „der Tyrannei ein Ende setzen“",
-   "s": "Die M23-Rebellen im Osten der DR Kongo werden Teil einer Allianz unter Expräsident Kabila. Gemeinsam wollen sie Präsident Tshisekedi stürzen.",
-   "u": "https://taz.de/Neue-Rebellenallianz-in-der-DR-Kongo/!6221266/",
-   "q": "taz",
-   "d": "2026-10-13T14:36:00+00:00"
-  },
-  {
-   "t": "Trump-Gegnerin Ilhan Omar: Hausdurchsuchung kurz vor den Wahlen",
-   "s": "Die somalischstämmige Abgeordnete Ilhan Omar wird regelmäßig von US-Präsident Donald Trump beleidigt. Hat er die Justiz instrumentalisiert, um sie einzuschüchtern?",
-   "u": "https://taz.de/Trump-Gegnerin-Ilhan-Omar/!6221251/",
-   "q": "taz",
-   "d": "2026-10-13T14:32:00+00:00"
-  },
-  {
-   "t": "Antisemitismusbeauftragte des Bundes: Eine Adlige für Dobrindt",
-   "s": "Die deutsche EU-Beamtin Katharina von Schnurbein soll neue Antisemitismusbeauftragte des Bundes werden. In Brüssel war sie durchaus umstritten.",
-   "u": "https://taz.de/Antisemitismusbeauftragte-des-Bundes/!6221300/",
-   "q": "taz",
-   "d": "2026-10-13T14:00:00+00:00"
-  },
-  {
-   "t": "Mutmaßlicher Sabotageakt in Polen: Wadephul fordert engere Zusammenarbeit",
-   "s": "Ein mutmaßlicher Sabotageakt in Polen, die Verdächtigen leben in Deutschland: Außenminister Wadephul fordert eine noch engere europäische Zusammenarbeit. Zur Attacke gegen eine Starlink-Station wurden Details bekannt.",
-   "u": "https://www.tagesschau.de/inland/wadephul-polen-starlink-brand-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T13:39:40+00:00"
-  },
-  {
-   "t": "Elon Musk finanziert US-Wahlkampf: Eine Viertelmilliarde Dollar für die Republikaner",
-   "s": "Tesla-Chef Elon Musk hat vor den Midterm-Wahlen rund 276 Millionen US-Dollar an die Republikaner gespendet – die bisher größte Spende an Trumps Partei in diesem Wahlkampf.",
-   "u": "https://taz.de/Parteispende-von-Elon-Musk/!6221344/",
-   "q": "taz",
-   "d": "2026-10-13T13:13:00+00:00"
-  },
-  {
-   "t": "Nach Starlink-Brand in Polen: Drei Sabotage-Verdächtige in Deutschland gefasst",
-   "s": "Im September brannte eine Station des Internetanbieters Starlink in Polen. Nun gab es Festnahmen in Baden-Württemberg und Berlin. Polen geht von Sabotage durch Russland aus.",
-   "u": "https://taz.de/Nach-Feuer-in-Starlink-Station-in-Polen/!6221272/",
-   "q": "taz",
-   "d": "2026-10-13T12:48:00+00:00"
   }
  ]
 }

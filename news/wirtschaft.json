@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-14T00:18:46+00:00",
+ "updated": "2026-10-14T08:44:38+00:00",
  "items": [
+  {
+   "t": "Update Wirtschaft vom 14.10.2026",
+   "s": "Update Wirtschaft vom 14.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1665882.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T07:53:58+00:00"
+  },
+  {
+   "t": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
+   "s": "Die Renditen von US-Staatsanleihen sind so hoch wie seit 24 Jahren nicht mehr. 1981 folgte auf ein solches Hoch eine jahrzehntelange Kursrally am Anleihemarkt. Wiederholt sich die Geschichte? Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T06:59:05+00:00"
+  },
+  {
+   "t": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
+   "s": "Die Bundesregierung hat sich nach Angaben aus dem Finanzministerium beim Thema Zuckersteuer geeinigt. Einzelheiten sollen demnächst vorgestellt werden. Laut Medienberichten soll ab 1. Juli 2027 ein Zwei-Stufen-Modell gelten.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T05:52:51+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX leicht höher gesehen",
+   "s": "In Asien erholen sich die Technologiewerte wieder, was auch den DAX entlasten dürfte. Der deutsche Leitindex dürfte leicht höher in den Tag starten.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T05:35:03+00:00"
+  },
+  {
+   "t": "Finnland: KI-Boom auf Kosten der Natur?",
+   "s": "Google will Milliarden in Finnlands digitale Infrastruktur investieren. Für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet - offenbar ohne die vorgeschriebenen Genehmigungen. Von A. Bartram.",
+   "u": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T00:31:01+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 13.10.2026",
    "s": "Wirtschaft vor acht vom 13.10.2026",
@@ -10,18 +45,18 @@
    "d": "2026-10-13T19:49:10+00:00"
   },
   {
+   "t": "Cyberattacken auf Hunderte französische Supermärkte",
+   "s": "Bei einem Cyberangriff sind die Tiefkühlsysteme Hunderter französischer Supermärkte lahmgelegt worden. Frankreichs Finanzminister spricht von einem \"Weckruf an alle\". Auch das deutsche Bundesamt für Sicherheit ist alarmiert.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T18:37:01+00:00"
+  },
+  {
    "t": "EU bremst Hybrid-Importe: Können deutsche Autobauer profitieren?",
    "s": "Chinesische Autohersteller gewinnen in Europa massiv an Gewicht. Die EU will die Konkurrenz eindämmen. Ein Import-Deckel für Hybridfahrzeuge soll heimische Hersteller stützen. Kann das funktionieren? Von Sebastian Schreiber.",
    "u": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
    "q": "Tagesschau",
    "d": "2026-10-13T18:03:27+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX driftet ins Minus",
-   "s": "Am Ende konnte der DAX sein Plus nicht mehr halten. Neue Sorgen im Chipsektor und ein enttäuschender Start in die Berichtssaison lasteten auf den Kursen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T16:36:06+00:00"
   },
   {
    "t": "Bundesverfassungsgericht zur Erbschaftsteuer: Wie gerecht ist sie?",
@@ -45,13 +80,6 @@
    "d": "2026-10-13T14:33:25+00:00"
   },
   {
-   "t": "Bei diesen drei Themen stockt die Rentenreform",
-   "s": "Nach dem überraschenden Rücktritt von Bundesarbeitsministerin Bas muss ihr Nachfolger Schweitzer die Rentenreform voranbringen - ausgerechnet er, der die Pläne bisher kritisiert hatte. Drei Knackpunkte gilt es zu lösen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-empfehlungen-knackpunkte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T12:26:15+00:00"
-  },
-  {
    "t": "Bahn-Fahrplan: Neue ICE-Sprinter, aber weiter viele Baustellen",
    "s": "Ab diesem Mittwoch lassen sich Tickets für den neuen Bahn-Fahrplan buchen. Zum Wechsel im Dezember fährt ein neuer ICE-Sprinter zwischen Hamburg und München. Baustellen werden weiter für längere Fahrzeiten sorgen.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-fahrplan-zugverkehr-100.html",
@@ -71,13 +99,6 @@
    "u": "https://www.deutschlandfunk.de/erbschaftsteuer-gerechtigkeit-unternehmen-verfassungsgericht-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-13T09:52:00+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 13.10.2026",
-   "s": "Update Wirtschaft vom 13.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1665282.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T07:48:13+00:00"
   },
   {
    "t": "IWF hebt Prognose für deutsche Wirtschaft deutlich an",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/digitales/fake-videokonferenzen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-11T14:24:52+00:00"
-  },
-  {
-   "t": "Nostalgie und Nachhaltigkeit: Ein zweites Leben für die Vespa",
-   "s": "Zu laut, zu schmutzig: Italien verbannt alte Motorroller zunehmend aus den Innenstädten. Was tun, wenn die Vespa zum Garagenhüter wird? Dank Umbau-Kits werden die geliebten Originale zum E-Roller. Von Greta Prünster.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/vespa-e-roller-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-11T03:55:19+00:00"
-  },
-  {
-   "t": "Wie Start-ups in Deutschland trotz Hürden Erfolg haben können",
-   "s": "Ein Berliner KI-Start-up zeigt, wie deutsche Gründer es auf die Weltbühne schaffen. Doch viele aufstrebende Unternehmen werden in ihrem Potenzial immer noch ausgebremst. Dabei gebe es viel Talent, sagt ein Gründer. Von A. Kartschall.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/startup-einhorn-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T13:07:24+00:00"
-  },
-  {
-   "t": "Deutschland bleibt beim Nein zu russischem Öl",
-   "s": "Auch nach Trumps Dieseldeal mit Putin will die Bundesregierung auf russisches Öl verzichten. Die Grünen werfen der US-Regierung Skrupellosigkeit vor. Die Spritpreise in Deutschland reagierten nicht.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/trump-diesel-oelpreis-reaktionen-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-10T12:04:32+00:00"
   }
  ]
 }

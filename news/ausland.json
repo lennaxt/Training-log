@@ -1,13 +1,34 @@
 {
  "name": "Ausland",
- "updated": "2026-10-14T00:18:45+00:00",
+ "updated": "2026-10-14T08:44:36+00:00",
  "items": [
   {
    "t": "Papst Leo XIV. hat Lungenkrebs",
    "s": "Auf Anraten der Ärzte hatte sich Papst Leo XIV. einer Lungenoperation unterzogen. Laut Angaben des Vatikans habe sich dabei die vermutete Diagnose eines Lungenkarzinoms bestätigt. Die Operation habe der Heilige Vater gut überstanden.",
    "u": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-13T21:49:10+00:00"
+   "d": "2026-10-14T08:10:50+00:00"
+  },
+  {
+   "t": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
+   "s": "Eine russische Rakete hat nach Angaben des ukrainischen Präsidenten Selenskyj ein Heizkraftwerk in Kiew getroffen. Wie er mitteilte, hatten die westlichen Verbündeten die Ukraine zuvor nicht vor dem Angriff gewarnt.",
+   "u": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T05:26:14+00:00"
+  },
+  {
+   "t": "Rüstungsindustrie: Engere deutsch-türkische Zusammenarbeit?",
+   "s": "Die Zusammenarbeit bei Waffen- und Rüstungsgütern zwischen Deutschland und der Türkei ist eher gering. In Ankara versuchen Unternehmer nun auf der 4. Deutsch-Türkischen Wirtschaftskonferenz, diese zu vertiefen. Von C. Buttkereit.",
+   "u": "https://www.tagesschau.de/ausland/asien/deutsch-tuerkische-wirtschaftskonferenz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T03:24:11+00:00"
+  },
+  {
+   "t": "Finnland: KI-Boom auf Kosten der Natur?",
+   "s": "Google will Milliarden in Finnlands digitale Infrastruktur investieren. Für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet - offenbar ohne die vorgeschriebenen Genehmigungen. Von A. Bartram.",
+   "u": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T00:31:01+00:00"
   },
   {
    "t": "40 Jahre Gefängnis für Angeklagten in Tupac-Prozess",
@@ -129,13 +150,6 @@
    "d": "2026-10-12T19:49:18+00:00"
   },
   {
-   "t": "EU-Außenminister: Sanktionspaket mit willkommener Nebenwirkung",
-   "s": "Noch nie hat die EU auf einen Schlag so viele Personen und Organisationen wegen des Kriegs gegen die Ukraine auf eine Sanktionsliste gesetzt wie heute. Dass das wie eine Antwort auf Trump wirkt, war nicht geplant, ist aber willkommen. Von K. Schmid.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-neue-sanktionen-russland-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T17:01:25+00:00"
-  },
-  {
    "t": "Israel verweigert taz-Korrespondentin die Einreise",
    "s": "Nach kritischer Berichterstattung verweigert Israel der taz-Journalistin Bilanceri die Einreise. Sie spricht von einer schlechten Nachricht für die Pressefreiheit. Auch israelische Kollegen sind besorgt. Von J.-C. Kitzler.",
    "u": "https://www.tagesschau.de/ausland/asien/israel-pressefreiheit-korrespondentin-taz-einreise-verweigert-100.html",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthis-flughafen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-12T14:32:20+00:00"
-  },
-  {
-   "t": "EU-Außenminister beschließen größte Sanktionsrunde gegen Russland",
-   "s": "Es geht um mehr als 1.600 Personen und Organisationen: Die EU-Außenminister haben neue Sanktionen wegen des russischen Angriffskrieges in der Ukraine beschlossen. Deutliche Kritik gibt es am Vorgehen der USA. Von Tina Hassel.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-aussenministertreffen-120.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T08:33:32+00:00"
-  },
-  {
-   "t": "Russland greift trotz angeblicher \"Energie-Waffenruhe\" weiter Anlagen an",
-   "s": "Russland hat erneut Energieanlagen angegriffen. Die Attacken erfolgten nach der Verkündung einer \"Energie-Waffenruhe\" zwischen Kiew und Moskau durch US-Präsident Trump - die bislang von beiden Seiten nicht bestätigt wurde.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T06:38:55+00:00"
   }
  ]
 }
