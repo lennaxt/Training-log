@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-10-14T14:31:19+00:00",
+ "updated": "2026-10-14T19:25:03+00:00",
  "items": [
+  {
+   "t": "Massenproteste in Indien: Modi-Regierung steht unter massivem Druck",
+   "s": "Zehntausende protestieren gegen den Chef der indischen Wahlkommission. Der hatte das Wählerverzeichnis überarbeitet. Nun fürchtet die Opposition Manipulation.",
+   "u": "https://taz.de/Massenproteste-in-Indien/!6221584/",
+   "q": "taz",
+   "d": "2026-10-14T15:45:00+00:00"
+  },
   {
    "t": "Politische Krise: „Maskierter Coup“ in Pakistan",
    "s": "Die pakistanische Regierung verhängt den Ausnahmezustand in einer Provinz. Das könnte der Auftakt für weiterreichende Umbaupläne des Landes sein.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Geplanter-Deal-mit-Saudi-Arabien/!6214224/",
    "q": "taz",
    "d": "2026-09-18T06:55:00+00:00"
-  },
-  {
-   "t": "Inselgruppe: Fidschi-Inseln erklären Notstand wegen HIV-Infektionen",
-   "s": "Seit über zwei Jahren steigen in Fidschi Ansteckungen mit dem HIV-Virus stark an. Jeder 60. Erwachsene ist infiziert.",
-   "u": "https://taz.de/Inselgruppe/!6213911/",
-   "q": "taz",
-   "d": "2026-09-17T09:20:00+00:00"
   }
  ]
 }

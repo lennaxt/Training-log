@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-10-14T14:31:13+00:00",
+ "updated": "2026-10-14T19:24:59+00:00",
  "items": [
+  {
+   "t": "Istanbuler Ex-Bürgermeister İmamoğlu sagt erstmals in Mammutprozess aus",
+   "s": "Es ist ein Mammutprozess gegen die Istanbuler Stadtverwaltung und den abgesetzten Bürgermeister: İmamoğlu hat nach mehr als anderthalb Jahren U-Haft erstmals vor Gericht ausgesagt. Parallel stürmte die Polizei den TV-Sender Halk TV. Von B. Weber.",
+   "u": "https://www.tagesschau.de/ausland/asien/tuerkei-imamoglu-prozess-110.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T16:20:57+00:00"
+  },
+  {
+   "t": "Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen",
+   "s": "Die Ukraine ist beim Abwehrkampf gegen Russland auf Geheimdienstinformationen der USA angewiesen - doch die sollen vor neuen russischen Angriffen ausgeblieben sein. Präsident Selenskyj übt Kritik. EU und NATO beschwichtigen.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T15:33:55+00:00"
+  },
   {
    "t": "Nepal: Erneut schwere Überschwemmungen nach Unwettern",
    "s": "Erst vor wenigen Wochen erlebte Nepal eine verheerende Flutkatastrophe. Jetzt hat eine neue Flutwelle Häuser und Brücken mitgerissen. Rettungskräfte suchen nach Vermissten, ob es Tote gibt, ist bislang noch unklar. Von Bo Hyun Kim.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/afrika/spanien-marokko-besuch-felipe-ceuta-100.html",
    "q": "Tagesschau",
    "d": "2026-10-13T09:24:42+00:00"
-  },
-  {
-   "t": "Schwarzes Meer: Erneut Frachter vor bulgarischer Küste gesunken",
-   "s": "Vor Bulgariens Küste sind wieder Handelsschiffe von Drohnen getroffen worden. Bei dem Angriff sank ein Frachter, mehrere Seeleute werden vermisst. Die bulgarische Regierung verdächtigt Russland und schaltete die NATO ein.",
-   "u": "https://www.tagesschau.de/ausland/europa/drohnenangriff-frachter-schwarzes-meer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T09:17:24+00:00"
-  },
-  {
-   "t": "Kurz vor Zwischenwahlen: Durchsuchung bei Trump-Kritikerin Omar",
-   "s": "Erst lässt die US-Justiz Ilhan Omars Haus durchsuchen, dann beschimpft der Präsident die demokratische Abgeordnete aufgrund ihrer Herkunft. Sie ist nicht zum ersten Mal Trumps Attacken ausgesetzt und spricht von politischer Einschüchterung.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-ilhan-omar-durchsuchung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T07:57:41+00:00"
   }
  ]
 }

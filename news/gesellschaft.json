@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-14T14:31:17+00:00",
+ "updated": "2026-10-14T19:25:01+00:00",
  "items": [
+  {
+   "t": "Russische Angriffe im Schwarzen Meer: „Das ist eine echte Gefahr für die Schifffahrt“",
+   "s": "Vor den Küsten Bulgariens und Rumäniens sind mehrere Frachtschiffe von Drohnen angegriffen worden. Ex­per­t:in­nen gehen davon aus, dass Russland dahintersteckt.",
+   "u": "https://taz.de/Russische-Angriffe-im-Schwarzen-Meer/!6221713/",
+   "q": "taz",
+   "d": "2026-10-14T14:40:00+00:00"
+  },
   {
    "t": "Kyjiw rüstet sich für Winter: Vitali Klitschko muss sich gegen Vorwürfe wehren",
    "s": "Kyjiws Bürgermeister Klitschko kritisiert die ukrainische Regierung scharf. Nun steht er selbst unter Druck – wegen mangelnder Vorbereitungen auf den Winter.",
@@ -11,7 +18,7 @@
   },
   {
    "t": "Nach Starlink-Anschlag in Polen: Brand an Starlink-Antennen auch in Bulgarien",
-   "s": "Anlagen des Satellitendienstes Starlink sind wohl zu Zielen von Saboteuren geworden. Sofia meldet jetzt ebenfalls einen Brand in einer Anlage.",
+   "s": "Anlagen des Satellitendienstes Starlink sind wohl erneut zu Zielen von Saboteuren geworden. Bulgarien meldet jetzt ebenfalls einen Brand in einer Anlage.",
    "u": "https://taz.de/Nach-Starlink-Anschlag-in-Polen/!6221692/",
    "q": "taz",
    "d": "2026-10-14T13:49:00+00:00"
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Streit-um-EU-Haushalt/!6220588/",
    "q": "taz",
    "d": "2026-10-11T15:53:00+00:00"
-  },
-  {
-   "t": "Anschlagspläne in Polen: Hinweise auf Planung eines Angriffs auf Tusk",
-   "s": "In Polen herrscht nach mehreren Angriffen an Schulen erhöhte Wachsamkeit. Nach Angaben des Innenministeriums könnte es über Drohungen hinausgehen.",
-   "u": "https://taz.de/Anschlagsplaene-in-Polen/!6220758/",
-   "q": "taz",
-   "d": "2026-10-11T13:52:00+00:00"
   }
  ]
 }

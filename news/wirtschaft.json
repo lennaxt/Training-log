@@ -1,13 +1,48 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-14T14:31:14+00:00",
+ "updated": "2026-10-14T19:25:00+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 14.10.2026",
+   "s": "Wirtschaft vor acht vom 14.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1666304.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T18:34:44+00:00"
+  },
+  {
+   "t": "Der Kampf ums Trinkwasser im brandenburgischen Baruth",
+   "s": "Die Unternehmen Red Bull und Rauch produzieren in Baruth Getränke und dürfen dabei 92 Prozent des Grundwassers, das der brandenburgischen Stadt zur Verfügung steht, entnehmen. Eine Bürgerinitiative wehrt sich und kämpft um Akteneinsicht.Von Andrea Rehmsmeier",
+   "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-14T16:40:00+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX bleibt im Seitwärtstrend",
+   "s": "DAX-Anleger haben sich heute zurückgehalten, der Index pendelt weiter um die Marke von 25.000 Punkten. Auch neue US-Inflationsdaten ändern daran nichts. Bestimmend bleibt der Stillstand in Nahost.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T16:24:05+00:00"
+  },
+  {
+   "t": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
+   "s": "Der Internationale Währungsfonds fordert Industrieländer auf, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Steigende Zinsen und hohe Ausgaben schränkten den finanziellen Spielraum der Staaten zunehmend ein.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T14:31:12+00:00"
+  },
   {
    "t": "Künstliche Intelligenz: Was bedeutet die neue KI-Welt für Unternehmen?",
    "s": "Kostendruck durch teure Energie, hohe Arbeitskosten und geopolitische Krisen - die Stimmung von Unternehmen in Deutschland ist getrübt. Welchen Einfluss haben in dieser Zeit die Veränderungen durch Künstliche Intelligenz? Von Anna Knake.",
    "u": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-unternehmen-deutschland-100.html",
    "q": "Tagesschau",
    "d": "2026-10-14T14:04:50+00:00"
+  },
+  {
+   "t": "Portugal erlaubt Einstieg der Lufthansa bei staatlicher Airline TAP",
+   "s": "Die portugiesische Regierung treibt die Teilprivatisierung der Fluggesellschaft TAP voran. Im Kampf um 44,9 Prozent der Anteile setzte sich die Lufthansa gegen Air France-KLM durch. Der Einstieg dauert aber noch.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-tap-lufthansa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T12:53:13+00:00"
   },
   {
    "t": "Wärmepumpen dominieren den Heizungsmarkt - \"Öl ist praktisch tot\"",
@@ -45,13 +80,6 @@
    "d": "2026-10-14T09:44:37+00:00"
   },
   {
-   "t": "Marktbericht: DAX startet höher",
-   "s": "Der DAX ist mit leichten Aufschlägen in den Tag gestartet. Die Hoffnungen liegen weiter auf der anlaufenden Berichtssaison. Wichtige Inflationsdaten werden am Nachmittag erwartet.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T08:46:15+00:00"
-  },
-  {
    "t": "Update Wirtschaft vom 14.10.2026",
    "s": "Update Wirtschaft vom 14.10.2026",
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1665882.html",
@@ -71,13 +99,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html",
    "q": "Tagesschau",
    "d": "2026-10-14T00:31:01+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 13.10.2026",
-   "s": "Wirtschaft vor acht vom 13.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1665754.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T19:49:10+00:00"
   },
   {
    "t": "Cyberattacken auf Hunderte französische Supermärkte",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
    "q": "Tagesschau",
    "d": "2026-10-13T00:10:57+00:00"
-  },
-  {
-   "t": "Wie staatliche Eingriffe doch funktionieren können",
-   "s": "Greift die Politik in die Wirtschaft ein, kann das ziemlich schiefgehen. Der diesjährige Wirtschaftspreis in Gedenken an Alfred Nobel würdigt zwei Forscher, deren Arbeit politische Entscheidungen beeinflusst. Von Detlev Landmesser.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nobelpreis-wirtschaft-hall-woodford-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T14:43:53+00:00"
-  },
-  {
-   "t": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr",
-   "s": "Seit zwei Jahren sind EU-Zölle auf Elektroautos aus China in Kraft, viele chinesische Hersteller steigerten seitdem trotzdem ihre Exporte von Hybridfahrzeugen. Dem setzt die Europäische Union jetzt Grenzen.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-china-hybridautos-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T11:38:03+00:00"
-  },
-  {
-   "t": "Nobelpreis für Wirtschaftswissenschaften für US-Ökonomen Hall und Woodford",
-   "s": "Die US-Amerikaner Hall und Woodford werden mit dem Wirtschaftspreis in Gedenken an Alfred Nobel ausgezeichnet. Sie werden für ihre Arbeit zur Stabilisierung der Wirtschaft geehrt, erklärte die Königlich-Schwedische Akademie der Wissenschaften.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nobelpreis-wirtschaft-146.html",
-   "q": "Tagesschau",
-   "d": "2026-10-12T11:06:56+00:00"
   }
  ]
 }
