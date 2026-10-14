@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-14T19:25:01+00:00",
+ "updated": "2026-10-14T23:55:37+00:00",
  "items": [
+  {
+   "t": "Regierungsbildung in Berlin: Parteien sondieren wieder",
+   "s": "Die Sondierungsgespräche in Berlin schienen in einer Sackgasse zu stecken. Kommen Linke, Grüne und SPD da wieder raus? Ein Gespräch hat offenbar geholfen.",
+   "u": "https://taz.de/Regierungsbildung-in-Berlin/!6221805/",
+   "q": "taz",
+   "d": "2026-10-14T19:58:00+00:00"
+  },
   {
    "t": "Rot-grün-rote Sondierungen in Berlin: Störfeuer von der Seitenlinie",
    "s": "Grünen-Chef Banaszak mischt sich lautstark in die Berliner Sondierungsgespräche ein. Der Ausschluss einer Linken-Abgeordneten sei fest vereinbart gewesen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Antisemitismusbeauftragte-des-Bundes/!6221300/",
    "q": "taz",
    "d": "2026-10-13T14:00:00+00:00"
-  },
-  {
-   "t": "Notfall im Luftverkehr: Entwarnung nach Alarm an Flughafen Nürnberg",
-   "s": "Wegen einer möglicher Notlage eines aus Griechenland kommenden Flugzeugs stiegen Eurofighter auf. Die Polizei sperrt den Nürnberger Flughafen. Nun wurde Entwarnung gegeben.",
-   "u": "https://taz.de/Notfall-im-Luftverkehr/!6221312/",
-   "q": "taz",
-   "d": "2026-10-13T12:43:00+00:00"
   }
  ]
 }

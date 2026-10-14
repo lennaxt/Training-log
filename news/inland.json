@@ -1,7 +1,21 @@
 {
  "name": "Inland",
- "updated": "2026-10-14T19:24:58+00:00",
+ "updated": "2026-10-14T23:55:34+00:00",
  "items": [
+  {
+   "t": "Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
+   "s": "Gute Nachrichten für gesetzlich Versicherte: Der GKV-Schätzerkreis hat über den Zusatzbeitrag für das kommende Jahr beraten - mit dem Ergebnis, dass dieser stabil bleiben kann. Der Gesundheitsminister wertet die Entwicklung positiv.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-14T20:01:02+00:00"
+  },
+  {
+   "t": "Regierungsbildung in Berlin: Parteien sondieren wieder",
+   "s": "Die Sondierungsgespräche in Berlin schienen in einer Sackgasse zu stecken. Kommen Linke, Grüne und SPD da wieder raus? Ein Gespräch hat offenbar geholfen.",
+   "u": "https://taz.de/Regierungsbildung-in-Berlin/!6221805/",
+   "q": "taz",
+   "d": "2026-10-14T19:58:00+00:00"
+  },
   {
    "t": "Schutz vor Spionage - Bundeswehr darf Netzwerferdrohnen kaufen",
    "s": "Zum Schutz vor Spionage und Sabotage darf die Bundeswehr Netzwerferdrohnen kaufen. Das entschied der Haushaltsausschuss im Bundestag. Auch neue Feuereinheiten für das \"Patriot\"-Luftverteidigungssystem billigte er.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Besteuerung-von-Unternehmenserben/!6221497/",
    "q": "taz",
    "d": "2026-10-14T10:50:00+00:00"
-  },
-  {
-   "t": "Katharina von Schnurbein wird neue Antisemitismusbeauftragte",
-   "s": "Bei der EU-Kommission war sie jahrelang für die Bekämpfung von Antisemitismus zuständig, nun holt die Bundesregierung Katharina von Schnurbein nach Berlin. Sie bekommt viel Lob, übernimmt aber ein Amt in schwierigen Zeiten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/katharina-von-schnurbein-neue-antisemitismusbeauftragte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T10:49:33+00:00"
-  },
-  {
-   "t": "Einigung in der Koalition: So soll die Zuckersteuer aussehen",
-   "s": "Der Streit in der schwarz-roten Koalition über die Steuer auf zuckergesüßte Getränke ist beigelegt. Das Kabinett hat einen Regelungsvorschlag beschlossen. Was geplant ist und was die Regierung damit erreichen will.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-einigung-folgen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T10:32:28+00:00"
   }
  ]
 }
