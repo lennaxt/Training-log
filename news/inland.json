@@ -1,7 +1,14 @@
 {
  "name": "Inland",
- "updated": "2026-10-13T20:41:30+00:00",
+ "updated": "2026-10-14T00:18:44+00:00",
  "items": [
+  {
+   "t": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
+   "s": "Die Bundesregierung hat sich nach Angaben aus dem Finanzministerium beim Thema Zuckersteuer geeinigt. Einzelheiten sollen demnächst vorgestellt werden. Laut Medienberichten soll ab 1. Juli 2027 ein Zwei-Stufen-Modell gelten.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-13T20:55:26+00:00"
+  },
   {
    "t": "Zum Nord-Stream-Prozess: „Im Krieg dürfen zivile Objekte nicht angegriffen werden“",
    "s": "Der Prozess um einen Ukrainer, der die Sprengung der Nord-Stream-Pipelines organisiert haben soll, beginnt. Völkerrechtler Kai Ambos erklärt die Anklage.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Nach-Feuer-in-Starlink-Station-in-Polen/!6221272/",
    "q": "taz",
    "d": "2026-10-13T12:48:00+00:00"
-  },
-  {
-   "t": "Notfall im Luftverkehr: Entwarnung nach Alarm an Flughafen Nürnberg",
-   "s": "Wegen einer möglicher Notlage eines aus Griechenland kommenden Flugzeugs stiegen Eurofighter auf. Die Polizei sperrt den Nürnberger Flughafen. Nun wurde Entwarnung gegeben.",
-   "u": "https://taz.de/Notfall-im-Luftverkehr/!6221312/",
-   "q": "taz",
-   "d": "2026-10-13T12:43:00+00:00"
   }
  ]
 }
