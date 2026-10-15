@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-15T19:09:24+00:00",
+ "updated": "2026-10-15T23:41:58+00:00",
  "items": [
+  {
+   "t": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
+   "s": "Seit zwei Jahren bemüht sich die italienische Großbank UniCredit um die Commerzbank. Nach langem Widerstand hat UniCredit nun eine wichtige Hürde genommen - und grünes Licht von der EZB bekommen.",
+   "u": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T19:53:38+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 15.10.2026",
    "s": "Wirtschaft vor acht vom 15.10.2026",
@@ -162,13 +169,6 @@
    "u": "https://www.deutschlandfunk.de/erbschaftsteuer-gerechtigkeit-unternehmen-verfassungsgericht-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-13T09:52:00+00:00"
-  },
-  {
-   "t": "Wasser wird wertvoller",
-   "s": "Deutschland hat im Winter zu viel Wasser – und im Sommer immer weniger. Das belastet Umwelt und Wirtschaft. Die Bundesregierung fordert einen “neuen Umgang” mit Wasser. Wer viel verbraucht, soll mehr zahlen.",
-   "u": "https://www.deutschlandfunk.de/wassermangel-deutschland-strategie-bundesregierung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-06T11:45:00+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Inland",
- "updated": "2026-10-15T19:09:23+00:00",
+ "updated": "2026-10-15T23:41:56+00:00",
  "items": [
+  {
+   "t": "Bundestag beschließt Anhebung der Tabaksteuer",
+   "s": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T23:06:09+00:00"
+  },
   {
    "t": "Bundeswehr: Vorwürfe sexuellen Fehlverhaltens in Weißenfels",
    "s": "Nach Berichten über sexuelles Fehlverhalten bei der Bundeswehr in Sachsen-Anhalt kündigt das Verteidigungsministerium Konsequenzen an. Doch wie tief sitzt das Problem in der Truppe wirklich? Von Christina Nagel.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Anstieg-der-Wohnungsmieten/!6221881/",
    "q": "taz",
    "d": "2026-10-15T10:04:00+00:00"
-  },
-  {
-   "t": "Ermittlungen gegen SPD-Außenpolitiker: Hausdurchsuchung bei SPD-Abgeordnetem Ahmetovic",
-   "s": "Zuletzt fiel sein Name im Zusammenhang mit Ermittlungen in Hannover. Nun hat der Bundestag die Immunität des SPD-Abgeordneten Adis Ahmetovic aufgehoben.",
-   "u": "https://taz.de/Ermittlungen-gegen-SPD-Aussenpolitiker/!6221860/",
-   "q": "taz",
-   "d": "2026-10-15T09:28:00+00:00"
   }
  ]
 }

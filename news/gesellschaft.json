@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-15T19:09:27+00:00",
+ "updated": "2026-10-15T23:42:01+00:00",
  "items": [
+  {
+   "t": "Studentenproteste in Albanien: Pyrotechnik statt rosa Flamingos",
+   "s": "Was im Mai als friedlicher Protest gegen ein Luxusresort begann, legt jetzt Tiranas Innenstadt in Schutt und Asche: Die Jugend hat die Nase voll von Warten.",
+   "u": "https://taz.de/Studentenproteste-in-Albanien/!6221920/",
+   "q": "taz",
+   "d": "2026-10-15T17:43:00+00:00"
+  },
   {
    "t": "Trump und Musk versus Selenskyj: Wer solche Freunde hat",
    "s": "In der Ukraine wird plötzlich das Satellitensystem Starlink von Elon Musk gedrosselt und Trump macht Deals mit Putin. Wie Präsident Selenskyj reagiert und was die EU vorhat.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/US-Sanktionen-gegen-IStGH/!6220564/",
    "q": "taz",
    "d": "2026-10-11T17:48:00+00:00"
-  },
-  {
-   "t": "Nach Trumps Diesel-Deal mit Putin: Rückhalt für Selenskyj",
-   "s": "Der ukrainische Präsident nennt Trumps Diesel-Abkommen „Investition in den Krieg“. Der ging mit einem heftigen Angriff auf Saporischschja weiter.",
-   "u": "https://taz.de/Nach-Trumps-Diesel-Deal-mit-Putin/!6220585/",
-   "q": "taz",
-   "d": "2026-10-11T17:46:00+00:00"
   }
  ]
 }
