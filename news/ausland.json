@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-10-15T14:10:25+00:00",
+ "updated": "2026-10-15T19:09:23+00:00",
  "items": [
+  {
+   "t": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
+   "s": "Die EU solle nicht so viel Geld ausgeben, findet Bundeskanzler Merz. Einige Länder sehen das genauso. Andere können den Sparvorschlägen nichts abgewinnen. Trotz klarer Fronten bleibt der große Knall im Ringen um den Haushalt aus. Von S. Stuchlik.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T18:05:32+00:00"
+  },
+  {
+   "t": "Trump sagt Livestream zu geplanter Hinrichtung von Attentäter ab",
+   "s": "Die ganze Welt sollte zusehen, wie ein verurteilter Attentäter hingerichtet wird - nun hat US-Präsident Trump den geplanten Livestream abgesagt. Die Ankündigung von Verteidigungsminister Hegseth war auf Empörung gestoßen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-livestream-hinrichtung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T15:57:03+00:00"
+  },
+  {
+   "t": "Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul",
+   "s": "Straßen stehen unter Wasser, Fahrzeuge bleiben stecken: Bei heftigen Regenfällen sind in Istanbul mehrere Menschen gestorben. Während Behörden weiterhin im Großeinsatz sind, droht bereits neuer Starkregen.",
+   "u": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T15:25:32+00:00"
+  },
   {
    "t": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
    "s": "Im Schwarzen Meer vor Rumäniens Küste ist auf einem Handelsschiff ein Feuer ausgebrochen. Es sei von Drohnen getroffen worden, teilte der rumänische Präsident Dan laut der Agentur Reuters mit. Mehrere Seeleute werden noch vermisst.",
@@ -15,13 +36,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/pakistan-schuldach-einsturz-tote-100.html",
    "q": "Tagesschau",
    "d": "2026-10-15T10:10:33+00:00"
-  },
-  {
-   "t": "Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul",
-   "s": "Straßen stehen unter Wasser, Fahrzeuge bleiben stecken: Bei heftigen Regenfällen sind in Istanbul mindestens zwei Menschen gestorben. Die Behörden sind im Großeinsatz - und auch heute ist weiterer Regen angekündigt.",
-   "u": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T09:05:45+00:00"
   },
   {
    "t": "Sorge vor Spionage: Slowakei erneuert Militärkontakte mit Russland",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/angeklagter-tupac-40-jahre-haft-100.html",
    "q": "Tagesschau",
    "d": "2026-10-13T20:13:11+00:00"
-  },
-  {
-   "t": "Cyberattacken auf Hunderte französische Supermärkte",
-   "s": "Bei einem Cyberangriff sind die Tiefkühlsysteme Hunderter französischer Supermärkte lahmgelegt worden. Frankreichs Finanzminister spricht von einem \"Weckruf an alle\". Auch das deutsche Bundesamt für Sicherheit ist alarmiert.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T18:37:01+00:00"
-  },
-  {
-   "t": "US-Botschafterin in Athen tritt auf Druck der US-Regierung zurück",
-   "s": "Die US-Botschafterin in Athen, Guilfoyle, ist zurückgetreten. Zuvor hatte die US-Regierung sie wegen angeblichen Fehlverhaltens dazu aufgefordert. Es geht unter anderem um Kreditkartenschulden von 100.000 US-Dollar.",
-   "u": "https://www.tagesschau.de/ausland/europa/us-botschaft-athen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T18:02:23+00:00"
   }
  ]
 }

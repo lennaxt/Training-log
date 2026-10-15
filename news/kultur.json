@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-15T14:10:28+00:00",
+ "updated": "2026-10-15T19:09:28+00:00",
  "items": [
+  {
+   "t": "Todesstrafe für Attentäter: Trump sagt Live-Übertragung von Hinrichtung ab",
+   "s": "Erst sollte die ganze Welt zusehen können, wie ein verurteilter Attentäter hingerichtet wird. Nun verkündet Trump einen Rückzieher. Was steckt dahinter?",
+   "u": "https://taz.de/Todesstrafe-fuer-Attentaeter/!6222109/",
+   "q": "taz",
+   "d": "2026-10-15T15:15:00+00:00"
+  },
   {
    "t": "Ausnahmezustand in El Salvador: Zehntausende Gefangene könnten freikommen",
    "s": "El Salvadors autoritär regierender Präsident Nayib Bukele deutet an, rund die Hälfte der wegen Bandenkriminalität Inhaftierten freilassen zu wollen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Vor-den-Wahlen-in-Brasilien/!6214483/",
    "q": "taz",
    "d": "2026-10-04T07:27:00+00:00"
-  },
-  {
-   "t": "Abtreibung in Brasilien: „Mein Leben gehört wieder mir“",
-   "s": "Abtreibung ist in Brasilien illegal, aber unter gewissen Umständen straffrei. Doch benachteiligte Schwangere sind über ihre Rechte oft nicht informiert.",
-   "u": "https://taz.de/Abtreibung-in-Brasilien/!6216959/",
-   "q": "taz",
-   "d": "2026-10-03T16:01:00+00:00"
   }
  ]
 }

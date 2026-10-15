@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-15T14:10:26+00:00",
+ "updated": "2026-10-15T19:09:25+00:00",
  "items": [
+  {
+   "t": "Psychotherapie-Reform: Bundestag beschließt Korrekturen",
+   "s": "Mit einer neuen Vergütungsregel will die Regierung bei der Psychotherapie sparen. Kinder und Schwerkranke sind ausgenommen. Fachverbände befürchten jedoch: Alle anderen könnten künftig länger auf einen Therapieplatz warten. Von S. Emminghaus.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/psychotherapie-reform-korrekturen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T17:16:11+00:00"
+  },
   {
    "t": "Brustkrebs: Mammografie-Screening künftig bereits ab 45 Jahren",
    "s": "Bisher zahlen die Krankenkassen ein Mammografie-Screening zur Früherkennung von Brustkrebs bei Frauen erst ab einem Alter von 50 Jahren. Das soll sich nun ändern. Die geplante Neuregelung könnte im Sommer 2027 in Kraft treten.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1659294.html",
    "q": "Tagesschau",
    "d": "2026-10-02T12:11:22+00:00"
-  },
-  {
-   "t": "Copernicus: Sommer in Westeuropa war so heiß wie nie zuvor",
-   "s": "Der Sommer in Westeuropa war so heiß und trocken wie nie zuvor. Auch bei den Hitzetagen gab es diesen Sommer laut dem EU-Klimadienst Copernicus einen neuen Höchststand - mit ernsten Folgen für die Gesundheit.",
-   "u": "https://www.tagesschau.de/wissen/klima/copernicus-heisser-sommer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T07:28:09+00:00"
   }
  ]
 }

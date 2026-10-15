@@ -1,20 +1,34 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-15T14:10:26+00:00",
+ "updated": "2026-10-15T19:09:24+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 15.10.2026",
+   "s": "Wirtschaft vor acht vom 15.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1666988.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T18:50:50+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX vom Tech-Ausverkauf kaum betroffen",
+   "s": "Der DAX pendelt weiter um die Marke von 25.000 Punkten. Der weltweite Ausverkauf von Tech-Aktien hat den deutschen Leitindex nicht so stark getroffen - denn große Technologiewerte sind kaum vertreten.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T16:32:51+00:00"
+  },
+  {
+   "t": "EuGH-Urteil: Banken müssen bei Kontobetrug Geld erstatten",
+   "s": "Maschen, mit denen Betrüger Zugriff auf die Konten ihrer Opfer bekommen, werden immer besser. Der EuGH hat jetzt mit einem Urteil die Rechte betroffener Verbraucher gestärkt. Von Antonetta Stephany.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/eugh-konto-betrug-phishing-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T13:59:53+00:00"
+  },
   {
    "t": "Doctolib und die KI – Was die Ärzteplattform über Patienten weiß",
    "s": "Der amerikanische Chip-Hersteller Nvidia steigt bei Doctolib ein. Damit will die Ärzteplattform auch ihre KI-Kompetenzen ausweiten. Welche Auswirkungen könnte das haben? Und: Wie sicher sind unsere Daten dort eigentlich?",
    "u": "https://www.deutschlandfunk.de/doctolib-nvidia-einstieg-datenschutz-kritik-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-15T12:06:00+00:00"
-  },
-  {
-   "t": "Marktbericht: TSMC gibt sich keine Blöße",
-   "s": "Neue US-Zinssorgen drücken vor allem die Kurse der hochbewerteten Tech-Aktien, allen voran der Chiphersteller. Die Fakten sprechen aber eine andere Sprache - wie heute die Zahlen von TSMC zeigen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/tsmc-chipaktien-mb-mittag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T11:56:37+00:00"
   },
   {
    "t": "In welchen Jobs Digitalisierung zu Stress führen kann",
@@ -38,11 +52,11 @@
    "d": "2026-10-15T07:11:08+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 14.10.2026",
-   "s": "Wirtschaft vor acht vom 14.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1666304.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T18:34:44+00:00"
+   "t": "Der Kampf ums Trinkwasser im brandenburgischen Baruth",
+   "s": "Die Unternehmen Red Bull und Rauch produzieren in Baruth Getränke und dürfen dabei 92 Prozent des Grundwassers, das der brandenburgischen Stadt zur Verfügung steht, entnehmen. Eine Bürgerinitiative wehrt sich und kämpft um Akteneinsicht.Von Andrea Rehmsmeier",
+   "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-14T16:40:00+00:00"
   },
   {
    "t": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
@@ -155,20 +169,6 @@
    "u": "https://www.deutschlandfunk.de/wassermangel-deutschland-strategie-bundesregierung-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-06T11:45:00+00:00"
-  },
-  {
-   "t": "CO2-Zertifikate: Wie glaubwürdig ist der freiwillige Klimamarkt?",
-   "s": "Unternehmen nutzen CO2-Zertifikate, um Emissionen auszugleichen. Doch bei vielen Projekten ist unklar, wie groß die Klimawirkung wirklich ist, wohin das Geld fließt und welche Folgen sie für Landrechte und Menschen vor Ort haben.",
-   "u": "https://www.deutschlandfunk.de/klimaschutz-co2-zertifikate-emissionen-kompensation-greenwashing-kritik-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-05T10:39:00+00:00"
-  },
-  {
-   "t": "Kommentar: Politische Kälte auf dem spanischen Wohnungsmarkt",
-   "s": "Das spanische Parlament hat geplante, recht milde Mieterschutzregeln abgelehnt. Das Nein offenbart politische Kälte gegenüber einem der größten Probleme des Landes. Für Ministerpräsident Pedro Sánchez wird das zur Bewährungsprobe.Von Hans-Günter Kellner",
-   "u": "https://www.deutschlandfunk.de/kommentar-spanien-proteste-mieten-wohnen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-05T08:29:00+00:00"
   }
  ]
 }

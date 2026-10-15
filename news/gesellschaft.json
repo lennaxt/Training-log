@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-15T14:10:28+00:00",
+ "updated": "2026-10-15T19:09:27+00:00",
  "items": [
+  {
+   "t": "Trump und Musk versus Selenskyj: Wer solche Freunde hat",
+   "s": "In der Ukraine wird plötzlich das Satellitensystem Starlink von Elon Musk gedrosselt und Trump macht Deals mit Putin. Wie Präsident Selenskyj reagiert und was die EU vorhat.",
+   "u": "https://taz.de/Trump-und-Musk-versus-Selenskyj/!6221939/",
+   "q": "taz",
+   "d": "2026-10-15T15:09:00+00:00"
+  },
   {
    "t": "+++ Nachrichten im Ukrainekrieg +++: Kein Waffenstillstand zwischen Ukraine und Russland",
    "s": "Präsident Wolodymyr Selenskyj kündigt die Wiederaufnahme von Angriffen auf russische Raffinerien an. Kyjiw meldet bessere Starlink-Verbindungen nach Selenskyjs Appell an Elon Musk.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Nach-Trumps-Diesel-Deal-mit-Putin/!6220585/",
    "q": "taz",
    "d": "2026-10-11T17:46:00+00:00"
-  },
-  {
-   "t": "US-Sanktionen gegen Strafgerichtshof: Das Weltgericht lahmlegen, aber nicht sofort",
-   "s": "Die US-Regierung setzt dem Internationalen Strafgerichtshof eine Frist von 180 Tagen. Danach will sie ihm „ein Ende setzen“. Wie reagiert die EU?",
-   "u": "https://taz.de/US-Sanktionen-gegen-Strafgerichtshof/!6220566/",
-   "q": "taz",
-   "d": "2026-10-11T15:54:00+00:00"
   }
  ]
 }
