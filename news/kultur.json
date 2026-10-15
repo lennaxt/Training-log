@@ -1,7 +1,28 @@
 {
  "name": "Kultur",
- "updated": "2026-10-15T08:19:41+00:00",
+ "updated": "2026-10-15T14:10:28+00:00",
  "items": [
+  {
+   "t": "Ausnahmezustand in El Salvador: Zehntausende Gefangene könnten freikommen",
+   "s": "El Salvadors autoritär regierender Präsident Nayib Bukele deutet an, rund die Hälfte der wegen Bandenkriminalität Inhaftierten freilassen zu wollen.",
+   "u": "https://taz.de/Ausnahmezustand-in-El-Salvador/!6221894/",
+   "q": "taz",
+   "d": "2026-10-15T12:28:00+00:00"
+  },
+  {
+   "t": "Vor US-Zwischenwahlen: Wappnen gegen einen Coup",
+   "s": "Vor den Kongresswahlen in den USA befürchten viele, Präsident Trump könnte erneut eine Niederlage nicht anerkennen. Unser Autor hat ein Wahlbeobachtertraining besucht.",
+   "u": "https://taz.de/Vor-Zwischenwahlen-in-USA/!6221819/",
+   "q": "taz",
+   "d": "2026-10-15T11:58:00+00:00"
+  },
+  {
+   "t": "Protest gegen Rechenzentren in den USA: Big Data, big Protest",
+   "s": "In den USA entstehen riesige Rechenzentren. Doch auch der Protest gegen die Megabauten wächst – und wird vor den Midterms zum wichtigen Wahlkampfthema.",
+   "u": "https://taz.de/Protest-gegen-Rechenzentren-in-den-USA/!6220808/",
+   "q": "taz",
+   "d": "2026-10-15T10:04:00+00:00"
+  },
   {
    "t": "Gewaltsame Festnahmen in USA: Die Tricks der Abschiebepolizei, um Widerstand zu vermeiden",
    "s": "Die US-Einwanderungspolizei ICE rief in den Städten massiven Widerstand hervor. Nun operiert die Behörde dezentral. Tausende sind betroffen.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Abtreibung-in-Brasilien/!6216959/",
    "q": "taz",
    "d": "2026-10-03T16:01:00+00:00"
-  },
-  {
-   "t": "Todesstrafe in den USA: „Es sollte nicht schwer sein“, sagt Trump",
-   "s": "Der Fall Pike hat in den USA die Debatte um die Todesstrafe neu entfacht. Weder Demokraten noch Republikaner wollen sie komplett abschaffen.",
-   "u": "https://taz.de/Todesstrafe-in-den-USA/!6218500/",
-   "q": "taz",
-   "d": "2026-10-02T16:03:00+00:00"
-  },
-  {
-   "t": "Lula und Bolsonaro in Brasilien: Kontrahenten wollten nicht streiten",
-   "s": "Kurz vor der Wahl platzt das TV-Duell zwischen Präsident Lula und seinem Herausforderer Bolsonaro. Woran das lag und was stattdessen lief.",
-   "u": "https://taz.de/Wahlkampf-in-Brasilien/!6218443/",
-   "q": "taz",
-   "d": "2026-10-02T10:24:00+00:00"
-  },
-  {
-   "t": "Hinrichtung von Frau in Tennessee: Christa Pike in kritischem Zustand",
-   "s": "Zweimal wird Christa Pike ein tödliches Mittel verabreicht – doch sie stirbt nicht. Was über ihren Gesundheitszustand bekannt ist.",
-   "u": "https://taz.de/Hinrichtung-von-Frau-in-Tennessee/!6218447/",
-   "q": "taz",
-   "d": "2026-10-02T07:17:00+00:00"
   }
  ]
 }

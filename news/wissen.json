@@ -1,7 +1,21 @@
 {
  "name": "Wissen",
- "updated": "2026-10-15T08:19:38+00:00",
+ "updated": "2026-10-15T14:10:26+00:00",
  "items": [
+  {
+   "t": "Brustkrebs: Mammografie-Screening künftig bereits ab 45 Jahren",
+   "s": "Bisher zahlen die Krankenkassen ein Mammografie-Screening zur Früherkennung von Brustkrebs bei Frauen erst ab einem Alter von 50 Jahren. Das soll sich nun ändern. Die geplante Neuregelung könnte im Sommer 2027 in Kraft treten.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/mammografie-ab-45-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T13:47:58+00:00"
+  },
+  {
+   "t": "Die Mehlschwalbe ist Vogel des Jahres 2027",
+   "s": "Sie fängt Insekten im Flug und brütet in Lehmnestern mit kleinem Einflugloch: Die Mehlschwalbe ist der Vogel des Jahres 2027. Ihr Bestand gilt als bedroht, denn nicht nur Hitzewellen machen den Tieren zu schaffen. Von S. Peyk.",
+   "u": "https://www.tagesschau.de/wissen/tiere/mehlschwalbe-vogel-des-jahres-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T09:36:18+00:00"
+  },
   {
    "t": "Sorge um Papst Leo XIV. nach Lungenkrebs-Diagnose",
    "s": "Papst Leo XIV. ist wegen einer Krebserkrankung an der Lunge operiert worden. Dem 71-Jährigen sei am Dienstag der untere Lappen des rechten Lungenflügels entfernt worden, teilte der Vatikan mit.",
@@ -57,13 +71,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/who-warnt-vor-ausbreitung-von-fettleibigkeit-100.html",
    "q": "Tagesschau",
    "d": "2026-10-07T08:21:57+00:00"
-  },
-  {
-   "t": "Nobelpreis für Physik: Auszeichnung für Nachweis von \"Geistern aus dem All\"",
-   "s": "Ein riesiges Observatorium unter dem antarktischen Eis: Mit dieser verrückten Idee weist Francis Halzen Neutrinos nach - \"Geisterteilchen\" aus dem All. Dafür wird er mit dem Physik-Nobelpreis ausgezeichnet. Von David Beck und Ralf Kölbel.",
-   "u": "https://www.tagesschau.de/wissen/physiknobelpreis-francis-halzen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T15:23:56+00:00"
   },
   {
    "t": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/copernicus-heisser-sommer-100.html",
    "q": "Tagesschau",
    "d": "2026-10-02T07:28:09+00:00"
-  },
-  {
-   "t": "Drastische Auswirkungen von Hitzesommer und Klimawandel auf Schweizer Gletscher",
-   "s": "Drastische Auswirkungen von Hitzesommer und Klimawandel auf Schweizer Gletscher",
-   "u": "https://www.tagesschau.de/video/video-1658858.html",
-   "q": "Tagesschau",
-   "d": "2026-10-01T15:18:48+00:00"
   }
  ]
 }

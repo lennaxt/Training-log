@@ -1,7 +1,35 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-15T08:19:38+00:00",
+ "updated": "2026-10-15T14:10:26+00:00",
  "items": [
+  {
+   "t": "Doctolib und die KI – Was die Ärzteplattform über Patienten weiß",
+   "s": "Der amerikanische Chip-Hersteller Nvidia steigt bei Doctolib ein. Damit will die Ärzteplattform auch ihre KI-Kompetenzen ausweiten. Welche Auswirkungen könnte das haben? Und: Wie sicher sind unsere Daten dort eigentlich?",
+   "u": "https://www.deutschlandfunk.de/doctolib-nvidia-einstieg-datenschutz-kritik-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-15T12:06:00+00:00"
+  },
+  {
+   "t": "Marktbericht: TSMC gibt sich keine Blöße",
+   "s": "Neue US-Zinssorgen drücken vor allem die Kurse der hochbewerteten Tech-Aktien, allen voran der Chiphersteller. Die Fakten sprechen aber eine andere Sprache - wie heute die Zahlen von TSMC zeigen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/tsmc-chipaktien-mb-mittag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T11:56:37+00:00"
+  },
+  {
+   "t": "In welchen Jobs Digitalisierung zu Stress führen kann",
+   "s": "Zunehmende Digitalisierung kann die Gesundheit von Beschäftigten gefährden. Besonders stark von diesem Stress betroffen sind einer neuen Studie zufolge Menschen mit überwiegend körperlichen Tätigkeiten. Von Thomas Samboll.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/digitaler-stress-koerperliche-arbeit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T09:47:14+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 15.10.2026",
+   "s": "Update Wirtschaft vom 15.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1666530.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T08:49:36+00:00"
+  },
   {
    "t": "Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?",
    "s": "Ab heute gilt das bundesweite Alkoholverbot an den Bahnhöfen der Deutschen Bahn. Der Konzern hofft, dass es damit zu weniger Konflikten kommt. In fast 40 Bahnhöfen wurde der Schritt bereits getestet. Von Jens Eberl.",
@@ -10,25 +38,11 @@
    "d": "2026-10-15T07:11:08+00:00"
   },
   {
-   "t": "Marktbericht: Börsen zwischen KI-Euphorie und Inflationssorgen",
-   "s": "Die Berichtssaison und neue Konjunkturdaten geben den Takt vor. Im Mittelpunkt steht die Chipbranche: Nach optimistischen Geschäftsaussichten von ASML richtet sich der Blick auf den taiwanischen Chipkonzern TSMC.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T05:45:57+00:00"
-  },
-  {
    "t": "Wirtschaft vor acht vom 14.10.2026",
    "s": "Wirtschaft vor acht vom 14.10.2026",
    "u": "https://www.tagesschau.de/video/video-1666304.html",
    "q": "Tagesschau",
    "d": "2026-10-14T18:34:44+00:00"
-  },
-  {
-   "t": "Der Kampf ums Trinkwasser im brandenburgischen Baruth",
-   "s": "Die Unternehmen Red Bull und Rauch produzieren in Baruth Getränke und dürfen dabei 92 Prozent des Grundwassers, das der brandenburgischen Stadt zur Verfügung steht, entnehmen. Eine Bürgerinitiative wehrt sich und kämpft um Akteneinsicht.Von Andrea Rehmsmeier",
-   "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-14T16:40:00+00:00"
   },
   {
    "t": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
@@ -85,13 +99,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
    "q": "Tagesschau",
    "d": "2026-10-14T09:44:37+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 14.10.2026",
-   "s": "Update Wirtschaft vom 14.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1665882.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T07:53:58+00:00"
   },
   {
    "t": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
@@ -162,13 +169,6 @@
    "u": "https://www.deutschlandfunk.de/kommentar-spanien-proteste-mieten-wohnen-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-05T08:29:00+00:00"
-  },
-  {
-   "t": "Gewerbesteueroasen - Standortwettbewerb auf Kosten von Kommunen",
-   "s": "Steueroasen gibt es nicht nur auf den Cayman Islands, sondern auch in Deutschland. Sie sind legal, führen aber auch zu Missbrauch durch Unternehmer. Leidtragende sind die Kommunen.",
-   "u": "https://www.deutschlandfunk.de/steueroasen-deutschland-gewerbesteuer-kommunen-unternehmen-hebesatz-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-27T15:20:00+00:00"
   }
  ]
 }

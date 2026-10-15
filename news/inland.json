@@ -1,7 +1,84 @@
 {
  "name": "Inland",
- "updated": "2026-10-15T08:19:36+00:00",
+ "updated": "2026-10-15T14:10:24+00:00",
  "items": [
+  {
+   "t": "EU-Methanverordnung unter Druck: Reiche fordert Aufschub",
+   "s": "Methan heizt das Klima deutlich stärker an als Kohlenstoffdioxid. Dennoch will Wirtschaftsministerin Reiche neue EU-Regeln aufschieben. Dokumente und Treffen mit der Gaslobby werfen Fragen auf. Von Ottilie Wied.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/methan-verordnung-eu-reiche-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T13:52:48+00:00"
+  },
+  {
+   "t": "Unicef-Studie zu benachteiligten Kindern: Wer bei den Jüngsten spart, zahlt später drauf",
+   "s": "In benachteiligte Kinder zu investieren, kann dem Staatshaushalt nutzen. Das zeigt eine neue Studie. Die Bundesregierung plant das Gegenteil.",
+   "u": "https://taz.de/Unicef-Studie-zu-benachteiligten-Kindern/!6221836/",
+   "q": "taz",
+   "d": "2026-10-15T13:42:00+00:00"
+  },
+  {
+   "t": "SPD wählt Mitte Januar bei Parteitag in Bremen neue Parteispitze",
+   "s": "Seit dem Rückzug von Bärbel Bas fehlt der SPD die Hälfte ihrer Doppelspitze. Nun will die Partei ihre gesamte Führung neu wählen. Bewerbungen liegen noch nicht vor, aber es gibt Zeit und Ort für den Bundesparteitag.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-parteitag-bremen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T12:45:47+00:00"
+  },
+  {
+   "t": "Ausnahmezustand in El Salvador: Zehntausende Gefangene könnten freikommen",
+   "s": "El Salvadors autoritär regierender Präsident Nayib Bukele deutet an, rund die Hälfte der wegen Bandenkriminalität Inhaftierten freilassen zu wollen.",
+   "u": "https://taz.de/Ausnahmezustand-in-El-Salvador/!6221894/",
+   "q": "taz",
+   "d": "2026-10-15T12:28:00+00:00"
+  },
+  {
+   "t": "Bundestag beschließt Notfallreform: Was sich jetzt ändert",
+   "s": "Neue integrierte Notfallzentren und eine vernetzte Leitstellenstruktur sollen überlastete Notaufnahmen entlasten und die Patientenversorgung verbessern.",
+   "u": "https://taz.de/Beschlossene-Notfallreform-Was-sich-jetzt-aendert/!6221813/",
+   "q": "taz",
+   "d": "2026-10-15T11:59:00+00:00"
+  },
+  {
+   "t": "Vor US-Zwischenwahlen: Wappnen gegen einen Coup",
+   "s": "Vor den Kongresswahlen in den USA befürchten viele, Präsident Trump könnte erneut eine Niederlage nicht anerkennen. Unser Autor hat ein Wahlbeobachtertraining besucht.",
+   "u": "https://taz.de/Vor-Zwischenwahlen-in-USA/!6221819/",
+   "q": "taz",
+   "d": "2026-10-15T11:58:00+00:00"
+  },
+  {
+   "t": "Bundeswehr: Pistorius will Reservedienst verpflichtend machen",
+   "s": "Im Bundestag wird heute über das \"Reservestärkungsgesetz\" beraten. Es soll dabei helfen, die Zahl der Reservistinnen und Reservisten zu erhöhen - auf 200.000 bis 2033. Aus der Wirtschaft kommt Kritik. Von K. Aue.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T11:03:31+00:00"
+  },
+  {
+   "t": "Protest gegen Rechenzentren in den USA: Big Data, big Protest",
+   "s": "In den USA entstehen riesige Rechenzentren. Doch auch der Protest gegen die Megabauten wächst – und wird vor den Midterms zum wichtigen Wahlkampfthema.",
+   "u": "https://taz.de/Protest-gegen-Rechenzentren-in-den-USA/!6220808/",
+   "q": "taz",
+   "d": "2026-10-15T10:04:00+00:00"
+  },
+  {
+   "t": "Wohnungsmieten: Immer schneller immer teurer",
+   "s": "Das Kiel Institut meldet für das dritte Quartal des laufenden Jahres den stärksten Anstieg der Mieten seit Anfang 2025. Vor allem Bestandswohnungen seien gefragt.",
+   "u": "https://taz.de/Anstieg-der-Wohnungsmieten/!6221881/",
+   "q": "taz",
+   "d": "2026-10-15T10:04:00+00:00"
+  },
+  {
+   "t": "Ermittlungen gegen SPD-Außenpolitiker: Hausdurchsuchung bei SPD-Abgeordnetem Ahmetovic",
+   "s": "Zuletzt fiel sein Name im Zusammenhang mit Ermittlungen in Hannover. Nun hat der Bundestag die Immunität des SPD-Abgeordneten Adis Ahmetovic aufgehoben.",
+   "u": "https://taz.de/Ermittlungen-gegen-SPD-Aussenpolitiker/!6221860/",
+   "q": "taz",
+   "d": "2026-10-15T09:28:00+00:00"
+  },
+  {
+   "t": "Reform der Notfallversorgung beschlossen - was sich für Patienten ändert",
+   "s": "Wer wirklich dringend medizinische Hilfe braucht, soll schneller drankommen. Leichtere Fälle sollen gar nicht erst in der Notaufnahme landen - der Bundestag hat die Reform der Notfallmedizin beschlossen. Was ändert sich konkret?",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T08:32:37+00:00"
+  },
   {
    "t": "+++ Nachrichten im Ukrainekrieg +++: Kein Waffenstillstand zwischen Ukraine und Russland",
    "s": "Präsident Wolodymyr Selenskyj kündigt die Wiederaufnahme von Angriffen auf russische Raffinerien an. Kyjiw meldet bessere Starlink-Verbindungen nach Selenskyjs Appell an Elon Musk.",
@@ -36,6 +113,13 @@
    "u": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html",
    "q": "Tagesschau",
    "d": "2026-10-15T01:48:20+00:00"
+  },
+  {
+   "t": "Foodwatch hofft auf weniger Zucker in den Getränken durch neue Steuer",
+   "s": "Ab 1. Juli 2027 soll eine Zuckersteuer auf Getränke erhoben werden. Diese Einigung in der Koalition begrüßt die Organisation Foodwatch als \"Meilenstein\", so Geschäftsführer Chris Methmann. Die Einnahmen sollten in die Gesundheitsprävention fließen.Heckmann, Dirk-Oliver; Methmann, Chris",
+   "u": "https://www.deutschlandfunk.de/koalition-einigt-sich-auf-zuckersteuer-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-14T21:20:11+00:00"
   },
   {
    "t": "Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
@@ -85,90 +169,6 @@
    "u": "https://taz.de/Umfrage-89-befuerworten-haertere-Strafen-gegen-Mietwucher/!6221484/",
    "q": "taz",
    "d": "2026-10-14T17:36:00+00:00"
-  },
-  {
-   "t": "Prozess um Nord-Stream-Sprengung: Der erste angeklagte Kriegsverbrecher in Russlands Krieg ist Ukrainer",
-   "s": "Der ukrainische Offizier Serhii K. soll für die Sprengung der Gaspipeline 2022 verantwortlich sein. War das ein Verbrechen gegen das Völkerrecht?",
-   "u": "https://taz.de/Prozess-um-Nord-Stream-Sprengung/!6212605/",
-   "q": "taz",
-   "d": "2026-10-14T16:50:00+00:00"
-  },
-  {
-   "t": "Wem gehört das Trinkwasser, wenn es knapp wird?",
-   "s": "In der brandenburgischen Stadt Baruth eskaliert gerade ein Streit: Bürger fürchten, dass der Getränkehersteller Red Bull ihnen das Wasser abgräbt. Konflikte um die Wassernutzung nehmen in Deutschland zu. Ist dies Ausdruck einer Rechtslücke?Rehmsmeier, Andrea",
-   "u": "https://www.deutschlandfunk.de/buerger-oder-fabrik-wem-gehoert-das-trinkwasser-wenn-es-knapp-wird-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-14T16:40:00+00:00"
-  },
-  {
-   "t": "Massenproteste in Indien: Modi-Regierung steht unter massivem Druck",
-   "s": "Zehntausende protestieren wegen der Überarbeitung von Wäh­le­r:in­nen­lis­ten gegen den Chef der indischen Wahlkommission. Unterdessen wurden führende Mitglieder der CJP festgenommen.",
-   "u": "https://taz.de/Massenproteste-in-Indien/!6221584/",
-   "q": "taz",
-   "d": "2026-10-14T15:45:00+00:00"
-  },
-  {
-   "t": "Kanzler setzt auf gute Regierungsarbeit gegen Extremismus",
-   "s": "In seiner Regierungserklärung betont der Kanzler, dass Deutschland unter Druck stehe wie \"vielleicht noch nie\". Unzufriedenheit führe zu Extremismus. Dem müsse man \"schöpferische Anstrengung\" entgegensetzen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungserklaerung-122.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T15:33:29+00:00"
-  },
-  {
-   "t": "Deutscher Völkermord in Namibia: „Gerechtigkeit und Reparationen“",
-   "s": "Linke und Grüne beantragen im Bundestag die Anerkennung des deutschen Völkermordes an Herero und Nama. Deren Vertreter loben die Übernahme von Verantwortung.",
-   "u": "https://taz.de/Deutscher-Voelkermord-in-Namibia/!6221578/",
-   "q": "taz",
-   "d": "2026-10-14T15:25:00+00:00"
-  },
-  {
-   "t": "Ukraine-Sonderplenum in Sachsen-Anhalt: Magdeburger Landtag jetzt Außenstelle des Kreml",
-   "s": "AfD und BSW bringen in Sachsen-Anhalt den ersten gemeinsamen Antrag zum Thema Frieden in der Ukraine durch. Rechtlich verbindlich ist er aber nicht.",
-   "u": "https://taz.de/Ukraine-Sonderplenum-in-Sachsen-Anhalt/!6221580/",
-   "q": "taz",
-   "d": "2026-10-14T15:21:00+00:00"
-  },
-  {
-   "t": "Pflegereform: Zuschüsse bei Heimaufenthalt sollen „zielgenauer“ werden",
-   "s": "Die Bundesregierung hat eine Expertenkommission für die weitere Pflegereform eingesetzt. Diese soll das kürzlich beschlossene Spargesetz ergänzen.",
-   "u": "https://taz.de/Pflegereform/!6221628/",
-   "q": "taz",
-   "d": "2026-10-14T14:56:00+00:00"
-  },
-  {
-   "t": "Russische Angriffe im Schwarzen Meer: „Das ist eine echte Gefahr für die Schifffahrt“",
-   "s": "Vor den Küsten Bulgariens und Rumäniens sind mehrere Frachtschiffe von Drohnen angegriffen worden. Ex­per­t:in­nen gehen davon aus, dass Russland dahintersteckt.",
-   "u": "https://taz.de/Russische-Angriffe-im-Schwarzen-Meer/!6221713/",
-   "q": "taz",
-   "d": "2026-10-14T14:40:00+00:00"
-  },
-  {
-   "t": "Kyjiw rüstet sich für Winter: Vitali Klitschko muss sich gegen Vorwürfe wehren",
-   "s": "Kyjiws Bürgermeister Klitschko kritisiert die ukrainische Regierung scharf. Nun steht er selbst unter Druck – wegen mangelnder Vorbereitungen auf den Winter.",
-   "u": "https://taz.de/Kyjiw-ruestet-sich-fuer-Winter/!6221490/",
-   "q": "taz",
-   "d": "2026-10-14T14:02:00+00:00"
-  },
-  {
-   "t": "Nach Starlink-Anschlag in Polen: Brand an Starlink-Antennen auch in Bulgarien",
-   "s": "Anlagen des Satellitendienstes Starlink sind wohl erneut zu Zielen von Saboteuren geworden. Bulgarien meldet jetzt ebenfalls einen Brand in einer Anlage.",
-   "u": "https://taz.de/Nach-Starlink-Anschlag-in-Polen/!6221692/",
-   "q": "taz",
-   "d": "2026-10-14T13:49:00+00:00"
-  },
-  {
-   "t": "Unruhen auf Mauritius: Von hinten eine Polizeikugel in den Nacken",
-   "s": "Die Regierung von Mauritius verhängt Ausgangssperren nach gewalttätigen Unruhen. Proteste richteten sich gegen Wasserknappheit und Polizeigewalt.",
-   "u": "https://taz.de/Unruhen-auf-Mauritius/!6221581/",
-   "q": "taz",
-   "d": "2026-10-14T13:37:00+00:00"
-  },
-  {
-   "t": "Pflegekommission eingesetzt: Was Experten jetzt klären sollen",
-   "s": "Die Bundesregierung hat sich auf die Einsetzung der Pflegestrukturkommission geeinigt. Sie soll Lösungen für eine große Reform finden. Im Zentrum stehen Eigenanteile, sozialer Ausgleich und die langfristige Finanzierung. Von Ilanit Spinner.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T12:55:39+00:00"
   }
  ]
 }

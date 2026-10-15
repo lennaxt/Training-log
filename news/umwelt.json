@@ -1,7 +1,35 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-15T08:19:39+00:00",
+ "updated": "2026-10-15T14:10:27+00:00",
  "items": [
+  {
+   "t": "Unicef-Studie zu benachteiligten Kindern: Wer bei den Jüngsten spart, zahlt später drauf",
+   "s": "In benachteiligte Kinder zu investieren, kann dem Staatshaushalt nutzen. Das zeigt eine neue Studie. Die Bundesregierung plant das Gegenteil.",
+   "u": "https://taz.de/Unicef-Studie-zu-benachteiligten-Kindern/!6221836/",
+   "q": "taz",
+   "d": "2026-10-15T13:42:00+00:00"
+  },
+  {
+   "t": "Bundestag beschließt Notfallreform: Was sich jetzt ändert",
+   "s": "Neue integrierte Notfallzentren und eine vernetzte Leitstellenstruktur sollen überlastete Notaufnahmen entlasten und die Patientenversorgung verbessern.",
+   "u": "https://taz.de/Beschlossene-Notfallreform-Was-sich-jetzt-aendert/!6221813/",
+   "q": "taz",
+   "d": "2026-10-15T11:59:00+00:00"
+  },
+  {
+   "t": "Wohnungsmieten: Immer schneller immer teurer",
+   "s": "Das Kiel Institut meldet für das dritte Quartal des laufenden Jahres den stärksten Anstieg der Mieten seit Anfang 2025. Vor allem Bestandswohnungen seien gefragt.",
+   "u": "https://taz.de/Anstieg-der-Wohnungsmieten/!6221881/",
+   "q": "taz",
+   "d": "2026-10-15T10:04:00+00:00"
+  },
+  {
+   "t": "Ermittlungen gegen SPD-Außenpolitiker: Hausdurchsuchung bei SPD-Abgeordnetem Ahmetovic",
+   "s": "Zuletzt fiel sein Name im Zusammenhang mit Ermittlungen in Hannover. Nun hat der Bundestag die Immunität des SPD-Abgeordneten Adis Ahmetovic aufgehoben.",
+   "u": "https://taz.de/Ermittlungen-gegen-SPD-Aussenpolitiker/!6221860/",
+   "q": "taz",
+   "d": "2026-10-15T09:28:00+00:00"
+  },
   {
    "t": "Bundestag will Reform beschließen: Notfallmedizin unter Druck",
    "s": "Die Notfallversorgung leidet unter Überlastung und Fehlsteuerung, wie eine neue Umfrage zeigt. Was die Bundesregierung plant.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Zum-Nord-Stream-Prozess/!6221273/",
    "q": "taz",
    "d": "2026-10-13T17:52:00+00:00"
-  },
-  {
-   "t": "Landtag Sachsen-Anhalt: CDU-Fraktion will AfD sitzen lassen",
-   "s": "Die CDU in Sachsen-Anhalt will bei der Ministerpräsidentenwahl den Saal verlassen, um Siegmunds Erfolg zu verhindern. Das setzt AfD und BSW unter Druck.",
-   "u": "https://taz.de/Landtag-Sachsen-Anhalt/!6221397/",
-   "q": "taz",
-   "d": "2026-10-13T16:36:00+00:00"
-  },
-  {
-   "t": "Erbschaftsteuer vor Gericht: Karlsruhe prüft den Erbenrabatt",
-   "s": "Normale Erbschaften werden besteuert, Unternehmensvermögen oft verschont. Ist das gerecht? Darüber verhandelte das Bundesverfassungsgericht.",
-   "u": "https://taz.de/Erbschaftsteuer-vor-Gericht/!6221399/",
-   "q": "taz",
-   "d": "2026-10-13T16:17:00+00:00"
-  },
-  {
-   "t": "Sexualisierte Gewalt gegen Kinder: „Risiken im digitalen Raum explodieren“",
-   "s": "Tausende Kinder und Jugendliche erleben sexuelle Gewalt in Deutschland. Die Missbrauchsbeauftragte fordert dringend mehr Schutz und Ressourcen.",
-   "u": "https://taz.de/Sexualisierte-Gewalt-gegen-Kinder/!6221345/",
-   "q": "taz",
-   "d": "2026-10-13T16:15:00+00:00"
-  },
-  {
-   "t": "Ministerpräsidentenwahl in Magdeburg: Abweichler müssen Farbe bekennen",
-   "s": "Die CDU will den Saal verlassen, wenn in Sachsen-Anhalt der neue Ministerpräsident gewählt wird. Die Partei baut damit einem neuen Skandal vor.",
-   "u": "https://taz.de/Ministerpraesidentenwahl-in-Magdeburg/!6216855/",
-   "q": "taz",
-   "d": "2026-10-13T15:54:00+00:00"
   }
  ]
 }

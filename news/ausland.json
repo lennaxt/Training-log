@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-10-15T08:19:37+00:00",
+ "updated": "2026-10-15T14:10:25+00:00",
  "items": [
+  {
+   "t": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
+   "s": "Im Schwarzen Meer vor Rumäniens Küste ist auf einem Handelsschiff ein Feuer ausgebrochen. Es sei von Drohnen getroffen worden, teilte der rumänische Präsident Dan laut der Agentur Reuters mit. Mehrere Seeleute werden noch vermisst.",
+   "u": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T11:52:23+00:00"
+  },
+  {
+   "t": "Viele Tote bei Einsturz von Schuldach in Pakistan",
+   "s": "In Pakistan sind bei dem Einsturz eines Schuldachs mindestens 33 Menschen gestorben. Unter den Toten befinden sich vor allem Schüler, die gerade im Unterricht saßen. Die Polizei meldete bereits eine Festnahme.",
+   "u": "https://www.tagesschau.de/ausland/asien/pakistan-schuldach-einsturz-tote-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T10:10:33+00:00"
+  },
+  {
+   "t": "Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul",
+   "s": "Straßen stehen unter Wasser, Fahrzeuge bleiben stecken: Bei heftigen Regenfällen sind in Istanbul mindestens zwei Menschen gestorben. Die Behörden sind im Großeinsatz - und auch heute ist weiterer Regen angekündigt.",
+   "u": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T09:05:45+00:00"
+  },
   {
    "t": "Sorge vor Spionage: Slowakei erneuert Militärkontakte mit Russland",
    "s": "Unter Premierminister Fico gilt die Slowakei schon länger als Putins Einfallstor in die EU. Umso bedenklicher ist, dass sein Land nun auch im Stillen die Militärkontakte mit Russland wieder aufgenommen hat. Von Marianne Allweiss.",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/us-botschaft-athen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-13T18:02:23+00:00"
-  },
-  {
-   "t": "Wirtschaft im Jemen: Waffen statt Honig und Fisch",
-   "s": "Der Krieg im Jemen bedroht nicht nur eine der wichtigsten Handelsrouten der Welt, sondern auch die lokale Wirtschaft. Viele Existenzen sind bedroht, die mögliche Teilung des Landes in Nord und Süd wird diskutiert. Von Ramin Sina.",
-   "u": "https://www.tagesschau.de/ausland/asien/jemen-krieg-alltag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T18:00:34+00:00"
-  },
-  {
-   "t": "Schwarzes Meer: Bulgarien nennt Drohnenangriffe \"absolut inakzeptabel\"",
-   "s": "Es ist der zweite Vorfall innerhalb einer Woche: Wieder wurden Schiffe vor Bulgariens Küste von Drohnen attackiert. Die Regierung bestellte die russische Botschafterin ein. Experten sehen eine konkrete Gefahr für Europas Sicherheit. Von Silke Hahne.",
-   "u": "https://www.tagesschau.de/ausland/schwarzes-meer-schiffe-drohnen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T17:34:06+00:00"
-  },
-  {
-   "t": "Landesweite Demonstrationen: Frankreichs Schüler lassen nicht locker",
-   "s": "Ihre Forderungen sind bekannt: bessere Lernbedingungen. Wieder sind in Frankreich deswegen Schulen blockiert, wieder waren mehr als 160.000 Schüler zum Protest auf der Straße. Die Zugeständnisse der Politik sind ihnen bislang zu gering.",
-   "u": "https://www.tagesschau.de/ausland/frankreich-schueler-studenten-proteste-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T15:54:56+00:00"
   }
  ]
 }
