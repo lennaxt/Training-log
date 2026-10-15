@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-14T23:55:37+00:00",
+ "updated": "2026-10-15T08:19:39+00:00",
  "items": [
+  {
+   "t": "Bundestag will Reform beschließen: Notfallmedizin unter Druck",
+   "s": "Die Notfallversorgung leidet unter Überlastung und Fehlsteuerung, wie eine neue Umfrage zeigt. Was die Bundesregierung plant.",
+   "u": "https://taz.de/Bundestag-will-Reform-beschliessen/!6221810/",
+   "q": "taz",
+   "d": "2026-10-15T06:40:00+00:00"
+  },
   {
    "t": "Regierungsbildung in Berlin: Parteien sondieren wieder",
    "s": "Die Sondierungsgespräche in Berlin schienen in einer Sackgasse zu stecken. Kommen Linke, Grüne und SPD da wieder raus? Ein Gespräch hat offenbar geholfen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Ministerpraesidentenwahl-in-Magdeburg/!6216855/",
    "q": "taz",
    "d": "2026-10-13T15:54:00+00:00"
-  },
-  {
-   "t": "Antisemitismusbeauftragte des Bundes: Eine Adlige für Dobrindt",
-   "s": "Die deutsche EU-Beamtin Katharina von Schnurbein soll neue Antisemitismusbeauftragte des Bundes werden. In Brüssel war sie durchaus umstritten.",
-   "u": "https://taz.de/Antisemitismusbeauftragte-des-Bundes/!6221300/",
-   "q": "taz",
-   "d": "2026-10-13T14:00:00+00:00"
   }
  ]
 }

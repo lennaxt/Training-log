@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-14T23:55:36+00:00",
+ "updated": "2026-10-15T08:19:38+00:00",
  "items": [
+  {
+   "t": "Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?",
+   "s": "Ab heute gilt das bundesweite Alkoholverbot an den Bahnhöfen der Deutschen Bahn. Der Konzern hofft, dass es damit zu weniger Konflikten kommt. In fast 40 Bahnhöfen wurde der Schritt bereits getestet. Von Jens Eberl.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T07:11:08+00:00"
+  },
+  {
+   "t": "Marktbericht: Börsen zwischen KI-Euphorie und Inflationssorgen",
+   "s": "Die Berichtssaison und neue Konjunkturdaten geben den Takt vor. Im Mittelpunkt steht die Chipbranche: Nach optimistischen Geschäftsaussichten von ASML richtet sich der Blick auf den taiwanischen Chipkonzern TSMC.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T05:45:57+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 14.10.2026",
    "s": "Wirtschaft vor acht vom 14.10.2026",
@@ -15,13 +29,6 @@
    "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-14T16:40:00+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX bleibt im Seitwärtstrend",
-   "s": "DAX-Anleger haben sich heute zurückgehalten, der Index pendelt weiter um die Marke von 25.000 Punkten. Auch neue US-Inflationsdaten ändern daran nichts. Bestimmend bleibt der Stillstand in Nahost.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T16:24:05+00:00"
   },
   {
    "t": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
@@ -129,27 +136,6 @@
    "d": "2026-10-13T15:50:00+00:00"
   },
   {
-   "t": "Galeria-Insolvenz: Wie geht's weiter für Angestellte und Kunden?",
-   "s": "Abgesperrte Regale, Unsicherheit über Standorte - nun zumindest Insolvenzgeld für Beschäftigte. Wie geht es vor dem wichtigen Weihnachtsgeschäft für die Kaufhauskette Galeria weiter? Ein Überblick.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T14:33:25+00:00"
-  },
-  {
-   "t": "Bahn-Fahrplan: Neue ICE-Sprinter, aber weiter viele Baustellen",
-   "s": "Ab diesem Mittwoch lassen sich Tickets für den neuen Bahn-Fahrplan buchen. Zum Wechsel im Dezember fährt ein neuer ICE-Sprinter zwischen Hamburg und München. Baustellen werden weiter für längere Fahrzeiten sorgen.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-fahrplan-zugverkehr-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T11:06:11+00:00"
-  },
-  {
-   "t": "Weinlese: Winzer rechnen mit kleinster Ernte seit 2010",
-   "s": "Die diesjährige Weinernte bleibt den Winzern zufolge unter dem Durchschnitt der vergangenen Jahre. Durch den heißen Sommer sind viele Trauben kleiner als sonst - schmecken aber intensiver.",
-   "u": "https://www.tagesschau.de/wirtschaft/weinlese-2026-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T10:13:09+00:00"
-  },
-  {
    "t": "Erbschaftssteuer vor Gericht - Von Firmenerben, Sparkonten und Aktiendepots",
    "s": "In Deutschland werden nicht nur Geld und Immobilien vererbt, auch viele Firmen gehen auf die nächste Generation über. Dass ein vererbtes Unternehmen anders besteuert wird als etwa Aktien oder ein Sparkonto, beschäftigt nun wieder das Verfassungsgericht.",
    "u": "https://www.deutschlandfunk.de/erbschaftsteuer-gerechtigkeit-unternehmen-verfassungsgericht-100.html",
@@ -157,18 +143,32 @@
    "d": "2026-10-13T09:52:00+00:00"
   },
   {
-   "t": "IWF hebt Prognose für deutsche Wirtschaft deutlich an",
-   "s": "Fast doppelt so stark wie bislang erwartet: Der Internationale Währungsfonds hebt die Wirtschaftsprognose für Deutschland auf 1,3 Prozent an. Für die Weltwirtschaft gibt es eine kleine Änderung.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-prognose-deutschland-104.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T03:30:15+00:00"
+   "t": "Wasser wird wertvoller",
+   "s": "Deutschland hat im Winter zu viel Wasser – und im Sommer immer weniger. Das belastet Umwelt und Wirtschaft. Die Bundesregierung fordert einen “neuen Umgang” mit Wasser. Wer viel verbraucht, soll mehr zahlen.",
+   "u": "https://www.deutschlandfunk.de/wassermangel-deutschland-strategie-bundesregierung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-06T11:45:00+00:00"
   },
   {
-   "t": "Autoindustrie: VW in der Slowakei - hoffnungsvolle Krise?",
-   "s": "In Bratislava steht das zweitgrößte Werk von Volkswagen - eines der modernsten. Dennoch könnte es schrumpfen. Doch es gibt Hoffnung in der Slowakei, deren Einwohner weltweit am meisten Autos pro Kopf produzieren. Von M. Allweiss.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T00:10:57+00:00"
+   "t": "CO2-Zertifikate: Wie glaubwürdig ist der freiwillige Klimamarkt?",
+   "s": "Unternehmen nutzen CO2-Zertifikate, um Emissionen auszugleichen. Doch bei vielen Projekten ist unklar, wie groß die Klimawirkung wirklich ist, wohin das Geld fließt und welche Folgen sie für Landrechte und Menschen vor Ort haben.",
+   "u": "https://www.deutschlandfunk.de/klimaschutz-co2-zertifikate-emissionen-kompensation-greenwashing-kritik-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-05T10:39:00+00:00"
+  },
+  {
+   "t": "Kommentar: Politische Kälte auf dem spanischen Wohnungsmarkt",
+   "s": "Das spanische Parlament hat geplante, recht milde Mieterschutzregeln abgelehnt. Das Nein offenbart politische Kälte gegenüber einem der größten Probleme des Landes. Für Ministerpräsident Pedro Sánchez wird das zur Bewährungsprobe.Von Hans-Günter Kellner",
+   "u": "https://www.deutschlandfunk.de/kommentar-spanien-proteste-mieten-wohnen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-05T08:29:00+00:00"
+  },
+  {
+   "t": "Gewerbesteueroasen - Standortwettbewerb auf Kosten von Kommunen",
+   "s": "Steueroasen gibt es nicht nur auf den Cayman Islands, sondern auch in Deutschland. Sie sind legal, führen aber auch zu Missbrauch durch Unternehmer. Leidtragende sind die Kommunen.",
+   "u": "https://www.deutschlandfunk.de/steueroasen-deutschland-gewerbesteuer-kommunen-unternehmen-hebesatz-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-27T15:20:00+00:00"
   }
  ]
 }

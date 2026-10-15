@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-14T23:55:38+00:00",
+ "updated": "2026-10-15T08:19:40+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Kein Waffenstillstand zwischen Ukraine und Russland",
+   "s": "Präsident Wolodymyr Selenskyj kündigt die Wiederaufnahme von Angriffen auf russische Raffinerien an. Kyjiw meldet bessere Starlink-Verbindungen nach Selenskyjs Appell an Elon Musk.",
+   "u": "https://taz.de/Nachrichten-im-Ukrainekrieg/!6221815/",
+   "q": "taz",
+   "d": "2026-10-15T07:59:00+00:00"
+  },
   {
    "t": "Russische Angriffe im Schwarzen Meer: „Das ist eine echte Gefahr für die Schifffahrt“",
    "s": "Vor den Küsten Bulgariens und Rumäniens sind mehrere Frachtschiffe von Drohnen angegriffen worden. Ex­per­t:in­nen gehen davon aus, dass Russland dahintersteckt.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/US-Sanktionen-gegen-Strafgerichtshof/!6220566/",
    "q": "taz",
    "d": "2026-10-11T15:54:00+00:00"
-  },
-  {
-   "t": "Streit um EU-Haushalt: Kürzungen oder noch mehr Kürzungen?",
-   "s": "Der Streit über den Haushalt und die Zukunft der EU spitzt sich zu – Merz lehnt einen neuen Kompromissvorschlag der irischen Ratspräsidentschaft ab.",
-   "u": "https://taz.de/Streit-um-EU-Haushalt/!6220588/",
-   "q": "taz",
-   "d": "2026-10-11T15:53:00+00:00"
   }
  ]
 }

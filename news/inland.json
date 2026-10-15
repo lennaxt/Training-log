@@ -1,7 +1,42 @@
 {
  "name": "Inland",
- "updated": "2026-10-14T23:55:34+00:00",
+ "updated": "2026-10-15T08:19:36+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Kein Waffenstillstand zwischen Ukraine und Russland",
+   "s": "Präsident Wolodymyr Selenskyj kündigt die Wiederaufnahme von Angriffen auf russische Raffinerien an. Kyjiw meldet bessere Starlink-Verbindungen nach Selenskyjs Appell an Elon Musk.",
+   "u": "https://taz.de/Nachrichten-im-Ukrainekrieg/!6221815/",
+   "q": "taz",
+   "d": "2026-10-15T07:59:00+00:00"
+  },
+  {
+   "t": "Bundestag will Reform beschließen: Notfallmedizin unter Druck",
+   "s": "Die Notfallversorgung leidet unter Überlastung und Fehlsteuerung, wie eine neue Umfrage zeigt. Was die Bundesregierung plant.",
+   "u": "https://taz.de/Bundestag-will-Reform-beschliessen/!6221810/",
+   "q": "taz",
+   "d": "2026-10-15T06:40:00+00:00"
+  },
+  {
+   "t": "Ukrainischer Botschafter Makeiev vertraut auf deutsche Unterstützung",
+   "s": "Die Unterstützung der Verbündeten ist für die Ukraine im Krieg gegen Russland überlebenswichtig, sagt der ukrainische Botschafter Oleksii Makeiev. Er verurteilte die Forderungen von AfD und BSW in Sachsen-Anhalt, die Hilfe für sein Land einzustellen.Zerback, Sarah",
+   "u": "https://www.deutschlandfunk.de/verbuendete-der-ukraine-interview-mit-botschafter-oleksii-makeiev-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-15T06:15:00+00:00"
+  },
+  {
+   "t": "Notfallmedizin unter Druck: Bundestag stimmt über Reform ab",
+   "s": "Notaufnahmen und Rettungsdienste sind seit Jahren überlastet. Nun will der Bundestag endlich eine Reform auf den Weg bringen. Große Hilfs- und Rettungsorganisationen verlangen allerdings Nachbesserungen. Von B. Sönnichsen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T03:00:17+00:00"
+  },
+  {
+   "t": "Deutschlandweit: Alkoholverbot an Bahnhöfen in Kraft",
+   "s": "Bundesweit gilt an allen rund 5.700 Stationen der Deutschen Bahn inklusive der Bahnsteige ab heute ein Alkoholverbot. Die Bahn erhofft sich davon mehr Sicherheit.",
+   "u": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T01:48:20+00:00"
+  },
   {
    "t": "Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
    "s": "Gute Nachrichten für gesetzlich Versicherte: Der GKV-Schätzerkreis hat über den Zusatzbeitrag für das kommende Jahr beraten - mit dem Ergebnis, dass dieser stabil bleiben kann. Der Gesundheitsminister wertet die Entwicklung positiv.",
@@ -67,7 +102,7 @@
   },
   {
    "t": "Massenproteste in Indien: Modi-Regierung steht unter massivem Druck",
-   "s": "Zehntausende protestieren gegen den Chef der indischen Wahlkommission. Der hatte das Wählerverzeichnis überarbeitet. Nun fürchtet die Opposition Manipulation.",
+   "s": "Zehntausende protestieren wegen der Überarbeitung von Wäh­le­r:in­nen­lis­ten gegen den Chef der indischen Wahlkommission. Unterdessen wurden führende Mitglieder der CJP festgenommen.",
    "u": "https://taz.de/Massenproteste-in-Indien/!6221584/",
    "q": "taz",
    "d": "2026-10-14T15:45:00+00:00"
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html",
    "q": "Tagesschau",
    "d": "2026-10-14T12:55:39+00:00"
-  },
-  {
-   "t": "Deutsch-Israelische Gesellschaft: „Boykottiert die Boykotteure!“",
-   "s": "Die Deutsch-Israelische Gesellschaft feierte ihren 60. Geburtstag im Roten Rathaus. Eine Koalition in Berlin unter Führung der Linkspartei lehnt sie ab.",
-   "u": "https://taz.de/Deutsch-Israelische-Gesellschaft/!6221631/",
-   "q": "taz",
-   "d": "2026-10-14T12:52:00+00:00"
-  },
-  {
-   "t": "Gewaltsame Festnahmen in USA: Die Tricks der Abschiebepolizei, um Widerstand zu vermeiden",
-   "s": "Die US-Einwanderungspolizei ICE rief in den Städten massiven Widerstand hervor. Nun operiert die Behörde dezentral. Tausende sind betroffen.",
-   "u": "https://taz.de/Gewalt-der-US-Abschiebepolizei/!6221488/",
-   "q": "taz",
-   "d": "2026-10-14T12:49:00+00:00"
-  },
-  {
-   "t": "Mehr Jugendschutz: Kabinett beschließt Eckpunkte für Social-Media-Beschränkungen",
-   "s": "Von einer Altersgrenze für Social Media bis zum \"KI-Seepferdchen\": Das Kabinett hat ein Bündel an Maßnahmen für besseren Kinder- und Jugendschutz im Internet auf den Weg gebracht. Wann die Regelungen in Kraft treten, ist aber noch offen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/kabinett-beschluss-jugendschutz-social-media-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T11:50:32+00:00"
-  },
-  {
-   "t": "Sondierungsgespräche: Berliner Grüne wollen doch wieder reden, die SPD zögert",
-   "s": "Nach dem Stopp der Sondierungen sind sich Grüne, SPD und Linke in Berlin uneins, wer welche Abmachung gebrochen haben soll. Die Grünen geben sich wieder gesprächsbereit.",
-   "u": "https://taz.de/Sondierungsgespraeche-in-Berlin/!6221551/",
-   "q": "taz",
-   "d": "2026-10-14T11:43:00+00:00"
-  },
-  {
-   "t": "Besteuerung von Unternehmenserben: Absurde Bevorzugung",
-   "s": "Weil die Erbschaftsteuer beim Erben großer Unternehmen sehr hoch wäre, werden Er­b:in­nen meist völlig verschont. Die Besserstellung ist nicht vermittelbar.",
-   "u": "https://taz.de/Besteuerung-von-Unternehmenserben/!6221497/",
-   "q": "taz",
-   "d": "2026-10-14T10:50:00+00:00"
   }
  ]
 }
