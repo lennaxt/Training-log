@@ -1,7 +1,49 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-15T23:42:00+00:00",
+ "updated": "2026-10-16T08:12:14+00:00",
  "items": [
+  {
+   "t": "Planung Bundeshaushalt: Geliehene Zukunft",
+   "s": "Auf den ersten Blick mutet der Entwurf des Bundeshaushalts für 2027 vorausschauend an. Doch das Fundament für Zukunftsprojekte ist bröckelig.",
+   "u": "https://taz.de/Planung-Bundeshaushalt/!6221842/",
+   "q": "taz",
+   "d": "2026-10-16T08:05:00+00:00"
+  },
+  {
+   "t": "Bundestag diskutiert Sabotage: Mehr Sicherheit und die Sache mit den Grundrechten",
+   "s": "Die größte Gefahr für hybride Angriffe gehe von Moskau aus, betonen Union und SPD und verteidigen ihre Reformpläne für die Nachrichtendienste.",
+   "u": "https://taz.de/Bundestag-diskutiert-Sabotage/!6222117/",
+   "q": "taz",
+   "d": "2026-10-16T07:11:00+00:00"
+  },
+  {
+   "t": "Neues Rundfunkgesetz in Bayern: Blasmusik statt Blase",
+   "s": "Die Söder-Regierung will dem Bayerischen Rundfunk zeigen, wie guter Journalismus geht. Die Eckpfeiler hat sie in einen Gesetzentwurf geschrieben.",
+   "u": "https://taz.de/Neues-Rundfunkgesetz-in-Bayern/!6222006/",
+   "q": "taz",
+   "d": "2026-10-16T06:41:00+00:00"
+  },
+  {
+   "t": "Haushaltskürzungen bei Frauenprojekten: Kein Schutzschild mehr für Frauen",
+   "s": "Vielen Frauenprojekten soll in Köln das Geld gestrichen werden. Diese wehren sich mit allen Mitteln. Am Freitag stimmt die Stadtverwaltung ab.",
+   "u": "https://taz.de/Haushaltskuerzungen-bei-Frauenprojekten/!6221796/",
+   "q": "taz",
+   "d": "2026-10-16T06:37:00+00:00"
+  },
+  {
+   "t": "Gesucht wegen Angriffen in Budapest: Antifaschist Gino Abazaj stellt sich der Polizei in Hannover",
+   "s": "Seit Jahren fordert Ungarn die Auslieferung des albanischen Antifaschisten Gino Abazaj. Nun stellte er sich selbst auf einer Polizeiwache in Hannover.",
+   "u": "https://taz.de/Gesucht-wegen-Angriffen-in-Budapest/!6222147/",
+   "q": "taz",
+   "d": "2026-10-16T06:15:00+00:00"
+  },
+  {
+   "t": "Sächsische Justiz gegen Antifaschistin: Verfahren wegen Strafvereitelung gegen Lina E. eingeleitet",
+   "s": "Die Leipziger Linke Lina E. wurde gerade aus der Beugehaft entlassen. Nun setzt die sächsische Justiz nach und versucht sie erneut in Haft zu nehmen.",
+   "u": "https://taz.de/Saechsische-Justiz-gegen-Antifaschistin/!6221972/",
+   "q": "taz",
+   "d": "2026-10-16T05:00:00+00:00"
+  },
   {
    "t": "SPD-Bundesparteitag im Januar: Für Klingbeil wird’s richtig eng",
    "s": "Nach dem Rücktritt von Bärbel Bas brodelt es in der mitgliederstarken NRW-SPD. Führende Ge­nos­s:in­nen bringen Landtagswahl-Spitzenkandidat Jochen Ott ins Spiel.",
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Pflegereform/!6221628/",
    "q": "taz",
    "d": "2026-10-14T14:56:00+00:00"
-  },
-  {
-   "t": "Deutsch-Israelische Gesellschaft: „Boykottiert die Boykotteure!“",
-   "s": "Die Deutsch-Israelische Gesellschaft feierte ihren 60. Geburtstag im Roten Rathaus. Eine Koalition in Berlin unter Führung der Linkspartei lehnt sie ab.",
-   "u": "https://taz.de/Deutsch-Israelische-Gesellschaft/!6221631/",
-   "q": "taz",
-   "d": "2026-10-14T12:52:00+00:00"
-  },
-  {
-   "t": "Sondierungsgespräche: Berliner Grüne wollen doch wieder reden, die SPD zögert",
-   "s": "Nach dem Stopp der Sondierungen sind sich Grüne, SPD und Linke in Berlin uneins, wer welche Abmachung gebrochen haben soll. Die Grünen geben sich wieder gesprächsbereit.",
-   "u": "https://taz.de/Sondierungsgespraeche-in-Berlin/!6221551/",
-   "q": "taz",
-   "d": "2026-10-14T11:43:00+00:00"
-  },
-  {
-   "t": "Besteuerung von Unternehmenserben: Absurde Bevorzugung",
-   "s": "Weil die Erbschaftsteuer beim Erben großer Unternehmen sehr hoch wäre, werden Er­b:in­nen meist völlig verschont. Die Besserstellung ist nicht vermittelbar.",
-   "u": "https://taz.de/Besteuerung-von-Unternehmenserben/!6221497/",
-   "q": "taz",
-   "d": "2026-10-14T10:50:00+00:00"
-  },
-  {
-   "t": "Kampf gegen Übergewicht: Bundesregierung will Zuckersteuer auf Getränke ab Mitte 2027",
-   "s": "Das Kabinett beschließt einen Entwurf mit weniger Einnahmen als bisher vom Finanzministerium geplant. Kleine Hersteller sollen verschont werden.",
-   "u": "https://taz.de/Kampf-gegen-Uebergewicht/!6221575/",
-   "q": "taz",
-   "d": "2026-10-14T10:29:00+00:00"
-  },
-  {
-   "t": "Sondierungsstopp in Berlin: Wer hat Angst vorm Linksbündnis?",
-   "s": "Zwar sind die Sondierungen noch nicht abgebrochen. Doch SPD und Grüne haben in einem Maße eskaliert, dass ein Zusammenkommen kaum mehr möglich scheint.",
-   "u": "https://taz.de/Sondierungsstopp-in-Berlin/!6221494/",
-   "q": "taz",
-   "d": "2026-10-14T09:02:00+00:00"
-  },
-  {
-   "t": "Behindertengleichstellungsgesetz: Barrierefreiheit wird verschleppt",
-   "s": "Die SPD wirft der Union vor, die Reform des Behindertengleichstellungsgesetzes zu blockieren. Die Union bestreitet das. Warum geht es nicht voran?",
-   "u": "https://taz.de/Behindertengleichstellungsgesetz-Warum-geht-es-mit-der-Reform-nicht-voran/!6221306/",
-   "q": "taz",
-   "d": "2026-10-14T06:48:00+00:00"
   }
  ]
 }

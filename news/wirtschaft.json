@@ -1,13 +1,55 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-15T23:41:58+00:00",
+ "updated": "2026-10-16T08:12:12+00:00",
  "items": [
+  {
+   "t": "Bundestag beschließt Anhebung der Tabaksteuer",
+   "s": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T07:55:57+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 16.10.2026",
+   "s": "Update Wirtschaft vom 16.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1667144.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T07:50:22+00:00"
+  },
+  {
+   "t": "Marktbericht: Hoffnung auf Entlastung bei Öl- und Dieselpreisen",
+   "s": "Der DAX bewegt sich zum Wochenschluss zwischen geopolitischen Risiken einerseits und Hoffnung auf Entlastung andererseits. Die Internationale Energieagentur (IEA) will die Freigabe von Ölnotreserven beschleunigen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T05:40:56+00:00"
+  },
+  {
+   "t": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
+   "s": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag will heute über eine Maßnahme zur Alterssicherung entscheiden: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie bekommt.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T03:00:25+00:00"
+  },
+  {
+   "t": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
+   "s": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich eine Einigung ab.",
+   "u": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T01:17:45+00:00"
+  },
   {
    "t": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
    "s": "Seit zwei Jahren bemüht sich die italienische Großbank UniCredit um die Commerzbank. Nach langem Widerstand hat UniCredit nun eine wichtige Hürde genommen - und grünes Licht von der EZB bekommen.",
    "u": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html",
    "q": "Tagesschau",
    "d": "2026-10-15T19:53:38+00:00"
+  },
+  {
+   "t": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
+   "s": "Wie sicher ist der Umgang mit KI-Chatbots wie ChatGPT? Acht Bundesstaaten in den USA sehen erhebliche Risiken und haben deshalb Klagen gegen den Entwickler OpenAI eingereicht.",
+   "u": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-15T19:20:05+00:00"
   },
   {
    "t": "Wirtschaft vor acht vom 15.10.2026",
@@ -17,11 +59,11 @@
    "d": "2026-10-15T18:50:50+00:00"
   },
   {
-   "t": "Marktbericht: DAX vom Tech-Ausverkauf kaum betroffen",
-   "s": "Der DAX pendelt weiter um die Marke von 25.000 Punkten. Der weltweite Ausverkauf von Tech-Aktien hat den deutschen Leitindex nicht so stark getroffen - denn große Technologiewerte sind kaum vertreten.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+   "t": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
+   "s": "Die EU solle nicht so viel Geld ausgeben, findet Bundeskanzler Merz. Einige Länder sehen das genauso. Andere können den Sparvorschlägen nichts abgewinnen. Trotz klarer Fronten bleibt der große Knall im Ringen um den Haushalt aus. Von S. Stuchlik.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-15T16:32:51+00:00"
+   "d": "2026-10-15T18:05:32+00:00"
   },
   {
    "t": "EuGH-Urteil: Banken müssen bei Kontobetrug Geld erstatten",
@@ -43,13 +85,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/digitaler-stress-koerperliche-arbeit-100.html",
    "q": "Tagesschau",
    "d": "2026-10-15T09:47:14+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 15.10.2026",
-   "s": "Update Wirtschaft vom 15.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1666530.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T08:49:36+00:00"
   },
   {
    "t": "Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?",
@@ -108,13 +143,6 @@
    "d": "2026-10-14T10:24:16+00:00"
   },
   {
-   "t": "Verurteilter Signa-Gründer Benko darf in den Hausarrest wechseln",
-   "s": "Der wegen Betrugs verurteilte österreichische Investor René Benko darf das Gefängnis vorerst verlassen. Er soll sich mit einer Fußfessel im Hausarrest auf seinen neuen Prozess vorbereiten können.",
-   "u": "https://www.tagesschau.de/ausland/benko-fussfessel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T09:48:39+00:00"
-  },
-  {
    "t": "Bundesregierung einigt sich bei Zuckersteuer auf Zwei-Stufen-Modell",
    "s": "Nach der Einigung von Union und SPD zur Zuckersteuer hat das Bundeskabinett den entsprechenden Gesetzesentwurf auf den Weg gebracht. Ab dem 1. Juli 2027 soll ein Zwei-Stufen-Modell gelten - abhängig vom Zuckeranteil.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
@@ -129,20 +157,6 @@
    "d": "2026-10-14T06:59:05+00:00"
   },
   {
-   "t": "Finnland: KI-Boom auf Kosten der Natur?",
-   "s": "Google will Milliarden in Finnlands digitale Infrastruktur investieren. Für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet - offenbar ohne die vorgeschriebenen Genehmigungen. Von A. Bartram.",
-   "u": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T00:31:01+00:00"
-  },
-  {
-   "t": "Cyberattacken auf Hunderte französische Supermärkte",
-   "s": "Bei einem Cyberangriff sind die Tiefkühlsysteme Hunderter französischer Supermärkte lahmgelegt worden. Frankreichs Finanzminister spricht von einem \"Weckruf an alle\". Auch das deutsche Bundesamt für Sicherheit ist alarmiert.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T18:37:01+00:00"
-  },
-  {
    "t": "EU bremst Hybrid-Importe: Können deutsche Autobauer profitieren?",
    "s": "Chinesische Autohersteller gewinnen in Europa massiv an Gewicht. Die EU will die Konkurrenz eindämmen. Ein Import-Deckel für Hybridfahrzeuge soll heimische Hersteller stützen. Kann das funktionieren? Von Sebastian Schreiber.",
    "u": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
@@ -150,25 +164,11 @@
    "d": "2026-10-13T18:03:27+00:00"
   },
   {
-   "t": "Bundesverfassungsgericht zur Erbschaftsteuer: Wie gerecht ist sie?",
-   "s": "Wer in Deutschland erbt, muss Steuern zahlen. Außer man erbt ein Unternehmen, dann gibt es Ausnahmen - und oft fallen keine Steuern an. Ob das in Ordnung ist, muss nun das Verfassungsgericht entscheiden. Von Antonetta Stephany und Max Bauer.",
-   "u": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T16:30:57+00:00"
-  },
-  {
    "t": "Kommentar zur Erbschaftssteuer: Mehr Gerechtigkeit wagen!",
    "s": "Das Bundesverfassungsgericht beschäftigt sich mit der Erbschaftssteuer. Hierbei geht es um Fragen der Gerechtigkeit, mit denen sich eigentlich die Politik auseinandersetzen sollte. Die Koalition könnte dabei Handlungsfähigkeit zeigen.Ein Standpunkt von Gudula Geuther",
    "u": "https://www.deutschlandfunk.de/erbschaftssteuer-gerechtigkeit-verfassungsgericht-firmenerben-koalition-kommentar-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-13T15:50:00+00:00"
-  },
-  {
-   "t": "Erbschaftssteuer vor Gericht - Von Firmenerben, Sparkonten und Aktiendepots",
-   "s": "In Deutschland werden nicht nur Geld und Immobilien vererbt, auch viele Firmen gehen auf die nächste Generation über. Dass ein vererbtes Unternehmen anders besteuert wird als etwa Aktien oder ein Sparkonto, beschäftigt nun wieder das Verfassungsgericht.",
-   "u": "https://www.deutschlandfunk.de/erbschaftsteuer-gerechtigkeit-unternehmen-verfassungsgericht-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-13T09:52:00+00:00"
   }
  ]
 }

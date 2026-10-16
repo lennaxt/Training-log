@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-15T23:42:01+00:00",
+ "updated": "2026-10-16T08:12:15+00:00",
  "items": [
+  {
+   "t": "Tagebuch aus Litauen: Wo bleibt der Bus aus Belarus?",
+   "s": "Lettland und Litauen schränken Verkehrsverbindungen nach Belarus ein. Für Menschen im Exil eine Belastung. Wie halten sie Kontakt zu ihren Verwandten?",
+   "u": "https://taz.de/Tagebuch-aus-Litauen/!6221489/",
+   "q": "taz",
+   "d": "2026-10-16T07:01:00+00:00"
+  },
+  {
+   "t": "Selenskyj beim EU-Gipfel: Finanzen, Trump und Starlink",
+   "s": "Eine Finanzierungslücke, Ärger mit Trump um Starlink und den Dieseldeal mit Putin: Das dürften Hauptthemen beim Brüssel-Besuch Selenskyjs sein.",
+   "u": "https://taz.de/Selenskyj-beim-EU-Gipfel/!6222148/",
+   "q": "taz",
+   "d": "2026-10-16T06:32:00+00:00"
+  },
+  {
+   "t": "Russlands Methoden in der Ukraine: Ein Angriff auf die Zukunft",
+   "s": "Die russische Armee attackiert in der Ukraine nicht nur Öllager, sondern auch gezielt Orte der Kultur. Was das für Städte wie das westukrainische Luzk bedeutet.",
+   "u": "https://taz.de/Russlands-Methoden-in-der-Ukraine/!6221940/",
+   "q": "taz",
+   "d": "2026-10-16T05:25:00+00:00"
+  },
   {
    "t": "Studentenproteste in Albanien: Pyrotechnik statt rosa Flamingos",
    "s": "Was im Mai als friedlicher Protest gegen ein Luxusresort begann, legt jetzt Tiranas Innenstadt in Schutt und Asche: Die Jugend hat die Nase voll von Warten.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Trumps-Fantasie-von-Energie-Waffenruhe/!6220887/",
    "q": "taz",
    "d": "2026-10-12T14:09:00+00:00"
-  },
-  {
-   "t": "Sozialisten in Frankreich: Raphaël Glucksmann wird Kandidat bei Präsidentschaftswahlen",
-   "s": "Der EU-Abgeordnete Glucksmann geht bei den Präsidentenwahlen 2027 für die Sozialisten ins Rennen. Dass er in die Stichwahl kommt, ist allerdings unwahrscheinlich.",
-   "u": "https://taz.de/Vorwahlen-der-Sozialisten-in-Frankreich/!6220856/",
-   "q": "taz",
-   "d": "2026-10-12T11:32:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Russland lehnt Selenskyj-Vorschlag für Waffenruhe ab",
-   "s": "Auch nach Trumps Verkündung gehen die Angriffe laut der Ukraine weiter. EU-Außenbeauftragte Kallas warnt vor einer Ölkatastrophe.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6220799/",
-   "q": "taz",
-   "d": "2026-10-12T06:57:00+00:00"
-  },
-  {
-   "t": "US-Sanktionen gegen IStGH: Die Richter und ihr Henker",
-   "s": "Die Trump-Regierung greift den Internationalen Strafgerichtshof in Den Haag mit Sanktionen an. Wie sich das anfühlt, weiß Richterin Kimberly Prost.",
-   "u": "https://taz.de/US-Sanktionen-gegen-IStGH/!6220564/",
-   "q": "taz",
-   "d": "2026-10-11T17:48:00+00:00"
   }
  ]
 }

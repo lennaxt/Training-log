@@ -1,13 +1,111 @@
 {
  "name": "Inland",
- "updated": "2026-10-15T23:41:56+00:00",
+ "updated": "2026-10-16T08:12:10+00:00",
  "items": [
+  {
+   "t": "Planung Bundeshaushalt: Geliehene Zukunft",
+   "s": "Auf den ersten Blick mutet der Entwurf des Bundeshaushalts für 2027 vorausschauend an. Doch das Fundament für Zukunftsprojekte ist bröckelig.",
+   "u": "https://taz.de/Planung-Bundeshaushalt/!6221842/",
+   "q": "taz",
+   "d": "2026-10-16T08:05:00+00:00"
+  },
+  {
+   "t": "Bundeseigene Wohnungsbaugesellschaft soll 2027 starten",
+   "s": "Der Wohnungsmangel in Deutschland ist groß, eine bundeseigene Wohnungsbaugesellschaft soll Abhilfe schaffen. Nach Angaben von Bundesbauministerin Hubertz soll sie 2027 an den Start gehen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/hubertz-wohnungsbaugesellschaft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T08:04:20+00:00"
+  },
+  {
+   "t": "Ex-Bürgermeisterin von Barcelona: Die Rückkehr der Mietenkämpferin",
+   "s": "Ada Colau soll das linke Bündnis Frente Amplio in Spaniens Neuwahlen führen. Mit ihrem Kampf für bezahlbaren Wohnraum trifft sie einen Nerv.",
+   "u": "https://taz.de/Ex-Buergermeisterin-von-Barcelona/!6221689/",
+   "q": "taz",
+   "d": "2026-10-16T07:57:00+00:00"
+  },
   {
    "t": "Bundestag beschließt Anhebung der Tabaksteuer",
    "s": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-15T23:06:09+00:00"
+   "d": "2026-10-16T07:55:57+00:00"
+  },
+  {
+   "t": "Wieder Schulmassaker in den USA: Drei Grundschulkinder und ein Lehrer erschossen",
+   "s": "Im Bundesstaat Oregon wurden drei Kinder und ein Lehrer getötet, weitere wurden verletzt. Der 16-jährige Täter wurde von einem Anwohner erschossen.",
+   "u": "https://taz.de/Wieder-Schulmassaker-in-den-USA/!6222151/",
+   "q": "taz",
+   "d": "2026-10-16T07:37:00+00:00"
+  },
+  {
+   "t": "Bundestag diskutiert Sabotage: Mehr Sicherheit und die Sache mit den Grundrechten",
+   "s": "Die größte Gefahr für hybride Angriffe gehe von Moskau aus, betonen Union und SPD und verteidigen ihre Reformpläne für die Nachrichtendienste.",
+   "u": "https://taz.de/Bundestag-diskutiert-Sabotage/!6222117/",
+   "q": "taz",
+   "d": "2026-10-16T07:11:00+00:00"
+  },
+  {
+   "t": "Tagebuch aus Litauen: Wo bleibt der Bus aus Belarus?",
+   "s": "Lettland und Litauen schränken Verkehrsverbindungen nach Belarus ein. Für Menschen im Exil eine Belastung. Wie halten sie Kontakt zu ihren Verwandten?",
+   "u": "https://taz.de/Tagebuch-aus-Litauen/!6221489/",
+   "q": "taz",
+   "d": "2026-10-16T07:01:00+00:00"
+  },
+  {
+   "t": "Neues Rundfunkgesetz in Bayern: Blasmusik statt Blase",
+   "s": "Die Söder-Regierung will dem Bayerischen Rundfunk zeigen, wie guter Journalismus geht. Die Eckpfeiler hat sie in einen Gesetzentwurf geschrieben.",
+   "u": "https://taz.de/Neues-Rundfunkgesetz-in-Bayern/!6222006/",
+   "q": "taz",
+   "d": "2026-10-16T06:41:00+00:00"
+  },
+  {
+   "t": "Haushaltskürzungen bei Frauenprojekten: Kein Schutzschild mehr für Frauen",
+   "s": "Vielen Frauenprojekten soll in Köln das Geld gestrichen werden. Diese wehren sich mit allen Mitteln. Am Freitag stimmt die Stadtverwaltung ab.",
+   "u": "https://taz.de/Haushaltskuerzungen-bei-Frauenprojekten/!6221796/",
+   "q": "taz",
+   "d": "2026-10-16T06:37:00+00:00"
+  },
+  {
+   "t": "Selenskyj beim EU-Gipfel: Finanzen, Trump und Starlink",
+   "s": "Eine Finanzierungslücke, Ärger mit Trump um Starlink und den Dieseldeal mit Putin: Das dürften Hauptthemen beim Brüssel-Besuch Selenskyjs sein.",
+   "u": "https://taz.de/Selenskyj-beim-EU-Gipfel/!6222148/",
+   "q": "taz",
+   "d": "2026-10-16T06:32:00+00:00"
+  },
+  {
+   "t": "Gesucht wegen Angriffen in Budapest: Antifaschist Gino Abazaj stellt sich der Polizei in Hannover",
+   "s": "Seit Jahren fordert Ungarn die Auslieferung des albanischen Antifaschisten Gino Abazaj. Nun stellte er sich selbst auf einer Polizeiwache in Hannover.",
+   "u": "https://taz.de/Gesucht-wegen-Angriffen-in-Budapest/!6222147/",
+   "q": "taz",
+   "d": "2026-10-16T06:15:00+00:00"
+  },
+  {
+   "t": "Russlands Methoden in der Ukraine: Ein Angriff auf die Zukunft",
+   "s": "Die russische Armee attackiert in der Ukraine nicht nur Öllager, sondern auch gezielt Orte der Kultur. Was das für Städte wie das westukrainische Luzk bedeutet.",
+   "u": "https://taz.de/Russlands-Methoden-in-der-Ukraine/!6221940/",
+   "q": "taz",
+   "d": "2026-10-16T05:25:00+00:00"
+  },
+  {
+   "t": "Sächsische Justiz gegen Antifaschistin: Verfahren wegen Strafvereitelung gegen Lina E. eingeleitet",
+   "s": "Die Leipziger Linke Lina E. wurde gerade aus der Beugehaft entlassen. Nun setzt die sächsische Justiz nach und versucht sie erneut in Haft zu nehmen.",
+   "u": "https://taz.de/Saechsische-Justiz-gegen-Antifaschistin/!6221972/",
+   "q": "taz",
+   "d": "2026-10-16T05:00:00+00:00"
+  },
+  {
+   "t": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
+   "s": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag will heute über eine Maßnahme zur Alterssicherung entscheiden: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie bekommt.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T03:00:25+00:00"
+  },
+  {
+   "t": "EU-Haushaltsdebatte: Sorge vor Rhetorik der Populisten",
+   "s": "Mit einem Kompromiss beim EU-Budget rechnet der Politologe Josef Janning zum Jahresende. Der Haushalt benötige Einstimmigkeit und es werde ein Entgegenkommen beider Seiten geben. Die EU benötige mehr Geld angesichts der großen Herausforderungen.Buschert, Fanny",
+   "u": "https://www.deutschlandfunk.de/interview-zum-eu-gipfel-mit-josef-janning-politikwissenschaftler-dgap-106.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-15T21:15:00+00:00"
   },
   {
    "t": "Bundeswehr: Vorwürfe sexuellen Fehlverhaltens in Weißenfels",
@@ -38,6 +136,13 @@
    "d": "2026-10-15T17:43:00+00:00"
   },
   {
+   "t": "Im Kampf gegen Wohnungsnot setzt München auf Umwidmung von Büroflächen",
+   "s": "In München verspricht Oberbürgermeister Dominik Krause mehr Wohnraum, indem leerstehende Büro- und Gewerbeimmobilien umgebaut werden. Eine neu gegründete städtische Umbauagentur treibt das Vorhaben voran. Auch die Immobilienbranche zeigt Interesse.Krone, Tobias",
+   "u": "https://www.deutschlandfunk.de/wohnraum-ohne-enteignung-muenchen-setzt-auf-umwandlung-von-bueroflaechen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-15T17:40:03+00:00"
+  },
+  {
    "t": "Neuwahlen in Serbien - Die Studentische Liste fordert Vučić heraus",
    "s": "Seit zwei Jahren protestiert eine breite Bewegung in Serbien gegen das Regime von Aleksandar Vučić. Für die vorgezogenen Neuwahlen am 25. Oktober 2026 haben die federführenden Studierenden eine eigene Liste aufgestellt, die für Demokratie kämpft.Soos, Oliver",
    "u": "https://www.deutschlandfunk.de/neuwahlen-serbien-vucic-100.html",
@@ -64,111 +169,6 @@
    "u": "https://taz.de/Verhandlungen-ueber-EU-Haushalt/!6208010/",
    "q": "taz",
    "d": "2026-10-15T16:04:00+00:00"
-  },
-  {
-   "t": "Antisemitismus-Vorwurf: Reiche muss Instagram-Reel über Linke löschen",
-   "s": "Die Linke wirft der Bundeswirtschaftsministerin vor, das Neutralitätsgebot verletzt zu haben. Nun hat das Bundesverfassungsgericht im Eilverfahren entschieden.",
-   "u": "https://taz.de/Antisemitismus-Vorwurf/!6222126/",
-   "q": "taz",
-   "d": "2026-10-15T16:01:00+00:00"
-  },
-  {
-   "t": "Das sind die Pläne für den Ausweis auf dem Smartphone",
-   "s": "Die Brieftasche soll digital werden: Der Bundestag hat neue Regelungen für Pässe und Ausweise auf den Weg gebracht. So kann künftig der Personalausweis auf dem Smartphone hinterlegt werden. Älteren Menschen sollen Behördengänge erspart bleiben.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/digitaler-personalausweis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T15:53:10+00:00"
-  },
-  {
-   "t": "Todesstrafe für Attentäter: Trump sagt Live-Übertragung von Hinrichtung ab",
-   "s": "Erst sollte die ganze Welt zusehen können, wie ein verurteilter Attentäter hingerichtet wird. Nun verkündet Trump einen Rückzieher. Was steckt dahinter?",
-   "u": "https://taz.de/Todesstrafe-fuer-Attentaeter/!6222109/",
-   "q": "taz",
-   "d": "2026-10-15T15:15:00+00:00"
-  },
-  {
-   "t": "SPD wählt Mitte Januar bei Parteitag in Bremen neue Parteispitze",
-   "s": "Seit dem Rückzug von Bärbel Bas fehlt der SPD die Hälfte ihrer Doppelspitze. Nun will die Partei ihre gesamte Führung neu wählen. Bewerbungen liegen noch nicht vor, aber es gibt Zeit und Ort für den Bundesparteitag.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-parteitag-bremen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T15:09:31+00:00"
-  },
-  {
-   "t": "Trump und Musk versus Selenskyj: Wer solche Freunde hat",
-   "s": "In der Ukraine wird plötzlich das Satellitensystem Starlink von Elon Musk gedrosselt und Trump macht Deals mit Putin. Wie Präsident Selenskyj reagiert und was die EU vorhat.",
-   "u": "https://taz.de/Trump-und-Musk-versus-Selenskyj/!6221939/",
-   "q": "taz",
-   "d": "2026-10-15T15:09:00+00:00"
-  },
-  {
-   "t": "Reform im Rettungswagen – Notfallambulanz wird neu geregelt",
-   "s": "Neue Notfallzentren, bessere Patientensteuerung, neue Regeln für Rettungsdienste: Der Bundestag hat die Notfallreform beschlossen. Was ändert sich für Patienten? Und: EU-Spitzen beraten in Brüssel über Haushalt und Ukraine-Hilfe.Barbara Schmidt-Mattern",
-   "u": "https://www.deutschlandfunk.de/notfallreform-notfallambulanz-eu-gipfel-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-15T15:00:00+00:00"
-  },
-  {
-   "t": "Eklat am Gedenktag: Die Polizei Halle ermittelt gegen Demonstrierende",
-   "s": "Die Blockade der jüdischen Studierendenunion in Halle hat ein Nachspiel: Die Polizei ermittelt, weil Landtagsvize Tillschneider (AfD) als „Nazi“ beschimpft worden sei.",
-   "u": "https://taz.de/Tillschneider-Eklat-beim-Halle-Gedenken/!6221904/",
-   "q": "taz",
-   "d": "2026-10-15T14:40:00+00:00"
-  },
-  {
-   "t": "EU-Methanverordnung unter Druck: Reiche fordert Aufschub",
-   "s": "Methan heizt das Klima deutlich stärker an als Kohlenstoffdioxid. Dennoch will Wirtschaftsministerin Reiche neue EU-Regeln aufschieben. Dokumente und Treffen mit der Gaslobby werfen Fragen auf. Von Ottilie Wied.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/methan-verordnung-eu-reiche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T13:52:48+00:00"
-  },
-  {
-   "t": "Unicef-Studie zu benachteiligten Kindern: Wer bei den Jüngsten spart, zahlt später drauf",
-   "s": "In benachteiligte Kinder zu investieren, kann dem Staatshaushalt nutzen. Das zeigt eine neue Studie. Die Bundesregierung plant das Gegenteil.",
-   "u": "https://taz.de/Unicef-Studie-zu-benachteiligten-Kindern/!6221836/",
-   "q": "taz",
-   "d": "2026-10-15T13:42:00+00:00"
-  },
-  {
-   "t": "Ausnahmezustand in El Salvador: Zehntausende Gefangene könnten freikommen",
-   "s": "El Salvadors autoritär regierender Präsident Nayib Bukele deutet an, rund die Hälfte der wegen Bandenkriminalität Inhaftierten freilassen zu wollen.",
-   "u": "https://taz.de/Ausnahmezustand-in-El-Salvador/!6221894/",
-   "q": "taz",
-   "d": "2026-10-15T12:28:00+00:00"
-  },
-  {
-   "t": "Bundestag beschließt Notfallreform: Was sich jetzt ändert",
-   "s": "Neue integrierte Notfallzentren und eine vernetzte Leitstellenstruktur sollen überlastete Notaufnahmen entlasten und die Patientenversorgung verbessern.",
-   "u": "https://taz.de/Beschlossene-Notfallreform-Was-sich-jetzt-aendert/!6221813/",
-   "q": "taz",
-   "d": "2026-10-15T11:59:00+00:00"
-  },
-  {
-   "t": "Vor US-Zwischenwahlen: Wappnen gegen einen Coup",
-   "s": "Vor den Kongresswahlen in den USA befürchten viele, Präsident Trump könnte erneut eine Niederlage nicht anerkennen. Unser Autor hat ein Wahlbeobachtertraining besucht.",
-   "u": "https://taz.de/Vor-Zwischenwahlen-in-USA/!6221819/",
-   "q": "taz",
-   "d": "2026-10-15T11:58:00+00:00"
-  },
-  {
-   "t": "Bundeswehr: Pistorius will Reservedienst verpflichtend machen",
-   "s": "Im Bundestag wird heute über das \"Reservestärkungsgesetz\" beraten. Es soll dabei helfen, die Zahl der Reservistinnen und Reservisten zu erhöhen - auf 200.000 bis 2033. Aus der Wirtschaft kommt Kritik. Von K. Aue.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T11:03:31+00:00"
-  },
-  {
-   "t": "Protest gegen Rechenzentren in den USA: Big Data, big Protest",
-   "s": "In den USA entstehen riesige Rechenzentren. Doch auch der Protest gegen die Megabauten wächst – und wird vor den Midterms zum wichtigen Wahlkampfthema.",
-   "u": "https://taz.de/Protest-gegen-Rechenzentren-in-den-USA/!6220808/",
-   "q": "taz",
-   "d": "2026-10-15T10:04:00+00:00"
-  },
-  {
-   "t": "Wohnungsmieten: Immer schneller immer teurer",
-   "s": "Das Kiel Institut meldet für das dritte Quartal des laufenden Jahres den stärksten Anstieg der Mieten seit Anfang 2025. Vor allem Bestandswohnungen seien gefragt.",
-   "u": "https://taz.de/Anstieg-der-Wohnungsmieten/!6221881/",
-   "q": "taz",
-   "d": "2026-10-15T10:04:00+00:00"
   }
  ]
 }

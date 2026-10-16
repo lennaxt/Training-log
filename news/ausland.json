@@ -1,7 +1,42 @@
 {
  "name": "Ausland",
- "updated": "2026-10-15T23:41:57+00:00",
+ "updated": "2026-10-16T08:12:10+00:00",
  "items": [
+  {
+   "t": "In New Yorks \"Little Haiti\" geht die Angst um",
+   "s": "Seit Trump ihnen den Schutzstatus entzogen hat, gehen viele Haitianer in den USA kaum noch aus dem Haus, verstecken sich - aus Angst vor Abschiebung. Wie wirkt sich das auf den Alltag in New Yorks Viertel \"Little Haiti\" aus? Von Arnd Henze.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-haitianer-angst-abschiebung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T07:04:17+00:00"
+  },
+  {
+   "t": "Fünf Tote bei Schüssen an Grundschule in Oregon",
+   "s": "Bei Schüssen an einer Grundschule im US-Bundesstaat Oregon sind drei Kinder sowie eine Lehrkraft getötet worden. Der jugendliche mutmaßliche Schütze wurde erschossen - noch bevor die Polizei eintraf.",
+   "u": "https://www.tagesschau.de/ausland/amerika/schuesse-grundschule-oregon-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T05:07:05+00:00"
+  },
+  {
+   "t": "Hunger im Jemen - Wenn Mehl zum Luxusartikel wird",
+   "s": "Selbst alltägliche Lebensmittel wie Mehl sind im Jemen für viele Menschen unerschwinglich geworden. Millionen Menschen hungern, und die Kämpfe mit der Huthi-Miliz im Land machen alles nur noch schlimmer. Von Moritz Behrend.",
+   "u": "https://www.tagesschau.de/ausland/asien/hungerkrise-jemen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T04:24:46+00:00"
+  },
+  {
+   "t": "Starlink-Störung in der Ukraine: Enttäuscht von Musk, enttäuscht von Trump",
+   "s": "In der Ukraine scheint für viele klar: Die Starlink-Ausfälle sind kein Zufall, sondern politisch gewollt. Die Unterstützung aus der EU wird immer wichtiger. Von Rebecca Barth.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-starlink-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T01:23:51+00:00"
+  },
+  {
+   "t": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
+   "s": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich eine Einigung ab.",
+   "u": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T01:17:45+00:00"
+  },
   {
    "t": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
    "s": "Wie sicher ist der Umgang mit KI-Chatbots wie ChatGPT? Acht Bundesstaaten in den USA sehen erhebliche Risiken und haben deshalb Klagen gegen den Entwickler OpenAI eingereicht.",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-protestdemo-elite-uni-cornell-100.html",
    "q": "Tagesschau",
    "d": "2026-10-14T09:02:20+00:00"
-  },
-  {
-   "t": "Polizei durchsucht regierungskritischen Fernsehsender in der Türkei",
-   "s": "Die türkische Polizei hat einen der wenigen regierungskritischen Fernsehsender durchsucht und die laufende Sendung von Halk TV gestoppt. Die Opposition kritisierte das Vorgehen scharf. Erst kürzlich war eine Nachrichtenwebsite gesperrt worden.",
-   "u": "https://www.tagesschau.de/ausland/asien/tuerkei-sender-halk-tv-zwangsverwaltung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T08:59:44+00:00"
-  },
-  {
-   "t": "Papst Leo XIV. hat Lungenkrebs",
-   "s": "Auf Anraten der Ärzte hatte sich Papst Leo XIV. einer Lungenoperation unterzogen. Laut Angaben des Vatikans habe sich dabei die vermutete Diagnose eines Lungenkarzinoms bestätigt. Die Operation habe der Heilige Vater gut überstanden.",
-   "u": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T08:10:50+00:00"
-  },
-  {
-   "t": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
-   "s": "Eine russische Rakete hat nach Angaben des ukrainischen Präsidenten Selenskyj ein Heizkraftwerk in Kiew getroffen. Wie er mitteilte, hatten die westlichen Verbündeten die Ukraine zuvor nicht vor dem Angriff gewarnt.",
-   "u": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T05:26:14+00:00"
-  },
-  {
-   "t": "Rüstungsindustrie: Engere deutsch-türkische Zusammenarbeit?",
-   "s": "Die Zusammenarbeit bei Waffen- und Rüstungsgütern zwischen Deutschland und der Türkei ist eher gering. In Ankara versuchen Unternehmer nun auf der 4. Deutsch-Türkischen Wirtschaftskonferenz, diese zu vertiefen. Von C. Buttkereit.",
-   "u": "https://www.tagesschau.de/ausland/asien/deutsch-tuerkische-wirtschaftskonferenz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T03:24:11+00:00"
-  },
-  {
-   "t": "Finnland: KI-Boom auf Kosten der Natur?",
-   "s": "Google will Milliarden in Finnlands digitale Infrastruktur investieren. Für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet - offenbar ohne die vorgeschriebenen Genehmigungen. Von A. Bartram.",
-   "u": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T00:31:01+00:00"
   }
  ]
 }
