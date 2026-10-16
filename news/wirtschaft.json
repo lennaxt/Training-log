@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-16T13:58:15+00:00",
+ "updated": "2026-10-16T18:49:01+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 16102026",
+   "s": "Wirtschaft vor acht vom 16102026",
+   "u": "https://www.tagesschau.de/video/video-1667576.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T18:20:58+00:00"
+  },
+  {
+   "t": "Eurowings streicht Flüge und prüft Kurzarbeit",
+   "s": "Der Kostendruck steigt: Eurowings streicht Flüge und prüft die Möglichkeit von Kurzarbeit für seine Mitarbeitenden. Als Grund nennt die Lufthansa-Tochter die gestiegenen Preise für Kerosin durch den Iran-Krieg.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T16:52:09+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX schüttelt KI- und Zinssorgen vorerst ab",
+   "s": "Die Stimmung an den Aktienmärkten hat sich zum Ende der Handelswoche spürbar aufgehellt. Ausschlaggebend war eine Rede von US-Notenbankchef Warsh. Dazu kamen Rückenwind aus der Autoindustrie und starke Firmenbilanzen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T16:22:56+00:00"
+  },
+  {
+   "t": "Wie es mit der Commerzbank nun weitergeht",
+   "s": "Nach der Zustimmung der EZB-Aufseher steht einer Mehrheitsübernahme der Commerzbank durch die italienische Großbank UniCredit fast nichts mehr im Weg. Was sind die nächsten Schritte - und die Folgen? Von Ursula Mayer.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-uebernahme-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T14:25:09+00:00"
+  },
+  {
+   "t": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
+   "s": "Deutschland will beim KI-Boom mitwirken - die Industrie soll zukunftsfähig gemacht und der Standort für Investoren attraktiver werden. Um das zu erreichen, hat die Regierung offenbar einen Deal mit Nvidia eingefädelt.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T13:13:40+00:00"
+  },
   {
    "t": "Noch mehr Eigentum westlicher Firmen unter Kreml-Kontrolle",
    "s": "Unmittelbar vor Wolodymyr Selenskyjs Auftritt beim Europäischen Rat stellt Russland weitere europäische Unternehmen im Land unter staatliche Zwangsverwaltung - darunter einen deutschen Verpackungshersteller.",
@@ -45,13 +80,6 @@
    "d": "2026-10-16T08:16:46+00:00"
   },
   {
-   "t": "Marktbericht: DAX startet mit Gewinnen",
-   "s": "Die Erholung im weltweiten Technologiesektor gibt auch dem deutschen Aktienmarkt Rückenwind. US-Notenbankchef Kevin Warsh sieht in künstlicher Intelligenz enormes Potenzial für Länder bei Produktivität und Wachstum.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T08:12:55+00:00"
-  },
-  {
    "t": "Bundestag beschließt Anhebung der Tabaksteuer",
    "s": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
@@ -73,25 +101,11 @@
    "d": "2026-10-16T01:17:45+00:00"
   },
   {
-   "t": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
-   "s": "Seit zwei Jahren bemüht sich die italienische Großbank UniCredit um die Commerzbank. Nach langem Widerstand hat UniCredit nun eine wichtige Hürde genommen - und grünes Licht von der EZB bekommen.",
-   "u": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T19:53:38+00:00"
-  },
-  {
    "t": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
    "s": "Wie sicher ist der Umgang mit KI-Chatbots wie ChatGPT? Acht Bundesstaaten in den USA sehen erhebliche Risiken und haben deshalb Klagen gegen den Entwickler OpenAI eingereicht.",
    "u": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
    "q": "Tagesschau",
    "d": "2026-10-15T19:20:05+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 15.10.2026",
-   "s": "Wirtschaft vor acht vom 15.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1666988.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T18:50:50+00:00"
   },
   {
    "t": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
@@ -129,32 +143,11 @@
    "d": "2026-10-15T07:11:08+00:00"
   },
   {
-   "t": "Der Kampf ums Trinkwasser im brandenburgischen Baruth",
-   "s": "Die Unternehmen Red Bull und Rauch produzieren in Baruth Getränke und dürfen dabei 92 Prozent des Grundwassers, das der brandenburgischen Stadt zur Verfügung steht, entnehmen. Eine Bürgerinitiative wehrt sich und kämpft um Akteneinsicht.Von Andrea Rehmsmeier",
-   "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-14T16:40:00+00:00"
-  },
-  {
    "t": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
    "s": "Der Internationale Währungsfonds fordert Industrieländer auf, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Steigende Zinsen und hohe Ausgaben schränkten den finanziellen Spielraum der Staaten zunehmend ein.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html",
    "q": "Tagesschau",
    "d": "2026-10-14T14:31:12+00:00"
-  },
-  {
-   "t": "Künstliche Intelligenz: Was bedeutet die neue KI-Welt für Unternehmen?",
-   "s": "Kostendruck durch teure Energie, hohe Arbeitskosten und geopolitische Krisen - die Stimmung von Unternehmen in Deutschland ist getrübt. Welchen Einfluss haben in dieser Zeit die Veränderungen durch Künstliche Intelligenz? Von Anna Knake.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-unternehmen-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T14:04:50+00:00"
-  },
-  {
-   "t": "Portugal erlaubt Einstieg der Lufthansa bei staatlicher Airline TAP",
-   "s": "Die portugiesische Regierung treibt die Teilprivatisierung der Fluggesellschaft TAP voran. Im Kampf um 44,9 Prozent der Anteile setzte sich die Lufthansa gegen Air France-KLM durch. Der Einstieg dauert aber noch.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-tap-lufthansa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T12:53:13+00:00"
   },
   {
    "t": "Wärmepumpen dominieren den Heizungsmarkt - \"Öl ist praktisch tot\"",
@@ -164,11 +157,18 @@
    "d": "2026-10-14T11:28:13+00:00"
   },
   {
-   "t": "Einigung in der Koalition: So soll die Zuckersteuer aussehen",
-   "s": "Der Streit in der schwarz-roten Koalition über die Steuer auf zuckergesüßte Getränke ist beigelegt. Das Kabinett hat einen Regelungsvorschlag beschlossen. Was geplant ist und was die Regierung damit erreichen will.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-einigung-folgen-100.html",
+   "t": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
+   "s": "Die Renditen von US-Staatsanleihen sind so hoch wie seit 24 Jahren nicht mehr. 1981 folgte auf ein solches Hoch eine jahrzehntelange Kursrally am Anleihemarkt. Wiederholt sich die Geschichte? Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-14T10:32:28+00:00"
+   "d": "2026-10-14T06:59:05+00:00"
+  },
+  {
+   "t": "Kommentar zur Erbschaftssteuer: Mehr Gerechtigkeit wagen!",
+   "s": "Das Bundesverfassungsgericht beschäftigt sich mit der Erbschaftssteuer. Hierbei geht es um Fragen der Gerechtigkeit, mit denen sich eigentlich die Politik auseinandersetzen sollte. Die Koalition könnte dabei Handlungsfähigkeit zeigen.Ein Standpunkt von Gudula Geuther",
+   "u": "https://www.deutschlandfunk.de/erbschaftssteuer-gerechtigkeit-verfassungsgericht-firmenerben-koalition-kommentar-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-13T15:50:00+00:00"
   }
  ]
 }

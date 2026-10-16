@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-16T13:58:16+00:00",
+ "updated": "2026-10-16T18:49:02+00:00",
  "items": [
+  {
+   "t": "Schaltsekunde abgeschafft - kommt dafür die Schaltstunde?",
+   "s": "Ein internationales Gremium hat festgelegt: Künftig wird es keine Schaltsekunden mehr geben. 27 Mal wurde sie genutzt, um unsere Uhren mit der astronomischen Zeit in Einklang zu halten. Ein neues System käme erst im Jahr 3000 zum Einsatz.",
+   "u": "https://www.tagesschau.de/wissen/forschung/schaltsekunde-abschaffung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T14:50:10+00:00"
+  },
   {
    "t": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
    "s": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
@@ -57,13 +64,6 @@
    "u": "https://www.tagesschau.de/wissen/friedensnobelpreis-2026-vergabe-100.html",
    "q": "Tagesschau",
    "d": "2026-10-09T00:09:09+00:00"
-  },
-  {
-   "t": "Umweltschutz: Tierbestände nehmen laut WWF stark ab",
-   "s": "Viele Wildtierbestände nehmen einem WWF-Bericht zufolge dramatisch ab. Doch es gibt auch positive Nachrichten: Einzelne Bestände konnten sich durch Fangquoten oder gezielten Artenschutz erholen.",
-   "u": "https://www.tagesschau.de/wissen/tiere/wwf-wildtierbestand-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-08T06:41:25+00:00"
   },
   {
    "t": "Grundlegendes Konzept entdeckt - Chemie-Nobelpreis für Japaner und Franzosen",

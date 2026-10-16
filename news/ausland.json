@@ -1,10 +1,45 @@
 {
  "name": "Ausland",
- "updated": "2026-10-16T13:58:14+00:00",
+ "updated": "2026-10-16T18:48:59+00:00",
  "items": [
   {
-   "t": "Ultraorthodoxe in Israel: An der Front oder an der Tora?",
-   "s": "Die Frage der Wehrpflicht spaltet Israel. Sollen junge ultraorthodoxe Männer in der Armee dienen oder weiter die heiligen Schriften studieren? Forderungen nach Wehrgerechtigkeit treffen auf massiven Widerstand. Von Julio Segador.",
+   "t": "Trumps neue Sprecherin räumt ihren Posten nach wenigen Tagen im Amt",
+   "s": "Die gerade erst angetretene neue Pressesprecherin von US-Präsident Donald Trump, Katie Zacharia, gibt ihr Amt wieder auf. In den vergangenen Tagen war sie mit Negativschlagzeilen aufgefallen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T18:46:52+00:00"
+  },
+  {
+   "t": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
+   "s": "Die Gräben zwischen den USA und der Ukraine scheinen immer größer zu werden. Selenskyj wendet sich mit einer Grundsatzfrage an die EU-Staaten - die haben militärische, finanzielle und politische Probleme. Von S. Stuchlik.",
+   "u": "https://www.tagesschau.de/ausland/europa/selenskyj-eu-gipfel-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T18:07:15+00:00"
+  },
+  {
+   "t": "Papst bittet Putin um Waffenruhe in Oleschky",
+   "s": "Leo XIV. ist besorgt über die Lage in der abgeriegelten ukrainischen Frontstadt Oleschky. In einem Telefonat mit Putin ruft er den Kremlchef zu einem Waffenstillstand in der Region auf - kurz nach seiner Lungen-OP.",
+   "u": "https://www.tagesschau.de/ausland/europa/papst-telefonat-putin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T17:25:17+00:00"
+  },
+  {
+   "t": "EU-Regeln: Berlin und Paris wollen Verbrenner-Aus aufweichen",
+   "s": "Deutschland und Frankreich haben sich auf eine Position zum Verbrenner-Aus in der EU verständigt. Kanzler Merz und Umweltminister Schneider zeigen sich sehr zufrieden. Oder ist es ein historischer Fehler? Von Jakob Mayr.",
+   "u": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-paris-berlin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T16:59:07+00:00"
+  },
+  {
+   "t": "Technische Panne legt Flugverkehr in Italien teilweise lahm",
+   "s": "Gestrichene Flüge und Verspätungen: Eine technische Störung hat den Flugverkehr in Italien beeinträchtigt. Inzwischen hat sich die Lage wieder normalisiert. Die Ursache ist noch unklar. Ein Hackerangriff oder Sabotage werden ausgeschlossen.",
+   "u": "https://www.tagesschau.de/ausland/europa/flugverkehr-italien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T14:55:02+00:00"
+  },
+  {
+   "t": "Streit über Wehrdienst für Ultraorthodoxe in Israel",
+   "s": "Die Frage der Wehrpflicht spaltet Israel. Sollen junge ultraorthodoxe Männer in der Armee dienen oder weiter die heiligen Schriften studieren? Forderungen nach Wehrgerechtigkeit treffen auf massiven Widerstand - gerade vor der Wahl. Von Julio Segador.",
    "u": "https://www.tagesschau.de/ausland/asien/israel-wehrpflicht-ultraorthodox-100.html",
    "q": "Tagesschau",
    "d": "2026-10-16T12:59:58+00:00"
@@ -29,13 +64,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-gipfel-ukraine-selenskyj-100.html",
    "q": "Tagesschau",
    "d": "2026-10-16T09:57:13+00:00"
-  },
-  {
-   "t": "Flugverkehr über Italien gestört - Sabotage bislang ausgeschlossen",
-   "s": "In Italien gibt es massive Probleme im Flugverkehr. Betroffen sind Starts und Landungen im ganzen Land, aber auch Überflüge. Grund sind Störungen bei der Flugsicherung. Ein Hackerangriff oder Sabotage wird derzeit ausgeschlossen.",
-   "u": "https://www.tagesschau.de/ausland/europa/flugverkehr-italien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T09:55:19+00:00"
   },
   {
    "t": "In New Yorks \"Little Haiti\" geht die Angst um",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/tuerkei-imamoglu-prozess-110.html",
    "q": "Tagesschau",
    "d": "2026-10-14T16:20:57+00:00"
-  },
-  {
-   "t": "Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen",
-   "s": "Die Ukraine ist beim Abwehrkampf gegen Russland auf Geheimdienstinformationen der USA angewiesen - doch die sollen vor neuen russischen Angriffen ausgeblieben sein. Präsident Selenskyj übt Kritik. EU und NATO beschwichtigen.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T15:33:55+00:00"
-  },
-  {
-   "t": "Nepal: Erneut schwere Überschwemmungen nach Unwettern",
-   "s": "Erst vor wenigen Wochen erlebte Nepal eine verheerende Flutkatastrophe. Jetzt hat eine neue Flutwelle Häuser und Brücken mitgerissen. Rettungskräfte suchen nach Vermissten, ob es Tote gibt, ist bislang noch unklar. Von Bo Hyun Kim.",
-   "u": "https://www.tagesschau.de/ausland/asien/nepal-neue-flut-waehrend-des-wiederaufbaus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T14:18:13+00:00"
-  },
-  {
-   "t": "Haushaltsdebatte in Frankreich: Die politische Quadratur des Kreises",
-   "s": "In Frankreich haben die Beratungen über den Haushalt begonnen. Angesichts hoher Schulden will Finanzminister Lescure deutlich sparen. Aber die Regierung hat keine eigene Mehrheit - und stößt auf Widerstand. Von C. Dylla.",
-   "u": "https://www.tagesschau.de/ausland/europa/haushalt-frankreich-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T14:17:03+00:00"
-  },
-  {
-   "t": "Studentenproteste in albanischer Hauptstadt Tirana eskalieren",
-   "s": "In der albanischen Hauptstadt Tirana hat es erneut gewaltsame Proteste gegeben. Medienberichten zufolge warfen Demonstranten Brandsätze auf das Bildungsministerium und verursachten ein Feuer.",
-   "u": "https://www.tagesschau.de/ausland/europa/unruhen-albanien-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T13:56:17+00:00"
   }
  ]
 }

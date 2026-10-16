@@ -1,7 +1,112 @@
 {
  "name": "Inland",
- "updated": "2026-10-16T13:58:14+00:00",
+ "updated": "2026-10-16T18:48:58+00:00",
  "items": [
+  {
+   "t": "Online Challenges: Bundesrat fordert mehr Schutz von Minderjährigen",
+   "s": "Immer wieder verletzen sich Jugendliche bei Challenges, die in Sozialen Medien kursieren. Der Bundesrat will Erwachsene bestrafen, die Minderjährige dazu verleiten. Eine Wissenschaftlerin warnt vor Symbolpolitik. Von L. Pfeuffer-Rooschüz.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T18:42:07+00:00"
+  },
+  {
+   "t": "Energie-Knappheit in der Ukraine: Sie wissen nicht, wohin",
+   "s": "In der Ukraine steht der wohl härteste Winter seit Anfang des Krieges bevor. Die NGO Proliska rechnet mit einer „Evakuierungswelle“.",
+   "u": "https://taz.de/Energie-Knappheit-in-der-Ukraine/!6218193/",
+   "q": "taz",
+   "d": "2026-10-16T17:45:00+00:00"
+  },
+  {
+   "t": "Klimaprotest in Österreich: „Zukunft wäre schon geil“",
+   "s": "In Wien und sechs weiteren österreichischen Städten protestieren Tausende für mehr Klimaschutz. Die Regierung bremst derweil die Spritpreise.",
+   "u": "https://taz.de/Klimaprotest-in-Oesterreich/!6222282/",
+   "q": "taz",
+   "d": "2026-10-16T17:44:00+00:00"
+  },
+  {
+   "t": "Großproteste in Frankreich: Nichts ist unmöglich",
+   "s": "In Frankreich sind für Samstag landesweit mehr als 1.000 Aktionen und Kundgebungen geplant. Gendarmerie und Polizei rüsten massiv auf.",
+   "u": "https://taz.de/Grossproteste-in-Frankreich/!6222237/",
+   "q": "taz",
+   "d": "2026-10-16T17:43:00+00:00"
+  },
+  {
+   "t": "Proteste gegen IWF und Weltbank: Opfer konfrontieren Weltbank mit gescheitertem Projekt",
+   "s": "In Thailand protestieren Menschen gegen die Weltbank, die den Preis für deren unerfülltes Wohlstandsversprechen zahlen mussten.",
+   "u": "https://taz.de/Proteste-gegen-IWF-und-Weltbank/!6222192/",
+   "q": "taz",
+   "d": "2026-10-16T17:06:00+00:00"
+  },
+  {
+   "t": "Midterms in USA - Wie die Latinos die Wahl entscheiden könnten",
+   "s": "Bei den anstehenden Zwischenwahlen in den USA können die Stimmen der Latinos entscheidend sein. In Bundesstaaten wie Texas bilden sie inzwischen die größte Bevölkerungsgruppe, aber nur rund die Hälfte geht wählen. Die Demokraten wollen das ändern.Raith, Anne",
+   "u": "https://www.deutschlandfunk.de/der-schlafende-riese-wie-latinos-in-den-usa-die-wahlen-entscheiden-koennten-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-16T16:40:00+00:00"
+  },
+  {
+   "t": "Geas-Reform am Flughafen: Gericht entlässt Familie aus Grenzverfahren",
+   "s": "Eine algerische Familie wurde während ihres beschleunigten Asylverfahrens am BER inhaftiert. Das VG Cottbus entschied nun, dass sie einreisen dürfen.",
+   "u": "https://taz.de/Geas-Reform-am-Flughafen/!6222208/",
+   "q": "taz",
+   "d": "2026-10-16T16:34:00+00:00"
+  },
+  {
+   "t": "Zweiter Tag des EU-Gipfels in Brüssel: Trügerische Harmonie",
+   "s": "Vor dem Hintergrund wachsender Spannungen zwischen Washington und Kyjiw reist Präsident Selenskyj nach Brüssel. Neue Hilfezusagen bekommt er nicht.",
+   "u": "https://taz.de/Zweiter-Tag-des-EU-Gipfels-in-Bruessel/!6222273/",
+   "q": "taz",
+   "d": "2026-10-16T16:21:00+00:00"
+  },
+  {
+   "t": "Nach der Wahl in Sachsen-Anhalt: „Der Mut ist verschwunden“",
+   "s": "Der 17-jährige Max Schneller hat in Sachsen-Anhalt für die Demokratie gekämpft. Nun verlässt er das Bundesland.",
+   "u": "https://taz.de/Nach-der-Wahl-in-Sachsen-Anhalt/!6222242/",
+   "q": "taz",
+   "d": "2026-10-16T16:03:00+00:00"
+  },
+  {
+   "t": "Hitzesommer – war was?",
+   "s": "Temperaturen über 40 Grad, Missernten, Niedrigwasser und Waldbrände: Aber fast niemand spricht mehr über Hitzeanpassung. Was müsste jetzt passieren? Und: Masernausbruch in den USA – wie gefährlich ist er?Barbara Schmidt-Mattern",
+   "u": "https://www.deutschlandfunk.de/klimawandel-hitzeanpassung-masernausbruch-usa-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-16T15:00:00+00:00"
+  },
+  {
+   "t": "Wirtschaftsministerin Reiche für Direktzahlungen nach \"Tankrabatt\"",
+   "s": "Der \"Tankrabatt\" soll Autofahrer entlasten - aber was kommt danach? Wirtschaftsministerin Reiche spricht sich im ARD Interview der Woche für eine gezieltere Entlastung von Geringverdienern aus - und erhöht den Druck auf das Finanzministerium.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/katherina-reiche-tankrabatt-entlastungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T14:55:10+00:00"
+  },
+  {
+   "t": "Babyboomer werden alt: Das Ende der Wohnungsknappheit?",
+   "s": "Millionen Babyboomer werden bald ihre Wohnungen oder Häuser verkaufen oder vererben. Löst der „Silver Tsunami“ den Wohnraummangel?",
+   "u": "https://taz.de/Babyboomer-werden-alt---was-das-fuer-den-Wohnungsmangel-heisst/!6222241/",
+   "q": "taz",
+   "d": "2026-10-16T14:46:00+00:00"
+  },
+  {
+   "t": "Drohungen an jüdische Studenten nach AfD-Blockade bei Gedenkfeier",
+   "s": "Jüdische Studierende hatten AfD-Politiker Tillschneider daran gehindert, am Gedenken in der Synagoge von Halle teilzunehmen - jetzt bekommen sie Morddrohungen. Die Polizei ermittelt, ob Tillschneider beleidigt wurde.",
+   "u": "https://www.tagesschau.de/inland/juedische-studenten-afd-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T14:40:15+00:00"
+  },
+  {
+   "t": "Frühstartrente beschlossen: Kinder am Kapitalmarkt",
+   "s": "Der Bundestag hat den Zuschuss von zehn Euro pro Monat für Kinder beschlossen. Die wichtigsten Fragen und Antworten.",
+   "u": "https://taz.de/Fruehstartrente-beschlossen/!6222209/",
+   "q": "taz",
+   "d": "2026-10-16T14:37:00+00:00"
+  },
+  {
+   "t": "Urteil gegen Nordirlands Ex-Premier: 15 Jahre Haft für Jeffrey Donaldson",
+   "s": "Der ehemalige Regierungschef wird wegen 18 Sexualdelikten verurteilt. Das könnte sich bei den Regionalwahlen 2027 negativ auf seine Partei DUP auswirken.",
+   "u": "https://taz.de/Urteil-gegen-Nordirlands-Ex-Premier/!6222223/",
+   "q": "taz",
+   "d": "2026-10-16T14:00:00+00:00"
+  },
   {
    "t": "Gefährliche Mutproben: Bundesrat fordert mehr Schutz von Minderjährigen im Netz",
    "s": "Bei \"Blackout-Challenges\" würgen sich Jugendliche selbst oder gegenseitig bis zur Ohnmacht. Aufnahmen davon werden vielfach in Sozialen Medien geteilt. Der Bundesrat fordert nun Strafen für die, die andere gezielt zu solchen Handlungen verleiten.",
@@ -64,111 +169,6 @@
    "u": "https://taz.de/Zweifel-an-Lebenslauf-bestaetigt/!6222155/",
    "q": "taz",
    "d": "2026-10-16T09:23:00+00:00"
-  },
-  {
-   "t": "Klingbeils Baustellen - Zwischen Sparzwang und Entlastung",
-   "s": "Deutschlands Probleme begleiten Finanzminister Klingbeil bis nach Bangkok. Sparen, Schuldenabbau, Reformen - das sind die Empfehlungen auf der dortigen IWF-Tagung. Klingbeil gibt sich zuversichtlich - und verweist auch auf die Tabaksteuer. Von N. Kohnert.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/finanzminister-klingbeil-spd-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T09:14:29+00:00"
-  },
-  {
-   "t": "Ein Jahr nach eskalierter Demo: Zivilgesellschaft lässt sich nicht unterkriegen",
-   "s": "Im Erzgebirge protestiert am Samstag ein breites Bündnis gegen den „rechten Normalzustand“. Letztes Jahr attackierten Nazis einen ähnlichen Protest.",
-   "u": "https://taz.de/Ein-Jahr-nach-eskalierter-Demo/!6215954/",
-   "q": "taz",
-   "d": "2026-10-16T08:45:00+00:00"
-  },
-  {
-   "t": "Psychosoziale Unterstützung: Prozessbegleitung für Gewaltopfer wird ausgeweitet",
-   "s": "Wer Opfer einer Gewalt- oder Sexualstraftat wurde, kann künftig leichter psychosoziale Begleitung im Strafprozess bekommen.",
-   "u": "https://taz.de/Psychosoziale-Unterstuetzung/!6222160/",
-   "q": "taz",
-   "d": "2026-10-16T08:30:00+00:00"
-  },
-  {
-   "t": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
-   "s": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag hat heute eine Maßnahme zur Alterssicherung beschlossen: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie bekommt.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T08:16:46+00:00"
-  },
-  {
-   "t": "Planung Bundeshaushalt: Geliehene Zukunft",
-   "s": "Auf den ersten Blick mutet der Entwurf des Bundeshaushalts für 2027 vorausschauend an. Doch das Fundament für Zukunftsprojekte ist bröckelig.",
-   "u": "https://taz.de/Planung-Bundeshaushalt/!6221842/",
-   "q": "taz",
-   "d": "2026-10-16T08:05:00+00:00"
-  },
-  {
-   "t": "Bundeseigene Wohnungsbaugesellschaft soll 2027 starten",
-   "s": "Der Wohnungsmangel in Deutschland ist groß, eine bundeseigene Wohnungsbaugesellschaft soll Abhilfe schaffen. Nach Angaben von Bundesbauministerin Hubertz soll sie 2027 an den Start gehen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/hubertz-wohnungsbaugesellschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T08:04:20+00:00"
-  },
-  {
-   "t": "Ex-Bürgermeisterin von Barcelona: Die Rückkehr der Mietenkämpferin",
-   "s": "Ada Colau soll das linke Bündnis Frente Amplio in Spaniens Neuwahlen führen. Mit ihrem Kampf für bezahlbaren Wohnraum trifft sie einen Nerv.",
-   "u": "https://taz.de/Ex-Buergermeisterin-von-Barcelona/!6221689/",
-   "q": "taz",
-   "d": "2026-10-16T07:57:00+00:00"
-  },
-  {
-   "t": "Bundestag beschließt Anhebung der Tabaksteuer",
-   "s": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T07:55:57+00:00"
-  },
-  {
-   "t": "Wieder Schulmassaker in den USA: Drei Grundschulkinder und ein Lehrer erschossen",
-   "s": "Im Bundesstaat Oregon wurden drei Kinder und ein Lehrer getötet, weitere wurden verletzt. Der 16-jährige Täter wurde von einem Anwohner erschossen.",
-   "u": "https://taz.de/Wieder-Schulmassaker-in-den-USA/!6222151/",
-   "q": "taz",
-   "d": "2026-10-16T07:37:00+00:00"
-  },
-  {
-   "t": "Bundestag diskutiert Sabotage: Mehr Sicherheit und die Sache mit den Grundrechten",
-   "s": "Die größte Gefahr für hybride Angriffe gehe von Moskau aus, betonen Union und SPD und verteidigen ihre Reformpläne für die Nachrichtendienste.",
-   "u": "https://taz.de/Bundestag-diskutiert-Sabotage/!6222117/",
-   "q": "taz",
-   "d": "2026-10-16T07:11:00+00:00"
-  },
-  {
-   "t": "Tagebuch aus Litauen: Wo bleibt der Bus aus Belarus?",
-   "s": "Lettland und Litauen schränken Verkehrsverbindungen nach Belarus ein. Für Menschen im Exil eine Belastung. Wie halten sie Kontakt zu ihren Verwandten?",
-   "u": "https://taz.de/Tagebuch-aus-Litauen/!6221489/",
-   "q": "taz",
-   "d": "2026-10-16T07:01:00+00:00"
-  },
-  {
-   "t": "Neues Rundfunkgesetz in Bayern: Blasmusik statt Blase",
-   "s": "Die Söder-Regierung will dem Bayerischen Rundfunk zeigen, wie guter Journalismus geht. Die Eckpfeiler hat sie in einen Gesetzentwurf geschrieben.",
-   "u": "https://taz.de/Neues-Rundfunkgesetz-in-Bayern/!6222006/",
-   "q": "taz",
-   "d": "2026-10-16T06:41:00+00:00"
-  },
-  {
-   "t": "Haushaltskürzungen bei Frauenprojekten: Kein Schutzschild mehr für Frauen",
-   "s": "Vielen Frauenprojekten soll in Köln das Geld gestrichen werden. Diese wehren sich mit allen Mitteln. Am Freitag stimmt die Stadtverwaltung ab.",
-   "u": "https://taz.de/Haushaltskuerzungen-bei-Frauenprojekten/!6221796/",
-   "q": "taz",
-   "d": "2026-10-16T06:37:00+00:00"
-  },
-  {
-   "t": "Selenskyj beim EU-Gipfel: Finanzen, Trump und Starlink",
-   "s": "Eine Finanzierungslücke, Ärger mit Trump um Starlink und der Dieseldeal mit Putin: Das dürften Hauptthemen bei Selenskyjs Besuch in Brüssel sein.",
-   "u": "https://taz.de/Selenskyj-beim-EU-Gipfel/!6222148/",
-   "q": "taz",
-   "d": "2026-10-16T06:32:00+00:00"
-  },
-  {
-   "t": "Gesucht wegen Angriffen in Budapest: Antifaschist Gino Abazaj stellt sich der Polizei in Hannover",
-   "s": "Seit Jahren fordert Ungarn die Auslieferung des albanischen Antifaschisten Gino Abazaj. Nun stellte er sich selbst auf einer Polizeiwache in Hannover.",
-   "u": "https://taz.de/Gesucht-wegen-Angriffen-in-Budapest/!6222147/",
-   "q": "taz",
-   "d": "2026-10-16T06:15:00+00:00"
   }
  ]
 }

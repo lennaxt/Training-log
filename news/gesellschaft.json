@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-16T13:58:18+00:00",
+ "updated": "2026-10-16T18:49:04+00:00",
  "items": [
+  {
+   "t": "Energie-Knappheit in der Ukraine: Sie wissen nicht, wohin",
+   "s": "In der Ukraine steht der wohl härteste Winter seit Anfang des Krieges bevor. Die NGO Proliska rechnet mit einer „Evakuierungswelle“.",
+   "u": "https://taz.de/Energie-Knappheit-in-der-Ukraine/!6218193/",
+   "q": "taz",
+   "d": "2026-10-16T17:45:00+00:00"
+  },
+  {
+   "t": "Klimaprotest in Österreich: „Zukunft wäre schon geil“",
+   "s": "In Wien und sechs weiteren österreichischen Städten protestieren Tausende für mehr Klimaschutz. Die Regierung bremst derweil die Spritpreise.",
+   "u": "https://taz.de/Klimaprotest-in-Oesterreich/!6222282/",
+   "q": "taz",
+   "d": "2026-10-16T17:44:00+00:00"
+  },
+  {
+   "t": "Großproteste in Frankreich: Nichts ist unmöglich",
+   "s": "In Frankreich sind für Samstag landesweit mehr als 1.000 Aktionen und Kundgebungen geplant. Gendarmerie und Polizei rüsten massiv auf.",
+   "u": "https://taz.de/Grossproteste-in-Frankreich/!6222237/",
+   "q": "taz",
+   "d": "2026-10-16T17:43:00+00:00"
+  },
+  {
+   "t": "Zweiter Tag des EU-Gipfels in Brüssel: Trügerische Harmonie",
+   "s": "Vor dem Hintergrund wachsender Spannungen zwischen Washington und Kyjiw reist Präsident Selenskyj nach Brüssel. Neue Hilfezusagen bekommt er nicht.",
+   "u": "https://taz.de/Zweiter-Tag-des-EU-Gipfels-in-Bruessel/!6222273/",
+   "q": "taz",
+   "d": "2026-10-16T16:21:00+00:00"
+  },
+  {
+   "t": "Urteil gegen Nordirlands Ex-Premier: 15 Jahre Haft für Jeffrey Donaldson",
+   "s": "Der ehemalige Regierungschef wird wegen 18 Sexualdelikten verurteilt. Das könnte sich bei den Regionalwahlen 2027 negativ auf seine Partei DUP auswirken.",
+   "u": "https://taz.de/Urteil-gegen-Nordirlands-Ex-Premier/!6222223/",
+   "q": "taz",
+   "d": "2026-10-16T14:00:00+00:00"
+  },
   {
    "t": "Festnahme Chefredakteur „Nowaja Gaseta“: Verhöre gegen Haltung",
    "s": "Sergei Sokolow, Chefredakteur der Moskauer „Nowaja Gaseta“, ist wieder frei. Vieles deutet darauf hin, dass es sich um eine letzte Atempause handelt.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Naechste-Protestaktionen-in-Frankreich/!6221264/",
    "q": "taz",
    "d": "2026-10-13T17:44:00+00:00"
-  },
-  {
-   "t": "„Energie-Waffenruhe“ und Diesel-Deal: Übel mitgespielt",
-   "s": "Zwischen angeblicher „Energie-Waffenruhe“ und Trumps Diesel-Deal mit Putin gehen die Angriffe auf die Ukraine weiter. Und die EU ist wieder Zuschauer.",
-   "u": "https://taz.de/Zwischen-Energie-Waffenruhe-und-Trumps-Diesel-Deal-mit-Putin-Die-Angriffe-auf-die-Ukraine-gehen-weiter/!6221275/",
-   "q": "taz",
-   "d": "2026-10-13T17:43:00+00:00"
-  },
-  {
-   "t": "Kurswechsel in Ungarn: Anti-LGBTIQ+-Gesetze gekippt",
-   "s": "Das ungarische Parlament entschärft Orbáns umstrittenes „Kinderschutzgesetz“. Menschenrechtler loben den Schritt, sehen aber noch entscheidende Lücken.",
-   "u": "https://taz.de/Kurswechsel-in-Ungarn/!6221216/",
-   "q": "taz",
-   "d": "2026-10-13T14:41:00+00:00"
-  },
-  {
-   "t": "Nach Starlink-Brand in Polen: Drei Sabotage-Verdächtige in Deutschland gefasst",
-   "s": "Im September brannte eine Station des Internetanbieters Starlink in Polen. Nun gab es Festnahmen in Baden-Württemberg und Berlin. Polen geht von Sabotage durch Russland aus.",
-   "u": "https://taz.de/Nach-Feuer-in-Starlink-Station-in-Polen/!6221272/",
-   "q": "taz",
-   "d": "2026-10-13T12:48:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Mutmaßliche Saboteure in Deutschland festgenommen",
-   "s": "Zwei Verdächtige, die einen Brandanschlag in Polen verübt haben sollen, sind in Deutschland gefasst worden. Trump beharrt auf „Energie-Waffenruhe“.",
-   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6221193/",
-   "q": "taz",
-   "d": "2026-10-13T06:54:00+00:00"
-  },
-  {
-   "t": "Treffen der EU-Außenminister: Rekordsanktionen gegen russische Kriegstreiber",
-   "s": "Die EU-Außenminister einigen sich auf ein massives Strafpaket gegen Russland. Auch an Trumps „Energie-Waffenruhe“ hegen sie erhebliche Zweifel.",
-   "u": "https://taz.de/Treffen-der-EU-Aussenminister/!6220874/",
-   "q": "taz",
-   "d": "2026-10-12T17:52:00+00:00"
   }
  ]
 }
