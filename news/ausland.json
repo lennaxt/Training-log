@@ -1,7 +1,42 @@
 {
  "name": "Ausland",
- "updated": "2026-10-16T08:12:10+00:00",
+ "updated": "2026-10-16T13:58:14+00:00",
  "items": [
+  {
+   "t": "Ultraorthodoxe in Israel: An der Front oder an der Tora?",
+   "s": "Die Frage der Wehrpflicht spaltet Israel. Sollen junge ultraorthodoxe Männer in der Armee dienen oder weiter die heiligen Schriften studieren? Forderungen nach Wehrgerechtigkeit treffen auf massiven Widerstand. Von Julio Segador.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wehrpflicht-ultraorthodox-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T12:59:58+00:00"
+  },
+  {
+   "t": "Zweifel an Qualifikation: Trumps Sprecherin bei Prüfung durchgefallen",
+   "s": "Nur wenige Tage nach ihrem Start als neue Sprecherin des Weißen Hauses macht Katie Zacharia bereits selbst Schlagzeilen. Ist sie nun Anwältin oder nicht? Auch wirre Sätze und Versprecher sorgen für Irritationen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-sprecherin-zacharia-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T11:12:24+00:00"
+  },
+  {
+   "t": "Giftige Rauchwolken durch Waldbrände in Indonesien treffen auch Nachbarländer",
+   "s": "Eine besonders schwere Brandsaison macht Indonesien zu schaffen. Die dortigen Torfbrände sind nur schwer zu bekämpfen und der giftige Rauch belastet auch die Nachbarländer. In einem Nationalpark auf Java gab es vier Tote.",
+   "u": "https://www.tagesschau.de/ausland/asien/indonesien-malaysia-waldbraende-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T10:20:08+00:00"
+  },
+  {
+   "t": "EU-Spitzen stärken Selenskyj den Rücken",
+   "s": "Präsident Selenskyj ist zum EU-Gipfel nach Brüssel gereist - und wird mit Zusicherungen begrüßt. Hilfen bleiben, Sanktionen sind in Arbeit, die EU-Beitrittsverhandlungen kommen voran. Allerdings geht US-Präsident Trump weiter auf Konfrontation.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-gipfel-ukraine-selenskyj-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T09:57:13+00:00"
+  },
+  {
+   "t": "Flugverkehr über Italien gestört - Sabotage bislang ausgeschlossen",
+   "s": "In Italien gibt es massive Probleme im Flugverkehr. Betroffen sind Starts und Landungen im ganzen Land, aber auch Überflüge. Grund sind Störungen bei der Flugsicherung. Ein Hackerangriff oder Sabotage wird derzeit ausgeschlossen.",
+   "u": "https://www.tagesschau.de/ausland/europa/flugverkehr-italien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T09:55:19+00:00"
+  },
   {
    "t": "In New Yorks \"Little Haiti\" geht die Angst um",
    "s": "Seit Trump ihnen den Schutzstatus entzogen hat, gehen viele Haitianer in den USA kaum noch aus dem Haus, verstecken sich - aus Angst vor Abschiebung. Wie wirkt sich das auf den Alltag in New Yorks Viertel \"Little Haiti\" aus? Von Arnd Henze.",
@@ -29,13 +64,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-starlink-104.html",
    "q": "Tagesschau",
    "d": "2026-10-16T01:23:51+00:00"
-  },
-  {
-   "t": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
-   "s": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich eine Einigung ab.",
-   "u": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T01:17:45+00:00"
   },
   {
    "t": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/unruhen-albanien-102.html",
    "q": "Tagesschau",
    "d": "2026-10-14T13:56:17+00:00"
-  },
-  {
-   "t": "Nord Stream: Ein legitimes militärisches Ziel für die Ukraine?",
-   "s": "Der ukrainische Präsident Selenskyj weist eine staatliche Beteiligung bei der Sprengung der Nord-Stream-Pipeline zurück. Viele Menschen in der Ukraine halten die Gaspipeline für ein legitimes Ziel im Verteidigungskampf gegen Russland. Von R. Barth.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-nord-stream-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T10:54:25+00:00"
-  },
-  {
-   "t": "Verurteilter Signa-Gründer Benko darf in den Hausarrest wechseln",
-   "s": "Der wegen Betrugs verurteilte österreichische Investor René Benko darf das Gefängnis vorerst verlassen. Er soll sich mit einer Fußfessel im Hausarrest auf seinen neuen Prozess vorbereiten können.",
-   "u": "https://www.tagesschau.de/ausland/benko-fussfessel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T09:48:39+00:00"
-  },
-  {
-   "t": "Razzia bei US-Demokratin Omar: Politiker mit Migrationsgeschichte als Feindbild",
-   "s": "Kurz vor den Midterms verstärkt US-Präsident Trump seine Attacken auf die Demokraten. Im Fokus stehen dabei Politiker mit Migrationshintergrund. Die Razzia bei der Abgeordneten Omar sorgt für Diskussionen. Von Jan Oppel.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-ilhan-omar-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T09:31:48+00:00"
-  },
-  {
-   "t": "\"We are Jane Doe\" - Protest an US-Eliteuni",
-   "s": "Der Fall einer mutmaßlichen Gruppenvergewaltigung an der Eliteuniversität Cornell sorgt in den USA weiter für Empörung. Rund 1.000 Studierende versammelten sich zu einer Demonstration. Die Uni kündigte neue Maßnahmen an. Von M. Ganslmeier.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-protestdemo-elite-uni-cornell-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T09:02:20+00:00"
   }
  ]
 }

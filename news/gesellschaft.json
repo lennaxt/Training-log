@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-16T08:12:15+00:00",
+ "updated": "2026-10-16T13:58:18+00:00",
  "items": [
+  {
+   "t": "Festnahme Chefredakteur „Nowaja Gaseta“: Verhöre gegen Haltung",
+   "s": "Sergei Sokolow, Chefredakteur der Moskauer „Nowaja Gaseta“, ist wieder frei. Vieles deutet darauf hin, dass es sich um eine letzte Atempause handelt.",
+   "u": "https://taz.de/Festnahme-Chefredakteur-Nowaja-Gaseta/!6222202/",
+   "q": "taz",
+   "d": "2026-10-16T11:41:00+00:00"
+  },
+  {
+   "t": "Frankreichs extreme Rechte: Dreister lügen mit Bardella",
+   "s": "Der Chef der rechtsextremen Partei Rassemblement National Jordan Bardella bestreitet nach wie vor, sich als junger Mann antisemitisch geäußert zu haben.",
+   "u": "https://taz.de/Frankreichs-extreme-Rechte/!6221919/",
+   "q": "taz",
+   "d": "2026-10-16T09:24:00+00:00"
+  },
+  {
+   "t": "Ex-Bürgermeisterin von Barcelona: Die Rückkehr der Mietenkämpferin",
+   "s": "Ada Colau soll das linke Bündnis Frente Amplio in Spaniens Neuwahlen führen. Mit ihrem Kampf für bezahlbaren Wohnraum trifft sie einen Nerv.",
+   "u": "https://taz.de/Ex-Buergermeisterin-von-Barcelona/!6221689/",
+   "q": "taz",
+   "d": "2026-10-16T07:57:00+00:00"
+  },
   {
    "t": "Tagebuch aus Litauen: Wo bleibt der Bus aus Belarus?",
    "s": "Lettland und Litauen schränken Verkehrsverbindungen nach Belarus ein. Für Menschen im Exil eine Belastung. Wie halten sie Kontakt zu ihren Verwandten?",
@@ -11,7 +32,7 @@
   },
   {
    "t": "Selenskyj beim EU-Gipfel: Finanzen, Trump und Starlink",
-   "s": "Eine Finanzierungslücke, Ärger mit Trump um Starlink und den Dieseldeal mit Putin: Das dürften Hauptthemen beim Brüssel-Besuch Selenskyjs sein.",
+   "s": "Eine Finanzierungslücke, Ärger mit Trump um Starlink und der Dieseldeal mit Putin: Das dürften Hauptthemen bei Selenskyjs Besuch in Brüssel sein.",
    "u": "https://taz.de/Selenskyj-beim-EU-Gipfel/!6222148/",
    "q": "taz",
    "d": "2026-10-16T06:32:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Treffen-der-EU-Aussenminister/!6220874/",
    "q": "taz",
    "d": "2026-10-12T17:52:00+00:00"
-  },
-  {
-   "t": "Präsidentschaftswahl in Bulgarien: Faktenfreie populistische Rhetorik",
-   "s": "Ilijana Jotowa führt die Umfragen vor den Präsidentschaftswahlen Ende Oktober an. Gewinnt sie, kann sich die EU auf eine prorussische Populistin einstellen.",
-   "u": "https://taz.de/Praesidentschaftswahl-in-Bulgarien/!6220696/",
-   "q": "taz",
-   "d": "2026-10-12T17:52:00+00:00"
-  },
-  {
-   "t": "Gewalt in Polen: Mutmaßlicher Attentäter festgenommen",
-   "s": "Ein 66-Jähriger soll einen Anschlag auf Premier Tusk und Verteidigungsminister Kosiniak-Kamysz geplant haben. Nun ging er der Polizei ins Netz.",
-   "u": "https://taz.de/Gewalt-in-Polen/!6220881/",
-   "q": "taz",
-   "d": "2026-10-12T15:10:00+00:00"
-  },
-  {
-   "t": "Von Trump verkündete Energie-Waffenruhe: Kreml plötzlich wortkarg",
-   "s": "Die russische Regierung hat zu der von Trump verkündeten Energie-Waffenruhe nichts zu sagen. Auf eine längere Unterbrechung der Kampfhandlungen werde man sich nicht einlassen.",
-   "u": "https://taz.de/Trumps-Fantasie-von-Energie-Waffenruhe/!6220887/",
-   "q": "taz",
-   "d": "2026-10-12T14:09:00+00:00"
   }
  ]
 }

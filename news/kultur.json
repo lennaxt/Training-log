@@ -1,10 +1,24 @@
 {
  "name": "Kultur",
- "updated": "2026-10-16T08:12:16+00:00",
+ "updated": "2026-10-16T13:58:18+00:00",
  "items": [
   {
-   "t": "Todesstrafe für Attentäter: Trump sagt Live-Übertragung von Hinrichtung ab",
-   "s": "Erst sollte die ganze Welt zusehen können, wie ein verurteilter Attentäter hingerichtet wird. Nun verkündet Trump einen Rückzieher. Was steckt dahinter?",
+   "t": "Zweifel an Lebenslauf bestätigt: Trumps neue Sprecherin machte falsche Berufsangabe",
+   "s": "Katie Zacharia gab als Berufsbezeichnung mehrfach Anwältin ein, obwohl sie bei der Anwaltsprüfung durchgefallen war und sie auch nicht wiederholt hat.",
+   "u": "https://taz.de/Zweifel-an-Lebenslauf-bestaetigt/!6222155/",
+   "q": "taz",
+   "d": "2026-10-16T09:23:00+00:00"
+  },
+  {
+   "t": "Wieder Schulmassaker in den USA: Drei Grundschulkinder und ein Lehrer erschossen",
+   "s": "Im Bundesstaat Oregon wurden drei Kinder und ein Lehrer getötet, weitere wurden verletzt. Der 16-jährige Täter wurde von einem Anwohner erschossen.",
+   "u": "https://taz.de/Wieder-Schulmassaker-in-den-USA/!6222151/",
+   "q": "taz",
+   "d": "2026-10-16T07:37:00+00:00"
+  },
+  {
+   "t": "Todesstrafe für Attentäter: Trump sagt Liveübertragung von Hinrichtung ab",
+   "s": "Erst sollte die ganze Welt zusehen können, wie ein verurteilter Attentäter hingerichtet wird. Nun macht Trump einen Rückzieher. Was steckt dahinter?",
    "u": "https://taz.de/Todesstrafe-fuer-Attentaeter/!6222109/",
    "q": "taz",
    "d": "2026-10-15T15:15:00+00:00"
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Rechtsruck-in-Brasilien/!6218796/",
    "q": "taz",
    "d": "2026-10-05T06:25:00+00:00"
-  },
-  {
-   "t": "Gescheiterte Hinrichtung in den USA: Chef von Strafvollzugsbehörde von Tennessee tritt zurück",
-   "s": "Im US-Bundesstaat Tennessee muss Behördenchef Frank Strada seinen Posten räumen. Grund sind die Fehler bei der Hinrichtung der Mörderin Christa Pike.",
-   "u": "https://taz.de/Gescheiterte-Hinrichtung-in-den-USA-Chef-von-Strafvollzugsbehoerde-tritt-zurueck/!6218726/",
-   "q": "taz",
-   "d": "2026-10-04T12:56:00+00:00"
-  },
-  {
-   "t": "Vor den Wahlen in Brasilien: Gott, steh uns bei!",
-   "s": "Wer in Brasilien Präsident werden möchte, muss auch die evangelikalen Christen von sich überzeugen. Wie Amtsinhaber „Lula“ und Flávio Bolsonaro um sie buhlen.",
-   "u": "https://taz.de/Vor-den-Wahlen-in-Brasilien/!6214483/",
-   "q": "taz",
-   "d": "2026-10-04T07:27:00+00:00"
   }
  ]
 }

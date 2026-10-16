@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-16T08:12:13+00:00",
+ "updated": "2026-10-16T13:58:16+00:00",
  "items": [
+  {
+   "t": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
+   "s": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
+   "u": "https://www.tagesschau.de/video/video-1667176.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T08:45:37+00:00"
+  },
   {
    "t": "Psychotherapie-Reform: Bundestag beschließt Korrekturen",
    "s": "Mit einer neuen Vergütungsregel will die Regierung bei der Psychotherapie sparen. Kinder und Schwerkranke sind ausgenommen. Fachverbände befürchten jedoch: Alle anderen könnten künftig länger auf einen Therapieplatz warten. Von S. Emminghaus.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/sindbis-virus-100.html",
    "q": "Tagesschau",
    "d": "2026-10-02T14:23:37+00:00"
-  },
-  {
-   "t": "EU-Klimadienst Copernicus: Sommer 2026 in Westeuropa heißester seit Aufzeichnung",
-   "s": "EU-Klimadienst Copernicus: Sommer 2026 in Westeuropa heißester seit Aufzeichnung",
-   "u": "https://www.tagesschau.de/video/video-1659294.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T12:11:22+00:00"
   }
  ]
 }

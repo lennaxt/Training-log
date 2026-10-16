@@ -1,7 +1,56 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-16T08:12:12+00:00",
+ "updated": "2026-10-16T13:58:15+00:00",
  "items": [
+  {
+   "t": "Noch mehr Eigentum westlicher Firmen unter Kreml-Kontrolle",
+   "s": "Unmittelbar vor Wolodymyr Selenskyjs Auftritt beim Europäischen Rat stellt Russland weitere europäische Unternehmen im Land unter staatliche Zwangsverwaltung - darunter einen deutschen Verpackungshersteller.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-vermoegen-deutscher-firmen-staatliche-kontrolle-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T12:38:24+00:00"
+  },
+  {
+   "t": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
+   "s": "Deutschland und Frankreich haben sich auf die Lockerung des eigentlich beschlossenen Verbrenner-Aus geeinigt. Das lässt die Aktien der Autobauer nach oben springen. Und auch der DAX kann am Mittag zulegen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T12:17:39+00:00"
+  },
+  {
+   "t": "Deutschland und Frankreich einig bei Lockerung von Verbrenner-Aus",
+   "s": "Frankreich und Deutschland haben sich auf eine Aufweichung des Verbrenner-Aus verständigt. Das gaben beide Regierungen nun bekannt. Entsprechende Autos könnten so auch nach 2035 in der EU neu zugelassen werden.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/frankreich-deutschland-verbrenner-aus-einigung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T11:48:16+00:00"
+  },
+  {
+   "t": "Wie Anleger bei ETFs den Überblick behalten",
+   "s": "Einfach, günstig, transparent: Damit haben ETFs Millionen Anleger überzeugt. Doch die Branche bringt immer kompliziertere Produkte auf den Markt - oft mit höheren Gebühren und zusätzlichen Risiken. Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/etf-geldanlage-kosten-risiken-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T11:25:34+00:00"
+  },
+  {
+   "t": "Wohnimmobilien: Deutlich mehr Baugenehmigungen",
+   "s": "Lichtblick für den deutschen Wohnungsbau: Der Aufwärtstrend des ersten Halbjahres setzt sich auch im August fort. Doch höhere Energiepreise und Zinsen belasten viele Bauherren.",
+   "u": "https://www.tagesschau.de/wirtschaft/baugenehmigungen-steigen-wieder-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T09:29:27+00:00"
+  },
+  {
+   "t": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
+   "s": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag hat heute eine Maßnahme zur Alterssicherung beschlossen: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie bekommt.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T08:16:46+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX startet mit Gewinnen",
+   "s": "Die Erholung im weltweiten Technologiesektor gibt auch dem deutschen Aktienmarkt Rückenwind. US-Notenbankchef Kevin Warsh sieht in künstlicher Intelligenz enormes Potenzial für Länder bei Produktivität und Wachstum.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T08:12:55+00:00"
+  },
   {
    "t": "Bundestag beschließt Anhebung der Tabaksteuer",
    "s": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen.",
@@ -17,23 +66,9 @@
    "d": "2026-10-16T07:50:22+00:00"
   },
   {
-   "t": "Marktbericht: Hoffnung auf Entlastung bei Öl- und Dieselpreisen",
-   "s": "Der DAX bewegt sich zum Wochenschluss zwischen geopolitischen Risiken einerseits und Hoffnung auf Entlastung andererseits. Die Internationale Energieagentur (IEA) will die Freigabe von Ölnotreserven beschleunigen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T05:40:56+00:00"
-  },
-  {
-   "t": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
-   "s": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag will heute über eine Maßnahme zur Alterssicherung entscheiden: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie bekommt.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T03:00:25+00:00"
-  },
-  {
    "t": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
    "s": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich eine Einigung ab.",
-   "u": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/verbrenner-aus-lockerung-100.html",
    "q": "Tagesschau",
    "d": "2026-10-16T01:17:45+00:00"
   },
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-einigung-folgen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-14T10:32:28+00:00"
-  },
-  {
-   "t": "Chinas Handelsüberschuss nähert sich der Billionen-Dollar-Marke",
-   "s": "Chinas Exporte sind im September überraschend stark gestiegen. Der Handelsüberschuss der Volksrepublik könnte in diesem Jahr ein historisches Hoch erreichen. Vor allem Halbleiter und Autos treiben das Wachstum an.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-handelsueberschuss-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T10:24:16+00:00"
-  },
-  {
-   "t": "Bundesregierung einigt sich bei Zuckersteuer auf Zwei-Stufen-Modell",
-   "s": "Nach der Einigung von Union und SPD zur Zuckersteuer hat das Bundeskabinett den entsprechenden Gesetzesentwurf auf den Weg gebracht. Ab dem 1. Juli 2027 soll ein Zwei-Stufen-Modell gelten - abhängig vom Zuckeranteil.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T09:44:37+00:00"
-  },
-  {
-   "t": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
-   "s": "Die Renditen von US-Staatsanleihen sind so hoch wie seit 24 Jahren nicht mehr. 1981 folgte auf ein solches Hoch eine jahrzehntelange Kursrally am Anleihemarkt. Wiederholt sich die Geschichte? Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T06:59:05+00:00"
-  },
-  {
-   "t": "EU bremst Hybrid-Importe: Können deutsche Autobauer profitieren?",
-   "s": "Chinesische Autohersteller gewinnen in Europa massiv an Gewicht. Die EU will die Konkurrenz eindämmen. Ein Import-Deckel für Hybridfahrzeuge soll heimische Hersteller stützen. Kann das funktionieren? Von Sebastian Schreiber.",
-   "u": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-13T18:03:27+00:00"
-  },
-  {
-   "t": "Kommentar zur Erbschaftssteuer: Mehr Gerechtigkeit wagen!",
-   "s": "Das Bundesverfassungsgericht beschäftigt sich mit der Erbschaftssteuer. Hierbei geht es um Fragen der Gerechtigkeit, mit denen sich eigentlich die Politik auseinandersetzen sollte. Die Koalition könnte dabei Handlungsfähigkeit zeigen.Ein Standpunkt von Gudula Geuther",
-   "u": "https://www.deutschlandfunk.de/erbschaftssteuer-gerechtigkeit-verfassungsgericht-firmenerben-koalition-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-13T15:50:00+00:00"
   }
  ]
 }
