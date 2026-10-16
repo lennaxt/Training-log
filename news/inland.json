@@ -1,7 +1,14 @@
 {
  "name": "Inland",
- "updated": "2026-10-16T18:48:58+00:00",
+ "updated": "2026-10-16T23:36:32+00:00",
  "items": [
+  {
+   "t": "Winkel als Vorsitzender der Jungen Union wiedergewählt",
+   "s": "Johannes Winkel ist als Vorsitzender der Jungen Union mit seinem bislang besten Ergebnis wiedergewählt worden. Er rief zu Zuversicht und Selbstbewusstsein auf - und teilte gleich darauf in Richtung SPD aus.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T21:15:49+00:00"
+  },
   {
    "t": "Online Challenges: Bundesrat fordert mehr Schutz von Minderjährigen",
    "s": "Immer wieder verletzen sich Jugendliche bei Challenges, die in Sozialen Medien kursieren. Der Bundesrat will Erwachsene bestrafen, die Minderjährige dazu verleiten. Eine Wissenschaftlerin warnt vor Symbolpolitik. Von L. Pfeuffer-Rooschüz.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Frankreichs-extreme-Rechte/!6221919/",
    "q": "taz",
    "d": "2026-10-16T09:24:00+00:00"
-  },
-  {
-   "t": "Zweifel an Lebenslauf bestätigt: Trumps neue Sprecherin machte falsche Berufsangabe",
-   "s": "Katie Zacharia gab als Berufsbezeichnung mehrfach Anwältin ein, obwohl sie bei der Anwaltsprüfung durchgefallen war und sie auch nicht wiederholt hat.",
-   "u": "https://taz.de/Zweifel-an-Lebenslauf-bestaetigt/!6222155/",
-   "q": "taz",
-   "d": "2026-10-16T09:23:00+00:00"
   }
  ]
 }

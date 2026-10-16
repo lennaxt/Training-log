@@ -1,13 +1,20 @@
 {
  "name": "Ausland",
- "updated": "2026-10-16T18:48:59+00:00",
+ "updated": "2026-10-16T23:36:33+00:00",
  "items": [
   {
+   "t": "Gaza und die Toten unter den Trümmern - warten auf die Bergung",
+   "s": "Große Teile des Gazastreifens sind zerstört, Tausende Tote liegen unter den Trümmern. Um sie zu bergen, fehlt es an schwerem Gerät, Treibstoff und Möglichkeiten zur Identifizierung. Angehörige warten - manche seit Jahren. Von B. Meier.",
+   "u": "https://www.tagesschau.de/ausland/asien/gaza-tote-bergungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T22:22:52+00:00"
+  },
+  {
    "t": "Trumps neue Sprecherin räumt ihren Posten nach wenigen Tagen im Amt",
-   "s": "Die gerade erst angetretene neue Pressesprecherin von US-Präsident Donald Trump, Katie Zacharia, gibt ihr Amt wieder auf. In den vergangenen Tagen war sie mit Negativschlagzeilen aufgefallen.",
+   "s": "Die gerade erst angetretene neue Pressesprecherin von US-Präsident Donald Trump, Katie Zacharia, gibt ihr Amt schon wieder auf. Sie war wegen falscher Angaben zu ihrem Lebenslauf unter Druck geraten.",
    "u": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-16T18:46:52+00:00"
+   "d": "2026-10-16T19:42:41+00:00"
   },
   {
    "t": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html",
    "q": "Tagesschau",
    "d": "2026-10-15T03:15:14+00:00"
-  },
-  {
-   "t": "Istanbuler Ex-Bürgermeister İmamoğlu sagt erstmals in Mammutprozess aus",
-   "s": "Es ist ein Mammutprozess gegen die Istanbuler Stadtverwaltung und den abgesetzten Bürgermeister: İmamoğlu hat nach mehr als anderthalb Jahren U-Haft erstmals vor Gericht ausgesagt. Parallel stürmte die Polizei den TV-Sender Halk TV. Von B. Weber.",
-   "u": "https://www.tagesschau.de/ausland/asien/tuerkei-imamoglu-prozess-110.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T16:20:57+00:00"
   }
  ]
 }
