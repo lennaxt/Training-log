@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-16T23:36:35+00:00",
+ "updated": "2026-10-17T07:49:04+00:00",
  "items": [
+  {
+   "t": "Junge Union in Bonn: Angezählter Kanzler trifft auf selbstbewusste Parteijugend",
+   "s": "Die Junge Union stellt sich bei ihrem Deutschlandtag als die neue Hoffnung dar. Heute tritt derjenige dort auf, dem die Krise maßgeblich angelastet wird.",
+   "u": "https://taz.de/Junge-Union-in-Bonn/!6222297/",
+   "q": "taz",
+   "d": "2026-10-17T06:51:00+00:00"
+  },
   {
    "t": "Geas-Reform am Flughafen: Gericht entlässt Familie aus Grenzverfahren",
    "s": "Eine algerische Familie wurde während ihres beschleunigten Asylverfahrens am BER inhaftiert. Das VG Cottbus entschied nun, dass sie einreisen dürfen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Rot-gruen-rote-Sondierungen-in-Berlin/!6221547/",
    "q": "taz",
    "d": "2026-10-14T17:39:00+00:00"
-  },
-  {
-   "t": "Bundeskanzler Merz vor dem EU-Gipfel: Absagen, Ansagen und ein bisschen Empathie",
-   "s": "Kanzler Merz wirbt vor dem EU-Gipfel im Bundestag um anhaltende Hilfen für die Ukraine. In Brüssel wird es vor allem um die Verteilung von Geld gehen.",
-   "u": "https://taz.de/Bundeskanzler-Merz-vor-dem-EU-Gipfel/!6221585/",
-   "q": "taz",
-   "d": "2026-10-14T17:37:00+00:00"
   }
  ]
 }

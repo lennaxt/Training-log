@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-16T23:36:37+00:00",
+ "updated": "2026-10-17T07:49:06+00:00",
  "items": [
+  {
+   "t": "USA und Russland: Trump setzt geplante Sanktionen aus",
+   "s": "Wegen der Energieknappheit in den Staaten, hat Donald Trump Sanktionen gegen Russland ausgesetzt. In der Ukraine sterben derweil Menschen in Russlands Krieg.",
+   "u": "https://taz.de/USA-setzen-Sanktionen-gegen-Russland-aus/!6222295/",
+   "q": "taz",
+   "d": "2026-10-17T06:29:00+00:00"
+  },
   {
    "t": "Zweifel an Lebenslauf bestätigt: Trumps neue Sprecherin machte falsche Berufsangabe",
    "s": "Katie Zacharia gab als Berufsbezeichnung mehrfach Anwältin ein, obwohl sie bei der Anwaltsprüfung durchgefallen war und sie auch nicht wiederholt hat.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Erster-Gang-der-Praesidentschaftswahl/!6218879/",
    "q": "taz",
    "d": "2026-10-05T13:59:00+00:00"
-  },
-  {
-   "t": "Rechtsruck in Brasilien: Flávio Bolsonaro liegt knapp vor Lula",
-   "s": "Brasiliens Linksregierung erleidet eine schwere Schlappe, der rechte Flávio Bolsonaro triumphiert. Nun entscheidet die Stichwahl, wer Präsident wird.",
-   "u": "https://taz.de/Rechtsruck-in-Brasilien/!6218796/",
-   "q": "taz",
-   "d": "2026-10-05T06:25:00+00:00"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-16T23:36:34+00:00",
+ "updated": "2026-10-17T07:49:02+00:00",
  "items": [
   {
    "t": "Wirtschaft vor acht vom 16102026",
@@ -143,6 +143,13 @@
    "d": "2026-10-15T07:11:08+00:00"
   },
   {
+   "t": "Der Kampf ums Trinkwasser im brandenburgischen Baruth",
+   "s": "Die Unternehmen Red Bull und Rauch produzieren in Baruth Getränke und dürfen dabei 92 Prozent des Grundwassers, das der brandenburgischen Stadt zur Verfügung steht, entnehmen. Eine Bürgerinitiative wehrt sich und kämpft um Akteneinsicht.Von Andrea Rehmsmeier",
+   "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-14T16:40:00+00:00"
+  },
+  {
    "t": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
    "s": "Der Internationale Währungsfonds fordert Industrieländer auf, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Steigende Zinsen und hohe Ausgaben schränkten den finanziellen Spielraum der Staaten zunehmend ein.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html",
    "q": "Tagesschau",
    "d": "2026-10-14T06:59:05+00:00"
-  },
-  {
-   "t": "Kommentar zur Erbschaftssteuer: Mehr Gerechtigkeit wagen!",
-   "s": "Das Bundesverfassungsgericht beschäftigt sich mit der Erbschaftssteuer. Hierbei geht es um Fragen der Gerechtigkeit, mit denen sich eigentlich die Politik auseinandersetzen sollte. Die Koalition könnte dabei Handlungsfähigkeit zeigen.Ein Standpunkt von Gudula Geuther",
-   "u": "https://www.deutschlandfunk.de/erbschaftssteuer-gerechtigkeit-verfassungsgericht-firmenerben-koalition-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-13T15:50:00+00:00"
   }
  ]
 }

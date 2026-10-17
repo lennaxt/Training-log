@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-16T23:36:34+00:00",
+ "updated": "2026-10-17T07:49:03+00:00",
  "items": [
+  {
+   "t": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
+   "s": "Dass gesetzlich Versicherte oft bei der Terminvergabe benachteiligt würden, hält der Chef des GKV-Spitzenverbands, Blatt, für eine \"himmelschreiende Ungerechtigkeit\". Stattdessen solle künftig der medizinische Bedarf entscheiden.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/gkv-arzttermine-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T03:23:11+00:00"
+  },
   {
    "t": "Schaltsekunde abgeschafft - kommt dafür die Schaltstunde?",
    "s": "Ein internationales Gremium hat festgelegt: Künftig wird es keine Schaltsekunden mehr geben. 27 Mal wurde sie genutzt, um unsere Uhren mit der astronomischen Zeit in Einklang zu halten. Ein neues System käme erst im Jahr 3000 zum Einsatz.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/forschung/exzellenzunis-bekanntgegeben-100.html",
    "q": "Tagesschau",
    "d": "2026-10-02T15:04:08+00:00"
-  },
-  {
-   "t": "Von Stechmücken übertragen: Erstmals Sindbis-Virus in Deutschland",
-   "s": "Dem Robert Koch-Institut zufolge ist erstmals eine Infektion mit dem Sindbis-Virus in Deutschland nachgewiesen worden. Es wird von Stechmücken übertragen und verläuft meistens harmlos. Von Jan Kerckhoff.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/sindbis-virus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T14:23:37+00:00"
   }
  ]
 }
