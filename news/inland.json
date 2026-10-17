@@ -1,7 +1,77 @@
 {
  "name": "Inland",
- "updated": "2026-10-17T07:49:00+00:00",
+ "updated": "2026-10-17T12:59:07+00:00",
  "items": [
+  {
+   "t": "Ukrainer in Spanien: Für immer im Land bleiben",
+   "s": "Ein staatliches Programm hilft ukrainischen Geflüchteten in Spanien bei der Integration. Mit dem „vorübergehenden Schutzstatus“ können sie arbeiten.",
+   "u": "https://taz.de/Ukrainer-in-Spanien/!6209056/",
+   "q": "taz",
+   "d": "2026-10-17T12:06:00+00:00"
+  },
+  {
+   "t": "Ukrainer in Spanien: Menschen für Menschen",
+   "s": "Mehr als 250.000 ukrainische Geflüchtete leben in Spanien. Eine aktive spanisch-ukrainische Zivilgesellschaft hilft ihnen bei der Integration.",
+   "u": "https://taz.de/Ukrainer-in-Spanien/!6184845/",
+   "q": "taz",
+   "d": "2026-10-17T12:03:00+00:00"
+  },
+  {
+   "t": "Merz verteidigt Reformkurs und warnt Koalitionspartner SPD",
+   "s": "Beim \"Deutschlandtag\" der Jungen Union findet Kanzler Merz deutliche Worte in Richtung SPD: Er wolle den Erfolg der Koalition, aber nicht um jeden Preis. In Sachen Rente pocht er darauf, die Reformvorschläge vollständig umzusetzen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T11:57:58+00:00"
+  },
+  {
+   "t": "Berlin nach der Wahl: Mal was anderes",
+   "s": "Gerade ist die Koalitionsfrage in Berlin Thema, aber Weichen werden auch auf Bezirksebene gestellt. In Reinickendorf will die CDU mit der AfD zusammenarbeiten.",
+   "u": "https://taz.de/Die-CDU-muss-sich-auch-in-Berlin-entscheiden-wie-sie-mit-der-AfD-umgeht/!6218178/",
+   "q": "taz",
+   "d": "2026-10-17T11:41:00+00:00"
+  },
+  {
+   "t": "Merz und die Sozialreformen: Nicht meckern, investieren!",
+   "s": "Unser Kanzler hat es auch nicht immer leicht gehabt. Und hat es noch immer nicht. Man möge sich ein Beispiel an ihm nehmen.",
+   "u": "https://taz.de/Merz-und-die-Sozialreformen/!6218239/",
+   "q": "taz",
+   "d": "2026-10-17T11:05:00+00:00"
+  },
+  {
+   "t": "SPD in der Krise: Ein Abgang, ein Riss",
+   "s": "Bärbel Bas tritt zurück, Lars Klingbeil kündigt einen Bundesparteitag an. Die Personalfrage verdeckt eine tiefere Krise. Die SPD weiß nicht, wofür sie steht.",
+   "u": "https://taz.de/SPD-in-der-Krise/!6218249/",
+   "q": "taz",
+   "d": "2026-10-17T10:16:00+00:00"
+  },
+  {
+   "t": "Nach dem Ende des \"Tankrabatts\": Bilger hält weitere Entlastungen für möglich",
+   "s": "Der \"Tankrabatt\" gilt noch bis zum Jahresende - und dann? Verkehrsminister Bilger hält weitere gezielte Entlastungen für möglich - etwa für Busunternehmen oder Taxifahrer. Zudem arbeite die Regierung an einem Mechanismus für Direktzahlungen.",
+   "u": "https://www.tagesschau.de/inland/bilger-tankrabatt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T09:38:09+00:00"
+  },
+  {
+   "t": "\"Rail Baltica\" - Europas Schnellzugverbindung verspätet sich",
+   "s": "Die Eisenbahnverbindung \"Rail Baltica\" soll über die baltischen Staaten und Polen bis nach Berlin führen. Die Züge könnten schon längst fahren. Doch viele Bauarbeiten an der Strecke zwischen Lettland, Litauen und Estland laufen unkoordiniert. (Erstsendung 9.5.26)Kersting, Christoph",
+   "u": "https://www.deutschlandfunk.de/wann-kommt-der-zug-europas-bahnprojekt-rail-baltica-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-17T09:05:00+00:00"
+  },
+  {
+   "t": "GKV zu Wartezeiten der Versicherten: Schnelle Termine denen, die sie brauchen",
+   "s": "Der Verbandschef der Kassen (GKV) sieht in der Ungleichbehandlung von gesetzlich und privat Versicherten eine „himmelschreiende Ungerechtigkeit“.",
+   "u": "https://taz.de/GKV-zu-Wartezeiten-der-Versicherten/!6222299/",
+   "q": "taz",
+   "d": "2026-10-17T08:52:00+00:00"
+  },
+  {
+   "t": "Möglicher Nachfolger für Friedrich Merz: Wüst of Change",
+   "s": "Der Deutschlandtag der JU gilt als Bühne für Kanzlerambitionen. Auch Hendrik Wüst hat dort gesprochen. 2027 könnte er NRW weiterregieren. Und dann Berlin?",
+   "u": "https://taz.de/Moeglicher-Nachfolger-fuer-Friedrich-Merz/!6218116/",
+   "q": "taz",
+   "d": "2026-10-17T08:39:00+00:00"
+  },
   {
    "t": "Massaker von Paris – Ein vertuschtes Staatsverbrechen",
    "s": "Eines der dunkelsten Kapitel der französischen Geschichte erreichte im Oktober 1961 seinen Höhepunkt: Über 25.000 Algerier demonstrieren während des Unabhängigkeitskriegs friedlich in Paris. Die Polizei knüppelt, mordet, vertuscht.Vormweg, Christoph",
@@ -99,76 +169,6 @@
    "u": "https://taz.de/Geas-Reform-am-Flughafen/!6222208/",
    "q": "taz",
    "d": "2026-10-16T16:34:00+00:00"
-  },
-  {
-   "t": "Zweiter Tag des EU-Gipfels in Brüssel: Trügerische Harmonie",
-   "s": "Vor dem Hintergrund wachsender Spannungen zwischen Washington und Kyjiw reist Präsident Selenskyj nach Brüssel. Neue Hilfezusagen bekommt er nicht.",
-   "u": "https://taz.de/Zweiter-Tag-des-EU-Gipfels-in-Bruessel/!6222273/",
-   "q": "taz",
-   "d": "2026-10-16T16:21:00+00:00"
-  },
-  {
-   "t": "Nach der Wahl in Sachsen-Anhalt: „Der Mut ist verschwunden“",
-   "s": "Der 17-jährige Max Schneller hat in Sachsen-Anhalt für die Demokratie gekämpft. Nun verlässt er das Bundesland.",
-   "u": "https://taz.de/Nach-der-Wahl-in-Sachsen-Anhalt/!6222242/",
-   "q": "taz",
-   "d": "2026-10-16T16:03:00+00:00"
-  },
-  {
-   "t": "Hitzesommer – war was?",
-   "s": "Temperaturen über 40 Grad, Missernten, Niedrigwasser und Waldbrände: Aber fast niemand spricht mehr über Hitzeanpassung. Was müsste jetzt passieren? Und: Masernausbruch in den USA – wie gefährlich ist er?Barbara Schmidt-Mattern",
-   "u": "https://www.deutschlandfunk.de/klimawandel-hitzeanpassung-masernausbruch-usa-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-16T15:00:00+00:00"
-  },
-  {
-   "t": "Wirtschaftsministerin Reiche für Direktzahlungen nach \"Tankrabatt\"",
-   "s": "Der \"Tankrabatt\" soll Autofahrer entlasten - aber was kommt danach? Wirtschaftsministerin Reiche spricht sich im ARD Interview der Woche für eine gezieltere Entlastung von Geringverdienern aus - und erhöht den Druck auf das Finanzministerium.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/katherina-reiche-tankrabatt-entlastungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T14:55:10+00:00"
-  },
-  {
-   "t": "Babyboomer werden alt: Das Ende der Wohnungsknappheit?",
-   "s": "Millionen Babyboomer werden bald ihre Wohnungen oder Häuser verkaufen oder vererben. Löst der „Silver Tsunami“ den Wohnraummangel?",
-   "u": "https://taz.de/Babyboomer-werden-alt---was-das-fuer-den-Wohnungsmangel-heisst/!6222241/",
-   "q": "taz",
-   "d": "2026-10-16T14:46:00+00:00"
-  },
-  {
-   "t": "Drohungen an jüdische Studenten nach AfD-Blockade bei Gedenkfeier",
-   "s": "Jüdische Studierende hatten AfD-Politiker Tillschneider daran gehindert, am Gedenken in der Synagoge von Halle teilzunehmen - jetzt bekommen sie Morddrohungen. Die Polizei ermittelt, ob Tillschneider beleidigt wurde.",
-   "u": "https://www.tagesschau.de/inland/juedische-studenten-afd-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T14:40:15+00:00"
-  },
-  {
-   "t": "Frühstartrente beschlossen: Kinder am Kapitalmarkt",
-   "s": "Der Bundestag hat den Zuschuss von zehn Euro pro Monat für Kinder beschlossen. Die wichtigsten Fragen und Antworten.",
-   "u": "https://taz.de/Fruehstartrente-beschlossen/!6222209/",
-   "q": "taz",
-   "d": "2026-10-16T14:37:00+00:00"
-  },
-  {
-   "t": "Urteil gegen Nordirlands Ex-Premier: 15 Jahre Haft für Jeffrey Donaldson",
-   "s": "Der ehemalige Regierungschef wird wegen 18 Sexualdelikten verurteilt. Das könnte sich bei den Regionalwahlen 2027 negativ auf seine Partei DUP auswirken.",
-   "u": "https://taz.de/Urteil-gegen-Nordirlands-Ex-Premier/!6222223/",
-   "q": "taz",
-   "d": "2026-10-16T14:00:00+00:00"
-  },
-  {
-   "t": "Gefährliche Mutproben: Bundesrat fordert mehr Schutz von Minderjährigen im Netz",
-   "s": "Bei \"Blackout-Challenges\" würgen sich Jugendliche selbst oder gegenseitig bis zur Ohnmacht. Aufnahmen davon werden vielfach in Sozialen Medien geteilt. Der Bundesrat fordert nun Strafen für die, die andere gezielt zu solchen Handlungen verleiten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-bundesrat-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T13:29:07+00:00"
-  },
-  {
-   "t": "Welche Tabakware wie viel teurer wird",
-   "s": "Zigaretten, Feinschnitt und andere Tabakwaren und tabakähnliche Produkte sollen deutlich stärker besteuert werden als bislang - die Preise dürften erheblich steigen. Was ist genau geplant?",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/ueberblick-tabaksteuer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T12:38:22+00:00"
   }
  ]
 }

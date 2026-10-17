@@ -1,13 +1,27 @@
 {
  "name": "Ausland",
- "updated": "2026-10-17T07:49:01+00:00",
+ "updated": "2026-10-17T12:59:08+00:00",
  "items": [
   {
+   "t": "Tanker im Persischen Golf attackiert",
+   "s": "Vor der saudischen Küste sind Angriffe auf zwei Schiffe gemeldet worden - weit entfernt von der Straße von Hormus. Dort wiederum ist ein Supertanker nach iranischen Angaben auf eine Mine gelaufen.",
+   "u": "https://www.tagesschau.de/ausland/asien/persischer-golf-tanker-angriffe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T12:28:17+00:00"
+  },
+  {
    "t": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
-   "s": "Erst macht der US-Präsident einen umstrittenen Diesel-Deal mit Russland, nun setzt Trump gerade erst beschlossene Sanktionen gegen Moskau aus. Dies liege im nationalen Interesse, teilte das Weiße Haus mit, ohne dies näher zu begründen.",
+   "s": "Erst macht der US-Präsident einen umstrittenen Diesel-Deal mit Russland, nun setzt Trump gerade erst beschlossene Sanktionen aus. Das Weiße Haus begründet dies mit nationalem Interesse. Moskau reagiert erfreut, die Ukraine ist entsetzt.",
    "u": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-17T06:08:15+00:00"
+   "d": "2026-10-17T12:07:08+00:00"
+  },
+  {
+   "t": "Russland-Sanktionen auf Eis: Wie sich Trump Putin weiter annähert",
+   "s": "Die Unterstützung von US-Präsident Trump für die Ukraine war schon immer zurückhaltend. Mit den jetzt gestoppten Sanktionen kommt er dem russischen Präsidenten weit entgegen. Auch in den USA wird er dafür massiv kritisiert. Von Carsten Kühntopp.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T08:08:36+00:00"
   },
   {
    "t": "Nachfolge als UN-Generalsekretär: Bewerber scheitern an Vetomächten",
@@ -150,25 +164,11 @@
    "d": "2026-10-15T18:05:32+00:00"
   },
   {
-   "t": "Trump sagt Livestream zu geplanter Hinrichtung von Attentäter ab",
-   "s": "Die ganze Welt sollte zusehen, wie ein verurteilter Attentäter hingerichtet wird - nun hat US-Präsident Trump den geplanten Livestream abgesagt. Die Ankündigung von Verteidigungsminister Hegseth war auf Empörung gestoßen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-livestream-hinrichtung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T15:57:03+00:00"
-  },
-  {
    "t": "Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul",
    "s": "Straßen stehen unter Wasser, Fahrzeuge bleiben stecken: Bei heftigen Regenfällen sind in Istanbul mehrere Menschen gestorben. Während Behörden weiterhin im Großeinsatz sind, droht bereits neuer Starkregen.",
    "u": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html",
    "q": "Tagesschau",
    "d": "2026-10-15T15:25:32+00:00"
-  },
-  {
-   "t": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
-   "s": "Im Schwarzen Meer vor Rumäniens Küste ist auf einem Handelsschiff ein Feuer ausgebrochen. Es sei von Drohnen getroffen worden, teilte der rumänische Präsident Dan laut der Agentur Reuters mit. Mehrere Seeleute werden noch vermisst.",
-   "u": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T11:52:23+00:00"
   }
  ]
 }
