@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-17T12:59:09+00:00",
+ "updated": "2026-10-17T17:51:58+00:00",
  "items": [
+  {
+   "t": "Paketversand und Retouren durch Onlinehandel auf Rekordniveau",
+   "s": "Immer mehr Menschen bestellen online. Auch die Zahl der Rücksendungen nimmt stetig zu. Ein lohnendes Geschäft für Kioskbesitzer, Paketunternehmen. Kritik kommt von Umweltschützern. Von Lucretia Gather.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/online-retouren-rekord-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T16:14:36+00:00"
+  },
   {
    "t": "Steigende Preise für Benzin, Heizöl, Gas - wie teuer wird der Winter?",
    "s": "Die Preise für Kraftstoff, Heizöl und Erdgas sind binnen kurzer Zeit stark gestiegen. Das verteuert den Alltag und belastet auch Firmen mit Extrakosten. Was sind die Folgen? Von Lisa Wurscher und Julia Lamour.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/energie/waermepumpen-bilanz-heizen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-14T11:28:13+00:00"
-  },
-  {
-   "t": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
-   "s": "Die Renditen von US-Staatsanleihen sind so hoch wie seit 24 Jahren nicht mehr. 1981 folgte auf ein solches Hoch eine jahrzehntelange Kursrally am Anleihemarkt. Wiederholt sich die Geschichte? Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T06:59:05+00:00"
   }
  ]
 }

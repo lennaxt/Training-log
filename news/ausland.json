@@ -1,7 +1,42 @@
 {
  "name": "Ausland",
- "updated": "2026-10-17T12:59:08+00:00",
+ "updated": "2026-10-17T17:51:56+00:00",
  "items": [
+  {
+   "t": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
+   "s": "Viele Wähler unterstützten 2024 Trumps Versprechen einer rigiden Abschiebepolitik. Doch vor den Zwischenwahlen zeigt sich: Das rücksichtslose Vorgehen der Einwanderungsbehörde ICE befremdet Bürger - und Unternehmer. Von Carsten Kühntopp.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T17:44:57+00:00"
+  },
+  {
+   "t": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
+   "s": "Angriffe auf Polizisten, Plünderungen und Brandstiftungen: Bei Massenprotesten gegen hohe Lebenshaltungskosten hat es in Frankreich schwere Ausschreitungen gegeben. Hunderte Menschen wurden festgenommen.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T17:40:26+00:00"
+  },
+  {
+   "t": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
+   "s": "US-Präsident Trump setzt geplante Russland-Sanktionen aus - während Angriffe auf die Infrastruktur laut dem ukrainischen Staatschef Selenskyj zunehmen. Er warnt, Trumps Entscheidung werde Moskau nur weiter bestärken.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T17:26:53+00:00"
+  },
+  {
+   "t": "Rechtsruck - auch bei Israels linken Parteien?",
+   "s": "Israels politische Landschaft ist über die Jahre nach rechts gerückt. Der Terroranschlag der Hamas vor gut drei Jahren hat diese Entwicklung verstärkt. Wie wirkt sich das auf linke Parteien aus? Von Jan-Christoph Kitzler.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-linke-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T16:09:53+00:00"
+  },
+  {
+   "t": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
+   "s": "Während der Olivenernte im Westjordanland häuft sich die Gewalt israelischer Siedler gegen palästinensische Helfer. In mehreren Orten sind dabei Menschen verletzt worden, unter ihnen auch eine US-Journalistin.",
+   "u": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T14:53:09+00:00"
+  },
   {
    "t": "Tanker im Persischen Golf attackiert",
    "s": "Vor der saudischen Küste sind Angriffe auf zwei Schiffe gemeldet worden - weit entfernt von der Straße von Hormus. Dort wiederum ist ein Supertanker nach iranischen Angaben auf eine Mine gelaufen.",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/schuesse-grundschule-oregon-100.html",
    "q": "Tagesschau",
    "d": "2026-10-16T05:07:05+00:00"
-  },
-  {
-   "t": "Hunger im Jemen - Wenn Mehl zum Luxusartikel wird",
-   "s": "Selbst alltägliche Lebensmittel wie Mehl sind im Jemen für viele Menschen unerschwinglich geworden. Millionen Menschen hungern, und die Kämpfe mit der Huthi-Miliz im Land machen alles nur noch schlimmer. Von Moritz Behrend.",
-   "u": "https://www.tagesschau.de/ausland/asien/hungerkrise-jemen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T04:24:46+00:00"
-  },
-  {
-   "t": "Starlink-Störung in der Ukraine: Enttäuscht von Musk, enttäuscht von Trump",
-   "s": "In der Ukraine scheint für viele klar: Die Starlink-Ausfälle sind kein Zufall, sondern politisch gewollt. Die Unterstützung aus der EU wird immer wichtiger. Von Rebecca Barth.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-starlink-104.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T01:23:51+00:00"
-  },
-  {
-   "t": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
-   "s": "Wie sicher ist der Umgang mit KI-Chatbots wie ChatGPT? Acht Bundesstaaten in den USA sehen erhebliche Risiken und haben deshalb Klagen gegen den Entwickler OpenAI eingereicht.",
-   "u": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T19:20:05+00:00"
-  },
-  {
-   "t": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
-   "s": "Die EU solle nicht so viel Geld ausgeben, findet Bundeskanzler Merz. Einige Länder sehen das genauso. Andere können den Sparvorschlägen nichts abgewinnen. Trotz klarer Fronten bleibt der große Knall im Ringen um den Haushalt aus. Von S. Stuchlik.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T18:05:32+00:00"
-  },
-  {
-   "t": "Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul",
-   "s": "Straßen stehen unter Wasser, Fahrzeuge bleiben stecken: Bei heftigen Regenfällen sind in Istanbul mehrere Menschen gestorben. Während Behörden weiterhin im Großeinsatz sind, droht bereits neuer Starkregen.",
-   "u": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T15:25:32+00:00"
   }
  ]
 }

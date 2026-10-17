@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-17T12:59:11+00:00",
+ "updated": "2026-10-17T17:52:02+00:00",
  "items": [
+  {
+   "t": "Krawalle statt Demos in Frankreich: „Mehr Mitgefühl für die Müllcontainer“",
+   "s": "Zehntausende beteiligten sich am Samstag an einem gemeinsamen Aktionstag von Schüler*innen, Studierenden, Gelbwesten und Gewerkschaften. In mehreren Städten gab es Krawalle und Plünderungen.",
+   "u": "https://taz.de/Krawalle-statt-Demos-in-Frankreich/!6222308/",
+   "q": "taz",
+   "d": "2026-10-17T16:00:00+00:00"
+  },
   {
    "t": "Energie-Knappheit in der Ukraine: Sie wissen nicht, wohin",
    "s": "In der Ukraine steht der wohl härteste Winter seit Anfang des Krieges bevor. Die NGO Proliska rechnet mit einer „Evakuierungswelle“.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Das-ist-Nord-Stream/!6221119/",
    "q": "taz",
    "d": "2026-10-13T17:51:00+00:00"
-  },
-  {
-   "t": "Nächste Protestaktionen in Frankreich: Nur Trostpreise für die Jugendlichen",
-   "s": "Erneut haben in Frankreich Zehntausende Jugendliche zusammen mit Studierenden und Gewerkschaften demonstriert. Die Bewegung bekommt Besuch aus Schweden.",
-   "u": "https://taz.de/Naechste-Protestaktionen-in-Frankreich/!6221264/",
-   "q": "taz",
-   "d": "2026-10-13T17:44:00+00:00"
   }
  ]
 }
