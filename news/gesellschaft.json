@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-17T17:52:02+00:00",
+ "updated": "2026-10-17T23:08:27+00:00",
  "items": [
+  {
+   "t": "Queerfeindlichkeit unter Jugendlichen: An der Toleranzgrenze",
+   "s": "Ausgerechnet in den Niederlanden sinkt die Akzeptanz von Homosexualität unter Jugendlichen drastisch. Was kann man tun? Zu Besuch an einer Schule.",
+   "u": "https://taz.de/Queerfeindlichkeit-unter-Jugendlichen/!6218182/",
+   "q": "taz",
+   "d": "2026-10-17T18:14:00+00:00"
+  },
   {
    "t": "Krawalle statt Demos in Frankreich: „Mehr Mitgefühl für die Müllcontainer“",
    "s": "Zehntausende beteiligten sich am Samstag an einem gemeinsamen Aktionstag von Schüler*innen, Studierenden, Gelbwesten und Gewerkschaften. In mehreren Städten gab es Krawalle und Plünderungen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Zum-Nord-Stream-Prozess/!6221273/",
    "q": "taz",
    "d": "2026-10-13T17:52:00+00:00"
-  },
-  {
-   "t": "Das ist Nord Stream: Die Anti-Ukraine-Pipeline",
-   "s": "Die Ukraine hatte schon früh gegen den Bau von Nord Stream 2 protestiert, weil ihr dadurch Durchleitungsgebühren als Transitland für russisches Erdgas entgehen.",
-   "u": "https://taz.de/Das-ist-Nord-Stream/!6221119/",
-   "q": "taz",
-   "d": "2026-10-13T17:51:00+00:00"
   }
  ]
 }

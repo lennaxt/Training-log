@@ -1,7 +1,28 @@
 {
  "name": "Inland",
- "updated": "2026-10-17T17:51:56+00:00",
+ "updated": "2026-10-17T23:08:23+00:00",
  "items": [
+  {
+   "t": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
+   "s": "Vier Wochen nach der Wahl zum Berliner Abgeordnetenhaus haben Linke, Grüne und SPD ihre Sondierungsgespräche erfolgreich abgeschlossen. Sofern die Parteigremien zustimmen, können Koalitionsverhandlungen beginnen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T19:15:16+00:00"
+  },
+  {
+   "t": "Queerfeindlichkeit unter Jugendlichen: An der Toleranzgrenze",
+   "s": "Ausgerechnet in den Niederlanden sinkt die Akzeptanz von Homosexualität unter Jugendlichen drastisch. Was kann man tun? Zu Besuch an einer Schule.",
+   "u": "https://taz.de/Queerfeindlichkeit-unter-Jugendlichen/!6218182/",
+   "q": "taz",
+   "d": "2026-10-17T18:14:00+00:00"
+  },
+  {
+   "t": "AfD-Jugend in Neumünster: Mit Rechtsrock und Rückendeckung",
+   "s": "Die AfD-Jugend zieht mit Neonazis durch Neumünster. Ein Funktionär mit SS-Spruch bekommt neue Posten. Der Gegenprotest ist deutlich größer.",
+   "u": "https://taz.de/AfD-Jugend-in-Neumuenster/!6222310/",
+   "q": "taz",
+   "d": "2026-10-17T18:12:00+00:00"
+  },
   {
    "t": "Einigung auf Enteignungen in Berlin: Vom Sondieren zum Sozialismus?",
    "s": "Strahlende Gesichter bei Berliner Linken, Grünen und SPD. Die drei Parteien werden Koalitionsverhandlungen starten. Was genau sie vereinbart haben.",
@@ -15,13 +36,6 @@
    "u": "https://taz.de/Genitalverstuemmelung-in-Gambia/!6205994/",
    "q": "taz",
    "d": "2026-10-17T16:42:00+00:00"
-  },
-  {
-   "t": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
-   "s": "Vier Wochen nach der Wahl zum Berliner Abgeordnetenhaus haben Linke, Grüne und SPD ihre Sondierungsgespräche erfolgreich abgeschlossen. Sofern die Parteigremien zustimmen, können Koalitionsverhandlungen beginnen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T16:02:16+00:00"
   },
   {
    "t": "Krawalle statt Demos in Frankreich: „Mehr Mitgefühl für die Müllcontainer“",
@@ -155,20 +169,6 @@
    "u": "https://www.deutschlandfunk.de/ukraine-zwischen-trump-und-eu-interview-mit-geopolitik-experte-klemens-fischer-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-17T04:50:00+00:00"
-  },
-  {
-   "t": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
-   "s": "Dass gesetzlich Versicherte oft bei der Terminvergabe benachteiligt würden, hält der Chef des GKV-Spitzenverbands, Blatt, für eine \"himmelschreiende Ungerechtigkeit\". Stattdessen solle künftig der medizinische Bedarf entscheiden.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/gkv-arzttermine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T03:23:11+00:00"
-  },
-  {
-   "t": "Wie sich Bundespolitiker auf Social Media schlagen",
-   "s": "Nah an den Leuten oder unangemessen? Auf Social Media versuchen sich die Spitzenpolitiker mit ihrer eigenen Ansprache. Eine Analyse der Postings zeigt: Es gibt klare Gewinner und Verlierer. Von Fynn Dresler und Philine Elster.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/social-media-bundespolitik-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T02:39:05+00:00"
   }
  ]
 }

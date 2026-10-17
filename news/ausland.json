@@ -1,20 +1,34 @@
 {
  "name": "Ausland",
- "updated": "2026-10-17T17:51:56+00:00",
+ "updated": "2026-10-17T23:08:23+00:00",
  "items": [
+  {
+   "t": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
+   "s": "Angriffe auf Polizisten, Plünderungen und Brandstiftungen: Bei Massenprotesten gegen hohe Lebenshaltungskosten hat es in Frankreich schwere Ausschreitungen gegeben. In Limoges setzten Randalierer das historische Rathaus in Brand.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T22:31:39+00:00"
+  },
+  {
+   "t": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
+   "s": "In Brüssel hat die Polizei Tränengas gegen Teilnehmer von Studentenprotesten eingesetzt. Demonstranten hatten zuvor mit Flaschen und Feuerwerkskörpern geworfen. Belgiens Innenministerium sprach von \"organisierter Gewalt\".",
+   "u": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T19:10:03+00:00"
+  },
+  {
+   "t": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
+   "s": "Während der Olivenernte im Westjordanland häuft sich die Gewalt israelischer Siedler gegen palästinensische Helfer. In mehreren Orten sind dabei Menschen verletzt worden, unter ihnen auch eine US-Journalistin.",
+   "u": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-17T18:09:16+00:00"
+  },
   {
    "t": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
    "s": "Viele Wähler unterstützten 2024 Trumps Versprechen einer rigiden Abschiebepolitik. Doch vor den Zwischenwahlen zeigt sich: Das rücksichtslose Vorgehen der Einwanderungsbehörde ICE befremdet Bürger - und Unternehmer. Von Carsten Kühntopp.",
    "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html",
    "q": "Tagesschau",
    "d": "2026-10-17T17:44:57+00:00"
-  },
-  {
-   "t": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
-   "s": "Angriffe auf Polizisten, Plünderungen und Brandstiftungen: Bei Massenprotesten gegen hohe Lebenshaltungskosten hat es in Frankreich schwere Ausschreitungen gegeben. Hunderte Menschen wurden festgenommen.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T17:40:26+00:00"
   },
   {
    "t": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
@@ -29,13 +43,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-linke-100.html",
    "q": "Tagesschau",
    "d": "2026-10-17T16:09:53+00:00"
-  },
-  {
-   "t": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
-   "s": "Während der Olivenernte im Westjordanland häuft sich die Gewalt israelischer Siedler gegen palästinensische Helfer. In mehreren Orten sind dabei Menschen verletzt worden, unter ihnen auch eine US-Journalistin.",
-   "u": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T14:53:09+00:00"
   },
   {
    "t": "Tanker im Persischen Golf attackiert",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-haitianer-angst-abschiebung-100.html",
    "q": "Tagesschau",
    "d": "2026-10-16T07:04:17+00:00"
-  },
-  {
-   "t": "Fünf Tote bei Schüssen an Grundschule in Oregon",
-   "s": "Bei Schüssen an einer Grundschule im US-Bundesstaat Oregon sind drei Kinder sowie eine Lehrkraft getötet worden. Der jugendliche mutmaßliche Schütze wurde erschossen - noch bevor die Polizei eintraf.",
-   "u": "https://www.tagesschau.de/ausland/amerika/schuesse-grundschule-oregon-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T05:07:05+00:00"
   }
  ]
 }

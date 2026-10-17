@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-17T17:52:01+00:00",
+ "updated": "2026-10-17T23:08:26+00:00",
  "items": [
+  {
+   "t": "AfD-Jugend in Neumünster: Mit Rechtsrock und Rückendeckung",
+   "s": "Die AfD-Jugend zieht mit Neonazis durch Neumünster. Ein Funktionär mit SS-Spruch bekommt neue Posten. Der Gegenprotest ist deutlich größer.",
+   "u": "https://taz.de/AfD-Jugend-in-Neumuenster/!6222310/",
+   "q": "taz",
+   "d": "2026-10-17T18:12:00+00:00"
+  },
   {
    "t": "Einigung auf Enteignungen in Berlin: Vom Sondieren zum Sozialismus?",
    "s": "Strahlende Gesichter bei Berliner Linken, Grünen und SPD. Die drei Parteien werden Koalitionsverhandlungen starten. Was genau sie vereinbart haben.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/CDU-Gedankenspiel-zu-Koalition-mit-AfD/!6221837/",
    "q": "taz",
    "d": "2026-10-15T17:19:00+00:00"
-  },
-  {
-   "t": "Wohngipfel von Mieterbund und DGB: Könnte eine Mietpreisregulierung der Wirtschaft helfen?",
-   "s": "Auf dem Wohngipfel wird über Mietenpolitik und Vergesellschaftung diskutiert. Ökonom Sebastian Dullien ist dafür, die Justizministerin dagegen.",
-   "u": "https://taz.de/Wohngipfel-von-Mieterbund-und-DGB/!6221818/",
-   "q": "taz",
-   "d": "2026-10-15T16:08:00+00:00"
   }
  ]
 }
