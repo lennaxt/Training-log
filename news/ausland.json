@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-10-18T13:18:45+00:00",
+ "updated": "2026-10-18T18:06:47+00:00",
  "items": [
+  {
+   "t": "Drohne in Litauens Luftraum eingedrungen und abgestürzt",
+   "s": "NATO-Kampfjets stiegen auf, Bürger wurden gewarnt: In Litauen hat eine Drohne für Alarm gesorgt, weil sie in den Luftraum eindrang. Kiew entschuldigte sich kurz darauf - und vermutet eine Störaktion Russlands dahinter.",
+   "u": "https://www.tagesschau.de/ausland/europa/litauen-drohne-absturz-ukraine-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T16:13:24+00:00"
+  },
+  {
+   "t": "Iran unterbreitet den USA ein Angebot - und droht zugleich",
+   "s": "Irans Regierung hat gemischte Signale nach Washington gesendet: Während Außenminister Araghtschi das Angebot erneuerte, die Straße von Hormus zu öffnen, drohte der neu ernannte Verteidigungsminister Ketabtschi US-Präsident Trump.",
+   "u": "https://www.tagesschau.de/ausland/asien/iran-hormus-angebot-drohung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T15:18:33+00:00"
+  },
+  {
+   "t": "Gewalt bei Protesten beschäftigt auch Italien",
+   "s": "Proteste und Krawalle hat es am Samstag auch in Italien gegeben. Ministerpräsidentin Meloni verurteilte die Gewalt, von der vor allem Mailand betroffen war. Die Demonstranten forderten höhere Löhne und mehr Investitionen.",
+   "u": "https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T14:27:58+00:00"
+  },
+  {
+   "t": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
+   "s": "Am Tag nach der massiven Gewalt bei Protesten in Frankreich wird das Ausmaß der Zerstörung sichtbar. Die Regierung macht Linksradikale für die Krawalle verantwortlich. Präsident Macron will sich am Abend an die Nation wenden.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T13:56:51+00:00"
+  },
   {
    "t": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskalieren",
    "s": "In Frankreich haben Hunderttausende Menschen am Samstag protestiert - überschattet von massiven Ausschreitungen. Vermummte plünderten Geschäfte und setzten Gebäude in Brand. 1.800 Menschen wurden festgenommen.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-paris-berlin-100.html",
    "q": "Tagesschau",
    "d": "2026-10-16T16:59:07+00:00"
-  },
-  {
-   "t": "Technische Panne legt Flugverkehr in Italien teilweise lahm",
-   "s": "Gestrichene Flüge und Verspätungen: Eine technische Störung hat den Flugverkehr in Italien beeinträchtigt. Inzwischen hat sich die Lage wieder normalisiert. Die Ursache ist noch unklar. Ein Hackerangriff oder Sabotage werden ausgeschlossen.",
-   "u": "https://www.tagesschau.de/ausland/europa/flugverkehr-italien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T14:55:02+00:00"
-  },
-  {
-   "t": "Streit über Wehrdienst für Ultraorthodoxe in Israel",
-   "s": "Die Frage der Wehrpflicht spaltet Israel. Sollen junge ultraorthodoxe Männer in der Armee dienen oder weiter die heiligen Schriften studieren? Forderungen nach Wehrgerechtigkeit treffen auf massiven Widerstand - gerade vor der Wahl. Von Julio Segador.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wehrpflicht-ultraorthodox-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T12:59:58+00:00"
-  },
-  {
-   "t": "Zweifel an Qualifikation: Trumps Sprecherin bei Prüfung durchgefallen",
-   "s": "Nur wenige Tage nach ihrem Start als neue Sprecherin des Weißen Hauses macht Katie Zacharia bereits selbst Schlagzeilen. Ist sie nun Anwältin oder nicht? Auch wirre Sätze und Versprecher sorgen für Irritationen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-sprecherin-zacharia-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T11:12:24+00:00"
-  },
-  {
-   "t": "Giftige Rauchwolken durch Waldbrände in Indonesien treffen auch Nachbarländer",
-   "s": "Eine besonders schwere Brandsaison macht Indonesien zu schaffen. Die dortigen Torfbrände sind nur schwer zu bekämpfen und der giftige Rauch belastet auch die Nachbarländer. In einem Nationalpark auf Java gab es vier Tote.",
-   "u": "https://www.tagesschau.de/ausland/asien/indonesien-malaysia-waldbraende-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T10:20:08+00:00"
   }
  ]
 }

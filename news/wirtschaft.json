@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-18T13:18:46+00:00",
+ "updated": "2026-10-18T18:06:48+00:00",
  "items": [
+  {
+   "t": "Fake-Sneaker sind ein riesiges Geschäft - doch Käufer gehen in Risiko",
+   "s": "Sneaker-Kultmodelle können vierstellige Summen kosten. Viele Menschen greifen daher zu deutlich günstigeren Kopien. Doch das kann gefährlich werden. Von G. Marković-Schomburg, I. Mäueler und L.-M. Hiltscher.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/sneaker-kultmodelle-investment-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T14:46:25+00:00"
+  },
   {
    "t": "Doppelsystem Deutschland: Gesetzliche und Private Krankenkasse",
    "s": "Das deutsche Krankenversicherungssystem ist speziell. Während in vielen Ländern die private Versicherung eine Ergänzung ist, ist sie hierzulande für Millionen Menschen das Hauptsystem. Von L.-M. Hiltscher.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/digitaler-stress-koerperliche-arbeit-100.html",
    "q": "Tagesschau",
    "d": "2026-10-15T09:47:14+00:00"
-  },
-  {
-   "t": "Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?",
-   "s": "Ab heute gilt das bundesweite Alkoholverbot an den Bahnhöfen der Deutschen Bahn. Der Konzern hofft, dass es damit zu weniger Konflikten kommt. In fast 40 Bahnhöfen wurde der Schritt bereits getestet. Von Jens Eberl.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T07:11:08+00:00"
   }
  ]
 }

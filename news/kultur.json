@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-18T13:18:49+00:00",
+ "updated": "2026-10-18T18:06:51+00:00",
  "items": [
+  {
+   "t": "Rechter Kulturkampf in Kolumbien: Nur noch leere, graue, frisch gestrichene Wände",
+   "s": "Kolumbiens Rechtsaußen-Präsident lässt diverse Ausstellungsstücke aus dem Nationalmuseum in Bogotá entfernen. Unbequeme Geschichte wird gelöscht.",
+   "u": "https://taz.de/Rechter-Kulturkampf-in-Kolumbien/!6222343/",
+   "q": "taz",
+   "d": "2026-10-18T12:59:00+00:00"
+  },
   {
    "t": "Volksentscheid Proposition 40 in den USA: Big Beautiful Billions",
    "s": "Trumps Sparmaßnahmen wirken sich auf Kaliforniens Gesundheitssektor aus. Ein Volksentscheid will das Geld wieder einbringen und Milliardäre besteuern.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Hinrichtung-in-den-USA/!6220226/",
    "q": "taz",
    "d": "2026-10-09T06:07:00+00:00"
-  },
-  {
-   "t": "Gewaltgeschichte einer linken Stadt: Unter dem Pflaster die Sklaverei",
-   "s": "Kaum jemand weiß, dass New York City einst ein Zentrum des Sklaven­handels war. Nun fordern Schwarze und Indigene Menschen Entschädigung.",
-   "u": "https://taz.de/Gewaltgeschichte-einer-linken-Stadt/!6214484/",
-   "q": "taz",
-   "d": "2026-10-08T07:04:00+00:00"
   }
  ]
 }

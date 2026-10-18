@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-18T13:18:48+00:00",
+ "updated": "2026-10-18T18:06:50+00:00",
  "items": [
+  {
+   "t": "Gereizte Stimmung in der Ukraine: Wut in Kyjiw: Trump liefert uns an Putin aus",
+   "s": "Die Nähe der Präsidenten der USA und Russlands sorgt für Protest in der ukrainischen Hauptstadt. Auch der Bürgermeister ist Zielscheibe.",
+   "u": "https://taz.de/Gereizte-Stimmung-in-der-Ukraine/!6222346/",
+   "q": "taz",
+   "d": "2026-10-18T15:48:00+00:00"
+  },
+  {
+   "t": "Neuwahlen in Spanien: Linkes Wahlbündnis ohne Podemos",
+   "s": "Spaniens großes Linksbündnis Frente Amplio muss bei den Wahlen Ende November ohne die Partei Podemos auskommen. Das hebt die Chancen der Ultrarechten.",
+   "u": "https://taz.de/Neuwahlen-in-Spanien/!6222349/",
+   "q": "taz",
+   "d": "2026-10-18T13:35:00+00:00"
+  },
   {
    "t": "Proteste gegen Lebenshaltungskosten: Wenn alles zu teuer wird",
    "s": "Nicht nur in Frankreich gibt es Proteste, auch in Belgien, Portugal, Italien und Albanien gehen die Menschen auf die Straße. Ein Überblick der Geschehnisse.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Nachrichten-im-Ukrainekrieg/!6221815/",
    "q": "taz",
    "d": "2026-10-15T07:59:00+00:00"
-  },
-  {
-   "t": "Russische Angriffe im Schwarzen Meer: „Das ist eine echte Gefahr für die Schifffahrt“",
-   "s": "Vor den Küsten Bulgariens und Rumäniens sind mehrere Frachtschiffe von Drohnen angegriffen worden. Ex­per­t:in­nen gehen davon aus, dass Russland dahintersteckt.",
-   "u": "https://taz.de/Russische-Angriffe-im-Schwarzen-Meer/!6221713/",
-   "q": "taz",
-   "d": "2026-10-14T14:40:00+00:00"
-  },
-  {
-   "t": "Kyjiw rüstet sich für Winter: Vitali Klitschko muss sich gegen Vorwürfe wehren",
-   "s": "Kyjiws Bürgermeister Klitschko kritisiert die ukrainische Regierung scharf. Nun steht er selbst unter Druck – wegen mangelnder Vorbereitungen auf den Winter.",
-   "u": "https://taz.de/Kyjiw-ruestet-sich-fuer-Winter/!6221490/",
-   "q": "taz",
-   "d": "2026-10-14T14:02:00+00:00"
   }
  ]
 }

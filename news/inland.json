@@ -1,7 +1,91 @@
 {
  "name": "Inland",
- "updated": "2026-10-18T13:18:45+00:00",
+ "updated": "2026-10-18T18:06:46+00:00",
  "items": [
+  {
+   "t": "Protestwelle in Frankreich: Eine Uni im Ausnahmezustand",
+   "s": "Die Schülerproteste in Frankreich werden auch an den Universitäten ausgetragen. Ein Bericht von der Sciences Po in Paris.",
+   "u": "https://taz.de/Protestwelle-in-Frankreich/!6222400/",
+   "q": "taz",
+   "d": "2026-10-18T18:01:00+00:00"
+  },
+  {
+   "t": "Demokratieprojekte in Sachsen-Anhalt: Was kostet die Demokratie?",
+   "s": "Eine mögliche AfD-Landesregierung in Sachsen-Anhalt könnte vor allem ein Ziel haben: Demokratieprojekte beenden. Die sollen nun eilig gerettet werden.",
+   "u": "https://taz.de/Demokratieprojekte-in-Sachsen-Anhalt/!6222319/",
+   "q": "taz",
+   "d": "2026-10-18T17:59:00+00:00"
+  },
+  {
+   "t": "\"Deutschlandtag\" der Jungen Union: Der große Knall bleibt aus",
+   "s": "Die Junge Union ist in der Partei längst ein Machtfaktor. Entsprechend selbstbewusst präsentierte sich der Nachwuchs beim \"Deutschlandtag\" - und Kanzler Merz zeigte sich zugewandt. Harmonie war trotzdem nicht zu spüren. Von K. Palzer.",
+   "u": "https://www.tagesschau.de/inland/junge-union-deutschlandtag-analyse-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T16:48:09+00:00"
+  },
+  {
+   "t": "Zurück zum Bargeld – Schweden denkt um",
+   "s": "Bar bezahlen ist in Schweden die absolute Ausnahme. Doch ein neues Gesetz verpflichtet Supermärkte und Apotheken, wieder Bargeld anzunehmen. Zudem sollen die Schweden für den Notfall ein paar Scheine bereithalten. Was steckt hinter dem Sinneswandel? (Erstsendung am 17.9.26)Schönfelder, Konstantin",
+   "u": "https://www.deutschlandfunk.de/zurueck-zum-bargeld-schweden-denkt-um-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-18T16:40:00+00:00"
+  },
+  {
+   "t": "Jugendproteste in Indien: Kakerlaken-Bewegungsgründer Abhijeet Dipke ist wieder frei",
+   "s": "Abhijeet Dipke legt sich für die Kakerlaken-Bewegung mit den Mächtigen an. Warum er aus den USA nach Indien zurückgekehrt ist und was ihm dort blüht.",
+   "u": "https://taz.de/Jugendproteste-in-Indien/!6222437/",
+   "q": "taz",
+   "d": "2026-10-18T16:05:00+00:00"
+  },
+  {
+   "t": "Die Linkspartei in Nordrhein-Westfalen: Den Landtag fest im Blick",
+   "s": "Nach 14 Jahren hat die Linke in NRW gute Chancen auf eine Rückkehr ins Parlament. Ihre Mitgliederzahl hat sie schon mal verdreifacht.",
+   "u": "https://taz.de/Die-Linkspartei-in-Nordrhein-Westfalen/!6222436/",
+   "q": "taz",
+   "d": "2026-10-18T15:55:00+00:00"
+  },
+  {
+   "t": "Bundeskongress der Grünen Jugend: Höflicher Applaus für die Mutterpartei",
+   "s": "Bei den Grünen und ihrem Jugendverband knallt es oft. Aber beim 60. Bundestreffen bleibt großer Streit aus. Das freut auch den Grünen-Chef Banaszak.",
+   "u": "https://taz.de/Bundeskongress-der-Gruenen-Jugend/!6222425/",
+   "q": "taz",
+   "d": "2026-10-18T15:54:00+00:00"
+  },
+  {
+   "t": "Gereizte Stimmung in der Ukraine: Wut in Kyjiw: Trump liefert uns an Putin aus",
+   "s": "Die Nähe der Präsidenten der USA und Russlands sorgt für Protest in der ukrainischen Hauptstadt. Auch der Bürgermeister ist Zielscheibe.",
+   "u": "https://taz.de/Gereizte-Stimmung-in-der-Ukraine/!6222346/",
+   "q": "taz",
+   "d": "2026-10-18T15:48:00+00:00"
+  },
+  {
+   "t": "Frankreich nach den Krawallen",
+   "s": "In Frankreich herrscht nach den landesweiten Ausschreitungen Ausnahmezustand. Vorausgegangen waren Demonstrationen für bessere Bildung und niedrigere Lebenshaltungskosten.",
+   "u": "https://www.deutschlandfunk.de/frankreich-proteste-ausschreitungen-krawalle-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-18T15:30:00+00:00"
+  },
+  {
+   "t": "Reaktionen auf Rot-Grün-Rot in Berlin: Als ob das Rote Rathaus brennt",
+   "s": "Die Union überschlägt sich vor Empörung über das drohende Linksbündnis und malt Schreckensszenarien an die Wand. Das ist auch ein Ablenkungsmanöver.",
+   "u": "https://taz.de/Reaktionen-auf-Rot-Gruen-Rot-in-Berlin/!6222477/",
+   "q": "taz",
+   "d": "2026-10-18T14:20:00+00:00"
+  },
+  {
+   "t": "Bundestreffen der Jungen Union: Die neue Macht der halb so Wilden",
+   "s": "Zwischen Kanzlercasting und wiederentdeckter Angst vor Links sucht die Junge Union nach der Zukunft ihrer „neuen“ Mitte. Rot-Grün-Rot in Berlin soll geächtet werden.",
+   "u": "https://taz.de/Bundestreffen-der-Jungen-Union/!6222416/",
+   "q": "taz",
+   "d": "2026-10-18T13:49:00+00:00"
+  },
+  {
+   "t": "Neuwahlen in Spanien: Linkes Wahlbündnis ohne Podemos",
+   "s": "Spaniens großes Linksbündnis Frente Amplio muss bei den Wahlen Ende November ohne die Partei Podemos auskommen. Das hebt die Chancen der Ultrarechten.",
+   "u": "https://taz.de/Neuwahlen-in-Spanien/!6222349/",
+   "q": "taz",
+   "d": "2026-10-18T13:35:00+00:00"
+  },
   {
    "t": "Zum Tod von Cheikh Hamidou Kane: Afrikas koloniales Trauma",
    "s": "Mit 98 Jahren ist der Schriftsteller Cheikh Hamidou Kane in Senegal gestorben. Ein einziges Buch, „L’Aventure ambiguë“, genügte für seinen Weltruhm.",
@@ -52,8 +136,8 @@
    "d": "2026-10-18T11:09:00+00:00"
   },
   {
-   "t": "Gregor Gysi über die Berliner Linke: „Dann können wir echt einpacken“",
-   "s": "Gregor Gysi fordert von der Berliner Linken Regierungswillen und Disziplin. Über die Wohnungsfrage, demokratischen Sozialismus und rote Linien.",
+   "t": "Gregor Gysi zur Linken Berlin: „Wir brauchen rote Linien“",
+   "s": "Gregor Gysi findet, eine linke Regierung in der Hauptstadt muss kommen. Ein Gespräch über Vergesellschaftung, Sozialismus und Parteiausschlüsse.",
    "u": "https://taz.de/Gregor-Gysi-ueber-die-Berliner-Linke/!6222312/",
    "q": "taz",
    "d": "2026-10-18T10:40:00+00:00"
@@ -85,90 +169,6 @@
    "u": "https://www.deutschlandfunk.de/interview-beck-volker-praesident-der-deutsch-israelischen-gesellschaft-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-18T09:05:00+00:00"
-  },
-  {
-   "t": "Tödliche Angriffe in polnischen Schulen: Mit Messern morden",
-   "s": "Die Angst vor Messerangriffen an Schulen lähmt Polens Jugend. Nach drei aktuellen Fällen hat die Polizei schon über hundert junge Leute festgenommen.",
-   "u": "https://taz.de/Toedliche-Angriffe-in-polnischen-Schulen/!6221338/",
-   "q": "taz",
-   "d": "2026-10-18T08:31:00+00:00"
-  },
-  {
-   "t": "Militärische Bedrohungen in Nato-Ländern: Luftalarm in Litauen",
-   "s": "Einwohner Litauens wurden in der Nacht in Schutzräume gerufen. Auch Lettland gab eine Warnung heraus. Rumänien schoss derweil zwei Drohnen ab.",
-   "u": "https://taz.de/Menschen-sollen-sich-in-Schutzraeume-begeben-Luftalarm-in-Litauen/!6222320/",
-   "q": "taz",
-   "d": "2026-10-18T08:08:00+00:00"
-  },
-  {
-   "t": "US-Pressesprecherin: Trumps Sprecherin Zacharia gibt Posten auf",
-   "s": "Pressesprecherin Katie Zacharia war kaum eine Woche im Amt. Nach einigen Kontroversen muss sie nun das Weiße Haus wieder verlassen.",
-   "u": "https://taz.de/US-Pressesprecherin/!6222329/",
-   "q": "taz",
-   "d": "2026-10-18T08:02:00+00:00"
-  },
-  {
-   "t": "Siedlergewalt im Westjordanland: Siedler greifen Journalisten und Diplomaten an",
-   "s": "Eine US-Fotojournalistin und eine europäische Diplomatendelegation werden im Westjordanland von Siedlern attackiert. Israels Regierung wiegelt ab.",
-   "u": "https://taz.de/Siedlergewalt-im-Westjordanland/!6222316/",
-   "q": "taz",
-   "d": "2026-10-18T07:56:00+00:00"
-  },
-  {
-   "t": "US-Präsident setzt Sanktionen aus: Überparteiliche Kritik an Trumps Umgang mit der Ukraine",
-   "s": "Die Entscheidung Donald Trumps, wichtige Sanktionen gegen Russland kurz vor ihrem In-Kraft-Treten auszusetzen, stößt im Kongress auf Widerspruch.",
-   "u": "https://taz.de/US-Praesident-setzt-Sanktionen-aus/!6222318/",
-   "q": "taz",
-   "d": "2026-10-18T07:47:00+00:00"
-  },
-  {
-   "t": "Bundespolizist über Frontex: „Niemand rechnet mit Konsequenzen“",
-   "s": "Die EU schottet sich immer weiter vor Flüchtenden ab, und Deutschland macht mit. Was das bedeutet, hat Jonas Müller im Einsatz bei Frontex erlebt.",
-   "u": "https://taz.de/Bundespolizist-ueber-Frontex/!6218154/",
-   "q": "taz",
-   "d": "2026-10-18T07:29:00+00:00"
-  },
-  {
-   "t": "EU-Asylpolitik: Von Litauen lernen",
-   "s": "Die EU will das durch einen sogenannten „Krisenmechanismus“ das Asylrecht aussetzen dürfen – nach baltischem Vorbild. Wird so das Grundrecht auf Asyl abgeräumt?",
-   "u": "https://taz.de/EU-Asylpolitik/!6221230/",
-   "q": "taz",
-   "d": "2026-10-18T07:28:00+00:00"
-  },
-  {
-   "t": "Geplante Zuckersteuer - Alles nur Abzocke?",
-   "s": "Nach britischem Vorbild soll ab 2027 auch in Deutschland eine Zuckersteuer erhoben werden. Geht es dabei wirklich um die Gesundheit der Gesellschaft? Oder darum, Haushaltslücken zu stopfen? Ernährungsökonomin Professorin Monika Hartmann ordnet ein.Fecke, Britta",
-   "u": "https://www.deutschlandfunk.de/zuckersteuer-wie-viel-macht-hat-die-industrie-monika-hartmann-agraroekonomin-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-18T05:13:00+00:00"
-  },
-  {
-   "t": "Frankreich - Landesweiter Protesttag endet in Chaos und Gewalt",
-   "s": "Hunderttausende Menschen demonstrierten am Samstag in Frankreich gegen gestiegene Lebenshaltungskosten und für bessere Bildung. In mehreren Städten schlug der Protest in Gewalt um: Straßen wurden verwüstet, Geschäfte geplündert, Gebäude angezündet.Dylla, Carolin",
-   "u": "https://www.deutschlandfunk.de/landesweit-ausschreitungen-bei-protesten-in-frankreich-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-18T05:07:13+00:00"
-  },
-  {
-   "t": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
-   "s": "Vier Wochen nach der Wahl zum Berliner Abgeordnetenhaus haben Linke, Grüne und SPD ihre Sondierungsgespräche erfolgreich abgeschlossen. Sofern die Parteigremien zustimmen, können Koalitionsverhandlungen beginnen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T19:15:16+00:00"
-  },
-  {
-   "t": "Queerfeindlichkeit unter Jugendlichen: An der Toleranzgrenze",
-   "s": "Ausgerechnet in den Niederlanden sinkt die Akzeptanz von Homosexualität unter Jugendlichen drastisch. Was kann man tun? Zu Besuch an einer Schule.",
-   "u": "https://taz.de/Queerfeindlichkeit-unter-Jugendlichen/!6218182/",
-   "q": "taz",
-   "d": "2026-10-17T18:14:00+00:00"
-  },
-  {
-   "t": "AfD-Jugend in Neumünster: Mit Rechtsrock und Rückendeckung",
-   "s": "Die AfD-Jugend zieht mit Neonazis durch Neumünster. Ein Funktionär mit SS-Spruch bekommt neue Posten. Der Gegenprotest ist deutlich größer.",
-   "u": "https://taz.de/AfD-Jugend-in-Neumuenster/!6222310/",
-   "q": "taz",
-   "d": "2026-10-17T18:12:00+00:00"
   }
  ]
 }
