@@ -1,7 +1,14 @@
 {
  "name": "Inland",
- "updated": "2026-10-18T18:06:46+00:00",
+ "updated": "2026-10-18T23:13:51+00:00",
  "items": [
+  {
+   "t": "Bericht aus Berlin: Heil äußert Zweifel an Rot-Grün-Rot in Berlin",
+   "s": "Kann Rot-Grün-Rot in Berlin funktionieren? Der SPD-Politiker Heil und weitere SPD-Bundestagsabgeordnete sind skeptisch. Grünen-Chefin Brantner nennt im Bericht aus Berlin Kriterien, die für eine stabile Regierung erfüllt sein müssten.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bab-heil-brantner-koalition-berlin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T18:32:34+00:00"
+  },
   {
    "t": "Protestwelle in Frankreich: Eine Uni im Ausnahmezustand",
    "s": "Die Schülerproteste in Frankreich werden auch an den Universitäten ausgetragen. Ein Bericht von der Sciences Po in Paris.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Volksentscheid-Proposition-40-in-den-USA/!6218208/",
    "q": "taz",
    "d": "2026-10-18T09:26:00+00:00"
-  },
-  {
-   "t": "Volker Beck warnt vor Regierung unter Führung der Linken in Berlin",
-   "s": "Volker Beck, Präsident der Deutsch-Israelischen Gesellschaft, hält den Antizionismus bei einem Teil der Mitglieder und Wähler der Linken in Berlin für \"identitätsbildend\". Diese Weltanschauung sei brandgefährlich für das gesellschaftliche Klima.Engelbrecht, Sebastian",
-   "u": "https://www.deutschlandfunk.de/interview-beck-volker-praesident-der-deutsch-israelischen-gesellschaft-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-18T09:05:00+00:00"
   }
  ]
 }

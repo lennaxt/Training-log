@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-18T18:06:50+00:00",
+ "updated": "2026-10-18T23:13:56+00:00",
  "items": [
+  {
+   "t": "Protestwelle in Frankreich: Eine Uni im Ausnahmezustand",
+   "s": "Die Schülerproteste in Frankreich werden auch an den Universitäten ausgetragen. Ein Bericht von der Sciences Po in Paris.",
+   "u": "https://taz.de/Protestwelle-in-Frankreich/!6222400/",
+   "q": "taz",
+   "d": "2026-10-18T18:01:00+00:00"
+  },
   {
    "t": "Gereizte Stimmung in der Ukraine: Wut in Kyjiw: Trump liefert uns an Putin aus",
    "s": "Die Nähe der Präsidenten der USA und Russlands sorgt für Protest in der ukrainischen Hauptstadt. Auch der Bürgermeister ist Zielscheibe.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Trump-und-Musk-versus-Selenskyj/!6221939/",
    "q": "taz",
    "d": "2026-10-15T15:09:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Kein Waffenstillstand zwischen Ukraine und Russland",
-   "s": "Präsident Wolodymyr Selenskyj kündigt die Wiederaufnahme von Angriffen auf russische Raffinerien an. Kyjiw meldet bessere Starlink-Verbindungen nach Selenskyjs Appell an Elon Musk.",
-   "u": "https://taz.de/Nachrichten-im-Ukrainekrieg/!6221815/",
-   "q": "taz",
-   "d": "2026-10-15T07:59:00+00:00"
   }
  ]
 }

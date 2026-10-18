@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-10-18T18:06:47+00:00",
+ "updated": "2026-10-18T23:13:52+00:00",
  "items": [
+  {
+   "t": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
+   "s": "Die Ukraine klagte zuletzt über fehlende US-Geheimdienstinformationen zu russischen Angriffen. Inzwischen liefern die USA diese laut dem ukrainischen Präsidenten wieder. Doch angesichts des jüngsten US-Kurses zeigt er sich tief besorgt.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T22:23:09+00:00"
+  },
+  {
+   "t": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
+   "s": "Die heftigen Ausschreitungen haben Frankreich erschüttert. Und auch am Sonntag gab es wieder Zusammenstöße. In einer Ansprache kündigte Präsident Macron an, durchzugreifen - notfalls mit einem Verbot der Demonstrationen.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T19:46:21+00:00"
+  },
+  {
+   "t": "US-Midterms: Können die Republikaner wieder bei Latinos punkten?",
+   "s": "Fast die Hälfte der Latinos in den USA wählte 2024 Donald Trump - und trug damit maßgeblich zu seinem Erfolg bei. Viele setzten große Hoffnungen in ihn. Wie ist die Stimmung unter Latinos kurz vor den Zwischenwahlen? Von N. Barth.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T19:00:53+00:00"
+  },
+  {
+   "t": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
+   "s": "Am Tag nach der massiven Gewalt bei Protesten in Frankreich wird das Ausmaß der Zerstörung sichtbar. Die Regierung macht Linksradikale für die Krawalle verantwortlich. Präsident Macron spricht von \"ungezügelter Gewalt\".",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T18:45:27+00:00"
+  },
   {
    "t": "Drohne in Litauens Luftraum eingedrungen und abgestürzt",
    "s": "NATO-Kampfjets stiegen auf, Bürger wurden gewarnt: In Litauen hat eine Drohne für Alarm gesorgt, weil sie in den Luftraum eindrang. Kiew entschuldigte sich kurz darauf - und vermutet eine Störaktion Russlands dahinter.",
@@ -22,13 +50,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html",
    "q": "Tagesschau",
    "d": "2026-10-18T14:27:58+00:00"
-  },
-  {
-   "t": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
-   "s": "Am Tag nach der massiven Gewalt bei Protesten in Frankreich wird das Ausmaß der Zerstörung sichtbar. Die Regierung macht Linksradikale für die Krawalle verantwortlich. Präsident Macron will sich am Abend an die Nation wenden.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-18T13:56:51+00:00"
   },
   {
    "t": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskalieren",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html",
    "q": "Tagesschau",
    "d": "2026-10-16T19:42:41+00:00"
-  },
-  {
-   "t": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
-   "s": "Die Gräben zwischen den USA und der Ukraine scheinen immer größer zu werden. Selenskyj wendet sich mit einer Grundsatzfrage an die EU-Staaten - die haben militärische, finanzielle und politische Probleme. Von S. Stuchlik.",
-   "u": "https://www.tagesschau.de/ausland/europa/selenskyj-eu-gipfel-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T18:07:15+00:00"
-  },
-  {
-   "t": "Papst bittet Putin um Waffenruhe in Oleschky",
-   "s": "Leo XIV. ist besorgt über die Lage in der abgeriegelten ukrainischen Frontstadt Oleschky. In einem Telefonat mit Putin ruft er den Kremlchef zu einem Waffenstillstand in der Region auf - kurz nach seiner Lungen-OP.",
-   "u": "https://www.tagesschau.de/ausland/europa/papst-telefonat-putin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T17:25:17+00:00"
-  },
-  {
-   "t": "EU-Regeln: Berlin und Paris wollen Verbrenner-Aus aufweichen",
-   "s": "Deutschland und Frankreich haben sich auf eine Position zum Verbrenner-Aus in der EU verständigt. Kanzler Merz und Umweltminister Schneider zeigen sich sehr zufrieden. Oder ist es ein historischer Fehler? Von Jakob Mayr.",
-   "u": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-paris-berlin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T16:59:07+00:00"
   }
  ]
 }
