@@ -1,10 +1,24 @@
 {
  "name": "Ausland",
- "updated": "2026-10-17T23:08:23+00:00",
+ "updated": "2026-10-18T08:03:08+00:00",
  "items": [
   {
+   "t": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskaliert",
+   "s": "Es war ein beispielloser Protesttag in Frankreich: In mehreren Städten gab es massive Ausschreitungen. 1.200 Menschen wurden festgenommen. Vermummte plünderten Geschäfte und setzten Gebäude in Brand - darunter das historische Rathaus in Limoges.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T07:31:06+00:00"
+  },
+  {
+   "t": "COP17 zur Biodiversität: Den Holzdieben in Armenien auf der Spur",
+   "s": "Ab Montag beraten Vertreter von fast 200 Ländern auf der 17. UN-Konferenz zur biologischen Vielfalt, wie sich ihre selbst gesteckten Ziele noch erreichen lassen. Unterwegs mit Umweltschützern im Gastland Armenien. Von Norbert Hahn.",
+   "u": "https://www.tagesschau.de/ausland/asien/un-biodiversitaetskonferenz-armenien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T06:48:59+00:00"
+  },
+  {
    "t": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
-   "s": "Angriffe auf Polizisten, Plünderungen und Brandstiftungen: Bei Massenprotesten gegen hohe Lebenshaltungskosten hat es in Frankreich schwere Ausschreitungen gegeben. In Limoges setzten Randalierer das historische Rathaus in Brand.",
+   "s": "Angriffe auf Polizisten, Plünderungen und Brandstiftungen: In Frankreich hat es bei landesweiten Protesten schwere Ausschreitungen gegeben. In Limoges setzten Randalierer das historische Rathaus in Brand. 1.200 Menschen wurden festgenommen.",
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
    "q": "Tagesschau",
    "d": "2026-10-17T22:31:39+00:00"
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/indonesien-malaysia-waldbraende-100.html",
    "q": "Tagesschau",
    "d": "2026-10-16T10:20:08+00:00"
-  },
-  {
-   "t": "EU-Spitzen stärken Selenskyj den Rücken",
-   "s": "Präsident Selenskyj ist zum EU-Gipfel nach Brüssel gereist - und wird mit Zusicherungen begrüßt. Hilfen bleiben, Sanktionen sind in Arbeit, die EU-Beitrittsverhandlungen kommen voran. Allerdings geht US-Präsident Trump weiter auf Konfrontation.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-gipfel-ukraine-selenskyj-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T09:57:13+00:00"
-  },
-  {
-   "t": "In New Yorks \"Little Haiti\" geht die Angst um",
-   "s": "Seit Trump ihnen den Schutzstatus entzogen hat, gehen viele Haitianer in den USA kaum noch aus dem Haus, verstecken sich - aus Angst vor Abschiebung. Wie wirkt sich das auf den Alltag in New Yorks Viertel \"Little Haiti\" aus? Von Arnd Henze.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-haitianer-angst-abschiebung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T07:04:17+00:00"
   }
  ]
 }
