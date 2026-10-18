@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-18T08:03:10+00:00",
+ "updated": "2026-10-18T13:18:46+00:00",
  "items": [
+  {
+   "t": "Doppelsystem Deutschland: Gesetzliche und Private Krankenkasse",
+   "s": "Das deutsche Krankenversicherungssystem ist speziell. Während in vielen Ländern die private Versicherung eine Ergänzung ist, ist sie hierzulande für Millionen Menschen das Hauptsystem. Von L.-M. Hiltscher.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/krankenversicherung-pkv-gkv-vergleich-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T11:18:25+00:00"
+  },
   {
    "t": "Deutsche Autozulieferer auf dem Balkan: \"Armutslöhne\" für serbische Arbeiter",
    "s": "Viele deutsche Autohersteller und -zulieferer produzieren in Serbien. Das schafft Arbeitsplätze in dem Land. Doch zunehmend klagen Beschäftigte in den Fabriken über enormen Druck durch Vorgesetzte und geringe Löhne.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html",
    "q": "Tagesschau",
    "d": "2026-10-15T07:11:08+00:00"
-  },
-  {
-   "t": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
-   "s": "Der Internationale Währungsfonds fordert Industrieländer auf, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Steigende Zinsen und hohe Ausgaben schränkten den finanziellen Spielraum der Staaten zunehmend ein.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-14T14:31:12+00:00"
   }
  ]
 }

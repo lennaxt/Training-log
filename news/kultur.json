@@ -1,7 +1,28 @@
 {
  "name": "Kultur",
- "updated": "2026-10-18T08:03:14+00:00",
+ "updated": "2026-10-18T13:18:49+00:00",
  "items": [
+  {
+   "t": "Volksentscheid Proposition 40 in den USA: Big Beautiful Billions",
+   "s": "Trumps Sparmaßnahmen wirken sich auf Kaliforniens Gesundheitssektor aus. Ein Volksentscheid will das Geld wieder einbringen und Milliardäre besteuern.",
+   "u": "https://taz.de/Volksentscheid-Proposition-40-in-den-USA/!6218208/",
+   "q": "taz",
+   "d": "2026-10-18T09:26:00+00:00"
+  },
+  {
+   "t": "US-Pressesprecherin: Trumps Sprecherin Zacharia gibt Posten auf",
+   "s": "Pressesprecherin Katie Zacharia war kaum eine Woche im Amt. Nach einigen Kontroversen muss sie nun das Weiße Haus wieder verlassen.",
+   "u": "https://taz.de/US-Pressesprecherin/!6222329/",
+   "q": "taz",
+   "d": "2026-10-18T08:02:00+00:00"
+  },
+  {
+   "t": "US-Präsident setzt Sanktionen aus: Überparteiliche Kritik an Trumps Umgang mit der Ukraine",
+   "s": "Die Entscheidung Donald Trumps, wichtige Sanktionen gegen Russland kurz vor ihrem In-Kraft-Treten auszusetzen, stößt im Kongress auf Widerspruch.",
+   "u": "https://taz.de/US-Praesident-setzt-Sanktionen-aus/!6222318/",
+   "q": "taz",
+   "d": "2026-10-18T07:47:00+00:00"
+  },
   {
    "t": "USA und Russland: Trump setzt geplante Sanktionen aus",
    "s": "Wegen der Energieknappheit in den Staaten, hat Donald Trump Sanktionen gegen Russland ausgesetzt. In der Ukraine sterben derweil Menschen in Russlands Krieg.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Gewaltgeschichte-einer-linken-Stadt/!6214484/",
    "q": "taz",
    "d": "2026-10-08T07:04:00+00:00"
-  },
-  {
-   "t": "Nach gescheiterter Hinrichtung: Pike soll wieder bei Bewusstsein sein",
-   "s": "Nach einem gescheiterten Hinrichtungsversuch in Tennessee war Christa Pike zunächst bewusstlos. Nun ist sie laut ihren Anwälten wieder ansprechbar. Wie es nun weitergeht.",
-   "u": "https://taz.de/Nach-gescheiterter-Hinrichtung/!6219561/",
-   "q": "taz",
-   "d": "2026-10-07T06:05:00+00:00"
-  },
-  {
-   "t": "Todesstrafe im US-Militär: Trump genehmigt erste Militärhinrichtung seit über 60 Jahren",
-   "s": "Erstmals seit 1961 könnte es in den USA eine Militärexekution geben: die Erschießung des Fort-Hood-Attentäters, der 2009 auf dem Stützpunkt 13 Menschen tötete.",
-   "u": "https://taz.de/Todesstrafe-im-US-Militaer/!6219275/",
-   "q": "taz",
-   "d": "2026-10-06T08:08:00+00:00"
-  },
-  {
-   "t": "Erster Gang der Präsidentschaftswahl: Brasilien drohen dunkle Jahre",
-   "s": "Bei der Präsidentschaftswahl in Brasilien war der Etappensieg von Bolsonaro Junior auch ein Votum gegen Amtsinhaber Lula. Ihm bleiben drei Wochen, um die Katastrophe abzuwenden.",
-   "u": "https://taz.de/Erster-Gang-der-Praesidentschaftswahl/!6218879/",
-   "q": "taz",
-   "d": "2026-10-05T13:59:00+00:00"
   }
  ]
 }

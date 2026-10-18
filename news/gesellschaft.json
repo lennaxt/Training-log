@@ -1,7 +1,35 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-18T08:03:13+00:00",
+ "updated": "2026-10-18T13:18:48+00:00",
  "items": [
+  {
+   "t": "Proteste gegen Lebenshaltungskosten: Wenn alles zu teuer wird",
+   "s": "Nicht nur in Frankreich gibt es Proteste, auch in Belgien, Portugal, Italien und Albanien gehen die Menschen auf die Straße. Ein Überblick der Geschehnisse.",
+   "u": "https://taz.de/Wenn-alles-zu-teuer-wird-In-Europa-eskaliert-es/!6222347/",
+   "q": "taz",
+   "d": "2026-10-18T11:30:00+00:00"
+  },
+  {
+   "t": "Nach der Krawallnacht in Frankreich: Die Ursachen des Volkszorns",
+   "s": "Die Wut auf steigende Preise befeuert die Proteste. Doch nach der Gewalt und den Zerstörungen in der Nacht zu Sonntag rückt das in den Hintergrund.",
+   "u": "https://taz.de/Nach-der-Krawallnacht-in-Frankreich/!6222419/",
+   "q": "taz",
+   "d": "2026-10-18T11:09:00+00:00"
+  },
+  {
+   "t": "Tödliche Angriffe in polnischen Schulen: Mit Messern morden",
+   "s": "Die Angst vor Messerangriffen an Schulen lähmt Polens Jugend. Nach drei aktuellen Fällen hat die Polizei schon über hundert junge Leute festgenommen.",
+   "u": "https://taz.de/Toedliche-Angriffe-in-polnischen-Schulen/!6221338/",
+   "q": "taz",
+   "d": "2026-10-18T08:31:00+00:00"
+  },
+  {
+   "t": "Militärische Bedrohungen in Nato-Ländern: Luftalarm in Litauen",
+   "s": "Einwohner Litauens wurden in der Nacht in Schutzräume gerufen. Auch Lettland gab eine Warnung heraus. Rumänien schoss derweil zwei Drohnen ab.",
+   "u": "https://taz.de/Menschen-sollen-sich-in-Schutzraeume-begeben-Luftalarm-in-Litauen/!6222320/",
+   "q": "taz",
+   "d": "2026-10-18T08:08:00+00:00"
+  },
   {
    "t": "Bundespolizist über Frontex: „Niemand rechnet mit Konsequenzen“",
    "s": "Die EU schottet sich immer weiter vor Flüchtenden ab, und Deutschland macht mit. Was das bedeutet, hat Jonas Müller im Einsatz bei Frontex erlebt.",
@@ -24,8 +52,8 @@
    "d": "2026-10-17T18:14:00+00:00"
   },
   {
-   "t": "Krawalle statt Demos in Frankreich: „Mehr Mitgefühl für die Müllcontainer“",
-   "s": "Zehntausende beteiligten sich am Samstag an einem gemeinsamen Aktionstag von Schüler*innen, Studierenden, Gelbwesten und Gewerkschaften. In mehreren Städten gab es Krawalle und Plünderungen.",
+   "t": "Krawalle am Protesttag in Frankreich: Niedergebranntes Rathaus von Limoges wird zum Symbol",
+   "s": "Mehr als eine halbe Million Menschen beteiligten sich Samstag an landesweiten Protesten. US-Vize Vance macht Einwanderung für Randale verantwortlich.",
    "u": "https://taz.de/Krawalle-statt-Demos-in-Frankreich/!6222308/",
    "q": "taz",
    "d": "2026-10-17T16:00:00+00:00"
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Kyjiw-ruestet-sich-fuer-Winter/!6221490/",
    "q": "taz",
    "d": "2026-10-14T14:02:00+00:00"
-  },
-  {
-   "t": "Nach Starlink-Anschlag in Polen: Brand an Starlink-Antennen auch in Bulgarien",
-   "s": "Anlagen des Satellitendienstes Starlink sind wohl erneut zu Zielen von Saboteuren geworden. Bulgarien meldet jetzt ebenfalls einen Brand in einer Anlage.",
-   "u": "https://taz.de/Nach-Starlink-Anschlag-in-Polen/!6221692/",
-   "q": "taz",
-   "d": "2026-10-14T13:49:00+00:00"
-  },
-  {
-   "t": "Drohnen auf Rechenzentren: Angriffe auf IT-Riesen schaden Russland schwer",
-   "s": "Die Drohnenangriffe auf den Internetkonzern Yandex haben schwere Folgen für die russische Wirtschaft. Vieles im Alltag ist eingeschränkt.",
-   "u": "https://taz.de/Drohnen-auf-Rechenzentren/!6221510/",
-   "q": "taz",
-   "d": "2026-10-14T10:35:00+00:00"
-  },
-  {
-   "t": "Razzien gegen Queers in der Türkei: Finsternis am Bosporus",
-   "s": "Einst galt Istanbul als Kunstmetropole. Doch durch staatliche Repressionen unter Erdoğan kann gerade queere Kunst kaum mehr stattfinden.",
-   "u": "https://taz.de/Razzien-gegen-Queers-in-der-Tuerkei/!6221210/",
-   "q": "taz",
-   "d": "2026-10-14T08:58:00+00:00"
-  },
-  {
-   "t": "E-Scooter in Georgien: Roller für Tblissi, Daten für Moskau",
-   "s": "Der russische Technologiegigant Yandex betreibt in Georgien den Verleih von E-Scootern und andere Mobilitätsangebote. Putins Geheimdienst fährt mit.",
-   "u": "https://taz.de/E-Scooter-in-Georgien/!6212058/",
-   "q": "taz",
-   "d": "2026-10-14T08:14:00+00:00"
   }
  ]
 }
