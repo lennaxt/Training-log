@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-18T23:13:56+00:00",
+ "updated": "2026-10-19T08:54:48+00:00",
  "items": [
+  {
+   "t": "Verhandlungen über Kriegsende: Putin schlägt Trump und Xi Ukraine-Gipfel vor",
+   "s": "Moskau möchte mit Washington und Peking über das Ende des Ukraine-Kriegs zu seinen Gunsten verhandeln. Der US-Präsident könnte die Idee womöglich gutheißen.",
+   "u": "https://taz.de/Verhandlungen-ueber-Kriegsende/!6222550/",
+   "q": "taz",
+   "d": "2026-10-19T07:51:00+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Macron will notfalls Demonstrationen verbieten",
+   "s": "Nach Ausschreitungen: Frankreichs Präsident lehnt Rücktrittsangebot des Innenministers ab. Außerdem will er weitere Demonstrationen gegebenenfalls verbieten.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6222544/",
+   "q": "taz",
+   "d": "2026-10-19T05:45:00+00:00"
+  },
   {
    "t": "Protestwelle in Frankreich: Eine Uni im Ausnahmezustand",
    "s": "Die Schülerproteste in Frankreich werden auch an den Universitäten ausgetragen. Ein Bericht von der Sciences Po in Paris.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Russlands-Methoden-in-der-Ukraine/!6221940/",
    "q": "taz",
    "d": "2026-10-16T05:25:00+00:00"
-  },
-  {
-   "t": "Studentenproteste in Albanien: Pyrotechnik statt rosa Flamingos",
-   "s": "Was im Mai als friedlicher Protest gegen ein Luxusresort begann, legt jetzt Tiranas Innenstadt in Schutt und Asche: Die Jugend hat die Nase voll von Warten.",
-   "u": "https://taz.de/Studentenproteste-in-Albanien/!6221920/",
-   "q": "taz",
-   "d": "2026-10-15T17:43:00+00:00"
-  },
-  {
-   "t": "Trump und Musk versus Selenskyj: Wer solche Freunde hat",
-   "s": "In der Ukraine wird plötzlich das Satellitensystem Starlink von Elon Musk gedrosselt und Trump macht Deals mit Putin. Wie Präsident Selenskyj reagiert und was die EU vorhat.",
-   "u": "https://taz.de/Trump-und-Musk-versus-Selenskyj/!6221939/",
-   "q": "taz",
-   "d": "2026-10-15T15:09:00+00:00"
   }
  ]
 }

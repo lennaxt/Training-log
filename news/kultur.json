@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-18T23:13:57+00:00",
+ "updated": "2026-10-19T08:54:49+00:00",
  "items": [
+  {
+   "t": "TV-Duell in Brasiliens Wahlkampf: Falschmeldungen und Beleidigungen",
+   "s": "Beim ersten und einzigen TV-Duell zwischen Brasiliens Präsident Lula und Herausforderer Flavio Bolsonaro kommt eine Diskussion kaum zustande.",
+   "u": "https://taz.de/TV-Duell-in-Brasiliens-Wahlkampf/!6222546/",
+   "q": "taz",
+   "d": "2026-10-19T07:41:00+00:00"
+  },
   {
    "t": "Rechter Kulturkampf in Kolumbien: Nur noch leere, graue, frisch gestrichene Wände",
    "s": "Kolumbiens Rechtsaußen-Präsident lässt diverse Ausstellungsstücke aus dem Nationalmuseum in Bogotá entfernen. Unbequeme Geschichte wird gelöscht.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Venezolanisches-Ehepaar-Maduro/!6220230/",
    "q": "taz",
    "d": "2026-10-09T06:30:00+00:00"
-  },
-  {
-   "t": "Hinrichtung in den USA: Erschießung per Livestream",
-   "s": "Die USA wollen eine Militärhinrichtung durchführen – öffentlich. Und das kurz nach der gescheiterten Exekution von Christa Pike, die weltweit Entsetzen auslöste.",
-   "u": "https://taz.de/Hinrichtung-in-den-USA/!6220226/",
-   "q": "taz",
-   "d": "2026-10-09T06:07:00+00:00"
   }
  ]
 }

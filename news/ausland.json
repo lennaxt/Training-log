@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-10-18T23:13:52+00:00",
+ "updated": "2026-10-19T08:54:44+00:00",
  "items": [
+  {
+   "t": "Flugzeug wegen Bombendrohung in Bulgarien notgelandet",
+   "s": "Auf dem Weg von Tel Aviv nach Wien ist ein Flugzeug von Austrian Airlines notgelandet. Zuvor hatte es offenbar eine Bombendrohung gegeben. Nachdem bei einer Durchsuchung der Maschine nichts gefunden wurde, konnte sie ihren Flug fortsetzen.",
+   "u": "https://www.tagesschau.de/ausland/europa/notlandung-bulgarien-bombendrohung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T06:34:49+00:00"
+  },
+  {
+   "t": "Sturmtief \"Adam\": Behörden warnen vor Unwetter auf Mallorca",
+   "s": "Mallorca bereitet sich auf schwere Regenfälle vor. Wegen des Sturmtiefs \"Adam\" herrscht Warnstufe Rot, die Schulen sind geschlossen, viele Flüge bereits ausgefallen. Auf dem spanischen Festland kam es bereits zu Überflutungen.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-mallorca-sturmwarnung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T05:31:49+00:00"
+  },
+  {
+   "t": "Alberta stimmt über mögliche Abspaltung von Kanada ab",
+   "s": "Seit einigen Jahren erstarkt in der ölreichen Provinz Alberta im Westen Kanadas eine Separatistenbewegung - unterstützt auch von US-Präsident Trump. Heute wird über ein mögliches Unabhängigkeitsreferendum abgestimmt. Von Martin Ganslmeier.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kanada-alberta-volksabstimmung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T04:55:25+00:00"
+  },
+  {
+   "t": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
+   "s": "Mit Schock und Unverständnis haben viele Menschen in Frankreich auf die Gewalt bei den Protesten reagiert. Die politischen Lager kämpfen um die Deutungshoheit - und machen sich gegenseitig für die Eskalation verantwortlich. Von C. Dylla.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T02:17:03+00:00"
+  },
   {
    "t": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
    "s": "Die Ukraine klagte zuletzt über fehlende US-Geheimdienstinformationen zu russischen Angriffen. Inzwischen liefern die USA diese laut dem ukrainischen Präsidenten wieder. Doch angesichts des jüngsten US-Kurses zeigt er sich tief besorgt.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/iran-minab-schule-angriff-100.html",
    "q": "Tagesschau",
    "d": "2026-10-17T01:43:26+00:00"
-  },
-  {
-   "t": "UK Green Party: Zerbrechen die britischen Grünen am Thema Israel?",
-   "s": "Eigentlich erlebten die Grünen in Großbritannien einen großen Aufschwung in diesem Jahr. Nun sorgt die Partei mit einem Beschluss zu Zionismus und Israel für Kontroversen - selbst in den eigenen Reihen. Von Franziska Hoppen.",
-   "u": "https://www.tagesschau.de/ausland/europa/grossbritannien-gruene-antizionismus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T01:40:59+00:00"
-  },
-  {
-   "t": "Amazonas in Brasilien: Abholzung auf tiefstem Stand seit 1988",
-   "s": "Die Abholzung im brasilianischen Amazonas ist auf den niedrigsten Stand seit Beginn der Aufzeichnungen 1988 gesunken. Die Regierung wertet den Rückgang als Erfolg der Schutzbemühungen von Präsident Lula, der gerade im Wahlkampf ist.",
-   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-tiefstand-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T00:05:19+00:00"
-  },
-  {
-   "t": "Gaza und die Toten unter den Trümmern - warten auf die Bergung",
-   "s": "Große Teile des Gazastreifens sind zerstört, Tausende Tote liegen unter den Trümmern. Um sie zu bergen, fehlt es an schwerem Gerät, Treibstoff und Möglichkeiten zur Identifizierung. Angehörige warten - manche seit Jahren. Von B. Meier.",
-   "u": "https://www.tagesschau.de/ausland/asien/gaza-tote-bergungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T22:22:52+00:00"
-  },
-  {
-   "t": "Trumps neue Sprecherin räumt ihren Posten nach wenigen Tagen im Amt",
-   "s": "Die gerade erst angetretene neue Pressesprecherin von US-Präsident Donald Trump, Katie Zacharia, gibt ihr Amt schon wieder auf. Sie war wegen falscher Angaben zu ihrem Lebenslauf unter Druck geraten.",
-   "u": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T19:42:41+00:00"
   }
  ]
 }

@@ -1,7 +1,28 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-18T23:13:53+00:00",
+ "updated": "2026-10-19T08:54:45+00:00",
  "items": [
+  {
+   "t": "Marktbericht: DAX fällt unter 25.500 Punkten",
+   "s": "Zum Wochenauftakt belasten Meldungen aus China und den USA die Börsen. Sinkende Ölpreise und positive Daten reichen als Gegengewicht nicht aus. Dem DAX misslingt der Handelsauftakt.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T08:36:52+00:00"
+  },
+  {
+   "t": "IW-Studie: Fachkräftemangel bremst Infrastruktur-Projekte aus",
+   "s": "Der Bund will massiv in Brücken, Netze und Digitalisierung investieren. Doch laut einer Studie des Instituts der deutschen Wirtschaft fehlen schon jetzt die Fachkräfte, um die Projekte umzusetzen.",
+   "u": "https://www.tagesschau.de/wirtschaft/fachkraeftemaengel-infrastruktur-iw-studie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T08:07:38+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 19.10.2026",
+   "s": "Update Wirtschaft vom 19.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1668710.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T07:48:48+00:00"
+  },
   {
    "t": "Fake-Sneaker sind ein riesiges Geschäft - doch Käufer gehen in Risiko",
    "s": "Sneaker-Kultmodelle können vierstellige Summen kosten. Viele Menschen greifen daher zu deutlich günstigeren Kopien. Doch das kann gefährlich werden. Von G. Marković-Schomburg, I. Mäueler und L.-M. Hiltscher.",
@@ -10,25 +31,11 @@
    "d": "2026-10-18T14:46:25+00:00"
   },
   {
-   "t": "Doppelsystem Deutschland: Gesetzliche und Private Krankenkasse",
-   "s": "Das deutsche Krankenversicherungssystem ist speziell. Während in vielen Ländern die private Versicherung eine Ergänzung ist, ist sie hierzulande für Millionen Menschen das Hauptsystem. Von L.-M. Hiltscher.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/krankenversicherung-pkv-gkv-vergleich-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-18T11:18:25+00:00"
-  },
-  {
    "t": "Deutsche Autozulieferer auf dem Balkan: \"Armutslöhne\" für serbische Arbeiter",
    "s": "Viele deutsche Autohersteller und -zulieferer produzieren in Serbien. Das schafft Arbeitsplätze in dem Land. Doch zunehmend klagen Beschäftigte in den Fabriken über enormen Druck durch Vorgesetzte und geringe Löhne.",
    "u": "https://www.deutschlandfunk.de/autohersteller-autozulieferer-deutschland-serbien-niedrigloehne-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-18T07:32:00+00:00"
-  },
-  {
-   "t": "Paketversand und Retouren durch Onlinehandel auf Rekordniveau",
-   "s": "Immer mehr Menschen bestellen online. Auch die Zahl der Rücksendungen nimmt stetig zu. Ein lohnendes Geschäft für Kioskbesitzer, Paketunternehmen. Kritik kommt von Umweltschützern. Von Lucretia Gather.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/online-retouren-rekord-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T16:14:36+00:00"
   },
   {
    "t": "Steigende Preise für Benzin, Heizöl, Gas - wie teuer wird der Winter?",
@@ -45,20 +52,6 @@
    "d": "2026-10-16T18:20:58+00:00"
   },
   {
-   "t": "Eurowings streicht Flüge und prüft Kurzarbeit",
-   "s": "Der Kostendruck steigt: Eurowings streicht Flüge und prüft die Möglichkeit von Kurzarbeit für seine Mitarbeitenden. Als Grund nennt die Lufthansa-Tochter die gestiegenen Preise für Kerosin durch den Iran-Krieg.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T16:52:09+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX schüttelt KI- und Zinssorgen vorerst ab",
-   "s": "Die Stimmung an den Aktienmärkten hat sich zum Ende der Handelswoche spürbar aufgehellt. Ausschlaggebend war eine Rede von US-Notenbankchef Warsh. Dazu kamen Rückenwind aus der Autoindustrie und starke Firmenbilanzen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T16:22:56+00:00"
-  },
-  {
    "t": "Wie es mit der Commerzbank nun weitergeht",
    "s": "Nach der Zustimmung der EZB-Aufseher steht einer Mehrheitsübernahme der Commerzbank durch die italienische Großbank UniCredit fast nichts mehr im Weg. Was sind die nächsten Schritte - und die Folgen? Von Ursula Mayer.",
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-uebernahme-100.html",
@@ -71,13 +64,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html",
    "q": "Tagesschau",
    "d": "2026-10-16T13:13:40+00:00"
-  },
-  {
-   "t": "Noch mehr Eigentum westlicher Firmen unter Kreml-Kontrolle",
-   "s": "Unmittelbar vor Wolodymyr Selenskyjs Auftritt beim Europäischen Rat stellt Russland weitere europäische Unternehmen im Land unter staatliche Zwangsverwaltung - darunter einen deutschen Verpackungshersteller.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-vermoegen-deutscher-firmen-staatliche-kontrolle-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T12:38:24+00:00"
   },
   {
    "t": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
@@ -101,62 +87,6 @@
    "d": "2026-10-16T11:25:34+00:00"
   },
   {
-   "t": "Wohnimmobilien: Deutlich mehr Baugenehmigungen",
-   "s": "Lichtblick für den deutschen Wohnungsbau: Der Aufwärtstrend des ersten Halbjahres setzt sich auch im August fort. Doch höhere Energiepreise und Zinsen belasten viele Bauherren.",
-   "u": "https://www.tagesschau.de/wirtschaft/baugenehmigungen-steigen-wieder-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T09:29:27+00:00"
-  },
-  {
-   "t": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
-   "s": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag hat heute eine Maßnahme zur Alterssicherung beschlossen: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie bekommt.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/faq-fruehstartrente-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T08:16:46+00:00"
-  },
-  {
-   "t": "Bundestag beschließt Anhebung der Tabaksteuer",
-   "s": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T07:55:57+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 16.10.2026",
-   "s": "Update Wirtschaft vom 16.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1667144.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T07:50:22+00:00"
-  },
-  {
-   "t": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
-   "s": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich eine Einigung ab.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/verbrenner-aus-lockerung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T01:17:45+00:00"
-  },
-  {
-   "t": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
-   "s": "Wie sicher ist der Umgang mit KI-Chatbots wie ChatGPT? Acht Bundesstaaten in den USA sehen erhebliche Risiken und haben deshalb Klagen gegen den Entwickler OpenAI eingereicht.",
-   "u": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T19:20:05+00:00"
-  },
-  {
-   "t": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
-   "s": "Die EU solle nicht so viel Geld ausgeben, findet Bundeskanzler Merz. Einige Länder sehen das genauso. Andere können den Sparvorschlägen nichts abgewinnen. Trotz klarer Fronten bleibt der große Knall im Ringen um den Haushalt aus. Von S. Stuchlik.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T18:05:32+00:00"
-  },
-  {
-   "t": "EuGH-Urteil: Banken müssen bei Kontobetrug Geld erstatten",
-   "s": "Maschen, mit denen Betrüger Zugriff auf die Konten ihrer Opfer bekommen, werden immer besser. Der EuGH hat jetzt mit einem Urteil die Rechte betroffener Verbraucher gestärkt. Von Antonetta Stephany.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/eugh-konto-betrug-phishing-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T13:59:53+00:00"
-  },
-  {
    "t": "Doctolib und die KI – Was die Ärzteplattform über Patienten weiß",
    "s": "Der amerikanische Chip-Hersteller Nvidia steigt bei Doctolib ein. Damit will die Ärzteplattform auch ihre KI-Kompetenzen ausweiten. Welche Auswirkungen könnte das haben? Und: Wie sicher sind unsere Daten dort eigentlich?",
    "u": "https://www.deutschlandfunk.de/doctolib-nvidia-einstieg-datenschutz-kritik-100.html",
@@ -169,6 +99,76 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/digitaler-stress-koerperliche-arbeit-100.html",
    "q": "Tagesschau",
    "d": "2026-10-15T09:47:14+00:00"
+  },
+  {
+   "t": "Der Kampf ums Trinkwasser im brandenburgischen Baruth",
+   "s": "Die Unternehmen Red Bull und Rauch produzieren in Baruth Getränke und dürfen dabei 92 Prozent des Grundwassers, das der brandenburgischen Stadt zur Verfügung steht, entnehmen. Eine Bürgerinitiative wehrt sich und kämpft um Akteneinsicht.Von Andrea Rehmsmeier",
+   "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-14T16:40:00+00:00"
+  },
+  {
+   "t": "Kommentar zur Erbschaftssteuer: Mehr Gerechtigkeit wagen!",
+   "s": "Das Bundesverfassungsgericht beschäftigt sich mit der Erbschaftssteuer. Hierbei geht es um Fragen der Gerechtigkeit, mit denen sich eigentlich die Politik auseinandersetzen sollte. Die Koalition könnte dabei Handlungsfähigkeit zeigen.Ein Standpunkt von Gudula Geuther",
+   "u": "https://www.deutschlandfunk.de/erbschaftssteuer-gerechtigkeit-verfassungsgericht-firmenerben-koalition-kommentar-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-13T15:50:00+00:00"
+  },
+  {
+   "t": "Erbschaftssteuer vor Gericht - Von Firmenerben, Sparkonten und Aktiendepots",
+   "s": "In Deutschland werden nicht nur Geld und Immobilien vererbt, auch viele Firmen gehen auf die nächste Generation über. Dass ein vererbtes Unternehmen anders besteuert wird als etwa Aktien oder ein Sparkonto, beschäftigt nun wieder das Verfassungsgericht.",
+   "u": "https://www.deutschlandfunk.de/erbschaftsteuer-gerechtigkeit-unternehmen-verfassungsgericht-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-13T09:52:00+00:00"
+  },
+  {
+   "t": "Wasser wird wertvoller",
+   "s": "Deutschland hat im Winter zu viel Wasser – und im Sommer immer weniger. Das belastet Umwelt und Wirtschaft. Die Bundesregierung fordert einen “neuen Umgang” mit Wasser. Wer viel verbraucht, soll mehr zahlen.",
+   "u": "https://www.deutschlandfunk.de/wassermangel-deutschland-strategie-bundesregierung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-06T11:45:00+00:00"
+  },
+  {
+   "t": "CO2-Zertifikate: Wie glaubwürdig ist der freiwillige Klimamarkt?",
+   "s": "Unternehmen nutzen CO2-Zertifikate, um Emissionen auszugleichen. Doch bei vielen Projekten ist unklar, wie groß die Klimawirkung wirklich ist, wohin das Geld fließt und welche Folgen sie für Landrechte und Menschen vor Ort haben.",
+   "u": "https://www.deutschlandfunk.de/klimaschutz-co2-zertifikate-emissionen-kompensation-greenwashing-kritik-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-05T10:39:00+00:00"
+  },
+  {
+   "t": "Kommentar: Politische Kälte auf dem spanischen Wohnungsmarkt",
+   "s": "Das spanische Parlament hat geplante, recht milde Mieterschutzregeln abgelehnt. Das Nein offenbart politische Kälte gegenüber einem der größten Probleme des Landes. Für Ministerpräsident Pedro Sánchez wird das zur Bewährungsprobe.Von Hans-Günter Kellner",
+   "u": "https://www.deutschlandfunk.de/kommentar-spanien-proteste-mieten-wohnen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-05T08:29:00+00:00"
+  },
+  {
+   "t": "Gewerbesteueroasen - Standortwettbewerb auf Kosten von Kommunen",
+   "s": "Steueroasen gibt es nicht nur auf den Cayman Islands, sondern auch in Deutschland. Sie sind legal, führen aber auch zu Missbrauch durch Unternehmer. Leidtragende sind die Kommunen.",
+   "u": "https://www.deutschlandfunk.de/steueroasen-deutschland-gewerbesteuer-kommunen-unternehmen-hebesatz-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-27T15:20:00+00:00"
+  },
+  {
+   "t": "Vergesellschaftung - Soziale Wohnungspolitik mit Risiken",
+   "s": "Die Linke will in Berlin Wohnungsbestände von großen Konzernen vergesellschaften. Nach dem Grundgesetz ist das prinzipiell möglich. Welche Folgen hätte das für die Mieten? Und ist es auch ein Mittel gegen die Wohnungsnot?",
+   "u": "https://www.deutschlandfunk.de/vergesellschaftung-enteignung-wohnungen-berlin-linke-elif-eralp-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-27T14:18:00+00:00"
+  },
+  {
+   "t": "Spritpreisdeckel - Warnungen vor Risiken und Nebenwirkungen",
+   "s": "Die Bundesregierung will Autofahrer angesichts steigender Spritpreise gleich doppelt entlasten. Neben dem gerade beschlossenen Tankrabatt ist auch ein sogenannter Spritpreisdeckel in der Diskussion. Es wäre ein ungewöhnlicher Eingriff in den Markt.",
+   "u": "https://www.deutschlandfunk.de/tankrabatt-spritpreisbremse-entlastung-benzinpreis-auto-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-25T15:42:00+00:00"
+  },
+  {
+   "t": "Marktmacht - Kampf den Kartellen",
+   "s": "Ob hohe Preissprünge an der Zapfsäule oder die Marktmacht globaler Tech-Riesen: In Deutschland soll das Bundeskartellamt den Wettbewerb sichern. Doch der Kampf gegen die Branchenriesen ist schwierig und wird schon lange ausgefochten.",
+   "u": "https://www.deutschlandfunk.de/bundeskartellamt-kartellrecht-marktmacht-wettbewerb-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-09-24T14:56:00+00:00"
   }
  ]
 }

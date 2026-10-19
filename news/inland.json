@@ -1,7 +1,70 @@
 {
  "name": "Inland",
- "updated": "2026-10-18T23:13:51+00:00",
+ "updated": "2026-10-19T08:54:44+00:00",
  "items": [
+  {
+   "t": "Unabhängigkeitsreferendum in Alberta: Kanadische Provinz stimmt über mögliche Abspaltung ab",
+   "s": "Alberta ist ölreich und konservativ. Eine kleine Unabhängigkeitsbewegung gibt es schon länger, jetzt steht ein Referendum an. Die Umfragen scheinen eindeutig.",
+   "u": "https://taz.de/Kanadische-Provinz-Alberta-stimmt-ueber-moegliche-Abspaltung-ab-Das-sind-die-Gruende/!6222565/",
+   "q": "taz",
+   "d": "2026-10-19T08:52:00+00:00"
+  },
+  {
+   "t": "Kritik an Rot-Grün-Rot in Berlin: \"Ich habe noch erhebliche Zweifel\"",
+   "s": "Die rot-grün-roten Sondierungsgespräche in Berlin waren holprig, aber erfolgreich. Heute wollen Grüne und SPD über Koalitionsverhandlungen mit der Linken entscheiden. Doch Kritik und Zweifel sind laut, etwa bei SPD-Fraktionschef Miersch.",
+   "u": "https://www.tagesschau.de/inland/berlin-spd-linke-gruene-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T08:23:24+00:00"
+  },
+  {
+   "t": "Verhandlungen über Kriegsende: Putin schlägt Trump und Xi Ukraine-Gipfel vor",
+   "s": "Moskau möchte mit Washington und Peking über das Ende des Ukraine-Kriegs zu seinen Gunsten verhandeln. Der US-Präsident könnte die Idee womöglich gutheißen.",
+   "u": "https://taz.de/Verhandlungen-ueber-Kriegsende/!6222550/",
+   "q": "taz",
+   "d": "2026-10-19T07:51:00+00:00"
+  },
+  {
+   "t": "TV-Duell in Brasiliens Wahlkampf: Falschmeldungen und Beleidigungen",
+   "s": "Beim ersten und einzigen TV-Duell zwischen Brasiliens Präsident Lula und Herausforderer Flavio Bolsonaro kommt eine Diskussion kaum zustande.",
+   "u": "https://taz.de/TV-Duell-in-Brasiliens-Wahlkampf/!6222546/",
+   "q": "taz",
+   "d": "2026-10-19T07:41:00+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Macron will notfalls Demonstrationen verbieten",
+   "s": "Nach Ausschreitungen: Frankreichs Präsident lehnt Rücktrittsangebot des Innenministers ab. Außerdem will er weitere Demonstrationen gegebenenfalls verbieten.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6222544/",
+   "q": "taz",
+   "d": "2026-10-19T05:45:00+00:00"
+  },
+  {
+   "t": "Grünen-Fraktionschefin Dröge verteidigt Rot-Grün-Rot in Berlin",
+   "s": "Die Kritik an einem möglichen Regierungsbündnis unter Führung der Linkspartei in Berlin wächst. Katharina Dröge hält dagegen: Die Grünen müssten die Linke dazu bringen, ihr Antisemitismusproblem zu lösen. Sonst fehlten politische Optionen.Heinemann, Christoph",
+   "u": "https://www.deutschlandfunk.de/aenderungen-bei-verbrenner-aus-interview-gruenen-fraktionschefin-katharina-droege-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-19T05:15:00+00:00"
+  },
+  {
+   "t": "Welle der Gewalt in Frankreich: Macron droht und zeigt Verständnis",
+   "s": "Frankreichs Präsident Macron hat die gewalttätigen Proteste verurteilt und zugleich Verständnis für die Forderungen der Protestierenden geäußert. Verbesserungen an den Schulen werde es aber kaum geben, glaubt Jürgen Vogler, Lehrer in Paris.Heinemann, Christoph",
+   "u": "https://www.deutschlandfunk.de/eskalierende-proteste-in-frankreich-interv-mit-juergen-vogler-lehrer-in-paris-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-19T04:50:00+00:00"
+  },
+  {
+   "t": "11KM-Podcast: Deutsche Beamte zwischen Bashing und Reformen",
+   "s": "Knapp 57 Milliarden Euro hat Deutschland 2024 allein für die Pensionen von Beamten ausgegeben. Ist das noch bezahlbar? 11KM fragt, wo eine Reform des deutschen Beamtensystems ansetzen könnte.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-beamte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T04:26:52+00:00"
+  },
+  {
+   "t": "Wann kommt der Gesetzentwurf für die Rentenreform?",
+   "s": "Die Rentenreform soll kommen. Darüber sind sich in der schwarz-roten Koalition alle einig. Über die Details und den Zeitplan gehen die Meinungen aber weiterhin auseinander - auch bei den Fraktionschefs.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-zeitplan-miersch-frei-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T03:00:16+00:00"
+  },
   {
    "t": "Bericht aus Berlin: Heil äußert Zweifel an Rot-Grün-Rot in Berlin",
    "s": "Kann Rot-Grün-Rot in Berlin funktionieren? Der SPD-Politiker Heil und weitere SPD-Bundestagsabgeordnete sind skeptisch. Grünen-Chefin Brantner nennt im Bericht aus Berlin Kriterien, die für eine stabile Regierung erfüllt sein müssten.",
@@ -38,7 +101,7 @@
    "d": "2026-10-18T16:40:00+00:00"
   },
   {
-   "t": "Jugendproteste in Indien: Kakerlaken-Bewegungsgründer Abhijeet Dipke ist wieder frei",
+   "t": "Jugendproteste in Indien: Der Mann hinter Indiens Kakerlakenbewegung",
    "s": "Abhijeet Dipke legt sich für die Kakerlaken-Bewegung mit den Mächtigen an. Warum er aus den USA nach Indien zurückgekehrt ist und was ihm dort blüht.",
    "u": "https://taz.de/Jugendproteste-in-Indien/!6222437/",
    "q": "taz",
@@ -81,7 +144,7 @@
   },
   {
    "t": "Bundestreffen der Jungen Union: Die neue Macht der halb so Wilden",
-   "s": "Zwischen Kanzlercasting und wiederentdeckter Angst vor Links sucht die Junge Union nach der Zukunft ihrer „neuen“ Mitte. Rot-Grün-Rot in Berlin soll geächtet werden.",
+   "s": "Zwischen Kanzlercasting und wiederentdeckter Angst vor links sucht die Junge Union nach der Zukunft ihrer „neuen“ Mitte. Rot-Grün-Rot in Berlin soll geächtet werden.",
    "u": "https://taz.de/Bundestreffen-der-Jungen-Union/!6222416/",
    "q": "taz",
    "d": "2026-10-18T13:49:00+00:00"
@@ -106,69 +169,6 @@
    "u": "https://taz.de/Rechter-Kulturkampf-in-Kolumbien/!6222343/",
    "q": "taz",
    "d": "2026-10-18T12:59:00+00:00"
-  },
-  {
-   "t": "Huthi-Miliz: Wann handelt Europa?",
-   "s": "Die Huthi-Miliz übt eindeutig Terror aus, steht aber nicht auf der Terrorliste der EU. Sie sollte es endlich tun – so wie die USA.",
-   "u": "https://taz.de/Huthi-Miliz/!6222311/",
-   "q": "taz",
-   "d": "2026-10-18T12:13:00+00:00"
-  },
-  {
-   "t": "Proteste gegen Lebenshaltungskosten: Wenn alles zu teuer wird",
-   "s": "Nicht nur in Frankreich gibt es Proteste, auch in Belgien, Portugal, Italien und Albanien gehen die Menschen auf die Straße. Ein Überblick der Geschehnisse.",
-   "u": "https://taz.de/Wenn-alles-zu-teuer-wird-In-Europa-eskaliert-es/!6222347/",
-   "q": "taz",
-   "d": "2026-10-18T11:30:00+00:00"
-  },
-  {
-   "t": "Finstere Szenen bei Protesten - Entsetzen in Frankreich",
-   "s": "Friedliche Proteste gegen steigende Lebenshaltungskosten in Frankreich eskalierten zu Gewalt und Chaos. Gebäude wurden verwüstet, Geschäfte geplündert, Menschen verletzt. Von den Aussschreitungen könnten vor allem die radikalen Kräfte profitieren.Detjen, Stephan",
-   "u": "https://www.deutschlandfunk.de/proteste-in-frankreich-eskalieren-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-18T11:18:12+00:00"
-  },
-  {
-   "t": "CSU-Chef Söder fordert bei Junger Union \"Brandmauer nach links\"",
-   "s": "Dass Linke, Grüne und SPD einen Durchbruch bei den Sondierungen in Berlin erzielt haben, führt auf dem \"Deutschlandtag\" der Jungen Union zu heftiger Kritik: CSU-Chef Söder fordert eine klare Abgrenzung nach links - unter dem Jubel der Delegierten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/soeder-junge-union-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-18T11:17:48+00:00"
-  },
-  {
-   "t": "Nach der Krawallnacht in Frankreich: Die Ursachen des Volkszorns",
-   "s": "Die Wut auf steigende Preise befeuert die Proteste. Doch nach der Gewalt und den Zerstörungen in der Nacht zu Sonntag rückt das in den Hintergrund.",
-   "u": "https://taz.de/Nach-der-Krawallnacht-in-Frankreich/!6222419/",
-   "q": "taz",
-   "d": "2026-10-18T11:09:00+00:00"
-  },
-  {
-   "t": "Gregor Gysi zur Linken Berlin: „Wir brauchen rote Linien“",
-   "s": "Gregor Gysi findet, eine linke Regierung in der Hauptstadt muss kommen. Ein Gespräch über Vergesellschaftung, Sozialismus und Parteiausschlüsse.",
-   "u": "https://taz.de/Gregor-Gysi-ueber-die-Berliner-Linke/!6222312/",
-   "q": "taz",
-   "d": "2026-10-18T10:40:00+00:00"
-  },
-  {
-   "t": "Zusammenarbeit von BSW und AfD: Spaltet sich das BSW am Umgang mit der AfD?",
-   "s": "Das perfekte Kreml-Dinner von BSW und AfD in Sachsen-Anhalt sorgt weiter für Ärger. Ex-linke Gewerkschafter fordern Konsequenzen auf dem Bundesparteitag.",
-   "u": "https://taz.de/Zusammenarbeit-von-BSW-und-AfD/!6222222/",
-   "q": "taz",
-   "d": "2026-10-18T10:20:00+00:00"
-  },
-  {
-   "t": "Wie die Lausitz den Ärztemangel in den Griff bekommen will",
-   "s": "In Deutschland fehlen Tausende Hausärzte, besonders auf dem Land. Brandenburg will mit einer neuen staatlichen Medizinerausbildung gegensteuern, in einer Region, die besonders vom Strukturwandel betroffen ist. Von J. Piwon.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/gesundheit-aerztemangel-brandenburg-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-18T09:36:32+00:00"
-  },
-  {
-   "t": "Volksentscheid Proposition 40 in den USA: Big Beautiful Billions",
-   "s": "Trumps Sparmaßnahmen wirken sich auf Kaliforniens Gesundheitssektor aus. Ein Volksentscheid will das Geld wieder einbringen und Milliardäre besteuern.",
-   "u": "https://taz.de/Volksentscheid-Proposition-40-in-den-USA/!6218208/",
-   "q": "taz",
-   "d": "2026-10-18T09:26:00+00:00"
   }
  ]
 }
