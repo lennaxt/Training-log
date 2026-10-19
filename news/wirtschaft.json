@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-19T08:54:45+00:00",
+ "updated": "2026-10-19T16:28:29+00:00",
  "items": [
+  {
+   "t": "Reiche verspricht Milliarden für Wasserstoff-Ausbau",
+   "s": "Der Markt für Wasserstoff kommt nur langsam in Gang. Wirtschaftsministerin Reiche will nun mit Milliardenhilfen für die Industrie und Anreizen für klimafreundlichen Stahl gegensteuern.",
+   "u": "https://www.tagesschau.de/wirtschaft/reiche-wasserstoff-ausbau-millarden-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T12:34:29+00:00"
+  },
+  {
+   "t": "Anteil weiblicher Führungskräfte in Deutschland weiterhin niedrig",
+   "s": "Der Anteil von Frauen in Spitzenpositionen verharrt in Deutschland weiter unter dem EU-Durchschnitt: Weniger als ein Drittel der Chefposten war 2025 weiblich besetzt. Spitzenreiter im EU-Vergleich bleibt Schweden.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/frauen-anteil-fuehrungspositionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T12:19:43+00:00"
+  },
+  {
+   "t": "Marktbericht: Sorgen um Frankreich belasten den Euro",
+   "s": "Die Gewalteskalation in Frankreich lastet auch auf den Finanzmärkten. Sie lässt die Sorge um die französischen Staatsfinanzen wieder aufleben. Der Euro fiel zeitweise wieder unter 1,12 Dollar zurück.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-frankreich-proteste-euro-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T12:05:00+00:00"
+  },
+  {
+   "t": "Volkswagen will offenbar Gehälter einfrieren",
+   "s": "Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der Konzern will sich dazu nicht äußern.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T11:27:22+00:00"
+  },
+  {
+   "t": "Bringt der Aufschwung in Deutschland auch mehr Jobs?",
+   "s": "In der Industrie sind Zehntausende Jobs gefährdet. Zugleich erwarten Ökonomen, dass die deutsche Wirtschaft stärker wächst als gedacht. Kann das den Stellenabbau stoppen? Von Sebastian Schreiber.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt-konjunktur-industrie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T11:25:35+00:00"
+  },
   {
    "t": "Marktbericht: DAX fällt unter 25.500 Punkten",
    "s": "Zum Wochenauftakt belasten Meldungen aus China und den USA die Börsen. Sinkende Ölpreise und positive Daten reichen als Gegengewicht nicht aus. Dem DAX misslingt der Handelsauftakt.",
@@ -101,13 +136,6 @@
    "d": "2026-10-15T09:47:14+00:00"
   },
   {
-   "t": "Der Kampf ums Trinkwasser im brandenburgischen Baruth",
-   "s": "Die Unternehmen Red Bull und Rauch produzieren in Baruth Getränke und dürfen dabei 92 Prozent des Grundwassers, das der brandenburgischen Stadt zur Verfügung steht, entnehmen. Eine Bürgerinitiative wehrt sich und kämpft um Akteneinsicht.Von Andrea Rehmsmeier",
-   "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-14T16:40:00+00:00"
-  },
-  {
    "t": "Kommentar zur Erbschaftssteuer: Mehr Gerechtigkeit wagen!",
    "s": "Das Bundesverfassungsgericht beschäftigt sich mit der Erbschaftssteuer. Hierbei geht es um Fragen der Gerechtigkeit, mit denen sich eigentlich die Politik auseinandersetzen sollte. Die Koalition könnte dabei Handlungsfähigkeit zeigen.Ein Standpunkt von Gudula Geuther",
    "u": "https://www.deutschlandfunk.de/erbschaftssteuer-gerechtigkeit-verfassungsgericht-firmenerben-koalition-kommentar-100.html",
@@ -141,34 +169,6 @@
    "u": "https://www.deutschlandfunk.de/kommentar-spanien-proteste-mieten-wohnen-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-05T08:29:00+00:00"
-  },
-  {
-   "t": "Gewerbesteueroasen - Standortwettbewerb auf Kosten von Kommunen",
-   "s": "Steueroasen gibt es nicht nur auf den Cayman Islands, sondern auch in Deutschland. Sie sind legal, führen aber auch zu Missbrauch durch Unternehmer. Leidtragende sind die Kommunen.",
-   "u": "https://www.deutschlandfunk.de/steueroasen-deutschland-gewerbesteuer-kommunen-unternehmen-hebesatz-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-27T15:20:00+00:00"
-  },
-  {
-   "t": "Vergesellschaftung - Soziale Wohnungspolitik mit Risiken",
-   "s": "Die Linke will in Berlin Wohnungsbestände von großen Konzernen vergesellschaften. Nach dem Grundgesetz ist das prinzipiell möglich. Welche Folgen hätte das für die Mieten? Und ist es auch ein Mittel gegen die Wohnungsnot?",
-   "u": "https://www.deutschlandfunk.de/vergesellschaftung-enteignung-wohnungen-berlin-linke-elif-eralp-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-27T14:18:00+00:00"
-  },
-  {
-   "t": "Spritpreisdeckel - Warnungen vor Risiken und Nebenwirkungen",
-   "s": "Die Bundesregierung will Autofahrer angesichts steigender Spritpreise gleich doppelt entlasten. Neben dem gerade beschlossenen Tankrabatt ist auch ein sogenannter Spritpreisdeckel in der Diskussion. Es wäre ein ungewöhnlicher Eingriff in den Markt.",
-   "u": "https://www.deutschlandfunk.de/tankrabatt-spritpreisbremse-entlastung-benzinpreis-auto-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-25T15:42:00+00:00"
-  },
-  {
-   "t": "Marktmacht - Kampf den Kartellen",
-   "s": "Ob hohe Preissprünge an der Zapfsäule oder die Marktmacht globaler Tech-Riesen: In Deutschland soll das Bundeskartellamt den Wettbewerb sichern. Doch der Kampf gegen die Branchenriesen ist schwierig und wird schon lange ausgefochten.",
-   "u": "https://www.deutschlandfunk.de/bundeskartellamt-kartellrecht-marktmacht-wettbewerb-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-09-24T14:56:00+00:00"
   }
  ]
 }

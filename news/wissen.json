@@ -1,7 +1,28 @@
 {
  "name": "Wissen",
- "updated": "2026-10-19T08:54:46+00:00",
+ "updated": "2026-10-19T16:28:30+00:00",
  "items": [
+  {
+   "t": "\"Idefix\" soll Rätsel der Mars-Monde lösen",
+   "s": "Die japanische Mission MMX soll ab heute mit dem deutsch-französischen Rover \"Idefix\" zum Marsmond Phobos fliegen. Dort soll \"Idefix\" endlich klären, woher die rätselhaften Monde des Mars stammen. Von Jan Kerckhoff.",
+   "u": "https://www.tagesschau.de/wissen/weltraum/mars-monde-mission-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T14:59:24+00:00"
+  },
+  {
+   "t": "COP17 in Armenien: Weltnaturkonferenz startet mit großen Aufgaben",
+   "s": "Rund ein Drittel der Land- und Meeresflächen weltweit soll bis 2030 wirksam geschützt sein. Wie das erreicht werden kann, darüber wird ab heute bei der Weltnaturkonferenz COP17 in Armeniens Hauptstadt Jerewan beraten. Von Stephan Hübner.",
+   "u": "https://www.tagesschau.de/wissen/klima/weltnaturkonferenz-in-armenien-startet-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T11:08:38+00:00"
+  },
+  {
+   "t": "Wechseljahre im Job: Wie Hitzewallungen den Arbeitsalltag erschweren",
+   "s": "Fast jede fünfte Frau überlegt wegen Beschwerden in den Wechseljahren, früher in Ruhestand zu gehen. Erst seit kurzem wird die Bedeutung der Menopause für die Arbeitskultur entdeckt und offen diskutiert. Von Lilofee Fettich.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/wechseljahre-am-arbeitsplatz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-18T06:25:03+00:00"
+  },
   {
    "t": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
    "s": "Das Team des deutschen Forschungsschiffes \"Polarstern\" hat vor der Ostantarktis entdeckt: Der Meeresboden hilft dabei, das Schmelzen des Eises dort zu bremsen. Von Andreas Kegel.",
@@ -38,13 +59,6 @@
    "d": "2026-10-15T13:47:58+00:00"
   },
   {
-   "t": "Die Mehlschwalbe ist Vogel des Jahres 2027",
-   "s": "Sie fängt Insekten im Flug und brütet in Lehmnestern mit kleinem Einflugloch: Die Mehlschwalbe ist der Vogel des Jahres 2027. Ihr Bestand gilt als bedroht, denn nicht nur Hitzewellen machen den Tieren zu schaffen. Von S. Peyk.",
-   "u": "https://www.tagesschau.de/wissen/tiere/mehlschwalbe-vogel-des-jahres-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T09:36:18+00:00"
-  },
-  {
    "t": "Sorge um Papst Leo XIV. nach Lungenkrebs-Diagnose",
    "s": "Papst Leo XIV. ist wegen einer Krebserkrankung an der Lunge operiert worden. Dem 71-Jährigen sei am Dienstag der untere Lappen des rechten Lungenflügels entfernt worden, teilte der Vatikan mit.",
    "u": "https://www.tagesschau.de/video/video-1666086.html",
@@ -64,13 +78,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/grippewelle-herbst-100.html",
    "q": "Tagesschau",
    "d": "2026-10-10T14:08:35+00:00"
-  },
-  {
-   "t": "Verkündung in Oslo: Wer macht das Rennen um den Friedensnobelpreis?",
-   "s": "Um elf Uhr am Vormittag blickt die Welt mit Spannung nach Oslo, wer in diesem Jahr den Friedensnobelpreis verliehen bekommt - auch, weil die Entscheidung im vergangenen Jahr umstritten war. Von Jana Sinram.",
-   "u": "https://www.tagesschau.de/wissen/friedensnobelpreis-2026-vergabe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-09T00:09:09+00:00"
   },
   {
    "t": "Grundlegendes Konzept entdeckt - Chemie-Nobelpreis für Japaner und Franzosen",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1659824.html",
    "q": "Tagesschau",
    "d": "2026-10-03T13:40:12+00:00"
-  },
-  {
-   "t": "Fünf neue Exzellenzuniversitäten in Deutschland gekürt",
-   "s": "Drei neue Unis und zwei Hochschulverbünde dürfen sich jetzt Exzellenzuniversität nennen. Sie bekommen künftig deutlich mehr Geld für die Spitzenforschung. Für Studierende hat das allerdings eher einen indirekten Nutzen. Von Anja Braun.",
-   "u": "https://www.tagesschau.de/wissen/forschung/exzellenzunis-bekanntgegeben-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-02T15:04:08+00:00"
   }
  ]
 }

@@ -1,13 +1,62 @@
 {
  "name": "Ausland",
- "updated": "2026-10-19T08:54:44+00:00",
+ "updated": "2026-10-19T16:28:28+00:00",
  "items": [
   {
+   "t": "Frankreichs Premierminister Lecornu kündigt Ausgangssperren an",
+   "s": "Nach den Ausschreitungen in Frankreich kündigt die Regierung lokale Ausgangssperren an. Für Samstag kursieren Aufrufe zu weiteren Protesten. Bundesinnenminister Dobrindt machte zwei Gruppen für die Krawalle im Nachbarland verantwortlich.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T14:35:44+00:00"
+  },
+  {
+   "t": "Frankreich-Proteste: \"Macron hat nicht die richtigen Antworten gefunden\"",
+   "s": "Frankreich steht nach den Unruhen am Wochenende unter Schock. Hat Macron die Unzufriedenheit im Land unterschätzt? Politikwissenschaftler Ross über die Vorwürfe gegen den Präsidenten - und welche Optionen dieser nun hat.",
+   "u": "https://www.tagesschau.de/ausland/europa/europa-proteste-interview-ross-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T14:09:22+00:00"
+  },
+  {
+   "t": "Zwölf Migranten bei zwei Bootsunglücken in der Ägäis gestorben",
+   "s": "Vor den griechischen Inseln Samos und Lesbos sind binnen weniger Stunden zwei Boote mit Migranten verunglückt. Laut Behörden starben mindestens zwölf Menschen. Ein mutmaßlicher Schleuser wurde festgenommen.",
+   "u": "https://www.tagesschau.de/ausland/aegaeis-bootsunglueck-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T12:07:14+00:00"
+  },
+  {
    "t": "Flugzeug wegen Bombendrohung in Bulgarien notgelandet",
-   "s": "Auf dem Weg von Tel Aviv nach Wien ist ein Flugzeug von Austrian Airlines notgelandet. Zuvor hatte es offenbar eine Bombendrohung gegeben. Nachdem bei einer Durchsuchung der Maschine nichts gefunden wurde, konnte sie ihren Flug fortsetzen.",
+   "s": "Auf dem Weg von Tel Aviv nach Wien ist ein Flugzeug von Austrian Airlines notgelandet. Zuvor hatte es eine Bombendrohung gegeben. Nachdem bei einer Durchsuchung der Maschine nichts gefunden wurde, konnte sie ihren Flug fortsetzen.",
    "u": "https://www.tagesschau.de/ausland/europa/notlandung-bulgarien-bombendrohung-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-19T06:34:49+00:00"
+   "d": "2026-10-19T11:47:03+00:00"
+  },
+  {
+   "t": "Louvre: Weiterhin keine Spur von den geraubten Kronjuwelen",
+   "s": "Vor einem Jahr erbeuteten Diebe die französischen Kronjuwelen aus dem Pariser Louvre. Das Museum hat seine Sicherheitsvorkehrungen mittlerweile verschärft, aber vom Schmuck fehlt weiterhin jede Spur. Von Cai Rienäcker.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-ein-jahr-louvre-einbruch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T11:46:08+00:00"
+  },
+  {
+   "t": "Krawalle in Frankreich - Regierung räumt \"Kontrollverlust\" der Behörden ein",
+   "s": "Nach den gewalttätigen Protesten am Wochenende ist Frankreichs Regierung mit der Frage beschäftigt, wie es dazu kommen konnte. Innenminister Nuñez bot seinen Rücktritt an, Justizminister Darmanin sieht Defizite bei den Behörden.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreichs-justizminister-sieht-schwaechen-bei-sicherheitsbehoerden-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T11:29:10+00:00"
+  },
+  {
+   "t": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
+   "s": "Ein heftiges Sturmtief hat Straßen und Campingplätze im Südosten Spaniens unter Wasser gesetzt. Menschen flüchten vor den Wassermassen auf Hausdächer, es gab mindestens zwei Tote. Auf Mallorca fiel das Unwetter weniger heftig aus als befürchtet.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T11:00:46+00:00"
+  },
+  {
+   "t": "In Kiew wächst die Kritik an Bürgermeister Klitschko",
+   "s": "In Kiew steht der nächste Kriegswinter bevor. Viele Menschen werfen Bürgermeister Klitschko hier Missmanagement vor. Statt die Strom- und Wasserversorgung zu sichern, würde Geld für Straßenbau ausgegeben. Von Rebecca Barth.",
+   "u": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T09:04:40+00:00"
   },
   {
    "t": "Sturmtief \"Adam\": Behörden warnen vor Unwetter auf Mallorca",
@@ -80,32 +129,11 @@
    "d": "2026-10-18T14:27:58+00:00"
   },
   {
-   "t": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskalieren",
-   "s": "In Frankreich haben Hunderttausende Menschen am Samstag protestiert - überschattet von massiven Ausschreitungen. Vermummte plünderten Geschäfte und setzten Gebäude in Brand. 1.800 Menschen wurden festgenommen.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
-   "q": "Tagesschau",
-   "d": "2026-10-18T11:51:17+00:00"
-  },
-  {
    "t": "COP17 zur Biodiversität: Den Holzdieben in Armenien auf der Spur",
    "s": "Ab Montag beraten Vertreter von fast 200 Ländern auf der 17. UN-Konferenz zur biologischen Vielfalt, wie sich ihre selbst gesteckten Ziele noch erreichen lassen. Unterwegs mit Umweltschützern im Gastland Armenien. Von Norbert Hahn.",
    "u": "https://www.tagesschau.de/ausland/asien/un-biodiversitaetskonferenz-armenien-100.html",
    "q": "Tagesschau",
    "d": "2026-10-18T06:48:59+00:00"
-  },
-  {
-   "t": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
-   "s": "Angriffe auf Polizisten, Plünderungen und Brandstiftungen: In Frankreich hat es bei landesweiten Protesten schwere Ausschreitungen gegeben. In Limoges setzten Randalierer das historische Rathaus in Brand. 1.200 Menschen wurden festgenommen.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T22:31:39+00:00"
-  },
-  {
-   "t": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
-   "s": "In Brüssel hat die Polizei Tränengas gegen Teilnehmer von Studentenprotesten eingesetzt. Demonstranten hatten zuvor mit Flaschen und Feuerwerkskörpern geworfen. Belgiens Innenministerium sprach von \"organisierter Gewalt\".",
-   "u": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T19:10:03+00:00"
   },
   {
    "t": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/persischer-golf-tanker-angriffe-100.html",
    "q": "Tagesschau",
    "d": "2026-10-17T12:28:17+00:00"
-  },
-  {
-   "t": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
-   "s": "Erst macht der US-Präsident einen umstrittenen Diesel-Deal mit Russland, nun setzt Trump gerade erst beschlossene Sanktionen aus. Das Weiße Haus begründet dies mit nationalem Interesse. Moskau reagiert erfreut, die Ukraine ist entsetzt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T12:07:08+00:00"
-  },
-  {
-   "t": "Russland-Sanktionen auf Eis: Wie sich Trump Putin weiter annähert",
-   "s": "Die Unterstützung von US-Präsident Trump für die Ukraine war schon immer zurückhaltend. Mit den jetzt gestoppten Sanktionen kommt er dem russischen Präsidenten weit entgegen. Auch in den USA wird er dafür massiv kritisiert. Von Carsten Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T08:08:36+00:00"
-  },
-  {
-   "t": "Nachfolge als UN-Generalsekretär: Bewerber scheitern an Vetomächten",
-   "s": "Bis Ende Dezember muss der UN-Sicherheitsrat eine Nachfolge für Generalsekretär Guterres bestimmen. Doch auch bei der sechsten Probeabstimmung fielen alle Kandidaten bei den Vetomächten durch. Von Martin Ganslmeier.",
-   "u": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-wahl-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T04:56:34+00:00"
-  },
-  {
-   "t": "Iran-Krieg: Trauer nach Angriff auf Schule in Minab hält an",
-   "s": "Am ersten Tag des Iran-Kriegs im Februar schlägt eine Rakete in einer Schule in Minab ein. 168 Menschen sterben, die meisten sind Kinder. Heute ist der Ort Gedenkstätte, aber auch Bühne für Regimepropaganda. Von Benjamin Weber.",
-   "u": "https://www.tagesschau.de/ausland/asien/iran-minab-schule-angriff-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T01:43:26+00:00"
   }
  ]
 }

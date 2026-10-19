@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-19T08:54:48+00:00",
+ "updated": "2026-10-19T16:28:31+00:00",
  "items": [
+  {
+   "t": "Sozialproteste in Lissabon: Jugend zeltet",
+   "s": "In Lissabon wird, inspiriert von den Protesten in Spanien, gegen Wuchermieten protestiert. Die Jugend will einen „iberischen Generalstreik“.",
+   "u": "https://taz.de/Sozialproteste-in-Lissabon/!6222613/",
+   "q": "taz",
+   "d": "2026-10-19T16:24:00+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Macrons Regierung wankt",
+   "s": "Nach den Ausschreitungen am Wochenende ist Frankreich entsetzt. Die politischen Lager streiten über die Schuld an der Eskalation.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6222609/",
+   "q": "taz",
+   "d": "2026-10-19T16:23:00+00:00"
+  },
+  {
+   "t": "Sozialproteste in Rom: Italiens Vorstadtjugend kocht vor Wut",
+   "s": "Auch Italien erlebt eine Welle der Gewalt. Dem wenig zielgerichteten Protest der Jugend haben sich Gewerkschaften und Lkw-Fahrer angeschlossen.",
+   "u": "https://taz.de/Sozialproteste-in-Rom/!6222610/",
+   "q": "taz",
+   "d": "2026-10-19T12:31:00+00:00"
+  },
   {
    "t": "Verhandlungen über Kriegsende: Putin schlägt Trump und Xi Ukraine-Gipfel vor",
    "s": "Moskau möchte mit Washington und Peking über das Ende des Ukraine-Kriegs zu seinen Gunsten verhandeln. Der US-Präsident könnte die Idee womöglich gutheißen.",
@@ -67,7 +88,7 @@
   },
   {
    "t": "Bundespolizist über Frontex: „Niemand rechnet mit Konsequenzen“",
-   "s": "Die EU schottet sich immer weiter vor Flüchtenden ab, und Deutschland macht mit. Was das bedeutet, hat Jonas Müller im Einsatz bei Frontex erlebt.",
+   "s": "Die EU schottet sich immer weiter vor Flüchtenden ab, und Deutschland macht mit. Was das bedeutet, hat Jonas Blume im Einsatz bei Frontex erlebt.",
    "u": "https://taz.de/Bundespolizist-ueber-Frontex/!6218154/",
    "q": "taz",
    "d": "2026-10-18T07:29:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Ex-Buergermeisterin-von-Barcelona/!6221689/",
    "q": "taz",
    "d": "2026-10-16T07:57:00+00:00"
-  },
-  {
-   "t": "Tagebuch aus Litauen: Wo bleibt der Bus aus Belarus?",
-   "s": "Lettland und Litauen schränken Verkehrsverbindungen nach Belarus ein. Für Menschen im Exil eine Belastung. Wie halten sie Kontakt zu ihren Verwandten?",
-   "u": "https://taz.de/Tagebuch-aus-Litauen/!6221489/",
-   "q": "taz",
-   "d": "2026-10-16T07:01:00+00:00"
-  },
-  {
-   "t": "Selenskyj beim EU-Gipfel: Finanzen, Trump und Starlink",
-   "s": "Eine Finanzierungslücke, Ärger mit Trump um Starlink und der Dieseldeal mit Putin: Das dürften Hauptthemen bei Selenskyjs Besuch in Brüssel sein.",
-   "u": "https://taz.de/Selenskyj-beim-EU-Gipfel/!6222148/",
-   "q": "taz",
-   "d": "2026-10-16T06:32:00+00:00"
-  },
-  {
-   "t": "Russlands Methoden in der Ukraine: Ein Angriff auf die Zukunft",
-   "s": "Die russische Armee attackiert in der Ukraine nicht nur Öllager, sondern auch gezielt Orte der Kultur. Was das für Städte wie das westukrainische Luzk bedeutet.",
-   "u": "https://taz.de/Russlands-Methoden-in-der-Ukraine/!6221940/",
-   "q": "taz",
-   "d": "2026-10-16T05:25:00+00:00"
   }
  ]
 }

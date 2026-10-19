@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-10-19T08:54:49+00:00",
+ "updated": "2026-10-19T16:28:32+00:00",
  "items": [
+  {
+   "t": "US-Beziehungen in Zentralasien: Von deutschen Investoren keine Spur",
+   "s": "US-Außenminister Rubio ist in Zentralasien. Washington will vor allem China und Russland von dort verdrängen. Auch Deutschland gerät ins Hintertreffen.",
+   "u": "https://taz.de/US-Beziehungen-in-Zentralasien/!6222587/",
+   "q": "taz",
+   "d": "2026-10-19T14:06:00+00:00"
+  },
+  {
+   "t": "Unabhängigkeitsreferendum in Alberta: Kanadische Provinz stimmt über mögliche Abspaltung ab",
+   "s": "Alberta ist ölreich und konservativ. Eine kleine Unabhängigkeitsbewegung gibt es schon länger, jetzt steht ein Referendum an. Die Umfragen scheinen eindeutig.",
+   "u": "https://taz.de/Kanadische-Provinz-Alberta-stimmt-ueber-moegliche-Abspaltung-ab-Das-sind-die-Gruende/!6222565/",
+   "q": "taz",
+   "d": "2026-10-19T08:52:00+00:00"
+  },
   {
    "t": "TV-Duell in Brasiliens Wahlkampf: Falschmeldungen und Beleidigungen",
    "s": "Beim ersten und einzigen TV-Duell zwischen Brasiliens Präsident Lula und Herausforderer Flavio Bolsonaro kommt eine Diskussion kaum zustande.",
@@ -39,7 +53,7 @@
   },
   {
    "t": "USA und Russland: Trump setzt geplante Sanktionen aus",
-   "s": "Wegen der Energieknappheit in den Staaten, hat Donald Trump Sanktionen gegen Russland ausgesetzt. In der Ukraine sterben derweil Menschen in Russlands Krieg.",
+   "s": "Wegen der Energieknappheit in den Staaten hat Donald Trump Sanktionen gegen Russland ausgesetzt. In der Ukraine sterben derweil Menschen in Russlands Krieg.",
    "u": "https://taz.de/USA-setzen-Sanktionen-gegen-Russland-aus/!6222295/",
    "q": "taz",
    "d": "2026-10-17T06:29:00+00:00"
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Trump-kauft-Kraftstoff-von-Putin/!6220504/",
    "q": "taz",
    "d": "2026-10-10T06:21:00+00:00"
-  },
-  {
-   "t": "Todesstrafe in den USA: Scheitern als Kalkül",
-   "s": "Dem Trump-Regime ist es nicht gelungen, Christa Pike hinzurichten. Das ist nicht überraschend. Die Risiken des eingesetzten Mittels sind bekannt.",
-   "u": "https://taz.de/Todesstrafe-in-den-USA/!6220240/",
-   "q": "taz",
-   "d": "2026-10-09T17:56:00+00:00"
-  },
-  {
-   "t": "Venezolanisches Ehepaar Maduro: USA werfen Ex-Präsident und seiner Frau Folter vor",
-   "s": "Die US-Staatsanwaltschaft erhebt schwere Foltervorwürfe gegen Venezuelas früheren Staatschef Nicolás Maduro und seine Frau. Beide sind bereits in Haft.",
-   "u": "https://taz.de/Venezolanisches-Ehepaar-Maduro/!6220230/",
-   "q": "taz",
-   "d": "2026-10-09T06:30:00+00:00"
   }
  ]
 }
