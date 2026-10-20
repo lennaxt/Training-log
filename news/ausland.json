@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-10-20T19:17:38+00:00",
+ "updated": "2026-10-20T23:53:51+00:00",
  "items": [
+  {
+   "t": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+   "s": "Trump hatte Interesse an einem Gespräch mit den Präsidenten Russlands und Chinas über die Ukraine gezeigt. Nach einem Treffen mit europäischen Partnern sowie dem US-Sondergesandten Witkoff in Oslo forderte Präsident Selenskyj nun eine Beteiligung Kiews.",
+   "u": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T20:01:00+00:00"
+  },
+  {
+   "t": "So reagieren Frankreich und Italien auf die Ausschreitungen",
+   "s": "Ausgangssperren, Antiterror-Soldaten, neue Dekrete: Frankreich und Italien haben auf die Ausschreitungen am Wochenende reagiert. So sollen in Zukunft Unruhen verhindert werden.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T19:56:31+00:00"
+  },
   {
    "t": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
    "s": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die finale Abstimmung steht noch an. Von J.-M. Magro.",
@@ -136,13 +150,6 @@
    "d": "2026-10-19T18:35:46+00:00"
   },
   {
-   "t": "Frankreichs Premierminister Lecornu kündigt Ausgangssperren an",
-   "s": "Nach den Ausschreitungen in Frankreich kündigt die Regierung lokale Ausgangssperren an. Für Samstag kursieren Aufrufe zu weiteren Protesten. Bundesinnenminister Dobrindt machte zwei Gruppen für die Krawalle im Nachbarland verantwortlich.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T17:19:39+00:00"
-  },
-  {
    "t": "Zwölf Migranten bei zwei Bootsunglücken in der Ägäis gestorben",
    "s": "Vor den griechischen Inseln Samos und Lesbos sind binnen weniger Stunden zwei Boote mit Migranten verunglückt. Laut Behörden starben mindestens zwölf Menschen. Ein mutmaßlicher Schleuser wurde festgenommen.",
    "u": "https://www.tagesschau.de/ausland/aegaeis-bootsunglueck-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/kanada-alberta-volksabstimmung-100.html",
    "q": "Tagesschau",
    "d": "2026-10-19T04:55:25+00:00"
-  },
-  {
-   "t": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
-   "s": "Die Ukraine klagte zuletzt über fehlende US-Geheimdienstinformationen zu russischen Angriffen. Inzwischen liefern die USA diese laut dem ukrainischen Präsidenten wieder. Doch angesichts des jüngsten US-Kurses zeigt er sich tief besorgt.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-18T22:23:09+00:00"
   }
  ]
 }
