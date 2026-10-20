@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-19T16:28:29+00:00",
+ "updated": "2026-10-20T00:21:19+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 19.10.2026",
+   "s": "Wirtschaft vor acht vom 19.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1669136.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T17:55:23+00:00"
+  },
+  {
+   "t": "Marktbericht: Neue Woche, neue Sorgen",
+   "s": "Die Börse gleicht derzeit einem Wechselbad. Die Gewinne von Freitag sind wieder dahin. Belastend wirkte neben den anhaltenden KI-Sorgen die Lage in Frankreich.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T16:29:58+00:00"
+  },
   {
    "t": "Reiche verspricht Milliarden für Wasserstoff-Ausbau",
    "s": "Der Markt für Wasserstoff kommt nur langsam in Gang. Wirtschaftsministerin Reiche will nun mit Milliardenhilfen für die Industrie und Anreizen für klimafreundlichen Stahl gegensteuern.",
@@ -38,13 +52,6 @@
    "d": "2026-10-19T11:25:35+00:00"
   },
   {
-   "t": "Marktbericht: DAX fällt unter 25.500 Punkten",
-   "s": "Zum Wochenauftakt belasten Meldungen aus China und den USA die Börsen. Sinkende Ölpreise und positive Daten reichen als Gegengewicht nicht aus. Dem DAX misslingt der Handelsauftakt.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T08:36:52+00:00"
-  },
-  {
    "t": "IW-Studie: Fachkräftemangel bremst Infrastruktur-Projekte aus",
    "s": "Der Bund will massiv in Brücken, Netze und Digitalisierung investieren. Doch laut einer Studie des Instituts der deutschen Wirtschaft fehlen schon jetzt die Fachkräfte, um die Projekte umzusetzen.",
    "u": "https://www.tagesschau.de/wirtschaft/fachkraeftemaengel-infrastruktur-iw-studie-100.html",
@@ -78,13 +85,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/energie-heizen-winter-100.html",
    "q": "Tagesschau",
    "d": "2026-10-17T10:05:01+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 16102026",
-   "s": "Wirtschaft vor acht vom 16102026",
-   "u": "https://www.tagesschau.de/video/video-1667576.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T18:20:58+00:00"
   },
   {
    "t": "Wie es mit der Commerzbank nun weitergeht",
@@ -136,6 +136,13 @@
    "d": "2026-10-15T09:47:14+00:00"
   },
   {
+   "t": "Der Kampf ums Trinkwasser im brandenburgischen Baruth",
+   "s": "Die Unternehmen Red Bull und Rauch produzieren in Baruth Getränke und dürfen dabei 92 Prozent des Grundwassers, das der brandenburgischen Stadt zur Verfügung steht, entnehmen. Eine Bürgerinitiative wehrt sich und kämpft um Akteneinsicht.Von Andrea Rehmsmeier",
+   "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-14T16:40:00+00:00"
+  },
+  {
    "t": "Kommentar zur Erbschaftssteuer: Mehr Gerechtigkeit wagen!",
    "s": "Das Bundesverfassungsgericht beschäftigt sich mit der Erbschaftssteuer. Hierbei geht es um Fragen der Gerechtigkeit, mit denen sich eigentlich die Politik auseinandersetzen sollte. Die Koalition könnte dabei Handlungsfähigkeit zeigen.Ein Standpunkt von Gudula Geuther",
    "u": "https://www.deutschlandfunk.de/erbschaftssteuer-gerechtigkeit-verfassungsgericht-firmenerben-koalition-kommentar-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.deutschlandfunk.de/klimaschutz-co2-zertifikate-emissionen-kompensation-greenwashing-kritik-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-05T10:39:00+00:00"
-  },
-  {
-   "t": "Kommentar: Politische Kälte auf dem spanischen Wohnungsmarkt",
-   "s": "Das spanische Parlament hat geplante, recht milde Mieterschutzregeln abgelehnt. Das Nein offenbart politische Kälte gegenüber einem der größten Probleme des Landes. Für Ministerpräsident Pedro Sánchez wird das zur Bewährungsprobe.Von Hans-Günter Kellner",
-   "u": "https://www.deutschlandfunk.de/kommentar-spanien-proteste-mieten-wohnen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-05T08:29:00+00:00"
   }
  ]
 }

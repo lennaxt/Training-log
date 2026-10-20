@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-19T16:28:31+00:00",
+ "updated": "2026-10-20T00:21:22+00:00",
  "items": [
+  {
+   "t": "Russische Angriffe auf Kyjiw: Kein Versteck, nirgends",
+   "s": "Die ukrainische Hauptstadt Kyjiw ist täglich russischen Angriffen ausgesetzt. Um Schutzräume aufzusuchen, bleibt vielen Menschen immer weniger Zeit.",
+   "u": "https://taz.de/Russische-Angriffe-auf-Kyjiw/!6222586/",
+   "q": "taz",
+   "d": "2026-10-19T17:44:00+00:00"
+  },
   {
    "t": "Sozialproteste in Lissabon: Jugend zeltet",
    "s": "In Lissabon wird, inspiriert von den Protesten in Spanien, gegen Wuchermieten protestiert. Die Jugend will einen „iberischen Generalstreik“.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Frankreichs-extreme-Rechte/!6221919/",
    "q": "taz",
    "d": "2026-10-16T09:24:00+00:00"
-  },
-  {
-   "t": "Ex-Bürgermeisterin von Barcelona: Die Rückkehr der Mietenkämpferin",
-   "s": "Ada Colau soll das linke Bündnis Frente Amplio in Spaniens Neuwahlen führen. Mit ihrem Kampf für bezahlbaren Wohnraum trifft sie einen Nerv.",
-   "u": "https://taz.de/Ex-Buergermeisterin-von-Barcelona/!6221689/",
-   "q": "taz",
-   "d": "2026-10-16T07:57:00+00:00"
   }
  ]
 }

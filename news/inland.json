@@ -1,7 +1,91 @@
 {
  "name": "Inland",
- "updated": "2026-10-19T16:28:28+00:00",
+ "updated": "2026-10-20T00:21:17+00:00",
  "items": [
+  {
+   "t": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
+   "s": "Die Grünen und die SPD wollen in Berlin mit der Linkspartei Koalitionsverhandlungen aufnehmen. Beide Parteien entschieden sich am Abend für die Gespräche - die Abstimmung bei der Linken steht noch aus.",
+   "u": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T19:52:35+00:00"
+  },
+  {
+   "t": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+   "s": "Deutschland und der US-Chip-Gigant Nvidia haben eine Zusammenarbeit bei der Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest-in-Germany\"-Gipfel verkündet - und soll die deutsche Wettbewerbsfähigkeit stärken.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T19:23:41+00:00"
+  },
+  {
+   "t": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
+   "s": "Die Berliner SPD stimmt mit großer Mehrheit für Koalitionsverhandlungen mit der Linkspartei und mit den Grünen. Die Grünen wollen noch am Abend über den Beginn der Gespräche entscheiden.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/koalitionsverhandlungen-berlin-spd-linke-gruene-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T17:59:59+00:00"
+  },
+  {
+   "t": "Arabische Bevölkerung in Israel: Gewalt, organisierte Kriminalität und das Wegsehen",
+   "s": "In der arabischen Community in Israel kommt es immer häufiger zu schwerer Gewaltkriminalität. Die Polizei allerdings interessiert sich kaum dafür.",
+   "u": "https://taz.de/Arabische-Bevoelkerung-in-Israel/!6222585/",
+   "q": "taz",
+   "d": "2026-10-19T17:45:00+00:00"
+  },
+  {
+   "t": "Russische Angriffe auf Kyjiw: Kein Versteck, nirgends",
+   "s": "Die ukrainische Hauptstadt Kyjiw ist täglich russischen Angriffen ausgesetzt. Um Schutzräume aufzusuchen, bleibt vielen Menschen immer weniger Zeit.",
+   "u": "https://taz.de/Russische-Angriffe-auf-Kyjiw/!6222586/",
+   "q": "taz",
+   "d": "2026-10-19T17:44:00+00:00"
+  },
+  {
+   "t": "Hubertus Heil und der SPD-Vorsitz: „Ich kann es nicht ausschließen, dass ich antrete“",
+   "s": "Der ehemalige Arbeitsminister macht aus seinen Ambitionen für den SPD-Parteivorsitz kein Geheimnis. Doch er stellt eine interessante Bedingung.",
+   "u": "https://taz.de/Hubertus-Heil-und-der-SPD-Vorsitz/!6222604/",
+   "q": "taz",
+   "d": "2026-10-19T17:43:00+00:00"
+  },
+  {
+   "t": "Regierungsbildung: SPD-Landesvorstand stimmt für Koalitionsverhandlungen",
+   "s": "Die Berliner Sozialdemokraten geben als erste der drei Parteien grünes Licht für Koalitionsgespräche. Auch die Grünen wollen noch am Montagabend eine Entscheidung treffen.",
+   "u": "https://taz.de/Regierungsbildung/!6222816/",
+   "q": "taz",
+   "d": "2026-10-19T17:39:00+00:00"
+  },
+  {
+   "t": "Midterms in den USA: Wie Latinos die Wahlen entscheiden könnten",
+   "s": "Latinos machen einen großen Teil der Bevölkerung in den USA aus. Ihre Wahlbeteiligung blieb bislang aber eher gering. Das ändert sich nun. Als „erwachender Riese“ könnten sie bei den Midterms eine entscheidende Rolle spielen.",
+   "u": "https://www.deutschlandfunk.de/midterms-usa-latinos-us-wahlen-texas-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-19T16:49:00+00:00"
+  },
+  {
+   "t": "Nach dem CSD-Anschlag: Viele Bekundungen, kaum Konkretes",
+   "s": "Für den Schutz der queeren Community tut die Bundesregierung weiterhin wenig – weder finanziell noch gesetzlich. Das zeigt eine kleine Anfrage der Grünen.",
+   "u": "https://taz.de/Nach-dem-CSD-Anschlag/!6222588/",
+   "q": "taz",
+   "d": "2026-10-19T16:48:00+00:00"
+  },
+  {
+   "t": "Migrantische Verbände in Sachsen-Anhalt: „Es ist ernst, meine Damen und Herren“",
+   "s": "Dass die AfD bald in Sachsen-Anhalt regieren könnte, besorgt Migrant:innenorganisationen. Sie fordern Schutz von CDU-Kanzler Merz und den anderen Ländern.",
+   "u": "https://taz.de/Migrantische-Verbaende-in-Sachsen-Anhalt/!6222206/",
+   "q": "taz",
+   "d": "2026-10-19T16:47:00+00:00"
+  },
+  {
+   "t": "Frust und Charisma – Wie Parteien mobilisieren",
+   "s": "CDU und SPD im Keller, die AfD im Höhenflug. Die Zeiten starker Parteibindung sind vorbei, das haben die vergangenen Landtagswahlen gezeigt. Wie konnte die AfD insbesondere so viele Wechselwähler und Nichtwähler gewinnen?Waltz, Manuel",
+   "u": "https://www.deutschlandfunk.de/frust-und-charisma-wie-parteien-mobilisieren-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-19T16:40:00+00:00"
+  },
+  {
+   "t": "Streit um abschlagsfreie Rente: Trifft es am Ende die Frauen?",
+   "s": "Die Koalition ringt weiter um die sogenannte Rente mit 63. Ein Kompromiss könnte Kindererziehungszeiten infrage stellen. Die Leidtragenden: Mütter.",
+   "u": "https://taz.de/Koalition-streitet-ueber-abschlagsfreie-Rente-Trifft-es-am-Ende-die-Frauen/!6222606/",
+   "q": "taz",
+   "d": "2026-10-19T16:38:00+00:00"
+  },
   {
    "t": "Sozialproteste in Lissabon: Jugend zeltet",
    "s": "In Lissabon wird, inspiriert von den Protesten in Spanien, gegen Wuchermieten protestiert. Die Jugend will einen „iberischen Generalstreik“.",
@@ -85,90 +169,6 @@
    "u": "https://taz.de/Moegliche-AfD-Regierung-in-Sachsen-Anhalt/!6222593/",
    "q": "taz",
    "d": "2026-10-19T09:52:00+00:00"
-  },
-  {
-   "t": "USA und die Wahlen in Israel: Trump empfiehlt Netanjahu",
-   "s": "Kurz vor der Wahl in Israel stellt sich der US-Präsident demonstrativ hinter Israels umstrittenen Premier. Dessen Kontrahent reagiert zurückhaltend.",
-   "u": "https://taz.de/USA-und-die-Wahlen-in-Israel/!6222552/",
-   "q": "taz",
-   "d": "2026-10-19T09:14:00+00:00"
-  },
-  {
-   "t": "Unabhängigkeitsreferendum in Alberta: Kanadische Provinz stimmt über mögliche Abspaltung ab",
-   "s": "Alberta ist ölreich und konservativ. Eine kleine Unabhängigkeitsbewegung gibt es schon länger, jetzt steht ein Referendum an. Die Umfragen scheinen eindeutig.",
-   "u": "https://taz.de/Kanadische-Provinz-Alberta-stimmt-ueber-moegliche-Abspaltung-ab-Das-sind-die-Gruende/!6222565/",
-   "q": "taz",
-   "d": "2026-10-19T08:52:00+00:00"
-  },
-  {
-   "t": "Kritik an Rot-Grün-Rot in Berlin: \"Ich habe noch erhebliche Zweifel\"",
-   "s": "Die rot-grün-roten Sondierungsgespräche in Berlin waren holprig, aber erfolgreich. Heute wollen Grüne und SPD über Koalitionsverhandlungen mit der Linken entscheiden. Doch Kritik und Zweifel sind laut, etwa bei SPD-Fraktionschef Miersch.",
-   "u": "https://www.tagesschau.de/inland/berlin-spd-linke-gruene-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T08:23:24+00:00"
-  },
-  {
-   "t": "Stühlerücken bei der SPD - Wie geht es weiter in Partei und Koalition?",
-   "s": "Nach dem Rücktritt von SPD-Co-Chefin Bärbel Bas ist die Partei damit beschäftigt, ihren Kurs zu klären. Noch ist unklar, wer die neue Doppelspitze bilden soll. Aber reicht ein Führungswechsel aus, um SPD und Koalition zu stabilisieren?Engels, Silvia",
-   "u": "https://www.deutschlandfunk.de/stuehleruecken-bei-der-spd-wie-weiter-in-partei-und-koalition-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-19T08:08:00+00:00"
-  },
-  {
-   "t": "Verhandlungen über Kriegsende: Putin schlägt Trump und Xi Ukraine-Gipfel vor",
-   "s": "Moskau möchte mit Washington und Peking über das Ende des Ukraine-Kriegs zu seinen Gunsten verhandeln. Der US-Präsident könnte die Idee womöglich gutheißen.",
-   "u": "https://taz.de/Verhandlungen-ueber-Kriegsende/!6222550/",
-   "q": "taz",
-   "d": "2026-10-19T07:51:00+00:00"
-  },
-  {
-   "t": "TV-Duell in Brasiliens Wahlkampf: Falschmeldungen und Beleidigungen",
-   "s": "Beim ersten und einzigen TV-Duell zwischen Brasiliens Präsident Lula und Herausforderer Flavio Bolsonaro kommt eine Diskussion kaum zustande.",
-   "u": "https://taz.de/TV-Duell-in-Brasiliens-Wahlkampf/!6222546/",
-   "q": "taz",
-   "d": "2026-10-19T07:41:00+00:00"
-  },
-  {
-   "t": "Krieg im Sudan - \"Die Perspektive ist sehr düster\"",
-   "s": "Krieg, Hunger, Dürre - die Situation im südlichen Sudan spitzt sich weiter zu. Hilfe komme kaum noch an, sagt Cap-Anamur-Geschäftsführer Bernd Göke. Hilfsorganisationen hätten sich weitgehend zurückgezogen – auch die UN.Heinemann, Christoph",
-   "u": "https://www.deutschlandfunk.de/dramatische-lage-im-suedlichen-sudan-interview-mit-bernd-goeken-cap-anamur-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-19T06:10:00+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Macron will notfalls Demonstrationen verbieten",
-   "s": "Nach Ausschreitungen: Frankreichs Präsident lehnt Rücktrittsangebot des Innenministers ab. Außerdem will er weitere Demonstrationen gegebenenfalls verbieten.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6222544/",
-   "q": "taz",
-   "d": "2026-10-19T05:45:00+00:00"
-  },
-  {
-   "t": "Grünen-Fraktionschefin Dröge verteidigt Rot-Grün-Rot in Berlin",
-   "s": "Die Kritik an einem möglichen Regierungsbündnis unter Führung der Linkspartei in Berlin wächst. Katharina Dröge hält dagegen: Die Grünen müssten die Linke dazu bringen, ihr Antisemitismusproblem zu lösen. Sonst fehlten politische Optionen.Heinemann, Christoph",
-   "u": "https://www.deutschlandfunk.de/aenderungen-bei-verbrenner-aus-interview-gruenen-fraktionschefin-katharina-droege-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-19T05:15:00+00:00"
-  },
-  {
-   "t": "Welle der Gewalt in Frankreich: Macron droht und zeigt Verständnis",
-   "s": "Frankreichs Präsident Macron hat die gewalttätigen Proteste verurteilt und zugleich Verständnis für die Forderungen der Protestierenden geäußert. Verbesserungen an den Schulen werde es aber kaum geben, glaubt Jürgen Vogler, Lehrer in Paris.Heinemann, Christoph",
-   "u": "https://www.deutschlandfunk.de/eskalierende-proteste-in-frankreich-interv-mit-juergen-vogler-lehrer-in-paris-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-19T04:50:00+00:00"
-  },
-  {
-   "t": "11KM-Podcast: Deutsche Beamte zwischen Bashing und Reformen",
-   "s": "Knapp 57 Milliarden Euro hat Deutschland 2024 allein für die Pensionen von Beamten ausgegeben. Ist das noch bezahlbar? 11KM fragt, wo eine Reform des deutschen Beamtensystems ansetzen könnte.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-beamte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T04:26:52+00:00"
-  },
-  {
-   "t": "Wann kommt der Gesetzentwurf für die Rentenreform?",
-   "s": "Die Rentenreform soll kommen. Darüber sind sich in der schwarz-roten Koalition alle einig. Über die Details und den Zeitplan gehen die Meinungen aber weiterhin auseinander - auch bei den Fraktionschefs.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-zeitplan-miersch-frei-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T03:00:16+00:00"
   }
  ]
 }

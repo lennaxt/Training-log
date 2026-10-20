@@ -1,10 +1,17 @@
 {
  "name": "Wissen",
- "updated": "2026-10-19T16:28:30+00:00",
+ "updated": "2026-10-20T00:21:20+00:00",
  "items": [
   {
+   "t": "Japan startet Mission zu Mars-Monden",
+   "s": "Der Mars-Mond Phobos steht im Mittelpunkt der jüngsten Weltraummission: Nun ist die Trägerrakete vom japanischen Weltraumbahnhof Tanegashima aufgebrochen. Es ist die erste Mission, bei der Material von der Marsregion zur Erde gebracht werden soll.",
+   "u": "https://www.tagesschau.de/wissen/weltraum/start-mission-mars-mond-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T20:43:14+00:00"
+  },
+  {
    "t": "\"Idefix\" soll Rätsel der Mars-Monde lösen",
-   "s": "Die japanische Mission MMX soll ab heute mit dem deutsch-französischen Rover \"Idefix\" zum Marsmond Phobos fliegen. Dort soll \"Idefix\" endlich klären, woher die rätselhaften Monde des Mars stammen. Von Jan Kerckhoff.",
+   "s": "Die japanische Mission MMX soll ab heute mit dem deutsch-französischen Rover \"Idefix\" zum Mars-Mond Phobos fliegen. Dort soll \"Idefix\" endlich klären, woher die rätselhaften Monde des Mars stammen. Von Jan Kerckhoff.",
    "u": "https://www.tagesschau.de/wissen/weltraum/mars-monde-mission-100.html",
    "q": "Tagesschau",
    "d": "2026-10-19T14:59:24+00:00"
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html",
    "q": "Tagesschau",
    "d": "2026-10-05T04:32:01+00:00"
-  },
-  {
-   "t": "Bundesweit Menschenketten für mehr Klimaschutz und Einhaltung der Grundrechte",
-   "s": "Bundesweit Menschenketten für mehr Klimaschutz und Einhaltung der Grundrechte",
-   "u": "https://www.tagesschau.de/video/video-1659824.html",
-   "q": "Tagesschau",
-   "d": "2026-10-03T13:40:12+00:00"
   }
  ]
 }
