@@ -1,20 +1,41 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-20T00:21:19+00:00",
+ "updated": "2026-10-20T08:33:41+00:00",
  "items": [
   {
-   "t": "Wirtschaft vor acht vom 19.10.2026",
-   "s": "Wirtschaft vor acht vom 19.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1669136.html",
+   "t": "Immobilienkredite so teuer wie seit 2009 nicht",
+   "s": "Wer derzeit ein Haus kaufen will, muss für die Finanzierung besonders tief in die Tasche greifen. Die Zinsen für Immobilienkredite sind so hoch wie lange nicht. Dazu kommen hohe Material- und Lohnkosten.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienkredite-zinsen-darlehen-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-19T17:55:23+00:00"
+   "d": "2026-10-20T08:07:00+00:00"
   },
   {
-   "t": "Marktbericht: Neue Woche, neue Sorgen",
-   "s": "Die Börse gleicht derzeit einem Wechselbad. Die Gewinne von Freitag sind wieder dahin. Belastend wirkte neben den anhaltenden KI-Sorgen die Lage in Frankreich.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
+   "t": "Update Wirtschaft vom 20.10.2026",
+   "s": "Update Wirtschaft vom 20.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1669322.html",
    "q": "Tagesschau",
-   "d": "2026-10-19T16:29:58+00:00"
+   "d": "2026-10-20T07:49:44+00:00"
+  },
+  {
+   "t": "Marktbericht: Anleger warten auf US-Bilanzen",
+   "s": "Vor wichtigen Bilanzen einiger US-Technologieunternehmen wie SpaceX und Meta bleiben die Investoren zurückhaltend. Außerdem wirken die Turbulenzen in Frankreich, Italien und Spanien weiter nach.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T05:35:01+00:00"
+  },
+  {
+   "t": "Uruguay: Ein Land, fast unabhängig von Öl und Gas",
+   "s": "Das 3,5-Millionen-Einwohner-Land in Südamerika steckte 2008 in einer Energiekrise. Heute gilt Uruguay als Klima-Champion. Wie hat das Land die Energiewende geschafft - und würde das auch für andere Länder funktionieren? Von Anne Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/uruguay-erneuerbare-energie-klima-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T02:30:18+00:00"
+  },
+  {
+   "t": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+   "s": "Deutschland und der US-Chip-Gigant Nvidia haben eine Zusammenarbeit bei der Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest in Germany\"-Gipfel verkündet - und soll die deutsche Wettbewerbsfähigkeit stärken.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/bund-nvidia-zusammenarbeit-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-19T19:23:41+00:00"
   },
   {
    "t": "Reiche verspricht Milliarden für Wasserstoff-Ausbau",
@@ -59,13 +80,6 @@
    "d": "2026-10-19T08:07:38+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 19.10.2026",
-   "s": "Update Wirtschaft vom 19.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1668710.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T07:48:48+00:00"
-  },
-  {
    "t": "Fake-Sneaker sind ein riesiges Geschäft - doch Käufer gehen in Risiko",
    "s": "Sneaker-Kultmodelle können vierstellige Summen kosten. Viele Menschen greifen daher zu deutlich günstigeren Kopien. Doch das kann gefährlich werden. Von G. Marković-Schomburg, I. Mäueler und L.-M. Hiltscher.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/sneaker-kultmodelle-investment-100.html",
@@ -85,6 +99,13 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/energie-heizen-winter-100.html",
    "q": "Tagesschau",
    "d": "2026-10-17T10:05:01+00:00"
+  },
+  {
+   "t": "Wirtschaft vor acht vom 16102026",
+   "s": "Wirtschaft vor acht vom 16102026",
+   "u": "https://www.tagesschau.de/video/video-1667576.html",
+   "q": "Tagesschau",
+   "d": "2026-10-16T18:20:58+00:00"
   },
   {
    "t": "Wie es mit der Commerzbank nun weitergeht",
@@ -148,27 +169,6 @@
    "u": "https://www.deutschlandfunk.de/erbschaftssteuer-gerechtigkeit-verfassungsgericht-firmenerben-koalition-kommentar-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-13T15:50:00+00:00"
-  },
-  {
-   "t": "Erbschaftssteuer vor Gericht - Von Firmenerben, Sparkonten und Aktiendepots",
-   "s": "In Deutschland werden nicht nur Geld und Immobilien vererbt, auch viele Firmen gehen auf die nächste Generation über. Dass ein vererbtes Unternehmen anders besteuert wird als etwa Aktien oder ein Sparkonto, beschäftigt nun wieder das Verfassungsgericht.",
-   "u": "https://www.deutschlandfunk.de/erbschaftsteuer-gerechtigkeit-unternehmen-verfassungsgericht-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-13T09:52:00+00:00"
-  },
-  {
-   "t": "Wasser wird wertvoller",
-   "s": "Deutschland hat im Winter zu viel Wasser – und im Sommer immer weniger. Das belastet Umwelt und Wirtschaft. Die Bundesregierung fordert einen “neuen Umgang” mit Wasser. Wer viel verbraucht, soll mehr zahlen.",
-   "u": "https://www.deutschlandfunk.de/wassermangel-deutschland-strategie-bundesregierung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-06T11:45:00+00:00"
-  },
-  {
-   "t": "CO2-Zertifikate: Wie glaubwürdig ist der freiwillige Klimamarkt?",
-   "s": "Unternehmen nutzen CO2-Zertifikate, um Emissionen auszugleichen. Doch bei vielen Projekten ist unklar, wie groß die Klimawirkung wirklich ist, wohin das Geld fließt und welche Folgen sie für Landrechte und Menschen vor Ort haben.",
-   "u": "https://www.deutschlandfunk.de/klimaschutz-co2-zertifikate-emissionen-kompensation-greenwashing-kritik-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-05T10:39:00+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-20T00:21:21+00:00",
+ "updated": "2026-10-20T08:33:42+00:00",
  "items": [
+  {
+   "t": "Website veröffentlicht tausende Mails: Riesiges E-Mail-Datenleak bei der AfD",
+   "s": "Die AfD wird Opfer eines E-Mail-Datenleaks: Eine Website veröffentlicht zehntausende interne Mails. Die Partei spricht von einem „Hackerangriff“.",
+   "u": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
+   "q": "taz",
+   "d": "2026-10-20T06:33:00+00:00"
+  },
   {
    "t": "Hubertus Heil und der SPD-Vorsitz: „Ich kann es nicht ausschließen, dass ich antrete“",
    "s": "Der ehemalige Arbeitsminister macht aus seinen Ambitionen für den SPD-Parteivorsitz kein Geheimnis. Doch er stellt eine interessante Bedingung.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Rot-Gruen-Rot-in-Berlin/!6218123/",
    "q": "taz",
    "d": "2026-10-17T13:48:00+00:00"
-  },
-  {
-   "t": "Berlin nach der Wahl: Mal was anderes",
-   "s": "Gerade ist die Koalitionsfrage in Berlin Thema, aber Weichen werden auch auf Bezirksebene gestellt. In Reinickendorf will die CDU mit der AfD zusammenarbeiten.",
-   "u": "https://taz.de/Die-CDU-muss-sich-auch-in-Berlin-entscheiden-wie-sie-mit-der-AfD-umgeht/!6218178/",
-   "q": "taz",
-   "d": "2026-10-17T11:41:00+00:00"
   }
  ]
 }

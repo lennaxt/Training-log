@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-20T00:21:24+00:00",
+ "updated": "2026-10-20T08:33:43+00:00",
  "items": [
+  {
+   "t": "Referendum in Kanadas Provinz Alberta: Keine Abspaltung, aber ein Zeichen an die Regierung",
+   "s": "Die Bevölkerung in Kanadas Provinz Alberta hat gegen ein Abspaltungsreferendum entschieden. Ein Warnsignal für Ottawa war die Abstimmung dennoch.",
+   "u": "https://taz.de/Referendum-in-Kanadas-Provinz-Alberta/!6222823/",
+   "q": "taz",
+   "d": "2026-10-20T07:29:00+00:00"
+  },
   {
    "t": "US-Beziehungen in Zentralasien: Von deutschen Investoren keine Spur",
    "s": "US-Außenminister Rubio ist in Zentralasien. Washington will vor allem China und Russland von dort verdrängen. Auch Deutschland gerät ins Hintertreffen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Nach-Schuss-auf-Migrant-in-New-York/!6220512/",
    "q": "taz",
    "d": "2026-10-10T09:37:00+00:00"
-  },
-  {
-   "t": "Treibstoffdeal zwischen USA und Russland: Trump fordert Ablösung Selenskyjs",
-   "s": "Drei Wochen vor den Kongresswahlen verkündet der US-Präsident einen Deal mit Putin, um günstig an Sprit zu kommen. Für die Ukraine fordert er einen „neuen Präsidenten“.",
-   "u": "https://taz.de/Trump-kauft-Kraftstoff-von-Putin/!6220504/",
-   "q": "taz",
-   "d": "2026-10-10T06:21:00+00:00"
   }
  ]
 }

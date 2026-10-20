@@ -1,20 +1,55 @@
 {
  "name": "Inland",
- "updated": "2026-10-20T00:21:17+00:00",
+ "updated": "2026-10-20T08:33:39+00:00",
  "items": [
+  {
+   "t": "Ausgangssperren in Frankreich: Sollen sie doch drinnen bleiben",
+   "s": "Nach Plünderungen und schweren Ausschreitungen kündigt die Regierung Ausgangssperren an. Die Gelbwesten rufen für Samstag zu neuen Protesten auf.",
+   "u": "https://taz.de/Ausgangssperren-in-Frankreich/!6222840/",
+   "q": "taz",
+   "d": "2026-10-20T08:21:00+00:00"
+  },
+  {
+   "t": "Referendum in Kanadas Provinz Alberta: Keine Abspaltung, aber ein Zeichen an die Regierung",
+   "s": "Die Bevölkerung in Kanadas Provinz Alberta hat gegen ein Abspaltungsreferendum entschieden. Ein Warnsignal für Ottawa war die Abstimmung dennoch.",
+   "u": "https://taz.de/Referendum-in-Kanadas-Provinz-Alberta/!6222823/",
+   "q": "taz",
+   "d": "2026-10-20T07:29:00+00:00"
+  },
+  {
+   "t": "Website veröffentlicht tausende Mails: Riesiges E-Mail-Datenleak bei der AfD",
+   "s": "Die AfD wird Opfer eines E-Mail-Datenleaks: Eine Website veröffentlicht zehntausende interne Mails. Die Partei spricht von einem „Hackerangriff“.",
+   "u": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
+   "q": "taz",
+   "d": "2026-10-20T06:33:00+00:00"
+  },
+  {
+   "t": "Cohn-Bendit: Die Gerechtigkeitslücke wird größer",
+   "s": "Die Proteste in Frankreich sind eine Reaktion auf die sozialen Probleme des Landes. Das sagt der Publizist Daniel Cohn-Bendit. Es gäbe eine tiefgehende Unzufriedenheit. Von den Ausschreitungen würden vor allem die Rechtsradikalen profitieren.Müller, Dirk",
+   "u": "https://www.deutschlandfunk.de/zu-massenprotesten-in-frankreich-interview-daniel-cohn-bendit-ex-mdep-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-20T06:10:00+00:00"
+  },
+  {
+   "t": "Zum Investitionsgipfel - Wirtschaftsministerin Katherina Reiche fordert strukturelle Reformen",
+   "s": "Wirtschaftsministerin Katherina Reiche zieht eine positive Bilanz des Berliner Investitionsgipfels. Zugleich betonte sie, dass die sozialen Sicherungssysteme reformiert und der Arbeitsmarkt flexibilisiert werden müssten.Müller, Dirk",
+   "u": "https://www.deutschlandfunk.de/investitionsgipfel-mit-kanzler-merz-in-berlin-durchdachtes-konzept-oder-nur-ro-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-20T04:50:00+00:00"
+  },
+  {
+   "t": "Wahrscheinliches Steuer-Plus weckt Begehrlichkeiten",
+   "s": "Von heute an berät der Arbeitskreis Steuerschätzung darüber, mit wie vielen Steuereinnahmen Bund und Länder rechnen können. Es könnte mehr sein als bislang erwartet. Das weckt Begehrlichkeiten. Von Philipp Eckstein.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/steuereinnahmen-bund-laender-steuerschaetzung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T03:15:05+00:00"
+  },
   {
    "t": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
    "s": "Die Grünen und die SPD wollen in Berlin mit der Linkspartei Koalitionsverhandlungen aufnehmen. Beide Parteien entschieden sich am Abend für die Gespräche - die Abstimmung bei der Linken steht noch aus.",
    "u": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-19T19:52:35+00:00"
-  },
-  {
-   "t": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
-   "s": "Deutschland und der US-Chip-Gigant Nvidia haben eine Zusammenarbeit bei der Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest-in-Germany\"-Gipfel verkündet - und soll die deutsche Wettbewerbsfähigkeit stärken.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T19:23:41+00:00"
   },
   {
    "t": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/inland/auschwitz-ueberlebender-hoellenreiner-gestorben-100.html",
    "q": "Tagesschau",
    "d": "2026-10-19T13:04:07+00:00"
-  },
-  {
-   "t": "Sozialproteste in Rom: Italiens Vorstadtjugend kocht vor Wut",
-   "s": "Auch Italien erlebt eine Welle der Gewalt. Dem wenig zielgerichteten Protest der Jugend haben sich Gewerkschaften und Lkw-Fahrer angeschlossen.",
-   "u": "https://taz.de/Sozialproteste-in-Rom/!6222610/",
-   "q": "taz",
-   "d": "2026-10-19T12:31:00+00:00"
-  },
-  {
-   "t": "Anteil weiblicher Führungskräfte in Deutschland weiterhin niedrig",
-   "s": "Der Anteil von Frauen in Spitzenpositionen verharrt in Deutschland weiter unter dem EU-Durchschnitt: Weniger als ein Drittel der Chefposten war 2025 weiblich besetzt. Spitzenreiter im EU-Vergleich bleibt Schweden.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/frauen-anteil-fuehrungspositionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T12:19:43+00:00"
-  },
-  {
-   "t": "Frauen als Chefin: Deutschland wieder unterdurchschnittlich",
-   "s": "Die Hälfte aller Erwerbstätigen in Deutschland sind Frauen, trotzdem besetzen sie weniger als ein Drittel der Führungspositionen. Das ist unter dem EU-Durchschnitt.",
-   "u": "https://taz.de/Frauen-als-Chefin/!6222612/",
-   "q": "taz",
-   "d": "2026-10-19T10:48:00+00:00"
-  },
-  {
-   "t": "Sozialproteste in Europa - Gleiche Sorgen, unterschiedliche Reaktionen",
-   "s": "Warum eskalieren manche Proteste, während andere friedlich bleiben? Protestforscher Simon Teune erklärt, wie Polizeistrategien und politische Systeme Proteste beeinflussen können.Zerback, Sarah",
-   "u": "https://www.deutschlandfunk.de/sozialproteste-in-europa-interview-simon-teune-protestforscher-fu-berlin-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-19T10:15:00+00:00"
-  },
-  {
-   "t": "Mögliche AfD-Regierung in Sachsen-Anhalt: „Wir haben Angst“",
-   "s": "Migrantenorganisationen berichten von wachsender Ablehnung. Was sie angesichts einer drohenden AfD-Regierung in Sachsen-Anhalt vom Bund verlangen.",
-   "u": "https://taz.de/Moegliche-AfD-Regierung-in-Sachsen-Anhalt/!6222593/",
-   "q": "taz",
-   "d": "2026-10-19T09:52:00+00:00"
   }
  ]
 }

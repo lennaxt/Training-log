@@ -1,7 +1,49 @@
 {
  "name": "Ausland",
- "updated": "2026-10-20T00:21:18+00:00",
+ "updated": "2026-10-20T08:33:40+00:00",
  "items": [
+  {
+   "t": "Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht",
+   "s": "In Paris war das Betreten zentraler Plätze verboten, in Lyon durfte man nur mit triftigem Grund auf die Straße. Die nächtlichen Ausgangssperren haben sich aus Sicht der Regierung bewährt. Kommende Nacht soll es wieder welche geben - wenn nötig.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-ausgangssperren-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T08:28:16+00:00"
+  },
+  {
+   "t": "Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben",
+   "s": "In der kanadischen Provinz Alberta gibt es kein Referendum über eine Abspaltung vom Rest des Landes. Medienberichten zufolge votierte eine Mehrheit für die nationale Einheit. Die Separatismus-Bestrebungen hatten auch das Interesse Trumps geweckt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T07:52:06+00:00"
+  },
+  {
+   "t": "Wahlen in den USA: Was zu den Midterms wichtig ist",
+   "s": "Es ist ein wichtiger Stimmungstest für Präsident Trump: In zwei Wochen sind die US-Bürger zu den Zwischenwahlen aufgerufen. Wer wird gewählt, welche Themen bestimmen den Wahlkampf und welche Chancen haben die Demokraten? Von E. Aretz und J. Unsöld.",
+   "u": "https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T06:00:43+00:00"
+  },
+  {
+   "t": "Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj",
+   "s": "\"Wir haben der Ukraine viel gegeben - sie hat uns nichts gegeben\": US-Präsident Trump verschärft den Ton gegen Selenskyj. Der ukrainische Präsident wiederum wirft den USA vor, Waffenlieferungen zurückzuhalten.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T04:47:36+00:00"
+  },
+  {
+   "t": "Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird",
+   "s": "Lange galt die Arktis als Region mit wenigen Spannungen. Doch die geopolitische Lage hat sich grundlegend geändert, und auch der Klimawandel betrifft den hohen Norden. Eine neue EU-Strategie soll dem Rechnung tragen. Von A. Bartram.",
+   "u": "https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T04:27:24+00:00"
+  },
+  {
+   "t": "Uruguay: Ein Land, fast unabhängig von Öl und Gas",
+   "s": "Das 3,5-Millionen-Einwohner-Land in Südamerika steckte 2008 in einer Energiekrise. Heute gilt Uruguay als Klima-Champion. Wie hat das Land die Energiewende geschafft - und würde das auch für andere Länder funktionieren? Von Anne Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/uruguay-erneuerbare-energie-klima-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T02:30:18+00:00"
+  },
   {
    "t": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
    "s": "Ein heftiges Sturmtief hat Straßen und Ortschaften im Südosten Spaniens unter Wasser gesetzt. Menschen flüchten vor den Wassermassen auf Hausdächer, es gab mindestens vier Tote. Auf Mallorca fiel das Unwetter weniger heftig aus als befürchtet.",
@@ -101,13 +143,6 @@
    "d": "2026-10-18T22:23:09+00:00"
   },
   {
-   "t": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
-   "s": "Die heftigen Ausschreitungen haben Frankreich erschüttert. Und auch am Sonntag gab es wieder Zusammenstöße. In einer Ansprache kündigte Präsident Macron an, durchzugreifen - notfalls mit einem Verbot der Demonstrationen.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-18T19:46:21+00:00"
-  },
-  {
    "t": "US-Midterms: Können die Republikaner wieder bei Latinos punkten?",
    "s": "Fast die Hälfte der Latinos in den USA wählte 2024 Donald Trump - und trug damit maßgeblich zu seinem Erfolg bei. Viele setzten große Hoffnungen in ihn. Wie ist die Stimmung unter Latinos kurz vor den Zwischenwahlen? Von N. Barth.",
    "u": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
@@ -129,46 +164,11 @@
    "d": "2026-10-18T15:18:33+00:00"
   },
   {
-   "t": "Gewalt bei Protesten beschäftigt auch Italien",
-   "s": "Proteste und Krawalle hat es am Samstag auch in Italien gegeben. Ministerpräsidentin Meloni verurteilte die Gewalt, von der vor allem Mailand betroffen war. Die Demonstranten forderten höhere Löhne und mehr Investitionen.",
-   "u": "https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-18T14:27:58+00:00"
-  },
-  {
    "t": "COP17 zur Biodiversität: Den Holzdieben in Armenien auf der Spur",
    "s": "Ab Montag beraten Vertreter von fast 200 Ländern auf der 17. UN-Konferenz zur biologischen Vielfalt, wie sich ihre selbst gesteckten Ziele noch erreichen lassen. Unterwegs mit Umweltschützern im Gastland Armenien. Von Norbert Hahn.",
    "u": "https://www.tagesschau.de/ausland/asien/un-biodiversitaetskonferenz-armenien-100.html",
    "q": "Tagesschau",
    "d": "2026-10-18T06:48:59+00:00"
-  },
-  {
-   "t": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
-   "s": "Während der Olivenernte im Westjordanland häuft sich die Gewalt israelischer Siedler gegen palästinensische Helfer. In mehreren Orten sind dabei Menschen verletzt worden, unter ihnen auch eine US-Journalistin.",
-   "u": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T18:09:16+00:00"
-  },
-  {
-   "t": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
-   "s": "Viele Wähler unterstützten 2024 Trumps Versprechen einer rigiden Abschiebepolitik. Doch vor den Zwischenwahlen zeigt sich: Das rücksichtslose Vorgehen der Einwanderungsbehörde ICE befremdet Bürger - und Unternehmer. Von Carsten Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T17:44:57+00:00"
-  },
-  {
-   "t": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
-   "s": "US-Präsident Trump setzt geplante Russland-Sanktionen aus - während Angriffe auf die Infrastruktur laut dem ukrainischen Staatschef Selenskyj zunehmen. Er warnt, Trumps Entscheidung werde Moskau nur weiter bestärken.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T17:26:53+00:00"
-  },
-  {
-   "t": "Rechtsruck - auch bei Israels linken Parteien?",
-   "s": "Israels politische Landschaft ist über die Jahre nach rechts gerückt. Der Terroranschlag der Hamas vor gut drei Jahren hat diese Entwicklung verstärkt. Wie wirkt sich das auf linke Parteien aus? Von Jan-Christoph Kitzler.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-linke-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T16:09:53+00:00"
   }
  ]
 }
