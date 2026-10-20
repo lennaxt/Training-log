@@ -1,7 +1,70 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-20T08:33:41+00:00",
+ "updated": "2026-10-20T14:19:09+00:00",
  "items": [
+  {
+   "t": "Die Deutsche Post will 2027 das Porto für Briefe erhöhen",
+   "s": "Die Deutsche Post will das Briefporto im kommenden Januar von 95 Cent auf 1,15 Euro anheben. Auch Postkarten, Großbriefe und andere Produkte sollen 2027 teurer werden - sofern die Bundesnetzagentur die Erhöhungen genehmigt.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/porto-standardbrief-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T14:00:04+00:00"
+  },
+  {
+   "t": "Bundesregierung spricht von Investitionszusagen in Milliardenhöhe",
+   "s": "Der Investitionsgipfel in Berlin soll mehr Kapital nach Deutschland locken. Kanzler Merz und Wirtschaftsministerin Reiche sprechen bereits von ersten Zusagen: Unternehmen sollen milliardenschwere Investitionen angekündigt haben.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/investitionsgipfel-114.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T12:23:47+00:00"
+  },
+  {
+   "t": "Deutschlands schwindende Anziehungskraft für Investoren",
+   "s": "Für internationale Konzerne ist Deutschland seit Jahren immer weniger attraktiv. Sie meiden den Standort ganz oder halbieren geplante Investitionen, wie etwa der Pharmakonzern Eli Lilly in Alzey. Die Folgen sind gravierend. Von Axel John.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/investoren-118.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T12:23:23+00:00"
+  },
+  {
+   "t": "Marktbericht: Ölpreis springt auf Fünf-Monats-Hoch",
+   "s": "Neue Angriffe im Persischen Golf machen Öl wieder so teuer wie im Mai. Das schürt die Sorge vor einem neuen Inflationsschub. Die einzige Hoffnung bleibt derzeit eine Annäherung der Kriegsparteien.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T12:15:27+00:00"
+  },
+  {
+   "t": "Deutsche mögen Nudeln - am liebsten aus dem Ausland",
+   "s": "Der Konsum von Nudeln hat sich hierzulande seit 1990 verdoppelt. Außerdem gehört Deutschland zu den größten Herstellern in der EU. Unangefochtener Spitzenreiter ist Italien, danach folgt Spanien.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/nudeln-hersteller-eu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T11:22:58+00:00"
+  },
+  {
+   "t": "Verkehrsminister planen Deutschlandticket für Gelegenheitsfahrer",
+   "s": "Nicht alle Menschen nutzen die Bahn täglich. Die Verkehrsminister der Länder wollen nun auch für Gelegenheitsfahrer ein bundesweit gültiges Ticket einführen.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-316.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T10:52:48+00:00"
+  },
+  {
+   "t": "Abkehr vom Verbrenner-Aus: Unterhändler im Europaparlament finden Kompromiss",
+   "s": "2035 sollte eigentlich Schluss sein mit Verbrennermotoren bei Neuwagen in der EU. Inzwischen sieht es aber so aus, als könnte das komplette Verbrenner-Aus kippen. Die Unterhändler der Fraktionen im EU-Parlament haben sich bereits geeinigt. Von J.-M. Magro.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-verbrenner-klima-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T10:16:34+00:00"
+  },
+  {
+   "t": "Steht Europas größtes Stahlwerk endgültig vor dem Aus?",
+   "s": "Lange lebte Taranto vom größten Stahlwerk Italiens - und mit dessen Umweltverschmutzung. Ein Urteil könnte zum Wendepunkt werden. Während Beschäftigte um ihre Jobs kämpfen, fordern Einwohner eine Schließung. Von Verena Schälter.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T08:42:49+00:00"
+  },
+  {
+   "t": "Chance oder Risiko: Zusammenarbeit deutscher Unternehmen mit Big Tech",
+   "s": "Bosch setzt voll auf Künstliche Intelligenz und arbeitet dafür eng mit Microsoft zusammen. Doch Digitalexperten warnen, dass sich die deutsche Industrie zu sehr in die Abhängigkeit von US-Techriesen begibt. Von Laura Bisch.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/bosch-microsoft-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T08:34:02+00:00"
+  },
   {
    "t": "Immobilienkredite so teuer wie seit 2009 nicht",
    "s": "Wer derzeit ein Haus kaufen will, muss für die Finanzierung besonders tief in die Tasche greifen. Die Zinsen für Immobilienkredite sind so hoch wie lange nicht. Dazu kommen hohe Material- und Lohnkosten.",
@@ -15,13 +78,6 @@
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1669322.html",
    "q": "Tagesschau",
    "d": "2026-10-20T07:49:44+00:00"
-  },
-  {
-   "t": "Marktbericht: Anleger warten auf US-Bilanzen",
-   "s": "Vor wichtigen Bilanzen einiger US-Technologieunternehmen wie SpaceX und Meta bleiben die Investoren zurückhaltend. Außerdem wirken die Turbulenzen in Frankreich, Italien und Spanien weiter nach.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T05:35:01+00:00"
   },
   {
    "t": "Uruguay: Ein Land, fast unabhängig von Öl und Gas",
@@ -113,62 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-uebernahme-100.html",
    "q": "Tagesschau",
    "d": "2026-10-16T14:25:09+00:00"
-  },
-  {
-   "t": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
-   "s": "Deutschland will beim KI-Boom mitwirken - die Industrie soll zukunftsfähig gemacht und der Standort für Investoren attraktiver werden. Um das zu erreichen, hat die Regierung offenbar einen Deal mit Nvidia eingefädelt.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T13:13:40+00:00"
-  },
-  {
-   "t": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
-   "s": "Deutschland und Frankreich haben sich auf die Lockerung des eigentlich beschlossenen Verbrenner-Aus geeinigt. Das lässt die Aktien der Autobauer nach oben springen. Und auch der DAX kann am Mittag zulegen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T12:17:39+00:00"
-  },
-  {
-   "t": "Deutschland und Frankreich einig bei Lockerung von Verbrenner-Aus",
-   "s": "Frankreich und Deutschland haben sich auf eine Aufweichung des Verbrenner-Aus verständigt. Das gaben beide Regierungen nun bekannt. Entsprechende Autos könnten so auch nach 2035 in der EU neu zugelassen werden.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/frankreich-deutschland-verbrenner-aus-einigung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T11:48:16+00:00"
-  },
-  {
-   "t": "Wie Anleger bei ETFs den Überblick behalten",
-   "s": "Einfach, günstig, transparent: Damit haben ETFs Millionen Anleger überzeugt. Doch die Branche bringt immer kompliziertere Produkte auf den Markt - oft mit höheren Gebühren und zusätzlichen Risiken. Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/etf-geldanlage-kosten-risiken-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T11:25:34+00:00"
-  },
-  {
-   "t": "Doctolib und die KI – Was die Ärzteplattform über Patienten weiß",
-   "s": "Der amerikanische Chip-Hersteller Nvidia steigt bei Doctolib ein. Damit will die Ärzteplattform auch ihre KI-Kompetenzen ausweiten. Welche Auswirkungen könnte das haben? Und: Wie sicher sind unsere Daten dort eigentlich?",
-   "u": "https://www.deutschlandfunk.de/doctolib-nvidia-einstieg-datenschutz-kritik-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-15T12:06:00+00:00"
-  },
-  {
-   "t": "In welchen Jobs Digitalisierung zu Stress führen kann",
-   "s": "Zunehmende Digitalisierung kann die Gesundheit von Beschäftigten gefährden. Besonders stark von diesem Stress betroffen sind einer neuen Studie zufolge Menschen mit überwiegend körperlichen Tätigkeiten. Von Thomas Samboll.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/digitaler-stress-koerperliche-arbeit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-15T09:47:14+00:00"
-  },
-  {
-   "t": "Der Kampf ums Trinkwasser im brandenburgischen Baruth",
-   "s": "Die Unternehmen Red Bull und Rauch produzieren in Baruth Getränke und dürfen dabei 92 Prozent des Grundwassers, das der brandenburgischen Stadt zur Verfügung steht, entnehmen. Eine Bürgerinitiative wehrt sich und kämpft um Akteneinsicht.Von Andrea Rehmsmeier",
-   "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-14T16:40:00+00:00"
-  },
-  {
-   "t": "Kommentar zur Erbschaftssteuer: Mehr Gerechtigkeit wagen!",
-   "s": "Das Bundesverfassungsgericht beschäftigt sich mit der Erbschaftssteuer. Hierbei geht es um Fragen der Gerechtigkeit, mit denen sich eigentlich die Politik auseinandersetzen sollte. Die Koalition könnte dabei Handlungsfähigkeit zeigen.Ein Standpunkt von Gudula Geuther",
-   "u": "https://www.deutschlandfunk.de/erbschaftssteuer-gerechtigkeit-verfassungsgericht-firmenerben-koalition-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-13T15:50:00+00:00"
   }
  ]
 }

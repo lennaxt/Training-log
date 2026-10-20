@@ -1,10 +1,66 @@
 {
  "name": "Inland",
- "updated": "2026-10-20T08:33:39+00:00",
+ "updated": "2026-10-20T14:19:07+00:00",
  "items": [
   {
+   "t": "Mit wem will die SPD wohin?",
+   "s": "Bislang kursieren nur Namen. Handfeste Bewerbungen für den SPD-Chefposten gibt es noch nicht, dafür einige Absagen. Einer sagt nicht Nein, andere sagen gar nichts. Doch die SPD muss mehr klären, als nur Personalfragen. Von Christina Nagel.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-kurs-vorsitz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T14:13:44+00:00"
+  },
+  {
+   "t": "Auto rast in australische Abgeordnete: Sie war kein Feindbild, trotzdem wurde Helen Haines Opfer",
+   "s": "In Australien wurde die unabhängige Abgeordnete Helen Haines bei einem Angriff mit einem Auto schwer verletzt. Das löst eine Debatte aus.",
+   "u": "https://taz.de/Auto-rast-in-australische-Abgeordnete/!6222844/",
+   "q": "taz",
+   "d": "2026-10-20T14:05:00+00:00"
+  },
+  {
+   "t": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
+   "s": "Unbekannte haben einen Hackerangriff auf Mail-Konten der AfD verübt und laut eigenen Angaben Daten daraus veröffentlicht. Die AfD bestätigte einen Angriff auf Postfächer, die aber überwiegend nicht mehr genutzt würden.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T13:49:30+00:00"
+  },
+  {
+   "t": "55 Festnahmen in Portugal: Polizei räumt Protestlager gegen Wohnungsnot in Lissabon",
+   "s": "In der portugiesischen Hauptstadt Lissabon demonstrierten Menschen gegen hohe Mieten und richteten ein Protestcamp ein. Nun ging die Polizei dagegen vor.",
+   "u": "https://taz.de/Polizei-raeumt-Protestlager-gegen-Wohnungsnot-in-Lissabon/!6222989/",
+   "q": "taz",
+   "d": "2026-10-20T12:49:00+00:00"
+  },
+  {
+   "t": "Bundesregierung spricht von Investitionszusagen in Milliardenhöhe",
+   "s": "Der Investitionsgipfel in Berlin soll mehr Kapital nach Deutschland locken. Kanzler Merz und Wirtschaftsministerin Reiche sprechen bereits von ersten Zusagen: Unternehmen sollen milliardenschwere Investitionen angekündigt haben.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/investitionsgipfel-114.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T12:23:47+00:00"
+  },
+  {
+   "t": "Göttinger Jugendzentrum unter Druck: Finanzamt droht Juzi mit Entzug der Gemeinnützigkeit",
+   "s": "Wegen Hinweisen auf „Antifa“-Bezüge droht dem Juzi Göttingen der Entzug der Gemeinnützigkeit. Der Verein sieht sich einem politischen Angriff ausgesetzt.",
+   "u": "https://taz.de/Goettinger-Jugendzentrum-unter-Druck/!6222228/",
+   "q": "taz",
+   "d": "2026-10-20T11:42:00+00:00"
+  },
+  {
+   "t": "Die eine Frage: Soll man AfD-Wählern Argumente entgegenhalten?",
+   "s": "Man müsse mit Rechtspopulisten in einen Streit der Argumente treten, statt sie zu ignorieren oder auszugrenzen, fordert Winfried Kretschmann. Nur wie?",
+   "u": "https://taz.de/Die-eine-Frage/!6218160/",
+   "q": "taz",
+   "d": "2026-10-20T11:39:00+00:00"
+  },
+  {
+   "t": "Weniger Geld für Welternährungsprogramm: UN müssen Lebensmittelhilfe in Gaza immens streichen",
+   "s": "Im Gazastreifen verlieren Hunderttausende Menschen ihre Unterstützung durch das Welternährungsprogramm. Die Kürzungen erfolgen kurz vor Beginn des Winters.",
+   "u": "https://taz.de/Weniger-Geld-fuer-Welternaehrungsprogramm/!6222847/",
+   "q": "taz",
+   "d": "2026-10-20T08:33:00+00:00"
+  },
+  {
    "t": "Ausgangssperren in Frankreich: Sollen sie doch drinnen bleiben",
-   "s": "Nach Plünderungen und schweren Ausschreitungen kündigt die Regierung Ausgangssperren an. Die Gelbwesten rufen für Samstag zu neuen Protesten auf.",
+   "s": "Nach Plünderungen und schweren Ausschreitungen kündigt die Regierung Ausgangssperren an. Derweil gab es eine Festnahme nach dem Rathaus-Brand von Limoges.",
    "u": "https://taz.de/Ausgangssperren-in-Frankreich/!6222840/",
    "q": "taz",
    "d": "2026-10-20T08:21:00+00:00"
@@ -113,62 +169,6 @@
    "u": "https://www.deutschlandfunk.de/frust-und-charisma-wie-parteien-mobilisieren-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-19T16:40:00+00:00"
-  },
-  {
-   "t": "Streit um abschlagsfreie Rente: Trifft es am Ende die Frauen?",
-   "s": "Die Koalition ringt weiter um die sogenannte Rente mit 63. Ein Kompromiss könnte Kindererziehungszeiten infrage stellen. Die Leidtragenden: Mütter.",
-   "u": "https://taz.de/Koalition-streitet-ueber-abschlagsfreie-Rente-Trifft-es-am-Ende-die-Frauen/!6222606/",
-   "q": "taz",
-   "d": "2026-10-19T16:38:00+00:00"
-  },
-  {
-   "t": "Sozialproteste in Lissabon: Jugend zeltet",
-   "s": "In Lissabon wird, inspiriert von den Protesten in Spanien, gegen Wuchermieten protestiert. Die Jugend will einen „iberischen Generalstreik“.",
-   "u": "https://taz.de/Sozialproteste-in-Lissabon/!6222613/",
-   "q": "taz",
-   "d": "2026-10-19T16:24:00+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Macrons Regierung wankt",
-   "s": "Nach den Ausschreitungen am Wochenende ist Frankreich entsetzt. Die politischen Lager streiten über die Schuld an der Eskalation.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6222609/",
-   "q": "taz",
-   "d": "2026-10-19T16:23:00+00:00"
-  },
-  {
-   "t": "Protest gegen „Remigrations“-Banner: Pleite für Sellners Netzwerk im Hamburger Stadtpark",
-   "s": "Die rechtsextreme Kampagne „Save Europe Act Now“ wollte in Hamburg ein riesiges Banner entrollen. Über Tausend Menschen verhinderten die Aktion.",
-   "u": "https://taz.de/Protest-gegen-Remigrations-Banner/!6222684/",
-   "q": "taz",
-   "d": "2026-10-19T15:08:00+00:00"
-  },
-  {
-   "t": "AfD-Hassnetzwerke auf X: Staatsanwalt ermittelt gegen rechten Troll Patrick Kolek",
-   "s": "Doxxen, swatten, hassen: Der Aktivist Patrick Kolek orchestriert extrem rechte Online-Kampagnen. Seine Bubble reicht bis zur AfD. Nun ermittelt die Generalstaatsanwaltschaft.",
-   "u": "https://taz.de/AfD-Hassnetzwerke-auf-X/!6222229/",
-   "q": "taz",
-   "d": "2026-10-19T14:30:00+00:00"
-  },
-  {
-   "t": "US-Beziehungen in Zentralasien: Von deutschen Investoren keine Spur",
-   "s": "US-Außenminister Rubio ist in Zentralasien. Washington will vor allem China und Russland von dort verdrängen. Auch Deutschland gerät ins Hintertreffen.",
-   "u": "https://taz.de/US-Beziehungen-in-Zentralasien/!6222587/",
-   "q": "taz",
-   "d": "2026-10-19T14:06:00+00:00"
-  },
-  {
-   "t": "Asylpolitik in Deutschland: Hessen schiebt Eltern ohne ihre Kinder ab",
-   "s": "Deutsche Behörden nehmen die Kleinkinder einer überforderten kurdischen Flüchtlingsfamilie in Obhut – und zwingen die Eltern, ohne sie in die Türkei zurückzukehren.",
-   "u": "https://taz.de/Asylpolitik-in-Deutschland/!6222573/",
-   "q": "taz",
-   "d": "2026-10-19T13:34:00+00:00"
-  },
-  {
-   "t": "Auschwitz-Überlebender Höllenreiner im Alter von 92 gestorben",
-   "s": "Hermann Höllenreiner überlebte das Vernichtungslager Auschwitz - und floh im Alter von elf Jahren von einem der Todesmärsche. Mit 92 Jahren ist er nun gestorben.",
-   "u": "https://www.tagesschau.de/inland/auschwitz-ueberlebender-hoellenreiner-gestorben-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T13:04:07+00:00"
   }
  ]
 }

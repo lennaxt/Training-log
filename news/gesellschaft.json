@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-20T08:33:43+00:00",
+ "updated": "2026-10-20T14:19:10+00:00",
  "items": [
+  {
+   "t": "55 Festnahmen in Portugal: Polizei räumt Protestlager gegen Wohnungsnot in Lissabon",
+   "s": "In der portugiesischen Hauptstadt Lissabon demonstrierten Menschen gegen hohe Mieten und richteten ein Protestcamp ein. Nun ging die Polizei dagegen vor.",
+   "u": "https://taz.de/Polizei-raeumt-Protestlager-gegen-Wohnungsnot-in-Lissabon/!6222989/",
+   "q": "taz",
+   "d": "2026-10-20T12:49:00+00:00"
+  },
+  {
+   "t": "Ausgangssperren in Frankreich: Sollen sie doch drinnen bleiben",
+   "s": "Nach Plünderungen und schweren Ausschreitungen kündigt die Regierung Ausgangssperren an. Derweil gab es eine Festnahme nach dem Rathaus-Brand von Limoges.",
+   "u": "https://taz.de/Ausgangssperren-in-Frankreich/!6222840/",
+   "q": "taz",
+   "d": "2026-10-20T08:21:00+00:00"
+  },
   {
    "t": "Russische Angriffe auf Kyjiw: Kein Versteck, nirgends",
    "s": "Die ukrainische Hauptstadt Kyjiw ist täglich russischen Angriffen ausgesetzt. Um Schutzräume aufzusuchen, bleibt vielen Menschen immer weniger Zeit.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Urteil-gegen-Nordirlands-Ex-Premier/!6222223/",
    "q": "taz",
    "d": "2026-10-16T14:00:00+00:00"
-  },
-  {
-   "t": "Festnahme Chefredakteur „Nowaja Gaseta“: Verhöre gegen Haltung",
-   "s": "Sergei Sokolow, Chefredakteur der Moskauer „Nowaja Gaseta“, ist wieder frei. Vieles deutet darauf hin, dass es sich um eine letzte Atempause handelt.",
-   "u": "https://taz.de/Festnahme-Chefredakteur-Nowaja-Gaseta/!6222202/",
-   "q": "taz",
-   "d": "2026-10-16T11:41:00+00:00"
-  },
-  {
-   "t": "Frankreichs extreme Rechte: Dreister lügen mit Bardella",
-   "s": "Der Chef der rechtsextremen Partei Rassemblement National Jordan Bardella bestreitet nach wie vor, sich als junger Mann antisemitisch geäußert zu haben.",
-   "u": "https://taz.de/Frankreichs-extreme-Rechte/!6221919/",
-   "q": "taz",
-   "d": "2026-10-16T09:24:00+00:00"
   }
  ]
 }

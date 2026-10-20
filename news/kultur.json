@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-20T08:33:43+00:00",
+ "updated": "2026-10-20T14:19:11+00:00",
  "items": [
+  {
+   "t": "Aktivisten über Menschenrechte in Mexiko: „Die indigene Bevölkerung ist überproportional betroffen“",
+   "s": "Wie prekär die Menschenrechtslage in Mexiko ist, berichten die Lehrerin Estela Hernández Jiménez und der Menschenrechtsanwalt Vico Gálvez in Hamburg.",
+   "u": "https://taz.de/Aktivisten-ueber-Menschenrechte-in-Mexiko/!6221616/",
+   "q": "taz",
+   "d": "2026-10-20T10:52:00+00:00"
+  },
   {
    "t": "Referendum in Kanadas Provinz Alberta: Keine Abspaltung, aber ein Zeichen an die Regierung",
    "s": "Die Bevölkerung in Kanadas Provinz Alberta hat gegen ein Abspaltungsreferendum entschieden. Ein Warnsignal für Ottawa war die Abstimmung dennoch.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Hinrichtung-im-Livestream/!6220517/",
    "q": "taz",
    "d": "2026-10-10T14:13:00+00:00"
-  },
-  {
-   "t": "Nach Schuss auf Migrant in New York: Mamdani will ICE abschaffen",
-   "s": "Zohran Mamdani, Bürgermeister von NYC, kritisierte den Einsatz von ICE‑Agenten. Am Donnerstagabend schossen sie auf einen Mann, sein fünfjähriger Sohn saß daneben.",
-   "u": "https://taz.de/Nach-Schuss-auf-Migrant-in-New-York/!6220512/",
-   "q": "taz",
-   "d": "2026-10-10T09:37:00+00:00"
   }
  ]
 }

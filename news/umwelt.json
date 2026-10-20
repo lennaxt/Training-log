@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-20T08:33:42+00:00",
+ "updated": "2026-10-20T14:19:10+00:00",
  "items": [
+  {
+   "t": "Die eine Frage: Soll man AfD-Wählern Argumente entgegenhalten?",
+   "s": "Man müsse mit Rechtspopulisten in einen Streit der Argumente treten, statt sie zu ignorieren oder auszugrenzen, fordert Winfried Kretschmann. Nur wie?",
+   "u": "https://taz.de/Die-eine-Frage/!6218160/",
+   "q": "taz",
+   "d": "2026-10-20T11:39:00+00:00"
+  },
   {
    "t": "Website veröffentlicht tausende Mails: Riesiges E-Mail-Datenleak bei der AfD",
    "s": "Die AfD wird Opfer eines E-Mail-Datenleaks: Eine Website veröffentlicht zehntausende interne Mails. Die Partei spricht von einem „Hackerangriff“.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Ungleichheit-im-Gesundheitssystem/!6218163/",
    "q": "taz",
    "d": "2026-10-17T13:50:00+00:00"
-  },
-  {
-   "t": "Rot-Grün-Rot in Berlin: Aufbruch oder Absturz?",
-   "s": "Berlin könnte zeigen, dass der Rechtsruck nicht unausweichlich ist. Doch dafür muss das mögliche Linksbündnis erst die eigenen Konflikte überwinden.",
-   "u": "https://taz.de/Rot-Gruen-Rot-in-Berlin/!6218123/",
-   "q": "taz",
-   "d": "2026-10-17T13:48:00+00:00"
   }
  ]
 }

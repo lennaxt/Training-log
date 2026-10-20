@@ -1,20 +1,62 @@
 {
  "name": "Ausland",
- "updated": "2026-10-20T08:33:40+00:00",
+ "updated": "2026-10-20T14:19:08+00:00",
  "items": [
+  {
+   "t": "Unruhen in Frankreich: Festnahme nach Brand von Rathaus in Limoges",
+   "s": "Während der Ausschreitungen in Frankreich war das historische Rathaus von Limoges abgebrannt. Das Feuer war zu einem Symbol der Unruhen geworden. Nun gab es eine Festnahme: Es soll sich um einen polizeibekannten Linksextremisten handeln.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-limoges-brandstiftung-festnahme-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T13:19:11+00:00"
+  },
+  {
+   "t": "US-Midterms: Wie Preise die Zwischenwahlen beeinflussen könnten",
+   "s": "Inflation, Lebenshaltungskosten, Treibstoffpreise: Viele Amerikaner machen Präsident Trump für die hohen Preise verantwortlich. Für die Republikaner könnte das vor den Midterms zum Problem werden. Von Carsten Kühntopp.",
+   "u": "https://www.tagesschau.de/ausland/amerika/us-zwischenwahlen-wirtschaft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T13:07:51+00:00"
+  },
+  {
+   "t": "Neuer Reaktorblock am Netz: Slowakei überholt Frankreich beim Atomstrom",
+   "s": "Die Slowakei hat einen neuen Reaktorblock ans Netz genommen. Wenn er Volllast erreicht, wird sie zum Land mit dem weltweit höchsten Atomanteil im Energiemix. Und Staatschef Fico plant bereits das nächste Kraftwerk. Von Marianne Allweiss.",
+   "u": "https://www.tagesschau.de/ausland/europa/slowakei-atomreaktor-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T12:51:16+00:00"
+  },
+  {
+   "t": "Selenskyj trifft sich mit US-Gesandtem Witkoff zu Gesprächen in Oslo",
+   "s": "In Oslo kommt der ukrainische Präsident Selenskyj mit dem US-Gesandten Witkoff zu Gesprächen zusammen. Zuletzt hatten sich die Beziehungen zwischen den USA der Ukraine wegen Trumps Umgang mit Russland wieder verschlechtert.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-treffen-witkoff-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T10:50:05+00:00"
+  },
+  {
+   "t": "Neue EU-Strategie: Ein eigener Plan für die Arktis",
+   "s": "Was in der Arktis klimatisch, wirtschaftlich und militärisch geschieht, ist von enormer Bedeutung für Europa - dieser Erkenntnis will die EU nun Taten folgen lassen. Heute will sie eine Strategie für die Region vorstellen. Von T. Spickhofen.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T10:44:55+00:00"
+  },
+  {
+   "t": "Vor Wahl in Israel: Ex-General Eisenkot könnte Netanjahu schlagen",
+   "s": "Vor der Wahl in Israel zeichnet sich ein knappes Rennen ab. Während Amtsinhaber Netanjahu auf Polarisierung setzt, versucht sein Herausforderer Eisenkot, die gesellschaftliche Spaltung zu überwinden. Wer ist der Ex-Militär? Von Bettina Meier.",
+   "u": "https://www.tagesschau.de/ausland/israel-wahlkampf-eisenkot-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T10:25:53+00:00"
+  },
+  {
+   "t": "Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben",
+   "s": "In der kanadischen Provinz Alberta gibt es kein Referendum über eine Abspaltung vom Rest des Landes. Eine deutliche Mehrheit votierte für die nationale Einheit. Die Separatismus-Bestrebungen hatten auch das Interesse Trumps geweckt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T09:25:41+00:00"
+  },
   {
    "t": "Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht",
    "s": "In Paris war das Betreten zentraler Plätze verboten, in Lyon durfte man nur mit triftigem Grund auf die Straße. Die nächtlichen Ausgangssperren haben sich aus Sicht der Regierung bewährt. Kommende Nacht soll es wieder welche geben - wenn nötig.",
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-ausgangssperren-100.html",
    "q": "Tagesschau",
    "d": "2026-10-20T08:28:16+00:00"
-  },
-  {
-   "t": "Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben",
-   "s": "In der kanadischen Provinz Alberta gibt es kein Referendum über eine Abspaltung vom Rest des Landes. Medienberichten zufolge votierte eine Mehrheit für die nationale Einheit. Die Separatismus-Bestrebungen hatten auch das Interesse Trumps geweckt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T07:52:06+00:00"
   },
   {
    "t": "Wahlen in den USA: Was zu den Midterms wichtig ist",
@@ -87,13 +129,6 @@
    "d": "2026-10-19T12:07:14+00:00"
   },
   {
-   "t": "Flugzeug wegen Bombendrohung in Bulgarien notgelandet",
-   "s": "Auf dem Weg von Tel Aviv nach Wien ist ein Flugzeug von Austrian Airlines notgelandet. Zuvor hatte es eine Bombendrohung gegeben. Nachdem bei einer Durchsuchung der Maschine nichts gefunden wurde, konnte sie ihren Flug fortsetzen.",
-   "u": "https://www.tagesschau.de/ausland/europa/notlandung-bulgarien-bombendrohung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T11:47:03+00:00"
-  },
-  {
    "t": "Louvre: Weiterhin keine Spur von den geraubten Kronjuwelen",
    "s": "Vor einem Jahr erbeuteten Diebe die französischen Kronjuwelen aus dem Pariser Louvre. Das Museum hat seine Sicherheitsvorkehrungen mittlerweile verschärft, aber vom Schmuck fehlt weiterhin jede Spur. Von Cai Rienäcker.",
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-ein-jahr-louvre-einbruch-100.html",
@@ -115,25 +150,11 @@
    "d": "2026-10-19T09:04:40+00:00"
   },
   {
-   "t": "Sturmtief \"Adam\": Behörden warnen vor Unwetter auf Mallorca",
-   "s": "Mallorca bereitet sich auf schwere Regenfälle vor. Wegen des Sturmtiefs \"Adam\" herrscht Warnstufe Rot, die Schulen sind geschlossen, viele Flüge bereits ausgefallen. Auf dem spanischen Festland kam es bereits zu Überflutungen.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-mallorca-sturmwarnung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T05:31:49+00:00"
-  },
-  {
    "t": "Alberta stimmt über mögliche Abspaltung von Kanada ab",
    "s": "Seit einigen Jahren erstarkt in der ölreichen Provinz Alberta im Westen Kanadas eine Separatistenbewegung - unterstützt auch von US-Präsident Trump. Heute wird über ein mögliches Unabhängigkeitsreferendum abgestimmt. Von Martin Ganslmeier.",
    "u": "https://www.tagesschau.de/ausland/amerika/kanada-alberta-volksabstimmung-100.html",
    "q": "Tagesschau",
    "d": "2026-10-19T04:55:25+00:00"
-  },
-  {
-   "t": "Ausschreitungen in Frankreich: Fassungslosigkeit und Schuldzuweisungen",
-   "s": "Mit Schock und Unverständnis haben viele Menschen in Frankreich auf die Gewalt bei den Protesten reagiert. Die politischen Lager kämpfen um die Deutungshoheit - und machen sich gegenseitig für die Eskalation verantwortlich. Von C. Dylla.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-politische-reaktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T02:17:03+00:00"
   },
   {
    "t": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
    "q": "Tagesschau",
    "d": "2026-10-18T19:00:53+00:00"
-  },
-  {
-   "t": "Drohne in Litauens Luftraum eingedrungen und abgestürzt",
-   "s": "NATO-Kampfjets stiegen auf, Bürger wurden gewarnt: In Litauen hat eine Drohne für Alarm gesorgt, weil sie in den Luftraum eindrang. Kiew entschuldigte sich kurz darauf - und vermutet eine Störaktion Russlands dahinter.",
-   "u": "https://www.tagesschau.de/ausland/europa/litauen-drohne-absturz-ukraine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-18T16:13:24+00:00"
-  },
-  {
-   "t": "Iran unterbreitet den USA ein Angebot - und droht zugleich",
-   "s": "Irans Regierung hat gemischte Signale nach Washington gesendet: Während Außenminister Araghtschi das Angebot erneuerte, die Straße von Hormus zu öffnen, drohte der neu ernannte Verteidigungsminister Ketabtschi US-Präsident Trump.",
-   "u": "https://www.tagesschau.de/ausland/asien/iran-hormus-angebot-drohung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-18T15:18:33+00:00"
-  },
-  {
-   "t": "COP17 zur Biodiversität: Den Holzdieben in Armenien auf der Spur",
-   "s": "Ab Montag beraten Vertreter von fast 200 Ländern auf der 17. UN-Konferenz zur biologischen Vielfalt, wie sich ihre selbst gesteckten Ziele noch erreichen lassen. Unterwegs mit Umweltschützern im Gastland Armenien. Von Norbert Hahn.",
-   "u": "https://www.tagesschau.de/ausland/asien/un-biodiversitaetskonferenz-armenien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-18T06:48:59+00:00"
   }
  ]
 }
