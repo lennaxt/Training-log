@@ -1,20 +1,48 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-20T14:19:10+00:00",
+ "updated": "2026-10-20T19:17:41+00:00",
  "items": [
+  {
+   "t": "Neuer Landtag von Mecklenburg-Vorpommern: Schwerin wählt nach Plan",
+   "s": "Bei der Konstituierung des Landtags von Mecklenburg-Vorpommern gab es keinen Eklat wie in Magdeburg. Aber auch hier wird deutlich, wie polarisiert das Land ist.",
+   "u": "https://taz.de/Neuer-Landtag-von-Mecklenburg-Vorpommern/!6222956/",
+   "q": "taz",
+   "d": "2026-10-20T17:57:00+00:00"
+  },
+  {
+   "t": "Antisemitismus in der Jungen Union: Gegen die eigene Brandmauer gerannt",
+   "s": "Die JU verortete Judenhass zuletzt vor allem bei der Linkspartei. Nun fällt ein eigenes Mitglied mit antisemitischen und sexistischen Kommentaren auf.",
+   "u": "https://taz.de/Junge-Union-Mitglied-faellt-mit-antisemitischen-und-sexistischen-Kommentaren-auf/!6222959/",
+   "q": "taz",
+   "d": "2026-10-20T17:53:00+00:00"
+  },
+  {
+   "t": "Interne E-Mails öffentlich: AfD blamiert sich mit Datenleak",
+   "s": "Bei der AfD kommt es zu einem E-Mail-Datenleak: Zehntausende interne Mails gelangen auf eine öffentliche Website.",
+   "u": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
+   "q": "taz",
+   "d": "2026-10-20T16:21:00+00:00"
+  },
+  {
+   "t": "Rot-Rot-Grün in Mecklenburg-Vorpommern: Zur Abwechslung mal keine Briefschlachten",
+   "s": "Anders als in Berlin steuern SPD, Linke und Grüne in Mecklenburg-Vorpommern harmonisch auf eine Koalition zu. Knackpunkte werden geräuschlos versenkt.",
+   "u": "https://taz.de/Rot-Rot-Gruen-in-Mecklenburg-Vorpommern/!6222919/",
+   "q": "taz",
+   "d": "2026-10-20T16:18:00+00:00"
+  },
+  {
+   "t": "Pflegende Angehörige: Mehr Arbeit zu Hause, weniger Arbeit am Markt",
+   "s": "Immer mehr Pflegebedürftigen werden zu Hause betreut. Das hat Folgen für den Arbeitsmarkt, warnt eine neue Studie. Patientenschützer haben eine andere Perspektive.",
+   "u": "https://taz.de/Pflegende-Angehoerige/!6222979/",
+   "q": "taz",
+   "d": "2026-10-20T16:07:00+00:00"
+  },
   {
    "t": "Die eine Frage: Soll man AfD-Wählern Argumente entgegenhalten?",
    "s": "Man müsse mit Rechtspopulisten in einen Streit der Argumente treten, statt sie zu ignorieren oder auszugrenzen, fordert Winfried Kretschmann. Nur wie?",
    "u": "https://taz.de/Die-eine-Frage/!6218160/",
    "q": "taz",
    "d": "2026-10-20T11:39:00+00:00"
-  },
-  {
-   "t": "Website veröffentlicht tausende Mails: Riesiges E-Mail-Datenleak bei der AfD",
-   "s": "Die AfD wird Opfer eines E-Mail-Datenleaks: Eine Website veröffentlicht zehntausende interne Mails. Die Partei spricht von einem „Hackerangriff“.",
-   "u": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
-   "q": "taz",
-   "d": "2026-10-20T06:33:00+00:00"
   },
   {
    "t": "Hubertus Heil und der SPD-Vorsitz: „Ich kann es nicht ausschließen, dass ich antrete“",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Deutschlandtag-der-Jungen-Union/!6222314/",
    "q": "taz",
    "d": "2026-10-18T09:44:00+00:00"
-  },
-  {
-   "t": "AfD-Jugend in Neumünster: Mit Rechtsrock und Rückendeckung",
-   "s": "Die AfD-Jugend zieht mit Neonazis durch Neumünster. Ein Funktionär mit SS-Spruch bekommt neue Posten. Der Gegenprotest ist deutlich größer.",
-   "u": "https://taz.de/AfD-Jugend-in-Neumuenster/!6222310/",
-   "q": "taz",
-   "d": "2026-10-17T18:12:00+00:00"
-  },
-  {
-   "t": "Einigung auf Enteignungen in Berlin: Vom Sondieren zum Sozialismus?",
-   "s": "Strahlende Gesichter bei Berliner Linken, Grünen und SPD. Die drei Parteien werden Koalitionsverhandlungen starten. Was genau sie vereinbart haben.",
-   "u": "https://taz.de/Einigung-auf-Enteignungen-in-Berlin/!6222301/",
-   "q": "taz",
-   "d": "2026-10-17T17:05:00+00:00"
-  },
-  {
-   "t": "Der CDU-Chef beim Parteinachwuchs: „Herr Merz, wann bitten Sie um Ihre Entlassung?“",
-   "s": "Der Kanzler und die Junge Union versuchen sich wieder anzunähern. Das klappt bedingt. Aber auch der mögliche Konkurrent überzeugt nicht ganz.",
-   "u": "https://taz.de/Der-CDU-Chef-beim-Parteinachwuchs/!6222298/",
-   "q": "taz",
-   "d": "2026-10-17T14:39:00+00:00"
-  },
-  {
-   "t": "Ungleichheit im Gesundheitssystem: Pa­ti­en­t*in dritter Klasse",
-   "s": "Zahlst du schon, oder wartest du noch? Warum die Terminvergabe für gesetzlich Versicherte künftig noch ungerechter zu werden droht.",
-   "u": "https://taz.de/Ungleichheit-im-Gesundheitssystem/!6218163/",
-   "q": "taz",
-   "d": "2026-10-17T13:50:00+00:00"
   }
  ]
 }

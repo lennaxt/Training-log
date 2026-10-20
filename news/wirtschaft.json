@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-20T14:19:09+00:00",
+ "updated": "2026-10-20T19:17:40+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 20.10.2026",
+   "s": "Wirtschaft vor acht vom 20.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1669678.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T17:56:23+00:00"
+  },
+  {
+   "t": "VW ruft weltweit mehr als 70.000 E-Autos wegen Brandgefahr zurück",
+   "s": "Der Rückruf von Millionen VW-Fahrzeugen liegt noch nicht lange zurück, nun muss Volkswagen erneut einen Mangel beheben. Auch in Deutschland sind viele Autos betroffen - wegen fehlerhafter Batterien.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-e-autos-rueckruf-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T16:57:49+00:00"
+  },
   {
    "t": "Die Deutsche Post will 2027 das Porto für Briefe erhöhen",
    "s": "Die Deutsche Post will das Briefporto im kommenden Januar von 95 Cent auf 1,15 Euro anheben. Auch Postkarten, Großbriefe und andere Produkte sollen 2027 teurer werden - sofern die Bundesnetzagentur die Erhöhungen genehmigt.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/energie-heizen-winter-100.html",
    "q": "Tagesschau",
    "d": "2026-10-17T10:05:01+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 16102026",
-   "s": "Wirtschaft vor acht vom 16102026",
-   "u": "https://www.tagesschau.de/video/video-1667576.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T18:20:58+00:00"
-  },
-  {
-   "t": "Wie es mit der Commerzbank nun weitergeht",
-   "s": "Nach der Zustimmung der EZB-Aufseher steht einer Mehrheitsübernahme der Commerzbank durch die italienische Großbank UniCredit fast nichts mehr im Weg. Was sind die nächsten Schritte - und die Folgen? Von Ursula Mayer.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-uebernahme-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T14:25:09+00:00"
   }
  ]
 }

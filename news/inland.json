@@ -1,10 +1,94 @@
 {
  "name": "Inland",
- "updated": "2026-10-20T14:19:07+00:00",
+ "updated": "2026-10-20T19:17:38+00:00",
  "items": [
   {
+   "t": "Neuer Landtag von Mecklenburg-Vorpommern: Schwerin wählt nach Plan",
+   "s": "Bei der Konstituierung des Landtags von Mecklenburg-Vorpommern gab es keinen Eklat wie in Magdeburg. Aber auch hier wird deutlich, wie polarisiert das Land ist.",
+   "u": "https://taz.de/Neuer-Landtag-von-Mecklenburg-Vorpommern/!6222956/",
+   "q": "taz",
+   "d": "2026-10-20T17:57:00+00:00"
+  },
+  {
+   "t": "Antisemitismus in der Jungen Union: Gegen die eigene Brandmauer gerannt",
+   "s": "Die JU verortete Judenhass zuletzt vor allem bei der Linkspartei. Nun fällt ein eigenes Mitglied mit antisemitischen und sexistischen Kommentaren auf.",
+   "u": "https://taz.de/Junge-Union-Mitglied-faellt-mit-antisemitischen-und-sexistischen-Kommentaren-auf/!6222959/",
+   "q": "taz",
+   "d": "2026-10-20T17:53:00+00:00"
+  },
+  {
+   "t": "„Friedensverhandlungen“ in Oslo: Selenskyjs Abwehrkampf gegen Trump",
+   "s": "Washingtons maßlose Forderungen belasten Verhandlungen über einen möglichen Waffenstillstand. Kremlchef Putin lockt mit lukrativen Wirtschaftsdeals.",
+   "u": "https://taz.de/Friedensverhandlungen-in-Oslo/!6222917/",
+   "q": "taz",
+   "d": "2026-10-20T17:49:00+00:00"
+  },
+  {
+   "t": "Russische Propaganda nach Angriff: Eigene Schäden sind im Staatsfernsehen kaum ein Thema",
+   "s": "Erstmals wird Russlands zweitgrößte Stadt von ukrainischen Drohnen gleich mehrfach getroffen. Dem Staatsfernsehen ist dies kaum Sendezeit wert.",
+   "u": "https://taz.de/Kriegspropaganda-in-Russland-Statt-Berichten-ueber-eigene-Schaeden--Fingerzeig-auf-andere/!6222921/",
+   "q": "taz",
+   "d": "2026-10-20T17:45:00+00:00"
+  },
+  {
+   "t": "Kassenärzte sagen ab 2027 längere Termin-Wartezeiten voraus",
+   "s": "Ab 2027 wird in Arztpraxen ein festes Kontingent an Terminen festgelegt. Die Kassenärztliche Bundesvereinigung befürchtet noch längere Wartezeiten auf Termine - die Krankenkassen sehen darin Angstmacherei.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T17:41:17+00:00"
+  },
+  {
+   "t": "Kommando zurück! Die Bundeswehr braucht ihre Kasernen wieder",
+   "s": "Die Bundeswehr braucht Kasernen, Übungsplätze und Lagerflächen. Dafür greift sie auf frühere Militärgelände zurück – auch auf solche, die Kommunen für Wohngebiete und Gewerbe eingeplant haben. Wenn das Militär zurückkommt – wer setzt sich durch?Fannrich-Lautenschläger, Isabel",
+   "u": "https://www.deutschlandfunk.de/kommando-zurueck-die-bundeswehr-braucht-ihre-kasernen-wieder-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-20T16:40:00+00:00"
+  },
+  {
+   "t": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
+   "s": "Unbekannte haben einen Hackerangriff auf Mail-Konten der AfD verübt und laut eigenen Angaben Daten daraus veröffentlicht. Die AfD bestätigte einen Angriff auf Postfächer, die aber überwiegend nicht mehr genutzt würden.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T16:38:28+00:00"
+  },
+  {
+   "t": "Interne E-Mails öffentlich: AfD blamiert sich mit Datenleak",
+   "s": "Bei der AfD kommt es zu einem E-Mail-Datenleak: Zehntausende interne Mails gelangen auf eine öffentliche Website.",
+   "u": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
+   "q": "taz",
+   "d": "2026-10-20T16:21:00+00:00"
+  },
+  {
+   "t": "Rot-Rot-Grün in Mecklenburg-Vorpommern: Zur Abwechslung mal keine Briefschlachten",
+   "s": "Anders als in Berlin steuern SPD, Linke und Grüne in Mecklenburg-Vorpommern harmonisch auf eine Koalition zu. Knackpunkte werden geräuschlos versenkt.",
+   "u": "https://taz.de/Rot-Rot-Gruen-in-Mecklenburg-Vorpommern/!6222919/",
+   "q": "taz",
+   "d": "2026-10-20T16:18:00+00:00"
+  },
+  {
+   "t": "Pflegende Angehörige: Mehr Arbeit zu Hause, weniger Arbeit am Markt",
+   "s": "Immer mehr Pflegebedürftigen werden zu Hause betreut. Das hat Folgen für den Arbeitsmarkt, warnt eine neue Studie. Patientenschützer haben eine andere Perspektive.",
+   "u": "https://taz.de/Pflegende-Angehoerige/!6222979/",
+   "q": "taz",
+   "d": "2026-10-20T16:07:00+00:00"
+  },
+  {
+   "t": "Deportation von Kindern nach Russland: Der Kreml will „kleine Russen“ aus ihnen machen",
+   "s": "Tausende ukrainische Kinder wurden seit 2022 in Putins Reich deportiert. Ein Sachbuch zeichnet das Leid von vier Familien nach, die bis heute hoffen.",
+   "u": "https://taz.de/Deportation-von-Kindern-nach-Russland/!6222961/",
+   "q": "taz",
+   "d": "2026-10-20T16:02:00+00:00"
+  },
+  {
+   "t": "Urteil gegen Sektenführer in Kenia: Mord in 191 Fällen",
+   "s": "Jahrelang konnte Paul Mackenzie unbehelligt Eltern dazu zwingen, ihre Kinder verhungern zu lassen. Jetzt wurde er mit seinen Mitstreitern verurteilt.",
+   "u": "https://taz.de/Urteil-gegen-Sektenfuehrer-in-Kenia/!6222918/",
+   "q": "taz",
+   "d": "2026-10-20T14:54:00+00:00"
+  },
+  {
    "t": "Mit wem will die SPD wohin?",
-   "s": "Bislang kursieren nur Namen. Handfeste Bewerbungen für den SPD-Chefposten gibt es noch nicht, dafür einige Absagen. Einer sagt nicht Nein, andere sagen gar nichts. Doch die SPD muss mehr klären, als nur Personalfragen. Von Christina Nagel.",
+   "s": "Bislang kursieren nur Namen. Handfeste Bewerbungen für den SPD-Chefposten gibt es noch nicht, dafür einige Absagen. Einer sagt nicht Nein, andere sagen gar nichts. Doch die SPD muss mehr klären als nur Personalfragen. Von Christina Nagel.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/spd-kurs-vorsitz-100.html",
    "q": "Tagesschau",
    "d": "2026-10-20T14:13:44+00:00"
@@ -15,13 +99,6 @@
    "u": "https://taz.de/Auto-rast-in-australische-Abgeordnete/!6222844/",
    "q": "taz",
    "d": "2026-10-20T14:05:00+00:00"
-  },
-  {
-   "t": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
-   "s": "Unbekannte haben einen Hackerangriff auf Mail-Konten der AfD verübt und laut eigenen Angaben Daten daraus veröffentlicht. Die AfD bestätigte einen Angriff auf Postfächer, die aber überwiegend nicht mehr genutzt würden.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T13:49:30+00:00"
   },
   {
    "t": "55 Festnahmen in Portugal: Polizei räumt Protestlager gegen Wohnungsnot in Lissabon",
@@ -52,6 +129,13 @@
    "d": "2026-10-20T11:39:00+00:00"
   },
   {
+   "t": "Warum Rot-Grün-Rot für die Union ein großes Problem ist",
+   "s": "Weitere Koalitionen von SPD, Grünen und Linkspartei bringen CDU/CSU in ein strategisches Dilemma, sagt der Politologe Thorsten Faas. Mögliche Mehrheitsoptionen ohne die Unionsparteien könnten zudem interne Debatten um die Brandmauer zur AfD befeuern.Heinlein, Stefan",
+   "u": "https://www.deutschlandfunk.de/linksruck-als-antwort-auf-rechtsruck-interview-mit-thorsten-faas-politologe-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-20T10:15:00+00:00"
+  },
+  {
    "t": "Weniger Geld für Welternährungsprogramm: UN müssen Lebensmittelhilfe in Gaza immens streichen",
    "s": "Im Gazastreifen verlieren Hunderttausende Menschen ihre Unterstützung durch das Welternährungsprogramm. Die Kürzungen erfolgen kurz vor Beginn des Winters.",
    "u": "https://taz.de/Weniger-Geld-fuer-Welternaehrungsprogramm/!6222847/",
@@ -73,13 +157,6 @@
    "d": "2026-10-20T07:29:00+00:00"
   },
   {
-   "t": "Website veröffentlicht tausende Mails: Riesiges E-Mail-Datenleak bei der AfD",
-   "s": "Die AfD wird Opfer eines E-Mail-Datenleaks: Eine Website veröffentlicht zehntausende interne Mails. Die Partei spricht von einem „Hackerangriff“.",
-   "u": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
-   "q": "taz",
-   "d": "2026-10-20T06:33:00+00:00"
-  },
-  {
    "t": "Cohn-Bendit: Die Gerechtigkeitslücke wird größer",
    "s": "Die Proteste in Frankreich sind eine Reaktion auf die sozialen Probleme des Landes. Das sagt der Publizist Daniel Cohn-Bendit. Es gäbe eine tiefgehende Unzufriedenheit. Von den Ausschreitungen würden vor allem die Rechtsradikalen profitieren.Müller, Dirk",
    "u": "https://www.deutschlandfunk.de/zu-massenprotesten-in-frankreich-interview-daniel-cohn-bendit-ex-mdep-100.html",
@@ -92,83 +169,6 @@
    "u": "https://www.deutschlandfunk.de/investitionsgipfel-mit-kanzler-merz-in-berlin-durchdachtes-konzept-oder-nur-ro-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-20T04:50:00+00:00"
-  },
-  {
-   "t": "Wahrscheinliches Steuer-Plus weckt Begehrlichkeiten",
-   "s": "Von heute an berät der Arbeitskreis Steuerschätzung darüber, mit wie vielen Steuereinnahmen Bund und Länder rechnen können. Es könnte mehr sein als bislang erwartet. Das weckt Begehrlichkeiten. Von Philipp Eckstein.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/steuereinnahmen-bund-laender-steuerschaetzung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T03:15:05+00:00"
-  },
-  {
-   "t": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
-   "s": "Die Grünen und die SPD wollen in Berlin mit der Linkspartei Koalitionsverhandlungen aufnehmen. Beide Parteien entschieden sich am Abend für die Gespräche - die Abstimmung bei der Linken steht noch aus.",
-   "u": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T19:52:35+00:00"
-  },
-  {
-   "t": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
-   "s": "Die Berliner SPD stimmt mit großer Mehrheit für Koalitionsverhandlungen mit der Linkspartei und mit den Grünen. Die Grünen wollen noch am Abend über den Beginn der Gespräche entscheiden.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/koalitionsverhandlungen-berlin-spd-linke-gruene-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T17:59:59+00:00"
-  },
-  {
-   "t": "Arabische Bevölkerung in Israel: Gewalt, organisierte Kriminalität und das Wegsehen",
-   "s": "In der arabischen Community in Israel kommt es immer häufiger zu schwerer Gewaltkriminalität. Die Polizei allerdings interessiert sich kaum dafür.",
-   "u": "https://taz.de/Arabische-Bevoelkerung-in-Israel/!6222585/",
-   "q": "taz",
-   "d": "2026-10-19T17:45:00+00:00"
-  },
-  {
-   "t": "Russische Angriffe auf Kyjiw: Kein Versteck, nirgends",
-   "s": "Die ukrainische Hauptstadt Kyjiw ist täglich russischen Angriffen ausgesetzt. Um Schutzräume aufzusuchen, bleibt vielen Menschen immer weniger Zeit.",
-   "u": "https://taz.de/Russische-Angriffe-auf-Kyjiw/!6222586/",
-   "q": "taz",
-   "d": "2026-10-19T17:44:00+00:00"
-  },
-  {
-   "t": "Hubertus Heil und der SPD-Vorsitz: „Ich kann es nicht ausschließen, dass ich antrete“",
-   "s": "Der ehemalige Arbeitsminister macht aus seinen Ambitionen für den SPD-Parteivorsitz kein Geheimnis. Doch er stellt eine interessante Bedingung.",
-   "u": "https://taz.de/Hubertus-Heil-und-der-SPD-Vorsitz/!6222604/",
-   "q": "taz",
-   "d": "2026-10-19T17:43:00+00:00"
-  },
-  {
-   "t": "Regierungsbildung: SPD-Landesvorstand stimmt für Koalitionsverhandlungen",
-   "s": "Die Berliner Sozialdemokraten geben als erste der drei Parteien grünes Licht für Koalitionsgespräche. Auch die Grünen wollen noch am Montagabend eine Entscheidung treffen.",
-   "u": "https://taz.de/Regierungsbildung/!6222816/",
-   "q": "taz",
-   "d": "2026-10-19T17:39:00+00:00"
-  },
-  {
-   "t": "Midterms in den USA: Wie Latinos die Wahlen entscheiden könnten",
-   "s": "Latinos machen einen großen Teil der Bevölkerung in den USA aus. Ihre Wahlbeteiligung blieb bislang aber eher gering. Das ändert sich nun. Als „erwachender Riese“ könnten sie bei den Midterms eine entscheidende Rolle spielen.",
-   "u": "https://www.deutschlandfunk.de/midterms-usa-latinos-us-wahlen-texas-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-19T16:49:00+00:00"
-  },
-  {
-   "t": "Nach dem CSD-Anschlag: Viele Bekundungen, kaum Konkretes",
-   "s": "Für den Schutz der queeren Community tut die Bundesregierung weiterhin wenig – weder finanziell noch gesetzlich. Das zeigt eine kleine Anfrage der Grünen.",
-   "u": "https://taz.de/Nach-dem-CSD-Anschlag/!6222588/",
-   "q": "taz",
-   "d": "2026-10-19T16:48:00+00:00"
-  },
-  {
-   "t": "Migrantische Verbände in Sachsen-Anhalt: „Es ist ernst, meine Damen und Herren“",
-   "s": "Dass die AfD bald in Sachsen-Anhalt regieren könnte, besorgt Migrant:innenorganisationen. Sie fordern Schutz von CDU-Kanzler Merz und den anderen Ländern.",
-   "u": "https://taz.de/Migrantische-Verbaende-in-Sachsen-Anhalt/!6222206/",
-   "q": "taz",
-   "d": "2026-10-19T16:47:00+00:00"
-  },
-  {
-   "t": "Frust und Charisma – Wie Parteien mobilisieren",
-   "s": "CDU und SPD im Keller, die AfD im Höhenflug. Die Zeiten starker Parteibindung sind vorbei, das haben die vergangenen Landtagswahlen gezeigt. Wie konnte die AfD insbesondere so viele Wechselwähler und Nichtwähler gewinnen?Waltz, Manuel",
-   "u": "https://www.deutschlandfunk.de/frust-und-charisma-wie-parteien-mobilisieren-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-19T16:40:00+00:00"
   }
  ]
 }

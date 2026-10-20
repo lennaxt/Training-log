@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-10-20T14:19:12+00:00",
+ "updated": "2026-10-20T19:17:43+00:00",
  "items": [
+  {
+   "t": "Auto rast in australische Abgeordnete: Sie war kein Feindbild, trotzdem wurde Helen Haines Opfer",
+   "s": "In Australien wurde die unabhängige Abgeordnete Helen Haines bei einem Angriff mit einem Auto schwer verletzt. Das löst eine Debatte aus.",
+   "u": "https://taz.de/Auto-rast-in-australische-Abgeordnete/!6222844/",
+   "q": "taz",
+   "d": "2026-10-20T14:05:00+00:00"
+  },
   {
    "t": "Proteste gegen IWF und Weltbank: Opfer konfrontieren Weltbank mit gescheitertem Projekt",
    "s": "In Thailand protestieren Menschen gegen die Weltbank, die den Preis für deren unerfülltes Wohlstandsversprechen zahlen mussten.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Mindestens-16-Tote-bei-Anschlag-mit-Autobombe-in-Pakistan/!6214388/",
    "q": "taz",
    "d": "2026-09-18T12:12:00+00:00"
-  },
-  {
-   "t": "Kampf für die Umwelt in Kambodscha: „Das sind schwere Zeiten für uns“",
-   "s": "Die international ausgezeichnete Umweltorganisation Mother Nature Cambodia kämpft trotz ihrer Kriminalisierung weiter, berichtet Sprecherin Lisa Mean.",
-   "u": "https://taz.de/Kampf-fuer-die-Umwelt-in-Kambodscha/!6213169/",
-   "q": "taz",
-   "d": "2026-09-18T06:59:00+00:00"
   }
  ]
 }

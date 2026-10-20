@@ -1,7 +1,42 @@
 {
  "name": "Ausland",
- "updated": "2026-10-20T14:19:08+00:00",
+ "updated": "2026-10-20T19:17:38+00:00",
  "items": [
+  {
+   "t": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
+   "s": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die finale Abstimmung steht noch an. Von J.-M. Magro.",
+   "u": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T17:49:19+00:00"
+  },
+  {
+   "t": "EU-Rechnungshof-Bericht: Kaum Fortschritte bei Digitalisierung",
+   "s": "Seit 2021 hat die EU fast 50 Milliarden Euro an ihre Mitgliedstaaten ausgezahlt. Geld, das darauf abzielen sollte, Behörden und Verwaltung digitaler und effizienter zu machen. Der EU-Rechnungshof zieht eine gemischte Bilanz. Von A. Mamengui",
+   "u": "https://www.tagesschau.de/ausland/europa/europaeischer-rechnungshof-corona-gelder-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T16:42:23+00:00"
+  },
+  {
+   "t": "Angriffe auf Brücken in Kiew: \"Man muss ja irgendwie weiterleben\"",
+   "s": "Seit Wochen greift Russland gezielt Brücken in der ukrainischen Hauptstadt Kiew an. Die Einwohner versuchen, sich mit dem Verkehrschaos so gut wie möglich zu arrangieren. Der Ausnahmezustand gehört bereits zum Alltag. Von Niels Bula.",
+   "u": "https://www.tagesschau.de/ausland/europa/angriffe-bruecken-kiew-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T16:23:41+00:00"
+  },
+  {
+   "t": "EU legt neue Arktis-Strategie vor und verstärkt militärische Präsenz",
+   "s": "Die neue Arktis-Strategie der Europäischen Kommission macht deutlich: Die EU will ihre Präsenz dort verstärken, wo die \"tektonischen Platten der Geopolitik aufeinanderprallen\", wie Kommissionschefin von der Leyen sagt. Von Thomas Spickhofen.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T15:38:35+00:00"
+  },
+  {
+   "t": "Flugausfälle: EU regelt Erstattung bei Buchung über Drittanbieter",
+   "s": "In Zukunft müssen auch Drittanbieter die Kosten für die Buchung eines Fluges erstatten, wenn dieser ausfällt. Das hat das EU-Parlament beschlossen. Außerdem soll es ein einheitliches Erstattungsformular für so gut wie alle Transportmittel geben.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-reiserechte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T14:43:12+00:00"
+  },
   {
    "t": "Unruhen in Frankreich: Festnahme nach Brand von Rathaus in Limoges",
    "s": "Während der Ausschreitungen in Frankreich war das historische Rathaus von Limoges abgebrannt. Das Feuer war zu einem Symbol der Unruhen geworden. Nun gab es eine Festnahme: Es soll sich um einen polizeibekannten Linksextremisten handeln.",
@@ -87,13 +122,6 @@
    "d": "2026-10-20T02:30:18+00:00"
   },
   {
-   "t": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
-   "s": "Ein heftiges Sturmtief hat Straßen und Ortschaften im Südosten Spaniens unter Wasser gesetzt. Menschen flüchten vor den Wassermassen auf Hausdächer, es gab mindestens vier Tote. Auf Mallorca fiel das Unwetter weniger heftig aus als befürchtet.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T19:09:32+00:00"
-  },
-  {
    "t": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen",
    "s": "Die gewalttätigen Proteste in Frankreich dominieren seit Tagen die Schlagzeilen. Doch auch in anderen Ländern Europas gibt es derzeit Großdemos und Ausschreitungen, die Gründe ähneln einander vielfach. Wer protestiert gerade in welchen Ländern - und warum?",
    "u": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html",
@@ -115,32 +143,11 @@
    "d": "2026-10-19T17:19:39+00:00"
   },
   {
-   "t": "Frankreich-Proteste: \"Macron hat nicht die richtigen Antworten gefunden\"",
-   "s": "Frankreich steht nach den Unruhen am Wochenende unter Schock. Hat Macron die Unzufriedenheit im Land unterschätzt? Politikwissenschaftler Ross über die Vorwürfe gegen den Präsidenten - und welche Optionen dieser nun hat.",
-   "u": "https://www.tagesschau.de/ausland/europa/europa-proteste-interview-ross-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T14:09:22+00:00"
-  },
-  {
    "t": "Zwölf Migranten bei zwei Bootsunglücken in der Ägäis gestorben",
    "s": "Vor den griechischen Inseln Samos und Lesbos sind binnen weniger Stunden zwei Boote mit Migranten verunglückt. Laut Behörden starben mindestens zwölf Menschen. Ein mutmaßlicher Schleuser wurde festgenommen.",
    "u": "https://www.tagesschau.de/ausland/aegaeis-bootsunglueck-100.html",
    "q": "Tagesschau",
    "d": "2026-10-19T12:07:14+00:00"
-  },
-  {
-   "t": "Louvre: Weiterhin keine Spur von den geraubten Kronjuwelen",
-   "s": "Vor einem Jahr erbeuteten Diebe die französischen Kronjuwelen aus dem Pariser Louvre. Das Museum hat seine Sicherheitsvorkehrungen mittlerweile verschärft, aber vom Schmuck fehlt weiterhin jede Spur. Von Cai Rienäcker.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-ein-jahr-louvre-einbruch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T11:46:08+00:00"
-  },
-  {
-   "t": "Krawalle in Frankreich - Regierung räumt \"Kontrollverlust\" der Behörden ein",
-   "s": "Nach den gewalttätigen Protesten am Wochenende ist Frankreichs Regierung mit der Frage beschäftigt, wie es dazu kommen konnte. Innenminister Nuñez bot seinen Rücktritt an, Justizminister Darmanin sieht Defizite bei den Behörden.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreichs-justizminister-sieht-schwaechen-bei-sicherheitsbehoerden-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T11:29:10+00:00"
   },
   {
    "t": "In Kiew wächst die Kritik an Bürgermeister Klitschko",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
    "q": "Tagesschau",
    "d": "2026-10-18T22:23:09+00:00"
-  },
-  {
-   "t": "US-Midterms: Können die Republikaner wieder bei Latinos punkten?",
-   "s": "Fast die Hälfte der Latinos in den USA wählte 2024 Donald Trump - und trug damit maßgeblich zu seinem Erfolg bei. Viele setzten große Hoffnungen in ihn. Wie ist die Stimmung unter Latinos kurz vor den Zwischenwahlen? Von N. Barth.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-18T19:00:53+00:00"
   }
  ]
 }
