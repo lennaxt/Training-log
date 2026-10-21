@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-21T14:29:53+00:00",
+ "updated": "2026-10-21T19:18:07+00:00",
  "items": [
+  {
+   "t": "Erde steuert laut Bericht des UN-Umweltprogramms auf 2,8 Grad Erwärmung zu",
+   "s": "Erde steuert laut Bericht des UN-Umweltprogramms auf 2,8 Grad Erwärmung zu",
+   "u": "https://www.tagesschau.de/video/video-1670158.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T15:46:53+00:00"
+  },
   {
    "t": "UN-Bericht: Erde steuert auf 2,8 Grad Erwärmung zu",
    "s": "Die Folgen der Erderwärmung sind verheerend. Das eigentlich vereinbarte 1,5-Grad-Limit wird ziemlich sicher gerissen. Doch die UN betonen: Es gibt Fortschritte beim Klimaschutz, die Zeit drängt allerdings. Von Janina Schreiber.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1660638.html",
    "q": "Tagesschau",
    "d": "2026-10-05T09:55:56+00:00"
-  },
-  {
-   "t": "Rekordschmelze in den Schweizer Alpen",
-   "s": "Rekordschmelze in den Schweizer Alpen",
-   "u": "https://www.tagesschau.de/video/video-1660576.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T08:48:25+00:00"
   }
  ]
 }

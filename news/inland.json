@@ -1,13 +1,118 @@
 {
  "name": "Inland",
- "updated": "2026-10-21T14:29:51+00:00",
+ "updated": "2026-10-21T19:18:04+00:00",
  "items": [
+  {
+   "t": "Auschwitz, Ravensbrück, Sachsenhausen: Er hat drei KZ überlebt: Nun ist Hermann Höllenreiner mit 92 gestorben",
+   "s": "Erst schwieg er lange. Dann hielt er Vorträge über die Vernichtung von Sinti und Roma im Nationalsozialismus. Nun ist Hermann Höllenreiner gestorben.",
+   "u": "https://taz.de/Er-hat-drei-KZ-ueberlebt-Nun-ist-Hermann-Hoellenreiner-mit-92-gestorben/!6223340/",
+   "q": "taz",
+   "d": "2026-10-21T17:56:00+00:00"
+  },
+  {
+   "t": "Schwangerschaftsabbruch in Polen: Wenig Aussicht auf Erleichterung",
+   "s": "Regierungschef Tusk setzt endlich ein Wahlversprechen um und entschärft die Abtreibungsgesetze in Polen. Doch Präsident Naworocki kann das blockieren.",
+   "u": "https://taz.de/Schwangerschaftsabbruch-in-Polen/!6223131/",
+   "q": "taz",
+   "d": "2026-10-21T17:56:00+00:00"
+  },
+  {
+   "t": "Suchtkranke in deutschen Städten: Brauchen wir eine neue Drogenpolitik?",
+   "s": "Crack-Konsum im Hauseingang, fixen in der U-Bahn und Suchtkranke, die scheinbar bewusstlos auf der Straße liegen: Viele deutsche Städte kämpfen mit den Folgen des internationalen Drogenhandels. Braucht es eine neue Drogenpolitik?Gorgis, Elena; Streeck, Hendrik; Strunz, Benedikt; Reppe, Augustine; Rau, Harald",
+   "u": "https://www.deutschlandfunk.de/suchtkranke-in-deutschen-staedten-brauchen-wir-eine-neue-drogenpolitik-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-21T17:15:00+00:00"
+  },
+  {
+   "t": "Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober",
+   "s": "Während es bei den Protesten in Frankreich zu Ausschreitungen kommt, ruft auch in Deutschland eine Initiative für den 31. Oktober zu Demos auf. Polizei und Behörden beobachten die Lage und tauschen sich mit Frankreich und Italien aus.",
+   "u": "https://www.tagesschau.de/inland/aufruf-demos-sicherheitsbehoerden-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T16:57:53+00:00"
+  },
+  {
+   "t": "Trump, Selenskyj und Europa: Ukraine, verkauft und im Stich gelassen",
+   "s": "Immer offener paktiert der US-Präsident mit dem Kremlchef. Die EU setzt die Hoffnungen auf die Midterms, derweil wird die Ukraine heftig beschossen.",
+   "u": "https://taz.de/Trump-Selenskyj-und-Europa/!6218340/",
+   "q": "taz",
+   "d": "2026-10-21T16:54:00+00:00"
+  },
+  {
+   "t": "Ukrainegespräche in St. Petersburg: „Momentum für die Beendigung des Krieges“",
+   "s": "Der US-Sondergesandte Witkoff sieht gute Voraussetzungen für ein Ende des Ukrainekrieges. Die Ukraine erklärt sich zur Anerkennung der derzeitigen Frontlinie bereit.",
+   "u": "https://taz.de/Ukrainegespraeche-in-St-Petersburg/!6223342/",
+   "q": "taz",
+   "d": "2026-10-21T16:53:00+00:00"
+  },
+  {
+   "t": "Evangelikale in Brasilien - Machtvolle Stimmen im rechten Kulturkampf",
+   "s": "In Brasilien will Flávio Bolsonaro das Erbe seines Vaters antreten und Präsident werden. Dabei setzt er auf die Stimmen der evangelikalen Christen – eine tragende Säule für die neue Rechte. Pastoren und Kinder-Influencerinnen mischen im Wahlkampf mit.Herrberg, Anne",
+   "u": "https://www.deutschlandfunk.de/evangelikale-in-brasilien-machtvolle-stimmen-im-rechten-kulturkampf-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-21T16:40:00+00:00"
+  },
+  {
+   "t": "Drohnentraining in der Ukraine: Die Front hält stand – aber Ukrainer fürchten um ihre Städte",
+   "s": "Vor dem Hintergrund der Gespräche zwischen Wladimir Putin und Steve Witkoff befürchten Ukrainer noch heftigere Angriffe auf ihre Großstädte.",
+   "u": "https://taz.de/Drohnentraining-in-der-Ukraine/!6223343/",
+   "q": "taz",
+   "d": "2026-10-21T15:57:00+00:00"
+  },
+  {
+   "t": "Krawalle in Frankreich: Die verheimlichten Toten der Pariser Unruhen",
+   "s": "Während der Gewalteskalation in Paris am Samstag starben zwei Menschen, ein dritter hat seinen Tod dementiert. Frankreichs Regierung agiert ratlos.",
+   "u": "https://taz.de/Krawalle-in-Frankreich/!6223264/",
+   "q": "taz",
+   "d": "2026-10-21T15:45:00+00:00"
+  },
+  {
+   "t": "Generalstreik in Senegal: Gewerkschaften fordern Brot statt Olympia",
+   "s": "Kurz bevor in Senegal das erste olympische Sportereignis Afrikas startet, blasen die Gewerkschaften zum Aufstand. Die Regierung hat kein Geld mehr.",
+   "u": "https://taz.de/Generalstreik-in-Senegal/!6223198/",
+   "q": "taz",
+   "d": "2026-10-21T15:41:00+00:00"
+  },
+  {
+   "t": "AfD in Mecklenburg-Vorpommern: AfD-Abgeordneter zeigt Neonazi-Geste im Schweriner Landtag",
+   "s": "Tommy Thormann ist schon in der Vergangenheit als Rechtsextremist aufgefallen. Im Landtag von MV knüpft er an seinem ersten Parlamentstag daran an.",
+   "u": "https://taz.de/AfD-in-Mecklenburg-Vorpommern/!6223452/",
+   "q": "taz",
+   "d": "2026-10-21T15:19:00+00:00"
+  },
   {
    "t": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
    "s": "Ein attraktives Ticket für gelegentliche Bus- und Bahnfahrer - das hatten Hamburg und Nordrhein-Westfalen für die Verkehrsministerkonferenz zur Beratung vorgeschlagen. Doch nun ist \"Deutschlandticket light\" bereits wieder vom Tisch.",
    "u": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-21T13:56:23+00:00"
+   "d": "2026-10-21T15:16:35+00:00"
+  },
+  {
+   "t": "Demografie und Stadt-Land-Gefälle: Frauen auf dem Land sollen mehr arbeiten",
+   "s": "Demografiestudie: Besonders auf dem Land „gibt es Arbeitspotenzial“ bei den Frauen, die nur in Teilzeit ackern.",
+   "u": "https://taz.de/Demografie-und-Stadt-Land-Gefaelle/!6223330/",
+   "q": "taz",
+   "d": "2026-10-21T14:50:00+00:00"
+  },
+  {
+   "t": "Aussage zu Seenotrettung im Mittelmeer: Eigenes Ministerium widerspricht Dobrindt",
+   "s": "Der deutsche Innenminister warf der „Sea Watch“ Nähe zu Schleppern vor. Auf Nachfrage der Grünen rudert das Bundesinnenministerium nun zurück.",
+   "u": "https://taz.de/Seenotrettung-im-Mittelmeer-Eigenes-Ministerium-widerspricht-Dobrindt/!6223381/",
+   "q": "taz",
+   "d": "2026-10-21T14:36:00+00:00"
+  },
+  {
+   "t": "Aus Versehen in Kraft: Wie es zum Fehler bei der Tabaksteuer kam",
+   "s": "Die Tabaksteuer soll ab 2027 schrittweise steigen. Doch durch einen Fehler im Gesetzestext gelten eigentlich schon jetzt erhöhte Steuern auf Tabakwaren - allerdings nur auf dem Papier. Wie kam es dazu? Von Maximilian Ulrich.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/panne-tabaksteuer-gesetz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T14:34:31+00:00"
+  },
+  {
+   "t": "El Salvador: Mangelhafte Justiz, übergriffige Regierung",
+   "s": "El Salvadors Präsident Nayib Bukele hat angekündigt, Zehntausende Bandenhäftlinge freizulassen. Menschenrechtsorganisationen sind alarmiert.",
+   "u": "https://taz.de/El-Salvador/!6222485/",
+   "q": "taz",
+   "d": "2026-10-21T14:30:00+00:00"
   },
   {
    "t": "Schwangerschaftsabbruch in Polen: Polens Parlament liberalisiert das Abtreibungsrecht",
@@ -64,111 +169,6 @@
    "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-21T08:10:00+00:00"
-  },
-  {
-   "t": "Klimaziele der Regierung: Die CDU, das Klima und der Luftverkehr",
-   "s": "Die CDU will den innerdeutschen Flugverkehr stärken. Dabei gilt: Kurzstreckenflüge sind pro Kilometer besonders klimaschädlich - der Start verursacht einen Großteil der Emissionen. Wie passt das zu den deutschen Klimazielen? Von K. Aue.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T07:25:52+00:00"
-  },
-  {
-   "t": "Sicherheitsexperte: Putin will ukrainischen Export lahmlegen",
-   "s": "Russland greift nun auch Frachtschiffe auf See in den Wirtschaftszonen Bulgariens und Rumäniens an – eine neue Eskalationsstufe. Damit soll die Ukraine weiterer Wege für den Export ihrer Agrarprodukte beraubt werden, sagt Sicherheitsexperte Jilge.Götzke, Manfred",
-   "u": "https://www.deutschlandfunk.de/sicherheit-im-schwarzen-meer-interview-mit-wilfried-jilge-dgap-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T07:19:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Russland kündigt erste Diesellieferung in die USA an",
-   "s": "In St. Petersburg trifft US-Unterhändler Witkoff Kremlchef Putin. Moskau lässt US-Amerikaner frei und gibt Details für Diesellieferung bekannt.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223092/",
-   "q": "taz",
-   "d": "2026-10-21T06:12:00+00:00"
-  },
-  {
-   "t": "Strack-Zimmermann: Gespräche in Oslo werden wirkungslos bleiben",
-   "s": "Wolodymyr Selenskyj hat in Oslo Gespräche zur Beendigung des Kriegs geführt. Das werde keine Auswirkungen auf Putin haben, sagt FDP-Verteidigungsexpertin Strack-Zimmermann. Europa muss sich auf viele neue Flüchtlinge aus der Ukraine einstellen.Buschert, Fanny",
-   "u": "https://www.deutschlandfunk.de/int-marie-agnes-strack-zimmermann-fdp-selenskyj-in-oslo-eu-vs-trump-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T05:19:00+00:00"
-  },
-  {
-   "t": "Vor dem Treffen der Verkehrsminister: Warum es eine Reform der Trassenpreise braucht",
-   "s": "Die hohen Preise im Schienenverkehr bringen die Verkehrsunternehmen in Not. Die Länder fordern mehr Geld, der Bund zeigt sich zurückhaltend.",
-   "u": "https://taz.de/Die-Verkehrsminister-der-Laender-treffen-sich-Darum-geht-es-heute/!6222912/",
-   "q": "taz",
-   "d": "2026-10-21T05:11:00+00:00"
-  },
-  {
-   "t": "Senioren in Südkorea: Rüstig für die KI-Zukunft",
-   "s": "Südkoreas rapide alternde Bevölkerung lernt den Umgang mit künstlicher Intelligenz. Der technologische Wandel hinterlässt nicht nur positive Spuren im Land.",
-   "u": "https://taz.de/Suedkoreas-rapide-alternde-Bevoelkerung-lernt-den-Umgang-mit-KI-So-laeuft-es/!6222820/",
-   "q": "taz",
-   "d": "2026-10-21T05:09:00+00:00"
-  },
-  {
-   "t": "Neuer Landtag von Mecklenburg-Vorpommern: Schwerin wählt nach Plan",
-   "s": "Bei der Konstituierung des Landtags von Mecklenburg-Vorpommern gab es keinen Eklat wie in Magdeburg. Aber auch hier wird deutlich, wie polarisiert das Land ist.",
-   "u": "https://taz.de/Neuer-Landtag-von-Mecklenburg-Vorpommern/!6222956/",
-   "q": "taz",
-   "d": "2026-10-20T17:57:00+00:00"
-  },
-  {
-   "t": "Antisemitismus in der Jungen Union: Gegen die eigene Brandmauer gerannt",
-   "s": "Die JU verortete Judenhass zuletzt vor allem bei der Linkspartei. Nun fällt ein eigenes Mitglied mit antisemitischen und sexistischen Kommentaren auf.",
-   "u": "https://taz.de/Junge-Union-Mitglied-faellt-mit-antisemitischen-und-sexistischen-Kommentaren-auf/!6222959/",
-   "q": "taz",
-   "d": "2026-10-20T17:53:00+00:00"
-  },
-  {
-   "t": "„Friedensverhandlungen“ in Oslo: Selenskyjs Abwehrkampf gegen Trump",
-   "s": "Washingtons maßlose Forderungen belasten Verhandlungen über einen möglichen Waffenstillstand. Kremlchef Putin lockt mit lukrativen Wirtschaftsdeals.",
-   "u": "https://taz.de/Friedensverhandlungen-in-Oslo/!6222917/",
-   "q": "taz",
-   "d": "2026-10-20T17:49:00+00:00"
-  },
-  {
-   "t": "Russische Propaganda nach Angriff: Eigene Schäden sind im Staatsfernsehen kaum ein Thema",
-   "s": "Erstmals wird Russlands zweitgrößte Stadt von ukrainischen Drohnen gleich mehrfach getroffen. Dem Staatsfernsehen ist dies kaum Sendezeit wert.",
-   "u": "https://taz.de/Kriegspropaganda-in-Russland-Statt-Berichten-ueber-eigene-Schaeden--Fingerzeig-auf-andere/!6222921/",
-   "q": "taz",
-   "d": "2026-10-20T17:45:00+00:00"
-  },
-  {
-   "t": "Kassenärzte sagen ab 2027 längere Termin-Wartezeiten voraus",
-   "s": "Ab 2027 wird in Arztpraxen ein festes Kontingent an Terminen festgelegt. Die Kassenärztliche Bundesvereinigung befürchtet noch längere Wartezeiten auf Termine - die Krankenkassen sehen darin Angstmacherei.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T17:41:17+00:00"
-  },
-  {
-   "t": "Kommando zurück! Die Bundeswehr braucht ihre Kasernen wieder",
-   "s": "Die Bundeswehr braucht Kasernen, Übungsplätze und Lagerflächen. Dafür greift sie auf frühere Militärgelände zurück – auch auf solche, die Kommunen für Wohngebiete und Gewerbe eingeplant haben. Wenn das Militär zurückkommt – wer setzt sich durch?Fannrich-Lautenschläger, Isabel",
-   "u": "https://www.deutschlandfunk.de/kommando-zurueck-die-bundeswehr-braucht-ihre-kasernen-wieder-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-20T16:40:00+00:00"
-  },
-  {
-   "t": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
-   "s": "Unbekannte haben einen Hackerangriff auf Mail-Konten der AfD verübt und laut eigenen Angaben Daten daraus veröffentlicht. Die AfD bestätigte einen Angriff auf Postfächer, die aber überwiegend nicht mehr genutzt würden.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T16:38:28+00:00"
-  },
-  {
-   "t": "Interne E-Mails öffentlich: AfD blamiert sich mit Datenleak",
-   "s": "Bei der AfD kommt es zu einem E-Mail-Datenleak: Zehntausende interne Mails gelangen auf eine öffentliche Website.",
-   "u": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
-   "q": "taz",
-   "d": "2026-10-20T16:21:00+00:00"
-  },
-  {
-   "t": "Rot-Rot-Grün in Mecklenburg-Vorpommern: Zur Abwechslung mal keine Briefschlachten",
-   "s": "Anders als in Berlin steuern SPD, Linke und Grüne in Mecklenburg-Vorpommern harmonisch auf eine Koalition zu. Knackpunkte werden geräuschlos versenkt.",
-   "u": "https://taz.de/Rot-Rot-Gruen-in-Mecklenburg-Vorpommern/!6222919/",
-   "q": "taz",
-   "d": "2026-10-20T16:18:00+00:00"
   }
  ]
 }

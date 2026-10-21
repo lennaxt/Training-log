@@ -1,13 +1,34 @@
 {
  "name": "Ausland",
- "updated": "2026-10-21T14:29:51+00:00",
+ "updated": "2026-10-21T19:18:04+00:00",
  "items": [
   {
-   "t": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
-   "s": "Zahlreiche Webseiten und Onlinedienste weltweit sind derzeit in Gefahr: Grund ist eine Sicherheitslücke in der weitverbreiteten Programmiersprache PHP. Das Gefahrenpotenzial ist demnach extrem hoch.",
-   "u": "https://www.tagesschau.de/ausland/it-sicherheit-php-luecke-100.html",
+   "t": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
+   "s": "Russland hat sich bereit gezeigt, die Gespräche mit den USA und der Ukraine wieder aufzunehmen. Aber sind Fortschritte wahrscheinlich? Osteuropa-Experte Umland zeigt sich im tagesschau24-Interview skeptisch.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
    "q": "Tagesschau",
-   "d": "2026-10-21T14:15:08+00:00"
+   "d": "2026-10-21T18:54:59+00:00"
+  },
+  {
+   "t": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
+   "s": "Auch US-Präsident Trump hatte sich zu den Unruhen in Frankreich zu Wort gemeldet - der französische Präsident Macron hat nun offenbar genug davon. Bei einem Besuch in Katar machte er seinem Ärger Luft. Von Cai Rienäcker.",
+   "u": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T17:48:20+00:00"
+  },
+  {
+   "t": "Verhältnis zu Israel: Ein heikles Thema für Demokraten und Republikaner",
+   "s": "In den USA schwindet die Solidarität mit Israel. Umfragen zeigen, dass sich insbesondere jüngere US-Amerikaner vom engen Verbündeten abwenden. Im Wahlkampf bereitet das Demokraten und Republikaner erhebliche Probleme. Von A. Henze.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T17:21:35+00:00"
+  },
+  {
+   "t": "Huthi-Attacken auf Saudi-Arabien: Angriff auf bin Salmans Vision",
+   "s": "Kronprinz Mohammed bin Salman will Saudi-Arabien öffnen, für Touristen und Investoren. Doch seine \"Vision 2030\" ist in Gefahr: Die Angriffe der Huthi zerstören das Image von Sicherheit und Stabilität. Von Tim Kukral.",
+   "u": "https://www.tagesschau.de/ausland/asien/huthi-saudi-arabien-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T14:35:26+00:00"
   },
   {
    "t": "Brasilien: Lula und Bolsonaro wollen Ausschluss des jeweils anderen",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/us-zwischenwahlen-wirtschaft-100.html",
    "q": "Tagesschau",
    "d": "2026-10-20T13:07:51+00:00"
-  },
-  {
-   "t": "Neuer Reaktorblock am Netz: Slowakei überholt Frankreich beim Atomstrom",
-   "s": "Die Slowakei hat einen neuen Reaktorblock ans Netz genommen. Wenn er Volllast erreicht, wird sie zum Land mit dem weltweit höchsten Atomanteil im Energiemix. Und Staatschef Fico plant bereits das nächste Kraftwerk. Von Marianne Allweiss.",
-   "u": "https://www.tagesschau.de/ausland/europa/slowakei-atomreaktor-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T12:51:16+00:00"
-  },
-  {
-   "t": "Selenskyj trifft sich mit US-Gesandtem Witkoff zu Gesprächen in Oslo",
-   "s": "In Oslo kommt der ukrainische Präsident Selenskyj mit dem US-Gesandten Witkoff zu Gesprächen zusammen. Zuletzt hatten sich die Beziehungen zwischen den USA der Ukraine wegen Trumps Umgang mit Russland wieder verschlechtert.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-treffen-witkoff-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T10:50:05+00:00"
-  },
-  {
-   "t": "Neue EU-Strategie: Ein eigener Plan für die Arktis",
-   "s": "Was in der Arktis klimatisch, wirtschaftlich und militärisch geschieht, ist von enormer Bedeutung für Europa - dieser Erkenntnis will die EU nun Taten folgen lassen. Heute will sie eine Strategie für die Region vorstellen. Von T. Spickhofen.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T10:44:55+00:00"
   }
  ]
 }
