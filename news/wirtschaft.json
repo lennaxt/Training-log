@@ -1,7 +1,63 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-21T08:35:42+00:00",
+ "updated": "2026-10-21T14:29:53+00:00",
  "items": [
+  {
+   "t": "Das abgespaltene Russlandgeschäft von Globus wirft neue Fragen auf",
+   "s": "Die Eigner der Handelsgruppe Globus sind unter dem Namen \"Hyperglobus\" weiter in Russland aktiv. Eine Plusminus-Recherche zeigt nun: Einer dieser Märkte unterstützt eine Organisation, die Ausrüstung an die russische Armee liefert. Von M. Fuchs.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-globus-handel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T13:31:14+00:00"
+  },
+  {
+   "t": "BGH-Urteil: Schufa muss über Score-Berechnung informieren",
+   "s": "Immer wieder gibt es Kritik am Score-System der Schufa. Zu undurchsichtig, lautet der Vorwurf. Nun hat der Bundesgerichtshof entschieden: Unter bestimmten Voraussetzungen muss die Schufa über die Berechnung informieren. Von Anne Stein.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-schufa-114.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T13:18:47+00:00"
+  },
+  {
+   "t": "Was eine Fusion von Tesla und SpaceX bedeuten würde",
+   "s": "Die Musk-Konzerne Tesla und SpaceX könnten sich zusammentun und so einen mehrere Billionen Dollar schweren Tech-Konzern bilden. Welche Folgen - aber auch Risiken - diese Fusion haben könnte.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-tesla-spacex-zusammenschluss-folgen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T13:08:11+00:00"
+  },
+  {
+   "t": "Gewinnprognose erhöht: Rekordgewinn für Adidas",
+   "s": "Das hören Aktionäre und Investoren immer gerne: der Sportartikelkonzern Adidas erhöht nach einem Rekordquartal die Prognose. Im DAX gehört die Aktie zu den größten Gewinnern.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-adidas-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T12:31:29+00:00"
+  },
+  {
+   "t": "Fake Hotelanzeigen - Brüssel ermittelt gegen Booking.com",
+   "s": "Unternimmt das Portal Booking.com genügend gegen Betrüger, die Reisende mit Fake-Anzeigen locken? Die EU will das ermitteln und sicherstellen, dass die Europäer ihren Urlaub ohne Angst buchen können.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/reisen-betrug-bookingcom-eu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T11:32:40+00:00"
+  },
+  {
+   "t": "Iranisches Finanznetzwerk: Eine deutsche Bank im Visier Teherans",
+   "s": "Internationale Sanktionen gegen das iranische Regime erschweren den Zahlungsverkehr. Deshalb unterhalten die Mullahs ein Netzwerk aus Hunderten Tarnfirmen. Nach Recherchen von Report Mainz und dem Spiegel wollten sie eine Bank in Bayern übernehmen.",
+   "u": "https://www.tagesschau.de/investigativ/report-mainz/iran-bank-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T09:00:03+00:00"
+  },
+  {
+   "t": "Streaming-Gigant unter Druck: Netflix wächst langsamer",
+   "s": "Netflix war jahrelang der unumstrittene Marktführer beim Streaming. Doch der Konzern kämpft gegen immer stärkere Konkurrenz. Neue Produktionen sollen helfen, die Zuschauer wieder mehr zu fesseln - und mehr Werbung zu verkaufen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-streaming-serien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T08:20:43+00:00"
+  },
+  {
+   "t": "Kommentar zum Investitionsgipfel: Wenn die Fachkräfte fehlen",
+   "s": "Bundeskanzler Merz möchte mit einem Investitionsgipfel mehr Kapital nach Deutschland locken. Grundsätzlich ist Deutschland attraktiv für Investoren. Es ist kreditwürdig und rechtssicher. Beim Thema Fachkräfte sieht es allerdings zunehmend düster aus.Ein Kommentar von Falk Steiner",
+   "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-21T08:10:00+00:00"
+  },
   {
    "t": "Update Wirtschaft vom 21.10.2026",
    "s": "Update Wirtschaft vom 21.10.2026",
@@ -11,7 +67,7 @@
   },
   {
    "t": "Klimaziele der Regierung: Die CDU, das Klima und der Luftverkehr",
-   "s": "Die CDU will den innerdeutschen Flugverkehr stärken. Dabei gilt: Kurzstreckenflüge sind pro Kilometer besonders klimaschädlich - Start und Landung verursachen den Großteil der Emissionen. Wie passt das zu den deutschen Klimazielen? Von K. Aue.",
+   "s": "Die CDU will den innerdeutschen Flugverkehr stärken. Dabei gilt: Kurzstreckenflüge sind pro Kilometer besonders klimaschädlich - der Start verursacht einen Großteil der Emissionen. Wie passt das zu den deutschen Klimazielen? Von K. Aue.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html",
    "q": "Tagesschau",
    "d": "2026-10-21T07:25:52+00:00"
@@ -22,13 +78,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html",
    "q": "Tagesschau",
    "d": "2026-10-21T07:11:45+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX mit leichten Gewinnen erwartet",
-   "s": "Hoffnungen auf eine Annäherung im Nahost-Konflikt dürften auch heute dafür sorgen, dass der DAX leicht im Plus startet. Dazu kommen starke Unternehmensbilanzen - etwa von SpaceX und Adidas.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T05:21:21+00:00"
   },
   {
    "t": "China-Schock 2.0 - wie sich Europas Industrie schützen kann",
@@ -120,55 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/technologie/bund-nvidia-zusammenarbeit-ki-100.html",
    "q": "Tagesschau",
    "d": "2026-10-19T19:23:41+00:00"
-  },
-  {
-   "t": "Reiche verspricht Milliarden für Wasserstoff-Ausbau",
-   "s": "Der Markt für Wasserstoff kommt nur langsam in Gang. Wirtschaftsministerin Reiche will nun mit Milliardenhilfen für die Industrie und Anreizen für klimafreundlichen Stahl gegensteuern.",
-   "u": "https://www.tagesschau.de/wirtschaft/reiche-wasserstoff-ausbau-millarden-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T12:34:29+00:00"
-  },
-  {
-   "t": "Anteil weiblicher Führungskräfte in Deutschland weiterhin niedrig",
-   "s": "Der Anteil von Frauen in Spitzenpositionen verharrt in Deutschland weiter unter dem EU-Durchschnitt: Weniger als ein Drittel der Chefposten war 2025 weiblich besetzt. Spitzenreiter im EU-Vergleich bleibt Schweden.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/frauen-anteil-fuehrungspositionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T12:19:43+00:00"
-  },
-  {
-   "t": "Marktbericht: Sorgen um Frankreich belasten den Euro",
-   "s": "Die Gewalteskalation in Frankreich lastet auch auf den Finanzmärkten. Sie lässt die Sorge um die französischen Staatsfinanzen wieder aufleben. Der Euro fiel zeitweise wieder unter 1,12 Dollar zurück.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-frankreich-proteste-euro-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T12:05:00+00:00"
-  },
-  {
-   "t": "Volkswagen will offenbar Gehälter einfrieren",
-   "s": "Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der Konzern will sich dazu nicht äußern.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T11:27:22+00:00"
-  },
-  {
-   "t": "Bringt der Aufschwung in Deutschland auch mehr Jobs?",
-   "s": "In der Industrie sind Zehntausende Jobs gefährdet. Zugleich erwarten Ökonomen, dass die deutsche Wirtschaft stärker wächst als gedacht. Kann das den Stellenabbau stoppen? Von Sebastian Schreiber.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt-konjunktur-industrie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T11:25:35+00:00"
-  },
-  {
-   "t": "IW-Studie: Fachkräftemangel bremst Infrastruktur-Projekte aus",
-   "s": "Der Bund will massiv in Brücken, Netze und Digitalisierung investieren. Doch laut einer Studie des Instituts der deutschen Wirtschaft fehlen schon jetzt die Fachkräfte, um die Projekte umzusetzen.",
-   "u": "https://www.tagesschau.de/wirtschaft/fachkraeftemaengel-infrastruktur-iw-studie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T08:07:38+00:00"
-  },
-  {
-   "t": "Fake-Sneaker sind ein riesiges Geschäft - doch Käufer gehen in Risiko",
-   "s": "Sneaker-Kultmodelle können vierstellige Summen kosten. Viele Menschen greifen daher zu deutlich günstigeren Kopien. Doch das kann gefährlich werden. Von G. Marković-Schomburg, I. Mäueler und L.-M. Hiltscher.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/sneaker-kultmodelle-investment-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-18T14:46:25+00:00"
   }
  ]
 }

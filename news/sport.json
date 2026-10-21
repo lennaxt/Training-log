@@ -1,9 +1,16 @@
 {
  "name": "Sport",
- "updated": "2026-10-21T08:35:46+00:00",
+ "updated": "2026-10-21T14:29:57+00:00",
  "items": [
   {
-   "t": "Senioren in Korea: Rüstig für die KI-Zukunft",
+   "t": "Indischer Politiker über Massenproteste: „Das System lässt junge Menschen im Stich“",
+   "s": "Indiens Kakerlakenbewegung bekämpft die Wahlkommission als Instrument der Regierung von Narendra Modi, sagt der Oppositionspolitiker Shashi Tharoor.",
+   "u": "https://taz.de/Kakerlakenbewegung-in-Indien-Das-System-laesst-junge-Menschen-im-Stich/!6222829/",
+   "q": "taz",
+   "d": "2026-10-21T09:02:00+00:00"
+  },
+  {
+   "t": "Senioren in Südkorea: Rüstig für die KI-Zukunft",
    "s": "Südkoreas rapide alternde Bevölkerung lernt den Umgang mit künstlicher Intelligenz. Der technologische Wandel hinterlässt nicht nur positive Spuren im Land.",
    "u": "https://taz.de/Suedkoreas-rapide-alternde-Bevoelkerung-lernt-den-Umgang-mit-KI-So-laeuft-es/!6222820/",
    "q": "taz",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Grenzkrieg-am-Hindukusch/!6215018/",
    "q": "taz",
    "d": "2026-09-21T11:44:00+00:00"
-  },
-  {
-   "t": "China, USA und KI: Gespräche über ein Meldesystem für KI-Sicherheitsrisiken",
-   "s": "Am Sonntag sprach der US-Finanzminister mit Chinas Vize-Ministerpräsident. Ergebnis: Die Länder wollen künftig Informationen über KI-Vorfälle austauschen.",
-   "u": "https://taz.de/China-USA-und-KI/!6214922/",
-   "q": "taz",
-   "d": "2026-09-21T06:50:00+00:00"
   }
  ]
 }

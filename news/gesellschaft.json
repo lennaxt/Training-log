@@ -1,10 +1,31 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-21T08:35:44+00:00",
+ "updated": "2026-10-21T14:29:55+00:00",
  "items": [
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Trump-Gesandter Witkoff reist weiter zu Putin",
-   "s": "Erst traf er Selenskyj und europäische Verbündete in Oslo, nun geht es weiter nach St. Petersburg. Dort will Witkoff Putin neue Friedensvorschläge vorlegen.",
+   "t": "Schwangerschaftsabbruch in Polen: Polens Parlament liberalisiert das Abtreibungsrecht",
+   "s": "Zwei Gesetzentwürfe aus dem Mitte-links-Bündnis von Donald Tusk finden im Sejm eine Mehrheit. Jetzt droht ein Veto von Präsident Karol Nawrocki.",
+   "u": "https://taz.de/Schwangerschaftsabbruch-in-Polen/!6223308/",
+   "q": "taz",
+   "d": "2026-10-21T13:15:00+00:00"
+  },
+  {
+   "t": "Ukrainische Gegenoffensive im Donbass: „Operation Vivaldi“ bringt Russland aus dem Takt",
+   "s": "Die Ukraine befreit gerade wieder mehr Territorium, als sie verliert. Ein wichtiger russischer Vorstoß konnte gestoppt und zurückgedrängt werden.",
+   "u": "https://taz.de/Ukranische-Gegenoffensive-im-Donbass/!6223376/",
+   "q": "taz",
+   "d": "2026-10-21T13:06:00+00:00"
+  },
+  {
+   "t": "Ausschreitungen in Italien: Mit Härte gegen gewaltsame Proteste",
+   "s": "Die italienische Regierung hat ein „Sicherheitsdekret“ verabschiedet, das sofort in Kraft tritt. Was das für die protestierenden Jugendlichen bedeutet.",
+   "u": "https://taz.de/Sozialproteste-in-Italien-Wie-die-Regierung-um-Meloni-nun-gegen-Jugendliche-durchgreift/!6223324/",
+   "q": "taz",
+   "d": "2026-10-21T12:28:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Russland kündigt erste Diesellieferung in die USA an",
+   "s": "In St. Petersburg trifft US-Unterhändler Witkoff Kremlchef Putin. Moskau lässt US-Amerikaner frei und gibt Details für Diesellieferung bekannt.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223092/",
    "q": "taz",
    "d": "2026-10-21T06:12:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/EU-Asylpolitik/!6221230/",
    "q": "taz",
    "d": "2026-10-18T07:28:00+00:00"
-  },
-  {
-   "t": "Queerfeindlichkeit unter Jugendlichen: An der Toleranzgrenze",
-   "s": "Ausgerechnet in den Niederlanden sinkt die Akzeptanz von Homosexualität unter Jugendlichen drastisch. Was kann man tun? Zu Besuch an einer Schule.",
-   "u": "https://taz.de/Queerfeindlichkeit-unter-Jugendlichen/!6218182/",
-   "q": "taz",
-   "d": "2026-10-17T18:14:00+00:00"
-  },
-  {
-   "t": "Krawalle am Protesttag in Frankreich: Niedergebranntes Rathaus von Limoges wird zum Symbol",
-   "s": "Mehr als eine halbe Million Menschen beteiligten sich Samstag an landesweiten Protesten. US-Vize Vance macht Einwanderung für Randale verantwortlich.",
-   "u": "https://taz.de/Krawalle-statt-Demos-in-Frankreich/!6222308/",
-   "q": "taz",
-   "d": "2026-10-17T16:00:00+00:00"
-  },
-  {
-   "t": "Energie-Knappheit in der Ukraine: Sie wissen nicht, wohin",
-   "s": "In der Ukraine steht der wohl härteste Winter seit Anfang des Krieges bevor. Die NGO Proliska rechnet mit einer „Evakuierungswelle“.",
-   "u": "https://taz.de/Energie-Knappheit-in-der-Ukraine/!6218193/",
-   "q": "taz",
-   "d": "2026-10-16T17:45:00+00:00"
   }
  ]
 }

@@ -1,13 +1,69 @@
 {
  "name": "Ausland",
- "updated": "2026-10-21T08:35:41+00:00",
+ "updated": "2026-10-21T14:29:51+00:00",
  "items": [
   {
+   "t": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
+   "s": "Zahlreiche Webseiten und Onlinedienste weltweit sind derzeit in Gefahr: Grund ist eine Sicherheitslücke in der weitverbreiteten Programmiersprache PHP. Das Gefahrenpotenzial ist demnach extrem hoch.",
+   "u": "https://www.tagesschau.de/ausland/it-sicherheit-php-luecke-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T14:15:08+00:00"
+  },
+  {
+   "t": "Brasilien: Lula und Bolsonaro wollen Ausschluss des jeweils anderen",
+   "s": "Kurz vor der Stichwahl in Brasilien verschärft sich der Wahlkampf zwischen Lula und Bolsonaro. Beide Präsidentschaftsbewerber gehen nun gerichtlich gegen den jeweils anderen vor, um eine Annullierung der Kandidatur zu erreichen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/lula-bolsonaro-ausschluss-stichwahl-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T13:40:07+00:00"
+  },
+  {
+   "t": "Polens Parlament für Lockerung des Abtreibungsrechts",
+   "s": "Die Verschärfung des Abtreibungsrechts unter der alten PiS-Regierung hatte monatelange Massenproteste in Polen ausgelöst. Nun hat das Parlament eine Lockerung eingeleitet - aber es droht ein Veto.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-abtreibungsrecht-lockerung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T13:08:58+00:00"
+  },
+  {
+   "t": "Russland lässt inhaftierten US-Bürger Stephen Hubbard frei",
+   "s": "Russland hat den US-Bürger Stephen Hubbard freigelassen. Er war 2024 wegen angeblichem \"Söldnertum\" für die Ukraine zu einer Haftstrafe verurteilt worden. Nahezu zeitgleich mit dessen Freilassung wurde offenbar ein deutscher Staatsbürger festgenommen.",
+   "u": "https://www.tagesschau.de/ausland/hubbard-freilassung-usa-russland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T12:14:14+00:00"
+  },
+  {
+   "t": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
+   "s": "In St. Petersburg berät Russlands Präsident Putin mit dem US-Vermittler Witkoff über den Ukraine-Krieg. Zum Auftakt der Gespräche schlug Putin ein Dreier-Treffen mit Trump und Xi in China vor - und kündigte erste Diesellieferungen an die USA an.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T11:55:51+00:00"
+  },
+  {
+   "t": "UN-Konferenz: Delegationen bemühen sich um Frieden im Sudan",
+   "s": "Seit mehr als dreieinhalb Jahren tobt im Sudan ein Krieg. Die UN bemühen sich auf einer Konferenz in Genf, eine politische Lösung für den Konflikt zu finden. Unterdessen hält die Gewalt im Land unvermindert an.",
+   "u": "https://www.tagesschau.de/ausland/afrika/sudan-konferenz-108.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T09:54:59+00:00"
+  },
+  {
    "t": "US-Vermittler Witkoff berät mit Putin über Ukraine",
-   "s": "Nach Gesprächen mit dem ukrainischen Präsidenten Selenskyj in Oslo ist US-Unterhändler Witkoff zu Verhandlungen mit der russischen Führung in St. Petersburg eingetroffen. US-Präsident Trump hatte Selenskyj zuvor zu einem \"Deal\" aufgefordert.",
+   "s": "Nach Gesprächen mit dem ukrainischen Präsidenten Selenskyj in Oslo ist US-Unterhändler Witkoff zu Verhandlungen mit der russischen Führung in St. Petersburg zusammengekommen. US-Präsident Trump hatte Selenskyj zuvor zu einem \"Deal\" aufgefordert.",
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html",
    "q": "Tagesschau",
-   "d": "2026-10-21T08:15:02+00:00"
+   "d": "2026-10-21T09:37:12+00:00"
+  },
+  {
+   "t": "Proteste in Italien: Blockierte Autobahnen, leere Supermarktregale",
+   "s": "Die Regale in vielen Supermärkten in Süditalien sind leer - auch der Pasta-Nachschub stockt. Grund sind Proteste von Lkw-Fahrern und Landwirten aufgrund hoher Dieselpreise. Die Regierung sagte Hilfe zu - aber reicht das? Von Lisa Weiß.",
+   "u": "https://www.tagesschau.de/ausland/europa/italien-protest-lkw-fahrer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T09:31:54+00:00"
+  },
+  {
+   "t": "Wer an den Ausschreitungen in Frankreich beteiligt war",
+   "s": "Die Gewalteskalation beim landesweiten Protesttag hat Frankreich schwer erschüttert. Wer waren die Randalierer und Plünderer? Für den Premierminister ist die Antwort klar, doch die Wirklichkeit ist komplexer. Von Carolin Dylla.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-120.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T08:52:52+00:00"
   },
   {
    "t": "Musk ordnete laut Medienberichten Drosselung von Starlink für Ukraine an",
@@ -113,62 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-100.html",
    "q": "Tagesschau",
    "d": "2026-10-20T10:44:55+00:00"
-  },
-  {
-   "t": "Vor Wahl in Israel: Ex-General Eisenkot könnte Netanjahu schlagen",
-   "s": "Vor der Wahl in Israel zeichnet sich ein knappes Rennen ab. Während Amtsinhaber Netanjahu auf Polarisierung setzt, versucht sein Herausforderer Eisenkot, die gesellschaftliche Spaltung zu überwinden. Wer ist der Ex-Militär? Von Bettina Meier.",
-   "u": "https://www.tagesschau.de/ausland/israel-wahlkampf-eisenkot-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T10:25:53+00:00"
-  },
-  {
-   "t": "Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben",
-   "s": "In der kanadischen Provinz Alberta gibt es kein Referendum über eine Abspaltung vom Rest des Landes. Eine deutliche Mehrheit votierte für die nationale Einheit. Die Separatismus-Bestrebungen hatten auch das Interesse Trumps geweckt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T09:25:41+00:00"
-  },
-  {
-   "t": "Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht",
-   "s": "In Paris war das Betreten zentraler Plätze verboten, in Lyon durfte man nur mit triftigem Grund auf die Straße. Die nächtlichen Ausgangssperren haben sich aus Sicht der Regierung bewährt. Kommende Nacht soll es wieder welche geben - wenn nötig.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-ausgangssperren-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T08:28:16+00:00"
-  },
-  {
-   "t": "Wahlen in den USA: Was zu den Midterms wichtig ist",
-   "s": "Es ist ein wichtiger Stimmungstest für Präsident Trump: In zwei Wochen sind die US-Bürger zu den Zwischenwahlen aufgerufen. Wer wird gewählt, welche Themen bestimmen den Wahlkampf und welche Chancen haben die Demokraten? Von E. Aretz und J. Unsöld.",
-   "u": "https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T06:00:43+00:00"
-  },
-  {
-   "t": "Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj",
-   "s": "\"Wir haben der Ukraine viel gegeben - sie hat uns nichts gegeben\": US-Präsident Trump verschärft den Ton gegen Selenskyj. Der ukrainische Präsident wiederum wirft den USA vor, Waffenlieferungen zurückzuhalten.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T04:47:36+00:00"
-  },
-  {
-   "t": "Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird",
-   "s": "Lange galt die Arktis als Region mit wenigen Spannungen. Doch die geopolitische Lage hat sich grundlegend geändert, und auch der Klimawandel betrifft den hohen Norden. Eine neue EU-Strategie soll dem Rechnung tragen. Von A. Bartram.",
-   "u": "https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T04:27:24+00:00"
-  },
-  {
-   "t": "Uruguay: Ein Land, fast unabhängig von Öl und Gas",
-   "s": "Das 3,5-Millionen-Einwohner-Land in Südamerika steckte 2008 in einer Energiekrise. Heute gilt Uruguay als Klima-Champion. Wie hat das Land die Energiewende geschafft - und würde das auch für andere Länder funktionieren? Von Anne Herrberg.",
-   "u": "https://www.tagesschau.de/ausland/amerika/uruguay-erneuerbare-energie-klima-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T02:30:18+00:00"
-  },
-  {
-   "t": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen",
-   "s": "Die gewalttätigen Proteste in Frankreich dominieren seit Tagen die Schlagzeilen. Doch auch in anderen Ländern Europas gibt es derzeit Großdemos und Ausschreitungen, die Gründe ähneln einander vielfach. Wer protestiert gerade in welchen Ländern - und warum?",
-   "u": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T19:08:04+00:00"
   }
  ]
 }

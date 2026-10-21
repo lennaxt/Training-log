@@ -1,17 +1,87 @@
 {
  "name": "Inland",
- "updated": "2026-10-21T08:35:41+00:00",
+ "updated": "2026-10-21T14:29:51+00:00",
  "items": [
   {
+   "t": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
+   "s": "Ein attraktives Ticket für gelegentliche Bus- und Bahnfahrer - das hatten Hamburg und Nordrhein-Westfalen für die Verkehrsministerkonferenz zur Beratung vorgeschlagen. Doch nun ist \"Deutschlandticket light\" bereits wieder vom Tisch.",
+   "u": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T13:56:23+00:00"
+  },
+  {
+   "t": "Schwangerschaftsabbruch in Polen: Polens Parlament liberalisiert das Abtreibungsrecht",
+   "s": "Zwei Gesetzentwürfe aus dem Mitte-links-Bündnis von Donald Tusk finden im Sejm eine Mehrheit. Jetzt droht ein Veto von Präsident Karol Nawrocki.",
+   "u": "https://taz.de/Schwangerschaftsabbruch-in-Polen/!6223308/",
+   "q": "taz",
+   "d": "2026-10-21T13:15:00+00:00"
+  },
+  {
+   "t": "Ukrainische Gegenoffensive im Donbass: „Operation Vivaldi“ bringt Russland aus dem Takt",
+   "s": "Die Ukraine befreit gerade wieder mehr Territorium, als sie verliert. Ein wichtiger russischer Vorstoß konnte gestoppt und zurückgedrängt werden.",
+   "u": "https://taz.de/Ukranische-Gegenoffensive-im-Donbass/!6223376/",
+   "q": "taz",
+   "d": "2026-10-21T13:06:00+00:00"
+  },
+  {
+   "t": "CSU stürzt in Beliebtheit ab: Auch in Bayern legen die Ränder zu",
+   "s": "Kurz vor dem Parteitag der CSU ereilen Parteichef Söder schlechte Neuigkeiten. Eine Umfrage malt ein Gespenst an die Wand: Schwarz-Grün.",
+   "u": "https://taz.de/CSU-stuerzt-in-Beliebtheit-ab/!6223365/",
+   "q": "taz",
+   "d": "2026-10-21T12:48:00+00:00"
+  },
+  {
+   "t": "Ausschreitungen in Italien: Mit Härte gegen gewaltsame Proteste",
+   "s": "Die italienische Regierung hat ein „Sicherheitsdekret“ verabschiedet, das sofort in Kraft tritt. Was das für die protestierenden Jugendlichen bedeutet.",
+   "u": "https://taz.de/Sozialproteste-in-Italien-Wie-die-Regierung-um-Meloni-nun-gegen-Jugendliche-durchgreift/!6223324/",
+   "q": "taz",
+   "d": "2026-10-21T12:28:00+00:00"
+  },
+  {
+   "t": "Ministerium unterläuft Panne beim Gesetz zur Tabaksteuer",
+   "s": "Gestern wurde das Gesetz zur Anhebung der Tabaksteuer veröffentlicht. Eigentlich sollen die Steuersätze ab 2027 steigen. Doch durch eine Panne des Finanzministeriums gelten sie ab sofort - zumindest auf dem Papier.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T11:58:33+00:00"
+  },
+  {
+   "t": "Häuser sollen besser gegen Naturgefahren versichert werden",
+   "s": "Hochwasser, Starkregen, Erdbeben: Gegen Schäden nach solchen Naturkatastrophen sind Häuser nicht standardmäßig versichert. Das will die Bundesregierung nun ändern - und legt ein erstes Papier mit Eckpunkten vor.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/versicherungen-naturkatastrophen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T11:48:22+00:00"
+  },
+  {
+   "t": "Indischer Politiker über Massenproteste: „Das System lässt junge Menschen im Stich“",
+   "s": "Indiens Kakerlakenbewegung bekämpft die Wahlkommission als Instrument der Regierung von Narendra Modi, sagt der Oppositionspolitiker Shashi Tharoor.",
+   "u": "https://taz.de/Kakerlakenbewegung-in-Indien-Das-System-laesst-junge-Menschen-im-Stich/!6222829/",
+   "q": "taz",
+   "d": "2026-10-21T09:02:00+00:00"
+  },
+  {
+   "t": "Kommentar zum Investitionsgipfel: Wenn die Fachkräfte fehlen",
+   "s": "Bundeskanzler Merz möchte mit einem Investitionsgipfel mehr Kapital nach Deutschland locken. Grundsätzlich ist Deutschland attraktiv für Investoren. Es ist kreditwürdig und rechtssicher. Beim Thema Fachkräfte sieht es allerdings zunehmend düster aus.Ein Kommentar von Falk Steiner",
+   "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-21T08:10:00+00:00"
+  },
+  {
    "t": "Klimaziele der Regierung: Die CDU, das Klima und der Luftverkehr",
-   "s": "Die CDU will den innerdeutschen Flugverkehr stärken. Dabei gilt: Kurzstreckenflüge sind pro Kilometer besonders klimaschädlich - Start und Landung verursachen den Großteil der Emissionen. Wie passt das zu den deutschen Klimazielen? Von K. Aue.",
+   "s": "Die CDU will den innerdeutschen Flugverkehr stärken. Dabei gilt: Kurzstreckenflüge sind pro Kilometer besonders klimaschädlich - der Start verursacht einen Großteil der Emissionen. Wie passt das zu den deutschen Klimazielen? Von K. Aue.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html",
    "q": "Tagesschau",
    "d": "2026-10-21T07:25:52+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Trump-Gesandter Witkoff reist weiter zu Putin",
-   "s": "Erst traf er Selenskyj und europäische Verbündete in Oslo, nun geht es weiter nach St. Petersburg. Dort will Witkoff Putin neue Friedensvorschläge vorlegen.",
+   "t": "Sicherheitsexperte: Putin will ukrainischen Export lahmlegen",
+   "s": "Russland greift nun auch Frachtschiffe auf See in den Wirtschaftszonen Bulgariens und Rumäniens an – eine neue Eskalationsstufe. Damit soll die Ukraine weiterer Wege für den Export ihrer Agrarprodukte beraubt werden, sagt Sicherheitsexperte Jilge.Götzke, Manfred",
+   "u": "https://www.deutschlandfunk.de/sicherheit-im-schwarzen-meer-interview-mit-wilfried-jilge-dgap-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-21T07:19:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Russland kündigt erste Diesellieferung in die USA an",
+   "s": "In St. Petersburg trifft US-Unterhändler Witkoff Kremlchef Putin. Moskau lässt US-Amerikaner frei und gibt Details für Diesellieferung bekannt.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223092/",
    "q": "taz",
    "d": "2026-10-21T06:12:00+00:00"
@@ -36,13 +106,6 @@
    "u": "https://taz.de/Suedkoreas-rapide-alternde-Bevoelkerung-lernt-den-Umgang-mit-KI-So-laeuft-es/!6222820/",
    "q": "taz",
    "d": "2026-10-21T05:09:00+00:00"
-  },
-  {
-   "t": "Ministerium unterläuft Panne beim Gesetz zur Tabaksteuer",
-   "s": "Gestern wurde das Gesetz zur Anhebung der Tabaksteuer veröffentlicht. Eigentlich sollen die Steuersätze ab 2027 steigen. Doch durch eine Panne des Finanzministeriums gelten sie ab sofort - zumindest auf dem Papier.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T04:52:22+00:00"
   },
   {
    "t": "Neuer Landtag von Mecklenburg-Vorpommern: Schwerin wählt nach Plan",
@@ -106,69 +169,6 @@
    "u": "https://taz.de/Rot-Rot-Gruen-in-Mecklenburg-Vorpommern/!6222919/",
    "q": "taz",
    "d": "2026-10-20T16:18:00+00:00"
-  },
-  {
-   "t": "Pflegende Angehörige: Mehr Arbeit zu Hause, weniger Arbeit am Markt",
-   "s": "Immer mehr Pflegebedürftigen werden zu Hause betreut. Das hat Folgen für den Arbeitsmarkt, warnt eine neue Studie. Patientenschützer haben eine andere Perspektive.",
-   "u": "https://taz.de/Pflegende-Angehoerige/!6222979/",
-   "q": "taz",
-   "d": "2026-10-20T16:07:00+00:00"
-  },
-  {
-   "t": "Deportation von Kindern nach Russland: Der Kreml will „kleine Russen“ aus ihnen machen",
-   "s": "Tausende ukrainische Kinder wurden seit 2022 in Putins Reich deportiert. Ein Sachbuch zeichnet das Leid von vier Familien nach, die bis heute hoffen.",
-   "u": "https://taz.de/Deportation-von-Kindern-nach-Russland/!6222961/",
-   "q": "taz",
-   "d": "2026-10-20T16:02:00+00:00"
-  },
-  {
-   "t": "Urteil gegen Sektenführer in Kenia: Mord in 191 Fällen",
-   "s": "Jahrelang konnte Paul Mackenzie unbehelligt Eltern dazu zwingen, ihre Kinder verhungern zu lassen. Jetzt wurde er mit seinen Mitstreitern verurteilt.",
-   "u": "https://taz.de/Urteil-gegen-Sektenfuehrer-in-Kenia/!6222918/",
-   "q": "taz",
-   "d": "2026-10-20T14:54:00+00:00"
-  },
-  {
-   "t": "Mit wem will die SPD wohin?",
-   "s": "Bislang kursieren nur Namen. Handfeste Bewerbungen für den SPD-Chefposten gibt es noch nicht, dafür einige Absagen. Einer sagt nicht Nein, andere sagen gar nichts. Doch die SPD muss mehr klären als nur Personalfragen. Von Christina Nagel.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-kurs-vorsitz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T14:13:44+00:00"
-  },
-  {
-   "t": "Auto rast in australische Abgeordnete: Sie war kein Feindbild, trotzdem wurde Helen Haines Opfer",
-   "s": "In Australien wurde die unabhängige Abgeordnete Helen Haines bei einem Angriff mit einem Auto schwer verletzt. Das löst eine Debatte aus.",
-   "u": "https://taz.de/Auto-rast-in-australische-Abgeordnete/!6222844/",
-   "q": "taz",
-   "d": "2026-10-20T14:05:00+00:00"
-  },
-  {
-   "t": "55 Festnahmen in Portugal: Polizei räumt Protestlager gegen Wohnungsnot in Lissabon",
-   "s": "In der portugiesischen Hauptstadt Lissabon demonstrierten Menschen gegen hohe Mieten und richteten ein Protestcamp ein. Nun ging die Polizei dagegen vor.",
-   "u": "https://taz.de/Polizei-raeumt-Protestlager-gegen-Wohnungsnot-in-Lissabon/!6222989/",
-   "q": "taz",
-   "d": "2026-10-20T12:49:00+00:00"
-  },
-  {
-   "t": "Bundesregierung spricht von Investitionszusagen in Milliardenhöhe",
-   "s": "Der Investitionsgipfel in Berlin soll mehr Kapital nach Deutschland locken. Kanzler Merz und Wirtschaftsministerin Reiche sprechen bereits von ersten Zusagen: Unternehmen sollen milliardenschwere Investitionen angekündigt haben.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/investitionsgipfel-114.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T12:23:47+00:00"
-  },
-  {
-   "t": "Göttinger Jugendzentrum unter Druck: Finanzamt droht Juzi mit Entzug der Gemeinnützigkeit",
-   "s": "Wegen Hinweisen auf „Antifa“-Bezüge droht dem Juzi Göttingen der Entzug der Gemeinnützigkeit. Der Verein sieht sich einem politischen Angriff ausgesetzt.",
-   "u": "https://taz.de/Goettinger-Jugendzentrum-unter-Druck/!6222228/",
-   "q": "taz",
-   "d": "2026-10-20T11:42:00+00:00"
-  },
-  {
-   "t": "Die eine Frage: Soll man AfD-Wählern Argumente entgegenhalten?",
-   "s": "Man müsse mit Rechtspopulisten in einen Streit der Argumente treten, statt sie zu ignorieren oder auszugrenzen, fordert Winfried Kretschmann. Nur wie?",
-   "u": "https://taz.de/Die-eine-Frage/!6218160/",
-   "q": "taz",
-   "d": "2026-10-20T11:39:00+00:00"
   }
  ]
 }
