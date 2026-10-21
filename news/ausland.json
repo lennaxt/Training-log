@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-10-20T23:53:51+00:00",
+ "updated": "2026-10-21T08:35:41+00:00",
  "items": [
+  {
+   "t": "US-Vermittler Witkoff berät mit Putin über Ukraine",
+   "s": "Nach Gesprächen mit dem ukrainischen Präsidenten Selenskyj in Oslo ist US-Unterhändler Witkoff zu Verhandlungen mit der russischen Führung in St. Petersburg eingetroffen. US-Präsident Trump hatte Selenskyj zuvor zu einem \"Deal\" aufgefordert.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T08:15:02+00:00"
+  },
+  {
+   "t": "Musk ordnete laut Medienberichten Drosselung von Starlink für Ukraine an",
+   "s": "Der US-Technologieunternehmer Musk ist Medienberichten zufolge für die mutmaßliche Einschränkung der Satellitenkommunikation in der Ukraine verantwortlich. Sollte das zutreffend sein, wirft das einige Fragen auf - auch an US-Präsident Trump.",
+   "u": "https://www.tagesschau.de/ausland/europa/musk-spacelink-drosselung-ukraine-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T06:30:22+00:00"
+  },
+  {
+   "t": "El Salvadors Präsident kündigt an, Tausende Häftlinge freizulassen",
+   "s": "Menschenrechtsorganisationen kritisieren, dass etwa die Hälfte der 90.000 Menschen in El Salvadors Gefängnissen unschuldig inhaftiert ist. Nun hat Präsident Bukele überraschend angekündigt, Tausende freizulassen. Von Jenny Barke.",
+   "u": "https://www.tagesschau.de/ausland/amerika/el-salvador-bukele-gefangene-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T03:05:13+00:00"
+  },
+  {
+   "t": "Nigeria bestätigt ersten Ebola-Fall",
+   "s": "Bislang waren drei afrikanische Länder von dem aktuellen Ebola-Ausbruch betroffen, nun meldet auch Nigeria einen Fall. Eine Frau sei in der Hauptstadt Abuja in Behandlung, so die Behörden. Nigeria ist das bevölkerungsreichste Land auf dem Kontinent.",
+   "u": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T01:11:10+00:00"
+  },
   {
    "t": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
    "s": "Trump hatte Interesse an einem Gespräch mit den Präsidenten Russlands und Chinas über die Ukraine gezeigt. Nach einem Treffen mit europäischen Partnern sowie dem US-Sondergesandten Witkoff in Oslo forderte Präsident Selenskyj nun eine Beteiligung Kiews.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html",
    "q": "Tagesschau",
    "d": "2026-10-19T19:08:04+00:00"
-  },
-  {
-   "t": "Jemen: Mehr als 50 Tote bei Huthi-Angriff auf Militärlager",
-   "s": "Die Huthi-Miliz beschießt im Jemen ein Militärlager offenbar mit mehreren ballistischen Raketen. Mindestens 53 Soldaten kommen ums Leben. Die proiranische Miliz spricht von Vergeltung gegen Saudi-Arabien.",
-   "u": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriff-militaerlager-viele-tote-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T18:35:46+00:00"
-  },
-  {
-   "t": "Zwölf Migranten bei zwei Bootsunglücken in der Ägäis gestorben",
-   "s": "Vor den griechischen Inseln Samos und Lesbos sind binnen weniger Stunden zwei Boote mit Migranten verunglückt. Laut Behörden starben mindestens zwölf Menschen. Ein mutmaßlicher Schleuser wurde festgenommen.",
-   "u": "https://www.tagesschau.de/ausland/aegaeis-bootsunglueck-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T12:07:14+00:00"
-  },
-  {
-   "t": "In Kiew wächst die Kritik an Bürgermeister Klitschko",
-   "s": "In Kiew steht der nächste Kriegswinter bevor. Viele Menschen werfen Bürgermeister Klitschko hier Missmanagement vor. Statt die Strom- und Wasserversorgung zu sichern, würde Geld für Straßenbau ausgegeben. Von Rebecca Barth.",
-   "u": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T09:04:40+00:00"
-  },
-  {
-   "t": "Alberta stimmt über mögliche Abspaltung von Kanada ab",
-   "s": "Seit einigen Jahren erstarkt in der ölreichen Provinz Alberta im Westen Kanadas eine Separatistenbewegung - unterstützt auch von US-Präsident Trump. Heute wird über ein mögliches Unabhängigkeitsreferendum abgestimmt. Von Martin Ganslmeier.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kanada-alberta-volksabstimmung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T04:55:25+00:00"
   }
  ]
 }

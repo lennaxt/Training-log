@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-20T23:53:53+00:00",
+ "updated": "2026-10-21T08:35:42+00:00",
  "items": [
+  {
+   "t": "Update Wirtschaft vom 21.10.2026",
+   "s": "Update Wirtschaft vom 21.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1669908.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T08:05:45+00:00"
+  },
+  {
+   "t": "Klimaziele der Regierung: Die CDU, das Klima und der Luftverkehr",
+   "s": "Die CDU will den innerdeutschen Flugverkehr stärken. Dabei gilt: Kurzstreckenflüge sind pro Kilometer besonders klimaschädlich - Start und Landung verursachen den Großteil der Emissionen. Wie passt das zu den deutschen Klimazielen? Von K. Aue.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T07:25:52+00:00"
+  },
+  {
+   "t": "Tesla und SpaceX prüfen Zusammenschluss - noch mehr Macht für Musk?",
+   "s": "Die beiden US-Konzerne Tesla und SpaceX, die von Tech-Milliardär Elon Musk geführt werden, prüfen einen Zusammenschluss. Sollte dieser zustande kommen, wäre es die bislang größte Fusion zweier Firmen. Doch es gibt große Hürden.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T07:11:45+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX mit leichten Gewinnen erwartet",
+   "s": "Hoffnungen auf eine Annäherung im Nahost-Konflikt dürften auch heute dafür sorgen, dass der DAX leicht im Plus startet. Dazu kommen starke Unternehmensbilanzen - etwa von SpaceX und Adidas.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T05:21:21+00:00"
+  },
+  {
+   "t": "China-Schock 2.0 - wie sich Europas Industrie schützen kann",
+   "s": "China setzt Europas Unternehmen zunehmend unter Druck - auch mit massiven Subventionen. Doch höhere Zölle allein reichen kaum aus. Was kann die EU noch tun, um ihre Wirtschaft zu schützen? Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-schock-europa-industrie-zoelle-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T04:41:58+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 20.10.2026",
    "s": "Wirtschaft vor acht vom 20.10.2026",
@@ -10,18 +45,18 @@
    "d": "2026-10-20T17:56:23+00:00"
   },
   {
+   "t": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
+   "s": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die finale Abstimmung steht noch an. Von J.-M. Magro.",
+   "u": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
+   "q": "Tagesschau",
+   "d": "2026-10-20T17:49:19+00:00"
+  },
+  {
    "t": "VW ruft weltweit mehr als 70.000 E-Autos wegen Brandgefahr zurück",
    "s": "Der Rückruf von Millionen VW-Fahrzeugen liegt noch nicht lange zurück, nun muss Volkswagen erneut einen Mangel beheben. Auch in Deutschland sind viele Autos betroffen - wegen fehlerhafter Batterien.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-e-autos-rueckruf-100.html",
    "q": "Tagesschau",
    "d": "2026-10-20T16:57:49+00:00"
-  },
-  {
-   "t": "Die Deutsche Post will 2027 das Porto für Briefe erhöhen",
-   "s": "Die Deutsche Post will das Briefporto im kommenden Januar von 95 Cent auf 1,15 Euro anheben. Auch Postkarten, Großbriefe und andere Produkte sollen 2027 teurer werden - sofern die Bundesnetzagentur die Erhöhungen genehmigt.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/porto-standardbrief-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T14:00:04+00:00"
   },
   {
    "t": "Bundesregierung spricht von Investitionszusagen in Milliardenhöhe",
@@ -38,13 +73,6 @@
    "d": "2026-10-20T12:23:23+00:00"
   },
   {
-   "t": "Marktbericht: Ölpreis springt auf Fünf-Monats-Hoch",
-   "s": "Neue Angriffe im Persischen Golf machen Öl wieder so teuer wie im Mai. Das schürt die Sorge vor einem neuen Inflationsschub. Die einzige Hoffnung bleibt derzeit eine Annäherung der Kriegsparteien.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T12:15:27+00:00"
-  },
-  {
    "t": "Deutsche mögen Nudeln - am liebsten aus dem Ausland",
    "s": "Der Konsum von Nudeln hat sich hierzulande seit 1990 verdoppelt. Außerdem gehört Deutschland zu den größten Herstellern in der EU. Unangefochtener Spitzenreiter ist Italien, danach folgt Spanien.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/nudeln-hersteller-eu-100.html",
@@ -57,13 +85,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-316.html",
    "q": "Tagesschau",
    "d": "2026-10-20T10:52:48+00:00"
-  },
-  {
-   "t": "Abkehr vom Verbrenner-Aus: Unterhändler im Europaparlament finden Kompromiss",
-   "s": "2035 sollte eigentlich Schluss sein mit Verbrennermotoren bei Neuwagen in der EU. Inzwischen sieht es aber so aus, als könnte das komplette Verbrenner-Aus kippen. Die Unterhändler der Fraktionen im EU-Parlament haben sich bereits geeinigt. Von J.-M. Magro.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-verbrenner-klima-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T10:16:34+00:00"
   },
   {
    "t": "Steht Europas größtes Stahlwerk endgültig vor dem Aus?",
@@ -85,13 +106,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienkredite-zinsen-darlehen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-20T08:07:00+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 20.10.2026",
-   "s": "Update Wirtschaft vom 20.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1669322.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T07:49:44+00:00"
   },
   {
    "t": "Uruguay: Ein Land, fast unabhängig von Öl und Gas",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/sneaker-kultmodelle-investment-100.html",
    "q": "Tagesschau",
    "d": "2026-10-18T14:46:25+00:00"
-  },
-  {
-   "t": "Deutsche Autozulieferer auf dem Balkan: \"Armutslöhne\" für serbische Arbeiter",
-   "s": "Viele deutsche Autohersteller und -zulieferer produzieren in Serbien. Das schafft Arbeitsplätze in dem Land. Doch zunehmend klagen Beschäftigte in den Fabriken über enormen Druck durch Vorgesetzte und geringe Löhne.",
-   "u": "https://www.deutschlandfunk.de/autohersteller-autozulieferer-deutschland-serbien-niedrigloehne-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-18T07:32:00+00:00"
-  },
-  {
-   "t": "Steigende Preise für Benzin, Heizöl, Gas - wie teuer wird der Winter?",
-   "s": "Die Preise für Kraftstoff, Heizöl und Erdgas sind binnen kurzer Zeit stark gestiegen. Das verteuert den Alltag und belastet auch Firmen mit Extrakosten. Was sind die Folgen? Von Lisa Wurscher und Julia Lamour.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/energie-heizen-winter-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T10:05:01+00:00"
   }
  ]
 }

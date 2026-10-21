@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-20T23:53:55+00:00",
+ "updated": "2026-10-21T08:35:44+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Trump-Gesandter Witkoff reist weiter zu Putin",
+   "s": "Erst traf er Selenskyj und europäische Verbündete in Oslo, nun geht es weiter nach St. Petersburg. Dort will Witkoff Putin neue Friedensvorschläge vorlegen.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223092/",
+   "q": "taz",
+   "d": "2026-10-21T06:12:00+00:00"
+  },
   {
    "t": "„Friedensverhandlungen“ in Oslo: Selenskyjs Abwehrkampf gegen Trump",
    "s": "Washingtons maßlose Forderungen belasten Verhandlungen über einen möglichen Waffenstillstand. Kremlchef Putin lockt mit lukrativen Wirtschaftsdeals.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Energie-Knappheit-in-der-Ukraine/!6218193/",
    "q": "taz",
    "d": "2026-10-16T17:45:00+00:00"
-  },
-  {
-   "t": "Klimaprotest in Österreich: „Zukunft wäre schon geil“",
-   "s": "In Wien und sechs weiteren österreichischen Städten protestieren Tausende für mehr Klimaschutz. Die Regierung bremst derweil die Spritpreise.",
-   "u": "https://taz.de/Klimaprotest-in-Oesterreich/!6222282/",
-   "q": "taz",
-   "d": "2026-10-16T17:44:00+00:00"
   }
  ]
 }

@@ -1,7 +1,21 @@
 {
  "name": "Wissen",
- "updated": "2026-10-20T23:53:53+00:00",
+ "updated": "2026-10-21T08:35:42+00:00",
  "items": [
+  {
+   "t": "UN-Bericht: Erde steuert auf 2,8 Grad Erwärmung zu",
+   "s": "Die Folgen der Erderwärmung sind verheerend. Das eigentlich vereinbarte 1,5-Grad-Limit wird ziemlich sicher gerissen. Doch die UN betonen: Es gibt Fortschritte beim Klimaschutz, die Zeit drängt allerdings. Von Janina Schreiber.",
+   "u": "https://www.tagesschau.de/wissen/klima/erderwaermung-un-bericht-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T07:54:54+00:00"
+  },
+  {
+   "t": "Laut UN-Bericht steuert Erde auf Erwärmung von 2,8 Grad zu",
+   "s": "Laut UN-Bericht steuert Erde auf Erwärmung von 2,8 Grad zu",
+   "u": "https://www.tagesschau.de/video/video-1669852.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T05:34:36+00:00"
+  },
   {
    "t": "Japan startet Mission zu Mars-Monden",
    "s": "Der Mars-Mond Phobos steht im Mittelpunkt der jüngsten Weltraummission: Nun ist die Trägerrakete vom japanischen Weltraumbahnhof Tanegashima aufgebrochen. Es ist die erste Mission, bei der Material von der Marsregion zur Erde gebracht werden soll.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1660576.html",
    "q": "Tagesschau",
    "d": "2026-10-05T08:48:25+00:00"
-  },
-  {
-   "t": "Australien: Alge kann Methan-Ausstoß von Rindern reduzieren",
-   "s": "Rund ein Viertel des menschengemachten Methans entsteht in der Rinderzucht. Australische Landwirte wollen das ändern - mit einem Trick: Sie lassen Rotalgen ins Futter ihrer Rinder mischen. Von Florian Bahrdt.",
-   "u": "https://www.tagesschau.de/wissen/klima/australien-methan-kuehe-futter-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T07:03:08+00:00"
-  },
-  {
-   "t": "125 Jahre Nobelpreis: Was macht die Auszeichnung so bedeutend?",
-   "s": "Von heute an wird wieder verkündet, wer die diesjährigen Nobelpreise erhält - und das seit mittlerweile 125 Jahren. Warum hat die Auszeichnung eine so hohe Bedeutung? Und wie werden die Preisträger ermittelt? Von Nina Kunze.",
-   "u": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T04:32:01+00:00"
   }
  ]
 }
