@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-10-22T19:13:36+00:00",
+ "updated": "2026-10-22T23:59:14+00:00",
  "items": [
+  {
+   "t": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
+   "s": "Unter US-Wählern gewinnt vor den Zwischenwahlen ein Thema an Bedeutung - und das ist besonders heikel für Präsident Trump. Immer mehr Bürger registrieren, wie sehr das Vermögen Trumps und seines Umfelds gewachsen ist. Von Ralf Borchard.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T19:48:35+00:00"
+  },
+  {
+   "t": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
+   "s": "Korallen bieten im Meer einer großen Artenvielfalt ein Zuhause. Doch die Riffe sind durch die Erhitzung der Meere erheblich gefährdet. Eine Studie zeigt nun das ganze Ausmaß.",
+   "u": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T19:34:07+00:00"
+  },
   {
    "t": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
    "s": "Kriege, Extremwetter, Terror: Schweden bereitet seine Bevölkerung auf den möglichen Ernstfall vor - etwa mit einer Broschüre und Übungen. Denn klar ist auch: Im Fall der Fälle müssen die Menschen erstmal alleine klarkommen. Von Jana Sinram.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html",
    "q": "Tagesschau",
    "d": "2026-10-21T01:11:10+00:00"
-  },
-  {
-   "t": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
-   "s": "Trump hatte Interesse an einem Gespräch mit den Präsidenten Russlands und Chinas über die Ukraine gezeigt. Nach einem Treffen mit europäischen Partnern sowie dem US-Sondergesandten Witkoff in Oslo forderte Präsident Selenskyj nun eine Beteiligung Kiews.",
-   "u": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T20:01:00+00:00"
-  },
-  {
-   "t": "So reagieren Frankreich und Italien auf die Ausschreitungen",
-   "s": "Ausgangssperren, Antiterror-Soldaten, neue Dekrete: Frankreich und Italien haben auf die Ausschreitungen am Wochenende reagiert. So sollen in Zukunft Unruhen verhindert werden.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T19:56:31+00:00"
   }
  ]
 }
