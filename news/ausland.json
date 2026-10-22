@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-10-21T19:18:04+00:00",
+ "updated": "2026-10-22T00:00:27+00:00",
  "items": [
+  {
+   "t": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
+   "s": "Acht Jahre nach dem Skandal um den Missbrauch von Nutzerdaten ist der Facebookkonzern Meta in New Mexico zu einer Milliardenstrafe verurteilt worden. Der Fall solle anderen Tech-Unternehmen eine Warnung sein, sagte der Generalstaatsanwalt.",
+   "u": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T20:47:20+00:00"
+  },
   {
    "t": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
    "s": "Russland hat sich bereit gezeigt, die Gespräche mit den USA und der Ukraine wieder aufzunehmen. Aber sind Fortschritte wahrscheinlich? Osteuropa-Experte Umland zeigt sich im tagesschau24-Interview skeptisch.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-limoges-brandstiftung-festnahme-100.html",
    "q": "Tagesschau",
    "d": "2026-10-20T13:19:11+00:00"
-  },
-  {
-   "t": "US-Midterms: Wie Preise die Zwischenwahlen beeinflussen könnten",
-   "s": "Inflation, Lebenshaltungskosten, Treibstoffpreise: Viele Amerikaner machen Präsident Trump für die hohen Preise verantwortlich. Für die Republikaner könnte das vor den Midterms zum Problem werden. Von Carsten Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/amerika/us-zwischenwahlen-wirtschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T13:07:51+00:00"
   }
  ]
 }

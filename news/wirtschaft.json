@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-21T19:18:06+00:00",
+ "updated": "2026-10-22T00:00:29+00:00",
  "items": [
+  {
+   "t": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
+   "s": "Eine neu entdeckte, schwerwiegende Sicherheitslücke sorgt für Probleme. Betroffen ist die weitverbreitete Programmiersprache PHP, auf der ein Großteil des Internets basiert. Antworten auf die wichtigsten Fragen.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-21T21:02:37+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 21.10.2026",
    "s": "Wirtschaft vor acht vom 21.10.2026",
@@ -22,13 +29,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
    "q": "Tagesschau",
    "d": "2026-10-21T17:17:42+00:00"
-  },
-  {
-   "t": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
-   "s": "Eine neu entdeckte, schwerwiegende Sicherheitslücke sorgt für Probleme. Betroffen ist die weitverbreitete Programmiersprache PHP, auf der ein Großteil des Internets basiert. Antworten auf die wichtigsten Fragen.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T16:50:16+00:00"
   },
   {
    "t": "Chemie ohne Erdöl: Wie die Kohlenstoffwende gelingen soll",
