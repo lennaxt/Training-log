@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-22T08:38:09+00:00",
+ "updated": "2026-10-22T14:31:23+00:00",
  "items": [
+  {
+   "t": "Die Gelbe Wiesenraute ist Blume des Jahres 2027",
+   "s": "Seit 1980 kürt die Loki-Schmidt-Stiftung die Blume des Jahres. Für 2027 hat sie die Gelbe Wiesenraute auserkoren. Mit der Wahl der bis zu 1,50 Meter hohen Pflanze verbindet die Stiftung einen Appell.",
+   "u": "https://www.tagesschau.de/wissen/klima/blume-des-jahres-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T09:07:58+00:00"
+  },
   {
    "t": "Wasserzeichen markieren bald auch KI-Texte von ChatGPT",
    "s": "Stammt dieser Text von einer Künstlichen Intelligenz? Aufschluss geben können Wasserzeichen, die KI-generierte Texte markieren. OpenAI hat das nun für ChatGPT angekündigt. Von Pauline Möhle und Leila Boucheligua.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1660770.html",
    "q": "Tagesschau",
    "d": "2026-10-05T14:09:06+00:00"
-  },
-  {
-   "t": "Medizin-Nobelpreis für Optogenetik-Forscher aus Deutschland und USA",
-   "s": "Ein Berliner, ein Würzburger und ein US-Amerikaner erhalten den Medizin-Nobelpreis. Peter Hegemann, Georg Nagel und Karl Deisseroth teilen sich die Auszeichnung. Ihre Arbeit zeige, wie Nervenzellen im Gehirn Erinnerungen, Gefühle und Verhaltensweisen formen.",
-   "u": "https://www.tagesschau.de/wissen/forschung/medizin-nobelpreis-optogenetik-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T12:27:25+00:00"
   }
  ]
 }

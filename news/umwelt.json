@@ -1,10 +1,45 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-22T08:38:10+00:00",
+ "updated": "2026-10-22T14:31:23+00:00",
  "items": [
   {
-   "t": "Offener Brief für Vergesellschaftungen: „Ein Sperrgesetz ist verfassungswidrig“",
-   "s": "Über 200 Personen aus Gewerkschaften und Wissenschaft sprechen sich für das Recht auf Vergesellschaftungen aus. Das Grundgesetz müsse geachtet werden.",
+   "t": "Bundesweite Demos gegen Abschiebungen: Neue deutsche Abschiebehärte",
+   "s": "Die Asylpolitik wird immer brutaler. An Flughäfen entstehen eigene „Rückführungsterminals“. Etliche Bündnisse rufen für Samstag bundesweit zum Protest auf.",
+   "u": "https://taz.de/Bundesweite-Demos-gegen-Abschiebungen/!6223687/",
+   "q": "taz",
+   "d": "2026-10-22T14:23:00+00:00"
+  },
+  {
+   "t": "Museum für NS-Geschichte in Flensburg: Gestapo-Sitz oder „Deutsches Haus“?",
+   "s": "In Flensburg soll ein Vermittlungszentrum zur kritischen Aufarbeitung des Nationalsozialismus entstehen. Um den Standort gibt es Streit.",
+   "u": "https://taz.de/Museum-fuer-NS-Geschichte-in-Flensburg/!6207101/",
+   "q": "taz",
+   "d": "2026-10-22T14:01:00+00:00"
+  },
+  {
+   "t": "Polizeikessel bei Einheitsfeier: Bremer Anwälte kündigen Klagen an",
+   "s": "Woher hätte man wissen sollen, dass spontane Demonstrationen während der Einheitsfeier verboten waren? War das rechtens? Das soll jetzt geprüft werden.",
+   "u": "https://taz.de/Polizeikessel-bei-Einheitsfeier/!6222860/",
+   "q": "taz",
+   "d": "2026-10-22T13:41:00+00:00"
+  },
+  {
+   "t": "Ministerpräsidentenwahl Sachsen-Anhalt: CDU-Abgeordneter Heuer will sitzen bleiben",
+   "s": "Die CDU-Fraktion in Sachsen-Anhalt hatte angekündigt, bei der Wahl eines AfD-Ministerpräsidenten den Plenarsaal zu verlassen. Nun stellt sich ein Abgeordneter quer.",
+   "u": "https://taz.de/Ministerpraesidentenwahl-Sachsen-Anhalt/!6223720/",
+   "q": "taz",
+   "d": "2026-10-22T12:57:00+00:00"
+  },
+  {
+   "t": "FAQ zum AfD-Leak: Wie es jetzt weitergeht",
+   "s": "Hacker haben Hunderttausende Mails der AfD veröffentlicht. Erste Vorwürfe klären sich, es kursieren auch falsche Informationen. Was wir wissen und was nicht.",
+   "u": "https://taz.de/Fragen-und-Antworten-zum-AfD-Leak/!6223805/",
+   "q": "taz",
+   "d": "2026-10-22T12:26:00+00:00"
+  },
+  {
+   "t": "Offener Brief für Vergesellschaftung: „Ein Sperrgesetz ist verfassungswidrig“",
+   "s": "Über 200 Personen aus Gewerkschaften und Wissenschaft sprechen sich für das Recht auf Vergesellschaftung aus. Das Grundgesetz müsse geachtet werden.",
    "u": "https://taz.de/Offener-Brief-fuer-Vergesellschaftungen/!6223442/",
    "q": "taz",
    "d": "2026-10-22T07:32:00+00:00"
@@ -17,7 +52,7 @@
    "d": "2026-10-22T05:01:00+00:00"
   },
   {
-   "t": "Auschwitz, Ravensbrück, Sachsenhausen: Er hat drei KZ überlebt: Nun ist Hermann Höllenreiner mit 92 gestorben",
+   "t": "Hermann Höllenreiner ist tot: Er hat drei KZ überlebt",
    "s": "Erst schwieg er lange. Dann hielt er Vorträge über die Vernichtung von Sinti und Roma im Nationalsozialismus. Nun ist Hermann Höllenreiner gestorben.",
    "u": "https://taz.de/Er-hat-drei-KZ-ueberlebt-Nun-ist-Hermann-Hoellenreiner-mit-92-gestorben/!6223340/",
    "q": "taz",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Koalition-streitet-ueber-abschlagsfreie-Rente-Trifft-es-am-Ende-die-Frauen/!6222606/",
    "q": "taz",
    "d": "2026-10-19T16:38:00+00:00"
-  },
-  {
-   "t": "AfD-Hassnetzwerke auf X: Staatsanwalt ermittelt gegen rechten Troll Patrick Kolek",
-   "s": "Doxxen, swatten, hassen: Der Aktivist Patrick Kolek orchestriert extrem rechte Online-Kampagnen. Seine Bubble reicht bis zur AfD. Nun ermittelt die Generalstaatsanwaltschaft.",
-   "u": "https://taz.de/AfD-Hassnetzwerke-auf-X/!6222229/",
-   "q": "taz",
-   "d": "2026-10-19T14:30:00+00:00"
-  },
-  {
-   "t": "Asylpolitik in Deutschland: Hessen schiebt Eltern ohne ihre Kinder ab",
-   "s": "Deutsche Behörden nehmen die Kleinkinder einer überforderten kurdischen Flüchtlingsfamilie in Obhut – und zwingen die Eltern, ohne sie in die Türkei zurückzukehren.",
-   "u": "https://taz.de/Asylpolitik-in-Deutschland/!6222573/",
-   "q": "taz",
-   "d": "2026-10-19T13:34:00+00:00"
-  },
-  {
-   "t": "Frauen als Chefin: Deutschland wieder unterdurchschnittlich",
-   "s": "Die Hälfte aller Erwerbstätigen in Deutschland sind Frauen, trotzdem besetzen sie weniger als ein Drittel der Führungspositionen. Das ist unter dem EU-Durchschnitt.",
-   "u": "https://taz.de/Frauen-als-Chefin/!6222612/",
-   "q": "taz",
-   "d": "2026-10-19T10:48:00+00:00"
-  },
-  {
-   "t": "Mögliche AfD-Regierung in Sachsen-Anhalt: „Wir haben Angst“",
-   "s": "Migrantenorganisationen berichten von wachsender Ablehnung. Was sie angesichts einer drohenden AfD-Regierung in Sachsen-Anhalt vom Bund verlangen.",
-   "u": "https://taz.de/Moegliche-AfD-Regierung-in-Sachsen-Anhalt/!6222593/",
-   "q": "taz",
-   "d": "2026-10-19T09:52:00+00:00"
-  },
-  {
-   "t": "Demokratieprojekte in Sachsen-Anhalt: Was kostet die Demokratie?",
-   "s": "Eine mögliche AfD-Landesregierung in Sachsen-Anhalt könnte vor allem ein Ziel haben: Demokratieprojekte beenden. Die sollen nun eilig gerettet werden.",
-   "u": "https://taz.de/Demokratieprojekte-in-Sachsen-Anhalt/!6222319/",
-   "q": "taz",
-   "d": "2026-10-18T17:59:00+00:00"
   }
  ]
 }

@@ -1,13 +1,48 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-22T08:38:07+00:00",
+ "updated": "2026-10-22T14:31:22+00:00",
  "items": [
   {
    "t": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
    "s": "Experten warnen vor einer schwerwiegenden Sicherheitslücke bei Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. Was bedeutet das für Internetnutzer? Wie gravierend sind die Probleme?",
    "u": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-22T08:20:29+00:00"
+   "d": "2026-10-22T13:41:31+00:00"
+  },
+  {
+   "t": "Marktbericht: SAP-Umbau trägt Früchte",
+   "s": "Europas größter Softwarekonzern setzt beim Umbau ganz auf KI - mit Erfolg, wie die jüngsten Quartalszahlen zeigen. Vor allem im Cloudgeschäft punkten die Walldorfer. Die Börse honoriert das.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T12:10:58+00:00"
+  },
+  {
+   "t": "Welche wirtschaftlichen Folgen die PHP-Sicherheitslücke haben könnte",
+   "s": "Die PHP-Sicherheitslücke betrifft auch zahlreiche Unternehmen und deren Websites. Auch in Deutschland. Was das für die Wirtschaft bedeutet, erklärt IT-Sicherheitsexperte Thorsten Holz.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/interview-php-sicherheitsluecke-folgen-unternehmen-verbraucher-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T12:02:43+00:00"
+  },
+  {
+   "t": "Was beim neuen Altersvorsorgedepot zu beachten ist",
+   "s": "Neben der Kapitalrente wird es auch eine neue staatlich geförderte Zusatzrente geben, das Altersvorsorgedepot. Es soll die \"Riester-Rente\" ablösen. Das Versprechen: mehr Aktien, ETFs und Renditechancen. Was es zu beachten gilt, erklärt Christian Sachsinger.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T11:09:07+00:00"
+  },
+  {
+   "t": "Die Kapitalrente - Befreiungsschlag oder Risiko?",
+   "s": "Von 2028 an soll die Kapitalrente das deutsche Rentensystem ergänzen: Beiträge werden in Fonds investiert, um die Altersvorsorge zu stärken. Kann die Kapitalrente die großen Hoffnungen erfüllen? Von Frank Aischmann.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/renten-reform-kapitalrente-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T09:24:26+00:00"
+  },
+  {
+   "t": "Kanada gehen die Ahornsirup-Reserven aus",
+   "s": "Kanada hat eine strategische Ahornsirup-Reserve - und die geht zur Neige. Bis Ende Februar kommenden Jahres dürfte sie komplett leer sein. Im vergangenen Jahr hatte es Hamsterkäufe von Importeuren gegeben, vor allem aus den USA.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-ahornsirup-exporte-usa-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T08:52:53+00:00"
   },
   {
    "t": "Update Wirtschaft vom 22.10.2026",
@@ -17,18 +52,18 @@
    "d": "2026-10-22T08:07:28+00:00"
   },
   {
+   "t": "Knesset-Wahl: Was die Kriegskosten für Israels Wähler bedeuten",
+   "s": "Sicherheit steht in Israels Wahlkampf im Vordergrund. Doch drei Jahre Krieg haben die Wirtschaft schwer getroffen: Für viele Menschen geht es vor der Wahl am 27. Oktober auch um die Frage, wie es wirtschaftlich weitergehen soll. Von B. Meier.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wirtschaft-wahl-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T07:56:08+00:00"
+  },
+  {
    "t": "Meta investiert mindestens 135 Milliarden Dollar in KI",
    "s": "Der Meta-Konzern will den Ausbau seiner KI-Infrastruktur vorantreiben. Zur Finanzierung soll es eine neue Aktie ohne Stimmrechte geben. Damit sichert sich Firmenchef Zuckerberg die Kontrolle. Von Antje Sieb.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-22T05:25:41+00:00"
-  },
-  {
-   "t": "Marktbericht: Tech-Bilanzen schieben den DAX nicht weiter an",
-   "s": "Am Donnerstag verarbeiten die Aktienmärkte die Bilanzen von wichtigen US-Technologiekonzernen wie Meta und Tesla. Auch SAP hat die Quartalszahlen vorgestellt. Die Anleger reagieren zurückhaltend.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T05:24:19+00:00"
   },
   {
    "t": "Wasserzeichen markieren bald auch KI-Texte von ChatGPT",
@@ -66,7 +101,7 @@
    "d": "2026-10-21T17:32:26+00:00"
   },
   {
-   "t": "Reform bei Trassenpreisen: Vorschlag aus SH angenommen",
+   "t": "Trassenpreis-Reform: Verkehrsminister stimmen Vorschlag aus SH zu",
    "s": "Bei der Verkehrsministerkonferenz haben sich die Minister auf den Vorschlag aus SH zu einer Reform der Trassenpreise verständigt.",
    "u": "https://www.tagesschau.de/inland/regional/schleswigholstein/reform-bei-trassenpreisen-vorschlag-aus-sh-angenommen,nahverkehr-196.html",
    "q": "Tagesschau",
@@ -134,41 +169,6 @@
    "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-21T08:10:00+00:00"
-  },
-  {
-   "t": "Klimaziele der Regierung: Die CDU, das Klima und der Luftverkehr",
-   "s": "Die CDU will den innerdeutschen Flugverkehr stärken. Dabei gilt: Kurzstreckenflüge sind pro Kilometer besonders klimaschädlich - der Start verursacht einen Großteil der Emissionen. Wie passt das zu den deutschen Klimazielen? Von K. Aue.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T07:25:52+00:00"
-  },
-  {
-   "t": "Tesla und SpaceX prüfen Zusammenschluss - noch mehr Macht für Musk?",
-   "s": "Die beiden US-Konzerne Tesla und SpaceX, die von Tech-Milliardär Elon Musk geführt werden, prüfen einen Zusammenschluss. Sollte dieser zustande kommen, wäre es die bislang größte Fusion zweier Firmen. Doch es gibt große Hürden.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T07:11:45+00:00"
-  },
-  {
-   "t": "China-Schock 2.0 - wie sich Europas Industrie schützen kann",
-   "s": "China setzt Europas Unternehmen zunehmend unter Druck - auch mit massiven Subventionen. Doch höhere Zölle allein reichen kaum aus. Was kann die EU noch tun, um ihre Wirtschaft zu schützen? Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-schock-europa-industrie-zoelle-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T04:41:58+00:00"
-  },
-  {
-   "t": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
-   "s": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die finale Abstimmung steht noch an. Von J.-M. Magro.",
-   "u": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T17:49:19+00:00"
-  },
-  {
-   "t": "VW ruft weltweit mehr als 70.000 E-Autos wegen Brandgefahr zurück",
-   "s": "Der Rückruf von Millionen VW-Fahrzeugen liegt noch nicht lange zurück, nun muss Volkswagen erneut einen Mangel beheben. Auch in Deutschland sind viele Autos betroffen - wegen fehlerhafter Batterien.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-e-autos-rueckruf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-20T16:57:49+00:00"
   }
  ]
 }

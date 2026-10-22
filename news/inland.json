@@ -1,9 +1,86 @@
 {
  "name": "Inland",
- "updated": "2026-10-22T08:38:04+00:00",
+ "updated": "2026-10-22T14:31:21+00:00",
  "items": [
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Sieben Tote nach russischem Beschuss",
+   "t": "Bundesweite Demos gegen Abschiebungen: Neue deutsche Abschiebehärte",
+   "s": "Die Asylpolitik wird immer brutaler. An Flughäfen entstehen eigene „Rückführungsterminals“. Etliche Bündnisse rufen für Samstag bundesweit zum Protest auf.",
+   "u": "https://taz.de/Bundesweite-Demos-gegen-Abschiebungen/!6223687/",
+   "q": "taz",
+   "d": "2026-10-22T14:23:00+00:00"
+  },
+  {
+   "t": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
+   "s": "Trotz aktueller Krisen kann der Bund im kommenden Jahr mit mehr Steuereinnahmen rechnen als zunächst erwartet. Dennoch rechnet Finanzminister Klingbeil nicht mit mehr Spielräumen für den Haushalt.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T14:11:16+00:00"
+  },
+  {
+   "t": "Ausschluss einiger Länder vom Finanzausgleich - ginge das?",
+   "s": "Markus Söder will Bundesländer mit \"extremistischer\" Regierungsbeteiligung vom Länderfinanzausgleich ausschließen - und schaut dabei nach Berlin und Sachsen-Anhalt. Aber ginge das überhaupt? Von Frank Aischmann.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/extremismusklausel-laenderfinanzausgleich-soeder-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T13:27:40+00:00"
+  },
+  {
+   "t": "Ministerpräsidentenwahl Sachsen-Anhalt: CDU-Abgeordneter Heuer will sitzen bleiben",
+   "s": "Die CDU-Fraktion in Sachsen-Anhalt hatte angekündigt, bei der Wahl eines AfD-Ministerpräsidenten den Plenarsaal zu verlassen. Nun stellt sich ein Abgeordneter quer.",
+   "u": "https://taz.de/Ministerpraesidentenwahl-Sachsen-Anhalt/!6223720/",
+   "q": "taz",
+   "d": "2026-10-22T12:57:00+00:00"
+  },
+  {
+   "t": "FAQ zum AfD-Leak: Wie es jetzt weitergeht",
+   "s": "Hacker haben Hunderttausende Mails der AfD veröffentlicht. Erste Vorwürfe klären sich, es kursieren auch falsche Informationen. Was wir wissen und was nicht.",
+   "u": "https://taz.de/Fragen-und-Antworten-zum-AfD-Leak/!6223805/",
+   "q": "taz",
+   "d": "2026-10-22T12:26:00+00:00"
+  },
+  {
+   "t": "EU-Zeichen gegen Trump: Internationaler Strafgerichtshof erhält Sacharow-Preis",
+   "s": "Das Europäische Parlament würdigt die Arbeit des Internationalen Strafgerichtshofs mit dem Sacharow-Preis – und stellt sich damit klar gegen die US-Regierung.",
+   "u": "https://taz.de/Sacharow-Preis-geht-an-Internationalen-Strafgerichtshof/!6223761/",
+   "q": "taz",
+   "d": "2026-10-22T11:59:00+00:00"
+  },
+  {
+   "t": "Mutmaßlicher russischer Spion in Brandenburg festgenommen",
+   "s": "In Brandenburg hat die Polizei einen mutmaßlichen Spion festgenommen. Er soll im Dienste Russlands Rüstungsfirmen ausgespäht haben. Der Mann selbst soll ein Ukrainer aus russisch besetztem Gebiet sein. Von. M. Götschenberg und H. Schmidt.",
+   "u": "https://www.tagesschau.de/inland/spionage-ruestungindustrie-festnahme-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T11:32:31+00:00"
+  },
+  {
+   "t": "Brasilien vor der Stichwahl: „Olé, olá, Lula“",
+   "s": "Der Kampf ums brasilianische Präsidentenamt entscheidet sich auf Social Media. Bevorzugt der US-Konzern Meta den rechten Kandidaten Bolsonaro?",
+   "u": "https://taz.de/Brasilien-vor-der-Stichwahl/!6223109/",
+   "q": "taz",
+   "d": "2026-10-22T10:53:00+00:00"
+  },
+  {
+   "t": "SPD will Pflegereform nachbessern",
+   "s": "Bei der Ministerpräsidentenkonferenz dürfte heute wohl auch über die Pflegereform diskutiert werden. Die SPD will Nachbesserungen - und fordert eine Überarbeitung des Gesetzentwurfs.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-pflegereform-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T10:31:09+00:00"
+  },
+  {
+   "t": "Schnieder besorgt über mögliche AfD-Beteiligung an Ministerpräsidentenkonferenz",
+   "s": "Die Ministerpräsidentenkonferenz tagt heute - noch ist kein AfD-Regierungschef dabei. Das könnte sich ändern, sollte Siegmund in Sachsen-Anhalt gewählt werden. Der rheinland-pfälzische Ministerpräsident Schnieder warnte vor Sicherheitsrisiken.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/schnieder-afd-ministerpraesidentenkonferenz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T09:25:10+00:00"
+  },
+  {
+   "t": "Die Kapitalrente - Befreiungsschlag oder Risiko?",
+   "s": "Von 2028 an soll die Kapitalrente das deutsche Rentensystem ergänzen: Beiträge werden in Fonds investiert, um die Altersvorsorge zu stärken. Kann die Kapitalrente die großen Hoffnungen erfüllen? Von Frank Aischmann.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/renten-reform-kapitalrente-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T09:24:26+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Sieben Tote nach russischem Beschuss",
    "s": "Trotz neuer diplomatischer Bemühungen zur Beendigung des Krieges geht der gegenseitige Beschuss weiter. Trump verteidigt Aufschub neuer Russland-Sanktionen.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223680/",
    "q": "taz",
@@ -11,14 +88,14 @@
   },
   {
    "t": "Saudi-Arabien in Huthi-Krise: USA ziehen Diplomaten aus Golf-Region ab",
-   "s": "Immer neue Angriffe der islamistischen Huthi-Miliz nötigen Washington zum Handeln. Ein Mensch starb bei einem Angriff auf den Flughafen der Ölstadt Damman.",
+   "s": "Immer neue Angriffe der islamistischen Huthi-Miliz nötigen Washington zum Handeln. Ein Mensch starb bei einem Angriff auf den Flughafen der Ölstadt Dammam.",
    "u": "https://taz.de/Saudi-Arabien-in-Huthi-Krise/!6223665/",
    "q": "taz",
    "d": "2026-10-22T07:40:00+00:00"
   },
   {
-   "t": "Offener Brief für Vergesellschaftungen: „Ein Sperrgesetz ist verfassungswidrig“",
-   "s": "Über 200 Personen aus Gewerkschaften und Wissenschaft sprechen sich für das Recht auf Vergesellschaftungen aus. Das Grundgesetz müsse geachtet werden.",
+   "t": "Offener Brief für Vergesellschaftung: „Ein Sperrgesetz ist verfassungswidrig“",
+   "s": "Über 200 Personen aus Gewerkschaften und Wissenschaft sprechen sich für das Recht auf Vergesellschaftung aus. Das Grundgesetz müsse geachtet werden.",
    "u": "https://taz.de/Offener-Brief-fuer-Vergesellschaftungen/!6223442/",
    "q": "taz",
    "d": "2026-10-22T07:32:00+00:00"
@@ -45,7 +122,7 @@
    "d": "2026-10-22T05:01:00+00:00"
   },
   {
-   "t": "Auschwitz, Ravensbrück, Sachsenhausen: Er hat drei KZ überlebt: Nun ist Hermann Höllenreiner mit 92 gestorben",
+   "t": "Hermann Höllenreiner ist tot: Er hat drei KZ überlebt",
    "s": "Erst schwieg er lange. Dann hielt er Vorträge über die Vernichtung von Sinti und Roma im Nationalsozialismus. Nun ist Hermann Höllenreiner gestorben.",
    "u": "https://taz.de/Er-hat-drei-KZ-ueberlebt-Nun-ist-Hermann-Hoellenreiner-mit-92-gestorben/!6223340/",
    "q": "taz",
@@ -92,83 +169,6 @@
    "u": "https://www.deutschlandfunk.de/evangelikale-in-brasilien-machtvolle-stimmen-im-rechten-kulturkampf-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-21T16:40:00+00:00"
-  },
-  {
-   "t": "Drohnentraining in der Ukraine: Die Front hält stand – aber Ukrainer fürchten um ihre Städte",
-   "s": "Vor dem Hintergrund der Gespräche zwischen Wladimir Putin und Steve Witkoff befürchten Ukrainer noch heftigere Angriffe auf ihre Großstädte.",
-   "u": "https://taz.de/Drohnentraining-in-der-Ukraine/!6223343/",
-   "q": "taz",
-   "d": "2026-10-21T15:57:00+00:00"
-  },
-  {
-   "t": "Krawalle in Frankreich: Die verheimlichten Toten der Pariser Unruhen",
-   "s": "Während der Gewalteskalation in Paris am Samstag starben zwei Menschen, ein dritter hat seinen Tod dementiert. Frankreichs Regierung agiert ratlos.",
-   "u": "https://taz.de/Krawalle-in-Frankreich/!6223264/",
-   "q": "taz",
-   "d": "2026-10-21T15:45:00+00:00"
-  },
-  {
-   "t": "Generalstreik in Senegal: Gewerkschaften fordern Brot statt Olympia",
-   "s": "Kurz bevor in Senegal das erste olympische Sportereignis Afrikas startet, blasen die Gewerkschaften zum Aufstand. Die Regierung hat kein Geld mehr.",
-   "u": "https://taz.de/Generalstreik-in-Senegal/!6223198/",
-   "q": "taz",
-   "d": "2026-10-21T15:41:00+00:00"
-  },
-  {
-   "t": "AfD in Mecklenburg-Vorpommern: AfD-Abgeordneter zeigt Neonazi-Geste im Schweriner Landtag",
-   "s": "Tommy Thormann ist schon in der Vergangenheit als Rechtsextremist aufgefallen. Im Landtag von MV knüpft er an seinem ersten Parlamentstag daran an.",
-   "u": "https://taz.de/AfD-in-Mecklenburg-Vorpommern/!6223452/",
-   "q": "taz",
-   "d": "2026-10-21T15:19:00+00:00"
-  },
-  {
-   "t": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
-   "s": "Ein attraktives Ticket für gelegentliche Bus- und Bahnfahrer - das hatten Hamburg und Nordrhein-Westfalen für die Verkehrsministerkonferenz zur Beratung vorgeschlagen. Doch nun ist \"Deutschlandticket light\" bereits wieder vom Tisch.",
-   "u": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T15:16:35+00:00"
-  },
-  {
-   "t": "Demografie und Stadt-Land-Gefälle: Frauen auf dem Land sollen mehr arbeiten",
-   "s": "Demografiestudie: Besonders auf dem Land „gibt es Arbeitspotenzial“ bei den Frauen, die nur in Teilzeit ackern.",
-   "u": "https://taz.de/Demografie-und-Stadt-Land-Gefaelle/!6223330/",
-   "q": "taz",
-   "d": "2026-10-21T14:50:00+00:00"
-  },
-  {
-   "t": "Aussage zu Seenotrettung im Mittelmeer: Eigenes Ministerium widerspricht Dobrindt",
-   "s": "Der deutsche Innenminister warf der „Sea Watch“ Nähe zu Schleppern vor. Auf Nachfrage der Grünen rudert das Bundesinnenministerium nun zurück.",
-   "u": "https://taz.de/Seenotrettung-im-Mittelmeer-Eigenes-Ministerium-widerspricht-Dobrindt/!6223381/",
-   "q": "taz",
-   "d": "2026-10-21T14:36:00+00:00"
-  },
-  {
-   "t": "Aus Versehen in Kraft: Wie es zum Fehler bei der Tabaksteuer kam",
-   "s": "Die Tabaksteuer soll ab 2027 schrittweise steigen. Doch durch einen Fehler im Gesetzestext gelten eigentlich schon jetzt erhöhte Steuern auf Tabakwaren - allerdings nur auf dem Papier. Wie kam es dazu? Von Maximilian Ulrich.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/panne-tabaksteuer-gesetz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T14:34:31+00:00"
-  },
-  {
-   "t": "El Salvador: Mangelhafte Justiz, übergriffige Regierung",
-   "s": "El Salvadors Präsident Nayib Bukele hat angekündigt, Zehntausende Bandenhäftlinge freizulassen. Menschenrechtsorganisationen sind alarmiert.",
-   "u": "https://taz.de/El-Salvador/!6222485/",
-   "q": "taz",
-   "d": "2026-10-21T14:30:00+00:00"
-  },
-  {
-   "t": "Schwangerschaftsabbruch in Polen: Polens Parlament liberalisiert das Abtreibungsrecht",
-   "s": "Zwei Gesetzentwürfe aus dem Mitte-links-Bündnis von Donald Tusk finden im Sejm eine Mehrheit. Jetzt droht ein Veto von Präsident Karol Nawrocki.",
-   "u": "https://taz.de/Schwangerschaftsabbruch-in-Polen/!6223308/",
-   "q": "taz",
-   "d": "2026-10-21T13:15:00+00:00"
-  },
-  {
-   "t": "Ukrainische Gegenoffensive im Donbass: „Operation Vivaldi“ bringt Russland aus dem Takt",
-   "s": "Die Ukraine befreit gerade wieder mehr Territorium, als sie verliert. Ein wichtiger russischer Vorstoß konnte gestoppt und zurückgedrängt werden.",
-   "u": "https://taz.de/Ukranische-Gegenoffensive-im-Donbass/!6223376/",
-   "q": "taz",
-   "d": "2026-10-21T13:06:00+00:00"
   }
  ]
 }

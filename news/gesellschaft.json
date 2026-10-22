@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-22T08:38:11+00:00",
+ "updated": "2026-10-22T14:31:24+00:00",
  "items": [
+  {
+   "t": "EU-Zeichen gegen Trump: Internationaler Strafgerichtshof erhält Sacharow-Preis",
+   "s": "Das Europäische Parlament würdigt die Arbeit des Internationalen Strafgerichtshofs mit dem Sacharow-Preis – und stellt sich damit klar gegen die US-Regierung.",
+   "u": "https://taz.de/Sacharow-Preis-geht-an-Internationalen-Strafgerichtshof/!6223761/",
+   "q": "taz",
+   "d": "2026-10-22T11:59:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Sieben Tote nach russischem Beschuss",
+   "s": "Trotz neuer diplomatischer Bemühungen zur Beendigung des Krieges geht der gegenseitige Beschuss weiter. Trump verteidigt Aufschub neuer Russland-Sanktionen.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223680/",
+   "q": "taz",
+   "d": "2026-10-22T08:04:00+00:00"
+  },
   {
    "t": "Schwangerschaftsabbruch in Polen: Wenig Aussicht auf Erleichterung",
    "s": "Regierungschef Tusk setzt endlich ein Wahlversprechen um und entschärft die Abtreibungsgesetze in Polen. Doch Präsident Naworocki kann das blockieren.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Gereizte-Stimmung-in-der-Ukraine/!6222346/",
    "q": "taz",
    "d": "2026-10-18T15:48:00+00:00"
-  },
-  {
-   "t": "Neuwahlen in Spanien: Linkes Wahlbündnis ohne Podemos",
-   "s": "Spaniens großes Linksbündnis Frente Amplio muss bei den Wahlen Ende November ohne die Partei Podemos auskommen. Das hebt die Chancen der Ultrarechten.",
-   "u": "https://taz.de/Neuwahlen-in-Spanien/!6222349/",
-   "q": "taz",
-   "d": "2026-10-18T13:35:00+00:00"
-  },
-  {
-   "t": "Proteste gegen Lebenshaltungskosten: Wenn alles zu teuer wird",
-   "s": "Nicht nur in Frankreich gibt es Proteste, auch in Belgien, Portugal, Italien und Albanien gehen die Menschen auf die Straße. Ein Überblick der Geschehnisse.",
-   "u": "https://taz.de/Wenn-alles-zu-teuer-wird-In-Europa-eskaliert-es/!6222347/",
-   "q": "taz",
-   "d": "2026-10-18T11:30:00+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-22T08:38:12+00:00",
+ "updated": "2026-10-22T14:31:25+00:00",
  "items": [
+  {
+   "t": "Brasilien vor der Stichwahl: „Olé, olá, Lula“",
+   "s": "Der Kampf ums brasilianische Präsidentenamt entscheidet sich auf Social Media. Bevorzugt der US-Konzern Meta den rechten Kandidaten Bolsonaro?",
+   "u": "https://taz.de/Brasilien-vor-der-Stichwahl/!6223109/",
+   "q": "taz",
+   "d": "2026-10-22T10:53:00+00:00"
+  },
   {
    "t": "El Salvador: Mangelhafte Justiz, übergriffige Regierung",
    "s": "El Salvadors Präsident Nayib Bukele hat angekündigt, Zehntausende Bandenhäftlinge freizulassen. Menschenrechtsorganisationen sind alarmiert.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Todesstrafe-in-den-USA/!6220559/",
    "q": "taz",
    "d": "2026-10-11T11:43:00+00:00"
-  },
-  {
-   "t": "Neue Pressesprecherin des Weißen Hauses: Nachfolge in schwierigen Zeiten",
-   "s": "Katie Zacharia hat Erfahrung bei den rechten Sendern Fox News und Newsmax. Jetzt soll sie direkt im Weißen Haus für die Trump-Regierung sprechen.",
-   "u": "https://taz.de/Neue-Pressesprecherin-des-Weissen-Hauses/!6220525/",
-   "q": "taz",
-   "d": "2026-10-11T08:13:00+00:00"
   }
  ]
 }
