@@ -1,7 +1,49 @@
 {
  "name": "Inland",
- "updated": "2026-10-22T00:00:27+00:00",
+ "updated": "2026-10-22T08:38:04+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Sieben Tote nach russischem Beschuss",
+   "s": "Trotz neuer diplomatischer Bemühungen zur Beendigung des Krieges geht der gegenseitige Beschuss weiter. Trump verteidigt Aufschub neuer Russland-Sanktionen.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223680/",
+   "q": "taz",
+   "d": "2026-10-22T08:04:00+00:00"
+  },
+  {
+   "t": "Saudi-Arabien in Huthi-Krise: USA ziehen Diplomaten aus Golf-Region ab",
+   "s": "Immer neue Angriffe der islamistischen Huthi-Miliz nötigen Washington zum Handeln. Ein Mensch starb bei einem Angriff auf den Flughafen der Ölstadt Damman.",
+   "u": "https://taz.de/Saudi-Arabien-in-Huthi-Krise/!6223665/",
+   "q": "taz",
+   "d": "2026-10-22T07:40:00+00:00"
+  },
+  {
+   "t": "Offener Brief für Vergesellschaftungen: „Ein Sperrgesetz ist verfassungswidrig“",
+   "s": "Über 200 Personen aus Gewerkschaften und Wissenschaft sprechen sich für das Recht auf Vergesellschaftungen aus. Das Grundgesetz müsse geachtet werden.",
+   "u": "https://taz.de/Offener-Brief-fuer-Vergesellschaftungen/!6223442/",
+   "q": "taz",
+   "d": "2026-10-22T07:32:00+00:00"
+  },
+  {
+   "t": "Ukraine-Gespräche: Keine Bewegung von russischer Seite zu erwarten",
+   "s": "Russland will Mitte November wieder mit der Ukraine und den USA verhandeln. Der frühere deutsche Botschafter Peter Wittig erwartet keinen Durchbruch. Moskau gehe es weder um ein Kriegsende noch um einen Waffenstillstand.Engels, Silvia",
+   "u": "https://www.deutschlandfunk.de/interview-mit-peter-wittig-ex-diplomat-und-usa-botschafter-zu-ukraine-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-22T06:15:14+00:00"
+  },
+  {
+   "t": "Warum das Deutschlandticket light in NRW ein Erfolg ist",
+   "s": "Einchecken, losfahren und nie mehr zahlen als fürs Deutschlandticket: In NRW geht das im Nahverkehr, bundesweit noch nicht. Dabei habe man durch das Modell neue Fahrgäste gewonnen, sagt Oliver Wittke vom Verkehrsverbund Rhein-Ruhr.Engels, Silvia",
+   "u": "https://www.deutschlandfunk.de/interview-oliver-wittke-vrr-vorstandssprecher-zu-bahn-und-trassen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-22T05:15:33+00:00"
+  },
+  {
+   "t": "Rechtspopulismus und Demokratie: Potenzial nicht ausgeschöpft",
+   "s": "Für eine sozial gerechte Zukunft braucht es eine radikale Mitte. Ein politisches Lager, das Möglichkeiten darlegt, statt Vergangenem nachzutrauern.",
+   "u": "https://taz.de/Rechtspopulismus-und-Demokratie/!6223133/",
+   "q": "taz",
+   "d": "2026-10-22T05:01:00+00:00"
+  },
   {
    "t": "Auschwitz, Ravensbrück, Sachsenhausen: Er hat drei KZ überlebt: Nun ist Hermann Höllenreiner mit 92 gestorben",
    "s": "Erst schwieg er lange. Dann hielt er Vorträge über die Vernichtung von Sinti und Roma im Nationalsozialismus. Nun ist Hermann Höllenreiner gestorben.",
@@ -25,7 +67,7 @@
   },
   {
    "t": "Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober",
-   "s": "Während es bei den Protesten in Frankreich zu Ausschreitungen kommt, ruft auch in Deutschland eine Initiative für den 31. Oktober zu Demos auf. Polizei und Behörden beobachten die Lage und tauschen sich mit Frankreich und Italien aus.",
+   "s": "Auch in Deutschland ruft eine Initiative junge Menschen zu Protesten auf. Am 31. Oktober soll es bundesweit Demonstrationen geben. Polizei und Behörden beobachten die Lage und tauschen sich mit Frankreich und Italien aus.",
    "u": "https://www.tagesschau.de/inland/aufruf-demos-sicherheitsbehoerden-100.html",
    "q": "Tagesschau",
    "d": "2026-10-21T16:57:53+00:00"
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Ukranische-Gegenoffensive-im-Donbass/!6223376/",
    "q": "taz",
    "d": "2026-10-21T13:06:00+00:00"
-  },
-  {
-   "t": "CSU stürzt in Beliebtheit ab: Auch in Bayern legen die Ränder zu",
-   "s": "Kurz vor dem Parteitag der CSU ereilen Parteichef Söder schlechte Neuigkeiten. Eine Umfrage malt ein Gespenst an die Wand: Schwarz-Grün.",
-   "u": "https://taz.de/CSU-stuerzt-in-Beliebtheit-ab/!6223365/",
-   "q": "taz",
-   "d": "2026-10-21T12:48:00+00:00"
-  },
-  {
-   "t": "Ausschreitungen in Italien: Mit Härte gegen gewaltsame Proteste",
-   "s": "Die italienische Regierung hat ein „Sicherheitsdekret“ verabschiedet, das sofort in Kraft tritt. Was das für die protestierenden Jugendlichen bedeutet.",
-   "u": "https://taz.de/Sozialproteste-in-Italien-Wie-die-Regierung-um-Meloni-nun-gegen-Jugendliche-durchgreift/!6223324/",
-   "q": "taz",
-   "d": "2026-10-21T12:28:00+00:00"
-  },
-  {
-   "t": "Ministerium unterläuft Panne beim Gesetz zur Tabaksteuer",
-   "s": "Gestern wurde das Gesetz zur Anhebung der Tabaksteuer veröffentlicht. Eigentlich sollen die Steuersätze ab 2027 steigen. Doch durch eine Panne des Finanzministeriums gelten sie ab sofort - zumindest auf dem Papier.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T11:58:33+00:00"
-  },
-  {
-   "t": "Häuser sollen besser gegen Naturgefahren versichert werden",
-   "s": "Hochwasser, Starkregen, Erdbeben: Gegen Schäden nach solchen Naturkatastrophen sind Häuser nicht standardmäßig versichert. Das will die Bundesregierung nun ändern - und legt ein erstes Papier mit Eckpunkten vor.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/versicherungen-naturkatastrophen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T11:48:22+00:00"
-  },
-  {
-   "t": "Indischer Politiker über Massenproteste: „Das System lässt junge Menschen im Stich“",
-   "s": "Indiens Kakerlakenbewegung bekämpft die Wahlkommission als Instrument der Regierung von Narendra Modi, sagt der Oppositionspolitiker Shashi Tharoor.",
-   "u": "https://taz.de/Kakerlakenbewegung-in-Indien-Das-System-laesst-junge-Menschen-im-Stich/!6222829/",
-   "q": "taz",
-   "d": "2026-10-21T09:02:00+00:00"
-  },
-  {
-   "t": "Kommentar zum Investitionsgipfel: Wenn die Fachkräfte fehlen",
-   "s": "Bundeskanzler Merz möchte mit einem Investitionsgipfel mehr Kapital nach Deutschland locken. Grundsätzlich ist Deutschland attraktiv für Investoren. Es ist kreditwürdig und rechtssicher. Beim Thema Fachkräfte sieht es allerdings zunehmend düster aus.Ein Kommentar von Falk Steiner",
-   "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T08:10:00+00:00"
   }
  ]
 }

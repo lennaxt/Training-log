@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-22T00:00:29+00:00",
+ "updated": "2026-10-22T08:38:09+00:00",
  "items": [
+  {
+   "t": "Wasserzeichen markieren bald auch KI-Texte von ChatGPT",
+   "s": "Stammt dieser Text von einer Künstlichen Intelligenz? Aufschluss geben können Wasserzeichen, die KI-generierte Texte markieren. OpenAI hat das nun für ChatGPT angekündigt. Von Pauline Möhle und Leila Boucheligua.",
+   "u": "https://www.tagesschau.de/wissen/ki-texte-wasserzeichen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T03:30:26+00:00"
+  },
   {
    "t": "Erde steuert laut Bericht des UN-Umweltprogramms auf 2,8 Grad Erwärmung zu",
    "s": "Erde steuert laut Bericht des UN-Umweltprogramms auf 2,8 Grad Erwärmung zu",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/forschung/medizin-nobelpreis-optogenetik-100.html",
    "q": "Tagesschau",
    "d": "2026-10-05T12:27:25+00:00"
-  },
-  {
-   "t": "Nobelpreis für Medizin geht an Forscher aus Deutschland und den USA",
-   "s": "Nobelpreis für Medizin geht an Forscher aus Deutschland und den USA",
-   "u": "https://www.tagesschau.de/video/video-1660638.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T09:55:56+00:00"
   }
  ]
 }
