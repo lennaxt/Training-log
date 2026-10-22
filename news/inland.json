@@ -1,20 +1,125 @@
 {
  "name": "Inland",
- "updated": "2026-10-22T14:31:21+00:00",
+ "updated": "2026-10-22T19:13:34+00:00",
  "items": [
   {
-   "t": "Bundesweite Demos gegen Abschiebungen: Neue deutsche Abschiebehärte",
-   "s": "Die Asylpolitik wird immer brutaler. An Flughäfen entstehen eigene „Rückführungsterminals“. Etliche Bündnisse rufen für Samstag bundesweit zum Protest auf.",
-   "u": "https://taz.de/Bundesweite-Demos-gegen-Abschiebungen/!6223687/",
+   "t": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
+   "s": "Die Stromsteuer runter, die Kraftstoffkosten deckeln: Die Ministerpräsidentinnen und -präsidenten fordern von der Regierung spürbare Entlastungen für die Menschen im Land. Man sei der Auffassung, dass der Bund diese Spielräume habe.",
+   "u": "https://www.tagesschau.de/inland/ministerpraesidentenkonferenz-beschluesse-stromsteuer-spritpreise-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T18:12:49+00:00"
+  },
+  {
+   "t": "Rechtliche Bedeutung der AfD-Leaks: Die Analyse wird langwierig und mühselig",
+   "s": "Ob die geleakten rund 420.000 E-Mails aus AfD-Konten Material für ein AfD-Verbot liefern, ist noch völlig offen. Sie wären aber wohl verwertbar.",
+   "u": "https://taz.de/Rechtliche-Bedeutung-der-AfD-Leaks/!6223967/",
    "q": "taz",
-   "d": "2026-10-22T14:23:00+00:00"
+   "d": "2026-10-22T17:58:00+00:00"
+  },
+  {
+   "t": "Israel vor der Wahl: Wenn KI-Videos das Netz fluten",
+   "s": "Im israelischen Wahlkampf spielen KI-generierte Inhalte eine immer größere Rolle. Und KI wird auch genutzt, um das Regierungsimage aufzupolieren.",
+   "u": "https://taz.de/Israel-vor-der-Wahl/!6223711/",
+   "q": "taz",
+   "d": "2026-10-22T17:55:00+00:00"
+  },
+  {
+   "t": "Sicherheitslücke bei PHP: KI kann auch eine Freundin sein",
+   "s": "Die weltweite Sicherheitslücke bei PHP wurde erst dank KI entdeckt. Würde KI besonnen eingesetzt, könnte sie Daten schützen.",
+   "u": "https://taz.de/Sicherheitsluecke-bei-PHP/!6223729/",
+   "q": "taz",
+   "d": "2026-10-22T17:54:00+00:00"
+  },
+  {
+   "t": "„Gen Z regelt“-Proteste: Der Gesellschaft geben, was sie hören will",
+   "s": "„Gen Z regelt“ ruft zu deutschlandweiten Protesten auf. Gewalt lehnt die Organisation dabei ab. Das stützt zwar die herrschende Macht – ist taktisch aber klug.",
+   "u": "https://taz.de/Gen-Z-regelt-Proteste/!6223733/",
+   "q": "taz",
+   "d": "2026-10-22T17:52:00+00:00"
+  },
+  {
+   "t": "Spionageabwehr - Warum Japan erst jetzt einen Geheimdienst aufbaut",
+   "s": "Jahrzehntelang konnten ausländische Geheimdienste in Japan vergleichsweise frei agieren. Nun treiben geopolitische Krisen, die Bedrohung durch China, Russland und Nordkorea sowie ein unsicheres Verhältnis zu den USA die Regierung zum Kurswechsel.Fritz, Martin",
+   "u": "https://www.deutschlandfunk.de/spionageabwehr-warum-japan-erst-jetzt-einen-geheimdienst-aufbaut-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-22T16:40:00+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Marseille bangt und hofft",
+   "s": "In der zweitgrößten Stadt Frankreichs haben die Proteste vom Samstag eine Spur der Verwüstung hinterlassen. Am Wochenende stehen erneut Demonstrationen an.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6223734/",
+   "q": "taz",
+   "d": "2026-10-22T16:25:00+00:00"
   },
   {
    "t": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
    "s": "Trotz aktueller Krisen kann der Bund im kommenden Jahr mit mehr Steuereinnahmen rechnen als zunächst erwartet. Dennoch rechnet Finanzminister Klingbeil nicht mit mehr Spielräumen für den Haushalt.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-22T14:11:16+00:00"
+   "d": "2026-10-22T15:54:20+00:00"
+  },
+  {
+   "t": "Wozu das AfD-Leak führen kann: Gamechanger für ein Parteiverbot?",
+   "s": "Die AfD-Mails können Belege in einem Verbotsverfahren werden, sagt Rechtsanwalt Chan-jo Jun. Wie ist die Partei mit rechtsextremen Vorfällen umgegangen?",
+   "u": "https://taz.de/Wozu-das-AfD-Leak-fuehren-kann/!6223823/",
+   "q": "taz",
+   "d": "2026-10-22T15:51:00+00:00"
+  },
+  {
+   "t": "Biodiversitätsabkommen: Balanceakt zwischen Artenschutz und Wirtschaft",
+   "s": "Artenvielfalt stabilisiert Ökosysteme und sichert damit auch wirtschaftliche Grundlagen. Dennoch gerät die Einhaltung der Biodiversitätsziele in Vergessenheit, wenn es um wirtschaftliche Interessen geht.",
+   "u": "https://www.deutschlandfunk.de/cop17-biodiversitaet-artenvielfalt-wirtschaft-100-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-22T15:46:00+00:00"
+  },
+  {
+   "t": "EU-Erweiterung: Wartesaal mit Wegzehrung",
+   "s": "Friedrich Merz macht Druck, den Westbalkan an die EU heranzuführen. Es wird nur nicht die Haupthalle, sondern ein Nebenraum.",
+   "u": "https://taz.de/EU-Erweiterung/!6223765/",
+   "q": "taz",
+   "d": "2026-10-22T15:38:00+00:00"
+  },
+  {
+   "t": "AfD-Pläne für Europa: Rechtsextremes Schredderprogramm",
+   "s": "AfD-Chefin Weidel will die europäischen Institutionen radikal entmachten. Von einem Austritt aus der EU und dem Euro ist indes nicht mehr die Rede.",
+   "u": "https://taz.de/AfD-Plaene-fuer-Europa/!6223739/",
+   "q": "taz",
+   "d": "2026-10-22T15:36:00+00:00"
+  },
+  {
+   "t": "Hohe Spritpreise: Lkw-Streiks in Italien sorgen für leere Supermarktregale",
+   "s": "Leere Fleisch- und Fischregale, überteuerte Tomaten und Millionenverluste bei Mozzarella-Produzenten: In Italien blockieren Trucker Straßen, Häfen und Raffinerien.",
+   "u": "https://taz.de/Hohe-Spritpreise/!6223735/",
+   "q": "taz",
+   "d": "2026-10-22T15:33:00+00:00"
+  },
+  {
+   "t": "Steuerschätzung für 2027: Klingbeil will von Senkung der Stromsteuer nichts wissen",
+   "s": "Nach der aktuellen Steuerschätzung könnten 2027 zwar über 4 Milliarden Euro mehr eingenommen werden. Der Finanzminister will trotzdem das Geld zusammenhalten.",
+   "u": "https://taz.de/Steuerschaetzung-fuer-2027/!6223940/",
+   "q": "taz",
+   "d": "2026-10-22T15:30:00+00:00"
+  },
+  {
+   "t": "Ukraine als Ziel russischer „Humanisten“: Trotz angeblicher Verhandlungsbereitschaft greift Moskau an",
+   "s": "Kaum sind die Gespräche von Trumps Sondergesandtem Steve Witkoff im russischen St. Petersburg vorbei, feuert der Kreml wieder Raketen auf die Ukraine.",
+   "u": "https://taz.de/Ukraine-als-Ziel-russischer-Humanisten/!6223794/",
+   "q": "taz",
+   "d": "2026-10-22T14:42:00+00:00"
+  },
+  {
+   "t": "Sacharow-Preis für Strafgerichtshof: Die Vision einer Welt des Rechts",
+   "s": "Der Internationale Strafgerichtshof sollte die Straflosigkeit schwerster Verbrechen beenden. Jetzt steht er unter Druck wie nie seit seiner Gründung.",
+   "u": "https://taz.de/Sacharow-Preis-fuer-Den-Haag/!6223825/",
+   "q": "taz",
+   "d": "2026-10-22T14:32:00+00:00"
+  },
+  {
+   "t": "Bundesweite Demos gegen Abschiebungen: Neue deutsche Abschiebehärte",
+   "s": "Die Asylpolitik wird immer brutaler. An Flughäfen entstehen eigene „Rückführungsterminals“. Etliche Bündnisse rufen für Samstag bundesweit zum Protest auf.",
+   "u": "https://taz.de/Bundesweite-Demos-gegen-Abschiebungen/!6223687/",
+   "q": "taz",
+   "d": "2026-10-22T14:23:00+00:00"
   },
   {
    "t": "Ausschluss einiger Länder vom Finanzausgleich - ginge das?",
@@ -64,111 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/spd-pflegereform-104.html",
    "q": "Tagesschau",
    "d": "2026-10-22T10:31:09+00:00"
-  },
-  {
-   "t": "Schnieder besorgt über mögliche AfD-Beteiligung an Ministerpräsidentenkonferenz",
-   "s": "Die Ministerpräsidentenkonferenz tagt heute - noch ist kein AfD-Regierungschef dabei. Das könnte sich ändern, sollte Siegmund in Sachsen-Anhalt gewählt werden. Der rheinland-pfälzische Ministerpräsident Schnieder warnte vor Sicherheitsrisiken.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/schnieder-afd-ministerpraesidentenkonferenz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T09:25:10+00:00"
-  },
-  {
-   "t": "Die Kapitalrente - Befreiungsschlag oder Risiko?",
-   "s": "Von 2028 an soll die Kapitalrente das deutsche Rentensystem ergänzen: Beiträge werden in Fonds investiert, um die Altersvorsorge zu stärken. Kann die Kapitalrente die großen Hoffnungen erfüllen? Von Frank Aischmann.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/renten-reform-kapitalrente-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T09:24:26+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Sieben Tote nach russischem Beschuss",
-   "s": "Trotz neuer diplomatischer Bemühungen zur Beendigung des Krieges geht der gegenseitige Beschuss weiter. Trump verteidigt Aufschub neuer Russland-Sanktionen.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223680/",
-   "q": "taz",
-   "d": "2026-10-22T08:04:00+00:00"
-  },
-  {
-   "t": "Saudi-Arabien in Huthi-Krise: USA ziehen Diplomaten aus Golf-Region ab",
-   "s": "Immer neue Angriffe der islamistischen Huthi-Miliz nötigen Washington zum Handeln. Ein Mensch starb bei einem Angriff auf den Flughafen der Ölstadt Dammam.",
-   "u": "https://taz.de/Saudi-Arabien-in-Huthi-Krise/!6223665/",
-   "q": "taz",
-   "d": "2026-10-22T07:40:00+00:00"
-  },
-  {
-   "t": "Offener Brief für Vergesellschaftung: „Ein Sperrgesetz ist verfassungswidrig“",
-   "s": "Über 200 Personen aus Gewerkschaften und Wissenschaft sprechen sich für das Recht auf Vergesellschaftung aus. Das Grundgesetz müsse geachtet werden.",
-   "u": "https://taz.de/Offener-Brief-fuer-Vergesellschaftungen/!6223442/",
-   "q": "taz",
-   "d": "2026-10-22T07:32:00+00:00"
-  },
-  {
-   "t": "Ukraine-Gespräche: Keine Bewegung von russischer Seite zu erwarten",
-   "s": "Russland will Mitte November wieder mit der Ukraine und den USA verhandeln. Der frühere deutsche Botschafter Peter Wittig erwartet keinen Durchbruch. Moskau gehe es weder um ein Kriegsende noch um einen Waffenstillstand.Engels, Silvia",
-   "u": "https://www.deutschlandfunk.de/interview-mit-peter-wittig-ex-diplomat-und-usa-botschafter-zu-ukraine-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-22T06:15:14+00:00"
-  },
-  {
-   "t": "Warum das Deutschlandticket light in NRW ein Erfolg ist",
-   "s": "Einchecken, losfahren und nie mehr zahlen als fürs Deutschlandticket: In NRW geht das im Nahverkehr, bundesweit noch nicht. Dabei habe man durch das Modell neue Fahrgäste gewonnen, sagt Oliver Wittke vom Verkehrsverbund Rhein-Ruhr.Engels, Silvia",
-   "u": "https://www.deutschlandfunk.de/interview-oliver-wittke-vrr-vorstandssprecher-zu-bahn-und-trassen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-22T05:15:33+00:00"
-  },
-  {
-   "t": "Rechtspopulismus und Demokratie: Potenzial nicht ausgeschöpft",
-   "s": "Für eine sozial gerechte Zukunft braucht es eine radikale Mitte. Ein politisches Lager, das Möglichkeiten darlegt, statt Vergangenem nachzutrauern.",
-   "u": "https://taz.de/Rechtspopulismus-und-Demokratie/!6223133/",
-   "q": "taz",
-   "d": "2026-10-22T05:01:00+00:00"
-  },
-  {
-   "t": "Hermann Höllenreiner ist tot: Er hat drei KZ überlebt",
-   "s": "Erst schwieg er lange. Dann hielt er Vorträge über die Vernichtung von Sinti und Roma im Nationalsozialismus. Nun ist Hermann Höllenreiner gestorben.",
-   "u": "https://taz.de/Er-hat-drei-KZ-ueberlebt-Nun-ist-Hermann-Hoellenreiner-mit-92-gestorben/!6223340/",
-   "q": "taz",
-   "d": "2026-10-21T17:56:00+00:00"
-  },
-  {
-   "t": "Schwangerschaftsabbruch in Polen: Wenig Aussicht auf Erleichterung",
-   "s": "Regierungschef Tusk setzt endlich ein Wahlversprechen um und entschärft die Abtreibungsgesetze in Polen. Doch Präsident Naworocki kann das blockieren.",
-   "u": "https://taz.de/Schwangerschaftsabbruch-in-Polen/!6223131/",
-   "q": "taz",
-   "d": "2026-10-21T17:56:00+00:00"
-  },
-  {
-   "t": "Suchtkranke in deutschen Städten: Brauchen wir eine neue Drogenpolitik?",
-   "s": "Crack-Konsum im Hauseingang, fixen in der U-Bahn und Suchtkranke, die scheinbar bewusstlos auf der Straße liegen: Viele deutsche Städte kämpfen mit den Folgen des internationalen Drogenhandels. Braucht es eine neue Drogenpolitik?Gorgis, Elena; Streeck, Hendrik; Strunz, Benedikt; Reppe, Augustine; Rau, Harald",
-   "u": "https://www.deutschlandfunk.de/suchtkranke-in-deutschen-staedten-brauchen-wir-eine-neue-drogenpolitik-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T17:15:00+00:00"
-  },
-  {
-   "t": "Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober",
-   "s": "Auch in Deutschland ruft eine Initiative junge Menschen zu Protesten auf. Am 31. Oktober soll es bundesweit Demonstrationen geben. Polizei und Behörden beobachten die Lage und tauschen sich mit Frankreich und Italien aus.",
-   "u": "https://www.tagesschau.de/inland/aufruf-demos-sicherheitsbehoerden-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T16:57:53+00:00"
-  },
-  {
-   "t": "Trump, Selenskyj und Europa: Ukraine, verkauft und im Stich gelassen",
-   "s": "Immer offener paktiert der US-Präsident mit dem Kremlchef. Die EU setzt die Hoffnungen auf die Midterms, derweil wird die Ukraine heftig beschossen.",
-   "u": "https://taz.de/Trump-Selenskyj-und-Europa/!6218340/",
-   "q": "taz",
-   "d": "2026-10-21T16:54:00+00:00"
-  },
-  {
-   "t": "Ukrainegespräche in St. Petersburg: „Momentum für die Beendigung des Krieges“",
-   "s": "Der US-Sondergesandte Witkoff sieht gute Voraussetzungen für ein Ende des Ukrainekrieges. Die Ukraine erklärt sich zur Anerkennung der derzeitigen Frontlinie bereit.",
-   "u": "https://taz.de/Ukrainegespraeche-in-St-Petersburg/!6223342/",
-   "q": "taz",
-   "d": "2026-10-21T16:53:00+00:00"
-  },
-  {
-   "t": "Evangelikale in Brasilien - Machtvolle Stimmen im rechten Kulturkampf",
-   "s": "In Brasilien will Flávio Bolsonaro das Erbe seines Vaters antreten und Präsident werden. Dabei setzt er auf die Stimmen der evangelikalen Christen – eine tragende Säule für die neue Rechte. Pastoren und Kinder-Influencerinnen mischen im Wahlkampf mit.Herrberg, Anne",
-   "u": "https://www.deutschlandfunk.de/evangelikale-in-brasilien-machtvolle-stimmen-im-rechten-kulturkampf-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T16:40:00+00:00"
   }
  ]
 }

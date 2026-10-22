@@ -1,20 +1,34 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-22T14:31:22+00:00",
+ "updated": "2026-10-22T19:13:37+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 22.10.2026",
+   "s": "Wirtschaft vor acht vom 22.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1670896.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T17:47:07+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX fällt wieder zurück",
+   "s": "Der DAX hat bei volatilem Handel einen Teil seiner Gewinne vom Vortag wieder abgegeben. Er folgte einer schwachen Wall Street. Es waren mal wieder Nachrichten aus dem US-Tech-Sektor, die die Kurse bewegten.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T16:36:57+00:00"
+  },
+  {
+   "t": "Biodiversitätsabkommen: Balanceakt zwischen Artenschutz und Wirtschaft",
+   "s": "Artenvielfalt stabilisiert Ökosysteme und sichert damit auch wirtschaftliche Grundlagen. Dennoch gerät die Einhaltung der Biodiversitätsziele in Vergessenheit, wenn es um wirtschaftliche Interessen geht.",
+   "u": "https://www.deutschlandfunk.de/cop17-biodiversitaet-artenvielfalt-wirtschaft-100-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-22T15:46:00+00:00"
+  },
   {
    "t": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
    "s": "Experten warnen vor einer schwerwiegenden Sicherheitslücke bei Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. Was bedeutet das für Internetnutzer? Wie gravierend sind die Probleme?",
    "u": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
    "q": "Tagesschau",
    "d": "2026-10-22T13:41:31+00:00"
-  },
-  {
-   "t": "Marktbericht: SAP-Umbau trägt Früchte",
-   "s": "Europas größter Softwarekonzern setzt beim Umbau ganz auf KI - mit Erfolg, wie die jüngsten Quartalszahlen zeigen. Vor allem im Cloudgeschäft punkten die Walldorfer. Die Börse honoriert das.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T12:10:58+00:00"
   },
   {
    "t": "Welche wirtschaftlichen Folgen die PHP-Sicherheitslücke haben könnte",
@@ -87,13 +101,6 @@
    "d": "2026-10-21T20:47:20+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 21.10.2026",
-   "s": "Wirtschaft vor acht vom 21.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1670378.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T19:01:38+00:00"
-  },
-  {
    "t": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
    "s": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. In Deutschland sind Internetseiten mehrerer Städte vorsichtshalber abgeschaltet.",
    "u": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-streaming-serien-100.html",
    "q": "Tagesschau",
    "d": "2026-10-21T08:20:43+00:00"
-  },
-  {
-   "t": "Kommentar zum Investitionsgipfel: Wenn die Fachkräfte fehlen",
-   "s": "Bundeskanzler Merz möchte mit einem Investitionsgipfel mehr Kapital nach Deutschland locken. Grundsätzlich ist Deutschland attraktiv für Investoren. Es ist kreditwürdig und rechtssicher. Beim Thema Fachkräfte sieht es allerdings zunehmend düster aus.Ein Kommentar von Falk Steiner",
-   "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T08:10:00+00:00"
   }
  ]
 }
