@@ -1,7 +1,14 @@
 {
  "name": "Inland",
- "updated": "2026-10-23T19:14:41+00:00",
+ "updated": "2026-10-23T23:51:41+00:00",
  "items": [
+  {
+   "t": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
+   "s": "CSU-Chef Söder sieht die Demokratie vor großen Herausforderungen. Er forderte zudem finanzielle Entlastungen für die Bevölkerung. Es müsse etwas passieren, betonte der bayrische Ministerpräsident im Interview mit den tagesthemen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T19:45:20+00:00"
+  },
   {
    "t": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
    "s": "Zum Auftakt des CSU-Parteitags knöpft sich Parteichef Söder die Linke und die AfD vor. Und er weist auf den Ernst der Lage für die Union hin. Den meisten Applaus bekam er aber für etwas anderes. Von Anita Fünffinger.",
@@ -162,13 +169,6 @@
    "u": "https://www.deutschlandfunk.de/akademiker-bundestag-arbeiter-soziale-ungleichheit-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-23T09:56:00+00:00"
-  },
-  {
-   "t": "Konflikt zwischen Frau­en­ärz­t:in­nen: Abtreibungsgegner an der Spitze der Gynäkologie",
-   "s": "Der Vorstand der größten gynäkologischen Fachgesellschaft Deutschlands positioniert sich gegen Abtreibungen. Wird er jetzt wiedergewählt?",
-   "u": "https://taz.de/Konflikt-zwischen-Frauenaerztinnen/!6223957/",
-   "q": "taz",
-   "d": "2026-10-23T09:28:00+00:00"
   }
  ]
 }
