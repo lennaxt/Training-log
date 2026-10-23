@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-22T23:59:18+00:00",
+ "updated": "2026-10-23T08:33:49+00:00",
  "items": [
+  {
+   "t": "Gescheiterte Exekution von Christa Pike: Gerissene Vene schon bei Injektion befürchtet",
+   "s": "Christa Pikes gescheiterte Hinrichtung in Tennessee sorgte weit über die USA hinaus für Aufsehen. Jetzt gibt es neue Details zum Hergang der Hinrichtung.",
+   "u": "https://taz.de/Gescheiterte-Exekution-von-Christa-Pike/!6223992/",
+   "q": "taz",
+   "d": "2026-10-23T06:25:00+00:00"
+  },
   {
    "t": "Brasilien vor der Stichwahl: „Olé, olá, Lula“",
    "s": "Der Kampf ums brasilianische Präsidentenamt entscheidet sich auf Social Media. Bevorzugt der US-Konzern Meta den rechten Kandidaten Bolsonaro?",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Trump-und-die-Midterms/!6216808/",
    "q": "taz",
    "d": "2026-10-11T17:47:00+00:00"
-  },
-  {
-   "t": "Todesstrafe in den USA: Staat und Spektakel",
-   "s": "Der fehlgeschlagene Versuch, die Mörderin Christa Pike hinzurichten, zeigt die ganze Grausamkeit der Todesstrafe. Wir dürfen uns nicht damit abfinden.",
-   "u": "https://taz.de/Todesstrafe-in-den-USA/!6220559/",
-   "q": "taz",
-   "d": "2026-10-11T11:43:00+00:00"
   }
  ]
 }

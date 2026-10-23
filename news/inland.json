@@ -1,7 +1,63 @@
 {
  "name": "Inland",
- "updated": "2026-10-22T23:59:14+00:00",
+ "updated": "2026-10-23T08:33:45+00:00",
  "items": [
+  {
+   "t": "Streit um Nationalisten: Neuer Zoff zwischen der Ukraine und Polen um Untergrundarmee",
+   "s": "Im früher zu Polen gehörenden Lemberg, heute Lwiw, soll 2027 das Jahr der ukrainischen Befreiungsarmee begangen werden. Polen reagiert erwartbar empört.",
+   "u": "https://taz.de/Streit-um-Nationalisten/!6223902/",
+   "q": "taz",
+   "d": "2026-10-23T08:23:00+00:00"
+  },
+  {
+   "t": "CSU will weniger Geld zahlen: „Extremismusklausel“ im Länderfinanzausgleich",
+   "s": "Mit der „Extremismusklausel“ will die CSU den Ländern weniger zahlen, in denen künftig AfD und Linke regieren. Jetzt verteidigt auch der Generalsekretär die Idee.",
+   "u": "https://taz.de/CSU-will-weniger-Geld-zahlen/!6224000/",
+   "q": "taz",
+   "d": "2026-10-23T08:19:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: US-Senatoren fordern Aufklärung zu Starlink-Drosselung",
+   "s": "Laut Trump funktioniert der Satellitendienst in der Ukraine wieder. Doch der Vorfall wirft Fragen auf. Russland überzieht die Ukraine weiter mit Attacken.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223995/",
+   "q": "taz",
+   "d": "2026-10-23T07:09:00+00:00"
+  },
+  {
+   "t": "Philip Rosenthal - ein Millionär im Bundestag",
+   "s": "Der Porzellanfabrikant Philip Rosenthal, geboren am 23. Oktober 1916, stammte aus einer wohlhabenden Familie. Während des Krieges lernte er in der Fremdenlegion auch Armut kennen. Als SPD-Politiker setzte er sich für soziale Gerechtigkeit ein.Geuer, Irene",
+   "u": "https://www.deutschlandfunk.de/23-10-1916-porzellanfabrikant-philip-rosenthal-geboren-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-23T07:05:00+00:00"
+  },
+  {
+   "t": "Vor Parlamentswahl in Serbien: Zehntausende Anhänger der Opposition auf Belgrads Straßen",
+   "s": "Serbien wählt am Sonntag ein neues Parlament. Zehntausende Anhänger der oppositionellen „Studentenliste“ kamen zur Abschlusskundgebung in der Hauptstadt.",
+   "u": "https://taz.de/Vor-Parlamentswahl-in-Serbien/!6223993/",
+   "q": "taz",
+   "d": "2026-10-23T06:59:00+00:00"
+  },
+  {
+   "t": "Gescheiterte Exekution von Christa Pike: Gerissene Vene schon bei Injektion befürchtet",
+   "s": "Christa Pikes gescheiterte Hinrichtung in Tennessee sorgte weit über die USA hinaus für Aufsehen. Jetzt gibt es neue Details zum Hergang der Hinrichtung.",
+   "u": "https://taz.de/Gescheiterte-Exekution-von-Christa-Pike/!6223992/",
+   "q": "taz",
+   "d": "2026-10-23T06:25:00+00:00"
+  },
+  {
+   "t": "Länderfinanzausgleich - CSU fordert „Extremismusklausel“",
+   "s": "Wie lassen sich die radikalen Ränder in Deutschland zurückdrängen? Aus Sicht von Martin Huber (CSU) braucht es vor allem eine stabile Regierung unter Kanzler Merz. Ein weiteres mögliches Instrument: eine Extremismusklausel im Länderfinanzausgleich.Schulz, Sandra",
+   "u": "https://www.deutschlandfunk.de/csu-parteitag-interview-mit-martin-huber-csu-generalsekretaer-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-23T05:15:35+00:00"
+  },
+  {
+   "t": "Nahostexperte über Wahlen in Israel: „Die arabische Bevölkerung könnte Netanjahu verhindern“",
+   "s": "Am 27. Oktober wählt Israel sein neues Parlament. Das Land ist gespalten, die Bevölkerung heterogen. Wer für wen abstimmt, erklärt Nahostexperte Peter Lintl.",
+   "u": "https://taz.de/Nahostexperte-ueber-Wahlen-in-Israel/!6223670/",
+   "q": "taz",
+   "d": "2026-10-23T04:59:00+00:00"
+  },
   {
    "t": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
    "s": "Die Stromsteuer runter, die Kraftstoffkosten deckeln: Die Ministerpräsidentinnen und -präsidenten fordern von der Regierung spürbare Entlastungen für die Menschen im Land. Man sei der Auffassung, dass der Bund diese Spielräume habe.",
@@ -113,62 +169,6 @@
    "u": "https://taz.de/Sacharow-Preis-fuer-Den-Haag/!6223825/",
    "q": "taz",
    "d": "2026-10-22T14:32:00+00:00"
-  },
-  {
-   "t": "Bundesweite Demos gegen Abschiebungen: Neue deutsche Abschiebehärte",
-   "s": "Die Asylpolitik wird immer brutaler. An Flughäfen entstehen eigene „Rückführungsterminals“. Etliche Bündnisse rufen für Samstag bundesweit zum Protest auf.",
-   "u": "https://taz.de/Bundesweite-Demos-gegen-Abschiebungen/!6223687/",
-   "q": "taz",
-   "d": "2026-10-22T14:23:00+00:00"
-  },
-  {
-   "t": "Ausschluss einiger Länder vom Finanzausgleich - ginge das?",
-   "s": "Markus Söder will Bundesländer mit \"extremistischer\" Regierungsbeteiligung vom Länderfinanzausgleich ausschließen - und schaut dabei nach Berlin und Sachsen-Anhalt. Aber ginge das überhaupt? Von Frank Aischmann.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/extremismusklausel-laenderfinanzausgleich-soeder-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T13:27:40+00:00"
-  },
-  {
-   "t": "Ministerpräsidentenwahl Sachsen-Anhalt: CDU-Abgeordneter Heuer will sitzen bleiben",
-   "s": "Die CDU-Fraktion in Sachsen-Anhalt hatte angekündigt, bei der Wahl eines AfD-Ministerpräsidenten den Plenarsaal zu verlassen. Nun stellt sich ein Abgeordneter quer.",
-   "u": "https://taz.de/Ministerpraesidentenwahl-Sachsen-Anhalt/!6223720/",
-   "q": "taz",
-   "d": "2026-10-22T12:57:00+00:00"
-  },
-  {
-   "t": "FAQ zum AfD-Leak: Wie es jetzt weitergeht",
-   "s": "Hacker haben Hunderttausende Mails der AfD veröffentlicht. Erste Vorwürfe klären sich, es kursieren auch falsche Informationen. Was wir wissen und was nicht.",
-   "u": "https://taz.de/Fragen-und-Antworten-zum-AfD-Leak/!6223805/",
-   "q": "taz",
-   "d": "2026-10-22T12:26:00+00:00"
-  },
-  {
-   "t": "EU-Zeichen gegen Trump: Internationaler Strafgerichtshof erhält Sacharow-Preis",
-   "s": "Das Europäische Parlament würdigt die Arbeit des Internationalen Strafgerichtshofs mit dem Sacharow-Preis – und stellt sich damit klar gegen die US-Regierung.",
-   "u": "https://taz.de/Sacharow-Preis-geht-an-Internationalen-Strafgerichtshof/!6223761/",
-   "q": "taz",
-   "d": "2026-10-22T11:59:00+00:00"
-  },
-  {
-   "t": "Mutmaßlicher russischer Spion in Brandenburg festgenommen",
-   "s": "In Brandenburg hat die Polizei einen mutmaßlichen Spion festgenommen. Er soll im Dienste Russlands Rüstungsfirmen ausgespäht haben. Der Mann selbst soll ein Ukrainer aus russisch besetztem Gebiet sein. Von. M. Götschenberg und H. Schmidt.",
-   "u": "https://www.tagesschau.de/inland/spionage-ruestungindustrie-festnahme-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T11:32:31+00:00"
-  },
-  {
-   "t": "Brasilien vor der Stichwahl: „Olé, olá, Lula“",
-   "s": "Der Kampf ums brasilianische Präsidentenamt entscheidet sich auf Social Media. Bevorzugt der US-Konzern Meta den rechten Kandidaten Bolsonaro?",
-   "u": "https://taz.de/Brasilien-vor-der-Stichwahl/!6223109/",
-   "q": "taz",
-   "d": "2026-10-22T10:53:00+00:00"
-  },
-  {
-   "t": "SPD will Pflegereform nachbessern",
-   "s": "Bei der Ministerpräsidentenkonferenz dürfte heute wohl auch über die Pflegereform diskutiert werden. Die SPD will Nachbesserungen - und fordert eine Überarbeitung des Gesetzentwurfs.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-pflegereform-104.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T10:31:09+00:00"
   }
  ]
 }

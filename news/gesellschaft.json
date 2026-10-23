@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-22T23:59:17+00:00",
+ "updated": "2026-10-23T08:33:48+00:00",
  "items": [
+  {
+   "t": "Streit um Nationalisten: Neuer Zoff zwischen der Ukraine und Polen um Untergrundarmee",
+   "s": "Im früher zu Polen gehörenden Lemberg, heute Lwiw, soll 2027 das Jahr der ukrainischen Befreiungsarmee begangen werden. Polen reagiert erwartbar empört.",
+   "u": "https://taz.de/Streit-um-Nationalisten/!6223902/",
+   "q": "taz",
+   "d": "2026-10-23T08:23:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: US-Senatoren fordern Aufklärung zu Starlink-Drosselung",
+   "s": "Laut Trump funktioniert der Satellitendienst in der Ukraine wieder. Doch der Vorfall wirft Fragen auf. Russland überzieht die Ukraine weiter mit Attacken.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223995/",
+   "q": "taz",
+   "d": "2026-10-23T07:09:00+00:00"
+  },
+  {
+   "t": "Vor Parlamentswahl in Serbien: Zehntausende Anhänger der Opposition auf Belgrads Straßen",
+   "s": "Serbien wählt am Sonntag ein neues Parlament. Zehntausende Anhänger der oppositionellen „Studentenliste“ kamen zur Abschlusskundgebung in der Hauptstadt.",
+   "u": "https://taz.de/Vor-Parlamentswahl-in-Serbien/!6223993/",
+   "q": "taz",
+   "d": "2026-10-23T06:59:00+00:00"
+  },
   {
    "t": "„Gen Z regelt“-Proteste: Der Gesellschaft geben, was sie hören will",
    "s": "„Gen Z regelt“ ruft zu deutschlandweiten Protesten auf. Gewalt lehnt die Organisation dabei ab. Das stützt zwar die herrschende Macht – ist taktisch aber klug.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Polizei-raeumt-Protestlager-gegen-Wohnungsnot-in-Lissabon/!6222989/",
    "q": "taz",
    "d": "2026-10-20T12:49:00+00:00"
-  },
-  {
-   "t": "Ausgangssperren in Frankreich: Sollen sie doch drinnen bleiben",
-   "s": "Nach Plünderungen und schweren Ausschreitungen kündigt die Regierung Ausgangssperren an. Derweil gab es eine Festnahme nach dem Rathaus-Brand von Limoges.",
-   "u": "https://taz.de/Ausgangssperren-in-Frankreich/!6222840/",
-   "q": "taz",
-   "d": "2026-10-20T08:21:00+00:00"
-  },
-  {
-   "t": "Russische Angriffe auf Kyjiw: Kein Versteck, nirgends",
-   "s": "Die ukrainische Hauptstadt Kyjiw ist täglich russischen Angriffen ausgesetzt. Um Schutzräume aufzusuchen, bleibt vielen Menschen immer weniger Zeit.",
-   "u": "https://taz.de/Russische-Angriffe-auf-Kyjiw/!6222586/",
-   "q": "taz",
-   "d": "2026-10-19T17:44:00+00:00"
-  },
-  {
-   "t": "Sozialproteste in Lissabon: Jugend zeltet",
-   "s": "In Lissabon wird, inspiriert von den Protesten in Spanien, gegen Wuchermieten protestiert. Die Jugend will einen „iberischen Generalstreik“.",
-   "u": "https://taz.de/Sozialproteste-in-Lissabon/!6222613/",
-   "q": "taz",
-   "d": "2026-10-19T16:24:00+00:00"
   }
  ]
 }

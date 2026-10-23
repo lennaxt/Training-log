@@ -1,7 +1,35 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-22T23:59:15+00:00",
+ "updated": "2026-10-23T08:33:46+00:00",
  "items": [
+  {
+   "t": "Ringen um Sparkurs bei Autobauer Volkswagen geht weiter",
+   "s": "Stellenabbau, Sparrunden und drohende Werkschließungen: Die Stimmung bei Volkswagen ist aufgeheizt. Heute spricht die Konzernspitze mit der Gewerkschaft IG Metall. Worum es bei dem Krisentreffen geht.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ig-metall-ueberpruefungsgespraech-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T08:16:35+00:00"
+  },
+  {
+   "t": "Weihnachtsbäume könnten teurer werden",
+   "s": "Weihnachten ohne festlich geschmückten Baum ist für viele undenkbar. Und in wenigen Wochen beginnt bereits die Ernte. Eines zeichnet sich aber bereits ab: Wer einen natürlichen Weihnachtsbaum will, muss tiefer in die Tasche greifen.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/weihnachtsbaum-saison-preise-anstieg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T08:04:17+00:00"
+  },
+  {
+   "t": "Marktbericht: Tech-Ausverkauf drückt auf die Anlegerstimmung",
+   "s": "Zum Wochenschluss geraten die Börsen in leichte Turbulenzen: An der Wall Street fallen Tech-Titel weit zurück, auch geopolitische Sorgen wachsen. Wird sich der DAX gegen weitere Kursverluste stemmen?",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T05:34:12+00:00"
+  },
+  {
+   "t": "\"Operation Chargeback\": Merkur-Tochterfirma wickelte Zahlungen ab",
+   "s": "Im Rahmen der \"Operation Chargeback\" ermitteln Behörden gegen internationale Geldwäsche-Netzwerke. Ex-Wirecard-Manager sind inzwischen angeklagt. Nach BR-Recherchen führen Spuren auch zu einer Tochterfirma des Glücksspielkonzerns Merkur.",
+   "u": "https://www.tagesschau.de/investigativ/br-recherche/gluecksspiel-geldwaesche-wirecard-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T05:04:03+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 22.10.2026",
    "s": "Wirtschaft vor acht vom 22.10.2026",
@@ -10,11 +38,18 @@
    "d": "2026-10-22T17:47:07+00:00"
   },
   {
-   "t": "Marktbericht: DAX fällt wieder zurück",
-   "s": "Der DAX hat bei volatilem Handel einen Teil seiner Gewinne vom Vortag wieder abgegeben. Er folgte einer schwachen Wall Street. Es waren mal wieder Nachrichten aus dem US-Tech-Sektor, die die Kurse bewegten.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
+   "t": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
+   "s": "Millionen Cyberattacken binnen weniger Stunden: Die PHP-Sicherheitslücke hat weltweit Besorgnis ausgelöst. Viele Internetseiten sind noch immer nicht erreichbar - und Kriminelle versuchen weiter, die Lücke auszunutzen.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-22T16:36:57+00:00"
+   "d": "2026-10-22T16:27:55+00:00"
+  },
+  {
+   "t": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
+   "s": "Trotz aktueller Krisen kann der Bund im kommenden Jahr mit mehr Steuereinnahmen rechnen als zunächst erwartet. Dennoch rechnet Finanzminister Klingbeil nicht mit mehr Spielräumen für den Haushalt.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-22T15:54:20+00:00"
   },
   {
    "t": "Biodiversitätsabkommen: Balanceakt zwischen Artenschutz und Wirtschaft",
@@ -22,20 +57,6 @@
    "u": "https://www.deutschlandfunk.de/cop17-biodiversitaet-artenvielfalt-wirtschaft-100-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-22T15:46:00+00:00"
-  },
-  {
-   "t": "PHP-Bedrohung: Was über die Sicherheitslücke bekannt ist",
-   "s": "Experten warnen vor einer schwerwiegenden Sicherheitslücke bei Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. Was bedeutet das für Internetnutzer? Wie gravierend sind die Probleme?",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T13:41:31+00:00"
-  },
-  {
-   "t": "Welche wirtschaftlichen Folgen die PHP-Sicherheitslücke haben könnte",
-   "s": "Die PHP-Sicherheitslücke betrifft auch zahlreiche Unternehmen und deren Websites. Auch in Deutschland. Was das für die Wirtschaft bedeutet, erklärt IT-Sicherheitsexperte Thorsten Holz.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/interview-php-sicherheitsluecke-folgen-unternehmen-verbraucher-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T12:02:43+00:00"
   },
   {
    "t": "Was beim neuen Altersvorsorgedepot zu beachten ist",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-tesla-spacex-zusammenschluss-folgen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-21T13:08:11+00:00"
-  },
-  {
-   "t": "Fake Hotelanzeigen - Brüssel ermittelt gegen Booking.com",
-   "s": "Unternimmt das Portal Booking.com genügend gegen Betrüger, die Reisende mit Fake-Anzeigen locken? Die EU will das ermitteln und sicherstellen, dass die Europäer ihren Urlaub ohne Angst buchen können.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/reisen-betrug-bookingcom-eu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T11:32:40+00:00"
-  },
-  {
-   "t": "Iranisches Finanznetzwerk: Eine deutsche Bank im Visier Teherans",
-   "s": "Internationale Sanktionen gegen das iranische Regime erschweren den Zahlungsverkehr. Deshalb unterhalten die Mullahs ein Netzwerk aus Hunderten Tarnfirmen. Nach Recherchen von Report Mainz und dem Spiegel wollten sie eine Bank in Bayern übernehmen.",
-   "u": "https://www.tagesschau.de/investigativ/report-mainz/iran-bank-104.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T09:00:03+00:00"
-  },
-  {
-   "t": "Streaming-Gigant unter Druck: Netflix wächst langsamer",
-   "s": "Netflix war jahrelang der unumstrittene Marktführer beim Streaming. Doch der Konzern kämpft gegen immer stärkere Konkurrenz. Neue Produktionen sollen helfen, die Zuschauer wieder mehr zu fesseln - und mehr Werbung zu verkaufen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-streaming-serien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T08:20:43+00:00"
   }
  ]
 }

@@ -1,7 +1,21 @@
 {
  "name": "Wissen",
- "updated": "2026-10-22T23:59:16+00:00",
+ "updated": "2026-10-23T08:33:47+00:00",
  "items": [
+  {
+   "t": "Etwa 50.000 Hitzetote im Sommer 2026 in Europa",
+   "s": "Seit Beginn der Aufzeichnungen gab es noch nie so viele Hitzetote in Europa wie im Sommer 2026. Das hat eine britische Analyse ergeben. Die Folgen der von Menschen gemachten Klimaerwärmung werden den Forschern zufolge immer deutlicher.",
+   "u": "https://www.tagesschau.de/wissen/klima/hitzetote-sommer-studie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T07:14:56+00:00"
+  },
+  {
+   "t": "Brustkrebs bei Männern ist selten und wird meist spät entdeckt",
+   "s": "Brustkrebs beim Mann ist eine seltene Krankheit. Oft wird ein Tumor deshalb erst im fortgeschrittenen Stadium diagnostiziert - dadurch geht wertvolle Therapiezeit verloren. Von Christiane Stauß.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/brustkrebs-mann-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T05:26:29+00:00"
+  },
   {
    "t": "UN-Artenschutzkonferenz - Wie effektiv sind Schutzgebiete?",
    "s": "30 Prozent der Erde sollen bis 2030 unter Naturschutz stehen. Dazu haben sich die Staaten der UN-Artenschutzkonferenz verpflichtet. Schon jetzt zeigen einige Konzepte Erfolge - aber Kosten und Aufwand sind hoch. Von Jenny von Sperber.",
@@ -50,13 +64,6 @@
    "u": "https://www.tagesschau.de/wissen/weltraum/start-mission-mars-mond-100.html",
    "q": "Tagesschau",
    "d": "2026-10-19T20:43:14+00:00"
-  },
-  {
-   "t": "\"Idefix\" soll Rätsel der Mars-Monde lösen",
-   "s": "Die japanische Mission MMX soll ab heute mit dem deutsch-französischen Rover \"Idefix\" zum Mars-Mond Phobos fliegen. Dort soll \"Idefix\" endlich klären, woher die rätselhaften Monde des Mars stammen. Von Jan Kerckhoff.",
-   "u": "https://www.tagesschau.de/wissen/weltraum/mars-monde-mission-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T14:59:24+00:00"
   },
   {
    "t": "COP17 in Armenien: Weltnaturkonferenz startet mit großen Aufgaben",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/forschung/tagesthemen-interview-hegemann-100.html",
    "q": "Tagesschau",
    "d": "2026-10-05T19:37:30+00:00"
-  },
-  {
-   "t": "Optogenetik: Medizin-Nobelpreis für den Lichtschalter im Gehirn",
-   "s": "Eine Grünalge lieferte den entscheidenden Baustein: Mit der Optogenetik lassen sich Nervenzellen durch Licht steuern. Dafür erhalten Peter Hegemann, Georg Nagel und Karl Deisseroth den Medizin-Nobelpreis. Von Doris Tromballa.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/optogenetik-nobelpreis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T14:53:43+00:00"
   }
  ]
 }
