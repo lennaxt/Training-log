@@ -1,13 +1,20 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-23T14:14:54+00:00",
+ "updated": "2026-10-23T19:14:42+00:00",
  "items": [
   {
-   "t": "Marktbericht: Nasdaq kommt unter die Räder",
-   "s": "Der KI-Boom beherrscht weiter die Wall Street. Die erste Euphorie ist aber vorbei - die Anleger wollen vielmehr endlich Ergebnisse der horrenden KI-Investitionen sehen. Meta ist ein warnendes Beispiel.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-108.html",
+   "t": "Wirtschaft vor acht vom 23.10.2026",
+   "s": "Wirtschaft vor acht vom 23.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1671518.html",
    "q": "Tagesschau",
-   "d": "2026-10-23T13:16:51+00:00"
+   "d": "2026-10-23T18:01:52+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX-Anleger meiden das Risiko",
+   "s": "Hohe Ölpreise, anhaltenden Sorgen um Frankreichs Staatsfinanzen und immer wieder neue Bedenken bei der Künstlichen Intelligenz. Zu viele Probleme gleichzeitig für die Anleger, der DAX gab nach.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T16:38:57+00:00"
   },
   {
    "t": "Deutsche Baubranche verzeichnet Rekordanstieg bei Großaufträgen",
@@ -57,13 +64,6 @@
    "u": "https://www.tagesschau.de/investigativ/br-recherche/gluecksspiel-geldwaesche-wirecard-100.html",
    "q": "Tagesschau",
    "d": "2026-10-23T05:04:03+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 22.10.2026",
-   "s": "Wirtschaft vor acht vom 22.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1670896.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T17:47:07+00:00"
   },
   {
    "t": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",

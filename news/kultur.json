@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-23T14:14:58+00:00",
+ "updated": "2026-10-23T19:14:46+00:00",
  "items": [
+  {
+   "t": "Störungen bei Starlink: Der Donald, der Elon und die Frage der Schuld",
+   "s": "Elon Musks satellitenbasiertes Internet Starlink kann von der Ukraine derzeit nur in gedrosselter Geschwindigkeit im Krieg genutzt werden. Na sowas?",
+   "u": "https://taz.de/Stoerungen-bei-Starlink/!6223462/",
+   "q": "taz",
+   "d": "2026-10-23T15:53:00+00:00"
+  },
   {
    "t": "Gescheiterte Exekution von Christa Pike: Gerissene Vene schon bei Injektion befürchtet",
    "s": "Christa Pikes gescheiterte Hinrichtung in Tennessee sorgte weit über die USA hinaus für Aufsehen. Jetzt gibt es neue Details zum Hergang der Hinrichtung.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Parteispende-von-Elon-Musk/!6221344/",
    "q": "taz",
    "d": "2026-10-13T13:13:00+00:00"
-  },
-  {
-   "t": "Trump und die Midterms: Schnell noch mal rund um sich schlagen",
-   "s": "Der US-Präsident wird zusehends nervös und er hat gute Gründe dafür. Weder für sein Umfeld noch für den Rest der Welt verheißt das Gutes.",
-   "u": "https://taz.de/Trump-und-die-Midterms/!6216808/",
-   "q": "taz",
-   "d": "2026-10-11T17:47:00+00:00"
   }
  ]
 }

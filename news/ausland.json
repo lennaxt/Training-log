@@ -1,13 +1,55 @@
 {
  "name": "Ausland",
- "updated": "2026-10-23T14:14:53+00:00",
+ "updated": "2026-10-23T19:14:41+00:00",
  "items": [
   {
+   "t": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
+   "s": "Beim ersten Treffen dieser Art hat Außenminister Wadephul mit sieben anderen Chefdiplomaten aus Europa und Nahost in Istanbul über Kriege und Konflikte beraten. Seine Bilanz: positiv. Künftig soll es regelmäßige Treffen geben. Von C. Buttkereit.",
+   "u": "https://www.tagesschau.de/ausland/istanbul-wadephul-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T17:43:10+00:00"
+  },
+  {
+   "t": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
+   "s": "Die humanitäre Lage in der von Russland besetzten ukrainischen Stadt Oleschky ist dramatisch. Nun gibt es Hoffnung für eine Evakuierung. Das Weiße Haus gab eine lokale Waffenruhe bekannt - vermittelt durch First Lady Melania Trump.",
+   "u": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T17:26:28+00:00"
+  },
+  {
+   "t": "Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris",
+   "s": "Ein Toter, vier Verletzte - darunter ein zwölfjähriges Kind: Nach den Schüssen eines Autofahrers auf Passanten bei Paris ermittelt die Anti-Terror-Staatsanwaltschaft. Sie prüft auch, ob es einen rassistischen Hintergrund gibt. Von C. Dylla.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-paris-schuesse-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T17:05:12+00:00"
+  },
+  {
+   "t": "Israel will Westjordanland nach Angriff in Hebron abriegeln",
+   "s": "Nach einem Angriff nahe Hebron im Westjordanland hat Israels Militär den Tod von zwei Soldaten bestätigt. Die Zufahrten zur Stadt sind gesperrt - bald soll die Armee das ganze Westjordanland abriegeln. Von B. Meier.",
+   "u": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T16:31:33+00:00"
+  },
+  {
+   "t": "Griechenland verbietet Social Media für unter 15-Jährige",
+   "s": "Auch Griechenland will Kinder und Jugendliche vor Gefahren Sozialer Medien schützen. Das Parlament hat ein Verbot für unter 15-Jährige beschlossen. Künftig sollen Plattformen das Alter ihrer Nutzer überprüfen.",
+   "u": "https://www.tagesschau.de/ausland/europa/griechenland-social-media-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T15:44:49+00:00"
+  },
+  {
+   "t": "Ein Toter und Verletze: Innenminister spricht von Terror-Tat bei Paris",
+   "s": "Aus einem Auto heraus hat ein Mann in mehreren Vororten von Paris Schüsse abgefeuert. Ein Mensch wurde getötet, es gibt mehrere Schwerverletzte. Frankreichs Innenminister Nuñez spricht von einer \"terroristischen Tat\".",
+   "u": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T15:15:56+00:00"
+  },
+  {
    "t": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
-   "s": "Die israelische Regierung hat das Militär angewiesen, sich auf eine vollständige Abriegelung des Westjordanlands vorzubereiten. Zuvor waren zwei Männer getötet worden, die einen Anschlag geplant haben sollen.",
+   "s": "Die israelische Regierung hat das Militär angewiesen, sich auf eine vollständige Abriegelung des Westjordanlands vorzubereiten. Zuvor gab es einen palästinensischen Angriff in Hebron, zwei israelische Soldaten wurden dabei getötet.",
    "u": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-23T14:09:56+00:00"
+   "d": "2026-10-23T15:06:05+00:00"
   },
   {
    "t": "Russland und Ukraine tauschen erneut Gefangene aus",
@@ -29,13 +71,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
    "q": "Tagesschau",
    "d": "2026-10-23T12:55:47+00:00"
-  },
-  {
-   "t": "Ein Toter und mehrere Verletzte nach Schüssen bei Paris",
-   "s": "Aus einem Auto heraus hat ein Mann bei Paris Schüsse abgefeuert und mindestens einen Menschen getötet. Es gibt mehrere Schwerverletzte. Die Hintergründe sind unklar, die Anti-Terror-Staatsanwaltschaft hat eine Untersuchung eingeleitet.",
-   "u": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T12:19:53+00:00"
   },
   {
    "t": "Finnland genehmigt unterirdisches Atommüll-Endlager",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/israel-wirtschaft-wahl-100.html",
    "q": "Tagesschau",
    "d": "2026-10-22T07:56:08+00:00"
-  },
-  {
-   "t": "Tote nach Angriff auf Flughafen in Saudi-Arabien",
-   "s": "Immer wieder greifen die Huthi aus dem Jemen zivile Ziele in Saudi-Arabien an. Nun werden Verletzte und zwei Todesopfer nach einer Attacke auf den Flughafen in Dammam gemeldet. Die USA kündigten an, diplomatisches Personal abzuziehen.",
-   "u": "https://www.tagesschau.de/ausland/asien/flughafen-saudi-arabien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T07:50:35+00:00"
-  },
-  {
-   "t": "US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms?",
-   "s": "Angesichts der landesweit niedrigen Zustimmungswerte für Trump hoffen viele Demokraten in den USA auf einen deutlichen Sieg bei den Zwischenwahlen in zwei Wochen. Umfragen nähren ihre Zuversicht. Doch sind sie verlässlich? Von Jan Oppel.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T05:03:31+00:00"
-  },
-  {
-   "t": "Republikaner kritisieren Trumps Ukraine-Kurs",
-   "s": "US-Präsident Trump nähert sich Russland an und lobt Kreml-Chef Putin ausdrücklich. Auch in Trumps eigener Partei, die ihm lange treu ergeben war, gibt es daran zunehmend Kritik. Einige Abgeordnete wählen deutliche Worte. Von C. Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/kritik-trump-ukraine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T05:03:03+00:00"
-  },
-  {
-   "t": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
-   "s": "Acht Jahre nach dem Skandal um den Missbrauch von Nutzerdaten ist der Facebookkonzern Meta in New Mexico zu einer Milliardenstrafe verurteilt worden. Der Fall solle anderen Tech-Unternehmen eine Warnung sein, sagte der Generalstaatsanwalt.",
-   "u": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T20:47:20+00:00"
-  },
-  {
-   "t": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
-   "s": "Russland hat sich bereit gezeigt, die Gespräche mit den USA und der Ukraine wieder aufzunehmen. Aber sind Fortschritte wahrscheinlich? Osteuropa-Experte Umland zeigt sich im tagesschau24-Interview skeptisch.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T18:54:59+00:00"
   }
  ]
 }

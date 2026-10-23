@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-23T14:14:56+00:00",
+ "updated": "2026-10-23T19:14:44+00:00",
  "items": [
+  {
+   "t": "AfD-Leaks: Es reicht für ein AfD-Verbotsverfahren",
+   "s": "Möglicherweise liefern die Daten aus dem AfD-Leak Details, die ein Verbotsverfahren rechtfertigen. Dabei genügt schon das, was bislang bekannt ist.",
+   "u": "https://taz.de/AfD-Leaks/!6221566/",
+   "q": "taz",
+   "d": "2026-10-23T17:46:00+00:00"
+  },
+  {
+   "t": "Nach linkem Wahlsieg in Berlin: Schwarz-blaue Panik",
+   "s": "Die Union schießt mit aller Kraft gegen die sich formierende rot-grün-rote Regierungskoalition in Berlin. Mit ihrer Kampagne erinnert sie an die AfD.",
+   "u": "https://taz.de/Moegliche-linke-Regierungsbeteiligung/!6219111/",
+   "q": "taz",
+   "d": "2026-10-23T17:33:00+00:00"
+  },
   {
    "t": "Rechtsanwalt über AfD-Leak: „Diese Innenansicht hatten wir bisher nicht“",
    "s": "Der auf IT spezialisierte Rechtsanwalt Chan-jo Jun hält den AfD-Leak für einen möglichen „Gamechanger“. Steckt darin das fehlende Puzzlestück für ein Verbot?",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Die-Verkehrsminister-der-Laender-treffen-sich-Darum-geht-es-heute/!6222912/",
    "q": "taz",
    "d": "2026-10-21T05:11:00+00:00"
-  },
-  {
-   "t": "Neuer Landtag von Mecklenburg-Vorpommern: Schwerin wählt nach Plan",
-   "s": "Bei der Konstituierung des Landtags von Mecklenburg-Vorpommern gab es keinen Eklat wie in Magdeburg. Aber auch hier wird deutlich, wie polarisiert das Land ist.",
-   "u": "https://taz.de/Neuer-Landtag-von-Mecklenburg-Vorpommern/!6222956/",
-   "q": "taz",
-   "d": "2026-10-20T17:57:00+00:00"
-  },
-  {
-   "t": "Antisemitismus in der Jungen Union: Gegen die eigene Brandmauer gerannt",
-   "s": "Die JU verortete Judenhass zuletzt vor allem bei der Linkspartei. Nun fällt ein eigenes Mitglied mit antisemitischen und sexistischen Kommentaren auf.",
-   "u": "https://taz.de/Junge-Union-Mitglied-faellt-mit-antisemitischen-und-sexistischen-Kommentaren-auf/!6222959/",
-   "q": "taz",
-   "d": "2026-10-20T17:53:00+00:00"
   }
  ]
 }

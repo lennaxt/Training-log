@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-23T14:14:57+00:00",
+ "updated": "2026-10-23T19:14:45+00:00",
  "items": [
+  {
+   "t": "Proteste in Frankreich: Jugend ohne Jugend",
+   "s": "Warum gehen Fran­zö­s*in­nen auf die Straße? Wogegen sind sie? Was wollen sie erreichen? Wir haben mit einer Schülerin und einer Studentin gesprochen.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6219118/",
+   "q": "taz",
+   "d": "2026-10-23T17:32:00+00:00"
+  },
+  {
+   "t": "Neuwahlen in Serbien: Sie lehren Vučić das Fürchten",
+   "s": "In Serbien möchte Aleksandar Vučić Ministerpräsident werden. Doch eine Studentenbewegung könnte ihm gefährlich werden – obwohl sie ohne Studierende antritt.",
+   "u": "https://taz.de/Neuwahlen-in-Serbien/!6223719/",
+   "q": "taz",
+   "d": "2026-10-23T16:13:00+00:00"
+  },
+  {
+   "t": "Ebola in Afrika: Noch keine Entwarnung",
+   "s": "Experten stellen bei den Ansteckungsraten mit dem Virus einen leichten Abwärtstrend fest. Wie nachhaltig dieser ist, wird sich erst noch zeigen.",
+   "u": "https://taz.de/Ebola-in-Afrika/!6224063/",
+   "q": "taz",
+   "d": "2026-10-23T15:21:00+00:00"
+  },
+  {
+   "t": "Proteste gegen Sparkurs an Unis: Genies ohne Geld",
+   "s": "In Wien protestieren rund 50.000 Menschen gegen Einsparungen an Hochschulen. Doch die österreichische Regierung verkauft das als Erfolg.",
+   "u": "https://taz.de/Proteste-gegen-Sparkurs-an-Unis/!6224062/",
+   "q": "taz",
+   "d": "2026-10-23T15:21:00+00:00"
+  },
+  {
+   "t": "Schüsse aus Auto in Frankreich: Ein Toter, vier Verletzte",
+   "s": "Ein Mann in einem Auto hat in Gemeinden bei Paris auf offener Straße mehrere Schüsse abgefeuert. Es soll mindestens einen Toten und vier Verletzte geben.",
+   "u": "https://taz.de/Schuesse-aus-Auto-in-Frankreich/!6224379/",
+   "q": "taz",
+   "d": "2026-10-23T13:24:00+00:00"
+  },
   {
    "t": "Tagebuch aus Aserbaidschan: Der Kampf geht auf die Köpfe los",
    "s": "Die Regierung in Baku verbietet das Tragen des Hidschabs in Schulen. Sie begründet es mit Säkularität, doch sie will gesellschaftliche Stärke verhindern.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Krawalle-in-Frankreich/!6223264/",
    "q": "taz",
    "d": "2026-10-21T15:45:00+00:00"
-  },
-  {
-   "t": "Schwangerschaftsabbruch in Polen: Polens Parlament liberalisiert das Abtreibungsrecht",
-   "s": "Zwei Gesetzentwürfe aus dem Mitte-links-Bündnis von Donald Tusk finden im Sejm eine Mehrheit. Jetzt droht ein Veto von Präsident Karol Nawrocki.",
-   "u": "https://taz.de/Schwangerschaftsabbruch-in-Polen/!6223308/",
-   "q": "taz",
-   "d": "2026-10-21T13:15:00+00:00"
-  },
-  {
-   "t": "Ukrainische Gegenoffensive im Donbass: „Operation Vivaldi“ bringt Russland aus dem Takt",
-   "s": "Die Ukraine befreit gerade wieder mehr Territorium, als sie verliert. Ein wichtiger russischer Vorstoß konnte gestoppt und zurückgedrängt werden.",
-   "u": "https://taz.de/Ukranische-Gegenoffensive-im-Donbass/!6223376/",
-   "q": "taz",
-   "d": "2026-10-21T13:06:00+00:00"
-  },
-  {
-   "t": "Ausschreitungen in Italien: Mit Härte gegen gewaltsame Proteste",
-   "s": "Die italienische Regierung hat ein „Sicherheitsdekret“ verabschiedet, das sofort in Kraft tritt. Was das für die protestierenden Jugendlichen bedeutet.",
-   "u": "https://taz.de/Sozialproteste-in-Italien-Wie-die-Regierung-um-Meloni-nun-gegen-Jugendliche-durchgreift/!6223324/",
-   "q": "taz",
-   "d": "2026-10-21T12:28:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Russland kündigt erste Diesellieferung in die USA an",
-   "s": "In St. Petersburg trifft US-Unterhändler Witkoff Kremlchef Putin. Moskau lässt US-Amerikaner frei und gibt Details für Diesellieferung bekannt.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223092/",
-   "q": "taz",
-   "d": "2026-10-21T06:12:00+00:00"
-  },
-  {
-   "t": "„Friedensverhandlungen“ in Oslo: Selenskyjs Abwehrkampf gegen Trump",
-   "s": "Washingtons maßlose Forderungen belasten Verhandlungen über einen möglichen Waffenstillstand. Kremlchef Putin lockt mit lukrativen Wirtschaftsdeals.",
-   "u": "https://taz.de/Friedensverhandlungen-in-Oslo/!6222917/",
-   "q": "taz",
-   "d": "2026-10-20T17:49:00+00:00"
   }
  ]
 }
