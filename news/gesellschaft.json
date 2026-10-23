@@ -1,17 +1,38 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-23T08:33:48+00:00",
+ "updated": "2026-10-23T14:14:57+00:00",
  "items": [
   {
-   "t": "Streit um Nationalisten: Neuer Zoff zwischen der Ukraine und Polen um Untergrundarmee",
+   "t": "Tagebuch aus Aserbaidschan: Der Kampf geht auf die Köpfe los",
+   "s": "Die Regierung in Baku verbietet das Tragen des Hidschabs in Schulen. Sie begründet es mit Säkularität, doch sie will gesellschaftliche Stärke verhindern.",
+   "u": "https://taz.de/Tagebuch-aus-Aserbaidschan/!6223090/",
+   "q": "taz",
+   "d": "2026-10-23T10:24:00+00:00"
+  },
+  {
+   "t": "1.703 Tage Krieg in der Ukraine: Drohnensurren in der Stille der Natur",
+   "s": "Bei einer Rafting-Tour im Gebiet Poltawa lernt unsere Autorin ganz neue Seiten der Ukraine kennen. Und zahlreiche zivilgesellschaftliche Initiativen.",
+   "u": "https://taz.de/1702-Tage-Krieg-in-der-Ukraine/!6220337/",
+   "q": "taz",
+   "d": "2026-10-23T09:20:00+00:00"
+  },
+  {
+   "t": "Frankreich: Ausgehverbote und Einsatz der Armee",
+   "s": "Die französische Regierung mobilisiert für Samstag alle verfügbaren Kräfte, inklusive Soldaten. In Orléans droht eine direkte Konfrontation zwischen Rechtsextremisten und der Antifa.",
+   "u": "https://taz.de/Antifademo-gegen-RN-Kongress-in-Orleans/!6223999/",
+   "q": "taz",
+   "d": "2026-10-23T09:06:00+00:00"
+  },
+  {
+   "t": "Streit über Nationalisten: Neuer Zoff zwischen der Ukraine und Polen um Untergrundarmee",
    "s": "Im früher zu Polen gehörenden Lemberg, heute Lwiw, soll 2027 das Jahr der ukrainischen Befreiungsarmee begangen werden. Polen reagiert erwartbar empört.",
    "u": "https://taz.de/Streit-um-Nationalisten/!6223902/",
    "q": "taz",
    "d": "2026-10-23T08:23:00+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: US-Senatoren fordern Aufklärung zu Starlink-Drosselung",
-   "s": "Laut Trump funktioniert der Satellitendienst in der Ukraine wieder. Doch der Vorfall wirft Fragen auf. Russland überzieht die Ukraine weiter mit Attacken.",
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Ukraine klagt weiter über Einschränkungen bei Starshield",
+   "s": "Kyjiw kann nicht bestätigen, dass der Starlink-Dienst wieder funktioniert. 40.000 Tonnen russischer Diesel sind unterwegs in die USA. Russland greift weiter an.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223995/",
    "q": "taz",
    "d": "2026-10-23T07:09:00+00:00"
@@ -25,7 +46,7 @@
   },
   {
    "t": "„Gen Z regelt“-Proteste: Der Gesellschaft geben, was sie hören will",
-   "s": "„Gen Z regelt“ ruft zu deutschlandweiten Protesten auf. Gewalt lehnt die Organisation dabei ab. Das stützt zwar die herrschende Macht – ist taktisch aber klug.",
+   "s": "„Gen Z regelt“ ruft zu deutschlandweiten Protesten auf. Gewalt lehnt die Organisation dabei ab. Das stützt zwar die herrschende Macht – ist aber taktisch klug.",
    "u": "https://taz.de/Gen-Z-regelt-Proteste/!6223733/",
    "q": "taz",
    "d": "2026-10-22T17:52:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Friedensverhandlungen-in-Oslo/!6222917/",
    "q": "taz",
    "d": "2026-10-20T17:49:00+00:00"
-  },
-  {
-   "t": "Russische Propaganda nach Angriff: Eigene Schäden sind im Staatsfernsehen kaum ein Thema",
-   "s": "Erstmals wird Russlands zweitgrößte Stadt von ukrainischen Drohnen gleich mehrfach getroffen. Dem Staatsfernsehen ist dies kaum Sendezeit wert.",
-   "u": "https://taz.de/Kriegspropaganda-in-Russland-Statt-Berichten-ueber-eigene-Schaeden--Fingerzeig-auf-andere/!6222921/",
-   "q": "taz",
-   "d": "2026-10-20T17:45:00+00:00"
-  },
-  {
-   "t": "Deportation von Kindern nach Russland: Der Kreml will „kleine Russen“ aus ihnen machen",
-   "s": "Tausende ukrainische Kinder wurden seit 2022 in Putins Reich deportiert. Ein Sachbuch zeichnet das Leid von vier Familien nach, die bis heute hoffen.",
-   "u": "https://taz.de/Deportation-von-Kindern-nach-Russland/!6222961/",
-   "q": "taz",
-   "d": "2026-10-20T16:02:00+00:00"
-  },
-  {
-   "t": "55 Festnahmen in Portugal: Polizei räumt Protestlager gegen Wohnungsnot in Lissabon",
-   "s": "In der portugiesischen Hauptstadt Lissabon demonstrierten Menschen gegen hohe Mieten und richteten ein Protestcamp ein. Nun ging die Polizei dagegen vor.",
-   "u": "https://taz.de/Polizei-raeumt-Protestlager-gegen-Wohnungsnot-in-Lissabon/!6222989/",
-   "q": "taz",
-   "d": "2026-10-20T12:49:00+00:00"
   }
  ]
 }

@@ -1,13 +1,48 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-23T08:33:46+00:00",
+ "updated": "2026-10-23T14:14:54+00:00",
  "items": [
   {
+   "t": "Marktbericht: Nasdaq kommt unter die Räder",
+   "s": "Der KI-Boom beherrscht weiter die Wall Street. Die erste Euphorie ist aber vorbei - die Anleger wollen vielmehr endlich Ergebnisse der horrenden KI-Investitionen sehen. Meta ist ein warnendes Beispiel.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-108.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T13:16:51+00:00"
+  },
+  {
+   "t": "Deutsche Baubranche verzeichnet Rekordanstieg bei Großaufträgen",
+   "s": "Es ist ein Lichtblick in angespannten Zeiten: Die deutsche Baubranche meldet das größte Auftragsplus seit Beginn der Aufzeichnung. Grund sind aber vor allem Großaufträge. Trotzdem bleibt der Mietmarkt angespannt.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/baugewerbe-grossauftraege-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T11:53:21+00:00"
+  },
+  {
+   "t": "PHP-Sicherheitslücke: IT-Experten fordern Maßnahmen über Updates hinaus",
+   "s": "Nach Aufdeckung der Sicherheitslücke in der Programmiersprache PHP sind viele Webseiten nach einem Update wieder verfügbar. Doch IT-Experten raten zu weiteren Maßnahmen: Betreiber von Webseiten müssten ihre Systeme genau prüfen.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/it-sicherheit-php-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T10:47:03+00:00"
+  },
+  {
+   "t": "Finnland genehmigt unterirdisches Atommüll-Endlager",
+   "s": "Finnland setzt zur Stromgewinnung auch auf Kernenergie - und hat nun grünes Licht für den Betrieb eines unterirdischen Endlagers für Tausende Tonnen hochradioaktiven Atommüll gegeben. Noch fehlt allerdings eine letzte Genehmigung.",
+   "u": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T10:04:33+00:00"
+  },
+  {
+   "t": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
+   "s": "Frankreichs Anleiherenditen sind auf den höchsten Stand seit 2002 gestiegen. Wie groß ist die Ansteckungsgefahr für andere hochverschuldete Euroländer - und was kann die EZB dagegen tun? Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T09:13:15+00:00"
+  },
+  {
    "t": "Ringen um Sparkurs bei Autobauer Volkswagen geht weiter",
-   "s": "Stellenabbau, Sparrunden und drohende Werkschließungen: Die Stimmung bei Volkswagen ist aufgeheizt. Heute spricht die Konzernspitze mit der Gewerkschaft IG Metall. Worum es bei dem Krisentreffen geht.",
+   "s": "Stellenabbau, Sparrunden und drohende Werkschließungen: Die Stimmung bei Volkswagen ist aufgeheizt, die Gewerkschaft IG Metall droht mit Streiks ab Januar. Heute spricht die Konzernspitze mit der IG Metall. Worum es bei dem Krisentreffen geht.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ig-metall-ueberpruefungsgespraech-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-23T08:16:35+00:00"
+   "d": "2026-10-23T09:12:00+00:00"
   },
   {
    "t": "Weihnachtsbäume könnten teurer werden",
@@ -15,13 +50,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/weihnachtsbaum-saison-preise-anstieg-100.html",
    "q": "Tagesschau",
    "d": "2026-10-23T08:04:17+00:00"
-  },
-  {
-   "t": "Marktbericht: Tech-Ausverkauf drückt auf die Anlegerstimmung",
-   "s": "Zum Wochenschluss geraten die Börsen in leichte Turbulenzen: An der Wall Street fallen Tech-Titel weit zurück, auch geopolitische Sorgen wachsen. Wird sich der DAX gegen weitere Kursverluste stemmen?",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T05:34:12+00:00"
   },
   {
    "t": "\"Operation Chargeback\": Merkur-Tochterfirma wickelte Zahlungen ab",
@@ -141,34 +169,6 @@
    "u": "https://www.deutschlandfunk.de/chemie-ohne-erdoel-kohlenstoff-recycling-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-21T16:25:00+00:00"
-  },
-  {
-   "t": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
-   "s": "Ein attraktives Ticket für gelegentliche Bus- und Bahnfahrer - das hatten Hamburg und Nordrhein-Westfalen für die Verkehrsministerkonferenz zur Beratung vorgeschlagen. Doch nun ist \"Deutschlandticket light\" bereits wieder vom Tisch.",
-   "u": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T15:16:35+00:00"
-  },
-  {
-   "t": "Das abgespaltene Russlandgeschäft von Globus wirft neue Fragen auf",
-   "s": "Die Eigner der Handelsgruppe Globus sind unter dem Namen \"Hyperglobus\" weiter in Russland aktiv. Eine Plusminus-Recherche zeigt nun: Einer dieser Märkte unterstützt eine Organisation, die Ausrüstung an die russische Armee liefert. Von M. Fuchs.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-globus-handel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T13:31:14+00:00"
-  },
-  {
-   "t": "BGH-Urteil: Entscheidung zu Transparenz bei Schufa",
-   "s": "Immer wieder gibt es Kritik am Score-System der Schufa. Zu undurchsichtig, lautet der Vorwurf. Nun hat der Bundesgerichtshof entschieden: Unter bestimmten Voraussetzungen muss die Schufa über die Berechnung informieren. Von Anne Stein.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-schufa-114.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T13:18:47+00:00"
-  },
-  {
-   "t": "Was eine Fusion von Tesla und SpaceX bedeuten würde",
-   "s": "Die Musk-Konzerne Tesla und SpaceX könnten sich zusammentun und so einen mehrere Billionen Dollar schweren Tech-Konzern bilden. Welche Folgen - aber auch Risiken - diese Fusion haben könnte.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-tesla-spacex-zusammenschluss-folgen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T13:08:11+00:00"
   }
  ]
 }

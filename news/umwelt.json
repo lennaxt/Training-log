@@ -1,9 +1,37 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-23T08:33:48+00:00",
+ "updated": "2026-10-23T14:14:56+00:00",
  "items": [
   {
-   "t": "CSU will weniger Geld zahlen: „Extremismusklausel“ im Länderfinanzausgleich",
+   "t": "Rechtsanwalt über AfD-Leak: „Diese Innenansicht hatten wir bisher nicht“",
+   "s": "Der auf IT spezialisierte Rechtsanwalt Chan-jo Jun hält den AfD-Leak für einen möglichen „Gamechanger“. Steckt darin das fehlende Puzzlestück für ein Verbot?",
+   "u": "https://taz.de/Rechtsanwalt-ueber-AfD-Leak/!6224058/",
+   "q": "taz",
+   "d": "2026-10-23T14:05:00+00:00"
+  },
+  {
+   "t": "Erkenntnisse aus dem AfD-Leak: Feindeslisten und Hakenkreuzfahnen",
+   "s": "Die veröffentlichten AfD-Mails geben einen tiefen Einblick in die Partei – in problematische Mitglieder und Ex-Mitglieder, internen Streit und Listen angeblicher Antifa-Aktivisten.",
+   "u": "https://taz.de/Erkenntnisse-aus-dem-AfD-Leak/!6224078/",
+   "q": "taz",
+   "d": "2026-10-23T12:31:00+00:00"
+  },
+  {
+   "t": "Länderfinanzausgleich: Finanzministerium sieht „Extremismusklausel“ kritisch",
+   "s": "Bundesfinanzminister Klingbeil bremst den Vorstoß von CSU-Chef Söder ab, von Linke oder AfD regierten Bundesländern Mittel vorzuenthalten. Er verweist auf ein anderes Mittel.",
+   "u": "https://taz.de/Laenderfinanzausgleich/!6224104/",
+   "q": "taz",
+   "d": "2026-10-23T12:18:00+00:00"
+  },
+  {
+   "t": "Konflikt zwischen Frau­en­ärz­t:in­nen: Abtreibungsgegner an der Spitze der Gynäkologie",
+   "s": "Der Vorstand der größten gynäkologischen Fachgesellschaft Deutschlands positioniert sich gegen Abtreibungen. Wird er jetzt wiedergewählt?",
+   "u": "https://taz.de/Konflikt-zwischen-Frauenaerztinnen/!6223957/",
+   "q": "taz",
+   "d": "2026-10-23T09:28:00+00:00"
+  },
+  {
+   "t": "Vorstoß aus Bayern: CSU für „Extremismusklausel“ im Länderfinanzausgleich",
    "s": "Mit der „Extremismusklausel“ will die CSU den Ländern weniger zahlen, in denen künftig AfD und Linke regieren. Jetzt verteidigt auch der Generalsekretär die Idee.",
    "u": "https://taz.de/CSU-will-weniger-Geld-zahlen/!6224000/",
    "q": "taz",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Junge-Union-Mitglied-faellt-mit-antisemitischen-und-sexistischen-Kommentaren-auf/!6222959/",
    "q": "taz",
    "d": "2026-10-20T17:53:00+00:00"
-  },
-  {
-   "t": "Interne E-Mails öffentlich: AfD blamiert sich mit Datenleak",
-   "s": "Bei der AfD kommt es zu einem E-Mail-Datenleak: Zehntausende interne Mails gelangen auf eine öffentliche Website.",
-   "u": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
-   "q": "taz",
-   "d": "2026-10-20T16:21:00+00:00"
-  },
-  {
-   "t": "Rot-Rot-Grün in Mecklenburg-Vorpommern: Zur Abwechslung mal keine Briefschlachten",
-   "s": "Anders als in Berlin steuern SPD, Linke und Grüne in Mecklenburg-Vorpommern harmonisch auf eine Koalition zu. Knackpunkte werden geräuschlos versenkt.",
-   "u": "https://taz.de/Rot-Rot-Gruen-in-Mecklenburg-Vorpommern/!6222919/",
-   "q": "taz",
-   "d": "2026-10-20T16:18:00+00:00"
-  },
-  {
-   "t": "Pflegende Angehörige: Mehr Arbeit zu Hause, weniger Arbeit am Markt",
-   "s": "Immer mehr Pflegebedürftigen werden zu Hause betreut. Das hat Folgen für den Arbeitsmarkt, warnt eine neue Studie. Patientenschützer haben eine andere Perspektive.",
-   "u": "https://taz.de/Pflegende-Angehoerige/!6222979/",
-   "q": "taz",
-   "d": "2026-10-20T16:07:00+00:00"
-  },
-  {
-   "t": "Die eine Frage: Soll man AfD-Wählern Argumente entgegenhalten?",
-   "s": "Man müsse mit Rechtspopulisten in einen Streit der Argumente treten, statt sie zu ignorieren oder auszugrenzen, fordert Winfried Kretschmann. Nur wie?",
-   "u": "https://taz.de/Die-eine-Frage/!6218160/",
-   "q": "taz",
-   "d": "2026-10-20T11:39:00+00:00"
   }
  ]
 }

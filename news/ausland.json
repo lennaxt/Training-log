@@ -1,7 +1,63 @@
 {
  "name": "Ausland",
- "updated": "2026-10-23T08:33:45+00:00",
+ "updated": "2026-10-23T14:14:53+00:00",
  "items": [
+  {
+   "t": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
+   "s": "Die israelische Regierung hat das Militär angewiesen, sich auf eine vollständige Abriegelung des Westjordanlands vorzubereiten. Zuvor waren zwei Männer getötet worden, die einen Anschlag geplant haben sollen.",
+   "u": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T14:09:56+00:00"
+  },
+  {
+   "t": "Russland und Ukraine tauschen erneut Gefangene aus",
+   "s": "In einem Gefangenenaustausch haben Russland und die Ukraine jeweils 270 Personen übergeben. Die Aktion ist Teil einer vor Monaten geplanten Vereinbarung. Unter den Freigelassenen sind auch ukrainische Soldaten, die für tot gehalten wurden.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-gefangenenaustausch-150.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T13:58:44+00:00"
+  },
+  {
+   "t": "Erneut mutmaßlicher Drohnenangriff auf Schiff vor Rumäniens Küste",
+   "s": "Ein weiteres Handelsschiff soll Medienberichten zufolge nahe der rumänischen Küste von einer Drohne angegriffen worden sein. Es gebe mindestens ein Todesopfer. Rumäniens Präsident sieht die Verantwortung erneut bei Russland.",
+   "u": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnenangriff-handelsschiff-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T13:01:59+00:00"
+  },
+  {
+   "t": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
+   "s": "Nach den schweren Ausschreitungen in Mailand reagiert Italiens Regierung mit einem neuen Sicherheitsdekret. Die sozialen Ursachen bleiben. Ebenso die Frage: Wer waren die meist sehr jungen Randalierer? Von V. Schälter.",
+   "u": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T12:55:47+00:00"
+  },
+  {
+   "t": "Ein Toter und mehrere Verletzte nach Schüssen bei Paris",
+   "s": "Aus einem Auto heraus hat ein Mann bei Paris Schüsse abgefeuert und mindestens einen Menschen getötet. Es gibt mehrere Schwerverletzte. Die Hintergründe sind unklar, die Anti-Terror-Staatsanwaltschaft hat eine Untersuchung eingeleitet.",
+   "u": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T12:19:53+00:00"
+  },
+  {
+   "t": "Finnland genehmigt unterirdisches Atommüll-Endlager",
+   "s": "Finnland setzt zur Stromgewinnung auch auf Kernenergie - und hat nun grünes Licht für den Betrieb eines unterirdischen Endlagers für Tausende Tonnen hochradioaktiven Atommüll gegeben. Noch fehlt allerdings eine letzte Genehmigung.",
+   "u": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T10:04:33+00:00"
+  },
+  {
+   "t": "Vor Knesset-Wahl: Junge Israelis zwischen Trauma und Zukunftssorge",
+   "s": "Der Terrorangriff der Hamas vor gut drei Jahren hat auch bei den jungen Wählern Israels tiefe Spuren hinterlassen. Sicherheit, Identität und die Sorge vor dem nächsten Krieg beeinflussen ihre Wahlentscheidung. Von Jan-Christoph Kitzler.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-parlamentswahlen-erstwaehler-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T09:33:59+00:00"
+  },
+  {
+   "t": "Pferdekutschen im New Yorker Central Park sollen abgeschafft werden",
+   "s": "In New York geht eine Ära zu Ende. Die berühmten Pferdekutschen im Central Park werden schrittweise bis Juni 2028 abgeschafft. Der Stadtrat stimmte einem Gesetzesentwurf von Bürgermeister Mamdani zu. Von M. Ganslmeier.",
+   "u": "https://www.tagesschau.de/ausland/amerika/new-york-pferdekutschen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T08:36:32+00:00"
+  },
   {
    "t": "Venezuela: Tausende fordern Rückkehr von Machado",
    "s": "In Venezuela haben Anhänger der Oppositionspolitikerin und Friedensnobelpreisträgerin Machado deren Rückkehr gefordert. Es war die größte Kundgebung seit der Absetzung von Präsident Maduro durch die USA.",
@@ -10,7 +66,7 @@
    "d": "2026-10-23T07:01:24+00:00"
   },
   {
-   "t": "\"Top-Gun\"-Darsteller Skerritt stirbt mit 93",
+   "t": "\"Top Gun\"-Darsteller Skerritt stirbt mit 93",
    "s": "Er war Commander Mike \"Viper\" Metcalf an der Seite von Tom Cruise in \"Top Gun\". In \"Alien\" spielte er den Raumschiffkapitän Dallas. Nun ist der Schauspieler Tom Skerritt im Alter von 93 Jahren gestorben.",
    "u": "https://www.tagesschau.de/ausland/amerika/tom-skerritt-gestorben-100.html",
    "q": "Tagesschau",
@@ -113,62 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
    "q": "Tagesschau",
    "d": "2026-10-21T18:54:59+00:00"
-  },
-  {
-   "t": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
-   "s": "Auch US-Präsident Trump hatte sich zu den Unruhen in Frankreich zu Wort gemeldet - der französische Präsident Macron hat nun offenbar genug davon. Bei einem Besuch in Katar machte er seinem Ärger Luft. Von Cai Rienäcker.",
-   "u": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T17:48:20+00:00"
-  },
-  {
-   "t": "Verhältnis zu Israel: Ein heikles Thema für Demokraten und Republikaner",
-   "s": "In den USA schwindet die Solidarität mit Israel. Umfragen zeigen, dass sich insbesondere jüngere US-Amerikaner vom engen Verbündeten abwenden. Im Wahlkampf bereitet das Demokraten und Republikaner erhebliche Probleme. Von A. Henze.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T17:21:35+00:00"
-  },
-  {
-   "t": "Huthi-Attacken auf Saudi-Arabien: Angriff auf bin Salmans Vision",
-   "s": "Kronprinz Mohammed bin Salman will Saudi-Arabien öffnen, für Touristen und Investoren. Doch seine \"Vision 2030\" ist in Gefahr: Die Angriffe der Huthi zerstören das Image von Sicherheit und Stabilität. Von Tim Kukral.",
-   "u": "https://www.tagesschau.de/ausland/asien/huthi-saudi-arabien-104.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T14:35:26+00:00"
-  },
-  {
-   "t": "Polens Parlament für Lockerung des Abtreibungsrechts",
-   "s": "Die Verschärfung des Abtreibungsrechts unter der alten PiS-Regierung hatte monatelange Massenproteste in Polen ausgelöst. Nun hat das Parlament eine Lockerung eingeleitet - aber es droht ein Veto.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-abtreibungsrecht-lockerung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T13:08:58+00:00"
-  },
-  {
-   "t": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
-   "s": "In St. Petersburg berät Russlands Präsident Putin mit dem US-Vermittler Witkoff über den Ukraine-Krieg. Zum Auftakt der Gespräche schlug Putin ein Dreier-Treffen mit Trump und Xi in China vor - und kündigte erste Diesellieferungen an die USA an.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T11:55:51+00:00"
-  },
-  {
-   "t": "UN-Konferenz: Delegationen bemühen sich um Frieden im Sudan",
-   "s": "Seit mehr als dreieinhalb Jahren tobt im Sudan ein Krieg. Die UN bemühen sich auf einer Konferenz in Genf, eine politische Lösung für den Konflikt zu finden. Unterdessen hält die Gewalt im Land unvermindert an.",
-   "u": "https://www.tagesschau.de/ausland/afrika/sudan-konferenz-108.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T09:54:59+00:00"
-  },
-  {
-   "t": "US-Vermittler Witkoff berät mit Putin über Ukraine",
-   "s": "Nach Gesprächen mit dem ukrainischen Präsidenten Selenskyj in Oslo ist US-Unterhändler Witkoff zu Verhandlungen mit der russischen Führung in St. Petersburg zusammengekommen. US-Präsident Trump hatte Selenskyj zuvor zu einem \"Deal\" aufgefordert.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T09:37:12+00:00"
-  },
-  {
-   "t": "Proteste in Italien: Blockierte Autobahnen, leere Supermarktregale",
-   "s": "Die Regale in vielen Supermärkten in Süditalien sind leer - auch der Pasta-Nachschub stockt. Grund sind Proteste von Lkw-Fahrern und Landwirten aufgrund hoher Dieselpreise. Die Regierung sagte Hilfe zu - aber reicht das? Von Lisa Weiß.",
-   "u": "https://www.tagesschau.de/ausland/europa/italien-protest-lkw-fahrer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T09:31:54+00:00"
   }
  ]
 }

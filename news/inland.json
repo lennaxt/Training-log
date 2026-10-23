@@ -1,24 +1,129 @@
 {
  "name": "Inland",
- "updated": "2026-10-23T08:33:45+00:00",
+ "updated": "2026-10-23T14:14:53+00:00",
  "items": [
   {
-   "t": "Streit um Nationalisten: Neuer Zoff zwischen der Ukraine und Polen um Untergrundarmee",
+   "t": "Rechtsanwalt über AfD-Leak: „Diese Innenansicht hatten wir bisher nicht“",
+   "s": "Der auf IT spezialisierte Rechtsanwalt Chan-jo Jun hält den AfD-Leak für einen möglichen „Gamechanger“. Steckt darin das fehlende Puzzlestück für ein Verbot?",
+   "u": "https://taz.de/Rechtsanwalt-ueber-AfD-Leak/!6224058/",
+   "q": "taz",
+   "d": "2026-10-23T14:05:00+00:00"
+  },
+  {
+   "t": "Schüsse aus Auto in Frankreich: Ein Toter, vier Verletzte",
+   "s": "Ein Mann in einem Auto hat in Gemeinden bei Paris auf offener Straße mehrere Schüsse abgefeuert. Es soll mindestens einen Toten und vier Verletzte geben.",
+   "u": "https://taz.de/Schuesse-aus-Auto-in-Frankreich/!6224379/",
+   "q": "taz",
+   "d": "2026-10-23T13:24:00+00:00"
+  },
+  {
+   "t": "Erkenntnisse aus dem AfD-Leak: Feindeslisten und Hakenkreuzfahnen",
+   "s": "Die veröffentlichten AfD-Mails geben einen tiefen Einblick in die Partei – in problematische Mitglieder und Ex-Mitglieder, internen Streit und Listen angeblicher Antifa-Aktivisten.",
+   "u": "https://taz.de/Erkenntnisse-aus-dem-AfD-Leak/!6224078/",
+   "q": "taz",
+   "d": "2026-10-23T12:31:00+00:00"
+  },
+  {
+   "t": "Länderfinanzausgleich: Finanzministerium sieht „Extremismusklausel“ kritisch",
+   "s": "Bundesfinanzminister Klingbeil bremst den Vorstoß von CSU-Chef Söder ab, von Linke oder AfD regierten Bundesländern Mittel vorzuenthalten. Er verweist auf ein anderes Mittel.",
+   "u": "https://taz.de/Laenderfinanzausgleich/!6224104/",
+   "q": "taz",
+   "d": "2026-10-23T12:18:00+00:00"
+  },
+  {
+   "t": "CSU-Chef und Ministerpräsident: Der doppelte Söder",
+   "s": "Mit einer Rede von CSU-Chef Söder beginnt heute der Parteitag der Christsozialen. Söder zeigt sich als ambivalenter Politiker: Als Parteichef prägt er die Koalition, als Ministerpräsident kritisiert er sie zugleich. Von Sabine Henkel.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/csu-union-soeder-bundespolitik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T11:28:38+00:00"
+  },
+  {
+   "t": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
+   "s": "Wie sollen Ärzte oder Pflegekräfte reagieren, wenn Menschen in existenzieller Not sagen, dass sie sterben wollen? Ein Gesetz, das dafür Regeln vorgibt, fehlt. Eine neue Leitlinie setzt auf eingehende Beratung. Von Daniela Remus.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T10:48:25+00:00"
+  },
+  {
+   "t": "Tagebuch aus Aserbaidschan: Der Kampf geht auf die Köpfe los",
+   "s": "Die Regierung in Baku verbietet das Tragen des Hidschabs in Schulen. Sie begründet es mit Säkularität, doch sie will gesellschaftliche Stärke verhindern.",
+   "u": "https://taz.de/Tagebuch-aus-Aserbaidschan/!6223090/",
+   "q": "taz",
+   "d": "2026-10-23T10:24:00+00:00"
+  },
+  {
+   "t": "Politologin Münch: CSU ist konstruktive Kraft in der Bundesregierung",
+   "s": "Die CSU will sich auf dem Parteitag von der AfD und der Linkspartei abgrenzen. Politologin Ursula Münch nimmt die Partei als Leistungsträger wahr. In der Bundesregierung wirkt die CSU konstruktiv, und auch Söder ist derzeit berechenbar, sagt Münch.Heinemann, Christoph; Münch, Ursula",
+   "u": "https://www.deutschlandfunk.de/csu-der-stabile-faktor-in-union-interview-prof-ursula-muench-akademie-tutzing-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-23T10:15:57+00:00"
+  },
+  {
+   "t": "Warum Akademiker den Bundestag dominieren",
+   "s": "In Regierungen und Parlamenten der westlichen Demokratien sind überproportional viele Menschen mit Uni-Abschlüssen vertreten. Und das ist ein Problem für die Demokratie.",
+   "u": "https://www.deutschlandfunk.de/akademiker-bundestag-arbeiter-soziale-ungleichheit-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-23T09:56:00+00:00"
+  },
+  {
+   "t": "Konflikt zwischen Frau­en­ärz­t:in­nen: Abtreibungsgegner an der Spitze der Gynäkologie",
+   "s": "Der Vorstand der größten gynäkologischen Fachgesellschaft Deutschlands positioniert sich gegen Abtreibungen. Wird er jetzt wiedergewählt?",
+   "u": "https://taz.de/Konflikt-zwischen-Frauenaerztinnen/!6223957/",
+   "q": "taz",
+   "d": "2026-10-23T09:28:00+00:00"
+  },
+  {
+   "t": "1.703 Tage Krieg in der Ukraine: Drohnensurren in der Stille der Natur",
+   "s": "Bei einer Rafting-Tour im Gebiet Poltawa lernt unsere Autorin ganz neue Seiten der Ukraine kennen. Und zahlreiche zivilgesellschaftliche Initiativen.",
+   "u": "https://taz.de/1702-Tage-Krieg-in-der-Ukraine/!6220337/",
+   "q": "taz",
+   "d": "2026-10-23T09:20:00+00:00"
+  },
+  {
+   "t": "Frankreich: Ausgehverbote und Einsatz der Armee",
+   "s": "Die französische Regierung mobilisiert für Samstag alle verfügbaren Kräfte, inklusive Soldaten. In Orléans droht eine direkte Konfrontation zwischen Rechtsextremisten und der Antifa.",
+   "u": "https://taz.de/Antifademo-gegen-RN-Kongress-in-Orleans/!6223999/",
+   "q": "taz",
+   "d": "2026-10-23T09:06:00+00:00"
+  },
+  {
+   "t": "Westjordanland: Israel bereitet „vollständige Abriegelung“ vor",
+   "s": "Nach einem Schusswaffenangriff bereitet Israel laut Regierungschef Netanjahu eine „vollständige Abriegelung“ des besetzten Westjordanlands vor.",
+   "u": "https://taz.de/Israel-bereitet-nach-Angriff-vollstaendige-Abriegelung-von-Westjordanland-vor/!6224010/",
+   "q": "taz",
+   "d": "2026-10-23T08:35:00+00:00"
+  },
+  {
+   "t": "Erste schwerere Herbststürme in Deutschland erwartet",
+   "s": "Gleich zwei Sturmtiefs ziehen auf Deutschland zu und bringen am Wochenende in weiten Teilen des Landes Sturmböen und viel Regen mit sich. Der Deutsche Wetterdienst hat für viele Regionen Warnungen herausgegeben.",
+   "u": "https://www.tagesschau.de/inland/wetter-herbst-sturm-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-23T08:33:26+00:00"
+  },
+  {
+   "t": "Streit über Nationalisten: Neuer Zoff zwischen der Ukraine und Polen um Untergrundarmee",
    "s": "Im früher zu Polen gehörenden Lemberg, heute Lwiw, soll 2027 das Jahr der ukrainischen Befreiungsarmee begangen werden. Polen reagiert erwartbar empört.",
    "u": "https://taz.de/Streit-um-Nationalisten/!6223902/",
    "q": "taz",
    "d": "2026-10-23T08:23:00+00:00"
   },
   {
-   "t": "CSU will weniger Geld zahlen: „Extremismusklausel“ im Länderfinanzausgleich",
+   "t": "Vorstoß aus Bayern: CSU für „Extremismusklausel“ im Länderfinanzausgleich",
    "s": "Mit der „Extremismusklausel“ will die CSU den Ländern weniger zahlen, in denen künftig AfD und Linke regieren. Jetzt verteidigt auch der Generalsekretär die Idee.",
    "u": "https://taz.de/CSU-will-weniger-Geld-zahlen/!6224000/",
    "q": "taz",
    "d": "2026-10-23T08:19:00+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: US-Senatoren fordern Aufklärung zu Starlink-Drosselung",
-   "s": "Laut Trump funktioniert der Satellitendienst in der Ukraine wieder. Doch der Vorfall wirft Fragen auf. Russland überzieht die Ukraine weiter mit Attacken.",
+   "t": "Frankreich - Profitiert Le Pen von den Protesten?",
+   "s": "Marine Le Pen weiß die gewaltsamen Proteste in Frankreich für sich zu nutzen. Die rechte Präsidentschaftskandidatin inszeniert sich als Garantin für Recht und Ordnung. Entschieden ist das Rennen um die Präsidentschaft aber noch nicht.Götzke, Manfred",
+   "u": "https://www.deutschlandfunk.de/profitiert-le-pen-von-den-protesten-jakob-ross-politologe-bei-der-dgap-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-23T07:15:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Ukraine klagt weiter über Einschränkungen bei Starshield",
+   "s": "Kyjiw kann nicht bestätigen, dass der Starlink-Dienst wieder funktioniert. 40.000 Tonnen russischer Diesel sind unterwegs in die USA. Russland greift weiter an.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223995/",
    "q": "taz",
    "d": "2026-10-23T07:09:00+00:00"
@@ -64,111 +169,6 @@
    "u": "https://www.tagesschau.de/inland/ministerpraesidentenkonferenz-beschluesse-stromsteuer-spritpreise-100.html",
    "q": "Tagesschau",
    "d": "2026-10-22T18:12:49+00:00"
-  },
-  {
-   "t": "Rechtliche Bedeutung der AfD-Leaks: Die Analyse wird langwierig und mühselig",
-   "s": "Ob die geleakten rund 420.000 E-Mails aus AfD-Konten Material für ein AfD-Verbot liefern, ist noch völlig offen. Sie wären aber wohl verwertbar.",
-   "u": "https://taz.de/Rechtliche-Bedeutung-der-AfD-Leaks/!6223967/",
-   "q": "taz",
-   "d": "2026-10-22T17:58:00+00:00"
-  },
-  {
-   "t": "Israel vor der Wahl: Wenn KI-Videos das Netz fluten",
-   "s": "Im israelischen Wahlkampf spielen KI-generierte Inhalte eine immer größere Rolle. Und KI wird auch genutzt, um das Regierungsimage aufzupolieren.",
-   "u": "https://taz.de/Israel-vor-der-Wahl/!6223711/",
-   "q": "taz",
-   "d": "2026-10-22T17:55:00+00:00"
-  },
-  {
-   "t": "Sicherheitslücke bei PHP: KI kann auch eine Freundin sein",
-   "s": "Die weltweite Sicherheitslücke bei PHP wurde erst dank KI entdeckt. Würde KI besonnen eingesetzt, könnte sie Daten schützen.",
-   "u": "https://taz.de/Sicherheitsluecke-bei-PHP/!6223729/",
-   "q": "taz",
-   "d": "2026-10-22T17:54:00+00:00"
-  },
-  {
-   "t": "„Gen Z regelt“-Proteste: Der Gesellschaft geben, was sie hören will",
-   "s": "„Gen Z regelt“ ruft zu deutschlandweiten Protesten auf. Gewalt lehnt die Organisation dabei ab. Das stützt zwar die herrschende Macht – ist taktisch aber klug.",
-   "u": "https://taz.de/Gen-Z-regelt-Proteste/!6223733/",
-   "q": "taz",
-   "d": "2026-10-22T17:52:00+00:00"
-  },
-  {
-   "t": "Spionageabwehr - Warum Japan erst jetzt einen Geheimdienst aufbaut",
-   "s": "Jahrzehntelang konnten ausländische Geheimdienste in Japan vergleichsweise frei agieren. Nun treiben geopolitische Krisen, die Bedrohung durch China, Russland und Nordkorea sowie ein unsicheres Verhältnis zu den USA die Regierung zum Kurswechsel.Fritz, Martin",
-   "u": "https://www.deutschlandfunk.de/spionageabwehr-warum-japan-erst-jetzt-einen-geheimdienst-aufbaut-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-22T16:40:00+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Marseille bangt und hofft",
-   "s": "In der zweitgrößten Stadt Frankreichs haben die Proteste vom Samstag eine Spur der Verwüstung hinterlassen. Am Wochenende stehen erneut Demonstrationen an.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6223734/",
-   "q": "taz",
-   "d": "2026-10-22T16:25:00+00:00"
-  },
-  {
-   "t": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
-   "s": "Trotz aktueller Krisen kann der Bund im kommenden Jahr mit mehr Steuereinnahmen rechnen als zunächst erwartet. Dennoch rechnet Finanzminister Klingbeil nicht mit mehr Spielräumen für den Haushalt.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T15:54:20+00:00"
-  },
-  {
-   "t": "Wozu das AfD-Leak führen kann: Gamechanger für ein Parteiverbot?",
-   "s": "Die AfD-Mails können Belege in einem Verbotsverfahren werden, sagt Rechtsanwalt Chan-jo Jun. Wie ist die Partei mit rechtsextremen Vorfällen umgegangen?",
-   "u": "https://taz.de/Wozu-das-AfD-Leak-fuehren-kann/!6223823/",
-   "q": "taz",
-   "d": "2026-10-22T15:51:00+00:00"
-  },
-  {
-   "t": "Biodiversitätsabkommen: Balanceakt zwischen Artenschutz und Wirtschaft",
-   "s": "Artenvielfalt stabilisiert Ökosysteme und sichert damit auch wirtschaftliche Grundlagen. Dennoch gerät die Einhaltung der Biodiversitätsziele in Vergessenheit, wenn es um wirtschaftliche Interessen geht.",
-   "u": "https://www.deutschlandfunk.de/cop17-biodiversitaet-artenvielfalt-wirtschaft-100-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-22T15:46:00+00:00"
-  },
-  {
-   "t": "EU-Erweiterung: Wartesaal mit Wegzehrung",
-   "s": "Friedrich Merz macht Druck, den Westbalkan an die EU heranzuführen. Es wird nur nicht die Haupthalle, sondern ein Nebenraum.",
-   "u": "https://taz.de/EU-Erweiterung/!6223765/",
-   "q": "taz",
-   "d": "2026-10-22T15:38:00+00:00"
-  },
-  {
-   "t": "AfD-Pläne für Europa: Rechtsextremes Schredderprogramm",
-   "s": "AfD-Chefin Weidel will die europäischen Institutionen radikal entmachten. Von einem Austritt aus der EU und dem Euro ist indes nicht mehr die Rede.",
-   "u": "https://taz.de/AfD-Plaene-fuer-Europa/!6223739/",
-   "q": "taz",
-   "d": "2026-10-22T15:36:00+00:00"
-  },
-  {
-   "t": "Hohe Spritpreise: Lkw-Streiks in Italien sorgen für leere Supermarktregale",
-   "s": "Leere Fleisch- und Fischregale, überteuerte Tomaten und Millionenverluste bei Mozzarella-Produzenten: In Italien blockieren Trucker Straßen, Häfen und Raffinerien.",
-   "u": "https://taz.de/Hohe-Spritpreise/!6223735/",
-   "q": "taz",
-   "d": "2026-10-22T15:33:00+00:00"
-  },
-  {
-   "t": "Steuerschätzung für 2027: Klingbeil will von Senkung der Stromsteuer nichts wissen",
-   "s": "Nach der aktuellen Steuerschätzung könnten 2027 zwar über 4 Milliarden Euro mehr eingenommen werden. Der Finanzminister will trotzdem das Geld zusammenhalten.",
-   "u": "https://taz.de/Steuerschaetzung-fuer-2027/!6223940/",
-   "q": "taz",
-   "d": "2026-10-22T15:30:00+00:00"
-  },
-  {
-   "t": "Ukraine als Ziel russischer „Humanisten“: Trotz angeblicher Verhandlungsbereitschaft greift Moskau an",
-   "s": "Kaum sind die Gespräche von Trumps Sondergesandtem Steve Witkoff im russischen St. Petersburg vorbei, feuert der Kreml wieder Raketen auf die Ukraine.",
-   "u": "https://taz.de/Ukraine-als-Ziel-russischer-Humanisten/!6223794/",
-   "q": "taz",
-   "d": "2026-10-22T14:42:00+00:00"
-  },
-  {
-   "t": "Sacharow-Preis für Strafgerichtshof: Die Vision einer Welt des Rechts",
-   "s": "Der Internationale Strafgerichtshof sollte die Straflosigkeit schwerster Verbrechen beenden. Jetzt steht er unter Druck wie nie seit seiner Gründung.",
-   "u": "https://taz.de/Sacharow-Preis-fuer-Den-Haag/!6223825/",
-   "q": "taz",
-   "d": "2026-10-22T14:32:00+00:00"
   }
  ]
 }
