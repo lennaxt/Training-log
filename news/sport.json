@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-10-24T08:08:48+00:00",
+ "updated": "2026-10-24T13:20:20+00:00",
  "items": [
+  {
+   "t": "Nach Mord an Tierschützer in Almaty: Wohin mit 90 heimatlosen Hunden?",
+   "s": "In Kasachstan wurde der Betreiber eines privaten Tierheims ermordet. Aktivisten brachten in kürzester Zeit alle dort lebenden Hunde andernorts unter.",
+   "u": "https://taz.de/Nach-Mord-an-Tierschuetzer-in-Almaty/!6223610/",
+   "q": "taz",
+   "d": "2026-10-24T11:15:00+00:00"
+  },
   {
    "t": "Indischer Politiker über Massenproteste: „Das System lässt junge Menschen im Stich“",
    "s": "Indiens Kakerlakenbewegung bekämpft die Wahlkommission als Instrument der Regierung von Narendra Modi, sagt der Oppositionspolitiker Shashi Tharoor.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Warnsignal-im-Suedpazifik/!6215628/",
    "q": "taz",
    "d": "2026-09-24T05:05:00+00:00"
-  },
-  {
-   "t": "Grenzkrieg am Hindukusch: Tote bei pakistanischen Luftangriffen in Afghanistan",
-   "s": "Drei Zivilisten sind laut afghanischer Regierung durch pakistanische Luftangriffe gestorben. Pakistan spricht von 28 toten mutmaßlichen Kämpfern.",
-   "u": "https://taz.de/Grenzkrieg-am-Hindukusch/!6215018/",
-   "q": "taz",
-   "d": "2026-09-21T11:44:00+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-10-24T08:08:43+00:00",
+ "updated": "2026-10-24T13:20:15+00:00",
  "items": [
+  {
+   "t": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
+   "s": "Die Satellitenkommunikation von SpaceX in der Ukraine funktioniert nach Angaben aus Kiew wieder stabil. Die ukrainische Armee meldet derweil Angriffe auf russische Industrieanlagen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T11:24:45+00:00"
+  },
   {
    "t": "Brasilien vor der Stichwahl: Die Macht der Influencer",
    "s": "Wer beherrscht die Sozialen Netzwerke? Diese Frage könnte in Brasilien wahlentscheidend sein. Im digitalen Wahlkampf kann Bolsonaro auf den erfolgreichsten Influencer des Landes zählen - doch auch die Linke hat dazugelernt. Von A. Herrberg.",
@@ -120,13 +127,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/venezuela-demonstrationen-machado-100.html",
    "q": "Tagesschau",
    "d": "2026-10-23T07:01:24+00:00"
-  },
-  {
-   "t": "\"Top Gun\"-Darsteller Skerritt stirbt mit 93",
-   "s": "Er war Commander Mike \"Viper\" Metcalf an der Seite von Tom Cruise in \"Top Gun\". In \"Alien\" spielte er den Raumschiffkapitän Dallas. Nun ist der Schauspieler Tom Skerritt im Alter von 93 Jahren gestorben.",
-   "u": "https://www.tagesschau.de/ausland/amerika/tom-skerritt-gestorben-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T06:05:34+00:00"
   },
   {
    "t": "Studentenbewegung: Zehntausende protestieren vor Neuwahl in Serbien",

@@ -1,7 +1,21 @@
 {
  "name": "Wissen",
- "updated": "2026-10-24T08:08:45+00:00",
+ "updated": "2026-10-24T13:20:17+00:00",
  "items": [
+  {
+   "t": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
+   "s": "Was einmal Energie sparen sollte, ist jetzt für viele ein Ärgernis. Die EU-Kommission schlug 2018 vor, die Zeitumstellung abzuschaffen. Nur: Welche Zeit soll gelten? Forschende haben eine Antwort. Von Wiebke Drescher.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T08:55:12+00:00"
+  },
+  {
+   "t": "Sommerzeit endet - Um 3:00 Uhr wird an der Uhr gedreht",
+   "s": "Es ist wieder so weit: Die Uhren werden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T08:54:51+00:00"
+  },
   {
    "t": "Etwa 50.000 Hitzetote im Sommer 2026 in Europa",
    "s": "Seit Beginn der Aufzeichnungen gab es noch nie so viele Hitzetote in Europa wie im Sommer 2026. Das hat eine britische Analyse ergeben. Die Folgen der von Menschen gemachten Klimaerwärmung werden den Forschern zufolge immer deutlicher.",
@@ -57,13 +71,6 @@
    "u": "https://www.tagesschau.de/video/video-1669852.html",
    "q": "Tagesschau",
    "d": "2026-10-21T05:34:36+00:00"
-  },
-  {
-   "t": "Japan startet Mission zu Mars-Monden",
-   "s": "Der Mars-Mond Phobos steht im Mittelpunkt der jüngsten Weltraummission: Nun ist die Trägerrakete vom japanischen Weltraumbahnhof Tanegashima aufgebrochen. Es ist die erste Mission, bei der Material von der Marsregion zur Erde gebracht werden soll.",
-   "u": "https://www.tagesschau.de/wissen/weltraum/start-mission-mars-mond-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-19T20:43:14+00:00"
   },
   {
    "t": "COP17 in Armenien: Weltnaturkonferenz startet mit großen Aufgaben",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/video/video-1661224.html",
    "q": "Tagesschau",
    "d": "2026-10-06T08:29:01+00:00"
-  },
-  {
-   "t": "Nobelpreisträger Hegemann in den tagesthemen: \"Ich bin natürlich überwältigt\"",
-   "s": "Der Algenforscher Peter Hegemann hat Grund zum Feiern: Gemeinsam mit zwei weiteren Forschern erhält er den Medizin-Nobelpreis. In den tagesthemen berichtet er vom Nutzen der Optogenetik - und fordert mehr Mut von der Politik.",
-   "u": "https://www.tagesschau.de/wissen/forschung/tagesthemen-interview-hegemann-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-05T19:37:30+00:00"
   }
  ]
 }

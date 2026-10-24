@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-24T08:08:44+00:00",
+ "updated": "2026-10-24T13:20:16+00:00",
  "items": [
+  {
+   "t": "Deutschlandticket für Gelegenheitsfahrer: Bilger findet Idee gut",
+   "s": "Schnell mit dem Handy bei Bahn oder Öffis einchecken - und der günstigste Tarif wird berechnet. Am Monatsende kostet das Ganze höchstens so viel wie das Deutschlandticket. Der Verkehrsminister findet die Idee gut.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-nahverkehr-deutschlandticket-light-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T10:46:34+00:00"
+  },
+  {
+   "t": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
+   "s": "Nach dem Vollangriff auf die Ukraine wollte Europa schnell unabhängig werden von russischer Energie. Teilweise ist das auch gelungen. Vor allem bei Öl und Uran bleiben aber alte Abhängigkeiten. Von Jean-Marie Magro.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T08:27:08+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 23.10.2026",
    "s": "Wirtschaft vor acht vom 23.10.2026",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
    "q": "Tagesschau",
    "d": "2026-10-21T17:32:26+00:00"
-  },
-  {
-   "t": "Trassenpreis-Reform: Verkehrsminister stimmen Vorschlag aus SH zu",
-   "s": "Bei der Verkehrsministerkonferenz haben sich die Minister auf den Vorschlag aus SH zu einer Reform der Trassenpreise verständigt.",
-   "u": "https://www.tagesschau.de/inland/regional/schleswigholstein/reform-bei-trassenpreisen-vorschlag-aus-sh-angenommen,nahverkehr-196.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T17:08:13+00:00"
-  },
-  {
-   "t": "Chemie ohne Erdöl: Wie die Kohlenstoffwende gelingen soll",
-   "s": "Die Chemieindustrie gehört zu den größten Verursachern von Treibhausgasen. Deshalb will sie nun statt Erdöl Biomasse, Recycling und abgeschiedenes CO2 als Rohstoffquellen benutzen. Das erfordert neue Technologien und Milliardeninvestitionen.",
-   "u": "https://www.deutschlandfunk.de/chemie-ohne-erdoel-kohlenstoff-recycling-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T16:25:00+00:00"
   }
  ]
 }

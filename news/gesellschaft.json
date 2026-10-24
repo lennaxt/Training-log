@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-24T08:08:46+00:00",
+ "updated": "2026-10-24T13:20:18+00:00",
  "items": [
+  {
+   "t": "Eskalationen in Frankreich: Die Schuld der Macht",
+   "s": "Laut Regierung und rechter Presse ist die Linkspartei La France insoumise für die Unruhen in Frankreich verantwortlich. Unser Autor findet den Fehler woanders.",
+   "u": "https://taz.de/Eskalationen-in-Frankreich/!6223418/",
+   "q": "taz",
+   "d": "2026-10-24T12:18:00+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Wem gehört die Wut?",
+   "s": "Wer die Randalierer in Frankreich nur als Kriminelle sieht, übersieht die gesellschaftlichen Ursachen der Gewalt, sagt der französische Schriftsteller Édouard Louis. Wir müssen genauer hinsehen.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6219005/",
+   "q": "taz",
+   "d": "2026-10-24T10:39:00+00:00"
+  },
+  {
+   "t": "Protesttag in Frankreich: Anspannung vor landesweiten Demonstrationen",
+   "s": "70.000 Polizeibeamte, verbotene Kundgebungen und verrammelte Fenster: Frankreich bereitet sich auf mögliche Ausschreitungen vor. Selbst bei erlaubten Protestzügen gibt es Streit um den Weg.",
+   "u": "https://taz.de/Anspannung-in-Frankreich-vor-landesweiten-Demonstrationen/!6224699/",
+   "q": "taz",
+   "d": "2026-10-24T08:18:00+00:00"
+  },
   {
    "t": "Proteste und Gewalt: Linker Selbstmord",
    "s": "Es ist falsch, wenn Linke Hass und Gewalt im Namen der Gerechtigkeit und Solidarität befürworten. So spielen sie nur der Rechten in die Hände.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223680/",
    "q": "taz",
    "d": "2026-10-22T08:04:00+00:00"
-  },
-  {
-   "t": "Schwangerschaftsabbruch in Polen: Wenig Aussicht auf Erleichterung",
-   "s": "Regierungschef Tusk setzt endlich ein Wahlversprechen um und entschärft die Abtreibungsgesetze in Polen. Doch Präsident Naworocki kann das blockieren.",
-   "u": "https://taz.de/Schwangerschaftsabbruch-in-Polen/!6223131/",
-   "q": "taz",
-   "d": "2026-10-21T17:56:00+00:00"
-  },
-  {
-   "t": "Trump, Selenskyj und Europa: Ukraine, verkauft und im Stich gelassen",
-   "s": "Immer offener paktiert der US-Präsident mit dem Kremlchef. Die EU setzt die Hoffnungen auf die Midterms, derweil wird die Ukraine heftig beschossen.",
-   "u": "https://taz.de/Trump-Selenskyj-und-Europa/!6218340/",
-   "q": "taz",
-   "d": "2026-10-21T16:54:00+00:00"
-  },
-  {
-   "t": "Ukrainegespräche in St. Petersburg: „Momentum für die Beendigung des Krieges“",
-   "s": "Der US-Sondergesandte Witkoff sieht gute Voraussetzungen für ein Ende des Ukrainekrieges. Die Ukraine erklärt sich zur Anerkennung der derzeitigen Frontlinie bereit.",
-   "u": "https://taz.de/Ukrainegespraeche-in-St-Petersburg/!6223342/",
-   "q": "taz",
-   "d": "2026-10-21T16:53:00+00:00"
   }
  ]
 }

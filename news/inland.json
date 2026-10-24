@@ -1,7 +1,70 @@
 {
  "name": "Inland",
- "updated": "2026-10-24T08:08:43+00:00",
+ "updated": "2026-10-24T13:20:15+00:00",
  "items": [
+  {
+   "t": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
+   "s": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. In Nacht hat es nun im Kehlsteinhaus am Obersalzberg bei Berchtesgaden gebrannt. Die Polizei vermutet Brandstiftung und hat einen Verdächtigen festgenommen.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T12:35:12+00:00"
+  },
+  {
+   "t": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
+   "s": "Der Kanzler ruft auf dem CSU-Parteitag zu Geschlossenheit auf und warnt vor Extremisten. Großen Applaus gibt es aber für einen besonderen Gruß, der im Zusammenhang mit der Diskussion über die Steinmeier-Nachfolge gesehen wurde.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T12:19:07+00:00"
+  },
+  {
+   "t": "Eskalationen in Frankreich: Die Schuld der Macht",
+   "s": "Laut Regierung und rechter Presse ist die Linkspartei La France insoumise für die Unruhen in Frankreich verantwortlich. Unser Autor findet den Fehler woanders.",
+   "u": "https://taz.de/Eskalationen-in-Frankreich/!6223418/",
+   "q": "taz",
+   "d": "2026-10-24T12:18:00+00:00"
+  },
+  {
+   "t": "Nach Mord an Tierschützer in Almaty: Wohin mit 90 heimatlosen Hunden?",
+   "s": "In Kasachstan wurde der Betreiber eines privaten Tierheims ermordet. Aktivisten brachten in kürzester Zeit alle dort lebenden Hunde andernorts unter.",
+   "u": "https://taz.de/Nach-Mord-an-Tierschuetzer-in-Almaty/!6223610/",
+   "q": "taz",
+   "d": "2026-10-24T11:15:00+00:00"
+  },
+  {
+   "t": "Debatte über SPD-Vorsitz: Mit oder ohne Klingbeil?",
+   "s": "Noch ist offen, ob SPD-Chef Klingbeil noch einmal für den Posten kandidiert. Der Juso-Vorsitzende Türmer hat eine klare Meinung: Er fordert einen Neustart an der Parteispitze. Bremens Bürgermeister Bovenschulte hält an Klingbeil fest.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-chef-klingbeil-debatte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T10:52:30+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Wem gehört die Wut?",
+   "s": "Wer die Randalierer in Frankreich nur als Kriminelle sieht, übersieht die gesellschaftlichen Ursachen der Gewalt, sagt der französische Schriftsteller Édouard Louis. Wir müssen genauer hinsehen.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6219005/",
+   "q": "taz",
+   "d": "2026-10-24T10:39:00+00:00"
+  },
+  {
+   "t": "Offensive im Westjordanland: Netanjahu kündigt „große Überraschung“ für Autonomiebehörde an",
+   "s": "Die israelische Großoffensive hat begonnen. Ob dabei die Selbstverwaltung der Palästinenser zerschlagen werden soll, will der Premier in den Medien nicht bestätigen.",
+   "u": "https://taz.de/Offensive-im-Westjordanland/!6224705/",
+   "q": "taz",
+   "d": "2026-10-24T10:35:00+00:00"
+  },
+  {
+   "t": "Verletzte und Schäden nach \"Sturmtief\" Luise",
+   "s": "Bäume und Äste auf Straßen und Gleisen, ein umgestürztes Gestell: Sturmtief \"Luise\" ist über Teile Deutschlands hinweggefegt. Zwei Menschen wurden schwer verletzt. Mit \"Manja\" zieht schon der nächste Sturm heran.",
+   "u": "https://www.tagesschau.de/inland/herbststurm-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T08:59:50+00:00"
+  },
+  {
+   "t": "Protesttag in Frankreich: Anspannung vor landesweiten Demonstrationen",
+   "s": "70.000 Polizeibeamte, verbotene Kundgebungen und verrammelte Fenster: Frankreich bereitet sich auf mögliche Ausschreitungen vor. Selbst bei erlaubten Protestzügen gibt es Streit um den Weg.",
+   "u": "https://taz.de/Anspannung-in-Frankreich-vor-landesweiten-Demonstrationen/!6224699/",
+   "q": "taz",
+   "d": "2026-10-24T08:18:00+00:00"
+  },
   {
    "t": "CSU-Parteitag in München: Alle für Ilse",
    "s": "Nach einer bemerkenswert unsöderhaften Rede feiert die CSU auf ihrem Parteitag Markus Söder – besonders wegen eines Satzes.",
@@ -17,13 +80,6 @@
    "d": "2026-10-24T07:41:00+00:00"
   },
   {
-   "t": "Verletzte und Schäden nach \"Sturmtief\" Luise",
-   "s": "Bäume und Äste auf Straßen und Gleisen, ein umgestürztes Gestell: Sturmtief \"Luise\" ist über Teile Deutschlands hinweggefegt. Zwei Menschen wurden schwer verletzt. Mit \"Manja\" zieht schon der nächste Sturm heran.",
-   "u": "https://www.tagesschau.de/inland/herbststurm-104.html",
-   "q": "Tagesschau",
-   "d": "2026-10-24T07:31:39+00:00"
-  },
-  {
    "t": "+++ Nachrichten im Ukraine-Krieg +++: Moskau und Kiew stimmen Waffenruhe in Oleschky zu",
    "s": "Die US-Regierung verkündet eine Feuerpause in der umkämpften Frontstadt. First Lady Melanie Trump solll dabei vermittelt haben. Erneut werden Gefangene ausgetauscht.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6224698/",
@@ -31,11 +87,11 @@
    "d": "2026-10-24T06:57:00+00:00"
   },
   {
-   "t": "\"Adlerhorst\" der Nazis: Großbrand im Kehlsteinhaus am Obersalzberg",
-   "s": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. Nun ist im Kehlsteinhaus am Obersalzberg bei Berchtesgaden ein Feuer ausgebrochen. Die Polizei vermutet Brandstiftung und nahm einen Verdächtigen fest.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-24T06:25:14+00:00"
+   "t": "Soziologe Urban betont das Recht auf Vergesellschaftung",
+   "s": "Gewerkschaftler und Soziologe Hans-Jürgen Urban hat das Recht auf Vergesellschaftung von Wohnraum verteidigt. Die Attacken aus Bayern auf die Berliner Koalitionspläne trügen autoritäre Züge. Das Grundgesetz sehe diese Möglichkeit ausdrücklich vor.Schulz, Josephine",
+   "u": "https://www.deutschlandfunk.de/brief-an-bundesregierung-zu-gg-15-interview-hans-juergen-urban-ehem-ig-metall-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-24T06:10:00+00:00"
   },
   {
    "t": "Wie sieht die Zukunft der Raffinerien aus?",
@@ -113,62 +169,6 @@
    "u": "https://taz.de/Neuwahlen-in-Serbien/!6223719/",
    "q": "taz",
    "d": "2026-10-23T16:13:00+00:00"
-  },
-  {
-   "t": "Rettet der KI-Boom Deutschlands Wirtschaft?",
-   "s": "Mit einem Investitionsgipfel will die Bundesregierung mehr private Investitionen für die Wirtschaft gewinnen. Besonders große Hoffnungen ruhen auf industrieller KI. Doch führen die milliardenschweren Zusagen tatsächlich zu mehr Wertschöpfung und Jobs?Thoms, Katharina; Steiner, Falk; Münchenberg, Jörg",
-   "u": "https://www.deutschlandfunk.de/rettet-der-ki-boom-deutschlands-wirtschaft-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-23T16:00:00+00:00"
-  },
-  {
-   "t": "Störungen bei Starlink: Der Donald, der Elon und die Frage der Schuld",
-   "s": "Elon Musks satellitenbasiertes Internet Starlink kann von der Ukraine derzeit nur in gedrosselter Geschwindigkeit im Krieg genutzt werden. Na sowas?",
-   "u": "https://taz.de/Stoerungen-bei-Starlink/!6223462/",
-   "q": "taz",
-   "d": "2026-10-23T15:53:00+00:00"
-  },
-  {
-   "t": "Proteste gegen Sparkurs an Unis: Genies ohne Geld",
-   "s": "In Wien protestieren rund 50.000 Menschen gegen Einsparungen an Hochschulen. Doch die österreichische Regierung verkauft das als Erfolg.",
-   "u": "https://taz.de/Proteste-gegen-Sparkurs-an-Unis/!6224062/",
-   "q": "taz",
-   "d": "2026-10-23T15:21:00+00:00"
-  },
-  {
-   "t": "Ebola in Afrika: Noch keine Entwarnung",
-   "s": "Experten stellen bei den Ansteckungsraten mit dem Virus einen leichten Abwärtstrend fest. Wie nachhaltig dieser ist, wird sich erst noch zeigen.",
-   "u": "https://taz.de/Ebola-in-Afrika/!6224063/",
-   "q": "taz",
-   "d": "2026-10-23T15:21:00+00:00"
-  },
-  {
-   "t": "Serbien-Wahl - Kann die Studierendenbewegung Vučićs Macht brechen?",
-   "s": "In Serbien fordert die junge Protestbewegung Präsident Vučić bei der Wahl heraus. Kann sie das Land verändern? Und: Krisentreffen in Istanbul - Europäer und Nahost-Anrainer beraten über Straße von Hormus und Ukraine.Schmidt-Mattern, Barbara",
-   "u": "https://www.deutschlandfunk.de/serbien-wahl-studierendenbewegung-tuerkei-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-23T15:00:00+00:00"
-  },
-  {
-   "t": "Rechtsanwalt über AfD-Leak: „Diese Innenansicht hatten wir bisher nicht“",
-   "s": "Der auf IT spezialisierte Rechtsanwalt Chan-jo Jun hält den AfD-Leak für einen möglichen „Gamechanger“. Steckt darin das fehlende Puzzlestück für ein Verbot?",
-   "u": "https://taz.de/Rechtsanwalt-ueber-AfD-Leak/!6224058/",
-   "q": "taz",
-   "d": "2026-10-23T14:05:00+00:00"
-  },
-  {
-   "t": "Schüsse aus Auto in Frankreich: Ein Toter, vier Verletzte",
-   "s": "Ein Mann in einem Auto hat in Gemeinden bei Paris auf offener Straße mehrere Schüsse abgefeuert. Es soll mindestens einen Toten und vier Verletzte geben.",
-   "u": "https://taz.de/Schuesse-aus-Auto-in-Frankreich/!6224379/",
-   "q": "taz",
-   "d": "2026-10-23T13:24:00+00:00"
-  },
-  {
-   "t": "Erkenntnisse aus dem AfD-Leak: Feindeslisten und Hakenkreuzfahnen",
-   "s": "Die veröffentlichten AfD-Mails geben einen tiefen Einblick in die Partei – in problematische Mitglieder und Ex-Mitglieder, internen Streit und Listen angeblicher Antifa-Aktivisten.",
-   "u": "https://taz.de/Erkenntnisse-aus-dem-AfD-Leak/!6224078/",
-   "q": "taz",
-   "d": "2026-10-23T12:31:00+00:00"
   }
  ]
 }

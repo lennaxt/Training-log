@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-24T08:08:45+00:00",
+ "updated": "2026-10-24T13:20:17+00:00",
  "items": [
+  {
+   "t": "CSU-Parteitag in München: Alle für Ilse",
+   "s": "Nach einer bemerkenswert unsöderhaften Rede feiert die CSU auf ihrem Parteitag Markus Söder – besonders wegen eines Satzes.",
+   "u": "https://taz.de/CSU-Parteitag-in-Muenchen/!6224692/",
+   "q": "taz",
+   "d": "2026-10-24T08:05:00+00:00"
+  },
   {
    "t": "Wer wird SPD-Vorsitzende?: Warten auf Manu",
    "s": "SPD-Frauen beklagen den Sexismus der Union – aber auch die eigene Partei ist nach dem Rückzug von Bärbel Bas ein Männerclub. Kommt jetzt Manuela Schwesig?",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Seenotrettung-im-Mittelmeer-Eigenes-Ministerium-widerspricht-Dobrindt/!6223381/",
    "q": "taz",
    "d": "2026-10-21T14:36:00+00:00"
-  },
-  {
-   "t": "CSU stürzt in Beliebtheit ab: Auch in Bayern legen die Ränder zu",
-   "s": "Kurz vor dem Parteitag der CSU ereilen Parteichef Söder schlechte Neuigkeiten. Eine Umfrage malt ein Gespenst an die Wand: Schwarz-Grün.",
-   "u": "https://taz.de/CSU-stuerzt-in-Beliebtheit-ab/!6223365/",
-   "q": "taz",
-   "d": "2026-10-21T12:48:00+00:00"
   }
  ]
 }
