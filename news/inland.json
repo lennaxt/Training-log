@@ -1,10 +1,52 @@
 {
  "name": "Inland",
- "updated": "2026-10-23T23:51:41+00:00",
+ "updated": "2026-10-24T08:08:43+00:00",
  "items": [
   {
+   "t": "CSU-Parteitag in München: Alle für Ilse",
+   "s": "Nach einer bemerkenswert unsöderhaften Rede feiert die CSU auf ihrem Parteitag Markus Söder – besonders wegen eines Satzes.",
+   "u": "https://taz.de/CSU-Parteitag-in-Muenchen/!6224692/",
+   "q": "taz",
+   "d": "2026-10-24T08:05:00+00:00"
+  },
+  {
+   "t": "Wer wird SPD-Vorsitzende?: Warten auf Manu",
+   "s": "SPD-Frauen beklagen den Sexismus der Union – aber auch die eigene Partei ist nach dem Rückzug von Bärbel Bas ein Männerclub. Kommt jetzt Manuela Schwesig?",
+   "u": "https://taz.de/Wer-wird-SPD-Vorsitzende/!6223638/",
+   "q": "taz",
+   "d": "2026-10-24T07:41:00+00:00"
+  },
+  {
+   "t": "Verletzte und Schäden nach \"Sturmtief\" Luise",
+   "s": "Bäume und Äste auf Straßen und Gleisen, ein umgestürztes Gestell: Sturmtief \"Luise\" ist über Teile Deutschlands hinweggefegt. Zwei Menschen wurden schwer verletzt. Mit \"Manja\" zieht schon der nächste Sturm heran.",
+   "u": "https://www.tagesschau.de/inland/herbststurm-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T07:31:39+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Moskau und Kiew stimmen Waffenruhe in Oleschky zu",
+   "s": "Die US-Regierung verkündet eine Feuerpause in der umkämpften Frontstadt. First Lady Melanie Trump solll dabei vermittelt haben. Erneut werden Gefangene ausgetauscht.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6224698/",
+   "q": "taz",
+   "d": "2026-10-24T06:57:00+00:00"
+  },
+  {
+   "t": "\"Adlerhorst\" der Nazis: Großbrand im Kehlsteinhaus am Obersalzberg",
+   "s": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. Nun ist im Kehlsteinhaus am Obersalzberg bei Berchtesgaden ein Feuer ausgebrochen. Die Polizei vermutet Brandstiftung und nahm einen Verdächtigen fest.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T06:25:14+00:00"
+  },
+  {
+   "t": "Wie sieht die Zukunft der Raffinerien aus?",
+   "s": "Deutschlands Raffinerien stehen vor einem grundlegenden Wandel: Weg von fossilen Rohstoffen, hin zu klimafreundlicheren Alternativen. Wirtschaftsministerin Reiche will dafür eine Strategie vorlegen. Doch Experten sind skeptisch. Von Oda Lambrecht.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T01:06:57+00:00"
+  },
+  {
    "t": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
-   "s": "CSU-Chef Söder sieht die Demokratie vor großen Herausforderungen. Er forderte zudem finanzielle Entlastungen für die Bevölkerung. Es müsse etwas passieren, betonte der bayrische Ministerpräsident im Interview mit den tagesthemen.",
+   "s": "CSU-Chef Söder sieht die Demokratie vor großen Herausforderungen. Er verlangte zudem finanzielle Entlastungen für die Bevölkerung. Es müsse etwas passieren, betonte der bayrische Ministerpräsident im Interview mit den tagesthemen.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
    "q": "Tagesschau",
    "d": "2026-10-23T19:45:20+00:00"
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Erkenntnisse-aus-dem-AfD-Leak/!6224078/",
    "q": "taz",
    "d": "2026-10-23T12:31:00+00:00"
-  },
-  {
-   "t": "Länderfinanzausgleich: Finanzministerium sieht „Extremismusklausel“ kritisch",
-   "s": "Bundesfinanzminister Klingbeil bremst den Vorstoß von CSU-Chef Söder ab, von Linke oder AfD regierten Bundesländern Mittel vorzuenthalten. Er verweist auf ein anderes Mittel.",
-   "u": "https://taz.de/Laenderfinanzausgleich/!6224104/",
-   "q": "taz",
-   "d": "2026-10-23T12:18:00+00:00"
-  },
-  {
-   "t": "CSU-Chef und Ministerpräsident: Der doppelte Söder",
-   "s": "Mit einer Rede von CSU-Chef Söder beginnt heute der Parteitag der Christsozialen. Söder zeigt sich als ambivalenter Politiker: Als Parteichef prägt er die Koalition, als Ministerpräsident kritisiert er sie zugleich. Von Sabine Henkel.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/csu-union-soeder-bundespolitik-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T11:28:38+00:00"
-  },
-  {
-   "t": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
-   "s": "Wie sollen Ärzte oder Pflegekräfte reagieren, wenn Menschen in existenzieller Not sagen, dass sie sterben wollen? Ein Gesetz, das dafür Regeln vorgibt, fehlt. Eine neue Leitlinie setzt auf eingehende Beratung. Von Daniela Remus.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T10:48:25+00:00"
-  },
-  {
-   "t": "Tagebuch aus Aserbaidschan: Der Kampf geht auf die Köpfe los",
-   "s": "Die Regierung in Baku verbietet das Tragen des Hidschabs in Schulen. Sie begründet es mit Säkularität, doch sie will gesellschaftliche Stärke verhindern.",
-   "u": "https://taz.de/Tagebuch-aus-Aserbaidschan/!6223090/",
-   "q": "taz",
-   "d": "2026-10-23T10:24:00+00:00"
-  },
-  {
-   "t": "Politologin Münch: CSU ist konstruktive Kraft in der Bundesregierung",
-   "s": "Die CSU will sich auf dem Parteitag von der AfD und der Linkspartei abgrenzen. Politologin Ursula Münch nimmt die Partei als Leistungsträger wahr. In der Bundesregierung wirkt die CSU konstruktiv, und auch Söder ist derzeit berechenbar, sagt Münch.Heinemann, Christoph; Münch, Ursula",
-   "u": "https://www.deutschlandfunk.de/csu-der-stabile-faktor-in-union-interview-prof-ursula-muench-akademie-tutzing-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-23T10:15:57+00:00"
-  },
-  {
-   "t": "Warum Akademiker den Bundestag dominieren",
-   "s": "In Regierungen und Parlamenten der westlichen Demokratien sind überproportional viele Menschen mit Uni-Abschlüssen vertreten. Und das ist ein Problem für die Demokratie.",
-   "u": "https://www.deutschlandfunk.de/akademiker-bundestag-arbeiter-soziale-ungleichheit-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-23T09:56:00+00:00"
   }
  ]
 }

@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-10-23T23:51:41+00:00",
+ "updated": "2026-10-24T08:08:43+00:00",
  "items": [
+  {
+   "t": "Brasilien vor der Stichwahl: Die Macht der Influencer",
+   "s": "Wer beherrscht die Sozialen Netzwerke? Diese Frage könnte in Brasilien wahlentscheidend sein. Im digitalen Wahlkampf kann Bolsonaro auf den erfolgreichsten Influencer des Landes zählen - doch auch die Linke hat dazugelernt. Von A. Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-influencer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T04:13:03+00:00"
+  },
+  {
+   "t": "US-Midterms: Die Sorge vor einer neuen Wahllüge Trumps",
+   "s": "Seitdem Trump vor sechs Jahren gegen Biden verlor, leugnet er das Wahlergebnis. Die Lüge ist Doktrin in seiner Partei, viele US-Bürger haben sie verinnerlicht. Was, wenn die Republikaner nun die Zwischenwahlen verlieren sollten? Von C. Kühntopp.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-wahlbetrug-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T04:10:57+00:00"
+  },
+  {
+   "t": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
+   "s": "Nach den tödlichen Schüssen auf zwei Soldaten hat Israels Armee einen \"Anti-Terror-Einsatz\" im Westjordanland begonnen. Man suche dort nach Waffen und Terrorinfrastruktur. Israels Premier drohte zudem mit einem großangelegten Militäreinsatz.",
+   "u": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T01:01:43+00:00"
+  },
   {
    "t": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
    "s": "Beim ersten Treffen dieser Art hat Außenminister Wadephul mit sieben anderen Chefdiplomaten aus Europa und Nahost in Istanbul über Kriege und Konflikte beraten. Seine Bilanz: positiv. Künftig soll es regelmäßige Treffen geben. Von C. Buttkereit.",
@@ -127,27 +148,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html",
    "q": "Tagesschau",
    "d": "2026-10-23T03:01:38+00:00"
-  },
-  {
-   "t": "Trump soll Musk gebeten haben, Drosselung aufzuheben",
-   "s": "Das ukrainische Militär beklagt eine Drosselung von Elon Musks Satelliten-Internetdienst. Laut einem Medienbericht soll Trump nun die Aufhebung befohlen haben. Der US-Präsident bezieht selbst Stellung dazu - doch viele Fragen bleiben offen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T02:28:21+00:00"
-  },
-  {
-   "t": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
-   "s": "Unter US-Wählern gewinnt vor den Zwischenwahlen ein Thema an Bedeutung - und das ist besonders heikel für Präsident Trump. Immer mehr Bürger registrieren, wie sehr das Vermögen Trumps und seines Umfelds gewachsen ist. Von Ralf Borchard.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T19:48:35+00:00"
-  },
-  {
-   "t": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
-   "s": "Korallen bieten im Meer einer großen Artenvielfalt ein Zuhause. Doch die Riffe sind durch die Erhitzung der Meere erheblich gefährdet. Eine Studie zeigt nun das ganze Ausmaß.",
-   "u": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T19:34:07+00:00"
   },
   {
    "t": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",

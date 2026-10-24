@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-23T23:51:44+00:00",
+ "updated": "2026-10-24T08:08:46+00:00",
  "items": [
+  {
+   "t": "Proteste und Gewalt: Linker Selbstmord",
+   "s": "Es ist falsch, wenn Linke Hass und Gewalt im Namen der Gerechtigkeit und Solidarität befürworten. So spielen sie nur der Rechten in die Hände.",
+   "u": "https://taz.de/Proteste-und-Gewalt/!6219055/",
+   "q": "taz",
+   "d": "2026-10-24T07:50:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Moskau und Kiew stimmen Waffenruhe in Oleschky zu",
+   "s": "Die US-Regierung verkündet eine Feuerpause in der umkämpften Frontstadt. First Lady Melanie Trump solll dabei vermittelt haben. Erneut werden Gefangene ausgetauscht.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6224698/",
+   "q": "taz",
+   "d": "2026-10-24T06:57:00+00:00"
+  },
   {
    "t": "Proteste in Frankreich: Jugend ohne Jugend",
    "s": "Warum gehen Fran­zö­s*in­nen auf die Straße? Wogegen sind sie? Was wollen sie erreichen? Wir haben mit einer Schülerin und einer Studentin gesprochen.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Ukrainegespraeche-in-St-Petersburg/!6223342/",
    "q": "taz",
    "d": "2026-10-21T16:53:00+00:00"
-  },
-  {
-   "t": "Drohnentraining in der Ukraine: Die Front hält stand – aber Ukrainer fürchten um ihre Städte",
-   "s": "Vor dem Hintergrund der Gespräche zwischen Wladimir Putin und Steve Witkoff befürchten Ukrainer noch heftigere Angriffe auf ihre Großstädte.",
-   "u": "https://taz.de/Drohnentraining-in-der-Ukraine/!6223343/",
-   "q": "taz",
-   "d": "2026-10-21T15:57:00+00:00"
-  },
-  {
-   "t": "Krawalle in Frankreich: Die verheimlichten Toten der Pariser Unruhen",
-   "s": "Während der Gewalteskalation in Paris am Samstag starben zwei Menschen, ein dritter hat seinen Tod dementiert. Frankreichs Regierung agiert ratlos.",
-   "u": "https://taz.de/Krawalle-in-Frankreich/!6223264/",
-   "q": "taz",
-   "d": "2026-10-21T15:45:00+00:00"
   }
  ]
 }
