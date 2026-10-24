@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-24T13:20:18+00:00",
+ "updated": "2026-10-24T18:10:13+00:00",
  "items": [
+  {
+   "t": "10 Jahre Dschungel von Calais: „Überall sind Zäune“",
+   "s": "Vor zehn Jahren räumten französische Behörden das Jungle genannte Geflüchtetencamp am Ärmelkanal. Bis heute hat es seine Spuren hinterlassen. Und immer wieder entstehen neue Camps.",
+   "u": "https://taz.de/10-Jahre-Dschungel-von-Calais/!6222215/",
+   "q": "taz",
+   "d": "2026-10-24T15:11:00+00:00"
+  },
+  {
+   "t": "+++ Protesttag in Frankreich +++: Ausschreitungen bei Protesten in Paris",
+   "s": "Die Polizei in Paris und weiteren französischen Städten geht mit Schlagstöcken und Tränengas gegen Demonstrierende vor. Landesweit beteiligen sich Hunderttausende an Protesten.",
+   "u": "https://taz.de/-Protesttag-in-Frankreich-/!6224710/",
+   "q": "taz",
+   "d": "2026-10-24T14:17:00+00:00"
+  },
+  {
+   "t": "Serbien vor der Parlamentswahl: „Die Angst hat die Seite gewechselt“",
+   "s": "Die Liste der Studenten hat erstmals Chancen, die Herrschaft von Ex-Präsident Aleksandar Vučić ins Wanken zu bringen. Sie ist auf alles vorbereitet.",
+   "u": "https://taz.de/Serbien-vor-der-Parlamentswahl/!6224678/",
+   "q": "taz",
+   "d": "2026-10-24T13:47:00+00:00"
+  },
   {
    "t": "Eskalationen in Frankreich: Die Schuld der Macht",
    "s": "Laut Regierung und rechter Presse ist die Linkspartei La France insoumise für die Unruhen in Frankreich verantwortlich. Unser Autor findet den Fehler woanders.",
@@ -31,7 +52,7 @@
    "d": "2026-10-24T07:50:00+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Moskau und Kiew stimmen Waffenruhe in Oleschky zu",
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Moskau und Kyjiw stimmen Waffenruhe in Oleschky zu",
    "s": "Die US-Regierung verkündet eine Feuerpause in der umkämpften Frontstadt. First Lady Melanie Trump solll dabei vermittelt haben. Erneut werden Gefangene ausgetauscht.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6224698/",
    "q": "taz",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Ukraine-als-Ziel-russischer-Humanisten/!6223794/",
    "q": "taz",
    "d": "2026-10-22T14:42:00+00:00"
-  },
-  {
-   "t": "Sacharow-Preis für Strafgerichtshof: Die Vision einer Welt des Rechts",
-   "s": "Der Internationale Strafgerichtshof sollte die Straflosigkeit schwerster Verbrechen beenden. Jetzt steht er unter Druck wie nie seit seiner Gründung.",
-   "u": "https://taz.de/Sacharow-Preis-fuer-Den-Haag/!6223825/",
-   "q": "taz",
-   "d": "2026-10-22T14:32:00+00:00"
-  },
-  {
-   "t": "EU-Zeichen gegen Trump: Internationaler Strafgerichtshof erhält Sacharow-Preis",
-   "s": "Das Europäische Parlament würdigt die Arbeit des Internationalen Strafgerichtshofs mit dem Sacharow-Preis – und stellt sich damit klar gegen die US-Regierung.",
-   "u": "https://taz.de/Sacharow-Preis-geht-an-Internationalen-Strafgerichtshof/!6223761/",
-   "q": "taz",
-   "d": "2026-10-22T11:59:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Sieben Tote nach russischem Beschuss",
-   "s": "Trotz neuer diplomatischer Bemühungen zur Beendigung des Krieges geht der gegenseitige Beschuss weiter. Trump verteidigt Aufschub neuer Russland-Sanktionen.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223680/",
-   "q": "taz",
-   "d": "2026-10-22T08:04:00+00:00"
   }
  ]
 }

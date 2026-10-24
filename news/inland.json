@@ -1,13 +1,83 @@
 {
  "name": "Inland",
- "updated": "2026-10-24T13:20:15+00:00",
+ "updated": "2026-10-24T18:10:07+00:00",
  "items": [
+  {
+   "t": "Merz bei der CSU: P wie Parteitag, P wie Präsidentin",
+   "s": "Auf ihrem Parteitag in München treibt die CSU vor allem die P-Frage um. Kann noch jemand Ilse Aigner auf ihrem Weg ins Bundespräsidentenamt aufhalten?",
+   "u": "https://taz.de/Merz-bei-der-CSU/!6224709/",
+   "q": "taz",
+   "d": "2026-10-24T18:04:00+00:00"
+  },
+  {
+   "t": "Wahlen in Israel: Wenn wirklich jede Stimme zählt",
+   "s": "Netanjahus rechtsextreme Regierung hat trotz allem weiterhin treue Anhänger. Was steht bei der Wahl alles auf dem Spiel?",
+   "u": "https://taz.de/Wahlen-in-Israel/!6219006/",
+   "q": "taz",
+   "d": "2026-10-24T17:56:00+00:00"
+  },
+  {
+   "t": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
+   "s": "Wird CSU-Politikerin Aigner Kandidatin für das Amt der Bundespräsidentin? Mit Spannung wurde erwartet, ob sich CDU-Chef Merz auf dem CSU-Parteitag dazu äußert. Er tat es nicht - und sendete doch ein Signal. Von Kerstin Palzer.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T16:51:47+00:00"
+  },
+  {
+   "t": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
+   "s": "Als Deutschland und die Türkei 1961 das Anwerbeabkommen unterschreiben, rechnet niemand damit, dass Hunderttausende Menschen dauerhaft eine Heimat hier finden werden. Für viele ein hart erarbeiteter Erfolg. Von Carolyn Wißing.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T16:19:11+00:00"
+  },
+  {
+   "t": "Trauer und Entsetzen in Jordanien: Anschlag auf die Oase des Friedens",
+   "s": "Am Freitag haben mutmaßliche Terroristen das Feuer auf Trauernde in einer Kirche nahe Karak in Jordanien eröffnet. Acht Menschen verloren ihr Leben, Dutzende wurden verletzt.",
+   "u": "https://taz.de/Trauer-und-Entsetzen-in-Jordanien/!6224712/",
+   "q": "taz",
+   "d": "2026-10-24T15:58:00+00:00"
+  },
+  {
+   "t": "10 Jahre Dschungel von Calais: „Überall sind Zäune“",
+   "s": "Vor zehn Jahren räumten französische Behörden das Jungle genannte Geflüchtetencamp am Ärmelkanal. Bis heute hat es seine Spuren hinterlassen. Und immer wieder entstehen neue Camps.",
+   "u": "https://taz.de/10-Jahre-Dschungel-von-Calais/!6222215/",
+   "q": "taz",
+   "d": "2026-10-24T15:11:00+00:00"
+  },
+  {
+   "t": "Jugendzentrum im Visier: Das Feindbild eines roten Göttingen",
+   "s": "Das Finanzamt Göttingen will das linke Jugendzentrum Juzi auf Antifa-Nähe überprüfen. Es soll um das Neutralitätsgebot gehen. Schmeckt nach Schlagseite.",
+   "u": "https://taz.de/Jugendzentrum-im-Visier/!6219113/",
+   "q": "taz",
+   "d": "2026-10-24T14:57:00+00:00"
+  },
+  {
+   "t": "Was wird aus der Ministerpräsidentenkonferenz bei AfD-Beteiligung?",
+   "s": "Die Ministerpräsidentenkonferenz im Oktober könnte die letzte nach alter Art gewesen sein. Die Länderchefs bereiten sich darauf vor, dass ein AfD-Ministerpräsident in der MPK dabei sein wird.",
+   "u": "https://www.deutschlandfunk.de/ministerpraesidentenkonferenz-afd-linke-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-24T14:34:00+00:00"
+  },
+  {
+   "t": "+++ Protesttag in Frankreich +++: Ausschreitungen bei Protesten in Paris",
+   "s": "Die Polizei in Paris und weiteren französischen Städten geht mit Schlagstöcken und Tränengas gegen Demonstrierende vor. Landesweit beteiligen sich Hunderttausende an Protesten.",
+   "u": "https://taz.de/-Protesttag-in-Frankreich-/!6224710/",
+   "q": "taz",
+   "d": "2026-10-24T14:17:00+00:00"
+  },
   {
    "t": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
    "s": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. In Nacht hat es nun im Kehlsteinhaus am Obersalzberg bei Berchtesgaden gebrannt. Die Polizei vermutet Brandstiftung und hat einen Verdächtigen festgenommen.",
    "u": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-24T12:35:12+00:00"
+   "d": "2026-10-24T13:58:56+00:00"
+  },
+  {
+   "t": "Serbien vor der Parlamentswahl: „Die Angst hat die Seite gewechselt“",
+   "s": "Die Liste der Studenten hat erstmals Chancen, die Herrschaft von Ex-Präsident Aleksandar Vučić ins Wanken zu bringen. Sie ist auf alles vorbereitet.",
+   "u": "https://taz.de/Serbien-vor-der-Parlamentswahl/!6224678/",
+   "q": "taz",
+   "d": "2026-10-24T13:47:00+00:00"
   },
   {
    "t": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
@@ -80,7 +150,7 @@
    "d": "2026-10-24T07:41:00+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Moskau und Kiew stimmen Waffenruhe in Oleschky zu",
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Moskau und Kyjiw stimmen Waffenruhe in Oleschky zu",
    "s": "Die US-Regierung verkündet eine Feuerpause in der umkämpften Frontstadt. First Lady Melanie Trump solll dabei vermittelt haben. Erneut werden Gefangene ausgetauscht.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6224698/",
    "q": "taz",
@@ -99,76 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html",
    "q": "Tagesschau",
    "d": "2026-10-24T01:06:57+00:00"
-  },
-  {
-   "t": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
-   "s": "CSU-Chef Söder sieht die Demokratie vor großen Herausforderungen. Er verlangte zudem finanzielle Entlastungen für die Bevölkerung. Es müsse etwas passieren, betonte der bayrische Ministerpräsident im Interview mit den tagesthemen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T19:45:20+00:00"
-  },
-  {
-   "t": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
-   "s": "Zum Auftakt des CSU-Parteitags knöpft sich Parteichef Söder die Linke und die AfD vor. Und er weist auf den Ernst der Lage für die Union hin. Den meisten Applaus bekam er aber für etwas anderes. Von Anita Fünffinger.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T18:10:26+00:00"
-  },
-  {
-   "t": "Israelische Militäroperation in Syrien: Erneute Vorstöße der israelischen Armee in Südwestsyrien",
-   "s": "Israelische Streitkräfte haben am Donnerstag an mehreren Orten in Südwestsyrien Razzien durchgeführt. Dabei kam ein Mann uns Leben.",
-   "u": "https://taz.de/Israelische-Militaeroperation-in-Syrien/!6224069/",
-   "q": "taz",
-   "d": "2026-10-23T17:59:00+00:00"
-  },
-  {
-   "t": "Bürgergeld und Einsparungen: Geschichte eines Irrtums",
-   "s": "2024 hatte Kanzler Merz im Wahlkampf versprochen, das \"System Bürgergeld vom Kopf auf die Füße\" zu stellen. Zweistellige Milliardenbeträge wollte er so einsparen. Gebracht aber hat die neue Grundsicherung bisher wenig. Von Isabell Karras.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T17:50:13+00:00"
-  },
-  {
-   "t": "AfD-Leaks: Es reicht für ein AfD-Verbotsverfahren",
-   "s": "Möglicherweise liefern die Daten aus dem AfD-Leak Details, die ein Verbotsverfahren rechtfertigen. Dabei genügt schon das, was bislang bekannt ist.",
-   "u": "https://taz.de/AfD-Leaks/!6221566/",
-   "q": "taz",
-   "d": "2026-10-23T17:46:00+00:00"
-  },
-  {
-   "t": "Nach tödlicher Attacke an Checkpoint: Israel riegelt Westjordanland ab",
-   "s": "Israels Premier Netanjahu macht mit dem Schicksal der Palästinenser Wahlkampf. Razzien und Militäraufmarsch kurz vor den Wahlen am Dienstag.",
-   "u": "https://taz.de/Nach-toedlicher-Attacke-an-Checkpoint/!6224066/",
-   "q": "taz",
-   "d": "2026-10-23T17:42:00+00:00"
-  },
-  {
-   "t": "Nach linkem Wahlsieg in Berlin: Schwarz-blaue Panik",
-   "s": "Die Union schießt mit aller Kraft gegen die sich formierende rot-grün-rote Regierungskoalition in Berlin. Mit ihrer Kampagne erinnert sie an die AfD.",
-   "u": "https://taz.de/Moegliche-linke-Regierungsbeteiligung/!6219111/",
-   "q": "taz",
-   "d": "2026-10-23T17:33:00+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Jugend ohne Jugend",
-   "s": "Warum gehen Fran­zö­s*in­nen auf die Straße? Wogegen sind sie? Was wollen sie erreichen? Wir haben mit einer Schülerin und einer Studentin gesprochen.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6219118/",
-   "q": "taz",
-   "d": "2026-10-23T17:32:00+00:00"
-  },
-  {
-   "t": "Israel wählt - Zukunft mit Netanjahu oder politischer Neuanfang?",
-   "s": "Am 27. Oktober wählt Israel ein neues Parlament. Es ist die erste große Abstimmung nach der Terrorattacke der Hamas vom 7. Oktober 2023. Die Menschen suchen nach Halt und schwanken zwischen altbekannter Loyalität und einem Neuanfang ohne Netanjahu.Kitzler, Jan-Christoph; Meier, Bettina; Segador, Julio",
-   "u": "https://www.deutschlandfunk.de/israel-waehlt-zukunft-mit-netanjahu-oder-politischer-neuanfang-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-23T16:40:00+00:00"
-  },
-  {
-   "t": "Neuwahlen in Serbien: Sie lehren Vučić das Fürchten",
-   "s": "In Serbien möchte Aleksandar Vučić Ministerpräsident werden. Doch eine Studentenbewegung könnte ihm gefährlich werden – obwohl sie ohne Studierende antritt.",
-   "u": "https://taz.de/Neuwahlen-in-Serbien/!6223719/",
-   "q": "taz",
-   "d": "2026-10-23T16:13:00+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-10-24T13:20:20+00:00",
+ "updated": "2026-10-24T18:10:15+00:00",
  "items": [
+  {
+   "t": "Trauer und Entsetzen in Jordanien: Anschlag auf die Oase des Friedens",
+   "s": "Am Freitag haben mutmaßliche Terroristen das Feuer auf Trauernde in einer Kirche nahe Karak in Jordanien eröffnet. Acht Menschen verloren ihr Leben, Dutzende wurden verletzt.",
+   "u": "https://taz.de/Trauer-und-Entsetzen-in-Jordanien/!6224712/",
+   "q": "taz",
+   "d": "2026-10-24T15:58:00+00:00"
+  },
   {
    "t": "Nach Mord an Tierschützer in Almaty: Wohin mit 90 heimatlosen Hunden?",
    "s": "In Kasachstan wurde der Betreiber eines privaten Tierheims ermordet. Aktivisten brachten in kürzester Zeit alle dort lebenden Hunde andernorts unter.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Australien-und-der-Krieg-im-Nahen-Osten/!6216286/",
    "q": "taz",
    "d": "2026-09-26T13:39:00+00:00"
-  },
-  {
-   "t": "Warnsignal im Südpazifik: HIV-Notstand in Fidschi",
-   "s": "Auf den Südpazifikinseln galt HIV lange als begrenztes Problem. Doch nun haben die Fidschi-Inseln einen der weltweit schnellsten Infektionsanstiege.",
-   "u": "https://taz.de/Warnsignal-im-Suedpazifik/!6215628/",
-   "q": "taz",
-   "d": "2026-09-24T05:05:00+00:00"
   }
  ]
 }

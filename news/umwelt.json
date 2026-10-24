@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-24T13:20:17+00:00",
+ "updated": "2026-10-24T18:10:12+00:00",
  "items": [
+  {
+   "t": "Merz bei der CSU: P wie Parteitag, P wie Präsidentin",
+   "s": "Auf ihrem Parteitag in München treibt die CSU vor allem die P-Frage um. Kann noch jemand Ilse Aigner auf ihrem Weg ins Bundespräsidentenamt aufhalten?",
+   "u": "https://taz.de/Merz-bei-der-CSU/!6224709/",
+   "q": "taz",
+   "d": "2026-10-24T18:04:00+00:00"
+  },
+  {
+   "t": "Jugendzentrum im Visier: Das Feindbild eines roten Göttingen",
+   "s": "Das Finanzamt Göttingen will das linke Jugendzentrum Juzi auf Antifa-Nähe überprüfen. Es soll um das Neutralitätsgebot gehen. Schmeckt nach Schlagseite.",
+   "u": "https://taz.de/Jugendzentrum-im-Visier/!6219113/",
+   "q": "taz",
+   "d": "2026-10-24T14:57:00+00:00"
+  },
   {
    "t": "CSU-Parteitag in München: Alle für Ilse",
    "s": "Nach einer bemerkenswert unsöderhaften Rede feiert die CSU auf ihrem Parteitag Markus Söder – besonders wegen eines Satzes.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/AfD-in-Mecklenburg-Vorpommern/!6223452/",
    "q": "taz",
    "d": "2026-10-21T15:19:00+00:00"
-  },
-  {
-   "t": "Demografie und Stadt-Land-Gefälle: Frauen auf dem Land sollen mehr arbeiten",
-   "s": "Demografiestudie: Besonders auf dem Land „gibt es Arbeitspotenzial“ bei den Frauen, die nur in Teilzeit ackern.",
-   "u": "https://taz.de/Demografie-und-Stadt-Land-Gefaelle/!6223330/",
-   "q": "taz",
-   "d": "2026-10-21T14:50:00+00:00"
-  },
-  {
-   "t": "Aussage zu Seenotrettung im Mittelmeer: Eigenes Ministerium widerspricht Dobrindt",
-   "s": "Der deutsche Innenminister warf der „Sea Watch“ Nähe zu Schleppern vor. Auf Nachfrage der Grünen rudert das Bundesinnenministerium nun zurück.",
-   "u": "https://taz.de/Seenotrettung-im-Mittelmeer-Eigenes-Ministerium-widerspricht-Dobrindt/!6223381/",
-   "q": "taz",
-   "d": "2026-10-21T14:36:00+00:00"
   }
  ]
 }

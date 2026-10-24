@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-24T13:20:16+00:00",
+ "updated": "2026-10-24T18:10:10+00:00",
  "items": [
+  {
+   "t": "Nach der Elternzeit: Wenn die Rückkehr in den Job schwierig wird",
+   "s": "Viele Mütter und Väter wollen nach der Elternzeit wieder arbeiten, häufig in Teilzeit. Doch nicht immer finden sie mit ihren Arbeitgebern eine Lösung. Betroffene berichten von Benachteiligungen, Fachleute fordern mehr Schutz. Von E. Özer.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/elternzeit-rueckkehr-job-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-24T14:26:17+00:00"
+  },
   {
    "t": "Deutschlandticket für Gelegenheitsfahrer: Bilger findet Idee gut",
    "s": "Schnell mit dem Handy bei Bahn oder Öffis einchecken - und der günstigste Tarif wird berechnet. Am Monatsende kostet das Ganze höchstens so viel wie das Deutschlandticket. Der Verkehrsminister findet die Idee gut.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
    "q": "Tagesschau",
    "d": "2026-10-21T20:47:20+00:00"
-  },
-  {
-   "t": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
-   "s": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. In Deutschland sind Internetseiten mehrerer Städte vorsichtshalber abgeschaltet.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T17:32:26+00:00"
   }
  ]
 }
