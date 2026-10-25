@@ -1,20 +1,27 @@
 {
  "name": "Ausland",
- "updated": "2026-10-25T18:24:28+00:00",
+ "updated": "2026-10-25T23:17:06+00:00",
  "items": [
+  {
+   "t": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
+   "s": "Brasiliens Wähler sehen Gewalt und Kriminalität als das größte Problem im Land. Die Macht der Banden wird immer größer. Die Kandidaten bei der Stichwahl ums Präsidentenamt heute stehen dabei für unterschiedliche Lösungen. Von Xenia Böttcher.",
+   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T20:43:16+00:00"
+  },
+  {
+   "t": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
+   "s": "Die rechtspopulistische französische Präsidentschaftskandidatin Le Pen führt derzeit in den Umfragen. Zum Auftakt der Wahlkampagne ihres Rassemblement National warb sie für einen politischen Neuanfang.",
+   "u": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T19:25:14+00:00"
+  },
   {
    "t": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
    "s": "Lange Schlangen vor den Wahllokalen in Serbien: Viele Menschen wünschen sich Veränderung. Bei der Parlamentswahl setzt die Studentenbewegung auf einen Erfolg. Doch auch Präsident Vucic hat überzeugte Anhänger.",
    "u": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html",
    "q": "Tagesschau",
    "d": "2026-10-25T16:24:20+00:00"
-  },
-  {
-   "t": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
-   "s": "Brasiliens Wähler sehen Gewalt und Kriminalität als das größte Problem im Land. Die Macht der Banden wird immer größer. Die Kandidaten bei der Stichwahl ums Präsidentenamt heute stehen dabei für unterschiedliche Lösungen. Von Xenia Böttcher.",
-   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T15:16:47+00:00"
   },
   {
    "t": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html",
    "q": "Tagesschau",
    "d": "2026-10-23T15:06:05+00:00"
-  },
-  {
-   "t": "Russland und Ukraine tauschen erneut Gefangene aus",
-   "s": "In einem Gefangenenaustausch haben Russland und die Ukraine jeweils 270 Personen übergeben. Die Aktion ist Teil einer vor Monaten geplanten Vereinbarung. Unter den Freigelassenen sind auch ukrainische Soldaten, die für tot gehalten wurden.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-gefangenenaustausch-150.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T13:58:44+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-25T18:24:33+00:00",
+ "updated": "2026-10-25T23:17:11+00:00",
  "items": [
+  {
+   "t": "Zwischenwahlen in den USA: Der teuerste Wahlkampf aller Zeiten",
+   "s": "Noch nie sind für Zwischenwahlen in den USA so große Wahlkampfspenden geflossen wie in diesem Jahr. Einige Großspender ragen besonders heraus.",
+   "u": "https://taz.de/Zwischenwahlen-in-den-USA/!6223709/",
+   "q": "taz",
+   "d": "2026-10-25T19:20:00+00:00"
+  },
   {
    "t": "US-Philosophin über Midterms: „Immer mehr Leute fühlen sich von Trump verraten“",
    "s": "Im Wirbel der multiplen Krisen schwinde die Macht der MAGA-Bewegung, sagt die US-Philosophin Nancy Fraser – das sei eine Chance für eine neue Linke.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Protest-gegen-Rechenzentren-in-den-USA/!6220808/",
    "q": "taz",
    "d": "2026-10-15T11:04:00+00:00"
-  },
-  {
-   "t": "Gewaltsame Festnahmen in USA: Die Tricks der Abschiebepolizei, um Widerstand zu vermeiden",
-   "s": "Die US-Einwanderungspolizei ICE rief in den Städten massiven Widerstand hervor. Nun operiert die Behörde dezentral. Tausende sind betroffen.",
-   "u": "https://taz.de/Gewalt-der-US-Abschiebepolizei/!6221488/",
-   "q": "taz",
-   "d": "2026-10-14T13:49:00+00:00"
   }
  ]
 }
