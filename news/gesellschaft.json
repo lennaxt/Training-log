@@ -1,10 +1,45 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-25T08:26:27+00:00",
+ "updated": "2026-10-25T13:43:12+00:00",
  "items": [
   {
+   "t": "Massenproteste in Frankreich: Mehr Regen als Wasserwerfer",
+   "s": "Beim zweiten großen Protesttag in Frankreich kommt es nur vereinzelt zu Gewalt. Hunderttausende gehen in Paris und anderen Städten auf die Straße.",
+   "u": "https://taz.de/Massenproteste-in-Frankreich/!6224783/",
+   "q": "taz",
+   "d": "2026-10-25T12:43:00+00:00"
+  },
+  {
+   "t": "Eskalationen in Frankreich: Die Schuld der Macht",
+   "s": "Laut Regierung und rechter Presse ist die Linkspartei La France insoumise für die Unruhen in Frankreich verantwortlich. Unser Autor findet den Fehler woanders.",
+   "u": "https://taz.de/Eskalationen-in-Frankreich/!6223418/",
+   "q": "taz",
+   "d": "2026-10-25T10:49:00+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Wem gehört die Wut?",
+   "s": "Wer die Randalierer in Frankreich nur als Kriminelle sieht, übersieht die gesellschaftlichen Ursachen der Gewalt, sagt der französische Schriftsteller Édouard Louis. Wir müssen genauer hinsehen.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6219005/",
+   "q": "taz",
+   "d": "2026-10-25T10:49:00+00:00"
+  },
+  {
+   "t": "Bundeswehr nimmt an Ukraine-Manöver teil: Kyjiws Verbündete wollen den Waffenstillstand üben",
+   "s": "Die Bundeswehr wird mit Stabsoffizieren am ersten gemeinsamen Militärmanöver der geplanten Ukraine-Friedenstruppe teilnehmen. Polen ist der Gastgeber.",
+   "u": "https://taz.de/Bundeswehr-nimmt-an-Ukraine-Manoever-teil/!6224722/",
+   "q": "taz",
+   "d": "2026-10-25T09:03:00+00:00"
+  },
+  {
+   "t": "Nach Protesten in Frankreich: Mindestens 1.000 Festnahmen",
+   "s": "In Frankreich gehen Hunderttausende Menschen friedlich auf die Straßen. Es gibt aber auch wieder Gewalt – trotz eines Großaufgebots der Polizei.",
+   "u": "https://taz.de/Nach-Protesten-in-Frankreich/!6224723/",
+   "q": "taz",
+   "d": "2026-10-25T08:51:00+00:00"
+  },
+  {
    "t": "Präsidentschaftswahl in Bulgarien: Kreml-Freundin ist klare Favoritin",
-   "s": "Staatschefin Iijana Jotowa dürfte die erste Runde der Präsidentenwahl am Sonntag für sich entscheiden. Die Ex-Sozialistin ist klar auf Russland-Kurs.",
+   "s": "Staatschefin Ilijana Jotowa dürfte die erste Runde der Präsidentenwahl am Sonntag für sich entscheiden. Die Ex-Sozialistin ist klar auf Russland-Kurs.",
    "u": "https://taz.de/Praesidentschaftswahl-in-Bulgarien/!6224720/",
    "q": "taz",
    "d": "2026-10-25T07:29:00+00:00"
@@ -31,20 +66,6 @@
    "d": "2026-10-24T14:47:00+00:00"
   },
   {
-   "t": "Eskalationen in Frankreich: Die Schuld der Macht",
-   "s": "Laut Regierung und rechter Presse ist die Linkspartei La France insoumise für die Unruhen in Frankreich verantwortlich. Unser Autor findet den Fehler woanders.",
-   "u": "https://taz.de/Eskalationen-in-Frankreich/!6223418/",
-   "q": "taz",
-   "d": "2026-10-24T13:18:00+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Wem gehört die Wut?",
-   "s": "Wer die Randalierer in Frankreich nur als Kriminelle sieht, übersieht die gesellschaftlichen Ursachen der Gewalt, sagt der französische Schriftsteller Édouard Louis. Wir müssen genauer hinsehen.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6219005/",
-   "q": "taz",
-   "d": "2026-10-24T11:39:00+00:00"
-  },
-  {
    "t": "Protesttag in Frankreich: Anspannung vor landesweiten Demonstrationen",
    "s": "70.000 Polizeibeamte, verbotene Kundgebungen und verrammelte Fenster: Frankreich bereitet sich auf mögliche Ausschreitungen vor. Selbst bei erlaubten Protestzügen gibt es Streit um den Weg.",
    "u": "https://taz.de/Anspannung-in-Frankreich-vor-landesweiten-Demonstrationen/!6224699/",
@@ -59,7 +80,7 @@
    "d": "2026-10-24T08:50:00+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Moskau und Kyjiw stimmen Waffenruhe in Oleschky zu",
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Moskau und Kyjiw stimmen Waffenruhe in Oleschky zu",
    "s": "Die US-Regierung verkündet eine Feuerpause in der umkämpften Frontstadt. First Lady Melanie Trump solll dabei vermittelt haben. Erneut werden Gefangene ausgetauscht.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6224698/",
    "q": "taz",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Gen-Z-regelt-Proteste/!6223733/",
    "q": "taz",
    "d": "2026-10-22T18:52:00+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Marseille bangt und hofft",
-   "s": "In der zweitgrößten Stadt Frankreichs haben die Proteste vom Samstag eine Spur der Verwüstung hinterlassen. Am Wochenende stehen erneut Demonstrationen an.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6223734/",
-   "q": "taz",
-   "d": "2026-10-22T17:25:00+00:00"
-  },
-  {
-   "t": "EU-Erweiterung: Wartesaal mit Wegzehrung",
-   "s": "Friedrich Merz macht Druck, den Westbalkan an die EU heranzuführen. Es wird nur nicht die Haupthalle, sondern ein Nebenraum.",
-   "u": "https://taz.de/EU-Erweiterung/!6223765/",
-   "q": "taz",
-   "d": "2026-10-22T16:38:00+00:00"
-  },
-  {
-   "t": "Hohe Spritpreise: Lkw-Streiks in Italien sorgen für leere Supermarktregale",
-   "s": "Leere Fleisch- und Fischregale, überteuerte Tomaten und Millionenverluste bei Mozzarella-Produzenten: In Italien blockieren Trucker Straßen, Häfen und Raffinerien.",
-   "u": "https://taz.de/Hohe-Spritpreise/!6223735/",
-   "q": "taz",
-   "d": "2026-10-22T16:33:00+00:00"
   }
  ]
 }

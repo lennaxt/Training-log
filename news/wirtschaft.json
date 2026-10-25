@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-25T08:26:25+00:00",
+ "updated": "2026-10-25T13:43:09+00:00",
  "items": [
+  {
+   "t": "Wie ein Dorf in Brandenburg seinen Gasthof retten will",
+   "s": "In vielen Dörfern verschwinden die letzten Gaststätten. Im brandenburgischen Leißnitz wollen die Einwohner das verhindern. Gemeinsam wollen sie einen Ort erhalten, an dem Menschen zusammenkommen. Von Jacqueline Piwon.",
+   "u": "https://www.tagesschau.de/wirtschaft/dorfkneipe-rettung-brandenburg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T12:06:21+00:00"
+  },
   {
    "t": "Wie Erdwärme die Wärmeversorgung verändern soll",
    "s": "In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen. Von M. Kell und H. Christ.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/ki-texte-wasserzeichen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-22T03:30:26+00:00"
-  },
-  {
-   "t": "Ausschüsse im EU-Parlament stimmen ab zum Verbrenner-Kompromiss",
-   "s": "Nach der Einigung der Unterhändler zur Abkehr vom \"Verbrenner-Aus\" befassen sich heute Ausschüsse im EU-Parlament damit. Die Abstimmungen werden zeigen, ob der Kompromiss hält. Von Christian Feld und Jean-Marie Magro.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbrenner-aus-124.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T03:05:08+00:00"
   }
  ]
 }

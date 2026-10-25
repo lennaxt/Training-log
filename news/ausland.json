@@ -1,20 +1,41 @@
 {
  "name": "Ausland",
- "updated": "2026-10-25T08:26:23+00:00",
+ "updated": "2026-10-25T13:43:08+00:00",
  "items": [
   {
-   "t": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-   "s": "Tech-Milliardär Musk wirft der Ukraine vor, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Das System sei kein \"Mittel zum Töten\", sagte Musk. Die Sicherheitslücke sei inzwischen aber geschlossen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
+   "t": "Proteste in Europa - auch mit Gewalt",
+   "s": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende.",
+   "u": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-25T07:45:03+00:00"
+   "d": "2026-10-25T12:21:49+00:00"
   },
   {
    "t": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
    "s": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
    "u": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-25T07:10:15+00:00"
+   "d": "2026-10-25T11:14:29+00:00"
+  },
+  {
+   "t": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
+   "s": "Die Demokraten hoffen bei den Zwischenwahlen auf einen Sieg. Nun gibt es Wahlkampfhilfe vom früheren US-Präsidenten Obama. Der wirft Trump Korruption vor - und lästert über die Renovierungsarbeiten im Weißen Haus.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T10:35:11+00:00"
+  },
+  {
+   "t": "Israel will Westjordanland am Wahltag abriegeln",
+   "s": "Vor der Parlamentswahl in Israel verschärft die Armee ihr Vorgehen im Westjordanland. Demnach sollen sämtliche Übergänge zu dem Palästinensergebiet geschlossen werden, teilte das Militär mit.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T08:51:16+00:00"
+  },
+  {
+   "t": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
+   "s": "Tech-Milliardär Musk wirft der Ukraine vor, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Das System sei kein \"Mittel zum Töten\", sagte Musk. Die Sicherheitslücke sei inzwischen aber geschlossen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T07:45:03+00:00"
   },
   {
    "t": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
    "q": "Tagesschau",
    "d": "2026-10-23T12:55:47+00:00"
-  },
-  {
-   "t": "Finnland genehmigt unterirdisches Atommüll-Endlager",
-   "s": "Finnland setzt zur Stromgewinnung auch auf Kernenergie - und hat nun grünes Licht für den Betrieb eines unterirdischen Endlagers für Tausende Tonnen hochradioaktiven Atommüll gegeben. Noch fehlt allerdings eine letzte Genehmigung.",
-   "u": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T10:04:33+00:00"
-  },
-  {
-   "t": "Vor Knesset-Wahl: Junge Israelis zwischen Trauma und Zukunftssorge",
-   "s": "Der Terrorangriff der Hamas vor gut drei Jahren hat auch bei den jungen Wählern Israels tiefe Spuren hinterlassen. Sicherheit, Identität und die Sorge vor dem nächsten Krieg beeinflussen ihre Wahlentscheidung. Von Jan-Christoph Kitzler.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-parlamentswahlen-erstwaehler-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T09:33:59+00:00"
-  },
-  {
-   "t": "Studentenbewegung: Zehntausende protestieren vor Neuwahl in Serbien",
-   "s": "An Sonntag wählen die Serben eine neues Parlament. Die oppositionelle \"Studentenliste\" tritt gegen die Partei Vucics an - Zehntausende Menschen kamen zu ihrer Abschlusskundgebung in Belgrad.",
-   "u": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T05:26:10+00:00"
   }
  ]
 }
