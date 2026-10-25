@@ -1,10 +1,31 @@
 {
  "name": "Ausland",
- "updated": "2026-10-24T23:16:24+00:00",
+ "updated": "2026-10-25T08:26:23+00:00",
  "items": [
   {
+   "t": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
+   "s": "Tech-Milliardär Musk wirft der Ukraine vor, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Das System sei kein \"Mittel zum Töten\", sagte Musk. Die Sicherheitslücke sei inzwischen aber geschlossen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T07:45:03+00:00"
+  },
+  {
+   "t": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
+   "s": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
+   "u": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T07:10:15+00:00"
+  },
+  {
+   "t": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
+   "s": "Lula oder Bolsonaro - beide Präsidentschaftskandidaten liegen vor der Stichwahl in Brasilien gleichauf. Das Land ist tief gespalten. Dabei könnten gerade die Unentschlossenen zum entscheidenden Faktor werden. Von Anne Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T04:07:12+00:00"
+  },
+  {
    "t": "Hunderttausende protestieren in Frankreich - neue Unruhen",
-   "s": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben heute landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
+   "s": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben am Samstag landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-24T19:00:39+00:00"
@@ -39,7 +60,7 @@
   },
   {
    "t": "Stichwahl in Brasilien: Flávio Bolsonaro - der Kandidat des Vaters",
-   "s": "Flávio Bolsonaro will seinen verurteilten Vater als Präsident beerben - und wohl auch aus der Haft befreien. Trotz allem: Für seine Anhänger ist der Familienname sein wichtigstes Kapital bei der morgigen Stichwahl. Von A. Herrberg und L. Bilard.",
+   "s": "Flávio Bolsonaro will seinen verurteilten Vater als Präsident beerben - und wohl auch aus der Haft befreien. Trotz allem: Für seine Anhänger ist der Familienname sein wichtigstes Kapital bei der heutigen Stichwahl. Von A. Herrberg und L. Bilard.",
    "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-bolsonaro-106.html",
    "q": "Tagesschau",
    "d": "2026-10-24T13:36:26+00:00"
@@ -64,13 +85,6 @@
    "u": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
    "q": "Tagesschau",
    "d": "2026-10-24T01:01:43+00:00"
-  },
-  {
-   "t": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
-   "s": "Beim ersten Treffen dieser Art hat Außenminister Wadephul mit sieben anderen Chefdiplomaten aus Europa und Nahost in Istanbul über Kriege und Konflikte beraten. Seine Bilanz: positiv. Künftig soll es regelmäßige Treffen geben. Von C. Buttkereit.",
-   "u": "https://www.tagesschau.de/ausland/istanbul-wadephul-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T17:43:10+00:00"
   },
   {
    "t": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html",
    "q": "Tagesschau",
    "d": "2026-10-23T05:26:10+00:00"
-  },
-  {
-   "t": "In 28 Städten: Demonstrationen für liberaleres Abtreibungsrecht in Polen",
-   "s": "In 28 polnischen Städten wurde für die Liberalisierung des Abtreibungsgesetzes demonstriert. Frauenorganisationen werfen der liberalkonservativen Regierung Tusk Untätigkeit vor. Von Palina Milling.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-abtreibung-protest-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T05:13:58+00:00"
-  },
-  {
-   "t": "Tote und Verletzte: Erdbeben erschüttert Norden Tibets",
-   "s": "Tibet wurde von einem schweren Erdbeben der Stärke 7,0 getroffen. Es gibt mindestens 16 Tote und Dutzende Verletzte, Hunderte Gebäude stürzten ein. Seitdem gab es mehrere Nachbeben.",
-   "u": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T03:01:38+00:00"
   }
  ]
 }

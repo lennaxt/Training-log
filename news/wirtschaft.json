@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-24T23:16:25+00:00",
+ "updated": "2026-10-25T08:26:25+00:00",
  "items": [
+  {
+   "t": "Wie Erdwärme die Wärmeversorgung verändern soll",
+   "s": "In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen. Von M. Kell und H. Christ.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T04:10:34+00:00"
+  },
   {
    "t": "Nach der Elternzeit: Wenn die Rückkehr in den Job schwierig wird",
    "s": "Viele Mütter und Väter wollen nach der Elternzeit wieder arbeiten, häufig in Teilzeit. Doch nicht immer finden sie mit ihren Arbeitgebern eine Lösung. Betroffene berichten von Benachteiligungen, Fachleute fordern mehr Schutz. Von E. Özer.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbrenner-aus-124.html",
    "q": "Tagesschau",
    "d": "2026-10-22T03:05:08+00:00"
-  },
-  {
-   "t": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
-   "s": "Acht Jahre nach dem Skandal um den Missbrauch von Nutzerdaten ist der Facebookkonzern Meta in New Mexico zu einer Milliardenstrafe verurteilt worden. Der Fall solle anderen Tech-Unternehmen eine Warnung sein, sagte der Generalstaatsanwalt.",
-   "u": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T20:47:20+00:00"
   }
  ]
 }

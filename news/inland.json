@@ -1,20 +1,41 @@
 {
  "name": "Inland",
- "updated": "2026-10-24T23:16:23+00:00",
+ "updated": "2026-10-25T08:26:23+00:00",
  "items": [
+  {
+   "t": "Präsidentschaftswahl in Bulgarien: Kreml-Freundin ist klare Favoritin",
+   "s": "Staatschefin Iijana Jotowa dürfte die erste Runde der Präsidentenwahl am Sonntag für sich entscheiden. Die Ex-Sozialistin ist klar auf Russland-Kurs.",
+   "u": "https://taz.de/Praesidentschaftswahl-in-Bulgarien/!6224720/",
+   "q": "taz",
+   "d": "2026-10-25T07:29:00+00:00"
+  },
+  {
+   "t": "CSU-Parteitag zwischen Hype und Hybris",
+   "s": "Bei ihrem Münchner Parteitag präsentiert sich die CSU als bundesweit relevante Kraft - trotz selbstkritischer Töne von Markus Söder. CDU-Chef Friedrich Merz wird vor allem fürs Begrüßen der bayerischen Bundespräsidentinnen-Hoffnung Ilse Aigner bejubelt.Wurzel, Steffen; Krone, Tobias; Procyk, Milan",
+   "u": "https://www.deutschlandfunk.de/der-csu-parteitag-zwischen-hype-und-hybris-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-25T07:00:00+00:00"
+  },
   {
    "t": "Merz bei der CSU: P wie Parteitag, P wie Präsidentin",
    "s": "Auf ihrem Parteitag in München treibt die CSU vor allem die P-Frage um. Kann noch jemand Ilse Aigner auf ihrem Weg ins Bundespräsidentenamt aufhalten?",
    "u": "https://taz.de/Merz-bei-der-CSU/!6224709/",
    "q": "taz",
-   "d": "2026-10-24T18:04:00+00:00"
+   "d": "2026-10-24T19:04:00+00:00"
   },
   {
    "t": "Wahlen in Israel: Wenn wirklich jede Stimme zählt",
    "s": "Netanjahus rechtsextreme Regierung hat trotz allem weiterhin treue Anhänger. Was steht bei der Wahl alles auf dem Spiel?",
    "u": "https://taz.de/Wahlen-in-Israel/!6219006/",
    "q": "taz",
-   "d": "2026-10-24T17:56:00+00:00"
+   "d": "2026-10-24T18:56:00+00:00"
+  },
+  {
+   "t": "Trauer und Entsetzen in Jordanien: Anschlag auf die Oase des Friedens",
+   "s": "Am Freitag haben mutmaßliche Terroristen das Feuer auf Trauernde in einer Kirche nahe Karak in Jordanien eröffnet. Acht Menschen verloren ihr Leben, Dutzende wurden verletzt.",
+   "u": "https://taz.de/Trauer-und-Entsetzen-in-Jordanien/!6224712/",
+   "q": "taz",
+   "d": "2026-10-24T16:58:00+00:00"
   },
   {
    "t": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
@@ -31,25 +52,32 @@
    "d": "2026-10-24T16:19:11+00:00"
   },
   {
-   "t": "Trauer und Entsetzen in Jordanien: Anschlag auf die Oase des Friedens",
-   "s": "Am Freitag haben mutmaßliche Terroristen das Feuer auf Trauernde in einer Kirche nahe Karak in Jordanien eröffnet. Acht Menschen verloren ihr Leben, Dutzende wurden verletzt.",
-   "u": "https://taz.de/Trauer-und-Entsetzen-in-Jordanien/!6224712/",
-   "q": "taz",
-   "d": "2026-10-24T15:58:00+00:00"
-  },
-  {
    "t": "10 Jahre Dschungel von Calais: „Überall sind Zäune“",
    "s": "Vor zehn Jahren räumten französische Behörden das Jungle genannte Geflüchtetencamp am Ärmelkanal. Bis heute hat es seine Spuren hinterlassen. Und immer wieder entstehen neue Camps.",
    "u": "https://taz.de/10-Jahre-Dschungel-von-Calais/!6222215/",
    "q": "taz",
-   "d": "2026-10-24T15:11:00+00:00"
+   "d": "2026-10-24T16:11:00+00:00"
   },
   {
    "t": "Jugendzentrum im Visier: Das Feindbild eines roten Göttingen",
    "s": "Das Finanzamt Göttingen will das linke Jugendzentrum Juzi auf Antifa-Nähe überprüfen. Es soll um das Neutralitätsgebot gehen. Schmeckt nach Schlagseite.",
    "u": "https://taz.de/Jugendzentrum-im-Visier/!6219113/",
    "q": "taz",
-   "d": "2026-10-24T14:57:00+00:00"
+   "d": "2026-10-24T15:57:00+00:00"
+  },
+  {
+   "t": "+++ Protesttag in Frankreich +++: Ausschreitungen bei Protesten in Paris",
+   "s": "Die Polizei in Paris und weiteren französischen Städten geht mit Schlagstöcken und Tränengas gegen Demonstrierende vor. Landesweit beteiligen sich Hunderttausende an Protesten.",
+   "u": "https://taz.de/-Protesttag-in-Frankreich-/!6224710/",
+   "q": "taz",
+   "d": "2026-10-24T15:17:00+00:00"
+  },
+  {
+   "t": "Serbien vor der Parlamentswahl: „Die Angst hat die Seite gewechselt“",
+   "s": "Die Liste der Studenten hat erstmals Chancen, die Herrschaft von Ex-Präsident Aleksandar Vučić ins Wanken zu bringen. Sie ist auf alles vorbereitet.",
+   "u": "https://taz.de/Serbien-vor-der-Parlamentswahl/!6224678/",
+   "q": "taz",
+   "d": "2026-10-24T14:47:00+00:00"
   },
   {
    "t": "Was wird aus der Ministerpräsidentenkonferenz bei AfD-Beteiligung?",
@@ -59,13 +87,6 @@
    "d": "2026-10-24T14:34:00+00:00"
   },
   {
-   "t": "+++ Protesttag in Frankreich +++: Ausschreitungen bei Protesten in Paris",
-   "s": "Die Polizei in Paris und weiteren französischen Städten geht mit Schlagstöcken und Tränengas gegen Demonstrierende vor. Landesweit beteiligen sich Hunderttausende an Protesten.",
-   "u": "https://taz.de/-Protesttag-in-Frankreich-/!6224710/",
-   "q": "taz",
-   "d": "2026-10-24T14:17:00+00:00"
-  },
-  {
    "t": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
    "s": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. In Nacht hat es nun im Kehlsteinhaus am Obersalzberg bei Berchtesgaden gebrannt. Die Polizei vermutet Brandstiftung und hat einen Verdächtigen festgenommen.",
    "u": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
@@ -73,11 +94,11 @@
    "d": "2026-10-24T13:58:56+00:00"
   },
   {
-   "t": "Serbien vor der Parlamentswahl: „Die Angst hat die Seite gewechselt“",
-   "s": "Die Liste der Studenten hat erstmals Chancen, die Herrschaft von Ex-Präsident Aleksandar Vučić ins Wanken zu bringen. Sie ist auf alles vorbereitet.",
-   "u": "https://taz.de/Serbien-vor-der-Parlamentswahl/!6224678/",
+   "t": "Eskalationen in Frankreich: Die Schuld der Macht",
+   "s": "Laut Regierung und rechter Presse ist die Linkspartei La France insoumise für die Unruhen in Frankreich verantwortlich. Unser Autor findet den Fehler woanders.",
+   "u": "https://taz.de/Eskalationen-in-Frankreich/!6223418/",
    "q": "taz",
-   "d": "2026-10-24T13:47:00+00:00"
+   "d": "2026-10-24T13:18:00+00:00"
   },
   {
    "t": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
@@ -87,18 +108,25 @@
    "d": "2026-10-24T12:19:07+00:00"
   },
   {
-   "t": "Eskalationen in Frankreich: Die Schuld der Macht",
-   "s": "Laut Regierung und rechter Presse ist die Linkspartei La France insoumise für die Unruhen in Frankreich verantwortlich. Unser Autor findet den Fehler woanders.",
-   "u": "https://taz.de/Eskalationen-in-Frankreich/!6223418/",
-   "q": "taz",
-   "d": "2026-10-24T12:18:00+00:00"
-  },
-  {
    "t": "Nach Mord an Tierschützer in Almaty: Wohin mit 90 heimatlosen Hunden?",
    "s": "In Kasachstan wurde der Betreiber eines privaten Tierheims ermordet. Aktivisten brachten in kürzester Zeit alle dort lebenden Hunde andernorts unter.",
    "u": "https://taz.de/Nach-Mord-an-Tierschuetzer-in-Almaty/!6223610/",
    "q": "taz",
-   "d": "2026-10-24T11:15:00+00:00"
+   "d": "2026-10-24T12:15:00+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Wem gehört die Wut?",
+   "s": "Wer die Randalierer in Frankreich nur als Kriminelle sieht, übersieht die gesellschaftlichen Ursachen der Gewalt, sagt der französische Schriftsteller Édouard Louis. Wir müssen genauer hinsehen.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6219005/",
+   "q": "taz",
+   "d": "2026-10-24T11:39:00+00:00"
+  },
+  {
+   "t": "Offensive im Westjordanland: Netanjahu kündigt „große Überraschung“ für Autonomiebehörde an",
+   "s": "Die israelische Großoffensive hat begonnen. Ob dabei die Selbstverwaltung der Palästinenser zerschlagen werden soll, will der Premier in den Medien nicht bestätigen.",
+   "u": "https://taz.de/Offensive-im-Westjordanland/!6224705/",
+   "q": "taz",
+   "d": "2026-10-24T11:35:00+00:00"
   },
   {
    "t": "Debatte über SPD-Vorsitz: Mit oder ohne Klingbeil?",
@@ -108,18 +136,18 @@
    "d": "2026-10-24T10:52:30+00:00"
   },
   {
-   "t": "Proteste in Frankreich: Wem gehört die Wut?",
-   "s": "Wer die Randalierer in Frankreich nur als Kriminelle sieht, übersieht die gesellschaftlichen Ursachen der Gewalt, sagt der französische Schriftsteller Édouard Louis. Wir müssen genauer hinsehen.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6219005/",
+   "t": "Protesttag in Frankreich: Anspannung vor landesweiten Demonstrationen",
+   "s": "70.000 Polizeibeamte, verbotene Kundgebungen und verrammelte Fenster: Frankreich bereitet sich auf mögliche Ausschreitungen vor. Selbst bei erlaubten Protestzügen gibt es Streit um den Weg.",
+   "u": "https://taz.de/Anspannung-in-Frankreich-vor-landesweiten-Demonstrationen/!6224699/",
    "q": "taz",
-   "d": "2026-10-24T10:39:00+00:00"
+   "d": "2026-10-24T09:18:00+00:00"
   },
   {
-   "t": "Offensive im Westjordanland: Netanjahu kündigt „große Überraschung“ für Autonomiebehörde an",
-   "s": "Die israelische Großoffensive hat begonnen. Ob dabei die Selbstverwaltung der Palästinenser zerschlagen werden soll, will der Premier in den Medien nicht bestätigen.",
-   "u": "https://taz.de/Offensive-im-Westjordanland/!6224705/",
+   "t": "CSU-Parteitag in München: Alle für Ilse",
+   "s": "Nach einer bemerkenswert unsöderhaften Rede feiert die CSU auf ihrem Parteitag Markus Söder – besonders wegen eines Satzes.",
+   "u": "https://taz.de/CSU-Parteitag-in-Muenchen/!6224692/",
    "q": "taz",
-   "d": "2026-10-24T10:35:00+00:00"
+   "d": "2026-10-24T09:05:00+00:00"
   },
   {
    "t": "Verletzte und Schäden nach \"Sturmtief\" Luise",
@@ -129,46 +157,18 @@
    "d": "2026-10-24T08:59:50+00:00"
   },
   {
-   "t": "Protesttag in Frankreich: Anspannung vor landesweiten Demonstrationen",
-   "s": "70.000 Polizeibeamte, verbotene Kundgebungen und verrammelte Fenster: Frankreich bereitet sich auf mögliche Ausschreitungen vor. Selbst bei erlaubten Protestzügen gibt es Streit um den Weg.",
-   "u": "https://taz.de/Anspannung-in-Frankreich-vor-landesweiten-Demonstrationen/!6224699/",
-   "q": "taz",
-   "d": "2026-10-24T08:18:00+00:00"
-  },
-  {
-   "t": "CSU-Parteitag in München: Alle für Ilse",
-   "s": "Nach einer bemerkenswert unsöderhaften Rede feiert die CSU auf ihrem Parteitag Markus Söder – besonders wegen eines Satzes.",
-   "u": "https://taz.de/CSU-Parteitag-in-Muenchen/!6224692/",
-   "q": "taz",
-   "d": "2026-10-24T08:05:00+00:00"
-  },
-  {
    "t": "Wer wird SPD-Vorsitzende?: Warten auf Manu",
    "s": "SPD-Frauen beklagen den Sexismus der Union – aber auch die eigene Partei ist nach dem Rückzug von Bärbel Bas ein Männerclub. Kommt jetzt Manuela Schwesig?",
    "u": "https://taz.de/Wer-wird-SPD-Vorsitzende/!6223638/",
    "q": "taz",
-   "d": "2026-10-24T07:41:00+00:00"
+   "d": "2026-10-24T08:41:00+00:00"
   },
   {
    "t": "+++ Nachrichten im Ukraine-Krieg +++: Moskau und Kyjiw stimmen Waffenruhe in Oleschky zu",
    "s": "Die US-Regierung verkündet eine Feuerpause in der umkämpften Frontstadt. First Lady Melanie Trump solll dabei vermittelt haben. Erneut werden Gefangene ausgetauscht.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6224698/",
    "q": "taz",
-   "d": "2026-10-24T06:57:00+00:00"
-  },
-  {
-   "t": "Soziologe Urban betont das Recht auf Vergesellschaftung",
-   "s": "Gewerkschaftler und Soziologe Hans-Jürgen Urban hat das Recht auf Vergesellschaftung von Wohnraum verteidigt. Die Attacken aus Bayern auf die Berliner Koalitionspläne trügen autoritäre Züge. Das Grundgesetz sehe diese Möglichkeit ausdrücklich vor.Schulz, Josephine",
-   "u": "https://www.deutschlandfunk.de/brief-an-bundesregierung-zu-gg-15-interview-hans-juergen-urban-ehem-ig-metall-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-24T06:10:00+00:00"
-  },
-  {
-   "t": "Wie sieht die Zukunft der Raffinerien aus?",
-   "s": "Deutschlands Raffinerien stehen vor einem grundlegenden Wandel: Weg von fossilen Rohstoffen, hin zu klimafreundlicheren Alternativen. Wirtschaftsministerin Reiche will dafür eine Strategie vorlegen. Doch Experten sind skeptisch. Von Oda Lambrecht.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-24T01:06:57+00:00"
+   "d": "2026-10-24T07:57:00+00:00"
   }
  ]
 }

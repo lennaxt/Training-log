@@ -1,20 +1,20 @@
 {
  "name": "Wissen",
- "updated": "2026-10-24T23:16:26+00:00",
+ "updated": "2026-10-25T08:26:25+00:00",
  "items": [
+  {
+   "t": "Sommerzeit beendet - Uhren um eine Stunde zurückgestellt",
+   "s": "Die Sommerzeit ist zu Ende, die Uhren wurden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T01:11:58+00:00"
+  },
   {
    "t": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
    "s": "Was einmal Energie sparen sollte, ist jetzt für viele ein Ärgernis. Die EU-Kommission schlug 2018 vor, die Zeitumstellung abzuschaffen. Nur: Welche Zeit soll gelten? Forschende haben eine Antwort. Von Wiebke Drescher.",
    "u": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html",
    "q": "Tagesschau",
    "d": "2026-10-24T08:55:12+00:00"
-  },
-  {
-   "t": "Sommerzeit endet - Um 3:00 Uhr wird an der Uhr gedreht",
-   "s": "Es ist wieder so weit: Die Uhren werden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
-   "q": "Tagesschau",
-   "d": "2026-10-24T08:54:51+00:00"
   },
   {
    "t": "Etwa 50.000 Hitzetote im Sommer 2026 in Europa",
