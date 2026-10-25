@@ -1,7 +1,91 @@
 {
  "name": "Inland",
- "updated": "2026-10-25T13:43:08+00:00",
+ "updated": "2026-10-25T18:24:28+00:00",
  "items": [
+  {
+   "t": "Wahlen auf dem Balkan: Populisten sind schlecht für das Wachstum",
+   "s": "Während in den liberal regierten Ländern Polen und Ungarn die Wirtschaft in Fahrt gerät, kommen Bulgarien, Serbien und Rumänien unter die Räder.",
+   "u": "https://taz.de/Wahlen-auf-dem-Balkan/!6224750/",
+   "q": "taz",
+   "d": "2026-10-25T17:28:00+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Lektion in Sachen Demokratie",
+   "s": "Hunderttausende sind in Frankreich trotz Demonstrationsverboten auf die Straße gegangen. Statt sie anzuhören, fährt die Regierung eine Verleumdungskampagne.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6224751/",
+   "q": "taz",
+   "d": "2026-10-25T17:24:00+00:00"
+  },
+  {
+   "t": "KI im Kinderzimmer - Wenn ChatGPT Plüschohren bekommt",
+   "s": "Künstliche Intelligenz ist nicht nur im Büro auf dem Vormarsch, sondern auch im Kinderzimmer. Sprechende Kuscheltiere lassen Kinderherzen höher schlagen, aber werfen Fragen auf: Wie steht es um Datenschutz, Sozialverhalten und heikle Gesprächsthemen? (Erstsendung 24.8.26)Loll, Anna",
+   "u": "https://www.deutschlandfunk.de/ki-im-kinderspielzeug-wenn-chatgpt-plueschohren-kriegt-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-25T17:10:00+00:00"
+  },
+  {
+   "t": "Protestkultur: Die historischen Wurzeln der Gewalt in Frankreich",
+   "s": "Die Protestkultur ist in Frankreich tief verankert. Matthias Waechter ist dennoch überrascht, wie schnell sich einzelne Schülerproteste zu einer nationalen Bewegung entwickelt haben. Der Historiker sieht darin auch Parallelen zur Revolution von 1789.Detjen, Stephan",
+   "u": "https://www.deutschlandfunk.de/die-historischen-wurzeln-der-gewalt-in-frankreich-matthias-waechter-im-gespraech-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-25T16:05:00+00:00"
+  },
+  {
+   "t": "Kurz vor den Wahlen in Israel: Netanjahu setzt im Wahlkampf nochmal einen drauf",
+   "s": "Am Dienstag wählt Israel ein neues Parlament; der Premier macht mit Aussagen zu Sanktionen Furore. In Hebron verlieren derweil Palästinenser den Zugang zu ihren Häusern.",
+   "u": "https://taz.de/Kurz-vor-den-Wahlen-in-Israel/!6224942/",
+   "q": "taz",
+   "d": "2026-10-25T16:01:00+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Tanzen, Tränengas, Barrikaden",
+   "s": "In Marseille reißen die Proteste gegen das teure Leben auch dieses Wochenende nicht ab. Die Polizei fährt Panzer auf, erneut brennen etliche Barrikaden.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6224892/",
+   "q": "taz",
+   "d": "2026-10-25T15:20:00+00:00"
+  },
+  {
+   "t": "US-Philosophin über Midterms: „Immer mehr Leute fühlen sich von Trump verraten“",
+   "s": "Im Wirbel der multiplen Krisen schwinde die Macht der MAGA-Bewegung, sagt die US-Philosophin Nancy Fraser – das sei eine Chance für eine neue Linke.",
+   "u": "https://taz.de/US-Philosophin-ueber-Midterms/!6219042/",
+   "q": "taz",
+   "d": "2026-10-25T15:09:00+00:00"
+  },
+  {
+   "t": "Pressefreiheit in Europa: Proteste in Tschechien für freien Rundfunk",
+   "s": "Per Nachtsitzung treibt die Regierung die Abschaffung der Rundfunkgebühren voran. Kritiker fürchten eine staatliche Kontrolle nach ungarischem Vorbild.",
+   "u": "https://taz.de/Pressefreiheit-in-Europa/!6224852/",
+   "q": "taz",
+   "d": "2026-10-25T14:50:00+00:00"
+  },
+  {
+   "t": "Sturmtief \"Manja\" fegt über Deutschland",
+   "s": "Stromausfall in Freiburg, mögliche Sturmflut und orkanartige Böen an der Nordsee: Sturm und Regen bestimmen heute das Wetter in Deutschland, es gab bereits zahlreiche Einsätze. Für Teile des Landes galten Warnungen.",
+   "u": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T14:48:27+00:00"
+  },
+  {
+   "t": "Proteste gegen Abschiebungen: Demonstrationen am Ort des Geschehens",
+   "s": "Bundesweit haben Menschen gegen Abschiebungen protestiert. In Frankfurt und Düsseldorf sollen neue Abschiebezentren an den Flughäfen entstehen.",
+   "u": "https://taz.de/Proteste-gegen-Abschiebungen/!6224767/",
+   "q": "taz",
+   "d": "2026-10-25T14:39:00+00:00"
+  },
+  {
+   "t": "Sozialproteste in Europa: Für gute Bildung, bezahlbare Mieten und moderate Preise",
+   "s": "Nicht nur in Frankreich, sondern auch in Albanien, Spanien oder Italien demonstrieren Menschen gegen Missstände an Schulen und Unis und gegen zu hohe Lebenshaltungskosten.",
+   "u": "https://taz.de/Sozialproteste-in-Europa/!6224917/",
+   "q": "taz",
+   "d": "2026-10-25T14:31:00+00:00"
+  },
+  {
+   "t": "Ilse Aigner als Bundespräsidentin: Merz’ Schwäche macht auch Scheindebatten relevant",
+   "s": "Die CSU sieht ihre Kandidatin schon fast im Schloss Bellevue. Ein Problem dabei ist, dass der Kanzler zu schwach ist, um Größe zu zeigen.",
+   "u": "https://taz.de/Ilse-Aigner-als-Bundespraesidentin/!6224772/",
+   "q": "taz",
+   "d": "2026-10-25T14:01:00+00:00"
+  },
   {
    "t": "Vorstoß zur Vergesellschaftung: Dobrindt plant hohe Hürden",
    "s": "Die Bundesregierung will ein Gesetz vorlegen, das Vergesellschaftungen deutlich komplizierter machen würde. Die Linke wirft dem Innenminister Lobbyismus vor.",
@@ -32,7 +116,7 @@
   },
   {
    "t": "Kommentar zur \"Extremismusklausel\": Söders Populismus",
-   "s": "Die CSU will eine sogenannte Extremismusklausel in den Länderfinanzausgleich aufnehmen und damit extremistisch regierten Bundesländern das Geld kürzen. Realistisch ist das nicht, sondern lediglich ein populistischer Versuch, sich zu profilieren.85tewee1Ein Kommentar von Steffen Wurzel",
+   "s": "Die CSU will eine sogenannte Extremismusklausel in den Länderfinanzausgleich aufnehmen und damit extremistisch regierten Bundesländern das Geld kürzen. Realistisch ist das nicht, sondern lediglich ein populistischer Versuch, sich zu profilieren.Ein Kommentar von Steffen Wurzel",
    "u": "https://www.deutschlandfunk.de/kommentar-laenderfinanzausgleich-extremismusklausel-soeder-csu-parteitag-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-25T12:23:00+00:00"
@@ -43,13 +127,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/wahlrecht-reform-104.html",
    "q": "Tagesschau",
    "d": "2026-10-25T11:57:30+00:00"
-  },
-  {
-   "t": "Sturmtief \"Manja\" fegt über Deutschland",
-   "s": "Stromausfall in Freiburg, mögliche Sturmflut und orkanartige Böen an der Nordsee: Sturm und Regen bestimmen heute das Wetter in Deutschland, es gab bereits zahlreiche Einsätze. Für Teile des Landes galten Warnungen.",
-   "u": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T11:53:23+00:00"
   },
   {
    "t": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
@@ -92,83 +169,6 @@
    "u": "https://taz.de/Proteste-an-Flughaefen/!6224753/",
    "q": "taz",
    "d": "2026-10-25T10:10:00+00:00"
-  },
-  {
-   "t": "Linken-Co-Chef Luigi Pantisano garantiert Schutz jüdischen Lebens",
-   "s": "Linken-Chef Luigi Pantisano hat den Schütz jüdischen Lebens betont. Menschen mit antisemitischen Positionen hätten keinen Platz in der Linkspartie, sagte Pantisano. Die Linke trage hier Verantwortung - auch in den eigenen Reihen.Balzer, Vladimir",
-   "u": "https://www.deutschlandfunk.de/interview-pantisano-luigi-ko-vorsitzender-die-linke-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-25T10:05:00+00:00"
-  },
-  {
-   "t": "Israel steht vor Schicksalswahl",
-   "s": "Israel wählt am Dienstag ein neues Parlament. Die Wahl gilt als Abrechnung mit Benjamin Netanjahu und seiner Regierung nach dem Hamas-Angriff vom 7. Oktober 2023. Ex-General Gadi Eisenkot hat laut Umfragen gute Chancen gegen den amtierenden Premier.",
-   "u": "https://www.deutschlandfunk.de/israel-wahl-netanjahu-eisenkot-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-25T09:07:00+00:00"
-  },
-  {
-   "t": "Bundeswehr nimmt an Ukraine-Manöver teil: Kyjiws Verbündete wollen den Waffenstillstand üben",
-   "s": "Die Bundeswehr wird mit Stabsoffizieren am ersten gemeinsamen Militärmanöver der geplanten Ukraine-Friedenstruppe teilnehmen. Polen ist der Gastgeber.",
-   "u": "https://taz.de/Bundeswehr-nimmt-an-Ukraine-Manoever-teil/!6224722/",
-   "q": "taz",
-   "d": "2026-10-25T09:03:00+00:00"
-  },
-  {
-   "t": "Nach Protesten in Frankreich: Mindestens 1.000 Festnahmen",
-   "s": "In Frankreich gehen Hunderttausende Menschen friedlich auf die Straßen. Es gibt aber auch wieder Gewalt – trotz eines Großaufgebots der Polizei.",
-   "u": "https://taz.de/Nach-Protesten-in-Frankreich/!6224723/",
-   "q": "taz",
-   "d": "2026-10-25T08:51:00+00:00"
-  },
-  {
-   "t": "Präsidentschaftswahl in Bulgarien: Kreml-Freundin ist klare Favoritin",
-   "s": "Staatschefin Ilijana Jotowa dürfte die erste Runde der Präsidentenwahl am Sonntag für sich entscheiden. Die Ex-Sozialistin ist klar auf Russland-Kurs.",
-   "u": "https://taz.de/Praesidentschaftswahl-in-Bulgarien/!6224720/",
-   "q": "taz",
-   "d": "2026-10-25T07:29:00+00:00"
-  },
-  {
-   "t": "CSU-Parteitag zwischen Hype und Hybris",
-   "s": "Bei ihrem Münchner Parteitag präsentiert sich die CSU als bundesweit relevante Kraft - trotz selbstkritischer Töne von Markus Söder. CDU-Chef Friedrich Merz wird vor allem fürs Begrüßen der bayerischen Bundespräsidentinnen-Hoffnung Ilse Aigner bejubelt.Wurzel, Steffen; Krone, Tobias; Procyk, Milan",
-   "u": "https://www.deutschlandfunk.de/der-csu-parteitag-zwischen-hype-und-hybris-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-25T07:00:00+00:00"
-  },
-  {
-   "t": "Radikale Kräfte - Ist Deutschland ein Biotop für Islamisten?",
-   "s": "Deutschland ist laut Hamed Abdel-Samad für Islamkritiker gefährlicher geworden. Der Politologe selbst kann nur noch unter Polizeischutz in Deutschland auftreten. Er macht dafür alle Parteien der Mitte verantwortlich und warnt vor den Folgen.Götzke, Manfred",
-   "u": "https://www.deutschlandfunk.de/ist-deutschland-biotop-fuer-islamisten-hamed-abdel-samad-politikwissenschaftler-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-25T06:36:42+00:00"
-  },
-  {
-   "t": "Merz bei der CSU: P wie Parteitag, P wie Präsidentin",
-   "s": "Auf ihrem Parteitag in München treibt die CSU vor allem die P-Frage um. Kann noch jemand Ilse Aigner auf ihrem Weg ins Bundespräsidentenamt aufhalten?",
-   "u": "https://taz.de/Merz-bei-der-CSU/!6224709/",
-   "q": "taz",
-   "d": "2026-10-24T19:04:00+00:00"
-  },
-  {
-   "t": "Wahlen in Israel: Wenn wirklich jede Stimme zählt",
-   "s": "Netanjahus rechtsextreme Regierung hat trotz allem weiterhin treue Anhänger. Was steht bei der Wahl alles auf dem Spiel?",
-   "u": "https://taz.de/Wahlen-in-Israel/!6219006/",
-   "q": "taz",
-   "d": "2026-10-24T18:56:00+00:00"
-  },
-  {
-   "t": "Trauer und Entsetzen in Jordanien: Anschlag auf die Oase des Friedens",
-   "s": "Am Freitag haben mutmaßliche Terroristen das Feuer auf Trauernde in einer Kirche nahe Karak in Jordanien eröffnet. Acht Menschen verloren ihr Leben, Dutzende wurden verletzt.",
-   "u": "https://taz.de/Trauer-und-Entsetzen-in-Jordanien/!6224712/",
-   "q": "taz",
-   "d": "2026-10-24T16:58:00+00:00"
-  },
-  {
-   "t": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
-   "s": "Wird CSU-Politikerin Aigner Kandidatin für das Amt der Bundespräsidentin? Mit Spannung wurde erwartet, ob sich CDU-Chef Merz auf dem CSU-Parteitag dazu äußert. Er tat es nicht - und sendete doch ein Signal. Von Kerstin Palzer.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
-   "q": "Tagesschau",
-   "d": "2026-10-24T16:51:47+00:00"
   }
  ]
 }

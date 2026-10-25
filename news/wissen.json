@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-25T13:43:10+00:00",
+ "updated": "2026-10-25T18:24:30+00:00",
  "items": [
+  {
+   "t": "Verleihung des Deutschen Umweltpreises",
+   "s": "Verleihung des Deutschen Umweltpreises",
+   "u": "https://www.tagesschau.de/video/video-1672336.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T16:04:05+00:00"
+  },
   {
    "t": "Sommerzeit beendet - Uhren um eine Stunde zurückgestellt",
    "s": "Die Sommerzeit ist zu Ende, die Uhren wurden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/who-warnt-vor-ausbreitung-von-fettleibigkeit-100.html",
    "q": "Tagesschau",
    "d": "2026-10-07T08:21:57+00:00"
-  },
-  {
-   "t": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher",
-   "s": "Bekanntgabe in Stockholm: Medizin-Nobelpreis für deutsche Forscher",
-   "u": "https://www.tagesschau.de/video/video-1661224.html",
-   "q": "Tagesschau",
-   "d": "2026-10-06T08:29:01+00:00"
   }
  ]
 }

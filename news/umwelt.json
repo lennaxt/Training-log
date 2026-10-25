@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-25T13:43:11+00:00",
+ "updated": "2026-10-25T18:24:31+00:00",
  "items": [
+  {
+   "t": "Proteste gegen Abschiebungen: Demonstrationen am Ort des Geschehens",
+   "s": "Bundesweit haben Menschen gegen Abschiebungen protestiert. In Frankfurt und Düsseldorf sollen neue Abschiebezentren an den Flughäfen entstehen.",
+   "u": "https://taz.de/Proteste-gegen-Abschiebungen/!6224767/",
+   "q": "taz",
+   "d": "2026-10-25T14:39:00+00:00"
+  },
+  {
+   "t": "Ilse Aigner als Bundespräsidentin: Merz’ Schwäche macht auch Scheindebatten relevant",
+   "s": "Die CSU sieht ihre Kandidatin schon fast im Schloss Bellevue. Ein Problem dabei ist, dass der Kanzler zu schwach ist, um Größe zu zeigen.",
+   "u": "https://taz.de/Ilse-Aigner-als-Bundespraesidentin/!6224772/",
+   "q": "taz",
+   "d": "2026-10-25T14:01:00+00:00"
+  },
   {
    "t": "Vorstoß zur Vergesellschaftung: Dobrindt plant hohe Hürden",
    "s": "Die Bundesregierung will ein Gesetz vorlegen, das Vergesellschaftungen deutlich komplizierter machen würde. Die Linke wirft dem Innenminister Lobbyismus vor.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Fragen-und-Antworten-zum-AfD-Leak/!6223805/",
    "q": "taz",
    "d": "2026-10-22T13:26:00+00:00"
-  },
-  {
-   "t": "Offener Brief für Vergesellschaftung: „Ein Sperrgesetz ist verfassungswidrig“",
-   "s": "Über 200 Personen aus Gewerkschaften und Wissenschaft sprechen sich für das Recht auf Vergesellschaftung aus. Das Grundgesetz müsse geachtet werden.",
-   "u": "https://taz.de/Offener-Brief-fuer-Vergesellschaftungen/!6223442/",
-   "q": "taz",
-   "d": "2026-10-22T08:32:00+00:00"
-  },
-  {
-   "t": "Rechtspopulismus und Demokratie: Potenzial nicht ausgeschöpft",
-   "s": "Für eine sozial gerechte Zukunft braucht es eine radikale Mitte. Ein politisches Lager, das Möglichkeiten darlegt, statt Vergangenem nachzutrauern.",
-   "u": "https://taz.de/Rechtspopulismus-und-Demokratie/!6223133/",
-   "q": "taz",
-   "d": "2026-10-22T06:01:00+00:00"
   }
  ]
 }

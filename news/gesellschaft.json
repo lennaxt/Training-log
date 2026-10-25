@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-25T13:43:12+00:00",
+ "updated": "2026-10-25T18:24:32+00:00",
  "items": [
+  {
+   "t": "Wahlen auf dem Balkan: Populisten sind schlecht für das Wachstum",
+   "s": "Während in den liberal regierten Ländern Polen und Ungarn die Wirtschaft in Fahrt gerät, kommen Bulgarien, Serbien und Rumänien unter die Räder.",
+   "u": "https://taz.de/Wahlen-auf-dem-Balkan/!6224750/",
+   "q": "taz",
+   "d": "2026-10-25T17:28:00+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Lektion in Sachen Demokratie",
+   "s": "Hunderttausende sind in Frankreich trotz Demonstrationsverboten auf die Straße gegangen. Statt sie anzuhören, fährt die Regierung eine Verleumdungskampagne.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6224751/",
+   "q": "taz",
+   "d": "2026-10-25T17:24:00+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Tanzen, Tränengas, Barrikaden",
+   "s": "In Marseille reißen die Proteste gegen das teure Leben auch dieses Wochenende nicht ab. Die Polizei fährt Panzer auf, erneut brennen etliche Barrikaden.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6224892/",
+   "q": "taz",
+   "d": "2026-10-25T15:20:00+00:00"
+  },
+  {
+   "t": "Pressefreiheit in Europa: Proteste in Tschechien für freien Rundfunk",
+   "s": "Per Nachtsitzung treibt die Regierung die Abschaffung der Rundfunkgebühren voran. Kritiker fürchten eine staatliche Kontrolle nach ungarischem Vorbild.",
+   "u": "https://taz.de/Pressefreiheit-in-Europa/!6224852/",
+   "q": "taz",
+   "d": "2026-10-25T14:50:00+00:00"
+  },
+  {
+   "t": "Sozialproteste in Europa: Für gute Bildung, bezahlbare Mieten und moderate Preise",
+   "s": "Nicht nur in Frankreich, sondern auch in Albanien, Spanien oder Italien demonstrieren Menschen gegen Missstände an Schulen und Unis und gegen zu hohe Lebenshaltungskosten.",
+   "u": "https://taz.de/Sozialproteste-in-Europa/!6224917/",
+   "q": "taz",
+   "d": "2026-10-25T14:31:00+00:00"
+  },
   {
    "t": "Massenproteste in Frankreich: Mehr Regen als Wasserwerfer",
    "s": "Beim zweiten großen Protesttag in Frankreich kommt es nur vereinzelt zu Gewalt. Hunderttausende gehen in Paris und anderen Städten auf die Straße.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/1702-Tage-Krieg-in-der-Ukraine/!6220337/",
    "q": "taz",
    "d": "2026-10-23T10:20:00+00:00"
-  },
-  {
-   "t": "Frankreich: Ausgehverbote und Einsatz der Armee",
-   "s": "Die französische Regierung mobilisiert für Samstag alle verfügbaren Kräfte, inklusive Soldaten. In Orléans droht eine direkte Konfrontation zwischen Rechtsextremisten und der Antifa.",
-   "u": "https://taz.de/Antifademo-gegen-RN-Kongress-in-Orleans/!6223999/",
-   "q": "taz",
-   "d": "2026-10-23T10:06:00+00:00"
-  },
-  {
-   "t": "Streit über Nationalisten: Neuer Zoff zwischen der Ukraine und Polen um Untergrundarmee",
-   "s": "Im früher zu Polen gehörenden Lemberg, heute Lwiw, soll 2027 das Jahr der ukrainischen Befreiungsarmee begangen werden. Polen reagiert erwartbar empört.",
-   "u": "https://taz.de/Streit-um-Nationalisten/!6223902/",
-   "q": "taz",
-   "d": "2026-10-23T09:23:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Ukraine klagt weiter über Einschränkungen bei Starshield",
-   "s": "Kyjiw kann nicht bestätigen, dass der Starlink-Dienst wieder funktioniert. 40.000 Tonnen russischer Diesel sind unterwegs in die USA. Russland greift weiter an.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6223995/",
-   "q": "taz",
-   "d": "2026-10-23T08:09:00+00:00"
-  },
-  {
-   "t": "Vor Parlamentswahl in Serbien: Zehntausende Anhänger der Opposition auf Belgrads Straßen",
-   "s": "Serbien wählt am Sonntag ein neues Parlament. Zehntausende Anhänger der oppositionellen „Studentenliste“ kamen zur Abschlusskundgebung in der Hauptstadt.",
-   "u": "https://taz.de/Vor-Parlamentswahl-in-Serbien/!6223993/",
-   "q": "taz",
-   "d": "2026-10-23T07:59:00+00:00"
-  },
-  {
-   "t": "„Gen Z regelt“-Proteste: Der Gesellschaft geben, was sie hören will",
-   "s": "„Gen Z regelt“ ruft zu deutschlandweiten Protesten auf. Gewalt lehnt die Organisation dabei ab. Das stützt zwar die herrschende Macht – ist aber taktisch klug.",
-   "u": "https://taz.de/Gen-Z-regelt-Proteste/!6223733/",
-   "q": "taz",
-   "d": "2026-10-22T18:52:00+00:00"
   }
  ]
 }
