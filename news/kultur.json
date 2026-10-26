@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-10-25T23:17:11+00:00",
+ "updated": "2026-10-26T08:57:09+00:00",
  "items": [
+  {
+   "t": "Jubel nach Lulas Sieg: Brasilien im Freudentaumel",
+   "s": "Mit 80 Jahren gewinnt Lula da Silva noch einmal eine Präsidentschaftswahl. Sein Gegner, Flávio Bolsonaro, will das Ergebnis nicht anerkennen.",
+   "u": "https://taz.de/Jubel-nach-Lulas-Sieg/!6224965/",
+   "q": "taz",
+   "d": "2026-10-26T07:54:00+00:00"
+  },
+  {
+   "t": "Stichwahl in Brasilien: Lula schlägt Bolsonaro junior",
+   "s": "Brasiliens linker Präsident Lula gewinnt gegen Flávio Bolsonaro und trotzt dem Rechtsruck in Lateinamerika. Der Wahlabend verlief chaotisch, Bolsonaro will das Ergebnis anfechten.",
+   "u": "https://taz.de/Stichwahl-in-Brasilien/!6224962/",
+   "q": "taz",
+   "d": "2026-10-26T00:38:00+00:00"
+  },
   {
    "t": "Zwischenwahlen in den USA: Der teuerste Wahlkampf aller Zeiten",
    "s": "Noch nie sind für Zwischenwahlen in den USA so große Wahlkampfspenden geflossen wie in diesem Jahr. Einige Großspender ragen besonders heraus.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Ausnahmezustand-in-El-Salvador/!6221894/",
    "q": "taz",
    "d": "2026-10-15T13:28:00+00:00"
-  },
-  {
-   "t": "Vor US-Zwischenwahlen: Wappnen gegen einen Coup",
-   "s": "Vor den Kongresswahlen in den USA befürchten viele, Präsident Trump könnte erneut eine Niederlage nicht anerkennen. Unser Autor hat ein Wahlbeobachtertraining besucht.",
-   "u": "https://taz.de/Vor-Zwischenwahlen-in-USA/!6221819/",
-   "q": "taz",
-   "d": "2026-10-15T12:58:00+00:00"
-  },
-  {
-   "t": "Protest gegen Rechenzentren in den USA: Big Data, big Protest",
-   "s": "In den USA entstehen riesige Rechenzentren. Doch auch der Protest gegen die Megabauten wächst – und wird vor den Midterms zum wichtigen Wahlkampfthema.",
-   "u": "https://taz.de/Protest-gegen-Rechenzentren-in-den-USA/!6220808/",
-   "q": "taz",
-   "d": "2026-10-15T11:04:00+00:00"
   }
  ]
 }

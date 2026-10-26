@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-25T23:17:10+00:00",
+ "updated": "2026-10-26T08:57:08+00:00",
  "items": [
+  {
+   "t": "Bulgarien: Stichwahl entscheidet über Staatsoberhaupt",
+   "s": "Bulgariens Präsidentin Ilijana Jotowa liegt im ersten Wahlgang erwartungsgemäß vorn. Überraschend ist ihr relativ knapper Vorsprung.",
+   "u": "https://taz.de/Bulgarien/!6224964/",
+   "q": "taz",
+   "d": "2026-10-26T07:02:00+00:00"
+  },
+  {
+   "t": "Parlamentswahl in Serbien: Niederlage für Machthaber Vučić",
+   "s": "14 Jahre lang bestimmte Aleksandar Vučić die Politik seines Landes im Alleingang – bis zur Studentenbewegung. Bricht für Serbien nun eine bessere Zukunft an?",
+   "u": "https://taz.de/Parlamentswahl-in-Serbien/!6224963/",
+   "q": "taz",
+   "d": "2026-10-26T06:53:00+00:00"
+  },
   {
    "t": "Wahlen auf dem Balkan: Populisten sind schlecht für das Wachstum",
    "s": "Während in den liberal regierten Ländern Polen und Ungarn die Wirtschaft in Fahrt gerät, kommen Bulgarien, Serbien und Rumänien unter die Räder.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Schuesse-aus-Auto-in-Frankreich/!6224379/",
    "q": "taz",
    "d": "2026-10-23T14:24:00+00:00"
-  },
-  {
-   "t": "Tagebuch aus Aserbaidschan: Der Kampf geht auf die Köpfe los",
-   "s": "Die Regierung in Baku verbietet das Tragen des Hidschabs in Schulen. Sie begründet es mit Säkularität, doch sie will gesellschaftliche Stärke verhindern.",
-   "u": "https://taz.de/Tagebuch-aus-Aserbaidschan/!6223090/",
-   "q": "taz",
-   "d": "2026-10-23T11:24:00+00:00"
-  },
-  {
-   "t": "1.703 Tage Krieg in der Ukraine: Drohnensurren in der Stille der Natur",
-   "s": "Bei einer Rafting-Tour im Gebiet Poltawa lernt unsere Autorin ganz neue Seiten der Ukraine kennen. Und zahlreiche zivilgesellschaftliche Initiativen.",
-   "u": "https://taz.de/1702-Tage-Krieg-in-der-Ukraine/!6220337/",
-   "q": "taz",
-   "d": "2026-10-23T10:20:00+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-25T23:17:08+00:00",
+ "updated": "2026-10-26T08:57:07+00:00",
  "items": [
+  {
+   "t": "Wie die Goldsuche Natur und Lebensgrundlagen in Ghana zerstört",
+   "s": "In Ghana wird unter extremen Bedingungen Gold abgebaut - auch Kakaoplantagen müssen dafür weichen. Mit verheerenden Folgen: Zurück bleiben zerstörte Landschaften und verdreckte, belastete Flüsse. Von Judith Hartmann und Jakob Sax.",
+   "u": "https://www.tagesschau.de/wissen/klima/goldabbau-ghana-abholzung-regenwald-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T06:13:21+00:00"
+  },
   {
    "t": "Verleihung des Deutschen Umweltpreises",
    "s": "Verleihung des Deutschen Umweltpreises",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-fuer-kagan-und-soai-100.html",
    "q": "Tagesschau",
    "d": "2026-10-07T11:52:14+00:00"
-  },
-  {
-   "t": "Weltgesundheitsorganisation warnt vor Ausbreitung von Fettleibigkeit",
-   "s": "Immer mehr Kinder und Jugendliche weltweit sind fettleibig. Darum hat die WHO nun globale Leitlinien herausgegeben, um eine weitere Zunahme von Adipositasfällen zu stoppen. Dabei im Fokus: die Ernährung. Abnehmspritzen lehnt die WHO ab.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/who-warnt-vor-ausbreitung-von-fettleibigkeit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T08:21:57+00:00"
   }
  ]
 }

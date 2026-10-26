@@ -1,7 +1,49 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-25T23:17:08+00:00",
+ "updated": "2026-10-26T08:57:06+00:00",
  "items": [
+  {
+   "t": "Marktbericht: Anleger versuchen DAX zu stabilisieren",
+   "s": "Die Zahl der Sorgen bleibt groß. Neben den anhaltend hohen Ölpreisen dämpfen die Sorgen um den KI-Boom die Stimmung. Jetzt hoffen die Anleger auf gute Unternehmensbilanzen und Hilfe von den Notenbanken.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T06:27:39+00:00"
+  },
+  {
+   "t": "Wie die Goldsuche Natur und Lebensgrundlagen in Ghana zerstört",
+   "s": "In Ghana wird unter extremen Bedingungen Gold abgebaut - auch Kakaoplantagen müssen dafür weichen. Mit verheerenden Folgen: Zurück bleiben zerstörte Landschaften und verdreckte, belastete Flüsse. Von Judith Hartmann und Jakob Sax.",
+   "u": "https://www.tagesschau.de/wissen/klima/goldabbau-ghana-abholzung-regenwald-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T06:13:21+00:00"
+  },
+  {
+   "t": "Deutsche Nachrichtendienste setzen auf Cloud-System von Google",
+   "s": "Um geheime Informationen schneller untereinander austauschen zu können, wollen BND, Verfassungsschutz und MAD ein gemeinsames Cloud-System aufbauen. Nach Recherchen von NDR und WDR soll Google dabei eine maßgebliche Rolle spielen. Von F. Flade und R. Pinkert.",
+   "u": "https://www.tagesschau.de/investigativ/ndr-wdr/nachrichtendienst-google-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T05:11:08+00:00"
+  },
+  {
+   "t": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
+   "s": "Deutschland braucht mehr bezahlbaren Wohnraum. Das soll unter anderem mit dem Gebäudetyp E gelingen - das E steht hier für \"einfach\". Der Gesetzentwurf liegt dem ARD-Hauptstadtstudio exklusiv vor. Von Oliver Neuroth.",
+   "u": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T23:07:11+00:00"
+  },
+  {
+   "t": "Stromsteuer-Debatte: Union und SPD weiter weit auseinander",
+   "s": "Dass Unternehmen und Haushalte beim Strompreis entlastet werden sollen, darüber herrscht in der Regierung Einigkeit. Unklar aber ist, wie das finanziert werden kann. Im Bericht aus Berlin machten CDU und SPD sehr unterschiedliche Vorschläge.",
+   "u": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T18:49:43+00:00"
+  },
+  {
+   "t": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
+   "s": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
+   "u": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T15:04:51+00:00"
+  },
   {
    "t": "Wie ein Dorf in Brandenburg seinen Gasthof retten will",
    "s": "In vielen Dörfern verschwinden die letzten Gaststätten. Im brandenburgischen Leißnitz wollen die Einwohner das verhindern. Gemeinsam wollen sie einen Ort erhalten, an dem Menschen zusammenkommen. Von Jacqueline Piwon.",
@@ -24,13 +66,6 @@
    "d": "2026-10-24T14:26:17+00:00"
   },
   {
-   "t": "Deutschlandticket für Gelegenheitsfahrer: Bilger findet Idee gut",
-   "s": "Schnell mit dem Handy bei Bahn oder Öffis einchecken - und der günstigste Tarif wird berechnet. Am Monatsende kostet das Ganze höchstens so viel wie das Deutschlandticket. Der Verkehrsminister findet die Idee gut.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-nahverkehr-deutschlandticket-light-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-24T10:46:34+00:00"
-  },
-  {
    "t": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
    "s": "Nach dem Vollangriff auf die Ukraine wollte Europa schnell unabhängig werden von russischer Energie. Teilweise ist das auch gelungen. Vor allem bei Öl und Uran bleiben aber alte Abhängigkeiten. Von Jean-Marie Magro.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
@@ -45,60 +80,11 @@
    "d": "2026-10-23T18:01:52+00:00"
   },
   {
-   "t": "Marktbericht: DAX-Anleger meiden das Risiko",
-   "s": "Hohe Ölpreise, anhaltenden Sorgen um Frankreichs Staatsfinanzen und immer wieder neue Bedenken bei der Künstlichen Intelligenz. Zu viele Probleme gleichzeitig für die Anleger, der DAX gab nach.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T16:38:57+00:00"
-  },
-  {
-   "t": "Deutsche Baubranche verzeichnet Rekordanstieg bei Großaufträgen",
-   "s": "Es ist ein Lichtblick in angespannten Zeiten: Die deutsche Baubranche meldet das größte Auftragsplus seit Beginn der Aufzeichnung. Grund sind aber vor allem Großaufträge. Trotzdem bleibt der Mietmarkt angespannt.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/baugewerbe-grossauftraege-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T11:53:21+00:00"
-  },
-  {
    "t": "PHP-Sicherheitslücke: IT-Experten fordern Maßnahmen über Updates hinaus",
    "s": "Nach Aufdeckung der Sicherheitslücke in der Programmiersprache PHP sind viele Webseiten nach einem Update wieder verfügbar. Doch IT-Experten raten zu weiteren Maßnahmen: Betreiber von Webseiten müssten ihre Systeme genau prüfen.",
    "u": "https://www.tagesschau.de/wirtschaft/digitales/it-sicherheit-php-100.html",
    "q": "Tagesschau",
    "d": "2026-10-23T10:47:03+00:00"
-  },
-  {
-   "t": "Finnland genehmigt unterirdisches Atommüll-Endlager",
-   "s": "Finnland setzt zur Stromgewinnung auch auf Kernenergie - und hat nun grünes Licht für den Betrieb eines unterirdischen Endlagers für Tausende Tonnen hochradioaktiven Atommüll gegeben. Noch fehlt allerdings eine letzte Genehmigung.",
-   "u": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T10:04:33+00:00"
-  },
-  {
-   "t": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
-   "s": "Frankreichs Anleiherenditen sind auf den höchsten Stand seit 2002 gestiegen. Wie groß ist die Ansteckungsgefahr für andere hochverschuldete Euroländer - und was kann die EZB dagegen tun? Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T09:13:15+00:00"
-  },
-  {
-   "t": "Ringen um Sparkurs bei Autobauer Volkswagen geht weiter",
-   "s": "Stellenabbau, Sparrunden und drohende Werkschließungen: Die Stimmung bei Volkswagen ist aufgeheizt, die Gewerkschaft IG Metall droht mit Streiks ab Januar. Heute spricht die Konzernspitze mit der IG Metall. Worum es bei dem Krisentreffen geht.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ig-metall-ueberpruefungsgespraech-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T09:12:00+00:00"
-  },
-  {
-   "t": "Weihnachtsbäume könnten teurer werden",
-   "s": "Weihnachten ohne festlich geschmückten Baum ist für viele undenkbar. Und in wenigen Wochen beginnt bereits die Ernte. Eines zeichnet sich aber bereits ab: Wer einen natürlichen Weihnachtsbaum will, muss tiefer in die Tasche greifen.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/weihnachtsbaum-saison-preise-anstieg-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T08:04:17+00:00"
-  },
-  {
-   "t": "\"Operation Chargeback\": Merkur-Tochterfirma wickelte Zahlungen ab",
-   "s": "Im Rahmen der \"Operation Chargeback\" ermitteln Behörden gegen internationale Geldwäsche-Netzwerke. Ex-Wirecard-Manager sind inzwischen angeklagt. Nach BR-Recherchen führen Spuren auch zu einer Tochterfirma des Glücksspielkonzerns Merkur.",
-   "u": "https://www.tagesschau.de/investigativ/br-recherche/gluecksspiel-geldwaesche-wirecard-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T05:04:03+00:00"
   },
   {
    "t": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
@@ -108,39 +94,11 @@
    "d": "2026-10-22T16:27:55+00:00"
   },
   {
-   "t": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
-   "s": "Trotz aktueller Krisen kann der Bund im kommenden Jahr mit mehr Steuereinnahmen rechnen als zunächst erwartet. Dennoch rechnet Finanzminister Klingbeil nicht mit mehr Spielräumen für den Haushalt.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T15:54:20+00:00"
-  },
-  {
    "t": "Biodiversitätsabkommen: Balanceakt zwischen Artenschutz und Wirtschaft",
    "s": "Artenvielfalt stabilisiert Ökosysteme und sichert damit auch wirtschaftliche Grundlagen. Dennoch gerät die Einhaltung der Biodiversitätsziele in Vergessenheit, wenn es um wirtschaftliche Interessen geht.",
    "u": "https://www.deutschlandfunk.de/cop17-biodiversitaet-artenvielfalt-wirtschaft-100-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-22T15:46:00+00:00"
-  },
-  {
-   "t": "Was beim neuen Altersvorsorgedepot zu beachten ist",
-   "s": "Neben der Kapitalrente wird es auch eine neue staatlich geförderte Zusatzrente geben, das Altersvorsorgedepot. Es soll die \"Riester-Rente\" ablösen. Das Versprechen: mehr Aktien, ETFs und Renditechancen. Was es zu beachten gilt, erklärt Christian Sachsinger.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T11:09:07+00:00"
-  },
-  {
-   "t": "Die Kapitalrente - Befreiungsschlag oder Risiko?",
-   "s": "Von 2028 an soll die Kapitalrente das deutsche Rentensystem ergänzen: Beiträge werden in Fonds investiert, um die Altersvorsorge zu stärken. Kann die Kapitalrente die großen Hoffnungen erfüllen? Von Frank Aischmann.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/renten-reform-kapitalrente-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T09:24:26+00:00"
-  },
-  {
-   "t": "Kanada gehen die Ahornsirup-Reserven aus",
-   "s": "Kanada hat eine strategische Ahornsirup-Reserve - und die geht zur Neige. Bis Ende Februar kommenden Jahres dürfte sie komplett leer sein. Im vergangenen Jahr hatte es Hamsterkäufe von Importeuren gegeben, vor allem aus den USA.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-ahornsirup-exporte-usa-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T08:52:53+00:00"
   },
   {
    "t": "Update Wirtschaft vom 22.10.2026",
@@ -157,18 +115,60 @@
    "d": "2026-10-22T07:56:08+00:00"
   },
   {
-   "t": "Meta investiert mindestens 135 Milliarden Dollar in KI",
-   "s": "Der Meta-Konzern will den Ausbau seiner KI-Infrastruktur vorantreiben. Zur Finanzierung soll es eine neue Aktie ohne Stimmrechte geben. Damit sichert sich Firmenchef Zuckerberg die Kontrolle. Von Antje Sieb.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T05:25:41+00:00"
+   "t": "Chemie ohne Erdöl: Wie die Kohlenstoffwende gelingen soll",
+   "s": "Die Chemieindustrie gehört zu den größten Verursachern von Treibhausgasen. Deshalb will sie nun statt Erdöl Biomasse, Recycling und abgeschiedenes CO2 als Rohstoffquellen benutzen. Das erfordert neue Technologien und Milliardeninvestitionen.",
+   "u": "https://www.deutschlandfunk.de/chemie-ohne-erdoel-kohlenstoff-recycling-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-21T16:25:00+00:00"
   },
   {
-   "t": "Wasserzeichen markieren bald auch KI-Texte von ChatGPT",
-   "s": "Stammt dieser Text von einer Künstlichen Intelligenz? Aufschluss geben können Wasserzeichen, die KI-generierte Texte markieren. OpenAI hat das nun für ChatGPT angekündigt. Von Pauline Möhle und Leila Boucheligua.",
-   "u": "https://www.tagesschau.de/wissen/ki-texte-wasserzeichen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T03:30:26+00:00"
+   "t": "Kommentar zum Investitionsgipfel: Wenn die Fachkräfte fehlen",
+   "s": "Bundeskanzler Merz möchte mit einem Investitionsgipfel mehr Kapital nach Deutschland locken. Grundsätzlich ist Deutschland attraktiv für Investoren. Es ist kreditwürdig und rechtssicher. Beim Thema Fachkräfte sieht es allerdings zunehmend düster aus.Ein Kommentar von Falk Steiner",
+   "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-21T08:10:00+00:00"
+  },
+  {
+   "t": "Deutsche Autozulieferer auf dem Balkan: \"Armutslöhne\" für serbische Arbeiter",
+   "s": "Viele deutsche Autohersteller und -zulieferer produzieren in Serbien. Das schafft Arbeitsplätze in dem Land. Doch zunehmend klagen Beschäftigte in den Fabriken über enormen Druck durch Vorgesetzte und geringe Löhne.",
+   "u": "https://www.deutschlandfunk.de/autohersteller-autozulieferer-deutschland-serbien-niedrigloehne-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-18T07:32:00+00:00"
+  },
+  {
+   "t": "Doctolib und die KI – Was die Ärzteplattform über Patienten weiß",
+   "s": "Der amerikanische Chip-Hersteller Nvidia steigt bei Doctolib ein. Damit will die Ärzteplattform auch ihre KI-Kompetenzen ausweiten. Welche Auswirkungen könnte das haben? Und: Wie sicher sind unsere Daten dort eigentlich?",
+   "u": "https://www.deutschlandfunk.de/doctolib-nvidia-einstieg-datenschutz-kritik-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-15T12:06:00+00:00"
+  },
+  {
+   "t": "Der Kampf ums Trinkwasser im brandenburgischen Baruth",
+   "s": "Die Unternehmen Red Bull und Rauch produzieren in Baruth Getränke und dürfen dabei 92 Prozent des Grundwassers, das der brandenburgischen Stadt zur Verfügung steht, entnehmen. Eine Bürgerinitiative wehrt sich und kämpft um Akteneinsicht.Von Andrea Rehmsmeier",
+   "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-14T16:40:00+00:00"
+  },
+  {
+   "t": "Kommentar zur Erbschaftssteuer: Mehr Gerechtigkeit wagen!",
+   "s": "Das Bundesverfassungsgericht beschäftigt sich mit der Erbschaftssteuer. Hierbei geht es um Fragen der Gerechtigkeit, mit denen sich eigentlich die Politik auseinandersetzen sollte. Die Koalition könnte dabei Handlungsfähigkeit zeigen.Ein Standpunkt von Gudula Geuther",
+   "u": "https://www.deutschlandfunk.de/erbschaftssteuer-gerechtigkeit-verfassungsgericht-firmenerben-koalition-kommentar-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-13T15:50:00+00:00"
+  },
+  {
+   "t": "Erbschaftssteuer vor Gericht - Von Firmenerben, Sparkonten und Aktiendepots",
+   "s": "In Deutschland werden nicht nur Geld und Immobilien vererbt, auch viele Firmen gehen auf die nächste Generation über. Dass ein vererbtes Unternehmen anders besteuert wird als etwa Aktien oder ein Sparkonto, beschäftigt nun wieder das Verfassungsgericht.",
+   "u": "https://www.deutschlandfunk.de/erbschaftsteuer-gerechtigkeit-unternehmen-verfassungsgericht-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-13T09:52:00+00:00"
+  },
+  {
+   "t": "Wasser wird wertvoller",
+   "s": "Deutschland hat im Winter zu viel Wasser – und im Sommer immer weniger. Das belastet Umwelt und Wirtschaft. Die Bundesregierung fordert einen “neuen Umgang” mit Wasser. Wer viel verbraucht, soll mehr zahlen.",
+   "u": "https://www.deutschlandfunk.de/wassermangel-deutschland-strategie-bundesregierung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-06T11:45:00+00:00"
   }
  ]
 }

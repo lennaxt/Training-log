@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-25T23:17:09+00:00",
+ "updated": "2026-10-26T08:57:07+00:00",
  "items": [
+  {
+   "t": "Neuer Baustandard: Regierung bringt einfachere Norm auf den Weg",
+   "s": "Das Ziel ist, günstiger zu bauen: Die Koalition verbindet große Erwartungen mit einem neuen Gebäudetyp. Über den Entwurf wurde lange gestritten.",
+   "u": "https://taz.de/Neuer-Baustandard/!6224969/",
+   "q": "taz",
+   "d": "2026-10-26T08:19:00+00:00"
+  },
   {
    "t": "Dresdner Antifa-Prozess: Tod eines Angeklagten",
    "s": "Henry A., angeklagt im Prozess gegen die „Antifa Ost“, ist zwei Monate nach einem Suizidversuch gestorben. Sein Anwalt macht dem Gericht Vorwürfe.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Museum-fuer-NS-Geschichte-in-Flensburg/!6207101/",
    "q": "taz",
    "d": "2026-10-22T15:01:00+00:00"
-  },
-  {
-   "t": "Polizeikessel bei Einheitsfeier: Bremer Anwälte kündigen Klagen an",
-   "s": "Woher hätte man wissen sollen, dass spontane Demonstrationen während der Einheitsfeier verboten waren? War das rechtens? Das soll jetzt geprüft werden.",
-   "u": "https://taz.de/Polizeikessel-bei-Einheitsfeier/!6222860/",
-   "q": "taz",
-   "d": "2026-10-22T14:41:00+00:00"
   }
  ]
 }

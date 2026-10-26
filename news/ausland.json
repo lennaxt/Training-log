@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-10-25T23:17:06+00:00",
+ "updated": "2026-10-26T08:57:05+00:00",
  "items": [
+  {
+   "t": "Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+   "s": "Der linke Staatschef Lula hat die Präsidentschaftswahl in Brasilien gewonnen. Er setzte sich gegen den rechten Kandidaten Bolsonaro durch - doch der will das Ergebnis nicht anerkennen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T06:58:43+00:00"
+  },
+  {
+   "t": "Wahlen in Brasilien: Eine Nacht zwischen Jubel und Misstrauen",
+   "s": "Feuerwerk und Freudentränen - in Brasilien feiern Anhänger den Wahlsieg von Lula als Erfolg der Demokratie. Doch während die einen aufatmen, warnen andere vor dem politischen Kampf, der jetzt erst beginnt. Von Anne Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T06:34:32+00:00"
+  },
   {
    "t": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
    "s": "Brasiliens Wähler sehen Gewalt und Kriminalität als das größte Problem im Land. Die Macht der Banden wird immer größer. Die Kandidaten bei der Stichwahl ums Präsidentenamt heute stehen dabei für unterschiedliche Lösungen. Von Xenia Böttcher.",
@@ -94,13 +108,6 @@
    "d": "2026-10-24T16:06:57+00:00"
   },
   {
-   "t": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
-   "s": "Die Satellitenkommunikation von SpaceX in der Ukraine funktioniert nach Angaben aus Kiew wieder stabil. Die ukrainische Armee meldet derweil Angriffe auf russische Industrieanlagen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-24T15:29:30+00:00"
-  },
-  {
    "t": "Israelische Armee startet Einsatz in Hebron",
    "s": "Nach dem tödlichen Angriff auf Soldaten hat Israel in Hebron im Westjordanland einen Militäreinsatz begonnen. Premier Netanjahu kündigte eine \"sehr große Überraschung\" für die Palästinensische Autonomiebehörde an.",
    "u": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html",
@@ -113,13 +120,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html",
    "q": "Tagesschau",
    "d": "2026-10-24T13:47:08+00:00"
-  },
-  {
-   "t": "Stichwahl in Brasilien: Flávio Bolsonaro - der Kandidat des Vaters",
-   "s": "Flávio Bolsonaro will seinen verurteilten Vater als Präsident beerben - und wohl auch aus der Haft befreien. Trotz allem: Für seine Anhänger ist der Familienname sein wichtigstes Kapital bei der heutigen Stichwahl. Von A. Herrberg und L. Bilard.",
-   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-bolsonaro-106.html",
-   "q": "Tagesschau",
-   "d": "2026-10-24T13:36:26+00:00"
   },
   {
    "t": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",

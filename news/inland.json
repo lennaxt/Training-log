@@ -1,7 +1,77 @@
 {
  "name": "Inland",
- "updated": "2026-10-25T23:17:06+00:00",
+ "updated": "2026-10-26T08:57:05+00:00",
  "items": [
+  {
+   "t": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+   "s": "Das Kreuzfahrtschiff \"Mein Schiff 3\" ist nach dem Auslaufen in Bremerhaven bei stürmischem Wetter mit zwei Schiffen kollidiert. Zwei Schlepper wurden beschädigt. Nach aktuellem Stand gab es keine Verletzten.",
+   "u": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T08:49:00+00:00"
+  },
+  {
+   "t": "Kreuzfahrtschiff rammt Containerschiffe - neue Sturmflutwarnung",
+   "s": "Bei hohen Wellen und starkem Wind hat ein Kreuzfahrtschiff in Bremerhaven zwei Containerschiffe gerammt. Insgesamt verlief die Sturmnacht im Norden relativ glimpflich. Doch für den Mittag gibt es weitere Sturmflutwarnungen.",
+   "u": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T08:24:05+00:00"
+  },
+  {
+   "t": "Neuer Baustandard: Regierung bringt einfachere Norm auf den Weg",
+   "s": "Das Ziel ist, günstiger zu bauen: Die Koalition verbindet große Erwartungen mit einem neuen Gebäudetyp. Über den Entwurf wurde lange gestritten.",
+   "u": "https://taz.de/Neuer-Baustandard/!6224969/",
+   "q": "taz",
+   "d": "2026-10-26T08:19:00+00:00"
+  },
+  {
+   "t": "Jubel nach Lulas Sieg: Brasilien im Freudentaumel",
+   "s": "Mit 80 Jahren gewinnt Lula da Silva noch einmal eine Präsidentschaftswahl. Sein Gegner, Flávio Bolsonaro, will das Ergebnis nicht anerkennen.",
+   "u": "https://taz.de/Jubel-nach-Lulas-Sieg/!6224965/",
+   "q": "taz",
+   "d": "2026-10-26T07:54:00+00:00"
+  },
+  {
+   "t": "Serbien-Wahl - \"Dieser Sieg gehört allein der serbischen Jugend\"",
+   "s": "Serbiens Präsident Aleksandar Vucic ist abgewählt, die Studentenliste hat die absolute Mehrheit. Expertin Aleksandra Tomanic hofft auf einen Politikwechsel in Richtung Demokratie und Europa-Offenheit. Es kämen nun gebildete Leute an die Macht.Heinlein, Stefan",
+   "u": "https://www.deutschlandfunk.de/interview-aleksandra-tomanic-belgrad-praesidiums-mitglied-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-26T07:10:00+00:00"
+  },
+  {
+   "t": "Bulgarien: Stichwahl entscheidet über Staatsoberhaupt",
+   "s": "Bulgariens Präsidentin Ilijana Jotowa liegt im ersten Wahlgang erwartungsgemäß vorn. Überraschend ist ihr relativ knapper Vorsprung.",
+   "u": "https://taz.de/Bulgarien/!6224964/",
+   "q": "taz",
+   "d": "2026-10-26T07:02:00+00:00"
+  },
+  {
+   "t": "Parlamentswahl in Serbien: Niederlage für Machthaber Vučić",
+   "s": "14 Jahre lang bestimmte Aleksandar Vučić die Politik seines Landes im Alleingang – bis zur Studentenbewegung. Bricht für Serbien nun eine bessere Zukunft an?",
+   "u": "https://taz.de/Parlamentswahl-in-Serbien/!6224963/",
+   "q": "taz",
+   "d": "2026-10-26T06:53:00+00:00"
+  },
+  {
+   "t": "Vor Kommunalwahlen in Südafrika: Der Alte duldet niemanden neben sich",
+   "s": "Die linkspopulistische Partei MK in Südafrika verliert eine Führungsperson nach der anderen. Parteichef Jacob Zuma wirft sie immer wieder raus.",
+   "u": "https://taz.de/Vor-Kommunalwahlen-in-Suedafrika/!6224853/",
+   "q": "taz",
+   "d": "2026-10-26T06:17:00+00:00"
+  },
+  {
+   "t": "Ofer Waldman: Eisenkot will auch keine Lösung des Nahostkonflikts",
+   "s": "Im israelischen Wahlkampf dominiert die Aufarbeitung des Anschlags vom 7. Oktober 2023, sagt der Autor Ofer Waldman. Zukunftsprogramme hätten die Parteien kaum zu bieten. Auch Netanjahu-Herausforderer Gadi Eisenkot strebe keine Zweistaatenlösung an.Heinlein, Stefan",
+   "u": "https://www.deutschlandfunk.de/interview-ofer-waldman-leiter-heinrich-boell-stfg-tel-aviv-zu-wahlen-in-israel-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-26T05:50:00+00:00"
+  },
+  {
+   "t": "Stichwahl in Brasilien: Lula schlägt Bolsonaro junior",
+   "s": "Brasiliens linker Präsident Lula gewinnt gegen Flávio Bolsonaro und trotzt dem Rechtsruck in Lateinamerika. Der Wahlabend verlief chaotisch, Bolsonaro will das Ergebnis anfechten.",
+   "u": "https://taz.de/Stichwahl-in-Brasilien/!6224962/",
+   "q": "taz",
+   "d": "2026-10-26T00:38:00+00:00"
+  },
   {
    "t": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
    "s": "Deutschland braucht mehr bezahlbaren Wohnraum. Das soll unter anderem mit dem Gebäudetyp E gelingen - das E steht hier für \"einfach\". Der Gesetzentwurf liegt dem ARD-Hauptstadtstudio exklusiv vor. Von Oliver Neuroth.",
@@ -36,13 +106,6 @@
    "u": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
    "q": "Tagesschau",
    "d": "2026-10-25T18:49:43+00:00"
-  },
-  {
-   "t": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-   "s": "Das Kreuzfahrtschiff \"Mein Schiff 3\" ist nach dem Auslaufen in Bremerhaven bei stürmischem Wetter mit zwei Schiffen kollidiert. Zwei Schlepper wurden beschädigt. Nach aktuellem Stand gab es keine Verletzten.",
-   "u": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T18:30:00+00:00"
   },
   {
    "t": "Melanie Berger-Volle verstorben: Sie blieb Rebellin bis zuletzt",
@@ -106,69 +169,6 @@
    "u": "https://taz.de/Pressefreiheit-in-Europa/!6224852/",
    "q": "taz",
    "d": "2026-10-25T14:50:00+00:00"
-  },
-  {
-   "t": "Sturmtief \"Manja\" fegt über Deutschland",
-   "s": "Stromausfall in Freiburg, mögliche Sturmflut und orkanartige Böen an der Nordsee: Sturm und Regen bestimmen heute das Wetter in Deutschland, es gab bereits zahlreiche Einsätze. Für Teile des Landes galten Warnungen.",
-   "u": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T14:48:27+00:00"
-  },
-  {
-   "t": "Proteste gegen Abschiebungen: Demonstrationen am Ort des Geschehens",
-   "s": "Bundesweit haben Menschen gegen Abschiebungen protestiert. In Frankfurt und Düsseldorf sollen neue Abschiebezentren an den Flughäfen entstehen.",
-   "u": "https://taz.de/Proteste-gegen-Abschiebungen/!6224767/",
-   "q": "taz",
-   "d": "2026-10-25T14:39:00+00:00"
-  },
-  {
-   "t": "Sozialproteste in Europa: Für gute Bildung, bezahlbare Mieten und moderate Preise",
-   "s": "Nicht nur in Frankreich, sondern auch in Albanien, Spanien oder Italien demonstrieren Menschen gegen Missstände an Schulen und Unis und gegen zu hohe Lebenshaltungskosten.",
-   "u": "https://taz.de/Sozialproteste-in-Europa/!6224917/",
-   "q": "taz",
-   "d": "2026-10-25T14:31:00+00:00"
-  },
-  {
-   "t": "Ilse Aigner als Bundespräsidentin: Merz’ Schwäche macht auch Scheindebatten relevant",
-   "s": "Die CSU sieht ihre Kandidatin schon fast im Schloss Bellevue. Ein Problem dabei ist, dass der Kanzler zu schwach ist, um Größe zu zeigen.",
-   "u": "https://taz.de/Ilse-Aigner-als-Bundespraesidentin/!6224772/",
-   "q": "taz",
-   "d": "2026-10-25T14:01:00+00:00"
-  },
-  {
-   "t": "Vorstoß zur Vergesellschaftung: Dobrindt plant hohe Hürden",
-   "s": "Die Bundesregierung will ein Gesetz vorlegen, das Vergesellschaftungen deutlich komplizierter machen würde. Die Linke wirft dem Innenminister Lobbyismus vor.",
-   "u": "https://taz.de/Vorstoss-zur-Vergesellschaftung/!6224903/",
-   "q": "taz",
-   "d": "2026-10-25T13:22:00+00:00"
-  },
-  {
-   "t": "Steinmeier bei Umweltpreis-Verleihung: \"Die Fieberkurve unseres Planeten zeigt deutlich nach oben\"",
-   "s": "In Aachen ist der Deutsche Umweltpreis an die Klimajuristin Verheyen und den Membranfilter-Ingenieur Vossenkaul verliehen worden. Bundespräsident Steinmeier mahnte, dem Klimaschutz trotz anderer Krisen und Sorgen Priorität einzuräumen.",
-   "u": "https://www.tagesschau.de/inland/umweltpreis-142.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T13:13:45+00:00"
-  },
-  {
-   "t": "Massenproteste in Frankreich: Mehr Regen als Wasserwerfer",
-   "s": "Beim zweiten großen Protesttag in Frankreich kommt es nur vereinzelt zu Gewalt. Hunderttausende gehen in Paris und anderen Städten auf die Straße.",
-   "u": "https://taz.de/Massenproteste-in-Frankreich/!6224783/",
-   "q": "taz",
-   "d": "2026-10-25T12:43:00+00:00"
-  },
-  {
-   "t": "Wahlkampf im US-Bundesstaat Michigan: Abdul El-Sayed auf den Spuren von Barack Obama",
-   "s": "Ausgerechnet im Arbeiterstaat Michigan setzen die Demokraten für die Senatswahl auf einen jungen linken Muslim. Es ist eine riskante Strategie.",
-   "u": "https://taz.de/Wahlkampf-im-US-Bundesstaat-Michigan/!6224815/",
-   "q": "taz",
-   "d": "2026-10-25T12:41:00+00:00"
-  },
-  {
-   "t": "Kommentar zur \"Extremismusklausel\": Söders Populismus",
-   "s": "Die CSU will eine sogenannte Extremismusklausel in den Länderfinanzausgleich aufnehmen und damit extremistisch regierten Bundesländern das Geld kürzen. Realistisch ist das nicht, sondern lediglich ein populistischer Versuch, sich zu profilieren.Ein Kommentar von Steffen Wurzel",
-   "u": "https://www.deutschlandfunk.de/kommentar-laenderfinanzausgleich-extremismusklausel-soeder-csu-parteitag-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-25T12:23:00+00:00"
   }
  ]
 }
