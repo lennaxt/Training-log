@@ -1,7 +1,28 @@
 {
  "name": "Kultur",
- "updated": "2026-10-26T08:57:09+00:00",
+ "updated": "2026-10-26T16:08:16+00:00",
  "items": [
+  {
+   "t": "Vereinte Nationen: Trump will seinen Buddy Orbán als UN-Generalsekretär",
+   "s": "US-Präsident Donald Trump soll Ungarns abgewählten Autokraten als UN-Generalsekretär vorgeschlagen haben – unterstützt von China und Russland. Orbán hätte kaum Konkurrenz.",
+   "u": "https://taz.de/Vereinte-Nationen/!6225038/",
+   "q": "taz",
+   "d": "2026-10-26T14:50:00+00:00"
+  },
+  {
+   "t": "Vor Zwischenwahlen in den USA: Exil-Kubaner wenden sich von Republikanern ab",
+   "s": "Der Stadtteil Little Havana in Miami gilt traditionell als Hochburg der Republikaner. Doch bei den US-Kongresswahlen im November könnte sich das ändern.",
+   "u": "https://taz.de/Vor-Zwischenwahlen-in-den-USA/!6219090/",
+   "q": "taz",
+   "d": "2026-10-26T13:27:00+00:00"
+  },
+  {
+   "t": "Demokratie in Venezuela: Oppositionsführerin Machado ist zurück in Venezuela",
+   "s": "Nach vielen gescheiterten Einreiseversuchen ist María Corina Machado wieder in Venezuela und drängt auf Wahlen. Die US-Regierung winkt vorerst ab.",
+   "u": "https://taz.de/Demokratie-in-Venezuela/!6224993/",
+   "q": "taz",
+   "d": "2026-10-26T10:36:00+00:00"
+  },
   {
    "t": "Jubel nach Lulas Sieg: Brasilien im Freudentaumel",
    "s": "Mit 80 Jahren gewinnt Lula da Silva noch einmal eine Präsidentschaftswahl. Sein Gegner, Flávio Bolsonaro, will das Ergebnis nicht anerkennen.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Zweifel-an-Lebenslauf-bestaetigt/!6222155/",
    "q": "taz",
    "d": "2026-10-16T10:23:00+00:00"
-  },
-  {
-   "t": "Wieder Schulmassaker in den USA: Drei Grundschulkinder und ein Lehrer erschossen",
-   "s": "Im Bundesstaat Oregon wurden drei Kinder und ein Lehrer getötet, weitere wurden verletzt. Der 16-jährige Täter wurde von einem Anwohner erschossen.",
-   "u": "https://taz.de/Wieder-Schulmassaker-in-den-USA/!6222151/",
-   "q": "taz",
-   "d": "2026-10-16T08:37:00+00:00"
-  },
-  {
-   "t": "Todesstrafe für Attentäter: Trump sagt Liveübertragung von Hinrichtung ab",
-   "s": "Erst sollte die ganze Welt zusehen können, wie ein verurteilter Attentäter hingerichtet wird. Nun macht Trump einen Rückzieher. Was steckt dahinter?",
-   "u": "https://taz.de/Todesstrafe-fuer-Attentaeter/!6222109/",
-   "q": "taz",
-   "d": "2026-10-15T16:15:00+00:00"
-  },
-  {
-   "t": "Ausnahmezustand in El Salvador: Zehntausende Gefangene könnten freikommen",
-   "s": "El Salvadors autoritär regierender Präsident Nayib Bukele deutet an, rund die Hälfte der wegen Bandenkriminalität Inhaftierten freilassen zu wollen.",
-   "u": "https://taz.de/Ausnahmezustand-in-El-Salvador/!6221894/",
-   "q": "taz",
-   "d": "2026-10-15T13:28:00+00:00"
   }
  ]
 }

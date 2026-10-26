@@ -1,20 +1,132 @@
 {
  "name": "Inland",
- "updated": "2026-10-26T08:57:05+00:00",
+ "updated": "2026-10-26T16:08:10+00:00",
  "items": [
+  {
+   "t": "Audi-Chef als Wahlhelfer für Trump - Warum Autokonzerne in die USA abwandern",
+   "s": "Der Auftritt von Audi-Chef Döllner mit Trump hat für Kritik gesorgt. Audi streicht Jobs in Deutschland und will in den USA Milliarden investieren. Warum? Und: In Serbien und Brasilien gibt es überraschende Wahlergebnisse. Ein Sieg der Demokratie?Josephine Schulz",
+   "u": "https://www.deutschlandfunk.de/audi-chef-wahlhelfer-trump-autokonzerne-usa-wirtschaft-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-26T16:00:30+00:00"
+  },
+  {
+   "t": "Präsidentschaftswahl in Bulgarien: Amtsinhaberin Jotowa siegt knapper als erwartet",
+   "s": "Die Präsidentin holte die meisten Stimmen. Am 1. November trifft sie auf den pro-europäischen Ex-Premier Gjurow. Ihn abzuschreiben, wäre aber zu früh.",
+   "u": "https://taz.de/Praesidentschaftswahl-in-Bulgarien/!6225121/",
+   "q": "taz",
+   "d": "2026-10-26T15:52:00+00:00"
+  },
+  {
+   "t": "Parlamentswahlen in Serbien: Regieren geht über studieren",
+   "s": "Serbiens Studentenliste feiert einen Erdrutschsieg. Nach Jahren des Protests könnte ein politischer Umbruch folgen. Eindrücke einer historischen Nacht.",
+   "u": "https://taz.de/Parlamentswahlen-in-Serbien/!6224972/",
+   "q": "taz",
+   "d": "2026-10-26T15:50:00+00:00"
+  },
+  {
+   "t": "Truppenentsendung nach Niger: Algerien schickt Soldaten in die Wüste",
+   "s": "Auf einer einstigen französischen Basis in Niger sollen zukünftig algerische Soldaten stehen. Es geht um Ölinteressen – und die Abwehr von Rivalen.",
+   "u": "https://taz.de/Truppenentsendung-nach-Niger/!6225032/",
+   "q": "taz",
+   "d": "2026-10-26T15:39:00+00:00"
+  },
+  {
+   "t": "Portugal: Regierung lässt Wohn-Protestcamps räumen",
+   "s": "In Lissabon und Porto hat die Polizei erneut Protestcamps für bezahlbaren Wohnraum geräumt. Es gab zahlreiche Festnahmen und Verletzte.",
+   "u": "https://taz.de/Portugal/!6225090/",
+   "q": "taz",
+   "d": "2026-10-26T15:18:00+00:00"
+  },
+  {
+   "t": "Wahl des Bundespräsidenten: Wer folgt auf Steinmeier?",
+   "s": "Am 30. Januar wählt die Bundesversammlung ein neues Staatsoberhaupt. Doch wer für die Nachfolge von Frank-Walter Steinmeier ins Rennen geschickt wird, ist noch offen. Welche Namen gehandelt werden, wer die besten Chancen hat und wie die Wahl abläuft.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentenwahl-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T15:07:22+00:00"
+  },
+  {
+   "t": "Vereinte Nationen: Trump will seinen Buddy Orbán als UN-Generalsekretär",
+   "s": "US-Präsident Donald Trump soll Ungarns abgewählten Autokraten als UN-Generalsekretär vorgeschlagen haben – unterstützt von China und Russland. Orbán hätte kaum Konkurrenz.",
+   "u": "https://taz.de/Vereinte-Nationen/!6225038/",
+   "q": "taz",
+   "d": "2026-10-26T14:50:00+00:00"
+  },
+  {
+   "t": "Kreuzfahrtschiff rammt Containerschiffe - Polizei ermittelt gegen Kapitän",
+   "s": "Nach der Schiffskollision in Bremerhaven während eines Sturms ermittelt die Polizei gegen den Kapitän des Kreuzfahrtschiffs \"Mein Schiff 3\". Es geht um einen möglichen Verstoß gegen die Sorgfaltspflicht. Die Kreuzfahrt ist abgesagt.",
+   "u": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T14:30:41+00:00"
+  },
+  {
+   "t": "Auf der Suche nach Partnerschaften: Steinmeier und Merz reisen nach Asien",
+   "s": "Bundespräsident Steinmeier bricht zu seinem zweiten Staatsbesuch nach China auf. Gleichzeitig reist Kanzler Merz in die Nachbarschaft des Riesenreichs. Ist das Zufall?",
+   "u": "https://taz.de/Auf-der-Suche-nach-Partnerschaften/!6225109/",
+   "q": "taz",
+   "d": "2026-10-26T13:46:00+00:00"
+  },
+  {
+   "t": "Vor Zwischenwahlen in den USA: Exil-Kubaner wenden sich von Republikanern ab",
+   "s": "Der Stadtteil Little Havana in Miami gilt traditionell als Hochburg der Republikaner. Doch bei den US-Kongresswahlen im November könnte sich das ändern.",
+   "u": "https://taz.de/Vor-Zwischenwahlen-in-den-USA/!6219090/",
+   "q": "taz",
+   "d": "2026-10-26T13:27:00+00:00"
+  },
+  {
+   "t": "AfD-Leak: Kampf um die Deutung und mögliche Folgen",
+   "s": "Die offenbar gehackten und geleakten AfD-Mails auszuwerten, kann Monate dauern: Doch sie könnten ein mögliches AfD-Verbotsverfahren und den Blick auf die Spendenaffäre beeinflussen.",
+   "u": "https://www.deutschlandfunk.de/afd-leaks-hackerangriff-weidel-mails-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-26T13:19:00+00:00"
+  },
+  {
+   "t": "Verkehrsminister über zugänglichen ÖPNV: „Der Gelegenheitstarif spart auch für die Verkehrsbetriebe Geld“",
+   "s": "Das NRW-ÖPNV-Ticket für Gelegenheitsnutzer ist auf die ganze Bundesrepublik übertragbar, sagt Landesverkehrsminister Oliver Krischer. Und sei auch gerecht.",
+   "u": "https://taz.de/Wird-der-OePNV-fuer-Gelegenheitsfahrer-guenstiger-Das-sagt-der-NRW-Verkehrsminister-dazu/!6224041/",
+   "q": "taz",
+   "d": "2026-10-26T12:40:00+00:00"
+  },
+  {
+   "t": "Wahl in Israel: Königsmacherin ohne Anschluss",
+   "s": "Die arabische Partei Ra'am könnte über Israels nächste Regierung entscheiden. Sie kämpft gegen Gewalt und für mehr Rechte ihrer Wähler – bis hin zu Strom in Häusern.",
+   "u": "https://taz.de/Wahl-in-Israel/!6222304/",
+   "q": "taz",
+   "d": "2026-10-26T11:45:00+00:00"
+  },
   {
    "t": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
    "s": "Das Kreuzfahrtschiff \"Mein Schiff 3\" ist nach dem Auslaufen in Bremerhaven bei stürmischem Wetter mit zwei Schiffen kollidiert. Zwei Schlepper wurden beschädigt. Nach aktuellem Stand gab es keine Verletzten.",
    "u": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-26T08:49:00+00:00"
+   "d": "2026-10-26T10:54:00+00:00"
   },
   {
-   "t": "Kreuzfahrtschiff rammt Containerschiffe - neue Sturmflutwarnung",
-   "s": "Bei hohen Wellen und starkem Wind hat ein Kreuzfahrtschiff in Bremerhaven zwei Containerschiffe gerammt. Insgesamt verlief die Sturmnacht im Norden relativ glimpflich. Doch für den Mittag gibt es weitere Sturmflutwarnungen.",
-   "u": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T08:24:05+00:00"
+   "t": "Nach Kirchenangriff in Jordanien: Mutmaßliche Attentäter festgenommen",
+   "s": "Drei Tage nach dem Angriff auf Kirchenbesucher in Südjordanien meldet das Land einen Ermittlungserfolg. Drei mutmaßliche Täter wurden im Morgengrauen gestellt.",
+   "u": "https://taz.de/Nach-Kirchenangriff-in-Jordanien/!6225023/",
+   "q": "taz",
+   "d": "2026-10-26T10:45:00+00:00"
+  },
+  {
+   "t": "Demokratie in Venezuela: Oppositionsführerin Machado ist zurück in Venezuela",
+   "s": "Nach vielen gescheiterten Einreiseversuchen ist María Corina Machado wieder in Venezuela und drängt auf Wahlen. Die US-Regierung winkt vorerst ab.",
+   "u": "https://taz.de/Demokratie-in-Venezuela/!6224993/",
+   "q": "taz",
+   "d": "2026-10-26T10:36:00+00:00"
+  },
+  {
+   "t": "Ist die Linke zu extrem? Oder die Kritik an ihr?",
+   "s": "Von der Wohnungspolitik bis zur Nahost-Debatte: Kaum eine Partei polarisiert derzeit so sehr wie die Berliner Linke. Doch wie viel davon ist berechtigte Kritik und wie viel politiksches Kalkül? Wir diskutieren.May, Philipp",
+   "u": "https://www.deutschlandfunk.de/antisemitismus-enteignungen-ist-die-linke-zu-extrem-oder-die-kritik-an-ihr-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-26T09:08:00+00:00"
+  },
+  {
+   "t": "Wahlsieg der Opposition: Das Wunder von Serbien",
+   "s": "Bis vor Kurzem schien es noch undenkbar: Die Opposition unter Führung der Studenten hat Aleksandar Vučić aus dem Amt gejagt – ein historischer Tag.",
+   "u": "https://taz.de/Wahlsieg-der-Opposition/!6224976/",
+   "q": "taz",
+   "d": "2026-10-26T09:07:00+00:00"
   },
   {
    "t": "Neuer Baustandard: Regierung bringt einfachere Norm auf den Weg",
@@ -57,118 +169,6 @@
    "u": "https://taz.de/Vor-Kommunalwahlen-in-Suedafrika/!6224853/",
    "q": "taz",
    "d": "2026-10-26T06:17:00+00:00"
-  },
-  {
-   "t": "Ofer Waldman: Eisenkot will auch keine Lösung des Nahostkonflikts",
-   "s": "Im israelischen Wahlkampf dominiert die Aufarbeitung des Anschlags vom 7. Oktober 2023, sagt der Autor Ofer Waldman. Zukunftsprogramme hätten die Parteien kaum zu bieten. Auch Netanjahu-Herausforderer Gadi Eisenkot strebe keine Zweistaatenlösung an.Heinlein, Stefan",
-   "u": "https://www.deutschlandfunk.de/interview-ofer-waldman-leiter-heinrich-boell-stfg-tel-aviv-zu-wahlen-in-israel-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-26T05:50:00+00:00"
-  },
-  {
-   "t": "Stichwahl in Brasilien: Lula schlägt Bolsonaro junior",
-   "s": "Brasiliens linker Präsident Lula gewinnt gegen Flávio Bolsonaro und trotzt dem Rechtsruck in Lateinamerika. Der Wahlabend verlief chaotisch, Bolsonaro will das Ergebnis anfechten.",
-   "u": "https://taz.de/Stichwahl-in-Brasilien/!6224962/",
-   "q": "taz",
-   "d": "2026-10-26T00:38:00+00:00"
-  },
-  {
-   "t": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
-   "s": "Deutschland braucht mehr bezahlbaren Wohnraum. Das soll unter anderem mit dem Gebäudetyp E gelingen - das E steht hier für \"einfach\". Der Gesetzentwurf liegt dem ARD-Hauptstadtstudio exklusiv vor. Von Oliver Neuroth.",
-   "u": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T23:07:11+00:00"
-  },
-  {
-   "t": "Wahl in Israel: „Wir können keine einzige Stimme verschwenden“",
-   "s": "Viele im Ausland lebenden Israelis kehren heim zur Wahl. Das tut auch Nathan aus Berlin: eine linke Ausnahme in einer erzkonservativen Familie.",
-   "u": "https://taz.de/Wahl-in-Israel/!6224717/",
-   "q": "taz",
-   "d": "2026-10-25T19:20:00+00:00"
-  },
-  {
-   "t": "Zwischenwahlen in den USA: Der teuerste Wahlkampf aller Zeiten",
-   "s": "Noch nie sind für Zwischenwahlen in den USA so große Wahlkampfspenden geflossen wie in diesem Jahr. Einige Großspender ragen besonders heraus.",
-   "u": "https://taz.de/Zwischenwahlen-in-den-USA/!6223709/",
-   "q": "taz",
-   "d": "2026-10-25T19:20:00+00:00"
-  },
-  {
-   "t": "Dresdner Antifa-Prozess: Tod eines Angeklagten",
-   "s": "Henry A., angeklagt im Prozess gegen die „Antifa Ost“, ist zwei Monate nach einem Suizidversuch gestorben. Sein Anwalt macht dem Gericht Vorwürfe.",
-   "u": "https://taz.de/Dresdner-Antifa-Prozess/!6224770/",
-   "q": "taz",
-   "d": "2026-10-25T19:14:00+00:00"
-  },
-  {
-   "t": "Stromsteuer-Debatte: Union und SPD weiter weit auseinander",
-   "s": "Dass Unternehmen und Haushalte beim Strompreis entlastet werden sollen, darüber herrscht in der Regierung Einigkeit. Unklar aber ist, wie das finanziert werden kann. Im Bericht aus Berlin machten CDU und SPD sehr unterschiedliche Vorschläge.",
-   "u": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T18:49:43+00:00"
-  },
-  {
-   "t": "Melanie Berger-Volle verstorben: Sie blieb Rebellin bis zuletzt",
-   "s": "Die Wiener Trotzkistin und Jüdin Melanie Berger-Volle ist verstorben. Dank Harakiri-Aktionen überlebte sie die Schoah, engagierte sich und wurde 105 Jahre alt.",
-   "u": "https://taz.de/Melanie-Berger-Volle-verstorben/!6224741/",
-   "q": "taz",
-   "d": "2026-10-25T18:24:00+00:00"
-  },
-  {
-   "t": "Wahlen auf dem Balkan: Populisten sind schlecht für das Wachstum",
-   "s": "Während in den liberal regierten Ländern Polen und Ungarn die Wirtschaft in Fahrt gerät, kommen Bulgarien, Serbien und Rumänien unter die Räder.",
-   "u": "https://taz.de/Wahlen-auf-dem-Balkan/!6224750/",
-   "q": "taz",
-   "d": "2026-10-25T17:28:00+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Lektion in Sachen Demokratie",
-   "s": "Hunderttausende sind in Frankreich trotz Demonstrationsverboten auf die Straße gegangen. Statt sie anzuhören, fährt die Regierung eine Verleumdungskampagne.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6224751/",
-   "q": "taz",
-   "d": "2026-10-25T17:24:00+00:00"
-  },
-  {
-   "t": "KI im Kinderzimmer - Wenn ChatGPT Plüschohren bekommt",
-   "s": "Künstliche Intelligenz ist nicht nur im Büro auf dem Vormarsch, sondern auch im Kinderzimmer. Sprechende Kuscheltiere lassen Kinderherzen höher schlagen, aber werfen Fragen auf: Wie steht es um Datenschutz, Sozialverhalten und heikle Gesprächsthemen? (Erstsendung 24.8.26)Loll, Anna",
-   "u": "https://www.deutschlandfunk.de/ki-im-kinderspielzeug-wenn-chatgpt-plueschohren-kriegt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-25T17:10:00+00:00"
-  },
-  {
-   "t": "Protestkultur: Die historischen Wurzeln der Gewalt in Frankreich",
-   "s": "Die Protestkultur ist in Frankreich tief verankert. Matthias Waechter ist dennoch überrascht, wie schnell sich einzelne Schülerproteste zu einer nationalen Bewegung entwickelt haben. Der Historiker sieht darin auch Parallelen zur Revolution von 1789.Detjen, Stephan",
-   "u": "https://www.deutschlandfunk.de/die-historischen-wurzeln-der-gewalt-in-frankreich-matthias-waechter-im-gespraech-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-25T16:05:00+00:00"
-  },
-  {
-   "t": "Kurz vor den Wahlen in Israel: Netanjahu setzt im Wahlkampf nochmal einen drauf",
-   "s": "Am Dienstag wählt Israel ein neues Parlament; der Premier macht mit Aussagen zu Sanktionen Furore. In Hebron verlieren derweil Palästinenser den Zugang zu ihren Häusern.",
-   "u": "https://taz.de/Kurz-vor-den-Wahlen-in-Israel/!6224942/",
-   "q": "taz",
-   "d": "2026-10-25T16:01:00+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Tanzen, Tränengas, Barrikaden",
-   "s": "In Marseille reißen die Proteste gegen das teure Leben auch dieses Wochenende nicht ab. Die Polizei fährt Panzer auf, erneut brennen etliche Barrikaden.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6224892/",
-   "q": "taz",
-   "d": "2026-10-25T15:20:00+00:00"
-  },
-  {
-   "t": "US-Philosophin über Midterms: „Immer mehr Leute fühlen sich von Trump verraten“",
-   "s": "Im Wirbel der multiplen Krisen schwinde die Macht der MAGA-Bewegung, sagt die US-Philosophin Nancy Fraser – das sei eine Chance für eine neue Linke.",
-   "u": "https://taz.de/US-Philosophin-ueber-Midterms/!6219042/",
-   "q": "taz",
-   "d": "2026-10-25T15:09:00+00:00"
-  },
-  {
-   "t": "Pressefreiheit in Europa: Proteste in Tschechien für freien Rundfunk",
-   "s": "Per Nachtsitzung treibt die Regierung die Abschaffung der Rundfunkgebühren voran. Kritiker fürchten eine staatliche Kontrolle nach ungarischem Vorbild.",
-   "u": "https://taz.de/Pressefreiheit-in-Europa/!6224852/",
-   "q": "taz",
-   "d": "2026-10-25T14:50:00+00:00"
   }
  ]
 }

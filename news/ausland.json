@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-10-26T08:57:05+00:00",
+ "updated": "2026-10-26T16:08:11+00:00",
  "items": [
+  {
+   "t": "Netanjahus Gegenkandidaten bei der Israel-Wahl: Gemeinsam für den Neuanfang?",
+   "s": "Morgen wählt Israel. Dann entscheidet sich, ob das Land seinen Premier behält. Oder ob das \"Anti-Netanjahu-Bündnis\" gewinnt. Doch die unterschiedlichen Vorstellungen der Kandidaten könnten zum Problem werden. Von J.-C. Kitzler.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wahlen-netanjahu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T09:41:25+00:00"
+  },
+  {
+   "t": "Wie die Ukraine einen Soldaten per Drohne rettete",
+   "s": "Der Ukraine ist eine spektakuläre Mission gelungen: Erstmals wurde ein verwundeter Soldat aus dem Frontgebiet mit einer Drohne ausgeflogen. Im ARD-Interview berichtet er, wie er seine Rettung erlebte. Von V. Golod und N. Bula.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-soldat-rettung-drohne-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T09:17:03+00:00"
+  },
+  {
+   "t": "Umfragen vor den Midterms: Trumps frühere Wähler wenden sich von ihm ab",
+   "s": "US-Präsident Trump wurde 2024 von vielen Menschen gewählt, die sonst nicht für die Republikaner stimmen. Kurz vor den Zwischenwahlen zeigen Umfragen nun: Diese Wähler hat er besonders enttäuscht. Von Jörg Schönenborn.",
+   "u": "https://www.tagesschau.de/ausland/amerika/midterms-umfragen-trump-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T09:06:38+00:00"
+  },
   {
    "t": "Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
    "s": "Der linke Staatschef Lula hat die Präsidentschaftswahl in Brasilien gewonnen. Er setzte sich gegen den rechten Kandidaten Bolsonaro durch - doch der will das Ergebnis nicht anerkennen.",
@@ -115,13 +136,6 @@
    "d": "2026-10-24T14:14:53+00:00"
   },
   {
-   "t": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
-   "s": "Höherer Lebensstandard durch harte Arbeit: Der klassische amerikanische Traum scheint jungen US-Bürgern zunehmend unerreichbar. Was erwarten sie von den Zwischenwahlen? Anne Schneider hat sich in Texas umgehört.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-24T13:47:08+00:00"
-  },
-  {
    "t": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
    "s": "Nach den tödlichen Schüssen auf zwei Soldaten hat Israels Armee einen \"Anti-Terror-Einsatz\" im Westjordanland begonnen. Man suche dort nach Waffen und Terrorinfrastruktur. Israels Premier drohte zudem mit einem großangelegten Militäreinsatz.",
    "u": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/griechenland-social-media-100.html",
    "q": "Tagesschau",
    "d": "2026-10-23T15:44:49+00:00"
-  },
-  {
-   "t": "Ein Toter und Verletzte: Innenminister spricht von Terror-Tat bei Paris",
-   "s": "Aus einem Auto heraus hat ein Mann in mehreren Vororten von Paris Schüsse abgefeuert. Ein Mensch wurde getötet, es gibt mehrere Schwerverletzte. Frankreichs Innenminister Nuñez spricht von einer \"terroristischen Tat\".",
-   "u": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T15:15:56+00:00"
-  },
-  {
-   "t": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
-   "s": "Die israelische Regierung hat das Militär angewiesen, sich auf eine vollständige Abriegelung des Westjordanlands vorzubereiten. Zuvor gab es einen palästinensischen Angriff in Hebron, zwei israelische Soldaten wurden dabei getötet.",
-   "u": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T15:06:05+00:00"
   }
  ]
 }

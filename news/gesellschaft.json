@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-26T08:57:08+00:00",
+ "updated": "2026-10-26T16:08:15+00:00",
  "items": [
+  {
+   "t": "Portugal: Regierung lässt Wohnprotest-Camps räumen",
+   "s": "In Lissabon und Porto hat die Polizei erneut Protestcamps für bezahlbaren Wohnraum geräumt. Es gab zahlreiche Festnahmen und Verletzte.",
+   "u": "https://taz.de/Portugal/!6225090/",
+   "q": "taz",
+   "d": "2026-10-26T15:18:00+00:00"
+  },
+  {
+   "t": "Nach Kirchenangriff in Jordanien: Mutmaßliche Attentäter festgenommen",
+   "s": "Drei Tage nach dem Angriff auf Kirchenbesucher in Südjordanien meldet das Land einen Ermittlungserfolg. Drei mutmaßliche Täter wurden im Morgengrauen gestellt.",
+   "u": "https://taz.de/Nach-Kirchenangriff-in-Jordanien/!6225023/",
+   "q": "taz",
+   "d": "2026-10-26T10:45:00+00:00"
+  },
+  {
+   "t": "Wahlsieg der Opposition: Das Wunder von Serbien",
+   "s": "Bis vor Kurzem schien es noch undenkbar: Die Opposition unter Führung der Studenten hat Aleksandar Vučić aus dem Amt gejagt – ein historischer Tag.",
+   "u": "https://taz.de/Wahlsieg-der-Opposition/!6224976/",
+   "q": "taz",
+   "d": "2026-10-26T09:07:00+00:00"
+  },
   {
    "t": "Bulgarien: Stichwahl entscheidet über Staatsoberhaupt",
    "s": "Bulgariens Präsidentin Ilijana Jotowa liegt im ersten Wahlgang erwartungsgemäß vorn. Überraschend ist ihr relativ knapper Vorsprung.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Neuwahlen-in-Serbien/!6223719/",
    "q": "taz",
    "d": "2026-10-23T17:13:00+00:00"
-  },
-  {
-   "t": "Ebola in Afrika: Noch keine Entwarnung",
-   "s": "Experten stellen bei den Ansteckungsraten mit dem Virus einen leichten Abwärtstrend fest. Wie nachhaltig dieser ist, wird sich erst noch zeigen.",
-   "u": "https://taz.de/Ebola-in-Afrika/!6224063/",
-   "q": "taz",
-   "d": "2026-10-23T16:21:00+00:00"
-  },
-  {
-   "t": "Proteste gegen Sparkurs an Unis: Genies ohne Geld",
-   "s": "In Wien protestieren rund 50.000 Menschen gegen Einsparungen an Hochschulen. Doch die österreichische Regierung verkauft das als Erfolg.",
-   "u": "https://taz.de/Proteste-gegen-Sparkurs-an-Unis/!6224062/",
-   "q": "taz",
-   "d": "2026-10-23T16:21:00+00:00"
-  },
-  {
-   "t": "Schüsse aus Auto in Frankreich: Ein Toter, vier Verletzte",
-   "s": "Ein Mann in einem Auto hat in Gemeinden bei Paris auf offener Straße mehrere Schüsse abgefeuert. Es soll mindestens einen Toten und vier Verletzte geben.",
-   "u": "https://taz.de/Schuesse-aus-Auto-in-Frankreich/!6224379/",
-   "q": "taz",
-   "d": "2026-10-23T14:24:00+00:00"
   }
  ]
 }
