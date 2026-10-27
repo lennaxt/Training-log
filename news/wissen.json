@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-27T00:26:45+00:00",
+ "updated": "2026-10-27T09:01:05+00:00",
  "items": [
+  {
+   "t": "Bericht der Weltwetterorganisation: Treibhausgase so hoch wie nie",
+   "s": "Immer mehr Treibhausgase sammeln sich in der Atmosphäre. Das zeigt ein neuer Bericht der Weltwetterorganisation. Offenbar erholt sich die Natur von Hitze und Trockenheit nicht so schnell wie erwartet. Von N. Gode und S. Biegger.",
+   "u": "https://www.tagesschau.de/wissen/klima/treibhausgase-so-hoch-wie-nie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T09:00:07+00:00"
+  },
   {
    "t": "Wie die Goldsuche Natur und Lebensgrundlagen in Ghana zerstört",
    "s": "In Ghana wird unter extremen Bedingungen Gold abgebaut - auch Kakaoplantagen müssen dafür weichen. Mit verheerenden Folgen: Zurück bleiben zerstörte Landschaften und verdreckte, belastete Flüsse. Von Judith Hartmann und Jakob Sax.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-kagan-soai-100.html",
    "q": "Tagesschau",
    "d": "2026-10-07T14:49:24+00:00"
-  },
-  {
-   "t": "Chemie-Nobelpreis geht an Franzosen Kagan und Japaner Soai",
-   "s": "Der Nobelpreis für Chemie geht an den 1930 geborenen Franzosen Henri B. Kagan und den Japaner Kenso Soai. Sie werden für Entdeckungen ausgezeichnet, die etwa bei der Herstellung von Arzneimitteln entscheidend seien.",
-   "u": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-fuer-kagan-und-soai-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T11:52:14+00:00"
   }
  ]
 }

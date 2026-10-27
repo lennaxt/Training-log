@@ -1,7 +1,56 @@
 {
  "name": "Inland",
- "updated": "2026-10-27T00:26:43+00:00",
+ "updated": "2026-10-27T09:01:02+00:00",
  "items": [
+  {
+   "t": "Widersprüchliche Angaben zu Absprachen: Tote bei jordanischen Vergeltungsangriffen auf Syrien",
+   "s": "Jordanien greift im Nachbarland Ziele mit angeblichen Verbindungen zu den Attentätern an, die am Freitag eine Kirche in Jordanien attackiert hatten.",
+   "u": "https://taz.de/Widerspruechliche-Angaben-zu-Absprachen/!6225260/",
+   "q": "taz",
+   "d": "2026-10-27T08:37:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Russland und Ukraine beginnen lokale Feuerpause in Oleschky",
+   "s": "Nach Vermittlungen läuft eine Hilfsaktion für eine umkämpfte Frontstadt an. Russische und ukrainische Truppen sollen eine begrenzte Feuerpause einhalten.",
+   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6213890/",
+   "q": "taz",
+   "d": "2026-10-27T08:35:00+00:00"
+  },
+  {
+   "t": "Nouripour zum iranischen Geheimdienst: „Low-Level-Agenten spielen eine große Rolle“",
+   "s": "In Hamburg wurden zwei Agenten Irans wegen geplanter Anschläge auf jüdische Ziele verurteilt. Die Gefahr sei dennoch nicht gebannt, sagt Nouripour.",
+   "u": "https://taz.de/Omid-Nouripour-zum-iranischen-Geheimdienst-Low-Level-Agenten-spielen-eine-grosse-Rolle/!6224791/",
+   "q": "taz",
+   "d": "2026-10-27T08:25:00+00:00"
+  },
+  {
+   "t": "Wirtschaftsministerin Reiche reagiert auf Windkraft-Brandbrief der Länder",
+   "s": "Mehrere Bundesländer warnten Wirtschaftsministerin Reiche vor einem \"Fadenriss\" beim Ausbau der Windenergie auf See. Die CDU-Politikerin will nun auf eine zentrale Forderung eingehen. Investoren sollen Flächen zurückgeben können.",
+   "u": "https://www.tagesschau.de/inland/windkraft-reiche-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T08:24:01+00:00"
+  },
+  {
+   "t": "Präsidentschaftswahl in Brasilien: Bolsonaro darf das Land vorerst nicht verlassen",
+   "s": "Flávio Bolsonaro geht juristisch gegen Lulas Sieg vor, seine Partei erkennt das Wahlergebnis nur unter Vorbehalt an. Trump spricht von Manipulation.",
+   "u": "https://taz.de/Praesidentschaftswahl-in-Brasilien/!6225258/",
+   "q": "taz",
+   "d": "2026-10-27T07:42:00+00:00"
+  },
+  {
+   "t": "Israel wählt: Fünf Szenarien für die Regierungsbildung",
+   "s": "Laut Umfragen kommen weder Regierung noch zionistische Opposition auf die zur Regierungsbildung nötigen 61 Mandate. Welche Koalitionsmöglichkeiten gibt es?",
+   "u": "https://taz.de/Israel-waehlt/!6224719/",
+   "q": "taz",
+   "d": "2026-10-27T06:17:00+00:00"
+  },
+  {
+   "t": "Muss Facebook rechtswidrige Memes aufspüren?",
+   "s": "Über Social-Media-Accounts wurden Posts verbreitet, die der Grünen-Politikerin Künast falsche Zitate untergeschoben haben. Daraufhin verklagte Künast den Facebook-Betreiber Meta. Heute verhandelt der Bundesgerichtshof erneut. Von Klaus Hempel.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/facebook-memes-kuenast-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T04:20:26+00:00"
+  },
   {
    "t": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
    "s": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für Kritik. SPD-Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW. Audi selbst verteidigt den Auftritt.",
@@ -46,10 +95,17 @@
   },
   {
    "t": "Journalistin zu Serbien-Wahl: „Ich glaube nicht, dass dieses Parlament lange Bestand hat“",
-   "s": "Serbiens Studenten haben die Wahl gewonnen. Die Journalisten Biljana Stepanović rechnet trotzdem mit baldigen Neuwahlen. Warum?",
+   "s": "Serbiens Studenten haben die Wahl gewonnen. Die Journalistin Biljana Stepanović rechnet trotzdem mit baldigen Neuwahlen. Warum?",
    "u": "https://taz.de/Journalistin-zu-Serbien-Wahl/!6225115/",
    "q": "taz",
    "d": "2026-10-26T17:01:00+00:00"
+  },
+  {
+   "t": "Nord-Stream-Prozess: 23 Stunden allein in der Zelle",
+   "s": "Der angeklagte ukrainische Offizier sitzt seit elf Monaten in Isolationshaft. Das beeinträchtige seine Verteidigung, sagt sein Anwalt Jes Meyer-Lohkamp.",
+   "u": "https://taz.de/Nord-Stream-Prozess/!6225007/",
+   "q": "taz",
+   "d": "2026-10-26T17:00:00+00:00"
   },
   {
    "t": "Vor der Wahl in Israel: Was heißt links in Israel?",
@@ -113,62 +169,6 @@
    "u": "https://taz.de/Vereinte-Nationen/!6225038/",
    "q": "taz",
    "d": "2026-10-26T14:50:00+00:00"
-  },
-  {
-   "t": "Kreuzfahrtschiff rammt Containerschiffe - Polizei ermittelt gegen Kapitän",
-   "s": "Nach der Schiffskollision in Bremerhaven während eines Sturms ermittelt die Polizei gegen den Kapitän des Kreuzfahrtschiffs \"Mein Schiff 3\". Es geht um einen möglichen Verstoß gegen die Sorgfaltspflicht. Die Kreuzfahrt ist abgesagt.",
-   "u": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T14:30:41+00:00"
-  },
-  {
-   "t": "Auf der Suche nach Partnerschaften: Steinmeier und Merz reisen nach Asien",
-   "s": "Bundespräsident Steinmeier bricht zu seinem zweiten Staatsbesuch nach China auf. Gleichzeitig reist Kanzler Merz in die Nachbarschaft des Riesenreichs. Ist das Zufall?",
-   "u": "https://taz.de/Auf-der-Suche-nach-Partnerschaften/!6225109/",
-   "q": "taz",
-   "d": "2026-10-26T13:46:00+00:00"
-  },
-  {
-   "t": "Vor Zwischenwahlen in den USA: Exil-Kubaner wenden sich von Republikanern ab",
-   "s": "Der Stadtteil Little Havana in Miami gilt traditionell als Hochburg der Republikaner. Doch bei den US-Kongresswahlen im November könnte sich das ändern.",
-   "u": "https://taz.de/Vor-Zwischenwahlen-in-den-USA/!6219090/",
-   "q": "taz",
-   "d": "2026-10-26T13:27:00+00:00"
-  },
-  {
-   "t": "AfD-Leak: Kampf um die Deutung und mögliche Folgen",
-   "s": "Die offenbar gehackten und geleakten AfD-Mails auszuwerten, kann Monate dauern: Doch sie könnten ein mögliches AfD-Verbotsverfahren und den Blick auf die Spendenaffäre beeinflussen.",
-   "u": "https://www.deutschlandfunk.de/afd-leaks-hackerangriff-weidel-mails-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-26T13:19:00+00:00"
-  },
-  {
-   "t": "Verkehrsminister über zugänglichen ÖPNV: „Der Gelegenheitstarif spart auch für die Verkehrsbetriebe Geld“",
-   "s": "Das NRW-ÖPNV-Ticket für Gelegenheitsnutzer ist auf die ganze Bundesrepublik übertragbar, sagt Landesverkehrsminister Oliver Krischer. Und sei auch gerecht.",
-   "u": "https://taz.de/Wird-der-OePNV-fuer-Gelegenheitsfahrer-guenstiger-Das-sagt-der-NRW-Verkehrsminister-dazu/!6224041/",
-   "q": "taz",
-   "d": "2026-10-26T12:40:00+00:00"
-  },
-  {
-   "t": "Wahl in Israel: Königsmacherin ohne Anschluss",
-   "s": "Die arabische Partei Ra'am könnte über Israels nächste Regierung entscheiden. Sie kämpft gegen Gewalt und für mehr Rechte ihrer Wähler – bis hin zu Strom in Häusern.",
-   "u": "https://taz.de/Wahl-in-Israel/!6222304/",
-   "q": "taz",
-   "d": "2026-10-26T11:45:00+00:00"
-  },
-  {
-   "t": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-   "s": "Das Kreuzfahrtschiff \"Mein Schiff 3\" ist nach dem Auslaufen in Bremerhaven bei stürmischem Wetter mit zwei Schiffen kollidiert. Zwei Schlepper wurden beschädigt. Nach aktuellem Stand gab es keine Verletzten.",
-   "u": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T10:54:00+00:00"
-  },
-  {
-   "t": "Nach Kirchenangriff in Jordanien: Mutmaßliche Attentäter festgenommen",
-   "s": "Drei Tage nach dem Angriff auf Kirchenbesucher in Südjordanien meldet das Land einen Ermittlungserfolg. Drei mutmaßliche Täter wurden im Morgengrauen gestellt.",
-   "u": "https://taz.de/Nach-Kirchenangriff-in-Jordanien/!6225023/",
-   "q": "taz",
-   "d": "2026-10-26T10:45:00+00:00"
   }
  ]
 }

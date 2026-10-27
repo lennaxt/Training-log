@@ -1,7 +1,56 @@
 {
  "name": "Ausland",
- "updated": "2026-10-27T00:26:43+00:00",
+ "updated": "2026-10-27T09:01:03+00:00",
  "items": [
+  {
+   "t": "US-Parteien: Nicht mehr selbstverständlich an der Seite Israels",
+   "s": "Die USA sind der wichtigste Verbündete Israels. Doch das Verhältnis wandelt sich. Vor allem jüngere US-Bürger sehen die Regierung Netanjahu kritisch. Das wirkt sich auch auf den Wahlkampf von Demokraten und Republikanern aus. Von A. Henze.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T08:12:51+00:00"
+  },
+  {
+   "t": "Midterms: Kann ein Linkskurs die Demokraten zum Erfolg führen?",
+   "s": "Den Aufwind der Demokraten vor den Midterms nächste Woche führen viele auf einen kämpferischen Linkskurs zurück - wie den des New Yorker Bürgermeisters Mamdani. Aber ist das ein Erfolgsrezept für die Demokraten überall in den USA? Von Martin Ganslmeier.",
+   "u": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T07:59:54+00:00"
+  },
+  {
+   "t": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
+   "s": "Seit Jahren ist die von Russland besetzte Stadt Oleschky in der Ostukraine umkämpft. Trotzdem leben dort noch bis zu 2.000 Menschen. Damit sie Hilfe bekommen, gilt jetzt eine Feuerpause. Andernorts gehen die Angriffe weiter.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T06:56:19+00:00"
+  },
+  {
+   "t": "Nach Präsidentenwahl in Brasilien: Ausreiseverbot für Flávio Bolsonaro",
+   "s": "Nach der Präsidentenwahl in Brasilien gibt es weitere schlechte Nachrichten für den unterlegenen Flávio Bolsonaro. Nun darf er das Land nicht mehr verlassen und soll seine Pässe abgeben. Der Grund: Ermittlungen wegen mutmaßlicher Geldwäsche.",
+   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-ausreiseverbot-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T06:43:16+00:00"
+  },
+  {
+   "t": "Knesset-Wahl 2026: Israel vor der Entscheidung",
+   "s": "Es ist eine fundamentale Richtungsentscheidung in einer der schwersten Krisen Israels: Mehr als 7,3 Millionen Wahlberechtigte stimmen ab. 70.000 Staatsbürger aus aller Welt fliegen ein. Heute wird ein neues Parlament gewählt. Von J. Segador.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-vor-wahl-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T03:18:23+00:00"
+  },
+  {
+   "t": "Brasilien nach der Stichwahl: Was jetzt auf Lula zukommt",
+   "s": "Nach der Stichwahl hat nun auch Bolsonaros Partei die Niederlage anerkannt. Doch die Herausforderungen, vor denen Lula steht, sind groß. Die Kosten für essenzielle Güter wie Lebensmittel sind hoch. Die vierte Amtszeit könnte seine schwerste werden. Von A. Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T03:06:48+00:00"
+  },
+  {
+   "t": "Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag",
+   "s": "In Frankreich geht die Regierung mit einem Maßnahmenkatalog auf die protestierenden Schüler zu. Diese begrüßen den Fünf-Punkte-Plan des Bildungsministers, wollen am kommenden Samstag aber erneut demonstrieren. Von Julia Borutta.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-5-punkte-plan-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T02:22:51+00:00"
+  },
   {
    "t": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
    "s": "Absolute Mehrheit für die Studentenliste: In Serbien hat sie überraschend klar die Parlamentswahl gewonnen. Aber wie kann aus einer Protestbewegung eine Regierung werden? Vieles ist unklar - und die Aufgaben sind groß.",
@@ -80,13 +129,6 @@
    "d": "2026-10-25T15:12:04+00:00"
   },
   {
-   "t": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
-   "s": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
-   "u": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T15:04:51+00:00"
-  },
-  {
    "t": "Gaza droht eine neue Ernährungskrise",
    "s": "Die Lage im Gazastreifen droht sich wieder zu verschärfen - denn das Welternährungsprogramm muss seine Lebensmittellieferungen massiv kürzen. Der Grund: Die internationalen Geldgeber zahlen deutlich weniger ein. Von Bettina Meier.",
    "u": "https://www.tagesschau.de/ausland/gaza-ernaehrung-100.html",
@@ -101,25 +143,11 @@
    "d": "2026-10-25T12:21:49+00:00"
   },
   {
-   "t": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
-   "s": "Die Demokraten hoffen bei den Zwischenwahlen auf einen Sieg. Nun gibt es Wahlkampfhilfe vom früheren US-Präsidenten Obama. Der wirft Trump Korruption vor - und lästert über die Renovierungsarbeiten im Weißen Haus.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T10:35:11+00:00"
-  },
-  {
    "t": "Israel will Westjordanland am Wahltag abriegeln",
    "s": "Vor der Parlamentswahl in Israel verschärft die Armee ihr Vorgehen im Westjordanland. Demnach sollen sämtliche Übergänge zu dem Palästinensergebiet geschlossen werden, teilte das Militär mit.",
    "u": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-25T08:51:16+00:00"
-  },
-  {
-   "t": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-   "s": "Tech-Milliardär Musk wirft der Ukraine vor, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Das System sei kein \"Mittel zum Töten\", sagte Musk. Die Sicherheitslücke sei inzwischen aber geschlossen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T07:45:03+00:00"
   },
   {
    "t": "Hunderttausende protestieren in Frankreich - neue Unruhen",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html",
    "q": "Tagesschau",
    "d": "2026-10-24T14:14:53+00:00"
-  },
-  {
-   "t": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
-   "s": "Nach den tödlichen Schüssen auf zwei Soldaten hat Israels Armee einen \"Anti-Terror-Einsatz\" im Westjordanland begonnen. Man suche dort nach Waffen und Terrorinfrastruktur. Israels Premier drohte zudem mit einem großangelegten Militäreinsatz.",
-   "u": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-24T01:01:43+00:00"
-  },
-  {
-   "t": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
-   "s": "Die humanitäre Lage in der von Russland besetzten ukrainischen Stadt Oleschky ist dramatisch. Nun gibt es Hoffnung für eine Evakuierung. Das Weiße Haus gab eine lokale Waffenruhe bekannt - vermittelt durch First Lady Melania Trump.",
-   "u": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T17:26:28+00:00"
-  },
-  {
-   "t": "Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris",
-   "s": "Ein Toter, vier Verletzte - darunter ein zwölfjähriges Kind: Nach den Schüssen eines Autofahrers auf Passanten bei Paris ermittelt die Anti-Terror-Staatsanwaltschaft. Sie prüft auch, ob es einen rassistischen Hintergrund gibt. Von C. Dylla.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-paris-schuesse-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T17:05:12+00:00"
-  },
-  {
-   "t": "Israel will Westjordanland nach Angriff in Hebron abriegeln",
-   "s": "Nach einem Angriff nahe Hebron im Westjordanland hat Israels Militär den Tod von zwei Soldaten bestätigt. Die Zufahrten zur Stadt sind gesperrt - bald soll die Armee das ganze Westjordanland abriegeln. Von B. Meier.",
-   "u": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T16:31:33+00:00"
   }
  ]
 }

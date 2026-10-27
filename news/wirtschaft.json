@@ -1,7 +1,35 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-27T00:26:45+00:00",
+ "updated": "2026-10-27T09:01:04+00:00",
  "items": [
+  {
+   "t": "Künstliche Intelligenz: Wer kann KI-Texte erkennen?",
+   "s": "Wasserzeichen können darüber Auskunft geben, ob Künstliche Intelligenz beim Schreiben genutzt wurde. Der Literaturwelt kann das helfen. Doch noch sind sie nicht für jeden nutzbar. Von J. Petrosiute und C. Gill.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/ki-texte-erkennen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T07:38:25+00:00"
+  },
+  {
+   "t": "Marktbericht: Zurückhaltung nach starkem Wochenstart",
+   "s": "Nach dem gelungenen Wochenbeginn dürften die Anleger das Tempo heute wieder drosseln. Die Berichtssaison ist in vollem Gang, auch die Geldpolitik könnte in den kommenden Tagen Akzente setzen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T06:30:15+00:00"
+  },
+  {
+   "t": "Muss Facebook rechtswidrige Memes aufspüren?",
+   "s": "Über Social-Media-Accounts wurden Posts verbreitet, die der Grünen-Politikerin Künast falsche Zitate untergeschoben haben. Daraufhin verklagte Künast den Facebook-Betreiber Meta. Heute verhandelt der Bundesgerichtshof erneut. Von Klaus Hempel.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/facebook-memes-kuenast-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T04:20:26+00:00"
+  },
+  {
+   "t": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+   "s": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für Kritik. SPD-Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW. Audi selbst verteidigt den Auftritt.",
+   "u": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T19:56:04+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 26.10.2026",
    "s": "Wirtschaft vor acht vom 26.10.2026",
@@ -17,11 +45,18 @@
    "d": "2026-10-26T17:56:22+00:00"
   },
   {
-   "t": "Marktbericht: Klare Gewinne zum Wochenstart",
-   "s": "Dank eines robusten ifo-Geschäftsklimas konnte sich der DAX zum Wochenstart deutlich erholen. Eine Trendwende ist das aber noch nicht. In dieser Woche stehen noch einige gewichtige Daten an.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+   "t": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
+   "s": "Eine Gemeinde zahlt für einen großen Auftrag - das Geld landet aber bei Kriminellen. Weil solche Betrugsmaschen häufiger werden, setzen Kommunen auf neue Konzepte gegen Cyberkriminalität - und brauchen gut geschultes Personal. Von Markus Kaiser.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-26T17:05:23+00:00"
+   "d": "2026-10-26T17:56:13+00:00"
+  },
+  {
+   "t": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
+   "s": "Ist der Auftritt des Audi-Chefs beim US-Präsidenten nicht einfach nur wirtschaftlich vernünftig? Nein, meint Katharina Fuß. Der Manager macht sich zum grinsenden Statisten von Trump - und schickt fatale Signale an die Audi-Belegschaft in Deutschland.",
+   "u": "https://www.tagesschau.de/kommentar/audi-doellner-trump-kommentar-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T16:57:08+00:00"
   },
   {
    "t": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1670512.html",
    "q": "Tagesschau",
    "d": "2026-10-22T08:07:28+00:00"
-  },
-  {
-   "t": "Knesset-Wahl: Was die Kriegskosten für Israels Wähler bedeuten",
-   "s": "Sicherheit steht in Israels Wahlkampf im Vordergrund. Doch drei Jahre Krieg haben die Wirtschaft schwer getroffen: Für viele Menschen geht es vor der Wahl am 27. Oktober auch um die Frage, wie es wirtschaftlich weitergehen soll. Von B. Meier.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wirtschaft-wahl-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T07:56:08+00:00"
-  },
-  {
-   "t": "Chemie ohne Erdöl: Wie die Kohlenstoffwende gelingen soll",
-   "s": "Die Chemieindustrie gehört zu den größten Verursachern von Treibhausgasen. Deshalb will sie nun statt Erdöl Biomasse, Recycling und abgeschiedenes CO2 als Rohstoffquellen benutzen. Das erfordert neue Technologien und Milliardeninvestitionen.",
-   "u": "https://www.deutschlandfunk.de/chemie-ohne-erdoel-kohlenstoff-recycling-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T16:25:00+00:00"
-  },
-  {
-   "t": "Kommentar zum Investitionsgipfel: Wenn die Fachkräfte fehlen",
-   "s": "Bundeskanzler Merz möchte mit einem Investitionsgipfel mehr Kapital nach Deutschland locken. Grundsätzlich ist Deutschland attraktiv für Investoren. Es ist kreditwürdig und rechtssicher. Beim Thema Fachkräfte sieht es allerdings zunehmend düster aus.Ein Kommentar von Falk Steiner",
-   "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T08:10:00+00:00"
-  },
-  {
-   "t": "Deutsche Autozulieferer auf dem Balkan: \"Armutslöhne\" für serbische Arbeiter",
-   "s": "Viele deutsche Autohersteller und -zulieferer produzieren in Serbien. Das schafft Arbeitsplätze in dem Land. Doch zunehmend klagen Beschäftigte in den Fabriken über enormen Druck durch Vorgesetzte und geringe Löhne.",
-   "u": "https://www.deutschlandfunk.de/autohersteller-autozulieferer-deutschland-serbien-niedrigloehne-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-18T07:32:00+00:00"
-  },
-  {
-   "t": "Doctolib und die KI – Was die Ärzteplattform über Patienten weiß",
-   "s": "Der amerikanische Chip-Hersteller Nvidia steigt bei Doctolib ein. Damit will die Ärzteplattform auch ihre KI-Kompetenzen ausweiten. Welche Auswirkungen könnte das haben? Und: Wie sicher sind unsere Daten dort eigentlich?",
-   "u": "https://www.deutschlandfunk.de/doctolib-nvidia-einstieg-datenschutz-kritik-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-15T12:06:00+00:00"
   }
  ]
 }

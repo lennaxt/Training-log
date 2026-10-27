@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-27T00:26:48+00:00",
+ "updated": "2026-10-27T09:01:07+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Russland und Ukraine beginnen lokale Feuerpause in Oleschky",
+   "s": "Nach Vermittlungen läuft eine Hilfsaktion für eine umkämpfte Frontstadt an. Russische und ukrainische Truppen sollen eine begrenzte Feuerpause einhalten.",
+   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6213890/",
+   "q": "taz",
+   "d": "2026-10-27T08:35:00+00:00"
+  },
   {
    "t": "Proteste in Frankreich: Schü­le­r:in­nen wollen keine „faulen Kompromisse“",
    "s": "Seit Wochen protestieren Jugendliche gegen die französische Bildungspolitik. Nun kündigt Regierungschef Sébastien Lecornu erste Zugeständnisse an.",
@@ -11,7 +18,7 @@
   },
   {
    "t": "Journalistin zu Serbien-Wahl: „Ich glaube nicht, dass dieses Parlament lange Bestand hat“",
-   "s": "Serbiens Studenten haben die Wahl gewonnen. Die Journalisten Biljana Stepanović rechnet trotzdem mit baldigen Neuwahlen. Warum?",
+   "s": "Serbiens Studenten haben die Wahl gewonnen. Die Journalistin Biljana Stepanović rechnet trotzdem mit baldigen Neuwahlen. Warum?",
    "u": "https://taz.de/Journalistin-zu-Serbien-Wahl/!6225115/",
    "q": "taz",
    "d": "2026-10-26T17:01:00+00:00"
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Serbien-vor-der-Parlamentswahl/!6224678/",
    "q": "taz",
    "d": "2026-10-24T14:47:00+00:00"
-  },
-  {
-   "t": "Protesttag in Frankreich: Anspannung vor landesweiten Demonstrationen",
-   "s": "70.000 Polizeibeamte, verbotene Kundgebungen und verrammelte Fenster: Frankreich bereitet sich auf mögliche Ausschreitungen vor. Selbst bei erlaubten Protestzügen gibt es Streit um den Weg.",
-   "u": "https://taz.de/Anspannung-in-Frankreich-vor-landesweiten-Demonstrationen/!6224699/",
-   "q": "taz",
-   "d": "2026-10-24T09:18:00+00:00"
   }
  ]
 }
