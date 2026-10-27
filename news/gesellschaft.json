@@ -1,9 +1,37 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-26T16:08:15+00:00",
+ "updated": "2026-10-27T00:26:48+00:00",
  "items": [
   {
-   "t": "Portugal: Regierung lässt Wohnprotest-Camps räumen",
+   "t": "Proteste in Frankreich: Schü­le­r:in­nen wollen keine „faulen Kompromisse“",
+   "s": "Seit Wochen protestieren Jugendliche gegen die französische Bildungspolitik. Nun kündigt Regierungschef Sébastien Lecornu erste Zugeständnisse an.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6225097/",
+   "q": "taz",
+   "d": "2026-10-26T19:49:00+00:00"
+  },
+  {
+   "t": "Journalistin zu Serbien-Wahl: „Ich glaube nicht, dass dieses Parlament lange Bestand hat“",
+   "s": "Serbiens Studenten haben die Wahl gewonnen. Die Journalisten Biljana Stepanović rechnet trotzdem mit baldigen Neuwahlen. Warum?",
+   "u": "https://taz.de/Journalistin-zu-Serbien-Wahl/!6225115/",
+   "q": "taz",
+   "d": "2026-10-26T17:01:00+00:00"
+  },
+  {
+   "t": "Präsidentschaftswahl in Bulgarien: Amtsinhaberin Jotowa siegt knapper als erwartet",
+   "s": "Die Präsidentin holte die meisten Stimmen. Am 1. November trifft sie auf den pro-europäischen Ex-Premier Gjurow. Ihn abzuschreiben, wäre aber zu früh.",
+   "u": "https://taz.de/Praesidentschaftswahl-in-Bulgarien/!6225121/",
+   "q": "taz",
+   "d": "2026-10-26T15:52:00+00:00"
+  },
+  {
+   "t": "Parlamentswahlen in Serbien: Regieren geht über studieren",
+   "s": "Serbiens Studentenliste feiert einen Erdrutschsieg. Nach Jahren des Protests könnte ein politischer Umbruch folgen. Eindrücke einer historischen Nacht.",
+   "u": "https://taz.de/Parlamentswahlen-in-Serbien/!6224972/",
+   "q": "taz",
+   "d": "2026-10-26T15:50:00+00:00"
+  },
+  {
+   "t": "Portugal: Regierung lässt Wohn-Protestcamps räumen",
    "s": "In Lissabon und Porto hat die Polizei erneut Protestcamps für bezahlbaren Wohnraum geräumt. Es gab zahlreiche Festnahmen und Verletzte.",
    "u": "https://taz.de/Portugal/!6225090/",
    "q": "taz",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Anspannung-in-Frankreich-vor-landesweiten-Demonstrationen/!6224699/",
    "q": "taz",
    "d": "2026-10-24T09:18:00+00:00"
-  },
-  {
-   "t": "Proteste und Gewalt: Linker Selbstmord",
-   "s": "Es ist falsch, wenn Linke Hass und Gewalt im Namen der Gerechtigkeit und Solidarität befürworten. So spielen sie nur der Rechten in die Hände.",
-   "u": "https://taz.de/Proteste-und-Gewalt/!6219055/",
-   "q": "taz",
-   "d": "2026-10-24T08:50:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Moskau und Kyjiw stimmen Waffenruhe in Oleschky zu",
-   "s": "Die US-Regierung verkündet eine Feuerpause in der umkämpften Frontstadt. First Lady Melanie Trump solll dabei vermittelt haben. Erneut werden Gefangene ausgetauscht.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6224698/",
-   "q": "taz",
-   "d": "2026-10-24T07:57:00+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Jugend ohne Jugend",
-   "s": "Warum gehen Fran­zö­s*in­nen auf die Straße? Wogegen sind sie? Was wollen sie erreichen? Wir haben mit einer Schülerin und einer Studentin gesprochen.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6219118/",
-   "q": "taz",
-   "d": "2026-10-23T18:32:00+00:00"
-  },
-  {
-   "t": "Neuwahlen in Serbien: Sie lehren Vučić das Fürchten",
-   "s": "In Serbien möchte Aleksandar Vučić Ministerpräsident werden. Doch eine Studentenbewegung könnte ihm gefährlich werden – obwohl sie ohne Studierende antritt.",
-   "u": "https://taz.de/Neuwahlen-in-Serbien/!6223719/",
-   "q": "taz",
-   "d": "2026-10-23T17:13:00+00:00"
   }
  ]
 }

@@ -1,20 +1,34 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-26T16:08:12+00:00",
+ "updated": "2026-10-27T00:26:45+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 26.10.2026",
+   "s": "Wirtschaft vor acht vom 26.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1673070.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T19:06:30+00:00"
+  },
+  {
+   "t": "Audi investiert in Amerika, Neckarsulm bangt",
+   "s": "Audi will in den USA ein neues Werk bauen, der Auftritt des Firmenchefs auf einer Wahlkampfveranstaltung von Trump sorgt für heftige Kritik. Zugleich ist die Zukunft von deutschen Audi-Werken offen - wie in Neckarsulm. Von F. Siegel.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-usa-trump-neckarsulm-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T17:56:22+00:00"
+  },
+  {
+   "t": "Marktbericht: Klare Gewinne zum Wochenstart",
+   "s": "Dank eines robusten ifo-Geschäftsklimas konnte sich der DAX zum Wochenstart deutlich erholen. Eine Trendwende ist das aber noch nicht. In dieser Woche stehen noch einige gewichtige Daten an.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T17:05:23+00:00"
+  },
   {
    "t": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
    "s": "Das amerikanische KI-Unternehmen Anthropic gibt den Startschuss für einen Mega-Börsengang schon im November und reicht die nötigen Unterlagen ein. Es dürfte einer der größten Börsengänge aller Zeiten werden.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html",
    "q": "Tagesschau",
    "d": "2026-10-26T15:49:36+00:00"
-  },
-  {
-   "t": "Brasiliens Kapitalmärkte stürzen ab",
-   "s": "Während die EU die Wiederwahl von Brasiliens Präsident Lula begrüßt, hat diese einen Kurssturz bei brasilianischen Aktien und Anleihen ausgelöst. An den Märkten gibt es Sorgen wegen Brasiliens hoher Verschuldung.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-brasilien-wahl-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T13:47:15+00:00"
   },
   {
    "t": "Wachsende Branche: So viele Bestatter-Azubis wie nie",
@@ -94,13 +108,6 @@
    "d": "2026-10-24T08:27:08+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 23.10.2026",
-   "s": "Wirtschaft vor acht vom 23.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1671518.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T18:01:52+00:00"
-  },
-  {
    "t": "PHP-Sicherheitslücke: IT-Experten fordern Maßnahmen über Updates hinaus",
    "s": "Nach Aufdeckung der Sicherheitslücke in der Programmiersprache PHP sind viele Webseiten nach einem Update wieder verfügbar. Doch IT-Experten raten zu weiteren Maßnahmen: Betreiber von Webseiten müssten ihre Systeme genau prüfen.",
    "u": "https://www.tagesschau.de/wirtschaft/digitales/it-sicherheit-php-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.deutschlandfunk.de/doctolib-nvidia-einstieg-datenschutz-kritik-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-15T12:06:00+00:00"
-  },
-  {
-   "t": "Der Kampf ums Trinkwasser im brandenburgischen Baruth",
-   "s": "Die Unternehmen Red Bull und Rauch produzieren in Baruth Getränke und dürfen dabei 92 Prozent des Grundwassers, das der brandenburgischen Stadt zur Verfügung steht, entnehmen. Eine Bürgerinitiative wehrt sich und kämpft um Akteneinsicht.Von Andrea Rehmsmeier",
-   "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-14T16:40:00+00:00"
   }
  ]
 }
