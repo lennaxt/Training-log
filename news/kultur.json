@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-27T09:01:08+00:00",
+ "updated": "2026-10-27T15:22:04+00:00",
  "items": [
+  {
+   "t": "Nach der Wahl in Brasilien: Die Verlierer erkennen die Niederlage an",
+   "s": "Die Partei von Brasiliens Wahlverlierer Flávio Bolsonaro erkennt Lulas Wahlsieg an. Gegen den unterlegenen Kandidaten selbst wird wieder ermittelt.",
+   "u": "https://taz.de/Nach-der-Wahl-in-Brasilien/!6225298/",
+   "q": "taz",
+   "d": "2026-10-27T12:02:00+00:00"
+  },
   {
    "t": "Präsidentschaftswahl in Brasilien: Bolsonaro darf das Land vorerst nicht verlassen",
    "s": "Flávio Bolsonaro geht juristisch gegen Lulas Sieg vor, seine Partei erkennt das Wahlergebnis nur unter Vorbehalt an. Trump spricht von Manipulation.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/US-Praesident-setzt-Sanktionen-aus/!6222318/",
    "q": "taz",
    "d": "2026-10-18T08:47:00+00:00"
-  },
-  {
-   "t": "USA und Russland: Trump setzt geplante Sanktionen aus",
-   "s": "Wegen der Energieknappheit in den Staaten hat Donald Trump Sanktionen gegen Russland ausgesetzt. In der Ukraine sterben derweil Menschen in Russlands Krieg.",
-   "u": "https://taz.de/USA-setzen-Sanktionen-gegen-Russland-aus/!6222295/",
-   "q": "taz",
-   "d": "2026-10-17T07:29:00+00:00"
   }
  ]
 }

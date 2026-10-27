@@ -1,13 +1,20 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-27T09:01:07+00:00",
+ "updated": "2026-10-27T15:22:04+00:00",
  "items": [
   {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Russland und Ukraine beginnen lokale Feuerpause in Oleschky",
-   "s": "Nach Vermittlungen läuft eine Hilfsaktion für eine umkämpfte Frontstadt an. Russische und ukrainische Truppen sollen eine begrenzte Feuerpause einhalten.",
+   "t": "Mietproteste in Spanien: Sánchez unter Mietdruck",
+   "s": "In Madrid campieren Tausende für bezahlbaren Wohnraum. Vor den Neuwahlen hoffen sie, mehr als den Wohnungsmarkt zu verändern.",
+   "u": "https://taz.de/Mietproteste-in-Spanien/!6217659/",
+   "q": "taz",
+   "d": "2026-10-27T13:25:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Norwegen und Finnland sprechen mit Putin",
+   "s": "Finnlands Präsident Stubb und Norwegens Regierungschef Støre haben mit Putin über den Krieg in der Ukraine gesprochen. Das Gespräch verlief „ehrlich und gehaltvoll“.",
    "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6213890/",
    "q": "taz",
-   "d": "2026-10-27T08:35:00+00:00"
+   "d": "2026-10-27T12:23:00+00:00"
   },
   {
    "t": "Proteste in Frankreich: Schü­le­r:in­nen wollen keine „faulen Kompromisse“",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/-Protesttag-in-Frankreich-/!6224710/",
    "q": "taz",
    "d": "2026-10-24T15:17:00+00:00"
-  },
-  {
-   "t": "Serbien vor der Parlamentswahl: „Die Angst hat die Seite gewechselt“",
-   "s": "Die Liste der Studenten hat erstmals Chancen, die Herrschaft von Ex-Präsident Aleksandar Vučić ins Wanken zu bringen. Sie ist auf alles vorbereitet.",
-   "u": "https://taz.de/Serbien-vor-der-Parlamentswahl/!6224678/",
-   "q": "taz",
-   "d": "2026-10-24T14:47:00+00:00"
   }
  ]
 }

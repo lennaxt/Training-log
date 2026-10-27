@@ -1,20 +1,48 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-27T09:01:06+00:00",
+ "updated": "2026-10-27T15:22:03+00:00",
  "items": [
+  {
+   "t": "Kommission nimmt Arbeit auf: Pflegeversicherung in Not",
+   "s": "Die Pflegekosten steigen, auf immer weniger Beitragszahler kommen immer mehr Pflegebedürftige. Experten erarbeiten Vorschläge für die Pflegeversicherung.",
+   "u": "https://taz.de/Kommission-nimmt-Arbeit-auf/!6225422/",
+   "q": "taz",
+   "d": "2026-10-27T15:15:00+00:00"
+  },
+  {
+   "t": "Neue Studie zur Grundsicherung: Die Fehler aus der Bürgergeld-Debatte",
+   "s": "Arbeiten lohnt sich. Das galt für das Bürgergeld genauso wie für die neue Grundsicherung. Das zeigt eine neue Studie der Hans-Böckler-Stiftung.",
+   "u": "https://taz.de/Neue-Studie-zur-Grundsicherung/!6225373/",
+   "q": "taz",
+   "d": "2026-10-27T14:02:00+00:00"
+  },
+  {
+   "t": "NSU-Terroristin: Zschäpe soll bis mindestens 2035 in Haft bleiben",
+   "s": "Beate Zschäpe wollte vorzeitig aus der Haft entlassen werden. Das Gericht sagt Nein. Die Entscheidung ist noch nicht rechtskräftig.",
+   "u": "https://taz.de/NSU-Terroristin/!6225310/",
+   "q": "taz",
+   "d": "2026-10-27T10:48:00+00:00"
+  },
+  {
+   "t": "„Frühstartrente“ der Bundesregierung: Kapitalmarktschulung für Kleinkinder",
+   "s": "Die Kapitalrentenpläne der Bundesregierung sind sozialpolitisch unsinnig. Wieder einmal werden jene gefördert, die es auch ohne den Staat könnten.",
+   "u": "https://taz.de/Fruehstartrente-der-Bundesregierung/!6225089/",
+   "q": "taz",
+   "d": "2026-10-27T10:10:00+00:00"
+  },
+  {
+   "t": "Justizministerin skeptisch: „Viele Fragezeichen“ bei Gesetz gegen Vergesellschaftungen",
+   "s": "Innenminister Dobrindt plant hohe Hürden, um Wohnungen zu vergesellschaften. Justizministerin Hubig hat da noch Klärungsbedarf.",
+   "u": "https://taz.de/Justizministerin-skeptisch/!6225262/",
+   "q": "taz",
+   "d": "2026-10-27T09:20:00+00:00"
+  },
   {
    "t": "Nouripour zum iranischen Geheimdienst: „Low-Level-Agenten spielen eine große Rolle“",
    "s": "In Hamburg wurden zwei Agenten Irans wegen geplanter Anschläge auf jüdische Ziele verurteilt. Die Gefahr sei dennoch nicht gebannt, sagt Nouripour.",
    "u": "https://taz.de/Omid-Nouripour-zum-iranischen-Geheimdienst-Low-Level-Agenten-spielen-eine-grosse-Rolle/!6224791/",
    "q": "taz",
    "d": "2026-10-27T08:25:00+00:00"
-  },
-  {
-   "t": "Erster Migra-Streik in Halle: „Es ist doch nicht alles verloren in Sachsen-Anhalt“",
-   "s": "Am 5. November streiken Mi­gran­t*in­nen in Halle (Saale). Es gehe unter anderem um Sichtbarkeit, sagt Mitorganisatorin Dalal Mirzo.",
-   "u": "https://taz.de/Migrantinnen-Streik-in-Halle-Es-ist-doch-nicht-alles-verloren-in-Sachsen-Anhalt/!6222894/",
-   "q": "taz",
-   "d": "2026-10-26T19:48:00+00:00"
   },
   {
    "t": "„Investitionsschutzgesetz“: Dobrindt will das Grundgesetz aushebeln",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Moegliche-linke-Regierungsbeteiligung/!6219111/",
    "q": "taz",
    "d": "2026-10-23T18:33:00+00:00"
-  },
-  {
-   "t": "Rechtsanwalt über AfD-Leak: „Diese Innenansicht hatten wir bisher nicht“",
-   "s": "Der auf IT spezialisierte Rechtsanwalt Chan-jo Jun hält den AfD-Leak für einen möglichen „Gamechanger“. Steckt darin das fehlende Puzzlestück für ein Verbot?",
-   "u": "https://taz.de/Rechtsanwalt-ueber-AfD-Leak/!6224058/",
-   "q": "taz",
-   "d": "2026-10-23T15:05:00+00:00"
-  },
-  {
-   "t": "Erkenntnisse aus dem AfD-Leak: Feindeslisten und Hakenkreuzfahnen",
-   "s": "Die veröffentlichten AfD-Mails geben einen tiefen Einblick in die Partei – in problematische Mitglieder und Ex-Mitglieder, internen Streit und Listen angeblicher Antifa-Aktivisten.",
-   "u": "https://taz.de/Erkenntnisse-aus-dem-AfD-Leak/!6224078/",
-   "q": "taz",
-   "d": "2026-10-23T13:31:00+00:00"
-  },
-  {
-   "t": "Länderfinanzausgleich: Finanzministerium sieht „Extremismusklausel“ kritisch",
-   "s": "Bundesfinanzminister Klingbeil bremst den Vorstoß von CSU-Chef Söder ab, von Linke oder AfD regierten Bundesländern Mittel vorzuenthalten. Er verweist auf ein anderes Mittel.",
-   "u": "https://taz.de/Laenderfinanzausgleich/!6224104/",
-   "q": "taz",
-   "d": "2026-10-23T13:18:00+00:00"
-  },
-  {
-   "t": "Konflikt zwischen Frau­en­ärz­t:in­nen: Abtreibungsgegner an der Spitze der Gynäkologie",
-   "s": "Der Vorstand der größten gynäkologischen Fachgesellschaft Deutschlands positioniert sich gegen Abtreibungen. Wird er jetzt wiedergewählt?",
-   "u": "https://taz.de/Konflikt-zwischen-Frauenaerztinnen/!6223957/",
-   "q": "taz",
-   "d": "2026-10-23T10:28:00+00:00"
   }
  ]
 }
