@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-28T00:31:54+00:00",
+ "updated": "2026-10-28T09:41:32+00:00",
  "items": [
+  {
+   "t": "Brasilien nach der Wahl: Wahlverlierer Bolsonaro setzt sich in die USA ab",
+   "s": "Flávio Bolsonaro soll noch am Montag in die USA geflohen sein. In Brasilien ordnet sich die Rechte nach dem Weggang des Senators bereits neu.",
+   "u": "https://taz.de/Brasilien-nach-der-Wahl/!6225570/",
+   "q": "taz",
+   "d": "2026-10-28T07:41:00+00:00"
+  },
   {
    "t": "Nach der Wahl in Brasilien: Die Verlierer erkennen die Niederlage an",
    "s": "Die Partei von Brasiliens Wahlverlierer Flávio Bolsonaro erkennt Lulas Wahlsieg an. Gegen den unterlegenen Kandidaten selbst wird wieder ermittelt.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/US-Pressesprecherin/!6222329/",
    "q": "taz",
    "d": "2026-10-18T09:02:00+00:00"
-  },
-  {
-   "t": "US-Präsident setzt Sanktionen aus: Überparteiliche Kritik an Trumps Umgang mit der Ukraine",
-   "s": "Die Entscheidung Donald Trumps, wichtige Sanktionen gegen Russland kurz vor ihrem In-Kraft-Treten auszusetzen, stößt im Kongress auf Widerspruch.",
-   "u": "https://taz.de/US-Praesident-setzt-Sanktionen-aus/!6222318/",
-   "q": "taz",
-   "d": "2026-10-18T08:47:00+00:00"
   }
  ]
 }

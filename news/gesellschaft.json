@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-28T00:31:53+00:00",
+ "updated": "2026-10-28T09:41:31+00:00",
  "items": [
+  {
+   "t": "Terrorverdacht in Serbien: Anschlag auf Polizisten vor israelischer Botschaft",
+   "s": "Erneut wird ein Wachbeamter vor der israelischen Botschaft in Belgrad angegriffen. Laut Behörden war der mutmaßliche Angreifer als Anhänger des IS bekannt.",
+   "u": "https://taz.de/Terrorverdacht-in-Serbien/!6225583/",
+   "q": "taz",
+   "d": "2026-10-28T08:27:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Trump kündigt „baldiges“ Treffen mit Putin und Selenskyj an",
+   "s": "Der US-Präsident hofft auf ein baldiges Treffen mit dem russischen Präsidenten und ​dem ‌ukrainischen Staatschef. Die Waffenruhe in Oleschky hält an.",
+   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6225572/",
+   "q": "taz",
+   "d": "2026-10-28T08:21:00+00:00"
+  },
+  {
+   "t": "Frontex wird Abschiebeagentur: Schrilles „Invasions“-Gerede",
+   "s": "Die irreguläre Migration geht zurück, die EU-Grenzschutzagentur wird trotzdem ausgebaut. Mi­gran­t:in­nen werden als Machtoption instumentalisiert.",
+   "u": "https://taz.de/Frontex-wird-Abschiebeagentur/!6225356/",
+   "q": "taz",
+   "d": "2026-10-28T06:28:00+00:00"
+  },
   {
    "t": "Europäische Grenzbehörde: Frontex wird aufgerüstet",
    "s": "Die EU-Kommission will mehr Personal für die europäische Grenzschutzagentur, mehr Geld und mehr Kompetenzen. Linke, Grüne und Sozialdemokraten kündigen Widerstand an.",
@@ -10,8 +31,8 @@
    "d": "2026-10-27T19:19:00+00:00"
   },
   {
-   "t": "EU-Grenzbehörde Frontex: Neuer Name, gleiche Kompetenzen",
-   "s": "Frontex bekommt ein neues Abschiebe-Koordinierungszentrum. Das hat im Grunde keine neuen Kompetenzen, soll aber die Mitgliedstaaten überzeugen, Kompetenzen abzugeben.",
+   "t": "EU-Grenzbehörde Frontex: Auf dem Weg zur EU-Abschiebepolizei",
+   "s": "Die EU-Kommission will die Grenzschutzagentur zur zentralen Schaltstelle für Abschiebungen ausbauen. Die neuen Pläne könnten ihre Macht erheblich erweitern.",
    "u": "https://taz.de/EU-Grenzbehoerde-Frontex-Schrittweise-Ausweitung-der-Kompetenzen-schmackhaft-machen/!6225383/",
    "q": "taz",
    "d": "2026-10-27T19:18:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Pressefreiheit-in-Europa/!6224852/",
    "q": "taz",
    "d": "2026-10-25T14:50:00+00:00"
-  },
-  {
-   "t": "Sozialproteste in Europa: Für gute Bildung, bezahlbare Mieten und moderate Preise",
-   "s": "Nicht nur in Frankreich, sondern auch in Albanien, Spanien oder Italien demonstrieren Menschen gegen Missstände an Schulen und Unis und gegen zu hohe Lebenshaltungskosten.",
-   "u": "https://taz.de/Sozialproteste-in-Europa/!6224917/",
-   "q": "taz",
-   "d": "2026-10-25T14:31:00+00:00"
-  },
-  {
-   "t": "Massenproteste in Frankreich: Mehr Regen als Wasserwerfer",
-   "s": "Beim zweiten großen Protesttag in Frankreich kommt es nur vereinzelt zu Gewalt. Hunderttausende gehen in Paris und anderen Städten auf die Straße.",
-   "u": "https://taz.de/Massenproteste-in-Frankreich/!6224783/",
-   "q": "taz",
-   "d": "2026-10-25T12:43:00+00:00"
-  },
-  {
-   "t": "Eskalationen in Frankreich: Die Schuld der Macht",
-   "s": "Laut Regierung und rechter Presse ist die Linkspartei La France insoumise für die Unruhen in Frankreich verantwortlich. Unser Autor findet den Fehler woanders.",
-   "u": "https://taz.de/Eskalationen-in-Frankreich/!6223418/",
-   "q": "taz",
-   "d": "2026-10-25T10:49:00+00:00"
   }
  ]
 }

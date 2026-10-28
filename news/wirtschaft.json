@@ -1,13 +1,41 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-28T00:31:50+00:00",
+ "updated": "2026-10-28T09:41:28+00:00",
  "items": [
   {
-   "t": "Marktbericht: DAX kann weiter zulegen",
-   "s": "Obwohl die wichtigsten Termine der Woche noch bevorstehen, hat der DAX seine Kurserholung fortgesetzt. Geholfen haben dabei neue Hoffnungen auf eine diplomatische Lösung im Iran-Krieg.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
+   "t": "Marktbericht: DAX noch unentschieden",
+   "s": "Positive und negative Einflüsse halten sich zum Tagesstart die Waage. Der DAX schwankt um seinen Vortagesschluss. Neben einer Reihe von Quartalszahlen beschäftigen der KI-Boom und der Ölpreis den Markt.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-27T17:18:35+00:00"
+   "d": "2026-10-28T09:36:36+00:00"
+  },
+  {
+   "t": "Neuer Haushalt in Großbritannien: Burnhams erster Stresstest",
+   "s": "Mit geschickter Kommunikation konnte der neue Premier Burnham bislang bei den Briten punkten. Doch nun muss er Farbe bekennen. Mit dem ersten Haushalt wird sich zeigen, wofür die Regierung Geld ausgeben will. Viel ist nicht da. Von M. Aden.",
+   "u": "https://www.tagesschau.de/ausland/europa/uk-burnham-erster-haushalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T09:03:50+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 28.10.2026",
+   "s": "Update Wirtschaft vom 28.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1673842.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T08:51:10+00:00"
+  },
+  {
+   "t": "Wo Deutschland noch wachsen kann: Zukunftsmärkte für heimische Firmen",
+   "s": "Die deutsche Wirtschaft hat viele Probleme. Doch bei all den negativen Nachrichten gibt es auch Chancen. Denn auf einigen Märkten der Zukunft haben heimische Unternehmen gute Karten. Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-wachstum-ki-robotik-zukunftsmaerkte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T05:19:59+00:00"
+  },
+  {
+   "t": "FAQ: Die lange Suche nach einem Atommüll-Endlager",
+   "s": "Rund 27.000 Kubikmeter hochradioaktiver Müll müssen dauerhaft und sicher verwahrt werden. Bis 2050 soll ein Endlager gefunden werden. Die Suche wurde nun weiter eingegrenzt. Wie muss ein Endlager beschaffen sein? Und wo könnte es entstehen?",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T17:12:36+00:00"
   },
   {
    "t": "Atommüll-Endlager: In weiteren Bundesländern soll nicht mehr gesucht werden",
@@ -66,13 +94,6 @@
    "d": "2026-10-27T10:00:37+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 27.10.2026",
-   "s": "Update Wirtschaft vom 27.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1673286.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T09:21:01+00:00"
-  },
-  {
    "t": "Bericht der Weltwetterorganisation: Immer mehr Treibhausgase in der Atmosphäre",
    "s": "In der Atmoshäre sammeln sich immer mehr Treibhausgase. Das zeigt ein neuer Bericht der Weltwetterorganisation. Offenbar erholt sich die Natur von Hitze und Trockenheit nicht so schnell wie erwartet. Von N. Gode und S. Biegger.",
    "u": "https://www.tagesschau.de/wissen/klima/treibhausgase-so-hoch-wie-nie-100.html",
@@ -115,13 +136,6 @@
    "d": "2026-10-26T19:06:30+00:00"
   },
   {
-   "t": "Audi investiert in Amerika, Neckarsulm bangt",
-   "s": "Audi will in den USA ein neues Werk bauen, der Auftritt des Firmenchefs auf einer Wahlkampfveranstaltung von Trump sorgt für heftige Kritik. Zugleich ist die Zukunft von deutschen Audi-Werken offen - wie in Neckarsulm. Von F. Siegel.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-usa-trump-neckarsulm-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T17:56:22+00:00"
-  },
-  {
    "t": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
    "s": "Eine Gemeinde zahlt für einen großen Auftrag - das Geld landet aber bei Kriminellen. Weil solche Betrugsmaschen häufiger werden, setzen Kommunen auf neue Konzepte gegen Cyberkriminalität - und brauchen gut geschultes Personal. Von Markus Kaiser.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
@@ -136,39 +150,25 @@
    "d": "2026-10-26T15:49:36+00:00"
   },
   {
-   "t": "Wachsende Branche: So viele Bestatter-Azubis wie nie",
-   "s": "So viele junge Menschen wie nie lassen sich zur Bestattungsfachkraft ausbilden - in zehn Jahren hat sich die Zahl der Auszubildenden verdoppelt. Zugleich wird die Beerdigung immer teuer.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mehr-ausbildung-bestattungsfachkraft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T13:34:05+00:00"
+   "t": "Biodiversitätsabkommen: Balanceakt zwischen Artenschutz und Wirtschaft",
+   "s": "Artenvielfalt stabilisiert Ökosysteme und sichert damit auch wirtschaftliche Grundlagen. Dennoch gerät die Einhaltung der Biodiversitätsziele in Vergessenheit, wenn es um wirtschaftliche Interessen geht.",
+   "u": "https://www.deutschlandfunk.de/cop17-biodiversitaet-artenvielfalt-wirtschaft-100-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-22T15:46:00+00:00"
   },
   {
-   "t": "Ifo-Index: Konjunkturbelebung setzt sich fort",
-   "s": "Die Stimmung in den deutschen Chefetagen hellt sich weiter auf: Trotz hoher Energiepreise ist der ifo-Geschäftsklimaindex im Oktober zum sechsten Mal in Folge gestiegen.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T10:29:32+00:00"
+   "t": "Chemie ohne Erdöl: Wie die Kohlenstoffwende gelingen soll",
+   "s": "Die Chemieindustrie gehört zu den größten Verursachern von Treibhausgasen. Deshalb will sie nun statt Erdöl Biomasse, Recycling und abgeschiedenes CO2 als Rohstoffquellen benutzen. Das erfordert neue Technologien und Milliardeninvestitionen.",
+   "u": "https://www.deutschlandfunk.de/chemie-ohne-erdoel-kohlenstoff-recycling-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-21T16:25:00+00:00"
   },
   {
-   "t": "Wie die Goldsuche Natur und Lebensgrundlagen in Ghana zerstört",
-   "s": "In Ghana wird unter extremen Bedingungen Gold abgebaut - auch Kakaoplantagen müssen dafür weichen. Mit verheerenden Folgen: Zurück bleiben zerstörte Landschaften und verdreckte, belastete Flüsse. Von Judith Hartmann und Jakob Sax.",
-   "u": "https://www.tagesschau.de/wissen/klima/goldabbau-ghana-abholzung-regenwald-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T06:13:21+00:00"
-  },
-  {
-   "t": "Deutsche Nachrichtendienste setzen auf Cloud-System von Google",
-   "s": "Um geheime Informationen schneller untereinander austauschen zu können, wollen BND, Verfassungsschutz und MAD ein gemeinsames Cloud-System aufbauen. Nach Recherchen von NDR und WDR soll Google dabei eine maßgebliche Rolle spielen. Von F. Flade und R. Pinkert.",
-   "u": "https://www.tagesschau.de/investigativ/ndr-wdr/nachrichtendienst-google-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T05:11:08+00:00"
-  },
-  {
-   "t": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
-   "s": "Deutschland braucht mehr bezahlbaren Wohnraum. Das soll unter anderem mit dem Gebäudetyp E gelingen - das E steht hier für \"einfach\". Der Gesetzentwurf liegt dem ARD-Hauptstadtstudio exklusiv vor. Von Oliver Neuroth.",
-   "u": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T23:07:11+00:00"
+   "t": "Kommentar zum Investitionsgipfel: Wenn die Fachkräfte fehlen",
+   "s": "Bundeskanzler Merz möchte mit einem Investitionsgipfel mehr Kapital nach Deutschland locken. Grundsätzlich ist Deutschland attraktiv für Investoren. Es ist kreditwürdig und rechtssicher. Beim Thema Fachkräfte sieht es allerdings zunehmend düster aus.Ein Kommentar von Falk Steiner",
+   "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-21T08:10:00+00:00"
   }
  ]
 }

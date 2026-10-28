@@ -1,9 +1,79 @@
 {
  "name": "Inland",
- "updated": "2026-10-28T00:31:48+00:00",
+ "updated": "2026-10-28T09:41:25+00:00",
  "items": [
   {
-   "t": "Wahlen in Israel: Netanjahu vorne, Regierungsblock hinten",
+   "t": "Terrorverdacht in Serbien: Anschlag auf Polizisten vor israelischer Botschaft",
+   "s": "Erneut wird ein Wachbeamter vor der israelischen Botschaft in Belgrad angegriffen. Laut Behörden war der mutmaßliche Angreifer als Anhänger des IS bekannt.",
+   "u": "https://taz.de/Terrorverdacht-in-Serbien/!6225583/",
+   "q": "taz",
+   "d": "2026-10-28T08:27:00+00:00"
+  },
+  {
+   "t": "SPD lässt Mitglieder entscheiden: Steffen Krach stellt die Vertrauensfrage",
+   "s": "Nach der Linken und den Grünen hat sich auch die Berliner SPD für eine Mitgliederbefragung entschieden. Das Risiko, in das Steffen Krach geht, ist hoch.",
+   "u": "https://taz.de/SPD-laesst-Mitglieder-entscheiden/!6225575/",
+   "q": "taz",
+   "d": "2026-10-28T08:22:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Trump kündigt „baldiges“ Treffen mit Putin und Selenskyj an",
+   "s": "Der US-Präsident hofft auf ein baldiges Treffen mit dem russischen Präsidenten und ​dem ‌ukrainischen Staatschef. Die Waffenruhe in Oleschky hält an.",
+   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6225572/",
+   "q": "taz",
+   "d": "2026-10-28T08:21:00+00:00"
+  },
+  {
+   "t": "Brasilien nach der Wahl: Wahlverlierer Bolsonaro setzt sich in die USA ab",
+   "s": "Flávio Bolsonaro soll noch am Montag in die USA geflohen sein. In Brasilien ordnet sich die Rechte nach dem Weggang des Senators bereits neu.",
+   "u": "https://taz.de/Brasilien-nach-der-Wahl/!6225570/",
+   "q": "taz",
+   "d": "2026-10-28T07:41:00+00:00"
+  },
+  {
+   "t": "Knesset-Wahl in Israel: Es bleibt kompliziert",
+   "s": "Premier Benjamin Netanjahu hat die meisten Stimmen geholt, aber keine Mehrheit. Ein neuer Irankrieg dürfte die Regierungsbildung begleiten.",
+   "u": "https://taz.de/Knesset-Wahl-in-Israel/!6225567/",
+   "q": "taz",
+   "d": "2026-10-28T07:37:00+00:00"
+  },
+  {
+   "t": "Nachfolge für Steinmeier: Merz beharrt auf CDU-Vorschlagsrecht",
+   "s": "Die Debatte um die Nachfolge von Bundespräsident Steinmeier nimmt Fahrt auf. Aus dem Umfeld des Bundeskanzlers heißt es nun: Merz habe noch keine Entscheidung getroffen - und sehe das Vorschlagsrecht bei der CDU. Von Markus Preiß.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/nachfolge-steinmeier-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T07:21:25+00:00"
+  },
+  {
+   "t": "Zwei Drittel der Stimmen ausgezählt: Netanjahus Block weiterhin in Führung",
+   "s": "Nach der Auszählung von zwei Drittel aller Stimmen liegt Netanjahus Lager vorn, verfehlt aber die Mehrheit. Wer künftig Israel regieren wird, bleibt offen.",
+   "u": "https://taz.de/Wahl-in-Israel-Nach-Auszaehlung-von-50-Prozent-der-Stimmen-fuehrt-Netanjahus-Block/!6225568/",
+   "q": "taz",
+   "d": "2026-10-28T07:18:00+00:00"
+  },
+  {
+   "t": "Palästina-Botschafter sieht keinen Wechsel nach Israel-Wahl",
+   "s": "Nach der Wahl in Israel sieht Palästina-Botschafter Salah Abdel Shafi nur drei Optionen: große Koalition, Neuwahl oder eine Tolerierung Eisenkots von arabischen Parteien. Zwischen Netanjahu und Eisenkot sieht er keinen großen Unterschied.Grieß, Thielko",
+   "u": "https://www.deutschlandfunk.de/israel-hat-gewaehlt-102.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-28T07:11:00+00:00"
+  },
+  {
+   "t": "Frontex wird Abschiebeagentur: Schrilles „Invasions“-Gerede",
+   "s": "Die irreguläre Migration geht zurück, die EU-Grenzschutzagentur wird trotzdem ausgebaut. Mi­gran­t:in­nen werden als Machtoption instumentalisiert.",
+   "u": "https://taz.de/Frontex-wird-Abschiebeagentur/!6225356/",
+   "q": "taz",
+   "d": "2026-10-28T06:28:00+00:00"
+  },
+  {
+   "t": "Israel-Wahl - Historiker Wolffsohn sieht Opposition in der Sackgasse",
+   "s": "Regierungschef Netanjahu ist stärker aus der Parlamentswahl in Israel hervorgegangen als gedacht, sagt der Historiker Michael Wolffsohn. Die Opposition habe nicht viel zu bieten gehabt. Sie müsse nun aus der Doppelblockade herauskommen.Grieß, Thielko",
+   "u": "https://www.deutschlandfunk.de/zur-israel-wahl-interview-mit-michael-wolffsohn-historiker-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-28T05:50:00+00:00"
+  },
+  {
+   "t": "Wahlen in Israel: Netanjahu vorn, Regierungsblock hinten",
    "s": "Netanjahus Partei Likud gewinnt zwar die meisten Stimmen, der Regierungsblock selbst verliert jedoch massiv. Die arabischen Parteien gewinnen deutlich.",
    "u": "https://taz.de/Vorlaeufige-Wahlergebnisse-in-Israel/!6225565/",
    "q": "taz",
@@ -25,7 +95,7 @@
   },
   {
    "t": "Wahl in Israel: Bleibt alles anders?",
-   "s": "In einer Schicksalswahl geben heute Israelis einer von 36 Parteien ihre Stimme. Wir haben sechs von ihnen nach ihren Hoffnungen und Befürchtungen gefragt.",
+   "s": "An diesem Dienstag geben Israelis in einer Schicksalswahl einer von 36 Parteien ihre Stimme. Wir haben sechs von ihnen nach ihren Hoffnungen und Befürchtungen gefragt.",
    "u": "https://taz.de/Wahl-in-Israel/!6225277/",
    "q": "taz",
    "d": "2026-10-27T19:20:00+00:00"
@@ -38,8 +108,8 @@
    "d": "2026-10-27T19:19:00+00:00"
   },
   {
-   "t": "EU-Grenzbehörde Frontex: Neuer Name, gleiche Kompetenzen",
-   "s": "Frontex bekommt ein neues Abschiebe-Koordinierungszentrum. Das hat im Grunde keine neuen Kompetenzen, soll aber die Mitgliedstaaten überzeugen, Kompetenzen abzugeben.",
+   "t": "EU-Grenzbehörde Frontex: Auf dem Weg zur EU-Abschiebepolizei",
+   "s": "Die EU-Kommission will die Grenzschutzagentur zur zentralen Schaltstelle für Abschiebungen ausbauen. Die neuen Pläne könnten ihre Macht erheblich erweitern.",
    "u": "https://taz.de/EU-Grenzbehoerde-Frontex-Schrittweise-Ausweitung-der-Kompetenzen-schmackhaft-machen/!6225383/",
    "q": "taz",
    "d": "2026-10-27T19:18:00+00:00"
@@ -99,76 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
    "q": "Tagesschau",
    "d": "2026-10-27T17:11:59+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Es riecht nach einem faulen Kompromiss",
-   "s": "Frankreichs Regierungschef Sébastien Lecornu kündigt erste Zugeständnisse im Bildungswesen an. Doch den Schülern und Studierenden reicht das nicht.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6225413/",
-   "q": "taz",
-   "d": "2026-10-27T16:40:00+00:00"
-  },
-  {
-   "t": "Massaker an Christen in Äthiopien: Aufgereihte Leichen in weiße Tücher gehüllt",
-   "s": "Eine Serie von Angriffen auf Christen im Zentrum Äthiopiens fordert rund 60 Tote. Ob Oromo-Rebellen die Täter sind, bleibt zunächst unklar.",
-   "u": "https://taz.de/Massaker-an-Christen-in-Aethiopien/!6225347/",
-   "q": "taz",
-   "d": "2026-10-27T16:38:00+00:00"
-  },
-  {
-   "t": "Studie zur Grundsicherung: Schwarz-Rot mindert Anreize zum Arbeiten",
-   "s": "Menschen mit schlecht bezahlten Jobs stehen besser da als ohne Job – allerdings nur mit ergänzenden Sozialleistungen. Und auch nicht mehr lange.",
-   "u": "https://taz.de/Studie-zur-Grundsicherung/!6225357/",
-   "q": "taz",
-   "d": "2026-10-27T16:37:00+00:00"
-  },
-  {
-   "t": "Nord-Stream-Verfahren geht weiter: Schweigepflicht gilt nur für Deutsche",
-   "s": "Die Verteidigung des Angeklagten Serhii K. hatte eine Einstellung unter anderem wegen fehlender Aussagegenehmigung beantragt. Das Gericht hat das abgelehnt.",
-   "u": "https://taz.de/Nord-Stream-Verfahren-geht-weiter/!6225440/",
-   "q": "taz",
-   "d": "2026-10-27T16:15:00+00:00"
-  },
-  {
-   "t": "Parlamentswahlen in Israel - Mitte-Rechts gegen Rechtsaußen",
-   "s": "Die Israelis könnten heute die Ära von Langzeit-Regierungschef Benjamin Netanjahu beenden. Herausforderer Gadi Eisenkot führt in den Umfragen. Wie gespalten ist das Land? Und: Die verheerende Lage in der ukrainischen Frontstadt Oleschky.Philipp May",
-   "u": "https://www.deutschlandfunk.de/parlamentswahlen-in-israel-mitte-rechts-gegen-rechtsaussen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-27T16:00:00+00:00"
-  },
-  {
-   "t": "Protestaktionen in Barcelona: Rätsel um 500 dubiose Plünderer",
-   "s": "In Barcelona hat ein auffällig unpolitischer schwarzer Block massiv Geschäfte geplündert. Waren das Provokateure? Kleinkriminelle? Geheimdienstler?",
-   "u": "https://taz.de/Das-Raetsel-um-500-dubiose-Pluenderer-in-Barcelona/!6225348/",
-   "q": "taz",
-   "d": "2026-10-27T15:54:00+00:00"
-  },
-  {
-   "t": "Was die Israel-Wahl für Deutschland bedeutet",
-   "s": "Die Wahl in Israel wird auch in Deutschland mit Spannung verfolgt. Trotz Kritik an Netanjahus Politik bleibt die Bundesregierung zurückhaltend. Einen grundsätzlichen Wandel erwartet niemand. Von Ruth Kirchner.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/deutschland-israel-154.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T15:52:06+00:00"
-  },
-  {
-   "t": "Endlager für Atommüll: Fünf Bundesländer weniger auf der Liste",
-   "s": "Die Bundesgesellschaft für Endlagerung (BGE) sucht einen Standort für hochradioaktiven Atommüll. Fünf Bundesländer für einen möglichen Standort sind nun von der Liste gestrichen worden. Bis zur endgültigen Entscheidung ist es dennoch ein weiter Weg.Röhrlich, Dagmar",
-   "u": "https://www.deutschlandfunk.de/bundesgesellschaft-fuer-endlagerung-aktualisierte-deutschlandkarte-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-27T15:36:16+00:00"
-  },
-  {
-   "t": "Bundesgerichtshof verweist Streit um falsches Künast-Zitat an EuGH",
-   "s": "Der Bundesgerichtshof hat den Rechtsstreit der Grünen-Politikerin Künast gegen Meta an den Europäischen Gerichtshof verwiesen. Der soll prüfen, ob der Internetkonzern für die Löschung eines rechtswidrigen Memes verantwortlich ist.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/kuenast-meta-eugh-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T15:35:01+00:00"
-  },
-  {
-   "t": "Kommission nimmt Arbeit auf: Pflegeversicherung in Not",
-   "s": "Die Pflegekosten steigen, auf immer weniger Beitragszahler kommen immer mehr Pflegebedürftige. Experten erarbeiten Vorschläge für die Pflegeversicherung.",
-   "u": "https://taz.de/Kommission-nimmt-Arbeit-auf/!6225422/",
-   "q": "taz",
-   "d": "2026-10-27T15:15:00+00:00"
   }
  ]
 }
