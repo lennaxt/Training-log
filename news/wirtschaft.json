@@ -1,7 +1,28 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-27T15:22:02+00:00",
+ "updated": "2026-10-28T00:31:50+00:00",
  "items": [
+  {
+   "t": "Marktbericht: DAX kann weiter zulegen",
+   "s": "Obwohl die wichtigsten Termine der Woche noch bevorstehen, hat der DAX seine Kurserholung fortgesetzt. Geholfen haben dabei neue Hoffnungen auf eine diplomatische Lösung im Iran-Krieg.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T17:18:35+00:00"
+  },
+  {
+   "t": "Atommüll-Endlager: In weiteren Bundesländern soll nicht mehr gesucht werden",
+   "s": "Die Suche nach einem Endlager für den hochradioaktiven Atommüll in Deutschland wird konkreter. Die zuständigen Fachleute haben die geeigneten Gebiete weiter eingegrenzt - auf weniger als fünf Prozent der Landesfläche.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T17:11:59+00:00"
+  },
+  {
+   "t": "Tarifverhandlungen: IG Metall lehnt Angebot ab - Warnstreiks drohen",
+   "s": "Die Arbeitgeber der Metall- und Elektroindustrie haben in der laufenden Tarifrunde ein erstes Angebot vorgelegt. Die IG Metall weist es als unzureichend zurück. Ab Sonntag sind Warnstreiks möglich.",
+   "u": "https://www.tagesschau.de/wirtschaft/ig-metall-wirtschaftsmeldung-oktober2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T16:12:25+00:00"
+  },
   {
    "t": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
    "s": "Wer spätabends oder am Wochenende Aktien von Siemens, SAP und Co. kaufen oder verkaufen will, kann das ab sofort tun. Die Deutsche Börse ermöglicht den Handel rund um die Uhr. Was hat es damit auf sich?",
@@ -10,25 +31,11 @@
    "d": "2026-10-27T14:12:19+00:00"
   },
   {
-   "t": "Beiersdorf-Zahlen: Nivea und Tesa schrumpfen weiter",
-   "s": "Beiersdorf sieht erste Fortschritte in seinem Konsumentengeschäft. Dennoch lagen die Umsätze mit Tesa- und Nivea-Produkten im dritten Quartal weiter unter Vorjahr. Die Aktie steht unter Druck.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-beiersdorf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T13:10:55+00:00"
-  },
-  {
-   "t": "Atommüll-Endlager: In fünf Bundesländern soll nicht mehr gesucht werden",
-   "s": "Die Suche nach einem Endlager für den hochradioaktiven Atommüll in Deutschland wird konkreter. Die zuständigen Fachleute haben die geeigneten Gebiete weiter eingegrenzt. Fünf Bundesländer sind nun nicht mehr Teil der laufenden Suche.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T12:53:16+00:00"
-  },
-  {
-   "t": "Pflegekommission der Bundesregierung nimmt ihre Arbeit auf",
-   "s": "Mit einer großen Reform will die Bundesregierung die Pflege zukunftsfest machen. Vorschläge dafür soll eine Kommission entwickeln, die heute ihre Arbeit aufgenommen hat. Wer ist dabei? Was sind die Knackpunkte? Und wann gibt es Ergebnisse?",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/pflegekommission-pflegereform-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T12:27:51+00:00"
+   "t": "Industriearbeiter: Vom Gesicht des Wirtschaftswunders zur AfD-Klientel",
+   "s": "Der deutsche Industriearbeiter galt als Symbolfigur des Wiederaufbaus nach 1945. Arbeiter waren stolz, „Malocher“ zu sein. Doch zunehmend verschwinden Industriejobs. Und viele der verbliebenen Arbeiter zieht es zur AfD.",
+   "u": "https://www.deutschlandfunk.de/industriearbeiter-afd-waehler-wirtschaft-arbeitsplaetze-stellenabbau-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-27T11:34:00+00:00"
   },
   {
    "t": "Kanzler Merz setzt auf Handel mit Asien - offenbar als Reaktion auf Trump",
@@ -101,13 +108,6 @@
    "d": "2026-10-27T04:20:26+00:00"
   },
   {
-   "t": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
-   "s": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für Kritik. SPD-Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW. Audi selbst verteidigt den Auftritt.",
-   "u": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T19:56:04+00:00"
-  },
-  {
    "t": "Wirtschaft vor acht vom 26.10.2026",
    "s": "Wirtschaft vor acht vom 26.10.2026",
    "u": "https://www.tagesschau.de/video/video-1673070.html",
@@ -129,13 +129,6 @@
    "d": "2026-10-26T17:56:13+00:00"
   },
   {
-   "t": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
-   "s": "Ist der Auftritt des Audi-Chefs beim US-Präsidenten nicht einfach nur wirtschaftlich vernünftig? Nein, meint Katharina Fuß. Der Manager macht sich zum grinsenden Statisten von Trump - und schickt fatale Signale an die Audi-Belegschaft in Deutschland.",
-   "u": "https://www.tagesschau.de/kommentar/audi-doellner-trump-kommentar-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T16:57:08+00:00"
-  },
-  {
    "t": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
    "s": "Das amerikanische KI-Unternehmen Anthropic gibt den Startschuss für einen Mega-Börsengang schon im November und reicht die nötigen Unterlagen ein. Es dürfte einer der größten Börsengänge aller Zeiten werden.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html",
@@ -150,13 +143,6 @@
    "d": "2026-10-26T13:34:05+00:00"
   },
   {
-   "t": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
-   "s": "US-Präsident Trump und Audi-Chef Döllner auf einer Bühne - das stößt auf scharfe Kritik. Der Vorstandsvorsitzende kündigte in den USA ein neues Werk an. Nun könnten die eigenen Konzernleitlinien für ihn zum Problem werden.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T12:48:59+00:00"
-  },
-  {
    "t": "Ifo-Index: Konjunkturbelebung setzt sich fort",
    "s": "Die Stimmung in den deutschen Chefetagen hellt sich weiter auf: Trotz hoher Energiepreise ist der ifo-Geschäftsklimaindex im Oktober zum sechsten Mal in Folge gestiegen.",
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html",
@@ -169,6 +155,20 @@
    "u": "https://www.tagesschau.de/wissen/klima/goldabbau-ghana-abholzung-regenwald-100.html",
    "q": "Tagesschau",
    "d": "2026-10-26T06:13:21+00:00"
+  },
+  {
+   "t": "Deutsche Nachrichtendienste setzen auf Cloud-System von Google",
+   "s": "Um geheime Informationen schneller untereinander austauschen zu können, wollen BND, Verfassungsschutz und MAD ein gemeinsames Cloud-System aufbauen. Nach Recherchen von NDR und WDR soll Google dabei eine maßgebliche Rolle spielen. Von F. Flade und R. Pinkert.",
+   "u": "https://www.tagesschau.de/investigativ/ndr-wdr/nachrichtendienst-google-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-26T05:11:08+00:00"
+  },
+  {
+   "t": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
+   "s": "Deutschland braucht mehr bezahlbaren Wohnraum. Das soll unter anderem mit dem Gebäudetyp E gelingen - das E steht hier für \"einfach\". Der Gesetzentwurf liegt dem ARD-Hauptstadtstudio exklusiv vor. Von Oliver Neuroth.",
+   "u": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
+   "q": "Tagesschau",
+   "d": "2026-10-25T23:07:11+00:00"
   }
  ]
 }

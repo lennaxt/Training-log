@@ -1,13 +1,48 @@
 {
  "name": "Ausland",
- "updated": "2026-10-27T15:22:01+00:00",
+ "updated": "2026-10-28T00:31:49+00:00",
  "items": [
   {
+   "t": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar in USA eingetroffen",
+   "s": "Der unterlegene Präsidentschaftskandidat Flávio Bolsonaro hat laut Medienberichten Brasilien verlassen und ist in den USA gelandet - trotz eines gerichtlich verhängten Ausreiseverbots. Die USA wollen ihm und seiner Familie nun Visa erteilen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T00:18:43+00:00"
+  },
+  {
+   "t": "Keine klare Mehrheit bei Parlamentswahl in Israel",
+   "s": "Bei der Parlamentswahl in Israel erreichen Prognosen zufolge weder Premierminister Netanjahu noch sein wichtigster Gegner Eisenkot eine Mehrheit. Eisenkot kündigte dennoch an, eine Regierung bilden zu wollen.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T23:55:00+00:00"
+  },
+  {
    "t": "Bei Knesset-Wahl zeichnet sich enorm hohe Wahlbeteiligung ab",
-   "s": "Für viele Israelis ist es nicht weniger als eine Schicksalswahl - und das spiegelt sich in der Wahlbeteiligung wider. Die liegt bereits jetzt auf einem Rekordniveau. Umfragen deuten auf ein knappes Rennen hin.",
+   "s": "Für viele Israelis ist es nicht weniger als eine Schicksalswahl - und das spiegelt sich in der Wahlbeteiligung wider. Die liegt auf einem Rekordniveau. Umfragen deuten auf ein knappes Rennen hin.",
    "u": "https://www.tagesschau.de/ausland/asien/hohe-wahlbeteiligung-israel-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-27T14:28:22+00:00"
+   "d": "2026-10-27T20:05:11+00:00"
+  },
+  {
+   "t": "Nach Anschlägen in Frankreich: Sorge vor wachsendem Rassismus",
+   "s": "Nach den offenbar rassistisch motivierten Anschlägen in Frankreich gehen in Paris Menschen auf die Straße. Viele sehen rechte Medien in der Verantwortung - und den Rassemblement National. Von Carolin Dylla.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-paris-kundgebung-nach-anschlaegen-von-trappes-la-verriere-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T17:56:21+00:00"
+  },
+  {
+   "t": "Pressefreiheit: Ägypten schließt unabhängige Nachrichtenseite",
+   "s": "Ein ägyptisches Gericht hat die Schließung der unabhängigen Nachrichtenwebseite Mada Masr angeordnet. Chefredakteurin Attalah wurde zu einer hohen Geldstrafe verurteilt. Reporter ohne Grenzen spricht von einer \"ungeheuerlichen Entscheidung\".",
+   "u": "https://www.tagesschau.de/ausland/afrika/aegypten-nachrichtenseite-mada-masr-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T16:42:34+00:00"
+  },
+  {
+   "t": "Psychologin zur Lage in Israel: \"Jeder von uns ist irgendwie kaputtgegangen\"",
+   "s": "Angst, Trauer und politische Spaltung prägen seit dem 7. Oktober 2023 Israel. Das Land steckt nach Einschätzung von Psychologin Roth in einer tiefen Identitätskrise. Hoffnung gibt ihr die heutige Wahl - sie könnte zum Neuanfang werden.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wahlen-trauma-interview-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T15:51:37+00:00"
   },
   {
    "t": "Stubb und Störe sprechen mit Putin",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
    "q": "Tagesschau",
    "d": "2026-10-26T06:58:43+00:00"
-  },
-  {
-   "t": "Wahlen in Brasilien: Eine Nacht zwischen Jubel und Misstrauen",
-   "s": "Feuerwerk und Freudentränen - in Brasilien feiern Anhänger den Wahlsieg von Lula als Erfolg der Demokratie. Doch während die einen aufatmen, warnen andere vor dem politischen Kampf, der jetzt erst beginnt. Von Anne Herrberg.",
-   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T06:34:32+00:00"
-  },
-  {
-   "t": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
-   "s": "Brasiliens Wähler sehen Gewalt und Kriminalität als das größte Problem im Land. Die Macht der Banden wird immer größer. Die Kandidaten bei der Stichwahl ums Präsidentenamt heute stehen dabei für unterschiedliche Lösungen. Von Xenia Böttcher.",
-   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T20:43:16+00:00"
-  },
-  {
-   "t": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
-   "s": "Die rechtspopulistische französische Präsidentschaftskandidatin Le Pen führt derzeit in den Umfragen. Zum Auftakt der Wahlkampagne ihres Rassemblement National warb sie für einen politischen Neuanfang.",
-   "u": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T19:25:14+00:00"
-  },
-  {
-   "t": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
-   "s": "Lange Schlangen vor den Wahllokalen in Serbien: Viele Menschen wünschen sich Veränderung. Bei der Parlamentswahl setzt die Studentenbewegung auf einen Erfolg. Doch auch Präsident Vucic hat überzeugte Anhänger.",
-   "u": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T16:24:20+00:00"
-  },
-  {
-   "t": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
-   "s": "Der Brexit hat Großbritannien mehr Schaden als Nutzen gebracht - so sieht es zumindest der neue Premier Burnham. Jetzt zeigt er sich einmal mehr offen für eine Wiederannäherung an die EU - allerdings in Grenzen.",
-   "u": "https://www.tagesschau.de/ausland/europa/burnham-freizuegigkeit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T15:12:04+00:00"
   }
  ]
 }
