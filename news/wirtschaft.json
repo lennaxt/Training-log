@@ -1,20 +1,41 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-28T09:41:28+00:00",
+ "updated": "2026-10-28T20:16:18+00:00",
  "items": [
   {
-   "t": "Marktbericht: DAX noch unentschieden",
-   "s": "Positive und negative Einflüsse halten sich zum Tagesstart die Waage. Der DAX schwankt um seinen Vortagesschluss. Neben einer Reihe von Quartalszahlen beschäftigen der KI-Boom und der Ölpreis den Markt.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
+   "t": "Wirtschaft vor acht vom 28.10.2026",
+   "s": "Wirtschaft vor acht vom 28.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1674240.html",
    "q": "Tagesschau",
-   "d": "2026-10-28T09:36:36+00:00"
+   "d": "2026-10-28T19:05:12+00:00"
   },
   {
-   "t": "Neuer Haushalt in Großbritannien: Burnhams erster Stresstest",
-   "s": "Mit geschickter Kommunikation konnte der neue Premier Burnham bislang bei den Briten punkten. Doch nun muss er Farbe bekennen. Mit dem ersten Haushalt wird sich zeigen, wofür die Regierung Geld ausgeben will. Viel ist nicht da. Von M. Aden.",
-   "u": "https://www.tagesschau.de/ausland/europa/uk-burnham-erster-haushalt-100.html",
+   "t": "Marktbericht: Der DAX behauptet sich",
+   "s": "Der Handelstag im DAX endet mit leichten Gewinnen. Die Investoren haben viele Quartalszahlen zu verarbeiten, außerdem richtet sich der Blick in die USA. Die hohen Energiepreise dämpfen indes weiterhin die Stimmung.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-28T09:03:50+00:00"
+   "d": "2026-10-28T17:38:51+00:00"
+  },
+  {
+   "t": "Börsendebüt von tk accelis bleibt unter den Erwartungen",
+   "s": "Seine Marinewerften und das Wasserstoffgeschäft hat der Industriekonzern Thyssenkrupp schon abgespalten. Nun folgt die Werkstofftochter mit eigenen Aktien. Und es gibt noch weitergehende Pläne.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/boersengang-tk-accelis-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T15:50:44+00:00"
+  },
+  {
+   "t": "Mercedes hat noch größere Probleme im chinesischen Markt",
+   "s": "Mercedes hat im dritten Quartal in seiner Autosparte operativ deutlich weniger verdient. Vor allem das schlechte China-Geschäft setzt dem Konzern zu. Die Strategie für den weltgrößten Automarkt will er nun überdenken.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-automobilindustrie-quartalszahlen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T11:58:54+00:00"
+  },
+  {
+   "t": "Wie Meta-Chef Mark Zuckerberg eine Reichensteuer umgehen will",
+   "s": "Kalifornien stimmt bei den Midterms auch über die Einführung einer Reichensteuer ab. In dem US-Bundesstaat leben viele Tech-Milliardäre. Einer von ihnen macht schon mal mobil. Von Gabi Biesinger.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zuckerberg-reichensteuer-usa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T10:17:20+00:00"
   },
   {
    "t": "Update Wirtschaft vom 28.10.2026",
@@ -29,20 +50,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-wachstum-ki-robotik-zukunftsmaerkte-100.html",
    "q": "Tagesschau",
    "d": "2026-10-28T05:19:59+00:00"
-  },
-  {
-   "t": "FAQ: Die lange Suche nach einem Atommüll-Endlager",
-   "s": "Rund 27.000 Kubikmeter hochradioaktiver Müll müssen dauerhaft und sicher verwahrt werden. Bis 2050 soll ein Endlager gefunden werden. Die Suche wurde nun weiter eingegrenzt. Wie muss ein Endlager beschaffen sein? Und wo könnte es entstehen?",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T17:12:36+00:00"
-  },
-  {
-   "t": "Atommüll-Endlager: In weiteren Bundesländern soll nicht mehr gesucht werden",
-   "s": "Die Suche nach einem Endlager für den hochradioaktiven Atommüll in Deutschland wird konkreter. Die zuständigen Fachleute haben die geeigneten Gebiete weiter eingegrenzt - auf weniger als fünf Prozent der Landesfläche.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T17:11:59+00:00"
   },
   {
    "t": "Tarifverhandlungen: IG Metall lehnt Angebot ab - Warnstreiks drohen",
@@ -127,13 +134,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/facebook-memes-kuenast-100.html",
    "q": "Tagesschau",
    "d": "2026-10-27T04:20:26+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 26.10.2026",
-   "s": "Wirtschaft vor acht vom 26.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1673070.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T19:06:30+00:00"
   },
   {
    "t": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",

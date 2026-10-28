@@ -1,7 +1,91 @@
 {
  "name": "Ausland",
- "updated": "2026-10-28T09:41:26+00:00",
+ "updated": "2026-10-28T20:16:17+00:00",
  "items": [
+  {
+   "t": "Großbritannien: Burnhams Regierung stellt Haushalt vor",
+   "s": "Die Vorstellung des Haushalts war für Großbritanniens Premier Burnham der erste Härtetest. Die Erwartungen der Briten sind hoch. Die Regierung setzt vor allem auf kleine Maßnahmen, die die Menschen sofort spüren sollen. Von Lisa-Maria Röhling.",
+   "u": "https://www.tagesschau.de/ausland/europa/gb-labour-haushalt-burnham-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T18:20:51+00:00"
+  },
+  {
+   "t": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
+   "s": "Israel hat gewählt, doch keines der Lager kommt auf eine Mehrheit. Die Regierungsbildung dürfte sich hinziehen. Bis dahin bleibt Netanjahu im Amt - mit weitreichenden Folgen für den Gazastreifen, das Westjordanland und die gesamte Region. Von J.-C. Kitzler.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T17:22:57+00:00"
+  },
+  {
+   "t": "Mindestens 68 Tote nach Zugunglück in Spanien",
+   "s": "Die Zahl der Toten nach dem schweren Zugunglück in Spanien ist auf 68 gestiegen. Ein Hochgeschwindigkeitszug war am Morgen auf einen stehenden Zug aufgefahren - laut ersten Ermittlungen vermutlich wegen einer falschen Ansage der Leitstelle.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T16:11:17+00:00"
+  },
+  {
+   "t": "Parlamentswahl in Israel: Wofür die arabischen Parteien stehen",
+   "s": "Die arabischen Parteien haben bei der Wahl in Israel wahrscheinlich so stark abgeschnitten wie noch nie. Ihre Unterstützung könnte der Opposition den Weg an die Macht ebnen. Was sind ihre Themen, was sind ihre Ziele? Ein Überblick.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-arabische-parteien-wahl-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T16:08:34+00:00"
+  },
+  {
+   "t": "Nach illegaler Ausreise aus Brasilien: Flávio Bolsonaro in Miami gelandet",
+   "s": "Der brasilianische Wahlverlierer Flávio Bolsonaro hat sich trotz eines Ausreiseverbots in die USA abgesetzt. Ein Privatflugzeug brachte ihn und seine Familie nach Miami. Gegen Bolsonaro wird unter anderem wegen Korruption ermittelt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-flavio-bolsonaro-ecuador-usa-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T14:37:14+00:00"
+  },
+  {
+   "t": "Wahl in Israel: Keine klare Mehrheit, stattdessen Hoffnungen und Frust",
+   "s": "Nach der Parlamentswahl droht Israel eine Hängepartie: Keines der Lager hat eine klare Mehrheit. Premier Netanjahu gibt sich kämpferisch. Seine Gegner sind enttäuscht - hoffen aber weiter auf Veränderungen. Von J.-C. Kitzler.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-178.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T14:03:46+00:00"
+  },
+  {
+   "t": "Erneute Haftstrafe für iranischen Regisseur Panahi",
+   "s": "Die iranische Justiz geht weiter gegen den Regisseur und Goldene-Palme-Gewinner Jafar Panahi vor. Einem Bericht zufolge wurde der 66-jährige Regime-Kritiker in Teheran erneut zu einer mehrjährigen Haftstrafe verurteilt.",
+   "u": "https://www.tagesschau.de/ausland/asien/panahi-iran-haftstrafe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T13:11:16+00:00"
+  },
+  {
+   "t": "Nach Ausreise aus Brasilien: Verwirrung um Aufenthaltsort von Flávio Bolsonaro",
+   "s": "Wo ist Flávio Bolsonaro? US-Medien hatten zunächst berichtet, der aus Brasilien widerrechtlich ausgereiste Präsidentschaftskandidat sei in den USA. Argentinische Behörden berichten nun, er sei mit seiner Familie nach Ecuador geflogen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-flavio-bolsonaro-ecuador-usa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T12:00:47+00:00"
+  },
+  {
+   "t": "Diskussion vor Zwischenwahlen: Sind die USA noch eine Demokratie?",
+   "s": "Gegnern schickt die Regierung die Justiz auf den Hals, Unis sehen ihre Freiheiten bedroht: In den USA wird kontrovers diskutiert, ob das Land unter Trump noch eine Demokratie ist. Vor den Midterms bekommt das Thema neue Brisanz. Von C. Kühntopp.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-zustand-demokratie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T11:35:40+00:00"
+  },
+  {
+   "t": "Knesset-Wahl in Israel: Hochrechnungen zeigen Patt-Situation in Israel",
+   "s": "Nach der Wahl in Israel gibt es laut Hochrechnungen für kein politisches Lager eine Mehrheit im Parlament. Sowohl Eisenkot als auch Netanjahu kündigten dennoch an, eine Regierung bilden zu wollen.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T11:32:28+00:00"
+  },
+  {
+   "t": "Wahl in Israel: \"Patt-Situation vielleicht gar nicht auflösbar\"",
+   "s": "Israel könnte nach der Parlamentswahl erneut auf Neuwahlen zusteuern, sagt der Nahost-Experte Woertz im Interview. Zugleich seien neue Kämpfe im Iran-Krieg nicht auszuschließen - wovon Premier Netanjahu auch profitieren könnte.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T10:30:22+00:00"
+  },
+  {
+   "t": "Serbien: Polizist vor israelischer Botschaft in Belgrad angegriffen",
+   "s": "Vor der israelischen Botschaft in Belgrad ist ein Wachmann mit Messern attackiert worden. Der Angreifer, ein mutmaßliches Mitglied des \"Islamischen Staats\", ist dabei getötet worden. Serbien und Israel werten den Angriff als Terrorakt.",
+   "u": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T09:54:58+00:00"
+  },
   {
    "t": "Brasilien: Bolsonaro trotz Ausreiseverbots laut US-Medien in USA eingetroffen",
    "s": "Der bei der Präsidentschaftswahl unterlegene Flávio Bolsonaro hat Brasilien verlassen. Während US-Medien berichten, er sei in den USA gelandet, spricht Argentiniens Einwanderungsbehörde von einem Flug nach Ecuador.",
@@ -15,13 +99,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/uk-burnham-erster-haushalt-100.html",
    "q": "Tagesschau",
    "d": "2026-10-28T09:03:50+00:00"
-  },
-  {
-   "t": "Knesset-Wahl in Israel: Prognosen zeigen Patt-Situation in Israel",
-   "s": "Nach der Wahl in Israel und ersten Teilauszählungen gibt es ein enges Rennen um die Mehrheit im Parlament. Sowohl Eisenkot als auch Netanjahu kündigten an, eine Regierung bilden zu wollen.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T09:00:51+00:00"
   },
   {
    "t": "Nach Wahl zur Knesset: So könnte es in Israel nun weitergehen",
@@ -43,13 +120,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
    "q": "Tagesschau",
    "d": "2026-10-27T23:55:00+00:00"
-  },
-  {
-   "t": "Bei Knesset-Wahl zeichnet sich enorm hohe Wahlbeteiligung ab",
-   "s": "Für viele Israelis ist es nicht weniger als eine Schicksalswahl - und das spiegelt sich in der Wahlbeteiligung wider. Die liegt auf einem Rekordniveau. Umfragen deuten auf ein knappes Rennen hin.",
-   "u": "https://www.tagesschau.de/ausland/asien/hohe-wahlbeteiligung-israel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T20:05:11+00:00"
   },
   {
    "t": "Nach Anschlägen in Frankreich: Sorge vor wachsendem Rassismus",
@@ -80,27 +150,6 @@
    "d": "2026-10-27T13:32:22+00:00"
   },
   {
-   "t": "Jordanische Luftwaffe greift Ziele in Syrien an",
-   "s": "Nach dem Anschlag in Jordanien auf eine Kirche mit neun Toten hat die Luftwaffe mit Angriffen auf Ziele im Nachbarland Syrien reagiert. Mehrere Mitglieder der IS-Terrormiliz sollen getötet worden sein.",
-   "u": "https://www.tagesschau.de/ausland/asien/jordanische-angriffe-syrien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T12:41:28+00:00"
-  },
-  {
-   "t": "Wahl in Israel: \"König Bibi\" polarisiert - setzt er sich noch mal durch?",
-   "s": "Benjamin Netanjahu hat Israel länger regiert als jeder andere Politiker vor ihm. Heute entscheiden die Wähler, ob eine weitere Amtszeit dazukommt. Es ist eine Abstimmung über einen Premier, der im Land wie kein Zweiter polarisiert. Von J. Segador.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-portraet-netanjahu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T12:11:13+00:00"
-  },
-  {
-   "t": "Nachbarstaaten knüpfen wenig Hoffnung an die Wahl in Israel",
-   "s": "Die Wahl der Knesset wird auch in den Nachbarstaaten Libanon und Syrien genau beobachtet. Die Hoffnung auf eine Änderung von Israels Außenpolitik - im Falle einer Niederlage von Premier Netanjahu - ist jedoch gering. Von Ina Rottscheidt.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-libanon-syrien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T11:49:29+00:00"
-  },
-  {
    "t": "Mehr als 10.000 Ebola-Fälle in Demokratischer Republik Kongo bestätigt",
    "s": "Das Ebola-Virus breitet sich in der Demokratischen Republik Kongo weiter aus. Mehr als 10.000 Menschen sind dort bislang erkrankt. Inzwischen wird weiter an der Entwicklung von Therapieverfahren und Impfstoffen gearbeitet.",
    "u": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-100.html",
@@ -120,55 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html",
    "q": "Tagesschau",
    "d": "2026-10-27T07:59:54+00:00"
-  },
-  {
-   "t": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
-   "s": "Seit Jahren ist die von Russland besetzte Stadt Oleschky in der Ostukraine umkämpft. Trotzdem leben dort noch bis zu 2.000 Menschen. Damit sie Hilfe bekommen, gilt jetzt eine Feuerpause. Andernorts gehen die Angriffe weiter.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T06:56:19+00:00"
-  },
-  {
-   "t": "Nach Präsidentenwahl in Brasilien: Ausreiseverbot für Flávio Bolsonaro",
-   "s": "Nach der Präsidentenwahl in Brasilien gibt es weitere schlechte Nachrichten für den unterlegenen Flávio Bolsonaro. Nun darf er das Land nicht mehr verlassen und soll seine Pässe abgeben. Der Grund: Ermittlungen wegen mutmaßlicher Geldwäsche.",
-   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-ausreiseverbot-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T06:43:16+00:00"
-  },
-  {
-   "t": "Knesset-Wahl 2026: Israel vor der Entscheidung",
-   "s": "Es ist eine fundamentale Richtungsentscheidung in einer der schwersten Krisen Israels: Mehr als 7,3 Millionen Wahlberechtigte stimmen ab. 70.000 Staatsbürger aus aller Welt fliegen ein. Heute wird ein neues Parlament gewählt. Von J. Segador.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-vor-wahl-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T03:18:23+00:00"
-  },
-  {
-   "t": "Brasilien nach der Stichwahl: Was jetzt auf Lula zukommt",
-   "s": "Nach der Stichwahl hat nun auch Bolsonaros Partei die Niederlage anerkannt. Doch die Herausforderungen, vor denen Lula steht, sind groß. Die Kosten für essenzielle Güter wie Lebensmittel sind hoch. Die vierte Amtszeit könnte seine schwerste werden. Von A. Herrberg.",
-   "u": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T03:06:48+00:00"
-  },
-  {
-   "t": "Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag",
-   "s": "In Frankreich geht die Regierung mit einem Maßnahmenkatalog auf die protestierenden Schüler zu. Diese begrüßen den Fünf-Punkte-Plan des Bildungsministers, wollen am kommenden Samstag aber erneut demonstrieren. Von Julia Borutta.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-5-punkte-plan-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T02:22:51+00:00"
-  },
-  {
-   "t": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
-   "s": "Absolute Mehrheit für die Studentenliste: In Serbien hat sie überraschend klar die Parlamentswahl gewonnen. Aber wie kann aus einer Protestbewegung eine Regierung werden? Vieles ist unklar - und die Aufgaben sind groß.",
-   "u": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T20:36:08+00:00"
-  },
-  {
-   "t": "Welche Folgen das Wahlergebnis für Brasilien haben könnte",
-   "s": "Ihm fehlen Millionen Stimmen, doch seine Niederlage akzeptiert er nicht: Brasiliens rechter Präsidentschaftskandidat Bolsonaro. Das weckt Erinnerungen an die Abwahl seines Vaters. Was nun folgen könnte, erklärt Experte Maihold.",
-   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-126.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T16:27:33+00:00"
   }
  ]
 }

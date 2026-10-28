@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-10-28T09:41:38+00:00",
+ "updated": "2026-10-28T20:16:22+00:00",
  "items": [
+  {
+   "t": "Haftstrafe für iranischen Regisseur: Palme-d’or-Gewinner im Iran verurteilt",
+   "s": "Der Regisseur Jafar Panahi ist im Iran laut einem Bericht zu über fünf Jahren Haft verurteilt worden. Sein Vermögen soll beschlagnahmt werden.",
+   "u": "https://taz.de/Haftstrafe-fuer-iranischen-Regisseur/!6225615/",
+   "q": "taz",
+   "d": "2026-10-28T10:36:00+00:00"
+  },
   {
    "t": "Trauer und Entsetzen in Jordanien: Anschlag auf die Oase des Friedens",
    "s": "Am Freitag haben mutmaßliche Terroristen das Feuer auf Trauernde in einer Kirche nahe Karak in Jordanien eröffnet. Acht Menschen verloren ihr Leben, Dutzende wurden verletzt.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Katstrophe-in-Nepal/!6211191/",
    "q": "taz",
    "d": "2026-09-26T19:08:00+00:00"
-  },
-  {
-   "t": "Australien und der Krieg im Nahen Osten: Was eine US-Militäranlage im Outback mit Gaza zu tun hat",
-   "s": "Eine Militäranlage im australischen Outback gerät wegen ihrer möglichen Rolle im Gaza-Krieg ins politische Kreuzfeuer. Seit Monaten gibt es Proteste.",
-   "u": "https://taz.de/Australien-und-der-Krieg-im-Nahen-Osten/!6216286/",
-   "q": "taz",
-   "d": "2026-09-26T14:39:00+00:00"
   }
  ]
 }

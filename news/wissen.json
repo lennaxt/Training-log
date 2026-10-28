@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-28T09:41:28+00:00",
+ "updated": "2026-10-28T20:16:19+00:00",
  "items": [
+  {
+   "t": "Quantennetzwerk QuNET: Schutz gegen Hackerangriffe",
+   "s": "Quantencomputer und KI können wohl bald jede Verschlüsselung knacken. In Zukunft sollen Quantennetze wie QuNET die Kommunikation schützen. Die Technologie funktioniert, aber noch nicht perfekt. Von Jan Kerckhoff.",
+   "u": "https://www.tagesschau.de/wissen/technologie/quantennetzwerk-qunet-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-28T15:39:49+00:00"
+  },
   {
    "t": "Bericht der Weltwetterorganisation: Immer mehr Treibhausgase in der Atmosphäre",
    "s": "In der Atmoshäre sammeln sich immer mehr Treibhausgase. Das zeigt ein neuer Bericht der Weltwetterorganisation. Offenbar erholt sich die Natur von Hitze und Trockenheit nicht so schnell wie erwartet. Von N. Gode und S. Biegger.",
@@ -50,13 +57,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/brustkrebs-mann-100.html",
    "q": "Tagesschau",
    "d": "2026-10-23T05:26:29+00:00"
-  },
-  {
-   "t": "UN-Artenschutzkonferenz - Wie effektiv sind Schutzgebiete?",
-   "s": "30 Prozent der Erde sollen bis 2030 unter Naturschutz stehen. Dazu haben sich die Staaten der UN-Artenschutzkonferenz verpflichtet. Schon jetzt zeigen einige Konzepte Erfolge - aber Kosten und Aufwand sind hoch. Von Jenny von Sperber.",
-   "u": "https://www.tagesschau.de/wissen/tiere/un-artenschutzkonferenz-armenien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T15:02:41+00:00"
   },
   {
    "t": "Die Gelbe Wiesenraute ist Blume des Jahres 2027",
