@@ -1,174 +1,174 @@
 {
  "name": "Inland",
- "updated": "2026-10-29T09:59:29+00:00",
+ "updated": "2026-10-29T20:18:51+00:00",
  "items": [
   {
-   "t": "Erinnerung an die „Polenaktion“ 1938: Die Generalprobe",
-   "s": "Im Oktober 1938 deportieren die Nazis eine jüdische Familie aus dem Rheinland. Ein Foto von damals belegt die Begeisterung ihrer Mitbürger.",
-   "u": "https://taz.de/Erinnerung-an-die-Polenaktion-1938/!6225757/",
-   "q": "taz",
-   "d": "2026-10-29T09:53:00+00:00"
-  },
-  {
-   "t": "Internationale Abkommen über KI-Waffen: Vereint gegen Turbo-Killer-Roboter",
-   "s": "Deutschland und andere Industriestaaten rüsten auf – auch mit künstlicher Intelligenz. Wie kann man verhindern, dass Algorithmen über Leben und Tod entscheiden?",
-   "u": "https://taz.de/Warum-es-einen-internationalen-Stopp-fuer-KI-Waffensysteme-braucht---und-wie-das-gelingen-kann/!6219137/",
-   "q": "taz",
-   "d": "2026-10-29T09:48:00+00:00"
-  },
-  {
-   "t": "Telefongespräch mit Putin: Sturm im Wasserglas",
-   "s": "In der EU zählen Eitelkeiten noch immer mehr als Entschlossenheit. So spielt Europa keine Rolle bei Krieg und Frieden auf dem eigenen Kontinent.",
-   "u": "https://taz.de/Telefongespraech-mit-Putin/!6225663/",
-   "q": "taz",
-   "d": "2026-10-29T09:28:00+00:00"
-  },
-  {
-   "t": "Pflegeversicherung: Linnemann schließt Leistungskürzungen nicht aus",
-   "s": "Gesundheitsminister Linnemann hält Einschnitte bei der Pflegeversicherung für möglich. Angesichts steigender Kosten müssten rund zehn Prozent eingespart werden. Patientenschützer warnen vor den Folgen für die häusliche Pflege.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/linnemann-kuerzungen-pflegeleistungen-100.html",
+   "t": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
+   "s": "In Deutschland könnte es eine Steuer auf Umsätze geben, die mit Künstlicher Intelligenz erzielt werden. Auch Familienministerin Prien sprach sich nun dafür aus. So soll auf Veränderungen in der Arbeitswelt reagiert werden - zum Beispiel auf Jobverluste.",
+   "u": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-29T09:27:28+00:00"
+   "d": "2026-10-29T20:12:03+00:00"
   },
   {
-   "t": "Krieg im und um den Jemen: Immer mehr Menschen im Jemen durch Kämpfe vertrieben",
-   "s": "Laut UN wurden seit August durch Kämpfe 280.000 Menschen vertrieben, die für Helfer immer schwerer zu versorgen sind. Derweil gibt es wieder neue Angriffe.",
-   "u": "https://taz.de/Krieg-im-und-um-den-Jemen/!6225921/",
+   "t": "Nach der Knesset-Wahl in Israel: Schon wieder die Quadratur des Kreises",
+   "s": "Können sich jüdische und arabische Parteien für eine Koalition die Hand reichen? Die Geschichte zeigt: Es geht. Ob das heute noch gilt, ist fraglich.",
+   "u": "https://taz.de/Nach-der-Knesset-Wahl-in-Israel/!6223304/",
    "q": "taz",
-   "d": "2026-10-29T09:23:00+00:00"
+   "d": "2026-10-29T19:02:00+00:00"
   },
   {
-   "t": "Nach der Stichwahl in Brasilien: Flávio Bolsonaro macht sich lächerlich",
-   "s": "Der in die USA geflohene rechte Wahlverlierer sieht sich als legitimer Präsident und will sein Land von den USA aus von einer „Diktatur“ befreien.",
-   "u": "https://taz.de/Nach-der-Stichwahl-in-Brasilien/!6225913/",
+   "t": "Kanada als assoziiertes EU-Mitglied: Mehr als nur Streit um Worte",
+   "s": "Die EU und Kanada wollen enger kooperieren. Aber wie diese Verbindung genannt werden soll, ist in der europäischen Politik umstritten.",
+   "u": "https://taz.de/Kanada-als-assoziiertes-EU-Mitglied/!6225989/",
    "q": "taz",
-   "d": "2026-10-29T09:06:00+00:00"
+   "d": "2026-10-29T18:40:00+00:00"
   },
   {
-   "t": "Konstituierende Sitzung von neu gewähltem Abgeordnetenhaus in Berlin",
-   "s": "Knapp sechs Wochen nach der Wahl in Berlin kommt das Abgeordnetenhaus zu seiner konstituierenden Sitzung zusammen. Auf der Tagesordnung steht die Wahl des Parlamentspräsidiums. Erstmals könnte dieses Amt an eine Linken-Politikerin gehen.",
+   "t": "Grenzverfahren für Geflüchtete: Vier Monate im Transitbereich",
+   "s": "Seit Juli werden zwei genital verstümmelte Somalierinnen am Flughafen Frankfurt festgehalten. Testen die Behörden hier, wie weit sie gehen können?",
+   "u": "https://taz.de/Warum-halten-deutsche-Behoerden-seit-4-Monaten-zwei-Somalierinnen-am-Flughafen-Frankfurt-fest/!6226072/",
+   "q": "taz",
+   "d": "2026-10-29T18:40:00+00:00"
+  },
+  {
+   "t": "Politiker fährt nach Oleschky: Mission Menschenrettung",
+   "s": "Der ukrainische Menschenrechtsbeauftragte Dmytro Lubinez nutzt die aktuelle Waffenruhe, um Menschen in der Frontstadt Oleschky zu helfen.",
+   "u": "https://taz.de/Politiker-faehrt-nach-Oleschky/!6226014/",
+   "q": "taz",
+   "d": "2026-10-29T18:36:00+00:00"
+  },
+  {
+   "t": "Übergewinnsteuer: Ölkonzerne können ruhig was abgeben",
+   "s": "Die Internationale Steuerbeobachtungstelle wirbt für eine neue Übergewinnsteuer auf Ölprofite. Allein Deutschland brächte sie drei Milliarden Euro jährlich.",
+   "u": "https://taz.de/Steuer-Vorschlag-gegen-Oelkonzerne-koennte-Deutschland-Milliarden-pro-Jahr-einbringen/!6225981/",
+   "q": "taz",
+   "d": "2026-10-29T18:36:00+00:00"
+  },
+  {
+   "t": "Humanitäre Hilfe in der Ukraine: Angst und Hoffnung vor der Evakuierung",
+   "s": "Am Freitag sollen Hunderte aus der belagerten ukrainischen Stadt Oleschky gebracht werden. Sie hoffen auf Ausreise, haben aber Angst vor Folter in Russland.",
+   "u": "https://taz.de/Humanitaere-Hilfe-in-der-Ukraine/!6226127/",
+   "q": "taz",
+   "d": "2026-10-29T18:18:00+00:00"
+  },
+  {
+   "t": "Der Trump-Faktor - Wie der US-Präsident den Midterms-Wahlkampf prägt",
+   "s": "Zur Halbzeit seiner Präsidentschaft hat Donald Trump schwache Umfragewerte. Bei den Kongresswahlen erwarten Meinungsforscher, dass einige Sitze an die Demokraten gehen. Doch auch die oppositionellen Demokraten stehen vor Herausforderungen.Raith, Anne/Barenberg, Jasper",
+   "u": "https://www.deutschlandfunk.de/der-trump-faktor-wie-der-us-praesident-den-midterms-wahlkampf-praegt-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-29T17:40:00+00:00"
+  },
+  {
+   "t": "Linken-Politikerin Klein neue Parlamentspräsidentin",
+   "s": "Knapp sechs Wochen nach der Wahl in Berlin ist das Abgeordnetenhaus zu seiner konstituierenden Sitzung zusammengekommen. Die Linken-Politikerin Klein ist zur neuen Präsidentin des Parlaments gewählt worden.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/berlin-abgeordnetenhaus-erste-sitzung-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-29T07:56:14+00:00"
+   "d": "2026-10-29T17:31:06+00:00"
   },
   {
-   "t": "Vor dem EU-Kanada-Gipfel: Kanada wird vorerst kein assoziiertes EU-Mitglied",
-   "s": "Kanzler Merz und andere Regierungschefs bremsen von der Leyens Kanada-Pläne. Geplante Zusagen für eine engere Anbindung des Landes werden abgeschwächt.",
-   "u": "https://taz.de/Kanada-wird-vorerst-kein-assoziiertes-EU-Mitglied/!6225915/",
+   "t": "Prozess gegen „Sächsische Separatisten“: Gericht entlässt mehrere mutmaßliche Rechtsterroristen",
+   "s": "Im Terrorprozess gegen die „Sächsischen Separatisten“ kommt die Hälfte der Angeklagten frei. Zwei von ihnen könnten bald im Stadtrat von Grimma sitzen.",
+   "u": "https://taz.de/Prozess-gegen-Saechsische-Separatisten/!6226158/",
    "q": "taz",
-   "d": "2026-10-29T07:26:00+00:00"
+   "d": "2026-10-29T17:18:00+00:00"
   },
   {
-   "t": "Nach Flucht in die USA: Bolsonaro stilisiert sich zum Opfer",
-   "s": "Nach seiner heimlichen Ausreise nach Florida wirft Flávio Bolsonaro Wahlsieger Lula „abscheulichen Wahlbetrug“ vor und vergleicht sich mit Charles de Gaulle.",
-   "u": "https://taz.de/Nach-verlorener-Wahl-in-den-USA-Bolsonaro-stilisiert-sich-zum-Opfer/!6225911/",
-   "q": "taz",
-   "d": "2026-10-29T07:18:00+00:00"
-  },
-  {
-   "t": "Klimastrategie für die EU: Brüssel stellt sich auf 3 Grad plus ein",
-   "s": "Die EU-Kommission legt nach dem „Sommer der Wahrheit“ einen Rahmen für mehr Klimaresilienz vor. Konkret ist der nicht. Und woher kommt das Geld?",
-   "u": "https://taz.de/Klimastrategie-fuer-die-EU/!6225601/",
-   "q": "taz",
-   "d": "2026-10-29T06:17:00+00:00"
-  },
-  {
-   "t": "\"Wir können beim Schutz jüdischen Lebens keine Kompromisse eingehen\"",
-   "s": "Juden in Deutschland fühlen sich nicht mehr sicher, sagt die neue Antisemitismusbeaufragte des Bundes, Katharina von Schnurbein. Das wolle sie ändern. Häufig würden Juden für israelische Politik verantwortlich gemacht. Das sei inakzeptabel.Klein, Bettina",
-   "u": "https://www.deutschlandfunk.de/interview-mit-katharina-von-schnurbein-antisemitismusbeauftragte-zu-judenhass-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-29T06:15:01+00:00"
-  },
-  {
-   "t": "EU und Kanada wollen Zusammenarbeit vertiefen",
-   "s": "Beim EU-Kanada-Gipfel soll die Zusammenarbeit im Digitalen, bei Rohstoffen und Bildung ausgebaut werden. Das bestehende Abkommen CETA sei allerdings von neun Mitgliedsstaaten noch nicht ratifiziert, kritisiert Bernd Lange (SPD). Das soll sich ändern.Klein, Bettina",
-   "u": "https://www.deutschlandfunk.de/interview-bernd-lange-spe-handelsausschuss-zu-eu-handel-mit-kanada-vs-china-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-29T05:50:45+00:00"
-  },
-  {
-   "t": "„Ulm 5“ vor Gericht: „Es wirkt wie ein Schauprozess“",
-   "s": "Propalästina-Aktivisten haben in einem israelischen Rüstungsunternehmen randaliert. Linke-Politikerin Nicole Gohlke findet die Vorwürfe absurd.",
-   "u": "https://taz.de/Ulm-5-vor-Gericht/!6225498/",
-   "q": "taz",
-   "d": "2026-10-28T19:12:00+00:00"
-  },
-  {
-   "t": "Nach der Knesset-Wahl: Das dritte Israel",
-   "s": "Das Patt in der israelischen Parlamentswahl ist Ausdruck einer tiefen Spaltung. Doch es gäbe noch Allianzen, die Hoffnung machen.",
-   "u": "https://taz.de/Nach-der-Knesset-Wahl/!6225642/",
-   "q": "taz",
-   "d": "2026-10-28T19:05:00+00:00"
-  },
-  {
-   "t": "Bayern: Ermittlungen gegen zwei Belarusen wegen Sabotageverdacht",
-   "s": "Zwei Männer aus Belarus stehen im Verdacht, im Raum Nürnberg einen Brandanschlag geplant zu haben - im Auftrag einer fremden Regierung oder Vereinigung. Sie wurden festgenommen und sitzen in Untersuchungshaft. Von Joseph Röhmel.",
-   "u": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html",
+   "t": "Steinmeier-Nachfolge: Die Kandidatensuche wird zur Machtfrage",
+   "s": "Deutschland sucht eine Nachfolge für Bundespräsident Steinmeier. Die Kandidatendebatte bei CDU/CSU ist unübersichtlich und parteipolitisch aufgeladen - nicht zum ersten Mal in der Geschichte. Von Georg Schwarte.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-kandidatensuche-union-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-28T19:03:51+00:00"
+   "d": "2026-10-29T16:22:50+00:00"
   },
   {
-   "t": "Ukraine: Was der Krieg mit den Menschen macht",
-   "s": "Nächte im Schutzraum, ständige Luftangriffe und Gespräche, die lange nachhallen: Vassili Golod, Leiter des ARD-Studios in Kyjiw, erzählt von einem Alltag zwischen Angst, Anpassung und bemerkenswerter Widerstandskraft.Gorgis, Elena; Golod, Vassili",
-   "u": "https://www.deutschlandfunk.de/wie-es-ist-aus-der-ukraine-zu-berichten-vassili-golod-im-gespraech-100.html",
+   "t": "Kirchliche Einrichtung gegen die AfD: Nun wird es grundsätzlich",
+   "s": "Ein Hospiz im Kreis Friesland kündigte einer AfDlerin, der Gütetermin am Arbeitsgericht führte am Mittwoch zu keiner Einigung. Nun kommt es zum Prozess.",
+   "u": "https://taz.de/Kirchliche-Einrichtung-gegen-die-AfD/!6225306/",
+   "q": "taz",
+   "d": "2026-10-29T16:09:00+00:00"
+  },
+  {
+   "t": "„Spiegel“-Story über Elif Eralp: Eine Frage der Sicherheit",
+   "s": "Sie habe Angst vor Leuten wie Ibrahim Ibrahim, soll Elif Eralp über den Hamas-Sympathisanten gesagt haben. Was hieße das, wenn das Linksbündnis regiert?",
+   "u": "https://taz.de/Spiegel-Story-ueber-Elif-Eralp/!6225977/",
+   "q": "taz",
+   "d": "2026-10-29T16:03:00+00:00"
+  },
+  {
+   "t": "Jugendproteste angekündigt: Wer steckt hinter \"Gen Z regelt\"?",
+   "s": "Die Initiative “Gen Z regelt” ruft für Samstag zu Protesten auf. Politiker warnen vor Gewalt, Schülervertretungen distanzieren sich. Ist die Sorge begründet? Und was will die Gruppe? Außerdem: Gründe für das Zugunglück in Spanien. Und: Wie sicher ist das deutsche Bahnsystem?Schulz, Josephine",
+   "u": "https://www.deutschlandfunk.de/jugendproteste--genz-spanien-bahnnetz-100.html",
    "q": "Deutschlandfunk",
-   "d": "2026-10-28T18:15:00+00:00"
+   "d": "2026-10-29T16:00:53+00:00"
   },
   {
-   "t": "Midterms in den USA: Texas fiebert mit James Talarico",
-   "s": "Zum ersten Mal seit 40 Jahren könnte in Texas ein Demokrat in den US-Senat gewählt werden. James Talarico begeistert, hat aber starke Gegner.",
-   "u": "https://taz.de/Midterms-Texas-fiebert-mit-dem-Demokraten-James-Talarico-er-koennte-historisches-erreichen/!6225266/",
+   "t": "Der „Spiegel“ und Elif Eralp: Wer ist Ibrahim Ibrahim?",
+   "s": "Der Berliner lobte das Massaker der Hamas am 7. Oktober und spricht oft bei Demonstrationen. Doch wie viel Gefahr geht von ihm aus? Eine Annäherung.",
+   "u": "https://taz.de/Der-Spiegel-und-Elif-Eralp/!6225976/",
    "q": "taz",
-   "d": "2026-10-28T17:41:00+00:00"
+   "d": "2026-10-29T15:56:00+00:00"
   },
   {
-   "t": "Alleinerziehende: Was beim Unterhaltsvorschuss geändert werden soll",
-   "s": "Mit dem Unterhaltsvorschuss unterstützt der Staat Alleinerziehende. Er soll helfen, wenn der andere Elternteil nicht zahlt. Das Bundesfamilienministerium will hier jetzt kürzen. Ein falsches Signal, meinen Kritiker.Boeselager, Felicitas; Golsch, Nikolas",
-   "u": "https://www.deutschlandfunk.de/einsparen-oder-eintreiben-was-beim-unterhaltsvorschuss-geaendert-werden-soll-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-28T17:40:00+00:00"
-  },
-  {
-   "t": "DGB macht Gegenvorschläge zur Regierung: Rentenreform einmal anders",
-   "s": "Das Rentensystem könne auch ohne Einschnitte gerettet werden, sagt eine Kommission des Gewerkschaftsbunds. Zahlen sollen Arbeitgeber und Vermögende.",
-   "u": "https://taz.de/DGB-macht-Gegenvorschlaege-zur-Regierung/!6225680/",
+   "t": "Chinas Kommunistische Partei: Xi Jinping bringt seine Parteiführung auf Linie",
+   "s": "Beim 5. Plenum des derzeitigen Zentralkomitees stellt Xi Jinping die Weichen für seine nächste Amtszeit. „Säuberungen“ sind zum Dauerzustand geworden.",
+   "u": "https://taz.de/Chinas-Kommunistische-Partei/!6225990/",
    "q": "taz",
-   "d": "2026-10-28T17:38:00+00:00"
+   "d": "2026-10-29T15:26:00+00:00"
   },
   {
-   "t": "Verhandlungsversuche für Ukraine-Frieden: Die Hoffnung auf einen Waffenstillstand wächst",
-   "s": "Historische Monologe und Maximalforderungen von Kremlchef Putin erschweren Friedensbemühungen. Das Trump-Lager setzt auf wirtschaftliche Deals.",
-   "u": "https://taz.de/Verhandlungsversuche-fuer-Ukraine-Frieden/!6225651/",
+   "t": "Nach den Wahlen in Israel: Bibi beschuldigt seine eigenen Habibis",
+   "s": "Israels Nochpremier Netanjahu verfehlt die Mehrheit in der Knesset – jetzt unterstellt er ausgerechnet seinen Freunden in Katar Wahlbeeinflussung.",
+   "u": "https://taz.de/Nach-den-Wahlen-in-Israel/!6225983/",
    "q": "taz",
-   "d": "2026-10-28T16:57:00+00:00"
+   "d": "2026-10-29T14:52:00+00:00"
   },
   {
-   "t": "Ulm-5-Prozess: Hinter Glas, ohne Stift",
-   "s": "Seit einem halben Jahr verhandelt das Landgericht Stuttgart gegen die „Ulm 5“. Ein Ende ist erst im Februar in Sicht.",
-   "u": "https://taz.de/Ulm-5-Prozess/!6225049/",
+   "t": "Proteste in Frankreich: Kollektivhaftung für Krawallschäden",
+   "s": "Nach Ausschreitungen bei den Sozialprotesten beschließt der französische Senat neue Sicherheitsgesetze. Auch Unbeteiligte sollen zur Kasse gebeten werden.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6226011/",
    "q": "taz",
-   "d": "2026-10-28T16:56:00+00:00"
+   "d": "2026-10-29T14:14:00+00:00"
   },
   {
-   "t": "1.708 Tage Krieg in der Ukraine: Eiserner Vorhang 2.0",
-   "s": "Im nordukrainischen Wolhynien gab es einen regen Grenzverkehr. Seit 2022 sind alle Übergänge nach Belarus dicht, persönliche Verbindungen sind gekappt.",
-   "u": "https://taz.de/1708-Tage-Krieg-in-der-Ukraine/!6223984/",
+   "t": "Zugunglück in Spanien: Erst ein technisches Problem, dann menschliches Versagen",
+   "s": "Nach einem Computerausfall auf der Zugstrecke von Madrid nach Sevilla machte die Leitzentrale der Bahn fatale Fehler.",
+   "u": "https://taz.de/Zugunglueck-in-Spanien/!6225987/",
    "q": "taz",
-   "d": "2026-10-28T16:49:00+00:00"
+   "d": "2026-10-29T14:07:00+00:00"
   },
   {
-   "t": "Schwierige Suche - Eine Bundespräsidentin in Bellevue?",
-   "s": "In der Frage nach der Nachfolge von Bundespräsident Frank-Walter Steinmeier werden verschiedene Namen gehandelt - alle sind weiblich. Welche Frau sich am Ende durchsetzt und welche Signale die Wahl hat, ist noch offen. Und: Bei den Parlamentswahlen in Israel liegt Netanjahu in Führung.Schmidt-Mattern, Barbara",
-   "u": "https://www.deutschlandfunk.de/schwierige-suche-eine-bundespraesidentin-in-bellevue-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-28T16:00:00+00:00"
+   "t": "Wer am Samstag auf die Straße geht - und was zu erwarten ist",
+   "s": "Am Samstag soll es in zahlreichen Städten Deutschlands zu Protesten kommen. Nach den Ausschreitungen etwa in Frankreich ist die Sorge vor Gewalt groß. Zu recht? Was sagen die Sicherheitsbehörden, was Experten - und worum geht es eigentlich?",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T12:02:19+00:00"
   },
   {
-   "t": "Streit um Berliner Linken-Abgeordnete: Emde aufs Abstellgleis, bitte",
-   "s": "Die Linke im Berliner Landesparlament vertagt ihre Entscheidung über den Umgang mit ihrer israelfeindlichen Abgeordneten. Dabei liegt die Lösung so nahe.",
-   "u": "https://taz.de/Streit-um-Berliner-Linken-Abgeordnete/!6225627/",
+   "t": "Reaktion auf „Spiegel“-Bericht: Elif Eralp will sich „von niemandem einschüchtern lassen“",
+   "s": "Der „Spiegel“ veröffentlichte ein internes Dokument der Linken-Politikerin – und bringt sie in Erklärungsnot. Was bedeutet das für die Regierungsbildung in Berlin?",
+   "u": "https://taz.de/Eralp-reagiert-auf-Spiegel-Bericht/!6226020/",
    "q": "taz",
-   "d": "2026-10-28T15:57:00+00:00"
+   "d": "2026-10-29T11:58:00+00:00"
+  },
+  {
+   "t": "Leitung der Europäischen Zentralbank: Christine Lagarde hört früher auf",
+   "s": "Die EZB-Chefin verschafft der Politik Zeit bei der Regelung ihrer Nachfolge – die Sorge vor Rechtspopulisten ist groß. Die Chance für Deutschland?",
+   "u": "https://taz.de/Leitung-der-Europaeischen-Zentralbank/!6225963/",
+   "q": "taz",
+   "d": "2026-10-29T10:48:00+00:00"
+  },
+  {
+   "t": "550 Siedlungen im Westjordanland: Der Pate des Siedlungsbaus",
+   "s": "Illegale Siedlungen im Westjordanland haben seit 2023 sprunghaft zugenommen, zeigt eine Analyse. Ihre Expansion begann vor 30 Jahren unter Netanjahu.",
+   "u": "https://taz.de/550-Siedlungen-im-Westjordanland/!6225729/",
+   "q": "taz",
+   "d": "2026-10-29T10:12:00+00:00"
+  },
+  {
+   "t": "Bericht des „Spiegels“: Elif Eralp hat Angst",
+   "s": "Laut einem internen Dokument äußert Elif Eralp Angst vor Hamas-Sympathisanten. Offenbar war es versehentlich an das Magazin geschickt worden.",
+   "u": "https://taz.de/Bericht-des-Spiegel/!6225931/",
+   "q": "taz",
+   "d": "2026-10-29T10:07:00+00:00"
   }
  ]
 }

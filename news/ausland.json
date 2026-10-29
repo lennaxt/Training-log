@@ -1,20 +1,69 @@
 {
  "name": "Ausland",
- "updated": "2026-10-29T09:59:29+00:00",
+ "updated": "2026-10-29T20:18:51+00:00",
  "items": [
   {
-   "t": "US-Zwischenwahlen: Trump holen seine Versprechen ein",
-   "s": "Er werde das Leben in den USA wieder erschwinglich machen, hatte Trump 2024 versprochen. Zwei Jahre danach sieht die Wirklichkeit anders aus - nicht zuletzt an den Zapfsäulen. Das wirkt sich auf die Umfragen vor den Midterms aus. Von J. Schönenborn.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-lebenshaltungskosten-102.html",
+   "t": "Zugunglück in Spanien: Ein Land zwischen Trauer und Aufarbeitung",
+   "s": "Nach dem Zugunglück in Spanien sind Schock und Trauer groß. Forensiker identifizieren weiterhin Todesopfer. Zudem wurden die Gesprächsprotokolle der Leitstelle mit den Lokomotivführern veröffentlicht. Von Julia Macher.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html",
    "q": "Tagesschau",
-   "d": "2026-10-29T08:21:07+00:00"
+   "d": "2026-10-29T16:59:55+00:00"
+  },
+  {
+   "t": "Südafrika bewirbt sich mit der Stadt Durban um Olympia",
+   "s": "Noch nie hat ein afrikanischer Staat Olympische oder Paralympische Spiele ausgerichtet. Südafrika schickt nun Durban für 2036 und 2040 ins Bewerberrennen - einer von derzeit sechs Konkurrenten für München.",
+   "u": "https://www.tagesschau.de/ausland/afrika/suedafrika-olympia-bewerbung-durban-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T16:52:47+00:00"
+  },
+  {
+   "t": "Zahlreiche Tote bei Angriff auf Bahnhof in Dnipro",
+   "s": "Eine russische Drohne hat nach ukrainischen Angaben am Bahnhof von Dnipro mindestens 14 Menschen getötet. Während Russland und die Ukraine sich weiter gegenseitig mit Drohnen angreifen, hält die Waffenruhe in der Frontstadt Oleschky.",
+   "u": "https://www.tagesschau.de/ausland/europa/russland-ukraine-angriffe-120.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T14:04:36+00:00"
+  },
+  {
+   "t": "Wie Kanada unter Trumps Zöllen leidet",
+   "s": "Beim heute beginnenden Gipfel in Montreal geht es auch darum, wie eng die Zusammenarbeit mit der EU sein wird. In Kanada sind die Erwartungen groß. Denn die Folgen von Trumps Zöllen sind längst spürbar. Von Giselle Ucar.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-trump-eu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T13:12:09+00:00"
+  },
+  {
+   "t": "Opiumproduktion in Afghanistan stark gestiegen",
+   "s": "Die Taliban haben den Anbau von Schlafmohn und die Herstellung von Opium in Afghanistan 2022 verboten. Nun ist die Produktion den UN zufolge erstmals wieder gestiegen - um 400 Prozent innerhalb eines Jahres.",
+   "u": "https://www.tagesschau.de/ausland/asien/afghanistan-zunahme-opiumproduktion-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T12:50:48+00:00"
+  },
+  {
+   "t": "Zugunglück in Spanien: Der Schock sitzt tief",
+   "s": "In Spanien sitzt der Schock tief über das zweite schwere Zugunglück auf der Hochgeschwindigkeitszugstrecke zwischen Madrid und Andalusien. Mindestens 69 Menschen verloren bei dem Unglück in der Region Toledo ihr Leben. Von Franka Welz.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T11:24:09+00:00"
   },
   {
    "t": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
    "s": "In Spanien suchen die Rettungskräfte nach dem schweren Zugunglück nach weiteren Opfern in den Waggon-Trümmern. Die Regierung versprach Aufklärung, in Madrid gab es Proteste. Als Unfallursache könnte menschliches Versagen eine Rolle gespielt haben.",
    "u": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html",
    "q": "Tagesschau",
-   "d": "2026-10-29T08:20:43+00:00"
+   "d": "2026-10-29T11:22:21+00:00"
+  },
+  {
+   "t": "Steinmeier-Rede in China: \"Mit Größe und Macht kommt große Verantwortung\"",
+   "s": "Bundespräsident Steinmeier hat an der renommierten Peking-Universität eine Rede gehalten. Dabei richtete er klare Forderungen an China - bekundete aber auch seinen Respekt für die Volksrepublik.",
+   "u": "https://www.tagesschau.de/ausland/asien/steinmeier-china-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T11:21:17+00:00"
+  },
+  {
+   "t": "US-Zwischenwahlen: Trump holen seine Versprechen ein",
+   "s": "Er werde das Leben in den USA wieder erschwinglich machen, hatte Trump 2024 versprochen. Zwei Jahre danach sieht die Wirklichkeit anders aus - nicht zuletzt an den Zapfsäulen. Das wirkt sich auf die Umfragen vor den Midterms aus. Von J. Schönenborn.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-lebenshaltungskosten-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T08:21:07+00:00"
   },
   {
    "t": "Hoffnung auf unabhängige Medien in Serbien",
@@ -43,13 +92,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/bolsonaro-flucht-100.html",
    "q": "Tagesschau",
    "d": "2026-10-29T02:14:59+00:00"
-  },
-  {
-   "t": "Zugunglück in Spanien: Der Schock sitzt tief",
-   "s": "In Spanien sitzt der Schock tief über das zweite schwere Zugunglück auf der Hochgeschwindigkeitszugstrecke zwischen Madrid und Andalusien. Mindestens 68 Menschen verloren bei dem Unglück in der Region Toledo ihr Leben. Von Franka Welz.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T00:52:51+00:00"
   },
   {
    "t": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html",
    "q": "Tagesschau",
    "d": "2026-10-28T11:32:28+00:00"
-  },
-  {
-   "t": "Wahl in Israel: \"Patt-Situation vielleicht gar nicht auflösbar\"",
-   "s": "Israel könnte nach der Parlamentswahl erneut auf Neuwahlen zusteuern, sagt der Nahost-Experte Woertz im Interview. Zugleich seien neue Kämpfe im Iran-Krieg nicht auszuschließen - wovon Premier Netanjahu auch profitieren könnte.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T10:30:22+00:00"
-  },
-  {
-   "t": "Serbien: Polizist vor israelischer Botschaft in Belgrad angegriffen",
-   "s": "Vor der israelischen Botschaft in Belgrad ist ein Wachmann mit Messern attackiert worden. Der Angreifer, ein mutmaßliches Mitglied des \"Islamischen Staats\", ist dabei getötet worden. Serbien und Israel werten den Angriff als Terrorakt.",
-   "u": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T09:54:58+00:00"
-  },
-  {
-   "t": "Brasilien: Bolsonaro trotz Ausreiseverbots laut US-Medien in USA eingetroffen",
-   "s": "Der bei der Präsidentschaftswahl unterlegene Flávio Bolsonaro hat Brasilien verlassen. Während US-Medien berichten, er sei in den USA gelandet, spricht Argentiniens Einwanderungsbehörde von einem Flug nach Ecuador.",
-   "u": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T09:06:35+00:00"
-  },
-  {
-   "t": "Neuer Haushalt in Großbritannien: Burnhams erster Stresstest",
-   "s": "Mit geschickter Kommunikation konnte der neue Premier Burnham bislang bei den Briten punkten. Doch nun muss er Farbe bekennen. Mit dem ersten Haushalt wird sich zeigen, wofür die Regierung Geld ausgeben will. Viel ist nicht da. Von M. Aden.",
-   "u": "https://www.tagesschau.de/ausland/europa/uk-burnham-erster-haushalt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T09:03:50+00:00"
-  },
-  {
-   "t": "Nach Wahl zur Knesset: So könnte es in Israel nun weitergehen",
-   "s": "Israel hat gewählt - doch wer das Land künftig regiert, ist unklar. Der Fahrplan zur Regierungsbildung ist durch Verfassungsfristen streng geregelt. Und doch sind mehrere Szenarien nun denkbar. Ein Überblick.",
-   "u": "https://www.tagesschau.de/ausland/israel-wahl-szenarien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T08:54:03+00:00"
-  },
-  {
-   "t": "Israel - Eine Nacht ohne klaren Gewinner",
-   "s": "Es war eine lange, nervenaufreibende Nacht in den Wahlkampfzentralen in Tel Aviv und Jerusalem. Doch Klarheit hat dieser Morgen nicht gebracht. Im Gegenteil: Israel droht nach der Wahl eine monatelange politische Blockade. Von J. Segador.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-patt-wahl-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T05:47:34+00:00"
   }
  ]
 }

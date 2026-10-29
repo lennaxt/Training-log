@@ -1,13 +1,69 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-29T09:59:30+00:00",
+ "updated": "2026-10-29T20:18:53+00:00",
  "items": [
   {
-   "t": "KI-Investitionen tragen nicht überall Früchte",
-   "s": "Die Tech-Giganten im Silicon Valley stecken Milliarden in Künstliche Intelligenz. Doch die investierten Gelder führen nicht automatisch zu Wachstum. Das zeigen die Zahlen von Microsoft und Alphabet.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-alphabet-kuenstliche-intelligenz-cloud-100.html",
+   "t": "Wirtschaft vor acht vom 29.10.2026",
+   "s": "Wirtschaft vor acht vom 29.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1674822.html",
    "q": "Tagesschau",
-   "d": "2026-10-29T09:28:06+00:00"
+   "d": "2026-10-29T19:30:50+00:00"
+  },
+  {
+   "t": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
+   "s": "Früher als geplant tritt die Suche nach einer Nachfolge für EZB-Chefin Lagarde in die heiße Phase - die Französin scheidet vorzeitig aus dem Amt. Was sind die Hintergründe, wer könnte nachrücken an der Spitze der Notenbank? Von Constantin Röse.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T18:40:44+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX setzt Klettertour fort",
+   "s": "Die großen Notenbanken halten vorerst die Füße still - die Botschaft hat die Kauflust der Anleger beflügelt, der DAX beendet den Handelstag im Plus. Auch der VW-Schock vom Morgen wurde gut verdaut.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T17:32:38+00:00"
+  },
+  {
+   "t": "Europäische Zentralbank hält Leitzins unverändert",
+   "s": "Die Europäische Zentralbank (EZB) hat wie erwartet die Leitzinsen unverändert bei 2,5 Prozent belassen. Zuvor hatte auch die US-Notenbank Fed von einer Änderung ihrer Leitzinsen abgesehen.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-570.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T15:18:04+00:00"
+  },
+  {
+   "t": "Kommentar zum \"Tankrabatt\": Die Regierung schmeißt Milliarden aus dem Fenster",
+   "s": "Vor vier Wochen ist die Neuauflage des \"Tankrabatts\" in Kraft getreten. Für die Bundesregierung war es eine Beruhigungspille kurz vor den Wahlen, meint Jan Zimmermann. Der Frust an der Tankstelle bleibt jedoch.",
+   "u": "https://www.tagesschau.de/kommentar/tankrabatt-ein-monat-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T14:25:14+00:00"
+  },
+  {
+   "t": "Hohe Spritpreise: Bringt der \"Tankrabatt\" wirklich etwas?",
+   "s": "Seit dem 1. Oktober gilt ein neuer \"Tankrabatt\". Experten zufolge geben die Mineralölkonzerne die Ersparnis nur zum Teil an die Autofahrer weiter. Der Interessenverband der Branche widerspricht. Von Max Ortmann und Jan Koch.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-entlastung-bilanz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T14:23:49+00:00"
+  },
+  {
+   "t": "Was bringt eine EU-Allianz mit Kanada den Verbrauchern in Europa?",
+   "s": "Die EU und Kanada wollen wirtschaftlich und politisch enger zusammenrücken. Könnte eine verstärkte Kooperation Europas Lieferketten sichern, Preise stabil halten, Abhängigkeiten reduzieren? Von Petra Thiele.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-eu-allianz-folgen-verbraucher-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T13:12:47+00:00"
+  },
+  {
+   "t": "Wie Kanada unter Trumps Zöllen leidet",
+   "s": "Beim heute beginnenden Gipfel in Montreal geht es auch darum, wie eng die Zusammenarbeit mit der EU sein wird. In Kanada sind die Erwartungen groß. Denn die Folgen von Trumps Zöllen sind längst spürbar. Von Giselle Ucar.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-trump-eu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T13:12:09+00:00"
+  },
+  {
+   "t": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+   "s": "Gerüchte gab es bereits länger, nun ist es bestätigt: EZB-Chefin Lagarde gibt ihren Posten vorzeitig im Februar auf. So kann über die Nachfolge noch vor der Präsidentschaftswahl in Frankreich entschieden werden.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T12:51:29+00:00"
   },
   {
    "t": "Update Wirtschaft vom 29.10.2026",
@@ -24,6 +80,13 @@
    "d": "2026-10-29T08:16:16+00:00"
   },
   {
+   "t": "Bruttoökosystemprodukt: Was die Natur wert ist",
+   "s": "Wirtschaftswachstum gilt als Zeichen von Wohlstand. Leistungen der Natur bleiben dabei außen vor. Das Bruttoökosystemprodukt soll den Wert von Ökosystemen messbar machen. In China entscheiden sich daran bereits Bauprojekte und Politikerkarrieren.Von Tomma Schröder",
+   "u": "https://www.deutschlandfunk.de/bruttooekosystemprodukt-boep-gep-natur-wert-wohlstand-wirtschaft-china-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-29T08:00:00+00:00"
+  },
+  {
    "t": "Wie lange ist Christine Lagarde noch EZB-Chefin?",
    "s": "In vielen Euro-Ländern stockt die Konjunktur, Proteste wie in Frankreich setzen Regierungen unter Druck. Da bräuchte die EZB eine starke Führung - doch über die Zukunft von Notenbankchefin Lagarde wird heftig spekuliert. Von Oliver Feldforth.",
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsen-lagarde-100.html",
@@ -31,18 +94,11 @@
    "d": "2026-10-29T06:28:41+00:00"
   },
   {
-   "t": "Marktbericht: DAX dürfte vor EZB-Zinsentscheid leicht zulegen",
-   "s": "Heute müssen die Investoren die Zahlen der US-Tech-Konzerne Microsoft und Alphabet verarbeiten. Am Nachmittag steht noch der Zinsentscheid der EZB an. Die US-Notenbank Fed hat schon vorgelegt.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
+   "t": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
+   "s": "Kanzler Merz und andere EU-Regierungschefs haben die Kanada-Pläne von EU-Kommissionspräsidentin von der Leyen abgeschwächt - kurz vor dem heute beginnenden EU-Kanada-Gipfel. Von einer \"assoziierten Mitgliedschaft\" ist nicht mehr die Rede. Von S. Fritz.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-29T06:26:29+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 28.10.2026",
-   "s": "Wirtschaft vor acht vom 28.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1674240.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T19:05:12+00:00"
+   "d": "2026-10-29T06:20:37+00:00"
   },
   {
    "t": "Börsendebüt von tk accelis bleibt unter den Erwartungen",
@@ -113,62 +169,6 @@
    "u": "https://www.deutschlandfunk.de/energiewende-global-erneuerbare-energien-elektromobilitaet-dekarbonisierung-klimawandel-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-27T08:42:00+00:00"
-  },
-  {
-   "t": "Wirtschaftsministerin Reiche reagiert auf Windkraft-Brandbrief der Länder",
-   "s": "Mehrere Bundesländer warnten Wirtschaftsministerin Reiche vor einem \"Fadenriss\" beim Ausbau der Windenergie auf See. Die CDU-Politikerin will nun auf eine zentrale Forderung eingehen. Investoren sollen Flächen zurückgeben können.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/windkraft-reiche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T08:24:01+00:00"
-  },
-  {
-   "t": "Biodiversitätsabkommen: Balanceakt zwischen Artenschutz und Wirtschaft",
-   "s": "Artenvielfalt stabilisiert Ökosysteme und sichert damit auch wirtschaftliche Grundlagen. Dennoch gerät die Einhaltung der Biodiversitätsziele in Vergessenheit, wenn es um wirtschaftliche Interessen geht.",
-   "u": "https://www.deutschlandfunk.de/cop17-biodiversitaet-artenvielfalt-wirtschaft-100-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-22T15:46:00+00:00"
-  },
-  {
-   "t": "Chemie ohne Erdöl: Wie die Kohlenstoffwende gelingen soll",
-   "s": "Die Chemieindustrie gehört zu den größten Verursachern von Treibhausgasen. Deshalb will sie nun statt Erdöl Biomasse, Recycling und abgeschiedenes CO2 als Rohstoffquellen benutzen. Das erfordert neue Technologien und Milliardeninvestitionen.",
-   "u": "https://www.deutschlandfunk.de/chemie-ohne-erdoel-kohlenstoff-recycling-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T16:25:00+00:00"
-  },
-  {
-   "t": "Kommentar zum Investitionsgipfel: Wenn die Fachkräfte fehlen",
-   "s": "Bundeskanzler Merz möchte mit einem Investitionsgipfel mehr Kapital nach Deutschland locken. Grundsätzlich ist Deutschland attraktiv für Investoren. Es ist kreditwürdig und rechtssicher. Beim Thema Fachkräfte sieht es allerdings zunehmend düster aus.Ein Kommentar von Falk Steiner",
-   "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T08:10:00+00:00"
-  },
-  {
-   "t": "Deutsche Autozulieferer auf dem Balkan: \"Armutslöhne\" für serbische Arbeiter",
-   "s": "Viele deutsche Autohersteller und -zulieferer produzieren in Serbien. Das schafft Arbeitsplätze in dem Land. Doch zunehmend klagen Beschäftigte in den Fabriken über enormen Druck durch Vorgesetzte und geringe Löhne.",
-   "u": "https://www.deutschlandfunk.de/autohersteller-autozulieferer-deutschland-serbien-niedrigloehne-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-18T07:32:00+00:00"
-  },
-  {
-   "t": "Doctolib und die KI – Was die Ärzteplattform über Patienten weiß",
-   "s": "Der amerikanische Chip-Hersteller Nvidia steigt bei Doctolib ein. Damit will die Ärzteplattform auch ihre KI-Kompetenzen ausweiten. Welche Auswirkungen könnte das haben? Und: Wie sicher sind unsere Daten dort eigentlich?",
-   "u": "https://www.deutschlandfunk.de/doctolib-nvidia-einstieg-datenschutz-kritik-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-15T12:06:00+00:00"
-  },
-  {
-   "t": "Der Kampf ums Trinkwasser im brandenburgischen Baruth",
-   "s": "Die Unternehmen Red Bull und Rauch produzieren in Baruth Getränke und dürfen dabei 92 Prozent des Grundwassers, das der brandenburgischen Stadt zur Verfügung steht, entnehmen. Eine Bürgerinitiative wehrt sich und kämpft um Akteneinsicht.Von Andrea Rehmsmeier",
-   "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-14T16:40:00+00:00"
-  },
-  {
-   "t": "Kommentar zur Erbschaftssteuer: Mehr Gerechtigkeit wagen!",
-   "s": "Das Bundesverfassungsgericht beschäftigt sich mit der Erbschaftssteuer. Hierbei geht es um Fragen der Gerechtigkeit, mit denen sich eigentlich die Politik auseinandersetzen sollte. Die Koalition könnte dabei Handlungsfähigkeit zeigen.Ein Standpunkt von Gudula Geuther",
-   "u": "https://www.deutschlandfunk.de/erbschaftssteuer-gerechtigkeit-verfassungsgericht-firmenerben-koalition-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-13T15:50:00+00:00"
   }
  ]
 }

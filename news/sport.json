@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-10-29T09:59:34+00:00",
+ "updated": "2026-10-29T20:18:57+00:00",
  "items": [
+  {
+   "t": "Chinas Kommunistische Partei: Xi Jinping bringt seine Parteiführung auf Linie",
+   "s": "Beim 5. Plenum des derzeitigen Zentralkomitees stellt Xi Jinping die Weichen für seine nächste Amtszeit. „Säuberungen“ sind zum Dauerzustand geworden.",
+   "u": "https://taz.de/Chinas-Kommunistische-Partei/!6225990/",
+   "q": "taz",
+   "d": "2026-10-29T15:26:00+00:00"
+  },
   {
    "t": "Haftstrafe für iranischen Regisseur: Palme-d’or-Gewinner im Iran verurteilt",
    "s": "Der Regisseur Jafar Panahi ist im Iran laut einem Bericht zu über fünf Jahren Haft verurteilt worden. Sein Vermögen soll beschlagnahmt werden.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Seoul-verlangt-Entschuldigung/!6217014/",
    "q": "taz",
    "d": "2026-09-28T15:25:00+00:00"
-  },
-  {
-   "t": "Katstrophe in Nepal: Nach der Sintflut",
-   "s": "Nach dem Gletscherabbruch in Nepal beginnt der Alltag. Schulleiter Madhav Lamichhane unterrichtet zwischen Hilfsgütern und Notübernachtung.",
-   "u": "https://taz.de/Katstrophe-in-Nepal/!6211191/",
-   "q": "taz",
-   "d": "2026-09-26T19:08:00+00:00"
   }
  ]
 }

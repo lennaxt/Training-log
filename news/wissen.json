@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-29T09:59:31+00:00",
+ "updated": "2026-10-29T20:18:53+00:00",
  "items": [
+  {
+   "t": "Möglicher neuer Zwergplanet im Sonnensystem entdeckt",
+   "s": "Am äußeren Rand des Sonnensystems haben Astronomen einen seltenen Himmelskörper entdeckt: einen möglichen neuen Zwergplaneten. Bestätigt sich der Fund, wäre \"2026 ED138\" erst der sechste bekannte Zwergplanet. Von Uwe Gradwohl.",
+   "u": "https://www.tagesschau.de/wissen/weltraum/zwergplanet-entdeckung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T16:28:56+00:00"
+  },
   {
    "t": "Wie Spazierengehen auf die Psyche wirkt",
    "s": "Gerade jetzt im Herbst kann ein Spaziergang besonders guttun. Studien zeigen, dass regelmäßiges Gehen Stimmung, Gesundheit und soziale Kontakte fördern kann. In einigen Städten haben sich Spazierclubs gebildet. Von Gerald Perschke.",
@@ -11,7 +18,7 @@
   },
   {
    "t": "Quantennetzwerk QuNET: Schutz gegen Hackerangriffe",
-   "s": "Quantencomputer und KI können wohl bald jede Verschlüsselung knacken. In Zukunft sollen Quantennetze wie QuNET die Kommunikation schützen. Die Technologie funktioniert, aber noch nicht perfekt. Von Jan Kerckhoff.",
+   "s": "Quantencomputer und KI können wohl bald digitale Verschlüsselungen knacken. In Zukunft sollen deshalb Quantennetze wie QuNET die Kommunikation schützen. Die Technologie funktioniert, aber noch nicht perfekt. Von Jan Kerckhoff.",
    "u": "https://www.tagesschau.de/wissen/technologie/quantennetzwerk-qunet-100.html",
    "q": "Tagesschau",
    "d": "2026-10-28T15:39:49+00:00"
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/grippewelle-herbst-100.html",
    "q": "Tagesschau",
    "d": "2026-10-10T14:08:35+00:00"
-  },
-  {
-   "t": "Grundlegendes Konzept entdeckt - Chemie-Nobelpreis für Japaner und Franzosen",
-   "s": "Die Forscher Henri Kagan und Kenso Soai haben ein grundlegendes Konzept der organischen Chemie entdeckt. Ihre Ergebnisse sind auch für die Entwicklung von Medikamenten wichtig. Von Veronika Simon.",
-   "u": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-kagan-soai-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-07T14:49:24+00:00"
   }
  ]
 }
