@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-10-29T00:58:28+00:00",
+ "updated": "2026-10-29T09:59:31+00:00",
  "items": [
+  {
+   "t": "Wie Spazierengehen auf die Psyche wirkt",
+   "s": "Gerade jetzt im Herbst kann ein Spaziergang besonders guttun. Studien zeigen, dass regelmäßiges Gehen Stimmung, Gesundheit und soziale Kontakte fördern kann. In einigen Städten haben sich Spazierclubs gebildet. Von Gerald Perschke.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/herbst-spaziergang-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T05:45:03+00:00"
+  },
   {
    "t": "Quantennetzwerk QuNET: Schutz gegen Hackerangriffe",
    "s": "Quantencomputer und KI können wohl bald jede Verschlüsselung knacken. In Zukunft sollen Quantennetze wie QuNET die Kommunikation schützen. Die Technologie funktioniert, aber noch nicht perfekt. Von Jan Kerckhoff.",
@@ -64,13 +71,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/blume-des-jahres-100.html",
    "q": "Tagesschau",
    "d": "2026-10-22T09:07:58+00:00"
-  },
-  {
-   "t": "Wasserzeichen markieren bald auch KI-Texte von ChatGPT",
-   "s": "Stammt dieser Text von einer Künstlichen Intelligenz? Aufschluss geben können Wasserzeichen, die KI-generierte Texte markieren. OpenAI hat das nun für ChatGPT angekündigt. Von Pauline Möhle und Leila Boucheligua.",
-   "u": "https://www.tagesschau.de/wissen/ki-texte-wasserzeichen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-22T03:30:26+00:00"
   },
   {
    "t": "Erde steuert laut Bericht des UN-Umweltprogramms auf 2,8 Grad Erwärmung zu",

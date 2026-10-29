@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-29T00:58:30+00:00",
+ "updated": "2026-10-29T09:59:33+00:00",
  "items": [
+  {
+   "t": "Telefongespräch mit Putin: Sturm im Wasserglas",
+   "s": "In der EU zählen Eitelkeiten noch immer mehr als Entschlossenheit. So spielt Europa keine Rolle bei Krieg und Frieden auf dem eigenen Kontinent.",
+   "u": "https://taz.de/Telefongespraech-mit-Putin/!6225663/",
+   "q": "taz",
+   "d": "2026-10-29T09:28:00+00:00"
+  },
+  {
+   "t": "Vor dem EU-Kanada-Gipfel: Kanada wird vorerst kein assoziiertes EU-Mitglied",
+   "s": "Kanzler Merz und andere Regierungschefs bremsen von der Leyens Kanada-Pläne. Geplante Zusagen für eine engere Anbindung des Landes werden abgeschwächt.",
+   "u": "https://taz.de/Kanada-wird-vorerst-kein-assoziiertes-EU-Mitglied/!6225915/",
+   "q": "taz",
+   "d": "2026-10-29T07:26:00+00:00"
+  },
+  {
+   "t": "Klimastrategie für die EU: Brüssel stellt sich auf 3 Grad plus ein",
+   "s": "Die EU-Kommission legt nach dem „Sommer der Wahrheit“ einen Rahmen für mehr Klimaresilienz vor. Konkret ist der nicht. Und woher kommt das Geld?",
+   "u": "https://taz.de/Klimastrategie-fuer-die-EU/!6225601/",
+   "q": "taz",
+   "d": "2026-10-29T06:17:00+00:00"
+  },
   {
    "t": "Verhandlungsversuche für Ukraine-Frieden: Die Hoffnung auf einen Waffenstillstand wächst",
    "s": "Historische Monologe und Maximalforderungen von Kremlchef Putin erschweren Friedensbemühungen. Das Trump-Lager setzt auf wirtschaftliche Deals.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Parlamentswahlen-in-Serbien/!6224972/",
    "q": "taz",
    "d": "2026-10-26T15:50:00+00:00"
-  },
-  {
-   "t": "Portugal: Regierung lässt Wohn-Protestcamps räumen",
-   "s": "In Lissabon und Porto hat die Polizei erneut Protestcamps für bezahlbaren Wohnraum geräumt. Es gab zahlreiche Festnahmen und Verletzte.",
-   "u": "https://taz.de/Portugal/!6225090/",
-   "q": "taz",
-   "d": "2026-10-26T15:18:00+00:00"
-  },
-  {
-   "t": "Nach Kirchenangriff in Jordanien: Mutmaßliche Attentäter festgenommen",
-   "s": "Drei Tage nach dem Angriff auf Kirchenbesucher in Südjordanien meldet das Land einen Ermittlungserfolg. Drei mutmaßliche Täter wurden im Morgengrauen gestellt.",
-   "u": "https://taz.de/Nach-Kirchenangriff-in-Jordanien/!6225023/",
-   "q": "taz",
-   "d": "2026-10-26T10:45:00+00:00"
-  },
-  {
-   "t": "Wahlsieg der Opposition: Das Wunder von Serbien",
-   "s": "Bis vor Kurzem schien es noch undenkbar: Die Opposition unter Führung der Studenten hat Aleksandar Vučić aus dem Amt gejagt – ein historischer Tag.",
-   "u": "https://taz.de/Wahlsieg-der-Opposition/!6224976/",
-   "q": "taz",
-   "d": "2026-10-26T09:07:00+00:00"
   }
  ]
 }

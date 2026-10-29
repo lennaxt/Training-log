@@ -1,7 +1,49 @@
 {
  "name": "Ausland",
- "updated": "2026-10-29T00:58:26+00:00",
+ "updated": "2026-10-29T09:59:29+00:00",
  "items": [
+  {
+   "t": "US-Zwischenwahlen: Trump holen seine Versprechen ein",
+   "s": "Er werde das Leben in den USA wieder erschwinglich machen, hatte Trump 2024 versprochen. Zwei Jahre danach sieht die Wirklichkeit anders aus - nicht zuletzt an den Zapfsäulen. Das wirkt sich auf die Umfragen vor den Midterms aus. Von J. Schönenborn.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-lebenshaltungskosten-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T08:21:07+00:00"
+  },
+  {
+   "t": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
+   "s": "In Spanien suchen die Rettungskräfte nach dem schweren Zugunglück nach weiteren Opfern in den Waggon-Trümmern. Die Regierung versprach Aufklärung, in Madrid gab es Proteste. Als Unfallursache könnte menschliches Versagen eine Rolle gespielt haben.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T08:20:43+00:00"
+  },
+  {
+   "t": "Hoffnung auf unabhängige Medien in Serbien",
+   "s": "Nach der Niederlage der Vucic-Partei in Serbien hoffen viele Menschen wieder auf eine unabhängige Berichterstattung. Eine Initiative fordert den Entzug der Sendelizenz für Informer - einem Propagandasender im Dienste des Ex-Präsidenten. Von S. Hahne.",
+   "u": "https://www.tagesschau.de/ausland/europa/serbien-medien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T06:46:15+00:00"
+  },
+  {
+   "t": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
+   "s": "Kanzler Merz und andere EU-Regierungschefs haben die Kanada-Pläne von EU-Kommissionspräsidentin von der Leyen abgeschwächt - kurz vor dem heute beginnenden EU-Kanada-Gipfel. Von einer \"assoziierten Mitgliedschaft\" ist nicht mehr die Rede. Von S. Fritz.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T06:20:37+00:00"
+  },
+  {
+   "t": "Wie konnte es zu dem schweren Zugunglück in Spanien kommen?",
+   "s": "Nach dem schweren Zugunglück in Spanien gibt es erste Erkenntnisse zur Unglücksursache: Offenbar spielte menschliches Versagen eine Rolle. Vor dem Verkehrsministerium in Madrid kam es am Abend zu Protesten und Ausschreitungen.",
+   "u": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T05:34:13+00:00"
+  },
+  {
+   "t": "Brasiliens Wahlverlierer: Bolsonaros spektakuläre Flucht",
+   "s": "Ein Privatflugzeug, Zwischenstopps, die Ankunft in den USA - der brasilianische Wahlverlierer Bolsonaro ist nun in Florida - und bezeichnet sich als \"Anführer\" Brasiliens. Wie geht das rechte Lager mit dem geflüchteten Bolsonaro um? Von A. Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/bolsonaro-flucht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T02:14:59+00:00"
+  },
   {
    "t": "Zugunglück in Spanien: Der Schock sitzt tief",
    "s": "In Spanien sitzt der Schock tief über das zweite schwere Zugunglück auf der Hochgeschwindigkeitszugstrecke zwischen Madrid und Andalusien. Mindestens 68 Menschen verloren bei dem Unglück in der Region Toledo ihr Leben. Von Franka Welz.",
@@ -15,13 +57,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
    "q": "Tagesschau",
    "d": "2026-10-28T21:56:25+00:00"
-  },
-  {
-   "t": "Wie konnte es zu dem schweren Zugunglück kommen?",
-   "s": "Ein Zug steht, ein weiterer fährt mit hoher Geschwindigkeit auf. Bei dem schweren Zugunglück in Spanien starben mindestens 68 Menschen. Es gibt erste Erkenntnisse zur Unglücksursache: Offenbar spielte menschliches Versagen eine Rolle.",
-   "u": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T20:54:12+00:00"
   },
   {
    "t": "Großbritannien: Burnhams Regierung stellt Haushalt vor",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/israel-patt-wahl-100.html",
    "q": "Tagesschau",
    "d": "2026-10-28T05:47:34+00:00"
-  },
-  {
-   "t": "Keine klare Mehrheit bei Parlamentswahl in Israel",
-   "s": "Bei der Parlamentswahl in Israel erreichen Prognosen zufolge weder Premierminister Netanjahu noch sein wichtigster Gegner Eisenkot eine Mehrheit. Eisenkot kündigte dennoch an, eine Regierung bilden zu wollen.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T23:55:00+00:00"
-  },
-  {
-   "t": "Nach Anschlägen in Frankreich: Sorge vor wachsendem Rassismus",
-   "s": "Nach den offenbar rassistisch motivierten Anschlägen in Frankreich gehen in Paris Menschen auf die Straße. Viele sehen rechte Medien in der Verantwortung - und den Rassemblement National. Von Carolin Dylla.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-paris-kundgebung-nach-anschlaegen-von-trappes-la-verriere-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T17:56:21+00:00"
-  },
-  {
-   "t": "Pressefreiheit: Ägypten schließt unabhängige Nachrichtenseite",
-   "s": "Ein ägyptisches Gericht hat die Schließung der unabhängigen Nachrichtenwebseite Mada Masr angeordnet. Chefredakteurin Attalah wurde zu einer hohen Geldstrafe verurteilt. Reporter ohne Grenzen spricht von einer \"ungeheuerlichen Entscheidung\".",
-   "u": "https://www.tagesschau.de/ausland/afrika/aegypten-nachrichtenseite-mada-masr-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T16:42:34+00:00"
-  },
-  {
-   "t": "Psychologin zur Lage in Israel: \"Jeder von uns ist irgendwie kaputtgegangen\"",
-   "s": "Angst, Trauer und politische Spaltung prägen seit dem 7. Oktober 2023 Israel. Das Land steckt nach Einschätzung von Psychologin Roth in einer tiefen Identitätskrise. Hoffnung gibt ihr die Wahl - sie könnte zum Neuanfang werden.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahlen-trauma-interview-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T15:51:37+00:00"
-  },
-  {
-   "t": "Stubb und Störe sprechen mit Putin",
-   "s": "Finnlands Präsident Stubb und Norwegens Ministerpräsident Störe haben mit Kremlchef Putin telefoniert. Die Initiative war nicht mit europäischen Partnern abgestimmt. Anschließend sprachen sie mit dem ukrainischen Präsidenten Selenskyj.",
-   "u": "https://www.tagesschau.de/ausland/europa/putin-telefonat-stubb-stoere-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T13:32:22+00:00"
   }
  ]
 }

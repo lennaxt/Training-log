@@ -1,20 +1,48 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-29T00:58:27+00:00",
+ "updated": "2026-10-29T09:59:30+00:00",
  "items": [
+  {
+   "t": "KI-Investitionen tragen nicht überall Früchte",
+   "s": "Die Tech-Giganten im Silicon Valley stecken Milliarden in Künstliche Intelligenz. Doch die investierten Gelder führen nicht automatisch zu Wachstum. Das zeigen die Zahlen von Microsoft und Alphabet.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-alphabet-kuenstliche-intelligenz-cloud-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T09:28:06+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 29.10.2026",
+   "s": "Update Wirtschaft vom 29.10.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1674420.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T08:51:06+00:00"
+  },
+  {
+   "t": "Milliardenverlust bei Volkswagen",
+   "s": "Hohe Abschreibungen und ein schwaches China-Geschäft haben Volkswagen tiefrote Zahlen beschert. Der Konzernverlust lag im dritten Quartal bei 5,8 Milliarden Euro. VW-Aktien fallen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-milliardenverlust-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T08:16:16+00:00"
+  },
+  {
+   "t": "Wie lange ist Christine Lagarde noch EZB-Chefin?",
+   "s": "In vielen Euro-Ländern stockt die Konjunktur, Proteste wie in Frankreich setzen Regierungen unter Druck. Da bräuchte die EZB eine starke Führung - doch über die Zukunft von Notenbankchefin Lagarde wird heftig spekuliert. Von Oliver Feldforth.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsen-lagarde-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T06:28:41+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX dürfte vor EZB-Zinsentscheid leicht zulegen",
+   "s": "Heute müssen die Investoren die Zahlen der US-Tech-Konzerne Microsoft und Alphabet verarbeiten. Am Nachmittag steht noch der Zinsentscheid der EZB an. Die US-Notenbank Fed hat schon vorgelegt.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T06:26:29+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 28.10.2026",
    "s": "Wirtschaft vor acht vom 28.10.2026",
    "u": "https://www.tagesschau.de/video/video-1674240.html",
    "q": "Tagesschau",
    "d": "2026-10-28T19:05:12+00:00"
-  },
-  {
-   "t": "Marktbericht: Der DAX behauptet sich",
-   "s": "Der Handelstag im DAX endet mit leichten Gewinnen. Die Investoren haben viele Quartalszahlen zu verarbeiten, außerdem richtet sich der Blick in die USA. Die hohen Energiepreise dämpfen indes weiterhin die Stimmung.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T17:38:51+00:00"
   },
   {
    "t": "Börsendebüt von tk accelis bleibt unter den Erwartungen",
@@ -36,13 +64,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zuckerberg-reichensteuer-usa-100.html",
    "q": "Tagesschau",
    "d": "2026-10-28T10:17:20+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 28.10.2026",
-   "s": "Update Wirtschaft vom 28.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1673842.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T08:51:10+00:00"
   },
   {
    "t": "Wo Deutschland noch wachsen kann: Zukunftsmärkte für heimische Firmen",
@@ -73,32 +94,11 @@
    "d": "2026-10-27T11:34:00+00:00"
   },
   {
-   "t": "Kanzler Merz setzt auf Handel mit Asien - offenbar als Reaktion auf Trump",
-   "s": "Der Kanzler beschwört auf seiner Asienreise den freien Handel. Mit der Pazifik-Region will Merz ein großes Abkommen schließen - und damit offenbar einen Kontrapunkt zum Vorgehen der USA setzen.",
-   "u": "https://www.tagesschau.de/ausland/asien/merz-handel-asien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T10:43:15+00:00"
-  },
-  {
    "t": "Konsum und Investitionen: Wie Superreiche das Klima belasten",
    "s": "Superreiche heizen die Klimakrise mit Privatjets, Konsum und Investitionen an. Gleichzeitig leiden ärmere Menschen stärker unter ihren Folgen. Wie lässt sich Klimaschutz sozial gerecht gestalten? Von Michelle Goddemeier.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/klimawandel-emissionen-superreiche-100.html",
    "q": "Tagesschau",
    "d": "2026-10-27T10:42:23+00:00"
-  },
-  {
-   "t": "Deutsche sparen weniger - aber immer noch viel",
-   "s": "Die Deutschen haben 2025 etwas weniger gespart als im Vorjahr. Trotzdem liegt die Sparquote deutlich über dem EU-Schnitt. Nur in einem Land in Europa wird noch mehr gespart.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/sparquote-deutschland-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T10:21:49+00:00"
-  },
-  {
-   "t": "Infineon baut für über eine Milliarde Euro Werk in Österreich aus",
-   "s": "Der Chiphersteller Infineon baut sein Werk in österreichischen Villach aus - um dort schnellere und größere Halbleiter zu produzieren. Gut eine Milliarde Euro will der DAX-Konzern in den kommenden Jahren in den Standort investieren.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-investition-villach-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T10:00:37+00:00"
   },
   {
    "t": "Bericht der Weltwetterorganisation: Immer mehr Treibhausgase in der Atmosphäre",
@@ -122,34 +122,6 @@
    "d": "2026-10-27T08:24:01+00:00"
   },
   {
-   "t": "Künstliche Intelligenz: Wer kann KI-Texte erkennen?",
-   "s": "Wasserzeichen können darüber Auskunft geben, ob Künstliche Intelligenz beim Schreiben genutzt wurde. Der Literaturwelt kann das helfen. Doch noch sind sie nicht für jeden nutzbar. Von J. Petrosiute und C. Gill.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/ki-texte-erkennen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T07:38:25+00:00"
-  },
-  {
-   "t": "Muss Facebook rechtswidrige Memes aufspüren?",
-   "s": "Über Social-Media-Accounts wurden Posts verbreitet, die der Grünen-Politikerin Künast falsche Zitate untergeschoben haben. Daraufhin verklagte Künast den Facebook-Betreiber Meta. Heute verhandelt der Bundesgerichtshof erneut. Von Klaus Hempel.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/facebook-memes-kuenast-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T04:20:26+00:00"
-  },
-  {
-   "t": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
-   "s": "Eine Gemeinde zahlt für einen großen Auftrag - das Geld landet aber bei Kriminellen. Weil solche Betrugsmaschen häufiger werden, setzen Kommunen auf neue Konzepte gegen Cyberkriminalität - und brauchen gut geschultes Personal. Von Markus Kaiser.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T17:56:13+00:00"
-  },
-  {
-   "t": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
-   "s": "Das amerikanische KI-Unternehmen Anthropic gibt den Startschuss für einen Mega-Börsengang schon im November und reicht die nötigen Unterlagen ein. Es dürfte einer der größten Börsengänge aller Zeiten werden.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T15:49:36+00:00"
-  },
-  {
    "t": "Biodiversitätsabkommen: Balanceakt zwischen Artenschutz und Wirtschaft",
    "s": "Artenvielfalt stabilisiert Ökosysteme und sichert damit auch wirtschaftliche Grundlagen. Dennoch gerät die Einhaltung der Biodiversitätsziele in Vergessenheit, wenn es um wirtschaftliche Interessen geht.",
    "u": "https://www.deutschlandfunk.de/cop17-biodiversitaet-artenvielfalt-wirtschaft-100-100.html",
@@ -169,6 +141,34 @@
    "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-21T08:10:00+00:00"
+  },
+  {
+   "t": "Deutsche Autozulieferer auf dem Balkan: \"Armutslöhne\" für serbische Arbeiter",
+   "s": "Viele deutsche Autohersteller und -zulieferer produzieren in Serbien. Das schafft Arbeitsplätze in dem Land. Doch zunehmend klagen Beschäftigte in den Fabriken über enormen Druck durch Vorgesetzte und geringe Löhne.",
+   "u": "https://www.deutschlandfunk.de/autohersteller-autozulieferer-deutschland-serbien-niedrigloehne-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-18T07:32:00+00:00"
+  },
+  {
+   "t": "Doctolib und die KI – Was die Ärzteplattform über Patienten weiß",
+   "s": "Der amerikanische Chip-Hersteller Nvidia steigt bei Doctolib ein. Damit will die Ärzteplattform auch ihre KI-Kompetenzen ausweiten. Welche Auswirkungen könnte das haben? Und: Wie sicher sind unsere Daten dort eigentlich?",
+   "u": "https://www.deutschlandfunk.de/doctolib-nvidia-einstieg-datenschutz-kritik-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-15T12:06:00+00:00"
+  },
+  {
+   "t": "Der Kampf ums Trinkwasser im brandenburgischen Baruth",
+   "s": "Die Unternehmen Red Bull und Rauch produzieren in Baruth Getränke und dürfen dabei 92 Prozent des Grundwassers, das der brandenburgischen Stadt zur Verfügung steht, entnehmen. Eine Bürgerinitiative wehrt sich und kämpft um Akteneinsicht.Von Andrea Rehmsmeier",
+   "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-14T16:40:00+00:00"
+  },
+  {
+   "t": "Kommentar zur Erbschaftssteuer: Mehr Gerechtigkeit wagen!",
+   "s": "Das Bundesverfassungsgericht beschäftigt sich mit der Erbschaftssteuer. Hierbei geht es um Fragen der Gerechtigkeit, mit denen sich eigentlich die Politik auseinandersetzen sollte. Die Koalition könnte dabei Handlungsfähigkeit zeigen.Ein Standpunkt von Gudula Geuther",
+   "u": "https://www.deutschlandfunk.de/erbschaftssteuer-gerechtigkeit-verfassungsgericht-firmenerben-koalition-kommentar-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-13T15:50:00+00:00"
   }
  ]
 }

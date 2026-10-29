@@ -1,7 +1,91 @@
 {
  "name": "Inland",
- "updated": "2026-10-29T00:58:25+00:00",
+ "updated": "2026-10-29T09:59:29+00:00",
  "items": [
+  {
+   "t": "Erinnerung an die „Polenaktion“ 1938: Die Generalprobe",
+   "s": "Im Oktober 1938 deportieren die Nazis eine jüdische Familie aus dem Rheinland. Ein Foto von damals belegt die Begeisterung ihrer Mitbürger.",
+   "u": "https://taz.de/Erinnerung-an-die-Polenaktion-1938/!6225757/",
+   "q": "taz",
+   "d": "2026-10-29T09:53:00+00:00"
+  },
+  {
+   "t": "Internationale Abkommen über KI-Waffen: Vereint gegen Turbo-Killer-Roboter",
+   "s": "Deutschland und andere Industriestaaten rüsten auf – auch mit künstlicher Intelligenz. Wie kann man verhindern, dass Algorithmen über Leben und Tod entscheiden?",
+   "u": "https://taz.de/Warum-es-einen-internationalen-Stopp-fuer-KI-Waffensysteme-braucht---und-wie-das-gelingen-kann/!6219137/",
+   "q": "taz",
+   "d": "2026-10-29T09:48:00+00:00"
+  },
+  {
+   "t": "Telefongespräch mit Putin: Sturm im Wasserglas",
+   "s": "In der EU zählen Eitelkeiten noch immer mehr als Entschlossenheit. So spielt Europa keine Rolle bei Krieg und Frieden auf dem eigenen Kontinent.",
+   "u": "https://taz.de/Telefongespraech-mit-Putin/!6225663/",
+   "q": "taz",
+   "d": "2026-10-29T09:28:00+00:00"
+  },
+  {
+   "t": "Pflegeversicherung: Linnemann schließt Leistungskürzungen nicht aus",
+   "s": "Gesundheitsminister Linnemann hält Einschnitte bei der Pflegeversicherung für möglich. Angesichts steigender Kosten müssten rund zehn Prozent eingespart werden. Patientenschützer warnen vor den Folgen für die häusliche Pflege.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/linnemann-kuerzungen-pflegeleistungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T09:27:28+00:00"
+  },
+  {
+   "t": "Krieg im und um den Jemen: Immer mehr Menschen im Jemen durch Kämpfe vertrieben",
+   "s": "Laut UN wurden seit August durch Kämpfe 280.000 Menschen vertrieben, die für Helfer immer schwerer zu versorgen sind. Derweil gibt es wieder neue Angriffe.",
+   "u": "https://taz.de/Krieg-im-und-um-den-Jemen/!6225921/",
+   "q": "taz",
+   "d": "2026-10-29T09:23:00+00:00"
+  },
+  {
+   "t": "Nach der Stichwahl in Brasilien: Flávio Bolsonaro macht sich lächerlich",
+   "s": "Der in die USA geflohene rechte Wahlverlierer sieht sich als legitimer Präsident und will sein Land von den USA aus von einer „Diktatur“ befreien.",
+   "u": "https://taz.de/Nach-der-Stichwahl-in-Brasilien/!6225913/",
+   "q": "taz",
+   "d": "2026-10-29T09:06:00+00:00"
+  },
+  {
+   "t": "Konstituierende Sitzung von neu gewähltem Abgeordnetenhaus in Berlin",
+   "s": "Knapp sechs Wochen nach der Wahl in Berlin kommt das Abgeordnetenhaus zu seiner konstituierenden Sitzung zusammen. Auf der Tagesordnung steht die Wahl des Parlamentspräsidiums. Erstmals könnte dieses Amt an eine Linken-Politikerin gehen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/berlin-abgeordnetenhaus-erste-sitzung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T07:56:14+00:00"
+  },
+  {
+   "t": "Vor dem EU-Kanada-Gipfel: Kanada wird vorerst kein assoziiertes EU-Mitglied",
+   "s": "Kanzler Merz und andere Regierungschefs bremsen von der Leyens Kanada-Pläne. Geplante Zusagen für eine engere Anbindung des Landes werden abgeschwächt.",
+   "u": "https://taz.de/Kanada-wird-vorerst-kein-assoziiertes-EU-Mitglied/!6225915/",
+   "q": "taz",
+   "d": "2026-10-29T07:26:00+00:00"
+  },
+  {
+   "t": "Nach Flucht in die USA: Bolsonaro stilisiert sich zum Opfer",
+   "s": "Nach seiner heimlichen Ausreise nach Florida wirft Flávio Bolsonaro Wahlsieger Lula „abscheulichen Wahlbetrug“ vor und vergleicht sich mit Charles de Gaulle.",
+   "u": "https://taz.de/Nach-verlorener-Wahl-in-den-USA-Bolsonaro-stilisiert-sich-zum-Opfer/!6225911/",
+   "q": "taz",
+   "d": "2026-10-29T07:18:00+00:00"
+  },
+  {
+   "t": "Klimastrategie für die EU: Brüssel stellt sich auf 3 Grad plus ein",
+   "s": "Die EU-Kommission legt nach dem „Sommer der Wahrheit“ einen Rahmen für mehr Klimaresilienz vor. Konkret ist der nicht. Und woher kommt das Geld?",
+   "u": "https://taz.de/Klimastrategie-fuer-die-EU/!6225601/",
+   "q": "taz",
+   "d": "2026-10-29T06:17:00+00:00"
+  },
+  {
+   "t": "\"Wir können beim Schutz jüdischen Lebens keine Kompromisse eingehen\"",
+   "s": "Juden in Deutschland fühlen sich nicht mehr sicher, sagt die neue Antisemitismusbeaufragte des Bundes, Katharina von Schnurbein. Das wolle sie ändern. Häufig würden Juden für israelische Politik verantwortlich gemacht. Das sei inakzeptabel.Klein, Bettina",
+   "u": "https://www.deutschlandfunk.de/interview-mit-katharina-von-schnurbein-antisemitismusbeauftragte-zu-judenhass-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-29T06:15:01+00:00"
+  },
+  {
+   "t": "EU und Kanada wollen Zusammenarbeit vertiefen",
+   "s": "Beim EU-Kanada-Gipfel soll die Zusammenarbeit im Digitalen, bei Rohstoffen und Bildung ausgebaut werden. Das bestehende Abkommen CETA sei allerdings von neun Mitgliedsstaaten noch nicht ratifiziert, kritisiert Bernd Lange (SPD). Das soll sich ändern.Klein, Bettina",
+   "u": "https://www.deutschlandfunk.de/interview-bernd-lange-spe-handelsausschuss-zu-eu-handel-mit-kanada-vs-china-102.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-29T05:50:45+00:00"
+  },
   {
    "t": "„Ulm 5“ vor Gericht: „Es wirkt wie ein Schauprozess“",
    "s": "Propalästina-Aktivisten haben in einem israelischen Rüstungsunternehmen randaliert. Linke-Politikerin Nicole Gohlke findet die Vorwürfe absurd.",
@@ -25,7 +109,7 @@
   },
   {
    "t": "Ukraine: Was der Krieg mit den Menschen macht",
-   "s": "Nächte im Schutzraum, ständige Luftangriffe und Gespräche, die lange nachhallen: Vassili Golod, Leiter des ARD-Studios in Kiew, erzählt von einem Alltag zwischen Angst, Anpassung und bemerkenswerter Widerstandskraft.Gorgis, Elena; Golod, Vassili",
+   "s": "Nächte im Schutzraum, ständige Luftangriffe und Gespräche, die lange nachhallen: Vassili Golod, Leiter des ARD-Studios in Kyjiw, erzählt von einem Alltag zwischen Angst, Anpassung und bemerkenswerter Widerstandskraft.Gorgis, Elena; Golod, Vassili",
    "u": "https://www.deutschlandfunk.de/wie-es-ist-aus-der-ukraine-zu-berichten-vassili-golod-im-gespraech-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-28T18:15:00+00:00"
@@ -85,90 +169,6 @@
    "u": "https://taz.de/Streit-um-Berliner-Linken-Abgeordnete/!6225627/",
    "q": "taz",
    "d": "2026-10-28T15:57:00+00:00"
-  },
-  {
-   "t": "20 Jahre Stern-Bericht: Warum die Klimaziele außer Reichweite bleiben",
-   "s": "2006 erklärte der Stern-Report den Klimaschutz zum wirtschaftlichen Gebot. Heute sind viele grüne Technologien günstiger denn je, doch die Emissionen steigen. Was läuft schief? Eine Bilanz mit den Ökonomen Nicholas Stern und Ottmar Edenhofer.Schröder, Tomma / Reuning, Arndt",
-   "u": "https://www.deutschlandfunk.de/stern-bericht-20-jahre-spaeter-rechnet-sich-der-klimaschutz-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-28T15:44:21+00:00"
-  },
-  {
-   "t": "Brasiliens Wahlverlierer haut ab: Lügner und Feigling",
-   "s": "Flávio Bolsonaros Flucht ist ein Schuldeingeständnis – er will seine Haut retten. Doch für Wahlsieger Lula könnte der Schritt zum Problem werden.",
-   "u": "https://taz.de/Flavio-Bolsonaros-Flucht-Luegner-und-Feigling/!6225646/",
-   "q": "taz",
-   "d": "2026-10-28T15:41:00+00:00"
-  },
-  {
-   "t": "Mbappé-Boykott in China: Schluss mit lustig",
-   "s": "Der französische Fußballstar Kylian Mbappé wird wegen einer belanglosen Bemerkung zur Zielscheibe der chinesischen Zensurwut.",
-   "u": "https://taz.de/Die-chinesische-Zensurwut-trifft-Kylian-Mbappe---der-Grund-koennte-kaum-belangloser-sein/!6225613/",
-   "q": "taz",
-   "d": "2026-10-28T15:40:00+00:00"
-  },
-  {
-   "t": "Prozess um Totschlag: Noch Fahnen im Keller",
-   "s": "Ein 51-Jähriger bringt seinen Nachbarn um und wird verurteilt. Ist das Motiv Rassismus? Seine Reichsflagge spielt im Prozess keine Rolle.",
-   "u": "https://taz.de/Prozess-um-Totschlag/!6225681/",
-   "q": "taz",
-   "d": "2026-10-28T15:39:00+00:00"
-  },
-  {
-   "t": "Weiterhin 14 Monate - Rolle rückwärts beim Elterngeld",
-   "s": "Das Elterngeld bleibt laut Plänen des Familienministeriums bei bis zu 14 Monaten. Eine geplante Kürzung auf zwölf Monate wird nicht umgesetzt. Zudem sollen Mindest- und Höchstbeträge steigen. Von Sarah Beham und Philip Kuntschner.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/elterngeld-bezugsdauer-prien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T15:11:17+00:00"
-  },
-  {
-   "t": "Korrektur bei Elterngeld-Plänen: Elterngeld soll doch weiter für 14 Monate gezahlt werden",
-   "s": "Die Kürzungspläne für das Elterngeld hatten viel Kritik geerntet. Ein neuer Entwurf aus dem Haus von CDU-Familienministerin Prien sieht nun ganz anders aus.",
-   "u": "https://taz.de/Korrektur-bei-Elterngeld-Plaenen/!6225800/",
-   "q": "taz",
-   "d": "2026-10-28T14:59:00+00:00"
-  },
-  {
-   "t": "Kritische Infrastruktur: Mehr Prüfungen auf Sabotagerisiko",
-   "s": "Die Bedrohung für die Kritische Infrastruktur in Deutschland - etwa durch Sabotage oder Spionage - ist gestiegen. Daher will der Bund künftig Beschäftigte in noch mehr Betrieben auf mögliche Sicherheitsrisiken überprüfen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/kritische-infrastruktur-sabotage-schutz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T14:48:08+00:00"
-  },
-  {
-   "t": "Krieg im Jemen: Neue Eskalation zwischen Huthis und Saudi-Arabien",
-   "s": "Laut Huthi-Miliz kommt im Jemen mehr als ein Dutzend Menschen durch Angriffe Saudi-Arabiens ums Leben. Die Huthis beschießen den Flughafen von Aden.",
-   "u": "https://taz.de/Krieg-im-Jemen/!6225779/",
-   "q": "taz",
-   "d": "2026-10-28T14:48:00+00:00"
-  },
-  {
-   "t": "Umgang mit der AfD in Sachsen-Anhalt: CDU streitet über eidesstattliche Versicherung",
-   "s": "Wer wählte Tobias Rausch zum Landtagspräsidenten? CDU-Abgeordnete sollten eidesstattlich versichern, dass sie es nicht waren. Nun gibt es Rücktrittsforderungen.",
-   "u": "https://taz.de/Umgang-mit-der-AfD-in-Sachsen-Anhalt/!6225735/",
-   "q": "taz",
-   "d": "2026-10-28T13:54:00+00:00"
-  },
-  {
-   "t": "Eritrea im Konflikt mit Äthiopien: „Die eritreische Opposition ist tief gespalten“",
-   "s": "Eritrea und Äthiopien stehen sich wieder als Kriegsgegner gegenüber. Exiljournalist Zekarias Kebraeb über die Folgen für die eritreische Gesellschaft.",
-   "u": "https://taz.de/Eritrea-im-Konflikt-mit-Aethiopien/!6225630/",
-   "q": "taz",
-   "d": "2026-10-28T13:47:00+00:00"
-  },
-  {
-   "t": "Nach der Parlamentswahl in Serbien: Gefährliches Vakuum in Belgrad",
-   "s": "Bis zur Bildung einer Regierung in Serbien kann es dauern. Diese Zeit könnten der Wahlverlierer Vučić und seine Gefolgsleute versuchen für sich zu nutzen.",
-   "u": "https://taz.de/Nach-der-Parlamentswahl-in-Serbien/!6225647/",
-   "q": "taz",
-   "d": "2026-10-28T13:33:00+00:00"
-  },
-  {
-   "t": "Bremer Klinikbetreiber schließt Standort: Schrumpfkur wird teuer",
-   "s": "Der kommunale Krankenhauskonzern Geno steckt in der Krise: 560 Stellen und zwei Standorte fallen weg. Ein Kredit der Stadt verhindert die Insolvenz.",
-   "u": "https://taz.de/Bremer-Klinikbetreiber-schliesst-Standort/!6225001/",
-   "q": "taz",
-   "d": "2026-10-28T13:10:00+00:00"
   }
  ]
 }
