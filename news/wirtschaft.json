@@ -1,7 +1,63 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-30T01:00:51+00:00",
+ "updated": "2026-10-30T10:02:51+00:00",
  "items": [
+  {
+   "t": "Deutsche Wirtschaft wächst überraschend im Sommer",
+   "s": "Nach einem starken Halbjahr hat sich auch im Sommer die Erholung der deutschen Wirtschaft fortgesetzt. Dabei hatten viele Experten mit einer Stagnation gerechnet. Die privaten Ausgaben sind jedoch weiterhin verhalten.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/entwicklung-bip-deutschland-sommer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T09:50:45+00:00"
+  },
+  {
+   "t": "Krise in Automobilbranche: Gewinn bei Audi bricht drastisch ein",
+   "s": "Auch der Autobauer Audi steckt in der Krise: Der Gewinn brach im dritten Quartal deutlich ein. Grund ist unter anderem das schwache China-Geschäft. Neue Automodelle sollen positive Impulse bringen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/automobil-audi-gewinneinbruch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T09:42:12+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX steuert auf großes Wochenplus zu",
+   "s": "Der DAX rutscht im frühen Handel zwar wieder unter 26.000 Punkte, er bleibt aber in Schlagweite. Trotz steigender Ölpreise und schwacher Bilanzen von Intel und Amazon hält sich der deutsche Leitindex stabil.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T09:25:43+00:00"
+  },
+  {
+   "t": "Fehlende Wohnungen: Was hat der \"Bau-Turbo\" bislang gebracht?",
+   "s": "In Deutschland werden viel zu wenig Wohnungen gebaut. Dabei versucht die Bundesregierung gegenzusteuern - etwa mit dem \"Bau-Turbo\", der seit einem Jahr gilt. Was hat das Gesetz bislang gebracht? Von Axel John.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/bauturbo-wohnungen-immobilien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T07:55:53+00:00"
+  },
+  {
+   "t": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
+   "s": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T07:24:20+00:00"
+  },
+  {
+   "t": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
+   "s": "Gemeinsam unabhängiger werden - das ist das große Ziel der angestrebten neuen Allianz zwischen Kanada und der EU. Ein Beispiel: die Zusammenarbeit im Bereich Künstlicher Intelligenz. Von Giselle Ucar.",
+   "u": "https://www.tagesschau.de/ausland/amerika/eu-kanada-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T06:38:08+00:00"
+  },
+  {
+   "t": "EU-Kanada-Gipfel: \"Die neue Allianz ist keine Marketing-Übung\"",
+   "s": "Beim EU-Kanada-Gipfel ging es auf europäischer Seite bislang viel darum, wie die neue Allianz denn heißen soll. Kanadas Premier Carney sagt dazu: \"Der Name ist egal.\" Heute sollen konkrete Vereinbarungen folgen. Von Martin Ganslmeier.",
+   "u": "https://www.tagesschau.de/ausland/amerika/eu-kanada-zweiter-tag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T05:46:43+00:00"
+  },
+  {
+   "t": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
+   "s": "In Deutschland könnte es eine Steuer auf Umsätze geben, die mit Künstlicher Intelligenz erzielt werden. Auch Familienministerin Prien sprach sich nun dafür aus. So soll auf Veränderungen in der Arbeitswelt reagiert werden - zum Beispiel auf Jobverluste.",
+   "u": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T20:12:03+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 29.10.2026",
    "s": "Wirtschaft vor acht vom 29.10.2026",
@@ -15,13 +71,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
    "q": "Tagesschau",
    "d": "2026-10-29T18:40:44+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX setzt Klettertour fort",
-   "s": "Die großen Notenbanken halten vorerst die Füße still - die Botschaft hat die Kauflust der Anleger beflügelt, der DAX beendet den Handelstag im Plus. Auch der VW-Schock vom Morgen wurde gut verdaut.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T17:32:38+00:00"
   },
   {
    "t": "Europäische Zentralbank hält Leitzins unverändert",
@@ -101,13 +150,6 @@
    "d": "2026-10-29T06:20:37+00:00"
   },
   {
-   "t": "Börsendebüt von tk accelis bleibt unter den Erwartungen",
-   "s": "Seine Marinewerften und das Wasserstoffgeschäft hat der Industriekonzern Thyssenkrupp schon abgespalten. Nun folgt die Werkstofftochter mit eigenen Aktien. Und es gibt noch weitergehende Pläne.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/boersengang-tk-accelis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T15:50:44+00:00"
-  },
-  {
    "t": "Mercedes hat noch größere Probleme im chinesischen Markt",
    "s": "Mercedes hat im dritten Quartal in seiner Autosparte operativ deutlich weniger verdient. Vor allem das schlechte China-Geschäft setzt dem Konzern zu. Die Strategie für den weltgrößten Automarkt will er nun überdenken.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-automobilindustrie-quartalszahlen-100.html",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-wachstum-ki-robotik-zukunftsmaerkte-100.html",
    "q": "Tagesschau",
    "d": "2026-10-28T05:19:59+00:00"
-  },
-  {
-   "t": "Tarifverhandlungen: IG Metall lehnt Angebot ab - Warnstreiks drohen",
-   "s": "Die Arbeitgeber der Metall- und Elektroindustrie haben in der laufenden Tarifrunde ein erstes Angebot vorgelegt. Die IG Metall weist es als unzureichend zurück. Ab Sonntag sind Warnstreiks möglich.",
-   "u": "https://www.tagesschau.de/wirtschaft/ig-metall-wirtschaftsmeldung-oktober2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T16:12:25+00:00"
-  },
-  {
-   "t": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
-   "s": "Wer spätabends oder am Wochenende Aktien von Siemens, SAP und Co. kaufen oder verkaufen will, kann das ab sofort tun. Die Deutsche Börse ermöglicht den Handel rund um die Uhr. Was hat es damit auf sich?",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T14:12:19+00:00"
-  },
-  {
-   "t": "Industriearbeiter: Vom Gesicht des Wirtschaftswunders zur AfD-Klientel",
-   "s": "Der deutsche Industriearbeiter galt als Symbolfigur des Wiederaufbaus nach 1945. Arbeiter waren stolz, „Malocher“ zu sein. Doch zunehmend verschwinden Industriejobs. Und viele der verbliebenen Arbeiter zieht es zur AfD.",
-   "u": "https://www.deutschlandfunk.de/industriearbeiter-afd-waehler-wirtschaft-arbeitsplaetze-stellenabbau-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-27T11:34:00+00:00"
-  },
-  {
-   "t": "Konsum und Investitionen: Wie Superreiche das Klima belasten",
-   "s": "Superreiche heizen die Klimakrise mit Privatjets, Konsum und Investitionen an. Gleichzeitig leiden ärmere Menschen stärker unter ihren Folgen. Wie lässt sich Klimaschutz sozial gerecht gestalten? Von Michelle Goddemeier.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/klimawandel-emissionen-superreiche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T10:42:23+00:00"
-  },
-  {
-   "t": "Bericht der Weltwetterorganisation: Immer mehr Treibhausgase in der Atmosphäre",
-   "s": "In der Atmoshäre sammeln sich immer mehr Treibhausgase. Das zeigt ein neuer Bericht der Weltwetterorganisation. Offenbar erholt sich die Natur von Hitze und Trockenheit nicht so schnell wie erwartet. Von N. Gode und S. Biegger.",
-   "u": "https://www.tagesschau.de/wissen/klima/treibhausgase-so-hoch-wie-nie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T09:00:07+00:00"
-  },
-  {
-   "t": "Die globale Energiewende – die Zukunft der Welt ist elektrisch",
-   "s": "Der Irankrieg und die weltweit gestiegenen Treibstoffpreise haben noch einmal gezeigt, was die Abhängigkeit von den fossilen Energien bedeutet. Weltweit wird der Umstieg auf erneuerbare Energien vorangetrieben – oft aus rein finanziellen Gründen.",
-   "u": "https://www.deutschlandfunk.de/energiewende-global-erneuerbare-energien-elektromobilitaet-dekarbonisierung-klimawandel-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-27T08:42:00+00:00"
   }
  ]
 }

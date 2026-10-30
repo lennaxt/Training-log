@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-30T01:00:54+00:00",
+ "updated": "2026-10-30T10:02:54+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Angriffe auf russische Raffinerien ausgesetzt",
+   "s": "Laut „Wall Street Journal“ übt die Ukraine auf Druck von Trump derzeit keine Luftschläge gegen petrochemische Anlagen des Gegners aus. Russland attackiert die Ukraine aber weiter.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6226224/",
+   "q": "taz",
+   "d": "2026-10-30T07:34:00+00:00"
+  },
   {
    "t": "Kanada als assoziiertes EU-Mitglied: Mehr als nur Streit um Worte",
    "s": "Die EU und Kanada wollen enger kooperieren. Aber wie diese Verbindung genannt werden soll, ist in der europäischen Politik umstritten.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Proteste-in-Frankreich/!6225413/",
    "q": "taz",
    "d": "2026-10-27T16:40:00+00:00"
-  },
-  {
-   "t": "Protestaktionen in Barcelona: Rätsel um 500 dubiose Plünderer",
-   "s": "In Barcelona hat ein auffällig unpolitischer schwarzer Block massiv Geschäfte geplündert. Waren das Provokateure? Kleinkriminelle? Geheimdienstler?",
-   "u": "https://taz.de/Das-Raetsel-um-500-dubiose-Pluenderer-in-Barcelona/!6225348/",
-   "q": "taz",
-   "d": "2026-10-27T15:54:00+00:00"
   }
  ]
 }
