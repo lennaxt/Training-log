@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-10-29T20:18:51+00:00",
+ "updated": "2026-10-30T01:00:49+00:00",
  "items": [
+  {
+   "t": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
+   "s": "Die Auszählung der Stimmen in Israel bestätigt, dass eine äußerst schwierige Regierungsbildung bevorsteht. Unterdessen ist ein Streit über das Wahlergebnis entbrannt - die Likud-Partei spricht von \"gestohlener Wahl\".",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T00:01:06+00:00"
+  },
+  {
+   "t": "Bosnien-Herzegowina: Militär-Hubschrauber abgestürzt - vier Tote",
+   "s": "In dem einstigen Bürgerkriegsland Bosnien-Herzegowina verunglückt ein Militärhelikopter der EU-Friedensmission. Die Insassen kamen alle aus Italien. Der genaue Hergang ist noch unklar.",
+   "u": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-29T23:05:38+00:00"
+  },
   {
    "t": "Zugunglück in Spanien: Ein Land zwischen Trauer und Aufarbeitung",
    "s": "Nach dem Zugunglück in Spanien sind Schock und Trauer groß. Forensiker identifizieren weiterhin Todesopfer. Zudem wurden die Gesprächsprotokolle der Leitstelle mit den Lokomotivführern veröffentlicht. Von Julia Macher.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/brasilien-flavio-bolsonaro-ecuador-usa-100.html",
    "q": "Tagesschau",
    "d": "2026-10-28T12:00:47+00:00"
-  },
-  {
-   "t": "Diskussion vor Zwischenwahlen: Sind die USA noch eine Demokratie?",
-   "s": "Gegnern schickt die Regierung die Justiz auf den Hals, Unis sehen ihre Freiheiten bedroht: In den USA wird kontrovers diskutiert, ob das Land unter Trump noch eine Demokratie ist. Vor den Midterms bekommt das Thema neue Brisanz. Von C. Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-zustand-demokratie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T11:35:40+00:00"
-  },
-  {
-   "t": "Knesset-Wahl in Israel: Hochrechnungen zeigen Patt-Situation in Israel",
-   "s": "Nach der Wahl in Israel gibt es laut Hochrechnungen für kein politisches Lager eine Mehrheit im Parlament. Sowohl Eisenkot als auch Netanjahu kündigten dennoch an, eine Regierung bilden zu wollen.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T11:32:28+00:00"
   }
  ]
 }
