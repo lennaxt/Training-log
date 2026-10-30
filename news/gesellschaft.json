@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-30T10:02:54+00:00",
+ "updated": "2026-10-30T19:55:48+00:00",
  "items": [
+  {
+   "t": "Nach den Parlamentswahlen in Serbien: Ich atme anders",
+   "s": "Seit der Wahlniederlage von Aleksandar Vučić ist Serbien im Freudentaumel. Unsere Autorin war früher selbst Teil des Studierenden­widerstands.",
+   "u": "https://taz.de/Nach-den-Parlamentswahlen-in-Serbien/!6223255/",
+   "q": "taz",
+   "d": "2026-10-30T18:28:00+00:00"
+  },
+  {
+   "t": "Waffenstillstand in Oleschky: Humanitäres, Handeschütteln und bleibendes Misstrauen",
+   "s": "In der ukrainischen Stadt Oleschky hält der vereinbarte Waffenstillstand. Hilfslieferungen treffen ein, Menschen nutzen die Chance zur Evakuierung.",
+   "u": "https://taz.de/Waffenstillstand-in-Oleschky/!6226243/",
+   "q": "taz",
+   "d": "2026-10-30T14:23:00+00:00"
+  },
+  {
+   "t": "Nach dem Zugunglück in Spanien: Spaniens ganzer Stolz wird zum Problem",
+   "s": "In die Trauer um die mindestens 69 Toten nach dem Zugunglück vom Mittwoch mischt sich die Erkenntnis, dass die Risiken seit langem bekannt waren.",
+   "u": "https://taz.de/Nach-dem-Zugunglueck-in-Spanien/!6226269/",
+   "q": "taz",
+   "d": "2026-10-30T13:44:00+00:00"
+  },
+  {
+   "t": "Proteste in Italien: Gewerkschaften machen gegen Meloni mobil",
+   "s": "Aus Sorge vor Krawallen sind Sicherheitskräfte in mehreren italienischen Städten im Großeinsatz. Auch Schüler und Studierende gehen wieder auf die Straße.",
+   "u": "https://taz.de/Proteste-in-Italien/!6226264/",
+   "q": "taz",
+   "d": "2026-10-30T10:57:00+00:00"
+  },
+  {
+   "t": "Tagebuch aus Kasachstan: Irgendein Job, irgendwas mit Töten",
+   "s": "Etliche Männer aus Kasachstan berichten, Russland setze sie gegen ihren Willen im Krieg ein. Nun versucht die Regierung, sie nach Hause zu holen.",
+   "u": "https://taz.de/Tagebuch-aus-Kasachstan/!6223091/",
+   "q": "taz",
+   "d": "2026-10-30T10:12:00+00:00"
+  },
   {
    "t": "+++ Nachrichten im Ukraine-Krieg +++: Angriffe auf russische Raffinerien ausgesetzt",
    "s": "Laut „Wall Street Journal“ übt die Ukraine auf Druck von Trump derzeit keine Luftschläge gegen petrochemische Anlagen des Gegners aus. Russland attackiert die Ukraine aber weiter.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Frontex-wird-Abschiebeagentur/!6225356/",
    "q": "taz",
    "d": "2026-10-28T06:28:00+00:00"
-  },
-  {
-   "t": "Europäische Grenzbehörde: Frontex wird aufgerüstet",
-   "s": "Die EU-Kommission will mehr Personal für die europäische Grenzschutzagentur, mehr Geld und mehr Kompetenzen. Linke, Grüne und Sozialdemokraten kündigen Widerstand an.",
-   "u": "https://taz.de/Europaeische-Grenzbehoerde/!6225382/",
-   "q": "taz",
-   "d": "2026-10-27T19:19:00+00:00"
-  },
-  {
-   "t": "EU-Grenzbehörde Frontex: Auf dem Weg zur EU-Abschiebepolizei",
-   "s": "Die EU-Kommission will die Grenzschutzagentur zur zentralen Schaltstelle für Abschiebungen ausbauen. Die neuen Pläne könnten ihre Macht erheblich erweitern.",
-   "u": "https://taz.de/EU-Grenzbehoerde-Frontex-Schrittweise-Ausweitung-der-Kompetenzen-schmackhaft-machen/!6225383/",
-   "q": "taz",
-   "d": "2026-10-27T19:18:00+00:00"
-  },
-  {
-   "t": "Nach dem Wahlsieg: Jetzt muss Serbiens Studentenliste liefern",
-   "s": "Nach ausgelassenen Wahlpartys stellen sich immer mehr Fragen zur politischen Ausrichtung und der künftigen Regierung. Welche Namen sind im Gespräch?",
-   "u": "https://taz.de/Nach-dem-Wahlsieg/!6225390/",
-   "q": "taz",
-   "d": "2026-10-27T19:17:00+00:00"
-  },
-  {
-   "t": "Proteste in Albanien: Marjana Koçeku rebelliert gegen Ministerpräsident",
-   "s": "Die jüngste Abgeordnete Albaniens, Marjana Koçeku, fordert den Rücktritt von Ministerpräsident Edi Rama. Was sie will und wer auf ihrer Seite steht.",
-   "u": "https://taz.de/Proteste-in-Albanien/!6225086/",
-   "q": "taz",
-   "d": "2026-10-27T19:16:00+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Es riecht nach einem faulen Kompromiss",
-   "s": "Frankreichs Regierungschef Sébastien Lecornu kündigt erste Zugeständnisse im Bildungswesen an. Doch den Schülern und Studierenden reicht das nicht.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6225413/",
-   "q": "taz",
-   "d": "2026-10-27T16:40:00+00:00"
   }
  ]
 }

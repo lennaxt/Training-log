@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-30T10:02:51+00:00",
+ "updated": "2026-10-30T19:55:46+00:00",
  "items": [
+  {
+   "t": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
+   "s": "Zum Wochenschluss schwächelt der DAX, nachdem er zuvor viermal in Folge gestiegen war. Auslöser sind der hohe Ölpreis, aber auch schwache Tech-Vorgaben aus Übersee.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T17:22:12+00:00"
+  },
+  {
+   "t": "Inflationsrate geht im Oktober auf 2,8 Prozent zurück",
+   "s": "Die hohe Inflation in Deutschland ‌hat sich im Oktober spürbar abgeschwächt. Dafür sorgen vor allem die fallenden Preise an den Zapfsäulen. Doch Ökonomen geben noch keine Entwarnung.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/inflationsrate-deutschland-oktober-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T14:08:37+00:00"
+  },
+  {
+   "t": "Wie der VW-Vorstand die Laune bei den Skoda-Mitarbeitern drückt",
+   "s": "Während die Konzernmutter Volkswagen viele Probleme hat, erwirtschaftet die tschechische Tochter Skoda passable Gewinne. Doch das ist für den Hersteller nicht automatisch von Vorteil. Von André Berthold.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/skoda-144.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T13:51:43+00:00"
+  },
+  {
+   "t": "Experte zum Krypto-Angriff: \"Drei Milliarden sind definitiv weg\"",
+   "s": "Beim Hackerangriff auf die Kryptobörse Binance geht es um Digitalwährungen in Milliardenhöhe. Cybersicherheitsexperte Mirko Ross erklärt, warum die Spur nach Nordkorea führt und was Anleger beachten sollten.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-binance-interview-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T12:32:21+00:00"
+  },
+  {
+   "t": "Fast drei Millionen Arbeitslose im Oktober",
+   "s": "Die Arbeitslosigkeit ist im Oktober zurückgegangen, die übliche Herbstbelebung aber nahezu ausgeblieben. Im Vergleich zum Vorjahr gibt es sogar mehr Arbeitslose. Als Grund nennt BA-Chefin Nahles die wirtschaftlichen Rahmenbedingungen.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslose-statistik-oktober-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T10:32:55+00:00"
+  },
   {
    "t": "Deutsche Wirtschaft wächst überraschend im Sommer",
    "s": "Nach einem starken Halbjahr hat sich auch im Sommer die Erholung der deutschen Wirtschaft fortgesetzt. Dabei hatten viele Experten mit einer Stagnation gerechnet. Die privaten Ausgaben sind jedoch weiterhin verhalten.",
@@ -15,13 +50,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/automobil-audi-gewinneinbruch-100.html",
    "q": "Tagesschau",
    "d": "2026-10-30T09:42:12+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX steuert auf großes Wochenplus zu",
-   "s": "Der DAX rutscht im frühen Handel zwar wieder unter 26.000 Punkte, er bleibt aber in Schlagweite. Trotz steigender Ölpreise und schwacher Bilanzen von Intel und Amazon hält sich der deutsche Leitindex stabil.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T09:25:43+00:00"
   },
   {
    "t": "Fehlende Wohnungen: Was hat der \"Bau-Turbo\" bislang gebracht?",
@@ -66,20 +94,6 @@
    "d": "2026-10-29T19:30:50+00:00"
   },
   {
-   "t": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
-   "s": "Früher als geplant tritt die Suche nach einer Nachfolge für EZB-Chefin Lagarde in die heiße Phase - die Französin scheidet vorzeitig aus dem Amt. Was sind die Hintergründe, wer könnte nachrücken an der Spitze der Notenbank? Von Constantin Röse.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T18:40:44+00:00"
-  },
-  {
-   "t": "Europäische Zentralbank hält Leitzins unverändert",
-   "s": "Die Europäische Zentralbank (EZB) hat wie erwartet die Leitzinsen unverändert bei 2,5 Prozent belassen. Zuvor hatte auch die US-Notenbank Fed von einer Änderung ihrer Leitzinsen abgesehen.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-570.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T15:18:04+00:00"
-  },
-  {
    "t": "Kommentar zum \"Tankrabatt\": Die Regierung schmeißt Milliarden aus dem Fenster",
    "s": "Vor vier Wochen ist die Neuauflage des \"Tankrabatts\" in Kraft getreten. Für die Bundesregierung war es eine Beruhigungspille kurz vor den Wahlen, meint Jan Zimmermann. Der Frust an der Tankstelle bleibt jedoch.",
    "u": "https://www.tagesschau.de/kommentar/tankrabatt-ein-monat-100.html",
@@ -108,13 +122,6 @@
    "d": "2026-10-29T13:12:09+00:00"
   },
   {
-   "t": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
-   "s": "Gerüchte gab es bereits länger, nun ist es bestätigt: EZB-Chefin Lagarde gibt ihren Posten vorzeitig im Februar auf. So kann über die Nachfolge noch vor der Präsidentschaftswahl in Frankreich entschieden werden.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T12:51:29+00:00"
-  },
-  {
    "t": "Update Wirtschaft vom 29.10.2026",
    "s": "Update Wirtschaft vom 29.10.2026",
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1674420.html",
@@ -134,13 +141,6 @@
    "u": "https://www.deutschlandfunk.de/bruttooekosystemprodukt-boep-gep-natur-wert-wohlstand-wirtschaft-china-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-29T08:00:00+00:00"
-  },
-  {
-   "t": "Wie lange ist Christine Lagarde noch EZB-Chefin?",
-   "s": "In vielen Euro-Ländern stockt die Konjunktur, Proteste wie in Frankreich setzen Regierungen unter Druck. Da bräuchte die EZB eine starke Führung - doch über die Zukunft von Notenbankchefin Lagarde wird heftig spekuliert. Von Oliver Feldforth.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsen-lagarde-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T06:28:41+00:00"
   },
   {
    "t": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",

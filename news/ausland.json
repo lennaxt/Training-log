@@ -1,13 +1,62 @@
 {
  "name": "Ausland",
- "updated": "2026-10-30T10:02:50+00:00",
+ "updated": "2026-10-30T19:55:44+00:00",
  "items": [
+  {
+   "t": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
+   "s": "Die EU und Kanada gründen in Montreal eine \"Allianz für die Zukunft\". Ziel ist mehr Unabhängigkeit und eine engere Zusammenarbeit von KI bis Raumfahrt. Auch die Ukraine spielt eine Rolle.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T18:59:17+00:00"
+  },
+  {
+   "t": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
+   "s": "Der Wahlkampf in den USA ist für Politiker auch eine Gelegenheit, sich zu positionieren - für die Präsidentschaftswahl 2028. Kaliforniens Gouverneur Newsom werden Ambitionen nachgesagt - doch es gibt viele Vorbehalte. Von R. Spiegelhauer.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-newsom-ambitionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T18:46:53+00:00"
+  },
+  {
+   "t": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
+   "s": "Hohe Lebenshaltungskosten, steigende Rüstungsausgaben, zu wenig Investition in Bildung: In Italien sind Hunderttausende Menschen gegen die Politik der Regierung auf die Straße gegangen - begleitet von einem massiven Polizeiaufgebot.",
+   "u": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T17:23:20+00:00"
+  },
+  {
+   "t": "Nach gescheiterter Hinrichtung: Pike beklagt ständige Schmerzen",
+   "s": "Als erste Frau seit 200 Jahren sollte Christa Pike in Tennessee hingerichtet werden. Doch sie überlebte die Gabe eines eigentlich tödlichen Medikaments. In einer ersten Stellungnahme berichtet sie von ständigen Schmerzen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/pike-aeussert-sich-erstmals-nach-gescheiterter-hinrichtung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T15:46:27+00:00"
+  },
+  {
+   "t": "Wahl-Patt in Israel: Regierungsbildung nicht in Sicht",
+   "s": "Das Endergebnis der Wahl in Israel bringt für keinen Parteienblock eine regierungsfähige Mehrheit. Jetzt könnten die arabischen Parteien zum Zuge kommen. Doch aus dem Netanjahu-Lager kommen neue Vorwürfe. Konkurrent Eisenkot reagiert. Von Tim Aßmann.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T14:28:05+00:00"
+  },
   {
    "t": "Zugunglück in Spanien: Fahrdatenschreiber geborgen",
    "s": "Auf den Schock nach dem schweren Zugunglück in Spanien folgt die Suche nach der Ursache: Ermittler haben die Fahrdatenschreiber in den Wracks gefunden. Die Daten werden nun ausgewertet - und liefern hoffentlich Antworten.",
    "u": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-156.html",
    "q": "Tagesschau",
-   "d": "2026-10-30T09:39:38+00:00"
+   "d": "2026-10-30T12:32:41+00:00"
+  },
+  {
+   "t": "Merz hofft auf friedliche Wiedervereinigung Koreas",
+   "s": "Ein wiedervereintes Korea - diese Hoffnung hat Kanzler Merz beim Besuch an Südkoreas Grenze geäußert. Angesichts Nordkoreas zunehmender Abschottung liegt dieses Ziel in weiter Ferne. Und das berge laut Merz auch für Europa eine Gefahr.",
+   "u": "https://www.tagesschau.de/ausland/asien/merz-asienreise-suedkorea-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T11:14:51+00:00"
+  },
+  {
+   "t": "G20-Außenministertreffen mit Lawrow und Wadephul in Atlanta",
+   "s": "Die Außenminister der G20-Staaten treffen sich in den USA. Mit dabei ist auch Russlands Vertreter Lawrow. Für Deutschland nimmt Minister Wadephul teil. Das Treffen könnte beim Umgang mit Russland eine Art Generalprobe für den G20-Gipfel sein.",
+   "u": "https://www.tagesschau.de/ausland/amerika/aussenministertreffen-usa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T10:37:11+00:00"
   },
   {
    "t": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
@@ -120,55 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/serbien-medien-100.html",
    "q": "Tagesschau",
    "d": "2026-10-29T06:46:15+00:00"
-  },
-  {
-   "t": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
-   "s": "Kanzler Merz und andere EU-Regierungschefs haben die Kanada-Pläne von EU-Kommissionspräsidentin von der Leyen abgeschwächt - kurz vor dem heute beginnenden EU-Kanada-Gipfel. Von einer \"assoziierten Mitgliedschaft\" ist nicht mehr die Rede. Von S. Fritz.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T06:20:37+00:00"
-  },
-  {
-   "t": "Wie konnte es zu dem schweren Zugunglück in Spanien kommen?",
-   "s": "Nach dem schweren Zugunglück in Spanien gibt es erste Erkenntnisse zur Unglücksursache: Offenbar spielte menschliches Versagen eine Rolle. Vor dem Verkehrsministerium in Madrid kam es am Abend zu Protesten und Ausschreitungen.",
-   "u": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T05:34:13+00:00"
-  },
-  {
-   "t": "Brasiliens Wahlverlierer: Bolsonaros spektakuläre Flucht",
-   "s": "Ein Privatflugzeug, Zwischenstopps, die Ankunft in den USA - der brasilianische Wahlverlierer Bolsonaro ist nun in Florida - und bezeichnet sich als \"Anführer\" Brasiliens. Wie geht das rechte Lager mit dem geflüchteten Bolsonaro um? Von A. Herrberg.",
-   "u": "https://www.tagesschau.de/ausland/amerika/bolsonaro-flucht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T02:14:59+00:00"
-  },
-  {
-   "t": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
-   "s": "Heimlich hat sich der brasilianische Wahlverlierer Flávio Bolsonaro in die USA abgesetzt. Gegen ihn wird wegen Korruption und Geldwäsche ermittelt. Entgegen eindeutiger Ergebnisse hat er sich nun selbst zum Wahlsieger erklärt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T21:56:25+00:00"
-  },
-  {
-   "t": "Großbritannien: Burnhams Regierung stellt Haushalt vor",
-   "s": "Die Vorstellung des Haushalts war für Großbritanniens Premier Burnham der erste Härtetest. Die Erwartungen der Briten sind hoch. Die Regierung setzt vor allem auf kleine Maßnahmen, die die Menschen sofort spüren sollen. Von Lisa-Maria Röhling.",
-   "u": "https://www.tagesschau.de/ausland/europa/gb-labour-haushalt-burnham-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T18:20:51+00:00"
-  },
-  {
-   "t": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
-   "s": "Israel hat gewählt, doch keines der Lager kommt auf eine Mehrheit. Die Regierungsbildung dürfte sich hinziehen. Bis dahin bleibt Netanjahu im Amt - mit weitreichenden Folgen für den Gazastreifen, das Westjordanland und die gesamte Region. Von J.-C. Kitzler.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T17:22:57+00:00"
-  },
-  {
-   "t": "Mindestens 68 Tote nach Zugunglück in Spanien",
-   "s": "Die Zahl der Toten nach dem schweren Zugunglück in Spanien ist auf 68 gestiegen. Ein Hochgeschwindigkeitszug war am Morgen auf einen stehenden Zug aufgefahren - laut ersten Ermittlungen vermutlich wegen einer falschen Ansage der Leitstelle.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T16:11:17+00:00"
   }
  ]
 }
