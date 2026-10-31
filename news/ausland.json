@@ -1,27 +1,62 @@
 {
  "name": "Ausland",
- "updated": "2026-10-31T00:48:07+00:00",
+ "updated": "2026-10-31T09:40:22+00:00",
  "items": [
   {
-   "t": "Polen: Tumult und Protest vor dem Verfassungsgericht",
-   "s": "Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei umstellte das Gebäude, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisheigen Gerichtsführung.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
+   "t": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
+   "s": "Es war die größte gemeinsame Aktion von Ukrainern und Russen seit Kriegsbeginn: Mit 25 Bussen wurden Menschen aus der Frontstadt Oleschky gebracht. Ein Teil von ihnen ist bereits in Belarus angekommen, um in die Ukraine weiterzureisen.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-31T00:43:05+00:00"
+   "d": "2026-10-31T09:14:41+00:00"
   },
   {
-   "t": "US-Regierung genehmigt Patriot-Lieferungen an Ukraine",
-   "s": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+   "t": "Arabische Parteien in Israel stecken in einem Dilemma",
+   "s": "Die arabischen Listen in Israel haben bei der Parlamentswahl große Erfolge erzielt. Sie traten gemeinsam an, unterscheiden sich aber inhaltlich. Vor allem wollen sie nicht nur Mehrheitsbeschaffer sein. Von Julia Segador.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-30T23:56:24+00:00"
+   "d": "2026-10-31T08:49:15+00:00"
+  },
+  {
+   "t": "Polen: Tumult und Protest vor dem Verfassungsgericht",
+   "s": "Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei sicherte das Gebäude ab, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisherigen Gerichtsführung.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T08:25:36+00:00"
+  },
+  {
+   "t": "Einigung bei der UN-Biodiversitätskonferenz erzielt",
+   "s": "Wie kann die Artenvielfalt geschützt werden? Darüber wurde bei der UN-Biodiversitätskonferenz intensiv verhandelt. Am Ende gab es in Armenien eine Einigung - wenn auch keine besonders ambitionierte.",
+   "u": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T07:09:41+00:00"
+  },
+  {
+   "t": "Frust bei US-Farmern könnte Trump Stimmen bei den Midterms kosten",
+   "s": "Landwirte gelten als wichtige Wählergruppe der US-Republikaner. Doch steigende Kosten und eine unberechenbare Zollpolitik sorgen für Frust. Das könnte bei den Zwischenwahlen zum Stresstest für die Trump-Regierung werden. Von S. Jackisch.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-landwirtschaft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T04:52:21+00:00"
   },
   {
    "t": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
    "s": "Die EU und Kanada gründen in Montreal eine \"Allianz für die Zukunft\". Ziel ist mehr Unabhängigkeit und eine engere Zusammenarbeit von KI bis Raumfahrt. Auch die Ukraine spielt eine Rolle.",
    "u": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
    "q": "Tagesschau",
-   "d": "2026-10-30T18:59:17+00:00"
+   "d": "2026-10-31T03:57:32+00:00"
+  },
+  {
+   "t": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
+   "s": "In Atlanta beraten die G20-Außenminister über internationale Krisen und die Folgen für die Weltwirtschaft. Doch die Gräben zwischen den Teilnehmenden sind tief. Vor allem Russlands Außenminister Lawrow sparte nicht mit Kritik.",
+   "u": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T03:05:42+00:00"
+  },
+  {
+   "t": "US-Regierung genehmigt \"Patriot\"-Lieferungen an Ukraine",
+   "s": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T23:56:24+00:00"
   },
   {
    "t": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
@@ -87,13 +122,6 @@
    "d": "2026-10-30T05:46:43+00:00"
   },
   {
-   "t": "Oppositionspolitikerin Machado: Was bedeutet ihre Rückkehr für Venezuela?",
-   "s": "Die venezolanische Oppositionspolitikerin María Corina Machado ist aus dem Exil zurückgekehrt. Dort ermittelt die Justiz gegen sie wegen Vaterlandverrats - doch sie versteckt sich nicht mehr. Von Jenny Barke.",
-   "u": "https://www.tagesschau.de/ausland/amerika/venezuela-machado-106.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T03:22:31+00:00"
-  },
-  {
    "t": "Frankreich bereitet sich auf neue Schülerproteste vor",
    "s": "Frankreich stellt sich auf ein unruhiges Wochenende ein: Erneut wollen Schüler im ganzen Land gegen die Bildungspolitik protestieren. Denn die ersten Zugeständnisse der Regierung reichen ihnen nicht aus. Von Julia Borutta.",
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html",
@@ -136,39 +164,11 @@
    "d": "2026-10-29T14:04:36+00:00"
   },
   {
-   "t": "Wie Kanada unter Trumps Zöllen leidet",
-   "s": "Beim heute beginnenden Gipfel in Montreal geht es auch darum, wie eng die Zusammenarbeit mit der EU sein wird. In Kanada sind die Erwartungen groß. Denn die Folgen von Trumps Zöllen sind längst spürbar. Von Giselle Ucar.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-trump-eu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T13:12:09+00:00"
-  },
-  {
    "t": "Opiumproduktion in Afghanistan stark gestiegen",
    "s": "Die Taliban haben den Anbau von Schlafmohn und die Herstellung von Opium in Afghanistan 2022 verboten. Nun ist die Produktion den UN zufolge erstmals wieder gestiegen - um 400 Prozent innerhalb eines Jahres.",
    "u": "https://www.tagesschau.de/ausland/asien/afghanistan-zunahme-opiumproduktion-100.html",
    "q": "Tagesschau",
    "d": "2026-10-29T12:50:48+00:00"
-  },
-  {
-   "t": "Zugunglück in Spanien: Der Schock sitzt tief",
-   "s": "In Spanien sitzt der Schock tief über das zweite schwere Zugunglück auf der Hochgeschwindigkeitszugstrecke zwischen Madrid und Andalusien. Mindestens 69 Menschen verloren bei dem Unglück in der Region Toledo ihr Leben. Von Franka Welz.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T11:24:09+00:00"
-  },
-  {
-   "t": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
-   "s": "In Spanien suchen die Rettungskräfte nach dem schweren Zugunglück nach weiteren Opfern in den Waggon-Trümmern. Die Regierung versprach Aufklärung, in Madrid gab es Proteste. Als Unfallursache könnte menschliches Versagen eine Rolle gespielt haben.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T11:22:21+00:00"
-  },
-  {
-   "t": "Steinmeier-Rede in China: \"Mit Größe und Macht kommt große Verantwortung\"",
-   "s": "Bundespräsident Steinmeier hat an der renommierten Peking-Universität eine Rede gehalten. Dabei richtete er klare Forderungen an China - bekundete aber auch seinen Respekt für die Volksrepublik.",
-   "u": "https://www.tagesschau.de/ausland/asien/steinmeier-china-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T11:21:17+00:00"
   }
  ]
 }

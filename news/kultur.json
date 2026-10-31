@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-10-31T00:48:13+00:00",
+ "updated": "2026-10-31T09:40:26+00:00",
  "items": [
+  {
+   "t": "Transnationale Desinformation: Eine Galaxie der Manipulation",
+   "s": "Faktenchecker haben es zunehmend mit Desinformationen zu tun, die sich global verbreiten – auch in Lateinamerika. Beteiligt sind oft ausländische Mächte.",
+   "u": "https://taz.de/Transnationale-Desinformation/!6224025/",
+   "q": "taz",
+   "d": "2026-10-31T08:42:00+00:00"
+  },
   {
    "t": "Quinn Slobodian über Trump und Big Tech: „Wir müssen herausfinden, was wir stattdessen wollen“",
    "s": "Die US-Tech-Giganten sind mit dem MAGA-Staat verschmolzen. Doch diese Entwicklung könnte sich bald wieder umkehren, sagt der Wissenschaftler Quinn Slobodian.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Stoerungen-bei-Starlink/!6223462/",
    "q": "taz",
    "d": "2026-10-23T16:53:00+00:00"
-  },
-  {
-   "t": "Gescheiterte Exekution von Christa Pike: Gerissene Vene schon bei Injektion befürchtet",
-   "s": "Christa Pikes gescheiterte Hinrichtung in Tennessee sorgte weit über die USA hinaus für Aufsehen. Jetzt gibt es neue Details zum Hergang der Hinrichtung.",
-   "u": "https://taz.de/Gescheiterte-Exekution-von-Christa-Pike/!6223992/",
-   "q": "taz",
-   "d": "2026-10-23T07:25:00+00:00"
   }
  ]
 }

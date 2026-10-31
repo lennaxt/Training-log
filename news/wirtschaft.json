@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-31T00:48:09+00:00",
+ "updated": "2026-10-31T09:40:23+00:00",
  "items": [
+  {
+   "t": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
+   "s": "Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T07:45:19+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 30.10.2026",
    "s": "Wirtschaft vor acht vom 30.10.2026",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-automobilindustrie-quartalszahlen-100.html",
    "q": "Tagesschau",
    "d": "2026-10-28T11:58:54+00:00"
-  },
-  {
-   "t": "Wie Meta-Chef Mark Zuckerberg eine Reichensteuer umgehen will",
-   "s": "Kalifornien stimmt bei den Midterms auch über die Einführung einer Reichensteuer ab. In dem US-Bundesstaat leben viele Tech-Milliardäre. Einer von ihnen macht schon mal mobil. Von Gabi Biesinger.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zuckerberg-reichensteuer-usa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T10:17:20+00:00"
   }
  ]
 }
