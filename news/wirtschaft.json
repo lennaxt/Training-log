@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-30T19:55:46+00:00",
+ "updated": "2026-10-31T00:48:09+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 30.10.2026",
+   "s": "Wirtschaft vor acht vom 30.10.2026",
+   "u": "https://www.tagesschau.de/video/video-1675498.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T20:26:47+00:00"
+  },
+  {
+   "t": "Binance will alle Verluste nach Hackerangriff ersetzen",
+   "s": "Nach einem Hackerangriff mit einem Schaden von 6,3 Milliarden Dollar will Binance alle Verluste ersetzen. Der Fall zeigt, wie verwundbar Kryptowerte sind, und wirft Fragen zur Sicherheit digitaler Anlagen auf.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T20:21:33+00:00"
+  },
   {
    "t": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
    "s": "Zum Wochenschluss schwächelt der DAX, nachdem er zuvor viermal in Folge gestiegen war. Auslöser sind der hohe Ölpreis, aber auch schwache Tech-Vorgaben aus Übersee.",
@@ -87,13 +101,6 @@
    "d": "2026-10-29T20:12:03+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 29.10.2026",
-   "s": "Wirtschaft vor acht vom 29.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1674822.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T19:30:50+00:00"
-  },
-  {
    "t": "Kommentar zum \"Tankrabatt\": Die Regierung schmeißt Milliarden aus dem Fenster",
    "s": "Vor vier Wochen ist die Neuauflage des \"Tankrabatts\" in Kraft getreten. Für die Bundesregierung war es eine Beruhigungspille kurz vor den Wahlen, meint Jan Zimmermann. Der Frust an der Tankstelle bleibt jedoch.",
    "u": "https://www.tagesschau.de/kommentar/tankrabatt-ein-monat-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zuckerberg-reichensteuer-usa-100.html",
    "q": "Tagesschau",
    "d": "2026-10-28T10:17:20+00:00"
-  },
-  {
-   "t": "Wo Deutschland noch wachsen kann: Zukunftsmärkte für heimische Firmen",
-   "s": "Die deutsche Wirtschaft hat viele Probleme. Doch bei all den negativen Nachrichten gibt es auch Chancen. Denn auf einigen Märkten der Zukunft haben heimische Unternehmen gute Karten. Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-wachstum-ki-robotik-zukunftsmaerkte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T05:19:59+00:00"
   }
  ]
 }

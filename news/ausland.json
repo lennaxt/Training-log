@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-10-30T19:55:44+00:00",
+ "updated": "2026-10-31T00:48:07+00:00",
  "items": [
+  {
+   "t": "Polen: Tumult und Protest vor dem Verfassungsgericht",
+   "s": "Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei umstellte das Gebäude, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisheigen Gerichtsführung.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T00:43:05+00:00"
+  },
+  {
+   "t": "US-Regierung genehmigt Patriot-Lieferungen an Ukraine",
+   "s": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T23:56:24+00:00"
+  },
   {
    "t": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
    "s": "Die EU und Kanada gründen in Montreal eine \"Allianz für die Zukunft\". Ziel ist mehr Unabhängigkeit und eine engere Zusammenarbeit von KI bis Raumfahrt. Auch die Ukraine spielt eine Rolle.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/steinmeier-china-102.html",
    "q": "Tagesschau",
    "d": "2026-10-29T11:21:17+00:00"
-  },
-  {
-   "t": "US-Zwischenwahlen: Trump holen seine Versprechen ein",
-   "s": "Er werde das Leben in den USA wieder erschwinglich machen, hatte Trump 2024 versprochen. Zwei Jahre danach sieht die Wirklichkeit anders aus - nicht zuletzt an den Zapfsäulen. Das wirkt sich auf die Umfragen vor den Midterms aus. Von J. Schönenborn.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-lebenshaltungskosten-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T08:21:07+00:00"
-  },
-  {
-   "t": "Hoffnung auf unabhängige Medien in Serbien",
-   "s": "Nach der Niederlage der Vucic-Partei in Serbien hoffen viele Menschen wieder auf eine unabhängige Berichterstattung. Eine Initiative fordert den Entzug der Sendelizenz für Informer - einem Propagandasender im Dienste des Ex-Präsidenten. Von S. Hahne.",
-   "u": "https://www.tagesschau.de/ausland/europa/serbien-medien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T06:46:15+00:00"
   }
  ]
 }
