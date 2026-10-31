@@ -1,7 +1,42 @@
 {
  "name": "Umwelt",
- "updated": "2026-10-31T09:40:25+00:00",
+ "updated": "2026-10-31T19:18:24+00:00",
  "items": [
+  {
+   "t": "Bewegung in der Berliner Kantstraße: Kampfplatz Fahrradspur",
+   "s": "In der Kantstraße zeigt sich das Hin und Her der Berliner Verkehrspolitik. Es ist zu hoffen, dass die neue linke Mehrheit dem endlich ein Ende macht.",
+   "u": "https://taz.de/Bewegung-in-der-Berliner-Kantstrasse/!6223220/",
+   "q": "taz",
+   "d": "2026-10-31T18:35:00+00:00"
+  },
+  {
+   "t": "Parteitag der Linken in Berlin: Elif Eralp strahlt vor Freude",
+   "s": "Eine überwältigende Mehrheit stimmt auf dem Parteitag für die Aufnahme von Koalitionsverhandlungen mit Grünen und SPD. Emde demonstriert vor der Halle.",
+   "u": "https://taz.de/Parteitag-der-Linken-in-Berlin/!6223937/",
+   "q": "taz",
+   "d": "2026-10-31T16:24:00+00:00"
+  },
+  {
+   "t": "+++ GenZ regelt +++: Und dann geht's doch noch ab: Pyro, Barrikaden, Polizeigewalt",
+   "s": "Zehntausende demonstrieren für eine bessere Zukunft – mehrheitlich friedlich. Am Abend fliegen an einzelnen Orten Pyros und Flaschen, die Polizei greift an und verletzt einige Demonstrierende.",
+   "u": "https://taz.de/Live-Ticker-GenZ-regelt/!6226335/",
+   "q": "taz",
+   "d": "2026-10-31T13:42:00+00:00"
+  },
+  {
+   "t": "+++ GenZ regelt +++: Und dann geht's doch noch ab: Pyro, Barrikaden, Polizeigewalt",
+   "s": "Zehntausende demonstrieren für eine bessere Zukunft – mehrheitlich friedlich. Am Abend fliegen an einzelnen Orten Pyros und Flaschen, die Polizei greift an und verletzt einige Demonstrierende.",
+   "u": "https://taz.de/Live-Ticker-GenZ-regelt/!6226335/",
+   "q": "taz",
+   "d": "2026-10-31T13:42:00+00:00"
+  },
+  {
+   "t": "Parteitag der Berliner Linken: Elif Eralp gibt sich kämpferisch",
+   "s": "Unter großem Applaus bekräftigt die Linken-Spitzenfrau Eralp ihr Ziel einer rot-grün-roten Koalition. Die Angriffe auf die Linke hätten „jedes Maß verloren“.",
+   "u": "https://taz.de/Elif-Eralp-gibt-sich-kaempferisch/!6226334/",
+   "q": "taz",
+   "d": "2026-10-31T11:05:00+00:00"
+  },
   {
    "t": "Überlebender des ersten NSU-Anschlags: Er redete mit den Wänden darüber, was passiert war",
    "s": "Am 4. November 2011 enttarnte sich der „NSU“ selbst, nachdem er bereits viele Morde begangen hatte. Das erste Opfer bekam kaum Aufmerksamkeit: Serkan Yıldırım.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Bericht-des-Spiegel/!6225931/",
    "q": "taz",
    "d": "2026-10-29T10:07:00+00:00"
-  },
-  {
-   "t": "Erinnerung an die „Polenaktion“ 1938: Die Generalprobe",
-   "s": "Im Oktober 1938 deportieren die Nazis eine jüdische Familie aus dem Rheinland. Ein Foto von damals belegt die Begeisterung ihrer Mitbürger.",
-   "u": "https://taz.de/Erinnerung-an-die-Polenaktion-1938/!6225757/",
-   "q": "taz",
-   "d": "2026-10-29T09:53:00+00:00"
-  },
-  {
-   "t": "Internationale Abkommen über KI-Waffen: Vereint gegen Turbo-Killer-Roboter",
-   "s": "Deutschland und andere Industriestaaten rüsten auf – auch mit künstlicher Intelligenz. Wie kann man verhindern, dass Algorithmen über Leben und Tod entscheiden?",
-   "u": "https://taz.de/Warum-es-einen-internationalen-Stopp-fuer-KI-Waffensysteme-braucht---und-wie-das-gelingen-kann/!6219137/",
-   "q": "taz",
-   "d": "2026-10-29T09:48:00+00:00"
-  },
-  {
-   "t": "„Ulm 5“ vor Gericht: „Es wirkt wie ein Schauprozess“",
-   "s": "Propalästina-Aktivisten haben in einem israelischen Rüstungsunternehmen randaliert. Linke-Politikerin Nicole Gohlke findet die Vorwürfe absurd.",
-   "u": "https://taz.de/Ulm-5-vor-Gericht/!6225498/",
-   "q": "taz",
-   "d": "2026-10-28T19:12:00+00:00"
-  },
-  {
-   "t": "DGB macht Gegenvorschläge zur Regierung: Rentenreform einmal anders",
-   "s": "Das Rentensystem könne auch ohne Einschnitte gerettet werden, sagt eine Kommission des Gewerkschaftsbunds. Zahlen sollen Arbeitgeber und Vermögende.",
-   "u": "https://taz.de/DGB-macht-Gegenvorschlaege-zur-Regierung/!6225680/",
-   "q": "taz",
-   "d": "2026-10-28T17:38:00+00:00"
-  },
-  {
-   "t": "„Gen Z regelt“-Proteste: Keiner muss an Halloween auf die Straße gehen",
-   "s": "Nach den Unruhen von Paris und Mailand fragte die Presse unablässig nach hiesigen Protesten. Niemand muss diese Erwartungshaltung erfüllen.",
-   "u": "https://taz.de/Gen-Z-regelt-Proteste/!6225693/",
-   "q": "taz",
-   "d": "2026-10-28T16:57:00+00:00"
   }
  ]
 }

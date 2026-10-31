@@ -1,7 +1,56 @@
 {
  "name": "Ausland",
- "updated": "2026-10-31T09:40:22+00:00",
+ "updated": "2026-10-31T19:18:22+00:00",
  "items": [
+  {
+   "t": "Erneut Proteste und Zusammenstöße in Frankreich",
+   "s": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der Protestzüge in Alarmbereitschaft. Von J. Borutta.",
+   "u": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T19:02:09+00:00"
+  },
+  {
+   "t": "Midterms in den USA: Kippt ausgerechnet Texas?",
+   "s": "In Texas könnte bei den Zwischenwahlen am Dienstag ein Demokrat das Rennen um den Sitz im US-Senat für sich entscheiden. Dabei gewinnen in dem Bundesstaat seit Jahrzehnten verlässlich die Republikaner. Welche Themen beschäftigen die Wähler? Von S. Schmidt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T18:05:02+00:00"
+  },
+  {
+   "t": "Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache",
+   "s": "Zwei Tage lang haben die G20-Außenminister in Atlanta über internationale Krisen beraten. Es ging dabei vor allem um die Folgen für die Weltwirtschaft. Überlagert wurde das Treffen von Spannungen - vor allem mit Russland. Von M. Sambale.",
+   "u": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T16:54:43+00:00"
+  },
+  {
+   "t": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
+   "s": "Nach der Evakuierung der von Russland besetzten Stadt Oleschky sind gerettete Bewohner in ukrainisch kontrolliertem Gebiet angekommen. Zuvor waren sie mit Militärflugzeugen nach Belarus gebracht worden.",
+   "u": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T15:06:39+00:00"
+  },
+  {
+   "t": "Der Kampf um das polnische Verfassungsgericht eskaliert",
+   "s": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude gab es erneut Proteste.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T13:57:56+00:00"
+  },
+  {
+   "t": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden",
+   "s": "Auch rund eine Woche nach ihrem Wahlsieg in Serbien staunt die Studentenbewegung noch über ihren Erfolg. Ihre Mitglieder merken aber im Alltag: Das System von Ex-Präsident Vucic verschwindet nicht über Nacht. Von A. Bachmann und I. Bafas.",
+   "u": "https://www.tagesschau.de/ausland/europa/serbien-studenten-nach-wahlsieg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T12:08:42+00:00"
+  },
+  {
+   "t": "Zwei Sullivans in Alaska - wollen Demokraten die Wahl manipulieren?",
+   "s": "In Alaska deutet sich bei den US-Zwischenwahlen ein knappes Rennen um den Senatsposten an. Der republikanische Amtsinhaber Sullivan kämpft auch mit namensgleicher Konkurrenz. Ein Foul der Demokraten? Nun klagt das Justizministerium.",
+   "u": "https://www.tagesschau.de/ausland/amerika/midterms-alaska-sullivan-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T10:51:32+00:00"
+  },
   {
    "t": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
    "s": "Es war die größte gemeinsame Aktion von Ukrainern und Russen seit Kriegsbeginn: Mit 25 Bussen wurden Menschen aus der Frontstadt Oleschky gebracht. Ein Teil von ihnen ist bereits in Belarus angekommen, um in die Ukraine weiterzureisen.",
@@ -11,7 +60,7 @@
   },
   {
    "t": "Arabische Parteien in Israel stecken in einem Dilemma",
-   "s": "Die arabischen Listen in Israel haben bei der Parlamentswahl große Erfolge erzielt. Sie traten gemeinsam an, unterscheiden sich aber inhaltlich. Vor allem wollen sie nicht nur Mehrheitsbeschaffer sein. Von Julia Segador.",
+   "s": "Die arabischen Listen in Israel haben bei der Parlamentswahl große Erfolge erzielt. Sie traten gemeinsam an, unterscheiden sich aber inhaltlich. Vor allem wollen sie nicht nur Mehrheitsbeschaffer sein. Von Julio Segador.",
    "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html",
    "q": "Tagesschau",
    "d": "2026-10-31T08:49:15+00:00"
@@ -73,13 +122,6 @@
    "d": "2026-10-30T17:23:20+00:00"
   },
   {
-   "t": "Nach gescheiterter Hinrichtung: Pike beklagt ständige Schmerzen",
-   "s": "Als erste Frau seit 200 Jahren sollte Christa Pike in Tennessee hingerichtet werden. Doch sie überlebte die Gabe eines eigentlich tödlichen Medikaments. In einer ersten Stellungnahme berichtet sie von ständigen Schmerzen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/pike-aeussert-sich-erstmals-nach-gescheiterter-hinrichtung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T15:46:27+00:00"
-  },
-  {
    "t": "Wahl-Patt in Israel: Regierungsbildung nicht in Sicht",
    "s": "Das Endergebnis der Wahl in Israel bringt für keinen Parteienblock eine regierungsfähige Mehrheit. Jetzt könnten die arabischen Parteien zum Zuge kommen. Doch aus dem Netanjahu-Lager kommen neue Vorwürfe. Konkurrent Eisenkot reagiert. Von Tim Aßmann.",
    "u": "https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html",
@@ -99,27 +141,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/merz-asienreise-suedkorea-100.html",
    "q": "Tagesschau",
    "d": "2026-10-30T11:14:51+00:00"
-  },
-  {
-   "t": "G20-Außenministertreffen mit Lawrow und Wadephul in Atlanta",
-   "s": "Die Außenminister der G20-Staaten treffen sich in den USA. Mit dabei ist auch Russlands Vertreter Lawrow. Für Deutschland nimmt Minister Wadephul teil. Das Treffen könnte beim Umgang mit Russland eine Art Generalprobe für den G20-Gipfel sein.",
-   "u": "https://www.tagesschau.de/ausland/amerika/aussenministertreffen-usa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T10:37:11+00:00"
-  },
-  {
-   "t": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
-   "s": "Gemeinsam unabhängiger werden - das ist das große Ziel der angestrebten neuen Allianz zwischen Kanada und der EU. Ein Beispiel: die Zusammenarbeit im Bereich Künstlicher Intelligenz. Von Giselle Ucar.",
-   "u": "https://www.tagesschau.de/ausland/amerika/eu-kanada-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T06:38:08+00:00"
-  },
-  {
-   "t": "EU-Kanada-Gipfel: \"Die neue Allianz ist keine Marketing-Übung\"",
-   "s": "Beim EU-Kanada-Gipfel ging es auf europäischer Seite bislang viel darum, wie die neue Allianz denn heißen soll. Kanadas Premier Carney sagt dazu: \"Der Name ist egal.\" Heute sollen konkrete Vereinbarungen folgen. Von Martin Ganslmeier.",
-   "u": "https://www.tagesschau.de/ausland/amerika/eu-kanada-zweiter-tag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T05:46:43+00:00"
   },
   {
    "t": "Frankreich bereitet sich auf neue Schülerproteste vor",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html",
    "q": "Tagesschau",
    "d": "2026-10-29T16:59:55+00:00"
-  },
-  {
-   "t": "Südafrika bewirbt sich mit der Stadt Durban um Olympia",
-   "s": "Noch nie hat ein afrikanischer Staat Olympische oder Paralympische Spiele ausgerichtet. Südafrika schickt nun Durban für 2036 und 2040 ins Bewerberrennen - einer von derzeit sechs Konkurrenten für München.",
-   "u": "https://www.tagesschau.de/ausland/afrika/suedafrika-olympia-bewerbung-durban-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T16:52:47+00:00"
-  },
-  {
-   "t": "Zahlreiche Tote bei Angriff auf Bahnhof in Dnipro",
-   "s": "Eine russische Drohne hat nach ukrainischen Angaben am Bahnhof von Dnipro mindestens 14 Menschen getötet. Während Russland und die Ukraine sich weiter gegenseitig mit Drohnen angreifen, hält die Waffenruhe in der Frontstadt Oleschky.",
-   "u": "https://www.tagesschau.de/ausland/europa/russland-ukraine-angriffe-120.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T14:04:36+00:00"
-  },
-  {
-   "t": "Opiumproduktion in Afghanistan stark gestiegen",
-   "s": "Die Taliban haben den Anbau von Schlafmohn und die Herstellung von Opium in Afghanistan 2022 verboten. Nun ist die Produktion den UN zufolge erstmals wieder gestiegen - um 400 Prozent innerhalb eines Jahres.",
-   "u": "https://www.tagesschau.de/ausland/asien/afghanistan-zunahme-opiumproduktion-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T12:50:48+00:00"
   }
  ]
 }

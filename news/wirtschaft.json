@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-10-31T09:40:23+00:00",
+ "updated": "2026-10-31T19:18:23+00:00",
  "items": [
+  {
+   "t": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
+   "s": "Ein Bergbaukonzern aus Hessen kontrolliert rund 30 Prozent des Weltmarktes für hochreine Pharmasalze. Was dort abgebaut wird, ist für viele Menschen überlebenswichtig. Von Christof Dörr.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/salz-142.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T16:21:31+00:00"
+  },
   {
    "t": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
    "s": "Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
    "q": "Tagesschau",
    "d": "2026-10-29T06:20:37+00:00"
-  },
-  {
-   "t": "Mercedes hat noch größere Probleme im chinesischen Markt",
-   "s": "Mercedes hat im dritten Quartal in seiner Autosparte operativ deutlich weniger verdient. Vor allem das schlechte China-Geschäft setzt dem Konzern zu. Die Strategie für den weltgrößten Automarkt will er nun überdenken.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-automobilindustrie-quartalszahlen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T11:58:54+00:00"
   }
  ]
 }

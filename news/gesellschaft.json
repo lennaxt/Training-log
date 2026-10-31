@@ -1,7 +1,49 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-10-31T09:40:25+00:00",
+ "updated": "2026-10-31T19:18:24+00:00",
  "items": [
+  {
+   "t": "Polens Rechte verteidigt ihre Bastion: Machtkampf um Polens Verfassungsgericht entbrannt",
+   "s": "Die Führung von Polens Verfassungsgericht ist abgesetzt. Die PiS mobilisiert auf der Straße. Und Präsident Nawrocki bangt um ein Machtinstrument.",
+   "u": "https://taz.de/Polens-Rechte-verteidigt-ihre-Bastion/!6226349/",
+   "q": "taz",
+   "d": "2026-10-31T19:01:00+00:00"
+  },
+  {
+   "t": "Geldverschwendung bei der Aufrüstung: Die nationalen Süppchen sind ganz besonders teuer",
+   "s": "Die Rüstungsbeschaffung in Europa ist alles andere als effizient, zeigt eine Arte-Doku. Deutschland gibt besonders viel „stupid German money“ aus.",
+   "u": "https://taz.de/Geldverschwendung-bei-der-Aufruestung/!6223297/",
+   "q": "taz",
+   "d": "2026-10-31T19:00:00+00:00"
+  },
+  {
+   "t": "Frankreichs Staat sucht die Kraftprobe: Organisierte Konfusion",
+   "s": "Kundgebungen im Zentrum wurden von Fall zu Fall erlaubt, dann wieder verboten oder wie in Paris an den Stadtrand verbannt. Eine zunehmend autoritäre Staatsführung möchte die Protestbewegung in die Illegalität treiben.",
+   "u": "https://taz.de/Frankreichs-Staat-sucht-die-Kraftprobe/!6226350/",
+   "q": "taz",
+   "d": "2026-10-31T18:58:00+00:00"
+  },
+  {
+   "t": "Anarchistische Demo in Athen: Hunderte gedenken Kyriakos Xymitiris",
+   "s": "Vor dem griechischen Parlament haben am Samstag Un­ter­stüt­ze­r:in­nen an den 2024 bei einer Explosion getöteten Anarchisten erinnert. Und die Freilassung zwei seiner Mitstreiterinnen gefordert.",
+   "u": "https://taz.de/Anarchistische-Demo-in-Athen/!6226348/",
+   "q": "taz",
+   "d": "2026-10-31T15:53:00+00:00"
+  },
+  {
+   "t": "Vor Commonwealth-Treffen: Burnham offen für eine Entschuldigung für Sklaverei",
+   "s": "Premier Andy Burnham kann sich ein offizielles Pardon für Großbritanniens Rolle beim transatlantischen Menschenhandel vorstellen. Reparationszahlungen schließt er aber aus.",
+   "u": "https://taz.de/Burnham-offen-fuer-offizielle-Entschuldigung-fuer-Sklavenhandel/!6226344/",
+   "q": "taz",
+   "d": "2026-10-31T13:02:00+00:00"
+  },
+  {
+   "t": "Staatskrise in Polen: Heftiger Machtkampf um das Verfassungsgericht entbrannt",
+   "s": "Polens rechtskonservativer Präsident und die Mitte-Links-Regierung streiten um die Besetzung des Verfassungsgerichts. Demonstranten belagern das Gerichtsgebäude.",
+   "u": "https://taz.de/Heftiger-Machtkampf-um-Polens-Verfassungsgericht-entbrannt/!6226337/",
+   "q": "taz",
+   "d": "2026-10-31T10:29:00+00:00"
+  },
   {
    "t": "+++ Nachrichten im Ukraine-Krieg +++: USA genehmigen Verkauf von 500 Patriot-Raketen an Ukraine",
    "s": "Die Ukraine soll Patriots für zwei Milliarden Dollar bekommen, bezahlt von Deutschland, Kanada, Norwegen und der EU. Aber es gibt noch keinen Liefertermin.",
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Nach-der-Parlamentswahl-in-Serbien/!6225647/",
    "q": "taz",
    "d": "2026-10-28T13:33:00+00:00"
-  },
-  {
-   "t": "Politikprofessor über linke Wahlerfolge: „Politik ist veränderbar“",
-   "s": "Linke Wahlerfolge sind noch keine Trendwende, sagt Politikwissenschaftler Klaus Schlichte. Warum er trotzdem Hoffnung hat.",
-   "u": "https://taz.de/Politikprofessor-ueber-linke-Wahlerfolge/!6225408/",
-   "q": "taz",
-   "d": "2026-10-28T13:02:00+00:00"
-  },
-  {
-   "t": "Zugunglück in Spanien: Menschliches Versagen und keine Chance zu bremsen",
-   "s": "Bei einem neuen Zugunglück in Spanien kommen mindestens 68 Menschen ums Leben. Die rechtsextreme Vox macht die Katastrophe sofort zum Wahlkampfthema.",
-   "u": "https://taz.de/Zugunglueck-in-Spanien/!6225656/",
-   "q": "taz",
-   "d": "2026-10-28T12:19:00+00:00"
-  },
-  {
-   "t": "Russische Prozesse gegen Senioren: Selbst Demenzerkrankte kommen ins Straflager",
-   "s": "Russische Behörden sind auch bei alten und kranken Menschen gnadenlos. Ein betagter Bürgerrechtsaktivist wurde nun zu 18 Jahren Haft verurteilt.",
-   "u": "https://taz.de/Russische-Prozesse-gegen-Senioren/!6225579/",
-   "q": "taz",
-   "d": "2026-10-28T12:10:00+00:00"
-  },
-  {
-   "t": "Repressionen in Russland: 79 politische Gefangene in Haft verstorben",
-   "s": "Immer mehr Menschen werden in Russland wegen vorgeblicher Terrorismusvorwürfe verurteilt. Inzwischen überleben viele die Haft nicht mehr.",
-   "u": "https://taz.de/Repressionen-in-Russland/!6225434/",
-   "q": "taz",
-   "d": "2026-10-28T10:14:00+00:00"
-  },
-  {
-   "t": "Terrorverdacht in Serbien: Anschlag auf Polizisten vor israelischer Botschaft",
-   "s": "Erneut wird ein Wachbeamter vor der israelischen Botschaft in Belgrad angegriffen. Laut Behörden war der mutmaßliche Angreifer als Anhänger des IS bekannt.",
-   "u": "https://taz.de/Terrorverdacht-in-Serbien/!6225583/",
-   "q": "taz",
-   "d": "2026-10-28T08:27:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Bundesregierung: Norwegisch-finnische Friedensinitiative war abgesprochen",
-   "s": "Das Telefonat von Finnland und Norwegen mit Putin war laut Bundesregierung abgesprochen. Die Waffenruhe in Oleschky hält an.",
-   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6225572/",
-   "q": "taz",
-   "d": "2026-10-28T08:21:00+00:00"
   }
  ]
 }

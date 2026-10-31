@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-10-31T09:40:26+00:00",
+ "updated": "2026-10-31T19:18:25+00:00",
  "items": [
+  {
+   "t": "Uruguays Holzindustrie auf dem Prüfstand: Ein Abkommen mit grünem Anstrich",
+   "s": "Am Río de la Plata zeigt sich die Kehrseite einer monokulturellen Forstwirtschaft. Sie verbraucht riesige Mengen an Wasser und schadet der Umwelt.",
+   "u": "https://taz.de/Uruguays-Holzindustrie-auf-dem-Pruefstand/!6224032/",
+   "q": "taz",
+   "d": "2026-10-31T15:10:00+00:00"
+  },
+  {
+   "t": "Brasilien und der Regenwald: Vergesst kurz die USA – und schaut nach Brasilien",
+   "s": "Der Wahlsieg Lula da Silvas in Brasilien ist nicht nur ein Erfolg gegen den Bolsonarismus. Sondern auch eine Hoffnung für den Regenwald.",
+   "u": "https://taz.de/Brasilien-und-der-Regenwald/!6226343/",
+   "q": "taz",
+   "d": "2026-10-31T12:31:00+00:00"
+  },
   {
    "t": "Transnationale Desinformation: Eine Galaxie der Manipulation",
    "s": "Faktenchecker haben es zunehmend mit Desinformationen zu tun, die sich global verbreiten – auch in Lateinamerika. Beteiligt sind oft ausländische Mächte.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Audi-Chef-Doellner-zu-Besuch-bei-Trump/!6224792/",
    "q": "taz",
    "d": "2026-10-25T15:08:00+00:00"
-  },
-  {
-   "t": "Wahlkampf im US-Bundesstaat Michigan: Abdul El-Sayed auf den Spuren von Barack Obama",
-   "s": "Ausgerechnet im Arbeiterstaat Michigan setzen die Demokraten für die Senatswahl auf einen jungen linken Muslim. Es ist eine riskante Strategie.",
-   "u": "https://taz.de/Wahlkampf-im-US-Bundesstaat-Michigan/!6224815/",
-   "q": "taz",
-   "d": "2026-10-25T12:41:00+00:00"
-  },
-  {
-   "t": "Störungen bei Starlink: Der Donald, der Elon und die Frage der Schuld",
-   "s": "Elon Musks satellitenbasiertes Internet Starlink kann von der Ukraine derzeit nur in gedrosselter Geschwindigkeit im Krieg genutzt werden. Na sowas?",
-   "u": "https://taz.de/Stoerungen-bei-Starlink/!6223462/",
-   "q": "taz",
-   "d": "2026-10-23T16:53:00+00:00"
   }
  ]
 }
