@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-01T00:08:35+00:00",
+ "updated": "2026-11-01T10:28:48+00:00",
  "items": [
+  {
+   "t": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
+   "s": "Ob bei der Entwicklung neuer Produkte, in der Werbung oder bei der Gestaltung des eigenen Zuhauses: KI ist im Alltag angekommen. Sie spart oft Zeit, wirft aber auch Fragen nach Kreativität, Arbeitsplätzen und Vertrauen auf. Von Anke Heinhaus.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/ki-veraenderung-wirtschaft-alltag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T08:00:49+00:00"
+  },
+  {
+   "t": "Warnstreiks der IG Metall kurz nach Mitternacht angelaufen",
+   "s": "Die IG Metall hat \"starke Warnstreiks\" angekündigt - und in der Nacht damit begonnen. Die Gewerkschaft will damit Druck in den Tarifverhandlungen machen. Betroffen sind wichtige Industriezweige wie Auto oder Maschinenbau.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T03:48:45+00:00"
+  },
   {
    "t": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
    "s": "Ein Bergbaukonzern aus Hessen kontrolliert rund 30 Prozent des Weltmarktes für hochreine Pharmasalze. Was dort abgebaut wird, ist für viele Menschen überlebenswichtig. Von Christof Dörr.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-milliardenverlust-102.html",
    "q": "Tagesschau",
    "d": "2026-10-29T08:16:16+00:00"
-  },
-  {
-   "t": "Bruttoökosystemprodukt: Was die Natur wert ist",
-   "s": "Wirtschaftswachstum gilt als Zeichen von Wohlstand. Leistungen der Natur bleiben dabei außen vor. Das Bruttoökosystemprodukt soll den Wert von Ökosystemen messbar machen. In China entscheiden sich daran bereits Bauprojekte und Politikerkarrieren.Von Tomma Schröder",
-   "u": "https://www.deutschlandfunk.de/bruttooekosystemprodukt-boep-gep-natur-wert-wohlstand-wirtschaft-china-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-29T08:00:00+00:00"
-  },
-  {
-   "t": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
-   "s": "Kanzler Merz und andere EU-Regierungschefs haben die Kanada-Pläne von EU-Kommissionspräsidentin von der Leyen abgeschwächt - kurz vor dem heute beginnenden EU-Kanada-Gipfel. Von einer \"assoziierten Mitgliedschaft\" ist nicht mehr die Rede. Von S. Fritz.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T06:20:37+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-11-01T00:08:38+00:00",
+ "updated": "2026-11-01T10:28:52+00:00",
  "items": [
+  {
+   "t": "Midterm Elections: Wer? Wann? Was? Wie?",
+   "s": "Die Zwischenwahlen am 3. November können entscheidend sein für die Zukunft der USA. Aber was passiert da genau und worauf kommt es an? Ein Überblick.",
+   "u": "https://taz.de/US-Midterms-Ein-Ueberblick-zu-den-Wahlen-am-3-November/!6223224/",
+   "q": "taz",
+   "d": "2026-11-01T08:45:00+00:00"
+  },
   {
    "t": "Uruguays Holzindustrie auf dem Prüfstand: Ein Abkommen mit grünem Anstrich",
    "s": "Am Río de la Plata zeigt sich die Kehrseite einer monokulturellen Forstwirtschaft. Sie verbraucht riesige Mengen an Wasser und schadet der Umwelt.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/US-Philosophin-ueber-Midterms/!6219042/",
    "q": "taz",
    "d": "2026-10-25T15:09:00+00:00"
-  },
-  {
-   "t": "Audi-Chef Döllner zu Besuch bei Trump: Ingolstädter Autobauer plant neues SUV-Werk in den USA",
-   "s": "Bei einem Wahlkampf-Event des US-Präsidenten verspricht Audi-Chef Döllner ein neue Fertigungsstätte in Georgia. Deutsche Fabriken stehen auf der Kippe.",
-   "u": "https://taz.de/Audi-Chef-Doellner-zu-Besuch-bei-Trump/!6224792/",
-   "q": "taz",
-   "d": "2026-10-25T15:08:00+00:00"
   }
  ]
 }

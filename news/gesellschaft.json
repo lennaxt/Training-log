@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-01T00:08:37+00:00",
+ "updated": "2026-11-01T10:28:51+00:00",
  "items": [
+  {
+   "t": "Stichwahl in Bulgarien: Prowestlicher Herausforderer kämpft um das Präsidentenamt",
+   "s": "Bulgarien wählt einen neuen Staatschef. Die Stichwahl zeichnet sich als dramatisch ab. Zuvor erreichte Präsidentin Jotowa ein bescheidenes Ergebnis.",
+   "u": "https://taz.de/Stichwahl-in-Bulgarien/!6226356/",
+   "q": "taz",
+   "d": "2026-11-01T08:20:00+00:00"
+  },
   {
    "t": "Polens Rechte verteidigt ihre Bastion: Machtkampf um Polens Verfassungsgericht entbrannt",
    "s": "Die Führung von Polens Verfassungsgericht ist abgesetzt. Die PiS mobilisiert auf der Straße. Und Präsident Nawrocki bangt um ein Machtinstrument.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Verhandlungsversuche-fuer-Ukraine-Frieden/!6225651/",
    "q": "taz",
    "d": "2026-10-28T16:57:00+00:00"
-  },
-  {
-   "t": "Nach der Parlamentswahl in Serbien: Gefährliches Vakuum in Belgrad",
-   "s": "Bis zur Bildung einer Regierung in Serbien kann es dauern. Diese Zeit könnten der Wahlverlierer Vučić und seine Gefolgsleute versuchen für sich zu nutzen.",
-   "u": "https://taz.de/Nach-der-Parlamentswahl-in-Serbien/!6225647/",
-   "q": "taz",
-   "d": "2026-10-28T13:33:00+00:00"
   }
  ]
 }

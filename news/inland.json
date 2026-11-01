@@ -1,7 +1,70 @@
 {
  "name": "Inland",
- "updated": "2026-11-01T00:08:33+00:00",
+ "updated": "2026-11-01T10:28:46+00:00",
  "items": [
+  {
+   "t": "\"Gen Z regelt\" will Demos fortsetzen",
+   "s": "Das Fazit der Organisatoren der \"Gen Z regelt\"-Proteste fällt positiv aus - trotz der vereinzelten Gewalt. Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein Sprecher. Der Protest soll bald weitergehen.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T09:45:30+00:00"
+  },
+  {
+   "t": "Krypto-Börse Binance: FBI macht Nordkorea für Hack bei Krypto-Börse verantwortlich",
+   "s": "US-Bundespolizei identifiziert Hackergruppe hinter dem Angriff auf die weltgrößte Kyptobörse. Die meldet Ersatz für 90 Prozent der gestohlenen Werte.",
+   "u": "https://taz.de/Krypto-Boerse-Binance/!6226367/",
+   "q": "taz",
+   "d": "2026-11-01T09:42:00+00:00"
+  },
+  {
+   "t": "Folgen der neuen Grundsicherung: Bloß nicht für die Kinder sparen",
+   "s": "Nach der Abwicklung des Bürgergelds bekommt Patrick Schröder für seine Kinder kein Geld mehr vom Amt. Ihn trifft die neue Härte und eine komplexe Regel.",
+   "u": "https://taz.de/Folgen-der-neuen-Grundsicherung/!6226309/",
+   "q": "taz",
+   "d": "2026-11-01T09:32:00+00:00"
+  },
+  {
+   "t": "Midterm Elections: Wer? Wann? Was? Wie?",
+   "s": "Die Zwischenwahlen am 3. November können entscheidend sein für die Zukunft der USA. Aber was passiert da genau und worauf kommt es an? Ein Überblick.",
+   "u": "https://taz.de/US-Midterms-Ein-Ueberblick-zu-den-Wahlen-am-3-November/!6223224/",
+   "q": "taz",
+   "d": "2026-11-01T08:45:00+00:00"
+  },
+  {
+   "t": "Microcars boomen - aber wie sicher sind sie?",
+   "s": "Sie sehen aus wie Kleinwagen, sind aber keine: Microcars sind maximal 45 km/h schnell und dürfen in Deutschland schon ab 15 Jahren gefahren werden. Wie sicher sind die beliebten Mini-Autos? Von Hermann Scholz.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/microcars-sicherheit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T08:41:59+00:00"
+  },
+  {
+   "t": "Stichwahl in Bulgarien: Prowestlicher Herausforderer kämpft um das Präsidentenamt",
+   "s": "Bulgarien wählt einen neuen Staatschef. Die Stichwahl zeichnet sich als dramatisch ab. Zuvor erreichte Präsidentin Jotowa ein bescheidenes Ergebnis.",
+   "u": "https://taz.de/Stichwahl-in-Bulgarien/!6226356/",
+   "q": "taz",
+   "d": "2026-11-01T08:20:00+00:00"
+  },
+  {
+   "t": "50 Jahre Frauenhäuser in Deutschland: „Hör mal, wir wollen ein Frauenhaus eröffnen“",
+   "s": "Tomi Tomek arbeitete im ersten Frauenhaus Deutschlands, das vor genau 50 Jahren entstand. Mit der taz spricht sie über Sicherheit, Solidarität und Mut.",
+   "u": "https://taz.de/50-Jahre-Frauenhaeuser-in-Deutschland/!6225607/",
+   "q": "taz",
+   "d": "2026-11-01T08:14:00+00:00"
+  },
+  {
+   "t": "Steinmeier zu KI: \"Nicht das Ob steht zur Frage, sondern das Wie\"",
+   "s": "Zum Abschluss seiner China-Reise hat Bundespräsident Steinmeier vor den Risiken Künstlicher Intelligenz für die Demokratie gewarnt. Über Fortschritte im Handelskonflikt zwischen Europa und China äußerte er sich vorsichtig optimistisch. Von D. Hebestreit und M. Deiß.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T08:01:11+00:00"
+  },
+  {
+   "t": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+   "s": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Sie hatten sich offenbar teils gezielt unter die Demos gemischt.",
+   "u": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T07:47:42+00:00"
+  },
   {
    "t": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
    "s": "Bessere Bildung, mehr Klimaschutz und bezahlbarer Wohnraum - dafür sind Zehntausende in vielen deutschen Städten auf die Straße gezogen. Die Proteste der \"Gen Z regelt\" blieben weitgehend friedlich. Doch am Abend kam es zu einigen Ausschreitungen.",
@@ -106,69 +169,6 @@
    "u": "https://taz.de/Transnationale-Desinformation/!6224025/",
    "q": "taz",
    "d": "2026-10-31T08:42:00+00:00"
-  },
-  {
-   "t": "Überlebender des ersten NSU-Anschlags: Er redete mit den Wänden darüber, was passiert war",
-   "s": "Am 4. November 2011 enttarnte sich der „NSU“ selbst, nachdem er bereits viele Morde begangen hatte. Das erste Opfer bekam kaum Aufmerksamkeit: Serkan Yıldırım.",
-   "u": "https://taz.de/Ueberlebender-des-ersten-NSU-Anschlags/!6223257/",
-   "q": "taz",
-   "d": "2026-10-31T08:31:00+00:00"
-  },
-  {
-   "t": "Klimaökonom Edenhofer: CO2-Einsparungen reichen nicht aus",
-   "s": "Die Erdatmosphäre wird wärmer. Um dies aufzuhalten, braucht es auch technische Innovationen, sagt der Klimaökonom Ottmar Edenhofer: Die Temperaturkurve lasse sich nur mit Negativemissionstechnologie \"zurückbiegen\".Thoms, Katharina",
-   "u": "https://www.deutschlandfunk.de/interview-der-woche-mit-ottmar-edenhofer-chefoekonom-pik-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-31T08:13:00+00:00"
-  },
-  {
-   "t": "Ebola im Kongo: Schon mehr als 5.000 Ebola-Tote im Kongo",
-   "s": "Erst vor wenigen Tagen wurden aus dem Kongo mehr als 10.000 Ebola-Fälle gemeldet, auch die Zahl der Toten steigt. Ein Ende ist nicht in Sicht.",
-   "u": "https://taz.de/Ebola-im-Kongo/!6226330/",
-   "q": "taz",
-   "d": "2026-10-31T08:12:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: USA genehmigen Verkauf von 500 Patriot-Raketen an Ukraine",
-   "s": "Die Ukraine soll Patriots für zwei Milliarden Dollar bekommen, bezahlt von Deutschland, Kanada, Norwegen und der EU. Aber es gibt noch keinen Liefertermin.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6226329/",
-   "q": "taz",
-   "d": "2026-10-31T08:00:00+00:00"
-  },
-  {
-   "t": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
-   "s": "Die Berliner Linke entscheidet heute über den Start von Koalitionsverhandlungen mit SPD und Grünen. Überschattet wird der Parteitag von Antisemitismusvorwürfen und einem Spiegel-Bericht. Von Frank Aischmann.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T07:43:12+00:00"
-  },
-  {
-   "t": "Schwerdtner (Linke): Spiegel-Titelstory \"kompletter Wahnsinn\"",
-   "s": "Die aktuelle Diskussion um Elif Eralp soll sie diffamieren, sagt Linken-Vorsitzende Ines Schwerdtner: Der Skandal solle vom eigentlichen Thema ablenken – nämlich dem, was die Linke in Berlin politisch umsetzen möchte.Brandes, Rainer",
-   "u": "https://www.deutschlandfunk.de/interview-mit-ines-schwerdtner-linke-vs-zu-parteitag-und-koalition-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-31T07:20:00+00:00"
-  },
-  {
-   "t": "Wadephul: Verhandlungen zwischen Russland und Ukraine bald möglich",
-   "s": "Außenminister Wadephul ist beim G20-Treffen zuversichtlich, dass es bald ernsthafte Verhandlungen zwischen Russland und der Ukraine geben könne. Dass auch der russische Außenminister Lawrow am G20-Treffen teilnimmt, sieht er als Chance zum Dialog.Wurzel, Steffen",
-   "u": "https://www.deutschlandfunk.de/interview-johann-wadephul-cdu-aussenminister-zu-russland-und-das-g20-treffen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-31T06:16:00+00:00"
-  },
-  {
-   "t": "Jugendproteste in mehr als 30 Städten geplant",
-   "s": "Wachsende Unzufriedenheit und Zukunftsängste: Die GenZ protestiert bundesweit für bessere Bildung, Klimaschutz und mehr politische Teilhabe. In mehr als 30 Städten sind Demonstrationen angekündigt. Von Jan Koch.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T04:52:31+00:00"
-  },
-  {
-   "t": "„Der Spiegel“ und Elif Eralp: Lieber vor der eigenen Haustür kehren",
-   "s": "Wer den Medien die Schuld an den Problemen der Linken gibt, erkennt den Ernst der Lage nicht. Elif Eralp zeigt, wo die blinden Flecken der Partei liegen.",
-   "u": "https://taz.de/Der-Spiegel-und-Elif-Eralp/!6226304/",
-   "q": "taz",
-   "d": "2026-10-30T18:30:00+00:00"
   }
  ]
 }

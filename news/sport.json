@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-11-01T00:08:39+00:00",
+ "updated": "2026-11-01T10:28:53+00:00",
  "items": [
+  {
+   "t": "Krypto-Börse Binance: FBI macht Nordkorea für Hack bei Krypto-Börse verantwortlich",
+   "s": "US-Bundespolizei identifiziert Hackergruppe hinter dem Angriff auf die weltgrößte Kyptobörse. Die meldet Ersatz für 90 Prozent der gestohlenen Werte.",
+   "u": "https://taz.de/Krypto-Boerse-Binance/!6226367/",
+   "q": "taz",
+   "d": "2026-11-01T09:42:00+00:00"
+  },
   {
    "t": "Chinas Kommunistische Partei: Xi Jinping bringt seine Parteiführung auf Linie",
    "s": "Beim 5. Plenum des derzeitigen Zentralkomitees stellt Xi Jinping die Weichen für seine nächste Amtszeit. „Säuberungen“ sind zum Dauerzustand geworden.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Buergerkrieg-in-Myanmar/!6217256/",
    "q": "taz",
    "d": "2026-09-29T15:38:00+00:00"
-  },
-  {
-   "t": "Seoul verlangt Entschuldigung: Südkorea wirft Ukraine Geheimnisverrat vor",
-   "s": "Zwischen Seoul und Kyjiw knirscht es. Auslöser ist der Umgang mit der Überstellung zweier in der Ukraine gefangener nordkoreanischer Soldaten nach Südkorea.",
-   "u": "https://taz.de/Seoul-verlangt-Entschuldigung/!6217014/",
-   "q": "taz",
-   "d": "2026-09-28T15:25:00+00:00"
   }
  ]
 }

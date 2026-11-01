@@ -1,7 +1,42 @@
 {
  "name": "Ausland",
- "updated": "2026-11-01T00:08:34+00:00",
+ "updated": "2026-11-01T10:28:47+00:00",
  "items": [
+  {
+   "t": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
+   "s": "In vielen europäischen Ländern gehen momentan junge Menschen auf die Straße - auch in Portugal. Dort richten sich die Demonstrationen vor allem gegen die Wohnungsnot. Die Polizei ging hart gegen ein Protestcamp in Lissabon vor.",
+   "u": "https://www.tagesschau.de/ausland/portugal-protest-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T09:46:44+00:00"
+  },
+  {
+   "t": "Ukraine: Zehn Tage gegen den Krieg im Kopf",
+   "s": "In den ukrainischen Karpaten versuchen Soldatinnen und Soldaten, für ein paar Tage Abstand vom Krieg zu gewinnen. Doch die Erinnerungen lassen sich nicht einfach abschütteln. Von Susanne Petersohn.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-erholung-soldaten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T08:43:57+00:00"
+  },
+  {
+   "t": "Bunte \"Tag der Toten\"-Parade zieht durch Mexiko-Stadt",
+   "s": "Schaurige Skelette, elegante Catrinas: In Mexiko-Stadt hat zum zehnten Mal eine Parade zum \"Tag der Toten\" stattgefunden. Das farbenfrohe Schauspiel geht auf einen Bond-Film zurück, die Traditionen dahinter sind viel älter.",
+   "u": "https://www.tagesschau.de/ausland/mexiko-feierlichkeiten-november-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T07:57:56+00:00"
+  },
+  {
+   "t": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
+   "s": "Nach seiner Wahlniederlage setzte sich der brasilianische Präsidentschaftskandidat Flávio Bolsonaro in die USA ab. Dort darf er bleiben - \"so lange, wie er will\", sagte Präsident Trump. Treffen will er Bolsonaro vorerst nicht.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-bolsonaro-usa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T07:45:02+00:00"
+  },
+  {
+   "t": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
+   "s": "Polens Präsident drängt sich mit Körpereinsatz ins Verfassungsgericht und drückt eine Richterin nach unten. Nun äußert sich Regierungschef Tusk zu dem Vorfall. Der Opposition wirft er einen Angriff auf Demokratie und Rechtsstaat vor.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T04:26:15+00:00"
+  },
   {
    "t": "Erneut Proteste und Zusammenstöße in Frankreich",
    "s": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der Protestzüge in Alarmbereitschaft. Von J. Borutta.",
@@ -87,13 +122,6 @@
    "d": "2026-10-31T04:52:21+00:00"
   },
   {
-   "t": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-   "s": "Die EU und Kanada gründen in Montreal eine \"Allianz für die Zukunft\". Ziel ist mehr Unabhängigkeit und eine engere Zusammenarbeit von KI bis Raumfahrt. Auch die Ukraine spielt eine Rolle.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T03:57:32+00:00"
-  },
-  {
    "t": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
    "s": "In Atlanta beraten die G20-Außenminister über internationale Krisen und die Folgen für die Weltwirtschaft. Doch die Gräben zwischen den Teilnehmenden sind tief. Vor allem Russlands Außenminister Lawrow sparte nicht mit Kritik.",
    "u": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html",
@@ -106,13 +134,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
    "q": "Tagesschau",
    "d": "2026-10-30T23:56:24+00:00"
-  },
-  {
-   "t": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
-   "s": "Der Wahlkampf in den USA ist für Politiker auch eine Gelegenheit, sich zu positionieren - für die Präsidentschaftswahl 2028. Kaliforniens Gouverneur Newsom werden Ambitionen nachgesagt - doch es gibt viele Vorbehalte. Von R. Spiegelhauer.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-newsom-ambitionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T18:46:53+00:00"
   },
   {
    "t": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html",
    "q": "Tagesschau",
    "d": "2026-10-30T01:44:07+00:00"
-  },
-  {
-   "t": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
-   "s": "Die Auszählung aller Stimmen in Israel bestätigt, dass eine äußerst schwierige Regierungsbildung bevorsteht. Unterdessen ist ein Streit über das Wahlergebnis entbrannt - die Likud-Partei spricht von \"gestohlener Wahl\".",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T00:01:06+00:00"
-  },
-  {
-   "t": "Bosnien und Herzegowina: Militärhubschrauber abgestürzt - vier Tote",
-   "s": "Beim Absturz eines Militärhubschraubers der EU-Friedenstruppe in Bosnien und Herzegowina sind vier Menschen ums Leben gekommen. Die Insassen kamen alle aus Italien. Der genaue Hergang ist noch unklar.",
-   "u": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T23:05:38+00:00"
-  },
-  {
-   "t": "Zugunglück in Spanien: Ein Land zwischen Trauer und Aufarbeitung",
-   "s": "Nach dem Zugunglück in Spanien sind Schock und Trauer groß. Forensiker identifizieren weiterhin Todesopfer. Zudem wurden die Gesprächsprotokolle der Leitstelle mit den Lokomotivführern veröffentlicht. Von Julia Macher.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T16:59:55+00:00"
   }
  ]
 }
