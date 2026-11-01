@@ -1,13 +1,20 @@
 {
  "name": "Ausland",
- "updated": "2026-10-31T19:18:22+00:00",
+ "updated": "2026-11-01T00:08:34+00:00",
  "items": [
   {
    "t": "Erneut Proteste und Zusammenstöße in Frankreich",
    "s": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der Protestzüge in Alarmbereitschaft. Von J. Borutta.",
    "u": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
    "q": "Tagesschau",
-   "d": "2026-10-31T19:02:09+00:00"
+   "d": "2026-10-31T22:32:55+00:00"
+  },
+  {
+   "t": "Der Kampf um das polnische Verfassungsgericht eskaliert",
+   "s": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude gab es erneut Proteste.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-31T20:11:14+00:00"
   },
   {
    "t": "Midterms in den USA: Kippt ausgerechnet Texas?",
@@ -29,13 +36,6 @@
    "u": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
    "q": "Tagesschau",
    "d": "2026-10-31T15:06:39+00:00"
-  },
-  {
-   "t": "Der Kampf um das polnische Verfassungsgericht eskaliert",
-   "s": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude gab es erneut Proteste.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T13:57:56+00:00"
   },
   {
    "t": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden",
