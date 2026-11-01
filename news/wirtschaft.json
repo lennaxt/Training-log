@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-01T10:28:48+00:00",
+ "updated": "2026-11-01T19:41:17+00:00",
  "items": [
+  {
+   "t": "Grüner Flugkraftstoff: Wird Fliegen in Zukunft teurer?",
+   "s": "Die EU schreibt Quoten für nachhaltiges Kerosin vor. Doch es gibt kaum Anlagen, die es herstellen - und teuer ist die Herstellung bislang auch. Airlines warnen davor, dass das Fliegen für alle verteuern könnte. Von Timo Spicker.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/umweltfreundlich-fliegen-flugverkehr-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T16:22:32+00:00"
+  },
+  {
+   "t": "Füllstandsvorgaben bei Gasspeichern nicht erreicht",
+   "s": "Bis heute sollten die Gasspeicher einen durchschnittlichen Füllstand von 70 Prozent erreichen - aber die Vorgabe wurde verfehlt. Die Versorgung im Winter sei dennoch gesichert, betonen Wirtschaftsministerium und Bundesnetzagentur.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-vorgaben-ziel-verfehlt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T12:53:52+00:00"
+  },
   {
    "t": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
    "s": "Ob bei der Entwicklung neuer Produkte, in der Werbung oder bei der Gestaltung des eigenen Zuhauses: KI ist im Alltag angekommen. Sie spart oft Zeit, wirft aber auch Fragen nach Kreativität, Arbeitsplätzen und Vertrauen auf. Von Anke Heinhaus.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-trump-eu-100.html",
    "q": "Tagesschau",
    "d": "2026-10-29T13:12:09+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 29.10.2026",
-   "s": "Update Wirtschaft vom 29.10.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1674420.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T08:51:06+00:00"
-  },
-  {
-   "t": "Milliardenverlust bei Volkswagen",
-   "s": "Hohe Abschreibungen und ein schwaches China-Geschäft haben Volkswagen tiefrote Zahlen beschert. Der Konzernverlust lag im dritten Quartal bei 5,8 Milliarden Euro. VW-Aktien fallen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-milliardenverlust-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T08:16:16+00:00"
   }
  ]
 }

@@ -1,16 +1,163 @@
 {
  "name": "Inland",
- "updated": "2026-11-01T10:28:46+00:00",
+ "updated": "2026-11-01T19:41:14+00:00",
  "items": [
+  {
+   "t": "Ukrainekrieg: Optimismus ist fehl am Platz",
+   "s": "Wer die Evakuierung aus Oleschky für ein Zeichen hält, dass Putin nun zu ernsthaften Friedensverhandlungen bereit wäre, ist komplett weltfremd.",
+   "u": "https://taz.de/Ukrainekrieg/!6226440/",
+   "q": "taz",
+   "d": "2026-11-01T19:19:00+00:00"
+  },
+  {
+   "t": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
+   "s": "Verletzte und geplünderte Geschäfte - die Ausschreitungen nach den Protesten der Gen Z lösen Entsetzen aus. In Köln und Frankfurt wurden die Demos nach Einschätzung der Polizei unterwandert. Innenminister Dobrindt kündigte ein hartes Vorgehen an.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T19:16:37+00:00"
+  },
+  {
+   "t": "Vor den US-Midterms: Was macht Trump, falls er die Wahlen verliert?",
+   "s": "Auch wenn die US-Demokraten die Kongresswahlen gewinnen, können die Republikaner das sabotieren. Manche Tricks sind illegal – manche schlicht bizarr.",
+   "u": "https://taz.de/Vor-den-US-Midterms/!6226408/",
+   "q": "taz",
+   "d": "2026-11-01T19:14:00+00:00"
+  },
+  {
+   "t": "Arbeitskampf in der Türkei: Berufliche Abwehrkräfte stärken",
+   "s": "Arbeitsrechte müssen in der Türkei hart erkämpft werden. Für Minderheiten kann das gefährlich sein, wie ein Streik in einem Privatkrankenhaus zeigt",
+   "u": "https://taz.de/Arbeitskampf-in-der-Tuerkei/!6201554/",
+   "q": "taz",
+   "d": "2026-11-01T19:11:00+00:00"
+  },
+  {
+   "t": "Gen-Z-regelt-Protest: Der Sündenbock ist schnell gefunden",
+   "s": "Bei den Protesten von „Gen Z regelt“ kommt es in Frankfurt und Köln zu Krawallen. Hessens Innenministerium macht vor allem „Migranten“ verantwortlich.",
+   "u": "https://taz.de/Gen-Z-regelt-Protest/!6226457/",
+   "q": "taz",
+   "d": "2026-11-01T18:05:00+00:00"
+  },
+  {
+   "t": "Bilanz von „Gen Z regelt“: Gen Z streitet über zukünftigen Kurs",
+   "s": "Die Bundesinitiative von „Gen Z regelt“ zieht nach dem Protestsamstag eine positive Bilanz. Streit gibt es über den Grund für die Krawalle.",
+   "u": "https://taz.de/Bilanz-von-Gen-Z-regelt/!6226454/",
+   "q": "taz",
+   "d": "2026-11-01T18:02:00+00:00"
+  },
+  {
+   "t": "Frontstadt Oleschky: Trotz erfolgreicher Evakuierung wenig Hoffnung auf Frieden",
+   "s": "Die Ukraine und Russland haben erstmals eine humanitäre Aktion in den besetzten Gebieten durchgeführt. Aber ein Waffenstillstand ist in weiter Ferne.",
+   "u": "https://taz.de/Frontstadt-Oleschky/!6226407/",
+   "q": "taz",
+   "d": "2026-11-01T17:57:00+00:00"
+  },
+  {
+   "t": "FAQ: Was die neue Gebühr auf Sendungen aus Nicht-EU-Ländern bedeutet",
+   "s": "Jährlich erreichen mehrere Milliarden Kleinpakete die EU. Um diese Flut einzudämmen, wird jetzt eine Gebühr von mindestens zwei Euro pro Sendung fällig. Warum wird die Paketgebühr eingeführt? Werden Produkte jetzt teurer?",
+   "u": "https://www.tagesschau.de/inland/neue-paketgebuehr-faq-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T16:43:44+00:00"
+  },
+  {
+   "t": "Warum sich junge Paare gegen Kinder entscheiden",
+   "s": "In Deutschland gibt es so wenige Geburten wie seit 1946 nicht mehr. Doch junge Paare haben ihre Gründe, sich gegen Kinder zu entscheiden. Welche das sind - und was die sinkenden Zahlen für Auswirkungen haben. Von Alexandra Reese.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/kinderlos-elternschaft-millennials-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T14:51:00+00:00"
+  },
+  {
+   "t": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
+   "s": "Mehr als 180.000 Menschen hatten sich zum bundesweiten \"Gen Z regelt\"-Protesttag angemeldet. Es kamen deutlich weniger. Woran könnte es gelegen haben? Wie reagiert die Politik und welche neuen Aktionen sind geplant?",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T14:46:12+00:00"
+  },
+  {
+   "t": "„Gen Z regelt“-Demonstrationen: Eine Bühne für die Unzufriedenheit",
+   "s": "In Hamburg, Berlin und Erfurt bleiben die Proteste eher ruhig. Nur nach dem Ende der Kundgebungen werden mancherorts Böller oder Steine geworfen.",
+   "u": "https://taz.de/Gen-Z-regelt-Demonstrationen/!6226455/",
+   "q": "taz",
+   "d": "2026-11-01T14:35:00+00:00"
+  },
+  {
+   "t": "Flüssiggas-Terminal in Mexiko: Sind Wale Rechtssubjekte?",
+   "s": "Im mexikanischen Bundesstaat Sonora klagen Ak­ti­vis­t:in­nen und Wis­sen­schaft­le­r:in­nen gegen ein LNG-Projekt, um die Wale im Meer zu schützen.",
+   "u": "https://taz.de/Fluessiggas-Terminal-in-Mexiko/!6224031/",
+   "q": "taz",
+   "d": "2026-11-01T14:11:00+00:00"
+  },
+  {
+   "t": "Polarisierung in den USA: Ein „Marxist“ im Maßanzug auf Twitch",
+   "s": "Der Polit-Influencer und Streamer Hasan Piker verschiebt die Grenze des Sagbaren in den USA nach links. Damit trifft er vor den Midterms einen Nerv.",
+   "u": "https://taz.de/Polarisierung-in-den-USA/!6226486/",
+   "q": "taz",
+   "d": "2026-11-01T13:44:00+00:00"
+  },
+  {
+   "t": "Nach der Parlamentswahl in Israel: „Nein zu einer rassistischen Regierung!“",
+   "s": "Tausende Israelis demonstrieren am Samstag in Tel Aviv für eine jüdisch-arabische Regierungskoalition. Doch die politische Situation ist verfahren.",
+   "u": "https://taz.de/Nach-der-Parlamentswahl-in-Israel/!6226410/",
+   "q": "taz",
+   "d": "2026-11-01T13:37:00+00:00"
+  },
+  {
+   "t": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+   "s": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Besonders in Frankfurt eskalierte die Lage.",
+   "u": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T13:07:16+00:00"
+  },
+  {
+   "t": "Prognosemärkte zu US-Midterms: Geschäft mit der Zukunft",
+   "s": "Vor den US-Midterms boomen Prognosemärkte wie Kalshi und Polymarket. Sie liefern oft erstaunlich gute Vorhersagen. Kritiker warnen jedoch vor leichter Manipulation und einer Beeinflussung der Wahlen.",
+   "u": "https://www.deutschlandfunk.de/prognosemaerkte-us-wahlen-midterms-kalshi-polymarket-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-01T12:35:00+00:00"
+  },
+  {
+   "t": "Vor den US-Midterms: Trumps ambivalente Rolle für seine Partei",
+   "s": "Die Zustimmungswerte für US-Präsident Donald Trump sind auf einem historischen Tiefpunkt. Das färbt vor den Zwischenwahlen auch auf die republikanischen Kandidaten ab. Der Partei des Präsidenten drohen Verluste in beiden Häusern des Kongresses.",
+   "u": "https://www.deutschlandfunk.de/us-midterms-2026-donald-trump-republikaner-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-01T12:33:00+00:00"
+  },
+  {
+   "t": "Mandat der UN-Mission abgelaufen: Die Westsahara-Mission wird „liquidiert“",
+   "s": "Ein Veto Russlands im UN-Sicherheitsrat beendet die UN-Mission für die Westsahara. Seit 35 Jahren sollte sie ein Referendum vorbereiten, das nie kam.",
+   "u": "https://taz.de/Mandat-der-UN-Mission-abgelaufen/!6226398/",
+   "q": "taz",
+   "d": "2026-11-01T12:31:00+00:00"
+  },
+  {
+   "t": "Bedrohte Trans-Community: Wis­sen­schaft­le­r:in­nen kritisieren Gesundheitsversorgung",
+   "s": "Nach der Razzia eines Berliner Treffs für trans Menschen bekunden hunderte Wis­sen­schaft­le­r:in­nen ihre Solidarität. Sie fordern bessere Versorgung.",
+   "u": "https://taz.de/Bedrohte-Trans-Community/!6226368/",
+   "q": "taz",
+   "d": "2026-11-01T12:23:00+00:00"
+  },
   {
    "t": "\"Gen Z regelt\" will Demos fortsetzen",
    "s": "Das Fazit der Organisatoren der \"Gen Z regelt\"-Proteste fällt positiv aus - trotz der vereinzelten Gewalt. Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein Sprecher. Der Protest soll bald weitergehen.",
    "u": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-01T09:45:30+00:00"
+   "d": "2026-11-01T11:58:42+00:00"
   },
   {
-   "t": "Krypto-Börse Binance: FBI macht Nordkorea für Hack bei Krypto-Börse verantwortlich",
+   "t": "Unterdrückung von Medien in Venezuela: Geldstrafen, Verhaftungen, Schließungen",
+   "s": "Um die Demokratie in Venezuela wiederherzustellen, braucht es Meinungs- und Pressefreiheit. Doch noch gelten dort restriktive Gesetze.",
+   "u": "https://taz.de/Unterdrueckung-von-Medien-in-Venezuela/!6224030/",
+   "q": "taz",
+   "d": "2026-11-01T10:41:00+00:00"
+  },
+  {
+   "t": "Wissenschaft unter Druck: „Wir müssen das Recht verteidigen“",
+   "s": "Rund 200 Ju­ris­t:in­nen betonen in einer gemeinsamen Erklärung die Bedeutung des Rechtsstaats. Eine Mitinitiatorin erklärt, warum.",
+   "u": "https://taz.de/Wissenschaft-unter-Druck/!6226257/",
+   "q": "taz",
+   "d": "2026-11-01T10:38:00+00:00"
+  },
+  {
+   "t": "Krypto-Börse Binance: FBI macht Nordkorea für Hack verantwortlich",
    "s": "US-Bundespolizei identifiziert Hackergruppe hinter dem Angriff auf die weltgrößte Kyptobörse. Die meldet Ersatz für 90 Prozent der gestohlenen Werte.",
    "u": "https://taz.de/Krypto-Boerse-Binance/!6226367/",
    "q": "taz",
@@ -22,153 +169,6 @@
    "u": "https://taz.de/Folgen-der-neuen-Grundsicherung/!6226309/",
    "q": "taz",
    "d": "2026-11-01T09:32:00+00:00"
-  },
-  {
-   "t": "Midterm Elections: Wer? Wann? Was? Wie?",
-   "s": "Die Zwischenwahlen am 3. November können entscheidend sein für die Zukunft der USA. Aber was passiert da genau und worauf kommt es an? Ein Überblick.",
-   "u": "https://taz.de/US-Midterms-Ein-Ueberblick-zu-den-Wahlen-am-3-November/!6223224/",
-   "q": "taz",
-   "d": "2026-11-01T08:45:00+00:00"
-  },
-  {
-   "t": "Microcars boomen - aber wie sicher sind sie?",
-   "s": "Sie sehen aus wie Kleinwagen, sind aber keine: Microcars sind maximal 45 km/h schnell und dürfen in Deutschland schon ab 15 Jahren gefahren werden. Wie sicher sind die beliebten Mini-Autos? Von Hermann Scholz.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/microcars-sicherheit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-01T08:41:59+00:00"
-  },
-  {
-   "t": "Stichwahl in Bulgarien: Prowestlicher Herausforderer kämpft um das Präsidentenamt",
-   "s": "Bulgarien wählt einen neuen Staatschef. Die Stichwahl zeichnet sich als dramatisch ab. Zuvor erreichte Präsidentin Jotowa ein bescheidenes Ergebnis.",
-   "u": "https://taz.de/Stichwahl-in-Bulgarien/!6226356/",
-   "q": "taz",
-   "d": "2026-11-01T08:20:00+00:00"
-  },
-  {
-   "t": "50 Jahre Frauenhäuser in Deutschland: „Hör mal, wir wollen ein Frauenhaus eröffnen“",
-   "s": "Tomi Tomek arbeitete im ersten Frauenhaus Deutschlands, das vor genau 50 Jahren entstand. Mit der taz spricht sie über Sicherheit, Solidarität und Mut.",
-   "u": "https://taz.de/50-Jahre-Frauenhaeuser-in-Deutschland/!6225607/",
-   "q": "taz",
-   "d": "2026-11-01T08:14:00+00:00"
-  },
-  {
-   "t": "Steinmeier zu KI: \"Nicht das Ob steht zur Frage, sondern das Wie\"",
-   "s": "Zum Abschluss seiner China-Reise hat Bundespräsident Steinmeier vor den Risiken Künstlicher Intelligenz für die Demokratie gewarnt. Über Fortschritte im Handelskonflikt zwischen Europa und China äußerte er sich vorsichtig optimistisch. Von D. Hebestreit und M. Deiß.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-01T08:01:11+00:00"
-  },
-  {
-   "t": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
-   "s": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Sie hatten sich offenbar teils gezielt unter die Demos gemischt.",
-   "u": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-01T07:47:42+00:00"
-  },
-  {
-   "t": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
-   "s": "Bessere Bildung, mehr Klimaschutz und bezahlbarer Wohnraum - dafür sind Zehntausende in vielen deutschen Städten auf die Straße gezogen. Die Proteste der \"Gen Z regelt\" blieben weitgehend friedlich. Doch am Abend kam es zu einigen Ausschreitungen.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T20:33:42+00:00"
-  },
-  {
-   "t": "Polens Rechte verteidigt ihre Bastion: Machtkampf um Polens Verfassungsgericht entbrannt",
-   "s": "Die Führung von Polens Verfassungsgericht ist abgesetzt. Die PiS mobilisiert auf der Straße. Und Präsident Nawrocki bangt um ein Machtinstrument.",
-   "u": "https://taz.de/Polens-Rechte-verteidigt-ihre-Bastion/!6226349/",
-   "q": "taz",
-   "d": "2026-10-31T19:01:00+00:00"
-  },
-  {
-   "t": "Geldverschwendung bei der Aufrüstung: Die nationalen Süppchen sind ganz besonders teuer",
-   "s": "Die Rüstungsbeschaffung in Europa ist alles andere als effizient, zeigt eine Arte-Doku. Deutschland gibt besonders viel „stupid German money“ aus.",
-   "u": "https://taz.de/Geldverschwendung-bei-der-Aufruestung/!6223297/",
-   "q": "taz",
-   "d": "2026-10-31T19:00:00+00:00"
-  },
-  {
-   "t": "Frankreichs Staat sucht die Kraftprobe: Organisierte Konfusion",
-   "s": "Kundgebungen im Zentrum wurden von Fall zu Fall erlaubt, dann wieder verboten oder wie in Paris an den Stadtrand verbannt. Eine zunehmend autoritäre Staatsführung möchte die Protestbewegung in die Illegalität treiben.",
-   "u": "https://taz.de/Frankreichs-Staat-sucht-die-Kraftprobe/!6226350/",
-   "q": "taz",
-   "d": "2026-10-31T18:58:00+00:00"
-  },
-  {
-   "t": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
-   "s": "Sechs Wochen nach der Wahl in Berlin ist der Weg frei für rot-grün-rote Koalitionsverhandlungen: Nach Grünen und SPD stimmte nun auch der Parteitag der Linken dafür. Am Montag sollen die Gespräche beginnen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T18:00:40+00:00"
-  },
-  {
-   "t": "\"GenZ\"-Proteste: Tausende demonstrieren für soziale Gerechtigkeit",
-   "s": "Am Nachmittag haben die angekündigten Proteste der \"GenZ\" begonnen. In Hamburg und Köln ging die Polizei unter anderem wegen des Einsatzes von Pyrotechnik gegen Demonstrierende vor. Die befürchteten großen Ausschreitungen blieben bislang aus.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T16:54:21+00:00"
-  },
-  {
-   "t": "Parteitag der Linken in Berlin: Elif Eralp strahlt vor Freude",
-   "s": "Eine überwältigende Mehrheit stimmt auf dem Parteitag für die Aufnahme von Koalitionsverhandlungen mit Grünen und SPD. Emde demonstriert vor der Halle.",
-   "u": "https://taz.de/Parteitag-der-Linken-in-Berlin/!6223937/",
-   "q": "taz",
-   "d": "2026-10-31T16:24:00+00:00"
-  },
-  {
-   "t": "Bietet die Brandmauer Schutz vor der AfD oder soll sie weg?",
-   "s": "Die Brandmauer schützt die Demokratie systematisch vor Angriffen ihrer Feinde, sagt Politologin Julia Reuschenbach in der Debatte mit Clara von Nathusius. Für die Polit-Influencerin und frühere JU-Schatzmeisterin ist sie schon längst gescheitert.Florin, Christiane",
-   "u": "https://www.deutschlandfunk.de/extra-steht-die-brandmauer-noch-julia-reuschenbach-vs-clara-von-nathusius-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-31T16:05:01+00:00"
-  },
-  {
-   "t": "Anarchistische Demo in Athen: Hunderte gedenken Kyriakos Xymitiris",
-   "s": "Vor dem griechischen Parlament haben am Samstag Un­ter­stüt­ze­r:in­nen an den 2024 bei einer Explosion getöteten Anarchisten erinnert. Und die Freilassung zwei seiner Mitstreiterinnen gefordert.",
-   "u": "https://taz.de/Anarchistische-Demo-in-Athen/!6226348/",
-   "q": "taz",
-   "d": "2026-10-31T15:53:00+00:00"
-  },
-  {
-   "t": "Warnung vor US-Angriffen: Chamenei droht mit „geografisch uneingeschränkter Antwort“",
-   "s": "Irans Oberster Führer warnt vor einer Ausweitung des Krieges. Derweil laufen diplomatische Bemühungen, eine erneute Eskalation zu verhindern, auf Hochtouren.",
-   "u": "https://taz.de/Chamenei-droht-mit-geografisch-uneingeschraenkter-Antwort/!6226346/",
-   "q": "taz",
-   "d": "2026-10-31T14:36:00+00:00"
-  },
-  {
-   "t": "Vor Commonwealth-Treffen: Burnham offen für eine Entschuldigung für Sklaverei",
-   "s": "Premier Andy Burnham kann sich ein offizielles Pardon für Großbritanniens Rolle beim transatlantischen Menschenhandel vorstellen. Reparationszahlungen schließt er aber aus.",
-   "u": "https://taz.de/Burnham-offen-fuer-offizielle-Entschuldigung-fuer-Sklavenhandel/!6226344/",
-   "q": "taz",
-   "d": "2026-10-31T13:02:00+00:00"
-  },
-  {
-   "t": "Parteitag der Berliner Linken: Elif Eralp gibt sich kämpferisch",
-   "s": "Unter großem Applaus bekräftigt die Linken-Spitzenfrau Eralp ihr Ziel einer rot-grün-roten Koalition. Die Angriffe auf die Linke hätten „jedes Maß verloren“.",
-   "u": "https://taz.de/Elif-Eralp-gibt-sich-kaempferisch/!6226334/",
-   "q": "taz",
-   "d": "2026-10-31T11:05:00+00:00"
-  },
-  {
-   "t": "Staatskrise in Polen: Heftiger Machtkampf um das Verfassungsgericht entbrannt",
-   "s": "Polens rechtskonservativer Präsident und die Mitte-Links-Regierung streiten um die Besetzung des Verfassungsgerichts. Demonstranten belagern das Gerichtsgebäude.",
-   "u": "https://taz.de/Heftiger-Machtkampf-um-Polens-Verfassungsgericht-entbrannt/!6226337/",
-   "q": "taz",
-   "d": "2026-10-31T10:29:00+00:00"
-  },
-  {
-   "t": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
-   "s": "Die bundesweit angekündigten Proteste junger Menschen werfen die Frage auf: Tut die Politik zu wenig für Jugendliche? Fragen an zwei junge Abgeordnete mit Blick auf Rente, Wehrdienst und Bildung. Von Sarah Beham.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T10:09:19+00:00"
-  },
-  {
-   "t": "Transnationale Desinformation: Eine Galaxie der Manipulation",
-   "s": "Faktenchecker haben es zunehmend mit Desinformationen zu tun, die sich global verbreiten – auch in Lateinamerika. Beteiligt sind oft ausländische Mächte.",
-   "u": "https://taz.de/Transnationale-Desinformation/!6224025/",
-   "q": "taz",
-   "d": "2026-10-31T08:42:00+00:00"
   }
  ]
 }

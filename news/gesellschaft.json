@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-01T10:28:51+00:00",
+ "updated": "2026-11-01T19:41:19+00:00",
  "items": [
+  {
+   "t": "Ukrainekrieg: Optimismus ist fehl am Platz",
+   "s": "Wer die Evakuierung aus Oleschky für ein Zeichen hält, dass Putin nun zu ernsthaften Friedensverhandlungen bereit wäre, ist komplett weltfremd.",
+   "u": "https://taz.de/Ukrainekrieg/!6226440/",
+   "q": "taz",
+   "d": "2026-11-01T19:19:00+00:00"
+  },
+  {
+   "t": "Frontstadt Oleschky: Trotz erfolgreicher Evakuierung wenig Hoffnung auf Frieden",
+   "s": "Die Ukraine und Russland haben erstmals eine humanitäre Aktion in den besetzten Gebieten durchgeführt. Aber ein Waffenstillstand ist in weiter Ferne.",
+   "u": "https://taz.de/Frontstadt-Oleschky/!6226407/",
+   "q": "taz",
+   "d": "2026-11-01T17:57:00+00:00"
+  },
   {
    "t": "Stichwahl in Bulgarien: Prowestlicher Herausforderer kämpft um das Präsidentenamt",
    "s": "Bulgarien wählt einen neuen Staatschef. Die Stichwahl zeichnet sich als dramatisch ab. Zuvor erreichte Präsidentin Jotowa ein bescheidenes Ergebnis.",
@@ -10,8 +24,8 @@
    "d": "2026-11-01T08:20:00+00:00"
   },
   {
-   "t": "Polens Rechte verteidigt ihre Bastion: Machtkampf um Polens Verfassungsgericht entbrannt",
-   "s": "Die Führung von Polens Verfassungsgericht ist abgesetzt. Die PiS mobilisiert auf der Straße. Und Präsident Nawrocki bangt um ein Machtinstrument.",
+   "t": "Polens Rechte kämpft für ihre Bastion: Machtkampf um das polnische Verfassungsgericht eskaliert",
+   "s": "Die reche Führung von Polens Verfassungsgericht ist abgesetzt. Präsident Nawrocki und die rechte PiS bangen um ihr Machtinstrument.",
    "u": "https://taz.de/Polens-Rechte-verteidigt-ihre-Bastion/!6226349/",
    "q": "taz",
    "d": "2026-10-31T19:01:00+00:00"
@@ -31,7 +45,7 @@
    "d": "2026-10-31T18:58:00+00:00"
   },
   {
-   "t": "Anarchistische Demo in Athen: Hunderte gedenken Kyriakos Xymitiris",
+   "t": "Anarchistische Demo in Athen: Hunderte gedenken Kyriakos Xymitiris’",
    "s": "Vor dem griechischen Parlament haben am Samstag Un­ter­stüt­ze­r:in­nen an den 2024 bei einer Explosion getöteten Anarchisten erinnert. Und die Freilassung zwei seiner Mitstreiterinnen gefordert.",
    "u": "https://taz.de/Anarchistische-Demo-in-Athen/!6226348/",
    "q": "taz",
@@ -52,7 +66,7 @@
    "d": "2026-10-31T10:29:00+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: USA genehmigen Verkauf von 500 Patriot-Raketen an Ukraine",
+   "t": "+++ Nachrichten im Ukrainekrieg +++: USA genehmigen Verkauf von 500 Patriot-Raketen an Ukraine",
    "s": "Die Ukraine soll Patriots für zwei Milliarden Dollar bekommen, bezahlt von Deutschland, Kanada, Norwegen und der EU. Aber es gibt noch keinen Liefertermin.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6226329/",
    "q": "taz",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Kanada-wird-vorerst-kein-assoziiertes-EU-Mitglied/!6225915/",
    "q": "taz",
    "d": "2026-10-29T07:26:00+00:00"
-  },
-  {
-   "t": "Klimastrategie für die EU: Brüssel stellt sich auf 3 Grad plus ein",
-   "s": "Die EU-Kommission legt nach dem „Sommer der Wahrheit“ einen Rahmen für mehr Klimaresilienz vor. Konkret ist der nicht. Und woher kommt das Geld?",
-   "u": "https://taz.de/Klimastrategie-fuer-die-EU/!6225601/",
-   "q": "taz",
-   "d": "2026-10-29T06:17:00+00:00"
-  },
-  {
-   "t": "Verhandlungsversuche für Ukraine-Frieden: Die Hoffnung auf einen Waffenstillstand wächst",
-   "s": "Historische Monologe und Maximalforderungen von Kremlchef Putin erschweren Friedensbemühungen. Das Trump-Lager setzt auf wirtschaftliche Deals.",
-   "u": "https://taz.de/Verhandlungsversuche-fuer-Ukraine-Frieden/!6225651/",
-   "q": "taz",
-   "d": "2026-10-28T16:57:00+00:00"
   }
  ]
 }

@@ -1,7 +1,42 @@
 {
  "name": "Ausland",
- "updated": "2026-11-01T10:28:47+00:00",
+ "updated": "2026-11-01T19:41:15+00:00",
  "items": [
+  {
+   "t": "Iran-Krieg: Golfstaaten bereiten sich auf neue Eskalation vor",
+   "s": "Die Sorge vor einer erneuten Eskalation im Iran-Krieg wächst - vor allem in den Golfstaaten. Eine Folge: Aufrüstung. Auf einer Konferenz beraten Politiker aus der Region mit Experten. Auch Deutschland ist vertreten. Von M. Behrendt.",
+   "u": "https://www.tagesschau.de/ausland/golfstaaten-midterms-usa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T16:24:24+00:00"
+  },
+  {
+   "t": "Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel",
+   "s": "In Polen stehen sich die Regierung von Tusk und das rechtskonservative Lager um Staatspräsident Nawrocki scheinbar unversöhnlich gegenüber. Nun schaltet sich die EU-Kommission in den Streit über das Verfassungsgericht ein.",
+   "u": "https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T14:25:24+00:00"
+  },
+  {
+   "t": "Wahlkampf der US-Demokraten: Links, rechts - oder am besten in der Mitte?",
+   "s": "Gemeinsam gegen Trump: Darin sind sich die Demokraten in den USA einig. Aber darüber hinaus? Im Wahlkampf in Colorado zeigt sich die ganze Bandbreite an politischen Ideen der Partei. Isabel Schayani hat drei Kandidierende begleitet.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-colorado-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T14:25:00+00:00"
+  },
+  {
+   "t": "Israel: Demos für Einbindung der arabischen Parteien",
+   "s": "Sie demonstrierten für Veränderung - und die Ablösung von Premier Netanjahu: In Israel haben Hunderte die Opposition dazu aufgerufen, die arabischen Parteien an der Regierungsbildung zu beteiligen.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-demo-arabische-parteien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T11:24:19+00:00"
+  },
+  {
+   "t": "Vor 40 Jahren: Als eine Chemiewolke über Basel zog",
+   "s": "Vor 40 Jahren brannte bei Basel eine Lagerhalle, in der große Mengen gefährlicher Chemikalien gelagert waren. Ein Giftwolke zog über die Stadt, verseuchtes Löschwasser floss in den Rhein. Was hat sich durch die Katastrophe verändert? Von S. Biegger.",
+   "u": "https://www.tagesschau.de/ausland/europa/schweiz-40-jahre-chemieunfall-sandoz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T11:06:56+00:00"
+  },
   {
    "t": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
    "s": "In vielen europäischen Ländern gehen momentan junge Menschen auf die Straße - auch in Portugal. Dort richten sich die Demonstrationen vor allem gegen die Wohnungsnot. Die Polizei ging hart gegen ein Protestcamp in Lissabon vor.",
@@ -122,20 +157,6 @@
    "d": "2026-10-31T04:52:21+00:00"
   },
   {
-   "t": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
-   "s": "In Atlanta beraten die G20-Außenminister über internationale Krisen und die Folgen für die Weltwirtschaft. Doch die Gräben zwischen den Teilnehmenden sind tief. Vor allem Russlands Außenminister Lawrow sparte nicht mit Kritik.",
-   "u": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T03:05:42+00:00"
-  },
-  {
-   "t": "US-Regierung genehmigt \"Patriot\"-Lieferungen an Ukraine",
-   "s": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T23:56:24+00:00"
-  },
-  {
    "t": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
    "s": "Hohe Lebenshaltungskosten, steigende Rüstungsausgaben, zu wenig Investition in Bildung: In Italien sind Hunderttausende Menschen gegen die Politik der Regierung auf die Straße gegangen - begleitet von einem massiven Polizeiaufgebot.",
    "u": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html",
    "q": "Tagesschau",
    "d": "2026-10-30T14:28:05+00:00"
-  },
-  {
-   "t": "Zugunglück in Spanien: Fahrdatenschreiber geborgen",
-   "s": "Auf den Schock nach dem schweren Zugunglück in Spanien folgt die Suche nach der Ursache: Ermittler haben die Fahrdatenschreiber in den Wracks gefunden. Die Daten werden nun ausgewertet - und liefern hoffentlich Antworten.",
-   "u": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-156.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T12:32:41+00:00"
-  },
-  {
-   "t": "Merz hofft auf friedliche Wiedervereinigung Koreas",
-   "s": "Ein wiedervereintes Korea - diese Hoffnung hat Kanzler Merz beim Besuch an Südkoreas Grenze geäußert. Angesichts Nordkoreas zunehmender Abschottung liegt dieses Ziel in weiter Ferne. Und das berge laut Merz auch für Europa eine Gefahr.",
-   "u": "https://www.tagesschau.de/ausland/asien/merz-asienreise-suedkorea-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T11:14:51+00:00"
-  },
-  {
-   "t": "Frankreich bereitet sich auf neue Schülerproteste vor",
-   "s": "Frankreich stellt sich auf ein unruhiges Wochenende ein: Erneut wollen Schüler im ganzen Land gegen die Bildungspolitik protestieren. Denn die ersten Zugeständnisse der Regierung reichen ihnen nicht aus. Von Julia Borutta.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T01:44:07+00:00"
   }
  ]
 }

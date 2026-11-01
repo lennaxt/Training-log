@@ -1,7 +1,28 @@
 {
  "name": "Kultur",
- "updated": "2026-11-01T10:28:52+00:00",
+ "updated": "2026-11-01T19:41:20+00:00",
  "items": [
+  {
+   "t": "Flüssiggas-Terminal in Mexiko: Sind Wale Rechtssubjekte?",
+   "s": "Im mexikanischen Bundesstaat Sonora klagen Ak­ti­vis­t:in­nen und Wis­sen­schaft­le­r:in­nen gegen ein LNG-Projekt, um die Wale im Meer zu schützen.",
+   "u": "https://taz.de/Fluessiggas-Terminal-in-Mexiko/!6224031/",
+   "q": "taz",
+   "d": "2026-11-01T14:11:00+00:00"
+  },
+  {
+   "t": "Polarisierung in den USA: Ein „Marxist“ im Maßanzug auf Twitch",
+   "s": "Der Polit-Influencer und Streamer Hasan Piker verschiebt die Grenze des Sagbaren in den USA nach links. Damit trifft er vor den Midterms einen Nerv.",
+   "u": "https://taz.de/Polarisierung-in-den-USA/!6226486/",
+   "q": "taz",
+   "d": "2026-11-01T13:44:00+00:00"
+  },
+  {
+   "t": "Unterdrückung von Medien in Venezuela: Geldstrafen, Verhaftungen, Schließungen",
+   "s": "Um die Demokratie in Venezuela wiederherzustellen, braucht es Meinungs- und Pressefreiheit. Doch noch gelten dort restriktive Gesetze.",
+   "u": "https://taz.de/Unterdrueckung-von-Medien-in-Venezuela/!6224030/",
+   "q": "taz",
+   "d": "2026-11-01T10:41:00+00:00"
+  },
   {
    "t": "Midterm Elections: Wer? Wann? Was? Wie?",
    "s": "Die Zwischenwahlen am 3. November können entscheidend sein für die Zukunft der USA. Aber was passiert da genau und worauf kommt es an? Ein Überblick.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Jubel-nach-Lulas-Sieg/!6224965/",
    "q": "taz",
    "d": "2026-10-26T07:54:00+00:00"
-  },
-  {
-   "t": "Stichwahl in Brasilien: Lula schlägt Bolsonaro junior",
-   "s": "Brasiliens linker Präsident Lula gewinnt gegen Flávio Bolsonaro und trotzt dem Rechtsruck in Lateinamerika. Der Wahlabend verlief chaotisch, Bolsonaro will das Ergebnis anfechten.",
-   "u": "https://taz.de/Stichwahl-in-Brasilien/!6224962/",
-   "q": "taz",
-   "d": "2026-10-26T00:38:00+00:00"
-  },
-  {
-   "t": "Zwischenwahlen in den USA: Der teuerste Wahlkampf aller Zeiten",
-   "s": "Noch nie sind für Zwischenwahlen in den USA so große Wahlkampfspenden geflossen wie in diesem Jahr. Einige Großspender ragen besonders heraus.",
-   "u": "https://taz.de/Zwischenwahlen-in-den-USA/!6223709/",
-   "q": "taz",
-   "d": "2026-10-25T19:20:00+00:00"
-  },
-  {
-   "t": "US-Philosophin über Midterms: „Immer mehr Leute fühlen sich von Trump verraten“",
-   "s": "Im Wirbel der multiplen Krisen schwinde die Macht der MAGA-Bewegung, sagt die US-Philosophin Nancy Fraser – das sei eine Chance für eine neue Linke.",
-   "u": "https://taz.de/US-Philosophin-ueber-Midterms/!6219042/",
-   "q": "taz",
-   "d": "2026-10-25T15:09:00+00:00"
   }
  ]
 }
