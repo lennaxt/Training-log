@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-02T00:45:49+00:00",
+ "updated": "2026-11-02T11:10:31+00:00",
  "items": [
+  {
+   "t": "Warn-Apps in Ukraine und Russland: Achtung, Achtung, hier hackt Ihr Desinformant",
+   "s": "In der Nacht wurden die Apps für Notfall-Warnungen in Ukraine und Russland möglicherweise gehackt. Die Ukraine vermeldet derweil militärische Erfolge.",
+   "u": "https://taz.de/Warn-Apps-in-Ukraine-und-Russland/!6226598/",
+   "q": "taz",
+   "d": "2026-11-02T08:02:00+00:00"
+  },
+  {
+   "t": "Präsidentschaftswahl in Bulgarien: Jotowa laut Prognosen vorn",
+   "s": "Bei ‌der Stichwahl um ‌das Präsidentenamt liegt das amtierende Staatsoberhaupt Ilijana Jotowa ersten Prognosen zufolge vorn.",
+   "u": "https://taz.de/Praesidentschaftswahl-in-Bulgarien/!6226593/",
+   "q": "taz",
+   "d": "2026-11-02T07:01:00+00:00"
+  },
   {
    "t": "Ukrainekrieg: Optimismus ist fehl am Platz",
    "s": "Wer die Evakuierung aus Oleschky für ein Zeichen hält, dass Putin nun zu ernsthaften Friedensverhandlungen bereit wäre, ist komplett weltfremd.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Leitung-der-Europaeischen-Zentralbank/!6225963/",
    "q": "taz",
    "d": "2026-10-29T10:48:00+00:00"
-  },
-  {
-   "t": "Telefongespräch mit Putin: Sturm im Wasserglas",
-   "s": "In der EU zählen Eitelkeiten noch immer mehr als Entschlossenheit. So spielt Europa keine Rolle bei Krieg und Frieden auf dem eigenen Kontinent.",
-   "u": "https://taz.de/Telefongespraech-mit-Putin/!6225663/",
-   "q": "taz",
-   "d": "2026-10-29T09:28:00+00:00"
-  },
-  {
-   "t": "Vor dem EU-Kanada-Gipfel: Kanada wird vorerst kein assoziiertes EU-Mitglied",
-   "s": "Kanzler Merz und andere Regierungschefs bremsen von der Leyens Kanada-Pläne. Geplante Zusagen für eine engere Anbindung des Landes werden abgeschwächt.",
-   "u": "https://taz.de/Kanada-wird-vorerst-kein-assoziiertes-EU-Mitglied/!6225915/",
-   "q": "taz",
-   "d": "2026-10-29T07:26:00+00:00"
   }
  ]
 }

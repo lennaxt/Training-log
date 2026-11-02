@@ -1,7 +1,28 @@
 {
  "name": "Kultur",
- "updated": "2026-11-02T00:45:50+00:00",
+ "updated": "2026-11-02T11:10:33+00:00",
  "items": [
+  {
+   "t": "Friedensgericht in Kolumbien: Keine Sicherheit, sondern ein Blutbad",
+   "s": "In Kolumbien hat das Sondergericht für den Frieden die bislang hochrangigsten Militärs angeklagt. Der rechtsextremen Regierung gefällt das gar nicht.",
+   "u": "https://taz.de/Friedensgericht-in-Kolumbien/!6226557/",
+   "q": "taz",
+   "d": "2026-11-02T08:41:00+00:00"
+  },
+  {
+   "t": "Schwarze in Brasiliens Industrie: Wer profitiert von Brasiliens Reindustralisierung?",
+   "s": "Brasiliens Wirtschaft verspricht neue Arbeitsplätze. Damit Schwarze Menschen davon etwas haben, braucht es gezielte Maßnahmen gegen Rassismus.",
+   "u": "https://taz.de/Schwarze-in-Brasiliens-Industrie/!6224021/",
+   "q": "taz",
+   "d": "2026-11-02T06:11:00+00:00"
+  },
+  {
+   "t": "Politikwissenschaftler über Midterms: „Der Wahlkampf fühlt sich wie eine Zeitreise an“",
+   "s": "Das Feindbild der Republikaner bei den Midterms ist der Kommunismus. Politikwissenschaftler Jan-Werner Müller bezweifelt, dass die Strategie aufgeht.",
+   "u": "https://taz.de/Politikwissenschaftler-ueber-Midterms/!6223225/",
+   "q": "taz",
+   "d": "2026-11-02T06:07:00+00:00"
+  },
   {
    "t": "Vor den US-Midterms: Was macht Trump, falls er die Wahlen verliert?",
    "s": "Auch wenn die US-Demokraten die Kongresswahlen gewinnen, können die Republikaner das sabotieren. Manche Tricks sind illegal – manche schlicht bizarr.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Praesidentschaftswahl-in-Brasilien/!6225258/",
    "q": "taz",
    "d": "2026-10-27T07:42:00+00:00"
-  },
-  {
-   "t": "Vereinte Nationen: Trump will seinen Buddy Orbán als UN-Generalsekretär",
-   "s": "US-Präsident Donald Trump soll Ungarns abgewählten Autokraten als UN-Generalsekretär vorgeschlagen haben – unterstützt von China und Russland. Orbán hätte kaum Konkurrenz.",
-   "u": "https://taz.de/Vereinte-Nationen/!6225038/",
-   "q": "taz",
-   "d": "2026-10-26T14:50:00+00:00"
-  },
-  {
-   "t": "Vor Zwischenwahlen in den USA: Exil-Kubaner wenden sich von Republikanern ab",
-   "s": "Der Stadtteil Little Havana in Miami gilt traditionell als Hochburg der Republikaner. Doch bei den US-Kongresswahlen im November könnte sich das ändern.",
-   "u": "https://taz.de/Vor-Zwischenwahlen-in-den-USA/!6219090/",
-   "q": "taz",
-   "d": "2026-10-26T13:27:00+00:00"
-  },
-  {
-   "t": "Demokratie in Venezuela: Oppositionsführerin Machado ist zurück in Venezuela",
-   "s": "Nach vielen gescheiterten Einreiseversuchen ist María Corina Machado wieder in Venezuela und drängt auf Wahlen. Die US-Regierung winkt vorerst ab.",
-   "u": "https://taz.de/Demokratie-in-Venezuela/!6224993/",
-   "q": "taz",
-   "d": "2026-10-26T10:36:00+00:00"
   }
  ]
 }

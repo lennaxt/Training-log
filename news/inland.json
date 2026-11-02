@@ -1,7 +1,105 @@
 {
  "name": "Inland",
- "updated": "2026-11-02T00:45:45+00:00",
+ "updated": "2026-11-02T11:10:26+00:00",
  "items": [
+  {
+   "t": "Bas beklagt im ARD-Interview mangelnde Menschlichkeit im Politikbetrieb",
+   "s": "Nach einem Schicksalsschlag hat sich SPD-Politikerin Bas aus der ersten Reihe der Politik zurückgezogen. Ihr Rücktritt löste in der Koalition eine Krise aus. Im ARD-Interview spricht sie nun über Menschlichkeit und das \"harte politische Geschäft\".",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-feldenkirchen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T11:02:57+00:00"
+  },
+  {
+   "t": "Kommunalwahlen in Südafrika: Wenn der Wasserhahn stinkt",
+   "s": "Trinkwasser aus dem Hahn ist in Südafrika nicht nur knapp, sondern zunehmend ungenießbar. Vor den Kommunalwahlen spitzt sich die Wasserkrise zu.",
+   "u": "https://taz.de/Kommunalwahlen-in-Suedafrika/!6226603/",
+   "q": "taz",
+   "d": "2026-11-02T10:59:00+00:00"
+  },
+  {
+   "t": "Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf",
+   "s": "Frankfurt, Köln, Hamburg: In mehreren Städten eskalierte am Wochenende die Lage nach den \"Gen Z regelt\"-Protesten. Wer waren die Gewalttäter? Darüber gibt es eine Debatte. Für Bildungsministerin Prien geht es auch um Fragen der Integration.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T09:21:20+00:00"
+  },
+  {
+   "t": "Friedensgericht in Kolumbien: Keine Sicherheit, sondern ein Blutbad",
+   "s": "In Kolumbien hat das Sondergericht für den Frieden die bislang hochrangigsten Militärs angeklagt. Der rechtsextremen Regierung gefällt das gar nicht.",
+   "u": "https://taz.de/Friedensgericht-in-Kolumbien/!6226557/",
+   "q": "taz",
+   "d": "2026-11-02T08:41:00+00:00"
+  },
+  {
+   "t": "Kehrtwende beim Elterngeld: Prien nimmt Väter in die Pflicht",
+   "s": "Bundesfamilienministerin Karin Prien will mehr Partnerschaftlichkeit bei jungen Eltern. Dafür wagt sie etwas.",
+   "u": "https://taz.de/Kehrtwende-beim-Elterngeld/!6226391/",
+   "q": "taz",
+   "d": "2026-11-02T08:31:00+00:00"
+  },
+  {
+   "t": "Warn-Apps in Ukraine und Russland: Achtung, Achtung, hier hackt Ihr Desinformant",
+   "s": "In der Nacht wurden die Apps für Notfall-Warnungen in Ukraine und Russland möglicherweise gehackt. Die Ukraine vermeldet derweil militärische Erfolge.",
+   "u": "https://taz.de/Warn-Apps-in-Ukraine-und-Russland/!6226598/",
+   "q": "taz",
+   "d": "2026-11-02T08:02:00+00:00"
+  },
+  {
+   "t": "Rot-grün-rote Regierung in Berlin: Die Koalitionsverhandlungen starten",
+   "s": "Linke, Grüne und SPD in Berlin beginnen ihre Verhandlungen über eine gemeinsame Regierung. Bis Dezember könnte ein Koalitionsvertrag stehen.",
+   "u": "https://taz.de/Rot-gruen-rote-Regierung-in-Berlin/!6226597/",
+   "q": "taz",
+   "d": "2026-11-02T07:28:00+00:00"
+  },
+  {
+   "t": "Digitalgipfel: Wie Europa bei KI eigenständig bleiben kann",
+   "s": "Beim Digitalgipfel in Berlin steht Deutschlands KI-Rückstand im Fokus. Christoph Neuberger von der FU Berlin warnt vor Risiken von KI für die Demokratie. Er fordert, Europa müsse eigene Gegenmodelle zu den USA und China schaffen.Heckmann, Dirk-Oliver",
+   "u": "https://www.deutschlandfunk.de/shaping-ai-was-geht-noch-interview-mit-christoph-neuberger-fu-berlin-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-02T07:11:00+00:00"
+  },
+  {
+   "t": "Präsidentschaftswahl in Bulgarien: Jotowa laut Prognosen vorn",
+   "s": "Bei ‌der Stichwahl um ‌das Präsidentenamt liegt das amtierende Staatsoberhaupt Ilijana Jotowa ersten Prognosen zufolge vorn.",
+   "u": "https://taz.de/Praesidentschaftswahl-in-Bulgarien/!6226593/",
+   "q": "taz",
+   "d": "2026-11-02T07:01:00+00:00"
+  },
+  {
+   "t": "Koalitionsgespräche: Schulze (Linke) verteidigt Rot-Grün-Rot in Berlin",
+   "s": "Die Linke startet Koalitionsgespräche mit Grünen und SPD in Berlin. Fraktionschef Tobias Schulze glaubt trotz Kritik an einzelnen Personen seiner Partei an ein Gelingen. Einen Ausschluss der umstrittenen Abgeordneten Vanessa Emde hält er für möglich.Heckmann, Dirk-Oliver",
+   "u": "https://www.deutschlandfunk.de/wie-weiter-zur-koalition-interview-mit-tobias-schulze-linke-fraktion-berlin-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-02T06:15:00+00:00"
+  },
+  {
+   "t": "Schwarze in Brasiliens Industrie: Wer profitiert von Brasiliens Reindustralisierung?",
+   "s": "Brasiliens Wirtschaft verspricht neue Arbeitsplätze. Damit Schwarze Menschen davon etwas haben, braucht es gezielte Maßnahmen gegen Rassismus.",
+   "u": "https://taz.de/Schwarze-in-Brasiliens-Industrie/!6224021/",
+   "q": "taz",
+   "d": "2026-11-02T06:11:00+00:00"
+  },
+  {
+   "t": "Politikwissenschaftler über Midterms: „Der Wahlkampf fühlt sich wie eine Zeitreise an“",
+   "s": "Das Feindbild der Republikaner bei den Midterms ist der Kommunismus. Politikwissenschaftler Jan-Werner Müller bezweifelt, dass die Strategie aufgeht.",
+   "u": "https://taz.de/Politikwissenschaftler-ueber-Midterms/!6223225/",
+   "q": "taz",
+   "d": "2026-11-02T06:07:00+00:00"
+  },
+  {
+   "t": "\"Gen Z regelt\": Bildungsministerin Prien will jungen Menschen zuhören",
+   "s": "Bundesbildungsministerin Karin Prien (CDU) zeigt Verständnis für Forderungen bei den Jugendprotesten. So seien im Bildungsbereich die Argumente von vielen jungen Menschen gerechtfertigt. Gewalt am Rande der Proteste verurteilt sie.Heckmann, Dirk-Oliver",
+   "u": "https://www.deutschlandfunk.de/wie-steht-es-um-die-junge-generation-interview-mit-karin-prien-cdu-bmbfsfj-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-02T05:50:00+00:00"
+  },
+  {
+   "t": "Digitalgipfel der Bundesregierung: Ist der KI-Zug in Deutschland schon abgefahren?",
+   "s": "Die Bundesregierung lädt zum Digitalgipfel nach Berlin. Im Mittelpunkt der zweitägigen Konferenz steht die Frage, wie Deutschland und Europa beim Thema Künstliche Intelligenz global mitreden können.Von J. F. Willems.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T04:19:28+00:00"
+  },
   {
    "t": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
    "s": "Verletzte und geplünderte Geschäfte - die Ausschreitungen nach den Protesten der Gen Z lösen Entsetzen aus. In Köln und Frankfurt wurden die Demos nach Einschätzung der Polizei unterwandert. Innenminister Dobrindt kündigte ein hartes Vorgehen an.",
@@ -71,104 +169,6 @@
    "u": "https://www.tagesschau.de/inland/gesellschaft/kinderlos-elternschaft-millennials-100.html",
    "q": "Tagesschau",
    "d": "2026-11-01T14:51:00+00:00"
-  },
-  {
-   "t": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
-   "s": "Mehr als 180.000 Menschen hatten sich zum bundesweiten \"Gen Z regelt\"-Protesttag angemeldet. Es kamen deutlich weniger. Woran könnte es gelegen haben? Wie reagiert die Politik und welche neuen Aktionen sind geplant?",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-01T14:46:12+00:00"
-  },
-  {
-   "t": "„Gen Z regelt“-Demonstrationen: Eine Bühne für die Unzufriedenheit",
-   "s": "In Hamburg, Berlin und Erfurt bleiben die Proteste eher ruhig. Nur nach dem Ende der Kundgebungen werden mancherorts Böller oder Steine geworfen.",
-   "u": "https://taz.de/Gen-Z-regelt-Demonstrationen/!6226455/",
-   "q": "taz",
-   "d": "2026-11-01T14:35:00+00:00"
-  },
-  {
-   "t": "Flüssiggas-Terminal in Mexiko: Sind Wale Rechtssubjekte?",
-   "s": "Im mexikanischen Bundesstaat Sonora klagen Ak­ti­vis­t:in­nen und Wis­sen­schaft­le­r:in­nen gegen ein LNG-Projekt, um die Wale im Meer zu schützen.",
-   "u": "https://taz.de/Fluessiggas-Terminal-in-Mexiko/!6224031/",
-   "q": "taz",
-   "d": "2026-11-01T14:11:00+00:00"
-  },
-  {
-   "t": "Polarisierung in den USA: Ein „Marxist“ im Maßanzug auf Twitch",
-   "s": "Der Polit-Influencer und Streamer Hasan Piker verschiebt die Grenze des Sagbaren in den USA nach links. Damit trifft er vor den Midterms einen Nerv.",
-   "u": "https://taz.de/Polarisierung-in-den-USA/!6226486/",
-   "q": "taz",
-   "d": "2026-11-01T13:44:00+00:00"
-  },
-  {
-   "t": "Nach der Parlamentswahl in Israel: „Nein zu einer rassistischen Regierung!“",
-   "s": "Tausende Israelis demonstrieren am Samstag in Tel Aviv für eine jüdisch-arabische Regierungskoalition. Doch die politische Situation ist verfahren.",
-   "u": "https://taz.de/Nach-der-Parlamentswahl-in-Israel/!6226410/",
-   "q": "taz",
-   "d": "2026-11-01T13:37:00+00:00"
-  },
-  {
-   "t": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
-   "s": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Besonders in Frankfurt eskalierte die Lage.",
-   "u": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-01T13:07:16+00:00"
-  },
-  {
-   "t": "Prognosemärkte zu US-Midterms: Geschäft mit der Zukunft",
-   "s": "Vor den US-Midterms boomen Prognosemärkte wie Kalshi und Polymarket. Sie liefern oft erstaunlich gute Vorhersagen. Kritiker warnen jedoch vor leichter Manipulation und einer Beeinflussung der Wahlen.",
-   "u": "https://www.deutschlandfunk.de/prognosemaerkte-us-wahlen-midterms-kalshi-polymarket-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-01T12:35:00+00:00"
-  },
-  {
-   "t": "Vor den US-Midterms: Trumps ambivalente Rolle für seine Partei",
-   "s": "Die Zustimmungswerte für US-Präsident Donald Trump sind auf einem historischen Tiefpunkt. Das färbt vor den Zwischenwahlen auch auf die republikanischen Kandidaten ab. Der Partei des Präsidenten drohen Verluste in beiden Häusern des Kongresses.",
-   "u": "https://www.deutschlandfunk.de/us-midterms-2026-donald-trump-republikaner-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-01T12:33:00+00:00"
-  },
-  {
-   "t": "Mandat der UN-Mission abgelaufen: Die Westsahara-Mission wird „liquidiert“",
-   "s": "Ein Veto Russlands im UN-Sicherheitsrat beendet die UN-Mission für die Westsahara. Seit 35 Jahren sollte sie ein Referendum vorbereiten, das nie kam.",
-   "u": "https://taz.de/Mandat-der-UN-Mission-abgelaufen/!6226398/",
-   "q": "taz",
-   "d": "2026-11-01T12:31:00+00:00"
-  },
-  {
-   "t": "Bedrohte Trans-Community: Wis­sen­schaft­le­r:in­nen kritisieren Gesundheitsversorgung",
-   "s": "Nach der Razzia eines Berliner Treffs für trans Menschen bekunden hunderte Wis­sen­schaft­le­r:in­nen ihre Solidarität. Sie fordern bessere Versorgung.",
-   "u": "https://taz.de/Bedrohte-Trans-Community/!6226368/",
-   "q": "taz",
-   "d": "2026-11-01T12:23:00+00:00"
-  },
-  {
-   "t": "\"Gen Z regelt\" will Demos fortsetzen",
-   "s": "Das Fazit der Organisatoren der \"Gen Z regelt\"-Proteste fällt positiv aus - trotz der vereinzelten Gewalt. Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein Sprecher. Der Protest soll bald weitergehen.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-01T11:58:42+00:00"
-  },
-  {
-   "t": "Unterdrückung von Medien in Venezuela: Geldstrafen, Verhaftungen, Schließungen",
-   "s": "Um die Demokratie in Venezuela wiederherzustellen, braucht es Meinungs- und Pressefreiheit. Doch noch gelten dort restriktive Gesetze.",
-   "u": "https://taz.de/Unterdrueckung-von-Medien-in-Venezuela/!6224030/",
-   "q": "taz",
-   "d": "2026-11-01T10:41:00+00:00"
-  },
-  {
-   "t": "Wissenschaft unter Druck: „Wir müssen das Recht verteidigen“",
-   "s": "Rund 200 Ju­ris­t:in­nen betonen in einer gemeinsamen Erklärung die Bedeutung des Rechtsstaats. Eine Mitinitiatorin erklärt, warum.",
-   "u": "https://taz.de/Wissenschaft-unter-Druck/!6226257/",
-   "q": "taz",
-   "d": "2026-11-01T10:38:00+00:00"
-  },
-  {
-   "t": "Krypto-Börse Binance: FBI macht Nordkorea für Hack verantwortlich",
-   "s": "US-Bundespolizei identifiziert Hackergruppe hinter dem Angriff auf die weltgrößte Kyptobörse. Die meldet Ersatz für 90 Prozent der gestohlenen Werte.",
-   "u": "https://taz.de/Krypto-Boerse-Binance/!6226367/",
-   "q": "taz",
-   "d": "2026-11-01T09:42:00+00:00"
   }
  ]
 }

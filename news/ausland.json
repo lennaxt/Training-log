@@ -1,20 +1,62 @@
 {
  "name": "Ausland",
- "updated": "2026-11-02T00:45:45+00:00",
+ "updated": "2026-11-02T11:10:27+00:00",
  "items": [
   {
-   "t": "100 Tage im Amt: Spürbar anders - Ukraines Armee unter Chef Drapatyj",
+   "t": "Kreuzfahrt-Weltreise endet vorzeitig in Kambodscha",
+   "s": "Für manche sollte es eine Kreuzfahrt bis ans Lebensende werden - doch jetzt endete die Reise der \"MV Odyssey\" vorzeitig in Kambodscha. Grund sind laut Reederei die stark gestiegenen Treibstoffpreise. Von Angelika Henkel.",
+   "u": "https://www.tagesschau.de/ausland/asien/kambodscha-kreuzfahrt-odyssey-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T10:51:06+00:00"
+  },
+  {
+   "t": "Michigan vor US-Zwischenwahl: Demokratin unterstützt jetzt Republikaner",
+   "s": "Der Kampf um den Senatssitz für den US-Bundesstaat Michigan ist eng. Nun könnte das Rennen noch spannender werden. Denn eine prominente Demokratin unterstützt nun den Spitzenkandidaten der Republikaner. Der fühlt sich geehrt. Auch Trump freut sich.",
+   "u": "https://www.tagesschau.de/ausland/amerika/midterms-michigan-streit-demokraten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T10:16:12+00:00"
+  },
+  {
+   "t": "Bulgariens amtierende Präsidentin Jotowa gewinnt Stichwahl",
+   "s": "Bulgariens Amtsinhaberin Jotowa hat die Stichwahl um das Präsidentenamt nach Auszählung aller Stimmen gewonnen. Herausforderer Gjurow landete auf dem zweiten Platz. Jotowa gehört zum Lager des als russlandfreundlich geltenden Regierungschefs Radew.",
+   "u": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T09:57:30+00:00"
+  },
+  {
+   "t": "Neun Tote bei Flugzeugabsturz in Florida",
+   "s": "In den USA sind neun Menschen beim Absturz eines Flugzeugs gestorben. Der Privatjet war im Bundesstaat Florida über einem Wohngebiet abgestürzt. Zuvor hatte der Pilot Probleme mit dem Wetter gemeldet.",
+   "u": "https://www.tagesschau.de/ausland/amerika/flugzeugabsturz-usa-florida-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T08:13:47+00:00"
+  },
+  {
+   "t": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
+   "s": "Vor Angriffen warnt die Ukraine die Bevölkerung per App. Doch dabei gibt es nun ein Problem: Die App wurde gehackt, in Kiew wurde fälschlicherweise vor \"Gefahr durch Strahlung\" gewarnt. Auch Russland meldet einen Angriff auf seine Warn-App.",
+   "u": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T06:35:32+00:00"
+  },
+  {
+   "t": "Was das Rennen bei den Midterms entscheiden könnte",
+   "s": "Umfragen deuten darauf hin, dass die Demokraten bei den Midterms das Repräsentantenhaus zurückerobern. Gelingt das auch im Senat? Es wird wohl auf besonders umkämpfte Bundesstaaten ankommen. Von Jörg Schönenborn.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-demokraten-republikaner-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T06:11:04+00:00"
+  },
+  {
+   "t": "Ukraine: Feuerpause in Oleschky ausgelaufen",
+   "s": "Die Feuerpause in Oleschky ist vorbei. Vor ihrem Ende nutzte das ukrainische Militär noch die Gelegenheit, weitere Menschen aus der Region in Sicherheit zu bringen. Unterdessen melden Ukraine und Russland Cyberattacken auf ihre Warn-Apps.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T01:09:27+00:00"
+  },
+  {
+   "t": "Wie sich die ukrainische Armee unter ihrem neuen Chef Drapatyj verändert",
    "s": "Seit 100 Tagen ist der neue ukrainische Armeechef Drapatyj im Amt. Er verändert Führungsstrukturen und setzt auf mehr Eigenverantwortung an der Front. Auch kremlkritische russische Analysten bemerken eine Veränderung. Von Florian Kellermann.",
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-kommandeur-100.html",
    "q": "Tagesschau",
    "d": "2026-11-01T23:50:04+00:00"
-  },
-  {
-   "t": "Bulgariens amtierende Präsidentin Jotowa liegt bei Stichwahl vorn",
-   "s": "Sie sieht sich als \"Präsidentin des Friedens\": Bulgariens Amtsinhaberin Jotowa liegt laut Prognosen bei der Stichwahl vorn. Die russlandfreundliche Politikerin setzte sich gegen Herausforderer Gjurow durch.",
-   "u": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-01T20:37:14+00:00"
   },
   {
    "t": "NASA-Experiment: Mars-Simulation nach einem Jahr beendet",
@@ -32,7 +74,7 @@
   },
   {
    "t": "Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel",
-   "s": "In Polen stehen sich die Regierung von Tusk und das rechtskonservative Lager um Staatspräsident Nawrocki scheinbar unversöhnlich gegenüber. Nun schaltet sich die EU-Kommission in den Streit über das Verfassungsgericht ein.",
+   "s": "In Polen stehen sich die Regierung von Tusk und das rechtskonservative Lager um Staatspräsident Nawrocki anscheinend unversöhnlich gegenüber. Nun schaltet sich die EU-Kommission in den Streit über das Verfassungsgericht ein.",
    "u": "https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html",
    "q": "Tagesschau",
    "d": "2026-11-01T14:25:24+00:00"
@@ -115,13 +157,6 @@
    "d": "2026-10-31T18:05:02+00:00"
   },
   {
-   "t": "Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache",
-   "s": "Zwei Tage lang haben die G20-Außenminister in Atlanta über internationale Krisen beraten. Es ging dabei vor allem um die Folgen für die Weltwirtschaft. Überlagert wurde das Treffen von Spannungen - vor allem mit Russland. Von M. Sambale.",
-   "u": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T16:54:43+00:00"
-  },
-  {
    "t": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
    "s": "Nach der Evakuierung der von Russland besetzten Stadt Oleschky sind gerettete Bewohner in ukrainisch kontrolliertem Gebiet angekommen. Zuvor waren sie mit Militärflugzeugen nach Belarus gebracht worden.",
    "u": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/serbien-studenten-nach-wahlsieg-100.html",
    "q": "Tagesschau",
    "d": "2026-10-31T12:08:42+00:00"
-  },
-  {
-   "t": "Zwei Sullivans in Alaska - wollen Demokraten die Wahl manipulieren?",
-   "s": "In Alaska deutet sich bei den US-Zwischenwahlen ein knappes Rennen um den Senatsposten an. Der republikanische Amtsinhaber Sullivan kämpft auch mit namensgleicher Konkurrenz. Ein Foul der Demokraten? Nun klagt das Justizministerium.",
-   "u": "https://www.tagesschau.de/ausland/amerika/midterms-alaska-sullivan-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T10:51:32+00:00"
-  },
-  {
-   "t": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
-   "s": "Es war die größte gemeinsame Aktion von Ukrainern und Russen seit Kriegsbeginn: Mit 25 Bussen wurden Menschen aus der Frontstadt Oleschky gebracht. Ein Teil von ihnen ist bereits in Belarus angekommen, um in die Ukraine weiterzureisen.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T09:14:41+00:00"
-  },
-  {
-   "t": "Arabische Parteien in Israel stecken in einem Dilemma",
-   "s": "Die arabischen Listen in Israel haben bei der Parlamentswahl große Erfolge erzielt. Sie traten gemeinsam an, unterscheiden sich aber inhaltlich. Vor allem wollen sie nicht nur Mehrheitsbeschaffer sein. Von Julio Segador.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T08:49:15+00:00"
-  },
-  {
-   "t": "Polen: Tumult und Protest vor dem Verfassungsgericht",
-   "s": "Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei sicherte das Gebäude ab, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisherigen Gerichtsführung.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T08:25:36+00:00"
-  },
-  {
-   "t": "Einigung bei der UN-Biodiversitätskonferenz erzielt",
-   "s": "Wie kann die Artenvielfalt geschützt werden? Darüber wurde bei der UN-Biodiversitätskonferenz intensiv verhandelt. Am Ende gab es in Armenien eine Einigung - wenn auch keine besonders ambitionierte.",
-   "u": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T07:09:41+00:00"
   }
  ]
 }
