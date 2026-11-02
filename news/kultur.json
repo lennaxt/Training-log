@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-11-01T19:41:20+00:00",
+ "updated": "2026-11-02T00:45:50+00:00",
  "items": [
+  {
+   "t": "Vor den US-Midterms: Was macht Trump, falls er die Wahlen verliert?",
+   "s": "Auch wenn die US-Demokraten die Kongresswahlen gewinnen, können die Republikaner das sabotieren. Manche Tricks sind illegal – manche schlicht bizarr.",
+   "u": "https://taz.de/Vor-den-US-Midterms/!6226408/",
+   "q": "taz",
+   "d": "2026-11-01T19:14:00+00:00"
+  },
   {
    "t": "Flüssiggas-Terminal in Mexiko: Sind Wale Rechtssubjekte?",
    "s": "Im mexikanischen Bundesstaat Sonora klagen Ak­ti­vis­t:in­nen und Wis­sen­schaft­le­r:in­nen gegen ein LNG-Projekt, um die Wale im Meer zu schützen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Demokratie-in-Venezuela/!6224993/",
    "q": "taz",
    "d": "2026-10-26T10:36:00+00:00"
-  },
-  {
-   "t": "Jubel nach Lulas Sieg: Brasilien im Freudentaumel",
-   "s": "Mit 80 Jahren gewinnt Lula da Silva noch einmal eine Präsidentschaftswahl. Sein Gegner, Flávio Bolsonaro, will das Ergebnis nicht anerkennen.",
-   "u": "https://taz.de/Jubel-nach-Lulas-Sieg/!6224965/",
-   "q": "taz",
-   "d": "2026-10-26T07:54:00+00:00"
   }
  ]
 }

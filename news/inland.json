@@ -1,20 +1,27 @@
 {
  "name": "Inland",
- "updated": "2026-11-01T19:41:14+00:00",
+ "updated": "2026-11-02T00:45:45+00:00",
  "items": [
+  {
+   "t": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
+   "s": "Verletzte und geplünderte Geschäfte - die Ausschreitungen nach den Protesten der Gen Z lösen Entsetzen aus. In Köln und Frankfurt wurden die Demos nach Einschätzung der Polizei unterwandert. Innenminister Dobrindt kündigte ein hartes Vorgehen an.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T20:27:02+00:00"
+  },
+  {
+   "t": "Wildberger bestätigt ARD-Bericht zu Hackerangriff",
+   "s": "Nach Informationen der ARD hat es möglicherweise einen Hackerangriff auf Bundestagsabgeordnete und Mitglieder der Bundesregierung gegeben. Im Bericht aus Berlin bestätigte Digitalminister Wildberger den Einsatz von Spyware. Details nannte er nicht.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T19:59:02+00:00"
+  },
   {
    "t": "Ukrainekrieg: Optimismus ist fehl am Platz",
    "s": "Wer die Evakuierung aus Oleschky für ein Zeichen hält, dass Putin nun zu ernsthaften Friedensverhandlungen bereit wäre, ist komplett weltfremd.",
    "u": "https://taz.de/Ukrainekrieg/!6226440/",
    "q": "taz",
    "d": "2026-11-01T19:19:00+00:00"
-  },
-  {
-   "t": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
-   "s": "Verletzte und geplünderte Geschäfte - die Ausschreitungen nach den Protesten der Gen Z lösen Entsetzen aus. In Köln und Frankfurt wurden die Demos nach Einschätzung der Polizei unterwandert. Innenminister Dobrindt kündigte ein hartes Vorgehen an.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-01T19:16:37+00:00"
   },
   {
    "t": "Vor den US-Midterms: Was macht Trump, falls er die Wahlen verliert?",
@@ -31,8 +38,8 @@
    "d": "2026-11-01T19:11:00+00:00"
   },
   {
-   "t": "Gen-Z-regelt-Protest: Der Sündenbock ist schnell gefunden",
-   "s": "Bei den Protesten von „Gen Z regelt“ kommt es in Frankfurt und Köln zu Krawallen. Hessens Innenministerium macht vor allem „Migranten“ verantwortlich.",
+   "t": "Nach Gen-Z-regelt-Protest: Der Sündenbock ist schnell gefunden",
+   "s": "Nach den Protesten von „Gen Z regelt“ kommt es in Frankfurt und Köln zu Krawallen. Hessens Innenministerium macht vor allem „Migranten“ verantwortlich.",
    "u": "https://taz.de/Gen-Z-regelt-Protest/!6226457/",
    "q": "taz",
    "d": "2026-11-01T18:05:00+00:00"
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Krypto-Boerse-Binance/!6226367/",
    "q": "taz",
    "d": "2026-11-01T09:42:00+00:00"
-  },
-  {
-   "t": "Folgen der neuen Grundsicherung: Bloß nicht für die Kinder sparen",
-   "s": "Nach der Abwicklung des Bürgergelds bekommt Patrick Schröder für seine Kinder kein Geld mehr vom Amt. Ihn trifft die neue Härte und eine komplexe Regel.",
-   "u": "https://taz.de/Folgen-der-neuen-Grundsicherung/!6226309/",
-   "q": "taz",
-   "d": "2026-11-01T09:32:00+00:00"
   }
  ]
 }

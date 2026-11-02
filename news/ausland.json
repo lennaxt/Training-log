@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-11-01T19:41:15+00:00",
+ "updated": "2026-11-02T00:45:45+00:00",
  "items": [
+  {
+   "t": "100 Tage im Amt: Spürbar anders - Ukraines Armee unter Chef Drapatyj",
+   "s": "Seit 100 Tagen ist der neue ukrainische Armeechef Drapatyj im Amt. Er verändert Führungsstrukturen und setzt auf mehr Eigenverantwortung an der Front. Auch kremlkritische russische Analysten bemerken eine Veränderung. Von Florian Kellermann.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-kommandeur-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T23:50:04+00:00"
+  },
+  {
+   "t": "Bulgariens amtierende Präsidentin Jotowa liegt bei Stichwahl vorn",
+   "s": "Sie sieht sich als \"Präsidentin des Friedens\": Bulgariens Amtsinhaberin Jotowa liegt laut Prognosen bei der Stichwahl vorn. Die russlandfreundliche Politikerin setzte sich gegen Herausforderer Gjurow durch.",
+   "u": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T20:37:14+00:00"
+  },
+  {
+   "t": "NASA-Experiment: Mars-Simulation nach einem Jahr beendet",
+   "s": "Vier Menschen haben in den USA gemeinsam ein Jahr auf 160 Quadratmetern verbracht - für die Wissenschaft. Nun ist das NASA-Experiment vorbei. Ziel der langen Zeit in Isolation war die Simulation des Lebens auf dem Mars.",
+   "u": "https://www.tagesschau.de/ausland/nasa-mars-108.html",
+   "q": "Tagesschau",
+   "d": "2026-11-01T19:42:19+00:00"
+  },
   {
    "t": "Iran-Krieg: Golfstaaten bereiten sich auf neue Eskalation vor",
    "s": "Die Sorge vor einer erneuten Eskalation im Iran-Krieg wächst - vor allem in den Golfstaaten. Eine Folge: Aufrüstung. Auf einer Konferenz beraten Politiker aus der Region mit Experten. Auch Deutschland ist vertreten. Von M. Behrendt.",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html",
    "q": "Tagesschau",
    "d": "2026-10-31T07:09:41+00:00"
-  },
-  {
-   "t": "Frust bei US-Farmern könnte Trump Stimmen bei den Midterms kosten",
-   "s": "Landwirte gelten als wichtige Wählergruppe der US-Republikaner. Doch steigende Kosten und eine unberechenbare Zollpolitik sorgen für Frust. Das könnte bei den Zwischenwahlen zum Stresstest für die Trump-Regierung werden. Von S. Jackisch.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-landwirtschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T04:52:21+00:00"
-  },
-  {
-   "t": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
-   "s": "Hohe Lebenshaltungskosten, steigende Rüstungsausgaben, zu wenig Investition in Bildung: In Italien sind Hunderttausende Menschen gegen die Politik der Regierung auf die Straße gegangen - begleitet von einem massiven Polizeiaufgebot.",
-   "u": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T17:23:20+00:00"
-  },
-  {
-   "t": "Wahl-Patt in Israel: Regierungsbildung nicht in Sicht",
-   "s": "Das Endergebnis der Wahl in Israel bringt für keinen Parteienblock eine regierungsfähige Mehrheit. Jetzt könnten die arabischen Parteien zum Zuge kommen. Doch aus dem Netanjahu-Lager kommen neue Vorwürfe. Konkurrent Eisenkot reagiert. Von Tim Aßmann.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T14:28:05+00:00"
   }
  ]
 }
