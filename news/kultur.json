@@ -1,10 +1,31 @@
 {
  "name": "Kultur",
- "updated": "2026-11-02T11:10:33+00:00",
+ "updated": "2026-11-02T23:06:57+00:00",
  "items": [
   {
+   "t": "USA vor den Midterms: Forever Trump?",
+   "s": "Als Donald Trump das erste Mal US-Präsident wurde, erklärten Samuel Cosmano und andere der taz, warum sie ihn wählten. Wie sehen sie seine Politik heute?",
+   "u": "https://taz.de/US-Midterms-Fuer-immer-Trump-Wir-haben-Waehler-Jahre-spaeter-erneut-gefragt/!6223276/",
+   "q": "taz",
+   "d": "2026-11-02T19:07:00+00:00"
+  },
+  {
+   "t": "Senatswahlkampf in Michigan: „Verrat“ bei den Demokraten in letzter Minute",
+   "s": "Die Demokratin Stevens zieht kurzfristig ihre Unterstützung für den linken Muslim Abdul El-Sayed zurück. Grund: Streit um den Nahost-Konflikt.",
+   "u": "https://taz.de/Senatswahlkampf-in-Michigan/!6226694/",
+   "q": "taz",
+   "d": "2026-11-02T16:28:00+00:00"
+  },
+  {
+   "t": "Internationale Zusammenarbeit in Peru: Demokratie unter Aufsicht",
+   "s": "Eine neue Regelung in Peru könnte die Arbeit internationaler Organisationen massiv einschränken. Davon betroffen sind politische Stiftungen aus Deutschland.",
+   "u": "https://taz.de/Internationale-Zusammenarbeit-in-Peru/!6224024/",
+   "q": "taz",
+   "d": "2026-11-02T15:09:00+00:00"
+  },
+  {
    "t": "Friedensgericht in Kolumbien: Keine Sicherheit, sondern ein Blutbad",
-   "s": "In Kolumbien hat das Sondergericht für den Frieden die bislang hochrangigsten Militärs angeklagt. Der rechtsextremen Regierung gefällt das gar nicht.",
+   "s": "In Kolumbien hat das Sondergericht für den Frieden die bislang höchstrangigen Militärs angeklagt. Der rechtsextremen Regierung gefällt das gar nicht.",
    "u": "https://taz.de/Friedensgericht-in-Kolumbien/!6226557/",
    "q": "taz",
    "d": "2026-11-02T08:41:00+00:00"
@@ -38,7 +59,7 @@
    "d": "2026-11-01T14:11:00+00:00"
   },
   {
-   "t": "Polarisierung in den USA: Ein „Marxist“ im Maßanzug auf Twitch",
+   "t": "Polit-Influencer Hasan Piker: Ein „Marxist“ im Maßanzug auf Twitch",
    "s": "Der Polit-Influencer und Streamer Hasan Piker verschiebt die Grenze des Sagbaren in den USA nach links. Damit trifft er vor den Midterms einen Nerv.",
    "u": "https://taz.de/Polarisierung-in-den-USA/!6226486/",
    "q": "taz",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Politikprofessor-ueber-linke-Wahlerfolge/!6225408/",
    "q": "taz",
    "d": "2026-10-28T13:02:00+00:00"
-  },
-  {
-   "t": "Brasilien nach der Wahl: Wahlverlierer Bolsonaro setzt sich in die USA ab",
-   "s": "Flávio Bolsonaro ist nach wilder Flucht in den USA gelandet, Trump heißt ihn herzlich willkommen. In Brasilien ordnet sich die Rechte bereits neu.",
-   "u": "https://taz.de/Brasilien-nach-der-Wahl/!6225570/",
-   "q": "taz",
-   "d": "2026-10-28T07:41:00+00:00"
-  },
-  {
-   "t": "Nach der Wahl in Brasilien: Die Verlierer erkennen die Niederlage an",
-   "s": "Die Partei von Brasiliens Wahlverlierer Flávio Bolsonaro erkennt Lulas Wahlsieg an. Gegen den unterlegenen Kandidaten selbst wird wieder ermittelt.",
-   "u": "https://taz.de/Nach-der-Wahl-in-Brasilien/!6225298/",
-   "q": "taz",
-   "d": "2026-10-27T12:02:00+00:00"
-  },
-  {
-   "t": "Präsidentschaftswahl in Brasilien: Bolsonaro darf das Land vorerst nicht verlassen",
-   "s": "Flávio Bolsonaro geht juristisch gegen Lulas Sieg vor, seine Partei erkennt das Wahlergebnis nur unter Vorbehalt an. Trump spricht von Manipulation.",
-   "u": "https://taz.de/Praesidentschaftswahl-in-Brasilien/!6225258/",
-   "q": "taz",
-   "d": "2026-10-27T07:42:00+00:00"
   }
  ]
 }

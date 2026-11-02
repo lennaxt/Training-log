@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-02T11:10:31+00:00",
+ "updated": "2026-11-02T23:06:56+00:00",
  "items": [
+  {
+   "t": "Staatskrise in Polen: Kampf um Deutungshoheit",
+   "s": "In Polen eskaliert der Streit um das Verfassungsgericht und weitet sich zur Staatskrise aus. Von der Eskalation profitieren die Populisten.",
+   "u": "https://taz.de/Staatskrise-in-Polen/!6226669/",
+   "q": "taz",
+   "d": "2026-11-02T16:49:00+00:00"
+  },
+  {
+   "t": "Präsidentschaftswahl in Bulgarien: Wohin steuert Jotowa?",
+   "s": "Wahlgewinnerin Ilijana Jotowa gilt als russlandfreundlich, Hilfen für die Ukraine lehnt sie ab. Wird das für die EU zum Problem?",
+   "u": "https://taz.de/Praesidentschaftswahl-in-Bulgarien/!6226698/",
+   "q": "taz",
+   "d": "2026-11-02T16:47:00+00:00"
+  },
+  {
+   "t": "Regierungskrise in Belgien: Premierminister De Wever bietet Rücktritt an",
+   "s": "Zehntausende gingen gegen die Sparpläne seiner Koalition auf die Straße. Im Streit um den Haushalt wirft Belgiens Premier jetzt das Handtuch.",
+   "u": "https://taz.de/Regierungskrise-in-Belgien/!6226833/",
+   "q": "taz",
+   "d": "2026-11-02T15:42:00+00:00"
+  },
   {
    "t": "Warn-Apps in Ukraine und Russland: Achtung, Achtung, hier hackt Ihr Desinformant",
    "s": "In der Nacht wurden die Apps für Notfall-Warnungen in Ukraine und Russland möglicherweise gehackt. Die Ukraine vermeldet derweil militärische Erfolge.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Humanitaere-Hilfe-in-der-Ukraine/!6226127/",
    "q": "taz",
    "d": "2026-10-29T18:18:00+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Kollektivhaftung für Krawallschäden",
-   "s": "Nach Ausschreitungen bei den Sozialprotesten beschließt der französische Senat neue Sicherheitsgesetze. Auch Unbeteiligte sollen zur Kasse gebeten werden.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6226011/",
-   "q": "taz",
-   "d": "2026-10-29T14:14:00+00:00"
-  },
-  {
-   "t": "Zugunglück in Spanien: Erst ein technisches Problem, dann menschliches Versagen",
-   "s": "Nach einem Computerausfall auf der Zugstrecke von Madrid nach Sevilla machte die Leitzentrale der Bahn fatale Fehler.",
-   "u": "https://taz.de/Zugunglueck-in-Spanien/!6225987/",
-   "q": "taz",
-   "d": "2026-10-29T14:07:00+00:00"
-  },
-  {
-   "t": "Leitung der Europäischen Zentralbank: Christine Lagarde hört früher auf",
-   "s": "Die EZB-Chefin verschafft der Politik Zeit bei der Regelung ihrer Nachfolge – die Sorge vor Rechtspopulisten ist groß. Die Chance für Deutschland?",
-   "u": "https://taz.de/Leitung-der-Europaeischen-Zentralbank/!6225963/",
-   "q": "taz",
-   "d": "2026-10-29T10:48:00+00:00"
   }
  ]
 }

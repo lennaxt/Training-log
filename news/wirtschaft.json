@@ -1,13 +1,34 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-02T11:10:28+00:00",
+ "updated": "2026-11-02T23:06:52+00:00",
  "items": [
   {
-   "t": "Marktbericht: Gespannte Lage vor US-Zwischenwahlen",
-   "s": "Vor den US-Zwischenwahlen halten sich die Anleger lieber zurück. Zum Wochenstart gibt der DAX etwas nach. Mit Spannung warten die Investoren auch auf die heutigen Apple-Zahlen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html",
+   "t": "Wirtschaft vor acht vom 02.11.2026",
+   "s": "Wirtschaft vor acht vom 02.11.2026",
+   "u": "https://www.tagesschau.de/video/video-1676936.html",
    "q": "Tagesschau",
-   "d": "2026-11-02T09:06:31+00:00"
+   "d": "2026-11-02T20:02:11+00:00"
+  },
+  {
+   "t": "Cyberangriffe haben Supermärkte in Europa offenbar lahmgelegt",
+   "s": "Cyberkriminelle haben offenbar wieder Supermärkte angegriffen. Sie sorgten besonders in Belgien und Schweden dafür, dass Kühlschränke und Tiefkühltruhen wärmer wurden. Es ist nicht das erste Mal.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-supermaerkte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T16:10:17+00:00"
+  },
+  {
+   "t": "Marktbericht: Teurer Wohnraum bremst Deutschlands Wirtschaft",
+   "s": "Der Mangel an Wohnraum und die hohen Mieten verhindern die berufliche Mobilität und erschweren Unternehmen die Suche nach Fachkräften. Experten fordern deshalb mehr Anreize für den Wohnungsbau.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/teurer-wohnraum-wirtschaftswachstum-marktbericht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T13:15:24+00:00"
+  },
+  {
+   "t": "Vor den US-Zwischenwahlen: Wie ist Trumps Wirtschaftsbilanz?",
+   "s": "Die Wirtschaft wächst, doch viele Amerikaner leiden unter hohen Lebenshaltungskosten. Der US-Arbeitsmarkt verliert an Schwung, die Staatsverschuldung steigt. Wie steht es um die Wirtschaft der Vereinigten Staaten? Von Michelle Goddemeier.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zwischenstand-us-wirtschaft-entwicklung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T11:25:40+00:00"
   },
   {
    "t": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
@@ -57,13 +78,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
    "q": "Tagesschau",
    "d": "2026-10-31T07:45:19+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 30.10.2026",
-   "s": "Wirtschaft vor acht vom 30.10.2026",
-   "u": "https://www.tagesschau.de/video/video-1675498.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T20:26:47+00:00"
   },
   {
    "t": "Inflationsrate geht im Oktober auf 2,8 Prozent zurück",
@@ -155,20 +169,6 @@
    "u": "https://www.deutschlandfunk.de/doctolib-nvidia-einstieg-datenschutz-kritik-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-15T12:06:00+00:00"
-  },
-  {
-   "t": "Der Kampf ums Trinkwasser im brandenburgischen Baruth",
-   "s": "Die Unternehmen Red Bull und Rauch produzieren in Baruth Getränke und dürfen dabei 92 Prozent des Grundwassers, das der brandenburgischen Stadt zur Verfügung steht, entnehmen. Eine Bürgerinitiative wehrt sich und kämpft um Akteneinsicht.Von Andrea Rehmsmeier",
-   "u": "https://www.deutschlandfunk.de/red-bull-wasser-baruth-brandenburg-konflikt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-14T16:40:00+00:00"
-  },
-  {
-   "t": "Kommentar zur Erbschaftssteuer: Mehr Gerechtigkeit wagen!",
-   "s": "Das Bundesverfassungsgericht beschäftigt sich mit der Erbschaftssteuer. Hierbei geht es um Fragen der Gerechtigkeit, mit denen sich eigentlich die Politik auseinandersetzen sollte. Die Koalition könnte dabei Handlungsfähigkeit zeigen.Ein Standpunkt von Gudula Geuther",
-   "u": "https://www.deutschlandfunk.de/erbschaftssteuer-gerechtigkeit-verfassungsgericht-firmenerben-koalition-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-13T15:50:00+00:00"
   }
  ]
 }

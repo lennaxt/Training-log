@@ -1,7 +1,49 @@
 {
  "name": "Ausland",
- "updated": "2026-11-02T11:10:27+00:00",
+ "updated": "2026-11-02T23:06:51+00:00",
  "items": [
+  {
+   "t": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
+   "s": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 26 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor - demnach traf die Attacke ein Verteilzentrum für Hilfsgüter.",
+   "u": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T21:21:05+00:00"
+  },
+  {
+   "t": "Warum es bei diesen Midterms auch auf Alaska ankommen könnte",
+   "s": "Obwohl Alaska traditionell republikanisch wählt, liegt die Demokratin Peltola in Umfragen vorn. Der Ausgang im nördlichsten Bundesstaat könnte die Midterms entscheidend beeinflussen. Den Wahlkampf bestimmen auch hier die hohen Preise. Von Torben Börgers.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-alaska-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T20:15:15+00:00"
+  },
+  {
+   "t": "Abenteurer Bushby kehrt nach 28 Jahren von Weltreise zurück",
+   "s": "50.000 Kilometer in 28 Jahren - hinter dem englischen Abenteurer Karl Bushby liegt eine gewaltige Wanderung. Nun ist er in seine Heimatstadt Hull zurückgekehrt - und wurde von seiner gerührten Mutter empfangen. Von Lisa-Maria Röhling.",
+   "u": "https://www.tagesschau.de/ausland/bushby-lauf-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T20:00:49+00:00"
+  },
+  {
+   "t": "Handel mit Merchandise: Nicht mehr viel los im Trump-Shop",
+   "s": "Fanartikel von Trump waren einmal ein gutes Geschäft in den USA. Im ganzen Land eröffneten Shops, in denen es Devotionalien aller Art gab - nicht nur die bekannten roten MAGA-Mützen. Wie läuft das Geschäft inzwischen? Von C. Kühntopp.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-stores-fanshop-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T17:24:23+00:00"
+  },
+  {
+   "t": "Afghanistans Kindern droht ein tödlicher Winter",
+   "s": "Die humanitäre Lage in Afghanistan gehört zu den größten Krisen weltweit. Besonders betroffen: Kinder. Nun schlagen Hilfsorganisationen wie UNICEF Alarm. Die Zahl der akut mangelernährten Mädchen und Jungen steige. Von F. Amler.",
+   "u": "https://www.tagesschau.de/ausland/asien/afghanistan-haumanitare-lage-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T15:07:44+00:00"
+  },
+  {
+   "t": "Neun Tote bei Flugzeugabsturz in Florida",
+   "s": "In den USA sind neun Menschen beim Absturz eines Flugzeugs gestorben. Der Privatjet war im Bundesstaat Florida über einem Wohngebiet abgestürzt. Zuvor hatte die Pilotin Probleme mit dem Wetter gemeldet.",
+   "u": "https://www.tagesschau.de/ausland/amerika/flugzeugabsturz-usa-florida-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T12:33:01+00:00"
+  },
   {
    "t": "Kreuzfahrt-Weltreise endet vorzeitig in Kambodscha",
    "s": "Für manche sollte es eine Kreuzfahrt bis ans Lebensende werden - doch jetzt endete die Reise der \"MV Odyssey\" vorzeitig in Kambodscha. Grund sind laut Reederei die stark gestiegenen Treibstoffpreise. Von Angelika Henkel.",
@@ -22,13 +64,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
    "q": "Tagesschau",
    "d": "2026-11-02T09:57:30+00:00"
-  },
-  {
-   "t": "Neun Tote bei Flugzeugabsturz in Florida",
-   "s": "In den USA sind neun Menschen beim Absturz eines Flugzeugs gestorben. Der Privatjet war im Bundesstaat Florida über einem Wohngebiet abgestürzt. Zuvor hatte der Pilot Probleme mit dem Wetter gemeldet.",
-   "u": "https://www.tagesschau.de/ausland/amerika/flugzeugabsturz-usa-florida-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-02T08:13:47+00:00"
   },
   {
    "t": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
@@ -80,13 +115,6 @@
    "d": "2026-11-01T14:25:24+00:00"
   },
   {
-   "t": "Wahlkampf der US-Demokraten: Links, rechts - oder am besten in der Mitte?",
-   "s": "Gemeinsam gegen Trump: Darin sind sich die Demokraten in den USA einig. Aber darüber hinaus? Im Wahlkampf in Colorado zeigt sich die ganze Bandbreite an politischen Ideen der Partei. Isabel Schayani hat drei Kandidierende begleitet.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-colorado-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-01T14:25:00+00:00"
-  },
-  {
    "t": "Israel: Demos für Einbindung der arabischen Parteien",
    "s": "Sie demonstrierten für Veränderung - und die Ablösung von Premier Netanjahu: In Israel haben Hunderte die Opposition dazu aufgerufen, die arabischen Parteien an der Regierungsbildung zu beteiligen.",
    "u": "https://www.tagesschau.de/ausland/asien/israel-demo-arabische-parteien-100.html",
@@ -115,20 +143,6 @@
    "d": "2026-11-01T08:43:57+00:00"
   },
   {
-   "t": "Bunte \"Tag der Toten\"-Parade zieht durch Mexiko-Stadt",
-   "s": "Schaurige Skelette, elegante Catrinas: In Mexiko-Stadt hat zum zehnten Mal eine Parade zum \"Tag der Toten\" stattgefunden. Das farbenfrohe Schauspiel geht auf einen Bond-Film zurück, die Traditionen dahinter sind viel älter.",
-   "u": "https://www.tagesschau.de/ausland/mexiko-feierlichkeiten-november-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-01T07:57:56+00:00"
-  },
-  {
-   "t": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
-   "s": "Nach seiner Wahlniederlage setzte sich der brasilianische Präsidentschaftskandidat Flávio Bolsonaro in die USA ab. Dort darf er bleiben - \"so lange, wie er will\", sagte Präsident Trump. Treffen will er Bolsonaro vorerst nicht.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-bolsonaro-usa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-01T07:45:02+00:00"
-  },
-  {
    "t": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
    "s": "Polens Präsident drängt sich mit Körpereinsatz ins Verfassungsgericht und drückt eine Richterin nach unten. Nun äußert sich Regierungschef Tusk zu dem Vorfall. Der Opposition wirft er einen Angriff auf Demokratie und Rechtsstaat vor.",
    "u": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
@@ -150,25 +164,11 @@
    "d": "2026-10-31T20:11:14+00:00"
   },
   {
-   "t": "Midterms in den USA: Kippt ausgerechnet Texas?",
-   "s": "In Texas könnte bei den Zwischenwahlen am Dienstag ein Demokrat das Rennen um den Sitz im US-Senat für sich entscheiden. Dabei gewinnen in dem Bundesstaat seit Jahrzehnten verlässlich die Republikaner. Welche Themen beschäftigen die Wähler? Von S. Schmidt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T18:05:02+00:00"
-  },
-  {
    "t": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
    "s": "Nach der Evakuierung der von Russland besetzten Stadt Oleschky sind gerettete Bewohner in ukrainisch kontrolliertem Gebiet angekommen. Zuvor waren sie mit Militärflugzeugen nach Belarus gebracht worden.",
    "u": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
    "q": "Tagesschau",
    "d": "2026-10-31T15:06:39+00:00"
-  },
-  {
-   "t": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden",
-   "s": "Auch rund eine Woche nach ihrem Wahlsieg in Serbien staunt die Studentenbewegung noch über ihren Erfolg. Ihre Mitglieder merken aber im Alltag: Das System von Ex-Präsident Vucic verschwindet nicht über Nacht. Von A. Bachmann und I. Bafas.",
-   "u": "https://www.tagesschau.de/ausland/europa/serbien-studenten-nach-wahlsieg-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T12:08:42+00:00"
   }
  ]
 }
