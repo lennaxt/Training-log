@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-02T23:06:54+00:00",
+ "updated": "2026-11-03T10:54:02+00:00",
  "items": [
+  {
+   "t": "Forsa-Umfrage zu Jugendprotesten: 83 Prozent haben Verständnis für die Proteste",
+   "s": "Die bundesweiten Demonstrationen junger Menschen stoßen in der Bevölkerung auf großes Verständnis. Zugleich sorgt Dobrindts Aussage über ein „migrantisches Milieu“ für Kritik.",
+   "u": "https://taz.de/Forsa-Umfrage-zu-Jugendprotesten/!6226894/",
+   "q": "taz",
+   "d": "2026-11-03T08:34:00+00:00"
+  },
+  {
+   "t": "Bildung gegen Hass: Jüdische Akademie eröffnet",
+   "s": "In Frankfurt eröffnet die Jüdische Akademie. Die Bildungseinrichtung soll gegen Antisemitismus wirken. Bei der Eröffnungsrede geht es auch um die Berliner Linke.",
+   "u": "https://taz.de/Bildung-gegen-Hass/!6226766/",
+   "q": "taz",
+   "d": "2026-11-03T06:19:00+00:00"
+  },
   {
    "t": "Ausschreitungen nach Gen-Z-Protesten: Und wieder als fremd markiert",
    "s": "Unionspolitiker machen das „migrantische Millieu“ für Ausschreitungen in Frankfurt verantwortlich. Kein Wunder, dass sich die ständige Ausgrenzung in Wut verwandelt.",
@@ -17,8 +31,8 @@
    "d": "2026-11-02T19:05:00+00:00"
   },
   {
-   "t": "Nur die Antifa verhindert Terror: Mordlüsterne Neonazis gestoppt",
-   "s": "Die Recherche-Gruppe Exif verhindert einen Brandanschlag in Winsen: Sie hat die Pläne aus einer Terror-Chatgruppe ernster genommen als die Polizei.",
+   "t": "Antifaschisten verhindern Terror: Mordlüsterne Neonazis gestoppt",
+   "s": "Die Recherche-Gruppe Exif verhindert einen Brandanschlag in Winsen. Sie hat die Pläne aus einer Terror-Chatgruppe ernster genommen als die Polizei.",
    "u": "https://taz.de/Nur-die-Antifa-verhindert-Terror/!6226695/",
    "q": "taz",
    "d": "2026-11-02T16:55:00+00:00"
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Live-Ticker-GenZ-regelt/!6226335/",
    "q": "taz",
    "d": "2026-10-31T13:42:00+00:00"
-  },
-  {
-   "t": "+++ GenZ regelt +++: Und dann geht’s doch noch ab: Pyro, Barrikaden, Polizeigewalt",
-   "s": "Zehntausende demonstrieren für eine bessere Zukunft – mehrheitlich friedlich. Am Abend fliegen an einzelnen Orten Pyros und Flaschen, die Polizei greift an und verletzt einige Demonstrierende.",
-   "u": "https://taz.de/Live-Ticker-GenZ-regelt/!6226335/",
-   "q": "taz",
-   "d": "2026-10-31T13:42:00+00:00"
-  },
-  {
-   "t": "Parteitag der Berliner Linken: Elif Eralp gibt sich kämpferisch",
-   "s": "Unter großem Applaus bekräftigt die Linken-Spitzenfrau Eralp ihr Ziel einer rot-grün-roten Koalition. Die Angriffe auf die Linke hätten „jedes Maß verloren“.",
-   "u": "https://taz.de/Elif-Eralp-gibt-sich-kaempferisch/!6226334/",
-   "q": "taz",
-   "d": "2026-10-31T11:05:00+00:00"
   }
  ]
 }

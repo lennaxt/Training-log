@@ -1,7 +1,56 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-02T23:06:52+00:00",
+ "updated": "2026-11-03T10:54:01+00:00",
  "items": [
+  {
+   "t": "Bundesnetzagentur fördert den Bau elf neuer Gaskraftwerke",
+   "s": "Die Bundesnetzagentur vergibt erstmals eine Förderung für neue Gas-Reservekraftwerke. In Brandenburg, NRW und Sachsen sind die meisten Projekte geplant. Mehrere Unternehmen profitieren.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/bundesnetzagentur-gaskraftwerke-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T10:28:56+00:00"
+  },
+  {
+   "t": "Marktbericht: Anleger scheuen vor US-Zwischenwahlen das Risiko",
+   "s": "Die Sorge vor einer erneuten Eskalation im Nahen Osten drückt auf die Stimmung der Anleger. Und vor den US-Zwischenwahlen herrscht ohnehin Nervosität. Der DAX fällt zum Handelsstart weiter zurück.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T09:15:35+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 03.11.2026",
+   "s": "Update Wirtschaft vom 03.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1677148.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T09:08:43+00:00"
+  },
+  {
+   "t": "Kahlschlag bei Schaeffler: Stellenabbau und Standortschließungen",
+   "s": "Die Krise der deutschen Autoindustrie lässt Schaeffler zu drastischen Maßnahmen greifen. Tausende Stellen werden gestrichen. In Deutschland stehen vier Werke vor dem Aus.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/schaeffler-154.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T09:02:12+00:00"
+  },
+  {
+   "t": "Starkes iPhone-Geschäft sorgt für Rekordumsatz bei Apple",
+   "s": "Apple hat unter dem neuen Konzernchef John Ternus ‌die Erwartungen von Börsenprofis übertroffen. Der iPhone-Umsatz und die Konzernerlöse haben im dritten Quartal Rekordwerte erreicht. Die Aktie fällt trotzdem.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-rekordumsatz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T08:13:13+00:00"
+  },
+  {
+   "t": "Was Polens Wirtschaft boomen lässt",
+   "s": "Jahrzehntelang galt Polen als der arme Nachbar im Osten. Ein längst veraltetes Klischee: Die polnische Wirtschaft wächst stark - was viele Menschen aus Deutschland anlockt. Von Christiane Cichy.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/polen-boom-wirtschaftswunder-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T07:23:57+00:00"
+  },
+  {
+   "t": "11KM-Podcast: Chip im Gehirn - wie KI und Mensch verbunden werden",
+   "s": "Künstliche Intelligenz wird mit dem Menschen verknüpft über Sensoren im Gehirn. 11KM klärt, welche Chancen das für die Medizin bringt und ob auch private Gedanken von der KI manipuliert werden könnten.",
+   "u": "https://www.tagesschau.de/multimedia/podcast/11km/chips-hirn-schnittstelle-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T06:03:56+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 02.11.2026",
    "s": "Wirtschaft vor acht vom 02.11.2026",
@@ -10,18 +59,18 @@
    "d": "2026-11-02T20:02:11+00:00"
   },
   {
+   "t": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
+   "s": "In Sachen KI hängt Deutschland international hinterher. Bei einem Digitalgipfel in Berlin forderte Kanzler Merz daher einen schnellen und energischen Ausbau der KI-Fähigkeiten. Doch viel Zeit bleibe dafür nicht mehr, sagen Experten.",
+   "u": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-02T18:33:00+00:00"
+  },
+  {
    "t": "Cyberangriffe haben Supermärkte in Europa offenbar lahmgelegt",
    "s": "Cyberkriminelle haben offenbar wieder Supermärkte angegriffen. Sie sorgten besonders in Belgien und Schweden dafür, dass Kühlschränke und Tiefkühltruhen wärmer wurden. Es ist nicht das erste Mal.",
    "u": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-supermaerkte-100.html",
    "q": "Tagesschau",
    "d": "2026-11-02T16:10:17+00:00"
-  },
-  {
-   "t": "Marktbericht: Teurer Wohnraum bremst Deutschlands Wirtschaft",
-   "s": "Der Mangel an Wohnraum und die hohen Mieten verhindern die berufliche Mobilität und erschweren Unternehmen die Suche nach Fachkräften. Experten fordern deshalb mehr Anreize für den Wohnungsbau.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/teurer-wohnraum-wirtschaftswachstum-marktbericht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-02T13:15:24+00:00"
   },
   {
    "t": "Vor den US-Zwischenwahlen: Wie ist Trumps Wirtschaftsbilanz?",
@@ -36,13 +85,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
    "q": "Tagesschau",
    "d": "2026-11-02T08:59:47+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 02.11.2026",
-   "s": "Update Wirtschaft vom 02.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1676508.html",
-   "q": "Tagesschau",
-   "d": "2026-11-02T08:59:30+00:00"
   },
   {
    "t": "IG Metall weitet im Tarifstreit Warnstreiks aus",
@@ -80,25 +122,11 @@
    "d": "2026-10-31T07:45:19+00:00"
   },
   {
-   "t": "Inflationsrate geht im Oktober auf 2,8 Prozent zurück",
-   "s": "Die hohe Inflation in Deutschland ‌hat sich im Oktober spürbar abgeschwächt. Dafür sorgen vor allem die fallenden Preise an den Zapfsäulen. Doch Ökonomen geben noch keine Entwarnung.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/inflationsrate-deutschland-oktober-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T14:08:37+00:00"
-  },
-  {
    "t": "Wie der VW-Vorstand die Laune bei den Skoda-Mitarbeitern drückt",
    "s": "Während die Konzernmutter Volkswagen viele Probleme hat, erwirtschaftet die tschechische Tochter Skoda passable Gewinne. Doch das ist für den Hersteller nicht automatisch von Vorteil. Von André Berthold.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/skoda-144.html",
    "q": "Tagesschau",
    "d": "2026-10-30T13:51:43+00:00"
-  },
-  {
-   "t": "Deutsche Wirtschaft wächst überraschend im Sommer",
-   "s": "Nach einem starken Halbjahr hat sich auch im Sommer die Erholung der deutschen Wirtschaft fortgesetzt. Dabei hatten viele Experten mit einer Stagnation gerechnet. Die privaten Ausgaben sind jedoch weiterhin verhalten.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/entwicklung-bip-deutschland-sommer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T09:50:45+00:00"
   },
   {
    "t": "Fehlende Wohnungen: Was hat der \"Bau-Turbo\" bislang gebracht?",
@@ -113,13 +141,6 @@
    "u": "https://www.deutschlandfunk.de/bruttooekosystemprodukt-boep-gep-natur-wert-wohlstand-wirtschaft-china-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-29T08:00:00+00:00"
-  },
-  {
-   "t": "Wo Deutschland noch wachsen kann: Zukunftsmärkte für heimische Firmen",
-   "s": "Die deutsche Wirtschaft hat viele Probleme. Doch bei all den negativen Nachrichten gibt es auch Chancen. Denn auf einigen Märkten der Zukunft haben heimische Unternehmen gute Karten. Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-wachstum-ki-robotik-zukunftsmaerkte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-28T05:19:59+00:00"
   },
   {
    "t": "Industriearbeiter: Vom Gesicht des Wirtschaftswunders zur AfD-Klientel",
@@ -148,27 +169,6 @@
    "u": "https://www.deutschlandfunk.de/chemie-ohne-erdoel-kohlenstoff-recycling-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-21T16:25:00+00:00"
-  },
-  {
-   "t": "Kommentar zum Investitionsgipfel: Wenn die Fachkräfte fehlen",
-   "s": "Bundeskanzler Merz möchte mit einem Investitionsgipfel mehr Kapital nach Deutschland locken. Grundsätzlich ist Deutschland attraktiv für Investoren. Es ist kreditwürdig und rechtssicher. Beim Thema Fachkräfte sieht es allerdings zunehmend düster aus.Ein Kommentar von Falk Steiner",
-   "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T08:10:00+00:00"
-  },
-  {
-   "t": "Deutsche Autozulieferer auf dem Balkan: \"Armutslöhne\" für serbische Arbeiter",
-   "s": "Viele deutsche Autohersteller und -zulieferer produzieren in Serbien. Das schafft Arbeitsplätze in dem Land. Doch zunehmend klagen Beschäftigte in den Fabriken über enormen Druck durch Vorgesetzte und geringe Löhne.",
-   "u": "https://www.deutschlandfunk.de/autohersteller-autozulieferer-deutschland-serbien-niedrigloehne-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-18T07:32:00+00:00"
-  },
-  {
-   "t": "Doctolib und die KI – Was die Ärzteplattform über Patienten weiß",
-   "s": "Der amerikanische Chip-Hersteller Nvidia steigt bei Doctolib ein. Damit will die Ärzteplattform auch ihre KI-Kompetenzen ausweiten. Welche Auswirkungen könnte das haben? Und: Wie sicher sind unsere Daten dort eigentlich?",
-   "u": "https://www.deutschlandfunk.de/doctolib-nvidia-einstieg-datenschutz-kritik-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-15T12:06:00+00:00"
   }
  ]
 }

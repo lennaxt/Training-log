@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-11-02T23:06:53+00:00",
+ "updated": "2026-11-03T10:54:01+00:00",
  "items": [
+  {
+   "t": "Sind Männer gesundheitlich schlechter dran als Frauen?",
+   "s": "Männer haben im Schnitt eine deutlich geringere Lebenserwartung als Frauen. Ein neuer Bericht zeigt: Auch Geschlechterrollen und das Wirken von Gesellschaftsnormen spielen bei der Gesundheit von Männern eine Rolle. Von Niels Walker.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/maenner-gesundheit-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T10:07:38+00:00"
+  },
   {
    "t": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
    "s": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
@@ -120,13 +127,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/blume-des-jahres-100.html",
    "q": "Tagesschau",
    "d": "2026-10-22T09:07:58+00:00"
-  },
-  {
-   "t": "Erde steuert laut Bericht des UN-Umweltprogramms auf 2,8 Grad Erwärmung zu",
-   "s": "Erde steuert laut Bericht des UN-Umweltprogramms auf 2,8 Grad Erwärmung zu",
-   "u": "https://www.tagesschau.de/video/video-1670158.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T15:46:53+00:00"
   },
   {
    "t": "UN-Bericht: Erde steuert auf 2,8 Grad Erwärmung zu",

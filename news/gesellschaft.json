@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-02T23:06:56+00:00",
+ "updated": "2026-11-03T10:54:03+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: USA planen Gespräche mit Russland und Ukraine",
+   "s": "Bei einem russischen Luftangriff auf ein ukrainisches Dorf wurden mindestens 26 Menschen getötet. Die USA wollen in wenigen Tagen Gespräche in Abu Dhabi ansetzen.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6226891/",
+   "q": "taz",
+   "d": "2026-11-03T08:27:00+00:00"
+  },
   {
    "t": "Staatskrise in Polen: Kampf um Deutungshoheit",
    "s": "In Polen eskaliert der Streit um das Verfassungsgericht und weitet sich zur Staatskrise aus. Von der Eskalation profitieren die Populisten.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Politiker-faehrt-nach-Oleschky/!6226014/",
    "q": "taz",
    "d": "2026-10-29T18:36:00+00:00"
-  },
-  {
-   "t": "Humanitäre Hilfe in der Ukraine: Angst und Hoffnung vor der Evakuierung",
-   "s": "Am Freitag sollen Hunderte aus der belagerten ukrainischen Stadt Oleschky gebracht werden. Sie hoffen auf Ausreise, haben aber Angst vor Folter in Russland.",
-   "u": "https://taz.de/Humanitaere-Hilfe-in-der-Ukraine/!6226127/",
-   "q": "taz",
-   "d": "2026-10-29T18:18:00+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-11-02T23:06:57+00:00",
+ "updated": "2026-11-03T10:54:03+00:00",
  "items": [
+  {
+   "t": "Midterms in den USA: Bei einem Erdrutschsieg kann es schnell gehen",
+   "s": "In den USA werden am Dienstag nicht nur Wahlen für die zwei Kammern des Kongresses abgehalten. Die wichtigsten Fragen und Antworten zu den Zwischenwahlen.",
+   "u": "https://taz.de/Midterms-in-den-USA/!6226652/",
+   "q": "taz",
+   "d": "2026-11-03T06:11:00+00:00"
+  },
   {
    "t": "USA vor den Midterms: Forever Trump?",
    "s": "Als Donald Trump das erste Mal US-Präsident wurde, erklärten Samuel Cosmano und andere der taz, warum sie ihn wählten. Wie sehen sie seine Politik heute?",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Flavio-Bolsonaros-Flucht-Luegner-und-Feigling/!6225646/",
    "q": "taz",
    "d": "2026-10-28T15:41:00+00:00"
-  },
-  {
-   "t": "Politikprofessor über linke Wahlerfolge: „Politik ist veränderbar“",
-   "s": "Linke Wahlerfolge sind noch keine Trendwende, sagt Politikwissenschaftler Klaus Schlichte. Warum er trotzdem Hoffnung hat.",
-   "u": "https://taz.de/Politikprofessor-ueber-linke-Wahlerfolge/!6225408/",
-   "q": "taz",
-   "d": "2026-10-28T13:02:00+00:00"
   }
  ]
 }
