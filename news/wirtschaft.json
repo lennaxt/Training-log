@@ -1,20 +1,76 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-03T10:54:01+00:00",
+ "updated": "2026-11-03T20:59:49+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 03.11.2026",
+   "s": "Wirtschaft vor acht vom 03.11.2026",
+   "u": "https://www.tagesschau.de/video/video-1677572.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T18:52:45+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX fällt leicht zurück",
+   "s": "Inmitten der Zahlenflut zum dritten Quartal und angesichts des Wahltages in den USA hielten sich die Anleger bedeckt. Der DAX konnte seine anfänglichen Verluste aber eingrenzen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T17:10:25+00:00"
+  },
+  {
+   "t": "Weihnachtsgeschäft: Kinderwünsche und Händlerträume",
+   "s": "Weihnachtszeit ist Umsatzzeit: Trotz Krisenstimmung zeigt sich der Einzelhandel zuversichtlich. Doch wo Kinder ins Träumen geraten, ist die Stimmung der Händler angespannt. Von Juri Sonnenholzner.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/spielwaren-hde-weihnachtsgeschaeft-rofu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T15:47:04+00:00"
+  },
+  {
+   "t": "Erster Spot vor 70 Jahren: Als die Werbung ins Fernsehen kam",
+   "s": "Mit einem Fleck auf der Tischdecke fing es an - und zwar in Bayern: Vor 70 Jahren wurde der erste Werbespot im deutschen Fernsehen ausgestrahlt. Seitdem hat sich Werbung massiv verändert. Und das große Geld fließt längst in andere Kanäle. Von Laura Bisch.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/70-jahre-werbefernsehen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T15:46:23+00:00"
+  },
+  {
+   "t": "CBAM – ein Klimaschutz-Druckmittel der EU",
+   "s": "Der Klimaschutz hat politisch weltweit an Rückhalt verloren. Trotzdem haben Fachleute noch Hoffnung – aus mehreren Gründen. Auch ein Instrument der EU könnte Staaten zum Handeln bewegen.",
+   "u": "https://www.deutschlandfunk.de/cbam-klimaschutz-klimawandel-pariser-klimaabkommen-co2-preis-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-03T15:31:00+00:00"
+  },
+  {
+   "t": "Evonik wehrt sich gegen Chemieriese BASF",
+   "s": "Es wäre die größte Fusion in der deutschen Chemiebranche: Wenn BASF und Evonik zusammengingen, entstünde ein Konzern mit einem Jahresumsatz von rund 74 Milliarden Euro. Doch noch sträubt sich Evonik. Von Michael Heussen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/evonik-basf-fusion-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T14:59:40+00:00"
+  },
+  {
+   "t": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
+   "s": "Statt fünf waren es plötzlich 50 Grad: In der Nacht haben Hacker in mehreren Supermärkten in Deutschland die Kühlanlagen umgestellt. Große Mengen an Lebensmitteln mussten entsorgt werden. Ähnliche Cyberangriffe gab es auch im Ausland.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T13:49:27+00:00"
+  },
+  {
+   "t": "Anspannung am Wahltag: Was die Midterms für die Börse bedeuten",
+   "s": "Die Zwischenwahlen in den USA leiten oft eine starke Börsenphase ein. Diesmal bergen sie aber eine Reihe von Stolpersteinen. Von Detlev Landmesser.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T13:33:24+00:00"
+  },
+  {
+   "t": "EU genehmigt MediaMarktSaturn-Übernahme durch JD.com",
+   "s": "Der chinesische Tech-Riese JD.com darf Europas größten Elektronikfachhändler MediaMarktSaturn übernehmen. Das hat die EU-Kommission entschieden. Doch aus Brüssel kommen Auflagen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-mediamarkt-saturn-jd-genehmigung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-03T13:25:20+00:00"
+  },
   {
    "t": "Bundesnetzagentur fördert den Bau elf neuer Gaskraftwerke",
    "s": "Die Bundesnetzagentur vergibt erstmals eine Förderung für neue Gas-Reservekraftwerke. In Brandenburg, NRW und Sachsen sind die meisten Projekte geplant. Mehrere Unternehmen profitieren.",
    "u": "https://www.tagesschau.de/wirtschaft/energie/bundesnetzagentur-gaskraftwerke-100.html",
    "q": "Tagesschau",
    "d": "2026-11-03T10:28:56+00:00"
-  },
-  {
-   "t": "Marktbericht: Anleger scheuen vor US-Zwischenwahlen das Risiko",
-   "s": "Die Sorge vor einer erneuten Eskalation im Nahen Osten drückt auf die Stimmung der Anleger. Und vor den US-Zwischenwahlen herrscht ohnehin Nervosität. Der DAX fällt zum Handelsstart weiter zurück.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T09:15:35+00:00"
   },
   {
    "t": "Update Wirtschaft vom 03.11.2026",
@@ -50,13 +106,6 @@
    "u": "https://www.tagesschau.de/multimedia/podcast/11km/chips-hirn-schnittstelle-ki-100.html",
    "q": "Tagesschau",
    "d": "2026-11-03T06:03:56+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 02.11.2026",
-   "s": "Wirtschaft vor acht vom 02.11.2026",
-   "u": "https://www.tagesschau.de/video/video-1676936.html",
-   "q": "Tagesschau",
-   "d": "2026-11-02T20:02:11+00:00"
   },
   {
    "t": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
@@ -120,55 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
    "q": "Tagesschau",
    "d": "2026-10-31T07:45:19+00:00"
-  },
-  {
-   "t": "Wie der VW-Vorstand die Laune bei den Skoda-Mitarbeitern drückt",
-   "s": "Während die Konzernmutter Volkswagen viele Probleme hat, erwirtschaftet die tschechische Tochter Skoda passable Gewinne. Doch das ist für den Hersteller nicht automatisch von Vorteil. Von André Berthold.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/skoda-144.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T13:51:43+00:00"
-  },
-  {
-   "t": "Fehlende Wohnungen: Was hat der \"Bau-Turbo\" bislang gebracht?",
-   "s": "In Deutschland werden viel zu wenig Wohnungen gebaut. Dabei versucht die Bundesregierung gegenzusteuern - etwa mit dem \"Bau-Turbo\", der seit einem Jahr gilt. Was hat das Gesetz bislang gebracht? Von Axel John.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/bauturbo-wohnungen-immobilien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T07:55:53+00:00"
-  },
-  {
-   "t": "Bruttoökosystemprodukt: Was die Natur wert ist",
-   "s": "Wirtschaftswachstum gilt als Zeichen von Wohlstand. Leistungen der Natur bleiben dabei außen vor. Das Bruttoökosystemprodukt soll den Wert von Ökosystemen messbar machen. In China entscheiden sich daran bereits Bauprojekte und Politikerkarrieren.Von Tomma Schröder",
-   "u": "https://www.deutschlandfunk.de/bruttooekosystemprodukt-boep-gep-natur-wert-wohlstand-wirtschaft-china-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-29T08:00:00+00:00"
-  },
-  {
-   "t": "Industriearbeiter: Vom Gesicht des Wirtschaftswunders zur AfD-Klientel",
-   "s": "Der deutsche Industriearbeiter galt als Symbolfigur des Wiederaufbaus nach 1945. Arbeiter waren stolz, „Malocher“ zu sein. Doch zunehmend verschwinden Industriejobs. Und viele der verbliebenen Arbeiter zieht es zur AfD.",
-   "u": "https://www.deutschlandfunk.de/industriearbeiter-afd-waehler-wirtschaft-arbeitsplaetze-stellenabbau-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-27T11:34:00+00:00"
-  },
-  {
-   "t": "Die globale Energiewende – die Zukunft der Welt ist elektrisch",
-   "s": "Der Irankrieg und die weltweit gestiegenen Treibstoffpreise haben noch einmal gezeigt, was die Abhängigkeit von den fossilen Energien bedeutet. Weltweit wird der Umstieg auf erneuerbare Energien vorangetrieben – oft aus rein finanziellen Gründen.",
-   "u": "https://www.deutschlandfunk.de/energiewende-global-erneuerbare-energien-elektromobilitaet-dekarbonisierung-klimawandel-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-27T08:42:00+00:00"
-  },
-  {
-   "t": "Biodiversitätsabkommen: Balanceakt zwischen Artenschutz und Wirtschaft",
-   "s": "Artenvielfalt stabilisiert Ökosysteme und sichert damit auch wirtschaftliche Grundlagen. Dennoch gerät die Einhaltung der Biodiversitätsziele in Vergessenheit, wenn es um wirtschaftliche Interessen geht.",
-   "u": "https://www.deutschlandfunk.de/cop17-biodiversitaet-artenvielfalt-wirtschaft-100-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-22T15:46:00+00:00"
-  },
-  {
-   "t": "Chemie ohne Erdöl: Wie die Kohlenstoffwende gelingen soll",
-   "s": "Die Chemieindustrie gehört zu den größten Verursachern von Treibhausgasen. Deshalb will sie nun statt Erdöl Biomasse, Recycling und abgeschiedenes CO2 als Rohstoffquellen benutzen. Das erfordert neue Technologien und Milliardeninvestitionen.",
-   "u": "https://www.deutschlandfunk.de/chemie-ohne-erdoel-kohlenstoff-recycling-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T16:25:00+00:00"
   }
  ]
 }

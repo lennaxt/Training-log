@@ -1,7 +1,77 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-03T10:54:02+00:00",
+ "updated": "2026-11-03T20:59:51+00:00",
  "items": [
+  {
+   "t": "Debatte um Steinmeiers Nachfolge: Wir brauchen keine Bundespräsidentin",
+   "s": "Als erste Frau könnte Ilse Aigner (CSU) demnächst Bundespräsidentin werden. Ist uns damit geholfen?",
+   "u": "https://taz.de/Debatte-um-Steinmeiers-Nachfolge/!6227000/",
+   "q": "taz",
+   "d": "2026-11-03T19:16:00+00:00"
+  },
+  {
+   "t": "Soziologe zu „Gen Z regelt“-Demos: „Was die CDU macht, ist gemeingefährlich“",
+   "s": "Gen-Z-Proteste drücken das Gefühl von Zukunftslosigkeit aus, sagt der Protestsoziologe Simon Teune. Rassismus und Repression vertieften die Entfremdung.",
+   "u": "https://taz.de/Soziologe-zu-Gen-Z-regelt-Demos/!6226822/",
+   "q": "taz",
+   "d": "2026-11-03T19:15:00+00:00"
+  },
+  {
+   "t": "Opferberatung in Sachsen-Anhalt: Zum Jubiläum braucht es Solidarität",
+   "s": "Seit 25 Jahren unterstützt die Mobile Opferberatung Betroffene rechter Gewalt. Doch ein Thema trübt die Freude bei der Jubiläumsfeier.",
+   "u": "https://taz.de/Opferberatung-in-Sachsen-Anhalt/!6222204/",
+   "q": "taz",
+   "d": "2026-11-03T19:14:00+00:00"
+  },
+  {
+   "t": "Bilger für Handyblitzer: Das Problem am falschen Ende angepackt",
+   "s": "Der Verkehrsminister will mit Monocams gegen Handysünder vorgehen. Geht es um Sicherheit oder um eine PR-Aktion und den KI-Trend?",
+   "u": "https://taz.de/Bilger-fuer-Handyblitzer/!6227012/",
+   "q": "taz",
+   "d": "2026-11-03T19:12:00+00:00"
+  },
+  {
+   "t": "CDU in der Krise: Dem Ärger Luft gemacht – und nun?",
+   "s": "Zwei Tage lang haben rund 160 CDU-Kreisvorsitzende der Parteiführung die schlechte Stimmung an der Basis geschildert. Was davon nimmt Merz mit?",
+   "u": "https://taz.de/CDU-in-der-Krise/!6227059/",
+   "q": "taz",
+   "d": "2026-11-03T17:28:00+00:00"
+  },
+  {
+   "t": "Festnahmen bei linker Gruppe aus Sachsen: Mit Hammer, Sichel und Pfefferspray",
+   "s": "Bei Razzien gegen mutmaßliche Links­ex­tre­mis­t:in­nen hat die Polizei fünf Personen festgenommen. Sie sollen geplant haben, rechte Gruppen anzugreifen.",
+   "u": "https://taz.de/Festnahmen-bei-linker-Gruppe-aus-Sachsen/!6227013/",
+   "q": "taz",
+   "d": "2026-11-03T17:13:00+00:00"
+  },
+  {
+   "t": "Demonstrationsverbot bei G20 in Hamburg: Attac kämpft für die Versammlungsfreiheit",
+   "s": "Attac und die Gesellschaft für Freiheitsrechte klagen vor Bundesverwaltungsgericht gegen ein pauschales Versammlungsverbot. Sie wollen ein Grundsatzurteil.",
+   "u": "https://taz.de/Demonstrationsverbot-bei-G20-in-Hamburg/!6226996/",
+   "q": "taz",
+   "d": "2026-11-03T16:58:00+00:00"
+  },
+  {
+   "t": "Zivilklauseln unter Druck: Wird in Kassel bald für die Rüstung geforscht?",
+   "s": "Das Verbot von Forschung für militärische Zwecke an der Uni Kassel steht auf der Kippe. Doch gegen die Aufweichung der Zivilklausel regt sich Protest.",
+   "u": "https://taz.de/Zivilklauseln-unter-Druck/!6226966/",
+   "q": "taz",
+   "d": "2026-11-03T16:36:00+00:00"
+  },
+  {
+   "t": "Merz empfängt Selenskyj: Der Kanzler will mitspielen",
+   "s": "In der kommenden Woche sollen Verhandlungen zwischen der Ukraine und Russland weitergehen. Kanzler Merz und Europa wollen mehr als ein Wörtchen mitreden.",
+   "u": "https://taz.de/Merz-empfaengt-Selenskyj/!6226981/",
+   "q": "taz",
+   "d": "2026-11-03T16:10:00+00:00"
+  },
+  {
+   "t": "Expertin über Antiziganismus: „Die Opfer wurden verleumdet, die Täter blieben ungestraft“",
+   "s": "Eine Kommission soll das Unrecht an Sin­ti*z­ze und Rom*­nja nach 1945 aufarbeiten. Dieses wirke bis heute fort, sagt die Erziehungswissenschaftlerin Jane Weiß.",
+   "u": "https://taz.de/Expertin-ueber-Antiziganismus/!6226851/",
+   "q": "taz",
+   "d": "2026-11-03T11:26:00+00:00"
+  },
   {
    "t": "Forsa-Umfrage zu Jugendprotesten: 83 Prozent haben Verständnis für die Proteste",
    "s": "Die bundesweiten Demonstrationen junger Menschen stoßen in der Bevölkerung auf großes Verständnis. Zugleich sorgt Dobrindts Aussage über ein „migrantisches Milieu“ für Kritik.",
@@ -94,81 +164,11 @@
    "d": "2026-11-02T07:28:00+00:00"
   },
   {
-   "t": "Anti-Linke-Kampagne und Sieg der AfD: Seid entsetzt, seid geschockt!",
-   "s": "Sachsen-Anhalt bekommt einen rechtsextremen Landtagspräsidenten, die Linke Hass. Ausrasten ist hier angebrachter als ein „War doch klar“.",
-   "u": "https://taz.de/Anti-Linke-Kampagne-und-Sieg-der-AfD/!6225945/",
-   "q": "taz",
-   "d": "2026-11-01T19:16:00+00:00"
-  },
-  {
    "t": "Nach Gen-Z-regelt-Protest: Der Sündenbock ist schnell gefunden",
    "s": "Nach den Protesten von „Gen Z regelt“ kommt es in Frankfurt und Köln zu Krawallen. Hessens Innenministerium macht vor allem „Migranten“ verantwortlich.",
    "u": "https://taz.de/Gen-Z-regelt-Protest/!6226457/",
    "q": "taz",
    "d": "2026-11-01T18:05:00+00:00"
-  },
-  {
-   "t": "Bilanz von „Gen Z regelt“: Gen Z streitet über zukünftigen Kurs",
-   "s": "Die Bundesinitiative von „Gen Z regelt“ zieht nach dem Protestsamstag eine positive Bilanz. Streit gibt es über den Grund für die Krawalle.",
-   "u": "https://taz.de/Bilanz-von-Gen-Z-regelt/!6226454/",
-   "q": "taz",
-   "d": "2026-11-01T18:02:00+00:00"
-  },
-  {
-   "t": "„Gen Z regelt“-Demonstrationen: Eine Bühne für die Unzufriedenheit",
-   "s": "In Hamburg, Berlin und Erfurt bleiben die Proteste eher ruhig. Nur nach dem Ende der Kundgebungen werden mancherorts Böller oder Steine geworfen.",
-   "u": "https://taz.de/Gen-Z-regelt-Demonstrationen/!6226455/",
-   "q": "taz",
-   "d": "2026-11-01T14:35:00+00:00"
-  },
-  {
-   "t": "Bedrohte Trans-Community: Wis­sen­schaft­le­r:in­nen kritisieren Gesundheitsversorgung",
-   "s": "Nach der Razzia eines Berliner Treffs für trans Menschen bekunden hunderte Wis­sen­schaft­le­r:in­nen ihre Solidarität. Sie fordern bessere Versorgung.",
-   "u": "https://taz.de/Bedrohte-Trans-Community/!6226368/",
-   "q": "taz",
-   "d": "2026-11-01T12:23:00+00:00"
-  },
-  {
-   "t": "Wissenschaft unter Druck: „Wir müssen das Recht verteidigen“",
-   "s": "Rund 200 Ju­ris­t:in­nen betonen in einer gemeinsamen Erklärung die Bedeutung des Rechtsstaats. Eine Mitinitiatorin erklärt, warum.",
-   "u": "https://taz.de/Wissenschaft-unter-Druck/!6226257/",
-   "q": "taz",
-   "d": "2026-11-01T10:38:00+00:00"
-  },
-  {
-   "t": "Folgen der neuen Grundsicherung: Bloß nicht für die Kinder sparen",
-   "s": "Nach der Abwicklung des Bürgergelds bekommt Patrick Schröder für seine Kinder kein Geld mehr vom Amt. Ihn trifft die neue Härte und eine komplexe Regel.",
-   "u": "https://taz.de/Folgen-der-neuen-Grundsicherung/!6226309/",
-   "q": "taz",
-   "d": "2026-11-01T09:32:00+00:00"
-  },
-  {
-   "t": "50 Jahre Frauenhäuser in Deutschland: „Hör mal, wir wollen ein Frauenhaus eröffnen“",
-   "s": "Tomi Tomek arbeitete im ersten Frauenhaus Deutschlands, das vor genau 50 Jahren entstand. Mit der taz spricht sie über Sicherheit, Solidarität und Mut.",
-   "u": "https://taz.de/50-Jahre-Frauenhaeuser-in-Deutschland/!6225607/",
-   "q": "taz",
-   "d": "2026-11-01T08:14:00+00:00"
-  },
-  {
-   "t": "Bewegung in der Berliner Kantstraße: Kampfplatz Fahrradspur",
-   "s": "In der Kantstraße zeigt sich das Hin und Her der Berliner Verkehrspolitik. Es ist zu hoffen, dass die neue linke Mehrheit dem endlich ein Ende macht.",
-   "u": "https://taz.de/Bewegung-in-der-Berliner-Kantstrasse/!6223220/",
-   "q": "taz",
-   "d": "2026-10-31T18:35:00+00:00"
-  },
-  {
-   "t": "Parteitag der Linken in Berlin: Elif Eralp strahlt vor Freude",
-   "s": "Eine überwältigende Mehrheit stimmt auf dem Parteitag für die Aufnahme von Koalitionsverhandlungen mit Grünen und SPD. Emde demonstriert vor der Halle.",
-   "u": "https://taz.de/Parteitag-der-Linken-in-Berlin/!6223937/",
-   "q": "taz",
-   "d": "2026-10-31T16:24:00+00:00"
-  },
-  {
-   "t": "+++ GenZ regelt +++: Und dann geht’s doch noch ab: Pyro, Barrikaden, Polizeigewalt",
-   "s": "Zehntausende demonstrieren für eine bessere Zukunft – mehrheitlich friedlich. Am Abend fliegen an einzelnen Orten Pyros und Flaschen, die Polizei greift an und verletzt einige Demonstrierende.",
-   "u": "https://taz.de/Live-Ticker-GenZ-regelt/!6226335/",
-   "q": "taz",
-   "d": "2026-10-31T13:42:00+00:00"
   }
  ]
 }

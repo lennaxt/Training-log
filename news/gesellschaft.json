@@ -1,10 +1,52 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-03T10:54:03+00:00",
+ "updated": "2026-11-03T20:59:52+00:00",
  "items": [
   {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: USA planen Gespräche mit Russland und Ukraine",
-   "s": "Bei einem russischen Luftangriff auf ein ukrainisches Dorf wurden mindestens 26 Menschen getötet. Die USA wollen in wenigen Tagen Gespräche in Abu Dhabi ansetzen.",
+   "t": "Ukraine unter massivem Beschuss: Kältetod mit Ansage",
+   "s": "Russland greift in der Ukraine gezielt und verstärkt zivile Infrastruktur an – und zwar landesweit. Bereits jetzt kommt es zu massiven Stromausfällen.",
+   "u": "https://taz.de/Ukraine-unter-massivem-Beschuss/!6226985/",
+   "q": "taz",
+   "d": "2026-11-03T16:24:00+00:00"
+  },
+  {
+   "t": "Regierung Burnham in Großbritannien: Meister der Uneindeutigkeit",
+   "s": "Nach gut 100 Tagen Andy Burnham weiß Großbritannien immer noch nicht, was der neue Labour-Premier eigentlich will. Aus Versprechen werden Vertröstungen.",
+   "u": "https://taz.de/Regierung-Burnham-in-Grossbritannien/!6226944/",
+   "q": "taz",
+   "d": "2026-11-03T15:07:00+00:00"
+  },
+  {
+   "t": "Cyberattacken auf Kühlgeräte: Kontrolle über Tiefkühlkost verloren",
+   "s": "In mehreren europäischen Ländern sind Tiefkühlgeräte gehackt worden. Wer hinter den Angriffen steht, ist unklar. Auch Deutschland ist betroffen.",
+   "u": "https://taz.de/Cyberattacken-auf-Kuehlgeraete/!6226959/",
+   "q": "taz",
+   "d": "2026-11-03T14:33:00+00:00"
+  },
+  {
+   "t": "Polnisch-russische Grenze: Großeinsatz an Grenze zu Kaliningrad nach Geheimdienstwarnung",
+   "s": "Polens Regierungschef Tusk spricht von möglichen Provokationen an der Grenze zu Russlands Exklave und Menschen mit Taschenlampen. Was steckt dahinter?",
+   "u": "https://taz.de/Polnisch-russische-Grenze/!6227058/",
+   "q": "taz",
+   "d": "2026-11-03T13:52:00+00:00"
+  },
+  {
+   "t": "Frontex-Luftüberwachung: Spähflüge für die libysche Küstenwache",
+   "s": "Eine Forschungsgruppe hat nachgewiesen, dass die Europäische Küstenwache verstärkt das Mittelmeer ausspäht – und so das Abfangen von Geflüchteten ermöglicht.",
+   "u": "https://taz.de/Frontex-Luftueberwachung/!6226965/",
+   "q": "taz",
+   "d": "2026-11-03T13:23:00+00:00"
+  },
+  {
+   "t": "Protestcamp in Spanien geräumt: Mit Tränengas in der tiefsten Nacht",
+   "s": "Nach rund vier Wochen hat die spanische Polizei ein Protestcamp gegen hohe Mieten in Madrid geräumt. Bald soll ein Generalstreik das Land lahmlegen.",
+   "u": "https://taz.de/Protestcamp-in-Spanien-geraeumt/!6226972/",
+   "q": "taz",
+   "d": "2026-11-03T12:11:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Merz sichert der Ukraine zusätzliche Winterhilfe zu",
+   "s": "Der bevorstehende Winter wird für die Ukraine schwer. Die Bundesregierung sagt mehr Hilfe zu. Die USA wollen in wenigen Tagen Gespräche in Abu Dhabi ansetzen.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6226891/",
    "q": "taz",
    "d": "2026-11-03T08:27:00+00:00"
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Waffenstillstand-in-Oleschky/!6226243/",
    "q": "taz",
    "d": "2026-10-30T14:23:00+00:00"
-  },
-  {
-   "t": "Nach dem Zugunglück in Spanien: Spaniens ganzer Stolz wird zum Problem",
-   "s": "In die Trauer um die mindestens 69 Toten nach dem Zugunglück vom Mittwoch mischt sich die Erkenntnis, dass die Risiken seit langem bekannt waren.",
-   "u": "https://taz.de/Nach-dem-Zugunglueck-in-Spanien/!6226269/",
-   "q": "taz",
-   "d": "2026-10-30T13:44:00+00:00"
-  },
-  {
-   "t": "Proteste in Italien: Gewerkschaften machen gegen Meloni mobil",
-   "s": "Aus Sorge vor Krawallen sind Sicherheitskräfte in mehreren italienischen Städten im Großeinsatz. Auch Schüler und Studierende gehen wieder auf die Straße.",
-   "u": "https://taz.de/Proteste-in-Italien/!6226264/",
-   "q": "taz",
-   "d": "2026-10-30T10:57:00+00:00"
-  },
-  {
-   "t": "Tagebuch aus Kasachstan: Irgendein Job, irgendwas mit Töten",
-   "s": "Etliche Männer aus Kasachstan berichten, Russland setze sie gegen ihren Willen im Krieg ein. Nun versucht die Regierung, sie nach Hause zu holen.",
-   "u": "https://taz.de/Tagebuch-aus-Kasachstan/!6223091/",
-   "q": "taz",
-   "d": "2026-10-30T10:12:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Angriffe auf russische Raffinerien ausgesetzt",
-   "s": "Laut „Wall Street Journal“ übt die Ukraine auf Druck von Trump derzeit keine Luftschläge gegen petrochemische Anlagen des Gegners aus. Russland attackiert die Ukraine aber weiter.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6226224/",
-   "q": "taz",
-   "d": "2026-10-30T07:34:00+00:00"
-  },
-  {
-   "t": "Kanada als assoziiertes EU-Mitglied: Mehr als nur Streit um Worte",
-   "s": "Die EU und Kanada wollen enger kooperieren. Aber wie diese Verbindung genannt werden soll, ist in der europäischen Politik umstritten.",
-   "u": "https://taz.de/Kanada-als-assoziiertes-EU-Mitglied/!6225989/",
-   "q": "taz",
-   "d": "2026-10-29T18:40:00+00:00"
-  },
-  {
-   "t": "Politiker fährt nach Oleschky: Mission Menschenrettung",
-   "s": "Der ukrainische Menschenrechtsbeauftragte Dmytro Lubinez nutzt die aktuelle Waffenruhe, um Menschen in der Frontstadt Oleschky zu helfen.",
-   "u": "https://taz.de/Politiker-faehrt-nach-Oleschky/!6226014/",
-   "q": "taz",
-   "d": "2026-10-29T18:36:00+00:00"
   }
  ]
 }

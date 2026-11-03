@@ -1,13 +1,34 @@
 {
  "name": "Kultur",
- "updated": "2026-11-03T10:54:03+00:00",
+ "updated": "2026-11-03T20:59:53+00:00",
  "items": [
+  {
+   "t": "Wahlkampfabschluss von Donald Trump: Zurück und noch viel schöner!",
+   "s": "Zum Abschluss des Wahlkampfs in den USA gibt Donald Trump noch einmal alles: mit einer bewegenden Rede zu Beckenlack und Säulen.",
+   "u": "https://taz.de/Wahlkampfabschluss-von-Donald-Trump/!6226921/",
+   "q": "taz",
+   "d": "2026-11-03T19:17:00+00:00"
+  },
+  {
+   "t": "USA und Israel: Trump kündigt Ende von Milliarden-Hilfen für Israel an",
+   "s": "Die USA unterstützen Israel mit Milliarden Dollar Militärhilfe pro Jahr. Präsident Trump will das zum Jahresende beenden, weil Israel das nicht mehr nötig habe.",
+   "u": "https://taz.de/USA-und-Israel/!6227089/",
+   "q": "taz",
+   "d": "2026-11-03T15:38:00+00:00"
+  },
   {
    "t": "Midterms in den USA: Bei einem Erdrutschsieg kann es schnell gehen",
    "s": "In den USA werden am Dienstag nicht nur Wahlen für die zwei Kammern des Kongresses abgehalten. Die wichtigsten Fragen und Antworten zu den Zwischenwahlen.",
    "u": "https://taz.de/Midterms-in-den-USA/!6226652/",
    "q": "taz",
-   "d": "2026-11-03T06:11:00+00:00"
+   "d": "2026-11-03T10:36:00+00:00"
+  },
+  {
+   "t": "Lebenshaltungskosten im US-Wahlkampf: Nur die Eier sind günstig",
+   "s": "Ob in New York oder im ländlichen Iowa, überall in den USA leiden die Menschen an massiver Teuerung. Doch nicht alle machen US-Präsident Trump verantwortlich.",
+   "u": "https://taz.de/Lebenshaltungskosten-im-US-Wahlkampf/!6226505/",
+   "q": "taz",
+   "d": "2026-11-03T10:35:00+00:00"
   },
   {
    "t": "USA vor den Midterms: Forever Trump?",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Kanada-wird-vorerst-kein-assoziiertes-EU-Mitglied/!6225915/",
    "q": "taz",
    "d": "2026-10-29T07:26:00+00:00"
-  },
-  {
-   "t": "Nach Flucht in die USA: Bolsonaro stilisiert sich zum Opfer",
-   "s": "Nach seiner heimlichen Ausreise nach Florida wirft Flávio Bolsonaro Wahlsieger Lula „abscheulichen Wahlbetrug“ vor und vergleicht sich mit Charles de Gaulle.",
-   "u": "https://taz.de/Nach-verlorener-Wahl-in-den-USA-Bolsonaro-stilisiert-sich-zum-Opfer/!6225911/",
-   "q": "taz",
-   "d": "2026-10-29T07:18:00+00:00"
-  },
-  {
-   "t": "Midterms in den USA: Texas fiebert mit James Talarico",
-   "s": "Zum ersten Mal seit 40 Jahren könnte in Texas ein Demokrat in den US-Senat gewählt werden. James Talarico begeistert, hat aber starke Gegner.",
-   "u": "https://taz.de/Midterms-Texas-fiebert-mit-dem-Demokraten-James-Talarico-er-koennte-historisches-erreichen/!6225266/",
-   "q": "taz",
-   "d": "2026-10-28T17:41:00+00:00"
-  },
-  {
-   "t": "Brasiliens Wahlverlierer haut ab: Lügner und Feigling",
-   "s": "Flávio Bolsonaros Flucht ist ein Schuldeingeständnis – er will seine Haut retten. Doch für Wahlsieger Lula könnte der Schritt zum Problem werden.",
-   "u": "https://taz.de/Flavio-Bolsonaros-Flucht-Luegner-und-Feigling/!6225646/",
-   "q": "taz",
-   "d": "2026-10-28T15:41:00+00:00"
   }
  ]
 }
