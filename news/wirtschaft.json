@@ -1,13 +1,41 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-04T10:56:42+00:00",
+ "updated": "2026-11-04T21:20:17+00:00",
  "items": [
   {
-   "t": "Marktbericht: DAX-Anleger reagieren gelassen",
-   "s": "Nach dem Wahlsieg der Demokraten in den USA gehen die Anleger schnell zur Tagesordnung über. Der DAX holt vorbörsliche Verluste wieder auf. Im Fokus steht dabei der Fortgang der Berichtssaison.",
+   "t": "Wirtschaft vor acht vom 04.11.2026",
+   "s": "Wirtschaft vor acht vom 04.11.2026",
+   "u": "https://www.tagesschau.de/video/video-1678250.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T18:58:13+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX-Anleger in Kauflaune",
+   "s": "Der DAX steigt zeitweise auf den höchsten Stand seit zwei Monaten. Neben positiven Unternehmenszahlen sorgt auch die Hoffnung auf mehr politische Berechenbarkeit in den USA für Rückenwind.",
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
    "q": "Tagesschau",
-   "d": "2026-11-04T09:46:01+00:00"
+   "d": "2026-11-04T17:31:22+00:00"
+  },
+  {
+   "t": "Deutsche verbrauchen 2026 weniger Energie - das hat einen Grund",
+   "s": "Deutschlands Energieverbrauch sinkt laut Experten in diesem Jahr. Besonders beim Heizöl halten sich die Haushalte zurück, zugleich wächst der Anteil Erneuerbarer Energien.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/energiebilanz-heizoel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T16:05:31+00:00"
+  },
+  {
+   "t": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot",
+   "s": "Der frühere niederländische Zentralbankchef Knot ist nun offiziell für den EZB-Chefsessel nominiert. Er gilt als aussichtsreicher Kandidat für die Nachfolge der scheidenden Christine Lagarde.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T14:30:36+00:00"
+  },
+  {
+   "t": "Inflation im Euroraum steigt auf 4,0 Prozent",
+   "s": "Die Teuerung in der Eurozone ist im Oktober auf 4,0 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Besonders die hohen Energiepreise sind Treiber der aktuellen Entwicklung.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T11:12:00+00:00"
   },
   {
    "t": "Update Wirtschaft vom 04.11.2026",
@@ -29,13 +57,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/luftfahrt-lufthansa-wirtschaftsstandort-100.html",
    "q": "Tagesschau",
    "d": "2026-11-04T05:23:01+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 03.11.2026",
-   "s": "Wirtschaft vor acht vom 03.11.2026",
-   "u": "https://www.tagesschau.de/video/video-1677572.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T18:52:45+00:00"
   },
   {
    "t": "CBAM – ein Klimaschutz-Druckmittel der EU",
@@ -148,27 +169,6 @@
    "u": "https://www.deutschlandfunk.de/energiewende-global-erneuerbare-energien-elektromobilitaet-dekarbonisierung-klimawandel-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-27T08:42:00+00:00"
-  },
-  {
-   "t": "Biodiversitätsabkommen: Balanceakt zwischen Artenschutz und Wirtschaft",
-   "s": "Artenvielfalt stabilisiert Ökosysteme und sichert damit auch wirtschaftliche Grundlagen. Dennoch gerät die Einhaltung der Biodiversitätsziele in Vergessenheit, wenn es um wirtschaftliche Interessen geht.",
-   "u": "https://www.deutschlandfunk.de/cop17-biodiversitaet-artenvielfalt-wirtschaft-100-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-22T15:46:00+00:00"
-  },
-  {
-   "t": "Chemie ohne Erdöl: Wie die Kohlenstoffwende gelingen soll",
-   "s": "Die Chemieindustrie gehört zu den größten Verursachern von Treibhausgasen. Deshalb will sie nun statt Erdöl Biomasse, Recycling und abgeschiedenes CO2 als Rohstoffquellen benutzen. Das erfordert neue Technologien und Milliardeninvestitionen.",
-   "u": "https://www.deutschlandfunk.de/chemie-ohne-erdoel-kohlenstoff-recycling-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T16:25:00+00:00"
-  },
-  {
-   "t": "Kommentar zum Investitionsgipfel: Wenn die Fachkräfte fehlen",
-   "s": "Bundeskanzler Merz möchte mit einem Investitionsgipfel mehr Kapital nach Deutschland locken. Grundsätzlich ist Deutschland attraktiv für Investoren. Es ist kreditwürdig und rechtssicher. Beim Thema Fachkräfte sieht es allerdings zunehmend düster aus.Ein Kommentar von Falk Steiner",
-   "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T08:10:00+00:00"
   }
  ]
 }

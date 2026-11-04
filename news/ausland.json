@@ -1,34 +1,83 @@
 {
  "name": "Ausland",
- "updated": "2026-11-04T10:56:41+00:00",
+ "updated": "2026-11-04T21:20:16+00:00",
  "items": [
   {
-   "t": "Liveblog zu den Midterms: ++ Sorgen vor Trumps Unberechenbarkeit ++",
-   "s": "Ökonomen warnen vor überzogenen Erwartungen, was die Außen- und Handelspolitik Trumps nach dem Sieg der Demokraten angeht. Der EU-Parlamentarier Lange befürchtet, dass der US-Präsident noch unberechenbarer agieren könnte. Die Entwicklungen im Liveblog.",
+   "t": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
+   "s": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Außenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung.",
    "u": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-04T10:37:57+00:00"
+   "d": "2026-11-04T21:19:50+00:00"
   },
   {
-   "t": "Midterms: Demokraten holen Mehrheiten in beiden Kammern des Kongresses",
-   "s": "Die US-Demokraten haben bei den Midterms die Mehrheiten im Senat und im Repräsentantenhaus gewonnen. Der demokratische Fraktionschef im Repräsentantenhaus, Jeffries, jubelte: \"Amerika ist zurück.\" Auch bei den Gouverneurswahlen feiern Demokraten Siege.",
-   "u": "https://www.tagesschau.de/eilmeldung/usa-midterms-118.html",
+   "t": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
+   "s": "Nach der Wahlschlappe der Republikaner geht in der Partei die Spurensuche los, warum sie solche herben Verluste gegen die Demokraten einstecken musste. Für Vizepräsident Vance ist klar: Der Iran-Krieg ist schuld. Von K. Fuß.",
+   "u": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-04T10:16:36+00:00"
+   "d": "2026-11-04T21:15:24+00:00"
   },
   {
    "t": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
    "s": "In den USA läuft die Auszählung nach den Zwischenwahlen. Wer liegt im Senat und im Repräsentantenhaus vorn? Wer entschied welche Rennen um diese Sitze und um die Gouverneursposten für sich? Ergebnisse in Zahlen und Karten.",
    "u": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
    "q": "Tagesschau",
-   "d": "2026-11-04T09:58:04+00:00"
+   "d": "2026-11-04T18:10:21+00:00"
   },
   {
-   "t": "Marktbericht: DAX-Anleger reagieren gelassen",
-   "s": "Nach dem Wahlsieg der Demokraten in den USA gehen die Anleger schnell zur Tagesordnung über. Der DAX holt vorbörsliche Verluste wieder auf. Im Fokus steht dabei der Fortgang der Berichtssaison.",
+   "t": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
+   "s": "Deutsche Politiker haben die Niederlage der Republikaner bei den US-Midterms begrüßt, dämpfen aber die Erwartung an eine andere Außenpolitik von Präsident Trump. Eine SPD-Politikerin warnt vor einer \"wütenden Ente\" im Weißen Haus.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T18:00:44+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX-Anleger in Kauflaune",
+   "s": "Der DAX steigt zeitweise auf den höchsten Stand seit zwei Monaten. Neben positiven Unternehmenszahlen sorgt auch die Hoffnung auf mehr politische Berechenbarkeit in den USA für Rückenwind.",
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
    "q": "Tagesschau",
-   "d": "2026-11-04T09:46:01+00:00"
+   "d": "2026-11-04T17:31:22+00:00"
+  },
+  {
+   "t": "Kommentar zu den Midterms: Hoffentlich vermasseln sie es nicht",
+   "s": "Das Rezept der Republikaner, ganz auf US-Präsident Trump und viel Geld zu setzen, ist nicht aufgegangen. Den Demokraten gelang es, Zuversicht zu vermitteln, meint Samuel Jackisch. Diese Chance müssen sie jetzt aber auch nutzen.",
+   "u": "https://www.tagesschau.de/kommentar/usa-midterms-120.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T16:50:16+00:00"
+  },
+  {
+   "t": "Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben",
+   "s": "Lahme Ente oder entfesselter Kampfhahn - Meinungen darüber, was die Politik von US-Präsident Trump in den verbleibenden zwei Jahren ausmachen wird, variieren. Die Demokraten jedenfalls kündigen große Vorhaben an - und Trump sein Veto. Von Gabi Biesinger.",
+   "u": "https://www.tagesschau.de/ausland/demokraten-optionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T16:49:39+00:00"
+  },
+  {
+   "t": "Reaktionen auf US-Wahlergebnis: Verhaltene Freude, vorsichtige Hoffnung",
+   "s": "Der spektakuläre Triumph der US-Demokraten bei den Zwischenwahlen hat weltweit Reaktionen ausgelöst: Russland setzt weiter auf Präsident Trump, China hält sich bedeckt, in der EU und Südafrika macht sich Hoffnung breit.",
+   "u": "https://www.tagesschau.de/ausland/amerika/midterms-usa-internationale-reaktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T15:42:29+00:00"
+  },
+  {
+   "t": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
+   "s": "Viele Länder möchten EU-Mitglied werden - für Montenegro läuft es am besten. Die EU hält einen Beitritt des kleinen Balkan-Landes schon 2028 für möglich. Für andere Staaten gebe es hingegen gerade eher keine Perspektive.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T14:11:39+00:00"
+  },
+  {
+   "t": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
+   "s": "Ein Teilerfolg für die Demokraten war erwartet worden. Doch die Zwischenwahlen in den USA kommen einem Desaster für Präsident Trump gleich. Was war dafür ausschlaggebend und wie geht es jetzt weiter? Fragen und Antworten von E. Aretz und C. Schwanitz.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T13:44:41+00:00"
+  },
+  {
+   "t": "Midterms: Eine historische Wahl mit vielen Premieren",
+   "s": "Die erste schwarze Gouverneurin, eine indigene Senatorin und demokratische Siege in republikanischen Hochburgen wie Kansas oder Texas: Den Demokraten gelang bei den Midterms vielerorts Historisches - eine Auswahl.",
+   "u": "https://www.tagesschau.de/ausland/amerika/midterms-historische-siege-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T11:23:58+00:00"
   },
   {
    "t": "Israels Präsident Herzog startet Konsultationen zur Regierungsbildung",
@@ -120,55 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html",
    "q": "Tagesschau",
    "d": "2026-11-03T16:08:15+00:00"
-  },
-  {
-   "t": "Wahlen in den USA: Wie geht es nach den Midterms weiter? Vier Szenarien",
-   "s": "Bei den Zwischenwahlen in den USA steht für Trump viel auf dem Spiel: Verlieren seine Republikaner, könnte das Regieren für ihn komplizierter werden. Welche Szenarien sind denkbar? Ein Überblick. Von Jörn Unsöld und Eckart Aretz.",
-   "u": "https://www.tagesschau.de/ausland/amerika/midterms-szenarien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T12:24:53+00:00"
-  },
-  {
-   "t": "Krieg gegen die Ukraine: Russland bombardiert Krankenhaus in Charkiw",
-   "s": "Russland setzt seine Angriffe auf die Ukraine fort: Nach einem Hilfsgüter-Verteilzentrum am Montag wurden heute medizinische Einrichtungen und Energieanlagen bombardiert. Präsident Selenskyj ist zu einem Besuch in Berlin eingetroffen.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russische-angriffe-118.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T12:16:22+00:00"
-  },
-  {
-   "t": "Midterms: \"Entscheidende Wahl für Entwicklung der US-Demokratie\"",
-   "s": "Unter Trump haben die USA eine autoritäre Phase erreicht, sagt der Historiker Manfred Berg. Ob diese Entwicklung weitergehe, hänge von dieser und der Wahl 2028 ab. Doch selbst bei einer Niederlage werde Trump an seinem Politikstil festhalten.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-zustand-demokratie-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T09:40:40+00:00"
-  },
-  {
-   "t": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
-   "s": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 26 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor. Der Staatschef wird heute in Berlin erwartet.",
-   "u": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T09:00:13+00:00"
-  },
-  {
-   "t": "Midterms: So läuft der Wahltag in den USA ab",
-   "s": "Wann ist bei den Zwischenwahlen mit verlässlichen Ergebnissen zu rechnen? Wie lange haben die Wahllokale geöffnet - und wann nehmen die neugewählten Abgeordneten ihre Arbeit im Kongress auf? Ein Überblick über den Ablauf der Midterms.",
-   "u": "https://www.tagesschau.de/ausland/amerika/midterms-ablauf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T08:06:22+00:00"
-  },
-  {
-   "t": "USA greifen offenbar iranische Ziele in Straße von Hormus an",
-   "s": "Kurz vor den Midterms haben die USA Medienberichten zufolge wieder Iran angegriffen. Dabei soll es sich um einzelne Angriffe auf die Insel Qeschm in der Straße von Hormus handeln. Iran meldet den Abschuss einer US-Drohne.",
-   "u": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T05:33:48+00:00"
-  },
-  {
-   "t": "US-Vermittler Witkoff kündigt Gespräche mit Russland und Ukraine an",
-   "s": "Die USA, Russland und die Ukraine haben zuletzt im Februar im Dreierformat miteinander gesprochen. Kommende Woche wollen sie wieder zusammenkommen. US-Sondergesandter Witkoff nennt konkrete Ziele.",
-   "u": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T03:55:28+00:00"
   }
  ]
 }

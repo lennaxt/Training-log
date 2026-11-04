@@ -1,16 +1,86 @@
 {
  "name": "Kultur",
- "updated": "2026-11-04T10:56:47+00:00",
+ "updated": "2026-11-04T21:20:22+00:00",
  "items": [
   {
-   "t": "Krachende Niederlage der US-Republikaner: Riesenklatsche, unsichere Zukunft",
+   "t": "Die neuen Demokraten-Stars: Links, populistisch, authentisch",
+   "s": "Sie sind die Enkel der Obama-Generation: Stars wie Jon Ossoff oder Alexandra Ocasio-Cortez könnten die nächsten Präsidentschaftskandidaten der Demokraten werden.",
+   "u": "https://taz.de/Die-neuen-Demokraten-Stars/!6227323/",
+   "q": "taz",
+   "d": "2026-11-04T18:53:00+00:00"
+  },
+  {
+   "t": "Midtermwahlen in den USA: Perfekter Sieg auf fast allen Ebenen",
+   "s": "Schon vor Ende der Auszählung ist klar, dass die Demokraten in beiden Häusern die Mehrheit gewinnen. Aber vieles ist noch offen, etwa bei den Referenden.",
+   "u": "https://taz.de/US-Midterms-Ein-Perfekter-Sieg-auf-fast-allen-Ebenen/!6227325/",
+   "q": "taz",
+   "d": "2026-11-04T18:53:00+00:00"
+  },
+  {
+   "t": "Midtermwahlen in den USA: Mehr Macht, aber viele Risiken",
+   "s": "Was bedeutet der Wahlerfolg innenpolitisch für die Demokraten? Und welche Vorhaben kann Trump auch ohne sie umsetzen?",
+   "u": "https://taz.de/Nach-den-Midterms-Was-kann-Trump-auch-ohne-die-Demokraten-umsetzen/!6227326/",
+   "q": "taz",
+   "d": "2026-11-04T18:52:00+00:00"
+  },
+  {
+   "t": "Rohstoffboom in Brasilien: Ein Dorf wehrt sich",
+   "s": "Im brasilianischen Bundesstaat Bahia haben Anwohner ein Gesetz gegen Bergbau durchgesetzt. Dennoch gehen die Erkundungsarbeiten weiter.",
+   "u": "https://taz.de/Rohstoffboom-in-Brasilien/!6224033/",
+   "q": "taz",
+   "d": "2026-11-04T17:37:00+00:00"
+  },
+  {
+   "t": "Midterm-Wahlen in den USA: Debakel für die Republikaner – aber Trump noch nicht am Ende",
+   "s": "Bei den Zwischenwahlen erleben Trump und die Republikaner eine historische Niederlage. Trotz ihres Triumphs stellt das auch die Demokraten vor neue Herausforderungen.",
+   "u": "https://taz.de/Midterm-Wahlen-in-den-USA/!6227287/",
+   "q": "taz",
+   "d": "2026-11-04T17:25:00+00:00"
+  },
+  {
+   "t": "Commonwealth-Gipfel in Antigua: Das mit der Sklaverei tut uns schon irgendwie leid",
+   "s": "Großbritannien lehnt Forderungen der Karibikstaaten nach Reparationen für den Sklavenhandel ab. Das Thema dominiert den Commonwealth-Gipfel in Antigua.",
+   "u": "https://taz.de/Commonwealth-Gipfel-in-Antigua/!6227266/",
+   "q": "taz",
+   "d": "2026-11-04T16:34:00+00:00"
+  },
+  {
+   "t": "Nicht-weiße Gouverneurinnen: Endlich Farbe bekannt",
+   "s": "In Georgia, Texas und New Mexico gewinnen Frauen bei den Gouverneurswahlen, die nicht weiß sind. Eine geradezu historische Zeitenwende.",
+   "u": "https://taz.de/Nicht-weisse-Gouverneurinnen/!6227332/",
+   "q": "taz",
+   "d": "2026-11-04T16:20:00+00:00"
+  },
+  {
+   "t": "Die US-Außenpolitik nach den Midterms: Trump hat noch zwei Jahre Zeit, sich ein Denkmal zu setzen",
+   "s": "Trumps Außenpolitik sorgt in Europa für Irritationen und Verzweiflung. Kommt nach der Wahlniederlage im Kongress die Wende? Experten sind skeptisch.",
+   "u": "https://taz.de/Die-US-Aussenpolitik-nach-den-Midterms/!6227329/",
+   "q": "taz",
+   "d": "2026-11-04T16:19:00+00:00"
+  },
+  {
+   "t": "Midtermwahlen in den USA: Ein bisschen mehr Regenbogen",
+   "s": "Bei den Wahlen haben queere Kan­di­da­t:in­nen gut abgeschnitten. Aber Rechte von trans Menschen wurden nur bedingt gestärkt.",
+   "u": "https://taz.de/Midtermwahlen-in-den-USA/!6227314/",
+   "q": "taz",
+   "d": "2026-11-04T16:19:00+00:00"
+  },
+  {
+   "t": "Demokrat El-Sayed gewinnt Michigan: Der Sieg des „unwahrscheinlichsten aller Kandidaten“",
+   "s": "Den industriell geprägten Bundesstaat Michigan bei den Zwischenwahlen zu gewinnen, ist eigentlich ein Selbstläufer für die Demokraten. Für Abdul El-Sayed war es dennoch hart.",
+   "u": "https://taz.de/Demokrat-El-Sayed-gewinnt-Michigan/!6227311/",
+   "q": "taz",
+   "d": "2026-11-04T14:06:00+00:00"
+  },
+  {
+   "t": "Midterms-Ergebnis der US-Republikaner: Riesenklatsche, unsichere Zukunft",
    "s": "Bei den Midterms in den USA gewinnen die Demokraten beide Kammern des Kongresses zurück. Es ist ein deutliches Votum gegen die Politik Trumps – der nun noch gefährlicher wird.",
-   "u": "https://taz.de/Krachende-Niederlage-der-US-Republikaner/!6227184/",
+   "u": "https://taz.de/US-Republikaner-bei-den-Midterms-Krachende-Niederlage-unsichere-Zukunft/!6227184/",
    "q": "taz",
    "d": "2026-11-04T08:43:00+00:00"
   },
   {
-   "t": "Wahlen in den USA: Der ranghöchste Demokrat der USA",
+   "t": "Hakeem Jeffries: Der ranghöchste Demokrat der USA",
    "s": "Hakeem Jeffries wird Sprecher des Repräsentantenhauses und jubelt. Doch er muss mit Gegenwind aus dem Weißen Haus und aus seinen eigenen Reihen rechnen.",
    "u": "https://taz.de/Wahlen-in-den-USA/!6227187/",
    "q": "taz",
@@ -24,7 +94,7 @@
    "d": "2026-11-04T06:20:00+00:00"
   },
   {
-   "t": "Blaue Welle bei den US-Midterms: Die Rechtsextremisten sind nicht unaufhaltbar",
+   "t": "Blaue Welle bei den US-Midterms: Trumps Niederlage als Netanjahus Niederlage",
    "s": "Wow, ist das blau! Die Demokraten gewinnen beide Kammern des Kongresses – und einige Gouverneursposten dazu. Die US-Midterms im Liveticker.",
    "u": "https://taz.de/Midterms/!6226893/",
    "q": "taz",
@@ -99,76 +169,6 @@
    "u": "https://taz.de/Politikwissenschaftler-ueber-Midterms/!6223225/",
    "q": "taz",
    "d": "2026-11-02T06:07:00+00:00"
-  },
-  {
-   "t": "Vor den US-Midterms: Was macht Trump, falls er die Wahlen verliert?",
-   "s": "Auch wenn die US-Demokraten die Kongresswahlen gewinnen, können die Republikaner das sabotieren. Manche Tricks sind illegal – manche schlicht bizarr.",
-   "u": "https://taz.de/Vor-den-US-Midterms/!6226408/",
-   "q": "taz",
-   "d": "2026-11-01T19:14:00+00:00"
-  },
-  {
-   "t": "Flüssiggas-Terminal in Mexiko: Sind Wale Rechtssubjekte?",
-   "s": "Im mexikanischen Bundesstaat Sonora klagen Ak­ti­vis­t:in­nen und Wis­sen­schaft­le­r:in­nen gegen ein LNG-Projekt, um die Wale im Meer zu schützen.",
-   "u": "https://taz.de/Fluessiggas-Terminal-in-Mexiko/!6224031/",
-   "q": "taz",
-   "d": "2026-11-01T14:11:00+00:00"
-  },
-  {
-   "t": "Polit-Influencer Hasan Piker: Ein „Marxist“ im Maßanzug auf Twitch",
-   "s": "Der Polit-Influencer und Streamer Hasan Piker verschiebt die Grenze des Sagbaren in den USA nach links. Damit trifft er vor den Midterms einen Nerv.",
-   "u": "https://taz.de/Polarisierung-in-den-USA/!6226486/",
-   "q": "taz",
-   "d": "2026-11-01T13:44:00+00:00"
-  },
-  {
-   "t": "Unterdrückung von Medien in Venezuela: Geldstrafen, Verhaftungen, Schließungen",
-   "s": "Um die Demokratie in Venezuela wiederherzustellen, braucht es Meinungs- und Pressefreiheit. Doch noch gelten dort restriktive Gesetze.",
-   "u": "https://taz.de/Unterdrueckung-von-Medien-in-Venezuela/!6224030/",
-   "q": "taz",
-   "d": "2026-11-01T10:41:00+00:00"
-  },
-  {
-   "t": "Midterm Elections: Wer? Wann? Was? Wie?",
-   "s": "Die Zwischenwahlen am 3. November können entscheidend sein für die Zukunft der USA. Aber was passiert da genau und worauf kommt es an? Ein Überblick.",
-   "u": "https://taz.de/US-Midterms-Ein-Ueberblick-zu-den-Wahlen-am-3-November/!6223224/",
-   "q": "taz",
-   "d": "2026-11-01T08:45:00+00:00"
-  },
-  {
-   "t": "Uruguays Holzindustrie auf dem Prüfstand: Ein Abkommen mit grünem Anstrich",
-   "s": "Am Río de la Plata zeigt sich die Kehrseite einer monokulturellen Forstwirtschaft. Sie verbraucht riesige Mengen an Wasser und schadet der Umwelt.",
-   "u": "https://taz.de/Uruguays-Holzindustrie-auf-dem-Pruefstand/!6224032/",
-   "q": "taz",
-   "d": "2026-10-31T15:10:00+00:00"
-  },
-  {
-   "t": "Brasilien und der Regenwald: Vergesst kurz die USA – und schaut nach Brasilien",
-   "s": "Der Wahlsieg Lula da Silvas in Brasilien ist nicht nur ein Erfolg gegen den Bolsonarismus. Sondern auch eine Hoffnung für den Regenwald.",
-   "u": "https://taz.de/Brasilien-und-der-Regenwald/!6226343/",
-   "q": "taz",
-   "d": "2026-10-31T12:31:00+00:00"
-  },
-  {
-   "t": "Transnationale Desinformation: Eine Galaxie der Manipulation",
-   "s": "Faktenchecker haben es zunehmend mit Desinformationen zu tun, die sich global verbreiten – auch in Lateinamerika. Beteiligt sind oft ausländische Mächte.",
-   "u": "https://taz.de/Transnationale-Desinformation/!6224025/",
-   "q": "taz",
-   "d": "2026-10-31T08:42:00+00:00"
-  },
-  {
-   "t": "Quinn Slobodian über Trump und Big Tech: „Wir müssen herausfinden, was wir stattdessen wollen“",
-   "s": "Die US-Tech-Giganten sind mit dem MAGA-Staat verschmolzen. Doch diese Entwicklung könnte sich bald wieder umkehren, sagt der Wissenschaftler Quinn Slobodian.",
-   "u": "https://taz.de/Quinn-Slobodian-ueber-Trump-und-Big-Tech/!6226232/",
-   "q": "taz",
-   "d": "2026-10-30T18:28:00+00:00"
-  },
-  {
-   "t": "Mexikanische Zulieferer unter Druck: Der Lack ist ab",
-   "s": "Der Protektionismus der USA macht Mexikos Automobilbranche zu schaffen, zehntausende Arbeitsplätze gingen bereits verloren. Und Europa ist weit weg.",
-   "u": "https://taz.de/Mexikanische-Zulieferer-unter-Druck/!6224020/",
-   "q": "taz",
-   "d": "2026-10-30T14:00:00+00:00"
   }
  ]
 }
