@@ -1,34 +1,41 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-04T01:22:41+00:00",
+ "updated": "2026-11-04T10:56:42+00:00",
  "items": [
+  {
+   "t": "Marktbericht: DAX-Anleger reagieren gelassen",
+   "s": "Nach dem Wahlsieg der Demokraten in den USA gehen die Anleger schnell zur Tagesordnung über. Der DAX holt vorbörsliche Verluste wieder auf. Im Fokus steht dabei der Fortgang der Berichtssaison.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T09:46:01+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 04.11.2026",
+   "s": "Update Wirtschaft vom 04.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1677864.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T09:29:34+00:00"
+  },
+  {
+   "t": "BMW erwirtschaftet noch weniger Gewinn",
+   "s": "Die Absatzkrise in China lässt den Gewinn von BMW im dritten Quartal weiter einbrechen. Auch teure Abfindungen und das vorgezogene Aus älterer Modelle verhageln dem Münchner Autobauer die Bilanz.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T08:21:37+00:00"
+  },
+  {
+   "t": "Airlines streichen Flüge: Verliert Deutschland den Anschluss?",
+   "s": "Fluggesellschaften klagen über zu hohe Steuern und Abgaben in Deutschland. Die Airlines haben zuletzt etliche Verbindungen gestrichen. Verliert die deutsche Luftfahrt den Anschluss? Von Sebastian Schreiber.",
+   "u": "https://www.tagesschau.de/wirtschaft/luftfahrt-lufthansa-wirtschaftsstandort-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T05:23:01+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 03.11.2026",
    "s": "Wirtschaft vor acht vom 03.11.2026",
    "u": "https://www.tagesschau.de/video/video-1677572.html",
    "q": "Tagesschau",
    "d": "2026-11-03T18:52:45+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX fällt leicht zurück",
-   "s": "Inmitten der Zahlenflut zum dritten Quartal und angesichts des Wahltages in den USA hielten sich die Anleger bedeckt. Der DAX konnte seine anfänglichen Verluste aber eingrenzen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T17:10:25+00:00"
-  },
-  {
-   "t": "Weihnachtsgeschäft: Kinderwünsche und Händlerträume",
-   "s": "Weihnachtszeit ist Umsatzzeit: Trotz Krisenstimmung zeigt sich der Einzelhandel zuversichtlich. Doch wo Kinder ins Träumen geraten, ist die Stimmung der Händler angespannt. Von Juri Sonnenholzner.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/spielwaren-hde-weihnachtsgeschaeft-rofu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T15:47:04+00:00"
-  },
-  {
-   "t": "Erster Spot vor 70 Jahren: Als die Werbung ins Fernsehen kam",
-   "s": "Mit einem Fleck auf der Tischdecke fing es an - und zwar in Bayern: Vor 70 Jahren wurde der erste Werbespot im deutschen Fernsehen ausgestrahlt. Seitdem hat sich Werbung massiv verändert. Und das große Geld fließt längst in andere Kanäle. Von Laura Bisch.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/70-jahre-werbefernsehen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T15:46:23+00:00"
   },
   {
    "t": "CBAM – ein Klimaschutz-Druckmittel der EU",
@@ -52,13 +59,6 @@
    "d": "2026-11-03T13:49:27+00:00"
   },
   {
-   "t": "Anspannung am Wahltag: Was die Midterms für die Börse bedeuten",
-   "s": "Die Zwischenwahlen in den USA leiten oft eine starke Börsenphase ein. Diesmal bergen sie aber eine Reihe von Stolpersteinen. Von Detlev Landmesser.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T13:33:24+00:00"
-  },
-  {
    "t": "EU genehmigt MediaMarktSaturn-Übernahme durch JD.com",
    "s": "Der chinesische Tech-Riese JD.com darf Europas größten Elektronikfachhändler MediaMarktSaturn übernehmen. Das hat die EU-Kommission entschieden. Doch aus Brüssel kommen Auflagen.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-mediamarkt-saturn-jd-genehmigung-100.html",
@@ -73,46 +73,11 @@
    "d": "2026-11-03T10:28:56+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 03.11.2026",
-   "s": "Update Wirtschaft vom 03.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1677148.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T09:08:43+00:00"
-  },
-  {
-   "t": "Kahlschlag bei Schaeffler: Stellenabbau und Standortschließungen",
-   "s": "Die Krise der deutschen Autoindustrie lässt Schaeffler zu drastischen Maßnahmen greifen. Tausende Stellen werden gestrichen. In Deutschland stehen vier Werke vor dem Aus.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/schaeffler-154.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T09:02:12+00:00"
-  },
-  {
-   "t": "Starkes iPhone-Geschäft sorgt für Rekordumsatz bei Apple",
-   "s": "Apple hat unter dem neuen Konzernchef John Ternus ‌die Erwartungen von Börsenprofis übertroffen. Der iPhone-Umsatz und die Konzernerlöse haben im dritten Quartal Rekordwerte erreicht. Die Aktie fällt trotzdem.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-rekordumsatz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T08:13:13+00:00"
-  },
-  {
    "t": "Was Polens Wirtschaft boomen lässt",
    "s": "Jahrzehntelang galt Polen als der arme Nachbar im Osten. Ein längst veraltetes Klischee: Die polnische Wirtschaft wächst stark - was viele Menschen aus Deutschland anlockt. Von Christiane Cichy.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/polen-boom-wirtschaftswunder-100.html",
    "q": "Tagesschau",
    "d": "2026-11-03T07:23:57+00:00"
-  },
-  {
-   "t": "11KM-Podcast: Chip im Gehirn - wie KI und Mensch verbunden werden",
-   "s": "Künstliche Intelligenz wird mit dem Menschen verknüpft über Sensoren im Gehirn. 11KM klärt, welche Chancen das für die Medizin bringt und ob auch private Gedanken von der KI manipuliert werden könnten.",
-   "u": "https://www.tagesschau.de/multimedia/podcast/11km/chips-hirn-schnittstelle-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T06:03:56+00:00"
-  },
-  {
-   "t": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
-   "s": "In Sachen KI hängt Deutschland international hinterher. Bei einem Digitalgipfel in Berlin forderte Kanzler Merz daher einen schnellen und energischen Ausbau der KI-Fähigkeiten. Doch viel Zeit bleibe dafür nicht mehr, sagen Experten.",
-   "u": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-02T18:33:00+00:00"
   },
   {
    "t": "Cyberangriffe haben Supermärkte in Europa offenbar lahmgelegt",
@@ -129,32 +94,11 @@
    "d": "2026-11-02T11:25:40+00:00"
   },
   {
-   "t": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
-   "s": "Einen Großteil der gestohlenen Kundengelder hat Binance nach dem Hackerangriff mittlerweile ersetzt. Dennoch kämpft die Kryptobörse mit einem Vertrauensverlust. Kunden haben 3,6 Milliarden Dollar abgezogen.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-02T08:59:47+00:00"
-  },
-  {
-   "t": "IG Metall weitet im Tarifstreit Warnstreiks aus",
-   "s": "Die ersten Fließbänder standen schon am Sonntag still, mit dem Wochenbeginn rollt in der Metall- und Elektroindustrie nun eine größere Streikwelle an. Nach der ergebnislosen zweiten Tarifrunde rief die IG Metall zu Arbeitsniederlegungen auf.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html",
-   "q": "Tagesschau",
-   "d": "2026-11-02T02:15:40+00:00"
-  },
-  {
    "t": "Grüner Flugkraftstoff: Wird Fliegen in Zukunft teurer?",
    "s": "Die EU schreibt Quoten für nachhaltiges Kerosin vor. Doch es gibt kaum Anlagen, die es herstellen - und teuer ist die Herstellung bislang auch. Airlines warnen davor, dass das Fliegen für alle verteuern könnte. Von Timo Spicker.",
    "u": "https://www.tagesschau.de/wirtschaft/energie/umweltfreundlich-fliegen-flugverkehr-100.html",
    "q": "Tagesschau",
    "d": "2026-11-01T16:22:32+00:00"
-  },
-  {
-   "t": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
-   "s": "Ob bei der Entwicklung neuer Produkte, in der Werbung oder bei der Gestaltung des eigenen Zuhauses: KI ist im Alltag angekommen. Sie spart oft Zeit, wirft aber auch Fragen nach Kreativität, Arbeitsplätzen und Vertrauen auf. Von Anke Heinhaus.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/ki-veraenderung-wirtschaft-alltag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-01T08:00:49+00:00"
   },
   {
    "t": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
@@ -169,6 +113,62 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
    "q": "Tagesschau",
    "d": "2026-10-31T07:45:19+00:00"
+  },
+  {
+   "t": "Wie der VW-Vorstand die Laune bei den Skoda-Mitarbeitern drückt",
+   "s": "Während die Konzernmutter Volkswagen viele Probleme hat, erwirtschaftet die tschechische Tochter Skoda passable Gewinne. Doch das ist für den Hersteller nicht automatisch von Vorteil. Von André Berthold.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/skoda-144.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T13:51:43+00:00"
+  },
+  {
+   "t": "Fehlende Wohnungen: Was hat der \"Bau-Turbo\" bislang gebracht?",
+   "s": "In Deutschland werden viel zu wenig Wohnungen gebaut. Dabei versucht die Bundesregierung gegenzusteuern - etwa mit dem \"Bau-Turbo\", der seit einem Jahr gilt. Was hat das Gesetz bislang gebracht? Von Axel John.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/bauturbo-wohnungen-immobilien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-30T07:55:53+00:00"
+  },
+  {
+   "t": "Bruttoökosystemprodukt: Was die Natur wert ist",
+   "s": "Wirtschaftswachstum gilt als Zeichen von Wohlstand. Leistungen der Natur bleiben dabei außen vor. Das Bruttoökosystemprodukt soll den Wert von Ökosystemen messbar machen. In China entscheiden sich daran bereits Bauprojekte und Politikerkarrieren.Von Tomma Schröder",
+   "u": "https://www.deutschlandfunk.de/bruttooekosystemprodukt-boep-gep-natur-wert-wohlstand-wirtschaft-china-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-29T08:00:00+00:00"
+  },
+  {
+   "t": "Industriearbeiter: Vom Gesicht des Wirtschaftswunders zur AfD-Klientel",
+   "s": "Der deutsche Industriearbeiter galt als Symbolfigur des Wiederaufbaus nach 1945. Arbeiter waren stolz, „Malocher“ zu sein. Doch zunehmend verschwinden Industriejobs. Und viele der verbliebenen Arbeiter zieht es zur AfD.",
+   "u": "https://www.deutschlandfunk.de/industriearbeiter-afd-waehler-wirtschaft-arbeitsplaetze-stellenabbau-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-27T11:34:00+00:00"
+  },
+  {
+   "t": "Die globale Energiewende – die Zukunft der Welt ist elektrisch",
+   "s": "Der Irankrieg und die weltweit gestiegenen Treibstoffpreise haben noch einmal gezeigt, was die Abhängigkeit von den fossilen Energien bedeutet. Weltweit wird der Umstieg auf erneuerbare Energien vorangetrieben – oft aus rein finanziellen Gründen.",
+   "u": "https://www.deutschlandfunk.de/energiewende-global-erneuerbare-energien-elektromobilitaet-dekarbonisierung-klimawandel-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-27T08:42:00+00:00"
+  },
+  {
+   "t": "Biodiversitätsabkommen: Balanceakt zwischen Artenschutz und Wirtschaft",
+   "s": "Artenvielfalt stabilisiert Ökosysteme und sichert damit auch wirtschaftliche Grundlagen. Dennoch gerät die Einhaltung der Biodiversitätsziele in Vergessenheit, wenn es um wirtschaftliche Interessen geht.",
+   "u": "https://www.deutschlandfunk.de/cop17-biodiversitaet-artenvielfalt-wirtschaft-100-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-22T15:46:00+00:00"
+  },
+  {
+   "t": "Chemie ohne Erdöl: Wie die Kohlenstoffwende gelingen soll",
+   "s": "Die Chemieindustrie gehört zu den größten Verursachern von Treibhausgasen. Deshalb will sie nun statt Erdöl Biomasse, Recycling und abgeschiedenes CO2 als Rohstoffquellen benutzen. Das erfordert neue Technologien und Milliardeninvestitionen.",
+   "u": "https://www.deutschlandfunk.de/chemie-ohne-erdoel-kohlenstoff-recycling-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-21T16:25:00+00:00"
+  },
+  {
+   "t": "Kommentar zum Investitionsgipfel: Wenn die Fachkräfte fehlen",
+   "s": "Bundeskanzler Merz möchte mit einem Investitionsgipfel mehr Kapital nach Deutschland locken. Grundsätzlich ist Deutschland attraktiv für Investoren. Es ist kreditwürdig und rechtssicher. Beim Thema Fachkräfte sieht es allerdings zunehmend düster aus.Ein Kommentar von Falk Steiner",
+   "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-21T08:10:00+00:00"
   }
  ]
 }

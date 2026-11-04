@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-04T01:22:43+00:00",
+ "updated": "2026-11-04T10:56:46+00:00",
  "items": [
+  {
+   "t": "Abkommen mit den USA: Grönland gibt grünes Licht",
+   "s": "Das grönländische Parlament hat für das Sicherheitsabkommen mit den USA gestimmt. Wenn Dänemark zustimmt, kann die Vereinbarung in Kraft treten.",
+   "u": "https://taz.de/Abkommen-mit-den-USA/!6227225/",
+   "q": "taz",
+   "d": "2026-11-04T09:21:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Ukraine trifft Logistikzentrum von russischem Onlinehändler",
+   "s": "Kyjiw hat mit Drohnen ein Versandzentrum eines russischen Internethändlers angegriffen. Trump zeigt sich mit Blick auf die anstehenden Friedensgespräche optimistisch.",
+   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6227186/",
+   "q": "taz",
+   "d": "2026-11-04T08:16:00+00:00"
+  },
   {
    "t": "Ukraine unter massivem Beschuss: Kältetod mit Ansage",
    "s": "Russland greift in der Ukraine gezielt und verstärkt zivile Infrastruktur an – und zwar landesweit. Bereits jetzt kommt es zu massiven Stromausfällen.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6226329/",
    "q": "taz",
    "d": "2026-10-31T08:00:00+00:00"
-  },
-  {
-   "t": "Nach den Parlamentswahlen in Serbien: Ich atme anders",
-   "s": "Seit der Wahlniederlage von Aleksandar Vučić ist Serbien im Freudentaumel. Unsere Autorin war früher selbst Teil des Studierenden­widerstands.",
-   "u": "https://taz.de/Nach-den-Parlamentswahlen-in-Serbien/!6223255/",
-   "q": "taz",
-   "d": "2026-10-30T18:28:00+00:00"
-  },
-  {
-   "t": "Waffenstillstand in Oleschky: Humanitäres, Handeschütteln und bleibendes Misstrauen",
-   "s": "In der ukrainischen Stadt Oleschky hält der vereinbarte Waffenstillstand. Hilfslieferungen treffen ein, Menschen nutzen die Chance zur Evakuierung.",
-   "u": "https://taz.de/Waffenstillstand-in-Oleschky/!6226243/",
-   "q": "taz",
-   "d": "2026-10-30T14:23:00+00:00"
   }
  ]
 }

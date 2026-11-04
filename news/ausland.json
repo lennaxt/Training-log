@@ -1,27 +1,83 @@
 {
  "name": "Ausland",
- "updated": "2026-11-04T01:22:40+00:00",
+ "updated": "2026-11-04T10:56:41+00:00",
  "items": [
   {
-   "t": "Liveblog zu den Midterms: ++ Erste Wahlen beendet ++ Auszählung beginnt ++",
-   "s": "Die ersten Wahllokale in Teilen von Indiana und Kentucky haben geschlossen. Das US-Justizministerium schickt zahlreiche Wahlbeobachter in alle Bundesstaaten. Die Entwicklungen im Liveblog.",
+   "t": "Liveblog zu den Midterms: ++ Sorgen vor Trumps Unberechenbarkeit ++",
+   "s": "Ökonomen warnen vor überzogenen Erwartungen, was die Außen- und Handelspolitik Trumps nach dem Sieg der Demokraten angeht. Der EU-Parlamentarier Lange befürchtet, dass der US-Präsident noch unberechenbarer agieren könnte. Die Entwicklungen im Liveblog.",
    "u": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-04T01:02:55+00:00"
+   "d": "2026-11-04T10:37:57+00:00"
+  },
+  {
+   "t": "Midterms: Demokraten holen Mehrheiten in beiden Kammern des Kongresses",
+   "s": "Die US-Demokraten haben bei den Midterms die Mehrheiten im Senat und im Repräsentantenhaus gewonnen. Der demokratische Fraktionschef im Repräsentantenhaus, Jeffries, jubelte: \"Amerika ist zurück.\" Auch bei den Gouverneurswahlen feiern Demokraten Siege.",
+   "u": "https://www.tagesschau.de/eilmeldung/usa-midterms-118.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T10:16:36+00:00"
   },
   {
    "t": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
-   "s": "In immer mehr US-Bundesstaaten haben die Wahllokale geschlossen und die Auszählung läuft. Wie ist der Stand bei den Wahlen zum Senat, zum Repräsentantenhaus und zu den Gouverneuren? Ergebnisse in Zahlen und Karten.",
+   "s": "In den USA läuft die Auszählung nach den Zwischenwahlen. Wer liegt im Senat und im Repräsentantenhaus vorn? Wer entschied welche Rennen um diese Sitze und um die Gouverneursposten für sich? Ergebnisse in Zahlen und Karten.",
    "u": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
    "q": "Tagesschau",
-   "d": "2026-11-04T00:39:30+00:00"
+   "d": "2026-11-04T09:58:04+00:00"
   },
   {
-   "t": "Liveblog zu den Midterms: ++ US-Justizministerium schickt Wahlbeobachter in alle Bundesstaaten ++",
-   "s": "Das US-Justizministerium schickt zahlreiche Wahlbeobachter in alle Bundesstaaten. Kritiker befürchten eine abschreckende Wirkung durch deren Präsenz. Bei den US-Midterms wird ein spannendes Rennen erwartet. Die Entwicklungen im Liveblog.",
-   "u": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-102.html",
+   "t": "Marktbericht: DAX-Anleger reagieren gelassen",
+   "s": "Nach dem Wahlsieg der Demokraten in den USA gehen die Anleger schnell zur Tagesordnung über. Der DAX holt vorbörsliche Verluste wieder auf. Im Fokus steht dabei der Fortgang der Berichtssaison.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
    "q": "Tagesschau",
-   "d": "2026-11-03T22:49:56+00:00"
+   "d": "2026-11-04T09:46:01+00:00"
+  },
+  {
+   "t": "Israels Präsident Herzog startet Konsultationen zur Regierungsbildung",
+   "s": "In Israel starten heute die entscheidenden Konsultationen über die Bildung einer neuen Regierung. Nach der Parlamentswahl steckt das Land in einer Blockade. Staatspräsident Herzog ruft zu historischen Kompromissen auf. Von Julio Segador.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T09:43:26+00:00"
+  },
+  {
+   "t": "Midterms-Analyse: Sechs Erkenntnisse nach der \"blauen Welle\"",
+   "s": "Das Midterms-Ergebnis ist deutlich, die Gründe auch: ein unbeliebter Präsident und hohe Preise. Aber was heißt das alles für den Rest der Präsidentschaft - und die Zeit danach? Von Martin Ganslmeier.",
+   "u": "https://www.tagesschau.de/ausland/amerika/midterms-analyse-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T09:24:29+00:00"
+  },
+  {
+   "t": "Trump zu Midterms: \"Herzlichen Glückwunsch an die Demokraten!\"",
+   "s": "Entgegen mancher Befürchtungen hat US-Präsident Trump den Midterm-Sieg der Demokraten anerkannt. Diese hätten \"gute Arbeit geleistet\", nun werde man eben kooperieren. An ihm habe die Pleite aber nicht gelegen - im Gegenteil.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-midterms-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T08:28:00+00:00"
+  },
+  {
+   "t": "Analyse: Warum es sogar ein Erdrutschsieg der Demokraten wurde",
+   "s": "Die Demokraten gewinnen vor allem bei jungen Wählern, Schwarzen und Latinos hinzu. Einige Ergebnisse sind für die Republikaner regelrecht demütigend. Das hat viel mit US-Präsident Trump zu tun. Von Jörg Schönenborn.",
+   "u": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-analyse-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T08:16:26+00:00"
+  },
+  {
+   "t": "Politikexperte: \"Es ist eine Wahl gegen Donald Trump\"",
+   "s": "Mehrheiten in beiden Kammern - der Sieg der Demokraten bei den Midterms ist deutlich. Politikexperte Michael Werz sagt, US-Präsident Trump habe seine Gegner zusammengeschweißt. Der Blick richte sich nun auf die nächste Präsidentenwahl 2028.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T06:35:46+00:00"
+  },
+  {
+   "t": "US-Zwischenwahl: Demokraten erobern Mehrheit im Senat",
+   "s": "Bei den Midterms haben sich die Demokraten eine knappe Mehrheit im Senat gesichert. Sie konnten mehrere Bundesstaaten erobern, die lange in der Hand der Republikaner waren.",
+   "u": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T06:10:55+00:00"
+  },
+  {
+   "t": "US-Zwischenwahlen: Demokraten steuern auf Wahlerfolg zu",
+   "s": "Nach Schließung vieler Wahllokale zeichnet sich ein Erfolg für die Demokraten ab. Laut US-Medien ist klar, dass sie vier Senatssitze von den Republikanern erobern. Auch im Rennen um die Mehrheit im Repräsentantenhaus machen sie wichtige Punkte.",
+   "u": "https://www.tagesschau.de/ausland/amerika/midterms-usa-wahl-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-04T04:32:37+00:00"
   },
   {
    "t": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
@@ -64,13 +120,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html",
    "q": "Tagesschau",
    "d": "2026-11-03T16:08:15+00:00"
-  },
-  {
-   "t": "Anspannung am Wahltag: Was die Midterms für die Börse bedeuten",
-   "s": "Die Zwischenwahlen in den USA leiten oft eine starke Börsenphase ein. Diesmal bergen sie aber eine Reihe von Stolpersteinen. Von Detlev Landmesser.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T13:33:24+00:00"
   },
   {
    "t": "Wahlen in den USA: Wie geht es nach den Midterms weiter? Vier Szenarien",
@@ -120,55 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html",
    "q": "Tagesschau",
    "d": "2026-11-03T03:55:28+00:00"
-  },
-  {
-   "t": "Polen: Die Verfassungsgerichtskrise - kein Ende in Sicht",
-   "s": "Vor dem Verfassungsgericht in Polen hat es am Wochenende Tumulte gegeben, der Staatschef brach eine Auslandsreise ab. Zuvor wurden der Gerichtspräsident und sein Stellvertreter suspendiert. Ein Kompromiss ist nicht in Sicht. Von P. Milling.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T02:25:42+00:00"
-  },
-  {
-   "t": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
-   "s": "Vor allem wegen der enormen Preissteigerungen durch Trumps Zölle und den Iran-Krieg könnten die Republikaner bei den heutigen Midterms abgestraft werden. Die Folge könnte ein politisches Patt sein. Droht den USA der Stillstand? Von Anne Schneider.",
-   "u": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T00:44:25+00:00"
-  },
-  {
-   "t": "Warum es bei diesen Midterms auch auf Alaska ankommen könnte",
-   "s": "Obwohl Alaska traditionell republikanisch wählt, liegt die Demokratin Peltola in Umfragen vorn. Der Ausgang im nördlichsten Bundesstaat könnte die Midterms entscheidend beeinflussen. Den Wahlkampf bestimmen auch hier die hohen Preise. Von Torben Börgers.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-midterms-alaska-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-02T20:15:15+00:00"
-  },
-  {
-   "t": "Abenteurer Bushby kehrt nach 28 Jahren von Weltreise zurück",
-   "s": "50.000 Kilometer in 28 Jahren - hinter dem englischen Abenteurer Karl Bushby liegt eine gewaltige Wanderung. Nun ist er in seine Heimatstadt Hull zurückgekehrt - und wurde von seiner gerührten Mutter empfangen. Von Lisa-Maria Röhling.",
-   "u": "https://www.tagesschau.de/ausland/bushby-lauf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-02T20:00:49+00:00"
-  },
-  {
-   "t": "Handel mit Merchandise: Nicht mehr viel los im Trump-Shop",
-   "s": "Fanartikel von Trump waren einmal ein gutes Geschäft in den USA. Im ganzen Land eröffneten Shops, in denen es Devotionalien aller Art gab - nicht nur die bekannten roten MAGA-Mützen. Wie läuft das Geschäft inzwischen? Von C. Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-stores-fanshop-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-02T17:24:23+00:00"
-  },
-  {
-   "t": "Afghanistans Kindern droht ein tödlicher Winter",
-   "s": "Die humanitäre Lage in Afghanistan gehört zu den größten Krisen weltweit. Besonders betroffen: Kinder. Nun schlagen Hilfsorganisationen wie UNICEF Alarm. Die Zahl der akut mangelernährten Mädchen und Jungen steige. Von F. Amler.",
-   "u": "https://www.tagesschau.de/ausland/asien/afghanistan-haumanitare-lage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-02T15:07:44+00:00"
-  },
-  {
-   "t": "Kreuzfahrt-Weltreise endet vorzeitig in Kambodscha",
-   "s": "Für manche sollte es eine Kreuzfahrt bis ans Lebensende werden - doch jetzt endete die Reise der \"MV Odyssey\" vorzeitig in Kambodscha. Grund sind laut Reederei die stark gestiegenen Treibstoffpreise. Von Angelika Henkel.",
-   "u": "https://www.tagesschau.de/ausland/asien/kambodscha-kreuzfahrt-odyssey-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-02T10:51:06+00:00"
   }
  ]
 }
