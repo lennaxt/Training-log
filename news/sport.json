@@ -1,7 +1,28 @@
 {
  "name": "Sport",
- "updated": "2026-11-04T21:20:23+00:00",
+ "updated": "2026-11-05T10:57:36+00:00",
  "items": [
+  {
+   "t": "Parlamentswahl in Neuseeland: Konservative Koalition in der Kostenkrise",
+   "s": "Die Wirtschaft schwächelt, hohe Lebenshaltungskosten belasten die Haushalte. Die kleineren Parteien könnten wahlentscheidend sein.",
+   "u": "https://taz.de/Parlamentswahl-in-Neuseeland/!6227227/",
+   "q": "taz",
+   "d": "2026-11-05T09:58:00+00:00"
+  },
+  {
+   "t": "Repressionen in Hongkong: Noch mal zehn Jahre Haft für Demokratieaktivisten Wong",
+   "s": "Joshua Wong wird wegen einer Verschwörung zur Gefährdung der nationalen Sicherheit verurteilt. Kritik aus Taiwan und den USA.",
+   "u": "https://taz.de/Repressionen-in-Hongkong/!6227530/",
+   "q": "taz",
+   "d": "2026-11-05T08:33:00+00:00"
+  },
+  {
+   "t": "Arbeitskämpfe in Bangladesch: Textilarbeiter fordern existenzsichernden Mindestlohn",
+   "s": "Seit dem Wochenende demonstrieren Tex­til­ar­bei­te­r:in­nen in Bangladesch für höhere Löhne. Die Regierung hat Mühe, die Lage zu beruhigen.",
+   "u": "https://taz.de/Arbeitskaempfe-in-Bangladesch/!6227377/",
+   "q": "taz",
+   "d": "2026-11-05T06:16:00+00:00"
+  },
   {
    "t": "Rauchschwaden über Südostasien: Indonesien verpestet seine Nachbarn – und sich selbst",
    "s": "Seit Monaten raubt der Rauch von Indonesiens brennenden Wäldern den Menschen der Region den Atem und die Sicht. Präsident Prabowo hofft auf Regen.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Massaker-Opfer-in-Iran/!6217987/",
    "q": "taz",
    "d": "2026-10-01T18:40:00+00:00"
-  },
-  {
-   "t": "Grenzkrieg mit Afghanistan: Pakistan eskaliert wieder am Hindukusch",
-   "s": "Die pakistanische Luftwaffe greift erneut angebliche Terroristenlager in Afghanistan an. Erstmals gibt es Berichte über eine Unterstützung bewaffneter Taliban-Gegner.",
-   "u": "https://taz.de/Grenzkrieg-mit-Afghanistan/!6217958/",
-   "q": "taz",
-   "d": "2026-10-01T14:53:00+00:00"
-  },
-  {
-   "t": "Weltweite Aufrüstung: Deutsche Rüstungsindustrie drängt nach Japan",
-   "s": "Die Regierung in Tokio hat ihre Beschränkung von Waffenexporten gelockert. Rüstungskonzerne loten jetzt neue Kooperationen aus.",
-   "u": "https://taz.de/Weltweite-Aufruestung/!6217630/",
-   "q": "taz",
-   "d": "2026-09-30T16:52:00+00:00"
-  },
-  {
-   "t": "Alternativer Nobelpreis: „Sie verwandelt Kampf in Solidarität“",
-   "s": "Die ausgezeichnete pakistanische Menschenrechtsanwältin, Feministin und Aktivistin Jalila Haider setzt sich mutig für die Schwächsten in ihrer Heimat ein.",
-   "u": "https://taz.de/Alternativer-Nobelpreis/!6217621/",
-   "q": "taz",
-   "d": "2026-09-30T13:04:00+00:00"
   }
  ]
 }

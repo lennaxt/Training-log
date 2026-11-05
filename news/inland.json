@@ -1,16 +1,156 @@
 {
  "name": "Inland",
- "updated": "2026-11-04T21:20:15+00:00",
+ "updated": "2026-11-05T10:57:27+00:00",
  "items": [
+  {
+   "t": "Bundespräsidenten-Nachfolge: Unterstützung für Aigner nimmt zu",
+   "s": "Wen nominiert die Union für die Nachfolge des scheidenden Bundespräsidenten Steinmeier? Kommende Woche soll eine Entscheidung fallen. Immer mehr Politiker sprechen sich für die bayerische Landtagspräsidentin Aigner aus.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T10:44:48+00:00"
+  },
+  {
+   "t": "Wie der Führerschein günstiger werden soll",
+   "s": "Weniger Sonderfahrten, keine Präsenzpflicht im Theorieunterricht: Der Führerschein soll weniger kosten und die Fahrschulausbildung moderner werden. Heute stimmt der Bundestag über den Gesetzentwurf zur Führerscheinreform ab.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fuehrerschein-reform-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T10:26:53+00:00"
+  },
+  {
+   "t": "Reaktionen auf Tod Aiwangers: Söder spricht von \"absoluter Tragödie\"",
+   "s": "Der unerwartete Tod von Hubert Aiwanger hat Bestürzung ausgelöst. Der Chef der Freien Wähler war leblos in einem Hotel aufgefunden worden. Bayerns Ministerpräsident Söder sprach von einer \"absoluten Tragödie\". Er würdigte Aiwanger als \"starken Bayern\".",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-gestorben-reaktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T10:21:40+00:00"
+  },
+  {
+   "t": "Studentenprotest an der Uni Kassel: Studieren bei der Rüstungsfirma",
+   "s": "An der Uni Kassel ist nun Forschung für militärische Zwecke möglich. Protestierende Studierende besetzten bis zur Räumung einen Hörsaal.",
+   "u": "https://taz.de/Studentenprotest-an-der-Uni-Kassel/!6227508/",
+   "q": "taz",
+   "d": "2026-11-05T10:07:00+00:00"
+  },
+  {
+   "t": "Parlamentswahl in Neuseeland: Konservative Koalition in der Kostenkrise",
+   "s": "Die Wirtschaft schwächelt, hohe Lebenshaltungskosten belasten die Haushalte. Die kleineren Parteien könnten wahlentscheidend sein.",
+   "u": "https://taz.de/Parlamentswahl-in-Neuseeland/!6227227/",
+   "q": "taz",
+   "d": "2026-11-05T09:58:00+00:00"
+  },
+  {
+   "t": "Argentinien und das EU-Mercosur-Abkommen: Wie viel ist Europa der Umweltschutz wert?",
+   "s": "Brüssel ist in einem rhetorischen Labyrinth gefangen: Während die EU sich mit grünen Reden schmückt, drückt sie bei „Kettensäge“ Javier Milei ein Auge zu.",
+   "u": "https://taz.de/Argentinien-und-das-EU-Mercosur-Abkommen/!6224036/",
+   "q": "taz",
+   "d": "2026-11-05T09:17:00+00:00"
+  },
+  {
+   "t": "Schock in Bayern: Hubert Aiwanger ist tot",
+   "s": "Bayerns stellvertretender Ministerpräsident und Freie-Wähler-Chef Hubert Aiwanger ist unerwartet gestorben. Er wurde nur 55 Jahre alt.",
+   "u": "https://taz.de/Hubert-Aiwanger-ist-tot---er-hinterlaesst-auch-politisch-viele-Luecken/!6227524/",
+   "q": "taz",
+   "d": "2026-11-05T08:34:00+00:00"
+  },
+  {
+   "t": "Repressionen in Hongkong: Noch mal zehn Jahre Haft für Demokratieaktivisten Wong",
+   "s": "Joshua Wong wird wegen einer Verschwörung zur Gefährdung der nationalen Sicherheit verurteilt. Kritik aus Taiwan und den USA.",
+   "u": "https://taz.de/Repressionen-in-Hongkong/!6227530/",
+   "q": "taz",
+   "d": "2026-11-05T08:33:00+00:00"
+  },
+  {
+   "t": "Machtmissbrauch in Krankenhäusern: Ein Klima der Angst und des Schweigens",
+   "s": "Die Zahlen zu Machtmissbrauch und sexueller Belästigung in Krankenhäusern sind erschreckend. Ein runder Tisch soll für Veränderung sorgen.",
+   "u": "https://taz.de/Machtmissbrauch-in-Krankenhaeusern/!6227320/",
+   "q": "taz",
+   "d": "2026-11-05T08:24:00+00:00"
+  },
+  {
+   "t": "Hubert Aiwanger - das Gesicht der Freien Wähler",
+   "s": "Bierzelt, Bauernhof, klare Kante: Hubert Aiwanger stand wie kein anderer für die Freien Wähler. Er führte die Partei in die Staatsregierung und blieb bis zuletzt ihr prägendster Kopf. Ein Nachruf von Regina Kirschner.",
+   "u": "https://www.tagesschau.de/inland/regional/bayern/hubert-aiwanger-nachruf-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T08:03:33+00:00"
+  },
+  {
+   "t": "Selbstenttarnung des NSU vor 15 Jahren: Noch immer bleiben Fragen",
+   "s": "Andächtig erinnern Menschen im Dom von Zwickau an die Opfer des NSU. In der Stadt beging das Kerntrio keine Morde, sondern fühlte sich zu Hause.",
+   "u": "https://taz.de/Selbstenttarnung-des-NSU-vor-15-Jahren/!6227286/",
+   "q": "taz",
+   "d": "2026-11-05T07:42:00+00:00"
+  },
+  {
+   "t": "Erste Lesung: Bundestag debattiert über Pflegereform",
+   "s": "Es ist der erste Aufschlag: An diesem Donnerstag debattiert der Bundestag über die Pflegereform. Die große Strukturreform soll dann im neuen Jahr folgen.",
+   "u": "https://taz.de/Erste-Lesung/!6227525/",
+   "q": "taz",
+   "d": "2026-11-05T07:25:00+00:00"
+  },
+  {
+   "t": "US-Demokratin nach Midterms: Trump ist jetzt ein schwacher Mann",
+   "s": "US-Demokratin Nicole Gross wertet den Sieg ihrer Partei bei den Midterms als Zeichen: Die Wähler wollten, dass sich etwas ändert. Trump müsse nun mit ihrer Partei zusammenarbeiten. Wie steht die Demokratin zu einem Amtsenthebungsverfahren?Zerback, Sarah",
+   "u": "https://www.deutschlandfunk.de/nach-midterm-wahlen-in-usa-interview-nicole-gross-democrats-aroad-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-05T07:12:00+00:00"
+  },
+  {
+   "t": "Tot im Hotel gefunden: Freie-Wähler-Chef Aiwanger ist tot",
+   "s": "Der bayerische Politiker Hubert Aiwanger ist tot in seinem Hotelzimmer in Berlin-Mitte gefunden worden. Ein Todesermittlungsverfahren ist eingeleitet.",
+   "u": "https://taz.de/Freie-Waehler-Chef-Aiwanger-tot-im-Hotelzimmer-gefunden---Mordkommission-ermittelt/!6227523/",
+   "q": "taz",
+   "d": "2026-11-05T07:08:00+00:00"
+  },
+  {
+   "t": "Fraktionsausschluss vor Gericht: Rauswurf als Präzedenzfall",
+   "s": "Der Abgeordnete Jan Wenzel Schmidt wurde von der AfD-Fraktion im Bundestag ausgeschlossen. Jetzt prüft das Bundesverfassungsgericht den Fall.",
+   "u": "https://taz.de/Fraktionsausschluss-vor-Gericht/!6227288/",
+   "q": "taz",
+   "d": "2026-11-05T06:56:00+00:00"
+  },
+  {
+   "t": "Arbeitskämpfe in Bangladesch: Textilarbeiter fordern existenzsichernden Mindestlohn",
+   "s": "Seit dem Wochenende demonstrieren Tex­til­ar­bei­te­r:in­nen in Bangladesch für höhere Löhne. Die Regierung hat Mühe, die Lage zu beruhigen.",
+   "u": "https://taz.de/Arbeitskaempfe-in-Bangladesch/!6227377/",
+   "q": "taz",
+   "d": "2026-11-05T06:16:00+00:00"
+  },
+  {
+   "t": "Diskussion um Vanessa Emde: Neukölln nimmt es gelassen",
+   "s": "Der Streit um die Linken-Abgeordnete beschäftigt die Menschen in Neukölln kaum. Viele wollen einen Politikwechsel, zeigt ein Gang durch den Berliner Wahlkreis.",
+   "u": "https://taz.de/Diskussion-um-Vanessa-Emde/!6227104/",
+   "q": "taz",
+   "d": "2026-11-05T06:11:00+00:00"
+  },
+  {
+   "t": "LFI-Politikerin über Frankreichs Protest: „Bravo, Gen Z!“",
+   "s": "Am 5. November ist in Frankreich zum Generalstreik aufgerufen. Die Regierung antworte auf soziale Not mit Gewalt, kritisiert LFI-Politikerin Clémence Guetté.",
+   "u": "https://taz.de/LFI-Politikerin-ueber-Frankreichs-Protest/!6227263/",
+   "q": "taz",
+   "d": "2026-11-05T06:05:00+00:00"
+  },
+  {
+   "t": "Bundestag debattiert über Pflegereform",
+   "s": "Der Bundestag debattiert heute über eine erste Pflegereform. Die große Strukturreform soll dann im neuen Jahr folgen. Was kommt damit auf Angehörige zu? Von Birthe Sönnichsen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/pflege-reform-bundestag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T05:52:28+00:00"
+  },
+  {
+   "t": "Suche nach mehrheitsfähiger Kandidatin: Merz und die Bundespräsidentinnen-Frage",
+   "s": "Eine Frau soll es werden - so weit hat sich Kanzler Merz in der Bundespräsidenten-Frage festgelegt. Einige Namen kursieren, doch welche Kandidatin hätte genug Rückhalt? Von Tina Handel.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-wahl-kandidatinnen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T03:21:38+00:00"
+  },
   {
    "t": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
    "s": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hotel.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-04T21:15:29+00:00"
+   "d": "2026-11-04T23:35:58+00:00"
   },
   {
-   "t": "Gen-Z-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
+   "t": "\"Gen-Z\"-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
    "s": "Die Krawalle vom Wochenende haben den Bundestag erreicht. In einer Aktuellen Stunde herrschte weitgehend Einigkeit in der Verurteilung der Gewalt - über ihre Ursachen und die angemessene Wortwahl gingen die Meinungen auseinander. Von F. Aischmann.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html",
    "q": "Tagesschau",
@@ -18,7 +158,7 @@
   },
   {
    "t": "Die neuen Demokraten-Stars: Links, populistisch, authentisch",
-   "s": "Sie sind die Enkel der Obama-Generation: Stars wie Jon Ossoff oder Alexandra Ocasio-Cortez könnten die nächsten Präsidentschaftskandidaten der Demokraten werden.",
+   "s": "Sie sind die Kinder der Obama-Generation: Stars wie Jon Ossoff oder Alexandria Ocasio-Cortez könnten die nächsten Präsidentschaftskandidaten der Demokraten werden.",
    "u": "https://taz.de/Die-neuen-Demokraten-Stars/!6227323/",
    "q": "taz",
    "d": "2026-11-04T18:53:00+00:00"
@@ -29,146 +169,6 @@
    "u": "https://taz.de/US-Midterms-Ein-Perfekter-Sieg-auf-fast-allen-Ebenen/!6227325/",
    "q": "taz",
    "d": "2026-11-04T18:53:00+00:00"
-  },
-  {
-   "t": "Midtermwahlen in den USA: Mehr Macht, aber viele Risiken",
-   "s": "Was bedeutet der Wahlerfolg innenpolitisch für die Demokraten? Und welche Vorhaben kann Trump auch ohne sie umsetzen?",
-   "u": "https://taz.de/Nach-den-Midterms-Was-kann-Trump-auch-ohne-die-Demokraten-umsetzen/!6227326/",
-   "q": "taz",
-   "d": "2026-11-04T18:52:00+00:00"
-  },
-  {
-   "t": "Linke fordert Rücktrit von Vanessa Emde: „Jetzt reicht’s!“",
-   "s": "Die Linke-Bundestagsabgeordnete Katalin Gennburg will, dass Vanessa Emde ihr Mandat zurückgibt. Es brauche Klarheit gegen Terrorverherrlichung.",
-   "u": "https://taz.de/Linke-fordert-Ruecktrit-von-Vanessa-Emde/!6227454/",
-   "q": "taz",
-   "d": "2026-11-04T18:52:00+00:00"
-  },
-  {
-   "t": "Neuwahlen in Spanien: Totgesagte leben länger",
-   "s": "Nach dem Zugunglück in Spanien tritt Verkehrsminister Oscar Puente zurück. Für Regierungschef Sánchez ist das eine Flucht nach vorn.",
-   "u": "https://taz.de/Neuwahlen-in-Spanien/!6227269/",
-   "q": "taz",
-   "d": "2026-11-04T18:51:00+00:00"
-  },
-  {
-   "t": "Neuer Generalstreik in Frankreich: Klassenkampf und Kufija",
-   "s": "Frankreichs Jugend protestiert weiter gegen schlechte Schulen und das teure Leben. Über die Palästinasolidarität findet Jean-Luc Mélenchons Linke Anschluss an die Jugendbewegung.",
-   "u": "https://taz.de/Neuer-Generalstreik-in-Frankreich/!6227249/",
-   "q": "taz",
-   "d": "2026-11-04T18:50:00+00:00"
-  },
-  {
-   "t": "Friedensnobelpreisträger Ales Bialiatski: Warum wir das Völkerrecht brauchen",
-   "s": "Menschenrechte erscheinen als ein veraltetes Konzept. Dabei hat sich die Welt nichts Besseres einfallen lassen, sagt Friedensnobelpreisträger Ales Bialiatski.",
-   "u": "https://taz.de/Friedensnobelpreistraeger-Ales-Bialiatski/!6227185/",
-   "q": "taz",
-   "d": "2026-11-04T18:49:00+00:00"
-  },
-  {
-   "t": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
-   "s": "Deutsche Politiker haben die Niederlage der Republikaner bei den US-Midterms begrüßt, dämpfen aber die Erwartung an eine andere Außenpolitik von Präsident Trump. Eine SPD-Politikerin warnt vor einer \"wütenden Ente\" im Weißen Haus.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T18:00:44+00:00"
-  },
-  {
-   "t": "Midterm-Wahlen in den USA: Debakel für die Republikaner – aber Trump noch nicht am Ende",
-   "s": "Bei den Zwischenwahlen erleben Trump und die Republikaner eine historische Niederlage. Trotz ihres Triumphs stellt das auch die Demokraten vor neue Herausforderungen.",
-   "u": "https://taz.de/Midterm-Wahlen-in-den-USA/!6227287/",
-   "q": "taz",
-   "d": "2026-11-04T17:25:00+00:00"
-  },
-  {
-   "t": "15 Jahre nach NSU-Enttarnung – Noch immer ungeklärte Fragen",
-   "s": "Am 4. November 2011 enttarnte sich der NSU selbst. Die rechtsextreme Terrororganisation ist unter anderem für zehn Morde verantwortlich. Den Angehörigen der Opfer wurde Aufklärung versprochen. Doch bis heute sind wichtige Fragen unbeantwortet.",
-   "u": "https://www.deutschlandfunk.de/nsu-aufklaerung-rechtsextremismus-offene-fragen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-04T16:41:00+00:00"
-  },
-  {
-   "t": "MAGA-Niederlage – „Rückschlag für die Rechtspopulisten in Europa“",
-   "s": "„Make America Great Again“: Mit diesem Slogan gewann Donald Trump Wahlen. Doch die Lage in den USA löst dieses Versprechen nicht ein, sagt Politikwissenschaftler Herfried Münkler. Trumps Niederlage könnte auch in Europa Hoffnung machen, meint er.Reinhardt, Anja",
-   "u": "https://www.deutschlandfunk.de/die-kunst-zu-verlieren-herfried-muenkler-ueber-trump-und-den-sieg-der-demokraten-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-04T16:41:00+00:00"
-  },
-  {
-   "t": "Commonwealth-Gipfel in Antigua: Das mit der Sklaverei tut uns schon irgendwie leid",
-   "s": "Großbritannien lehnt Forderungen der Karibikstaaten nach Reparationen für den Sklavenhandel ab. Das Thema dominiert den Commonwealth-Gipfel in Antigua.",
-   "u": "https://taz.de/Commonwealth-Gipfel-in-Antigua/!6227266/",
-   "q": "taz",
-   "d": "2026-11-04T16:34:00+00:00"
-  },
-  {
-   "t": "Konflikt um höchstes Gericht in Polen: Das Verfassungsgericht geht wieder an die Arbeit",
-   "s": "Die polnische Mitte-links-Regierung unter Ministerpräsident Donald Tusk versucht alles, um den demokratischen Rechtsstaat wiederherzustellen.",
-   "u": "https://taz.de/Konflikt-um-hoechstes-Gericht-in-Polen/!6227265/",
-   "q": "taz",
-   "d": "2026-11-04T16:33:00+00:00"
-  },
-  {
-   "t": "Politische Krise in der Slowakei: Robert Fico hat keine Mehrheit",
-   "s": "Der slowakische Ministerpräsident verliert wegen eines Streits um den ehemaligen Umweltminister Tomáš Taraba seine Mehrheit im Parlament.",
-   "u": "https://taz.de/Krise-in-der-Slowakei-Ministerpraesident-Robert-Fico-hat-keine-Mehrheit-mehr/!6227376/",
-   "q": "taz",
-   "d": "2026-11-04T16:30:00+00:00"
-  },
-  {
-   "t": "Ausschluss aus AGOA-Abkommen: Donald Trump ärgert Südafrika und Ruanda",
-   "s": "US-Präsident schließt zwei wichtige Länder aus dem Afrika-Freihandelsprogramm AGOA aus. Sie beeinträchtigen die „nationale Sicherheit“, behauptet er.",
-   "u": "https://taz.de/Ausschluss-aus-AGOA-Abkommen/!6227230/",
-   "q": "taz",
-   "d": "2026-11-04T16:30:00+00:00"
-  },
-  {
-   "t": "Bund fördert Schwimmenlernen mit 20 Millionen Euro",
-   "s": "Mehr als die Hälfte aller Grundschulkinder in Deutschland kann nicht sicher schwimmen. Mit einem Förderprogramm von 20 Millionen Euro will der Bund das ändern. Schwimmverbände und Hilfsorganisationen sollen dabei helfen.",
-   "u": "https://www.tagesschau.de/inland/foerderprogramm-bund-schwimmen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T16:29:29+00:00"
-  },
-  {
-   "t": "Nicht-weiße Gouverneurinnen: Endlich Farbe bekannt",
-   "s": "In Georgia, Texas und New Mexico gewinnen Frauen bei den Gouverneurswahlen, die nicht weiß sind. Eine geradezu historische Zeitenwende.",
-   "u": "https://taz.de/Nicht-weisse-Gouverneurinnen/!6227332/",
-   "q": "taz",
-   "d": "2026-11-04T16:20:00+00:00"
-  },
-  {
-   "t": "Midtermwahlen in den USA: Ein bisschen mehr Regenbogen",
-   "s": "Bei den Wahlen haben queere Kan­di­da­t:in­nen gut abgeschnitten. Aber Rechte von trans Menschen wurden nur bedingt gestärkt.",
-   "u": "https://taz.de/Midtermwahlen-in-den-USA/!6227314/",
-   "q": "taz",
-   "d": "2026-11-04T16:19:00+00:00"
-  },
-  {
-   "t": "Die US-Außenpolitik nach den Midterms: Trump hat noch zwei Jahre Zeit, sich ein Denkmal zu setzen",
-   "s": "Trumps Außenpolitik sorgt in Europa für Irritationen und Verzweiflung. Kommt nach der Wahlniederlage im Kongress die Wende? Experten sind skeptisch.",
-   "u": "https://taz.de/Die-US-Aussenpolitik-nach-den-Midterms/!6227329/",
-   "q": "taz",
-   "d": "2026-11-04T16:19:00+00:00"
-  },
-  {
-   "t": "Demokraten siegen bei Midterms: Eine Chance für die Ukraine?",
-   "s": "Die Republikaner von US-Präsident Trump müssen bei den Midterms eine Wahlklatsche hinnehmen. Was bedeuten die neuen Kräfteverhältnisse im Kongress für die Ukraine-Politik und die EU?",
-   "u": "https://www.deutschlandfunk.de/midterms-usa-demokraten-sieg-kongress-trump-ukraine-krieg-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-04T16:16:00+00:00"
-  },
-  {
-   "t": "Verfassungsänderung in NRW: Die AfD im Blick",
-   "s": "Eine breite Mehrheit im NRW-Landtag will die Verfassung ändern – und Parlament und Verfassungsgericht vor Missbrauch durch Ex­tre­mis­ten schützen.",
-   "u": "https://taz.de/Verfassungsaenderung-in-NRW/!6226960/",
-   "q": "taz",
-   "d": "2026-11-04T15:48:00+00:00"
-  },
-  {
-   "t": "Cyberangriff auf Supermärkte – Gehackte Kühlschränke kühlen nicht",
-   "s": "Von minus 20 Grad auf plus 50 Grad: In einigen europäischen Ländern wurden die Kühlanlagen von Supermärkten gehackt. Die Schwachstelle könnten leicht generierbare Passwörter gewesen sein. Welche Rolle spielt KI bei solchen Angriffen in Zukunft?Brose, Maximilian",
-   "u": "https://www.deutschlandfunk.de/gehackte-kuehlanlagen-wie-es-dazu-kommen-konnte-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-04T15:41:57+00:00"
   }
  ]
 }

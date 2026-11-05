@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-04T21:20:21+00:00",
+ "updated": "2026-11-05T10:57:33+00:00",
  "items": [
+  {
+   "t": "LFI-Politikerin über Frankreichs Protest: „Bravo, Gen Z!“",
+   "s": "Am 5. November ist in Frankreich zum Generalstreik aufgerufen. Die Regierung antworte auf soziale Not mit Gewalt, kritisiert LFI-Politikerin Clémence Guetté.",
+   "u": "https://taz.de/LFI-Politikerin-ueber-Frankreichs-Protest/!6227263/",
+   "q": "taz",
+   "d": "2026-11-05T06:05:00+00:00"
+  },
   {
    "t": "Neuwahlen in Spanien: Totgesagte leben länger",
    "s": "Nach dem Zugunglück in Spanien tritt Verkehrsminister Oscar Puente zurück. Für Regierungschef Sánchez ist das eine Flucht nach vorn.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Praesidentschaftswahl-in-Bulgarien/!6226593/",
    "q": "taz",
    "d": "2026-11-02T07:01:00+00:00"
-  },
-  {
-   "t": "Ukrainekrieg: Optimismus ist fehl am Platz",
-   "s": "Wer die Evakuierung aus Oleschky für ein Zeichen hält, dass Putin nun zu ernsthaften Friedensverhandlungen bereit wäre, ist komplett weltfremd.",
-   "u": "https://taz.de/Ukrainekrieg/!6226440/",
-   "q": "taz",
-   "d": "2026-11-01T19:19:00+00:00"
   }
  ]
 }

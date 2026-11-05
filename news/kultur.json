@@ -1,10 +1,17 @@
 {
  "name": "Kultur",
- "updated": "2026-11-04T21:20:22+00:00",
+ "updated": "2026-11-05T10:57:35+00:00",
  "items": [
   {
+   "t": "Argentinien und das EU-Mercosur-Abkommen: Wie viel ist Europa der Umweltschutz wert?",
+   "s": "Brüssel ist in einem rhetorischen Labyrinth gefangen: Während die EU sich mit grünen Reden schmückt, drückt sie bei „Kettensäge“ Javier Milei ein Auge zu.",
+   "u": "https://taz.de/Argentinien-und-das-EU-Mercosur-Abkommen/!6224036/",
+   "q": "taz",
+   "d": "2026-11-05T09:17:00+00:00"
+  },
+  {
    "t": "Die neuen Demokraten-Stars: Links, populistisch, authentisch",
-   "s": "Sie sind die Enkel der Obama-Generation: Stars wie Jon Ossoff oder Alexandra Ocasio-Cortez könnten die nächsten Präsidentschaftskandidaten der Demokraten werden.",
+   "s": "Sie sind die Kinder der Obama-Generation: Stars wie Jon Ossoff oder Alexandria Ocasio-Cortez könnten die nächsten Präsidentschaftskandidaten der Demokraten werden.",
    "u": "https://taz.de/Die-neuen-Demokraten-Stars/!6227323/",
    "q": "taz",
    "d": "2026-11-04T18:53:00+00:00"
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Schwarze-in-Brasiliens-Industrie/!6224021/",
    "q": "taz",
    "d": "2026-11-02T06:11:00+00:00"
-  },
-  {
-   "t": "Politikwissenschaftler über Midterms: „Der Wahlkampf fühlt sich wie eine Zeitreise an“",
-   "s": "Das Feindbild der Republikaner bei den Midterms ist der Kommunismus. Politikwissenschaftler Jan-Werner Müller bezweifelt, dass die Strategie aufgeht.",
-   "u": "https://taz.de/Politikwissenschaftler-ueber-Midterms/!6223225/",
-   "q": "taz",
-   "d": "2026-11-02T06:07:00+00:00"
   }
  ]
 }

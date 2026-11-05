@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-11-04T21:20:18+00:00",
+ "updated": "2026-11-05T10:57:31+00:00",
  "items": [
+  {
+   "t": "Rettungsmission gescheitert - NASA-Satellit stürzt auf Erde",
+   "s": "Der Satellit Swift hatte jahrelang gewaltige Energieausbrüche im Universum untersucht, sogenannte Gammablitze. Die Mission war so wichtig, dass die NASA eine Rettungsmission startete, als es Probleme gab - vergeblich.",
+   "u": "https://www.tagesschau.de/wissen/technologie/nasa-satellit-swift-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T08:15:29+00:00"
+  },
   {
    "t": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
    "s": "Sport und Bewegung gehören für viele Kinder und Jugendliche nicht mehr zum Alltag. Nur 14 Prozent bewegen sich laut WHO täglich für eine Stunde mäßig bis intensiv. Auch in Deutschland gibt es viele Bewegungsmuffel.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html",
    "q": "Tagesschau",
    "d": "2026-10-17T08:15:08+00:00"
-  },
-  {
-   "t": "Schaltsekunde abgeschafft - kommt dafür die Schaltstunde?",
-   "s": "Ein internationales Gremium hat festgelegt: Künftig wird es keine Schaltsekunden mehr geben. 27 Mal wurde sie genutzt, um unsere Uhren mit der astronomischen Zeit in Einklang zu halten. Ein neues System käme erst im Jahr 3000 zum Einsatz.",
-   "u": "https://www.tagesschau.de/wissen/forschung/schaltsekunde-abschaffung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-16T14:50:10+00:00"
   }
  ]
 }

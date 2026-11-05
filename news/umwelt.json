@@ -1,7 +1,63 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-04T21:20:20+00:00",
+ "updated": "2026-11-05T10:57:32+00:00",
  "items": [
+  {
+   "t": "Studentenprotest an der Uni Kassel: Studieren bei der Rüstungsfirma",
+   "s": "An der Uni Kassel ist nun Forschung für militärische Zwecke möglich. Protestierende Studierende besetzten bis zur Räumung einen Hörsaal.",
+   "u": "https://taz.de/Studentenprotest-an-der-Uni-Kassel/!6227508/",
+   "q": "taz",
+   "d": "2026-11-05T10:07:00+00:00"
+  },
+  {
+   "t": "Schock in Bayern: Hubert Aiwanger ist tot",
+   "s": "Bayerns stellvertretender Ministerpräsident und Freie-Wähler-Chef Hubert Aiwanger ist unerwartet gestorben. Er wurde nur 55 Jahre alt.",
+   "u": "https://taz.de/Hubert-Aiwanger-ist-tot---er-hinterlaesst-auch-politisch-viele-Luecken/!6227524/",
+   "q": "taz",
+   "d": "2026-11-05T08:34:00+00:00"
+  },
+  {
+   "t": "Machtmissbrauch in Krankenhäusern: Ein Klima der Angst und des Schweigens",
+   "s": "Die Zahlen zu Machtmissbrauch und sexueller Belästigung in Krankenhäusern sind erschreckend. Ein runder Tisch soll für Veränderung sorgen.",
+   "u": "https://taz.de/Machtmissbrauch-in-Krankenhaeusern/!6227320/",
+   "q": "taz",
+   "d": "2026-11-05T08:24:00+00:00"
+  },
+  {
+   "t": "Selbstenttarnung des NSU vor 15 Jahren: Noch immer bleiben Fragen",
+   "s": "Andächtig erinnern Menschen im Dom von Zwickau an die Opfer des NSU. In der Stadt beging das Kerntrio keine Morde, sondern fühlte sich zu Hause.",
+   "u": "https://taz.de/Selbstenttarnung-des-NSU-vor-15-Jahren/!6227286/",
+   "q": "taz",
+   "d": "2026-11-05T07:42:00+00:00"
+  },
+  {
+   "t": "Erste Lesung: Bundestag debattiert über Pflegereform",
+   "s": "Es ist der erste Aufschlag: An diesem Donnerstag debattiert der Bundestag über die Pflegereform. Die große Strukturreform soll dann im neuen Jahr folgen.",
+   "u": "https://taz.de/Erste-Lesung/!6227525/",
+   "q": "taz",
+   "d": "2026-11-05T07:25:00+00:00"
+  },
+  {
+   "t": "Tot im Hotel gefunden: Freie-Wähler-Chef Aiwanger ist tot",
+   "s": "Der bayerische Politiker Hubert Aiwanger ist tot in seinem Hotelzimmer in Berlin-Mitte gefunden worden. Ein Todesermittlungsverfahren ist eingeleitet.",
+   "u": "https://taz.de/Freie-Waehler-Chef-Aiwanger-tot-im-Hotelzimmer-gefunden---Mordkommission-ermittelt/!6227523/",
+   "q": "taz",
+   "d": "2026-11-05T07:08:00+00:00"
+  },
+  {
+   "t": "Fraktionsausschluss vor Gericht: Rauswurf als Präzedenzfall",
+   "s": "Der Abgeordnete Jan Wenzel Schmidt wurde von der AfD-Fraktion im Bundestag ausgeschlossen. Jetzt prüft das Bundesverfassungsgericht den Fall.",
+   "u": "https://taz.de/Fraktionsausschluss-vor-Gericht/!6227288/",
+   "q": "taz",
+   "d": "2026-11-05T06:56:00+00:00"
+  },
+  {
+   "t": "Diskussion um Vanessa Emde: Neukölln nimmt es gelassen",
+   "s": "Der Streit um die Linken-Abgeordnete beschäftigt die Menschen in Neukölln kaum. Viele wollen einen Politikwechsel, zeigt ein Gang durch den Berliner Wahlkreis.",
+   "u": "https://taz.de/Diskussion-um-Vanessa-Emde/!6227104/",
+   "q": "taz",
+   "d": "2026-11-05T06:11:00+00:00"
+  },
   {
    "t": "Linke fordert Rücktrit von Vanessa Emde: „Jetzt reicht’s!“",
    "s": "Die Linke-Bundestagsabgeordnete Katalin Gennburg will, dass Vanessa Emde ihr Mandat zurückgibt. Es brauche Klarheit gegen Terrorverherrlichung.",
@@ -113,62 +169,6 @@
    "u": "https://taz.de/Merz-empfaengt-Selenskyj/!6226981/",
    "q": "taz",
    "d": "2026-11-03T16:10:00+00:00"
-  },
-  {
-   "t": "Expertin über Antiziganismus: „Die Opfer wurden verleumdet, die Täter blieben ungestraft“",
-   "s": "Eine Kommission soll das Unrecht an Sin­ti*z­ze und Rom*­nja nach 1945 aufarbeiten. Dieses wirke bis heute fort, sagt die Erziehungswissenschaftlerin Jane Weiß.",
-   "u": "https://taz.de/Expertin-ueber-Antiziganismus/!6226851/",
-   "q": "taz",
-   "d": "2026-11-03T11:26:00+00:00"
-  },
-  {
-   "t": "Forsa-Umfrage zu Jugendprotesten: 83 Prozent haben Verständnis für die Proteste",
-   "s": "Die bundesweiten Demonstrationen junger Menschen stoßen in der Bevölkerung auf großes Verständnis. Zugleich sorgt Dobrindts Aussage über ein „migrantisches Milieu“ für Kritik.",
-   "u": "https://taz.de/Forsa-Umfrage-zu-Jugendprotesten/!6226894/",
-   "q": "taz",
-   "d": "2026-11-03T08:34:00+00:00"
-  },
-  {
-   "t": "Bildung gegen Hass: Jüdische Akademie eröffnet",
-   "s": "In Frankfurt eröffnet die Jüdische Akademie. Die Bildungseinrichtung soll gegen Antisemitismus wirken. Bei der Eröffnungsrede geht es auch um die Berliner Linke.",
-   "u": "https://taz.de/Bildung-gegen-Hass/!6226766/",
-   "q": "taz",
-   "d": "2026-11-03T06:19:00+00:00"
-  },
-  {
-   "t": "Ausschreitungen nach Gen-Z-Protesten: Und wieder als fremd markiert",
-   "s": "Unionspolitiker machen das „migrantische Millieu“ für Ausschreitungen in Frankfurt verantwortlich. Kein Wunder, dass sich die ständige Ausgrenzung in Wut verwandelt.",
-   "u": "https://taz.de/Ausschreitungen-nach-Gen-Z-Protesten/!6226793/",
-   "q": "taz",
-   "d": "2026-11-02T19:08:00+00:00"
-  },
-  {
-   "t": "Verschärfung des Sexualstrafrechts: Es geht nicht um verunglückte Komplimente",
-   "s": "Der Gesetzentwurf gegen verbale sexuelle Belästigung geht vielen nicht weit genug. Doch lieber später nachschärfen als über das Ziel hinausschießen.",
-   "u": "https://taz.de/Verschaerfung-des-Sexualstrafrechts/!6221010/",
-   "q": "taz",
-   "d": "2026-11-02T19:05:00+00:00"
-  },
-  {
-   "t": "Antifaschisten verhindern Terror: Mordlüsterne Neonazis gestoppt",
-   "s": "Die Recherche-Gruppe Exif verhindert einen Brandanschlag in Winsen. Sie hat die Pläne aus einer Terror-Chatgruppe ernster genommen als die Polizei.",
-   "u": "https://taz.de/Nur-die-Antifa-verhindert-Terror/!6226695/",
-   "q": "taz",
-   "d": "2026-11-02T16:55:00+00:00"
-  },
-  {
-   "t": "CDU-Spitze trifft Basis: Die große Unzufriedenheit",
-   "s": "An der CDU-Basis brodelt es. Jetzt hat die Parteiführung die Kreisvorsitzenden nach Berlin eingeladen. Ihre Kritik richtet sich vor allem an den Chef.",
-   "u": "https://taz.de/CDU-Spitze-trifft-Basis/!6226697/",
-   "q": "taz",
-   "d": "2026-11-02T16:48:00+00:00"
-  },
-  {
-   "t": "Grüngasquote für fossile Heizungen: Teures Täuschungsmanöver",
-   "s": "Die Bundesregierung hat eine Grüngasquote für Heizbrennstoffe eingeführt. Stattdessen sollte sie eine Abwrackprämie für fossile Heizungen anbieten.",
-   "u": "https://taz.de/Gruengasquote-fuer-fossile-Heizungen/!6226743/",
-   "q": "taz",
-   "d": "2026-11-02T16:38:00+00:00"
   }
  ]
 }

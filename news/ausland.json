@@ -1,13 +1,76 @@
 {
  "name": "Ausland",
- "updated": "2026-11-04T21:20:16+00:00",
+ "updated": "2026-11-05T10:57:28+00:00",
  "items": [
+  {
+   "t": "Hongkongs Demokratie-Aktivist Wong zu weiteren zehn Jahren Haft verurteilt",
+   "s": "Einst führte Joshua Wong in Hongkong Proteste für mehr Demokratie an. Nun wurde der ehemalige Studentenführer zu weiteren zehn Jahren Haft verurteilt. Grundlage ist das von China auferlegte \"Sicherheitsgesetz\". Von C. Kober.",
+   "u": "https://www.tagesschau.de/ausland/hong-kong-wong-urteil-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T10:35:32+00:00"
+  },
+  {
+   "t": "Midterms in den USA: \"MAGA-Bewegung wird nicht über Nacht verschwinden\"",
+   "s": "Die Demokraten haben die Midterms zwar gewonnen - doch ein rasches Ende des Trumpismus sei unrealistisch, sagt der Politologe Müller in den tagesthemen. Die US-Regierung werde ihren Kurs fortsetzen - und versuchen, MAGA in Europa zu fördern.",
+   "u": "https://www.tagesschau.de/politikwissenschaftler-mueller-midterms-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T09:48:09+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX springt auf Rekordhoch",
+   "s": "Die Euphorie an den Börsen nach den US-Zwischenwahlen hält an: Der DAX klettert im frühen Handel auf ein neues Rekordhoch. Der sinkende Ölpreis und erfreuliche Industriedaten treiben den Markt zusätzlich an.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T09:20:01+00:00"
+  },
+  {
+   "t": "Midterms: Was die Demokraten aus Texas lernen können",
+   "s": "Zum ersten Mal seit 1988 schickt Texas mit James Talarico wieder einen Demokraten in den US-Senat. Auch das Gouverneursamt und andere Spitzenpositionen gehen an die Demokraten. Wie ist ihnen das in diesem Bundesstaat gelungen? Von Sandra Ratzow.",
+   "u": "https://www.tagesschau.de/ausland/amerika/midterms-texas-demokraten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T09:12:33+00:00"
+  },
+  {
+   "t": "USA und Israel nach den Wahlen: Beziehungsstatus kompliziert",
+   "s": "Sowohl die USA als auch Israel haben wichtige Wahlen hinter sich. Die Ergebnisse werden die Beziehungen beider Staaten nachhaltig bestimmen - und könnten für Premier Netanjahu zum Problem werden. Von Jan-Christoph Kitzler.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-usa-wahlen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T07:28:49+00:00"
+  },
+  {
+   "t": "US-Demokraten: Der gemäßigte Kurs verspricht weitere Erfolge",
+   "s": "Nach den Midterms sieht sich der linke Parteiflügel der Demokraten gestärkt, doch Top-Demokraten im Kongress setzen auf einen gemäßigten Kurs. Auch Experten sagen: Das hilft in einem \"Mitte-Rechts-Land\". Von C. Kühntopp.",
+   "u": "https://www.tagesschau.de/ausland/amerika/midterms-demokraten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T05:57:08+00:00"
+  },
   {
    "t": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
    "s": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Außenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung.",
    "u": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-04T21:19:50+00:00"
+   "d": "2026-11-05T05:16:43+00:00"
+  },
+  {
+   "t": "Strafen gegen Vucic-Propagandasendungen bei Informer und Prva in Serbien",
+   "s": "Nach dem Wahlsieg der Studentischen Liste sind erste Veränderungen schon spürbar. Eine serbische Medienaufsichtsbehörde hat Zwangspausen gegen Vucic-Propagandasendungen verhängt. Von Oliver Soos.",
+   "u": "https://www.tagesschau.de/ausland/europa/serbien-medienaufsicht-strafe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T04:05:08+00:00"
+  },
+  {
+   "t": "Frankreich: Nach den Protesten sollen jetzt Streiks folgen",
+   "s": "Die wichtigsten Gewerkschaften in Frankreich haben für heute zu Streiks und landesweiten Protesten aufgerufen. Auch die Proteste der Schüler und Studierenden schließen sich an. Kann das funktionieren? Von C. Dylla.",
+   "u": "https://www.tagesschau.de/ausland/europa/proteste-streiks-frankreich-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T01:52:28+00:00"
+  },
+  {
+   "t": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
+   "s": "Die Wahlschlappe von Trumps Republikanern lässt viele in der Ukraine auf einen Kurswechsel der USA hoffen. Doch ob es tatsächlich so schnell zu Veränderungen kommt, daran zweifelt man. Von F. Kellermann.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T00:10:07+00:00"
   },
   {
    "t": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
@@ -22,27 +85,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
    "q": "Tagesschau",
    "d": "2026-11-04T18:10:21+00:00"
-  },
-  {
-   "t": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
-   "s": "Deutsche Politiker haben die Niederlage der Republikaner bei den US-Midterms begrüßt, dämpfen aber die Erwartung an eine andere Außenpolitik von Präsident Trump. Eine SPD-Politikerin warnt vor einer \"wütenden Ente\" im Weißen Haus.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T18:00:44+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX-Anleger in Kauflaune",
-   "s": "Der DAX steigt zeitweise auf den höchsten Stand seit zwei Monaten. Neben positiven Unternehmenszahlen sorgt auch die Hoffnung auf mehr politische Berechenbarkeit in den USA für Rückenwind.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T17:31:22+00:00"
-  },
-  {
-   "t": "Kommentar zu den Midterms: Hoffentlich vermasseln sie es nicht",
-   "s": "Das Rezept der Republikaner, ganz auf US-Präsident Trump und viel Geld zu setzen, ist nicht aufgegangen. Den Demokraten gelang es, Zuversicht zu vermitteln, meint Samuel Jackisch. Diese Chance müssen sie jetzt aber auch nutzen.",
-   "u": "https://www.tagesschau.de/kommentar/usa-midterms-120.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T16:50:16+00:00"
   },
   {
    "t": "Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben",
@@ -94,13 +136,6 @@
    "d": "2026-11-04T09:24:29+00:00"
   },
   {
-   "t": "Trump zu Midterms: \"Herzlichen Glückwunsch an die Demokraten!\"",
-   "s": "Entgegen mancher Befürchtungen hat US-Präsident Trump den Midterm-Sieg der Demokraten anerkannt. Diese hätten \"gute Arbeit geleistet\", nun werde man eben kooperieren. An ihm habe die Pleite aber nicht gelegen - im Gegenteil.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-midterms-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T08:28:00+00:00"
-  },
-  {
    "t": "Analyse: Warum es sogar ein Erdrutschsieg der Demokraten wurde",
    "s": "Die Demokraten gewinnen vor allem bei jungen Wählern, Schwarzen und Latinos hinzu. Einige Ergebnisse sind für die Republikaner regelrecht demütigend. Das hat viel mit US-Präsident Trump zu tun. Von Jörg Schönenborn.",
    "u": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-analyse-100.html",
@@ -108,25 +143,11 @@
    "d": "2026-11-04T08:16:26+00:00"
   },
   {
-   "t": "Politikexperte: \"Es ist eine Wahl gegen Donald Trump\"",
-   "s": "Mehrheiten in beiden Kammern - der Sieg der Demokraten bei den Midterms ist deutlich. Politikexperte Michael Werz sagt, US-Präsident Trump habe seine Gegner zusammengeschweißt. Der Blick richte sich nun auf die nächste Präsidentenwahl 2028.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T06:35:46+00:00"
-  },
-  {
    "t": "US-Zwischenwahl: Demokraten erobern Mehrheit im Senat",
    "s": "Bei den Midterms haben sich die Demokraten eine knappe Mehrheit im Senat gesichert. Sie konnten mehrere Bundesstaaten erobern, die lange in der Hand der Republikaner waren.",
    "u": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html",
    "q": "Tagesschau",
    "d": "2026-11-04T06:10:55+00:00"
-  },
-  {
-   "t": "US-Zwischenwahlen: Demokraten steuern auf Wahlerfolg zu",
-   "s": "Nach Schließung vieler Wahllokale zeichnet sich ein Erfolg für die Demokraten ab. Laut US-Medien ist klar, dass sie vier Senatssitze von den Republikanern erobern. Auch im Rennen um die Mehrheit im Repräsentantenhaus machen sie wichtige Punkte.",
-   "u": "https://www.tagesschau.de/ausland/amerika/midterms-usa-wahl-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T04:32:37+00:00"
   },
   {
    "t": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/us-midterms-europa-100.html",
    "q": "Tagesschau",
    "d": "2026-11-03T18:39:26+00:00"
-  },
-  {
-   "t": "Selenskyj, Merz und der Kampf gegen die Zweifel",
-   "s": "Auch vor dem fünften Winter seit Russlands Überfall ist ein Ende des Krieges in der Ukraine nicht in Sicht. Kanzler Merz betont, dass er fest an der Seite des Landes steht. Doch nicht nur er merkt, dass immer mehr Überzeugungsarbeit nötig ist. Von Gabor Halasz.",
-   "u": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-ukrainehilfe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T18:27:43+00:00"
-  },
-  {
-   "t": "Spanien beschließt nach Zugunglück neue Sicherheitsmaßnahmen im Bahnverkehr",
-   "s": "69 Menschen starben vor knapp einer Woche bei der Kollision zweier Hochgeschwindigkeitszüge - es war bereits das zweite schwere Zugunglück in Spanien in diesem Jahr. Nun sollen neue Maßnahmen die Sicherheit verbessern.",
-   "u": "https://www.tagesschau.de/ausland/spanien-sicherheitsmassnahmen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T17:32:23+00:00"
-  },
-  {
-   "t": "Merz verspricht mehr Hilfe für die Ukraine und appelliert an Europäer",
-   "s": "Russische Angriffe auf die Energie-Infrastruktur, Raketeneinschläge in den Städten: Der Ukraine droht ein harter Kriegswinter. Kanzler Merz sagt Unterstützung zu - fordert aber auch mehr Engagement der europäischen Partner.",
-   "u": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T16:08:15+00:00"
   }
  ]
 }
