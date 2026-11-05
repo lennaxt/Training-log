@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-05T10:57:33+00:00",
+ "updated": "2026-11-05T21:28:21+00:00",
  "items": [
+  {
+   "t": "Sozialproteste in Frankreich: Wohin trägt die gemeinsame Wut?",
+   "s": "Erneut protestieren Hunderttausende in Frankreich. Doch der Zusammenschluss der verschiedenen Anliegen klappt noch nicht überall.",
+   "u": "https://taz.de/Sozialproteste-in-Frankreich/!6227721/",
+   "q": "taz",
+   "d": "2026-11-05T18:57:00+00:00"
+  },
+  {
+   "t": "Sozialproteste in Frankreich: Mit Fanfaren und Trompeten",
+   "s": "Mehrere Hunderttausend Menschen sind in Frankreich auf die Straße gegangen. Dass die Behörden die Demos erlaubt haben, gibt der Bewegung neuen Auftrieb.",
+   "u": "https://taz.de/Sozialproteste-in-Frankreich/!6228041/",
+   "q": "taz",
+   "d": "2026-11-05T18:56:00+00:00"
+  },
+  {
+   "t": "Diem25 in Existenznöten: Bank zieht bei Varoufakis den Stecker",
+   "s": "Ein Geldinstitut in Belgien sperrt das Konto der Partei des ehemaligen griechischen Finanzministers. Diem25 droht eine existenzielle Krise.",
+   "u": "https://taz.de/Diem25-in-Existenznoeten/!6227520/",
+   "q": "taz",
+   "d": "2026-11-05T16:43:00+00:00"
+  },
+  {
+   "t": "Verhandlung in London: Russell Brand wegen Vergewaltigung schuldig gesprochen",
+   "s": "Der britische Schauspieler Russell Brand musste sich wegen Vorwürfen sexueller Gewalt verantworten. Er wurde in mehreren Punkten für schuldig befunden.",
+   "u": "https://taz.de/Verhandlung-in-London/!6228081/",
+   "q": "taz",
+   "d": "2026-11-05T16:16:00+00:00"
+  },
+  {
+   "t": "Flughäfen europaweit: Bombendrohungen gegen Passagierflugzeuge",
+   "s": "Erneut gibt es mehrere Bombendrohungen gegen Flugzeuge in Europa. Die Hintergründe sind bisher nicht bekannt.",
+   "u": "https://taz.de/Flughaefen-europaweit/!6227971/",
+   "q": "taz",
+   "d": "2026-11-05T14:16:00+00:00"
+  },
   {
    "t": "LFI-Politikerin über Frankreichs Protest: „Bravo, Gen Z!“",
    "s": "Am 5. November ist in Frankreich zum Generalstreik aufgerufen. Die Regierung antworte auf soziale Not mit Gewalt, kritisiert LFI-Politikerin Clémence Guetté.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6226891/",
    "q": "taz",
    "d": "2026-11-03T08:27:00+00:00"
-  },
-  {
-   "t": "Staatskrise in Polen: Kampf um Deutungshoheit",
-   "s": "In Polen eskaliert der Streit um das Verfassungsgericht und weitet sich zur Staatskrise aus. Von der Eskalation profitieren die Populisten.",
-   "u": "https://taz.de/Staatskrise-in-Polen/!6226669/",
-   "q": "taz",
-   "d": "2026-11-02T16:49:00+00:00"
-  },
-  {
-   "t": "Präsidentschaftswahl in Bulgarien: Wohin steuert Jotowa?",
-   "s": "Wahlgewinnerin Ilijana Jotowa gilt als russlandfreundlich, Hilfen für die Ukraine lehnt sie ab. Wird das für die EU zum Problem?",
-   "u": "https://taz.de/Praesidentschaftswahl-in-Bulgarien/!6226698/",
-   "q": "taz",
-   "d": "2026-11-02T16:47:00+00:00"
-  },
-  {
-   "t": "Regierungskrise in Belgien: Premierminister De Wever bietet Rücktritt an",
-   "s": "Zehntausende gingen gegen die Sparpläne seiner Koalition auf die Straße. Im Streit um den Haushalt wirft Belgiens Premier jetzt das Handtuch.",
-   "u": "https://taz.de/Regierungskrise-in-Belgien/!6226833/",
-   "q": "taz",
-   "d": "2026-11-02T15:42:00+00:00"
-  },
-  {
-   "t": "Warn-Apps in Ukraine und Russland: Achtung, Achtung, hier hackt Ihr Desinformant",
-   "s": "In der Nacht wurden die Apps für Notfall-Warnungen in Ukraine und Russland möglicherweise gehackt. Die Ukraine vermeldet derweil militärische Erfolge.",
-   "u": "https://taz.de/Warn-Apps-in-Ukraine-und-Russland/!6226598/",
-   "q": "taz",
-   "d": "2026-11-02T08:02:00+00:00"
-  },
-  {
-   "t": "Präsidentschaftswahl in Bulgarien: Jotowa laut Prognosen vorn",
-   "s": "Bei ‌der Stichwahl um ‌das Präsidentenamt liegt das amtierende Staatsoberhaupt Ilijana Jotowa ersten Prognosen zufolge vorn.",
-   "u": "https://taz.de/Praesidentschaftswahl-in-Bulgarien/!6226593/",
-   "q": "taz",
-   "d": "2026-11-02T07:01:00+00:00"
   }
  ]
 }

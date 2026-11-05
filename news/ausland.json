@@ -1,27 +1,76 @@
 {
  "name": "Ausland",
- "updated": "2026-11-05T10:57:28+00:00",
+ "updated": "2026-11-05T21:28:18+00:00",
  "items": [
   {
-   "t": "Hongkongs Demokratie-Aktivist Wong zu weiteren zehn Jahren Haft verurteilt",
-   "s": "Einst führte Joshua Wong in Hongkong Proteste für mehr Demokratie an. Nun wurde der ehemalige Studentenführer zu weiteren zehn Jahren Haft verurteilt. Grundlage ist das von China auferlegte \"Sicherheitsgesetz\". Von C. Kober.",
-   "u": "https://www.tagesschau.de/ausland/hong-kong-wong-urteil-100.html",
+   "t": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
+   "s": "Der Ruf nach höheren Löhnen, Steuergerechtigkeit und mehr Geld für Bildung hat in Frankreich erneut Hunderttausende auf die Straßen getrieben. Der Aktionstag verlief weitgehend friedlich, es kam mancherorts dennoch zu Ausschreitungen.",
+   "u": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-05T10:35:32+00:00"
+   "d": "2026-11-05T21:18:10+00:00"
   },
   {
-   "t": "Midterms in den USA: \"MAGA-Bewegung wird nicht über Nacht verschwinden\"",
-   "s": "Die Demokraten haben die Midterms zwar gewonnen - doch ein rasches Ende des Trumpismus sei unrealistisch, sagt der Politologe Müller in den tagesthemen. Die US-Regierung werde ihren Kurs fortsetzen - und versuchen, MAGA in Europa zu fördern.",
-   "u": "https://www.tagesschau.de/politikwissenschaftler-mueller-midterms-100.html",
+   "t": "Paraguays Präsident tritt nach Bankenpleite zurück",
+   "s": "Inmitten einer schweren Bankenkrise seines Landes hat Paraguays Präsident Peña seinen Rücktritt eingereicht. Ihm wurden geschäftliche Beziehungen zur Muttergesellschaft der Pleitebank vorgeworfen. Von A. Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-05T09:48:09+00:00"
+   "d": "2026-11-05T18:26:37+00:00"
   },
   {
-   "t": "Marktbericht: DAX springt auf Rekordhoch",
-   "s": "Die Euphorie an den Börsen nach den US-Zwischenwahlen hält an: Der DAX klettert im frühen Handel auf ein neues Rekordhoch. Der sinkende Ölpreis und erfreuliche Industriedaten treiben den Markt zusätzlich an.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
+   "t": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
+   "s": "Die Vorwürfe gegen den österreichischen Immobilieninvestor René Benko sind umfangreich: Nach einer Verurteilung wegen Gläubigerschädigung im September folgt nun eine weitere wegen Betrugs. Sie ist noch nicht rechtskräftig.",
+   "u": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-05T09:20:01+00:00"
+   "d": "2026-11-05T17:56:47+00:00"
+  },
+  {
+   "t": "Ukraine: Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
+   "s": "Ukrainische Antikorruptionsbehörden haben neue Ermittlungsergebnisse veröffentlicht, die schockieren: Der Korruptionsskandal zieht offenbar noch weitere Kreise als bisher bekannt - und betrifft auch Geheimdienst und Polizei. Von F. Kellermann.",
+   "u": "https://www.tagesschau.de/ausland/ukraine-korruption-116.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T17:03:34+00:00"
+  },
+  {
+   "t": "Trump kritisiert die Midterms-Auszählung im Bundesstaat Alaska",
+   "s": "Noch läuft die Auszählung der Senatoren-Wahl in Alaska. Es zeichnet sich ein knappes Rennen ab. Nun mischt sich US-Präsident Trump ein: Er fordert, die Stimmen für Dan J. Sullivan dem Republikaner Dan S. Sullivan zuzuschlagen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/us-midterms-trump-alaska-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T16:58:22+00:00"
+  },
+  {
+   "t": "Britischer Komiker Brand der Vergewaltigung schuldig gesprochen",
+   "s": "Russell Brand - der britische Komiker und Schauspieler - blickt einer Gefängnisstrafe entgegen. Der 51-Jährige ist in einem Prozess um sexuelle Gewalt in mehreren Punkten für schuldig befunden worden.",
+   "u": "https://www.tagesschau.de/ausland/europa/russell-brand-verurteilung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T15:42:30+00:00"
+  },
+  {
+   "t": "Großangelegter TV-Streich sorgt in Dänemark für Skandal",
+   "s": "Ist es in Ordnung, wenn 150 Menschen über Monate einen Freund und Kollegen belügen, um am Ende aufzulösen, dass alles nur ein Spaß fürs Fernsehen war? In Dänemark wird heftig über ein TV-Format diskutiert. Von Arne Bartram.",
+   "u": "https://www.tagesschau.de/ausland/daenemark-tv-skandal-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T14:32:28+00:00"
+  },
+  {
+   "t": "Mehrere Bombendrohungen gegen Passagierflüge in Europa",
+   "s": "Wieder gibt es Bombendrohungen gegen Flugzeuge im europäischen Luftraum. Unter anderem eine irische Maschine musste außerplanmäßig auf einem französischen Luftwaffenstützpunkt landen. Die Hintergründe sind bisher nicht bekannt.",
+   "u": "https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T14:20:37+00:00"
+  },
+  {
+   "t": "Litwinenko-Witwe: \"Der Westen hat einen großen Fehler gemacht\"",
+   "s": "Vor 20 Jahren wurde der russische Ex-Agent Litwinenko in London vergiftet. Seine Witwe treibt heute vor allem eins um: Hat der Westen mit seiner zaghaften Reaktion damals Putins heutige Aggression ermutigt? Von Mareike Aden.",
+   "u": "https://www.tagesschau.de/ausland/europa/20-jahre-mord-litwinenko-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T13:42:57+00:00"
+  },
+  {
+   "t": "Straße von Hormus: Zwei Öltanker offenbar in Brand geraten",
+   "s": "Teheran blockiert die Straße von Hormus seit Beginn des Iran-Krieges weitgehend. Doch immer wieder riskieren Öltanker die Passage durch die Meerenge. Nun sind laut Iran zwei Schiffe in Brand geraten.",
+   "u": "https://www.tagesschau.de/ausland/asien/iran-hormus-oeltanker-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T11:47:58+00:00"
   },
   {
    "t": "Midterms: Was die Demokraten aus Texas lernen können",
@@ -43,13 +92,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/midterms-demokraten-100.html",
    "q": "Tagesschau",
    "d": "2026-11-05T05:57:08+00:00"
-  },
-  {
-   "t": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
-   "s": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Außenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung.",
-   "u": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T05:16:43+00:00"
   },
   {
    "t": "Strafen gegen Vucic-Propagandasendungen bei Informer und Prva in Serbien",
@@ -78,13 +120,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
    "q": "Tagesschau",
    "d": "2026-11-04T21:15:24+00:00"
-  },
-  {
-   "t": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
-   "s": "In den USA läuft die Auszählung nach den Zwischenwahlen. Wer liegt im Senat und im Repräsentantenhaus vorn? Wer entschied welche Rennen um diese Sitze und um die Gouverneursposten für sich? Ergebnisse in Zahlen und Karten.",
-   "u": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T18:10:21+00:00"
   },
   {
    "t": "Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/midterms-analyse-100.html",
    "q": "Tagesschau",
    "d": "2026-11-04T09:24:29+00:00"
-  },
-  {
-   "t": "Analyse: Warum es sogar ein Erdrutschsieg der Demokraten wurde",
-   "s": "Die Demokraten gewinnen vor allem bei jungen Wählern, Schwarzen und Latinos hinzu. Einige Ergebnisse sind für die Republikaner regelrecht demütigend. Das hat viel mit US-Präsident Trump zu tun. Von Jörg Schönenborn.",
-   "u": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-analyse-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T08:16:26+00:00"
-  },
-  {
-   "t": "US-Zwischenwahl: Demokraten erobern Mehrheit im Senat",
-   "s": "Bei den Midterms haben sich die Demokraten eine knappe Mehrheit im Senat gesichert. Sie konnten mehrere Bundesstaaten erobern, die lange in der Hand der Republikaner waren.",
-   "u": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T06:10:55+00:00"
-  },
-  {
-   "t": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
-   "s": "Zwei schwere Zugunglücke haben Spanien in diesem Jahr erschüttert. Nun zieht Verkehrsminister Puente die politischen Konsequenzen. Außerdem beschloss die Regierung neue Maßnahmen, um die Sicherheit zu verbessern.",
-   "u": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T20:58:56+00:00"
-  },
-  {
-   "t": "Die US-Midterms - die nächste wichtige Wahl für Israel",
-   "s": "Ein Sieg der Demokraten bei den US-Zwischenwahlen könnte enorme Folgen für die Sicherheitspolitik Israels haben. Doch auch aus einem anderen Grund schauen die Menschen im Nahen Osten auf die Tage nach den Midterms. Von Tim Aßmann.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-usa-midterms-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T18:40:26+00:00"
-  },
-  {
-   "t": "Was eine Niederlage Trumps bei den Midterms für die EU bedeuten würde",
-   "s": "Was Trump entscheidet, hat Auswirkungen auf Europa und seine Bürger. Würde eine Niederlage bei den Midterms die USA berechenbarer für die Europäische Union machen - oder vielleicht gar das Gegenteil bewirken? Von Jean-Marie Magro.",
-   "u": "https://www.tagesschau.de/ausland/europa/us-midterms-europa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T18:39:26+00:00"
   }
  ]
 }

@@ -1,20 +1,48 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-05T10:57:30+00:00",
+ "updated": "2026-11-05T21:28:19+00:00",
  "items": [
+  {
+   "t": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
+   "s": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T19:11:03+00:00"
+  },
+  {
+   "t": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich",
+   "s": "Günstiger parken und keine E-Kennzeichen-Pflicht mehr: Der Bundestag hat das reformierte Elektromobilitätsgesetz verabschiedet. Bisher nutzen allerdings nur wenige Kommunen den Spielraum des Gesetzes aus. Von Michael Eiden.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T17:27:08+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX springt auf Rekordhoch",
+   "s": "Die Märkte bleiben im Aufwind: Nach den US-Zwischenwahlen erreicht der DAX im frühen Handel einen neuen Höchststand. Rückenwind erhält er von günstigeren Ölpreisen und positiven Signalen aus der Industrie.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T17:16:27+00:00"
+  },
+  {
+   "t": "Bund und Eigentümerfamilien einigen sich auf Kaufpreis bei KNDS",
+   "s": "Die Bundesregierung übernimmt alle Anteile der Eigentümerfamilien am Panzerbauer KNDS. Damit sichert sich der Bund den Einfluss auf Schlüsseltechnologien - und gibt offenbar weniger Geld aus als geplant.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T14:11:59+00:00"
+  },
+  {
+   "t": "Wie sich der Wahlsieg der Demokraten auf Big Tech auswirkt",
+   "s": "Die Demokraten haben bei den Midterms in den USA Mehrheiten in beiden Kammern des Kongresses gewonnen. Für die Tech-Industrie könnte das in einigen Bereichen höhere Hürden bedeuten. Von Antje Sieb.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/midterms-bigtech-reaktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T14:04:42+00:00"
+  },
   {
    "t": "Bankenpleite stürzt Paraguay in eine Krise",
    "s": "Nach dem Kollaps einer Digitalbank fürchten Millionen Paraguayer um ihre Ersparnisse. Konten sind eingefroren, Renten blockiert - im Land wächst der Unmut gegen Präsident Peña.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bankenkrise-paraguay-100.html",
    "q": "Tagesschau",
    "d": "2026-11-05T10:18:28+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX springt auf Rekordhoch",
-   "s": "Die Euphorie an den Börsen nach den US-Zwischenwahlen hält an: Der DAX klettert im frühen Handel auf ein neues Rekordhoch. Der sinkende Ölpreis und erfreuliche Industriedaten treiben den Markt zusätzlich an.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T09:20:01+00:00"
   },
   {
    "t": "Update Wirtschaft vom 05.11.2026",
@@ -141,34 +169,6 @@
    "u": "https://www.deutschlandfunk.de/energiewende-global-erneuerbare-energien-elektromobilitaet-dekarbonisierung-klimawandel-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-27T08:42:00+00:00"
-  },
-  {
-   "t": "Biodiversitätsabkommen: Balanceakt zwischen Artenschutz und Wirtschaft",
-   "s": "Artenvielfalt stabilisiert Ökosysteme und sichert damit auch wirtschaftliche Grundlagen. Dennoch gerät die Einhaltung der Biodiversitätsziele in Vergessenheit, wenn es um wirtschaftliche Interessen geht.",
-   "u": "https://www.deutschlandfunk.de/cop17-biodiversitaet-artenvielfalt-wirtschaft-100-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-22T15:46:00+00:00"
-  },
-  {
-   "t": "Chemie ohne Erdöl: Wie die Kohlenstoffwende gelingen soll",
-   "s": "Die Chemieindustrie gehört zu den größten Verursachern von Treibhausgasen. Deshalb will sie nun statt Erdöl Biomasse, Recycling und abgeschiedenes CO2 als Rohstoffquellen benutzen. Das erfordert neue Technologien und Milliardeninvestitionen.",
-   "u": "https://www.deutschlandfunk.de/chemie-ohne-erdoel-kohlenstoff-recycling-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T16:25:00+00:00"
-  },
-  {
-   "t": "Kommentar zum Investitionsgipfel: Wenn die Fachkräfte fehlen",
-   "s": "Bundeskanzler Merz möchte mit einem Investitionsgipfel mehr Kapital nach Deutschland locken. Grundsätzlich ist Deutschland attraktiv für Investoren. Es ist kreditwürdig und rechtssicher. Beim Thema Fachkräfte sieht es allerdings zunehmend düster aus.Ein Kommentar von Falk Steiner",
-   "u": "https://www.deutschlandfunk.de/investitionen-gipfel-merz-kommentar-102.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-21T08:10:00+00:00"
-  },
-  {
-   "t": "Deutsche Autozulieferer auf dem Balkan: \"Armutslöhne\" für serbische Arbeiter",
-   "s": "Viele deutsche Autohersteller und -zulieferer produzieren in Serbien. Das schafft Arbeitsplätze in dem Land. Doch zunehmend klagen Beschäftigte in den Fabriken über enormen Druck durch Vorgesetzte und geringe Löhne.",
-   "u": "https://www.deutschlandfunk.de/autohersteller-autozulieferer-deutschland-serbien-niedrigloehne-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-18T07:32:00+00:00"
   }
  ]
 }
