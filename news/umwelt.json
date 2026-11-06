@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-05T21:28:21+00:00",
+ "updated": "2026-11-06T10:54:27+00:00",
  "items": [
+  {
+   "t": "Warnungen auf der Schulleiterkonferenz: „Omas gegen Rechts“ an Schulen unerwünscht",
+   "s": "Erst gibt es ein Gespräch mit dem Schulamt, dann sperren Schulen in Bad Hersfeld die „Omas gegen Rechts“ aus den Klassenzimmern aus.",
+   "u": "https://taz.de/Warnungen-auf-der-Schulleiterkonferenz/!6227984/",
+   "q": "taz",
+   "d": "2026-11-06T06:13:00+00:00"
+  },
   {
    "t": "Führerschein soll billiger werden: Nicht aus Nettigkeit zur Jugend",
    "s": "Die Führerscheinreform soll den Lappen bis zu 1.000 Euro billiger machen. Wer braucht sowas, wenn man sich Wohnung und den Wocheneinkauf kaum leisten kann?",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Vorwuerfe-gegen-Oezdemir-Berater/!6227190/",
    "q": "taz",
    "d": "2026-11-04T10:25:00+00:00"
-  },
-  {
-   "t": "Milliardengrab Bundeswehr: Mit dem USB-Stick an der Front",
-   "s": "Projekt D-LBO ist das Codewort für ein Milliardengrab der Bundeswehr. Und dann sind Sol­da­t*in­nen mit Geräten aus dem Technikmuseum unterwegs. Na dann gute Nacht!",
-   "u": "https://taz.de/Digitalisierung-des-Heeres/!6226945/",
-   "q": "taz",
-   "d": "2026-11-04T06:23:00+00:00"
   }
  ]
 }

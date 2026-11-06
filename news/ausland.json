@@ -1,7 +1,56 @@
 {
  "name": "Ausland",
- "updated": "2026-11-05T21:28:18+00:00",
+ "updated": "2026-11-06T10:54:16+00:00",
  "items": [
+  {
+   "t": "Paraguay: Die Bankenkrise wird zur Staatskrise",
+   "s": "In Paraguay zieht die Krise um die Ueno Bank immer weitere Kreise: Weil Präsident Peña die Risiken zu lange ignorierte, leitete das Parlament ein Amtsenthebungsverfahren ein. Auch die Staatsanwaltschaft ermittelt. Von Anne Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T09:29:54+00:00"
+  },
+  {
+   "t": "Israels Präsident nach Regierungskonsultationen mit ernüchterndem Fazit",
+   "s": "Am Sonntag entscheidet Israels Staatspräsident Herzog, wem er den Regierungsauftrag gibt. Die Konsultationen verliefen bisher allerdings wenig konstruktiv. Von Julio Segador.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-konsultationen-auftrag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T08:25:15+00:00"
+  },
+  {
+   "t": "Los Angeles bekommt linke Bürgermeisterin",
+   "s": "Die künftige Bürgermeisterin von Los Angeles heißt Nithya Raman. Sie gehört dem linken Flügel der Demokraten an - genau wie New Yorks Bürgermeister. Dezidiert linke Politik scheint Wähler in den Großstädten nicht mehr zu verprellen. Von G. Biesinger.",
+   "u": "https://www.tagesschau.de/ausland/amerika/los-angeles-buergermeisterin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T07:32:23+00:00"
+  },
+  {
+   "t": "Richtungsstreit bei US-Republikanern: Was kommt nach der Trump-Ära?",
+   "s": "Nach der Niederlage bei den Zwischenwahlen streiten die US-Republikaner über den künftigen Kurs der Partei. Fehleranalyse, Vorwürfe und eigene Bewerbungsreden sind dabei schwer auseinanderzuhalten. Von Samuel Jackisch.",
+   "u": "https://www.tagesschau.de/ausland/amerika/amerika-midterms-republikaner-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T07:31:41+00:00"
+  },
+  {
+   "t": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
+   "s": "Sowohl Vertreter Russlands als auch der Ukraine waren jetzt zu Gast im Weißen Haus. Doch den US-Präsidenten persönlich durfte nur der Kreml-Gesandte treffen. Anschließend kündigte Trump einen möglichen Deal an, nannte aber keine Details.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T06:00:41+00:00"
+  },
+  {
+   "t": "Kongress lehnt Peñas Rücktritt ab - Staatsanwalt ermittelt",
+   "s": "Paraguay wird von einem Finanzskandal erschüttert, in den auch Präsident Peña verwickelt ist. Der Staatschef will zurücktreten, doch der Kongress nimmt das Rücktrittsgesuch nicht an - und leitet ein Amtsenthebungsverfahren ein.",
+   "u": "https://www.tagesschau.de/ausland/paraguay-ruecktritt-abgelehnt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T04:28:23+00:00"
+  },
+  {
+   "t": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
+   "s": "In Kalifornien wird die Todesstrafe seit 20 Jahren nicht mehr vollstreckt. 548 Menschen sitzen dort aktuell im Todestrakt. Jetzt kündigte der scheidende Gouverneur Newsom an, ihre Strafen in lebenslange Haftstrafen umzuwandeln.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T23:44:38+00:00"
+  },
   {
    "t": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
    "s": "Der Ruf nach höheren Löhnen, Steuergerechtigkeit und mehr Geld für Bildung hat in Frankreich erneut Hunderttausende auf die Straßen getrieben. Der Aktionstag verlief weitgehend friedlich, es kam mancherorts dennoch zu Ausschreitungen.",
@@ -15,13 +64,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
    "q": "Tagesschau",
    "d": "2026-11-05T18:26:37+00:00"
-  },
-  {
-   "t": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
-   "s": "Die Vorwürfe gegen den österreichischen Immobilieninvestor René Benko sind umfangreich: Nach einer Verurteilung wegen Gläubigerschädigung im September folgt nun eine weitere wegen Betrugs. Sie ist noch nicht rechtskräftig.",
-   "u": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T17:56:47+00:00"
   },
   {
    "t": "Ukraine: Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/demokraten-optionen-100.html",
    "q": "Tagesschau",
    "d": "2026-11-04T16:49:39+00:00"
-  },
-  {
-   "t": "Reaktionen auf US-Wahlergebnis: Verhaltene Freude, vorsichtige Hoffnung",
-   "s": "Der spektakuläre Triumph der US-Demokraten bei den Zwischenwahlen hat weltweit Reaktionen ausgelöst: Russland setzt weiter auf Präsident Trump, China hält sich bedeckt, in der EU und Südafrika macht sich Hoffnung breit.",
-   "u": "https://www.tagesschau.de/ausland/amerika/midterms-usa-internationale-reaktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T15:42:29+00:00"
-  },
-  {
-   "t": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
-   "s": "Viele Länder möchten EU-Mitglied werden - für Montenegro läuft es am besten. Die EU hält einen Beitritt des kleinen Balkan-Landes schon 2028 für möglich. Für andere Staaten gebe es hingegen gerade eher keine Perspektive.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T14:11:39+00:00"
-  },
-  {
-   "t": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
-   "s": "Ein Teilerfolg für die Demokraten war erwartet worden. Doch die Zwischenwahlen in den USA kommen einem Desaster für Präsident Trump gleich. Was war dafür ausschlaggebend und wie geht es jetzt weiter? Fragen und Antworten von E. Aretz und C. Schwanitz.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T13:44:41+00:00"
-  },
-  {
-   "t": "Midterms: Eine historische Wahl mit vielen Premieren",
-   "s": "Die erste schwarze Gouverneurin, eine indigene Senatorin und demokratische Siege in republikanischen Hochburgen wie Kansas oder Texas: Den Demokraten gelang bei den Midterms vielerorts Historisches - eine Auswahl.",
-   "u": "https://www.tagesschau.de/ausland/amerika/midterms-historische-siege-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T11:23:58+00:00"
-  },
-  {
-   "t": "Israels Präsident Herzog startet Konsultationen zur Regierungsbildung",
-   "s": "In Israel starten heute die entscheidenden Konsultationen über die Bildung einer neuen Regierung. Nach der Parlamentswahl steckt das Land in einer Blockade. Staatspräsident Herzog ruft zu historischen Kompromissen auf. Von Julio Segador.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T09:43:26+00:00"
-  },
-  {
-   "t": "Midterms-Analyse: Sechs Erkenntnisse nach der \"blauen Welle\"",
-   "s": "Das Midterms-Ergebnis ist deutlich, die Gründe auch: ein unbeliebter Präsident und hohe Preise. Aber was heißt das alles für den Rest der Präsidentschaft - und die Zeit danach? Von Martin Ganslmeier.",
-   "u": "https://www.tagesschau.de/ausland/amerika/midterms-analyse-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T09:24:29+00:00"
   }
  ]
 }

@@ -1,7 +1,56 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-05T21:28:19+00:00",
+ "updated": "2026-11-06T10:54:25+00:00",
  "items": [
+  {
+   "t": "Industrieproduktion wächst überraschend - Autobranche legt zu",
+   "s": "Deutsche Industriebetriebe haben im September überraschend mehr produziert als im Vormonat. Vor allem die Autobranche sorgte für das Plus. Doch die Risikofaktoren für die wirtschaftliche Erholung bleiben.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T10:42:54+00:00"
+  },
+  {
+   "t": "Paraguay: Die Bankenkrise wird zur Staatskrise",
+   "s": "In Paraguay zieht die Krise um die Ueno Bank immer weitere Kreise: Weil Präsident Peña die Risiken zu lange ignorierte, leitete das Parlament ein Amtsenthebungsverfahren ein. Auch die Staatsanwaltschaft ermittelt. Von Anne Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T09:29:54+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX fällt im Sog der Nasdaq",
+   "s": "Der DAX kann sich dem Abwärtssog der Wall Street nicht entziehen. Der deutsche Leitindex stürzt zurück unter die Marke von 26.000 Punkten. Wie könnte es am Markt jetzt weitergehen?",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T09:29:32+00:00"
+  },
+  {
+   "t": "Chipaktien an den internationalen Börsen im freien Fall",
+   "s": "Ein weltweiter Abverkauf von Chip- und Techaktien schickt wichtige Aktienindizes auf Talfahrt. In Seoul wurde der Handel zeitweise ausgesetzt. In den USA war es der schlimmste Einbruch seit 2020. Von Constantin Röse.",
+   "u": "https://www.tagesschau.de/wirtschaft/boerse/tech-einbruch-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T09:21:42+00:00"
+  },
+  {
+   "t": "Daimler Truck meldet deutlichen Gewinnsprung wegen USA-Geschäft",
+   "s": "Der Nutzfahrzeughersteller Daimler Truck hat wieder auf die Erfolgsspur zurückgefunden. Dank eines anspringenden US-Geschäfts verbucht das Unternehmen einen Milliardengewinn und kann sich etwas erholen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T09:13:00+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 06.11.2026",
+   "s": "Update Wirtschaft vom 06.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1679068.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T08:52:22+00:00"
+  },
+  {
+   "t": "Ressourcenverbrauch vieler Rechenzentren nicht öffentlich einsehbar",
+   "s": "Rechenzentren verbrauchen enorme Mengen Strom und Wasser. Betreiber sind gesetzlich verpflichtet, ihren Verbrauch zu veröffentlichen. Doch Anfragen des SWR an mehr als 30 Unternehmen zeigen: Viele nehmen es mit der Transparenz nicht so ernst.",
+   "u": "https://www.tagesschau.de/investigativ/swr/rechenzentren-transparenz-wasserverbrauch-stromverbrauch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T05:04:19+00:00"
+  },
   {
    "t": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
    "s": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff",
@@ -10,18 +59,18 @@
    "d": "2026-11-05T19:11:03+00:00"
   },
   {
+   "t": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
+   "s": "Die Vorwürfe gegen den österreichischen Immobilieninvestor René Benko sind umfangreich: Nach einer Verurteilung wegen Gläubigerschädigung im September folgt nun eine weitere wegen Betrugs. Sie ist noch nicht rechtskräftig.",
+   "u": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-05T17:56:47+00:00"
+  },
+  {
    "t": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich",
    "s": "Günstiger parken und keine E-Kennzeichen-Pflicht mehr: Der Bundestag hat das reformierte Elektromobilitätsgesetz verabschiedet. Bisher nutzen allerdings nur wenige Kommunen den Spielraum des Gesetzes aus. Von Michael Eiden.",
    "u": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
    "q": "Tagesschau",
    "d": "2026-11-05T17:27:08+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX springt auf Rekordhoch",
-   "s": "Die Märkte bleiben im Aufwind: Nach den US-Zwischenwahlen erreicht der DAX im frühen Handel einen neuen Höchststand. Rückenwind erhält er von günstigeren Ölpreisen und positiven Signalen aus der Industrie.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T17:16:27+00:00"
   },
   {
    "t": "Bund und Eigentümerfamilien einigen sich auf Kaufpreis bei KNDS",
@@ -36,20 +85,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/digitales/midterms-bigtech-reaktionen-100.html",
    "q": "Tagesschau",
    "d": "2026-11-05T14:04:42+00:00"
-  },
-  {
-   "t": "Bankenpleite stürzt Paraguay in eine Krise",
-   "s": "Nach dem Kollaps einer Digitalbank fürchten Millionen Paraguayer um ihre Ersparnisse. Konten sind eingefroren, Renten blockiert - im Land wächst der Unmut gegen Präsident Peña.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bankenkrise-paraguay-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T10:18:28+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 05.11.2026",
-   "s": "Update Wirtschaft vom 05.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1678462.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T09:08:58+00:00"
   },
   {
    "t": "Wirtschaft vor acht vom 04.11.2026",
@@ -108,48 +143,6 @@
    "d": "2026-11-03T15:31:00+00:00"
   },
   {
-   "t": "Evonik wehrt sich gegen Chemieriese BASF",
-   "s": "Es wäre die größte Fusion in der deutschen Chemiebranche: Wenn BASF und Evonik zusammengingen, entstünde ein Konzern mit einem Jahresumsatz von rund 74 Milliarden Euro. Doch noch sträubt sich Evonik. Von Michael Heussen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/evonik-basf-fusion-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T14:59:40+00:00"
-  },
-  {
-   "t": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
-   "s": "Statt fünf waren es plötzlich 50 Grad: In der Nacht haben Hacker in mehreren Supermärkten in Deutschland die Kühlanlagen umgestellt. Große Mengen an Lebensmitteln mussten entsorgt werden. Ähnliche Cyberangriffe gab es auch im Ausland.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T13:49:27+00:00"
-  },
-  {
-   "t": "EU genehmigt MediaMarktSaturn-Übernahme durch JD.com",
-   "s": "Der chinesische Tech-Riese JD.com darf Europas größten Elektronikfachhändler MediaMarktSaturn übernehmen. Das hat die EU-Kommission entschieden. Doch aus Brüssel kommen Auflagen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-mediamarkt-saturn-jd-genehmigung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T13:25:20+00:00"
-  },
-  {
-   "t": "Bundesnetzagentur fördert den Bau elf neuer Gaskraftwerke",
-   "s": "Die Bundesnetzagentur vergibt erstmals eine Förderung für neue Gas-Reservekraftwerke. In Brandenburg, NRW und Sachsen sind die meisten Projekte geplant. Mehrere Unternehmen profitieren.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/bundesnetzagentur-gaskraftwerke-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T10:28:56+00:00"
-  },
-  {
-   "t": "Was Polens Wirtschaft boomen lässt",
-   "s": "Jahrzehntelang galt Polen als der arme Nachbar im Osten. Ein längst veraltetes Klischee: Die polnische Wirtschaft wächst stark - was viele Menschen aus Deutschland anlockt. Von Christiane Cichy.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/polen-boom-wirtschaftswunder-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T07:23:57+00:00"
-  },
-  {
-   "t": "Cyberangriffe haben Supermärkte in Europa offenbar lahmgelegt",
-   "s": "Cyberkriminelle haben offenbar wieder Supermärkte angegriffen. Sie sorgten besonders in Belgien und Schweden dafür, dass Kühlschränke und Tiefkühltruhen wärmer wurden. Es ist nicht das erste Mal.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-supermaerkte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-02T16:10:17+00:00"
-  },
-  {
    "t": "Bruttoökosystemprodukt: Was die Natur wert ist",
    "s": "Wirtschaftswachstum gilt als Zeichen von Wohlstand. Leistungen der Natur bleiben dabei außen vor. Das Bruttoökosystemprodukt soll den Wert von Ökosystemen messbar machen. In China entscheiden sich daran bereits Bauprojekte und Politikerkarrieren.Von Tomma Schröder",
    "u": "https://www.deutschlandfunk.de/bruttooekosystemprodukt-boep-gep-natur-wert-wohlstand-wirtschaft-china-100.html",
@@ -169,6 +162,13 @@
    "u": "https://www.deutschlandfunk.de/energiewende-global-erneuerbare-energien-elektromobilitaet-dekarbonisierung-klimawandel-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-10-27T08:42:00+00:00"
+  },
+  {
+   "t": "Biodiversitätsabkommen: Balanceakt zwischen Artenschutz und Wirtschaft",
+   "s": "Artenvielfalt stabilisiert Ökosysteme und sichert damit auch wirtschaftliche Grundlagen. Dennoch gerät die Einhaltung der Biodiversitätsziele in Vergessenheit, wenn es um wirtschaftliche Interessen geht.",
+   "u": "https://www.deutschlandfunk.de/cop17-biodiversitaet-artenvielfalt-wirtschaft-100-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-22T15:46:00+00:00"
   }
  ]
 }

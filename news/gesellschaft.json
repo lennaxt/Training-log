@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-05T21:28:21+00:00",
+ "updated": "2026-11-06T10:54:28+00:00",
  "items": [
+  {
+   "t": "Gehaltsangaben in Stellenanzeigen: Bri­t:in­nen sollen wissen, was beim Job rausspringen würde",
+   "s": "Wie hoch das Gehalt für eine Stelle ist, soll in Großbritannien bald schon vor jeder Bewerbung klar sein: Ein entsprechendes Gesetz wurde angekündigt.",
+   "u": "https://taz.de/Gehaltsangaben-in-Stellenanzeigen/!6228142/",
+   "q": "taz",
+   "d": "2026-11-06T09:25:00+00:00"
+  },
   {
    "t": "Sozialproteste in Frankreich: Wohin trägt die gemeinsame Wut?",
    "s": "Erneut protestieren Hunderttausende in Frankreich. Doch der Zusammenschluss der verschiedenen Anliegen klappt noch nicht überall.",
@@ -18,7 +25,7 @@
   },
   {
    "t": "Diem25 in Existenznöten: Bank zieht bei Varoufakis den Stecker",
-   "s": "Ein Geldinstitut in Belgien sperrt das Konto der Partei des ehemaligen griechischen Finanzministers. Diem25 droht eine existenzielle Krise.",
+   "s": "Ein Geldinstitut in Belgien sperrt das Konto der linken Bewegung des ehemaligen griechischen Finanzministers. Diem25 droht eine existenzielle Krise.",
    "u": "https://taz.de/Diem25-in-Existenznoeten/!6227520/",
    "q": "taz",
    "d": "2026-11-05T16:43:00+00:00"
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Protestcamp-in-Spanien-geraeumt/!6226972/",
    "q": "taz",
    "d": "2026-11-03T12:11:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Merz sichert der Ukraine zusätzliche Winterhilfe zu",
-   "s": "Der bevorstehende Winter wird für die Ukraine schwer. Die Bundesregierung sagt mehr Hilfe zu. Die USA wollen in wenigen Tagen Gespräche in Abu Dhabi ansetzen.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6226891/",
-   "q": "taz",
-   "d": "2026-11-03T08:27:00+00:00"
   }
  ]
 }

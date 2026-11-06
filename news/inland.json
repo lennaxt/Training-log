@@ -1,7 +1,77 @@
 {
  "name": "Inland",
- "updated": "2026-11-05T21:28:18+00:00",
+ "updated": "2026-11-06T10:54:16+00:00",
  "items": [
+  {
+   "t": "Tagebuch aus der Ukraine: Ein Krieg, in dem Cafés geöffnet und Medikamente knapp sind",
+   "s": "Über vier Jahre dauert die vollständige Invasion der Ukraine an. So ganz konnte Russland den Alltag in der Ukraine nicht zerstören. Aber erschweren.",
+   "u": "https://taz.de/Tagebuch-aus-der-Ukraine/!6225353/",
+   "q": "taz",
+   "d": "2026-11-06T10:22:00+00:00"
+  },
+  {
+   "t": "Staatskrise in Paraguay: Wenn der politische Ziehvater sich gegen den Präsidenten stellt",
+   "s": "Wegen der Krise der Digitalbank Ueno wollte Paraguays Präsident Peña zurücktreten, um einem Amtsenthebungsverfahren zuvorzukommen – doch er war nicht schnell genug.",
+   "u": "https://taz.de/Staatskrise-in-Paraguay/!6228141/",
+   "q": "taz",
+   "d": "2026-11-06T10:12:00+00:00"
+  },
+  {
+   "t": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
+   "s": "Mit Hubert Aiwanger verlieren die Freien Wähler ihr Zentrum und ihre Anziehungskraft. Das könnte die politischen Verhältnisse in Bayern nachhaltig verändern. Noch sind sie Regierungspartner der CSU. Von J. Wengert.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T09:30:52+00:00"
+  },
+  {
+   "t": "Gehaltsangaben in Stellenanzeigen: Bri­t:in­nen sollen wissen, was beim Job rausspringen würde",
+   "s": "Wie hoch das Gehalt für eine Stelle ist, soll in Großbritannien bald schon vor jeder Bewerbung klar sein: Ein entsprechendes Gesetz wurde angekündigt.",
+   "u": "https://taz.de/Gehaltsangaben-in-Stellenanzeigen/!6228142/",
+   "q": "taz",
+   "d": "2026-11-06T09:25:00+00:00"
+  },
+  {
+   "t": "Nach der Wahl in Israel: Bekommt Eisenkot das Mandat, eine Koalition zu bilden?",
+   "s": "Netanjahu-Gegner und Oppositionsführer Eisenkot erhält von den israelischen Parteien die meisten Empfehlungen. Was das für eine Regierungsbildung bedeutet.",
+   "u": "https://taz.de/Nach-der-Wahl-in-Israel/!6228139/",
+   "q": "taz",
+   "d": "2026-11-06T08:36:00+00:00"
+  },
+  {
+   "t": "Krieg im Jemen: „Alle Straßen nach Taiz sind wegen der Kämpfe gesperrt“",
+   "s": "Die unter Regierungskontrolle stehende Stadt Taiz im Jemen wird von der Huthi-Miliz belagert. Den Menschen gehen Lebensmittel, Gas und Medikamente aus.",
+   "u": "https://taz.de/Krieg-im-Jemen/!6227482/",
+   "q": "taz",
+   "d": "2026-11-06T06:56:00+00:00"
+  },
+  {
+   "t": "K.-o.-Tropfen - Täter sollen künftig härter bestraft werden",
+   "s": "Wer andere mit mit K.-o.-Tropfen betäubt, muss künftig mit bis zu fünf Jahren Haft rechnen. Ein starkes Signal, meint Sonja Eichwede (SPD). Um Opfer besser vor sexualisierter Gewalt zu schützen, brauche es aber weitere präventive Maßnahmen.Armbrüster, Tobias",
+   "u": "https://www.deutschlandfunk.de/interview-mit-sonja-eichwede-spd-vize-fraktions-vs-zu-k-o-tropfen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-06T06:15:00+00:00"
+  },
+  {
+   "t": "Warnungen auf der Schulleiterkonferenz: „Omas gegen Rechts“ an Schulen unerwünscht",
+   "s": "Erst gibt es ein Gespräch mit dem Schulamt, dann sperren Schulen in Bad Hersfeld die „Omas gegen Rechts“ aus den Klassenzimmern aus.",
+   "u": "https://taz.de/Warnungen-auf-der-Schulleiterkonferenz/!6227984/",
+   "q": "taz",
+   "d": "2026-11-06T06:13:00+00:00"
+  },
+  {
+   "t": "Bundestag plant härtere Strafen für den Einsatz von K.o.-Tropfen",
+   "s": "Immer wieder werden vor allem Frauen mit K.o.-Tropfen betäubt und erleben sexualisierte Gewalt. Der Bundestag will heute härtere Strafen beschließen. Aus Sicht der Opposition verfehlt das Gesetz aber den Kern des Problems. Von Felix Jakobs.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/ko-tropfen-gesetz-bundestag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T05:17:40+00:00"
+  },
+  {
+   "t": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+   "s": "Eigentlich sollte die Tabaksteuer erst zum Jahreswechsel erhöht werden - doch durch ein Versehen trat die Erhöhung schon jetzt in Kraft. Nun heißt es per Gesetzesänderung: Kommando zurück.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T00:55:35+00:00"
+  },
   {
    "t": "Führerschein soll billiger werden: Nicht aus Nettigkeit zur Jugend",
    "s": "Die Führerscheinreform soll den Lappen bis zu 1.000 Euro billiger machen. Wer braucht sowas, wenn man sich Wohnung und den Wocheneinkauf kaum leisten kann?",
@@ -95,80 +165,10 @@
   },
   {
    "t": "Diem25 in Existenznöten: Bank zieht bei Varoufakis den Stecker",
-   "s": "Ein Geldinstitut in Belgien sperrt das Konto der Partei des ehemaligen griechischen Finanzministers. Diem25 droht eine existenzielle Krise.",
+   "s": "Ein Geldinstitut in Belgien sperrt das Konto der linken Bewegung des ehemaligen griechischen Finanzministers. Diem25 droht eine existenzielle Krise.",
    "u": "https://taz.de/Diem25-in-Existenznoeten/!6227520/",
    "q": "taz",
    "d": "2026-11-05T16:43:00+00:00"
-  },
-  {
-   "t": "Erster Migra-Streik in Halle: Täglich angefeindet",
-   "s": "In Halle haben am Donnerstag rund 30 Mi­gran­t*in­nen ihre Geschäfte geschlossen. Es ist ein Protest gegen den zunehmenden Rassismus in Sachsen-Anhalt.",
-   "u": "https://taz.de/Erster-Migra-Streik-in-Halle/!6227722/",
-   "q": "taz",
-   "d": "2026-11-05T16:40:00+00:00"
-  },
-  {
-   "t": "Spekulationen über Melania Trump: Eine First Lady in Teilzeit",
-   "s": "Als erste First Lady hat Melania Trump eine Waffenruhe ausgehandelt. Der ukrainische Präsident Selenskyj würdigt diesen Erfolg mit einem Orden.",
-   "u": "https://taz.de/Spekulationen-ueber-Melania-Trump/!6227564/",
-   "q": "taz",
-   "d": "2026-11-05T16:39:00+00:00"
-  },
-  {
-   "t": "Folgen des Irankriegs: Wie die US-Nahostpolitik die Zwischenwahlen beeinflusste",
-   "s": "Das Scheitern der Republikaner bei den Wahlen hängt auch mit dem Irankrieg zusammen. Trotzdem transportiert das Militär Gerät und Truppen in die Region.",
-   "u": "https://taz.de/Folgen-des-Irankriegs/!6227567/",
-   "q": "taz",
-   "d": "2026-11-05T16:25:00+00:00"
-  },
-  {
-   "t": "Pflegereform im Bundestag: Das Pflege-Spargesetz soll „nachgebessert“ werden",
-   "s": "Bundesgesundheitsminister Carsten Linnemann (CDU) will „harte Brüche“ für Pflegehaushalte zum Jahresbeginn 2027 vermeiden.",
-   "u": "https://taz.de/Pflegereform-im-Bundestag/!6227720/",
-   "q": "taz",
-   "d": "2026-11-05T16:19:00+00:00"
-  },
-  {
-   "t": "Verhandlung in London: Russell Brand wegen Vergewaltigung schuldig gesprochen",
-   "s": "Der britische Schauspieler Russell Brand musste sich wegen Vorwürfen sexueller Gewalt verantworten. Er wurde in mehreren Punkten für schuldig befunden.",
-   "u": "https://taz.de/Verhandlung-in-London/!6228081/",
-   "q": "taz",
-   "d": "2026-11-05T16:16:00+00:00"
-  },
-  {
-   "t": "Pflege am Limit: Kann die Reform schnell helfen?",
-   "s": "Die Pflegeversicherungen brauchen erste Hilfe, deshalb sollen Beiträge steigen und Leistungen wegfallen. Nach lauter Kritik will der Gesundheitsminister nachbessern. Und: Ändert sich nach den Midterms die US-Außenpolitik (mit Blick auf Israel und Iran)?Stephanie Rohde",
-   "u": "https://www.deutschlandfunk.de/pflegereform-pflegeversicherung-midterms-usa-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-05T16:00:00+00:00"
-  },
-  {
-   "t": "Wie der Führerschein günstiger werden soll",
-   "s": "Weniger Sonderfahrten, keine Präsenzpflicht im Theorieunterricht: Der Führerschein soll weniger kosten und die Ausbildung moderner werden. Der Bundestag hat mit den Stimmen von Union und SPD einen ersten Teil der Reform beschlossen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fuehrerschein-reform-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T15:33:46+00:00"
-  },
-  {
-   "t": "Aiwanger starb laut ersten Erkenntnissen ohne Fremdverschulden",
-   "s": "Einen Tag nach dem plötzlichen Tod des Freie-Wähler-Chefs Aiwanger liegen erste Ermittlungsergebnisse vor. Für ein Fremdverschulden gibt es demnach keine Anhaltspunkte. Die Freien Wähler müssen sich jetzt neu aufstellen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T15:25:23+00:00"
-  },
-  {
-   "t": "Neonazi-Gruppe „Terror 18“: Jung, radikal, aggressiv",
-   "s": "Ein Mitglied der Jungnazi-Gruppe „Terror 18“ wurde unter Anschlagsverdacht festgenommen. Auch andere drohten mit Gewalt – etwa in Schwerin. Wer hinter der Vereinigung steckt.",
-   "u": "https://taz.de/Neonazi-Gruppe-Terror-18/!6227289/",
-   "q": "taz",
-   "d": "2026-11-05T15:04:00+00:00"
-  },
-  {
-   "t": "Flughäfen europaweit: Bombendrohungen gegen Passagierflugzeuge",
-   "s": "Erneut gibt es mehrere Bombendrohungen gegen Flugzeuge in Europa. Die Hintergründe sind bisher nicht bekannt.",
-   "u": "https://taz.de/Flughaefen-europaweit/!6227971/",
-   "q": "taz",
-   "d": "2026-11-05T14:16:00+00:00"
   }
  ]
 }
