@@ -1,7 +1,21 @@
 {
  "name": "Wissen",
- "updated": "2026-11-06T10:54:26+00:00",
+ "updated": "2026-11-06T20:54:24+00:00",
  "items": [
+  {
+   "t": "Absage von Kanzler Merz zur Teilnahme an UN-Klimakonferenz im türkischen Antalya",
+   "s": "Absage von Kanzler Merz zur Teilnahme an UN-Klimakonferenz im türkischen Antalya",
+   "u": "https://www.tagesschau.de/video/video-1679336.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T16:44:14+00:00"
+  },
+  {
+   "t": "EU-Dienst Copernicus: 1,5-Grad-Marke wird 2026 wohl überschritten",
+   "s": "Kurz vor der Klimakonferenz COP31 in Antalya gibt es ernüchternde Zahlen: Das 1,5-Grad-Ziel wird 2026 laut EU-Dienst Copernicus höchstwahrscheinlich überschritten. Der Oktober war zudem der wärmste seit Beginn der Aufzeichnungen.",
+   "u": "https://www.tagesschau.de/wissen/klima/copernicus-klimakrise-1komma5-grad-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T13:02:07+00:00"
+  },
   {
    "t": "Rettungsmission gescheitert - NASA-Satellit stürzt auf Erde",
    "s": "Der Satellit Swift hatte jahrelang gewaltige Energieausbrüche im Universum untersucht, sogenannte Gammablitze. Die Mission war so wichtig, dass die NASA eine Rettungsmission startete, als es Probleme gab - vergeblich.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/weltnaturkonferenz-in-armenien-startet-100.html",
    "q": "Tagesschau",
    "d": "2026-10-19T11:08:38+00:00"
-  },
-  {
-   "t": "Wechseljahre im Job: Wie Hitzewallungen den Arbeitsalltag erschweren",
-   "s": "Fast jede fünfte Frau überlegt wegen Beschwerden in den Wechseljahren, früher in Ruhestand zu gehen. Erst seit kurzem wird die Bedeutung der Menopause für die Arbeitskultur entdeckt und offen diskutiert. Von Lilofee Fettich.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/wechseljahre-am-arbeitsplatz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-18T06:25:03+00:00"
-  },
-  {
-   "t": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
-   "s": "Das Team des deutschen Forschungsschiffes \"Polarstern\" hat vor der Ostantarktis entdeckt: Der Meeresboden hilft dabei, das Schmelzen des Eises dort zu bremsen. Von Andreas Kegel.",
-   "u": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-17T08:15:08+00:00"
   }
  ]
 }

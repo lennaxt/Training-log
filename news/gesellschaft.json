@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-06T10:54:28+00:00",
+ "updated": "2026-11-06T20:54:25+00:00",
  "items": [
+  {
+   "t": "Generalstreik in Frankreich: Sie hoffen, dass das nur der Anfang ist",
+   "s": "In 207 Städten wurde in Frankreich gestreikt. Unterwegs mit der Lehrerin und Vorsitzenden der Bildungsgewerkschaft Nara Cladera.",
+   "u": "https://taz.de/Generalstreik-in-Frankreich/!6224243/",
+   "q": "taz",
+   "d": "2026-11-06T18:58:00+00:00"
+  },
+  {
+   "t": "Deutsch-polnische Beziehungen: Hass auf Bundewehrsoldaten ohne Ende",
+   "s": "Die deutsche Botschaft dementiert Falschmeldungen in Videos. Der Nato-Verbündete Polens habe mit der Krise um das Verfassungsgericht nichts zu tun.",
+   "u": "https://taz.de/Deutsch-polnische-Beziehungen/!6228208/",
+   "q": "taz",
+   "d": "2026-11-06T18:53:00+00:00"
+  },
+  {
+   "t": "Regierungskrise in Belgien: Ein abgelehnter Rücktritt und ein ICE-Imitat",
+   "s": "Belgiens König Philippe lehnt den Rücktritt von Premier De Wever ab. Unterdessen verabschiedet das Parlament ein Gesetz für Razzien nach ICE-Vorbild.",
+   "u": "https://taz.de/Regierungskrise-in-Belgien/!6228207/",
+   "q": "taz",
+   "d": "2026-11-06T16:41:00+00:00"
+  },
+  {
+   "t": "EU bei Ukraine-Verhandlungen: Der Frust der Giorgia Meloni",
+   "s": "Die EU will bei Friedensverhandlungen zum Ukraine-Krieg dabei sein. Doch eine gemeinsame Stimme gibt es nicht. Italiens Ministerpräsidentin hat einen Wutbrief geschrieben.",
+   "u": "https://taz.de/EU-bei-Ukraine-Verhandlungen/!6228180/",
+   "q": "taz",
+   "d": "2026-11-06T15:09:00+00:00"
+  },
+  {
+   "t": "+++Nachrichten im Ukrainekrieg+++: Trump kündigt „sehr großes Abkommen“ mit Russland und der Ukraine an",
+   "s": "Der US-Präsident spricht von einem Abkommen, das „ganz Europa umfassen“ könnte. Derweil bombardiert Russland weiter ukrainische Städte.",
+   "u": "https://taz.de/Nachrichten-im-Ukrainekrieg/!6228148/",
+   "q": "taz",
+   "d": "2026-11-06T11:15:00+00:00"
+  },
   {
    "t": "Gehaltsangaben in Stellenanzeigen: Bri­t:in­nen sollen wissen, was beim Job rausspringen würde",
    "s": "Wie hoch das Gehalt für eine Stelle ist, soll in Großbritannien bald schon vor jeder Bewerbung klar sein: Ein entsprechendes Gesetz wurde angekündigt.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Ukraine-unter-massivem-Beschuss/!6226985/",
    "q": "taz",
    "d": "2026-11-03T16:24:00+00:00"
-  },
-  {
-   "t": "Regierung Burnham in Großbritannien: Meister der Uneindeutigkeit",
-   "s": "Nach gut 100 Tagen Andy Burnham weiß Großbritannien immer noch nicht, was der neue Labour-Premier eigentlich will. Aus Versprechen werden Vertröstungen.",
-   "u": "https://taz.de/Regierung-Burnham-in-Grossbritannien/!6226944/",
-   "q": "taz",
-   "d": "2026-11-03T15:07:00+00:00"
-  },
-  {
-   "t": "Cyberattacken auf Kühlgeräte: Kontrolle über Tiefkühlkost verloren",
-   "s": "In mehreren europäischen Ländern sind Tiefkühlgeräte gehackt worden. Wer hinter den Angriffen steht, ist unklar. Auch Deutschland ist betroffen.",
-   "u": "https://taz.de/Cyberattacken-auf-Kuehlgeraete/!6226959/",
-   "q": "taz",
-   "d": "2026-11-03T14:33:00+00:00"
-  },
-  {
-   "t": "Polnisch-russische Grenze: Großeinsatz an Grenze zu Kaliningrad nach Geheimdienstwarnung",
-   "s": "Polens Regierungschef Tusk spricht von möglichen Provokationen an der Grenze zu Russlands Exklave und Menschen mit Taschenlampen. Was steckt dahinter?",
-   "u": "https://taz.de/Polnisch-russische-Grenze/!6227058/",
-   "q": "taz",
-   "d": "2026-11-03T13:52:00+00:00"
-  },
-  {
-   "t": "Frontex-Luftüberwachung: Spähflüge für die libysche Küstenwache",
-   "s": "Eine Forschungsgruppe hat nachgewiesen, dass die Europäische Küstenwache verstärkt das Mittelmeer ausspäht – und so das Abfangen von Geflüchteten ermöglicht.",
-   "u": "https://taz.de/Frontex-Luftueberwachung/!6226965/",
-   "q": "taz",
-   "d": "2026-11-03T13:23:00+00:00"
-  },
-  {
-   "t": "Protestcamp in Spanien geräumt: Mit Tränengas in der tiefsten Nacht",
-   "s": "Nach rund vier Wochen hat die spanische Polizei ein Protestcamp gegen hohe Mieten in Madrid geräumt. Bald soll ein Generalstreik das Land lahmlegen.",
-   "u": "https://taz.de/Protestcamp-in-Spanien-geraeumt/!6226972/",
-   "q": "taz",
-   "d": "2026-11-03T12:11:00+00:00"
   }
  ]
 }

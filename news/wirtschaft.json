@@ -1,7 +1,56 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-06T10:54:25+00:00",
+ "updated": "2026-11-06T20:54:23+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 06.11.2026",
+   "s": "Wirtschaft vor acht vom 06.11.2026",
+   "u": "https://www.tagesschau.de/video/video-1679460.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T18:51:48+00:00"
+  },
+  {
+   "t": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
+   "s": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus - und setzen auch den deutschen Aktienmarkt unter Druck. Die US-Börsen konnten sich inzwischen wieder berappeln.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T17:30:36+00:00"
+  },
+  {
+   "t": "Schwierige Rohstoffhoffnung: Gold für Europas Energiewende?",
+   "s": "Gold könnte Europas Rohstoffproblem entschärfen: Beim Abbau des Edelmetalls fallen oft auch Stoffe wie Kobalt, Nickel oder Seltene Erden an. Doch Umweltbedenken, Widerstand vor Ort und fehlende Investitionen stehen dem Ausbau des Bergbaus entgegen.",
+   "u": "https://www.deutschlandfunk.de/goldabbau-europa-finnland-energiewende-seltene-erden-kritische-rohstoffe-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-06T15:39:00+00:00"
+  },
+  {
+   "t": "Marktbericht: Zweifel am KI-Geschäft belasten die Branche",
+   "s": "Der weltweite Kursrutsch bei Tech- und Chipwerten schürt Zweifel, ob sich die hohen KI-Investitionen auszahlen. Zugleich wächst vor dem geplanten Börsengang der Widerstand gegen die Billionenbewertung von Anthropic. Von Melanie Böff.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T13:22:11+00:00"
+  },
+  {
+   "t": "Tesla will Cybertruck-Produktion in Texas einstellen",
+   "s": "Der Cybertruck sollte Teslas Antwort auf die beliebten US-Pickups sein. Doch das Elektroauto blieb hinter den Erwartungen zurück. Nun will Elon Musk die Produktion in Texas beenden und Platz für ein anderes Produkt schaffen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T13:09:10+00:00"
+  },
+  {
+   "t": "Millionen Euro verschwunden: Vucic-nahe Bank in Serbien geschlossen",
+   "s": "Die serbische Alta Bank ist geschlossen, ihr Besitzer verhaftet. Der mutmaßliche Vertraute des früheren Präsidenten Vucic soll knapp 400 Millionen Euro gestohlen haben. Auch staatliche Gelder könnten betroffen sein. Von Silke Hahne.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nationalbank-serbien-diebstahl-400-millionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T11:58:26+00:00"
+  },
+  {
+   "t": "Welche Folgen die US-Midterms für die deutsche Wirtschaft haben",
+   "s": "Der Machtwechsel im US-Kongress könnte Unternehmen mehr Planbarkeit bringen. Zugleich befürchten Ökonomen, dass sich der Zollstreit fortsetzt. Worauf kann sich die deutsche Wirtschaft einstellen? Von Sebastian Schreiber.",
+   "u": "https://www.tagesschau.de/wirtschaft/midterms-wirtschaft-handelspolitik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T11:17:25+00:00"
+  },
   {
    "t": "Industrieproduktion wächst überraschend - Autobranche legt zu",
    "s": "Deutsche Industriebetriebe haben im September überraschend mehr produziert als im Vormonat. Vor allem die Autobranche sorgte für das Plus. Doch die Risikofaktoren für die wirtschaftliche Erholung bleiben.",
@@ -15,13 +64,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
    "q": "Tagesschau",
    "d": "2026-11-06T09:29:54+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX fällt im Sog der Nasdaq",
-   "s": "Der DAX kann sich dem Abwärtssog der Wall Street nicht entziehen. Der deutsche Leitindex stürzt zurück unter die Marke von 26.000 Punkten. Wie könnte es am Markt jetzt weitergehen?",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T09:29:32+00:00"
   },
   {
    "t": "Chipaktien an den internationalen Börsen im freien Fall",
@@ -87,13 +129,6 @@
    "d": "2026-11-05T14:04:42+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 04.11.2026",
-   "s": "Wirtschaft vor acht vom 04.11.2026",
-   "u": "https://www.tagesschau.de/video/video-1678250.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T18:58:13+00:00"
-  },
-  {
    "t": "Deutsche verbrauchen 2026 weniger Energie - das hat einen Grund",
    "s": "Deutschlands Energieverbrauch sinkt laut Experten in diesem Jahr. Besonders beim Heizöl halten sich die Haushalte zurück, zugleich wächst der Anteil Erneuerbarer Energien.",
    "u": "https://www.tagesschau.de/wirtschaft/energie/energiebilanz-heizoel-100.html",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/luftfahrt-lufthansa-wirtschaftsstandort-100.html",
    "q": "Tagesschau",
    "d": "2026-11-04T05:23:01+00:00"
-  },
-  {
-   "t": "CBAM – ein Klimaschutz-Druckmittel der EU",
-   "s": "Der Klimaschutz hat politisch weltweit an Rückhalt verloren. Trotzdem haben Fachleute noch Hoffnung – aus mehreren Gründen. Auch ein Instrument der EU könnte Staaten zum Handeln bewegen.",
-   "u": "https://www.deutschlandfunk.de/cbam-klimaschutz-klimawandel-pariser-klimaabkommen-co2-preis-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-03T15:31:00+00:00"
-  },
-  {
-   "t": "Bruttoökosystemprodukt: Was die Natur wert ist",
-   "s": "Wirtschaftswachstum gilt als Zeichen von Wohlstand. Leistungen der Natur bleiben dabei außen vor. Das Bruttoökosystemprodukt soll den Wert von Ökosystemen messbar machen. In China entscheiden sich daran bereits Bauprojekte und Politikerkarrieren.Von Tomma Schröder",
-   "u": "https://www.deutschlandfunk.de/bruttooekosystemprodukt-boep-gep-natur-wert-wohlstand-wirtschaft-china-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-29T08:00:00+00:00"
-  },
-  {
-   "t": "Industriearbeiter: Vom Gesicht des Wirtschaftswunders zur AfD-Klientel",
-   "s": "Der deutsche Industriearbeiter galt als Symbolfigur des Wiederaufbaus nach 1945. Arbeiter waren stolz, „Malocher“ zu sein. Doch zunehmend verschwinden Industriejobs. Und viele der verbliebenen Arbeiter zieht es zur AfD.",
-   "u": "https://www.deutschlandfunk.de/industriearbeiter-afd-waehler-wirtschaft-arbeitsplaetze-stellenabbau-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-27T11:34:00+00:00"
-  },
-  {
-   "t": "Die globale Energiewende – die Zukunft der Welt ist elektrisch",
-   "s": "Der Irankrieg und die weltweit gestiegenen Treibstoffpreise haben noch einmal gezeigt, was die Abhängigkeit von den fossilen Energien bedeutet. Weltweit wird der Umstieg auf erneuerbare Energien vorangetrieben – oft aus rein finanziellen Gründen.",
-   "u": "https://www.deutschlandfunk.de/energiewende-global-erneuerbare-energien-elektromobilitaet-dekarbonisierung-klimawandel-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-27T08:42:00+00:00"
-  },
-  {
-   "t": "Biodiversitätsabkommen: Balanceakt zwischen Artenschutz und Wirtschaft",
-   "s": "Artenvielfalt stabilisiert Ökosysteme und sichert damit auch wirtschaftliche Grundlagen. Dennoch gerät die Einhaltung der Biodiversitätsziele in Vergessenheit, wenn es um wirtschaftliche Interessen geht.",
-   "u": "https://www.deutschlandfunk.de/cop17-biodiversitaet-artenvielfalt-wirtschaft-100-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-22T15:46:00+00:00"
   }
  ]
 }

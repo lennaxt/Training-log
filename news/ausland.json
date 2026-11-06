@@ -1,7 +1,70 @@
 {
  "name": "Ausland",
- "updated": "2026-11-06T10:54:16+00:00",
+ "updated": "2026-11-06T20:54:22+00:00",
  "items": [
+  {
+   "t": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
+   "s": "Seit der verheerenden Wahlniederlage der Republikaner bei den Midterms gibt es Spekulationen darüber, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht eine Personalie fest: Die Strippenzieherin Wiles geht.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T20:20:30+00:00"
+  },
+  {
+   "t": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
+   "s": "Erneut hat es in Europa zahlreiche Bombendrohungen gegeben - sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien spricht von einem hybriden Angriff, der \"kein Zufall\" sei. Irland sieht eine \"koordinierte Kampagne\".",
+   "u": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T19:39:20+00:00"
+  },
+  {
+   "t": "Die gestohlenen Kinder von Oleschky",
+   "s": "2022 verschleppten russische Soldaten Hannas Sohn Anton aus einem Heim in Oleschky. Eine niederländische NGO hilft bei der Suche - doch selbst wenn sie ihn findet, ist eine Rückkehr in die Ukraine nicht sicher. Von R. Barth.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-kinder-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T17:48:38+00:00"
+  },
+  {
+   "t": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
+   "s": "Nach einem Treffen mit Kreml-Unterhändler Dmitrijew kündigte US-Präsident Trump ein \"großes\" Ukraine-Abkommen an. Alle würden begeistert sein, behauptete er. Doch Moskau und Brüssel dämpfen die Erwartungen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T17:46:51+00:00"
+  },
+  {
+   "t": "Anführer von Hungersekte in Kenia zu 200 Jahren Haft verurteilt.",
+   "s": "Der selbsternannte kenianische Pastor Mackenzie ist für den Mord an 191 Menschen verurteilt worden. Er soll sie aus angeblich religiösen Gründen zum Todesfasten verleitet haben - die meisten waren Kinder.",
+   "u": "https://www.tagesschau.de/ausland/afrika/kenia-urteil-sektenfuehrer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T17:08:10+00:00"
+  },
+  {
+   "t": "Auch Senat in Polen stimmt für Lockerung des Abtreibungsrechts",
+   "s": "Nach der ersten Kammer hat in Polen auch der Senat für eine Liberalisierung des Abtreibungsrechts gestimmt. Das letzte Wort hat aber Präsident Nawrocki. Dessen Zustimmung gilt als unwahrscheinlich.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-aenderung-abreibungsrecht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T16:19:52+00:00"
+  },
+  {
+   "t": "EU-Staatsanwaltschaft ermittelt nach Zugunglück in Spanien",
+   "s": "Nach dem schweren Zugunglück in Spanien mit 69 Toten ermittelt die EU-Staatsanwaltschaft wegen möglichen Subventionsbetrugs. Im Fokus stehen Gelder für die Bahnsicherheit. Bereits nach einem Unglück im Januar gab es Ermittlungen.",
+   "u": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-eu-ermittlungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T15:01:09+00:00"
+  },
+  {
+   "t": "Bombendrohungen auch gegen irische Medien",
+   "s": "Während weiter Flüge wegen Bombendrohungen umgeleitet werden, trifft es nun auch Medien: In Irland mussten Redaktionsgebäude geräumt werden. Es soll einen Zusammenhang geben. Aber wer steckt dahinter? Das bleibt unklar.",
+   "u": "https://www.tagesschau.de/ausland/europa/bombendrohung-oeffentlich-rechtlicher-sender-irland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T13:49:52+00:00"
+  },
+  {
+   "t": "EU-Kommission wirft TikTok Gesundheitsgefährdung vor",
+   "s": "Der \"Rabbit Hole\"-Effekt führt zu einer weiteren Konfrontation zwischen der EU und TikTok. Die Brüsseler werfen der App vor, die Gesundheit Nutzender zu gefährden. TikTok droht eine heftige Strafe.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-tiktok-mentale-gesundheit-gefaehrdung-algorithmus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T12:08:01+00:00"
+  },
   {
    "t": "Paraguay: Die Bankenkrise wird zur Staatskrise",
    "s": "In Paraguay zieht die Krise um die Ueno Bank immer weitere Kreise: Weil Präsident Peña die Risiken zu lange ignorierte, leitete das Parlament ein Amtsenthebungsverfahren ein. Auch die Staatsanwaltschaft ermittelt. Von Anne Herrberg.",
@@ -106,69 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/20-jahre-mord-litwinenko-100.html",
    "q": "Tagesschau",
    "d": "2026-11-05T13:42:57+00:00"
-  },
-  {
-   "t": "Straße von Hormus: Zwei Öltanker offenbar in Brand geraten",
-   "s": "Teheran blockiert die Straße von Hormus seit Beginn des Iran-Krieges weitgehend. Doch immer wieder riskieren Öltanker die Passage durch die Meerenge. Nun sind laut Iran zwei Schiffe in Brand geraten.",
-   "u": "https://www.tagesschau.de/ausland/asien/iran-hormus-oeltanker-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T11:47:58+00:00"
-  },
-  {
-   "t": "Midterms: Was die Demokraten aus Texas lernen können",
-   "s": "Zum ersten Mal seit 1988 schickt Texas mit James Talarico wieder einen Demokraten in den US-Senat. Auch das Gouverneursamt und andere Spitzenpositionen gehen an die Demokraten. Wie ist ihnen das in diesem Bundesstaat gelungen? Von Sandra Ratzow.",
-   "u": "https://www.tagesschau.de/ausland/amerika/midterms-texas-demokraten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T09:12:33+00:00"
-  },
-  {
-   "t": "USA und Israel nach den Wahlen: Beziehungsstatus kompliziert",
-   "s": "Sowohl die USA als auch Israel haben wichtige Wahlen hinter sich. Die Ergebnisse werden die Beziehungen beider Staaten nachhaltig bestimmen - und könnten für Premier Netanjahu zum Problem werden. Von Jan-Christoph Kitzler.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-usa-wahlen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T07:28:49+00:00"
-  },
-  {
-   "t": "US-Demokraten: Der gemäßigte Kurs verspricht weitere Erfolge",
-   "s": "Nach den Midterms sieht sich der linke Parteiflügel der Demokraten gestärkt, doch Top-Demokraten im Kongress setzen auf einen gemäßigten Kurs. Auch Experten sagen: Das hilft in einem \"Mitte-Rechts-Land\". Von C. Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/amerika/midterms-demokraten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T05:57:08+00:00"
-  },
-  {
-   "t": "Strafen gegen Vucic-Propagandasendungen bei Informer und Prva in Serbien",
-   "s": "Nach dem Wahlsieg der Studentischen Liste sind erste Veränderungen schon spürbar. Eine serbische Medienaufsichtsbehörde hat Zwangspausen gegen Vucic-Propagandasendungen verhängt. Von Oliver Soos.",
-   "u": "https://www.tagesschau.de/ausland/europa/serbien-medienaufsicht-strafe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T04:05:08+00:00"
-  },
-  {
-   "t": "Frankreich: Nach den Protesten sollen jetzt Streiks folgen",
-   "s": "Die wichtigsten Gewerkschaften in Frankreich haben für heute zu Streiks und landesweiten Protesten aufgerufen. Auch die Proteste der Schüler und Studierenden schließen sich an. Kann das funktionieren? Von C. Dylla.",
-   "u": "https://www.tagesschau.de/ausland/europa/proteste-streiks-frankreich-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T01:52:28+00:00"
-  },
-  {
-   "t": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
-   "s": "Die Wahlschlappe von Trumps Republikanern lässt viele in der Ukraine auf einen Kurswechsel der USA hoffen. Doch ob es tatsächlich so schnell zu Veränderungen kommt, daran zweifelt man. Von F. Kellermann.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T00:10:07+00:00"
-  },
-  {
-   "t": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
-   "s": "Nach der Wahlschlappe der Republikaner geht in der Partei die Spurensuche los, warum sie solche herben Verluste gegen die Demokraten einstecken musste. Für Vizepräsident Vance ist klar: Der Iran-Krieg ist schuld. Von K. Fuß.",
-   "u": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T21:15:24+00:00"
-  },
-  {
-   "t": "Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben",
-   "s": "Lahme Ente oder entfesselter Kampfhahn - Meinungen darüber, was die Politik von US-Präsident Trump in den verbleibenden zwei Jahren ausmachen wird, variieren. Die Demokraten jedenfalls kündigen große Vorhaben an - und Trump sein Veto. Von Gabi Biesinger.",
-   "u": "https://www.tagesschau.de/ausland/demokraten-optionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T16:49:39+00:00"
   }
  ]
 }
