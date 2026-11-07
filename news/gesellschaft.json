@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-07T00:56:53+00:00",
+ "updated": "2026-11-07T10:12:39+00:00",
  "items": [
+  {
+   "t": "Michail Chodorkowskij über Russland: „Man sollte mit Putin reden“",
+   "s": "Der frühere Oligarch wurde in seiner Heimat zur Lagerhaft verurteilt. Heute lebt er im Exil. Ein Gespräch über Sanktionen, Krieg und russische Opposition.",
+   "u": "https://taz.de/Michail-Chodorkowskij-ueber-Russland/!6225176/",
+   "q": "taz",
+   "d": "2026-11-07T08:32:00+00:00"
+  },
+  {
+   "t": "Podcast der wochentaz: Die Toilettenmafia",
+   "s": "Ein dubioses Unternehmen beutet deutschlandweit Toilettenpersonal in Einkaufszentren aus. Trotz mehrjähriger Haftstrafen geht die Masche weiter.",
+   "u": "https://taz.de/Podcast-der-wochentaz/!6228289/",
+   "q": "taz",
+   "d": "2026-11-07T07:21:00+00:00"
+  },
   {
    "t": "Generalstreik in Frankreich: Sie hoffen, dass das nur der Anfang ist",
    "s": "In 207 Städten wurde in Frankreich gestreikt. Unterwegs mit der Lehrerin und Vorsitzenden der Bildungsgewerkschaft Nara Cladera.",
@@ -10,7 +24,7 @@
    "d": "2026-11-06T18:58:00+00:00"
   },
   {
-   "t": "Deutsch-polnische Beziehungen: Hass auf Bundewehrsoldaten ohne Ende",
+   "t": "Deutsch-polnische Beziehungen: Hass auf Bundeswehrsoldaten ohne Ende",
    "s": "Die deutsche Botschaft dementiert Falschmeldungen in Videos. Der Nato-Verbündete Polens habe mit der Krise um das Verfassungsgericht nichts zu tun.",
    "u": "https://taz.de/Deutsch-polnische-Beziehungen/!6228208/",
    "q": "taz",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Abkommen-mit-den-USA/!6227225/",
    "q": "taz",
    "d": "2026-11-04T09:21:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Selenskyj ehrt Melania Trump mit Orden für Waffenruhe in Oleschky",
-   "s": "In Saporischschja werden nach einem Luftangriff noch 59 Menschen vermisst. Selenskyj ehrt Melania Trump für ihre Vermittlung. Auf der Krim kam es zu Stromausfällen.",
-   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6227186/",
-   "q": "taz",
-   "d": "2026-11-04T08:16:00+00:00"
-  },
-  {
-   "t": "Ukraine unter massivem Beschuss: Kältetod mit Ansage",
-   "s": "Russland greift in der Ukraine gezielt und verstärkt zivile Infrastruktur an – und zwar landesweit. Bereits jetzt kommt es zu massiven Stromausfällen.",
-   "u": "https://taz.de/Ukraine-unter-massivem-Beschuss/!6226985/",
-   "q": "taz",
-   "d": "2026-11-03T16:24:00+00:00"
   }
  ]
 }

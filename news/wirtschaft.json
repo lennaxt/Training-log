@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-07T00:56:50+00:00",
+ "updated": "2026-11-07T10:12:37+00:00",
  "items": [
+  {
+   "t": "Sanierung der Bahnstrecke Berlin-Hannover: Massive Probleme für Pendler",
+   "s": "Dass die Generalsanierung der Bahnstrecke Berlin-Hannover massive Verspätungen bedeutet, war klar. Doch nun zeigt sich: Die Pünktlichkeit auf der Ausweichstrecke ist selbst für Bahnverhältnisse unterdurchschnittlich. Von Andre Kartschall.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-berlin-hannover-bauarbeiten-pendler-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T02:54:24+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 06.11.2026",
    "s": "Wirtschaft vor acht vom 06.11.2026",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html",
    "q": "Tagesschau",
    "d": "2026-11-04T08:21:37+00:00"
-  },
-  {
-   "t": "Airlines streichen Flüge: Verliert Deutschland den Anschluss?",
-   "s": "Fluggesellschaften klagen über zu hohe Steuern und Abgaben in Deutschland. Die Airlines haben zuletzt etliche Verbindungen gestrichen. Verliert die deutsche Luftfahrt den Anschluss? Von Sebastian Schreiber.",
-   "u": "https://www.tagesschau.de/wirtschaft/luftfahrt-lufthansa-wirtschaftsstandort-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T05:23:01+00:00"
   }
  ]
 }

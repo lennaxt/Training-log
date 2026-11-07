@@ -1,7 +1,49 @@
 {
  "name": "Ausland",
- "updated": "2026-11-07T00:56:48+00:00",
+ "updated": "2026-11-07T10:12:36+00:00",
  "items": [
+  {
+   "t": "Was passiert bei einer Bombendrohung im Flugzeug?",
+   "s": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen.",
+   "u": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T08:10:26+00:00"
+  },
+  {
+   "t": "Schwere Schäden nach Raketenangriffen auf Kiew",
+   "s": "Erneut haben russische Raketen die ukrainische Hauptstadt Kiew und das Umland getroffen. Es gab zahlreiche Explosionen, so Bürgermeister Klitschko. Die Strom- und Wasserversorgung seien stark beeinträchtigt.",
+   "u": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T07:40:23+00:00"
+  },
+  {
+   "t": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
+   "s": "Die USA erleben laut der Gesundheitsbehörde CDC den größten Masernausbruch seit 1991. Im Laufe des Jahres wurden bereits 5.182 Krankheitsfälle registriert. In Wisconsin starb erstmals seit mehr als dreieinhalb Jahrzehnten ein Baby.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T06:01:55+00:00"
+  },
+  {
+   "t": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
+   "s": "Auf Stabschefin Wiles folgt Hardliner Miller: Mit dieser Entscheidung reagiert Trump auf das Wahldebakel seiner Partei - und geht auf Konfrontationskurs zu den Demokraten. Doch auch Republikanern stößt die Personalie auf. Von C. Kühntopp.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T04:19:10+00:00"
+  },
+  {
+   "t": "Gerät Tschechiens Wasserwirtschaft in Gefahr?",
+   "s": "Seit zwei Jahren gibt es in Tschechien zu wenig Schnee und Regen - der wasserreichste Stausee ist mittlerweile halb leer. Sollte auch dieser Winter die Pegelstände nicht anheben, wäre die Versorgung im ganzen Land gefährdet. Von André Berthold.",
+   "u": "https://www.tagesschau.de/ausland/europa/tschechien-wasserknappheit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T02:08:29+00:00"
+  },
+  {
+   "t": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
+   "s": "Drei Länder in elf Tagen: In Uruguay beginnt Papst Leo XIV. heute seine Südamerika-Reise. Auf ihn warten auch die Heimat seines Vorgängers und ein Wiedersehen mit der eigenen Vergangenheit. Von Anne Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T01:50:19+00:00"
+  },
   {
    "t": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
    "s": "Plötzlich ging es ganz schnell: Infolge der Bankenkrise in Paraguay hat das Parlament den bisherigen Präsidenten Peña des Amtes enthoben - kurz darauf wurde er unter Hausarrest gestellt. Ein Nachfolger ist bereits vereidigt.",
@@ -115,13 +157,6 @@
    "d": "2026-11-06T04:28:23+00:00"
   },
   {
-   "t": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
-   "s": "In Kalifornien wird die Todesstrafe seit 20 Jahren nicht mehr vollstreckt. 548 Menschen sitzen dort aktuell im Todestrakt. Jetzt kündigte der scheidende Gouverneur Newsom an, ihre Strafen in lebenslange Haftstrafen umzuwandeln.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T23:44:38+00:00"
-  },
-  {
    "t": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
    "s": "Der Ruf nach höheren Löhnen, Steuergerechtigkeit und mehr Geld für Bildung hat in Frankreich erneut Hunderttausende auf die Straßen getrieben. Der Aktionstag verlief weitgehend friedlich, es kam mancherorts dennoch zu Ausschreitungen.",
    "u": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
@@ -129,46 +164,11 @@
    "d": "2026-11-05T21:18:10+00:00"
   },
   {
-   "t": "Paraguays Präsident tritt nach Bankenpleite zurück",
-   "s": "Inmitten einer schweren Bankenkrise seines Landes hat Paraguays Präsident Peña seinen Rücktritt eingereicht. Ihm wurden geschäftliche Beziehungen zur Muttergesellschaft der Pleitebank vorgeworfen. Von A. Herrberg.",
-   "u": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T18:26:37+00:00"
-  },
-  {
    "t": "Ukraine: Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
    "s": "Ukrainische Antikorruptionsbehörden haben neue Ermittlungsergebnisse veröffentlicht, die schockieren: Der Korruptionsskandal zieht offenbar noch weitere Kreise als bisher bekannt - und betrifft auch Geheimdienst und Polizei. Von F. Kellermann.",
    "u": "https://www.tagesschau.de/ausland/ukraine-korruption-116.html",
    "q": "Tagesschau",
    "d": "2026-11-05T17:03:34+00:00"
-  },
-  {
-   "t": "Trump kritisiert die Midterms-Auszählung im Bundesstaat Alaska",
-   "s": "Noch läuft die Auszählung der Senatoren-Wahl in Alaska. Es zeichnet sich ein knappes Rennen ab. Nun mischt sich US-Präsident Trump ein: Er fordert, die Stimmen für Dan J. Sullivan dem Republikaner Dan S. Sullivan zuzuschlagen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/us-midterms-trump-alaska-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T16:58:22+00:00"
-  },
-  {
-   "t": "Britischer Komiker Brand der Vergewaltigung schuldig gesprochen",
-   "s": "Russell Brand - der britische Komiker und Schauspieler - blickt einer Gefängnisstrafe entgegen. Der 51-Jährige ist in einem Prozess um sexuelle Gewalt in mehreren Punkten für schuldig befunden worden.",
-   "u": "https://www.tagesschau.de/ausland/europa/russell-brand-verurteilung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T15:42:30+00:00"
-  },
-  {
-   "t": "Großangelegter TV-Streich sorgt in Dänemark für Skandal",
-   "s": "Ist es in Ordnung, wenn 150 Menschen über Monate einen Freund und Kollegen belügen, um am Ende aufzulösen, dass alles nur ein Spaß fürs Fernsehen war? In Dänemark wird heftig über ein TV-Format diskutiert. Von Arne Bartram.",
-   "u": "https://www.tagesschau.de/ausland/daenemark-tv-skandal-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T14:32:28+00:00"
-  },
-  {
-   "t": "Mehrere Bombendrohungen gegen Passagierflüge in Europa",
-   "s": "Wieder gibt es Bombendrohungen gegen Flugzeuge im europäischen Luftraum. Unter anderem eine irische Maschine musste außerplanmäßig auf einem französischen Luftwaffenstützpunkt landen. Die Hintergründe sind bisher nicht bekannt.",
-   "u": "https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T14:20:37+00:00"
   }
  ]
 }
