@@ -1,10 +1,17 @@
 {
  "name": "Ausland",
- "updated": "2026-11-06T20:54:22+00:00",
+ "updated": "2026-11-07T00:56:48+00:00",
  "items": [
   {
+   "t": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+   "s": "Plötzlich ging es ganz schnell: Infolge der Bankenkrise in Paraguay hat das Parlament den bisherigen Präsidenten Peña des Amtes enthoben - kurz darauf wurde er unter Hausarrest gestellt. Ein Nachfolger ist bereits vereidigt.",
+   "u": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T00:06:18+00:00"
+  },
+  {
    "t": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
-   "s": "Seit der verheerenden Wahlniederlage der Republikaner bei den Midterms gibt es Spekulationen darüber, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht eine Personalie fest: Die Strippenzieherin Wiles geht.",
+   "s": "Seit der Wahlniederlage der Republikaner bei den Midterms wird spekuliert, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht fest: Die Strippenzieherin Wiles geht, ihr Vize Miller übernimmt.",
    "u": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
    "q": "Tagesschau",
    "d": "2026-11-06T20:20:30+00:00"
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html",
    "q": "Tagesschau",
    "d": "2026-11-05T14:20:37+00:00"
-  },
-  {
-   "t": "Litwinenko-Witwe: \"Der Westen hat einen großen Fehler gemacht\"",
-   "s": "Vor 20 Jahren wurde der russische Ex-Agent Litwinenko in London vergiftet. Seine Witwe treibt heute vor allem eins um: Hat der Westen mit seiner zaghaften Reaktion damals Putins heutige Aggression ermutigt? Von Mareike Aden.",
-   "u": "https://www.tagesschau.de/ausland/europa/20-jahre-mord-litwinenko-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T13:42:57+00:00"
   }
  ]
 }

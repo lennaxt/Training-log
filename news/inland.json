@@ -1,7 +1,14 @@
 {
  "name": "Inland",
- "updated": "2026-11-06T20:54:22+00:00",
+ "updated": "2026-11-07T00:56:48+00:00",
  "items": [
+  {
+   "t": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
+   "s": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend gebraucht.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-06T20:54:46+00:00"
+  },
   {
    "t": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
    "s": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Abschiebung-aus-den-USA-nach-Guatemala/!6224027/",
    "q": "taz",
    "d": "2026-11-06T14:47:00+00:00"
-  },
-  {
-   "t": "Pa­läs­ti­nen­se­r:in­nen in Deutschland: Die größte palästinensische Diaspora Europas",
-   "s": "In den letzten 20 Jahren kamen etwa 56.000 asylsuchende Pa­läs­ti­nen­se­r*in­nen nach Deutschland. Über ihre Lebensrealitäten weiß man wenig.",
-   "u": "https://taz.de/Palaestinenserinnen-in-Deutschland/!6227936/",
-   "q": "taz",
-   "d": "2026-11-06T14:44:00+00:00"
   }
  ]
 }
