@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-11-07T10:12:37+00:00",
+ "updated": "2026-11-07T19:26:19+00:00",
  "items": [
+  {
+   "t": "Klimagipfel · Wo steht Deutschlands Klimapolitik?",
+   "s": "Deutschland hat seine CO₂-Emissionen seit 1990 fast halbiert. Dennoch verfehlt das Land bislang seine Klimaziele. Bei der Weltklimakonferenz geht es nun darum, Öl, Kohle und Gas zu ersetzen.",
+   "u": "https://www.tagesschau.de/video/video-1679822.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T15:33:48+00:00"
+  },
   {
    "t": "Absage von Kanzler Merz zur Teilnahme an UN-Klimakonferenz im türkischen Antalya",
    "s": "Absage von Kanzler Merz zur Teilnahme an UN-Klimakonferenz im türkischen Antalya",
@@ -85,13 +92,6 @@
    "u": "https://www.tagesschau.de/video/video-1675312.html",
    "q": "Tagesschau",
    "d": "2026-10-30T17:23:35+00:00"
-  },
-  {
-   "t": "Weltgemeinschaft ringt um den Schutz der Natur bei Konferenz im armenischen Eriwan",
-   "s": "Weltgemeinschaft ringt um den Schutz der Natur bei Konferenz im armenischen Eriwan",
-   "u": "https://www.tagesschau.de/video/video-1675258.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T16:54:09+00:00"
   },
   {
    "t": "Kampf gegen Ebola - Studie macht Hoffnung auf Impfstoff",

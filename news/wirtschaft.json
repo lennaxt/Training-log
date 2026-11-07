@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-07T10:12:37+00:00",
+ "updated": "2026-11-07T19:26:18+00:00",
  "items": [
+  {
+   "t": "Millionen junge Menschen ohne Berufsausbildung in Deutschland",
+   "s": "Die Zahl junger Erwachsener ohne Berufsabschluss ist alarmierend. Sie haben schlechtere Chancen am Jobmarkt und verdienen weniger. Zugleich suchen viele Unternehmen Fachkräfte. Von Nicole Würth.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/junge-menschen-keine-berufsausbildung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T15:59:36+00:00"
+  },
+  {
+   "t": "Moderne Sklaverei: Verboten, aber weltweit verbreitet",
+   "s": "Sklaverei ist seit Langem international geächtet und verboten, doch es gibt sie noch immer in vielen Teilen der Welt, auch in Europa. Die erzwungene Ausbeutung hat viele Formen – und ist aus diesem Grund oft schwer zu erkennen.",
+   "u": "https://www.deutschlandfunk.de/moderne-sklaverei-zwangsarbeit-globalisierung-arbeit-ausbeutung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-07T12:30:00+00:00"
+  },
   {
    "t": "Sanierung der Bahnstrecke Berlin-Hannover: Massive Probleme für Pendler",
    "s": "Dass die Generalsanierung der Bahnstrecke Berlin-Hannover massive Verspätungen bedeutet, war klar. Doch nun zeigt sich: Die Pünktlichkeit auf der Ausweichstrecke ist selbst für Bahnverhältnisse unterdurchschnittlich. Von Andre Kartschall.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
    "q": "Tagesschau",
    "d": "2026-11-04T14:30:36+00:00"
-  },
-  {
-   "t": "Inflation im Euroraum steigt auf 4,0 Prozent",
-   "s": "Die Teuerung in der Eurozone ist im Oktober auf 4,0 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Besonders die hohen Energiepreise sind Treiber der aktuellen Entwicklung.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T11:12:00+00:00"
-  },
-  {
-   "t": "BMW erwirtschaftet noch weniger Gewinn",
-   "s": "Die Absatzkrise in China lässt den Gewinn von BMW im dritten Quartal weiter einbrechen. Auch teure Abfindungen und das vorgezogene Aus älterer Modelle verhageln dem Münchner Autobauer die Bilanz.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T08:21:37+00:00"
   }
  ]
 }

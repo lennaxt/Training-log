@@ -1,20 +1,62 @@
 {
  "name": "Ausland",
- "updated": "2026-11-07T10:12:36+00:00",
+ "updated": "2026-11-07T19:26:17+00:00",
  "items": [
+  {
+   "t": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+   "s": "Am Nachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt. Was bislang über die Tat bekannt ist.",
+   "u": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T19:10:52+00:00"
+  },
+  {
+   "t": "Weniger Teilnehmer bei neuen Demos in Frankreich",
+   "s": "Das zweite Mal in dieser Woche und das vierte Wochenende in Folge haben in Frankreich Menschen gegen hohe Lebenskosten oder Probleme im Bildungssystem protestiert. Allerdings kamen diesmal weniger Teilnehmer.",
+   "u": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T18:57:56+00:00"
+  },
+  {
+   "t": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+   "s": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 15 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden.",
+   "u": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T18:27:27+00:00"
+  },
+  {
+   "t": "Wofür Trumps neuer Stabschef Miller steht",
+   "s": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T14:57:49+00:00"
+  },
+  {
+   "t": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
+   "s": "Neuseeland hat ein neues Parlament gewählt. Doch angesichts eines extrem knappen Wahlausgangs könnte es bei der Frage, welche Regierung das Land künftig führt, letztlich auf die kleinen Parteien ankommen.",
+   "u": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T14:41:43+00:00"
+  },
+  {
+   "t": "Schwere Schäden nach Raketenangriffen auf Kiew",
+   "s": "Russland hat kurz vor Wintereinbruch erneut die ukrainische Strom- und Wasserversorgung angegriffen. In einigen Teilen des Landes fiel der Strom aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung.",
+   "u": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T12:13:38+00:00"
+  },
+  {
+   "t": "Bandenchef bittet UN um Vermittlung in Haiti",
+   "s": "In Haiti werden nach einem Bandenangriff vier salvadorianische Militärangehörige vermisst. Um sie zu retten, schickt Präsident Bukele weitere Soldaten ins Land und droht den Gangs. Ein Bandenchef reagiert nun mit einem Brief an die UN. Von A. Demmer.",
+   "u": "https://www.tagesschau.de/ausland/amerika/haiti-banden-vereinte-nationen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T10:51:13+00:00"
+  },
   {
    "t": "Was passiert bei einer Bombendrohung im Flugzeug?",
    "s": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen.",
    "u": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
    "q": "Tagesschau",
    "d": "2026-11-07T08:10:26+00:00"
-  },
-  {
-   "t": "Schwere Schäden nach Raketenangriffen auf Kiew",
-   "s": "Erneut haben russische Raketen die ukrainische Hauptstadt Kiew und das Umland getroffen. Es gab zahlreiche Explosionen, so Bürgermeister Klitschko. Die Strom- und Wasserversorgung seien stark beeinträchtigt.",
-   "u": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T07:40:23+00:00"
   },
   {
    "t": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
@@ -29,13 +71,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
    "q": "Tagesschau",
    "d": "2026-11-07T04:19:10+00:00"
-  },
-  {
-   "t": "Gerät Tschechiens Wasserwirtschaft in Gefahr?",
-   "s": "Seit zwei Jahren gibt es in Tschechien zu wenig Schnee und Regen - der wasserreichste Stausee ist mittlerweile halb leer. Sollte auch dieser Winter die Pegelstände nicht anheben, wäre die Versorgung im ganzen Land gefährdet. Von André Berthold.",
-   "u": "https://www.tagesschau.de/ausland/europa/tschechien-wasserknappheit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T02:08:29+00:00"
   },
   {
    "t": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
@@ -115,46 +150,11 @@
    "d": "2026-11-06T12:08:01+00:00"
   },
   {
-   "t": "Paraguay: Die Bankenkrise wird zur Staatskrise",
-   "s": "In Paraguay zieht die Krise um die Ueno Bank immer weitere Kreise: Weil Präsident Peña die Risiken zu lange ignorierte, leitete das Parlament ein Amtsenthebungsverfahren ein. Auch die Staatsanwaltschaft ermittelt. Von Anne Herrberg.",
-   "u": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T09:29:54+00:00"
-  },
-  {
    "t": "Israels Präsident nach Regierungskonsultationen mit ernüchterndem Fazit",
    "s": "Am Sonntag entscheidet Israels Staatspräsident Herzog, wem er den Regierungsauftrag gibt. Die Konsultationen verliefen bisher allerdings wenig konstruktiv. Von Julio Segador.",
    "u": "https://www.tagesschau.de/ausland/asien/israel-konsultationen-auftrag-100.html",
    "q": "Tagesschau",
    "d": "2026-11-06T08:25:15+00:00"
-  },
-  {
-   "t": "Los Angeles bekommt linke Bürgermeisterin",
-   "s": "Die künftige Bürgermeisterin von Los Angeles heißt Nithya Raman. Sie gehört dem linken Flügel der Demokraten an - genau wie New Yorks Bürgermeister. Dezidiert linke Politik scheint Wähler in den Großstädten nicht mehr zu verprellen. Von G. Biesinger.",
-   "u": "https://www.tagesschau.de/ausland/amerika/los-angeles-buergermeisterin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T07:32:23+00:00"
-  },
-  {
-   "t": "Richtungsstreit bei US-Republikanern: Was kommt nach der Trump-Ära?",
-   "s": "Nach der Niederlage bei den Zwischenwahlen streiten die US-Republikaner über den künftigen Kurs der Partei. Fehleranalyse, Vorwürfe und eigene Bewerbungsreden sind dabei schwer auseinanderzuhalten. Von Samuel Jackisch.",
-   "u": "https://www.tagesschau.de/ausland/amerika/amerika-midterms-republikaner-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T07:31:41+00:00"
-  },
-  {
-   "t": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
-   "s": "Sowohl Vertreter Russlands als auch der Ukraine waren jetzt zu Gast im Weißen Haus. Doch den US-Präsidenten persönlich durfte nur der Kreml-Gesandte treffen. Anschließend kündigte Trump einen möglichen Deal an, nannte aber keine Details.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T06:00:41+00:00"
-  },
-  {
-   "t": "Kongress lehnt Peñas Rücktritt ab - Staatsanwalt ermittelt",
-   "s": "Paraguay wird von einem Finanzskandal erschüttert, in den auch Präsident Peña verwickelt ist. Der Staatschef will zurücktreten, doch der Kongress nimmt das Rücktrittsgesuch nicht an - und leitet ein Amtsenthebungsverfahren ein.",
-   "u": "https://www.tagesschau.de/ausland/paraguay-ruecktritt-abgelehnt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T04:28:23+00:00"
   },
   {
    "t": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",

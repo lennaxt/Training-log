@@ -1,7 +1,28 @@
 {
  "name": "Kultur",
- "updated": "2026-11-07T10:12:39+00:00",
+ "updated": "2026-11-07T19:26:21+00:00",
  "items": [
+  {
+   "t": "Volkswagen in Brasilien: Verkauft, bewacht, ausgebeutet",
+   "s": "Während der Militärdiktatur wurden Arbeiter der Volkswagen do Brasil auf einer Farm unter sklavenähnlichen Bedingungen gehalten. Die damals Entrechteten wehren sich heute.",
+   "u": "https://taz.de/Volkswagen-in-Brasilien/!6224039/",
+   "q": "taz",
+   "d": "2026-11-07T16:16:00+00:00"
+  },
+  {
+   "t": "Digitalisierung in Südamerika: Chile lockert für Rechenzentren Umweltauflagen",
+   "s": "Chile will zum digitalen Drehkreuz Lateinamerikas werden. Dafür hat die Regierung die Umweltprüfungen von Rechenzentren zurückgefahren.",
+   "u": "https://taz.de/Digitalisierung-in-Suedamerika/!6224035/",
+   "q": "taz",
+   "d": "2026-11-07T11:39:00+00:00"
+  },
+  {
+   "t": "Staats- und Finanzkrise in Paraguay: Haftbefehl gegen abgesetzten Präsidenten",
+   "s": "Paraguays Parlament entmachtet Santiago Peña. Wenig später wird gegen ihn Haftbefehl erlassen. Was ist los in dem lateinamerikanischen Land?",
+   "u": "https://taz.de/Staats--und-Finanzkrise-in-Paraguay/!6228316/",
+   "q": "taz",
+   "d": "2026-11-07T09:57:00+00:00"
+  },
   {
    "t": "Neuer Stabschef im Weißen Haus: Extremist Stephen Miller rückt auf",
    "s": "Nach dem Midterms-Debakel muss Trumps Stabschefin Susie Wiles gehen, Miller wird sie ersetzen. Das zeigt: Trump wird von seiner Politik nicht abrücken.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Nicht-weisse-Gouverneurinnen/!6227332/",
    "q": "taz",
    "d": "2026-11-04T16:20:00+00:00"
-  },
-  {
-   "t": "Die US-Außenpolitik nach den Midterms: Trump hat noch zwei Jahre Zeit, sich ein Denkmal zu setzen",
-   "s": "Trumps Außenpolitik sorgt in Europa für Irritationen und Verzweiflung. Kommt nach der Wahlniederlage im Kongress die Wende? Experten sind skeptisch.",
-   "u": "https://taz.de/Die-US-Aussenpolitik-nach-den-Midterms/!6227329/",
-   "q": "taz",
-   "d": "2026-11-04T16:19:00+00:00"
-  },
-  {
-   "t": "Midtermwahlen in den USA: Ein bisschen mehr Regenbogen",
-   "s": "Bei den Wahlen haben queere Kan­di­da­t:in­nen gut abgeschnitten. Aber Rechte von trans Menschen wurden nur bedingt gestärkt.",
-   "u": "https://taz.de/Midtermwahlen-in-den-USA/!6227314/",
-   "q": "taz",
-   "d": "2026-11-04T16:19:00+00:00"
-  },
-  {
-   "t": "Demokrat El-Sayed gewinnt Michigan: Der Sieg des „unwahrscheinlichsten aller Kandidaten“",
-   "s": "Den industriell geprägten Bundesstaat Michigan bei den Zwischenwahlen zu gewinnen, ist eigentlich ein Selbstläufer für die Demokraten. Für Abdul El-Sayed war es dennoch hart.",
-   "u": "https://taz.de/Demokrat-El-Sayed-gewinnt-Michigan/!6227311/",
-   "q": "taz",
-   "d": "2026-11-04T14:06:00+00:00"
   }
  ]
 }

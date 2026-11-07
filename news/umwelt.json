@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-07T10:12:38+00:00",
+ "updated": "2026-11-07T19:26:20+00:00",
  "items": [
+  {
+   "t": "Treffen mit jungen Trotzkisten: Trotzki regelt",
+   "s": "Die Linke verdankt ihren Erfolg vielen neuen, jungen Mitgliedern. Ein kleiner Teil der Bewegung will nun das Regieren in Berlin verhindern.",
+   "u": "https://taz.de/Treffen-mit-jungen-Trotzkisten/!6224161/",
+   "q": "taz",
+   "d": "2026-11-07T14:32:00+00:00"
+  },
+  {
+   "t": "Datenleak bei der AfD: Hubig will E-Mails bei Prüfung für Verbotsverfahren nutzen",
+   "s": "Hunderttausende AfD-E-Mails sind im Internet veröffentlicht worden. Die Justizministerin sieht darin mögliche Belege für die Verfassungsfeindlichkeit der Partei.",
+   "u": "https://taz.de/AfD-Verbotsverfahren-Hubig-will-Datenleak-Mails-fuer-die-Pruefung-nutzen/!6228320/",
+   "q": "taz",
+   "d": "2026-11-07T11:30:00+00:00"
+  },
+  {
+   "t": "Journalistische Entgleisungen: Ein bisschen mehr Respekt, bitte!",
+   "s": "Die Berliner Wahlsiegerin Elif Eralp steht seit Wochen unter Beschuss. Dahinter steckt auch die Angst vor linken Frauen.",
+   "u": "https://taz.de/Journalistische-Entgleisungen/!6227534/",
+   "q": "taz",
+   "d": "2026-11-07T11:02:00+00:00"
+  },
   {
    "t": "Tod von Hubert Aiwanger: Warum er fehlen wird",
    "s": "An Hubert Aiwanger konnte man viel kritisieren – und das haben wir getan. Doch eines muss man ihm lassen: Ein Hund war er schon, manchmal sogar ein cooler.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Neonazi-Gruppe-Terror-18/!6227289/",
    "q": "taz",
    "d": "2026-11-05T15:04:00+00:00"
-  },
-  {
-   "t": "Hubert Aiwanger gestorben: Er war so frei",
-   "s": "Hubert Aiwanger fischte als Chef der Freien Wähler unverhohlen am rechten Rand. Aber er machte seine Partei auch zu einer regierungsfähigen Kraft. Ein Nachruf.",
-   "u": "https://taz.de/Hubert-Aiwanger-gestorben/!6227723/",
-   "q": "taz",
-   "d": "2026-11-05T13:59:00+00:00"
-  },
-  {
-   "t": "Wut wegen Wohngeldkürzungen: „Absolut inakzeptabel und unsozial“",
-   "s": "Kürzungen zu Lasten der Ärmsten: Zur geplanten Wohngeldreform erteilen Sachverständige der Bundesregierung eine saftige Absage.",
-   "u": "https://taz.de/Wut-wegen-Wohngeldkuerzungen/!6227274/",
-   "q": "taz",
-   "d": "2026-11-05T13:09:00+00:00"
-  },
-  {
-   "t": "Studentenprotest an der Uni Kassel: Studieren bei der Rüstungsfirma",
-   "s": "An der Uni Kassel ist nun Forschung für militärische Zwecke möglich. Protestierende Studierende besetzten bis zur Räumung einen Hörsaal.",
-   "u": "https://taz.de/Studentenprotest-an-der-Uni-Kassel/!6227508/",
-   "q": "taz",
-   "d": "2026-11-05T10:07:00+00:00"
   }
  ]
 }

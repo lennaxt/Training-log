@@ -1,7 +1,98 @@
 {
  "name": "Inland",
- "updated": "2026-11-07T10:12:35+00:00",
+ "updated": "2026-11-07T19:26:16+00:00",
  "items": [
+  {
+   "t": "Angriffe auf kritische Infrastruktur: Keine Panik, sondern handeln",
+   "s": "Die Störattacken auf Kühlanlagen und die Bombendrohungen auf Passagierflüge sollen Europa in Angst versetzen. Die Infrastruktur muss resilienter werden.",
+   "u": "https://taz.de/Angriffe-auf-kritische-Infrastruktur/!6224183/",
+   "q": "taz",
+   "d": "2026-11-07T19:03:00+00:00"
+  },
+  {
+   "t": "Nach dem Sieg über Vučić in Serbien: Ein friedliches Gesamtmonster",
+   "s": "Der Sieg der Studentenliste in Serbien erfreut unsere Autorin. Zugleich fühlt sie sich wie ein Zombie inmitten eines Star-Trek-Kollektivs.",
+   "u": "https://taz.de/Nach-dem-Sieg-ueber-Vucic-in-Serbien/!6224167/",
+   "q": "taz",
+   "d": "2026-11-07T19:03:00+00:00"
+  },
+  {
+   "t": "Pistorius zur Wehrpflicht: Prinzip der Freiwilligkeit kann gelingen",
+   "s": "In der Wehrpflichtdebatte setzt Bundesverteidigungsminister Boris Pistorius (SPD) auf das Prinzip der Freiwilligkeit. Mit 190.000 Soldatinnen und Soldaten gebe es jetzt die größte Bundeswehr seit 2013. Aber er könne nicht in die Zukunft blicken.Capellan, Frank",
+   "u": "https://www.deutschlandfunk.de/interview-der-woche-mit-verteidigungsminister-boris-pistorius-spd-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-07T18:15:00+00:00"
+  },
+  {
+   "t": "Neues Museum in Istanbul: Die neue alte Kaiserliche Münze",
+   "s": "In Istanbul wurde die lange geschlossene kaiserliche Münzprägeanstalt als Museum neu eröffnet. Die Istanbulis sind begeistert.",
+   "u": "https://taz.de/Neues-Museum-in-Istanbul/!6224153/",
+   "q": "taz",
+   "d": "2026-11-07T17:02:00+00:00"
+  },
+  {
+   "t": "Volkswagen in Brasilien: Verkauft, bewacht, ausgebeutet",
+   "s": "Während der Militärdiktatur wurden Arbeiter der Volkswagen do Brasil auf einer Farm unter sklavenähnlichen Bedingungen gehalten. Die damals Entrechteten wehren sich heute.",
+   "u": "https://taz.de/Volkswagen-in-Brasilien/!6224039/",
+   "q": "taz",
+   "d": "2026-11-07T16:16:00+00:00"
+  },
+  {
+   "t": "Mutmaßlicher Täter festgenommen: Tote und Verletzte nach Schüssen im Zentrum von Krakau",
+   "s": "Auf dem Großen Ring in Polens zweitgrößter Stadt fallen Schüsse aus einem Auto. Die Polizei berichtet von sechs Toten. Das Motiv des Täters ist noch unklar.",
+   "u": "https://taz.de/Mutmasslicher-Taeter-festgenommen/!6228323/",
+   "q": "taz",
+   "d": "2026-11-07T15:53:00+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Die Macht der Kaufkraft",
+   "s": "Eine wachsende Zahl von Menschen in Frankreich glaubt, sich immer weniger leisten zu können. Die Angst vor Verarmung wächst.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6228240/",
+   "q": "taz",
+   "d": "2026-11-07T14:59:00+00:00"
+  },
+  {
+   "t": "Der Druck der Straße: Nehmen wir uns die Gegenwart!",
+   "s": "Was von den Sozialprotesten bleibt, sind oft nur Bilder der Gewalt. Dem gilt es entgegenzuwirken – gerade in der Stadt der Liebe. Auch wenn es regnet.",
+   "u": "https://taz.de/Der-Druck-der-Strasse/!6224132/",
+   "q": "taz",
+   "d": "2026-11-07T14:57:00+00:00"
+  },
+  {
+   "t": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+   "s": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal - Spitzenvertreter der Union sehen das anders.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T14:45:52+00:00"
+  },
+  {
+   "t": "Treffen mit jungen Trotzkisten: Trotzki regelt",
+   "s": "Die Linke verdankt ihren Erfolg vielen neuen, jungen Mitgliedern. Ein kleiner Teil der Bewegung will nun das Regieren in Berlin verhindern.",
+   "u": "https://taz.de/Treffen-mit-jungen-Trotzkisten/!6224161/",
+   "q": "taz",
+   "d": "2026-11-07T14:32:00+00:00"
+  },
+  {
+   "t": "Digitalisierung in Südamerika: Chile lockert für Rechenzentren Umweltauflagen",
+   "s": "Chile will zum digitalen Drehkreuz Lateinamerikas werden. Dafür hat die Regierung die Umweltprüfungen von Rechenzentren zurückgefahren.",
+   "u": "https://taz.de/Digitalisierung-in-Suedamerika/!6224035/",
+   "q": "taz",
+   "d": "2026-11-07T11:39:00+00:00"
+  },
+  {
+   "t": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
+   "s": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger.",
+   "u": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T11:30:37+00:00"
+  },
+  {
+   "t": "Datenleak bei der AfD: Hubig will E-Mails bei Prüfung für Verbotsverfahren nutzen",
+   "s": "Hunderttausende AfD-E-Mails sind im Internet veröffentlicht worden. Die Justizministerin sieht darin mögliche Belege für die Verfassungsfeindlichkeit der Partei.",
+   "u": "https://taz.de/AfD-Verbotsverfahren-Hubig-will-Datenleak-Mails-fuer-die-Pruefung-nutzen/!6228320/",
+   "q": "taz",
+   "d": "2026-11-07T11:30:00+00:00"
+  },
   {
    "t": "Staats- und Finanzkrise in Paraguay: Haftbefehl gegen abgesetzten Präsidenten",
    "s": "Paraguays Parlament entmachtet Santiago Peña. Wenig später wird gegen ihn Haftbefehl erlassen. Was ist los in dem lateinamerikanischen Land?",
@@ -52,11 +143,11 @@
    "d": "2026-11-07T08:32:00+00:00"
   },
   {
-   "t": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
-   "s": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal. Er will künftig mehr Frauen für die Bundeswehr gewinnen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T07:02:40+00:00"
+   "t": "Ohne echte Lobby: Wie ländliche Regionen um ihre Zukunft kämpfen",
+   "s": "Die ländlichen Räume schaffen unseren Wohlstand, sind Taktgeber bei der Energiewende, auf den Äckern wird unsere Lebensgrundlage geschaffen. Trotzdem fühlen sich hier viele Menschen abgehängt. Aus dem Mangel entsteht aber auch so manche kreative Idee.Richter, Christoph",
+   "u": "https://www.deutschlandfunk.de/ohne-echte-lobby-wie-laendliche-regionen-um-ihre-zukunft-kaempfen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-07T08:10:56+00:00"
   },
   {
    "t": "Serpil Midyatli über Ungleichbehandlung: „Frauen werden wundgeschossen“",
@@ -78,97 +169,6 @@
    "u": "https://www.deutschlandfunk.de/poker-um-bundespraesidentinnenamt-int-mit-sabine-leutheusser-schnarrenberger-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-11-07T05:49:00+00:00"
-  },
-  {
-   "t": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
-   "s": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend gebraucht.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T20:54:46+00:00"
-  },
-  {
-   "t": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
-   "s": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T20:36:48+00:00"
-  },
-  {
-   "t": "Generalstreik in Frankreich: Sie hoffen, dass das nur der Anfang ist",
-   "s": "In 207 Städten wurde in Frankreich gestreikt. Unterwegs mit der Lehrerin und Vorsitzenden der Bildungsgewerkschaft Nara Cladera.",
-   "u": "https://taz.de/Generalstreik-in-Frankreich/!6224243/",
-   "q": "taz",
-   "d": "2026-11-06T18:58:00+00:00"
-  },
-  {
-   "t": "Union will Aigner als Bundespräsidentin: Es ist keine Schwäche, sich hinter eine starke Frau zu stellen",
-   "s": "Ilse Aigner soll Bundespräsidentin werden. Das verdankt sie nicht Friedrich Merz, der erneut nicht wie ein Antreiber, sondern ein Getriebener wirkte.",
-   "u": "https://taz.de/Union-will-Aigner-als-Bundespraesidentin/!6224226/",
-   "q": "taz",
-   "d": "2026-11-06T18:57:00+00:00"
-  },
-  {
-   "t": "Bundespräsidentschafts-Kandidatin Aigner: Die Bundespräsidentin als Demokratiewächterin",
-   "s": "Die Bun­des­prä­si­den­t:in sollte eine Ju­ris­t:in sein, raunte es in der CDU, was sich gegen Ilse Aigner richtete. Doch sie soll es nun offenbar werden.",
-   "u": "https://taz.de/Bundespraesidentschafts-Kandidatin-Aigner/!6228205/",
-   "q": "taz",
-   "d": "2026-11-06T18:56:00+00:00"
-  },
-  {
-   "t": "Der Kanzler und die Frauen: Friedrich Merz jetzt Feminist",
-   "s": "Wenn eine Frau Bundespräsidentin wird, dann soll das schon Gleichberechtigung sein. Der Kanzlerposten aber bleibt beim Mann.",
-   "u": "https://taz.de/Der-Kanzler-und-die-Frauen/!6224177/",
-   "q": "taz",
-   "d": "2026-11-06T18:55:00+00:00"
-  },
-  {
-   "t": "„Spiegel“ skandalisiert Linke-Engagement: Linke pocht auf den Rechtsstaat",
-   "s": "Eine neue Abgeordnete der Linken in Berlin begleitet Palästinenser, die sich vor Gericht mit Erfolg gegen ihre Abschiebung wehren. Was ist daran das Problem?",
-   "u": "https://taz.de/Spiegel-skandalisiert-Linke-Engagement/!6228217/",
-   "q": "taz",
-   "d": "2026-11-06T18:54:00+00:00"
-  },
-  {
-   "t": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
-   "s": "Die Eishockey-WM in Deutschland steht wegen der möglichen Teilnahme Russlands vor einem Boykott mehrerer Nationen und Sponsoren. Die Bundesregierung bringt das in ein Dilemma. Von Felix Jakobs.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T18:53:38+00:00"
-  },
-  {
-   "t": "Nach dem US-Midterms: Trumpismus lässt sich nur mit „affordability“ bekämpfen",
-   "s": "Den Demokraten stehen heftige Auseinandersetzungen mit der Regierung Trump bevor. Sie müssen gleichzeitig die Lebensrealität der US-Bürger*innen verbessern.",
-   "u": "https://taz.de/Nach-dem-US-Midterms/!6224222/",
-   "q": "taz",
-   "d": "2026-11-06T18:53:00+00:00"
-  },
-  {
-   "t": "Deutsch-polnische Beziehungen: Hass auf Bundeswehrsoldaten ohne Ende",
-   "s": "Die deutsche Botschaft dementiert Falschmeldungen in Videos. Der Nato-Verbündete Polens habe mit der Krise um das Verfassungsgericht nichts zu tun.",
-   "u": "https://taz.de/Deutsch-polnische-Beziehungen/!6228208/",
-   "q": "taz",
-   "d": "2026-11-06T18:53:00+00:00"
-  },
-  {
-   "t": "Flávio Bolsonaro in „New York Times“: „Wie ich dorthin gelangt bin, nehme ich mit ins Grab“",
-   "s": "Nach seiner Flucht in die USA zweifelt der brasilianische Wahlverlierer erneut das Wahlergebnis an. Die Brasilianer haben nur Spott für ihn übrig.",
-   "u": "https://taz.de/Flavio-Bolsonaro-in-New-York-Times/!6228200/",
-   "q": "taz",
-   "d": "2026-11-06T18:52:00+00:00"
-  },
-  {
-   "t": "Kommentar zu K.-o.-Tropfen: Härtere Strafen können nur der Anfang sein",
-   "s": "Sexual- und Raubdelikte unter Einsatz von K.-o.-Mitteln werden künftig härter bestraft. Die Strafverschärfung ist richtig, doch schützt sie niemanden. Betroffene berichten immer wieder, dass ihr Verdacht nicht ernst genommen wird.Von Timo Stukenberg",
-   "u": "https://www.deutschlandfunk.de/ko-tropfen-waffe-strafverschaerfung-gesetz-bundestag-gewalt-gegen-frauen-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-06T17:45:00+00:00"
-  },
-  {
-   "t": "Bundestag berät über umstrittene Autobahn-Reform",
-   "s": "Der Bundestag hat über eine geplante Reform der bundeseigenen Autobahn GmbH debattiert. Die Regierung will die Finanzierung ändern, um Autobahnen zu erhalten und ausbauen zu können. Doch das Vorhaben ist umstritten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/autobahn-reform-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T17:04:16+00:00"
   }
  ]
 }
