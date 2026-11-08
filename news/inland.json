@@ -1,7 +1,49 @@
 {
  "name": "Inland",
- "updated": "2026-11-08T00:37:14+00:00",
+ "updated": "2026-11-08T10:24:41+00:00",
  "items": [
+  {
+   "t": "Dutzende Tote in der DR Kongo: Massaker mitten im Ebola-Gebiet",
+   "s": "Die Miliz ADF tötet in Ostkongo mindestens 33 Menschen beim Überfall auf einen Ort, wo Ebola-Kranke behandelt werden. Die sind nun auf der Flucht.",
+   "u": "https://taz.de/Dutzende-Tote-in-der-DR-Kongo/!6228340/",
+   "q": "taz",
+   "d": "2026-11-08T10:14:00+00:00"
+  },
+  {
+   "t": "Pressesprecher von Trump: US-Präsident will Posten mit Kampfsportler besetzen",
+   "s": "Seit Mitte Oktober ist der Posten von Trumps Pressesprecher unbesetzt. Nun will er einen alten Freund dafür nominieren: den Kampfsportler Dana White.",
+   "u": "https://taz.de/Pressesprecher-von-Trump/!6228367/",
+   "q": "taz",
+   "d": "2026-11-08T10:01:00+00:00"
+  },
+  {
+   "t": "Aigners Nominierung: Die Frau der Stunde",
+   "s": "Ilse Aigner als Bundespräsidentin – das ist eine gute Wahl. Doch wie sie es wurde, das wollen wir mal schnell wieder vergessen.",
+   "u": "https://taz.de/Aigners-Nominierung/!6228312/",
+   "q": "taz",
+   "d": "2026-11-08T07:46:00+00:00"
+  },
+  {
+   "t": "Schusswaffenangriff in Krakau: Mutmaßlicher Täter tötete zunächst Eltern und Schwester",
+   "s": "Bevor er mitten in Krakau das Feuer eröffnete, erschoss der mutmaßliche Täter seine Familie. Unter den Verletzten sollen auch Deutsche sein.",
+   "u": "https://taz.de/Schusswaffenangriff-in-Krakau/!6228328/",
+   "q": "taz",
+   "d": "2026-11-08T07:40:00+00:00"
+  },
+  {
+   "t": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
+   "s": "Vom Sondervermögen des Bundes sollen auch Schulen, Kitas und Wissenschaft profitieren. Doch von den vorgesehenen Mitteln ist bislang offenbar nur ein Bruchteil in die Bildungsinfrastruktur geflossen. Die Grünen kritisieren das.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T03:28:25+00:00"
+  },
+  {
+   "t": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
+   "s": "Die FDP kommt heute zu einem digitalen Parteitag zusammen. Nach vielen Wahlniederlagen steckt die Partei in einer tiefen Krise. Bislang konnte das auch ihr neuer Vorsitzender Kubicki nicht ändern. Von Philipp Eckstein.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T02:28:44+00:00"
+  },
   {
    "t": "Wie digitale Medien die politische Öffentlichkeit verändern",
    "s": "Wie verändern TikTok, künstliche Intelligenz und sinkende Lesekompetenz unsere Demokratie? Zwischen Fake News, Bildungsungleichheit und digitaler Zerstreuung entscheidet sich, ob Bücher und Bibliotheken Orte politischer Mündigkeit bleiben.Leggewie, Claus",
@@ -73,6 +115,13 @@
    "d": "2026-11-07T14:45:52+00:00"
   },
   {
+   "t": "Kandidatin für das Bundespräsidentenamt: Wer ist Ilse Aigner?",
+   "s": "Die CSU-Politikerin Ilse Aigner soll auf Frank-Walter Steinmeier folgen. Wird sie von der Bundesversammlung gewählt, wäre sie die erste Bundespräsidentin. Ihre Wahl wäre zugleich eine Vorentscheidung für eine mögliche Nachfolge von Kanzler Merz.",
+   "u": "https://www.deutschlandfunk.de/ilse-aigner-bundespraesident-bundespraesidentin-staatsoberhaupt-csu-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-07T14:40:00+00:00"
+  },
+  {
    "t": "Treffen mit jungen Trotzkisten: Trotzki regelt",
    "s": "Die Linke verdankt ihren Erfolg vielen neuen, jungen Mitgliedern. Ein kleiner Teil der Bewegung will nun das Regieren in Berlin verhindern.",
    "u": "https://taz.de/Treffen-mit-jungen-Trotzkisten/!6224161/",
@@ -120,55 +169,6 @@
    "u": "https://taz.de/Neuseeland-hat-gewaehlt/!6228315/",
    "q": "taz",
    "d": "2026-11-07T09:41:00+00:00"
-  },
-  {
-   "t": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
-   "s": "Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T09:28:52+00:00"
-  },
-  {
-   "t": "Neuer Stabschef im Weißen Haus: Extremist Stephen Miller rückt auf",
-   "s": "Nach dem Midterms-Debakel muss Trumps Stabschefin Susie Wiles gehen, Miller wird sie ersetzen. Das zeigt: Trump wird von seiner Politik nicht abrücken.",
-   "u": "https://taz.de/Neuer-Stabschef-im-Weissen-Haus/!6228313/",
-   "q": "taz",
-   "d": "2026-11-07T09:14:00+00:00"
-  },
-  {
-   "t": "Tod von Hubert Aiwanger: Warum er fehlen wird",
-   "s": "An Hubert Aiwanger konnte man viel kritisieren – und das haben wir getan. Doch eines muss man ihm lassen: Ein Hund war er schon, manchmal sogar ein cooler.",
-   "u": "https://taz.de/Tod-von-Hubert-Aiwanger/!6228138/",
-   "q": "taz",
-   "d": "2026-11-07T08:38:00+00:00"
-  },
-  {
-   "t": "Michail Chodorkowskij über Russland: „Man sollte mit Putin reden“",
-   "s": "Der frühere Oligarch wurde in seiner Heimat zur Lagerhaft verurteilt. Heute lebt er im Exil. Ein Gespräch über Sanktionen, Krieg und russische Opposition.",
-   "u": "https://taz.de/Michail-Chodorkowskij-ueber-Russland/!6225176/",
-   "q": "taz",
-   "d": "2026-11-07T08:32:00+00:00"
-  },
-  {
-   "t": "Ohne echte Lobby: Wie ländliche Regionen um ihre Zukunft kämpfen",
-   "s": "Die ländlichen Räume schaffen unseren Wohlstand, sind Taktgeber bei der Energiewende, auf den Äckern wird unsere Lebensgrundlage geschaffen. Trotzdem fühlen sich hier viele Menschen abgehängt. Aus dem Mangel entsteht aber auch so manche kreative Idee.Richter, Christoph",
-   "u": "https://www.deutschlandfunk.de/ohne-echte-lobby-wie-laendliche-regionen-um-ihre-zukunft-kaempfen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-07T08:10:56+00:00"
-  },
-  {
-   "t": "Serpil Midyatli über Ungleichbehandlung: „Frauen werden wundgeschossen“",
-   "s": "Schleswig-Holsteins SPD-Fraktionschefin Serpil Midyatli findet, dass Frauen und Männer in der Politik mit zweierlei Maß gemessen werden. Immer noch.",
-   "u": "https://taz.de/Serpil-Midyatli-ueber-Ungleichbehandlung/!6228066/",
-   "q": "taz",
-   "d": "2026-11-07T07:00:00+00:00"
-  },
-  {
-   "t": "Mützenich (SPD): EU muss sich stärker an Ukraine-Diplomatie beteiligen",
-   "s": "US-Präsident Trump hat ein \"großes\" Ukraine-Abkommen angekündigt. SPD-Politiker Rolf Mützenich erwartet keinen Durchbruch. Er fordert Europa auf, sich stärker in die Verhandlungen einzubringen. Ansonsten würden andere Länder ein Ergebnis vorgeben.Brandes, Rainer",
-   "u": "https://www.deutschlandfunk.de/neue-chancen-auf-frieden-in-der-ukraine-interview-mit-rolf-muetzenich-spd-mdb-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-07T06:16:00+00:00"
   }
  ]
 }

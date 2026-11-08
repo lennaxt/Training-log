@@ -1,20 +1,62 @@
 {
  "name": "Ausland",
- "updated": "2026-11-08T00:37:14+00:00",
+ "updated": "2026-11-08T10:24:42+00:00",
  "items": [
+  {
+   "t": "Trump will Kampfsportunternehmer White als Pressesprecher",
+   "s": "\"Ein gewalttätiger Kämpfer und Krieger\": Mit einem unkonventionellen Vorschlag löst US-Präsident Trump Rätselraten aus: Der Chef der Kampfsportliga UFC soll Pressesprecher werden. Oder gibt es ein Missverständnis?",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T09:59:49+00:00"
+  },
+  {
+   "t": "Familienmitglieder des Schützen ebenfalls getötet",
+   "s": "Landesweit gilt in Polen nach den tödlichen Schüssen auf Passanten auf einem Marktplatz in Krakau Staatstrauer. Das Motiv des Schützen bleibt unklar. Er steht im Verdacht, auch seine Eltern und Schwester getötet zu haben.",
+   "u": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T09:58:10+00:00"
+  },
+  {
+   "t": "Papst Leo XIV. setzt Südamerika-Reise fort",
+   "s": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung.",
+   "u": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T08:27:56+00:00"
+  },
+  {
+   "t": "Guatemalas Korruptionsbekämpfer riskieren ihr Leben",
+   "s": "Guatemalas Präsident Arévalo versucht, die Korruption im Land zu bekämpfen. Doch der Widerstand einflussreicher Kreise ist massiv. Der Mord an einem der bekanntesten Anwälte des Landes zeigt, wie entschlossen sie sind. Von A. Demmer.",
+   "u": "https://www.tagesschau.de/ausland/amerika/guatemala-kampf-korruption-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T07:39:28+00:00"
+  },
+  {
+   "t": "Mehr als 20 Verletzte nach Erdbeben in Zentraljapan",
+   "s": "Mehrere Regionen in Japan wurden in der Nacht von einem Erdbeben der Stärke 5,7 erschüttert. Am stärksten betroffen war die Präfektur Aichi. Medien berichten über mehr als 20 Verletzte. Laut Behörden könnten weitere Beben folgen.",
+   "u": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T07:27:58+00:00"
+  },
+  {
+   "t": "US-Militär attackiert Handelsschiff im Golf von Oman",
+   "s": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, das gegen die US-Seeblockade verstoßen haben soll. Iran meldet unterdessen, dass zwei Frachter in der Straße von Hormus in Brand geraten seien.",
+   "u": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T06:01:58+00:00"
+  },
+  {
+   "t": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
+   "s": "Ein Mann schießt in Krakau aus seinem Auto, er tötet sechs Menschen und verletzt viele weitere. Nach der Tat steht Polens zweitgrößte Stadt unter Schock. Ermittler suchen Antworten auf die bohrende Frage: Warum? Von Palina Milling.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T01:50:38+00:00"
+  },
   {
    "t": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
    "s": "Bei der französischen Präsidentschaftswahl im kommenden April könnte er stark abschneiden: der linke Kandidat Mélenchon. Jetzt hat er sein Programm vorgestellt - und sich dabei nicht nur gegen die NATO positioniert.",
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html",
    "q": "Tagesschau",
    "d": "2026-11-08T00:14:21+00:00"
-  },
-  {
-   "t": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
-   "s": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch Deutsche. Was bislang über die Tat bekannt ist.",
-   "u": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T23:00:48+00:00"
   },
   {
    "t": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
@@ -108,20 +150,6 @@
    "d": "2026-11-07T01:50:19+00:00"
   },
   {
-   "t": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
-   "s": "Plötzlich ging es ganz schnell: Infolge der Bankenkrise in Paraguay hat das Parlament den bisherigen Präsidenten Peña des Amtes enthoben - kurz darauf wurde er unter Hausarrest gestellt. Ein Nachfolger ist bereits vereidigt.",
-   "u": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T00:06:18+00:00"
-  },
-  {
-   "t": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
-   "s": "Seit der Wahlniederlage der Republikaner bei den Midterms wird spekuliert, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht fest: Die Strippenzieherin Wiles geht, ihr Vize Miller übernimmt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T20:20:30+00:00"
-  },
-  {
    "t": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
    "s": "Erneut hat es in Europa zahlreiche Bombendrohungen gegeben - sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien spricht von einem hybriden Angriff, der \"kein Zufall\" sei. Irland sieht eine \"koordinierte Kampagne\".",
    "u": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/afrika/kenia-urteil-sektenfuehrer-100.html",
    "q": "Tagesschau",
    "d": "2026-11-06T17:08:10+00:00"
-  },
-  {
-   "t": "Auch Senat in Polen stimmt für Lockerung des Abtreibungsrechts",
-   "s": "Nach der ersten Kammer hat in Polen auch der Senat für eine Liberalisierung des Abtreibungsrechts gestimmt. Das letzte Wort hat aber Präsident Nawrocki. Dessen Zustimmung gilt als unwahrscheinlich.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-aenderung-abreibungsrecht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T16:19:52+00:00"
-  },
-  {
-   "t": "EU-Staatsanwaltschaft ermittelt nach Zugunglück in Spanien",
-   "s": "Nach dem schweren Zugunglück in Spanien mit 69 Toten ermittelt die EU-Staatsanwaltschaft wegen möglichen Subventionsbetrugs. Im Fokus stehen Gelder für die Bahnsicherheit. Bereits nach einem Unglück im Januar gab es Ermittlungen.",
-   "u": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-eu-ermittlungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T15:01:09+00:00"
-  },
-  {
-   "t": "Bombendrohungen auch gegen irische Medien",
-   "s": "Während weiter Flüge wegen Bombendrohungen umgeleitet werden, trifft es nun auch Medien: In Irland mussten Redaktionsgebäude geräumt werden. Es soll einen Zusammenhang geben. Aber wer steckt dahinter? Das bleibt unklar.",
-   "u": "https://www.tagesschau.de/ausland/europa/bombendrohung-oeffentlich-rechtlicher-sender-irland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T13:49:52+00:00"
-  },
-  {
-   "t": "EU-Kommission wirft TikTok Gesundheitsgefährdung vor",
-   "s": "Der \"Rabbit Hole\"-Effekt führt zu einer weiteren Konfrontation zwischen der EU und TikTok. Die Brüsseler werfen der App vor, die Gesundheit Nutzender zu gefährden. TikTok droht eine heftige Strafe.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-tiktok-mentale-gesundheit-gefaehrdung-algorithmus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T12:08:01+00:00"
   }
  ]
 }

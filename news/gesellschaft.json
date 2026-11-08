@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-08T00:37:18+00:00",
+ "updated": "2026-11-08T10:24:46+00:00",
  "items": [
+  {
+   "t": "Schusswaffenangriff in Krakau: Mutmaßlicher Täter tötete zunächst Eltern und Schwester",
+   "s": "Bevor er mitten in Krakau das Feuer eröffnete, erschoss der mutmaßliche Täter seine Familie. Unter den Verletzten sollen auch Deutsche sein.",
+   "u": "https://taz.de/Schusswaffenangriff-in-Krakau/!6228328/",
+   "q": "taz",
+   "d": "2026-11-08T07:40:00+00:00"
+  },
   {
    "t": "Nach dem Sieg über Vučić in Serbien: Ein friedliches Gesamtmonster",
    "s": "Der Sieg der Studentenliste in Serbien erfreut unsere Autorin. Zugleich fühlt sie sich wie ein Zombie inmitten eines Star-Trek-Kollektivs.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Konflikt-um-hoechstes-Gericht-in-Polen/!6227265/",
    "q": "taz",
    "d": "2026-11-04T16:33:00+00:00"
-  },
-  {
-   "t": "Politische Krise in der Slowakei: Robert Fico hat keine Mehrheit",
-   "s": "Der slowakische Ministerpräsident verliert wegen eines Streits um den ehemaligen Umweltminister Tomáš Taraba seine Mehrheit im Parlament.",
-   "u": "https://taz.de/Krise-in-der-Slowakei-Ministerpraesident-Robert-Fico-hat-keine-Mehrheit-mehr/!6227376/",
-   "q": "taz",
-   "d": "2026-11-04T16:30:00+00:00"
   }
  ]
 }
