@@ -1,13 +1,48 @@
 {
  "name": "Ausland",
- "updated": "2026-11-07T19:26:17+00:00",
+ "updated": "2026-11-08T00:37:14+00:00",
  "items": [
   {
+   "t": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
+   "s": "Bei der französischen Präsidentschaftswahl im kommenden April könnte er stark abschneiden: der linke Kandidat Mélenchon. Jetzt hat er sein Programm vorgestellt - und sich dabei nicht nur gegen die NATO positioniert.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T00:14:21+00:00"
+  },
+  {
    "t": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
-   "s": "Am Nachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt. Was bislang über die Tat bekannt ist.",
+   "s": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch Deutsche. Was bislang über die Tat bekannt ist.",
    "u": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
    "q": "Tagesschau",
-   "d": "2026-11-07T19:10:52+00:00"
+   "d": "2026-11-07T23:00:48+00:00"
+  },
+  {
+   "t": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
+   "s": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden. In seinem Wohnhaus wurden weitere Tote entdeckt.",
+   "u": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T21:51:26+00:00"
+  },
+  {
+   "t": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
+   "s": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
+   "u": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T20:33:23+00:00"
+  },
+  {
+   "t": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
+   "s": "Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden.",
+   "u": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T20:31:48+00:00"
+  },
+  {
+   "t": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
+   "s": "Zum Auftakt seiner Südamerika-Reise besucht Papst Leo XIV. Uruguay - ein Land, in dem der Glaube im Alltag kaum eine Rolle spielt. Doch im Armenviertel der Hauptstadt findet die soziale Arbeit der Kirche Anklang. Von Anne Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-07T19:56:52+00:00"
   },
   {
    "t": "Weniger Teilnehmer bei neuen Demos in Frankreich",
@@ -15,13 +50,6 @@
    "u": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
    "q": "Tagesschau",
    "d": "2026-11-07T18:57:56+00:00"
-  },
-  {
-   "t": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
-   "s": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 15 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden.",
-   "u": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T18:27:27+00:00"
   },
   {
    "t": "Wofür Trumps neuer Stabschef Miller steht",
@@ -108,13 +136,6 @@
    "d": "2026-11-06T17:48:38+00:00"
   },
   {
-   "t": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
-   "s": "Nach einem Treffen mit Kreml-Unterhändler Dmitrijew kündigte US-Präsident Trump ein \"großes\" Ukraine-Abkommen an. Alle würden begeistert sein, behauptete er. Doch Moskau und Brüssel dämpfen die Erwartungen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T17:46:51+00:00"
-  },
-  {
    "t": "Anführer von Hungersekte in Kenia zu 200 Jahren Haft verurteilt.",
    "s": "Der selbsternannte kenianische Pastor Mackenzie ist für den Mord an 191 Menschen verurteilt worden. Er soll sie aus angeblich religiösen Gründen zum Todesfasten verleitet haben - die meisten waren Kinder.",
    "u": "https://www.tagesschau.de/ausland/afrika/kenia-urteil-sektenfuehrer-100.html",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-tiktok-mentale-gesundheit-gefaehrdung-algorithmus-100.html",
    "q": "Tagesschau",
    "d": "2026-11-06T12:08:01+00:00"
-  },
-  {
-   "t": "Israels Präsident nach Regierungskonsultationen mit ernüchterndem Fazit",
-   "s": "Am Sonntag entscheidet Israels Staatspräsident Herzog, wem er den Regierungsauftrag gibt. Die Konsultationen verliefen bisher allerdings wenig konstruktiv. Von Julio Segador.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-konsultationen-auftrag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T08:25:15+00:00"
-  },
-  {
-   "t": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
-   "s": "Der Ruf nach höheren Löhnen, Steuergerechtigkeit und mehr Geld für Bildung hat in Frankreich erneut Hunderttausende auf die Straßen getrieben. Der Aktionstag verlief weitgehend friedlich, es kam mancherorts dennoch zu Ausschreitungen.",
-   "u": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T21:18:10+00:00"
-  },
-  {
-   "t": "Ukraine: Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
-   "s": "Ukrainische Antikorruptionsbehörden haben neue Ermittlungsergebnisse veröffentlicht, die schockieren: Der Korruptionsskandal zieht offenbar noch weitere Kreise als bisher bekannt - und betrifft auch Geheimdienst und Polizei. Von F. Kellermann.",
-   "u": "https://www.tagesschau.de/ausland/ukraine-korruption-116.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T17:03:34+00:00"
   }
  ]
 }
