@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-11-08T10:24:48+00:00",
+ "updated": "2026-11-08T19:42:05+00:00",
  "items": [
+  {
+   "t": "Parlamentswahl in Neuseeland: Vorübergehende Pattsituation",
+   "s": "Die Wahl hat keine eindeutige Mehrheit hervorgebracht. Entscheidend werden kleinere Parteien und die noch auszuzählenden Auslandsstimmen sein.",
+   "u": "https://taz.de/Parlamentswahl-in-Neuseeland/!6228377/",
+   "q": "taz",
+   "d": "2026-11-08T11:47:00+00:00"
+  },
   {
    "t": "Neuseeland hat gewählt: Knappes Rennen zwischen Konservativen und Sozialdemokraten",
    "s": "Regierungschef Luxon oder sein Herausforderer Ex-Premier Hipkins? Ersten Ergebnissen zufolge wird für beide die Regierungsbildung schwierig.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Haftbefehle-gegen-Taliban-Fuehrer/!6219258/",
    "q": "taz",
    "d": "2026-10-06T08:20:00+00:00"
-  },
-  {
-   "t": "CJP-Proteste in Indien: Die Kakerlaken demonstrieren wieder",
-   "s": "In den indischen Großstädten Mumbai und Delhi fordern Tausende Protestierende den Rücktritt von Wahlkommissionschef Gyanesh Kumar.",
-   "u": "https://taz.de/CJP-Proteste-in-Indien/!6218558/",
-   "q": "taz",
-   "d": "2026-10-03T10:08:00+00:00"
   }
  ]
 }

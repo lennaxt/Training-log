@@ -1,7 +1,42 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-08T10:24:45+00:00",
+ "updated": "2026-11-08T19:42:03+00:00",
  "items": [
+  {
+   "t": "Gen-Z-Proteste in Deutschland: Unistreiks angekündigt",
+   "s": "„Gen Z regelt Studis“ kündigt an, am 20. November auch Universitäten lahmlegen zu wollen. Dazu soll es nun in vielen Städten Vollversammlungen geben.",
+   "u": "https://taz.de/Gen-Z-Proteste-in-Deutschland/!6228544/",
+   "q": "taz",
+   "d": "2026-11-08T19:00:00+00:00"
+  },
+  {
+   "t": "Ilse Aigner wird Bundespräsidentin: Eine von uns",
+   "s": "Mit Ilse Aigner wird nicht nur erstmals eine Frau Bundespräsidentin – sondern auch ein neuer Politikertypus. Die Erwartungen jedenfalls sind groß.",
+   "u": "https://taz.de/Ilse-Aigner-wird-Bundespraesidentin/!6228290/",
+   "q": "taz",
+   "d": "2026-11-08T17:10:00+00:00"
+  },
+  {
+   "t": "Stolpersteine für NS-Opfer: Gedenken in Heidenau wandert auf den Friedhof",
+   "s": "Mit Stimmen von Rechtsextremen hatte der Stadtrat beschlossen, keine neuen Stolpersteine zu genehmigen. Ein Mahnrundgang zeigt: Bedarf gäbe es.",
+   "u": "https://taz.de/Stolpersteine-fuer-NS-Opfer/!6228374/",
+   "q": "taz",
+   "d": "2026-11-08T16:47:00+00:00"
+  },
+  {
+   "t": "Palästina-Flagge vor dem Bundestag: Aktivist ersetzt Deutschland-Flagge",
+   "s": "Am Sonntagmittag hat ein Aktivist die Flagge Deutschlands vor dem Bundestag gegen eine Palästina-Flagge ersetzt. Die taz ist vor Ort.",
+   "u": "https://taz.de/Palaestina-Fahne-vor-dem-Bundestag/!6228451/",
+   "q": "taz",
+   "d": "2026-11-08T11:52:00+00:00"
+  },
+  {
+   "t": "Leak bei Projekt „Ein Prozent“: AfD-Geld fließt in rechtsextremen Verein",
+   "s": "„Ein Prozent“ sammelt Spenden und fördert damit rechtsextreme Projekte. Wer dafür Geld gibt, war bisher unklar. Nach einem Datenleak nun nicht mehr.",
+   "u": "https://taz.de/Leak-bei-Projekt-Ein-Prozent/!6228327/",
+   "q": "taz",
+   "d": "2026-11-08T10:36:00+00:00"
+  },
   {
    "t": "Aigners Nominierung: Die Frau der Stunde",
    "s": "Ilse Aigner als Bundespräsidentin – das ist eine gute Wahl. Doch wie sie es wurde, das wollen wir mal schnell wieder vergessen.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Bundeskongress-der-Linksjugend/!6227934/",
    "q": "taz",
    "d": "2026-11-05T19:03:00+00:00"
-  },
-  {
-   "t": "Freie Wähler nach Aiwanger: Gesicht gesucht",
-   "s": "Die Freien Wähler brauchen einen Nachfolger für den verstorbenen Hubert Aiwanger. Und noch einen. Und noch einen … Keine leichte Sache.",
-   "u": "https://taz.de/Freie-Waehler-nach-Aiwanger/!6228078/",
-   "q": "taz",
-   "d": "2026-11-05T19:02:00+00:00"
-  },
-  {
-   "t": "Debatte im Bundestag: Pflegesystem bleibt Pflegefall",
-   "s": "Im Bundestag wurde in erster Lesung über die Pflegereform debattiert. Klar wurde wieder, woran es im System mangelt: an Solidarität mit den Pflegenden.",
-   "u": "https://taz.de/Debatte-im-Bundestag/!6221091/",
-   "q": "taz",
-   "d": "2026-11-05T18:59:00+00:00"
-  },
-  {
-   "t": "Bericht über wachsende Ungleichheit: Rassismus als Ablenkungsmanöver",
-   "s": "Vor einem Jahr löste Friedrich Merz die Stadtbild-Debatte aus. Dabei ist die Migration kein Problem. Die Gesellschaft leidet an etwas anderem.",
-   "u": "https://taz.de/Bericht-ueber-wachsende-Ungleichheit/!6227711/",
-   "q": "taz",
-   "d": "2026-11-05T16:58:00+00:00"
-  },
-  {
-   "t": "Erster Migra-Streik in Halle: Täglich angefeindet",
-   "s": "In Halle haben am Donnerstag rund 30 Mi­gran­t*in­nen ihre Geschäfte geschlossen. Es ist ein Protest gegen den zunehmenden Rassismus in Sachsen-Anhalt.",
-   "u": "https://taz.de/Erster-Migra-Streik-in-Halle/!6227722/",
-   "q": "taz",
-   "d": "2026-11-05T16:40:00+00:00"
-  },
-  {
-   "t": "Pflegereform im Bundestag: Das Pflege-Spargesetz soll „nachgebessert“ werden",
-   "s": "Bundesgesundheitsminister Carsten Linnemann (CDU) will „harte Brüche“ für Pflegehaushalte zum Jahresbeginn 2027 vermeiden.",
-   "u": "https://taz.de/Pflegereform-im-Bundestag/!6227720/",
-   "q": "taz",
-   "d": "2026-11-05T16:19:00+00:00"
   }
  ]
 }

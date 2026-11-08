@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-08T10:24:43+00:00",
+ "updated": "2026-11-08T19:42:01+00:00",
  "items": [
+  {
+   "t": "Viele Gebäude weiterhin ohne Elementarschadenversicherung",
+   "s": "Immer häufiger führen Starkregen und Überschwemmungen zu teuren Schäden an Häusern. Nur gut die Hälfte der Gebäude in Deutschland sind gegen solche Folgen abgesichert. Experten sehen Handlungsbedarf. Von Katharina Wilhelm.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T15:28:00+00:00"
+  },
   {
    "t": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
    "s": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/energie/energiebilanz-heizoel-100.html",
    "q": "Tagesschau",
    "d": "2026-11-04T16:05:31+00:00"
-  },
-  {
-   "t": "Weitere Fälle von gehackten Kühlanlagen bekannt geworden",
-   "s": "In Deutschland und Frankreich sind neue Fälle von durch Hacker manipulierten Kühlsystemen bekannt geworden. In Bayern traf es eine Metzgerei. In Frankreich einen besonders sensiblen Bereich: den Blutspendedienst.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-kuehlanlagen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T14:42:11+00:00"
   }
  ]
 }

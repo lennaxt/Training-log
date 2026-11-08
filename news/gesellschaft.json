@@ -1,7 +1,35 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-08T10:24:46+00:00",
+ "updated": "2026-11-08T19:42:03+00:00",
  "items": [
+  {
+   "t": "Schusswaffenangriff in Krakau: Rechtsextremist tötet mindestens 6 Menschen",
+   "s": "Ein 24-Jähriger schießt mitten auf dem Krakauer Hauptmarkt um sich. Mindestens 6 Menschen sterben. Schon jetzt ist klar: Der Täter hatte rechtsextreme Ansichten.",
+   "u": "https://taz.de/Schusswaffenangriff-in-Krakau/!6228372/",
+   "q": "taz",
+   "d": "2026-11-08T16:46:00+00:00"
+  },
+  {
+   "t": "Frankreichs Linke: Mélenchon will „alles verändern“",
+   "s": "Der Linkspolitiker will der Kandidat der sozialen Gerechtigkeit sein und den Macronismus beenden. 2027 hat er erstmals die Chance auf die Stichwahl.",
+   "u": "https://taz.de/Frankreichs-Linke/!6228381/",
+   "q": "taz",
+   "d": "2026-11-08T15:15:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Kraftwerk läuft mit Notstrom",
+   "s": "Das AKW in Saporischschja hat die externe Stromversorgung verloren. Bei den geplanten Ukraine-Gesprächen werden auch europäische Vertreter dabei sein.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6228502/",
+   "q": "taz",
+   "d": "2026-11-08T14:11:00+00:00"
+  },
+  {
+   "t": "Sozialproteste Frankreich: Wo die Blockaden wirklich begannen",
+   "s": "Die Sozialproteste haben ganz Frankreich erfasst. Dennoch finden die Menschen, die den Protest auf Mayotte als erstes angestoßen haben, wenig Gehör.",
+   "u": "https://taz.de/Sozialproteste-Frankreich/!6224170/",
+   "q": "taz",
+   "d": "2026-11-08T13:43:00+00:00"
+  },
   {
    "t": "Schusswaffenangriff in Krakau: Mutmaßlicher Täter tötete zunächst Eltern und Schwester",
    "s": "Bevor er mitten in Krakau das Feuer eröffnete, erschoss der mutmaßliche Täter seine Familie. Unter den Verletzten sollen auch Deutsche sein.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/LFI-Politikerin-ueber-Frankreichs-Protest/!6227263/",
    "q": "taz",
    "d": "2026-11-05T06:05:00+00:00"
-  },
-  {
-   "t": "Neuwahlen in Spanien: Totgesagte leben länger",
-   "s": "Nach dem Zugunglück in Spanien tritt Verkehrsminister Oscar Puente zurück. Für Regierungschef Sánchez ist das eine Flucht nach vorn.",
-   "u": "https://taz.de/Neuwahlen-in-Spanien/!6227269/",
-   "q": "taz",
-   "d": "2026-11-04T18:51:00+00:00"
-  },
-  {
-   "t": "Neuer Generalstreik in Frankreich: Klassenkampf und Kufija",
-   "s": "Frankreichs Jugend protestiert weiter gegen schlechte Schulen und das teure Leben. Über die Palästinasolidarität findet Jean-Luc Mélenchons Linke Anschluss an die Jugendbewegung.",
-   "u": "https://taz.de/Neuer-Generalstreik-in-Frankreich/!6227249/",
-   "q": "taz",
-   "d": "2026-11-04T18:50:00+00:00"
-  },
-  {
-   "t": "Friedensnobelpreisträger Ales Bialiatski: Warum wir das Völkerrecht brauchen",
-   "s": "Menschenrechte erscheinen als ein veraltetes Konzept. Dabei hat sich die Welt nichts Besseres einfallen lassen, sagt Friedensnobelpreisträger Ales Bialiatski.",
-   "u": "https://taz.de/Friedensnobelpreistraeger-Ales-Bialiatski/!6227185/",
-   "q": "taz",
-   "d": "2026-11-04T18:49:00+00:00"
-  },
-  {
-   "t": "Konflikt um höchstes Gericht in Polen: Das Verfassungsgericht geht wieder an die Arbeit",
-   "s": "Die polnische Mitte-links-Regierung unter Ministerpräsident Donald Tusk versucht alles, um den demokratischen Rechtsstaat wiederherzustellen.",
-   "u": "https://taz.de/Konflikt-um-hoechstes-Gericht-in-Polen/!6227265/",
-   "q": "taz",
-   "d": "2026-11-04T16:33:00+00:00"
   }
  ]
 }
