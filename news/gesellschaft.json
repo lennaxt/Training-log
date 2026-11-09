@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-09T00:55:28+00:00",
+ "updated": "2026-11-09T11:34:26+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: „Koalition der Willigen“ hält erstes Manöver ab",
+   "s": "Kyjiws Verbündete bauen eine Truppe auf, um einen Waffenstillstand mit Russland abzusichern. Die Europäer wollen bei Verhandlungen mit am Tisch sitzen.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6228555/",
+   "q": "taz",
+   "d": "2026-11-09T10:12:00+00:00"
+  },
+  {
+   "t": "Griechenland und Senegal: Zwei Bootsunglücke mit vielen Todesopfern",
+   "s": "Sowohl im Senegal als auch in Griechenland sind Menschen bei ihrem Fluchtversuch gestorben. Weitere gelten noch als vermisst.",
+   "u": "https://taz.de/Griechenland-und-Senegal/!6228557/",
+   "q": "taz",
+   "d": "2026-11-09T08:54:00+00:00"
+  },
+  {
+   "t": "Schüsse in Krakau: Schütze im Krankenhaus gestorben",
+   "s": "Der Täter der Schusswaffenattacke von Krakau ist tot. Er starb am Montagmorgen an seinen Verletzungen im Krankenhaus.",
+   "u": "https://taz.de/Schuesse-in-Krakau/!6228546/",
+   "q": "taz",
+   "d": "2026-11-09T07:29:00+00:00"
+  },
+  {
+   "t": "Gegengipfel zur COP31 in Antalya: Die Klimakonferenz der anderen",
+   "s": "Parallel zur COP31 kommen in Antalya Gewerkschafter und Klimaaktivisten zusammen. Ihr Gegengipfel soll Klimagerechtigkeit und Demokratie verbinden.",
+   "u": "https://taz.de/Gegengipfel-zur-COP31-in-Antalya/!6228385/",
+   "q": "taz",
+   "d": "2026-11-09T06:42:00+00:00"
+  },
+  {
+   "t": "COP31 geht los: Wie funktioniert ein Klimagipfel?",
+   "s": "Wer verhandelt, wie Beschlüsse entstehen und worüber die Staaten in Antalya streiten: Die wichtigsten Fragen und Antworten zur COP31.",
+   "u": "https://taz.de/COP31-geht-los/!6228383/",
+   "q": "taz",
+   "d": "2026-11-09T06:41:00+00:00"
+  },
   {
    "t": "Schusswaffenangriff in Krakau: Rechtsextremist tötet mindestens 6 Menschen",
    "s": "Ein 24-Jähriger schießt mitten auf dem Krakauer Hauptmarkt um sich. Mindestens 6 Menschen sterben. Schon jetzt ist klar: Der Täter hatte rechtsextreme Ansichten.",
@@ -17,7 +52,7 @@
    "d": "2026-11-08T15:15:00+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Kraftwerk läuft mit Notstrom",
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Kraftwerk läuft mit Notstrom",
    "s": "Das AKW in Saporischschja hat die externe Stromversorgung verloren. Bei den geplanten Ukraine-Gesprächen werden auch europäische Vertreter dabei sein.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6228502/",
    "q": "taz",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Sozialproteste-in-Frankreich/!6227721/",
    "q": "taz",
    "d": "2026-11-05T18:57:00+00:00"
-  },
-  {
-   "t": "Sozialproteste in Frankreich: Mit Fanfaren und Trompeten",
-   "s": "Mehrere Hunderttausend Menschen sind in Frankreich auf die Straße gegangen. Dass die Behörden die Demos erlaubt haben, gibt der Bewegung neuen Auftrieb.",
-   "u": "https://taz.de/Sozialproteste-in-Frankreich/!6228041/",
-   "q": "taz",
-   "d": "2026-11-05T18:56:00+00:00"
-  },
-  {
-   "t": "Diem25 in Existenznöten: Bank zieht bei Varoufakis den Stecker",
-   "s": "Ein Geldinstitut in Belgien sperrt das Konto der linken Bewegung des ehemaligen griechischen Finanzministers. Diem25 droht eine existenzielle Krise.",
-   "u": "https://taz.de/Diem25-in-Existenznoeten/!6227520/",
-   "q": "taz",
-   "d": "2026-11-05T16:43:00+00:00"
-  },
-  {
-   "t": "Verhandlung in London: Russell Brand wegen Vergewaltigung schuldig gesprochen",
-   "s": "Der britische Schauspieler Russell Brand musste sich wegen Vorwürfen sexueller Gewalt verantworten. Er wurde in mehreren Punkten für schuldig befunden.",
-   "u": "https://taz.de/Verhandlung-in-London/!6228081/",
-   "q": "taz",
-   "d": "2026-11-05T16:16:00+00:00"
-  },
-  {
-   "t": "Flughäfen europaweit: Bombendrohungen gegen Passagierflugzeuge",
-   "s": "Erneut gibt es mehrere Bombendrohungen gegen Flugzeuge in Europa. Die Hintergründe sind bisher nicht bekannt.",
-   "u": "https://taz.de/Flughaefen-europaweit/!6227971/",
-   "q": "taz",
-   "d": "2026-11-05T14:16:00+00:00"
-  },
-  {
-   "t": "LFI-Politikerin über Frankreichs Protest: „Bravo, Gen Z!“",
-   "s": "Am 5. November ist in Frankreich zum Generalstreik aufgerufen. Die Regierung antworte auf soziale Not mit Gewalt, kritisiert LFI-Politikerin Clémence Guetté.",
-   "u": "https://taz.de/LFI-Politikerin-ueber-Frankreichs-Protest/!6227263/",
-   "q": "taz",
-   "d": "2026-11-05T06:05:00+00:00"
   }
  ]
 }

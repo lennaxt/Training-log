@@ -1,7 +1,84 @@
 {
  "name": "Inland",
- "updated": "2026-11-09T00:55:23+00:00",
+ "updated": "2026-11-09T11:34:19+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: „Koalition der Willigen“ hält erstes Manöver ab",
+   "s": "Kyjiws Verbündete bauen eine Truppe auf, um einen Waffenstillstand mit Russland abzusichern. Die Europäer wollen bei Verhandlungen mit am Tisch sitzen.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6228555/",
+   "q": "taz",
+   "d": "2026-11-09T10:12:00+00:00"
+  },
+  {
+   "t": "Das ist der Weg zum neuen Staatsoberhaupt",
+   "s": "Es soll eine Frau werden - und sie kommt aus der CSU: Ilse Aigner wäre in mehrfacher Hinsicht eine Premiere für Deutschland. Aber gewählt ist das neue Staatsoberhaupt noch nicht. Wer wählt da überhaupt und könnte es noch weitere Kandidaten geben?",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentin-bundesversammlung-aigner-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T10:09:44+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Nahost-Konflikt +++: Tote nach Regenfällen im Gazastreifen",
+   "s": "Heftige Regenfälle im Gazastreifen überschwemmen die Zelte Geflüchteter. US-Präsident Trump will mit Vertretern von Katar zum Iran-Konflikt sprechen.",
+   "u": "https://taz.de/-Nachrichten-im-Nahost-Konflikt-/!6228554/",
+   "q": "taz",
+   "d": "2026-11-09T09:31:00+00:00"
+  },
+  {
+   "t": "Schneider fordert Alternative zur Plastiksteuer",
+   "s": "\"Die Plastiksteuer machen wir nicht.\" Die Ansage von Unionsfraktionschef Frei war klar und deutlich - doch mit den Einnahmen daraus wird schon geplant. Umweltminister Schneider sieht jetzt die Union in der Pflicht.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T09:03:50+00:00"
+  },
+  {
+   "t": "Griechenland und Senegal: Zwei Bootsunglücke mit vielen Todesopfern",
+   "s": "Sowohl im Senegal als auch in Griechenland sind Menschen bei ihrem Fluchtversuch gestorben. Weitere gelten noch als vermisst.",
+   "u": "https://taz.de/Griechenland-und-Senegal/!6228557/",
+   "q": "taz",
+   "d": "2026-11-09T08:54:00+00:00"
+  },
+  {
+   "t": "Schüsse in Krakau: Schütze im Krankenhaus gestorben",
+   "s": "Der Täter der Schusswaffenattacke von Krakau ist tot. Er starb am Montagmorgen an seinen Verletzungen im Krankenhaus.",
+   "u": "https://taz.de/Schuesse-in-Krakau/!6228546/",
+   "q": "taz",
+   "d": "2026-11-09T07:29:00+00:00"
+  },
+  {
+   "t": "Opferbeauftragte Zupke warnt vor Verdrehung der DDR-Geschichte",
+   "s": "Der 9. November spielt eine besondere Rolle in der deutschen Geschichte. Die SED-Opferbeauftragte mahnt, das Erbe der friedlichen Revolution nicht politisch zu missbrauchen. Kanzler Merz rief zum Schutz der Demokratie auf.",
+   "u": "https://www.tagesschau.de/inland/november-gedenken-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T07:19:35+00:00"
+  },
+  {
+   "t": "Gegengipfel zur COP31 in Antalya: Die Klimakonferenz der anderen",
+   "s": "Parallel zur COP31 kommen in Antalya Gewerkschafter und Klimaaktivisten zusammen. Ihr Gegengipfel soll Klimagerechtigkeit und Demokratie verbinden.",
+   "u": "https://taz.de/Gegengipfel-zur-COP31-in-Antalya/!6228385/",
+   "q": "taz",
+   "d": "2026-11-09T06:42:00+00:00"
+  },
+  {
+   "t": "COP31 geht los: Wie funktioniert ein Klimagipfel?",
+   "s": "Wer verhandelt, wie Beschlüsse entstehen und worüber die Staaten in Antalya streiten: Die wichtigsten Fragen und Antworten zur COP31.",
+   "u": "https://taz.de/COP31-geht-los/!6228383/",
+   "q": "taz",
+   "d": "2026-11-09T06:41:00+00:00"
+  },
+  {
+   "t": "ARD-Umfrage: Was die Deutschen an der Demokratie kritisieren",
+   "s": "Die Demokratie genießt breiten Rückhalt. Aber nur jeder Dritte ist der Meinung, dass sie in Deutschland gut funktioniert. Warum das so ist und was helfen kann, zeigt die ARD-Aktion \"Deine Meinung zählt!\". Von F. Riesewieck und B. Kießling.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/sorge-um-demokratie-umfrage-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T04:01:12+00:00"
+  },
+  {
+   "t": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
+   "s": "Lange hatte er darüber nachgedacht und sich zurückgehalten - am Abend sprach sich Kanzler Merz dann für Ilse Aigner als Bundespräsidentin aus. Heute wollen beide offiziell vor die Presse treten. Von Sabine Henkel.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T03:34:40+00:00"
+  },
   {
    "t": "Unionsfraktionschef erteilt Plastiksteuer eine Absage",
    "s": "Unionsfraktionschef Frei erteilt der geplanten Plastiksteuer eine Absage. Sie sei \"wirtschaftlich und ökologisch falsch\". Anders klingt das bei SPD-Fraktionschef Miersch, der auf laufende Verhandlungen verweist.",
@@ -45,6 +122,13 @@
    "d": "2026-11-08T18:53:14+00:00"
   },
   {
+   "t": "Transnationale Repression - Wenn Staaten ihre Kritiker im Ausland verfolgen",
+   "s": "Einschüchterung, Überwachung, Gewalt: Transnationale Repression bedeutet, dass autoritäre Staaten wie Russland, China oder die Türkei ihre Kritiker auch im Ausland verfolgen. Wie Deutschland damit umgeht – und wo die Grenzen staatlicher Macht liegen. (Erstsendung 27.8.26)Guckelsberger, Florian",
+   "u": "https://www.deutschlandfunk.de/transnationale-repression-wenn-staaten-ihre-kritiker-im-ausland-verfolgen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-08T17:40:00+00:00"
+  },
+  {
    "t": "Neuer Stabschef für Trump: Der Schlimmste zum Schluss",
    "s": "Stephen Miller gilt als Architekt von Trumps radikaler Abschiebepolitik. Nun wird der Hardliner Stabschef im Weißen Haus.",
    "u": "https://taz.de/Neuer-Stabschef-fuer-Trump/!6228380/",
@@ -85,90 +169,6 @@
    "u": "https://taz.de/Frankreichs-Linke/!6228381/",
    "q": "taz",
    "d": "2026-11-08T15:15:00+00:00"
-  },
-  {
-   "t": "Kommentar zur Debatte um Migration und Gewalt - Das Feindbild vom \"migrantischen Milieu\"",
-   "s": "Ob Gewalt, Bildungsmisere oder das Stadtbild: Verantwortlich für Probleme sind angeblich Migranten. Doch Begriffe wie „migrantisches Milieu“ stigmatisieren Millionen Menschen. Statt Sündenböcke zu suchen, braucht es Fakten und politische Antworten.Von Luise Sammann",
-   "u": "https://www.deutschlandfunk.de/jugendproteste-alexander-dobrindt-boris-pistorius-migrantische-milieus-kommentar-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-08T15:10:00+00:00"
-  },
-  {
-   "t": "Regierungsbildung in Israel: Netanjahus Rivale bekommt seine Chance",
-   "s": "Israels Oppositionsführer Eisenkot erhält den Auftrag zur Regierungsbildung. Seine Suche nach einer Mehrheit ähnelt aber einer Quadratur des Kreises.",
-   "u": "https://taz.de/Regierungsbildung-in-Israel/!6228378/",
-   "q": "taz",
-   "d": "2026-11-08T14:42:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Kraftwerk läuft mit Notstrom",
-   "s": "Das AKW in Saporischschja hat die externe Stromversorgung verloren. Bei den geplanten Ukraine-Gesprächen werden auch europäische Vertreter dabei sein.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6228502/",
-   "q": "taz",
-   "d": "2026-11-08T14:11:00+00:00"
-  },
-  {
-   "t": "Sozialproteste Frankreich: Wo die Blockaden wirklich begannen",
-   "s": "Die Sozialproteste haben ganz Frankreich erfasst. Dennoch finden die Menschen, die den Protest auf Mayotte als erstes angestoßen haben, wenig Gehör.",
-   "u": "https://taz.de/Sozialproteste-Frankreich/!6224170/",
-   "q": "taz",
-   "d": "2026-11-08T13:43:00+00:00"
-  },
-  {
-   "t": "Palästina-Flagge vor dem Bundestag: Aktivist ersetzt Deutschland-Flagge",
-   "s": "Am Sonntagmittag hat ein Aktivist die Flagge Deutschlands vor dem Bundestag gegen eine Palästina-Flagge ersetzt. Die taz ist vor Ort.",
-   "u": "https://taz.de/Palaestina-Fahne-vor-dem-Bundestag/!6228451/",
-   "q": "taz",
-   "d": "2026-11-08T11:52:00+00:00"
-  },
-  {
-   "t": "Parlamentswahl in Neuseeland: Vorübergehende Pattsituation",
-   "s": "Die Wahl hat keine eindeutige Mehrheit hervorgebracht. Entscheidend werden kleinere Parteien und die noch auszuzählenden Auslandsstimmen sein.",
-   "u": "https://taz.de/Parlamentswahl-in-Neuseeland/!6228377/",
-   "q": "taz",
-   "d": "2026-11-08T11:47:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Nahost-Krieg +++: Huthi-Angriffe in Saudi-Arabien",
-   "s": "Die Huthi-Miliz greift einen Wolkenkratzer in Riad an. Im Iran wurde drei Männer hingerichtet, die zuvor gegen die Regierung protestiert hatten.",
-   "u": "https://taz.de/-Nachrichten-im-Nahost-Krieg-/!6228373/",
-   "q": "taz",
-   "d": "2026-11-08T10:45:00+00:00"
-  },
-  {
-   "t": "Leak bei Projekt „Ein Prozent“: AfD-Geld fließt in rechtsextremen Verein",
-   "s": "„Ein Prozent“ sammelt Spenden und fördert damit rechtsextreme Projekte. Wer dafür Geld gibt, war bisher unklar. Nach einem Datenleak nun nicht mehr.",
-   "u": "https://taz.de/Leak-bei-Projekt-Ein-Prozent/!6228327/",
-   "q": "taz",
-   "d": "2026-11-08T10:36:00+00:00"
-  },
-  {
-   "t": "Dutzende Tote in der DR Kongo: Massaker mitten im Ebola-Gebiet",
-   "s": "Die Miliz ADF tötet in Ostkongo mindestens 33 Menschen beim Überfall auf einen Ort, wo Ebola-Kranke behandelt werden. Die sind nun auf der Flucht.",
-   "u": "https://taz.de/Dutzende-Tote-in-der-DR-Kongo/!6228340/",
-   "q": "taz",
-   "d": "2026-11-08T10:14:00+00:00"
-  },
-  {
-   "t": "Pressesprecher von Trump: US-Präsident will Posten mit Kampfsportler besetzen",
-   "s": "Seit Mitte Oktober ist der Posten von Trumps Pressesprecher unbesetzt. Nun will er einen alten Freund dafür nominieren: den Kampfsportler Dana White.",
-   "u": "https://taz.de/Pressesprecher-von-Trump/!6228367/",
-   "q": "taz",
-   "d": "2026-11-08T10:01:00+00:00"
-  },
-  {
-   "t": "Aigners Nominierung: Die Frau der Stunde",
-   "s": "Ilse Aigner als Bundespräsidentin – das ist eine gute Wahl. Doch wie sie es wurde, das wollen wir mal schnell wieder vergessen.",
-   "u": "https://taz.de/Aigners-Nominierung/!6228312/",
-   "q": "taz",
-   "d": "2026-11-08T07:46:00+00:00"
-  },
-  {
-   "t": "Schusswaffenangriff in Krakau: Mutmaßlicher Täter tötete zunächst Eltern und Schwester",
-   "s": "Bevor er mitten in Krakau das Feuer eröffnete, erschoss der mutmaßliche Täter seine Familie. Unter den Verletzten sollen auch Deutsche sein.",
-   "u": "https://taz.de/Schusswaffenangriff-in-Krakau/!6228328/",
-   "q": "taz",
-   "d": "2026-11-08T07:40:00+00:00"
   }
  ]
 }

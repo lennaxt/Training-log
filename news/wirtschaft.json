@@ -1,27 +1,55 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-09T00:55:25+00:00",
+ "updated": "2026-11-09T11:34:22+00:00",
  "items": [
+  {
+   "t": "Streiks und neue Gespräche in Bayerns Metall- und Elektroindustrie",
+   "s": "Zum Start der dritten Verhandlungsrunde hat die IG Metall zu einer großen Warnstreik-Kundgebung in Ingolstadt aufgerufen. Erwartet wurden mehr als 15.000 Beschäftigte, unter anderem von Audi und Airbus.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/streiks-tarifgespraeche-ig-metall-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T10:52:08+00:00"
+  },
+  {
+   "t": "Marktbericht: Anleger nach KI-Crash weiter verunsichert",
+   "s": "Der DAX macht zwar einen Teil der Kursverluste vom Freitag wieder wett, aber noch scheuen die Investoren das Risiko. Unterstützung kommt von Konjunkturseite, die Exporte fallen unerwartet stark aus.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T09:25:58+00:00"
+  },
+  {
+   "t": "Hoffen auf Ende des Iran-Krieges: Ölpreise deutlich gesunken",
+   "s": "Noch ist kein Abkommen unterzeichnet - doch Anleger glauben an ein Ende des US-Iran-Krieges. Das zeigt sich an den Ölpreisen. Und auch an der Tankstelle sinken die Spritpreise weiter.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreise-gesunken-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T08:52:19+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 09.11.2026",
+   "s": "Update Wirtschaft vom 09.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1680600.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T08:48:08+00:00"
+  },
+  {
+   "t": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+   "s": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T03:32:51+00:00"
+  },
+  {
+   "t": "Unionsfraktionschef erteilt Plastiksteuer eine Absage",
+   "s": "Unionsfraktionschef Frei erteilt der geplanten Plastiksteuer eine Absage. Sie sei \"wirtschaftlich und ökologisch falsch\". Anders klingt das bei SPD-Fraktionschef Miersch, der auf laufende Verhandlungen verweist.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T20:38:04+00:00"
+  },
   {
    "t": "Viele Gebäude weiterhin ohne Elementarschadenversicherung",
    "s": "Immer häufiger führen Starkregen und Überschwemmungen zu teuren Schäden an Häusern. Nur gut die Hälfte der Gebäude in Deutschland sind gegen solche Folgen abgesichert. Experten sehen Handlungsbedarf. Von Katharina Wilhelm.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html",
    "q": "Tagesschau",
    "d": "2026-11-08T15:28:00+00:00"
-  },
-  {
-   "t": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
-   "s": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-08T07:35:33+00:00"
-  },
-  {
-   "t": "Millionen junge Menschen ohne Berufsausbildung in Deutschland",
-   "s": "Die Zahl junger Erwachsener ohne Berufsabschluss ist alarmierend. Sie haben schlechtere Chancen am Jobmarkt und verdienen weniger. Zugleich suchen viele Unternehmen Fachkräfte. Von Nicole Würth.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/junge-menschen-keine-berufsausbildung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T15:59:36+00:00"
   },
   {
    "t": "Moderne Sklaverei: Verboten, aber weltweit verbreitet",
@@ -31,13 +59,6 @@
    "d": "2026-11-07T12:30:00+00:00"
   },
   {
-   "t": "Sanierung der Bahnstrecke Berlin-Hannover: Massive Probleme für Pendler",
-   "s": "Dass die Generalsanierung der Bahnstrecke Berlin-Hannover massive Verspätungen bedeutet, war klar. Doch nun zeigt sich: Die Pünktlichkeit auf der Ausweichstrecke ist selbst für Bahnverhältnisse unterdurchschnittlich. Von Andre Kartschall.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-berlin-hannover-bauarbeiten-pendler-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T02:54:24+00:00"
-  },
-  {
    "t": "Wirtschaft vor acht vom 06.11.2026",
    "s": "Wirtschaft vor acht vom 06.11.2026",
    "u": "https://www.tagesschau.de/video/video-1679460.html",
@@ -45,25 +66,11 @@
    "d": "2026-11-06T18:51:48+00:00"
   },
   {
-   "t": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
-   "s": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus - und setzen auch den deutschen Aktienmarkt unter Druck. Die US-Börsen konnten sich inzwischen wieder berappeln.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T17:30:36+00:00"
-  },
-  {
    "t": "Schwierige Rohstoffhoffnung: Gold für Europas Energiewende?",
    "s": "Gold könnte Europas Rohstoffproblem entschärfen: Beim Abbau des Edelmetalls fallen oft auch Stoffe wie Kobalt, Nickel oder Seltene Erden an. Doch Umweltbedenken, Widerstand vor Ort und fehlende Investitionen stehen dem Ausbau des Bergbaus entgegen.",
    "u": "https://www.deutschlandfunk.de/goldabbau-europa-finnland-energiewende-seltene-erden-kritische-rohstoffe-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-11-06T15:39:00+00:00"
-  },
-  {
-   "t": "Marktbericht: Zweifel am KI-Geschäft belasten die Branche",
-   "s": "Der weltweite Kursrutsch bei Tech- und Chipwerten schürt Zweifel, ob sich die hohen KI-Investitionen auszahlen. Zugleich wächst vor dem geplanten Börsengang der Widerstand gegen die Billionenbewertung von Anthropic. Von Melanie Böff.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T13:22:11+00:00"
   },
   {
    "t": "Tesla will Cybertruck-Produktion in Texas einstellen",
@@ -113,13 +120,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html",
    "q": "Tagesschau",
    "d": "2026-11-06T09:13:00+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 06.11.2026",
-   "s": "Update Wirtschaft vom 06.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1679068.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T08:52:22+00:00"
   },
   {
    "t": "Ressourcenverbrauch vieler Rechenzentren nicht öffentlich einsehbar",

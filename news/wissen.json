@@ -1,7 +1,21 @@
 {
  "name": "Wissen",
- "updated": "2026-11-09T00:55:26+00:00",
+ "updated": "2026-11-09T11:34:23+00:00",
  "items": [
+  {
+   "t": "Weltklimakonferenz in Antalya, Folgen des Klimawandels im Hohen Venn",
+   "s": "Weltklimakonferenz in Antalya, Folgen des Klimawandels im Hohen Venn",
+   "u": "https://www.tagesschau.de/video/video-1680628.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T09:32:14+00:00"
+  },
+  {
+   "t": "31. Klimakonferenz der UN startet - Guterres fordert mehr Einsatz",
+   "s": "Im türkischen Antalya beginnt die 31. Klimakonferenz der Vereinten Nationen. Zwei Wochen lang beraten Vertreter von fast 200 Ländern über Maßnahmen gegen die Erderwärmung. UN-Generalsekretär Guterres verweist auf die Dringlichkeit.",
+   "u": "https://www.tagesschau.de/wissen/klima/cop-in-antalya-beginnt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T03:59:05+00:00"
+  },
   {
    "t": "Klimagipfel · Wo steht Deutschlands Klimapolitik?",
    "s": "Deutschland hat seine CO₂-Emissionen seit 1990 fast halbiert. Dennoch verfehlt das Land bislang seine Klimaziele. Bei der Weltklimakonferenz geht es nun darum, Öl, Kohle und Gas zu ersetzen.",
@@ -71,20 +85,6 @@
    "u": "https://www.tagesschau.de/video/video-1675930.html",
    "q": "Tagesschau",
    "d": "2026-11-01T08:01:01+00:00"
-  },
-  {
-   "t": "Chip im Kopf: Wenn Computer Gedanken verstehen lernen",
-   "s": "Was lange wie Science-Fiction klang, ist inzwischen Realität: Chips im Gehirn helfen gelähmten Menschen, Computer mit ihren Gedanken zu steuern. Forscher hoffen auf neue Therapien, Ethiker warnen vor Risiken. Von Katharina Bruns.",
-   "u": "https://www.tagesschau.de/wissen/computer-chip-gehirn-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-31T09:17:08+00:00"
-  },
-  {
-   "t": "Abschluss der UN-Weltnaturkonferenz COP17",
-   "s": "Um den Schutz der biologischen Vielfalt und wie dieser bis 2030 erreicht werden kann, darum geht es auf der UN-Konferenz COP17 im armenischen Eriwan.",
-   "u": "https://www.tagesschau.de/video/video-1675330.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T17:53:25+00:00"
   },
   {
    "t": "Simon Plentinger, BR, zzt. Eriwan, zum Abschluss der UN-Biodiversitätskonferenz in Armenien",

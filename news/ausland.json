@@ -1,7 +1,63 @@
 {
  "name": "Ausland",
- "updated": "2026-11-09T00:55:24+00:00",
+ "updated": "2026-11-09T11:34:20+00:00",
  "items": [
+  {
+   "t": "Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\"",
+   "s": "US-Präsident Trump ist weiter auf der Suche nach einem Pressesprecher. Mit dem Boss der Kampfsportliga UFC hatte er einen ungewöhnlichen Kandidaten genannt - jetzt spricht er von einem \"Scherz\".",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-pressesprecher-dana-white-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T10:41:19+00:00"
+  },
+  {
+   "t": "G7-Außenminister sprechen über Ukraine und Iran",
+   "s": "Welche Rolle spielt Europa bei der Lösung des Ukraine-Kriegs? Wie geht es mit Iran weiter? Diese Fragen stehen im Zentrum der G7-Gespräche in Paris. Außenminister Wadephul mahnt Washington und Moskau.",
+   "u": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T10:05:12+00:00"
+  },
+  {
+   "t": "Mindestens 20 Tote bei Schiffsunglücken vor Kreta",
+   "s": "Sie brachen in Libyen auf und zahlten Tausende Euro für die Überfahrt Richtung EU: Bei mehreren Bootsunglücken sind in den vergangenen Tagen mindestens 20 Menschen ums Leben gekommen.",
+   "u": "https://www.tagesschau.de/ausland/europa/bootsunglueck-kreta-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T09:59:46+00:00"
+  },
+  {
+   "t": "Wie steht es um den Klimaschutz im Gastgeberland Türkei?",
+   "s": "Den Anteil elektrischer Energie bis 2035 weltweit auf 35 Prozent erhöhen - mit diesem Vorschlag geht Gastgeberin Türkei in die Klimakonferenz. Das Land selbst setzt aber noch immer vor allem auf Kohle. Von Benjamin Weber.",
+   "u": "https://www.tagesschau.de/ausland/europa/cop-gastgeber-turkei-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T08:05:32+00:00"
+  },
+  {
+   "t": "Todesschütze von Krakau ist tot",
+   "s": "Die tödlichen Schüsse in Krakau haben Entsetzen ausgelöst, aber auch viele Fragen aufgeworfen. Vor allem nach dem Motiv des Täters. Er kann nicht mehr vernommen werden. Der 24-Jährige starb im Krankenhaus.",
+   "u": "https://www.tagesschau.de/ausland/europa/krakau-todesschuetze-tot-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T07:06:15+00:00"
+  },
+  {
+   "t": "Trump will Kampfsportunternehmer White als Pressesprecher",
+   "s": "\"Ein gewalttätiger Kämpfer und Krieger\": Mit einem unkonventionellen Vorschlag löst US-Präsident Trump Rätselraten aus: Der Chef der Kampfsportliga UFC soll Pressesprecher werden. Alles nur ein Scherz, rudert Trump später zurück.",
+   "u": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T02:49:02+00:00"
+  },
+  {
+   "t": "Historische Niederlage: ANC stürzt bei Kommunalwahl in Südafrika ab",
+   "s": "Bei den Kommunalwahlen in Südafrika hat der Afrikanische Nationalkongress (ANC) eine herbe Niederlage eingefahren. Viele sind angesichts Kriminalität und Korruption enttäuscht von der Partei, die das Land aus der Apartheid geführt hatte.",
+   "u": "https://www.tagesschau.de/ausland/afrika/wahlen-suedafrika-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T02:47:21+00:00"
+  },
+  {
+   "t": "Krakau nach der Tat - der Stand der Ermittlungen",
+   "s": "Hunderte Menschen in Krakau haben gemeinsam der sechs Opfer gedacht, die am Wochenende auf einem zentralen Platz der Stadt erschossen wurden. Gleichzeitig ermitteln die Behörden weiter - wegen des Verdachts auf Terrorismus.",
+   "u": "https://www.tagesschau.de/ausland/europa/ermittlungen-krakau-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T02:02:19+00:00"
+  },
   {
    "t": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
    "s": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten war kein Papst mehr in dem südamerikanischen Land zu Gast.",
@@ -15,13 +71,6 @@
    "u": "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html",
    "q": "Tagesschau",
    "d": "2026-11-09T00:32:33+00:00"
-  },
-  {
-   "t": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
-   "s": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben. Von Gabi Biesinger.",
-   "u": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-08T23:11:37+00:00"
   },
   {
    "t": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
@@ -73,13 +122,6 @@
    "d": "2026-11-08T11:04:42+00:00"
   },
   {
-   "t": "Trump will Kampfsportunternehmer White als Pressesprecher",
-   "s": "\"Ein gewalttätiger Kämpfer und Krieger\": Mit einem unkonventionellen Vorschlag löst US-Präsident Trump Rätselraten aus: Der Chef der Kampfsportliga UFC soll Pressesprecher werden. Oder gibt es ein Missverständnis?",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-08T09:59:49+00:00"
-  },
-  {
    "t": "Familienmitglieder des Schützen ebenfalls getötet",
    "s": "Landesweit gilt in Polen nach den tödlichen Schüssen auf Passanten auf einem Marktplatz in Krakau Staatstrauer. Das Motiv des Schützen bleibt unklar. Er steht im Verdacht, auch seine Eltern und Schwester getötet zu haben.",
    "u": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-100.html",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
    "q": "Tagesschau",
    "d": "2026-11-07T21:51:26+00:00"
-  },
-  {
-   "t": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
-   "s": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
-   "u": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T20:33:23+00:00"
-  },
-  {
-   "t": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
-   "s": "Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden.",
-   "u": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T20:31:48+00:00"
-  },
-  {
-   "t": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
-   "s": "Zum Auftakt seiner Südamerika-Reise besucht Papst Leo XIV. Uruguay - ein Land, in dem der Glaube im Alltag kaum eine Rolle spielt. Doch im Armenviertel der Hauptstadt findet die soziale Arbeit der Kirche Anklang. Von Anne Herrberg.",
-   "u": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T19:56:52+00:00"
-  },
-  {
-   "t": "Weniger Teilnehmer bei neuen Demos in Frankreich",
-   "s": "Das zweite Mal in dieser Woche und das vierte Wochenende in Folge haben in Frankreich Menschen gegen hohe Lebenskosten oder Probleme im Bildungssystem protestiert. Allerdings kamen diesmal weniger Teilnehmer.",
-   "u": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T18:57:56+00:00"
-  },
-  {
-   "t": "Wofür Trumps neuer Stabschef Miller steht",
-   "s": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T14:57:49+00:00"
-  },
-  {
-   "t": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
-   "s": "Neuseeland hat ein neues Parlament gewählt. Doch angesichts eines extrem knappen Wahlausgangs könnte es bei der Frage, welche Regierung das Land künftig führt, letztlich auf die kleinen Parteien ankommen.",
-   "u": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T14:41:43+00:00"
   }
  ]
 }
