@@ -1,20 +1,55 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-09T11:34:22+00:00",
+ "updated": "2026-11-09T23:47:06+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 09.11.2026",
+   "s": "Wirtschaft vor acht vom 09.11.2026",
+   "u": "https://www.tagesschau.de/video/video-1680998.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T18:54:48+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX erholt sich kräftig",
+   "s": "Der deutsche Aktienmarkt ist stark in die neue Woche gestartet. Während große Fragezeichen über der Technologiebranche bleiben, kam heute Entlastung von anderer Seite.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T17:18:50+00:00"
+  },
+  {
+   "t": "Mobilfunkunternehmen Vodafone plant Abbau von 2.300 Stellen",
+   "s": "Der Telekommunikationskonzern Vodafone muss sparen. In Deutschland soll nun rund jeder fünfte Job wegfallen - insgesamt 2.300 Stellen. Dafür will der Konzern stärker Künstliche Intelligenz einsetzen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T16:09:03+00:00"
+  },
+  {
+   "t": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
+   "s": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T13:58:03+00:00"
+  },
+  {
+   "t": "Nvidia-Affäre lässt Aktie einbrechen",
+   "s": "Die mutmaßliche Spionageaffäre um Nvidia-Chef Huang trifft den Chiphersteller und die gesamte KI-Branche zu einem äußerst ungünstigen Zeitpunkt. Wie es weitergeht, müssen nun Fakten entscheiden. Von D. Landmesser.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-ki-huang-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T13:44:48+00:00"
+  },
+  {
+   "t": "Commerzbank-Übernahme soll Anfang 2027 durch sein",
+   "s": "Noch diesen Monat könnte die UniCredit die letzten Genehmigungen für die Commerzbank-Übernahme erhalten. Auch die Fusion von Commerzbank und der HypoVereinsbank läuft wohl schneller als gedacht.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-uebernahme-unicredit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T12:52:38+00:00"
+  },
   {
    "t": "Streiks und neue Gespräche in Bayerns Metall- und Elektroindustrie",
    "s": "Zum Start der dritten Verhandlungsrunde hat die IG Metall zu einer großen Warnstreik-Kundgebung in Ingolstadt aufgerufen. Erwartet wurden mehr als 15.000 Beschäftigte, unter anderem von Audi und Airbus.",
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/streiks-tarifgespraeche-ig-metall-100.html",
    "q": "Tagesschau",
    "d": "2026-11-09T10:52:08+00:00"
-  },
-  {
-   "t": "Marktbericht: Anleger nach KI-Crash weiter verunsichert",
-   "s": "Der DAX macht zwar einen Teil der Kursverluste vom Freitag wieder wett, aber noch scheuen die Investoren das Risiko. Unterstützung kommt von Konjunkturseite, die Exporte fallen unerwartet stark aus.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T09:25:58+00:00"
   },
   {
    "t": "Hoffen auf Ende des Iran-Krieges: Ölpreise deutlich gesunken",
@@ -38,13 +73,6 @@
    "d": "2026-11-09T03:32:51+00:00"
   },
   {
-   "t": "Unionsfraktionschef erteilt Plastiksteuer eine Absage",
-   "s": "Unionsfraktionschef Frei erteilt der geplanten Plastiksteuer eine Absage. Sie sei \"wirtschaftlich und ökologisch falsch\". Anders klingt das bei SPD-Fraktionschef Miersch, der auf laufende Verhandlungen verweist.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-08T20:38:04+00:00"
-  },
-  {
    "t": "Viele Gebäude weiterhin ohne Elementarschadenversicherung",
    "s": "Immer häufiger führen Starkregen und Überschwemmungen zu teuren Schäden an Häusern. Nur gut die Hälfte der Gebäude in Deutschland sind gegen solche Folgen abgesichert. Experten sehen Handlungsbedarf. Von Katharina Wilhelm.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html",
@@ -57,13 +85,6 @@
    "u": "https://www.deutschlandfunk.de/moderne-sklaverei-zwangsarbeit-globalisierung-arbeit-ausbeutung-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-11-07T12:30:00+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 06.11.2026",
-   "s": "Wirtschaft vor acht vom 06.11.2026",
-   "u": "https://www.tagesschau.de/video/video-1679460.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T18:51:48+00:00"
   },
   {
    "t": "Schwierige Rohstoffhoffnung: Gold für Europas Energiewende?",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
    "q": "Tagesschau",
    "d": "2026-11-05T17:27:08+00:00"
-  },
-  {
-   "t": "Bund und Eigentümerfamilien einigen sich auf Kaufpreis bei KNDS",
-   "s": "Die Bundesregierung übernimmt alle Anteile der Eigentümerfamilien am Panzerbauer KNDS. Damit sichert sich der Bund den Einfluss auf Schlüsseltechnologien - und gibt offenbar weniger Geld aus als geplant.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T14:11:59+00:00"
-  },
-  {
-   "t": "Wie sich der Wahlsieg der Demokraten auf Big Tech auswirkt",
-   "s": "Die Demokraten haben bei den Midterms in den USA Mehrheiten in beiden Kammern des Kongresses gewonnen. Für die Tech-Industrie könnte das in einigen Bereichen höhere Hürden bedeuten. Von Antje Sieb.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/midterms-bigtech-reaktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T14:04:42+00:00"
-  },
-  {
-   "t": "Deutsche verbrauchen 2026 weniger Energie - das hat einen Grund",
-   "s": "Deutschlands Energieverbrauch sinkt laut Experten in diesem Jahr. Besonders beim Heizöl halten sich die Haushalte zurück, zugleich wächst der Anteil Erneuerbarer Energien.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/energiebilanz-heizoel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T16:05:31+00:00"
   }
  ]
 }

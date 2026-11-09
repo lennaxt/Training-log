@@ -1,9 +1,65 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-09T11:34:26+00:00",
+ "updated": "2026-11-09T23:47:09+00:00",
  "items": [
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: „Koalition der Willigen“ hält erstes Manöver ab",
+   "t": ": Die Müllmetropole Adana",
+   "s": "In der Millionenstadt in der Türkei wird ein goßer Teil des europäischen Plastikabfalls zu Geld gemacht. Natur und Bevölkerung profitieren davon nicht",
+   "u": "https://taz.de/Die-Muellmetropole-Adana/!6228325/",
+   "q": "taz",
+   "d": "2026-11-09T18:43:00+00:00"
+  },
+  {
+   "t": "Korruptionsskandal in Spanien: Gekaufte Lügen und ein Held der Rechten",
+   "s": "Wenige Wochen vor den Neuwahlen wird Spanien von einem Korruptionsskandal erschüttert. Es geht um Falschaussagen gegen Ministerpräsident Sánchez.",
+   "u": "https://taz.de/Korruptionsskandal-in-Spanien/!6228621/",
+   "q": "taz",
+   "d": "2026-11-09T18:40:00+00:00"
+  },
+  {
+   "t": "Angriffe auf Kühlanlagen: Frankreich macht Revolutionsgarden als Urheber aus",
+   "s": "Frankreich wirft Iran den Cyberangriff auf Supermarkt-Kühlanlagen vor. Außenminister Barrot spricht von beispielloser Attacke – und kündigt Konsequenzen an.",
+   "u": "https://taz.de/Frankreich-sieht-Iran-hinter-Angriff-auf-Kuehlanlagen/!6228832/",
+   "q": "taz",
+   "d": "2026-11-09T17:28:00+00:00"
+  },
+  {
+   "t": "Ermittlungen gegen polnischen TV-Sender: Hat TV Republika Falschinformationen verbreitet?",
+   "s": "Er ist Polens reichweitenstärkster Sender: TV Republika sendete live vom Anschlag in Krakau und soll dabei Falschinformationen verbreitet haben.",
+   "u": "https://taz.de/Ermittlungen-gegen-polnischen-TV-Sender/!6228792/",
+   "q": "taz",
+   "d": "2026-11-09T17:00:00+00:00"
+  },
+  {
+   "t": "Vergewaltigung und sexualisierte Gewalt: Jahrelange Haft für Russell Brand",
+   "s": "Sechs Frauen hatten gegen den Schauspieler und Comedian ausgesagt. Heute verurteilte ihn ein Londoner Gericht zu zehn Jahren und sechs Monaten Haft.",
+   "u": "https://taz.de/Vergewaltigung-und-sexualisierte-Gewalt/!6228589/",
+   "q": "taz",
+   "d": "2026-11-09T16:20:00+00:00"
+  },
+  {
+   "t": "Anschlag in Polen: Kerzen und Gebete für die Opfer",
+   "s": "In Krakau herrscht auch am Tag zwei nach dem Attentat tiefe Trauer. Das Tatmotiv des mittlerweile seinen Verletzungen erlegenen Schützen ist unklar.",
+   "u": "https://taz.de/Anschlag-in-Polen/!6228636/",
+   "q": "taz",
+   "d": "2026-11-09T16:17:00+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Mit fünf Euro mehr abgespeist",
+   "s": "Die französische Regierung kündigt eine magere Erhöhung des Mindestlohns an. Die Gewerkschaften reagieren empört und rufen zu weiteren Aktionen auf.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6228720/",
+   "q": "taz",
+   "d": "2026-11-09T15:27:00+00:00"
+  },
+  {
+   "t": "Trilaterales Treffen in Abu Dhabi: Europäer mit am Tisch? Von wegen!",
+   "s": "Der Kreml besteht auf Gesprächen zwischen Washington, Moskau und Kyjiw. Ohnehin geht es Wladimir Putin nicht um die Ukraine, sondern Geopolitik als Ganzes.",
+   "u": "https://taz.de/Trilaterales-Treffen-in-Abu-Dhabi/!6228640/",
+   "q": "taz",
+   "d": "2026-11-09T13:45:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: „Koalition der Willigen“ hält erstes Manöver ab",
    "s": "Kyjiws Verbündete bauen eine Truppe auf, um einen Waffenstillstand mit Russland abzusichern. Die Europäer wollen bei Verhandlungen mit am Tisch sitzen.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6228555/",
    "q": "taz",
@@ -113,62 +169,6 @@
    "u": "https://taz.de/Michail-Chodorkowskij-ueber-Russland/!6225176/",
    "q": "taz",
    "d": "2026-11-07T08:32:00+00:00"
-  },
-  {
-   "t": "Podcast der wochentaz: Die Toilettenmafia",
-   "s": "Ein dubioses Unternehmen beutet deutschlandweit Toilettenpersonal in Einkaufszentren aus. Trotz mehrjähriger Haftstrafen geht die Masche weiter.",
-   "u": "https://taz.de/Podcast-der-wochentaz/!6228289/",
-   "q": "taz",
-   "d": "2026-11-07T07:21:00+00:00"
-  },
-  {
-   "t": "Generalstreik in Frankreich: Sie hoffen, dass das nur der Anfang ist",
-   "s": "In 207 Städten wurde in Frankreich gestreikt. Unterwegs mit der Lehrerin und Vorsitzenden der Bildungsgewerkschaft Nara Cladera.",
-   "u": "https://taz.de/Generalstreik-in-Frankreich/!6224243/",
-   "q": "taz",
-   "d": "2026-11-06T18:58:00+00:00"
-  },
-  {
-   "t": "Deutsch-polnische Beziehungen: Hass auf Bundeswehrsoldaten ohne Ende",
-   "s": "Die deutsche Botschaft dementiert Falschmeldungen in Videos. Der Nato-Verbündete Polens habe mit der Krise um das Verfassungsgericht nichts zu tun.",
-   "u": "https://taz.de/Deutsch-polnische-Beziehungen/!6228208/",
-   "q": "taz",
-   "d": "2026-11-06T18:53:00+00:00"
-  },
-  {
-   "t": "Regierungskrise in Belgien: Ein abgelehnter Rücktritt und ein ICE-Imitat",
-   "s": "Belgiens König Philippe lehnt den Rücktritt von Premier De Wever ab. Unterdessen verabschiedet das Parlament ein Gesetz für Razzien nach ICE-Vorbild.",
-   "u": "https://taz.de/Regierungskrise-in-Belgien/!6228207/",
-   "q": "taz",
-   "d": "2026-11-06T16:41:00+00:00"
-  },
-  {
-   "t": "EU bei Ukraine-Verhandlungen: Der Frust der Giorgia Meloni",
-   "s": "Die EU will bei Friedensverhandlungen zum Ukraine-Krieg dabei sein. Doch eine gemeinsame Stimme gibt es nicht. Italiens Ministerpräsidentin hat einen Wutbrief geschrieben.",
-   "u": "https://taz.de/EU-bei-Ukraine-Verhandlungen/!6228180/",
-   "q": "taz",
-   "d": "2026-11-06T15:09:00+00:00"
-  },
-  {
-   "t": "+++Nachrichten im Ukrainekrieg+++: Trump kündigt „sehr großes Abkommen“ mit Russland und der Ukraine an",
-   "s": "Der US-Präsident spricht von einem Abkommen, das „ganz Europa umfassen“ könnte. Derweil bombardiert Russland weiter ukrainische Städte.",
-   "u": "https://taz.de/Nachrichten-im-Ukrainekrieg/!6228148/",
-   "q": "taz",
-   "d": "2026-11-06T11:15:00+00:00"
-  },
-  {
-   "t": "Gehaltsangaben in Stellenanzeigen: Bri­t:in­nen sollen wissen, was beim Job rausspringen würde",
-   "s": "Wie hoch das Gehalt für eine Stelle ist, soll in Großbritannien bald schon vor jeder Bewerbung klar sein: Ein entsprechendes Gesetz wurde angekündigt.",
-   "u": "https://taz.de/Gehaltsangaben-in-Stellenanzeigen/!6228142/",
-   "q": "taz",
-   "d": "2026-11-06T09:25:00+00:00"
-  },
-  {
-   "t": "Sozialproteste in Frankreich: Wohin trägt die gemeinsame Wut?",
-   "s": "Erneut protestieren Hunderttausende in Frankreich. Doch der Zusammenschluss der verschiedenen Anliegen klappt noch nicht überall.",
-   "u": "https://taz.de/Sozialproteste-in-Frankreich/!6227721/",
-   "q": "taz",
-   "d": "2026-11-05T18:57:00+00:00"
   }
  ]
 }

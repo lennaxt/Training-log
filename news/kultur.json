@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-11-09T11:34:28+00:00",
+ "updated": "2026-11-09T23:47:10+00:00",
  "items": [
+  {
+   "t": "Spionageverdacht bei Nvidia: Künstliche Intimität",
+   "s": "Die Affäre von Nvidia-Chef Huang soll von der chinesischen Staatssicherheit eingefädelt worden sein. Es wäre nicht die erste „Liebesfalle“ dieser Art.",
+   "u": "https://taz.de/Spionageverdacht-bei-Nvidia/!6228592/",
+   "q": "taz",
+   "d": "2026-11-09T16:55:00+00:00"
+  },
+  {
+   "t": "Portrait Jensen Huang: Der Meister der KI und sein männlicher Trieb",
+   "s": "Der Nvidia-Chef Jensen Huang räumt eine Affäre mit einer Chinesin ein, die der US-Geheimdienst für eine Spionin hält und schon 2025 vor ihr warnte.",
+   "u": "https://taz.de/Portrait-Jensen-Huang/!6228699/",
+   "q": "taz",
+   "d": "2026-11-09T15:22:00+00:00"
+  },
   {
    "t": "Politikwissenschaftler zu US-Midterms: „Trump ist jetzt eine lahme Ente – mit Panzerfaust“",
    "s": "Die Demokraten sind die klaren Gewinner der Zwischenwahlen in den USA. Sie sollten jetzt die Chance nutzen, weniger ideologisch vorzugehen, meint Politikwissenschaftler Yascha Mounk.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/US-Midterms-Ein-Perfekter-Sieg-auf-fast-allen-Ebenen/!6227325/",
    "q": "taz",
    "d": "2026-11-04T18:53:00+00:00"
-  },
-  {
-   "t": "Midtermwahlen in den USA: Mehr Macht, aber viele Risiken",
-   "s": "Was bedeutet der Wahlerfolg innenpolitisch für die Demokraten? Und welche Vorhaben kann Trump auch ohne sie umsetzen?",
-   "u": "https://taz.de/Nach-den-Midterms-Was-kann-Trump-auch-ohne-die-Demokraten-umsetzen/!6227326/",
-   "q": "taz",
-   "d": "2026-11-04T18:52:00+00:00"
-  },
-  {
-   "t": "Rohstoffboom in Brasilien: Ein Dorf wehrt sich",
-   "s": "Im brasilianischen Bundesstaat Bahia haben Anwohner ein Gesetz gegen Bergbau durchgesetzt. Dennoch gehen die Erkundungsarbeiten weiter.",
-   "u": "https://taz.de/Rohstoffboom-in-Brasilien/!6224033/",
-   "q": "taz",
-   "d": "2026-11-04T17:37:00+00:00"
   }
  ]
 }
