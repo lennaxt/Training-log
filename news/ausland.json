@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-11-08T19:42:00+00:00",
+ "updated": "2026-11-09T00:55:24+00:00",
  "items": [
+  {
+   "t": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+   "s": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten war kein Papst mehr in dem südamerikanischen Land zu Gast.",
+   "u": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T00:43:39+00:00"
+  },
+  {
+   "t": "Mindestens 21 Tote nach Bootsunglück vor Senegal gemeldet",
+   "s": "Vor der Küste Senegals ist ein Boot gekentert. Die Behörden bestätigten mehr als 20 Tote, mit weiteren wird gerechnet. Zahlreiche Menschen versuchen jedes Jahr, über die gefährliche Atlantikroute aus Westafrika in die EU zu gelangen.",
+   "u": "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T00:32:33+00:00"
+  },
+  {
+   "t": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+   "s": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben. Von Gabi Biesinger.",
+   "u": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T23:11:37+00:00"
+  },
+  {
+   "t": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
+   "s": "Starker Regen hat Teile des Gazastreifens überschwemmt. Laut dem Gesundheitsminister haben eine Million Vertriebene kein Dach mehr über dem Kopf. Hilfsorganisationen befürchten eine humanitäre Katastrophe. Von J.-C. Kitzler.",
+   "u": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T20:15:13+00:00"
+  },
   {
    "t": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
    "s": "Amsterdam ist erneut Schauplatz einer Großdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
    "q": "Tagesschau",
    "d": "2026-11-07T14:41:43+00:00"
-  },
-  {
-   "t": "Schwere Schäden nach Raketenangriffen auf Kiew",
-   "s": "Russland hat kurz vor Wintereinbruch erneut die ukrainische Strom- und Wasserversorgung angegriffen. In einigen Teilen des Landes fiel der Strom aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung.",
-   "u": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T12:13:38+00:00"
-  },
-  {
-   "t": "Bandenchef bittet UN um Vermittlung in Haiti",
-   "s": "In Haiti werden nach einem Bandenangriff vier salvadorianische Militärangehörige vermisst. Um sie zu retten, schickt Präsident Bukele weitere Soldaten ins Land und droht den Gangs. Ein Bandenchef reagiert nun mit einem Brief an die UN. Von A. Demmer.",
-   "u": "https://www.tagesschau.de/ausland/amerika/haiti-banden-vereinte-nationen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T10:51:13+00:00"
-  },
-  {
-   "t": "Was passiert bei einer Bombendrohung im Flugzeug?",
-   "s": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen.",
-   "u": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T08:10:26+00:00"
-  },
-  {
-   "t": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
-   "s": "Erneut hat es in Europa zahlreiche Bombendrohungen gegeben - sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien spricht von einem hybriden Angriff, der \"kein Zufall\" sei. Irland sieht eine \"koordinierte Kampagne\".",
-   "u": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T19:39:20+00:00"
   }
  ]
 }

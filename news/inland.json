@@ -1,7 +1,28 @@
 {
  "name": "Inland",
- "updated": "2026-11-08T19:42:00+00:00",
+ "updated": "2026-11-09T00:55:23+00:00",
  "items": [
+  {
+   "t": "Unionsfraktionschef erteilt Plastiksteuer eine Absage",
+   "s": "Unionsfraktionschef Frei erteilt der geplanten Plastiksteuer eine Absage. Sie sei \"wirtschaftlich und ökologisch falsch\". Anders klingt das bei SPD-Fraktionschef Miersch, der auf laufende Verhandlungen verweist.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T20:38:04+00:00"
+  },
+  {
+   "t": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+   "s": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T20:05:22+00:00"
+  },
+  {
+   "t": "Chef der Jungen Union: \"Junge Generation wird von der Politik vernachlässigt\"",
+   "s": "Viele junge Menschen fühlen sich politisch übergangen. Das liege auch daran, dass Pläne wie die Rentenreform nicht umgesetzt würden, sagt Winkel, Vorsitzender der Jungen Union, im Bericht aus Berlin. Die Regierung habe einiges wieder gut zu machen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-08T19:43:02+00:00"
+  },
   {
    "t": "Politikwissenschaftler zu US-Midterms: „Trump ist jetzt eine lahme Ente – mit Panzerfaust“",
    "s": "Die Demokraten sind die klaren Gewinner der Zwischenwahlen in den USA. Sie sollten jetzt die Chance nutzen, weniger ideologisch vorzugehen, meint Politikwissenschaftler Yascha Mounk.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Schusswaffenangriff-in-Krakau/!6228328/",
    "q": "taz",
    "d": "2026-11-08T07:40:00+00:00"
-  },
-  {
-   "t": "Serbien nach Vučić: Historikerin erwartet Annäherung an EU",
-   "s": "Nach der Wahlniederlage von Präsident Aleksandar Vučić steht Serbien vor dem Neuanfang. Balkanexpertin Marie-Janine Calic beobachtet, dass Justiz, Banken-und Medienaufsicht mit alten Seilschaften aufräumen.Reinhardt, Anja",
-   "u": "https://www.deutschlandfunk.de/serbien-gelingt-der-politische-neuanfang-marie-janine-calic-osteuropa-histor-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-08T06:37:25+00:00"
-  },
-  {
-   "t": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
-   "s": "Vom Sondervermögen des Bundes sollen auch Schulen, Kitas und Wissenschaft profitieren. Doch von den vorgesehenen Mitteln ist bislang offenbar nur ein Bruchteil in die Bildungsinfrastruktur geflossen. Die Grünen kritisieren das.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-08T03:28:25+00:00"
-  },
-  {
-   "t": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
-   "s": "Die FDP kommt heute zu einem digitalen Parteitag zusammen. Nach vielen Wahlniederlagen steckt die Partei in einer tiefen Krise. Bislang konnte das auch ihr neuer Vorsitzender Kubicki nicht ändern. Von Philipp Eckstein.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-08T02:28:44+00:00"
   }
  ]
 }
