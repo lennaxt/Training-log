@@ -1,7 +1,98 @@
 {
  "name": "Inland",
- "updated": "2026-11-09T23:47:03+00:00",
+ "updated": "2026-11-10T11:13:58+00:00",
  "items": [
+  {
+   "t": "Ausbeutung von Reinigungskräften: 16 Stunden Putzen am Tag",
+   "s": "Menschen aus Osteuropa werden nach Deutschland gelockt, um für einen Hungerlohn Toiletten sauber zu machen. Einblicke in ein kriminelles System.",
+   "u": "https://taz.de/Wer-reinigt-unsere-oeffentliche-Toiletten-Einblicke-in-ein-kriminelles-System/!6224245/",
+   "q": "taz",
+   "d": "2026-11-10T11:04:00+00:00"
+  },
+  {
+   "t": "US-Bundesstaat Kalifornien: Volksabstimmung über Reichensteuer scheitert",
+   "s": "Die „Proposition 40“ sah vor, dass kalifornische Milliardäre eine einmalige Abgabe auf ihr Vermögen zahlen sollen. Auch von links gab es an dem Vorstoß Kritik.",
+   "u": "https://taz.de/Volkabstimmung-ueber-Reichensteuer-in-Kalifornien-scheitert/!6228844/",
+   "q": "taz",
+   "d": "2026-11-10T09:34:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Nahostkrieg +++: Der Winter und die humanitäre Krise",
+   "s": "Die UN warnen vor einer Zuspitzung der Lage in Gaza vor dem bevorstehenden Winter. Saudi-Arabien fängt Huthi-Raketen ab und fliegt Gegenangriffe.",
+   "u": "https://taz.de/UN-warnen-Im-Winter-koennte-sich-die-Lage-in-Gaza-zuspitzen/!6228843/",
+   "q": "taz",
+   "d": "2026-11-10T09:09:00+00:00"
+  },
+  {
+   "t": "Sportvereine in Deutschland haben so viele Mitglieder wie noch nie",
+   "s": "Die deutschen Sportvereine haben so viele Mitglieder wie noch nie. In allen Bundesländern sind die Zahlen nach oben gegangen. Fußball bleibt unangefochten an der Spitze - andere Sportarten haben Mitglieder verloren.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/sportvereine-mitglieder-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T09:05:59+00:00"
+  },
+  {
+   "t": "Frauenrechtlerin in Afghanistan: „Wir haben uns dummerweise auf Deutschland verlassen“",
+   "s": "Frauenrechtlerin Sarah versteckt sich in Afghanistan vor den Taliban. Anstatt sie wie versprochen aufzunehmen, hofiert Deutschland die Machthaber.",
+   "u": "https://taz.de/Wie-engagiert-sich-eine-Frauenrechtlerin-in-Afghanistan-unter-den-Taliban-Ein-Besuch/!6228560/",
+   "q": "taz",
+   "d": "2026-11-10T08:48:00+00:00"
+  },
+  {
+   "t": "20 Jahre Ohel-Jakob-Synagoge in München: Feiern unter Polizeischutz",
+   "s": "Zu einem Festakt in der Münchner Hauptsynagoge durfte Charlotte Knobloch hohen Besuch empfangen. Der plötzlich noch etwas höher wurde.",
+   "u": "https://taz.de/20-Jahre-Ohel-Jakob-Synagoge-in-Muenchen/!6228835/",
+   "q": "taz",
+   "d": "2026-11-10T08:36:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Ukraine-Unterstützung spaltet Deutschland",
+   "s": "Kyjiw und Moskau verhandeln. Die Unterstützungsfrage spaltet Deutschland mehr als jedes andere Thema. Merz fordert mehr Beteiligung von EU-Partnern.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6228837/",
+   "q": "taz",
+   "d": "2026-11-10T07:39:00+00:00"
+  },
+  {
+   "t": "Antrag auf Amtsenthebung: Teile der Republikaner wollen Hegseth loswerden",
+   "s": "Der scheidende Abgeordnete Thomas Massie bringt erneut ein Amtsenthebungsverfahren gegen Trumps Verteidigungsminister ins Spiel. Könnte es Erfolg haben?",
+   "u": "https://taz.de/Antrag-auf-Amtsenthebung/!6228836/",
+   "q": "taz",
+   "d": "2026-11-10T06:56:00+00:00"
+  },
+  {
+   "t": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
+   "s": "Nach ihrer Kür zur Unions-Kandidatin für das Bundespräsidentenamt stellt sich Aigner heute in Berlin den Bundestagsfraktionen von Union, SPD und Grünen vor. Eine Einladung der AfD schlug sie aus. Die Linke lud Aigner bislang nicht ein.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T06:26:38+00:00"
+  },
+  {
+   "t": "Jugendproteste in Europa: Eine Wut, die so viel will",
+   "s": "Schnaubend empören sich bürgerliche Medienmänner derzeit über die Wut der jungen Linken – und stolpern alle über einen simplen Denkfehler.",
+   "u": "https://taz.de/Jugendproteste-in-Europa-Der-Denkfehler-der-Maenner-die-sich-ueber-Linke-empoeren/!6228573/",
+   "q": "taz",
+   "d": "2026-11-10T06:18:00+00:00"
+  },
+  {
+   "t": "Laschet (CDU) zu Ukraine-Gesprächen: Europa darf nicht abseits stehen",
+   "s": "Armin Laschet (CDU) dämpft die Erwartungen an die trilateralen Verhandlungen zum Ukraine-Krieg in Abu Dhabi. Statt eines großen Deals erwartet er konkrete Einigungen wie ein Getreideabkommen. Dabei mahnt er: Ohne die Europäer wird es nicht gehen.Schulz, Sandra",
+   "u": "https://www.deutschlandfunk.de/interview-mit-armin-laschet-cdu-aussenausschuss-zu-ukraine-gespraeche-abu-dhabi-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-10T06:15:48+00:00"
+  },
+  {
+   "t": "Zehn Jahre Nein heißt Nein: Nein ist nicht mehr genug",
+   "s": "2016 sollte eine Reform des Sexualstrafrechts die Betroffenen von Vergewaltigung besser schützen. Zehn Jahre später sind viele ernüchtert.",
+   "u": "https://taz.de/Zehn-Jahre-Nein-heisst-Nein/!6227406/",
+   "q": "taz",
+   "d": "2026-11-10T06:09:00+00:00"
+  },
+  {
+   "t": "Gesetz gegen überhöhte Preise: Deckel für Ticketbörsen in der Planung",
+   "s": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Hubig in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T04:10:12+00:00"
+  },
   {
    "t": "Verkehrsminister Bilger verteidigt \"Tankrabatt\"",
    "s": "Seit Oktober gibt es den \"Tankrabatt\". Verkehrsminister Bilger findet das richtig. Entlastung sei nötig gewesen, sagte er in der ARD-Arena. Kritisch blickt er auf Debatten über ein generelles Tempolimit.",
@@ -78,97 +169,6 @@
    "u": "https://taz.de/Haushaltsentwurf-fuer-2027/!6228769/",
    "q": "taz",
    "d": "2026-11-09T17:01:00+00:00"
-  },
-  {
-   "t": "Ermittlungen gegen polnischen TV-Sender: Hat TV Republika Falschinformationen verbreitet?",
-   "s": "Er ist Polens reichweitenstärkster Sender: TV Republika sendete live vom Anschlag in Krakau und soll dabei Falschinformationen verbreitet haben.",
-   "u": "https://taz.de/Ermittlungen-gegen-polnischen-TV-Sender/!6228792/",
-   "q": "taz",
-   "d": "2026-11-09T17:00:00+00:00"
-  },
-  {
-   "t": "Kommunalwahlen in Südafrika: Regenbogennation, diesmal richtig",
-   "s": "Der ANC hat Südafrikas Kommunalwahlen verloren. Das Land wird über dreißig Jahre nach Ende der Apartheid nun auch politisch pluraler und diverser.",
-   "u": "https://taz.de/Kommunalwahlen-in-Suedafrika/!6228365/",
-   "q": "taz",
-   "d": "2026-11-09T16:59:00+00:00"
-  },
-  {
-   "t": "Spionageverdacht bei Nvidia: Künstliche Intimität",
-   "s": "Die Affäre von Nvidia-Chef Huang soll von der chinesischen Staatssicherheit eingefädelt worden sein. Es wäre nicht die erste „Liebesfalle“ dieser Art.",
-   "u": "https://taz.de/Spionageverdacht-bei-Nvidia/!6228592/",
-   "q": "taz",
-   "d": "2026-11-09T16:55:00+00:00"
-  },
-  {
-   "t": "Zucker-, Plastik- und Stromsteuer: Die offenen Baustellen im Haushalt",
-   "s": "Nachdem Finanzminister Klingbeil die Plastiksteuer angekündigt hatte, scheint jetzt wieder alles offen. Auch bei der Krypto- und Zuckersteuer ist offenbar alles im Fluss. Worüber die Koalition diskutiert. Von Lissy Kaufmann.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T16:24:36+00:00"
-  },
-  {
-   "t": "Vergewaltigung und sexualisierte Gewalt: Jahrelange Haft für Russell Brand",
-   "s": "Sechs Frauen hatten gegen den Schauspieler und Comedian ausgesagt. Heute verurteilte ihn ein Londoner Gericht zu zehn Jahren und sechs Monaten Haft.",
-   "u": "https://taz.de/Vergewaltigung-und-sexualisierte-Gewalt/!6228589/",
-   "q": "taz",
-   "d": "2026-11-09T16:20:00+00:00"
-  },
-  {
-   "t": "Anschlag in Polen: Kerzen und Gebete für die Opfer",
-   "s": "In Krakau herrscht auch am Tag zwei nach dem Attentat tiefe Trauer. Das Tatmotiv des mittlerweile seinen Verletzungen erlegenen Schützen ist unklar.",
-   "u": "https://taz.de/Anschlag-in-Polen/!6228636/",
-   "q": "taz",
-   "d": "2026-11-09T16:17:00+00:00"
-  },
-  {
-   "t": "Ende der Unklarheit - Die lange Suche nach Ilse Aigner",
-   "s": "Ilse Aigner soll Bundespräsidentin werden. Friedrich Merz beendet damit eine lange Kandidatensuche – mit der Frau, die früh als Favoritin galt. Außerdem: In Antalya startet die COP31 – Klimageld und fossile Energien im Fokus.Armbrüster, Tobias",
-   "u": "https://www.deutschlandfunk.de/aigner-bellevue-cop31-antalya-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-09T16:00:00+00:00"
-  },
-  {
-   "t": "Steinmeier zu Novemberpogromen: \"Anlass, die Augen zu öffnen\"",
-   "s": "Bundespräsident Steinmeier hat zum Jahrestag der Novemberpogrome von 1938 die historische Verantwortung Deutschlands betont. Dass wieder mehr Juden hierzulande Opfer von Gewalt würden, mache ihn wütend. Es gebe \"Anlass, die Augen zu öffnen\".",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/novemberpogrome-jahrestag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T15:51:17+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Mit fünf Euro mehr abgespeist",
-   "s": "Die französische Regierung kündigt eine magere Erhöhung des Mindestlohns an. Die Gewerkschaften reagieren empört und rufen zu weiteren Aktionen auf.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6228720/",
-   "q": "taz",
-   "d": "2026-11-09T15:27:00+00:00"
-  },
-  {
-   "t": "Portrait Jensen Huang: Der Meister der KI und sein männlicher Trieb",
-   "s": "Der Nvidia-Chef Jensen Huang räumt eine Affäre mit einer Chinesin ein, die der US-Geheimdienst für eine Spionin hält und schon 2025 vor ihr warnte.",
-   "u": "https://taz.de/Portrait-Jensen-Huang/!6228699/",
-   "q": "taz",
-   "d": "2026-11-09T15:22:00+00:00"
-  },
-  {
-   "t": "Kommunalwahlen in Südafrika: Die ANC-Vorherrschaft ist beendet",
-   "s": "Fast alle Großstadtregionen gehen für Südafrikas Regierungspartei verloren. Die Sieger sind sehr divers – können sie sich jetzt zusammenraufen?",
-   "u": "https://taz.de/Kommunalwahlen-in-Suedafrika/!6228619/",
-   "q": "taz",
-   "d": "2026-11-09T15:12:00+00:00"
-  },
-  {
-   "t": "Palästinafahne am Reichstag: Politik und Polizei reagieren",
-   "s": "Ein Aktivist hisst am Reichstag eine Palästinafahne. Die Polizei will Maßnahmen anpassen. Ein Politiker schlägt Regeln für das Gebiet um den Bundestag vor.",
-   "u": "https://taz.de/Palaestinafahne-am-Reichstag/!6228737/",
-   "q": "taz",
-   "d": "2026-11-09T14:54:00+00:00"
-  },
-  {
-   "t": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
-   "s": "Lange hatte der Kanzler gezögert - nun ist es offiziell: Die CDU überlässt das höchste Staatsamt der kleinen Schwesterpartei aus Bayern. Die viel befürchtete Kritik in den eigenen Reihen ist ausgeblieben. Von Jannik Pentz.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T14:48:54+00:00"
   }
  ]
 }

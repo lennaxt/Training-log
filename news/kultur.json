@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-11-09T23:47:10+00:00",
+ "updated": "2026-11-10T11:14:04+00:00",
  "items": [
+  {
+   "t": "US-Bundesstaat Kalifornien: Volksabstimmung über Reichensteuer scheitert",
+   "s": "Die „Proposition 40“ sah vor, dass kalifornische Milliardäre eine einmalige Abgabe auf ihr Vermögen zahlen sollen. Auch von links gab es an dem Vorstoß Kritik.",
+   "u": "https://taz.de/Volkabstimmung-ueber-Reichensteuer-in-Kalifornien-scheitert/!6228844/",
+   "q": "taz",
+   "d": "2026-11-10T09:34:00+00:00"
+  },
+  {
+   "t": "Antrag auf Amtsenthebung: Teile der Republikaner wollen Hegseth loswerden",
+   "s": "Der scheidende Abgeordnete Thomas Massie bringt erneut ein Amtsenthebungsverfahren gegen Trumps Verteidigungsminister ins Spiel. Könnte es Erfolg haben?",
+   "u": "https://taz.de/Antrag-auf-Amtsenthebung/!6228836/",
+   "q": "taz",
+   "d": "2026-11-10T06:56:00+00:00"
+  },
   {
    "t": "Spionageverdacht bei Nvidia: Künstliche Intimität",
    "s": "Die Affäre von Nvidia-Chef Huang soll von der chinesischen Staatssicherheit eingefädelt worden sein. Es wäre nicht die erste „Liebesfalle“ dieser Art.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Argentinien-und-das-EU-Mercosur-Abkommen/!6224036/",
    "q": "taz",
    "d": "2026-11-05T09:17:00+00:00"
-  },
-  {
-   "t": "Die neuen Demokraten-Stars: Links, populistisch, authentisch",
-   "s": "Sie sind die Kinder der Obama-Generation: Stars wie Jon Ossoff oder Alexandria Ocasio-Cortez könnten die nächsten Präsidentschaftskandidaten der Demokraten werden.",
-   "u": "https://taz.de/Die-neuen-Demokraten-Stars/!6227323/",
-   "q": "taz",
-   "d": "2026-11-04T18:53:00+00:00"
-  },
-  {
-   "t": "Midtermwahlen in den USA: Perfekter Sieg auf fast allen Ebenen",
-   "s": "Schon vor Ende der Auszählung ist klar, dass die Demokraten in beiden Häusern die Mehrheit gewinnen. Aber vieles ist noch offen, etwa bei den Referenden.",
-   "u": "https://taz.de/US-Midterms-Ein-Perfekter-Sieg-auf-fast-allen-Ebenen/!6227325/",
-   "q": "taz",
-   "d": "2026-11-04T18:53:00+00:00"
   }
  ]
 }

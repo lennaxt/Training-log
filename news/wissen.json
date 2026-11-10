@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-11-09T23:47:06+00:00",
+ "updated": "2026-11-10T11:14:01+00:00",
  "items": [
+  {
+   "t": "Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück",
+   "s": "Die UN-Klimakonferenz sucht nach Wegen aus den fossilen Energieträgern. Aktuelle Zahlen zeigen: Die fossilen CO2-Emissionen gehen leicht zurück. Doch Experten warnen, dies könne nur ein vorübergehender Effekt sein. Von Simon Plentinger.",
+   "u": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T04:01:04+00:00"
+  },
   {
    "t": "COP31 · Wie geht es weiter mit dem Klimaschutz?",
    "s": "Fast 200 Staaten, zwei Wochen Verhandlungen, ein gemeinsames Ziel: den Klimawandel bremsen. Doch wie funktioniert die Weltklimakonferenz – und was kann sie tatsächlich erreichen?",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/blume-des-jahres-100.html",
    "q": "Tagesschau",
    "d": "2026-10-22T09:07:58+00:00"
-  },
-  {
-   "t": "UN-Bericht: Erde steuert auf 2,8 Grad Erwärmung zu",
-   "s": "Die Folgen der Erderwärmung sind verheerend. Das eigentlich vereinbarte 1,5-Grad-Limit wird ziemlich sicher gerissen. Doch die UN betonen: Es gibt Fortschritte beim Klimaschutz, die Zeit drängt allerdings. Von Janina Schreiber.",
-   "u": "https://www.tagesschau.de/wissen/klima/erderwaermung-un-bericht-102.html",
-   "q": "Tagesschau",
-   "d": "2026-10-21T07:54:54+00:00"
   }
  ]
 }

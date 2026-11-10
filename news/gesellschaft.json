@@ -1,11 +1,18 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-09T23:47:09+00:00",
+ "updated": "2026-11-10T11:14:03+00:00",
  "items": [
   {
-   "t": ": Die Müllmetropole Adana",
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Ukraine-Unterstützung spaltet Deutschland",
+   "s": "Kyjiw und Moskau verhandeln. Die Unterstützungsfrage spaltet Deutschland mehr als jedes andere Thema. Merz fordert mehr Beteiligung von EU-Partnern.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6228837/",
+   "q": "taz",
+   "d": "2026-11-10T07:39:00+00:00"
+  },
+  {
+   "t": "COP31 in der Türkei: Die Müllmetropole Adana",
    "s": "In der Millionenstadt in der Türkei wird ein goßer Teil des europäischen Plastikabfalls zu Geld gemacht. Natur und Bevölkerung profitieren davon nicht",
-   "u": "https://taz.de/Die-Muellmetropole-Adana/!6228325/",
+   "u": "https://taz.de/COP31-in-der-Tuerkei/!6228325/",
    "q": "taz",
    "d": "2026-11-09T18:43:00+00:00"
   },
@@ -94,8 +101,8 @@
    "d": "2026-11-09T06:41:00+00:00"
   },
   {
-   "t": "Schusswaffenangriff in Krakau: Rechtsextremist tötet mindestens 6 Menschen",
-   "s": "Ein 24-Jähriger schießt mitten auf dem Krakauer Hauptmarkt um sich. Mindestens 6 Menschen sterben. Schon jetzt ist klar: Der Täter hatte rechtsextreme Ansichten.",
+   "t": "Schusswaffenangriff in Krakau: Mutmaßlicher Rechtsextremist tötet mindestens 6 Menschen",
+   "s": "Ein 24-Jähriger schießt mitten auf dem Krakauer Hauptmarkt um sich. Mindestens 6 Menschen sterben. Der Täter könnte rechtsextreme Ansichten haben.",
    "u": "https://taz.de/Schusswaffenangriff-in-Krakau/!6228372/",
    "q": "taz",
    "d": "2026-11-08T16:46:00+00:00"
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Der-Druck-der-Strasse/!6224132/",
    "q": "taz",
    "d": "2026-11-07T14:57:00+00:00"
-  },
-  {
-   "t": "Michail Chodorkowskij über Russland: „Man sollte mit Putin reden“",
-   "s": "Der frühere Oligarch wurde in seiner Heimat zur Lagerhaft verurteilt. Heute lebt er im Exil. Ein Gespräch über Sanktionen, Krieg und russische Opposition.",
-   "u": "https://taz.de/Michail-Chodorkowskij-ueber-Russland/!6225176/",
-   "q": "taz",
-   "d": "2026-11-07T08:32:00+00:00"
   }
  ]
 }

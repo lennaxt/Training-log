@@ -1,20 +1,76 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-09T23:47:06+00:00",
+ "updated": "2026-11-10T11:14:00+00:00",
  "items": [
+  {
+   "t": "Maschinenbau will mit Künstlicher Intelligenz aus der Krise",
+   "s": "Der deutsche Maschinenbau steckt in seinem vierten Krisenjahr. Die Branche leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Maschinenbaugipfel gibt es aber auch Hoffnungssignale - etwa die Künstliche Intelligenz. Von A. John.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T10:36:17+00:00"
+  },
+  {
+   "t": "Viele deutsche Unternehmen bauen die KI-Infrastruktur mit auf",
+   "s": "US-Tech-Giganten investieren Milliarden in Künstliche Intelligenz. Anleger werden vorsichtiger mit Blick auf die Kosten. Warum deutsche und europäische Unternehmen davon profitieren könnten. Von Bianca von der Au.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/ki-milliarden-investitionen-profiteure-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T10:35:49+00:00"
+  },
+  {
+   "t": "Börsengang von Anthropic - umstrittener Goldrausch in San Francisco",
+   "s": "Der KI-Gigant Anthropic will an die Börse. Und damit könnten Tausende Mitarbeiter und Investoren zu Millionären werden. In San Francisco, dem Konzernsitz, werden explodierende Häuserpreise befürchtet. Von G. Biesinger.",
+   "u": "https://www.tagesschau.de/ausland/amerika/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T09:42:31+00:00"
+  },
+  {
+   "t": "Marktbericht: Kursverluste nach KI-Crash fast aufgeholt",
+   "s": "Die Kauflaune der Anleger hält an: Die Erholungsrally treibt den DAX wieder zurück in die Nähe seines Rekords. Die sinkenden Ölpreise locken die Investoren in den Markt, auch die Zahlen von Infineon gefallen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T09:06:52+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 10.11.2026",
+   "s": "Update Wirtschaft vom 10.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1681258.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T08:57:37+00:00"
+  },
+  {
+   "t": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
+   "s": "Peking setzt weiter voll auf Export - und knackt auch dank umstrittener Subventionen erneut eine Rekordmarke: Der Handelsüberschuss von mehr als einer Billion Dollar wurde vor allem durch Technologiegüter und Elektroautos erzielt.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T08:53:53+00:00"
+  },
+  {
+   "t": "Kalifornier lehnen Milliardärssteuer ab",
+   "s": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in Werbespots gegen die Reichensteuer gesteckt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T07:15:02+00:00"
+  },
+  {
+   "t": "Klimakonferenz COP31: Warum alle über Elektrifizierung reden",
+   "s": "Ein Vorstoß des türkischen Gastgebers findet sich eigentlich gar nicht auf der offiziellen Tagesordnung. Und doch scheint das Thema Elektrifizierung im Zentrum der diesjährigen Klimakonferenz zu stehen. Von A. Schulz und J. Schreiber.",
+   "u": "https://www.tagesschau.de/wissen/klima/klimakonferenz/klimaschutz-elektrifizierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T06:34:14+00:00"
+  },
+  {
+   "t": "Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück",
+   "s": "Die UN-Klimakonferenz sucht nach Wegen aus den fossilen Energieträgern. Aktuelle Zahlen zeigen: Die fossilen CO2-Emissionen gehen leicht zurück. Doch Experten warnen, dies könne nur ein vorübergehender Effekt sein. Von Simon Plentinger.",
+   "u": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T04:01:04+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 09.11.2026",
    "s": "Wirtschaft vor acht vom 09.11.2026",
    "u": "https://www.tagesschau.de/video/video-1680998.html",
    "q": "Tagesschau",
    "d": "2026-11-09T18:54:48+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX erholt sich kräftig",
-   "s": "Der deutsche Aktienmarkt ist stark in die neue Woche gestartet. Während große Fragezeichen über der Technologiebranche bleiben, kam heute Entlastung von anderer Seite.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T17:18:50+00:00"
   },
   {
    "t": "Mobilfunkunternehmen Vodafone plant Abbau von 2.300 Stellen",
@@ -57,13 +113,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreise-gesunken-100.html",
    "q": "Tagesschau",
    "d": "2026-11-09T08:52:19+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 09.11.2026",
-   "s": "Update Wirtschaft vom 09.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1680600.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T08:48:08+00:00"
   },
   {
    "t": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
@@ -120,55 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html",
    "q": "Tagesschau",
    "d": "2026-11-06T10:42:54+00:00"
-  },
-  {
-   "t": "Paraguay: Die Bankenkrise wird zur Staatskrise",
-   "s": "In Paraguay zieht die Krise um die Ueno Bank immer weitere Kreise: Weil Präsident Peña die Risiken zu lange ignorierte, leitete das Parlament ein Amtsenthebungsverfahren ein. Auch die Staatsanwaltschaft ermittelt. Von Anne Herrberg.",
-   "u": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T09:29:54+00:00"
-  },
-  {
-   "t": "Chipaktien an den internationalen Börsen im freien Fall",
-   "s": "Ein weltweiter Abverkauf von Chip- und Techaktien schickt wichtige Aktienindizes auf Talfahrt. In Seoul wurde der Handel zeitweise ausgesetzt. In den USA war es der schlimmste Einbruch seit 2020. Von Constantin Röse.",
-   "u": "https://www.tagesschau.de/wirtschaft/boerse/tech-einbruch-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T09:21:42+00:00"
-  },
-  {
-   "t": "Daimler Truck meldet deutlichen Gewinnsprung wegen USA-Geschäft",
-   "s": "Der Nutzfahrzeughersteller Daimler Truck hat wieder auf die Erfolgsspur zurückgefunden. Dank eines anspringenden US-Geschäfts verbucht das Unternehmen einen Milliardengewinn und kann sich etwas erholen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T09:13:00+00:00"
-  },
-  {
-   "t": "Ressourcenverbrauch vieler Rechenzentren nicht öffentlich einsehbar",
-   "s": "Rechenzentren verbrauchen enorme Mengen Strom und Wasser. Betreiber sind gesetzlich verpflichtet, ihren Verbrauch zu veröffentlichen. Doch Anfragen des SWR an mehr als 30 Unternehmen zeigen: Viele nehmen es mit der Transparenz nicht so ernst.",
-   "u": "https://www.tagesschau.de/investigativ/swr/rechenzentren-transparenz-wasserverbrauch-stromverbrauch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T05:04:19+00:00"
-  },
-  {
-   "t": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
-   "s": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T19:11:03+00:00"
-  },
-  {
-   "t": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
-   "s": "Die Vorwürfe gegen den österreichischen Immobilieninvestor René Benko sind umfangreich: Nach einer Verurteilung wegen Gläubigerschädigung im September folgt nun eine weitere wegen Betrugs. Sie ist noch nicht rechtskräftig.",
-   "u": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T17:56:47+00:00"
-  },
-  {
-   "t": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich",
-   "s": "Günstiger parken und keine E-Kennzeichen-Pflicht mehr: Der Bundestag hat das reformierte Elektromobilitätsgesetz verabschiedet. Bisher nutzen allerdings nur wenige Kommunen den Spielraum des Gesetzes aus. Von Michael Eiden.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T17:27:08+00:00"
   }
  ]
 }

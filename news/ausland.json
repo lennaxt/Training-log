@@ -1,13 +1,62 @@
 {
  "name": "Ausland",
- "updated": "2026-11-09T23:47:04+00:00",
+ "updated": "2026-11-10T11:13:59+00:00",
  "items": [
   {
+   "t": "Was von den Ukraine-Gesprächen in Abu Dhabi zu erwarten ist",
+   "s": "Unterhändler Russlands und der Ukraine haben ihre Gespräche unter US-Vermittlung in Abu Dhabi aufgenommen. Was wollen die Kriegsparteien? Welche Interessen haben die USA? Und welche Rolle haben die Europäer?",
+   "u": "https://www.tagesschau.de/ausland/asien/ukraine-verhandlungen-abu-dhabi-104.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T10:48:43+00:00"
+  },
+  {
+   "t": "Börsengang von Anthropic - umstrittener Goldrausch in San Francisco",
+   "s": "Der KI-Gigant Anthropic will an die Börse. Und damit könnten Tausende Mitarbeiter und Investoren zu Millionären werden. In San Francisco, dem Konzernsitz, werden explodierende Häuserpreise befürchtet. Von G. Biesinger.",
+   "u": "https://www.tagesschau.de/ausland/amerika/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T09:42:31+00:00"
+  },
+  {
+   "t": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
+   "s": "In Abu Dhabi haben die Gespräche über ein Ende des Krieges in der Ukraine begonnen. Zuletzt hatte US-Präsident Trump eine \"große Übereinkunft\" versprochen. Aber was meinte er damit? Und was hieße das für Europa? Von Carsten Kühntopp.",
+   "u": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T08:18:50+00:00"
+  },
+  {
+   "t": "Israels neu gewähltes Parlament kommt erstmals zusammen",
+   "s": "Nach der Wahl tritt Israels neues Parlament heute erstmals zusammen - inmitten der schwierigen Regierungsbildung. Netanjahu-Rivale Eisenkot hat dafür den Auftrag erhalten. Er hält auch eine Minderheitsregierung für möglich.",
+   "u": "https://www.tagesschau.de/ausland/asien/knesset-eisenkot-regierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T08:13:27+00:00"
+  },
+  {
+   "t": "Neun Männer in Manchester angeklagt - Auslöser sind NDR-Recherchen",
+   "s": "Gegen neun Männer läuft in Manchester ein großer Gerichtsprozess. Sie sollen Sexualstraftaten an einer bewusstlosen Frau begangen haben. Ausgelöst wurden die Ermittlungen durch noch unveröffentlichte NDR-Recherchen. Von I. Ströh und I. Beer.",
+   "u": "https://www.tagesschau.de/ausland/europa/manchester-prozess-sexualstraftaten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T07:39:59+00:00"
+  },
+  {
+   "t": "Kalifornier lehnen Milliardärssteuer ab",
+   "s": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in Werbespots gegen die Reichensteuer gesteckt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T07:15:02+00:00"
+  },
+  {
    "t": "Republikaner Massie will Hegseth des Amtes entheben",
-   "s": "Nach der Wahlniederlage bei den Midterms wächst der Druck auf die US-Republikaner - auch wegen des Iran-Kriegs. Nun hat der Trump-kritische Republikaner Massie ein Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth auf den Weg gebracht.",
+   "s": "Nach dem Wahldebakel der Republikaner sehen Gegner von US-Verteidigungsminister Hegseth eine neue Gelegenheit, ihn loszuwerden. Ob es tatsächlich zur Amtsenthebung kommt, ist aber fraglich. Präsident Trump stellte sich hinter seinen Minister.",
    "u": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-09T20:48:39+00:00"
+   "d": "2026-11-10T06:12:18+00:00"
+  },
+  {
+   "t": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+   "s": "Heute beginnen trilaterale Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland einen echten Frieden bringen - oder führen sie zu einer Schwächung der Ukraine? Die Erwartungen in der Ukraine sind gering. Von F. Kellermann.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T01:13:48+00:00"
   },
   {
    "t": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
@@ -36,13 +85,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-102.html",
    "q": "Tagesschau",
    "d": "2026-11-09T17:19:07+00:00"
-  },
-  {
-   "t": "Russland: Letzte unabhängige Zeitung Nowaja Gaseta stellt Arbeit ein",
-   "s": "Sie galt als die letzte regierungskritische Stimme in Russland - bis heute. Nun hat die Zeitung Nowaja Gaseta ihren Betrieb eingestellt. Der Druck des Kreml wurde zu groß. Mitbegründer Muratow fand dazu klare Worte.",
-   "u": "https://www.tagesschau.de/ausland/europa/russland-zeitung-nowaja-gaseta-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T16:35:08+00:00"
   },
   {
    "t": "Frankreichs Linksradikale: \"Weniger polarisieren? Werde ich nicht tun\"",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
    "q": "Tagesschau",
    "d": "2026-11-09T02:49:02+00:00"
-  },
-  {
-   "t": "Historische Niederlage: ANC stürzt bei Kommunalwahl in Südafrika ab",
-   "s": "Bei den Kommunalwahlen in Südafrika hat der Afrikanische Nationalkongress (ANC) eine herbe Niederlage eingefahren. Viele sind angesichts Kriminalität und Korruption enttäuscht von der Partei, die das Land aus der Apartheid geführt hatte.",
-   "u": "https://www.tagesschau.de/ausland/afrika/wahlen-suedafrika-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T02:47:21+00:00"
-  },
-  {
-   "t": "Krakau nach der Tat - der Stand der Ermittlungen",
-   "s": "Hunderte Menschen in Krakau haben gemeinsam der sechs Opfer gedacht, die am Wochenende auf einem zentralen Platz der Stadt erschossen wurden. Gleichzeitig ermitteln die Behörden weiter - wegen des Verdachts auf Terrorismus.",
-   "u": "https://www.tagesschau.de/ausland/europa/ermittlungen-krakau-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T02:02:19+00:00"
-  },
-  {
-   "t": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
-   "s": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten war kein Papst mehr in dem südamerikanischen Land zu Gast.",
-   "u": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T00:43:39+00:00"
-  },
-  {
-   "t": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
-   "s": "Starker Regen hat Teile des Gazastreifens überschwemmt. Laut dem Gesundheitsminister haben eine Million Vertriebene kein Dach mehr über dem Kopf. Hilfsorganisationen befürchten eine humanitäre Katastrophe. Von J.-C. Kitzler.",
-   "u": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-08T20:15:13+00:00"
-  },
-  {
-   "t": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
-   "s": "Amsterdam ist erneut Schauplatz einer Großdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.",
-   "u": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-08T17:02:14+00:00"
-  },
-  {
-   "t": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
-   "s": "Nun ist es offiziell: Israels Präsident Herzog hat den Oppositionspolitiker Eisenkot mit der Regierungsbildung beauftragt. Der Ex-Militärchef appellierte an die anderen Parteien, \"unkonventionelle politische Schritte\" zu akzeptieren.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-08T16:07:41+00:00"
   }
  ]
 }

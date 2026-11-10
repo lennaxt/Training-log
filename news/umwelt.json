@@ -1,7 +1,42 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-09T23:47:08+00:00",
+ "updated": "2026-11-10T11:14:02+00:00",
  "items": [
+  {
+   "t": "Ausbeutung von Reinigungskräften: 16 Stunden Putzen am Tag",
+   "s": "Menschen aus Osteuropa werden nach Deutschland gelockt, um für einen Hungerlohn Toiletten sauber zu machen. Einblicke in ein kriminelles System.",
+   "u": "https://taz.de/Wer-reinigt-unsere-oeffentliche-Toiletten-Einblicke-in-ein-kriminelles-System/!6224245/",
+   "q": "taz",
+   "d": "2026-11-10T11:04:00+00:00"
+  },
+  {
+   "t": "Frauenrechtlerin in Afghanistan: „Wir haben uns dummerweise auf Deutschland verlassen“",
+   "s": "Frauenrechtlerin Sarah versteckt sich in Afghanistan vor den Taliban. Anstatt sie wie versprochen aufzunehmen, hofiert Deutschland die Machthaber.",
+   "u": "https://taz.de/Wie-engagiert-sich-eine-Frauenrechtlerin-in-Afghanistan-unter-den-Taliban-Ein-Besuch/!6228560/",
+   "q": "taz",
+   "d": "2026-11-10T08:48:00+00:00"
+  },
+  {
+   "t": "20 Jahre Ohel-Jakob-Synagoge in München: Feiern unter Polizeischutz",
+   "s": "Zu einem Festakt in der Münchner Hauptsynagoge durfte Charlotte Knobloch hohen Besuch empfangen. Der plötzlich noch etwas höher wurde.",
+   "u": "https://taz.de/20-Jahre-Ohel-Jakob-Synagoge-in-Muenchen/!6228835/",
+   "q": "taz",
+   "d": "2026-11-10T08:36:00+00:00"
+  },
+  {
+   "t": "Jugendproteste in Europa: Eine Wut, die so viel will",
+   "s": "Schnaubend empören sich bürgerliche Medienmänner derzeit über die Wut der jungen Linken – und stolpern alle über einen simplen Denkfehler.",
+   "u": "https://taz.de/Jugendproteste-in-Europa-Der-Denkfehler-der-Maenner-die-sich-ueber-Linke-empoeren/!6228573/",
+   "q": "taz",
+   "d": "2026-11-10T06:18:00+00:00"
+  },
+  {
+   "t": "Zehn Jahre Nein heißt Nein: Nein ist nicht mehr genug",
+   "s": "2016 sollte eine Reform des Sexualstrafrechts die Betroffenen von Vergewaltigung besser schützen. Zehn Jahre später sind viele ernüchtert.",
+   "u": "https://taz.de/Zehn-Jahre-Nein-heisst-Nein/!6227406/",
+   "q": "taz",
+   "d": "2026-11-10T06:09:00+00:00"
+  },
   {
    "t": "Gewinne von Rüstungsunternehmen: Zu viel Geld durch Waffen",
    "s": "Die Linksfraktion fordert eine Übergewinnsteuer für Rüstungsunternehmen. Dafür bringt sie einen Gesetzentwurf in den Bundestag.",
@@ -29,6 +64,13 @@
    "u": "https://taz.de/Haushaltsentwurf-fuer-2027/!6228769/",
    "q": "taz",
    "d": "2026-11-09T17:01:00+00:00"
+  },
+  {
+   "t": "Debatte um Clankriminalität: Wenn der CDU-Chef auf die Kacke haut",
+   "s": "Niedersachsens CDU-Chef Sebastian Lechner hat sich zu ein paar seltsamen Äußerungen verstiegen. Die sind leider typisch für die stumpfe Clan-Debatte.",
+   "u": "https://taz.de/Debatte-um-Clankriminalitaet/!6228707/",
+   "q": "taz",
+   "d": "2026-11-09T16:34:00+00:00"
   },
   {
    "t": "Palästinafahne am Reichstag: Politik und Polizei reagieren",
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Journalistische-Entgleisungen/!6227534/",
    "q": "taz",
    "d": "2026-11-07T11:02:00+00:00"
-  },
-  {
-   "t": "Tod von Hubert Aiwanger: Warum er fehlen wird",
-   "s": "An Hubert Aiwanger konnte man viel kritisieren – und das haben wir getan. Doch eines muss man ihm lassen: Ein Hund war er schon, manchmal sogar ein cooler.",
-   "u": "https://taz.de/Tod-von-Hubert-Aiwanger/!6228138/",
-   "q": "taz",
-   "d": "2026-11-07T08:38:00+00:00"
-  },
-  {
-   "t": "Serpil Midyatli über Ungleichbehandlung: „Frauen werden wundgeschossen“",
-   "s": "Schleswig-Holsteins SPD-Fraktionschefin Serpil Midyatli findet, dass Frauen und Männer in der Politik mit zweierlei Maß gemessen werden. Immer noch.",
-   "u": "https://taz.de/Serpil-Midyatli-ueber-Ungleichbehandlung/!6228066/",
-   "q": "taz",
-   "d": "2026-11-07T07:00:00+00:00"
-  },
-  {
-   "t": "Union will Aigner als Bundespräsidentin: Es ist keine Schwäche, sich hinter eine starke Frau zu stellen",
-   "s": "Ilse Aigner soll Bundespräsidentin werden. Das verdankt sie nicht Friedrich Merz, der erneut nicht wie ein Antreiber, sondern ein Getriebener wirkte.",
-   "u": "https://taz.de/Union-will-Aigner-als-Bundespraesidentin/!6224226/",
-   "q": "taz",
-   "d": "2026-11-06T18:57:00+00:00"
-  },
-  {
-   "t": "Bundespräsidentschafts-Kandidatin Aigner: Die Bundespräsidentin als Demokratiewächterin",
-   "s": "Die Bun­des­prä­si­den­t:in sollte eine Ju­ris­t:in sein, raunte es in der CDU, was sich gegen Ilse Aigner richtete. Doch sie soll es nun offenbar werden.",
-   "u": "https://taz.de/Bundespraesidentschafts-Kandidatin-Aigner/!6228205/",
-   "q": "taz",
-   "d": "2026-11-06T18:56:00+00:00"
-  },
-  {
-   "t": "Der Kanzler und die Frauen: Friedrich Merz jetzt Feminist",
-   "s": "Wenn eine Frau Bundespräsidentin wird, dann soll das schon Gleichberechtigung sein. Der Kanzlerposten aber bleibt beim Mann.",
-   "u": "https://taz.de/Der-Kanzler-und-die-Frauen/!6224177/",
-   "q": "taz",
-   "d": "2026-11-06T18:55:00+00:00"
-  },
-  {
-   "t": "„Spiegel“ skandalisiert Linke-Engagement: Linke pocht auf den Rechtsstaat",
-   "s": "Eine neue Abgeordnete der Linken in Berlin begleitet Palästinenser, die sich vor Gericht mit Erfolg gegen ihre Abschiebung wehren. Was ist daran das Problem?",
-   "u": "https://taz.de/Spiegel-skandalisiert-Linke-Engagement/!6228217/",
-   "q": "taz",
-   "d": "2026-11-06T18:54:00+00:00"
   }
  ]
 }
