@@ -1,20 +1,62 @@
 {
  "name": "Ausland",
- "updated": "2026-11-10T11:13:59+00:00",
+ "updated": "2026-11-10T21:18:16+00:00",
  "items": [
   {
-   "t": "Was von den Ukraine-Gesprächen in Abu Dhabi zu erwarten ist",
-   "s": "Unterhändler Russlands und der Ukraine haben ihre Gespräche unter US-Vermittlung in Abu Dhabi aufgenommen. Was wollen die Kriegsparteien? Welche Interessen haben die USA? Und welche Rolle haben die Europäer?",
-   "u": "https://www.tagesschau.de/ausland/asien/ukraine-verhandlungen-abu-dhabi-104.html",
+   "t": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
+   "s": "Der erste Tag der Gespräche zwischen Russland und der Ukraine in Abu Dhabi ist ohne offizielles Ergebnis zu Ende gegangen. Medien berichten aber von einem geplanten Gefangenenaustausch. Eine Waffenruhe scheint dagegen in weiter Ferne.",
+   "u": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-10T10:48:43+00:00"
+   "d": "2026-11-10T21:08:29+00:00"
   },
   {
-   "t": "Börsengang von Anthropic - umstrittener Goldrausch in San Francisco",
-   "s": "Der KI-Gigant Anthropic will an die Börse. Und damit könnten Tausende Mitarbeiter und Investoren zu Millionären werden. In San Francisco, dem Konzernsitz, werden explodierende Häuserpreise befürchtet. Von G. Biesinger.",
-   "u": "https://www.tagesschau.de/ausland/amerika/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html",
+   "t": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
+   "s": "Vor knapp zwei Wochen erschütterte das zweite große Zugunglück innerhalb eines Jahres Spanien - der Schock sitzt noch immer tief. Bei einer Trauermesse in Toledo wurde nun der 69 Toten gedacht. Von Franka Welz.",
+   "u": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-10T09:42:31+00:00"
+   "d": "2026-11-10T21:04:36+00:00"
+  },
+  {
+   "t": "Wadephul warnt Iran vor hybriden Angriffen",
+   "s": "Frankreich sieht Iran hinter den Cyberangriffen auf Kühlanlagen - doch das Land dementiert. Die deutschen Behörden haben sich noch nicht festgelegt, Außenminister Wadephul warnte Teheran nun aber vor hybriden Attacken.",
+   "u": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T16:51:08+00:00"
+  },
+  {
+   "t": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
+   "s": "Machtmissbrauch im Iran-Krieg - unter anderem wegen dieses Vorwurfs könnte ein Amtsenthebungsverfahren gegen Pentagon-Chef Hegseth eingeleitet werden. Auf einer Pressekonferenz wies er die Anschuldigungen zurück und sprach von einer Inszenierung.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T15:51:55+00:00"
+  },
+  {
+   "t": "Zwei Tote bei russischen Luftangriffen",
+   "s": "Russland hat die Ukraine in der Nacht erneut mit Luftangriffen überzogen. Dabei starben ukrainischen Angaben zufolge zwei Menschen. Zudem seien mehrere Umspannwerke getroffen worden, in mehreren Regionen fiel der Strom aus.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T14:42:40+00:00"
+  },
+  {
+   "t": "Ukraine-Verhandlungen: \"Beide Seiten stehen unter enormem Zugzwang\"",
+   "s": "Russland und die Ukraine stehen unter großem Zeitdruck, sagt der Militärexperte Markus Reisner. Doch ohne Zugeständnisse werde es keinen Erfolg bei den Verhandlungen geben. Wichtig seien auch mögliche Gespräche über eine neue Sicherheitsordnung.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-abu-dhabi-104.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T14:18:25+00:00"
+  },
+  {
+   "t": "Mehrere Tote bei Massenunfällen auf bulgarischer Autobahn",
+   "s": "Dichter Nebel, nasse Straßen: Auf einer Autobahn in Bulgarien sind mindestens zwölf Menschen bei Auffahrunfällen gestorben. Zahlreiche Rettungskräfte sind im Einsatz. EU-Kommissionschefin von der Leyen musste ihren Besuch in dem Land verkürzen.",
+   "u": "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T14:09:14+00:00"
+  },
+  {
+   "t": "Masernkrise in den USA: Mehr Verunsicherung, mehr Infektionen",
+   "s": "Die USA erleben den größten Masernausbruch seit Jahrzehnten - auch weil der Gesundheitsminister widersprüchliche Botschaften zur Impfung verbreitet. Noch in dieser Woche könnte das Land den Status \"masernfrei\" verlieren. Von Anne Schneider.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-masern-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-10T12:13:48+00:00"
   },
   {
    "t": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
    "q": "Tagesschau",
    "d": "2026-11-09T13:52:00+00:00"
-  },
-  {
-   "t": "Viele Tote nach Bootsunglück vor Senegal gemeldet",
-   "s": "Vor der Küste Senegals ist ein Boot gekentert. Nach jüngsten Angaben der Behörden starben fast 40 Menschen. Senegals Präsident kündigte einen entschlossenen Kampf gegen Schleuser an.",
-   "u": "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T12:26:14+00:00"
-  },
-  {
-   "t": "Erste Übung der multinationalen Truppe für die Ukraine startet",
-   "s": "Etwa 2.800 Soldaten aus elf Ländern üben nicht weit von der ukrainischen Grenze entfernt. Eines Tages könnte die multinationale Truppe in der Ukraine einen Frieden sichern. Deutschland unterstützt das Manöver mit Transportflugzeugen.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-uebung-koalicja-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T12:04:38+00:00"
-  },
-  {
-   "t": "Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\"",
-   "s": "US-Präsident Trump ist weiter auf der Suche nach einem Pressesprecher. Mit dem Boss der Kampfsportliga UFC hatte er einen ungewöhnlichen Kandidaten genannt - jetzt spricht er von einem \"Scherz\".",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-trump-pressesprecher-dana-white-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T10:41:19+00:00"
-  },
-  {
-   "t": "Mindestens 20 Tote bei Schiffsunglücken vor Kreta",
-   "s": "Sie brachen in Libyen auf und zahlten Tausende Euro für die Überfahrt Richtung EU: Bei mehreren Bootsunglücken sind in den vergangenen Tagen mindestens 20 Menschen ums Leben gekommen.",
-   "u": "https://www.tagesschau.de/ausland/europa/bootsunglueck-kreta-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T09:59:46+00:00"
-  },
-  {
-   "t": "Todesschütze von Krakau ist tot",
-   "s": "Die tödlichen Schüsse in Krakau haben Entsetzen ausgelöst, aber auch viele Fragen aufgeworfen. Vor allem nach dem Motiv des Täters. Er kann nicht mehr vernommen werden. Der 24-Jährige starb im Krankenhaus.",
-   "u": "https://www.tagesschau.de/ausland/europa/krakau-todesschuetze-tot-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T07:06:15+00:00"
-  },
-  {
-   "t": "Trump will Kampfsportunternehmer White als Pressesprecher",
-   "s": "\"Ein gewalttätiger Kämpfer und Krieger\": Mit einem unkonventionellen Vorschlag löst US-Präsident Trump Rätselraten aus: Der Chef der Kampfsportliga UFC soll Pressesprecher werden. Alles nur ein Scherz, rudert Trump später zurück.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T02:49:02+00:00"
   }
  ]
 }

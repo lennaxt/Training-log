@@ -1,17 +1,59 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-10T11:14:03+00:00",
+ "updated": "2026-11-10T21:18:20+00:00",
  "items": [
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Ukraine-Unterstützung spaltet Deutschland",
-   "s": "Kyjiw und Moskau verhandeln. Die Unterstützungsfrage spaltet Deutschland mehr als jedes andere Thema. Merz fordert mehr Beteiligung von EU-Partnern.",
+   "t": "Geplatzter Diesel-Deal: Trump erleidet Schiffbruch",
+   "s": "Während in Abu Dhabi über ein Ende des Krieges in der Ukraine verhandelt wird, ist Donald Trumps großes Energiegeschäft mit Moskau gescheitert.",
+   "u": "https://taz.de/Geplatzter-Diesel-Deal/!6228989/",
+   "q": "taz",
+   "d": "2026-11-10T18:50:00+00:00"
+  },
+  {
+   "t": "Verhandlungen in Abu Dhabi: Europa am Katzentisch",
+   "s": "Über ein Kriegsende in der Ukraine und die Sicherheitsordnung in Europa verhandeln seit Dienstag die USA, Russland und die Ukraine. Ergebnisse erwartet niemand.",
+   "u": "https://taz.de/Verhandlungen-in-Abu-Dhabi/!6228877/",
+   "q": "taz",
+   "d": "2026-11-10T18:49:00+00:00"
+  },
+  {
+   "t": "Verhandlungen in Abu Dhabi: Hoffnungen auf einen Getreide-Deal",
+   "s": "Die Erwartungen an die Gespräche zwischen Russland und der Ukraine sind niedrig. Aber wenigstens ein Getreide-Abkommen könnte dabei herausspringen.",
+   "u": "https://taz.de/Verhandlungen-in-Abu-Dhabi/!6228876/",
+   "q": "taz",
+   "d": "2026-11-10T18:48:00+00:00"
+  },
+  {
+   "t": "Deutschland und Ungarn: Immer noch kein einfacher Partner",
+   "s": "Ungarns Premier Peter Magyar skizziert in Berlin seinen Kurs – und widerspricht Kanzler Merz, der die Ukraine-Hilfe im EU-Haushalt festschreiben will.",
+   "u": "https://taz.de/Deutschland-und-Ungarn/!6229020/",
+   "q": "taz",
+   "d": "2026-11-10T15:49:00+00:00"
+  },
+  {
+   "t": "Judoka will Frankreichs Präsident werden: Politisches Leichtgewicht",
+   "s": "Der 11-fache Judoweltmeister Teddy Riner wirft seine Kandidatur für die französische Präsidentschaft in den Ring. Doch wofür er steht, weiß keiner.",
+   "u": "https://taz.de/Judoka-will-Frankreichs-Praesident-werden/!6228875/",
+   "q": "taz",
+   "d": "2026-11-10T15:11:00+00:00"
+  },
+  {
+   "t": "Cyberattacken auf Kühlanlagen: Frankreich beschuldigt Iran",
+   "s": "Die Pariser Staatsanwaltschaft ermittelt. Außenminister Jean-Noël Barrot kündigt Sanktionen auf EU-Ebene an und bestellt Irans Botschafter ein.",
+   "u": "https://taz.de/Cyberattacken-auf-Kuehlanlagen/!6228921/",
+   "q": "taz",
+   "d": "2026-11-10T13:43:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Slowakischer Regierungschef wirft Merz „Erpressung“ vor",
+   "s": "Der slowakische Regierungschef Fico wirft dem Bundeskanzler im Zusammenhang mit finanzieller Unterstützung Erpressung vor. Kyjiw und Moskau verhandeln.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6228837/",
    "q": "taz",
    "d": "2026-11-10T07:39:00+00:00"
   },
   {
    "t": "COP31 in der Türkei: Die Müllmetropole Adana",
-   "s": "In der Millionenstadt in der Türkei wird ein goßer Teil des europäischen Plastikabfalls zu Geld gemacht. Natur und Bevölkerung profitieren davon nicht",
+   "s": "In der Millionenstadt in der Türkei wird ein großer Teil des europäischen Plastikabfalls zu Geld gemacht. Natur und Bevölkerung profitieren davon nicht",
    "u": "https://taz.de/COP31-in-der-Tuerkei/!6228325/",
    "q": "taz",
    "d": "2026-11-09T18:43:00+00:00"
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Sozialproteste-Frankreich/!6224170/",
    "q": "taz",
    "d": "2026-11-08T13:43:00+00:00"
-  },
-  {
-   "t": "Schusswaffenangriff in Krakau: Mutmaßlicher Täter tötete zunächst Eltern und Schwester",
-   "s": "Bevor er mitten in Krakau das Feuer eröffnete, erschoss der mutmaßliche Täter seine Familie. Unter den Verletzten sollen auch Deutsche sein.",
-   "u": "https://taz.de/Schusswaffenangriff-in-Krakau/!6228328/",
-   "q": "taz",
-   "d": "2026-11-08T07:40:00+00:00"
-  },
-  {
-   "t": "Nach dem Sieg über Vučić in Serbien: Ein friedliches Gesamtmonster",
-   "s": "Der Sieg der Studentenliste in Serbien erfreut unsere Autorin. Zugleich fühlt sie sich wie ein Zombie inmitten eines Star-Trek-Kollektivs.",
-   "u": "https://taz.de/Nach-dem-Sieg-ueber-Vucic-in-Serbien/!6224167/",
-   "q": "taz",
-   "d": "2026-11-07T19:03:00+00:00"
-  },
-  {
-   "t": "Neues Museum in Istanbul: Die neue alte Kaiserliche Münze",
-   "s": "In Istanbul wurde die lange geschlossene kaiserliche Münzprägeanstalt als Museum neu eröffnet. Die Istanbulis sind begeistert.",
-   "u": "https://taz.de/Neues-Museum-in-Istanbul/!6224153/",
-   "q": "taz",
-   "d": "2026-11-07T17:02:00+00:00"
-  },
-  {
-   "t": "Mutmaßlicher Täter festgenommen: Tote und Verletzte nach Schüssen im Zentrum von Krakau",
-   "s": "Auf dem Großen Ring in Polens zweitgrößter Stadt fallen Schüsse aus einem Auto. Die Polizei berichtet von sechs Toten. Das Motiv des Täters ist noch unklar.",
-   "u": "https://taz.de/Mutmasslicher-Taeter-festgenommen/!6228323/",
-   "q": "taz",
-   "d": "2026-11-07T15:53:00+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Die Macht der Kaufkraft",
-   "s": "Eine wachsende Zahl von Menschen in Frankreich glaubt, sich immer weniger leisten zu können. Die Angst vor Verarmung wächst.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6228240/",
-   "q": "taz",
-   "d": "2026-11-07T14:59:00+00:00"
-  },
-  {
-   "t": "Der Druck der Straße: Nehmen wir uns die Gegenwart!",
-   "s": "Was von den Sozialprotesten bleibt, sind oft nur Bilder der Gewalt. Dem gilt es entgegenzuwirken – gerade in der Stadt der Liebe. Auch wenn es regnet.",
-   "u": "https://taz.de/Der-Druck-der-Strasse/!6224132/",
-   "q": "taz",
-   "d": "2026-11-07T14:57:00+00:00"
   }
  ]
 }

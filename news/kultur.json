@@ -1,7 +1,28 @@
 {
  "name": "Kultur",
- "updated": "2026-11-10T11:14:04+00:00",
+ "updated": "2026-11-10T21:18:21+00:00",
  "items": [
+  {
+   "t": "Amtsenthebungsverfahren gegen Hegseth: Klare öffentliche Meinung",
+   "s": "Mit einem Ja zu einem Impeachment-Verfahren würden sich die Republikaner einen großen Gefallen tun. Die Frage ist, ob sie das Rückgrat dazu haben.",
+   "u": "https://taz.de/Amtsenthebungsverfahren-gegen-Hegseth/!6228916/",
+   "q": "taz",
+   "d": "2026-11-10T18:47:00+00:00"
+  },
+  {
+   "t": "Gentrifizierung in NYC: New Yorks letzte Runde?",
+   "s": "„Jimmy’s Corner“ ist eine der wenigen verbliebenen Kneipen am Times Square. Das Stammpublikum kommt seit Jahrzehnten. Doch das könnte bald vorbei sein.",
+   "u": "https://taz.de/Gentrifizierung-in-NYC/!6225606/",
+   "q": "taz",
+   "d": "2026-11-10T18:43:00+00:00"
+  },
+  {
+   "t": "Papst Leo XIV. besucht Argentinien: Triumphzug des Papstes durch Argentiniens Hauptstadt",
+   "s": "Begeistert empfängt Buenos Aires das Kirchenoberhaupt. Anders als Argentiniens Präsident beharrt der Papst auf sozialer Gerechtigkeit und Inklusion.",
+   "u": "https://taz.de/Papst-Leo-XIV-besucht-Argentinien/!6228854/",
+   "q": "taz",
+   "d": "2026-11-10T12:16:00+00:00"
+  },
   {
    "t": "US-Bundesstaat Kalifornien: Volksabstimmung über Reichensteuer scheitert",
    "s": "Die „Proposition 40“ sah vor, dass kalifornische Milliardäre eine einmalige Abgabe auf ihr Vermögen zahlen sollen. Auch von links gab es an dem Vorstoß Kritik.",
@@ -25,7 +46,7 @@
   },
   {
    "t": "Portrait Jensen Huang: Der Meister der KI und sein männlicher Trieb",
-   "s": "Der Nvidia-Chef Jensen Huang räumt eine Affäre mit einer Chinesin ein, die der US-Geheimdienst für eine Spionin hält und schon 2025 vor ihr warnte.",
+   "s": "Der Nvidia-Chef Jensen Huang räumt eine Affäre mit einer Chinesin ein, die der US-Geheimdienst für eine Spionin hält, vor der er schon 2025 warnte.",
    "u": "https://taz.de/Portrait-Jensen-Huang/!6228699/",
    "q": "taz",
    "d": "2026-11-09T15:22:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Demokratische-Sozialisten-in-den-USA/!6227953/",
    "q": "taz",
    "d": "2026-11-05T19:00:00+00:00"
-  },
-  {
-   "t": "Spekulationen über Melania Trump: Eine First Lady in Teilzeit",
-   "s": "Als erste First Lady hat Melania Trump eine Waffenruhe ausgehandelt. Der ukrainische Präsident Selenskyj würdigt diesen Erfolg mit einem Orden.",
-   "u": "https://taz.de/Spekulationen-ueber-Melania-Trump/!6227564/",
-   "q": "taz",
-   "d": "2026-11-05T16:39:00+00:00"
-  },
-  {
-   "t": "US-Außenpolitik nach den Midterms: „Trump will Ergebnisse für die Geschichtsbücher produzieren“",
-   "s": "Eine Mehrheit der Demokraten im Kongress kann der US-Regierung das Leben schwer machen, sagt Sicherheitsexpertin Claudia Major. Außenpolitisch rechnet sie mit Chaos.",
-   "u": "https://taz.de/US-Aussenpolitik-nach-den-Midterms/!6227521/",
-   "q": "taz",
-   "d": "2026-11-05T13:36:00+00:00"
-  },
-  {
-   "t": "Argentinien und das EU-Mercosur-Abkommen: Wie viel ist Europa der Umweltschutz wert?",
-   "s": "Brüssel ist in einem rhetorischen Labyrinth gefangen: Während die EU sich mit grünen Reden schmückt, drückt sie bei „Kettensäge“ Javier Milei ein Auge zu.",
-   "u": "https://taz.de/Argentinien-und-das-EU-Mercosur-Abkommen/!6224036/",
-   "q": "taz",
-   "d": "2026-11-05T09:17:00+00:00"
   }
  ]
 }
