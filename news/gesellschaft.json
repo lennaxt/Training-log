@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-10T21:18:20+00:00",
+ "updated": "2026-11-11T10:59:45+00:00",
  "items": [
+  {
+   "t": "Massenfestnahmen in Moskau: „Wie Mäuse in einem Käfig“",
+   "s": "Hunderte sind bei einer Razzia in Moskau festgenommen worden, darunter viele Minderjährige. Bescheide zur Einberufung bekamen sie gleich mit ausgehändigt.",
+   "u": "https://taz.de/Massenfestnahmen-in-Moskau/!6228674/",
+   "q": "taz",
+   "d": "2026-11-11T09:29:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Selenskyj lobt US-Vermittler",
+   "s": "Vor dem zweiten Verhandlungstag in Abu Dhabi sieht der ukrainische Präsident eine geänderte US-Haltung. Währenddessen gehen gegenseitige Angriffe weiter.",
+   "u": "https://taz.de/Nach-dem-Treffen-in-Abu-Dhabi-Das-ist-der-aktuelle-Stand-im-Ukraine-Krieg/!6229123/",
+   "q": "taz",
+   "d": "2026-11-11T08:15:00+00:00"
+  },
+  {
+   "t": "1.722 Tage Krieg in der Ukraine: Stürmer und Verteidiger",
+   "s": "Viele ukrainische Fußballspieler haben sich freiwillig zur Armee gemeldet, so auch Nationalspieler Roman Maksymjuk. Doch einige kämpfen auf russischer Seite.",
+   "u": "https://taz.de/1721-Tage-Krieg-in-der-Ukraine/!6228296/",
+   "q": "taz",
+   "d": "2026-11-11T06:28:00+00:00"
+  },
   {
    "t": "Geplatzter Diesel-Deal: Trump erleidet Schiffbruch",
    "s": "Während in Abu Dhabi über ein Ende des Krieges in der Ukraine verhandelt wird, ist Donald Trumps großes Energiegeschäft mit Moskau gescheitert.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Schusswaffenangriff-in-Krakau/!6228372/",
    "q": "taz",
    "d": "2026-11-08T16:46:00+00:00"
-  },
-  {
-   "t": "Frankreichs Linke: Mélenchon will „alles verändern“",
-   "s": "Der Linkspolitiker will der Kandidat der sozialen Gerechtigkeit sein und den Macronismus beenden. 2027 hat er erstmals die Chance auf die Stichwahl.",
-   "u": "https://taz.de/Frankreichs-Linke/!6228381/",
-   "q": "taz",
-   "d": "2026-11-08T15:15:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Kraftwerk läuft mit Notstrom",
-   "s": "Das AKW in Saporischschja hat die externe Stromversorgung verloren. Bei den geplanten Ukraine-Gesprächen werden auch europäische Vertreter dabei sein.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6228502/",
-   "q": "taz",
-   "d": "2026-11-08T14:11:00+00:00"
-  },
-  {
-   "t": "Sozialproteste Frankreich: Wo die Blockaden wirklich begannen",
-   "s": "Die Sozialproteste haben ganz Frankreich erfasst. Dennoch finden die Menschen, die den Protest auf Mayotte als erstes angestoßen haben, wenig Gehör.",
-   "u": "https://taz.de/Sozialproteste-Frankreich/!6224170/",
-   "q": "taz",
-   "d": "2026-11-08T13:43:00+00:00"
   }
  ]
 }

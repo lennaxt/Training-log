@@ -1,7 +1,28 @@
 {
  "name": "Kultur",
- "updated": "2026-11-10T21:18:21+00:00",
+ "updated": "2026-11-11T10:59:46+00:00",
  "items": [
+  {
+   "t": "Politischer Wahlkampf auf Social Media: Brasilien verhängt Strafe gegen Meta",
+   "s": "Die brasilianischen Präsidentschaftskandidaten wurden auf Meta ungleich behandelt. Das urteilt ein Wahlgericht und verhängt eine Millionenstrafe gegen Meta.",
+   "u": "https://taz.de/Politischer-Wahlkampf-auf-Social-Media/!6229126/",
+   "q": "taz",
+   "d": "2026-11-11T09:21:00+00:00"
+  },
+  {
+   "t": "Demokraten in den USA: Übertragbares Erfolgsrezept",
+   "s": "Der Ausgang der Midterms in den USA zeigt: Die Menschen haben genug von Polarisierung und gegenseitiger Abwertung. Sie wollen, dass Probleme gelöst werden.",
+   "u": "https://taz.de/US-Midterms-Die-Menschen-haben-genug-von-Polarisierung-und-gegenseitiger-Abwertung/!6228886/",
+   "q": "taz",
+   "d": "2026-11-11T08:47:00+00:00"
+  },
+  {
+   "t": "Antrag scheitert an Repubilkanern: Amtsenthebung Hegseths im US-Repräsentantenhaus gestoppt",
+   "s": "Ein Konressabgeordneter wollte US-Verteidigungsminister Hegseth des Amtes entheben lassen. Sein Vorhaben wird allerdings bereits im Anfangsstadium gestoppt.",
+   "u": "https://taz.de/Amtsenthebung-Hegseths-im-US-Repraesentantenhaus-gestoppt/!6229121/",
+   "q": "taz",
+   "d": "2026-11-11T07:08:00+00:00"
+  },
   {
    "t": "Amtsenthebungsverfahren gegen Hegseth: Klare öffentliche Meinung",
    "s": "Mit einem Ja zu einem Impeachment-Verfahren würden sich die Republikaner einen großen Gefallen tun. Die Frage ist, ob sie das Rückgrat dazu haben.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Staatskrise-in-Paraguay/!6228141/",
    "q": "taz",
    "d": "2026-11-06T10:12:00+00:00"
-  },
-  {
-   "t": "Streit bei Republikanern nach Midterms: Vance erklärt den Krieg …",
-   "s": "… zur Hauptursache für die Wahlniederlage der Republikaner. Ein Zeichen, dass die Partei sich auf eine Zeit nach Trump vorbereitet?",
-   "u": "https://taz.de/Streit-bei-Republikanern-nach-Midterms/!6227726/",
-   "q": "taz",
-   "d": "2026-11-05T19:01:00+00:00"
-  },
-  {
-   "t": "Die US-Demokraten nach den Midterms: Gewonnen, und jetzt?",
-   "s": "Den US-Demokraten steht nach dem Erfolg bei den Midterms ein Richtungskampf bevor: Kompromiss oder Attacke?",
-   "u": "https://taz.de/Die-US-Demokraten-nach-den-Midterms/!6227731/",
-   "q": "taz",
-   "d": "2026-11-05T19:00:00+00:00"
-  },
-  {
-   "t": "Demokratische Sozialisten in den USA: Die andere „rote Welle“ bei den Midterms",
-   "s": "Bei den Midterm-Wahlen konnten die Democratic Socialists of America viele Erfolge verbuchen. Was bedeutet das für die Zukunft der Demokraten?",
-   "u": "https://taz.de/Demokratische-Sozialisten-in-den-USA/!6227953/",
-   "q": "taz",
-   "d": "2026-11-05T19:00:00+00:00"
   }
  ]
 }

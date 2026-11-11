@@ -1,20 +1,55 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-10T21:18:17+00:00",
+ "updated": "2026-11-11T10:59:42+00:00",
  "items": [
+  {
+   "t": "Zahl der arbeitslosen Akademiker auf Höchststand",
+   "s": "Ein Studium schützt nach wie vor gut vor Arbeitslosigkeit - doch die Wirtschaftslage und der Einsatz von Künstlicher Intelligenz ändern das. Vor allem jüngere Studienabsolventen sind von Arbeitslosigkeit betroffen.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-akademiker-rekord-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T10:07:28+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX macht sich wieder nach oben auf",
+   "s": "Zur Wochenmitte hat der DAX seine Rekordjagd wieder aufgenommen. Neue Zuversicht im Technologiesektor stützt die Kurse. Besonders gut kommen die Zahlen von Siemens Energy an.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T09:42:50+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 11.11.2026",
+   "s": "Update Wirtschaft vom 11.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1681826.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T09:09:42+00:00"
+  },
+  {
+   "t": "Boom bei Windkraft und Rechenzentren beschert Siemens Energy Rekordjahr",
+   "s": "Der Hype um Künstliche Intelligenz, E-Mobilität und Digitalisierung beschert Siemens Energy ein Rekordjahr. Und das soll nach Prognose des Energietechnik-Konzerns so weitergehen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T08:23:39+00:00"
+  },
+  {
+   "t": "Medienbericht: Ältere Beschäftigte doppelt so häufig krankgeschrieben",
+   "s": "Mehr als 30 Tage im Jahr melden sich ältere Arbeitnehmer krank - etwa doppelt so viel wie der Durchschnitt. Das berichtet die Rheinische Post. 60- bis 65-Jährige fallen zudem öfter länger aus.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/krankenstand-aeltere-beschaeftigte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T06:51:52+00:00"
+  },
+  {
+   "t": "\"Digital Fairness Act\": Neue EU-Regeln für Influencer und Onlineshops?",
+   "s": "Die EU-Kommission legt heute einen Vorschlag für mehr Verbraucherschutz im Netz vor. Das Gesetz soll die Regeln für Werbung sowie Algorithmen verschärfen und nimmt Influencer, Onlineshops und Ticketverkäufer ins Visier. Von K. Schmid.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/digital-fairness-act-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T05:28:10+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 10.11.2026",
    "s": "Wirtschaft vor acht vom 10.11.2026",
    "u": "https://www.tagesschau.de/video/video-1681634.html",
    "q": "Tagesschau",
    "d": "2026-11-10T18:52:27+00:00"
-  },
-  {
-   "t": "Marktbericht: Der DAX wird zurückgepfiffen",
-   "s": "Zeitweise hatte der DAX heute die Verluste wegen des KI-Crashs am Freitag vollständig aufgeholt. Unter anderem neue Details zur Nvidia-Affäre bremsten den Aufwärtsdrang dann aber empfindlich.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T17:21:50+00:00"
   },
   {
    "t": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
@@ -66,13 +101,6 @@
    "d": "2026-11-10T09:42:31+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 10.11.2026",
-   "s": "Update Wirtschaft vom 10.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1681258.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T08:57:37+00:00"
-  },
-  {
    "t": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
    "s": "Peking setzt weiter voll auf Export - und knackt auch dank umstrittener Subventionen erneut eine Rekordmarke: Der Handelsüberschuss von mehr als einer Billion Dollar wurde vor allem durch Technologiegüter und Elektroautos erzielt.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html",
@@ -101,13 +129,6 @@
    "d": "2026-11-10T04:01:04+00:00"
   },
   {
-   "t": "Mobilfunkunternehmen Vodafone plant Abbau von 2.300 Stellen",
-   "s": "Der Telekommunikationskonzern Vodafone muss sparen. In Deutschland soll nun rund jeder fünfte Job wegfallen - insgesamt 2.300 Stellen. Dafür will der Konzern stärker Künstliche Intelligenz einsetzen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T16:09:03+00:00"
-  },
-  {
    "t": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
    "s": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
@@ -122,39 +143,11 @@
    "d": "2026-11-09T13:44:48+00:00"
   },
   {
-   "t": "Commerzbank-Übernahme soll Anfang 2027 durch sein",
-   "s": "Noch diesen Monat könnte die UniCredit die letzten Genehmigungen für die Commerzbank-Übernahme erhalten. Auch die Fusion von Commerzbank und der HypoVereinsbank läuft wohl schneller als gedacht.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-uebernahme-unicredit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T12:52:38+00:00"
-  },
-  {
-   "t": "Streiks und neue Gespräche in Bayerns Metall- und Elektroindustrie",
-   "s": "Zum Start der dritten Verhandlungsrunde hat die IG Metall zu einer großen Warnstreik-Kundgebung in Ingolstadt aufgerufen. Erwartet wurden mehr als 15.000 Beschäftigte, unter anderem von Audi und Airbus.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/streiks-tarifgespraeche-ig-metall-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T10:52:08+00:00"
-  },
-  {
-   "t": "Hoffen auf Ende des Iran-Krieges: Ölpreise deutlich gesunken",
-   "s": "Noch ist kein Abkommen unterzeichnet - doch Anleger glauben an ein Ende des US-Iran-Krieges. Das zeigt sich an den Ölpreisen. Und auch an der Tankstelle sinken die Spritpreise weiter.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreise-gesunken-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T08:52:19+00:00"
-  },
-  {
    "t": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
    "s": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html",
    "q": "Tagesschau",
    "d": "2026-11-09T03:32:51+00:00"
-  },
-  {
-   "t": "Viele Gebäude weiterhin ohne Elementarschadenversicherung",
-   "s": "Immer häufiger führen Starkregen und Überschwemmungen zu teuren Schäden an Häusern. Nur gut die Hälfte der Gebäude in Deutschland sind gegen solche Folgen abgesichert. Experten sehen Handlungsbedarf. Von Katharina Wilhelm.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-08T15:28:00+00:00"
   },
   {
    "t": "Moderne Sklaverei: Verboten, aber weltweit verbreitet",
@@ -169,6 +162,13 @@
    "u": "https://www.deutschlandfunk.de/goldabbau-europa-finnland-energiewende-seltene-erden-kritische-rohstoffe-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-11-06T15:39:00+00:00"
+  },
+  {
+   "t": "CBAM – ein Klimaschutz-Druckmittel der EU",
+   "s": "Der Klimaschutz hat politisch weltweit an Rückhalt verloren. Trotzdem haben Fachleute noch Hoffnung – aus mehreren Gründen. Auch ein Instrument der EU könnte Staaten zum Handeln bewegen.",
+   "u": "https://www.deutschlandfunk.de/cbam-klimaschutz-klimawandel-pariser-klimaabkommen-co2-preis-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-03T15:31:00+00:00"
   }
  ]
 }

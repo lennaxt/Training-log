@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-10T21:18:19+00:00",
+ "updated": "2026-11-11T10:59:44+00:00",
  "items": [
+  {
+   "t": "Arbeitsmarkt in Deutschland: Zahl der arbeitslosen Akademiker erreicht Höchststand",
+   "s": "Wer studiert hat, hat dennoch ein eher geringes Risiko, arbeitslos zu werden. Künstliche Intelligenz wird laut Arbeitsgagentur die Arbeitswelt umwälzen.",
+   "u": "https://taz.de/Zahl-der-arbeitslosen-Akademiker-erreicht-Hoechststand/!6229138/",
+   "q": "taz",
+   "d": "2026-11-11T09:11:00+00:00"
+  },
+  {
+   "t": "Rechtsruck im Klassenzimmer: Wenn rechts angesagt ist",
+   "s": "An einer Oberschule in Sachsen wird sichtbar, wie der gesellschaftliche Rechtsruck zunehmend den Schulalltag prägt. Was heißt das für die Schule?",
+   "u": "https://taz.de/Sachsen-Wie-der-gesellschaftliche-Rechtsruck-zunehmend-den-Schulalltag-praegt/!6228618/",
+   "q": "taz",
+   "d": "2026-11-11T06:17:00+00:00"
+  },
   {
    "t": "Linksbündnis in Mecklenburg-Vorpommern: Kein Modell, aber eine Chance",
    "s": "Geräuschlos wurden in Schwerin die Koalitionsverhandlungen für eine Rot-Rot-Grüne Landesregierung abgeschlossen. Einfach nachzuahmen ist das nicht.",
@@ -11,7 +25,7 @@
   },
   {
    "t": "Debatte um Linkspartei-Politikerin Emde: Ihr wird zu viel Bedeutung beigemessen",
-   "s": "Die umstrittene Vanessa Emde aus Berlin-Neukölln wird viel zu wichtig genommen. Es kann nicht sei, dass von ihr Rot-Grün-Rot abhängt.",
+   "s": "Die umstrittene Vanessa Emde aus Berlin-Neukölln wird viel zu wichtig genommen. Es kann nicht sein, dass von ihr Rot-Grün-Rot abhängt.",
    "u": "https://taz.de/Die-umstrittene-Linken-Politikerin-Vanessa-Emde-wird-viel-zu-wichtig-genommen/!6228907/",
    "q": "taz",
    "d": "2026-11-10T18:45:00+00:00"
@@ -36,6 +50,13 @@
    "u": "https://taz.de/Linke-ueber-Regierung-in-Sachsen-Anhalt/!6228949/",
    "q": "taz",
    "d": "2026-11-10T16:55:00+00:00"
+  },
+  {
+   "t": "Explodierende Projektkosten in Hamburg: Peinliche Fragen für Rot-Grün",
+   "s": "CDU beantragt Untersuchungsausschuss zu zwei Projekten der Umweltbehörde. Es geht um 800 Millionen Euro. Die Linke will dem Antrag zum Erfolg verhelfen.",
+   "u": "https://taz.de/Explodierende-Projektkosten-in-Hamburg/!6228867/",
+   "q": "taz",
+   "d": "2026-11-10T16:47:00+00:00"
   },
   {
    "t": "Rot-Rot-Grün in Mecklenburg-Vorpommern: Schwesig marschiert durch",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Freier-Vollzug/!6224189/",
    "q": "taz",
    "d": "2026-11-09T12:53:00+00:00"
-  },
-  {
-   "t": "Rechte Terrorserie: Innenministerium plötzlich doch für NSU-Dokuzentrum",
-   "s": "Pläne für einen Gedenkort zum NSU-Terror gibt es seit Jahren, doch die Bundesregierung verschleppte die Umsetzung. Jetzt gibt es einen Gesetzentwurf.",
-   "u": "https://taz.de/Rechte-Terrorserie/!6228574/",
-   "q": "taz",
-   "d": "2026-11-09T12:38:00+00:00"
-  },
-  {
-   "t": "Neue Bundespräsidentin: Merz schlägt Aigner offiziell vor",
-   "s": "Der Kanzler hat nun offiziell seinen Vorschlag für die Bundespräsidentenwahl gemacht. Erstmals soll eine Frau und CSU-Politikerin das Amt übernehmen.",
-   "u": "https://taz.de/Neue-Bundespraesidentin/!6228603/",
-   "q": "taz",
-   "d": "2026-11-09T12:36:00+00:00"
-  },
-  {
-   "t": "Palästina-Flagge vorm Reichstag: Im Fahnenwahn",
-   "s": "Die Aktivisten, die vorm Reichstag die Palästina-Flagge gehisst haben, werden als Terrorunterstützer diffamiert. Dabei wäre Zuhören wichtig. Gerade bei Nahost-Debatten.",
-   "u": "https://taz.de/Palaestina-Flagge-vorm-Reichstag/!6228561/",
-   "q": "taz",
-   "d": "2026-11-09T12:34:00+00:00"
   }
  ]
 }

@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-11-10T21:18:16+00:00",
+ "updated": "2026-11-11T10:59:40+00:00",
  "items": [
+  {
+   "t": "US-Justizministerium: Drei Männer wegen Terrorunterstützung angeklagt",
+   "s": "Die US-Justiz hat Anklage gegen drei Männer erhoben, die an der Planung von mehreren Anschlägen in Europa und in den USA beteiligt gewesen sein sollen. Dabei geht es auch um den vereitelten Anschlag auf den britischen Luftwaffenstützpunkt Fairford.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-anklage-unterstuetzung-terroranschlaege-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T08:09:54+00:00"
+  },
+  {
+   "t": "Papst Leo in Argentinien: Klartext gegen Mileis Kettensägen-Politik",
+   "s": "Papst Leo XIV. ist in Argentinien von Millionen Menschen gefeiert worden. Bei seinem Besuch kritisierte er die Sozialpolitik von Präsident Milei deutlich. Aber erreicht die Botschaft auch den Empfänger? Von T. Kleinjung.",
+   "u": "https://www.tagesschau.de/ausland/amerika/papst-argentinien-milei-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T05:54:38+00:00"
+  },
+  {
+   "t": "Wie Spaniens Mieterbewegung für den Generalstreik mobilisiert",
+   "s": "Zum ersten Mal seit 2012 findet in Spanien heute ein Generalstreik statt. Die Idee dazu stammt nicht von Arbeitnehmervertretern, sondern von einem Mieterverbund. Das dürfte auch den anstehenden Wahlkampf beeinflussen. Von J. Macher.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-mieterbewegung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T05:16:33+00:00"
+  },
+  {
+   "t": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+   "s": "Die Republikaner im US-Repräsentantenhaus haben einen Vorstoß zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgewehrt. Sie stimmten nahezu geschlossen gegen eine entsprechende Resolution.",
+   "u": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T00:19:26+00:00"
+  },
   {
    "t": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
    "s": "Der erste Tag der Gespräche zwischen Russland und der Ukraine in Abu Dhabi ist ohne offizielles Ergebnis zu Ende gegangen. Medien berichten aber von einem geplanten Gefangenenaustausch. Eine Waffenruhe scheint dagegen in weiter Ferne.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
    "q": "Tagesschau",
    "d": "2026-11-09T16:25:22+00:00"
-  },
-  {
-   "t": "Russell Brand zu mehr als zehn Jahren Haft verurteilt",
-   "s": "Vor wenigen Tagen war der Ex-Comedian in London wegen Vergewaltigung und sexueller Nötigung verurteilt worden. Nun wurde das Strafmaß verkündet: Er muss zehneinhalb Jahre in Haft. Inzwischen wurden neue Vorwürfe laut.",
-   "u": "https://www.tagesschau.de/ausland/russell-brand-strafmass-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T15:56:52+00:00"
-  },
-  {
-   "t": "G7-Außenminister sprechen über Ukraine und Iran",
-   "s": "Welche Rolle spielt Europa bei der Lösung des Ukraine-Kriegs? Wie geht es mit Iran weiter? Diese Fragen stehen im Zentrum der G7-Gespräche in Paris. Außenminister Wadephul mahnt Washington und Moskau.",
-   "u": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T14:21:47+00:00"
-  },
-  {
-   "t": "Krakauer Todesschütze hatte 500 Schuss Munition",
-   "s": "Der Attentäter von Krakau war schwer genug bewaffnet, um noch mehr Menschen zu töten. Die polnische Staatsanwaltschaft hat neue Details zur Tat veröffentlicht - der Attentäter selbst erlag am Morgen seinen Verletzungen.",
-   "u": "https://www.tagesschau.de/ausland/europa/ermittlungen-krakau-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T13:55:03+00:00"
-  },
-  {
-   "t": "Ukraine-Gespräche in Abu Dhabi: EU kündigt Teilnahme an",
-   "s": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Auch Vertreter Europas haben sich dazu angekündigt. Moskau will lieber nur mit den USA reden.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T13:52:00+00:00"
   }
  ]
 }
