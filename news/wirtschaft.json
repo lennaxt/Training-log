@@ -1,20 +1,76 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-11T10:59:42+00:00",
+ "updated": "2026-11-11T21:58:11+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 11.11.2026",
+   "s": "Wirtschaft vor acht vom 11.11.2026",
+   "u": "https://www.tagesschau.de/video/video-1682292.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T20:15:32+00:00"
+  },
+  {
+   "t": "Urteil: BGH nimmt Rechtsschutzversicherungen in die Pflicht",
+   "s": "Klagen gegen Impfstoffhersteller sind seit der Corona-Pandemie keine Seltenheit. Häufig wollen Versicherungen diese nicht unterstützen - wegen vermeintlich geringer Erfolgschancen. Oft zu Unrecht, urteilte nun der BGH. Von A. Stein.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T18:46:53+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX pirscht sich ans Rekordhoch heran",
+   "s": "Im Handelsverlauf hatte es ausgesehen, als würde dem DAX die Luft ausgehen. Doch dann endet der Handelstag mit einem Index nahe am Rekordhoch. Die Wirtschaftsweisen schüren Optimismus, zudem treten die KI-Sorgen in den Hintergrund.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T17:13:36+00:00"
+  },
+  {
+   "t": "Metall- und Elektroindustrie: 24-Stunden-Streiks rücken näher",
+   "s": "Die IG Metall-Bezirke sprechen sich für 24-Stunden-Streiks in der Metall- und Elektroindustrie aus. Bisher gab es das erst einmal. Im Tarifstreit der Branche liegen die Positionen weit auseinander.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-122.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T15:23:22+00:00"
+  },
+  {
+   "t": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
+   "s": "Die Wirtschaft wächst wieder stärker - doch der Sachverständigenrat der Bundesregierung fordert harte Sparmaßnahmen. Und bringt eine Art \"Soli\" für Verteidigung ins Spiel. Von Alina Leimbach.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T13:30:06+00:00"
+  },
+  {
+   "t": "Digital Fairness Act - EU will digitalen Verbraucherschutz stärken",
+   "s": "Die EU-Kommission will mit einem Digital Fairness Act (DFA) Verbraucher in der digitalen Welt schützen. Der nun vorgestellte Entwurf soll unlautere Praktiken unterbinden. Die deutschen Verleger sind nicht begeistert.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-digital-fairness-act-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T12:40:59+00:00"
+  },
+  {
+   "t": "Bundeskartellamt kritisiert Gebührenpolitik von PayPal",
+   "s": "Wer etwas mit PayPal kauft, muss dafür keine Gebühren zahlen. Onlinehändler dagegen tragen womöglich überhöhte Kosten. Aus Sicht des Bundeskartellamts könnte das günstigere Zahlungsanbieter benachteiligen.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/paypal-bundeskartellamt-gebuehren-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T12:34:37+00:00"
+  },
+  {
+   "t": "Wie trotz Blockade der Straße von Hormus Öl aus der Region fließt",
+   "s": "Trotz der Blockade der Straße von Hormus ist zuletzt wieder mehr Öl auf den Weltmarkt gelangt. Eine NDR-Analyse von Schiffsdaten zeigt, warum die Preise dennoch hoch blieben. Von Katharina Bews und Alice Pesavento.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/iran-krieg-oel-golfstaaten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T12:21:57+00:00"
+  },
+  {
+   "t": "\"Tankrabatt\" drückt Inflation im Oktober",
+   "s": "Die Teuerungsrate ist im Oktober in Deutschland zurückgegangen. Der \"Tankrabatt\" zeigt offenbar Wirkung. Energie - vor allem Heizöl - bleibt aber teuer. Und auch einige Lebensmittel kosten wieder",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-spritpreise-oktober-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T11:00:32+00:00"
+  },
   {
    "t": "Zahl der arbeitslosen Akademiker auf Höchststand",
    "s": "Ein Studium schützt nach wie vor gut vor Arbeitslosigkeit - doch die Wirtschaftslage und der Einsatz von Künstlicher Intelligenz ändern das. Vor allem jüngere Studienabsolventen sind von Arbeitslosigkeit betroffen.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-akademiker-rekord-100.html",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosigkeit-akademiker-rekord-100.html",
    "q": "Tagesschau",
    "d": "2026-11-11T10:07:28+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX macht sich wieder nach oben auf",
-   "s": "Zur Wochenmitte hat der DAX seine Rekordjagd wieder aufgenommen. Neue Zuversicht im Technologiesektor stützt die Kurse. Besonders gut kommen die Zahlen von Siemens Energy an.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T09:42:50+00:00"
   },
   {
    "t": "Update Wirtschaft vom 11.11.2026",
@@ -36,20 +92,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/krankenstand-aeltere-beschaeftigte-100.html",
    "q": "Tagesschau",
    "d": "2026-11-11T06:51:52+00:00"
-  },
-  {
-   "t": "\"Digital Fairness Act\": Neue EU-Regeln für Influencer und Onlineshops?",
-   "s": "Die EU-Kommission legt heute einen Vorschlag für mehr Verbraucherschutz im Netz vor. Das Gesetz soll die Regeln für Werbung sowie Algorithmen verschärfen und nimmt Influencer, Onlineshops und Ticketverkäufer ins Visier. Von K. Schmid.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/digital-fairness-act-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T05:28:10+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 10.11.2026",
-   "s": "Wirtschaft vor acht vom 10.11.2026",
-   "u": "https://www.tagesschau.de/video/video-1681634.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T18:52:27+00:00"
   },
   {
    "t": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html",
    "q": "Tagesschau",
    "d": "2026-11-10T04:01:04+00:00"
-  },
-  {
-   "t": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
-   "s": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T13:58:03+00:00"
-  },
-  {
-   "t": "Nvidia-Affäre lässt Aktie einbrechen",
-   "s": "Die mutmaßliche Spionageaffäre um Nvidia-Chef Huang trifft den Chiphersteller und die gesamte KI-Branche zu einem äußerst ungünstigen Zeitpunkt. Wie es weitergeht, müssen nun Fakten entscheiden. Von D. Landmesser.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-ki-huang-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T13:44:48+00:00"
-  },
-  {
-   "t": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
-   "s": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T03:32:51+00:00"
-  },
-  {
-   "t": "Moderne Sklaverei: Verboten, aber weltweit verbreitet",
-   "s": "Sklaverei ist seit Langem international geächtet und verboten, doch es gibt sie noch immer in vielen Teilen der Welt, auch in Europa. Die erzwungene Ausbeutung hat viele Formen – und ist aus diesem Grund oft schwer zu erkennen.",
-   "u": "https://www.deutschlandfunk.de/moderne-sklaverei-zwangsarbeit-globalisierung-arbeit-ausbeutung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-07T12:30:00+00:00"
-  },
-  {
-   "t": "Schwierige Rohstoffhoffnung: Gold für Europas Energiewende?",
-   "s": "Gold könnte Europas Rohstoffproblem entschärfen: Beim Abbau des Edelmetalls fallen oft auch Stoffe wie Kobalt, Nickel oder Seltene Erden an. Doch Umweltbedenken, Widerstand vor Ort und fehlende Investitionen stehen dem Ausbau des Bergbaus entgegen.",
-   "u": "https://www.deutschlandfunk.de/goldabbau-europa-finnland-energiewende-seltene-erden-kritische-rohstoffe-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-06T15:39:00+00:00"
-  },
-  {
-   "t": "CBAM – ein Klimaschutz-Druckmittel der EU",
-   "s": "Der Klimaschutz hat politisch weltweit an Rückhalt verloren. Trotzdem haben Fachleute noch Hoffnung – aus mehreren Gründen. Auch ein Instrument der EU könnte Staaten zum Handeln bewegen.",
-   "u": "https://www.deutschlandfunk.de/cbam-klimaschutz-klimawandel-pariser-klimaabkommen-co2-preis-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-03T15:31:00+00:00"
   }
  ]
 }

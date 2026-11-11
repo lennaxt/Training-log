@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-11-11T10:59:46+00:00",
+ "updated": "2026-11-11T21:58:15+00:00",
  "items": [
+  {
+   "t": "Abstimmung über Pete Hegseth: Den richtigen Zeitpunkt verpasst",
+   "s": "Geschlossen stimmen die Republikaner im US-Repräsentantenhaus gegen die Amtsenthebung des „Kriegsministers“. Ein Erfolg für Trump – und ein Problem.",
+   "u": "https://taz.de/Abstimmung-ueber-Pete-Hegseth/!6229167/",
+   "q": "taz",
+   "d": "2026-11-11T13:20:00+00:00"
+  },
+  {
+   "t": "Umweltzerstörung in Argentinien: Der Sand, das Gas und die Korruption",
+   "s": "In Argentinien boomt das Fracking, auch wegen der großen Nachfrage aus Deutschland. Dabei wird ein ganzes Ökosystem verwüstet. Der Versuch eines Widerstands.",
+   "u": "https://taz.de/Umweltzerstoerung-in-Argentinien/!6224134/",
+   "q": "taz",
+   "d": "2026-11-11T11:23:00+00:00"
+  },
   {
    "t": "Politischer Wahlkampf auf Social Media: Brasilien verhängt Strafe gegen Meta",
    "s": "Die brasilianischen Präsidentschaftskandidaten wurden auf Meta ungleich behandelt. Das urteilt ein Wahlgericht und verhängt eine Millionenstrafe gegen Meta.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Nithya-Raman-wird-Buergermeisterin/!6228227/",
    "q": "taz",
    "d": "2026-11-06T13:30:00+00:00"
-  },
-  {
-   "t": "Todesstrafe in den USA: Kalifornien wandelt alle Todesurteile in Haftstrafen um",
-   "s": "Der scheidende kalifornische Gouverneur Gavin Newsom macht von seinem Gnadenrecht Gebrauch. Am gleichen Tag wurden in den USA drei Todesurteile vollstreckt.",
-   "u": "https://taz.de/Todesstrafe-in-den-USA/!6228158/",
-   "q": "taz",
-   "d": "2026-11-06T11:55:00+00:00"
-  },
-  {
-   "t": "Staatskrise in Paraguay: Wenn der politische Ziehvater sich gegen den Präsidenten stellt",
-   "s": "Wegen der Krise der Digitalbank Ueno wollte Paraguays Präsident Peña zurücktreten, um einem Amtsenthebungsverfahren zuvorzukommen – doch er war nicht schnell genug.",
-   "u": "https://taz.de/Staatskrise-in-Paraguay/!6228141/",
-   "q": "taz",
-   "d": "2026-11-06T10:12:00+00:00"
   }
  ]
 }

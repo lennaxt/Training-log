@@ -1,7 +1,56 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-11T10:59:45+00:00",
+ "updated": "2026-11-11T21:58:14+00:00",
  "items": [
+  {
+   "t": "Nationalfeiertag in Polen: „Hier ist Polen, nicht Brüssel!“",
+   "s": "In Warschau begehen Tausende den Unabhängigkeitstag. Der Marsch, von Nationalisten organisiert, findet unter verschärften Sicherheitsbedingungen statt.",
+   "u": "https://taz.de/Nationalfeiertag-in-Polen/!6229178/",
+   "q": "taz",
+   "d": "2026-11-11T18:43:00+00:00"
+  },
+  {
+   "t": "Merz und der EU-Haushalt: Ein Bärendienst für die Ukraine",
+   "s": "Friedrich Merz will künftige Finanzhilfen für die Ukraine auf europäischer Ebene sichern. Seine Aktionen gehen am Thema vorbei – und sind riskant.",
+   "u": "https://taz.de/Merz-und-der-EU-Haushalt/!6229182/",
+   "q": "taz",
+   "d": "2026-11-11T18:42:00+00:00"
+  },
+  {
+   "t": "EU-Streit um Ukraine-Hilfen: Wutbriefe, Befindlichkeiten und Streit ums Geld",
+   "s": "Die EU ringt bei den Verhandlungen für einen Waffenstillstand in der Ukraine um eine gemeinsame Position. Und der Kanzler? Sorgt vor allem für Streit.",
+   "u": "https://taz.de/EU-Streit-um-Ukraine-Hilfen/!6229257/",
+   "q": "taz",
+   "d": "2026-11-11T18:41:00+00:00"
+  },
+  {
+   "t": "Regierungsbildung in Schweden: Schwedens Zentrum flirtet mit rechts",
+   "s": "Schweden sucht weiter eine neue Regierung. Die links-grünen Wahlsieger werden sich uneinig. Nun gibt es Aufregung um ein Angebot der Rechtspopulisten.",
+   "u": "https://taz.de/Regierungsbildung-in-Schweden/!6229181/",
+   "q": "taz",
+   "d": "2026-11-11T17:00:00+00:00"
+  },
+  {
+   "t": "Generalstreik in Spanien: Für bezahlbaren Wohnraum und bessere Löhne",
+   "s": "Nach wochenlangen Demonstrationen für mehr Mieterschutz folgt der Generalstreik. Streikführer Guillermo Dimarco erzählt, was er sich davon erhofft.",
+   "u": "https://taz.de/Generalstreik-in-Spanien/!6229180/",
+   "q": "taz",
+   "d": "2026-11-11T16:22:00+00:00"
+  },
+  {
+   "t": "Der Auslands-Podcast der taz: Proteste, Sparpläne und eine EU, die sich um sich dreht",
+   "s": "Belgien steckt mitten in einer Krise mit unklarem Ausgang. Die EU bekommt von den Problemen ihrer Mitglieder kaum etwas mit – nicht mal in Brüssel.",
+   "u": "https://taz.de/Der-Auslands-Podcast-der-taz/!6229117/",
+   "q": "taz",
+   "d": "2026-11-11T14:36:00+00:00"
+  },
+  {
+   "t": "Repression in der Türkei: Tatvorwurf Spionage",
+   "s": "Die türkische Staatsanwaltschaft ermittelt wegen Spionageverdacht gegen Yonca Verdioğlu Şık. Sie ist Programmkoordination der Heinrich-Böll-Stiftung.",
+   "u": "https://taz.de/Repression-in-der-Tuerkei/!6229207/",
+   "q": "taz",
+   "d": "2026-11-11T14:00:00+00:00"
+  },
   {
    "t": "Massenfestnahmen in Moskau: „Wie Mäuse in einem Käfig“",
    "s": "Hunderte sind bei einer Razzia in Moskau festgenommen worden, darunter viele Minderjährige. Bescheide zur Einberufung bekamen sie gleich mit ausgehändigt.",
@@ -10,8 +59,8 @@
    "d": "2026-11-11T09:29:00+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Selenskyj lobt US-Vermittler",
-   "s": "Vor dem zweiten Verhandlungstag in Abu Dhabi sieht der ukrainische Präsident eine geänderte US-Haltung. Währenddessen gehen gegenseitige Angriffe weiter.",
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Russland und Ukraine einigen sich auf Gefangenenaustausch",
+   "s": "Die Verhandlungen in Abu Dhabi sind schon wieder beendet. Nun sollen Kriegefangene ausgetauscht werden. Witkoff und Kushner reisen nach Russland.",
    "u": "https://taz.de/Nach-dem-Treffen-in-Abu-Dhabi-Das-ist-der-aktuelle-Stand-im-Ukraine-Krieg/!6229123/",
    "q": "taz",
    "d": "2026-11-11T08:15:00+00:00"
@@ -120,55 +169,6 @@
    "u": "https://taz.de/Proteste-in-Frankreich/!6228720/",
    "q": "taz",
    "d": "2026-11-09T15:27:00+00:00"
-  },
-  {
-   "t": "Trilaterales Treffen in Abu Dhabi: Europäer mit am Tisch? Von wegen!",
-   "s": "Der Kreml besteht auf Gesprächen zwischen Washington, Moskau und Kyjiw. Ohnehin geht es Wladimir Putin nicht um die Ukraine, sondern Geopolitik als Ganzes.",
-   "u": "https://taz.de/Trilaterales-Treffen-in-Abu-Dhabi/!6228640/",
-   "q": "taz",
-   "d": "2026-11-09T13:45:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: „Koalition der Willigen“ hält erstes Manöver ab",
-   "s": "Kyjiws Verbündete bauen eine Truppe auf, um einen Waffenstillstand mit Russland abzusichern. Die Europäer wollen bei Verhandlungen mit am Tisch sitzen.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6228555/",
-   "q": "taz",
-   "d": "2026-11-09T10:12:00+00:00"
-  },
-  {
-   "t": "Griechenland und Senegal: Zwei Bootsunglücke mit vielen Todesopfern",
-   "s": "Sowohl im Senegal als auch in Griechenland sind Menschen bei ihrem Fluchtversuch gestorben. Weitere gelten noch als vermisst.",
-   "u": "https://taz.de/Griechenland-und-Senegal/!6228557/",
-   "q": "taz",
-   "d": "2026-11-09T08:54:00+00:00"
-  },
-  {
-   "t": "Schüsse in Krakau: Schütze im Krankenhaus gestorben",
-   "s": "Der Täter der Schusswaffenattacke von Krakau ist tot. Er starb am Montagmorgen an seinen Verletzungen im Krankenhaus.",
-   "u": "https://taz.de/Schuesse-in-Krakau/!6228546/",
-   "q": "taz",
-   "d": "2026-11-09T07:29:00+00:00"
-  },
-  {
-   "t": "Gegengipfel zur COP31 in Antalya: Die Klimakonferenz der anderen",
-   "s": "Parallel zur COP31 kommen in Antalya Gewerkschafter und Klimaaktivisten zusammen. Ihr Gegengipfel soll Klimagerechtigkeit und Demokratie verbinden.",
-   "u": "https://taz.de/Gegengipfel-zur-COP31-in-Antalya/!6228385/",
-   "q": "taz",
-   "d": "2026-11-09T06:42:00+00:00"
-  },
-  {
-   "t": "COP31 geht los: Wie funktioniert ein Klimagipfel?",
-   "s": "Wer verhandelt, wie Beschlüsse entstehen und worüber die Staaten in Antalya streiten: Die wichtigsten Fragen und Antworten zur COP31.",
-   "u": "https://taz.de/COP31-geht-los/!6228383/",
-   "q": "taz",
-   "d": "2026-11-09T06:41:00+00:00"
-  },
-  {
-   "t": "Schusswaffenangriff in Krakau: Mutmaßlicher Rechtsextremist tötet mindestens 6 Menschen",
-   "s": "Ein 24-Jähriger schießt mitten auf dem Krakauer Hauptmarkt um sich. Mindestens 6 Menschen sterben. Der Täter könnte rechtsextreme Ansichten haben.",
-   "u": "https://taz.de/Schusswaffenangriff-in-Krakau/!6228372/",
-   "q": "taz",
-   "d": "2026-11-08T16:46:00+00:00"
   }
  ]
 }

@@ -1,7 +1,28 @@
 {
  "name": "Wissen",
- "updated": "2026-11-11T10:59:42+00:00",
+ "updated": "2026-11-11T21:58:11+00:00",
  "items": [
+  {
+   "t": "Nicht mehr nur BMI: So könnte Adipositas besser definiert werden",
+   "s": "Wie schwer und groß man ist, sagt allein nicht genug über die Gesundheit aus. Deshalb ist der Body-Mass-Index (BMI) seit Jahren in der Kritik. Eine neue Studie zeigt, welche Vorteile eine genauere Diagnose bringen würde. Von Veronika Simon.",
+   "u": "https://www.tagesschau.de/wissen/adipositas-definition-bmi-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T16:01:31+00:00"
+  },
+  {
+   "t": "Weltklimakonferenz in Antalya: Deutschlands Rolle beim Klimaschutz",
+   "s": "Weltklimakonferenz in Antalya: Deutschlands Rolle beim Klimaschutz",
+   "u": "https://www.tagesschau.de/video/video-1682026.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T15:11:13+00:00"
+  },
+  {
+   "t": "Wenn Klimaschutz überfordert",
+   "s": "Vielen Menschen ist das Thema Klimaschutz wichtig - das zumindest zeigen Umfragen. Doch häufig werden Maßnahmen, die die Umwelt schützen sollen, abgelehnt. Wie passt das zusammen? Von Magdalena Schmude.",
+   "u": "https://www.tagesschau.de/wissen/klima/klimaschutz-212.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T11:02:47+00:00"
+  },
   {
    "t": "Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück",
    "s": "Die UN-Klimakonferenz sucht nach Wegen aus den fossilen Energieträgern. Aktuelle Zahlen zeigen: Die fossilen CO2-Emissionen gehen leicht zurück. Doch Experten warnen, dies könne nur ein vorübergehender Effekt sein. Von Simon Plentinger.",
@@ -45,13 +66,6 @@
    "d": "2026-11-09T03:59:05+00:00"
   },
   {
-   "t": "Klimagipfel · Wo steht Deutschlands Klimapolitik?",
-   "s": "Deutschland hat seine CO₂-Emissionen seit 1990 fast halbiert. Dennoch verfehlt das Land bislang seine Klimaziele. Bei der Weltklimakonferenz geht es nun darum, Öl, Kohle und Gas zu ersetzen.",
-   "u": "https://www.tagesschau.de/video/video-1679822.html",
-   "q": "Tagesschau",
-   "d": "2026-11-07T15:33:48+00:00"
-  },
-  {
    "t": "EU-Dienst Copernicus: 1,5-Grad-Marke wird 2026 wohl überschritten",
    "s": "Kurz vor der Klimakonferenz COP31 in Antalya gibt es ernüchternde Zahlen: Das 1,5-Grad-Ziel wird 2026 laut EU-Dienst Copernicus höchstwahrscheinlich überschritten. Der Oktober war zudem der wärmste seit Beginn der Aufzeichnungen.",
    "u": "https://www.tagesschau.de/wissen/klima/copernicus-klimakrise-1komma5-grad-100.html",
@@ -80,25 +94,11 @@
    "d": "2026-11-04T13:21:52+00:00"
   },
   {
-   "t": "Wo die Menschen in Deutschland am längsten leben",
-   "s": "Die Lebenserwartung steigt - allerdings nicht überall gleichermaßen. Baden-Württemberg liegt vorn. Im Osten Deutschlands ist der Abstand zwischen Frauen und Männern besonders groß. Und mancherorts sinkt die Lebenserwartung von Frauen sogar.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/lebenserwartung-maenner-frauen-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T12:38:29+00:00"
-  },
-  {
    "t": "Sind Männer gesundheitlich schlechter dran als Frauen?",
    "s": "Männer haben im Schnitt eine deutlich geringere Lebenserwartung als Frauen. Ein neuer Bericht zeigt: Auch Geschlechterrollen und das Wirken von Gesellschaftsnormen spielen bei der Gesundheit von Männern eine Rolle. Von Niels Walker.",
    "u": "https://www.tagesschau.de/wissen/gesundheit/maenner-gesundheit-102.html",
    "q": "Tagesschau",
    "d": "2026-11-04T09:54:43+00:00"
-  },
-  {
-   "t": "Angriffe auf Kühlsysteme: Warum Supermärkte von Cyberangriffen kalt erwischt werden",
-   "s": "Nun sind auch deutsche Supermärkte von Cyberangriffen auf Kühlsysteme betroffen. Die Vorfälle weisen auf Sicherheitslücken hin - Handelsketten und Hersteller haben es den Angreifern offenbar leicht gemacht. Von Sven Kästner.",
-   "u": "https://www.tagesschau.de/wissen/kuehlsysteme-schutz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-03T16:10:04+00:00"
   },
   {
    "t": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
