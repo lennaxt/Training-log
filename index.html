@@ -2030,12 +2030,13 @@ function createPlan(){
   openEx=null;newOpen=false;render();
 }
 
-/* Heavy/Pump ist Lennarts eigener Plan. Er steht nur als einmalige Vorlage im
-   Code, damit er auf sein Konto kommt — danach lebt er wie jeder andere Plan im
-   Speicher. Freie Buchstaben ohne Alt-Plan, damit keine PLAN-Uebungen
-   durchsickern; bestehende Tage und Einheiten bleiben unberuehrt. */
-const OWNER_SEED={flag:"_seedHeavyPump",plans:[
-  {label:"Heavy",ex:[
+/* Heavy/Pump ist Lennarts eigener Plan, auf seinen Wunsch als Tag A und B.
+   Er steht nur als einmalige Vorlage im Code, damit er auf sein Konto kommt —
+   danach lebt er wie jeder andere Plan im Speicher. Was bisher in A/B stand,
+   wird nur ausgeblendet (hidden), nie geloescht: Einheiten und Uebungen
+   bleiben im Speicher. */
+const OWNER_SEED={flag:"_seedHeavyPumpAB",plans:[
+  {day:"A",label:"Heavy",ex:[
     ["hp_pullup","Klimmzüge (ggf. mit Zusatzgewicht)","3 × 6–8",true],
     ["hp_incl_db","Schrägbank mit Kurzhanteln, neutraler Griff","3 × 6–8"],
     ["hp_hack","Hackenschmidt oder Beinpresse","3 × 6–8"],
@@ -2044,7 +2045,7 @@ const OWNER_SEED={flag:"_seedHeavyPump",plans:[
     ["hp_tri_oh","Trizeps überkopf am Kabel","2 × 10–15"],
     ["hp_calf","Waden","2 × 10–15"],
   ]},
-  {label:"Pump",ex:[
+  {day:"B",label:"Pump",ex:[
     ["hp_row","Rudern (eng oder breit im Wechsel)","3 × 10–15"],
     ["hp_chestpress","Brustpresse an der Maschine","3 × 10–15"],
     ["hp_rdl","Rumänisches Kreuzheben mit Zughilfen","3 × 10–15"],
@@ -2056,24 +2057,36 @@ const OWNER_SEED={flag:"_seedHeavyPump",plans:[
 ]};
 window._seedOwnerPlan=function(){
   if(!store||store[OWNER_SEED.flag])return;
-  const labels=new Set(Object.values(store.plans).map(p=>p.label));
-  const todo=OWNER_SEED.plans.filter(p=>!labels.has(p.label));
-  const used=new Set(allDays());
-  const free=planLetters().filter(l=>!used.has(l)&&!PLAN[l]);
-  if(free.length<todo.length)return;
-  todo.forEach((p,i)=>{
-    const l=free[i];
+  OWNER_SEED.plans.forEach(p=>{
+    const l=p.day;
+    const ids=p.ex.map(e=>e[0]);
+    const alt=(PLAN[l]?PLAN[l].ex:[]).concat(store.custom[l]||[]).map(e=>e.id).filter(id=>!ids.includes(id));
+    store.deleted=(store.deleted||[]).filter(d=>d!==l);
     store.plans[l]={label:p.label,exercises:[]};
-    store.custom[l]=p.ex.map(([id,name,scheme])=>({id,name,scheme,own:true}));
-    store.hidden[l]=[];
+    store.hidden[l]=[...new Set([...(store.hidden[l]||[]),...alt])].filter(id=>!ids.includes(id));
+    store.custom[l]=(store.custom[l]||[]).filter(e=>!ids.includes(e.id))
+      .concat(p.ex.map(([id,name,scheme])=>({id,name,scheme,own:true})));
+    if(store.order)delete store.order[l];
     p.ex.forEach(([id,name,,body])=>{
       store.names[id]=name;
       if(body&&!store.bodyEx.includes(id))store.bodyEx.push(id);
     });
   });
   store[OWNER_SEED.flag]=true;
+  dayPick=null;openEx=null;
   save();render();
-  if(todo.length)toast("Plan angelegt","Heavy und Pump stehen jetzt unter Kraft");
+  toast("Plan angelegt","Heavy (A) und Pump (B) stehen jetzt unter Kraft");
+};
+
+/* Die Vorlage gehoert genau einem Konto. Verglichen wird ein Hash, damit die
+   Adresse nicht im oeffentlichen Code steht. */
+const OWNER_HASH="a91d7da1d9142b4eaae53a9da15ec2798bf8a4c88e8462baa2850a12c0e74ea1";
+window._isSeedOwner=async function(email){
+  try{
+    const local=String(email||"").toLowerCase().split("@")[0];
+    const buf=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(local));
+    return [...new Uint8Array(buf)].map(x=>x.toString(16).padStart(2,"0")).join("")===OWNER_HASH;
+  }catch(e){return false}
 };
 
 /* ── Übungsverzeichnis ── */
@@ -5218,7 +5231,9 @@ onAuthStateChanged(auth,async(user)=>{
     if(window._reloadStore)window._reloadStore(keyFor(user.uid));
     storeBoundUid=user.uid;
     if(pendingUpload){pendingUpload=false;queueSave()}
-    if(cloudReady&&user.email===LEGACY_EMAIL&&window._seedOwnerPlan)window._seedOwnerPlan();
+    if(cloudReady&&window._isSeedOwner)window._isSeedOwner(user.email).then(ok=>{
+      if(ok&&currentUser&&currentUser.uid===user.uid&&storeBoundUid===user.uid&&!(window._hasActive&&window._hasActive()))window._seedOwnerPlan();
+    });
     const label=user.email||user.displayName||"Angemeldet";
     const info=document.getElementById("authUserInfo");if(info)info.textContent=label;
     const pinfo=document.getElementById("prefUserInfo");if(pinfo)pinfo.textContent=label;
