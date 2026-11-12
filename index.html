@@ -2030,6 +2030,52 @@ function createPlan(){
   openEx=null;newOpen=false;render();
 }
 
+/* Heavy/Pump ist Lennarts eigener Plan. Er steht nur als einmalige Vorlage im
+   Code, damit er auf sein Konto kommt — danach lebt er wie jeder andere Plan im
+   Speicher. Freie Buchstaben ohne Alt-Plan, damit keine PLAN-Uebungen
+   durchsickern; bestehende Tage und Einheiten bleiben unberuehrt. */
+const OWNER_SEED={flag:"_seedHeavyPump",plans:[
+  {label:"Heavy",ex:[
+    ["hp_pullup","Klimmzüge (ggf. mit Zusatzgewicht)","3 × 6–8",true],
+    ["hp_incl_db","Schrägbank mit Kurzhanteln, neutraler Griff","3 × 6–8"],
+    ["hp_hack","Hackenschmidt oder Beinpresse","3 × 6–8"],
+    ["hp_legcurl","Beinbeuger sitzend","3 × 10–15"],
+    ["hp_cablelat","Seitheben am Kabel","3 × 10–15"],
+    ["hp_tri_oh","Trizeps überkopf am Kabel","2 × 10–15"],
+    ["hp_calf","Waden","2 × 10–15"],
+  ]},
+  {label:"Pump",ex:[
+    ["hp_row","Rudern (eng oder breit im Wechsel)","3 × 10–15"],
+    ["hp_chestpress","Brustpresse an der Maschine","3 × 10–15"],
+    ["hp_rdl","Rumänisches Kreuzheben mit Zughilfen","3 × 10–15"],
+    ["hp_legext","Beinstrecker","3 × 10–15"],
+    ["hp_cablefly","Cable Fly","2 × 12–15"],
+    ["hp_curl","Bizeps-Curls (Schrägbank oder Bayesian)","2 × 10–15"],
+    ["hp_latraise","Seitheben","2 × 12–15"],
+  ]},
+]};
+window._seedOwnerPlan=function(){
+  if(!store||store[OWNER_SEED.flag])return;
+  const labels=new Set(Object.values(store.plans).map(p=>p.label));
+  const todo=OWNER_SEED.plans.filter(p=>!labels.has(p.label));
+  const used=new Set(allDays());
+  const free=planLetters().filter(l=>!used.has(l)&&!PLAN[l]);
+  if(free.length<todo.length)return;
+  todo.forEach((p,i)=>{
+    const l=free[i];
+    store.plans[l]={label:p.label,exercises:[]};
+    store.custom[l]=p.ex.map(([id,name,scheme])=>({id,name,scheme,own:true}));
+    store.hidden[l]=[];
+    p.ex.forEach(([id,name,,body])=>{
+      store.names[id]=name;
+      if(body&&!store.bodyEx.includes(id))store.bodyEx.push(id);
+    });
+  });
+  store[OWNER_SEED.flag]=true;
+  save();render();
+  if(todo.length)toast("Plan angelegt","Heavy und Pump stehen jetzt unter Kraft");
+};
+
 /* ── Übungsverzeichnis ── */
 function planFor(day){
   const base=PLAN[day]?PLAN[day].ex:[];
@@ -5172,6 +5218,7 @@ onAuthStateChanged(auth,async(user)=>{
     if(window._reloadStore)window._reloadStore(keyFor(user.uid));
     storeBoundUid=user.uid;
     if(pendingUpload){pendingUpload=false;queueSave()}
+    if(cloudReady&&user.email===LEGACY_EMAIL&&window._seedOwnerPlan)window._seedOwnerPlan();
     const label=user.email||user.displayName||"Angemeldet";
     const info=document.getElementById("authUserInfo");if(info)info.textContent=label;
     const pinfo=document.getElementById("prefUserInfo");if(pinfo)pinfo.textContent=label;
