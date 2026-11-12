@@ -1,7 +1,49 @@
 {
  "name": "Kultur",
- "updated": "2026-11-12T11:13:50+00:00",
+ "updated": "2026-11-12T21:50:38+00:00",
  "items": [
+  {
+   "t": "Prognosemärkte bei den US-Midterms: CNN und das Geschäft mit dem Glücksspiel",
+   "s": "Große US-Medienhäuser nutzten vor den Midterms Prognosemärkte wie Kalshi – trotz Bedenken. Die Demokraten wollen die Plattformen stärker regulieren.",
+   "u": "https://taz.de/US-Medienhaeuser-nutzen-Prognosemaerkte-CNN-und-das-Geschaeft-mit-dem-Gluecksspiel/!6229519/",
+   "q": "taz",
+   "d": "2026-11-12T19:14:00+00:00"
+  },
+  {
+   "t": "Experte zu Prognosemärkten: „Diese Märkte können Desinformation antreiben“",
+   "s": "Wetten auf sogenannten Prediction Markets sorgten bei den US-Midterms ganz leicht für ein künstliches Wahlkampf-Momentum. Die Trump-Familie verdient mit.",
+   "u": "https://taz.de/Experte-zu-Prognosemaerkten/!6228549/",
+   "q": "taz",
+   "d": "2026-11-12T19:14:00+00:00"
+  },
+  {
+   "t": "Gewalt in Washington, D.C.: Tödliche Schießerei in der Nähe des Weißen Hauses",
+   "s": "Mutmaßlicher Täter erschießt sich am Ende wohl selbst. Washington ist ein Hotspot für Morde und Gewaltdelikte.",
+   "u": "https://taz.de/Gewalt-in-Washington/!6229763/",
+   "q": "taz",
+   "d": "2026-11-12T18:51:00+00:00"
+  },
+  {
+   "t": "Papstbesuch in Peru: Unselig sind die Missbrauchten",
+   "s": "Der in Peru tätige Ex-Bischof Reinhold Nann dokumentiert Fälle von sexuellem Missbrauch in der Kirche und hofft auf ein Treffen des Papstes mit Opfern.",
+   "u": "https://taz.de/Papstbesuch-in-Peru/!6229582/",
+   "q": "taz",
+   "d": "2026-11-12T17:24:00+00:00"
+  },
+  {
+   "t": "Papst Leo XIV. in Südamerika: Begrenzte Empathie",
+   "s": "Bei seinem Besuch in Argentinien fordert der Papst mehr Gerechtigkeit. Für andere Religionen hat die katholische Kirche kein Verständnis.",
+   "u": "https://taz.de/Papst-Leo-XIV-in-Suedamerika/!6229422/",
+   "q": "taz",
+   "d": "2026-11-12T13:16:00+00:00"
+  },
+  {
+   "t": "Papst auf Lateinamerika-Reise: Leo liest Keiko die Leviten",
+   "s": "In Peru wird der Papst von Hunderttausenden auf den Straßen begrüßt. Leo XIV. hatte dort lange gelebt. Er fordert von Präsidentin Keiko Fujimori mehr Gerechtigkeit.",
+   "u": "https://taz.de/Papst-auf-Lateinamerika-Reise/!6229505/",
+   "q": "taz",
+   "d": "2026-11-12T11:56:00+00:00"
+  },
   {
    "t": "US-Kongresswahlen: Schwarzer Demokrat gewinnt Senatssitz in Mississippi",
    "s": "Scott Colom wird der erste afroamerikanische Senator aus dem erzkonservativen Bundesstaat seit 1881. Der äußerts knappe Ausgang war gespannt erwartet worden.",
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Volkswagen-in-Brasilien/!6224039/",
    "q": "taz",
    "d": "2026-11-07T16:16:00+00:00"
-  },
-  {
-   "t": "Digitalisierung in Südamerika: Chile lockert für Rechenzentren Umweltauflagen",
-   "s": "Chile will zum digitalen Drehkreuz Lateinamerikas werden. Dafür hat die Regierung die Umweltprüfungen von Rechenzentren zurückgefahren.",
-   "u": "https://taz.de/Digitalisierung-in-Suedamerika/!6224035/",
-   "q": "taz",
-   "d": "2026-11-07T11:39:00+00:00"
-  },
-  {
-   "t": "Staats- und Finanzkrise in Paraguay: Haftbefehl gegen abgesetzten Präsidenten",
-   "s": "Paraguays Parlament entmachtet Santiago Peña. Wenig später wird gegen ihn Haftbefehl erlassen. Was ist los in dem lateinamerikanischen Land?",
-   "u": "https://taz.de/Staats--und-Finanzkrise-in-Paraguay/!6228316/",
-   "q": "taz",
-   "d": "2026-11-07T09:57:00+00:00"
-  },
-  {
-   "t": "Neuer Stabschef im Weißen Haus: Extremist Stephen Miller rückt auf",
-   "s": "Nach dem Midterms-Debakel muss Trumps Stabschefin Susie Wiles gehen, Miller wird sie ersetzen. Das zeigt: Trump wird von seiner Politik nicht abrücken.",
-   "u": "https://taz.de/Neuer-Stabschef-im-Weissen-Haus/!6228313/",
-   "q": "taz",
-   "d": "2026-11-07T09:14:00+00:00"
-  },
-  {
-   "t": "Nach dem US-Midterms: Trumpismus lässt sich nur mit „affordability“ bekämpfen",
-   "s": "Den Demokraten stehen heftige Auseinandersetzungen mit der Regierung Trump bevor. Sie müssen gleichzeitig die Lebensrealität der US-Bürger*innen verbessern.",
-   "u": "https://taz.de/Nach-dem-US-Midterms/!6224222/",
-   "q": "taz",
-   "d": "2026-11-06T18:53:00+00:00"
-  },
-  {
-   "t": "Flávio Bolsonaro in „New York Times“: „Wie ich dorthin gelangt bin, nehme ich mit ins Grab“",
-   "s": "Nach seiner Flucht in die USA zweifelt der brasilianische Wahlverlierer erneut das Wahlergebnis an. Die Brasilianer haben nur Spott für ihn übrig.",
-   "u": "https://taz.de/Flavio-Bolsonaro-in-New-York-Times/!6228200/",
-   "q": "taz",
-   "d": "2026-11-06T18:52:00+00:00"
-  },
-  {
-   "t": "Staatliche Gewalt in Ecuador: „Die Regierung erklärt uns zu Feinden“",
-   "s": "Unter Ecuadors Präsident Daniel Noboa nimmt das gewaltsame Verschwindenlassen zu. Menschenrechtsaktivistin Suelin Noriega unterstützt Betroffene.",
-   "u": "https://taz.de/Staatliche-Gewalt-in-Ecuador/!6224037/",
-   "q": "taz",
-   "d": "2026-11-06T15:34:00+00:00"
   }
  ]
 }

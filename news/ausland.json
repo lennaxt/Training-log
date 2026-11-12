@@ -1,13 +1,76 @@
 {
  "name": "Ausland",
- "updated": "2026-11-12T11:13:44+00:00",
+ "updated": "2026-11-12T21:50:32+00:00",
  "items": [
+  {
+   "t": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+   "s": "Nach dem Einsturz eines mehrstöckigen Gebäudes in New York ist die Zahl der Toten auf mindestens acht gestiegen. Mehrere weitere Menschen wurden unter den Trümmern eingeschlossen. Bürgermeister Mamdani sprach den Betroffenen sein Mitgefühl aus.",
+   "u": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T18:54:49+00:00"
+  },
+  {
+   "t": "Thunberg auf COP31: \"Der Planet stirbt nicht, er wird getötet\"",
+   "s": "Aktivistin Thunberg wird in Antalya deutlich: Die Politik trage die Schuld daran, dass der Klimawandel außer Kontrolle sei. Ein neuer Bericht rechnet mit 2,7 Grad Erwärmung. Auch Deutschland ist demnach kein Vorbild mehr. Von J. Mayr.",
+   "u": "https://www.tagesschau.de/ausland/asien/weltklimakonferenz-cop31-thunberg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T18:44:20+00:00"
+  },
+  {
+   "t": "Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen",
+   "s": "Bei einem Treffen mit den US-Unterhändlern Witkoff und Kushner hat der russische Präsident Putin seinen Anspruch auf ukrainische Gebiete erneuert. Eine mögliche Beteiligung Europas an Friedensgesprächen schloss er nicht aus.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T16:29:23+00:00"
+  },
+  {
+   "t": "Spanisches Parlament beschließt Maßnahmen für mehr Mieterschutz",
+   "s": "Spaniens Übergangsparlament hat mit einer Stimme Mehrheit Maßnahmen der linken Minderheitsregierung für mehr Mieterschutz angenommen. Die konservative PP-Partei will das Dekret wieder kippen. In zwei Wochen wird in Spanien gewählt.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-parlament-wohnungsdekret-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T16:21:41+00:00"
+  },
+  {
+   "t": "Iran-Krieg: Eisenkot ruft Netanjahu zu Zurückhaltung auf",
+   "s": "Seit Tagen wird spekuliert, dass Israels Premier Netanjahu neue Angriffe auf Iran planen könnte. Oppositionschef Eisenkot, der derzeit versucht, eine Regierung ohne Netanjahu zu bilden, warnt diesen jetzt vor \"gefährlichen Schritten\".",
+   "u": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T14:28:14+00:00"
+  },
+  {
+   "t": "Erneut Bombendrohungen gegen hunderte Schulen in Italien",
+   "s": "In Italien sind erneut Bombendrohungen an Schulen gesendet worden. Es sollen etwa 1.600 Einrichtungen betroffen sein. Die Regierung will Gebäude künftig nur noch räumen lassen, wenn konkrete Hinweise auf eine Gefahr vorliegen.",
+   "u": "https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T14:25:28+00:00"
+  },
+  {
+   "t": "EPG-Treffen in Irland: Europa will mit an den Tisch",
+   "s": "Kurze Gespräche und viel Diplomatie: Beim Treffen der Europäischen Politischen Gemeinschaft geht es heute um die Nachbereitung der Ukraine-Gespräche in Abu Dhabi und Moskau. Mit dabei: Selenskyj und der US-Sondergesandte Witkoff. Von S. López.",
+   "u": "https://www.tagesschau.de/ausland/europa/irland-europaeische-gemeinschaft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T13:28:28+00:00"
+  },
   {
    "t": "Angriff auf Krankenhaus mit sechs Toten galt laut Israel Hamas",
    "s": "Bei einem Angriff Israels auf eine Klinik in Gaza sind nach Behördenangaben sechs Menschen gestorben. Laut Israel nutzte die Hamas die Gebäude als Kommando- und Folterzentrum. Ein Mitglied der Terrororganisation sei Ziel des Angriffs gewesen.",
    "u": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-12T09:25:57+00:00"
+   "d": "2026-11-12T12:50:17+00:00"
+  },
+  {
+   "t": "Polen scheitert vor EuGH mit Klagen gegen EU-Klimapaket",
+   "s": "Die \"Fit for 55\" genannten Klimaregeln sollen Europa bis Mitte des Jahrhunderts klimaneutral machen. Polen war gegen das Gesetzespaket aus dem Jahr 2023 mit sieben Klagen vorgegangen - alle wurden nun vom Europäischen Gerichtshof abgewiesen.",
+   "u": "https://www.tagesschau.de/ausland/europa/eugh-polen-klage-eu-klimapaket-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T12:39:40+00:00"
+  },
+  {
+   "t": "Jugendlicher überlebt sechs Tage im australischen Outback",
+   "s": "Fast eine Woche haben 100 Einsatzkräfte im australischen Busch nach einem vermissten Teenager gesucht. Jetzt wurde er aus der Luft entdeckt - lebend, nur mit ein paar Kratzern und Sonnenbrand.",
+   "u": "https://www.tagesschau.de/ausland/australien-teenager-wildnis-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T11:23:50+00:00"
   },
   {
    "t": "Demonstrationen in Spanien: Zehntausende protestieren gegen Wohnungskrise",
@@ -29,13 +92,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-schwarzer-senator-100.html",
    "q": "Tagesschau",
    "d": "2026-11-12T04:37:34+00:00"
-  },
-  {
-   "t": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
-   "s": "Beim Einsturz eines mehrstöckigen Gebäudes in New York sind mindestens zwei Menschen ums Leben gekommen. Mehrere weitere wurden unter den Trümmern eingeschlossen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T03:34:55+00:00"
   },
   {
    "t": "Missbrauchsskandale in Peru: Papst Leos Reise in die Vergangenheit",
@@ -113,62 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
    "q": "Tagesschau",
    "d": "2026-11-10T21:04:36+00:00"
-  },
-  {
-   "t": "Wadephul warnt Iran vor hybriden Angriffen",
-   "s": "Frankreich sieht Iran hinter den Cyberangriffen auf Kühlanlagen - doch das Land dementiert. Die deutschen Behörden haben sich noch nicht festgelegt, Außenminister Wadephul warnte Teheran nun aber vor hybriden Attacken.",
-   "u": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T16:51:08+00:00"
-  },
-  {
-   "t": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
-   "s": "Machtmissbrauch im Iran-Krieg - unter anderem wegen dieses Vorwurfs könnte ein Amtsenthebungsverfahren gegen Pentagon-Chef Hegseth eingeleitet werden. Auf einer Pressekonferenz wies er die Anschuldigungen zurück und sprach von einer Inszenierung.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T15:51:55+00:00"
-  },
-  {
-   "t": "Zwei Tote bei russischen Luftangriffen",
-   "s": "Russland hat die Ukraine in der Nacht erneut mit Luftangriffen überzogen. Dabei starben ukrainischen Angaben zufolge zwei Menschen. Zudem seien mehrere Umspannwerke getroffen worden, in mehreren Regionen fiel der Strom aus.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T14:42:40+00:00"
-  },
-  {
-   "t": "Ukraine-Verhandlungen: \"Beide Seiten stehen unter enormem Zugzwang\"",
-   "s": "Russland und die Ukraine stehen unter großem Zeitdruck, sagt der Militärexperte Markus Reisner. Doch ohne Zugeständnisse werde es keinen Erfolg bei den Verhandlungen geben. Wichtig seien auch mögliche Gespräche über eine neue Sicherheitsordnung.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-abu-dhabi-104.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T14:18:25+00:00"
-  },
-  {
-   "t": "Mehrere Tote bei Massenunfällen auf bulgarischer Autobahn",
-   "s": "Dichter Nebel, nasse Straßen: Auf einer Autobahn in Bulgarien sind mindestens zwölf Menschen bei Auffahrunfällen gestorben. Zahlreiche Rettungskräfte sind im Einsatz. EU-Kommissionschefin von der Leyen musste ihren Besuch in dem Land verkürzen.",
-   "u": "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T14:09:14+00:00"
-  },
-  {
-   "t": "Masernkrise in den USA: Mehr Verunsicherung, mehr Infektionen",
-   "s": "Die USA erleben den größten Masernausbruch seit Jahrzehnten - auch weil der Gesundheitsminister widersprüchliche Botschaften zur Impfung verbreitet. Noch in dieser Woche könnte das Land den Status \"masernfrei\" verlieren. Von Anne Schneider.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-masern-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T12:13:48+00:00"
-  },
-  {
-   "t": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
-   "s": "In Abu Dhabi haben die Gespräche über ein Ende des Krieges in der Ukraine begonnen. Zuletzt hatte US-Präsident Trump eine \"große Übereinkunft\" versprochen. Aber was meinte er damit? Und was hieße das für Europa? Von Carsten Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T08:18:50+00:00"
-  },
-  {
-   "t": "Israels neu gewähltes Parlament kommt erstmals zusammen",
-   "s": "Nach der Wahl tritt Israels neues Parlament heute erstmals zusammen - inmitten der schwierigen Regierungsbildung. Netanjahu-Rivale Eisenkot hat dafür den Auftrag erhalten. Er hält auch eine Minderheitsregierung für möglich.",
-   "u": "https://www.tagesschau.de/ausland/asien/knesset-eisenkot-regierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T08:13:27+00:00"
   }
  ]
 }

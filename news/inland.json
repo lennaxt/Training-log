@@ -1,174 +1,174 @@
 {
  "name": "Inland",
- "updated": "2026-11-12T11:13:43+00:00",
+ "updated": "2026-11-12T21:50:29+00:00",
  "items": [
   {
-   "t": "Warum Minister beim Haushalt lieber pünktlich sind",
-   "s": "Beim Haushalt 2027 sind noch viele Baustellen offen. Meist bis in die frühen Morgenstunden feilt der Haushaltsausschuss am Etat. Für die Minister gilt: Pünktlichkeit ist essenziell, sonst drohen Abzüge, sagt Ausschussvorsitzende Paus. Von P. Eckstein.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bereinigungssitzung-finanzen-100.html",
+   "t": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+   "s": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
+   "u": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-12T11:08:50+00:00"
+   "d": "2026-11-12T21:09:07+00:00"
   },
   {
-   "t": "Dokumentarfilm über Gaza: Die einzigen Zeugen",
-   "s": "Sie kamen nach Gaza, um Leben zu retten. Stattdessen erlebten britische Ärz­t:in­nen Tod und Zerstörung. Der Dokumentarfilm „Life Support“ erzählt ihre Geschichte.",
-   "u": "https://taz.de/Die-Hoelle-von-Gaza-Eine-Doku-erzaehlt-was-Aerztinnen-mitansehen-mussten/!6229215/",
+   "t": "Experte zu Prognosemärkten: „Diese Märkte können Desinformation antreiben“",
+   "s": "Wetten auf sogenannten Prediction Markets sorgten bei den US-Midterms ganz leicht für ein künstliches Wahlkampf-Momentum. Die Trump-Familie verdient mit.",
+   "u": "https://taz.de/Experte-zu-Prognosemaerkten/!6228549/",
    "q": "taz",
-   "d": "2026-11-12T11:06:00+00:00"
+   "d": "2026-11-12T19:14:00+00:00"
   },
   {
-   "t": "Kurz vor eurorpäischen Gipfel-Treffen: Bombenwarnungen lösen Chaos in Irland aus",
-   "s": "Irland, Großbritannien, Italien, Bulgarien, Frankreich: Immer mehr EU-Staaten werden durch Droh-E-Mails und Cyberattacken drangsaliert.",
-   "u": "https://taz.de/Kurz-vor-eurorpaeischen-Gipfel-Treffen/!6229416/",
+   "t": "Prognosemärkte bei den US-Midterms: CNN und das Geschäft mit dem Glücksspiel",
+   "s": "Große US-Medienhäuser nutzten vor den Midterms Prognosemärkte wie Kalshi – trotz Bedenken. Die Demokraten wollen die Plattformen stärker regulieren.",
+   "u": "https://taz.de/US-Medienhaeuser-nutzen-Prognosemaerkte-CNN-und-das-Geschaeft-mit-dem-Gluecksspiel/!6229519/",
    "q": "taz",
-   "d": "2026-11-12T11:01:00+00:00"
+   "d": "2026-11-12T19:14:00+00:00"
   },
   {
-   "t": "Kita-Startchancengesetz: Mehr Förderung mit weniger Geld?",
-   "s": "Der Bundestag hat das Startchancengesetz beschlossen, das mehr Förderung für Kita-Kinder und verbindliche Tests vorsieht. Kritik gibt es wegen geplanter Kürzungen bei den Bundesmitteln. Von Chris Berdrow.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/kita-startchancengesetz-100.html",
+   "t": "Europäische Politische Gemeinschaft: Ringen um eine starke Stimme",
+   "s": "Einen Tag nach Ende der Verhandlungen in Abu Dhabi kommt die Europäische Politische Gemeinschaft in Dublin zusammen. Die Ukraine steht im Mittelpunkt.",
+   "u": "https://taz.de/Europaeische-Politische-Gemeinschaft/!6229580/",
+   "q": "taz",
+   "d": "2026-11-12T18:58:00+00:00"
+  },
+  {
+   "t": "Gewalt in Washington, D.C.: Tödliche Schießerei in der Nähe des Weißen Hauses",
+   "s": "Mutmaßlicher Täter erschießt sich am Ende wohl selbst. Washington ist ein Hotspot für Morde und Gewaltdelikte.",
+   "u": "https://taz.de/Gewalt-in-Washington/!6229763/",
+   "q": "taz",
+   "d": "2026-11-12T18:51:00+00:00"
+  },
+  {
+   "t": "Schlapphüte in Österreich: Wien will kein Agentenparadies mehr sein",
+   "s": "Österreich verschärft seine Spionagegesetze. Grund dafür ist laut Regierung das „deutlich aggressivere“ Vorgehen fremder Nachrichtendienste.",
+   "u": "https://taz.de/Schlapphuete-in-Oesterreich/!6229646/",
+   "q": "taz",
+   "d": "2026-11-12T17:26:00+00:00"
+  },
+  {
+   "t": "Papstbesuch in Peru: Unselig sind die Missbrauchten",
+   "s": "Der in Peru tätige Ex-Bischof Reinhold Nann dokumentiert Fälle von sexuellem Missbrauch in der Kirche und hofft auf ein Treffen des Papstes mit Opfern.",
+   "u": "https://taz.de/Papstbesuch-in-Peru/!6229582/",
+   "q": "taz",
+   "d": "2026-11-12T17:24:00+00:00"
+  },
+  {
+   "t": "Verhandlungen über Bundeshaushalt: Das bisschen Haushalt macht sich nicht von allein",
+   "s": "In der Union ist der Unmut nach der Haushaltseinigung groß: keine weiteren Entlastungen. „Vertrauensbruch“ gegenüber den Bür­ge­r:in­nen, sagen die Grünen.",
+   "u": "https://taz.de/Das-bisschen-Bundeshaushalt-macht-sich-nicht-von-allein/!6229578/",
+   "q": "taz",
+   "d": "2026-11-12T17:22:00+00:00"
+  },
+  {
+   "t": "Rot-Rot-Grün in Mecklenburg-Vorpommern: Timmy-Flüsterer Till Backhaus verliert Wal-Kompetenz",
+   "s": "Nach langen Verhandlungen einigt sich Rot-Rot-Grün in MV auf die künftige Verteilung der Ministerien. Ein SPD-Urgestein muss Abstriche machen.",
+   "u": "https://taz.de/Rot-Rot-Gruen-in-Mecklenburg-Vorpommern/!6229617/",
+   "q": "taz",
+   "d": "2026-11-12T17:20:00+00:00"
+  },
+  {
+   "t": "Frühkindliche Bildung: Bundestag beschließt Startchancen-Gesetz für Kitas",
+   "s": "Am Donnerstag hat der Bundestag über das Startchancen-Qualitätsentwicklungsgesetz abgestimmt. CDU/CSU, AfD und SPD stimmten dafür, Grüne und Linke dagegen.",
+   "u": "https://taz.de/Fruehkindliche-Bildung/!6229503/",
+   "q": "taz",
+   "d": "2026-11-12T17:19:00+00:00"
+  },
+  {
+   "t": "Reform der internationalen Rechtshilfe: Gegen Nacht-und-Nebel-Auslieferungen",
+   "s": "Der Bundestag will erstmals Rechtsmittel gegen Auslieferungsentscheidungen zulassen. Allerdings sollen gleiche Rich­te­r:in­nen erneut entscheiden.",
+   "u": "https://taz.de/Reform-der-internationalen-Rechtshilfe/!6229716/",
+   "q": "taz",
+   "d": "2026-11-12T16:41:00+00:00"
+  },
+  {
+   "t": "Einkommensgrenze bei Unterhaltsvorschuss: Ab 4.500 Euro gibt's nix",
+   "s": "Wenn ein Elternteil den Unterhalt nicht zahlt, bekamen Alleinerziehende bislang Unterstützung vom Staat. Für manche könnte sich das bald ändern.",
+   "u": "https://taz.de/Einkommensgrenze-bei-Unterhaltsvorschuss/!6229502/",
+   "q": "taz",
+   "d": "2026-11-12T15:56:00+00:00"
+  },
+  {
+   "t": "Berichterstattung über Pädokriminalität: Gerechtigkeit für Lisa T.",
+   "s": "Deutsche Medien scheitern daran, den Mord an der 13-jährigen Schülerin vernünftig einzuordnen. Berichte müssen das Systemversagen klar benennen.",
+   "u": "https://taz.de/Berichterstattung-ueber-Paedokriminalitaet/!6224383/",
+   "q": "taz",
+   "d": "2026-11-12T15:55:00+00:00"
+  },
+  {
+   "t": "Geheimdienstreform der Bundesregierung: Lizenz zum Zugreifen",
+   "s": "Schwarz-Rot weitet die Rechte von Bundesnachrichtendienst und Verfassungsschutz deutlich aus. Trotz Nachbesserungen gibt es noch Kritik.",
+   "u": "https://taz.de/Geheimdienstreform-der-Bundesregierung/!6229500/",
+   "q": "taz",
+   "d": "2026-11-12T15:54:00+00:00"
+  },
+  {
+   "t": "\"Pflege ganz aktiv\" schafft mehr Freiraum in der Pflege",
+   "s": "Ein Modellprojekt in Rheinland-Pfalz ermöglicht ambulante Pflege nach individuellem Zeitbudget statt starrer Vorgaben. Erste Ergebnisse sind vielversprechend. Könnte so die Zukunft der Pflege aussehen? Von Claudia Hiller.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/pflege-neues-modell-ambulant-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-12T10:45:20+00:00"
+   "d": "2026-11-12T15:46:43+00:00"
   },
   {
-   "t": "Haushaltsstreit: Kürzungen bei Wohngeld und Kindersofortzuschlag vom Tisch",
-   "s": "Kürzungspläne bei Sozialleistungen werden zurückgenommen. Stromsteuersenkung kommt nicht, Zuckersteuer wird verschoben.",
-   "u": "https://taz.de/Chaos-vor-den-Haushaltsberatungen/!6229413/",
+   "t": "Pressefreiheit in Ägypten: Zum Schweigen gebracht",
+   "s": "Die Verurteilung von Journalistin Lina Attalah zeigt erneut die Einschränkung der Pressefreiheit. Die EU und Deutschland sollten sich dazu verhalten.",
+   "u": "https://taz.de/Pressefreiheit-in-Aegypten/!6229493/",
    "q": "taz",
-   "d": "2026-11-12T09:49:00+00:00"
+   "d": "2026-11-12T15:15:00+00:00"
   },
   {
-   "t": "Kompromisse beim Haushalt: Zufriedene SPD, Grummeln in der Union",
-   "s": "Mit dem Haushaltskompromiss zeigt sich vor allem die SPD zufrieden. Sie konnte einige Kürzungen abwenden. Bei der Union dagegen ist der Unmut nicht zu überhören - insbesondere wegen der nicht beschlossenen Senkung der Stromsteuer. Von G. Schwarte.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-union-spd-102.html",
+   "t": "Religionsfreiheit in Ägypten: Misshandelt wegen seines Glaubens",
+   "s": "Ägyptens Staatsanwaltschaft fordert lebenslange Haft für den zum Christentum konvertierten Said Abdelrazek. Menschenrechtler sehen religiöse Verfolgung.",
+   "u": "https://taz.de/Religionsfreiheit-in-Aegypten/!6229567/",
+   "q": "taz",
+   "d": "2026-11-12T15:06:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten aus Nahost +++: Sechs Tote bei Angriff auf Krankenhaus in Gaza",
+   "s": "Dem israelischen Militär zufolge galt der Angriff einem Hamas-Anführer. Krankenhäuser stehen im Krieg unter dem Schutz des humanitären Völkerrechts.",
+   "u": "https://taz.de/-Nachrichten-aus-Nahost-/!6229635/",
+   "q": "taz",
+   "d": "2026-11-12T14:53:00+00:00"
+  },
+  {
+   "t": "Claudia Müller über Rot-Rot-Grün in MV: „Die grüne Handschrift zieht sich durch alle Bereiche“",
+   "s": "Mecklenburg-Vorpommern bekommt erstmals eine rot-rot-grüne Regierung. Die designierte grüne Umweltministerin Müller wünscht sich ein solches Bündnis auch im Bund.",
+   "u": "https://taz.de/Claudia-Mueller-ueber-Rot-Rot-Gruen-in-MV/!6229382/",
+   "q": "taz",
+   "d": "2026-11-12T14:10:00+00:00"
+  },
+  {
+   "t": "Keine Senkung der Stromsteuer: Bei der Union \"hat es ordentlich geknallt\"",
+   "s": "Die Senkung der Stromsteuer wird nun vermutlich doch nicht kommen - trotz anderslautender Versprechen. Bei der Union will man das noch nicht akzeptieren. Und die Opposition nimmt sich Kanzler Merz vor.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-12T09:43:29+00:00"
+   "d": "2026-11-12T13:40:04+00:00"
   },
   {
-   "t": "+++ Nachrichten zum Ukraine-Krieg +++: Kushner und Witkoff bei Putin in Moskau",
-   "s": "Die US-Sondergesandten sind zu Gesprächen in Moskau eingetroffen. Später wollen sie Selenskyj in Dublin treffen. Gegenseitige Angriffe gehen derweil weiter.",
-   "u": "https://taz.de/-Nachrichten-zum-Ukraine-Krieg-/!6229424/",
+   "t": "Papst Leo XIV. in Südamerika: Begrenzte Empathie",
+   "s": "Bei seinem Besuch in Argentinien fordert der Papst mehr Gerechtigkeit. Für andere Religionen hat die katholische Kirche kein Verständnis.",
+   "u": "https://taz.de/Papst-Leo-XIV-in-Suedamerika/!6229422/",
    "q": "taz",
-   "d": "2026-11-12T09:06:00+00:00"
+   "d": "2026-11-12T13:16:00+00:00"
   },
   {
-   "t": "Worauf sich die Bundesregierung beim Haushalt geeinigt hat",
-   "s": "Manches kommt gar nicht, anderes später: Kurz vor den wichtigen Beratungen des Haushaltsausschusses hat sich die Bundesregierung auf Kompromisse verständigt. Was wird nun aus Strom-, Zucker- und Plastiksteuer? Ein Überblick.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-haushalt-kompromisse-100.html",
+   "t": "Weltklimakonferenz in Antalya: Australiens Premier verschweigt die Kohle",
+   "s": "Premierminister Albanese gibt auf der COP mit dem Ausbau der Erneuerbaren an. Doch die Verantwortung Australiens für den Klimawandel lässt er aus.",
+   "u": "https://taz.de/Weltklimakonferenz-in-Antalya/!6229417/",
+   "q": "taz",
+   "d": "2026-11-12T13:12:00+00:00"
+  },
+  {
+   "t": "Neuausrichtung der Bundeszentrale für politische Bildung sorgt für Streit",
+   "s": "Die Bundeszentrale für politische Bildung ist bekannt für den Wahl-O-Mat, Bildungsveranstaltungen und Info-Broschüren. Auf Weisung des Innenministeriums richtet sie sich neu aus. Doch darüber ist jetzt ein Streit ausgebrochen. Von D. K. Mäurer.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundeszentrale-fuer-politische-bildung-ausrichtung-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-12T08:12:13+00:00"
+   "d": "2026-11-12T12:52:24+00:00"
   },
   {
-   "t": "Fast zwei Jahre Proteste: Georgien und der Wunsch nach Freiheit",
-   "s": "80 Prozent der Menschen in Georgien befürworten einen EU-und NATO-Beitritt. Doch seit der gefälschten Wahl 2024 rückt dieses Ziel in weite Ferne. Trotzdem protestieren etliche weiter. Woher nehmen Georgier die Kraft, weiter für ihre Freiheit zu kämpfen?Franke, Thomas",
-   "u": "https://www.deutschlandfunk.de/fast-zwei-jahre-proteste-wo-steht-georgien-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-12T08:11:00+00:00"
-  },
-  {
-   "t": "Silvio Berlusconi - Medienmacht und Bunga Bunga",
-   "s": "Mitte der 1990er-Jahre kollabiert das Parteiensystem Italiens. Nutznießer ist der Medienmogul Silvio Berlusconi. Viermal wird er Ministerpräsident. Seine Politik aber scheitert, seine Eskapaden werden untragbar. Vor 15 Jahren ist er zurückgetreten.Baetz, Brigitte",
-   "u": "https://www.deutschlandfunk.de/12-11-2011-silvio-berlusconi-tritt-als-italiens-ministerpraesident-zurueck-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-12T08:05:00+00:00"
-  },
-  {
-   "t": "US-Kongresswahlen: Schwarzer Demokrat gewinnt Senatssitz in Mississippi",
-   "s": "Scott Colom wird der erste afroamerikanische Senator aus dem erzkonservativen Bundesstaat seit 1881. Der äußerts knappe Ausgang war gespannt erwartet worden.",
-   "u": "https://taz.de/US-Kongresswahlen/!6229412/",
+   "t": "Verhandlungen in Abu Dhabi: Die systematische Vernichtung der Ukraine",
+   "s": "Während erneut über die Ukraine verhandelt wird, zerstört Russland weiter systematisch Häfen und Energieanlagen. Die Ukrainer haben keine Hoffnung auf Frieden.",
+   "u": "https://taz.de/Verhandlungen-in-Abu-Dhabi/!6229151/",
    "q": "taz",
-   "d": "2026-11-12T07:55:00+00:00"
-  },
-  {
-   "t": "Haushaltsstreit der Koalition: Nein, nein, nein",
-   "s": "Abermals haben sich Union und SPD nicht einigen können. Stromsteuersenkung, Plastiksteuer, Zuckersteuer: Wie geht es weiter?",
-   "u": "https://taz.de/Haushaltsstreit-der-Koalition/!6229410/",
-   "q": "taz",
-   "d": "2026-11-12T06:51:00+00:00"
-  },
-  {
-   "t": "Nach der Stichwahl in Brasilien: Lula zeigt, wie’s geht",
-   "s": "In Brasilien weist eine geeinte Linke die Ultrarechten in die Schranken. Es gibt wieder Hoffnung für Progressive und Demokraten.",
-   "u": "https://taz.de/Nach-der-Stichwahl-in-Brasilien/!6229196/",
-   "q": "taz",
-   "d": "2026-11-12T06:14:00+00:00"
-  },
-  {
-   "t": "Schwarz-Rot verschiebt Zuckersteuer - keine Senkung der Stromsteuer",
-   "s": "Im Ringen um den Haushalt hat sich die Koalition auf einen Kompromiss geeinigt. So soll etwa die Einführung einer Zuckersteuer verschoben werden - zudem wird die Stromsteuer vorerst nicht gesenkt.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T23:12:02+00:00"
-  },
-  {
-   "t": "Wirtschaftsweise mahnen Politik zur Haushaltskonsolidierung",
-   "s": "Die Konjunktur entwickelt sich unerwartet gut. Dennoch drohen große Finanzlücken etwa durch hohe Verteidigungsausgaben, die Wachstum allein nicht schließen kann, warnt der Wirtschaftsweise Achim Truger. Themen wie Rente oder Steuern seien Stellschrauben.Buschert, Fanny; Truger, Achim; Sittler, Friederike",
-   "u": "https://www.deutschlandfunk.de/wirtschaftsweise-mahnen-politik-zur-haushaltskonsolidierung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-11T22:16:20+00:00"
-  },
-  {
-   "t": "Köln und Düsseldorf: Meist friedlicher Karnevalsstart im Rheinland",
-   "s": "In den Karnevalshochburgen Köln und Düsseldorf haben die Jecken die fünfte Jahreszeit eingeläutet. Laut Polizei verliefen die Feiern auf den Straßen und in den Kneipen meist friedlich. Nur das Wetter machte nicht mit.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/karneval-start-koeln-duesseldorf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T20:29:48+00:00"
-  },
-  {
-   "t": "Sexuelle Belästigung am Arbeitsplatz: „Wir brauchen eine Kultur des Hinschauens“",
-   "s": "Sexuelle Übergriffe sind nicht nur in der Bundeswehr ein Problem, sagt Expertin Ceyda Keskin. Organisationen müssen laut ihr mehr Verantwortung übernehmen.",
-   "u": "https://taz.de/Sexuelle-Belaestigung-am-Arbeitsplatz/!6229268/",
-   "q": "taz",
-   "d": "2026-11-11T18:57:00+00:00"
-  },
-  {
-   "t": "Nationalfeiertag in Polen: „Hier ist Polen, nicht Brüssel!“",
-   "s": "In Warschau begehen Tausende den Unabhängigkeitstag. Der Marsch, von Nationalisten organisiert, findet unter verschärften Sicherheitsbedingungen statt.",
-   "u": "https://taz.de/Nationalfeiertag-in-Polen/!6229178/",
-   "q": "taz",
-   "d": "2026-11-11T18:43:00+00:00"
-  },
-  {
-   "t": "Merz und der EU-Haushalt: Ein Bärendienst für die Ukraine",
-   "s": "Friedrich Merz will künftige Finanzhilfen für die Ukraine auf europäischer Ebene sichern. Seine Aktionen gehen am Thema vorbei – und sind riskant.",
-   "u": "https://taz.de/Merz-und-der-EU-Haushalt/!6229182/",
-   "q": "taz",
-   "d": "2026-11-11T18:42:00+00:00"
-  },
-  {
-   "t": "EU-Streit um Ukraine-Hilfen: Wutbriefe, Befindlichkeiten und Streit ums Geld",
-   "s": "Die EU ringt bei den Verhandlungen für einen Waffenstillstand in der Ukraine um eine gemeinsame Position. Und der Kanzler? Sorgt vor allem für Streit.",
-   "u": "https://taz.de/EU-Streit-um-Ukraine-Hilfen/!6229257/",
-   "q": "taz",
-   "d": "2026-11-11T18:41:00+00:00"
-  },
-  {
-   "t": "Nach den US-Zwischenwahlen: Aufatmen für Europa?",
-   "s": "US-Präsident Donald Trump ist geschwächt. Die Midterms waren ein deutlicher Dämpfer für ihn und die Republikaner. Mit welchem US-Präsidenten müssen wir nun auf internationaler Ebene rechnen? Und wie steht es in Zukunft um die europäische Sicherheit?Fröhndrich, Sina",
-   "u": "https://www.deutschlandfunk.de/nach-den-us-zwischenwahlen-kann-europa-aufatmen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-11T18:15:00+00:00"
-  },
-  {
-   "t": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
-   "s": "Einkommensgrenze, statt verkürzter Zahlung: Familienministerin Prien hat einen Gesetzentwurf zum Unterhaltsvorschuss vorgelegt. Elternteile, die nicht zahlen, sollen stärker in die Pflicht genommen werden - etwa mit Fahrverboten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T18:01:47+00:00"
-  },
-  {
-   "t": "Die Linke in Berlin: Großer Erfolg bringt große Probleme",
-   "s": "Der Wahlsieg in Berlin hat der Linken Rückenwind gegeben. Die Mitgliederzahlen steigen, doch auch Erwartungen und interne Konflikte wachsen. Besonders der Umgang mit Antisemitismus fordert die Partei heraus. Kann sie ihren Aufschwung verstetigen?Boeselager, Felicitas; van Laak, Claudia",
-   "u": "https://www.deutschlandfunk.de/die-linke-grosser-erfolg-bringt-grosse-probleme-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-11T17:40:00+00:00"
-  },
-  {
-   "t": "Koalitionsvereinbarung vor Umsetzung: Der Minister gibt, der Minister nimmt",
-   "s": "Arbeitsminister Schweitzer (SPD) stärkt in einem Gesetzentwurf die Mitbestimmung durch Arbeitnehmer. Dafür schwächt er ihren Schutz vor Befristungen.",
-   "u": "https://taz.de/Koalitionsvereinbarung-vor-Umsetzung/!6229195/",
-   "q": "taz",
-   "d": "2026-11-11T17:15:00+00:00"
+   "d": "2026-11-12T12:01:00+00:00"
   }
  ]
 }

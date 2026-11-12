@@ -1,13 +1,48 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-12T11:13:45+00:00",
+ "updated": "2026-11-12T21:50:33+00:00",
  "items": [
   {
-   "t": "Marktbericht: DAX knackt 27.000 Punkte-Marke",
-   "s": "An der Börse kann sich die Stimmung schnell drehen: Nach dem KI-Crash von vergangener Woche springt der DAX heute gleich zum Handelsstart wieder auf ein Rekordhoch. Zeitweise erreicht er sogar die Marke von 27.000 Punkten.",
+   "t": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
+   "s": "In den Verhandlungen um Kostensenkungen bei Mercedes ist keine Lösung in Sicht. Jetzt erhöht der Konzern den Druck: Der Vorstand legt alle Investitionen in deutsche Standorte auf Eis - und will Werksschließungen prüfen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T18:44:38+00:00"
+  },
+  {
+   "t": "Marktbericht: Nvidia-Aktie bricht ein - und auch der DAX sackt ab",
+   "s": "Der Rücktritt von Nvidia-Chef Huang hat amerikanische Tech-Aktien ins Minus gedrückt. Das geht auch am deutschen Leitindex DAX nicht spurlos vorüber - der zuvor ein neues Rekordhoch erreicht hatte.",
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
    "q": "Tagesschau",
-   "d": "2026-11-12T09:55:48+00:00"
+   "d": "2026-11-12T17:41:58+00:00"
+  },
+  {
+   "t": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
+   "s": "Die Bundesbank sieht wachsende Gefahren für die Finanzbranche, weil Kredite zunehmend nicht zurückgezahlt werden. Aber auch Künstliche Intelligenz berge Risiken - und die Aggressivität von Cyberangriffen. Von Ursula Mayer.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T17:31:15+00:00"
+  },
+  {
+   "t": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
+   "s": "Der Chef des weltgrößten Chipkonzerns Nvidia, Jensen Huang, tritt wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurück. Seine Aufgaben übernehme vorübergehend die bisherige Finanzchefin Colette Kress, teilte der US-Konzern mit.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T17:20:04+00:00"
+  },
+  {
+   "t": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
+   "s": "Er war nicht nur Chef, sondern auch Gesicht von Nvidia: Jensen Huang formte den Chip-Riesen maßgeblich - als \"sympathischer Tech-Bro\" mit guten Kontakten zur Trump-Regierung. Bis er zum Risiko wurde. Von Gabi Biesinger.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rolle-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T16:17:54+00:00"
+  },
+  {
+   "t": "Warum immer mehr Menschen in die Schuldenfalle rutschen",
+   "s": "Die Zahl überschuldeter Menschen in Deutschland steigt im zweiten Jahr in Folge. Auslöser einer finanziellen Notlage sind häufig Krankheit, Sucht, Unfälle oder Arbeitslosigkeit. Betroffen sind vor allem Jüngere.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/mehr-menschen-ueberschuldet-schuldneratlas-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T11:31:51+00:00"
   },
   {
    "t": "IG Metall beschließt erstmals seit acht Jahren ganztägige Streiks",
@@ -17,25 +52,11 @@
    "d": "2026-11-12T09:48:25+00:00"
   },
   {
-   "t": "Nvidia-Chef Huang verliert wegen Affären wohl seinen Job",
-   "s": "Erst eine Affäre mit einer mutmaßlichen chinesischen Spionin - und dann auch noch mit einer ihm unterstellten Angestellten: Nun soll Nvidia-Chef Huang offenbar seines Amtes enthoben werden. Der Skandal hat den Chip-Giganten bereits Billionen Dollar gekostet.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-beratung-chefwechsel-kursrueckgang-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T09:38:52+00:00"
-  },
-  {
    "t": "Update Wirtschaft vom 12.11.2026",
    "s": "Update Wirtschaft vom 12.11.2026",
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1682464.html",
    "q": "Tagesschau",
    "d": "2026-11-12T08:59:56+00:00"
-  },
-  {
-   "t": "Worauf sich die Bundesregierung beim Haushalt geeinigt hat",
-   "s": "Manches kommt gar nicht, anderes später: Kurz vor den wichtigen Beratungen des Haushaltsausschusses hat sich die Bundesregierung auf Kompromisse verständigt. Was wird nun aus Strom-, Zucker- und Plastiksteuer? Ein Überblick.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-haushalt-kompromisse-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T08:12:13+00:00"
   },
   {
    "t": "Was Experten raten: Wie es mit dem Jobwechsel klappen kann",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
    "q": "Tagesschau",
    "d": "2026-11-10T13:33:44+00:00"
-  },
-  {
-   "t": "Bund will offenbar E-Auto-Prämie um 917 Millionen Euro aufstocken",
-   "s": "Sie soll Menschen mit niedrigem oder mittlerem Einkommen den Umstieg erleichtern: Und tatsächlich ist die E-Auto-Prämie des Bundes ein voller Erfolg. Daher soll sie im kommenden Jahr noch mal um mehr als 900 Millionen aufgestockt werden.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T12:11:01+00:00"
-  },
-  {
-   "t": "Australien will nach Hackerangriff strengere Regeln für KI-Firmen",
-   "s": "Ein KI-Sicherheitsvorfall hat kürzlich einen Schock in Australien ausgelöst - jetzt reagiert die Regierung: Die Regeln für KI-Entwickler sollen verschärft werden. Auch im Strafrecht werden Änderungen geprüft.",
-   "u": "https://www.tagesschau.de/wirtschaft/australien-ki-regulieren-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T12:00:03+00:00"
-  },
-  {
-   "t": "Maschinenbau will mit Künstlicher Intelligenz aus der Krise",
-   "s": "Der deutsche Maschinenbau steckt in seinem vierten Krisenjahr. Die Branche leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Maschinenbaugipfel gibt es aber auch Hoffnungssignale - etwa die Künstliche Intelligenz. Von A. John.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T10:36:17+00:00"
   }
  ]
 }

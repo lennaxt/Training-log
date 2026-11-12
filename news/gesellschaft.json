@@ -1,10 +1,38 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-12T11:13:49+00:00",
+ "updated": "2026-11-12T21:50:37+00:00",
  "items": [
   {
-   "t": "+++ Nachrichten zum Ukraine-Krieg +++: Kushner und Witkoff bei Putin in Moskau",
-   "s": "Die US-Sondergesandten sind zu Gesprächen in Moskau eingetroffen. Später wollen sie Selenskyj in Dublin treffen. Gegenseitige Angriffe gehen derweil weiter.",
+   "t": "Europäische Politische Gemeinschaft: Ringen um eine starke Stimme",
+   "s": "Einen Tag nach Ende der Verhandlungen in Abu Dhabi kommt die Europäische Politische Gemeinschaft in Dublin zusammen. Die Ukraine steht im Mittelpunkt.",
+   "u": "https://taz.de/Europaeische-Politische-Gemeinschaft/!6229580/",
+   "q": "taz",
+   "d": "2026-11-12T18:58:00+00:00"
+  },
+  {
+   "t": "Schlapphüte in Österreich: Wien will kein Agentenparadies mehr sein",
+   "s": "Österreich verschärft seine Spionagegesetze. Grund dafür ist laut Regierung das „deutlich aggressivere“ Vorgehen fremder Nachrichtendienste.",
+   "u": "https://taz.de/Schlapphuete-in-Oesterreich/!6229646/",
+   "q": "taz",
+   "d": "2026-11-12T17:26:00+00:00"
+  },
+  {
+   "t": "Verhandlungen in Abu Dhabi: Die systematische Vernichtung der Ukraine",
+   "s": "Während erneut über die Ukraine verhandelt wird, zerstört Russland weiter systematisch Häfen und Energieanlagen. Die Ukrainer haben keine Hoffnung auf Frieden.",
+   "u": "https://taz.de/Verhandlungen-in-Abu-Dhabi/!6229151/",
+   "q": "taz",
+   "d": "2026-11-12T12:01:00+00:00"
+  },
+  {
+   "t": "Schulen im Visier: Bombenwarnungen lösen Chaos in Europa aus",
+   "s": "Irland, Großbritannien, Italien, Bulgarien, Frankreich: Immer mehr EU-Staaten werden durch Droh-E-Mails und Cyberattacken drangsaliert.",
+   "u": "https://taz.de/Kurz-vor-eurorpaeischen-Gipfel-Treffen/!6229416/",
+   "q": "taz",
+   "d": "2026-11-12T11:01:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten zum Ukraine-Krieg +++: Putin beharrt auf ukrainischen Gebieten",
+   "s": "US-Sondergesandten haben in Moskau mit Putin geredet. Anschließend wollen sie Selenskyj in Dublin treffen. Gegenseitige Angriffe gehen derweil weiter.",
    "u": "https://taz.de/-Nachrichten-zum-Ukraine-Krieg-/!6229424/",
    "q": "taz",
    "d": "2026-11-12T09:06:00+00:00"
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Korruptionsskandal-in-Spanien/!6228621/",
    "q": "taz",
    "d": "2026-11-09T18:40:00+00:00"
-  },
-  {
-   "t": "Angriffe auf Kühlanlagen: Frankreich macht Revolutionsgarden als Urheber aus",
-   "s": "Frankreich wirft Iran den Cyberangriff auf Supermarkt-Kühlanlagen vor. Außenminister Barrot spricht von beispielloser Attacke – und kündigt Konsequenzen an.",
-   "u": "https://taz.de/Frankreich-sieht-Iran-hinter-Angriff-auf-Kuehlanlagen/!6228832/",
-   "q": "taz",
-   "d": "2026-11-09T17:28:00+00:00"
-  },
-  {
-   "t": "Ermittlungen gegen polnischen TV-Sender: Hat TV Republika Falschinformationen verbreitet?",
-   "s": "Er ist Polens reichweitenstärkster Sender: TV Republika sendete live vom Anschlag in Krakau und soll dabei Falschinformationen verbreitet haben.",
-   "u": "https://taz.de/Ermittlungen-gegen-polnischen-TV-Sender/!6228792/",
-   "q": "taz",
-   "d": "2026-11-09T17:00:00+00:00"
-  },
-  {
-   "t": "Vergewaltigung und sexualisierte Gewalt: Jahrelange Haft für Russell Brand",
-   "s": "Sechs Frauen hatten gegen den Schauspieler und Comedian ausgesagt. Heute verurteilte ihn ein Londoner Gericht zu zehn Jahren und sechs Monaten Haft.",
-   "u": "https://taz.de/Vergewaltigung-und-sexualisierte-Gewalt/!6228589/",
-   "q": "taz",
-   "d": "2026-11-09T16:20:00+00:00"
-  },
-  {
-   "t": "Anschlag in Polen: Kerzen und Gebete für die Opfer",
-   "s": "In Krakau herrscht auch am Tag zwei nach dem Attentat tiefe Trauer. Das Tatmotiv des mittlerweile seinen Verletzungen erlegenen Schützen ist unklar.",
-   "u": "https://taz.de/Anschlag-in-Polen/!6228636/",
-   "q": "taz",
-   "d": "2026-11-09T16:17:00+00:00"
   }
  ]
 }
