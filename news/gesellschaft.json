@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-11T21:58:14+00:00",
+ "updated": "2026-11-12T11:13:49+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten zum Ukraine-Krieg +++: Kushner und Witkoff bei Putin in Moskau",
+   "s": "Die US-Sondergesandten sind zu Gesprächen in Moskau eingetroffen. Später wollen sie Selenskyj in Dublin treffen. Gegenseitige Angriffe gehen derweil weiter.",
+   "u": "https://taz.de/-Nachrichten-zum-Ukraine-Krieg-/!6229424/",
+   "q": "taz",
+   "d": "2026-11-12T09:06:00+00:00"
+  },
   {
    "t": "Nationalfeiertag in Polen: „Hier ist Polen, nicht Brüssel!“",
    "s": "In Warschau begehen Tausende den Unabhängigkeitstag. Der Marsch, von Nationalisten organisiert, findet unter verschärften Sicherheitsbedingungen statt.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Anschlag-in-Polen/!6228636/",
    "q": "taz",
    "d": "2026-11-09T16:17:00+00:00"
-  },
-  {
-   "t": "Proteste in Frankreich: Mit fünf Euro mehr abgespeist",
-   "s": "Die französische Regierung kündigt eine magere Erhöhung des Mindestlohns an. Die Gewerkschaften reagieren empört und rufen zu weiteren Aktionen auf.",
-   "u": "https://taz.de/Proteste-in-Frankreich/!6228720/",
-   "q": "taz",
-   "d": "2026-11-09T15:27:00+00:00"
   }
  ]
 }

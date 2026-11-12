@@ -1,7 +1,56 @@
 {
  "name": "Ausland",
- "updated": "2026-11-11T21:58:09+00:00",
+ "updated": "2026-11-12T11:13:44+00:00",
  "items": [
+  {
+   "t": "Angriff auf Krankenhaus mit sechs Toten galt laut Israel Hamas",
+   "s": "Bei einem Angriff Israels auf eine Klinik in Gaza sind nach Behördenangaben sechs Menschen gestorben. Laut Israel nutzte die Hamas die Gebäude als Kommando- und Folterzentrum. Ein Mitglied der Terrororganisation sei Ziel des Angriffs gewesen.",
+   "u": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T09:25:57+00:00"
+  },
+  {
+   "t": "Demonstrationen in Spanien: Zehntausende protestieren gegen Wohnungskrise",
+   "s": "Die angespannte Lage auf dem Wohnungsmarkt ist seit Langem das beherrschende politische Thema in Spanien. Kurz vor der Parlamentswahl haben Zehntausende Menschen gegen steigende Mieten demonstriert. Überwiegend blieben die Proteste friedlich.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-proteste-wohnungsnot-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T08:07:10+00:00"
+  },
+  {
+   "t": "Trumps Unterhändler fordern von Putin Beteiligung Europas",
+   "s": "Bei den Gesprächen über die Zukunft der Ukraine in Abu Dhabi saßen die Europäer nicht mit am Tisch. Nun besuchen die US-Gesandten Moskau - nach eigenen Worten, um Putin von einer Beteiligung Europas zu überzeugen.",
+   "u": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-putin-ukraine-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T07:00:29+00:00"
+  },
+  {
+   "t": "Historischer Sieg in Mississippi: \"Hatte den Mut, an Mississippi zu glauben\"",
+   "s": "Seit 145 Jahren zieht erstmals ein schwarzer Demokrat für Mississippi in den US-Senat. Im Wahlkampf setzte Scott Colom auf die Mobilisierung von Nicht-Wählern - und Gespräche mit Trump-Unterstützern. Von Sandra Ratzow.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-schwarzer-senator-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T04:37:34+00:00"
+  },
+  {
+   "t": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+   "s": "Beim Einsturz eines mehrstöckigen Gebäudes in New York sind mindestens zwei Menschen ums Leben gekommen. Mehrere weitere wurden unter den Trümmern eingeschlossen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T03:34:55+00:00"
+  },
+  {
+   "t": "Missbrauchsskandale in Peru: Papst Leos Reise in die Vergangenheit",
+   "s": "Die Reise von Leo XIV. nach Peru ist auch eine Reise in seine Vergangenheit: Der Pontifex hatte als Bischof die Sodalicio-Bewegung aufgelöst - wegen sexuellen Übergriffen. Doch hat die Kirche ihre Lehren gezogen? Von A. Herrberg.",
+   "u": "https://www.tagesschau.de/ausland/amerika/papst-peru-missbrauch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T02:33:13+00:00"
+  },
+  {
+   "t": "Historischer Sieg: Demokrat Colom holt Senatssitz in Mississippi",
+   "s": "Erstmals seit mehr als vier Jahrzehnten hat ein Demokrat im südlichen US-Bundesstaat Mississippi eine Wahl für den US-Senat gewonnen. Colom gelang ein überraschender Sieg - er weitet damit die Mehrheit im Senat ab Januar auf 55 der 100 Sitze aus.",
+   "u": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T02:08:44+00:00"
+  },
   {
    "t": "Polens Rechte ziehen mit \"Unabhängigkeitsmarsch\" durch Warschau",
    "s": "Am polnischen Unabhängigkeitstag findet traditionell eine Großdemonstration von Rechtsnationalisten statt. Der sogenannte Unabhängigkeitsmarsch durch Warschau ist umstritten - und zieht doch Hunderttausende an. Von P. Milling.",
@@ -22,13 +71,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/europa-sicherheitsarchitektur-russland-usa-100.html",
    "q": "Tagesschau",
    "d": "2026-11-11T18:56:21+00:00"
-  },
-  {
-   "t": "Russland und Ukraine vereinbaren Gefangenenaustausch",
-   "s": "Bei den Ukraine-Gesprächen haben Moskau und Kiew einen weiteren Gefangenenaustausch vereinbart. Morgen wollen die US-Gesandten Kushner und Witkoff zu Kremlchef Putin reisen. Dabei soll es auch darum gehen, die Europäer in die Gespräche einzubinden.",
-   "u": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T17:30:18+00:00"
   },
   {
    "t": "Generalstreik in Spanien für bezahlbares Wohnen",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/knesset-eisenkot-regierung-100.html",
    "q": "Tagesschau",
    "d": "2026-11-10T08:13:27+00:00"
-  },
-  {
-   "t": "Neun Männer in Manchester angeklagt - Auslöser sind NDR-Recherchen",
-   "s": "Gegen neun Männer läuft in Manchester ein großer Gerichtsprozess. Sie sollen Sexualstraftaten an einer bewusstlosen Frau begangen haben. Ausgelöst wurden die Ermittlungen durch noch unveröffentlichte NDR-Recherchen. Von I. Ströh und I. Beer.",
-   "u": "https://www.tagesschau.de/ausland/europa/manchester-prozess-sexualstraftaten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T07:39:59+00:00"
-  },
-  {
-   "t": "Kalifornier lehnen Milliardärssteuer ab",
-   "s": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in Werbespots gegen die Reichensteuer gesteckt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T07:15:02+00:00"
-  },
-  {
-   "t": "Republikaner Massie will Hegseth des Amtes entheben",
-   "s": "Nach dem Wahldebakel der Republikaner sehen Gegner von US-Verteidigungsminister Hegseth eine neue Gelegenheit, ihn loszuwerden. Ob es tatsächlich zur Amtsenthebung kommt, ist aber fraglich. Präsident Trump stellte sich hinter seinen Minister.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T06:12:18+00:00"
-  },
-  {
-   "t": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
-   "s": "Heute beginnen trilaterale Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland einen echten Frieden bringen - oder führen sie zu einer Schwächung der Ukraine? Die Erwartungen in der Ukraine sind gering. Von F. Kellermann.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T01:13:48+00:00"
-  },
-  {
-   "t": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
-   "s": "In mehreren Ländern Europas hatte es zuletzt Cyberangriffe auf Supermarkt-Kühlanlagen gegeben - als möglicher Urheber galt Russland. Der französische Außenminister machte nun Iran für die Vorfälle in Frankreich verantwortlich.",
-   "u": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T17:51:23+00:00"
-  },
-  {
-   "t": "Wadephul zweifelt an Russlands Verhandlungswillen",
-   "s": "In Abu Dhabi geht es ab Dienstag um ein mögliches Ende des Ukraine-Kriegs. Sind das ernsthafte Friedensgespräche? Außenminister Wadephul zweifelt am Verhandlungswillen Russlands - und fordert Mitsprache für die Europäer.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T17:19:07+00:00"
   }
  ]
 }

@@ -1,7 +1,49 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-11T21:58:11+00:00",
+ "updated": "2026-11-12T11:13:45+00:00",
  "items": [
+  {
+   "t": "Marktbericht: DAX knackt 27.000 Punkte-Marke",
+   "s": "An der Börse kann sich die Stimmung schnell drehen: Nach dem KI-Crash von vergangener Woche springt der DAX heute gleich zum Handelsstart wieder auf ein Rekordhoch. Zeitweise erreicht er sogar die Marke von 27.000 Punkten.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T09:55:48+00:00"
+  },
+  {
+   "t": "IG Metall beschließt erstmals seit acht Jahren ganztägige Streiks",
+   "s": "Ab sofort sind im Tarifstreit der Metall- und Elektroindustrie ganztägige Warnstreiks möglich. Die IG Metall wirft den Arbeitgebern nach drei Verhandlungsrunden eine Blockadehaltung vor. Wo genau gestreikt werden soll, ist noch nicht bekannt.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T09:48:25+00:00"
+  },
+  {
+   "t": "Nvidia-Chef Huang verliert wegen Affären wohl seinen Job",
+   "s": "Erst eine Affäre mit einer mutmaßlichen chinesischen Spionin - und dann auch noch mit einer ihm unterstellten Angestellten: Nun soll Nvidia-Chef Huang offenbar seines Amtes enthoben werden. Der Skandal hat den Chip-Giganten bereits Billionen Dollar gekostet.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-beratung-chefwechsel-kursrueckgang-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T09:38:52+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 12.11.2026",
+   "s": "Update Wirtschaft vom 12.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1682464.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T08:59:56+00:00"
+  },
+  {
+   "t": "Worauf sich die Bundesregierung beim Haushalt geeinigt hat",
+   "s": "Manches kommt gar nicht, anderes später: Kurz vor den wichtigen Beratungen des Haushaltsausschusses hat sich die Bundesregierung auf Kompromisse verständigt. Was wird nun aus Strom-, Zucker- und Plastiksteuer? Ein Überblick.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-haushalt-kompromisse-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T08:12:13+00:00"
+  },
+  {
+   "t": "Was Experten raten: Wie es mit dem Jobwechsel klappen kann",
+   "s": "Stellenstreichungen in der Industrie, Künstliche Intelligenz oder Unzufriedenheit können Gründe sein, sich beruflich neu zu orientieren. Doch was ist beim Jobwechsel zu beachten? Experten haben dafür Tipps. Von Lidia Wagner.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/jobwechsel-beruf-neuorientierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T07:29:46+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 11.11.2026",
    "s": "Wirtschaft vor acht vom 11.11.2026",
@@ -17,11 +59,18 @@
    "d": "2026-11-11T18:46:53+00:00"
   },
   {
-   "t": "Marktbericht: DAX pirscht sich ans Rekordhoch heran",
-   "s": "Im Handelsverlauf hatte es ausgesehen, als würde dem DAX die Luft ausgehen. Doch dann endet der Handelstag mit einem Index nahe am Rekordhoch. Die Wirtschaftsweisen schüren Optimismus, zudem treten die KI-Sorgen in den Hintergrund.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
+   "t": "Bundeskabinett beschließt Aufbau einer Gasreserve",
+   "s": "Mit einer nationalen Gasreserve will die Bundesregierung die Versorgung in Krisensituationen sichern - dabei geht es ausdrücklich nicht um hohe Preise, sondern um Ausnahmefälle wie etwa Sabotage. Auf die Gaskunden kommen dadurch Mehrkosten zu.",
+   "u": "https://www.tagesschau.de/inland/gasreserve-126.html",
    "q": "Tagesschau",
-   "d": "2026-11-11T17:13:36+00:00"
+   "d": "2026-11-11T16:38:02+00:00"
+  },
+  {
+   "t": "Vorstoß des Finanzministeriums: Was sich bei Steuerklassen für Paare ändern könnte",
+   "s": "Finanzminister Klingbeil erwägt, die von Paaren genutzten Steuerklassen III und V abzuschaffen. Das Ministerium möchte dadurch Bürokratie abbauen - aber ist das Vorhaben so einfach umsetzbar? Welche Folgen hätte ein Abschaffung?",
+   "u": "https://www.tagesschau.de/inland/steuerklassen-klingbeil-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-11T15:24:38+00:00"
   },
   {
    "t": "Metall- und Elektroindustrie: 24-Stunden-Streiks rücken näher",
@@ -73,13 +122,6 @@
    "d": "2026-11-11T10:07:28+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 11.11.2026",
-   "s": "Update Wirtschaft vom 11.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1681826.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T09:09:42+00:00"
-  },
-  {
    "t": "Boom bei Windkraft und Rechenzentren beschert Siemens Energy Rekordjahr",
    "s": "Der Hype um Künstliche Intelligenz, E-Mobilität und Digitalisierung beschert Siemens Energy ein Rekordjahr. Und das soll nach Prognose des Energietechnik-Konzerns so weitergehen.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
    "q": "Tagesschau",
    "d": "2026-11-10T10:36:17+00:00"
-  },
-  {
-   "t": "Viele deutsche Unternehmen bauen die KI-Infrastruktur mit auf",
-   "s": "US-Tech-Giganten investieren Milliarden in Künstliche Intelligenz. Anleger werden vorsichtiger mit Blick auf die Kosten. Warum deutsche und europäische Unternehmen davon profitieren könnten. Von Bianca von der Au.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/ki-milliarden-investitionen-profiteure-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T10:35:49+00:00"
-  },
-  {
-   "t": "Börsengang von Anthropic - umstrittener Goldrausch in San Francisco",
-   "s": "Der KI-Gigant Anthropic will an die Börse. Und damit könnten Tausende Mitarbeiter und Investoren zu Millionären werden. In San Francisco, dem Konzernsitz, werden explodierende Häuserpreise befürchtet. Von G. Biesinger.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T09:42:31+00:00"
-  },
-  {
-   "t": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
-   "s": "Peking setzt weiter voll auf Export - und knackt auch dank umstrittener Subventionen erneut eine Rekordmarke: Der Handelsüberschuss von mehr als einer Billion Dollar wurde vor allem durch Technologiegüter und Elektroautos erzielt.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T08:53:53+00:00"
-  },
-  {
-   "t": "Kalifornier lehnen Milliardärssteuer ab",
-   "s": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in Werbespots gegen die Reichensteuer gesteckt.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T07:15:02+00:00"
-  },
-  {
-   "t": "Klimakonferenz COP31: Warum alle über Elektrifizierung reden",
-   "s": "Ein Vorstoß des türkischen Gastgebers findet sich eigentlich gar nicht auf der offiziellen Tagesordnung. Und doch scheint das Thema Elektrifizierung im Zentrum der diesjährigen Klimakonferenz zu stehen. Von A. Schulz und J. Schreiber.",
-   "u": "https://www.tagesschau.de/wissen/klima/klimakonferenz/klimaschutz-elektrifizierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T06:34:14+00:00"
-  },
-  {
-   "t": "Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück",
-   "s": "Die UN-Klimakonferenz sucht nach Wegen aus den fossilen Energieträgern. Aktuelle Zahlen zeigen: Die fossilen CO2-Emissionen gehen leicht zurück. Doch Experten warnen, dies könne nur ein vorübergehender Effekt sein. Von Simon Plentinger.",
-   "u": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T04:01:04+00:00"
   }
  ]
 }

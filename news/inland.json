@@ -1,13 +1,111 @@
 {
  "name": "Inland",
- "updated": "2026-11-11T21:58:08+00:00",
+ "updated": "2026-11-12T11:13:43+00:00",
  "items": [
   {
-   "t": "Schwarz-Rot verschiebt Zuckersteuer - keine Einigung bei Stromsteuer",
-   "s": "Im Ringen um den Haushalt hat sich die Koalition nach ARD-Informationen auf einen Kompromiss geeinigt. So soll etwa die Einführung einer Zuckersteuer verschoben werden - zudem wird die Stromsteuer wohl vorerst nicht für alle gesenkt.",
+   "t": "Warum Minister beim Haushalt lieber pünktlich sind",
+   "s": "Beim Haushalt 2027 sind noch viele Baustellen offen. Meist bis in die frühen Morgenstunden feilt der Haushaltsausschuss am Etat. Für die Minister gilt: Pünktlichkeit ist essenziell, sonst drohen Abzüge, sagt Ausschussvorsitzende Paus. Von P. Eckstein.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bereinigungssitzung-finanzen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T11:08:50+00:00"
+  },
+  {
+   "t": "Dokumentarfilm über Gaza: Die einzigen Zeugen",
+   "s": "Sie kamen nach Gaza, um Leben zu retten. Stattdessen erlebten britische Ärz­t:in­nen Tod und Zerstörung. Der Dokumentarfilm „Life Support“ erzählt ihre Geschichte.",
+   "u": "https://taz.de/Die-Hoelle-von-Gaza-Eine-Doku-erzaehlt-was-Aerztinnen-mitansehen-mussten/!6229215/",
+   "q": "taz",
+   "d": "2026-11-12T11:06:00+00:00"
+  },
+  {
+   "t": "Kurz vor eurorpäischen Gipfel-Treffen: Bombenwarnungen lösen Chaos in Irland aus",
+   "s": "Irland, Großbritannien, Italien, Bulgarien, Frankreich: Immer mehr EU-Staaten werden durch Droh-E-Mails und Cyberattacken drangsaliert.",
+   "u": "https://taz.de/Kurz-vor-eurorpaeischen-Gipfel-Treffen/!6229416/",
+   "q": "taz",
+   "d": "2026-11-12T11:01:00+00:00"
+  },
+  {
+   "t": "Kita-Startchancengesetz: Mehr Förderung mit weniger Geld?",
+   "s": "Der Bundestag hat das Startchancengesetz beschlossen, das mehr Förderung für Kita-Kinder und verbindliche Tests vorsieht. Kritik gibt es wegen geplanter Kürzungen bei den Bundesmitteln. Von Chris Berdrow.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/kita-startchancengesetz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T10:45:20+00:00"
+  },
+  {
+   "t": "Haushaltsstreit: Kürzungen bei Wohngeld und Kindersofortzuschlag vom Tisch",
+   "s": "Kürzungspläne bei Sozialleistungen werden zurückgenommen. Stromsteuersenkung kommt nicht, Zuckersteuer wird verschoben.",
+   "u": "https://taz.de/Chaos-vor-den-Haushaltsberatungen/!6229413/",
+   "q": "taz",
+   "d": "2026-11-12T09:49:00+00:00"
+  },
+  {
+   "t": "Kompromisse beim Haushalt: Zufriedene SPD, Grummeln in der Union",
+   "s": "Mit dem Haushaltskompromiss zeigt sich vor allem die SPD zufrieden. Sie konnte einige Kürzungen abwenden. Bei der Union dagegen ist der Unmut nicht zu überhören - insbesondere wegen der nicht beschlossenen Senkung der Stromsteuer. Von G. Schwarte.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-union-spd-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T09:43:29+00:00"
+  },
+  {
+   "t": "+++ Nachrichten zum Ukraine-Krieg +++: Kushner und Witkoff bei Putin in Moskau",
+   "s": "Die US-Sondergesandten sind zu Gesprächen in Moskau eingetroffen. Später wollen sie Selenskyj in Dublin treffen. Gegenseitige Angriffe gehen derweil weiter.",
+   "u": "https://taz.de/-Nachrichten-zum-Ukraine-Krieg-/!6229424/",
+   "q": "taz",
+   "d": "2026-11-12T09:06:00+00:00"
+  },
+  {
+   "t": "Worauf sich die Bundesregierung beim Haushalt geeinigt hat",
+   "s": "Manches kommt gar nicht, anderes später: Kurz vor den wichtigen Beratungen des Haushaltsausschusses hat sich die Bundesregierung auf Kompromisse verständigt. Was wird nun aus Strom-, Zucker- und Plastiksteuer? Ein Überblick.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-haushalt-kompromisse-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-12T08:12:13+00:00"
+  },
+  {
+   "t": "Fast zwei Jahre Proteste: Georgien und der Wunsch nach Freiheit",
+   "s": "80 Prozent der Menschen in Georgien befürworten einen EU-und NATO-Beitritt. Doch seit der gefälschten Wahl 2024 rückt dieses Ziel in weite Ferne. Trotzdem protestieren etliche weiter. Woher nehmen Georgier die Kraft, weiter für ihre Freiheit zu kämpfen?Franke, Thomas",
+   "u": "https://www.deutschlandfunk.de/fast-zwei-jahre-proteste-wo-steht-georgien-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-12T08:11:00+00:00"
+  },
+  {
+   "t": "Silvio Berlusconi - Medienmacht und Bunga Bunga",
+   "s": "Mitte der 1990er-Jahre kollabiert das Parteiensystem Italiens. Nutznießer ist der Medienmogul Silvio Berlusconi. Viermal wird er Ministerpräsident. Seine Politik aber scheitert, seine Eskapaden werden untragbar. Vor 15 Jahren ist er zurückgetreten.Baetz, Brigitte",
+   "u": "https://www.deutschlandfunk.de/12-11-2011-silvio-berlusconi-tritt-als-italiens-ministerpraesident-zurueck-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-12T08:05:00+00:00"
+  },
+  {
+   "t": "US-Kongresswahlen: Schwarzer Demokrat gewinnt Senatssitz in Mississippi",
+   "s": "Scott Colom wird der erste afroamerikanische Senator aus dem erzkonservativen Bundesstaat seit 1881. Der äußerts knappe Ausgang war gespannt erwartet worden.",
+   "u": "https://taz.de/US-Kongresswahlen/!6229412/",
+   "q": "taz",
+   "d": "2026-11-12T07:55:00+00:00"
+  },
+  {
+   "t": "Haushaltsstreit der Koalition: Nein, nein, nein",
+   "s": "Abermals haben sich Union und SPD nicht einigen können. Stromsteuersenkung, Plastiksteuer, Zuckersteuer: Wie geht es weiter?",
+   "u": "https://taz.de/Haushaltsstreit-der-Koalition/!6229410/",
+   "q": "taz",
+   "d": "2026-11-12T06:51:00+00:00"
+  },
+  {
+   "t": "Nach der Stichwahl in Brasilien: Lula zeigt, wie’s geht",
+   "s": "In Brasilien weist eine geeinte Linke die Ultrarechten in die Schranken. Es gibt wieder Hoffnung für Progressive und Demokraten.",
+   "u": "https://taz.de/Nach-der-Stichwahl-in-Brasilien/!6229196/",
+   "q": "taz",
+   "d": "2026-11-12T06:14:00+00:00"
+  },
+  {
+   "t": "Schwarz-Rot verschiebt Zuckersteuer - keine Senkung der Stromsteuer",
+   "s": "Im Ringen um den Haushalt hat sich die Koalition auf einen Kompromiss geeinigt. So soll etwa die Einführung einer Zuckersteuer verschoben werden - zudem wird die Stromsteuer vorerst nicht gesenkt.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-11T21:30:05+00:00"
+   "d": "2026-11-11T23:12:02+00:00"
+  },
+  {
+   "t": "Wirtschaftsweise mahnen Politik zur Haushaltskonsolidierung",
+   "s": "Die Konjunktur entwickelt sich unerwartet gut. Dennoch drohen große Finanzlücken etwa durch hohe Verteidigungsausgaben, die Wachstum allein nicht schließen kann, warnt der Wirtschaftsweise Achim Truger. Themen wie Rente oder Steuern seien Stellschrauben.Buschert, Fanny; Truger, Achim; Sittler, Friederike",
+   "u": "https://www.deutschlandfunk.de/wirtschaftsweise-mahnen-politik-zur-haushaltskonsolidierung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-11T22:16:20+00:00"
   },
   {
    "t": "Köln und Düsseldorf: Meist friedlicher Karnevalsstart im Rheinland",
@@ -71,104 +169,6 @@
    "u": "https://taz.de/Koalitionsvereinbarung-vor-Umsetzung/!6229195/",
    "q": "taz",
    "d": "2026-11-11T17:15:00+00:00"
-  },
-  {
-   "t": "Autoritarismus-Studie 2025: Die Verrohung in Zahlen",
-   "s": "Autoritäre Einstellungen sind auf Höchststand, die Demokratie kriselt. Sozialforscher halten den Autoritarismus dennoch für „aufhaltsam“.",
-   "u": "https://taz.de/Autoritarismus-Studie-2025/!6229192/",
-   "q": "taz",
-   "d": "2026-11-11T17:08:00+00:00"
-  },
-  {
-   "t": "Regierungsbildung in Schweden: Schwedens Zentrum flirtet mit rechts",
-   "s": "Schweden sucht weiter eine neue Regierung. Die links-grünen Wahlsieger werden sich uneinig. Nun gibt es Aufregung um ein Angebot der Rechtspopulisten.",
-   "u": "https://taz.de/Regierungsbildung-in-Schweden/!6229181/",
-   "q": "taz",
-   "d": "2026-11-11T17:00:00+00:00"
-  },
-  {
-   "t": "Sexualisierte Gewalt in der Bundeswehr: Ein Schlaglicht im Dunkelfeld",
-   "s": "Erstmals beleuchtet die Bundeswehr das Ausmaß von sexualisiertem Fehlverhalten in den eigenen Reihen. Verteidigungsminister Pistorius will nun handeln.",
-   "u": "https://taz.de/Sexualisierte-Gewalt-in-der-Bundeswehr/!6229270/",
-   "q": "taz",
-   "d": "2026-11-11T16:47:00+00:00"
-  },
-  {
-   "t": "Bundeskabinett beschließt Aufbau einer Gasreserve",
-   "s": "Mit einer nationalen Gasreserve will die Bundesregierung die Versorgung in Krisensituationen sichern - dabei geht es ausdrücklich nicht um hohe Preise, sondern um Ausnahmefälle wie etwa Sabotage. Auf die Gaskunden kommen dadurch Mehrkosten zu.",
-   "u": "https://www.tagesschau.de/inland/gasreserve-126.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T16:38:02+00:00"
-  },
-  {
-   "t": "Generalstreik in Spanien: Für bezahlbaren Wohnraum und bessere Löhne",
-   "s": "Nach wochenlangen Demonstrationen für mehr Mieterschutz folgt der Generalstreik. Streikführer Guillermo Dimarco erzählt, was er sich davon erhofft.",
-   "u": "https://taz.de/Generalstreik-in-Spanien/!6229180/",
-   "q": "taz",
-   "d": "2026-11-11T16:22:00+00:00"
-  },
-  {
-   "t": "Wirtschaftsexperten zu Haushalt für 2027: Militär mit Steuern finanzieren",
-   "s": "Die Wirtschaftsweisen raten, die hohe Verschuldung für Verteidigungsausgaben zu verringern. Dafür müsste im Bundeshaushalt aber hart gespart werden.",
-   "u": "https://taz.de/Wirtschaftsexperten-zu-Haushalt-fuer-2027/!6229191/",
-   "q": "taz",
-   "d": "2026-11-11T16:09:00+00:00"
-  },
-  {
-   "t": "Aktuelle Zahlen - So extrem sind wir",
-   "s": "Tiefststände bei der Demokratiezufriedenheit, der Antisemitismus nimmt zu. Das sind Ergebnisse der Leipziger Autoritarismus-Studie 2026. Und: Erhöhter Datenverkehr im Internet wegen eines einzigen Computer-Spiels: GTA 6.Tobias Armbrüster",
-   "u": "https://www.deutschlandfunk.de/studie-extremismus-demokratie-computerspiel-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-11T16:00:00+00:00"
-  },
-  {
-   "t": "Weniger Kündigungsschutz, mehr Befristungen - das plant die Koalition",
-   "s": "Mehr Befristungen, weniger Kündigungsschutz für Hochverdiener und mehr Spielraum für Bäckereien am Sonntag: Die Regierung will das Arbeitsrecht reformieren. Was sich ändern soll und was noch offen ist.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/arbeitsrecht-kuendigungsschutz-befristungen-reform-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T15:44:40+00:00"
-  },
-  {
-   "t": "Krieg zwischen USA und Iran: Ist nach dem Krieg vor dem Krieg?",
-   "s": "Die USA greifen Stellungen in Iran an und sprechen gleichzeitig von einem Kriegsende. Iran enthüllt neue Raketenstädte und zögert, sie einzusetzen. Und nun?",
-   "u": "https://taz.de/Krieg-zwischen-USA-und-Iran/!6229179/",
-   "q": "taz",
-   "d": "2026-11-11T15:30:00+00:00"
-  },
-  {
-   "t": "Kürzungen im Haushalt 2027: Unabhängiger Asylberatung droht Kahlschlag",
-   "s": "Nicht zivilgesellschaftliche Organisationen, sondern das Bamf selbst soll künftig Geflüchtete beraten. Die Grünen fordern Geld für Seenotretter.",
-   "u": "https://taz.de/Kuerzungen-im-Haushalt-2027/!6229127/",
-   "q": "taz",
-   "d": "2026-11-11T15:26:00+00:00"
-  },
-  {
-   "t": "Vorstoß des Finanzministeriums: Was sich bei Steuerklassen für Paare ändern könnte",
-   "s": "Finanzminister Klingbeil erwägt, die von Paaren genutzten Steuerklassen III und V abzuschaffen. Das Ministerium möchte dadurch Bürokratie abbauen - aber ist das Vorhaben so einfach umsetzbar? Welche Folgen hätte ein Abschaffung?",
-   "u": "https://www.tagesschau.de/inland/steuerklassen-klingbeil-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T15:24:38+00:00"
-  },
-  {
-   "t": "Veröffentlichtes Redemanuskript: Ist Holger Friedrich jetzt für oder gegen die AfD?",
-   "s": "Verleger Holger Friedrich hat seinen Auftritt beim „Demokratiekongress“ der AfD im Sommer abgesagt. Aber er hat nun trotzdem seine Rede veröffentlicht.",
-   "u": "https://taz.de/Veroeffentlichte-Rede-Ist-Holger-Friedrich-jetzt-fuer-oder-gegen-die-AfD/!6229193/",
-   "q": "taz",
-   "d": "2026-11-11T15:23:00+00:00"
-  },
-  {
-   "t": "Regime in Myanmar ist sauer auf Berlin: Diplomatischer Eklat um politische Geburtstagsgrüße",
-   "s": "Myanmars Junta legt Deutschlands Geschäftsträger die Ausreise nahe. Der Grund: Kritik am Regime zum 75. Geburtstag des gestürzten Präsidenten.",
-   "u": "https://taz.de/Regime-in-Myanmar-ist-sauer-auf-Berlin/!6229184/",
-   "q": "taz",
-   "d": "2026-11-11T15:22:00+00:00"
-  },
-  {
-   "t": "Der Auslands-Podcast der taz: Proteste, Sparpläne und eine EU, die sich um sich dreht",
-   "s": "Belgien steckt mitten in einer Krise mit unklarem Ausgang. Die EU bekommt von den Problemen ihrer Mitglieder kaum etwas mit – nicht mal in Brüssel.",
-   "u": "https://taz.de/Der-Auslands-Podcast-der-taz/!6229117/",
-   "q": "taz",
-   "d": "2026-11-11T14:36:00+00:00"
   }
  ]
 }

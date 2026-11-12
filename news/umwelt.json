@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-11T21:58:13+00:00",
+ "updated": "2026-11-12T11:13:48+00:00",
  "items": [
+  {
+   "t": "Haushaltsstreit: Kürzungen bei Wohngeld und Kindersofortzuschlag vom Tisch",
+   "s": "Kürzungspläne bei Sozialleistungen werden zurückgenommen. Stromsteuersenkung kommt nicht, Zuckersteuer wird verschoben.",
+   "u": "https://taz.de/Chaos-vor-den-Haushaltsberatungen/!6229413/",
+   "q": "taz",
+   "d": "2026-11-12T09:49:00+00:00"
+  },
+  {
+   "t": "Haushaltsstreit der Koalition: Nein, nein, nein",
+   "s": "Abermals haben sich Union und SPD nicht einigen können. Stromsteuersenkung, Plastiksteuer, Zuckersteuer: Wie geht es weiter?",
+   "u": "https://taz.de/Haushaltsstreit-der-Koalition/!6229410/",
+   "q": "taz",
+   "d": "2026-11-12T06:51:00+00:00"
+  },
+  {
+   "t": "Podcast „ungeskriptet“: Müssen Lügner korrigiert werden?",
+   "s": "Der Podcaster Ben Berndt hat die Landesmedienanstalt NRW verklagt wegen Verletzung der Pressefreiheit. Warum? Die wichtigsten Fragen und Antworten.",
+   "u": "https://taz.de/Podcast-ungeskriptet/!6229353/",
+   "q": "taz",
+   "d": "2026-11-12T06:24:00+00:00"
+  },
   {
    "t": "Sexuelle Belästigung am Arbeitsplatz: „Wir brauchen eine Kultur des Hinschauens“",
    "s": "Sexuelle Übergriffe sind nicht nur in der Bundeswehr ein Problem, sagt Expertin Ceyda Keskin. Organisationen müssen laut ihr mehr Verantwortung übernehmen.",
@@ -95,7 +116,7 @@
   },
   {
    "t": "Linksbündnis in Mecklenburg-Vorpommern: Kein Modell, aber eine Chance",
-   "s": "Geräuschlos wurden in Schwerin die Koalitionsverhandlungen für eine Rot-Rot-Grüne Landesregierung abgeschlossen. Einfach nachzuahmen ist das nicht.",
+   "s": "Geräuschlos wurden in Schwerin die Koalitionsverhandlungen für eine rot-rot-grüne Landesregierung abgeschlossen. Einfach nachzuahmen ist das nicht.",
    "u": "https://taz.de/Geraeuschlose-Regierungsbildung-in-Mecklenburg-Vorpommern-Kein-Modell-aber-eine-Chance/!6224315/",
    "q": "taz",
    "d": "2026-11-10T18:51:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Kandidatin-Ilse-Aigner/!6229029/",
    "q": "taz",
    "d": "2026-11-10T15:51:00+00:00"
-  },
-  {
-   "t": "Bundeshaushalt 2027: Stromsteuer elektrisiert Koalition",
-   "s": "Auf der Zielgeraden zum Bundeshaushalt 2027 plant die Koalition mehr Mittel für die E-Auto-Förderung ein, diskutiert aber weiter über Steuerpolitik.",
-   "u": "https://taz.de/Bundeshaushalt-2027/!6228864/",
-   "q": "taz",
-   "d": "2026-11-10T15:26:00+00:00"
-  },
-  {
-   "t": "Das Berliner Stadtschloss: Ein Zeichen der Spaltung",
-   "s": "Ein Spaziergang führt unsere Kolumnistin ans Berliner Schloss. Mit dessen Wiederaufbau, meint sie, kam das politische Elend des heutigen Deutschlands in Fahrt.",
-   "u": "https://taz.de/Berliner-Stadtschloss-Sein-Wiederaufbau-ist-der-Startpunkt-des-heutigen-politische-Elends/!6224184/",
-   "q": "taz",
-   "d": "2026-11-10T12:06:00+00:00"
-  },
-  {
-   "t": "Ausbeutung von Reinigungskräften: 16 Stunden Putzen am Tag",
-   "s": "Menschen aus Osteuropa werden nach Deutschland gelockt, um für einen Hungerlohn Toiletten sauber zu machen. Einblicke in ein kriminelles System.",
-   "u": "https://taz.de/Wer-reinigt-unsere-oeffentliche-Toiletten-Einblicke-in-ein-kriminelles-System/!6224245/",
-   "q": "taz",
-   "d": "2026-11-10T11:04:00+00:00"
   }
  ]
 }

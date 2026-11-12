@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-11-11T21:58:15+00:00",
+ "updated": "2026-11-12T11:13:50+00:00",
  "items": [
+  {
+   "t": "US-Kongresswahlen: Schwarzer Demokrat gewinnt Senatssitz in Mississippi",
+   "s": "Scott Colom wird der erste afroamerikanische Senator aus dem erzkonservativen Bundesstaat seit 1881. Der äußerts knappe Ausgang war gespannt erwartet worden.",
+   "u": "https://taz.de/US-Kongresswahlen/!6229412/",
+   "q": "taz",
+   "d": "2026-11-12T07:55:00+00:00"
+  },
+  {
+   "t": "Nach der Stichwahl in Brasilien: Lula zeigt, wie’s geht",
+   "s": "In Brasilien weist eine geeinte Linke die Ultrarechten in die Schranken. Es gibt wieder Hoffnung für Progressive und Demokraten.",
+   "u": "https://taz.de/Nach-der-Stichwahl-in-Brasilien/!6229196/",
+   "q": "taz",
+   "d": "2026-11-12T06:14:00+00:00"
+  },
   {
    "t": "Abstimmung über Pete Hegseth: Den richtigen Zeitpunkt verpasst",
    "s": "Geschlossen stimmen die Republikaner im US-Repräsentantenhaus gegen die Amtsenthebung des „Kriegsministers“. Ein Erfolg für Trump – und ein Problem.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Staatliche-Gewalt-in-Ecuador/!6224037/",
    "q": "taz",
    "d": "2026-11-06T15:34:00+00:00"
-  },
-  {
-   "t": "Abschiebung aus den USA nach Guatemala: Mit 63 zurück auf Anfang",
-   "s": "Ronald Rivera lebte fast 25 Jahre in den USA, baute sich ein Geschäft und ein neues Leben auf. Dann wurde er nach Guatemala abgeschoben.",
-   "u": "https://taz.de/Abschiebung-aus-den-USA-nach-Guatemala/!6224027/",
-   "q": "taz",
-   "d": "2026-11-06T14:47:00+00:00"
-  },
-  {
-   "t": "Nithya Raman wird Bürgermeisterin: Eine Sozialistin für Los Angeles",
-   "s": "Ein weiterer Sieg für linke US-Demokraten: Nithya Raman wird Bürgermeisterin von Los Angeles. Ihr Verhältnis zu den Demokratischen Sozialisten ist jedoch kompliziert.",
-   "u": "https://taz.de/Nithya-Raman-wird-Buergermeisterin/!6228227/",
-   "q": "taz",
-   "d": "2026-11-06T13:30:00+00:00"
   }
  ]
 }
