@@ -1,20 +1,62 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-12T21:50:33+00:00",
+ "updated": "2026-11-13T11:00:07+00:00",
  "items": [
   {
-   "t": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
-   "s": "In den Verhandlungen um Kostensenkungen bei Mercedes ist keine Lösung in Sicht. Jetzt erhöht der Konzern den Druck: Der Vorstand legt alle Investitionen in deutsche Standorte auf Eis - und will Werksschließungen prüfen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+   "t": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+   "s": "Weltweit sind seit vielen Stunden Dienste des US-Softwarekonzerns Microsoft ausgefallen oder gestört, unter anderem das E-Mail-Programm Outlook. Wer davon betroffen ist und welche Hintergründe vermutet werden - ein Überblick.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-12T18:44:38+00:00"
+   "d": "2026-11-13T10:15:39+00:00"
   },
   {
-   "t": "Marktbericht: Nvidia-Aktie bricht ein - und auch der DAX sackt ab",
-   "s": "Der Rücktritt von Nvidia-Chef Huang hat amerikanische Tech-Aktien ins Minus gedrückt. Das geht auch am deutschen Leitindex DAX nicht spurlos vorüber - der zuvor ein neues Rekordhoch erreicht hatte.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
+   "t": "Marktbericht: DAX schwächelt nach vier Gewinntagen",
+   "s": "Nach vier Gewinntagen in Folge gehen es die Anleger heute etwas langsamer an - der DAX fällt leicht zurück. Auf Wochensicht liegt der deutsche Leitindex bislang aber noch weit in der Gewinnzone.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-12T17:41:58+00:00"
+   "d": "2026-11-13T09:25:51+00:00"
+  },
+  {
+   "t": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\"",
+   "s": "13 Jahre nach seiner letzten Version steht das neue Videospiel \"Grand Theft Auto VI\" vor der Premiere. Software-Anbieter berichten von weltweit gestiegenen Urlaubsanträgen im Vorfeld. Der Entwickler hofft auf ein Milliardengeschäft.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/weltweit-mehr-urlaubsantraege-start-gta6-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T09:12:03+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 13.11.2026",
+   "s": "Update Wirtschaft vom 13.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1683034.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T09:11:38+00:00"
+  },
+  {
+   "t": "Welche Folgen Nvidias Absturz für die KI-Branche hat",
+   "s": "Mit dem Abgang von Nvidia-Gründer Huang verliert das Unternehmen seinen visionären Vordenker. Was bedeutet das jetzt für das Unternehmen selbst und die Konkurrenz? Von R. Spiegelhauer.",
+   "u": "https://www.tagesschau.de/wirtschaft/nvidia-ruecktritt-folgen-ki-branche-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T08:26:55+00:00"
+  },
+  {
+   "t": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
+   "s": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst. Huang und Handelsminister Lutnick sollen vor dem US-Senat aussagen. Es geht um mögliche Chip-Lieferungen nach China.",
+   "u": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T07:27:43+00:00"
+  },
+  {
+   "t": "11KM-Podcast zum Rücktritt des Nvidia-Chefs: Der Fall Jensen Huang",
+   "s": "Nvidia-Chef Jensen Huang ist zurückgetreten. 11KM erzählt, was zum mutmaßlichen Spionagefall bekannt ist und wie Geheimdienste versuchen, mit intimen Beziehungen Informationen zu sammeln.",
+   "u": "https://www.tagesschau.de/podcast-11km-nvidia-huang-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T05:44:09+00:00"
+  },
+  {
+   "t": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+   "s": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
+   "u": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T02:36:47+00:00"
   },
   {
    "t": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
@@ -22,13 +64,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
    "q": "Tagesschau",
    "d": "2026-11-12T17:31:15+00:00"
-  },
-  {
-   "t": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-   "s": "Der Chef des weltgrößten Chipkonzerns Nvidia, Jensen Huang, tritt wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurück. Seine Aufgaben übernehme vorübergehend die bisherige Finanzchefin Colette Kress, teilte der US-Konzern mit.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T17:20:04+00:00"
   },
   {
    "t": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
@@ -43,20 +78,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/mehr-menschen-ueberschuldet-schuldneratlas-100.html",
    "q": "Tagesschau",
    "d": "2026-11-12T11:31:51+00:00"
-  },
-  {
-   "t": "IG Metall beschließt erstmals seit acht Jahren ganztägige Streiks",
-   "s": "Ab sofort sind im Tarifstreit der Metall- und Elektroindustrie ganztägige Warnstreiks möglich. Die IG Metall wirft den Arbeitgebern nach drei Verhandlungsrunden eine Blockadehaltung vor. Wo genau gestreikt werden soll, ist noch nicht bekannt.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T09:48:25+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 12.11.2026",
-   "s": "Update Wirtschaft vom 12.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1682464.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T08:59:56+00:00"
   },
   {
    "t": "Was Experten raten: Wie es mit dem Jobwechsel klappen kann",
@@ -80,46 +101,11 @@
    "d": "2026-11-11T18:46:53+00:00"
   },
   {
-   "t": "Bundeskabinett beschließt Aufbau einer Gasreserve",
-   "s": "Mit einer nationalen Gasreserve will die Bundesregierung die Versorgung in Krisensituationen sichern - dabei geht es ausdrücklich nicht um hohe Preise, sondern um Ausnahmefälle wie etwa Sabotage. Auf die Gaskunden kommen dadurch Mehrkosten zu.",
-   "u": "https://www.tagesschau.de/inland/gasreserve-126.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T16:38:02+00:00"
-  },
-  {
-   "t": "Vorstoß des Finanzministeriums: Was sich bei Steuerklassen für Paare ändern könnte",
-   "s": "Finanzminister Klingbeil erwägt, die von Paaren genutzten Steuerklassen III und V abzuschaffen. Das Ministerium möchte dadurch Bürokratie abbauen - aber ist das Vorhaben so einfach umsetzbar? Welche Folgen hätte ein Abschaffung?",
-   "u": "https://www.tagesschau.de/inland/steuerklassen-klingbeil-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T15:24:38+00:00"
-  },
-  {
-   "t": "Metall- und Elektroindustrie: 24-Stunden-Streiks rücken näher",
-   "s": "Die IG Metall-Bezirke sprechen sich für 24-Stunden-Streiks in der Metall- und Elektroindustrie aus. Bisher gab es das erst einmal. Im Tarifstreit der Branche liegen die Positionen weit auseinander.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-122.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T15:23:22+00:00"
-  },
-  {
    "t": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
    "s": "Die Wirtschaft wächst wieder stärker - doch der Sachverständigenrat der Bundesregierung fordert harte Sparmaßnahmen. Und bringt eine Art \"Soli\" für Verteidigung ins Spiel. Von Alina Leimbach.",
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
    "q": "Tagesschau",
    "d": "2026-11-11T13:30:06+00:00"
-  },
-  {
-   "t": "Digital Fairness Act - EU will digitalen Verbraucherschutz stärken",
-   "s": "Die EU-Kommission will mit einem Digital Fairness Act (DFA) Verbraucher in der digitalen Welt schützen. Der nun vorgestellte Entwurf soll unlautere Praktiken unterbinden. Die deutschen Verleger sind nicht begeistert.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-digital-fairness-act-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T12:40:59+00:00"
-  },
-  {
-   "t": "Bundeskartellamt kritisiert Gebührenpolitik von PayPal",
-   "s": "Wer etwas mit PayPal kauft, muss dafür keine Gebühren zahlen. Onlinehändler dagegen tragen womöglich überhöhte Kosten. Aus Sicht des Bundeskartellamts könnte das günstigere Zahlungsanbieter benachteiligen.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/paypal-bundeskartellamt-gebuehren-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T12:34:37+00:00"
   },
   {
    "t": "Wie trotz Blockade der Straße von Hormus Öl aus der Region fließt",
@@ -129,32 +115,11 @@
    "d": "2026-11-11T12:21:57+00:00"
   },
   {
-   "t": "\"Tankrabatt\" drückt Inflation im Oktober",
-   "s": "Die Teuerungsrate ist im Oktober in Deutschland zurückgegangen. Der \"Tankrabatt\" zeigt offenbar Wirkung. Energie - vor allem Heizöl - bleibt aber teuer. Und auch einige Lebensmittel kosten wieder",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-spritpreise-oktober-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T11:00:32+00:00"
-  },
-  {
    "t": "Zahl der arbeitslosen Akademiker auf Höchststand",
    "s": "Ein Studium schützt nach wie vor gut vor Arbeitslosigkeit - doch die Wirtschaftslage und der Einsatz von Künstlicher Intelligenz ändern das. Vor allem jüngere Studienabsolventen sind von Arbeitslosigkeit betroffen.",
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosigkeit-akademiker-rekord-100.html",
    "q": "Tagesschau",
    "d": "2026-11-11T10:07:28+00:00"
-  },
-  {
-   "t": "Boom bei Windkraft und Rechenzentren beschert Siemens Energy Rekordjahr",
-   "s": "Der Hype um Künstliche Intelligenz, E-Mobilität und Digitalisierung beschert Siemens Energy ein Rekordjahr. Und das soll nach Prognose des Energietechnik-Konzerns so weitergehen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T08:23:39+00:00"
-  },
-  {
-   "t": "Medienbericht: Ältere Beschäftigte doppelt so häufig krankgeschrieben",
-   "s": "Mehr als 30 Tage im Jahr melden sich ältere Arbeitnehmer krank - etwa doppelt so viel wie der Durchschnitt. Das berichtet die Rheinische Post. 60- bis 65-Jährige fallen zudem öfter länger aus.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/krankenstand-aeltere-beschaeftigte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T06:51:52+00:00"
   },
   {
    "t": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
@@ -164,11 +129,46 @@
    "d": "2026-11-10T15:37:43+00:00"
   },
   {
-   "t": "KI-Boom: Deutscher Chipkonzern Infineon will weiter zweistellig wachsen",
-   "s": "Der boomende Ausbau der KI-Infrastruktur, aber auch ein besseres Autogeschäft haben Infineon einen Rekordumsatz beschert. Der deutsche Chipkonzern sieht noch kein Ende des Booms.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
+   "t": "Maschinenbau will mit Künstlicher Intelligenz aus der Krise",
+   "s": "Der deutsche Maschinenbau steckt in seinem vierten Krisenjahr. Die Branche leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Maschinenbaugipfel gibt es aber auch Hoffnungssignale - etwa die Künstliche Intelligenz. Von A. John.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-10T13:33:44+00:00"
+   "d": "2026-11-10T10:36:17+00:00"
+  },
+  {
+   "t": "Moderne Sklaverei: Verboten, aber weltweit verbreitet",
+   "s": "Sklaverei ist seit Langem international geächtet und verboten, doch es gibt sie noch immer in vielen Teilen der Welt, auch in Europa. Die erzwungene Ausbeutung hat viele Formen – und ist aus diesem Grund oft schwer zu erkennen.",
+   "u": "https://www.deutschlandfunk.de/moderne-sklaverei-zwangsarbeit-globalisierung-arbeit-ausbeutung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-07T12:30:00+00:00"
+  },
+  {
+   "t": "Schwierige Rohstoffhoffnung: Gold für Europas Energiewende?",
+   "s": "Gold könnte Europas Rohstoffproblem entschärfen: Beim Abbau des Edelmetalls fallen oft auch Stoffe wie Kobalt, Nickel oder Seltene Erden an. Doch Umweltbedenken, Widerstand vor Ort und fehlende Investitionen stehen dem Ausbau des Bergbaus entgegen.",
+   "u": "https://www.deutschlandfunk.de/goldabbau-europa-finnland-energiewende-seltene-erden-kritische-rohstoffe-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-06T15:39:00+00:00"
+  },
+  {
+   "t": "CBAM – ein Klimaschutz-Druckmittel der EU",
+   "s": "Der Klimaschutz hat politisch weltweit an Rückhalt verloren. Trotzdem haben Fachleute noch Hoffnung – aus mehreren Gründen. Auch ein Instrument der EU könnte Staaten zum Handeln bewegen.",
+   "u": "https://www.deutschlandfunk.de/cbam-klimaschutz-klimawandel-pariser-klimaabkommen-co2-preis-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-03T15:31:00+00:00"
+  },
+  {
+   "t": "Bruttoökosystemprodukt: Was die Natur wert ist",
+   "s": "Wirtschaftswachstum gilt als Zeichen von Wohlstand. Leistungen der Natur bleiben dabei außen vor. Das Bruttoökosystemprodukt soll den Wert von Ökosystemen messbar machen. In China entscheiden sich daran bereits Bauprojekte und Politikerkarrieren.Von Tomma Schröder",
+   "u": "https://www.deutschlandfunk.de/bruttooekosystemprodukt-boep-gep-natur-wert-wohlstand-wirtschaft-china-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-29T08:00:00+00:00"
+  },
+  {
+   "t": "Industriearbeiter: Vom Gesicht des Wirtschaftswunders zur AfD-Klientel",
+   "s": "Der deutsche Industriearbeiter galt als Symbolfigur des Wiederaufbaus nach 1945. Arbeiter waren stolz, „Malocher“ zu sein. Doch zunehmend verschwinden Industriejobs. Und viele der verbliebenen Arbeiter zieht es zur AfD.",
+   "u": "https://www.deutschlandfunk.de/industriearbeiter-afd-waehler-wirtschaft-arbeitsplaetze-stellenabbau-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-10-27T11:34:00+00:00"
   }
  ]
 }

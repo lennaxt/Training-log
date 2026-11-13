@@ -1,7 +1,70 @@
 {
  "name": "Inland",
- "updated": "2026-11-12T21:50:29+00:00",
+ "updated": "2026-11-13T11:00:05+00:00",
  "items": [
+  {
+   "t": "Handys im Straßenverkehr: Wie weit darf Überwachung gehen?",
+   "s": "Bislang gibt es \"Handy-Blitzer\" nur in Rheinland-Pfalz. Bundesverkehrsminister Bilger will sie bundesweit einführen, um Unfälle zu verhindern. Kritiker warnen vor einem unverhältnismäßigen Eingriff in die Privatsphäre. Von Oliver Bemelmann.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/handy-blitzer-kontrolle-ueberwachung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T09:21:11+00:00"
+  },
+  {
+   "t": "Informeller EU-Gipfel in Dublin: Wer spricht für Europa?",
+   "s": "In Dublin kommt die EU zusammen, auch um über die Ukraine zu sprechen. Die Europäer sollen endlich mit am Verhandlungstisch sitzen. Doch wer macht’s?",
+   "u": "https://taz.de/Informeller-EU-Gipfel-in-Dublin/!6229781/",
+   "q": "taz",
+   "d": "2026-11-13T08:49:00+00:00"
+  },
+  {
+   "t": "Tagebuch aus Armenien: Wer kann da noch wohnen?",
+   "s": "Wenn in Armenien russische Familien ankommen, gehen die Mieten hoch. Der Immobilienmarkt in Jerewan explodiert. Wohnraum ist nicht mehr bezahlbar.",
+   "u": "https://taz.de/Tagebuch-aus-Armenien/!6225355/",
+   "q": "taz",
+   "d": "2026-11-13T08:42:00+00:00"
+  },
+  {
+   "t": "Werden die Milliarden für die Stromsteuer noch gefunden?",
+   "s": "Bei der längsten Sitzung im Bundestag wurde in der Nacht jeder Cent umgedreht, damit der Bundesetat für 2027 steht. Gleichzeitig sucht die Regierungsspitze Milliarden für eine Stromsteuersenkung. Kann sie sie noch finden? Von Nicole Kohnert.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundestag-haushalt-milliarden-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T08:36:42+00:00"
+  },
+  {
+   "t": "Mehr Geld als von Klingbeil veranschlagt: Einigung auf Haushalt für 2027 gelungen",
+   "s": "Der Haushaltsausschuss des Bundestags hat sich in der Nacht geeinigt. Ausgaben und Schulden steigen. Das sind die Details.",
+   "u": "https://taz.de/Mehr-Geld-als-von-Klingbeil-veranschlagt/!6229767/",
+   "q": "taz",
+   "d": "2026-11-13T07:01:00+00:00"
+  },
+  {
+   "t": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
+   "s": "Nach über 15 Stunden beendete der Haushaltsausschuss seine Beratungen - jetzt steht der Etat für das kommende Jahr. Insgesamt sind Ausgaben in Höhe von 560,9 Milliarden Euro geplant - mehr als ursprünglich vorgesehen war.",
+   "u": "https://www.tagesschau.de/inland/bundeshaushalt-2027-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T06:26:14+00:00"
+  },
+  {
+   "t": "Einigung auf Haushalt 2027 - Kritik an Ausbleiben der Stromsteuer",
+   "s": "Nach einer Nachtsitzung des Haushaltsausschusses im Bundestag steht nun der Bundeshaushalt für 2027. Der Grünen-Politiker Sebastian Schäfer kritisiert falsche Prioritäten der Koalition - vor allem, dass die Stromsteuer nicht gesenkt werden soll.Kaess, Christiane",
+   "u": "https://www.deutschlandfunk.de/nach-haushaltsbereinigungssitzung-interview-mit-sebastian-schaefer-gruene-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-13T06:19:00+00:00"
+  },
+  {
+   "t": "EU-Gipfel in Dublin zeigt sich bei Ukraine uneins",
+   "s": "Beim EU-Gipfel in Dublin bleibt bisher unklar, wer die Europäer bei Verhandlungen mit Russland vertreten soll. Der estnische EU-Abgeordnete Riho Terras beklagt, dass es an einer richtigen Strategie gegenüber Moskau und für die Ukraine fehlt.Kaess, Christiane",
+   "u": "https://www.deutschlandfunk.de/europaeische-sicherheitsarchitektur-interview-mit-riho-terras-evp-estland-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-13T05:50:00+00:00"
+  },
+  {
+   "t": "Reform der Nachrichtendienste: \"Jahrhundertwerk\" oder \"Monster\"?",
+   "s": "Der Bundestag stimmt heute über eine Reform der Nachrichtendienste ab. Sie sollen mehr Befugnisse erhalten. Innenminister Dobrindt spricht von einem \"Jahrhundertwerk\" - andere von einem \"Monster\". Von Markus Sambale.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T04:23:02+00:00"
+  },
   {
    "t": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
    "s": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
@@ -95,7 +158,7 @@
   },
   {
    "t": "Geheimdienstreform der Bundesregierung: Lizenz zum Zugreifen",
-   "s": "Schwarz-Rot weitet die Rechte von Bundesnachrichtendienst und Verfassungsschutz deutlich aus. Trotz Nachbesserungen gibt es noch Kritik.",
+   "s": "Schwarz-Rot weitet am Freitag die Rechte von Bundesnachrichtendienst und Verfassungsschutz deutlich aus. Trotz Nachbesserungen gibt es noch Kritik.",
    "u": "https://taz.de/Geheimdienstreform-der-Bundesregierung/!6229500/",
    "q": "taz",
    "d": "2026-11-12T15:54:00+00:00"
@@ -106,69 +169,6 @@
    "u": "https://www.tagesschau.de/inland/gesellschaft/pflege-neues-modell-ambulant-100.html",
    "q": "Tagesschau",
    "d": "2026-11-12T15:46:43+00:00"
-  },
-  {
-   "t": "Pressefreiheit in Ägypten: Zum Schweigen gebracht",
-   "s": "Die Verurteilung von Journalistin Lina Attalah zeigt erneut die Einschränkung der Pressefreiheit. Die EU und Deutschland sollten sich dazu verhalten.",
-   "u": "https://taz.de/Pressefreiheit-in-Aegypten/!6229493/",
-   "q": "taz",
-   "d": "2026-11-12T15:15:00+00:00"
-  },
-  {
-   "t": "Religionsfreiheit in Ägypten: Misshandelt wegen seines Glaubens",
-   "s": "Ägyptens Staatsanwaltschaft fordert lebenslange Haft für den zum Christentum konvertierten Said Abdelrazek. Menschenrechtler sehen religiöse Verfolgung.",
-   "u": "https://taz.de/Religionsfreiheit-in-Aegypten/!6229567/",
-   "q": "taz",
-   "d": "2026-11-12T15:06:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten aus Nahost +++: Sechs Tote bei Angriff auf Krankenhaus in Gaza",
-   "s": "Dem israelischen Militär zufolge galt der Angriff einem Hamas-Anführer. Krankenhäuser stehen im Krieg unter dem Schutz des humanitären Völkerrechts.",
-   "u": "https://taz.de/-Nachrichten-aus-Nahost-/!6229635/",
-   "q": "taz",
-   "d": "2026-11-12T14:53:00+00:00"
-  },
-  {
-   "t": "Claudia Müller über Rot-Rot-Grün in MV: „Die grüne Handschrift zieht sich durch alle Bereiche“",
-   "s": "Mecklenburg-Vorpommern bekommt erstmals eine rot-rot-grüne Regierung. Die designierte grüne Umweltministerin Müller wünscht sich ein solches Bündnis auch im Bund.",
-   "u": "https://taz.de/Claudia-Mueller-ueber-Rot-Rot-Gruen-in-MV/!6229382/",
-   "q": "taz",
-   "d": "2026-11-12T14:10:00+00:00"
-  },
-  {
-   "t": "Keine Senkung der Stromsteuer: Bei der Union \"hat es ordentlich geknallt\"",
-   "s": "Die Senkung der Stromsteuer wird nun vermutlich doch nicht kommen - trotz anderslautender Versprechen. Bei der Union will man das noch nicht akzeptieren. Und die Opposition nimmt sich Kanzler Merz vor.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T13:40:04+00:00"
-  },
-  {
-   "t": "Papst Leo XIV. in Südamerika: Begrenzte Empathie",
-   "s": "Bei seinem Besuch in Argentinien fordert der Papst mehr Gerechtigkeit. Für andere Religionen hat die katholische Kirche kein Verständnis.",
-   "u": "https://taz.de/Papst-Leo-XIV-in-Suedamerika/!6229422/",
-   "q": "taz",
-   "d": "2026-11-12T13:16:00+00:00"
-  },
-  {
-   "t": "Weltklimakonferenz in Antalya: Australiens Premier verschweigt die Kohle",
-   "s": "Premierminister Albanese gibt auf der COP mit dem Ausbau der Erneuerbaren an. Doch die Verantwortung Australiens für den Klimawandel lässt er aus.",
-   "u": "https://taz.de/Weltklimakonferenz-in-Antalya/!6229417/",
-   "q": "taz",
-   "d": "2026-11-12T13:12:00+00:00"
-  },
-  {
-   "t": "Neuausrichtung der Bundeszentrale für politische Bildung sorgt für Streit",
-   "s": "Die Bundeszentrale für politische Bildung ist bekannt für den Wahl-O-Mat, Bildungsveranstaltungen und Info-Broschüren. Auf Weisung des Innenministeriums richtet sie sich neu aus. Doch darüber ist jetzt ein Streit ausgebrochen. Von D. K. Mäurer.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bundeszentrale-fuer-politische-bildung-ausrichtung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T12:52:24+00:00"
-  },
-  {
-   "t": "Verhandlungen in Abu Dhabi: Die systematische Vernichtung der Ukraine",
-   "s": "Während erneut über die Ukraine verhandelt wird, zerstört Russland weiter systematisch Häfen und Energieanlagen. Die Ukrainer haben keine Hoffnung auf Frieden.",
-   "u": "https://taz.de/Verhandlungen-in-Abu-Dhabi/!6229151/",
-   "q": "taz",
-   "d": "2026-11-12T12:01:00+00:00"
   }
  ]
 }

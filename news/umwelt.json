@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-12T21:50:36+00:00",
+ "updated": "2026-11-13T11:00:09+00:00",
  "items": [
+  {
+   "t": "Mehr Geld als von Klingbeil veranschlagt: Einigung auf Haushalt für 2027 gelungen",
+   "s": "Der Haushaltsausschuss des Bundestags hat sich in der Nacht geeinigt. Ausgaben und Schulden steigen. Das sind die Details.",
+   "u": "https://taz.de/Mehr-Geld-als-von-Klingbeil-veranschlagt/!6229767/",
+   "q": "taz",
+   "d": "2026-11-13T07:01:00+00:00"
+  },
   {
    "t": "Verhandlungen über Bundeshaushalt: Das bisschen Haushalt macht sich nicht von allein",
    "s": "In der Union ist der Unmut nach der Haushaltseinigung groß: keine weiteren Entlastungen. „Vertrauensbruch“ gegenüber den Bür­ge­r:in­nen, sagen die Grünen.",
@@ -46,7 +53,7 @@
   },
   {
    "t": "Geheimdienstreform der Bundesregierung: Lizenz zum Zugreifen",
-   "s": "Schwarz-Rot weitet die Rechte von Bundesnachrichtendienst und Verfassungsschutz deutlich aus. Trotz Nachbesserungen gibt es noch Kritik.",
+   "s": "Schwarz-Rot weitet am Freitag die Rechte von Bundesnachrichtendienst und Verfassungsschutz deutlich aus. Trotz Nachbesserungen gibt es noch Kritik.",
    "u": "https://taz.de/Geheimdienstreform-der-Bundesregierung/!6229500/",
    "q": "taz",
    "d": "2026-11-12T15:54:00+00:00"
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Sexualisierte-Gewalt-in-der-Bundeswehr/!6229222/",
    "q": "taz",
    "d": "2026-11-11T11:47:00+00:00"
-  },
-  {
-   "t": "Arbeitsmarkt in Deutschland: Zahl der arbeitslosen Akademiker erreicht Höchststand",
-   "s": "Wer studiert hat, hat dennoch ein eher geringes Risiko, arbeitslos zu werden. Künstliche Intelligenz wird laut Arbeitsgagentur die Arbeitswelt umwälzen.",
-   "u": "https://taz.de/Zahl-der-arbeitslosen-Akademiker-erreicht-Hoechststand/!6229138/",
-   "q": "taz",
-   "d": "2026-11-11T09:11:00+00:00"
   }
  ]
 }

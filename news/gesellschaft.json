@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-12T21:50:37+00:00",
+ "updated": "2026-11-13T11:00:09+00:00",
  "items": [
+  {
+   "t": "Informeller EU-Gipfel in Dublin: Wer spricht für Europa?",
+   "s": "In Dublin kommt die EU zusammen, auch um über die Ukraine zu sprechen. Die Europäer sollen endlich mit am Verhandlungstisch sitzen. Doch wer macht’s?",
+   "u": "https://taz.de/Informeller-EU-Gipfel-in-Dublin/!6229781/",
+   "q": "taz",
+   "d": "2026-11-13T08:49:00+00:00"
+  },
   {
    "t": "Europäische Politische Gemeinschaft: Ringen um eine starke Stimme",
    "s": "Einen Tag nach Ende der Verhandlungen in Abu Dhabi kommt die Europäische Politische Gemeinschaft in Dublin zusammen. Die Ukraine steht im Mittelpunkt.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/COP31-in-der-Tuerkei/!6228325/",
    "q": "taz",
    "d": "2026-11-09T18:43:00+00:00"
-  },
-  {
-   "t": "Korruptionsskandal in Spanien: Gekaufte Lügen und ein Held der Rechten",
-   "s": "Wenige Wochen vor den Neuwahlen wird Spanien von einem Korruptionsskandal erschüttert. Es geht um Falschaussagen gegen Ministerpräsident Sánchez.",
-   "u": "https://taz.de/Korruptionsskandal-in-Spanien/!6228621/",
-   "q": "taz",
-   "d": "2026-11-09T18:40:00+00:00"
   }
  ]
 }
