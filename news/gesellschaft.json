@@ -1,7 +1,70 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-13T11:00:09+00:00",
+ "updated": "2026-11-13T21:25:59+00:00",
  "items": [
+  {
+   "t": "Regierungskrise in den Niederlanden: Offener Dissens von Anfang an",
+   "s": "Die Suche nach den Ursachen für die aktuelle Regierungskrise in den Niederlanden führt zur Entstehungsgeschichte der Minderheitsregierung von Rob Jetten.",
+   "u": "https://taz.de/Regierungskrise-in-den-Niederlanden/!6229513/",
+   "q": "taz",
+   "d": "2026-11-13T18:55:00+00:00"
+  },
+  {
+   "t": "Bildungsreform in Georgien: Zurück in die Sowjetzeit?",
+   "s": "Die georgische Regierung will das Bildungssystem umbauen. Neben mehr staatlicher Kontrolle sehen Kritiker die nationale Selbstbestimmung in Gefahr.",
+   "u": "https://taz.de/Bildungsreform-in-Georgien/!6229714/",
+   "q": "taz",
+   "d": "2026-11-13T17:00:00+00:00"
+  },
+  {
+   "t": "Krieg gegen die Ukraine: Auch in Abu Dhabi spielt der Kreml erfolgreich auf Zeit",
+   "s": "Die Verhandlungen in Abu Dhabi bringen die Ukraine einem Ende des russischen Angriffskriegs nicht näher. Für sie naht der fünfte Kriegswinter.",
+   "u": "https://taz.de/Krieg-gegen-die-Ukraine/!6224431/",
+   "q": "taz",
+   "d": "2026-11-13T16:41:00+00:00"
+  },
+  {
+   "t": "Informeller EU-Gipfel in Dublin: EU-Länder einigen sich auf Verhandlungsteam",
+   "s": "Der Ukraine-Krieg bestimmte erneut das EU-Treffen in Dublin. Am späten Abend einigten sich die Mitgliedsstaaten auf eine Verhandlungsgruppe.",
+   "u": "https://taz.de/Informeller-EU-Gipfel-in-Dublin/!6229802/",
+   "q": "taz",
+   "d": "2026-11-13T16:36:00+00:00"
+  },
+  {
+   "t": "Umstrittener Gast: Issa Remmo besucht Veranstaltung im Europaparlament",
+   "s": "Als Issa Remmo bei der Wahlparty der Linken in Berlin auftauchte, löste das viel Wirbel aus. Nun war er im Parlament in Brüssel, diesmal bei den Rechten.",
+   "u": "https://taz.de/Umstrittener-Gast/!6229855/",
+   "q": "taz",
+   "d": "2026-11-13T14:58:00+00:00"
+  },
+  {
+   "t": "Informeller EU-Gipfel in Dublin: Streit um EU-Vermittler verschärft sich",
+   "s": "Wer soll für die EU sprechen, wenn es zu Gesprächen über das Ende des Ukrainekriegs kommt? Merz sieht Deutschland als gesetzt. Das sehen nicht alle so.",
+   "u": "https://taz.de/Informeller-EU-Gipfel-in-Dublin/!6229845/",
+   "q": "taz",
+   "d": "2026-11-13T14:57:00+00:00"
+  },
+  {
+   "t": "Visa für VietnamesInnen in Ungarn: Ein Geschäft mit Hintertür",
+   "s": "Victor Orbáns Bruder sitzt in U-Haft. Er soll Vietnamesen gegen viel Geld Arbeitsvisa vermittelt haben. Viele ziehen danach weiter nach Deutschland.",
+   "u": "https://taz.de/Visa-fuer-VietnamesInnen-in-Ungarn/!6229638/",
+   "q": "taz",
+   "d": "2026-11-13T13:35:00+00:00"
+  },
+  {
+   "t": "Wirtschaft in Griechenland: Eine Erfolgsgeschichte, aber nur für Reiche",
+   "s": "Die Finanzkrise ist längst überwunden und die Wirtschaft boomt, heißt es von der griechischen Regierung oft. Die meisten profitieren davon aber nicht.",
+   "u": "https://taz.de/Wirtschaftliche-Lage-in-Griechenland-Eine-Erfolgsgeschichte-aber-nur-fuer-Reiche/!6228545/",
+   "q": "taz",
+   "d": "2026-11-13T13:25:00+00:00"
+  },
+  {
+   "t": "Bootsunglücke vor Kreta: „Wer Routen abriegelt, stoppt keine Flucht“",
+   "s": "In Griechenland steigt die Zahl tödlicher Schiffbrüche. Die Schuld dafür liege bei Frontex und der EU-Abschottungspolitik, sagen Menschenrechtler.",
+   "u": "https://taz.de/Bootsungluecke-vor-Kreta/!6229628/",
+   "q": "taz",
+   "d": "2026-11-13T11:39:00+00:00"
+  },
   {
    "t": "Informeller EU-Gipfel in Dublin: Wer spricht für Europa?",
    "s": "In Dublin kommt die EU zusammen, auch um über die Ukraine zu sprechen. Die Europäer sollen endlich mit am Verhandlungstisch sitzen. Doch wer macht’s?",
@@ -106,69 +169,6 @@
    "u": "https://taz.de/Nach-dem-Treffen-in-Abu-Dhabi-Das-ist-der-aktuelle-Stand-im-Ukraine-Krieg/!6229123/",
    "q": "taz",
    "d": "2026-11-11T08:15:00+00:00"
-  },
-  {
-   "t": "1.722 Tage Krieg in der Ukraine: Stürmer und Verteidiger",
-   "s": "Viele ukrainische Fußballspieler haben sich freiwillig zur Armee gemeldet, so auch Nationalspieler Roman Maksymjuk. Doch einige kämpfen auf russischer Seite.",
-   "u": "https://taz.de/1721-Tage-Krieg-in-der-Ukraine/!6228296/",
-   "q": "taz",
-   "d": "2026-11-11T06:28:00+00:00"
-  },
-  {
-   "t": "Geplatzter Diesel-Deal: Trump erleidet Schiffbruch",
-   "s": "Während in Abu Dhabi über ein Ende des Krieges in der Ukraine verhandelt wird, ist Donald Trumps großes Energiegeschäft mit Moskau gescheitert.",
-   "u": "https://taz.de/Geplatzter-Diesel-Deal/!6228989/",
-   "q": "taz",
-   "d": "2026-11-10T18:50:00+00:00"
-  },
-  {
-   "t": "Verhandlungen in Abu Dhabi: Europa am Katzentisch",
-   "s": "Über ein Kriegsende in der Ukraine und die Sicherheitsordnung in Europa verhandeln seit Dienstag die USA, Russland und die Ukraine. Ergebnisse erwartet niemand.",
-   "u": "https://taz.de/Verhandlungen-in-Abu-Dhabi/!6228877/",
-   "q": "taz",
-   "d": "2026-11-10T18:49:00+00:00"
-  },
-  {
-   "t": "Verhandlungen in Abu Dhabi: Hoffnungen auf einen Getreide-Deal",
-   "s": "Die Erwartungen an die Gespräche zwischen Russland und der Ukraine sind niedrig. Aber wenigstens ein Getreide-Abkommen könnte dabei herausspringen.",
-   "u": "https://taz.de/Verhandlungen-in-Abu-Dhabi/!6228876/",
-   "q": "taz",
-   "d": "2026-11-10T18:48:00+00:00"
-  },
-  {
-   "t": "Deutschland und Ungarn: Immer noch kein einfacher Partner",
-   "s": "Ungarns Premier Peter Magyar skizziert in Berlin seinen Kurs – und widerspricht Kanzler Merz, der die Ukraine-Hilfe im EU-Haushalt festschreiben will.",
-   "u": "https://taz.de/Deutschland-und-Ungarn/!6229020/",
-   "q": "taz",
-   "d": "2026-11-10T15:49:00+00:00"
-  },
-  {
-   "t": "Judoka will Frankreichs Präsident werden: Politisches Leichtgewicht",
-   "s": "Der 11-fache Judoweltmeister Teddy Riner wirft seine Kandidatur für die französische Präsidentschaft in den Ring. Doch wofür er steht, weiß keiner.",
-   "u": "https://taz.de/Judoka-will-Frankreichs-Praesident-werden/!6228875/",
-   "q": "taz",
-   "d": "2026-11-10T15:11:00+00:00"
-  },
-  {
-   "t": "Cyberattacken auf Kühlanlagen: Frankreich beschuldigt Iran",
-   "s": "Die Pariser Staatsanwaltschaft ermittelt. Außenminister Jean-Noël Barrot kündigt Sanktionen auf EU-Ebene an und bestellt Irans Botschafter ein.",
-   "u": "https://taz.de/Cyberattacken-auf-Kuehlanlagen/!6228921/",
-   "q": "taz",
-   "d": "2026-11-10T13:43:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Slowakischer Regierungschef wirft Merz „Erpressung“ vor",
-   "s": "Der slowakische Regierungschef Fico wirft dem Bundeskanzler im Zusammenhang mit finanzieller Unterstützung Erpressung vor. Kyjiw und Moskau verhandeln.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6228837/",
-   "q": "taz",
-   "d": "2026-11-10T07:39:00+00:00"
-  },
-  {
-   "t": "COP31 in der Türkei: Die Müllmetropole Adana",
-   "s": "In der Millionenstadt in der Türkei wird ein großer Teil des europäischen Plastikabfalls zu Geld gemacht. Natur und Bevölkerung profitieren davon nicht",
-   "u": "https://taz.de/COP31-in-der-Tuerkei/!6228325/",
-   "q": "taz",
-   "d": "2026-11-09T18:43:00+00:00"
   }
  ]
 }

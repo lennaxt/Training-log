@@ -1,20 +1,62 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-13T11:00:07+00:00",
+ "updated": "2026-11-13T21:25:56+00:00",
  "items": [
   {
    "t": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-   "s": "Weltweit sind seit vielen Stunden Dienste des US-Softwarekonzerns Microsoft ausgefallen oder gestört, unter anderem das E-Mail-Programm Outlook. Wer davon betroffen ist und welche Hintergründe vermutet werden - ein Überblick.",
+   "s": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-13T10:15:39+00:00"
+   "d": "2026-11-13T20:22:33+00:00"
   },
   {
-   "t": "Marktbericht: DAX schwächelt nach vier Gewinntagen",
-   "s": "Nach vier Gewinntagen in Folge gehen es die Anleger heute etwas langsamer an - der DAX fällt leicht zurück. Auf Wochensicht liegt der deutsche Leitindex bislang aber noch weit in der Gewinnzone.",
+   "t": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
+   "s": "Nach den weltweiten IT-Störungen scheint sich die Lage vor allem in Nordamerika und Europa zu entspannen. Das US-Technologieunternehmen Microsoft spricht von zum Teil \"umfassenden Verbesserungen\".",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T20:21:45+00:00"
+  },
+  {
+   "t": "Wirtschaft vor acht vom 13.11.2026",
+   "s": "Wirtschaft vor acht vom 13.11.2026",
+   "u": "https://www.tagesschau.de/video/video-1683484.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T19:05:55+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX schwächelt nach Allzeithoch",
+   "s": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent.",
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-13T09:25:51+00:00"
+   "d": "2026-11-13T17:57:57+00:00"
+  },
+  {
+   "t": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
+   "s": "Nach dem Cyberangriff auf den bayerischen Drohnenhersteller Quantum Systems läuft die Suche nach den Tätern. Vieles deutet auf einen russischen Hintergrund hin. Das Unternehmen ist wichtiger Ausrüster des ukrainischen Militärs. Von Stephan Lina.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T16:02:19+00:00"
+  },
+  {
+   "t": "EU-Emissionshandel: Mehr kostenlose Verschmutzungsrechte für die Industrie",
+   "s": "Europas Industrie soll nicht mehr so stark durch das System des Emissionshandels belastet werden. EU-Parlament und Mitgliedstaaten haben sich darauf verständigt, zusätzliche kostenlose Emissionszertifikate auszugeben. Von Andreas Meyer-Feist.",
+   "u": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T14:35:01+00:00"
+  },
+  {
+   "t": "Microsoft-Ausfälle: \"Für viele Unternehmen digitaler Hirntod\"",
+   "s": "Spätestens nach dem Ausfall bei Microsoft sollten wir uns fragen, wie wir uns unabhängiger machen können, sagt IT-Sicherheitsexperte Dennis-Kenji Kipker. In unsicheren Zeiten brauche es mehr digitale Souveränität - und das sei möglich.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/sicherheitsexperte-abhaengigkeit-microsoft-outlook-teams-risiken-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T12:28:28+00:00"
+  },
+  {
+   "t": "DHL erhöht Preise für Pakete und Päckchen für Privatkunden ab 2027",
+   "s": "Wer seinen Liebsten etwas schicken möchte, der muss ab dem kommenden Jahr deutlich tiefer in die Tasche greifen. Denn der deutsche Marktführer DHL erhöht seine Portopreise deutlich - vor allem für Päckchen.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/post-hebt-paketpreise-privatkunden-an-2027-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-13T12:20:30+00:00"
   },
   {
    "t": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\"",
@@ -87,13 +129,6 @@
    "d": "2026-11-12T07:29:46+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 11.11.2026",
-   "s": "Wirtschaft vor acht vom 11.11.2026",
-   "u": "https://www.tagesschau.de/video/video-1682292.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T20:15:32+00:00"
-  },
-  {
    "t": "Urteil: BGH nimmt Rechtsschutzversicherungen in die Pflicht",
    "s": "Klagen gegen Impfstoffhersteller sind seit der Corona-Pandemie keine Seltenheit. Häufig wollen Versicherungen diese nicht unterstützen - wegen vermeintlich geringer Erfolgschancen. Oft zu Unrecht, urteilte nun der BGH. Von A. Stein.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
    "q": "Tagesschau",
    "d": "2026-11-10T10:36:17+00:00"
-  },
-  {
-   "t": "Moderne Sklaverei: Verboten, aber weltweit verbreitet",
-   "s": "Sklaverei ist seit Langem international geächtet und verboten, doch es gibt sie noch immer in vielen Teilen der Welt, auch in Europa. Die erzwungene Ausbeutung hat viele Formen – und ist aus diesem Grund oft schwer zu erkennen.",
-   "u": "https://www.deutschlandfunk.de/moderne-sklaverei-zwangsarbeit-globalisierung-arbeit-ausbeutung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-07T12:30:00+00:00"
-  },
-  {
-   "t": "Schwierige Rohstoffhoffnung: Gold für Europas Energiewende?",
-   "s": "Gold könnte Europas Rohstoffproblem entschärfen: Beim Abbau des Edelmetalls fallen oft auch Stoffe wie Kobalt, Nickel oder Seltene Erden an. Doch Umweltbedenken, Widerstand vor Ort und fehlende Investitionen stehen dem Ausbau des Bergbaus entgegen.",
-   "u": "https://www.deutschlandfunk.de/goldabbau-europa-finnland-energiewende-seltene-erden-kritische-rohstoffe-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-06T15:39:00+00:00"
-  },
-  {
-   "t": "CBAM – ein Klimaschutz-Druckmittel der EU",
-   "s": "Der Klimaschutz hat politisch weltweit an Rückhalt verloren. Trotzdem haben Fachleute noch Hoffnung – aus mehreren Gründen. Auch ein Instrument der EU könnte Staaten zum Handeln bewegen.",
-   "u": "https://www.deutschlandfunk.de/cbam-klimaschutz-klimawandel-pariser-klimaabkommen-co2-preis-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-03T15:31:00+00:00"
-  },
-  {
-   "t": "Bruttoökosystemprodukt: Was die Natur wert ist",
-   "s": "Wirtschaftswachstum gilt als Zeichen von Wohlstand. Leistungen der Natur bleiben dabei außen vor. Das Bruttoökosystemprodukt soll den Wert von Ökosystemen messbar machen. In China entscheiden sich daran bereits Bauprojekte und Politikerkarrieren.Von Tomma Schröder",
-   "u": "https://www.deutschlandfunk.de/bruttooekosystemprodukt-boep-gep-natur-wert-wohlstand-wirtschaft-china-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-29T08:00:00+00:00"
-  },
-  {
-   "t": "Industriearbeiter: Vom Gesicht des Wirtschaftswunders zur AfD-Klientel",
-   "s": "Der deutsche Industriearbeiter galt als Symbolfigur des Wiederaufbaus nach 1945. Arbeiter waren stolz, „Malocher“ zu sein. Doch zunehmend verschwinden Industriejobs. Und viele der verbliebenen Arbeiter zieht es zur AfD.",
-   "u": "https://www.deutschlandfunk.de/industriearbeiter-afd-waehler-wirtschaft-arbeitsplaetze-stellenabbau-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-10-27T11:34:00+00:00"
   }
  ]
 }

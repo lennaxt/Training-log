@@ -1,7 +1,28 @@
 {
  "name": "Sport",
- "updated": "2026-11-13T11:00:11+00:00",
+ "updated": "2026-11-13T21:26:01+00:00",
  "items": [
+  {
+   "t": "Inselstaat Naoero: Inselstaat ohne Opposition, aber mit Weltpolitik",
+   "s": "Naoero hat nach Angaben seines Präsidenten keine Opposition mehr. Das verarmte Land ist auf Unterstützung angewiesen und immer wieder Spielball von Großmächten.",
+   "u": "https://taz.de/Inselstaat-Naoero/!6229849/",
+   "q": "taz",
+   "d": "2026-11-13T15:24:00+00:00"
+  },
+  {
+   "t": "Spionage-Affäre bei Nvidia: Was Jensen Huangs Absturz für China bedeutet",
+   "s": "In der Volksrepublik wird die angebliche Spionage-Affäre von Nvida-Chef Huang gefeiert. Langfristig dürfte der Skandal Peking aber schaden.",
+   "u": "https://taz.de/Spionage-Affaere-bei-Nvidia/!6229847/",
+   "q": "taz",
+   "d": "2026-11-13T14:27:00+00:00"
+  },
+  {
+   "t": "Schattenspiele in Indonesien: Winkelzüge und mutmaßliche Intrigen enden mit Rücktritt",
+   "s": "Mit dem Rücktritt des indonesischen Vize dürfte dessen Vater, Ex-Präsident Jokowi, seinen Einfluss auf die Regierung von Präsident Prabowo verlieren.",
+   "u": "https://taz.de/Schattenspiele-in-Indonesien/!6229775/",
+   "q": "taz",
+   "d": "2026-11-13T14:12:00+00:00"
+  },
   {
    "t": "Regime in Myanmar ist sauer auf Berlin: Diplomatischer Eklat um politische Geburtstagsgrüße",
    "s": "Myanmars Junta legt Deutschlands Geschäftsträger die Ausreise nahe. Der Grund: Kritik am Regime zum 75. Geburtstag des gestürzten Präsidenten.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Diplomatischer-Triumph-mit-Gefluechteten/!6220051/",
    "q": "taz",
    "d": "2026-10-08T15:29:00+00:00"
-  },
-  {
-   "t": "Schulproteste auch in Belgien: „Wir haben unsere eigenen Forderungen“",
-   "s": "Schon seit Monaten hält eine Streikbewegung Belgiens Schulen in Atem. Doch dort sind die Probleme anders als in Frankreich.",
-   "u": "https://taz.de/Schulproteste-auch-in-Belgien/!6219672/",
-   "q": "taz",
-   "d": "2026-10-07T15:17:00+00:00"
-  },
-  {
-   "t": "Frieden im Nahen Osten: Und doch gibt es Hoffnung",
-   "s": "Wir müssen endlich aufhören, den Nahost-Konflikt nur zu verwalten, sagt der palästinensische Friedensaktivist Hamza Howidy. Dabei spielt der Westen eine entscheidende Rolle.",
-   "u": "https://taz.de/Frieden-im-Nahen-Osten/!6219336/",
-   "q": "taz",
-   "d": "2026-10-07T08:23:00+00:00"
-  },
-  {
-   "t": "Abzug aus Kurdistan: Bîjî, bîjî, Bundeswehr",
-   "s": "Vor wenigen Tagen ging eine Ära zu Ende, die kaum Beachtung fand. Der deutsche Einsatz in Kurdistan sagt viel aus über das linke Verhältnis zur Bundeswehr.",
-   "u": "https://taz.de/Abzug-aus-Kurdistan/!6218836/",
-   "q": "taz",
-   "d": "2026-10-06T12:54:00+00:00"
   }
  ]
 }
