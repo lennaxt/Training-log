@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-14T10:27:47+00:00",
+ "updated": "2026-11-14T19:56:16+00:00",
  "items": [
+  {
+   "t": "Die neue Gefahr durch Künstliche Intelligenz",
+   "s": "Cyberkriminelle nutzen KI, um Angriffe zu automatisieren. Banken setzen die Technologie zur Abwehr ein. Sicherheitsexperten sprechen von einem Wettlauf zwischen den KI-Systemen der Angreifer und denen der Banken. Von Sabina Wolf.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/ki-mehr-angriffe-banken-kunden-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T13:31:48+00:00"
+  },
+  {
+   "t": "Mehr Wettbewerb im Fernverkehr – auf Kosten ländlicher Regionen?",
+   "s": "Private Anbieter könnten den Bahn-Fernverkehr attraktiver machen. Doch was bedeutet das für kleinere Städte und ländliche Regionen? Zur Sicherung ihrer Anbindung gibt es Konzepte. Die Bundesregierung sieht bislang aber keinen Grund zur Eile.",
+   "u": "https://www.deutschlandfunk.de/deutsche-bahn-konkurrenz-flixtrain-italo-fernverkehr-regionen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-14T11:55:00+00:00"
+  },
   {
    "t": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
    "s": "Probleme bei Microsoft hatten zentrale Cloud-Dienste stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen. Laut Microsoft laufen nun alle Systeme wieder. Hinweise auf böswillige Aktivitäten gebe es nicht.",
@@ -15,13 +29,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
    "q": "Tagesschau",
    "d": "2026-11-14T09:55:34+00:00"
-  },
-  {
-   "t": "Warum in Polen schneller gebaut wird als in Deutschland",
-   "s": "Wird in Polen eine neue Straße oder Brücke errichtet, geht es deutlich schneller als westlich der Oder in Deutschland. Fachleuten zufolge gibt es dafür mehrere Gründe. Von Andre Kartschall und Jakub Paczkowski.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T07:24:30+00:00"
   },
   {
    "t": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/energie/iran-krieg-oel-golfstaaten-100.html",
    "q": "Tagesschau",
    "d": "2026-11-11T12:21:57+00:00"
-  },
-  {
-   "t": "Zahl der arbeitslosen Akademiker auf Höchststand",
-   "s": "Ein Studium schützt nach wie vor gut vor Arbeitslosigkeit - doch die Wirtschaftslage und der Einsatz von Künstlicher Intelligenz ändern das. Vor allem jüngere Studienabsolventen sind von Arbeitslosigkeit betroffen.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosigkeit-akademiker-rekord-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T10:07:28+00:00"
   }
  ]
 }

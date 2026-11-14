@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-11-14T10:27:51+00:00",
+ "updated": "2026-11-14T19:56:21+00:00",
  "items": [
+  {
+   "t": "Chinas Drohgebärden gegen Taiwan: Militärübung als „stille Einschüchterung“",
+   "s": "Kurz bevor Trump zum APEC-Gipfel nach Shenzhen reist, ließ China ein Militärmanöver nahe Taiwan durchführen. Dessen Dimension ist beispiellos.",
+   "u": "https://taz.de/Chinas-Drohgebaerden-gegen-Taiwan/!6230039/",
+   "q": "taz",
+   "d": "2026-11-14T10:39:00+00:00"
+  },
   {
    "t": "Inselstaat Naoero: Inselstaat ohne Opposition, aber mit Weltpolitik",
    "s": "Naoero hat nach Angaben seines Präsidenten keine Opposition mehr. Das verarmte Land ist auf Unterstützung angewiesen und immer wieder Spielball von Großmächten.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Neue-Sicherheitsarchitektur/!6219927/",
    "q": "taz",
    "d": "2026-10-08T15:53:00+00:00"
-  },
-  {
-   "t": "Diplomatischer Triumph mit Geflüchteten: Roter Teppich für Myanmars Diktator in Malaysia",
-   "s": "Malaysias Premier verspricht Myanmars Machthaber, sich für ein Ende von dessen Isolation einzusetzen. Dafür nimmt dieser Geflüchtete und Migranten zurück.",
-   "u": "https://taz.de/Diplomatischer-Triumph-mit-Gefluechteten/!6220051/",
-   "q": "taz",
-   "d": "2026-10-08T15:29:00+00:00"
   }
  ]
 }

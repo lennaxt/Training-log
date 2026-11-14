@@ -1,7 +1,49 @@
 {
  "name": "Ausland",
- "updated": "2026-11-14T10:27:46+00:00",
+ "updated": "2026-11-14T19:56:15+00:00",
  "items": [
+  {
+   "t": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
+   "s": "Die EU fordert Israel auf, sofort Helfer in den Gazastreifen zu lassen. Dort hatte heftiger Regen die Zelte von Zehntausenden Vertriebenen überschwemmt. Auch die Kälte wird zunehmend zur Gefahr.",
+   "u": "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T19:09:28+00:00"
+  },
+  {
+   "t": "Was über das Startverbot für Flugzeuge in den USA bekannt ist",
+   "s": "Es war der längste Ausfall des US-Flugbetriebs seit Jahrzehnten. Vier Stunden lang galt ein Startverbot. Warum - und mit welchen Folgen? Könnte in Deutschland Ähnliches geschehen? Ein Überblick.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T18:49:48+00:00"
+  },
+  {
+   "t": "Protest bei der COP in Antalya: Mehr Klimagerechtigkeit gefordert",
+   "s": "Halbzeit bei der UN-Klimakonferenz, doch bisher gibt es kaum Ergebnisse - zum Frust der Aktivisten, die an einem Protestmarsch in Antalya teilnahmen. Sie wollen die Industriestaaten stärker zur Kasse bitten. Von B. Weber.",
+   "u": "https://www.tagesschau.de/ausland/europa/cop-tuerkei-protest-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T18:47:48+00:00"
+  },
+  {
+   "t": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
+   "s": "Ein Rückzug aus dem Donbass im Tausch für einen NATO-Beitritt - das haben die USA der Ukraine nach Angaben Selenskyjs nahegelegt. Unter bestimmten Bedingungen würde er diese Frage in einem Referendum zur Abstimmung stellen, so der Präsident.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T17:21:30+00:00"
+  },
+  {
+   "t": "Korruptionsermittlungen in Ungarn: Millionen bei Ex-Minister entdeckt",
+   "s": "Beim früheren ungarischen Entwicklungsminister Seszták sind im Rahmen von Korruptionsermittlungen mehr als 17 Millionen Euro Bargeld gefunden worden. Es lag vergraben in Wäldern, Scheunen und Lagerhallen. Sesták gehörte zur Orbán-Regierung.",
+   "u": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T16:31:06+00:00"
+  },
+  {
+   "t": "Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker",
+   "s": "Ein Kreuzfahrtschiff ist auf dem Mississippi in New Orleans von einem Tanker gerammt worden. Der Flussdampfer kenterte. Alle Passagiere an Bord überlebten. Die Bürgermeisterin spricht von einem Wunder.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T13:48:00+00:00"
+  },
   {
    "t": "Nach US-Zwischenwahlen: Migranten auf dem Weg Richtung USA",
    "s": "Der Sieg der Demokraten bei den US-Midterms weckt in Mittelamerika neue Hoffnungen auf eine liberalere US-Einwanderungspolitik. Davon angetrieben haben sich in Mexiko mehr als 1.000 Migranten auf den Weg gemacht. Von J. Barke.",
@@ -101,27 +143,6 @@
    "d": "2026-11-13T09:38:13+00:00"
   },
   {
-   "t": "Scott Colom: Wie ein schwarzer Demokrat Mississippi erobert",
-   "s": "Der Demokrat Colom hat Historisches geschafft: Erstmals seit mehr als 140 Jahren hat Mississippi einen schwarzen Senator. Im Wahlkampf hat sich Colom als Politiker präsentiert, der den Menschen zuhört, egal welche Ansichten sie haben. Von Sandra Ratzow.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-senator-scott-colom-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T08:22:34+00:00"
-  },
-  {
-   "t": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
-   "s": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst. Huang und Handelsminister Lutnick sollen vor dem US-Senat aussagen. Es geht um mögliche Chip-Lieferungen nach China.",
-   "u": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T07:27:43+00:00"
-  },
-  {
-   "t": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
-   "s": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T02:36:47+00:00"
-  },
-  {
    "t": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
    "s": "Von Putin zu Selenskyj - die US-Unterhändler Kushner und Witkoff kommen mit Ankündigungen aus Moskau nach Dublin. Bei den Verhandlungen sollen künftig auch die Europäer teilnehmen.",
    "u": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html",
    "q": "Tagesschau",
    "d": "2026-11-12T14:25:28+00:00"
-  },
-  {
-   "t": "EPG-Treffen in Irland: Europa will mit an den Tisch",
-   "s": "Kurze Gespräche und viel Diplomatie: Beim Treffen der Europäischen Politischen Gemeinschaft geht es heute um die Nachbereitung der Ukraine-Gespräche in Abu Dhabi und Moskau. Mit dabei: Selenskyj und der US-Sondergesandte Witkoff. Von S. López.",
-   "u": "https://www.tagesschau.de/ausland/europa/irland-europaeische-gemeinschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T13:28:28+00:00"
-  },
-  {
-   "t": "Angriff auf Krankenhaus mit sechs Toten galt laut Israel Hamas",
-   "s": "Bei einem Angriff Israels auf eine Klinik in Gaza sind nach Behördenangaben sechs Menschen gestorben. Laut Israel nutzte die Hamas die Gebäude als Kommando- und Folterzentrum. Ein Mitglied der Terrororganisation sei Ziel des Angriffs gewesen.",
-   "u": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T12:50:17+00:00"
-  },
-  {
-   "t": "Polen scheitert vor EuGH mit Klagen gegen EU-Klimapaket",
-   "s": "Die \"Fit for 55\" genannten Klimaregeln sollen Europa bis Mitte des Jahrhunderts klimaneutral machen. Polen war gegen das Gesetzespaket aus dem Jahr 2023 mit sieben Klagen vorgegangen - alle wurden nun vom Europäischen Gerichtshof abgewiesen.",
-   "u": "https://www.tagesschau.de/ausland/europa/eugh-polen-klage-eu-klimapaket-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T12:39:40+00:00"
   }
  ]
 }

@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-11-14T10:27:50+00:00",
+ "updated": "2026-11-14T19:56:20+00:00",
  "items": [
+  {
+   "t": "Republikaner nach den Midterms: Angst und Gehorsam",
+   "s": "Nach der krachenden Wahlniederlage bei den US-Zwischenwahlen ist innerhalb der Republikanischen Partei vieles ungewiss. Bricht die Post-Trump-Ära an?",
+   "u": "https://taz.de/Republikaner-nach-den-Midterms/!6224380/",
+   "q": "taz",
+   "d": "2026-11-14T15:15:00+00:00"
+  },
+  {
+   "t": "Spionage, Politik und Klima: Wer das Gelächter nicht ehrt, ist die Greta nicht wert",
+   "s": "Huang, Hegseth, Thunberg – gleich drei VIPS sind diese Woche über ihr Lächeln gestolpert. Unsere Kolumnistin ist trotzdem fürs Weitermachen.",
+   "u": "https://taz.de/Spionage-Politik-und-Klima/!6224491/",
+   "q": "taz",
+   "d": "2026-11-14T14:51:00+00:00"
+  },
   {
    "t": "Historischer Dreier beim APEC-Gipfel: Treffen sich Trump, Putin und Xi …",
    "s": "… und reden doch nicht über den Ukraine-Krieg. Bei dem Gespräch am Rande des Gipfels in China am Donnerstag soll es um atomare Abrüstung und den Iran gehen.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Portrait-Jensen-Huang/!6228699/",
    "q": "taz",
    "d": "2026-11-09T15:22:00+00:00"
-  },
-  {
-   "t": "Politikwissenschaftler zu US-Midterms: „Trump ist jetzt eine lahme Ente – mit Panzerfaust“",
-   "s": "Die Demokraten sind die klaren Gewinner der Zwischenwahlen in den USA. Sie sollten jetzt die Chance nutzen, weniger ideologisch vorzugehen, meint Politikwissenschaftler Yascha Mounk.",
-   "u": "https://taz.de/Politikwissenschaftler-zu-US-Midterms/!6224152/",
-   "q": "taz",
-   "d": "2026-11-08T19:00:00+00:00"
-  },
-  {
-   "t": "Neuer Stabschef für Trump: Der Schlimmste zum Schluss",
-   "s": "Stephen Miller gilt als Architekt von Trumps radikaler Abschiebepolitik. Nun wird der Hardliner Stabschef im Weißen Haus.",
-   "u": "https://taz.de/Neuer-Stabschef-fuer-Trump/!6228380/",
-   "q": "taz",
-   "d": "2026-11-08T17:11:00+00:00"
   }
  ]
 }
