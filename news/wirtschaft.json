@@ -1,13 +1,27 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-13T21:25:56+00:00",
+ "updated": "2026-11-14T10:27:47+00:00",
  "items": [
+  {
+   "t": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
+   "s": "Probleme bei Microsoft hatten zentrale Cloud-Dienste stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen. Laut Microsoft laufen nun alle Systeme wieder. Hinweise auf böswillige Aktivitäten gebe es nicht.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T10:17:44+00:00"
+  },
   {
    "t": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
    "s": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-13T20:22:33+00:00"
+   "d": "2026-11-14T09:55:34+00:00"
+  },
+  {
+   "t": "Warum in Polen schneller gebaut wird als in Deutschland",
+   "s": "Wird in Polen eine neue Straße oder Brücke errichtet, geht es deutlich schneller als westlich der Oder in Deutschland. Fachleuten zufolge gibt es dafür mehrere Gründe. Von Andre Kartschall und Jakub Paczkowski.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T07:24:30+00:00"
   },
   {
    "t": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosigkeit-akademiker-rekord-100.html",
    "q": "Tagesschau",
    "d": "2026-11-11T10:07:28+00:00"
-  },
-  {
-   "t": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
-   "s": "Das KI-Unternehmen Anthropic hat Details seiner Börsenpläne veröffentlicht. Was die Aktien kosten sollen und wie viel Geld der US-Konzern damit erlösen will - trotz wachsender Zweifel an der Rentabilität der Branche.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T15:37:43+00:00"
-  },
-  {
-   "t": "Maschinenbau will mit Künstlicher Intelligenz aus der Krise",
-   "s": "Der deutsche Maschinenbau steckt in seinem vierten Krisenjahr. Die Branche leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Maschinenbaugipfel gibt es aber auch Hoffnungssignale - etwa die Künstliche Intelligenz. Von A. John.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T10:36:17+00:00"
   }
  ]
 }

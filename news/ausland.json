@@ -1,13 +1,48 @@
 {
  "name": "Ausland",
- "updated": "2026-11-13T21:25:55+00:00",
+ "updated": "2026-11-14T10:27:46+00:00",
  "items": [
   {
+   "t": "Nach US-Zwischenwahlen: Migranten auf dem Weg Richtung USA",
+   "s": "Der Sieg der Demokraten bei den US-Midterms weckt in Mittelamerika neue Hoffnungen auf eine liberalere US-Einwanderungspolitik. Davon angetrieben haben sich in Mexiko mehr als 1.000 Migranten auf den Weg gemacht. Von J. Barke.",
+   "u": "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T07:21:14+00:00"
+  },
+  {
+   "t": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
+   "s": "Stundenlang durften in den USA keine Flugzeuge starten. Die Regierung macht veraltete Technik verantwortlich. Mittlerweile ist das Verbot wieder aufgehoben - doch wann sich der Flugverkehr normalisieren wird, ist unklar. Von Nina Barth.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T07:15:22+00:00"
+  },
+  {
+   "t": "Die USA sind bei der COP31 nicht dabei - aber dennoch präsent",
+   "s": "Die US-Regierung fehlt nach dem Ausstieg aus dem Pariser Klimaabkommen erneut auf dem Klimagipfel. Dennoch sind viele Politiker aus den USA in Antalya. Sie setzen weiter auf das Geschäft mit erneuerbaren Energien. Von Jakob Mayr.",
+   "u": "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T04:41:37+00:00"
+  },
+  {
+   "t": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+   "s": "Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Laut Weißem Haus soll es beim kommenden Apec-Gipfel in Shenzhen stattfinden. Hauptthema: der Abbau von Atomwaffen. Auch der Iran-Krieg könnte zur Sprache kommen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T03:18:01+00:00"
+  },
+  {
+   "t": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+   "s": "Nach mehreren Stunden läuft der Flugverkehr in den USA wieder an. Die Luftfahrtbehörde hob das zuvor verhängte Startverbot auf. US-Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T02:36:59+00:00"
+  },
+  {
    "t": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
-   "s": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen.",
+   "s": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. Vermisst wird niemand.",
    "u": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-13T21:19:32+00:00"
+   "d": "2026-11-14T00:51:37+00:00"
   },
   {
    "t": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
@@ -94,13 +129,6 @@
    "d": "2026-11-13T02:19:34+00:00"
   },
   {
-   "t": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
-   "s": "Nach dem Einsturz eines mehrstöckigen Gebäudes in New York ist die Zahl der Toten auf mindestens acht gestiegen. Mehrere weitere Menschen wurden unter den Trümmern eingeschlossen. Bürgermeister Mamdani sprach den Betroffenen sein Mitgefühl aus.",
-   "u": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T18:54:49+00:00"
-  },
-  {
    "t": "Spanisches Parlament beschließt Maßnahmen für mehr Mieterschutz",
    "s": "Spaniens Übergangsparlament hat mit einer Stimme Mehrheit Maßnahmen der linken Minderheitsregierung für mehr Mieterschutz angenommen. Die konservative PP-Partei will das Dekret wieder kippen. In zwei Wochen wird in Spanien gewählt.",
    "u": "https://www.tagesschau.de/ausland/europa/spanien-parlament-wohnungsdekret-100.html",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eugh-polen-klage-eu-klimapaket-100.html",
    "q": "Tagesschau",
    "d": "2026-11-12T12:39:40+00:00"
-  },
-  {
-   "t": "Jugendlicher überlebt sechs Tage im australischen Outback",
-   "s": "Fast eine Woche haben 100 Einsatzkräfte im australischen Busch nach einem vermissten Teenager gesucht. Jetzt wurde er aus der Luft entdeckt - lebend, nur mit ein paar Kratzern und Sonnenbrand.",
-   "u": "https://www.tagesschau.de/ausland/australien-teenager-wildnis-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T11:23:50+00:00"
-  },
-  {
-   "t": "Demonstrationen in Spanien: Zehntausende protestieren gegen Wohnungskrise",
-   "s": "Die angespannte Lage auf dem Wohnungsmarkt ist seit Langem das beherrschende politische Thema in Spanien. Kurz vor der Parlamentswahl haben Zehntausende Menschen gegen steigende Mieten demonstriert. Überwiegend blieben die Proteste friedlich.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-proteste-wohnungsnot-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T08:07:10+00:00"
-  },
-  {
-   "t": "Trumps Unterhändler fordern von Putin Beteiligung Europas",
-   "s": "Bei den Gesprächen über die Zukunft der Ukraine in Abu Dhabi saßen die Europäer nicht mit am Tisch. Nun besuchen die US-Gesandten Moskau - nach eigenen Worten, um Putin von einer Beteiligung Europas zu überzeugen.",
-   "u": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-putin-ukraine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T07:00:29+00:00"
-  },
-  {
-   "t": "Historischer Sieg in Mississippi: \"Hatte den Mut, an Mississippi zu glauben\"",
-   "s": "Seit 145 Jahren zieht erstmals ein schwarzer Demokrat für Mississippi in den US-Senat. Im Wahlkampf setzte Scott Colom auf die Mobilisierung von Nicht-Wählern - und Gespräche mit Trump-Unterstützern. Von Sandra Ratzow.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-schwarzer-senator-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T04:37:34+00:00"
   }
  ]
 }
