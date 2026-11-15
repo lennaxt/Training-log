@@ -1,7 +1,161 @@
 {
  "name": "Inland",
- "updated": "2026-11-15T10:55:18+00:00",
+ "updated": "2026-11-15T20:24:07+00:00",
  "items": [
+  {
+   "t": "Nato-Mitgliedschaft für Gebietsverzicht?: Die Nebelkerze vom Donbass",
+   "s": "US-Unterhändler suggerieren, bei Rückzug aus dem Donbass könne die Ukraine in die Nato. Sie sollten lieber der Ukraine helfen, im Krieg zu bestehen.",
+   "u": "https://taz.de/Nato-Mitgliedschaft-fuer-Gebietsverzicht/!6230163/",
+   "q": "taz",
+   "d": "2026-11-15T19:07:00+00:00"
+  },
+  {
+   "t": "Gesundheitspolitiker zu Reformen: „Eine Erosion des Sozialstaats können wir uns nicht leisten“",
+   "s": "SPD-Politiker Serdar Yüksel empfiehlt, gesetzliche und private Pflegeversicherung zusammenzulegen. Zum Terminmangel bei Ärzten sagt er: Das muss nicht sein.",
+   "u": "https://taz.de/Gesundheitspolitiker-zu-Reformen/!6229432/",
+   "q": "taz",
+   "d": "2026-11-15T18:56:00+00:00"
+  },
+  {
+   "t": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
+   "s": "Die SPD sucht eine neue Parteispitze. Erster Bewerber ist Hubertus Heil. Er bekomme viel Zuspruch aus der Partei, sagte er im Bericht aus Berlin. Auch zu Vizekanzler Klingbeil äußerte er sich. Offen ließ Heil, mit welcher Frau er kandidieren will.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T18:44:55+00:00"
+  },
+  {
+   "t": "Grenzschließung in Estland: Tallinn macht dicht",
+   "s": "Estland macht den russischen Geheimdienst für Sabotage auf einen Drohnenhersteller verantwortlich – und schließt ab 1. Dezember die Grenzen zu Russland.",
+   "u": "https://taz.de/Sabotageversuch-in-Estland/!6230290/",
+   "q": "taz",
+   "d": "2026-11-15T18:07:00+00:00"
+  },
+  {
+   "t": "Krieg in Nahost: Angriffe auf Schiffe und einen US-Stützpunkt",
+   "s": "Der Konflikt am Persischen Golf zieht wieder an: Zwei Tanker laufen in der Straße von Hormus auf Minen, Iran beschießt erneut den Golfstaat Bahrain.",
+   "u": "https://taz.de/Krieg-in-Nahost/!6230278/",
+   "q": "taz",
+   "d": "2026-11-15T17:04:00+00:00"
+  },
+  {
+   "t": "Demonstrationen in Tschechien: „Keine Freiheit, keine Zukunft“",
+   "s": "In Tschechien sind am Sonntag Tausende Menschen auf die Straße gegangen. Der Grund für den Protest: Sie sorgen sich um die Unabhängigkeit der Medien.",
+   "u": "https://taz.de/Demonstrationen-in-Tschechien/!6230176/",
+   "q": "taz",
+   "d": "2026-11-15T17:04:00+00:00"
+  },
+  {
+   "t": "Hubertus Heil kandidiert für SPD-Vorsitz: Ich bin dann mal wieder da",
+   "s": "Hubertus Heil will SPD-Chef werden, damit die Partei wieder für etwas steht. Aber weiß der 54-Jährige überhaupt, wofür er steht?",
+   "u": "https://taz.de/Hubertus-Heil-kandidiert-fuer-SPD-Vorsitz/!6230098/",
+   "q": "taz",
+   "d": "2026-11-15T17:03:00+00:00"
+  },
+  {
+   "t": "Innensenatorin: Bremen beendet Kampagne gegen Islamismus vorzeitig",
+   "s": "Mit Bildern von einem Wolf im Schafspelz hatte der Verfassungsschutz vor Islamisten gewarnt. Bremens Innensenatorin sagt nun: Das Ziel der Kampagne war richtig, die Umsetzung aber nicht.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bremen-beendet-kampagne-gegen-islamismus-vorzeitig-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T16:16:20+00:00"
+  },
+  {
+   "t": "Wie kluger KI-Einsatz Demokratien helfen könnte",
+   "s": "Künstliche Intelligenz verändert vieles und stellt Fragen, auch an die Demokratie. Zur Manipulation wird sie schon genutzt, doch sie könnte auch helfen, Menschen mehr an die Demokratie zu binden, sagt Kommunikationswissenschaftlerin Miriam Meckel.Balzer, Vladimir",
+   "u": "https://www.deutschlandfunk.de/wie-die-ki-der-demokratie-helfen-kann-medienwissenschaftlerin-miriam-meckel-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-15T16:05:00+00:00"
+  },
+  {
+   "t": "US-Demokraten nach dem Wahlsieg: Chris van Hollen will Mehrheitsführer im US-Senat werden",
+   "s": "Der Aufstand innerhalb der Demokraten im US-Senat nimmt Gestalt an. Fraktionschef Chuck Schumer hat einen Gegenkandidaten.",
+   "u": "https://taz.de/US-Demokraten-nach-dem-Wahlsieg/!6230106/",
+   "q": "taz",
+   "d": "2026-11-15T15:41:00+00:00"
+  },
+  {
+   "t": "Mobile Notaufnahme im Saarland: Nicht mehr in die Klinik",
+   "s": "Klinikaufenthalte werden von vielen älteren Menschen gefürchtet, auch wenn sie nur der Untersuchung dienen. Im Saarland läuft deshalb seit September ein Modellprojekt, bei dem ein Diagnostik-Lkw Pflegeheime anfährt. Von Emil Mura.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/mobile-notaufnahme-saarland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T15:37:17+00:00"
+  },
+  {
+   "t": "Bundesweites Gedenken zum Volkstrauertag - auch im Bundestag",
+   "s": "Der Volkstrauertag ist kein gesetzlicher Feiertag, aber ein staatlicher Gedenktag. Im ganzen Land wird heute an Kriegsopfer erinnert. In diesem Jahr zusammen mit dem österreichischem Bundespräsidenten Van der Bellen. Er rief zu mehr Mitgefühl auf.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/volkstrauertag-bundestag-104.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T15:24:11+00:00"
+  },
+  {
+   "t": "Krieg im Jemen: Raketen auf Hafenstadt erzwingen Rückzug",
+   "s": "Die proiranische Huthi-Miliz bedroht die von der Regierung gehaltene Stadt Aden. Nun werden zu deren Schutz Truppen verlegt – weg von der Meerenge Bab al-Mandab.",
+   "u": "https://taz.de/Krieg-im-Jemen/!6230263/",
+   "q": "taz",
+   "d": "2026-11-15T15:17:00+00:00"
+  },
+  {
+   "t": "Regierungskrise in den Niederlanden: Millionärssteuer setzt die „Notlösung“ unter Druck",
+   "s": "Die niederländische Minderheitsregierung ringt in geheimer Klausur um ihren Fortbestand. Koalitionspartnerin VVD treibt den Preis in die Höhe.",
+   "u": "https://taz.de/Regierungskrise-in-den-Niederlanden/!6230077/",
+   "q": "taz",
+   "d": "2026-11-15T15:08:00+00:00"
+  },
+  {
+   "t": "Krieg in Afghanistan: Internationaler Strafgerichtshof lässt USA vom Haken",
+   "s": "Die Untersuchung von Kriegsverbrechen des US-Militärs und ihrer afghanischer Verbündeter soll eingestellt werden. Men­schen­recht­le­r:in­nen üben Kritik.",
+   "u": "https://taz.de/Krieg-in-Afghanistan/!6230121/",
+   "q": "taz",
+   "d": "2026-11-15T14:43:00+00:00"
+  },
+  {
+   "t": "Luftverkehr in China: In Peking keine Drohnen mehr erlaubt",
+   "s": "In der chinesischen Haupstadt sind die unbemannten Flugobjekte für Privatleute ab heute tabu. Wer jetzt noch welche besitzt, dem drohen Geldstrafen.",
+   "u": "https://taz.de/Drohnenbesitz-Verbot-in-Peking-in-Kraft-getreten/!6230247/",
+   "q": "taz",
+   "d": "2026-11-15T14:37:00+00:00"
+  },
+  {
+   "t": "Behörden in Sachsen-Anhalt: Wenn der Dienstherr blau wird",
+   "s": "In einem Monat könnte in Sachsen-Anhalt die AfD regieren. Wie geht es damit Polizist:innen, Leh­re­r:in­nen und Mit­ar­bei­te­r:in­nen von Behörden?",
+   "u": "https://taz.de/Behoerden-in-Sachsen-Anhalt/!6224530/",
+   "q": "taz",
+   "d": "2026-11-15T13:46:00+00:00"
+  },
+  {
+   "t": "Bandengewalt in Haiti: El Salvador schickt Militär",
+   "s": "Auf Anordnung Präsident Bukeles sind 2.000 salvadorianische Soldaten zur Bandenbekämpfung in Haiti einmarschiert – ohne internationales Mandat.",
+   "u": "https://taz.de/Bandengewalt-in-Haiti/!6230128/",
+   "q": "taz",
+   "d": "2026-11-15T13:44:00+00:00"
+  },
+  {
+   "t": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
+   "s": "Der Erste wagt sich aus der Deckung: Ex-Arbeitsminister Heil will die SPD führen. Was macht Parteichef Klingbeil? Tritt er beim Parteitag im Januar erneut für den Vorsitz an? Nun sprachen sich weitere namhafte SPD-Politiker für ihn aus.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T13:30:13+00:00"
+  },
+  {
+   "t": "Arzttermin gegen Bezahlung - warum der Vorstoß für Empörung sorgt",
+   "s": "Schneller zum Facharzt - aber nur wenn man die Behandlung selbst zahlt: Kassenärzte-Chef Gassen hat mit seinen Äußerungen zu Terminen gegen Aufpreis breite Kritik ausgelöst. Wie ist die Situation für Kassenpatienten - und was macht die Politik?",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/arzttermine-selbst-zahlen-debatte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T12:42:46+00:00"
+  },
+  {
+   "t": "Empörung über Vorstoß zu Facharzttermin: Klingbeil gegen zusätzliche Kosten für Kassenpatienten",
+   "s": "Der Vorstoß von Kassenärzte-Chef Gassen, Geld für schnellere Termine beim Facharzt zu verlangen, stößt einhellig auf Kritik. Grüne warnen vor „Paywall-Medizin“.",
+   "u": "https://taz.de/Empoerung-ueber-Vorstoss-zu-Facharzttermin/!6230151/",
+   "q": "taz",
+   "d": "2026-11-15T11:39:00+00:00"
+  },
+  {
+   "t": "Sachsen-Anhalt: Weggehen dürfen, wenn es gefährlich wird",
+   "s": "In rund einem Monat will sich der AfD-Politiker Siegmund in Sachsen-Anhalt zum Ministerpräsidenten wählen lassen. Viele Migranten überlegen, wegzuziehen. Doch was gilt für Asylsuchende mit einer Wohnsitzauflage? Von L. Pfeuffer-Rooschüz.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-afd-migranten-residenzpflicht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T11:10:03+00:00"
+  },
   {
    "t": "Sicherheit in Syrien: Explosion in einem Vorort von Damaskus",
    "s": "In Syrien tötet ein Sprengstoff-Attentat im drusisch geprägten Jaramana zwei Menschen. Der Vorfall löst Spekulationen aus und fördert spaltende Narrative.",
@@ -15,160 +169,6 @@
    "u": "https://taz.de/Sozialproteste-in-Frankreich/!6230096/",
    "q": "taz",
    "d": "2026-11-15T10:34:00+00:00"
-  },
-  {
-   "t": "Argentiniens „Kettensägen“-Präsident: Javier Milei will erneut antreten",
-   "s": "Milei strebt eine zweite Amtszeit an und rühmt den wirtschaftlichen Aufschwung unter seiner Ägide. Doch seine Politik bringt erhebliche soziale Härten mit sich.",
-   "u": "https://taz.de/Argentiniens-Kettensaegen-Praesident/!6230090/",
-   "q": "taz",
-   "d": "2026-11-15T10:10:00+00:00"
-  },
-  {
-   "t": "Julia Klöckner: Nominierung Aigners „etwas Historisches“",
-   "s": "Bundestagspräsidentin Julia Klöckner (CDU) begrüßt die Nominierung von Ilse Aigner (CSU) als Kandidatin für das Amt der Bundespräsidentin. Dies sei ein Zeichen für alle Frauen, „aber auch für die Männer, denn ein Stück Normalität tritt dann ein“.Hamberger, Katharina",
-   "u": "https://www.deutschlandfunk.de/interview-kloeckner-julia-praesidentin-des-deutschen-bundestages-cdu-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-15T10:05:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Ukraine greift russische Industrieanlagen an",
-   "s": "Ukrainische Drohnen haben einen der größten Komplexe der petrochemischen Industrie Russlands attackiert. Frankreichs Präsident Macron warnt vor einer Kürzung der Militärhilfe für Kyjiw.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6230067/",
-   "q": "taz",
-   "d": "2026-11-15T09:20:00+00:00"
-  },
-  {
-   "t": "Stadtgespräch aus Moskau: Von Lügen und Siegesfantasien",
-   "s": "Die Ohren spitzen genügt. Brutale Erfahrungen eines Insiders von der Front in der Ukraine, gehört im abendlichen Dunkel einer Moskauer Raucherecke.",
-   "u": "https://taz.de/Stadtgespraech-aus-Moskau/!6224381/",
-   "q": "taz",
-   "d": "2026-11-15T09:20:00+00:00"
-  },
-  {
-   "t": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
-   "s": "Der Erste wagt sich aus der Deckung: Ex-Arbeitsminister Heil will die SPD führen. Was macht Parteichef Klingbeil? Tritt er beim Parteitag im Januar erneut für den Vorsitz an? Nun sprachen sich weitere namhafte SPD-Politiker für ihn aus.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-15T09:09:58+00:00"
-  },
-  {
-   "t": "Behörden in Sachsen-Anhalt: Wenn der Dienstherr blau wird",
-   "s": "In einem Monat könnte in Sachsen-Anhalt die AfD regieren. Wie geht es damit Polizist:innen, Leh­re­r:in­nen und Mit­ar­bei­te­r:in­nen von Behörden?",
-   "u": "https://taz.de/Behoerden-in-Sachsen-Anhalt/!6224530/",
-   "q": "taz",
-   "d": "2026-11-15T08:23:00+00:00"
-  },
-  {
-   "t": "Selbstzahlen oder lange Wartezeit? Kritik an Kassenärzte-Chef",
-   "s": "Schneller zum Facharzt, wenn man den Termin selbst zahlt? Wegen der anstehenden Honorarkürzungen hält Kassenärzte-Chef Gassen das für wahrscheinlich. Er handelte sich damit deutliche Kritik ein.",
-   "u": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T19:45:01+00:00"
-  },
-  {
-   "t": "Rennen um SPD-Vorsitz: Heil wirft seinen Hut",
-   "s": "… als Erster in den Ring. Der ehemalige Arbeitsminister Hubertus Heil gab bekannt, für den SPD-Vorsitz kandidieren zu wollen. Wer könnte noch?",
-   "u": "https://taz.de/Rennen-um-SPD-Vorsitz/!6230057/",
-   "q": "taz",
-   "d": "2026-11-14T19:20:00+00:00"
-  },
-  {
-   "t": "Atomare Rüstung: Heftige Kritik an Urenco-Verstaatlichung",
-   "s": "Für 4 Milliarden Euro will der Bund Anteile des Urananreicherers kaufen – und steigt damit ins atomare Wettrüsten ein. Kritik kommt von allen Seiten.",
-   "u": "https://taz.de/Atomare-Ruestung/!6230055/",
-   "q": "taz",
-   "d": "2026-11-14T18:48:00+00:00"
-  },
-  {
-   "t": "Claudia Roth bei Tilo Jung: Wie gut, dass es die „ausländischen Freunde“ gibt",
-   "s": "Denn wenn es darum geht, die Deutschen von ihrer historischen Schuld gegenüber Juden zu befreien, sind sie schnell zur Stelle. Auch Claudia Roth holt sich bei ihnen Rat.",
-   "u": "https://taz.de/Claudia-Roth-bei-Tilo-Jung/!6229494/",
-   "q": "taz",
-   "d": "2026-11-14T18:47:00+00:00"
-  },
-  {
-   "t": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
-   "s": "Mitte Januar wird auf einem Bundesparteitag die komplette Führung der SPD neu gewählt. Ex-Arbeitsminister Heil hat laut ARD-Hauptstadtstudio jetzt als Erster offiziell seine Kandidatur für den Vorsitz angekündigt. Von Moritz Rödle.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T18:12:45+00:00"
-  },
-  {
-   "t": "Grüne in Mecklenburg-Vorpommern: Zustimmung trotz Bauchgrummeln",
-   "s": "Die Grünen in Mecklenburg-Vorpommern stimmen auf ihrem Parteitag mit großer Mehrheit für Rot-Rot-Grün. Zugleich quält man sich mit einer alten Affäre.",
-   "u": "https://taz.de/Gruene-in-Mecklenburg-Vorpommern/!6230038/",
-   "q": "taz",
-   "d": "2026-11-14T16:20:00+00:00"
-  },
-  {
-   "t": "Pläne für höhere Abzüge bei vorgezogener Rente",
-   "s": "Die Einsparungen der Regierung treffen die Rentenversicherung mehr als geplant - und damit stellt sich die Frage, wie die Einbußen ausgeglichen werden können. Die CSU bringt nun höhere Abschläge bei Frührentnern ins Spiel. Von F. Aischmann.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T15:37:32+00:00"
-  },
-  {
-   "t": "Republikaner nach den Midterms: Angst und Gehorsam",
-   "s": "Nach der krachenden Wahlniederlage bei den US-Zwischenwahlen ist innerhalb der Republikanischen Partei vieles ungewiss. Bricht die Post-Trump-Ära an?",
-   "u": "https://taz.de/Republikaner-nach-den-Midterms/!6224380/",
-   "q": "taz",
-   "d": "2026-11-14T15:15:00+00:00"
-  },
-  {
-   "t": "Ungarischer Ex-Minister: Unmengen von Bargeld im Wald vergraben",
-   "s": "Bei Ermittlungen gegen Miklos Sesztak werden 17,6 Millionen Euro sichergestellt. Das ehemalige Mitglied der Orbán-Regierung hatte es gut versteckt.",
-   "u": "https://taz.de/Ungarischer-Ex-Minister/!6230052/",
-   "q": "taz",
-   "d": "2026-11-14T14:20:00+00:00"
-  },
-  {
-   "t": "Wahlkampf in NRW: Grüne Krönungsmesse",
-   "s": "Die NRW-Grünen machen Mona Neubaur trotz parteiinterner Kritik zu ihrer Spitzenkandidatin. Die SPD wird zum Hauptgegner erklärt – um die Linke geht es nicht.",
-   "u": "https://taz.de/Wahlkampf-in-NRW/!6230049/",
-   "q": "taz",
-   "d": "2026-11-14T13:31:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Trump bietet Nato-Mitgliedschaft bei Gebietsverzicht an",
-   "s": "Der ukrainische Präsident macht publik, was sich der US-Präsident als Konfliktlösung vorstellt. Und jeweils mehr als 1000 Kriegsgefangene sollen ausgetauscht werden.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6230046/",
-   "q": "taz",
-   "d": "2026-11-14T13:29:00+00:00"
-  },
-  {
-   "t": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
-   "s": "Der bayerische Vize-Ministerpräsident und Freie-Wähler-Chef Aiwanger ist mit einem Trauerstaatsakt gewürdigt worden. Die Anteilnahme war groß. Zu der Zeremonie in der Frauenkirche kamen mehr als 1.000 Trauergäste.",
-   "u": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T13:22:33+00:00"
-  },
-  {
-   "t": "Mehr Kosten für gesetzlich Versicherte: Wer nicht warten will, muss zahlen",
-   "s": "Kassenärzte-Chef Andreas Gassen erwartet, dass gesetzlich Versicherte künftig mehr selbst zahlen müssen. Grund seien auch Honorarkürzungen in der Ambulanz.",
-   "u": "https://taz.de/Mehr-Kosten-fuer-gesetzlich-Versicherte/!6230047/",
-   "q": "taz",
-   "d": "2026-11-14T12:03:00+00:00"
-  },
-  {
-   "t": "Mehr Wettbewerb im Fernverkehr – auf Kosten ländlicher Regionen?",
-   "s": "Private Anbieter könnten den Bahn-Fernverkehr attraktiver machen. Doch was bedeutet das für kleinere Städte und ländliche Regionen? Zur Sicherung ihrer Anbindung gibt es Konzepte. Die Bundesregierung sieht bislang aber keinen Grund zur Eile.",
-   "u": "https://www.deutschlandfunk.de/deutsche-bahn-konkurrenz-flixtrain-italo-fernverkehr-regionen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-14T11:55:00+00:00"
-  },
-  {
-   "t": "Kommentar zur Reform der Nachrichtendienste: Deutschland wird ein gutes Stück sicherer",
-   "s": "BND und Verfassungsschutz bekommen mehr Befugnisse für die Abwehr von Terror, Spionage und Sabotage. Die Reform ist umstritten. Doch trotz aller Bedenken ist sie überfällig. Sie kann Deutschland sicherer und unabhängiger machen.Von Marcus Pindur",
-   "u": "https://www.deutschlandfunk.de/kommentar-reform-nachrichtendienste-bnd-verfassungsschutz-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-14T11:38:00+00:00"
-  },
-  {
-   "t": "Minderheitsregierung in den Niederlanden: Lieber Neustart als Neuwahlen",
-   "s": "Ein Streit um die Steuerreform hatte die niederländische Regierung von Ministerpräsident Rob Jetten ins Wanken gebracht. Ein Bruch wurde abgewendet – vorerst.",
-   "u": "https://taz.de/Minderheitsregierung-in-den-Niederlanden/!6230043/",
-   "q": "taz",
-   "d": "2026-11-14T11:24:00+00:00"
   }
  ]
 }

@@ -1,20 +1,69 @@
 {
  "name": "Ausland",
- "updated": "2026-11-15T10:55:19+00:00",
+ "updated": "2026-11-15T20:24:08+00:00",
  "items": [
+  {
+   "t": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
+   "s": "Eisenkot oder Netanjahu? Die Parlamentswahl in Israel brachte keine eindeutige Antwort. Derzeit sucht Oppositionspolitiker Eisenkot nach Partnern für eine Koalition. Noch-Premier Netanjahu hat seine eigenen Vorstellungen. Von B. Meier.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T20:23:26+00:00"
+  },
+  {
+   "t": "Ukraine und Russland: Serie von Angriffen - wohl auch Energieanlagen betroffen",
+   "s": "Am Wochenende hat es eine Serie russischer Angriffe auf die Ukraine gegeben - laut Präsident Selenskyj sind auch Energieanlagen darunter. Die Ukraine wiederum griff offenbar eine petrochemische Anlage in Russland an.",
+   "u": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T17:54:56+00:00"
+  },
+  {
+   "t": "Hunderte Flüchtlinge auf Kanaren angekommen",
+   "s": "Rund 1.500 Migranten haben innerhalb eines Tages die kanarischen Inseln erreicht - eine Rekordzahl. Besonders angespannt ist die Lage auf der kleinen Insel El Hierro. Der Präsident der Kanaren forderte Hilfen aus Madrid ein.",
+   "u": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T17:31:41+00:00"
+  },
+  {
+   "t": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+   "s": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge zum Nachbarland.",
+   "u": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T16:52:46+00:00"
+  },
+  {
+   "t": "Massenprotest gegen Rundfunkreform in Tschechien",
+   "s": "Mehrere Hunderttausend Menschen sind in Prag auf die Straße gegangen, um gegen Pläne zur Finanzierung der öffentlich-rechtlichen Medien zu protestieren. Sie befürchten, die Regierung könnte die Sender mit der Reform unter ihre Kontrolle bringen.",
+   "u": "https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T15:40:55+00:00"
+  },
+  {
+   "t": "Banden in Schweden rekrutieren zunehmend junge Frauen",
+   "s": "In Schweden werden zunehmend junge Frauen und Mädchen für kriminelle Netzwerke rekrutiert - etwa als Kuriere für Drogen und Waffen. Die Banden locken mit dem Versprechen von schnellem Geld und Anerkennung. Von Arne Bartram.",
+   "u": "https://www.tagesschau.de/ausland/europa/bandenkriminalitaet-schweden-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T14:59:47+00:00"
+  },
+  {
+   "t": "Israelischer Angriff im Gazastreifen: Ranghoher Hamas-Kommandeur tot",
+   "s": "Die israelische Armee hat im Gazastreifen einen ranghohen Kommandeur der Hamas getötet. Samir Abu Junis soll einer der wichtigsten Köpfe bei der Planung der Attacke auf Israel am 7. Oktober 2023 gewesen sein. Die Hamas bestätigte seinen Tod.",
+   "u": "https://www.tagesschau.de/ausland/asien/hamas-kommandeur-gazastreifen-getoetet-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T12:46:16+00:00"
+  },
+  {
+   "t": "Iran greift erneut US-Stützpunkt in Bahrain an",
+   "s": "Iran hat nach eigenen Angaben einen US-Stützpunkt in Bahrain angegriffen. Die Revolutionsgarde habe eine Radaranlage attackiert, meldeten Staatsmedien. Bahrain wehrte offenbar auch mehrere Angriffe ab.",
+   "u": "https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T11:21:27+00:00"
+  },
   {
    "t": "Treibstoffmangel: Wie die Kubaner mit der Krise zurechtkommen",
    "s": "Stromausfälle, Treibstoffmangel, steigende Preise: Die verschärften US-Sanktionen treffen die Menschen in Kuba hart. In Havanna versuchen sie, der Krise etwas entgegenzusetzen. Mit Musik, Unternehmergeist und Improvisation. Von Marie-Kristin Boese.",
    "u": "https://www.tagesschau.de/ausland/amerika/kuba-energiekrise-alltag-100.html",
    "q": "Tagesschau",
    "d": "2026-11-15T09:46:38+00:00"
-  },
-  {
-   "t": "Angriffe auf beiden Seiten: Ukraine und Russland melden Tote und Verletzte",
-   "s": "Erneut hat Russland mehrere Ziele in der Ukraine angegriffen. Dabei wurden am Abend drei Menschen getötet, allein aus Saporischschja wurden zuvor 22 Verletzte gemeldet, darunter Kinder. Russland meldete einen Toten durch ukrainische Angriffe.",
-   "u": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
-   "q": "Tagesschau",
-   "d": "2026-11-15T09:42:23+00:00"
   },
   {
    "t": "Papst Leo in Südamerika: Empfangen wie ein lang vermisster alter Freund",
@@ -108,27 +157,6 @@
    "d": "2026-11-14T04:41:37+00:00"
   },
   {
-   "t": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
-   "s": "Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Laut Weißem Haus soll es beim kommenden Apec-Gipfel in Shenzhen stattfinden. Hauptthema: der Abbau von Atomwaffen. Auch der Iran-Krieg könnte zur Sprache kommen.",
-   "u": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T03:18:01+00:00"
-  },
-  {
-   "t": "FAA hebt Startverbot an US-Flughäfen wieder auf",
-   "s": "Nach mehreren Stunden läuft der Flugverkehr in den USA wieder an. Die Luftfahrtbehörde hob das zuvor verhängte Startverbot auf. US-Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T02:36:59+00:00"
-  },
-  {
-   "t": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
-   "s": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. Vermisst wird niemand.",
-   "u": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T00:51:37+00:00"
-  },
-  {
    "t": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
    "s": "Lange wurde diskutiert, wer Europa bei Gesprächen mit Russland über ein Ende des Kriegs gegen die Ukraine vertreten soll. Nun gibt es eine Einigung: Das Team bilden Vertreter der EU-Institutionen und aus fünf Ländern - darunter auch Deutschland.",
    "u": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html",
    "q": "Tagesschau",
    "d": "2026-11-13T17:15:20+00:00"
-  },
-  {
-   "t": "Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen",
-   "s": "Der Krieg gegen die Ukraine steht im Fokus des EU-Treffens in Dublin. Kanzler Merz erhält für seinen Vorstoß zur Finanzierung neuer Ukraine-Hilfen Rückendeckung - bei Gesprächen über ein Kriegsende sieht er Deutschland als \"gesetzt\" an.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-gipfel-eu-dublin-merz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T16:36:49+00:00"
-  },
-  {
-   "t": "Österreich: Barmherzige Brüder wegen Medikamentenpreisen in Kritik",
-   "s": "Ein Orden soll in Österreich Medikamente zu massiv überhöhten Preisen an eigene Krankenhäuser verkauft haben. Dadurch könnte Steuerzahlern ein Millionenschaden entstanden sein. Der Orden widerspricht. Von O. Soos.",
-   "u": "https://www.tagesschau.de/ausland/europa/oesterreich-orden-barmherzige-brueder-hohe-medikamentenpreise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T12:02:42+00:00"
-  },
-  {
-   "t": "Erleichterung für Industrie im EU-Emissionshandel",
-   "s": "Die Industrie in der EU soll weniger für Emissionen zahlen müssen. Unterhändler von EU-Parlament und Mitgliedstaaten einigten sich darauf, betroffenen Branchen zeitlich befristet zusätzliche kostenlose Emissionszertifikate zuzuteilen.",
-   "u": "https://www.tagesschau.de/ausland/europa/emissionshandel-eu-industrie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T09:44:48+00:00"
-  },
-  {
-   "t": "Informelles Treffen in Dublin: Wie einig ist sich die EU in puncto Ukraine?",
-   "s": "Beim Treffen der Staat- und Regierungschefs in Dublin steht die Ukraine weiter im Fokus. Vor allem über weitere Finanzhilfen wird diskutiert. Kanzler Merz hat dabei klare Vorstellungen. Von Kathrin Schmid.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-treffen-dublin-ukraine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T09:38:13+00:00"
   }
  ]
 }

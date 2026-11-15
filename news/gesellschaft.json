@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-15T10:55:24+00:00",
+ "updated": "2026-11-15T20:24:13+00:00",
  "items": [
+  {
+   "t": "Grenzschließung in Estland: Tallinn macht dicht",
+   "s": "Estland macht den russischen Geheimdienst für Sabotage auf einen Drohnenhersteller verantwortlich – und schließt ab 1. Dezember die Grenzen zu Russland.",
+   "u": "https://taz.de/Sabotageversuch-in-Estland/!6230290/",
+   "q": "taz",
+   "d": "2026-11-15T18:07:00+00:00"
+  },
+  {
+   "t": "Demonstrationen in Tschechien: „Keine Freiheit, keine Zukunft“",
+   "s": "In Tschechien sind am Sonntag Tausende Menschen auf die Straße gegangen. Der Grund für den Protest: Sie sorgen sich um die Unabhängigkeit der Medien.",
+   "u": "https://taz.de/Demonstrationen-in-Tschechien/!6230176/",
+   "q": "taz",
+   "d": "2026-11-15T17:04:00+00:00"
+  },
+  {
+   "t": "Regierungskrise in den Niederlanden: Millionärssteuer setzt die „Notlösung“ unter Druck",
+   "s": "Die niederländische Minderheitsregierung ringt in geheimer Klausur um ihren Fortbestand. Koalitionspartnerin VVD treibt den Preis in die Höhe.",
+   "u": "https://taz.de/Regierungskrise-in-den-Niederlanden/!6230077/",
+   "q": "taz",
+   "d": "2026-11-15T15:08:00+00:00"
+  },
   {
    "t": "Sozialproteste in Frankreich: Erneut Zehntausende Menschen auf der Straße",
    "s": "Den fünften Samstag in Folge fanden Demos gegen die Regierung statt. Der Protest blieb weitgehend friedlich; in Lyon wurde ein Fernsehteam attackiert.",
@@ -25,14 +46,14 @@
   },
   {
    "t": "Ungarischer Ex-Minister: Unmengen von Bargeld im Wald vergraben",
-   "s": "Bei Ermittlungen gegen Miklos Sesztak werden 17,6 Millionen Euro sichergestellt. Das ehemalige Mitglied der Orbán-Regierung hatte es gut versteckt.",
+   "s": "Bei Ermittlungen gegen Miklós Seszták werden 17,6 Millionen Euro sichergestellt. Das ehemalige Mitglied der Orbán-Regierung hatte es gut versteckt.",
    "u": "https://taz.de/Ungarischer-Ex-Minister/!6230052/",
    "q": "taz",
    "d": "2026-11-14T14:20:00+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Trump bietet Nato-Mitgliedschaft bei Gebietsverzicht an",
-   "s": "Der ukrainische Präsident macht publik, was sich der US-Präsident als Konfliktlösung vorstellt. Und jeweils mehr als 1000 Kriegsgefangene sollen ausgetauscht werden.",
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Trump bietet Nato-Mitgliedschaft bei Gebietsverzicht an",
+   "s": "Der ukrainische Präsident macht publik, was sich der US-Präsident als Konfliktlösung vorstellt. Und jeweils mehr als 1.000 Kriegsgefangene sollen ausgetauscht werden.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6230046/",
    "q": "taz",
    "d": "2026-11-14T13:29:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Kurz-vor-eurorpaeischen-Gipfel-Treffen/!6229416/",
    "q": "taz",
    "d": "2026-11-12T11:01:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten zum Ukraine-Krieg +++: Putin beharrt auf ukrainischen Gebieten",
-   "s": "US-Sondergesandten haben in Moskau mit Putin geredet. Anschließend wollen sie Selenskyj in Dublin treffen. Gegenseitige Angriffe gehen derweil weiter.",
-   "u": "https://taz.de/-Nachrichten-zum-Ukraine-Krieg-/!6229424/",
-   "q": "taz",
-   "d": "2026-11-12T09:06:00+00:00"
-  },
-  {
-   "t": "Nationalfeiertag in Polen: „Hier ist Polen, nicht Brüssel!“",
-   "s": "In Warschau begehen Tausende den Unabhängigkeitstag. Der Marsch, von Nationalisten organisiert, findet unter verschärften Sicherheitsbedingungen statt.",
-   "u": "https://taz.de/Nationalfeiertag-in-Polen/!6229178/",
-   "q": "taz",
-   "d": "2026-11-11T18:43:00+00:00"
-  },
-  {
-   "t": "Merz und der EU-Haushalt: Ein Bärendienst für die Ukraine",
-   "s": "Friedrich Merz will künftige Finanzhilfen für die Ukraine auf europäischer Ebene sichern. Seine Aktionen gehen am Thema vorbei – und sind riskant.",
-   "u": "https://taz.de/Merz-und-der-EU-Haushalt/!6229182/",
-   "q": "taz",
-   "d": "2026-11-11T18:42:00+00:00"
   }
  ]
 }

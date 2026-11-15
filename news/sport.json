@@ -1,10 +1,24 @@
 {
  "name": "Sport",
- "updated": "2026-11-15T10:55:27+00:00",
+ "updated": "2026-11-15T20:24:15+00:00",
  "items": [
   {
+   "t": "Krieg in Afghanistan: Internationaler Strafgerichtshof lässt USA vom Haken",
+   "s": "Die Untersuchung von Kriegsverbrechen des US-Militärs und ihrer afghanischer Verbündeter soll eingestellt werden. Men­schen­recht­le­r:in­nen üben Kritik.",
+   "u": "https://taz.de/Krieg-in-Afghanistan/!6230121/",
+   "q": "taz",
+   "d": "2026-11-15T14:43:00+00:00"
+  },
+  {
+   "t": "Luftverkehr in China: In Peking keine Drohnen mehr erlaubt",
+   "s": "In der chinesischen Haupstadt sind die unbemannten Flugobjekte für Privatleute ab heute tabu. Wer jetzt noch welche besitzt, dem drohen Geldstrafen.",
+   "u": "https://taz.de/Drohnenbesitz-Verbot-in-Peking-in-Kraft-getreten/!6230247/",
+   "q": "taz",
+   "d": "2026-11-15T14:37:00+00:00"
+  },
+  {
    "t": "Chinas Drohgebärden gegen Taiwan: Militärübung als „stille Einschüchterung“",
-   "s": "Kurz bevor Trump zum APEC-Gipfel nach Shenzhen reist, ließ China ein Militärmanöver nahe Taiwan durchführen. Dessen Dimension ist beispiellos.",
+   "s": "Kurz bevor Trump zum Apec-Gipfel nach Shenzhen reist, ließ China ein Militärmanöver nahe Taiwan durchführen. Dessen Dimension ist beispiellos.",
    "u": "https://taz.de/Chinas-Drohgebaerden-gegen-Taiwan/!6230039/",
    "q": "taz",
    "d": "2026-11-14T10:39:00+00:00"
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Politische-Krise/!6220857/",
    "q": "taz",
    "d": "2026-10-12T15:30:00+00:00"
-  },
-  {
-   "t": "Jugendproteste in Indien: Aktivistin Neha Bora gibt trotz Festnahmen nicht auf",
-   "s": "Neha Bora ist die Vorsitzende der linken Studierendenorganisation AISA. Sie ist eine der bekanntesten Stimmen der indischen Jugendproteste.",
-   "u": "https://taz.de/Jugendproteste-in-Indien/!6220590/",
-   "q": "taz",
-   "d": "2026-10-11T15:21:00+00:00"
-  },
-  {
-   "t": "Neue Sicherheitsarchitektur: Sydney rüstet sich für den nächsten Terroranschlag",
-   "s": "In der australischen Metropole patrouillieren künftig schwer bewaffnete Polizisten als Folge des antisemitischen Terroranschlags vom Bondi Beach.",
-   "u": "https://taz.de/Neue-Sicherheitsarchitektur/!6219927/",
-   "q": "taz",
-   "d": "2026-10-08T15:53:00+00:00"
   }
  ]
 }

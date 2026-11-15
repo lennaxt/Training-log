@@ -1,13 +1,41 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-15T10:55:23+00:00",
+ "updated": "2026-11-15T20:24:12+00:00",
  "items": [
+  {
+   "t": "Gesundheitspolitiker zu Reformen: „Eine Erosion des Sozialstaats können wir uns nicht leisten“",
+   "s": "SPD-Politiker Serdar Yüksel empfiehlt, gesetzliche und private Pflegeversicherung zusammenzulegen. Zum Terminmangel bei Ärzten sagt er: Das muss nicht sein.",
+   "u": "https://taz.de/Gesundheitspolitiker-zu-Reformen/!6229432/",
+   "q": "taz",
+   "d": "2026-11-15T18:56:00+00:00"
+  },
+  {
+   "t": "Hubertus Heil kandidiert für SPD-Vorsitz: Ich bin dann mal wieder da",
+   "s": "Hubertus Heil will SPD-Chef werden, damit die Partei wieder für etwas steht. Aber weiß der 54-Jährige überhaupt, wofür er steht?",
+   "u": "https://taz.de/Hubertus-Heil-kandidiert-fuer-SPD-Vorsitz/!6230098/",
+   "q": "taz",
+   "d": "2026-11-15T17:03:00+00:00"
+  },
   {
    "t": "Behörden in Sachsen-Anhalt: Wenn der Dienstherr blau wird",
    "s": "In einem Monat könnte in Sachsen-Anhalt die AfD regieren. Wie geht es damit Polizist:innen, Leh­re­r:in­nen und Mit­ar­bei­te­r:in­nen von Behörden?",
    "u": "https://taz.de/Behoerden-in-Sachsen-Anhalt/!6224530/",
    "q": "taz",
-   "d": "2026-11-15T08:23:00+00:00"
+   "d": "2026-11-15T13:46:00+00:00"
+  },
+  {
+   "t": "Ilse Aigner als Bundespräsidentin: Wofür sollen SPD und Grüne Ilse Aigner wählen?",
+   "s": "Bei der neuen Bundespräsidentin interessieren unseren Autor nicht Geschlecht, Partei oder Beziehungsstatus. Sondern, ob sie unsere Verfassung schützt.",
+   "u": "https://taz.de/Ilse-Aigner-als-Bundespraesidentin/!6224427/",
+   "q": "taz",
+   "d": "2026-11-15T13:33:00+00:00"
+  },
+  {
+   "t": "Empörung über Vorstoß zu Facharzttermin: Klingbeil gegen zusätzliche Kosten für Kassenpatienten",
+   "s": "Der Vorstoß von Kassenärzte-Chef Gassen, Geld für schnellere Termine beim Facharzt zu verlangen, stößt einhellig auf Kritik. Grüne warnen vor „Paywall-Medizin“.",
+   "u": "https://taz.de/Empoerung-ueber-Vorstoss-zu-Facharzttermin/!6230151/",
+   "q": "taz",
+   "d": "2026-11-15T11:39:00+00:00"
   },
   {
    "t": "Rennen um SPD-Vorsitz: Heil wirft seinen Hut",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Mehr-Geld-als-von-Klingbeil-veranschlagt/!6229767/",
    "q": "taz",
    "d": "2026-11-13T07:01:00+00:00"
-  },
-  {
-   "t": "Verhandlungen über Bundeshaushalt: Das bisschen Haushalt macht sich nicht von allein",
-   "s": "In der Union ist der Unmut nach der Haushaltseinigung groß: keine weiteren Entlastungen. „Vertrauensbruch“ gegenüber den Bür­ge­r:in­nen, sagen die Grünen.",
-   "u": "https://taz.de/Das-bisschen-Bundeshaushalt-macht-sich-nicht-von-allein/!6229578/",
-   "q": "taz",
-   "d": "2026-11-12T17:22:00+00:00"
-  },
-  {
-   "t": "Rot-Rot-Grün in Mecklenburg-Vorpommern: Timmy-Flüsterer Till Backhaus verliert Wal-Kompetenz",
-   "s": "Nach langen Verhandlungen einigt sich Rot-Rot-Grün in MV auf die künftige Verteilung der Ministerien. Ein SPD-Urgestein muss Abstriche machen.",
-   "u": "https://taz.de/Rot-Rot-Gruen-in-Mecklenburg-Vorpommern/!6229617/",
-   "q": "taz",
-   "d": "2026-11-12T17:20:00+00:00"
-  },
-  {
-   "t": "Frühkindliche Bildung: Bundestag beschließt Startchancen-Gesetz für Kitas",
-   "s": "Am Donnerstag hat der Bundestag über das Startchancen-Qualitätsentwicklungsgesetz abgestimmt. CDU/CSU, AfD und SPD stimmten dafür, Grüne und Linke dagegen.",
-   "u": "https://taz.de/Fruehkindliche-Bildung/!6229503/",
-   "q": "taz",
-   "d": "2026-11-12T17:19:00+00:00"
-  },
-  {
-   "t": "Reform der internationalen Rechtshilfe: Gegen Nacht-und-Nebel-Auslieferungen",
-   "s": "Der Bundestag will erstmals Rechtsmittel gegen Auslieferungsentscheidungen zulassen. Allerdings sollen gleiche Rich­te­r:in­nen erneut entscheiden.",
-   "u": "https://taz.de/Reform-der-internationalen-Rechtshilfe/!6229716/",
-   "q": "taz",
-   "d": "2026-11-12T16:41:00+00:00"
   }
  ]
 }

@@ -1,9 +1,30 @@
 {
  "name": "Kultur",
- "updated": "2026-11-15T10:55:25+00:00",
+ "updated": "2026-11-15T20:24:14+00:00",
  "items": [
   {
-   "t": "Argentiniens „Kettensägen“-Präsident: Javier Milei will erneut antreten",
+   "t": "US-Demokraten nach dem Wahlsieg: Chris van Hollen will Mehrheitsführer im US-Senat werden",
+   "s": "Der Aufstand innerhalb der Demokraten im US-Senat nimmt Gestalt an. Fraktionschef Chuck Schumer hat einen Gegenkandidaten.",
+   "u": "https://taz.de/US-Demokraten-nach-dem-Wahlsieg/!6230106/",
+   "q": "taz",
+   "d": "2026-11-15T15:41:00+00:00"
+  },
+  {
+   "t": "Bandengewalt in Haiti: El Salvador schickt Militär",
+   "s": "Auf Anordnung Präsident Bukeles sind 2.000 salvadorianische Soldaten zur Bandenbekämpfung in Haiti einmarschiert – ohne internationales Mandat.",
+   "u": "https://taz.de/Bandengewalt-in-Haiti/!6230128/",
+   "q": "taz",
+   "d": "2026-11-15T13:44:00+00:00"
+  },
+  {
+   "t": "Infektionen in Zeiten der Trump-Ära: USA verlieren Status „masernfrei“",
+   "s": "Deutschland war noch nie als masernfrei eingestuft, die USA waren es hingegen seit mehr als 25 Jahren. Nun wird der Status wohl aberkannt. Wie konnte es dazu kommen?",
+   "u": "https://taz.de/USA-verlieren-Status-masernfrei/!6230230/",
+   "q": "taz",
+   "d": "2026-11-15T13:28:00+00:00"
+  },
+  {
+   "t": "Argentiniens „Kettensägen“-Präsident: Javier Milei will noch einmal antreten",
    "s": "Milei strebt eine zweite Amtszeit an und rühmt den wirtschaftlichen Aufschwung unter seiner Ägide. Doch seine Politik bringt erhebliche soziale Härten mit sich.",
    "u": "https://taz.de/Argentiniens-Kettensaegen-Praesident/!6230090/",
    "q": "taz",
@@ -24,8 +45,8 @@
    "d": "2026-11-14T14:51:00+00:00"
   },
   {
-   "t": "Historischer Dreier beim APEC-Gipfel: Treffen sich Trump, Putin und Xi …",
-   "s": "… und reden doch nicht über den Ukraine-Krieg. Bei dem Gespräch am Rande des Gipfels in China am Donnerstag soll es um atomare Abrüstung und den Iran gehen.",
+   "t": "Historischer Dreier beim Apec-Gipfel: Treffen sich Trump, Putin und Xi …",
+   "s": "… und reden doch nicht über den Ukrainekrieg. Bei dem Gespräch am Rande des Gipfels in China am Donnerstag soll es um atomare Abrüstung und Iran gehen.",
    "u": "https://taz.de/Historischer-Dreier-beim-APEC-Gipfel/!6230035/",
    "q": "taz",
    "d": "2026-11-14T09:09:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Papst-Leo-XIV-besucht-Argentinien/!6228854/",
    "q": "taz",
    "d": "2026-11-10T12:16:00+00:00"
-  },
-  {
-   "t": "US-Bundesstaat Kalifornien: Volksabstimmung über Reichensteuer scheitert",
-   "s": "Die „Proposition 40“ sah vor, dass kalifornische Milliardäre eine einmalige Abgabe auf ihr Vermögen zahlen sollen. Auch von links gab es an dem Vorstoß Kritik.",
-   "u": "https://taz.de/Volkabstimmung-ueber-Reichensteuer-in-Kalifornien-scheitert/!6228844/",
-   "q": "taz",
-   "d": "2026-11-10T09:34:00+00:00"
-  },
-  {
-   "t": "Antrag auf Amtsenthebung: Teile der Republikaner wollen Hegseth loswerden",
-   "s": "Der scheidende Abgeordnete Thomas Massie bringt erneut ein Amtsenthebungsverfahren gegen Trumps Verteidigungsminister ins Spiel. Könnte es Erfolg haben?",
-   "u": "https://taz.de/Antrag-auf-Amtsenthebung/!6228836/",
-   "q": "taz",
-   "d": "2026-11-10T06:56:00+00:00"
-  },
-  {
-   "t": "Spionageverdacht bei Nvidia: Künstliche Intimität",
-   "s": "Die Affäre von Nvidia-Chef Huang soll von der chinesischen Staatssicherheit eingefädelt worden sein. Es wäre nicht die erste „Liebesfalle“ dieser Art.",
-   "u": "https://taz.de/Spionageverdacht-bei-Nvidia/!6228592/",
-   "q": "taz",
-   "d": "2026-11-09T16:55:00+00:00"
   }
  ]
 }
