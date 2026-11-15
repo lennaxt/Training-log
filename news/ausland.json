@@ -1,7 +1,14 @@
 {
  "name": "Ausland",
- "updated": "2026-11-14T19:56:15+00:00",
+ "updated": "2026-11-15T01:03:51+00:00",
  "items": [
+  {
+   "t": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
+   "s": "Eine Rakete, die wie ein ziviles Flugzeug eingesetzt werden kann, das ist das Ziel von SpaceX. Nun kann das \"Starship\"-System einen Erfolg verbuchen: Erstmals landete die etwa 50 Meter große obere Raketenstufe wieder auf der Erde.",
+   "u": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T23:12:16+00:00"
+  },
   {
    "t": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
    "s": "Die EU fordert Israel auf, sofort Helfer in den Gazastreifen zu lassen. Dort hatte heftiger Regen die Zelte von Zehntausenden Vertriebenen überschwemmt. Auch die Kälte wird zunehmend zur Gefahr.",
@@ -120,13 +127,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/oesterreich-orden-barmherzige-brueder-hohe-medikamentenpreise-100.html",
    "q": "Tagesschau",
    "d": "2026-11-13T12:02:42+00:00"
-  },
-  {
-   "t": "US-Einwanderungsbehörde ICE meldet Rekord bei Abschiebungen",
-   "s": "Fast eine halbe Million Menschen hat die US-Regierung binnen eines Jahres abgeschoben - laut eigenen Angaben. Das soll ein neuer Rekordwert sein. Es gibt aber Zweifel an der Transparenz der Daten.",
-   "u": "https://www.tagesschau.de/ausland/amerika/ice-einwanderungsbehoerde-abschiedbungen-rekord-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T10:38:44+00:00"
   },
   {
    "t": "Erleichterung für Industrie im EU-Emissionshandel",
