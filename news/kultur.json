@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-11-15T01:03:56+00:00",
+ "updated": "2026-11-15T10:55:25+00:00",
  "items": [
+  {
+   "t": "Argentiniens „Kettensägen“-Präsident: Javier Milei will erneut antreten",
+   "s": "Milei strebt eine zweite Amtszeit an und rühmt den wirtschaftlichen Aufschwung unter seiner Ägide. Doch seine Politik bringt erhebliche soziale Härten mit sich.",
+   "u": "https://taz.de/Argentiniens-Kettensaegen-Praesident/!6230090/",
+   "q": "taz",
+   "d": "2026-11-15T10:10:00+00:00"
+  },
   {
    "t": "Republikaner nach den Midterms: Angst und Gehorsam",
    "s": "Nach der krachenden Wahlniederlage bei den US-Zwischenwahlen ist innerhalb der Republikanischen Partei vieles ungewiss. Bricht die Post-Trump-Ära an?",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Spionageverdacht-bei-Nvidia/!6228592/",
    "q": "taz",
    "d": "2026-11-09T16:55:00+00:00"
-  },
-  {
-   "t": "Portrait Jensen Huang: Der Meister der KI und sein männlicher Trieb",
-   "s": "Der Nvidia-Chef Jensen Huang räumt eine Affäre mit einer Chinesin ein, die der US-Geheimdienst für eine Spionin hält, vor der er schon 2025 warnte.",
-   "u": "https://taz.de/Portrait-Jensen-Huang/!6228699/",
-   "q": "taz",
-   "d": "2026-11-09T15:22:00+00:00"
   }
  ]
 }

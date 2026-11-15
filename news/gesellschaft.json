@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-15T01:03:55+00:00",
+ "updated": "2026-11-15T10:55:24+00:00",
  "items": [
+  {
+   "t": "Sozialproteste in Frankreich: Erneut Zehntausende Menschen auf der Straße",
+   "s": "Den fünften Samstag in Folge fanden Demos gegen die Regierung statt. Der Protest blieb weitgehend friedlich; in Lyon wurde ein Fernsehteam attackiert.",
+   "u": "https://taz.de/Sozialproteste-in-Frankreich/!6230096/",
+   "q": "taz",
+   "d": "2026-11-15T10:34:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Ukraine greift russische Industrieanlagen an",
+   "s": "Ukrainische Drohnen haben einen der größten Komplexe der petrochemischen Industrie Russlands attackiert. Frankreichs Präsident Macron warnt vor einer Kürzung der Militärhilfe für Kyjiw.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6230067/",
+   "q": "taz",
+   "d": "2026-11-15T09:20:00+00:00"
+  },
+  {
+   "t": "Stadtgespräch aus Moskau: Von Lügen und Siegesfantasien",
+   "s": "Die Ohren spitzen genügt. Brutale Erfahrungen eines Insiders von der Front in der Ukraine, gehört im abendlichen Dunkel einer Moskauer Raucherecke.",
+   "u": "https://taz.de/Stadtgespraech-aus-Moskau/!6224381/",
+   "q": "taz",
+   "d": "2026-11-15T09:20:00+00:00"
+  },
   {
    "t": "Ungarischer Ex-Minister: Unmengen von Bargeld im Wald vergraben",
    "s": "Bei Ermittlungen gegen Miklos Sesztak werden 17,6 Millionen Euro sichergestellt. Das ehemalige Mitglied der Orbán-Regierung hatte es gut versteckt.",
@@ -17,13 +38,6 @@
    "d": "2026-11-14T13:29:00+00:00"
   },
   {
-   "t": "Stadtgespräch aus Moskau: Von Lügen und Siegesfantasien",
-   "s": "Die Ohren spitzen genügt. Brutale Erfahrungen eines Insiders von der Front in der Ukraine, gehört im abendlichen Dunkel einer Moskauer Raucherecke.",
-   "u": "https://taz.de/Stadtgespraech-aus-Moskau/!6224381/",
-   "q": "taz",
-   "d": "2026-11-14T11:43:00+00:00"
-  },
-  {
    "t": "Minderheitsregierung in den Niederlanden: Lieber Neustart als Neuwahlen",
    "s": "Ein Streit um die Steuerreform hatte die niederländische Regierung von Ministerpräsident Rob Jetten ins Wanken gebracht. Ein Bruch wurde abgewendet – vorerst.",
    "u": "https://taz.de/Minderheitsregierung-in-den-Niederlanden/!6230043/",
@@ -32,7 +46,7 @@
   },
   {
    "t": "Nach den Parlamentswahlen in Serbien: Gas geben, aber mit Bedacht",
-   "s": "In Serbien jagt eine Festnahmen die andere. Fast täglich werden Strafverfahren eingeleitet. Juristen warnen vor allzu großem Übereifer.",
+   "s": "In Serbien jagt eine Festnahme die andere. Fast täglich werden Strafverfahren eingeleitet. Juristen warnen vor allzu großem Übereifer.",
    "u": "https://taz.de/Nach-den-Parlamentswahlen-in-Serbien/!6229841/",
    "q": "taz",
    "d": "2026-11-14T09:41:00+00:00"
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Merz-und-der-EU-Haushalt/!6229182/",
    "q": "taz",
    "d": "2026-11-11T18:42:00+00:00"
-  },
-  {
-   "t": "EU-Streit um Ukraine-Hilfen: Wutbriefe, Befindlichkeiten und Streit ums Geld",
-   "s": "Die EU ringt bei den Verhandlungen für einen Waffenstillstand in der Ukraine um eine gemeinsame Position. Und der Kanzler? Sorgt vor allem für Streit.",
-   "u": "https://taz.de/EU-Streit-um-Ukraine-Hilfen/!6229257/",
-   "q": "taz",
-   "d": "2026-11-11T18:41:00+00:00"
-  },
-  {
-   "t": "Regierungsbildung in Schweden: Schwedens Zentrum flirtet mit rechts",
-   "s": "Schweden sucht weiter eine neue Regierung. Die links-grünen Wahlsieger werden sich uneinig. Nun gibt es Aufregung um ein Angebot der Rechtspopulisten.",
-   "u": "https://taz.de/Regierungsbildung-in-Schweden/!6229181/",
-   "q": "taz",
-   "d": "2026-11-11T17:00:00+00:00"
   }
  ]
 }

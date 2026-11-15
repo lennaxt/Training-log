@@ -1,7 +1,63 @@
 {
  "name": "Inland",
- "updated": "2026-11-15T01:03:51+00:00",
+ "updated": "2026-11-15T10:55:18+00:00",
  "items": [
+  {
+   "t": "Sicherheit in Syrien: Explosion in einem Vorort von Damaskus",
+   "s": "In Syrien tötet ein Sprengstoff-Attentat im drusisch geprägten Jaramana zwei Menschen. Der Vorfall löst Spekulationen aus und fördert spaltende Narrative.",
+   "u": "https://taz.de/Sicherheit-in-Syrien/!6230076/",
+   "q": "taz",
+   "d": "2026-11-15T10:46:00+00:00"
+  },
+  {
+   "t": "Sozialproteste in Frankreich: Erneut Zehntausende Menschen auf der Straße",
+   "s": "Den fünften Samstag in Folge fanden Demos gegen die Regierung statt. Der Protest blieb weitgehend friedlich; in Lyon wurde ein Fernsehteam attackiert.",
+   "u": "https://taz.de/Sozialproteste-in-Frankreich/!6230096/",
+   "q": "taz",
+   "d": "2026-11-15T10:34:00+00:00"
+  },
+  {
+   "t": "Argentiniens „Kettensägen“-Präsident: Javier Milei will erneut antreten",
+   "s": "Milei strebt eine zweite Amtszeit an und rühmt den wirtschaftlichen Aufschwung unter seiner Ägide. Doch seine Politik bringt erhebliche soziale Härten mit sich.",
+   "u": "https://taz.de/Argentiniens-Kettensaegen-Praesident/!6230090/",
+   "q": "taz",
+   "d": "2026-11-15T10:10:00+00:00"
+  },
+  {
+   "t": "Julia Klöckner: Nominierung Aigners „etwas Historisches“",
+   "s": "Bundestagspräsidentin Julia Klöckner (CDU) begrüßt die Nominierung von Ilse Aigner (CSU) als Kandidatin für das Amt der Bundespräsidentin. Dies sei ein Zeichen für alle Frauen, „aber auch für die Männer, denn ein Stück Normalität tritt dann ein“.Hamberger, Katharina",
+   "u": "https://www.deutschlandfunk.de/interview-kloeckner-julia-praesidentin-des-deutschen-bundestages-cdu-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-15T10:05:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Ukraine greift russische Industrieanlagen an",
+   "s": "Ukrainische Drohnen haben einen der größten Komplexe der petrochemischen Industrie Russlands attackiert. Frankreichs Präsident Macron warnt vor einer Kürzung der Militärhilfe für Kyjiw.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6230067/",
+   "q": "taz",
+   "d": "2026-11-15T09:20:00+00:00"
+  },
+  {
+   "t": "Stadtgespräch aus Moskau: Von Lügen und Siegesfantasien",
+   "s": "Die Ohren spitzen genügt. Brutale Erfahrungen eines Insiders von der Front in der Ukraine, gehört im abendlichen Dunkel einer Moskauer Raucherecke.",
+   "u": "https://taz.de/Stadtgespraech-aus-Moskau/!6224381/",
+   "q": "taz",
+   "d": "2026-11-15T09:20:00+00:00"
+  },
+  {
+   "t": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
+   "s": "Der Erste wagt sich aus der Deckung: Ex-Arbeitsminister Heil will die SPD führen. Was macht Parteichef Klingbeil? Tritt er beim Parteitag im Januar erneut für den Vorsitz an? Nun sprachen sich weitere namhafte SPD-Politiker für ihn aus.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T09:09:58+00:00"
+  },
+  {
+   "t": "Behörden in Sachsen-Anhalt: Wenn der Dienstherr blau wird",
+   "s": "In einem Monat könnte in Sachsen-Anhalt die AfD regieren. Wie geht es damit Polizist:innen, Leh­re­r:in­nen und Mit­ar­bei­te­r:in­nen von Behörden?",
+   "u": "https://taz.de/Behoerden-in-Sachsen-Anhalt/!6224530/",
+   "q": "taz",
+   "d": "2026-11-15T08:23:00+00:00"
+  },
   {
    "t": "Selbstzahlen oder lange Wartezeit? Kritik an Kassenärzte-Chef",
    "s": "Schneller zum Facharzt, wenn man den Termin selbst zahlt? Wegen der anstehenden Honorarkürzungen hält Kassenärzte-Chef Gassen das für wahrscheinlich. Er handelte sich damit deutliche Kritik ein.",
@@ -101,13 +157,6 @@
    "d": "2026-11-14T11:55:00+00:00"
   },
   {
-   "t": "Stadtgespräch aus Moskau: Von Lügen und Siegesfantasien",
-   "s": "Die Ohren spitzen genügt. Brutale Erfahrungen eines Insiders von der Front in der Ukraine, gehört im abendlichen Dunkel einer Moskauer Raucherecke.",
-   "u": "https://taz.de/Stadtgespraech-aus-Moskau/!6224381/",
-   "q": "taz",
-   "d": "2026-11-14T11:43:00+00:00"
-  },
-  {
    "t": "Kommentar zur Reform der Nachrichtendienste: Deutschland wird ein gutes Stück sicherer",
    "s": "BND und Verfassungsschutz bekommen mehr Befugnisse für die Abwehr von Terror, Spionage und Sabotage. Die Reform ist umstritten. Doch trotz aller Bedenken ist sie überfällig. Sie kann Deutschland sicherer und unabhängiger machen.Von Marcus Pindur",
    "u": "https://www.deutschlandfunk.de/kommentar-reform-nachrichtendienste-bnd-verfassungsschutz-100.html",
@@ -120,55 +169,6 @@
    "u": "https://taz.de/Minderheitsregierung-in-den-Niederlanden/!6230043/",
    "q": "taz",
    "d": "2026-11-14T11:24:00+00:00"
-  },
-  {
-   "t": "Wie es zu dem Ausfall an US-Amerikanischen Flughäfen kam",
-   "s": "In den USA hat es wegen technischer Probleme ein stundenlanges Flugverbot gegeben. Schuld daran war eine Störung der veralteten Kommunikationssysteme. Könnte das hierzulande auch passieren? Luftfahrtexperte Heinrich Großbongardt ordnet ein.Grieß, Thielko",
-   "u": "https://www.deutschlandfunk.de/nach-stoerung-im-us-flugverkehr-interv-luftfahrtexperte-heinrich-grossbongardt-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-14T11:15:39+00:00"
-  },
-  {
-   "t": "Causa Vanessa Emde: Der lange Anlauf zum Ausschluss",
-   "s": "Wenn Vanessa Emde Teil der Linksfraktion bleibt, wollen die Berliner SPD und Grünen nicht mit dieser koalieren. Einfach dürfte der Rauswurf nicht werden.",
-   "u": "https://taz.de/Causa-Vanessa-Emde/!6224457/",
-   "q": "taz",
-   "d": "2026-11-14T11:00:00+00:00"
-  },
-  {
-   "t": "Chinas Drohgebärden gegen Taiwan: Militärübung als „stille Einschüchterung“",
-   "s": "Kurz bevor Trump zum APEC-Gipfel nach Shenzhen reist, ließ China ein Militärmanöver nahe Taiwan durchführen. Dessen Dimension ist beispiellos.",
-   "u": "https://taz.de/Chinas-Drohgebaerden-gegen-Taiwan/!6230039/",
-   "q": "taz",
-   "d": "2026-11-14T10:39:00+00:00"
-  },
-  {
-   "t": "Abschiebung von Menschen mit Behinderung: Wie krank ist krank genug?",
-   "s": "Der 16-jährige William hat Dokumente, die belegen, dass er besonderen Schutzbedarf hat. Deutsche Behörden sehen keinen Grund, seine Abschiebung zu verbieten.",
-   "u": "https://taz.de/Abschiebung-von-Menschen-mit-Behinderung/!6224531/",
-   "q": "taz",
-   "d": "2026-11-14T10:27:00+00:00"
-  },
-  {
-   "t": "Bahn zieht positive Bilanz zu Alkoholverbot an Bahnhöfen",
-   "s": "Seit einem Monat ist bundesweit der Konsum von Alkohol an Bahnhöfen untersagt. Die Deutsche Bahn zeigt sich in einer ersten Bilanz zufrieden. Weniger Müll, weniger Konflikte - die Situation habe sich für Reisende und Mitarbeitende verbessert.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T10:07:05+00:00"
-  },
-  {
-   "t": "Nach den Parlamentswahlen in Serbien: Gas geben, aber mit Bedacht",
-   "s": "In Serbien jagt eine Festnahmen die andere. Fast täglich werden Strafverfahren eingeleitet. Juristen warnen vor allzu großem Übereifer.",
-   "u": "https://taz.de/Nach-den-Parlamentswahlen-in-Serbien/!6229841/",
-   "q": "taz",
-   "d": "2026-11-14T09:41:00+00:00"
-  },
-  {
-   "t": "Historischer Dreier beim APEC-Gipfel: Treffen sich Trump, Putin und Xi …",
-   "s": "… und reden doch nicht über den Ukraine-Krieg. Bei dem Gespräch am Rande des Gipfels in China am Donnerstag soll es um atomare Abrüstung und den Iran gehen.",
-   "u": "https://taz.de/Historischer-Dreier-beim-APEC-Gipfel/!6230035/",
-   "q": "taz",
-   "d": "2026-11-14T09:09:00+00:00"
   }
  ]
 }

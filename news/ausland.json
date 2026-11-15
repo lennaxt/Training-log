@@ -1,7 +1,49 @@
 {
  "name": "Ausland",
- "updated": "2026-11-15T01:03:51+00:00",
+ "updated": "2026-11-15T10:55:19+00:00",
  "items": [
+  {
+   "t": "Treibstoffmangel: Wie die Kubaner mit der Krise zurechtkommen",
+   "s": "Stromausfälle, Treibstoffmangel, steigende Preise: Die verschärften US-Sanktionen treffen die Menschen in Kuba hart. In Havanna versuchen sie, der Krise etwas entgegenzusetzen. Mit Musik, Unternehmergeist und Improvisation. Von Marie-Kristin Boese.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kuba-energiekrise-alltag-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T09:46:38+00:00"
+  },
+  {
+   "t": "Angriffe auf beiden Seiten: Ukraine und Russland melden Tote und Verletzte",
+   "s": "Erneut hat Russland mehrere Ziele in der Ukraine angegriffen. Dabei wurden am Abend drei Menschen getötet, allein aus Saporischschja wurden zuvor 22 Verletzte gemeldet, darunter Kinder. Russland meldete einen Toten durch ukrainische Angriffe.",
+   "u": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T09:42:23+00:00"
+  },
+  {
+   "t": "Papst Leo in Südamerika: Empfangen wie ein lang vermisster alter Freund",
+   "s": "Auf seiner bisher längsten Auslandsreise als Papst wird Leo XIV. vor allem in Peru und Argentinien begeistert empfangen. Welche Akzente hat er in seiner \"zweiten Heimat\" gesetzt? Eine erste Bilanz des Südamerika-Besuchs. Von Tilmann Kleinjung.",
+   "u": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-bilanz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T07:35:51+00:00"
+  },
+  {
+   "t": "Journalisten in Ägypten: Verbote, Drohungen und Gefängnisstrafen",
+   "s": "Journalisten in Ägypten sind enormem Druck ausgesetzt - teilweise werden ganze Redaktionen verhaftet. Mutige Journalisten versuchen dennoch weiterzumachen. Sie hoffen auf Solidarität aus dem Ausland. Von M. Behrendt.",
+   "u": "https://www.tagesschau.de/ausland/afrika/pressefreiheit-aegypten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T04:11:48+00:00"
+  },
+  {
+   "t": "Europamagazin: Ein Aufschwung, den die Spanier nicht spüren",
+   "s": "Die spanische Wirtschaft wächst - doch bei den Menschen kommt der Aufschwung nicht an. Wohnungskrise und hohe Lebenshaltungskosten beherrschen den Wahlkampf. Regierungschef Sánchez droht in zwei Wochen die Abwahl. Von Kristina Böker.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-wahlkampf-108.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T04:11:16+00:00"
+  },
+  {
+   "t": "Frankreich: Zehntausende bei Demos, rund 200 Festnahmen",
+   "s": "Erneut sind in Frankreich Zehntausende Menschen in mehreren Städten auf die Straßen gegangen. Sie forderten bessere Bildungschancen und eine Stärkung der Kaufkraft der Menschen. Die Behörden meldeten mehr als 200 Festnahmen.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-248.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T04:10:12+00:00"
+  },
   {
    "t": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
    "s": "Eine Rakete, die wie ein ziviles Flugzeug eingesetzt werden kann, das ist das Ziel von SpaceX. Nun kann das \"Starship\"-System einen Erfolg verbuchen: Erstmals landete die etwa 50 Meter große obere Raketenstufe wieder auf der Erde.",
@@ -22,13 +64,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html",
    "q": "Tagesschau",
    "d": "2026-11-14T18:49:48+00:00"
-  },
-  {
-   "t": "Protest bei der COP in Antalya: Mehr Klimagerechtigkeit gefordert",
-   "s": "Halbzeit bei der UN-Klimakonferenz, doch bisher gibt es kaum Ergebnisse - zum Frust der Aktivisten, die an einem Protestmarsch in Antalya teilnahmen. Sie wollen die Industriestaaten stärker zur Kasse bitten. Von B. Weber.",
-   "u": "https://www.tagesschau.de/ausland/europa/cop-tuerkei-protest-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T18:47:48+00:00"
   },
   {
    "t": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
@@ -94,13 +129,6 @@
    "d": "2026-11-14T00:51:37+00:00"
   },
   {
-   "t": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
-   "s": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege Bessent warf ihm Versäumnisse vor.",
-   "u": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T19:06:39+00:00"
-  },
-  {
    "t": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
    "s": "Lange wurde diskutiert, wer Europa bei Gesprächen mit Russland über ein Ende des Kriegs gegen die Ukraine vertreten soll. Nun gibt es eine Einigung: Das Team bilden Vertreter der EU-Institutionen und aus fünf Ländern - darunter auch Deutschland.",
    "u": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-treffen-dublin-ukraine-100.html",
    "q": "Tagesschau",
    "d": "2026-11-13T09:38:13+00:00"
-  },
-  {
-   "t": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
-   "s": "Von Putin zu Selenskyj - die US-Unterhändler Kushner und Witkoff kommen mit Ankündigungen aus Moskau nach Dublin. Bei den Verhandlungen sollen künftig auch die Europäer teilnehmen.",
-   "u": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T02:19:34+00:00"
-  },
-  {
-   "t": "Spanisches Parlament beschließt Maßnahmen für mehr Mieterschutz",
-   "s": "Spaniens Übergangsparlament hat mit einer Stimme Mehrheit Maßnahmen der linken Minderheitsregierung für mehr Mieterschutz angenommen. Die konservative PP-Partei will das Dekret wieder kippen. In zwei Wochen wird in Spanien gewählt.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-parlament-wohnungsdekret-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T16:21:41+00:00"
-  },
-  {
-   "t": "Iran-Krieg: Eisenkot ruft Netanjahu zu Zurückhaltung auf",
-   "s": "Seit Tagen wird spekuliert, dass Israels Premier Netanjahu neue Angriffe auf Iran planen könnte. Oppositionschef Eisenkot, der derzeit versucht, eine Regierung ohne Netanjahu zu bilden, warnt diesen jetzt vor \"gefährlichen Schritten\".",
-   "u": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T14:28:14+00:00"
-  },
-  {
-   "t": "Erneut Bombendrohungen gegen hunderte Schulen in Italien",
-   "s": "In Italien sind erneut Bombendrohungen an Schulen gesendet worden. Es sollen etwa 1.600 Einrichtungen betroffen sein. Die Regierung will Gebäude künftig nur noch räumen lassen, wenn konkrete Hinweise auf eine Gefahr vorliegen.",
-   "u": "https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T14:25:28+00:00"
   }
  ]
 }

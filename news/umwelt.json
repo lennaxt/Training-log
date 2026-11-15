@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-15T01:03:54+00:00",
+ "updated": "2026-11-15T10:55:23+00:00",
  "items": [
+  {
+   "t": "Behörden in Sachsen-Anhalt: Wenn der Dienstherr blau wird",
+   "s": "In einem Monat könnte in Sachsen-Anhalt die AfD regieren. Wie geht es damit Polizist:innen, Leh­re­r:in­nen und Mit­ar­bei­te­r:in­nen von Behörden?",
+   "u": "https://taz.de/Behoerden-in-Sachsen-Anhalt/!6224530/",
+   "q": "taz",
+   "d": "2026-11-15T08:23:00+00:00"
+  },
   {
    "t": "Rennen um SPD-Vorsitz: Heil wirft seinen Hut",
    "s": "… als Erster in den Ring. Der ehemalige Arbeitsminister Hubertus Heil gab bekannt, für den SPD-Vorsitz kandidieren zu wollen. Wer könnte noch?",
@@ -11,7 +18,7 @@
   },
   {
    "t": "Die Zukunft von Gen Z regelt: Zwischen Bundestag und Barrikade",
-   "s": "Juli Felder (17) und Lina Friedrich (21) wollen beide als Gen Z regelt die Gesellschaft verändern, aber streiten über den Weg dahin. Was wird aus der Bewegung?",
+   "s": "Juli Felder (17) und Lina Friedrich (21) wollen beide als Gen Z regelt die Gesellschaft verändern. Doch sie streiten über den Weg dahin.",
    "u": "https://taz.de/Die-Zukunft-von-Gen-Z-regelt/!6224382/",
    "q": "taz",
    "d": "2026-11-14T18:50:00+00:00"
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Reform-der-internationalen-Rechtshilfe/!6229716/",
    "q": "taz",
    "d": "2026-11-12T16:41:00+00:00"
-  },
-  {
-   "t": "Einkommensgrenze bei Unterhaltsvorschuss: Ab 4.500 Euro gibt's nix",
-   "s": "Wenn ein Elternteil den Unterhalt nicht zahlt, bekamen Alleinerziehende bislang Unterstützung vom Staat. Für manche könnte sich das bald ändern.",
-   "u": "https://taz.de/Einkommensgrenze-bei-Unterhaltsvorschuss/!6229502/",
-   "q": "taz",
-   "d": "2026-11-12T15:56:00+00:00"
   }
  ]
 }

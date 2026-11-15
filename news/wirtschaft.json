@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-15T01:03:52+00:00",
+ "updated": "2026-11-15T10:55:21+00:00",
  "items": [
+  {
+   "t": "Warum Azubis in der Autoindustrie anfangen - trotz Krisenstimmung",
+   "s": "Unzählige Arbeitsplätze in Gefahr, Werke vor dem Aus, milliardenschwere Sparprogramme: Es ist ein schwieriger Zeitpunkt für den Berufseinstieg in der deutschen Autoindustrie. Warum sich dieser dennoch lohnen kann. Von Christof Dörr.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ausbildung-volkswagen-trotz-krise-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T07:41:03+00:00"
+  },
   {
    "t": "Die neue Gefahr durch Künstliche Intelligenz",
    "s": "Cyberkriminelle nutzen KI, um Angriffe zu automatisieren. Banken setzen die Technologie zur Abwehr ein. Sicherheitsexperten sprechen von einem Wettlauf zwischen den KI-Systemen der Angreifer und denen der Banken. Von Sabina Wolf.",
@@ -15,13 +22,6 @@
    "u": "https://www.deutschlandfunk.de/deutsche-bahn-konkurrenz-flixtrain-italo-fernverkehr-regionen-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-11-14T11:55:00+00:00"
-  },
-  {
-   "t": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
-   "s": "Probleme bei Microsoft hatten zentrale Cloud-Dienste stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen. Laut Microsoft laufen nun alle Systeme wieder. Hinweise auf böswillige Aktivitäten gebe es nicht.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T10:17:44+00:00"
   },
   {
    "t": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
