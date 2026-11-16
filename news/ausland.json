@@ -1,7 +1,21 @@
 {
  "name": "Ausland",
- "updated": "2026-11-15T20:24:08+00:00",
+ "updated": "2026-11-16T01:03:22+00:00",
  "items": [
+  {
+   "t": "Entscheidende Woche bei der Weltklimakonferenz COP31 beginnt",
+   "s": "In Antalya geht die Weltklimakonferenz in die entscheidende Phase: Die Ministerinnen und Minister kommen. Für Bundesumweltminister Schneider gibt es viel zu tun - und Erfolg dürfte wohl auch von Geldzusagen abhängen. Von J. Schreiber.",
+   "u": "https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T00:35:10+00:00"
+  },
+  {
+   "t": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+   "s": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge zum Nachbarland.",
+   "u": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-15T20:44:43+00:00"
+  },
   {
    "t": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
    "s": "Eisenkot oder Netanjahu? Die Parlamentswahl in Israel brachte keine eindeutige Antwort. Derzeit sucht Oppositionspolitiker Eisenkot nach Partnern für eine Koalition. Noch-Premier Netanjahu hat seine eigenen Vorstellungen. Von B. Meier.",
@@ -22,13 +36,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
    "q": "Tagesschau",
    "d": "2026-11-15T17:31:41+00:00"
-  },
-  {
-   "t": "Estland schließt ab Dezember Grenzübergänge nach Russland",
-   "s": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge zum Nachbarland.",
-   "u": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-15T16:52:46+00:00"
   },
   {
    "t": "Massenprotest gegen Rundfunkreform in Tschechien",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
    "q": "Tagesschau",
    "d": "2026-11-13T18:44:23+00:00"
-  },
-  {
-   "t": "Ukraine und Russland greifen sich trotz Verhandlungen weiter an",
-   "s": "Trotz intensiver Verhandlungen über ein Ende des Ukraine-Krieges dauern die gegenseitigen Angriffe zwischen Kiew und Moskau an. Russland meldet sieben Tote, in der Ukraine wurden mindestens zwei Menschen getötet.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T17:15:20+00:00"
   }
  ]
 }

@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-15T20:24:13+00:00",
+ "updated": "2026-11-16T01:03:26+00:00",
  "items": [
+  {
+   "t": "Nato-Mitgliedschaft für Gebietsverzicht: Die Nebelkerze vom Donbass",
+   "s": "US-Unterhändler suggerieren, bei Rückzug aus dem Donbass könne die Ukraine in die Nato. Sie sollten lieber der Ukraine helfen, im Krieg zu bestehen.",
+   "u": "https://taz.de/Nato-Mitgliedschaft-fuer-Gebietsverzicht/!6230163/",
+   "q": "taz",
+   "d": "2026-11-15T19:07:00+00:00"
+  },
   {
    "t": "Grenzschließung in Estland: Tallinn macht dicht",
    "s": "Estland macht den russischen Geheimdienst für Sabotage auf einen Drohnenhersteller verantwortlich – und schließt ab 1. Dezember die Grenzen zu Russland.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Verhandlungen-in-Abu-Dhabi/!6229151/",
    "q": "taz",
    "d": "2026-11-12T12:01:00+00:00"
-  },
-  {
-   "t": "Schulen im Visier: Bombenwarnungen lösen Chaos in Europa aus",
-   "s": "Irland, Großbritannien, Italien, Bulgarien, Frankreich: Immer mehr EU-Staaten werden durch Droh-E-Mails und Cyberattacken drangsaliert.",
-   "u": "https://taz.de/Kurz-vor-eurorpaeischen-Gipfel-Treffen/!6229416/",
-   "q": "taz",
-   "d": "2026-11-12T11:01:00+00:00"
   }
  ]
 }
