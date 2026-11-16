@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-16T01:03:26+00:00",
+ "updated": "2026-11-16T11:21:33+00:00",
  "items": [
+  {
+   "t": "Britische Beziehungen zur EU: Andy Burnham erklärt Johnsons Brexit-Deal für gescheitert",
+   "s": "Gebrochene Versprechen, unerfüllte Hoffnungen: Andy Burnham rechnet mit Boris Johnsons Brexit-Deal ab und will einen Neustart der Beziehungen zu Brüssel.",
+   "u": "https://taz.de/Britische-Beziehungen-zur-EU/!6230303/",
+   "q": "taz",
+   "d": "2026-11-16T08:45:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Rüsten für den Winter",
+   "s": "Die EU-Außenminister beraten über die nächsten Schritte für die Ukraine. Der Kreml kritisiert Grenzschließung Estlands und meldet ukrainische Angriffe.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6230297/",
+   "q": "taz",
+   "d": "2026-11-16T08:09:00+00:00"
+  },
   {
    "t": "Nato-Mitgliedschaft für Gebietsverzicht: Die Nebelkerze vom Donbass",
    "s": "US-Unterhändler suggerieren, bei Rückzug aus dem Donbass könne die Ukraine in die Nato. Sie sollten lieber der Ukraine helfen, im Krieg zu bestehen.",
@@ -11,7 +25,7 @@
   },
   {
    "t": "Grenzschließung in Estland: Tallinn macht dicht",
-   "s": "Estland macht den russischen Geheimdienst für Sabotage auf einen Drohnenhersteller verantwortlich – und schließt ab 1. Dezember die Grenzen zu Russland.",
+   "s": "Estland macht den russischen Geheimdienst für Sabotage bei einem Drohnenhersteller verantwortlich – und schließt ab 1. Dezember die Grenzen zu Russland.",
    "u": "https://taz.de/Sabotageversuch-in-Estland/!6230290/",
    "q": "taz",
    "d": "2026-11-15T18:07:00+00:00"
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Europaeische-Politische-Gemeinschaft/!6229580/",
    "q": "taz",
    "d": "2026-11-12T18:58:00+00:00"
-  },
-  {
-   "t": "Schlapphüte in Österreich: Wien will kein Agentenparadies mehr sein",
-   "s": "Österreich verschärft seine Spionagegesetze. Grund dafür ist laut Regierung das „deutlich aggressivere“ Vorgehen fremder Nachrichtendienste.",
-   "u": "https://taz.de/Schlapphuete-in-Oesterreich/!6229646/",
-   "q": "taz",
-   "d": "2026-11-12T17:26:00+00:00"
-  },
-  {
-   "t": "Verhandlungen in Abu Dhabi: Die systematische Vernichtung der Ukraine",
-   "s": "Während erneut über die Ukraine verhandelt wird, zerstört Russland weiter systematisch Häfen und Energieanlagen. Die Ukrainer haben keine Hoffnung auf Frieden.",
-   "u": "https://taz.de/Verhandlungen-in-Abu-Dhabi/!6229151/",
-   "q": "taz",
-   "d": "2026-11-12T12:01:00+00:00"
   }
  ]
 }

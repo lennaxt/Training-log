@@ -1,20 +1,69 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-16T01:03:23+00:00",
+ "updated": "2026-11-16T11:21:29+00:00",
  "items": [
+  {
+   "t": "Offshore-Windparks: Bundesregierung macht millionenschweres Angebot",
+   "s": "In der Offshore-Branche stehen viele Projekte auf der Kippe. Nun hat das Wirtschaftsministerium der Energiebranche ein Angebot vorgelegt. Dem NDR liegt das Eckpunktepapier vor. Von Verena von Ondarza.",
+   "u": "https://www.tagesschau.de/investigativ/ndr/offshore-bundesregierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T11:08:19+00:00"
+  },
+  {
+   "t": "EU gibt UniCredit grünes Licht für Commerzbank-Übernahme",
+   "s": "Die EU hat ihr Go für die umstrittene Übernahme der Commerzbank durch die italienische Großbank UniCredit gegeben. Die Kommission sieht \"keine wettbewerbsrechtlichen Bedenken\". Die Fusion rückt näher.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T11:04:47+00:00"
+  },
+  {
+   "t": "Marktbericht: Anleger bleiben vor Nvidia-Bilanz vorsichtig",
+   "s": "Das Thema Nvidia bleibt auch in der neuen Woche aktuell: Bevor der Chipkonzern am Dienstag seine Bilanz vorstellt, könnten die Investoren zurückhaltend bleiben. Zum Wochenstart rührt sich der DAX bisher kaum.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T09:58:43+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 16.11.2026",
+   "s": "Update Wirtschaft vom 16.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1684508.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T08:54:49+00:00"
+  },
+  {
+   "t": "Ex-Nvidia-Chef Huang arbeitet offenbar bereits an seinem Comeback",
+   "s": "Seine Affären - auch mit einer mutmaßlichen chinesischen Spionin - haben mehr als eine Billion Dollar Börsenwert vernichtet. Damit war der Rücktritt des Nvidia-Chefs unvermeidlich. Nun plant Jensen Huang offenbar bereits sein Comeback.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-chefposten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T08:07:28+00:00"
+  },
+  {
+   "t": "Altersvorsorgedepot: Wie aus Sparern Anleger werden",
+   "s": "Zum Beginn des neuen Jahres kommt das staatlich geförderte Altersvorsorgedepot. Durch steuerliche Zulagen bietet der Staat Anreize zur privaten Altersvorsorge am Kapitalmarkt. Kann das die deutschen Sparer überzeugen? Von Bianca von der Au.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-rente-aktienmarkt-sparplan-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T08:02:35+00:00"
+  },
+  {
+   "t": "Missglückter Raketenstart: Amazon verliert 40 Satelliten",
+   "s": "Techmilliardär Musks Starlink-Netzwerk dominiert, aber Amazon will ihm Konkurrenz machen. Nun muss das Unternehmen von Jeff Bezos aber einen Rückschlag hinnehmen - und der könnte langfristige Folgen haben.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T06:48:12+00:00"
+  },
+  {
+   "t": "Pläne der Bundesregierung: Juristen zweifeln an Gesetz gegen Vergesellschaftung",
+   "s": "Die Bundesregierung will Ländern die Vergesellschaftung großer Wohnungsbestände erschweren. Ein Gutachten im Auftrag der Linken kommt jedoch zu dem Schluss: Das geplante Investitionsschutzgesetz könnte in Karlsruhe scheitern. Von Alexander Budweg.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/investitionsschutzgesetz-dobrindt-gutachten-verfassungswidrig-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T05:03:11+00:00"
+  },
   {
    "t": "Quallenzucht: Ein Geschäftsmodell, das sich lohnt",
    "s": "Für die einen ist es eine Plage am Badestrand, für andere ein Geschäftsmodell: In Osthessen steht Europas größte Quallenfarm. Warum sich die Zucht der Nesseltiere wirtschaftlich lohnt. Von Christof Dörr.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/quallenzucht-100.html",
    "q": "Tagesschau",
    "d": "2026-11-15T14:58:36+00:00"
-  },
-  {
-   "t": "Krise im Handwerk: \"Stilles Sterben der Betriebe\"",
-   "s": "Weniger Aufträge, steigende Kosten: Handwerkspräsident Dittrich warnt davor, dass die Branche bis zu 80.000 Arbeitsplätze pro Jahr verlieren könnte - wenn nicht gegengesteuert wird.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-15T11:15:26+00:00"
   },
   {
    "t": "Mehr Wettbewerb im Fernverkehr – auf Kosten ländlicher Regionen?",
@@ -31,6 +80,13 @@
    "d": "2026-11-14T09:55:34+00:00"
   },
   {
+   "t": "Warum in Polen schneller gebaut wird als in Deutschland",
+   "s": "Wird in Polen eine neue Straße oder Brücke errichtet, geht es deutlich schneller als westlich der Oder in Deutschland. Fachleuten zufolge gibt es dafür mehrere Gründe. Von Andre Kartschall und Jakub Paczkowski.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T07:24:30+00:00"
+  },
+  {
    "t": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
    "s": "Nach den weltweiten IT-Störungen scheint sich die Lage vor allem in Nordamerika und Europa zu entspannen. Das US-Technologieunternehmen Microsoft spricht von zum Teil \"umfassenden Verbesserungen\".",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
@@ -43,13 +99,6 @@
    "u": "https://www.tagesschau.de/video/video-1683484.html",
    "q": "Tagesschau",
    "d": "2026-11-13T19:05:55+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX schwächelt nach Allzeithoch",
-   "s": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T17:57:57+00:00"
   },
   {
    "t": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
@@ -87,13 +136,6 @@
    "d": "2026-11-13T09:12:03+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 13.11.2026",
-   "s": "Update Wirtschaft vom 13.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1683034.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T09:11:38+00:00"
-  },
-  {
    "t": "Welche Folgen Nvidias Absturz für die KI-Branche hat",
    "s": "Mit dem Abgang von Nvidia-Gründer Huang verliert das Unternehmen seinen visionären Vordenker. Was bedeutet das jetzt für das Unternehmen selbst und die Konkurrenz? Von R. Spiegelhauer.",
    "u": "https://www.tagesschau.de/wirtschaft/nvidia-ruecktritt-folgen-ki-branche-100.html",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
    "q": "Tagesschau",
    "d": "2026-11-12T17:31:15+00:00"
-  },
-  {
-   "t": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
-   "s": "Er war nicht nur Chef, sondern auch Gesicht von Nvidia: Jensen Huang formte den Chip-Riesen maßgeblich - als \"sympathischer Tech-Bro\" mit guten Kontakten zur Trump-Regierung. Bis er zum Risiko wurde. Von Gabi Biesinger.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rolle-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T16:17:54+00:00"
-  },
-  {
-   "t": "Warum immer mehr Menschen in die Schuldenfalle rutschen",
-   "s": "Die Zahl überschuldeter Menschen in Deutschland steigt im zweiten Jahr in Folge. Auslöser einer finanziellen Notlage sind häufig Krankheit, Sucht, Unfälle oder Arbeitslosigkeit. Betroffen sind vor allem Jüngere.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/mehr-menschen-ueberschuldet-schuldneratlas-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T11:31:51+00:00"
-  },
-  {
-   "t": "Was Experten raten: Wie es mit dem Jobwechsel klappen kann",
-   "s": "Stellenstreichungen in der Industrie, Künstliche Intelligenz oder Unzufriedenheit können Gründe sein, sich beruflich neu zu orientieren. Doch was ist beim Jobwechsel zu beachten? Experten haben dafür Tipps. Von Lidia Wagner.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/jobwechsel-beruf-neuorientierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T07:29:46+00:00"
-  },
-  {
-   "t": "Urteil: BGH nimmt Rechtsschutzversicherungen in die Pflicht",
-   "s": "Klagen gegen Impfstoffhersteller sind seit der Corona-Pandemie keine Seltenheit. Häufig wollen Versicherungen diese nicht unterstützen - wegen vermeintlich geringer Erfolgschancen. Oft zu Unrecht, urteilte nun der BGH. Von A. Stein.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T18:46:53+00:00"
-  },
-  {
-   "t": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
-   "s": "Die Wirtschaft wächst wieder stärker - doch der Sachverständigenrat der Bundesregierung fordert harte Sparmaßnahmen. Und bringt eine Art \"Soli\" für Verteidigung ins Spiel. Von Alina Leimbach.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T13:30:06+00:00"
-  },
-  {
-   "t": "Wie trotz Blockade der Straße von Hormus Öl aus der Region fließt",
-   "s": "Trotz der Blockade der Straße von Hormus ist zuletzt wieder mehr Öl auf den Weltmarkt gelangt. Eine NDR-Analyse von Schiffsdaten zeigt, warum die Preise dennoch hoch blieben. Von Katharina Bews und Alice Pesavento.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/iran-krieg-oel-golfstaaten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T12:21:57+00:00"
   }
  ]
 }

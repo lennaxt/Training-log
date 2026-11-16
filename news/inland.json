@@ -1,7 +1,91 @@
 {
  "name": "Inland",
- "updated": "2026-11-16T01:03:21+00:00",
+ "updated": "2026-11-16T11:21:27+00:00",
  "items": [
+  {
+   "t": "Flüchtlingsabschiebungen aus Europa: Dobrindt und seine Kollegen setzen auf Ruanda",
+   "s": "Mehrere europäische Länder wollen abgelehnte Asylbewerber nach Ruanda abschieben. Aufnahme fänden sie in international finanzierten Einrichtungen.",
+   "u": "https://taz.de/Fluechtlingsabschiebungen-aus-Europa/!6230317/",
+   "q": "taz",
+   "d": "2026-11-16T11:11:00+00:00"
+  },
+  {
+   "t": "Britische Beziehungen zur EU: Andy Burnham erklärt Johnsons Brexit-Deal für gescheitert",
+   "s": "Gebrochene Versprechen, unerfüllte Hoffnungen: Andy Burnham rechnet mit Boris Johnsons Brexit-Deal ab und will einen Neustart der Beziehungen zu Brüssel.",
+   "u": "https://taz.de/Britische-Beziehungen-zur-EU/!6230303/",
+   "q": "taz",
+   "d": "2026-11-16T08:45:00+00:00"
+  },
+  {
+   "t": "Söder hält Stromsteuersenkung doch noch für möglich",
+   "s": "Morgen ist die umstrittene Stromsteuer Thema im Koalitionsausschuss. CSU-Chef Söder glaubt noch an eine Einigung und nennt Möglichkeiten, die Milliarden für eine Senkung aufzutreiben. An ein Thema will er aber nicht ran.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-soeder-stromsteuer-moeglich-koalition-muetterrente-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T08:24:05+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Rüsten für den Winter",
+   "s": "Die EU-Außenminister beraten über die nächsten Schritte für die Ukraine. Der Kreml kritisiert Grenzschließung Estlands und meldet ukrainische Angriffe.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6230297/",
+   "q": "taz",
+   "d": "2026-11-16T08:09:00+00:00"
+  },
+  {
+   "t": "Immer mehr Angriffe: BKA-Chef Münch fordert Ausbau der Cyberabwehr",
+   "s": "Deutschland sollte nach Auffassung von BKA-Chef Münch Schwachstellen bei der Abwehr von Cyberangriffen schnell schließen. Die Attacken würden mehr, schneller und professioneller, sagte er im ARD-Morgenmagazin.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/cyberangriffe-abwehr-bka-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T08:05:48+00:00"
+  },
+  {
+   "t": "Abschiebezentrum in Ruanda: SPD-Abgeordnete und Grünen-Chef gegen „Return Hubs“",
+   "s": "Bundesinnenminister Dobrindt (CSU) treibt in Wien Pläne für Abschiebezentren außerhalb der EU voran. Ein Standort soll Ruanda sein. Die SPD kritisiert das.",
+   "u": "https://taz.de/Abschiebelager-in-Ruanda/!6230295/",
+   "q": "taz",
+   "d": "2026-11-16T07:49:00+00:00"
+  },
+  {
+   "t": "Richtungsstreit im BSW: Gründungsmitglieder des BSW fordern Distanz zur AfD",
+   "s": "Nach der Landtagswahl in Sachsen-Anhalt hat das BSW mehrfach mit der AfD gestimmt. In der Wagenknecht-Partei wächst die Sorge vor einem Ruck nach rechts.",
+   "u": "https://taz.de/Richtungsstreit-im-BSW/!6230294/",
+   "q": "taz",
+   "d": "2026-11-16T07:23:00+00:00"
+  },
+  {
+   "t": "Abschiebung nach Ruanda: EU-Staaten planen \"Return Hubs\"",
+   "s": "Rund 240.000 ausreisepflichtige Asylsuchende gibt es hierzulande. Um sie abzuschieben, wollen Deutschland und vier weitere EU-Länder in Ruanda ein „Return Hub“ eröffnen. Doch es gibt viele offene Fragen, sagt Völkerrechtler Daniel Thym.Grieß, Thielko",
+   "u": "https://www.deutschlandfunk.de/return-hub-ausserhalb-der-eu-interview-mit-dem-voelkerrechtler-daniel-thym-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-16T07:11:30+00:00"
+  },
+  {
+   "t": "Deutsche Stahlindustrie: Zwischen Wasserstoff und Wettbewerbsdruck",
+   "s": "Die deutsche Stahlindustrie steht unter Druck. Die Unternehmen fordern mehr Unterstützung durch die Politik. Niedersachsens Wirtschaftsminister Grant Hendrik Tonne setzt auf günstigeren Strom und hofft auf eine neue Energiequelle.Grieß, Thielko",
+   "u": "https://www.deutschlandfunk.de/vor-dem-stahlgipfel-int-grant-hendrik-tonne-spd-wirtschaftsminister-nds-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-16T06:15:00+00:00"
+  },
+  {
+   "t": "Informatiker über KI in Asylverfahren: „So verlässlich, wie zufällig Leute auf der Straße zu fragen“",
+   "s": "Die Bundesregierung will KI in Asylverfahren einsetzen. Informatikprofessor Alexander Steen sieht kaum Vorteile – und dafür viele Gefahren.",
+   "u": "https://taz.de/Informatiker-ueber-KI-in-Asylverfahren/!6225758/",
+   "q": "taz",
+   "d": "2026-11-16T06:05:00+00:00"
+  },
+  {
+   "t": "Schleswig-Holstein: Open Source statt Microsoft",
+   "s": "„IT ist kritische Infrastruktur“, sagt Dirk Schrödter zum jüngsten Ausfall von Microsoft-Produkten. Schleswig-Holsteins Digitalminister steuert gegen. Die Verwaltung nutzt nur noch Open Source. Kiel setzt auch auf Erfahrungen eines anderen Landes.Grieß, Thielko",
+   "u": "https://www.deutschlandfunk.de/digitale-abhaengigkeit-int-dirk-schroedter-chef-der-staatskanzlei-in-kiel-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-16T05:50:00+00:00"
+  },
+  {
+   "t": "Pläne der Bundesregierung: Juristen zweifeln an Gesetz gegen Vergesellschaftung",
+   "s": "Die Bundesregierung will Ländern die Vergesellschaftung großer Wohnungsbestände erschweren. Ein Gutachten im Auftrag der Linken kommt jedoch zu dem Schluss: Das geplante Investitionsschutzgesetz könnte in Karlsruhe scheitern. Von Alexander Budweg.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/investitionsschutzgesetz-dobrindt-gutachten-verfassungswidrig-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T05:03:11+00:00"
+  },
   {
    "t": "Nato-Mitgliedschaft für Gebietsverzicht: Die Nebelkerze vom Donbass",
    "s": "US-Unterhändler suggerieren, bei Rückzug aus dem Donbass könne die Ukraine in die Nato. Sie sollten lieber der Ukraine helfen, im Krieg zu bestehen.",
@@ -25,7 +109,7 @@
   },
   {
    "t": "Grenzschließung in Estland: Tallinn macht dicht",
-   "s": "Estland macht den russischen Geheimdienst für Sabotage auf einen Drohnenhersteller verantwortlich – und schließt ab 1. Dezember die Grenzen zu Russland.",
+   "s": "Estland macht den russischen Geheimdienst für Sabotage bei einem Drohnenhersteller verantwortlich – und schließt ab 1. Dezember die Grenzen zu Russland.",
    "u": "https://taz.de/Sabotageversuch-in-Estland/!6230290/",
    "q": "taz",
    "d": "2026-11-15T18:07:00+00:00"
@@ -85,90 +169,6 @@
    "u": "https://www.tagesschau.de/inland/gesellschaft/volkstrauertag-bundestag-104.html",
    "q": "Tagesschau",
    "d": "2026-11-15T15:24:11+00:00"
-  },
-  {
-   "t": "Krieg im Jemen: Raketen auf Hafenstadt erzwingen Rückzug",
-   "s": "Die proiranische Huthi-Miliz bedroht die von der Regierung gehaltene Stadt Aden. Nun werden zu deren Schutz Truppen verlegt – weg von der Meerenge Bab al-Mandab.",
-   "u": "https://taz.de/Krieg-im-Jemen/!6230263/",
-   "q": "taz",
-   "d": "2026-11-15T15:17:00+00:00"
-  },
-  {
-   "t": "Regierungskrise in den Niederlanden: Millionärssteuer setzt die „Notlösung“ unter Druck",
-   "s": "Die niederländische Minderheitsregierung ringt in geheimer Klausur um ihren Fortbestand. Koalitionspartnerin VVD treibt den Preis in die Höhe.",
-   "u": "https://taz.de/Regierungskrise-in-den-Niederlanden/!6230077/",
-   "q": "taz",
-   "d": "2026-11-15T15:08:00+00:00"
-  },
-  {
-   "t": "Krieg in Afghanistan: Internationaler Strafgerichtshof lässt USA vom Haken",
-   "s": "Die Untersuchung von Kriegsverbrechen des US-Militärs und ihrer afghanischer Verbündeter soll eingestellt werden. Men­schen­recht­le­r:in­nen üben Kritik.",
-   "u": "https://taz.de/Krieg-in-Afghanistan/!6230121/",
-   "q": "taz",
-   "d": "2026-11-15T14:43:00+00:00"
-  },
-  {
-   "t": "Luftverkehr in China: In Peking keine Drohnen mehr erlaubt",
-   "s": "In der chinesischen Haupstadt sind die unbemannten Flugobjekte für Privatleute ab heute tabu. Wer jetzt noch welche besitzt, dem drohen Geldstrafen.",
-   "u": "https://taz.de/Drohnenbesitz-Verbot-in-Peking-in-Kraft-getreten/!6230247/",
-   "q": "taz",
-   "d": "2026-11-15T14:37:00+00:00"
-  },
-  {
-   "t": "Behörden in Sachsen-Anhalt: Wenn der Dienstherr blau wird",
-   "s": "In einem Monat könnte in Sachsen-Anhalt die AfD regieren. Wie geht es damit Polizist:innen, Leh­re­r:in­nen und Mit­ar­bei­te­r:in­nen von Behörden?",
-   "u": "https://taz.de/Behoerden-in-Sachsen-Anhalt/!6224530/",
-   "q": "taz",
-   "d": "2026-11-15T13:46:00+00:00"
-  },
-  {
-   "t": "Bandengewalt in Haiti: El Salvador schickt Militär",
-   "s": "Auf Anordnung Präsident Bukeles sind 2.000 salvadorianische Soldaten zur Bandenbekämpfung in Haiti einmarschiert – ohne internationales Mandat.",
-   "u": "https://taz.de/Bandengewalt-in-Haiti/!6230128/",
-   "q": "taz",
-   "d": "2026-11-15T13:44:00+00:00"
-  },
-  {
-   "t": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
-   "s": "Der Erste wagt sich aus der Deckung: Ex-Arbeitsminister Heil will die SPD führen. Was macht Parteichef Klingbeil? Tritt er beim Parteitag im Januar erneut für den Vorsitz an? Nun sprachen sich weitere namhafte SPD-Politiker für ihn aus.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-15T13:30:13+00:00"
-  },
-  {
-   "t": "Arzttermin gegen Bezahlung - warum der Vorstoß für Empörung sorgt",
-   "s": "Schneller zum Facharzt - aber nur wenn man die Behandlung selbst zahlt: Kassenärzte-Chef Gassen hat mit seinen Äußerungen zu Terminen gegen Aufpreis breite Kritik ausgelöst. Wie ist die Situation für Kassenpatienten - und was macht die Politik?",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/arzttermine-selbst-zahlen-debatte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-15T12:42:46+00:00"
-  },
-  {
-   "t": "Empörung über Vorstoß zu Facharzttermin: Klingbeil gegen zusätzliche Kosten für Kassenpatienten",
-   "s": "Der Vorstoß von Kassenärzte-Chef Gassen, Geld für schnellere Termine beim Facharzt zu verlangen, stößt einhellig auf Kritik. Grüne warnen vor „Paywall-Medizin“.",
-   "u": "https://taz.de/Empoerung-ueber-Vorstoss-zu-Facharzttermin/!6230151/",
-   "q": "taz",
-   "d": "2026-11-15T11:39:00+00:00"
-  },
-  {
-   "t": "Sachsen-Anhalt: Weggehen dürfen, wenn es gefährlich wird",
-   "s": "In rund einem Monat will sich der AfD-Politiker Siegmund in Sachsen-Anhalt zum Ministerpräsidenten wählen lassen. Viele Migranten überlegen, wegzuziehen. Doch was gilt für Asylsuchende mit einer Wohnsitzauflage? Von L. Pfeuffer-Rooschüz.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-afd-migranten-residenzpflicht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-15T11:10:03+00:00"
-  },
-  {
-   "t": "Sicherheit in Syrien: Explosion in einem Vorort von Damaskus",
-   "s": "In Syrien tötet ein Sprengstoff-Attentat im drusisch geprägten Jaramana zwei Menschen. Der Vorfall löst Spekulationen aus und fördert spaltende Narrative.",
-   "u": "https://taz.de/Sicherheit-in-Syrien/!6230076/",
-   "q": "taz",
-   "d": "2026-11-15T10:46:00+00:00"
-  },
-  {
-   "t": "Sozialproteste in Frankreich: Erneut Zehntausende Menschen auf der Straße",
-   "s": "Den fünften Samstag in Folge fanden Demos gegen die Regierung statt. Der Protest blieb weitgehend friedlich; in Lyon wurde ein Fernsehteam attackiert.",
-   "u": "https://taz.de/Sozialproteste-in-Frankreich/!6230096/",
-   "q": "taz",
-   "d": "2026-11-15T10:34:00+00:00"
   }
  ]
 }

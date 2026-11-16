@@ -1,13 +1,48 @@
 {
  "name": "Ausland",
- "updated": "2026-11-16T01:03:22+00:00",
+ "updated": "2026-11-16T11:21:28+00:00",
  "items": [
   {
-   "t": "Entscheidende Woche bei der Weltklimakonferenz COP31 beginnt",
-   "s": "In Antalya geht die Weltklimakonferenz in die entscheidende Phase: Die Ministerinnen und Minister kommen. Für Bundesumweltminister Schneider gibt es viel zu tun - und Erfolg dürfte wohl auch von Geldzusagen abhängen. Von J. Schreiber.",
-   "u": "https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html",
+   "t": "UN verhandeln Regeln zum Einsatz autonomer Waffensysteme",
+   "s": "Sie können selbstständig Ziele auswählen und Menschen töten: In Genf verhandeln heute 130 Staaten über internationale Regeln für autonome Waffensysteme - auch \"Killerroboter\" genannt. Von Sandra Biegger.",
+   "u": "https://www.tagesschau.de/ausland/europa/vereinte-nationen-autonome-waffensysteme-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-16T00:35:10+00:00"
+   "d": "2026-11-16T09:32:58+00:00"
+  },
+  {
+   "t": "Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten",
+   "s": "Das US-Militär hat seine Flotte im Nahen Osten um einen dritten Flugzeugträger ergänzt. Ob die USA dauerhaft ihre Präsenz verstärken oder einen anderen Flugzeugträger ablösen, ist unklar. Die Lage bleibt angespannt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-flugzeugtraeger-nahost-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T07:11:37+00:00"
+  },
+  {
+   "t": "Grenzschließung zu Russland soll Estlands Sicherheit schützen",
+   "s": "In Estland ist der Ärger groß: Ab Dezember sollen deswegen Grenzübergänge zu Russland dichtgemacht werden. Anlass ist ein versuchter Anschlag auf eine Rüstungsfirma - das war nicht der erste Vorfall dieser Art. Von C. Stichler.",
+   "u": "https://www.tagesschau.de/ausland/europa/estland-grenze-russland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T06:14:09+00:00"
+  },
+  {
+   "t": "Jemen: Regierungstruppen wollen Aden vor Huthi schützen",
+   "s": "Die von Iran unterstützte Huthi-Miliz rückt im Jemen offenbar auf den Regierungssitz Aden vor. Gleichzeitig ziehen sich regierungstreue Truppen weiter von der für den Welthandel wichtigen Meerenge Bab al-Mandab zurück.",
+   "u": "https://www.tagesschau.de/ausland/asien/jemen-huthi-aden-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T05:56:28+00:00"
+  },
+  {
+   "t": "Mögliche Abkommen: Eignet sich Ruanda für Abschiebezentren?",
+   "s": "Wohin mit abgelehnten Asylbewerbern, die nicht in ihre Herkunftsländer abgeschoben werden können? Nach Plänen Deutschlands und anderer EU-Länder könnten sie bald nach Ruanda gebracht werden. Menschenrechtler warnen. Von Karin Bensch.",
+   "u": "https://www.tagesschau.de/ausland/afrika/ruanda-abschiebezentrum-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T05:36:50+00:00"
+  },
+  {
+   "t": "Papst besucht bedrohte Lebensräume in den Anden und im Amazonasgebiet",
+   "s": "Kurz vor Abschluss seiner Südamerika-Tour hat Papst Leo XIV. indigene Lebenswelten in den Anden und am Amazonas besucht. Dort kritisierte er mit deutlichen Worten Umweltverschmutzung und soziale Ungleichheit.",
+   "u": "https://www.tagesschau.de/ausland/amerika/papst-suedamerikareise-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T03:22:31+00:00"
   },
   {
    "t": "Estland schließt ab Dezember Grenzübergänge nach Russland",
@@ -29,20 +64,6 @@
    "u": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
    "q": "Tagesschau",
    "d": "2026-11-15T17:54:56+00:00"
-  },
-  {
-   "t": "Hunderte Flüchtlinge auf Kanaren angekommen",
-   "s": "Rund 1.500 Migranten haben innerhalb eines Tages die kanarischen Inseln erreicht - eine Rekordzahl. Besonders angespannt ist die Lage auf der kleinen Insel El Hierro. Der Präsident der Kanaren forderte Hilfen aus Madrid ein.",
-   "u": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-15T17:31:41+00:00"
-  },
-  {
-   "t": "Massenprotest gegen Rundfunkreform in Tschechien",
-   "s": "Mehrere Hunderttausend Menschen sind in Prag auf die Straße gegangen, um gegen Pläne zur Finanzierung der öffentlich-rechtlichen Medien zu protestieren. Sie befürchten, die Regierung könnte die Sender mit der Reform unter ihre Kontrolle bringen.",
-   "u": "https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-15T15:40:55+00:00"
   },
   {
    "t": "Banden in Schweden rekrutieren zunehmend junge Frauen",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html",
    "q": "Tagesschau",
    "d": "2026-11-14T07:21:14+00:00"
-  },
-  {
-   "t": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
-   "s": "Stundenlang durften in den USA keine Flugzeuge starten. Die Regierung macht veraltete Technik verantwortlich. Mittlerweile ist das Verbot wieder aufgehoben - doch wann sich der Flugverkehr normalisieren wird, ist unklar. Von Nina Barth.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T07:15:22+00:00"
-  },
-  {
-   "t": "Die USA sind bei der COP31 nicht dabei - aber dennoch präsent",
-   "s": "Die US-Regierung fehlt nach dem Ausstieg aus dem Pariser Klimaabkommen erneut auf dem Klimagipfel. Dennoch sind viele Politiker aus den USA in Antalya. Sie setzen weiter auf das Geschäft mit erneuerbaren Energien. Von Jakob Mayr.",
-   "u": "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T04:41:37+00:00"
-  },
-  {
-   "t": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
-   "s": "Lange wurde diskutiert, wer Europa bei Gesprächen mit Russland über ein Ende des Kriegs gegen die Ukraine vertreten soll. Nun gibt es eine Einigung: Das Team bilden Vertreter der EU-Institutionen und aus fünf Ländern - darunter auch Deutschland.",
-   "u": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T18:44:23+00:00"
   }
  ]
 }
