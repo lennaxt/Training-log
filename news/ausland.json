@@ -1,13 +1,41 @@
 {
  "name": "Ausland",
- "updated": "2026-11-16T11:21:28+00:00",
+ "updated": "2026-11-16T23:44:36+00:00",
  "items": [
   {
-   "t": "UN verhandeln Regeln zum Einsatz autonomer Waffensysteme",
-   "s": "Sie können selbstständig Ziele auswählen und Menschen töten: In Genf verhandeln heute 130 Staaten über internationale Regeln für autonome Waffensysteme - auch \"Killerroboter\" genannt. Von Sandra Biegger.",
-   "u": "https://www.tagesschau.de/ausland/europa/vereinte-nationen-autonome-waffensysteme-100.html",
+   "t": "EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen",
+   "s": "Fünf EU-Staaten, darunter Deutschland, planen für das kommende Jahr die Eröffnung des ersten Abschiebezentrums in Ruanda. Dorthin sollen Asylbewerber gebracht werden, die nicht in ihre Herkunftsländer abgeschoben werden können.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-16T09:32:58+00:00"
+   "d": "2026-11-16T17:07:43+00:00"
+  },
+  {
+   "t": "EU sanktioniert russische Propagandisten, Hacker, Unternehmer",
+   "s": "Russlands reichste Unternehmerin, eine Propaganda-Fabrik, Hackergruppen, Medien-Promis und Banken: Die EU hat eine große Bandbreite von Akteuren mit weiteren Sanktionen belegt. Auch Unternehmen aus China und den Emiraten sind betroffen.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-propaganda-banken-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T16:06:44+00:00"
+  },
+  {
+   "t": "Weltklimakonferenz: Australien legt Entwurf für Abschlusserklärung vor",
+   "s": "Auf der Weltklimakonferenz in Antalya hat die entscheidende Phase begonnen. Die australische Delegation hat einen ersten Entwurf für die Abschlusserklärung veröffentlicht - um manche Formulierung dürfte noch gerungen werden. Von Arne Schulz.",
+   "u": "https://www.tagesschau.de/ausland/asien/klimakonferenz-abschlusserklaerung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T16:05:30+00:00"
+  },
+  {
+   "t": "Depardieu akzeptiert Belästigungsurteil und bittet um Entschuldigung",
+   "s": "Seit Jahren werfen Frauen dem Schauspieler Depardieu sexuelle Übergriffe und Gewalt vor. Der 77-Jährige hat sich nie einsichtig gezeigt - bis jetzt. Schon nächste Woche steht für Depardieu der nächste Gerichtstermin an.",
+   "u": "https://www.tagesschau.de/ausland/europa/depardieu-belaestigung-urteil-entschuldigung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T14:46:58+00:00"
+  },
+  {
+   "t": "EU-Außenminister wollen Ukraine-Strategie ausarbeiten",
+   "s": "Erstmals könnten EU-Staaten die Chance haben, aktiv über ein Kriegsende in der Ukraine mit zu verhandeln. Doch auch eine andere Region verlieren die EU-Außenminister nicht aus dem Blick: den Gazastreifen. Von Sabrina Fritz.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-aussenminister-ukraine-nahost-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T12:23:50+00:00"
   },
   {
    "t": "Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten",
@@ -39,7 +67,7 @@
   },
   {
    "t": "Papst besucht bedrohte Lebensräume in den Anden und im Amazonasgebiet",
-   "s": "Kurz vor Abschluss seiner Südamerika-Tour hat Papst Leo XIV. indigene Lebenswelten in den Anden und am Amazonas besucht. Dort kritisierte er mit deutlichen Worten Umweltverschmutzung und soziale Ungleichheit.",
+   "s": "Kurz vor Abschluss seiner Südamerika-Tour hat Papst Leo XIV. indigene Lebenswelten in den Anden und am Amazonas besucht. Dort kritisierte er mit deutlichen Worten Umweltverschmutzung und soziale Ungleichheit. Von Tilmann Kleinjung.",
    "u": "https://www.tagesschau.de/ausland/amerika/papst-suedamerikareise-100.html",
    "q": "Tagesschau",
    "d": "2026-11-16T03:22:31+00:00"
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html",
    "q": "Tagesschau",
    "d": "2026-11-14T18:49:48+00:00"
-  },
-  {
-   "t": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
-   "s": "Ein Rückzug aus dem Donbass im Tausch für einen NATO-Beitritt - das haben die USA der Ukraine nach Angaben Selenskyjs nahegelegt. Unter bestimmten Bedingungen würde er diese Frage in einem Referendum zur Abstimmung stellen, so der Präsident.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T17:21:30+00:00"
-  },
-  {
-   "t": "Korruptionsermittlungen in Ungarn: Millionen bei Ex-Minister entdeckt",
-   "s": "Beim früheren ungarischen Entwicklungsminister Seszták sind im Rahmen von Korruptionsermittlungen mehr als 17 Millionen Euro Bargeld gefunden worden. Es lag vergraben in Wäldern, Scheunen und Lagerhallen. Sesták gehörte zur Orbán-Regierung.",
-   "u": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T16:31:06+00:00"
-  },
-  {
-   "t": "Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker",
-   "s": "Ein Kreuzfahrtschiff ist auf dem Mississippi in New Orleans von einem Tanker gerammt worden. Der Flussdampfer kenterte. Alle Passagiere an Bord überlebten. Die Bürgermeisterin spricht von einem Wunder.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T13:48:00+00:00"
-  },
-  {
-   "t": "Nach US-Zwischenwahlen: Migranten auf dem Weg Richtung USA",
-   "s": "Der Sieg der Demokraten bei den US-Midterms weckt in Mittelamerika neue Hoffnungen auf eine liberalere US-Einwanderungspolitik. Davon angetrieben haben sich in Mexiko mehr als 1.000 Migranten auf den Weg gemacht. Von J. Barke.",
-   "u": "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T07:21:14+00:00"
   }
  ]
 }

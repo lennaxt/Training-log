@@ -1,27 +1,76 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-16T11:21:29+00:00",
+ "updated": "2026-11-16T23:44:38+00:00",
  "items": [
   {
-   "t": "Offshore-Windparks: Bundesregierung macht millionenschweres Angebot",
-   "s": "In der Offshore-Branche stehen viele Projekte auf der Kippe. Nun hat das Wirtschaftsministerium der Energiebranche ein Angebot vorgelegt. Dem NDR liegt das Eckpunktepapier vor. Von Verena von Ondarza.",
-   "u": "https://www.tagesschau.de/investigativ/ndr/offshore-bundesregierung-100.html",
+   "t": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
+   "s": "Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden.",
+   "u": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-16T11:08:19+00:00"
+   "d": "2026-11-16T20:48:40+00:00"
+  },
+  {
+   "t": "Wirtschaft vor acht vom 16.11.2026",
+   "s": "Wirtschaft vor acht vom 16.11.2026",
+   "u": "https://www.tagesschau.de/video/video-1684932.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T18:56:47+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX bleibt nahe Rekordhoch",
+   "s": "Zum Wochenauftakt fällt der DAX moderat. Er bleibt aber nah an seinem Rekordhoch. Investoren warten vor allem die Nvidia-Bilanz ab. Außerdem sorgen sie sich um eine Zinserhöhung in den USA.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T17:21:14+00:00"
+  },
+  {
+   "t": "Deutschland will die eigene Stahlindustrie erhalten - zu welchem Preis?",
+   "s": "Deutschland ohne eigene Stahlindustrie - das würde nicht nur weniger Jobs, sondern auch die komplette Abhängigkeit von Importen bedeuten. Doch die Branche setzt auf Grünen Stahl, und genau das könnte zum Problem werden. Von M. Ortmann und T. Kramer.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/wohin-steuert-die-stahlindustrie-gipfeltreffen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T16:36:35+00:00"
+  },
+  {
+   "t": "Die EU will europäischen Stahl konkurrenzfähig machen",
+   "s": "Die EU möchte dafür sorgen, dass hiesige Stahlkonzerne es leichter haben gegen die Übermacht aus China. Dafür werden inzwischen einige Maßnahmen ergriffen. Doch reichen sie aus? Von Jean-Marie Magro.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/stahl-eu-china-massnahmen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T14:53:07+00:00"
+  },
+  {
+   "t": "Stahlgipfel in Salzgitter: Unternehmen fordern Entlastung beim Strompreis",
+   "s": "Strom ist für die Stahlindustrie ein entscheidender Faktor: Beim Stahlgipfel in Salzgitter forderte die Branche deshalb einen verlässlichen Strompreis. Bundeswirtschaftsministerin Reiche verwies auf bereits Erreichtes.",
+   "u": "https://www.tagesschau.de/wirtschaft/stahlgipfel-klimawandel-produktion-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T14:52:36+00:00"
+  },
+  {
+   "t": "Älterer Programmfehler löste Ausfall von Microsoft-Diensten aus",
+   "s": "Ausfälle bei Outlook oder Teams - und das über viele Stunden. Ende letzter Woche hatte die Microsoft-Störung weltweit für massive Schäden gesorgt. Jetzt ist klar, wie es dazu kommen konnte - und warum die Reparatur so lange gedauert hat.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-fehler-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T14:22:45+00:00"
   },
   {
    "t": "EU gibt UniCredit grünes Licht für Commerzbank-Übernahme",
    "s": "Die EU hat ihr Go für die umstrittene Übernahme der Commerzbank durch die italienische Großbank UniCredit gegeben. Die Kommission sieht \"keine wettbewerbsrechtlichen Bedenken\". Die Fusion rückt näher.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-16T11:04:47+00:00"
+   "d": "2026-11-16T11:50:50+00:00"
   },
   {
-   "t": "Marktbericht: Anleger bleiben vor Nvidia-Bilanz vorsichtig",
-   "s": "Das Thema Nvidia bleibt auch in der neuen Woche aktuell: Bevor der Chipkonzern am Dienstag seine Bilanz vorstellt, könnten die Investoren zurückhaltend bleiben. Zum Wochenstart rührt sich der DAX bisher kaum.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
+   "t": "Energieverbrauch der Industrie sinkt wegen hoher Preise",
+   "s": "Wegen hoher Preise und weniger Produktion hat die deutsche Industrie 2025 weniger Energie verbraucht. Dabei wird Kohle immer unwichtiger. Doch auch die Erneuerbaren spielen eine eher untergeordnete Rolle.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/energieverbrauch-deutsche-industrie-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-16T09:58:43+00:00"
+   "d": "2026-11-16T11:49:07+00:00"
+  },
+  {
+   "t": "Offshore-Windparks: Bundesregierung macht millionenschweres Angebot",
+   "s": "In der Offshore-Branche stehen viele Projekte auf der Kippe. Nun hat das Wirtschaftsministerium der Energiebranche ein Angebot vorgelegt. Dem NDR liegt das Eckpunktepapier vor. Von Verena von Ondarza.",
+   "u": "https://www.tagesschau.de/investigativ/ndr/offshore-bundesregierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T11:08:19+00:00"
   },
   {
    "t": "Update Wirtschaft vom 16.11.2026",
@@ -73,6 +122,13 @@
    "d": "2026-11-14T11:55:00+00:00"
   },
   {
+   "t": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
+   "s": "Probleme bei Microsoft hatten zentrale Cloud-Dienste stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen. Laut Microsoft laufen nun alle Systeme wieder. Hinweise auf böswillige Aktivitäten gebe es nicht.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-14T10:17:44+00:00"
+  },
+  {
    "t": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
    "s": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
@@ -94,46 +150,11 @@
    "d": "2026-11-13T20:21:45+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 13.11.2026",
-   "s": "Wirtschaft vor acht vom 13.11.2026",
-   "u": "https://www.tagesschau.de/video/video-1683484.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T19:05:55+00:00"
-  },
-  {
-   "t": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
-   "s": "Nach dem Cyberangriff auf den bayerischen Drohnenhersteller Quantum Systems läuft die Suche nach den Tätern. Vieles deutet auf einen russischen Hintergrund hin. Das Unternehmen ist wichtiger Ausrüster des ukrainischen Militärs. Von Stephan Lina.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T16:02:19+00:00"
-  },
-  {
-   "t": "EU-Emissionshandel: Mehr kostenlose Verschmutzungsrechte für die Industrie",
-   "s": "Europas Industrie soll nicht mehr so stark durch das System des Emissionshandels belastet werden. EU-Parlament und Mitgliedstaaten haben sich darauf verständigt, zusätzliche kostenlose Emissionszertifikate auszugeben. Von Andreas Meyer-Feist.",
-   "u": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T14:35:01+00:00"
-  },
-  {
    "t": "Microsoft-Ausfälle: \"Für viele Unternehmen digitaler Hirntod\"",
    "s": "Spätestens nach dem Ausfall bei Microsoft sollten wir uns fragen, wie wir uns unabhängiger machen können, sagt IT-Sicherheitsexperte Dennis-Kenji Kipker. In unsicheren Zeiten brauche es mehr digitale Souveränität - und das sei möglich.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/sicherheitsexperte-abhaengigkeit-microsoft-outlook-teams-risiken-100.html",
    "q": "Tagesschau",
    "d": "2026-11-13T12:28:28+00:00"
-  },
-  {
-   "t": "DHL erhöht Preise für Pakete und Päckchen für Privatkunden ab 2027",
-   "s": "Wer seinen Liebsten etwas schicken möchte, der muss ab dem kommenden Jahr deutlich tiefer in die Tasche greifen. Denn der deutsche Marktführer DHL erhöht seine Portopreise deutlich - vor allem für Päckchen.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/post-hebt-paketpreise-privatkunden-an-2027-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T12:20:30+00:00"
-  },
-  {
-   "t": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\"",
-   "s": "13 Jahre nach seiner letzten Version steht das neue Videospiel \"Grand Theft Auto VI\" vor der Premiere. Software-Anbieter berichten von weltweit gestiegenen Urlaubsanträgen im Vorfeld. Der Entwickler hofft auf ein Milliardengeschäft.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/weltweit-mehr-urlaubsantraege-start-gta6-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T09:12:03+00:00"
   },
   {
    "t": "Welche Folgen Nvidias Absturz für die KI-Branche hat",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
    "q": "Tagesschau",
    "d": "2026-11-13T07:27:43+00:00"
-  },
-  {
-   "t": "11KM-Podcast zum Rücktritt des Nvidia-Chefs: Der Fall Jensen Huang",
-   "s": "Nvidia-Chef Jensen Huang ist zurückgetreten. 11KM erzählt, was zum mutmaßlichen Spionagefall bekannt ist und wie Geheimdienste versuchen, mit intimen Beziehungen Informationen zu sammeln.",
-   "u": "https://www.tagesschau.de/podcast-11km-nvidia-huang-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T05:44:09+00:00"
-  },
-  {
-   "t": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
-   "s": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T02:36:47+00:00"
-  },
-  {
-   "t": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
-   "s": "Die Bundesbank sieht wachsende Gefahren für die Finanzbranche, weil Kredite zunehmend nicht zurückgezahlt werden. Aber auch Künstliche Intelligenz berge Risiken - und die Aggressivität von Cyberangriffen. Von Ursula Mayer.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-12T17:31:15+00:00"
   }
  ]
 }

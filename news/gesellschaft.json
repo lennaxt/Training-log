@@ -1,7 +1,49 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-16T11:21:33+00:00",
+ "updated": "2026-11-16T23:44:40+00:00",
  "items": [
+  {
+   "t": "Abschiebe-Abkommen mit Ruanda: Point of no return ist überschritten",
+   "s": "Mehrere EU-Staaten, darunter Deutschland, beschließen ein Abschiebe-Abkommen mit Ruanda. 2027 sollen die sogenannten Return Hubs in Betrieb gehen.",
+   "u": "https://taz.de/Abschiebe-Abkommen-mit-Ruanda/!6230614/",
+   "q": "taz",
+   "d": "2026-11-16T19:04:00+00:00"
+  },
+  {
+   "t": "Flucht nach Europa: Warum zurzeit viele Migranten nach El Hierro kommen",
+   "s": "Auf der spanischen Kanareninsel kamen in wenigen Tagen Tausende Menschen an. Die rechten Parteien Vox und PP schlachten die Lage für den Wahlkampf aus.",
+   "u": "https://taz.de/Warum-zurzeit-viele-Migranten-auf-die-spanische-Insel-El-Hierro-kommen/!6230405/",
+   "q": "taz",
+   "d": "2026-11-16T18:07:00+00:00"
+  },
+  {
+   "t": "Treffen der EU-Außenminister: Ukraine-Verhandlungen ohne Kaja Kallas",
+   "s": "Die EU-Außenbeauftragte Kaja Kallas ist vom europäischen Verhandlungsteam ausgeschlossen. Aber sie verkündet eine Reihe neuer Sanktionen gegen Moskau.",
+   "u": "https://taz.de/Treffen-der-EU-Aussenminister/!6230422/",
+   "q": "taz",
+   "d": "2026-11-16T15:33:00+00:00"
+  },
+  {
+   "t": "Drittstaaten-Abkommen: Die USA haben's vorgemacht",
+   "s": "Die US-Abschreckungspolitik wurde in Europa aufmerksam verfolgt. So konnten Partnerstaaten für Drittstaatenabkommen identifiziert werden.",
+   "u": "https://taz.de/Drittstaaten-Abkommen/!6230451/",
+   "q": "taz",
+   "d": "2026-11-16T14:50:00+00:00"
+  },
+  {
+   "t": "Große Proteste in Tschechien: Hunderttausende gegen 4:36",
+   "s": "400.000 Menschen protestieren in Prag gegen die Rundfunkreform der Regierung. Ihnen geht es nicht nur um Gebühren, sie fürchten um die Zukunft ihres Landes.",
+   "u": "https://taz.de/Grosse-Proteste-in-Tschechien/!6230312/",
+   "q": "taz",
+   "d": "2026-11-16T12:49:00+00:00"
+  },
+  {
+   "t": "Lieferkettengesetz in Serbien: Auf Verschleiß",
+   "s": "In Serbien fertigen Arbeiterinnen Bauteile für Mercedes-Benz – mit gesundheitlichen Folgen. Das deutsche Lieferkettengesetz soll sie schützen. Wie wirksam ist es?",
+   "u": "https://taz.de/Lieferkettengesetz-in-Serbien/!6230080/",
+   "q": "taz",
+   "d": "2026-11-16T11:39:00+00:00"
+  },
   {
    "t": "Britische Beziehungen zur EU: Andy Burnham erklärt Johnsons Brexit-Deal für gescheitert",
    "s": "Gebrochene Versprechen, unerfüllte Hoffnungen: Andy Burnham rechnet mit Boris Johnsons Brexit-Deal ab und will einen Neustart der Beziehungen zu Brüssel.",
@@ -24,7 +66,7 @@
    "d": "2026-11-15T19:07:00+00:00"
   },
   {
-   "t": "Grenzschließung in Estland: Tallinn macht dicht",
+   "t": "Grenzschließung in Estland: Sprengsätze, Pyrotechnik und jede Menge Drohungen",
    "s": "Estland macht den russischen Geheimdienst für Sabotage bei einem Drohnenhersteller verantwortlich – und schließt ab 1. Dezember die Grenzen zu Russland.",
    "u": "https://taz.de/Sabotageversuch-in-Estland/!6230290/",
    "q": "taz",
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Umstrittener-Gast/!6229855/",
    "q": "taz",
    "d": "2026-11-13T14:58:00+00:00"
-  },
-  {
-   "t": "Informeller EU-Gipfel in Dublin: Streit um EU-Vermittler verschärft sich",
-   "s": "Wer soll für die EU sprechen, wenn es zu Gesprächen über das Ende des Ukrainekriegs kommt? Merz sieht Deutschland als gesetzt. Das sehen nicht alle so.",
-   "u": "https://taz.de/Informeller-EU-Gipfel-in-Dublin/!6229845/",
-   "q": "taz",
-   "d": "2026-11-13T14:57:00+00:00"
-  },
-  {
-   "t": "Visa für VietnamesInnen in Ungarn: Ein Geschäft mit Hintertür",
-   "s": "Victor Orbáns Bruder sitzt in U-Haft. Er soll Vietnamesen gegen viel Geld Arbeitsvisa vermittelt haben. Viele ziehen danach weiter nach Deutschland.",
-   "u": "https://taz.de/Visa-fuer-VietnamesInnen-in-Ungarn/!6229638/",
-   "q": "taz",
-   "d": "2026-11-13T13:35:00+00:00"
-  },
-  {
-   "t": "Wirtschaft in Griechenland: Eine Erfolgsgeschichte, aber nur für Reiche",
-   "s": "Die Finanzkrise ist längst überwunden und die Wirtschaft boomt, heißt es von der griechischen Regierung oft. Die meisten profitieren davon aber nicht.",
-   "u": "https://taz.de/Wirtschaftliche-Lage-in-Griechenland-Eine-Erfolgsgeschichte-aber-nur-fuer-Reiche/!6228545/",
-   "q": "taz",
-   "d": "2026-11-13T13:25:00+00:00"
-  },
-  {
-   "t": "Bootsunglücke vor Kreta: „Wer Routen abriegelt, stoppt keine Flucht“",
-   "s": "In Griechenland steigt die Zahl tödlicher Schiffbrüche. Die Schuld dafür liege bei Frontex und der EU-Abschottungspolitik, sagen Menschenrechtler.",
-   "u": "https://taz.de/Bootsungluecke-vor-Kreta/!6229628/",
-   "q": "taz",
-   "d": "2026-11-13T11:39:00+00:00"
-  },
-  {
-   "t": "Informeller EU-Gipfel in Dublin: Wer spricht für Europa?",
-   "s": "In Dublin kommt die EU zusammen, auch um über die Ukraine zu sprechen. Die Europäer sollen endlich mit am Verhandlungstisch sitzen. Doch wer macht’s?",
-   "u": "https://taz.de/Informeller-EU-Gipfel-in-Dublin/!6229781/",
-   "q": "taz",
-   "d": "2026-11-13T08:49:00+00:00"
-  },
-  {
-   "t": "Europäische Politische Gemeinschaft: Ringen um eine starke Stimme",
-   "s": "Einen Tag nach Ende der Verhandlungen in Abu Dhabi kommt die Europäische Politische Gemeinschaft in Dublin zusammen. Die Ukraine steht im Mittelpunkt.",
-   "u": "https://taz.de/Europaeische-Politische-Gemeinschaft/!6229580/",
-   "q": "taz",
-   "d": "2026-11-12T18:58:00+00:00"
   }
  ]
 }

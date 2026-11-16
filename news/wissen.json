@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-11-16T11:21:30+00:00",
+ "updated": "2026-11-16T23:44:38+00:00",
  "items": [
+  {
+   "t": "WHO warnt vor wachsenden Antibiotika-Resistenzen",
+   "s": "Die Experten der WHO warnen vor einem gefährlichen Trend: Immer mehr Medikamente verlieren aufgrund von Resistenzen ihre Wirkkraft. Zudem sieht die Weltgesundheitsorganisation Nachholbedarf beim Infektionsschutz.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/who-antibiotika-resistenzen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-16T11:21:05+00:00"
+  },
   {
    "t": "Illegale Drogen in Vapes - \"Baller-Liquids\" gefährden Jugendliche",
    "s": "Sie fallen nicht auf und sind einfach zu bekommen: sogenannte Baller-Liquids - starke Drogen für die E-Zigarette. Die Flüssigkeiten werden gezielt an Teenager verkauft. Doch ihr schneller Rausch kann lebensbedrohlich sein. Von Jenny Witt.",
@@ -38,13 +45,6 @@
    "d": "2026-11-14T11:41:52+00:00"
   },
   {
-   "t": "Deutschland fällt im internationalen Klimaschutzindex zurück",
-   "s": "Deutschland fällt im internationalen Klimaschutzindex zurück",
-   "u": "https://www.tagesschau.de/video/video-1683158.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T12:34:20+00:00"
-  },
-  {
    "t": "Nicht mehr nur BMI: So könnte Adipositas besser definiert werden",
    "s": "Wie schwer und groß man ist, sagt allein nicht genug über die Gesundheit aus. Deshalb ist der Body-Mass-Index (BMI) seit Jahren in der Kritik. Eine neue Studie zeigt, welche Vorteile eine genauere Diagnose bringen würde. Von Veronika Simon.",
    "u": "https://www.tagesschau.de/wissen/adipositas-definition-bmi-100.html",
@@ -73,6 +73,13 @@
    "d": "2026-11-09T15:22:42+00:00"
   },
   {
+   "t": "Klimakonferenz in Antalya",
+   "s": "Auftakt der Klimakonferenz in Antalya",
+   "u": "https://www.tagesschau.de/video/video-1680758.html",
+   "q": "Tagesschau",
+   "d": "2026-11-09T13:40:35+00:00"
+  },
+  {
    "t": "31. Klimakonferenz der UN startet - Guterres fordert mehr Einsatz",
    "s": "Im türkischen Antalya beginnt die 31. Klimakonferenz der Vereinten Nationen. Zwei Wochen lang beraten Vertreter von fast 200 Ländern über Maßnahmen gegen die Erderwärmung. UN-Generalsekretär Guterres verweist auf die Dringlichkeit.",
    "u": "https://www.tagesschau.de/wissen/klima/cop-in-antalya-beginnt-100.html",
@@ -85,13 +92,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/copernicus-klimakrise-1komma5-grad-100.html",
    "q": "Tagesschau",
    "d": "2026-11-06T13:02:07+00:00"
-  },
-  {
-   "t": "Rettungsmission gescheitert - NASA-Satellit stürzt auf Erde",
-   "s": "Der Satellit Swift hatte jahrelang gewaltige Energieausbrüche im Universum untersucht, sogenannte Gammablitze. Die Mission war so wichtig, dass die NASA eine Rettungsmission startete, als es Probleme gab - vergeblich.",
-   "u": "https://www.tagesschau.de/wissen/technologie/nasa-satellit-swift-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-05T08:15:29+00:00"
   },
   {
    "t": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
