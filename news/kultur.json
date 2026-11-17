@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-11-16T23:44:41+00:00",
+ "updated": "2026-11-17T11:53:58+00:00",
  "items": [
+  {
+   "t": "Recyclingbusiness in Peru: Selbstwert sammeln",
+   "s": "In Peru werden nur drei Prozent des Mülls wiederverwertet. Ein Frauenkollektiv in Arequipa übernimmt die Aufgabe. Und hilft damit auch den Mitgliedern.",
+   "u": "https://taz.de/Recyclingbusiness-in-Peru/!6230272/",
+   "q": "taz",
+   "d": "2026-11-17T11:20:00+00:00"
+  },
+  {
+   "t": "Mamdani in New York: Mamdani löst umstrittene Polizeieinheit auf",
+   "s": "Der New Yorker Bürgermeister will bei Protesten auf Deeskalation und Dialog setzen. Eine umstrittene Polizeieinheit soll ganz aufgelöst werden.",
+   "u": "https://taz.de/Mamdani-in-New-York/!6230710/",
+   "q": "taz",
+   "d": "2026-11-17T08:00:00+00:00"
+  },
   {
    "t": "Journalist in Mexiko ermordet: Schweigen oder sterben?",
    "s": "In Mexiko wurde der Journalist Eduardo Flores Salado ermordet. In seiner Heimat Guerrero bedrohen Banden die Pressefreiheit. Viele schweigen aus Angst.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Amtsenthebung-Hegseths-im-US-Repraesentantenhaus-gestoppt/!6229121/",
    "q": "taz",
    "d": "2026-11-11T07:08:00+00:00"
-  },
-  {
-   "t": "Amtsenthebungsverfahren gegen Hegseth: Klare öffentliche Meinung",
-   "s": "Mit einem Ja zu einem Impeachment-Verfahren würden sich die Republikaner einen großen Gefallen tun. Die Frage ist, ob sie das Rückgrat dazu haben.",
-   "u": "https://taz.de/Amtsenthebungsverfahren-gegen-Hegseth/!6228916/",
-   "q": "taz",
-   "d": "2026-11-10T18:47:00+00:00"
-  },
-  {
-   "t": "Gentrifizierung in NYC: New Yorks letzte Runde?",
-   "s": "„Jimmy’s Corner“ ist eine der wenigen verbliebenen Kneipen am Times Square. Das Stammpublikum kommt seit Jahrzehnten. Doch das könnte bald vorbei sein.",
-   "u": "https://taz.de/Gentrifizierung-in-NYC/!6225606/",
-   "q": "taz",
-   "d": "2026-11-10T18:43:00+00:00"
   }
  ]
 }

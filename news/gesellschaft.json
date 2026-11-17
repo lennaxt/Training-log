@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-16T23:44:40+00:00",
+ "updated": "2026-11-17T11:53:57+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Selenskyj bestätigt teilweise Zerstörung der Krim-Brücke",
+   "s": "Gegenseitige Angriffe auf wichtige Verkehrsverbindungen: Russland nimmt zwei Brücken in Kyjiw ins Visier, die Ukraine attackiert die Krim-Brücke.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6227328/",
+   "q": "taz",
+   "d": "2026-11-17T08:19:00+00:00"
+  },
   {
    "t": "Abschiebe-Abkommen mit Ruanda: Point of no return ist überschritten",
    "s": "Mehrere EU-Staaten, darunter Deutschland, beschließen ein Abschiebe-Abkommen mit Ruanda. 2027 sollen die sogenannten Return Hubs in Betrieb gehen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Informeller-EU-Gipfel-in-Dublin/!6229802/",
    "q": "taz",
    "d": "2026-11-13T16:36:00+00:00"
-  },
-  {
-   "t": "Umstrittener Gast: Issa Remmo besucht Veranstaltung im Europaparlament",
-   "s": "Als Issa Remmo bei der Wahlparty der Linken in Berlin auftauchte, löste das viel Wirbel aus. Nun war er im Parlament in Brüssel, diesmal bei den Rechten.",
-   "u": "https://taz.de/Umstrittener-Gast/!6229855/",
-   "q": "taz",
-   "d": "2026-11-13T14:58:00+00:00"
   }
  ]
 }

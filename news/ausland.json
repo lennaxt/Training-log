@@ -1,7 +1,77 @@
 {
  "name": "Ausland",
- "updated": "2026-11-16T23:44:36+00:00",
+ "updated": "2026-11-17T11:53:54+00:00",
  "items": [
+  {
+   "t": "Selenskyj bestätigt teilweise Zerstörung der Krim-Brücke",
+   "s": "Das ukrainische Militär hat offenbar einen Teil der Krim-Brücke zerstört. Fotos und Videos zeigen, dass einer der beiden Brückenbögen eingestürzt ist. Die Verbindung auf die Krim war stets ein Prestigeprojekt Putins.",
+   "u": "https://www.tagesschau.de/ausland/europa/selenskyj-teilzerstoerung-krim-bruecke-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T11:48:59+00:00"
+  },
+  {
+   "t": "Türkei stellt oppositionsnahen Sender unter Zwangsverwaltung",
+   "s": "Die türkische Regierung geht erneut gegen oppositionsnahe Medien vor: Die Polizei hat den Sitz des Senders Sözcü TV durchsucht und Mitarbeiter festgenommen. Das Unternehmen wurde unter staatliche Zwangsverwaltung gestellt.",
+   "u": "https://www.tagesschau.de/ausland/europa/tuerkei-sender-razzia-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T11:32:29+00:00"
+  },
+  {
+   "t": "Züge in Prag zusammengestoßen - Über 40 Verletzte bei Kollision auf Brücke",
+   "s": "In der tschechischen Hauptstadt Prag sind zwei Personenzüge auf einer Brücke zusammengestoßen. Dutzende Menschen wurden verletzt. Der Verkehrsminister spricht von einem \"sehr ernsten Ereignis\".",
+   "u": "https://www.tagesschau.de/ausland/europa/tschechien-zug-unglueck-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T10:43:01+00:00"
+  },
+  {
+   "t": "Australische Regierung verschärft Auflagen für \"Work and Travel\"",
+   "s": "Wer als Backpacker länger in Australien bleiben will, muss künftig mehr Zeit auf dem Land arbeiten. Die Regierung hat angekündigt, die Vorgaben für das sogenannte Working-Holiday-Visum zu verschärfen.",
+   "u": "https://www.tagesschau.de/ausland/ozeanien/australien-backpaper-landwirtschaft-visa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T10:33:13+00:00"
+  },
+  {
+   "t": "Angriffe auf die Ukraine: Zwei wichtige Brücken in Kiew getroffen",
+   "s": "Trotz US-Vermittlungen gehen die Angriffe weiter: Russland meldet einen Angriff auf die Krim-Brücke, auch in Kiew wurden zwei Brücken getroffen. In der Region Saporischschja sind die Rettungsarbeiten nach einem der folgenschwersten Angriffe beendet.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-212.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T10:05:38+00:00"
+  },
+  {
+   "t": "Protest Tokios in Moskau - Mutmaßlich russische Jets im japanischen Luftraum",
+   "s": "Japan hat das Eindringen zweier mutmaßlich russischer Flugzeuge in den Luftraum des Landes gemeldet. Das Militär ließ Abfangjäger aufsteigen. Auch Südkorea und Taiwan meldeten Zwischenfälle mit russischen Jets.",
+   "u": "https://www.tagesschau.de/ausland/asien/japan-russland-luftraumverletzung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T09:54:08+00:00"
+  },
+  {
+   "t": "Ausnahmezustand in Guatemala - Regierung setzt Militär gegen Drogenbanden ein",
+   "s": "Teile Guatemalas sind zunehmend im Griff von Drogenbanden. Die Regierung verhängte den Ausnahmezustand und schickte das Militär in die betroffene Region. Die USA setzten ein Millionen-Kopfgeld aus.",
+   "u": "https://www.tagesschau.de/ausland/amerika/guatemala-drogen-militaer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T06:45:47+00:00"
+  },
+  {
+   "t": "Serbisches Parlament konstituiert sich nach Sieg der Studentenliste",
+   "s": "Nach dem Sieg der Studentenliste bei der Wahl in Serbien tritt heute erstmals das Parlament zusammen. Die neuen Abgeordneten wollen fast alles umkrempeln. Doch noch immer ist unklar, wer Schlüsselpositionen in der Regierung besetzt. Von S. Hahne.",
+   "u": "https://www.tagesschau.de/ausland/europa/serbien-parlament-konstituierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T06:13:09+00:00"
+  },
+  {
+   "t": "Krieg gegen die Ukraine: Erste Vorgespräche mit Europas Unterhändlern",
+   "s": "Europäische Unterhändler haben erste Vorgespräche mit den USA und der Ukraine über eine Beendigung des Kriegs geführt - und dabei die Vertreter instruiert, die später mit Russland verhandeln.",
+   "u": "https://www.tagesschau.de/ausland/europa/europa-ukraine-usa-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T03:28:15+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Die Wut der Schüler, die Ohnmacht der Schulen",
+   "s": "Gewerkschaften und Gelbwesten haben in Frankreich für heute erneut zu Protesten aufgerufen. Ein Teil der Schülerinnen und Schüler will sich daran beteiligen. Schulleiter fühlen sich alleingelassen. Von Julia Borutta.",
+   "u": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-188.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T02:20:12+00:00"
+  },
   {
    "t": "EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen",
    "s": "Fünf EU-Staaten, darunter Deutschland, planen für das kommende Jahr die Eröffnung des ersten Abschiebezentrums in Ruanda. Dorthin sollen Asylbewerber gebracht werden, die nicht in ihre Herkunftsländer abgeschoben werden können.",
@@ -15,27 +85,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-propaganda-banken-100.html",
    "q": "Tagesschau",
    "d": "2026-11-16T16:06:44+00:00"
-  },
-  {
-   "t": "Weltklimakonferenz: Australien legt Entwurf für Abschlusserklärung vor",
-   "s": "Auf der Weltklimakonferenz in Antalya hat die entscheidende Phase begonnen. Die australische Delegation hat einen ersten Entwurf für die Abschlusserklärung veröffentlicht - um manche Formulierung dürfte noch gerungen werden. Von Arne Schulz.",
-   "u": "https://www.tagesschau.de/ausland/asien/klimakonferenz-abschlusserklaerung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T16:05:30+00:00"
-  },
-  {
-   "t": "Depardieu akzeptiert Belästigungsurteil und bittet um Entschuldigung",
-   "s": "Seit Jahren werfen Frauen dem Schauspieler Depardieu sexuelle Übergriffe und Gewalt vor. Der 77-Jährige hat sich nie einsichtig gezeigt - bis jetzt. Schon nächste Woche steht für Depardieu der nächste Gerichtstermin an.",
-   "u": "https://www.tagesschau.de/ausland/europa/depardieu-belaestigung-urteil-entschuldigung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T14:46:58+00:00"
-  },
-  {
-   "t": "EU-Außenminister wollen Ukraine-Strategie ausarbeiten",
-   "s": "Erstmals könnten EU-Staaten die Chance haben, aktiv über ein Kriegsende in der Ukraine mit zu verhandeln. Doch auch eine andere Region verlieren die EU-Außenminister nicht aus dem Blick: den Gazastreifen. Von Sabrina Fritz.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-aussenminister-ukraine-nahost-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T12:23:50+00:00"
   },
   {
    "t": "Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten",
@@ -120,55 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/kuba-energiekrise-alltag-100.html",
    "q": "Tagesschau",
    "d": "2026-11-15T09:46:38+00:00"
-  },
-  {
-   "t": "Papst Leo in Südamerika: Empfangen wie ein lang vermisster alter Freund",
-   "s": "Auf seiner bisher längsten Auslandsreise als Papst wird Leo XIV. vor allem in Peru und Argentinien begeistert empfangen. Welche Akzente hat er in seiner \"zweiten Heimat\" gesetzt? Eine erste Bilanz des Südamerika-Besuchs. Von Tilmann Kleinjung.",
-   "u": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-bilanz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-15T07:35:51+00:00"
-  },
-  {
-   "t": "Journalisten in Ägypten: Verbote, Drohungen und Gefängnisstrafen",
-   "s": "Journalisten in Ägypten sind enormem Druck ausgesetzt - teilweise werden ganze Redaktionen verhaftet. Mutige Journalisten versuchen dennoch weiterzumachen. Sie hoffen auf Solidarität aus dem Ausland. Von M. Behrendt.",
-   "u": "https://www.tagesschau.de/ausland/afrika/pressefreiheit-aegypten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-15T04:11:48+00:00"
-  },
-  {
-   "t": "Europamagazin: Ein Aufschwung, den die Spanier nicht spüren",
-   "s": "Die spanische Wirtschaft wächst - doch bei den Menschen kommt der Aufschwung nicht an. Wohnungskrise und hohe Lebenshaltungskosten beherrschen den Wahlkampf. Regierungschef Sánchez droht in zwei Wochen die Abwahl. Von Kristina Böker.",
-   "u": "https://www.tagesschau.de/ausland/europa/spanien-wahlkampf-108.html",
-   "q": "Tagesschau",
-   "d": "2026-11-15T04:11:16+00:00"
-  },
-  {
-   "t": "Frankreich: Zehntausende bei Demos, rund 200 Festnahmen",
-   "s": "Erneut sind in Frankreich Zehntausende Menschen in mehreren Städten auf die Straßen gegangen. Sie forderten bessere Bildungschancen und eine Stärkung der Kaufkraft der Menschen. Die Behörden meldeten mehr als 200 Festnahmen.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-248.html",
-   "q": "Tagesschau",
-   "d": "2026-11-15T04:10:12+00:00"
-  },
-  {
-   "t": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
-   "s": "Eine Rakete, die wie ein ziviles Flugzeug eingesetzt werden kann, das ist das Ziel von SpaceX. Nun kann das \"Starship\"-System einen Erfolg verbuchen: Erstmals landete die etwa 50 Meter große obere Raketenstufe wieder auf der Erde.",
-   "u": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T23:12:16+00:00"
-  },
-  {
-   "t": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
-   "s": "Die EU fordert Israel auf, sofort Helfer in den Gazastreifen zu lassen. Dort hatte heftiger Regen die Zelte von Zehntausenden Vertriebenen überschwemmt. Auch die Kälte wird zunehmend zur Gefahr.",
-   "u": "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T19:09:28+00:00"
-  },
-  {
-   "t": "Was über das Startverbot für Flugzeuge in den USA bekannt ist",
-   "s": "Es war der längste Ausfall des US-Flugbetriebs seit Jahrzehnten. Vier Stunden lang galt ein Startverbot. Warum - und mit welchen Folgen? Könnte in Deutschland Ähnliches geschehen? Ein Überblick.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T18:49:48+00:00"
   }
  ]
 }

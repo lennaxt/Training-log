@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-16T23:44:39+00:00",
+ "updated": "2026-11-17T11:53:56+00:00",
  "items": [
+  {
+   "t": "Umfrage und Studie zu Diskriminierung: Viele psychisch Kranke sehen sich im Job benachteiligt",
+   "s": "Mobbing statt Beförderung? Wer eine psychische Erkrankung hat, ist auf der Arbeit oft mit besonderen Schwierigkeiten konfrontiert.",
+   "u": "https://taz.de/Umfrage-und-Studie-zu-Diskriminierung/!6230768/",
+   "q": "taz",
+   "d": "2026-11-17T11:34:00+00:00"
+  },
+  {
+   "t": "Leid durch Kinderverschickung: Alle Träger sagen sorry, aber keiner übernimmt Verantwortung",
+   "s": "Über 10 Millionen Kinder sind nach 1949 in Kur geschickt worden und wurden dort vielfach misshandelt. In NRW liegt nun ein Abschlussbericht vor.",
+   "u": "https://taz.de/Abschlussbericht-Ueber-10-Mio-Kinder-wurden-nach-1949-in-Kur-geschickt-und-dort-vielfach-misshandelt/!6230285/",
+   "q": "taz",
+   "d": "2026-11-17T08:09:00+00:00"
+  },
   {
    "t": "Kürzungen bei „Demokratie leben“: Prien wirft etablierte Träger raus",
    "s": "Nach den Kürzungen bei der Demokratieförderung bleiben viele Projekte auf der Strecke – und beklagen Intransparenz des Familienministeriums.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Causa-Vanessa-Emde/!6224457/",
    "q": "taz",
    "d": "2026-11-14T11:00:00+00:00"
-  },
-  {
-   "t": "Abschiebung von Menschen mit Behinderung: Wie krank ist krank genug?",
-   "s": "Der 16-jährige William hat Dokumente, die belegen, dass er besonderen Schutzbedarf hat. Deutsche Behörden sehen keinen Grund, seine Abschiebung zu verbieten.",
-   "u": "https://taz.de/Abschiebung-von-Menschen-mit-Behinderung/!6224531/",
-   "q": "taz",
-   "d": "2026-11-14T10:27:00+00:00"
-  },
-  {
-   "t": "Völkerrechtler zum Existenzrecht Israels: Hat Vanessa Emde Recht?",
-   "s": "Haben Staaten ein Existenzrecht? Was heißt das für Israel? Haben Palästinenser ein Recht auf Widerstand? Der Völkerrechtler Kai Ambos ordnet ein.",
-   "u": "https://taz.de/Voelkerrechtler-zum-Existenzrecht-Israels/!6224454/",
-   "q": "taz",
-   "d": "2026-11-14T08:06:00+00:00"
   }
  ]
 }

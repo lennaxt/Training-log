@@ -1,7 +1,91 @@
 {
  "name": "Inland",
- "updated": "2026-11-16T23:44:35+00:00",
+ "updated": "2026-11-17T11:53:53+00:00",
  "items": [
+  {
+   "t": "Umfrage und Studie zu Diskriminierung: Viele psychisch Kranke sehen sich im Job benachteiligt",
+   "s": "Mobbing statt Beförderung? Wer eine psychische Erkrankung hat, ist auf der Arbeit oft mit besonderen Schwierigkeiten konfrontiert.",
+   "u": "https://taz.de/Umfrage-und-Studie-zu-Diskriminierung/!6230768/",
+   "q": "taz",
+   "d": "2026-11-17T11:34:00+00:00"
+  },
+  {
+   "t": "Kritik in Deutschland an Plänen für Abschiebezentrum in Ruanda",
+   "s": "Die Pläne von Deutschland und vier anderen EU-Staaten, abgelehnte Asylbewerber nach Ruanda zu bringen, sorgen weiter für Kritik - unter anderem bei Kirchen und Menschenrechtlern. Auch innerhalb der Bundesregierung ist das Vorhaben umstritten.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ruanda-abschiebezentren-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T11:32:45+00:00"
+  },
+  {
+   "t": "Recyclingbusiness in Peru: Selbstwert sammeln",
+   "s": "In Peru werden nur drei Prozent des Mülls wiederverwertet. Ein Frauenkollektiv in Arequipa übernimmt die Aufgabe. Und hilft damit auch den Mitgliedern.",
+   "u": "https://taz.de/Recyclingbusiness-in-Peru/!6230272/",
+   "q": "taz",
+   "d": "2026-11-17T11:20:00+00:00"
+  },
+  {
+   "t": "Kurz vor Apec: Mehrere Vorfälle mit russischen Fliegern in Region",
+   "s": "Vor dem Shenzhen-Treffen melden Südkorea und Taiwan russische Militärflugzeuge in Luftverteidigungszonen. Japan spricht von einer Luftraumverletzung.",
+   "u": "https://taz.de/Kurz-vor-Apec/!6230721/",
+   "q": "taz",
+   "d": "2026-11-17T10:24:00+00:00"
+  },
+  {
+   "t": "Gipfeltreffen von Trump, Xi und Putin: Die Dreisten Drei",
+   "s": "Die Staatschefs von Russland, China und den USA treffen sich medienwirksam in Shenzhen. Doch mehr als diplomatischer Pomp ist dabei nicht zu erwarten.",
+   "u": "https://taz.de/Gipfeltreffen-von-Trump-Xi-und-Putin/!6230717/",
+   "q": "taz",
+   "d": "2026-11-17T09:37:00+00:00"
+  },
+  {
+   "t": "Abschiebungen nach Ruanda: Auf Kosten der Menschenrechte?",
+   "s": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber nach Ruanda abschieben. Doch Menschenrechtsorganisationen kritisieren die Pläne. Wie sollen die Abschiebezentren funktionieren und was bringen sie?",
+   "u": "https://www.deutschlandfunk.de/abschiebezentrum-ruanda-eu-staaten-return-hubs-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-17T09:22:00+00:00"
+  },
+  {
+   "t": "Koalitionsausschuss: Schwarz-Rot sucht nach Milliarden für Entlastungen",
+   "s": "Stromsteuersenkung, Rentenreform, Ausgleich der Kalten Progression: Die Spitzen der schwarz-roten Koalition wollen heute Abend über viele Knackpunkte entscheiden. Es geht um viel Geld, aber auch um die Glaubwürdigkeit des Kanzlers. Von M. Ulrich.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/rente-stromsteuer-wahlrecht-knackpunkte-koalition-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T09:07:23+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukraine-Krieg +++: Selenskyj bestätigt teilweise Zerstörung der Krim-Brücke",
+   "s": "Gegenseitige Angriffe auf wichtige Verkehrsverbindungen: Russland nimmt zwei Brücken in Kyjiw ins Visier, die Ukraine attackiert die Krim-Brücke.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6227328/",
+   "q": "taz",
+   "d": "2026-11-17T08:19:00+00:00"
+  },
+  {
+   "t": "Leid durch Kinderverschickung: Alle Träger sagen sorry, aber keiner übernimmt Verantwortung",
+   "s": "Über 10 Millionen Kinder sind nach 1949 in Kur geschickt worden und wurden dort vielfach misshandelt. In NRW liegt nun ein Abschlussbericht vor.",
+   "u": "https://taz.de/Abschlussbericht-Ueber-10-Mio-Kinder-wurden-nach-1949-in-Kur-geschickt-und-dort-vielfach-misshandelt/!6230285/",
+   "q": "taz",
+   "d": "2026-11-17T08:09:00+00:00"
+  },
+  {
+   "t": "Mamdani in New York: Mamdani löst umstrittene Polizeieinheit auf",
+   "s": "Der New Yorker Bürgermeister will bei Protesten auf Deeskalation und Dialog setzen. Eine umstrittene Polizeieinheit soll ganz aufgelöst werden.",
+   "u": "https://taz.de/Mamdani-in-New-York/!6230710/",
+   "q": "taz",
+   "d": "2026-11-17T08:00:00+00:00"
+  },
+  {
+   "t": "Bergbau in Guinea: Krieg ums Gold in Guineas Hochland",
+   "s": "Guineas Militärregierung hat den nichtindustriellen Bergbau verboten. Aus den Regionen, die vom Goldschürfen leben, hat eine Massenflucht eingesetzt.",
+   "u": "https://taz.de/Bergbau-in-Guinea/!6230386/",
+   "q": "taz",
+   "d": "2026-11-17T06:07:00+00:00"
+  },
+  {
+   "t": "Selbstzahlertermine - Grüne warnen vor Dreiklassenmedizin",
+   "s": "Sollen Kassenpatienten zahlen, um schneller einen Arzttermin zu bekommen? Für Janosch Dahmen (Grüne) wäre das eine gefährliche Entwicklung. So entstehe eine Dreiklassenversorgung mit einem „Markt für Selbstzahlerpatienten“.May, Philipp",
+   "u": "https://www.deutschlandfunk.de/interview-janosch-dahmen-gruene-zu-selbstzahlertermine-fuer-kassenpatienten-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-17T05:50:00+00:00"
+  },
   {
    "t": "Abschiebe-Abkommen mit Ruanda: Point of no return ist überschritten",
    "s": "Mehrere EU-Staaten, darunter Deutschland, beschließen ein Abschiebe-Abkommen mit Ruanda. 2027 sollen die sogenannten Return Hubs in Betrieb gehen.",
@@ -85,90 +169,6 @@
    "u": "https://taz.de/-Nachrichten-im-Irankrieg-/!6230520/",
    "q": "taz",
    "d": "2026-11-16T14:11:00+00:00"
-  },
-  {
-   "t": "SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt",
-   "s": "Der Schweriner Landtag hat Mecklenburg-Vorpommerns Ministerpräsidentin Schwesig wiedergewählt. Das Parlament bestätigte die SPD-Politikerin für weitere fünf Jahre im Amt. Schwesig führt MV bereits seit 2017.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T13:23:01+00:00"
-  },
-  {
-   "t": "Große Proteste in Tschechien: Hunderttausende gegen 4:36",
-   "s": "400.000 Menschen protestieren in Prag gegen die Rundfunkreform der Regierung. Ihnen geht es nicht nur um Gebühren, sie fürchten um die Zukunft ihres Landes.",
-   "u": "https://taz.de/Grosse-Proteste-in-Tschechien/!6230312/",
-   "q": "taz",
-   "d": "2026-11-16T12:49:00+00:00"
-  },
-  {
-   "t": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
-   "s": "Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Kanzler Merz zeigte sich sicher, dass sich SPD und Union morgen einigen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T12:46:45+00:00"
-  },
-  {
-   "t": "Lieferkettengesetz in Serbien: Auf Verschleiß",
-   "s": "In Serbien fertigen Arbeiterinnen Bauteile für Mercedes-Benz – mit gesundheitlichen Folgen. Das deutsche Lieferkettengesetz soll sie schützen. Wie wirksam ist es?",
-   "u": "https://taz.de/Lieferkettengesetz-in-Serbien/!6230080/",
-   "q": "taz",
-   "d": "2026-11-16T11:39:00+00:00"
-  },
-  {
-   "t": "Asylpolitik - Ruanda bleibt als Standort für \"Return Hub\" umstritten",
-   "s": "In Ruanda soll 2027 womöglich ein Zentrum für abgelehnte Asylbewerber entstehen. Doch die Pläne von Deutschland und vier weiteren EU-Ländern sind umstritten, auch in der Koalition. Alexander Throm (CDU) weist die Kritik der SPD an den Kosten zurück.Schmidt-Mattern, Barbara",
-   "u": "https://www.deutschlandfunk.de/diskussion-ueber-rueckkehrzentren-interv-mit-cdu-innenpolitiker-alexander-throm-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-16T11:15:00+00:00"
-  },
-  {
-   "t": "Flüchtlingsabschiebungen aus Europa: Dobrindt und seine Kollegen setzen auf Ruanda",
-   "s": "Mehrere europäische Länder wollen abgelehnte Asylbewerber nach Ruanda abschieben. Aufnahme fänden sie in international finanzierten Einrichtungen.",
-   "u": "https://taz.de/Fluechtlingsabschiebungen-aus-Europa/!6230317/",
-   "q": "taz",
-   "d": "2026-11-16T11:11:00+00:00"
-  },
-  {
-   "t": "Ukraine-Krieg: Wie kann ein dauerhafter Frieden gelingen?",
-   "s": "Nach Gesprächen zwischen der Ukraine, den USA und Russlands in Abu Dhabi rückt ein mögliches Kriegsende wieder in den Fokus. Dabei prallen Forderungen nach weiterer Militärhilfe und Diplomatie aufeinander. Offen ist unter anderem die Rolle der EU.Heinemann, Christoph",
-   "u": "https://www.deutschlandfunk.de/kontrovers-ukraine-wie-kann-ein-dauerhafter-frieden-gesichert-werden-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-16T09:08:00+00:00"
-  },
-  {
-   "t": "Britische Beziehungen zur EU: Andy Burnham erklärt Johnsons Brexit-Deal für gescheitert",
-   "s": "Gebrochene Versprechen, unerfüllte Hoffnungen: Andy Burnham rechnet mit Boris Johnsons Brexit-Deal ab und will einen Neustart der Beziehungen zu Brüssel.",
-   "u": "https://taz.de/Britische-Beziehungen-zur-EU/!6230303/",
-   "q": "taz",
-   "d": "2026-11-16T08:45:00+00:00"
-  },
-  {
-   "t": "Söder hält Stromsteuersenkung doch noch für möglich",
-   "s": "Morgen ist die umstrittene Stromsteuer Thema im Koalitionsausschuss. CSU-Chef Söder glaubt noch an eine Einigung und nennt Möglichkeiten, die Milliarden für eine Senkung aufzutreiben. An ein Thema will er aber nicht ran.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-soeder-stromsteuer-moeglich-koalition-muetterrente-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T08:24:05+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Rüsten für den Winter",
-   "s": "Die EU-Außenminister beraten über die nächsten Schritte für die Ukraine. Der Kreml kritisiert Grenzschließung Estlands und meldet ukrainische Angriffe.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6230297/",
-   "q": "taz",
-   "d": "2026-11-16T08:09:00+00:00"
-  },
-  {
-   "t": "Immer mehr Angriffe: BKA-Chef Münch fordert Ausbau der Cyberabwehr",
-   "s": "Deutschland sollte nach Auffassung von BKA-Chef Münch Schwachstellen bei der Abwehr von Cyberangriffen schnell schließen. Die Attacken würden mehr, schneller und professioneller, sagte er im ARD-Morgenmagazin.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/cyberangriffe-abwehr-bka-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T08:05:48+00:00"
-  },
-  {
-   "t": "Abschiebezentrum in Ruanda: SPD-Abgeordnete und Grünen-Chef gegen „Return Hubs“",
-   "s": "Bundesinnenminister Dobrindt (CSU) treibt in Wien Pläne für Abschiebezentren außerhalb der EU voran. Ein Standort soll Ruanda sein. Die SPD kritisiert das.",
-   "u": "https://taz.de/Abschiebelager-in-Ruanda/!6230295/",
-   "q": "taz",
-   "d": "2026-11-16T07:49:00+00:00"
   }
  ]
 }

@@ -1,7 +1,56 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-16T23:44:38+00:00",
+ "updated": "2026-11-17T11:53:55+00:00",
  "items": [
+  {
+   "t": "Marktbericht: DAX-Rückschlag vor Nvidia-Zahlen",
+   "s": "Die Unsicherheiten in der Tech-Branche machen die Anleger nervös. Vor den Quartalszahlen von Nvidia fahren die Anleger ihre Risiken zurück. Im Fokus stehen aber neue Vorwürfe gegen die Deutsche Bank.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T09:57:57+00:00"
+  },
+  {
+   "t": "Trump auf Gipfel-Marathon in Asien - Symbolik statt Substanz?",
+   "s": "Nur wenige Minuten pro Gipfel - viel Zeit nimmt sich US-Präsident Trump bei seinen Treffen in Asien nicht. Vor allem Verbündete müssen sich mit engen Zeitfenstern begnügen. Xi und Putin dürften mehr Aufmerksamkeit bekommen. Von S. Jackisch.",
+   "u": "https://www.tagesschau.de/ausland/asien/trump-asien-reise-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T09:49:58+00:00"
+  },
+  {
+   "t": "Datenleak: Interne Dokumente belasten die Deutsche Bank",
+   "s": "Die Schatten der Vergangenheit holen die Deutsche Bank erneut ein. Informationen aus einem Datenleck offenbaren fragwürdige Geschäftspraktiken und mutmaßliche Probleme bei den Kontrollen beim größten deutschen Geldhaus.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-datenleak-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T09:42:53+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 17.11.2026",
+   "s": "Update Wirtschaft vom 17.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1685166.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T09:11:26+00:00"
+  },
+  {
+   "t": "US-Regierung verhängt neue Exportbeschränkungen für KI-Chips",
+   "s": "Die US-Regierung verschärft ihre Ausfuhrregeln für hochmoderne KI-Chips und will damit nach dem Nvidia-Skandal Schlupflöcher nach China schließen. Die Tech-Aktien in den USA sackten nach der Bekanntgabe ab.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-einschraenkungen-export-ki-chips-nvidia-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T07:59:32+00:00"
+  },
+  {
+   "t": "Tag der Wohnungswirtschaft: Bauen verteuert sich weiter - trotz aller Versprechen",
+   "s": "Trotz Beteuerungen der Politik: Bauen wird in Deutschland immer teurer. Neben globalen Einflüssen wie etwa steigende Energiepreise seien viele Probleme aber hausgemacht, heißt es aus der Branche. Von Axel John.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/tag-der-wohnungswirtschaft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T07:57:10+00:00"
+  },
+  {
+   "t": "Nach Huang-Affäre: Bald alles neu in der KI-Chipindustrie?",
+   "s": "Konkurrenten wie AMD oder Qualcomm reiben sich nach dem Abgang von Huang als CEO bei Nvidia schon die Hände. Was ist dran am möglichen Umbruch der Chip-Branche - und wie viel hat er tatsächlich mit dem Abtritt Huangs zu tun? Von R. Spiegelhauer.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/ki-chipindustrie-nvidia-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T03:16:17+00:00"
+  },
   {
    "t": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
    "s": "Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden.",
@@ -15,13 +64,6 @@
    "u": "https://www.tagesschau.de/video/video-1684932.html",
    "q": "Tagesschau",
    "d": "2026-11-16T18:56:47+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX bleibt nahe Rekordhoch",
-   "s": "Zum Wochenauftakt fällt der DAX moderat. Er bleibt aber nah an seinem Rekordhoch. Investoren warten vor allem die Nvidia-Bilanz ab. Außerdem sorgen sie sich um eine Zinserhöhung in den USA.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T17:21:14+00:00"
   },
   {
    "t": "Deutschland will die eigene Stahlindustrie erhalten - zu welchem Preis?",
@@ -71,13 +113,6 @@
    "u": "https://www.tagesschau.de/investigativ/ndr/offshore-bundesregierung-100.html",
    "q": "Tagesschau",
    "d": "2026-11-16T11:08:19+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 16.11.2026",
-   "s": "Update Wirtschaft vom 16.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1684508.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T08:54:49+00:00"
   },
   {
    "t": "Ex-Nvidia-Chef Huang arbeitet offenbar bereits an seinem Comeback",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
    "q": "Tagesschau",
    "d": "2026-11-14T09:55:34+00:00"
-  },
-  {
-   "t": "Warum in Polen schneller gebaut wird als in Deutschland",
-   "s": "Wird in Polen eine neue Straße oder Brücke errichtet, geht es deutlich schneller als westlich der Oder in Deutschland. Fachleuten zufolge gibt es dafür mehrere Gründe. Von Andre Kartschall und Jakub Paczkowski.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T07:24:30+00:00"
-  },
-  {
-   "t": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
-   "s": "Nach den weltweiten IT-Störungen scheint sich die Lage vor allem in Nordamerika und Europa zu entspannen. Das US-Technologieunternehmen Microsoft spricht von zum Teil \"umfassenden Verbesserungen\".",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T20:21:45+00:00"
-  },
-  {
-   "t": "Microsoft-Ausfälle: \"Für viele Unternehmen digitaler Hirntod\"",
-   "s": "Spätestens nach dem Ausfall bei Microsoft sollten wir uns fragen, wie wir uns unabhängiger machen können, sagt IT-Sicherheitsexperte Dennis-Kenji Kipker. In unsicheren Zeiten brauche es mehr digitale Souveränität - und das sei möglich.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/sicherheitsexperte-abhaengigkeit-microsoft-outlook-teams-risiken-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T12:28:28+00:00"
-  },
-  {
-   "t": "Welche Folgen Nvidias Absturz für die KI-Branche hat",
-   "s": "Mit dem Abgang von Nvidia-Gründer Huang verliert das Unternehmen seinen visionären Vordenker. Was bedeutet das jetzt für das Unternehmen selbst und die Konkurrenz? Von R. Spiegelhauer.",
-   "u": "https://www.tagesschau.de/wirtschaft/nvidia-ruecktritt-folgen-ki-branche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T08:26:55+00:00"
-  },
-  {
-   "t": "Fall Nvidia: US-Senatsausschuss lädt Handelsminister Lutnick und Huang vor",
-   "s": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst. Huang und Handelsminister Lutnick sollen vor dem US-Senat aussagen. Es geht um mögliche Chip-Lieferungen nach China.",
-   "u": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T07:27:43+00:00"
   }
  ]
 }
