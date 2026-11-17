@@ -1,9 +1,30 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-17T11:53:57+00:00",
+ "updated": "2026-11-17T22:52:43+00:00",
  "items": [
   {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Selenskyj bestätigt teilweise Zerstörung der Krim-Brücke",
+   "t": "Ukraine-Treffen in Berlin und Brüssel: Das Mühen um Hilfe und Frieden",
+   "s": "Parallel zur Dreierrunde Putin/Trump/Xi trifft sich die „Koalition der Willigen“ für die Ukraine in Berlin. Ein Geschenk gab es bereits: weitere Luftabwehrraketen.",
+   "u": "https://taz.de/Ukraine-Treffen-in-Berlin-und-Bruessel/!6230787/",
+   "q": "taz",
+   "d": "2026-11-17T16:50:00+00:00"
+  },
+  {
+   "t": "Krieg in der Ukraine: Das Symbol des Putinismus ist eingestürzt",
+   "s": "Putins Krim-Brücke ist nach ukrainischen Angriffen teilweise zerstört worden. Der Ausfall ist verheerend für die russische Armee.",
+   "u": "https://taz.de/Krieg-in-der-Ukraine/!6230784/",
+   "q": "taz",
+   "d": "2026-11-17T15:06:00+00:00"
+  },
+  {
+   "t": "Nach der Wahl in Serbien: In Belgrad kommt das Parlament zur ersten Sitzung zusammen",
+   "s": "Die Studentenliste löste die bisherige rechtsnationalistische Regierung ab. Wie geht es nun weiter im Land?",
+   "u": "https://taz.de/Nach-der-Wahl-in-Serbien/!6230715/",
+   "q": "taz",
+   "d": "2026-11-17T13:33:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Selenskyj bestätigt teilweise Zerstörung der Krim-Brücke",
    "s": "Gegenseitige Angriffe auf wichtige Verkehrsverbindungen: Russland nimmt zwei Brücken in Kyjiw ins Visier, die Ukraine attackiert die Krim-Brücke.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6227328/",
    "q": "taz",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Regierungskrise-in-den-Niederlanden/!6229513/",
    "q": "taz",
    "d": "2026-11-13T18:55:00+00:00"
-  },
-  {
-   "t": "Bildungsreform in Georgien: Zurück in die Sowjetzeit?",
-   "s": "Die georgische Regierung will das Bildungssystem umbauen. Neben mehr staatlicher Kontrolle sehen Kritiker die nationale Selbstbestimmung in Gefahr.",
-   "u": "https://taz.de/Bildungsreform-in-Georgien/!6229714/",
-   "q": "taz",
-   "d": "2026-11-13T17:00:00+00:00"
-  },
-  {
-   "t": "Krieg gegen die Ukraine: Auch in Abu Dhabi spielt der Kreml erfolgreich auf Zeit",
-   "s": "Die Verhandlungen in Abu Dhabi bringen die Ukraine einem Ende des russischen Angriffskriegs nicht näher. Für sie naht der fünfte Kriegswinter.",
-   "u": "https://taz.de/Krieg-gegen-die-Ukraine/!6224431/",
-   "q": "taz",
-   "d": "2026-11-13T16:41:00+00:00"
-  },
-  {
-   "t": "Informeller EU-Gipfel in Dublin: EU-Länder einigen sich auf Verhandlungsteam",
-   "s": "Der Ukraine-Krieg bestimmte erneut das EU-Treffen in Dublin. Am späten Abend einigten sich die Mitgliedsstaaten auf eine Verhandlungsgruppe.",
-   "u": "https://taz.de/Informeller-EU-Gipfel-in-Dublin/!6229802/",
-   "q": "taz",
-   "d": "2026-11-13T16:36:00+00:00"
   }
  ]
 }

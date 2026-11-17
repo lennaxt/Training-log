@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-11-17T11:53:58+00:00",
+ "updated": "2026-11-17T22:52:46+00:00",
  "items": [
+  {
+   "t": "Asean-Gipfel in Manila: Kaum Einigkeit gegen Chinas KI-Vormacht",
+   "s": "Beim Gipfel südostasiatischer Staaten in den Philippinen sorgt Trumps Kurzbesuch für Aufsehen. Linke Gruppen protestieren gegen eine US-Initiative.",
+   "u": "https://taz.de/Asean-Gipfel-in-Manila/!6230832/",
+   "q": "taz",
+   "d": "2026-11-17T17:12:00+00:00"
+  },
   {
    "t": "Kurz vor Apec: Mehrere Vorfälle mit russischen Fliegern in Region",
    "s": "Vor dem Shenzhen-Treffen melden Südkorea und Taiwan russische Militärflugzeuge in Luftverteidigungszonen. Japan spricht von einer Luftraumverletzung.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Auto-rast-in-australische-Abgeordnete/!6222844/",
    "q": "taz",
    "d": "2026-10-20T15:05:00+00:00"
-  },
-  {
-   "t": "Proteste gegen IWF und Weltbank: Opfer konfrontieren Weltbank mit gescheitertem Projekt",
-   "s": "In Thailand protestieren Menschen gegen die Weltbank, die den Preis für deren unerfülltes Wohlstandsversprechen zahlen mussten.",
-   "u": "https://taz.de/Proteste-gegen-IWF-und-Weltbank/!6222192/",
-   "q": "taz",
-   "d": "2026-10-16T18:06:00+00:00"
   }
  ]
 }

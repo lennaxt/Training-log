@@ -1,23 +1,58 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-17T11:53:55+00:00",
+ "updated": "2026-11-17T22:52:41+00:00",
  "items": [
   {
-   "t": "Marktbericht: DAX-Rückschlag vor Nvidia-Zahlen",
-   "s": "Die Unsicherheiten in der Tech-Branche machen die Anleger nervös. Vor den Quartalszahlen von Nvidia fahren die Anleger ihre Risiken zurück. Im Fokus stehen aber neue Vorwürfe gegen die Deutsche Bank.",
+   "t": "Wirtschaft vor acht vom 17.11.2026",
+   "s": "Wirtschaft vor acht vom 17.11.2026",
+   "u": "https://www.tagesschau.de/video/video-1685530.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T19:01:16+00:00"
+  },
+  {
+   "t": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
+   "s": "Der wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurückgetretene Chef des US-Chipkonzerns Nvidia hat gravierende Fehler eingeräumt. Doch sollte der Vorstand das wünschen, würde er gerne an die Unternehmensspitze zurückkehren.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T18:03:42+00:00"
+  },
+  {
+   "t": "Marktbericht: Kräftige Verluste vor Nvidia-Zahlen",
+   "s": "Das Warten auf Zahlen des US-Chipkonzerns Nvidia hat den Handel an der Börse gelähmt. Überschattet wurde das Marktgeschehen von einem riesigen Datenleck bei der Deutschen Bank - was die Aktie tief ins Minus drückte.",
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-17T09:57:57+00:00"
+   "d": "2026-11-17T17:26:00+00:00"
   },
   {
-   "t": "Trump auf Gipfel-Marathon in Asien - Symbolik statt Substanz?",
-   "s": "Nur wenige Minuten pro Gipfel - viel Zeit nimmt sich US-Präsident Trump bei seinen Treffen in Asien nicht. Vor allem Verbündete müssen sich mit engen Zeitfenstern begnügen. Xi und Putin dürften mehr Aufmerksamkeit bekommen. Von S. Jackisch.",
-   "u": "https://www.tagesschau.de/ausland/asien/trump-asien-reise-100.html",
+   "t": "Warum eine Konjunkturerholung noch kein Ende der Jobkrise bedeutet",
+   "s": "Aus der Industrie kommen vorsichtige Zeichen der Zuversicht. Trotzdem könnte der Stellenabbau Experten zufolge erst einmal weitergehen. Warum ein Schub für den Arbeitsmarkt auf sich warten lässt. Von Alina Leimbach.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/industrie-aufschwung-jobabbau-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-17T09:49:58+00:00"
+   "d": "2026-11-17T16:47:06+00:00"
   },
   {
-   "t": "Datenleak: Interne Dokumente belasten die Deutsche Bank",
+   "t": "EU wirft Temu mangelnden Einsatz gegen illegale Produkte vor",
+   "s": "Nicht alles, was Verbraucher online kaufen können, ist so sicher, wie es die EU vorschreibt. Mängel gibt es offenbar beim chinesischen Shoppingportal Temu, dem nun eine weitere Geldstrafe droht.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-temu-illegale-produkte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T13:24:48+00:00"
+  },
+  {
+   "t": "Marktbericht: Deutsche-Bank-Aktien nach neuen Vorwürfen unter Druck",
+   "s": "Aktien der Deutschen Bank fallen deutlich. Grund dafür ist ein Datenleck, das Millionen interner Papiere offengelegt haben soll, in denen unter anderem von Geldwäsche die Rede ist. Das Bankhaus wiegelt ab.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/deutschebank-226.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T13:08:30+00:00"
+  },
+  {
+   "t": "EU-Kommission verdoppelt Prognose für Deutschland",
+   "s": "Die EU-Kommission hat ihre Konjunkturprognose für Deutschland stark angehoben. Grund ist das kräftige Plus bei den Exporten. Die Inflation dürfte jedoch hartnäckig bleiben.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-kommission-wachstumsprognose-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-17T12:42:17+00:00"
+  },
+  {
+   "t": "Datenleck: Interne Dokumente belasten die Deutsche Bank",
    "s": "Die Schatten der Vergangenheit holen die Deutsche Bank erneut ein. Informationen aus einem Datenleck offenbaren fragwürdige Geschäftspraktiken und mutmaßliche Probleme bei den Kontrollen beim größten deutschen Geldhaus.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-datenleak-100.html",
    "q": "Tagesschau",
@@ -57,13 +92,6 @@
    "u": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
    "q": "Tagesschau",
    "d": "2026-11-16T20:48:40+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 16.11.2026",
-   "s": "Wirtschaft vor acht vom 16.11.2026",
-   "u": "https://www.tagesschau.de/video/video-1684932.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T18:56:47+00:00"
   },
   {
    "t": "Deutschland will die eigene Stahlindustrie erhalten - zu welchem Preis?",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/investitionsschutzgesetz-dobrindt-gutachten-verfassungswidrig-100.html",
    "q": "Tagesschau",
    "d": "2026-11-16T05:03:11+00:00"
-  },
-  {
-   "t": "Quallenzucht: Ein Geschäftsmodell, das sich lohnt",
-   "s": "Für die einen ist es eine Plage am Badestrand, für andere ein Geschäftsmodell: In Osthessen steht Europas größte Quallenfarm. Warum sich die Zucht der Nesseltiere wirtschaftlich lohnt. Von Christof Dörr.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/quallenzucht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-15T14:58:36+00:00"
-  },
-  {
-   "t": "Mehr Wettbewerb im Fernverkehr – auf Kosten ländlicher Regionen?",
-   "s": "Private Anbieter könnten den Bahn-Fernverkehr attraktiver machen. Doch was bedeutet das für kleinere Städte und ländliche Regionen? Zur Sicherung ihrer Anbindung gibt es Konzepte. Die Bundesregierung sieht bislang aber keinen Grund zur Eile.",
-   "u": "https://www.deutschlandfunk.de/deutsche-bahn-konkurrenz-flixtrain-italo-fernverkehr-regionen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-14T11:55:00+00:00"
-  },
-  {
-   "t": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
-   "s": "Probleme bei Microsoft hatten zentrale Cloud-Dienste stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen. Laut Microsoft laufen nun alle Systeme wieder. Hinweise auf böswillige Aktivitäten gebe es nicht.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T10:17:44+00:00"
-  },
-  {
-   "t": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-   "s": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T09:55:34+00:00"
   }
  ]
 }
