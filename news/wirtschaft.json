@@ -1,7 +1,77 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-17T22:52:41+00:00",
+ "updated": "2026-11-18T11:43:51+00:00",
  "items": [
+  {
+   "t": "Wie riskant ist Nvidias Kurssturz für ETF-Sparer?",
+   "s": "Nach dem Rücktritt von Jensen Huang hat die Nvidia-Aktie massiv an Wert verloren. Weil sie im MSCI World gelistet ist, betrifft das viele ETF-Sparer. Wie schwer der Kursrutsch wiegt - und wo jetzt weitere Gefahren lauern. Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/nvidia-kurssturz-etf-sparer-risiken-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T10:17:57+00:00"
+  },
+  {
+   "t": "Wenig Bewegung beim DAX",
+   "s": "Starke Zahlen des US-Chipherstellers Nvidia bringen nicht den erhofften Befreiungsschlag. Tech-Sorgen belasten auch weiter den Aktienmarkt.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T09:32:04+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 18.11.2026",
+   "s": "Update Wirtschaft vom 18.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1685746.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T09:20:58+00:00"
+  },
+  {
+   "t": "Baugenehmigungen von Wohnungen brechen nach starkem Anstieg ein",
+   "s": "Nach mehr als einem Jahr mit steigenden Baugenehmigungen gibt es im September erstmals wieder einen Rückgang. Im Vergleich zum Vorjahresmonat wurden knapp 15 Prozent weniger Wohnungen genehmigt.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/wohnungsbau-september-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T09:01:00+00:00"
+  },
+  {
+   "t": "Stromsteuersenkung und Spritpreisdeckel - zeitlich begrenzt",
+   "s": "Die Spitzen von Union und SPD haben sich im Koalitionsausschuss auf eine Senkung der Stromsteuer für alle geeinigt. Die Finanzierung steht allerdings nur für 2027. Auch ein Spritpreisdeckel soll zeitlich begrenzt kommen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-einigung-stromsteuer-spritpreisdeckel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T08:55:03+00:00"
+  },
+  {
+   "t": "Stromsteuersenkung und Spritpreisdeckel: Was die Entlastungen im Alltag bringen könnten",
+   "s": "Ab Januar wollen Union und SPD die Stromsteuer für ein Jahr auf das europäische Mindestniveau senken. Auch ein Spritpreisdeckel ist vereinbart. Was wurde konkret beschlossen und wie viel Entlastung könnte das im Alltag bringen?",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/was-bringt-stromsteuer-senkung-koalitionsausschuss-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T08:26:33+00:00"
+  },
+  {
+   "t": "Welche Fortschritte beim Klimaschutz erreicht wurden",
+   "s": "Weltweit kommt der Ausbau von Erneuerbaren Energien voran - viel stärker als vor Jahren noch erwartet. Das liegt unter anderem daran, dass Solarzellen viel günstiger produziert werden. Positive Beispiele sind Bulgarien und Pakistan. Von J. Kösters.",
+   "u": "https://www.tagesschau.de/wissen/klima/erneuerbare-energien-fortschritte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T05:16:11+00:00"
+  },
+  {
+   "t": "Deutsche-Bank-Tochter DWS: Zwölf Milliarden Euro ohne Geldwäsche-Aufsicht",
+   "s": "Die Deutsche-Bank-Tochter DWS verwaltet Milliarden für Betriebsrenten in einer Stiftung, die nicht von der Finanzaufsicht Bafin kontrolliert wird. Doch nun droht der Stiftung Ärger mit Ermittlern, wie Recherchen von NDR, WDR und SZ zeigen.",
+   "u": "https://www.tagesschau.de/investigativ/ndr-wdr/dws-118.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T05:00:42+00:00"
+  },
+  {
+   "t": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
+   "s": "Die Inflationssorgen sind zurück. Über einen Ausblick auf 2027, Unterschiede zur überstandenen Rekordinflation und was sich vom Nikolaus über die Preisbildung lernen lässt, spricht Bundesbankpräsident Nagel im tagesschau-Interview.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T04:02:36+00:00"
+  },
+  {
+   "t": "Neue Quartalszahlen: Nvidia verdoppelt Umsatz und Gewinn",
+   "s": "Wenige Tage nach der Spionageaffäre rund um den bisherigen Konzernchef Huang hat Nvidia überraschend starke Quartalsergebnisse vorgelegt. Die Zahlen des US-Chipkonzerns lagen deutlich über den Erwartungen von Analysten.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T00:59:30+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 17.11.2026",
    "s": "Wirtschaft vor acht vom 17.11.2026",
@@ -15,13 +85,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html",
    "q": "Tagesschau",
    "d": "2026-11-17T18:03:42+00:00"
-  },
-  {
-   "t": "Marktbericht: Kräftige Verluste vor Nvidia-Zahlen",
-   "s": "Das Warten auf Zahlen des US-Chipkonzerns Nvidia hat den Handel an der Börse gelähmt. Überschattet wurde das Marktgeschehen von einem riesigen Datenleck bei der Deutschen Bank - was die Aktie tief ins Minus drückte.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T17:26:00+00:00"
   },
   {
    "t": "Warum eine Konjunkturerholung noch kein Ende der Jobkrise bedeutet",
@@ -59,13 +122,6 @@
    "d": "2026-11-17T09:42:53+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 17.11.2026",
-   "s": "Update Wirtschaft vom 17.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1685166.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T09:11:26+00:00"
-  },
-  {
    "t": "US-Regierung verhängt neue Exportbeschränkungen für KI-Chips",
    "s": "Die US-Regierung verschärft ihre Ausfuhrregeln für hochmoderne KI-Chips und will damit nach dem Nvidia-Skandal Schlupflöcher nach China schließen. Die Tech-Aktien in den USA sackten nach der Bekanntgabe ab.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-einschraenkungen-export-ki-chips-nvidia-100.html",
@@ -87,88 +143,32 @@
    "d": "2026-11-17T03:16:17+00:00"
   },
   {
-   "t": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
-   "s": "Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden.",
-   "u": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T20:48:40+00:00"
+   "t": "Mehr Wettbewerb im Fernverkehr – auf Kosten ländlicher Regionen?",
+   "s": "Private Anbieter könnten den Bahn-Fernverkehr attraktiver machen. Doch was bedeutet das für kleinere Städte und ländliche Regionen? Zur Sicherung ihrer Anbindung gibt es Konzepte. Die Bundesregierung sieht bislang aber keinen Grund zur Eile.",
+   "u": "https://www.deutschlandfunk.de/deutsche-bahn-konkurrenz-flixtrain-italo-fernverkehr-regionen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-14T11:55:00+00:00"
   },
   {
-   "t": "Deutschland will die eigene Stahlindustrie erhalten - zu welchem Preis?",
-   "s": "Deutschland ohne eigene Stahlindustrie - das würde nicht nur weniger Jobs, sondern auch die komplette Abhängigkeit von Importen bedeuten. Doch die Branche setzt auf Grünen Stahl, und genau das könnte zum Problem werden. Von M. Ortmann und T. Kramer.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/wohin-steuert-die-stahlindustrie-gipfeltreffen-100.html",
+   "t": "Welche Folgen Nvidias Absturz für die KI-Branche hat",
+   "s": "Mit dem Abgang von Nvidia-Gründer Huang verliert das Unternehmen seinen visionären Vordenker. Was bedeutet das jetzt für das Unternehmen selbst und die Konkurrenz? Von R. Spiegelhauer.",
+   "u": "https://www.tagesschau.de/wirtschaft/nvidia-ruecktritt-folgen-ki-branche-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-16T16:36:35+00:00"
+   "d": "2026-11-13T08:26:55+00:00"
   },
   {
-   "t": "Die EU will europäischen Stahl konkurrenzfähig machen",
-   "s": "Die EU möchte dafür sorgen, dass hiesige Stahlkonzerne es leichter haben gegen die Übermacht aus China. Dafür werden inzwischen einige Maßnahmen ergriffen. Doch reichen sie aus? Von Jean-Marie Magro.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/stahl-eu-china-massnahmen-100.html",
+   "t": "11KM-Podcast zum Rücktritt des Nvidia-Chefs: Der Fall Jensen Huang",
+   "s": "Nvidia-Chef Jensen Huang ist zurückgetreten. 11KM erzählt, was zum mutmaßlichen Spionagefall bekannt ist und wie Geheimdienste versuchen, mit intimen Beziehungen Informationen zu sammeln.",
+   "u": "https://www.tagesschau.de/podcast-11km-nvidia-huang-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-16T14:53:07+00:00"
+   "d": "2026-11-13T05:44:09+00:00"
   },
   {
-   "t": "Stahlgipfel in Salzgitter: Unternehmen fordern Entlastung beim Strompreis",
-   "s": "Strom ist für die Stahlindustrie ein entscheidender Faktor: Beim Stahlgipfel in Salzgitter forderte die Branche deshalb einen verlässlichen Strompreis. Bundeswirtschaftsministerin Reiche verwies auf bereits Erreichtes.",
-   "u": "https://www.tagesschau.de/wirtschaft/stahlgipfel-klimawandel-produktion-100.html",
+   "t": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+   "s": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
+   "u": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-16T14:52:36+00:00"
-  },
-  {
-   "t": "Älterer Programmfehler löste Ausfall von Microsoft-Diensten aus",
-   "s": "Ausfälle bei Outlook oder Teams - und das über viele Stunden. Ende letzter Woche hatte die Microsoft-Störung weltweit für massive Schäden gesorgt. Jetzt ist klar, wie es dazu kommen konnte - und warum die Reparatur so lange gedauert hat.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-fehler-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T14:22:45+00:00"
-  },
-  {
-   "t": "EU gibt UniCredit grünes Licht für Commerzbank-Übernahme",
-   "s": "Die EU hat ihr Go für die umstrittene Übernahme der Commerzbank durch die italienische Großbank UniCredit gegeben. Die Kommission sieht \"keine wettbewerbsrechtlichen Bedenken\". Die Fusion rückt näher.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T11:50:50+00:00"
-  },
-  {
-   "t": "Energieverbrauch der Industrie sinkt wegen hoher Preise",
-   "s": "Wegen hoher Preise und weniger Produktion hat die deutsche Industrie 2025 weniger Energie verbraucht. Dabei wird Kohle immer unwichtiger. Doch auch die Erneuerbaren spielen eine eher untergeordnete Rolle.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/energieverbrauch-deutsche-industrie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T11:49:07+00:00"
-  },
-  {
-   "t": "Offshore-Windparks: Bundesregierung macht millionenschweres Angebot",
-   "s": "In der Offshore-Branche stehen viele Projekte auf der Kippe. Nun hat das Wirtschaftsministerium der Energiebranche ein Angebot vorgelegt. Dem NDR liegt das Eckpunktepapier vor. Von Verena von Ondarza.",
-   "u": "https://www.tagesschau.de/investigativ/ndr/offshore-bundesregierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T11:08:19+00:00"
-  },
-  {
-   "t": "Ex-Nvidia-Chef Huang arbeitet offenbar bereits an seinem Comeback",
-   "s": "Seine Affären - auch mit einer mutmaßlichen chinesischen Spionin - haben mehr als eine Billion Dollar Börsenwert vernichtet. Damit war der Rücktritt des Nvidia-Chefs unvermeidlich. Nun plant Jensen Huang offenbar bereits sein Comeback.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-chefposten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T08:07:28+00:00"
-  },
-  {
-   "t": "Altersvorsorgedepot: Wie aus Sparern Anleger werden",
-   "s": "Zum Beginn des neuen Jahres kommt das staatlich geförderte Altersvorsorgedepot. Durch steuerliche Zulagen bietet der Staat Anreize zur privaten Altersvorsorge am Kapitalmarkt. Kann das die deutschen Sparer überzeugen? Von Bianca von der Au.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-rente-aktienmarkt-sparplan-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T08:02:35+00:00"
-  },
-  {
-   "t": "Missglückter Raketenstart: Amazon verliert 40 Satelliten",
-   "s": "Techmilliardär Musks Starlink-Netzwerk dominiert, aber Amazon will ihm Konkurrenz machen. Nun muss das Unternehmen von Jeff Bezos aber einen Rückschlag hinnehmen - und der könnte langfristige Folgen haben.",
-   "u": "https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T06:48:12+00:00"
-  },
-  {
-   "t": "Pläne der Bundesregierung: Juristen zweifeln an Gesetz gegen Vergesellschaftung",
-   "s": "Die Bundesregierung will Ländern die Vergesellschaftung großer Wohnungsbestände erschweren. Ein Gutachten im Auftrag der Linken kommt jedoch zu dem Schluss: Das geplante Investitionsschutzgesetz könnte in Karlsruhe scheitern. Von Alexander Budweg.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/investitionsschutzgesetz-dobrindt-gutachten-verfassungswidrig-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T05:03:11+00:00"
+   "d": "2026-11-13T02:36:47+00:00"
   }
  ]
 }

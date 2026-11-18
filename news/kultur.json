@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-11-17T22:52:45+00:00",
+ "updated": "2026-11-18T11:43:54+00:00",
  "items": [
+  {
+   "t": "Demokratin gewinnt Senatssitz in Alaska: Demokraten erzielen größten Sitzgewinn im Senat seit 1958",
+   "s": "Mary Peltola gewinnt den Senatssitz in Alaska. Für die Demokraten ist es der größte Zugewinn bei US-Zwischenwahlen seit fast 70 Jahren.",
+   "u": "https://taz.de/Demokratin-gewinnt-Senatssitz-in-Alaska/!6231020/",
+   "q": "taz",
+   "d": "2026-11-18T07:32:00+00:00"
+  },
   {
    "t": "US-Forensiker widerspricht Suizid-These: Wurde Jeffrey Epstein doch ermordet?",
    "s": "Davon geht zumindest der US-Forensiker Michael Freeman aus und widerspricht der offiziellen These vom Suizid. Der mögliche Täter aber bleibt im Dunkeln.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Politischer-Wahlkampf-auf-Social-Media/!6229126/",
    "q": "taz",
    "d": "2026-11-11T09:21:00+00:00"
-  },
-  {
-   "t": "Demokraten in den USA: Übertragbares Erfolgsrezept",
-   "s": "Der Ausgang der Midterms in den USA zeigt: Die Menschen haben genug von Polarisierung und gegenseitiger Abwertung. Sie wollen, dass Probleme gelöst werden.",
-   "u": "https://taz.de/US-Midterms-Die-Menschen-haben-genug-von-Polarisierung-und-gegenseitiger-Abwertung/!6228886/",
-   "q": "taz",
-   "d": "2026-11-11T08:47:00+00:00"
   }
  ]
 }

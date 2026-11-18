@@ -1,7 +1,28 @@
 {
  "name": "Wissen",
- "updated": "2026-11-17T22:52:41+00:00",
+ "updated": "2026-11-18T11:43:51+00:00",
  "items": [
+  {
+   "t": "So weit wie noch nie: Raumsonde \"Voyager 1\" - einen Lichttag von Erde entfernt",
+   "s": "Seit fast 50 Jahren erkunden die \"Voyager\"-Sonden die Tiefen des Weltraums. Mit einer solchen Lebensdauer hatte niemand gerechnet. Und heute ist \"Voyager 1\" genau einen Lichttag von der Erde entfernt. Von Nina Kunze.",
+   "u": "https://www.tagesschau.de/wissen/technologie/voyager-1-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T09:46:22+00:00"
+  },
+  {
+   "t": "Welche Fortschritte beim Klimaschutz erreicht wurden",
+   "s": "Weltweit kommt der Ausbau von Erneuerbaren Energien voran - viel stärker als vor Jahren noch erwartet. Das liegt unter anderem daran, dass Solarzellen viel günstiger produziert werden. Positive Beispiele sind Bulgarien und Pakistan. Von J. Kösters.",
+   "u": "https://www.tagesschau.de/wissen/klima/erneuerbare-energien-fortschritte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T05:16:11+00:00"
+  },
+  {
+   "t": "K.o.-Tropfen: Neue Spur im Urin hilft beim Nachweis",
+   "s": "Der Einsatz von K.o.-Tropfen bei Sexualdelikten oder Raub ist für die Opfer hochgefährlich - und meist schwer nachzuweisen. Mithilfe eines neu identifizierten Moleküls könnte sich das nun ändern. Von Andreas Kegel.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/neuer-biomarker-im-urin-hilft-ko-tropfen-nachzuweisen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T05:06:29+00:00"
+  },
   {
    "t": "Neuer Climate Risk Index: Wo schlägt die Klimakrise besonders zu?",
    "s": "Dürren, Fluten, Stürme: Ein neuer Bericht zeigt, welche Länder am stärksten unter Extremwetter leiden - und mit welchen Folgen. Auch in Europa steigen die Risiken. Aber die verletzlichsten Regionen liegen woanders. Von Jakob Mayr.",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/goldabbau-ghana-abholzung-regenwald-100.html",
    "q": "Tagesschau",
    "d": "2026-10-26T06:13:21+00:00"
-  },
-  {
-   "t": "Sommerzeit beendet - Uhren um eine Stunde zurückgestellt",
-   "s": "Die Sommerzeit ist zu Ende, die Uhren wurden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
-   "q": "Tagesschau",
-   "d": "2026-10-25T01:11:58+00:00"
-  },
-  {
-   "t": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
-   "s": "Was einmal Energie sparen sollte, ist jetzt für viele ein Ärgernis. Die EU-Kommission schlug 2018 vor, die Zeitumstellung abzuschaffen. Nur: Welche Zeit soll gelten? Forschende haben eine Antwort. Von Wiebke Drescher.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html",
-   "q": "Tagesschau",
-   "d": "2026-10-24T08:55:12+00:00"
-  },
-  {
-   "t": "Etwa 50.000 Hitzetote im Sommer 2026 in Europa",
-   "s": "Seit Beginn der Aufzeichnungen gab es noch nie so viele Hitzetote in Europa wie im Sommer 2026. Das hat eine britische Analyse ergeben. Die Folgen der von Menschen gemachten Klimaerwärmung werden den Forschern zufolge immer deutlicher.",
-   "u": "https://www.tagesschau.de/wissen/klima/hitzetote-sommer-studie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-23T07:14:56+00:00"
   }
  ]
 }

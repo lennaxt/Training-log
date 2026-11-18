@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-11-17T22:52:39+00:00",
+ "updated": "2026-11-18T11:43:49+00:00",
  "items": [
+  {
+   "t": "US-Midterms: Demokraten gewinnen auch Senatssitz in Alaska",
+   "s": "Alaska stand noch aus, nun ist klar: Auch dort haben die Demokraten den Senatssitz gewonnen. Damit konnten sie bei den Midterms neun zusätzliche Sitze erobern - was es seit Jahrzehnten nicht mehr gab. Senatorin wird die Indigene Mary Peltola.",
+   "u": "https://www.tagesschau.de/ausland/amerika/midterms-usa-alaska-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T06:56:21+00:00"
+  },
+  {
+   "t": "Treffen von Trump, Xi und Putin: Rüstung, KI - und ein heikles Thema",
+   "s": "Heute beginnt im chinesischen Shenzhen das APEC-Treffen. Erstmals wird es zu einem Dreiertreffen von Xi, Trump und Putin kommen. Um was könnte es dabei gehen? Von Christoph Kober.",
+   "u": "https://www.tagesschau.de/ausland/asien/apec-trump-putin-xi-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T05:17:26+00:00"
+  },
+  {
+   "t": "Israels Knesset: Eisenkot-Verbündeter als Parlamentspräsident gewählt",
+   "s": "Das israelische Parlament hat Matan Kahana zu seinem neuen Präsidenten und Sprecher gewählt - damit hat der Anti-Netanjahu-Block einen wichtigen Schritt gemacht. Von Bettina Meier.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-knesset-praesident-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T03:10:48+00:00"
+  },
+  {
+   "t": "Warum die USA nicht mehr masernfrei sind",
+   "s": "Die USA erleben den schlimmsten Masern-Ausbruch seit mehr als 35 Jahren. Und haben nun auch ihren Status als masernfreies Land verloren. Das hat die Panamerikanische Gesundheitsorganisation (PAHO) offiziell bekannt gegeben. Von N. Barth.",
+   "u": "https://www.tagesschau.de/ausland/amerika/masern-usa-118.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T01:34:24+00:00"
+  },
   {
    "t": "\"Ziemlich dumm\": Pistorius reagiert auf US-Kritik an ukrainischen Angriffen",
    "s": "Nach der ukrainischen Attacke auf die Krim-Brücke kritisierten die USA Kiews Angriffe - ohne Russlands Zerstörung ziviler Ziele in der Ukraine zu erwähnen. Verteidigungsminister Pistorius reagierte mit deutlichen Worten.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-flugzeugtraeger-nahost-102.html",
    "q": "Tagesschau",
    "d": "2026-11-16T07:11:37+00:00"
-  },
-  {
-   "t": "Grenzschließung zu Russland soll Estlands Sicherheit schützen",
-   "s": "In Estland ist der Ärger groß: Ab Dezember sollen deswegen Grenzübergänge zu Russland dichtgemacht werden. Anlass ist ein versuchter Anschlag auf eine Rüstungsfirma - das war nicht der erste Vorfall dieser Art. Von C. Stichler.",
-   "u": "https://www.tagesschau.de/ausland/europa/estland-grenze-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T06:14:09+00:00"
-  },
-  {
-   "t": "Jemen: Regierungstruppen wollen Aden vor Huthi schützen",
-   "s": "Die von Iran unterstützte Huthi-Miliz rückt im Jemen offenbar auf den Regierungssitz Aden vor. Gleichzeitig ziehen sich regierungstreue Truppen weiter von der für den Welthandel wichtigen Meerenge Bab al-Mandab zurück.",
-   "u": "https://www.tagesschau.de/ausland/asien/jemen-huthi-aden-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T05:56:28+00:00"
-  },
-  {
-   "t": "Mögliche Abkommen: Eignet sich Ruanda für Abschiebezentren?",
-   "s": "Wohin mit abgelehnten Asylbewerbern, die nicht in ihre Herkunftsländer abgeschoben werden können? Nach Plänen Deutschlands und anderer EU-Länder könnten sie bald nach Ruanda gebracht werden. Menschenrechtler warnen. Von Karin Bensch.",
-   "u": "https://www.tagesschau.de/ausland/afrika/ruanda-abschiebezentrum-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T05:36:50+00:00"
-  },
-  {
-   "t": "Papst besucht bedrohte Lebensräume in den Anden und im Amazonasgebiet",
-   "s": "Kurz vor Abschluss seiner Südamerika-Tour hat Papst Leo XIV. indigene Lebenswelten in den Anden und am Amazonas besucht. Dort kritisierte er mit deutlichen Worten Umweltverschmutzung und soziale Ungleichheit. Von Tilmann Kleinjung.",
-   "u": "https://www.tagesschau.de/ausland/amerika/papst-suedamerikareise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-16T03:22:31+00:00"
   }
  ]
 }

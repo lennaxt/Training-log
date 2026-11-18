@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-17T22:52:43+00:00",
+ "updated": "2026-11-18T11:43:53+00:00",
  "items": [
+  {
+   "t": "Proteste in Frankreich: Enttäuschte Beamte und viel Wut",
+   "s": "Wieder haben in Frankreich landesweit Hunderttausende für höhere Löhne und mehr Bildungsschancen demonstriert. Der Frust ist groß.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6231018/",
+   "q": "taz",
+   "d": "2026-11-18T10:56:00+00:00"
+  },
+  {
+   "t": "Repression gegen NGOs in Italien: Bußgeld wegen erster Hilfe",
+   "s": "In Triest versorgen Lorena Fornasir und ihre NGO Geflüchtete auf dem Bahnhofsvorplatz. Das steht nun unter Strafe – weil es die „Erholung“ stört.",
+   "u": "https://taz.de/Repression-gegen-NGOs-in-Italien/!6230819/",
+   "q": "taz",
+   "d": "2026-11-18T06:08:00+00:00"
+  },
+  {
+   "t": "Kampf gegen Korruption in der Ukraine: Dünnes Eis für ukrainische Krokodile",
+   "s": "Eine Affäre um betrügerische Callcenter in Kyjiw wächst zu einem Geheimdienstskandal. Die Korruptionsbekämpfer der Ukraine werden immer effektiver.",
+   "u": "https://taz.de/Kampf-gegen-Korruption-in-der-Ukraine/!6230776/",
+   "q": "taz",
+   "d": "2026-11-18T06:05:00+00:00"
+  },
   {
    "t": "Ukraine-Treffen in Berlin und Brüssel: Das Mühen um Hilfe und Frieden",
    "s": "Parallel zur Dreierrunde Putin/Trump/Xi trifft sich die „Koalition der Willigen“ für die Ukraine in Berlin. Ein Geschenk gab es bereits: weitere Luftabwehrraketen.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6230046/",
    "q": "taz",
    "d": "2026-11-14T13:29:00+00:00"
-  },
-  {
-   "t": "Minderheitsregierung in den Niederlanden: Lieber Neustart als Neuwahlen",
-   "s": "Ein Streit um die Steuerreform hatte die niederländische Regierung von Ministerpräsident Rob Jetten ins Wanken gebracht. Ein Bruch wurde abgewendet – vorerst.",
-   "u": "https://taz.de/Minderheitsregierung-in-den-Niederlanden/!6230043/",
-   "q": "taz",
-   "d": "2026-11-14T11:24:00+00:00"
-  },
-  {
-   "t": "Nach den Parlamentswahlen in Serbien: Gas geben, aber mit Bedacht",
-   "s": "In Serbien jagt eine Festnahme die andere. Fast täglich werden Strafverfahren eingeleitet. Juristen warnen vor allzu großem Übereifer.",
-   "u": "https://taz.de/Nach-den-Parlamentswahlen-in-Serbien/!6229841/",
-   "q": "taz",
-   "d": "2026-11-14T09:41:00+00:00"
-  },
-  {
-   "t": "Regierungskrise in den Niederlanden: Offener Dissens von Anfang an",
-   "s": "Die Suche nach den Ursachen für die aktuelle Regierungskrise in den Niederlanden führt zur Entstehungsgeschichte der Minderheitsregierung von Rob Jetten.",
-   "u": "https://taz.de/Regierungskrise-in-den-Niederlanden/!6229513/",
-   "q": "taz",
-   "d": "2026-11-13T18:55:00+00:00"
   }
  ]
 }

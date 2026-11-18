@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-17T22:52:42+00:00",
+ "updated": "2026-11-18T11:43:52+00:00",
  "items": [
+  {
+   "t": "Landtagswahl in Schleswig-Holstein: Platzhirsch vor schwieriger Regierungsbildung",
+   "s": "Schleswig-Holsteins Parteien bringen sich für die Landtagswahl im April in Stellung. Im nächsten Landtag könnten bis zu sieben Fraktionen sitzen.",
+   "u": "https://taz.de/Landtagswahl-in-Schleswig-Holstein/!6230855/",
+   "q": "taz",
+   "d": "2026-11-18T10:52:00+00:00"
+  },
+  {
+   "t": "Bundesverfassungsgericht: BSW scheitert mit Wahlbeschwerde",
+   "s": "Das BSW ist am Bundesverfassungsgericht in Karlsruhe mit dem Versuch gescheitert, eine Neuauszählung der Stimmen für die Bundestagswahl 2025 zu erreichen.",
+   "u": "https://taz.de/Bundesverfassungsgericht/!6231041/",
+   "q": "taz",
+   "d": "2026-11-18T09:36:00+00:00"
+  },
+  {
+   "t": "Stromsteuersenkung: Einigung vor GTA VI",
+   "s": "Union und SPD beschließen eine Stromsteuersenkung für alle Verbraucher. Doch die Finanzierung ist vorerst nur für 2027 gesichert.",
+   "u": "https://taz.de/Stromsteuer/!6231014/",
+   "q": "taz",
+   "d": "2026-11-18T06:46:00+00:00"
+  },
   {
    "t": "Özdemir-Freund und Oberbürgermeister: Palmer schafft sich ab",
    "s": "Auf eigenen Wunsch: Boris Palmer kehrt nach Belästigungsvorwürfen nicht zurück auf seinen Posten als Bürokratiebeauftragter von Baden-Württemberg.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Rennen-um-SPD-Vorsitz/!6230057/",
    "q": "taz",
    "d": "2026-11-14T19:20:00+00:00"
-  },
-  {
-   "t": "Die Zukunft von Gen Z regelt: Zwischen Bundestag und Barrikade",
-   "s": "Juli Felder (17) und Lina Friedrich (21) wollen beide als Gen Z regelt die Gesellschaft verändern. Doch sie streiten über den Weg dahin.",
-   "u": "https://taz.de/Die-Zukunft-von-Gen-Z-regelt/!6224382/",
-   "q": "taz",
-   "d": "2026-11-14T18:50:00+00:00"
-  },
-  {
-   "t": "Atomare Rüstung: Heftige Kritik an Urenco-Verstaatlichung",
-   "s": "Für 4 Milliarden Euro will der Bund Anteile des Urananreicherers kaufen – und steigt damit ins atomare Wettrüsten ein. Kritik kommt von allen Seiten.",
-   "u": "https://taz.de/Atomare-Ruestung/!6230055/",
-   "q": "taz",
-   "d": "2026-11-14T18:48:00+00:00"
-  },
-  {
-   "t": "Claudia Roth bei Tilo Jung: Wie gut, dass es die „ausländischen Freunde“ gibt",
-   "s": "Denn wenn es darum geht, die Deutschen von ihrer historischen Schuld gegenüber Juden zu befreien, sind sie schnell zur Stelle. Auch Claudia Roth holt sich bei ihnen Rat.",
-   "u": "https://taz.de/Claudia-Roth-bei-Tilo-Jung/!6229494/",
-   "q": "taz",
-   "d": "2026-11-14T18:47:00+00:00"
   }
  ]
 }

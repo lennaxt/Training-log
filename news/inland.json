@@ -1,7 +1,147 @@
 {
  "name": "Inland",
- "updated": "2026-11-17T22:52:38+00:00",
+ "updated": "2026-11-18T11:43:49+00:00",
  "items": [
+  {
+   "t": "Streit über Angriffe tief in Russland: Pistorius nennt US-Einwände „ziemlich dumm“",
+   "s": "Die US-Regierung kritisiert ukrainischen Angriff auf die Krim-Brücke. Der deutsche Verteidigungsminister verteidigt die Kriegsstrategie der Ukraine.",
+   "u": "https://taz.de/Streit-ueber-Angriffe-tief-in-Russland/!6231095/",
+   "q": "taz",
+   "d": "2026-11-18T11:24:00+00:00"
+  },
+  {
+   "t": "Sorgerechtsreform: Kein Umgangsrecht mehr für gewalttätigen Elternteil",
+   "s": "Wie können Kinder besser geschützt werden, wenn es zwischen den Eltern zu Gewalt kommt? Die Regierung hat dafür eine Gesetzesreform auf den Weg gebracht - mit klar geregelten Sanktionen für Eltern und mehr Mitbestimmungsrechten für Kinder.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/gesetzentwurf-sorgerecht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T11:19:09+00:00"
+  },
+  {
+   "t": "Proteste in Frankreich: Enttäuschte Beamte und viel Wut",
+   "s": "Wieder haben in Frankreich landesweit Hunderttausende für höhere Löhne und mehr Bildungsschancen demonstriert. Der Frust ist groß.",
+   "u": "https://taz.de/Proteste-in-Frankreich/!6231018/",
+   "q": "taz",
+   "d": "2026-11-18T10:56:00+00:00"
+  },
+  {
+   "t": "Landtagswahl in Schleswig-Holstein: Platzhirsch vor schwieriger Regierungsbildung",
+   "s": "Schleswig-Holsteins Parteien bringen sich für die Landtagswahl im April in Stellung. Im nächsten Landtag könnten bis zu sieben Fraktionen sitzen.",
+   "u": "https://taz.de/Landtagswahl-in-Schleswig-Holstein/!6230855/",
+   "q": "taz",
+   "d": "2026-11-18T10:52:00+00:00"
+  },
+  {
+   "t": "Unions-Fraktionsvize sieht Nachholbedarf bei Politik für junge Menschen",
+   "s": "Ende Oktober hatte es am Rande von \"Gen Z\"-Demos massive Gewalt gegeben, danach gab es Forderungen nach Demo-Verboten. Für Freitag sind neue Kundgebungen geplant. Aus Parteien kommt nun demonstrative Unterstützung - auch aus der Union.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-union-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T10:32:57+00:00"
+  },
+  {
+   "t": "Irankrieg: Bahrain und Kuwait geraten erneut unter Beschuss",
+   "s": "Die Golfstaaten Kuwait und Bahrain geraten erneut unter feindlichen Beschuss. Der Iran hatte zuvor Vergeltung für neue US-Attacken angekündigt.",
+   "u": "https://taz.de/Iran-Krieg/!6231055/",
+   "q": "taz",
+   "d": "2026-11-18T10:18:00+00:00"
+  },
+  {
+   "t": "Bundesverfassungsgericht: BSW scheitert mit Wahlbeschwerde",
+   "s": "Das BSW ist am Bundesverfassungsgericht in Karlsruhe mit dem Versuch gescheitert, eine Neuauszählung der Stimmen für die Bundestagswahl 2025 zu erreichen.",
+   "u": "https://taz.de/Bundesverfassungsgericht/!6231041/",
+   "q": "taz",
+   "d": "2026-11-18T09:36:00+00:00"
+  },
+  {
+   "t": "Stromsteuersenkung und Spritpreisdeckel - zeitlich begrenzt",
+   "s": "Die Spitzen von Union und SPD haben sich im Koalitionsausschuss auf eine Senkung der Stromsteuer für alle geeinigt. Die Finanzierung steht allerdings nur für 2027. Auch ein Spritpreisdeckel soll zeitlich begrenzt kommen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-einigung-stromsteuer-spritpreisdeckel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T08:55:03+00:00"
+  },
+  {
+   "t": "Bundesverfassungsgericht: BSW scheitert mit Wahlbeschwerde",
+   "s": "Das BSW war bei der Bundestagswahl sehr knapp gescheitert und wollte, dass neu ausgezählt wird. Damit scheiterte die Partei nun auch endgültig vor dem Bundesverfassungsgericht. BSW-Politiker kritisierten das scharf.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bsw-wahlpruefung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T08:55:02+00:00"
+  },
+  {
+   "t": "Stromsteuersenkung und Spritpreisdeckel: Was die Entlastungen im Alltag bringen könnten",
+   "s": "Ab Januar wollen Union und SPD die Stromsteuer für ein Jahr auf das europäische Mindestniveau senken. Auch ein Spritpreisdeckel ist vereinbart. Was wurde konkret beschlossen und wie viel Entlastung könnte das im Alltag bringen?",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/was-bringt-stromsteuer-senkung-koalitionsausschuss-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T08:26:33+00:00"
+  },
+  {
+   "t": "Schneller zum Facharzt – aber nur, wer selbst zahlt?",
+   "s": "Wegen geplanter Kürzungen bei der Vergütung von Arztpraxen warnt Kassenärzte-Chef Andreas Gassen vor längeren Wartezeiten und mehr Selbstzahlerterminen. Das sorgt für heftige Kritik. Doch hinter der Debatte stecken Probleme, die schon länger bestehen.",
+   "u": "https://www.deutschlandfunk.de/selbstzahler-facharzttermin-kassenpatienten-wartezeit-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-18T08:17:00+00:00"
+  },
+  {
+   "t": "Neuer Parlamentspräsident in Israel: Erster Schritt zu Netanjahus Entmachtung",
+   "s": "Die Knesset wählt nach hitziger Debatte einen neuen Parlamentssprecher. Der Kandidat des designierten Regierungschefs Eisenkot setzt sich durch.",
+   "u": "https://taz.de/Neuer-Parlamentspraesident-in-Israel/!6231021/",
+   "q": "taz",
+   "d": "2026-11-18T08:14:00+00:00"
+  },
+  {
+   "t": "Demokratin gewinnt Senatssitz in Alaska: Demokraten erzielen größten Sitzgewinn im Senat seit 1958",
+   "s": "Mary Peltola gewinnt den Senatssitz in Alaska. Für die Demokraten ist es der größte Zugewinn bei US-Zwischenwahlen seit fast 70 Jahren.",
+   "u": "https://taz.de/Demokratin-gewinnt-Senatssitz-in-Alaska/!6231020/",
+   "q": "taz",
+   "d": "2026-11-18T07:32:00+00:00"
+  },
+  {
+   "t": "Stromsteuersenkung: Einigung vor GTA VI",
+   "s": "Union und SPD beschließen eine Stromsteuersenkung für alle Verbraucher. Doch die Finanzierung ist vorerst nur für 2027 gesichert.",
+   "u": "https://taz.de/Stromsteuer/!6231014/",
+   "q": "taz",
+   "d": "2026-11-18T06:46:00+00:00"
+  },
+  {
+   "t": "Mögliche Stromsteuersenkung: Verhandlung beendet - Verkündung am Morgen",
+   "s": "Nach acht Stunden haben die Spitzen von CDU, CSU und SPD ihre Beratungen in der Nacht beendet - haben sie sich auf eine Stromsteuersenkung geeinigt? Die Details aus dem Koalitionsausschuss sollen am Morgen bekannt gegeben werden.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/koalition-beendet-verhandlungen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T06:20:31+00:00"
+  },
+  {
+   "t": "Repression gegen NGOs in Italien: Bußgeld wegen erster Hilfe",
+   "s": "In Triest versorgen Lorena Fornasir und ihre NGO Geflüchtete auf dem Bahnhofsvorplatz. Das steht nun unter Strafe – weil es die „Erholung“ stört.",
+   "u": "https://taz.de/Repression-gegen-NGOs-in-Italien/!6230819/",
+   "q": "taz",
+   "d": "2026-11-18T06:08:00+00:00"
+  },
+  {
+   "t": "Kampf gegen Korruption in der Ukraine: Dünnes Eis für ukrainische Krokodile",
+   "s": "Eine Affäre um betrügerische Callcenter in Kyjiw wächst zu einem Geheimdienstskandal. Die Korruptionsbekämpfer der Ukraine werden immer effektiver.",
+   "u": "https://taz.de/Kampf-gegen-Korruption-in-der-Ukraine/!6230776/",
+   "q": "taz",
+   "d": "2026-11-18T06:05:00+00:00"
+  },
+  {
+   "t": "Bundestagswahl 2025: Karlsruhe entscheidet über BSW-Wahlbeschwerde",
+   "s": "Bei der Bundestagswahl 2025 fehlten dem BSW weniger als 10.000 Stimmen für den Einzug ins Parlament. Im Streit um eine Neuauszählung steht jetzt eine Entscheidung aus Karlsruhe an. Von K. Hempel und T. Zachäus.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/muss-bundestagswahl-neu-ausgezaehlt-werden-bsw-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T05:05:41+00:00"
+  },
+  {
+   "t": "\"Heimatreport\": Viel Zufriedenheit, aber auch Sorgen",
+   "s": "Der erste \"Heimatreport\" des Bundeslandwirtschaftsministeriums zeigt: Viele Deutsche sind zufrieden und fühlen sich mit Wohnort und Region verbunden. Sorgen gibt es, dass sich die Lebensbedingungen verschlechtern. Von Eva Huber.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/stimmungslage-deutschland-heimatreport-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T04:31:00+00:00"
+  },
+  {
+   "t": "Alabali Radovan: Der Irak braucht Zusammenarbeit",
+   "s": "Nach dem letzten Irakkrieg stand vor allem der Wiederaufbau im Mittelpunkt. Nun wird das Land dabei unterstützt, seine Ressourcen besser zu nutzen, so Bundesentwicklungsministerin Reem Alabali Radovan. Dafür gebe es vor Ort einen besonderen Wunsch.Armbrüster, Tobias",
+   "u": "https://www.deutschlandfunk.de/entwicklungszusammenarbeit-mit-dem-irak-interview-alabali-radovan-spd-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-18T04:16:00+00:00"
+  },
   {
    "t": "Israels Besatzungspolitik und Big Tech: Wir sind alle Komplizen",
    "s": "Israel hat Millionen von Fotos auf eine Amazon-Cloud hochgeladen, um damit Palästinenser zu überwachen. Soll man den Konzern deswegen boykottieren?",
@@ -29,146 +169,6 @@
    "u": "https://taz.de/Deutsches-Abschiebezentrum-in-Ruanda/!6230916/",
    "q": "taz",
    "d": "2026-11-17T17:15:00+00:00"
-  },
-  {
-   "t": "Asean-Gipfel in Manila: Kaum Einigkeit gegen Chinas KI-Vormacht",
-   "s": "Beim Gipfel südostasiatischer Staaten in den Philippinen sorgt Trumps Kurzbesuch für Aufsehen. Linke Gruppen protestieren gegen eine US-Initiative.",
-   "u": "https://taz.de/Asean-Gipfel-in-Manila/!6230832/",
-   "q": "taz",
-   "d": "2026-11-17T17:12:00+00:00"
-  },
-  {
-   "t": "US-Forensiker widerspricht Suizid-These: Wurde Jeffrey Epstein doch ermordet?",
-   "s": "Davon geht zumindest der US-Forensiker Michael Freeman aus und widerspricht der offiziellen These vom Suizid. Der mögliche Täter aber bleibt im Dunkeln.",
-   "u": "https://taz.de/US-Forensiker-widerspricht-der-offiziellen-These-vom-Suizid-Wurde-Jeffrey-Epstein-doch-ermordet/!6230922/",
-   "q": "taz",
-   "d": "2026-11-17T17:10:00+00:00"
-  },
-  {
-   "t": "Showdown im Koalitionsausschuss: Bekommt der Kanzler seinen Willen?",
-   "s": "Bei einem Koalitionsausschuss wird zurzeit nach Milliarden gesucht, um die Stromsteuer senken zu können. Zuvor hatte sich Kanzler Merz weit aus dem Fenster gelehnt. Setzt er sein Versprechen durch? Von N. Kohnert.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T16:52:59+00:00"
-  },
-  {
-   "t": "Ukraine-Treffen in Berlin und Brüssel: Das Mühen um Hilfe und Frieden",
-   "s": "Parallel zur Dreierrunde Putin/Trump/Xi trifft sich die „Koalition der Willigen“ für die Ukraine in Berlin. Ein Geschenk gab es bereits: weitere Luftabwehrraketen.",
-   "u": "https://taz.de/Ukraine-Treffen-in-Berlin-und-Bruessel/!6230787/",
-   "q": "taz",
-   "d": "2026-11-17T16:50:00+00:00"
-  },
-  {
-   "t": "Schulbegleitung: Reformdruck durch gestiegene Kosten",
-   "s": "Schulbegleiter helfen Kindern mit Förderbedarf, den Alltag in der Schule zu bewältigen. Doch die Kosten dafür sind stark gestiegen, immer mehr Kinder scheinen Hilfe zu benötigen. Bildungspolitiker suchen nach einem Ausweg.",
-   "u": "https://www.deutschlandfunk.de/schulbegleiter-kosten-inklusion-adhs-autismus-foerderbedarf-behinderung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-17T16:14:00+00:00"
-  },
-  {
-   "t": "Nach Kürzungen bei Priens Bundesprogramm: Demokratieprojekte fordern 50 Millionen Euro",
-   "s": "Das Programm „Demokratie leben“ wird um 20 Millionen Euro gekürzt. Nun fordern Initiativen eine Kehrtwende. Auch die SPD kritisiert hier die Union.",
-   "u": "https://taz.de/Nach-Kuerzungen-bei-Priens-Bundesprogramm/!6230900/",
-   "q": "taz",
-   "d": "2026-11-17T16:02:00+00:00"
-  },
-  {
-   "t": "Zarte Hoffnung nach der Brandkatastrophe im Hürtgenwald",
-   "s": "Hunderte Einsatzkräfte kämpften im August gegen die Flammen im Hürtgenwald. Zurück blieb eine verwüstete Landschaft. Doch es gibt Hoffnung: Erste Pflanzen keimen und deuten auf eine Erholung der Natur hin. Von Jan Koch.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/klimawandel-huertgenwald-zukunft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T15:53:57+00:00"
-  },
-  {
-   "t": "Festnahme in Brandenburg: Wie ein Ukrainer für Russland spioniert haben soll",
-   "s": "Mitte Oktober ließ der Generalbundesanwalt in Eisenhüttenstadt einen Ukrainer festnehmen, der für einen russischen Geheimdienst spioniert haben soll. Recherchen von ARD-Hauptstadtstudio und SWR verdeutlichen den Umfang des mutmaßlichen Verrats.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/spion-russland-festnahme-brandenburg-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T15:53:40+00:00"
-  },
-  {
-   "t": "Abschiebefantasien nach Afrika: Nicht Ruanda ist das Problem",
-   "s": "Deutschlands geplanter Ruanda-Deal ist absurd und nicht umsetzbar. Aber dass seine Kritiker auf die Verteufelung Ruandas setzen, ist ebenso verkehrt.",
-   "u": "https://taz.de/Abschiebefantasien-nach-Afrika/!6230808/",
-   "q": "taz",
-   "d": "2026-11-17T15:45:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: Das Symbol des Putinismus ist eingestürzt",
-   "s": "Putins Krim-Brücke ist nach ukrainischen Angriffen teilweise zerstört worden. Der Ausfall ist verheerend für die russische Armee.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6230784/",
-   "q": "taz",
-   "d": "2026-11-17T15:06:00+00:00"
-  },
-  {
-   "t": "Koalition ringt um Stromsteuer: Crashtest für Merz",
-   "s": "Der Kanzler will heute Abend im Koalitionsausschuss doch noch eine Senkung der Stromsteuer erreichen. Wird sonst der Haushalt zur Vertrauensfrage?",
-   "u": "https://taz.de/Koalition-ringt-um-Stromsteuer/!6230772/",
-   "q": "taz",
-   "d": "2026-11-17T14:59:00+00:00"
-  },
-  {
-   "t": "Debatte um Wehrpflicht und Bundeswehr: Ein Furz im Adlon",
-   "s": "Im Berliner Nobelhotel Adlon kommt das Nato-Vorfeld zusammen, um über die Wehrpflicht zu diskutieren. Die unangenehmen Fragen werden ausgeklammert.",
-   "u": "https://taz.de/Debatte-um-Wehrpflicht-und-Bundeswehr/!6229996/",
-   "q": "taz",
-   "d": "2026-11-17T14:26:00+00:00"
-  },
-  {
-   "t": "EU-Sanktionsliste: Gaza Now auf EU-Sanktionsliste gestellt",
-   "s": "Dem Kanal Gaza Now und seinem Gründer Mustafa Ajasch wird vorgeworfen, die Hamas mitfinanziert zu haben. Was ist dran an den Vorwürfen?",
-   "u": "https://taz.de/EU-Sanktionsliste/!6230729/",
-   "q": "taz",
-   "d": "2026-11-17T14:13:00+00:00"
-  },
-  {
-   "t": "Rüstungsindustrie in Ostdeutschland – Neue Werke, Jobs und wachsender Protest",
-   "s": "Neue Rüstungsfabriken sollen Ostdeutschland Arbeitsplätze und Investitionen bringen. Doch vielerorts regt sich Widerstand. Hinter den Protesten stehen unterschiedliche politische Motive – und die Frage, welche Rolle die Waffenproduktion spielen soll.",
-   "u": "https://www.deutschlandfunk.de/ruestungsindustrie-ostdeutschland-fabriken-proteste-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-17T13:59:00+00:00"
-  },
-  {
-   "t": "Mehr Anträge auf Pflegegutachten vor geplanten Einschnitten",
-   "s": "Weil es immer mehr Pflegebedürftige gibt und die Kosten der Pflegeversicherungen stark steigen, plant die Bundesregierung Einschnitte. Das führt offenbar dazu, dass deutlich mehr Menschen versuchen, einen Pflegegrad zu bekommen.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/starker-anstieg-bei-pflegegutachten-vor-geplanter-reform-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T13:40:42+00:00"
-  },
-  {
-   "t": "Die AfD entzweit sich am Begriff \"Remigration\"",
-   "s": "Lange war sich die AfD zumindest bei ihrem Kernthema einig. Doch jetzt gibt es Streit über den Migrationskurs der Partei. Prominente Politiker fordern eine Mäßigung, andere warnen genau davor. Von Julie Kurz.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-remigration-streit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T13:39:03+00:00"
-  },
-  {
-   "t": "Nach der Wahl in Serbien: In Belgrad kommt das Parlament zur ersten Sitzung zusammen",
-   "s": "Die Studentenliste löste die bisherige rechtsnationalistische Regierung ab. Wie geht es nun weiter im Land?",
-   "u": "https://taz.de/Nach-der-Wahl-in-Serbien/!6230715/",
-   "q": "taz",
-   "d": "2026-11-17T13:33:00+00:00"
-  },
-  {
-   "t": "Streit über Neuausrichtung der Bundeszentrale für politische Bildung",
-   "s": "Die Bundeszentrale für politische Bildung soll politische Aufklärungsarbeit leisten – überparteilich. Nun möchte das Innenministerium die Behörde neu ausrichten. Das hat eine heftige Debatte entfacht.",
-   "u": "https://www.deutschlandfunk.de/bundeszentrale-politische-bildung-neuausrichtung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-17T12:28:00+00:00"
-  },
-  {
-   "t": "\"Glücksatlas 2026\": In Bayern leben die zufriedensten Deutschen",
-   "s": "Die Bayern haben die Hamburger vom ersten Platz verdrängt: Sie sind laut Befragung das glücklichste Bundesland in Deutschland. Insgesamt sank die Lebenszufriedenheit wieder leicht - erstmals seit 2021.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/gluecksatlas-166.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T12:08:32+00:00"
-  },
-  {
-   "t": "Umfrage und Studie zu Diskriminierung: Viele psychisch Kranke sehen sich im Job benachteiligt",
-   "s": "Mobbing statt Beförderung? Wer eine psychische Erkrankung hat, ist auf der Arbeit oft mit besonderen Schwierigkeiten konfrontiert.",
-   "u": "https://taz.de/Umfrage-und-Studie-zu-Diskriminierung/!6230768/",
-   "q": "taz",
-   "d": "2026-11-17T11:34:00+00:00"
   }
  ]
 }
