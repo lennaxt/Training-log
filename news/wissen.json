@@ -1,7 +1,28 @@
 {
  "name": "Wissen",
- "updated": "2026-11-18T11:43:51+00:00",
+ "updated": "2026-11-18T22:35:51+00:00",
  "items": [
+  {
+   "t": "Team aus Karlsruhe erhält Zukunftspreis für Mikrochip-Forschung",
+   "s": "Mit dem Deutschen Zukunftspreis des Bundespräsidenten soll besonders innovative Forschung ausgezeichnet werden. Dieses Jahr geht er an ein Forscher-Team, das an einer Technik gegen Datenstau bei Mikrochips arbeitet.",
+   "u": "https://www.tagesschau.de/wissen/forschung/zukunftspreis-110.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T19:44:46+00:00"
+  },
+  {
+   "t": "Studie: Diese Themen machen Kindern und Jugendlichen Angst",
+   "s": "Kriege, Wirtschaftskrisen, Wohnungsnot: Viele Jugendliche sorgen sich um ihre Zukunft. Das zeigt die neue COPSY-Studie. Ob Kinder dauerhaft psychisch belastet sind, hängt aber von etwas anderem ab. Von Melanie Stinn.",
+   "u": "https://www.tagesschau.de/wissen/copsy-studie-2026-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T15:06:36+00:00"
+  },
+  {
+   "t": "Wie eine Zuckersteuer der Gesundheit helfen kann",
+   "s": "Weniger Zucker in Getränken, weniger Erkrankungen - das ist die Hoffnung hinter einer Zuckersteuer. Doch dabei kommt es darauf an, was tatsächlich in die Flasche kommt. Von Yasmin Appelhans.",
+   "u": "https://www.tagesschau.de/wissen/gesundheit/wie-eine-zuckersteuer-der-gesundheit-helfen-koennte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T11:43:38+00:00"
+  },
   {
    "t": "So weit wie noch nie: Raumsonde \"Voyager 1\" - einen Lichttag von Erde entfernt",
    "s": "Seit fast 50 Jahren erkunden die \"Voyager\"-Sonden die Tiefen des Weltraums. Mit einer solchen Lebensdauer hatte niemand gerechnet. Und heute ist \"Voyager 1\" genau einen Lichttag von der Erde entfernt. Von Nina Kunze.",
@@ -64,13 +85,6 @@
    "u": "https://www.tagesschau.de/video/video-1683698.html",
    "q": "Tagesschau",
    "d": "2026-11-14T11:41:52+00:00"
-  },
-  {
-   "t": "Nicht mehr nur BMI: So könnte Adipositas besser definiert werden",
-   "s": "Wie schwer und groß man ist, sagt allein nicht genug über die Gesundheit aus. Deshalb ist der Body-Mass-Index (BMI) seit Jahren in der Kritik. Eine neue Studie zeigt, welche Vorteile eine genauere Diagnose bringen würde. Von Veronika Simon.",
-   "u": "https://www.tagesschau.de/wissen/adipositas-definition-bmi-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T16:01:31+00:00"
   },
   {
    "t": "Wenn Klimaschutz überfordert",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/herbst-spaziergang-100.html",
    "q": "Tagesschau",
    "d": "2026-10-29T05:45:03+00:00"
-  },
-  {
-   "t": "Bericht der Weltwetterorganisation: Immer mehr Treibhausgase in der Atmosphäre",
-   "s": "In der Atmoshäre sammeln sich immer mehr Treibhausgase. Das zeigt ein neuer Bericht der Weltwetterorganisation. Offenbar erholt sich die Natur von Hitze und Trockenheit nicht so schnell wie erwartet. Von N. Gode und S. Biegger.",
-   "u": "https://www.tagesschau.de/wissen/klima/treibhausgase-so-hoch-wie-nie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T09:00:07+00:00"
-  },
-  {
-   "t": "Wie die Goldsuche Natur und Lebensgrundlagen in Ghana zerstört",
-   "s": "In Ghana wird unter extremen Bedingungen Gold abgebaut - auch Kakaoplantagen müssen dafür weichen. Mit verheerenden Folgen: Zurück bleiben zerstörte Landschaften und verdreckte, belastete Flüsse. Von Judith Hartmann und Jakob Sax.",
-   "u": "https://www.tagesschau.de/wissen/klima/goldabbau-ghana-abholzung-regenwald-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-26T06:13:21+00:00"
   }
  ]
 }

@@ -1,20 +1,55 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-18T11:43:51+00:00",
+ "updated": "2026-11-18T22:35:50+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 18.11.2026",
+   "s": "Wirtschaft vor acht vom 18.11.2026",
+   "u": "https://www.tagesschau.de/video/video-1686102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T18:59:41+00:00"
+  },
+  {
+   "t": "Deutliche Kursverluste: DAX rutscht unter 26.000er-Marke",
+   "s": "Das Rekordhoch der vergangenen Woche ist längst wieder passé. Der Leitindex DAX endet mit einem deutlichen Minus und fällt bis auf 25.736 Punkte. Da helfen auch gute Zahlen aus der Industrie nichts.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T17:45:45+00:00"
+  },
+  {
+   "t": "Deutscher Ökonom Brunnermeier als EZB-Chefvolkswirt nominiert",
+   "s": "Die Bundesregierung schlägt Markus Brunnermeier als nächsten Chefvolkswirt der Europäischen Zentralbank vor. Der Posten gilt als einflussreich, wenn es um geldpolitische Entscheidungen der Notenbank geht.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/bundesregierung-ezb-chefvolkswirt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T15:36:01+00:00"
+  },
+  {
+   "t": "Regierung erleichtert Befristungen von Jobs",
+   "s": "Leichtere Befristungen, weniger Kündigungsschutz für Hochverdiener: Bereits im Juli hatte sich die Koalition grundsätzlich auf mehrere Änderungen im Arbeitsrecht verständigt. Nun hat das Kabinett das Gesetz auf den Weg gebracht.",
+   "u": "https://www.tagesschau.de/wirtschaft/jobbefristungen-kabinett-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T13:44:31+00:00"
+  },
+  {
+   "t": "VW-Chef Blume: \"Komplett verändertes Umfeld\" zwingt zum Sparkurs",
+   "s": "Bei VW starten kommende Woche die Tarifgespräche. Im NDR-Interview spricht Konzernchef Blume über zu hohe Kosten, teure Werke und den umstrittenen Auftritt des Audi-Chefs in den USA. Von Annette Deutskens.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-volkswagen-blume-zukunftsstrategie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T13:43:17+00:00"
+  },
+  {
+   "t": "Stromsteuersenkung und Spritpreisdeckel: Was die Entlastungen im Alltag bringen könnten",
+   "s": "Ab Januar wollen Union und SPD die Stromsteuer für ein Jahr auf das europäische Mindestniveau senken. Auch ein Spritpreisdeckel ist vereinbart. Was wurde konkret beschlossen und wie viel Entlastung könnte das im Alltag bringen?",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/was-bringt-stromsteuer-senkung-koalitionsausschuss-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T13:36:45+00:00"
+  },
   {
    "t": "Wie riskant ist Nvidias Kurssturz für ETF-Sparer?",
    "s": "Nach dem Rücktritt von Jensen Huang hat die Nvidia-Aktie massiv an Wert verloren. Weil sie im MSCI World gelistet ist, betrifft das viele ETF-Sparer. Wie schwer der Kursrutsch wiegt - und wo jetzt weitere Gefahren lauern. Von Angela Göpfert.",
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/nvidia-kurssturz-etf-sparer-risiken-100.html",
    "q": "Tagesschau",
    "d": "2026-11-18T10:17:57+00:00"
-  },
-  {
-   "t": "Wenig Bewegung beim DAX",
-   "s": "Starke Zahlen des US-Chipherstellers Nvidia bringen nicht den erhofften Befreiungsschlag. Tech-Sorgen belasten auch weiter den Aktienmarkt.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T09:32:04+00:00"
   },
   {
    "t": "Update Wirtschaft vom 18.11.2026",
@@ -36,13 +71,6 @@
    "u": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-einigung-stromsteuer-spritpreisdeckel-100.html",
    "q": "Tagesschau",
    "d": "2026-11-18T08:55:03+00:00"
-  },
-  {
-   "t": "Stromsteuersenkung und Spritpreisdeckel: Was die Entlastungen im Alltag bringen könnten",
-   "s": "Ab Januar wollen Union und SPD die Stromsteuer für ein Jahr auf das europäische Mindestniveau senken. Auch ein Spritpreisdeckel ist vereinbart. Was wurde konkret beschlossen und wie viel Entlastung könnte das im Alltag bringen?",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/was-bringt-stromsteuer-senkung-koalitionsausschuss-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T08:26:33+00:00"
   },
   {
    "t": "Welche Fortschritte beim Klimaschutz erreicht wurden",
@@ -71,13 +99,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html",
    "q": "Tagesschau",
    "d": "2026-11-18T00:59:30+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 17.11.2026",
-   "s": "Wirtschaft vor acht vom 17.11.2026",
-   "u": "https://www.tagesschau.de/video/video-1685530.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T19:01:16+00:00"
   },
   {
    "t": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
@@ -148,27 +169,6 @@
    "u": "https://www.deutschlandfunk.de/deutsche-bahn-konkurrenz-flixtrain-italo-fernverkehr-regionen-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-11-14T11:55:00+00:00"
-  },
-  {
-   "t": "Welche Folgen Nvidias Absturz für die KI-Branche hat",
-   "s": "Mit dem Abgang von Nvidia-Gründer Huang verliert das Unternehmen seinen visionären Vordenker. Was bedeutet das jetzt für das Unternehmen selbst und die Konkurrenz? Von R. Spiegelhauer.",
-   "u": "https://www.tagesschau.de/wirtschaft/nvidia-ruecktritt-folgen-ki-branche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T08:26:55+00:00"
-  },
-  {
-   "t": "11KM-Podcast zum Rücktritt des Nvidia-Chefs: Der Fall Jensen Huang",
-   "s": "Nvidia-Chef Jensen Huang ist zurückgetreten. 11KM erzählt, was zum mutmaßlichen Spionagefall bekannt ist und wie Geheimdienste versuchen, mit intimen Beziehungen Informationen zu sammeln.",
-   "u": "https://www.tagesschau.de/podcast-11km-nvidia-huang-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T05:44:09+00:00"
-  },
-  {
-   "t": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
-   "s": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
-   "u": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-13T02:36:47+00:00"
   }
  ]
 }

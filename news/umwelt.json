@@ -1,7 +1,56 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-18T11:43:52+00:00",
+ "updated": "2026-11-18T22:35:52+00:00",
  "items": [
+  {
+   "t": "Brandbrief gegen Berufsverbote: Sollen wir nun mehr oder weniger arbeiten?",
+   "s": "Betroffene wehren sich gegen Überwachung und Gesinnungsprüfungen für den Job. Eine taz-Recherche zeigt, wen das alles trifft: nicht nur die Palästina-Bewegung.",
+   "u": "https://taz.de/Brandbrief-gegen-Berufsverbote/!6231151/",
+   "q": "taz",
+   "d": "2026-11-18T16:29:00+00:00"
+  },
+  {
+   "t": "Umfrage zu sexualisierter Gewalt im Netz: Cybergrooming, Sextorsion, Deepnudes",
+   "s": "Eltern wissen nicht um Risiken, denen ihre Kinder im Netz begegnen können. Das war das Ergebnis einer Kampagne gegen sexualisierte Gewalt im Netz.",
+   "u": "https://taz.de/Umfrage-vom-Familienministerium-Eltern-wissen-nicht-welchen-Gefahren-ihre-Kinder-online-ausgesetzt-sind/!6231058/",
+   "q": "taz",
+   "d": "2026-11-18T16:13:00+00:00"
+  },
+  {
+   "t": "Landtagssitzung in Sachsen-Anhalt: Mehrheit ohne Regierungswillen",
+   "s": "AfD und BSW haben erstmals eine Landesinitiative beschlossen: Das Land soll ab 2029 Kita-Beiträge zahlen. Zusammen regieren sei aber nicht geplant.",
+   "u": "https://taz.de/Landtagssitzung-in-Sachsen-Anhalt/!6231167/",
+   "q": "taz",
+   "d": "2026-11-18T16:12:00+00:00"
+  },
+  {
+   "t": "Leben als Vollzeitaktivist: Justizkritiker kommt ins Gefängnis",
+   "s": "Der Aktivist Jörg Bergstedt wurde wegen „übler Nachrede“ zu fünf Monaten ohne Bewährung verurteilt. Er sitzt nicht zum ersten Mal im Knast.",
+   "u": "https://taz.de/Leben-als-Vollzeitaktivist/!6231063/",
+   "q": "taz",
+   "d": "2026-11-18T15:00:00+00:00"
+  },
+  {
+   "t": "BSW-Wahlbeschwerde abgelehnt: Bloße Spekulationen genügen nicht",
+   "s": "Das BSW konnte keine Neuauszählung der letzten Bundestagswahl erreichen. Das Bundesverfassungsgericht entschied einstimmig, das BSW schimpft.",
+   "u": "https://taz.de/BSW-Wahlpruefungsbeschwerde-abgelehnt/!6231169/",
+   "q": "taz",
+   "d": "2026-11-18T14:50:00+00:00"
+  },
+  {
+   "t": "Abschiebungen nach Afghanistan: Mehr Taliban-Diplomaten für Deutschland",
+   "s": "Die Bundesregierung lässt vier weitere Islamisten einreisen, um nach Afghanistan abschieben zu können. Allerdings stockten die Flüge zuletzt offenbar.",
+   "u": "https://taz.de/Abschiebungen-nach-Afghanistan/!6231097/",
+   "q": "taz",
+   "d": "2026-11-18T14:03:00+00:00"
+  },
+  {
+   "t": "Reform des Sorgerechts: Kein Umgangsrecht mehr für gewalttätigen Elternteil",
+   "s": "Die Bundesregierung will Kinder besser vor häuslicher Gewalt schützen. Familiengerichte sollen gewalttätigen Eltern den Umgang ganz verbieten können.",
+   "u": "https://taz.de/Reform-des-Sorgerechts/!6231148/",
+   "q": "taz",
+   "d": "2026-11-18T11:57:00+00:00"
+  },
   {
    "t": "Landtagswahl in Schleswig-Holstein: Platzhirsch vor schwieriger Regierungsbildung",
    "s": "Schleswig-Holsteins Parteien bringen sich für die Landtagswahl im April in Stellung. Im nächsten Landtag könnten bis zu sieben Fraktionen sitzen.",
@@ -120,55 +169,6 @@
    "u": "https://taz.de/Abschiebelager-in-Ruanda/!6230295/",
    "q": "taz",
    "d": "2026-11-16T07:49:00+00:00"
-  },
-  {
-   "t": "Richtungsstreit im BSW: Gründungsmitglieder des BSW fordern Distanz zur AfD",
-   "s": "Nach der Landtagswahl in Sachsen-Anhalt hat das BSW mehrfach mit der AfD gestimmt. In der Wagenknecht-Partei wächst die Sorge vor einem Ruck nach rechts.",
-   "u": "https://taz.de/Richtungsstreit-im-BSW/!6230294/",
-   "q": "taz",
-   "d": "2026-11-16T07:23:00+00:00"
-  },
-  {
-   "t": "Gesundheitspolitiker zu Reformen: „Eine Erosion des Sozialstaats können wir uns nicht leisten“",
-   "s": "SPD-Politiker Serdar Yüksel empfiehlt, gesetzliche und private Pflegeversicherung zusammenzulegen. Zum Terminmangel bei Ärzten sagt er: Das muss nicht sein.",
-   "u": "https://taz.de/Gesundheitspolitiker-zu-Reformen/!6229432/",
-   "q": "taz",
-   "d": "2026-11-15T18:56:00+00:00"
-  },
-  {
-   "t": "Hubertus Heil kandidiert für SPD-Vorsitz: Ich bin dann mal wieder da",
-   "s": "Hubertus Heil will SPD-Chef werden, damit die Partei wieder für etwas steht. Aber weiß der 54-Jährige überhaupt, wofür er steht?",
-   "u": "https://taz.de/Hubertus-Heil-kandidiert-fuer-SPD-Vorsitz/!6230098/",
-   "q": "taz",
-   "d": "2026-11-15T17:03:00+00:00"
-  },
-  {
-   "t": "Behörden in Sachsen-Anhalt: Wenn der Dienstherr blau wird",
-   "s": "In einem Monat könnte in Sachsen-Anhalt die AfD regieren. Wie geht es damit Polizist:innen, Leh­re­r:in­nen und Mit­ar­bei­te­r:in­nen von Behörden?",
-   "u": "https://taz.de/Behoerden-in-Sachsen-Anhalt/!6224530/",
-   "q": "taz",
-   "d": "2026-11-15T13:46:00+00:00"
-  },
-  {
-   "t": "Ilse Aigner als Bundespräsidentin: Wofür sollen SPD und Grüne Ilse Aigner wählen?",
-   "s": "Bei der neuen Bundespräsidentin interessieren unseren Autor nicht Geschlecht, Partei oder Beziehungsstatus. Sondern, ob sie unsere Verfassung schützt.",
-   "u": "https://taz.de/Ilse-Aigner-als-Bundespraesidentin/!6224427/",
-   "q": "taz",
-   "d": "2026-11-15T13:33:00+00:00"
-  },
-  {
-   "t": "Empörung über Vorstoß zu Facharzttermin: Klingbeil gegen zusätzliche Kosten für Kassenpatienten",
-   "s": "Der Vorstoß von Kassenärzte-Chef Gassen, Geld für schnellere Termine beim Facharzt zu verlangen, stößt einhellig auf Kritik. Grüne warnen vor „Paywall-Medizin“.",
-   "u": "https://taz.de/Empoerung-ueber-Vorstoss-zu-Facharzttermin/!6230151/",
-   "q": "taz",
-   "d": "2026-11-15T11:39:00+00:00"
-  },
-  {
-   "t": "Rennen um SPD-Vorsitz: Heil wirft seinen Hut",
-   "s": "… als Erster in den Ring. Der ehemalige Arbeitsminister Hubertus Heil gab bekannt, für den SPD-Vorsitz kandidieren zu wollen. Wer könnte noch?",
-   "u": "https://taz.de/Rennen-um-SPD-Vorsitz/!6230057/",
-   "q": "taz",
-   "d": "2026-11-14T19:20:00+00:00"
   }
  ]
 }

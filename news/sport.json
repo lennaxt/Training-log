@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-11-18T11:43:55+00:00",
+ "updated": "2026-11-18T22:35:54+00:00",
  "items": [
+  {
+   "t": "Apec-Gipfel in Shenzhen: Chinas Xi schenkt Putin die große Propaganda-Bühne",
+   "s": "Chinas Gastgeber Xi Jinping präsentiert sich beim Gipfel in Shenzhen als Verfechter globalen Freihandels – während Putin Europas Sanktionspolitik als gescheitert darstellt.",
+   "u": "https://taz.de/Apec-Gipfel-in-Shenzhen/!6231090/",
+   "q": "taz",
+   "d": "2026-11-18T13:45:00+00:00"
+  },
   {
    "t": "Asean-Gipfel in Manila: Kaum Einigkeit gegen Chinas KI-Vormacht",
    "s": "Beim Gipfel südostasiatischer Staaten in den Philippinen sorgt Trumps Kurzbesuch für Aufsehen. Linke Gruppen protestieren gegen eine US-Initiative.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Suedkoreas-rapide-alternde-Bevoelkerung-lernt-den-Umgang-mit-KI-So-laeuft-es/!6222820/",
    "q": "taz",
    "d": "2026-10-21T06:09:00+00:00"
-  },
-  {
-   "t": "Auto rast in australische Abgeordnete: Sie war kein Feindbild, trotzdem wurde Helen Haines Opfer",
-   "s": "In Australien wurde die unabhängige Abgeordnete Helen Haines bei einem Angriff mit einem Auto schwer verletzt. Das löst eine Debatte aus.",
-   "u": "https://taz.de/Auto-rast-in-australische-Abgeordnete/!6222844/",
-   "q": "taz",
-   "d": "2026-10-20T15:05:00+00:00"
   }
  ]
 }

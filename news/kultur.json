@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-11-18T11:43:54+00:00",
+ "updated": "2026-11-18T22:35:53+00:00",
  "items": [
+  {
+   "t": "Mary Peltola: Die erste indigene Senatorin aus Alaska",
+   "s": "Sie ist Fischerin und Jägerin, Indigene und Frau – und dürfte als 56. Demokratin im neuen US-Senat eine Wundertüte für ihre eigene Fraktion sein.",
+   "u": "https://taz.de/Mary-Peltola-im-Portrait-Die-erste-indigene-Senatorin-aus-Alaska/!6231029/",
+   "q": "taz",
+   "d": "2026-11-18T18:47:00+00:00"
+  },
+  {
+   "t": "Umstrittene Strategic Response Group: Vorgehen gegen Polizeigewalt in New York",
+   "s": "New Yorks linker Bürgermeister Zohran Mamdani hatte eine umfassende Polizeireform versprochen. Nun wird zumindest eine brutale Sondereinheit aufgelöst.",
+   "u": "https://taz.de/Nach-Mamdanis-Wahlsieg/!6230836/",
+   "q": "taz",
+   "d": "2026-11-18T16:15:00+00:00"
+  },
   {
    "t": "Demokratin gewinnt Senatssitz in Alaska: Demokraten erzielen größten Sitzgewinn im Senat seit 1958",
    "s": "Mary Peltola gewinnt den Senatssitz in Alaska. Für die Demokraten ist es der größte Zugewinn bei US-Zwischenwahlen seit fast 70 Jahren.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Abstimmung-ueber-Pete-Hegseth/!6229167/",
    "q": "taz",
    "d": "2026-11-11T13:20:00+00:00"
-  },
-  {
-   "t": "Umweltzerstörung in Argentinien: Der Sand, das Gas und die Korruption",
-   "s": "In Argentinien boomt das Fracking, auch wegen der großen Nachfrage aus Deutschland. Dabei wird ein ganzes Ökosystem verwüstet. Der Versuch eines Widerstands.",
-   "u": "https://taz.de/Umweltzerstoerung-in-Argentinien/!6224134/",
-   "q": "taz",
-   "d": "2026-11-11T11:23:00+00:00"
-  },
-  {
-   "t": "Politischer Wahlkampf auf Social Media: Brasilien verhängt Strafe gegen Meta",
-   "s": "Die brasilianischen Präsidentschaftskandidaten wurden auf Meta ungleich behandelt. Das urteilt ein Wahlgericht und verhängt eine Millionenstrafe gegen Meta.",
-   "u": "https://taz.de/Politischer-Wahlkampf-auf-Social-Media/!6229126/",
-   "q": "taz",
-   "d": "2026-11-11T09:21:00+00:00"
   }
  ]
 }
