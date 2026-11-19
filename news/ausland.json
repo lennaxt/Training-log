@@ -1,20 +1,90 @@
 {
  "name": "Ausland",
- "updated": "2026-11-18T22:35:49+00:00",
+ "updated": "2026-11-19T11:41:25+00:00",
  "items": [
   {
-   "t": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
-   "s": "Trotz der Waffenruhe hat Israels Armee nach eigenen Angaben einen neuen Einsatz im Zentrum des Gazastreifens begonnen. Ziel des Angriffs sei Infrastruktur der Terrororganisation Hamas. Die Islamisten werfen Israel Eskalation vor.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
+   "t": "Französische Soldaten in der Ukraine - aber nicht zum Kampf",
+   "s": "Russland wirft Frankreich vor, sich mit Soldaten in der Ukraine direkt am Krieg zu beteiligen. Die französische Regierung weist das zurück, bestätigt aber die Anwesenheit von Militärpersonal. Was ist ihre Aufgabe? Von C. Rienäcker.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-unterstuetzung-ukraine-militaer-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-18T21:04:52+00:00"
+   "d": "2026-11-19T11:38:46+00:00"
+  },
+  {
+   "t": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
+   "s": "Nach einem erneuten Angriff auf die für Russland strategisch wichtige Krim-Brücke ist laut Behörden nun der Zugverkehr \"vorübergehend\" eingestellt worden. Zuvor hatte eine Attacke bereits den Autoverkehr lahmgelegt.",
+   "u": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T11:26:18+00:00"
+  },
+  {
+   "t": "Internationaler Gerichtshof: Myanmar für Völkermord an Rohingya verantwortlich",
+   "s": "Der Internationale Gerichtshof kommt zu der Einschätzung, dass Myanmar einen \"wesentlichen Teil\" der Minderheit der Rohingya vernichten wollte. Das Land sei verantwortlich für Völkermord, urteilte das höchste UN-Gericht.",
+   "u": "https://www.tagesschau.de/ausland/asien/urteil-voelkermord-rohingya-myanmar-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T11:17:04+00:00"
+  },
+  {
+   "t": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
+   "s": "Etwa eineinhalb Stunden Zeit nahmen sich die Präsidenten Trump, Putin und Xi für ihr erstes Dreiertreffen. Xi warnte vor den Gefahren eines Atomkrieges. Putin sprach von einer \"gemeinsamen Verantwortung\" für den Weltfrieden.",
+   "u": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T10:40:26+00:00"
+  },
+  {
+   "t": "Dänisches Parlament ratifiziert Grönland-Deal mit Trump",
+   "s": "Monatelang hatte US-Präsident Trump gedroht, die USA könnten nach Grönland greifen - bis es zum Deal kam. Nun hat auch das dänische Parlament für das Abkommen gestimmt. Es kann damit in Kraft treten. Von Anna-Lou Beckmann.",
+   "u": "https://www.tagesschau.de/ausland/europa/parlament-in-daenemark-ratifiziert-groenland-abkommen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T10:02:23+00:00"
+  },
+  {
+   "t": "Musk bereut offenbar Wahlkampfspenden an Republikaner",
+   "s": "Die US-Zwischenwahlen hatten für Tech-Unternehmer Musk nicht den erhofften Ausgang - die Republikaner, für die er Hunderte Millionen US-Dollar gespendet hatte, fuhren eine Niederlage ein. Nun bedauert er, das Geld versenkt zu haben.",
+   "u": "https://www.tagesschau.de/ausland/amerika/musk-spenden-republikaner-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T08:58:18+00:00"
+  },
+  {
+   "t": "Save the Children: Fast jedes vierte Kind lebt in einem Konfliktgebiet",
+   "s": "Noch nie haben so viele Kinder und Jugendliche weltweit in Konfliktgebieten gelebt. Etwa 589 Millionen waren 2025 betroffen, das zeigt ein Bericht der Organisation Save the Children.",
+   "u": "https://www.tagesschau.de/ausland/kinder-konfliktgebiete-106.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T08:14:57+00:00"
+  },
+  {
+   "t": "\"Koalition der Willigen\": Ukrainer fordern Einheit und Entschlossenheit",
+   "s": "In der Ukraine ist die Stimmung vor den beiden Treffen heute - in Berlin und in China - eher zurückhaltend. Risiken sehen sie insbesondere bei dem Dreigipfel in Shenzhen. Sie fordern Einheit und Entschlossenheit. Von R. Barth.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-koalition-stimmung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T04:19:46+00:00"
+  },
+  {
+   "t": "Ukraine-Gipfel in Berlin: Mit Diplomatie und Druck",
+   "s": "Heute kommen knapp 30 Staats- und Regierungschefs nach Berlin, sie gehören zu den wichtigsten Unterstützern der Ukraine. Vom Treffen soll ein klares Signal ausgehen: Die Ukraine kann weiter auf Hilfe zählen. Von Christina Nagel.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-treffen-berlin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T04:05:32+00:00"
+  },
+  {
+   "t": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
+   "s": "Die USA und Venezuela haben ein Militärabkommen unterzeichnet, wie US-Verteidigungsminister Hegseth mitteilte. Mit dem bereits angekündigten Ölabkommen werde die Straße von Hormus zudem \"irrelevant\".",
+   "u": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T02:10:36+00:00"
   },
   {
    "t": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
    "s": "Es gilt schon vorab als historisch - das erste Dreier-Treffen von Xi, Trump und Putin auf dem APEC-Gipfel in Shenzhen. Doch die Positionen der drei Präsidenten bei den Themen atomare Abrüstung, Iran oder Ukraine klaffen teils auseinander.",
    "u": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-18T19:43:17+00:00"
+   "d": "2026-11-18T23:33:32+00:00"
+  },
+  {
+   "t": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
+   "s": "Die israelische Armee hat eigenen Angaben zufolge eine Bodenoffensive mit Panzern im Zentrum des Gazastreifens begonnen. Das Land kontrolliert inzwischen rund 60 bis 70 Prozent des Gazastreifens militärisch.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
+   "q": "Tagesschau",
+   "d": "2026-11-18T21:04:52+00:00"
   },
   {
    "t": "Demokraten nominieren Jeffries als Chef des US-Repräsentantenhauses",
@@ -99,76 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/krim-bruecke-152.html",
    "q": "Tagesschau",
    "d": "2026-11-17T18:59:39+00:00"
-  },
-  {
-   "t": "USA gelten nicht mehr als masernfrei",
-   "s": "Mehr als ein Vierteljahrhundert lang galten die USA als masernfreies Land. Diesen Status haben die Vereinigten Staaten jetzt verloren. Immer wieder kommt es zu großen Ausbrüchen der hochansteckenden Krankheit.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-masern-104.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T18:37:07+00:00"
-  },
-  {
-   "t": "\"Zum ersten Mal nach 14 Jahren echte Vertreter des Volkes\"",
-   "s": "Nach dem historischen Wahlsieg der Studentenbewegung ist das serbische Parlament erstmals zusammengetreten. Doch nach einer reibungslosen Machtübergabe durch die Partei von Ex-Präsident Vucic sieht es nicht aus. Von Silke Hahne.",
-   "u": "https://www.tagesschau.de/ausland/europa/serbien-parlament-studentische-liste-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T17:35:34+00:00"
-  },
-  {
-   "t": "USA prüfen mögliche Anschlagspläne Irans auf Washington",
-   "s": "Der US-Sender CNN berichtet über iranische Anschlagspläne, die die Zündung einer sogenannten schmutzigen Bombe in Washington beinhalten sollen. US-Präsident Trump versichert, die USA nähmen das \"sehr ernst\" - und droht Teheran.",
-   "u": "https://www.tagesschau.de/ausland/amerika/trump-schmutzige-bombe-iran-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T16:36:43+00:00"
-  },
-  {
-   "t": "Deutschland kauft neue Flugabwehrraketen für Ukraine",
-   "s": "Der Ukraine droht angesichts massiver russischer Angriffe ein harter Winter. Die Bundesregierung will Kiew helfen - vor allem bei der Flugabwehr. Sie kauft dafür Waffen aus den USA.",
-   "u": "https://www.tagesschau.de/ausland/europa/deutschland-ukraine-hilfe-flugabwehr-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T12:57:56+00:00"
-  },
-  {
-   "t": "Finnischer Präsident Stubb: Mit großen Egos weiß er umzugehen",
-   "s": "Ihm wird ein gutes Verhältnis zum US-Präsidenten nachgesagt - und jüngst telefonierte er auch mit dem Kremlchef: Was treibt Finnlands Präsidenten Stubb an, der heute zu Gast bei Kanzler Merz ist? Von Christian Stichler.",
-   "u": "https://www.tagesschau.de/ausland/europa/finnischer-praesident-stubb-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T12:15:51+00:00"
-  },
-  {
-   "t": "Verwüstetes Rathaus von Limoges: Ein Schock wie der Brand von Notre-Dame",
-   "s": "Vor einem Monat legten Randalierer das Rathaus im französischen Limoges in Flammen. Die Stadt ist noch immer gezeichnet von den Unruhen. Für die Menschen in der Region war es ein Schock wie der Brand von Notre-Dame. Von Cai Rienäcker.",
-   "u": "https://www.tagesschau.de/ausland/europa/limoges-nach-rathausbrand-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T12:07:43+00:00"
-  },
-  {
-   "t": "Selenskyj bestätigt teilweise Zerstörung der Krim-Brücke",
-   "s": "Das ukrainische Militär hat offenbar einen Teil der Krim-Brücke zerstört. Fotos und Videos zeigen, dass einer der beiden Brückenbögen eingestürzt ist. Die Verbindung auf die Krim war stets ein Prestigeprojekt Putins.",
-   "u": "https://www.tagesschau.de/ausland/europa/selenskyj-teilzerstoerung-krim-bruecke-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T11:48:59+00:00"
-  },
-  {
-   "t": "Australische Regierung verschärft Auflagen für \"Work and Travel\"",
-   "s": "Wer als Backpacker länger in Australien bleiben will, muss künftig mehr Zeit auf dem Land arbeiten. Die Regierung hat angekündigt, die Vorgaben für das sogenannte Working-Holiday-Visum zu verschärfen.",
-   "u": "https://www.tagesschau.de/ausland/ozeanien/australien-backpaper-landwirtschaft-visa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T10:33:13+00:00"
-  },
-  {
-   "t": "Angriffe auf die Ukraine: Zwei wichtige Brücken in Kiew getroffen",
-   "s": "Trotz US-Vermittlungen gehen die Angriffe weiter: Russland meldet einen Angriff auf die Krim-Brücke, auch in Kiew wurden zwei Brücken getroffen. In der Region Saporischschja sind die Rettungsarbeiten nach einem der folgenschwersten Angriffe beendet.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-212.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T10:05:38+00:00"
-  },
-  {
-   "t": "Protest Tokios in Moskau - Mutmaßlich russische Jets im japanischen Luftraum",
-   "s": "Japan hat das Eindringen zweier mutmaßlich russischer Flugzeuge in den Luftraum des Landes gemeldet. Das Militär ließ Abfangjäger aufsteigen. Auch Südkorea und Taiwan meldeten Zwischenfälle mit russischen Jets.",
-   "u": "https://www.tagesschau.de/ausland/asien/japan-russland-luftraumverletzung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T09:54:08+00:00"
   }
  ]
 }

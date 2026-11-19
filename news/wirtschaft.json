@@ -1,7 +1,56 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-18T22:35:50+00:00",
+ "updated": "2026-11-19T11:41:26+00:00",
  "items": [
+  {
+   "t": "Heizen wird wegen steigender Energiepreise immer teurer",
+   "s": "Ein warmes Zuhause ist bei Weitem nicht für alle Menschen selbstverständlich. Nach Berechnungen des Statistischen Bundesamts konnten im vergangenen Jahr rund 4,7 Millionen Menschen ihre Wohnung nicht richtig heizen.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/heizkosten-anstieg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T10:10:08+00:00"
+  },
+  {
+   "t": "Marktbericht: Anthropic-Börsengang schiebt DAX an",
+   "s": "Der DAX startet nach den gestrigen Kursverlusten einen Erholungsversuch und legt im frühen Handel zu. Der Optimismus vor dem Anthropic-Börsengang in den USA macht Anleger mutiger.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T09:31:32+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 19.11.2026",
+   "s": "Update Wirtschaft vom 19.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1686324.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T08:47:19+00:00"
+  },
+  {
+   "t": "11KM-Podcast: \"Superintelligenz\" - was hinter der KI-Vision steckt",
+   "s": "Silicon Valley-Entwickler träumen von einem digitalen Überwesen - einer \"Superintelligenz\". 11KM über bedrohliche Zukunftsvisionen und was dahintersteckt.",
+   "u": "https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-ki-vision-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T07:49:57+00:00"
+  },
+  {
+   "t": "Anthropic-Börsengang wird Musk-Rekord übertreffen",
+   "s": "Zum ersten Mal geht mit Anthropic ein maßgebliches KI-Unternehmen an den Markt. Der Börsengang wird der größte in der Geschichte. Ist das der Stimmungstest für die gesamte Branche? Giselle Ucar über die Ambitionen des KI-Riesen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T06:44:41+00:00"
+  },
+  {
+   "t": "Welche Erwartungen die Gaming-Branche mit GTA VI verbindet",
+   "s": "Die Entwicklung des Videospiels \"Grand Theft Auto VI\" dürfte eine Milliardensumme gekostet haben - womit es das bislang teuerste Produkt der Unterhaltungsindustrie ist. Die gesamte Branche erhofft sich davon einen Schub. Von C. Prössl.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/gta-rockstar-games-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T05:09:57+00:00"
+  },
+  {
+   "t": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+   "s": "UniCredit garantiert Standort und Arbeitnehmerrechte - der Bund verzichtet auf Aufsichtsratsvertreter: Die Bundesregierung und die italienische Großbank haben sich bei der Commerzbank-Übernahme geeinigt.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T01:06:22+00:00"
+  },
   {
    "t": "Wirtschaft vor acht vom 18.11.2026",
    "s": "Wirtschaft vor acht vom 18.11.2026",
@@ -10,11 +59,11 @@
    "d": "2026-11-18T18:59:41+00:00"
   },
   {
-   "t": "Deutliche Kursverluste: DAX rutscht unter 26.000er-Marke",
-   "s": "Das Rekordhoch der vergangenen Woche ist längst wieder passé. Der Leitindex DAX endet mit einem deutlichen Minus und fällt bis auf 25.736 Punkte. Da helfen auch gute Zahlen aus der Industrie nichts.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
+   "t": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
+   "s": "13 Jahre nach dem Vorgänger erscheint \"Grand Theft Auto VI\". Viele Fans haben den Start mit Spannung erwartet, andere halten die Aufregung um das Videospiel für übertrieben. Was macht es so besonders?",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-18T17:45:45+00:00"
+   "d": "2026-11-18T17:55:38+00:00"
   },
   {
    "t": "Deutscher Ökonom Brunnermeier als EZB-Chefvolkswirt nominiert",
@@ -52,32 +101,11 @@
    "d": "2026-11-18T10:17:57+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 18.11.2026",
-   "s": "Update Wirtschaft vom 18.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1685746.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T09:20:58+00:00"
-  },
-  {
-   "t": "Baugenehmigungen von Wohnungen brechen nach starkem Anstieg ein",
-   "s": "Nach mehr als einem Jahr mit steigenden Baugenehmigungen gibt es im September erstmals wieder einen Rückgang. Im Vergleich zum Vorjahresmonat wurden knapp 15 Prozent weniger Wohnungen genehmigt.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/wohnungsbau-september-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T09:01:00+00:00"
-  },
-  {
    "t": "Stromsteuersenkung und Spritpreisdeckel - zeitlich begrenzt",
    "s": "Die Spitzen von Union und SPD haben sich im Koalitionsausschuss auf eine Senkung der Stromsteuer für alle geeinigt. Die Finanzierung steht allerdings nur für 2027. Auch ein Spritpreisdeckel soll zeitlich begrenzt kommen.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-einigung-stromsteuer-spritpreisdeckel-100.html",
    "q": "Tagesschau",
    "d": "2026-11-18T08:55:03+00:00"
-  },
-  {
-   "t": "Welche Fortschritte beim Klimaschutz erreicht wurden",
-   "s": "Weltweit kommt der Ausbau von Erneuerbaren Energien voran - viel stärker als vor Jahren noch erwartet. Das liegt unter anderem daran, dass Solarzellen viel günstiger produziert werden. Positive Beispiele sind Bulgarien und Pakistan. Von J. Kösters.",
-   "u": "https://www.tagesschau.de/wissen/klima/erneuerbare-energien-fortschritte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T05:16:11+00:00"
   },
   {
    "t": "Deutsche-Bank-Tochter DWS: Zwölf Milliarden Euro ohne Geldwäsche-Aufsicht",
@@ -108,32 +136,11 @@
    "d": "2026-11-17T18:03:42+00:00"
   },
   {
-   "t": "Warum eine Konjunkturerholung noch kein Ende der Jobkrise bedeutet",
-   "s": "Aus der Industrie kommen vorsichtige Zeichen der Zuversicht. Trotzdem könnte der Stellenabbau Experten zufolge erst einmal weitergehen. Warum ein Schub für den Arbeitsmarkt auf sich warten lässt. Von Alina Leimbach.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/industrie-aufschwung-jobabbau-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T16:47:06+00:00"
-  },
-  {
-   "t": "EU wirft Temu mangelnden Einsatz gegen illegale Produkte vor",
-   "s": "Nicht alles, was Verbraucher online kaufen können, ist so sicher, wie es die EU vorschreibt. Mängel gibt es offenbar beim chinesischen Shoppingportal Temu, dem nun eine weitere Geldstrafe droht.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-temu-illegale-produkte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T13:24:48+00:00"
-  },
-  {
    "t": "Marktbericht: Deutsche-Bank-Aktien nach neuen Vorwürfen unter Druck",
    "s": "Aktien der Deutschen Bank fallen deutlich. Grund dafür ist ein Datenleck, das Millionen interner Papiere offengelegt haben soll, in denen unter anderem von Geldwäsche die Rede ist. Das Bankhaus wiegelt ab.",
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/deutschebank-226.html",
    "q": "Tagesschau",
    "d": "2026-11-17T13:08:30+00:00"
-  },
-  {
-   "t": "EU-Kommission verdoppelt Prognose für Deutschland",
-   "s": "Die EU-Kommission hat ihre Konjunkturprognose für Deutschland stark angehoben. Grund ist das kräftige Plus bei den Exporten. Die Inflation dürfte jedoch hartnäckig bleiben.",
-   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-kommission-wachstumsprognose-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T12:42:17+00:00"
   },
   {
    "t": "Datenleck: Interne Dokumente belasten die Deutsche Bank",
@@ -148,13 +155,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-einschraenkungen-export-ki-chips-nvidia-100.html",
    "q": "Tagesschau",
    "d": "2026-11-17T07:59:32+00:00"
-  },
-  {
-   "t": "Tag der Wohnungswirtschaft: Bauen verteuert sich weiter - trotz aller Versprechen",
-   "s": "Trotz Beteuerungen der Politik: Bauen wird in Deutschland immer teurer. Neben globalen Einflüssen wie etwa steigende Energiepreise seien viele Probleme aber hausgemacht, heißt es aus der Branche. Von Axel John.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/tag-der-wohnungswirtschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T07:57:10+00:00"
   },
   {
    "t": "Nach Huang-Affäre: Bald alles neu in der KI-Chipindustrie?",

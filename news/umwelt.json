@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-18T22:35:52+00:00",
+ "updated": "2026-11-19T11:41:28+00:00",
  "items": [
+  {
+   "t": "„Koalition der Willigen“ in Berlin: Die große Merz-Show",
+   "s": "Die „Koalition der Willigen“ kommt in Berlin zusammen. Die Erwartungen sind hoch, Kanzler Merz will sich profilieren. Kommt die Botschaft im Kreml an?",
+   "u": "https://taz.de/Koalition-der-Willigen-in-Berlin/!6231331/",
+   "q": "taz",
+   "d": "2026-11-19T10:54:00+00:00"
+  },
+  {
+   "t": "Verdacht auf rechten Terror in NRW: Schüler soll Terroranschlag auf Moschee geplant haben",
+   "s": "Ein mutmaßlich rechtsradikaler Schüler soll Waffen mit einem 3D-Drucker hergestellt haben. Er sitzt bereits seit August in Untersuchungshaft.",
+   "u": "https://taz.de/Verdacht-auf-rechten-Terror-in-NRW/!6231365/",
+   "q": "taz",
+   "d": "2026-11-19T08:57:00+00:00"
+  },
   {
    "t": "Brandbrief gegen Berufsverbote: Sollen wir nun mehr oder weniger arbeiten?",
    "s": "Betroffene wehren sich gegen Überwachung und Gesinnungsprüfungen für den Job. Eine taz-Recherche zeigt, wen das alles trifft: nicht nur die Palästina-Bewegung.",
@@ -10,7 +24,7 @@
    "d": "2026-11-18T16:29:00+00:00"
   },
   {
-   "t": "Umfrage zu sexualisierter Gewalt im Netz: Cybergrooming, Sextorsion, Deepnudes",
+   "t": "Umfrage zu sexualisierter Gewalt im Netz: Cybergrooming, Sextortion, Deepnudes",
    "s": "Eltern wissen nicht um Risiken, denen ihre Kinder im Netz begegnen können. Das war das Ergebnis einer Kampagne gegen sexualisierte Gewalt im Netz.",
    "u": "https://taz.de/Umfrage-vom-Familienministerium-Eltern-wissen-nicht-welchen-Gefahren-ihre-Kinder-online-ausgesetzt-sind/!6231058/",
    "q": "taz",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Markenkern-und-Wahlmagnet/!6230322/",
    "q": "taz",
    "d": "2026-11-16T15:30:00+00:00"
-  },
-  {
-   "t": "Strafrechtsverschärfung: Die absurde Lust am Strafen",
-   "s": "Das Strafrecht soll verschärft werden. Doch mehr Strafen führen nicht zu weniger Gewalt. Problematisch ist vielmehr die Rechtsprechung.",
-   "u": "https://taz.de/Strafrechtsverschaerfung/!6224484/",
-   "q": "taz",
-   "d": "2026-11-16T08:57:00+00:00"
-  },
-  {
-   "t": "Abschiebezentrum in Ruanda: SPD-Abgeordnete und Grünen-Chef gegen „Return Hubs“",
-   "s": "Bundesinnenminister Dobrindt (CSU) treibt in Wien Pläne für Abschiebezentren außerhalb der EU voran. Ein Standort soll Ruanda sein. Die SPD kritisiert das.",
-   "u": "https://taz.de/Abschiebelager-in-Ruanda/!6230295/",
-   "q": "taz",
-   "d": "2026-11-16T07:49:00+00:00"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "name": "Wissen",
- "updated": "2026-11-18T22:35:51+00:00",
+ "updated": "2026-11-19T11:41:27+00:00",
  "items": [
   {
    "t": "Team aus Karlsruhe erhält Zukunftspreis für Mikrochip-Forschung",
@@ -71,13 +71,6 @@
    "u": "https://www.tagesschau.de/video/video-1683836.html",
    "q": "Tagesschau",
    "d": "2026-11-14T16:25:10+00:00"
-  },
-  {
-   "t": "Earth Smiles - Wie Kenia seine Böden fit für den Klimawandel macht",
-   "s": "Earth Smiles - Wie Kenia seine Böden fit für den Klimawandel macht",
-   "u": "https://www.tagesschau.de/video/video-1683746.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T13:30:26+00:00"
   },
   {
    "t": "Benjamin Weber, ARD Istanbul, zzt. Antalya, zum Klimagipfel der Völker",
@@ -169,6 +162,13 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/herbst-spaziergang-100.html",
    "q": "Tagesschau",
    "d": "2026-10-29T05:45:03+00:00"
+  },
+  {
+   "t": "Bericht der Weltwetterorganisation: Immer mehr Treibhausgase in der Atmosphäre",
+   "s": "In der Atmoshäre sammeln sich immer mehr Treibhausgase. Das zeigt ein neuer Bericht der Weltwetterorganisation. Offenbar erholt sich die Natur von Hitze und Trockenheit nicht so schnell wie erwartet. Von N. Gode und S. Biegger.",
+   "u": "https://www.tagesschau.de/wissen/klima/treibhausgase-so-hoch-wie-nie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-10-27T09:00:07+00:00"
   }
  ]
 }

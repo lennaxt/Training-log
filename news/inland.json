@@ -1,7 +1,98 @@
 {
  "name": "Inland",
- "updated": "2026-11-18T22:35:49+00:00",
+ "updated": "2026-11-19T11:41:24+00:00",
  "items": [
+  {
+   "t": "BSI warnt vor erhöhter Gefahrenlage durch KI-Angriffe",
+   "s": "Sicherheitslücken lassen sich mit KI deutlich einfacher und schneller ausnutzen. Daher warnt das BSI nun vor \"Cyberangriffen in bisher ungekannten Mengen und Geschwindigkeiten\". Viele Unternehmen seien nur schlecht geschützt.",
+   "u": "https://www.tagesschau.de/inland/bsi-sicherheitslage-bericht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T11:06:07+00:00"
+  },
+  {
+   "t": "„Koalition der Willigen“ in Berlin: Die große Merz-Show",
+   "s": "Die „Koalition der Willigen“ kommt in Berlin zusammen. Die Erwartungen sind hoch, Kanzler Merz will sich profilieren. Kommt die Botschaft im Kreml an?",
+   "u": "https://taz.de/Koalition-der-Willigen-in-Berlin/!6231331/",
+   "q": "taz",
+   "d": "2026-11-19T10:54:00+00:00"
+  },
+  {
+   "t": "Verteidigungsminister Pistorius wirbt in Polen für mehr Zusammenarbeit",
+   "s": "In Sicherheitsfragen arbeiten Polen und Deutschland eng zusammen, doch die Beziehung ist historisch belastet. Mit seinem zweitägigen Besuch will Verteidigungsminister Pistorius im Nachbarland für eine starke Partnerschaft werben. Von Claudia Buckenmaier.",
+   "u": "https://www.tagesschau.de/inland/pistorius-reise-polen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T09:27:34+00:00"
+  },
+  {
+   "t": "Verteidigungsstrategie: Ukraine attackiert erneut Krim-Brücke und Ölinfrastruktur",
+   "s": "Nach dem Autobahn-Teil der Krim-Brücke wurde nun auch der Bahn-Teil getroffen. Derweil verteidigt sich Elon Musk gegen ukrainische Behauptungen.",
+   "u": "https://taz.de/Verteidigungsstrategie/!6231366/",
+   "q": "taz",
+   "d": "2026-11-19T09:26:00+00:00"
+  },
+  {
+   "t": "Meinungsfreiheit in Italien: Umstrittenes Gesetz gegen Antisemitismus beschlossen",
+   "s": "Melonis Regierung nimmt Schulen und Universitäten stärker in die Pflicht. Italiens starke Palästina-Solidaritätsbewegung spricht von einem „Maulkorb“.",
+   "u": "https://taz.de/Meinungsfreiheit-in-Italien/!6231343/",
+   "q": "taz",
+   "d": "2026-11-19T09:00:00+00:00"
+  },
+  {
+   "t": "Verdacht auf rechten Terror in NRW: Schüler soll Terroranschlag auf Moschee geplant haben",
+   "s": "Ein mutmaßlich rechtsradikaler Schüler soll Waffen mit einem 3D-Drucker hergestellt haben. Er sitzt bereits seit August in Untersuchungshaft.",
+   "u": "https://taz.de/Verdacht-auf-rechten-Terror-in-NRW/!6231365/",
+   "q": "taz",
+   "d": "2026-11-19T08:57:00+00:00"
+  },
+  {
+   "t": "Pressefreiheit in Israel: „Freiheit für Abed!“",
+   "s": "Der israelische Geheimdienst verhaftete den palästinensische Journalisten Abed Abu Shehadeh ohne konkrete Vorwürfe. Das wirft Fragen nach Machtmissbrauch auf.",
+   "u": "https://taz.de/Pressefreiheit-in-Israel/!6231046/",
+   "q": "taz",
+   "d": "2026-11-19T08:29:00+00:00"
+  },
+  {
+   "t": "Kreuther Trennungsbeschluss – Als die CSU den Aufstand probte",
+   "s": "Die Unionsparteien pflegen seit Gründung der Bundesrepublik eine enge Verbindung. Doch ein Beschluss am 19. November 1976 stürzt diese Partnerschaft in eine tiefe Krise: Die CSU will die Fraktionsgemeinschaft mit der CDU im Bundestag aufkündigen.Nützel, Nikolaus",
+   "u": "https://www.deutschlandfunk.de/19-11-1976-die-csu-will-sich-auf-bundesebene-von-der-cdu-trennen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-19T08:05:00+00:00"
+  },
+  {
+   "t": "+++ Treffen von Putin, Trump und XI +++: Dreiergipfel endet mit gemeinsamer Friedenserklärung",
+   "s": "Xi, Trump und Putin haben ihren historischen Dreiergipfel in China beendet. Xi sprach sich bei dem Treffen für eine atomwaffenfreie Welt aus.",
+   "u": "https://taz.de/-Treffen-von-Putin-Trump-und-XI-/!6231342/",
+   "q": "taz",
+   "d": "2026-11-19T07:01:00+00:00"
+  },
+  {
+   "t": "DGB lehnt leichtere Befristung von Jobs ab",
+   "s": "Arbeitsverträge sollen nach dem Willen der Bundesregierung länger als bisher sachgrundlos befristet werden können. Die DGB-Vorsitzende Yasmin Fahimi kritisiert das Vorhaben und warnt vor einer Verunsicherung der Beschäftigten.Engels, Silvia",
+   "u": "https://www.deutschlandfunk.de/reform-des-arbeitsrechts-bei-befristung-u-arbeitszeit-dgb-vors-yasmin-fahimi-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-19T06:15:00+00:00"
+  },
+  {
+   "t": "Konflikt in Irak: Gegen den Ölschmuggel und den Einfluss Irans",
+   "s": "Kann die irakische Zentralregierung die mächtige irantreue Miliz Kata’ib Hisbollah entwaffnen? Südlich von Bagdad bahnt sich eine Konfrontation an.",
+   "u": "https://taz.de/Konflikt-in-Irak/!6231205/",
+   "q": "taz",
+   "d": "2026-11-19T06:08:00+00:00"
+  },
+  {
+   "t": "Bundespolizeigesetz-Reform: Bundespolizei als deutsche ICE?",
+   "s": "Seit Ende Oktober gilt in Deutschland das neue Bundespolizeigesetz. Was als Modernisierung angedacht war, birgt für Geflüchtete neue Gefahren.",
+   "u": "https://taz.de/Reform-des-Bundespolizeigesetzes-Neue-Gefahren-anstatt-Modernisierung/!6229042/",
+   "q": "taz",
+   "d": "2026-11-19T06:05:00+00:00"
+  },
+  {
+   "t": "Heusgen: Ukraine-Treffen wichtiges Signal der Geschlossenheit",
+   "s": "Parallel zum Treffen von Trump, Putin und Xi kommt in Berlin die „Koalition der Willigen“ zusammen, um neue Ukraine-Hilfen zu beschließen. Auch US-Gesandte sind dabei. Laut Diplomat Christoph Heusgen haben die USA Europa als wichtigen Akteur erkannt.Engels, Silvia",
+   "u": "https://www.deutschlandfunk.de/ukraine-hilfe-und-treffen-von-trump-xi-und-putin-int-mit-christoph-heusgen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-19T05:48:19+00:00"
+  },
   {
    "t": "Nachruf auf Lutz van Dijk: Beharrlicher Streiter für mehr Menschlichkeit",
    "s": "Lutz van Dijk, Aktivist und taz-Autor in Kapstadt, ist tot. Seine Arbeit trug Südafrikas Hoffnungen auf eine bessere Gesellschaft in die Welt.",
@@ -78,97 +169,6 @@
    "u": "https://taz.de/Nach-Mamdanis-Wahlsieg/!6230836/",
    "q": "taz",
    "d": "2026-11-18T16:15:00+00:00"
-  },
-  {
-   "t": "Umfrage zu sexualisierter Gewalt im Netz: Cybergrooming, Sextorsion, Deepnudes",
-   "s": "Eltern wissen nicht um Risiken, denen ihre Kinder im Netz begegnen können. Das war das Ergebnis einer Kampagne gegen sexualisierte Gewalt im Netz.",
-   "u": "https://taz.de/Umfrage-vom-Familienministerium-Eltern-wissen-nicht-welchen-Gefahren-ihre-Kinder-online-ausgesetzt-sind/!6231058/",
-   "q": "taz",
-   "d": "2026-11-18T16:13:00+00:00"
-  },
-  {
-   "t": "Landtagssitzung in Sachsen-Anhalt: Mehrheit ohne Regierungswillen",
-   "s": "AfD und BSW haben erstmals eine Landesinitiative beschlossen: Das Land soll ab 2029 Kita-Beiträge zahlen. Zusammen regieren sei aber nicht geplant.",
-   "u": "https://taz.de/Landtagssitzung-in-Sachsen-Anhalt/!6231167/",
-   "q": "taz",
-   "d": "2026-11-18T16:12:00+00:00"
-  },
-  {
-   "t": "Einigung über Stromsteuersenkung: Die Koalition ist in eine neue Phase eingetreten",
-   "s": "Union und SPD haben sich auf eine Senkung der Stromsteuer geeinigt. Doch die Verhandlungen liefen Teilnehmern zufolge teils ruppig. Wie es zur Einigung kam und warum sie ein Vorgeschmack auf die kommenden Monate sein könnte. Von Tina Handel.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-spritpreisdeckel-einigung-koalition-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T15:45:55+00:00"
-  },
-  {
-   "t": "Kabinett will bei Unterhaltszahlungen für Alleinerziehende sparen",
-   "s": "Wenn Elternteile keinen Unterhalt zahlen, springt oft der Staat ein. Das Kabinett will dafür jetzt eine Einkommensgrenze einführen. Säumigen Zahlern sollen dafür härtere Strafen drohen - bis hin zu Fahrverboten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/kabinett-unterhaltszahlung-verschaerfung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T15:37:39+00:00"
-  },
-  {
-   "t": "Siedlungen im Westjordanland: Immobilienfirmen gegen das Völkerrecht",
-   "s": "Großbritannien sanktioniert mehrere israelische Firmen und Organisationen, die den Siedlungsbau vorantreiben. Um wen geht es und wie finanzieren sie sich?",
-   "u": "https://taz.de/Siedlungen-im-Westjordanland/!6231248/",
-   "q": "taz",
-   "d": "2026-11-18T15:32:00+00:00"
-  },
-  {
-   "t": "Proteste in der Slowakei: Demo statt Gedenken",
-   "s": "In der Slowakei demonstrierten Zehntausende am Jahrestag der Samtenen Revolution gegen Premier Fico. Die Opposition versucht sich zusammenzuraufen.",
-   "u": "https://taz.de/Proteste-in-der-Slowakei/!6231202/",
-   "q": "taz",
-   "d": "2026-11-18T15:23:00+00:00"
-  },
-  {
-   "t": "BSW-Wahlbeschwerde abgelehnt: Bloße Spekulationen genügen nicht",
-   "s": "Das BSW konnte keine Neuauszählung der letzten Bundestagswahl erreichen. Das Bundesverfassungsgericht entschied einstimmig, das BSW schimpft.",
-   "u": "https://taz.de/BSW-Wahlpruefungsbeschwerde-abgelehnt/!6231169/",
-   "q": "taz",
-   "d": "2026-11-18T14:50:00+00:00"
-  },
-  {
-   "t": "DAK-Auswertung: Jugendliche konsumieren immer mehr Nikotinbeutel",
-   "s": "Kein Rauchen, kein Dampfen: Nikotinbeutel sind unauffällig. Doch der konzentrierte Suchtstoff bereitet Gesundheitsexperten Sorgen - sie warnen vor einer möglichen Legalisierung. Denn Teenager greifen schon jetzt oft zu.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/nikotinbeutel-jugendliche-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T14:24:48+00:00"
-  },
-  {
-   "t": "Abschiebungen nach Afghanistan: Mehr Taliban-Diplomaten für Deutschland",
-   "s": "Die Bundesregierung lässt vier weitere Islamisten einreisen, um nach Afghanistan abschieben zu können. Allerdings stockten die Flüge zuletzt offenbar.",
-   "u": "https://taz.de/Abschiebungen-nach-Afghanistan/!6231097/",
-   "q": "taz",
-   "d": "2026-11-18T14:03:00+00:00"
-  },
-  {
-   "t": "Apec-Gipfel in Shenzhen: Chinas Xi schenkt Putin die große Propaganda-Bühne",
-   "s": "Chinas Gastgeber Xi Jinping präsentiert sich beim Gipfel in Shenzhen als Verfechter globalen Freihandels – während Putin Europas Sanktionspolitik als gescheitert darstellt.",
-   "u": "https://taz.de/Apec-Gipfel-in-Shenzhen/!6231090/",
-   "q": "taz",
-   "d": "2026-11-18T13:45:00+00:00"
-  },
-  {
-   "t": "Stromsteuersenkung und Spritpreisdeckel: Was die Entlastungen im Alltag bringen könnten",
-   "s": "Ab Januar wollen Union und SPD die Stromsteuer für ein Jahr auf das europäische Mindestniveau senken. Auch ein Spritpreisdeckel ist vereinbart. Was wurde konkret beschlossen und wie viel Entlastung könnte das im Alltag bringen?",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/was-bringt-stromsteuer-senkung-koalitionsausschuss-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T13:36:45+00:00"
-  },
-  {
-   "t": "Sturm und Regen in Deutschland - viele Einsätze von Polizei und Feuerwehr",
-   "s": "Mancherorts sind bereits 50 Liter Regen binnen 24 Stunden runtergekommen - kombiniert mit heftigem Wind. Das bleibt zunächst auch so. Für fast ganz Deutschland gelten Unwetterwarnungen. Bislang war vor allem NRW betroffen.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/sturm-deutschland-106.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T12:59:46+00:00"
-  },
-  {
-   "t": "Razzia bei Sözcü TV: Keine regierungskritischen Nachrichten mehr in der Türkei",
-   "s": "In der Türkei gerät mit Sözcü TV der letzte große Oppositionssender unter staatliche Kontrolle. Erdoğan lässt kritische Medien zunehmend verstummen.",
-   "u": "https://taz.de/Razzia-bei-Soezcue-TV/!6230883/",
-   "q": "taz",
-   "d": "2026-11-18T12:53:00+00:00"
   }
  ]
 }

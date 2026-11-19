@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-18T22:35:52+00:00",
+ "updated": "2026-11-19T11:41:29+00:00",
  "items": [
+  {
+   "t": "Renaturierung in Frankreich: Bauen wie die Biber",
+   "s": "Freiwillige in Frankreich wollen die leidenden Flüsse des Landes renaturieren. Und lassen sich dabei von putzigen Nagern inspirieren.",
+   "u": "https://taz.de/Renaturierung-in-Frankreich/!6231016/",
+   "q": "taz",
+   "d": "2026-11-19T10:47:00+00:00"
+  },
+  {
+   "t": "Verteidigungsstrategie: Ukraine attackiert erneut Krim-Brücke und Ölinfrastruktur",
+   "s": "Nach dem Autobahn-Teil der Krim-Brücke wurde nun auch der Bahn-Teil getroffen. Derweil verteidigt sich Elon Musk gegen ukrainische Behauptungen.",
+   "u": "https://taz.de/Verteidigungsstrategie/!6231366/",
+   "q": "taz",
+   "d": "2026-11-19T09:26:00+00:00"
+  },
+  {
+   "t": "Meinungsfreiheit in Italien: Umstrittenes Gesetz gegen Antisemitismus beschlossen",
+   "s": "Melonis Regierung nimmt Schulen und Universitäten stärker in die Pflicht. Italiens starke Palästina-Solidaritätsbewegung spricht von einem „Maulkorb“.",
+   "u": "https://taz.de/Meinungsfreiheit-in-Italien/!6231343/",
+   "q": "taz",
+   "d": "2026-11-19T09:00:00+00:00"
+  },
   {
    "t": "Verhandlungen im Ukrainekrieg: Gipfeltreffen gegen Gipfeltreffen",
    "s": "Am Donnerstag kommt die Koalition der Willigen im Kanzleramt zusammen und will Stärke demonstrieren. In Brüssel setzt man auf einen Buchungstrick für Ukraine-Hilfen.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Lieferkettengesetz-in-Serbien/!6230080/",
    "q": "taz",
    "d": "2026-11-16T11:39:00+00:00"
-  },
-  {
-   "t": "Britische Beziehungen zur EU: Andy Burnham erklärt Johnsons Brexit-Deal für gescheitert",
-   "s": "Gebrochene Versprechen, unerfüllte Hoffnungen: Andy Burnham rechnet mit Boris Johnsons Brexit-Deal ab und will einen Neustart der Beziehungen zu Brüssel.",
-   "u": "https://taz.de/Britische-Beziehungen-zur-EU/!6230303/",
-   "q": "taz",
-   "d": "2026-11-16T08:45:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukraine-Krieg +++: Rüsten für den Winter",
-   "s": "Die EU-Außenminister beraten über die nächsten Schritte für die Ukraine. Der Kreml kritisiert Grenzschließung Estlands und meldet ukrainische Angriffe.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6230297/",
-   "q": "taz",
-   "d": "2026-11-16T08:09:00+00:00"
-  },
-  {
-   "t": "Nato-Mitgliedschaft für Gebietsverzicht: Die Nebelkerze vom Donbass",
-   "s": "US-Unterhändler suggerieren, bei Rückzug aus dem Donbass könne die Ukraine in die Nato. Sie sollten lieber der Ukraine helfen, im Krieg zu bestehen.",
-   "u": "https://taz.de/Nato-Mitgliedschaft-fuer-Gebietsverzicht/!6230163/",
-   "q": "taz",
-   "d": "2026-11-15T19:07:00+00:00"
   }
  ]
 }
