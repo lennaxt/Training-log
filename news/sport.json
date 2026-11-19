@@ -1,7 +1,35 @@
 {
  "name": "Sport",
- "updated": "2026-11-19T11:41:31+00:00",
+ "updated": "2026-11-19T22:40:08+00:00",
  "items": [
+  {
+   "t": "Rohingya: Historisches Urteil",
+   "s": "Es ist offiziell: Die Machthaber in Myanmar haben Völkermord begangen. Mit Blick auf Israel stürzt das die Bundesregierung in ein Dilemma.",
+   "u": "https://taz.de/Historisches-Urteil-Die-Machthaber-in-Myanmar-haben-Voelkermord-an-den-Rohingya-begangen/!6231517/",
+   "q": "taz",
+   "d": "2026-11-19T19:25:00+00:00"
+  },
+  {
+   "t": "Myanmars Gewalt gegen Rohingya: Erstmals ein Staat für Genozid verurteilt",
+   "s": "Der IGH hat Myanmars Vorgehen gegen die Rohingya als Völkermord verurteilt. Das historische Urteil könnte für den Gazakrieg wegweisend sein.",
+   "u": "https://taz.de/Myanmars-Gewalt-gegen-Rohingya/!6231433/",
+   "q": "taz",
+   "d": "2026-11-19T16:41:00+00:00"
+  },
+  {
+   "t": "Internationaler Gerichtshof urteilt: Das war Völkermord",
+   "s": "Bei einer Militäroffensive 2017 wurden in Myanmar Hunderttausende Rohingya vertrieben. Der Internationale Gerichtshof hat das nur als Völkermord verurteilt.",
+   "u": "https://taz.de/Internationaler-Gerichtshof-urteilt/!6231504/",
+   "q": "taz",
+   "d": "2026-11-19T12:42:00+00:00"
+  },
+  {
+   "t": "Dreiergipfel der Nuklearmächte: Wenn Putin plötzlich den Weltfrieden beschwört",
+   "s": "In Shenzhen begrüßt Trump seinen „Freund“ Putin, und Xi warnt vor Atomwaffen. Die Rhetorik der drei Staatsführer steht im Gegensatz zu ihren Handlungen.",
+   "u": "https://taz.de/Dreiergipfel-der-Nuklearmaechte/!6231424/",
+   "q": "taz",
+   "d": "2026-11-19T12:26:00+00:00"
+  },
   {
    "t": "Apec-Gipfel in Shenzhen: Chinas Xi schenkt Putin die große Propaganda-Bühne",
    "s": "Chinas Gastgeber Xi Jinping präsentiert sich beim Gipfel in Shenzhen als Verfechter globalen Freihandels – während Putin Europas Sanktionspolitik als gescheitert darstellt.",
@@ -141,34 +169,6 @@
    "u": "https://taz.de/Haftstrafe-fuer-iranischen-Regisseur/!6225615/",
    "q": "taz",
    "d": "2026-10-28T10:36:00+00:00"
-  },
-  {
-   "t": "Trauer und Entsetzen in Jordanien: Anschlag auf die Oase des Friedens",
-   "s": "Am Freitag haben mutmaßliche Terroristen das Feuer auf Trauernde in einer Kirche nahe Karak in Jordanien eröffnet. Acht Menschen verloren ihr Leben, Dutzende wurden verletzt.",
-   "u": "https://taz.de/Trauer-und-Entsetzen-in-Jordanien/!6224712/",
-   "q": "taz",
-   "d": "2026-10-24T16:58:00+00:00"
-  },
-  {
-   "t": "Nach Mord an Tierschützer in Almaty: Wohin mit 90 heimatlosen Hunden?",
-   "s": "In Kasachstan wurde der Betreiber eines privaten Tierheims ermordet. Aktivisten brachten in kürzester Zeit alle dort lebenden Hunde andernorts unter.",
-   "u": "https://taz.de/Nach-Mord-an-Tierschuetzer-in-Almaty/!6223610/",
-   "q": "taz",
-   "d": "2026-10-24T12:15:00+00:00"
-  },
-  {
-   "t": "Indischer Politiker über Massenproteste: „Das System lässt junge Menschen im Stich“",
-   "s": "Indiens Kakerlakenbewegung bekämpft die Wahlkommission als Instrument der Regierung von Narendra Modi, sagt der Oppositionspolitiker Shashi Tharoor.",
-   "u": "https://taz.de/Kakerlakenbewegung-in-Indien-Das-System-laesst-junge-Menschen-im-Stich/!6222829/",
-   "q": "taz",
-   "d": "2026-10-21T10:02:00+00:00"
-  },
-  {
-   "t": "Senioren in Südkorea: Rüstig für die KI-Zukunft",
-   "s": "Südkoreas rapide alternde Bevölkerung lernt den Umgang mit künstlicher Intelligenz. Der technologische Wandel hinterlässt nicht nur positive Spuren im Land.",
-   "u": "https://taz.de/Suedkoreas-rapide-alternde-Bevoelkerung-lernt-den-Umgang-mit-KI-So-laeuft-es/!6222820/",
-   "q": "taz",
-   "d": "2026-10-21T06:09:00+00:00"
   }
  ]
 }

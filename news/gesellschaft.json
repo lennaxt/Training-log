@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-19T11:41:29+00:00",
+ "updated": "2026-11-19T22:40:06+00:00",
  "items": [
+  {
+   "t": "Estnisch-russische Grenze: Kein kleiner Grenzverkehr mehr in Narva",
+   "s": "Nach dem versuchten Brandanschlag auf ein estnisches Rüstungsunternehmen will Tallinn die Grenze zu Russland schließen. In der Grenzstadt Narva sorgt das für Unruhe.",
+   "u": "https://taz.de/Estnisch-russische-Grenze/!6231030/",
+   "q": "taz",
+   "d": "2026-11-19T17:16:00+00:00"
+  },
+  {
+   "t": "Nach ukrainischem Angriff auf Krim: Putin droht",
+   "s": "Der Kremlchef droht schmerzhafte Vergeltungsmaßnahmen an. Die Ukraine hat inzwischen auch fast die Hälfte der russischen Raffinerien getroffen.",
+   "u": "https://taz.de/Nach-ukrainischem-Angriff-auf-Krim/!6231637/",
+   "q": "taz",
+   "d": "2026-11-19T16:40:00+00:00"
+  },
+  {
+   "t": "Dreiergipfel in Shenzhen: Deprimierende Autokraten-Show",
+   "s": "Die europäische Kritik am Schulterschluss von Trump, Putin und Xi verhallt in weiten Teilen der Welt. Dieser Perspektivwechsel ist lehrreich.",
+   "u": "https://taz.de/Dreiergipfel-in-Shenzhen/!6224643/",
+   "q": "taz",
+   "d": "2026-11-19T16:21:00+00:00"
+  },
+  {
+   "t": "Wadephuls Aserbaidschan-Besuch: Deutsche Interessen in Baku",
+   "s": "Während Aserbaidschan christliche Kirchen zerstört, lobt Außenminister Wadephul in Baku die religiöse Toleranz. Was bringt da noch der Appell an die Moral?",
+   "u": "https://taz.de/Wadephuls-Aserbaidschan-Besuch/!6231501/",
+   "q": "taz",
+   "d": "2026-11-19T15:20:00+00:00"
+  },
+  {
+   "t": "EU-Gipfel mit Großbritannien: Burnham wagt sich zurück in den Brexit-Streit",
+   "s": "Am Freitag will die britische Regierung bei einem Gipfel in Brüssel vom geltenden Brexit abrücken. Der Europa-Streit in Großbritannien bricht neu aus.",
+   "u": "https://taz.de/EU-Gipfel-Andy-Burnham-wagt-sich-zurueck-in-den-Brexit-Streit/!6231088/",
+   "q": "taz",
+   "d": "2026-11-19T12:59:00+00:00"
+  },
   {
    "t": "Renaturierung in Frankreich: Bauen wie die Biber",
    "s": "Freiwillige in Frankreich wollen die leidenden Flüsse des Landes renaturieren. Und lassen sich dabei von putzigen Nagern inspirieren.",
@@ -10,8 +45,8 @@
    "d": "2026-11-19T10:47:00+00:00"
   },
   {
-   "t": "Verteidigungsstrategie: Ukraine attackiert erneut Krim-Brücke und Ölinfrastruktur",
-   "s": "Nach dem Autobahn-Teil der Krim-Brücke wurde nun auch der Bahn-Teil getroffen. Derweil verteidigt sich Elon Musk gegen ukrainische Behauptungen.",
+   "t": "Verteidigungsstrategie: Ukraine attackiert erneut Krimbrücke und Ölinfrastruktur",
+   "s": "Nach dem Autobahnteil der Krimbrücke wurde nun auch der Bahnteil getroffen. Derweil verteidigt sich Elon Musk gegen ukrainische Behauptungen.",
    "u": "https://taz.de/Verteidigungsstrategie/!6231366/",
    "q": "taz",
    "d": "2026-11-19T09:26:00+00:00"
@@ -122,8 +157,8 @@
    "d": "2026-11-17T13:33:00+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Selenskyj bestätigt teilweise Zerstörung der Krim-Brücke",
-   "s": "Gegenseitige Angriffe auf wichtige Verkehrsverbindungen: Russland nimmt zwei Brücken in Kyjiw ins Visier, die Ukraine attackiert die Krim-Brücke.",
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Selenskyj bestätigt teilweise Zerstörung der Krimbrücke",
+   "s": "Gegenseitige Angriffe auf wichtige Verkehrsverbindungen: Russland nimmt zwei Brücken in Kyjiw ins Visier, die Ukraine attackiert die Krimbrücke.",
    "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6227328/",
    "q": "taz",
    "d": "2026-11-17T08:19:00+00:00"
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Abschiebe-Abkommen-mit-Ruanda/!6230614/",
    "q": "taz",
    "d": "2026-11-16T19:04:00+00:00"
-  },
-  {
-   "t": "Flucht nach Europa: Warum zurzeit viele Migranten nach El Hierro kommen",
-   "s": "Auf der spanischen Kanareninsel kamen in wenigen Tagen Tausende Menschen an. Die rechten Parteien Vox und PP schlachten die Lage für den Wahlkampf aus.",
-   "u": "https://taz.de/Warum-zurzeit-viele-Migranten-auf-die-spanische-Insel-El-Hierro-kommen/!6230405/",
-   "q": "taz",
-   "d": "2026-11-16T18:07:00+00:00"
-  },
-  {
-   "t": "Treffen der EU-Außenminister: Ukraine-Verhandlungen ohne Kaja Kallas",
-   "s": "Die EU-Außenbeauftragte Kaja Kallas ist vom europäischen Verhandlungsteam ausgeschlossen. Aber sie verkündet eine Reihe neuer Sanktionen gegen Moskau.",
-   "u": "https://taz.de/Treffen-der-EU-Aussenminister/!6230422/",
-   "q": "taz",
-   "d": "2026-11-16T15:33:00+00:00"
-  },
-  {
-   "t": "Drittstaaten-Abkommen: Die USA haben's vorgemacht",
-   "s": "Die US-Abschreckungspolitik wurde in Europa aufmerksam verfolgt. So konnten Partnerstaaten für Drittstaatenabkommen identifiziert werden.",
-   "u": "https://taz.de/Drittstaaten-Abkommen/!6230451/",
-   "q": "taz",
-   "d": "2026-11-16T14:50:00+00:00"
-  },
-  {
-   "t": "Große Proteste in Tschechien: Hunderttausende gegen 4:36",
-   "s": "400.000 Menschen protestieren in Prag gegen die Rundfunkreform der Regierung. Ihnen geht es nicht nur um Gebühren, sie fürchten um die Zukunft ihres Landes.",
-   "u": "https://taz.de/Grosse-Proteste-in-Tschechien/!6230312/",
-   "q": "taz",
-   "d": "2026-11-16T12:49:00+00:00"
-  },
-  {
-   "t": "Lieferkettengesetz in Serbien: Auf Verschleiß",
-   "s": "In Serbien fertigen Arbeiterinnen Bauteile für Mercedes-Benz – mit gesundheitlichen Folgen. Das deutsche Lieferkettengesetz soll sie schützen. Wie wirksam ist es?",
-   "u": "https://taz.de/Lieferkettengesetz-in-Serbien/!6230080/",
-   "q": "taz",
-   "d": "2026-11-16T11:39:00+00:00"
   }
  ]
 }

@@ -1,20 +1,83 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-19T11:41:26+00:00",
+ "updated": "2026-11-19T22:40:03+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 19.11.2026",
+   "s": "Wirtschaft vor acht vom 19.11.2026",
+   "u": "https://www.tagesschau.de/video/video-1686732.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T19:05:09+00:00"
+  },
+  {
+   "t": "Marktbericht: Keine Erholung trotz Anthropic-Euphorie",
+   "s": "Trotz der guten Stimmung im Technologiesektor rund um den Rekord-Börsengang von Anthropic ist der DAX abgerutscht. Der deutsche Leitindex schloss auf dem tiefsten Stand seit mehr als drei Wochen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T17:33:52+00:00"
+  },
+  {
+   "t": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+   "s": "Anthropic gelingt der größte Börsengang aller Zeiten. Nach dem Absturz von Nvidia verbindet die KI-Branche damit neue Hoffnungen. Sind die Zweifel am Boom rund um Künstliche Intelligenz nun zerstreut? Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T16:54:27+00:00"
+  },
+  {
+   "t": "Volkswagen will Nullrunden für zwei Jahre",
+   "s": "Nullrunden, weniger Zulagen und Änderungen bei der Arbeitszeit - Volkswagen will harte Einschnitte in der anstehenden Tarifrunde durchsetzen. Die IG Metall wirft dem Konzern vor, mit dem \"Messer in den Rücken\" der Arbeitnehmer zu fallen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T16:11:57+00:00"
+  },
+  {
+   "t": "BASF bläst Evonik-Übernahme ab",
+   "s": "BASF nimmt Abstand von einer Übernahme des Konkurrenten Evonik. Der Chemiekonzern gibt die Pläne auf, nachdem Evonik zuvor zwei unverbindliche Kaufangebote zurückgewiesen hatte.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T15:55:43+00:00"
+  },
+  {
+   "t": "KI-gestützter Cyberangriff auf EU-Kommission",
+   "s": "Die Europäische Kommission in Brüssel ist Ziel eines KI-gestützten Hackerangriffs geworden. Ob Daten der mehr als 33.000 Beschäftigten gestohlen wurden, sagte die Behörde nicht. Auch die Verantwortlichen sind nicht bekannt.",
+   "u": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T13:56:39+00:00"
+  },
+  {
+   "t": "Gebrauchte Spielekonsolen so teuer wie noch nie",
+   "s": "Der mit viel Rummel begleitete Start des Videospiels \"Grand Theft Auto VI\" hat Auswirkungen auf die Elektronik-Branche: Die Preise für Spielkonsolen sind auf Rekordhöhe gestiegen. Das hat aber noch andere Gründe. Von Stefan Kiske.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/gta-vi-konsolen-preise-gaming-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T13:33:49+00:00"
+  },
+  {
+   "t": "Firmenporträt: Anthropics halsbrecherischer Aufstieg",
+   "s": "Google schwor einst, nicht böse zu sein. OpenAI wollte KI fürs Gemeinwohl nutzen. Anthropic verspricht Sicherheit. Jetzt kommt der Börsengang - und mit ihm die Frage, die alle Tech-Giganten kennen: Was bleibt vom Ideal, wenn der Markt ruft? Von G. Biesinger.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T13:30:31+00:00"
+  },
+  {
+   "t": "Warnstreiks der IG Metall",
+   "s": "Die Gewerkschaft IG Metall hat für Freitag großflächige Warnstreiks angekündigt. Betroffen sind viele Autowerke und Zulieferbetriebe in Baden-Württemberg und Bayern.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-124.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T12:58:34+00:00"
+  },
+  {
+   "t": "Marktbericht: Deutsche Telekom steigt bei KI-Start-up Mistral ein",
+   "s": "Unternehmen und Behörden sollen durch eine Beteiligung der Telekom am französischen Start-up Mistral mit \"vertrauenswürdiger KI aus Europa\" versorgt werden. Der Rekord-Börsengang von Anthropic stabilisiert derweil den DAX.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-19T12:57:07+00:00"
+  },
   {
    "t": "Heizen wird wegen steigender Energiepreise immer teurer",
    "s": "Ein warmes Zuhause ist bei Weitem nicht für alle Menschen selbstverständlich. Nach Berechnungen des Statistischen Bundesamts konnten im vergangenen Jahr rund 4,7 Millionen Menschen ihre Wohnung nicht richtig heizen.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/heizkosten-anstieg-100.html",
    "q": "Tagesschau",
    "d": "2026-11-19T10:10:08+00:00"
-  },
-  {
-   "t": "Marktbericht: Anthropic-Börsengang schiebt DAX an",
-   "s": "Der DAX startet nach den gestrigen Kursverlusten einen Erholungsversuch und legt im frühen Handel zu. Der Optimismus vor dem Anthropic-Börsengang in den USA macht Anleger mutiger.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T09:31:32+00:00"
   },
   {
    "t": "Update Wirtschaft vom 19.11.2026",
@@ -50,13 +113,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
    "q": "Tagesschau",
    "d": "2026-11-19T01:06:22+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 18.11.2026",
-   "s": "Wirtschaft vor acht vom 18.11.2026",
-   "u": "https://www.tagesschau.de/video/video-1686102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T18:59:41+00:00"
   },
   {
    "t": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
@@ -113,62 +169,6 @@
    "u": "https://www.tagesschau.de/investigativ/ndr-wdr/dws-118.html",
    "q": "Tagesschau",
    "d": "2026-11-18T05:00:42+00:00"
-  },
-  {
-   "t": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
-   "s": "Die Inflationssorgen sind zurück. Über einen Ausblick auf 2027, Unterschiede zur überstandenen Rekordinflation und was sich vom Nikolaus über die Preisbildung lernen lässt, spricht Bundesbankpräsident Nagel im tagesschau-Interview.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T04:02:36+00:00"
-  },
-  {
-   "t": "Neue Quartalszahlen: Nvidia verdoppelt Umsatz und Gewinn",
-   "s": "Wenige Tage nach der Spionageaffäre rund um den bisherigen Konzernchef Huang hat Nvidia überraschend starke Quartalsergebnisse vorgelegt. Die Zahlen des US-Chipkonzerns lagen deutlich über den Erwartungen von Analysten.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T00:59:30+00:00"
-  },
-  {
-   "t": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
-   "s": "Der wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurückgetretene Chef des US-Chipkonzerns Nvidia hat gravierende Fehler eingeräumt. Doch sollte der Vorstand das wünschen, würde er gerne an die Unternehmensspitze zurückkehren.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T18:03:42+00:00"
-  },
-  {
-   "t": "Marktbericht: Deutsche-Bank-Aktien nach neuen Vorwürfen unter Druck",
-   "s": "Aktien der Deutschen Bank fallen deutlich. Grund dafür ist ein Datenleck, das Millionen interner Papiere offengelegt haben soll, in denen unter anderem von Geldwäsche die Rede ist. Das Bankhaus wiegelt ab.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/deutschebank-226.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T13:08:30+00:00"
-  },
-  {
-   "t": "Datenleck: Interne Dokumente belasten die Deutsche Bank",
-   "s": "Die Schatten der Vergangenheit holen die Deutsche Bank erneut ein. Informationen aus einem Datenleck offenbaren fragwürdige Geschäftspraktiken und mutmaßliche Probleme bei den Kontrollen beim größten deutschen Geldhaus.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-datenleak-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T09:42:53+00:00"
-  },
-  {
-   "t": "US-Regierung verhängt neue Exportbeschränkungen für KI-Chips",
-   "s": "Die US-Regierung verschärft ihre Ausfuhrregeln für hochmoderne KI-Chips und will damit nach dem Nvidia-Skandal Schlupflöcher nach China schließen. Die Tech-Aktien in den USA sackten nach der Bekanntgabe ab.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-einschraenkungen-export-ki-chips-nvidia-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T07:59:32+00:00"
-  },
-  {
-   "t": "Nach Huang-Affäre: Bald alles neu in der KI-Chipindustrie?",
-   "s": "Konkurrenten wie AMD oder Qualcomm reiben sich nach dem Abgang von Huang als CEO bei Nvidia schon die Hände. Was ist dran am möglichen Umbruch der Chip-Branche - und wie viel hat er tatsächlich mit dem Abtritt Huangs zu tun? Von R. Spiegelhauer.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/ki-chipindustrie-nvidia-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-17T03:16:17+00:00"
-  },
-  {
-   "t": "Mehr Wettbewerb im Fernverkehr – auf Kosten ländlicher Regionen?",
-   "s": "Private Anbieter könnten den Bahn-Fernverkehr attraktiver machen. Doch was bedeutet das für kleinere Städte und ländliche Regionen? Zur Sicherung ihrer Anbindung gibt es Konzepte. Die Bundesregierung sieht bislang aber keinen Grund zur Eile.",
-   "u": "https://www.deutschlandfunk.de/deutsche-bahn-konkurrenz-flixtrain-italo-fernverkehr-regionen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-14T11:55:00+00:00"
   }
  ]
 }
