@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-11-19T22:40:04+00:00",
+ "updated": "2026-11-20T11:41:33+00:00",
  "items": [
+  {
+   "t": "Warum die Jugend der Gen Z im Dauerkrisenmodus steckt",
+   "s": "Von Kriegen bis Klimawandel - Jugendliche sehen sich stärker als frühere Generationen von einem Mix aus Dauerkrisen bedroht. Von der Politik fühlen sie sich im Stich gelassen und fürchten um ihre Zukunft. Von Sven Kästner.",
+   "u": "https://www.tagesschau.de/wissen/forschung/jugendliche-in-der-dauerkrise-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T11:40:13+00:00"
+  },
   {
    "t": "Team aus Karlsruhe erhält Zukunftspreis für Mikrochip-Forschung",
    "s": "Mit dem Deutschen Zukunftspreis des Bundespräsidenten soll besonders innovative Forschung ausgezeichnet werden. Dieses Jahr geht er an ein Forscher-Team, dessen Technik den Einsatz von lichtleitenden Mikrochips, die Daten schneller und energieeffizienter übertragen können, wesentlich einfacher macht.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/herbst-spaziergang-100.html",
    "q": "Tagesschau",
    "d": "2026-10-29T05:45:03+00:00"
-  },
-  {
-   "t": "Bericht der Weltwetterorganisation: Immer mehr Treibhausgase in der Atmosphäre",
-   "s": "In der Atmoshäre sammeln sich immer mehr Treibhausgase. Das zeigt ein neuer Bericht der Weltwetterorganisation. Offenbar erholt sich die Natur von Hitze und Trockenheit nicht so schnell wie erwartet. Von N. Gode und S. Biegger.",
-   "u": "https://www.tagesschau.de/wissen/klima/treibhausgase-so-hoch-wie-nie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-27T09:00:07+00:00"
   }
  ]
 }

@@ -1,13 +1,48 @@
 {
  "name": "Ausland",
- "updated": "2026-11-19T22:40:01+00:00",
+ "updated": "2026-11-20T11:41:31+00:00",
  "items": [
   {
-   "t": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
-   "s": "Beim Gipfel von Xi, Trump und Putin ging es um schöne Bilder und Schmeicheleien. Konkrete Politik? Fehlanzeige. Doch China gelang es, ein Thema zu setzen, das vor allem seinen Interessen und denen Russlands dient. Von Marie von Mallinckrodt.",
-   "u": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html",
+   "t": "Urteil hindert İmamoğlu an Präsidentschaftskandidatur in der Türkei",
+   "s": "Der größte Rivale von Präsident Erdoğan sitzt bereits im Gefängnis. Nun verhindert ein weiteres Gerichtsurteil, dass İmamoğlu bei der nächsten Wahl kandidieren darf. Es geht dabei um seinen Hochschulabschluss.",
+   "u": "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html",
    "q": "Tagesschau",
-   "d": "2026-11-19T18:30:48+00:00"
+   "d": "2026-11-20T10:41:07+00:00"
+  },
+  {
+   "t": "Tote bei russischen Angriffen auf mehrere Brücken in Kiew",
+   "s": "Es ist eine Attacke ins Herz der ukrainischen Hauptstadt: Russland hat in Kiew erneut Brücken beschossen und beschädigt. Mehrere Menschen wurden getötet. In Polen musste wegen des Angriffs zeitweise ein Flughafen den Betrieb einstellen.",
+   "u": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T09:34:09+00:00"
+  },
+  {
+   "t": "Warum Burnham die Nähe zur EU sucht",
+   "s": "Der britische Premier Burnham lässt keinen Zweifel aufkommen: Er will London wieder näher an die EU führen, denn er hält den Brexit für gescheitert. Wie weit kann er dabei gehen? Ein EU-UK-Gipfel soll den Prozess beschleunigen. Von C. Prössl.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-uk-gipfel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T07:41:19+00:00"
+  },
+  {
+   "t": "COP31: Deutsche Politiker auf Kurssuche bei der Weltklimakonferenz",
+   "s": "Bei der Weltklimakonferenz in Antalya wird auch am offiziell letzten Tag über Finanzierung und den Ausstieg aus Fossilen Energien gestritten. Die Zeit drängt - und viele kleinere Länder wünschen sich mehr Engagement aus Deutschland. Von D. Hebestreit.",
+   "u": "https://www.tagesschau.de/ausland/asien/cop-antalya-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T07:23:29+00:00"
+  },
+  {
+   "t": "Kritik aus den USA nach Treffen Trumps mit Xi und Putin",
+   "s": "Erstmals in der Geschichte saß ein US-Präsident allein mit dem chinesischen und dem russischen Staatschef an einem Tisch. Große Deals blieben offenbar aus, die Debatte zu Hause ist groß: War das Diplomatie - oder Inszenierung? Von S. Jackisch.",
+   "u": "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T05:48:01+00:00"
+  },
+  {
+   "t": "Pistorius will Militärpakt mit Polen ausbauen",
+   "s": "Patriot-Systeme und Eurofighter-Kampfjets sowie eine Zusammenarbeit der Armeen beim Aufbau von gemeinsamen Verteidigungsstellungen: Polen und Deutschland arbeiten bereits militärisch zusammen. Das möchten beide Länder nun intensivieren.",
+   "u": "https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T03:53:04+00:00"
   },
   {
    "t": "EGMR-Urteil: Corona-Impfpflichten waren menschenrechtskonform",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/brasilien-awa-100.html",
    "q": "Tagesschau",
    "d": "2026-11-18T17:09:00+00:00"
-  },
-  {
-   "t": "\"Keine Klimagerechtigkeit ohne Entmilitarisierung\"",
-   "s": "Militär verursacht geschätzt fünfeinhalb Prozent des globalen CO2-Ausstoßes. Auch der Wiederaufbau nach einem Krieg belastet das Klima. Experten auf der Weltklimakonferenz fordern deshalb Entmilitarisierung. Von D. K. Mäurer.",
-   "u": "https://www.tagesschau.de/ausland/asien/cop31-krieg-emissionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T12:13:49+00:00"
-  },
-  {
-   "t": "US-Midterms: Demokraten gewinnen auch Senatssitz in Alaska",
-   "s": "Alaska stand noch aus, nun ist klar: Auch dort haben die Demokraten den Senatssitz gewonnen. Damit konnten sie bei den Midterms neun zusätzliche Sitze erobern - was es seit Jahrzehnten nicht mehr gab. Senatorin wird die Indigene Mary Peltola.",
-   "u": "https://www.tagesschau.de/ausland/amerika/midterms-usa-alaska-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T06:56:21+00:00"
-  },
-  {
-   "t": "Treffen von Trump, Xi und Putin: Rüstung, KI - und ein heikles Thema",
-   "s": "Heute beginnt im chinesischen Shenzhen das APEC-Treffen. Erstmals wird es zu einem Dreiertreffen von Xi, Trump und Putin kommen. Um was könnte es dabei gehen? Von Christoph Kober.",
-   "u": "https://www.tagesschau.de/ausland/asien/apec-trump-putin-xi-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T05:17:26+00:00"
-  },
-  {
-   "t": "Israels Knesset: Eisenkot-Verbündeter als Parlamentspräsident gewählt",
-   "s": "Das israelische Parlament hat Matan Kahana zu seinem neuen Präsidenten und Sprecher gewählt - damit hat der Anti-Netanjahu-Block einen wichtigen Schritt gemacht. Von Bettina Meier.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-knesset-praesident-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T03:10:48+00:00"
-  },
-  {
-   "t": "Warum die USA nicht mehr masernfrei sind",
-   "s": "Die USA erleben den schlimmsten Masern-Ausbruch seit mehr als 35 Jahren. Und haben nun auch ihren Status als masernfreies Land verloren. Das hat die Panamerikanische Gesundheitsorganisation (PAHO) offiziell bekannt gegeben. Von N. Barth.",
-   "u": "https://www.tagesschau.de/ausland/amerika/masern-usa-118.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T01:34:24+00:00"
   }
  ]
 }

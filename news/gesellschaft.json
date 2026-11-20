@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-19T22:40:06+00:00",
+ "updated": "2026-11-20T11:41:34+00:00",
  "items": [
+  {
+   "t": "Russische Raketen in Polen abgestürzt: Drei Fundorte, zwei mutmaßliche Raketen und eine Drohne",
+   "s": "Während Russland die Ukraine angreift, stürzen Flugobjekte in Polen ab. Warum Warschaus Verteidigungsminister von einer Provokation spricht.",
+   "u": "https://taz.de/Russische-Raketen-in-Polen-abgestuerzt/!6231772/",
+   "q": "taz",
+   "d": "2026-11-20T11:15:00+00:00"
+  },
+  {
+   "t": "Erdoğan-Rivale wird kaltgestellt: Diplom aberkannt, zu Haftstrafe verurteilt",
+   "s": "Zwei Gerichtsurteile hindern Istanbuls Bürgermeister İmamoğlu an einer Präsidentschaftskandidatur. Neun Bürgermeister der Opposition laufen zu Erdoğan über.",
+   "u": "https://taz.de/Erdogan-Rivale-wird-kaltgestellt/!6231733/",
+   "q": "taz",
+   "d": "2026-11-20T08:43:00+00:00"
+  },
+  {
+   "t": "Serbiens neuer Parlamentspräsident: Der ruhige Mann mit dem wilden Bart",
+   "s": "Aleksandar Čupić ist neuer Parlamentspräsident in Serbien. Es ist das erste öffentliche Amt, das ein Vertreter der Studentenliste bekleidet.",
+   "u": "https://taz.de/Serbiens-neuer-Parlamentspraesident/!6231731/",
+   "q": "taz",
+   "d": "2026-11-20T08:33:00+00:00"
+  },
+  {
+   "t": "Internationaler Gen-Z-Protesttag: Gewerkschaften rufen zu Demonstrationen in Frankreich auf",
+   "s": "Dem breiten Bündnis gehören auch linke Jugendverbände an. Proteste soll es in mindestens 16 Städten geben.",
+   "u": "https://taz.de/Internationaler-Gen-Z-Protesttag/!6231431/",
+   "q": "taz",
+   "d": "2026-11-20T07:37:00+00:00"
+  },
+  {
+   "t": "Krieg in der Ukraine: Tote bei russischen Angriffen auf Kyjiwer Brücken",
+   "s": "Nach den ukrainischen Attacken auf die Krim-Brücke hat Russland zurückgeschlagen. Kyjiws Bürgermeister fordert die Einwohner der Stadt auf, möglichst von zu Hause aus zu arbeiten.",
+   "u": "https://taz.de/Krieg-in-der-Ukraine/!6231729/",
+   "q": "taz",
+   "d": "2026-11-20T07:26:00+00:00"
+  },
   {
    "t": "Estnisch-russische Grenze: Kein kleiner Grenzverkehr mehr in Narva",
    "s": "Nach dem versuchten Brandanschlag auf ein estnisches Rüstungsunternehmen will Tallinn die Grenze zu Russland schließen. In der Grenzstadt Narva sorgt das für Unruhe.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Kampf-gegen-Korruption-in-der-Ukraine/!6230776/",
    "q": "taz",
    "d": "2026-11-18T06:05:00+00:00"
-  },
-  {
-   "t": "Ukraine-Treffen in Berlin und Brüssel: Das Mühen um Hilfe und Frieden",
-   "s": "Parallel zur Dreierrunde Putin/Trump/Xi trifft sich die „Koalition der Willigen“ für die Ukraine in Berlin. Ein Geschenk gab es bereits: weitere Luftabwehrraketen.",
-   "u": "https://taz.de/Ukraine-Treffen-in-Berlin-und-Bruessel/!6230787/",
-   "q": "taz",
-   "d": "2026-11-17T16:50:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: Das Symbol des Putinismus ist eingestürzt",
-   "s": "Putins Krim-Brücke ist nach ukrainischen Angriffen teilweise zerstört worden. Der Ausfall ist verheerend für die russische Armee.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6230784/",
-   "q": "taz",
-   "d": "2026-11-17T15:06:00+00:00"
-  },
-  {
-   "t": "Nach der Wahl in Serbien: In Belgrad kommt das Parlament zur ersten Sitzung zusammen",
-   "s": "Die Studentenliste löste die bisherige rechtsnationalistische Regierung ab. Wie geht es nun weiter im Land?",
-   "u": "https://taz.de/Nach-der-Wahl-in-Serbien/!6230715/",
-   "q": "taz",
-   "d": "2026-11-17T13:33:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Selenskyj bestätigt teilweise Zerstörung der Krimbrücke",
-   "s": "Gegenseitige Angriffe auf wichtige Verkehrsverbindungen: Russland nimmt zwei Brücken in Kyjiw ins Visier, die Ukraine attackiert die Krimbrücke.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6227328/",
-   "q": "taz",
-   "d": "2026-11-17T08:19:00+00:00"
-  },
-  {
-   "t": "Abschiebe-Abkommen mit Ruanda: Point of no return ist überschritten",
-   "s": "Mehrere EU-Staaten, darunter Deutschland, beschließen ein Abschiebe-Abkommen mit Ruanda. 2027 sollen die sogenannten Return Hubs in Betrieb gehen.",
-   "u": "https://taz.de/Abschiebe-Abkommen-mit-Ruanda/!6230614/",
-   "q": "taz",
-   "d": "2026-11-16T19:04:00+00:00"
   }
  ]
 }
