@@ -1,20 +1,62 @@
 {
  "name": "Ausland",
- "updated": "2026-11-20T11:41:31+00:00",
+ "updated": "2026-11-20T22:14:37+00:00",
  "items": [
   {
-   "t": "Urteil hindert İmamoğlu an Präsidentschaftskandidatur in der Türkei",
-   "s": "Der größte Rivale von Präsident Erdoğan sitzt bereits im Gefängnis. Nun verhindert ein weiteres Gerichtsurteil, dass İmamoğlu bei der nächsten Wahl kandidieren darf. Es geht dabei um seinen Hochschulabschluss.",
-   "u": "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html",
+   "t": "Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus",
+   "s": "Russland soll auf dänischem Boden einen Anschlag auf einen ukrainisch-amerikanischen Rapper geplant haben. Als Reaktion wurde ein russischer Diplomat ausgewiesen. Zwei Verdächtige sitzen in Untersuchungshaft.",
+   "u": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-20T10:41:07+00:00"
+   "d": "2026-11-20T21:28:00+00:00"
+  },
+  {
+   "t": "Großbritannien: Schuldsprüche in Vergewaltigungsprozess",
+   "s": "Der Fall erinnert an das Martyrium der Französin Gisèle Pelicot. Die Britin Joanne Young wurde über Jahre von ihrem Ehemann betäubt - und dann im Internet zur Vergewaltigung angeboten. Nun wurden vier Männer schuldig gesprochen. Von F. Hoppen.",
+   "u": "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T20:25:44+00:00"
+  },
+  {
+   "t": "Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurfs",
+   "s": "Gegen den Schauspieler Gérard Depardieu und den Schriftsteller Michel Houellebecq liegt eine neue Anzeige vor - es geht um den Vorwurf der Gruppenvergewaltigung. Laut einem Medienbericht geschah diese 2018 bei einem Filmdreh. Von C. Rienäcker.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T18:25:36+00:00"
+  },
+  {
+   "t": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
+   "s": "Sechs Jahre nach dem Brexit rücken Großbritannien und die EU wieder näher zusammen. Das war beim gemeinsamen Gipfel in Brüssel deutlich spürbar. Manche träumen sogar schon von einer Rückkehr Großbritanniens in die EU. Von Sarah López.",
+   "u": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T17:44:07+00:00"
+  },
+  {
+   "t": "Polen wirft Russland gezielte Provokation vor",
+   "s": "Mehrere Flugkörper sind in den polnischen Luftraum eingedrungen - nach Einschätzung der Regierung eine gezielte Provokation Russlands. Sie könnte in Zusammenhang mit einer Übung der Ukraine-Unterstützer stehen, die derzeit in Polen stattfindet.",
+   "u": "https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T16:22:28+00:00"
+  },
+  {
+   "t": "Verhandlungen dauern an - Weltklimakonferenz geht in die Verlängerung",
+   "s": "Im Ringen um eine angemessene Antwort auf die Klimakrise geht die Weltklimakonferenz in die Verlängerung. Eigentlich sollte sie am Nachmittag zu Ende gehen. Doch die Verhandlungen dürften sich in die Nacht und ins Wochenende ziehen.",
+   "u": "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T16:15:00+00:00"
+  },
+  {
+   "t": "Junge Menschen profitieren: EU und Großbritannien nähern sich wieder an",
+   "s": "Großbritannien gehört seit Jahren nicht mehr zur Europäischen Union. Doch jetzt machen beide Seiten wieder Schritte aufeinander zu. Von einem der ersten Abkommen profitieren vor allem junge Menschen.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-grossbritannien-abkommen-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T12:03:18+00:00"
   },
   {
    "t": "Tote bei russischen Angriffen auf mehrere Brücken in Kiew",
-   "s": "Es ist eine Attacke ins Herz der ukrainischen Hauptstadt: Russland hat in Kiew erneut Brücken beschossen und beschädigt. Mehrere Menschen wurden getötet. In Polen musste wegen des Angriffs zeitweise ein Flughafen den Betrieb einstellen.",
+   "s": "Es ist eine Attacke ins Herz der ukrainischen Hauptstadt: Russland hat in Kiew erneut Brücken beschossen und beschädigt. Mehrere Menschen wurden getötet. Im Nachbarland Polen stürzten drei russische Flugobjekte ab.",
    "u": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-20T09:34:09+00:00"
+   "d": "2026-11-20T11:47:44+00:00"
   },
   {
    "t": "Warum Burnham die Nähe zur EU sucht",
@@ -24,15 +66,8 @@
    "d": "2026-11-20T07:41:19+00:00"
   },
   {
-   "t": "COP31: Deutsche Politiker auf Kurssuche bei der Weltklimakonferenz",
-   "s": "Bei der Weltklimakonferenz in Antalya wird auch am offiziell letzten Tag über Finanzierung und den Ausstieg aus Fossilen Energien gestritten. Die Zeit drängt - und viele kleinere Länder wünschen sich mehr Engagement aus Deutschland. Von D. Hebestreit.",
-   "u": "https://www.tagesschau.de/ausland/asien/cop-antalya-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T07:23:29+00:00"
-  },
-  {
    "t": "Kritik aus den USA nach Treffen Trumps mit Xi und Putin",
-   "s": "Erstmals in der Geschichte saß ein US-Präsident allein mit dem chinesischen und dem russischen Staatschef an einem Tisch. Große Deals blieben offenbar aus, die Debatte zu Hause ist groß: War das Diplomatie - oder Inszenierung? Von S. Jackisch.",
+   "s": "Erstmals in der Geschichte saß ein US-Präsident allein mit dem chinesischen und dem russischen Staatschef an einem Tisch. Große Deals blieben offenbar aus, die Debatte zu Hause in den USA ist groß: War das Diplomatie - oder Inszenierung? Von S. Jackisch.",
    "u": "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html",
    "q": "Tagesschau",
    "d": "2026-11-20T05:48:01+00:00"
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html",
    "q": "Tagesschau",
    "d": "2026-11-18T23:33:32+00:00"
-  },
-  {
-   "t": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
-   "s": "Die israelische Armee hat eigenen Angaben zufolge eine Bodenoffensive mit Panzern im Zentrum des Gazastreifens begonnen. Das Land kontrolliert inzwischen rund 60 bis 70 Prozent des Gazastreifens militärisch.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T21:04:52+00:00"
-  },
-  {
-   "t": "Demokraten nominieren Jeffries als Chef des US-Repräsentantenhauses",
-   "s": "Trotz Vorbehalten einiger Progressiver haben die US-Demokraten ihren Fraktionschef Jeffries für den Vorsitz des US-Repräsentantenhauses nominiert. Als solcher könnte er auch Untersuchungen gegen die Trump-Regierung vorantreiben.",
-   "u": "https://www.tagesschau.de/ausland/amerika/jeffries-nominiert-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T18:11:40+00:00"
-  },
-  {
-   "t": "Neuer EU-Kredit für Ukraine: \"Wir sind entschlossener denn je\"",
-   "s": "Die Ukraine braucht dringend Geld - den Großteil soll die EU nach Willen der Kommission übernehmen. Für die Rückzahlung sollen künftige russische Reparationen genutzt werden. Doch einige Mitgliedsstaaten sind dagegen. Von T. Hassel und C. Feld.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-ukraine-unsterstuetzung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T18:02:26+00:00"
-  },
-  {
-   "t": "Ex-Ministerin Kneissl: Österreich prüft Aberkennung der Staatsbürgerschaft",
-   "s": "Österreichs Ex-Außenministerin Kneissl fiel schon während ihrer Amtszeit durch ihre Nähe zu Russland auf. Inzwischen lebt sie dort und stellt sich öffentlich hinter Putin. In ihrem Heimatland könnte das jetzt Folgen haben.",
-   "u": "https://www.tagesschau.de/ausland/europa/kneissl-staatsbuergerschaft-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T17:17:56+00:00"
-  },
-  {
-   "t": "Brasilianischer Regenwald: Indigene verlassen offenbar aus Not ihre Isolation",
-   "s": "Offenbar aus Hunger heraus haben isoliert lebende Indigene in Brasilien Kontakt zur Außenwelt gesucht: Etwa 20 Angehörige der Awá kamen Berichten zufolge in ein Dorf, um nach Lebensmitteln zu fragen - \"ein beunruhigendes Zeichen\", so eine NGO.",
-   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-awa-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T17:09:00+00:00"
   }
  ]
 }

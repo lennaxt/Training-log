@@ -1,20 +1,62 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-20T11:41:32+00:00",
+ "updated": "2026-11-20T22:14:38+00:00",
  "items": [
+  {
+   "t": "Mehr als 100 Betriebe beteiligt: IG Metall setzt weiter auf ganztätige Warnstreiks",
+   "s": "BMW und Audi in Bayern, Werften im Norden: Mehr als Hunderttausend Beschäftigte haben für 24 Stunden die Arbeit niedergelegt. Ein neues Gesprächsangebot hat die Streikwelle vorerst nicht gestoppt. In der kommenden Woche geht es weiter.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T19:58:08+00:00"
+  },
+  {
+   "t": "Wirtschaft vor acht vom 20.11.2026",
+   "s": "Wirtschaft vor acht vom 20.11.2026",
+   "u": "https://www.tagesschau.de/video/video-1687280.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T19:10:55+00:00"
+  },
+  {
+   "t": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
+   "s": "An den Finanzmärkten rollt eine Verkaufswelle durch den vom Erfolg verwöhnten Technologiesektor. Der DAX folgt den Verlusten an der Wall Street und schließt mit dem höchsten Wochenminus seit Monaten.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T17:17:33+00:00"
+  },
+  {
+   "t": "Weltgrößtes Windrad in Betrieb: Sind Höhenwindräder die Zukunft?",
+   "s": "Bis zu 365 Meter hoch ist ein Windrad, das jetzt in der Lausitz in Betrieb gegangen ist - laut den Ingenieuren ein Rekord. Aber rechnen sich solche Riesenanlagen überhaupt? Und was sagen Anwohner? Von Mirja Fiedler.",
+   "u": "https://www.tagesschau.de/wirtschaft/energie/groesstes-windrad-lausitz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T16:25:17+00:00"
+  },
+  {
+   "t": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
+   "s": "Erst legt der KI-Entwickler Anthropic einen der größten Börsengänge der Geschichte hin. Gleichzeitig geraten Technologie- und KI-Aktien weltweit unter Druck. Wie passt das zusammen? Von Michelle Goddemeier.",
+   "u": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T16:20:16+00:00"
+  },
+  {
+   "t": "Kritik an Ausnahmen bei Erbschaftsteuer nach Recherchen über Döpfner-Schenkung",
+   "s": "Springer-Chef Döpfner hat im Jahr 2020 von Verlegerin Friede Springer ein Milliarden-Aktienpaket übertragen bekommen - aber wohl kaum Schenkungsteuern gezahlt. Politiker von SPD und CDU fordern nun Änderungen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/doepfner-erbschaftssteuer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T14:58:12+00:00"
+  },
+  {
+   "t": "Galeria schließt drei Filialen - und noch viele mehr?",
+   "s": "Galeria trennt sich von Filialen in Berlin, Köln und München. Medienberichten zufolge ist das jedoch erst der Anfang: Von den derzeitigen Standorten könnte am Ende nur etwa die Hälfte übrig bleiben.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/galerie-schliessung-filialen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-20T13:47:08+00:00"
+  },
   {
    "t": "Gender Pay Gap: Frauen arbeiten den Rest des Jahres kostenlos",
    "s": "Von heute bis zum Jahresende arbeiten Frauen in der EU quasi unbezahlt - so groß ist die rechnerische Lohnlücke im Schnitt. Neue Transparenzregeln sollen Veränderung bringen, doch Deutschland hat die Frist der EU verstreichen lassen.",
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/gender-pay-gap-140.html",
    "q": "Tagesschau",
    "d": "2026-11-20T10:09:15+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX-Talfahrt setzt sich fort",
-   "s": "Der DAX fällt im frühen Handel weit zurück, es droht der sechste Verlusttag in Folge. Das erfolgreiche Börsendebüt von Anthropic hat die Stimmung nicht aufgehellt, und die Inflationssorgen erhalten neue Nahrung.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T10:04:11+00:00"
   },
   {
    "t": "Was die Volkswagen-Forderungen für Beschäftigte bedeuten könnten",
@@ -36,13 +78,6 @@
    "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1686922.html",
    "q": "Tagesschau",
    "d": "2026-11-20T08:48:20+00:00"
-  },
-  {
-   "t": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
-   "s": "Den Anfangshype konnte Anthropic am ersten Börsentag nicht ganz halten. Trotzdem ist die Aktie mit einem deutlichen Kursplus aus dem Handel gegangen. Das machte viele Beschäftigte auf einen Schlag reich.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T08:16:20+00:00"
   },
   {
    "t": "Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia",
@@ -71,13 +106,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html",
    "q": "Tagesschau",
    "d": "2026-11-20T00:41:04+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 19.11.2026",
-   "s": "Wirtschaft vor acht vom 19.11.2026",
-   "u": "https://www.tagesschau.de/video/video-1686732.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T19:05:09+00:00"
   },
   {
    "t": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-ki-vision-100.html",
    "q": "Tagesschau",
    "d": "2026-11-19T07:49:57+00:00"
-  },
-  {
-   "t": "Anthropic-Börsengang wird Musk-Rekord übertreffen",
-   "s": "Zum ersten Mal geht mit Anthropic ein maßgebliches KI-Unternehmen an den Markt. Der Börsengang wird der größte in der Geschichte. Ist das der Stimmungstest für die gesamte Branche? Giselle Ucar über die Ambitionen des KI-Riesen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T06:44:41+00:00"
-  },
-  {
-   "t": "Welche Erwartungen die Gaming-Branche mit GTA VI verbindet",
-   "s": "Die Entwicklung des Videospiels \"Grand Theft Auto VI\" dürfte eine Milliardensumme gekostet haben - womit es das bislang teuerste Produkt der Unterhaltungsindustrie ist. Die gesamte Branche erhofft sich davon einen Schub. Von C. Prössl.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/gta-rockstar-games-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T05:09:57+00:00"
-  },
-  {
-   "t": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
-   "s": "UniCredit garantiert Standort und Arbeitnehmerrechte - der Bund verzichtet auf Aufsichtsratsvertreter: Die Bundesregierung und die italienische Großbank haben sich bei der Commerzbank-Übernahme geeinigt.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T01:06:22+00:00"
-  },
-  {
-   "t": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
-   "s": "13 Jahre nach dem Vorgänger erscheint \"Grand Theft Auto VI\". Viele Fans haben den Start mit Spannung erwartet, andere halten die Aufregung um das Videospiel für übertrieben. Was macht es so besonders?",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T17:55:38+00:00"
   }
  ]
 }

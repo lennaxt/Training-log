@@ -1,7 +1,28 @@
 {
  "name": "Sport",
- "updated": "2026-11-20T11:41:36+00:00",
+ "updated": "2026-11-20T22:14:42+00:00",
  "items": [
+  {
+   "t": "Memoiren von Sonia Gandhi: Bilanz aus sechs politischen Jahrzehnten",
+   "s": "Jahrzehntelang prägte Sonia Gandhi die Politik Indiens. Mit ihren Memoiren sorgt die frühere Vorsitzende der Kongresspartei für neuen Zwist mit der Regierungspartei BJP.",
+   "u": "https://taz.de/Memoiren-von-Sonia-Gandhi/!6231760/",
+   "q": "taz",
+   "d": "2026-11-20T18:55:00+00:00"
+  },
+  {
+   "t": "Shenzhen, Miami, Brüssel: Über allen Gipfeln ist Unruh",
+   "s": "Die Diplomatie hat Hochsaison. Trump und Putin zu Besuch bei Xi, ein Ukraine-Gipfel in Berlin, und bald geht es weiter mit G20 in Miami.",
+   "u": "https://taz.de/Shenzhen-Miami-Bruessel/!6223479/",
+   "q": "taz",
+   "d": "2026-11-20T15:43:00+00:00"
+  },
+  {
+   "t": "Nach Völkermord-Urteil: Malaysia plant Umsiedlung von 10.000 Rohingya in die Türkei",
+   "s": "Myanmar weist das Urteil des UN-Gerichts, 2017 einen Völkermord an den Rohingya begangen zu haben, als „ungerecht“ zurück. Bangladesch und Vertreter der Rohingya begrüßen es.",
+   "u": "https://taz.de/Nach-Voelkermord-Urteil/!6231774/",
+   "q": "taz",
+   "d": "2026-11-20T12:55:00+00:00"
+  },
   {
    "t": "Deutsche Firmen in Indien: Was deutsche Unternehmen lockt – und was es Indien kostet",
    "s": "Viele Faktoren begünstigen die indisch-deutsche Wirtschaftskooperation, doch zeigen sich vor Inkrafttreten des Freihandelsabkommens auch Nachteile.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Arbeitskaempfe-in-Bangladesch/!6227377/",
    "q": "taz",
    "d": "2026-11-05T06:16:00+00:00"
-  },
-  {
-   "t": "Rauchschwaden über Südostasien: Indonesien verpestet seine Nachbarn – und sich selbst",
-   "s": "Seit Monaten raubt der Rauch von Indonesiens brennenden Wäldern den Menschen der Region den Atem und die Sicht. Präsident Prabowo hofft auf Regen.",
-   "u": "https://taz.de/Rauchschwaden-ueber-Suedostasien/!6226693/",
-   "q": "taz",
-   "d": "2026-11-02T19:07:00+00:00"
-  },
-  {
-   "t": "Krypto-Börse Binance: FBI macht Nordkorea für Hack verantwortlich",
-   "s": "US-Bundespolizei identifiziert Hackergruppe hinter dem Angriff auf die weltgrößte Kyptobörse. Die meldet Ersatz für 90 Prozent der gestohlenen Werte.",
-   "u": "https://taz.de/Krypto-Boerse-Binance/!6226367/",
-   "q": "taz",
-   "d": "2026-11-01T09:42:00+00:00"
-  },
-  {
-   "t": "Chinas Kommunistische Partei: Xi Jinping bringt seine Parteiführung auf Linie",
-   "s": "Beim 5. Plenum des derzeitigen Zentralkomitees stellt Xi Jinping die Weichen für seine nächste Amtszeit. „Säuberungen“ sind zum Dauerzustand geworden.",
-   "u": "https://taz.de/Chinas-Kommunistische-Partei/!6225990/",
-   "q": "taz",
-   "d": "2026-10-29T15:26:00+00:00"
   }
  ]
 }
