@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-11-20T22:14:42+00:00",
+ "updated": "2026-11-21T11:03:36+00:00",
  "items": [
+  {
+   "t": "Sonne, Mond und Sterne: Gemeinsam im Weltraum",
+   "s": "Warum die Partnerschaft zwischen der indischen Weltraumraumorganisation ISRO und der europäischen ESA für die Erforschung des Weltraums wichtig ist.",
+   "u": "https://taz.de/Sonne-Mond-und-Sterne/!6224715/",
+   "q": "taz",
+   "d": "2026-11-21T08:00:00+00:00"
+  },
   {
    "t": "Memoiren von Sonia Gandhi: Bilanz aus sechs politischen Jahrzehnten",
    "s": "Jahrzehntelang prägte Sonia Gandhi die Politik Indiens. Mit ihren Memoiren sorgt die frühere Vorsitzende der Kongresspartei für neuen Zwist mit der Regierungspartei BJP.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Repressionen-in-Hongkong/!6227530/",
    "q": "taz",
    "d": "2026-11-05T08:33:00+00:00"
-  },
-  {
-   "t": "Arbeitskämpfe in Bangladesch: Textilarbeiter fordern existenzsichernden Mindestlohn",
-   "s": "Seit dem Wochenende demonstrieren Tex­til­ar­bei­te­r:in­nen in Bangladesch für höhere Löhne. Die Regierung hat Mühe, die Lage zu beruhigen.",
-   "u": "https://taz.de/Arbeitskaempfe-in-Bangladesch/!6227377/",
-   "q": "taz",
-   "d": "2026-11-05T06:16:00+00:00"
   }
  ]
 }

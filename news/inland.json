@@ -1,7 +1,42 @@
 {
  "name": "Inland",
- "updated": "2026-11-20T22:14:37+00:00",
+ "updated": "2026-11-21T11:03:28+00:00",
  "items": [
+  {
+   "t": "Homonationalistische Allianzen: Jeder Teddybär hat ein Ablaufdatum",
+   "s": "Wenn weiße Queers und Transleute gemeinsame Sache mit Nationalisten machen, verkennen sie, dass sie die nächsten sind, die attackiert werden.",
+   "u": "https://taz.de/Homonationalistische-Allianzen/!6223501/",
+   "q": "taz",
+   "d": "2026-11-21T11:00:00+00:00"
+  },
+  {
+   "t": "Tagebuch aus der Ukraine: Die Wälder und das Meer können nicht auf Frieden warten",
+   "s": "Der Krieg überdröhnt das Thema Klimakatastophe. Dennoch sind dessen Folgen in der Ukraine unübersehbar. Unsere Autorin wird jetzt aktiv.",
+   "u": "https://taz.de/Tagebuch-aus-der-Ukraine/!6225358/",
+   "q": "taz",
+   "d": "2026-11-21T10:07:00+00:00"
+  },
+  {
+   "t": "GenZ-regelt: Proteste enden friedlich, vereinzelte Krawalle am Abend",
+   "s": "Zehntausende gingen für die Anliegen der jungen Generation auf die Straße. In Leipzig kam es nach Ende der „Gen Z regelt“-Demo zum Einsatz von Wasserwerfern.",
+   "u": "https://taz.de/GenZ-regelt/!6232145/",
+   "q": "taz",
+   "d": "2026-11-21T08:58:00+00:00"
+  },
+  {
+   "t": "Liquiditätshilfen für Schweinehalter: \"Nur ein Tropfen auf den heißen Stein\"",
+   "s": "Schweinehaltung in Deutschland ist ein Verlustgeschäft - Liquiditätshilfen in Höhe von 25 Millionen Euro sollen jetzt den Betrieben helfen. Doch das Notfallprogramm allein wird nicht ausreichen, warnen Landwirte und Opposition. Von T. Lehning.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T08:26:38+00:00"
+  },
+  {
+   "t": "\"Gen Z regelt\": Jugendliche erneut zu Tausenden auf den Straßen",
+   "s": "Zehntausende junge Menschen haben friedlich für die Anliegen ihrer Generation demonstriert. Nach dem Ende der \"Gen Z regelt\"-Demos gab es mancherorts zwar doch noch Krawalle, eine Eskalation wie an Halloween blieb aber aus.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T02:38:36+00:00"
+  },
   {
    "t": "Proteste der Gen Z in Deutschland: Eine Bewegung mit Potenzial",
    "s": "Dass die Gen-Z-Proteste kleiner als das letzte Mal waren, muss nicht ihr Ende sein. Wichtig ist aber, dass die Proteste lustig bleiben. Und chaotisch.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Gipfeltreffen-in-Bruessel/!6231809/",
    "q": "taz",
    "d": "2026-11-20T14:39:00+00:00"
-  },
-  {
-   "t": "Ungewöhnliche Bitte: Russische Eltern suchen Hilfe bei Melania Trump",
-   "s": "Wladimir Putin hat beim Schulbau in der Hafenstadt Wladiwostok am Pazifik nicht geholfen. Nun soll es Amerikas First Lady richten.",
-   "u": "https://taz.de/Ungewoehnliche-Bitte/!6231444/",
-   "q": "taz",
-   "d": "2026-11-20T14:06:00+00:00"
-  },
-  {
-   "t": "Progressive Christen in den USA: Demokratische Auferstehung",
-   "s": "Progressive Christen stellen sich gegen Trumps christlichen Nationalismus und gewinnen Wahlen für die Demokraten. Doch ihre Kirchen ringen um Abstand zur Parteipolitik.",
-   "u": "https://taz.de/Progressive-Christen-in-den-USA/!6231350/",
-   "q": "taz",
-   "d": "2026-11-20T12:57:00+00:00"
-  },
-  {
-   "t": "Nach Völkermord-Urteil: Malaysia plant Umsiedlung von 10.000 Rohingya in die Türkei",
-   "s": "Myanmar weist das Urteil des UN-Gerichts, 2017 einen Völkermord an den Rohingya begangen zu haben, als „ungerecht“ zurück. Bangladesch und Vertreter der Rohingya begrüßen es.",
-   "u": "https://taz.de/Nach-Voelkermord-Urteil/!6231774/",
-   "q": "taz",
-   "d": "2026-11-20T12:55:00+00:00"
-  },
-  {
-   "t": "Entlastung für Krankenhäuser: Bundesrat billigt Reform der Notfallversorgung",
-   "s": "Wenn’s dringend ist, sollen Patienten gezielter an richtige Stellen gelotst werden, statt ins Krankenhaus zu gehen. Die Länder üben Kritik, halten das Gesetz aber nicht auf.",
-   "u": "https://taz.de/Entlastung-fuer-Krankenhaeuser/!6231792/",
-   "q": "taz",
-   "d": "2026-11-20T12:50:00+00:00"
-  },
-  {
-   "t": "Russische Angriffe auf Zentrum Kyjiws: Diplomatische Vertretungen als russisches Angriffsziel",
-   "s": "In Kyjiw wurden die Botschaft Österreichs sowie eine Kathedrale und Brücken durch russische Angriffe beschädigt. In den letzten zwei Tagen starben mindestens sechs Menschen.",
-   "u": "https://taz.de/Russische-Angriffe-auf-Zentrum-Kyjiws/!6231752/",
-   "q": "taz",
-   "d": "2026-11-20T12:27:00+00:00"
   }
  ]
 }

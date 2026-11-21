@@ -1,7 +1,42 @@
 {
  "name": "Ausland",
- "updated": "2026-11-20T22:14:37+00:00",
+ "updated": "2026-11-21T11:03:29+00:00",
  "items": [
+  {
+   "t": "Erdbeben erschüttert Perus Andenregion",
+   "s": "Die Erschütterungen waren bis in die Hauptstadt Lima zu spüren: Ein Erdbeben der Stärke 6,7 hat die Andenregion in Peru erschüttert. Über Schäden oder Opfer ist bislang nichts bekannt.",
+   "u": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T09:51:28+00:00"
+  },
+  {
+   "t": "Südafrikas vermeidbare Wasserkrise",
+   "s": "Marode Leitungen, zu hoher Verbrauch, geringe Investitionen: Die Wasserkrise in Südafrika gilt als weitgehend hausgemacht. Weil sich die Lage verschlimmert hat, reagieren die Behörden mit strengeren Regeln. Von Stephan Ueberbach.",
+   "u": "https://www.tagesschau.de/ausland/afrika/wassermangel-suedafrika-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T08:27:21+00:00"
+  },
+  {
+   "t": "\"Palisades Fire\" - Angeklagter im zweiten Anlauf schuldig gesprochen",
+   "s": "Bei dem Brand im Januar 2025 starben 31 Menschen: Nach dem verheerenden Feuer im Nobelvorort Pacific Palisades von Los Angeles ist der Angeklagte schuldig gesprochen worden. Ihm drohen bis zu 40 Jahre Haft.",
+   "u": "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T08:14:03+00:00"
+  },
+  {
+   "t": "\"Killerroboter\": UN-Konferenz endet mit Minimalkompromiss",
+   "s": "\"Killerroboter\" können Ziele auswählen und Angriffe auslösen - ohne menschliche Beteiligung. Die UN sollten dafür Schranken erarbeiten. Das Wann und Wie bleibt aber auch wegen des Widerstands aus Russland und den USA ungeklärt.",
+   "u": "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T07:57:28+00:00"
+  },
+  {
+   "t": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
+   "s": "Hacker sind Medienberichten zufolge in ein Zahlungssystem des US-Agrarministeriums und in eine Datenbank des FBI eingedrungen. Die Angriffe reihen sich in eine Serie von Systemausfällen und Technikpannen in den USA.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T06:51:20+00:00"
+  },
   {
    "t": "Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus",
    "s": "Russland soll auf dänischem Boden einen Anschlag auf einen ukrainisch-amerikanischen Rapper geplant haben. Als Reaktion wurde ein russischer Diplomat ausgewiesen. Zwei Verdächtige sitzen in Untersuchungshaft.",
@@ -17,7 +52,7 @@
    "d": "2026-11-20T20:25:44+00:00"
   },
   {
-   "t": "Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurfs",
+   "t": "Vergewaltigungsvorwurf: Anzeige gegen Depardieu und Houellebecq",
    "s": "Gegen den Schauspieler Gérard Depardieu und den Schriftsteller Michel Houellebecq liegt eine neue Anzeige vor - es geht um den Vorwurf der Gruppenvergewaltigung. Laut einem Medienbericht geschah diese 2018 bei einem Filmdreh. Von C. Rienäcker.",
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
    "q": "Tagesschau",
@@ -36,13 +71,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html",
    "q": "Tagesschau",
    "d": "2026-11-20T16:22:28+00:00"
-  },
-  {
-   "t": "Verhandlungen dauern an - Weltklimakonferenz geht in die Verlängerung",
-   "s": "Im Ringen um eine angemessene Antwort auf die Klimakrise geht die Weltklimakonferenz in die Verlängerung. Eigentlich sollte sie am Nachmittag zu Ende gehen. Doch die Verhandlungen dürften sich in die Nacht und ins Wochenende ziehen.",
-   "u": "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T16:15:00+00:00"
   },
   {
    "t": "Junge Menschen profitieren: EU und Großbritannien nähern sich wieder an",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/kinder-konfliktgebiete-106.html",
    "q": "Tagesschau",
    "d": "2026-11-19T08:14:57+00:00"
-  },
-  {
-   "t": "\"Koalition der Willigen\": Ukrainer fordern Einheit und Entschlossenheit",
-   "s": "In der Ukraine ist die Stimmung vor den beiden Treffen heute - in Berlin und in China - eher zurückhaltend. Risiken sehen sie insbesondere bei dem Dreigipfel in Shenzhen. Sie fordern Einheit und Entschlossenheit. Von R. Barth.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-koalition-stimmung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T04:19:46+00:00"
-  },
-  {
-   "t": "Ukraine-Gipfel in Berlin: Mit Diplomatie und Druck",
-   "s": "Heute kommen knapp 30 Staats- und Regierungschefs nach Berlin, sie gehören zu den wichtigsten Unterstützern der Ukraine. Vom Treffen soll ein klares Signal ausgehen: Die Ukraine kann weiter auf Hilfe zählen. Von Christina Nagel.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-treffen-berlin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T04:05:32+00:00"
-  },
-  {
-   "t": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
-   "s": "Die USA und Venezuela haben ein Militärabkommen unterzeichnet, wie US-Verteidigungsminister Hegseth mitteilte. Mit dem bereits angekündigten Ölabkommen werde die Straße von Hormus zudem \"irrelevant\".",
-   "u": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T02:10:36+00:00"
-  },
-  {
-   "t": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
-   "s": "Es gilt schon vorab als historisch - das erste Dreier-Treffen von Xi, Trump und Putin auf dem APEC-Gipfel in Shenzhen. Doch die Positionen der drei Präsidenten bei den Themen atomare Abrüstung, Iran oder Ukraine klaffen teils auseinander.",
-   "u": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T23:33:32+00:00"
   }
  ]
 }

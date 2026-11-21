@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-20T22:14:40+00:00",
+ "updated": "2026-11-21T11:03:33+00:00",
  "items": [
+  {
+   "t": "Tagebuch aus der Ukraine: Die Wälder und das Meer können nicht auf Frieden warten",
+   "s": "Der Krieg überdröhnt das Thema Klimakatastophe. Dennoch sind dessen Folgen in der Ukraine unübersehbar. Unsere Autorin wird jetzt aktiv.",
+   "u": "https://taz.de/Tagebuch-aus-der-Ukraine/!6225358/",
+   "q": "taz",
+   "d": "2026-11-21T10:07:00+00:00"
+  },
   {
    "t": "Jugendproteste in Frankreich: „Bis Samstag!“",
    "s": "In Paris demonstrieren Tausende junge Menschen gegen die zunehmende Militarisierung. Und ein Ende des Protests liegt in weiter Ferne.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/US-Kritik-an-Ukraine/!6231079/",
    "q": "taz",
    "d": "2026-11-18T18:47:00+00:00"
-  },
-  {
-   "t": "Podcast Fernverbindung: Tschechien: Was will die Protestbewegung in Prag?",
-   "s": "Hunderttausende gehen in der tschechischen Hauptstadt gegen eine Rundfunkreform auf die Straße. Was haben sie mit der Gen Z in anderen Ländern gemein?",
-   "u": "https://taz.de/Podcast-Fernverbindung-Tschechien/!6231295/",
-   "q": "taz",
-   "d": "2026-11-18T17:09:00+00:00"
   }
  ]
 }

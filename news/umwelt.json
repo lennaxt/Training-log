@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-20T22:14:39+00:00",
+ "updated": "2026-11-21T11:03:32+00:00",
  "items": [
+  {
+   "t": "Einigung im Koalitionsausschuss: Die Döner-Koalition hält nur noch gerade so zusammen",
+   "s": "Die Koalition führt wieder einmal vor, was schon seit Wochen offensichtlich ist. Sie verliert sich in kleinen Streitfragen, statt eine Richtung zu finden.",
+   "u": "https://taz.de/Einigung-im-Koalitionsausschuss/!6223580/",
+   "q": "taz",
+   "d": "2026-11-21T09:29:00+00:00"
+  },
+  {
+   "t": "GenZ-regelt: Proteste enden friedlich, vereinzelte Krawalle am Abend",
+   "s": "Zehntausende gingen für die Anliegen der jungen Generation auf die Straße. In Leipzig kam es nach Ende der „Gen Z regelt“-Demo zum Einsatz von Wasserwerfern.",
+   "u": "https://taz.de/GenZ-regelt/!6232145/",
+   "q": "taz",
+   "d": "2026-11-21T08:58:00+00:00"
+  },
+  {
+   "t": "Geschichte einer Selbstermächtigung: „Ich bin eine Frau“",
+   "s": "Sabrina Beul hat nicht damit gerechnet, alt zu werden. Jetzt ist sie 67. Über eine Frau, die dazu gehören möchte, aber nicht um jeden Preis.",
+   "u": "https://taz.de/Geschichte-einer-Selbstermaechtigung/!6223474/",
+   "q": "taz",
+   "d": "2026-11-21T08:00:00+00:00"
+  },
   {
    "t": "Proteste der Gen Z in Deutschland: Eine Bewegung mit Potenzial",
    "s": "Dass die Gen-Z-Proteste kleiner als das letzte Mal waren, muss nicht ihr Ende sein. Wichtig ist aber, dass die Proteste lustig bleiben. Und chaotisch.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Ruecktrittsforderungen-in-Niedersachsen/!6231370/",
    "q": "taz",
    "d": "2026-11-19T15:25:00+00:00"
-  },
-  {
-   "t": "Der Politik-Podcast der taz: Haushalt, Streit und Schulden – was macht die Regierung da?",
-   "s": "Die Koalition hat sich nach langem Hin und Her auf einen Bundeshaushalt für 2027 verständigt. Wird jetzt also alles gut fürs Land und die Regierung?",
-   "u": "https://taz.de/Der-Politik-Podcast-der-taz/!6231438/",
-   "q": "taz",
-   "d": "2026-11-19T12:41:00+00:00"
-  },
-  {
-   "t": "Rassismus bei der Bremer Feuerwehr: Dieses Mal wird hingeschaut",
-   "s": "Erneut ist ein Bremer Feuerwehrmann rassistisch aufgefallen, am Mittwoch gab es eine Hausdurchsuchung. Der Vorfall könnte sogar Mut machen.",
-   "u": "https://taz.de/Rassismus-bei-der-Bremer-Feuerwehr/!6231192/",
-   "q": "taz",
-   "d": "2026-11-19T11:37:00+00:00"
-  },
-  {
-   "t": "„Koalition der Willigen“ in Berlin: Die große Merz-Show",
-   "s": "Die „Koalition der Willigen“ kommt in Berlin zusammen. Die Erwartungen sind hoch, Kanzler Merz will sich profilieren. Kommt die Botschaft im Kreml an?",
-   "u": "https://taz.de/Koalition-der-Willigen-in-Berlin/!6231331/",
-   "q": "taz",
-   "d": "2026-11-19T10:54:00+00:00"
   }
  ]
 }
