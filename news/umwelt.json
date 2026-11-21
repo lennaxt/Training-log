@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-21T11:03:32+00:00",
+ "updated": "2026-11-21T20:54:28+00:00",
  "items": [
+  {
+   "t": "Inside Deutsche Bank: Komplexität killt Wirkung",
+   "s": "Das Datenleck bei der Deutschen Bank konterkariert das Selbstbild des Konzerns. Auch Mathias Döpfner und Friede Springer kommen nicht gut weg.",
+   "u": "https://taz.de/Inside-Deutsche-Bank/!6223581/",
+   "q": "taz",
+   "d": "2026-11-21T19:11:00+00:00"
+  },
+  {
+   "t": "BSW-Abgeordnete in Sachsen-Anhalt: Das freundliche Gesicht des Magdeburger Wegs",
+   "s": "Claudia Wittig ist die prominenteste BSW-Politikerin in Sachsen-Anhalt. Ihre Irgendwie-Kooperation mit der AfD macht sie für viele zum Feindbild.",
+   "u": "https://taz.de/BSW-Abgeordnete-in-Sachsen-Anhalt/!6231081/",
+   "q": "taz",
+   "d": "2026-11-21T15:56:00+00:00"
+  },
   {
    "t": "Einigung im Koalitionsausschuss: Die Döner-Koalition hält nur noch gerade so zusammen",
    "s": "Die Koalition führt wieder einmal vor, was schon seit Wochen offensichtlich ist. Sie verliert sich in kleinen Streitfragen, statt eine Richtung zu finden.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Geborgene-Bausteine/!6231500/",
    "q": "taz",
    "d": "2026-11-19T16:37:00+00:00"
-  },
-  {
-   "t": "Neues aus dem Landtag Sachsen-Anhalt: AfD zieht Wahl des Ministerpräsidenten vor",
-   "s": "Am 8. Dezember möchte die AfD über eine neue Regierung in Sachsen-Anhalt abstimmen. Das ist nicht die einzige Überraschung der letzten Tage.",
-   "u": "https://taz.de/Neues-aus-dem-Landtag-Sachsen-Anhalt/!6231491/",
-   "q": "taz",
-   "d": "2026-11-19T16:36:00+00:00"
-  },
-  {
-   "t": "Rücktritt der Justizministerin: Eine verschlampte Akte und kleine Unwahrheiten",
-   "s": "Niedersachsens Justizministerin Kathrin Wahlmann (SPD) tritt zurück. Schuld ist nicht ein korrupter Staatsanwalt, sondern ihr Umgang mit der Affäre.",
-   "u": "https://taz.de/Ruecktrittsforderungen-in-Niedersachsen/!6231370/",
-   "q": "taz",
-   "d": "2026-11-19T15:25:00+00:00"
   }
  ]
 }

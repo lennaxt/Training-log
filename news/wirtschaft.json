@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-21T11:03:31+00:00",
+ "updated": "2026-11-21T20:54:27+00:00",
  "items": [
+  {
+   "t": "Scheitert die UN-Klimakonferenz in Antalya?",
+   "s": "Dass eine Weltklimakonferenz pünktlich endet, passiert praktisch nie. Auch die COP31 in Antalya ist schon seit mehr als 24 Stunden in der Verlängerung. Droht ein Rückfall bei den Klimazielen - oder sogar ein Scheitern?",
+   "u": "https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-haengepartie-abschlusserklaerung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T20:21:36+00:00"
+  },
+  {
+   "t": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+   "s": "Fast zehn Jahre haben die Verhandlungen gedauert: Nun haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Davon könnte auch die Autobranche profitieren.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T20:17:57+00:00"
+  },
+  {
+   "t": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
+   "s": "Ab Januar soll der Preisdeckel für Benzin und Diesel gelten. Wirtschaftsministerin Reiche plant offenbar, Autobahntankstellen davon ausnehmen. Ihr neuer Gesetzentwurf ist noch in der Abstimmung zwischen den Ministerien.",
+   "u": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T15:55:59+00:00"
+  },
+  {
+   "t": "Im Streit über EU-Budget legt Costa Kompromiss vor",
+   "s": "Die EU-Staaten ringen um einen neuen Budgetplan. Jetzt legt Ratspräsident Costa einen Kompromiss vor. Die Zeit wird langsam knapp: Bis Jahresende soll eine Einigung erzielt werden.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/digitalsteuer-streit-eu-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T15:01:28+00:00"
+  },
+  {
+   "t": "Nach Kühnes Tod: Kontinuität und Aufarbeitung bei Kühne+Nagel",
+   "s": "Der im Sommer verstorbene Klaus-Michael Kühne war einer der prägendsten Unternehmer der deutschen Nachkriegsgeschichte. Sein Umgang mit der Vergangenheit seines Imperiums war umstritten. Was wird daraus? Von Sandra Biegger.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T12:36:54+00:00"
+  },
   {
    "t": "\"Altersvorsorgedepot für nahezu alle Riester-Sparer interessant\"",
    "s": "Die Bundesregierung stellt die Altersvorsorge ab dem kommenden Jahr neu auf. Die staatliche Förderung könnte beim neuen Altersvorsorgedepot für viele lukrativer sein als beim bisherigen \"Riestern\". Das sollte man beachten. Von P. Sauer.",
@@ -134,41 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/digitales/gta-vi-konsolen-preise-gaming-100.html",
    "q": "Tagesschau",
    "d": "2026-11-19T13:33:49+00:00"
-  },
-  {
-   "t": "Firmenporträt: Anthropics halsbrecherischer Aufstieg",
-   "s": "Google schwor einst, nicht böse zu sein. OpenAI wollte KI fürs Gemeinwohl nutzen. Anthropic verspricht Sicherheit. Jetzt kommt der Börsengang - und mit ihm die Frage, die alle Tech-Giganten kennen: Was bleibt vom Ideal, wenn der Markt ruft? Von G. Biesinger.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T13:30:31+00:00"
-  },
-  {
-   "t": "Welche Erwartungen die Gaming-Branche mit GTA VI verbindet",
-   "s": "Die Entwicklung des Videospiels \"Grand Theft Auto VI\" dürfte eine Milliardensumme gekostet haben - womit es das bislang teuerste Produkt der Unterhaltungsindustrie ist. Die gesamte Branche erhofft sich davon einen Schub. Von C. Prössl.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/gta-rockstar-games-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T05:09:57+00:00"
-  },
-  {
-   "t": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
-   "s": "13 Jahre nach dem Vorgänger erscheint \"Grand Theft Auto VI\". Viele Fans haben den Start mit Spannung erwartet, andere halten die Aufregung um das Videospiel für übertrieben. Was macht es so besonders?",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T17:55:38+00:00"
-  },
-  {
-   "t": "VW-Chef Blume: \"Komplett verändertes Umfeld\" zwingt zum Sparkurs",
-   "s": "Bei VW starten kommende Woche die Tarifgespräche. Im NDR-Interview spricht Konzernchef Blume über zu hohe Kosten, teure Werke und den umstrittenen Auftritt des Audi-Chefs in den USA. Von Annette Deutskens.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-volkswagen-blume-zukunftsstrategie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T13:43:17+00:00"
-  },
-  {
-   "t": "Wie riskant ist Nvidias Kurssturz für ETF-Sparer?",
-   "s": "Nach dem Rücktritt von Jensen Huang hat die Nvidia-Aktie massiv an Wert verloren. Weil sie im MSCI World gelistet ist, betrifft das viele ETF-Sparer. Wie schwer der Kursrutsch wiegt - und wo jetzt weitere Gefahren lauern. Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/nvidia-kurssturz-etf-sparer-risiken-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-18T10:17:57+00:00"
   }
  ]
 }

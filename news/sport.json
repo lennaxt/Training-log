@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-11-21T11:03:36+00:00",
+ "updated": "2026-11-21T20:54:31+00:00",
  "items": [
+  {
+   "t": "Klimaschutz auf Kosten der Umwelt: Ökologisches Dilemma an der Bucht von Bengalen",
+   "s": "Grüner Wasserstoff und Ammoniak aus Indien sollen Europas Industrie klimafreundlicher machen. Doch die geplante Anlage macht lokalen Fischern Sorgen.",
+   "u": "https://taz.de/Klimaschutz-auf-Kosten-der-Umwelt/!6224695/",
+   "q": "taz",
+   "d": "2026-11-21T15:00:00+00:00"
+  },
   {
    "t": "Sonne, Mond und Sterne: Gemeinsam im Weltraum",
    "s": "Warum die Partnerschaft zwischen der indischen Weltraumraumorganisation ISRO und der europäischen ESA für die Erforschung des Weltraums wichtig ist.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Parlamentswahl-in-Neuseeland/!6227227/",
    "q": "taz",
    "d": "2026-11-05T09:58:00+00:00"
-  },
-  {
-   "t": "Repressionen in Hongkong: Noch mal zehn Jahre Haft für Demokratieaktivisten Wong",
-   "s": "Joshua Wong wird wegen einer Verschwörung zur Gefährdung der nationalen Sicherheit verurteilt. Kritik aus Taiwan und den USA.",
-   "u": "https://taz.de/Repressionen-in-Hongkong/!6227530/",
-   "q": "taz",
-   "d": "2026-11-05T08:33:00+00:00"
   }
  ]
 }

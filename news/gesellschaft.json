@@ -1,7 +1,49 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-21T11:03:33+00:00",
+ "updated": "2026-11-21T20:54:29+00:00",
  "items": [
+  {
+   "t": "Wahlen in Spanien: Die rechtsextreme Atlantik-Brücke",
+   "s": "Unser Autor geriet im Herbst 2025 ins Visier des MAGA-Umfelds und floh nach Spanien. Doch nun steht dort die rechtsextreme Vox vor einem Wahlerfolg.",
+   "u": "https://taz.de/Wahlen-in-Spanien/!6223526/",
+   "q": "taz",
+   "d": "2026-11-21T19:14:00+00:00"
+  },
+  {
+   "t": "Verhandlungen im Ukraine-Krieg: Mehr als die Frage einer Präposition",
+   "s": "Wo wird verhandelt über die Ukraine? Und wer ist überhaupt dabei? Erneut gibt es Irritationen über das passende Format der Europäer. Den Kreml freut's.",
+   "u": "https://taz.de/Verhandlungen-im-Ukraine-Krieg/!6232164/",
+   "q": "taz",
+   "d": "2026-11-21T15:54:00+00:00"
+  },
+  {
+   "t": "Handelsabkommen Indonesien und EU: Weniger Zölle und Zugang zu Rohstoffen",
+   "s": "Das neue Abkommen mit dem weltgrößten Inselstaat soll europäischen Unternehmen neue Chancen eröffnen. Vielleicht sogar schon ab 2027?",
+   "u": "https://taz.de/Handelsabkommen-Indonesien-und-EU/!6232161/",
+   "q": "taz",
+   "d": "2026-11-21T14:50:00+00:00"
+  },
+  {
+   "t": "Raketen gehen in Ostpolen nieder: Kreml provoziert Warschau",
+   "s": "Zwei russische Marschflugkörper und eine Drohne richten keinen größeren Schaden an – dieses Mal. Doch was, wenn es beim nächsten Mal Verletzte gibt oder gar Tote?",
+   "u": "https://taz.de/Raketen-gehen-in-Ostpolen-nieder/!6232156/",
+   "q": "taz",
+   "d": "2026-11-21T12:17:00+00:00"
+  },
+  {
+   "t": "Unterwegs an Estlands Grenze zu Russland: Die Freundschaftsbrücke",
+   "s": "In Narva trennt ein Fluss Estland von Russland. Auf einer Grenztour geht es um Drohnen, die Angst vor erneuter Besatzung und eine beschwerliche Freundschaft.",
+   "u": "https://taz.de/Unterwegs-an-Estlands-Grenze-zu-Russland/!6224513/",
+   "q": "taz",
+   "d": "2026-11-21T11:53:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: EU kündigt neue Sicherheitsstrategie an",
+   "s": "In der Ostsee soll ein russischer Frachter von Drohnen attackiert worden sein. Ursula von der Leyen verurteilt einen Attentatsversuch auf einen US-Ukrainer in Dänemark scharf.",
+   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6232151/",
+   "q": "taz",
+   "d": "2026-11-21T11:45:00+00:00"
+  },
   {
    "t": "Tagebuch aus der Ukraine: Die Wälder und das Meer können nicht auf Frieden warten",
    "s": "Der Krieg überdröhnt das Thema Klimakatastophe. Dennoch sind dessen Folgen in der Ukraine unübersehbar. Unsere Autorin wird jetzt aktiv.",
@@ -127,48 +169,6 @@
    "u": "https://taz.de/Wadephuls-Aserbaidschan-Besuch/!6231501/",
    "q": "taz",
    "d": "2026-11-19T15:20:00+00:00"
-  },
-  {
-   "t": "EU-Gipfel mit Großbritannien: Burnham wagt sich zurück in den Brexit-Streit",
-   "s": "Am Freitag will die britische Regierung bei einem Gipfel in Brüssel vom geltenden Brexit abrücken. Der Europa-Streit in Großbritannien bricht neu aus.",
-   "u": "https://taz.de/EU-Gipfel-Andy-Burnham-wagt-sich-zurueck-in-den-Brexit-Streit/!6231088/",
-   "q": "taz",
-   "d": "2026-11-19T12:59:00+00:00"
-  },
-  {
-   "t": "Renaturierung in Frankreich: Bauen wie die Biber",
-   "s": "Freiwillige in Frankreich wollen die leidenden Flüsse des Landes renaturieren. Und lassen sich dabei von putzigen Nagern inspirieren.",
-   "u": "https://taz.de/Renaturierung-in-Frankreich/!6231016/",
-   "q": "taz",
-   "d": "2026-11-19T10:47:00+00:00"
-  },
-  {
-   "t": "Verteidigungsstrategie: Ukraine attackiert erneut Krimbrücke und Ölinfrastruktur",
-   "s": "Nach dem Autobahnteil der Krimbrücke wurde nun auch der Bahnteil getroffen. Derweil verteidigt sich Elon Musk gegen ukrainische Behauptungen.",
-   "u": "https://taz.de/Verteidigungsstrategie/!6231366/",
-   "q": "taz",
-   "d": "2026-11-19T09:26:00+00:00"
-  },
-  {
-   "t": "Meinungsfreiheit in Italien: Umstrittenes Gesetz gegen Antisemitismus beschlossen",
-   "s": "Melonis Regierung nimmt Schulen und Universitäten stärker in die Pflicht. Italiens starke Palästina-Solidaritätsbewegung spricht von einem „Maulkorb“.",
-   "u": "https://taz.de/Meinungsfreiheit-in-Italien/!6231343/",
-   "q": "taz",
-   "d": "2026-11-19T09:00:00+00:00"
-  },
-  {
-   "t": "Verhandlungen im Ukrainekrieg: Gipfeltreffen gegen Gipfeltreffen",
-   "s": "Am Donnerstag kommt die Koalition der Willigen im Kanzleramt zusammen und will Stärke demonstrieren. In Brüssel setzt man auf einen Buchungstrick für Ukraine-Hilfen.",
-   "u": "https://taz.de/Verhandlungen-im-Ukrainekrieg/!6231112/",
-   "q": "taz",
-   "d": "2026-11-18T18:49:00+00:00"
-  },
-  {
-   "t": "US-Kritik an Ukraine: Ziemlich dumm, aber erwartbar",
-   "s": "USA, Nato-Chef und Bundesverteidigungsminister streiten über ukrainische Angriffe im russischen Hinterland. Dabei gerät vieles durcheinander.",
-   "u": "https://taz.de/US-Kritik-an-Ukraine/!6231079/",
-   "q": "taz",
-   "d": "2026-11-18T18:47:00+00:00"
   }
  ]
 }

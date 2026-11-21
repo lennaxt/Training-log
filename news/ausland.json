@@ -1,7 +1,42 @@
 {
  "name": "Ausland",
- "updated": "2026-11-21T11:03:29+00:00",
+ "updated": "2026-11-21T20:54:26+00:00",
  "items": [
+  {
+   "t": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
+   "s": "Rund um die Chemiefabrik Chemours in den Niederlanden sollen die Bürger kein Obst aus ihren Gärten mehr essen. Dort werden Kunststoffe hergestellt, die zu den sogenannten Ewigkeitschemikalien gehören. Dagegen wehren sich die Bürger. Von O. Chladkova.",
+   "u": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T19:54:06+00:00"
+  },
+  {
+   "t": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
+   "s": "Vor Finnland ist in internationalen Gewässern ein russisches Handelsschiff von Drohnen getroffen worden. Es brach ein Feuer aus, zur Besatzung gibt es widersprüchliche Angaben.",
+   "u": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T19:10:03+00:00"
+  },
+  {
+   "t": "Mexiko nimmt einen der meistgesuchten Drogenbosse fest",
+   "s": "Die USA fordern von Mexiko schon länger ein hartes Vorgehen gegen Kartelle. Nun ist den Behörden offenbar ein hochrangiger Drogenboss ins Netz gegangen. Der Mann zählte auf der Liste des FBI zu den meistgesuchten Verbrechern.",
+   "u": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T15:36:57+00:00"
+  },
+  {
+   "t": "\"Costa Concordia\"-Kapitän Schettino auf Bewährung aus Haft entlassen",
+   "s": "Aufgrund eines riskanten Manövers kenterte die \"Costa Concordia\" 2012 vor der Küste Italiens. 32 Menschen starben. Nun ist der ehemalige Kapitän des Schiffes aus dem Gefängnis entlassen worden. Von Anna Giordano.",
+   "u": "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T14:07:14+00:00"
+  },
+  {
+   "t": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
+   "s": "Gianni De Gennaro bekleidete lange Schlüsselpositionen im italienischen Sicherheitsapparat - sei es im Kampf gegen die Mafia, beim G8-Gipfel in Genua oder für die Geheimdienste. Kurz vor einer Gerichtsanhörung tötete er sich selbst.",
+   "u": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T12:48:02+00:00"
+  },
   {
    "t": "Erdbeben erschüttert Perus Andenregion",
    "s": "Die Erschütterungen waren bis in die Hauptstadt Lima zu spüren: Ein Erdbeben der Stärke 6,7 hat die Andenregion in Peru erschüttert. Über Schäden oder Opfer ist bislang nichts bekannt.",
@@ -18,17 +53,10 @@
   },
   {
    "t": "\"Palisades Fire\" - Angeklagter im zweiten Anlauf schuldig gesprochen",
-   "s": "Bei dem Brand im Januar 2025 starben 31 Menschen: Nach dem verheerenden Feuer im Nobelvorort Pacific Palisades von Los Angeles ist der Angeklagte schuldig gesprochen worden. Ihm drohen bis zu 40 Jahre Haft.",
+   "s": "Bei dem Brand im Januar 2025 starben zwölf Menschen: Nach dem verheerenden Feuer im Nobelvorort Pacific Palisades von Los Angeles ist der Angeklagte schuldig gesprochen worden. Ihm drohen bis zu 40 Jahre Haft.",
    "u": "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html",
    "q": "Tagesschau",
    "d": "2026-11-21T08:14:03+00:00"
-  },
-  {
-   "t": "\"Killerroboter\": UN-Konferenz endet mit Minimalkompromiss",
-   "s": "\"Killerroboter\" können Ziele auswählen und Angriffe auslösen - ohne menschliche Beteiligung. Die UN sollten dafür Schranken erarbeiten. Das Wann und Wie bleibt aber auch wegen des Widerstands aus Russland und den USA ungeklärt.",
-   "u": "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T07:57:28+00:00"
   },
   {
    "t": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/frankreich-unterstuetzung-ukraine-militaer-100.html",
    "q": "Tagesschau",
    "d": "2026-11-19T11:38:46+00:00"
-  },
-  {
-   "t": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
-   "s": "Nach einem erneuten Angriff auf die für Russland strategisch wichtige Krim-Brücke ist laut Behörden nun der Zugverkehr \"vorübergehend\" eingestellt worden. Zuvor hatte eine Attacke bereits den Autoverkehr lahmgelegt.",
-   "u": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T11:26:18+00:00"
-  },
-  {
-   "t": "Dänisches Parlament ratifiziert Grönland-Deal mit Trump",
-   "s": "Monatelang hatte US-Präsident Trump gedroht, die USA könnten nach Grönland greifen - bis es zum Deal kam. Nun hat auch das dänische Parlament für das Abkommen gestimmt. Es kann damit in Kraft treten. Von Anna-Lou Beckmann.",
-   "u": "https://www.tagesschau.de/ausland/europa/parlament-in-daenemark-ratifiziert-groenland-abkommen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T10:02:23+00:00"
-  },
-  {
-   "t": "Musk bereut offenbar Wahlkampfspenden an Republikaner",
-   "s": "Die US-Zwischenwahlen hatten für Tech-Unternehmer Musk nicht den erhofften Ausgang - die Republikaner, für die er Hunderte Millionen US-Dollar gespendet hatte, fuhren eine Niederlage ein. Nun bedauert er, das Geld versenkt zu haben.",
-   "u": "https://www.tagesschau.de/ausland/amerika/musk-spenden-republikaner-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T08:58:18+00:00"
-  },
-  {
-   "t": "Save the Children: Fast jedes vierte Kind lebt in einem Konfliktgebiet",
-   "s": "Noch nie haben so viele Kinder und Jugendliche weltweit in Konfliktgebieten gelebt. Etwa 589 Millionen waren 2025 betroffen, das zeigt ein Bericht der Organisation Save the Children.",
-   "u": "https://www.tagesschau.de/ausland/kinder-konfliktgebiete-106.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T08:14:57+00:00"
   }
  ]
 }

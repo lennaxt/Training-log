@@ -1,7 +1,98 @@
 {
  "name": "Inland",
- "updated": "2026-11-21T11:03:28+00:00",
+ "updated": "2026-11-21T20:54:26+00:00",
  "items": [
+  {
+   "t": "Wahlen in Spanien: Die rechtsextreme Atlantik-Brücke",
+   "s": "Unser Autor geriet im Herbst 2025 ins Visier des MAGA-Umfelds und floh nach Spanien. Doch nun steht dort die rechtsextreme Vox vor einem Wahlerfolg.",
+   "u": "https://taz.de/Wahlen-in-Spanien/!6223526/",
+   "q": "taz",
+   "d": "2026-11-21T19:14:00+00:00"
+  },
+  {
+   "t": "Inside Deutsche Bank: Komplexität killt Wirkung",
+   "s": "Das Datenleck bei der Deutschen Bank konterkariert das Selbstbild des Konzerns. Auch Mathias Döpfner und Friede Springer kommen nicht gut weg.",
+   "u": "https://taz.de/Inside-Deutsche-Bank/!6223581/",
+   "q": "taz",
+   "d": "2026-11-21T19:11:00+00:00"
+  },
+  {
+   "t": "Ukrainer in Großbritannien: Ukrainisch bald reguläres Schulfach",
+   "s": "Zahlreiche ukrainische Kinder konnten in britischen Schulen bislang nicht ihre Muttersprache lernen. Das soll künftig anders werden.",
+   "u": "https://taz.de/Ukrainer-in-Grossbritannien/!6229408/",
+   "q": "taz",
+   "d": "2026-11-21T17:56:00+00:00"
+  },
+  {
+   "t": "BSW-Abgeordnete in Sachsen-Anhalt: Das freundliche Gesicht des Magdeburger Wegs",
+   "s": "Claudia Wittig ist die prominenteste BSW-Politikerin in Sachsen-Anhalt. Ihre Irgendwie-Kooperation mit der AfD macht sie für viele zum Feindbild.",
+   "u": "https://taz.de/BSW-Abgeordnete-in-Sachsen-Anhalt/!6231081/",
+   "q": "taz",
+   "d": "2026-11-21T15:56:00+00:00"
+  },
+  {
+   "t": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
+   "s": "Ab Januar soll der Preisdeckel für Benzin und Diesel gelten. Wirtschaftsministerin Reiche plant offenbar, Autobahntankstellen davon ausnehmen. Ihr neuer Gesetzentwurf ist noch in der Abstimmung zwischen den Ministerien.",
+   "u": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T15:55:59+00:00"
+  },
+  {
+   "t": "Verhandlungen im Ukraine-Krieg: Mehr als die Frage einer Präposition",
+   "s": "Wo wird verhandelt über die Ukraine? Und wer ist überhaupt dabei? Erneut gibt es Irritationen über das passende Format der Europäer. Den Kreml freut's.",
+   "u": "https://taz.de/Verhandlungen-im-Ukraine-Krieg/!6232164/",
+   "q": "taz",
+   "d": "2026-11-21T15:54:00+00:00"
+  },
+  {
+   "t": "Handelsabkommen Indonesien und EU: Weniger Zölle und Zugang zu Rohstoffen",
+   "s": "Das neue Abkommen mit dem weltgrößten Inselstaat soll europäischen Unternehmen neue Chancen eröffnen. Vielleicht sogar schon ab 2027?",
+   "u": "https://taz.de/Handelsabkommen-Indonesien-und-EU/!6232161/",
+   "q": "taz",
+   "d": "2026-11-21T14:50:00+00:00"
+  },
+  {
+   "t": "Raketen gehen in Ostpolen nieder: Kreml provoziert Warschau",
+   "s": "Zwei russische Marschflugkörper und eine Drohne richten keinen größeren Schaden an – dieses Mal. Doch was, wenn es beim nächsten Mal Verletzte gibt oder gar Tote?",
+   "u": "https://taz.de/Raketen-gehen-in-Ostpolen-nieder/!6232156/",
+   "q": "taz",
+   "d": "2026-11-21T12:17:00+00:00"
+  },
+  {
+   "t": "Hausärzte beklagen Mangel an Grippe-Impfstoff",
+   "s": "Sorry, kein Impfstoff da: Wer sich dieser Tage in der Hausarztpraxis gegen Grippe impfen lassen will, könnte mancherorts vertröstet werden. Der Hausärzteverband beklagt zu wenig Impfstoff. Die Apotheker sehen das weniger dramatisch.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/grippe-impfstoff-hausaerzte-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T12:13:27+00:00"
+  },
+  {
+   "t": "Unterwegs an Estlands Grenze zu Russland: Die Freundschaftsbrücke",
+   "s": "In Narva trennt ein Fluss Estland von Russland. Auf einer Grenztour geht es um Drohnen, die Angst vor erneuter Besatzung und eine beschwerliche Freundschaft.",
+   "u": "https://taz.de/Unterwegs-an-Estlands-Grenze-zu-Russland/!6224513/",
+   "q": "taz",
+   "d": "2026-11-21T11:53:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: EU kündigt neue Sicherheitsstrategie an",
+   "s": "In der Ostsee soll ein russischer Frachter von Drohnen attackiert worden sein. Ursula von der Leyen verurteilt einen Attentatsversuch auf einen US-Ukrainer in Dänemark scharf.",
+   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6232151/",
+   "q": "taz",
+   "d": "2026-11-21T11:45:00+00:00"
+  },
+  {
+   "t": "Bilger fordert Bekenntnis der Autoindustrie zu Deutschland",
+   "s": "Die EU könnte Autokonzernen erlauben, auch nach 2035 neue Verbrenner und Hybride zu verkaufen. Verkehrsminister Bilger knüpft daran eine klare Erwartung: Deutschland müsse starker Produktionstandort bleiben.",
+   "u": "https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T11:19:36+00:00"
+  },
+  {
+   "t": "Verletzung des polnischen Luftraums: Russland testet Europas Grenzen",
+   "s": "Mehrere russische Flugkörper sind in den polnischen Luftraum eingedrungen. Russland teste aus, wie weit es gehen könne, sagt Polen-Beauftragter Knut Abraham (CDU). Gespräche mit Moskau seien nur mit äußerster Vorsicht zu führen.Heinemann, Christoph",
+   "u": "https://www.deutschlandfunk.de/interview-knut-abraham-cdu-ist-polen-von-russland-bedroht-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-21T11:15:00+00:00"
+  },
   {
    "t": "Homonationalistische Allianzen: Jeder Teddybär hat ein Ablaufdatum",
    "s": "Wenn weiße Queers und Transleute gemeinsame Sache mit Nationalisten machen, verkennen sie, dass sie die nächsten sind, die attackiert werden.",
@@ -78,97 +169,6 @@
    "u": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-114.html",
    "q": "Tagesschau",
    "d": "2026-11-20T18:54:49+00:00"
-  },
-  {
-   "t": "Deutsch-Ukrainisches Wirtschaftsforum: „Wir werden diese Wette gewinnen“",
-   "s": "Kanzler Merz steht zur Ukraine und macht Ansagen an Moskau. Von den Hilfen wird auch Deutschland profitieren, sagt er. Doch Kyjiw braucht Reformen.",
-   "u": "https://taz.de/Deutsch-Ukrainisches-Wirtschaftsforum/!6231784/",
-   "q": "taz",
-   "d": "2026-11-20T17:41:00+00:00"
-  },
-  {
-   "t": "Diplomatie und Bilderschlacht zwischen Shenzhen und Berlin",
-   "s": "Ein Treffen der Präsidenten Putin, Xi und Trump im chinesischen Shezhen, gefolgt von einem Gipfel mit fast 30 Staatschefs im Berliner Kanzleramt. Wieviel bedeuten die beispiellosen Zusammenkünfte für die Hoffnung auf ein Kriegsende in der Ukraine?Wurzel, Steffen; Sawicki, Peter; Sittler, Friederike; Endriss, Jörg",
-   "u": "https://www.deutschlandfunk.de/diplomatie-und-bilderschlacht-zwischen-shenzhen-und-berlin-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-20T17:00:00+00:00"
-  },
-  {
-   "t": "Die neue Staffel SPD-Krise ist angelaufen",
-   "s": "Klingbeil, Heil und/oder Schwesig? Anfang 2027 wählen die Sozialdemokraten eine neue Parteispitze. Im kommenden Jahr steht die SPD außerdem vor mehreren richtungweisenden Landtagswahlen.",
-   "u": "https://www.deutschlandfunk.de/spd-krise-parteivorsitz-klingbeil-heil-schwesig-landtagswahlen-2027-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-20T16:33:00+00:00"
-  },
-  {
-   "t": "Rücktritt der Justizministerin: Die Frau, die zu viel wollte",
-   "s": "Die niedersächsische Justizministerin Kathrin Wahlmann ist genauso sehr am Apparat gescheitert wie an sich selbst. Die Nachfolge wird kniffelig.",
-   "u": "https://taz.de/Ruecktritt-der-Justizministerin/!6231766/",
-   "q": "taz",
-   "d": "2026-11-20T16:23:00+00:00"
-  },
-  {
-   "t": "Pistorius in Polen: Eine Reise im Zeichen der Erinnerungsarbeit",
-   "s": "Deutschland und Polen wollen mehr Verantwortung für die Sicherheit in Europa übernehmen. Bei seiner Polen-Reise erinnert Verteidigungsminister Pistorius an die deutsche Verantwortung für die Vergangenheit. Von C. Buckenmaier.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/pistorius-polen-gedenken-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T16:22:44+00:00"
-  },
-  {
-   "t": "Annäherung von Briten und EU: Zwist bei Gebühren fürs Studieren, einig beim Käse",
-   "s": "Großbritannien und die EU – sie wollen sich wieder annähern. Von einem „Breturn“ kann noch keine Rede sein, Premier Burnham gibt die Hoffnung nicht auf.",
-   "u": "https://taz.de/Annaeherung-von-Briten-und-EU/!6231738/",
-   "q": "taz",
-   "d": "2026-11-20T16:01:00+00:00"
-  },
-  {
-   "t": "Prien verteidigt Kürzungen bei \"Demokratie leben!\"",
-   "s": "Bundesfamilienministerin Prien weist gegenüber dem ARD-Hauptstadtstudio den Vorwurf zurück, bei Projekten gegen Antisemitismus zu sparen. Dennoch verlören einzelne Projekte die Förderung. Von Sarah Beham und Markus Langenstraß.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/prien-demokratiefoerderung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T15:49:38+00:00"
-  },
-  {
-   "t": "Protesttag von „Gen Z regelt“: Französisch für Anfänger",
-   "s": "In zahlreichen Städten protestieren Schü­le­r:in­nen erneut gegen Aufrüstung, Wehrpflicht und Sozialabbau. In Berlin trägt der Protest festliche Züge.",
-   "u": "https://taz.de/Protesttag-von-Gen-Z-regelt/!6231789/",
-   "q": "taz",
-   "d": "2026-11-20T15:47:00+00:00"
-  },
-  {
-   "t": "Shenzhen, Miami, Brüssel: Über allen Gipfeln ist Unruh",
-   "s": "Die Diplomatie hat Hochsaison. Trump und Putin zu Besuch bei Xi, ein Ukraine-Gipfel in Berlin, und bald geht es weiter mit G20 in Miami.",
-   "u": "https://taz.de/Shenzhen-Miami-Bruessel/!6223479/",
-   "q": "taz",
-   "d": "2026-11-20T15:43:00+00:00"
-  },
-  {
-   "t": "Kürzungen bei Demokratie leben!: Prien rettet doch noch Projekte gegen Antisemitismus",
-   "s": "Nach Kritik für die Kürzungen im Programm Demokratie leben! bekommen einige abgelehnte Projekte gegen Antisemitismus doch noch Gelder. Andere Initiativen bangen.",
-   "u": "https://taz.de/Kuerzungen-bei-Demokratie-leben/!6231808/",
-   "q": "taz",
-   "d": "2026-11-20T15:40:00+00:00"
-  },
-  {
-   "t": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
-   "s": "Der Bundesrat will beim \"Startchancengesetz\" nachbessern. Für andere lebensnahe Vorhaben wie die \"Frühstartrente\", die Reform der Notfallversorgung oder die digitale Brieftasche gab die Länderkammer hingegen grünes Licht.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T15:03:38+00:00"
-  },
-  {
-   "t": "Kritik an Ausnahmen bei Erbschaftsteuer nach Recherchen über Döpfner-Schenkung",
-   "s": "Springer-Chef Döpfner hat im Jahr 2020 von Verlegerin Friede Springer ein Milliarden-Aktienpaket übertragen bekommen - aber wohl kaum Schenkungsteuern gezahlt. Politiker von SPD und CDU fordern nun Änderungen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/doepfner-erbschaftssteuer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T14:58:12+00:00"
-  },
-  {
-   "t": "Gipfeltreffen in Brüssel: Großbritannien und EU wagen Neustart",
-   "s": "Die EU und Großbritannien wollen näher zusammenrücken. Doch ein heikler Knackpunkt sind Studiengebühren für Studierende aus EU-Ländern an britischen Unis.",
-   "u": "https://taz.de/Gipfeltreffen-in-Bruessel/!6231809/",
-   "q": "taz",
-   "d": "2026-11-20T14:39:00+00:00"
   }
  ]
 }

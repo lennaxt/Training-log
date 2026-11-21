@@ -1,7 +1,42 @@
 {
  "name": "Wissen",
- "updated": "2026-11-21T11:03:31+00:00",
+ "updated": "2026-11-21T20:54:28+00:00",
  "items": [
+  {
+   "t": "Klimakonferenz · Droht die COP31 zu scheitern?",
+   "s": "Dass eine Weltklimakonferenz pünktlich endet, passiert praktisch nie. Auch die COP31 in Antalya ist schon seit mehr als 24 Stunden in der Verlängerung. Droht ein Rückfall bei den Klimazielen oder sogar ein Scheitern?",
+   "u": "https://www.tagesschau.de/video/video-1687762.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T19:10:47+00:00"
+  },
+  {
+   "t": "Klimakonferenz · Droht die COP31 zu scheitern?",
+   "s": "Dass eine Weltklimakonferenz pünktlich endet, passiert praktisch nie. Auch die COP31 in Antalya ist schon seit mehr als 24 Stunden in der Verlängerung. Droht ein Rückfall bei den Klimazielen oder sogar ein Scheitern?",
+   "u": "https://www.tagesschau.de/video/video-1687670.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T18:21:38+00:00"
+  },
+  {
+   "t": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+   "s": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
+   "u": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T17:32:19+00:00"
+  },
+  {
+   "t": "Länder und Kommunen müssen sich auf mehr Extremwetterlagen einstellen",
+   "s": "Länder und Kommunen müssen sich auf mehr Extremwetterlagen einstellen",
+   "u": "https://www.tagesschau.de/video/video-1687600.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T16:18:02+00:00"
+  },
+  {
+   "t": "Weltklimakonferenz geht in die Verlängerung",
+   "s": "Im Ringen um eine angemessene Antwort auf die Klimakrise geht die Weltklimakonferenz in die Verlängerung. Eigentlich sollte sie am Freitag zu Ende gehen. Doch die Verhandlungen ziehen sich ins Wochenende.",
+   "u": "https://www.tagesschau.de/video/video-1687518.html",
+   "q": "Tagesschau",
+   "d": "2026-11-21T11:37:06+00:00"
+  },
   {
    "t": "Warum die Jugend der Gen Z im Dauerkrisenmodus steckt",
    "s": "Von Kriegen bis Klimawandel - Jugendliche sehen sich stärker als frühere Generationen durch einen Mix aus Dauerkrisen bedroht. Von der Politik fühlen sie sich im Stich gelassen und fürchten um ihre Zukunft. Von Sven Kästner.",
@@ -73,13 +108,6 @@
    "d": "2026-11-15T04:11:26+00:00"
   },
   {
-   "t": "Kenia · Können Erdlöcher die Dürre stoppen?",
-   "s": "Die Folgen des Klimawandels sind auch in Samburu, im Norden Kenias, zu spüren. Extreme Trockenheit ist ein großes Problem für Hirten und ihre Tiere. Ein Klimaprojekt soll nun helfen, trockene Flächen zu begrünen und den Boden abzukühlen.",
-   "u": "https://www.tagesschau.de/video/video-1683836.html",
-   "q": "Tagesschau",
-   "d": "2026-11-14T16:25:10+00:00"
-  },
-  {
    "t": "Benjamin Weber, ARD Istanbul, zzt. Antalya, zum Klimagipfel der Völker",
    "s": "Benjamin Weber, ARD Istanbul, zzt. Antalya, zum Klimagipfel der Völker",
    "u": "https://www.tagesschau.de/video/video-1683698.html",
@@ -106,13 +134,6 @@
    "u": "https://www.tagesschau.de/video/video-1680814.html",
    "q": "Tagesschau",
    "d": "2026-11-09T15:22:42+00:00"
-  },
-  {
-   "t": "Klimakonferenz in Antalya",
-   "s": "Auftakt der Klimakonferenz in Antalya",
-   "u": "https://www.tagesschau.de/video/video-1680758.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T13:40:35+00:00"
   },
   {
    "t": "31. Klimakonferenz der UN startet - Guterres fordert mehr Einsatz",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/maenner-gesundheit-102.html",
    "q": "Tagesschau",
    "d": "2026-11-04T09:54:43+00:00"
-  },
-  {
-   "t": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
-   "s": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
-   "u": "https://www.tagesschau.de/video/video-1675930.html",
-   "q": "Tagesschau",
-   "d": "2026-11-01T08:01:01+00:00"
-  },
-  {
-   "t": "Kampf gegen Ebola - Studie macht Hoffnung auf Impfstoff",
-   "s": "Seit Monaten grassiert in der DR Kongo eine Variante des Ebola-Virus. Mehr als 10.000 Fälle wurden bislang erfasst. Bisher gibt es gegen diesen Erreger keinen Impfstoff, doch eine medizinische Studie weckt Hoffnung. Von Daniela Remus.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/ebola-afrika-studie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-30T13:58:25+00:00"
-  },
-  {
-   "t": "Wie Spazierengehen auf die Psyche wirkt",
-   "s": "Gerade jetzt im Herbst kann ein Spaziergang besonders guttun. Studien zeigen, dass regelmäßiges Gehen Stimmung, Gesundheit und soziale Kontakte fördern kann. In einigen Städten haben sich Spazierclubs gebildet. Von Gerald Perschke.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/herbst-spaziergang-100.html",
-   "q": "Tagesschau",
-   "d": "2026-10-29T05:45:03+00:00"
   }
  ]
 }
