@@ -1,7 +1,21 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-22T01:20:29+00:00",
+ "updated": "2026-11-22T11:26:57+00:00",
  "items": [
+  {
+   "t": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
+   "s": "Einzelaktien bieten etwas, was ein Welt-ETF kaum kann: Die Chance darauf, das Depot individueller zu gestalten und höhere Renditen zu erzielen. Gleichzeitig sind sie riskanter, zeitintensiver und komplexer. Von L.-M. Hiltscher und J. Bartlitz.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T10:25:29+00:00"
+  },
+  {
+   "t": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
+   "s": "Bundesweit hatten am Freitag Beschäftigte der Metall- und Elektroindustrie ihre Arbeit niedergelegt. Im Norden will die IG Metall Küste jetzt nachlegen: Nochmal soll für 24 Stunden gestreikt werden - teils schon ab heute Abend.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T03:50:01+00:00"
+  },
   {
    "t": "Scheitert die UN-Klimakonferenz in Antalya?",
    "s": "Dass eine Weltklimakonferenz pünktlich endet, passiert praktisch nie. Auch die COP31 in Antalya ist schon seit mehr als 24 Stunden in der Verlängerung. Droht ein Rückfall bei den Klimazielen - oder sogar ein Scheitern?",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
    "q": "Tagesschau",
    "d": "2026-11-19T16:54:27+00:00"
-  },
-  {
-   "t": "Volkswagen will Nullrunden für zwei Jahre",
-   "s": "Nullrunden, weniger Zulagen und Änderungen bei der Arbeitszeit - Volkswagen will harte Einschnitte in der anstehenden Tarifrunde durchsetzen. Die IG Metall wirft dem Konzern vor, mit dem \"Messer in den Rücken\" der Arbeitnehmer zu fallen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T16:11:57+00:00"
-  },
-  {
-   "t": "Gebrauchte Spielekonsolen so teuer wie noch nie",
-   "s": "Der mit viel Rummel begleitete Start des Videospiels \"Grand Theft Auto VI\" hat Auswirkungen auf die Elektronik-Branche: Die Preise für Spielkonsolen sind auf Rekordhöhe gestiegen. Das hat aber noch andere Gründe. Von Stefan Kiske.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/gta-vi-konsolen-preise-gaming-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T13:33:49+00:00"
   }
  ]
 }

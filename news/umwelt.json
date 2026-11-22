@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-22T01:20:31+00:00",
+ "updated": "2026-11-22T11:26:59+00:00",
  "items": [
+  {
+   "t": "Hubigs Gesetzesvorschlag: Femizide sollen immer als Mord gelten",
+   "s": "Tötet ein Mann eine Frau, etwa weil er die Trennung nicht akzeptiert, wird die Tat bislang nicht immer als Mord geahndet. Die Justizministerin will das ändern.",
+   "u": "https://taz.de/Gewalt-gegen-Frauen/!6232169/",
+   "q": "taz",
+   "d": "2026-11-22T08:25:00+00:00"
+  },
+  {
+   "t": "trans Abgeordnete über queere Community: „Gesundheitliche Versorgung ist die wichtigste Suizidprävention“",
+   "s": "Nyke Slawik ist eine der wenigen trans Abgeordneten im Deutschen Bundestag. Trotz Hass und Anfeindungen wünscht sich die 32-Jährige mehr Zuversicht.",
+   "u": "https://taz.de/trans-Abgeordnete-ueber-queere-Community/!6223500/",
+   "q": "taz",
+   "d": "2026-11-22T08:00:00+00:00"
+  },
   {
    "t": "Inside Deutsche Bank: Komplexität killt Wirkung",
    "s": "Das Datenleck bei der Deutschen Bank konterkariert das Selbstbild des Konzerns. Auch Mathias Döpfner und Friede Springer kommen nicht gut weg.",
@@ -24,7 +38,7 @@
    "d": "2026-11-21T09:29:00+00:00"
   },
   {
-   "t": "GenZ-regelt: Proteste enden friedlich, vereinzelte Krawalle am Abend",
+   "t": "Gen Z regelt: Proteste enden friedlich, vereinzelte Krawalle am Abend",
    "s": "Zehntausende gingen für die Anliegen der jungen Generation auf die Straße. In Leipzig kam es nach Ende der „Gen Z regelt“-Demo zum Einsatz von Wasserwerfern.",
    "u": "https://taz.de/GenZ-regelt/!6232145/",
    "q": "taz",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Geldstrafe-fuer-Neonazi/!6231487/",
    "q": "taz",
    "d": "2026-11-19T17:16:00+00:00"
-  },
-  {
-   "t": "Racial Profiling in Hessen: Polizeischikanen in der Frankfurter Innenstadt",
-   "s": "Die Frankfurter Polizei ist seit den Ausschreitungen Ende Oktober in der Innenstadt im Einsatz. Kri­ti­ke­r*in­nen sprechen von rassistischen Kontrollen.",
-   "u": "https://taz.de/Racial-Profiling-in-Hessen/!6231455/",
-   "q": "taz",
-   "d": "2026-11-19T16:39:00+00:00"
-  },
-  {
-   "t": "Geborgene Bausteine: Die Synagoge aus der Isar",
-   "s": "Vor drei Jahren fand man Teile der von den Nazis zerstörten Münchner Hauptsynagoge in der Isar. Jetzt sollen die Steine Teil der Erinnerungskultur werden.",
-   "u": "https://taz.de/Geborgene-Bausteine/!6231500/",
-   "q": "taz",
-   "d": "2026-11-19T16:37:00+00:00"
   }
  ]
 }

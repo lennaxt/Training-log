@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-22T01:20:32+00:00",
+ "updated": "2026-11-22T11:27:00+00:00",
  "items": [
+  {
+   "t": "Suizid des italienischen Ex-Polizeichefs: De Gennaro ist tot",
+   "s": "Italiens Ex-Polizeichef De Gennaro ist tot. Die Justiz ermittelte gegen ihn wegen des Verdachts, die Aufklärung des Mordes an Borsellino behindert zu haben.",
+   "u": "https://taz.de/Ermittlungen-zum-Mord-an-Borsellino/!6232167/",
+   "q": "taz",
+   "d": "2026-11-22T09:47:00+00:00"
+  },
   {
    "t": "Wahlen in Spanien: Die rechtsextreme Atlantik-Brücke",
    "s": "Unser Autor geriet im Herbst 2025 ins Visier des MAGA-Umfelds und floh nach Spanien. Doch nun steht dort die rechtsextreme Vox vor einem Wahlerfolg.",
@@ -10,7 +17,7 @@
    "d": "2026-11-21T19:14:00+00:00"
   },
   {
-   "t": "Verhandlungen im Ukraine-Krieg: Mehr als die Frage einer Präposition",
+   "t": "Verhandlungen im Ukrainekrieg: Mehr als die Frage einer Präposition",
    "s": "Wo wird verhandelt über die Ukraine? Und wer ist überhaupt dabei? Erneut gibt es Irritationen über das passende Format der Europäer. Den Kreml freut's.",
    "u": "https://taz.de/Verhandlungen-im-Ukraine-Krieg/!6232164/",
    "q": "taz",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Dreiergipfel-in-Shenzhen/!6224643/",
    "q": "taz",
    "d": "2026-11-19T16:21:00+00:00"
-  },
-  {
-   "t": "Wadephuls Aserbaidschan-Besuch: Deutsche Interessen in Baku",
-   "s": "Während Aserbaidschan christliche Kirchen zerstört, lobt Außenminister Wadephul in Baku die religiöse Toleranz. Was bringt da noch der Appell an die Moral?",
-   "u": "https://taz.de/Wadephuls-Aserbaidschan-Besuch/!6231501/",
-   "q": "taz",
-   "d": "2026-11-19T15:20:00+00:00"
   }
  ]
 }

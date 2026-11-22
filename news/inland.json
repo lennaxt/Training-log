@@ -1,7 +1,63 @@
 {
  "name": "Inland",
- "updated": "2026-11-22T01:20:26+00:00",
+ "updated": "2026-11-22T11:26:54+00:00",
  "items": [
+  {
+   "t": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen",
+   "s": "Die Bundeswehr hat ein Problem mit sexualisiertem Fehlverhalten. Das belegt eine Studie. Der künftige Generalinspekteur der Bundeswehr, Freuding, will hier \"unerbittlich hart durchgreifen\". Die Zahlen seien \"unerträglich\".",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T09:51:56+00:00"
+  },
+  {
+   "t": "Suizid des italienischen Ex-Polizeichefs: De Gennaro ist tot",
+   "s": "Italiens Ex-Polizeichef De Gennaro ist tot. Die Justiz ermittelte gegen ihn wegen des Verdachts, die Aufklärung des Mordes an Borsellino behindert zu haben.",
+   "u": "https://taz.de/Ermittlungen-zum-Mord-an-Borsellino/!6232167/",
+   "q": "taz",
+   "d": "2026-11-22T09:47:00+00:00"
+  },
+  {
+   "t": "Pioniergemeinschaften - Die Zukunftsmacher aus dem Silicon Valley",
+   "s": "Hinter dem Mythos radikaler Innovation stehen oft Netzwerke digitaler Pioniere, sagt der Medienwissenschaftler Andreas Hepp: Sie kennen sich oft persönlich, prägen neue Technologien und tragen ihre Ideen dann in den Mainstream.Hepp, Andreas; Jantschek, Thorsten",
+   "u": "https://www.deutschlandfunk.de/die-zukunftsmacher-pioniergemeinschaften-im-silicon-valley-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-22T08:30:00+00:00"
+  },
+  {
+   "t": "Wie Armut Kinder in Deutschland krank macht",
+   "s": "Kinder aus armutsgefährdeten Familien haben ein höheres Risiko, krank zu werden - körperlich und psychisch. Dabei gibt es in Deutschland viele Hilfen. Warum kommen sie oft nicht an? Von Katharina Spreier.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/armut-kinder-familien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T08:26:52+00:00"
+  },
+  {
+   "t": "Hubigs Gesetzesvorschlag: Femizide sollen immer als Mord gelten",
+   "s": "Tötet ein Mann eine Frau, etwa weil er die Trennung nicht akzeptiert, wird die Tat bislang nicht immer als Mord geahndet. Die Justizministerin will das ändern.",
+   "u": "https://taz.de/Gewalt-gegen-Frauen/!6232169/",
+   "q": "taz",
+   "d": "2026-11-22T08:25:00+00:00"
+  },
+  {
+   "t": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
+   "s": "\"Wer eine Frau tötet, weil sie sich von ihm trennen will, der muss als Mörder bestraft werden\": Justizministerin Hubig will den Mordparagrafen verschärfen und Femizide eindeutig als Mord erfassen. Ein Gesetzentwurf dazu liegt nun vor.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T08:16:45+00:00"
+  },
+  {
+   "t": "trans Abgeordnete über queere Community: „Gesundheitliche Versorgung ist die wichtigste Suizidprävention“",
+   "s": "Nyke Slawik ist eine der wenigen trans Abgeordneten im Deutschen Bundestag. Trotz Hass und Anfeindungen wünscht sich die 32-Jährige mehr Zuversicht.",
+   "u": "https://taz.de/trans-Abgeordnete-ueber-queere-Community/!6223500/",
+   "q": "taz",
+   "d": "2026-11-22T08:00:00+00:00"
+  },
+  {
+   "t": "Antisemitismusbeauftragte fordert mehr Engagement gegen Judenhass",
+   "s": "Antisemitismus so offen wie seit dem Holocaust nicht mehr: Bundesbeauftragte von Schnurbein warnt vor wachsendem Judenhass in Deutschland. Die \"AfD-Ideologie\" sei ein gefährlicher Angriff auf die Erinnerungskultur.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T05:47:26+00:00"
+  },
   {
    "t": "Wahlen in Spanien: Die rechtsextreme Atlantik-Brücke",
    "s": "Unser Autor geriet im Herbst 2025 ins Visier des MAGA-Umfelds und floh nach Spanien. Doch nun steht dort die rechtsextreme Vox vor einem Wahlerfolg.",
@@ -38,7 +94,7 @@
    "d": "2026-11-21T15:55:59+00:00"
   },
   {
-   "t": "Verhandlungen im Ukraine-Krieg: Mehr als die Frage einer Präposition",
+   "t": "Verhandlungen im Ukrainekrieg: Mehr als die Frage einer Präposition",
    "s": "Wo wird verhandelt über die Ukraine? Und wer ist überhaupt dabei? Erneut gibt es Irritationen über das passende Format der Europäer. Den Kreml freut's.",
    "u": "https://taz.de/Verhandlungen-im-Ukraine-Krieg/!6232164/",
    "q": "taz",
@@ -108,67 +164,11 @@
    "d": "2026-11-21T10:07:00+00:00"
   },
   {
-   "t": "GenZ-regelt: Proteste enden friedlich, vereinzelte Krawalle am Abend",
+   "t": "Gen Z regelt: Proteste enden friedlich, vereinzelte Krawalle am Abend",
    "s": "Zehntausende gingen für die Anliegen der jungen Generation auf die Straße. In Leipzig kam es nach Ende der „Gen Z regelt“-Demo zum Einsatz von Wasserwerfern.",
    "u": "https://taz.de/GenZ-regelt/!6232145/",
    "q": "taz",
    "d": "2026-11-21T08:58:00+00:00"
-  },
-  {
-   "t": "Liquiditätshilfen für Schweinehalter: \"Nur ein Tropfen auf den heißen Stein\"",
-   "s": "Schweinehaltung in Deutschland ist ein Verlustgeschäft - Liquiditätshilfen in Höhe von 25 Millionen Euro sollen jetzt den Betrieben helfen. Doch das Notfallprogramm allein wird nicht ausreichen, warnen Landwirte und Opposition. Von T. Lehning.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T08:26:38+00:00"
-  },
-  {
-   "t": "\"Gen Z regelt\": Jugendliche erneut zu Tausenden auf den Straßen",
-   "s": "Zehntausende junge Menschen haben friedlich für die Anliegen ihrer Generation demonstriert. Nach dem Ende der \"Gen Z regelt\"-Demos gab es mancherorts zwar doch noch Krawalle, eine Eskalation wie an Halloween blieb aber aus.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T02:38:36+00:00"
-  },
-  {
-   "t": "Proteste der Gen Z in Deutschland: Eine Bewegung mit Potenzial",
-   "s": "Dass die Gen-Z-Proteste kleiner als das letzte Mal waren, muss nicht ihr Ende sein. Wichtig ist aber, dass die Proteste lustig bleiben. Und chaotisch.",
-   "u": "https://taz.de/Proteste-der-Gen-Z-in-Deutschland/!6232097/",
-   "q": "taz",
-   "d": "2026-11-20T18:58:00+00:00"
-  },
-  {
-   "t": "Jugendproteste in Frankreich: „Bis Samstag!“",
-   "s": "In Paris demonstrieren Tausende junge Menschen gegen die zunehmende Militarisierung. Und ein Ende des Protests liegt in weiter Ferne.",
-   "u": "https://taz.de/Jugendproteste-in-Frankreich/!6232126/",
-   "q": "taz",
-   "d": "2026-11-20T18:57:00+00:00"
-  },
-  {
-   "t": "Karin Prien kippt weiteres Programm: Menschen schwächen Menschen",
-   "s": "Das Bundesfamilienministerium kürzt nicht nur bei „Demokratie leben“. Auch das Programm „Menschen stärken Menschen“ steht jetzt vor dem Aus.",
-   "u": "https://taz.de/Karin-Prien-kippt-weiteres-Programm/!6231775/",
-   "q": "taz",
-   "d": "2026-11-20T18:57:00+00:00"
-  },
-  {
-   "t": "Zwei Gipfel, viele offene Fragen: Das bisher beste Zeitfenster für Diplomatie",
-   "s": "In Shenzhen und Berlin finden zwei Gipfel statt, die unterschiedlicher nicht sein könnten. Neben historischen Bildern schaffen sie ein kleines Momentum.",
-   "u": "https://taz.de/Zwei-Gipfel-viele-offene-Fragen/!6223577/",
-   "q": "taz",
-   "d": "2026-11-20T18:56:00+00:00"
-  },
-  {
-   "t": "Memoiren von Sonia Gandhi: Bilanz aus sechs politischen Jahrzehnten",
-   "s": "Jahrzehntelang prägte Sonia Gandhi die Politik Indiens. Mit ihren Memoiren sorgt die frühere Vorsitzende der Kongresspartei für neuen Zwist mit der Regierungspartei BJP.",
-   "u": "https://taz.de/Memoiren-von-Sonia-Gandhi/!6231760/",
-   "q": "taz",
-   "d": "2026-11-20T18:55:00+00:00"
-  },
-  {
-   "t": "Jugendliche erneut zu Tausenden auf den Straßen",
-   "s": "Die Generation Z demonstriert wieder: Junge Menschen sind heute bundesweit für bessere Bildung, mehr Klimaschutz und gegen eine mögliche Wehrpflicht auf die Straßen gegangen. Meist blieb es friedlich.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-114.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T18:54:49+00:00"
   }
  ]
 }

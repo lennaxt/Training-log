@@ -1,7 +1,35 @@
 {
  "name": "Ausland",
- "updated": "2026-11-22T01:20:27+00:00",
+ "updated": "2026-11-22T11:26:55+00:00",
  "items": [
+  {
+   "t": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
+   "s": "Die Weltklimakonferenz in Antalya ist schon in der Verlängerung, um ein Beschlusspapier wird heftig gerungen. Nun hat Umweltminister Schneider den Entwurf scharf zurückgewiesen - und erhebt Vorwürfe gegen einige Staaten.",
+   "u": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T11:19:54+00:00"
+  },
+  {
+   "t": "Israel: Warum die Stadt Bat Yam Iran verklagt",
+   "s": "Mehr als ein Jahr nach dem verheerenden Raketenangriff auf ein Wohnviertel im israelischen Bat Yam sind viele Familien nicht in ihre Wohnungen zurückgekehrt. Nun hat die Stadt Klage gegen Iran eingereicht. Von Bettina Meier.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T09:48:00+00:00"
+  },
+  {
+   "t": "Australien: Social-Media-Verbot mit Lücken und Mängeln",
+   "s": "Jugendliche vor den Folgen von Social Media zu schützen, das war die Idee hinter dem Social-Media-Verbot in Australien. Ein Jahr danach zeigt sich, wo es bei der Umsetzung hakt. Von C. Justus und P. Nöhr.",
+   "u": "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T07:26:24+00:00"
+  },
+  {
+   "t": "Klimakonferenz in Antalya: Staaten beraten neuen Entwurf für Abschlusserklärung",
+   "s": "Nach weit über 30 Stunden Verlängerung liegt der Klimakonferenz in Antalya ein neuer Entwurf für eine Abschlusserklärung vor. Ein klares Bekenntnis zur Abkehr von fossilen Energien enthält der Text nicht. Am Vormittag soll abgestimmt werden.",
+   "u": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T05:21:04+00:00"
+  },
   {
    "t": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
    "s": "Rund um die Chemiefabrik Chemours in den Niederlanden sollen die Bürger kein Obst aus ihren Gärten mehr essen. Dort werden Kunststoffe hergestellt, die zu den sogenannten Ewigkeitschemikalien gehören. Dagegen wehren sich die Bürger. Von O. Chladkova.",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/egmr-corona-impfpflicht-100.html",
    "q": "Tagesschau",
    "d": "2026-11-19T15:24:28+00:00"
-  },
-  {
-   "t": "Cupic: Biobauer, Dozent und nun Serbiens Parlamentspräsident",
-   "s": "Ein Biobauer und Dozent, der sechs Kinder hat und in einem Dorf lebt. Aleksandar Cupic ist für Anhänger der Studentischen Liste der Inbegriff eines Volksvertreters. Nun ist er vorerst der mächtigste Mann in Serbien. Von Oliver Soos.",
-   "u": "https://www.tagesschau.de/ausland/europa/cupic-parlamentspraesident-serbien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T15:08:53+00:00"
-  },
-  {
-   "t": "KI-gestützter Cyberangriff auf EU-Kommission",
-   "s": "Die Europäische Kommission in Brüssel ist Ziel eines KI-gestützten Hackerangriffs geworden. Ob Daten der mehr als 33.000 Beschäftigten gestohlen wurden, sagte die Behörde nicht. Auch die Verantwortlichen sind nicht bekannt.",
-   "u": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T13:56:39+00:00"
-  },
-  {
-   "t": "Internationaler Gerichtshof: Vorgehen Myanmars gegen Rohingya war Völkermord",
-   "s": "Myanmar wollte einen \"wesentlichen Teil\" der Minderheit der Rohingya vernichten: Zu dieser Einschätzung kommt der Internationale Gerichtshof. Das Land sei daher verantwortlich für einen Völkermord, urteilte das höchste UN-Gericht.",
-   "u": "https://www.tagesschau.de/ausland/asien/urteil-voelkermord-rohingya-myanmar-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T12:42:10+00:00"
-  },
-  {
-   "t": "Französische Soldaten in der Ukraine - aber nicht zum Kampf",
-   "s": "Russland wirft Frankreich vor, sich mit Soldaten in der Ukraine direkt am Krieg zu beteiligen. Die französische Regierung weist das zurück, bestätigt aber die Anwesenheit von Militärpersonal. Was ist ihre Aufgabe? Von C. Rienäcker.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-unterstuetzung-ukraine-militaer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T11:38:46+00:00"
   }
  ]
 }
