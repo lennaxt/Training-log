@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-22T11:27:00+00:00",
+ "updated": "2026-11-22T21:03:43+00:00",
  "items": [
+  {
+   "t": "EU-Forderungen an Großbritannien: Kleingeist statt strategisches Denken",
+   "s": "Die EU macht ihr neues Abkommen mit Großbritannien von Vorzugsbehandlung bei britischen Studiengebühren abhängig. Sie verkennt die Zeichen der Zeit.",
+   "u": "https://taz.de/EU-und-Grossbritannien-nach-dem-Brexit-Fatale-Kleingeistigkeit-wegen-Studiengebuehren/!6232202/",
+   "q": "taz",
+   "d": "2026-11-22T19:33:00+00:00"
+  },
+  {
+   "t": "Migrationspolitik in Dänemark: Mette Frederiksen nutzt Kampfbegriff von Rechtsextremen",
+   "s": "Die für ihre rigide Migrationspolitik bekannte sozialdemokratische Regierungschefin legt rhetorische Vorsicht ab und erntet Beifall von Identitären.",
+   "u": "https://taz.de/Migrationspolitik-in-Daenemark/!6232289/",
+   "q": "taz",
+   "d": "2026-11-22T17:11:00+00:00"
+  },
+  {
+   "t": "Augenzeugenbericht aus der Region Kyjiw: Plötzlich heulen über ganz Dymer die Sirenen",
+   "s": "Eine russische Drohne zerstört Teile eines Wohnblocks, unter Betonplatten sind Menschen eingeklemmt. Während der Rettung beginnt der nächste Angriff.",
+   "u": "https://taz.de/Augenzeugenbericht-aus-der-Region-Kyjiw/!6232344/",
+   "q": "taz",
+   "d": "2026-11-22T17:10:00+00:00"
+  },
+  {
+   "t": "Gelbwesten und Gen Z: Gemeinsam genug von Macron",
+   "s": "Die Protestwelle in Frankreich, ausgelöst durch Schulblockaden, hat auch die Gelbwesten zurückgebracht. Was eint Schüler- und Spritpreis-Bewegung?",
+   "u": "https://taz.de/Gelbwesten-und-Gen-Z/!6232270/",
+   "q": "taz",
+   "d": "2026-11-22T15:10:00+00:00"
+  },
+  {
+   "t": "Nach dem britischen Abkommen mit der EU: Ein akzeptabler Anfang – und nun?",
+   "s": "Andy Burnhams Wiederannäherung an die EU wird in Großbritannien begrüßt. Aber EU-Gegner sind dagegen und EU-Enthusiasten wünschen sich mehr Weitblick.",
+   "u": "https://taz.de/Nach-dem-britischen-Abkommen-mit-der-EU/!6232229/",
+   "q": "taz",
+   "d": "2026-11-22T13:43:00+00:00"
+  },
   {
    "t": "Suizid des italienischen Ex-Polizeichefs: De Gennaro ist tot",
    "s": "Italiens Ex-Polizeichef De Gennaro ist tot. Die Justiz ermittelte gegen ihn wegen des Verdachts, die Aufklärung des Mordes an Borsellino behindert zu haben.",
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Serbiens-neuer-Parlamentspraesident/!6231731/",
    "q": "taz",
    "d": "2026-11-20T08:33:00+00:00"
-  },
-  {
-   "t": "Internationaler Gen-Z-Protesttag: Gewerkschaften rufen zu Demonstrationen in Frankreich auf",
-   "s": "Dem breiten Bündnis gehören auch linke Jugendverbände an. Proteste soll es in mindestens 16 Städten geben.",
-   "u": "https://taz.de/Internationaler-Gen-Z-Protesttag/!6231431/",
-   "q": "taz",
-   "d": "2026-11-20T07:37:00+00:00"
-  },
-  {
-   "t": "Krieg in der Ukraine: Tote bei russischen Angriffen auf Kyjiwer Brücken",
-   "s": "Nach den ukrainischen Attacken auf die Krim-Brücke hat Russland zurückgeschlagen. Kyjiws Bürgermeister fordert die Einwohner der Stadt auf, möglichst von zu Hause aus zu arbeiten.",
-   "u": "https://taz.de/Krieg-in-der-Ukraine/!6231729/",
-   "q": "taz",
-   "d": "2026-11-20T07:26:00+00:00"
-  },
-  {
-   "t": "Estnisch-russische Grenze: Kein kleiner Grenzverkehr mehr in Narva",
-   "s": "Nach dem versuchten Brandanschlag auf ein estnisches Rüstungsunternehmen will Tallinn die Grenze zu Russland schließen. In der Grenzstadt Narva sorgt das für Unruhe.",
-   "u": "https://taz.de/Estnisch-russische-Grenze/!6231030/",
-   "q": "taz",
-   "d": "2026-11-19T17:16:00+00:00"
-  },
-  {
-   "t": "Nach ukrainischem Angriff auf Krim: Putin droht",
-   "s": "Der Kremlchef droht schmerzhafte Vergeltungsmaßnahmen an. Die Ukraine hat inzwischen auch fast die Hälfte der russischen Raffinerien getroffen.",
-   "u": "https://taz.de/Nach-ukrainischem-Angriff-auf-Krim/!6231637/",
-   "q": "taz",
-   "d": "2026-11-19T16:40:00+00:00"
-  },
-  {
-   "t": "Dreiergipfel in Shenzhen: Deprimierende Autokraten-Show",
-   "s": "Die europäische Kritik am Schulterschluss von Trump, Putin und Xi verhallt in weiten Teilen der Welt. Dieser Perspektivwechsel ist lehrreich.",
-   "u": "https://taz.de/Dreiergipfel-in-Shenzhen/!6224643/",
-   "q": "taz",
-   "d": "2026-11-19T16:21:00+00:00"
   }
  ]
 }

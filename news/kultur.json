@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-11-22T11:27:02+00:00",
+ "updated": "2026-11-22T21:03:44+00:00",
  "items": [
+  {
+   "t": "Streit um Staatshaushalt in Brasilien: Lula beim Wort genommen",
+   "s": "Studierende demonstrieren gegen die von der Regierung Lula geplante Haushaltsanpassung. Er hatte versprochen, stärker auf das Volk hören zu wollen.",
+   "u": "https://taz.de/Streit-um-Staatshaushalt-in-Brasilien/!6232287/",
+   "q": "taz",
+   "d": "2026-11-22T19:32:00+00:00"
+  },
+  {
+   "t": "Einwanderungs-Beamte in Seattle: Maskierte ICE-Beamte zerren Passagiere von Fluggastbrücke",
+   "s": "Laut der Behörde ICE galt der Einsatz einem Mexikaner. Mitreisende müssen mitansehen, wie Passagiere beim Boarden des Flugzeugs nach draußen gezerrt werden.",
+   "u": "https://taz.de/Einwanderungs-Beamte-in-Seattle/!6232309/",
+   "q": "taz",
+   "d": "2026-11-22T12:42:00+00:00"
+  },
   {
    "t": "Progressive Christen in den USA: Demokratische Auferstehung",
    "s": "Progressive Christen stellen sich gegen Trumps christlichen Nationalismus und gewinnen Wahlen für die Demokraten. Doch ihre Kirchen ringen um Abstand zur Parteipolitik.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Papst-Leo-XIV-in-Suedamerika/!6229422/",
    "q": "taz",
    "d": "2026-11-12T13:16:00+00:00"
-  },
-  {
-   "t": "Papst auf Lateinamerika-Reise: Leo liest Keiko die Leviten",
-   "s": "In Peru wird der Papst von Hunderttausenden auf den Straßen begrüßt. Leo XIV. hatte dort lange gelebt. Er fordert von Präsidentin Keiko Fujimori mehr Gerechtigkeit.",
-   "u": "https://taz.de/Papst-auf-Lateinamerika-Reise/!6229505/",
-   "q": "taz",
-   "d": "2026-11-12T11:56:00+00:00"
-  },
-  {
-   "t": "US-Kongresswahlen: Schwarzer Demokrat gewinnt Senatssitz in Mississippi",
-   "s": "Scott Colom wird der erste afroamerikanische Senator aus dem erzkonservativen Bundesstaat seit 1881. Der äußerts knappe Ausgang war gespannt erwartet worden.",
-   "u": "https://taz.de/US-Kongresswahlen/!6229412/",
-   "q": "taz",
-   "d": "2026-11-12T07:55:00+00:00"
   }
  ]
 }

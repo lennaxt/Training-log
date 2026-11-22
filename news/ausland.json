@@ -1,7 +1,49 @@
 {
  "name": "Ausland",
- "updated": "2026-11-22T11:26:55+00:00",
+ "updated": "2026-11-22T21:03:39+00:00",
  "items": [
+  {
+   "t": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
+   "s": "Am Samstag war der russische Frachter \"Sparta II\" in der Ostsee von einer Drohne getroffen worden und in Brand geraten. Laut finnischem Grenzschutz hat das Schiff Schlagseite, kann aber in russische Gewässer geschleppt werden.",
+   "u": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T19:53:03+00:00"
+  },
+  {
+   "t": "Explosion auf russischem Schiff in Libyen - Behörden vermuten Drohnenangriff",
+   "s": "In einem Hafen der ostlibyschen Stadt Bengasi hat es eine Explosion auf einem russischen Kriegsschiff gegeben. Die Behörden gehen von einem Angriff mit Drohnen aus. Berichten zufolge wird die Ukraine verantwortlich gemacht.",
+   "u": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T18:43:06+00:00"
+  },
+  {
+   "t": "Türkei: Tausende demonstrieren in Istanbul für Pressefreiheit",
+   "s": "Nach der Schließung mehrerer oppositionsnaher Medien sind in Istanbul Tausende Menschen auf die Straße gegangen. Zu der Demonstration hatte die größte Oppositionspartei Yeni aufgerufen.",
+   "u": "https://www.tagesschau.de/ausland/europa/tuerkei-proteste-pressefreiheit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T16:19:14+00:00"
+  },
+  {
+   "t": "Brand in indonesischer Süßwarenfabrik - viele Tote befürchtet",
+   "s": "Nach einem Feuer in einer Fabrik westlich von Indonesiens Hauptstadt Jakarta gibt es mehrere Tote. Etwa 60 Menschen sollen sich zum Zeitpunkt des Ausbruchs im Gebäude aufgehalten haben. Viele werden noch vermisst.",
+   "u": "https://www.tagesschau.de/ausland/asien/indonesien-brand-fabrik-tote-vermisste-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T15:21:42+00:00"
+  },
+  {
+   "t": "Türkischer Sender Sözcü TV: Journalismus unter Zwangsverwaltung",
+   "s": "Der regierungskritische türkische Sender Sözcü steht seit wenigen Tagen unter Zwangsverwaltung. Für die Journalisten war die Razzia ein Schock - wie hat sich seitdem ihre Arbeit verändert? Von Isabel Gotovac.",
+   "u": "https://www.tagesschau.de/ausland/asien/tuerkei-sender-soezcue-zwangsverwaltung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T14:21:45+00:00"
+  },
+  {
+   "t": "Nach Drohnenangriff: Löscharbeiten an der \"Sparta II\" dauern an",
+   "s": "Noch immer laufen die Löscharbeiten an dem russischen Frachter in der Ostsee vor Finnland. Was das Schiff geladen hat, ist weiterhin unklar. Es war von einer Drohne getroffen worden - vermutlich aus der Ukraine.",
+   "u": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T11:41:16+00:00"
+  },
   {
    "t": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
    "s": "Die Weltklimakonferenz in Antalya ist schon in der Verlängerung, um ein Beschlusspapier wird heftig gerungen. Nun hat Umweltminister Schneider den Entwurf scharf zurückgewiesen - und erhebt Vorwürfe gegen einige Staaten.",
@@ -22,20 +64,6 @@
    "u": "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
    "q": "Tagesschau",
    "d": "2026-11-22T07:26:24+00:00"
-  },
-  {
-   "t": "Klimakonferenz in Antalya: Staaten beraten neuen Entwurf für Abschlusserklärung",
-   "s": "Nach weit über 30 Stunden Verlängerung liegt der Klimakonferenz in Antalya ein neuer Entwurf für eine Abschlusserklärung vor. Ein klares Bekenntnis zur Abkehr von fossilen Energien enthält der Text nicht. Am Vormittag soll abgestimmt werden.",
-   "u": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T05:21:04+00:00"
-  },
-  {
-   "t": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
-   "s": "Rund um die Chemiefabrik Chemours in den Niederlanden sollen die Bürger kein Obst aus ihren Gärten mehr essen. Dort werden Kunststoffe hergestellt, die zu den sogenannten Ewigkeitschemikalien gehören. Dagegen wehren sich die Bürger. Von O. Chladkova.",
-   "u": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T19:54:06+00:00"
   },
   {
    "t": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
    "q": "Tagesschau",
    "d": "2026-11-20T11:47:44+00:00"
-  },
-  {
-   "t": "Warum Burnham die Nähe zur EU sucht",
-   "s": "Der britische Premier Burnham lässt keinen Zweifel aufkommen: Er will London wieder näher an die EU führen, denn er hält den Brexit für gescheitert. Wie weit kann er dabei gehen? Ein EU-UK-Gipfel soll den Prozess beschleunigen. Von C. Prössl.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-uk-gipfel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T07:41:19+00:00"
-  },
-  {
-   "t": "Kritik aus den USA nach Treffen Trumps mit Xi und Putin",
-   "s": "Erstmals in der Geschichte saß ein US-Präsident allein mit dem chinesischen und dem russischen Staatschef an einem Tisch. Große Deals blieben offenbar aus, die Debatte zu Hause in den USA ist groß: War das Diplomatie - oder Inszenierung? Von S. Jackisch.",
-   "u": "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T05:48:01+00:00"
-  },
-  {
-   "t": "Pistorius will Militärpakt mit Polen ausbauen",
-   "s": "Patriot-Systeme und Eurofighter-Kampfjets sowie eine Zusammenarbeit der Armeen beim Aufbau von gemeinsamen Verteidigungsstellungen: Polen und Deutschland arbeiten bereits militärisch zusammen. Das möchten beide Länder nun intensivieren.",
-   "u": "https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T03:53:04+00:00"
-  },
-  {
-   "t": "EGMR-Urteil: Corona-Impfpflichten waren menschenrechtskonform",
-   "s": "Zur Bekämpfung der Covid-19-Pandemie wurden Personen, die beispielsweise in Krankenhäusern oder Rettungsdiensten arbeiteten, verpflichtet, sich gegen Corona impfen zu lassen. Nun hat der EGMR entschieden. Von A. Stephany.",
-   "u": "https://www.tagesschau.de/ausland/europa/egmr-corona-impfpflicht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T15:24:28+00:00"
   }
  ]
 }

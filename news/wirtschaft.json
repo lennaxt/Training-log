@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-22T11:26:57+00:00",
+ "updated": "2026-11-22T21:03:40+00:00",
  "items": [
+  {
+   "t": "Gebrauchte Elektroautos: Alternative oder Schrott?",
+   "s": "Elektroautos sind gefragter denn je - auch angesichts steigender Kraftstoffpreise. Mit Verzögerung zeigt sich der Boom nun bei Gebrauchtwagenhändlern, allerdings mit Einschränkungen. Von Jörn Kersten.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T15:36:15+00:00"
+  },
   {
    "t": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
    "s": "Einzelaktien bieten etwas, was ein Welt-ETF kaum kann: Die Chance darauf, das Depot individueller zu gestalten und höhere Renditen zu erzielen. Gleichzeitig sind sie riskanter, zeitintensiver und komplexer. Von L.-M. Hiltscher und J. Bartlitz.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html",
    "q": "Tagesschau",
    "d": "2026-11-20T01:56:36+00:00"
-  },
-  {
-   "t": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
-   "s": "Anthropic gelingt der größte Börsengang aller Zeiten. Nach dem Absturz von Nvidia verbindet die KI-Branche damit neue Hoffnungen. Sind die Zweifel am Boom rund um Künstliche Intelligenz nun zerstreut? Von Angela Göpfert.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-19T16:54:27+00:00"
   }
  ]
 }
