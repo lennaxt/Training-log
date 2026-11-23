@@ -1,7 +1,77 @@
 {
  "name": "Inland",
- "updated": "2026-11-23T01:44:47+00:00",
+ "updated": "2026-11-23T12:45:37+00:00",
  "items": [
+  {
+   "t": "Nachfolge von Aiwanger: Tobias Gotthardt wird Wirtschaftsminister",
+   "s": "Nach dem plötzlichen Tod von Bayerns Wirtschaftsminister Aiwanger soll Staatssekretär Gotthardt als Wirtschaftsminister folgen. Der Landesverband wird künftig von einer Doppelspitze geführt.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-gotthardt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T12:17:05+00:00"
+  },
+  {
+   "t": "Bombendrohungen an Hunderten Schulen bundesweit",
+   "s": "Freiburg, Erfurt oder Hamburg: Hunderte Schulen im ganzen Land haben Drohschreiben bekommen. Mehrere Schulen wurden vorsorglich geräumt. Laut verschiedenen Polizeibehörden gibt es aber keine Hinweise auf eine konkrete Gefahr.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T11:55:42+00:00"
+  },
+  {
+   "t": "Wie Tabaklobby und Politik ums Rauchen ringen",
+   "s": "Wenige Branchen vertreten ihre Interessen wohl so robust wie die Tabakindustrie. Kritiker werfen ihr aggressives Lobbying vor. Doch nicht nur in Deutschland gibt es Konflikte um die Eindämmung der Nikotinabhängigkeit.",
+   "u": "https://www.deutschlandfunk.de/tabaklobby-vapes-zigaretten-streeck-tabaksteuer-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-23T11:43:00+00:00"
+  },
+  {
+   "t": "Bewerbungen schreiben: Aufwand bei Jobsuche deutlich gestiegen",
+   "s": "Eine Umfrage hat Bewerbungsprozesse untersucht. Ergebnis: Trotz Künstlicher Intelligenz dauert das Bewerben sowie die Suche nach Jobs länger.",
+   "u": "https://taz.de/Bewerbungen-schreiben/!6232421/",
+   "q": "taz",
+   "d": "2026-11-23T10:31:00+00:00"
+  },
+  {
+   "t": "Einigung: Zeugen Jehovas bekommen Archiv einer NS-Verfolgten",
+   "s": "Die Zeugen Jehovas litten unter der Verfolgung der Nationalsozialisten - eine Betroffene hat dies minutiös dokumentiert. Doch das Kusserow-Archiv lag lange im Museum der Bundeswehr. Nun bekommt die Glaubensgemeinschaft es zurück. Von Max Bauer.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/zeugen-jehovas-kusserow-ns-verfolgung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T10:26:02+00:00"
+  },
+  {
+   "t": "NATO-Parlamentarier tagen zu Sicherheitspolitik in Berlin",
+   "s": "Die Parlamentarische Versammlung der NATO versteht sich als eine Art transatlantisches Parlament. Heute tagen die Delegierten in Berlin - mit prominenten Gästen und weitreichenden Forderungen. Von Oliver Neuroth.",
+   "u": "https://www.tagesschau.de/inland/nato-versammlung-berlin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T09:14:40+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Ukraine bestätigt Angriff auf russisches Schiff",
+   "s": "Der ukrainische Präsident Selenskyj bestätigt den Angriff auf ein russisches Kriegsschiff vor Libyen. Russland will wohl Atomwaffe im All vorbereiten.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6232378/",
+   "q": "taz",
+   "d": "2026-11-23T08:27:00+00:00"
+  },
+  {
+   "t": "Im Rentenstreit deutet sich ein Kompromiss an",
+   "s": "Die Union möchte die sogenannte Rente mit 63 am liebsten abschaffen, die SPD will sie behalten. Doch es deutet sich ein Abrücken von diesen Maximalforderungen an. Noch verhandelt Arbeitsminister Schweitzer mit der Union über die Knackpunkte.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/rente-koalition-soeder-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T07:11:48+00:00"
+  },
+  {
+   "t": "BND-Reform: Dürfen Geheimdienste Therapiegespräche abhören?",
+   "s": "Nachrichtendienste bekommen mehr Befugnisse: Das betrifft auch Jour­na­lis­t:in­nen und Psychotherapeut:innen. Was sich für diese jetzt ändern könnte.",
+   "u": "https://taz.de/Reform-der-Geheimdienste-Darf-das-Gespraech-beim-Psychotherapeuten-abgehoert-werden/!6231059/",
+   "q": "taz",
+   "d": "2026-11-23T06:04:00+00:00"
+  },
+  {
+   "t": "Digitalisierung hilft im Kampf gegen Finanzkriminalität",
+   "s": "Mit einem Aktionsplan mit 26 Maßnahmen soll die Finanzkriminalität in Deutschland bekämpft werden. Florian Köbler von der Deutschen Steuergewerkschaft schlägt zudem automatisierte Steuererklärungen vor. Und das hat einen bestimmten Grund.Heinemann, Christoph",
+   "u": "https://www.deutschlandfunk.de/runder-tisch-finanzkriminalitaet-interview-florian-koebler-steuergewerkschaft-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-23T05:46:19+00:00"
+  },
   {
    "t": "EU-Forderungen an Großbritannien: Kleingeist statt strategisches Denken",
    "s": "Die EU macht ihr neues Abkommen mit Großbritannien von Vorzugsbehandlung bei britischen Studiengebühren abhängig. Sie verkennt die Zeichen der Zeit.",
@@ -39,7 +109,7 @@
   },
   {
    "t": "Verschärfung des Mordparagrafen: Hubig macht Tempo",
-   "s": "Die Vorstöße der Familienministerin für besseren Schutz von Frauen gehen in die richtige Richtung. Die Gesetze können Leben retten.",
+   "s": "Die Vorstöße der Justizministerin für besseren Schutz von Frauen gehen in die richtige Richtung. Die Gesetze können Leben retten.",
    "u": "https://taz.de/Verschaerfung-des-Mordparagrafen/!6232207/",
    "q": "taz",
    "d": "2026-11-22T19:25:00+00:00"
@@ -99,76 +169,6 @@
    "u": "https://taz.de/Gelbwesten-und-Gen-Z/!6232270/",
    "q": "taz",
    "d": "2026-11-22T15:10:00+00:00"
-  },
-  {
-   "t": "Nach dem britischen Abkommen mit der EU: Ein akzeptabler Anfang – und nun?",
-   "s": "Andy Burnhams Wiederannäherung an die EU wird in Großbritannien begrüßt. Aber EU-Gegner sind dagegen und EU-Enthusiasten wünschen sich mehr Weitblick.",
-   "u": "https://taz.de/Nach-dem-britischen-Abkommen-mit-der-EU/!6232229/",
-   "q": "taz",
-   "d": "2026-11-22T13:43:00+00:00"
-  },
-  {
-   "t": "Öl, Kohle und Gas: Warum die COP31 gescheitert ist",
-   "s": "Die COP31 ist ohne Ergebnis zu Ende gegangen. Die fast 200 Teilnehmer-Staaten schafften es nicht, sich auf ein Abschlussdokument zu einigen. Streitpunkt war der Umgang mit den fossilen Energieträgern.",
-   "u": "https://www.deutschlandfunk.de/cop-31-klimakonferenz-klimaschutz-antalya-ergebnisse-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-22T12:57:00+00:00"
-  },
-  {
-   "t": "Einwanderungs-Beamte in Seattle: Maskierte ICE-Beamte zerren Passagiere von Fluggastbrücke",
-   "s": "Laut der Behörde ICE galt der Einsatz einem Mexikaner. Mitreisende müssen mitansehen, wie Passagiere beim Boarden des Flugzeugs nach draußen gezerrt werden.",
-   "u": "https://taz.de/Einwanderungs-Beamte-in-Seattle/!6232309/",
-   "q": "taz",
-   "d": "2026-11-22T12:42:00+00:00"
-  },
-  {
-   "t": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
-   "s": "\"Wer eine Frau tötet, weil sie sich von ihm trennen will, der muss als Mörder bestraft werden\": Justizministerin Hubig will den Mordparagrafen verschärfen und Femizide eindeutig als Mord erfassen. Ein Gesetzentwurf dazu liegt nun vor.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T12:00:00+00:00"
-  },
-  {
-   "t": "Germanwatch kritisiert COP-Finale: Fossile Interessen setzen sich durch",
-   "s": "Beim Klimagipfel in Antalya scheitert eine Abschlusserklärung. Germanwatch-Vorständin Jennifer Tollmann begrüßt das Nein der EU zum Entwurf: Er habe fossilen Interessen zu viel Raum gegeben und die Glaubwürdigkeit des Klimaprozesses gefährdet.Büüsker, Ann-Kathrin",
-   "u": "https://www.deutschlandfunk.de/interview-tollmann-jennifer-vorstandsmitglied-germanwatch-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-22T10:05:00+00:00"
-  },
-  {
-   "t": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen",
-   "s": "Die Bundeswehr hat ein Problem mit sexualisiertem Fehlverhalten. Das belegt eine Studie. Der künftige Generalinspekteur der Bundeswehr, Freuding, will hier \"unerbittlich hart durchgreifen\". Die Zahlen seien \"unerträglich\".",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T09:51:56+00:00"
-  },
-  {
-   "t": "Suizid des italienischen Ex-Polizeichefs: De Gennaro ist tot",
-   "s": "Italiens Ex-Polizeichef De Gennaro ist tot. Die Justiz ermittelte gegen ihn wegen des Verdachts, die Aufklärung des Mordes an Borsellino behindert zu haben.",
-   "u": "https://taz.de/Ermittlungen-zum-Mord-an-Borsellino/!6232167/",
-   "q": "taz",
-   "d": "2026-11-22T09:47:00+00:00"
-  },
-  {
-   "t": "Pioniergemeinschaften - Die Zukunftsmacher aus dem Silicon Valley",
-   "s": "Hinter dem Mythos radikaler Innovation stehen oft Netzwerke digitaler Pioniere, sagt der Medienwissenschaftler Andreas Hepp: Sie kennen sich oft persönlich, prägen neue Technologien und tragen ihre Ideen dann in den Mainstream.Hepp, Andreas; Jantschek, Thorsten",
-   "u": "https://www.deutschlandfunk.de/die-zukunftsmacher-pioniergemeinschaften-im-silicon-valley-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-22T08:30:00+00:00"
-  },
-  {
-   "t": "Wie Armut Kinder in Deutschland krank macht",
-   "s": "Kinder aus armutsgefährdeten Familien haben ein höheres Risiko, krank zu werden - körperlich und psychisch. Dabei gibt es in Deutschland viele Hilfen. Warum kommen sie oft nicht an? Von Katharina Spreier.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/armut-kinder-familien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T08:26:52+00:00"
-  },
-  {
-   "t": "Hubigs Gesetzesvorschlag: Femizide sollen immer als Mord gelten",
-   "s": "Tötet ein Mann eine Frau, etwa weil er die Trennung nicht akzeptiert, wird die Tat bislang nicht immer als Mord geahndet. Die Justizministerin will das ändern.",
-   "u": "https://taz.de/Gewalt-gegen-Frauen/!6232169/",
-   "q": "taz",
-   "d": "2026-11-22T08:25:00+00:00"
   }
  ]
 }

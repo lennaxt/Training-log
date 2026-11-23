@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-11-23T01:44:52+00:00",
+ "updated": "2026-11-23T12:45:45+00:00",
  "items": [
+  {
+   "t": "Sprachenvielfalt und Übersetzungen: „In Indien fehlt die Infrastruktur zum Deutschlernen“",
+   "s": "Literaturübersetzungen bieten Einblicke in andere Kulturen und bereichern unser Verständnis, sagt die frühere Deutschprofessorin Sunanda Mahajan.",
+   "u": "https://taz.de/Sprachenvielfalt-und-Uebersetzungen/!6224697/",
+   "q": "taz",
+   "d": "2026-11-23T06:00:00+00:00"
+  },
   {
    "t": "Zertifizierung für Export nach Europa: Wer zahlt für EU-Vorschriften?",
    "s": "Indische Lederhersteller wollen, dass sich ihre europäischen Abnehmer an den Kosten für die Einhaltung von EU-Vorschriften beteiligen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Parlamentswahl-in-Neuseeland/!6228377/",
    "q": "taz",
    "d": "2026-11-08T11:47:00+00:00"
-  },
-  {
-   "t": "Neuseeland hat gewählt: Knappes Rennen zwischen Konservativen und Sozialdemokraten",
-   "s": "Regierungschef Luxon oder sein Herausforderer Ex-Premier Hipkins? Ersten Ergebnissen zufolge wird für beide die Regierungsbildung schwierig.",
-   "u": "https://taz.de/Neuseeland-hat-gewaehlt/!6228315/",
-   "q": "taz",
-   "d": "2026-11-07T09:41:00+00:00"
   }
  ]
 }

@@ -1,7 +1,49 @@
 {
  "name": "Wissen",
- "updated": "2026-11-23T01:44:49+00:00",
+ "updated": "2026-11-23T12:45:40+00:00",
  "items": [
+  {
+   "t": "COP31 scheitert an Ölstaaten-Blockade und Finanzierungsaufschub für globalen Süden",
+   "s": "COP31 scheitert an Ölstaaten-Blockade und Finanzierungsaufschub für globalen Süden",
+   "u": "https://www.tagesschau.de/video/video-1688424.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T12:40:42+00:00"
+  },
+  {
+   "t": "Lissy Kaufmann, ARD Berlin, zu Reaktionen auf Ende der Klimakonferenz",
+   "s": "Lissy Kaufmann, ARD Berlin, zu Reaktionen auf Ende der Klimakonferenz",
+   "u": "https://www.tagesschau.de/video/video-1688400.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T11:33:53+00:00"
+  },
+  {
+   "t": "Schaltsekunde abgeschafft - kommt dafür die Schaltstunde?",
+   "s": "Ein internationales Gremium hat festgelegt: Künftig wird es keine Schaltsekunden mehr geben. 27 Mal wurde sie genutzt, um unsere Uhren mit der astronomischen Zeit in Einklang zu halten. Ein neues System käme erst im Jahr 3000 zum Einsatz.",
+   "u": "https://www.tagesschau.de/wissen/forschung/schaltsekunde-abschaffung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T10:28:51+00:00"
+  },
+  {
+   "t": "Weltklimakonferenz in Antalya endet enttäuschend - ohne Abschlusserklärung",
+   "s": "Weltklimakonferenz in Antalya endet enttäuschend - ohne Abschlusserklärung",
+   "u": "https://www.tagesschau.de/video/video-1688366.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T10:24:40+00:00"
+  },
+  {
+   "t": "Umweltminister Schneider kritisiert Ölstaaten nach Klimakonferenz",
+   "s": "Umweltminister Schneider kritisiert Ölstaaten nach Klimakonferenz",
+   "u": "https://www.tagesschau.de/video/video-1688288.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T08:56:15+00:00"
+  },
+  {
+   "t": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+   "s": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
+   "u": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T07:46:12+00:00"
+  },
   {
    "t": "Weltklimakonferenz COP31 endet ohne Einigung",
    "s": "Die Teilnehmer der Weltklimakonferenz im türkischen Antalya haben sich nicht auf eine gemeinsame Abschlusserklärung einigen können. An dem Papier gab es unter anderem von Deutschland und der EU scharfe Kritik.",
@@ -22,34 +64,6 @@
    "u": "https://www.tagesschau.de/video/video-1687762.html",
    "q": "Tagesschau",
    "d": "2026-11-21T19:10:47+00:00"
-  },
-  {
-   "t": "Klimakonferenz · Droht die COP31 zu scheitern?",
-   "s": "Dass eine Weltklimakonferenz pünktlich endet, passiert praktisch nie. Auch die COP31 in Antalya ist schon seit mehr als 24 Stunden in der Verlängerung. Droht ein Rückfall bei den Klimazielen oder sogar ein Scheitern?",
-   "u": "https://www.tagesschau.de/video/video-1687670.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T18:21:38+00:00"
-  },
-  {
-   "t": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
-   "s": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
-   "u": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T17:32:19+00:00"
-  },
-  {
-   "t": "Länder und Kommunen müssen sich auf mehr Extremwetterlagen einstellen",
-   "s": "Länder und Kommunen müssen sich auf mehr Extremwetterlagen einstellen",
-   "u": "https://www.tagesschau.de/video/video-1687600.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T16:18:02+00:00"
-  },
-  {
-   "t": "Weltklimakonferenz geht in die Verlängerung",
-   "s": "Im Ringen um eine angemessene Antwort auf die Klimakrise geht die Weltklimakonferenz in die Verlängerung. Eigentlich sollte sie am Freitag zu Ende gehen. Doch die Verhandlungen ziehen sich ins Wochenende.",
-   "u": "https://www.tagesschau.de/video/video-1687518.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T11:37:06+00:00"
   },
   {
    "t": "Warum die Jugend der Gen Z im Dauerkrisenmodus steckt",
@@ -136,13 +150,6 @@
    "d": "2026-11-10T04:01:04+00:00"
   },
   {
-   "t": "Janina Schreiber, ARD Istanbul, über die Erfolgsaussichten dieser Klimakonferenz",
-   "s": "Janina Schreiber, ARD Istanbul, über die Erfolgsaussichten dieser Klimakonferenz",
-   "u": "https://www.tagesschau.de/video/video-1680814.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T15:22:42+00:00"
-  },
-  {
    "t": "31. Klimakonferenz der UN startet - Guterres fordert mehr Einsatz",
    "s": "Im türkischen Antalya beginnt die 31. Klimakonferenz der Vereinten Nationen. Zwei Wochen lang beraten Vertreter von fast 200 Ländern über Maßnahmen gegen die Erderwärmung. UN-Generalsekretär Guterres verweist auf die Dringlichkeit.",
    "u": "https://www.tagesschau.de/wissen/klima/cop-in-antalya-beginnt-100.html",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/kinder-jugendliche-bewegung-100.html",
    "q": "Tagesschau",
    "d": "2026-11-04T16:37:10+00:00"
-  },
-  {
-   "t": "RNA-Medizin: Was kommt nach der Corona-Impfung?",
-   "s": "Bekannt wurde die RNA-Medizin vor allem während der Corona-Pandemie - durch die mRNA-Impfstoffe. Künftig könnten solche Therapien auch bei Herz-Kreislauf-Erkrankungen, seltenen Krankheiten oder Krebs zum Einsatz kommen.",
-   "u": "https://www.tagesschau.de/wissen/gesundheit/rna-forschung-chancen-und-risiken-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-04T13:21:52+00:00"
   }
  ]
 }

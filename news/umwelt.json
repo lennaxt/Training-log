@@ -1,7 +1,28 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-23T01:44:49+00:00",
+ "updated": "2026-11-23T12:45:41+00:00",
  "items": [
+  {
+   "t": "Bewerbungen schreiben: Aufwand bei Jobsuche deutlich gestiegen",
+   "s": "Eine Umfrage hat Bewerbungsprozesse untersucht. Ergebnis: Trotz Künstlicher Intelligenz dauert das Bewerben sowie die Suche nach Jobs länger.",
+   "u": "https://taz.de/Bewerbungen-schreiben/!6232421/",
+   "q": "taz",
+   "d": "2026-11-23T10:31:00+00:00"
+  },
+  {
+   "t": "BND-Reform: Dürfen Geheimdienste Therapiegespräche abhören?",
+   "s": "Nachrichtendienste bekommen mehr Befugnisse: Das betrifft auch Jour­na­lis­t:in­nen und Psychotherapeut:innen. Was sich für diese jetzt ändern könnte.",
+   "u": "https://taz.de/Reform-der-Geheimdienste-Darf-das-Gespraech-beim-Psychotherapeuten-abgehoert-werden/!6231059/",
+   "q": "taz",
+   "d": "2026-11-23T06:04:00+00:00"
+  },
+  {
+   "t": "Hass gegen trans Menschen: So wurde Transfeindlichkeit zum neuen Klebstoff der Rechten",
+   "s": "Die Anti-Gender-Bewegung mobilisiert auf den Straßen und im Netz. Wie funktioniert ihre perfide Masche? Und wer sind die Ak­teu­r:in­nen?",
+   "u": "https://taz.de/Hass-gegen-trans-Menschen/!6225551/",
+   "q": "taz",
+   "d": "2026-11-23T06:00:00+00:00"
+  },
   {
    "t": "Zwangsräumungen im Jahr 2025: Rechnet sich Deutschland die Wohnungskrise klein?",
    "s": "Zwangsräumungen sind laut Bundesamt für Justiz im vergangenen Jahr deutlich gesunken. Die Statistik lässt allerdings Fragen aufkommen.",
@@ -11,7 +32,7 @@
   },
   {
    "t": "Verschärfung des Mordparagrafen: Hubig macht Tempo",
-   "s": "Die Vorstöße der Familienministerin für besseren Schutz von Frauen gehen in die richtige Richtung. Die Gesetze können Leben retten.",
+   "s": "Die Vorstöße der Justizministerin für besseren Schutz von Frauen gehen in die richtige Richtung. Die Gesetze können Leben retten.",
    "u": "https://taz.de/Verschaerfung-des-Mordparagrafen/!6232207/",
    "q": "taz",
    "d": "2026-11-22T19:25:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Justizministerkonferenz-in-Hamburg/!6231497/",
    "q": "taz",
    "d": "2026-11-20T10:40:00+00:00"
-  },
-  {
-   "t": "Brantner und Bobga über den GenZ-Protest: „Zum Glück geht ihr da rein“ – „Wir fühlen uns aber allein“",
-   "s": "Die Vorsitzenden von Grünen und Grüner Jugend streiten vor dem nächsten Protesttag: Welchen Anteil hat ihre Partei an der Wut der jungen Generation?",
-   "u": "https://taz.de/Brantner-und-Bogba-ueber-den-GenZ-Protest/!6231070/",
-   "q": "taz",
-   "d": "2026-11-20T09:32:00+00:00"
-  },
-  {
-   "t": "Pistorius besucht Auschwitz: Minister für Verteidigung und Antifaschismus",
-   "s": "Bei seinem Besuch in Auschwitz präsentiert sich Boris Pistorius als Kämpfer gegen rechts. Verteidigungspolitik spielt nur eine Nebenrolle.",
-   "u": "https://taz.de/Pistorius-besucht-Auschwitz/!6231727/",
-   "q": "taz",
-   "d": "2026-11-20T08:24:00+00:00"
-  },
-  {
-   "t": "„Koalition der Willigen“ in Berlin: Ein Bröckchen Mauer und viel Soli",
-   "s": "Es war das größte Treffen der Ukraine-Verbündeten. In Berlin beriet die „Koalition der Willigen“ über ihre Position bei Verhandlungen für ein Kriegsende.",
-   "u": "https://taz.de/Koalition-der-Willigen-in-Berlin/!6231596/",
-   "q": "taz",
-   "d": "2026-11-19T19:27:00+00:00"
   }
  ]
 }

@@ -1,13 +1,104 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-23T01:44:48+00:00",
+ "updated": "2026-11-23T12:45:39+00:00",
  "items": [
+  {
+   "t": "Marktbericht: Dem DAX gelingt eine Erholung - vorerst",
+   "s": "Nach dem Kursrutsch beim DAX von 2.000 Punkten in gut einer Woche setzt eine Erholung ein. Doch sie steht auf wackligen Beinen. Viele Negativ-Faktoren begleiten Investoren weiter. Die Stimmung bleibt verhalten.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-wacklig-nach-kursrutsch-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T11:49:55+00:00"
+  },
+  {
+   "t": "Wie Tabaklobby und Politik ums Rauchen ringen",
+   "s": "Wenige Branchen vertreten ihre Interessen wohl so robust wie die Tabakindustrie. Kritiker werfen ihr aggressives Lobbying vor. Doch nicht nur in Deutschland gibt es Konflikte um die Eindämmung der Nikotinabhängigkeit.",
+   "u": "https://www.deutschlandfunk.de/tabaklobby-vapes-zigaretten-streeck-tabaksteuer-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-23T11:43:00+00:00"
+  },
+  {
+   "t": "Wer ist schuld am Scheitern des Klimagipfels?",
+   "s": "Die Klimakonferenz in Antalya ist nach zwei Wochen zäher Verhandlungen ohne Abschlusserklärung zu Ende gegangen. Woran lag das? Bei der Suche nach möglichen Schuldigen richtet sich der Blick auch auf die Doppelpräsidentschaft. Von Jakob Mayr.",
+   "u": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T10:42:23+00:00"
+  },
+  {
+   "t": "Affäre von Ex-Nvidia-Chef wohl in Kontakt zu Chinas Geheimdienst",
+   "s": "Alice Huang, Geliebte des ehemaligen Nvidia-Chefs, hatte offenbar mehr als ein Jahr lang Kontakt zu einem Mitarbeiter des chinesischen Geheimdienstes. Die Chinesin steht im Mittelpunkt des Skandals um den US-Chipkonzern.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-skandal-kontakt-chinesischer-geheimdienst-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T09:56:20+00:00"
+  },
+  {
+   "t": "Verbraucherschützer warnen zur Black Week vor Betrugsmaschen",
+   "s": "Rabatte von 50, 60 oder sogar 70 Prozent: Rund um den Black Friday lockt der Handel mit vermeintlichen Schnäppchen. Die Branche erwartet Rekordumsätze. Doch Verbraucherschützer warnen auch vor Preisfallen und Betrügern. Von Jens Eberl.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/blackweek-preisfallen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T09:33:43+00:00"
+  },
+  {
+   "t": "Umweltminister Schneider: Scheitern der COP31 kein Rückschlag für Klimaschutz",
+   "s": "Der XXL-Klimagipfel ist vorbei - ein Bekenntnis der fast 200 Staaten zum Klimaschutz gibt es nicht. Umweltminister Schneider sieht im Scheitern von Antalya aber auch eine gute Nachricht. Die Energiewende sei unumkehrbar - sagt auch China.",
+   "u": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-schneider-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T09:29:40+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 23.11.2026",
+   "s": "Update Wirtschaft vom 23.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1688296.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T09:17:45+00:00"
+  },
+  {
+   "t": "Im Rentenstreit deutet sich ein Kompromiss an",
+   "s": "Die Union möchte die sogenannte Rente mit 63 am liebsten abschaffen, die SPD will sie behalten. Doch es deutet sich ein Abrücken von diesen Maximalforderungen an. Noch verhandelt Arbeitsminister Schweitzer mit der Union über die Knackpunkte.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/rente-koalition-soeder-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T07:11:48+00:00"
+  },
+  {
+   "t": "Neue Warnstreiks in Metall- und Elektroindustrie angelaufen",
+   "s": "In der Metall- und Elektroindustrie in Norddeutschland läuft seit der Nacht der nächste Warnstreik. Vielerorts sind die Tarifverhandlungen festgefahren. Die Gewerkschaft IG Metall fordert fünf Prozent mehr Gehalt.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T06:48:24+00:00"
+  },
+  {
+   "t": "Welche Chancen und Risiken KI bei Bewerbungen bietet",
+   "s": "Sowohl Bewerber als auch Unternehmen nutzen KI im Bewerbungsverfahren. So könnten sich in Zukunft Bewerbungsverfahren stark verändern. Doch besonders für die Firmen gelten dabei strenge Vorschriften. Von Max Ortmann.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/bewerbung-mit-ki-chancen-risiken-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T05:31:19+00:00"
+  },
+  {
+   "t": "Scheitern der COP31-Abschlusserklärung: \"Ein fatales Ergebnis\"",
+   "s": "Dass die Weltklimakonferenz ohne Abschlusserklärung endet, sorgt für scharfe Kritik. UN-Generalsekretär Guterres macht die Öl- und Gasindustrie mitverantwortlich. Kritik gibt es aber auch an EU und Bundesregierung.",
+   "u": "https://www.tagesschau.de/wissen/klima/klimakonferenz/weltklimakonferenz-reaktionen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T16:56:52+00:00"
+  },
+  {
+   "t": "Kommentar zur COP31: Großes Versagen - vielleicht auch ein Anfang",
+   "s": "Der Ausgang der Klimakonferenz ist ein großes Versagen, meint Arne Schulz. Verantwortliche gibt es mehrere. Und jetzt? Vielleicht ergeben sich gerade durch das Scheitern ganz neue Chancen.",
+   "u": "https://www.tagesschau.de/kommentar/weltklimakonferenz-cop31-scheitern-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T16:08:20+00:00"
+  },
   {
    "t": "Gebrauchte Elektroautos: Alternative oder Schrott?",
    "s": "Elektroautos sind gefragter denn je - auch angesichts steigender Kraftstoffpreise. Mit Verzögerung zeigt sich der Boom nun bei Gebrauchtwagenhändlern, allerdings mit Einschränkungen. Von Jörn Kersten.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
    "q": "Tagesschau",
    "d": "2026-11-22T15:36:15+00:00"
+  },
+  {
+   "t": "Weltklimakonferenz COP31: Keine Einigung auf Abschlusserklärung",
+   "s": "Die Teilnehmer der Weltklimakonferenz im türkischen Antalya haben sich nicht auf eine gemeinsame Abschlusserklärung einigen können. An dem Papier gab es unter anderem von Deutschland und der EU scharfe Kritik.",
+   "u": "https://www.tagesschau.de/wissen/klima/klimakonferenz/weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T15:30:18+00:00"
   },
   {
    "t": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
@@ -73,102 +164,11 @@
    "d": "2026-11-21T10:16:17+00:00"
   },
   {
-   "t": "GTA VI spielt laut Konzern fast vier Milliarden Dollar am ersten Tag ein",
-   "s": "Lange mussten GTA-Fans auf den sechsten Teil der Videospiel-Reihe warten - jetzt trägt der Hype Früchte. Nach Angaben von Rockstar Games erzielte das Spiel am ersten Verkaufstag einen Rekordumsatz von rund 3,8 Milliarden Dollar.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T09:39:17+00:00"
-  },
-  {
    "t": "Wirtschaft vor acht vom 20.11.2026",
    "s": "Wirtschaft vor acht vom 20.11.2026",
    "u": "https://www.tagesschau.de/video/video-1687280.html",
    "q": "Tagesschau",
    "d": "2026-11-20T19:10:55+00:00"
-  },
-  {
-   "t": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
-   "s": "An den Finanzmärkten rollt eine Verkaufswelle durch den vom Erfolg verwöhnten Technologiesektor. Der DAX folgt den Verlusten an der Wall Street und schließt mit dem höchsten Wochenminus seit Monaten.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T17:17:33+00:00"
-  },
-  {
-   "t": "Weltgrößtes Windrad in Betrieb: Sind Höhenwindräder die Zukunft?",
-   "s": "Bis zu 365 Meter hoch ist ein Windrad, das jetzt in der Lausitz in Betrieb gegangen ist - laut den Ingenieuren ein Rekord. Aber rechnen sich solche Riesenanlagen überhaupt? Und was sagen Anwohner? Von Mirja Fiedler.",
-   "u": "https://www.tagesschau.de/wirtschaft/energie/groesstes-windrad-lausitz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T16:25:17+00:00"
-  },
-  {
-   "t": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
-   "s": "Erst legt der KI-Entwickler Anthropic einen der größten Börsengänge der Geschichte hin. Gleichzeitig geraten Technologie- und KI-Aktien weltweit unter Druck. Wie passt das zusammen? Von Michelle Goddemeier.",
-   "u": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T16:20:16+00:00"
-  },
-  {
-   "t": "Kritik an Ausnahmen bei Erbschaftsteuer nach Recherchen über Döpfner-Schenkung",
-   "s": "Springer-Chef Döpfner hat im Jahr 2020 von Verlegerin Friede Springer ein Milliarden-Aktienpaket übertragen bekommen - aber wohl kaum Schenkungsteuern gezahlt. Politiker von SPD und CDU fordern nun Änderungen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/doepfner-erbschaftssteuer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T14:58:12+00:00"
-  },
-  {
-   "t": "Galeria schließt drei Filialen - und noch viele mehr?",
-   "s": "Galeria trennt sich von Filialen in Berlin, Köln und München. Medienberichten zufolge ist das jedoch erst der Anfang: Von den derzeitigen Standorten könnte am Ende nur etwa die Hälfte übrig bleiben.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/galerie-schliessung-filialen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T13:47:08+00:00"
-  },
-  {
-   "t": "Gender Pay Gap: Frauen arbeiten den Rest des Jahres kostenlos",
-   "s": "Von heute bis zum Jahresende arbeiten Frauen in der EU quasi unbezahlt - so groß ist die rechnerische Lohnlücke im Schnitt. Neue Transparenzregeln sollen Veränderung bringen, doch Deutschland hat die Frist der EU verstreichen lassen.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/gender-pay-gap-140.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T10:09:15+00:00"
-  },
-  {
-   "t": "Was die Volkswagen-Forderungen für Beschäftigte bedeuten könnten",
-   "s": "Kein Lohnplus, mehr Arbeit, weniger Extras: VW hat der IG Metall einen Forderungskatalog vorgelegt, der es in sich hat. Was auf die Beschäftigten zukommen könnte - und warum eine schnelle Einigung kaum möglich ist.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifstreit-ig-metall-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T09:55:01+00:00"
-  },
-  {
-   "t": "Neue EU-Regeln ab heute: Mehr Schutz vor Verschuldung bei Kleinkrediten",
-   "s": "Mehr Schutz für Verbraucher, mehr Kontrolle bei Krediten: Von heute an gilt die neue Verbraucherkreditrichtlinie. Selbst kleine Beträge wie bei \"Heute kaufen, später zahlen\" verlangen von Anbietern nun mehr Aufwand. Von Juri Sonnenholzner.",
-   "u": "https://www.tagesschau.de/wirtschaft/kleinkredite-neue-regeln-verschuldung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T09:22:00+00:00"
-  },
-  {
-   "t": "Update Wirtschaft vom 20.11.2026",
-   "s": "Update Wirtschaft vom 20.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1686922.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T08:48:20+00:00"
-  },
-  {
-   "t": "Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia",
-   "s": "Nach dem Rücktritt von Nvidia-Chef Huang kommt der Chiphersteller nicht zur Ruhe. Jetzt wollen kalifornische Behörden untersuchen, ob und wie KI-Chips oder Informationen illegal nach China gelangt sein könnten.",
-   "u": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T07:47:56+00:00"
-  },
-  {
-   "t": "WG-Mieten steigen stark: Kann sich die Gen Z Wohnen noch leisten?",
-   "s": "Heute demonstrieren erneut junge Menschen unter dem Motto \"Gen Z regelt\". Es geht ihnen auch um ein bezahlbares Leben. Denn inzwischen entscheiden auch Mietpreise darüber, wer wo studieren kann. Von Alexander C. Mühlhausen.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/wg-zimmer-gen-z-proteste-wohnungskrise-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T06:48:37+00:00"
-  },
-  {
-   "t": "Medienberichte: Lufthansa will 1.000 Stellen streichen",
-   "s": "An ihren Drehkreuzen Frankfurt und München will die Lufthansa insgesamt 1.000 Stellen streichen. Das geht aus einem Brief an Mitarbeiter hervor. Wann und wie die Einsparungen umgesetzt werden, ist noch nicht bekannt.",
-   "u": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T01:56:36+00:00"
   }
  ]
 }

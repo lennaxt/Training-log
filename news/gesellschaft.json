@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-23T01:44:50+00:00",
+ "updated": "2026-11-23T12:45:42+00:00",
  "items": [
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Ukraine bestätigt Angriff auf russisches Schiff",
+   "s": "Der ukrainische Präsident Selenskyj bestätigt den Angriff auf ein russisches Kriegsschiff vor Libyen. Russland will wohl Atomwaffe im All vorbereiten.",
+   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6232378/",
+   "q": "taz",
+   "d": "2026-11-23T08:27:00+00:00"
+  },
   {
    "t": "EU-Forderungen an Großbritannien: Kleingeist statt strategisches Denken",
    "s": "Die EU macht ihr neues Abkommen mit Großbritannien von Vorzugsbehandlung bei britischen Studiengebühren abhängig. Sie verkennt die Zeichen der Zeit.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Erdogan-Rivale-wird-kaltgestellt/!6231733/",
    "q": "taz",
    "d": "2026-11-20T08:43:00+00:00"
-  },
-  {
-   "t": "Serbiens neuer Parlamentspräsident: Der ruhige Mann mit dem wilden Bart",
-   "s": "Aleksandar Čupić ist neuer Parlamentspräsident in Serbien. Es ist das erste öffentliche Amt, das ein Vertreter der Studentenliste bekleidet.",
-   "u": "https://taz.de/Serbiens-neuer-Parlamentspraesident/!6231731/",
-   "q": "taz",
-   "d": "2026-11-20T08:33:00+00:00"
   }
  ]
 }
