@@ -1,20 +1,27 @@
 {
  "name": "Ausland",
- "updated": "2026-11-22T21:03:39+00:00",
+ "updated": "2026-11-23T01:44:47+00:00",
  "items": [
   {
-   "t": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
-   "s": "Am Samstag war der russische Frachter \"Sparta II\" in der Ostsee von einer Drohne getroffen worden und in Brand geraten. Laut finnischem Grenzschutz hat das Schiff Schlagseite, kann aber in russische Gewässer geschleppt werden.",
-   "u": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
+   "t": "US-Repräsentantenhaus: Demokraten so stark wie zuletzt 1992",
+   "s": "Die Demokraten haben ihre Mehrheit im US-Repräsentantenhaus weiter ausgebaut. Ab Januar stellen sie dort mindestens 258 Abgeordnete - zuletzt gelang ihnen dies vor mehr als 30 Jahren zu Zeiten von Bill Clinton.",
+   "u": "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-22T19:53:03+00:00"
+   "d": "2026-11-23T00:55:05+00:00"
   },
   {
    "t": "Explosion auf russischem Schiff in Libyen - Behörden vermuten Drohnenangriff",
    "s": "In einem Hafen der ostlibyschen Stadt Bengasi hat es eine Explosion auf einem russischen Kriegsschiff gegeben. Die Behörden gehen von einem Angriff mit Drohnen aus. Berichten zufolge wird die Ukraine verantwortlich gemacht.",
    "u": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-22T18:43:06+00:00"
+   "d": "2026-11-23T00:51:02+00:00"
+  },
+  {
+   "t": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
+   "s": "Am Samstag war der russische Frachter \"Sparta II\" in der Ostsee von einer Drohne getroffen worden und in Brand geraten. Laut finnischem Grenzschutz hat das Schiff Schlagseite, kann aber in russische Gewässer geschleppt werden.",
+   "u": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-22T19:53:03+00:00"
   },
   {
    "t": "Türkei: Tausende demonstrieren in Istanbul für Pressefreiheit",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-grossbritannien-abkommen-102.html",
    "q": "Tagesschau",
    "d": "2026-11-20T12:03:18+00:00"
-  },
-  {
-   "t": "Tote bei russischen Angriffen auf mehrere Brücken in Kiew",
-   "s": "Es ist eine Attacke ins Herz der ukrainischen Hauptstadt: Russland hat in Kiew erneut Brücken beschossen und beschädigt. Mehrere Menschen wurden getötet. Im Nachbarland Polen stürzten drei russische Flugobjekte ab.",
-   "u": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T11:47:44+00:00"
   }
  ]
 }
