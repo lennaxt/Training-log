@@ -1,13 +1,48 @@
 {
  "name": "Ausland",
- "updated": "2026-11-23T12:45:38+00:00",
+ "updated": "2026-11-24T02:13:53+00:00",
  "items": [
   {
-   "t": "Wer ist schuld am Scheitern des Klimagipfels?",
-   "s": "Die Klimakonferenz in Antalya ist nach zwei Wochen zäher Verhandlungen ohne Abschlusserklärung zu Ende gegangen. Woran lag das? Bei der Suche nach möglichen Schuldigen richtet sich der Blick auch auf die Doppelpräsidentschaft. Von Jakob Mayr.",
-   "u": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html",
+   "t": "Deutschland baut künftig ukrainische Drohnen",
+   "s": "Bereits im April hatten Deutschland und die Ukraine vereinbart, militärisch enger zusammenzuarbeiten - etwa beim Drohnenbau. Verteidigungsminister Pistorius wurde nun konkreter. Mit Blick auf mögliche russische Angriffspläne im All mahnte er zur Ruhe.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
    "q": "Tagesschau",
-   "d": "2026-11-23T10:42:23+00:00"
+   "d": "2026-11-24T01:46:30+00:00"
+  },
+  {
+   "t": "Haiti: El Salvadors Präsident Bukele wegen Militäreinsatz gefeiert",
+   "s": "In Haiti konnten auch internationale Missionen wenig an der grassierenden Gewalt ändern. Jetzt griff El Salvadors Präsident Bukele ein - mit mehreren Tausend Soldaten, ohne UN-Mandat. Und wird wie ein Volksheld gefeiert. Von J. Barke.",
+   "u": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T00:53:40+00:00"
+  },
+  {
+   "t": "Sanktionspaket: Keine Athleten mehr unter russischer Flagge",
+   "s": "Russische Sportlerinnen und Sportler sollen bei europäischen Wettkämpfen nicht mehr für ihr Land antreten dürfen - das hat die EU-Kommission vorgeschlagen. Weitere Sanktionen soll es in der Wirtschaft und im Energiesektor geben.",
+   "u": "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T17:23:33+00:00"
+  },
+  {
+   "t": "NATO-Tagung: Warnungen an Russland - \"werden uns verteidigen\"",
+   "s": "In Berlin endet die NATO-Jahrestagung mit einer deutlichen Warnung an Russland: Man sei bereit, jeden Fuß des NATO-Gebiets zu verteidigen. Auch zu den Berichten über russische Pläne von Atomwaffen im Weltraum äußerte sich Kanzler Merz.",
+   "u": "https://www.tagesschau.de/ausland/europa/merz-rutte-nato-104.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T16:57:55+00:00"
+  },
+  {
+   "t": "Istanbuler Polizei sucht nach streunender Löwin",
+   "s": "Ausnahmezustand in Istanbul: Eine Löwin streift im Norden der türkischen Metropole umher, Anwohner sollen in ihren Häusern bleiben. Die Polizei hat das Tier lokalisiert, doch woher kommt es?",
+   "u": "https://www.tagesschau.de/ausland/europa/loewe-istanbul-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T14:14:38+00:00"
+  },
+  {
+   "t": "Russisches Kriegsschiff versenkt: \"Für Russland ist Libyen eine Art Rückzugsort\"",
+   "s": "Die Ukraine hat ein russisches Kriegsschiff in Libyen versenkt. Damit ist in dem Krieg zum ersten Mal ein Hafen im Mittelmeer betroffen. In Libyen wächst die Sorge, in den Konflikt hineingezogen zu werden. Von M. Behrendt.",
+   "u": "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T13:34:43+00:00"
   },
   {
    "t": "\"Koalition der Willigen\" absolviert Militärübung in Polen",
@@ -15,13 +50,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
    "q": "Tagesschau",
    "d": "2026-11-23T10:30:31+00:00"
-  },
-  {
-   "t": "Umweltminister Schneider: Scheitern der COP31 kein Rückschlag für Klimaschutz",
-   "s": "Der XXL-Klimagipfel ist vorbei - ein Bekenntnis der fast 200 Staaten zum Klimaschutz gibt es nicht. Umweltminister Schneider sieht im Scheitern von Antalya aber auch eine gute Nachricht. Die Energiewende sei unumkehrbar - sagt auch China.",
-   "u": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-schneider-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T09:29:40+00:00"
   },
   {
    "t": "Ukraine bekennt sich zu Zerstörung von russischem Kriegsschiff",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html",
    "q": "Tagesschau",
    "d": "2026-11-21T08:14:03+00:00"
-  },
-  {
-   "t": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
-   "s": "Hacker sind Medienberichten zufolge in ein Zahlungssystem des US-Agrarministeriums und in eine Datenbank des FBI eingedrungen. Die Angriffe reihen sich in eine Serie von Systemausfällen und Technikpannen in den USA.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T06:51:20+00:00"
-  },
-  {
-   "t": "Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus",
-   "s": "Russland soll auf dänischem Boden einen Anschlag auf einen ukrainisch-amerikanischen Rapper geplant haben. Als Reaktion wurde ein russischer Diplomat ausgewiesen. Zwei Verdächtige sitzen in Untersuchungshaft.",
-   "u": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T21:28:00+00:00"
-  },
-  {
-   "t": "Großbritannien: Schuldsprüche in Vergewaltigungsprozess",
-   "s": "Der Fall erinnert an das Martyrium der Französin Gisèle Pelicot. Die Britin Joanne Young wurde über Jahre von ihrem Ehemann betäubt - und dann im Internet zur Vergewaltigung angeboten. Nun wurden vier Männer schuldig gesprochen. Von F. Hoppen.",
-   "u": "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T20:25:44+00:00"
-  },
-  {
-   "t": "Vergewaltigungsvorwurf: Anzeige gegen Depardieu und Houellebecq",
-   "s": "Gegen den Schauspieler Gérard Depardieu und den Schriftsteller Michel Houellebecq liegt eine neue Anzeige vor - es geht um den Vorwurf der Gruppenvergewaltigung. Laut einem Medienbericht geschah diese 2018 bei einem Filmdreh. Von C. Rienäcker.",
-   "u": "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T18:25:36+00:00"
   }
  ]
 }

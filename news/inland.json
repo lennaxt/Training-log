@@ -1,20 +1,146 @@
 {
  "name": "Inland",
- "updated": "2026-11-23T12:45:37+00:00",
+ "updated": "2026-11-24T02:13:52+00:00",
  "items": [
   {
-   "t": "Nachfolge von Aiwanger: Tobias Gotthardt wird Wirtschaftsminister",
-   "s": "Nach dem plötzlichen Tod von Bayerns Wirtschaftsminister Aiwanger soll Staatssekretär Gotthardt als Wirtschaftsminister folgen. Der Landesverband wird künftig von einer Doppelspitze geführt.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-gotthardt-100.html",
+   "t": "Haushaltsberatungen: Milliarden für die Falschen",
+   "s": "Der Haushalt für 2027 soll diese Woche vom Bundestag beschlossen werden. Doch Söder lenkt mit der kalten Progression von den eigentlichen Baustellen ab.",
+   "u": "https://taz.de/Haushaltsberatungen/!6232444/",
+   "q": "taz",
+   "d": "2026-11-23T18:44:00+00:00"
+  },
+  {
+   "t": "Debatte um Vanessa Emde: Ende für Emde?",
+   "s": "Am Dienstag könnte die Linksfraktion in Berlin die Abgeordnete Vanessa Emde ausschließen. Nicht nur in Berlin ist der Ausschluss umstritten.",
+   "u": "https://taz.de/Debatte-um-Linken-Abgeordnete-Ende-fuer-Emde-in-dieser-Woche/!6232078/",
+   "q": "taz",
+   "d": "2026-11-23T18:43:00+00:00"
+  },
+  {
+   "t": "Ukrainische Drohnen auf Nato-Gebiet: Nato verteidigt die Ostsee",
+   "s": "Nato-Chef Rutte und Kanzler Merz sprechen in Berlin über die Drohnenvorfälle in Finnland und Polen. Eine Eskalation in der Ostsee dürfe es nicht geben.",
+   "u": "https://taz.de/Ukrainische-Drohnen-auf-Nato-Gebiet/!6232448/",
+   "q": "taz",
+   "d": "2026-11-23T18:43:00+00:00"
+  },
+  {
+   "t": "Ukraine greift russische Schiffe an: So sieht „Krieg dem Krieg“ aus",
+   "s": "Drohnen zerstören russische Frachter mit Waffenladung vor Libyen und Finnland. Russlands Kriegsmaschine ist nirgends mehr sicher, so die ukrainische Botschaft.",
+   "u": "https://taz.de/Ukraine-greift-russische-Schiffe-an/!6227614/",
+   "q": "taz",
+   "d": "2026-11-23T18:42:00+00:00"
+  },
+  {
+   "t": "Taliban-Konsulat in Bonn: Schmutziger Deal",
+   "s": "Afghanen, die vor den Taliban geflohen sind arbeiten für diese in Deutschland. Schwerer wiegt, dass sich die Bundesregierung überhaupt auf Verhandlungen einlässt.",
+   "u": "https://taz.de/Taliban-Konsulat-in-Bonn/!6232446/",
+   "q": "taz",
+   "d": "2026-11-23T18:41:00+00:00"
+  },
+  {
+   "t": "Urteil im Vergewaltigungsfall Young: „Schweigen ist keine Option“",
+   "s": "Ein weiterer Pelicot-Fall: 13 Jahre lang wurde Joanne Young von ihrem Ehemann betäubt und zum Sex angeboten. Wir dürfen uns niemals an solche Fälle gewöhnen.",
+   "u": "https://taz.de/Urteil-im-Vergewaltigungsfall-Young/!6232406/",
+   "q": "taz",
+   "d": "2026-11-23T18:40:00+00:00"
+  },
+  {
+   "t": "Nachfolge von Hubert Aiwanger: Freie Wähler stellen sich breiter auf",
+   "s": "Hubert Aiwanger war die zentrale Führungsfigur der Freien Wähler: Landes- und Bundeschef, bayerischer Wirtschaftsminister und Vize-Ministerpräsident. Nach seinem Tod verteilt die Partei die Posten auf mehrere Schultern. Von P. Jerabek und R. Kirschner.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-freie-waehler-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-23T12:17:05+00:00"
+   "d": "2026-11-23T17:47:10+00:00"
+  },
+  {
+   "t": "Zwei Billionen Euro: Die EU streitet über ihr künftiges Budget",
+   "s": "Die EU verhandelt ihren künftigen Haushalt. Es geht um mehr Geld als bisher. Deutschland drängt auf Kürzung des Etats, andere Länder sprechen von Erpressung. Außerdem stehen 2027 Wahlen an. Können sich die 27 Mitgliedsstaaten rechtzeitig einigen?Küpper, Moritz",
+   "u": "https://www.deutschlandfunk.de/zwei-billionen-euro-die-eu-streitet-ueber-ihr-kuenftiges-budget-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-23T17:40:00+00:00"
+  },
+  {
+   "t": "Berechnung zur Rentenreform: Länger Vollzeit bringt Milliarden. Vielleicht",
+   "s": "Die Regierung diskutiert Einschränkungen der Altersteilzeit. Die Bertelsmann-Stiftung hat den Nutzen berechnet – und liefert Zahlen mit Fragezeichen.",
+   "u": "https://taz.de/Berechnung-zur-Rentenreform/!6232546/",
+   "q": "taz",
+   "d": "2026-11-23T17:09:00+00:00"
+  },
+  {
+   "t": "Proteste in Belgien: Vorweihnachtliches Chaos und eine Ermutigung vom König",
+   "s": "In Belgien gehen Tausende auf die Straße, um gegen den Regierungssparkurs zu protestieren. Der König lässt Premier de Wever wieder nicht aus dem Job.",
+   "u": "https://taz.de/Proteste-in-Belgien/!6232450/",
+   "q": "taz",
+   "d": "2026-11-23T16:55:00+00:00"
+  },
+  {
+   "t": "Polizei in Frankreich: Hitlergruß in Polizeischulen-Chats",
+   "s": "Im französischen Cannes-Ecluse teilten Polizeischüler rassistische Beleidigungen, sexistische Karikaturen und Nazi-Symbolik. Es ist einer von vielen Skandalen.",
+   "u": "https://taz.de/Polizei-in-Frankreich/!6232458/",
+   "q": "taz",
+   "d": "2026-11-23T16:55:00+00:00"
+  },
+  {
+   "t": "Haftbefehl gegen toten Milizenchef: Die Leiche liegt unter dem Vulkan",
+   "s": "Jahrelang suchte der Internationale Strafgerichtshof vergeblich nach Sylvestre Mudacumura, Militärchef der FDLR-Miliz im Kongo. Er ist längst tot.",
+   "u": "https://taz.de/Haftbefehl-gegen-toten-Milizenchef/!6232509/",
+   "q": "taz",
+   "d": "2026-11-23T16:54:00+00:00"
+  },
+  {
+   "t": "Pressefreiheit in der Türkei: İsmail Arı schreibt gegen die Einschüchterung an",
+   "s": "Der türkische Investigativjournalist İsmail Arı schreibt über Vetternwirtschaft und Korruption. Nun kam er zum zweiten Mal aus dem Gefängnis frei.",
+   "u": "https://taz.de/Pressefreiheit-in-der-Tuerkei/!6232459/",
+   "q": "taz",
+   "d": "2026-11-23T16:51:00+00:00"
+  },
+  {
+   "t": "Musiala und der FC Bayern - Kann man so mit einem Spieler umgehen?",
+   "s": "Die Bayern-Bosse fordern ihren kranken Hoffnungsträger Jamal Musiala öffentlich zum Gehaltsverzicht auf. Ein Tabubruch oder nur die Schattenseite des Profifußballs? Und: Keine Abschlusserklärung bei der Klimakonferenz. Was dennoch Hoffnung macht.Philipp May",
+   "u": "https://www.deutschlandfunk.de/musiala-fc-bayern-cop-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-23T16:00:00+00:00"
+  },
+  {
+   "t": "Freie Wähler: Aiwangers Erben übernehmen",
+   "s": "Mit Hubert Aiwanger haben die Freien Wähler ihr Gesicht verloren. Jetzt haben sie seine Nachfolger bestimmt. Doch eine spannende Frage blieb offen.",
+   "u": "https://taz.de/Freie-Waehler/!6232569/",
+   "q": "taz",
+   "d": "2026-11-23T15:33:00+00:00"
+  },
+  {
+   "t": "Nach Tod von Hubert Aiwanger: Bayerns Digitalminister soll neuer Freie-Wähler-Chef werden",
+   "s": "Nach dem plötzlichen Tod ihres langjährigen Chefs sortieren sich die Freien Wähler neu. Doch reicht das, um Aiwangers riesige Lücke zu füllen?",
+   "u": "https://taz.de/Nach-Tod-von-Hubert-Aiwanger/!6232511/",
+   "q": "taz",
+   "d": "2026-11-23T14:47:00+00:00"
   },
   {
    "t": "Bombendrohungen an Hunderten Schulen bundesweit",
    "s": "Freiburg, Erfurt oder Hamburg: Hunderte Schulen im ganzen Land haben Drohschreiben bekommen. Mehrere Schulen wurden vorsorglich geräumt. Laut verschiedenen Polizeibehörden gibt es aber keine Hinweise auf eine konkrete Gefahr.",
    "u": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html",
    "q": "Tagesschau",
-   "d": "2026-11-23T11:55:42+00:00"
+   "d": "2026-11-23T14:13:20+00:00"
+  },
+  {
+   "t": "Ukraine versenkt Schiff vor Libyen: „Exemplarische Operation“ gegen Russlands Kriegsmaschine",
+   "s": "Die Ukraine bekennt sich zu einem Drohnenangriff auf russische Schiffe in Bengasi. Eine Korvette wird versenkt, mindestens ein Frachter getroffen.",
+   "u": "https://taz.de/Ukraine-versenkt-Schiff-vor-Libyen/!6232425/",
+   "q": "taz",
+   "d": "2026-11-23T13:58:00+00:00"
+  },
+  {
+   "t": "Handyverbot in dänischen Schulen: Bis zur 10. Klasse ohne Smartphone",
+   "s": "Viele dänische Kinder verbringen zu viel Zeit vor Bildschirmen. Deshalb sollen ab dem kommenden Schuljahr Smartphones bis zur 10. Klasse tabu sein.",
+   "u": "https://taz.de/Handyverbot-in-daenischen-Schulen/!6232505/",
+   "q": "taz",
+   "d": "2026-11-23T12:52:00+00:00"
+  },
+  {
+   "t": "Nachfolge von Aiwanger: Tobias Gotthardt wird Wirtschaftsminister",
+   "s": "Nach dem plötzlichen Tod von Bayerns Wirtschaftsminister Aiwanger soll Staatssekretär Gotthardt als Wirtschaftsminister folgen. Der Landesverband wird künftig von einer Doppelspitze geführt.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-gotthardt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T12:17:05+00:00"
   },
   {
    "t": "Wie Tabaklobby und Politik ums Rauchen ringen",
@@ -43,132 +169,6 @@
    "u": "https://www.tagesschau.de/inland/nato-versammlung-berlin-100.html",
    "q": "Tagesschau",
    "d": "2026-11-23T09:14:40+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Ukraine bestätigt Angriff auf russisches Schiff",
-   "s": "Der ukrainische Präsident Selenskyj bestätigt den Angriff auf ein russisches Kriegsschiff vor Libyen. Russland will wohl Atomwaffe im All vorbereiten.",
-   "u": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6232378/",
-   "q": "taz",
-   "d": "2026-11-23T08:27:00+00:00"
-  },
-  {
-   "t": "Im Rentenstreit deutet sich ein Kompromiss an",
-   "s": "Die Union möchte die sogenannte Rente mit 63 am liebsten abschaffen, die SPD will sie behalten. Doch es deutet sich ein Abrücken von diesen Maximalforderungen an. Noch verhandelt Arbeitsminister Schweitzer mit der Union über die Knackpunkte.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/rente-koalition-soeder-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T07:11:48+00:00"
-  },
-  {
-   "t": "BND-Reform: Dürfen Geheimdienste Therapiegespräche abhören?",
-   "s": "Nachrichtendienste bekommen mehr Befugnisse: Das betrifft auch Jour­na­lis­t:in­nen und Psychotherapeut:innen. Was sich für diese jetzt ändern könnte.",
-   "u": "https://taz.de/Reform-der-Geheimdienste-Darf-das-Gespraech-beim-Psychotherapeuten-abgehoert-werden/!6231059/",
-   "q": "taz",
-   "d": "2026-11-23T06:04:00+00:00"
-  },
-  {
-   "t": "Digitalisierung hilft im Kampf gegen Finanzkriminalität",
-   "s": "Mit einem Aktionsplan mit 26 Maßnahmen soll die Finanzkriminalität in Deutschland bekämpft werden. Florian Köbler von der Deutschen Steuergewerkschaft schlägt zudem automatisierte Steuererklärungen vor. Und das hat einen bestimmten Grund.Heinemann, Christoph",
-   "u": "https://www.deutschlandfunk.de/runder-tisch-finanzkriminalitaet-interview-florian-koebler-steuergewerkschaft-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-23T05:46:19+00:00"
-  },
-  {
-   "t": "EU-Forderungen an Großbritannien: Kleingeist statt strategisches Denken",
-   "s": "Die EU macht ihr neues Abkommen mit Großbritannien von Vorzugsbehandlung bei britischen Studiengebühren abhängig. Sie verkennt die Zeichen der Zeit.",
-   "u": "https://taz.de/EU-und-Grossbritannien-nach-dem-Brexit-Fatale-Kleingeistigkeit-wegen-Studiengebuehren/!6232202/",
-   "q": "taz",
-   "d": "2026-11-22T19:33:00+00:00"
-  },
-  {
-   "t": "Streit um Staatshaushalt in Brasilien: Lula beim Wort genommen",
-   "s": "Studierende demonstrieren gegen die von der Regierung Lula geplante Haushaltsanpassung. Er hatte versprochen, stärker auf das Volk hören zu wollen.",
-   "u": "https://taz.de/Streit-um-Staatshaushalt-in-Brasilien/!6232287/",
-   "q": "taz",
-   "d": "2026-11-22T19:32:00+00:00"
-  },
-  {
-   "t": "Geheimdienste und linke Szene: „Das erste Ziel von Überwachung ist Einschüchterung“",
-   "s": "Der Verfassungsschutz hat neue Möglichkeiten Ak­ti­vis­t:in­nen auszuspähen. Was diese jetzt tun sollten, erklärt die Digitale Gesellschaft.",
-   "u": "https://taz.de/Geheimdienste-und-linke-Szene/!6230809/",
-   "q": "taz",
-   "d": "2026-11-22T19:31:00+00:00"
-  },
-  {
-   "t": "Wie die Klimakonferenz in der Türkei vor die Wand fuhr",
-   "s": "Nach Verhandlungen mit historischer Überlänge ist die Weltklimakonferenz in Antalya ohne Einigung zu Ende gegangen. Wie konnte es so weit kommen und wie wirkt sich das auf die internationale Klimapolitik aus?Ann-Kathrin Büüsker, Annabell Brockhues, Katharina Thoms",
-   "u": "https://www.deutschlandfunk.de/klimakonferenz-cop-tuerkei-scheitern-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-22T19:30:30+00:00"
-  },
-  {
-   "t": "Zwangsräumungen im Jahr 2025: Rechnet sich Deutschland die Wohnungskrise klein?",
-   "s": "Zwangsräumungen sind laut Bundesamt für Justiz im vergangenen Jahr deutlich gesunken. Die Statistik lässt allerdings Fragen aufkommen.",
-   "u": "https://taz.de/Zwangsraeumungen-im-Jahr-2025/!6232333/",
-   "q": "taz",
-   "d": "2026-11-22T19:25:00+00:00"
-  },
-  {
-   "t": "Verschärfung des Mordparagrafen: Hubig macht Tempo",
-   "s": "Die Vorstöße der Justizministerin für besseren Schutz von Frauen gehen in die richtige Richtung. Die Gesetze können Leben retten.",
-   "u": "https://taz.de/Verschaerfung-des-Mordparagrafen/!6232207/",
-   "q": "taz",
-   "d": "2026-11-22T19:25:00+00:00"
-  },
-  {
-   "t": "TK-Chef Baas: Mehr Geld schafft keine Arzttermine",
-   "s": "Schneller zum Facharzt gegen Bezahlung? Die Einschätzung von Kassenärzte-Chef Gassen hat Kritik ausgelöst. Mehr Geld löse das Problem nicht, sagt TK-Chef Baas im Bericht aus Berlin - und fordert stattdessen ein grundlegend neues System.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T19:24:22+00:00"
-  },
-  {
-   "t": "Prien verurteilt Angriff auf FDP-Politikerin Preisler bei Demo",
-   "s": "Zwei Frauen sollen die Berliner FDP-Politikerin Preisler am Rande einer pro-palästinensischen Demonstration geschubst und getreten haben. Bundesfamilienministerin Prien kritisiert das scharf. Von Mario Kubina.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T17:36:50+00:00"
-  },
-  {
-   "t": "Migrationspolitik in Dänemark: Mette Frederiksen nutzt Kampfbegriff von Rechtsextremen",
-   "s": "Die für ihre rigide Migrationspolitik bekannte sozialdemokratische Regierungschefin legt rhetorische Vorsicht ab und erntet Beifall von Identitären.",
-   "u": "https://taz.de/Migrationspolitik-in-Daenemark/!6232289/",
-   "q": "taz",
-   "d": "2026-11-22T17:11:00+00:00"
-  },
-  {
-   "t": "Augenzeugenbericht aus der Region Kyjiw: Plötzlich heulen über ganz Dymer die Sirenen",
-   "s": "Eine russische Drohne zerstört Teile eines Wohnblocks, unter Betonplatten sind Menschen eingeklemmt. Während der Rettung beginnt der nächste Angriff.",
-   "u": "https://taz.de/Augenzeugenbericht-aus-der-Region-Kyjiw/!6232344/",
-   "q": "taz",
-   "d": "2026-11-22T17:10:00+00:00"
-  },
-  {
-   "t": "Tötung von Frauen: Kein Mitleid mehr mit den Tätern",
-   "s": "Im Mordparagrafen sollen künftig „geschlechtsspezifische Beweggründe“ verankert werden. Damit will die Justizministerin milde Urteile aus der Vergangenheit verhindern.",
-   "u": "https://taz.de/Toetung-von-Frauen/!6232246/",
-   "q": "taz",
-   "d": "2026-11-22T17:08:00+00:00"
-  },
-  {
-   "t": "Ungarn, Serbien, USA: Rechtspopulisten im Gegenwind",
-   "s": "Bei mehreren Wahlen haben zuletzt demokratische Kräfte gegen autoritäre Populisten gewonnen. Politologe Michael Zürn sieht darin ein wichtiges Signal, warnt aber vor überzogenem Optimismus.Führer, Susanne",
-   "u": "https://www.deutschlandfunk.de/rechtspopulisten-verlieren-ist-die-krise-der-demokratie-ueberstanden-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-22T16:05:00+00:00"
-  },
-  {
-   "t": "Regierungsbildung in Israel: Kehrtwende beim „Block des Wandels“",
-   "s": "Der Oppositionsblock um Gadi Eisenkot trifft sich nun doch zu Gesprächen mit Netanjahus Likud. Wird es am Ende eine Einheitsregierung geben?",
-   "u": "https://taz.de/Regierungsbildung-in-Israel/!6232281/",
-   "q": "taz",
-   "d": "2026-11-22T15:44:00+00:00"
-  },
-  {
-   "t": "Gelbwesten und Gen Z: Gemeinsam genug von Macron",
-   "s": "Die Protestwelle in Frankreich, ausgelöst durch Schulblockaden, hat auch die Gelbwesten zurückgebracht. Was eint Schüler- und Spritpreis-Bewegung?",
-   "u": "https://taz.de/Gelbwesten-und-Gen-Z/!6232270/",
-   "q": "taz",
-   "d": "2026-11-22T15:10:00+00:00"
   }
  ]
 }

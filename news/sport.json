@@ -1,7 +1,21 @@
 {
  "name": "Sport",
- "updated": "2026-11-23T12:45:45+00:00",
+ "updated": "2026-11-24T02:13:58+00:00",
  "items": [
+  {
+   "t": "Pressefreiheit in der Türkei: İsmail Arı schreibt gegen die Einschüchterung an",
+   "s": "Der türkische Investigativjournalist İsmail Arı schreibt über Vetternwirtschaft und Korruption. Nun kam er zum zweiten Mal aus dem Gefängnis frei.",
+   "u": "https://taz.de/Pressefreiheit-in-der-Tuerkei/!6232459/",
+   "q": "taz",
+   "d": "2026-11-23T16:51:00+00:00"
+  },
+  {
+   "t": "Verlorene Marktanteile zurückgewinnen: Hoffnung für die Lederindustrie",
+   "s": "In Jalandhars Lederindustrie sorgen die Aussichten des Freihandelsabkommens mit der EU sowie eine modernisierte Kläranlage für Optimismus.",
+   "u": "https://taz.de/Verlorene-Marktanteile-zurueckgewinnen/!6224694/",
+   "q": "taz",
+   "d": "2026-11-23T15:00:00+00:00"
+  },
   {
    "t": "Sprachenvielfalt und Übersetzungen: „In Indien fehlt die Infrastruktur zum Deutschlernen“",
    "s": "Literaturübersetzungen bieten Einblicke in andere Kulturen und bereichern unser Verständnis, sagt die frühere Deutschprofessorin Sunanda Mahajan.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Schattenspiele-in-Indonesien/!6229775/",
    "q": "taz",
    "d": "2026-11-13T14:12:00+00:00"
-  },
-  {
-   "t": "Regime in Myanmar ist sauer auf Berlin: Diplomatischer Eklat um politische Geburtstagsgrüße",
-   "s": "Myanmars Junta legt Deutschlands Geschäftsträger die Ausreise nahe. Der Grund: Kritik am Regime zum 75. Geburtstag des gestürzten Präsidenten.",
-   "u": "https://taz.de/Regime-in-Myanmar-ist-sauer-auf-Berlin/!6229184/",
-   "q": "taz",
-   "d": "2026-11-11T15:22:00+00:00"
-  },
-  {
-   "t": "Parlamentswahl in Neuseeland: Vorübergehende Pattsituation",
-   "s": "Die Wahl hat keine eindeutige Mehrheit hervorgebracht. Entscheidend werden kleinere Parteien und die noch auszuzählenden Auslandsstimmen sein.",
-   "u": "https://taz.de/Parlamentswahl-in-Neuseeland/!6228377/",
-   "q": "taz",
-   "d": "2026-11-08T11:47:00+00:00"
   }
  ]
 }

@@ -1,13 +1,55 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-23T12:45:39+00:00",
+ "updated": "2026-11-24T02:13:54+00:00",
  "items": [
   {
-   "t": "Marktbericht: Dem DAX gelingt eine Erholung - vorerst",
-   "s": "Nach dem Kursrutsch beim DAX von 2.000 Punkten in gut einer Woche setzt eine Erholung ein. Doch sie steht auf wackligen Beinen. Viele Negativ-Faktoren begleiten Investoren weiter. Die Stimmung bleibt verhalten.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-wacklig-nach-kursrutsch-100.html",
+   "t": "Mehr Stromspar-Checks für Haushalte mit wenig Geld geplant",
+   "s": "Die Finanzierung des Stromspar-Checks ist für weitere drei Jahre gesichert. Damit können sich Haushalte mit geringem Einkommen kostenlos beraten lassen und Zuschüsse bekommen. Die wichtigsten Fragen und Antworten.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-23T11:49:55+00:00"
+   "d": "2026-11-23T20:11:45+00:00"
+  },
+  {
+   "t": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
+   "s": "Dieser Rücktritt war von kurzer Dauer: Jensen Huang soll zurück an die Spitze des US-Konzerns Nvidia. Präsident Trump rühmt sich damit, Einfluss genommen zu haben. Doch das könnte noch Ärger geben.",
+   "u": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T19:07:24+00:00"
+  },
+  {
+   "t": "Marktbericht: Huang-Rückkehr lässt Aktienkurse steigen",
+   "s": "Der DAX erholt sich von seinem jüngsten Kursrutsch zunächst nur zaghaft. Doch dann sorgt die Nachricht von der Rückkehr des Nvidia-Chefs für Kurssprünge bei KI-Werten und an den Börsen weltweit.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T17:07:35+00:00"
+  },
+  {
+   "t": "Nvidia setzt Jensen Huang wieder als Chef ein",
+   "s": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Tagen wegen eines Spionageskandals zurückgetreten.",
+   "u": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T15:18:29+00:00"
+  },
+  {
+   "t": "OBI und Toom wollen fusionieren",
+   "s": "Die Baumarktketten OBI und Toom wollen sich zusammenschließen und ihre mehr als 600 Märkte unter einem Dach vereinen. Die Marke Toom soll wegfallen. Das Bundeskartellamt muss der Fusion noch zustimmen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/obi-toom-fusion-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T15:09:32+00:00"
+  },
+  {
+   "t": "KI-Pioniere streiten über die Risiken",
+   "s": "Wie groß sind die Gefahren Künstlicher Intelligenz? Eine neue ARD-Dokumentation zeigt, wie gegensätzlich die Positionen von KI-Experten sind - auch bei Wissenschaftlern, die der Technologie den Weg bereitet haben. Von Philipp Grüll.",
+   "u": "https://www.tagesschau.de/wissen/ki-letzte-erfindung-der-menschheit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T14:42:41+00:00"
+  },
+  {
+   "t": "Nachfrage nach MINT-Fachkräften steigt wieder",
+   "s": "Die bessere konjunkturelle Lage macht sich auch auf dem Arbeitsmarkt bemerkbar. Die Nachfrage nach Arbeitskräften mit MINT-Kompetenzen steigt erstmals seit 2023 wieder. Das zeigt ein Bericht, der dem ARD-Hauptstadtstudio vorliegt. Von M. Rödle.",
+   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mint-fachkraefte-steigende-nachfrage-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T14:41:00+00:00"
   },
   {
    "t": "Wie Tabaklobby und Politik ums Rauchen ringen",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
    "q": "Tagesschau",
    "d": "2026-11-21T20:17:57+00:00"
-  },
-  {
-   "t": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
-   "s": "Ab Januar soll der Preisdeckel für Benzin und Diesel gelten. Wirtschaftsministerin Reiche plant offenbar, Autobahntankstellen davon ausnehmen. Ihr neuer Gesetzentwurf ist noch in der Abstimmung zwischen den Ministerien.",
-   "u": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T15:55:59+00:00"
-  },
-  {
-   "t": "Im Streit über EU-Budget legt Costa Kompromiss vor",
-   "s": "Die EU-Staaten ringen um einen neuen Budgetplan. Jetzt legt Ratspräsident Costa einen Kompromiss vor. Die Zeit wird langsam knapp: Bis Jahresende soll eine Einigung erzielt werden.",
-   "u": "https://www.tagesschau.de/wirtschaft/digitales/digitalsteuer-streit-eu-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T15:01:28+00:00"
-  },
-  {
-   "t": "Nach Kühnes Tod: Kontinuität und Aufarbeitung bei Kühne+Nagel",
-   "s": "Der im Sommer verstorbene Klaus-Michael Kühne war einer der prägendsten Unternehmer der deutschen Nachkriegsgeschichte. Sein Umgang mit der Vergangenheit seines Imperiums war umstritten. Was wird daraus? Von Sandra Biegger.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T12:36:54+00:00"
-  },
-  {
-   "t": "\"Altersvorsorgedepot für nahezu alle Riester-Sparer interessant\"",
-   "s": "Die Bundesregierung stellt die Altersvorsorge ab dem kommenden Jahr neu auf. Die staatliche Förderung könnte beim neuen Altersvorsorgedepot für viele lukrativer sein als beim bisherigen \"Riestern\". Das sollte man beachten. Von P. Sauer.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T10:20:52+00:00"
-  },
-  {
-   "t": "Altersvorsorgedepot: Staatlich organisierter Fonds nicht startklar",
-   "s": "Zum Jahreswechsel startet das neue Modell der staatlichen Altersvorsorge, das Altersvorsorgedepot. Private Angebote gibt es längst - doch das öffentlich organisierte Basis-Fondsangebot wird dann wohl noch nicht bereit sein.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T10:16:17+00:00"
-  },
-  {
-   "t": "Wirtschaft vor acht vom 20.11.2026",
-   "s": "Wirtschaft vor acht vom 20.11.2026",
-   "u": "https://www.tagesschau.de/video/video-1687280.html",
-   "q": "Tagesschau",
-   "d": "2026-11-20T19:10:55+00:00"
   }
  ]
 }
