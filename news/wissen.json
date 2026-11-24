@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-11-24T02:13:54+00:00",
+ "updated": "2026-11-24T13:44:45+00:00",
  "items": [
+  {
+   "t": "Drei Supermonde in Folge: Was macht einen Mond super?",
+   "s": "Heute geht es los: Bei drei Vollmonden - im November, Dezember und Januar - wird der Mond der Erde besonders nahe sein. Das macht sie zu sogenannten Supermonden. Was genau steckt dahinter? Von Heike Westram.",
+   "u": "https://www.tagesschau.de/wissen/weltraum/drei-supermonde-hintereinander-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T12:55:34+00:00"
+  },
   {
    "t": "Wälder haben wichtigen Kühleffekt",
    "s": "Wenn es im Sommer heiß wird, kühlen Wälder die Umgebung. Je höher die Temperaturen, desto stärker ist dieser Effekt. An heißen Tagen mit 29 Grad waren die Wälder im Schnitt 3,7 Grad kühler. Doch Deutschlands Wälder sind in Gefahr.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/cop-in-antalya-beginnt-100.html",
    "q": "Tagesschau",
    "d": "2026-11-09T03:59:05+00:00"
-  },
-  {
-   "t": "EU-Dienst Copernicus: 1,5-Grad-Marke wird 2026 wohl überschritten",
-   "s": "Kurz vor der Klimakonferenz COP31 in Antalya gibt es ernüchternde Zahlen: Das 1,5-Grad-Ziel wird 2026 laut EU-Dienst Copernicus höchstwahrscheinlich überschritten. Der Oktober war zudem der wärmste seit Beginn der Aufzeichnungen.",
-   "u": "https://www.tagesschau.de/wissen/klima/copernicus-klimakrise-1komma5-grad-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-06T13:02:07+00:00"
   }
  ]
 }

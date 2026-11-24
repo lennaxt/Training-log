@@ -1,7 +1,77 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-24T02:13:54+00:00",
+ "updated": "2026-11-24T13:44:44+00:00",
  "items": [
+  {
+   "t": "\"GTA VI\": Arbeitskampf hinter dem größten Videospiel der Welt",
+   "s": "Elf Jahre arbeitete Jordan Garland für das \"GTA\"-Studio Rockstar Games, dann wurde er plötzlich entlassen. Als Grund vermutet er seine Mitgliedschaft in einer Gewerkschaft. Das Unternehmen hält dagegen. Von Ilyass Alaoui.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/gta-6-104.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T13:42:43+00:00"
+  },
+  {
+   "t": "Lehrstellen bleiben frei – und trotzdem finden Jugendliche keinen Platz",
+   "s": "Zehntausende Ausbildungsplätze bleiben unbesetzt, während ebenso viele junge Menschen keine Stelle finden. Warum kommen Betriebe und Bewerber nicht zusammen?",
+   "u": "https://www.deutschlandfunk.de/lehrstellen-frei-jugendliche-finden-keinen-ausbildungsplatz-mismatch-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-24T12:50:00+00:00"
+  },
+  {
+   "t": "Wie das VW-Vorzeigewerk Zwickau in die Krise geriet",
+   "s": "Einst sollte Zwickau die Zukunft der deutschen Autoindustrie verkörpern. Heute ist die Zukunft des VW-Werks ungewiss - und eine ganze Region in Sorge. Wie konnte es dazu kommen? Von Cezary Bazydło.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-werk-zwickau-zukunft-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T11:49:57+00:00"
+  },
+  {
+   "t": "Rückkehr von Nvidia-Chef – Vertane Chance für einen Neuanfang",
+   "s": "Die Rückkehr von Jensen Huang an die Spitze des Chipherstellers Nvidia zeigt, dass der Verhaltenskodex zwar für die Beschäftigten, nicht aber für den Mann an der Spitze gilt. Die Chance für einen Neuanfang ohne Personenkult ist damit vertan.Von Mischa Ehrhardt",
+   "u": "https://www.deutschlandfunk.de/kommentar-nvidia-chef-rueckkehr-vertane-chance-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-24T11:10:00+00:00"
+  },
+  {
+   "t": "Ifo-Index steigt: \"Erholung der deutschen Wirtschaft kommt voran\"",
+   "s": "In der deutschen Wirtschaft nimmt der Aufschwung weiter Fahrt auf: Die Stimmung hat sich im November den siebten Monat in Folge verbessert. Der ifo-Index erreichte sogar den höchsten Stand seit dem Frühjahr 2023.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T10:28:45+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX nach Kursrausch zurück im Alltag",
+   "s": "Nach der Euphorie zum Wochenstart fällt der DAX im frühen Handel zurück. War der Nvidia-Rausch nur ein Strohfeuer? Positive Konjunktursignale kommen heute vom ifo-Geschäftsklimaindex.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T09:31:50+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 24.11.2026",
+   "s": "Update Wirtschaft vom 24.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1688878.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T08:47:49+00:00"
+  },
+  {
+   "t": "Rückkehr von Nvidia-Chef: \"Nie dagewesenes Verwischen von Grenzen\"",
+   "s": "Eine Rückkehr von Jensen Huang an die Spitze des Chipherstellers Nvidia haben die Wenigsten erwartet. Die Suche nach den Gründen des Comebacks führt bis zur Spitze der US-Regierung. Das kritisieren nicht nur die Demokraten. Von Antje Sieb.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-trump-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T07:55:06+00:00"
+  },
+  {
+   "t": "Nvidia-Skandal: US-Regierung setzt Megaspeed auf schwarze Liste",
+   "s": "Die Firma Megaspeed erlangte innerhalb kurzer Zeit weltweite Aufmerksamkeit. Grund war die Affäre von Nvidia-Chef Huang mit einer früheren Managerin des Unternehmens, die der Spionage verdächtigt wird. Nun landete Megaspeed auf einer US-Sperrliste.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/megaspeed-us-regierung-sperrliste-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T07:42:34+00:00"
+  },
+  {
+   "t": "VW-Tarifrunde beginnt in Emden - wo die Streitpunkte liegen",
+   "s": "Mitten in der tiefsten Krise der Konzerngeschichte startet heute die Tarifrunde für rund 120.000 Volkswagen-Beschäftigte. Das Management will Kosten senken, die IG Metall wehrt sich gegen weitere Einbußen. Von T. Hildebrandt.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifrunde-emden-auftakt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T05:04:00+00:00"
+  },
   {
    "t": "Mehr Stromspar-Checks für Haushalte mit wenig Geld geplant",
    "s": "Die Finanzierung des Stromspar-Checks ist für weitere drei Jahre gesichert. Damit können sich Haushalte mit geringem Einkommen kostenlos beraten lassen und Zuschüsse bekommen. Die wichtigsten Fragen und Antworten.",
@@ -17,25 +87,11 @@
    "d": "2026-11-23T19:07:24+00:00"
   },
   {
-   "t": "Marktbericht: Huang-Rückkehr lässt Aktienkurse steigen",
-   "s": "Der DAX erholt sich von seinem jüngsten Kursrutsch zunächst nur zaghaft. Doch dann sorgt die Nachricht von der Rückkehr des Nvidia-Chefs für Kurssprünge bei KI-Werten und an den Börsen weltweit.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T17:07:35+00:00"
-  },
-  {
    "t": "Nvidia setzt Jensen Huang wieder als Chef ein",
    "s": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Tagen wegen eines Spionageskandals zurückgetreten.",
    "u": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
    "q": "Tagesschau",
    "d": "2026-11-23T15:18:29+00:00"
-  },
-  {
-   "t": "OBI und Toom wollen fusionieren",
-   "s": "Die Baumarktketten OBI und Toom wollen sich zusammenschließen und ihre mehr als 600 Märkte unter einem Dach vereinen. Die Marke Toom soll wegfallen. Das Bundeskartellamt muss der Fusion noch zustimmen.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/obi-toom-fusion-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T15:09:32+00:00"
   },
   {
    "t": "KI-Pioniere streiten über die Risiken",
@@ -87,20 +143,6 @@
    "d": "2026-11-23T09:29:40+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 23.11.2026",
-   "s": "Update Wirtschaft vom 23.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1688296.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T09:17:45+00:00"
-  },
-  {
-   "t": "Im Rentenstreit deutet sich ein Kompromiss an",
-   "s": "Die Union möchte die sogenannte Rente mit 63 am liebsten abschaffen, die SPD will sie behalten. Doch es deutet sich ein Abrücken von diesen Maximalforderungen an. Noch verhandelt Arbeitsminister Schweitzer mit der Union über die Knackpunkte.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/rente-koalition-soeder-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T07:11:48+00:00"
-  },
-  {
    "t": "Neue Warnstreiks in Metall- und Elektroindustrie angelaufen",
    "s": "In der Metall- und Elektroindustrie in Norddeutschland läuft seit der Nacht der nächste Warnstreik. Vielerorts sind die Tarifverhandlungen festgefahren. Die Gewerkschaft IG Metall fordert fünf Prozent mehr Gehalt.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/kommentar/weltklimakonferenz-cop31-scheitern-100.html",
    "q": "Tagesschau",
    "d": "2026-11-22T16:08:20+00:00"
-  },
-  {
-   "t": "Gebrauchte Elektroautos: Alternative oder Schrott?",
-   "s": "Elektroautos sind gefragter denn je - auch angesichts steigender Kraftstoffpreise. Mit Verzögerung zeigt sich der Boom nun bei Gebrauchtwagenhändlern, allerdings mit Einschränkungen. Von Jörn Kersten.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T15:36:15+00:00"
-  },
-  {
-   "t": "Weltklimakonferenz COP31: Keine Einigung auf Abschlusserklärung",
-   "s": "Die Teilnehmer der Weltklimakonferenz im türkischen Antalya haben sich nicht auf eine gemeinsame Abschlusserklärung einigen können. An dem Papier gab es unter anderem von Deutschland und der EU scharfe Kritik.",
-   "u": "https://www.tagesschau.de/wissen/klima/klimakonferenz/weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T15:30:18+00:00"
-  },
-  {
-   "t": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
-   "s": "Einzelaktien bieten etwas, was ein Welt-ETF kaum kann: Die Chance darauf, das Depot individueller zu gestalten und höhere Renditen zu erzielen. Gleichzeitig sind sie riskanter, zeitintensiver und komplexer. Von L.-M. Hiltscher und J. Bartlitz.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T10:25:29+00:00"
-  },
-  {
-   "t": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
-   "s": "Bundesweit hatten am Freitag Beschäftigte der Metall- und Elektroindustrie ihre Arbeit niedergelegt. Im Norden will die IG Metall Küste jetzt nachlegen: Nochmal soll für 24 Stunden gestreikt werden - teils schon ab heute Abend.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T03:50:01+00:00"
-  },
-  {
-   "t": "Scheitert die UN-Klimakonferenz in Antalya?",
-   "s": "Dass eine Weltklimakonferenz pünktlich endet, passiert praktisch nie. Auch die COP31 in Antalya ist schon seit mehr als 24 Stunden in der Verlängerung. Droht ein Rückfall bei den Klimazielen - oder sogar ein Scheitern?",
-   "u": "https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-haengepartie-abschlusserklaerung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T20:21:36+00:00"
-  },
-  {
-   "t": "EU und Indonesien unterzeichnen Freihandelsabkommen",
-   "s": "Fast zehn Jahre haben die Verhandlungen gedauert: Nun haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Davon könnte auch die Autobranche profitieren.",
-   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T20:17:57+00:00"
   }
  ]
 }

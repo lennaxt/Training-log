@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-11-24T02:13:57+00:00",
+ "updated": "2026-11-24T13:44:48+00:00",
  "items": [
+  {
+   "t": "Friedensgericht in Kolumbien: Von Tätern und Vergebung",
+   "s": "Kolumbianische Soldaten ermordeten Tausende Zivilist*innen. Einer der Täter trifft Jahre später auf den Sohn einer Frau, die er erschossen hat.",
+   "u": "https://taz.de/Friedensgericht-in-Kolumbien/!6232541/",
+   "q": "taz",
+   "d": "2026-11-24T08:11:00+00:00"
+  },
   {
    "t": "Streit um Staatshaushalt in Brasilien: Lula beim Wort genommen",
    "s": "Studierende demonstrieren gegen die von der Regierung Lula geplante Haushaltsanpassung. Er hatte versprochen, stärker auf das Volk hören zu wollen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Papstbesuch-in-Peru/!6229582/",
    "q": "taz",
    "d": "2026-11-12T17:24:00+00:00"
-  },
-  {
-   "t": "Papst Leo XIV. in Südamerika: Begrenzte Empathie",
-   "s": "Bei seinem Besuch in Argentinien fordert der Papst mehr Gerechtigkeit. Für andere Religionen hat die katholische Kirche kein Verständnis.",
-   "u": "https://taz.de/Papst-Leo-XIV-in-Suedamerika/!6229422/",
-   "q": "taz",
-   "d": "2026-11-12T13:16:00+00:00"
   }
  ]
 }

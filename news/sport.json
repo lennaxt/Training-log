@@ -1,7 +1,28 @@
 {
  "name": "Sport",
- "updated": "2026-11-24T02:13:58+00:00",
+ "updated": "2026-11-24T13:44:49+00:00",
  "items": [
+  {
+   "t": "Alarm in Südkorea: Russische Militärflugzeuge am Rand des Luftraums",
+   "s": "Erst dachte Südkorea, dass die Flugzeuge kurz vor dem nationalen Luftraum nordkoreanisch seien. Kurz darauf wurden sie als russisch identifiziert.",
+   "u": "https://taz.de/Alarm-in-Suedkorea/!6232670/",
+   "q": "taz",
+   "d": "2026-11-24T08:10:00+00:00"
+  },
+  {
+   "t": "Diplomatie im Himalaja: Nepals Balanceakt zwischen Indien und China",
+   "s": "Premier Balendra Shah erhält bei seinem ersten bilateralen Staatsbesuch in Indien große Hilfszusagen. Doch Kathmandu sucht auch die Nähe zu Peking.",
+   "u": "https://taz.de/Diplomatie-im-Himalaja/!6232453/",
+   "q": "taz",
+   "d": "2026-11-24T06:11:00+00:00"
+  },
+  {
+   "t": "Mit Infrastruktur gegen die Randlage: Indiens Nordosten hat Europa einiges zu bieten",
+   "s": "Indiens acht Bundesstaaten östlich von Bangladesch wollen vom Freihandelsabkommen mit der EU profitieren und geplante Projekte endlich verwirklichen.",
+   "u": "https://taz.de/Mit-Infrastruktur-gegen-die-Randlage/!6224691/",
+   "q": "taz",
+   "d": "2026-11-24T06:00:00+00:00"
+  },
   {
    "t": "Pressefreiheit in der Türkei: İsmail Arı schreibt gegen die Einschüchterung an",
    "s": "Der türkische Investigativjournalist İsmail Arı schreibt über Vetternwirtschaft und Korruption. Nun kam er zum zweiten Mal aus dem Gefängnis frei.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Chinas-Drohgebaerden-gegen-Taiwan/!6230039/",
    "q": "taz",
    "d": "2026-11-14T10:39:00+00:00"
-  },
-  {
-   "t": "Inselstaat Naoero: Inselstaat ohne Opposition, aber mit Weltpolitik",
-   "s": "Naoero hat nach Angaben seines Präsidenten keine Opposition mehr. Das verarmte Land ist auf Unterstützung angewiesen und immer wieder Spielball von Großmächten.",
-   "u": "https://taz.de/Inselstaat-Naoero/!6229849/",
-   "q": "taz",
-   "d": "2026-11-13T15:24:00+00:00"
-  },
-  {
-   "t": "Spionage-Affäre bei Nvidia: Was Jensen Huangs Absturz für China bedeutet",
-   "s": "In der Volksrepublik wird die angebliche Spionage-Affäre von Nvida-Chef Huang gefeiert. Langfristig dürfte der Skandal Peking aber schaden.",
-   "u": "https://taz.de/Spionage-Affaere-bei-Nvidia/!6229847/",
-   "q": "taz",
-   "d": "2026-11-13T14:27:00+00:00"
-  },
-  {
-   "t": "Schattenspiele in Indonesien: Winkelzüge und mutmaßliche Intrigen enden mit Rücktritt",
-   "s": "Mit dem Rücktritt des indonesischen Vize dürfte dessen Vater, Ex-Präsident Jokowi, seinen Einfluss auf die Regierung von Präsident Prabowo verlieren.",
-   "u": "https://taz.de/Schattenspiele-in-Indonesien/!6229775/",
-   "q": "taz",
-   "d": "2026-11-13T14:12:00+00:00"
   }
  ]
 }

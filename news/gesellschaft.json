@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-24T02:13:56+00:00",
+ "updated": "2026-11-24T13:44:47+00:00",
  "items": [
+  {
+   "t": "Jedes zweite Opfer ein Kind: Zahl der Landminen-Opfer steigt wieder",
+   "s": "Sie sind unsichtbar und brandgefährlich: Landminen. Trotzdem setzen sie viele Länder weiterhin ein, manche verlassen das Anti-Landminen-Abkommen.",
+   "u": "https://taz.de/Jedes-zweite-Opfer-ein-Kind/!6232668/",
+   "q": "taz",
+   "d": "2026-11-24T08:53:00+00:00"
+  },
+  {
+   "t": "Russische Provokation gegen die Nato: Drohne dringt in Luftraum über Polen ein",
+   "s": "Nach dem Absturz russischer Raketen gerät Polen erneut in Alarmbereitschaft. Eine Aufklärungsdrohne mit Kameras fliegt minutenlang über einem Grenzort.",
+   "u": "https://taz.de/Russische-Provokation-gegen-die-NATO/!6232673/",
+   "q": "taz",
+   "d": "2026-11-24T08:23:00+00:00"
+  },
+  {
+   "t": "Parlamentswahlen in Spanien: Wählen mit dem Taschenrechner",
+   "s": "Spaniens sozialistischer Premier Pedro Sánchez setzt seine letzte Hoffnung in die kleineren linken Parteien. Auch taktisches Wählen kann ausschlaggebend sein.",
+   "u": "https://taz.de/Parlamentswahlen-in-Spanien/!6232454/",
+   "q": "taz",
+   "d": "2026-11-24T06:12:00+00:00"
+  },
   {
    "t": "Ukrainische Drohnen auf Nato-Gebiet: Nato verteidigt die Ostsee",
    "s": "Nato-Chef Rutte und Kanzler Merz sprechen in Berlin über die Drohnenvorfälle in Finnland und Polen. Eine Eskalation in der Ostsee dürfe es nicht geben.",
@@ -18,7 +39,7 @@
   },
   {
    "t": "Urteil im Vergewaltigungsfall Young: „Schweigen ist keine Option“",
-   "s": "Ein weiterer Pelicot-Fall: 13 Jahre lang wurde Joanne Young von ihrem Ehemann betäubt und zum Sex angeboten. Wir dürfen uns niemals an solche Fälle gewöhnen.",
+   "s": "Ein weiterer Pelicot-Fall: 13 Jahre lang wurde Joanne Young von ihrem Ehemann betäubt und zur Vergewaltigung angeboten. Wir dürfen uns niemals an solche Fälle gewöhnen.",
    "u": "https://taz.de/Urteil-im-Vergewaltigungsfall-Young/!6232406/",
    "q": "taz",
    "d": "2026-11-23T18:40:00+00:00"
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Jugendproteste-in-Frankreich/!6232126/",
    "q": "taz",
    "d": "2026-11-20T18:57:00+00:00"
-  },
-  {
-   "t": "Zwei Gipfel, viele offene Fragen: Das bisher beste Zeitfenster für Diplomatie",
-   "s": "In Shenzhen und Berlin finden zwei Gipfel statt, die unterschiedlicher nicht sein könnten. Neben historischen Bildern schaffen sie ein kleines Momentum.",
-   "u": "https://taz.de/Zwei-Gipfel-viele-offene-Fragen/!6223577/",
-   "q": "taz",
-   "d": "2026-11-20T18:56:00+00:00"
-  },
-  {
-   "t": "Deutsch-Ukrainisches Wirtschaftsforum: „Wir werden diese Wette gewinnen“",
-   "s": "Kanzler Merz steht zur Ukraine und macht Ansagen an Moskau. Von den Hilfen wird auch Deutschland profitieren, sagt er. Doch Kyjiw braucht Reformen.",
-   "u": "https://taz.de/Deutsch-Ukrainisches-Wirtschaftsforum/!6231784/",
-   "q": "taz",
-   "d": "2026-11-20T17:41:00+00:00"
-  },
-  {
-   "t": "Annäherung von Briten und EU: Zwist bei Gebühren fürs Studieren, einig beim Käse",
-   "s": "Großbritannien und die EU – sie wollen sich wieder annähern. Von einem „Breturn“ kann noch keine Rede sein, Premier Burnham gibt die Hoffnung nicht auf.",
-   "u": "https://taz.de/Annaeherung-von-Briten-und-EU/!6231738/",
-   "q": "taz",
-   "d": "2026-11-20T16:01:00+00:00"
   }
  ]
 }

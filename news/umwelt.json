@@ -1,7 +1,21 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-24T02:13:55+00:00",
+ "updated": "2026-11-24T13:44:46+00:00",
  "items": [
+  {
+   "t": "Gewalt gegen Frauen: Seit 30 Jahren stagniert der Ausbau von Frauenhäusern",
+   "s": "Vor 50 Jahren wurde das erste Frauenhaus in Deutschland eröffnet. Doch seit Mitte der 90er Jahre kommen wenig neue hinzu. Das zeigt eine Analyse des DIW.",
+   "u": "https://taz.de/Gewalt-gegen-Frauen/!6232667/",
+   "q": "taz",
+   "d": "2026-11-24T09:33:00+00:00"
+  },
+  {
+   "t": "Bildung und Flucht: Viele Hürden für Geflüchtete im Bildungssystem",
+   "s": "Seit zehn Jahren begleiten Forscher geflüchtete Kinder und Jugendliche im deutschen Bildungssystem. Eine Studie zeigt nun, welche Probleme es gibt.",
+   "u": "https://taz.de/Bildung-und-Flucht/!6232677/",
+   "q": "taz",
+   "d": "2026-11-24T08:30:00+00:00"
+  },
   {
    "t": "trans Kol­le­g*in­nen über die taz: „Das sind Waffen, die gegen uns verwendet werden“",
    "s": "Wie fortschrittlich ist die taz wirklich? Wir haben trans Kol­le­g*in­nen zum Gespräch gebeten, wie es um ihr Arbeitsumfeld bestellt ist.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Karin-Prien-kippt-weiteres-Programm/!6231775/",
    "q": "taz",
    "d": "2026-11-20T18:57:00+00:00"
-  },
-  {
-   "t": "SPD-Vorsitzende gesucht: Schwesig lässt sich noch ein bisschen bitten",
-   "s": "Die SPD rätselt weiter, ob Manuela Schwesig ihre neue Hoffnungsträgerin werden will. Unterdessen ist Hubertus Heil auf Werbetour in eigener Sache.",
-   "u": "https://taz.de/SPD-Vorsitzende-gesucht/!6231778/",
-   "q": "taz",
-   "d": "2026-11-20T16:58:00+00:00"
-  },
-  {
-   "t": "SPD-Vorsitzende gesucht: Schwesig lässt sich noch ein bisschen bitten",
-   "s": "Die SPD rätselt weiter, ob Manuela Schwesig ihre neue Hoffnungsträgerin werden will. Unterdessen ist Hubertus Heil auf Werbetour in eigener Sache.",
-   "u": "https://taz.de/SPD-Vorsitzende-gesucht/!6231778/",
-   "q": "taz",
-   "d": "2026-11-20T16:58:00+00:00"
   }
  ]
 }
