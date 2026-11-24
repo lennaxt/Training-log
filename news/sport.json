@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-11-24T13:44:49+00:00",
+ "updated": "2026-11-24T23:54:18+00:00",
  "items": [
+  {
+   "t": "Mogelpackung aus Brüssel: Die EU lässt Indien für ihren Klimaschutz zahlen",
+   "s": "Das neue CO₂-Grenzausgleichssystem der EU zur Förderung des Klimaschutzes wälzt Kosten für die Einhaltung von Grenzwerten auf Indiens Lieferanten ab.",
+   "u": "https://taz.de/Mogelpackung-aus-Bruessel/!6224651/",
+   "q": "taz",
+   "d": "2026-11-24T15:00:00+00:00"
+  },
   {
    "t": "Alarm in Südkorea: Russische Militärflugzeuge am Rand des Luftraums",
    "s": "Erst dachte Südkorea, dass die Flugzeuge kurz vor dem nationalen Luftraum nordkoreanisch seien. Kurz darauf wurden sie als russisch identifiziert.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Drohnenbesitz-Verbot-in-Peking-in-Kraft-getreten/!6230247/",
    "q": "taz",
    "d": "2026-11-15T14:37:00+00:00"
-  },
-  {
-   "t": "Chinas Drohgebärden gegen Taiwan: Militärübung als „stille Einschüchterung“",
-   "s": "Kurz bevor Trump zum Apec-Gipfel nach Shenzhen reist, ließ China ein Militärmanöver nahe Taiwan durchführen. Dessen Dimension ist beispiellos.",
-   "u": "https://taz.de/Chinas-Drohgebaerden-gegen-Taiwan/!6230039/",
-   "q": "taz",
-   "d": "2026-11-14T10:39:00+00:00"
   }
  ]
 }

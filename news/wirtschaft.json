@@ -1,7 +1,42 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-24T13:44:44+00:00",
+ "updated": "2026-11-24T23:54:14+00:00",
  "items": [
+  {
+   "t": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
+   "s": "Huang ist zurück als Chef von Nvidia. Doch die Krise ist nicht ausgestanden. Der US-Kongress fordert Antworten. Und auch für Trump könnte der Fall Konsequenzen haben. Von A. Herbst.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T20:17:10+00:00"
+  },
+  {
+   "t": "Wirtschaft vor acht vom 24.11.2026",
+   "s": "Wirtschaft vor acht vom 24.11.2026",
+   "u": "https://www.tagesschau.de/video/video-1689280.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T19:04:41+00:00"
+  },
+  {
+   "t": "Marktbericht: DAX fällt zurück, Tech-Aktien sinken",
+   "s": "Ist der Kurssprung der Nvidia-Aktie wegen der Rückkehr von Konzernchef Huang schon wieder abgehakt? Heute mehren sich jedenfalls die Zweifel. Und nicht nur das Papier des US-Chipkonzerns rutscht ab.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T17:36:29+00:00"
+  },
+  {
+   "t": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
+   "s": "Die Rückkehr des Nvidia-Chefs ließ den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profitiert hat davon offenbar auch US-Präsident Trump - der sich zuvor für Huang eingesetzt hatte.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T14:51:13+00:00"
+  },
+  {
+   "t": "Nvidia hält die Märkte in Atem",
+   "s": "Nach der gestrigen Rally gehen an den Aktienmärkten Zweifel um. Die plötzliche Rückkehr von Nvidia-Chef Jensen Huang hat nur wenige Probleme gelöst - und neue Fragen aufgeworfen. Von D. Landmesser.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T14:01:35+00:00"
+  },
   {
    "t": "\"GTA VI\": Arbeitskampf hinter dem größten Videospiel der Welt",
    "s": "Elf Jahre arbeitete Jordan Garland für das \"GTA\"-Studio Rockstar Games, dann wurde er plötzlich entlassen. Als Grund vermutet er seine Mitgliedschaft in einer Gewerkschaft. Das Unternehmen hält dagegen. Von Ilyass Alaoui.",
@@ -36,13 +71,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html",
    "q": "Tagesschau",
    "d": "2026-11-24T10:28:45+00:00"
-  },
-  {
-   "t": "Marktbericht: DAX nach Kursrausch zurück im Alltag",
-   "s": "Nach der Euphorie zum Wochenstart fällt der DAX im frühen Handel zurück. War der Nvidia-Rausch nur ein Strohfeuer? Positive Konjunktursignale kommen heute vom ifo-Geschäftsklimaindex.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T09:31:50+00:00"
   },
   {
    "t": "Update Wirtschaft vom 24.11.2026",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-schneider-100.html",
    "q": "Tagesschau",
    "d": "2026-11-23T09:29:40+00:00"
-  },
-  {
-   "t": "Neue Warnstreiks in Metall- und Elektroindustrie angelaufen",
-   "s": "In der Metall- und Elektroindustrie in Norddeutschland läuft seit der Nacht der nächste Warnstreik. Vielerorts sind die Tarifverhandlungen festgefahren. Die Gewerkschaft IG Metall fordert fünf Prozent mehr Gehalt.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T06:48:24+00:00"
-  },
-  {
-   "t": "Welche Chancen und Risiken KI bei Bewerbungen bietet",
-   "s": "Sowohl Bewerber als auch Unternehmen nutzen KI im Bewerbungsverfahren. So könnten sich in Zukunft Bewerbungsverfahren stark verändern. Doch besonders für die Firmen gelten dabei strenge Vorschriften. Von Max Ortmann.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/bewerbung-mit-ki-chancen-risiken-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T05:31:19+00:00"
-  },
-  {
-   "t": "Scheitern der COP31-Abschlusserklärung: \"Ein fatales Ergebnis\"",
-   "s": "Dass die Weltklimakonferenz ohne Abschlusserklärung endet, sorgt für scharfe Kritik. UN-Generalsekretär Guterres macht die Öl- und Gasindustrie mitverantwortlich. Kritik gibt es aber auch an EU und Bundesregierung.",
-   "u": "https://www.tagesschau.de/wissen/klima/klimakonferenz/weltklimakonferenz-reaktionen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T16:56:52+00:00"
-  },
-  {
-   "t": "Kommentar zur COP31: Großes Versagen - vielleicht auch ein Anfang",
-   "s": "Der Ausgang der Klimakonferenz ist ein großes Versagen, meint Arne Schulz. Verantwortliche gibt es mehrere. Und jetzt? Vielleicht ergeben sich gerade durch das Scheitern ganz neue Chancen.",
-   "u": "https://www.tagesschau.de/kommentar/weltklimakonferenz-cop31-scheitern-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T16:08:20+00:00"
   }
  ]
 }

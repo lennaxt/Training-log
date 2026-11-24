@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-11-24T13:44:43+00:00",
+ "updated": "2026-11-24T23:54:13+00:00",
  "items": [
+  {
+   "t": "Steinmeier appelliert an Wirtschaft: Chancen in Afrika nutzen",
+   "s": "Bisher gehen nur 1,8 Prozent der deutschen Exporte nach Afrika. Dabei leben auf dem Kontinent 1,6 Milliarden Menschen. Von \"ungenutzten wirtschaftlichen Chancen\" spricht Bundespräsident Steinmeier in Ghana.",
+   "u": "https://www.tagesschau.de/ausland/afrika/steinmeier-deutsch-afrikanischer-wirtschaftsgipfel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T17:21:31+00:00"
+  },
+  {
+   "t": "Menschenrechtsgerichtshof: Pushbacks in Ausnahmefällen zulässig",
+   "s": "Setzt ein Drittstaat Migration gezielt als Druckmittel ein, darf der betroffene EU-Staat Migranten an der Grenze zurückweisen. Das hat jetzt der EGMR geurteilt. Rechte besonders schutzbedürftiger Menschen müssen aber gewahrt bleiben. Von A. Stephany.",
+   "u": "https://www.tagesschau.de/ausland/europa/egmr-pushbacks-belarus-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T16:24:25+00:00"
+  },
+  {
+   "t": "UN-Bericht: Partner und Verwandte Haupttäter bei Femiziden",
+   "s": "Von insgesamt 78.000 Femiziden weltweit im vergangenen Jahr gehen die meisten auf das Konto von Partnern und Angehörigen. Das geht aus einem UN-Bericht hervor. Für Frauen und Mädchen sei das eigene Zuhause der gefährlichste Ort.",
+   "u": "https://www.tagesschau.de/ausland/europa/un-bericht-femizide-unodc-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T14:58:13+00:00"
+  },
   {
    "t": "Urteil des EGMR: Pushbacks an Grenze zu Belarus waren teils legal",
    "s": "Eigentlich dürfen Migranten nicht dahin zurückgeschickt werden, wo ihnen Menschenrechtsverletzungen drohen. Ein Grundsatzurteil ändert das - wenn Migranten als Druckmittel eingesetzt und nicht besonders schutzbedürftig sind.",
@@ -15,13 +36,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/landminen-monitor-102.html",
    "q": "Tagesschau",
    "d": "2026-11-24T09:41:25+00:00"
-  },
-  {
-   "t": "Gesuchtes Tier in Istanbul wohl doch keine Löwin",
-   "s": "Nach der Sichtung eines verdächtigen Tieres hatten Behörden in Istanbul einen Tag lang nach einer angeblich freilaufenden Löwin gesucht. Nun gaben sie vorerst Entwarnung: Es streunt wohl doch keine Großkatze durch die türkische Metropole.",
-   "u": "https://www.tagesschau.de/ausland/europa/loewe-istanbul-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T06:43:45+00:00"
   },
   {
    "t": "Zehn Jahre Friedensvertrag: Kolumbien so polarisiert wie lange nicht",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
    "q": "Tagesschau",
    "d": "2026-11-22T07:26:24+00:00"
-  },
-  {
-   "t": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
-   "s": "Vor Finnland ist in internationalen Gewässern ein russisches Handelsschiff von Drohnen getroffen worden. Es brach ein Feuer aus, zur Besatzung gibt es widersprüchliche Angaben.",
-   "u": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T19:10:03+00:00"
-  },
-  {
-   "t": "Mexiko nimmt einen der meistgesuchten Drogenbosse fest",
-   "s": "Die USA fordern von Mexiko schon länger ein hartes Vorgehen gegen Kartelle. Nun ist den Behörden offenbar ein hochrangiger Drogenboss ins Netz gegangen. Der Mann zählte auf der Liste des FBI zu den meistgesuchten Verbrechern.",
-   "u": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-21T15:36:57+00:00"
   }
  ]
 }

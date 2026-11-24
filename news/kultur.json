@@ -1,7 +1,28 @@
 {
  "name": "Kultur",
- "updated": "2026-11-24T13:44:48+00:00",
+ "updated": "2026-11-24T23:54:17+00:00",
  "items": [
+  {
+   "t": "Trump, Nvidia und Jensen Huang: Selbst für ein B-Picture zu primitiv",
+   "s": "Was sich dieser Tage in den USA abspielt, ist komplett absurd. Solchen Stoff würden auch die Regisseure von Low-Budget-Produktionen kaum haben wollen.",
+   "u": "https://taz.de/Trump-Nvidia-und-Jensen-Huang/!6232721/",
+   "q": "taz",
+   "d": "2026-11-24T19:01:00+00:00"
+  },
+  {
+   "t": "Nach der Rückkehr des Nvidia-Chefs: Steilvorlage für die US-Demokraten",
+   "s": "Jensen Huang Rückkehr an die Spitze des US-Chipherstellers Nvidia stößt auf harsche Kritik. Die Rolle von US-Präsident Trump steht dabei im Zentrum.",
+   "u": "https://taz.de/Nach-der-Rueckkehr-des-Nvidia-Chefs/!6232700/",
+   "q": "taz",
+   "d": "2026-11-24T17:05:00+00:00"
+  },
+  {
+   "t": "Trump und Nvidia: Hat die Rückkehr Huangs den US-Präsidenten reicher gemacht?",
+   "s": "Huang kehrt als CEO von Nvidia zurück. Der auf die Meldung folgende Kursanstieg am Montag könnte Trump einen Millionengewinn beschert haben.",
+   "u": "https://taz.de/Trump-und-Nvidia/!6232946/",
+   "q": "taz",
+   "d": "2026-11-24T16:16:00+00:00"
+  },
   {
    "t": "Friedensgericht in Kolumbien: Von Tätern und Vergebung",
    "s": "Kolumbianische Soldaten ermordeten Tausende Zivilist*innen. Einer der Täter trifft Jahre später auf den Sohn einer Frau, die er erschossen hat.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/US-Medienhaeuser-nutzen-Prognosemaerkte-CNN-und-das-Geschaeft-mit-dem-Gluecksspiel/!6229519/",
    "q": "taz",
    "d": "2026-11-12T19:14:00+00:00"
-  },
-  {
-   "t": "Experte zu Prognosemärkten: „Diese Märkte können Desinformation antreiben“",
-   "s": "Wetten auf sogenannten Prediction Markets sorgten bei den US-Midterms ganz leicht für ein künstliches Wahlkampf-Momentum. Die Trump-Familie verdient mit.",
-   "u": "https://taz.de/Experte-zu-Prognosemaerkten/!6228549/",
-   "q": "taz",
-   "d": "2026-11-12T19:14:00+00:00"
-  },
-  {
-   "t": "Gewalt in Washington, D.C.: Tödliche Schießerei in der Nähe des Weißen Hauses",
-   "s": "Mutmaßlicher Täter erschießt sich am Ende wohl selbst. Washington ist ein Hotspot für Morde und Gewaltdelikte.",
-   "u": "https://taz.de/Gewalt-in-Washington/!6229763/",
-   "q": "taz",
-   "d": "2026-11-12T18:51:00+00:00"
-  },
-  {
-   "t": "Papstbesuch in Peru: Unselig sind die Missbrauchten",
-   "s": "Der in Peru tätige Ex-Bischof Reinhold Nann dokumentiert Fälle von sexuellem Missbrauch in der Kirche und hofft auf ein Treffen des Papstes mit Opfern.",
-   "u": "https://taz.de/Papstbesuch-in-Peru/!6229582/",
-   "q": "taz",
-   "d": "2026-11-12T17:24:00+00:00"
   }
  ]
 }

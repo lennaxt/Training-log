@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-24T13:44:47+00:00",
+ "updated": "2026-11-24T23:54:16+00:00",
  "items": [
+  {
+   "t": "Kriegsverluste seit der Vollinvasion: Mehr tote Soldaten als bei Stalins Sturm auf Berlin",
+   "s": "Russlands Verluste beim Angriffskrieg auf die Ukraine sind verheerend. Ein Datenbank-Leak offenbart nun rund 700.000 tote Soldaten.",
+   "u": "https://taz.de/Kriegsverluste-seit-der-Vollinvasion/!6232723/",
+   "q": "taz",
+   "d": "2026-11-24T19:02:00+00:00"
+  },
+  {
+   "t": "Urteil zu Pushbacks: Weniger Rechte für instrumentalisierte Flüchtlinge",
+   "s": "Polen hat mit der Zurückweisung von Flüchtlingen laut EGMR richtig gehandelt. Belarus habe sie als Teil hybrider Kriegsführung benutzt.",
+   "u": "https://taz.de/Urteil-zu-Pushbacks/!6232747/",
+   "q": "taz",
+   "d": "2026-11-24T17:04:00+00:00"
+  },
+  {
+   "t": "Atomwaffen im All: Eine Explosion wäre viel zu riskant – auch für Russland",
+   "s": "Eine Atombombe im Orbit wäre eine dramatische Eskalationszuspitzung. Frühere Tests zeigen, wohin eine Sprengung führen könnte.",
+   "u": "https://taz.de/Atomwaffen-im-All/!6227623/",
+   "q": "taz",
+   "d": "2026-11-24T17:03:00+00:00"
+  },
   {
    "t": "Jedes zweite Opfer ein Kind: Zahl der Landminen-Opfer steigt wieder",
    "s": "Sie sind unsichtbar und brandgefährlich: Landminen. Trotzdem setzen sie viele Länder weiterhin ein, manche verlassen das Anti-Landminen-Abkommen.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Unterwegs-an-Estlands-Grenze-zu-Russland/!6224513/",
    "q": "taz",
    "d": "2026-11-21T11:53:00+00:00"
-  },
-  {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: EU kündigt neue Sicherheitsstrategie an",
-   "s": "In der Ostsee soll ein russischer Frachter von Drohnen attackiert worden sein. Ursula von der Leyen verurteilt einen Attentatsversuch auf einen US-Ukrainer in Dänemark scharf.",
-   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6232151/",
-   "q": "taz",
-   "d": "2026-11-21T11:45:00+00:00"
-  },
-  {
-   "t": "Tagebuch aus der Ukraine: Die Wälder und das Meer können nicht auf Frieden warten",
-   "s": "Der Krieg überdröhnt das Thema Klimakatastophe. Dennoch sind dessen Folgen in der Ukraine unübersehbar. Unsere Autorin wird jetzt aktiv.",
-   "u": "https://taz.de/Tagebuch-aus-der-Ukraine/!6225358/",
-   "q": "taz",
-   "d": "2026-11-21T10:07:00+00:00"
-  },
-  {
-   "t": "Jugendproteste in Frankreich: „Bis Samstag!“",
-   "s": "In Paris demonstrieren Tausende junge Menschen gegen die zunehmende Militarisierung. Und ein Ende des Protests liegt in weiter Ferne.",
-   "u": "https://taz.de/Jugendproteste-in-Frankreich/!6232126/",
-   "q": "taz",
-   "d": "2026-11-20T18:57:00+00:00"
   }
  ]
 }
