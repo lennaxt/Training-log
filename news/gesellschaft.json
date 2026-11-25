@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-24T23:54:16+00:00",
+ "updated": "2026-11-25T12:57:34+00:00",
  "items": [
+  {
+   "t": "Ungarns Magyar besucht die Ukraine: Volleyball statt Eiszeit",
+   "s": "Ungarns Regierungschef Peter Magyar trifft den ukrainischen Präsidenten Wolodymyr Selenskyj in Transkarpatien. Die Beziehungen tauen zumindest ein bisschen auf.",
+   "u": "https://taz.de/Ungarns-Magyar-besucht-die-Ukraine/!6232990/",
+   "q": "taz",
+   "d": "2026-11-25T08:53:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Zwei libysche Soldaten sterben nach ukrainischen Angriffen",
+   "s": "Nach dem ukrainischen Drohnenangriff auf ein russisches Kriegsschiff sind zwei libysche Soldaten gestorben, teilten Ostlibyens Machthaber mit. Nordkorea weist Schweizer aus.",
+   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6232989/",
+   "q": "taz",
+   "d": "2026-11-25T08:50:00+00:00"
+  },
   {
    "t": "Kriegsverluste seit der Vollinvasion: Mehr tote Soldaten als bei Stalins Sturm auf Berlin",
    "s": "Russlands Verluste beim Angriffskrieg auf die Ukraine sind verheerend. Ein Datenbank-Leak offenbart nun rund 700.000 tote Soldaten.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Handelsabkommen-Indonesien-und-EU/!6232161/",
    "q": "taz",
    "d": "2026-11-21T14:50:00+00:00"
-  },
-  {
-   "t": "Raketen gehen in Ostpolen nieder: Kreml provoziert Warschau",
-   "s": "Zwei russische Marschflugkörper und eine Drohne richten keinen größeren Schaden an – dieses Mal. Doch was, wenn es beim nächsten Mal Verletzte gibt oder gar Tote?",
-   "u": "https://taz.de/Raketen-gehen-in-Ostpolen-nieder/!6232156/",
-   "q": "taz",
-   "d": "2026-11-21T12:17:00+00:00"
-  },
-  {
-   "t": "Unterwegs an Estlands Grenze zu Russland: Die Freundschaftsbrücke",
-   "s": "In Narva trennt ein Fluss Estland von Russland. Auf einer Grenztour geht es um Drohnen, die Angst vor erneuter Besatzung und eine beschwerliche Freundschaft.",
-   "u": "https://taz.de/Unterwegs-an-Estlands-Grenze-zu-Russland/!6224513/",
-   "q": "taz",
-   "d": "2026-11-21T11:53:00+00:00"
   }
  ]
 }

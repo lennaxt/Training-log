@@ -1,13 +1,90 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-24T23:54:14+00:00",
+ "updated": "2026-11-25T12:57:31+00:00",
  "items": [
+  {
+   "t": "Nach Apple-Absprung: Samsung steigt bei AMS-Osram ein",
+   "s": "Nach dem Rückzug von Apple drohte eine teure Chipfabrik für AMS-Osram zum Verlustgeschäft zu werden. Nun investiert Samsung 210 Millionen Euro. Kann aus dem gescheiterten Milliardenprojekt ein Zukunftsgeschäft werden?",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/samsung-einstieg-osram-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T12:45:06+00:00"
+  },
+  {
+   "t": "Euro-Schwäche: Was der \"KI-Dollar\" für Firmen und Sparer bedeutet",
+   "s": "Der Euro ist zum Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen. Hintergrund ist der KI-Boom. Welche Folgen hat das für Unternehmen, Verbraucher und Anleger? Von Angela Göpfert.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/euro-dollar-ki-etf-sparer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T11:47:38+00:00"
+  },
+  {
+   "t": "Viele offene Fragen bei Chipkonzern Nvidia",
+   "s": "Jensen Huang steht wieder an der Spitze von Nvidia - und die Tech-Welt scheint wieder in Ordnung. Aber das kurzlebige Ausscheiden des Mitgründers hat Fragen aufgeworfen - und viele davon bleiben erst mal offen. Von Antje Sieb.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-offene-fragen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T11:32:09+00:00"
+  },
+  {
+   "t": "Flixtrain-Tickets bald auch bei Deutscher Bahn buchbar",
+   "s": "Zugreisende können demnächst auch Tickets für den Wettbewerber Flixtrain auf der Buchungsplattform der Deutschen Bahn buchen. Das vereinfacht den Ticketkauf erheblich - einige Hürden bleiben aber bestehen.",
+   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/flixtrain-deutsche-bahn-ticketverkauf-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T11:01:33+00:00"
+  },
+  {
+   "t": "Update Wirtschaft vom 25.11.2026",
+   "s": "Update Wirtschaft vom 25.11.2026",
+   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1689580.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T09:43:37+00:00"
+  },
+  {
+   "t": "Kerzen dürften deutlich teurer werden",
+   "s": "Der Adventskranz gehört für viele zur Vorweihnachtszeit, doch die Kerzen dafür könnten in diesem Jahr ziemlich teuer werden. Hersteller rechnen mit Preissteigerungen von 30 bis 50 Prozent.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/kerzen-preise-wachs-zoelle-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T09:40:38+00:00"
+  },
+  {
+   "t": "Deutsche Wirtschaft wächst im dritten Quartal nur um 0,1 Prozent",
+   "s": "Das Wachstum der deutschen Wirtschaft ist zuletzt überraschend langsamer gewachsen als erwartet. Entgegen einer früheren Schätzung ist das BIP im dritten Quartal nur um 0,1 Prozent gestiegen.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-deutschland-wirtschaftsleistung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T08:49:01+00:00"
+  },
+  {
+   "t": "US-Gericht spricht Huawei wegen Betrugs schuldig",
+   "s": "Der chinesische Technologiekonzern Huawei ist in den USA in einem jahrelangen Strafverfahren schuldig gesprochen worden. Eine Jury in Brooklyn befand das Unternehmen in zehn von zwölf Anklagepunkten für schuldig.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/huawei-geldwaesche-us-gericht-urteil-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T08:25:40+00:00"
+  },
+  {
+   "t": "Deutsche Industrie: Wo es hakt und wo es rund läuft",
+   "s": "Die Aussichten für die Wirtschaft haben sich zuletzt verbessert. Doch es gibt große Unterschiede: Während in manchen Branchen Firmen ums Überleben kämpfen, läuft das Geschäft anderswo prächtig. Ein Überblick von Axel John.",
+   "u": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftswachstum-branchen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T05:28:36+00:00"
+  },
+  {
+   "t": "US-Medienberichte: Trump plant wohl neue Zölle - auch gegen die EU",
+   "s": "Die US-Regierung bereitet offenbar neue Zölle gegenüber China, der EU und weiteren Ländern vor. Der Schritt erfolgt, nachdem die Zölle vom Supreme Court als illegal eingestuft wurden.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-122.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T04:08:29+00:00"
+  },
   {
    "t": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
    "s": "Huang ist zurück als Chef von Nvidia. Doch die Krise ist nicht ausgestanden. Der US-Kongress fordert Antworten. Und auch für Trump könnte der Fall Konsequenzen haben. Von A. Herbst.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
    "q": "Tagesschau",
    "d": "2026-11-24T20:17:10+00:00"
+  },
+  {
+   "t": "Verbraucherschützer haben die smarte Brille im Blick",
+   "s": "Verbraucherschützer gehen juristisch gegen KI-Brillen von Meta und Ray-Ban vor. Der Vorwurf: Mit smarten Brillen lassen sich Fotos und Videos aufnehmen, ohne dass andere Menschen das bemerken. Auch Nutzern könnten Bußgelder drohen. Von Jens Eberl.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/smart-glasses-klage-verbraucherschutz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-24T19:06:34+00:00"
   },
   {
    "t": "Wirtschaft vor acht vom 24.11.2026",
@@ -17,11 +94,11 @@
    "d": "2026-11-24T19:04:41+00:00"
   },
   {
-   "t": "Marktbericht: DAX fällt zurück, Tech-Aktien sinken",
-   "s": "Ist der Kurssprung der Nvidia-Aktie wegen der Rückkehr von Konzernchef Huang schon wieder abgehakt? Heute mehren sich jedenfalls die Zweifel. Und nicht nur das Papier des US-Chipkonzerns rutscht ab.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
+   "t": "Steinmeier appelliert an Wirtschaft: Chancen in Afrika nutzen",
+   "s": "Bisher gehen nur 1,8 Prozent der deutschen Exporte nach Afrika. Dabei leben auf dem Kontinent 1,6 Milliarden Menschen. Von \"ungenutzten wirtschaftlichen Chancen\" spricht Bundespräsident Steinmeier in Ghana.",
+   "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/steinmeier-deutsch-afrikanischer-wirtschaftsgipfel-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-24T17:36:29+00:00"
+   "d": "2026-11-24T17:21:31+00:00"
   },
   {
    "t": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
@@ -73,13 +150,6 @@
    "d": "2026-11-24T10:28:45+00:00"
   },
   {
-   "t": "Update Wirtschaft vom 24.11.2026",
-   "s": "Update Wirtschaft vom 24.11.2026",
-   "u": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1688878.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T08:47:49+00:00"
-  },
-  {
    "t": "Rückkehr von Nvidia-Chef: \"Nie dagewesenes Verwischen von Grenzen\"",
    "s": "Eine Rückkehr von Jensen Huang an die Spitze des Chipherstellers Nvidia haben die Wenigsten erwartet. Die Suche nach den Gründen des Comebacks führt bis zur Spitze der US-Regierung. Das kritisieren nicht nur die Demokraten. Von Antje Sieb.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-trump-100.html",
@@ -99,76 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifrunde-emden-auftakt-100.html",
    "q": "Tagesschau",
    "d": "2026-11-24T05:04:00+00:00"
-  },
-  {
-   "t": "Mehr Stromspar-Checks für Haushalte mit wenig Geld geplant",
-   "s": "Die Finanzierung des Stromspar-Checks ist für weitere drei Jahre gesichert. Damit können sich Haushalte mit geringem Einkommen kostenlos beraten lassen und Zuschüsse bekommen. Die wichtigsten Fragen und Antworten.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T20:11:45+00:00"
-  },
-  {
-   "t": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
-   "s": "Dieser Rücktritt war von kurzer Dauer: Jensen Huang soll zurück an die Spitze des US-Konzerns Nvidia. Präsident Trump rühmt sich damit, Einfluss genommen zu haben. Doch das könnte noch Ärger geben.",
-   "u": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T19:07:24+00:00"
-  },
-  {
-   "t": "Nvidia setzt Jensen Huang wieder als Chef ein",
-   "s": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Tagen wegen eines Spionageskandals zurückgetreten.",
-   "u": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T15:18:29+00:00"
-  },
-  {
-   "t": "KI-Pioniere streiten über die Risiken",
-   "s": "Wie groß sind die Gefahren Künstlicher Intelligenz? Eine neue ARD-Dokumentation zeigt, wie gegensätzlich die Positionen von KI-Experten sind - auch bei Wissenschaftlern, die der Technologie den Weg bereitet haben. Von Philipp Grüll.",
-   "u": "https://www.tagesschau.de/wissen/ki-letzte-erfindung-der-menschheit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T14:42:41+00:00"
-  },
-  {
-   "t": "Nachfrage nach MINT-Fachkräften steigt wieder",
-   "s": "Die bessere konjunkturelle Lage macht sich auch auf dem Arbeitsmarkt bemerkbar. Die Nachfrage nach Arbeitskräften mit MINT-Kompetenzen steigt erstmals seit 2023 wieder. Das zeigt ein Bericht, der dem ARD-Hauptstadtstudio vorliegt. Von M. Rödle.",
-   "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mint-fachkraefte-steigende-nachfrage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T14:41:00+00:00"
-  },
-  {
-   "t": "Wie Tabaklobby und Politik ums Rauchen ringen",
-   "s": "Wenige Branchen vertreten ihre Interessen wohl so robust wie die Tabakindustrie. Kritiker werfen ihr aggressives Lobbying vor. Doch nicht nur in Deutschland gibt es Konflikte um die Eindämmung der Nikotinabhängigkeit.",
-   "u": "https://www.deutschlandfunk.de/tabaklobby-vapes-zigaretten-streeck-tabaksteuer-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-23T11:43:00+00:00"
-  },
-  {
-   "t": "Wer ist schuld am Scheitern des Klimagipfels?",
-   "s": "Die Klimakonferenz in Antalya ist nach zwei Wochen zäher Verhandlungen ohne Abschlusserklärung zu Ende gegangen. Woran lag das? Bei der Suche nach möglichen Schuldigen richtet sich der Blick auch auf die Doppelpräsidentschaft. Von Jakob Mayr.",
-   "u": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T10:42:23+00:00"
-  },
-  {
-   "t": "Affäre von Ex-Nvidia-Chef wohl in Kontakt zu Chinas Geheimdienst",
-   "s": "Alice Huang, Geliebte des ehemaligen Nvidia-Chefs, hatte offenbar mehr als ein Jahr lang Kontakt zu einem Mitarbeiter des chinesischen Geheimdienstes. Die Chinesin steht im Mittelpunkt des Skandals um den US-Chipkonzern.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-skandal-kontakt-chinesischer-geheimdienst-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T09:56:20+00:00"
-  },
-  {
-   "t": "Verbraucherschützer warnen zur Black Week vor Betrugsmaschen",
-   "s": "Rabatte von 50, 60 oder sogar 70 Prozent: Rund um den Black Friday lockt der Handel mit vermeintlichen Schnäppchen. Die Branche erwartet Rekordumsätze. Doch Verbraucherschützer warnen auch vor Preisfallen und Betrügern. Von Jens Eberl.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/blackweek-preisfallen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T09:33:43+00:00"
-  },
-  {
-   "t": "Umweltminister Schneider: Scheitern der COP31 kein Rückschlag für Klimaschutz",
-   "s": "Der XXL-Klimagipfel ist vorbei - ein Bekenntnis der fast 200 Staaten zum Klimaschutz gibt es nicht. Umweltminister Schneider sieht im Scheitern von Antalya aber auch eine gute Nachricht. Die Energiewende sei unumkehrbar - sagt auch China.",
-   "u": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-schneider-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T09:29:40+00:00"
   }
  ]
 }

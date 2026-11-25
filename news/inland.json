@@ -1,17 +1,129 @@
 {
  "name": "Inland",
- "updated": "2026-11-24T23:54:13+00:00",
+ "updated": "2026-11-25T12:57:27+00:00",
  "items": [
   {
-   "t": "Verbraucherschützer haben die smarte Brille im Blick",
-   "s": "Verbraucherschützer gehen juristisch gegen KI-Brillen von Meta und Ray-Ban vor. Der Vorwurf: Mit smarten Brillen lassen sich Fotos und Videos aufnehmen, ohne dass andere Menschen das bemerken. Auch Nutzern könnten Bußgelder drohen. Von Jens Eberl.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-klage-verbraucherschutz-100.html",
+   "t": "Ausgepeitschte Sängerin in Iran: Empörung weltweit",
+   "s": "Die Auspeitschung der iranischen Sängerin Parastu Ahmadi ist international verurteilt worden. Sie wurde bestraft, weil sie ohne Kopftuch auftrat.",
+   "u": "https://taz.de/Ausgepeitschte-Saengerin-in-Iran/!6233037/",
+   "q": "taz",
+   "d": "2026-11-25T11:36:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Nahostkrieg +++: Mehrere Tote bei israelischen Luftangriffen",
+   "s": "Amnesty International hat Israel Maßnahmen vorgeworfen, Geburten in Gaza zu verhindern. Eine von Saudi-Arabien geführte Militärkoalition hat Ziele in Jemen angegriffen.",
+   "u": "https://taz.de/-Nachrichten-im-Nahostkrieg-/!6233042/",
+   "q": "taz",
+   "d": "2026-11-25T11:35:00+00:00"
+  },
+  {
+   "t": "Bundestag legt Schweigeminute für Opfer von Femiziden ein",
+   "s": "Dass Bundestagspräsidentin Klöckner und viele andere bei der Generaldebatte Orange als Kleidungsfarbe gewählt hatten, war kein Zufall. Grund ist der Orange Day, an dem an Frauen erinnert wird, die Opfer von Gewalt wurden.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bundestag-orange-day-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-24T19:06:34+00:00"
+   "d": "2026-11-25T10:55:47+00:00"
+  },
+  {
+   "t": "Palästinensische Frauen in Israel: Die Tabubrecherin",
+   "s": "Abeer Zeibak Haddad sah schon früh Gewalt gegen Frauen in ihrer Umgebung. Als Dokumentarfilmerin bricht sie heute das Schweigen, das das Thema umgibt.",
+   "u": "https://taz.de/Palaestinensische-Frauen-in-Israel/!6232424/",
+   "q": "taz",
+   "d": "2026-11-25T10:52:00+00:00"
+  },
+  {
+   "t": "AfD fordert Klage gegen Haushalt - Merz nennt Etat \"vertretbar\"",
+   "s": "Die Aufstellung des Haushalts habe \"keinen Schönheitspreis verdient“, räumte der Kanzler ein. Doch er sei in der gegenwärtigen Lage vertretbar. Zuvor war er von AfD-Chef Chrupalla scharf kritisiert worden - auch in Sachen Ukraine.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-154.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T10:44:12+00:00"
+  },
+  {
+   "t": "Ermittlungen gegen „Terror 18“: Bundesanwaltschaft knüpft sich nächste Jungnazi-Gruppe vor",
+   "s": "Sie drohten in Chats mit Gewalt, wollten Brandanschläge verüben. Nun geht die Bundesanwaltschaft gegen die Neonazis von „Terror 18“ vor.",
+   "u": "https://taz.de/Ermittlungen-gegen-Terror-18/!6233004/",
+   "q": "taz",
+   "d": "2026-11-25T10:20:00+00:00"
+  },
+  {
+   "t": "Frauen in Iran: Die Unbeugsame",
+   "s": "Verisheh Moradi ist eine von mindestens neun Frauen, die in Iran auf der Todesliste stehen. Doch sie hat ihr Leben lang für Freiheit gekämpft – auch jetzt noch.",
+   "u": "https://taz.de/Frauen-in-Iran/!6232423/",
+   "q": "taz",
+   "d": "2026-11-25T09:09:00+00:00"
+  },
+  {
+   "t": "Ungarns Magyar besucht die Ukraine: Volleyball statt Eiszeit",
+   "s": "Ungarns Regierungschef Peter Magyar trifft den ukrainischen Präsidenten Wolodymyr Selenskyj in Transkarpatien. Die Beziehungen tauen zumindest ein bisschen auf.",
+   "u": "https://taz.de/Ungarns-Magyar-besucht-die-Ukraine/!6232990/",
+   "q": "taz",
+   "d": "2026-11-25T08:53:00+00:00"
+  },
+  {
+   "t": "Menschenrechtspreis: Palästinensischer Anwalt für Kinderrechte wird geehrt",
+   "s": "Amnesty International hat den Anwalt Khaled Quzmar für seinen Einsatz für Kinder in Haft ausgezeichnet. Die israelische Regierung bringt seinen Verein mit Terror in Verbindung.",
+   "u": "https://taz.de/Menschenrechtspreis/!6232786/",
+   "q": "taz",
+   "d": "2026-11-25T08:51:00+00:00"
+  },
+  {
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Zwei libysche Soldaten sterben nach ukrainischen Angriffen",
+   "s": "Nach dem ukrainischen Drohnenangriff auf ein russisches Kriegsschiff sind zwei libysche Soldaten gestorben, teilten Ostlibyens Machthaber mit. Nordkorea weist Schweizer aus.",
+   "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6232989/",
+   "q": "taz",
+   "d": "2026-11-25T08:50:00+00:00"
+  },
+  {
+   "t": "Heftiger Schlagabtausch bei Generaldebatte erwartet",
+   "s": "Kanzler Merz im Fokus: Bei der Haushaltswoche im Bundestag wird heute der Etat des Kanzleramts verhandelt. Traditionell eine Gelegenheit für die Opposition, mit der Regierung abzurechnen. Heftig gestritten werden könnte über die neuen Schulden.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-150.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T06:32:57+00:00"
+  },
+  {
+   "t": "Justizministerin Hubig: Femizide müssen „als Mord bestraft werden“",
+   "s": "Geschlechtsspezifische Beweggründe sollen ausdrücklich als Mordmerkmal im Strafgesetzbuch verankert werden. Bundesjustizministerin Stefanie Hubig (SPD) will damit auch der bislang unterschiedlichen Bewertung solcher Motive durch Gerichte begegnen.Zerback, Sarah",
+   "u": "https://www.deutschlandfunk.de/gewalt-gegen-frauen-stoppen-interview-stefanie-hubig-spd-justizministerin-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-25T06:19:00+00:00"
+  },
+  {
+   "t": "Nach den Kommunalwahlen in Südafrika: Viererbündnis hier, Dreierbündnis dort",
+   "s": "Trotz seiner Wahlniederlagen wird der ANC in vielen Kommunen Südafrikas weiter mitregieren. Als Koalitionspartner wird er gebraucht.",
+   "u": "https://taz.de/Nach-den-Kommunalwahlen-in-Suedafrika/!6232742/",
+   "q": "taz",
+   "d": "2026-11-25T06:16:00+00:00"
+  },
+  {
+   "t": "Signal for Help: Hilferuf mit der Hand",
+   "s": "Das „Signal for Help“ macht auf Gewalt aufmerksam – auch dort, wo Betroffene nicht offen sprechen können. Was Außenstehende wissen sollten.",
+   "u": "https://taz.de/Signal-for-Help/!6232944/",
+   "q": "taz",
+   "d": "2026-11-25T06:13:00+00:00"
+  },
+  {
+   "t": "11KM-Podcast: Abschiebezentren in Ruanda: Die nächste Stufe der EU-Asylpolitik",
+   "s": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber nach Ruanda abschieben. 11KM analysiert, wohin sich die europäische Migrationspolitik gerade entwickelt.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-abschiebezentren-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T06:11:51+00:00"
+  },
+  {
+   "t": "Keine schnelle Lösung bei Gewalt gegen Frauen",
+   "s": "Der heutige Orange Day steht für eine Zukunft ohne Gewalt gegen Frauen. Doch die Realität sieht anders aus. Strafverschärfungen und Gesetzesänderungen sind angestoßen, aber schnelle Lösungen sind nicht in Sicht. Von A. Lagmöller.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/orange-day-gewalt-gegen-frauen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T04:00:11+00:00"
+  },
+  {
+   "t": "Politologe: Emde-Ausschluss ist Voraussetzung für Koalitionsbildung",
+   "s": "Politikwissenschaftler Wolfgang Schroeder hält den Ausschluss von Vanessa Emde aus der Berliner Linksfraktion für richtig. Ob eine tragfähige Koalition mit SPD und Grünen zustande kommt, sei allerdings weiterhin offen.van Laak, Claudia; Schroeder Wolfgang; Schmidt-Mattern, Barbara",
+   "u": "https://www.deutschlandfunk.de/berliner-linksfraktion-abgeordnete-emde-ausgeschlossen-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-24T22:25:00+00:00"
   },
   {
    "t": "Gewalt gegen Frauen: „Wir können Männer nicht in den Feminismus reinmobben“",
-   "s": "Bestseller-Autorin Sophia Fritz macht in ihrem neuen Buch „Der Mann, das Opfer“ einen ungewöhnlichen Vorschlag, was gegen Gewalt an Frauen helfen könnte.",
+   "s": "Bestseller-Autorin Sophia Fritz macht in ihrem neuen Buch, „Der Mann, das Opfer“, einen ungewöhnlichen Vorschlag, was gegen Gewalt an Frauen helfen könnte.",
    "u": "https://taz.de/Bestseller-Autorin-Sophia-Fritz-Wir-koennen-Maenner-nicht-in-den-Feminismus-reinmobben/!6232793/",
    "q": "taz",
    "d": "2026-11-24T19:05:00+00:00"
@@ -45,7 +157,7 @@
    "d": "2026-11-24T19:02:00+00:00"
   },
   {
-   "t": "Trump, Nvidia und Jensen Huang: Selbst für ein B-Picture zu primitiv",
+   "t": "Trump, Nvidia und Jensen Huang: Selbst für ein B-Movie primitiv",
    "s": "Was sich dieser Tage in den USA abspielt, ist komplett absurd. Solchen Stoff würden auch die Regisseure von Low-Budget-Produktionen kaum haben wollen.",
    "u": "https://taz.de/Trump-Nvidia-und-Jensen-Huang/!6232721/",
    "q": "taz",
@@ -57,118 +169,6 @@
    "u": "https://taz.de/Minister-will-keine-Dunkelfeldstudie/!6232724/",
    "q": "taz",
    "d": "2026-11-24T18:59:00+00:00"
-  },
-  {
-   "t": "Finale Haushaltswoche im Bundestag: Im nächsten Jahr soll wirklich gespart werden …",
-   "s": "…, aber wo? Während die Union einen aufgeblähten „Nanny-Staat“ beklagt, fordern die Grünen, endlich auch Subventionen für Milliardäre abzuschaffen.",
-   "u": "https://taz.de/Finale-Haushaltswoche-im-Bundestag/!6232740/",
-   "q": "taz",
-   "d": "2026-11-24T18:58:00+00:00"
-  },
-  {
-   "t": "Berliner Linke schließt Emde aus Fraktion aus",
-   "s": "Wochenlang diskutierten Grüne, SPD und Linke in Berlin über die Personalie Emde. Die Abgeordnete steht wegen ihrer Positionen zu Israel in der Kritik. Nun hat die Fraktion mit der nötigen Mehrheit für ihren Ausschluss gestimmt.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T18:47:32+00:00"
-  },
-  {
-   "t": "Polizei vermutet Destabilisierung als Ziel der Drohmails gegen Schulen",
-   "s": "Die per Mail verschickten Bombendrohungen haben am Montag deutlich mehr Schulen erreicht als zunächst angenommen. Die Polizei vermutet eine gezielte Aktion zur Verunsicherung.",
-   "u": "https://www.tagesschau.de/inland/drohmails-schulen-gdp-destabilisierung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T18:39:01+00:00"
-  },
-  {
-   "t": "Ärger über Fraktionsvorstand der Grünen: West-, West-, Westdeutschland!",
-   "s": "Die Grünen im Bundestag mussten einen Posten im Fraktionsvorstand nachwählen. Ost-Abgeordnete sind sauer: Von ihnen ist jetzt niemand mehr vertreten.",
-   "u": "https://taz.de/Aerger-ueber-Fraktionsvorstand-der-Gruenen/!6232710/",
-   "q": "taz",
-   "d": "2026-11-24T17:12:00+00:00"
-  },
-  {
-   "t": "Nach der Rückkehr des Nvidia-Chefs: Steilvorlage für die US-Demokraten",
-   "s": "Jensen Huang Rückkehr an die Spitze des US-Chipherstellers Nvidia stößt auf harsche Kritik. Die Rolle von US-Präsident Trump steht dabei im Zentrum.",
-   "u": "https://taz.de/Nach-der-Rueckkehr-des-Nvidia-Chefs/!6232700/",
-   "q": "taz",
-   "d": "2026-11-24T17:05:00+00:00"
-  },
-  {
-   "t": "Urteil zu Pushbacks: Weniger Rechte für instrumentalisierte Flüchtlinge",
-   "s": "Polen hat mit der Zurückweisung von Flüchtlingen laut EGMR richtig gehandelt. Belarus habe sie als Teil hybrider Kriegsführung benutzt.",
-   "u": "https://taz.de/Urteil-zu-Pushbacks/!6232747/",
-   "q": "taz",
-   "d": "2026-11-24T17:04:00+00:00"
-  },
-  {
-   "t": "Atomwaffen im All: Eine Explosion wäre viel zu riskant – auch für Russland",
-   "s": "Eine Atombombe im Orbit wäre eine dramatische Eskalationszuspitzung. Frühere Tests zeigen, wohin eine Sprengung führen könnte.",
-   "u": "https://taz.de/Atomwaffen-im-All/!6227623/",
-   "q": "taz",
-   "d": "2026-11-24T17:03:00+00:00"
-  },
-  {
-   "t": "Berliner Linke hat entschieden: Vanessa Emde aus Fraktion ausgeschlossen",
-   "s": "Emde Gelände: Die Linke im Berliner Abgeordnetenhaus wirft Vanessa Emde aus der Fraktion. Ist damit der Weg für Rot-Grün-Rot frei?",
-   "u": "https://taz.de/Vanessa-Emde-aus-Fraktion-ausgeschlossen/!6232973/",
-   "q": "taz",
-   "d": "2026-11-24T16:40:00+00:00"
-  },
-  {
-   "t": "Trump und Nvidia: Hat die Rückkehr Huangs den US-Präsidenten reicher gemacht?",
-   "s": "Huang kehrt als CEO von Nvidia zurück. Der auf die Meldung folgende Kursanstieg am Montag könnte Trump einen Millionengewinn beschert haben.",
-   "u": "https://taz.de/Trump-und-Nvidia/!6232946/",
-   "q": "taz",
-   "d": "2026-11-24T16:16:00+00:00"
-  },
-  {
-   "t": "Wenn Klischees miturteilen: Vergewaltigungsmythen vor Gericht",
-   "s": "Zehn Jahre nach „Nein heißt Nein“ will Bundesjustizministerin Hubig das Sexualstrafrecht weiter verschärfen. Vergewaltigungsmythen und Fehlannahmen über Opfer prägen Gerichtsverfahren bis heute.",
-   "u": "https://www.deutschlandfunk.de/sexualstrafrecht-reform-ja-heisst-ja-vergewaltigungsmythen-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-24T16:00:00+00:00"
-  },
-  {
-   "t": "Jensen Huang: Nvidia-Chef von Trumps Gnaden",
-   "s": "Die überraschende Rückkehr von Nvidia-Chef Jensen Huang an die Spitze des wichtigsten KI-Unternehmens hat Euphorie, aber auch massive Kritik ausgelöst. Ist der Skandal bei Nividia ausgestanden? Und: Wieder mehr Straftaten gegen Frauen und Mädchen.Schulz, Sandra",
-   "u": "https://www.deutschlandfunk.de/huang-nvidia-trump-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-24T16:00:00+00:00"
-  },
-  {
-   "t": "Bilanz des Spendenrats: Deutsche spenden wieder",
-   "s": "Die Deutschen spenden wieder mehr, doch die Zahl der Spender geht zurück. Das geht aus der Bilanz des Spendenrats hervor. Besonders eine Altersgruppe gibt auffällig viel - und eine andere auffällig wenig.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/spendenrat-bilanz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T15:42:18+00:00"
-  },
-  {
-   "t": "Müssen Geflüchtete bei Taliban-Diplomaten vorsprechen?",
-   "s": "Seit 2024 gibt es Sammelabschiebungen nach Afghanistan und Absprachen mit den Taliban. Taliban-Vertreter sind in Konsulaten in Deutschland aktiv. Dort müssen Geflüchtete vorsprechen, auf Anordnung deutscher Behörden. Ist das zulässig? Von Max Bauer.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-gefluechtete-taliban-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T15:18:02+00:00"
-  },
-  {
-   "t": "Taliban lassen Abschiebeflug verschieben",
-   "s": "Ein für heute geplanter Abschiebeflug nach Kabul wurde nach NDR-Informationen von afghanischer Seite abgesagt. Die Taliban wollen offenbar Druck machen, um die Einreise weiterer Konsularbeamte nach Deutschland zu erzwingen. Von P. Hornung.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-taliban-abschiebeflug-gestoppt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T15:15:31+00:00"
-  },
-  {
-   "t": "Anschlag auf Parteibüro in Schwerte: Acht Verletzte bei Angriff auf Grüne",
-   "s": "In Schwerte attackiert ein Maskierter eine Ratsfraktionssitzung der Grünen. NRWs Vize-Ministerpräsidentin Mona Neubaur spricht von „Angriff auf unsere Demokratie“.",
-   "u": "https://taz.de/Anschlag-auf-Parteibuero-in-Schwerte/!6232806/",
-   "q": "taz",
-   "d": "2026-11-24T15:01:00+00:00"
-  },
-  {
-   "t": "Eine Atombombe im All bedroht die Satelliten",
-   "s": "Westliche Geheimdienste warnen vor einem möglichen russischen Atomsprengkopf im All. Eine nukleare Explosion könnte Tausende Satelliten beschädigen und digitale Infrastruktur auf der Erde treffen. Die Folgen könnten jahrzehntelang spürbar sein.Von Dirk Lorenzen",
-   "u": "https://www.deutschlandfunk.de/atomwaffen-weltall-russland-satelliten-explosion-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-24T15:00:00+00:00"
   }
  ]
 }

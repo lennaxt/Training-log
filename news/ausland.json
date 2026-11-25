@@ -1,13 +1,69 @@
 {
  "name": "Ausland",
- "updated": "2026-11-24T23:54:13+00:00",
+ "updated": "2026-11-25T12:57:30+00:00",
  "items": [
   {
-   "t": "Steinmeier appelliert an Wirtschaft: Chancen in Afrika nutzen",
-   "s": "Bisher gehen nur 1,8 Prozent der deutschen Exporte nach Afrika. Dabei leben auf dem Kontinent 1,6 Milliarden Menschen. Von \"ungenutzten wirtschaftlichen Chancen\" spricht Bundespräsident Steinmeier in Ghana.",
-   "u": "https://www.tagesschau.de/ausland/afrika/steinmeier-deutsch-afrikanischer-wirtschaftsgipfel-100.html",
+   "t": "Tote und Vermisste nach Überflutung in Goldmine",
+   "s": "In einer illegal errichteten indonesischen Goldmine sind Bergleute von Wassermassen überrascht und eingeschlossen worden. Die Rettungsmaßnahmen laufen. Bisher wurden drei Tote geborgen.",
+   "u": "https://www.tagesschau.de/ausland/asien/unglueck-illegale-goldmine-indonesien-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-24T17:21:31+00:00"
+   "d": "2026-11-25T12:31:45+00:00"
+  },
+  {
+   "t": "Umstrittener Abschiebefall: Salvadorianer Abrego García hat USA verlassen",
+   "s": "2025 war der Salvadorianer Abrego Garcia aus den USA abgeschoben worden - rechtswidrig. Er landete in einem berüchtigten Gefängnis und wurde so zum Symbol für Trumps umstrittene Politik. Nun eine neue Wendung: Abrego Garcia ist in Spanien.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-abschiebepolitik-trump-garcia-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T11:19:15+00:00"
+  },
+  {
+   "t": "Run auf kostenlose Finnland-Reise für Singles",
+   "s": "Kostenlos durch Finnland reisen und sich dabei verlieben: Diese Idee der staatlichen Tourismusorganisation sorgt für große Nachfrage aus aller Welt. Hunderttausende Singles haben sich beworben. Was erwartet die 16 Auserwählten? Von A.-L. Beckmann.",
+   "u": "https://www.tagesschau.de/ausland/europa/single-urlaub-finnland-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T10:40:38+00:00"
+  },
+  {
+   "t": "EU will Versorgung mit Arzneimitteln sicherstellen",
+   "s": "Ob Antibiotika oder Fiebersäfte für Kinder: Immer wieder fehlen in Europa Medikamente - Grund ist auch die große Abhängigkeit von Asien. Das will die EU ändern. Heute stehen im Parlament zwei Gesetzesvorhaben zur Abstimmung.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-parlament-arzneimittel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T08:24:12+00:00"
+  },
+  {
+   "t": "Europas größte Satellitenfabrik eröffnet",
+   "s": "Die EU will bis 2030 ein eigenes sicheres Kommunikationsnetz im Weltraum aufbauen. Ziel ist es, unabhängiger von Anbietern wie dem US-Dienst Starlink zu werden. Helfen soll dabei Europas größte Satellitenfabrik - sie wurde nun eröffnet.",
+   "u": "https://www.tagesschau.de/ausland/satellitenfabrik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T08:06:22+00:00"
+  },
+  {
+   "t": "Israel nach der Wahl: Schwierige Sondierungen zwischen Rivalen",
+   "s": "In Israel bleibt Gadi Eisenkot nicht mehr viel Zeit, eine Regierung zu bilden. Aktuell laufen die Gespräche mit Netanjahus Likud-Partei. Dabei gibt es große Differenzen - und kaum Alternativen. Von J. Segador.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T05:18:30+00:00"
+  },
+  {
+   "t": "US-Medienberichte: Trump plant wohl neue Zölle - auch gegen die EU",
+   "s": "Die US-Regierung bereitet offenbar neue Zölle gegenüber China, der EU und weiteren Ländern vor. Der Schritt erfolgt, nachdem die Zölle vom Supreme Court als illegal eingestuft wurden.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-122.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T04:08:29+00:00"
+  },
+  {
+   "t": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
+   "s": "Kiew, Saporischschja, Odessa - immer wieder greift Russland ukrainische Brücken an. Im Gegenzug schießt die Ukraine vermehrt zurück - auch auf die Krim-Brücke. Dabei geht es beiden Seiten nicht immer nur um militärische Ziele. Von R. Barth.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T01:40:52+00:00"
+  },
+  {
+   "t": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
+   "s": "Die Lebenserwartung in Kuba ist laut der WHO erstmals in der Geschichte gesunken, die Säuglingssterblichkeit hat sich mehr als verdoppelt. WHO-Chef Tedros macht dafür auch US-Sanktionen verantwortlich - und fordert deren sofortiges Ende.",
+   "u": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T00:06:58+00:00"
   },
   {
    "t": "Menschenrechtsgerichtshof: Pushbacks in Ausnahmefällen zulässig",
@@ -17,25 +73,11 @@
    "d": "2026-11-24T16:24:25+00:00"
   },
   {
-   "t": "UN-Bericht: Partner und Verwandte Haupttäter bei Femiziden",
-   "s": "Von insgesamt 78.000 Femiziden weltweit im vergangenen Jahr gehen die meisten auf das Konto von Partnern und Angehörigen. Das geht aus einem UN-Bericht hervor. Für Frauen und Mädchen sei das eigene Zuhause der gefährlichste Ort.",
-   "u": "https://www.tagesschau.de/ausland/europa/un-bericht-femizide-unodc-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T14:58:13+00:00"
-  },
-  {
    "t": "Urteil des EGMR: Pushbacks an Grenze zu Belarus waren teils legal",
    "s": "Eigentlich dürfen Migranten nicht dahin zurückgeschickt werden, wo ihnen Menschenrechtsverletzungen drohen. Ein Grundsatzurteil ändert das - wenn Migranten als Druckmittel eingesetzt und nicht besonders schutzbedürftig sind.",
    "u": "https://www.tagesschau.de/ausland/europa/emgr-urteil-pushbacks-100.html",
    "q": "Tagesschau",
    "d": "2026-11-24T13:28:55+00:00"
-  },
-  {
-   "t": "Landminen-Monitor: Zahl der Opfer von Landminen gestiegen",
-   "s": "Fast 7.000 Menschen wurden im vergangenen Jahr weltweit Opfer von Landminen. Das ist die höchste Zahl seit fünf Jahren. Am meisten gefährdet sind Kinder - oft halten sie die Minen für Spielzeug. Von Sandra Biegger.",
-   "u": "https://www.tagesschau.de/ausland/europa/landminen-monitor-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T09:41:25+00:00"
   },
   {
    "t": "Zehn Jahre Friedensvertrag: Kolumbien so polarisiert wie lange nicht",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html",
    "q": "Tagesschau",
    "d": "2026-11-23T00:55:05+00:00"
-  },
-  {
-   "t": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
-   "s": "Am Samstag war der russische Frachter \"Sparta II\" in der Ostsee von einer Drohne getroffen worden und in Brand geraten. Laut finnischem Grenzschutz hat das Schiff Schlagseite, kann aber in russische Gewässer geschleppt werden.",
-   "u": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T19:53:03+00:00"
-  },
-  {
-   "t": "Türkischer Sender Sözcü TV: Journalismus unter Zwangsverwaltung",
-   "s": "Der regierungskritische türkische Sender Sözcü steht seit wenigen Tagen unter Zwangsverwaltung. Für die Journalisten war die Razzia ein Schock - wie hat sich seitdem ihre Arbeit verändert? Von Isabel Gotovac.",
-   "u": "https://www.tagesschau.de/ausland/asien/tuerkei-sender-soezcue-zwangsverwaltung-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T14:21:45+00:00"
-  },
-  {
-   "t": "Nach Drohnenangriff: Löscharbeiten an der \"Sparta II\" dauern an",
-   "s": "Noch immer laufen die Löscharbeiten an dem russischen Frachter in der Ostsee vor Finnland. Was das Schiff geladen hat, ist weiterhin unklar. Es war von einer Drohne getroffen worden - vermutlich aus der Ukraine.",
-   "u": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T11:41:16+00:00"
-  },
-  {
-   "t": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
-   "s": "Die Weltklimakonferenz in Antalya ist schon in der Verlängerung, um ein Beschlusspapier wird heftig gerungen. Nun hat Umweltminister Schneider den Entwurf scharf zurückgewiesen - und erhebt Vorwürfe gegen einige Staaten.",
-   "u": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T11:19:54+00:00"
-  },
-  {
-   "t": "Israel: Warum die Stadt Bat Yam Iran verklagt",
-   "s": "Mehr als ein Jahr nach dem verheerenden Raketenangriff auf ein Wohnviertel im israelischen Bat Yam sind viele Familien nicht in ihre Wohnungen zurückgekehrt. Nun hat die Stadt Klage gegen Iran eingereicht. Von Bettina Meier.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T09:48:00+00:00"
-  },
-  {
-   "t": "Australien: Social-Media-Verbot mit Lücken und Mängeln",
-   "s": "Jugendliche vor den Folgen von Social Media zu schützen, das war die Idee hinter dem Social-Media-Verbot in Australien. Ein Jahr danach zeigt sich, wo es bei der Umsetzung hakt. Von C. Justus und P. Nöhr.",
-   "u": "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
-   "q": "Tagesschau",
-   "d": "2026-11-22T07:26:24+00:00"
   }
  ]
 }
