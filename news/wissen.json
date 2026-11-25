@@ -1,7 +1,21 @@
 {
  "name": "Wissen",
- "updated": "2026-11-25T12:57:32+00:00",
+ "updated": "2026-11-25T23:37:42+00:00",
  "items": [
+  {
+   "t": "Asteroiden-Abwehr - einfach schießen und hoffen reicht nicht",
+   "s": "Was tun, wenn ein Asteroid auf die Erde zusteuert? Die Sonde \"Hera\" untersucht einen Asteroiden, an dem so ein Abwehrversuch getestet wurde. Noch fehlen viele Informationen, klar ist aber: Einfach wird das nicht. Von David Beck.",
+   "u": "https://www.tagesschau.de/wissen/sonde-hera-asteroid-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T17:30:09+00:00"
+  },
+  {
+   "t": "Erwerbstätige Frauen in der Lebensmitte laut TK-Gesundheitsreport stärker belastet als Männer",
+   "s": "Erwerbstätige Frauen in der Lebensmitte laut TK-Gesundheitsreport stärker belastet als Männer",
+   "u": "https://www.tagesschau.de/video/video-1689712.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T14:05:33+00:00"
+  },
   {
    "t": "Drei Supermonde in Folge: Was macht einen Mond super?",
    "s": "Heute geht es los: Bei drei Vollmonden - im November, Dezember und Januar - wird der Mond der Erde besonders nahe sein. Das macht sie zu sogenannten Supermonden. Was genau steckt dahinter? Von Heike Westram.",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/klima/klimaschutz-212.html",
    "q": "Tagesschau",
    "d": "2026-11-11T11:02:47+00:00"
-  },
-  {
-   "t": "Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück",
-   "s": "Die UN-Klimakonferenz sucht nach Wegen aus den fossilen Energieträgern. Aktuelle Zahlen zeigen: Die fossilen CO2-Emissionen gehen leicht zurück. Doch Experten warnen, dies könne nur ein vorübergehender Effekt sein. Von Simon Plentinger.",
-   "u": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-10T04:01:04+00:00"
-  },
-  {
-   "t": "31. Klimakonferenz der UN startet - Guterres fordert mehr Einsatz",
-   "s": "Im türkischen Antalya beginnt die 31. Klimakonferenz der Vereinten Nationen. Zwei Wochen lang beraten Vertreter von fast 200 Ländern über Maßnahmen gegen die Erderwärmung. UN-Generalsekretär Guterres verweist auf die Dringlichkeit.",
-   "u": "https://www.tagesschau.de/wissen/klima/cop-in-antalya-beginnt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-09T03:59:05+00:00"
   }
  ]
 }

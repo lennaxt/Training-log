@@ -1,7 +1,42 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-25T12:57:34+00:00",
+ "updated": "2026-11-25T23:37:44+00:00",
  "items": [
+  {
+   "t": "EU-Gipfel zum Westbalkan: Jetzt oder vielleicht nie",
+   "s": "Nach dem Machtwechsel in Serbien will die EU die Annäherung der Region beschleunigen. Das Zeitfenster für Beitritte schließt sich aber.",
+   "u": "https://taz.de/EU-Gipfel-zum-Westbalkan/!6233359/",
+   "q": "taz",
+   "d": "2026-11-25T18:53:00+00:00"
+  },
+  {
+   "t": "Generalstreik in Griechenland: Geld für Bildung, nicht für Krieg",
+   "s": "Gewerkschaften haben in Griechenland zum Generalstreik aufgerufen. Zehntausende legten die Arbeit nieder aus Protest gegen hohe Lebenshaltungskosten.",
+   "u": "https://taz.de/Generalstreik-in-Griechenland/!6233064/",
+   "q": "taz",
+   "d": "2026-11-25T16:41:00+00:00"
+  },
+  {
+   "t": "Repression gegen Seenotrettung: Spionage bei Sea-Watch",
+   "s": "Das Handy einer Sprecherin der Seenotrettungsorganisation soll über Monate per Spyware überwacht worden sein. Die NGO hat Anzeige erstattet.",
+   "u": "https://taz.de/Repression-gegen-Seenotrettung/!6233407/",
+   "q": "taz",
+   "d": "2026-11-25T16:29:00+00:00"
+  },
+  {
+   "t": "Gewalt gegen Frauen in Russland: Jahrelang vom eigenen Vater missbraucht",
+   "s": "Julias Vater terrorisierte seine Familie und wurde immer wieder gewalttätig. Erst mit Hilfe eines Konsortiums von Frauen-NGOs gelang es, den Mann zu verurteilen.",
+   "u": "https://taz.de/Gewalt-gegen-Frauen-in-Russland/!6232715/",
+   "q": "taz",
+   "d": "2026-11-25T16:18:00+00:00"
+  },
+  {
+   "t": "Mobbing an russischen Schulen: „Lehrer beschimpfen Schülerinnen als dumm oder fett“",
+   "s": "Laut Kreml ist es auch für Schüler die höchste staatsbürgerliche Tugend, unter russischer Flagge zu kämpfen. Derweil grassiert an Schulen die Gewalt.",
+   "u": "https://taz.de/Mobbing-an-russischen-Schulen/!6232986/",
+   "q": "taz",
+   "d": "2026-11-25T15:16:00+00:00"
+  },
   {
    "t": "Ungarns Magyar besucht die Ukraine: Volleyball statt Eiszeit",
    "s": "Ungarns Regierungschef Peter Magyar trifft den ukrainischen Präsidenten Wolodymyr Selenskyj in Transkarpatien. Die Beziehungen tauen zumindest ein bisschen auf.",
@@ -10,8 +45,8 @@
    "d": "2026-11-25T08:53:00+00:00"
   },
   {
-   "t": "+++ Nachrichten im Ukrainekrieg +++: Zwei libysche Soldaten sterben nach ukrainischen Angriffen",
-   "s": "Nach dem ukrainischen Drohnenangriff auf ein russisches Kriegsschiff sind zwei libysche Soldaten gestorben, teilten Ostlibyens Machthaber mit. Nordkorea weist Schweizer aus.",
+   "t": "+++ Nachrichten im Ukrainekrieg +++: Flugverbot an polnisch-ukrainischer Grenze",
+   "s": "Nach mehreren Luftraumverletzungen führt Polen an der Grenze zur Ukraine eine Flugverbotszone ein. Nordkorea weist Schweizer aus.",
    "u": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6232989/",
    "q": "taz",
    "d": "2026-11-25T08:50:00+00:00"
@@ -134,41 +169,6 @@
    "u": "https://taz.de/Gelbwesten-und-Gen-Z/!6232270/",
    "q": "taz",
    "d": "2026-11-22T15:10:00+00:00"
-  },
-  {
-   "t": "Nach dem britischen Abkommen mit der EU: Ein akzeptabler Anfang – und nun?",
-   "s": "Andy Burnhams Wiederannäherung an die EU wird in Großbritannien begrüßt. Aber EU-Gegner sind dagegen und EU-Enthusiasten wünschen sich mehr Weitblick.",
-   "u": "https://taz.de/Nach-dem-britischen-Abkommen-mit-der-EU/!6232229/",
-   "q": "taz",
-   "d": "2026-11-22T13:43:00+00:00"
-  },
-  {
-   "t": "Suizid des italienischen Ex-Polizeichefs: De Gennaro ist tot",
-   "s": "Italiens Ex-Polizeichef De Gennaro ist tot. Die Justiz ermittelte gegen ihn wegen des Verdachts, die Aufklärung des Mordes an Borsellino behindert zu haben.",
-   "u": "https://taz.de/Ermittlungen-zum-Mord-an-Borsellino/!6232167/",
-   "q": "taz",
-   "d": "2026-11-22T09:47:00+00:00"
-  },
-  {
-   "t": "Wahlen in Spanien: Die rechtsextreme Atlantik-Brücke",
-   "s": "Unser Autor geriet im Herbst 2025 ins Visier des MAGA-Umfelds und floh nach Spanien. Doch nun steht dort die rechtsextreme Vox vor einem Wahlerfolg.",
-   "u": "https://taz.de/Wahlen-in-Spanien/!6223526/",
-   "q": "taz",
-   "d": "2026-11-21T19:14:00+00:00"
-  },
-  {
-   "t": "Verhandlungen im Ukrainekrieg: Mehr als die Frage einer Präposition",
-   "s": "Wo wird verhandelt über die Ukraine? Und wer ist überhaupt dabei? Erneut gibt es Irritationen über das passende Format der Europäer. Den Kreml freut's.",
-   "u": "https://taz.de/Verhandlungen-im-Ukraine-Krieg/!6232164/",
-   "q": "taz",
-   "d": "2026-11-21T15:54:00+00:00"
-  },
-  {
-   "t": "Handelsabkommen Indonesien und EU: Weniger Zölle und Zugang zu Rohstoffen",
-   "s": "Das neue Abkommen mit dem weltgrößten Inselstaat soll europäischen Unternehmen neue Chancen eröffnen. Vielleicht sogar schon ab 2027?",
-   "u": "https://taz.de/Handelsabkommen-Indonesien-und-EU/!6232161/",
-   "q": "taz",
-   "d": "2026-11-21T14:50:00+00:00"
   }
  ]
 }

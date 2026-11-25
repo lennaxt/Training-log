@@ -1,7 +1,21 @@
 {
  "name": "Sport",
- "updated": "2026-11-25T12:57:35+00:00",
+ "updated": "2026-11-25T23:37:45+00:00",
  "items": [
+  {
+   "t": "Neue Geopolitik: Mehr Kooperation wagen",
+   "s": "Warum Deutschland und Europa stärker mit Indien kooperieren wollen und warum auch Neu-Delhi internationale Partnerschaften breiter aufstellen will.",
+   "u": "https://taz.de/Neue-Geopolitik/!6223991/",
+   "q": "taz",
+   "d": "2026-11-25T15:00:00+00:00"
+  },
+  {
+   "t": "Xi Jinpings Säuberungswelle: Nun fallen auch Chinas Vorzeigetechnokraten",
+   "s": "Chen Jining galt als Vertreter eines neuen Kadertyps mit besten Karrierechancen. Doch jetzt wird auch gegen den Parteichef von Shanghai ermittelt.",
+   "u": "https://taz.de/Xi-Jinpings-Saeuberungswelle/!6233057/",
+   "q": "taz",
+   "d": "2026-11-25T13:33:00+00:00"
+  },
   {
    "t": "Freihandelsabkommen EU-Indien: Die „Mutter aller Abkommen“ schweigt zu Menschenrechten",
    "s": "Das Abkommen zeigt Indiens Weigerung, sich ernsthaft mit Menschenrechtsfragen auseinanderzusetzen, wie Europas Verzicht, seinen Einfluss zu nutzen.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Kurz-vor-Apec/!6230721/",
    "q": "taz",
    "d": "2026-11-17T10:24:00+00:00"
-  },
-  {
-   "t": "Gipfeltreffen von Trump, Xi und Putin: Die Dreisten Drei",
-   "s": "Die Staatschefs von Russland, China und den USA treffen sich medienwirksam in Shenzhen. Doch mehr als diplomatischer Pomp ist dabei nicht zu erwarten.",
-   "u": "https://taz.de/Gipfeltreffen-von-Trump-Xi-und-Putin/!6230717/",
-   "q": "taz",
-   "d": "2026-11-17T09:37:00+00:00"
-  },
-  {
-   "t": "Krieg in Afghanistan: Internationaler Strafgerichtshof lässt USA vom Haken",
-   "s": "Die Untersuchung von Kriegsverbrechen des US-Militärs und ihrer afghanischer Verbündeter soll eingestellt werden. Men­schen­recht­le­r:in­nen üben Kritik.",
-   "u": "https://taz.de/Krieg-in-Afghanistan/!6230121/",
-   "q": "taz",
-   "d": "2026-11-15T14:43:00+00:00"
   }
  ]
 }

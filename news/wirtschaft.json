@@ -1,7 +1,49 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-25T12:57:31+00:00",
+ "updated": "2026-11-25T23:37:42+00:00",
  "items": [
+  {
+   "t": "Wirtschaft vor acht vom 25.11.2026",
+   "s": "Wirtschaft vor acht vom 25.11.2026",
+   "u": "https://www.tagesschau.de/video/video-1689964.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T19:49:52+00:00"
+  },
+  {
+   "t": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
+   "s": "Im neuen Gesundheitsreport blickt die Techniker Krankenkasse auf die Situation von Frauen zwischen 35 und 55. Sie sind eine wichtige Gruppe von Arbeitnehmerinnen - und häufiger krank als gleichaltrige Männer. Von A. Kartschall.",
+   "u": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T17:37:52+00:00"
+  },
+  {
+   "t": "KI-Ernüchterung an den Börsen greift um sich",
+   "s": "An den US-Börsen geht die Verkaufswelle bei Tech-Aktien weiter. Die alten Sorgen von Investoren wegen der Geschäfts mit Künstlicher Intelligenz bleiben - und neue sind hinzugekommen. Von Heidi Radvilas.",
+   "u": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-rueckkehr-huang-boersen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T16:28:08+00:00"
+  },
+  {
+   "t": "USA kündigen neue Zölle an - auch gegen EU und China",
+   "s": "Die USA haben neue Sonderzölle gegen die EU und weitere Handelspartner angekündigt. Für betroffene EU-Produkte ist ein Zollsatz von 15 Prozent vorgesehen, auf chinesische Waren soll eine Abgabe von 20 Prozent fällig werden.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T15:18:25+00:00"
+  },
+  {
+   "t": "Discounter senken Butterpreis unter einen Euro",
+   "s": "Die Discounter Lidl und Aldi haben den Preis für ein Stück Butter unter einen Euro gesenkt. Das liege an gesunkenen Einkaufspreisen. Der Bauernverband kritisiert die Senkung als \"Ohrfeige für Milchbauern\".",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/butter-preis-preiskampf-discounter-bauern-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T14:01:31+00:00"
+  },
+  {
+   "t": "Kartenzahlung überholt erstmals Bargeld in Geschäften",
+   "s": "Verbraucher in der Eurozone nutzen immer häufiger Kartenzahlungen. Trotzdem bleibt Bargeld beliebt - vor allem geringe Summen werden nach wie vor oft bar bezahlt.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/ezb-zahlungsverhalten-bargeld-kartenzahlung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T13:32:13+00:00"
+  },
   {
    "t": "Nach Apple-Absprung: Samsung steigt bei AMS-Osram ein",
    "s": "Nach dem Rückzug von Apple drohte eine teure Chipfabrik für AMS-Osram zum Verlustgeschäft zu werden. Nun investiert Samsung 210 Millionen Euro. Kann aus dem gescheiterten Milliardenprojekt ein Zukunftsgeschäft werden?",
@@ -66,20 +108,6 @@
    "d": "2026-11-25T05:28:36+00:00"
   },
   {
-   "t": "US-Medienberichte: Trump plant wohl neue Zölle - auch gegen die EU",
-   "s": "Die US-Regierung bereitet offenbar neue Zölle gegenüber China, der EU und weiteren Ländern vor. Der Schritt erfolgt, nachdem die Zölle vom Supreme Court als illegal eingestuft wurden.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-122.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T04:08:29+00:00"
-  },
-  {
-   "t": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
-   "s": "Huang ist zurück als Chef von Nvidia. Doch die Krise ist nicht ausgestanden. Der US-Kongress fordert Antworten. Und auch für Trump könnte der Fall Konsequenzen haben. Von A. Herbst.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T20:17:10+00:00"
-  },
-  {
    "t": "Verbraucherschützer haben die smarte Brille im Blick",
    "s": "Verbraucherschützer gehen juristisch gegen KI-Brillen von Meta und Ray-Ban vor. Der Vorwurf: Mit smarten Brillen lassen sich Fotos und Videos aufnehmen, ohne dass andere Menschen das bemerken. Auch Nutzern könnten Bußgelder drohen. Von Jens Eberl.",
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/smart-glasses-klage-verbraucherschutz-100.html",
@@ -87,32 +115,11 @@
    "d": "2026-11-24T19:06:34+00:00"
   },
   {
-   "t": "Wirtschaft vor acht vom 24.11.2026",
-   "s": "Wirtschaft vor acht vom 24.11.2026",
-   "u": "https://www.tagesschau.de/video/video-1689280.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T19:04:41+00:00"
-  },
-  {
    "t": "Steinmeier appelliert an Wirtschaft: Chancen in Afrika nutzen",
    "s": "Bisher gehen nur 1,8 Prozent der deutschen Exporte nach Afrika. Dabei leben auf dem Kontinent 1,6 Milliarden Menschen. Von \"ungenutzten wirtschaftlichen Chancen\" spricht Bundespräsident Steinmeier in Ghana.",
    "u": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/steinmeier-deutsch-afrikanischer-wirtschaftsgipfel-100.html",
    "q": "Tagesschau",
    "d": "2026-11-24T17:21:31+00:00"
-  },
-  {
-   "t": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
-   "s": "Die Rückkehr des Nvidia-Chefs ließ den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profitiert hat davon offenbar auch US-Präsident Trump - der sich zuvor für Huang eingesetzt hatte.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T14:51:13+00:00"
-  },
-  {
-   "t": "Nvidia hält die Märkte in Atem",
-   "s": "Nach der gestrigen Rally gehen an den Aktienmärkten Zweifel um. Die plötzliche Rückkehr von Nvidia-Chef Jensen Huang hat nur wenige Probleme gelöst - und neue Fragen aufgeworfen. Von D. Landmesser.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T14:01:35+00:00"
   },
   {
    "t": "\"GTA VI\": Arbeitskampf hinter dem größten Videospiel der Welt",
@@ -150,25 +157,18 @@
    "d": "2026-11-24T10:28:45+00:00"
   },
   {
-   "t": "Rückkehr von Nvidia-Chef: \"Nie dagewesenes Verwischen von Grenzen\"",
-   "s": "Eine Rückkehr von Jensen Huang an die Spitze des Chipherstellers Nvidia haben die Wenigsten erwartet. Die Suche nach den Gründen des Comebacks führt bis zur Spitze der US-Regierung. Das kritisieren nicht nur die Demokraten. Von Antje Sieb.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-trump-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T07:55:06+00:00"
-  },
-  {
-   "t": "Nvidia-Skandal: US-Regierung setzt Megaspeed auf schwarze Liste",
-   "s": "Die Firma Megaspeed erlangte innerhalb kurzer Zeit weltweite Aufmerksamkeit. Grund war die Affäre von Nvidia-Chef Huang mit einer früheren Managerin des Unternehmens, die der Spionage verdächtigt wird. Nun landete Megaspeed auf einer US-Sperrliste.",
-   "u": "https://www.tagesschau.de/wirtschaft/unternehmen/megaspeed-us-regierung-sperrliste-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T07:42:34+00:00"
-  },
-  {
    "t": "VW-Tarifrunde beginnt in Emden - wo die Streitpunkte liegen",
    "s": "Mitten in der tiefsten Krise der Konzerngeschichte startet heute die Tarifrunde für rund 120.000 Volkswagen-Beschäftigte. Das Management will Kosten senken, die IG Metall wehrt sich gegen weitere Einbußen. Von T. Hildebrandt.",
    "u": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifrunde-emden-auftakt-100.html",
    "q": "Tagesschau",
    "d": "2026-11-24T05:04:00+00:00"
+  },
+  {
+   "t": "Mehr Stromspar-Checks für Haushalte mit wenig Geld geplant",
+   "s": "Die Finanzierung des Stromspar-Checks ist für weitere drei Jahre gesichert. Damit können sich Haushalte mit geringem Einkommen kostenlos beraten lassen und Zuschüsse bekommen. Die wichtigsten Fragen und Antworten.",
+   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-23T20:11:45+00:00"
   }
  ]
 }

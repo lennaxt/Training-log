@@ -1,9 +1,44 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-25T12:57:33+00:00",
+ "updated": "2026-11-25T23:37:43+00:00",
  "items": [
   {
-   "t": "Ermittlungen gegen „Terror 18“: Bundesanwaltschaft knüpft sich nächste Jungnazi-Gruppe vor",
+   "t": "Pflegereform und Betroffene: „Dieses Gesetz muss gestoppt werden“",
+   "s": "In einer Anhörung im Bundestag kritisieren Angehörige und Pflegedienste das neue Pflegespargesetz, das schon in sechs Wochen in Kraft treten soll",
+   "u": "https://taz.de/Pflegereform-und-Betroffene/!6233437/",
+   "q": "taz",
+   "d": "2026-11-25T18:47:00+00:00"
+  },
+  {
+   "t": "Bundeshaushalt 2027: Damit die Gen Z in Ruhe alt werden kann",
+   "s": "Es führt kein Weg an den gigantischen Ausgaben für die Verteidigung vorbei. Das heißt aber nicht, dass für den Sozialstaat nichts mehr übrig bliebe.",
+   "u": "https://taz.de/Bundeshaushalt-2027/!6227662/",
+   "q": "taz",
+   "d": "2026-11-25T16:10:00+00:00"
+  },
+  {
+   "t": "Unter Schirmherrschaft von Grünem: Frühstück mit Ex-Mossad-Chef endet im Eklat",
+   "s": "Linken-Abgeordnete haben versucht, eine Veranstaltung mit dem Ex-Chef von Israels Auslandsgeheimdienst im Bundestag zu blockieren. Ihm werden Kriegsverbrechen vorgeworfen.",
+   "u": "https://taz.de/Unter-Schirmherrschaft-von-Gruenem/!6233076/",
+   "q": "taz",
+   "d": "2026-11-25T15:02:00+00:00"
+  },
+  {
+   "t": "Debatte um Pflege-Spargesetz: Leere Kassen, umstrittene Pläne",
+   "s": "Die Pflegekassen fordern eine Finanzierungsgarantie, der Städtetag-Präsident sieht einen Vertrauensbruch: Das Pflege-Gesetz bleibt umstritten. Der Druck auf den Bund ist groß.",
+   "u": "https://taz.de/Debatte-um-Pflege-Spargesetz/!6233292/",
+   "q": "taz",
+   "d": "2026-11-25T13:35:00+00:00"
+  },
+  {
+   "t": "Generaldebatte zum Haushalt: „Russland will mehr als die Ukraine“",
+   "s": "Die Frage, was man sich künftig noch leisten kann, stellt selbst der Kanzler. Sie bestimmt die Generaldebatte im Bundestag und spaltet die Koalition.",
+   "u": "https://taz.de/Generaldebatte-zum-Haushalt/!6233274/",
+   "q": "taz",
+   "d": "2026-11-25T13:31:00+00:00"
+  },
+  {
+   "t": "Ermittlungen gegen „Terror 18“: Bundesanwaltschaft knöpft sich nächste Jungnazi-Gruppe vor",
    "s": "Sie drohten in Chats mit Gewalt, wollten Brandanschläge verüben. Nun geht die Bundesanwaltschaft gegen die Neonazis von „Terror 18“ vor.",
    "u": "https://taz.de/Ermittlungen-gegen-Terror-18/!6233004/",
    "q": "taz",
@@ -43,13 +78,6 @@
    "u": "https://taz.de/Tag-gegen-Gewalt-an-Frauen/!6232595/",
    "q": "taz",
    "d": "2026-11-24T19:03:00+00:00"
-  },
-  {
-   "t": "Briefe an das Morgen: Nach dem Cistemsturz",
-   "s": "Was bringt die Zukunft? Trans und nichtbinäre Au­to­r:in­nen haben über ihre Ziele, Hoffnungen und eine Botschaft an ihre Geschwister nachgedacht. Vier Briefe.",
-   "u": "https://taz.de/Briefe-an-das-Morgen/!6223587/",
-   "q": "taz",
-   "d": "2026-11-24T19:00:00+00:00"
   },
   {
    "t": "Minister will keine Dunkelfeldstudie: Kultur des Wegschauens",
@@ -108,13 +136,6 @@
    "d": "2026-11-24T08:30:00+00:00"
   },
   {
-   "t": "trans Kol­le­g*in­nen über die taz: „Das sind Waffen, die gegen uns verwendet werden“",
-   "s": "Wie fortschrittlich ist die taz wirklich? Wir haben trans Kol­le­g*in­nen zum Gespräch gebeten, wie es um ihr Arbeitsumfeld bestellt ist.",
-   "u": "https://taz.de/trans-Kolleginnen-ueber-die-taz/!6223494/",
-   "q": "taz",
-   "d": "2026-11-23T19:00:00+00:00"
-  },
-  {
    "t": "Haushaltsberatungen: Milliarden für die Falschen",
    "s": "Der Haushalt für 2027 soll diese Woche vom Bundestag beschlossen werden. Doch Söder lenkt mit der kalten Progression von den eigentlichen Baustellen ab.",
    "u": "https://taz.de/Haushaltsberatungen/!6232444/",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/Freie-Waehler/!6232569/",
    "q": "taz",
    "d": "2026-11-23T15:33:00+00:00"
-  },
-  {
-   "t": "Nach Tod von Hubert Aiwanger: Bayerns Digitalminister soll neuer Freie-Wähler-Chef werden",
-   "s": "Nach dem plötzlichen Tod ihres langjährigen Chefs sortieren sich die Freien Wähler neu. Doch reicht das, um Aiwangers riesige Lücke zu füllen?",
-   "u": "https://taz.de/Nach-Tod-von-Hubert-Aiwanger/!6232511/",
-   "q": "taz",
-   "d": "2026-11-23T14:47:00+00:00"
-  },
-  {
-   "t": "Bewerbungen schreiben: Aufwand bei Jobsuche deutlich gestiegen",
-   "s": "Eine Umfrage hat Bewerbungsprozesse untersucht. Ergebnis: Trotz Künstlicher Intelligenz dauert das Bewerben sowie die Suche nach Jobs länger.",
-   "u": "https://taz.de/Bewerbungen-schreiben/!6232421/",
-   "q": "taz",
-   "d": "2026-11-23T10:31:00+00:00"
-  },
-  {
-   "t": "BND-Reform: Dürfen Geheimdienste Therapiegespräche abhören?",
-   "s": "Nachrichtendienste bekommen mehr Befugnisse: Das betrifft auch Jour­na­lis­t:in­nen und Psychotherapeut:innen. Was sich für diese jetzt ändern könnte.",
-   "u": "https://taz.de/Reform-der-Geheimdienste-Darf-das-Gespraech-beim-Psychotherapeuten-abgehoert-werden/!6231059/",
-   "q": "taz",
-   "d": "2026-11-23T06:04:00+00:00"
   }
  ]
 }

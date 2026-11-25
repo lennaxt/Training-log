@@ -1,13 +1,62 @@
 {
  "name": "Ausland",
- "updated": "2026-11-25T12:57:30+00:00",
+ "updated": "2026-11-25T23:37:41+00:00",
  "items": [
   {
-   "t": "Tote und Vermisste nach Überflutung in Goldmine",
-   "s": "In einer illegal errichteten indonesischen Goldmine sind Bergleute von Wassermassen überrascht und eingeschlossen worden. Die Rettungsmaßnahmen laufen. Bisher wurden drei Tote geborgen.",
-   "u": "https://www.tagesschau.de/ausland/asien/unglueck-illegale-goldmine-indonesien-100.html",
+   "t": "Ägypten: Mindestens 30 Tote bei Großbrand auf Autobahn in Gizeh",
+   "s": "Ein mit Gasflaschen beladener Lkw hat bei einem Unfall auf einer Autobahn in der ägyptischen Stadt Gizeh einen Großbrand ausgelöst. Mindestens 30 Menschen starben bei dem Unglück, viele wurden verletzt.",
+   "u": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-25T12:31:45+00:00"
+   "d": "2026-11-25T21:10:04+00:00"
+  },
+  {
+   "t": "Bestechungsvorwurf gegen Netanjahu könnte fallen gelassen werden",
+   "s": "Seit Jahren muss sich Israels Premier wegen Betrugs, Untreue und Bestechlichkeit vor Gericht verantworten. Jetzt haben Richter empfohlen, den letzten Anklagepunkt fallen zu lassen. Netanjahu sieht den ganzen Prozess als gescheitert.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T19:50:08+00:00"
+  },
+  {
+   "t": "Proteste gegen Gewalt an Frauen in Istanbul verboten",
+   "s": "Frauenrechtsorganisationen wollten in Istanbul gegen Gewalt an Frauen demonstrieren. Doch nach dem Demoaufruf wurden die Proteste verboten. Dennoch gingen am Abend zahlreiche Menschen auf die Straße.",
+   "u": "https://www.tagesschau.de/ausland/europa/tuerkei-orange-day-demo-verboten-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T19:36:24+00:00"
+  },
+  {
+   "t": "EU-Kommission erlaubt weiter Staatshilfen für Landwirte und Industrie",
+   "s": "Landwirte, Industrie und andere Unternehmen können wegen der anhaltenden Energiekrise weiterhin mit staatlichen Zuschüssen rechnen. Laut EU-Kommission bleibt es bis mindestens Ende Juni 2027 bei den gelockerten Regeln zur Beihilfe.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T16:29:03+00:00"
+  },
+  {
+   "t": "USA kündigen neue Zölle an - auch gegen EU und China",
+   "s": "Die USA haben neue Sonderzölle gegen die EU und weitere Handelspartner angekündigt. Für betroffene EU-Produkte ist ein Zollsatz von 15 Prozent vorgesehen, auf chinesische Waren soll eine Abgabe von 20 Prozent fällig werden.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T15:18:25+00:00"
+  },
+  {
+   "t": "Gewalt gegen Frauen in Brasilien: Auf Streife gegen Femizide",
+   "s": "In Brasilien hat die Zahl der Frauenmorde vergangenes Jahr einen Höchststand erreicht. Eine Spezialeinheit der Polizei soll gefährdete Frauen schützen - unterwegs mit einer Patrouille in Rio de Janeiro. Von Xenia Böttcher.",
+   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-gewalt-gegen-frauen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T14:36:37+00:00"
+  },
+  {
+   "t": "74 Peitschenhiebe für iranische Sängerin lösen Empörung aus",
+   "s": "Ein Onlinekonzert ohne Kopftuch - dafür erhielt die iranische Sängerin Parastu Ahmadi 74 Peitschenhiebe. Das löste international große Empörung aus. Die Strafe sei \"grausam und unmenschlich\" und eine Form der Folter.",
+   "u": "https://www.tagesschau.de/ausland/asien/iran-saengerin-peitschenhiebe-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T14:07:47+00:00"
+  },
+  {
+   "t": "EU-Parlament stimmt neuen Arzneimittelregeln zu",
+   "s": "Ob Antibiotika oder Fiebersäfte für Kinder: Immer wieder fehlen in Europa Medikamente - Grund ist auch die große Abhängigkeit von Asien. Das will die EU ändern. Das Parlament stimmte neuen Arzneimitteln-Regeln zu.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-parlament-arzneimittel-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-25T14:00:56+00:00"
   },
   {
    "t": "Umstrittener Abschiebefall: Salvadorianer Abrego García hat USA verlassen",
@@ -22,13 +71,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/single-urlaub-finnland-100.html",
    "q": "Tagesschau",
    "d": "2026-11-25T10:40:38+00:00"
-  },
-  {
-   "t": "EU will Versorgung mit Arzneimitteln sicherstellen",
-   "s": "Ob Antibiotika oder Fiebersäfte für Kinder: Immer wieder fehlen in Europa Medikamente - Grund ist auch die große Abhängigkeit von Asien. Das will die EU ändern. Heute stehen im Parlament zwei Gesetzesvorhaben zur Abstimmung.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-parlament-arzneimittel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T08:24:12+00:00"
   },
   {
    "t": "Europas größte Satellitenfabrik eröffnet",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html",
    "q": "Tagesschau",
    "d": "2026-11-23T17:23:33+00:00"
-  },
-  {
-   "t": "Russisches Kriegsschiff versenkt: \"Für Russland ist Libyen eine Art Rückzugsort\"",
-   "s": "Die Ukraine hat ein russisches Kriegsschiff in Libyen versenkt. Damit ist in dem Krieg zum ersten Mal ein Hafen im Mittelmeer betroffen. In Libyen wächst die Sorge, in den Konflikt hineingezogen zu werden. Von M. Behrendt.",
-   "u": "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T13:34:43+00:00"
-  },
-  {
-   "t": "\"Koalition der Willigen\" absolviert Militärübung in Polen",
-   "s": "Es war die erste militärische Übung der \"Koalition der Willigen\": Hunderte Soldaten haben in Polen getestet, wie in der Ukraine Frieden gesichert werden kann. Zum Ende schlugen nahe dem Gelände russische Raketen ein. Von P. Milling.",
-   "u": "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T10:30:31+00:00"
-  },
-  {
-   "t": "Ukraine bekennt sich zu Zerstörung von russischem Kriegsschiff",
-   "s": "Die russische Korvette \"Merkury\" ging erst vor drei Jahren in Betrieb, nun wurde sie bei einem Angriff in einem libyschen Hafen versenkt. Präsident Selenskyj erklärte, die Ukraine habe die Attacke mit Seedrohnen durchgeführt.",
-   "u": "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T08:24:41+00:00"
-  },
-  {
-   "t": "Russisches Kriegsschiff nach Explosion in Libyen gesunken",
-   "s": "In einem Hafen der libyschen Stadt Bengasi ist ein russisches Kriegsschiff versenkt worden - mutmaßlich durch einen Drohnenangriff. Berichten zufolge soll die Ukraine hinter dem Vorfall stecken.",
-   "u": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T07:20:04+00:00"
-  },
-  {
-   "t": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
-   "s": "Das russische Militär geht weiter unvermindert gegen die Zivilbevölkerung in der Ukraine vor. Mindestens zehn Menschen wurden getötet, als in der Nacht zu Sonntag ein Wohnhaus in der Region Kiew angegriffen wurde.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T04:43:07+00:00"
-  },
-  {
-   "t": "US-Repräsentantenhaus: Demokraten so stark wie zuletzt 1992",
-   "s": "Die Demokraten haben ihre Mehrheit im US-Repräsentantenhaus weiter ausgebaut. Ab Januar stellen sie dort mindestens 258 Abgeordnete - zuletzt gelang ihnen dies vor mehr als 30 Jahren zu Zeiten von Bill Clinton.",
-   "u": "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T00:55:05+00:00"
   }
  ]
 }
