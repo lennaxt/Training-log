@@ -1,7 +1,14 @@
 {
  "name": "Wissen",
- "updated": "2026-11-26T12:36:37+00:00",
+ "updated": "2026-11-26T23:51:45+00:00",
  "items": [
+  {
+   "t": "Deutsche Firmen forschen an Technik für Waffendepots im Weltraum",
+   "s": "Angesichts der globalen Bedrohungslage gewinnt der Weltraum beim Thema Verteidigung an Bedeutung. Eine neue Technologie aus Deutschland soll den schnellen Transport von Waffen aus dem Orbit auf die Erde ermöglichen. Von U. Gradwohl und L.Wager.",
+   "u": "https://www.tagesschau.de/wissen/waffendepots-orbit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T19:15:35+00:00"
+  },
   {
    "t": "Asteroiden-Abwehr - einfach schießen und hoffen reicht nicht",
    "s": "Was tun, wenn ein Asteroid auf die Erde zusteuert? Die Sonde \"Hera\" untersucht einen Asteroiden, an dem so ein Abwehrversuch getestet wurde. Noch fehlen viele Informationen, klar ist aber: Einfach wird das nicht. Von David Beck.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wissen/gesundheit/vapes-baller-liquids-drogen-jugendliche-100.html",
    "q": "Tagesschau",
    "d": "2026-11-15T04:11:26+00:00"
-  },
-  {
-   "t": "Wenn Klimaschutz überfordert",
-   "s": "Vielen Menschen ist das Thema Klimaschutz wichtig - das zumindest zeigen Umfragen. Doch häufig werden Maßnahmen, die die Umwelt schützen sollen, abgelehnt. Wie passt das zusammen? Von Magdalena Schmude.",
-   "u": "https://www.tagesschau.de/wissen/klima/klimaschutz-212.html",
-   "q": "Tagesschau",
-   "d": "2026-11-11T11:02:47+00:00"
   }
  ]
 }

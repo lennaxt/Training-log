@@ -1,7 +1,140 @@
 {
  "name": "Inland",
- "updated": "2026-11-26T12:36:34+00:00",
+ "updated": "2026-11-26T23:51:43+00:00",
  "items": [
+  {
+   "t": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
+   "s": "Die Debatte über die \"Rente mit 63\" wird zunehmend unübersichtlich: Welche Vorschläge werden aktuell diskutiert? Was deutet auf Bewegung innerhalb der Koalition hin? Und warum ist das Thema so umstritten? Ein Überblick.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T19:16:09+00:00"
+  },
+  {
+   "t": "Zusammenarbeit von AfD und BSW: Ein Freund, ein guter Freund",
+   "s": "Beim BSW-Bundesparteitag am Wochenende droht eine Eskalation mit Ansage. Das Rumkumpeln mit der AfD in Sachsen-Anhalt geht etlichen Parteigranden gegen den Strich.",
+   "u": "https://taz.de/Zusammenarbeit-von-AfD-und-BSW/!6233518/",
+   "q": "taz",
+   "d": "2026-11-26T18:47:00+00:00"
+  },
+  {
+   "t": "Vorschlag zur Rentenreform: SPD, bitte noch mal prüfen!",
+   "s": "Die jungen CDUler haben einen fairen Kompromiss-Vorschlag bei der Rente mit 63 gemacht. Die SPD sollte nicht so schnell Njet sagen.",
+   "u": "https://taz.de/Vorschlag-zur-Rentenreform/!6233545/",
+   "q": "taz",
+   "d": "2026-11-26T18:46:00+00:00"
+  },
+  {
+   "t": "Studie zu Sexismus in der Polizei: „Wer Sexismus nicht benennen kann, der meldet ihn seltener“",
+   "s": "Nach der Dunkelfeldstudie in der Bundeswehr fordern die Grünen eine vergleichbare Sexismus-Studie in der Polizei. Ein Polizeiforscher spricht über seine Erkenntnisse.",
+   "u": "https://taz.de/Polizeiforscher-Wer-Sexismus-nicht-benennen-kann-der-meldet-ihn-seltener/!6232547/",
+   "q": "taz",
+   "d": "2026-11-26T18:45:00+00:00"
+  },
+  {
+   "t": "Ebola und Krieg in der DR Kongo: Kongos Aufständische gehen viral",
+   "s": "Mitten im Ebola-Gebiet der DR Kongo drängen Rebellen die Regierungsarmee in die Defensive. Einer ihrer Anführer saß schon mal in Den Haag in Haft.",
+   "u": "https://taz.de/Ebola-und-Krieg-in-der-DR-Kongo/!6233557/",
+   "q": "taz",
+   "d": "2026-11-26T18:44:00+00:00"
+  },
+  {
+   "t": "1.737 Tage Krieg in der Ukraine: Lebensgefährliche Bahnfahrten",
+   "s": "Immer wieder werden ukrainische Züge von russischen Drohnen attackiert. Die Menschen fahren trotzdem, sie haben kaum eine andere Wahl.",
+   "u": "https://taz.de/1737-Tage-Krieg-in-der-Ukraine/!6231690/",
+   "q": "taz",
+   "d": "2026-11-26T18:41:00+00:00"
+  },
+  {
+   "t": "Rüstungs-Start-up Helsing im Clubkontext: Ein martialisches Spektakel",
+   "s": "Eine Rüstungsfirma hat im Kraftwerk Berlin ein neues KI-System für das Militär vorgestellt. Dieser Clubauftritt sorgt in der Stadt für Aufregung.",
+   "u": "https://taz.de/Ruestungs-Start-up-hat-im-Kraftwerk-Berlin-ein-Militaer-KI-System-vorgestellt-Was-sollte-das/!6227819/",
+   "q": "taz",
+   "d": "2026-11-26T18:40:00+00:00"
+  },
+  {
+   "t": "Gewerkschaft in NRW: Angeblich Hunderte Protestaustritte bei Verdi",
+   "s": "Der Gewerkschaftssekretär Özay Tarim gilt als ein harter Kritiker der Luftsicherheitsbranche. Jetzt hat ihn seine eigene Gewerkschaft kaltgestellt.",
+   "u": "https://taz.de/Gewerkschaft-in-NRW/!6233631/",
+   "q": "taz",
+   "d": "2026-11-26T17:05:00+00:00"
+  },
+  {
+   "t": "Prostituiertenschutz: Verbote schaffen keine Sicherheit",
+   "s": "Die Vorschläge der ExpertInnenkommission zum Prostituiertenschutz setzen auf mehr Regulierung. Das drängt Sexarbeiterinnen in die Illegalität.",
+   "u": "https://taz.de/Prostituiertenschutz/!6227682/",
+   "q": "taz",
+   "d": "2026-11-26T16:40:00+00:00"
+  },
+  {
+   "t": "Rentenvorschlag von CDU-Sozialpolitikern: Ein Vorschlag und jede Menge Ablehnung",
+   "s": "Mit einer „Respekt-Rente“ wollen CDU-Politiker den Streit um die „Rente mit 63“ befrieden. Das produziert viel Wirbel und wenig Lösungen.",
+   "u": "https://taz.de/Rentenvorschlag-von-CDU-Sozialpolitikern/!6233498/",
+   "q": "taz",
+   "d": "2026-11-26T16:29:00+00:00"
+  },
+  {
+   "t": "Anschlagspläne auf Synagoge: Islamistische Terrorverdächtige festgenommen",
+   "s": "Zwei Männer der Gruppe Hayi sollen Sprengstoffanschläge auf die Kölner Synagoge sowie ein weiteres jüdisches Gotteshaus in Europa geplant haben. Nun wurden sie verhaftet.",
+   "u": "https://taz.de/Anschlagsplaene-auf-Synagoge/!6233519/",
+   "q": "taz",
+   "d": "2026-11-26T16:23:00+00:00"
+  },
+  {
+   "t": "Sexarbeit in Deutschland: Strengere Regeln für mehr Schutz?",
+   "s": "Eine Expertenkommission zum Prostituiertenschutz hat ihre Empfehlungen vorgestellt. Soll Sexarbeit weiterhin legal sein oder strenger reguliert werden? Bei dieser Frage gehen die Meinungen in Politik und Gesellschaft weit auseinander. Und: Wie reagiert die SPD auf den Vorschlag der Union zur \"Respekt-Rente\"?Stephanie R…",
+   "u": "https://www.deutschlandfunk.de/vorschlaege-experten-kommission-prostituierten-schutz-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-26T16:00:00+00:00"
+  },
+  {
+   "t": "Vergewaltigungsprozess gegen Depardieu: Immer tieferer Absturz",
+   "s": "Der französische Schauspieler Gérard Depardieu muss wegen Vergewaltigung vor Gericht. Aus der Filmwelt ist er bereits verbannt.",
+   "u": "https://taz.de/Vergewaltigungsprozess-gegen-Depardieu/!6233553/",
+   "q": "taz",
+   "d": "2026-11-26T15:51:00+00:00"
+  },
+  {
+   "t": "Hype um Anthropic und Co: Platzt die KI-Blase?",
+   "s": "Gewaltige Kosten, riskante Finanzierung, Billig-Konkurrenz aus China: Wie stabil ist der Boom US-amerikanischer KI-Firmen? Ökonomen sind sich uneins.",
+   "u": "https://www.deutschlandfunk.de/ki-blase-anthropic-openai-aktien-risiko-wirtschaft-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-26T15:09:00+00:00"
+  },
+  {
+   "t": "Hoffnungsträger in Brasilien: Der Whatsapp-Politiker André Luis Gaspar Janones",
+   "s": "Ein Anwalt aus einfachen Verhältnissen rettete mit seiner Social-Media-Kampagne Lulas Wahl. André Luis Gaspar Janones könnte Brasiliens nächster Präsident werden.",
+   "u": "https://taz.de/Hoffnungstraeger-in-Brasilien/!6233641/",
+   "q": "taz",
+   "d": "2026-11-26T14:50:00+00:00"
+  },
+  {
+   "t": "Justiz in Rumänien: Ex-Präsidentschaftskandidat mit Fußfessel",
+   "s": "In Rumänien wird der ultrarechte Georgescu aus der U-Haft in den Hausarrest entlassen. Die Ermittlungen unter anderem wegen Betrugs laufen weiter.",
+   "u": "https://taz.de/Justiz-in-Rumaenien/!6233554/",
+   "q": "taz",
+   "d": "2026-11-26T14:45:00+00:00"
+  },
+  {
+   "t": "Erzbistum Köln: Rekordschmerzensgeld für Missbrauchsopfer",
+   "s": "Das Erzbistum Köln muss einem Missbrauchsopfer 550.000 Euro Schmerzensgeld zahlen - die bisher höchste Summe in einem solchen Fall. Das Oberlandesgericht Köln sieht die Kirche in der Verantwortung.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-kirche-schmerzensgeld-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T13:37:34+00:00"
+  },
+  {
+   "t": "Protest gegen Mossad im Bundestag: Klöckner prüft Sanktionen nach Blockade im Bundestag",
+   "s": "Bei einer Protestaktion gegen Ex-Mossad-Chef Barnea setzten sich zwei Linken-Abgeordnete vor den Sitzungssaal. Die Bundestagspräsidentin will das ahnden.",
+   "u": "https://taz.de/Protest-gegen-Mossad-im-Bundestag/!6233612/",
+   "q": "taz",
+   "d": "2026-11-26T13:22:00+00:00"
+  },
+  {
+   "t": "Maßstäbe für Völkermord: Vernichtungsabsicht leichter nachweisbar",
+   "s": "Im Völkermord-Verfahren gegen Myanmar hat der Internationale Gerichtshof die Maßstäbe etwas abgesenkt. Was heißt das für das Verfahren gegen Israel?",
+   "u": "https://taz.de/Massstaebe-fuer-Voelkermord/!6233059/",
+   "q": "taz",
+   "d": "2026-11-26T13:11:00+00:00"
+  },
   {
    "t": "Kommission für Prostituiertenschutz: Bedeutet Strafe für Freier Schutz für Prostituierte?",
    "s": "Eine ExpertInnenkommission schlägt eine Annäherung an das nordische Modell der Prostitution vor. Insgesamt soll strenger reguliert werden.",
@@ -11,14 +144,14 @@
   },
   {
    "t": "Parlamentswahl in Spanien: Rechter Wahlkampf auf Antimigrationskurs",
-   "s": "VOX und Partido Popular machen Migranten für alle Probleme im Wohnungs-, Gesundheits- und Bildungswesen verantwortlich. Die Sozialisten lassen sich nicht darauf ein.",
+   "s": "Vox und Partido Popular machen Migranten für alle Probleme im Wohnungs-, Gesundheits- und Bildungswesen verantwortlich. Die Sozialisten lassen sich nicht darauf ein.",
    "u": "https://taz.de/Parlamentswahl-in-Spanien/!6233346/",
    "q": "taz",
    "d": "2026-11-26T11:54:00+00:00"
   },
   {
-   "t": "Mitglieder von früherer AfD-Jugend dürfen Waffenschein behalten",
-   "s": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern den Waffenschein zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
+   "t": "Zwei Mitglieder von früherer AfD-Jugend dürfen Waffen weiter besitzen",
+   "s": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern waffenrechtliche Erlaubnisse zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html",
    "q": "Tagesschau",
    "d": "2026-11-26T11:39:55+00:00"
@@ -36,139 +169,6 @@
    "u": "https://taz.de/NS-Kunst-im-oeffentlichen-Raum/!6223489/",
    "q": "taz",
    "d": "2026-11-26T10:21:00+00:00"
-  },
-  {
-   "t": "Terrorverdacht - zwei Iraker in Köln und Heidelberg festgenommen",
-   "s": "Die Bundesanwaltschaft hat zwei Männer in Köln und Heidelberg festnehmen lassen. Sie sollen einer pro-iranischen Gruppe angehört und Anschläge geplant haben - möglicherweise auch einen auf eine Synagoge in Köln. Von H. Schmidt.",
-   "u": "https://www.tagesschau.de/inland/terrorverdacht-festnahmen-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-26T09:39:12+00:00"
-  },
-  {
-   "t": "Familienministerin Prien für bildschirmfreie Zeit bei Kleinkindern",
-   "s": "Bildschirme lenken ab - egal ob Smartphone, Tablet oder Fernsehen. Familienministerin Prien hat sich deshalb dafür ausgesprochen, dass Kleinkinder in den ersten drei Lebensjahren ohne Bildschirme aufwachsen sollen.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/prien-fuer-bildschirmfreie-kleinkindzeit-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-26T09:07:40+00:00"
-  },
-  {
-   "t": "Humanitäre Lage in Ceuta: Auf einer Matratze in dornigen Sträuchern",
-   "s": "Vor den Wahlen in Spanien Ende November versuchen die Behörden, Ceuta in einen „Normalzustand“ zurückzuführen. Noch immer harren Tausende Menschen in der Exklave aus.",
-   "u": "https://taz.de/Humanitaere-Lage-in-Ceuta/!6232835/",
-   "q": "taz",
-   "d": "2026-11-26T09:07:00+00:00"
-  },
-  {
-   "t": "Gesundheitswesen in den USA: Todesfälle durch Masern in den USA steigen",
-   "s": "Die Masern breiten sich in den USA immer weiter aus. Die Zahl der Infektionen hat sich im Vergleich zum Vorjahr mehr als verdoppelt, die der Todesfälle verdreifacht.",
-   "u": "https://taz.de/Gesundheitswesen-in-den-USA/!6233452/",
-   "q": "taz",
-   "d": "2026-11-26T08:35:00+00:00"
-  },
-  {
-   "t": "Korruptionsprozess gegen Netanjahu: Richter empfehlen, meiste Anklagepunkte fallen zu lassen",
-   "s": "Seit 2020 läuft gegen Israels Regierungschef ein Korruptionsprozess, er bestreitet die Vorwürfe. Nun haben sich die Richter geäußert.",
-   "u": "https://taz.de/Korruptionsprozess-gegen-Netanjahu/!6233453/",
-   "q": "taz",
-   "d": "2026-11-26T08:00:00+00:00"
-  },
-  {
-   "t": "Rente mit 63: Union schlägt Kompromiss vor – SPD skeptisch",
-   "s": "Die CDU zeigt sich kompromissbereit: Menschen mit geringem Einkommen sollen auch weiter nach 45 Beitragsjahren abschlagsfrei in Rente gehen können.",
-   "u": "https://taz.de/Abschaffung-der-Rente-mit-63-CDU-schlaegt-Kompromiss-vor/!6233450/",
-   "q": "taz",
-   "d": "2026-11-26T07:34:00+00:00"
-  },
-  {
-   "t": "Käßmann: \"Wir müssen alles tun, um Krieg zu verhindern\"",
-   "s": "Laut einer Umfrage der Körber-Stiftung lehnen immer mehr Deutsche die Unterstützung für die Ukraine ab. Auch Theologin Margot Käßmann hält weitere Aufrüstung nicht für richtig und wünscht sich \"viel mehr diplomatisches Engagement\".May, Philipp",
-   "u": "https://www.deutschlandfunk.de/interview-margot-kaessmann-ehem-ekd-ratsvorsitzende-zu-ukraine-unterstuetzung-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-26T07:15:00+00:00"
-  },
-  {
-   "t": "Gleichstellung im Gesundheitswesen: Viele Frauen, aber wenige mit Macht",
-   "s": "Frauen sind im Gesundheitswesen in der Mehrheit, in Führungspositionen dominieren aber männliche Kollegen. Die Grünen kritisieren fehlende regelmäßige Kontrollen.",
-   "u": "https://taz.de/Gleichstellung-im-Gesundheitswesen/!6233393/",
-   "q": "taz",
-   "d": "2026-11-26T06:25:00+00:00"
-  },
-  {
-   "t": "EU-Budget: Showdown um den EU-Haushalt in Rekordhöhe",
-   "s": "In Brüssel geht es zwei Tage lang um das neue EU-Budget. Ein offener Streit zwischen den „Knausrigen“ um Kanzler Merz und dem Rest, die mehr Geld fordern, ist programmiert.",
-   "u": "https://taz.de/EU-Budget/!6233060/",
-   "q": "taz",
-   "d": "2026-11-26T06:20:00+00:00"
-  },
-  {
-   "t": "Armutsbericht: Eingewanderte doppelt so häufig von Armut betroffen",
-   "s": "Der Paritätische Gesamtverband veröffentlicht erstmals einen „Armutsbericht Migration“. Besonders Kinder und Jugendliche sind von der Ungleichheit betroffen.",
-   "u": "https://taz.de/Paritaetischer-Armutsbericht/!6232868/",
-   "q": "taz",
-   "d": "2026-11-26T06:13:00+00:00"
-  },
-  {
-   "t": "Opferschützer zur Fußfessel: Von Spanien noch weit entfernt",
-   "s": "Bei Partnerschaftsgewalt kann ab 2027 bundesweit die Fußfessel angeordnet werden. Doch hält sie, was sie verspricht? Opferschützer bezweifeln das.",
-   "u": "https://taz.de/Opferschuetzer-zur-Fussfessel/!6227034/",
-   "q": "taz",
-   "d": "2026-11-26T06:08:00+00:00"
-  },
-  {
-   "t": "Ökonom Hüther fordert Sparanstrengungen beim Staatsetat",
-   "s": "Der Haushalt 2027 wird mit einer hohen Neuverschuldung finanziert. IW-Direktor Michael Hüther betont, dass die Politik bei ineffizienten und umweltschädlichen Subventionen Gelder einsparen kann, um diese in Infrastrukturmaßnahmen zu investieren.May, Philipp",
-   "u": "https://www.deutschlandfunk.de/interview-mit-michael-huether-idw-praes-zu-schuldenhaushalt-und-kompromisse-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-26T05:50:54+00:00"
-  },
-  {
-   "t": "\"Terror 18\"-Razzia: Rechtsextreme Täter werden jünger",
-   "s": "Die Polizei geht gegen die rechtsextreme Gruppe \"Terror 18\" vor. Die jüngsten Verdächtigen sind erst 14 Jahre alt. Die Täter radikalisieren sich im Internet, so der Autor Olaf Sundermeyer. Die AfD führe zudem zu einer Normalisierung des Rechtsextremismus.Kaess, Christiane",
-   "u": "https://www.deutschlandfunk.de/terror-18-werden-rechtsterroristen-immer-juenger-int-mit-olaf-sundermeyer-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-25T22:10:00+00:00"
-  },
-  {
-   "t": "Streit um \"Rente mit 63\": Unionsabgeordnete schlagen \"Respekt-Rente\" vor",
-   "s": "Im Streit um die \"Rente mit 63\" gehen Unionsabgeordnete mit einem Kompromiss auf die SPD zu: Sie schlagen eine \"Respekt-Rente\" vor. Für Menschen mit kleinem Einkommen soll die abschlagsfreie Frühverrentung bestehen bleiben.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T20:40:23+00:00"
-  },
-  {
-   "t": "Expertenkommission fordert schärfere Regeln für Prostitution",
-   "s": "Mehr Schutz vor Gewalt und Ausbeutung - Zwangsprostitution und Menschenhandel wirksamer bekämpfen: Die schwarz-rote Koalition will Prostitution neu regeln. Eine Expertenkommission empfiehlt nun strengere Regeln.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T19:14:28+00:00"
-  },
-  {
-   "t": "EU-Gipfel zum Westbalkan: Jetzt oder vielleicht nie",
-   "s": "Nach dem Machtwechsel in Serbien will die EU die Annäherung der Region beschleunigen. Das Zeitfenster für Beitritte schließt sich aber.",
-   "u": "https://taz.de/EU-Gipfel-zum-Westbalkan/!6233359/",
-   "q": "taz",
-   "d": "2026-11-25T18:53:00+00:00"
-  },
-  {
-   "t": "Welttag gegen Gewalt gegen Frauen: Ums nackte Überleben",
-   "s": "Mehr als eine Million Frauen und Kinder sind vor Gewalt und Folter aus Sudan nach Tschad geflüchtet. Dort leiden sie an Hunger und Krankheit.",
-   "u": "https://taz.de/Welttag-gegen-Gewalt-gegen-Frauen/!6214234/",
-   "q": "taz",
-   "d": "2026-11-25T18:52:00+00:00"
-  },
-  {
-   "t": "Pflegereform und Betroffene: „Dieses Gesetz muss gestoppt werden“",
-   "s": "In einer Anhörung im Bundestag kritisieren Angehörige und Pflegedienste das neue Pflegespargesetz, das schon in sechs Wochen in Kraft treten soll",
-   "u": "https://taz.de/Pflegereform-und-Betroffene/!6233437/",
-   "q": "taz",
-   "d": "2026-11-25T18:47:00+00:00"
-  },
-  {
-   "t": "Nach dem Rohingya-Urteil: Chance für das Völkerrecht?",
-   "s": "Der Internationale Gerichtshof in Den Haag hat mit Myanmar erstmals einen Staat wegen Völkermordes verurteilt. Was folgt daraus für andere Verfahren, etwa das gegen Israel wegen der Kriegsführung in Gaza? Stärkt dieses Urteil das Völkerrecht?Fröhndrich, Sina",
-   "u": "https://www.deutschlandfunk.de/nach-dem-rohingya-urteil-chance-fuer-das-voelkerrecht-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-25T18:15:00+00:00"
   }
  ]
 }

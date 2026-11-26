@@ -1,13 +1,55 @@
 {
  "name": "Ausland",
- "updated": "2026-11-26T12:36:35+00:00",
+ "updated": "2026-11-26T23:51:43+00:00",
  "items": [
   {
    "t": "Merz fordert weitere Kürzungen der EU-Finanzen",
    "s": "Um mehr als 200 Milliarden Euro ist der EU-Haushaltsentwurf bereits gekürzt worden. Dem Kanzler reicht das aber noch nicht. Außerdem verknüpft Merz die schwierigen Verhandlungen weiterhin mit der Unterstützung für die Ukraine.",
    "u": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-26T11:58:32+00:00"
+   "d": "2026-11-26T21:37:41+00:00"
+  },
+  {
+   "t": "Rheinmetall-Arbeiter bei Angriff in Kuwait getötet",
+   "s": "In Kuwait sind bei einem Drohnenangriff zwei Italiener getötet worden, die bei dem deutschen Rüstungskonzern Rheinmetall beschäftigt waren. Italien weist Iran die Verantwortung zu, doch Teheran dementiert den Angriff.",
+   "u": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T18:08:12+00:00"
+  },
+  {
+   "t": "Warum die Bundeswehr im Senegal trainiert",
+   "s": "Es ist die bislang größte Bundeswehr-Übung in Afrika: Im Senegal trainieren rund 1.000 Soldaten mit den dortigen Streitkräften die Evakuierung aus einem fiktiven Krisenstaat. Warum dort? Von Kai Küstner.",
+   "u": "https://www.tagesschau.de/ausland/afrika/senegal-uebung-bundeswehr-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T17:59:05+00:00"
+  },
+  {
+   "t": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gekentert",
+   "s": "Wegen möglicher Umweltgefahren aktivierten die spanischen Behörden einen Notfallplan: Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gekentert. Bei dem Unglück kam ein Seemann ums Leben.",
+   "u": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T13:51:28+00:00"
+  },
+  {
+   "t": "Russland: Sieben von zehn ermordeten Frauen Opfer häuslicher Gewalt",
+   "s": "Der Krieg gegen die Ukraine hinterlässt auch in der Statistik zu häuslicher Gewalt in Russland Spuren. Eine Studie zeigt: Viele Täter sind Kriegsteilnehmer. Und Verfahren können ausgesetzt werden, wenn Beschuldigte in den Krieg ziehen. Von L. Becker.",
+   "u": "https://www.tagesschau.de/ausland/asien/mehr-frauen-in-russland-sterben-durch-gewalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T13:40:55+00:00"
+  },
+  {
+   "t": "Israel: Staatsanwältin im Netanjahu-Prozess vor Dilemma",
+   "s": "Im Korruptionsprozess gegen Israels Premier Netanjahu haben die Richter empfohlen, den Vorwurf wegen Bestechlichkeit fallen zu lassen. Netanjahus Lager feiert das als Triumph - und die Staatsanwaltschaft steht massiv unter Zugzwang. Von J. Segador.",
+   "u": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-prozess-bestechungsvorwurf-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T13:02:45+00:00"
+  },
+  {
+   "t": "Menschen in Hongkong gedenken der Opfer von Hochhausbrand",
+   "s": "Vor einem Jahr starben 168 Menschen bei einem verheerenden Brand in einem Hochhauskomplex in Hongkong. Heute haben die Menschen dort der Opfer gedacht. Eine offizielle Gedenkveranstaltung gab es aber nicht - auch auf Druck der Regierung.",
+   "u": "https://www.tagesschau.de/ausland/asien/hongkong-gedenken-hochhausbrand-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T12:42:48+00:00"
   },
   {
    "t": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
@@ -15,20 +57,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html",
    "q": "Tagesschau",
    "d": "2026-11-26T11:04:32+00:00"
-  },
-  {
-   "t": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gesunken",
-   "s": "Wegen möglicher Umweltgefahren aktivierten die spanischen Behörden einen Notfallplan: Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gesunken. Bei dem Unglück kam ein Seemann ums Leben.",
-   "u": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-26T10:33:57+00:00"
-  },
-  {
-   "t": "Krieg gegen die Ukraine: Angriffe auf Kiew - Tote in Saporischschja",
-   "s": "Russland hat die Ukraine nach eigenen Angaben wieder massiv angegriffen. Auch bei einem ukrainischen Drohnenangriff im russisch besetzten Teil von Saporischschja gab es Tote. Die NATO und US-Präsident Trump warnen vor einer weiteren Eskalation.",
-   "u": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-26T09:54:40+00:00"
   },
   {
    "t": "EU-Geld für die Ukraine - wie gegen Korruption vorgegangen wird",
@@ -141,34 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
    "q": "Tagesschau",
    "d": "2026-11-25T01:40:52+00:00"
-  },
-  {
-   "t": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
-   "s": "Die Lebenserwartung in Kuba ist laut der WHO erstmals in der Geschichte gesunken, die Säuglingssterblichkeit hat sich mehr als verdoppelt. WHO-Chef Tedros macht dafür auch US-Sanktionen verantwortlich - und fordert deren sofortiges Ende.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T00:06:58+00:00"
-  },
-  {
-   "t": "Menschenrechtsgerichtshof: Pushbacks in Ausnahmefällen zulässig",
-   "s": "Setzt ein Drittstaat Migration gezielt als Druckmittel ein, darf der betroffene EU-Staat Migranten an der Grenze zurückweisen. Das hat jetzt der EGMR geurteilt. Rechte besonders schutzbedürftiger Menschen müssen aber gewahrt bleiben. Von A. Stephany.",
-   "u": "https://www.tagesschau.de/ausland/europa/egmr-pushbacks-belarus-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T16:24:25+00:00"
-  },
-  {
-   "t": "Urteil des EGMR: Pushbacks an Grenze zu Belarus waren teils legal",
-   "s": "Eigentlich dürfen Migranten nicht dahin zurückgeschickt werden, wo ihnen Menschenrechtsverletzungen drohen. Ein Grundsatzurteil ändert das - wenn Migranten als Druckmittel eingesetzt und nicht besonders schutzbedürftig sind.",
-   "u": "https://www.tagesschau.de/ausland/europa/emgr-urteil-pushbacks-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T13:28:55+00:00"
-  },
-  {
-   "t": "Zehn Jahre Friedensvertrag: Kolumbien so polarisiert wie lange nicht",
-   "s": "Mit dem Friedensabkommen in Kolumbien von 2016 wurden weltweit große Hoffnungen verknüpft. Er sollte ein halbes Jahrhundert Bürgerkrieg beenden. Doch zehn Jahre später ist Kolumbien polarisiert wie lange nicht. Von Jenny Barke.",
-   "u": "https://www.tagesschau.de/ausland/amerika/kolumbien-zehn-jahre-friedensvertrag-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T05:28:47+00:00"
   }
  ]
 }

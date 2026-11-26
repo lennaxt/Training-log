@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-11-26T12:36:41+00:00",
+ "updated": "2026-11-26T23:51:47+00:00",
  "items": [
+  {
+   "t": "Der Auslands-Podcast der taz: 10 Jahre Friedensabkommen in Kolumbien – ist Aussöhnung möglich?",
+   "s": "Wo steht das historische Friedensabkommen in einem polarisierten Kolumbien? Unsere Korrespondentin berichtet über ihre Recherche zu Tätern und Opfern.",
+   "u": "https://taz.de/Der-Auslands-Podcast-der-taz/!6233446/",
+   "q": "taz",
+   "d": "2026-11-26T17:13:00+00:00"
+  },
+  {
+   "t": "Hoffnungsträger in Brasilien: Der Whatsapp-Politiker André Luis Gaspar Janones",
+   "s": "Ein Anwalt aus einfachen Verhältnissen rettete mit seiner Social-Media-Kampagne Lulas Wahl. André Luis Gaspar Janones könnte Brasiliens nächster Präsident werden.",
+   "u": "https://taz.de/Hoffnungstraeger-in-Brasilien/!6233641/",
+   "q": "taz",
+   "d": "2026-11-26T14:50:00+00:00"
+  },
   {
    "t": "Gesundheitswesen in den USA: Todesfälle durch Masern in den USA steigen",
    "s": "Die Masern breiten sich in den USA immer weiter aus. Die Zahl der Infektionen hat sich im Vergleich zum Vorjahr mehr als verdoppelt, die der Todesfälle verdreifacht.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Spionage-Politik-und-Klima/!6224491/",
    "q": "taz",
    "d": "2026-11-14T14:51:00+00:00"
-  },
-  {
-   "t": "Historischer Dreier beim Apec-Gipfel: Treffen sich Trump, Putin und Xi …",
-   "s": "… und reden doch nicht über den Ukrainekrieg. Bei dem Gespräch am Rande des Gipfels in China am Donnerstag soll es um atomare Abrüstung und Iran gehen.",
-   "u": "https://taz.de/Historischer-Dreier-beim-APEC-Gipfel/!6230035/",
-   "q": "taz",
-   "d": "2026-11-14T09:09:00+00:00"
-  },
-  {
-   "t": "Nvidia-Affäre: Stinknormale Midlifecrisis?",
-   "s": "Die historische Führungskrise um den CEO des Chipherstellers Nvidia Jensen Huang hat Potenzial zur popkulturellen Verarbeitung. Nur wie?",
-   "u": "https://taz.de/Nvidia-Affaere/!6229576/",
-   "q": "taz",
-   "d": "2026-11-14T08:52:00+00:00"
   }
  ]
 }

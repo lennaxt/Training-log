@@ -1,9 +1,16 @@
 {
  "name": "Sport",
- "updated": "2026-11-26T12:36:42+00:00",
+ "updated": "2026-11-26T23:51:48+00:00",
  "items": [
   {
-   "t": "In einer neuen Weltordnung: Weiter kritisch berichten",
+   "t": "Maßstäbe für Völkermord: Vernichtungsabsicht leichter nachweisbar",
+   "s": "Im Völkermord-Verfahren gegen Myanmar hat der Internationale Gerichtshof die Maßstäbe etwas abgesenkt. Was heißt das für das Verfahren gegen Israel?",
+   "u": "https://taz.de/Massstaebe-fuer-Voelkermord/!6233059/",
+   "q": "taz",
+   "d": "2026-11-26T13:11:00+00:00"
+  },
+  {
+   "t": "In einer neuen Weltordnung: Weiter unabhängig berichten",
    "s": "Im Workshop „In Dialogue“ der taz panterstiftung schreiben Kol­le­g:in­nen aus Indien zur „Mother of All Deals“ für die taz.",
    "u": "https://taz.de/In-einer-neuen-Weltordnung/!6227575/",
    "q": "taz",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Apec-Gipfel-in-Shenzhen/!6231090/",
    "q": "taz",
    "d": "2026-11-18T13:45:00+00:00"
-  },
-  {
-   "t": "Asean-Gipfel in Manila: Kaum Einigkeit gegen Chinas KI-Vormacht",
-   "s": "Beim Gipfel südostasiatischer Staaten in den Philippinen sorgt Trumps Kurzbesuch für Aufsehen. Linke Gruppen protestieren gegen eine US-Initiative.",
-   "u": "https://taz.de/Asean-Gipfel-in-Manila/!6230832/",
-   "q": "taz",
-   "d": "2026-11-17T17:12:00+00:00"
   }
  ]
 }
