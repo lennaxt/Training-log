@@ -1,7 +1,14 @@
 {
  "name": "Kultur",
- "updated": "2026-11-25T23:37:44+00:00",
+ "updated": "2026-11-26T12:36:41+00:00",
  "items": [
+  {
+   "t": "Gesundheitswesen in den USA: Todesfälle durch Masern in den USA steigen",
+   "s": "Die Masern breiten sich in den USA immer weiter aus. Die Zahl der Infektionen hat sich im Vergleich zum Vorjahr mehr als verdoppelt, die der Todesfälle verdreifacht.",
+   "u": "https://taz.de/Gesundheitswesen-in-den-USA/!6233452/",
+   "q": "taz",
+   "d": "2026-11-26T08:35:00+00:00"
+  },
   {
    "t": "Trump, Nvidia und Jensen Huang: Selbst für ein B-Movie primitiv",
    "s": "Was sich dieser Tage in den USA abspielt, ist komplett absurd. Solchen Stoff würden auch die Regisseure von Low-Budget-Produktionen kaum haben wollen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Nvidia-Affaere/!6229576/",
    "q": "taz",
    "d": "2026-11-14T08:52:00+00:00"
-  },
-  {
-   "t": "Prognosemärkte bei den US-Midterms: CNN und das Geschäft mit dem Glücksspiel",
-   "s": "Große US-Medienhäuser nutzten vor den Midterms Prognosemärkte wie Kalshi – trotz Bedenken. Die Demokraten wollen die Plattformen stärker regulieren.",
-   "u": "https://taz.de/US-Medienhaeuser-nutzen-Prognosemaerkte-CNN-und-das-Geschaeft-mit-dem-Gluecksspiel/!6229519/",
-   "q": "taz",
-   "d": "2026-11-12T19:14:00+00:00"
   }
  ]
 }

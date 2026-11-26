@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-11-25T23:37:45+00:00",
+ "updated": "2026-11-26T12:36:42+00:00",
  "items": [
+  {
+   "t": "In einer neuen Weltordnung: Weiter kritisch berichten",
+   "s": "Im Workshop „In Dialogue“ der taz panterstiftung schreiben Kol­le­g:in­nen aus Indien zur „Mother of All Deals“ für die taz.",
+   "u": "https://taz.de/In-einer-neuen-Weltordnung/!6227575/",
+   "q": "taz",
+   "d": "2026-11-26T06:00:00+00:00"
+  },
   {
    "t": "Neue Geopolitik: Mehr Kooperation wagen",
    "s": "Warum Deutschland und Europa stärker mit Indien kooperieren wollen und warum auch Neu-Delhi internationale Partnerschaften breiter aufstellen will.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Asean-Gipfel-in-Manila/!6230832/",
    "q": "taz",
    "d": "2026-11-17T17:12:00+00:00"
-  },
-  {
-   "t": "Kurz vor Apec: Mehrere Vorfälle mit russischen Fliegern in Region",
-   "s": "Vor dem Shenzhen-Treffen melden Südkorea und Taiwan russische Militärflugzeuge in Luftverteidigungszonen. Japan spricht von einer Luftraumverletzung.",
-   "u": "https://taz.de/Kurz-vor-Apec/!6230721/",
-   "q": "taz",
-   "d": "2026-11-17T10:24:00+00:00"
   }
  ]
 }

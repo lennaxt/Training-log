@@ -1,7 +1,133 @@
 {
  "name": "Inland",
- "updated": "2026-11-25T23:37:40+00:00",
+ "updated": "2026-11-26T12:36:34+00:00",
  "items": [
+  {
+   "t": "Kommission für Prostituiertenschutz: Bedeutet Strafe für Freier Schutz für Prostituierte?",
+   "s": "Eine ExpertInnenkommission schlägt eine Annäherung an das nordische Modell der Prostitution vor. Insgesamt soll strenger reguliert werden.",
+   "u": "https://taz.de/Kommission-fuer-Prostituiertenschutz/!6232940/",
+   "q": "taz",
+   "d": "2026-11-26T11:56:00+00:00"
+  },
+  {
+   "t": "Parlamentswahl in Spanien: Rechter Wahlkampf auf Antimigrationskurs",
+   "s": "VOX und Partido Popular machen Migranten für alle Probleme im Wohnungs-, Gesundheits- und Bildungswesen verantwortlich. Die Sozialisten lassen sich nicht darauf ein.",
+   "u": "https://taz.de/Parlamentswahl-in-Spanien/!6233346/",
+   "q": "taz",
+   "d": "2026-11-26T11:54:00+00:00"
+  },
+  {
+   "t": "Mitglieder von früherer AfD-Jugend dürfen Waffenschein behalten",
+   "s": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern den Waffenschein zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T11:39:55+00:00"
+  },
+  {
+   "t": "SPD reagiert verhalten auf CDU-Vorstoß zur Rente",
+   "s": "Überzeugt der neue Vorschlag zur \"Rente mit 63\" aus der Union die SPD? Erste Reaktionen von den Sozialdemokraten deuten nicht auf eine Einigung hin. Die Union fordert dagegen, \"die ausgestreckte Hand zu ergreifen\".",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T10:41:10+00:00"
+  },
+  {
+   "t": "NS-Kunst im öffentlichen Raum: Hand in Hand mit dem braunen Gestern",
+   "s": "Die Stadtspitze im schwäbischen Vöhringen verteidigt historische NS-Kunst am Rathaus mit Umdeutungen – und reproduziert sie im Stadtmarketing von heute.",
+   "u": "https://taz.de/NS-Kunst-im-oeffentlichen-Raum/!6223489/",
+   "q": "taz",
+   "d": "2026-11-26T10:21:00+00:00"
+  },
+  {
+   "t": "Terrorverdacht - zwei Iraker in Köln und Heidelberg festgenommen",
+   "s": "Die Bundesanwaltschaft hat zwei Männer in Köln und Heidelberg festnehmen lassen. Sie sollen einer pro-iranischen Gruppe angehört und Anschläge geplant haben - möglicherweise auch einen auf eine Synagoge in Köln. Von H. Schmidt.",
+   "u": "https://www.tagesschau.de/inland/terrorverdacht-festnahmen-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T09:39:12+00:00"
+  },
+  {
+   "t": "Familienministerin Prien für bildschirmfreie Zeit bei Kleinkindern",
+   "s": "Bildschirme lenken ab - egal ob Smartphone, Tablet oder Fernsehen. Familienministerin Prien hat sich deshalb dafür ausgesprochen, dass Kleinkinder in den ersten drei Lebensjahren ohne Bildschirme aufwachsen sollen.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/prien-fuer-bildschirmfreie-kleinkindzeit-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T09:07:40+00:00"
+  },
+  {
+   "t": "Humanitäre Lage in Ceuta: Auf einer Matratze in dornigen Sträuchern",
+   "s": "Vor den Wahlen in Spanien Ende November versuchen die Behörden, Ceuta in einen „Normalzustand“ zurückzuführen. Noch immer harren Tausende Menschen in der Exklave aus.",
+   "u": "https://taz.de/Humanitaere-Lage-in-Ceuta/!6232835/",
+   "q": "taz",
+   "d": "2026-11-26T09:07:00+00:00"
+  },
+  {
+   "t": "Gesundheitswesen in den USA: Todesfälle durch Masern in den USA steigen",
+   "s": "Die Masern breiten sich in den USA immer weiter aus. Die Zahl der Infektionen hat sich im Vergleich zum Vorjahr mehr als verdoppelt, die der Todesfälle verdreifacht.",
+   "u": "https://taz.de/Gesundheitswesen-in-den-USA/!6233452/",
+   "q": "taz",
+   "d": "2026-11-26T08:35:00+00:00"
+  },
+  {
+   "t": "Korruptionsprozess gegen Netanjahu: Richter empfehlen, meiste Anklagepunkte fallen zu lassen",
+   "s": "Seit 2020 läuft gegen Israels Regierungschef ein Korruptionsprozess, er bestreitet die Vorwürfe. Nun haben sich die Richter geäußert.",
+   "u": "https://taz.de/Korruptionsprozess-gegen-Netanjahu/!6233453/",
+   "q": "taz",
+   "d": "2026-11-26T08:00:00+00:00"
+  },
+  {
+   "t": "Rente mit 63: Union schlägt Kompromiss vor – SPD skeptisch",
+   "s": "Die CDU zeigt sich kompromissbereit: Menschen mit geringem Einkommen sollen auch weiter nach 45 Beitragsjahren abschlagsfrei in Rente gehen können.",
+   "u": "https://taz.de/Abschaffung-der-Rente-mit-63-CDU-schlaegt-Kompromiss-vor/!6233450/",
+   "q": "taz",
+   "d": "2026-11-26T07:34:00+00:00"
+  },
+  {
+   "t": "Käßmann: \"Wir müssen alles tun, um Krieg zu verhindern\"",
+   "s": "Laut einer Umfrage der Körber-Stiftung lehnen immer mehr Deutsche die Unterstützung für die Ukraine ab. Auch Theologin Margot Käßmann hält weitere Aufrüstung nicht für richtig und wünscht sich \"viel mehr diplomatisches Engagement\".May, Philipp",
+   "u": "https://www.deutschlandfunk.de/interview-margot-kaessmann-ehem-ekd-ratsvorsitzende-zu-ukraine-unterstuetzung-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-26T07:15:00+00:00"
+  },
+  {
+   "t": "Gleichstellung im Gesundheitswesen: Viele Frauen, aber wenige mit Macht",
+   "s": "Frauen sind im Gesundheitswesen in der Mehrheit, in Führungspositionen dominieren aber männliche Kollegen. Die Grünen kritisieren fehlende regelmäßige Kontrollen.",
+   "u": "https://taz.de/Gleichstellung-im-Gesundheitswesen/!6233393/",
+   "q": "taz",
+   "d": "2026-11-26T06:25:00+00:00"
+  },
+  {
+   "t": "EU-Budget: Showdown um den EU-Haushalt in Rekordhöhe",
+   "s": "In Brüssel geht es zwei Tage lang um das neue EU-Budget. Ein offener Streit zwischen den „Knausrigen“ um Kanzler Merz und dem Rest, die mehr Geld fordern, ist programmiert.",
+   "u": "https://taz.de/EU-Budget/!6233060/",
+   "q": "taz",
+   "d": "2026-11-26T06:20:00+00:00"
+  },
+  {
+   "t": "Armutsbericht: Eingewanderte doppelt so häufig von Armut betroffen",
+   "s": "Der Paritätische Gesamtverband veröffentlicht erstmals einen „Armutsbericht Migration“. Besonders Kinder und Jugendliche sind von der Ungleichheit betroffen.",
+   "u": "https://taz.de/Paritaetischer-Armutsbericht/!6232868/",
+   "q": "taz",
+   "d": "2026-11-26T06:13:00+00:00"
+  },
+  {
+   "t": "Opferschützer zur Fußfessel: Von Spanien noch weit entfernt",
+   "s": "Bei Partnerschaftsgewalt kann ab 2027 bundesweit die Fußfessel angeordnet werden. Doch hält sie, was sie verspricht? Opferschützer bezweifeln das.",
+   "u": "https://taz.de/Opferschuetzer-zur-Fussfessel/!6227034/",
+   "q": "taz",
+   "d": "2026-11-26T06:08:00+00:00"
+  },
+  {
+   "t": "Ökonom Hüther fordert Sparanstrengungen beim Staatsetat",
+   "s": "Der Haushalt 2027 wird mit einer hohen Neuverschuldung finanziert. IW-Direktor Michael Hüther betont, dass die Politik bei ineffizienten und umweltschädlichen Subventionen Gelder einsparen kann, um diese in Infrastrukturmaßnahmen zu investieren.May, Philipp",
+   "u": "https://www.deutschlandfunk.de/interview-mit-michael-huether-idw-praes-zu-schuldenhaushalt-und-kompromisse-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-26T05:50:54+00:00"
+  },
+  {
+   "t": "\"Terror 18\"-Razzia: Rechtsextreme Täter werden jünger",
+   "s": "Die Polizei geht gegen die rechtsextreme Gruppe \"Terror 18\" vor. Die jüngsten Verdächtigen sind erst 14 Jahre alt. Die Täter radikalisieren sich im Internet, so der Autor Olaf Sundermeyer. Die AfD führe zudem zu einer Normalisierung des Rechtsextremismus.Kaess, Christiane",
+   "u": "https://www.deutschlandfunk.de/terror-18-werden-rechtsterroristen-immer-juenger-int-mit-olaf-sundermeyer-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-25T22:10:00+00:00"
+  },
   {
    "t": "Streit um \"Rente mit 63\": Unionsabgeordnete schlagen \"Respekt-Rente\" vor",
    "s": "Im Streit um die \"Rente mit 63\" gehen Unionsabgeordnete mit einem Kompromiss auf die SPD zu: Sie schlagen eine \"Respekt-Rente\" vor. Für Menschen mit kleinem Einkommen soll die abschlagsfreie Frühverrentung bestehen bleiben.",
@@ -39,136 +165,10 @@
   },
   {
    "t": "Nach dem Rohingya-Urteil: Chance für das Völkerrecht?",
-   "s": "Der Internationale Gerichtshof (IGH) in Den Haag hat mit Myanmar erstmals einen Staat wegen Völkermordes verurteilt. Was folgt daraus für andere Verfahren, etwa das gegen Israel wegen der Kriegsführung in Gaza? Stärkt dieses Urteil das Völkerrecht?Fröhndrich, Sina",
+   "s": "Der Internationale Gerichtshof in Den Haag hat mit Myanmar erstmals einen Staat wegen Völkermordes verurteilt. Was folgt daraus für andere Verfahren, etwa das gegen Israel wegen der Kriegsführung in Gaza? Stärkt dieses Urteil das Völkerrecht?Fröhndrich, Sina",
    "u": "https://www.deutschlandfunk.de/nach-dem-rohingya-urteil-chance-fuer-das-voelkerrecht-100.html",
    "q": "Deutschlandfunk",
    "d": "2026-11-25T18:15:00+00:00"
-  },
-  {
-   "t": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
-   "s": "Im Bundestag wurde über den Haushalt 2027 debattiert. Darin auch enthalten: rund zwölf Milliarden Euro Ukraine-Hilfe. Für die AfD ist das eine Veruntreuung von Steuergeldern, für Kanzler Merz die Verteidigung \"unserer Freiheit\". Von Nicole Markwald.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T18:10:19+00:00"
-  },
-  {
-   "t": "Kaderschmieden für die Macht - die \"Politischen Akademien\" der AfD",
-   "s": "In mehreren Bundesländern baut die AfD eigene Ausbildungsstätten für ihren politischen Nachwuchs auf. Erklärtes Ziel: die Vorbereitung einer möglichen Regierungsarbeit. Die Akademien arbeiten weitgehend unbemerkt von der Öffentlichkeit.Lindner, Nadine",
-   "u": "https://www.deutschlandfunk.de/kaderschmieden-fuer-die-macht-die-politischen-akademien-der-afd-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-25T17:40:00+00:00"
-  },
-  {
-   "t": "Nach den Angriffen auf Russlands Schiffe: Vereinigt die Ukraine aus Versehen Libyen?",
-   "s": "Der ukrainische Militärschlag in Bengasi kann Libyen Krieg bringen. Er könnte aber auch die rivalisierenden Schutzmächte Türkei und Russland annähern.",
-   "u": "https://taz.de/Nach-den-Angriffen-auf-Russlands-Schiffe/!6233326/",
-   "q": "taz",
-   "d": "2026-11-25T16:49:00+00:00"
-  },
-  {
-   "t": "Winter im Gazastreifen: In Trümmern zu Hause",
-   "s": "Tausende Menschen im Gazastreifen leben mangels Alternativen in kriegsbeschädigten Gebäuden. Immer wieder kommt es zu Einstürzen mit tödlichen Folgen.",
-   "u": "https://taz.de/Winter-im-Gazastreifen/!6232840/",
-   "q": "taz",
-   "d": "2026-11-25T16:44:00+00:00"
-  },
-  {
-   "t": "Generalstreik in Griechenland: Geld für Bildung, nicht für Krieg",
-   "s": "Gewerkschaften haben in Griechenland zum Generalstreik aufgerufen. Zehntausende legten die Arbeit nieder aus Protest gegen hohe Lebenshaltungskosten.",
-   "u": "https://taz.de/Generalstreik-in-Griechenland/!6233064/",
-   "q": "taz",
-   "d": "2026-11-25T16:41:00+00:00"
-  },
-  {
-   "t": "Repression gegen Seenotrettung: Spionage bei Sea-Watch",
-   "s": "Das Handy einer Sprecherin der Seenotrettungsorganisation soll über Monate per Spyware überwacht worden sein. Die NGO hat Anzeige erstattet.",
-   "u": "https://taz.de/Repression-gegen-Seenotrettung/!6233407/",
-   "q": "taz",
-   "d": "2026-11-25T16:29:00+00:00"
-  },
-  {
-   "t": "Frauen in israelischer Sekte: Die Ausbrecherin",
-   "s": "In einer ultraorthodoxen Sekte im Norden Israels stehen Vergewaltigungen und Kindesheirat auf der Tagesordnung. Mika Malka Mimuni hat ihr Schweigen gebrochen.",
-   "u": "https://taz.de/Frauen-in-israelischer-Sekte/!6232426/",
-   "q": "taz",
-   "d": "2026-11-25T16:19:00+00:00"
-  },
-  {
-   "t": "Gewalt gegen Frauen in Russland: Jahrelang vom eigenen Vater missbraucht",
-   "s": "Julias Vater terrorisierte seine Familie und wurde immer wieder gewalttätig. Erst mit Hilfe eines Konsortiums von Frauen-NGOs gelang es, den Mann zu verurteilen.",
-   "u": "https://taz.de/Gewalt-gegen-Frauen-in-Russland/!6232715/",
-   "q": "taz",
-   "d": "2026-11-25T16:18:00+00:00"
-  },
-  {
-   "t": "Generaldebatte im Bundestag: Nachdenkliche Töne und ein Zugeständnis",
-   "s": "Selbstkritisch hat Bundeskanzler Merz im Bundestag den Kurs seiner Regierung verteidigt. Bei der Rede war es ungewöhnlich leise im Saal. Merz führte aus, wessen Kanzler er sein will - ein Zugeständnis an die SPD ging beinahe unter. Von S. Henkel.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/haushalt-generaldebatte-merz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T16:10:40+00:00"
-  },
-  {
-   "t": "Bundeshaushalt 2027: Damit die Gen Z in Ruhe alt werden kann",
-   "s": "Es führt kein Weg an den gigantischen Ausgaben für die Verteidigung vorbei. Das heißt aber nicht, dass für den Sozialstaat nichts mehr übrig bliebe.",
-   "u": "https://taz.de/Bundeshaushalt-2027/!6227662/",
-   "q": "taz",
-   "d": "2026-11-25T16:10:00+00:00"
-  },
-  {
-   "t": "Mobbing an russischen Schulen: „Lehrer beschimpfen Schülerinnen als dumm oder fett“",
-   "s": "Laut Kreml ist es auch für Schüler die höchste staatsbürgerliche Tugend, unter russischer Flagge zu kämpfen. Derweil grassiert an Schulen die Gewalt.",
-   "u": "https://taz.de/Mobbing-an-russischen-Schulen/!6232986/",
-   "q": "taz",
-   "d": "2026-11-25T15:16:00+00:00"
-  },
-  {
-   "t": "Unter Schirmherrschaft von Grünem: Frühstück mit Ex-Mossad-Chef endet im Eklat",
-   "s": "Linken-Abgeordnete haben versucht, eine Veranstaltung mit dem Ex-Chef von Israels Auslandsgeheimdienst im Bundestag zu blockieren. Ihm werden Kriegsverbrechen vorgeworfen.",
-   "u": "https://taz.de/Unter-Schirmherrschaft-von-Gruenem/!6233076/",
-   "q": "taz",
-   "d": "2026-11-25T15:02:00+00:00"
-  },
-  {
-   "t": "Wenn Männer Frauen töten: Justizministerin will Femizide als Mord ahnden",
-   "s": "Tötet ein Mann seine ehemalige Partnerin aus Eifersucht, ist oft von Beziehungstragödie die Rede. Bundesjustizministerin Stefanie Hubig (SPD) will Femizide im Mordparagrafen verankern. Was das für Täter, Gerichte und den Schutz von Frauen bedeutet.",
-   "u": "https://www.deutschlandfunk.de/femizide-mord-strafrecht-gewalt-gegen-frauen-stefanie-hubig-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-25T14:58:00+00:00"
-  },
-  {
-   "t": "Bundeswehrübung in Senegal: Von Deutschland lernen heißt Nölen lernen",
-   "s": "In Senegal übt die Bundeswehr, wie man nervige deutsche Zivilisten aus Afrika evakuiert. Senegals Armee bringt den Deutschen Tropeneinsätze bei.",
-   "u": "https://taz.de/Bundeswehruebung-in-Senegal/!6233025/",
-   "q": "taz",
-   "d": "2026-11-25T14:53:00+00:00"
-  },
-  {
-   "t": "Wenn der Partner zuschlägt",
-   "s": "Alle drei Minuten erlebt eine Frau oder ein Mädchen in Deutschland häusliche Gewalt. Nur ein kleiner Teil der Taten wird angezeigt - aus Angst, Scham oder sozialer Isolation. Von Marion Försching.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/wenn-der-partner-zuschlaegt-gewalt-gegen-frauen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T14:36:47+00:00"
-  },
-  {
-   "t": "Gerichtsverfahren in Mosambik: Terrorprozess gegen Oppositionsführer",
-   "s": "Venâncio Mondlane, der wichtigste Oppositionskandidat bei Mosambiks umstrittenen Wahlen 2024, steht vor Gericht. Von dem Prozess hängt viel ab.",
-   "u": "https://taz.de/Gerichtsverfahren-in-Mosambik/!6233056/",
-   "q": "taz",
-   "d": "2026-11-25T13:46:00+00:00"
-  },
-  {
-   "t": "tagesschau in Einfacher Sprache startet WhatsApp-Kanal",
-   "s": "Langsamer gesprochen, erklärte Fachbegriffe, kaum Nebensätze - seit 2024 gibt es die tagesschau in Einfacher Sprache. Zehntausende nutzen sie jeden Tag. Nun wird das Angebot um einen WhatsApp-Kanal erweitert.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/einfache-sprache-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T13:45:35+00:00"
-  },
-  {
-   "t": "Aktivist in Israel in Haft: Blutergüsse im Gesicht, der Kopf kahlrasiert",
-   "s": "Der israelisch-palästinensische Student und Aktivist Mahdi Tounsi sitzt seit mehr als zwei Wochen im Hochsicherheitsgefängnis Megiddo. Zuvor soll er misshandelt worden sein.",
-   "u": "https://taz.de/Aktivist-in-Israel-in-Haft/!6232995/",
-   "q": "taz",
-   "d": "2026-11-25T13:43:00+00:00"
   }
  ]
 }

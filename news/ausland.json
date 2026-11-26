@@ -1,7 +1,56 @@
 {
  "name": "Ausland",
- "updated": "2026-11-25T23:37:41+00:00",
+ "updated": "2026-11-26T12:36:35+00:00",
  "items": [
+  {
+   "t": "Merz fordert weitere Kürzungen der EU-Finanzen",
+   "s": "Um mehr als 200 Milliarden Euro ist der EU-Haushaltsentwurf bereits gekürzt worden. Dem Kanzler reicht das aber noch nicht. Außerdem verknüpft Merz die schwierigen Verhandlungen weiterhin mit der Unterstützung für die Ukraine.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T11:58:32+00:00"
+  },
+  {
+   "t": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
+   "s": "Beim EU-Sondergipfel geht der slowakische Regierungschef Fico auf Konfrontation. Zusammen mit Polen, Ungarn und Tschechien will er die EU-Haushaltspläne blockieren - insbesondere die Ukraine-Hilfen. Innenpolitisch könnte ihm das nutzen. Von M. Allweiss.",
+   "u": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T11:04:32+00:00"
+  },
+  {
+   "t": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gesunken",
+   "s": "Wegen möglicher Umweltgefahren aktivierten die spanischen Behörden einen Notfallplan: Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gesunken. Bei dem Unglück kam ein Seemann ums Leben.",
+   "u": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T10:33:57+00:00"
+  },
+  {
+   "t": "Krieg gegen die Ukraine: Angriffe auf Kiew - Tote in Saporischschja",
+   "s": "Russland hat die Ukraine nach eigenen Angaben wieder massiv angegriffen. Auch bei einem ukrainischen Drohnenangriff im russisch besetzten Teil von Saporischschja gab es Tote. Die NATO und US-Präsident Trump warnen vor einer weiteren Eskalation.",
+   "u": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T09:54:40+00:00"
+  },
+  {
+   "t": "EU-Geld für die Ukraine - wie gegen Korruption vorgegangen wird",
+   "s": "Die Ukraine braucht viel Geld wegen der Schäden durch russische Luftangriffe. Das kommt oft von der EU. Journalisten und Politiker decken Fälle mutmaßlicher Korruption auf - und bewegen damit etwas. Von F. Kellermann.",
+   "u": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-118.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T07:53:31+00:00"
+  },
+  {
+   "t": "Wetterchaos an Thanksgiving in USA befürchtet",
+   "s": "Extreme Springflut und Überschwemmungen in Kalifornien - Sturmwarnung und viel Regen an der Ostküste. Pünktlich zu Thanksgiving könnte das Wetter die Reise- und Feiertagspläne vieler US-Amerikaner durcheinander bringen.",
+   "u": "https://www.tagesschau.de/ausland/amerika/sturm-usa-152.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T04:41:15+00:00"
+  },
+  {
+   "t": "EU-Haushalt: Kampf um bis zu zwei Billionen Euro",
+   "s": "Die Staats- und Regierungschefs der 27 EU-Länder beraten bei einem Sondergipfel in Brüssel über den langfristigen EU-Haushalt. Dabei geht es auch um mögliche neue Einnahmequellen wie etwa eine Digitalsteuer. Von C. Feld.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-26T04:00:53+00:00"
+  },
   {
    "t": "Ägypten: Mindestens 30 Tote bei Großbrand auf Autobahn in Gizeh",
    "s": "Ein mit Gasflaschen beladener Lkw hat bei einem Unfall auf einer Autobahn in der ägyptischen Stadt Gizeh einen Großbrand ausgelöst. Mindestens 30 Menschen starben bei dem Unglück, viele wurden verletzt.",
@@ -15,13 +64,6 @@
    "u": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
    "q": "Tagesschau",
    "d": "2026-11-25T19:50:08+00:00"
-  },
-  {
-   "t": "Proteste gegen Gewalt an Frauen in Istanbul verboten",
-   "s": "Frauenrechtsorganisationen wollten in Istanbul gegen Gewalt an Frauen demonstrieren. Doch nach dem Demoaufruf wurden die Proteste verboten. Dennoch gingen am Abend zahlreiche Menschen auf die Straße.",
-   "u": "https://www.tagesschau.de/ausland/europa/tuerkei-orange-day-demo-verboten-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T19:36:24+00:00"
   },
   {
    "t": "EU-Kommission erlaubt weiter Staatshilfen für Landwirte und Industrie",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/kolumbien-zehn-jahre-friedensvertrag-100.html",
    "q": "Tagesschau",
    "d": "2026-11-24T05:28:47+00:00"
-  },
-  {
-   "t": "Südkorea meldet russische Militärflugzeuge vor seiner Küste",
-   "s": "Mehrere russische Militärflugzeuge sind südkoreanischen Sicherheitsbehörden zufolge am Dienstagmorgen in Südkoreas Luftverteidigungszone eingedrungen. Erst kürzlich meldeten Taiwan und Japan ähnliche Vorfälle.",
-   "u": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T04:23:38+00:00"
-  },
-  {
-   "t": "Kriegsfolgen im Gazastreifen: Verschmutztes Wasser, Asbest in den Trümmern",
-   "s": "Auf den Straßen sammelt sich der Müll, in den zerstörten Gebäuden steckt Asbest: Im Gazastreifen leidet die Bevölkerung. Die Folgen des Krieges könnten noch Jahrzehnte spürbar sein, so die Hilfsorganisation Oxfam. Von Julio Segador.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-162.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T04:09:27+00:00"
-  },
-  {
-   "t": "Deutschland baut künftig ukrainische Drohnen",
-   "s": "Bereits im April hatten Deutschland und die Ukraine vereinbart, militärisch enger zusammenzuarbeiten - etwa beim Drohnenbau. Verteidigungsminister Pistorius wurde nun konkreter. Mit Blick auf mögliche russische Angriffspläne im All mahnte er zur Ruhe.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T01:46:30+00:00"
-  },
-  {
-   "t": "Haiti: El Salvadors Präsident Bukele wegen Militäreinsatz gefeiert",
-   "s": "In Haiti konnten auch internationale Missionen wenig an der grassierenden Gewalt ändern. Jetzt griff El Salvadors Präsident Bukele ein - mit mehreren Tausend Soldaten, ohne UN-Mandat. Und wird wie ein Volksheld gefeiert. Von J. Barke.",
-   "u": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-24T00:53:40+00:00"
-  },
-  {
-   "t": "Angriffe auf russische Schiffe: \"Das kann brandgefährlich für uns alle werden\"",
-   "s": "Die Angriffe auf russische Schiffe sind für die Ukraine ein Erfolg, sagt der Sicherheitsexperte Joachim Weber. Aber sie stellten auch eine Eskalation dar, die Russland zu Gegenmaßnahmen provozieren könnte. Ein Kalkül von Kiew?",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-ostsee-libyen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T17:59:22+00:00"
-  },
-  {
-   "t": "Sanktionspaket: Keine Athleten mehr unter russischer Flagge",
-   "s": "Russische Sportlerinnen und Sportler sollen bei europäischen Wettkämpfen nicht mehr für ihr Land antreten dürfen - das hat die EU-Kommission vorgeschlagen. Weitere Sanktionen soll es in der Wirtschaft und im Energiesektor geben.",
-   "u": "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-23T17:23:33+00:00"
   }
  ]
 }

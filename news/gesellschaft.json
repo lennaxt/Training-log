@@ -1,7 +1,28 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-25T23:37:44+00:00",
+ "updated": "2026-11-26T12:36:40+00:00",
  "items": [
+  {
+   "t": "Parlamentswahl in Spanien: Rechter Wahlkampf auf Antimigrationskurs",
+   "s": "VOX und Partido Popular machen Migranten für alle Probleme im Wohnungs-, Gesundheits- und Bildungswesen verantwortlich. Die Sozialisten lassen sich nicht darauf ein.",
+   "u": "https://taz.de/Parlamentswahl-in-Spanien/!6233346/",
+   "q": "taz",
+   "d": "2026-11-26T11:54:00+00:00"
+  },
+  {
+   "t": "Humanitäre Lage in Ceuta: Auf einer Matratze in dornigen Sträuchern",
+   "s": "Vor den Wahlen in Spanien Ende November versuchen die Behörden, Ceuta in einen „Normalzustand“ zurückzuführen. Noch immer harren Tausende Menschen in der Exklave aus.",
+   "u": "https://taz.de/Humanitaere-Lage-in-Ceuta/!6232835/",
+   "q": "taz",
+   "d": "2026-11-26T09:07:00+00:00"
+  },
+  {
+   "t": "EU-Budget: Showdown um den EU-Haushalt in Rekordhöhe",
+   "s": "In Brüssel geht es zwei Tage lang um das neue EU-Budget. Ein offener Streit zwischen den „Knausrigen“ um Kanzler Merz und dem Rest, die mehr Geld fordern, ist programmiert.",
+   "u": "https://taz.de/EU-Budget/!6233060/",
+   "q": "taz",
+   "d": "2026-11-26T06:20:00+00:00"
+  },
   {
    "t": "EU-Gipfel zum Westbalkan: Jetzt oder vielleicht nie",
    "s": "Nach dem Machtwechsel in Serbien will die EU die Annäherung der Region beschleunigen. Das Zeitfenster für Beitritte schließt sich aber.",
@@ -148,27 +169,6 @@
    "u": "https://taz.de/EU-und-Grossbritannien-nach-dem-Brexit-Fatale-Kleingeistigkeit-wegen-Studiengebuehren/!6232202/",
    "q": "taz",
    "d": "2026-11-22T19:33:00+00:00"
-  },
-  {
-   "t": "Migrationspolitik in Dänemark: Mette Frederiksen nutzt Kampfbegriff von Rechtsextremen",
-   "s": "Die für ihre rigide Migrationspolitik bekannte sozialdemokratische Regierungschefin legt rhetorische Vorsicht ab und erntet Beifall von Identitären.",
-   "u": "https://taz.de/Migrationspolitik-in-Daenemark/!6232289/",
-   "q": "taz",
-   "d": "2026-11-22T17:11:00+00:00"
-  },
-  {
-   "t": "Augenzeugenbericht aus der Region Kyjiw: Plötzlich heulen über ganz Dymer die Sirenen",
-   "s": "Eine russische Drohne zerstört Teile eines Wohnblocks, unter Betonplatten sind Menschen eingeklemmt. Während der Rettung beginnt der nächste Angriff.",
-   "u": "https://taz.de/Augenzeugenbericht-aus-der-Region-Kyjiw/!6232344/",
-   "q": "taz",
-   "d": "2026-11-22T17:10:00+00:00"
-  },
-  {
-   "t": "Gelbwesten und Gen Z: Gemeinsam genug von Macron",
-   "s": "Die Protestwelle in Frankreich, ausgelöst durch Schulblockaden, hat auch die Gelbwesten zurückgebracht. Was eint Schüler- und Spritpreis-Bewegung?",
-   "u": "https://taz.de/Gelbwesten-und-Gen-Z/!6232270/",
-   "q": "taz",
-   "d": "2026-11-22T15:10:00+00:00"
   }
  ]
 }
