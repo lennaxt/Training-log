@@ -1,7 +1,28 @@
 {
  "name": "Ausland",
- "updated": "2026-11-27T12:23:23+00:00",
+ "updated": "2026-11-27T23:27:48+00:00",
  "items": [
+  {
+   "t": "Schiffsunglück vor Ibiza: Gefahr für Umwelt gering",
+   "s": "Der Öltanker \"Med Emre\" treibt kieloben im Mittelmeer vor Ibiza. Eine größere Gefahr für die Umwelt geht von ihm nach ersten Erkenntnissen aber wohl nicht aus. Inzwischen wird die Abschleppung des Schiffs geplant.",
+   "u": "https://www.tagesschau.de/ausland/europa/tankerunglueck-ibiza-vorsichtige-entwarnung-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T15:03:21+00:00"
+  },
+  {
+   "t": "Serbiens Studenten nominieren Professor als Staatsoberhaupt",
+   "s": "Die Parlamentswahl im September hatte Serbiens Studentenliste überraschend gewonnen. Nun soll Ende Dezember auch ein neuer Präsident gewählt werden. Ein Universitätsprofessor soll dafür ins Rennen gehen.",
+   "u": "https://www.tagesschau.de/ausland/europa/serbien-praesidentschaftswahl-professor-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T13:37:34+00:00"
+  },
+  {
+   "t": "Ursachensuche: EU streitet weiter ums Geld",
+   "s": "Druck aus Frankreich, Widerstand aus Deutschland und der Gastgeber mit einer ungewöhnlichen Verhandlungsstrategie. Es gibt mehrere Gründe, warum der EU-Sondergipfel zum Haushalt gescheitert ist. Von Sabrina Fritz.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-haushalt-gipfel-analyse-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T13:18:17+00:00"
+  },
   {
    "t": "UN sieht fünf \"Hunger-Hotspots\": Ernährungskrisen verschärfen sich",
    "s": "Krieg, Dürre und Budgetkürzungen bei Hilfsorganisationen. Die UN sehen fünf Länder auf eine gefährliche Hungerkrise zusteuern und warnen vor den Auswirkungen. Die Welt müsse nun schnell handeln. Von Tilman Kleinjung.",
@@ -11,7 +32,7 @@
   },
   {
    "t": "Polizistin in Kabul: Verhüllt im Dienst für das Taliban-Regime",
-   "s": "In Afghanistan haben Frauen kaum noch Rechte. In der Öffentlichkeit muss ihr Gesicht verhüllt sein, Bildung ist kaum möglich. Gleichzeitig arbeiten einige Frauen bei der Polizei und sind so Teil des Systems der Taliban. Von F. Amler.",
+   "s": "In Afghanistan haben Frauen kaum noch Rechte. In der Öffentlichkeit muss ihr Gesicht verhüllt sein, Bildung ist kaum möglich. Dennoch arbeiten einige Frauen bei der Polizei und sind so Teil des Systems der Taliban. Von F. Amler.",
    "u": "https://www.tagesschau.de/ausland/asien/taliban-polizistin-100.html",
    "q": "Tagesschau",
    "d": "2026-11-27T11:11:16+00:00"
@@ -24,7 +45,7 @@
    "d": "2026-11-27T09:57:35+00:00"
   },
   {
-   "t": "USA: Schwerer Sturm sorgt an Thanksgiving für massive Einschränkungen",
+   "t": "Schwerer Sturm sorgt in den USA an Thanksgiving für massive Einschränkungen",
    "s": "Gestrichene Flüge, Stromausfälle und Überschwemmungen: Ausgerechnet an Thanksgiving haben Starkregen und heftige Winde in vielen Teilen der USA für Chaos gesorgt. In einigen Bundesstaaten gilt der Notstand.",
    "u": "https://www.tagesschau.de/ausland/amerika/usa-stuerme-thanksgiving-100.html",
    "q": "Tagesschau",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
    "q": "Tagesschau",
    "d": "2026-11-25T15:18:25+00:00"
-  },
-  {
-   "t": "Gewalt gegen Frauen in Brasilien: Auf Streife gegen Femizide",
-   "s": "In Brasilien hat die Zahl der Frauenmorde vergangenes Jahr einen Höchststand erreicht. Eine Spezialeinheit der Polizei soll gefährdete Frauen schützen - unterwegs mit einer Patrouille in Rio de Janeiro. Von Xenia Böttcher.",
-   "u": "https://www.tagesschau.de/ausland/amerika/brasilien-gewalt-gegen-frauen-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T14:36:37+00:00"
-  },
-  {
-   "t": "74 Peitschenhiebe für iranische Sängerin lösen Empörung aus",
-   "s": "Ein Onlinekonzert ohne Kopftuch - dafür erhielt die iranische Sängerin Parastu Ahmadi 74 Peitschenhiebe. Das löste international große Empörung aus. Die Strafe sei \"grausam und unmenschlich\" und eine Form der Folter.",
-   "u": "https://www.tagesschau.de/ausland/asien/iran-saengerin-peitschenhiebe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T14:07:47+00:00"
-  },
-  {
-   "t": "EU-Parlament stimmt neuen Arzneimittelregeln zu",
-   "s": "Ob Antibiotika oder Fiebersäfte für Kinder: Immer wieder fehlen in Europa Medikamente - Grund ist auch die große Abhängigkeit von Asien. Das will die EU ändern. Das Parlament stimmte neuen Arzneimitteln-Regeln zu.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-parlament-arzneimittel-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T14:00:56+00:00"
   }
  ]
 }

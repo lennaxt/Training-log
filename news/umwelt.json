@@ -1,7 +1,70 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-27T12:23:26+00:00",
+ "updated": "2026-11-27T23:27:50+00:00",
  "items": [
+  {
+   "t": "Die Linke nach Emde-Rauswurf: Partei in Bewegung",
+   "s": "Der Fall Emde offenbart die Konflikte, die aus dem Erfolg der Linken gewachsen sind. Bei den kommenden Landtagswahlen könnte das für Probleme sorgen.",
+   "u": "https://taz.de/Die-Linke-nach-Emde-Rauswurf-Wie-geht-es-weiter-mit-der-Partei/!6227900/",
+   "q": "taz",
+   "d": "2026-11-27T19:22:00+00:00"
+  },
+  {
+   "t": "Gesetzentwurf zur Rente: Rentenstreit geht in die nächste Runde",
+   "s": "Der SPD-Arbeitsminister legt den lang erwarteten Gesetzentwurf vor. Die „Rente mit 63“ soll bleiben, aber modifiziert. Wie reagiert die CDU?",
+   "u": "https://taz.de/Gesetzentwurf-zur-Rente/!6234001/",
+   "q": "taz",
+   "d": "2026-11-27T18:14:00+00:00"
+  },
+  {
+   "t": "Aktion im Bundestag: Was will die Linke sein?",
+   "s": "Linke Abgeordnete stören eine Veranstaltung eines grünen Parlamentskollegen. Das bricht ein Tabu – und zerstört das Vertrauen in Rot-Grün-Rot.",
+   "u": "https://taz.de/Aktion-im-Bundestag/!6233661/",
+   "q": "taz",
+   "d": "2026-11-27T16:39:00+00:00"
+  },
+  {
+   "t": "Debattenkultur im Deutschen Bundestag: Die gespielte Ohnmacht",
+   "s": "Po­li­ti­ke­r*in­nen machen im Bundestag keine Politik, sondern PR. Warum sind sie dort nicht ideenreicher?",
+   "u": "https://taz.de/Debattenkultur-im-Deutschen-Bundestag/!6232860/",
+   "q": "taz",
+   "d": "2026-11-27T16:33:00+00:00"
+  },
+  {
+   "t": "Höchststand bei Verteidigungsausgaben: Bundestag beschließt Haushalt",
+   "s": "Das Parlament hat den Haushalt für das kommende Jahr auf den Weg gebracht. Der Finanzminister sieht für kommendes Jahr die privaten Investoren am Zug.",
+   "u": "https://taz.de/Hoechststand-bei-Verteidigungsausgaben/!6233979/",
+   "q": "taz",
+   "d": "2026-11-27T15:13:00+00:00"
+  },
+  {
+   "t": "Gesetzentwurf aus dem Arbeitsministerium: Schweitzer will die Rente mit 63 erhalten",
+   "s": "Der Arbeitsminister legt einen Entwurf für die Rentenreform vor. Nun muss das Kabinett sich um einen Kompromiss bemühen.",
+   "u": "https://taz.de/Gesetzentwurf-aus-dem-Arbeitsministerium/!6233988/",
+   "q": "taz",
+   "d": "2026-11-27T15:04:00+00:00"
+  },
+  {
+   "t": "Prozessauftakt nach Brandanschlägen: „Es ging halt nicht anders“",
+   "s": "Ein Ex-Funktionär der Partei „Die Basis“ gesteht seine Angriffe auf Büros der etablierten Parteien in Flensburg – und erklärt sie für alternativlos.",
+   "u": "https://taz.de/Prozessauftakt-nach-Brandanschlaegen/!6233324/",
+   "q": "taz",
+   "d": "2026-11-27T14:58:00+00:00"
+  },
+  {
+   "t": "Lobbyismus bei der Bundesregierung: Alle zwei Wochen ein Bänker",
+   "s": "Mindestens 35 Mal trafen Vertreter der Bundesregierung Mitglieder der Deutschen Bank. Was sie in den Treffen besprachen, ist nicht dokumentiert.",
+   "u": "https://taz.de/Lobbyismus-bei-der-Bundesregierung/!6233816/",
+   "q": "taz",
+   "d": "2026-11-27T13:50:00+00:00"
+  },
+  {
+   "t": "Nach Rauswurf von Vanessa Emde: Fahrplan Richtung Rot-Grün-Rot",
+   "s": "Die Bedingung von Grünen und SPD für eine Koalition mit der Linkspartei in Berlin war Vanessa Emdes Fraktionsausschluss. Und jetzt?",
+   "u": "https://taz.de/Nach-Rauswurf-von-Vanessa-Emde/!6233339/",
+   "q": "taz",
+   "d": "2026-11-27T13:36:00+00:00"
+  },
   {
    "t": "Kürzungen bei „Demokratie leben“: Initiativen richten sich mit Hilferuf an Prien",
    "s": "Abgelehnte Demokratie-Initiativen appellieren an die Familienministerin, sie zu retten. Im Ministerium wird die zuständige Abteilungsleiterin abgesetzt.",
@@ -43,13 +106,6 @@
    "u": "https://taz.de/Vorschlag-zur-Rentenreform/!6233545/",
    "q": "taz",
    "d": "2026-11-26T18:46:00+00:00"
-  },
-  {
-   "t": "Studie zu Sexismus in der Polizei: „Wer Sexismus nicht benennen kann, der meldet ihn seltener“",
-   "s": "Nach der Dunkelfeldstudie in der Bundeswehr fordern die Grünen eine vergleichbare Sexismus-Studie in der Polizei. Ein Polizeiforscher spricht über seine Erkenntnisse.",
-   "u": "https://taz.de/Polizeiforscher-Wer-Sexismus-nicht-benennen-kann-der-meldet-ihn-seltener/!6232547/",
-   "q": "taz",
-   "d": "2026-11-26T18:45:00+00:00"
   },
   {
    "t": "Rüstungs-Start-up Helsing im Clubkontext: Ein martialisches Spektakel",
@@ -113,62 +169,6 @@
    "u": "https://taz.de/Abschaffung-der-Rente-mit-63-CDU-schlaegt-Kompromiss-vor/!6233450/",
    "q": "taz",
    "d": "2026-11-26T07:34:00+00:00"
-  },
-  {
-   "t": "Gleichstellung im Gesundheitswesen: Viele Frauen, aber wenige mit Macht",
-   "s": "Frauen sind im Gesundheitswesen in der Mehrheit, in Führungspositionen dominieren aber männliche Kollegen. Die Grünen kritisieren fehlende regelmäßige Kontrollen.",
-   "u": "https://taz.de/Gleichstellung-im-Gesundheitswesen/!6233393/",
-   "q": "taz",
-   "d": "2026-11-26T06:25:00+00:00"
-  },
-  {
-   "t": "Armutsbericht: Eingewanderte doppelt so häufig von Armut betroffen",
-   "s": "Der Paritätische Gesamtverband veröffentlicht erstmals einen „Armutsbericht Migration“. Besonders Kinder und Jugendliche sind von der Ungleichheit betroffen.",
-   "u": "https://taz.de/Paritaetischer-Armutsbericht/!6232868/",
-   "q": "taz",
-   "d": "2026-11-26T06:13:00+00:00"
-  },
-  {
-   "t": "Pflegereform und Betroffene: „Dieses Gesetz muss gestoppt werden“",
-   "s": "In einer Anhörung im Bundestag kritisieren Angehörige und Pflegedienste das neue Pflegespargesetz, das schon in sechs Wochen in Kraft treten soll",
-   "u": "https://taz.de/Pflegereform-und-Betroffene/!6233437/",
-   "q": "taz",
-   "d": "2026-11-25T18:47:00+00:00"
-  },
-  {
-   "t": "Bundeshaushalt 2027: Damit die Gen Z in Ruhe alt werden kann",
-   "s": "Es führt kein Weg an den gigantischen Ausgaben für die Verteidigung vorbei. Das heißt aber nicht, dass für den Sozialstaat nichts mehr übrig bliebe.",
-   "u": "https://taz.de/Bundeshaushalt-2027/!6227662/",
-   "q": "taz",
-   "d": "2026-11-25T16:10:00+00:00"
-  },
-  {
-   "t": "Unter Schirmherrschaft von Grünem: Frühstück mit Ex-Mossad-Chef endet im Eklat",
-   "s": "Linken-Abgeordnete haben versucht, eine Veranstaltung mit dem Ex-Chef von Israels Auslandsgeheimdienst im Bundestag zu blockieren. Ihm werden Kriegsverbrechen vorgeworfen.",
-   "u": "https://taz.de/Unter-Schirmherrschaft-von-Gruenem/!6233076/",
-   "q": "taz",
-   "d": "2026-11-25T15:02:00+00:00"
-  },
-  {
-   "t": "Debatte um Pflege-Spargesetz: Leere Kassen, umstrittene Pläne",
-   "s": "Die Pflegekassen fordern eine Finanzierungsgarantie, der Städtetag-Präsident sieht einen Vertrauensbruch: Das Pflege-Gesetz bleibt umstritten. Der Druck auf den Bund ist groß.",
-   "u": "https://taz.de/Debatte-um-Pflege-Spargesetz/!6233292/",
-   "q": "taz",
-   "d": "2026-11-25T13:35:00+00:00"
-  },
-  {
-   "t": "Generaldebatte zum Haushalt: „Russland will mehr als die Ukraine“",
-   "s": "Die Frage, was man sich künftig noch leisten kann, stellt selbst der Kanzler. Sie bestimmt die Generaldebatte im Bundestag und spaltet die Koalition.",
-   "u": "https://taz.de/Generaldebatte-zum-Haushalt/!6233274/",
-   "q": "taz",
-   "d": "2026-11-25T13:31:00+00:00"
-  },
-  {
-   "t": "Ermittlungen gegen „Terror 18“: Bundesanwaltschaft knöpft sich nächste Jungnazi-Gruppe vor",
-   "s": "Sie drohten in Chats mit Gewalt, wollten Brandanschläge verüben. Nun geht die Bundesanwaltschaft gegen die Neonazis von „Terror 18“ vor.",
-   "u": "https://taz.de/Ermittlungen-gegen-Terror-18/!6233004/",
-   "q": "taz",
-   "d": "2026-11-25T10:20:00+00:00"
   }
  ]
 }

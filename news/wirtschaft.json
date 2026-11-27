@@ -1,7 +1,28 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-27T12:23:24+00:00",
+ "updated": "2026-11-27T23:27:49+00:00",
  "items": [
+  {
+   "t": "Marktbericht: Schnäppchenjagd an der Börse",
+   "s": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T17:30:38+00:00"
+  },
+  {
+   "t": "Anthropics wilde erste Börsenwoche",
+   "s": "Der KI-Konzern Anthropic ging mit großen Erwartungen an die Börse. Der Start der Aktie in New York verlief spektakulär. Doch nach einer Woche fällt die Bilanz alles andere als rosig aus.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-anthropic-ipo-ki-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T13:44:03+00:00"
+  },
+  {
+   "t": "Kommentar: Hernández de Cos - ein EZB-Chef im Sinne Frankreichs",
+   "s": "Der neue EZB-Rat steht fest - eingefädelt durch Emmanuel Macron. Der künftige EZB-Präsident Pablo Hernández de Cos steht eher für eine lockere Geldpolitik. In Zeiten hoher Inflation sind Konflikte programmiert. Von Klaus-Rainer Jackisch.",
+   "u": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T13:20:03+00:00"
+  },
   {
    "t": "SAP erwägt offenbar Abbau von Tausenden Stellen",
    "s": "Der Software-Konzern SAP will Medienberichten zufolge Tausende Stellen streichen. Hintergrund soll auch die Automatisierung durch Künstliche Intelligenz sein.",
@@ -22,13 +43,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosenzahlen-november-108.html",
    "q": "Tagesschau",
    "d": "2026-11-27T09:57:19+00:00"
-  },
-  {
-   "t": "Marktbericht: Anleger nutzen günstige Kurse zum Einkauf",
-   "s": "Der DAX setzt seine Erholung schwungvoll fort, unterstützt von der Aussicht auf einen starken Handelsstart an der Wall Street. Trotz der Kursgewinne bleibt die Frage, wie nachhaltig der KI-Boom ist.",
-   "u": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
-   "q": "Tagesschau",
-   "d": "2026-11-27T09:57:08+00:00"
   },
   {
    "t": "Shopping: KI-Agenten werden beliebter",
@@ -155,20 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/digitaler-fuehrerschein-verspaetung-start-mitte-dezember-100.html",
    "q": "Tagesschau",
    "d": "2026-11-26T07:10:45+00:00"
-  },
-  {
-   "t": "EU-Haushalt: Kampf um bis zu zwei Billionen Euro",
-   "s": "Die Staats- und Regierungschefs der 27 EU-Länder beraten bei einem Sondergipfel in Brüssel über den langfristigen EU-Haushalt. Dabei geht es auch um mögliche neue Einnahmequellen wie etwa eine Digitalsteuer. Von C. Feld.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-26T04:00:53+00:00"
-  },
-  {
-   "t": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
-   "s": "Im neuen Gesundheitsreport blickt die Techniker Krankenkasse auf die Situation von Frauen zwischen 35 und 55. Sie sind eine wichtige Gruppe von Arbeitnehmerinnen - und häufiger krank als gleichaltrige Männer. Von A. Kartschall.",
-   "u": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T17:37:52+00:00"
   }
  ]
 }
