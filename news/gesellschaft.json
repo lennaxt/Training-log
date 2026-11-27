@@ -1,7 +1,21 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-26T23:51:46+00:00",
+ "updated": "2026-11-27T12:23:27+00:00",
  "items": [
+  {
+   "t": "Warnung an Putin: Trump ändert einseitig Erklärung mit Rutte",
+   "s": "Der US-Präsident ändert eine gemeinsam mit Nato-Generalsekretär Rutte vereinbarte Erklärung im Nachhinein ab. Rutte will davon nichts gewusst haben.",
+   "u": "https://taz.de/Warnung-an-Putin/!6233818/",
+   "q": "taz",
+   "d": "2026-11-27T11:45:00+00:00"
+  },
+  {
+   "t": "Streit ums Geld: EU-Gipfel vorzeitig beendet",
+   "s": "Ein Ende des Streits um den EU-Haushalt ist nicht in Sicht, kurz vor Mitternacht wurden die Verhandlungen abgebrochen. Nächster Versuch: kurz vor Weihnachten.",
+   "u": "https://taz.de/Streit-ums-Geld/!6233780/",
+   "q": "taz",
+   "d": "2026-11-27T07:10:00+00:00"
+  },
   {
    "t": "Vergewaltigungsprozess gegen Depardieu: Immer tieferer Absturz",
    "s": "Der französische Schauspieler Gérard Depardieu muss wegen Vergewaltigung vor Gericht. Aus der Filmwelt ist er bereits verbannt.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Polizei-in-Frankreich/!6232458/",
    "q": "taz",
    "d": "2026-11-23T16:55:00+00:00"
-  },
-  {
-   "t": "Proteste in Belgien: Vorweihnachtliches Chaos und eine Ermutigung vom König",
-   "s": "In Belgien gehen Tausende auf die Straße, um gegen den Regierungssparkurs zu protestieren. Der König lässt Premier de Wever wieder nicht aus dem Job.",
-   "u": "https://taz.de/Proteste-in-Belgien/!6232450/",
-   "q": "taz",
-   "d": "2026-11-23T16:55:00+00:00"
-  },
-  {
-   "t": "Handyverbot in dänischen Schulen: Bis zur 10. Klasse ohne Smartphone",
-   "s": "Viele dänische Kinder verbringen zu viel Zeit vor Bildschirmen. Deshalb sollen ab dem kommenden Schuljahr Smartphones bis zur 10. Klasse tabu sein.",
-   "u": "https://taz.de/Handyverbot-in-daenischen-Schulen/!6232505/",
-   "q": "taz",
-   "d": "2026-11-23T12:52:00+00:00"
   }
  ]
 }

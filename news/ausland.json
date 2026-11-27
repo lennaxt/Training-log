@@ -1,7 +1,63 @@
 {
  "name": "Ausland",
- "updated": "2026-11-26T23:51:43+00:00",
+ "updated": "2026-11-27T12:23:23+00:00",
  "items": [
+  {
+   "t": "UN sieht fünf \"Hunger-Hotspots\": Ernährungskrisen verschärfen sich",
+   "s": "Krieg, Dürre und Budgetkürzungen bei Hilfsorganisationen. Die UN sehen fünf Länder auf eine gefährliche Hungerkrise zusteuern und warnen vor den Auswirkungen. Die Welt müsse nun schnell handeln. Von Tilman Kleinjung.",
+   "u": "https://www.tagesschau.de/ausland/afrika/vereinte-nationen-hunger-hotspots-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T12:09:57+00:00"
+  },
+  {
+   "t": "Polizistin in Kabul: Verhüllt im Dienst für das Taliban-Regime",
+   "s": "In Afghanistan haben Frauen kaum noch Rechte. In der Öffentlichkeit muss ihr Gesicht verhüllt sein, Bildung ist kaum möglich. Gleichzeitig arbeiten einige Frauen bei der Polizei und sind so Teil des Systems der Taliban. Von F. Amler.",
+   "u": "https://www.tagesschau.de/ausland/asien/taliban-polizistin-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T11:11:16+00:00"
+  },
+  {
+   "t": "Westjordanland: Israelische Politiker sprechen von \"jüdischem Terror\"",
+   "s": "Die Gewalt radikaler Siedler gegen Palästinenser im Westjordanland hat massiv zugenommen. In Israel ist der Begriff \"jüdischer Terror\" kein Tabu mehr. Doch in der Regierung tobt ein Richtungsstreit. Von Julio Segador.",
+   "u": "https://www.tagesschau.de/ausland/asien/westjordanland-gewalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T09:57:35+00:00"
+  },
+  {
+   "t": "USA: Schwerer Sturm sorgt an Thanksgiving für massive Einschränkungen",
+   "s": "Gestrichene Flüge, Stromausfälle und Überschwemmungen: Ausgerechnet an Thanksgiving haben Starkregen und heftige Winde in vielen Teilen der USA für Chaos gesorgt. In einigen Bundesstaaten gilt der Notstand.",
+   "u": "https://www.tagesschau.de/ausland/amerika/usa-stuerme-thanksgiving-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T06:55:56+00:00"
+  },
+  {
+   "t": "Parlamentswahl: Wie Spaniens Volkspartei die Ära Sánchez abwickeln will",
+   "s": "Spaniens konservative Volkspartei PP hat gute Aussichten, bei der Parlamentswahl am Wochenende stärkste Kraft zu werden. Sie verspricht dem Land tiefgreifende Änderungen. Wo will sie umsteuern? Von F. Welz.",
+   "u": "https://www.tagesschau.de/ausland/europa/spanien-wahl-volkspartei-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T05:43:42+00:00"
+  },
+  {
+   "t": "Neuseeland: Konservative verlieren Mehrheit - Labour hat auch keine",
+   "s": "Nach der Wahl zeichnete sich ein sehr knappes Rennen ab. Nun ist klar: Neuseelands rechtsgerichtete Regierungskoalition unter Premier Luxon hat keine Mehrheit mehr. Jetzt spielt eine neue Partei die entscheidende Rolle.",
+   "u": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T05:09:05+00:00"
+  },
+  {
+   "t": "Bosnien und Herzogowina: Dodik hebt Sohn auf den Thron",
+   "s": "Milorad Dodik war über mehr als 20 Jahre der mächtige Mann in der serbisch dominierten Republika Srpska. 2025 musste er nach internationalem Druck zurücktreten. Nun macht er seinen Sohn zum Regierungschef. Von Oliver Soos.",
+   "u": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T01:29:29+00:00"
+  },
+  {
+   "t": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
+   "s": "Die Vorstellungen unter den 27 Staats- und Regierungschefs lagen weit auseinander. So weit, dass sie laut Merz den zweiten angesetzten Tag des Gipfels ausfallen lassen. Es geht um viele Milliarden für den EU-Haushalt.",
+   "u": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T00:02:22+00:00"
+  },
   {
    "t": "Merz fordert weitere Kürzungen der EU-Finanzen",
    "s": "Um mehr als 200 Milliarden Euro ist der EU-Haushaltsentwurf bereits gekürzt worden. Dem Kanzler reicht das aber noch nicht. Außerdem verknüpft Merz die schwierigen Verhandlungen weiterhin mit der Unterstützung für die Ukraine.",
@@ -31,25 +87,11 @@
    "d": "2026-11-26T13:51:28+00:00"
   },
   {
-   "t": "Russland: Sieben von zehn ermordeten Frauen Opfer häuslicher Gewalt",
-   "s": "Der Krieg gegen die Ukraine hinterlässt auch in der Statistik zu häuslicher Gewalt in Russland Spuren. Eine Studie zeigt: Viele Täter sind Kriegsteilnehmer. Und Verfahren können ausgesetzt werden, wenn Beschuldigte in den Krieg ziehen. Von L. Becker.",
-   "u": "https://www.tagesschau.de/ausland/asien/mehr-frauen-in-russland-sterben-durch-gewalt-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-26T13:40:55+00:00"
-  },
-  {
    "t": "Israel: Staatsanwältin im Netanjahu-Prozess vor Dilemma",
    "s": "Im Korruptionsprozess gegen Israels Premier Netanjahu haben die Richter empfohlen, den Vorwurf wegen Bestechlichkeit fallen zu lassen. Netanjahus Lager feiert das als Triumph - und die Staatsanwaltschaft steht massiv unter Zugzwang. Von J. Segador.",
    "u": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-prozess-bestechungsvorwurf-100.html",
    "q": "Tagesschau",
    "d": "2026-11-26T13:02:45+00:00"
-  },
-  {
-   "t": "Menschen in Hongkong gedenken der Opfer von Hochhausbrand",
-   "s": "Vor einem Jahr starben 168 Menschen bei einem verheerenden Brand in einem Hochhauskomplex in Hongkong. Heute haben die Menschen dort der Opfer gedacht. Eine offizielle Gedenkveranstaltung gab es aber nicht - auch auf Druck der Regierung.",
-   "u": "https://www.tagesschau.de/ausland/asien/hongkong-gedenken-hochhausbrand-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-26T12:42:48+00:00"
   },
   {
    "t": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
@@ -127,48 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-parlament-arzneimittel-100.html",
    "q": "Tagesschau",
    "d": "2026-11-25T14:00:56+00:00"
-  },
-  {
-   "t": "Umstrittener Abschiebefall: Salvadorianer Abrego García hat USA verlassen",
-   "s": "2025 war der Salvadorianer Abrego Garcia aus den USA abgeschoben worden - rechtswidrig. Er landete in einem berüchtigten Gefängnis und wurde so zum Symbol für Trumps umstrittene Politik. Nun eine neue Wendung: Abrego Garcia ist in Spanien.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-abschiebepolitik-trump-garcia-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T11:19:15+00:00"
-  },
-  {
-   "t": "Run auf kostenlose Finnland-Reise für Singles",
-   "s": "Kostenlos durch Finnland reisen und sich dabei verlieben: Diese Idee der staatlichen Tourismusorganisation sorgt für große Nachfrage aus aller Welt. Hunderttausende Singles haben sich beworben. Was erwartet die 16 Auserwählten? Von A.-L. Beckmann.",
-   "u": "https://www.tagesschau.de/ausland/europa/single-urlaub-finnland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T10:40:38+00:00"
-  },
-  {
-   "t": "Europas größte Satellitenfabrik eröffnet",
-   "s": "Die EU will bis 2030 ein eigenes sicheres Kommunikationsnetz im Weltraum aufbauen. Ziel ist es, unabhängiger von Anbietern wie dem US-Dienst Starlink zu werden. Helfen soll dabei Europas größte Satellitenfabrik - sie wurde nun eröffnet.",
-   "u": "https://www.tagesschau.de/ausland/satellitenfabrik-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T08:06:22+00:00"
-  },
-  {
-   "t": "Israel nach der Wahl: Schwierige Sondierungen zwischen Rivalen",
-   "s": "In Israel bleibt Gadi Eisenkot nicht mehr viel Zeit, eine Regierung zu bilden. Aktuell laufen die Gespräche mit Netanjahus Likud-Partei. Dabei gibt es große Differenzen - und kaum Alternativen. Von J. Segador.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T05:18:30+00:00"
-  },
-  {
-   "t": "US-Medienberichte: Trump plant wohl neue Zölle - auch gegen die EU",
-   "s": "Die US-Regierung bereitet offenbar neue Zölle gegenüber China, der EU und weiteren Ländern vor. Der Schritt erfolgt, nachdem die Zölle vom Supreme Court als illegal eingestuft wurden.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-122.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T04:08:29+00:00"
-  },
-  {
-   "t": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
-   "s": "Kiew, Saporischschja, Odessa - immer wieder greift Russland ukrainische Brücken an. Im Gegenzug schießt die Ukraine vermehrt zurück - auch auf die Krim-Brücke. Dabei geht es beiden Seiten nicht immer nur um militärische Ziele. Von R. Barth.",
-   "u": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T01:40:52+00:00"
   }
  ]
 }

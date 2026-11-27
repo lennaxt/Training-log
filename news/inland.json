@@ -1,13 +1,104 @@
 {
  "name": "Inland",
- "updated": "2026-11-26T23:51:43+00:00",
+ "updated": "2026-11-27T12:23:22+00:00",
  "items": [
+  {
+   "t": "Warnung an Putin: Trump ändert einseitig Erklärung mit Rutte",
+   "s": "Der US-Präsident ändert eine gemeinsam mit Nato-Generalsekretär Rutte vereinbarte Erklärung im Nachhinein ab. Rutte will davon nichts gewusst haben.",
+   "u": "https://taz.de/Warnung-an-Putin/!6233818/",
+   "q": "taz",
+   "d": "2026-11-27T11:45:00+00:00"
+  },
+  {
+   "t": "Kürzungen bei „Demokratie leben“: Initiativen richten sich mit Hilferuf an Prien",
+   "s": "Abgelehnte Demokratie-Initiativen appellieren an die Familienministerin, sie zu retten. Im Ministerium wird die zuständige Abteilungsleiterin abgesetzt.",
+   "u": "https://taz.de/Kuerzungen-bei-Demokratie-leben/!6233810/",
+   "q": "taz",
+   "d": "2026-11-27T11:42:00+00:00"
+  },
   {
    "t": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
    "s": "Die Debatte über die \"Rente mit 63\" wird zunehmend unübersichtlich: Welche Vorschläge werden aktuell diskutiert? Was deutet auf Bewegung innerhalb der Koalition hin? Und warum ist das Thema so umstritten? Ein Überblick.",
    "u": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-26T19:16:09+00:00"
+   "d": "2026-11-27T11:09:55+00:00"
+  },
+  {
+   "t": "Streit um Rentenreform: Arbeitsminister Schweitzer optimistisch",
+   "s": "Die Koalition ringt weiter um die Rentenreform. Arbeitsminister Schweitzer ist optimistisch, dass es bald zu einer Einigung kommt. Es lägen gute Vorschläge auf dem Tisch, sagte er im Bundestag. Dort wurde des Etat seines Ministeriums debattiert.",
+   "u": "https://www.tagesschau.de/inland/bundestag-haushalt-rentenreform-schweitzer-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T11:07:08+00:00"
+  },
+  {
+   "t": "Tagebuch aus Litauen: Dort im Schloss, wo sich die Menschen unterstützen",
+   "s": "Viele Geflüchtete aus Belarus kommen nach Vilnius. Hier gibt es ein Haus, in dem sie mehr als nur Schutz und Wohnraum finden. Es lebt von Spenden.",
+   "u": "https://taz.de/Tagebuch-aus-Litauen/!6225360/",
+   "q": "taz",
+   "d": "2026-11-27T09:46:00+00:00"
+  },
+  {
+   "t": "Gesetzentwurf zur Grunderwerbsteuer: Finanzminister will Share-Deals eindämmen",
+   "s": "Über Umwege sparen sich Immobilienunternehmer oft die Grunderwerbsteuer. Finanzminister Klingbeil will solche Steuertricks eindämmen. Bringt das was?",
+   "u": "https://taz.de/Gesetzentwurf-zur-Grunderwerbsteuer/!6233080/",
+   "q": "taz",
+   "d": "2026-11-27T09:22:00+00:00"
+  },
+  {
+   "t": "Wahlen in Neuseeland: Unerwartete Königsmacher in Neuseeland",
+   "s": "Drei Wochen nach der Parlamentswahl steht Neuseeland vor einer schwierigen Regierungsbildung. Die kleine Zentrumspartei Opportunity wird entscheidend.",
+   "u": "https://taz.de/Wahlen-in-Neuseeland/!6233784/",
+   "q": "taz",
+   "d": "2026-11-27T09:20:00+00:00"
+  },
+  {
+   "t": "Tarifeinigung Metall- und Elektrobranche: Standortzusage an erster Stelle",
+   "s": "Beschäftigte der größten Industriebranche bekommen 4,3 Prozent mehr Geld. Gewerkschaft akzeptiert neues Instrument, das Arbeitgebern mehr Freiheiten gibt",
+   "u": "https://taz.de/Tarifeinigung-Metall--und-Elektrobranche/!6233782/",
+   "q": "taz",
+   "d": "2026-11-27T08:35:00+00:00"
+  },
+  {
+   "t": "Parteitag in Dresden: Wie hält es das BSW mit der AfD?",
+   "s": "Das BSW ringt um den Kurs zur AfD: Die Parteispitze betont Distanz, in Sachsen-Anhalt kommen sich beide Parteien aber recht nahe. Bringt der Parteitag in Dresden einen Richtungsentscheid? Von Maximilian Ulrich.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/bsw-parteitag-afd-sachsen-anhalt-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T08:22:38+00:00"
+  },
+  {
+   "t": "NS-Kulturpolitik: Als die Kritiker nur noch loben durften",
+   "s": "Wer über einen Theaterabend oder eine Ausstellung schreibt, soll ausschließlich lobende Worte finden. So wollte es NS-Propagandaminister Joseph Goebbels, der Präsident der Reichskulturkammer war. Am 27. November 1936 verbot er die freie Kunstkritik.Reinhardt, Anja",
+   "u": "https://www.deutschlandfunk.de/27-11-1936-ns-propagandaminister-joseph-goebbels-verbietet-die-kunstkritik-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-27T08:05:00+00:00"
+  },
+  {
+   "t": "Das BSW ringt um seinen Kurs gegenüber der AfD",
+   "s": "Der Streit über den \"Magdeburger Weg\" spaltet das BSW vor dem Bundesparteitag in Dresden. Die Partei schließe eine Koalition mit der AfD in Sachsen-Anhalt ebenso aus wie eine Tolerierung einer AfD-Landesregierung, sagt Co-Vorsitzender Fabio De Masi.Heuer, Christine",
+   "u": "https://www.deutschlandfunk.de/bsw-bundesparteitag-und-magdeburger-weg-interview-fabio-de-masi-bsw-100.html",
+   "q": "Deutschlandfunk",
+   "d": "2026-11-27T07:15:00+00:00"
+  },
+  {
+   "t": "Streit ums Geld: EU-Gipfel vorzeitig beendet",
+   "s": "Ein Ende des Streits um den EU-Haushalt ist nicht in Sicht, kurz vor Mitternacht wurden die Verhandlungen abgebrochen. Nächster Versuch: kurz vor Weihnachten.",
+   "u": "https://taz.de/Streit-ums-Geld/!6233780/",
+   "q": "taz",
+   "d": "2026-11-27T07:10:00+00:00"
+  },
+  {
+   "t": "Raus aus der China-Falle: Aufbruch nach Indien",
+   "s": "Deutsche Unternehmen suchen neue Märkte und verlässliche Partner. Indien lockt mit Wachstum, Fachkräften und einem Handelsabkommen mit der EU.",
+   "u": "https://taz.de/Raus-aus-der-China-Falle/!6233477/",
+   "q": "taz",
+   "d": "2026-11-27T06:52:00+00:00"
+  },
+  {
+   "t": "Rekordhohe Arbeitslosigkeit bei Menschen mit Schwerbehinderung",
+   "s": "Menschen mit Schwerbehinderung bekommen die gesamtwirtschaftliche Lage besonders stark zu spüren. Die Arbeitslosenquote bei ihnen lag im Jahresdurchschnitt 2025 mit zwölf Prozent fast doppelt so hoch wie im gesamten Arbeitsmarkt.",
+   "u": "https://www.tagesschau.de/inland/gesellschaft/schwerbehinderung-arbeitslose-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T04:13:07+00:00"
   },
   {
    "t": "Zusammenarbeit von AfD und BSW: Ein Freund, ein guter Freund",
@@ -78,97 +169,6 @@
    "u": "https://taz.de/Anschlagsplaene-auf-Synagoge/!6233519/",
    "q": "taz",
    "d": "2026-11-26T16:23:00+00:00"
-  },
-  {
-   "t": "Sexarbeit in Deutschland: Strengere Regeln für mehr Schutz?",
-   "s": "Eine Expertenkommission zum Prostituiertenschutz hat ihre Empfehlungen vorgestellt. Soll Sexarbeit weiterhin legal sein oder strenger reguliert werden? Bei dieser Frage gehen die Meinungen in Politik und Gesellschaft weit auseinander. Und: Wie reagiert die SPD auf den Vorschlag der Union zur \"Respekt-Rente\"?Stephanie R…",
-   "u": "https://www.deutschlandfunk.de/vorschlaege-experten-kommission-prostituierten-schutz-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-26T16:00:00+00:00"
-  },
-  {
-   "t": "Vergewaltigungsprozess gegen Depardieu: Immer tieferer Absturz",
-   "s": "Der französische Schauspieler Gérard Depardieu muss wegen Vergewaltigung vor Gericht. Aus der Filmwelt ist er bereits verbannt.",
-   "u": "https://taz.de/Vergewaltigungsprozess-gegen-Depardieu/!6233553/",
-   "q": "taz",
-   "d": "2026-11-26T15:51:00+00:00"
-  },
-  {
-   "t": "Hype um Anthropic und Co: Platzt die KI-Blase?",
-   "s": "Gewaltige Kosten, riskante Finanzierung, Billig-Konkurrenz aus China: Wie stabil ist der Boom US-amerikanischer KI-Firmen? Ökonomen sind sich uneins.",
-   "u": "https://www.deutschlandfunk.de/ki-blase-anthropic-openai-aktien-risiko-wirtschaft-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-26T15:09:00+00:00"
-  },
-  {
-   "t": "Hoffnungsträger in Brasilien: Der Whatsapp-Politiker André Luis Gaspar Janones",
-   "s": "Ein Anwalt aus einfachen Verhältnissen rettete mit seiner Social-Media-Kampagne Lulas Wahl. André Luis Gaspar Janones könnte Brasiliens nächster Präsident werden.",
-   "u": "https://taz.de/Hoffnungstraeger-in-Brasilien/!6233641/",
-   "q": "taz",
-   "d": "2026-11-26T14:50:00+00:00"
-  },
-  {
-   "t": "Justiz in Rumänien: Ex-Präsidentschaftskandidat mit Fußfessel",
-   "s": "In Rumänien wird der ultrarechte Georgescu aus der U-Haft in den Hausarrest entlassen. Die Ermittlungen unter anderem wegen Betrugs laufen weiter.",
-   "u": "https://taz.de/Justiz-in-Rumaenien/!6233554/",
-   "q": "taz",
-   "d": "2026-11-26T14:45:00+00:00"
-  },
-  {
-   "t": "Erzbistum Köln: Rekordschmerzensgeld für Missbrauchsopfer",
-   "s": "Das Erzbistum Köln muss einem Missbrauchsopfer 550.000 Euro Schmerzensgeld zahlen - die bisher höchste Summe in einem solchen Fall. Das Oberlandesgericht Köln sieht die Kirche in der Verantwortung.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-kirche-schmerzensgeld-102.html",
-   "q": "Tagesschau",
-   "d": "2026-11-26T13:37:34+00:00"
-  },
-  {
-   "t": "Protest gegen Mossad im Bundestag: Klöckner prüft Sanktionen nach Blockade im Bundestag",
-   "s": "Bei einer Protestaktion gegen Ex-Mossad-Chef Barnea setzten sich zwei Linken-Abgeordnete vor den Sitzungssaal. Die Bundestagspräsidentin will das ahnden.",
-   "u": "https://taz.de/Protest-gegen-Mossad-im-Bundestag/!6233612/",
-   "q": "taz",
-   "d": "2026-11-26T13:22:00+00:00"
-  },
-  {
-   "t": "Maßstäbe für Völkermord: Vernichtungsabsicht leichter nachweisbar",
-   "s": "Im Völkermord-Verfahren gegen Myanmar hat der Internationale Gerichtshof die Maßstäbe etwas abgesenkt. Was heißt das für das Verfahren gegen Israel?",
-   "u": "https://taz.de/Massstaebe-fuer-Voelkermord/!6233059/",
-   "q": "taz",
-   "d": "2026-11-26T13:11:00+00:00"
-  },
-  {
-   "t": "Kommission für Prostituiertenschutz: Bedeutet Strafe für Freier Schutz für Prostituierte?",
-   "s": "Eine ExpertInnenkommission schlägt eine Annäherung an das nordische Modell der Prostitution vor. Insgesamt soll strenger reguliert werden.",
-   "u": "https://taz.de/Kommission-fuer-Prostituiertenschutz/!6232940/",
-   "q": "taz",
-   "d": "2026-11-26T11:56:00+00:00"
-  },
-  {
-   "t": "Parlamentswahl in Spanien: Rechter Wahlkampf auf Antimigrationskurs",
-   "s": "Vox und Partido Popular machen Migranten für alle Probleme im Wohnungs-, Gesundheits- und Bildungswesen verantwortlich. Die Sozialisten lassen sich nicht darauf ein.",
-   "u": "https://taz.de/Parlamentswahl-in-Spanien/!6233346/",
-   "q": "taz",
-   "d": "2026-11-26T11:54:00+00:00"
-  },
-  {
-   "t": "Zwei Mitglieder von früherer AfD-Jugend dürfen Waffen weiter besitzen",
-   "s": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern waffenrechtliche Erlaubnisse zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-26T11:39:55+00:00"
-  },
-  {
-   "t": "SPD reagiert verhalten auf CDU-Vorstoß zur Rente",
-   "s": "Überzeugt der neue Vorschlag zur \"Rente mit 63\" aus der Union die SPD? Erste Reaktionen von den Sozialdemokraten deuten nicht auf eine Einigung hin. Die Union fordert dagegen, \"die ausgestreckte Hand zu ergreifen\".",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html",
-   "q": "Tagesschau",
-   "d": "2026-11-26T10:41:10+00:00"
-  },
-  {
-   "t": "NS-Kunst im öffentlichen Raum: Hand in Hand mit dem braunen Gestern",
-   "s": "Die Stadtspitze im schwäbischen Vöhringen verteidigt historische NS-Kunst am Rathaus mit Umdeutungen – und reproduziert sie im Stadtmarketing von heute.",
-   "u": "https://taz.de/NS-Kunst-im-oeffentlichen-Raum/!6223489/",
-   "q": "taz",
-   "d": "2026-11-26T10:21:00+00:00"
   }
  ]
 }

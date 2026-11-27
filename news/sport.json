@@ -1,7 +1,21 @@
 {
  "name": "Sport",
- "updated": "2026-11-26T23:51:48+00:00",
+ "updated": "2026-11-27T12:23:30+00:00",
  "items": [
+  {
+   "t": "Wahlen in Neuseeland: Unerwartete Königsmacher in Neuseeland",
+   "s": "Drei Wochen nach der Parlamentswahl steht Neuseeland vor einer schwierigen Regierungsbildung. Die kleine Zentrumspartei Opportunity wird entscheidend.",
+   "u": "https://taz.de/Wahlen-in-Neuseeland/!6233784/",
+   "q": "taz",
+   "d": "2026-11-27T09:20:00+00:00"
+  },
+  {
+   "t": "Raus aus der China-Falle: Aufbruch nach Indien",
+   "s": "Deutsche Unternehmen suchen neue Märkte und verlässliche Partner. Indien lockt mit Wachstum, Fachkräften und einem Handelsabkommen mit der EU.",
+   "u": "https://taz.de/Raus-aus-der-China-Falle/!6233477/",
+   "q": "taz",
+   "d": "2026-11-27T06:52:00+00:00"
+  },
   {
    "t": "Maßstäbe für Völkermord: Vernichtungsabsicht leichter nachweisbar",
    "s": "Im Völkermord-Verfahren gegen Myanmar hat der Internationale Gerichtshof die Maßstäbe etwas abgesenkt. Was heißt das für das Verfahren gegen Israel?",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Internationaler-Gerichtshof-urteilt/!6231504/",
    "q": "taz",
    "d": "2026-11-19T12:42:00+00:00"
-  },
-  {
-   "t": "Dreiergipfel der Nuklearmächte: Wenn Putin plötzlich den Weltfrieden beschwört",
-   "s": "In Shenzhen begrüßt Trump seinen „Freund“ Putin, und Xi warnt vor Atomwaffen. Die Rhetorik der drei Staatsführer steht im Gegensatz zu ihren Handlungen.",
-   "u": "https://taz.de/Dreiergipfel-der-Nuklearmaechte/!6231424/",
-   "q": "taz",
-   "d": "2026-11-19T12:26:00+00:00"
-  },
-  {
-   "t": "Apec-Gipfel in Shenzhen: Chinas Xi schenkt Putin die große Propaganda-Bühne",
-   "s": "Chinas Gastgeber Xi Jinping präsentiert sich beim Gipfel in Shenzhen als Verfechter globalen Freihandels – während Putin Europas Sanktionspolitik als gescheitert darstellt.",
-   "u": "https://taz.de/Apec-Gipfel-in-Shenzhen/!6231090/",
-   "q": "taz",
-   "d": "2026-11-18T13:45:00+00:00"
   }
  ]
 }
