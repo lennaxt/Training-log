@@ -1,7 +1,14 @@
 {
  "name": "Sport",
- "updated": "2026-11-27T23:27:52+00:00",
+ "updated": "2026-11-28T11:47:25+00:00",
  "items": [
+  {
+   "t": "Stadtgespräch aus Seoul: Metalldetektoren gegen KI-Betrug",
+   "s": "Die südkoreanische Aufnahmeprüfung Suneung ist ein Großereignis im Land. Damit Schü­le­r*in­nen keine KI nutzen, gibt es aufwändigste Sicherheitsvorkehrungen.",
+   "u": "https://taz.de/Stadtgespraech-aus-Seoul/!6227894/",
+   "q": "taz",
+   "d": "2026-11-28T10:52:00+00:00"
+  },
   {
    "t": "Wahlen in Neuseeland: Unerwartete Königsmacher in Neuseeland",
    "s": "Drei Wochen nach der Parlamentswahl steht Neuseeland vor einer schwierigen Regierungsbildung. Die kleine Zentrumspartei Opportunity wird entscheidend.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Myanmars-Gewalt-gegen-Rohingya/!6231433/",
    "q": "taz",
    "d": "2026-11-19T16:41:00+00:00"
-  },
-  {
-   "t": "Internationaler Gerichtshof urteilt: Das war Völkermord",
-   "s": "Bei einer Militäroffensive 2017 wurden in Myanmar Hunderttausende Rohingya vertrieben. Der Internationale Gerichtshof hat das nur als Völkermord verurteilt.",
-   "u": "https://taz.de/Internationaler-Gerichtshof-urteilt/!6231504/",
-   "q": "taz",
-   "d": "2026-11-19T12:42:00+00:00"
   }
  ]
 }

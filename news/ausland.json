@@ -1,13 +1,48 @@
 {
  "name": "Ausland",
- "updated": "2026-11-27T23:27:48+00:00",
+ "updated": "2026-11-28T11:47:19+00:00",
  "items": [
   {
-   "t": "Schiffsunglück vor Ibiza: Gefahr für Umwelt gering",
-   "s": "Der Öltanker \"Med Emre\" treibt kieloben im Mittelmeer vor Ibiza. Eine größere Gefahr für die Umwelt geht von ihm nach ersten Erkenntnissen aber wohl nicht aus. Inzwischen wird die Abschleppung des Schiffs geplant.",
-   "u": "https://www.tagesschau.de/ausland/europa/tankerunglueck-ibiza-vorsichtige-entwarnung-100.html",
+   "t": "Mehrere Opfer bei Explosion nahe einer Schule in Afghanistan",
+   "s": "Nahe einer Schule im Osten Afghanistans hat es eine Explosion gegeben. Durch die Detonation sind offenbar mehrere Schüler getötet worden. Die Behörden sprechen von Fahrlässigkeit.",
+   "u": "https://www.tagesschau.de/ausland/asien/explosion-an-schule-in-afghanistan-100.html",
    "q": "Tagesschau",
-   "d": "2026-11-27T15:03:21+00:00"
+   "d": "2026-11-28T11:07:26+00:00"
+  },
+  {
+   "t": "Mitarbeiter von Ärzte ohne Grenzen im Gazastreifen getötet",
+   "s": "Israel wirft der Hamas im Gazastreifen immer wieder vor, sich als humanitäre Helfer auszugeben. Nun hat das Militär bei einem Angriff zwei Wachleute von Ärzte ohne Grenzen getötet. Die Hilfsorganisation zeigt sich empört.",
+   "u": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-hamas-aerzte-ohne-grenzen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-28T09:58:16+00:00"
+  },
+  {
+   "t": "Volksabstimmung: Darf die Schweiz bald einfacher Waffen verkaufen?",
+   "s": "Das Schweizer Recht erlaubt den Export von Rüstungsgütern nur unter engen Vorgaben. Das schwäche die Sicherheit des Landes, meint die Regierung. Sie will das ändern - und lässt die Schweizer am Sonntag darüber abstimmen. Von S. Biegger.",
+   "u": "https://www.tagesschau.de/ausland/europa/schweiz-abstimmung-kriegsmaterialgesetz-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-28T09:45:23+00:00"
+  },
+  {
+   "t": "Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg",
+   "s": "Malawi leidet unter einer extremen Treibstoffkrise. Die fragile Wirtschaft hängt vom Tabakexport ab - zu schwachen Deviseneinnahmen kommt die Lage an der Straße von Hormus hinzu. Die Krise wirkt sich auf alle Lebensbereiche aus. Von C. Hauck.",
+   "u": "https://www.tagesschau.de/ausland/afrika/malawi-treibstoffkrise-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-28T03:34:41+00:00"
+  },
+  {
+   "t": "US-Militär beschießt Frachter im Golf von Oman",
+   "s": "Im Golf von Oman hat das US-Militär nach eigenen Angaben ein Handelsschiff beschossen. Die Besatzung habe versucht, die US-Blockade iranischer Häfen zu durchbrechen. Das Schiff sei manövrierunfähig, die Crew unverletzt.",
+   "u": "https://www.tagesschau.de/ausland/asien/iran-usa-frachter-beschuss-golf-oman-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-28T03:27:38+00:00"
+  },
+  {
+   "t": "Durchsuchung bei Le Pens früherem Bürochef",
+   "s": "Er soll vertrauliche Informationen aus dem Innenministerium erhalten haben: In Frankreich sind die Parteizentrale des Rassemblement National und die Wohnung des früheren Bürochefs von Präsidentschaftskandidatin Le Pen durchsucht worden.",
+   "u": "https://www.tagesschau.de/ausland/europa/frankreich-durchsuchung-ex-mitarbeiter-le-pen-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-28T01:41:50+00:00"
   },
   {
    "t": "Serbiens Studenten nominieren Professor als Staatsoberhaupt",
@@ -22,20 +57,6 @@
    "u": "https://www.tagesschau.de/ausland/europa/eu-haushalt-gipfel-analyse-100.html",
    "q": "Tagesschau",
    "d": "2026-11-27T13:18:17+00:00"
-  },
-  {
-   "t": "UN sieht fünf \"Hunger-Hotspots\": Ernährungskrisen verschärfen sich",
-   "s": "Krieg, Dürre und Budgetkürzungen bei Hilfsorganisationen. Die UN sehen fünf Länder auf eine gefährliche Hungerkrise zusteuern und warnen vor den Auswirkungen. Die Welt müsse nun schnell handeln. Von Tilman Kleinjung.",
-   "u": "https://www.tagesschau.de/ausland/afrika/vereinte-nationen-hunger-hotspots-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-27T12:09:57+00:00"
-  },
-  {
-   "t": "Polizistin in Kabul: Verhüllt im Dienst für das Taliban-Regime",
-   "s": "In Afghanistan haben Frauen kaum noch Rechte. In der Öffentlichkeit muss ihr Gesicht verhüllt sein, Bildung ist kaum möglich. Dennoch arbeiten einige Frauen bei der Polizei und sind so Teil des Systems der Taliban. Von F. Amler.",
-   "u": "https://www.tagesschau.de/ausland/asien/taliban-polizistin-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-27T11:11:16+00:00"
   },
   {
    "t": "Westjordanland: Israelische Politiker sprechen von \"jüdischem Terror\"",
@@ -148,27 +169,6 @@
    "u": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
    "q": "Tagesschau",
    "d": "2026-11-25T21:10:04+00:00"
-  },
-  {
-   "t": "Bestechungsvorwurf gegen Netanjahu könnte fallen gelassen werden",
-   "s": "Seit Jahren muss sich Israels Premier wegen Betrugs, Untreue und Bestechlichkeit vor Gericht verantworten. Jetzt haben Richter empfohlen, den letzten Anklagepunkt fallen zu lassen. Netanjahu sieht den ganzen Prozess als gescheitert.",
-   "u": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T19:50:08+00:00"
-  },
-  {
-   "t": "EU-Kommission erlaubt weiter Staatshilfen für Landwirte und Industrie",
-   "s": "Landwirte, Industrie und andere Unternehmen können wegen der anhaltenden Energiekrise weiterhin mit staatlichen Zuschüssen rechnen. Laut EU-Kommission bleibt es bis mindestens Ende Juni 2027 bei den gelockerten Regeln zur Beihilfe.",
-   "u": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T16:29:03+00:00"
-  },
-  {
-   "t": "USA kündigen neue Zölle an - auch gegen EU und China",
-   "s": "Die USA haben neue Sonderzölle gegen die EU und weitere Handelspartner angekündigt. Für betroffene EU-Produkte ist ein Zollsatz von 15 Prozent vorgesehen, auf chinesische Waren soll eine Abgabe von 20 Prozent fällig werden.",
-   "u": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
-   "q": "Tagesschau",
-   "d": "2026-11-25T15:18:25+00:00"
   }
  ]
 }

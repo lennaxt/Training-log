@@ -1,7 +1,21 @@
 {
  "name": "Kultur",
- "updated": "2026-11-27T23:27:51+00:00",
+ "updated": "2026-11-28T11:47:24+00:00",
  "items": [
+  {
+   "t": "Gas-Pipeline in Alaska: Auf wankendem Grund",
+   "s": "Donald Trump will eine 1.300 Kilometer lange Pipeline quer durch Alaska bauen. Doch der Boden, auf dem sie stehen soll, taut.",
+   "u": "https://taz.de/Gas-Pipeline-in-Alaska/!6227863/",
+   "q": "taz",
+   "d": "2026-11-28T09:45:00+00:00"
+  },
+  {
+   "t": "Ärger um Francesca Albanese: Costa Rica verweigert UN-Sonderberichterstatterin Einreise",
+   "s": "Sie sollte die Ehrendoktorwürde einer Uni erhalten, wurde aber aus „Gründen der nationalen Sicherheit“ nicht ins Land gelassen. Das UN-Kommissariat zeigt sich „tief besorgt“.",
+   "u": "https://taz.de/Aerger-um-Francesca-Albanese/!6234022/",
+   "q": "taz",
+   "d": "2026-11-28T09:25:00+00:00"
+  },
   {
    "t": "Der Auslands-Podcast der taz: 10 Jahre Friedensabkommen in Kolumbien – ist Aussöhnung möglich?",
    "s": "Wo steht das historische Friedensabkommen in einem polarisierten Kolumbien? Unsere Korrespondentin berichtet über ihre Recherche zu Tätern und Opfern.",
@@ -155,20 +169,6 @@
    "u": "https://taz.de/Argentiniens-Kettensaegen-Praesident/!6230090/",
    "q": "taz",
    "d": "2026-11-15T10:10:00+00:00"
-  },
-  {
-   "t": "Republikaner nach den Midterms: Angst und Gehorsam",
-   "s": "Nach der krachenden Wahlniederlage bei den US-Zwischenwahlen ist innerhalb der Republikanischen Partei vieles ungewiss. Bricht die Post-Trump-Ära an?",
-   "u": "https://taz.de/Republikaner-nach-den-Midterms/!6224380/",
-   "q": "taz",
-   "d": "2026-11-14T15:15:00+00:00"
-  },
-  {
-   "t": "Spionage, Politik und Klima: Wer das Gelächter nicht ehrt, ist die Greta nicht wert",
-   "s": "Huang, Hegseth, Thunberg – gleich drei VIPS sind diese Woche über ihr Lächeln gestolpert. Unsere Kolumnistin ist trotzdem fürs Weitermachen.",
-   "u": "https://taz.de/Spionage-Politik-und-Klima/!6224491/",
-   "q": "taz",
-   "d": "2026-11-14T14:51:00+00:00"
   }
  ]
 }

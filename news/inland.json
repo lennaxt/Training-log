@@ -1,7 +1,63 @@
 {
  "name": "Inland",
- "updated": "2026-11-27T23:27:47+00:00",
+ "updated": "2026-11-28T11:47:18+00:00",
  "items": [
+  {
+   "t": "Stadtgespräch aus Seoul: Metalldetektoren gegen KI-Betrug",
+   "s": "Die südkoreanische Aufnahmeprüfung Suneung ist ein Großereignis im Land. Damit Schü­le­r*in­nen keine KI nutzen, gibt es aufwändigste Sicherheitsvorkehrungen.",
+   "u": "https://taz.de/Stadtgespraech-aus-Seoul/!6227894/",
+   "q": "taz",
+   "d": "2026-11-28T10:52:00+00:00"
+  },
+  {
+   "t": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
+   "s": "Der Vorschlag des Arbeitsministers zur Reform der Rente liegt auf dem Tisch - und der Gegenwind aus der Union ist recht rau. Dem Koalitionspartner stößt auf, dass die \"Rente mit 63\" im Kern erhalten bleibt. Doch nicht nur das.",
+   "u": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+   "q": "Tagesschau",
+   "d": "2026-11-28T10:11:40+00:00"
+  },
+  {
+   "t": "Gas-Pipeline in Alaska: Auf wankendem Grund",
+   "s": "Donald Trump will eine 1.300 Kilometer lange Pipeline quer durch Alaska bauen. Doch der Boden, auf dem sie stehen soll, taut.",
+   "u": "https://taz.de/Gas-Pipeline-in-Alaska/!6227863/",
+   "q": "taz",
+   "d": "2026-11-28T09:45:00+00:00"
+  },
+  {
+   "t": "Ärger um Francesca Albanese: Costa Rica verweigert UN-Sonderberichterstatterin Einreise",
+   "s": "Sie sollte die Ehrendoktorwürde einer Uni erhalten, wurde aber aus „Gründen der nationalen Sicherheit“ nicht ins Land gelassen. Das UN-Kommissariat zeigt sich „tief besorgt“.",
+   "u": "https://taz.de/Aerger-um-Francesca-Albanese/!6234022/",
+   "q": "taz",
+   "d": "2026-11-28T09:25:00+00:00"
+  },
+  {
+   "t": "Präsidentschaftswahlkampf in Frankreich: Büro und Wohnung von Marine Le Pens Ex-Bürochef durchsucht",
+   "s": "Die Affäre wegen Veruntreuung von EU-Geldern hängt Marine Le Pen nach. Wurden der Kandidatin der Rechtsextremen vertrauliche Infos zugespielt?",
+   "u": "https://taz.de/Praesidentschaftswahlkampf-in-Frankreich/!6234021/",
+   "q": "taz",
+   "d": "2026-11-28T08:44:00+00:00"
+  },
+  {
+   "t": "Grüne wollen Bürokratie abbauen: Wie viele Verordnungen braucht das Land?",
+   "s": "Weniger Berichtspflicht, mehr Effizienz: Beim Parteitag setzen die Grünen auf Bürokratieabbau. Doch so einfach ist das nicht.",
+   "u": "https://taz.de/Gruene-wollen-Buerokratie-abbauen/!6227920/",
+   "q": "taz",
+   "d": "2026-11-28T07:42:00+00:00"
+  },
+  {
+   "t": "Nach niedrigen Pegelständen im Sommer: Umweltminister will Rhein umbauen",
+   "s": "Niedrige Pegelstände an deutschen Flüssen führten im Sommer zu erheblichen Wirtschaftsschäden. Umweltminister Schneider fordert nun massive Investitionen in die Wasserinfrastruktur. Er will dem Rhein mehr Platz geben.",
+   "u": "https://www.tagesschau.de/inland/umweltminister-schneider-rhein-umbau-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-28T07:16:29+00:00"
+  },
+  {
+   "t": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
+   "s": "Ein werktags berechneter Höchstpreis, Bußgeld bei Nichteinhaltung und Ausnahmen an Autobahnen: Der Spritpreisdeckel soll ab Januar gelten. Ein Entwurf ist nun in der Abstimmung. Das Kabinett könnte darüber am Mittwoch entscheiden.",
+   "u": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-27T23:35:35+00:00"
+  },
   {
    "t": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
    "s": "In den tagesthemen hat Bundesarbeitsminister Schweitzer seine Rentenpläne als Grundlage für einen Konsens bezeichnet. Man stabilisiere damit die Beiträge und tue etwas \"für die Fleißigen, die lange gearbeitet haben\".",
@@ -25,7 +81,7 @@
   },
   {
    "t": "Neue Daten der WHO: Warum in Russland weniger gesoffen wird",
-   "s": "Der Alkoholkonsum der Russen geht zurück: so sehr, dass die Deutschen mittlerweile mehr als sie trinken. In welchen Ländern noch mehr getrunken wird.",
+   "s": "Der Alkoholkonsum der Russen geht zurück – so sehr, dass die Deutschen mittlerweile mehr als sie trinken. In welchen Ländern noch mehr getrunken wird.",
    "u": "https://taz.de/Alkoholkonsum-niedriger-als-in-Deutschland-Warum-trinken-die-Russen-nicht-mehr-so-viel/!6234000/",
    "q": "taz",
    "d": "2026-11-27T19:19:00+00:00"
@@ -113,62 +169,6 @@
    "u": "https://taz.de/Russische-Attrappen-im-Ukraine-Krieg/!6233983/",
    "q": "taz",
    "d": "2026-11-27T15:59:00+00:00"
-  },
-  {
-   "t": "Antisemitismus bei Frankreichs Rechten: „Keine Jugendsünde, sondern eine Schweinerei“",
-   "s": "Jordan Bardella, Chef des rechtsextremen Rassemblement National, steht erneut wegen Antisemitismus unter Druck und streitet weiter alles ab.",
-   "u": "https://taz.de/Antisemitismus-bei-Frankreichs-Rechten/!6233804/",
-   "q": "taz",
-   "d": "2026-11-27T15:23:00+00:00"
-  },
-  {
-   "t": "Haushalt 2027 geschafft – und jetzt kommt das Schwierige",
-   "s": "Der Bundestag hat den Haushalt 2027 nach einigen Turbulenzen beschlossen. Grund zum Aufatmen gibt es nicht für die Regierung Merz. Viele Streitpunkte sind ungeklärt. Die Etatplanungen ab 2028 werden laut Experten noch schwieriger.",
-   "u": "https://www.deutschlandfunk.de/bundeshaushalt-2027-neuverschuldung-merz-kritik-100.html",
-   "q": "Deutschlandfunk",
-   "d": "2026-11-27T15:22:00+00:00"
-  },
-  {
-   "t": "Höchststand bei Verteidigungsausgaben: Bundestag beschließt Haushalt",
-   "s": "Das Parlament hat den Haushalt für das kommende Jahr auf den Weg gebracht. Der Finanzminister sieht für kommendes Jahr die privaten Investoren am Zug.",
-   "u": "https://taz.de/Hoechststand-bei-Verteidigungsausgaben/!6233979/",
-   "q": "taz",
-   "d": "2026-11-27T15:13:00+00:00"
-  },
-  {
-   "t": "Gesetzentwurf aus dem Arbeitsministerium: Schweitzer will die Rente mit 63 erhalten",
-   "s": "Der Arbeitsminister legt einen Entwurf für die Rentenreform vor. Nun muss das Kabinett sich um einen Kompromiss bemühen.",
-   "u": "https://taz.de/Gesetzentwurf-aus-dem-Arbeitsministerium/!6233988/",
-   "q": "taz",
-   "d": "2026-11-27T15:04:00+00:00"
-  },
-  {
-   "t": "Prozessauftakt nach Brandanschlägen: „Es ging halt nicht anders“",
-   "s": "Ein Ex-Funktionär der Partei „Die Basis“ gesteht seine Angriffe auf Büros der etablierten Parteien in Flensburg – und erklärt sie für alternativlos.",
-   "u": "https://taz.de/Prozessauftakt-nach-Brandanschlaegen/!6233324/",
-   "q": "taz",
-   "d": "2026-11-27T14:58:00+00:00"
-  },
-  {
-   "t": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
-   "s": "Der Zentralrat der Juden positioniert sich seit Langem klar gegen die AfD. Parteichefin Weidel warf der Organisation nun vor, sie sei von der CDU \"fremdgesteuert\". Der Präsident des Zentralrats reagierte mit deutlichen Worten.",
-   "u": "https://www.tagesschau.de/inland/innenpolitik/zentralrat-der-juden-kritik-afd-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-27T14:13:55+00:00"
-  },
-  {
-   "t": "Deutschland: Beginn der Ski-Saison - mit Neuschnee und höheren Preisen",
-   "s": "Es ist ausreichend Schnee gefallen, es ist kalt genug und das Wetter spielt auch mit: In Deutschland hat Ski-Saison begonnen - an der Zugspitze und im Sauerland. Wintersportler müssen allerdings wieder tiefer in die Tasche greifen.",
-   "u": "https://www.tagesschau.de/inland/gesellschaft/ski-saison-deutschland-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-27T14:12:31+00:00"
-  },
-  {
-   "t": "Spionageverdacht: Ex-BND-Chef Hanning bleibt in Untersuchungshaft",
-   "s": "Die Festnahme des Ex-BND-Chefs Hanning hatte im Oktober international Schlagzeilen produziert. Nun steht fest, dass der 80-Jährige vorerst in Haft bleibt. Gegen Hanning wird unter anderem wegen Spionageverdachts ermittelt.",
-   "u": "https://www.tagesschau.de/inland/bnd-hanning-untersuchungshaft-spionageverdacht-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-27T14:10:01+00:00"
   }
  ]
 }

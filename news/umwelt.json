@@ -1,7 +1,14 @@
 {
  "name": "Umwelt",
- "updated": "2026-11-27T23:27:50+00:00",
+ "updated": "2026-11-28T11:47:22+00:00",
  "items": [
+  {
+   "t": "Grüne wollen Bürokratie abbauen: Wie viele Verordnungen braucht das Land?",
+   "s": "Weniger Berichtspflicht, mehr Effizienz: Beim Parteitag setzen die Grünen auf Bürokratieabbau. Doch so einfach ist das nicht.",
+   "u": "https://taz.de/Gruene-wollen-Buerokratie-abbauen/!6227920/",
+   "q": "taz",
+   "d": "2026-11-28T07:42:00+00:00"
+  },
   {
    "t": "Die Linke nach Emde-Rauswurf: Partei in Bewegung",
    "s": "Der Fall Emde offenbart die Konflikte, die aus dem Erfolg der Linken gewachsen sind. Bei den kommenden Landtagswahlen könnte das für Probleme sorgen.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Kommission-fuer-Prostituiertenschutz/!6232940/",
    "q": "taz",
    "d": "2026-11-26T11:56:00+00:00"
-  },
-  {
-   "t": "Rente mit 63: Union schlägt Kompromiss vor – SPD skeptisch",
-   "s": "Die CDU zeigt sich kompromissbereit: Menschen mit geringem Einkommen sollen auch weiter nach 45 Beitragsjahren abschlagsfrei in Rente gehen können.",
-   "u": "https://taz.de/Abschaffung-der-Rente-mit-63-CDU-schlaegt-Kompromiss-vor/!6233450/",
-   "q": "taz",
-   "d": "2026-11-26T07:34:00+00:00"
   }
  ]
 }

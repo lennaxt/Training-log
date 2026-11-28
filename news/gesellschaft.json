@@ -1,7 +1,14 @@
 {
  "name": "Gesellschaft",
- "updated": "2026-11-27T23:27:51+00:00",
+ "updated": "2026-11-28T11:47:23+00:00",
  "items": [
+  {
+   "t": "Präsidentschaftswahlkampf in Frankreich: Büro und Wohnung von Marine Le Pens Ex-Bürochef durchsucht",
+   "s": "Die Affäre wegen Veruntreuung von EU-Geldern hängt Marine Le Pen nach. Wurden der Kandidatin der Rechtsextremen vertrauliche Infos zugespielt?",
+   "u": "https://taz.de/Praesidentschaftswahlkampf-in-Frankreich/!6234021/",
+   "q": "taz",
+   "d": "2026-11-28T08:44:00+00:00"
+  },
   {
    "t": "EU-Haushalt: Es geht nicht nur um Geld, sondern auch um eine Vision",
    "s": "Beim neuen EU-Haushalt gibt es viele Konfliktpunkte: Ukrainehilfen, Subventionen, Regionalförderung. Was die EU sein will, muss geklärt werden.",
@@ -162,13 +169,6 @@
    "u": "https://taz.de/Atomwaffen-im-All/!6227623/",
    "q": "taz",
    "d": "2026-11-24T17:03:00+00:00"
-  },
-  {
-   "t": "Jedes zweite Opfer ein Kind: Zahl der Landminen-Opfer steigt wieder",
-   "s": "Sie sind unsichtbar und brandgefährlich: Landminen. Trotzdem setzen sie viele Länder weiterhin ein, manche verlassen das Anti-Landminen-Abkommen.",
-   "u": "https://taz.de/Jedes-zweite-Opfer-ein-Kind/!6232668/",
-   "q": "taz",
-   "d": "2026-11-24T08:53:00+00:00"
   }
  ]
 }

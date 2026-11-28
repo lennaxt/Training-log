@@ -1,7 +1,14 @@
 {
  "name": "Wirtschaft",
- "updated": "2026-11-27T23:27:49+00:00",
+ "updated": "2026-11-28T11:47:20+00:00",
  "items": [
+  {
+   "t": "So einfach kann man schlüssellose Autos mit Keyless Go knacken",
+   "s": "Autos, die ohne Schlüssel starten, haben eine Sicherheitslücke. Für Halter stellt sich die Frage: Wenn das Auto geklaut wird, zahlt jemand für den Schaden? Von H. Beckmann und L.-M. Hiltscher.",
+   "u": "https://www.tagesschau.de/wirtschaft/digitales/keyless-cars-sicherheitsluecke-100.html",
+   "q": "Tagesschau",
+   "d": "2026-11-28T07:21:53+00:00"
+  },
   {
    "t": "Marktbericht: Schnäppchenjagd an der Börse",
    "s": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen.",
@@ -162,13 +169,6 @@
    "u": "https://www.tagesschau.de/wirtschaft/verbraucher/black-friday-schnaeppchen-wahnsinn-100.html",
    "q": "Tagesschau",
    "d": "2026-11-26T10:54:56+00:00"
-  },
-  {
-   "t": "Digitaler Führerschein startet ab Mitte Dezember",
-   "s": "Ab Ende November sollten Autofahrer in Deutschland eigentlich den digitalen Führerschein nutzen können. Doch der Start verzögert sich. Nun soll es Mitte Dezember losgehen.",
-   "u": "https://www.tagesschau.de/wirtschaft/verbraucher/digitaler-fuehrerschein-verspaetung-start-mitte-dezember-100.html",
-   "q": "Tagesschau",
-   "d": "2026-11-26T07:10:45+00:00"
   }
  ]
 }
